@@ -12,9 +12,9 @@ enterprise-level security, Microsoft Dynamics 365 Remote Assist enables
 communication with peace of mind.
 
 ### See also
-[Requirements](requirements.md)
-[Buy and deploy](../licensing/buy-and-deploy.md)
-[User Guide](user-guide.md)
-[Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)
-[FAQ](faq.md)
+[Requirements](requirements.md)<br/>
+[Buy and deploy](../licensing/buy-and-deploy.md)<br/>
+[User Guide](user-guide.md)<br/>
+[Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
+[FAQ](faq.md)<br/>
 Support

@@ -53,10 +53,10 @@ Teams](https://docs.microsoft.com/en-us/MicrosoftTeams/prepare-network) to learn
 more.
 
 ### See also
-[Overview of Remote Assist](index.md)
-[Buy and deploy](../licensing/buy-and-deploy.md)
-[User Guide](user-guide.md)
-[Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)
-[How-to videos](videos.md)
-[FAQ](faq.md)
+[Overview of Remote Assist](index.md)<br/>
+[Buy and deploy](../licensing/buy-and-deploy.md)<br/>
+[User Guide](user-guide.md)<br/>
+[Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
+[How-to videos](videos.md)<br/>
+[FAQ](faq.md)<br/>
 Support

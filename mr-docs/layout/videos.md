@@ -44,6 +44,6 @@ Dynamics 365 Import Tool (Preview) (PC)
 PC](https://www.microsoft.com/videoplayer/embed/RE26pm2)
 
 ### See also
-[Overview of Layout](index.md)
-[User Guide](user-guide.md)
-[FAQ](faq.md)
+[Overview of Layout](index.md)<br/>
+[User Guide](user-guide.md)<br/>
+[FAQ](faq.md)<br/>

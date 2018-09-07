@@ -232,6 +232,6 @@ To make changes to edits, do one of the following:
 can make changes to or delete pictures added by an expert.
 
 ### See also
-[User Guide](user-guide.md)
-[How-to videos](videos.md)
-[FAQ](faq.md)
+[User Guide](user-guide.md)<br/>
+[How-to videos](videos.md)<br/>
+[FAQ](faq.md)<br/>

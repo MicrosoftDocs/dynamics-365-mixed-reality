@@ -444,6 +444,6 @@ you would any Dynamics 365
 view](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-and-edit-views).
 
 ### See also
-[Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)
-[How-to videos](videos.md)
-[FAQ](faq.md)
+[Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
+[How-to videos](videos.md)<br/>
+[FAQ](faq.md)<br/>

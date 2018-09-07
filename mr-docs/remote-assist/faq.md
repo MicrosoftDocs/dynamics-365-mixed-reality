@@ -115,8 +115,8 @@ Still need help? Try our [user
 forums](https://techcommunity.microsoft.com/t5/Mixed-Reality/ct-p/MixedReality). 
 
 ### See also
-[Overview of Remote Assist](index.md)
-[Requirements](requirements.md)
-[User Guide](user-guide.md)
-[Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)
-[How-to videos](videos.md)
+[Overview of Remote Assist](index.md)<br/>
+[Requirements](requirements.md)<br/>
+[User Guide](user-guide.md)<br/>
+[Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
+[How-to videos](videos.md)<br/>

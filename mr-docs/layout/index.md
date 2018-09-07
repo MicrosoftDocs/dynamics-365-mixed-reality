@@ -14,8 +14,8 @@ and money.
 Updated art or overview video goes here.
 
 ### See also
-[Device options and technical requirements](requirements.md)
-[Buy and deploy](../licensing/buy-and-deploy.md)
-[User Guide](user-guide.md)
-[How-to videos](videos.md)
-[FAQ](faq.md)
+[Device options and technical requirements](requirements.md)<br/>
+[Buy and deploy](../licensing/buy-and-deploy.md)<br/>
+[User Guide](user-guide.md)<br/>
+[How-to videos](videos.md)<br/>
+[FAQ](faq.md)<br/>
