@@ -35,11 +35,7 @@ Technical requirements
 | Dynamics 365 Import Tool (Preview) | The Import Tool is a companion app that makes model optimization and management easy. The Import Tool runs on Windows 10 PCs, and is required to transfer existing 3D models from your PC to Layout, so they can be viewed and edited from the HoloLens or mixed reality headset. The Import Tool is also required to transfer Visio space dimensions to the HoloLens or Windows Mixed Reality headset. | Import Tool                                                                                                                                                   |
 
 ### See also
-
-Buy and deploy Layout and Import Tool
-
-User Guide
-
-How-to videos
-
-FAQ
+[Buy and deploy](../licensing/buy-and-deploy.md)
+[User Guide](user-guide.md)
+[How-to videos](videos.md)
+[FAQ](faq.md)

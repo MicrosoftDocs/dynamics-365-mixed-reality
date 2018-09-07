@@ -232,9 +232,6 @@ To make changes to edits, do one of the following:
 can make changes to or delete pictures added by an expert.
 
 ### See also
-
-Remote Assist User Guide
-
-How-to videos
-
-FAQ
+[User Guide](user-guide.md)
+[How-to videos](videos.md)
+[FAQ](faq.md)

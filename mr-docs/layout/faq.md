@@ -68,13 +68,8 @@ Still need help? Try our [user
 forums](https://techcommunity.microsoft.com/t5/Mixed-Reality/ct-p/MixedReality).
 
 ### See also
-
-Overview of Layout
-
-Device options and technical requirements
-
-Buy and deploy
-
-User Guide
-
-How-to videos
+[Overview of Layout](index.md)
+[Device options and technical requirements](requirements.md)
+[Buy and deploy](../licensing/buy-and-deploy.md)
+[User Guide](user-guide.md)
+[How-to videos](videos.md)

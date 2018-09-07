@@ -52,18 +52,11 @@ See [Prepare your organization’s network for Microsoft
 Teams](https://docs.microsoft.com/en-us/MicrosoftTeams/prepare-network) to learn
 more.
 
-### See Also
-
-Overview
-
-Buy and deploy
-
-User Guide
-
-Set up and use Microsoft Teams with Remote Assist
-
-How-to videos
-
-FAQ
-
+### See also
+[Overview of Remote Assist](index.md)
+[Buy and deploy](../licensing/buy-and-deploy.md)
+[User Guide](user-guide.md)
+[Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)
+[How-to videos](videos.md)
+[FAQ](faq.md)
 Support

@@ -378,7 +378,5 @@ rotate 3D models.
 | Multi-select | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them.                                                             |
 
 ### See also
-
-How-to videos
-
-FAQ
+[How-to videos](videos.md)
+[FAQ](faq.md)
