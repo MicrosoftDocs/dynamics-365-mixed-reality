@@ -101,7 +101,7 @@ Distribute the apps through the Microsoft Store for Business
         management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
-[Overview of Dynamics 365 Layout](../layout/index.md)
-[Dynamics 365 Layout User Guide](../layout/user-guide.md)
-[Overview of Dynamics 365 Remote Assist](../remote-assist/index.md)
-[Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md)
+[Overview of Dynamics 365 Layout](../layout/index.md)<br/>
+[Dynamics 365 Layout User Guide](../layout/user-guide.md)<br/>
+[Overview of Dynamics 365 Remote Assist](../remote-assist/index.md)<br/>
+[Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md)<br/>
