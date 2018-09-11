@@ -71,7 +71,7 @@ Layout**
 2.  Select **About**, and then select the 32-bit or the 64-bit download (choose
     the one that matches your version of Visio).
 
-3.  Open Visio, and then select **File** \> **Options **\> **Add-ins**.
+3.  Open Visio, and then select **File** \> **Options** \> **Add-ins**.
 
 4.  Next to **Manage**, select **COM Add-ins**, and then select **Go**.
 
