@@ -12,8 +12,7 @@ Need more help? Check out the Layout FAQ for answers to common questions.
 
 Watch how-to videos about Layout.
 
-What you’ll need
-================
+## What you’ll need
 
 -   A subscription to Layout. The Layout subscription also includes the
     Microsoft Dynamics 365 Import Tool (Preview) for PC.
@@ -30,8 +29,7 @@ What you’ll need
 
 -   An internet connection.
 
-Install the apps
-================
+## Install the apps
 
 How you install Layout and the Import Tool depends on how your administrator
 chooses to distribute the apps. Your admin may have you install the app from the
@@ -41,64 +39,20 @@ an email link, or another method. 
 The following table describes the app/tool, and how to install them from the
 public store.
 
-| **App**     | **Device**            | **Use to**                                                                    | **To install from Microsoft store** |
-|-------------|-----------------------|-------------------------------------------------------------------------------|-------------------------------------|
-| Layout      | HoloLens              | Create layouts by scanning your surroundings                                  | On your HoloLens, go to **Start**   |
-| Layout      | Mixed reality headset | Place models in layouts imported from HoloLens or Microsoft Visio             | On your PC go to **Start**          |
-| Import Tool | PC                    | Transfer floorplans from Microsoft Visio to HoloLens or Windows Mixed Reality | On your PC go to **Start**          |
+| **App**     | **Device**            | **Use to**                            | **To install from Microsoft store** |
+|-------------|-----------------------|---------------------------------------------|-------------------------------------|
+| Layout      | HoloLens              | - Create layouts by scanning your surroundings <br> - Place models in your layouts      | On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \>**Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Layout," and then install the app. <br> **Note:** The General Availability version of Layout will not be available until October 1, 2018.   |
+| Layout      | Mixed reality headset | Place models in layouts imported from HoloLens or Microsoft Visio | 1. On your PC go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \>**Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Layout," and then install the app. <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br> **Note:** The General Availability version of Layout will not be available until October 1, 2018.  |
+| Import Tool | PC                    | - Transfer floorplans from Microsoft Visio to HoloLens or Windows Mixed Reality <br> - Transfer layouts between HoloLens and Windows Mixed Reality <br>- Process 3D models for use on HoloLens | On your PC go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \>**Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Import Tool (Preview)," and then install the app. <br> **Note:** Dynamics 365 Import Tool (Preview) will not be available until October 1, 2018.   |
 
--   Place models in your layouts
-
-![](media/d2a2ae5e90bdd0e0642abb5458af1016.png)
-
-\>** Microsoft Store **
-
-![](media/2ac602b5a7855d312f3e7d924732acca.png)
-
-, search for “Dynamics 365 Layout," and then install the app.
-
-**Note:** The General Availability version of Layout will not be available until
-October 1, 2018.
-
-![](media/d2a2ae5e90bdd0e0642abb5458af1016.png)
-
-\>** Microsoft Store **
-
-![](media/2ac602b5a7855d312f3e7d924732acca.png)
-
-, search for “Dynamics 365 Layout," and then install the app.
-
-1.  Connect your mixed reality headset to the PC and find the app on the mixed
-    reality **Start** menu.
-
-**Note:** The General Availability version of Layout will not be available until
-October 1, 2018.
-
--   Transfer layouts between HoloLens and Windows Mixed Reality
-
--   Process 3D models for use on HoloLens
-
-![](media/d2a2ae5e90bdd0e0642abb5458af1016.png)
-
-\>** Microsoft Store **
-
-![](media/2ac602b5a7855d312f3e7d924732acca.png)
-
-, search for “Dynamics 365 Import Tool (Preview)," and then install the app.
-
-**Note:** Dynamics 365 Import Tool (Preview) will not be available until October
-1, 2018.
-
-Use Layout
-==========
+## Use Layout
 
 To use Layout, you create space layouts on your HoloLens or PC, and then use a
 HoloLens or Windows Mixed Reality immersive headset to place 3D models in the
 layouts. The Layout app comes with a set of preinstalled models, and you can
 also add your own.
 
-Create a layout
----------------
+### Create a layout
 
 There are two ways to create a layout:
 
@@ -107,7 +61,7 @@ There are two ways to create a layout:
 
 -   Use Layout on your HoloLens to scan a space.
 
-### Create a layout with Microsoft Visio<br>
+#### Create a layout with Microsoft Visio<br>
 
 **Step 1: Download and install the Visio Add-in for Microsoft Dynamics 365
 Layout**
@@ -135,7 +89,7 @@ Layout**
 
 2.  Select the floor plan, and then select **Open**.
 
-The floor plan will show up automatically in Layout on a mixed reality immersive
+    The floor plan will show up automatically in Layout on a mixed reality immersive
 headset connected to the same PC.
 
 To use the layout on HoloLens, you’ll need to move it there:
@@ -150,7 +104,7 @@ To use the layout on HoloLens, you’ll need to move it there:
 4.  On HoloLens, open the Layout app. You’ll find your layout on the **Layouts**
     tab.
 
-### Create a layout with HoloLens
+#### Create a layout with HoloLens
 
 1.  On your HoloLens, open the Layout app.
 
@@ -167,8 +121,7 @@ headset: 
 3.  Select the check box on the layout you want to send to your PC, and then
     select **Send**.
 
-Convert 3D models for use on HoloLens or Windows Mixed Reality headsets
------------------------------------------------------------------------
+## Convert 3D models for use on HoloLens or Windows Mixed Reality headsets
 
 To use 3D models on HoloLens or your immersive headset, you’ll need to convert
 them to the correct file format using the Import Tool, and then move them to the
@@ -216,83 +169,27 @@ to adhere to a number of prerequisites.
 
 **For the cloud service**
 
-| **File format** | FBX (version 7.5 or earlier) |
+|  Item           |     Description                          |
 |-----------------|------------------------------|
-
-
--   OBJ
-
-    -   SKP (version 6 or earlier)
-
-        -   JT (versions 8 and 9)
-
-            -   STP, STEP (versions AP203 and AP214)
-
-            -   GLTF, GLB
-
-                -   Version 2.0
-
-                -   Extensions: KHR_materials_pbrSpecularGlossiness, MSFT_lod,
-                    MSFT_packing_occlusionRoughnessMetallic,
-                    MSFT_packing_normalRoughnessMetallic, MSFT_texture_dds
-
-| **External files**     | If your model references external files, such as the following, you'll need to create a ZIP file containing the model and the files it references to import the model: |   |   |   |   |   |   |   |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|---|---|---|
-| **Textures**           | Textures are unembedded. Zip your file with the unembedded textures. You can only zip one model at a time with its textures.                                           |   |   |   |   |   |   |   |
-| **Model orientation**  | Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward.                                                                    |   |   |   |   |   |   |   |
-
--   Textures (PNG, TGA, etc.)
-
--   Materials (MTL)
-
--   Other parts
-
-The ZIP file should only contain the above file formats and their dependent
-external files.
-
--   Ceiling-associated objects: the model’s +Y axis should point down and the +Z
-    axis should point forward.
-
--   Wall-associated objects: the model’s +Y axis should point away from the wall
-    and the +Z axis should point up the wall.
-
- 
+| **File format** | - FBX (version 7.5 or earlier) <br> - OBJ <br> - SKP (version 6 or earlier) <br> - JT (versions 8 and 9) <br> - STP, STEP (versions AP203 and AP214) <br> - GLTF, GLB <br>>- Version 2.0 <br>>- Extensions: KHR_materials_pbrSpecularGlossiness, MSFT_lod,  MSFT_packing_occlusionRoughnessMetallic, MSFT_packing_normalRoughnessMetallic, MSFT_texture_dds |
+| **External files**     | If your model references external files, such as the following, you'll need to create a ZIP file containing the model and the files it references to import the model:<br> - Textures (PNG, TGA, etc.) <br> - Materials (MTL) <br>- Other parts <br> The ZIP file should only contain the above file formats and their dependent external files.   |   
+| **Textures**   | Textures are unembedded. Zip your file with the unembedded textures. You can only zip one model at a time with its textures.           |   
+| **Model orientation**  | - Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward. <br> -Ceiling-associated objects: the model’s +Y axis should point down and the +Z axis should point forward. <br> - Wall-associated objects: the model’s +Y axis should point away from the wall and the +Z axis should point up the wall. |   
 
 See the next section in this topic to learn how the cloud service works.
 
 **For the PC**
 
-| **File format** | GLB file formats only, with the following limitations: |
-|-----------------|--------------------------------------------------------|
 
+|  Item           |     Description                          |
+|-----------------|------------------------------|
+| **File format** | GLB file formats only, with the following limitations: <br> - No more than 1 material per mesh <br> - No more than 1 set of UVs per mesh <br> - No more than 2 meshes <br> - No more than 10,000 total polygons (triangles). Less than 5,000 is recommended. <br> - Maximum texture size of 2048 x 2048 (512 x 512 recommended)  |
+| **Textures**     | Textures are embedded. Export your model from your CAD program as a single self-contained file. <br> **Note:** Emissive, occlusion, specular, and gloss textures will be ignored.    | 
+| **Polycount**         | Less than 10,000 polygons per model                                                                 |  
+| **Mesh**              | Export your model as \<=2 meshes with 1 material per mesh                                           | 
+| **Model orientation** | - Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward. <br> -Ceiling-associated objects: the model’s +Y axis should point down and the +Z axis should point forward. <br> - Wall-associated objects: the model’s +Y axis should point away from the wall and the +Z axis should point up the wall. |  
 
--   No more than 1 material per mesh
-
-    -   No more than 1 set of UVs per mesh
-
-        -   No more than 2 meshes
-
-            -   No more than 10,000 total polygons (triangles). Less than 5,000
-                is recommended.
-
-            -   Maximum texture size of 2048 x 2048 (512 x 512 recommended)
-
-| **Textures**          | Textures are embedded. Export your model from your CAD program as a single self-contained file.     |   |   |   |   |   |
-|-----------------------|-----------------------------------------------------------------------------------------------------|---|---|---|---|---|
-| **Polycount**         | Less than 10,000 polygons per model                                                                 |   |   |   |   |   |
-| **Mesh**              | Export your model as \<=2 meshes with 1 material per mesh                                           |   |   |   |   |   |
-| **Model orientation** | Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward. |   |   |   |   |   |
-
->   **Note:** Emissive, occlusion, specular, and gloss textures will be ignored.
-
--   Ceiling-associated objects: the model’s +Y axis should point down and the +Z
-    axis should point forward.
-
--   Wall-associated objects: the model’s +Y axis should point away from the wall
-    and the +Z axis should point up the wall.
-
-Best practices for importing 3D models 
----------------------------------------
+## Best practices for importing 3D models 
 
 -   When you’re creating a 3D model using 3D creation tools, make sure that the
     model is not too far off from the center (the origin of the grid).
@@ -322,8 +219,7 @@ note that:
     result in a single combined mesh to enable more efficient interaction with
     the complete model.
 
-How does the Microsoft cloud service work?
-------------------------------------------
+## How does the Microsoft cloud service work?
 
 When you convert a 3D model, the Import Tool uploads the raw model to
 the Microsoft cloud service, which is hosted on a Microsoft Azure web service.
@@ -345,12 +241,7 @@ obfuscated URLs.
 
 ![](media/2b7b299ce1a466ff2c5ffd87ea41e2a4.png)
 
->   Image of the Microsoft cloud servicew
-
- 
-
-Work with models
-----------------
+## Work with models
 
 On HoloLens and in Windows Mixed Reality, you can place, move, copy, resize, and
 rotate 3D models.
