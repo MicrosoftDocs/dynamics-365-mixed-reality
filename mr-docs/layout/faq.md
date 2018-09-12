@@ -68,7 +68,7 @@ English](https://support.office.com/article/add-an-editing-language-or-set-langu
 
 By default, the Import Tool uses the Microsoft cloud service to process your
 models. If you don’t want your models processed in the cloud, you can use the PC
-option. [Learn more](user-guide#.md)
+option. [Learn more](user-guide.md#file-types-and-guidelines)
 
 **How do I import AutoCAD models?**
 
