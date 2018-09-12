@@ -113,7 +113,7 @@ To open the chat window and enter a message:
 
 1.  Select Show ![](media/chaticon1.png) (or say “Show”).
 
-<img src="{{ site.baseurl }}/media/chaticon1.png" width="20">
+<img src="{{ site.baseurl }}/media/chaticon1.png" width="50">
 
 2.  Select the text preview field at the bottom of the chat window. This will
     bring up the holographic keyboard.
