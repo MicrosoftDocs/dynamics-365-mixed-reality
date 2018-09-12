@@ -81,16 +81,17 @@ commands.
 When your contact answers the call in Microsoft Teams, they’ll be able to see
 what you see in your space—including holograms.
 
-**Note:** Dynamic audio adjusts the volume level based on ambient noise in the
+> [!NOTE]
+> Dynamic audio adjusts the volume level based on ambient noise in the
 room so you can hear even if you're working in a loud environment.
 
 ### Receive a video call from a contact using Microsoft Teams
 
 -   Select **Video** ![](media/bae39e2bdb1eafec5c36c76ffa640355.png) (or say “Video”) to accept the call as a video call or **Audio** ![](media/972493ccc469c4ca41c04f96fabf6ba5.png) (or say “Audio”) to accept it as a voice-only call. To decline the call, select **Ignore** (or say “Ignore”).
 
-**Note:** To receive calls when you’re using other apps on HoloLens, open the
-Remote Assist app. Then use the [bloom
-gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
+> [!NOTE]
+> To receive calls when you’re using other apps on HoloLens, open the
+Remote Assist app. Then use the [bloom gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
 to leave Remote Assist. Go ahead and use other apps. You’ll get a notification
 from Cortana if a Remote Assist call comes in, and you’ll be able to accept or
 decline it using your voice.
@@ -129,7 +130,8 @@ To read previous messages in the chat window:
 
 -   Air tap and drag the chat window.
 
-**Note:** If a message is sent from another user when the chat window isn’t
+> [!NOTE]
+> If a message is sent from another user when the chat window isn’t
 open, you’ll receive a notification.
 
 ## Collaborate and annotate
@@ -301,9 +303,8 @@ Here’s how:
     launched, your contact will be able to see its content and give you
     guidance.
 
-**Note:** When you’re done getting help from your contact, make sure to go back
-to Remote Assist and disconnect the call. Until you do that, the call will stay
-connected and your contact will see and hear what’s happening on your HoloLens.
+> [!NOTE]
+> When you’re done getting help from your contact, make sure to go back to Remote Assist and disconnect the call. Until you do that, the call will stay connected and your contact will see and hear what’s happening on your HoloLens.
 
 ## Use Dynamics 365 for Field Service from Remote Assist
 
@@ -313,7 +314,8 @@ bookings from Remote Assist and call the expert listed in the Resource field.
 This enables you to do heads-up, hands-free calling through HoloLens in the
 context of a Dynamics 365 Field Service booking.
 
-**Note:** A Dynamics 365 license is required to view Field Service bookings.
+> [!NOTE]
+> A Dynamics 365 license is required to view Field Service bookings.
 
 ### View a Field Service booking and call an expert from Remote Assist
 
@@ -321,9 +323,10 @@ context of a Dynamics 365 Field Service booking.
       
     The **Recent Contacts** screen will appear with a **Booking** pane to the
     right.
-
->   **Note:** Only bookings with the “In Progress” status are listed.
-
+    
+    > [!NOTE]
+    > Only bookings with the “In Progress” status are listed.
+    
 1.  In the **Booking** pane, select the resource (expert). ![](media/61c6885a58d179a39e18b3af01554fcc.png)
 
 1.  In the filtered contacts list, select the tile for the expert. If you don’t
@@ -333,19 +336,17 @@ context of a Dynamics 365 Field Service booking.
     When you select a contact, you’ll see the following screen. 
 
     ![](media/712a579fd6c37af3087cd31fd01bab74.png)
-
->   **Note:** Booking information is blurred out when you’re in a video call,
->   but remains visible during an audio-only call.
+    
+    > [!NOTE]
+    > Booking information is blurred out when you’re in a video call, but remains visible during an audio-only call.
 
 ### Open a Power BI dashboard from a Field Service booking
 
 -   Select a Power BI link to open Power BI Online in a browser or to open the
     Power BI desktop application.
-
->   **Note:** When you open a Power BI dashboard, Remote Assist closes. If
->   you’re on a call with an expert, the expert will remain on the call. Return
->   to Remote Assist by opening the application again through the applications
->   menu or live cube.
+    
+    > [!NOTE]
+    > When you open a Power BI dashboard, Remote Assist closes. If you’re on a call with an expert, the expert will remain on the call. Return to Remote Assist by opening the application again through the applications menu or live cube.
 
 ### Modify the default booking view
 
