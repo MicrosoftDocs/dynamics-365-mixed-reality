@@ -95,9 +95,8 @@ You can onboard an expert and collaborate using Teams in three easy steps:
 
     ![](media/71e9276273f8f47b786f743416a2cb64.png)
 
->   **NOTE:** If you don’t see the option to add a guest by typing an email
->   address, it’s likely that guest access isn’t enabled on your company’s Azure
->   tenant for Teams. Enable guest access as described earlier in this topic.
+    > [!NOTE]
+    > If you don’t see the option to add a guest by typing an email address, it’s likely that guest access isn’t enabled on your company’s Azure tenant for Teams. Enable guest access as described earlier in this topic.
 
 1.  The expert will immediately receive an email message and can click the link
     in the message to open (or download) Microsoft Teams. This version of Teams
@@ -108,24 +107,21 @@ You can onboard an expert and collaborate using Teams in three easy steps:
 1.  The expert launches the Teams app and the Remote Assist user on the HoloLens
     signs in to their account as usual.
 
->   **IMPORTANT:** If this is the first time the expert has launched Teams and
->   the expert has not been invited to any other teams, Teams will automatically
->   take the expert to the correct place. If the expert has been invited to
->   other teams, the expert might need to switch to the appropriate tenant.  
->     
->   To switch tenants, in the drop-down menu in the upper-right corner of the
->   window, select the appropriate guest tenant:
-
+    > [!IMPORTANT]
+    > If this is the first time the expert has launched Teams and the expert has not been invited to any other teams, Teams will automatically take the expert to the correct place. If the expert has been invited to other teams, the expert might need to switch to the appropriate tenant.  
+    >     
+    > To switch tenants, in the drop-down menu in the upper-right corner of the window, select the appropriate guest tenant:
+    
     ![](media/55237a5359fb66daf7bbb9413adab6b9.png)
-
->   **NOTE:** Teams might take a few seconds to reload.
-
+       
+    > [!NOTE]
+    > Teams might take a few seconds to reload.
+    
 1.  Either party can make the call. You might need to search contacts to find
     the right person.
 
->   **NOTE:** The guest can call any member on the same team. To extend this
->   functionality, invite any other members within your company who would
->   benefit from being able to access this new expert.
+    > [!NOTE]
+    > The guest can call any member on the same team. To extend this functionality, invite any other members within your company who would benefit from being able to access this new expert.
 
 ## Working with annotations
 
@@ -166,8 +162,8 @@ Use the Mixed Reality toolbar to place arrows, draw, or add files:
 
 -   To add a file, select **Insert files** ![](media/41aa538d3be8e163215f7d9374abe90e.png), and then add an image file or a PDF file.
 
->   **NOTE:** After adding them, images can’t be moved, deleted, or resized by
->   the expert.
+> [!NOTE]
+> After adding them, images can’t be moved, deleted, or resized by the expert.
 
 ### Finish editing
 
@@ -188,8 +184,8 @@ To make changes to edits, do one of the following:
 
 -   While in live mode, select **Erase all** ![](media/3aab547aa81003ad181eceadc2c83a47.png) to erase all of the annotations made during that call.
 
-**NOTE:** Specific drawings or arrows can’t be removed. Only the HoloLens user
-can make changes to or delete pictures added by an expert.
+> [!NOTE]
+> Specific drawings or arrows can’t be removed. Only the HoloLens user can make changes to or delete pictures added by an expert.
 
 ### See also
 [User Guide](user-guide.md)<br/>
