@@ -41,5 +41,5 @@ Teams](https://www.microsoft.com/videoplayer/embed/RE26Cze)
 
 ## See also
 [User Guide](user-guide.md)<br>
-[Use Teams with Remote Assist](use-teams-with-remote-assist.md)<br>
+[Use Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br>
 [FAQ](faq.md)
