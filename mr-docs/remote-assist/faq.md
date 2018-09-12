@@ -11,7 +11,7 @@ For additional information, see [Get help with
 HoloLens](https://support.microsoft.com/products/hololens).
 
 If you’re an IT admin and you want to deploy Remote Assist to devices running
-the HoloLens Commercial Suite, see *these instructions*. 
+the HoloLens Commercial Suite, see [Buy and Deploy Remote Assist](../licensing/buy-and-deploy.md). 
 
 **Can I still use the preview app?**
 
