@@ -89,8 +89,6 @@ You can onboard an expert and collaborate using Teams in three easy steps:
     already exist. The Remote Assist user and the expert must be on the same
     team to communicate.
 
-    ![](media/36102de19fde178e0e7bce25393f6691.png)
-
     ![](media/16e00f809d210dcb3b1e8c8e859b73da.png)
 
 1.  When asked to add members, enter the expert’s Microsoft account.
