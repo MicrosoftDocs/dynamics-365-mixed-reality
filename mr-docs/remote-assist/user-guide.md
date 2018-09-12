@@ -32,7 +32,7 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
     Remote Assist.
 
 -   To connect to Dynamics 365 for Field Service from within Remote Assist,
-    you’ll need a [Dynamics 365 license](https://dynamics.microsoft.com/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand).
+    you’ll need a [Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand).
 
 -   An Internet connection. At least 1.5 MB of bandwidth is recommended for the
     best experience.
