@@ -24,19 +24,35 @@ ms-voip-video:?contactids=\<contactID\>
 
 The contact ID is the user’s Azure Active Directory (AAD) objectID.
 
-**Code sample**
+## Code sample
 
 You’ll need to embed the code in your HoloLens app. The following code sample is
 written in C++, but can be easily adapted to another language.
 
-| Platform::String\^ id = objectId-\>Text;     auto uri = ref new Windows::Foundation::Uri("ms-voip-video:?contactids=" + id);     resultText-\>Text = uri-\>AbsoluteUri;     concurrency::task\<bool\> launchUriOperation(Windows::System::Launcher::LaunchUriAsync(uri));     launchUriOperation.then([this](bool success)     {         if (success)         {             // URI launched             resultText-\>Text += " (URI Launched)";         }         else         {             // URI launch failed             resultText-\>Text += " (FAILED)";         }     });  |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+```
+Platform::String\^ id = objectId-\>Text;
+auto uri = ref new Windows::Foundation::Uri("ms-voip-video:?contactids=" + id);
+resultText-\>Text = uri-\>AbsoluteUri; 
 
+concurrency::task\<bool\> launchUriOperation(Windows::System::Launcher::LaunchUriAsync(uri));
+launchUriOperation.then([this](bool success)   
+{         
+    if (success)         
+    {             
+        // URI launched  
+        resultText-\>Text += " (URI Launched)"; 
+    } 
+    else         
+    {             
+        // URI launch failed             
+        resultText-\>Text += " (FAILED)";
+    }     
+});  
+```
 
-To place an audio-only call instead of video, use URI:
-“ms-voip-call:?contactids=”
+To place an audio-only call instead of video, use URI: “ms-voip-call:?contactids=”
 
-**Place a call to test your code**
+## Place a call to test your code
 
 1.  Run your app on the HoloLens.
 
@@ -48,7 +64,6 @@ To place an audio-only call instead of video, use URI:
 4.  After the contacts panel is loaded, Remote Assist will place a call to the
     specified contact.
 
-**See also**
+### See also
 
-For more details on launching an app with a URI, see [Launch an app with a
-URI](<https://docs.microsoft.com/en-us/windows/uwp/launch-resume/launch-app-with-uri>).
+For more details on launching an app with a URI, see [Launch an app with a URI](<https://docs.microsoft.com/en-us/windows/uwp/launch-resume/launch-app-with-uri>).
