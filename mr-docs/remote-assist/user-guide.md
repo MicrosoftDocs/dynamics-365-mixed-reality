@@ -113,8 +113,6 @@ To open the chat window and enter a message:
 
 1.  Select Show ![](media/chaticon1.png) (or say “Show”).
 
-<img src="{{ site.baseurl }}/media/chaticon1.png" width="50">
-
 2.  Select the text preview field at the bottom of the chat window. This will
     bring up the holographic keyboard.
 
@@ -207,7 +205,7 @@ for later.
 
 To take a snapshot:
 
--   Select **Camera** ![](media/289c608153931c3321c32cb619b199bd.png) (or say “Camera”), and then air tap (or say “Snap”) to take the photo.
+-   Select **Camera** ![](media/cameraicon1.png) (or say “Camera”), and then air tap (or say “Snap”) to take the photo.
 
 >   The photo will be saved to your HoloLens camera roll.
 
