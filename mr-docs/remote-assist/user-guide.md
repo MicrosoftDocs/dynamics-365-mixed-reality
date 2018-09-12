@@ -327,7 +327,9 @@ context of a Dynamics 365 Field Service booking.
     > [!NOTE]
     > Only bookings with the “In Progress” status are listed.
     
-1.  In the **Booking** pane, select the resource (expert). ![](media/61c6885a58d179a39e18b3af01554fcc.png)
+1.  In the **Booking** pane, select the resource (expert). 
+
+    ![](media/61c6885a58d179a39e18b3af01554fcc.png)
 
 1.  In the filtered contacts list, select the tile for the expert. If you don’t
     see the contact you’re looking for, select **Search** to bring up the
