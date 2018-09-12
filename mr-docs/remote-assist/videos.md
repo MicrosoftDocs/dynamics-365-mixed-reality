@@ -7,7 +7,7 @@ title: How-to videos for Dynamics 365 Remote Assist
 Watch these short videos to get up and running with Microsoft Dynamics 365
 Remote Assist.
 
-Looking for more help? Check out our User Guide.
+Looking for more help? Check out our [User Guide](user-guide.md).
 
 ## Remote Assist for HoloLens
 
@@ -40,6 +40,6 @@ Add arrows to the HoloLens view
 Teams](https://www.microsoft.com/videoplayer/embed/RE26Cze)
 
 ## See also
-[User Guide](user-guide.md)
-[Use Teams with Remote Assist](use-teams-with-remote-assist.md)
+[User Guide](user-guide.md)<br>
+[Use Teams with Remote Assist](use-teams-with-remote-assist.md)<br>
 [FAQ](faq.md)
