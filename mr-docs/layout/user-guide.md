@@ -8,9 +8,9 @@ Use Microsoft Dynamics 365 Layout to create and design space plans on HoloLens
 or on a Windows Mixed Reality immersive headset. Import 3D models and design,
 edit, and collaborate virtually, on a real-world scale.
 
-Need more help? Check out the Layout FAQ for answers to common questions.
+Need more help? [Check out the Layout FAQ](faq.md) for answers to common questions.
 
-Watch how-to videos about Layout.
+[Watch how-to videos about Layout.](videos.md)
 
 ## What you’ll need
 
@@ -41,9 +41,9 @@ public store.
 
 | **App**     | **Device**            | **Use to**                            | **To install from Microsoft store** |
 |-------------|-----------------------|---------------------------------------------|-------------------------------------|
-| Layout      | HoloLens              | - Create layouts by scanning your surroundings <br> - Place models in your layouts      | On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Layout," and then install the app. <br> **Note:** The General Availability version of Layout will not be available until October 1, 2018.   |
+| Layout      | HoloLens              | <ul><li>Create layouts by scanning your surroundings </li><li>Place models in your layouts </li></ul>     | On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Layout," and then install the app. <br> **Note:** The General Availability version of Layout will not be available until October 1, 2018.   |
 | Layout      | Mixed reality headset | Place models in layouts imported from HoloLens or Microsoft Visio | 1. On your PC go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Layout," and then install the app. <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br> **Note:** The General Availability version of Layout will not be available until October 1, 2018.  |
-| Import Tool | PC                    | - Transfer floorplans from Microsoft Visio to HoloLens or Windows Mixed Reality <br> - Transfer layouts between HoloLens and Windows Mixed Reality <br>- Process 3D models for use on HoloLens | On your PC go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Import Tool (Preview)," and then install the app. <br> **Note:** Dynamics 365 Import Tool (Preview) will not be available until October 1, 2018.   |
+| Import Tool | PC                    | <ul><li>Transfer floorplans from Microsoft Visio to HoloLens or Windows Mixed Reality</li><li>Transfer layouts between HoloLens and Windows Mixed Reality </li><li>Process 3D models for use on HoloLens </ul>| On your PC go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Import Tool (Preview)," and then install the app. <br> **Note:** Dynamics 365 Import Tool (Preview) will not be available until October 1, 2018.   |
 
 ## Use Layout
 
@@ -183,11 +183,11 @@ See the next section in this topic to learn how the cloud service works.
 
 |  Item           |     Description                          |
 |-----------------|------------------------------|
-| **File format** | GLB file formats only, with the following limitations: <br> - No more than 1 material per mesh <br> - No more than 1 set of UVs per mesh <br> - No more than 2 meshes <br> - No more than 10,000 total polygons (triangles). Less than 5,000 is recommended. <br> - Maximum texture size of 2048 x 2048 (512 x 512 recommended)  |
+| **File format** | GLB file formats only, with the following limitations: <ul><li>No more than 1 material per mesh </li><li>No more than 1 set of UVs per mesh </li><li>No more than 2 meshes </li><li>No more than 10,000 total polygons (triangles). Less than 5,000 is recommended. </li><li>Maximum texture size of 2,048 x 2,048 (512 x 512 recommended) </ul> |
 | **Textures**     | Textures are embedded. Export your model from your CAD program as a single self-contained file. <br> **Note:** Emissive, occlusion, specular, and gloss textures will be ignored.    | 
 | **Polycount**         | Less than 10,000 polygons per model                                                                 |  
 | **Mesh**              | Export your model as \<=2 meshes with 1 material per mesh                                           | 
-| **Model orientation** | - Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward. <br> -Ceiling-associated objects: the model’s +Y axis should point down and the +Z axis should point forward. <br> - Wall-associated objects: the model’s +Y axis should point away from the wall and the +Z axis should point up the wall. |  
+| **Model orientation** | <ul><li>Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward.</li><li>Ceiling-associated objects: the model’s +Y axis should point down and the +Z axis should point forward. </li><li>Wall-associated objects: the model’s +Y axis should point away from the wall and the +Z axis should point up the wall.</ul> |  
 
 ## Best practices for importing 3D models 
 
