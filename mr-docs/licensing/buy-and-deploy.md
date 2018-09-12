@@ -66,8 +66,8 @@ use the following links:
     Layout and Dynamics 365 Import Tool (Preview).
 
 > [!NOTE]
-> When users launch the apps, they’ll need to use the same AAD accounts that the admin assigned in the Office Admin Center.
-> The Layout app requires users to be online once every 30 days to validate their subscription.
+> <ul><li>When users launch the apps, they’ll need to use the same AAD accounts that the admin assigned in the Office Admin Center.</li>
+> <li>The Layout app requires users to be online once every 30 days to validate their subscription.</li></ul>
 
 ### Distribute the apps through the Microsoft Store for Business
 
