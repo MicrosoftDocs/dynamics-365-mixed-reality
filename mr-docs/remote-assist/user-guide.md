@@ -37,8 +37,7 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 -   An Internet connection. At least 1.5 MB of bandwidth is recommended for the
     best experience.
 
-Need to get up to speed on HoloLens? [Get
-help](https://support.microsoft.com/products/hololens).
+Need to get up to speed on HoloLens? [Get help](https://support.microsoft.com/products/hololens).
 
 ## Install the Remote Assist app
 
@@ -49,12 +48,13 @@ link, or another method.
 
 ### Install the application through the Microsoft Store for Consumers
 
-**NOTE:** The General Availability version of Dynamics 365 Remote Assist will
-not be available in the Microsoft Store until October 1, 2018.
+> [!NOTE]
+> The General Availability version of Dynamics 365 Remote Assist will not be available in the Microsoft Store until October 1, 2018.
 
 1.  On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), and then search for “Remote Assist.”
 
-    **Tip:** On your HoloLens right now? Get Remote Assist.
+    > [!TIP]
+    > On your HoloLens right now? Get Remote Assist.
 
 1.  On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **All apps**. Select **Remote Assist**, then select again to launch the app. Remote Assist is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
 
