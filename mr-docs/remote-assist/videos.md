@@ -9,8 +9,7 @@ Remote Assist.
 
 Looking for more help? Check out our User Guide.
 
-Remote Assist for HoloLens
-==========================
+## Remote Assist for HoloLens
 
 Add an image from OneDrive
 
@@ -29,8 +28,7 @@ world](https://www.microsoft.com/videoplayer/embed/RE26pxj)
 [Use other Mixed Reality apps during a
 call](https://www.microsoft.com/videoplayer/embed/RE26Czd)
 
-Microsoft Teams and Remote Assist
-=================================
+## Microsoft Teams and Remote Assist
 
 Add arrows to the HoloLens view
 
