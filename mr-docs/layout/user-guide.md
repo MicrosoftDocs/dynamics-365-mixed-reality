@@ -171,10 +171,10 @@ to adhere to a number of prerequisites.
 
 |  Item           |     Description                          |
 |-----------------|------------------------------|
-| **File format** | - FBX (version 7.5 or earlier) <br> - OBJ <br> - SKP (version 6 or earlier) <br> - JT (versions 8 and 9) <br> - STP, STEP (versions AP203 and AP214) <br> - GLTF, GLB <br>>- Version 2.0 <br>>- Extensions: KHR_materials_pbrSpecularGlossiness, MSFT_lod,  MSFT_packing_occlusionRoughnessMetallic, MSFT_packing_normalRoughnessMetallic, MSFT_texture_dds |
-| **External files**     | If your model references external files, such as the following, you'll need to create a ZIP file containing the model and the files it references to import the model:<br> - Textures (PNG, TGA, etc.) <br> - Materials (MTL) <br>- Other parts <br> The ZIP file should only contain the above file formats and their dependent external files.   |   
+| **File format** | <ul><li>FBX (version 7.5 or earlier) </li><li>OBJ </li><li>SKP (version 6 or earlier) </li><li>JT (versions 8 and 9) </li><li>STP, STEP (versions AP203 and AP214) </li><li>GLTF, GLB </li><ul><li>Version 2.0 </li><li>Extensions: KHR_materials_pbrSpecularGlossiness, MSFT_lod, MSFT_packing_occlusionRoughnessMetallic, MSFT_packing_normalRoughnessMetallic, MSFT_texture_dds</ul> |
+| **External files**     | If your model references external files, such as the following, you'll need to create a ZIP file containing the model and the files it references to import the model:<br> <ul><li>Textures (PNG, TGA, etc.) </li><li>Materials (MTL) </li><li>Other parts </li></ul> The ZIP file should only contain the above file formats and their dependent external files.   |   
 | **Textures**   | Textures are unembedded. Zip your file with the unembedded textures. You can only zip one model at a time with its textures.           |   
-| **Model orientation**  | - Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward. <br> -Ceiling-associated objects: the model’s +Y axis should point down and the +Z axis should point forward. <br> - Wall-associated objects: the model’s +Y axis should point away from the wall and the +Z axis should point up the wall. |   
+| **Model orientation**  | <ul><li>Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward. </li><li>Ceiling-associated objects: the model’s +Y axis should point down and the +Z axis should point forward. </li><li>Wall-associated objects: the model’s +Y axis should point away from the wall and the +Z axis should point up the wall.</li></ul> |   
 
 See the next section in this topic to learn how the cloud service works.
 
