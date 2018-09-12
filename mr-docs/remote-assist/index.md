@@ -17,4 +17,3 @@ communication with peace of mind.
 [User Guide](user-guide.md)<br/>
 [Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
 [FAQ](faq.md)<br/>
-Support
