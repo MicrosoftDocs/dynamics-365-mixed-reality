@@ -32,11 +32,14 @@ call](https://www.microsoft.com/videoplayer/embed/RE26Czd)
 
 Add arrows to the HoloLens view
 
-[Add ink to the HoloLens view
-](https://www.microsoft.com/videoplayer/embed/RE26FaE)
+[Add ink to the HoloLens view](https://www.microsoft.com/videoplayer/embed/RE26FaE)
 
-[Add a picture from
-OneDrive](https://www.microsoft.com/videoplayer/embed/RE26mZO)
+[Add a picture from OneDrive](https://www.microsoft.com/videoplayer/embed/RE26mZO)
 
 [Sign in and use Remote Assist on
 Teams](https://www.microsoft.com/videoplayer/embed/RE26Cze)
+
+## See also
+[User Guide](user-guide.md)
+[Use Teams with Remote Assist](use-teams-with-remote-assist.md)
+[FAQ](faq.md)
