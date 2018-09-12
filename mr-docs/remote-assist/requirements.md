@@ -20,17 +20,12 @@ Licensing and product requirements
 | **Product required**                      | **Details**                                                                                                                                                                                                                                                             | **Learn more**                                                                                                         |
 |-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | Remote Assist                             | Remote Assist software                                                                                                                                                                                                                                                  | Buy and deploy Remote Assist                                                                                           |
-| Azure Active Directory (AAD) account      | Required for:                                                                                                                                                                                                                                                           | [Get started with Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/get-started-azure-ad) |
+| Azure Active Directory (AAD) account      | Required for: <br> - Purchasing subscription and assigning licenses. You’ll need an AAD account for each licensed user. <br> - Distributing apps through Microsoft Store for Business. <br>- Users when signing in to the app.| [Get started with Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/get-started-azure-ad) |
 | Microsoft Teams                           | Microsoft Teams facilitates communication in Remote Assist. Microsoft Teams must be installed on any device that will make calls to the HoloLens. Note that a free download of Microsoft Teams is available for experts communicating with Remote Assist users.         | [Overview of Microsoft Teams](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-overview)                          |
 | Microsoft Office 365                      | Because Microsoft Teams is part of Office 365, the Remote Assist user will need an Office 365 license.                                                                                                                                                                  | [Office 365 licensing for Microsoft Teams](https://docs.microsoft.com/en-us/MicrosoftTeams/office-365-licensing)       |
 | Dynamics 365 for Field Service (optional) | Remote Assist requires a Dynamics 365 license if you want to pull Dynamics 365 for Field Service bookings into Remote Assist. To view Power BI dashboards linked to Dynamics 365 for Field Service bookings in Remote Assist, users must have a valid Power BI license. | [Learn more about Dynamics 365 for Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/)        |
 
--   Purchasing subscription and assigning licenses. You’ll need an AAD account
-    for each licensed user.
 
--   Distributing apps through Microsoft Store for Business.
-
--   Users when signing in to the app.
 
 ## Network requirements
 
@@ -59,4 +54,3 @@ more.
 [Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
 [How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>
-Support
