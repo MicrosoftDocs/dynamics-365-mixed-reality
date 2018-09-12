@@ -111,7 +111,7 @@ the text messages sent during the call.
 
 To open the chat window and enter a message:
 
-1.  Select Show ![](media/d129c52f782cdbc9e9421a895efd057d.png) (or say “Show”).
+1.  Select Show ![](media/chaticon1.png) (or say “Show”).
 
 2.  Select the text preview field at the bottom of the chat window. This will
     bring up the holographic keyboard.
