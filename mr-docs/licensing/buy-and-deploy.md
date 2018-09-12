@@ -25,6 +25,7 @@ You (enterprise admin) can subscribe to Dynamics 365 Remote Assist or Dynamics
 -   WebDirect:
 
     -   Dynamics 365 marketing page
+    
     -   [Office Admin Center](https://portal.office.com)
 
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
@@ -66,7 +67,6 @@ use the following links:
 
 > [!NOTE]
 > When users launch the apps, they’ll need to use the same AAD accounts that the admin assigned in the Office Admin Center.
-        
 > The Layout app requires users to be online once every 30 days to validate their subscription.
 
 ### Distribute the apps through the Microsoft Store for Business
@@ -78,9 +78,7 @@ use the following links:
 3.  Choose one of the following distribution methods:
 
     -   [Private store](https://docs.microsoft.com/en-us/microsoft-store/distribute-apps-from-your-private-store)
-
     -   [Email link](https://docs.microsoft.com/en-us/microsoft-store/assign-apps-to-employees)
-
     -   [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
