@@ -10,8 +10,7 @@ For example, let’s say you’re creating a helicopter maintenance app. You can
 a button that a maintenance engineer can use to call an expert if they get
 stuck. The button will launch Remote Assist and call the designated expert.
 
-Remote Assist supports two methods for protocol activation: “ms-voip-video” and
-“ms-voip-call”.
+Remote Assist supports two methods for protocol activation: 
 
 -   “ms-voip-video” is for video-enabled calling.
 
@@ -20,7 +19,9 @@ Remote Assist supports two methods for protocol activation: “ms-voip-video” 
 Both methods use the same argument schema, which accepts a “contactID” field.
 The URI would look something like this:
 
+`
 ms-voip-video:?contactids=\<contactID\>
+`
 
 The contact ID is the user’s Azure Active Directory (AAD) objectID.
 
