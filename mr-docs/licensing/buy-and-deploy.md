@@ -11,7 +11,8 @@ With Dynamics 365 Remote Assist and Dynamics 365 Layout, you can bridge the gap
 between the real and digital worlds to complete crucial tasks faster, safer, and
 more efficiently, and to create new ways to connect with customers and partners.
 
-**Note:** If you’re using the preview version of Dynamics 365 Layout, you have
+> [!NOTE]
+> If you’re using the preview version of Dynamics 365 Layout, you have
 until December 1, 2018, to upgrade to the paid version. If you’re using the
 preview version of Dynamics 365 Remote Assist, you have until December 31, 2018,
 to upgrade to the paid version.
@@ -29,7 +30,7 @@ You (enterprise admin) can subscribe to Dynamics 365 Remote Assist or Dynamics
 
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
 
--   Cloud Service Provider (Partner Center Portal)
+-   [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner)
 
 After you subscribe, you’ll need to assign licenses to users in the [Office Admin Center](https://portal.office.com/) or Partner Center. Each user you
 assign a license to will need an Azure Active Directory (AAD) account.
