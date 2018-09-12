@@ -120,7 +120,7 @@ To open the chat window and enter a message:
 
     -   Select characters in the holographic keyboard.
 
-    -   Select **Microphone** ![](media/98b8b2473576faaca67fa92565583b39.png), and then dictate your message. HoloLens will convert the message into text.
+    -   Select **Microphone** ![](media/microphone1.png), and then dictate your message. HoloLens will convert the message into text.
 
     -   Connect a Bluetooth keyboard directly to the HoloLens and type your message.
 
