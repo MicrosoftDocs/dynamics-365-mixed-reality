@@ -4,8 +4,8 @@ title: Set up and use Microsoft Teams with Remote Assist to collaborate on a cal
 
 # Set up and use Microsoft Teams with Remote Assist to collaborate on a call
 
-A Microsoft [Dynamics 365 Remote
-Assist](https://support.microsoft.com/en-us/help/4294812) user on HoloLens can
+A Microsoft Dynamics 365 Remote
+Assist user on HoloLens can
 work collaboratively with a colleague (typically an expert in a particular
 field) during a video call by using Microsoft Teams. The expert can see
 everything that the Remote Assist user sees, and they can holographically draw
