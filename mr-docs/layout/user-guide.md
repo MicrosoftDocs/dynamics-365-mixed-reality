@@ -71,7 +71,7 @@ Layout**
 2.  Select **About**, and then select the 32-bit or the 64-bit download (choose
     the one that matches your version of Visio).
     
-    ![Download Visio add-in](1-visio-download-page.png) 
+    ![Download Visio add-in](media/1-visio-download-page.png) 
 
 3.  Open Visio, and then select **File** \> **Options** \> **Add-ins**.
 
@@ -103,7 +103,7 @@ To use the layout on HoloLens, you’ll need to move it there:
 3.  Select the check box on the layouts you want to copy, and then select
     **Send**.
     
-    ![Move layout to HoloLens](2-selected-layouts-send-to-hololens.png)
+    ![Move layout to HoloLens](media/2-selected-layouts-send-to-hololens.png)
 
 4.  On HoloLens, open the Layout app. You’ll find your layout on the **Layouts**
     tab.
@@ -125,7 +125,7 @@ headset: 
 3.  Select the check box on the layout you want to send to your PC, and then
     select **Send**.
     
-    ![Move layout from HoloLens](3-selected-layouts-send-to-pc.png)
+    ![Move layout from HoloLens](media/3-selected-layouts-send-to-pc.png)
 
 ## Convert 3D models for use on HoloLens or Windows Mixed Reality headsets
 
@@ -146,7 +146,7 @@ device you want to use them on.
     -   To use your PC, select **Use my PC**. (With this option, there are
         limits on the file types you can import.)
         
-        ![Cloud or PC option](4-use-cloud-pc-option.png)
+        ![Cloud or PC option](media/4-use-cloud-pc-option.png)
 
 4.  Navigate to the folder where your models are saved, and then select the
     models you want to add (up to 25 at a time).
