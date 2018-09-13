@@ -120,7 +120,7 @@ To open the chat window and enter a message:
 
     -   Select characters in the holographic keyboard.
 
-    -   Select **Microphone** ![](media/microphone1.png), and then dictate your message. HoloLens will convert the message into text.
+    -   Select **Microphone** ![](media/microphone3.png), and then dictate your message. HoloLens will convert the message into text.
 
     -   Connect a Bluetooth keyboard directly to the HoloLens and type your message.
 
@@ -205,7 +205,7 @@ for later.
 
 To take a snapshot:
 
--   Select **Camera** ![](media/cameraicon1.png) (or say “Camera”), and then air tap (or say “Snap”) to take the photo.
+-   Select **Camera** ![](media/cameraicon3.png) (or say “Camera”), and then air tap (or say “Snap”) to take the photo.
 
 >   The photo will be saved to your HoloLens camera roll.
 
