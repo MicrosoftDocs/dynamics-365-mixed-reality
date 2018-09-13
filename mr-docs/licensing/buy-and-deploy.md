@@ -37,8 +37,8 @@ assign a license to will need an Azure Active Directory (AAD) account.
 
 > [!NOTE]
 > Remote Assist and Layout are also available on a free 30-day trial
-basis. You can sign up for a trial from the Marketing page, the Office Admin
-Center, or the Partner Center Portal.
+basis. You can sign up for a trial from the Office Admin
+Center or the Partner Center Portal.
 
 ## Make the apps available to your users
 
