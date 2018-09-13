@@ -319,7 +319,7 @@ context of a Dynamics 365 Field Service booking.
 
 ### View a Field Service booking and call an expert from Remote Assist
 
-1.  In the Contacts menu, select **Dynamics 365** ![](media/04d8c12a5965c6dbaa81ce96ae5cab8f.png) to open the **Booking** pane. (Select **Dynamics 365** ![](media/04d8c12a5965c6dbaa81ce96ae5cab8f.png) again to close the **Booking** pane.)  
+1.  In the Contacts menu, select **Dynamics 365** ![](media/d365-button3.png) to open the **Booking** pane. (Select **Dynamics 365** ![](media/d365-button3.png) again to close the **Booking** pane.)  
       
     The **Recent Contacts** screen will appear with a **Booking** pane to the
     right.
