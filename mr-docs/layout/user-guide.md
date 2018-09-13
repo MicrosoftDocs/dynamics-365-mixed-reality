@@ -71,7 +71,8 @@ Layout**
 2.  Select **About**, and then select the 32-bit or the 64-bit download (choose
     the one that matches your version of Visio).
     
-    ![Download Visio add-in](1-visio-download-page.png) 
+    > [!div class="mx-imgBorder"]
+    > ![Download Visio add-in](media/1-visio-download-page.png) 
 
 3.  Open Visio, and then select **File** \> **Options** \> **Add-ins**.
 
@@ -103,7 +104,8 @@ To use the layout on HoloLens, you’ll need to move it there:
 3.  Select the check box on the layouts you want to copy, and then select
     **Send**.
     
-    ![Move layout to HoloLens](2-selected-layouts-send-to-hololens.png)
+    > [!div class="mx-imgBorder"]
+    > ![Move layout to HoloLens](media/2-selected-layouts-send-to-hololens.png)
 
 4.  On HoloLens, open the Layout app. You’ll find your layout on the **Layouts**
     tab.
@@ -125,7 +127,8 @@ headset: 
 3.  Select the check box on the layout you want to send to your PC, and then
     select **Send**.
     
-    ![Move layout from HoloLens](3-selected-layouts-send-to-pc.png)
+    > [!div class="mx-imgBorder"]
+    > ![Move layout from HoloLens](media/3-selected-layouts-send-to-pc.png)
 
 ## Convert 3D models for use on HoloLens or Windows Mixed Reality headsets
 
@@ -146,7 +149,8 @@ device you want to use them on.
     -   To use your PC, select **Use my PC**. (With this option, there are
         limits on the file types you can import.)
         
-        ![Cloud or PC option](4-use-cloud-pc-option.png)
+        > [!div class="mx-imgBorder"]
+        > ![Cloud or PC option](media/4-use-cloud-pc-option.png)
 
 4.  Navigate to the folder where your models are saved, and then select the
     models you want to add (up to 25 at a time).
@@ -165,6 +169,9 @@ To use your models on HoloLens, you’ll need to copy them to the device:
 
 3.  In the Import Tool, select **This PC** \> **Models**, and then select the
     check boxes on the models you want to send to HoloLens.
+    
+    > [!div class="mx-imgBorder"]
+    > ![Copy models to HoloLens](media/5-copy-models-to-hololens.png)
 
 4.  Select **Send**.
 
