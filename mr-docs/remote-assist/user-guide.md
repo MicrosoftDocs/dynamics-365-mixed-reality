@@ -73,9 +73,6 @@ interface or by using voice commands, when available. To use a voice command,
 say “Remote Assist,” and then say the voice command. [Learn more about voice
 commands.](#use-voice-commands)
 
-
-
-
 ## Make and receive calls
 
 ### Make a video call to a contact using Microsoft Teams
