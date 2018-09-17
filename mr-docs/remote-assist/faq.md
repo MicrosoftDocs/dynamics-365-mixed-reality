@@ -134,4 +134,4 @@ Still need help? Try our [user forums](https://techcommunity.microsoft.com/t5/Mi
 [Requirements](requirements.md)<br/>
 [User Guide](user-guide.md)<br/>
 [Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)<br/>
