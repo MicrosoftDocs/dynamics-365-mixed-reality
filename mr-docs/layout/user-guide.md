@@ -10,7 +10,7 @@ edit, and collaborate virtually, on a real-world scale.
 
 Need more help? [Check out the Layout FAQ](faq.md) for answers to common questions.
 
-[Watch how-to videos about Layout.](videos.md)
+[Watch how-to videos about Layout.](https://go.microsoft.com/fwlink/p/?linkid=2021489)
 
 ## What you’ll need
 
@@ -283,5 +283,5 @@ rotate 3D models.
 | Multi-select | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them.                                                             |
 
 ### See also
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
 [FAQ](faq.md)<br/>
