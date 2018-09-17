@@ -14,7 +14,7 @@ Need more help? [Check out the Layout FAQ](faq.md) for answers to common questio
 
 ## What you’ll need
 
--   A subscription to Layout. The Layout subscription also includes the
+-   [A subscription to Layout.](../licensing/buy-and-deploy.md) The Layout subscription also includes the
     Microsoft Dynamics 365 Import Tool (Preview) for PC.
 
 -   A [HoloLens](https://www.microsoft.com/hololens) running the [Windows 10
@@ -147,7 +147,7 @@ device you want to use them on.
         need an internet connection for this option.)
 
     -   To use your PC, select **Use my PC**. (With this option, there are
-        limits on the file types you can import.)
+        [limits on the file types](#file-types-and-guidelines) you can import.)
         
         > [!div class="mx-imgBorder"]
         > ![Cloud or PC option](media/4-use-cloud-pc-option.png)
@@ -182,7 +182,7 @@ whether you use the cloud or your PC to convert the files. Using the cloud
 service simplifies the conversion process. If you use the PC option, you’ll need
 to adhere to a number of prerequisites.
 
-**For the cloud service**
+#### For the cloud service
 
 |  Item           |     Description                          |
 |-----------------|------------------------------|
@@ -193,8 +193,7 @@ to adhere to a number of prerequisites.
 
 See the next section in this topic to learn how the cloud service works.
 
-**For the PC**
-
+#### For the PC
 
 |  Item           |     Description                          |
 |-----------------|------------------------------|
