@@ -10,5 +10,5 @@ Bring physical designs from concept to completion with confidence. Import 3D mod
 [Device options and technical requirements](requirements.md)<br/>
 [Buy and deploy](../licensing/buy-and-deploy.md)<br/>
 [User Guide](user-guide.md)<br/>
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
 [FAQ](faq.md)<br/>
