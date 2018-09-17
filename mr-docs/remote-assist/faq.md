@@ -21,13 +21,13 @@ The preview period has ended. Existing preview app customers have until December
 **Can I try the app before buying it?**
 
 Yes, Remote Assist is available as a free 30-day trial. For more information,
-see Buy and deploy Remote Assist.
+see [Buy and deploy Remote Assist](../licensing/buy-and-deploy.md).
 
 **What are the technical requirements for installing Remote Assist?**
 
 To use Remote Assist, you’ll need:
 
--   A subscription to Dynamics 365 Remote Assist.
+-   [A subscription to Dynamics 365 Remote Assist.](../licensing/buy-and-deploy.md)
 
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643). 
