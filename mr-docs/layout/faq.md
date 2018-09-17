@@ -8,15 +8,19 @@ Here are answers to common questions about using Microsoft Dynamics 365 Layout.
 
 If you’re an IT admin, learn how to buy and deploy the app. 
 
+**How can I get Layout?**  
+
+If you’re an IT admin, [learn how to buy and deploy the app](../licensing/buy-and-deploy.md).  
+
 **Can I try the app before buying it?**
 
-Yes, Layout is available as a free 30-day trial. For more information, see Buy
-and deploy Remote Assist.
+Yes, Layout is available as a free 30-day trial. For more information, see [Buy
+and deploy Remote Assist](../licensing/buy-and-deploy.md).
 
 **Can I still use the preview app?**
 
 The preview period has ended. Existing preview apps customers have until
-December 1, 2018 to upgrade to a paid subscription.
+December 1, 2018, to upgrade to a paid subscription.
 
 **Do I need the Layout apps for both HoloLens and Windows Mixed Reality?**
 
