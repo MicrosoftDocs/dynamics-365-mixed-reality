@@ -19,7 +19,7 @@ expert.
 
 Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common questions.
 
-[Watch how-to videos](videos.md) about Remote Assist.
+[Watch how-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485) about Remote Assist.
 
 ## What you’ll need
 
@@ -189,5 +189,5 @@ To make changes to edits, do one of the following:
 
 ### See also
 [User Guide](user-guide.md)<br/>
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)<br/>
 [FAQ](faq.md)<br/>
