@@ -28,8 +28,8 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 
 -   A contact using the latest version of [Microsoft
     Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) on
-    a PC running Windows 10 to make a video call. Learn about using Teams with
-    Remote Assist.
+    a PC running Windows 10 to make a video call. [Learn about using Teams with
+    Remote Assist.]()
 
 -   To connect to Dynamics 365 for Field Service from within Remote Assist,
     you’ll need a [Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand).
