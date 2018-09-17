@@ -87,4 +87,4 @@ Still need help? Try our [user forums](https://techcommunity.microsoft.com/t5/Mi
 [Device options and technical requirements](requirements.md)<br/>
 [Buy and deploy](../licensing/buy-and-deploy.md)<br/>
 [User Guide](user-guide.md)<br/>
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
