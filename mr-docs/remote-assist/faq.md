@@ -41,6 +41,11 @@ To use Remote Assist, you’ll need:
     PC running Windows 10 to make a video call. Microsoft Teams is [available as
     a free download](https://teams.microsoft.com/downloads).
 
+
+**How often is Remote Assist updated?**
+
+Remote Assist will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
+
 **Why am I not getting incoming call notifications?**
 
 This can happen if you’re signed in to Remote Assist with a different account
