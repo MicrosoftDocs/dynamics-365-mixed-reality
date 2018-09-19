@@ -50,6 +50,10 @@ Yes, if you’re the admin, you’ll need an Azure AD account to distribute the
 apps, and users of Layout and the Import Tool will need an Azure AD account to
 sign in to the apps.
 
+**How often is Layout updated?**
+
+Layout will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
+
 **Do I need to be connected to Wi-Fi to use Layout?**
 
 If you want to convert 3D models using the Import Tool, you’ll need a Wi-Fi
