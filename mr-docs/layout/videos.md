@@ -13,7 +13,7 @@ Looking for more help? Check out our [User Guide](user-guide.md).
 
 [Create a new layout](https://www.microsoft.com/videoplayer/embed/RE26EXI)
 
-[Interacting with HoloLens](https://www.microsoft.com/videoplayer/embed/RE26EXD)
+[Select, place, and move things around](https://www.microsoft.com/videoplayer/embed/RE26EXD)
 
 [Resize, rotate, or copy a model](https://www.microsoft.com/videoplayer/embed/RE26rXj)
 
@@ -27,7 +27,7 @@ Looking for more help? Check out our [User Guide](user-guide.md).
 
 ## Dynamics 365 Import Tool (Preview) for PC
 
-[Getting a model ready for Layout](https://www.microsoft.com/videoplayer/embed/RE26EXE)
+[Getting a model ready for Layout on HoloLens](https://www.microsoft.com/videoplayer/embed/RE26EXE)
 
 [Import a Visio floor plan](https://www.microsoft.com/videoplayer/embed/RE26uy9)
 
