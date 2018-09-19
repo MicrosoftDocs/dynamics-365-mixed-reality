@@ -24,7 +24,7 @@ You (enterprise admin) can subscribe to Dynamics 365 Remote Assist or Dynamics
 
 -   WebDirect:
 
-    -   [Dynamics 365 marketing page](https://go.microsoft.com/fwlink/p/?linkid=2021142)
+    -   [Dynamics 365 marketing page](https://go.microsoft.com/fwlink/p/?linkid=2021142). The marketing page will not be available until September 24.
     
     -   [Office Admin Center](https://portal.office.com)
 
