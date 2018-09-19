@@ -1,1 +1,3 @@
-# Welcome to mr-docs!
+---
+redirect_url: layout/index
+---
