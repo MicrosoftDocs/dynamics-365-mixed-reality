@@ -57,7 +57,7 @@ link, or another method.
 > [!NOTE]
 > The General Availability version of Dynamics 365 Remote Assist will not be available in the Microsoft Store until October 1, 2018.
 
-1.  On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.pngStart) \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “Remote Assist.”
+1.  On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “Remote Assist.”
 
 <!--
     > [!TIP]
