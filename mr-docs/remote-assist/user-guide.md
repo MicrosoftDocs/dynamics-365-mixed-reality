@@ -64,7 +64,7 @@ link, or another method.
     > On your HoloLens right now? Get Remote Assist.
 -->
 
-1.  On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **Remote Assist**, then select again to launch the app. Remote Assist is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
+1.  On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **Remote Assist**, then select again to launch the app. Remote Assist is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
 
 If your HoloLens is running the April 2018 Update and you're signed in with an
 Azure Active Directory (AAD) account, you'll automatically be signed in to
