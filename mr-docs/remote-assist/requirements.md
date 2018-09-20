@@ -1,4 +1,10 @@
 ---
+author: ReneeW-CPub
+description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
+ms.author: renwe
+ms.date: 09/21/2018
+ms.service: crm-online
+ms.topic: article
 title: Requirements for setting up Dynamics 365 Remote Assist
 ---
 
@@ -52,5 +58,5 @@ more.
 [Buy and deploy](../licensing/buy-and-deploy.md)<br/>
 [User Guide](user-guide.md)<br/>
 [Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)<br/>
 [FAQ](faq.md)<br/>

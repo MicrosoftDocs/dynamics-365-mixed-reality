@@ -3,6 +3,8 @@ obj/
 _site/
 .optemp/
 _themes*/
-_repo.*/
+.vs/
+.vscode/
+CODEOWNERS
 
 .openpublishing.buildcore.ps1

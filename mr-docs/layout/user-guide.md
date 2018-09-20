@@ -1,4 +1,10 @@
 ---
+author: ReneeW-CPub
+description: Dynamics 365 Layout User Guide
+ms.author: renwe
+ms.date: 09/21/2018
+ms.service: crm-online
+ms.topic: article
 title: Dynamics 365 Layout User Guide
 ---
 
@@ -10,11 +16,11 @@ edit, and collaborate virtually, on a real-world scale.
 
 Need more help? [Check out the Layout FAQ](faq.md) for answers to common questions.
 
-[Watch how-to videos about Layout.](videos.md)
+[Watch how-to videos about Layout.](https://go.microsoft.com/fwlink/p/?linkid=2021489)
 
 ## What you’ll need
 
--   A subscription to Layout. The Layout subscription also includes the
+-   [A subscription to Layout.](../licensing/buy-and-deploy.md) The Layout subscription also includes the
     Microsoft Dynamics 365 Import Tool (Preview) for PC.
 
 -   A [HoloLens](https://www.microsoft.com/hololens) running the [Windows 10
@@ -147,7 +153,7 @@ device you want to use them on.
         need an internet connection for this option.)
 
     -   To use your PC, select **Use my PC**. (With this option, there are
-        limits on the file types you can import.)
+        [limits on the file types](#file-types-and-guidelines) you can import.)
         
         > [!div class="mx-imgBorder"]
         > ![Cloud or PC option](media/4-use-cloud-pc-option.png)
@@ -182,7 +188,7 @@ whether you use the cloud or your PC to convert the files. Using the cloud
 service simplifies the conversion process. If you use the PC option, you’ll need
 to adhere to a number of prerequisites.
 
-**For the cloud service**
+#### For the cloud service
 
 |  Item           |     Description                          |
 |-----------------|------------------------------|
@@ -193,8 +199,7 @@ to adhere to a number of prerequisites.
 
 See the next section in this topic to learn how the cloud service works.
 
-**For the PC**
-
+#### For the PC
 
 |  Item           |     Description                          |
 |-----------------|------------------------------|
@@ -284,5 +289,5 @@ rotate 3D models.
 | Multi-select | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them.                                                             |
 
 ### See also
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
 [FAQ](faq.md)<br/>

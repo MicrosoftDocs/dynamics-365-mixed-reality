@@ -1,4 +1,10 @@
 ---
+author: ReneeW-CPub
+description: Device options and technical requirements for Dynamics 365 Layout
+ms.author: renwe
+ms.date: 09/21/2018
+ms.service: crm-online
+ms.topic: article
 title: Device options and technical requirements for Dynamics 365 Layout
 ---
 
@@ -36,5 +42,5 @@ Technical requirements
 ### See also
 [Buy and deploy](../licensing/buy-and-deploy.md)<br/>
 [User Guide](user-guide.md)<br/>
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
 [FAQ](faq.md)<br/>

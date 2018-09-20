@@ -1,4 +1,10 @@
 ---
+author: ReneeW-CPub
+description: Dynamics 365 Remote Assist User Guide
+ms.author: renwe
+ms.date: 09/21/2018
+ms.service: crm-online
+ms.topic: article
 title: Dynamics 365 Remote Assist User Guide
 ---
 
@@ -12,7 +18,7 @@ together, faster.
 
 Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common questions.
 
-[Watch how-to videos](videos.md) about Remote Assist.
+[Watch how-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485) about Remote Assist.
 
 ## What you’ll need
 
@@ -28,8 +34,8 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 
 -   A contact using the latest version of [Microsoft
     Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) on
-    a PC running Windows 10 to make a video call. Learn about using Teams with
-    Remote Assist.
+    a PC running Windows 10 to make a video call. [Learn about using Teams with
+    Remote Assist.](use-microsoft-teams-with-remote-assist.md)
 
 -   To connect to Dynamics 365 for Field Service from within Remote Assist,
     you’ll need a [Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand).
@@ -53,8 +59,10 @@ link, or another method.
 
 1.  On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), and then search for “Remote Assist.”
 
+<!--
     > [!TIP]
     > On your HoloLens right now? Get Remote Assist.
+-->
 
 1.  On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **All apps**. Select **Remote Assist**, then select again to launch the app. Remote Assist is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
 
@@ -68,8 +76,8 @@ you’re signed in, you’ll see your recent contacts.
 
 The procedures in this user guide describe how to do tasks through the user
 interface or by using voice commands, when available. To use a voice command,
-say “Remote Assist,” and then say the voice command. Learn more about voice
-commands.
+say “Remote Assist,” and then say the voice command. [Learn more about voice
+commands.](#use-voice-commands)
 
 ## Make and receive calls
 
@@ -308,14 +316,14 @@ Here’s how:
 
 ## Use Dynamics 365 for Field Service from Remote Assist
 
-If your organization uses Dynamics 365 for Field Service to manage field service
+If your organization uses [Dynamics 365 for Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage field service
 work orders, you (the first-line worker) can view Dynamics 365 for Field Service
 bookings from Remote Assist and call the expert listed in the Resource field.
 This enables you to do heads-up, hands-free calling through HoloLens in the
 context of a Dynamics 365 Field Service booking.
 
 > [!NOTE]
-> A Dynamics 365 license is required to view Field Service bookings.
+> [A Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view Field Service bookings.
 
 ### View a Field Service booking and call an expert from Remote Assist
 
@@ -357,5 +365,5 @@ you would any Dynamics 365 view](https://docs.microsoft.com/en-us/dynamics365/cu
 
 ### See also
 [Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)<br/>
 [FAQ](faq.md)<br/>
