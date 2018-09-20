@@ -1,4 +1,10 @@
 ---
+author: ReneeW-CPub
+description: Overview of Dynamics 365 Remote Assist
+ms.author: renwe
+ms.date: 09/21/2018
+ms.service: crm-online
+ms.topic: article
 title: Overview of Dynamics 365 Remote Assist
 ---
 

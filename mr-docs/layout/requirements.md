@@ -1,4 +1,10 @@
 ---
+author: ReneeW-CPub
+description: Device options and technical requirements for Dynamics 365 Layout
+ms.author: renwe
+ms.date: 09/21/2018
+ms.service: crm-online
+ms.topic: article
 title: Device options and technical requirements for Dynamics 365 Layout
 ---
 
