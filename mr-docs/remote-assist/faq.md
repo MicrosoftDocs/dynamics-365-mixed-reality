@@ -1,4 +1,10 @@
 ---
+author: ReneeW-CPub
+description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
+ms.author: renwe
+ms.date: 09/21/2018
+ms.service: crm-online
+ms.topic: article
 title: Dynamics 365 Remote Assist FAQ
 ---
 
@@ -21,13 +27,13 @@ The preview period has ended. Existing preview app customers have until December
 **Can I try the app before buying it?**
 
 Yes, Remote Assist is available as a free 30-day trial. For more information,
-see Buy and deploy Remote Assist.
+see [Buy and deploy Remote Assist](../licensing/buy-and-deploy.md).
 
 **What are the technical requirements for installing Remote Assist?**
 
 To use Remote Assist, you’ll need:
 
--   A subscription to Dynamics 365 Remote Assist.
+-   [A subscription to Dynamics 365 Remote Assist.](../licensing/buy-and-deploy.md)
 
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643). 
@@ -40,6 +46,11 @@ To use Remote Assist, you’ll need:
     Teams](https://products.office.com/microsoft-teams/group-chat-software) on a
     PC running Windows 10 to make a video call. Microsoft Teams is [available as
     a free download](https://teams.microsoft.com/downloads).
+
+
+**How often is Remote Assist updated?**
+
+Remote Assist will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
 **Why am I not getting incoming call notifications?**
 
@@ -134,4 +145,4 @@ Still need help? Try our [user forums](https://techcommunity.microsoft.com/t5/Mi
 [Requirements](requirements.md)<br/>
 [User Guide](user-guide.md)<br/>
 [Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)<br/>

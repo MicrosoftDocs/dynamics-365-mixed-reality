@@ -1,4 +1,10 @@
 ---
+author: ReneeW-CPub
+description: Answers to common questions about using Microsoft Dynamics 365 Layout
+ms.author: renwe
+ms.date: 09/21/2018
+ms.service: crm-online
+ms.topic: article
 title: Dynamics 365 Layout FAQ
 ---
 
@@ -8,15 +14,19 @@ Here are answers to common questions about using Microsoft Dynamics 365 Layout.
 
 If you’re an IT admin, learn how to buy and deploy the app. 
 
+**How can I get Layout?**  
+
+If you’re an IT admin, [learn how to buy and deploy the app](../licensing/buy-and-deploy.md).  
+
 **Can I try the app before buying it?**
 
-Yes, Layout is available as a free 30-day trial. For more information, see Buy
-and deploy Remote Assist.
+Yes, Layout is available as a free 30-day trial. For more information, see [Buy
+and deploy Remote Assist](../licensing/buy-and-deploy.md).
 
 **Can I still use the preview app?**
 
 The preview period has ended. Existing preview apps customers have until
-December 1, 2018 to upgrade to a paid subscription.
+December 1, 2018, to upgrade to a paid subscription.
 
 **Do I need the Layout apps for both HoloLens and Windows Mixed Reality?**
 
@@ -45,6 +55,10 @@ Windows Mixed Reality, you’ll need the Microsoft Dynamics Import Tool (Preview
 Yes, if you’re the admin, you’ll need an Azure AD account to distribute the
 apps, and users of Layout and the Import Tool will need an Azure AD account to
 sign in to the apps.
+
+**How often is Layout updated?**
+
+Layout will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
 **Do I need to be connected to Wi-Fi to use Layout?**
 
@@ -83,4 +97,4 @@ Still need help? Try our [user forums](https://techcommunity.microsoft.com/t5/Mi
 [Device options and technical requirements](requirements.md)<br/>
 [Buy and deploy](../licensing/buy-and-deploy.md)<br/>
 [User Guide](user-guide.md)<br/>
-[How-to videos](videos.md)<br/>
+[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>

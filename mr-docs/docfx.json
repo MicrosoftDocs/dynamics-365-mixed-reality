@@ -35,6 +35,16 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "uhfHeaderId": "MSDocsHeader-Dynamics365",
+      "contributors_to_exclude": [
+        "buck1ey",
+        "bishalgoswami",
+        "kathleenmcgrath",
+        "marycc",
+        "tinaburden",
+        "almostdunh"
+      ],
+      "titleSuffix": "Dynamics 365 Mixed Reality",
       "breadcrumb_path": "/dynamics365/mixed-reality/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None"

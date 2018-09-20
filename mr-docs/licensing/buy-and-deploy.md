@@ -1,4 +1,10 @@
 ---
+author: ReneeW-CPub
+description: Buy and deploy Dynamics 365 Remote Assist or Dynamics 365 Layout
+ms.author: renwe
+ms.date: 09/21/2018
+ms.service: crm-online
+ms.topic: article
 title: Buy and deploy Dynamics 365 Remote Assist or Dynamics 365 Layout
 ---
 
@@ -24,7 +30,7 @@ You (enterprise admin) can subscribe to Dynamics 365 Remote Assist or Dynamics
 
 -   WebDirect:
 
-    -   Dynamics 365 marketing page
+    -   [Dynamics 365 marketing page](https://go.microsoft.com/fwlink/p/?linkid=2021142). The marketing page will not be available until September 24.
     
     -   [Office Admin Center](https://portal.office.com)
 
