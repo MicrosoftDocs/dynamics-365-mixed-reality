@@ -1,3 +1,10 @@
-- name: Docs
-  tocHref: /
-  topicHref: /
+- name: Dynamics 365
+  tocHref: /dynamics365/
+  topicHref: /dynamics365/
+  items:
+  - name: "Remote Assist"
+    tocHref: /dynamics365/mixed-reality/remote-assist/
+    topicHref: /dynamics365/mixed-reality/remote-assist/index
+  - name: "Basics Guide"
+    tocHref: /dynamics365/mixed-reality/remote-assist/
+    topicHref: /dynamics365/mixed-reality/layout/index
