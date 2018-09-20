@@ -5,6 +5,6 @@
   - name: "Remote Assist"
     tocHref: /dynamics365/mixed-reality/remote-assist/
     topicHref: /dynamics365/mixed-reality/remote-assist/index
-  - name: "Basics Guide"
-    tocHref: /dynamics365/mixed-reality/remote-assist/
-    topicHref: /dynamics365/mixed-reality/layout/index
+  - name: "Layout"
+    tocHref: /dynamics365/layout/remote-assist/
+    topicHref: /dynamics365/layout/layout/index
