@@ -67,11 +67,11 @@ You can onboard an expert and collaborate using Teams in three easy steps:
 2.  From the menu on the left, select **Show More** \> **Settings** \> **Service
     & add-ins**.
 
-    ![](media/bf81ea48e3ccd560b6f44dbc72a73eb5.png)
+    ![Service & add-ins](media/bf81ea48e3ccd560b6f44dbc72a73eb5.png "Service & add-ins")
 
 1.  Select **Microsoft Teams** from the list of applications.
 
-    ![](media/ad846431f181b1c6df362bc2e0e03167.png)
+    ![Microsoft Teams](media/ad846431f181b1c6df362bc2e0e03167.png "Microsoft Teams")
 
 1.  Select **Settings by user/license type**.
 
@@ -81,7 +81,7 @@ You can onboard an expert and collaborate using Teams in three easy steps:
 3.  Set **Turn Microsoft Teams on or off for all users of this type** to **On**,
     and then choose **Save**.
 
-    ![](media/9f095e7553a4af03ff13ea6a29a9343a.png)
+    ![Save](media/9f095e7553a4af03ff13ea6a29a9343a.png "Save")
 
 4.  Wait an hour for the settings to propagate.
 
@@ -91,11 +91,11 @@ You can onboard an expert and collaborate using Teams in three easy steps:
     already exist. The Remote Assist user and the expert must be on the same
     team to communicate.
 
-    ![](media/16e00f809d210dcb3b1e8c8e859b73da.png)
+    ![Join or create a team](media/16e00f809d210dcb3b1e8c8e859b73da.png "Join or create a team")
 
 1.  When asked to add members, enter the expert’s Microsoft account.
 
-    ![](media/71e9276273f8f47b786f743416a2cb64.png)
+    ![Microsoft account](media/71e9276273f8f47b786f743416a2cb64.png "Microsoft account")
 
     > [!NOTE]
     > If you don’t see the option to add a guest by typing an email address, it’s likely that guest access isn’t enabled on your company’s Azure tenant for Teams. Enable guest access as described earlier in this topic.
@@ -114,7 +114,7 @@ You can onboard an expert and collaborate using Teams in three easy steps:
     >     
     > To switch tenants, in the drop-down menu in the upper-right corner of the window, select the appropriate guest tenant:
     
-    ![](media/55237a5359fb66daf7bbb9413adab6b9.png)
+    ![Guest tenant](media/55237a5359fb66daf7bbb9413adab6b9.png "Guest tenant")
        
     > [!NOTE]
     > Teams might take a few seconds to reload.
@@ -134,7 +134,7 @@ When in a call, the expert will see the contact’s space—including the
 holograms—and can use the Mixed Reality toolbar in the video call window to add
 holograms.
 
-![](media/071f358ab6bbf7c2072b15d9203a1593.png)
+![Mixed Reality toolbar](media/071f358ab6bbf7c2072b15d9203a1593.png "Mixed Reality toolbar")
 
 ## Draw and annotate
 
@@ -156,13 +156,13 @@ of the app window.
 
 Use the Mixed Reality toolbar to place arrows, draw, or add files:
 
--   To add arrows, select **Place arrow** ![](media/6584f4b7932378aa23f6efbf460b304c.png) .
+-   To add arrows, select **Place arrow** ![Place arrow](media/6584f4b7932378aa23f6efbf460b304c.png "Place arrow") .
 
--   To add ink, select **Ink** ![](media/187307e30fd713f5ae67aba854b78bc4.png) .
+-   To add ink, select **Ink** ![Ink](media/187307e30fd713f5ae67aba854b78bc4.png "Ink") .
 
--   To change the arrow or ink color, select **Pick a color** ![](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png) .
+-   To change the arrow or ink color, select **Pick a color** ![Pick a color](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png "Pick a color") .
 
--   To add a file, select **Insert files** ![](media/41aa538d3be8e163215f7d9374abe90e.png), and then add an image file or a PDF file.
+-   To add a file, select **Insert files** ![Insert files](media/41aa538d3be8e163215f7d9374abe90e.png "Insert files"), and then add an image file or a PDF file.
 
     > [!NOTE]
     > After adding them, images can’t be moved, deleted, or resized by the expert.
@@ -182,9 +182,9 @@ To make changes to edits, do one of the following:
 
 -   While in edit mode, select **Undo** to undo the last action.
 
--   While in edit mode, select **Erase all** ![](media/3aab547aa81003ad181eceadc2c83a47.png) to erase all of the annotations made during that editing session.
+-   While in edit mode, select **Erase all** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all") to erase all of the annotations made during that editing session.
 
--   While in live mode, select **Erase all** ![](media/3aab547aa81003ad181eceadc2c83a47.png) to erase all of the annotations made during that call.
+-   While in live mode, select **Erase all** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all") to erase all of the annotations made during that call.
 
 > [!NOTE]
 > Specific drawings or arrows can’t be removed. Only the HoloLens user can make changes to or delete pictures added by an expert.

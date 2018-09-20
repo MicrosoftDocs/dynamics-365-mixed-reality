@@ -47,9 +47,9 @@ public store.
 
 | **App**     | **Device**            | **Use to**                            | **To install from Microsoft store** |
 |-------------|-----------------------|---------------------------------------------|-------------------------------------|
-| Layout      | HoloLens              | <ul><li>Create layouts by scanning your surroundings </li><li>Place models in your layouts </li></ul>     | On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Layout," and then install the app. <br> **Note:** The General Availability version of Layout will not be available until October 1, 2018.   |
-| Layout      | Mixed reality headset | Place models in layouts imported from HoloLens or Microsoft Visio | 1. On your PC go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Layout," and then install the app. <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br> **Note:** The General Availability version of Layout will not be available until October 1, 2018.  |
-| Import Tool | PC                    | <ul><li>Transfer floorplans from Microsoft Visio to HoloLens or Windows Mixed Reality</li><li>Transfer layouts between HoloLens and Windows Mixed Reality </li><li>Process 3D models for use on HoloLens </ul>| On your PC go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), search for “Dynamics 365 Import Tool (Preview)," and then install the app. <br> **Note:** Dynamics 365 Import Tool (Preview) will not be available until October 1, 2018.   |
+| Layout      | HoloLens              | <ul><li>Create layouts by scanning your surroundings </li><li>Place models in your layouts </li></ul>     | On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “Dynamics 365 Layout," and then install the app. <br> **Note:** The General Availability version of Layout will not be available until October 1, 2018.   |
+| Layout      | Mixed reality headset | Place models in layouts imported from HoloLens or Microsoft Visio | 1. On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “Dynamics 365 Layout," and then install the app. <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br> **Note:** The General Availability version of Layout will not be available until October 1, 2018.  |
+| Import Tool | PC                    | <ul><li>Transfer floorplans from Microsoft Visio to HoloLens or Windows Mixed Reality</li><li>Transfer layouts between HoloLens and Windows Mixed Reality </li><li>Process 3D models for use on HoloLens </ul>| On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “Dynamics 365 Import Tool (Preview)," and then install the app. <br> **Note:** Dynamics 365 Import Tool (Preview) will not be available until October 1, 2018.   |
 
 ## Use Layout
 
@@ -78,7 +78,7 @@ Layout**
     the one that matches your version of Visio).
     
     > [!div class="mx-imgBorder"]
-    > ![Download Visio add-in](media/1-visio-download-page.png) 
+    > ![Download Visio add-in](media/1-visio-download-page.png "Download Visio add-in") 
 
 3.  Open Visio, and then select **File** \> **Options** \> **Add-ins**.
 
@@ -111,7 +111,7 @@ To use the layout on HoloLens, you’ll need to move it there:
     **Send**.
     
     > [!div class="mx-imgBorder"]
-    > ![Move layout to HoloLens](media/2-selected-layouts-send-to-hololens.png)
+    > ![Move layout to HoloLens](media/2-selected-layouts-send-to-hololens.png "Move layout to HoloLens")
 
 4.  On HoloLens, open the Layout app. You’ll find your layout on the **Layouts**
     tab.
@@ -134,7 +134,7 @@ headset: 
     select **Send**.
     
     > [!div class="mx-imgBorder"]
-    > ![Move layout from HoloLens](media/3-selected-layouts-send-to-pc.png)
+    > ![Move layout from HoloLens](media/3-selected-layouts-send-to-pc.png "Move layout from HoloLens")
 
 ## Convert 3D models for use on HoloLens or Windows Mixed Reality headsets
 
@@ -156,7 +156,7 @@ device you want to use them on.
         [limits on the file types](#file-types-and-guidelines) you can import.)
         
         > [!div class="mx-imgBorder"]
-        > ![Cloud or PC option](media/4-use-cloud-pc-option.png)
+        > ![Cloud or PC option](media/4-use-cloud-pc-option.png "Cloud or PC option")
 
 4.  Navigate to the folder where your models are saved, and then select the
     models you want to add (up to 25 at a time).
@@ -177,7 +177,7 @@ To use your models on HoloLens, you’ll need to copy them to the device:
     check boxes on the models you want to send to HoloLens.
     
     > [!div class="mx-imgBorder"]
-    > ![Copy models to HoloLens](media/5-copy-models-to-hololens.png)
+    > ![Copy models to HoloLens](media/5-copy-models-to-hololens.png "Copy models to HoloLens")
 
 4.  Select **Send**.
 
@@ -259,7 +259,7 @@ obfuscated URLs.
 -   The simplified model is fetched via an obfuscated URL by using the HTTPS
     protocol.
 
-    ![](media/2b7b299ce1a466ff2c5ffd87ea41e2a4.png)
+    ![Simplified model](media/2b7b299ce1a466ff2c5ffd87ea41e2a4.png "Simplified model")
 
 ## Work with models
 

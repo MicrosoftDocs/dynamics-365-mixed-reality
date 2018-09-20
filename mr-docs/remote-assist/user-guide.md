@@ -57,14 +57,14 @@ link, or another method.
 > [!NOTE]
 > The General Availability version of Dynamics 365 Remote Assist will not be available in the Microsoft Store until October 1, 2018.
 
-1.  On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **Microsoft Store** ![](media/2ac602b5a7855d312f3e7d924732acca.png), and then search for “Remote Assist.”
+1.  On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.pngStart) \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “Remote Assist.”
 
 <!--
     > [!TIP]
     > On your HoloLens right now? Get Remote Assist.
 -->
 
-1.  On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png) \> **All apps**. Select **Remote Assist**, then select again to launch the app. Remote Assist is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
+1.  On your HoloLens, go to **Start** ![](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **Remote Assist**, then select again to launch the app. Remote Assist is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
 
 If your HoloLens is running the April 2018 Update and you're signed in with an
 Azure Active Directory (AAD) account, you'll automatically be signed in to
@@ -84,7 +84,7 @@ commands.](#use-voice-commands)
 ### Make a video call to a contact using Microsoft Teams
 
 -   Open the app and [select](https://support.microsoft.com/en-us/help/12644) a
-    recent contact. If you don’t see the contact you want, select **Search** ![](media/e3155cd796106ea0818d8f52c7dbfcbe.png), and then use the holographic keyboard to enter a name or email address.
+    recent contact. If you don’t see the contact you want, select **Search** ![Search](media/e3155cd796106ea0818d8f52c7dbfcbe.png "Search"), and then use the holographic keyboard to enter a name or email address.
 
 When your contact answers the call in Microsoft Teams, they’ll be able to see
 what you see in your space—including holograms.
@@ -95,7 +95,7 @@ room so you can hear even if you're working in a loud environment.
 
 ### Receive a video call from a contact using Microsoft Teams
 
--   Select **Video** ![](media/bae39e2bdb1eafec5c36c76ffa640355.png) (or say “Video”) to accept the call as a video call or **Audio** ![](media/972493ccc469c4ca41c04f96fabf6ba5.png) (or say “Audio”) to accept it as a voice-only call. To decline the call, select **Ignore** (or say “Ignore”).
+-   Select **Video** ![Video](media/bae39e2bdb1eafec5c36c76ffa640355.png "Video") (or say “Video”) to accept the call as a video call or **Audio** ![Audio](media/972493ccc469c4ca41c04f96fabf6ba5.png "Audio") (or say “Audio”) to accept it as a voice-only call. To decline the call, select **Ignore** (or say “Ignore”).
 
 > [!NOTE]
 > To receive calls when you’re using other apps on HoloLens, open the
@@ -110,7 +110,7 @@ You can pin your video feed in your space, or you can have it follow you around.
 
 To pin your video feed:
 
--   Gaze to position the window, and then select **Pin** ![](media/d213f48b98dc5b8e41318aaa3782c395.png) (or say “Pin”). To have it follow you again, select **Unpin** ![](media/1f4f3c48b466bfaa7a222cd4f1158c9c.png) (or say “Unpin”).
+-   Gaze to position the window, and then select **Pin** ![Pin](media/d213f48b98dc5b8e41318aaa3782c395.png "Pin") (or say “Pin”). To have it follow you again, select **Unpin** ![Unpin](media/1f4f3c48b466bfaa7a222cd4f1158c9c.png "Unpin") (or say “Unpin”).
 
 ### Text chat
 
@@ -119,7 +119,7 @@ the text messages sent during the call.
 
 To open the chat window and enter a message:
 
-1.  Select Show ![](media/chaticon3.png) (or say “Show”).
+1.  Select Show ![Show](media/chaticon3.png "Show") (or say “Show”).
 
 2.  Select the text preview field at the bottom of the chat window. This will
     bring up the holographic keyboard.
@@ -128,7 +128,7 @@ To open the chat window and enter a message:
 
     -   Select characters in the holographic keyboard.
 
-    -   Select **Microphone** ![](media/microphone3.png), and then dictate your message. HoloLens will convert the message into text.
+    -   Select **Microphone** ![Microphone](media/microphone3.png "Microphone"), and then dictate your message. HoloLens will convert the message into text.
 
     -   Connect a Bluetooth keyboard directly to the HoloLens and type your message.
 
@@ -182,7 +182,7 @@ during a video call.
 
 To add a file:
 
-1.  During a video call, select **OneDrive** ![](media/12b28856b051be23e665c896cd21b7d2.png) (or say “OneDrive”).
+1.  During a video call, select **OneDrive** ![OneDrive](media/12b28856b051be23e665c896cd21b7d2.png "OneDrive") (or say “OneDrive”).
 
 2.  Find and select the file you want to add.
 
@@ -213,7 +213,7 @@ for later.
 
 To take a snapshot:
 
--   Select **Camera** ![](media/cameraicon3.png) (or say “Camera”), and then air tap (or say “Snap”) to take the photo.
+-   Select **Camera** ![Camera](media/cameraicon3.png "Camera") (or say “Camera”), and then air tap (or say “Snap”) to take the photo.
 
 >   The photo will be saved to your HoloLens camera roll.
 
@@ -327,7 +327,7 @@ context of a Dynamics 365 Field Service booking.
 
 ### View a Field Service booking and call an expert from Remote Assist
 
-1.  In the Contacts menu, select **Dynamics 365** ![](media/d365-button3.png) to open the **Booking** pane. (Select **Dynamics 365** ![](media/d365-button3.png) again to close the **Booking** pane.)  
+1.  In the Contacts menu, select **Dynamics 365** ![Dynamics 365](media/d365-button3.png "Dynamics 365") to open the **Booking** pane. (Select **Dynamics 365** ![Dynamics 365](media/d365-button3.png "Dynamics 365") again to close the **Booking** pane.)  
       
     The **Recent Contacts** screen will appear with a **Booking** pane to the
     right.
@@ -337,7 +337,7 @@ context of a Dynamics 365 Field Service booking.
     
 1.  In the **Booking** pane, select the resource (expert). 
 
-    ![](media/61c6885a58d179a39e18b3af01554fcc.png)
+    ![Select the resource (expert)](media/61c6885a58d179a39e18b3af01554fcc.png "Select the resource (expert)")
 
 1.  In the filtered contacts list, select the tile for the expert. If you don’t
     see the contact you’re looking for, select **Search** to bring up the
@@ -345,7 +345,7 @@ context of a Dynamics 365 Field Service booking.
       
     When you select a contact, you’ll see the following screen. 
 
-    ![](media/712a579fd6c37af3087cd31fd01bab74.png)
+    ![Select a contact](media/712a579fd6c37af3087cd31fd01bab74.png "Select a contact")
     
     > [!NOTE]
     > Booking information is blurred out when you’re in a video call, but remains visible during an audio-only call.
