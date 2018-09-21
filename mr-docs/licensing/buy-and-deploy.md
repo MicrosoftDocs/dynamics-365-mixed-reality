@@ -5,7 +5,7 @@ ms.author: renwe
 ms.date: 09/21/2018
 ms.service: crm-online
 ms.topic: article
-title: Buy and deploy Dynamics 365 Remote Assist or Dynamics 365 Layout
+title: Buy and deploy Dynamics 365 Remote Assist or Layout
 ---
 
 # Buy and deploy Dynamics 365 Remote Assist or Dynamics 365 Layout
