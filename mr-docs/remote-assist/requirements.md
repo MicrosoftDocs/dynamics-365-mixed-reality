@@ -5,7 +5,7 @@ ms.author: renwe
 ms.date: 09/21/2018
 ms.service: crm-online
 ms.topic: article
-title: Requirements for setting up Dynamics 365 Remote Assist
+title: Requirements for Dynamics 365 Remote Assist
 ---
 
 # Requirements for setting up Dynamics 365 Remote Assist

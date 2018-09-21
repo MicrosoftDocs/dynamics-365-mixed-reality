@@ -5,7 +5,7 @@ ms.author: renwe
 ms.date: 09/21/2018
 ms.service: crm-online
 ms.topic: article
-title: Set up and use Microsoft Teams with Remote Assist to collaborate on a call
+title: Set up and use Microsoft Teams with Remote Assist
 ---
 
 # Set up and use Microsoft Teams with Remote Assist to collaborate on a call
