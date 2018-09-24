@@ -1,3 +1,12 @@
+---
+author: ReneeW-CPub
+description: Microsoft Software License Terms MICROSOFT DYNAMICS 365 REMOTE ASSIST
+ms.author: renwe
+ms.date: 09/24/2018
+ms.service: crm-online
+ms.topic: article
+title: Microsoft Software License Terms MICROSOFT DYNAMICS 365 REMOTE ASSIST
+---
 Microsoft Software License Terms<br>MICROSOFT DYNAMICS 365 REMOTE ASSIST
 ========================================================================
 
@@ -23,12 +32,10 @@ TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 >   install copies of the software on mixed reality devices you own or control
 >   so long as you have a valid subscription license to Microsoft Dynamics 365
 >   Remote Assist.
-
 >   b. **Included Microsoft Applications**. The software may include other
 >   Microsoft applications. These license terms apply to those included
 >   applications, if any, unless other license terms are provided with the other
 >   Microsoft applications.
-
 >   c. **Third Party Software**. The software may include third party
 >   applications that are licensed to you under this agreement or under their
 >   own terms. License terms, notices, and acknowledgements, if any, for the
@@ -58,15 +65,11 @@ limitation, you will not (and have no right to):
 
 >   a. work around any technical limitations in the software that only allow you
 >   to use it in certain ways;
-
 >   b. reverse engineer, decompile or disassemble the software;
-
 >   c. remove, minimize, block, or modify any notices of Microsoft or its
 >   suppliers in the software;
-
 >   d. use the software in any way that is against the law or to create or
 >   propagate malware; or
-
 >   e. share, publish, distribute, or lend the software, provide the software as
 >   a stand-alone hosted solution for others to use, or transfer the software or
 >   this agreement to any third party.
@@ -115,21 +118,17 @@ mandatory country law applies, then the following provisions apply to you:
 >   a. **Australia**. You have statutory guarantees under the Australian
 >   Consumer Law and nothing in this agreement is intended to affect those
 >   rights.
-
 >   b. **Canada**. If you acquired this software in Canada, you may stop
 >   receiving updates by turning off the automatic update feature, disconnecting
 >   your device from the Internet (if and when you re-connect to the Internet,
 >   however, the software will resume checking for and installing updates), or
 >   uninstalling the software. The product documentation, if any, may also
 >   specify how to turn off updates for your specific device or software.
-
 >   c. **Germany and Austria**.
-
 >>   i. Warranty. The properly licensed software will perform substantially as
 >>   described in any Microsoft materials that accompany the software. However,
 >>   Microsoft gives no contractual guarantee in relation to the licensed
 >>   software.
-
 >>   ii. Limitation of Liability. In case of intentional conduct, gross
 >>   negligence, claims based on the Product Liability Act, as well as, in case
 >>   of death or personal or physical injury, Microsoft is liable according to
