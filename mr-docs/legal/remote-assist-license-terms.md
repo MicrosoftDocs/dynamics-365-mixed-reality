@@ -6,6 +6,7 @@ ms.date: 09/24/2018
 ms.service: crm-online
 ms.topic: article
 title: Microsoft Software License Terms MICROSOFT DYNAMICS 365 REMOTE ASSIST
+robots: noindex, nofollow
 ---
 Microsoft Software License Terms<br>MICROSOFT DYNAMICS 365 REMOTE ASSIST
 ========================================================================
