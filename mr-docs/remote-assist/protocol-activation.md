@@ -29,7 +29,7 @@ The URI would look something like this:
 ms-voip-video:?contactids=\<contactID\>
 `
 
-The contact ID is the user’s Azure Active Directory (AAD) objectID.
+The contact ID is the user’s Azure Active Directory (Azure AD) objectID.
 
 ## Code sample
 

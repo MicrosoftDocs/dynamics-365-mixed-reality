@@ -12,8 +12,6 @@ title: Dynamics 365 Layout FAQ
 
 Here are answers to common questions about using Microsoft Dynamics 365 Layout.
 
-If you’re an IT admin, learn how to buy and deploy the app. 
-
 **How can I get Layout?**  
 
 If you’re an IT admin, [learn how to buy and deploy the app](../licensing/buy-and-deploy.md).  
@@ -21,7 +19,7 @@ If you’re an IT admin, [learn how to buy and deploy the app](../licensing/buy-
 **Can I try the app before buying it?**
 
 Yes, Layout is available as a free 30-day trial. For more information, see [Buy
-and deploy Remote Assist](../licensing/buy-and-deploy.md).
+and deploy Layout](../licensing/buy-and-deploy.md).
 
 **Can I still use the preview app?**
 
@@ -32,7 +30,7 @@ December 1, 2018, to upgrade to a paid subscription.
 
 No, you can use each app separately, though they do work together as well. If
 you want to copy 3D models or layouts from your PC to your HoloLens or to
-Windows Mixed Reality, you’ll need the Microsoft Dynamics Import Tool (Preview).
+Windows Mixed Reality, you’ll need the Microsoft Dynamics 365 Import Tool (Preview).
 
 **What are the technical requirements for running the Layout apps?**
 
