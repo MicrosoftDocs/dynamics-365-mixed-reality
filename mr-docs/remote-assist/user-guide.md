@@ -11,7 +11,7 @@ title: Dynamics 365 Remote Assist User Guide
 # Dynamics 365 Remote Assist User Guide
 
 Use Microsoft Dynamics 365 Remote Assist to connect and collaborate using
-hands-free video calling, mixed reality annotation, and file (image and PDF)
+hands-free video calling, mixed reality annotations, and file (image and PDF)
 sharing. Use your HoloLens to call an expert who's using Microsoft Teams, and
 then share what you see on HoloLens to solve problems and complete tasks
 together, faster.
@@ -59,15 +59,10 @@ link, or another method.
 
 1.  On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “Remote Assist.”
 
-<!--
-    > [!TIP]
-    > On your HoloLens right now? Get Remote Assist.
--->
-
-1.  On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **Remote Assist**, then select again to launch the app. Remote Assist is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
+2.  On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **Remote Assist**, then select again to launch the app. Remote Assist is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
 
 If your HoloLens is running the April 2018 Update and you're signed in with an
-Azure Active Directory (AAD) account, you'll automatically be signed in to
+Azure Active Directory (Azure AD) account, you'll automatically be signed in to
 Remote Assist. If not, use the holographic keyboard to sign in with a work or
 school account that has an Office 365 Premium or Essentials subscription. Once
 you’re signed in, you’ll see your recent contacts.
@@ -238,7 +233,8 @@ To use a voice command:
 -   Say “Remote Assist,” and then say one of the voice commands in the following
     table.
 
-**Note:** You can also gaze at any button and say “Select” to select that
+> [!NOTE]
+> You can also gaze at any button and say “Select” to select that
 button.
 
 | **Voice command**            | **Description**                                                                      |
@@ -320,7 +316,7 @@ If your organization uses [Dynamics 365 for Field Service](https://dynamics.micr
 work orders, you (the first-line worker) can view Dynamics 365 for Field Service
 bookings from Remote Assist and call the expert listed in the Resource field.
 This enables you to do heads-up, hands-free calling through HoloLens in the
-context of a Dynamics 365 Field Service booking.
+context of a Dynamics 365 for Field Service booking.
 
 > [!NOTE]
 > [A Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view Field Service bookings.
