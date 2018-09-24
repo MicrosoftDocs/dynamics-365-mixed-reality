@@ -30,16 +30,17 @@ You (enterprise admin) can subscribe to Dynamics 365 Remote Assist or Dynamics
 
 -   WebDirect:
 
-    -   [Dynamics 365 marketing page](https://go.microsoft.com/fwlink/p/?linkid=2021142). The marketing page will not be available until September 24.
-    
+    -   Dynamics 365 marketing pages: <br>
+        - [Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/) <br>
+        - [Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/)<br>
     -   [Office Admin Center](https://portal.office.com)
 
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
 
 -   [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner)
 
-After you subscribe, you’ll need to assign licenses to users in the [Office Admin Center](https://portal.office.com/) or Partner Center. Each user you
-assign a license to will need an Azure Active Directory (AAD) account.
+After you subscribe, you’ll need to assign licenses to users in the [Office Admin Center](https://portal.office.com/) or [Partner Center](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner). Each user you
+assign a license to will need an Azure Active Directory (Azure AD) account.
 
 > [!NOTE]
 > Remote Assist and Layout are also available on a free 30-day trial
@@ -67,9 +68,9 @@ in any of the following ways:
 For information on installing the apps from the Microsoft Store for Consumers,
 use the following links:
 
--   Dynamics 365 Remote Assist User Guide
--   Dynamics 365 Layout User Guide. Users will need to install both Dynamics 365
-    Layout and Dynamics 365 Import Tool (Preview).
+-   [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md).
+-   [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both Dynamics 365.
+    [Layout and Dynamics 365 Import Tool (Preview)](../layout/user.guide.md).
 
 > [!NOTE]
 > <ul><li>When users launch the apps, they’ll need to use the same AAD accounts that the admin assigned in the Office Admin Center.</li>
