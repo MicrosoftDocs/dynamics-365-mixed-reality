@@ -12,7 +12,7 @@ title: Overview of Dynamics 365 Remote Assist
 
 Empower technicians to solve problems faster the first time. With heads-up, hands-free video calling on Microsoft HoloLens, technicians can collaborate with remote experts on a PC or mobile device to troubleshoot issues in context. 
 
-[Watch a video on Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/).
+[Watch a video on Remote Assist](https://www.youtube.com/watch?v=V732PXZHLiU).
 
 ### See also
 [Requirements](requirements.md)<br/>
