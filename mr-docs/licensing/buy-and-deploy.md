@@ -68,9 +68,8 @@ in any of the following ways:
 For information on installing the apps from the Microsoft Store for Consumers,
 use the following links:
 
--   [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md).
--   [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both Dynamics 365.
-    [Layout and Dynamics 365 Import Tool (Preview)](../layout/user.guide.md).
+-   [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md)
+-   [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both Dynamics 365 Layout and [Dynamics 365 Import Tool (Preview)](../layout/user.guide.md)
 
 > [!NOTE]
 > <ul><li>When users launch the apps, they’ll need to use the same AAD accounts that the admin assigned in the Office Admin Center.</li>
