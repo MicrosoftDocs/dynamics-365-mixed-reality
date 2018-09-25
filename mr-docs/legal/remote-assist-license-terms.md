@@ -166,7 +166,7 @@ FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. \$5.00. YOU
 CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS,
 SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.**
 
-13. This limitation applies to (a) anything related to the software, services,
+**13.** This limitation applies to (a) anything related to the software, services,
 content (including code) on third party Internet sites, or third party
 applications; and (b) claims for breach of contract, warranty, guarantee, or
 condition; strict liability, negligence, or other tort; or any other claim; in

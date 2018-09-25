@@ -12,7 +12,7 @@ robots: noindex, nofollow
 Microsoft Software License Terms<br>MICROSOFT DYNAMICS 365 LAYOUT
 =================================================================
 
-1. These license terms are an agreement between you and Microsoft Corporation
+**1.** These license terms are an agreement between you and Microsoft Corporation
 (or one of its affiliates). They apply to the software named above and any
 Microsoft services or software updates (except to the extent such services or
 updates are accompanied by new or additional terms, in which case those
@@ -20,7 +20,7 @@ different terms apply prospectively and do not alter your or Microsoft’s right
 relating to pre-updated software or services). IF YOU COMPLY WITH THESE LICENSE
 TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
-2. **INSTALLATION AND USE RIGHTS**.
+**2. INSTALLATION AND USE RIGHTS**.
 
 >   a. **General**. You may install and use one copy of the software on mixed
 >   reality devices you own or control in order to access and interact with the
@@ -49,7 +49,7 @@ TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 >   limitations on, and exclusions of damages below also apply to the extent
 >   allowed by applicable law.
 
-3. **DATA COLLECTION**. The software may collect information about you and your
+**3. DATA COLLECTION**. The software may collect information about you and your
 use of the software and send that to Microsoft. Microsoft may use this
 information to provide services and improve Microsoft’s products and services.
 Your opt-out rights, if any, are described in the product documentation. Some
@@ -63,7 +63,7 @@ in the product documentation and the Microsoft Privacy Statement at
 <https://go.microsoft.com/fwlink/?LinkId=521839>. You agree to comply with all
 applicable provisions of the Microsoft Privacy Statement.
 
-4. **SCOPE OF LICENSE**. The software is licensed, not sold. Microsoft reserves
+**4. SCOPE OF LICENSE**. The software is licensed, not sold. Microsoft reserves
 all other rights. Unless applicable law gives you more rights despite this
 limitation, you will not (and have no right to):
 
@@ -82,27 +82,27 @@ limitation, you will not (and have no right to):
 >   a stand-alone hosted solution for others to use, or transfer the software or
 >   this agreement to any third party.
 
-5. **EXPORT RESTRICTIONS**. You must comply with all domestic and international
+**5. EXPORT RESTRICTIONS**. You must comply with all domestic and international
 export laws and regulations that apply to the software, which include
 restrictions on destinations, end users, and end use. For further information on
 export restrictions, visit <https://aka.ms/exporting>.
 
-6. **SUPPORT SERVICES**. Microsoft is not obligated under this agreement to
+**6. SUPPORT SERVICES**. Microsoft is not obligated under this agreement to
 provide any support services for the software. Any support provided is “as is”,
 “with all faults”, and without warranty of any kind.
 
-7. **UPDATES**. The software may periodically check for updates, and download
+**7. UPDATES**. The software may periodically check for updates, and download
 and install them for you. You may obtain updates only from Microsoft or
 authorized sources. Microsoft may need to update your system to provide you with
 updates. You agree to receive these automatic updates without any additional
 notice. Updates may not include or support all existing software features,
 services, or peripheral devices.
 
-8. **ENTIRE AGREEMENT**. This agreement, and any other terms Microsoft may
+**8. ENTIRE AGREEMENT**. This agreement, and any other terms Microsoft may
 provide including terms for supplements, updates, or third-party applications,
 is the entire agreement for the software.
 
-9. **APPLICABLE LAW AND PLACE TO RESOLVE DISPUTES**. If you acquired the
+**9. APPLICABLE LAW AND PLACE TO RESOLVE DISPUTES**. If you acquired the
 software in the United States or Canada, the laws of the state or province where
 you live (or, if a business, where your principal place of business is located)
 govern the interpretation of this agreement, claims for its breach, and all
@@ -114,7 +114,7 @@ in King County, Washington for all disputes heard in court. If not, you and
 Microsoft consent to exclusive jurisdiction and venue in the Superior Court of
 King County, Washington for all disputes heard in court.
 
-10. **CONSUMER RIGHTS; REGIONAL VARIATIONS**. This agreement describes certain
+**10. CONSUMER RIGHTS; REGIONAL VARIATIONS**. This agreement describes certain
 legal rights. You may have other rights, including consumer rights, under the
 laws of your state, province, or country. Separate and apart from your
 relationship with Microsoft, you may also have rights with respect to the party
@@ -154,19 +154,19 @@ with which a party may constantly trust in (so-called "cardinal obligations").
 In other cases of slight negligence, Microsoft will not be liable for slight
 negligence.
 
-11. **DISCLAIMER OF WARRANTY. THE SOFTWARE IS LICENSED “AS IS.” YOU BEAR THE
+**11. DISCLAIMER OF WARRANTY. THE SOFTWARE IS LICENSED “AS IS.” YOU BEAR THE
 RISK OF USING IT. MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES, OR
 CONDITIONS. TO THE EXTENT PERMITTED UNDER APPLICABLE LAWS, MICROSOFT EXCLUDES
 ALL IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
 PURPOSE, AND NON-INFRINGEMENT.**
 
-12. **LIMITATION ON AND EXCLUSION OF DAMAGES. IF YOU HAVE ANY BASIS FOR
+**12. LIMITATION ON AND EXCLUSION OF DAMAGES. IF YOU HAVE ANY BASIS FOR
 RECOVERING DAMAGES DESPITE THE PRECEDING DISCLAIMER OF WARRANTY, YOU CAN RECOVER
 FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. \$5.00. YOU
 CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS,
 SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.**
 
-13. This limitation applies to (a) anything related to the software, services,
+**13.** This limitation applies to (a) anything related to the software, services,
 content (including code) on third party Internet sites, or third party
 applications; and (b) claims for breach of contract, warranty, guarantee, or
 condition; strict liability, negligence, or other tort; or any other claim; in
