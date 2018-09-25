@@ -8,6 +8,7 @@ ms.topic: article
 title: Microsoft Software License Terms MICROSOFT DYNAMICS 365 REMOTE ASSIST
 robots: noindex, nofollow
 ---
+
 Microsoft Software License Terms<br>MICROSOFT DYNAMICS 365 REMOTE ASSIST
 ========================================================================
 
@@ -19,34 +20,34 @@ different terms apply prospectively and do not alter your or Microsoft’s right
 relating to pre-updated software or services). IF YOU COMPLY WITH THESE LICENSE
 TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
-2. **INSTALLATION AND USE RIGHTS.**
+2. **INSTALLATION AND USE RIGHTS**.
 
- >   a. **General**. You may install and use one copy of the software on mixed
- >   reality devices you own or control in order to access and interact with the
- >   Microsoft Dynamics 365 Remote Assist application to which you have access
- >   rights via your company’s Microsoft Dynamics 365 Remote Assist subscription.
- >   Your access to Microsoft Dynamics 365 Remote Assist must comply with the
- >   existing license terms that apply to you through your company’s
- >   subscription. Your access to Microsoft Teams through the use of this
- >   software must comply with the existing license terms for Microsoft Office
- >   365 that apply to you through your company’s subscription. You may use and
- >   install copies of the software on mixed reality devices you own or control
- >   so long as you have a valid subscription license to Microsoft Dynamics 365
- >   Remote Assist.
-
- >   b. **Included Microsoft Applications**. The software may include other
- >   Microsoft applications. These license terms apply to those included
- >   applications, if any, unless other license terms are provided with the other
- >   Microsoft applications.
- 
- >   c. **Third Party Software**. The software may include third party
- >   applications that are licensed to you under this agreement or under their
- >   own terms. License terms, notices, and acknowledgements, if any, for the
- >   third party applications may be accessible online at
- >   <https://aka.ms/thirdpartynotices> or in an accompanying notices file. Even
- >   if such applications are governed by other agreements, the disclaimer,
- >   limitations on, and exclusions of damages below also apply to the extent
- >   allowed by applicable law.
+>   a. **General**. You may install and use one copy of the software on mixed
+>   reality devices you own or control in order to access and interact with the
+>   Microsoft Dynamics 365 Remote Assist application to which you have access
+>   rights via your company’s Microsoft Dynamics 365 Remote Assist subscription.
+>   Your access to Microsoft Dynamics 365 Remote Assist must comply with the
+>   existing license terms that apply to you through your company’s
+>   subscription. Your access to Microsoft Teams through the use of this
+>   software must comply with the existing license terms for Microsoft Office
+>   365 that apply to you through your company’s subscription. You may use and
+>   install copies of the software on mixed reality devices you own or control
+>   so long as you have a valid subscription license to Microsoft Dynamics 365
+>   Remote Assist.
+> 
+>   b. **Included Microsoft Applications**. The software may include other
+>   Microsoft applications. These license terms apply to those included
+>   applications, if any, unless other license terms are provided with the other
+>   Microsoft applications.
+> 
+>   c. **Third Party Software**. The software may include third party
+>   applications that are licensed to you under this agreement or under their
+>   own terms. License terms, notices, and acknowledgements, if any, for the
+>   third party applications may be accessible online at
+>   <https://aka.ms/thirdpartynotices> or in an accompanying notices file. Even
+>   if such applications are governed by other agreements, the disclaimer,
+>   limitations on, and exclusions of damages below also apply to the extent
+>   allowed by applicable law.
 
 3. **DATA COLLECTION**. The software may collect information about you and your
 use of the software and send that to Microsoft. Microsoft may use this
@@ -66,20 +67,20 @@ applicable provisions of the Microsoft Privacy Statement.
 all other rights. Unless applicable law gives you more rights despite this
 limitation, you will not (and have no right to):
 
- >   a. work around any technical limitations in the software that only allow you
- >   to use it in certain ways;
- 
- >   b. reverse engineer, decompile or disassemble the software;
- 
- >   c. remove, minimize, block, or modify any notices of Microsoft or its
- >   suppliers in the software;
- 
- >   d. use the software in any way that is against the law or to create or
- >   propagate malware; or
- 
- >   e. share, publish, distribute, or lend the software, provide the software as
- >   a stand-alone hosted solution for others to use, or transfer the software or
- >   this agreement to any third party.
+>   a. work around any technical limitations in the software that only allow you
+>   to use it in certain ways;
+> 
+>   b. reverse engineer, decompile or disassemble the software;
+> 
+>   c. remove, minimize, block, or modify any notices of Microsoft or its
+>   suppliers in the software;
+> 
+>   d. use the software in any way that is against the law or to create or
+>   propagate malware; or
+> 
+>   e. share, publish, distribute, or lend the software, provide the software as
+>   a stand-alone hosted solution for others to use, or transfer the software or
+>   this agreement to any third party.
 
 5. **EXPORT RESTRICTIONS**. You must comply with all domestic and international
 export laws and regulations that apply to the software, which include
@@ -122,27 +123,28 @@ rights if the laws of your state, province, or country do not permit it to do
 so. For example, if you acquired the software in one of the below regions, or
 mandatory country law applies, then the following provisions apply to you:
 
- >   a. **Australia**. You have statutory guarantees under the Australian
- >   Consumer Law and nothing in this agreement is intended to affect those
- >   rights.
-
- >   b. **Canada**. If you acquired this software in Canada, you may stop
- >   receiving updates by turning off the automatic update feature, disconnecting
- >   your device from the Internet (if and when you re-connect to the Internet,
- >   however, the software will resume checking for and installing updates), or
- >   uninstalling the software. The product documentation, if any, may also
- >   specify how to turn off updates for your specific device or software.
-
- >   c. **Germany and Austria**.
-      >   i. Warranty. The properly licensed software will perform substantially as
-      >   described in any Microsoft materials that accompany the software. However,
-      >   Microsoft gives no contractual guarantee in relation to the licensed
-      >   software.
-
-      >   ii. Limitation of Liability. In case of intentional conduct, gross
-      >   negligence, claims based on the Product Liability Act, as well as, in case
-      >   of death or personal or physical injury, Microsoft is liable according to
-      >   the statutory law.
+>   a. **Australia**. You have statutory guarantees under the Australian
+>   Consumer Law and nothing in this agreement is intended to affect those
+>   rights.
+> 
+>   b. **Canada**. If you acquired this software in Canada, you may stop
+>   receiving updates by turning off the automatic update feature, disconnecting
+>   your device from the Internet (if and when you re-connect to the Internet,
+>   however, the software will resume checking for and installing updates), or
+>   uninstalling the software. The product documentation, if any, may also
+>   specify how to turn off updates for your specific device or software.
+> 
+>   c. **Germany and Austria**.
+> 
+> >   i. **Warranty**. The properly licensed software will perform substantially
+> >   as described in any Microsoft materials that accompany the software.
+> >   However, Microsoft gives no contractual guarantee in relation to the
+> >   licensed software.
+> > 
+> >   ii. **Limitation of Liability**. In case of intentional conduct, gross
+> >   negligence, claims based on the Product Liability Act, as well as, in case
+> >   of death or personal or physical injury, Microsoft is liable according to
+> >   the statutory law.
 
 Subject to the foregoing clause (ii), Microsoft will only be liable for slight
 negligence if Microsoft is in breach of such material contractual obligations,
