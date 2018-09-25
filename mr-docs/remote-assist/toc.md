@@ -6,5 +6,5 @@
 ## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
 ## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)
 ## [For developers - protocol activation](protocol-activation.md)
-## [Terms of use](../legal/remote-assist-license-terms.md)
+## [Terms of Use](../legal/remote-assist-license-terms.md)
 ## [FAQ](faq.md)
