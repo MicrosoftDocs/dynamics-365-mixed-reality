@@ -64,8 +64,7 @@ You can onboard an expert and collaborate using Teams in three easy steps:
     <https://portal.office.com/adminportal/> to open the Office Admin portal,
     and then sign in.
 
-2.  From the menu on the left, select **Show More** \> **Settings** \> **Service
-    & add-ins**.
+2.  From the menu on the left, select **Show More** \> **Settings** \> **Services & add-ins**.
 
     ![Service & add-ins](media/bf81ea48e3ccd560b6f44dbc72a73eb5.png "Service & add-ins")
 
@@ -141,7 +140,7 @@ holograms.
 ### Edit mode
 
 To start annotating a contact’s space, first do one of the following to pause
-the video stream and enter edit mode**:**
+the video stream and enter edit mode:
 
 -   Select anywhere in the call window.
 
