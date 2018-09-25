@@ -4,4 +4,5 @@
 ## [Buy and deploy](../licensing/buy-and-deploy.md)
 ## [User Guide](user-guide.md)
 ## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)
+## [License terms](../legal/layout-license-terms.md)
 ## [FAQ](faq.md)
