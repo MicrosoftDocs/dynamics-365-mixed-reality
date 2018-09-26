@@ -124,6 +124,14 @@ If you’re having trouble signing in to Remote Assist, try the following:
 
 Remote Assist is available in English only.
 
+**Where is Remote Assist available?**
+
+Remote Assist, which requires Microsoft HoloLens, is available worldwide.
+
+HoloLens devices are available in the following markets (English only):
+
+Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
+
 **Is group calling available in Remote Assist?**
 
 Group calling isn’t available at this time, but we’re working on it. This
