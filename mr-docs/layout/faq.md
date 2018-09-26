@@ -76,6 +76,14 @@ available only in English. Additionally, to install the Add-in, you’ll need to
 [set the display language for Microsoft Office to
 English](https://support.office.com/article/add-an-editing-language-or-set-language-preferences-in-office-663d9d94-ca99-4a0d-973e-7c4a6b8a827d).
 
+**Where is Layout available?**
+
+Layout is available worldwide. Layout can be used with HoloLens or a Mixed Reality headset/motion controller and a Windows Ultra PC.
+
+Microsoft HoloLens devices are available in the following markets (English only):
+
+Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
+
 **How does the Import Tool process my 3D models?**
 
 By default, the Import Tool uses the Microsoft cloud service to process your
