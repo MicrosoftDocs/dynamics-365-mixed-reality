@@ -2,7 +2,7 @@
 author: ReneeW-CPub
 description: Dynamics 365 Remote Assist User Guide
 ms.author: renwe
-ms.date: 09/21/2018
+ms.date: 10/01/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User Guide
@@ -48,14 +48,11 @@ Need to get up to speed on HoloLens? [Get help](https://support.microsoft.com/pr
 ## Install the Remote Assist app
 
 How you install Remote Assist depends on how your administrator chooses to
-distribute the app. Your admin might have you install the app from the Microsoft
-Store for Consumers, from your organization’s private store, through an email
+distribute the app. Your admin might have you [install the app from the Microsoft
+Store for Consumers](https://www.microsoft.com/store/apps/9P77QGW10K9M), from your organization’s private store, through an email
 link, or another method.
 
 ### Install the application through the Microsoft Store for Consumers
-
-> [!NOTE]
-> The General Availability version of Dynamics 365 Remote Assist will not be available in the Microsoft Store until October 1, 2018.
 
 1.  On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “Remote Assist.”
 
