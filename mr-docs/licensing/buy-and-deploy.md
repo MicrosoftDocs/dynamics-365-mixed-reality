@@ -29,11 +29,9 @@ You (enterprise admin) can subscribe to Dynamics 365 Remote Assist or Dynamics
 365 Layout through any of the following methods:
 
 -   WebDirect:
-
-    -   Dynamics 365 marketing pages: <br>
-        - [Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/) <br>
-        - [Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/)<br>
-    -   [Office Admin Center](https://portal.office.com)
+    - Contact a Microsoft representative 
+        - Call us at 1-888-477-7989
+        - Request to be contacted at http://aka.ms/getmixedreality/     
 
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
 
