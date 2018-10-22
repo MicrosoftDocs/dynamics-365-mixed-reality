@@ -1,4 +1,4 @@
-# Dynamics 365 for Layout
+# Dynamics 365 Layout
 ## [Overview](index.md)
 ## [Device options and technical requirements](requirements.md)
 ## [Buy and deploy](../licensing/buy-and-deploy.md)
