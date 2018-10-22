@@ -19,7 +19,7 @@ more efficiently, and to create new ways to connect with customers and partners.
 
 > [!NOTE]
 > If you’re using the preview version of Dynamics 365 Layout, you have
-until December 1, 2018, to upgrade to the paid version. If you’re using the
+until December 31, 2018, to upgrade to the paid version. If you’re using the
 preview version of Dynamics 365 Remote Assist, you have until December 31, 2018,
 to upgrade to the paid version.
 
