@@ -10,6 +10,7 @@ ms.custom:
 <div id="main" class="v2">
     <div class="container">
         <h1 class="">Dynamics 365 Mixed reality apps</h1>
+        <p>&#160;</p>
         <ul class="pivots">
             <li>
                 <a href="#mixed-reality-apps">Mixed reality apps</a>
