@@ -1,3 +1,7 @@
 - name: Dynamics 365
   tocHref: /dynamics365/
   topicHref: /dynamics365/
+  items:
+  - name: "Mixed Reality"
+    tocHref: /dynamics365/mixed-reality/
+    topicHref: /dynamics365/mixed-reality/

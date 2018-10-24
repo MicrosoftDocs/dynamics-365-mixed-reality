@@ -49,7 +49,29 @@
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "searchScope": {
+        "**.*": [
+          "Dynamics 365",
+          "Mixed Reality"
+        ],
+        "layout/**.*": [
+          "Dynamics 365",
+          "Layout"
+        ],
+        "remote-assist/**.*": [
+          "Dynamics 365",
+          "Customer Engagement",
+          "Remote Assist"
+        ],
+        "licensing/**.*":[
+          "Dynamics 365",
+          "Layout",
+          "Remote Assist",
+          "Mixed Reality"
+        ]
+      }
+    },
     "template": [],
     "dest": "mr-docs",
     "markdownEngineName": "markdig"

@@ -24,7 +24,7 @@ and deploy Layout](../licensing/buy-and-deploy.md).
 **Can I still use the preview app?**
 
 The preview period has ended. Existing preview apps customers have until
-December 1, 2018, to upgrade to a paid subscription.
+December 31, 2018, to upgrade to a paid subscription.
 
 **Do I need the Layout apps for both HoloLens and Windows Mixed Reality?**
 
