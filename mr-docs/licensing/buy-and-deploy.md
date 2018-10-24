@@ -19,7 +19,7 @@ more efficiently, and to create new ways to connect with customers and partners.
 
 > [!NOTE]
 > If you’re using the preview version of Dynamics 365 Layout, you have
-until December 1, 2018, to upgrade to the paid version. If you’re using the
+until December 31, 2018, to upgrade to the paid version. If you’re using the
 preview version of Dynamics 365 Remote Assist, you have until December 31, 2018,
 to upgrade to the paid version.
 
@@ -28,12 +28,9 @@ to upgrade to the paid version.
 You (enterprise admin) can subscribe to Dynamics 365 Remote Assist or Dynamics
 365 Layout through any of the following methods:
 
--   WebDirect:
-
-    -   Dynamics 365 marketing pages: <br>
-        - [Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/) <br>
-        - [Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/)<br>
-    -   [Office Admin Center](https://portal.office.com)
+-   Contact a Microsoft representative 
+    - Call us at 1-888-477-7989
+    - Request to be contacted at http://aka.ms/getmixedreality/     
 
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
 
