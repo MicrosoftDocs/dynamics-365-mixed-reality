@@ -31,7 +31,7 @@ ms.custom:
                                                 <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Layout</h3>
                                                 <p><a href="/dynamics365/mixed-reality/layout/index">Overview</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/requirements">Requirements</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/licensing/buy-and-deploy">Buy and deploy</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/buy-and-deploy">Buy and deploy</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/user-guide">User Guide</a></p>
                                                 <p><a href="https://go.microsoft.com/fwlink/?linkid=2021489">Videos</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/faq">FAQ</a></p>
@@ -53,7 +53,7 @@ ms.custom:
                                                 <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Remote Assist</h3>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/index">Overview</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/requirements">Requirements</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/licensing/buy-and-deploy">Buy and deploy</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/buy-and-deploy">Buy and deploy</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/user-guide">User Guide</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist">Use with Teams</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/protocol-activation">Launch from another app</a></p>
