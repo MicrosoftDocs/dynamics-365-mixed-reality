@@ -1,4 +1,4 @@
-# Dynamics 365 for Remote Assist
+# Dynamics 365 Remote Assist
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
 ## [Buy and deploy](../licensing/buy-and-deploy.md)
