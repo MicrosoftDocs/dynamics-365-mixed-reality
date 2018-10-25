@@ -1,7 +1,7 @@
 # Dynamics 365 Remote Assist
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
-## [Buy and deploy](../licensing/buy-and-deploy.md)
+## [Buy and deploy](buy-and-deploy.md)
 ## [User Guide](user-guide.md)
 ## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
 ## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)
