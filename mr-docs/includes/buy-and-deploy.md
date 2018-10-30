@@ -1,44 +1,79 @@
-# Buy and deploy Dynamics 365 Remote Assist or Dynamics 365 Layout
+# Buy and deploy Dynamics 365 Layout or Dynamics 365 Remote Assist
 
-We’re excited to announce that Dynamics 365 Remote Assist and Dynamics 365
-Layout are available for general use.
+We’re excited to announce that Dynamics 365 Layout and Dynamics 365
+Remote Assist are available for general use.
 
-With Dynamics 365 Remote Assist and Dynamics 365 Layout, you can bridge the gap
+With Layout and Remote Assist, you can bridge the gap
 between the real and digital worlds to complete crucial tasks faster, safer, and
 more efficiently, and to create new ways to connect with customers and partners.
 
 > [!NOTE]
-> If you’re using the preview version of Dynamics 365 Layout, you have
-until December 31, 2018, to upgrade to the paid version. If you’re using the
-preview version of Dynamics 365 Remote Assist, you have until December 31, 2018,
-to upgrade to the paid version.
+> If you’re using the preview version of Layout or Remote Assist, you have
+until December 31, 2018, to upgrade to the paid version. 
 
-## Subscribe to Dynamics 365 Remote Assist or Dynamics 365 Layout
+## Subscribe to Layout or Remote Assist
 
-You need to have an Office 365 admin account to subscribe to Dynamics 365 Remote Assist or Dynamics
-365 Layout. [Learn more about the Office 365 admin account and how to sign in](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
+You can subscribe to Layout or Remote Assist in any of the following ways:
 
-You can subscribe in any any of the following ways:
-
--   Contact a Microsoft representative 
-    - Call us at 1-888-477-7989.
-    - Request to be contacted at http://aka.ms/getmixedreality/.     
+-   Contact a Microsoft representative by: 
+    - Calling us at 1-888-477-7989, or
+    - Requesting to be contacted at http://aka.ms/getmixedreality/.
+    
+-   Through the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home#/catalog). You can also sign up for a free 30-day trial through the Microsoft 365 Admin Center (or the Partner Center Portal). Step-by-step instructions for logging in to the Microsoft 365 Admin Center and subscribing or signing up for a free trial are provided below.
 
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
 
 -   [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner)
 
-After you subscribe, you’ll need to assign licenses to users in the [Office Admin Center](https://portal.office.com/) or [Partner Center](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner). Each user you
+## Subscribe or sign up for a free trial through the Microsoft 365 Admin Center
+
+1. Go to https://portal.office.com/AdminPortal/Home#/catalog.
+2. Log in under your company's admin account.
+3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
+4. Under **Billing** in the left navigation, select **Purchase services**.
+
+   ![Select Purchasing services](media/PurchaseServices.PNG "Select Purchasing services")
+   
+5. Scroll down to the **Other plans** section.
+
+   ![Other plans](media/OtherPlans.PNG "Select Other plans")
+   
+6. Find the product card for Dynamics 365 Remote Assist or Dynamics 365 Layout.
+
+   ![Remote Assist product card](media/ProductCard.PNG "Find Remote Assist product card")
+   
+7. Do one of the following:
+   - To sign up for a free trial, on the product card, select **Start free trial**, and then follow the instructions.
+   - To subscribe, on the product card, select **Buy now**. 
+   
+8. Assign licenses to users as described in the next procedure.
+
+## Assign licenses to users
+
+After subscribing or signing up for a free trial, you’ll need to assign licenses to users in the Microsoft 365 Admin Center or [Partner Center](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner). Each user you
 assign a license to will need an Azure Active Directory (Azure AD) account.
 
-> [!NOTE]
-> Remote Assist and Layout are also available on a free 30-day trial
-basis. You can sign up for a trial from the Office Admin
-Center or the Partner Center Portal. [Get step-by-step instructions for signing up for a trial](www.urltocome).
+### Assign a license to a user in the Microsoft 365 Admin Center
+
+1. In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**.
+
+   ![Select Subscriptions](media/SelectSubscriptions.PNG "Select Subscriptions")
+   
+2. Select the users you'd like to assign the trial or subscription to, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**. 
+
+   ![Edit product licenses](media/EditLicenses.PNG "Edit product licenses")
+   
+3. In the **Add to existing products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
+
+   ![Add to existing product licenses](media/AddProductLicenses.PNG "Add to existing product licenses")
+   
+4. Select the licenses you want to enable for the selected users (Dynamics 365 Remote Assist and/or Dynamics 365 Layout), and then select **Add**.
+
+   ![Select product licenses](media/SelectLicenses.PNG "Select product licenses")
 
 ## Make the apps available to your users
 
-After you’ve subscribed and assigned licenses to your users through the Office
+After you’ve subscribed and assigned licenses to your users through the Microsoft 365
 Admin Center or Partner Center, you can make the apps available through one of
 the following:
 
@@ -61,7 +96,7 @@ use the following links:
 -   [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both Dynamics 365 Layout and [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
-> <ul><li>When users launch the apps, they’ll need to use the same AAD accounts that the admin assigned in the Office Admin Center.</li>
+> <ul><li>When users launch the apps, they’ll need to use the same Azure AD accounts that the admin assigned in the Microsoft 365 Admin Center.</li>
 > <li>The Layout app requires users to be online once every 30 days to validate their subscription.</li></ul>
 
 ### Distribute the apps through the Microsoft Store for Business
