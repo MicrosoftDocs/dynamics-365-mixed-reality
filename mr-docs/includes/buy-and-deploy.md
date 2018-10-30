@@ -15,12 +15,14 @@ to upgrade to the paid version.
 
 ## Subscribe to Dynamics 365 Remote Assist or Dynamics 365 Layout
 
-You (enterprise admin) can subscribe to Dynamics 365 Remote Assist or Dynamics
-365 Layout through any of the following methods:
+You need to have an Office 365 admin account to subscribe to Dynamics 365 Remote Assist or Dynamics
+365 Layout. [Learn more about the Office 365 admin account and how to sign in](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
+
+You can subscribe in any any of the following ways:
 
 -   Contact a Microsoft representative 
-    - Call us at 1-888-477-7989
-    - Request to be contacted at http://aka.ms/getmixedreality/     
+    - Call us at 1-888-477-7989.
+    - Request to be contacted at http://aka.ms/getmixedreality/.     
 
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
 
@@ -32,7 +34,7 @@ assign a license to will need an Azure Active Directory (Azure AD) account.
 > [!NOTE]
 > Remote Assist and Layout are also available on a free 30-day trial
 basis. You can sign up for a trial from the Office Admin
-Center or the Partner Center Portal.
+Center or the Partner Center Portal. [Get step-by-step instructions for signing up for a trial](www.urltocome).
 
 ## Make the apps available to your users
 
