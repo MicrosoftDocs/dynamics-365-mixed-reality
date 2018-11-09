@@ -21,9 +21,8 @@ Before you begin, make sure you have the following set up:
 
 - A Microsoft Azure tenant with a Dynamics 365 subscription **and** a Dynamics 365 Remote Assist subscription. Both are required—Remote Assist is not included in any Dynamics 365 bundle.
 
-<NOTE>
-  
-The tenant can have more than one Dynamics 365 instance. Remote Assist has the option to select an instance from within the app.
+> [!NOTE]  
+> The tenant can have more than one Dynamics 365 instance. Remote Assist has the option to select an instance from within the app.
 
 - You must have admin access to add or update the Dynamics 365 tenant instance.
 - The Dynamics 365 instance must have the Field Service app installed, and it must include the **My In Progress Bookings** view. To make sure this view is installed, we recommend Field Service version 8.1 or later. This topic describes how to make sure you have the correct version and view.
