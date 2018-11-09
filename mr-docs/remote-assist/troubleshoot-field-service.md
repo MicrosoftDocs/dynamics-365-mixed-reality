@@ -96,11 +96,15 @@ Data will not appear in the **Dynamics 365** pane in Remote Assist unless the fo
 
 1.	Select the **Settings** tab.
 2.	Enter a value in the **Support Contact** field. This contact will appear in Remote Assist as the expert for the first-line worker to call.
-    SCREEN SHOT GOES HERE
+
+    ![Support contact field](media/support-contact.PNG "Support contact field")
+    
 3.	Select the **Book** option at the top of the screen. You use this option to book a time for the resource to perform the work.
 4.	In the **Resource** field, enter the resource for the HoloLens user. The resource’s email address must match the email address for the HoloLens user. If you don’t select a resource or if the email addresses don’t match, data won’t appear in the **Dynamics 365** pane in Remote Assist.
 5.	Select the booking information, and then set the **Booking Status** field to **In Progress**.
-    SCREEN SHOT GOES HERE
+
+    ![Booking status field](media/booking-status.PNG "Booking status field")
+    
 6.	Make changes to other fields as desired (no other data is required for the data to appear in the **Dynamics 365** pane in Remote Assist).
 7.	Save your changes.
 
