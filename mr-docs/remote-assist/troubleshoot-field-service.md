@@ -43,7 +43,9 @@ If you have an instance but aren’t sure if the correct view is installed, foll
    
 3. In the PowerApps screen, expand **Entities**, expand the **Bookable Resource Booking** entity, and then select **Views**.   
 4. In the **Views** screen, verify that the **My In Progress Bookings** view is listed.
+
    ![Bookable Resource view](media/bookable-resource-views.PNG "Bookable Resource views")
+   
 5. Do one of the following:
    - If the view is listed, go to Add a work order and booking later in this topic.
    - If the view is not listed, go to Upgrade the Dynamics 365 instance, the next procedure in this topic.
@@ -54,10 +56,12 @@ If the **My In Progress Bookings** view is not listed as described in the previo
 
 To upgrade an instance:
 
-1. Go to the Dynamics 365 Admin Center, and then select the **Instances** tab and then select Solutions to see which version of Field Service you have. 
-SCREEN SHOT GOES HERE
+1. Go to the Dynamics 365 Admin Center, and then select the **Instances** tab and then select Solutions to see which version of Field Service you have.
+
+   ![Admin Center showing Field Service version](media/admin-center.PNG "Admin Center showing Field Service version")
+
 2. Do one of the following:
-   - If you don’t version 8.1 or later, an **Upgrade** button will appear on the right side of the screen in the **Field Service** box. Select the **Upgrade** button to start the upgrade process. 
+   - If you don’t have version 8.1 or later, an **Upgrade** button will appear on the right side of the screen in the **Field Service** box. Select the **Upgrade** button to start the upgrade process. 
 If there’s no **Upgrade** button, you can obtain version 8.1 or later by [signing up for a trial](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) or by going to the Dynamics Insider Portal at http://experience.dynamics.com/insider.
 
    > [!NOTE]
@@ -83,7 +87,9 @@ Data will not appear in the **Dynamics 365** pane in Remote Assist unless the fo
 1.	Open the Dynamics 365 instance in your browser.
 2.	Select the pull-down menu next to **Dynamics 365**, select **Field Service**, and then select **New**.
 3.	Fill in all fields that contain an asterisk.
-    SCREEN SHOT GOES HERE
+
+    ![Work order screen](media/work-order.PNG "Work order screen")
+    
 4.	Select **Save** in the lower-right corner of the window.
 
 ### Add values for the required fields
