@@ -21,8 +21,8 @@ Before you begin, make sure you have the following set up:
 
 - A Microsoft Azure tenant with a Dynamics 365 subscription **and** a Dynamics 365 Remote Assist subscription. Both are required—Remote Assist is not included in any Dynamics 365 bundle.
 
-> [!NOTE]  
-> The tenant can have more than one Dynamics 365 instance. Remote Assist has the option to select an instance from within the app.
+  > [!NOTE]  
+  > The tenant can have more than one Dynamics 365 instance. Remote Assist has the option to select an instance from within the app.
 
 - You must have admin access to add or update the Dynamics 365 tenant instance.
 - The Dynamics 365 instance must have the Field Service app installed, and it must include the **My In Progress Bookings** view. To make sure this view is installed, we recommend Field Service version 8.1 or later. This topic describes how to make sure you have the correct version and view.
@@ -64,8 +64,8 @@ To upgrade an instance:
    - If you don’t have version 8.1 or later, an **Upgrade** button will appear on the right side of the screen in the **Field Service** box. Select the **Upgrade** button to start the upgrade process. 
 If there’s no **Upgrade** button, you can obtain version 8.1 or later by [signing up for a trial](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) or by going to the Dynamics Insider Portal at http://experience.dynamics.com/insider.
 
-   > [!NOTE]
-   > If the Field Service installation fails, you may need to reset or create a new instance. Field Service installation requires specific steps and doing the steps out of order can cause the installation to fail. [Learn more about Field Service installation](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/field-service/install-field-service).
+     > [!NOTE]
+     > If the Field Service installation fails, you may need to reset or create a new instance. Field Service installation requires specific steps and doing the steps out of order can cause the installation to fail. [Learn more about Field Service installation](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/field-service/install-field-service).
 
    - If the right version of Field Service is installed and the My In Progress Bookings view is included, go to Add a work order and booking, the next procedure in this topic.
    
@@ -114,8 +114,10 @@ You can customize the **Dynamics 365** pane in Remote Assist by customizing fiel
 
 To customize fields, forms, or views in Dynamics 365:
 
-1. Select **Customer Service > Settings > Customizations > Customize the System**.
-    SCREEN SHOT GOES HERE
+1. Select **Service > Settings > Customizations > Customize the System**.
+
+   ![Selecting Customizations](media/Customizations.PNG "Selecting Customizations")
+    
 2. Expand **Entities**, open the entity you want to modify, and then select **Fields**, **Forms**, or **Views**, depending on what you want to do. 
 
 The following table shows examples of the types of changes you might want to make in Dynamics 365, and how to make them.
