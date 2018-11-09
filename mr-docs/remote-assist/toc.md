@@ -4,7 +4,7 @@
 ## [Buy and deploy](buy-and-deploy.md)
 ## [User Guide](user-guide.md)
 ## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
-## [Troubleshoot Field Service integration](troubleshoot-field-service-integration.md)
+## [Troubleshoot Field Service integration](troubleshoot-field-service.md)
 ## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)
 ## [For developers - protocol activation](protocol-activation.md)
 ## [Terms of Use](../legal/remote-assist-license-terms.md)
