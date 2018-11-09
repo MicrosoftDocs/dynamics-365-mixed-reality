@@ -48,7 +48,7 @@ If you have an instance but aren’t sure if the correct view is installed, foll
    
 5. Do one of the following:
    - If the view is listed, go to [Add a work order and booking](#add-a-work-order-and-booking) later in this topic.
-   - If the view is not listed, go to Upgrade the Dynamics 365 instance, the next procedure in this topic.
+   - If the view is not listed, go to [Upgrade the Dynamics 365 instance](#upgrade-the-dynamics-365-instance), the next procedure in this topic.
    
 ## Upgrade the Dynamics 365 instance
 
@@ -67,7 +67,7 @@ If there’s no **Upgrade** button, you can obtain version 8.1 or later by [sign
      > [!NOTE]
      > If the Field Service installation fails, you may need to reset or create a new instance. Field Service installation requires specific steps and doing the steps out of order can cause the installation to fail. [Learn more about Field Service installation](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/field-service/install-field-service).
 
-   - If the right version of Field Service is installed and the My In Progress Bookings view is included, go to Add a work order and booking, the next procedure in this topic.
+   - If the right version of Field Service is installed and the My In Progress Bookings view is included, go to [Add a work order and booking](#add-a-work-order-and-booking), the next procedure in this topic.
    
 ## Add a work order and booking
    
