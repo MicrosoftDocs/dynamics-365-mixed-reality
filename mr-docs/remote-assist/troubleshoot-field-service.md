@@ -37,8 +37,10 @@ Before you begin, make sure you have the following set up:
 If you have an instance but aren’t sure if the correct view is installed, follow these steps to confirm:
 
 1. Make sure you’re signed in as an admin for the Dynamics 365 instance.
-2. Select **Sales > Settings > Customizations > Customize the System**.
-SCREEN SHOT GOES HERE
+2. Select **Service > Settings > Customizations > Customize the System**.
+
+   ![Selecting Customizations](media/Customizations.PNG "Selecting Customizations")
+   
 3. In the PowerApps screen, expand **Entities**, expand the **Bookable Resource Booking** entity, and then select **Views**.
 SCREEN SHOT GOES HERE
 4. In the **Views** screen, verify that the **My In Progress Bookings** view is listed.
