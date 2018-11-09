@@ -47,7 +47,7 @@ If you have an instance but aren’t sure if the correct view is installed, foll
    ![Bookable Resource view](media/bookable-resource-views.PNG "Bookable Resource views")
    
 5. Do one of the following:
-   - If the view is listed, go to Add a work order and booking later in this topic.
+   - If the view is listed, go to [Add a work order and booking](#add-a-work-order-and-booking) later in this topic.
    - If the view is not listed, go to Upgrade the Dynamics 365 instance, the next procedure in this topic.
    
 ## Upgrade the Dynamics 365 instance
