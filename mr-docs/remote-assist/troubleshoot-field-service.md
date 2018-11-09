@@ -124,12 +124,8 @@ The following table shows examples of the types of changes you might want to mak
 
 |**To**|**Do this**|**Example**|
 |------------------|---------------------------------------------------|--------------------------------------------------------|
-|Add a new field that doesn’t already exist in Dynamics 365|Create the field in the entity you want to edit, and then add that field to the **My In Progress Bookings** view.|In the **Customizations** screen, open the **Work Order** entity, and then add the field you want.
-
-**Note** Make sure to add data to the field. The field won’t appear if there’s no data.|
-|Add an existing field to the **My In Progress Bookings** view|In the **My In Progress Bookings** view, add a column for the field. You can add a field from any entity in Dynamics 365.|In the **Customizations** screen, open the **Bookable Resource Booking** entity, select the **My In Progress Bookings** view, and then choose **Add Columns**.
-
-**Note**  Make sure to add data to the field. The field won’t appear if there’s no data.|
+|Add a new field that doesn’t already exist in Dynamics 365|Create the field in the entity you want to edit, and then add that field to the **My In Progress Bookings** view.|In the **Customizations** screen, open the **Work Order** entity, and then add the field you want.<br /><br />**Note** Make sure to add data to the field. The field won’t appear if there’s no data.|
+|Add an existing field to the **My In Progress Bookings** view|In the **My In Progress Bookings** view, add a column for the field. You can add a field from any entity in Dynamics 365.|In the **Customizations** screen, open the **Bookable Resource Booking** entity, select the **My In Progress Bookings** view, and then choose **Add Columns**.<br /><br />**Note**  Make sure to add data to the field. The field won’t appear if there’s no data.|
 |Add a Power BI web link. In HoloLens, when the user selects the link, it will automatically open in the Edge browser.|Create a field that supports text strings.|Enter any weblink in the field data, such as one that opens a Power BI dashboard.  As long as it’s a valid URL, it will automatically become a link.|
 
 ### See also
