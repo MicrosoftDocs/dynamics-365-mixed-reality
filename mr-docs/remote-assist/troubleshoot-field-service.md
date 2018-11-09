@@ -41,10 +41,9 @@ If you have an instance but aren’t sure if the correct view is installed, foll
 
    ![Selecting Customizations](media/Customizations.PNG "Selecting Customizations")
    
-3. In the PowerApps screen, expand **Entities**, expand the **Bookable Resource Booking** entity, and then select **Views**.
-SCREEN SHOT GOES HERE
+3. In the PowerApps screen, expand **Entities**, expand the **Bookable Resource Booking** entity, and then select **Views**.   
 4. In the **Views** screen, verify that the **My In Progress Bookings** view is listed.
-SCREEN SHOT GOES HERE
+   ![Bookable Resource view](media/bookable-resource-views.PNG "Bookable Resource views")
 5. Do one of the following:
    - If the view is listed, go to Add a work order and booking later in this topic.
    - If the view is not listed, go to Upgrade the Dynamics 365 instance, the next procedure in this topic.
