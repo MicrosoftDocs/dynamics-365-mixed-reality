@@ -316,7 +316,7 @@ This enables you to do heads-up, hands-free calling through HoloLens in the
 context of a Dynamics 365 for Field Service booking.
 
 > [!NOTE]
-> For information on setting up and troubleshooting Field Service integration if you're an admin, see [Troubleshooting Field Service integration](troubleshooting-field-service.md). **Note** that [a Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view Field Service bookings from Remote Assist.
+> For information on setting up and troubleshooting Field Service integration if you're an admin, see [Troubleshoot Field Service integration](troubleshoot-field-service.md). **Note** that [a Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view Field Service bookings from Remote Assist.
 
 ### View a Field Service booking and call an expert from Remote Assist
 
