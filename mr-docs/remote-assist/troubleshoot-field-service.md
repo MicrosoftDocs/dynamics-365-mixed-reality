@@ -37,14 +37,14 @@ Before you begin, make sure you have the following set up:
 If you have an instance but aren’t sure if the correct view is installed, follow these steps to confirm:
 
 1. Make sure you’re signed in as an admin for the Dynamics 365 instance.
-2. Select **Service > Settings > Customizations > Customize the System**.
+2. Select **Service** > **Settings** > **Customizations** > **Customize the System**.
 
    ![Selecting Customizations](media/Customizations.PNG "Selecting Customizations")
    
 3. In the PowerApps screen, expand **Entities**, expand the **Bookable Resource Booking** entity, and then select **Views**.   
 4. In the **Views** screen, verify that the **My In Progress Bookings** view is listed.
 
-   ![Bookable Resource view](media/bookable-resource-views.PNG "Bookable Resource views")
+   ![Bookable Resource view](media/bookable-resource-views.PNG "Bookable Resource view")
    
 5. Do one of the following:
    - If the view is listed, go to [Add a work order and booking](#add-a-work-order-and-booking) later in this topic.
@@ -56,16 +56,16 @@ If the **My In Progress Bookings** view is not listed as described in the previo
 
 To upgrade an instance:
 
-1. Go to the Dynamics 365 Admin Center, select the **Instances** tab, and then select **Solutions** to see which version of Field Service you have. 
+1. Go to the Dynamics 365 admin center, select the **Instances** tab, and then select **Solutions** to see which version of Field Service you have. 
 
-   ![Admin Center showing Field Service version](media/admin-center.PNG "Admin Center showing Field Service version")
+   ![Admin center showing Field Service version](media/admin-center.PNG "Admin center showing Field Service version")
 
 2. Do one of the following:
    - If you don’t have version 8.2 or later, an **Upgrade** button will appear on the right side of the screen in the **Field Service** box. Select the **Upgrade** button to start the upgrade process. 
-If there’s no **Upgrade** button, you can obtain version 8.2 or later by [signing up for a trial](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) or by going to the Dynamics Insider Portal at http://experience.dynamics.com/insider.
+     If there’s no **Upgrade** button, you can obtain version 8.2 or later by [signing up for a trial](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) or by going to the [Dynamics Insider Portal](http://experience.dynamics.com/insider).
 
      > [!NOTE]
-     > If the Field Service installation fails, you may need to reset or create a new instance. Field Service installation requires specific steps and doing the steps out of order can cause the installation to fail. [Learn more about Field Service installation](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/field-service/install-field-service).
+     > If the Field Service installation fails, you might need to reset or create a new instance. Field Service installation requires specific steps and doing the steps out of order can cause the installation to fail. [Learn more about Field Service installation.](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/field-service/install-field-service)
 
    - If the right version of Field Service is installed and the My In Progress Bookings view is included, go to [Add a work order and booking](#add-a-work-order-and-booking), the next procedure in this topic.
    
@@ -114,7 +114,7 @@ You can customize the **Dynamics 365** pane in Remote Assist by customizing fiel
 
 To customize fields, forms, or views in Dynamics 365:
 
-1. Select **Service > Settings > Customizations > Customize the System**.
+1. Select **Service** > **Settings** > **Customizations** > **Customize the System**.
 
    ![Selecting Customizations](media/Customizations.PNG "Selecting Customizations")
     
@@ -126,7 +126,7 @@ The following table shows examples of the types of changes you might want to mak
 |------------------|---------------------------------------------------|--------------------------------------------------------|
 |Add a new field that doesn’t already exist in Dynamics 365|Create the field in the entity you want to edit, and then add that field to the **My In Progress Bookings** view.|In the **Customizations** screen, open the **Work Order** entity, and then add the field you want.<br /><br />**Note** Make sure to add data to the field. The field won’t appear if there’s no data.|
 |Add an existing field to the **My In Progress Bookings** view|In the **My In Progress Bookings** view, add a column for the field. You can add a field from any entity in Dynamics 365.|In the **Customizations** screen, open the **Bookable Resource Booking** entity, select the **My In Progress Bookings** view, and then choose **Add Columns**.<br /><br />**Note**  Make sure to add data to the field. The field won’t appear if there’s no data.|
-|Add a Power BI web link. In HoloLens, when the user selects the link, it will automatically open in the Edge browser.|Create a field that supports text strings.|Enter any weblink in the field data, such as one that opens a Power BI dashboard.  As long as it’s a valid URL, it will automatically become a link.|
+|Add a Power BI web link. In HoloLens, when the user selects the link, it will automatically open in the Edge browser.|Create a field that supports text strings.|Enter any web link in the field data, such as one that opens a Power BI dashboard.  As long as it’s a valid URL, it will automatically become a link.|
 
 ### See also
 
