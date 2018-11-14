@@ -122,7 +122,7 @@ If you’re having trouble signing in to Remote Assist, try the following:
 
 **How do I set up Dynamics 365 for Field Service to work with Remote Assist?**
 
-To learn how to set up Field Service integration with Remote Assist so that a first-line worker can call an expert in the context of a Field Service work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md)
+To learn how to set up Field Service integration with Remote Assist so that a first-line worker can call an expert in the context of a Field Service work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).
 
 **What languages is Remote Assist available in?**
 
