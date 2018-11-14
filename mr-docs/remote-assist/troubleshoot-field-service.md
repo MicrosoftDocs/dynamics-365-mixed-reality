@@ -25,7 +25,7 @@ Before you begin, make sure you have the following set up:
   > The tenant can have more than one Dynamics 365 instance. Remote Assist has the option to select an instance from within the app.
 
 - You must have admin access to add or update the Dynamics 365 tenant instance.
-- The Dynamics 365 instance must have the Field Service app installed, and it must include the **My In Progress Bookings** view. To make sure this view is installed, we recommend Field Service version 8.1 or later. This topic describes how to make sure you have the correct version and view.
+- The Dynamics 365 instance must have the Field Service app installed, and it must include the **My In Progress Bookings** view. To make sure this view is installed, we recommend Field Service version 8.2 or later. This topic describes how to make sure you have the correct version and view.
 - The tenant must have at least two user accounts.
 - The user accounts must have the following licenses assigned:
   - Office 365 license that includes Microsoft Teams
@@ -52,7 +52,7 @@ If you have an instance but aren’t sure if the correct view is installed, foll
    
 ## Upgrade the Dynamics 365 instance
 
-If the **My In Progress Bookings** view is not listed as described in the previous procedure, you’ll need to upgrade your Field Service version to 8.1 or later. Dynamics 365 upgrades don’t happen automatically; they’re driven by customers. 
+If the **My In Progress Bookings** view is not listed as described in the previous procedure, you’ll need to upgrade your Field Service version to 8.2 or later. Dynamics 365 upgrades don’t happen automatically; they’re driven by customers. 
 
 To upgrade an instance:
 
@@ -61,8 +61,8 @@ To upgrade an instance:
    ![Admin Center showing Field Service version](media/admin-center.PNG "Admin Center showing Field Service version")
 
 2. Do one of the following:
-   - If you don’t have version 8.1 or later, an **Upgrade** button will appear on the right side of the screen in the **Field Service** box. Select the **Upgrade** button to start the upgrade process. 
-If there’s no **Upgrade** button, you can obtain version 8.1 or later by [signing up for a trial](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) or by going to the Dynamics Insider Portal at http://experience.dynamics.com/insider.
+   - If you don’t have version 8.2 or later, an **Upgrade** button will appear on the right side of the screen in the **Field Service** box. Select the **Upgrade** button to start the upgrade process. 
+If there’s no **Upgrade** button, you can obtain version 8.2 or later by [signing up for a trial](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) or by going to the Dynamics Insider Portal at http://experience.dynamics.com/insider.
 
      > [!NOTE]
      > If the Field Service installation fails, you may need to reset or create a new instance. Field Service installation requires specific steps and doing the steps out of order can cause the installation to fail. [Learn more about Field Service installation](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/field-service/install-field-service).
