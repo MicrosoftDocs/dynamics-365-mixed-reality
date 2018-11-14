@@ -56,7 +56,7 @@ If the **My In Progress Bookings** view is not listed as described in the previo
 
 To upgrade an instance:
 
-1. Go to the Dynamics 365 Admin Center, and then select the **Instances** tab and then select Solutions to see which version of Field Service you have.
+1. Go to the Dynamics 365 Admin Center, select the **Instances** tab, and then select **Solutions** to see which version of Field Service you have. 
 
    ![Admin Center showing Field Service version](media/admin-center.PNG "Admin Center showing Field Service version")
 
