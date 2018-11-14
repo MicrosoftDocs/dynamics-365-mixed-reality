@@ -1,5 +1,10 @@
 
 
+<!--need metadata-->
+
+
+
+
 # Troubleshoot Field Service integration with Dynamics 365 Remote Assist
 
 If your organization uses [Dynamics 365 for Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage field service work orders, 
@@ -88,6 +93,11 @@ Data will not appear in the **Dynamics 365** pane in Remote Assist unless the fo
 2.	Select the pull-down menu next to **Dynamics 365**, select **Field Service**, and then select **New**.
 3.	Fill in all fields that contain an asterisk.
 
+
+
+<!--The following screenshot shows the name Steve Raccoon in two places. Unless you know this is from a Microsoft-approved list of fictitious names, I suggest either blurring it or using a name from this list: https://microsoft.sharepoint-df.com/teams/Dynamics365CustomerEngagementEditingResources/_layouts/15/WopiFrame.aspx?sourcedoc={0ea74ded-c03c-452d-a0de-6c89d54f7107}&action=edit&wd=target%28Style%20Guidelines.one%7C19ceab96-642a-49ba-8020-8958ea8cdb93%2FFictitious%20Names%7C0e4ac149-4669-4c0e-b262-f10ff3158758%2F%29 -->
+
+
     ![Work order screen](media/work-order.PNG "Work order screen")
     
 4.	Select **Save** in the lower-right corner of the window.
@@ -97,11 +107,19 @@ Data will not appear in the **Dynamics 365** pane in Remote Assist unless the fo
 1.	Select the **Settings** tab.
 2.	Enter a value in the **Support Contact** field. This contact will appear in Remote Assist as the expert for the first-line worker to call.
 
+
+<!--The following screenshot shows the names Susan Tester and Alex Storm. Please see my note above about fictitious names.-->
+
+
     ![Support contact field](media/support-contact.PNG "Support contact field")
     
 3.	Select the **Book** option at the top of the screen. You use this option to book a time for the resource to perform the work.
 4.	In the **Resource** field, enter the resource for the HoloLens user. The resource’s email address must match the email address for the HoloLens user. If you don’t select a resource or if the email addresses don’t match, data won’t appear in the **Dynamics 365** pane in Remote Assist.
 5.	Select the booking information, and then set the **Booking Status** field to **In Progress**.
+
+
+<!--Another image that shows the name Susan Tester.-->
+
 
     ![Booking status field](media/booking-status.PNG "Booking status field")
     
