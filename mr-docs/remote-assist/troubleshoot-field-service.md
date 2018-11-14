@@ -58,7 +58,7 @@ To upgrade an instance:
 
 1. Go to the Dynamics 365 Admin Center, and then select the **Instances** tab and then select Solutions to see which version of Field Service you have.
 
-   ![Admin Center showing Field Service version](media/admin-center.PNG "Admin Center showing Field Service version")
+   ![Admin Center showing Field Service version](media/admin-center.jpg "Admin Center showing Field Service version")
 
 2. Do one of the following:
    - If you don’t have version 8.1 or later, an **Upgrade** button will appear on the right side of the screen in the **Field Service** box. Select the **Upgrade** button to start the upgrade process. 
