@@ -1,11 +1,12 @@
 ---
-author: ReneeW-CPub
+author: MatthewJonPaul
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
-ms.author: renwe
-ms.date: 09/21/2018
+ms.author: mapau
+ms.date: 11/14/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist FAQ
+ms.reviewer: v-brycho
 ---
 
 # Dynamics 365 Remote Assist FAQ
@@ -119,6 +120,10 @@ If you’re having trouble signing in to Remote Assist, try the following:
 
 -   Check with your administrator to make sure your device and network are set
     up to work with Remote Assist.
+
+**How do I set up Dynamics 365 for Field Service to work with Remote Assist?**
+
+To learn how to set up Field Service integration with Remote Assist so that a first-line worker can call an expert in the context of a Field Service work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).
 
 **What languages is Remote Assist available in?**
 
