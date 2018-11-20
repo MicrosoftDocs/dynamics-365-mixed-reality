@@ -1,11 +1,12 @@
 ---
-author: ReneeW-CPub
+author: ornellaalt
 description: Overview of Dynamics 365 Layout
-ms.author: renwe
-ms.date: 09/21/2018
+ms.author: ornella
+ms.date: 11/21/2018
 ms.service: crm-online
 ms.topic: article
 title: Overview of Dynamics 365 Layout
+ms.reviewer: v-brycho
 ---
 
 # Overview of Dynamics 365 Layout
