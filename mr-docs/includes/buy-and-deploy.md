@@ -1,4 +1,4 @@
-# Buy and deploy Dynamics 365 Layout or Dynamics 365 Remote Assist
+# Try or buy, and deploy Dynamics 365 Layout or Dynamics 365 Remote Assist
 
 We’re excited to announce that Dynamics 365 Layout and Dynamics 365
 Remote Assist are available for general use.

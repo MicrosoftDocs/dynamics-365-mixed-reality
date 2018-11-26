@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: mapau
-ms.date: 11/14/2018
+ms.date: 11/21/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist FAQ
@@ -18,7 +18,7 @@ For additional information, see [Get help with
 HoloLens](https://support.microsoft.com/products/hololens).
 
 If you’re an IT admin and you want to deploy Remote Assist to devices running
-the HoloLens Commercial Suite, see [Buy and Deploy Remote Assist](../licensing/buy-and-deploy.md). 
+the HoloLens Commercial Suite, see [Try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
 
 **Can I still use the preview app?**
 
@@ -28,7 +28,7 @@ The preview period has ended. Existing preview app customers have until December
 **Can I try the app before buying it?**
 
 Yes, Remote Assist is available as a free 30-day trial. For more information,
-see [Buy and deploy Remote Assist](../licensing/buy-and-deploy.md).
+see [Try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md).
 
 **What are the technical requirements for installing Remote Assist?**
 

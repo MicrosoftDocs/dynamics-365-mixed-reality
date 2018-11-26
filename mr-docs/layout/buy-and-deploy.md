@@ -1,10 +1,11 @@
 ---
-author: ReneeW-CPub
+author: ornellaalt
 description: Buy and deploy Dynamics 365 Remote Assist or Dynamics 365 Layout
-ms.author: renwe
-ms.date: 09/21/2018
+ms.author: ornella
+ms.date: 11/21/2018
 ms.service: crm-online
 ms.topic: article
-title: Buy and deploy Dynamics 365 Remote Assist or Layout
+title: Try or buy, and deploy Dynamics 365 Remote Assist or Layout
+ms.reviewer: v-brycho
 ---
 [!INCLUDE[buy-and-deploy](../includes/buy-and-deploy.md)]

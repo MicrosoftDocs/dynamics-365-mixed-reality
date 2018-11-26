@@ -1,11 +1,12 @@
 ---
-author: ReneeW-CPub
+author: ornellaalt
 description: Watch these short videos to get up and running with Microsoft Dynamics 365 Layout
-ms.author: renwe
-ms.date: 10/10/2018
+ms.author: ornella
+ms.date: 11/21/2018
 ms.service: crm-online
 ms.topic: article
 title: How-to videos for Dynamics 365 Layout
+ms.reviewer: v-brycho
 ---
 
 # How-to videos for Dynamics 365 Layout

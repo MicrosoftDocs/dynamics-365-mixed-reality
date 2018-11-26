@@ -1,11 +1,12 @@
 ---
-author: ReneeW-CPub
+author: ornellaalt
 description: Dynamics 365 Layout User Guide
-ms.author: renwe
-ms.date: 10/01/2018
+ms.author: ornella
+ms.date: 11/21/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout User Guide
+ms.reviewer: v-brycho
 ---
 
 # Dynamics 365 Layout User Guide

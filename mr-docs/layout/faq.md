@@ -1,11 +1,12 @@
 ---
-author: ReneeW-CPub
+author: ornellaalt
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
-ms.author: renwe
-ms.date: 09/21/2018
+ms.author: ornella
+ms.date: 11/21/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
+ms.reviewer: v-brycho
 ---
 
 # Dynamics 365 Layout FAQ
@@ -14,11 +15,11 @@ Here are answers to common questions about using Microsoft Dynamics 365 Layout.
 
 **How can I get Layout?**  
 
-If you’re an IT admin, [learn how to buy and deploy the app](../licensing/buy-and-deploy.md).  
+If you’re an IT admin, [learn how to try or buy, and deploy the app](../licensing/buy-and-deploy.md).  
 
 **Can I try the app before buying it?**
 
-Yes, Layout is available as a free 30-day trial. For more information, see [Buy
+Yes, Layout is available as a free 30-day trial. For more information, see [Try or buy,
 and deploy Layout](../licensing/buy-and-deploy.md).
 
 **Can I still use the preview app?**
@@ -101,6 +102,6 @@ Still need help? Try our [user forums](https://techcommunity.microsoft.com/t5/Mi
 ### See also
 [Overview of Layout](index.md)<br/>
 [Device options and technical requirements](requirements.md)<br/>
-[Buy and deploy](../licensing/buy-and-deploy.md)<br/>
+[Try or buy, and deploy](../licensing/buy-and-deploy.md)<br/>
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
