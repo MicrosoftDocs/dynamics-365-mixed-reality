@@ -1,11 +1,12 @@
 ---
-author: ReneeW-CPub
+author: ornellaalt
 description: Device options and technical requirements for Dynamics 365 Layout
-ms.author: renwe
-ms.date: 09/21/2018
+ms.author: ornella
+ms.date: 11/21/2018
 ms.service: crm-online
 ms.topic: article
 title: Device options and technical requirements for Dynamics 365 Layout
+ms.reviewer: v-brycho
 ---
 
 # Device options and technical requirements for Dynamics 365 Layout
@@ -40,7 +41,7 @@ Technical requirements
 | Dynamics 365 Import Tool (Preview) | The Import Tool is a companion app that makes model optimization and management easy. The Import Tool runs on Windows 10 PCs, and is required to transfer existing 3D models from your PC to Layout, so they can be viewed and edited from the HoloLens or mixed reality headset. The Import Tool is also required to transfer Visio space dimensions to the HoloLens or Windows Mixed Reality headset. | [Import Tool](user-guide.md)    |
 
 ### See also
-[Buy and deploy](../licensing/buy-and-deploy.md)<br/>
+[Try or buy, and deploy](../licensing/buy-and-deploy.md)<br/>
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
 [FAQ](faq.md)<br/>

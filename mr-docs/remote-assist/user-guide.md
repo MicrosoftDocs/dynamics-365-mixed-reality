@@ -24,7 +24,7 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 ## What you’ll need
 
 -   A subscription to Remote Assist. If you’re the admin for your organization,
-    [learn how to buy and deploy Remote Assist](../licensing/buy-and-deploy.md).
+    [learn how to try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md).
 
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643).
