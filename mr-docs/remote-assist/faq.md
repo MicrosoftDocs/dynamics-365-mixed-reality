@@ -39,15 +39,14 @@ To use Remote Assist, you’ll need:
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643). 
 
--   A work or school account with an [Office 365
-    Business](https://products.office.com/business/office) Premium or Essentials
-    subscription.
-
 -   A contact using the latest version of [Microsoft
     Teams](https://products.office.com/microsoft-teams/group-chat-software) on a
     PC running Windows 10 to make a video call. Microsoft Teams is [available as
     a free download](https://teams.microsoft.com/downloads).
 
+**Do I need a subscription to Microsoft Teams or Office 365?**
+
+As of December 3, 2018, the Teams subscription is included with the Remote Assist subscription, so you don't need to get a subscription to Teams or Office 365.
 
 **How often is Remote Assist updated?**
 
