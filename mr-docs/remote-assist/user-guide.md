@@ -29,10 +29,6 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643).
 
--   A work or school account with an [Office 365
-    Business](https://products.office.com/en-us/business/office) Premium or
-    Essentials subscription.
-
 -   A contact using the latest version of [Microsoft
     Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) on
     a PC running Windows 10 to make a video call. [Learn about using Teams with
