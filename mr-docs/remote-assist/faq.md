@@ -46,7 +46,7 @@ To use Remote Assist, you’ll need:
 
 **Do I need a subscription to Microsoft Teams or Office 365?**
 
-As of December 3, 2018, the Teams subscription is included with the Remote Assist subscription, so you don't need to get a subscription to Teams or Office 365.
+As of December 3, 2018, the Teams subscription is included with the Remote Assist subscription, so you don't need to get a subscription to Teams or Office 365 to use Remote Assist. Teams is available as a free download for the expert communicating with the Remote Assist user.
 
 **How often is Remote Assist updated?**
 
