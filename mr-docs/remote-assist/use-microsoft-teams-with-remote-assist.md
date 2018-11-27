@@ -17,9 +17,6 @@ very complex machine and isn’t sure how to solve a problem. The first-line
 worker can call an expert anywhere in the world and have the expert assist with
 the servicing using annotations or files.
 
-Setting up this collaboration using Teams is simple and it’s free for the
-expert.
-
 Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common questions.
 
 [Watch how-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485) about Remote Assist.
@@ -28,15 +25,12 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 
 The Remote Assist user (first-line worker) needs:
 
--   [A subscription to Remote Assist.](../licensing/buy-and-deploy.md)
+-   [A subscription to Remote Assist.](../licensing/buy-and-deploy.md). The Remote Assist subscription includes a subscription to Microsoft Teams.
 
 -   A HoloLens running the [Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643) (or later).
 
 -   An Azure Active Directory account.
-
--   A work or school account with an [Office 365](https://products.office.com/business/office) Premium or Essentials
-    subscription.
 
 The expert needs:
 
