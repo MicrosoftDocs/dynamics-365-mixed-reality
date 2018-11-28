@@ -46,7 +46,7 @@ To use Remote Assist, you’ll need:
 
 **Do I need a subscription to Microsoft Teams or Office 365?**
 
-As of December 3, 2018, the Teams subscription is included with the Remote Assist subscription, so you don't need to get a subscription to Teams or Office 365 to use Remote Assist. Teams is available as a free download for the expert communicating with the Remote Assist user.
+As of December 3, 2018, a Teams subscription is included in the Remote Assist subscription for individuals using a Remote Assist license on HoloLens. A Microsoft Teams license is also required for individuals (experts) who communicate with a Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads) for these users. 
 
 **How often is Remote Assist updated?**
 
