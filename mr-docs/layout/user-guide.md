@@ -157,7 +157,7 @@ device you want to use them on.
         [limits on the file types](#file-types-and-guidelines) you can import.)
         
         > [!div class="mx-imgBorder"]
-        > ![Cloud or PC option](media/4-use-cloud-pc-option.png "Cloud or PC option")
+        > ![Cloud or PC option](media/cloud-pc-option.PNG "Cloud or PC option")
 
 4.  Navigate to the folder where your models are saved, and then select the
     models you want to add (up to 25 at a time).
