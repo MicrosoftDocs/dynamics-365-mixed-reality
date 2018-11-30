@@ -204,7 +204,7 @@ See the next section in this topic to learn how the cloud service works.
 
 |  Item           |     Description                          |
 |-----------------|------------------------------|
-| **File format** | GLB file formats only, with the following limitations: <ul><li>For polygons, less than 5,000 is recommended. </li><li>For textures, 512 x 512 is recommended</ul> |
+| **File format** | GLB file formats only, with the following limitations: <ul><li>For polygons, less than 5,000 is recommended. </li><li>For textures, 512 x 512 is recommended.</ul> |
 | **Textures**     | Textures are embedded. Export your model from your CAD program as a single self-contained file. <br> **Note:** Emissive, occlusion, specular, and gloss textures will be ignored.    | 
 | **Polycount**         | Less than 10,000 polygons per model                                                                 |  
 | **Mesh**              | Export your model as \<=2 meshes with 1 material per mesh                                           | 
