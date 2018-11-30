@@ -29,13 +29,11 @@ You can subscribe to Layout or Remote Assist in any of the following ways:
 
 1. Go to https://portal.office.com/AdminPortal/Home#/catalog.
 
-   ![Admin center](../media/AdminCenter.PNG "Admin Center")
+   ![Admin center](../media/AdminCenter.png "Admin Center")
 
 2. Log in under your company's admin account.
 3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
 4. Under **Billing** in the left navigation, select **Purchase services**.
-
-   ![Select Purchase services](../media/PurchaseServices.PNG "Select Purchase services")
    
 5. Scroll down to the **Other plans** section.
 
