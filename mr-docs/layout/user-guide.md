@@ -297,6 +297,8 @@ To turn the Performance setting on or off:
 
 - Select **Settings,** select **Performance,** and then select the **Simplify objects by using just one color** option.
 
+![Performance mode setting](media/performance-mode-setting.PNG "Performance mode setting")
+
 
 ### See also
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
