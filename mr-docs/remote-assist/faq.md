@@ -53,6 +53,11 @@ To use Remote Assist, you’ll need:
 
 Remote Assist will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
+
+**How can I tell what version I'm using?**
+
+The version number is listed in Options.
+
 **Why am I not getting incoming call notifications?**
 
 This can happen if you’re signed in to Remote Assist with a different account
