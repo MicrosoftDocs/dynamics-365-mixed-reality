@@ -204,7 +204,8 @@ See the next section in this topic to learn how the cloud service works.
 
 |  Item           |     Description                          |
 |-----------------|------------------------------|
-| **File format** | GLB file formats only, with the following limitations: <ul><li>For polygons, less than 5,000 is recommended. </li><li>For textures, 512 x 512 is recommended.</ul> |
+| **File format** | GLB file formats only, with the following recommendations: <ul><li>No more than 1 set of UVs per mesh</li>
+    <li>Less than 5,000 polygons</li><li>Texture size of 512 x 512</li></ul> |
 | **Textures**     | Textures are embedded. Export your model from your CAD program as a single self-contained file. <br> **Note:** Emissive, occlusion, specular, and gloss textures will be ignored.    | 
 | **Model orientation** | <ul><li>Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward.</li><li>Ceiling-associated objects: the model’s +Y axis should point down and the +Z axis should point forward. </li><li>Wall-associated objects: the model’s +Y axis should point away from the wall and the +Z axis should point up the wall.</ul> |  
 
