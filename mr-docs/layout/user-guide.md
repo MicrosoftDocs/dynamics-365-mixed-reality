@@ -287,7 +287,16 @@ rotate 3D models.
 | Copy         | Select the model, and then select **Copy**. Point your controller to where you want to place the copy, and then pull the trigger again to place it. To place multiple copies, just point and select again—no need to go back to the original. Select **Done** on the last copy.      |
 | Resize       | Select the model, and then select **Resize**. Point at one edge of the object, and then pull and hold the trigger. Drag the edge, and then release the trigger.                                                                                                                      |
 | Rotate       | Point and pull the trigger to select the model. Then point at one of the rotation arrows and pull the trigger to rotate the model 90 degrees. For more precise rotation, use the round rotation control: point, pull, and hold the trigger, and then move your controller to rotate. |
-| Multi-select | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them.                                                             |
+| Multi-select | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them. |
+
+# Improve perfomance when your assets don't require texture or multiple colors
+
+In certain scenarios, textures or multiple colors may not be important for visualizing 3D assets. In these cases, to improve perfomance you may want to turn off textures and use a single color. You can do this by using the Performance setting. 
+
+To turn the Performance setting on or off:
+
+- Select **Settings,** select **Performance,** and then select the **Simplify objects by using just one color** option.
+
 
 ### See also
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
