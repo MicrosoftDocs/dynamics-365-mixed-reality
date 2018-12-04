@@ -291,7 +291,8 @@ rotate 3D models.
 
 ## Improve perfomance when your assets don't require texture or multiple colors
 
-In certain scenarios, textures or multiple colors may not be important for visualizing 3D assets. In these cases, to improve perfomance you may want to turn off textures and use a single color. You can do this by using the Performance setting. 
+In certain scenarios, textures or multiple colors may not be important for visualizing 3D assets. In these cases, to improve 
+performance, you may want to turn off textures and use a single color. You can do this by using the Performance setting. 
 
 To turn the Performance setting on or off:
 
