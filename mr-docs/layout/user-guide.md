@@ -157,7 +157,7 @@ device you want to use them on.
         [limits on the file types](#file-types-and-guidelines) you can import.)
         
         > [!div class="mx-imgBorder"]
-        > ![Cloud or PC option](media/4-use-cloud-pc-option.png "Cloud or PC option")
+        > ![Cloud or PC option](media/cloud-pc-option.PNG "Cloud or PC option")
 
 4.  Navigate to the folder where your models are saved, and then select the
     models you want to add (up to 25 at a time).
@@ -204,10 +204,8 @@ See the next section in this topic to learn how the cloud service works.
 
 |  Item           |     Description                          |
 |-----------------|------------------------------|
-| **File format** | GLB file formats only, with the following limitations: <ul><li>No more than 1 material per mesh </li><li>No more than 1 set of UVs per mesh </li><li>No more than 2 meshes </li><li>No more than 10,000 total polygons (triangles). Less than 5,000 is recommended. </li><li>Maximum texture size of 2,048 x 2,048 (512 x 512 recommended) </ul> |
+| **File format** | GLB file formats only, with the following recommendations: <ul><li>No more than 1 set of UVs per mesh</li><li>Less than 5,000 polygons</li><li>Texture size of 512 x 512 </li></ul> |
 | **Textures**     | Textures are embedded. Export your model from your CAD program as a single self-contained file. <br> **Note:** Emissive, occlusion, specular, and gloss textures will be ignored.    | 
-| **Polycount**         | Less than 10,000 polygons per model                                                                 |  
-| **Mesh**              | Export your model as \<=2 meshes with 1 material per mesh                                           | 
 | **Model orientation** | <ul><li>Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward.</li><li>Ceiling-associated objects: the model’s +Y axis should point down and the +Z axis should point forward. </li><li>Wall-associated objects: the model’s +Y axis should point away from the wall and the +Z axis should point up the wall.</ul> |  
 
 ## Best practices for importing 3D models 
