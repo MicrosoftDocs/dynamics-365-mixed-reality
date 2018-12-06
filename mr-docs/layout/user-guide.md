@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Dynamics 365 Layout User Guide
 ms.author: ornella
-ms.date: 11/21/2018
+ms.date: 12/06/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout User Guide
@@ -291,14 +291,15 @@ rotate 3D models.
 
 ## Improve perfomance when your assets don't require texture or multiple colors
 
-In certain scenarios, textures or multiple colors may not be important for visualizing 3D assets. In these cases, to improve 
-performance, you may want to turn off textures and use a single color. You can do this by using the Performance setting. 
+In certain scenarios, textures or multiple colors might not be important for visualizing 3D assets. In these cases, to improve 
+performance, you might want to turn off textures and use a single color. You can do this by using the Performance setting. 
 
 To turn the Performance setting on or off:
 
-- Select **Settings,** select **Performance,** and then select the **Simplify objects by using just one color** option.
+- Select **Settings**, select **Performance**, and then select the **Simplify objects by using just one color** option.
 
-![Performance mode setting](media/performance-mode-setting.PNG "Performance mode setting")
+> [!div class="mx-imgBorder"]
+> ![Performance mode setting](media/performance-mode-setting.PNG "Performance mode setting")
 
 
 ### See also
