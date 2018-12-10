@@ -189,6 +189,21 @@ To make changes to edits, do one of the following:
 > [!NOTE]
 > Specific drawings or arrows can’t be removed. Only the HoloLens user can make changes to or delete pictures added by an expert.
 
+## Share your desktop or a running application with a Remote Assist user
+
+When you share your desktop or running application with the Remote Assist user, the user's video feed will change to a solid color. They'll still be able to use all the tools in the toolbar even though their video feed will no longer be displayed.
+
+To share your desktop or a running application:
+
+1. In Teams, select the **Share tray** button.
+
+   ![Share tray button](media/share-try.PNG "Share tray button")
+   
+2. Select the screen that you want to share.
+
+> [!NOTE]
+> You can only share one application or screen at a time. If you want to share a different screen, stp sharing, select a different screen, and then start sharing again.
+
 ### See also
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)<br/>
