@@ -195,7 +195,7 @@ When you share your desktop or running application with a Remote Assist user, th
 
 To share your desktop or a running application:
 
-1. In Teams, select the **Share tray** button.
+1. In Teams, select the **Open share tray** button.
 
    ![Share tray button](media/share-tray.PNG "Share tray button")
    
