@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Set up and use Microsoft Teams with Remote Assist to collaborate on a call
 ms.author: mapau
-ms.date: 11/21/2018
+ms.date: 12/11/2018
 ms.service: crm-online
 ms.topic: article
 title: Set up and use Microsoft Teams with Remote Assist
@@ -199,7 +199,7 @@ To share your desktop or a running application:
 
    ![Share tray button](media/share-tray.PNG "Share tray button")
    
-2. Select the screen that you want to share.
+2. Select the screen you want to share.
 
 > [!NOTE]
 > You can only share one application or screen at a time. If you want to share a different screen, stop sharing, select a different screen, and then start sharing again.
