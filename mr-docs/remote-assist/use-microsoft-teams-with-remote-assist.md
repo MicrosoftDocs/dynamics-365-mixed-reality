@@ -202,7 +202,7 @@ To share your desktop or a running application:
 2. Select the screen you want to share.
 
 > [!NOTE]
-> You can only share one application or screen at a time. If you want to share a different screen, stop sharing, select a different screen, and then start sharing again.
+> You can only share one application or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
 
 ### See also
 [User Guide](user-guide.md)<br/>
