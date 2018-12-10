@@ -197,12 +197,12 @@ To share your desktop or a running application:
 
 1. In Teams, select the **Share tray** button.
 
-   ![Share tray button](media/share-try.PNG "Share tray button")
+   ![Share tray button](media/share-tray.PNG "Share tray button")
    
 2. Select the screen that you want to share.
 
 > [!NOTE]
-> You can only share one application or screen at a time. If you want to share a different screen, stp sharing, select a different screen, and then start sharing again.
+> You can only share one application or screen at a time. If you want to share a different screen, stop sharing, select a different screen, and then start sharing again.
 
 ### See also
 [User Guide](user-guide.md)<br/>
