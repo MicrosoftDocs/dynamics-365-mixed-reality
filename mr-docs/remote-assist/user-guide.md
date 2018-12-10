@@ -135,6 +135,14 @@ To read previous messages in the chat window:
 > If a message is sent from another user when the chat window isn’t
 open, you’ll receive a notification.
 
+### Move, size, or close a shared window
+
+When you're working with an expert on a call, the expert can share a desktop or application window with you on Microsoft Teams to assist with the call. When an expert shares a desktop running application this way, your video feed of the expert will change to a solid color. You'll be able to use all the tools in the toolbar even though your video feed is no longer displayed.
+
+To move, size, or close the shared window, use the controls at the top right of the shared window.
+
+![Shared-desktop controls)](media/shared-desktop-controls.PNG "Shared-desktop controls")
+
 ## Collaborate and annotate
 
 Once you’re connected to a video call, your contact will see everything you see
