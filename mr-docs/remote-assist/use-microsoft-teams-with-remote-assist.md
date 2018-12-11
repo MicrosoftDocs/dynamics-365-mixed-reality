@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Set up and use Microsoft Teams with Remote Assist to collaborate on a call
 ms.author: mapau
-ms.date: 11/21/2018
+ms.date: 12/11/2018
 ms.service: crm-online
 ms.topic: article
 title: Set up and use Microsoft Teams with Remote Assist
@@ -188,6 +188,21 @@ To make changes to edits, do one of the following:
 
 > [!NOTE]
 > Specific drawings or arrows can’t be removed. Only the HoloLens user can make changes to or delete pictures added by an expert.
+
+## Share your desktop or a running application with a Remote Assist user
+
+When you share your desktop or running application with a Remote Assist user, the user's video feed will change to a solid color. They'll still be able to use all the tools in the toolbar even though their video feed will no longer be displayed.
+
+To share your desktop or a running application:
+
+1. In Teams, select the **Open share tray** button.
+
+   ![Share tray button](media/share-tray.PNG "Share tray button")
+   
+2. Select the screen you want to share.
+
+> [!NOTE]
+> You can only share one application or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
 
 ### See also
 [User Guide](user-guide.md)<br/>

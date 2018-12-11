@@ -89,8 +89,7 @@ Data will not appear in the **Dynamics 365** pane in Remote Assist unless the fo
    |------------------|---------------------------------------------------------------------------------------------------|
    |System Status|The value for this field must be set to **In Progress**.|
    |Resource|Stores the email address for the HoloLens user. This address must match the email address for the HoloLens user.|
-   |Support Contact|Stores the name of the suggested expert (the expert that the user calls from HoloLens).|
-   
+ 
 ### Create a work order
    
 1.	Open the Dynamics 365 instance in your browser.
@@ -103,19 +102,15 @@ Data will not appear in the **Dynamics 365** pane in Remote Assist unless the fo
 
 ### Add values for the required fields
 
-1.	Select the **Settings** tab.
-2.	Enter a value in the **Support Contact** field. This contact will appear in Remote Assist as the expert for the first-line worker to call.
-
-    ![Support contact field](media/support-contact.PNG "Support contact field")
-    
-3.	Select the **Book** option at the top of the screen. You use this option to book a time for the resource to perform the work.
-4.	In the **Resource** field, enter the resource for the HoloLens user. The resource’s email address must match the email address for the HoloLens user. If you don’t select a resource or if the email addresses don’t match, data won’t appear in the **Dynamics 365** pane in Remote Assist.
-5.	Select the booking information, and then set the **Booking Status** field to **In Progress**.
+1.	Select the **Settings** tab.  
+2.	Select the **Book** option at the top of the screen. You use this option to book a time for the resource to perform the work.
+3.	In the **Resource** field, enter the resource for the HoloLens user. The resource’s email address must match the email address for the HoloLens user. If you don’t select a resource or if the email addresses don’t match, data won’t appear in the **Dynamics 365** pane in Remote Assist.
+4.	Select the booking information, and then set the **Booking Status** field to **In Progress**.
 
     ![Booking status field](media/booking-status.PNG "Booking status field")
     
-6.	Make changes to other fields as desired (no other data is required for the data to appear in the **Dynamics 365** pane in Remote Assist).
-7.	Save your changes.
+5.	Make changes to other fields as desired (no other data is required for the data to appear in the **Dynamics 365** pane in Remote Assist).
+6.	Save your changes.
 
 ## Add custom fields to the **Dynamics 365** pane in Remote Assist (optional)
 
