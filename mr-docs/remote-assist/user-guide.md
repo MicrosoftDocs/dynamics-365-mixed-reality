@@ -141,7 +141,7 @@ When you're working with an expert on a call, the expert can share their desktop
 
 To move, size, or close the shared window, use the controls at the top right of the shared window.
 
-![Shared-desktop controls)](media/screen-sharing-controls.PNG "Shared-desktop controls")
+![Shared-desktop controls)](media/screen-sharing-controls.jpg "Shared-desktop controls")
 
 ## Collaborate and annotate
 
