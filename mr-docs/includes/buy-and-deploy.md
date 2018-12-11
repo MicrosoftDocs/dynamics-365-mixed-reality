@@ -28,11 +28,12 @@ You can subscribe to Layout or Remote Assist in any of the following ways:
 ## Subscribe or sign up for a free trial through the Microsoft 365 Admin Center
 
 1. Go to https://portal.office.com/AdminPortal/Home#/catalog.
+
+   ![Admin center](../media/AdminCenter.png "Admin Center")
+
 2. Log in under your company's admin account.
 3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
 4. Under **Billing** in the left navigation, select **Purchase services**.
-
-   ![Select Purchase services](../media/PurchaseServices.PNG "Select Purchase services")
    
 5. Scroll down to the **Other plans** section.
 
@@ -55,9 +56,9 @@ assign a license to will need an Azure Active Directory (Azure AD) account.
 
 ### Assign a license to a user in the Microsoft 365 Admin Center
 
-1. In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**.
+1. In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users**.
 
-   ![Select Subscriptions](../media/SelectSubscriptions.PNG "Select Subscriptions")
+   ![Select Subscriptions](../media/AssignUsers.PNG "Select Subscriptions")
    
 2. Select the users you'd like to assign the trial or subscription to, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**. 
 
@@ -65,7 +66,7 @@ assign a license to will need an Azure Active Directory (Azure AD) account.
    
 3. In the **Add to existing products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
 
-   ![Add to existing product licenses](../media/AddProductLicenses.PNG "Add to existing product licenses")
+   ![Add to existing product licenses](../media/AddProductLicenses.png "Add to existing product licenses")
    
 4. Select the licenses you want to enable for the selected users (Dynamics 365 Remote Assist and/or Dynamics 365 Layout), and then select **Add**.
 
