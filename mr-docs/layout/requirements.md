@@ -21,7 +21,7 @@ motion controllers.
 | Build 10.0.17134.77 or later | See [Update HoloLens](https://support.microsoft.com/help/12643/hololens-update-hololens) for instructions on upgrading to this build. |
 
 > [!NOTE]
-> Layout supports the HoloLens clicker for menu selection and room scan, but does not work for object manipulation.
+> You can use the HoloLens clicker to do menu selections and to scan a room, but you can't manipulate objects with the clicker.
 
 ## Windows Mixed Reality headset requirements
 
