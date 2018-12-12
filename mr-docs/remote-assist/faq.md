@@ -22,8 +22,8 @@ the HoloLens Commercial Suite, see [Try or buy, and deploy Remote Assist](../lic
 
 **Can I still use the preview app?**
 
-The preview period has ended. Existing preview app customers have until December
-31, 2018, to upgrade to a paid subscription. 
+The preview period has ended. Existing preview app customers have until March
+31, 2019, to upgrade to a paid subscription. 
 
 **Can I try the app before buying it?**
 
