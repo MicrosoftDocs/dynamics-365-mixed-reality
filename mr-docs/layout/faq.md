@@ -27,6 +27,12 @@ and deploy Layout](../licensing/buy-and-deploy.md).
 The preview period has ended. Existing preview apps customers have until
 December 31, 2018, to upgrade to a paid subscription.
 
+**How can I tell which version I'm using?**
+
+To see the version number for Layout, go to **Settings** > **About**.
+
+To see the version number for the Import Tool, go to **Settings** and then look in the **About** section.
+
 **Do I need the Layout apps for both HoloLens and Windows Mixed Reality?**
 
 No, you can use each app separately, though they do work together as well. If
