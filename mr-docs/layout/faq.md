@@ -31,7 +31,7 @@ December 31, 2018, to upgrade to a paid subscription.
 
 To see the version number for Layout, go to **Settings** > **About**.
 
-To see the version number for the Import Tool, go to **Settings** and then look in the **About** section.
+To see the version number for the Import Tool, go to **Settings**, and then look in the **About** section.
 
 **Do I need the Layout apps for both HoloLens and Windows Mixed Reality?**
 
