@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: mapau
-ms.date: 11/21/2018
+ms.date: 12/13/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist FAQ
@@ -22,8 +22,8 @@ the HoloLens Commercial Suite, see [Try or buy, and deploy Remote Assist](../lic
 
 **Can I still use the preview app?**
 
-The preview period has ended. Existing preview app customers have until December
-31, 2018, to upgrade to a paid subscription. 
+The preview period has ended. Existing preview app customers have until March
+2019 to upgrade to a paid subscription. 
 
 **Can I try the app before buying it?**
 
