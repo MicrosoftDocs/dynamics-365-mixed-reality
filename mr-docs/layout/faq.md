@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Layout FAQ
 
-Here are answers to common questions about using Microsoft [!INCLUDEpn-dyn-365-layout].
+Here are answers to common questions about using Microsoft [!INCLUDEpn_dyn_365_layout].
 
 **How can I get Layout?**  
 
