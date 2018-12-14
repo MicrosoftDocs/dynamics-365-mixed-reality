@@ -37,7 +37,7 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
 
    ![Other plans](../media/OtherPlans.PNG "Select Other plans")
    
-6. Find the product card for [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] or [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
+6. Find the product card for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] or [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
    ![Remote Assist product card](../media/ProductCard.PNG "Find Remote Assist product card")
    
@@ -50,7 +50,7 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
 ## Assign licenses to users
 
 After subscribing or signing up for a free trial, you’ll need to assign licenses to users in the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or [Partner Center](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner). Each user you
-assign a license to will need an Azure Active Directory (Azure AD) account.
+assign a license to will need an [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] (Azure AD) account.
 
 ### Assign a license to a user in the Microsoft 365 Admin Center
 
