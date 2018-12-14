@@ -95,7 +95,7 @@ use the following links:
 
 > [!NOTE]
 > <ul><li>When users launch the apps, they’ll need to use the same Azure AD accounts that the admin assigned in the Microsoft 365 Admin Center.</li>
-> <li>The [!include[pn-layout](../includes/pn-layout.md)] app requires users to be online once every 30 days to validate their subscription.</li></ul>
+> <li>The Layout app requires users to be online once every 30 days to validate their subscription.</li></ul>
 
 ### Distribute the apps through the Microsoft Store for Business
 
