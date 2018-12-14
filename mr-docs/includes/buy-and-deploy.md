@@ -2,13 +2,10 @@
 
 We’re excited to announce that [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] are available for general use.
 
-With [!include[pn-layout](../includes/pn-layout.md)] and [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you can bridge the gap
-between the real and digital worlds to complete crucial tasks faster, safer, and
-more efficiently, and to create new ways to connect with customers and partners.
+With [!include[pn-layout](../includes/pn-layout.md)] and [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, andmore efficiently, and to create new ways to connect with customers and partners.
 
 > [!NOTE]
-> If you’re using the preview version of [!include[pn-layout](../includes/pn-layout.md)] or [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you have
-until December 31, 2018, to upgrade to the paid version. 
+> If you’re using the preview version of [!include[pn-layout](../includes/pn-layout.md)] or [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you have until March 2019, to upgrade to the paid version. 
 
 ## Subscribe to Layout or Remote Assist
 
@@ -18,7 +15,7 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
     - Calling us at 1-888-477-7989, or
     - Requesting to be contacted at http://aka.ms/getmixedreality/.
     
--   Through the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home#/catalog). You can also sign up for a free 30-day trial through the Microsoft 365 Admin Center (or the Partner Center Portal). Step-by-step instructions for logging in to the Microsoft 365 Admin Center and subscribing or signing up for a free trial are provided below.
+-   Through the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home#/catalog). You can also sign up for a free 30-day trial through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] (or the Partner Center Portal). Step-by-step instructions for logging in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing or signing up for a free trial are provided below.
 
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
 
@@ -52,12 +49,12 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
 
 ## Assign licenses to users
 
-After subscribing or signing up for a free trial, you’ll need to assign licenses to users in the Microsoft 365 Admin Center or [Partner Center](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner). Each user you
+After subscribing or signing up for a free trial, you’ll need to assign licenses to users in the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or [Partner Center](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner). Each user you
 assign a license to will need an Azure Active Directory (Azure AD) account.
 
 ### Assign a license to a user in the Microsoft 365 Admin Center
 
-1. In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users**.
+1. In the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)], under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users**.
 
    ![Select Subscriptions](../media/AssignUsers.PNG "Select Subscriptions")
    
@@ -75,8 +72,7 @@ assign a license to will need an Azure Active Directory (Azure AD) account.
 
 ## Make the apps available to your users
 
-After you’ve subscribed and assigned licenses to your users through the Microsoft 365
-Admin Center or Partner Center, you can make the apps available through one of
+After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make the apps available through one of
 the following:
 
 -   Microsoft Store for Consumers
@@ -98,7 +94,7 @@ use the following links:
 -   [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both Dynamics 365 Layout and [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
-> <ul><li>When users launch the apps, they’ll need to use the same Azure AD accounts that the admin assigned in the Microsoft 365 Admin Center.</li>
+> <ul><li>When users launch the apps, they’ll need to use the same Azure AD accounts that the admin assigned in the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)].</li>
 > <li>The Layout app requires users to be online once every 30 days to validate their subscription.</li></ul>
 
 ### Distribute the apps through the Microsoft Store for Business
