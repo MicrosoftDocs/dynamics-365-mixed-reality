@@ -1,19 +1,18 @@
 # Try or buy, and deploy Dynamics 365 Layout or Dynamics 365 Remote Assist
 
-We’re excited to announce that Dynamics 365 Layout and Dynamics 365
-Remote Assist are available for general use.
+We’re excited to announce that [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] are available for general use.
 
-With Layout and Remote Assist, you can bridge the gap
+With [!include[pn-layout](../includes/pn-layout.md)] and [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you can bridge the gap
 between the real and digital worlds to complete crucial tasks faster, safer, and
 more efficiently, and to create new ways to connect with customers and partners.
 
 > [!NOTE]
-> If you’re using the preview version of Layout or Remote Assist, you have
+> If you’re using the preview version of [!include[pn-layout](../includes/pn-layout.md)] or [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you have
 until December 31, 2018, to upgrade to the paid version. 
 
 ## Subscribe to Layout or Remote Assist
 
-You can subscribe to Layout or Remote Assist in any of the following ways:
+You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!include[pn-remote-assist](../includes/pn-remote-assist.md)] in any of the following ways:
 
 -   Contact a Microsoft representative by: 
     - Calling us at 1-888-477-7989, or
@@ -32,14 +31,16 @@ You can subscribe to Layout or Remote Assist in any of the following ways:
    ![Admin center](../media/AdminCenter.png "Admin Center")
 
 2. Log in under your company's admin account.
+
 3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
+
 4. Under **Billing** in the left navigation, select **Purchase services**.
    
 5. Scroll down to the **Other plans** section.
 
    ![Other plans](../media/OtherPlans.PNG "Select Other plans")
    
-6. Find the product card for Dynamics 365 Remote Assist or Dynamics 365 Layout.
+6. Find the product card for [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] or [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
    ![Remote Assist product card](../media/ProductCard.PNG "Find Remote Assist product card")
    
@@ -68,7 +69,7 @@ assign a license to will need an Azure Active Directory (Azure AD) account.
 
    ![Add to existing product licenses](../media/AddProductLicenses.png "Add to existing product licenses")
    
-4. Select the licenses you want to enable for the selected users (Dynamics 365 Remote Assist and/or Dynamics 365 Layout), and then select **Add**.
+4. Select the licenses you want to enable for the selected users ([!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and/or [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]), and then select **Add**.
 
    ![Select product licenses](../media/SelectLicenses.PNG "Select product licenses")
 
