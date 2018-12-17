@@ -5,7 +5,7 @@ We’re excited to announce that [!include[pn-dyn-365-layout](../includes/pn-dyn
 With [!include[pn-layout](../includes/pn-layout.md)] and [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and to create new ways to connect with customers and partners.
 
 > [!NOTE]
-> If you’re using the preview version of [!include[pn-layout](../includes/pn-layout.md)] or [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you have until March 2019, to upgrade to the paid version. 
+> If you’re using the preview version of [!include[pn-layout](../includes/pn-layout.md)], you have until December 31, 2018, to upgrade to the paid version. If you're using the preview version of [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you have until March 2019 to upgrade to the paid version.
 
 ## Subscribe to Layout or Remote Assist
 
