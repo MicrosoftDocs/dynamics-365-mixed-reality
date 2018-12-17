@@ -44,7 +44,7 @@ To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll n
 
 -   A contact using the latest version of [Microsoft
     Teams](https://products.office.com/microsoft-teams/group-chat-software) on a
-    PC running Windows 10 to make a video call. Microsoft Teams is [available as
+    PC running Windows 10 to make a video call. Microsoft [!include[pn-teams](../includes/pn-teams.md)] is [available as
     a free download](https://teams.microsoft.com/downloads).
 
 
@@ -76,17 +76,17 @@ Try closing and reopening [!include[pn-remote-assist](../includes/pn-remote-assi
 
 If you don’t see the contacts you expect, try the following:
 
--   Make sure you’ve signed in to Microsoft Teams at least once with the account
+-   Make sure you’ve signed in to Microsoft [!include[pn-teams](../includes/pn-teams.md)] at least once with the account
     you’re using on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
 -   Close and reopen [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 -   [Restart your HoloLens](https://support.microsoft.com/en-us/help/12642).
 
-**The Mixed Reality toolbar doesn’t appear on the PC Teams client during a
+**The Mixed Reality toolbar doesn’t appear on the PC [!include[pn-teams](../includes/pn-teams.md)] client during a
 [!include[pn-remote-assist](../includes/pn-remote-assist.md)] call.**
 
-This might happen if Teams has downloaded a new version of the client in the
+This might happen if [!include[pn-teams](../includes/pn-teams.md)] has downloaded a new version of the client in the
 background but is still running the older version of the app. Restarting your PC
 will usually fix this issue.
 
@@ -102,9 +102,9 @@ Yes, but only if the expert is calling as a guest on the other user’s tenant.
 Currently, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] doesn’t support two users calling each other even if
 two tenants are joined by federation.
 
-**Does Microsoft Teams include the same [!include[pn-remote-assist](../includes/pn-remote-assist.md)] features on all platforms and devices?**
+**Does Microsoft [!include[pn-teams](../includes/pn-teams.md)] include the same [!include[pn-remote-assist](../includes/pn-remote-assist.md)] features on all platforms and devices?**
 
-No. Ink, arrows, and adding files are only available on Teams for PC.
+No. Ink, arrows, and adding files are only available on [!include[pn-teams](../includes/pn-teams.md)] for PC.
 
 **I signed in to my [!include[pn-hololens](../includes/pn-hololens.md)], but I still can't sign in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)].**
 
@@ -119,7 +119,7 @@ If you’re having trouble signing in to [!include[pn-remote-assist](../includes
     Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
     enabled.
 
--   Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is connected to the Internet.
+-   Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is connected to the internet.
 
 -   Check with your administrator to make sure your device and network are set
     up to work with [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
@@ -150,7 +150,7 @@ feature will be available sometime in 2019.
 The Insert file feature supports most image formats (JPG, GIF, PNG) and PDF
 files.
 
-**Can I share files from SharePoint on [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
+**Can I share files from [!include[pn-sharepoint](../includes/pn-sharepoint.md)] on [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
 
 No, you can only share local files and files from OneDrive.
 
