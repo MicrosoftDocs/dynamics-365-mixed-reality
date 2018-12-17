@@ -33,7 +33,7 @@ The [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user (first-li
 -   A [!include[pn-hololens](../includes/pn-hololens.md)] running the [Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643) (or later).
 
--   An Azure Active Directory account.
+-   An [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] account.
 
 -   A work or school account with an [Office 365](https://products.office.com/business/office) Premium or Essentials
     subscription.
@@ -61,7 +61,7 @@ You can onboard an expert and collaborate using [!include[pn-teams](../includes/
 
 ### Step 1: Enable guest access for teams
 
-1.  If you’re the admin for the main Azure tenant, go to
+1.  If you’re the admin for the main [!include[pn-azure](../includes/pn-azure.md)] tenant, go to
     <https://portal.office.com/adminportal/> to open the Office Admin portal,
     and then sign in.
 
@@ -98,7 +98,7 @@ You can onboard an expert and collaborate using [!include[pn-teams](../includes/
     ![Microsoft account](media/71e9276273f8f47b786f743416a2cb64.png "Microsoft account")
 
     > [!NOTE]
-    > If you don’t see the option to add a guest by typing an email address, it’s likely that guest access isn’t enabled on your company’s Azure tenant for [!include[pn-teams](../includes/pn-teams.md)]. Enable guest access as described earlier in this topic.
+    > If you don’t see the option to add a guest by typing an email address, it’s likely that guest access isn’t enabled on your company’s [!include[pn-azure](../includes/pn-azure.md)] tenant for [!include[pn-teams](../includes/pn-teams.md)]. Enable guest access as described earlier in this topic.
 
 1.  The expert will immediately receive an email message and can click the link
     in the message to open (or download) Microsoft [!include[pn-teams](../includes/pn-teams.md)]. This version of [!include[pn-teams](../includes/pn-teams.md)]
