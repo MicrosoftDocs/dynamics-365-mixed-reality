@@ -11,19 +11,19 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Remote Assist User Guide
 
-Use Microsoft Dynamics 365 Remote Assist to connect and collaborate using
+Use [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] to connect and collaborate using
 hands-free video calling, mixed reality annotations, and file (image and PDF)
-sharing. Use your HoloLens to call an expert who's using Microsoft Teams, and
-then share what you see on HoloLens to solve problems and complete tasks
+sharing. Use your [!include[pn-hololens](../includes/pn-hololens.md)] to call an expert who's using Microsoft [!include[pn-teams](../includes/pn-teams.md)], and
+then share what you see on [!include[pn-hololens](../includes/pn-hololens.md)] to solve problems and complete tasks
 together, faster.
 
 Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common questions.
 
-[Watch how-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485) about Remote Assist.
+[Watch how-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485) about [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 ## What you’ll need
 
--   A subscription to Remote Assist. If you’re the admin for your organization,
+-   A subscription to [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. If you’re the admin for your organization,
     [learn how to try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md).
 
 -   A [HoloLens running the Windows 10 April 2018
@@ -38,30 +38,30 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
     a PC running Windows 10 to make a video call. [Learn about using Teams with
     Remote Assist.](use-microsoft-teams-with-remote-assist.md)
 
--   To connect to Dynamics 365 for Field Service from within Remote Assist,
+-   To connect to Dynamics 365 for Field Service from within [!include[pn-remote-assist](../includes/pn-remote-assist.md)],
     you’ll need a [Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand).
 
--   An Internet connection. At least 1.5 MB of bandwidth is recommended for the
+-   An internet connection. At least 1.5 MB of bandwidth is recommended for the
     best experience.
 
-Need to get up to speed on HoloLens? [Get help](https://support.microsoft.com/products/hololens).
+Need to get up to speed on [!include[pn-hololens](../includes/pn-hololens.md)]? [Get help](https://support.microsoft.com/products/hololens).
 
 ## Install the Remote Assist app
 
-How you install Remote Assist depends on how your administrator chooses to
+How you install [!include[pn-remote-assist](../includes/pn-remote-assist.md)] depends on how your administrator chooses to
 distribute the app. Your admin might have you [install the app from the Microsoft
 Store for Consumers](https://www.microsoft.com/store/apps/9P77QGW10K9M), from your organization’s private store, through an email
 link, or another method.
 
 ### Install the application through the Microsoft Store for Consumers
 
-1.  On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “Remote Assist.”
+1.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “[!include[pn-remote-assist](../includes/pn-remote-assist.md)].”
 
-2.  On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **Remote Assist**, then select again to launch the app. Remote Assist is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
+2.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **[!include[pn-remote-assist](../includes/pn-remote-assist.md)]**, then select again to launch the app. [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
 
-If your HoloLens is running the April 2018 Update and you're signed in with an
-Azure Active Directory (Azure AD) account, you'll automatically be signed in to
-Remote Assist. If not, use the holographic keyboard to sign in with a work or
+If your [!include[pn-hololens](../includes/pn-hololens.md)] is running the April 2018 Update and you're signed in with an
+[!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account, you'll automatically be signed in to
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)]. If not, use the holographic keyboard to sign in with a work or
 school account that has an Office 365 Premium or Essentials subscription. Once
 you’re signed in, you’ll see your recent contacts.
 
@@ -69,7 +69,7 @@ you’re signed in, you’ll see your recent contacts.
 
 The procedures in this user guide describe how to do tasks through the user
 interface or by using voice commands, when available. To use a voice command,
-say “Remote Assist,” and then say the voice command. [Learn more about voice
+say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say the voice command. [Learn more about voice
 commands.](#use-voice-commands)
 
 ## Make and receive calls
@@ -79,7 +79,7 @@ commands.](#use-voice-commands)
 -   Open the app and [select](https://support.microsoft.com/en-us/help/12644) a
     recent contact. If you don’t see the contact you want, select **Search** ![Search](media/e3155cd796106ea0818d8f52c7dbfcbe.png "Search"), and then use the holographic keyboard to enter a name or email address.
 
-When your contact answers the call in Microsoft Teams, they’ll be able to see
+When your contact answers the call in Microsoft [!include[pn-teams](../includes/pn-teams.md)], they’ll be able to see
 what you see in your space—including holograms.
 
 > [!NOTE]
@@ -91,10 +91,10 @@ room so you can hear even if you're working in a loud environment.
 -   Select **Video** ![Video](media/bae39e2bdb1eafec5c36c76ffa640355.png "Video") (or say “Video”) to accept the call as a video call or **Audio** ![Audio](media/972493ccc469c4ca41c04f96fabf6ba5.png "Audio") (or say “Audio”) to accept it as a voice-only call. To decline the call, select **Ignore** (or say “Ignore”).
 
 > [!NOTE]
-> To receive calls when you’re using other apps on HoloLens, open the
-Remote Assist app. Then use the [bloom gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
-to leave Remote Assist. Go ahead and use other apps. You’ll get a notification
-from Cortana if a Remote Assist call comes in, and you’ll be able to accept or
+> To receive calls when you’re using other apps on [!include[pn-hololens](../includes/pn-hololens.md)], open the
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] app. Then use the [bloom gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
+to leave [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. Go ahead and use other apps. You’ll get a notification
+from [!include[pn-cortana](../includes/pn-cortana.md)] if a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] call comes in, and you’ll be able to accept or
 decline it using your voice.
 
 ### Position the call window
@@ -121,9 +121,9 @@ To open the chat window and enter a message:
 
     -   Select characters in the holographic keyboard.
 
-    -   Select **Microphone** ![Microphone](media/microphone3.png "Microphone"), and then dictate your message. HoloLens will convert the message into text.
+    -   Select **Microphone** ![Microphone](media/microphone3.png "Microphone"), and then dictate your message. [!include[pn-hololens](../includes/pn-hololens.md)] will convert the message into text.
 
-    -   Connect a Bluetooth keyboard directly to the HoloLens and type your message.
+    -   Connect a Bluetooth keyboard directly to the [!include[pn-hololens](../includes/pn-hololens.md)] and type your message.
 
 1.  Select **Send**.
 
@@ -178,7 +178,7 @@ and will be able to make annotations of their own.
 
 Import an image or PDF file from OneDrive for Business and then place it in your
 space. For example, add an image of a diagram to assist with the call. The
-people you call will be able to see the image or PDF file in the Teams app
+people you call will be able to see the image or PDF file in the [!include[pn-teams](../includes/pn-teams.md)] app
 during a video call.
 
 To add a file:
@@ -216,7 +216,7 @@ To take a snapshot:
 
 -   Select **Camera** ![Camera](media/cameraicon3.png "Camera") (or say “Camera”), and then air tap (or say “Snap”) to take the photo.
 
->   The photo will be saved to your HoloLens camera roll.
+>   The photo will be saved to your [!include[pn-hololens](../includes/pn-hololens.md)] camera roll.
 
 ## Make changes
 
@@ -236,7 +236,7 @@ interface.
 
 To use a voice command:
 
--   Say “Remote Assist,” and then say one of the voice commands in the following
+-   Say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following
     table.
 
 > [!NOTE]
@@ -246,7 +246,7 @@ button.
 | **Voice command**            | **Description**                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------|
 | **General**                  |                                                                                      |
-| Sign out                     | Sign out of Remote Assist.                                                           |
+| Sign out                     | Sign out of [!include[pn-remote-assist](../includes/pn-remote-assist.md)].                                                           |
 | Up                           | Go up.                                                                               |
 | Previous                     | Go to previous page.                                                                 |
 | Next                         | Go to next menu.                                                                     |
@@ -294,38 +294,37 @@ button.
 
 ## Use Remote Assist to get help in another HoloLens app
 
-Having trouble in another HoloLens app? Use Remote Assist to show an expert
+Having trouble in another [!include[pn-hololens](../includes/pn-hololens.md)] app? Use [!include[pn-remote-assist](../includes/pn-remote-assist.md)] to show an expert
 what’s happening and get some help.
 
 Here’s how:
 
-1.  Open an app on your HoloLens.
+1.  Open an app on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
 2.  Use the [bloom gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
     to leave the 3D view, but don’t close the app launcher.
 
-3.  Start Remote Assist and call your contact.
+3.  Start [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and call your contact.
 
-4.  Once the video call is connected, use the bloom gesture to leave Remote
-    Assist. Your call will remain connected.
+4.  Once the video call is connected, use the bloom gesture to leave [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. Your call will remain connected.
 
 5.  Select the live cube of the app you need help with. Once the app has
     launched, your contact will be able to see its content and give you
     guidance.
 
 > [!NOTE]
-> When you’re done getting help from your contact, make sure to go back to Remote Assist and disconnect the call. Until you do that, the call will stay connected and your contact will see and hear what’s happening on your HoloLens.
+> When you’re done getting help from your contact, make sure to go back to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and disconnect the call. Until you do that, the call will stay connected and your contact will see and hear what’s happening on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
 ## Use Dynamics 365 for Field Service from Remote Assist
 
 If your organization uses [Dynamics 365 for Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage field service
 work orders, you (the first-line worker) can view Dynamics 365 for Field Service
-bookings from Remote Assist and call the expert listed in the **Support Contact** field.
-This enables you to do heads-up, hands-free calling through HoloLens in the
+bookings from [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and call the expert listed in the **Support Contact** field.
+This enables you to do heads-up, hands-free calling through [!include[pn-hololens](../includes/pn-hololens.md)] in the
 context of a Dynamics 365 for Field Service booking.
 
 > [!NOTE]
-> For information on setting up and troubleshooting Field Service integration if you're an admin, see [Troubleshoot Field Service integration](troubleshoot-field-service.md). **Note** that [a Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view Field Service bookings from Remote Assist.
+> For information on setting up and troubleshooting Field Service integration if you're an admin, see [Troubleshoot Field Service integration](troubleshoot-field-service.md). **Note** that [a Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view Field Service bookings from [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 ### View a Field Service booking and call an expert from Remote Assist
 
@@ -358,7 +357,7 @@ context of a Dynamics 365 for Field Service booking.
     Power BI desktop application.
     
     > [!NOTE]
-    > When you open a Power BI dashboard, Remote Assist closes. If you’re on a call with an expert, the expert will remain on the call. Return to Remote Assist by opening the application again through the applications menu or live cube.
+    > When you open a Power BI dashboard, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. Return to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] by opening the application again through the applications menu or live cube.
 
 ### Modify the default booking view
 
