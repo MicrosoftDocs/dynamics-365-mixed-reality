@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Device options and technical requirements for Dynamics 365 Layout
 
-Layout works with a [!include[pn-hololens](../includes/pn-hololens.md)], or with a Windows Mixed Reality headset with
+Microsoft [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] works with a [!include[pn-hololens](../includes/pn-hololens.md)], or with a Windows Mixed Reality headset with
 motion controllers.
 
 ## HoloLens requirements
