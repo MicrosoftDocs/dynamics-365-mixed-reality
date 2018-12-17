@@ -65,6 +65,10 @@ sign in to the apps.
 
 Layout will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
+**Can I use the HoloLens clicker with Layout?**
+
+You can use the HoloLens clicker with Layout but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
+
 **Do I need to be connected to Wi-Fi to use Layout?**
 
 If you want to convert 3D models using the Import Tool, you’ll need a Wi-Fi
