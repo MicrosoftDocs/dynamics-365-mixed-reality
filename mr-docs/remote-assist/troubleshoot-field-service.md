@@ -12,9 +12,9 @@ ms.reviewer: v-brycho
 # Troubleshoot Field Service integration with Dynamics 365 Remote Assist
 
 If your organization uses [Dynamics 365 for Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage field service work orders, 
-the first-line worker using HoloLens can view Dynamics 365 for Field Service bookings from Remote Assist and 
+the first-line worker using [!include[pn-hololens](../includes/pn-hololens.md)] can view Dynamics 365 for Field Service bookings from [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and 
 quickly call the expert listed in the **Support Contact** field when needed. This enables first-line workers 
-to do heads-up, hands-free calling through HoloLens in the context of a Dynamics 365 for Field Service booking.
+to do heads-up, hands-free calling through [!include[pn-hololens](../includes/pn-hololens.md)] in the context of a Dynamics 365 for Field Service booking.
 
 This topic describes:
 
@@ -22,23 +22,23 @@ This topic describes:
 - How to make sure Field Service is set up correctly 
 - How to upgrade the Dynamics 365 instance if you don’t have the correct Field Service version
 - How to add data for required fields in a Field Service work order and booking
-- How to customize the **Dynamics 365** pane that appears in Remote Assist
+- How to customize the **Dynamics 365** pane that appears in [!include[pn-remote-assist](../includes/pn-remote-assist.md)]
 
 ## Requirements
 
 Before you begin, make sure you have the following set up:
 
-- A Microsoft Azure tenant with a Dynamics 365 subscription **and** a Dynamics 365 Remote Assist subscription. Both are required—Remote Assist is not included in any Dynamics 365 bundle.
+- A Microsoft Azure tenant with a Dynamics 365 subscription **and** a [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] subscription. Both are required—[!include[pn-remote-assist](../includes/pn-remote-assist.md)] is not included in any Dynamics 365 bundle.
 
   > [!NOTE]  
-  > The tenant can have more than one Dynamics 365 instance. Remote Assist has the option to select an instance from within the app.
+  > The tenant can have more than one Dynamics 365 instance. [!include[pn-remote-assist](../includes/pn-remote-assist.md)] has the option to select an instance from within the app.
 
 - You must have admin access to add or update the Dynamics 365 tenant instance.
 - The Dynamics 365 instance must have the Field Service app installed, and it must include the **My In Progress Bookings** view. To make sure this view is installed, we recommend Field Service version 8.2 or later. This topic describes how to make sure you have the correct version and view.
 - The tenant must have at least two user accounts.
 - The user accounts must have the following licenses assigned:
   - Office 365 license that includes Microsoft Teams
-  - Remote Assist
+  - [!include[pn-remote-assist](../includes/pn-remote-assist.md)]
   - A Dynamics 365 license that includes Field Service
 
 ## Confirm that the **My In Progress Bookings** view is included
@@ -80,7 +80,7 @@ To upgrade an instance:
    
 ## Add a work order and booking
    
-Data will not appear in the **Dynamics 365** pane in Remote Assist unless the following requirements are met:
+Data will not appear in the **Dynamics 365** pane in [!include[pn-remote-assist](../includes/pn-remote-assist.md)] unless the following requirements are met:
    
 - There must be at least one work order.
 - The following fields in the work order must have a value:
@@ -104,17 +104,17 @@ Data will not appear in the **Dynamics 365** pane in Remote Assist unless the fo
 
 1.	Select the **Settings** tab.  
 2.	Select the **Book** option at the top of the screen. You use this option to book a time for the resource to perform the work.
-3.	In the **Resource** field, enter the resource for the HoloLens user. The resource’s email address must match the email address for the HoloLens user. If you don’t select a resource or if the email addresses don’t match, data won’t appear in the **Dynamics 365** pane in Remote Assist.
+3.	In the **Resource** field, enter the resource for the HoloLens user. The resource’s email address must match the email address for the HoloLens user. If you don’t select a resource or if the email addresses don’t match, data won’t appear in the **Dynamics 365** pane in [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 4.	Select the booking information, and then set the **Booking Status** field to **In Progress**.
 
     ![Booking status field](media/booking-status.PNG "Booking status field")
     
-5.	Make changes to other fields as desired (no other data is required for the data to appear in the **Dynamics 365** pane in Remote Assist).
+5.	Make changes to other fields as desired (no other data is required for the data to appear in the **Dynamics 365** pane in [!include[pn-remote-assist](../includes/pn-remote-assist.md)]).
 6.	Save your changes.
 
 ## Add custom fields to the **Dynamics 365** pane in Remote Assist (optional)
 
-You can customize the **Dynamics 365** pane in Remote Assist by customizing fields, forms, or the **My In Progress Bookings** view in Dynamics 365.
+You can customize the **Dynamics 365** pane in [!include[pn-remote-assist](../includes/pn-remote-assist.md)] by customizing fields, forms, or the **My In Progress Bookings** view in Dynamics 365.
 
 To customize fields, forms, or views in Dynamics 365:
 
