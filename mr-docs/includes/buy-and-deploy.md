@@ -91,7 +91,7 @@ For information on installing the apps from the Microsoft Store for Consumers,
 use the following links:
 
 -   [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md)
--   [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-eyn-365-layout.md)] and [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
+-   [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
 > <ul><li>When users launch the apps, they’ll need to use the same Azure AD accounts that the admin assigned in the Microsoft 365 Admin Center.</li>
