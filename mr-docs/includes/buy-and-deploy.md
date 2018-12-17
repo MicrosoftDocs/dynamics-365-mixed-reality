@@ -2,7 +2,7 @@
 
 We’re excited to announce that [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] are available for general use.
 
-With [!include[pn-layout](../includes/pn-layout.md)] and [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, andmore efficiently, and to create new ways to connect with customers and partners.
+With [!include[pn-layout](../includes/pn-layout.md)] and [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and to create new ways to connect with customers and partners.
 
 > [!NOTE]
 > If you’re using the preview version of [!include[pn-layout](../includes/pn-layout.md)] or [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you have until March 2019, to upgrade to the paid version. 
