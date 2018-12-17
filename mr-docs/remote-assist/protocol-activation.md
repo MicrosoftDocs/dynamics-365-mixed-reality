@@ -11,13 +11,12 @@ ms.reviewer: v-brycho
 
 # Launch Dynamics 365 Remote Assist from another app (protocol activation)
 
-You can embed code in your HoloLens application to switch to Microsoft Dynamics
-365 Remote Assist and begin a call using a Uniform Resource Identifier (URI).
+You can embed code in your [!include[pn-hololens](../includes/pn-hololens.md)] application to switch to Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and begin a call using a Uniform Resource Identifier (URI).
 For example, let’s say you’re creating a helicopter maintenance app. You can add
 a button that a maintenance engineer can use to call an expert if they get
 stuck. The button will launch Remote Assist and call the designated expert.
 
-Remote Assist supports two methods for protocol activation: 
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] supports two methods for protocol activation: 
 
 -   “ms-voip-video” is for video-enabled calling.
 
@@ -30,7 +29,7 @@ The URI would look something like this:
 ms-voip-video:?contactids=\<contactID\>
 `
 
-The contact ID is the user’s Azure Active Directory (Azure AD) objectID.
+The contact ID is the user’s [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) objectID.
 
 ## Code sample
 
@@ -62,14 +61,14 @@ To place an audio-only call instead of video, use URI: “ms-voip-call:?contacti
 
 ## Place a call to test your code
 
-1.  Run your app on the HoloLens.
+1.  Run your app on the [!include[pn-hololens](../includes/pn-hololens.md)].
 
 2.  Initiate the call from your app.
 
-3.  The HoloLens will appear to close the app, open Remote Assist if it isn’t
+3.  The [!include[pn-hololens](../includes/pn-hololens.md)] will appear to close the app, open [!include[pn-remote-assist](../includes/pn-remote-assist.md)] if it isn’t
     already open, and sign in.
 
-4.  After the contacts panel is loaded, Remote Assist will place a call to the
+4.  After the contacts panel is loaded, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] will place a call to the
     specified contact.
 
 ### See also
