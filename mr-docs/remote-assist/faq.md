@@ -108,7 +108,7 @@ No. Ink, arrows, and adding files are only available on [!include[pn-teams](../i
 
 **I signed in to my [!include[pn-hololens](../includes/pn-hololens.md)], but I still can't sign in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)].**
 
-If you’re having trouble signing in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)]t, try the following:
+If you’re having trouble signing in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)], try the following:
 
 -   Make sure you’re using a work or school account, not a Microsoft account, to
     sign in to [!include[pn-hololens](../includes/pn-hololens.md)].
