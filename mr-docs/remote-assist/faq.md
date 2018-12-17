@@ -72,7 +72,7 @@ To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you need a
 Try closing and reopening [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. If you’re still having problems,
 [restart your HoloLens](https://support.microsoft.com/en-us/help/12642).
 
-**[!include[pn-remote-assist](../includes/pn-remote-assist.md)]isn't showing my contacts.**
+**[!include[pn-remote-assist](../includes/pn-remote-assist.md)] isn't showing my contacts.**
 
 If you don’t see the contacts you expect, try the following:
 
