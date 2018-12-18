@@ -11,10 +11,10 @@ ms.reviewer: v-brycho
 
 # Launch Dynamics 365 Remote Assist from another app (protocol activation)
 
-You can embed code in your [!include[pn-hololens](../includes/pn-hololens.md)] application to switch to Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and begin a call using a Uniform Resource Identifier (URI).
+You can embed code in your [!include[pn-hololens](../includes/pn-hololens.md)] application to switch to [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and begin a call using a Uniform Resource Identifier (URI).
 For example, let’s say you’re creating a helicopter maintenance app. You can add
 a button that a maintenance engineer can use to call an expert if they get
-stuck. The button will launch Remote Assist and call the designated expert.
+stuck. The button will launch [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and call the designated expert.
 
 [!include[pn-remote-assist](../includes/pn-remote-assist.md)] supports two methods for protocol activation: 
 
@@ -33,7 +33,7 @@ The contact ID is the user’s [!include[pn-azure-active-directory](../includes/
 
 ## Code sample
 
-You’ll need to embed the code in your HoloLens app. The following code sample is
+You’ll need to embed the code in your [!include[pn-hololens](../includes/pn-hololens.md)] app. The following code sample is
 written in C++, but can be easily adapted to another language.
 
 ```
