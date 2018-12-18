@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Remote Assist FAQ
 
-Here are answers to common questions about using Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
+Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
 For additional information, see [Get help with
 HoloLens](https://support.microsoft.com/products/hololens).
@@ -50,7 +50,7 @@ To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll n
 
 **How often is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] updated?**
 
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)] will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
 **How can I tell what version I'm using?**
 
@@ -76,7 +76,7 @@ Try closing and reopening [!include[pn-remote-assist](../includes/pn-remote-assi
 
 If you don’t see the contacts you expect, try the following:
 
--   Make sure you’ve signed in to Microsoft [!include[pn-teams](../includes/pn-teams.md)] at least once with the account
+-   Make sure you’ve signed in to [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-teams](../includes/pn-teams.md)] at least once with the account
     you’re using on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
 -   Close and reopen [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
@@ -102,7 +102,7 @@ Yes, but only if the expert is calling as a guest on the other user’s tenant.
 Currently, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] doesn’t support two users calling each other even if
 two tenants are joined by federation.
 
-**Does Microsoft [!include[pn-teams](../includes/pn-teams.md)] include the same [!include[pn-remote-assist](../includes/pn-remote-assist.md)] features on all platforms and devices?**
+**Does [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-teams](../includes/pn-teams.md)] include the same [!include[pn-remote-assist](../includes/pn-remote-assist.md)] features on all platforms and devices?**
 
 No. Ink, arrows, and adding files are only available on [!include[pn-teams](../includes/pn-teams.md)] for PC.
 
@@ -110,7 +110,7 @@ No. Ink, arrows, and adding files are only available on [!include[pn-teams](../i
 
 If you’re having trouble signing in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)], try the following:
 
--   Make sure you’re using a work or school account, not a Microsoft account, to
+-   Make sure you’re using a work or school account, not a [!include[cc-microsoft](../includes/cc-microsoft.md) account, to
     sign in to [!include[pn-hololens](../includes/pn-hololens.md)].
 
 -   Make sure that the work or school account you’re using has a valid [Office
@@ -124,9 +124,9 @@ If you’re having trouble signing in to [!include[pn-remote-assist](../includes
 -   Check with your administrator to make sure your device and network are set
     up to work with [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
-**How do I set up Dynamics 365 for Field Service to work with [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
+**How do I set up [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md) to work with [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
 
-To learn how to set up Field Service integration with [!include[pn-remote-assist](../includes/pn-remote-assist.md)] so that a first-line worker can call an expert in the context of a Field Service work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).
+To learn how to set up [!include[pn-field-service](../includes/pn-field-service.md) integration with [!include[pn-remote-assist](../includes/pn-remote-assist.md)] so that a first-line worker can call an expert in the context of a [!include[pn-field-service](../includes/pn-field-service.md) work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).
 
 **What languages is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] available in?**
 
@@ -134,7 +134,7 @@ To learn how to set up Field Service integration with [!include[pn-remote-assist
 
 **Where is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] available?**
 
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires Microsoft [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires [!include[pn-microsoft](../includes/pn-microsoft.md) [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
 
 [!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
 
@@ -152,7 +152,7 @@ files.
 
 **Can I share files from [!include[pn-sharepoint](../includes/pn-sharepoint.md)] on [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
 
-No, you can only share local files and files from OneDrive.
+No, you can only share local files and files from [!include[pn-onedrive](../includes/pn-onedrive.md).
 
 Still need help? Try our [user forums](https://techcommunity.microsoft.com/t5/Mixed-Reality/ct-p/MixedReality). 
 
