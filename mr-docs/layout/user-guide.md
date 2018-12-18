@@ -11,8 +11,8 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Layout User Guide
 
-Use Microsoft [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] to create and design space plans on [!include[pn-hololens](../includes/pn-hololens.md)]
-or on a Windows Mixed Reality immersive headset. Import 3D models and design,
+Use [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] to create and design space plans on [!include[pn-hololens](../includes/pn-hololens.md)]
+or on a [!include[ms-windows-short](../includes/ms-windows-short.md) Mixed Reality immersive headset. Import 3D models and design,
 edit, and collaborate virtually, on a real-world scale.
 
 Need more help? [Check out the Layout FAQ](faq.md) for answers to common questions.
@@ -22,7 +22,7 @@ Need more help? [Check out the Layout FAQ](faq.md) for answers to common questio
 ## What you’ll need
 
 -   [A subscription to Layout.](../licensing/buy-and-deploy.md) The [!include[pn-layout](../includes/pn-layout.md)] subscription also includes the
-    Microsoft [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC.
+    [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC.
 
 -   A [HoloLens](https://www.microsoft.com/hololens) running the [Windows 10
     April 2018 Update](https://support.microsoft.com/en-us/help/12643) and/or
@@ -40,22 +40,22 @@ Need more help? [Check out the Layout FAQ](faq.md) for answers to common questio
 
 How you install [!include[pn-layout](../includes/pn-layout.md)] and the [!include[pn-import-tool](../includes/pn-import-tool.md)] depends on how your administrator
 chooses to distribute the apps. Your admin may have you install the app from the
-Microsoft Store for Consumers, from your organization’s private store, through
+[!include[cc-microsoft](../includes/cc-microsoft.md) Store for Consumers, from your organization’s private store, through
 an email link, or another method. 
 
 The following table describes the app/tool, and how to install them from the
 public store.
 
-| **App**     | **Device**            | **Use to**                            | **To install from Microsoft store** |
+| **App**     | **Device**            | **Use to**                            | **To install from [!include[cc-microsoft](../includes/cc-microsoft.md) store** |
 |-------------|-----------------------|---------------------------------------------|-------------------------------------|
-| [!include[pn-layout](../includes/pn-layout.md)]      | [!include[pn-hololens](../includes/pn-hololens.md)]              | <ul><li>Create layouts by scanning your surroundings </li><li>Place models in your layouts </li></ul>     | On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br>    |
-| [!include[pn-layout](../includes/pn-layout.md)]      | Mixed reality headset | Place models in layouts imported from [!include[pn-hololens](../includes/pn-hololens.md)] or Microsoft [!include[pn-visio](../includes/pn-visio.md)] | 1. On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br>   |
-| [!include[pn-import-tool](../includes/pn-import-tool.md)] | PC                    | <ul><li>Transfer floorplans from Microsoft [!include[pn-visio](../includes/pn-visio.md)] to [!include[pn-hololens](../includes/pn-hololens.md)] or Windows Mixed Reality</li><li>Transfer layouts between [!include[pn-hololens](../includes/pn-hololens.md)] and Windows Mixed Reality </li><li>Process 3D models for use on [!include[pn-hololens](../includes/pn-hololens.md)] </ul>| On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX). <br>    |
+| [!include[pn-layout](../includes/pn-layout.md)]      | [!include[pn-hololens](../includes/pn-hololens.md)]              | <ul><li>Create layouts by scanning your surroundings </li><li>Place models in your layouts </li></ul>     | On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md) Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br>    |
+| [!include[pn-layout](../includes/pn-layout.md)]      | Mixed reality headset | Place models in layouts imported from [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-visio](../includes/pn-visio.md)] | 1. On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md) Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br>   |
+| [!include[pn-import-tool](../includes/pn-import-tool.md)] | PC                    | <ul><li>Transfer floorplans from [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-visio](../includes/pn-visio.md)] to [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[ms-windows-short](../includes/ms-windows-short.md) Mixed Reality</li><li>Transfer layouts between [!include[pn-hololens](../includes/pn-hololens.md)] and [!include[ms-windows-short](../includes/ms-windows-short.md) Mixed Reality </li><li>Process 3D models for use on [!include[pn-hololens](../includes/pn-hololens.md)] </ul>| On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md) Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX). <br>    |
 
 ## Use Layout
 
 To use [!include[pn-layout](../includes/pn-layout.md)], you create space layouts on your [!include[pn-hololens](../includes/pn-hololens.md)] or PC, and then use a
-[!include[pn-hololens](../includes/pn-hololens.md)] or Windows Mixed Reality immersive headset to place 3D models in the
+[!include[pn-hololens](../includes/pn-hololens.md)] or [!include[ms-windows-short](../includes/ms-windows-short.md) Mixed Reality immersive headset to place 3D models in the
 layouts. The [!include[pn-layout](../includes/pn-layout.md)] app comes with a set of preinstalled models, and you can
 also add your own.
 
@@ -64,13 +64,13 @@ also add your own.
 There are two ways to create a layout:
 
 -   Use [Microsoft Visio](https://products.office.com/en-us/visio/) to design a
-    floor plan, and then export it to [!include[pn-hololens](../includes/pn-hololens.md)] or Windows Mixed Reality.
+    floor plan, and then export it to [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[ms-windows-short](../includes/ms-windows-short.md) Mixed Reality.
 
 -   Use [!include[pn-layout](../includes/pn-layout.md)] on your [!include[pn-hololens](../includes/pn-hololens.md)] to scan a space.
 
 #### Create a layout with Microsoft Visio<br>
 
-**Step 1: Download and install the [!include[pn-visio](../includes/pn-visio.md)] Add-in for Microsoft [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]**
+**Step 1: Download and install the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]**
 
 1.  Open the [!include[pn-import-tool](../includes/pn-import-tool.md)].
 
@@ -86,7 +86,7 @@ There are two ways to create a layout:
 
 5.  Select **[!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]**, and then select **Add**.
 
-**Step 2: Create your floor plan with Microsoft [!include[pn-visio](../includes/pn-visio.md)]**
+**Step 2: Create your floor plan with [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-visio](../includes/pn-visio.md)]**
 
 -   When the floor plan is ready, select the **[!include[pn-layout](../includes/pn-layout.md)]** tab, select **Export**,
     and then save your floor plan.
@@ -149,7 +149,7 @@ device you want to use them on.
 3.  If this is the first time you’ve used the [!include[pn-import-tool](../includes/pn-import-tool.md)], choose how you want
     to simplify your models (you can change this later in the app settings):
 
-    -   To use the Microsoft cloud service, select **Use the cloud**. (You'll
+    -   To use the [!include[cc-microsoft](../includes/cc-microsoft.md) cloud service, select **Use the cloud**. (You'll
         need an internet connection for this option.)
 
     -   To use your PC, select **Use my PC**. (With this option, there are
@@ -164,7 +164,7 @@ device you want to use them on.
 5.  Select **Open** to start simplifying your models. This might take a while,
     depending on how many you've selected.
 
-If you're using a Windows Mixed Reality immersive headset, your imported models
+If you're using a [!include[ms-windows-short](../includes/ms-windows-short.md) Mixed Reality immersive headset, your imported models
 will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
 
 To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to copy them to the device:
@@ -240,7 +240,7 @@ note that:
 ## How does the Microsoft cloud service work?
 
 When you convert a 3D model, the [!include[pn-import-tool](../includes/pn-import-tool.md)] uploads the raw model to
-the Microsoft cloud service, which is hosted on a Microsoft [!include[pn-azure](../includes/pn-azure.md)] web service.
+the [!include[cc-microsoft](../includes/cc-microsoft.md) cloud service, which is hosted on a [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-azure](../includes/pn-azure.md)] web service.
 The cloud service transcodes and simplifies the model and then returns the
 simplified models to the [!include[pn-import-tool](../includes/pn-import-tool.md)], restricting access via the use of
 obfuscated URLs.
@@ -261,7 +261,7 @@ obfuscated URLs.
 
 ## Work with models
 
-On [!include[pn-hololens](../includes/pn-hololens.md)] and in Windows Mixed Reality, you can place, move, copy, resize, and
+On [!include[pn-hololens](../includes/pn-hololens.md)] and in [!include[ms-windows-short](../includes/ms-windows-short.md) Mixed Reality, you can place, move, copy, resize, and
 rotate 3D models.
 
 ### On HoloLens
