@@ -27,7 +27,14 @@ and deploy Layout](../licensing/buy-and-deploy.md).
 The preview period has ended. Existing preview apps customers have until
 December 31, 2018, to upgrade to a paid subscription.
 
-**Do I need the [!include[pn-layout](../includes/pn-layout.md)] apps for both [!include[pn-hololens](../includes/pn-hololens.md)] and Windows Mixed Reality?**
+
+**How can I tell which version I'm using?**
+
+To see the version number for Layout, go to **Settings** > **About**.
+
+To see the version number for the Import Tool, go to **Settings**, and then look in the **About** section.
+
+**Do I need the Layout apps for both HoloLens and Windows Mixed Reality?**
 
 No, you can use each app separately, though they do work together as well. If
 you want to copy 3D models or layouts from your PC to your [!include[pn-hololens](../includes/pn-hololens.md)] or to
@@ -59,7 +66,12 @@ sign in to the apps.
 
 [!include[pn-layout](../includes/pn-layout.md)] will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
-**Do I need to be connected to Wi-Fi to use [!include[pn-layout](../includes/pn-layout.md)]?**
+
+**Can I use the HoloLens clicker with Layout?**
+
+You can use the HoloLens clicker with Layout but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
+
+**Do I need to be connected to Wi-Fi to use Layout?**
 
 If you want to convert 3D models using the [!include[pn-import-tool](../includes/pn-import-tool.md)], you’ll need a Wi-Fi
 connection if you use the cloud service option. If you choose to convert files
