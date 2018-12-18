@@ -11,14 +11,13 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Remote Assist FAQ
 
-Here are answers to common questions about using Microsoft Dynamics 365 Remote
-Assist.
+Here are answers to common questions about using Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
 For additional information, see [Get help with
 HoloLens](https://support.microsoft.com/products/hololens).
 
-If you’re an IT admin and you want to deploy Remote Assist to devices running
-the HoloLens Commercial Suite, see [Try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
+If you’re an IT admin and you want to deploy [!include[pn-remote-assist](../includes/pn-remote-assist.md)] to devices running
+the [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, see [Try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
 
 **Can I still use the preview app?**
 
@@ -27,12 +26,12 @@ The preview period has ended. Existing preview app customers have until March
 
 **Can I try the app before buying it?**
 
-Yes, Remote Assist is available as a free 30-day trial. For more information,
+Yes, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available as a free 30-day trial. For more information,
 see [Try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md).
 
-**What are the technical requirements for installing Remote Assist?**
+**What are the technical requirements for installing [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
 
-To use Remote Assist, you’ll need:
+To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll need:
 
 -   [A subscription to Dynamics 365 Remote Assist.](../licensing/buy-and-deploy.md)
 
@@ -45,13 +44,13 @@ To use Remote Assist, you’ll need:
 
 -   A contact using the latest version of [Microsoft
     Teams](https://products.office.com/microsoft-teams/group-chat-software) on a
-    PC running Windows 10 to make a video call. Microsoft Teams is [available as
+    PC running Windows 10 to make a video call. Microsoft [!include[pn-teams](../includes/pn-teams.md)] is [available as
     a free download](https://teams.microsoft.com/downloads).
 
 
-**How often is Remote Assist updated?**
+**How often is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] updated?**
 
-Remote Assist will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
 **How can I tell what version I'm using?**
 
@@ -59,60 +58,60 @@ Go to **Settings**, and then find the version number in the **About** section.
 
 **Why am I not getting incoming call notifications?**
 
-This can happen if you’re signed in to Remote Assist with a different account
-than the one you used to sign in to your HoloLens. Make sure you’re signed in to
+This can happen if you’re signed in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] with a different account
+than the one you used to sign in to your [!include[pn-hololens](../includes/pn-hololens.md)]. Make sure you’re signed in to
 both the app and the device with the same account. 
 
 **I see a message saying I have no internet connection.**
 
-To use Remote Assist, you need a Wi-Fi connection. Make sure your HoloLens is
+To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you need a Wi-Fi connection. Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is
 [connected to Wi-Fi](https://support.microsoft.com/en-us/help/12629).
 
-**Remote Assist is frozen or unresponsive.**
+**[!include[pn-remote-assist](../includes/pn-remote-assist.md)] is frozen or unresponsive.**
 
-Try closing and reopening Remote Assist. If you’re still having problems,
+Try closing and reopening [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. If you’re still having problems,
 [restart your HoloLens](https://support.microsoft.com/en-us/help/12642).
 
-**Remote Assist isn't showing my contacts.**
+**[!include[pn-remote-assist](../includes/pn-remote-assist.md)] isn't showing my contacts.**
 
 If you don’t see the contacts you expect, try the following:
 
--   Make sure you’ve signed in to Microsoft Teams at least once with the account
-    you’re using on your HoloLens.
+-   Make sure you’ve signed in to Microsoft [!include[pn-teams](../includes/pn-teams.md)] at least once with the account
+    you’re using on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
--   Close and reopen Remote Assist.
+-   Close and reopen [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 -   [Restart your HoloLens](https://support.microsoft.com/en-us/help/12642).
 
-**The Mixed Reality toolbar doesn’t appear on the PC Teams client during a
-Remote Assist call.**
+**The Mixed Reality toolbar doesn’t appear on the PC [!include[pn-teams](../includes/pn-teams.md)] client during a
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] call.**
 
-This might happen if Teams has downloaded a new version of the client in the
+This might happen if [!include[pn-teams](../includes/pn-teams.md)] has downloaded a new version of the client in the
 background but is still running the older version of the app. Restarting your PC
 will usually fix this issue.
 
 **Why does audio sometimes cut out even in quiet environments?**
 
-If Remote Assist is used in a loud environment, use headphones on both ends for
+If [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is used in a loud environment, use headphones on both ends for
 better communication. Using headphones for both users prevents any echo
 filtering from proactively turning on noise cancellation, which turns off audio.
 
-**Can I use Remote Assist to place a call between two separate tenants?**
+**Can I use [!include[pn-remote-assist](../includes/pn-remote-assist.md)] to place a call between two separate tenants?**
 
 Yes, but only if the expert is calling as a guest on the other user’s tenant.
-Currently, Remote Assist doesn’t support two users calling each other even if
+Currently, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] doesn’t support two users calling each other even if
 two tenants are joined by federation.
 
-**Does Microsoft Teams include the same Remote Assist features on all platforms and devices?**
+**Does Microsoft [!include[pn-teams](../includes/pn-teams.md)] include the same [!include[pn-remote-assist](../includes/pn-remote-assist.md)] features on all platforms and devices?**
 
-No. Ink, arrows, and adding files are only available on Teams for PC.
+No. Ink, arrows, and adding files are only available on [!include[pn-teams](../includes/pn-teams.md)] for PC.
 
-**I signed in to my HoloLens, but I still can't sign in to Remote Assist.**
+**I signed in to my [!include[pn-hololens](../includes/pn-hololens.md)], but I still can't sign in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)].**
 
-If you’re having trouble signing in to Remote Assist, try the following:
+If you’re having trouble signing in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)], try the following:
 
 -   Make sure you’re using a work or school account, not a Microsoft account, to
-    sign in to HoloLens.
+    sign in to [!include[pn-hololens](../includes/pn-hololens.md)].
 
 -   Make sure that the work or school account you’re using has a valid [Office
     365 Business](https://products.office.com/en-us/business/office) Premium or
@@ -120,28 +119,28 @@ If you’re having trouble signing in to Remote Assist, try the following:
     Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
     enabled.
 
--   Make sure your HoloLens is connected to the Internet.
+-   Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is connected to the internet.
 
 -   Check with your administrator to make sure your device and network are set
-    up to work with Remote Assist.
+    up to work with [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
-**How do I set up Dynamics 365 for Field Service to work with Remote Assist?**
+**How do I set up Dynamics 365 for Field Service to work with [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
 
-To learn how to set up Field Service integration with Remote Assist so that a first-line worker can call an expert in the context of a Field Service work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).
+To learn how to set up Field Service integration with [!include[pn-remote-assist](../includes/pn-remote-assist.md)] so that a first-line worker can call an expert in the context of a Field Service work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).
 
-**What languages is Remote Assist available in?**
+**What languages is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] available in?**
 
-Remote Assist is available in English only.
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available in English only.
 
-**Where is Remote Assist available?**
+**Where is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] available?**
 
-Remote Assist, which requires Microsoft HoloLens, is available worldwide.
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires Microsoft [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
 
-HoloLens devices are available in the following markets (English only):
+[!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
 
 Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
 
-**Is group calling available in Remote Assist?**
+**Is group calling available in [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
 
 Group calling isn’t available at this time, but we’re working on it. This
 feature will be available sometime in 2019.
@@ -151,7 +150,7 @@ feature will be available sometime in 2019.
 The Insert file feature supports most image formats (JPG, GIF, PNG) and PDF
 files.
 
-**Can I share files from SharePoint on Remote Assist?**
+**Can I share files from [!include[pn-sharepoint](../includes/pn-sharepoint.md)] on [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
 
 No, you can only share local files and files from OneDrive.
 

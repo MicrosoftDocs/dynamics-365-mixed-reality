@@ -11,8 +11,7 @@ ms.reviewer: v-brycho
 
 # How-to videos for Dynamics 365 Remote Assist
 
-Watch these short videos to get up and running with Microsoft Dynamics 365
-Remote Assist.
+Watch these short videos to get up and running with Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
 Looking for more help? Check out our [User Guide](user-guide.md).
 
