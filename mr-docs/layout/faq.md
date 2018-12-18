@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Layout FAQ
 
-Here are answers to common questions about using Microsoft [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
+Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
 **How can I get [!include[pn-layout](../includes/pn-layout.md)]?**  
 
@@ -38,14 +38,14 @@ To see the version number for the Import Tool, go to **Settings**, and then look
 
 No, you can use each app separately, though they do work together as well. If
 you want to copy 3D models or layouts from your PC to your [!include[pn-hololens](../includes/pn-hololens.md)] or to
-Windows Mixed Reality, you’ll need the Microsoft [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+Windows Mixed Reality, you’ll need the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 **What are the technical requirements for running the [!include[pn-layout](../includes/pn-layout.md)] apps?**
 
 -   [!include[pn-hololens](../includes/pn-hololens.md)]: Your headset must be running the [Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643). 
 
--   Windows Mixed Reality: Your PC must be running the [Windows 10 April 2018
+-   [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality: Your PC must be running the [Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/4028685). You’ll also need
     [Windows Mixed Reality motion
     controllers](https://support.microsoft.com/en-us/help/4040517) to use the
@@ -64,14 +64,14 @@ sign in to the apps.
 
 **How often is [!include[pn-layout](../includes/pn-layout.md)] updated?**
 
-[!include[pn-layout](../includes/pn-layout.md)] will follow the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
+[!include[pn-layout](../includes/pn-layout.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
 
-**Can I use the HoloLens clicker with Layout?**
+**Can I use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)]?**
 
-You can use the HoloLens clicker with Layout but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
+You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)] but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
 
-**Do I need to be connected to Wi-Fi to use Layout?**
+**Do I need to be connected to Wi-Fi to use [!include[pn-layout](../includes/pn-layout.md)?**
 
 If you want to convert 3D models using the [!include[pn-import-tool](../includes/pn-import-tool.md)], you’ll need a Wi-Fi
 connection if you use the cloud service option. If you choose to convert files
@@ -91,15 +91,15 @@ English](https://support.office.com/article/add-an-editing-language-or-set-langu
 
 **Where is [!include[pn-layout](../includes/pn-layout.md)] available?**
 
-[!include[pn-layout](../includes/pn-layout.md)] is available worldwide. [!include[pn-layout](../includes/pn-layout.md)] can be used with [!include[pn-hololens](../includes/pn-hololens.md)] or a Mixed Reality headset/motion controller and a Windows Ultra PC.
+[!include[pn-layout](../includes/pn-layout.md)] is available worldwide. [!include[pn-layout](../includes/pn-layout.md)] can be used with [!include[pn-hololens](../includes/pn-hololens.md)] or a Mixed Reality headset/motion controller and a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md) Ultra PC.
 
-Microsoft [!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
+[!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
 
 Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
 
 **How does the [!include[pn-import-tool](../includes/pn-import-tool.md)] process my 3D models?**
 
-By default, the [!include[pn-import-tool](../includes/pn-import-tool.md)] uses the Microsoft cloud service to process your
+By default, the [!include[pn-import-tool](../includes/pn-import-tool.md)] uses the [!include[cc-microsoft](../includes/cc-microsoft.md) cloud service to process your
 models. If you don’t want your models processed in the cloud, you can use the PC
 option. [Learn more.](user-guide.md#file-types-and-guidelines)
 
