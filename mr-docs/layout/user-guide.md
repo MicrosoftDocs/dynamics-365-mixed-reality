@@ -261,7 +261,7 @@ obfuscated URLs.
 
 ## Work with models
 
-On [!include[pn-hololens](../includes/pn-hololens.md)] and in [!include[ms-windows-short](../includes/ms-windows-short.md) Mixed Reality, you can place, move, copy, resize, and
+On [!include[pn-hololens](../includes/pn-hololens.md)] and in [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md) Mixed Reality, you can place, move, copy, resize, and
 rotate 3D models.
 
 ### On HoloLens
