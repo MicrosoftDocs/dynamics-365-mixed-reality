@@ -17,33 +17,36 @@ Looking for more help? Check out our [User Guide](user-guide.md).
 
 ## Remote Assist for HoloLens
 
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F4dM" frameborder="0" allowfullscreen=""></iframe></div>
-</br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F6TI" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2FeDU" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F6TH" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F4dM" frameborder="0" allowfullscreen=""></iframe></div>
+</br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F9qy" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F9qs" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2FhfT" frameborder="0" allowfullscreen=""></iframe></div>
-</br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2FNci" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F6TG" frameborder="0" allowfullscreen=""></iframe></div>
+</br>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2FhfT" frameborder="0" allowfullscreen=""></iframe></div>
+
 
 ## Microsoft Teams and Remote Assist
 
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F6TF" frameborder="0" allowfullscreen=""></iframe></div>
+</br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F6TK" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F6TP" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F6TJ" frameborder="0" allowfullscreen=""></iframe></div>
-</br>
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F6TF" frameborder="0" allowfullscreen=""></iframe></div>
+
+
 
 ## See also
 [User Guide](user-guide.md)<br>
