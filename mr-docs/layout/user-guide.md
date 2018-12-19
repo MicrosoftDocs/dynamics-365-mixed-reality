@@ -164,7 +164,7 @@ device you want to use them on.
 5.  Select **Open** to start simplifying your models. This might take a while,
     depending on how many you've selected.
 
-If you're using a [!include[ms-windows-short](../includes/ms-windows-short.md) Mixed Reality immersive headset, your imported models
+If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md) Mixed Reality immersive headset, your imported models
 will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
 
 To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to copy them to the device:
