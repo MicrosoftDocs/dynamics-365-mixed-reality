@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Use [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] to connect and collaborate using
 hands-free video calling, mixed reality annotations, and file (image and PDF)
-sharing. Use your [!include[pn-hololens](../includes/pn-hololens.md)] to call an expert who's using Microsoft [!include[pn-teams](../includes/pn-teams.md)], and
+sharing. Use your [!include[pn-hololens](../includes/pn-hololens.md)] to call an expert who's using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)], and
 then share what you see on [!include[pn-hololens](../includes/pn-hololens.md)] to solve problems and complete tasks
 together, faster.
 
@@ -35,10 +35,10 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 
 -   A contact using the latest version of [Microsoft
     Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) on
-    a PC running Windows 10 to make a video call. [Learn about using Teams with
+    a PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 to make a video call. [Learn about using Teams with
     Remote Assist.](use-microsoft-teams-with-remote-assist.md)
 
--   To connect to Dynamics 365 for Field Service from within [!include[pn-remote-assist](../includes/pn-remote-assist.md)],
+-   To connect to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] from within [!include[pn-remote-assist](../includes/pn-remote-assist.md)],
     you’ll need a [Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand).
 
 -   An internet connection. At least 1.5 MB of bandwidth is recommended for the
@@ -55,14 +55,14 @@ link, or another method.
 
 ### Install the application through the Microsoft Store for Consumers
 
-1.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “[!include[pn-remote-assist](../includes/pn-remote-assist.md)].”
+1.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![[!include[cc-microsoft](../includes/cc-microsoft.md)] Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “[!include[pn-remote-assist](../includes/pn-remote-assist.md)].”
 
 2.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **[!include[pn-remote-assist](../includes/pn-remote-assist.md)]**, then select again to launch the app. [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
 
 If your [!include[pn-hololens](../includes/pn-hololens.md)] is running the April 2018 Update and you're signed in with an
 [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account, you'll automatically be signed in to
 [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. If not, use the holographic keyboard to sign in with a work or
-school account that has an Office 365 Premium or Essentials subscription. Once
+school account that has an [!include[pn-office-365](../includes/pn-office-365.md)] Premium or Essentials subscription. Once
 you’re signed in, you’ll see your recent contacts.
 
 ## Using the user interface or voice commands
@@ -79,7 +79,7 @@ commands.](#use-voice-commands)
 -   Open the app and [select](https://support.microsoft.com/en-us/help/12644) a
     recent contact. If you don’t see the contact you want, select **Search** ![Search](media/e3155cd796106ea0818d8f52c7dbfcbe.png "Search"), and then use the holographic keyboard to enter a name or email address.
 
-When your contact answers the call in Microsoft [!include[pn-teams](../includes/pn-teams.md)], they’ll be able to see
+When your contact answers the call in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)], they’ll be able to see
 what you see in your space—including holograms.
 
 > [!NOTE]
@@ -176,14 +176,14 @@ and will be able to make annotations of their own.
 
 ### Add an image or PDF file
 
-Import an image or PDF file from OneDrive for Business and then place it in your
+Import an image or PDF file from [!include[pn-onedrive-for-business](../includes/pn-onedrive-for-business.md)] and then place it in your
 space. For example, add an image of a diagram to assist with the call. The
 people you call will be able to see the image or PDF file in the [!include[pn-teams](../includes/pn-teams.md)] app
 during a video call.
 
 To add a file:
 
-1.  During a video call, select **OneDrive** ![OneDrive](media/12b28856b051be23e665c896cd21b7d2.png "OneDrive") (or say “OneDrive”).
+1.  During a video call, select **[!include[pn-onedrive](../includes/pn-onedrive.md)]** ![OneDrive](media/12b28856b051be23e665c896cd21b7d2.png "OneDrive") (or say “OneDrive”).
 
 2.  Find and select the file you want to add.
 
@@ -284,11 +284,11 @@ button.
 | Red                          | Pick the red color.                                                                  |
 | Yellow                       | Pick the yellow color.                                                               |
 | Erase all                    | Remove all visual elements from your space.                                          |
-| **OneDrive**                 |                                                                                      |
-| OneDrive                     | Open OneDrive at the root folder to insert a file.                                   |
-| Close                        | Close OneDrive.                                                                      |
-| Next                         | Go to next page in OneDrive.                                                         |
-| Previous                     | Go to previous page in OneDrive.                                                     |
+| **[!include[pn-onedrive](../includes/pn-onedrive.md)]**                 |                                                                                      |
+| [!include[pn-onedrive](../includes/pn-onedrive.md)]                     | Open [!include[pn-onedrive](../includes/pn-onedrive.md)] at the root folder to insert a file.                                   |
+| Close                        | Close [!include[pn-onedrive](../includes/pn-onedrive.md)].                                                                      |
+| Next                         | Go to next page in [!include[pn-onedrive](../includes/pn-onedrive.md)].                                                         |
+| Previous                     | Go to previous page in [!include[pn-onedrive](../includes/pn-onedrive.md)].                                                     |
 | **Other**                    |                                                                                      |
 | Settings                     | Go to Settings page.                                                                 |
 
@@ -318,17 +318,17 @@ Here’s how:
 ## Use Dynamics 365 for Field Service from Remote Assist
 
 If your organization uses [Dynamics 365 for Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage field service
-work orders, you (the first-line worker) can view Dynamics 365 for Field Service
+work orders, you (the first-line worker) can view [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]
 bookings from [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and call the expert listed in the **Support Contact** field.
 This enables you to do heads-up, hands-free calling through [!include[pn-hololens](../includes/pn-hololens.md)] in the
-context of a Dynamics 365 for Field Service booking.
+context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] booking.
 
 > [!NOTE]
-> For information on setting up and troubleshooting Field Service integration if you're an admin, see [Troubleshoot Field Service integration](troubleshoot-field-service.md). **Note** that [a Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view Field Service bookings from [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
+> For information on setting up and troubleshooting [!include[pn-field-service](../includes/pn-field-service.md)] integration if you're an admin, see [Troubleshoot Field Service integration](troubleshoot-field-service.md). **Note** that [a Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view [!include[pn-field-service](../includes/pn-field-service.md)] bookings from [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 ### View a Field Service booking and call an expert from Remote Assist
 
-1.  In the Contacts menu, select **Dynamics 365** ![Dynamics 365](media/d365-button3.png "Dynamics 365") to open the **Booking** pane. (Select **Dynamics 365** ![Dynamics 365](media/d365-button3.png "Dynamics 365") again to close the **Booking** pane.)  
+1.  In the Contacts menu, select **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** ![Dynamics 365](media/d365-button3.png "Dynamics 365") to open the **Booking** pane. (Select **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** ![Dynamics 365](media/d365-button3.png "Dynamics 365") again to close the **Booking** pane.)  
       
     The **Recent Contacts** screen will appear with a **Booking** pane to the
     right.
@@ -353,15 +353,15 @@ context of a Dynamics 365 for Field Service booking.
 
 ### Open a Power BI dashboard from a Field Service booking
 
--   Select a Power BI link to open Power BI Online in a browser or to open the
-    Power BI desktop application.
+-   Select a [!include[pn-power-bi](../includes/pn-power-bi.md)] link to open [!include[pn-power-bi](../includes/pn-power-bi.md)] Online in a browser or to open the
+    [!include[pn-power-bi](../includes/pn-power-bi.md)] desktop application.
     
     > [!NOTE]
-    > When you open a Power BI dashboard, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. Return to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] by opening the application again through the applications menu or live cube.
+    > When you open a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. Return to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] by opening the application again through the applications menu or live cube.
 
 ### Modify the default booking view
 
-To modify the default view of information in the Booking pane, [edit the view as
+To modify the default view of information in the **Booking** pane, [edit the view as
 you would any Dynamics 365 view](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-and-edit-views).
 
 ### See also
