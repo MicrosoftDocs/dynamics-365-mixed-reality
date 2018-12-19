@@ -134,7 +134,7 @@ To learn how to set up [!include[pn-field-service](../includes/pn-field-service.
 
 **Where is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] available?**
 
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires [!include[pn-microsoft](../includes/pn-microsoft.md) [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
 
 [!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
 
