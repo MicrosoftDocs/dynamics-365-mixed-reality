@@ -25,7 +25,7 @@ and deploy Layout](../licensing/buy-and-deploy.md).
 **Can I still use the preview app?**
 
 The preview period has ended. Existing preview apps customers have until
-December 31, 2018 to start a free trial of the General Availability app or to upgrade to a paid subscription.
+December 31, 2018, to start a free trial of the General Availability app or to upgrade to a paid subscription.
 
 
 **How can I tell which version I'm using?**
