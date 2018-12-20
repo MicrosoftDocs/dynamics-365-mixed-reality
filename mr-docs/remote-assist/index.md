@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview of Dynamics 365 Remote Assist
 
-Empower technicians to solve problems faster the first time. With heads-up, hands-free video calling on [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-hololens](../includes/pn-hololens.md)], technicians can collaborate with remote experts on a PC or mobile device to troubleshoot issues in context. 
+Empower technicians to solve problems faster the first time. With heads-up, hands-free video calling on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], technicians can collaborate with remote experts on a PC or mobile device to troubleshoot issues in context. 
 
 [Watch a video on Remote Assist](https://www.youtube.com/watch?v=V732PXZHLiU).
 
