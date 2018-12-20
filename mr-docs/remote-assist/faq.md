@@ -154,7 +154,7 @@ files.
 
 No, you can only share local files and files from [!include[pn-onedrive](../includes/pn-onedrive.md)].
 
-Still need help? Try our [user forums](https://techcommunity.microsoft.com/t5/Mixed-Reality/ct-p/MixedReality). 
+Still need help? Try our [user forums](https://community.dynamics.com/365/remoteassist). 
 
 ### See also
 [Overview of Remote Assist](index.md)<br/>
