@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 11/21/2018
+ms.date: 12/19/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
@@ -25,7 +25,7 @@ and deploy Layout](../licensing/buy-and-deploy.md).
 **Can I still use the preview app?**
 
 The preview period has ended. Existing preview apps customers have until
-December 31, 2018, to upgrade to a paid subscription.
+December 31, 2018, to start a free trial of the General Availability app or to upgrade to a paid subscription.
 
 
 **How can I tell which version I'm using?**
