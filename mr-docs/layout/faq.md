@@ -71,7 +71,7 @@ sign in to the apps.
 
 You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)] but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
 
-**Do I need to be connected to Wi-Fi to use [!include[pn-layout](../includes/pn-layout.md)?**
+**Do I need to be connected to Wi-Fi to use [!include[pn-layout](../includes/pn-layout.md)]?**
 
 If you want to convert 3D models using the [!include[pn-import-tool](../includes/pn-import-tool.md)], you’ll need a Wi-Fi
 connection if you use the cloud service option. If you choose to convert files
@@ -91,15 +91,15 @@ English](https://support.office.com/article/add-an-editing-language-or-set-langu
 
 **Where is [!include[pn-layout](../includes/pn-layout.md)] available?**
 
-[!include[pn-layout](../includes/pn-layout.md)] is available worldwide. [!include[pn-layout](../includes/pn-layout.md)] can be used with [!include[pn-hololens](../includes/pn-hololens.md)] or a Mixed Reality headset/motion controller and a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md) Ultra PC.
+[!include[pn-layout](../includes/pn-layout.md)] is available worldwide. [!include[pn-layout](../includes/pn-layout.md)] can be used with [!include[pn-hololens](../includes/pn-hololens.md)] or a Mixed Reality headset/motion controller and a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Ultra PC.
 
-[!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
+[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
 
 Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
 
 **How does the [!include[pn-import-tool](../includes/pn-import-tool.md)] process my 3D models?**
 
-By default, the [!include[pn-import-tool](../includes/pn-import-tool.md)] uses the [!include[cc-microsoft](../includes/cc-microsoft.md) cloud service to process your
+By default, the [!include[pn-import-tool](../includes/pn-import-tool.md)] uses the [!include[cc-microsoft](../includes/cc-microsoft.md)] cloud service to process your
 models. If you don’t want your models processed in the cloud, you can use the PC
 option. [Learn more.](user-guide.md#file-types-and-guidelines)
 
