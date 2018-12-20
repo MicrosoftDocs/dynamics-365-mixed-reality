@@ -57,7 +57,7 @@ link, or another method.
 
 1.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![[!include[cc-microsoft](../includes/cc-microsoft.md)] Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “[!include[pn-remote-assist](../includes/pn-remote-assist.md)].”
 
-2.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **[!include[pn-remote-assist](../includes/pn-remote-assist.md)]**, then select again to launch the app. [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
+2.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **[!include[pn-remote-assist](../includes/pn-remote-assist.md)]**, then select it again to launch the app. [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
 
 If your [!include[pn-hololens](../includes/pn-hololens.md)] is running the April 2018 Update and you're signed in with an
 [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account, you'll automatically be signed in to
