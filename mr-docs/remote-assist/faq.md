@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: mapau
-ms.date: 12/13/2018
+ms.date: 12/20/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist FAQ
@@ -154,7 +154,7 @@ files.
 
 No, you can only share local files and files from [!include[pn-onedrive](../includes/pn-onedrive.md)].
 
-Still need help? Try our [user forums](https://techcommunity.microsoft.com/t5/Mixed-Reality/ct-p/MixedReality). 
+Still need help? Try our [user forums](https://community.dynamics.com/365/remoteassist). 
 
 ### See also
 [Overview of Remote Assist](index.md)<br/>

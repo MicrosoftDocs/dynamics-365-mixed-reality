@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 12/19/2018
+ms.date: 12/20/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
@@ -109,7 +109,7 @@ Currently DWG files are not supported. To import an AutoCAD file, export the
 model as FBX from AutoCAD, and then define the textures in Blender or 3DS Max.
 Export again as FBX and use the [!include[pn-import-tool](../includes/pn-import-tool.md)] cloud option.
 
-Still need help? Try our [user forums](https://techcommunity.microsoft.com/t5/Mixed-Reality/ct-p/MixedReality).
+Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
 ### See also
 [Overview of Layout](index.md)<br/>
