@@ -80,7 +80,23 @@ in the product documentation and the Microsoft Privacy Statement at
 <https://go.microsoft.com/fwlink/?LinkId=521839>. You agree to comply with all
 applicable provisions of the Microsoft Privacy Statement.
 
-**4. SCOPE OF LICENSE**. The software is licensed, not sold. Microsoft reserves
+**4. DATA TRANSFERS**. Data that Microsoft processes on your behalf may be transferred to, 
+and stored and processed in, the United States or any other country in which Microsoft or 
+its subprocessors operate. You appoint Microsoft to perform any such transfer of data to 
+any such country and to store and process data to provide the Dynamics 365 Import Tool (Preview).  
+Microsoft will abide by the requirements of European Economic Area and Swiss data protection law 
+regarding the collection, use, transfer, retention, and other processing of personal data from 
+the European Economic Area and Switzerland. All transfers of personal data to a third country or 
+an international organization will be subject to appropriate safeguards as described in Article 46 
+of the GDPR ((EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the 
+protection of natural persons with regard to the processing of personal data and on the free movement 
+of such data, and repealing Directive 95/46/EC) and such transfers and safeguards will be documented 
+according to Article 30(2) of the GDPR. In addition, Microsoft is certified to the EU-U.S. and 
+Swiss-U.S. Privacy Shield Frameworks and the commitments they entail. Microsoft agrees to notify you 
+if it makes a determination that it can no longer meet its obligation to provide the same level of 
+protection as is required by the Privacy Shield principles.
+
+**5. SCOPE OF LICENSE**. The software is licensed, not sold. Microsoft reserves
 all other rights. Unless applicable law gives you more rights despite this
 limitation, you will not (and have no right to):
 
@@ -99,23 +115,24 @@ limitation, you will not (and have no right to):
 >   a stand-alone hosted solution for others to use, or transfer the software or
 >   this agreement to any third party.
 
-**5. EXPORT RESTRICTIONS**. You must comply with all domestic and international
+**6. EXPORT RESTRICTIONS**. You must comply with all domestic and international
 export laws and regulations that apply to the software, which include
 restrictions on destinations, end users, and end use. For further information on
 export restrictions, visit <https://aka.ms/exporting>.
 
-**6. SUPPORT SERVICES**. Microsoft is not obligated under this agreement to
+**7. SUPPORT SERVICES**. Microsoft is not obligated under this agreement to
 provide any support services for the software. Any support provided is “as is”,
 “with all faults”, and without warranty of any kind.
 
-**7. UPDATES**. The software may periodically check for updates, and download
+**8. UPDATES**. The software may periodically check for updates, and download
 and install them for you. You may obtain updates only from Microsoft or
 authorized sources. Microsoft may need to update your system to provide you with
 updates. You agree to receive these automatic updates without any additional
 notice. Updates may not include or support all existing software features,
-services, or peripheral devices.
+services, or peripheral devices. Any such update may add, remove, or change features 
+of the Dynamics 365 Import Tool (Preview).
 
-**8. TERMINATION**. Microsoft may suspend your access to the Dynamics 365 Import
+**9. TERMINATION**. Microsoft may suspend your access to the Dynamics 365 Import
 Tool (Preview) at any time and for any reason immediately on notice. Upon
 termination or suspension, your right to use the Dynamics 365 Import Tool
 (Preview) stops immediately. Either party may also terminate this agreement for
@@ -124,7 +141,7 @@ breach remains uncured at the expiration of such period. Microsoft makes no
 guarantees or commitments regarding the commercial availability or pricing of
 Dynamics 365 Import Tool (Preview).
 
-**9. FEEDBACK**. “Feedback” is all suggestions, comments, input, ideas, or
+**10. FEEDBACK**. “Feedback” is all suggestions, comments, input, ideas, or
 know-how, in any form, that you provide to Microsoft about the Dynamics 365
 Import Tool (Preview). If you give Feedback to Microsoft, you give to Microsoft,
 without charge, the right to use, share and commercialize your Feedback in any
@@ -132,11 +149,11 @@ way and for any purpose. You will not give Feedback that is subject to a license
 that requires Microsoft to license its software or documentation to third
 parties because Microsoft includes your Feedback in them.
 
-**10. ENTIRE AGREEMENT**. This agreement, and any other terms Microsoft may
+**11. ENTIRE AGREEMENT**. This agreement, and any other terms Microsoft may
 provide including terms for supplements, updates, or third-party applications,
 is the entire agreement for the software.
 
-**11. APPLICABLE LAW AND PLACE TO RESOLVE DISPUTES**. If you acquired the
+**12. APPLICABLE LAW AND PLACE TO RESOLVE DISPUTES**. If you acquired the
 software in the United States or Canada, the laws of the state or province where
 you live (or, if a business, where your principal place of business is located)
 govern the interpretation of this agreement, claims for its breach, and all
@@ -148,7 +165,7 @@ in King County, Washington for all disputes heard in court. If not, you and
 Microsoft consent to exclusive jurisdiction and venue in the Superior Court of
 King County, Washington for all disputes heard in court.
 
-**12. CONSUMER RIGHTS; REGIONAL VARIATIONS**. This agreement describes certain
+**13. CONSUMER RIGHTS; REGIONAL VARIATIONS**. This agreement describes certain
 legal rights. You may have other rights, including consumer rights, under the
 laws of your state, province, or country. Separate and apart from your
 relationship with Microsoft, you may also have rights with respect to the party
@@ -188,19 +205,19 @@ with which a party may constantly trust in (so-called "cardinal obligations").
 In other cases of slight negligence, Microsoft will not be liable for slight
 negligence.
 
-**13. DISCLAIMER OF WARRANTY. THE SOFTWARE IS LICENSED “AS IS.” YOU BEAR THE
+**14. DISCLAIMER OF WARRANTY. THE SOFTWARE IS LICENSED “AS IS.” YOU BEAR THE
 RISK OF USING IT. MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES, OR
 CONDITIONS. TO THE EXTENT PERMITTED UNDER APPLICABLE LAWS, MICROSOFT EXCLUDES
 ALL IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
 PURPOSE, AND NON-INFRINGEMENT.**
 
-**14. LIMITATION ON AND EXCLUSION OF DAMAGES. IF YOU HAVE ANY BASIS FOR
+**15. LIMITATION ON AND EXCLUSION OF DAMAGES. IF YOU HAVE ANY BASIS FOR
 RECOVERING DAMAGES DESPITE THE PRECEDING DISCLAIMER OF WARRANTY, YOU CAN RECOVER
 FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. \$5.00. YOU
 CANNOT RECOVER ANY OTHER DAMAGES, INCLUDING CONSEQUENTIAL, LOST PROFITS,
 SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.**
 
-**15.** This limitation applies to (a) anything related to the software, services,
+**16.** This limitation applies to (a) anything related to the software, services,
 content (including code) on third party Internet sites, or third party
 applications; and (b) claims for breach of contract, warranty, guarantee, or
 condition; strict liability, negligence, or other tort; or any other claim; in
