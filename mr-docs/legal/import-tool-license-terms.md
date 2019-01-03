@@ -83,8 +83,8 @@ applicable provisions of the Microsoft Privacy Statement.
 **4. DATA TRANSFERS**. Data that Microsoft processes on your behalf may be transferred to, 
 and stored and processed in, the United States or any other country in which Microsoft or 
 its subprocessors operate. You appoint Microsoft to perform any such transfer of data to 
-any such country and to store and process data to provide the Dynamics 365 Import Tool (Preview).  
-Microsoft will abide by the requirements of European Economic Area and Swiss data protection law 
+any such country and to store and process data to provide the Dynamics 365 Import Tool (Preview). Microsoft will 
+abide by the requirements of European Economic Area and Swiss data protection law 
 regarding the collection, use, transfer, retention, and other processing of personal data from 
 the European Economic Area and Switzerland. All transfers of personal data to a third country or 
 an international organization will be subject to appropriate safeguards as described in Article 46 
