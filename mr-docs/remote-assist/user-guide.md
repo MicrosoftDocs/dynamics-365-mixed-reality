@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Dynamics 365 Remote Assist User Guide
 ms.author: mapau
-ms.date: 11/14/2018
+ms.date: 01/07/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User Guide
