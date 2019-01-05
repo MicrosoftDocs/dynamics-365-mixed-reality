@@ -11,8 +11,7 @@ ms.reviewer: v-brycho
 
 # How-to videos for Dynamics 365 Layout
 
-Watch these short videos to get up and running with Microsoft Dynamics 365
-Layout.
+Watch these short videos to get up and running with [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
 Looking for more help? Check out our [User Guide](user-guide.md).
 

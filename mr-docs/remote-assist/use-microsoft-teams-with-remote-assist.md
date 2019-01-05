@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Set up and use Microsoft Teams with Remote Assist to collaborate on a call
 ms.author: mapau
-ms.date: 11/21/2018
+ms.date: 12/11/2018
 ms.service: crm-online
 ms.topic: article
 title: Set up and use Microsoft Teams with Remote Assist
@@ -11,49 +11,53 @@ ms.reviewer: v-brycho
 
 # Set up and use Microsoft Teams with Remote Assist to collaborate on a call
 
-A Microsoft Dynamics 365 Remote Assist user on HoloLens can work collaboratively with a colleague (typically an expert in a particular field) during a video call by using Microsoft Teams. The expert can see everything that the Remote Assist user sees, and they can holographically draw
+A [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user on [!include[pn-hololens](../includes/pn-hololens.md)] can work collaboratively with a colleague (typically an expert in a particular field) during a video call by using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]. The expert can see everything that the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user sees, and they can holographically draw
 and annotate together. For example, let’s say a first-line worker is servicing a
 very complex machine and isn’t sure how to solve a problem. The first-line
 worker can call an expert anywhere in the world and have the expert assist with
 the servicing using annotations or files.
 
+Setting up this collaboration using [!include[pn-teams](../includes/pn-teams.md)] is simple and it’s free for the
+expert.
+
 Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common questions.
 
-[Watch how-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485) about Remote Assist.
+[Watch how-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485) about [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 ## What you’ll need
+
 
 The Remote Assist user (first-line worker) on HoloLens needs:
 
 -   [A subscription to Remote Assist.](../licensing/buy-and-deploy.md). The Remote Assist subscription includes a subscription to Microsoft Teams.
 
--   A HoloLens running the [Windows 10 April 2018
+-   A [!include[pn-hololens](../includes/pn-hololens.md)] running the [Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643) (or later).
 
--   An Azure Active Directory account.
+-   An [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] account.
 
 The expert needs:
 
 -   A PC running Windows 10 with the latest version of [Microsoft Teams.](https://products.office.com/microsoft-teams/group-chat-software). The expert uses Teams to communicate with the Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads).
 
--   A free Microsoft account. The expert might already have a Microsoft account
-    if they signed up for the Microsoft App Store, Skype, Xbox, Hotmail, or
-    Outlook.com. If the expert doesn’t already have a Microsoft account, they
+-   A free [!include[cc-microsoft](../includes/cc-microsoft.md)] account. The expert might already have a [!include[cc-microsoft](../includes/cc-microsoft.md)] account
+    if they signed up for the [!include[cc-microsoft](../includes/cc-microsoft.md)] App Store, Skype, Xbox, Hotmail, or
+    Outlook.com. If the expert doesn’t already have a [!include[cc-microsoft](../includes/cc-microsoft.md)] account, they
     can sign up for one by going to [https://account.microsoft.com/account](https://account.microsoft.com/account).
 
 ## Setup
 
-You can onboard an expert and collaborate using Teams in three easy steps:
+You can onboard an expert and collaborate using [!include[pn-teams](../includes/pn-teams.md)] in three easy steps:
 
 | **Step** | **Description**                                                                  | **Who does this step?**           |
 |----------|----------------------------------------------------------------------------------|-----------------------------------|
-|    1.      | Enable guest access for Teams                                                    | Administrator                     |
-|    2.      | Invite the expert to join a team as a guest using the expert’s Microsoft account | Administrator or Remote Assist user and expert (to download Teams) |
-|    3.      | Place a call                                                                     | Remote Assist user or expert     |
+|    1.      | Enable guest access for [!include[pn-teams](../includes/pn-teams.md)]                                                    | Administrator                     |
+|    2.      | Invite the expert to join a team as a guest using the expert’s [!include[cc-microsoft](../includes/cc-microsoft.md)] account | Administrator or [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user and expert (to download [!include[pn-teams](../includes/pn-teams.md)]) |
+|    3.      | Place a call                                                                     | [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user or expert     |
 
 ### Step 1: Enable guest access for teams
 
-1.  If you’re the admin for the main Azure tenant, go to
+1.  If you’re the admin for the main [!include[pn-azure](../includes/pn-azure.md)] tenant, go to
     <https://portal.office.com/adminportal/> to open the Office Admin portal,
     and then sign in.
 
@@ -61,7 +65,7 @@ You can onboard an expert and collaborate using Teams in three easy steps:
 
     ![Service & add-ins](media/bf81ea48e3ccd560b6f44dbc72a73eb5.png "Service & add-ins")
 
-1.  Select **Microsoft Teams** from the list of applications.
+1.  Select **[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]** from the list of applications.
 
     ![Microsoft Teams](media/ad846431f181b1c6df362bc2e0e03167.png "Microsoft Teams")
 
@@ -70,7 +74,7 @@ You can onboard an expert and collaborate using Teams in three easy steps:
 2.  In the drop-down list next to **Select the user/license type you want to
     configure**, select **Guest**.
 
-3.  Set **Turn Microsoft Teams on or off for all users of this type** to **On**,
+3.  Set **Turn [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] on or off for all users of this type** to **On**,
     and then choose **Save**.
 
     ![Save](media/9f095e7553a4af03ff13ea6a29a9343a.png "Save")
@@ -79,37 +83,37 @@ You can onboard an expert and collaborate using Teams in three easy steps:
 
 ### Step 2: Invite the expert to join a team
 
-1.  In Teams, select **Join or create a team** to create a team if it doesn’t
-    already exist. The Remote Assist user and the expert must be on the same
+1.  In [!include[pn-teams](../includes/pn-teams.md)], select **Join or create a team** to create a team if it doesn’t
+    already exist. The [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user and the expert must be on the same
     team to communicate.
 
     ![Join or create a team](media/16e00f809d210dcb3b1e8c8e859b73da.png "Join or create a team")
 
-1.  When asked to add members, enter the expert’s Microsoft account.
+1.  When asked to add members, enter the expert’s [!include[cc-microsoft](../includes/cc-microsoft.md)] account.
 
     ![Microsoft account](media/71e9276273f8f47b786f743416a2cb64.png "Microsoft account")
 
     > [!NOTE]
-    > If you don’t see the option to add a guest by typing an email address, it’s likely that guest access isn’t enabled on your company’s Azure tenant for Teams. Enable guest access as described earlier in this topic.
+    > If you don’t see the option to add a guest by typing an email address, it’s likely that guest access isn’t enabled on your company’s [!include[pn-azure](../includes/pn-azure.md)] tenant for [!include[pn-teams](../includes/pn-teams.md)]. Enable guest access as described earlier in this topic.
 
 1.  The expert will immediately receive an email message and can click the link
-    in the message to open (or download) Microsoft Teams. This version of Teams
+    in the message to open (or download) [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]. This version of [!include[pn-teams](../includes/pn-teams.md)]
     is free and is not a trial version.
 
 ### Step 3. Place a call
 
-1.  The expert launches the Teams app and the Remote Assist user on the HoloLens
+1.  The expert launches the [!include[pn-teams](../includes/pn-teams.md)] app and the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user on the [!include[pn-hololens](../includes/pn-hololens.md)]
     signs in to their account as usual.
 
     > [!IMPORTANT]
-    > If this is the first time the expert has launched Teams and the expert has not been invited to any other teams, Teams will automatically take the expert to the correct place. If the expert has been invited to other teams, the expert might need to switch to the appropriate tenant.  
+    > If this is the first time the expert has launched [!include[pn-teams](../includes/pn-teams.md)] and the expert has not been invited to any other teams, [!include[pn-teams](../includes/pn-teams.md)] will automatically take the expert to the correct place. If the expert has been invited to other teams, the expert might need to switch to the appropriate tenant.  
     >     
     > To switch tenants, in the drop-down menu in the upper-right corner of the window, select the appropriate guest tenant:
     
     ![Guest tenant](media/55237a5359fb66daf7bbb9413adab6b9.png "Guest tenant")
        
     > [!NOTE]
-    > Teams might take a few seconds to reload.
+    > [!include[pn-teams](../includes/pn-teams.md)] might take a few seconds to reload.
     
 1.  Either party can make the call. You might need to search contacts to find
     the right person.
@@ -119,8 +123,8 @@ You can onboard an expert and collaborate using Teams in three easy steps:
 
 ## Working with annotations
 
-Once Teams is installed, the expert can make video calls to (and receive them
-from) contacts using Remote Assist on a HoloLens.
+Once [!include[pn-teams](../includes/pn-teams.md)] is installed, the expert can make video calls to (and receive them
+from) contacts using [!include[pn-remote-assist](../includes/pn-remote-assist.md)] on a [!include[pn-hololens](../includes/pn-hololens.md)].
 
 When in a call, the expert will see the contact’s space—including the
 holograms—and can use the Mixed Reality toolbar in the video call window to add
@@ -179,7 +183,22 @@ To make changes to edits, do one of the following:
 -   While in live mode, select **Erase all** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all") to erase all of the annotations made during that call.
 
 > [!NOTE]
-> Specific drawings or arrows can’t be removed. Only the HoloLens user can make changes to or delete pictures added by an expert.
+> Specific drawings or arrows can’t be removed. Only the [!include[pn-hololens](../includes/pn-hololens.md)] user can make changes to or delete pictures added by an expert.
+
+## Share your desktop or a running application with a Remote Assist user
+
+When you share your desktop or running application with a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user, the user's video feed will change to a solid color. They'll still be able to use all the tools in the toolbar even though their video feed will no longer be displayed.
+
+To share your desktop or a running application:
+
+1. In [!include[pn-teams](../includes/pn-teams.md)], select the **Open share tray** button.
+
+   ![Share tray button](media/share-tray.PNG "Share tray button")
+   
+2. Select the screen you want to share.
+
+> [!NOTE]
+> You can only share one application or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
 
 ### See also
 [User Guide](user-guide.md)<br/>

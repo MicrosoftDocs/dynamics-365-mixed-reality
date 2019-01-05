@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Dynamics 365 Layout User Guide
 ms.author: ornella
-ms.date: 11/21/2018
+ms.date: 12/06/2018
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout User Guide
@@ -11,8 +11,8 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Layout User Guide
 
-Use Microsoft Dynamics 365 Layout to create and design space plans on HoloLens
-or on a Windows Mixed Reality immersive headset. Import 3D models and design,
+Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] to create and design space plans on [!include[pn-hololens](../includes/pn-hololens.md)]
+or on a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset. Import 3D models and design,
 edit, and collaborate virtually, on a real-world scale.
 
 Need more help? [Check out the Layout FAQ](faq.md) for answers to common questions.
@@ -21,8 +21,8 @@ Need more help? [Check out the Layout FAQ](faq.md) for answers to common questio
 
 ## What you’ll need
 
--   [A subscription to Layout.](../licensing/buy-and-deploy.md) The Layout subscription also includes the
-    Microsoft Dynamics 365 Import Tool (Preview) for PC.
+-   [A subscription to Layout.](../licensing/buy-and-deploy.md) The [!include[pn-layout](../includes/pn-layout.md)] subscription also includes the
+    [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC.
 
 -   A [HoloLens](https://www.microsoft.com/hololens) running the [Windows 10
     April 2018 Update](https://support.microsoft.com/en-us/help/12643) and/or
@@ -38,25 +38,25 @@ Need more help? [Check out the Layout FAQ](faq.md) for answers to common questio
 
 ## Install the apps
 
-How you install Layout and the Import Tool depends on how your administrator
+How you install [!include[pn-layout](../includes/pn-layout.md)] and the [!include[pn-import-tool](../includes/pn-import-tool.md)] depends on how your administrator
 chooses to distribute the apps. Your admin may have you install the app from the
-Microsoft Store for Consumers, from your organization’s private store, through
+[!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers, from your organization’s private store, through
 an email link, or another method. 
 
 The following table describes the app/tool, and how to install them from the
 public store.
 
-| **App**     | **Device**            | **Use to**                            | **To install from Microsoft store** |
+| **App**     | **Device**            | **Use to**                            | **To install from [!include[cc-microsoft](../includes/cc-microsoft.md)] store** |
 |-------------|-----------------------|---------------------------------------------|-------------------------------------|
-| Layout      | HoloLens              | <ul><li>Create layouts by scanning your surroundings </li><li>Place models in your layouts </li></ul>     | On your HoloLens, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “Dynamics 365 Layout," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br>    |
-| Layout      | Mixed reality headset | Place models in layouts imported from HoloLens or Microsoft Visio | 1. On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “Dynamics 365 Layout," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br>   |
-| Import Tool | PC                    | <ul><li>Transfer floorplans from Microsoft Visio to HoloLens or Windows Mixed Reality</li><li>Transfer layouts between HoloLens and Windows Mixed Reality </li><li>Process 3D models for use on HoloLens </ul>| On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “Dynamics 365 Import Tool (Preview)," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX). <br>    |
+| [!include[pn-layout](../includes/pn-layout.md)]      | [!include[pn-hololens](../includes/pn-hololens.md)]              | <ul><li>Create layouts by scanning your surroundings </li><li>Place models in your layouts </li></ul>     | On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br>    |
+| [!include[pn-layout](../includes/pn-layout.md)]      | Mixed reality headset | Place models in layouts imported from [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)] | 1. On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br>   |
+| [!include[pn-import-tool](../includes/pn-import-tool.md)] | PC                    | <ul><li>Transfer floorplans from [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)] to [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality</li><li>Transfer layouts between [!include[pn-hololens](../includes/pn-hololens.md)] and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality </li><li>Process 3D models for use on [!include[pn-hololens](../includes/pn-hololens.md)] </ul>| On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX). <br>    |
 
 ## Use Layout
 
-To use Layout, you create space layouts on your HoloLens or PC, and then use a
-HoloLens or Windows Mixed Reality immersive headset to place 3D models in the
-layouts. The Layout app comes with a set of preinstalled models, and you can
+To use [!include[pn-layout](../includes/pn-layout.md)], you create space layouts on your [!include[pn-hololens](../includes/pn-hololens.md)] or PC, and then use a
+[!include[pn-hololens](../includes/pn-hololens.md)] or [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset to place 3D models in the
+layouts. The [!include[pn-layout](../includes/pn-layout.md)] app comes with a set of preinstalled models, and you can
 also add your own.
 
 ### Create a layout
@@ -64,49 +64,48 @@ also add your own.
 There are two ways to create a layout:
 
 -   Use [Microsoft Visio](https://products.office.com/en-us/visio/) to design a
-    floor plan, and then export it to HoloLens or Windows Mixed Reality.
+    floor plan, and then export it to [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality.
 
--   Use Layout on your HoloLens to scan a space.
+-   Use [!include[pn-layout](../includes/pn-layout.md)] on your [!include[pn-hololens](../includes/pn-hololens.md)] to scan a space.
 
 #### Create a layout with Microsoft Visio<br>
 
-**Step 1: Download and install the Visio Add-in for Microsoft Dynamics 365
-Layout**
+**Step 1: Download and install the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]**
 
-1.  Open the Import Tool.
+1.  Open the [!include[pn-import-tool](../includes/pn-import-tool.md)].
 
 2.  Select **About**, and then select the 32-bit or the 64-bit download (choose
-    the one that matches your version of Visio).
+    the one that matches your version of [!include[pn-visio](../includes/pn-visio.md)]).
     
     > [!div class="mx-imgBorder"]
     > ![Download Visio add-in](media/1-visio-download-page.png "Download Visio add-in") 
 
-3.  Open Visio, and then select **File** \> **Options** \> **Add-ins**.
+3.  Open [!include[pn-visio](../includes/pn-visio.md)], and then select **File** \> **Options** \> **Add-ins**.
 
 4.  Next to **Manage**, select **COM Add-ins**, and then select **Go**.
 
-5.  Select **Visio Add-in for Dynamics 365 Layout**, and then select **Add**.
+5.  Select **[!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]**, and then select **Add**.
 
-**Step 2: Create your floor plan with Microsoft Visio**
+**Step 2: Create your floor plan with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)]**
 
--   When the floor plan is ready, select the **Layout** tab, select **Export**,
+-   When the floor plan is ready, select the **[!include[pn-layout](../includes/pn-layout.md)]** tab, select **Export**,
     and then save your floor plan.
 
-**Step 3: Import your floor plan using the Import Tool**
+**Step 3: Import your floor plan using the [!include[pn-import-tool](../includes/pn-import-tool.md)]**
 
-1.  In the Import Tool, select **This PC** \> **Add layout**, and then navigate
+1.  In the [!include[pn-import-tool](../includes/pn-import-tool.md)], select **This PC** \> **Add layout**, and then navigate
     to the floor plan.
 
 2.  Select the floor plan, and then select **Open**.
 
-    The floor plan will show up automatically in Layout on a mixed reality immersive
+    The floor plan will show up automatically in [!include[pn-layout](../includes/pn-layout.md)] on a mixed reality immersive
 headset connected to the same PC.
 
-To use the layout on HoloLens, you’ll need to move it there:
+To use the layout on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to move it there:
 
-1.  Connect your HoloLens to your PC using the USB cable.
+1.  Connect your [!include[pn-hololens](../includes/pn-hololens.md)] to your PC using the USB cable.
 
-2.  Open the Import Tool on the PC, and then select **This PC** \> **Layouts**.
+2.  Open the [!include[pn-import-tool](../includes/pn-import-tool.md)] on the PC, and then select **This PC** \> **Layouts**.
 
 3.  Select the check box on the layouts you want to copy, and then select
     **Send**.
@@ -114,12 +113,12 @@ To use the layout on HoloLens, you’ll need to move it there:
     > [!div class="mx-imgBorder"]
     > ![Move layout to HoloLens](media/2-selected-layouts-send-to-hololens.png "Move layout to HoloLens")
 
-4.  On HoloLens, open the Layout app. You’ll find your layout on the **Layouts**
+4.  On [!include[pn-hololens](../includes/pn-hololens.md)], open the [!include[pn-layout](../includes/pn-layout.md)] app. You’ll find your layout on the **Layouts**
     tab.
 
 #### Create a layout with HoloLens
 
-1.  On your HoloLens, open the Layout app.
+1.  On your [!include[pn-hololens](../includes/pn-hololens.md)], open the [!include[pn-layout](../includes/pn-layout.md)] app.
 
 2.  Select **New layout**, and then follow the instructions for scanning your
     space and creating a layout.
@@ -127,9 +126,9 @@ To use the layout on HoloLens, you’ll need to move it there:
 To move the layout to your PC so you can open it on a mixed reality immersive
 headset: 
 
-1.  Connect the HoloLens to the PC using the USB cable.
+1.  Connect the [!include[pn-hololens](../includes/pn-hololens.md)] to the PC using the USB cable.
 
-2.  Open the Import Tool, and then select the HoloLens name.
+2.  Open the [!include[pn-import-tool](../includes/pn-import-tool.md)], and then select the [!include[pn-hololens](../includes/pn-hololens.md)] name.
 
 3.  Select the check box on the layout you want to send to your PC, and then
     select **Send**.
@@ -139,25 +138,25 @@ headset: 
 
 ## Convert 3D models for use on HoloLens or Windows Mixed Reality headsets
 
-To use 3D models on HoloLens or your immersive headset, you’ll need to convert
-them to the correct file format using the Import Tool, and then move them to the
+To use 3D models on [!include[pn-hololens](../includes/pn-hololens.md)] or your immersive headset, you’ll need to convert
+them to the correct file format using the [!include[pn-import-tool](../includes/pn-import-tool.md)], and then move them to the
 device you want to use them on.
 
-1.  On your PC, open the Import Tool.
+1.  On your PC, open the [!include[pn-import-tool](../includes/pn-import-tool.md)].
 
 2.  Select **Models** \> **This PC**, and then select **Add models**.
 
-3.  If this is the first time you’ve used the Import Tool, choose how you want
+3.  If this is the first time you’ve used the [!include[pn-import-tool](../includes/pn-import-tool.md)], choose how you want
     to simplify your models (you can change this later in the app settings):
 
-    -   To use the Microsoft cloud service, select **Use the cloud**. (You'll
+    -   To use the [!include[cc-microsoft](../includes/cc-microsoft.md)] cloud service, select **Use the cloud**. (You'll
         need an internet connection for this option.)
 
     -   To use your PC, select **Use my PC**. (With this option, there are
         [limits on the file types](#file-types-and-guidelines) you can import.)
         
         > [!div class="mx-imgBorder"]
-        > ![Cloud or PC option](media/4-use-cloud-pc-option.png "Cloud or PC option")
+        > ![Cloud or PC option](media/cloud-pc-option.PNG "Cloud or PC option")
 
 4.  Navigate to the folder where your models are saved, and then select the
     models you want to add (up to 25 at a time).
@@ -165,17 +164,17 @@ device you want to use them on.
 5.  Select **Open** to start simplifying your models. This might take a while,
     depending on how many you've selected.
 
-If you're using a Windows Mixed Reality immersive headset, your imported models
-will show up automatically in Layout.
+If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models
+will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
 
-To use your models on HoloLens, you’ll need to copy them to the device:
+To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to copy them to the device:
 
-1.  On your PC, open the Import Tool.
+1.  On your PC, open the [!include[pn-import-tool](../includes/pn-import-tool.md)].
 
-2.  Connect your HoloLens to the PC, and then sign in to the HoloLens.
+2.  Connect your [!include[pn-hololens](../includes/pn-hololens.md)] to the PC, and then sign in to the [!include[pn-hololens](../includes/pn-hololens.md)].
 
-3.  In the Import Tool, select **This PC** \> **Models**, and then select the
-    check boxes on the models you want to send to HoloLens.
+3.  In the [!include[pn-import-tool](../includes/pn-import-tool.md)], select **This PC** \> **Models**, and then select the
+    check boxes on the models you want to send to [!include[pn-hololens](../includes/pn-hololens.md)].
     
     > [!div class="mx-imgBorder"]
     > ![Copy models to HoloLens](media/5-copy-models-to-hololens.png "Copy models to HoloLens")
@@ -204,10 +203,8 @@ See the next section in this topic to learn how the cloud service works.
 
 |  Item           |     Description                          |
 |-----------------|------------------------------|
-| **File format** | GLB file formats only, with the following limitations: <ul><li>No more than 1 material per mesh </li><li>No more than 1 set of UVs per mesh </li><li>No more than 2 meshes </li><li>No more than 10,000 total polygons (triangles). Less than 5,000 is recommended. </li><li>Maximum texture size of 2,048 x 2,048 (512 x 512 recommended) </ul> |
+| **File format** | GLB file formats only, with the following recommendations: <ul><li>No more than 1 set of UVs per mesh</li><li>Less than 5,000 polygons</li><li>Texture size of 512 x 512 </li></ul> |
 | **Textures**     | Textures are embedded. Export your model from your CAD program as a single self-contained file. <br> **Note:** Emissive, occlusion, specular, and gloss textures will be ignored.    | 
-| **Polycount**         | Less than 10,000 polygons per model                                                                 |  
-| **Mesh**              | Export your model as \<=2 meshes with 1 material per mesh                                           | 
 | **Model orientation** | <ul><li>Floor-associated objects: the model’s +Y axis should point up and the +Z axis should point forward.</li><li>Ceiling-associated objects: the model’s +Y axis should point down and the +Z axis should point forward. </li><li>Wall-associated objects: the model’s +Y axis should point away from the wall and the +Z axis should point up the wall.</ul> |  
 
 ## Best practices for importing 3D models 
@@ -220,7 +217,7 @@ See the next section in this topic to learn how the cloud service works.
     any image files in a ZIP archive and use the resulting ZIP as your import
     file.
 
-The Import Tool is designed to import 3D models that can be individually used in
+The [!include[pn-import-tool](../includes/pn-import-tool.md)] is designed to import 3D models that can be individually used in
 any spatial design layout. It is not optimized for importing intact scenes or
 layouts (complete buildings files with multiple models already positioned). Also
 note that:
@@ -242,19 +239,19 @@ note that:
 
 ## How does the Microsoft cloud service work?
 
-When you convert a 3D model, the Import Tool uploads the raw model to
-the Microsoft cloud service, which is hosted on a Microsoft Azure web service.
+When you convert a 3D model, the [!include[pn-import-tool](../includes/pn-import-tool.md)] uploads the raw model to
+the [!include[cc-microsoft](../includes/cc-microsoft.md)] cloud service, which is hosted on a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-azure](../includes/pn-azure.md)] web service.
 The cloud service transcodes and simplifies the model and then returns the
-simplified models to the Import Tool, restricting access via the use of
+simplified models to the [!include[pn-import-tool](../includes/pn-import-tool.md)], restricting access via the use of
 obfuscated URLs.
 
 -   Both the raw model and the simplified model are transferred by using the
     HTTPS protocol.
 
--   Both the raw model and the simplified model are hosted on Azure Blob
+-   Both the raw model and the simplified model are hosted on [!include[pn-azure](../includes/pn-azure.md)] Blob
     storage.
 
--   Both the raw model and the simplified model are purged from Azure Blob
+-   Both the raw model and the simplified model are purged from [!include[pn-azure](../includes/pn-azure.md)] Blob
     storage after 24 hours.
 
 -   The simplified model is fetched via an obfuscated URL by using the HTTPS
@@ -264,7 +261,7 @@ obfuscated URLs.
 
 ## Work with models
 
-On HoloLens and in Windows Mixed Reality, you can place, move, copy, resize, and
+On [!include[pn-hololens](../includes/pn-hololens.md)] and in [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality, you can place, move, copy, resize, and
 rotate 3D models.
 
 ### On HoloLens
@@ -287,7 +284,20 @@ rotate 3D models.
 | Copy         | Select the model, and then select **Copy**. Point your controller to where you want to place the copy, and then pull the trigger again to place it. To place multiple copies, just point and select again—no need to go back to the original. Select **Done** on the last copy.      |
 | Resize       | Select the model, and then select **Resize**. Point at one edge of the object, and then pull and hold the trigger. Drag the edge, and then release the trigger.                                                                                                                      |
 | Rotate       | Point and pull the trigger to select the model. Then point at one of the rotation arrows and pull the trigger to rotate the model 90 degrees. For more precise rotation, use the round rotation control: point, pull, and hold the trigger, and then move your controller to rotate. |
-| Multi-select | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them.                                                             |
+| Multi-select | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them. |
+
+## Improve perfomance when your assets don't require texture or multiple colors
+
+In certain scenarios, textures or multiple colors might not be important for visualizing 3D assets. In these cases, to improve 
+performance, you might want to turn off textures and use a single color. You can do this by using the Performance setting. 
+
+To turn the Performance setting on or off:
+
+- Select **Settings**, select **Performance**, and then select the **Simplify objects by using just one color** option.
+
+> [!div class="mx-imgBorder"]
+> ![Performance mode setting](media/performance-mode-setting.PNG "Performance mode setting")
+
 
 ### See also
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
