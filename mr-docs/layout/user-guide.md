@@ -206,7 +206,7 @@ To use your modelsÂ on [!include[pn-hololens](../includes/pn-hololens.md)], youâ
 
 5. Select **Convert without optimizing**.
 
-   ???SCREEN SHOT GOES HERE???
+   > ![Convert without optimizing option](media/convert-without-optimizing.PNG "Convert without optimizing option") 
 
 6. Select **Optimize all models** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
@@ -227,10 +227,10 @@ To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], youâ€
 
 5. Select **Convert using this PC**. 
 
-   > [!NOTE] 
-   > The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see **File types and guidelines** below.
+   ???SCREEN SHOT OF CONVERT USING PC GOES HERE???
    
-   ???SCREEN SHOT GOES HERE???
+   > [!NOTE] 
+   > The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see **File types and guidelines** below.  
    
 6. Select **Optimize all models** to start the optimization process. The optimization process might take a while, depending on how many models you're importing.
 
