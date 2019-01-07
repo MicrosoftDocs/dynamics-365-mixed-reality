@@ -212,7 +212,7 @@ To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you�
 
 If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
 	
-To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to copy them to the device as described below.
+To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the HoloLens device](#copy-models-to-a-HoloLens-device).
 
 ### Convert using your PC
 
@@ -230,13 +230,13 @@ To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you�
    > ![Convert with PC option](media/convert-with-PC.PNG "Convert with PC option")
       
    > [!NOTE] 
-   > The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see **File types and guidelines** below.  
+   > The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see [File types and guidelines](#file-types-and-guidelines) below.  
    
 6. Select **Optimize all models** to start the optimization process. The optimization process might take a while, depending on how many models you're importing.
 
 If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
 	
-To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to copy them to the device as described below.
+To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the HoloLens device](#copy-models-to-a-HoloLens-device).
 
 ### Copy models to a HoloLens device
 
