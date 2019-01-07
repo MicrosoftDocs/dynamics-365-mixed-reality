@@ -170,7 +170,8 @@ Specific instructions for each option are provided below.
 
 6. Under **Optimization settings**, choose the type of device you're optimizing for (HoloLens or Mixed Reality headsets) and the number of models that you'll use in a single scene. These settings will apply to all models you selected in Step 3.
 
-   ???SCREEN SHOT GOES HERE???
+   > [!div class="mx-imgBorder"]
+   > ![Optimization settings](media/optimization-settings.PNG "Optimization settings") 
 
 7. Select **Optimize all models** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
