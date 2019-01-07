@@ -173,11 +173,13 @@ The Import Tool provides three options for preparing your 3D models. Use the fol
 
 8. When the optimization process is complete, open each model to view the results. If you aren't happy with the results of any model, do the following:
 
-   a. On the **Properties** tab for the model, select **Optimize again**. 
-   b. Under **Optimize this model again**, pull the slider to the left to optimize for performance or to the right to optimize for quality. Optimizing for performance will result in a model that performs better on HoloLens or Mixed Reality headsets, but may compromise on visual quality. Optimizing for quality will result in a model that has better visual quality but may adversely affect device performance, resulting in user discomfort.
-   c. Once you've moved the slider to the desired level, select **Optimize**.
+   1. On the **Properties** tab for the model, select **Optimize again**. 
+   2. Under **Optimize this model again**, pull the slider to the left to optimize for performance or to the right to optimize for quality. Optimizing for performance will result in a model that performs better on HoloLens or Mixed Reality headsets, but may compromise on visual quality. Optimizing for quality will result in a model that has better visual quality but may adversely affect device performance, resulting in user discomfort.
+   3. Once you've moved the slider to the desired level, select **Optimize**.
+   
       ???SCREEN SHOT GOES HERE???
-   d. Repeat steps a, b and c until you're satisfied with the results.
+      
+   4. Repeat steps a, b and c until you're satisfied with the results.
    
       > [!NOTE]
       > The re-optimization option is available for 24 hours after the first optimization done using the cloud service.
