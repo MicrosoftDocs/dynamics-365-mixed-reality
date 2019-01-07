@@ -170,19 +170,20 @@ Specific instructions for each option are provided below.
 
 6. Under **Optimization settings**, choose the type of device you're optimizing for (HoloLens or Mixed Reality headsets) and the number of models that you'll use in a single scene. These settings will apply to all models you selected in Step 3.
 
-   > [!div class="mx-imgBorder"]
-   > ![Optimization settings](media/optimization-settings.PNG "Optimization settings") 
+      > ![Optimization settings](media/optimization-settings.PNG "Optimization settings") 
 
 7. Select **Optimize all models** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
 8. When the optimization process is complete, open each model to view the results. If you aren't happy with the results of any model, do the following:
 
    1. On the **Properties** tab for the model, select **Optimize again**. 
-   2. Under **Optimize this model again**, pull the slider to the left to optimize for performance or to the right to optimize for quality. Optimizing for performance will result in a model that performs better on HoloLens or Mixed Reality headsets, but may compromise on visual quality. Optimizing for quality will result in a model that has better visual quality but may adversely affect device performance, resulting in user discomfort.
-   3. Once you've moved the slider to the desired level, select **Optimize**.
    
-      ???SCREEN SHOT GOES HERE???
-      
+   2. Under **Optimize this model again**, pull the slider to the left to optimize for performance or to the right to optimize for quality. Optimizing for performance will result in a model that performs better on HoloLens or Mixed Reality headsets, but may compromise on visual quality. Optimizing for quality will result in a model that has better visual quality but may adversely affect device performance, resulting in user discomfort.
+   
+      > ![Re-optimization slider](media/reoptimize-slider.PNG "Re-optimization slider") 
+   
+   3. Once you've moved the slider to the desired level, select **Optimize**.
+         
    4. Repeat steps a, b and c until you're satisfied with the results.
    
       > [!NOTE]
