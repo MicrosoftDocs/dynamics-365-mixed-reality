@@ -150,6 +150,8 @@ The Import Tool provides three options for preparing your 3D models. Use the fol
 |Convert without optimizing|Use this option if you've already optimized a model using an external tool and want to retain the model properties when you convert it for use on HoloLens or Mixed Reality headsets.|GLB only|
 |Convert using your PC|Use this option if you want to have more control over the optimization process with no limits on the number of polygons or meshes.|GLB only|
 
+Specific instructions for each option are provided below.
+
 ### Optimize using the Microsoft Cloud Service
 
 1.  On your PC, open the [!include[pn-import-tool](../includes/pn-import-tool.md)].
@@ -163,7 +165,8 @@ The Import Tool provides three options for preparing your 3D models. Use the fol
 
 5. Select **Optimize using the Microsoft Cloud Service.**
 
-   ???SCREEN SHOT GOES HERE???
+   > [!div class="mx-imgBorder"]
+   > ![Microsoft Cloud Service option](media/cloud-service-option.PNG "Microsoft Cloud Service Option") 
 
 6. Under **Optimization settings**, choose the type of device you're optimizing for (HoloLens or Mixed Reality headsets) and the number of models that you'll use in a single scene. These settings will apply to all models you selected in Step 3.
 
