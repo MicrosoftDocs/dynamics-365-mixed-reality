@@ -142,6 +142,15 @@ To use 3D models on [!include[pn-hololens](../includes/pn-hololens.md)] or your 
 them to the correct file format using the [!include[pn-import-tool](../includes/pn-import-tool.md)], and then move them to the
 device you want to use them on.
 
+The Import Tool provides three options for preparing your 3D models. Use the following table to determine which option is best for your needs.
+
+|**Option**|**Description**|**Supported file formats**|
+|--------|-------------------------------------------------------------------------|----------------------------|
+|Optimize using the Microsoft Cloud Service|
+This is the simplest way to optimize your 3D models. The Microsoft Cloud Service automatically transcodes and simplifies the models you select. You can specify the type of device (HoloLens or Windows Mixed Reality headset) to optimize for, and also the number of models per scene. If you're not happy with the initial results after optimizing, you can use a sliding scale to re-optimize the model, focusing on performance or quality.|FBX, OBJ, SKP, JT, STP, STEP, GLTF, GLB|
+|Convert without optimizing|Use this option if you've already optimized a model using an external tool and want to retain the model properties when you convert it for use on HoloLens or Mixed Reality headsets.|GLB only|
+|Convert using your PC|Use this option if you want to have more control over the optimization process with no limits on the number of polygons or meshes.|GLB only|
+
 1.  On your PC, open the [!include[pn-import-tool](../includes/pn-import-tool.md)].
 
 2.  Select **Models** \> **This PC**, and then select **Add models**.
