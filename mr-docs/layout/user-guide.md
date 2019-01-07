@@ -184,7 +184,7 @@ Specific instructions for each option are provided below.
    
    3. Once you've moved the slider to the desired level, select **Optimize**.
          
-   4. Repeat steps i, ii, and iii until you're satisfied with the results.
+   4. Repeat steps a, b, and c until you're satisfied with the results.
    
       > [!NOTE]
       > The re-optimization option is available for 24 hours after the first optimization done using the cloud service.
