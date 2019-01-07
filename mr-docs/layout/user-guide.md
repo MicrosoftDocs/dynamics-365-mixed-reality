@@ -191,7 +191,7 @@ Specific instructions for each option are provided below.
 
 If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
 	
-To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the device as described below](###copy-models-to-a-HoloLens-device). 
+To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the HoloLens device](#copy-models-to-a-HoloLens-device). 
 
 ### Convert without optimizing
 
