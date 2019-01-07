@@ -227,8 +227,8 @@ To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], youâ€
 
 5. Select **Convert using this PC**. 
 
-   ???SCREEN SHOT OF CONVERT USING PC GOES HERE???
-   
+   > ![Convert with PC option](media/convert-with-PC.PNG "Convert with PC option")
+      
    > [!NOTE] 
    > The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see **File types and guidelines** below.  
    
@@ -254,12 +254,12 @@ You can provide feedback on the quality of prepared 3D models and get assistance
 1. Select the **Models** or **All** tab, and then select the model you want to provide feedback on.
 2. At the bottom of the **Properties** tab, under **How does the model look?**, select **Looks good** or **Looks broken** to record your feedback.
 
+> ![Provide feedback](media/feedback.PNG "Provide feedback")
+
 > [!NOTE]
 > You can't update feedback after you submit it. 
 	
-  ???Screen shot goes here???
-  
-If you're not satisfied with the quality of the imported model, at your option, you can submit the model to Microsoft for manual optimization. To submit a model for manual optimization: 
+If you rate the quality at 3 or below (out of 5), you'll be prompted to optionally submit the model to Microsoft for manual optimization. To submit a model for manual optimization: 
 
 1. Review the terms and conditions, and then if you consent, select the check box.
 2. Select **Next**.
@@ -275,11 +275,11 @@ To download a model after manual optimization:
 
 2. Right-click the model that was submitted for manual processing. 
 
-   ???SCREEN SHOT GOES HERE???
+   > ![Select model](media/select-model.PNG "Select model")
    
 3. Select **Download from Microsoft**.
 
-   ???SCREEN SHOT GOES HERE???
+   > ![Download model](media/download-model.PNG "Download model")
    
    The manually optimized model will replace the previous model in the Import Tool.
 
