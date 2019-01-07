@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: mapau
-ms.date: 12/20/2018
+ms.date: 1/07/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist FAQ
@@ -38,15 +38,14 @@ To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll n
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643). 
 
--   A work or school account with an [Office 365
-    Business](https://products.office.com/business/office) Premium or Essentials
-    subscription.
-
 -   A contact using the latest version of [Microsoft
     Teams](https://products.office.com/microsoft-teams/group-chat-software) on a
     PC running Windows 10 to make a video call. Microsoft [!include[pn-teams](../includes/pn-teams.md)] is [available as
     a free download](https://teams.microsoft.com/downloads).
 
+**Do I need a subscription to Microsoft Teams or Office 365?**
+
+As of January 7, 2019, a Teams subscription is included in the Remote Assist subscription for individuals using a Remote Assist license on HoloLens. A Microsoft Teams license is also required for individuals (experts) who communicate with a Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads) for these users. 
 
 **How often is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] updated?**
 

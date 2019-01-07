@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Dynamics 365 Remote Assist User Guide
 ms.author: mapau
-ms.date: 11/14/2018
+ms.date: 01/07/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User Guide
@@ -23,15 +23,11 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 
 ## What you’ll need
 
--   A subscription to [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. If you’re the admin for your organization,
-    [learn how to try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md).
+
+-   A subscription to Remote Assist. Microsoft Teams is included in the Remote Assist subscription for individuals using a Remote Assist license on HoloLens. A Microsoft Teams license is also required for individuals (experts) who communicate with a Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads) for these users. If you’re the admin for your organization, [learn how to try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
 
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643).
-
--   A work or school account with an [Office 365
-    Business](https://products.office.com/en-us/business/office) Premium or
-    Essentials subscription.
 
 -   A contact using the latest version of [Microsoft
     Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) on

@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Set up and use Microsoft Teams with Remote Assist to collaborate on a call
 ms.author: mapau
-ms.date: 12/11/2018
+ms.date: 01/07/2019
 ms.service: crm-online
 ms.topic: article
 title: Set up and use Microsoft Teams with Remote Assist
@@ -26,23 +26,19 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 
 ## What you’ll need
 
-The [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user (first-line worker) needs:
 
--   [A subscription to Remote Assist.](../licensing/buy-and-deploy.md)
+The Remote Assist user (first-line worker) on HoloLens needs:
+
+-   [A subscription to Remote Assist.](../licensing/buy-and-deploy.md) The Remote Assist subscription includes a subscription to Microsoft Teams.
 
 -   A [!include[pn-hololens](../includes/pn-hololens.md)] running the [Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643) (or later).
 
 -   An [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] account.
 
--   A work or school account with an [Office 365](https://products.office.com/business/office) Premium or Essentials
-    subscription.
-
 The expert needs:
 
--   A PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 with the latest version of [Microsoft Teams.](https://products.office.com/microsoft-teams/group-chat-software)
-
-    [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] is available [as a free download](https://teams.microsoft.com/downloads).
+-   A PC running Windows 10 with the latest version of [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software). The expert uses Teams to communicate with the Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads).
 
 -   A free [!include[cc-microsoft](../includes/cc-microsoft.md)] account. The expert might already have a [!include[cc-microsoft](../includes/cc-microsoft.md)] account
     if they signed up for the [!include[cc-microsoft](../includes/cc-microsoft.md)] App Store, Skype, Xbox, Hotmail, or
