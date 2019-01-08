@@ -102,7 +102,7 @@ To pin your video feed:
 
 ### Record a call
 
-You can record and save a call to a file for viewing later. The easiest way to do this is to use the Game Bar built into all Windows 10 PCs.
+You can record and save a call to a file for viewing later. The easiest way to do this is to use the Game bar built into all Windows 10 PCs.
 
 To record a call:
 
@@ -120,7 +120,7 @@ To record a call:
    
 4. To stop recording, select the **Stop Recording** button.
 
-   The video of the recording will eppear in your Videos/Captures folder.
+   The video of the recording will appear in your Videos/Captures folder.
    
 [Learn more about the Game Bar](https://support.xbox.com/en-US/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
 
