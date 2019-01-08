@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Dynamics 365 Remote Assist User Guide
 ms.author: mapau
-ms.date: 01/07/2019
+ms.date: 01/08/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User Guide
@@ -22,7 +22,6 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 [Watch how-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485) about [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 ## What you’ll need
-
 
 -   A subscription to Remote Assist. Microsoft Teams is included in the Remote Assist subscription for individuals using a Remote Assist license on HoloLens. A Microsoft Teams license is also required for individuals (experts) who communicate with a Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads) for these users. If you’re the admin for your organization, [learn how to try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
 
@@ -100,6 +99,30 @@ You can pin your video feed in your space, or you can have it follow you around.
 To pin your video feed:
 
 -   Gaze to position the window, and then select **Pin** ![Pin](media/d213f48b98dc5b8e41318aaa3782c395.png "Pin") (or say “Pin”). To have it follow you again, select **Unpin** ![Unpin](media/1f4f3c48b466bfaa7a222cd4f1158c9c.png "Unpin") (or say “Unpin”).
+
+### Record a call
+
+You can record and save a call to a file for viewing later. The easiest way to do this is to use the Game bar built into all Windows 10 PCs.
+
+To record a call:
+
+1. On a Windows 10 desktop PC, join a call using Microsoft Teams.
+
+2. Press **Windows + G** to open the Game bar.
+
+   ![Game bar)](media/game-bar.png "Game bar")
+
+3. Select the **Start Recording** button (or press **Windows logo key + Alt + R**).
+
+   A small recording menu will appear that shows that the recording is in progress.
+   
+   ![Recording)](media/recording.PNG "Recording")
+   
+4. To stop recording, select the **Stop Recording** button.
+
+   The video of the recording will appear in your Videos/Captures folder.
+   
+[Learn more about the Game Bar.](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10)
 
 ### Text chat
 
