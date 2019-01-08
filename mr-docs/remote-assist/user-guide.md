@@ -101,6 +101,28 @@ To pin your video feed:
 
 -   Gaze to position the window, and then select **Pin** ![Pin](media/d213f48b98dc5b8e41318aaa3782c395.png "Pin") (or say “Pin”). To have it follow you again, select **Unpin** ![Unpin](media/1f4f3c48b466bfaa7a222cd4f1158c9c.png "Unpin") (or say “Unpin”).
 
+### Record a call
+
+You can record and save a call to a file for viewing later. The easiest way to do this is to use the Game Bar built into all Windows 10 PCs.
+
+To record a call:
+
+1. On a Windows 10 desktop PC, join a call using Microsoft Teams.
+
+2. Press Windows + G to open the Game Bar.
+
+   ![Game Bar)](media/game-bar.png "Game bar")
+
+3. Select **Start Recording** (or press Windows+Alt+R).
+
+   A small recording menu will appear that shows that recording is in progress.
+   
+4. To stop recording, select the Stop Recording button.
+
+   The video of the recordgin will eppear in your Videos/Captures folder.
+   
+[Learn more about the Game Bar](https://support.xbox.com/en-US/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
+
 ### Text chat
 
 You can text chat with the other user on the call. The chat window displays just
