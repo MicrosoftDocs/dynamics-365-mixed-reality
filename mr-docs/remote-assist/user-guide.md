@@ -23,7 +23,6 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 
 ## What you’ll need
 
-
 -   A subscription to Remote Assist. Microsoft Teams is included in the Remote Assist subscription for individuals using a Remote Assist license on HoloLens. A Microsoft Teams license is also required for individuals (experts) who communicate with a Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads) for these users. If you’re the admin for your organization, [learn how to try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
 
 -   A [HoloLens running the Windows 10 April 2018
@@ -109,17 +108,19 @@ To record a call:
 
 1. On a Windows 10 desktop PC, join a call using Microsoft Teams.
 
-2. Press Windows + G to open the Game Bar.
+2. Press Windows + G to open the Game bar.
 
-   ![Game Bar)](media/game-bar.png "Game bar")
+   ![Game bar)](media/game-bar.png "Game bar")
 
-3. Select **Start Recording** (or press Windows+Alt+R).
+3. Select the **Start Recording** button (or press Windows + Alt + R).
 
-   A small recording menu will appear that shows that recording is in progress.
+   A small recording menu will appear that shows that the recording is in progress.
    
-4. To stop recording, select the Stop Recording button.
+   ![Recording)](media/recording.png "Recording")
+   
+4. To stop recording, select the **Stop Recording** button.
 
-   The video of the recordgin will eppear in your Videos/Captures folder.
+   The video of the recording will eppear in your Videos/Captures folder.
    
 [Learn more about the Game Bar](https://support.xbox.com/en-US/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
 
