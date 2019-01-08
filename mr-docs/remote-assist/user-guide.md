@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Dynamics 365 Remote Assist User Guide
 ms.author: mapau
-ms.date: 01/07/2019
+ms.date: 01/08/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User Guide
@@ -116,7 +116,7 @@ To record a call:
 
    A small recording menu will appear that shows that the recording is in progress.
    
-   ![Recording)](media/recording.png "Recording")
+   ![Recording)](media/recording.PNG "Recording")
    
 4. To stop recording, select the **Stop Recording** button.
 
