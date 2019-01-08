@@ -108,11 +108,11 @@ To record a call:
 
 1. On a Windows 10 desktop PC, join a call using Microsoft Teams.
 
-2. Press **Windows+G** to open the Game bar.
+2. Press **Windows + G** to open the Game bar.
 
    ![Game bar)](media/game-bar.png "Game bar")
 
-3. Select the **Start Recording** button (or press **Windows+Alt+R**).
+3. Select the **Start Recording** button (or press **Windows logo key + Alt + R**).
 
    A small recording menu will appear that shows that the recording is in progress.
    
