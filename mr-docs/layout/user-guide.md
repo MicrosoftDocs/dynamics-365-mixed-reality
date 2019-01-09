@@ -228,8 +228,8 @@ To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], youâ€
 
    ![Convert with PC option](media/convert-with-PC.PNG "Convert with PC option")
       
-   ! [NOTE] 
-   The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see [File types and guidelines](#file-types-and-guidelines) below.  
+   > [!NOTE] 
+   > The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see [File types and guidelines](#file-types-and-guidelines) below.  
    
 6. Select **Optimize** to start the optimization process. The optimization process might take a while, depending on how many models you're importing.
 
@@ -255,8 +255,8 @@ You can provide feedback on the quality of prepared 3D models and get assistance
 
    ![Provide feedback](media/feedback.PNG "Provide feedback")
 
-   ![NOTE]
-   You can't update feedback after you submit it. 
+   > [!NOTE]
+   > You can't update feedback after you submit it. 
 	
 If you rate the quality at 3 or below (out of 5), you'll be prompted to optionally submit the model to Microsoft for manual optimization. To submit a model for manual optimization: 
 
