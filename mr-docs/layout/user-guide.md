@@ -146,9 +146,9 @@ The Import Tool provides three options for preparing your 3D models. Use the fol
 
 |**Option**|**Description**|**Supported file formats**|
 |--------|-------------------------------------------------------------------------|----------------------------|
-|Optimize using the Microsoft Cloud Service|This is the simplest way to optimize your 3D models. The Microsoft Cloud Service automatically transcodes and simplifies the models you select. You can specify the type of device (HoloLens or Windows Mixed Reality headset) to optimize for, and also the number of models per scene. If you're not happy with the initial results after optimizing, you can use a sliding scale to re-optimize the model, focusing on performance or quality.|FBX, OBJ, SKP, JT, STP, STEP, GLTF, GLB|
-|Convert without optimizing|Use this option if you've already optimized a model using an external tool and want to retain the model properties when you convert it for use on HoloLens or Mixed Reality headsets.|GLB only|
-|Convert using your PC|Use this option if you want to have more control over the optimization process with no limits on the number of polygons or meshes.|GLB only|
+|Optimize using the Microsoft Cloud Service|This is the simplest way to optimize your 3D models. The Microsoft Cloud Service automatically transcodes and simplifies the models you select. You can specify the type of device (HoloLens or Windows Mixed Reality headset) to optimize for, and also the number of models that you intend to view simultaneously. If you're not happy with the initial results after optimizing, you can use a sliding scale to re-optimize the model, focusing on performance or quality.|FBX, OBJ, SKP, JT, STP, STEP, GLTF, GLB|
+|Convert without optimizing|Use this option if you've already optimized a model using an external tool and want to retain the model properties when you convert it for use on HoloLens or Mixed Reality headsets. The Microsoft Cloud Service automatically transcodes the models you select without doing any optimization.|FBX, OBJ, SKP, JT, STP, STEP, GLTF, GLB|
+|Convert using your PC|Use this option if you want to bring in self-authored assets without any optimization.|GLB only|
 
 Specific instructions for each option are provided below.
 
@@ -172,7 +172,7 @@ Specific instructions for each option are provided below.
 
       > ![Optimization settings](media/optimization-settings.PNG "Optimization settings") 
 
-7. Select **Optimize all models** to start the optimization process. This process might take a while, depending on how many models you're importing.
+7. Select **Optimize** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
 8. When the optimization process is complete, open each model to view the results. If you aren't happy with the results of any model, do the following:
 
@@ -208,7 +208,7 @@ To use your modelsÂ on [!include[pn-hololens](../includes/pn-hololens.md)], youâ
 
    > ![Convert without optimizing option](media/convert-without-optimizing.PNG "Convert without optimizing option") 
 
-6. Select **Optimize all models** to start the optimization process. This process might take a while, depending on how many models you're importing.
+6. Select **Optimize** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
 If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
 	
@@ -232,7 +232,7 @@ To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], youâ€
    > [!NOTE] 
    > The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see [File types and guidelines](#file-types-and-guidelines) below.  
    
-6. Select **Optimize all models** to start the optimization process. The optimization process might take a while, depending on how many models you're importing.
+6. Select **Optimize** to start the optimization process. The optimization process might take a while, depending on how many models you're importing.
 
 If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
 	
@@ -267,17 +267,13 @@ If you rate the quality at 3 or below (out of 5), you'll be prompted to optional
 4. Select **Next** to upload the file to Microsoft safely and securely.
    You'll receive an acknowledgement confirming receipt of the model (and will also receive an email confirmation). 
 
-Microsoft will update you on the progress of the manual optimization through email and will let you know when the model is ready to use.
+Microsoft will update you on the progress of the manual optimization through email and will let you know when the model is ready to download.
 
-To download a model after manual optimization: 
+To download a model after manual optimization when ready: 
 
 1. Open the Import Tool.
 
-2. Right-click the model that was submitted for manual processing. 
-
-   > ![Select model](media/select-model.PNG "Select model")
-   
-3. Select **Download from Microsoft**.
+2. Right-click the model that was submitted for manual processing, and then select **Download from Microsoft**. 
 
    > ![Download model](media/download-model.PNG "Download model")
    
