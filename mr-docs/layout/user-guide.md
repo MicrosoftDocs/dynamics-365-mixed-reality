@@ -165,12 +165,12 @@ Specific instructions for each option are provided below.
 
 5. Select **Optimize using the Microsoft Cloud Service.**
 
-   > [!div class="mx-imgBorder"]
-   > ![Microsoft Cloud Service option](media/cloud-service-option.PNG "Microsoft Cloud Service Option") 
+   [!div class="mx-imgBorder"]
+   ![Microsoft Cloud Service option](media/cloud-service-option.PNG "Microsoft Cloud Service Option") 
 
 6. Under **Optimization settings**, choose the type of device you're optimizing for (HoloLens or Mixed Reality headsets) and the number of models that you'll use in a single scene. These settings will apply to all models you selected in step 3.
 
-      > ![Optimization settings](media/optimization-settings.PNG "Optimization settings") 
+   ![Optimization settings](media/optimization-settings.PNG "Optimization settings") 
 
 7. Select **Optimize** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
@@ -180,7 +180,7 @@ Specific instructions for each option are provided below.
    
    2. Under **Optimize this model again** in the center of the screen, pull the slider to the left to optimize for performance or to the right to optimize for quality. Optimizing for performance will result in a model that performs better on HoloLens or Mixed Reality headsets, but may compromise on visual quality. Optimizing for quality will result in a model that has better visual quality but may adversely affect device performance, resulting in user discomfort.
    
-      > ![Re-optimization slider](media/reoptimize-slider.PNG "Re-optimization slider") 
+      ![Re-optimization slider](media/reoptimize-slider.PNG "Re-optimization slider") 
    
    3. Once you've moved the slider to the desired level, select **Optimize**.
          
@@ -206,7 +206,7 @@ To use your modelsÂ on [!include[pn-hololens](../includes/pn-hololens.md)], youâ
 
 5. Select **Convert without optimizing**.
 
-   > ![Convert without optimizing option](media/convert-without-optimizing.PNG "Convert without optimizing option") 
+   ![Convert without optimizing option](media/convert-without-optimizing.PNG "Convert without optimizing option") 
 
 6. Select **Optimize** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
@@ -227,10 +227,10 @@ To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], youâ€
 
 5. Select **Convert using this PC**. 
 
-   > ![Convert with PC option](media/convert-with-PC.PNG "Convert with PC option")
+   ![Convert with PC option](media/convert-with-PC.PNG "Convert with PC option")
       
-   > [!NOTE] 
-   > The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see [File types and guidelines](#file-types-and-guidelines) below.  
+   [!NOTE] 
+   The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see [File types and guidelines](#file-types-and-guidelines) below.  
    
 6. Select **Optimize** to start the optimization process. The optimization process might take a while, depending on how many models you're importing.
 
@@ -254,10 +254,10 @@ You can provide feedback on the quality of prepared 3D models and get assistance
 1. Select the **Models** or **All** tab, and then select the model you want to provide feedback on.
 2. At the bottom of the **Properties** tab, under **How does the model look?**, select **Looks good** or **Looks broken** to record your feedback.
 
-> ![Provide feedback](media/feedback.PNG "Provide feedback")
+   ![Provide feedback](media/feedback.PNG "Provide feedback")
 
-> [!NOTE]
-> You can't update feedback after you submit it. 
+   [!NOTE]
+   You can't update feedback after you submit it. 
 	
 If you rate the quality at 3 or below (out of 5), you'll be prompted to optionally submit the model to Microsoft for manual optimization. To submit a model for manual optimization: 
 
@@ -275,7 +275,7 @@ To download a model after manual optimization when ready:
 
 2. Right-click the model that was submitted for manual processing, and then select **Download from Microsoft**. 
 
-   > ![Download model](media/download-model.PNG "Download model")
+   ![Download model](media/download-model.PNG "Download model")
    
    The manually optimized model will replace the previous model in the Import Tool.
 
