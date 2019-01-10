@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Overview of Dynamics 365 Guides
 
+![ATV graphic](media/overview.PNG "ATV graphic") 
+
 Microsoft Dynamics 365 Guides is a mixed reality application for HoloLens that enables employees to learn in the flow 
 of work by providing holographic instructions when and where they need them. A series of step-by-step instruction cards 
 with image and video support are visually tethered to the place where the work needs to be done. Additional guidance 
