@@ -24,8 +24,7 @@ Need more help? [Check out the Layout FAQ](faq.md) for answers to common questio
 -   [A subscription to Layout.](../licensing/buy-and-deploy.md) The [!include[pn-layout](../includes/pn-layout.md)] subscription also includes the
     [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC.
 
--   A [HoloLens](https://www.microsoft.com/hololens) running the [Windows 10
-</ul>    April 2018 Update](https://support.microsoft.com/en-us/help/12643) and/or
+-   A [HoloLens](https://www.microsoft.com/hololens) running the [Windows 10 April 2018 Update](https://support.microsoft.com/en-us/help/12643) and/or
     a [Windows Mixed Reality immersive
     headset](https://www.microsoft.com/en-us/windows/windows-mixed-reality). 
 
@@ -243,7 +242,7 @@ To use optimized/converted models on a [!include[pn-hololens](../includes/pn-hol
 
 1. On your PC, open the Import Tool.
 2. Connect your [!include[pn-hololens](../includes/pn-hololens.md)] to the PC, and then sign in to the [!include[pn-hololens](../includes/pn-hololens.md)].
-3. In the Import Tool, select **This PC > Models**, and then select the check boxes for the models you want to send to [!include[pn-hololens](../includes/pn-hololens.md)].
+3. In the Import Tool, select **This PC** > **Models**, and then select the check boxes for the models you want to send to [!include[pn-hololens](../includes/pn-hololens.md)].
 4. Select **Send**.
 
 ### Provide feedback and submit assets for manual processing if the quality is unsatisfactory
@@ -384,7 +383,7 @@ rotate 3D models.
 | Rotate       | Point and pull the trigger to select the model. Then point at one of the rotation arrows and pull the trigger to rotate the model 90 degrees. For more precise rotation, use the round rotation control: point, pull, and hold the trigger, and then move your controller to rotate. |
 | Multi-select | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them. |
 
-## Improve perfomance when your assets don't require texture or multiple colors
+## Improve performance when your assets don't require texture or multiple colors
 
 In certain scenarios, textures or multiple colors might not be important for visualizing 3D assets. In these cases, to improve 
 performance, you might want to turn off textures and use a single color. You can do this by using the Performance setting. 
