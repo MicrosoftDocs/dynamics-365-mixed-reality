@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Dynamics 365 Layout User Guide
 ms.author: ornella
-ms.date: 12/06/2018
+ms.date: 01/16/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout User Guide
