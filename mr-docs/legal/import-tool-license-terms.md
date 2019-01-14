@@ -22,53 +22,53 @@ TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
 **2. INSTALLATION AND USE RIGHTS**.
 
->   a. **General**. You may install and use one copy of the software on Windows
->   devices you own or control in order to access and interact with the
->   Microsoft Dynamics 365 Import Tool (Preview) (“Dynamics 365 Import Tool
->   (Preview)”) and the Microsoft Dynamics 365 Layout (“Dynamics 365 Layout”)
->   application to which you have access rights via your company’s Dynamics 365
->   Layout subscription. Your access to Dynamics 365 Layout through the use of
->   this software must comply with the existing license terms for Dynamics 365
->   Layout that apply to you through your company’s subscription, including the Microsoft Online Services Terms 
->   (see http://microsoftvolumelicensing.com/) and your Microsoft volume licensing agreement, or any other applicable agreement (collectively, the “Microsoft Licensing Agreement” or “MLA”). You may use
->   and install copies of the software on Windows devices you own or control
->   only if you have a valid subscription license to Dynamics 365 Layout. The
->   Dynamics 365 Import Tool (Preview)is currently provided without additional
->   fees. Microsoft may, in its sole discretion, charge fees for use of the
->   Dynamics 365 Import Tool (Preview). You acknowledge that (i) the Dynamics
->   365 Import Tool (Preview) may not work correctly or in the manner that a
->   commercial service may function; Microsoft may change it for the final,
->   commercial version or choose not to release a commercial version; (ii)
->   unless otherwise expressly stated in these license terms, the MLA and any references or statements made in the Trust Center do not apply to the Dynamics 365 Import Tool (Preview), including, but not limited to, data security, GDPR, and professional services related terms; (iii) Microsoft may not provide support for the Dynamics 365 Import Tool
->   (Preview); and (iv) you may lose access to the Dynamics 365 Import Tool
->   (Preview) and related data after the Term. Microsoft also may, in its sole
->   discretion, limit the: (a) rate at which the Dynamics 365 Import Tool
->   (Preview) may be called or made available; and (b) the amount of data that
->   may be uploaded to, or served from, the Dynamics 365 Import Tool (Preview)
->   (all of the foregoing being forms of "Throttling"). Microsoft may perform
->   this Throttling globally across the Dynamics 365 Import Tool (Preview). You
->   will not take steps to circumvent or disable any technical measures
->   Microsoft may put in place to enforce Throttling. The Dynamics 365 Import Tool (Preview) is subject to reduced or different security, compliance and privacy commitments.  Any data provided to Microsoft through your use of the Dynamics 365 Import Tool (Preview) may be transferred, stored, and processed in the United States, or in any other country where Microsoft of its subcontractors operate.
+a. **General**. You may install and use one copy of the software on Windows
+devices you own or control in order to access and interact with the
+Microsoft Dynamics 365 Import Tool (Preview) (“Dynamics 365 Import Tool
+(Preview)”) and the Microsoft Dynamics 365 Layout (“Dynamics 365 Layout”)
+application to which you have access rights via your company’s Dynamics 365
+Layout subscription. Your access to Dynamics 365 Layout through the use of
+this software must comply with the existing license terms for Dynamics 365
+Layout that apply to you through your company’s subscription, including the Microsoft Online Services Terms 
+(see http://microsoftvolumelicensing.com/) and your Microsoft volume licensing agreement, or any other applicable agreement (collectively, the “Microsoft Licensing Agreement” or “MLA”). You may use
+and install copies of the software on Windows devices you own or control
+only if you have a valid subscription license to Dynamics 365 Layout. The
+Dynamics 365 Import Tool (Preview)is currently provided without additional
+fees. Microsoft may, in its sole discretion, charge fees for use of the
+Dynamics 365 Import Tool (Preview). You acknowledge that (i) the Dynamics
+365 Import Tool (Preview) may not work correctly or in the manner that a
+commercial service may function; Microsoft may change it for the final,
+commercial version or choose not to release a commercial version; (ii)
+unless otherwise expressly stated in these license terms, the MLA and any references or statements made in the Trust Center do not apply to the Dynamics 365 Import Tool (Preview), including, but not limited to, data security, GDPR, and professional services related terms; (iii) Microsoft may not provide support for the Dynamics 365 Import Tool
+(Preview); and (iv) you may lose access to the Dynamics 365 Import Tool
+(Preview) and related data after the Term. Microsoft also may, in its sole
+discretion, limit the: (a) rate at which the Dynamics 365 Import Tool
+(Preview) may be called or made available; and (b) the amount of data that
+may be uploaded to, or served from, the Dynamics 365 Import Tool (Preview)
+(all of the foregoing being forms of "Throttling"). Microsoft may perform
+this Throttling globally across the Dynamics 365 Import Tool (Preview). You
+will not take steps to circumvent or disable any technical measures
+Microsoft may put in place to enforce Throttling. The Dynamics 365 Import Tool (Preview) is subject to reduced or different security, compliance and privacy commitments.  Any data provided to Microsoft through your use of the Dynamics 365 Import Tool (Preview) may be transferred, stored, and processed in the United States, or in any other country where Microsoft of its subcontractors operate.
 
 >   [!IMPORTANT]
 >   If you are the administrator for the organization and have authority to act on behalf of and to bind the organization, then by installing or using the Dynamics 365 Import Tool (Preview), you consent to allow authorized users of Microsoft Dynamics 365 online services to activate, configure and enable certain functionality which transmits Customer Data (as defined in the MLA) to external systems. Please consult the feature technical documentation available at: https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/.
->
->   b. **Included Microsoft Applications**. The software may include other
->   Microsoft applications. These license terms apply to those included
->   applications, if any, unless other license terms are provided with the other
->   Microsoft applications. Some functionality may require additional licenses
->   for other Microsoft software or applications. You will not be able to use
->   this functionality unless you have a separate license for such Microsoft
->   software or application.
->
->   c. **Third Party Software**. The software may include third party
->   applications that are licensed to you under this agreement or under their
->   own terms. License terms, notices, and acknowledgements, if any, for the
->   third party applications may be accessible online at
->   <https://aka.ms/thirdpartynotices> or in an accompanying notices file. Even
->   if such applications are governed by other agreements, the disclaimer,
->   limitations on, and exclusions of damages below also apply to the extent
->   allowed by applicable law.
+
+b. **Included Microsoft Applications**. The software may include other
+Microsoft applications. These license terms apply to those included
+applications, if any, unless other license terms are provided with the other
+Microsoft applications. Some functionality may require additional licenses
+for other Microsoft software or applications. You will not be able to use
+this functionality unless you have a separate license for such Microsoft
+software or application.
+
+c. **Third Party Software**. The software may include third party
+applications that are licensed to you under this agreement or under their
+own terms. License terms, notices, and acknowledgements, if any, for the
+third party applications may be accessible online at
+<https://aka.ms/thirdpartynotices> or in an accompanying notices file. Even
+if such applications are governed by other agreements, the disclaimer,
+limitations on, and exclusions of damages below also apply to the extent
+allowed by applicable law.
 
 **3. DATA COLLECTION**. The software may collect information about you and your
 use of the software and send that to Microsoft. Microsoft may use this
@@ -104,20 +104,20 @@ protection as is required by the Privacy Shield principles.
 all other rights. Unless applicable law gives you more rights despite this
 limitation, you will not (and have no right to):
 
->   a. work around any technical limitations in the software that only allow you
->   to use it in certain ways;
->
->   b. reverse engineer, decompile or disassemble the software;
->
->   c. remove, minimize, block, or modify any notices of Microsoft or its
->   suppliers in the software;
->
->   d. use the software in any way that is against the law or to create or
->   propagate malware; or
->
->   e. share, publish, distribute, or lend the software, provide the software as
->   a stand-alone hosted solution for others to use, or transfer the software or
->   this agreement to any third party.
+a. work around any technical limitations in the software that only allow you
+to use it in certain ways;
+
+b. reverse engineer, decompile or disassemble the software;
+
+c. remove, minimize, block, or modify any notices of Microsoft or its
+suppliers in the software;
+
+d. use the software in any way that is against the law or to create or
+propagate malware; or
+
+e. share, publish, distribute, or lend the software, provide the software as
+a stand-alone hosted solution for others to use, or transfer the software or
+this agreement to any third party.
 
 **6. EXPORT RESTRICTIONS**. You must comply with all domestic and international
 export laws and regulations that apply to the software, which include
@@ -178,28 +178,28 @@ rights if the laws of your state, province, or country do not permit it to do
 so. For example, if you acquired the software in one of the below regions, or
 mandatory country law applies, then the following provisions apply to you:
 
->   a. **Australia**. You have statutory guarantees under the Australian
->   Consumer Law and nothing in this agreement is intended to affect those
->   rights.
->
->   b. **Canada**. If you acquired this software in Canada, you may stop
->   receiving updates by turning off the automatic update feature, disconnecting
->   your device from the Internet (if and when you re-connect to the Internet,
->   however, the software will resume checking for and installing updates), or
->   uninstalling the software. The product documentation, if any, may also
->   specify how to turn off updates for your specific device or software.
->
->   c. **Germany and Austria**.
->
-> >   i. **Warranty**. The properly licensed software will perform substantially
-> >   as described in any Microsoft materials that accompany the software.
-> >   However, Microsoft gives no contractual guarantee in relation to the
-> >   licensed software.
-> >
-> >   ii. **Limitation of Liability**. In case of intentional conduct, gross
-> >   negligence, claims based on the Product Liability Act, as well as, in case
-> >   of death or personal or physical injury, Microsoft is liable according to
-> >   the statutory law.
+a. **Australia**. You have statutory guarantees under the Australian
+Consumer Law and nothing in this agreement is intended to affect those
+rights.
+
+b. **Canada**. If you acquired this software in Canada, you may stop
+receiving updates by turning off the automatic update feature, disconnecting
+your device from the Internet (if and when you re-connect to the Internet,
+however, the software will resume checking for and installing updates), or
+uninstalling the software. The product documentation, if any, may also
+specify how to turn off updates for your specific device or software.
+
+c. **Germany and Austria**.
+
+   i. **Warranty**. The properly licensed software will perform substantially
+as described in any Microsoft materials that accompany the software.
+However, Microsoft gives no contractual guarantee in relation to the
+licensed software.
+
+    ii. **Limitation of Liability**. In case of intentional conduct, gross
+negligence, claims based on the Product Liability Act, as well as, in case
+of death or personal or physical injury, Microsoft is liable according to
+the statutory law.
 
 Subject to the foregoing clause (ii), Microsoft will only be liable for slight
 negligence if Microsoft is in breach of such material contractual obligations,
