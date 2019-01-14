@@ -29,7 +29,8 @@ TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 >   application to which you have access rights via your company’s Dynamics 365
 >   Layout subscription. Your access to Dynamics 365 Layout through the use of
 >   this software must comply with the existing license terms for Dynamics 365
->   Layout that apply to you through your company’s subscription. You may use
+>   Layout that apply to you through your company’s subscription, including the Microsoft Online Services Terms 
+>   (see http://microsoftvolumelicensing.com/) and your Microsoft volume licensing agreement, or any other applicable agreement (collectively, the “Microsoft Licensing Agreement” or “MLA”). You may use
 >   and install copies of the software on Windows devices you own or control
 >   only if you have a valid subscription license to Dynamics 365 Layout. The
 >   Dynamics 365 Import Tool (Preview)is currently provided without additional
@@ -38,8 +39,8 @@ TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 >   365 Import Tool (Preview) may not work correctly or in the manner that a
 >   commercial service may function; Microsoft may change it for the final,
 >   commercial version or choose not to release a commercial version; (ii)
->   Microsoft may not provide support for the Dynamics 365 Import Tool
->   (Preview); and (iii) you may lose access to the Dynamics 365 Import Tool
+>   unless otherwise expressly stated in these license terms, the MLA and any references or statements made in the Trust Center do not apply to the Dynamics 365 Import Tool (Preview), including, but not limited to, data security, GDPR, and professional services related terms; (iii) Microsoft may not provide support for the Dynamics 365 Import Tool
+>   (Preview); and (iv) you may lose access to the Dynamics 365 Import Tool
 >   (Preview) and related data after the Term. Microsoft also may, in its sole
 >   discretion, limit the: (a) rate at which the Dynamics 365 Import Tool
 >   (Preview) may be called or made available; and (b) the amount of data that
@@ -47,7 +48,10 @@ TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 >   (all of the foregoing being forms of "Throttling"). Microsoft may perform
 >   this Throttling globally across the Dynamics 365 Import Tool (Preview). You
 >   will not take steps to circumvent or disable any technical measures
->   Microsoft may put in place to enforce Throttling.
+>   Microsoft may put in place to enforce Throttling. The Dynamics 365 Import Tool (Preview) is subject to reduced or different security, compliance and privacy commitments.  Any data provided to Microsoft through your use of the Dynamics 365 Import Tool (Preview) may be transferred, stored, and processed in the United States, or in any other country where Microsoft of its subcontractors operate.
+
+>   [!IMPORTANT]
+>   If you are the administrator for the organization and have authority to act on behalf of and to bind the organization, then by installing or using the Dynamics 365 Import Tool (Preview), you consent to allow authorized users of Microsoft Dynamics 365 online services to activate, configure and enable certain functionality which transmits Customer Data (as defined in the MLA) to external systems. Please consult the feature technical documentation available at: https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/.
 >
 >   b. **Included Microsoft Applications**. The software may include other
 >   Microsoft applications. These license terms apply to those included
@@ -80,16 +84,16 @@ in the product documentation and the Microsoft Privacy Statement at
 <https://go.microsoft.com/fwlink/?LinkId=521839>. You agree to comply with all
 applicable provisions of the Microsoft Privacy Statement.
 
-**4. DATA TRANSFERS**. Data that Microsoft processes on your behalf may be transferred to, 
+**4. DATA TRANSFERS**. Customer Data and Personal Data (as defined in the MLA) that Microsoft processes on your behalf may be transferred to, 
 and stored and processed in, the United States or any other country in which Microsoft or 
-its subprocessors operate. You appoint Microsoft to perform any such transfer of data to 
-any such country and to store and process data to provide the Dynamics 365 Import Tool (Preview). Microsoft will 
+its subprocessors operate. You appoint Microsoft to perform any such transfer of Customer Data and Personal Data to 
+any such country and to store and process Customer Data and Personal Data to provide the Dynamics 365 Import Tool (Preview). Microsoft will 
 abide by the requirements of European Economic Area and Swiss data protection law 
-regarding the collection, use, transfer, retention, and other processing of personal data from 
-the European Economic Area and Switzerland. All transfers of personal data to a third country or 
+regarding the collection, use, transfer, retention, and other processing of Personal Data from 
+the European Economic Area and Switzerland. All transfers of Personal Data to a third country or 
 an international organization will be subject to appropriate safeguards as described in Article 46 
 of the GDPR ((EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the 
-protection of natural persons with regard to the processing of personal data and on the free movement 
+protection of natural persons with regard to the processing of Personal Data and on the free movement 
 of such data, and repealing Directive 95/46/EC) and such transfers and safeguards will be documented 
 according to Article 30(2) of the GDPR. In addition, Microsoft is certified to the EU-U.S. and 
 Swiss-U.S. Privacy Shield Frameworks and the commitments they entail. Microsoft agrees to notify you 
@@ -122,7 +126,7 @@ export restrictions, visit <https://aka.ms/exporting>.
 
 **7. SUPPORT SERVICES**. Microsoft is not obligated under this agreement to
 provide any support services for the software. Any support provided is “as is”,
-“with all faults”, and without warranty of any kind.
+“with all faults”, and without warranty of any kind, and Microsoft may cease providing support (if any) at any time, without notice.  If Microsoft elects to provide support, Microsoft will solely own any enhancements or improvements to the Dynamics 365 Import Tool (Preview) arising from provision of such support services.
 
 **8. UPDATES**. The software may periodically check for updates, and download
 and install them for you. You may obtain updates only from Microsoft or
