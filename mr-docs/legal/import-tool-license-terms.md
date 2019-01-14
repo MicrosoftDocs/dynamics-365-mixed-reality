@@ -196,7 +196,7 @@ as described in any Microsoft materials that accompany the software.
 However, Microsoft gives no contractual guarantee in relation to the
 licensed software.
 
-    ii. **Limitation of Liability**. In case of intentional conduct, gross
+   ii. **Limitation of Liability**. In case of intentional conduct, gross
 negligence, claims based on the Product Liability Act, as well as, in case
 of death or personal or physical injury, Microsoft is liable according to
 the statutory law.
