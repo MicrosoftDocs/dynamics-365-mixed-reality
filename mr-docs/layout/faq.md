@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 12/20/2018
+ms.date: 01/16/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
@@ -97,9 +97,7 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 **How does the [!include[pn-import-tool](../includes/pn-import-tool.md)] process my 3D models?**
 
-By default, the [!include[pn-import-tool](../includes/pn-import-tool.md)] uses the [!include[cc-microsoft](../includes/cc-microsoft.md)] cloud service to process your
-models. If you don’t want your models processed in the cloud, you can use the PC
-option. [Learn more.](user-guide.md#file-types-and-guidelines)
+There are three options for preparing 3D models for HoloLens or Mixed Reality headsets. You can use the [!include[cc-microsoft](../includes/cc-microsoft.md)] Cloud Service, your PC, or you can convert your models without optimizing them. [Learn more.](user-guide.md#file-types-and-guidelines)
 
 **How do I import AutoCAD models?**
 
