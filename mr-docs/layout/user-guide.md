@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Dynamics 365 Layout User Guide
 ms.author: ornella
-ms.date: 12/06/2018
+ms.date: 01/16/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout User Guide
@@ -24,8 +24,7 @@ Need more help? [Check out the Layout FAQ](faq.md) for answers to common questio
 -   [A subscription to Layout.](../licensing/buy-and-deploy.md) The [!include[pn-layout](../includes/pn-layout.md)] subscription also includes the
     [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC.
 
--   A [HoloLens](https://www.microsoft.com/hololens) running the [Windows 10
-    April 2018 Update](https://support.microsoft.com/en-us/help/12643) and/or
+-   A [HoloLens](https://www.microsoft.com/hololens) running the [Windows 10 April 2018 Update](https://support.microsoft.com/en-us/help/12643) and/or
     a [Windows Mixed Reality immersive
     headset](https://www.microsoft.com/en-us/windows/windows-mixed-reality). 
 
@@ -49,7 +48,7 @@ public store.
 | **App**     | **Device**            | **Use to**                            | **To install from [!include[cc-microsoft](../includes/cc-microsoft.md)] store** |
 |-------------|-----------------------|---------------------------------------------|-------------------------------------|
 | [!include[pn-layout](../includes/pn-layout.md)]      | [!include[pn-hololens](../includes/pn-hololens.md)]              | <ul><li>Create layouts by scanning your surroundings </li><li>Place models in your layouts </li></ul>     | On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br>    |
-| [!include[pn-layout](../includes/pn-layout.md)]      | Mixed reality headset | Place models in layouts imported from [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)] | 1. On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br>   |
+| [!include[pn-layout](../includes/pn-layout.md)]      | Mixed reality headset |<ul><li>Place models in layouts imported from [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)] </ul>| 1. On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br>   |
 | [!include[pn-import-tool](../includes/pn-import-tool.md)] | PC                    | <ul><li>Transfer floorplans from [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)] to [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality</li><li>Transfer layouts between [!include[pn-hololens](../includes/pn-hololens.md)] and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality </li><li>Process 3D models for use on [!include[pn-hololens](../includes/pn-hololens.md)] </ul>| On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX). <br>    |
 
 ## Use Layout
@@ -142,44 +141,142 @@ To use 3D models on [!include[pn-hololens](../includes/pn-hololens.md)] or your 
 them to the correct file format using the [!include[pn-import-tool](../includes/pn-import-tool.md)], and then move them to the
 device you want to use them on.
 
+The Import Tool provides three options for preparing your 3D models. Use the following table to determine which option is best for your needs.
+
+|**Option**|**Description**|**Supported file formats**|
+|--------|-------------------------------------------------------------------------|----------------------------|
+|Optimize using the Microsoft Cloud Service|This is the simplest way to optimize your 3D models. The Microsoft Cloud Service automatically transcodes and simplifies the models you select. You can specify the type of device (HoloLens or Windows Mixed Reality headset) to optimize for, and also the number of models that you intend to view simultaneously. If you're not happy with the initial results after optimizing, you can use a sliding scale to re-optimize the model, focusing on performance or quality.|FBX, OBJ, SKP, JT, STP, STEP, GLTF, GLB|
+|Convert without optimizing|Use this option if you've already optimized a model using an external tool and want to retain the model properties when you convert it for use on HoloLens or Mixed Reality headsets. The Microsoft Cloud Service automatically transcodes the models you select without doing any optimization.|FBX, OBJ, SKP, JT, STP, STEP, GLTF, GLB|
+|Convert using your PC|Use this option if you want to bring in self-authored assets without any optimization.|GLB only|
+
+Specific instructions for each option are provided below.
+
+### Optimize using the Microsoft Cloud Service
+
 1.  On your PC, open the [!include[pn-import-tool](../includes/pn-import-tool.md)].
 
 2.  Select **Models** \> **This PC**, and then select **Add models**.
 
-3.  If this is the first time you’ve used the [!include[pn-import-tool](../includes/pn-import-tool.md)], choose how you want
-    to simplify your models (you can change this later in the app settings):
+3.  Go to the folder where your models are saved, and then select the
+    models you want to import (up to 25 at a time).
 
-    -   To use the [!include[cc-microsoft](../includes/cc-microsoft.md)] cloud service, select **Use the cloud**. (You'll
-        need an internet connection for this option.)
+4. Select **Open**.
 
-    -   To use your PC, select **Use my PC**. (With this option, there are
-        [limits on the file types](#file-types-and-guidelines) you can import.)
-        
-        > [!div class="mx-imgBorder"]
-        > ![Cloud or PC option](media/cloud-pc-option.PNG "Cloud or PC option")
+5. Select **Optimize using the Microsoft Cloud Service.**
+   
+   ![Microsoft Cloud Service option](media/cloud-service-option.PNG "Microsoft Cloud Service Option") 
 
-4.  Navigate to the folder where your models are saved, and then select the
-    models you want to add (up to 25 at a time).
+6. Under **Optimization settings**, choose the type of device you're optimizing for (HoloLens or Mixed Reality headsets) and the number of models that you'll use in a single scene. These settings will apply to all models you selected in step 3.
 
-5.  Select **Open** to start simplifying your models. This might take a while,
-    depending on how many you've selected.
+   ![Optimization settings](media/optimization-settings.PNG "Optimization settings") 
 
-If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models
-will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
+7. Select **Optimize** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
-To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to copy them to the device:
+8. When the optimization process is complete, open each model to view the results. If you aren't happy with the results of any model, do the following:
+
+   1. On the **Properties** tab for the model, select **Optimize again** in the lower right corner of the screen. 
+   
+   2. Under **Optimize this model again** in the center of the screen, pull the slider to the left to optimize for performance or to the right to optimize for quality. Optimizing for performance will result in a model that performs better on HoloLens or Mixed Reality headsets, but may compromise on visual quality. Optimizing for quality will result in a model that has better visual quality but may adversely affect device performance, resulting in user discomfort.
+   
+      ![Re-optimization slider](media/reoptimize-slider.PNG "Re-optimization slider") 
+   
+   3. Once you've moved the slider to the desired level, select **Optimize**.
+         
+   4. Repeat steps a, b, and c until you're satisfied with the results.
+   
+      > [!NOTE]
+      > The re-optimization option is available for 24 hours after the first optimization done using the cloud service.
+
+If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
+	
+To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the HoloLens device](#copy-models-to-a-HoloLens-device). 
+
+### Convert without optimizing
 
 1.  On your PC, open the [!include[pn-import-tool](../includes/pn-import-tool.md)].
 
-2.  Connect your [!include[pn-hololens](../includes/pn-hololens.md)] to the PC, and then sign in to the [!include[pn-hololens](../includes/pn-hololens.md)].
+2.  Select **Models** \> **This PC**, and then select **Add models**.
 
-3.  In the [!include[pn-import-tool](../includes/pn-import-tool.md)], select **This PC** \> **Models**, and then select the
-    check boxes on the models you want to send to [!include[pn-hololens](../includes/pn-hololens.md)].
-    
-    > [!div class="mx-imgBorder"]
-    > ![Copy models to HoloLens](media/5-copy-models-to-hololens.png "Copy models to HoloLens")
+3.  Go to the folder where your models are saved, and then select the
+    models you want to import (up to 25 at a time).
 
-4.  Select **Send**.
+4. Select **Open**.
+
+5. Select **Convert without optimizing**.
+
+   ![Convert without optimizing option](media/convert-without-optimizing.PNG "Convert without optimizing option") 
+
+6. Select **Optimize** to start the optimization process. This process might take a while, depending on how many models you're importing.
+
+If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
+	
+To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the HoloLens device](#copy-models-to-a-HoloLens-device).
+
+### Convert using your PC
+
+1.  On your PC, open the [!include[pn-import-tool](../includes/pn-import-tool.md)].
+
+2.  Select **Models** \> **This PC**, and then select **Add models**.
+
+3.  Go to the folder where your models are saved, and then select the
+    models you want to import (up to 25 at a time).
+
+4. Select **Open**.
+
+5. Select **Convert using this PC**. 
+
+   ![Convert with PC option](media/convert-with-PC.PNG "Convert with PC option")
+      
+   > [!NOTE] 
+   > The **Convert using this PC** option will not be available if any of your source models are not in GLB file format. For more information on file type limitations, see [File types and guidelines](#file-types-and-guidelines) below.  
+   
+6. Select **Optimize** to start the optimization process. The optimization process might take a while, depending on how many models you're importing.
+
+If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
+	
+To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the HoloLens device](#copy-models-to-a-HoloLens-device).
+
+### Copy models to a HoloLens device
+
+To use optimized/converted models on a [!include[pn-hololens](../includes/pn-hololens.md)], you need to copy them to the device first.
+
+1. On your PC, open the Import Tool.
+2. Connect your [!include[pn-hololens](../includes/pn-hololens.md)] to the PC, and then sign in to the [!include[pn-hololens](../includes/pn-hololens.md)].
+3. In the Import Tool, select **This PC** > **Models**, and then select the check boxes for the models you want to send to [!include[pn-hololens](../includes/pn-hololens.md)].
+4. Select **Send**.
+
+### Provide feedback and submit assets for manual processing if the quality is unsatisfactory
+
+You can provide feedback on the quality of prepared 3D models and get assistance from Microsoft if you're not satisfied with the quality.
+
+1. Select the **Models** or **All** tab, and then select the model you want to provide feedback on.
+2. At the bottom of the **Properties** tab, under **How does the model look?**, select **Looks good** or **Looks broken** to record your feedback.
+
+   ![Provide feedback](media/feedback.PNG "Provide feedback")
+
+   > [!NOTE]
+   > You can't update feedback after you submit it. 
+	
+If you rate the quality at 3 or below (out of 5), you'll be prompted to optionally submit the model to Microsoft for manual optimization. To submit a model for manual optimization: 
+
+1. Review the terms and conditions, and then if you consent, select the check box.
+2. Select **Next**.
+3. Enter the location of the source file, why you're dissatisfied with the results, and your email address.
+4. Select **Next** to upload the file to Microsoft safely and securely.
+   You'll receive an acknowledgement confirming receipt of the model (and will also receive an email confirmation). 
+
+Microsoft will update you on the progress of the manual optimization through email and will let you know when the model is ready to download.
+
+To download a model after manual optimization when ready: 
+
+1. Open the Import Tool.
+
+2. Right-click the model that was submitted for manual processing, and then select **Download from Microsoft**. 
+
+   ![Download model](media/download-model.PNG "Download model")
+   
+   The manually optimized model will replace the previous model in the Import Tool.
+
 
 ### File types and guidelines
 
@@ -286,7 +383,7 @@ rotate 3D models.
 | Rotate       | Point and pull the trigger to select the model. Then point at one of the rotation arrows and pull the trigger to rotate the model 90 degrees. For more precise rotation, use the round rotation control: point, pull, and hold the trigger, and then move your controller to rotate. |
 | Multi-select | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them. |
 
-## Improve perfomance when your assets don't require texture or multiple colors
+## Improve performance when your assets don't require texture or multiple colors
 
 In certain scenarios, textures or multiple colors might not be important for visualizing 3D assets. In these cases, to improve 
 performance, you might want to turn off textures and use a single color. You can do this by using the Performance setting. 
