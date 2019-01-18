@@ -33,11 +33,11 @@ Looking for more help? Check out our [User Guide](user-guide.md).
 
 ## Dynamics 365 Import Tool (Preview) for PC
 
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EZt4" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RWqyMw" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EWQO" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RWqjaR" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EK2v" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RWqDZa" frameborder="0" allowfullscreen=""></iframe></div>
 
 ### See also
 [Overview of Layout](index.md)<br/>
