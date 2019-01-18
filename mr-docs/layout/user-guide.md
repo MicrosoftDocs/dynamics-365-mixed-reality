@@ -77,7 +77,7 @@ There are two ways to create a layout:
     the one that matches your version of [!include[pn-visio](../includes/pn-visio.md)]).
     
     > [!div class="mx-imgBorder"]
-    > ![Download Visio add-in](media/1-visio-download-page.png "Download Visio add-in") 
+    > ![Download Visio add-in](media/visio-download.PNG "Download Visio add-in") 
 
 3.  Open [!include[pn-visio](../includes/pn-visio.md)], and then select **File** \> **Options** \> **Add-ins**.
 
@@ -110,7 +110,7 @@ To use the layout on [!include[pn-hololens](../includes/pn-hololens.md)], you’
     **Send**.
     
     > [!div class="mx-imgBorder"]
-    > ![Move layout to HoloLens](media/2-selected-layouts-send-to-hololens.png "Move layout to HoloLens")
+    > ![Move layout to HoloLens](media/selected-layouts-hololens.PNG "Move layout to HoloLens")
 
 4.  On [!include[pn-hololens](../includes/pn-hololens.md)], open the [!include[pn-layout](../includes/pn-layout.md)] app. You’ll find your layout on the **Layouts**
     tab.
@@ -133,7 +133,7 @@ headset: 
     select **Send**.
     
     > [!div class="mx-imgBorder"]
-    > ![Move layout from HoloLens](media/3-selected-layouts-send-to-pc.png "Move layout from HoloLens")
+    > ![Move layout from HoloLens](media/selected-layouts-pc.PNG "Move layout from HoloLens")
 
 ## Convert 3D models for use on HoloLens or Windows Mixed Reality headsets
 
