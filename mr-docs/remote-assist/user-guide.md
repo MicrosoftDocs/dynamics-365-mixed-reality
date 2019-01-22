@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Dynamics 365 Remote Assist User Guide
 ms.author: mapau
-ms.date: 01/08/2019
+ms.date: 01/22/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User Guide
@@ -318,13 +318,15 @@ button.
 | **Other**                    |                                                                                      |
 | Settings                     | Go to Settings page.                                                                 |
 
-## Use the Narrator to assist with visual impairment
+## Use the Narrator to announce incoming calls
 
-You can turn on the Narrator if you're visually impaired and want to take advantage of voice narration for incoming calls. when you turn on incoming call narration, in addition to displaying the incoming caller's name, the caller's name is announced. You can then say "video", "audio", or "ingore" to respond to the incoming call.
+You can turn on the Narrator if you want to take advantage of voice narration for incoming calls. When you turn on incoming call narration, in addition to displaying the incoming caller's name, the caller's name is announced. You can then say "video", "audio", or "ignore" to respond to the incoming call.
 
 To turn on the Narrator for incoming calls:
 
 - Go to Settings, and then select the **On** button for the Narrator.
+
+![Open Narrator](media/narrator.PNG "Open Narrator")
 
 ## Use Remote Assist to get help in another HoloLens app
 
