@@ -303,6 +303,13 @@ button.
 | Red                          | Pick the red color.                                                                  |
 | Yellow                       | Pick the yellow color.                                                               |
 | Erase all                    | Remove all visual elements from your space.                                          |
+| **Window management**        |                                                                                      |
+| Move                         | Start Move mode                                                                      |
+| ????                         | Move window                                                                          |
+| Scale                        | Enter Resize (Scale) mode                                                            |
+| Bigger or Smaller            | Make the window bigger or smaller after entering Resize (Scale) mode                 |
+| Accept                       | Place window                                                                         |
+| Reset                        | Go back to default size/position                                                     |
 | **[!include[pn-onedrive](../includes/pn-onedrive.md)]**                 |                                                                                      |
 | [!include[pn-onedrive](../includes/pn-onedrive.md)]                     | Open [!include[pn-onedrive](../includes/pn-onedrive.md)] at the root folder to insert a file.                                   |
 | Close                        | Close [!include[pn-onedrive](../includes/pn-onedrive.md)].                                                                      |
@@ -310,6 +317,14 @@ button.
 | Previous                     | Go to previous page in [!include[pn-onedrive](../includes/pn-onedrive.md)].                                                     |
 | **Other**                    |                                                                                      |
 | Settings                     | Go to Settings page.                                                                 |
+
+## Use the Narrator to assist with visual impairment
+
+You can turn on the Narrator if you're visually impaired and want to take advantage of voice narration for incoming calls. when you turn on incoming call narration, in addition to displaying the incoming caller's name, the caller's name is announced. You can then say "video", "audio", or "ingore" to respond to the incoming call.
+
+To turn on the Narrator for incoming calls:
+
+- Go to Settings, and then select the **On** button for the Narrator.
 
 ## Use Remote Assist to get help in another HoloLens app
 
