@@ -305,10 +305,10 @@ button.
 | Erase all                    | Remove all visual elements from your space.                                          |
 | **Window management**        |                                                                                      |
 | Move                         | Enter Move mode. After entering Move mode, gaze where you want to move the window. Or you can gaze to select the Move tool, say "Select" to enter Move mode, and then gaze to move the window.                              |
-| Accept                       | Place the window                                                                     |
-| Scale                        | Enter Scale mode                                                                     |
-| Bigger or Smaller            | Make the window bigger or smaller after entering Scale mode                          |
-| Reset                        | Go back to default size/position                                                     |
+| Accept                       | Place the window.                                                                     |
+| Scale                        | Enter Scale mode. Or you can gaze to select the Scale tool, and then say "Select" to enter Scale mode.                                                                     |
+| Bigger or Smaller            | Make the window bigger or smaller after entering Scale mode.                          |
+| Reset                        | Go back to default size/position.                                                     |
 | **[!include[pn-onedrive](../includes/pn-onedrive.md)]**                 |                                                                                      |
 | [!include[pn-onedrive](../includes/pn-onedrive.md)]                     | Open [!include[pn-onedrive](../includes/pn-onedrive.md)] at the root folder to insert a file.                                   |
 | Close                        | Close [!include[pn-onedrive](../includes/pn-onedrive.md)].                                                                      |
