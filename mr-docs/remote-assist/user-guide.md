@@ -325,7 +325,7 @@ To turn on the Narrator for incoming calls:
 
 - Go to Settings, and then select the **On** button for the Narrator.
 
-![Open Narrator](media/narrator.PNG "Open Narrator")
+  ![Open Narrator](media/narrator.PNG "Open Narrator")
 
 ## Use Remote Assist to get help in another HoloLens app
 
