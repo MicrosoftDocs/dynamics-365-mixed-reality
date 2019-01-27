@@ -175,9 +175,16 @@ and will be able to make annotations of their own.
 
 1.  Select the **Arrow** tool (or say “Arrow”) during a video call.
 
-2.  Gaze where you want to add the arrow, and then air tap to place it.
+2.  Gaze where you want to add the arrow. You'll see a silhouette of the arrow that shows where it will be placed. 
 
-3.  If you want to specify the direction that the arrow points, air tap and
+    ![Ghost arrow)](media/ghost-arrow-before.PNG "Ghost arrow")
+
+3.  Air tap to place the arrow.
+
+    ![Arrow placed)](media/ghost-arrow-after.PNG "Arrow placed")
+
+> [!NOTE]
+> If you want to specify the direction that the arrow points, air tap and
     hold, and then rotate your hand to position the arrow.
 
 ### Draw in your space
