@@ -312,7 +312,8 @@ button.
 | Erase all                    | Remove all visual elements from your space.                                          |
 | **Window management**        |                                                                                      |
 | Move                         | Enter Move mode. After entering Move mode, gaze where you want to move the window. </br><br>Or you can gaze to select the Move tool, say "Select" to enter Move mode, and then gaze to move the window.                      |
-| Accept                       | Place the window after entering Move mode.                                           |                  | Cancel                       | Go back to the default gaze cursor.                                                  |
+| Accept                       | Place the window after entering Move mode.                                           | 
+| Cancel                       | Go back to the default gaze cursor.                                                  |
 | Scale                        | Enter Scale mode to resize the window. </br><br>Or you can gaze to select the Scale tool, and then say "Select" to enter Scale mode.                                                                     |
 | Bigger or Smaller            | Make the window bigger or smaller after entering Scale mode. Repeat the "Bigger" or "Smaller" voice command until the window is the size you want.                          |
 | Reset                        | Go back to default size/position.                                                     |
