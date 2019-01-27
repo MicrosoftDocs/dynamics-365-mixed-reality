@@ -247,9 +247,9 @@ To undo your most recent action, including **Erase all**:
 
 -   Select **Undo** at the top of the call window (or say “Undo”).
 
-## Use voice commands
+## Use voice commands and gaze
 
-In many cases, you can use voice commands instead of gestures. Some voice
+In many cases, you can use voice commands and gaze instead of gestures. Some voice
 commands are contextual, so they only work in particular areas of the user
 interface.
 
@@ -304,11 +304,10 @@ button.
 | Yellow                       | Pick the yellow color.                                                               |
 | Erase all                    | Remove all visual elements from your space.                                          |
 | **Window management**        |                                                                                      |
-| Move                         | Start Move mode                                                                      |
-| ????                         | Move window                                                                          |
+| Move                         | Enter Move mode. After entering Move mode, gaze where you to move the window to move it. Or you can gaze to selecte the Move tool, say "Select" to enter Move mode, and then gaze to move the window.                     |
+| Accept                       | Place the window                                                                     |
 | Scale                        | Enter Resize (Scale) mode                                                            |
 | Bigger or Smaller            | Make the window bigger or smaller after entering Resize (Scale) mode                 |
-| Accept                       | Place window                                                                         |
 | Reset                        | Go back to default size/position                                                     |
 | **[!include[pn-onedrive](../includes/pn-onedrive.md)]**                 |                                                                                      |
 | [!include[pn-onedrive](../includes/pn-onedrive.md)]                     | Open [!include[pn-onedrive](../includes/pn-onedrive.md)] at the root folder to insert a file.                                   |
