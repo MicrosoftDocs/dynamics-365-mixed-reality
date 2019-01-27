@@ -175,7 +175,7 @@ and will be able to make annotations of their own.
 
 1.  Select the **Arrow** tool (or say “Arrow”) during a video call.
 
-2.  Gaze where you want to add the arrow. You'll see a silhouette of the arrow that shows where it will be placed. 
+2.  Gaze where you want to add the arrow. You'll see a silhouette of the arrow that shows where it will be placed. For example, note the feint arrow in the following screen shot:
 
     ![Ghost arrow)](media/ghost-arrow-before.PNG "Ghost arrow")
 
