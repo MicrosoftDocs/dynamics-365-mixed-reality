@@ -313,10 +313,10 @@ button.
 | **Window management**        |                                                                                      |
 | Move                         | Enter Move mode. After entering Move mode, gaze where you want to move the window. </br><br>Or you can gaze to select the Move tool, say "Select" to enter Move mode, and then gaze to move the window.                      |
 | Accept                       | Place the window after entering Move mode.                                           | 
-| Cancel                       | Go back to the default gaze cursor.                                                  |
 | Scale                        | Enter Scale mode to resize the window. </br><br>Or you can gaze to select the Scale tool, and then say "Select" to enter Scale mode.                                                                     |
 | Bigger or Smaller            | Make the window bigger or smaller after entering Scale mode. Repeat the "Bigger" or "Smaller" voice command until the window is the size you want.                          |
-| Reset                        | Go back to default size/position.                                                     |
+| Cancel                       | Go back to the default gaze cursor. If you're in Move mode, restores the window to its original position before you moved it.                                                 |
+| Reset                        | If you're in Scale mode, go back to the default size/position. If you're in Move mode, move the window back to its original position when you gazed at it, and used a voice command.                                                     |
 | **[!include[pn-onedrive](../includes/pn-onedrive.md)]**                 |                                                                                      |
 | [!include[pn-onedrive](../includes/pn-onedrive.md)]                     | Open [!include[pn-onedrive](../includes/pn-onedrive.md)] at the root folder to insert a file.                                   |
 | Close                        | Close [!include[pn-onedrive](../includes/pn-onedrive.md)].                                                                      |
