@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Dynamics 365 Remote Assist User Guide
 ms.author: mapau
-ms.date: 01/08/2019
+ms.date: 01/28/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User Guide
@@ -175,9 +175,16 @@ and will be able to make annotations of their own.
 
 1.  Select the **Arrow** tool (or say “Arrow”) during a video call.
 
-2.  Gaze where you want to add the arrow, and then air tap to place it.
+2.  Gaze where you want to add the arrow. You'll see a silhouette of the arrow that shows where it will be placed. For example, note the faint arrow in the following screenshot:
 
-3.  If you want to specify the direction that the arrow points, air tap and
+    ![Ghost arrow)](media/ghost-arrow-before.PNG "Ghost arrow")
+
+3.  Air tap to place the arrow.
+
+    ![Arrow placed)](media/ghost-arrow-after.PNG "Arrow placed")
+
+> [!NOTE]
+> If you want to specify the direction that the arrow points, air tap and
     hold, and then rotate your hand to position the arrow.
 
 ### Draw in your space
@@ -247,9 +254,9 @@ To undo your most recent action, including **Erase all**:
 
 -   Select **Undo** at the top of the call window (or say “Undo”).
 
-## Use voice commands
+## Use voice commands and gaze
 
-In many cases, you can use voice commands instead of gestures. Some voice
+In many cases, you can use voice commands and gaze instead of gestures. Some voice
 commands are contextual, so they only work in particular areas of the user
 interface.
 
@@ -303,6 +310,13 @@ button.
 | Red                          | Pick the red color.                                                                  |
 | Yellow                       | Pick the yellow color.                                                               |
 | Erase all                    | Remove all visual elements from your space.                                          |
+| **Window management**        |                                                                                      |
+| Move                         | Enter Move mode. After entering Move mode, gaze where you want to move the window. </br><br>Or you can gaze to select the Move tool, say "Select" to enter Move mode, and then gaze to move the window.                      |
+| Accept                       | Place the window after entering Move mode.                                           | 
+| Scale                        | Enter Scale mode to resize the window. </br><br>Or you can gaze to select the Scale tool, and then say "Select" to enter Scale mode.                                                                     |
+| Bigger or Smaller            | Make the window bigger or smaller after entering Scale mode. Repeat the "Bigger" or "Smaller" voice command until the window is the size you want.                          |
+| Cancel                       | Go back to the default gaze cursor. If you're in Move mode, restores the window to its original position before you moved it.                                                 |
+| Reset                        | If you're in Scale mode, go back to the default size/position. If you're in Move mode, move the window back to its original position when you gazed at it and used a voice command.                                                     |
 | **[!include[pn-onedrive](../includes/pn-onedrive.md)]**                 |                                                                                      |
 | [!include[pn-onedrive](../includes/pn-onedrive.md)]                     | Open [!include[pn-onedrive](../includes/pn-onedrive.md)] at the root folder to insert a file.                                   |
 | Close                        | Close [!include[pn-onedrive](../includes/pn-onedrive.md)].                                                                      |
@@ -310,6 +324,16 @@ button.
 | Previous                     | Go to previous page in [!include[pn-onedrive](../includes/pn-onedrive.md)].                                                     |
 | **Other**                    |                                                                                      |
 | Settings                     | Go to Settings page.                                                                 |
+
+## Use the Narrator to announce incoming calls
+
+You can turn on the Narrator if you want to take advantage of voice narration for incoming calls. When you turn on incoming call narration, in addition to displaying the incoming caller's name, the caller's name is announced. You can then say "video," "audio," or "ignore" to respond to the incoming call.
+
+To turn on the Narrator for incoming calls:
+
+- Go to Settings, and then select the **On** button for the Narrator.
+
+  ![Open Narrator](media/narrator.PNG "Open Narrator")
 
 ## Use Remote Assist to get help in another HoloLens app
 
