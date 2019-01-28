@@ -175,7 +175,7 @@ and will be able to make annotations of their own.
 
 1.  Select the **Arrow** tool (or say “Arrow”) during a video call.
 
-2.  Gaze where you want to add the arrow. You'll see a silhouette of the arrow that shows where it will be placed. For example, note the faint arrow in the following screen shot:
+2.  Gaze where you want to add the arrow. You'll see a silhouette of the arrow that shows where it will be placed. For example, note the faint arrow in the following screenshot:
 
     ![Ghost arrow)](media/ghost-arrow-before.PNG "Ghost arrow")
 
@@ -327,7 +327,7 @@ button.
 
 ## Use the Narrator to announce incoming calls
 
-You can turn on the Narrator if you want to take advantage of voice narration for incoming calls. When you turn on incoming call narration, in addition to displaying the incoming caller's name, the caller's name is announced. You can then say "video", "audio", or "ignore" to respond to the incoming call.
+You can turn on the Narrator if you want to take advantage of voice narration for incoming calls. When you turn on incoming call narration, in addition to displaying the incoming caller's name, the caller's name is announced. You can then say "video," "audio," or "ignore" to respond to the incoming call.
 
 To turn on the Narrator for incoming calls:
 
