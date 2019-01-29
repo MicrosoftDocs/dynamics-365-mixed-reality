@@ -261,13 +261,13 @@ commands are contextual, so they only work in particular areas of the user
 interface.
 
 > [!IMPORTANT]
-To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. You can also gaze at any button and say “Select” to select that
+> To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. You can also gaze at any button and say “Select” to select that
 button.
 
 | **Voice command**            | **Description**                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------|
 | **General**                  |                                                                                      |
-| Sign out                     | Sign out of [!include[pn-remote-assist](../includes/pn-remote-assist.md)].                                                           |
+| Sign out                     | Sign out of [!include[pn-remote-assist](../includes/pn-remote-assist.md)].           |
 | Up                           | Go up.                                                                               |
 | Previous                     | Go to previous page.                                                                 |
 | Next                         | Go to next menu.                                                                     |
