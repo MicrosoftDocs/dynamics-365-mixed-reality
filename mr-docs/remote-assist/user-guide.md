@@ -260,13 +260,8 @@ In many cases, you can use voice commands and gaze instead of gestures. Some voi
 commands are contextual, so they only work in particular areas of the user
 interface.
 
-To use a voice command:
-
--   Say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following
-    table.
-
-> [!NOTE]
-> You can also gaze at any button and say “Select” to select that
+> [!IMPORTANT]
+To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. You can also gaze at any button and say “Select” to select that
 button.
 
 | **Voice command**            | **Description**                                                                      |
@@ -310,13 +305,14 @@ button.
 | Red                          | Pick the red color.                                                                  |
 | Yellow                       | Pick the yellow color.                                                               |
 | Erase all                    | Remove all visual elements from your space.                                          |
-| **Window management**        |                                                                                      |
-| Move                         | Enter Move mode. After entering Move mode, gaze where you want to move the window and then say "Select slate" while staring at a panel (or air tap while gazing). </br><br>Or you can gaze to select the Move tool, say "Select" to enter Move mode, and then gaze to move the window.|
-| Accept                       | Place the window after entering Move mode.                                           | 
-| Cancel                       | Cancel Move mode and return the window to its original position before you moved it. |
-| Scale                        | Enter Scale mode to resize the window. </br><br>Or you can gaze to select the Scale tool, and then say "Select" to enter Scale mode.                                                                     |
-| Bigger or Smaller            | Make the window bigger or smaller after entering Scale mode. Repeat the "Bigger" or "Smaller" voice command until the window is the size you want.                          |
-| Reset                        | Exit Scale mode and restore the window to its original size and position.           |
+| **Slate (window) management**        |                                                                                      |
+| Move                         | Enter Move mode. |
+| Select slate                 | After entering Move mode, gaze at the slate you want to move, and then say "Select slate". The slate will start following your gaze.
+| Accept                       | After entering Move mode and selecting a slate, place the slate where you are currently gazing by saying "Accept".                                          | 
+| Cancel                       | Stops a currently selected slate from following your gaze and returns it to its original position before you started moving it. |
+| Scale                        | Enter Scale mode to resize the slate. </br><br>Or, you can gaze to select the Scale tool, and then say "Select" to enter Scale mode.                                                                     |
+| Bigger or Smaller            | Make the window bigger or smaller after entering Scale mode. Repeat the "Bigger" or "Smaller" command until the window is the size you want.                          |
+| Reset                        | While gazing at a slate that has recently been moved, saying "Reset" will return the slate to its original position.          |
 | **[!include[pn-onedrive](../includes/pn-onedrive.md)]**                 |                                                                                      |
 | [!include[pn-onedrive](../includes/pn-onedrive.md)]                     | Open [!include[pn-onedrive](../includes/pn-onedrive.md)] at the root folder to insert a file.                                   |
 | Close                        | Close [!include[pn-onedrive](../includes/pn-onedrive.md)].                                                                      |
