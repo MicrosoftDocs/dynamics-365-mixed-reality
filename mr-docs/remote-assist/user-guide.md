@@ -311,7 +311,7 @@ button.
 | Yellow                       | Pick the yellow color.                                                               |
 | Erase all                    | Remove all visual elements from your space.                                          |
 | **Window management**        |                                                                                      |
-| Move                         | Enter Move mode. After entering Move mode, gaze where you want to move the window. </br><br>Or you can gaze to select the Move tool, say "Select" to enter Move mode, and then gaze to move the window.                      |
+| Move                         | Enter Move mode. After entering Move mode, gaze where you want to move the window and then say "Select slate" while staring at a panel (or air tap while gazing). </br><br>Or you can gaze to select the Move tool, say "Select" to enter Move mode, and then gaze to move the window.|
 | Accept                       | Place the window after entering Move mode.                                           | 
 | Cancel                       | Cancel Move mode and return the window to its original position before you moved it. |
 | Scale                        | Enter Scale mode to resize the window. </br><br>Or you can gaze to select the Scale tool, and then say "Select" to enter Scale mode.                                                                     |
