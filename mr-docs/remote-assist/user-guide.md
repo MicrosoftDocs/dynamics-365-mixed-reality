@@ -261,8 +261,7 @@ commands are contextual, so they only work in particular areas of the user
 interface.
 
 > [!IMPORTANT]
-> To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. You can also gaze at any button and say “Remote Assist, Select” to select that
-button.
+> To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. For example, say "Remote Assist, Move" to enter Move mode for a slate (window). You can also gaze at any button and say “Remote Assist, Select” to select that button.
 
 | **Voice command**            | **Description**                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------|
