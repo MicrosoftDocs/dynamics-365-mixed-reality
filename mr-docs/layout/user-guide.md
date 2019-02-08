@@ -234,9 +234,9 @@ To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you�
 
 If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
 	
-To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the HoloLens device](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/user-guide#copy-models-to-a-hololens-device).
+To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the HoloLens device](#copy).
 
-### Copy models to a HoloLens device
+### Copy models to a HoloLens device<a name="copy"></a>
 
 To use optimized/converted models on a [!include[pn-hololens](../includes/pn-hololens.md)], you need to copy them to the device first.
 
