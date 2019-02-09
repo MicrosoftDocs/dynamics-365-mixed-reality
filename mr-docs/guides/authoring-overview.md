@@ -409,67 +409,76 @@ Here’s what each button or UI element is used for:
 
 |Button|Name|Purpose|
 |-----|------------|----------------------------------------------------------------------------------------------------------------|
- 	||Home|Choose a different guide|
- 	||Profile|Sign in and out|
- 	||Settings|Access the following settings:</br><br>- Fit box. Use to make sure you’re wearing the HoloLens device correctly.</br><br>
+||Home|Choose a different guide|
+||Profile|Sign in and out|
+||Settings|Access the following settings:</br><br>- Fit box. Use to make sure you’re wearing the HoloLens device correctly.</br><br>
 - Noise Cancellation.</br><br>- Dynamic Volume. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- Build number. Shows the build you’re using.|
- 	||Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
- 	||Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
- 	||Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
- 	||Task Progress	|Shows where you are in the open task.|
- 	||Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
+||Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
+||Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
+||Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
+||Task Progress	|Shows where you are in the open task.|
+||Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
 
-Test the flow of your guide
+## Test the flow of your guide
 Once you’re oriented on HoloLens, we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you may need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles.
+
 When you’re ready to make the changes in the PC application, make sure to close the HoloLens app before re-opening the PC app. Don’t keep both applications open at the same. 
-Place your holograms and add tethers
+
+## Place your holograms and add tethers
 You’ve tested the flow of your guide and you’ve made changes in the PC application. Now you’re ready to move to the next stage of the authoring process—you’re ready to place your holograms and add tethers in the real world. 
-Place your holograms
+
+### Place your holograms
 In this stage of the process, you’ll walk through each step in your guide and place any assets that you associated with that step when you authored it in the PC application. For example, if you added a 3D part to support a step, you’ll place that part over its physical counterpart in the real world. If you added a 3D object from the 3D toolkit (an arrow or a number, for example), you’ll place that object in an appropriate place in the real world to draw the user’s focus. You can place the same 3D part or 3D object as many times as you want.
+
 You don’t need to do anything to place images or videos associated with a step. They automatically appear when the operator goes to the step. They can select the Media button to close the image or video.
+
 The 3D assets associated with each step appear below the Step card:
  
 To place them in the real world: 
 1.	Air tap an empty box under 3D parts.
 
 2.	Air tap a category in the 3D toolkit (an arrow or hand, for example).
-  
-
-
-
-
-
-
 
 3.	Air tap the object you want to add.
-This item will be added to your bin. 
-Manipulating holograms
+    This item will be added to your bin. 
+
+### Manipulating holograms
 To place a hologram from one of your bins:
 1.	Air tap a 3D asset to add it to your real world. It will appear in your world in front of the Step card.
 2.	Raise your hand to the ready gesture and gaze at the 3D asset to select it. You can tell if it’s selected if the 3D selection sphere appears around it.
 3.	Once the object is selected, air tap + hold anywhere on the selection sphere to pick up the 3D asset.
 4.	Do one of the following to move the hologram:
-•	To move it larger distances in any direction, move your hand quickly in the direction you want. By default, the hologram will move approximately the same distance your hand moves from the starting point of where you “grabbed” the hologram to where you stop. 
-•	To make more precise adjustments, move your hand slowly or keep it stationary to enter precision mode. This slows down the movement speed so you can nudge the hologram where you want it.
-Tip  You’ll know you’ve entered precision mode when the selection sphere turns blue
+    - To move it larger distances in any direction, move your hand quickly in the direction you want. By default, the hologram will move approximately the same distance your hand moves from the starting point of where you “grabbed” the hologram to where you stop. 
+    - To make more precise adjustments, move your hand slowly or keep it stationary to enter precision mode. This slows down the movement speed so you can nudge the hologram where you want it.
+
+>[!Tip]  
+> You’ll know you’ve entered precision mode when the selection sphere turns blue
  
-Rotate a hologram
+#### Rotate a hologram
 It’s unlikely an asset will be at the correct orientation when you initially place or move it. Use the rotation adjustment knobs to rotate it the way you want.
+
 To rotate a hologram:
-•	Air tap and hold on a rotation adjustment, and then do one of the following:
-o	Use the up/down knob to rotate vertically.
-o	Use the left/right knob to rotate horizontally.
-o	Use the free-hand knob to rotate in any direction.
-Tip  Gazing at any of the gizmo knobs will let you know which direction the knob will rotate.
+- Air tap and hold on a rotation adjustment, and then do one of the following:
+  - Use the up/down knob to rotate vertically.
+  - Use the left/right knob to rotate horizontally.
+  - Use the free-hand knob to rotate in any direction.
+
+>[!Tip]
+> Gazing at any of the gizmo knobs will let you know which direction the knob will rotate.
+
 When rotating, it helps to think as if you are physically grabbing the knob and rotating around the object, like a wheel.
 The following screen shots show how to use the different rotation knobs:
- Important:  To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. Learn more about calibration. 
-Best practices for working with 3D content
-•	Make sure that the 3D content is not in the way of the operator doing the task. 
-•	Keep the field of view in mind when placing assets. If you put a hologram behind someone, it will be very hard to find. 
-•	Use 3D content sparingly and with a clear goal. Too much content can clutter the instructions and make it harder to follow.
-•	Remember that you can attach a tether to 3D content to make it more discoverable. See the next section to learn about tethers.
-Place tethers
+ 
+> [!Important]
+> To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. Learn more about calibration. 
+
+#### Best practices for working with 3D content
+- Make sure that the 3D content is not in the way of the operator doing the task. 
+- Keep the field of view in mind when placing assets. If you put a hologram behind someone, it will be very hard to find. 
+- Use 3D content sparingly and with a clear goal. Too much content can clutter the instructions and make it harder to follow.
+- Remember that you can attach a tether to 3D content to make it more discoverable. See the next section to learn about tethers.
+
+## Place tethers
 You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
 
  
@@ -479,59 +488,39 @@ To place a tether:
 2.	Place it in the real-world location that you want.
 
 
+#### Best practices for tethers
+- Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3d toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
+- To make a tether appear to be more precise, use a 3D object like a circle or arrow to show exactly where the tether is pointing.
 
-
- 
-Best practices for tethers
-•	Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3d toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
-•	To make a tether appear to be more precise, use a 3D object like a circle or arrow to show exactly where the tether is pointing.
-Add styles for emphasis
+## Add styles for emphasis
 Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
-Note  At this time, you can’t add styles from the PC application. They exist only in HoloLens. 
+
+> [!Note]
+> At this time, you can’t add styles from the PC application. They exist only in HoloLens. 
+
 To place a style:
 1.	Air tap a hologram you’ve already placed in the real world to select it.
 2.	Air tap the Edit Hologram (. . .) button.
- 
-
-
-
-
-
-
-
-
-
-
-
-
 
 3.	Air tap Styles. 
  
 4.	Select the style you want to use.
  
 Here’s a list of styles included in Guides and when to use each:
-Style	Purpose	How it appears to the operator
-Original	Restore to original appearance	Default appearance
-Pick up	Tell the operator to pick up something	Outline
-Place	Show the operator where to place something	Dotted line
-See-through 1	Show something without obscuring the operator’s view	Transparent 50%
-See-through 2	Layer one thing on top of another so the operator can see through two layers	More transparent 25%
 
-Warning	Warn about a safety or quality concern	Yellow and black striped
-Avoid	Show areas or things to avoid	Red flashing
-X-ray	Show things that happen inside something	Outline with transparent inside
-Metal	Provide a realistic metal finish for an object	Metallic
+|Style	|Purpose	|How it appears to the operator|
+|---------------|-------------------|--------------------------------------------|
+|Original|Restore to original appearance	|Default appearance|
+|Pick up	|Tell the operator to pick up something	|Outline|
+|Place	|Show the operator where to place something	|Dotted line|
+|See-through 1	|Show something without obscuring the operator’s view	|Transparent 50%|
+|See-through 2	|Layer one thing on top of another so the operator can see through two layers	|More transparent 25%|
+|Warning	|Warn about a safety or quality concern	|Yellow and black striped|
+|Avoid	|Show areas or things to avoid	|Red flashing|
+|X-ray	|Show things that happen inside something	|Outline with transparent inside|
+|Metal	|Provide a realistic metal finish for an object	|Metallic|
 
-Style	Purpose	How it appears to the operator
-Original	Restore to original appearance	Default appearance
-Pick up	Tell the operator to pick up something	Outline
-Place	Show the operator where to place something	Dotted line
-See-through 1	Show something without obscuring the operator’s view	Transparent 50%
-See-through 2	Layer one thing on top of another so the operator can see through two layers	More transparent 25%
-Warning	Warn about a safety or quality concern	Yellow and black striped 
-Avoid	Show areas or things to avoid	Red flashing
-X-ray	Show things that happen inside something	Outline with transparent inside
-Metal	Provide a realistic metal finish for an object	Metallic
+
  
 Best practices for styles
 •	Use style to reinforce actions.
