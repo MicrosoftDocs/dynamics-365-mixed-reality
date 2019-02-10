@@ -145,6 +145,8 @@ so on as part of the name.
 ## Choose an alignment method 
 After you name your guide, you’ll see the **Choose an alignment method** screen. 
 
+![Alignment methods screen)](media/alignment-methods.png "Alignment methods screen")
+
 Alignment is used to spatially sync your instructions to the real world. When you align your guide, your instructions coincide 
 with the space they live in and become meaningful. The alignment acts as the anchor that all your content is centered around.
 
@@ -177,9 +179,13 @@ To print the marker:
 1.	Ensure that the Marker.pdf file has been saved from the Marker setup page, and then open it in Adobe Acrobat Reader.
 2.	On the File menu, select Print.
 3.	Under Page Sizing & Handling, select the Actual size option.
- 
+
+![Print a marker)](media/print-marker.png "Print a marker")
+
 4.	Print the last page of the document on matte stock as glossy materials can affect scanning. 
 5.	After printing, make sure the marker spacing matches the measurements shown in the following illustration:
+
+![Marker spacing)](media/marker-spacing.png "Marker spacing")
  
 > [!NOTE]
 > If the marker spacing is not within +/- 0.1mm, select the Custom Scale option in the Print dialog box, and then change the 
@@ -257,6 +263,8 @@ Very dark or very bright environments, or environments that include very reflect
 After you choose an alignment method, you’ll see the Outline page. This is where you create the framework for your guide by adding as many tasks and steps as you need. Tasks are groups of steps. Steps are the short, discrete work items that operators do to complete the task. Steps are the central building block that everything is built around in Guides.
 
 When you open the Outline page for the first time, you’ll see that a single task and step is already created for you. 
+
+![Create a task and step)](media/create-task.png "Create a task and step")
   
 To get started, enter a task name, and then start typing the instructions in the box for the first step. When you need to add a new step, select Add step. When you’re ready to add another task, select Add task. It’s that simple!
 
@@ -265,6 +273,8 @@ In reality, you’ll probably create most of your steps from inside the Step car
 In addition to tasks and steps, the Outline page shows:
 - The type of alignment you chose for the guide, along with customizable operator instructions.
 - A special step called a Completion step that lets operators know when they’ve reached the end of the guide. The Completion step includes default text that you can customize as you see fit.
+
+![Outline page)](media/outline-page.png "Outline page")
  
 > [!NOTE]
 > Whenever you start working on a guide, be sure to select refresh to ensure you have the latest version. 
@@ -277,6 +287,8 @@ In addition to tasks and steps, the Outline page shows:
 - Remember to refresh your guide when moving between PC and HoloLens, and be sure to click outside the text box when writing steps to activate autosave. 
 
 Here’s the Outline page for the Example Guide to show what a completed Outline page looks like:
+
+![Finished Outline page from Example guide)](media/finished-outline-page.png "Finished Outline page from Example guide")
   
 ### Create steps and assign assets in the Step card page
 You can create steps in the Outline page, but you’ll probably create most of your steps from the WYSIWYG Step card page.  and assign supporting assets for that step, like 3D content or media (images and videos). 
@@ -288,6 +300,8 @@ To add 3D content or media to support a step:
 1. On the right side of the screen, select the label for the type of item you want to add (3D parts, Images, Videos, or 3D toolkit).
 
 2. Drag the object to the appropriate box below the step text. For example, to add an image or video, drag the image or video to the Image or video box. To add a 3D part or an object from the 3D toolkit , drag it to one of the 3D parts boxes. 
+
+![Create a step with the Step card)](media/create-step.png "Create a step with the step card")
   
 When you view your guide on the HoloLens in Authoring mode, you’ll see all the assets that you associated with the steps, and can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in HoloLens authoring. What you see in the Step card page, is very similar to what you see on the HoloLens. 
 
