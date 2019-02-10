@@ -176,8 +176,8 @@ Marker alignment involves three basic steps:
 
 To print the marker:
 1.	Ensure that the Marker.pdf file has been saved from the Marker setup page, and then open it in Adobe Acrobat Reader.
-2.	On the File menu, select Print.
-3.	Under Page Sizing & Handling, select the Actual size option.
+2.	On the **File** menu, select **Print**.
+3.	Under **Page Sizing & Handling**, select the **Actual size** option.
 
     ![Print a marker)](media/print-marker.PNG "Print a marker")
 
@@ -187,23 +187,23 @@ To print the marker:
     ![Marker spacing)](media/marker-spacing.PNG "Marker spacing")
  
 > [!NOTE]
-> If the marker spacing is not within +/- 0.1mm, select the Custom Scale option in the Print dialog box, and then change the 
+> If the marker spacing is not within +/- 0.1mm, select the **Custom Scale** option in the **Print** dialog box, and then change the 
 percentage to compensate for the size discrepancy. For example, if you print the marker and the result is 49 mm, you would need to 
 change the scale to 100.4% to get 49.196 mm, which would be within tolerance.
 
 #### Best practices for marker alignment
 Keep the following in mind when working with marker alignment:
 
-- Size. Make sure that your printed marker is the exact size indicated in this document. Incorrect marker size will cause guide misalignment. 
+- **Size.** Make sure that your printed marker is the exact size indicated in this document. Incorrect marker size will cause guide misalignment. 
   - Some applications and printers may change the size of the image.
   - If the printed marker is bigger than indicated, HoloLens will interpret the scale difference in distance. This will cause the marker to be identified as closer than it really is. 
   - Note that printing from the pdf file (as described earlier in this section) is the best way to ensure that the marker is not resized. 
-- Location. Place the marker in a location on the physical object that’s easy to access and out of the way.
+- **Location.** Place the marker in a location on the physical object that’s easy to access and out of the way.
   - Marker placement should ideally be central to the steps being done.
   - Content placed further away from the marker will be less accurate.
   - Place the marker where operators can quickly re-scan to realign at any time.
   - Take a photo or video to document the marker placement and add it to the guide instructions to increase operator confidence.
-- Scanning angle. Make sure you’re facing the marker straight on at the correct distance when gazing at it. 
+- **Scanning angle.** Make sure you’re facing the marker straight on at the correct distance when gazing at it. 
   - Scanning from an angle can cause misalignment.
   - Ideal scanning range is 60–80 cm.
 
@@ -222,14 +222,14 @@ Manual alignment involves two basic steps:
 
 To import a 3D representation: 
 1.	Open the PC Authoring app.
-2.	On the right side of the screen, select the Import command. 
-3.	In the Open dialog box, select the 3D representation that you want to use, and then select Open.
-    This will add the 3D representation to the 3D parts section of the library.
-4.	In the library, select 3D parts, and then drag your 3D representation to the Digital twin box in the lower-left side of the screen.
+2.	On the right side of the screen, select the **Import** command. 
+3.	In the **Open** dialog box, select the 3D representation that you want to use, and then select **Open**.
+    This will add the 3D representation to the **3D parts** section of the library.
+4.	In the library, select **3D parts**, and then drag your 3D representation to the **Digital twin** box in the lower-left side of the screen.
 
 > [!NOTE]
 > It’s a good practice to take a photo or video of the base physical object and location and upload the photo or video to the 
-Digital twin reference box. You may also want to customize the instructions in the Operator instructions box to provide more specific 
+**Digital twin** reference box. You may also want to customize the instructions in the **Operator instructions** box to provide more specific 
 directions.
 
 To place the object in HoloLens:
