@@ -449,6 +449,8 @@ After you align your guide, you’ll see the Step card. The Step card is the hub
 Navigate through the guide by gazing at the Next Step and Go Back arrows. You can also use gestures such as air tap to navigate through a guide. 
 
 At the top of the Step card screen, you’ll see three holographic buttons: Undo, Redo, and Save.
+
+![HoloLens step card screen)](media/hololens-orientation.png "HoloLens step card screen")
  
 The Undo and Redo buttons work like Undo and Redo in any Microsoft Office program. There’s no limit to the number of times you can undo or redo. 
 
@@ -456,19 +458,21 @@ The Undo and Redo buttons work like Undo and Redo in any Microsoft Office progra
 > Changes are automatically saved as you author in HoloLens. Just be sure to select Refresh when you go back to the PC to ensure that you have the latest version of the guide.
 
 The Step card also includes several other buttons and UI elements:
+
+![HoloLens buttons)](media/hololens-buttons.png "HoloLens buttons")
  
 Here’s what each button or UI element is used for:
 
 |Button|Name|Purpose|
 |-----|------------|----------------------------------------------------------------------------------------------------------------|
-||Home|Choose a different guide|
-||Profile|Sign in and out|
-||Settings|Access the following settings:</br><br>- Fit box. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- Noise Cancellation.</br><br>- Dynamic Volume. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- Build number. Shows the build you’re using.|
-||Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
-||Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
-||Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
-||Task Progress	|Shows where you are in the open task.|
-||Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
+|![Home button)](media/home-button.png "Home button")|Home|Choose a different guide|
+|![Profile button)](media/profile-button.png "Profile button")|Profile|Sign in and out|
+|![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- Fit box. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- Noise Cancellation.</br><br>- Dynamic Volume. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- Build number. Shows the build you’re using.|
+|![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
+|![Pin button)](media/pin-button.png "Pin button")|Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
+|![Outline button)](media/outline-button.png "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
+|![Task progress)](media/task-progress.png "Task progress")|Task Progress	|Shows where you are in the open task.|
+|![media-button)](media/media-button.png "Media button")|Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
 
 ## Test the flow of your guide
 Once you’re oriented on HoloLens, we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you may need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles.
