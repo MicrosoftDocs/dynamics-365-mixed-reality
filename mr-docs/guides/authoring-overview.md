@@ -19,7 +19,7 @@ Supporting assets include:
 mode to test the flow of your guide, assign holographic tethers to show operators where to focus, place your holograms in the real 
 world, and add styles to 3D objects (warning or caution, for example).
 
-![Authoring overview)](media/authoring-overview.png "Authoring overview")
+![Authoring overview)](media/authoring-overview.PNG "Authoring overview")
 
 ## Before you start
 
@@ -81,7 +81,7 @@ shows a composite part for an engine, create separate 3D parts for all the indiv
 To organize content, you may want to create a folder structure with separate folders for text, 3D assets, images, and videos to make 
 it easy to find and use the different types of assets.
 
-![Folder stucture)](media/folder-structure.png "Folder structure")
+![Folder stucture)](media/folder-structure.PNG "Folder structure")
  
 ### Naming your files 
 When naming your content pieces, consider using standard prefixes so that all your assets are organized together in the library. 
@@ -100,16 +100,15 @@ Ready to get started with Guides authoring? Use these instructions to install th
 1.	Launch the Guides application from the Start menu on your PC. 
 2.	In the Welcome to Guides screen, choose Sign in.
 
-    ![Welcome to Guides)](media/welcome-to-guides.png "Welcome to Guides")
- 
+    ![Welcome to Guides)](media/welcome-to-guides.PNG
 3.	In the Sign in dialog box, select Work or school account, and then select Continue. 
 4.	In the Sign in screen, enter the User account and password assigned to you by your organization. If you’re the administrator, these are the credentials you created when you signed up for the trial subscription.
 
-    ![Sign-in to the PC app)](media/sign-in-pc.png "Sign in to the PC app")
+    ![Sign-in to the PC app)](media/sign-in-pc.PNG "Sign in to the PC app")
  
 5.	Select the instance you want to use if there’s more than one instance, and the select Continue.
 
-    ![Choose an instance)](media/choose-instance-pc.png "Choose an instance")
+    ![Choose an instance)](media/choose-instance-pc.PNG "Choose an instance")
 
  
 ## 6 steps to authoring in the PC application
@@ -145,7 +144,7 @@ so on as part of the name.
 ## Choose an alignment method 
 After you name your guide, you’ll see the **Choose an alignment method** screen. 
 
-![Alignment methods screen)](media/alignment-methods.png "Alignment methods screen")
+![Alignment methods screen)](media/alignment-methods.PNG "Alignment methods screen")
 
 Alignment is used to spatially sync your instructions to the real world. When you align your guide, your instructions coincide 
 with the space they live in and become meaningful. The alignment acts as the anchor that all your content is centered around.
@@ -180,12 +179,12 @@ To print the marker:
 2.	On the File menu, select Print.
 3.	Under Page Sizing & Handling, select the Actual size option.
 
-    ![Print a marker)](media/print-marker.png "Print a marker")
+    ![Print a marker)](media/print-marker.PNG "Print a marker")
 
 4.	Print the last page of the document on matte stock as glossy materials can affect scanning. 
 5.	After printing, make sure the marker spacing matches the measurements shown in the following illustration:
 
-    ![Marker spacing)](media/marker-spacing.png "Marker spacing")
+    ![Marker spacing)](media/marker-spacing.PNG "Marker spacing")
  
 > [!NOTE]
 > If the marker spacing is not within +/- 0.1mm, select the Custom Scale option in the Print dialog box, and then change the 
@@ -264,7 +263,7 @@ After you choose an alignment method, you’ll see the Outline page. This is whe
 
 When you open the Outline page for the first time, you’ll see that a single task and step is already created for you. 
 
-![Create a task and step)](media/create-task.png "Create a task and step")
+![Create a task and step)](media/create-task.PNG "Create a task and step")
   
 To get started, enter a task name, and then start typing the instructions in the box for the first step. When you need to add a new step, select Add step. When you’re ready to add another task, select Add task. It’s that simple!
 
@@ -274,7 +273,7 @@ In addition to tasks and steps, the Outline page shows:
 - The type of alignment you chose for the guide, along with customizable operator instructions.
 - A special step called a Completion step that lets operators know when they’ve reached the end of the guide. The Completion step includes default text that you can customize as you see fit.
 
-  ![Outline page)](media/outline-page.png "Outline page")
+  ![Outline page)](media/outline-page.PNG "Outline page")
  
 > [!NOTE]
 > Whenever you start working on a guide, be sure to select refresh to ensure you have the latest version. 
@@ -288,7 +287,7 @@ In addition to tasks and steps, the Outline page shows:
 
 Here’s the Outline page for the Example Guide to show what a completed Outline page looks like:
 
-![Finished Outline page from Example guide)](media/finished-outline-page.png "Finished Outline page from Example guide")
+![Finished Outline page from Example guide)](media/finished-outline-page.PNG "Finished Outline page from Example guide")
   
 ### Create steps and assign assets in the Step card page
 You can create steps in the Outline page, but you’ll probably create most of your steps from the WYSIWYG Step card page.  and assign supporting assets for that step, like 3D content or media (images and videos). 
@@ -301,7 +300,7 @@ To add 3D content or media to support a step:
 
 2. Drag the object to the appropriate box below the step text. For example, to add an image or video, drag the image or video to the Image or video box. To add a 3D part or an object from the 3D toolkit , drag it to one of the 3D parts boxes. 
 
-   ![Create a step with the Step card)](media/create-step.png "Create a step with the step card")
+   ![Create a step with the Step card)](media/create-step.PNG "Create a step with the step card")
   
 When you view your guide on the HoloLens in Authoring mode, you’ll see all the assets that you associated with the steps, and can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in HoloLens authoring. What you see in the Step card page, is very similar to what you see on the HoloLens. 
 
@@ -323,16 +322,16 @@ To import your own 3D objects:
 1.	Select the Import command in the upper-right corner of the Step card screen. 
 2.	Locate the 3D object you want to import, and then select Open.
 
-    ![Import custom 3D part)](media/import-3D-part.png "Import custom 3D part")
+    ![Import custom 3D part)](media/import-3D-part.PNG "Import custom 3D part")
 
 ### Add 3D objects from the 3D toolkit to support your steps
 Guides comes with a library of pre-defined 3D objects included in the 3D toolkit that are optimized to work perfectly with HoloLens. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
 
-![Add object from 3D toolkit)](media/add-3D-toolkit.png "Add object from 3D toolkit")
+![Add object from 3D toolkit)](media/add-3D-toolkit.PNG "Add object from 3D toolkit")
  
 Here’s the complete list of 3D objects available in the 3D toolkit:
 
-![List of objects in 3D toolkit)](media/3D-toolkit-objects.png "List of objects in 3D toolkit")
+![List of objects in 3D toolkit)](media/3D-toolkit-objects.PNG "List of objects in 3D toolkit")
  
 You add a 3D object from the 3D toolkit in the Step card page, and then place them in HoloLens Authoring mode. You can use the same object (instance) as many times as you like in a step.
 
@@ -340,11 +339,11 @@ To add an object from the 3D toolkit:
 1.	Select the Library tab.
 2.	Select the appropriate category of objects.
 
-    ![3D toolkit categories)](media/3D-toolkit-categories.png "3D toolkit categories")
+    ![3D toolkit categories)](media/3D-toolkit-categories.PNG "3D toolkit categories")
 
 3.	Drag the object you want from the list to a 3D parts box below the Step card.
 
-    ![Drag object from 3D toolkit)](media/drag-3D-toolkit-objectw.png "Drag object from 3D toolkit")
+    ![Drag object from 3D toolkit)](media/drag-3D-toolkit-objectw.PNG "Drag object from 3D toolkit")
  
 #### Best practices for 3D toolkit
 - Use pointers to communicate simple spatial information like position, direction, and translation.
@@ -371,7 +370,7 @@ The second major step in creating a guide takes place on the HoloLens applicatio
 4.	Place your holographic 3D content in their relevant spaces in the real world.
 5.	Add styles (optional) to 3D content to add treatments such as a warning or caution.
 
-    ![Test your guide)](media/test-guide.png "Test your guide")
+    ![Test your guide)](media/test-guide.PNG "Test your guide")
  
 ## Install the HoloLens app
 If you haven’t already installed the HoloLens app on your HoloLens device, you can install it from the Microsoft Store for Consumers.
@@ -393,7 +392,7 @@ To set your IPD using the Calibration app:
 1.	Do the bloom gesture to launch the Start menu.
 2.	Air tap on Calibration to begin calibrating your HoloLens.
 
-    ![Calibrate your HoloLens)](media/calibrate-hololens.png "Calibrate your HoloLens")
+    ![Calibrate your HoloLens)](media/calibrate-hololens.PNG "Calibrate your HoloLens")
 
 3.	Follow the instructions on your HoloLens.
 
@@ -404,39 +403,39 @@ To set your IPD using the Calibration app:
 After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
 1.	Go to Apps.
 
-    ![HoloLens Apps selection)](media/hololens-apps.png "HoloLens Apps selection")
+    ![HoloLens Apps selection)](media/hololens-apps.PNG "HoloLens Apps selection")
 
 2.	Select the down arrow.
 
-    ![HoloLens down arrow highlighted)](media/hololens-down-arrow.png "HoloLens down arrow highlighted")
+    ![HoloLens down arrow highlighted)](media/hololens-down-arrow.PNG "HoloLens down arrow highlighted")
 
 3.	Launch the Guides application.
 
-    ![Launch Guides)](media/launch-guides.png "Launch 'Guides")
+    ![Launch Guides)](media/launch-guides.PNG "Launch 'Guides")
  
 4.	On the welcome screen select Sign in. 
 5.	In the Email and accounts screen, select Work or school account, and then select Continue. 
 6.	In the Work or school screen, enter the email address sent to you by your organization. If you’re the administrator, use the credentials you created for the Trial subscription. 
 
-    ![Sign in to HoloLens)](media/sign-in-hololens.png "Sign in to HoloLens")
+    ![Sign in to HoloLens)](media/sign-in-hololens.PNG "Sign in to HoloLens")
  
 7.	Select an instance to use if you have more than one instance, and then select Continue.
 8.	In the Select Mode dialog box, gaze at the box to the right of Author until the box fills, which selects that item. 
 
-    ![Select Author mode)](media/author-mode.png "Select Author mode")
+    ![Select Author mode)](media/author-mode.PNG "Select Author mode")
 
 ### Align your guide
 The first thing you see when you open a guide is the alignment instructions you created in the PC Authoring application. The screen shot below shows the operating instructions created for the Example Guide that comes with Dynamics 365 Guides.
 
-![HoloLens alignment instructions)](media/hololens-alignment.png "HoloLens alignment instructions")
+![HoloLens alignment instructions)](media/hololens-alignment.PNG "HoloLens alignment instructions")
 
 If you chose Marker alignment as the alignment method for the guide, the next step is to align the marker hologram with the printed marker you placed in the real-world environment. The marker hologram looks like this:
 
-![Holographic marker image)](media/marker-holograph.png "Holographic marker image")
+![Holographic marker image)](media/marker-holograph.PNG "Holographic marker image")
   
 After aligning the guide, you’ll see the Marker found screen. Select the Confirm button to continue. 
 
-![Marker found holograph)](media/marker-found.png "Marker found holograph")
+![Marker found holograph)](media/marker-found.PNG "Marker found holograph")
    
 > [!NOTE]
 > If you chose Manual alignment as the alignment method for the guide, you’d align the hologram that matches the digital 3D representation that you placed in your real-world environment.
@@ -450,7 +449,7 @@ Navigate through the guide by gazing at the Next Step and Go Back arrows. You ca
 
 At the top of the Step card screen, you’ll see three holographic buttons: Undo, Redo, and Save.
 
-![HoloLens step card screen)](media/hololens-orientation.png "HoloLens step card screen")
+![HoloLens step card screen)](media/hololens-orientation.PNG "HoloLens step card screen")
  
 The Undo and Redo buttons work like Undo and Redo in any Microsoft Office program. There’s no limit to the number of times you can undo or redo. 
 
@@ -459,20 +458,20 @@ The Undo and Redo buttons work like Undo and Redo in any Microsoft Office progra
 
 The Step card also includes several other buttons and UI elements:
 
-![HoloLens buttons)](media/hololens-buttons.png "HoloLens buttons")
+![HoloLens buttons)](media/hololens-buttons.PNG "HoloLens buttons")
  
 Here’s what each button or UI element is used for:
 
 |Button|Name|Purpose|
 |-----|------------|----------------------------------------------------------------------------------------------------------------|
-|![Home button)](media/home-button.png "Home button")|Home|Choose a different guide|
-|![Profile button)](media/profile-button.png "Profile button")|Profile|Sign in and out|
-|![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- Fit box. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- Noise Cancellation.</br><br>- Dynamic Volume. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- Build number. Shows the build you’re using.|
-|![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
-|![Pin button)](media/pin-button.png "Pin button")|Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
-|![Outline button)](media/outline-button.png "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
-|![Task progress)](media/task-progress.png "Task progress")|Task Progress	|Shows where you are in the open task.|
-|![Media button)](media/media-button.png "Media button")|Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
+|![Home button)](media/home-button.PNG "Home button")|Home|Choose a different guide|
+|![Profile button)](media/profile-button.PNG "Profile button")|Profile|Sign in and out|
+|![Settings button)](media/settings-button.PNG "Settings button")|Settings|Access the following settings:</br><br>- Fit box. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- Noise Cancellation.</br><br>- Dynamic Volume. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- Build number. Shows the build you’re using.|
+|![Alignment button)](media/alignment-button.PNG "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
+|![Pin button)](media/pin-button.PNG "Pin button")|Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
+|![Outline button)](media/outline-button.PNG "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
+|![Task progress)](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
+|![Media button)](media/media-button.PNG "Media button")|Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
 
 ## Test the flow of your guide
 Once you’re oriented on HoloLens, we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you may need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles.
@@ -489,18 +488,18 @@ You don’t need to do anything to place images or videos associated with a step
 
 The 3D assets associated with each step appear below the Step card:
 
-![3D assets below Step card)](media/place-holograms.png "3D assets below Step card")
+![3D assets below Step card)](media/place-holograms.PNG "3D assets below Step card")
  
 To place them in the real world: 
 1.	Air tap an empty box under 3D parts.
 2.	Air tap a category in the 3D toolkit (an arrow or hand, for example).
 
-    ![Air tap a category)](media/airtap-category.png "Airtap a category")
+    ![Air tap a category)](media/airtap-category.PNG "Airtap a category")
 
 3.	Air tap the object you want to add.
     This item will be added to your bin.
     
-    ![3D object in bin)](media/object-in-bin.png "3D object in bin")
+    ![3D object in bin)](media/object-in-bin.PNG "3D object in bin")
 
 
 ### Manipulating holograms
@@ -515,7 +514,7 @@ To place a hologram from one of your bins:
 >[!Tip]  
 > You’ll know you’ve entered precision mode when the selection sphere turns blue.
 
-    ![Hologram selection sphere)](media/hologram-selection-sphere.png "Hologram selection sphere")
+    ![Hologram selection sphere)](media/hologram-selection-sphere.PNG "Hologram selection sphere")
 
  
 #### Rotate a hologram
@@ -533,7 +532,7 @@ To rotate a hologram:
 When rotating, it helps to think as if you are physically grabbing the knob and rotating around the object, like a wheel.
 The following screen shots show how to use the different rotation knobs:
 
-![Hologram manipulation)](media/hologram-manipulation.png "Hologram manipulation")
+![Hologram manipulation)](media/hologram-manipulation.PNG "Hologram manipulation")
  
 > [!Important]
 > To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. Learn more about calibration. 
@@ -547,13 +546,13 @@ The following screen shots show how to use the different rotation knobs:
 ## Place tethers
 You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
 
-![Holographic tether)](media/holographic-tether.png "Holographic tether")
+![Holographic tether)](media/holographic-tether.PNG "Holographic tether")
 
 To place a tether:
 1.	Tap and hold the “tether ball” below the Step card.
 2.	Place it in the real-world location that you want.
 
-    ![Place a tether)](media/place-tether.png "Place a tether")
+    ![Place a tether)](media/place-tether.PNG "Place a tether")
 
 #### Best practices for tethers
 - Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3d toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
@@ -569,15 +568,15 @@ To place a style:
 1.	Air tap a hologram you’ve already placed in the real world to select it.
 2.	Air tap the Edit Hologram (. . .) button.
 
-    ![Edit hologram button)](media/edit-hologram-button.png "Edit hologram button")
+    ![Edit hologram button)](media/edit-hologram-button.PNG "Edit hologram button")
 
 3.	Air tap Styles. 
 
-    ![Edit styles)](media/edit-styles.png "Edit styles")
+    ![Edit styles)](media/edit-styles.PNG "Edit styles")
  
 4.	Select the style you want to use.
 
-    ![List of styles)](media/styles-list.png "List of styles")
+    ![List of styles)](media/styles-list.PNG "List of styles")
  
 Here’s a list of styles included in Guides and when to use each:
 
@@ -593,7 +592,7 @@ Here’s a list of styles included in Guides and when to use each:
 |X-ray	|Show things that happen inside something	|Outline with transparent inside|
 |Metal	|Provide a realistic metal finish for an object	|Metallic|
 
-![All styles)](media/all-styles.png "All styles")
+![All styles)](media/all-styles.PNG "All styles")
  
 #### Best practices for styles
 - Use style to reinforce actions.
@@ -605,7 +604,7 @@ To navigate through a guide, you’ll use gaze and a few gestures.
 ### Gaze
 The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). If the item has a selection box, you can select the item just by gazing at the button hit zone. The item is selected when the box is filled. 
 
-![Gaze gesture)](media/gaze-gesture.png "Gaze gesture")
+![Gaze gesture)](media/gaze-gesture.PNG "Gaze gesture")
  
 In other cases, you use gaze to target an item, and then act on that selection by using a gesture. When you gaze, turn your whole head—not just your eyes. The cursor will follow. 
 
@@ -619,7 +618,7 @@ To do the bloom gesture:
 1.	Hold out your hand with your palm up and your fingertips together. 
 2.	Open your hand.
 
-![Bloom gesture)](media/bloom-gesture.png "Bloom gesture")
+![Bloom gesture)](media/bloom-gesture.PNG "Bloom gesture")
  
 #### Air tap
 Use air tap, along with gaze, to select apps and other holograms. To do an air tap:
@@ -627,7 +626,7 @@ Use air tap, along with gaze, to select apps and other holograms. To do an air t
 2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don’t need to raise your whole arm—keep your elbow low and comfortable.
 3.	Tap your finger down, then quickly raise it back up again.
 
-![Air tap gesture)](media/air-tap-gesture.png "Authoring overview")
+![Air tap gesture)](media/air-tap-gesture.PNG "Authoring overview")
  
 #### Air tap and hold
 To air tap and hold, start with an air tap, but keep your finger down instead of raising it back up again.
