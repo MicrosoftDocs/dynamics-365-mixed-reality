@@ -237,35 +237,35 @@ To place the object in HoloLens:
 2.	When prompted, use gestures to place the 3D representation directly over the physical object in your work environment.
 
 #### Best practices for manual alignment
-- Size. Select a digital twin that’s not too small or too big. 
+- **Size.** Select a digital twin that’s not too small or too big. 
   - Medium-size digital objects are best. Very small or very large holograms are difficult to manipulate. 
   - Shoebox size or slightly larger is ideal.
-- Placement. Choose a digital twin that’s as close to the center of the work being done as possible. The further you place digital content away from the digital twin, the less accurate it becomes.
-- Shape. Select a digital twin that has a non-uniform or uncommon shape. Unusual shapes are easiest to align to.
+- **Placement.** Choose a digital twin that’s as close to the center of the work being done as possible. The further you place digital content away from the digital twin, the less accurate it becomes.
+- **Shape.** Select a digital twin that has a non-uniform or uncommon shape. Unusual shapes are easiest to align to.
   - Avoid objects which are mirrored. This can cause 180-degree misalignment.
   - Pick shapes that have clear edges and corners to help orient your content properly.
-- Recognizable. Select a digital twin that’s obvious, easily recognizable, and easy for the operator to find. Make sure they can access the object without any obstructions.
-- Alignment direction. Always align the digital twin to your physical object from the same direction. This will maximize repeatability for operators.
+- **Recognizable.** Select a digital twin that’s obvious, easily recognizable, and easy for the operator to find. Make sure they can access the object without any obstructions.
+- **Alignment direction.** Always align the digital twin to your physical object from the same direction. This will maximize repeatability for operators.
   - Placement from different perspectives can cause misalignment.
   - Always look at it from multiple angles to ensure the digital twin is aligned to the physical object.
 
 #### More about alignment
 Independent from the method used for alignment, the following additional factors can impact the accuracy of the alignment and/or user perception of the alignment:
 
-- Interpupillary distance (IPD) setting. The IPD is the distance between the center of the user’s pupils. It’s crucial to set the appropriate IPD to enable HoloLens to adapt its display as different users may have different IPDs. An incorrect IPD setting might result in a wrong perception of holograms in space as well as instability of holograms. Use the HoloLens Calibration app to calibrate your IPD (https://docs.microsoft.com/en-us/windows/mixed-reality/calibration). 
-- Pre-scanning the environment. HoloLens actively scans its environment for visible features  to create maps of its surroundings. This happens whenever the device is turned on and a user is signed in. It’s independent of whether you’re in the HoloLens shell or running apps. HoloLens constantly improves the accuracy of these maps as it scans the environment from different viewpoints and stores them on the device. Holograms are placed in relation to these maps. The more accurate the map, the more accurate the hologram placement.
+- **Interpupillary distance (IPD) setting.** The IPD is the distance between the center of the user’s pupils. It’s crucial to set the appropriate IPD to enable HoloLens to adapt its display as different users may have different IPDs. An incorrect IPD setting might result in a wrong perception of holograms in space as well as instability of holograms. Use the HoloLens Calibration app to calibrate your IPD (https://docs.microsoft.com/en-us/windows/mixed-reality/calibration). 
+- **Pre-scanning the environment.** HoloLens actively scans its environment for visible features  to create maps of its surroundings. This happens whenever the device is turned on and a user is signed in. It’s independent of whether you’re in the HoloLens shell or running apps. HoloLens constantly improves the accuracy of these maps as it scans the environment from different viewpoints and stores them on the device. Holograms are placed in relation to these maps. The more accurate the map, the more accurate the hologram placement.
 Before using Guides on a HoloLens that’s unfamiliar with its environment, the user should put on the HoloLens, sign into the device and walk around the space where holograms instructions are placed or will be placed. This can be done while the user is in the HoloLens shell, but we recommend the user hide the Start menu to see the space as they walk around. Walking at a leisurely pace while slowly looking up and down will give the device the opportunity to find features and construct accurate maps. We call this "pre-scanning" because it’s done before you run Guides. You only need to do this once for each environment as HoloLens stores the maps it created on the device and remembers the spaces it has scanned.
 Very dark or very bright environments, or environments that include very reflective surfaces (mirrors), dark surfaces, or featureless surfaces, will cause a negative impact on HoloLens’s capability to recognize the space, which will impact hologram position and stability.
-- Impact of device positioning. HoloLens uses a novel display technology to project images in the user’s field of view, creating holograms. The way a user wears a device on their head has a huge impact on the perceived position of the holograms. The best way to understand this is to adjust the device positioning while aligning holograms to their physical counterparts in Guides. Observe how the alignment of holograms is affected when you shift the device left and right, up and down, and when you slide the display forward and backward. Users should wear the device in a consistent way and understand that subtle shifts in device positioning may not feel different but can lead to significant changes to perceived hologram locations.
+- **Impact of device positioning.** HoloLens uses a novel display technology to project images in the user’s field of view, creating holograms. The way a user wears a device on their head has a huge impact on the perceived position of the holograms. The best way to understand this is to adjust the device positioning while aligning holograms to their physical counterparts in Guides. Observe how the alignment of holograms is affected when you shift the device left and right, up and down, and when you slide the display forward and backward. Users should wear the device in a consistent way and understand that subtle shifts in device positioning may not feel different but can lead to significant changes to perceived hologram locations.
 
 ## Structure your guide in the Outline page
-After you choose an alignment method, you’ll see the Outline page. This is where you create the framework for your guide by adding as many tasks and steps as you need. Tasks are groups of steps. Steps are the short, discrete work items that operators do to complete the task. Steps are the central building block that everything is built around in Guides.
+After you choose an alignment method, you’ll see the Outline page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building block that everything is built around in Guides.
 
 When you open the Outline page for the first time, you’ll see that a single task and step is already created for you. 
 
 ![Create a task and step)](media/create-task.PNG "Create a task and step")
   
-To get started, enter a task name, and then start typing the instructions in the box for the first step. When you need to add a new step, select Add step. When you’re ready to add another task, select Add task. It’s that simple!
+To get started, enter a task name, and then start typing the instructions in the box for the first step. When you need to add a new step, select **Add step**. When you’re ready to add another task, select **Add task**. It’s that simple!
 
 In reality, you’ll probably create most of your steps from inside the Step card (see the next section), but the Outline page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the Outline page by dragging tasks and steps.
 
