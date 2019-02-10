@@ -296,16 +296,16 @@ In the Step card page, you write your instructional text (make sure to keep it s
 
 To add 3D content or media to support a step: 
 
-1. On the right side of the screen, select the label for the type of item you want to add (3D parts, Images, Videos, or 3D toolkit).
+1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
 
-2. Drag the object to the appropriate box below the step text. For example, to add an image or video, drag the image or video to the Image or video box. To add a 3D part or an object from the 3D toolkit , drag it to one of the 3D parts boxes. 
+2. Drag the object to the appropriate box below the step text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit , drag it to one of the **3D parts** boxes. 
 
-   ![Create a step with the Step card)](media/create-step.PNG "Create a step with the step card")
+![Create a step with the Step card)](media/create-step.PNG "Create a step with the step card")
   
 When you view your guide on the HoloLens in Authoring mode, you’ll see all the assets that you associated with the steps, and can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in HoloLens authoring. What you see in the Step card page, is very similar to what you see on the HoloLens. 
 
 #### Best practices for the Step card page
-- It’s easy to add another step from the Step card page. Just select Add new step in the lower-right corner of the page. No need to go back to the Outline page. 
+- It’s easy to add another step from the Step card page. Just select **Add new step** in the lower-right corner of the page. No need to go back to the Outline page. 
 - Don’t be afraid to add lots of steps but keep the text short. Instruction text is limited to 280 characters per step to help keep the text short.
 - Try to stick to one type of asset (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time consuming to absorb. Think about what type of content gets the point across best.
 - Write your guide in casual human language for best results. Don’t use technical jargon that people don’t know or understand.
@@ -316,11 +316,11 @@ When you view your guide on the HoloLens in Authoring mode, you’ll see all the
 - When you’re done writing a step, be sure to click outside of the text box to activate autosave. 
 
 #### Import your own custom 3D objects to add to the 3D parts list
-You can import your own 3D objects to add to the 3D parts list, and then assign parts to a step. 
+You can import your own 3D objects to add to the **3D parts** list, and then assign parts to a step. 
 
 To import your own 3D objects:
-1.	Select the Import command in the upper-right corner of the Step card screen. 
-2.	Locate the 3D object you want to import, and then select Open.
+1.	Select the **Import** command in the upper-right corner of the Step card screen. 
+2.	Locate the 3D object you want to import, and then select **Open**.
 
     ![Import custom 3D part)](media/import-3D-part.PNG "Import custom 3D part")
 
@@ -337,7 +337,7 @@ Here’s the complete list of 3D objects available in the 3D toolkit:
 You add a 3D object from the 3D toolkit in the Step card page, and then place them in HoloLens Authoring mode. You can use the same object (instance) as many times as you like in a step.
 
 To add an object from the 3D toolkit:
-1.	Select the Library tab.
+1.	Select the **Library** tab.
 2.	Select the appropriate category of objects.
 
     ![3D toolkit categories)](media/3D-toolkit-categories.PNG "3D toolkit categories")
@@ -356,12 +356,12 @@ To add an object from the 3D toolkit:
 After you create your guide, select an alignment method, and create your tasks and steps, you’re ready to test things out on the HoloLens in a real-world environment. But before you switch to HoloLens authoring, make sure to close the Guides app on the PC. 
 
 > [!Important]
-> When working between PC and HoloLens be sure to select Refresh when starting work on a device to ensure you have the latest version of the guide. 
+> When working between PC and HoloLens be sure to select **Refresh** when starting work on a device to ensure you have the latest version of the guide. 
 
 Don’t worry if your guide isn’t perfect before switching to HoloLens authoring. You can always go back to the PC application to edit and restructure your guide. In fact, we’ve found it’s generally a good idea to do a quick test of the flow on HoloLens, and then go back to the PC application to make changes before placing all your assets in HoloLens.
 
 > [!Tip]
-> If you’re creating multiple versions of the same guide, you may want to use the Save a Copy command on the File menu. This is great for guides that are similar but have a few different steps. You don’t have to start from scratch!
+> If you’re creating multiple versions of the same guide, you may want to use the **Save a Copy** command on the **File** menu. This is great for guides that are similar but have a few different steps. You don’t have to start from scratch!
 
 ## Test your guide and assign content in HoloLens Authoring mode
 The second major step in creating a guide takes place on the HoloLens application. In HoloLens Authoring mode, you:
@@ -379,13 +379,13 @@ If you haven’t already installed the HoloLens app on your HoloLens device, you
 ### Install the HoloLens app.
 1.	Make sure you have HoloLens build 10.0.14393.0 or later installed on your HoloLens. Build 10.0.14393.0 is the minimum that supports Guides. We recommend updating to newer versions when available. See Manage updates to HoloLens for instructions on using Windows Update for Business.
 2.	On your HoloLens, use the bloom gesture to open the Home menu, and then open the Microsoft Store app and search for “Guides”.
-3.	Select Install to download and install the Guides application.
+3.	Select **Install** to download and install the Guides application.
 
 ### Sign in to the HoloLens app
 If you sign in with a brand new HoloLens device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your HoloLens for use.
 
 #### Calibrate your HoloLens
-When placing holograms, it’s crucial to ensure the alignment is as close as possible. You can’t place holograms accurately if your HoloLens isn’t calibrated. Calibration is also recommended to improve the quality of the visuals or to calibrate visuals for a new user. It’s particularly important for authors to ensure that their IPD is set correctly. Otherwise, all operators using the guide will see misaligned holograms.
+When placing holograms, it’s crucial to ensure the alignment is as close as possible. You can’t place holograms accurately if your HoloLens isn’t calibrated. Calibration is also recommended to improve the quality of the visuals or to calibrate visuals for a new user. **It’s particularly important for authors to ensure that their IPD is set correctly. Otherwise, all operators using the guide will see misaligned holograms.**
 
 You can use the Calibration app that comes with HoloLens to set your IPD and ensure proper device fit. 
 
