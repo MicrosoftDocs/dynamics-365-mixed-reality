@@ -332,7 +332,8 @@ Guides comes with a library of pre-defined 3D objects included in the 3D toolkit
 Here’s the complete list of 3D objects available in the 3D toolkit:
 
 ![List of objects in 3D toolkit)](media/3D-toolkit-objects.PNG "List of objects in 3D toolkit")
- 
+
+
 You add a 3D object from the 3D toolkit in the Step card page, and then place them in HoloLens Authoring mode. You can use the same object (instance) as many times as you like in a step.
 
 To add an object from the 3D toolkit:
@@ -468,9 +469,9 @@ Here’s what each button or UI element is used for:
 |![Profile button)](media/profile-button.png "Profile button")|Profile|Sign in and out|
 |![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- Fit box. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- Noise Cancellation.</br><br>- Dynamic Volume. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- Build number. Shows the build you’re using.|
 |![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
-|![Pin button)](media/pin-button.PNG "Pin button")|Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
+|![Pin button)](media/pin-button.png "Pin button")|Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
 |![Outline button)](media/outline-button.png "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
-|![Task progress)](media/task-progress.png "Task progress")|Task Progress	|Shows where you are in the open task.|
+|![Task progress)](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 |![Media button)](media/media-button.png "Media button")|Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
 
 ## Test the flow of your guide
