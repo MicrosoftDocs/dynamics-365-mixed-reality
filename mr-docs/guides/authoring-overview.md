@@ -477,7 +477,7 @@ Here’s what each button or UI element is used for:
 ## Test the flow of your guide
 Once you’re oriented on HoloLens, we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you may need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles.
 
-When you’re ready to make the changes in the PC application, make sure to close the HoloLens app before re-opening the PC app. Don’t keep both applications open at the same. 
+When you’re ready to make the changes in the PC application, **make sure to close the HoloLens app** before re-opening the PC app. Don’t keep both applications open at the same. 
 
 ## Place your holograms and add tethers
 You’ve tested the flow of your guide and you’ve made changes in the PC application. Now you’re ready to move to the next stage of the authoring process—you’re ready to place your holograms and add tethers in the real world. 
@@ -485,14 +485,14 @@ You’ve tested the flow of your guide and you’ve made changes in the PC appli
 ### Place your holograms
 In this stage of the process, you’ll walk through each step in your guide and place any assets that you associated with that step when you authored it in the PC application. For example, if you added a 3D part to support a step, you’ll place that part over its physical counterpart in the real world. If you added a 3D object from the 3D toolkit (an arrow or a number, for example), you’ll place that object in an appropriate place in the real world to draw the user’s focus. You can place the same 3D part or 3D object as many times as you want.
 
-You don’t need to do anything to place images or videos associated with a step. They automatically appear when the operator goes to the step. They can select the Media button to close the image or video.
+You don’t need to do anything to place images or videos associated with a step. They automatically appear when the operator goes to the step. They can select the **Media** button to close the image or video.
 
 The 3D assets associated with each step appear below the Step card:
 
 ![3D assets below Step card)](media/place-holograms.PNG "3D assets below Step card")
  
 To place them in the real world: 
-1.	Air tap an empty box under 3D parts.
+1.	Air tap an empty box under **3D parts**.
 2.	Air tap a category in the 3D toolkit (an arrow or hand, for example).
 
     ![Air tap a category)](media/airtap-category.PNG "Airtap a category")
@@ -567,11 +567,11 @@ Use styles to provide visual cues for extra emphasis. For example, add the Warni
 
 To place a style:
 1.	Air tap a hologram you’ve already placed in the real world to select it.
-2.	Air tap the Edit Hologram (. . .) button.
+2.	Air tap the **Edit Hologram** (. . .) button.
 
     ![Edit hologram button)](media/edit-hologram-button.PNG "Edit hologram button")
 
-3.	Air tap Styles. 
+3.	Air tap **Styles**. 
 
     ![Edit styles)](media/edit-styles.PNG "Edit styles")
  
@@ -636,7 +636,7 @@ To air tap and hold, start with an air tap, but keep your finger down instead of
 HoloLens has sensors that can see a few feet to either side of you. When you use gestures, you'll need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor will look like a ring. When HoloLens can't see your hand, the cursor will change to a dot.
 
 #### Need a tutorial on gestures?
-For a tutorial on some basic gestures, use the bloom gesture to go to Start, and then select Learn Gestures. If you're having trouble with gestures, see HoloLens and holograms: FAQ.
+For a tutorial on some basic gestures, use the bloom gesture to go to Start, and then select **Learn Gestures**. If you're having trouble with gestures, see HoloLens and holograms: FAQ.
 
 ## Glossary
 
