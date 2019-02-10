@@ -323,18 +323,26 @@ To import your own 3D objects:
 1.	Select the Import command in the upper-right corner of the Step card screen. 
 2.	Locate the 3D object you want to import, and then select Open.
 
+![Import custom 3D part)](media/import-3D-part.png "Import custom 3D part")
+
 ### Add 3D objects from the 3D toolkit to support your steps
 Guides comes with a library of pre-defined 3D objects included in the 3D toolkit that are optimized to work perfectly with HoloLens. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
+
+![Add object from 3D toolkit)](media/add-3D-toolkit.png "Add object from 3D toolkit")
+
  
 Here’s the complete list of 3D objects available in the 3D toolkit:
- 
+
+![List of objects in 3D toolkit)](media/3D-toolkit-objects.png "List of objects in 3D toolkit")
  
 You add a 3D object from the 3D toolkit in the Step card page, and then place them in HoloLens Authoring mode. You can use the same object (instance) as many times as you like in a step.
 
 To add an object from the 3D toolkit:
 1.	Select the Library tab.
 2.	Select the appropriate category of objects.
- 
+
+![3D toolkit categories)](media/3D-toolkit-categories.png "3D toolkit categories")
+
 3.	Drag the object you want from the list to a 3D parts box below the Step card.
  
 #### Best practices for 3D toolkit
