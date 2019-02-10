@@ -329,7 +329,6 @@ To import your own 3D objects:
 Guides comes with a library of pre-defined 3D objects included in the 3D toolkit that are optimized to work perfectly with HoloLens. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
 
 ![Add object from 3D toolkit)](media/add-3D-toolkit.png "Add object from 3D toolkit")
-
  
 Here’s the complete list of 3D objects available in the 3D toolkit:
 
@@ -344,6 +343,8 @@ To add an object from the 3D toolkit:
 ![3D toolkit categories)](media/3D-toolkit-categories.png "3D toolkit categories")
 
 3.	Drag the object you want from the list to a 3D parts box below the Step card.
+
+![Drag object from 3D toolkit)](media/drag-3D-toolkit-objectw.png "Drag object from 3D toolkit")
  
 #### Best practices for 3D toolkit
 - Use pointers to communicate simple spatial information like position, direction, and translation.
@@ -369,6 +370,8 @@ The second major step in creating a guide takes place on the HoloLens applicatio
 3.	Add holographic tethers to visually tie your steps to physical objects in the real world.
 4.	Place your holographic 3D content in their relevant spaces in the real world.
 5.	Add styles (optional) to 3D content to add treatments such as a warning or caution.
+
+![Test your guide)](media/test-guide.png "Test your guide")
  
 ## Install the HoloLens app
 If you haven’t already installed the HoloLens app on your HoloLens device, you can install it from the Microsoft Store for Consumers.
@@ -389,7 +392,9 @@ You can use the Calibration app that comes with HoloLens to set your IPD and ens
 To set your IPD using the Calibration app:
 1.	Do the bloom gesture to launch the Start menu.
 2.	Air tap on Calibration to begin calibrating your HoloLens.
- 
+
+![Calibrate your HoloLens)](media/calibrate-hololens.png "Calibrate your HoloLens")
+
 3.	Follow the instructions on your HoloLens.
 
 > [!TIP]
@@ -398,10 +403,16 @@ To set your IPD using the Calibration app:
 ### Open and sign in to HoloLens for the first time
 After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
 1.	Go to Apps.
- 
+
+![HoloLens Apps selection)](media/hololens-apps.png "HoloLens Apps selection")
+
 2.	Select the down arrow.
 
+![HoloLens down arrow highlighted)](media/hololens-down-arrow.png "HoloLens down arrow highlighted")
+
 3.	Launch the Guides application.
+
+![Launch Guides)](media/launch-guides.png "Launch 'Guides")
  
 4.	On the welcome screen select Sign in. 
 5.	In the Email and accounts screen, select Work or school account, and then select Continue. 
