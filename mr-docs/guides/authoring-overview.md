@@ -417,11 +417,14 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 4.	On the welcome screen select Sign in. 
 5.	In the Email and accounts screen, select Work or school account, and then select Continue. 
 6.	In the Work or school screen, enter the email address sent to you by your organization. If you’re the administrator, use the credentials you created for the Trial subscription. 
+
+![Sign in to HoloLens)](media/sign-in-hololens.png "Sign in to HoloLens")
  
 7.	Select an instance to use if you have more than one instance, and then select Continue.
 8.	In the Select Mode dialog box, gaze at the box to the right of Author until the box fills, which selects that item. 
 
- .
+![Select Author mode)](media/author-mode.png "Select Author mode")
+
 ### Align your guide
 The first thing you see when you open a guide is the alignment instructions you created in the PC Authoring application. The screen shot below shows the operating instructions created for the Example Guide that comes with Dynamics 365 Guides.
   
