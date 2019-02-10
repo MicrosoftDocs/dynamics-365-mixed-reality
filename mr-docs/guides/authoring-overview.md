@@ -427,10 +427,16 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 
 ### Align your guide
 The first thing you see when you open a guide is the alignment instructions you created in the PC Authoring application. The screen shot below shows the operating instructions created for the Example Guide that comes with Dynamics 365 Guides.
-  
+
+![HoloLens alignment instructions)](media/hololens-alignment.png "HoloLens alignment instructions")
+
 If you chose Marker alignment as the alignment method for the guide, the next step is to align the marker hologram with the printed marker you placed in the real-world environment. The marker hologram looks like this:
+
+![Holographic marker image)](media/marker-holograph.png "Holographic marker image")
   
 After aligning the guide, you’ll see the Marker found screen. Select the Confirm button to continue. 
+
+![Marker found holograph)](media/marker-found.png "Marker found holograph")
    
 > [!NOTE]
 > If you chose Manual alignment as the alignment method for the guide, you’d align the hologram that matches the digital 3D representation that you placed in your real-world environment.
