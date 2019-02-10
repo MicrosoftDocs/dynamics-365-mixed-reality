@@ -514,7 +514,7 @@ To place a hologram from one of your bins:
 >[!Tip]  
 > You’ll know you’ve entered precision mode when the selection sphere turns blue.
 
-    ![Hologram selection sphere)](media/hologram-selection-sphere.PNG "Hologram selection sphere")
+![Hologram selection sphere)](media/hologram-selection-sphere.PNG "Hologram selection sphere")
 
  
 #### Rotate a hologram
@@ -546,7 +546,7 @@ The following screen shots show how to use the different rotation knobs:
 ## Place tethers
 You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
 
-![Holographic tether)](media/holographic-tether.PNG "Holographic tether")
+![Holographic tether)](media/hographic-tether.PNG "Holographic tether")
 
 To place a tether:
 1.	Tap and hold the “tether ball” below the Step card.
