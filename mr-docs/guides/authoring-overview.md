@@ -488,14 +488,20 @@ In this stage of the process, you’ll walk through each step in your guide and 
 You don’t need to do anything to place images or videos associated with a step. They automatically appear when the operator goes to the step. They can select the Media button to close the image or video.
 
 The 3D assets associated with each step appear below the Step card:
+
+![3D assets below Step card)](media/place-holograms.png "3D assets below Step card")
  
 To place them in the real world: 
 1.	Air tap an empty box under 3D parts.
-
 2.	Air tap a category in the 3D toolkit (an arrow or hand, for example).
 
+![Air tap a category)](media/airtap-category.png "Airtap a category")
+
 3.	Air tap the object you want to add.
-    This item will be added to your bin. 
+    This item will be added to your bin.
+    
+    ![3D object in bin)](media/object-in-bin.png "3D object in bin")
+
 
 ### Manipulating holograms
 To place a hologram from one of your bins:
@@ -507,7 +513,10 @@ To place a hologram from one of your bins:
     - To make more precise adjustments, move your hand slowly or keep it stationary to enter precision mode. This slows down the movement speed so you can nudge the hologram where you want it.
 
 >[!Tip]  
-> You’ll know you’ve entered precision mode when the selection sphere turns blue
+> You’ll know you’ve entered precision mode when the selection sphere turns blue.
+
+![Hologram selection sphere)](media/hologram-selection-sphere.png "Hologram selection sphere")
+
  
 #### Rotate a hologram
 It’s unlikely an asset will be at the correct orientation when you initially place or move it. Use the rotation adjustment knobs to rotate it the way you want.
@@ -523,6 +532,8 @@ To rotate a hologram:
 
 When rotating, it helps to think as if you are physically grabbing the knob and rotating around the object, like a wheel.
 The following screen shots show how to use the different rotation knobs:
+
+![Hologram manipulation)](media/hologram-manipulation.png "Hologram manipulation")
  
 > [!Important]
 > To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. Learn more about calibration. 
