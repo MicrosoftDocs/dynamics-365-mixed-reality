@@ -547,12 +547,13 @@ The following screen shots show how to use the different rotation knobs:
 ## Place tethers
 You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
 
- 
+![Holographic tether)](media/holographic-tether.png "Holographic tether")
 
 To place a tether:
 1.	Tap and hold the “tether ball” below the Step card.
 2.	Place it in the real-world location that you want.
 
+![Place a tether)](media/place-tether.png "Place a tether")
 
 #### Best practices for tethers
 - Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3d toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
@@ -568,9 +569,15 @@ To place a style:
 1.	Air tap a hologram you’ve already placed in the real world to select it.
 2.	Air tap the Edit Hologram (. . .) button.
 
+![Edit hologram button)](media/edit-hologram-button.png "Edit hologram button")
+
 3.	Air tap Styles. 
+
+![Edit styles)](media/edit-styles.png "Edit styles")
  
 4.	Select the style you want to use.
+
+![List of styles)](media/styles-list.png "List of styles")
  
 Here’s a list of styles included in Guides and when to use each:
 
@@ -586,7 +593,7 @@ Here’s a list of styles included in Guides and when to use each:
 |X-ray	|Show things that happen inside something	|Outline with transparent inside|
 |Metal	|Provide a realistic metal finish for an object	|Metallic|
 
-
+![All styles)](media/all-styles.png "All styles")
  
 #### Best practices for styles
 - Use style to reinforce actions.
@@ -598,7 +605,7 @@ To navigate through a guide, you’ll use gaze and a few gestures.
 ### Gaze
 The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). If the item has a selection box, you can select the item just by gazing at the button hit zone. The item is selected when the box is filled. 
 
-
+![Gaze gesture)](media/gaze-gesture.png "Gaze gesture")
  
 In other cases, you use gaze to target an item, and then act on that selection by using a gesture. When you gaze, turn your whole head—not just your eyes. The cursor will follow. 
 
