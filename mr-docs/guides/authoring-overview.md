@@ -402,7 +402,7 @@ To set your IPD using the Calibration app:
  
 ### Open and sign in to HoloLens for the first time
 After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
-1.	Go to Apps.
+1.	Go to **Apps**.
 
     ![HoloLens Apps selection)](media/hololens-apps.PNG "HoloLens Apps selection")
 
@@ -415,13 +415,13 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
     ![Launch Guides)](media/launch-guides.PNG "Launch 'Guides")
  
 4.	On the welcome screen select Sign in. 
-5.	In the Email and accounts screen, select Work or school account, and then select Continue. 
+5.	In the **Email and accounts** screen, select **Work or school account**, and then select **Continue**. 
 6.	In the Work or school screen, enter the email address sent to you by your organization. If you’re the administrator, use the credentials you created for the Trial subscription. 
 
     ![Sign in to HoloLens)](media/sign-in-hololens.PNG "Sign in to HoloLens")
  
-7.	Select an instance to use if you have more than one instance, and then select Continue.
-8.	In the Select Mode dialog box, gaze at the box to the right of Author until the box fills, which selects that item. 
+7.	Select an instance to use if you have more than one instance, and then select **Continue**.
+8.	In the **Select Mode** dialog box, gaze at the box to the right of **Author** until the box fills, which selects that item. 
 
     ![Select Author mode)](media/author-mode.PNG "Select Author mode")
 
@@ -434,28 +434,28 @@ If you chose Marker alignment as the alignment method for the guide, the next st
 
 ![Holographic marker image)](media/marker-holograph.PNG "Holographic marker image")
   
-After aligning the guide, you’ll see the Marker found screen. Select the Confirm button to continue. 
+After aligning the guide, you’ll see the **Marker found** screen. Select the **Confirm** button to continue. 
 
 ![Marker found holograph)](media/marker-found.PNG "Marker found holograph")
    
 > [!NOTE]
 > If you chose Manual alignment as the alignment method for the guide, you’d align the hologram that matches the digital 3D representation that you placed in your real-world environment.
 
-When you align your guide, the alignment information is stored on your HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time though if you feel the holograms are out of alignment. For more information, read about the Alignment button in the next section.
+When you align your guide, the alignment information is stored on your HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time though if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section.
 
 ## Get oriented on HoloLens
 After you align your guide, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card tags along with the operator to keep the instructions where they need them as they move around their work space.
 
-Navigate through the guide by gazing at the Next Step and Go Back arrows. You can also use gestures such as air tap to navigate through a guide. 
+Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap to navigate through a guide. 
 
-At the top of the Step card screen, you’ll see three holographic buttons: Undo, Redo, and Save.
+At the top of the Step card screen, you’ll see three holographic buttons: **Undo**, **Redo**, and **Save**.
 
 ![HoloLens step card screen)](media/hololens-orientation.PNG "HoloLens step card screen")
  
-The Undo and Redo buttons work like Undo and Redo in any Microsoft Office program. There’s no limit to the number of times you can undo or redo. 
+The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. There’s no limit to the number of times you can undo or redo. 
 
 > [!NOTE]
-> Changes are automatically saved as you author in HoloLens. Just be sure to select Refresh when you go back to the PC to ensure that you have the latest version of the guide.
+> Changes are automatically saved as you author in HoloLens. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
 
 The Step card also includes several other buttons and UI elements:
 
@@ -467,7 +467,7 @@ Here’s what each button or UI element is used for:
 |-----|------------|----------------------------------------------------------------------------------------------------------------|
 |![Home button)](media/home-button.png "Home button")|Home|Choose a different guide|
 |![Profile button)](media/profile-button.png "Profile button")|Profile|Sign in and out|
-|![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- Fit box. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- Noise Cancellation.</br><br>- Dynamic Volume. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- Build number. Shows the build you’re using.|
+|![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- **Noise Cancellation**.</br><br>- **Dynamic Volume**. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- **Build number**. Shows the build you’re using.|
 |![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
 |![Pin button)](media/pin-button.png "Pin button")|Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
 |![Outline button)](media/outline-button.png "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
