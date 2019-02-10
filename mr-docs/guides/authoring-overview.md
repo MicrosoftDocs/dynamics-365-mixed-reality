@@ -19,6 +19,8 @@ Supporting assets include:
 mode to test the flow of your guide, assign holographic tethers to show operators where to focus, place your holograms in the real 
 world, and add styles to 3D objects (warning or caution, for example).
 
+![Authoring overview)](media/authoring-overview.png "Authoring overview")
+
 ## Before you start
 
 Before you get started with Guides authoring, you’ll want to understand your project and get organized. Here’s a quick checklist 
@@ -78,6 +80,8 @@ shows a composite part for an engine, create separate 3D parts for all the indiv
 ## Setting up a folder structure
 To organize content, you may want to create a folder structure with separate folders for text, 3D assets, images, and videos to make 
 it easy to find and use the different types of assets.
+
+![Folder stucture)](media/folder-structure.png "Folder structure")
  
 ### Naming your files 
 When naming your content pieces, consider using standard prefixes so that all your assets are organized together in the library. 
@@ -94,13 +98,19 @@ Ready to get started with Guides authoring? Use these instructions to install th
 
 ### Sign in to the app
 1.	Launch the Guides application from the Start menu on your PC. 
-2.	Choose Sign in.
+2.	In the Welcome to Guides screen, choose Sign in.
+
+![Welcome to Guides)](media/welcome-to-guides.png "Welcome to Guides")
  
 3.	In the Sign in dialog box, select Work or school account, and then select Continue. 
 4.	In the Sign in screen, enter the User account and password assigned to you by your organization. If you’re the administrator, these are the credentials you created when you signed up for the trial subscription.
+
+![Sign-in to the PC app)](media/sign-in-pc.png "Sign in to the PC app")
  
 5.	Select the instance you want to use if there’s more than one instance, and the select Continue.
- 
+
+![Choose an instance)](media/choose-instance-pc.png "Choose an instance")
+
  
 ## 6 steps to authoring in the PC application
 You always start the authoring process for a guide in the PC application. Use the PC application to:
