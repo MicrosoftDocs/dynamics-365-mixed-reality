@@ -343,7 +343,7 @@ To add an object from the 3D toolkit:
 
 3.	Drag the object you want from the list to a 3D parts box below the Step card.
 
-    ![Drag object from 3D toolkit)](media/drag-3D-toolkit-objectw.PNG "Drag object from 3D toolkit")
+    ![Drag object from 3D toolkit)](media/drag-3D-toolkit-object.PNG "Drag object from 3D toolkit")
  
 #### Best practices for 3D toolkit
 - Use pointers to communicate simple spatial information like position, direction, and translation.
@@ -464,14 +464,14 @@ Here’s what each button or UI element is used for:
 
 |Button|Name|Purpose|
 |-----|------------|----------------------------------------------------------------------------------------------------------------|
-|![Home button)](media/home-button.PNG "Home button")|Home|Choose a different guide|
-|![Profile button)](media/profile-button.PNG "Profile button")|Profile|Sign in and out|
-|![Settings button)](media/settings-button.PNG "Settings button")|Settings|Access the following settings:</br><br>- Fit box. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- Noise Cancellation.</br><br>- Dynamic Volume. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- Build number. Shows the build you’re using.|
-|![Alignment button)](media/alignment-button.PNG "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
+|![Home button)](media/home-button.png "Home button")|Home|Choose a different guide|
+|![Profile button)](media/profile-button.png "Profile button")|Profile|Sign in and out|
+|![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- Fit box. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- Noise Cancellation.</br><br>- Dynamic Volume. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- Build number. Shows the build you’re using.|
+|![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
 |![Pin button)](media/pin-button.PNG "Pin button")|Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
-|![Outline button)](media/outline-button.PNG "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
-|![Task progress)](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
-|![Media button)](media/media-button.PNG "Media button")|Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
+|![Outline button)](media/outline-button.png "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
+|![Task progress)](media/task-progress.png "Task progress")|Task Progress	|Shows where you are in the open task.|
+|![Media button)](media/media-button.png "Media button")|Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
 
 ## Test the flow of your guide
 Once you’re oriented on HoloLens, we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you may need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles.
