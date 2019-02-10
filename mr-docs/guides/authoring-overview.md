@@ -15,7 +15,7 @@ Supporting assets include:
   - 3D objects, such as objects from the 3D toolkit (arrows and numbers, for example)
   - 2D media (images and videos)
   
-- HoloLens application in Authoring mode. After creating the guide with the PC application, use the HoloLens application in Authoring 
+- **HoloLens application in Authoring mode.** After creating the guide with the PC application, use the HoloLens application in Authoring 
 mode to test the flow of your guide, assign holographic tethers to show operators where to focus, place your holograms in the real 
 world, and add styles to 3D objects (warning or caution, for example).
 
@@ -51,7 +51,7 @@ assets for high-level principles where details aren’t as important.
 - When taking pictures, also keep in mind the perspective of the operator. It’s helpful to take the picture from the same angle 
 that the operator will use. 
 - Pictures are very efficient for identifying specific patterns, shapes, or colors.
-- For performance reasons, don’t use 4K/HD quality pictures. Total image size shouldn’t exceed 100 KB.
+- For performance reasons, don’t use 4K/HD quality pictures. **Total image size shouldn’t exceed 100 KB.**
 
 ### Best practices for videos
 - Videos are best for first-time users
@@ -86,8 +86,8 @@ it easy to find and use the different types of assets.
 ### Naming your files 
 When naming your content pieces, consider using standard prefixes so that all your assets are organized together in the library. 
 For example:
-- engine_01.png
-- engine_video01.wmv
+- eng_01.png
+- eng_video01.wmv
 
 ## Install, open, and sign in to the PC application
 Ready to get started with Guides authoring? Use these instructions to install the app (if it’s not already installed) and to sign in.
@@ -98,15 +98,15 @@ Ready to get started with Guides authoring? Use these instructions to install th
 
 ### Sign in to the app
 1.	Launch the Guides application from the Start menu on your PC. 
-2.	In the Welcome to Guides screen, choose Sign in.
+2.	In the **Welcome to Guides** screen, choose **Sign in**.
 
     ![Welcome to Guides)](media/welcome-to-guides.PNG
-3.	In the Sign in dialog box, select Work or school account, and then select Continue. 
-4.	In the Sign in screen, enter the User account and password assigned to you by your organization. If you’re the administrator, these are the credentials you created when you signed up for the trial subscription.
+3.	In the **Sign in** dialog box, select **Work or school account**, and then select **Continue**. 
+4.	In the **Sign in** screen, enter the User account and password assigned to you by your organization. If you’re the administrator, these are the credentials you created when you signed up for the trial subscription.
 
     ![Sign-in to the PC app)](media/sign-in-pc.PNG "Sign in to the PC app")
  
-5.	Select the instance you want to use if there’s more than one instance, and the select Continue.
+5.	Select the instance you want to use if there’s more than one instance, and the select **Continue**.
 
     ![Choose an instance)](media/choose-instance-pc.PNG "Choose an instance")
 
@@ -126,7 +126,7 @@ When you author a guide, all changes are saved on both the PC and HoloLens. This
 Autosave checks for changes every 4 seconds. 
 
 For public preview, there are a few things to be aware of when syncing devices:
-- As a best practice, always select Refresh before making edits on a guide when you switch between devices. This ensures you 
+- As a best practice, always select **Refresh** before making edits on a guide when you switch between devices. This ensures you 
 have the latest version of that file from the other device. 
 - If the same version of the guide is open on the PC and HoloLens, the app will automatically refresh when it detects that you've 
 made a change in the other app. For example, if you have a guide open on HoloLens and add a new step on the PC, the guide will 
@@ -137,7 +137,7 @@ it updates with the changes from HoloLens. This issue will be addressed in our n
 
 ## Create a new guide
 1.	Open the Guides app.
-2.	Select Create a new guide.
+2.	Select **Create a new guide**.
 3.	Enter a name for the guide. If you’re planning to create multiple versions of the guide, you may want to add _v2, _v3, and 
 so on as part of the name. 
 
@@ -149,13 +149,13 @@ After you name your guide, you’ll see the **Choose an alignment method** scree
 Alignment is used to spatially sync your instructions to the real world. When you align your guide, your instructions coincide 
 with the space they live in and become meaningful. The alignment acts as the anchor that all your content is centered around.
 
-- With Marker alignment (recommended), you attach a printed marker to a physical object in the real world. After creating the guide, 
+- With **Marker alignment** (recommended), you attach a printed marker to a physical object in the real world. After creating the guide, 
 to align the guide in the real world, you gaze at the marker using the HoloLens.
-- With Manual alignment, you import a 3D representation (such as a CAD model or scanned model), and then lay that representation, 
+- With **Manual alignment**, you import a 3D representation (such as a CAD model or scanned model), and then lay that representation, 
 called a “digital twin”, directly over a physical object in the real world. After creating the guide, to align it in the real world, 
 you use a gesture.
 
-It’s extremely important to ensure that the alignment is correct and as precise as possible. If alignment is not correct, your 
+**It’s extremely important to ensure that the alignment is correct and as precise as possible.** If alignment is not correct, your 
 instructions can cause operator confusion and potentially costly damage. For example, an operator could drill a hole in the wrong 
 place or assemble the wrong part. 
 
