@@ -14,7 +14,7 @@ The second major step in creating a guide in Microsoft Dynamics 365 Guides takes
 If you haven’t already installed the HoloLens app on your HoloLens device, you can install it from the Microsoft Store for Consumers.
 
 ### Install the HoloLens app.
-1.	Make sure you have HoloLens build 10.0.14393.0 or later installed on your HoloLens. Build 10.0.14393.0 is the minimum that supports Guides. We recommend updating to newer versions when available. See Manage updates to HoloLens for instructions on using Windows Update for Business.
+1.	Make sure you have HoloLens build 10.0.14393.0 or later installed on your HoloLens. Build 10.0.14393.0 is the minimum that supports Guides. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 2.	On your HoloLens, use the bloom gesture to open the Home menu, and then open the Microsoft Store app and search for “Guides”.
 3.	Select **Install** to download and install the Guides application.
 
@@ -172,7 +172,7 @@ The following screen shots show how to use the different rotation knobs:
 ![Hologram manipulation)](media/hologram-manipulation.PNG "Hologram manipulation")
  
 > [!Important]
-> To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. Learn more about calibration. 
+> To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. 
 
 ### Best practices for working with 3D content
 - Make sure that the 3D content is not in the way of the operator doing the task. 
