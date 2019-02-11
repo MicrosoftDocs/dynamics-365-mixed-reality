@@ -1,5 +1,14 @@
+# Test your guide and place holograms and styles in the Dynamics 365 Guides HoloLens application
 
+The second major step in creating a guide in Microsoft Dynamics 365 Guides takes place on the HoloLens application. In HoloLens Authoring mode, you:
 
+1.	Align your guide to a marker or a digital twin, depending on the type of alignment you chose in the PC application.
+2.	Test the flow of your guide.
+3.	Add holographic tethers to visually tie your steps to physical objects in the real world.
+4.	Place your holographic 3D content in their relevant spaces in the real world.
+5.	Add styles (optional) to 3D content to add treatments such as a warning or caution.
+
+    ![Test your guide)](media/test-guide.PNG "Test your guide")
 
 ## Install the HoloLens app
 If you haven’t already installed the HoloLens app on your HoloLens device, you can install it from the Microsoft Store for Consumers.
@@ -53,7 +62,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 
     ![Select Author mode)](media/author-mode.PNG "Select Author mode")
 
-### Align your guide
+## Align your guide
 The first thing you see when you open a guide is the alignment instructions you created in the PC Authoring application. The screen shot below shows the operating instructions created for the Example Guide that comes with Dynamics 365 Guides.
 
 ![HoloLens alignment instructions)](media/hololens-alignment.PNG "HoloLens alignment instructions")
@@ -107,8 +116,8 @@ Once you’re oriented on HoloLens, we recommend that you go through your whole 
 
 When you’re ready to make the changes in the PC application, **make sure to close the HoloLens app** before re-opening the PC app. Don’t keep both applications open at the same. 
 
-## Place your holograms and add tethers
-You’ve tested the flow of your guide and you’ve made changes in the PC application. Now you’re ready to move to the next stage of the authoring process—you’re ready to place your holograms and add tethers in the real world. 
+## Place your holograms
+You’ve tested the flow of your guide and you’ve made changes in the PC application. Now you’re ready to move to the next stage of the authoring process—you’re ready to place your holograms. 
 
 ### Place your holograms
 In this stage of the process, you’ll walk through each step in your guide and place any assets that you associated with that step when you authored it in the PC application. For example, if you added a 3D part to support a step, you’ll place that part over its physical counterpart in the real world. If you added a 3D object from the 3D toolkit (an arrow or a number, for example), you’ll place that object in an appropriate place in the real world to draw the user’s focus. You can place the same 3D part or 3D object as many times as you want.
@@ -166,7 +175,7 @@ The following screen shots show how to use the different rotation knobs:
 > [!Important]
 > To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. Learn more about calibration. 
 
-#### Best practices for working with 3D content
+### Best practices for working with 3D content
 - Make sure that the 3D content is not in the way of the operator doing the task. 
 - Keep the field of view in mind when placing assets. If you put a hologram behind someone, it will be very hard to find. 
 - Use 3D content sparingly and with a clear goal. Too much content can clutter the instructions and make it harder to follow.
@@ -183,7 +192,7 @@ To place a tether:
 
     ![Place a tether)](media/place-tether.PNG "Place a tether")
 
-#### Best practices for tethers
+### Best practices for tethers
 - Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3d toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
 - To make a tether appear to be more precise, use a 3D object like a circle or arrow to show exactly where the tether is pointing.
 
@@ -223,6 +232,6 @@ Here’s a list of styles included in Guides and when to use each:
 
 ![All styles)](media/all-styles.PNG "All styles")
  
-#### Best practices for styles
+### Best practices for styles
 - Use style to reinforce actions.
 - Use styles only for the purpose they were intended. When operators learn the visual language of styles, they’ll know that a particular style means a certain thing, which will speed up the learning process. 
