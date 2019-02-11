@@ -1,6 +1,6 @@
 
 
-# Gestures you can use when authoring a guide in Dynamics 365 Guides
+# Gestures you can use to author and navigate a guide in Dynamics 365 Guides
 
 To author and navigate through a guide in Microsoft Dynamics 365 Guides, you’ll use gaze and a few gestures.
 
