@@ -3,7 +3,7 @@
 
 ## Overview of authoring a guide
 
-If you're ready to start creating a guide with Microsoft Dynamics 365 Guides, you're in the right place! This Authoring guide covers everything you need to get started with authoring. 
+If you're ready to start creating a guide with Microsoft Dynamics 365 Guides, you're in the right place! 
 
 To create a guide, you’ll use two applications:
 
@@ -20,6 +20,13 @@ mode to test the flow of your guide, assign holographic tethers to show operator
 world, and add styles to 3D objects (warning or caution, for example).
 
 ![Authoring overview)](media/authoring-overview.PNG "Authoring overview")
+
+Ready to get started? Choose one of these links:
+
+- [Learn about things to know before getting started on authoring](before-you-start.md)
+- [Learn the how-to's of the PC authoring application](pc-authoring.md)
+- [Learn the how-to's of HoloLens authoring](hololens-authoring.md)
+- [Learn about gestures you can use while authoring)(gestures.md)
 
 ## Before you start
 
