@@ -200,7 +200,7 @@ To get started, enter a task name, and then start typing the instructions in the
 In reality, you’ll probably create most of your steps from inside the Step card (see the next section), but the Outline page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the Outline page by dragging tasks and steps.
 
 In addition to tasks and steps, the Outline page shows:
-- The type of alignment you chose for the guide, along with customizable operator instructions.
+- Customizable operator instructions.
 - A special step called a Completion step that lets operators know when they’ve reached the end of the guide. The Completion step includes default text that you can customize as you see fit.
 
   ![Outline page)](media/outline-page.PNG "Outline page")
@@ -283,7 +283,7 @@ To add an object from the 3D toolkit:
 - Adjust the size of the pointer but never go below 1 cm. Otherwise, it can cause errors.
 
 ## What's next?
-After you create your guide, select an alignment method, and create your tasks and steps, you’re ready to test things out on the HoloLens in a real-world environment. But before you switch to HoloLens authoring, make sure to close the Guides app on the PC. 
+After you create your guide, select an alignment method, and create your tasks and steps, you’re ready to test things out on the HoloLens in a real-world environment.
 
 > [!Important]
 > When working between PC and HoloLens be sure to select **Refresh** when starting work on a device to ensure you have the latest version of the guide. 
