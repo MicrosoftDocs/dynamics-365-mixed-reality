@@ -1,7 +1,7 @@
 
 
 
-## Overview of authoring a guide
+# Overview of authoring a guide using Dynamics 365 Guides
 
 If you're ready to start creating a guide with Microsoft Dynamics 365 Guides, you're in the right place! 
 
