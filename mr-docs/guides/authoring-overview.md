@@ -3,7 +3,7 @@
 
 ## Overview of authoring a guide
 
-If you're ready to start creating a guide with Microsoft Dynamics 365 Guides, you're in the right place! This User Guide covers everything you need to get started with Guides authoring. 
+If you're ready to start creating a guide with Microsoft Dynamics 365 Guides, you're in the right place! This User Guide covers everything you need to get started with authoring. 
 
 To create a guide, you’ll use two applications:
 
