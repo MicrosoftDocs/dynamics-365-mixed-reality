@@ -5,10 +5,10 @@
 When you're working with Dynamics 365 Guides, you may find this glossary of terms helpful.
 
 ## Air tap
-Air tap is a type of gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see Gestures to know.
+Air tap is a type of gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
 
 ## Alignment
-You align a guide in HoloLens to make sure the content “lines up” with associated objects in the real world. Alignment is crucial and mandatory for creating any guide. For more information, see Align your guide.
+You align a guide in HoloLens to make sure the content “lines up” with associated objects in the real world. Alignment is crucial and mandatory for creating any guide. For more information, see [Align your guide](pc-authoring.md).
 
 ## Asset
 Asset is the collective term used to refer to the complete set of objects that you can add to a step to support that step. Assets include 2D objects (images and videos) and 3D objects (3D parts and objects from the 3D toolkit). 
@@ -17,7 +17,7 @@ Asset is the collective term used to refer to the complete set of objects that y
 The author is the person who creates a guide.
 
 ## Calibration
-The HoloLens device must be calibrated correctly so that the guide aligns properly in the real world. Proper calibration is also necessary to place holographic objects in HoloLens Authoring mode. HoloLens includes a Calibration app that can be used by authors and operators for this purpose. Learn more about calibrating HoloLens.
+The HoloLens device must be calibrated correctly so that the guide aligns properly in the real world. Proper calibration is also necessary to place holographic objects in HoloLens Authoring mode. HoloLens includes a Calibration app that can be used by authors and operators for this purpose. [Learn more about calibrating HoloLens](pc-authoring.md).
 
 ## 3D toolkit
 Guides comes with a set of 3D objects that you can use to get started right away. For example, there are 3D objects such as pointers and arrows that you add to a step to support that step.
@@ -35,10 +35,10 @@ Use the Fix box setting to make sure the HoloLens device fits properly. A proper
 Gaze refers to looking at a target with the HoloLens. After targeting an object with gaze, you typically act on it with a gesture.
 
 ## Gesture
-Hand gestures enable operators to do actions in mixed reality. For more information, see Gestures to know.
+Hand gestures enable operators to do actions in mixed reality. For more information, see [Gestures to know](authoring-gestures.md).
 
 ## IPD
-Interpupillary distance (IPD) is the distance between a user’s eyes. Different users have different IPDs. To align content correctly, the HoloLens needs to be calibrated for each user’s IPD. Learn more about calibrating HoloLens.
+Interpupillary distance (IPD) is the distance between a user’s eyes. Different users have different IPDs. To align content correctly, the HoloLens needs to be calibrated for each user’s IPD. [Learn more about calibrating HoloLens](pc-authoring.md).
 
 ## Marker
 A marker is a computer-generated visual used for one type of alignment. You gaze at the marker to align the guide with its spatial coordinates.
@@ -53,7 +53,7 @@ Use the outline page in the PC Authoring application to add tasks and steps. Fro
 A step is a short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
 
 ## Step card
-The Step card is the fundamental building block in Guides. You add text and supporting assets to a Step card in the PC Authoring application, and then place holograms associated with each step in a real-world environment in HoloLens Authoring mode. The operator works through each step to complete a task or series of tasks. Learn more about Step cards.
+The Step card is the fundamental building block in Guides. You add text and supporting assets to a Step card in the PC Authoring application, and then place holograms associated with each step in a real-world environment in HoloLens Authoring mode. The operator works through each step to complete a task or series of tasks. [Learn more about Step cards](pc-authoring.md).
 
 ## Style
 You can add a style to any 3D object to reinforce what you want the operator to do or know. Examples of styles include Pick up, Place, and Caution.
