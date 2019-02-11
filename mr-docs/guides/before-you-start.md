@@ -3,7 +3,7 @@
 
 # Before you start with Guides authoring
 
-Before you get started with Guides authoring, you’ll want to understand your project and get organized. Here’s a quick checklist 
+Before you get started with Microsoft Dynamics 365 Guides authoring, you’ll want to understand your project and get organized. Here’s a quick checklist 
 to start you out on the right foot:
 
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 
