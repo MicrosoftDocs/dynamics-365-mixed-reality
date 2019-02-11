@@ -6,7 +6,7 @@
 ### [Before you start](before-you-start.md)
 ### [Author in the PC application](pc-authoring.md)
 ### [Test and place holograms with the HoloLens application](hololens-authoring.md)
-### [Gestures for authoring](authoring-gestures.md)
+### [Gestures for authoring and navigating](authoring-gestures.md)
 ## [Operate a guide](operating.md)
 ## [Analyze your guides](analyzing.md)
 ## [Glossary of terms](glossary.md)
