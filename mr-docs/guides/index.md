@@ -2,9 +2,9 @@
 author: anhaman
 description: Overview of Dynamics 365 Guides
 ms.author: anhaman
-ms.date: 11/21/2018
+ms.date: 02/24/2018
 ms.service: crm-online
-ms.topic: article
+ms.topic: overview
 title: Overview of Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
