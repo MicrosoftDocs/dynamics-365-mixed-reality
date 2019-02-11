@@ -1,4 +1,4 @@
-# Test your guide and place holograms and styles in the Dynamics 365 Guides HoloLens application
+# Test and place hologrmas using HoloLens Author mode
 
 The second major step in creating a guide in Microsoft Dynamics 365 Guides takes place on the HoloLens application. In HoloLens Authoring mode, you:
 
