@@ -1,7 +1,7 @@
 
 
 
-## Before you start
+# Before you start with Guides authoring
 
 Before you get started with Guides authoring, you’ll want to understand your project and get organized. Here’s a quick checklist 
 to start you out on the right foot:
