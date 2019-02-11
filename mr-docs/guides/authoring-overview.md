@@ -26,7 +26,7 @@ Ready to get started? Choose one of these links:
 - [Learn about things to know before getting started on authoring](before-you-start.md)
 - [Learn the how-to's of the PC authoring application](pc-authoring.md)
 - [Learn the how-to's of HoloLens authoring](hololens-authoring.md)
-- [Learn about gestures you can use while authoring](gestures.md)
+- [Learn about gestures you can use while authoring](authoring-gestures.md)
 
 ## Before you start
 
