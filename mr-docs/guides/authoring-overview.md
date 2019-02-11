@@ -1,5 +1,13 @@
-
-
+---
+author: anhaman
+description: Overview of authoring in Dynamics 365 Guides, including PC authoring and HoloLens authoring
+ms.author: anhaman
+ms.date: 02/24/2018
+ms.service: crm-online
+ms.topic: article
+title: Overview of authoring in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
 # Overview of authoring a guide in Dynamics 365 Guides
 
