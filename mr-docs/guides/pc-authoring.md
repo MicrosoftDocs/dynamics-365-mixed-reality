@@ -2,10 +2,16 @@
 
 # Use the PC authoring application to create a guide using Dynamics 365 Guides
 
+Use the PC authoring appilcation in Dynamics 365 Guides to create the guide, choose an alignment method, 
+add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
+Supporting assets include:
 
+  - 3D parts
+  - 3D objects, such as objects from the 3D toolkit (arrows and numbers, for example)
+  - 2D media (images and videos)
 
 ## Install, open, and sign in to the PC application
-Ready to get started with Guides authoring? Use these instructions to install the app (if it’s not already installed) and to sign in.
+Use these instructions to install the app (if it’s not already installed) and to sign in.
 
 ### Install the app 
 1.	On your Windows 10 PC, make sure you have the Windows 10 Fall Creators Update 1709 or later installed (build 10.0.16299 or later).
@@ -164,7 +170,7 @@ To place the object in HoloLens:
   - Placement from different perspectives can cause misalignment.
   - Always look at it from multiple angles to ensure the digital twin is aligned to the physical object.
 
-#### More about alignment
+### More about alignment
 Independent from the method used for alignment, the following additional factors can impact the accuracy of the alignment and/or user perception of the alignment:
 
 - **Interpupillary distance (IPD) setting.** The IPD is the distance between the center of the user’s pupils. It’s crucial to set the appropriate IPD to enable HoloLens to adapt its display as different users may have different IPDs. An incorrect IPD setting might result in a wrong perception of holograms in space as well as instability of holograms. Use the HoloLens Calibration app to calibrate your IPD (https://docs.microsoft.com/en-us/windows/mixed-reality/calibration). 
@@ -204,7 +210,7 @@ Here’s the Outline page for the Example Guide to show what a completed Outline
 
 ![Finished Outline page from Example guide)](media/finished-outline-page.PNG "Finished Outline page from Example guide")
   
-### Create steps and assign assets in the Step card page
+## Create steps and assign assets in the Step card page
 You can create steps in the Outline page, but you’ll probably create most of your steps from the WYSIWYG Step card page.  and assign supporting assets for that step, like 3D content or media (images and videos). 
 
 In the Step card page, you write your instructional text (make sure to keep it short!) and assign supporting assets for that step, like 3D content or media (image or video). 
@@ -219,7 +225,7 @@ To add 3D content or media to support a step:
   
 When you view your guide on the HoloLens in Authoring mode, you’ll see all the assets that you associated with the steps, and can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in HoloLens authoring. What you see in the Step card page, is very similar to what you see on the HoloLens. 
 
-#### Best practices for the Step card page
+### Best practices for the Step card page
 - It’s easy to add another step from the Step card page. Just select **Add new step** in the lower-right corner of the page. No need to go back to the Outline page. 
 - Don’t be afraid to add lots of steps but keep the text short. Instruction text is limited to 280 characters per step to help keep the text short.
 - Try to stick to one type of asset (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time consuming to absorb. Think about what type of content gets the point across best.
@@ -230,7 +236,7 @@ When you view your guide on the HoloLens in Authoring mode, you’ll see all the
 - Adding numbered small steps inside a step can sometimes help, but don’t be afraid to create separate steps for easier reading.
 - When you’re done writing a step, be sure to click outside of the text box to activate autosave. 
 
-#### Import your own custom 3D objects to add to the 3D parts list
+### Import your own custom 3D objects to add to the 3D parts list
 You can import your own 3D objects to add to the **3D parts** list, and then assign parts to a step. 
 
 To import your own 3D objects:
@@ -261,13 +267,13 @@ To add an object from the 3D toolkit:
 
     ![Drag object from 3D toolkit)](media/drag-3D-toolkit-object.PNG "Drag object from 3D toolkit")
  
-#### Best practices for 3D toolkit
+### Best practices for 3D toolkit
 - Use pointers to communicate simple spatial information like position, direction, and translation.
 - Use the arrow when you want the operator to insert a part into something stationary (hand tightening a bolt into a tapped hole, for example). 
 - Use one of the hand poses when you want the operator to use their hand in a specific way to influence or manipulate something. There are various poses for specific interactions such as Pull, Push, Pinch, Grab, and others. Combine these standards with arrows and/or icons to add additional meaning.
 - Adjust the size of the pointer but never go below 1 cm. Otherwise, it can cause errors.
 
-## Ready to test your guide out in the real world?
+## What's next?
 After you create your guide, select an alignment method, and create your tasks and steps, you’re ready to test things out on the HoloLens in a real-world environment. But before you switch to HoloLens authoring, make sure to close the Guides app on the PC. 
 
 > [!Important]
@@ -278,13 +284,5 @@ Don’t worry if your guide isn’t perfect before switching to HoloLens authori
 > [!Tip]
 > If you’re creating multiple versions of the same guide, you may want to use the **Save a Copy** command on the **File** menu. This is great for guides that are similar but have a few different steps. You don’t have to start from scratch!
 
-## Test your guide and assign content in HoloLens Authoring mode
-The second major step in creating a guide takes place on the HoloLens application. In HoloLens Authoring mode, you:
-1.	Align your guide to a marker or a digital twin, depending on the type of alignment you chose in the PC application.
-2.	Test the flow of your guide.
-3.	Add holographic tethers to visually tie your steps to physical objects in the real world.
-4.	Place your holographic 3D content in their relevant spaces in the real world.
-5.	Add styles (optional) to 3D content to add treatments such as a warning or caution.
 
-    ![Test your guide)](media/test-guide.PNG "Test your guide")
  
