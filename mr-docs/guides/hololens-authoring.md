@@ -234,3 +234,20 @@ Here’s a list of styles included in Guides and when to use each:
 ### Best practices for styles
 - Use style to reinforce actions.
 - Use styles only for the purpose they were intended. When operators learn the visual language of styles, they’ll know that a particular style means a certain thing, which will speed up the learning process. 
+
+## What's next?
+
+To learn more about Dynamics 365 Guides, here are some helpful links:
+
+- [Use a guide as an operator](operator-guide.md)
+- [Analyze your guides to improve efficiences](analytics-guide.md)
+- [FAQ](faq.md)
+
+To learn more about Microsoft mixed reality apps and HoloLens, here are some helpful links: 
+
+- [What is mixed reality](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)?
+- [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
+- [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/)
+- [Connect to Wi-Fi on HoloLens](https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens)
+- [Calibrate your HoloLens](https://docs.microsoft.com/en-us/windows/mixed-reality/calibration)
+- [Using the Windows Device Portal](https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-device-portal)
