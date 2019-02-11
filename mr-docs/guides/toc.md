@@ -2,7 +2,7 @@
 ## [Overview](index.md)
 ## [Sign up for public preview](setup.md)
 ## [Get started](get-started.md)
-## [Author a guide](authoring-overview.md)
+## [Author a guide (overview)](authoring-overview.md)
 ### [Before you start](before-you-start.md)
 ### [Author in the PC application](pc-authoring.md)
 ### [Author in HoloLens](hololens-authoring.md)
