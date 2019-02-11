@@ -1,5 +1,13 @@
-
-
+---
+author: anhaman
+description: Things to keep in mind before you start authoring in Dynamics 365 Guides, including media and file naming.
+ms.author: anhaman
+ms.date: 02/24/2018
+ms.service: crm-online
+ms.topic: article
+title: Things to keep in mind before you start authoring in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
 # Before you start with Guides authoring
 
