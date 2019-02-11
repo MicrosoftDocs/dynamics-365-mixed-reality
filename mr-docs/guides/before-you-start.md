@@ -51,7 +51,7 @@ using video captions, if available, for noisy environments.
 ### Best practices for 3D content
 3D content is best for adding in-context clarity. Guides includes a 3D toolkit that includes 3D models that you can use to add 
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
-optimized for HoloLens. For more information, see Add 3D objects to support your steps.
+optimized for HoloLens. For more information, see [Add 3D objects to support your steps](pc-authoring.md).
 
 You can also create and import your own custom 3D parts. If you use custom 3D parts, make sure to optimize it as much as possible 
 before importing it to Guides. It’s also good to break up 3D parts as much as possible. For example, if you have a 3D model that 
