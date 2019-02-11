@@ -5,7 +5,7 @@
 ## [Author a guide (overview)](authoring-overview.md)
 ### [Before you start](before-you-start.md)
 ### [Author in the PC application](pc-authoring.md)
-### [Author in HoloLens](hololens-authoring.md)
+### [Test and place holograms with the HoloLens application](hololens-authoring.md)
 ### [Gestures for authoring](authoring-gestures.md)
 ## [Operate a guide](operating.md)
 ## [Analyze your guides](analyzing.md)
