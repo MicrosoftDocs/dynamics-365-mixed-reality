@@ -46,7 +46,7 @@ To set your IPD using the Calibration app:
 3.	Follow the instructions on your HoloLens.
 
 > [!TIP]
-> If you’re sharing a HoloLens device, learn about how you use the Windows Device Portal to avoid having to re-calibrate the HoloLens each time you switch users. 
+> If you’re sharing a HoloLens device, learn about how you [use the Windows Device Portal](windows-device-portal) to avoid having to re-calibrate the HoloLens each time you switch users. 
  
 ### Open and sign in to HoloLens for the first time
 After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
@@ -64,7 +64,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
  
 4.	On the welcome screen select Sign in. 
 5.	In the **Email and accounts** screen, select **Work or school account**, and then select **Continue**. 
-6.	In the Work or school screen, enter the email address sent to you by your organization. If you’re the administrator, use the credentials you created for the Trial subscription. 
+6.	In the Work or school screen, enter the credentials you created during the trial sign-up or the credentials provided to you by the administrator who installed the app. 
 
     ![Sign in to HoloLens)](media/sign-in-hololens.PNG "Sign in to HoloLens")
  
@@ -115,7 +115,7 @@ Here’s what each button or UI element is used for:
 |-----|------------|----------------------------------------------------------------------------------------------------------------|
 |![Home button)](media/home-button.png "Home button")|Home|Choose a different guide|
 |![Profile button)](media/profile-button.png "Profile button")|Profile|Sign in and out|
-|![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- **Noise Cancellation**.</br><br>- **Dynamic Volume**. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- **Build number**. Shows the build you’re using.|
+|![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- **Noise Cancellation**. If the environment is very noisy, this setting adjusts sensitivity to voice commands so the operator doesn't have to shout.</br><br>- **Dynamic Volume**. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- **Build number**. Shows the build you’re using.|
 |![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
 |![Pin button)](media/pin-button.png "Pin button")|Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
 |![Outline button)](media/outline-button.png "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
@@ -123,9 +123,7 @@ Here’s what each button or UI element is used for:
 |![Media button)](media/media-button.png "Media button")|Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
 
 ## Test the flow of your guide
-Once you’re oriented on HoloLens, we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you may need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles.
-
-When you’re ready to make the changes in the PC application, **make sure to close the HoloLens app** before re-opening the PC app. Don’t keep both applications open at the same. 
+Once you’re oriented on HoloLens, we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you may need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
 
 ## Place your holograms
 You’ve tested the flow of your guide and you’ve made changes in the PC application. Now you’re ready to move to the next stage of the authoring process—you’re ready to place your holograms. 
@@ -149,6 +147,8 @@ To place them in the real world:
     
     ![3D object in bin)](media/object-in-bin.PNG "3D object in bin")
 
+> [!NOTE]
+> You can add 3D parts in two ways. You can add them in the PC application, and then place them on the HoloLens, or you can add and place them directly on the HoloLens as described above.
 
 ### Manipulating holograms
 To place a hologram from one of your bins:
@@ -204,7 +204,6 @@ To place a tether:
 
 ### Best practices for tethers
 - Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3d toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
-- To make a tether appear to be more precise, use a 3D object like a circle or arrow to show exactly where the tether is pointing.
 
 ## Add styles for emphasis
 Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
@@ -233,8 +232,8 @@ Here’s a list of styles included in Guides and when to use each:
 |Original|Restore to original appearance	|Default appearance|
 |Pick up	|Tell the operator to pick up something	|Outline|
 |Place	|Show the operator where to place something	|Dotted line|
-|See-through 1	|Show something without obscuring the operator’s view	|Transparent 50%|
-|See-through 2	|Layer one thing on top of another so the operator can see through two layers	|More transparent 25%|
+|See-through 1	|Show something without obscuring the operator’s view	|50% transparent|
+|See-through 2	|Layer one thing on top of another so the operator can see through two layers	|75% transparent|
 |Warning	|Warn about a safety or quality concern	|Yellow and black striped|
 |Avoid	|Show areas or things to avoid	|Red flashing|
 |X-ray	|Show things that happen inside something	|Outline with transparent inside|
