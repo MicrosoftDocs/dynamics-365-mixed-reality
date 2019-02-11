@@ -3,7 +3,7 @@
 
 ## Overview of Guides authoring
 
-Welcome to Guides authoring! This User Guide covers everything you need to get started with Guides authoring. 
+Welcome to Guides! This User Guide covers everything you need to get started with Guides authoring. 
 
 To create a guide, you’ll use two applications:
 
