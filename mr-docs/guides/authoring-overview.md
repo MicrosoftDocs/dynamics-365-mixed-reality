@@ -21,7 +21,7 @@ world, and add styles to 3D objects (warning or caution, for example).
 
 ![Authoring overview)](media/authoring-overview.PNG "Authoring overview")
 
-Ready to get started? Choose one of these links:
+Ready to get started? Choose one of these links to get under way:
 
 - [Learn about things to know before getting started on authoring](before-you-start.md)
 - [Learn the how-to's of the PC authoring application](pc-authoring.md)
