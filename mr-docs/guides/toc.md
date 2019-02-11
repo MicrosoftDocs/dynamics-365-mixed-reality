@@ -12,4 +12,5 @@
 ## [Glossary of terms](glossary.md)
 ## [Known issues](known-issues.md)
 ## [FAQ](faq.md)
+## [Terms of use](terms-of-use.md)
 
