@@ -1,5 +1,8 @@
 
 
+# Use the PC authoring application to create a guide using Dynamics 365 Guides
+
+
 
 ## Install, open, and sign in to the PC application
 Ready to get started with Guides authoring? Use these instructions to install the app (if it’s not already installed) and to sign in.
