@@ -38,5 +38,5 @@ To air tap and hold, start with an air tap, but keep your finger down instead of
 HoloLens has sensors that can see a few feet to either side of you. When you use gestures, you'll need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor will look like a ring. When HoloLens can't see your hand, the cursor will change to a dot.
 
 ### Need a tutorial on gestures?
-For a tutorial on some basic gestures, use the bloom gesture to go to Start, and then select **Learn Gestures**. If you're having trouble with gestures, see HoloLens and holograms: FAQ.
+For a tutorial on some basic gestures, use the bloom gesture to go to Start, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/en-us/help/13456/hololens-and-holograms-faq).
 
