@@ -119,7 +119,6 @@ When you’re ready to make the changes in the PC application, **make sure to cl
 ## Place your holograms
 You’ve tested the flow of your guide and you’ve made changes in the PC application. Now you’re ready to move to the next stage of the authoring process—you’re ready to place your holograms. 
 
-### Place your holograms
 In this stage of the process, you’ll walk through each step in your guide and place any assets that you associated with that step when you authored it in the PC application. For example, if you added a 3D part to support a step, you’ll place that part over its physical counterpart in the real world. If you added a 3D object from the 3D toolkit (an arrow or a number, for example), you’ll place that object in an appropriate place in the real world to draw the user’s focus. You can place the same 3D part or 3D object as many times as you want.
 
 You don’t need to do anything to place images or videos associated with a step. They automatically appear when the operator goes to the step. They can select the **Media** button to close the image or video.
