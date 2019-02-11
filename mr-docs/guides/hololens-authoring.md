@@ -1,3 +1,14 @@
+---
+author: anhaman
+description: Test and place holograms using the HoloLens application in Author mode (Dynamics 365 Guides)
+ms.author: anhaman
+ms.date: 02/24/2019
+ms.service: crm-online
+ms.topic: article
+title: Test and place holograms using HoloLens Author mode (Dynamics 365 Guides)
+ms.reviewer: v-brycho
+---
+
 # Test and place holograms using HoloLens Author mode
 
 The second major step in creating a guide in Microsoft Dynamics 365 Guides takes place on the HoloLens application. In HoloLens Authoring mode, you:
