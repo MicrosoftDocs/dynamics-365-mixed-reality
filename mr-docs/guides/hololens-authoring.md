@@ -91,7 +91,7 @@ After aligning the guide, you’ll see the **Marker found** screen. Select the *
 ![Marker found holograph)](media/marker-found.PNG "Marker found holograph")
    
 > [!NOTE]
-> If you chose Manual alignment as the alignment method for the guide, you’d align the hologram that matches the digital 3D representation that you placed in your real-world environment.
+> If you chose Manual alignment as the alignment method for the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
 
 When you align your guide, the alignment information is stored on your HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time though if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section.
 
