@@ -34,7 +34,10 @@ To install the HoloLens app:
 If you sign in with a brand new HoloLens device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your HoloLens for use.
 
 #### Calibrate your HoloLens
-When placing holograms, it’s crucial to ensure the alignment is as close as possible. You can’t place holograms accurately if your HoloLens isn’t calibrated. Calibration is also recommended to improve the quality of the visuals or to calibrate visuals for a new user. **It’s particularly important for authors to ensure that their IPD is set correctly. Otherwise, all operators using the guide will see misaligned holograms.**
+When placing holograms, it’s crucial to ensure the alignment is as close as possible. You can’t place holograms accurately if your HoloLens isn’t calibrated. Calibration is also recommended to improve the quality of the visuals or to calibrate visuals for a new user.
+
+> [!IMPORTANT]
+> It’s particularly important for authors to ensure that their IPD is set correctly. Otherwise, all operators using the guide will see misaligned holograms.
 
 You can use the Calibration app that comes with HoloLens to set your IPD and ensure proper device fit. 
 
