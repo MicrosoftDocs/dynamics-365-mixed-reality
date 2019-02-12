@@ -309,7 +309,7 @@ After you create your guide, select an alignment method, and create your tasks a
 > [!Important]
 > When working between PC and HoloLens be sure to select **Refresh** when starting work on a device to ensure you have the latest version of the guide. 
 
-Don’t worry if your guide isn’t perfect before switching to HoloLens authoring. You can always go back to the PC application to edit and restructure your guide. In fact, we’ve found it’s generally a good idea to do a quick test of the flow on HoloLens, and then go back to the PC application to make changes before placing all your assets in HoloLens.
+Don’t worry if your guide isn’t perfect before switching to HoloLens authoring. You can always go back to the PC application to edit and restructure your guide. In fact, we’ve found it’s generally a good idea to do a quick test of the flow on HoloLens, and then go back to the PC application to make changes before placing all your holograms in HoloLens.
 
 > [!Tip]
 > If you’re creating multiple versions of the same guide, you may want to use the **Save a Copy** command on the **File** menu. This is great for guides that are similar but have a few different steps. You don’t have to start from scratch!
