@@ -32,7 +32,7 @@ both for the quality of the experience and performance. It’s best to use high-
 assets for high-level principles where details aren’t as important.
 
 ### Best practices for pictures (images)
-- Images are best for quick reference, validation, or special techniques
+- Images are best for quick reference, validation, or special techniques.
 - Pictures are a great and inexpensive way to orient an operator, so use lots of them.
 - When taking pictures, make sure to take a picture of the whole object for overall context, as well as close-up pictures for precision.
 - When taking pictures, also keep in mind the perspective of the operator. It’s helpful to take the picture from the same angle 
@@ -41,7 +41,7 @@ that the operator will use.
 - For performance reasons, don’t use 4K/HD quality pictures. **Total image size shouldn’t exceed 100 KB.**
 
 ### Best practices for videos
-- Videos are best for first-time users
+- Videos are best for first-time users.
 - Keep videos short and focused on a single step.
 - Overview videos don’t work well generally, because operators may think they’re supposed to do the assembly while they’re watching 
 the overview video. 
