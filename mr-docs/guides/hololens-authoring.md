@@ -149,7 +149,7 @@ The 3D assets associated with each step appear below the Step card in *the bin*:
 
 You can place a 3D model from the 3D toolkit in the same way you place a 3D part if you added that 3D model to the bin in the PC application. If you didn't add the 3D model in the PC application, you can do it directly from the HoloLens app: 
 
-1.	Air tap an empty box under **3D parts**.
+1.	Air tap an empty box in the bin (under **3D parts**).
 2.	Air tap a category in the 3D toolkit (an arrow or hand, for example).
 
     ![Air tap a category)](media/airtap-category.PNG "Airtap a category")
