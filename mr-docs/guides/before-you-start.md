@@ -9,7 +9,7 @@ title: Things to keep in mind before you start authoring in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Before you start with Guides authoring
+# Before you start on Guides authoring
 
 Before you get started with Microsoft Dynamics 365 Guides authoring, you’ll want to understand your project and get organized. Here’s a quick checklist 
 to start you out on the right foot:
