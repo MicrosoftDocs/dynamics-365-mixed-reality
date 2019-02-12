@@ -66,7 +66,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 
     ![Launch Guides)](media/launch-guides.PNG "Launch 'Guides")
  
-4.	On the welcome screen select Sign in. 
+4.	In the **Welcome** screen, select **Sign in**. 
 5.	In the **Email and accounts** screen, select **Work or school account**, and then select **Continue**. 
 6.	In the Work or school screen, enter the credentials you created during the trial sign-up or the credentials provided to you by the administrator who installed the app. 
 
