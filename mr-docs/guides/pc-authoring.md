@@ -25,6 +25,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 ### Install the app 
 1.	On your Windows 10 PC, make sure you have the Windows 10 Fall Creators Update 1709 or later installed (build 10.0.16299 or later).
 2.	Go to Start ![Start button)](media/windows-button.png "Start button") > Microsoft Store ![Store button)](media/store-button.png "Store button"), and then search for “Guides.”
+3.  Select the **Install** button to install Guides.
 
 ### Sign in to the app
 1.	Launch the Guides application from the Start menu on your PC. 
