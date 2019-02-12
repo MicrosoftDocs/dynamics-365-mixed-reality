@@ -109,9 +109,14 @@ Marker alignment involves three basic steps:
 3.	Gaze at the marker to align the guide.
 
 To print the marker:
-1.	Ensure that the Marker.pdf file has been saved from the Marker setup page, and then open it in Adobe Acrobat Reader.
-2.	On the **File** menu, select **Print**.
-3.	Under **Page Sizing & Handling**, select the **Actual size** option.
+1.  In the **Choose an alignment method** screen, select **Marker alignment**.
+2.  In the xxx screen, select xxx to save the marker.pdf file to your PC.
+
+    ![Save the PDF file)](media/marker-pdf.PNG "Save the PDF file")
+
+3.	Open the marker.pdf file in Adobe Acrobat Reader.
+4.	On the **File** menu, select **Print**.
+5.	Under **Page Sizing & Handling**, select the **Actual size** option.
 
     ![Print a marker)](media/print-marker.PNG "Print a marker")
 
