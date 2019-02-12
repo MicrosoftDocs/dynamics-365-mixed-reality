@@ -39,7 +39,7 @@ When placing holograms, it’s crucial to ensure the alignment is as close as po
 > [!IMPORTANT]
 > It’s particularly important for authors to ensure that their HoloLens is calibrated correctly. Otherwise, all operators using the guide will see misaligned holograms.
 
-You can use the Calibration app that comes with HoloLens to set your IPD and ensure proper device fit. 
+You can use the Calibration app that comes with HoloLens to set your interpupillary distance (IPD) and ensure proper device fit. 
 
 To set your IPD using the Calibration app:
 1.	Do the bloom gesture to launch the Start menu.
