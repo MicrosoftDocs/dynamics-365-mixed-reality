@@ -136,7 +136,7 @@ In this stage of the process, you’ll walk through each step in your guide and 
 
 You don’t need to do anything to place images or videos associated with a step. They automatically appear when the operator goes to the step. They can select the **Media** button to close the image or video.
 
-The 3D assets associated with each step appear below the Step card:
+The 3D assets associated with each step appear below the Step card in *the bin*:
 
 ![3D assets below Step card)](media/place-holograms.PNG "3D assets below Step card")
  
