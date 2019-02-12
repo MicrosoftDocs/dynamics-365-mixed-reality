@@ -22,7 +22,7 @@ The second major step in creating a guide in Microsoft Dynamics 365 Guides takes
   ![Test your guide)](media/test-guide.PNG "Test your guide")
 
 ## Install the HoloLens app
-If you haven’t already installed the HoloLens app on your HoloLens device, you can install it from the Microsoft Store for Consumers.
+If you haven’t already installed the HoloLens app on your HoloLens device (or it hasn't already been installed for you), install it from the Microsoft Store for Consumers.
 
 ### Install the HoloLens app.
 1.	Make sure you have HoloLens build 10.0.14393.0 or later installed on your HoloLens. Build 10.0.14393.0 is the minimum that supports Guides. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
