@@ -250,7 +250,7 @@ Here’s a list of styles included in Guides and when to use each:
 ![All styles)](media/all-styles.PNG "All styles")
  
 ### Best practices for styles
-- Use style to reinforce actions.
+- Use styles to reinforce actions.
 - Use styles only for the purpose they were intended. When operators learn the visual language of styles, they’ll know that a particular style means a certain thing, which will speed up the learning process. 
 
 ## What's next?
