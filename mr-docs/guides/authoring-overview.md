@@ -31,7 +31,7 @@ world, and add styles to 3D objects (warning or caution, for example).
 
 Ready to get jump in? Choose one of these links to get under way:
 
-- [Learn about things to know before getting started on authoring](before-you-start.md)
+- [A few things to keep in mind before you get started on authoring](before-you-start.md)
 - [Learn the how-to's of the PC authoring application](pc-authoring.md)
 - [Learn the how-to's of HoloLens authoring](hololens-authoring.md)
 - [Learn about gestures you can use while authoring](authoring-gestures.md)
