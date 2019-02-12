@@ -117,7 +117,7 @@ To print the marker:
 
     ![Save the PDF file)](media/marker-pdf.PNG "Save the PDF file")
 
-3.	Open the marker.pdf file in Adobe Acrobat Reader.
+3.	Open the marker.pdf file on your PC in Adobe Acrobat Reader.
 4.	On the **File** menu, select **Print**.
 5.	Under **Page Sizing & Handling**, select the **Actual size** option.
 
