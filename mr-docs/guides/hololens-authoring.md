@@ -140,19 +140,24 @@ The 3D assets associated with each step appear below the Step card in *the bin*:
 
 ![3D assets below Step card)](media/place-holograms.PNG "3D assets below Step card")
  
-To place them in the real world: 
+### Place a 3D part 
+
+1. In the bin, air tap the 3D part that you want to place.
+2. Use gaze and gestures to place the 3D part hologram over its counterpart in the physical world. For information on manipulating holograms with gaze and gestures, see the next section.
+
+### Place a 3D model from the 3D toolkit
+
+You can place a 3D model from the 3D toolkit in the same way you place a 3D part if you added that 3D model to the bin in the PC application. If you didn't add the 3D model in the PC application, you can do it directly from the HoloLens app: 
+
 1.	Air tap an empty box under **3D parts**.
 2.	Air tap a category in the 3D toolkit (an arrow or hand, for example).
 
     ![Air tap a category)](media/airtap-category.PNG "Airtap a category")
 
 3.	Air tap the object you want to add.
-    This item will be added to your bin.
+    The item will be added to your bin adn you can then place it as you would a 3D part.
     
     ![3D object in bin)](media/object-in-bin.PNG "3D object in bin")
-
-> [!NOTE]
-> You can add 3D parts in two ways. You can add them in the PC application, and then place them on the HoloLens, or you can add and place them directly on the HoloLens as described above.
 
 ### Manipulating holograms
 To place a hologram from one of your bins:
