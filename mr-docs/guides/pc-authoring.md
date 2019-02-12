@@ -230,7 +230,7 @@ Here’s the Outline page for the Example Guide to show what a completed Outline
 ![Finished Outline page from Example guide)](media/finished-outline-page.PNG "Finished Outline page from Example guide")
   
 ## Create steps and assign assets in the Step card page
-You can create steps in the Outline page, but you’ll probably create most of your steps from the WYSIWYG Step card page.  and assign supporting assets for that step, like 3D content or media (images and videos). 
+You can create steps in the Outline page, but you’ll probably create most of your steps from the WYSIWYG Step card page.  
 
 In the Step card page, you write your instructional text (make sure to keep it short!) and assign supporting assets for that step, like 3D content or media (image or video). 
 
