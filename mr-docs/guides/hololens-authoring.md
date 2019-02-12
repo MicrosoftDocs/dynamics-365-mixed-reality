@@ -50,7 +50,7 @@ To set your IPD using the Calibration app:
 3.	Follow the instructions on your HoloLens.
 
 > [!TIP]
-> If you’re sharing a HoloLens device, learn about how you [use the Windows Device Portal](windows-device-portal) to avoid having to re-calibrate the HoloLens each time you switch users. 
+> If you’re sharing a HoloLens device, learn how to [use the Windows Device Portal](windows-device-portal) to avoid having to re-calibrate the HoloLens each time you switch users. 
  
 ### Open and sign in to HoloLens for the first time
 After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
