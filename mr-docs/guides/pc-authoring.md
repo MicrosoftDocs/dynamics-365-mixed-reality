@@ -38,7 +38,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 
     ![Sign-in to the PC app)](media/sign-in-pc.PNG "Sign in to the PC app")
  
-5.	Select the instance you want to use if there’s more than one instance, and the select **Continue**.
+5.	Select the instance you want to use if there’s more than one instance, and then select **Continue**.
 
     ![Choose an instance)](media/choose-instance-pc.PNG "Choose an instance")
 
