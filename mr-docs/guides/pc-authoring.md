@@ -20,7 +20,7 @@ Supporting assets include:
   - 2D media (images and videos)
 
 ## Install, open, and sign in to the PC application
-Use these instructions to install the app (if it’s not already installed) and to sign in.
+Use these instructions to install the app (if it hasn't already been installed for you) and to sign in.
 
 ### Install the app 
 1.	On your Windows 10 PC, make sure you have the Windows 10 Fall Creators Update 1709 or later installed (build 10.0.16299 or later).
