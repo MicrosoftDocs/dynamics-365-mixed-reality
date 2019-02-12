@@ -54,7 +54,7 @@ To set your IPD using the Calibration app:
  
 ### Open and sign in to HoloLens for the first time
 After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
-1.	Go to **Apps**.
+1.	Go to **All Apps**.
 
     ![HoloLens Apps selection)](media/hololens-apps.PNG "HoloLens Apps selection")
 
