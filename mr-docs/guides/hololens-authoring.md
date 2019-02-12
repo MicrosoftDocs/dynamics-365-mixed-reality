@@ -37,7 +37,7 @@ If you sign in with a brand new HoloLens device, you’ll be prompted to walk th
 When placing holograms, it’s crucial to ensure the alignment is as close as possible. You can’t place holograms accurately if your HoloLens isn’t calibrated. Calibration is also recommended to improve the quality of the visuals or to calibrate visuals for a new user.
 
 > [!IMPORTANT]
-> It’s particularly important for authors to ensure that their IPD is set correctly. Otherwise, all operators using the guide will see misaligned holograms.
+> It’s particularly important for authors to ensure that their HoloLens is calibrated correctly. Otherwise, all operators using the guide will see misaligned holograms.
 
 You can use the Calibration app that comes with HoloLens to set your IPD and ensure proper device fit. 
 
