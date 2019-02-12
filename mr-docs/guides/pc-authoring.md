@@ -11,10 +11,13 @@ ms.reviewer: v-brycho
 
 # Use the PC authoring application to create a guide 
 
-Use the PC authoring application in Microsoft Dynamics 365 Guides to create a guide, choose an alignment method, 
-add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
-Supporting assets include:
+Use the PC authoring application in Microsoft Dynamics 365 Guides to:
 
+- Create a guide
+- Choose an alignment method
+- Add tasks and steps
+- Write the instructions for your steps
+- Assign different types of assets to support those steps. Supporting assets include:
   - 3D parts
   - 3D objects, such as objects from the 3D toolkit (arrows and numbers, for example)
   - 2D media (images and videos)
