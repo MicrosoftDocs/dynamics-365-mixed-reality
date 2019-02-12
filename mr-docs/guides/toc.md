@@ -2,7 +2,8 @@
 ## [Overview](index.md)
 ## [Sign up for public preview](setup.md)
 ## [Get started](get-started.md)
-## [Author a guide (overview)](authoring-overview.md)
+## [Author a guide]
+### [Authoring overview](authoring-overview.md)
 ### [Before you start](before-you-start.md)
 ### [Author in the PC application](pc-authoring.md)
 ### [Test and place holograms with the HoloLens application](hololens-authoring.md)
