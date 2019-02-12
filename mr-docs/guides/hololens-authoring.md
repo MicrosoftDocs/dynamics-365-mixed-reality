@@ -13,13 +13,13 @@ ms.reviewer: v-brycho
 
 The second major step in creating a guide in Microsoft Dynamics 365 Guides takes place on the HoloLens application. In HoloLens Authoring mode, you:
 
-1.	Align your guide to a marker or a digital twin, depending on the type of alignment you chose in the PC application.
-2.	Test the flow of your guide.
-3.	Add holographic tethers to visually tie your steps to physical objects in the real world.
-4.	Place your holographic 3D content in their relevant spaces in the real world.
-5.	Add styles (optional) to 3D content to add treatments such as a warning or caution.
+- Align your guide to a marker or a digital twin, depending on the type of alignment you chose in the PC application.
+- Test the flow of your guide.
+- Add holographic tethers to visually tie your steps to physical objects in the real world.
+- Place your holographic 3D content in their relevant spaces in the real world.
+- Add styles (optional) to 3D content to add treatments such as a warning or caution.
 
-    ![Test your guide)](media/test-guide.PNG "Test your guide")
+  ![Test your guide)](media/test-guide.PNG "Test your guide")
 
 ## Install the HoloLens app
 If you haven’t already installed the HoloLens app on your HoloLens device, you can install it from the Microsoft Store for Consumers.
