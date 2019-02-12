@@ -246,6 +246,9 @@ To add 3D content or media to support a step:
 2. Drag the object to the appropriate box below the step text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit , drag it to one of the **3D parts** boxes. 
 
 ![Create a step with the Step card)](media/create-step.PNG "Create a step with the step card")
+
+> [!NOTE]
+> The collection of boxes below the instructional text is called the "bin."
   
 When you view your guide on the HoloLens in Authoring mode, you’ll see all the assets that you associated with the steps, and can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in HoloLens authoring. What you see in the Step card page, is very similar to what you see on the HoloLens. 
 
