@@ -186,7 +186,7 @@ To rotate a hologram:
 > Gazing at any of the gizmo knobs will let you know which direction the knob will rotate.
 
 When rotating, it helps to think as if you are physically grabbing the knob and rotating around the object, like a wheel.
-The following screen shots show how to use the different rotation knobs:
+The following graphic shows how to use the different rotation knobs:
 
 ![Hologram manipulation)](media/hologram-manipulation.PNG "Hologram manipulation")
  
