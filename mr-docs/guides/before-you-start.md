@@ -73,5 +73,5 @@ it easy to find and use the different types of assets.
 ### Naming your files 
 When naming your content pieces, consider using standard prefixes so that all your assets are organized together in the library. 
 For example:
-- eng_01.png
-- eng_video01.wmv
+- atv_eng_01.png
+- atv_eng_video01.wmv
