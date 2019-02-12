@@ -123,7 +123,7 @@ To print the marker:
 
     ![Print a marker)](media/print-marker.PNG "Print a marker")
 
-4.	Print the last page of the document on matte stock as glossy materials can affect scanning. 
+4.	Print the last page of the document on matte stock (glossy materials can affect scanning). 
 5.	After printing, make sure the marker spacing matches the measurements shown in the following illustration:
 
     ![Marker spacing)](media/marker-spacing.PNG "Marker spacing")
