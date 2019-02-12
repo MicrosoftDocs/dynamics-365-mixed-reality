@@ -216,7 +216,7 @@ In addition to tasks and steps, the Outline page shows:
   ![Outline page)](media/outline-page.PNG "Outline page")
  
 > [!NOTE]
-> Whenever you start working on a guide, be sure to select refresh to ensure you have the latest version. 
+> Whenever you start working on a guide, be sure to select **Refresh** to ensure you have the latest version. 
 
 ### Best practices for the Outline page
 - To provide overall context, add an Overview task at the start of the guide. This task would include just one step that describes what the guide is about. This is also a good place to list all the tasks that the guide covers. 
