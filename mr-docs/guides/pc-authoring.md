@@ -284,6 +284,9 @@ Here’s the complete list of 3D objects available in the 3D toolkit:
 
 You add a 3D object from the 3D toolkit in the Step card page, and then place them in HoloLens Authoring mode. You can use the same object (instance) as many times as you like in a step.
 
+> [!NOTE]
+> You can also add 3D objects from the 3D toolkit in HoloLens authoring. You don't have to add them on the PC if you prefer to do it in HoloLens authoring.
+
 To add an object from the 3D toolkit:
 1.	Select the **Library** tab.
 2.	Select the appropriate category of objects.
