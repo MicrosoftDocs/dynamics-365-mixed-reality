@@ -174,9 +174,7 @@ To import a 3D representation:
 **Digital twin** reference box. You may also want to customize the instructions in the **Operator instructions** box to provide more specific 
 directions.
 
-To place the object in HoloLens:
-1.	Open the guide in HoloLens Authoring mode.
-2.	When prompted, use gestures to place the 3D representation directly over the physical object in your work environment.
+When you switch to HoloLens authoring, you use a gestures to place the 3D representation directly over the physical object in your work environment.
 
 #### Best practices for manual alignment
 - **Size.** Select a digital twin that’s not too small or too big. 
