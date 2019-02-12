@@ -60,8 +60,8 @@ using video captions, if available, for noisy environments.
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
 optimized for HoloLens. For more information, see [Add 3D objects to support your steps](pc-authoring.md).
 
-You can also create and import your own custom 3D parts. If you use custom 3D parts, make sure to optimize it as much as possible 
-before importing it to Guides. It’s also good to break up 3D parts as much as possible. For example, if you have a 3D model that 
+You can also create and import your own custom 3D parts. If you use custom 3D parts, make sure to optimize them as much as possible 
+before importing them to Guides. It’s also good to break up 3D parts as much as possible. For example, if you have a 3D model that 
 shows a composite part for an engine, create separate 3D parts for all the individual pieces to better highlight the parts in a step.
 
 ## Setting up a folder structure
