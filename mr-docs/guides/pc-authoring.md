@@ -234,6 +234,11 @@ You can create steps in the Outline page, but you’ll probably create most of y
 
 In the Step card page, you write your instructional text (make sure to keep it short!) and assign supporting assets for that step, like 3D content or media (image or video). 
 
+To open the Step card page and add instructions:
+
+1. Double-click any step on the Outline page. 
+2. Enter your instructional text in the blue rectangle in the middle of the screen.
+
 To add 3D content or media to support a step: 
 
 1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
