@@ -232,12 +232,12 @@ Here’s the Outline page for the Example Guide to show what a completed Outline
 ## Create steps and assign assets in the Step card page
 You can create steps in the Outline page, but you’ll probably create most of your steps from the WYSIWYG Step card page.  
 
-In the Step card page, you write your instructional text (make sure to keep it short!) and assign supporting assets for that step, like 3D content or media (image or video). 
+In the Step card page, you write your instructional text and assign supporting assets for that step, like 3D content or media (image or video). 
 
 To open the Step card page and add instructions:
 
 1. Double-click any step on the Outline page. 
-2. Enter your instructional text in the blue rectangle in the middle of the screen.
+2. Enter your instructional text in the black rectangle in the middle of the Step card screen.
 
 To add 3D content or media to support a step: 
 
