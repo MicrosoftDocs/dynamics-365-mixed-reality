@@ -31,7 +31,8 @@ Use these instructions to install the app (if it hasn't already been installed f
 1.	Launch the Guides application from the Start menu on your PC. 
 2.	In the **Welcome to Guides** screen, choose **Sign in**.
 
-    ![Welcome to Guides)](media/welcome-to-guides.PNG
+    ![Welcome to Guides)](media/welcome-to-guides.PNG "Welcome to Guides")
+    
 3.	In the **Sign in** dialog box, select **Work or school account**, and then select **Continue**. 
 4.	In the **Sign in** screen, enter the User account and password assigned to you by your organization. If you’re the administrator, these are the credentials you created when you signed up for the trial subscription.
 
