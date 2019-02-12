@@ -17,9 +17,9 @@ to start you out on the right foot:
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 
 (if you have any), and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
 Guides includes a 3D toolkit that you can use to get started.
-- Make sure you understand the space, the assembly, and the workflow you’re authoring for. 
 - Arrange for access to the space so you understand the real-world environment. You’ll also need access to the space to align 
 the guide and place holograms later.
+- Make sure you understand the space, the assembly, and the workflow you’re authoring for. 
 - A great way to start is to create a video of the assembly you want to show, or have someone (an expert in that process, 
 for example) create one for you. You can refer to the video as you create your guide. If you’re using a video as a starting 
 point, make sure it’s representative of the guide you want to create though. For example, are you creating a guide for an 
