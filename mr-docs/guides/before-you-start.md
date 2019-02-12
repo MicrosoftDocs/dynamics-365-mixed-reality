@@ -56,7 +56,7 @@ familiar with, it’s likely that:
 using video captions, if available, for noisy environments.
 
 ### Best practices for 3D content
-3D content is best for adding in-context clarity. Guides includes a 3D toolkit that includes 3D models that you can use to add 
+3D content is best for adding in-context clarity. Guides includes a 3D toolkit of 3D models that you can use to add 
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
 optimized for HoloLens. For more information, see [Add 3D objects to support your steps](pc-authoring.md).
 
