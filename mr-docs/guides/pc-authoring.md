@@ -81,6 +81,8 @@ After you name your guide, you’ll see the **Choose an alignment method** scree
 Alignment is used to spatially sync your instructions to the real world. When you align your guide, your instructions coincide 
 with the space they live in and become meaningful. The alignment acts as the anchor that all your content is centered around.
 
+There are two types of alignment:
+
 - With **Marker alignment** (recommended), you attach a printed marker to a physical object in the real world. After creating the guide, 
 to align the guide in the real world, you gaze at the marker using the HoloLens.
 - With **Manual alignment**, you import a 3D representation (such as a CAD model or scanned model), and then lay that representation, 
