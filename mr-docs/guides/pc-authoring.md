@@ -110,7 +110,7 @@ Marker alignment involves three basic steps:
 
 To print the marker:
 1.  In the **Choose an alignment method** screen, select **Marker alignment**.
-2.  In the xxx screen, select xxx to save the marker.pdf file to your PC.
+2.  In the **Marker** screen, select **Save to print** to save the marker.pdf file to your PC.
 
     ![Save the PDF file)](media/marker-pdf.PNG "Save the PDF file")
 
