@@ -65,7 +65,7 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
 
    ![Add to existing product licenses](../media/AddProductLicenses.png "Add to existing product licenses")
    
-4. Select the licenses you want to enable for the selected users ([!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and/or [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]), and then select **Add**.
+4. Select the licenses you want to enable for the selected users, and then select **Add**.
 
    ![Select product licenses](../media/SelectLicenses.PNG "Select product licenses")
 
@@ -87,10 +87,7 @@ in any of the following ways:
 ### Install the apps from the Microsoft Store for Consumers
 
 For information on installing the apps from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
-use the following links:
-
--   [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md)
--   [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
+see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
 > <ul><li>When users launch the apps, they’ll need to use the same Azure AD accounts that the admin assigned in the Microsoft 365 Admin Center.</li>
