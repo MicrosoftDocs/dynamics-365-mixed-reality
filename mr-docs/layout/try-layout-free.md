@@ -1,4 +1,5 @@
 
+# Try Dynamics 365 Layout for free
 
 You can try Microsoft Dynamics 365 Layout for free for up to 90 days. Starting a free 90-day trial is nearly effortless. Just install 
 the Layout app from the Microsoft Store, sign in with an Azure Active Directory (AAD) account, and then start using the app without 
