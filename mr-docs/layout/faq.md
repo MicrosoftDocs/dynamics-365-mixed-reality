@@ -13,18 +13,17 @@ ms.reviewer: v-brycho
 
 Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-**How can I get [!include[pn-layout](../includes/pn-layout.md)]?**  
+**How can I buy [!include[pn-layout](../includes/pn-layout.md)]?**  
 
-If you’re an IT admin, [learn how to try or buy, and deploy the app](../licensing/buy-and-deploy.md).  
+If you’re an IT admin, [learn how to try or buy, and deploy the app](buy-and-deploy-layout.md).  
 
 **Can I try the app before buying it?**
 
-Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a free 30-day trial. For more information, see [Try or buy,
-and deploy Layout](../licensing/buy-and-deploy.md).
+Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a free trial for up to 90 days. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md)
 
 **Can I still use the preview app?**
 
-The preview period has ended. [Learn how to subscribe to Dynamics 365 Layout](../licensing/buy-and-deploy.md).
+No, the preview period has ended. [Learn how to subscribe to Dynamics 365 Layout](../licensing/buy-and-deploy.md). You can [sign up for a free 90-day trial, however](try-layout-free.md). 
 
 **How can I tell which version I'm using?**
 
@@ -110,6 +109,7 @@ Still need help? Try our [user forums](https://community.dynamics.com/365/layout
 ### See also
 [Overview of Layout](index.md)<br/>
 [Device options and technical requirements](requirements.md)<br/>
-[Try or buy, and deploy](../licensing/buy-and-deploy.md)<br/>
+[Try layout for free for up to 90 days](try-layout-free.md)<br/>
+[Buy and deploy Layout](buy-and-deploy-layout.md)<br/>
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
