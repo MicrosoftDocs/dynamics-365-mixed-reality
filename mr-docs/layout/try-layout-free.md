@@ -21,7 +21,7 @@ To install Layout and try it out for free:
 
 2. Search for "Layout"
 
-3. Install the Layout app.
+3. Download and install the Layout app.
 
 4. Start the app, and then sign in with an AAD account. If you don't already have an AAD account, the app will prompt you to 
 create a free account. Or you can [sign up for a free AAD account at this website](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-access-create-new-tenant). 
