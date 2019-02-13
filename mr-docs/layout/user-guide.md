@@ -402,3 +402,4 @@ To turn the Performance setting on or off:
 ### See also
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
 [FAQ](faq.md)<br/>
+[Try Dynamics 365 Layout for free for up to 90 days](try-layout-free.md)
