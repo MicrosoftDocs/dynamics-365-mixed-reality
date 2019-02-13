@@ -17,7 +17,7 @@ any obligation or restrictions. If you don't already have an AAD account, the ap
 
 To use Layout, you'll also need to install the Dynamics 365 Import Tool (Preview). 
 
-## Install Layout and try it out for free:
+## Install Layout and try it out for free
 
 1. On your PC, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **Microsoft Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store").
 
