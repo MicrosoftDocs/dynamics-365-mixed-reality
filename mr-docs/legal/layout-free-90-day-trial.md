@@ -10,6 +10,7 @@ alter your or Microsoft’s rights relating to pre-updated software or services)
 YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
 **1.	INSTALLATION AND USE RIGHTS.**
+
   **a)	General.** You may install and run one instance of the software on each of up to ten mixed reality devices you own or 
   control in order to access and interact with the software. Your access to Microsoft Layout through the use of this software 
   must comply with these terms. You must uninstall the software after the trial period expires unless you have purchased a 
