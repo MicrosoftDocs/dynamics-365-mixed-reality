@@ -23,7 +23,7 @@ If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-la
 
 **Can I still use the preview app?**
 
-No, the preview period has ended. [Learn how to subscribe to Dynamics 365 Layout](../licensing/buy-and-deploy.md) or sign up for a [free 90-day trial](try-layout-free.md). 
+No, the preview period has ended. Learn how to [subscribe to Dynamics 365 Layout](../licensing/buy-and-deploy.md) or [sign up for a free 90-day trial](try-layout-free.md). 
 
 **How can I tell which version I'm using?**
 
