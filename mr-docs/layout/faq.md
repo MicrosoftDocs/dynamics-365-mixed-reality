@@ -109,7 +109,7 @@ Still need help? Try our [user forums](https://community.dynamics.com/365/layout
 ### See also
 [Overview of Layout](index.md)<br/>
 [Device options and technical requirements](requirements.md)<br/>
-[Try layout for free for up to 90 days](try-layout-free.md)<br/>
+[Try Layout for free for up to 90 days](try-layout-free.md)<br/>
 [Buy and deploy Layout](buy-and-deploy-layout.md)<br/>
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
