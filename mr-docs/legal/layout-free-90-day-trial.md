@@ -55,15 +55,15 @@ all applicable provisions of the Microsoft Privacy Statement.
 **5.	SCOPE OF LICENSE.** The software is licensed, not sold. Microsoft reserves all other rights. Unless applicable law gives you 
 more rights despite this limitation, you will not (and have no right to):
 
-  **a)**	work around any technical limitations in the software that only allow you to use it in certain ways;
+> **a)**	work around any technical limitations in the software that only allow you to use it in certain ways;
   
-  **b)**	reverse engineer, decompile or disassemble the software;
+> **b)**	reverse engineer, decompile or disassemble the software;
   
-  **c)**	remove, minimize, block, or modify any notices of Microsoft or its suppliers in the software;
+> **c)**	remove, minimize, block, or modify any notices of Microsoft or its suppliers in the software;
   
-  **d)**	use the software in any way that is against the law or to create or propagate malware; or
+> **d)**	use the software in any way that is against the law or to create or propagate malware; or
   
-  **e)**	share, publish, distribute, or lend the software, provide the software as a stand-alone hosted solution for others to use, 
+> **e)**	share, publish, distribute, or lend the software, provide the software as a stand-alone hosted solution for others to use, 
   or transfer the software or this agreement to any third party.
   
 **6.	EXPORT RESTRICTIONS.** You must comply with all domestic and international export laws and regulations that apply to the 
