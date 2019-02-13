@@ -13,13 +13,13 @@ ms.reviewer: v-brycho
 
 Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-**How can I buy [!include[pn-layout](../includes/pn-layout.md)]?**  
-
-If you’re an IT admin, [learn how to try or buy, and deploy the app](buy-and-deploy-layout.md).  
-
 **Can I try the app before buying it?**
 
 Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a free trial for up to 90 days. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md)
+
+**How can I buy [!include[pn-layout](../includes/pn-layout.md)]?**  
+
+If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-layout.md). 
 
 **Can I still use the preview app?**
 
