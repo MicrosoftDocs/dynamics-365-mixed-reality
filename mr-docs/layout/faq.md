@@ -15,7 +15,7 @@ Here are answers to common questions about using [!include[cc-microsoft](../incl
 
 **Can I try Layout before buying it?**
 
-Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a free trial for up to 90 days. It's nearly effortless to install and try out the app. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md)
+Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a free trial for up to 90 days. It's nearly effortless to install and try out the app. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md).
 
 **How can I buy [!include[pn-layout](../includes/pn-layout.md)]?**  
 
