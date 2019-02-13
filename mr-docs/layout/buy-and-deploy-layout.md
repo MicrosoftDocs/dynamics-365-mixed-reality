@@ -117,6 +117,7 @@ see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will ne
     -   [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
+[Try Dynamics 365 Layout for free for up to 90-days](try-layout-free.md)<br/>
 [Overview of Dynamics 365 Layout](../layout/index.md)<br/>
 [Dynamics 365 Layout User Guide](../layout/user-guide.md)<br/>
 
