@@ -136,7 +136,7 @@ or other tort; or any other claim; in each case to the extent permitted by appli
 may not apply to you because your state, province, or country may not allow the exclusion or limitation of incidental, consequential, 
 or other damages.**
 
-**Please note: As this software is distributed in Canada, some of the clauses in this agreement are provided below in French.
+**Please note: As this software is distributed in Canada, some of the clauses in this agreement are provided below in French.**
 
 **Remarque: Ce logiciel étant distribué au Canada, certaines des clauses dans ce contrat sont fournies ci-dessous en français.**
 
