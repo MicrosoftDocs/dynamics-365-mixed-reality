@@ -53,7 +53,7 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
 7. To subscribe, select **Buy now**.
 
    > [!NOTE]
-   > If you're not ready to buy yet, you can sign up for a free 30-day trial by selecting **Start free trial**. Then if you want to add users to the trial, follow the directions below. Or consider [signing up for an effortless 90-day trial instead](free-layout-trial). 
+   > If you're not ready to buy yet, you can sign up for a free 30-day trial by selecting **Start free trial**. Then if you want to add users to the trial, follow the directions below. Or consider [signing up for an effortless 90-day trial instead](try-layout-free.md). 
    
 8. Assign licenses to users as described in the next procedure.
 
