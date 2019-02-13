@@ -4,6 +4,10 @@
 ## [Try or buy, and deploy](buy-and-deploy.md)
 ## [User Guide](user-guide.md)
 ## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)
-## [Layout Terms of Use](../legal/layout-license-terms.md)
-## [Import Tool Terms of Use](../legal/import-tool-license-terms.md)
 ## [FAQ](faq.md)
+## Terms of Use
+### [Layout](../legal/layout-license-terms.md)
+### [Layout free 90-day trial](..legal/layout-free-90-day-trial.md)
+### [Import Tool](../legal/import-tool-license-terms.md)
+### [Import Tool free 90-day trial](..legal/import-tool-free-90-day-trial.md)
+
