@@ -69,35 +69,35 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
 
    ![Select product licenses](../media/SelectLicenses.PNG "Select product licenses")
 
-## Make the apps available to your users
+## Make the Layout app available to your users
 
-After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make the apps available through one of
+After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make the Layout app available through one of
 the following:
 
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business
 
-If you use the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business, you can have users install the apps
+If you use the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business, you can have users install the app
 in any of the following ways:
 
 -   From your organization’s private store
 -   From an email link that you send
 -   Through mobile device management (MDM)
 
-### Install the apps from the Microsoft Store for Consumers
+### Install Layout from the Microsoft Store for Consumers
 
-For information on installing the apps from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
+For information on installing the Layout from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
 see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
-> <ul><li>When users launch the apps, they’ll need to use the same Azure AD accounts that the admin assigned in the Microsoft 365 Admin Center.</li>
+> <ul><li>When users launch the Layout app, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 Admin Center.</li>
 > <li>The Layout app requires users to be online once every 30 days to validate their subscription.</li></ul>
 
-### Distribute the apps through the Microsoft Store for Business
+### Distribute the app through the Microsoft Store for Business
 
 1.  Go to the [Store for Business](https://businessstore.microsoft.com/en-us/store).
 
-2.  [Acquire the app(s)](https://docs.microsoft.com/en-us/microsoft-store/acquire-apps-microsoft-store-for-business).
+2.  [Acquire the app](https://docs.microsoft.com/en-us/microsoft-store/acquire-apps-microsoft-store-for-business).
 
 3.  Choose one of the following distribution methods:
 
