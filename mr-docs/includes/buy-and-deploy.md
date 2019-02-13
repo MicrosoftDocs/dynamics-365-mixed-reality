@@ -5,7 +5,7 @@ With [!include[pn-layout](../includes/pn-layout.md)] you can bridge the gap betw
 ## Subscribe to Layout
 
 > [!TIP]
-> Did you know you can try Layout for free for up to 90 days? [Learn more about the free 90-day trial].
+> Did you know you can try Layout for free for up to 90 days? [Learn more about the free 90-day trial](try-layout-free.md).
 
 You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!include[pn-remote-assist](../includes/pn-remote-assist.md)] in any of the following ways:
 
