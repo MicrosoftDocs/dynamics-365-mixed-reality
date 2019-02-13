@@ -11,17 +11,17 @@ YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
 **1.	INSTALLATION AND USE RIGHTS.**
 
-  >**a)	General.** You may install and run one instance of the software on each of up to ten mixed reality devices you own or 
+  > **a)	General.** You may install and run one instance of the software on each of up to ten mixed reality devices you own or 
   control in order to access and interact with the software. Your access to Microsoft Layout through the use of this software 
   must comply with these terms. You must uninstall the software after the trial period expires unless you have purchased a 
   subscription covering the device on which the software is installed.
   
-  >**b)	Included Microsoft Applications.** This software may include other Microsoft applications. These license terms apply 
+  > **b)	Included Microsoft Applications.** This software may include other Microsoft applications. These license terms apply 
   to those included applications, if any, unless other license terms are provided with the other Microsoft applications. 
   Some functionality may require additional licenses for other Microsoft software or applications. You will not be able to 
   use this functionality unless you have a separate license for such Microsoft software or application.
   
-  >**c)	Third Party Software.** The software may include third party applications that are licensed to you under this 
+  > **c)	Third Party Software.** The software may include third party applications that are licensed to you under this 
   agreement or under their own terms. License terms, notices, and acknowledgements, if any, for the third party applications 
   may be accessible online at https://aka.ms/thirdpartynotices or in an accompanying notices file. Even if such applications 
   are governed by other agreements, the disclaimer, limitations on, and exclusions of damages below also apply to the extent 
@@ -29,16 +29,16 @@ YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
 **2.	TIME-SENSITIVE SOFTWARE.**
 
-  **a)	Period**. This agreement is effective on your acceptance and terminates on the earlier of (i) 90 days following your first 
+  > **a)	Period**. This agreement is effective on your acceptance and terminates on the earlier of (i) 90 days following your first 
   acceptance of a free trial of the software or (ii) upon termination by Microsoft in its discretion. Microsoft may extend this 
   agreement in its discretion. 
   
-  **b)	Notice.** You may receive periodic reminder notices of this date through the software.
+  > **b)	Notice.** You may receive periodic reminder notices of this date through the software.
   
-  **c)	Access to data.** This software should be used with test data. You may not be able to access data used in the software 
+  > **c)	Access to data.** This software should be used with test data. You may not be able to access data used in the software 
   after the free trial ends.
   
-  **d)	One Free Trial per Customer.** Each customer is entitled to only one free trial.
+  > **d)	One Free Trial per Customer.** Each customer is entitled to only one free trial.
 
 **3.	PRE-RELEASE SOFTWARE.** The software is a pre-release version. It may not operate correctly. It may be different from the 
 commercially released version.
