@@ -97,7 +97,7 @@ in any of the following ways:
 
 ### Install Layout from the Microsoft Store for Consumers
 
-For information on installing the Layout from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
+For information on installing the Layout app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
 see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
@@ -117,7 +117,7 @@ see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will ne
     -   [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
-[Try Dynamics 365 Layout for free for up to 90-days](try-layout-free.md)<br/>
+[Try Dynamics 365 Layout for free for up to 90 days](try-layout-free.md)<br/>
 [Overview of Dynamics 365 Layout](../layout/index.md)<br/>
 [Dynamics 365 Layout User Guide](../layout/user-guide.md)<br/>
 
