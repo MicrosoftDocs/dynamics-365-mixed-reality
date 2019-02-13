@@ -8,7 +8,7 @@
 ## [FAQ](faq.md)
 ## Terms of Use
 ### [Layout](../legal/layout-license-terms.md)
-### [Layout free 90-day trial](..legal/layout-free-90-day-trial.md)
+### [Layout free 90-day trial](../legal/layout-free-90-day-trial.md)
 ### [Import Tool](../legal/import-tool-license-terms.md)
-### [Import Tool free 90-day trial](..legal/import-tool-free-90-day-trial.md)
+### [Import Tool free 90-day trial](../legal/import-tool-free-90-day-trial.md)
 
