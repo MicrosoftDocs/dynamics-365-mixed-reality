@@ -9,7 +9,7 @@
 ### [Test and place holograms with the HoloLens application](hololens-authoring.md)
 ### [Gestures for authoring and navigating](authoring-gestures.md)
 ## [Operate a guide](operating.md)
-## [Analyze your guides](analyzing.md)
+## [Analyze your guides](analytics-guide.md)
 ## [Use the Windows Device Portal to calibrate HoloLens](windows-device-portal.md)
 ## [Glossary of terms](glossary.md)
 ## [Known issues](known-issues.md)
