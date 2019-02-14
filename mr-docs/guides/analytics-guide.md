@@ -52,19 +52,55 @@ To set up your reports:
  
 2.	On the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=57767). 
 
-  
+    SCREEN SHOT GOES HERE (microsoft-download-center) 
  
-3.	In the Microsoft Download Center, select the Download button. You’ll be prompted to choose which files to download: 
+3.	In the Microsoft Download Center, select the **Download** button. You’ll be prompted to choose which files to download: 
 
-•	Guides Analytics Template. You can configure this Power BI template file to display Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
-•	Guides Analytics Demo. You can use this Power BI file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics before you even create your first guide.  
+   - **Guides Analytics Template.** You can configure this Power BI template file to display Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
+   
+   - **Guides Analytics Demo.** You can use this Power BI file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics before you even create your first guide.  
 
-We recommend downloading both files. 
+     We recommend downloading both files. 
+
+     SCREEN SHOT GOES HERE (download-files)    
   
 4.	Open the downloaded Guides Analytics Template.pbit file with Power BI Desktop. Use your Guides username and password if you’re prompted to sign in to Power BI.  
  
-5.	When prompted, paste the Instance URI into the text box as shown below. This is the same Instance URI you copied from the Analyze tab in the PC authoring app in Step 2. 
+5.	When prompted, paste the Instance URI into the text box as shown below. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in Step 2. 
+
+     SCREEN SHOT GOES HERE (guides-analytics-template)
  
+You may see the following error message saying you aren’t signed in: 
+  
+     SCREEN SHOT GOES HERE (sign-in-error)
+
+In that case, select the **Sign in** button and enter your Guides username and password to connect the template to your organization’s secure Dynamics 365 environment. 
+
+6.	You should now see the template populated with data from your own guides. If you have not operated any guides yet, your reports may appear blank. The reports are described in detail in **Take a tour of reports** later in this topic.
+ 
+  
+ 
+7.	Save the configured reports to a convenient place on your computer for later use. 
+8.	Select the Refresh button on the Home ribbon to update your reports with the most recent Guides data. 
+  
+ 
+Open your reports 
+Once you have set up and saved the Guides Analytics Template on your computer, simply launch Power BI Desktop and open your saved report. Power BI Desktop has a File – Open – Recent items list that is convenient for finding your previously opened reports.  
+
+Take a tour of reports 
+Both the Guides Analytics and Guides Analytics Demo apps contain two reports: Guides Usage and Process Time-Tracking.
+
+Guides Usage 
+The Guides Usage report provides an overview of all the guides used in your organization. The following graphic illustrates the parts of the report.
+
+  
+ 
+1.	Which guides are included in the report.
+Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down changes the values in all parts of the report. By default, the All option is selected to give you an overview of all your organization’s guides. 
+2.	Use the summary statistics to quickly answer the following questions: 
+•	Guides. How many guides have been used by at least one operator to date? 
+•	Users. How many users have operated at least one guide to date? 
+•	Devices. How many devices have been used to operate at least one guide to date? 
 •	Runs. How many total runs have been completed to date? 
 3.	Is daily guide usage changing? 
 The bar chart of run counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage.  
