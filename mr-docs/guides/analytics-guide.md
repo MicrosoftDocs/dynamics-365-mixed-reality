@@ -1,38 +1,56 @@
 
 
 # What is Guides Analytics? 
+
 Guides Analytics is part of the Guides application suite that also includes the Guides PC authoring app and the Guides HoloLens app. 
 Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports 
 which are populated with Guides telemetry data stored securely in your Dynamics 365 environment. 
 
 ### What data is collected and used in Guides Analytics? 
-When an operator uses the Guides HoloLens app in Operate mode, each gaze-and-commit interaction on the Next step and Go back buttons is recorded, together with the date and time of the interaction. Each operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps, is called a run. The operator’s user ID and information about the guide, such as step number, task number, and guide name are also recorded. This data is stored in your private and secure Dynamics 365 environment.  
+
+When an operator uses the Guides HoloLens app in Operate mode, each gaze-and-commit interaction on the **Next step** and 
+**Go back** buttons is recorded, together with the date and time of the interaction. Each operation of a guide in HoloLens 
+Operate mode, whether completed from beginning to end of the guide or involving just a few steps, is called *a run*. The 
+operator’s user ID and information about the guide, such as step number, task number, and guide name are also recorded. This 
+data is stored in your private and secure Dynamics 365 environment.  
 
 ### What can you do with the data? 
+
 The Guides Analytics reports are designed to help you answer high-level questions about guides usage. For example: 
 
-•	How many guides have been used to date?  
-•	Is the number of times a guide is run per day increasing, decreasing, or remaining stable over time? 
-•	Which guides take the most time to complete? 
+- How many guides have been used to date? 
+ 
+- Is the number of times a guide is run per day increasing, decreasing, or remaining stable over time? 
+
+- Which guides take the most time to complete? 
 
 You can also use Guides Analytics to drill into detailed time-tracking information at the task and step levels. For example, answer questions such as: 
-•	Which step of a guide takes the most time? 
-•	Which step of a guide has the most variability in operator time? 
-These reports provide information about operator adoption and usage and give guide authors a data-driven way to improve their guides. For example, an author could focus their editing efforts on steps that take a long time to execute or show a high degree of variability among operators. These reports are also valuable in training scenarios for both trainers and trainees to better understand performance and improvement over time.  
+
+- Which step of a guide takes the most time? 
+
+- Which step of a guide has the most variability in operator time? 
+
+These reports provide information about operator adoption and usage and give guide authors a data-driven way to improve their 
+guides. For example, an author could focus their editing efforts on steps that take a long time to execute or show a high 
+degree of variability among operators. These reports are also valuable in training scenarios for both trainers and trainees 
+to better understand performance and improvement over time.  
 
 ## Open Guides Analytics 
 
 ### Set up your reports for the first time 
-You can set up Guide Analytics for the first time through the Guides PC authoring app. 
-NOTE: Guides Analytics requires the freely available Power BI Desktop application. If you don’t have permission to install Power BI Desktop on your computer, ask your admin about Sharing the reports through the Power BI Service. 
+
+You can set up Guide Analytics for the first time through the Guides PC authoring app.
+
+> [!NOTE]
+> Guides Analytics requires the freely available Power BI Desktop application. If you don’t have permission to install Power BI Desktop on your computer, ask your admin about Sharing the reports through the Power BI Service. 
 
 To set up your reports:
  
-1.	In the Guides PC authoring app, select the Analyze tab.
+1.	In the Guides PC authoring app, select the **Analyze** tab.
+   
+   SCREEN SHOT GOES HERE (analyze-tab)  
  
-  
- 
-2.	From the Analyze tab, copy the highlighted Instance URI text, and then select Continue to go to the Microsoft Download Center. 
+2.	On the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=57767). 
 
   
  
