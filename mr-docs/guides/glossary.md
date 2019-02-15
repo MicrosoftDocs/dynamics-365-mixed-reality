@@ -9,7 +9,7 @@ title: Glossary of terms for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Glossary of terms for Dynamics 365 Guides
+# Glossary of terms for Dynamics 365 Guides (Preview)
 
 When you're working with Microsoft Dynamics 365 Guides, you may find this glossary of terms helpful.
 
