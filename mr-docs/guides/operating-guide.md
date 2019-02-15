@@ -150,13 +150,17 @@ HoloLens has sensors that can see a few feet to either side of you. When you use
 For a tutorial on some basic gestures, use the bloom gesture to go to Start, and then select Learn Gestures. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/en-us/help/13456/hololens-and-holograms-faq). 
 
 ## Get oriented with the Step card 
-When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the Next Step and Go Back buttons. As you go through the steps in a task, the Step card “tags along” with you on the HoloLens to keep your instructions where you need them. 
-  
 
-Note: The screen shot above shows the first step of Example Guide, the guide created for the public preview release of Dynamics 365 Guides. In Example Guide, the first step provides an overview of the tasks included in the guide.  
+When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide — the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card “tags along” with you on the HoloLens to keep your instructions where you need them. 
 
-In addition to the Next Step and Go Back buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
+![Step card with Next Step and Go Back buttons)](media/step-card.PNG "Step card with Next Step and Go Back buttons")
 
+> [!NOTE]
+> The screen shot above shows the first step of Example Guide, the guide created for the public preview release of Dynamics 365 Guides. In Example Guide, the first step provides an overview of the tasks included in the guide.  
+
+In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
+
+![Step card buttons)](media/step-card-buttons.PNG "Step card buttons")
    
 
 Here’s a description of the buttons and other UI elements in the Step card:  
