@@ -167,14 +167,14 @@ Here’s a description of the buttons and other UI elements in the Step card:
 
 Button|Name|Description|
 |-----|------------------|------------------------------------------------------------------------------------|
-||Home|Choose a different guide| 
-||Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your HoloLens correctly. Fit is very important. Otherwise holograms may be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the HoloLens properly.<br></br>- **Noise cancellation.** Enables you to use voice commands to navigate the app when there’s a lot of noise in your environment (a factory floor, for example). The app supports noise levels up to 80 decibels.<br></br>- **Dynamic volume.** Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.<br></br>- **Build number.** Shows the build of Dynamics 365 Guides that you’re using.| 
-||Profile|Sign in and out.| 
-||Alignment|Realign your guide. HoloLens can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you’ll need to realign the guide by gazing at a printed marker or digital 3D representation (digital twin) again. For more information, see Align your guide.| 
-||Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around, You can pin or unpin it any time.|
-||Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for Example Guide:| 
-||Task progress|Shows where you are in the task.| 
-||Media|Close the image or video associated with the step. (If there’s an image or video associated with a step, it appears automatically when you go to that step.)| 
+|![Home button)](media/home-button.PNG "Home button")|Home|Choose a different guide| 
+|![Settings button)](media/settings-buttons.PNG "Settings button")|Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your HoloLens correctly. Fit is very important. Otherwise holograms may be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the HoloLens properly.<br></br>- **Noise cancellation.** Enables you to use voice commands to navigate the app when there’s a lot of noise in your environment (a factory floor, for example). The app supports noise levels up to 80 decibels.<br></br>- **Dynamic volume.** Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.<br></br>- **Build number.** Shows the build of Dynamics 365 Guides that you’re using.| 
+|![Profile button)](media/profile-button.PNG "Profile button")|Profile|Sign in and out.| 
+|![Alignment button)](media/alignment-button.PNG "Alignment button")|Alignment|Realign your guide. HoloLens can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you’ll need to realign the guide by gazing at a printed marker or digital 3D representation (digital twin) again. For more information, see Align your guide.| 
+|![Pin button)](media/pin-button.PNG "Pin button")|Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around, You can pin or unpin it any time.|
+|![Outline buttons)](media/outline-button.PNG "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for Example Guide:| 
+|![Task progress)](media/task-progess.PNG "Task progress")|Task progress|Shows where you are in the task.| 
+|![Media button)](media/media-button.PNG "Media button")|Media|Close the image or video associated with the step. (If there’s an image or video associated with a step, it appears automatically when you go to that step.)| 
  
 ## Use a tether to help you find the focus area for a step 
 Step cards are linked by holographic tethers to physical areas in your work area. These tethers help you find the area where you need to take an action. 
