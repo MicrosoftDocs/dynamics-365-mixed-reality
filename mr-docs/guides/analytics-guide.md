@@ -48,7 +48,7 @@ To set up your reports:
  
 1.	In the Guides PC authoring app, select the **Analyze** tab.
    
-   ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")  
+    ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")  
  
 2.	On the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=57767). 
 
