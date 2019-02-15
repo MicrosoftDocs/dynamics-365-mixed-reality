@@ -1,6 +1,15 @@
+---
+author: anhaman
+description: Glossary of terms for Dynamics 365 Guides
+ms.author: anhaman
+ms.date: 02/24/2019
+ms.service: crm-online
+ms.topic: article
+title: Glossary of terms for Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
-
-## Glossary of terms for Dynamics 365 Guides
+# Glossary of terms for Dynamics 365 Guides
 
 When you're working with Dynamics 365 Guides, you may find this glossary of terms helpful.
 
