@@ -144,49 +144,74 @@ Alternatively, select the **Expand to the next level** button to drill back down
    The bar chart of average run time in minutes (x-axis) per guide (y-axis) allows you to quickly identify the guides that take the most or least amount of time to operate (top and bottom of chart respectively). If you have many guides, you may need to scroll within this chart. 
 
 ### Process Time-Tracking report
+
 Use the Process Time-Tracking report to drill into usage and step-level run time data for a single guide. 
 
-  
+SCREEN SHOT GOES HERE (process-time-tracking-report) 
  
-1.	Which guides are included in the report?  
-Use the drop-down menu to select a single guide. Changing the selection in the drop-down changes the values in all parts of the report to correspond to data for that single guide. 
-2.	Use the summary statistics to quickly answer the following questions: 
-•	Users. How many users have run this guide at least once? 
-•	Devices. How many devices have been used to operate this guide at least once to date? 
-•	Runs. How many total runs of this guide have been completed to date? 
-3.	Is daily guide usage changing? 
-This is the same chart that’s shown in the Guides Usage report described above.  
-4.	How long is a guide run in minutes? 
-You can see the average run time of this guide, in addition to the longest run time (max) and shortest run time (min) in minutes to get an overview of how long this guide takes to operate.  
-5.	How long did each task or step take? 
-This line chart shows the time in minutes (y-axis) for each step of a guide (x-axis) to give you a sense for which steps take the most time and which steps have the most variability in run time. Each run of the guide is shown as a separate colored line. The chart legend provides a list of all runs sorted by run start time. 
-Drill up/Drill down/Expand to the next level. By default, this chart shows the run time in minutes per step. The x-axis indicates both the step numbers (upper labels) and parent task labels (lower labels). Guide tasks and steps are organized into a hierarchy. 
+1.	Which guides are included in the report?
 
-To change the view from the step level to the task level, first select the chart and then select the Drill Up button in the upper right-hand corner of the chart.  
+   Use the drop-down menu to select a single guide. Changing the selection in the drop-down changes the values in all parts of the report to correspond to data for that single guide. 
+   
+2.	Use the summary statistics to quickly answer the following questions: 
+
+   - **Users.** How many users have run this guide at least once? 
+   - **Devices.** How many devices have been used to operate this guide at least once to date? 
+   - **Runs.** How many total runs of this guide have been completed to date? 
+   
+3.	Is daily guide usage changing? 
+
+   This is the same chart that’s shown in the Guides Usage report described above. 
+   
+4.	How long is a guide run in minutes? 
+
+   You can see the average run time of this guide, in addition to the longest run time (max) and shortest run time (min) in minutes to get an overview of how long this guide takes to operate.  
+   
+5.	How long did each task or step take? 
+
+   This line chart shows the time in minutes (y-axis) for each step of a guide (x-axis) to give you a sense for which steps take the most time and which steps have the most variability in run time. Each run of the guide is shown as a separate colored line. The chart legend provides a list of all runs sorted by run start time. 
+   
+   **Drill up/Drill down/Expand to the next level.** By default, this chart shows the run time in minutes per step. The x-axis indicates both the step numbers (upper labels) and parent task labels (lower labels). Guide tasks and steps are organized into a hierarchy. 
+
+   To change the view from the step level to the task level, first select the chart and then select the **Drill Up** button in the upper right-hand corner of the chart.  
+
+   SCREEN SHOT GOES HERE (drill-up-2)
+   
+   To return to the step view, select the **Drill Mode** button, and then select the task you want to drill in to.
   
-To return to the step view, select the Drill Mode button, and then select the task you want to drill in to.
-  
+   SCREEN SHOT GOES HERE (drill-mode-2)
  
-Alternatively, select the Expand to the next level button to drill back down. This option will expand all tasks to the step level, whereas the Drill Mode only drills into the data item you selected. 
+   Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the step level, whereas the **Drill Mode** only drills into the data item you selected. 
+   
+   SCREEN SHOT GOES HERE (next-level-hierarchy)
   
 6.	Select a recent run 
-To view data for a single recent run, select it from the run table. By default, this table is sorted by the Run Start time with the most recent run on the top. You can also select the column headers to sort by Run Time or User Name. If you select a single row in this table, all visuals and statistics will be filtered to just that single run. 
+
+   To view data for a single recent run, select it from the run table. By default, this table is sorted by the **Run Start** time with the most recent run on the top. You can also select the column headers to sort by **Run Time** or **User Name**. If you select a single row in this table, all visuals and statistics will be filtered to just that single run. 
+   
 7.	Filter by Date or Step Time (minutes) 
-There are situations in which you might want to filter the report to show just runs generated in a particular date range or runs that are within some step time range. For example: 
-•	Compare versions of a guide. The date filter is particularly useful if you made a revision to your guide (for example, added or removed a step) and you want to show data for a given version of the guide that can be identified based on the date the guide was created or edited. 
-•	Filter outliers. Unusually long step times can stretch the y-axis of the time per step line chart, which can make the majority of data difficult to see. Use this slider to set the range of step times you want to visualize across the report so you can ignore the outliers.  
+
+   There are situations in which you might want to filter the report to show just runs generated in a particular date range or runs that are within some step time range. For example: 
+   
+   - **Compare versions of a guide.** The date filter is particularly useful if you made a revision to your guide (for example, added or removed a step) and you want to show data for a given version of the guide that can be identified based on the date the guide was created or edited. 
+
+   - **Filter outliers.** Unusually long step times can stretch the y-axis of the time per step line chart, which can make the majority of data difficult to see. Use this slider to set the range of step times you want to visualize across the report so you can ignore the outliers.  
 
 ## Share the Guides Analytics reports 
-You can share your Guides Analytics Power BI reports within your organization by publishing them to the Power BI Service. This allows anyone in your organization with a Power BI Pro license to access the report through the Power BI Service web interface accessible at https://powerbi.microsoft.com.  
 
-Power BI provides several mechanisms for sharing reports with others in your organization. We recommend reading Ways to share your work in Power BI for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a Power BI app. This involves the following well-documented steps: 
-1.	Create a workspace in the Power BI Service 
-2.	Publish your Guides Analytics reports to this workspace using Power BI Desktop 
-3.	Publish the contents of your workspace as an app in the Power BI Service  
+You can share your Guides Analytics Power BI reports within your organization by publishing them to the Power BI Service. This allows anyone in your organization with a Power BI Pro license to access the report through the Power BI Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com).  
+
+Power BI provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/en-us/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a Power BI app. This involves the following well-documented steps: 
+
+1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-workspaces) 
+
+2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-upload-desktop-files) 
+
+3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-distribute-apps)  
  
 ### See also
 
-Authoring a guide (overview)
-Operating a guide
-FAQ
+[Authoring a guide (overview)](authoring-overview.md)
+[Operating a guide](operator-guide.md)
+[FAQ](faq.md)
 
