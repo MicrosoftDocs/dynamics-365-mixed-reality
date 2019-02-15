@@ -47,7 +47,7 @@ In other cases in Guides, you use gaze to target an object, and then act on the 
 ### Gestures 
 You’ll also need to use some gestures as you work with a guide. This section lists the most important gestures to know about. 
 
-### Bloom 
+#### Bloom 
 
 The bloom gesture opens the Start menu (and hides the Start menu). Most of the time, you only need to use the bloom gesture once to get to Start, but sometimes you'll need to use it twice. If you're not sure what to do at any time, the bloom gesture is a good way to get reoriented.
 
@@ -60,7 +60,7 @@ To do the bloom gesture:
    ![Bloom gesture)](media/bloom-gesture.PNG "Bloom gesture")  
  
 
-### Air tap 
+#### Air tap 
 
 Use air tap, along with gaze, to select apps and other holograms. To do an air tap: 
 
@@ -72,7 +72,7 @@ Use air tap, along with gaze, to select apps and other holograms. To do an air t
 
 ![Air tap gesture)](media/air-tap-gesture.PNG "Air tap gesture")  
  
-### The gesture frame
+#### The gesture frame
 
 HoloLens has sensors that can see a few feet to either side of you. When you use gestures, you'll need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor will look like a ring. When HoloLens can't see your hand, the cursor will change to a dot. 
 
