@@ -185,7 +185,7 @@ Step cards are linked by holographic tethers to physical areas in your work area
 - Follow the tether to find the physical area where you need to do the work. Follow the tether back to the Step card to read the instructions. 
 
 - If the tether points behind you, step to the side, and then continue to follow the tether. 
-Note  Sometimes the tether may go through real-world objects. 
+Note that the tether may go through real-world objects at times. 
 
 ## Tag along and pinning 
 
