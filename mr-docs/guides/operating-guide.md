@@ -35,7 +35,7 @@ To navigate through a guide, you’ll use your gaze and a few gestures.
 
 ### Gaze 
 
-Gaze on HoloLens is pretty much as easy as it sounds. In some cases, you can select an item (an app, menu, or button, for example) just by gazing at a selection box next to the item. For example, when you first start the HoloLens app, you’ll gaze at the **Operator** box in the **Select Mode** dialog box to select the correct mode for the HoloLens app.
+Gaze on HoloLens is pretty much as easy as it sounds. In some cases, you can select an item (an app, menu, or button, for example) just by gazing at a selection box next to the item. For example, when you first start the HoloLens app, you’ll gaze at the box to the right of **Operator** in the **Select Mode** dialog box to select the correct mode for the HoloLens app.
 
 ![Example of using gaze)](media/author-mode.PNG "Example of using gaze")  
 
