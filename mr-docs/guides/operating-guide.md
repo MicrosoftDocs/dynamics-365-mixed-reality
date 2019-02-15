@@ -80,7 +80,7 @@ For a tutorial on some basic gestures, use the bloom gesture to go to Start, and
 
 ## Get started with the HoloLens app 
 
-Now that your HoloLens is calibrated, and you know how to get around by gazing and using gestures, it’s time to open a guide and get some work done. Let’s start with installing the app if someone hasn’t already installed it for you. 
+Now that your HoloLens is calibrated, and you know how to get around by gazing and using gestures, it’s time to open a guide and get some work done. Let’s start by installing the app if someone hasn’t already installed it for you. 
 
 ### Install the HoloLens app
 
