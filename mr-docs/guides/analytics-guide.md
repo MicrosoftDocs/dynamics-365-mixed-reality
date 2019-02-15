@@ -56,29 +56,29 @@ To set up your reports:
  
 3.	In the Microsoft Download Center, select the **Download** button. You’ll be prompted to choose which files to download: 
 
-    - **Guides Analytics Template.** You can configure this Power BI template file to display Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
+     - **Guides Analytics Template.** You can configure this Power BI template file to display Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
    
-    - **Guides Analytics Demo.** You can use this Power BI file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics before you even create your first guide.  
+     - **Guides Analytics Demo.** You can use this Power BI file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics before you even create your first guide.  
 
-    We recommend downloading both files. 
+     We recommend downloading both files. 
 
-    ![Files to download)](media/download-files.PNG "Files to download")   
+     ![Files to download)](media/download-files.PNG "Files to download")   
   
 4.	Open the downloaded Guides Analytics Template.pbit file with Power BI Desktop. Use your Guides username and password if you’re prompted to sign in to Power BI.  
  
 5.	When prompted, paste the Instance URI into the text box as shown below. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in Step 2. 
 
-    ![Guides Analytics template)](media/guides-analytics-template.PNG "Guides Analytics template")
+     ![Guides Analytics template)](media/guides-analytics-template.PNG "Guides Analytics template")
  
-    You may see the following error message saying you aren’t signed in: 
+     You may see the following error message saying you aren’t signed in: 
   
-    ![Sign-in error)](media/sign-in-error.PNG "Sign-in error")
+     ![Sign-in error)](media/sign-in-error.PNG "Sign-in error")
 
-    In that case, select the **Sign in** button and enter your Guides username and password to connect the template to your organization’s secure Dynamics 365 environment. 
+     In that case, select the **Sign in** button and enter your Guides username and password to connect the template to your organization’s secure Dynamics 365 environment. 
 
 6.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports may appear blank. The reports are described in detail in **Take a tour of reports** later in this topic.
  
-    ![Example report)](media/example-report.PNG "Example report")
+     ![Example report)](media/example-report.PNG "Example report")
  
 7.	Save the configured reports to a convenient place on your computer for later use. 
 
