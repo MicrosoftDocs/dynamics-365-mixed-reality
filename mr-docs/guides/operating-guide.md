@@ -36,11 +36,11 @@ To navigate through a guide, you’ll use gaze and a few gestures.
 
 ### Gaze 
 
-The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). In some cases, you can select the item by gazing at a selection box. For example, when you first start the HoloLens app, you’ll gaze at the **Operate** box in the **Select Mode** dialog box to select the correct mode for the HoloLens app.
+The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). In some cases, you can select the item by gazing at a selection box. For example, when you first start the HoloLens app, you’ll gaze at the **Operator** box in the **Select Mode** dialog box to select the correct mode for the HoloLens app.
 
 ![Example of using gaze)](media/author-mode.PNG "Example of using gaze")  
 
-**Operate** is selected when the box is filled. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
+**Operator** is selected when the box is filled. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
 
 In other cases in Guides, you use gaze to target an object, and then act on the target with a gesture. In either case, when you gaze, make sure to turn your whole head—not just your eyes.  
 
