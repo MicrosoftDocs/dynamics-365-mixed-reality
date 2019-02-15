@@ -8,7 +8,7 @@
 ### [Author in the PC application](pc-authoring.md)
 ### [Test and place holograms with the HoloLens application](hololens-authoring.md)
 ### [Gestures for authoring and navigating](authoring-gestures.md)
-## [Operate a guide](operator-guide.md)
+## [Operate a guide](operating-guide.md)
 ## [Analyze your guides](analytics-guide.md)
 ## [Use the Windows Device Portal to calibrate HoloLens](windows-device-portal.md)
 ## [Glossary of terms](glossary.md)
