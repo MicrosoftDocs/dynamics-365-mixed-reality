@@ -179,7 +179,7 @@ Button|Name|Description|
 ## Use a tether to help you find the focus area for a step 
 Step cards are linked by holographic tethers to physical areas in your work area. These tethers help you find the area where you need to take an action. 
 
-![Holographic tether)](media/tether-hololens.png "Holographic tether")
+![Holographic tether)](media/tether-hololens.PNG "Holographic tether")
 
 ### Tether tips and tricks 
 
@@ -192,12 +192,12 @@ Note  Sometimes the tether may go through real-world objects.
 
 You’ll notice that wherever you look, the Step card follows your gaze—it “tags along.” As you’re working, you never have to worry about where your instructions are. You can pin the Step card, however, if you want to turn off the tag-along feature. To pin the Step card, select the **Pin** button. Once it’s pinned, you can grab it and move it wherever you like. 
 
-![Pin button on HoloLens screen)](media/hololens-pin.png "Pin button on HoloLens screen")
+![Pin button on HoloLens screen)](media/hololens-pin.PNG "Pin button on HoloLens screen")
 
 ## Turn off holograms 
 You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the tether. 
 
-![Turn off hologram)](media/toggle-visibility.png "Turn off hologram")
+![Turn off hologram)](media/toggle-visibility.PNG "Turn off hologram")
   
 
 ## Useful links for more information
