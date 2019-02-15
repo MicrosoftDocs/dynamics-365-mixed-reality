@@ -48,7 +48,7 @@ You’ll also need to use some gestures as you work with a guide. This section l
 
 #### Bloom 
 
-The bloom gesture opens the Start menu (and hides the Start menu). Most of the time, you only need to use the bloom gesture once to get to Start, but sometimes you'll need to use it twice. If you're not sure what to do at any time, the bloom gesture is a good way to get reoriented.
+The bloom gesture opens the Start menu (or hides the Start menu). Most of the time, you only need to use the bloom gesture once to get to Start, but sometimes you'll need to use it twice. If you're not sure what to do at any time, the bloom gesture is a good way to get reoriented.
 
 To do the bloom gesture:
 
