@@ -1,6 +1,6 @@
 # Dynamics 365 Guides
 ## [Overview](index.md)
-## [Sign up for public preview](setup.md)
+## [Sign up for Public Preview](setup.md)
 ## [Get started](get-started.md)
 ## Author a guide
 ### [Authoring overview](authoring-overview.md)
