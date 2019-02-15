@@ -82,7 +82,7 @@ To set up your reports:
  
 7.	Save the configured reports to a convenient place on your computer for later use. 
 
-8.	Select the **Refresh** SCREEN SHOT GOES HERE button on the Home ribbon to update your reports with the most recent Guides data. 
+8.	Select the **Refresh** ![Refresh button)](media/refresh-button.PNG "Refresh button") button on the Home ribbon to update your reports with the most recent Guides data. 
   
  
 ### Open your reports 
