@@ -101,7 +101,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
  
 1.	Which guides are included in the report.
 
-   Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization’s guides.
+    Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization’s guides.
    
 2.	Use the summary statistics to quickly answer the following questions:
 
