@@ -10,7 +10,7 @@
 ### [Gestures for authoring and navigating](authoring-gestures.md)
 ## [Operator's manual](operator-guide.md)
 ## [Analyze your guides](analytics-guide.md)
-## [Use the Windows Device Portal to calibrate HoloLens](windows-device-portal.md)
+## [Use the Windows Device Portal streamline HoloLens calibration](windows-device-portal.md)
 ## [Glossary of terms](glossary.md)
 ## [Known issues](known-issues.md)
 ## [FAQ](faq.md)
