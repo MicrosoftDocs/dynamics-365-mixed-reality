@@ -1,4 +1,4 @@
-# Dynamics 365 Guides
+# Dynamics 365 Guides (Preview)
 ## [Overview](index.md)
 ## [Sign up for Public Preview](setup.md)
 ## [Get started](get-started.md)
