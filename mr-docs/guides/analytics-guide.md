@@ -48,11 +48,11 @@ To set up your reports:
  
 1.	In the Guides PC authoring app, select the **Analyze** tab.
    
-    SCREEN SHOT GOES HERE (analyze-tab)  
+    ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")  
  
 2.	On the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=57767). 
 
-    SCREEN SHOT GOES HERE (microsoft-download-center) 
+    ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
  
 3.	In the Microsoft Download Center, select the **Download** button. You’ll be prompted to choose which files to download: 
 
@@ -62,23 +62,23 @@ To set up your reports:
 
      We recommend downloading both files. 
 
-     SCREEN SHOT GOES HERE (download-files)    
+     ![Files to download)](media/download-files.PNG "Files to download")   
   
 4.	Open the downloaded Guides Analytics Template.pbit file with Power BI Desktop. Use your Guides username and password if you’re prompted to sign in to Power BI.  
  
 5.	When prompted, paste the Instance URI into the text box as shown below. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in Step 2. 
 
-     SCREEN SHOT GOES HERE (guides-analytics-template)
+    ![Guides Analytics template)](media/guides-analytics-template.PNG "Guides Analytics template")
  
-You may see the following error message saying you aren’t signed in: 
+     You may see the following error message saying you aren’t signed in: 
   
-     SCREEN SHOT GOES HERE (sign-in-error)
+    ![Sign-in error)](media/sign-in-error.PNG "Sign-in error")
 
 In that case, select the **Sign in** button and enter your Guides username and password to connect the template to your organization’s secure Dynamics 365 environment. 
 
 6.	You should now see the template populated with data from your own guides. If you have not operated any guides yet, your reports may appear blank. The reports are described in detail in **Take a tour of reports** later in this topic.
  
-    SCREEN SHOT GOES HERE (example-report)  
+    ![Example report)](media/example-report.PNG "Example report")
  
 7.	Save the configured reports to a convenient place on your computer for later use. 
 
@@ -97,8 +97,7 @@ Both the Guides Analytics and Guides Analytics Demo apps contain two reports: Gu
 
 The Guides Usage report provides an overview of all the guides used in your organization. The following graphic illustrates the parts of the report.
 
-SCREEN SHOT GOES HERE (guides-usage-report)  
-  
+![Guides Usage report)](media/guides-usage-report.PNG "Guides Usage report") 
  
 1.	Which guides are included in the report.
 
@@ -120,15 +119,15 @@ SCREEN SHOT GOES HERE (guides-usage-report)
 
    **Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart and then select the **Drill Up** button in the upper right-hand corner of the chart.
    
-   SCREEN SHOT GOES HERE (drill-up-button)
+   ![Drill-up button)](media/drill-up-button.PNG "Drill-up-button")
   
-To return to the per day view, select the **Drill Mode** button, and then select the month bar you want to drill into.  
+   To return to the per day view, select the **Drill Mode** button, and then select the month bar you want to drill into.  
 
-   SCREEN SHOT GOES HERE (drill-up-button)
+   ![Drill Mode button)](media/drill-mode-button.PNG "Drill mode button")
 
 Alternatively, select the **Expand to the next level** button to drill back down.  
   
-   SCREEN SHOT GOES HERE (expand-to-next-level)
+   ![Expand to next level)](media/expand-to-next-level.PNG "Expand to next level")
  
    **Filter by Date.** Change the date range by using the Filter by Date slicer. Select the start or end date to set them manually, or move the slider.
    
@@ -147,7 +146,7 @@ Alternatively, select the **Expand to the next level** button to drill back down
 
 Use the Process Time-Tracking report to drill into usage and step-level run time data for a single guide. 
 
-SCREEN SHOT GOES HERE (process-time-tracking-report) 
+![Process Time-Tracking report)](media/process-time-tracking-report.PNG "Process Time-Tracking report")
  
 1.	Which guides are included in the report?
 
@@ -156,7 +155,9 @@ SCREEN SHOT GOES HERE (process-time-tracking-report)
 2.	Use the summary statistics to quickly answer the following questions: 
 
    - **Users.** How many users have run this guide at least once? 
+   
    - **Devices.** How many devices have been used to operate this guide at least once to date? 
+   
    - **Runs.** How many total runs of this guide have been completed to date? 
    
 3.	Is daily guide usage changing? 
@@ -175,15 +176,15 @@ SCREEN SHOT GOES HERE (process-time-tracking-report)
 
    To change the view from the step level to the task level, first select the chart and then select the **Drill Up** button in the upper right-hand corner of the chart.  
 
-   SCREEN SHOT GOES HERE (drill-up-2)
+   ![Drill Up button)](media/drill-up-2.PNG "Drill Up button")
    
    To return to the step view, select the **Drill Mode** button, and then select the task you want to drill in to.
   
-   SCREEN SHOT GOES HERE (drill-mode-2)
+   ![Drill Mode button)](media/drill-mode-button.PNG "Drill Mode button")
  
    Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the step level, whereas the **Drill Mode** only drills into the data item you selected. 
    
-   SCREEN SHOT GOES HERE (next-level-hierarchy)
+   ![Next level hierarchy)](media/next-level-hierarchy.PNG "Next level hierarchy")
   
 6.	Select a recent run 
 
