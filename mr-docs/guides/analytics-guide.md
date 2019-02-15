@@ -101,46 +101,46 @@ The Guides Usage report provides an overview of all the guides used in your orga
  
 1.	Which guides are included in the report.
 
->> Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization’s guides.
+>Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization’s guides.
    
 2.	Use the summary statistics to quickly answer the following questions:
 
->>- **Guides.** How many guides have been used by at least one operator to date? 
+>- **Guides.** How many guides have been used by at least one operator to date? 
    
->>- **Users.** How many users have operated at least one guide to date? 
+>- **Users.** How many users have operated at least one guide to date? 
    
->>- **Devices.** How many devices have been used to operate at least one guide to date? 
+>- **Devices.** How many devices have been used to operate at least one guide to date? 
    
->>- **Runs.** How many total runs have been completed to date? 
+>- **Runs.** How many total runs have been completed to date? 
    
 3.	Is daily guide usage changing? 
 
->>The bar chart of run counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage.  
+>The bar chart of run counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage.  
 
->>**Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart and then select the **Drill Up** button in the upper right-hand corner of the chart.
+>**Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart and then select the **Drill Up** button in the upper right-hand corner of the chart.
    
->>![Drill-up button)](media/drill-up-button.PNG "Drill-up-button")
+>![Drill-up button)](media/drill-up-button.PNG "Drill-up-button")
   
->>To return to the per day view, select the **Drill Mode** button, and then select the month bar you want to drill into.  
+>To return to the per day view, select the **Drill Mode** button, and then select the month bar you want to drill into.  
 
->>![Drill Mode button)](media/drill-mode-button.PNG "Drill mode button")
+>![Drill Mode button)](media/drill-mode-button.PNG "Drill mode button")
 
->>Alternatively, select the **Expand to the next level** button to drill back down.  
+>Alternatively, select the **Expand to the next level** button to drill back down.  
   
->>![Expand to next level)](media/expand-to-next-level.PNG "Expand to next level")
+>![Expand to next level)](media/expand-to-next-level.PNG "Expand to next level")
  
->>**Filter by Date.** Change the date range by using the Filter by Date slicer. Select the start or end date to set them manually, or move the slider.
+>**Filter by Date.** Change the date range by using the Filter by Date slicer. Select the start or end date to set them manually, or move the slider.
    
->>[!NOTE]
->>The date filter is applied to all visuals and statistics in the report. 
+>[!NOTE]
+>The date filter is applied to all visuals and statistics in the report. 
 
 4.	What is the most frequently used guide? 
 
->>The bar chart of run counts (x-axis) per guide (y-axis) allows you to quickly identify which guides are used most and least in your organization (top and bottom of the chart respectively). If you have many guides, you may need to scroll within this chart. 
+>The bar chart of run counts (x-axis) per guide (y-axis) allows you to quickly identify which guides are used most and least in your organization (top and bottom of the chart respectively). If you have many guides, you may need to scroll within this chart. 
    
 5.	What is the average run time per guide? 
 
->>The bar chart of average run time in minutes (x-axis) per guide (y-axis) allows you to quickly identify the guides that take the most or least amount of time to operate (top and bottom of chart respectively). If you have many guides, you may need to scroll within this chart. 
+>The bar chart of average run time in minutes (x-axis) per guide (y-axis) allows you to quickly identify the guides that take the most or least amount of time to operate (top and bottom of chart respectively). If you have many guides, you may need to scroll within this chart. 
 
 ### Process Time-Tracking report
 
@@ -150,7 +150,8 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
  
 1.	Which guides are included in the report?
 
-   Use the drop-down menu to select a single guide. Changing the selection in the drop-down changes the values in all parts of the report to correspond to data for that single guide. 
+   Use the drop-down menu to select a single guide. Changing the selection in the drop-down changes the values in all 
+   parts of the report to correspond to data for that single guide. 
    
 2.	Use the summary statistics to quickly answer the following questions: 
 
@@ -166,15 +167,21 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
    
 4.	How long is a guide run in minutes? 
 
-   You can see the average run time of this guide, in addition to the longest run time (max) and shortest run time (min) in minutes to get an overview of how long this guide takes to operate.  
+   You can see the average run time of this guide, in addition to the longest run time (max) and shortest run time (min) in minutes 
+   to get an overview of how long this guide takes to operate.  
    
 5.	How long did each task or step take? 
 
-   This line chart shows the time in minutes (y-axis) for each step of a guide (x-axis) to give you a sense for which steps take the most time and which steps have the most variability in run time. Each run of the guide is shown as a separate colored line. The chart legend provides a list of all runs sorted by run start time. 
+   This line chart shows the time in minutes (y-axis) for each step of a guide (x-axis) to give you a sense for which steps take 
+   the most time and which steps have the most variability in run time. Each run of the guide is shown as a separate colored line. 
+   The chart legend provides a list of all runs sorted by run start time. 
    
-   **Drill up/Drill down/Expand to the next level.** By default, this chart shows the run time in minutes per step. The x-axis indicates both the step numbers (upper labels) and parent task labels (lower labels). Guide tasks and steps are organized into a hierarchy. 
+   **Drill up/Drill down/Expand to the next level.** By default, this chart shows the run time in minutes per step. The x-axis 
+   indicates both the step numbers (upper labels) and parent task labels (lower labels). Guide tasks and steps are organized 
+   into a hierarchy. 
 
-   To change the view from the step level to the task level, first select the chart and then select the **Drill Up** button in the upper right-hand corner of the chart.  
+   To change the view from the step level to the task level, first select the chart and then select the **Drill Up** button in 
+   the upper right-hand corner of the chart.  
 
    ![Drill Up button)](media/drill-up-2.PNG "Drill Up button")
    
@@ -182,21 +189,29 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
   
    ![Drill Mode button)](media/drill-mode-button.PNG "Drill Mode button")
  
-   Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the step level, whereas the **Drill Mode** only drills into the data item you selected. 
+   Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the 
+   step level, whereas the **Drill Mode** only drills into the data item you selected. 
    
    ![Next level hierarchy)](media/next-level-hierarchy.PNG "Next level hierarchy")
   
 6.	Select a recent run 
 
-   To view data for a single recent run, select it from the run table. By default, this table is sorted by the **Run Start** time with the most recent run on the top. You can also select the column headers to sort by **Run Time** or **User Name**. If you select a single row in this table, all visuals and statistics will be filtered to just that single run. 
+   To view data for a single recent run, select it from the run table. By default, this table is sorted by the **Run Start** time 
+   with the most recent run on the top. You can also select the column headers to sort by **Run Time** or **User Name**. If you select 
+   a single row in this table, all visuals and statistics will be filtered to just that single run. 
    
 7.	Filter by Date or Step Time (minutes) 
 
-   There are situations in which you might want to filter the report to show just runs generated in a particular date range or runs that are within some step time range. For example: 
+   There are situations in which you might want to filter the report to show just runs generated in a particular date range or runs 
+   that are within some step time range. For example: 
    
-   - **Compare versions of a guide.** The date filter is particularly useful if you made a revision to your guide (for example, added or removed a step) and you want to show data for a given version of the guide that can be identified based on the date the guide was created or edited. 
+   - **Compare versions of a guide.** The date filter is particularly useful if you made a revision to your guide (for example, added 
+   or removed a step) and you want to show data for a given version of the guide that can be identified based on the date the guide 
+   was created or edited. 
 
-   - **Filter outliers.** Unusually long step times can stretch the y-axis of the time per step line chart, which can make the majority of data difficult to see. Use this slider to set the range of step times you want to visualize across the report so you can ignore the outliers.  
+   - **Filter outliers.** Unusually long step times can stretch the y-axis of the time per step line chart, which can make the 
+   majority of data difficult to see. Use this slider to set the range of step times you want to visualize across the report so you 
+   can ignore the outliers.  
 
 ## Share the Guides Analytics reports 
 
