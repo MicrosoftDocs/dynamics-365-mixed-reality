@@ -172,7 +172,7 @@ Button|Name|Description|
 |![Profile button)](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
 |![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide. HoloLens can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you’ll need to realign the guide by gazing at a printed marker or digital 3D representation (digital twin) again. For more information, see **Align your guide** earlier in this topic.| 
 |![Pin button)](media/pin-button.png "Pin button")|Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around, You can pin or unpin it any time.|
-|![Outline buttons)](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for Example Guide:</br><br?![HoloLens Outline page)](media/outline-page-hololens.PNG "HoloLens Outline page")| 
+|![Outline buttons)](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for Example Guide:</br><br>![HoloLens Outline page)](media/outline-page-hololens.PNG "HoloLens Outline page")| 
 |![Task progress)](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
 |![Media button)](media/media-button.png "Media button")|Media|Close the image or video associated with the step. (If there’s an image or video associated with a step, it appears automatically when you go to that step.)| 
  
