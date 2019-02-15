@@ -178,29 +178,37 @@ Button|Name|Description|
  
 ## Use a tether to help you find the focus area for a step 
 Step cards are linked by holographic tethers to physical areas in your work area. These tethers help you find the area where you need to take an action. 
- 
+
+![Holographic tether)](media/tether-hololens.png "Holographic tether")
 
 ### Tether tips and tricks 
-•	Follow the tether to find the physical area where you need to do the work. Follow the tether back to the Step card to read the instructions. 
-•	If the tether points behind you, step to the side, and then continue to follow the tether. 
+
+- Follow the tether to find the physical area where you need to do the work. Follow the tether back to the Step card to read the instructions. 
+
+- If the tether points behind you, step to the side, and then continue to follow the tether. 
 Note  Sometimes the tether may go through real-world objects. 
 
 ## Tag along and pinning 
-You’ll notice that wherever you look, the Step card follows your gaze—it “tags along.” As you’re working, you never have to worry about where your instructions are. You can pin the Step card, however, if you want to turn off the tag-along feature. To pin the Step card, select the Pin button. Once it’s pinned, you can grab it and move it wherever you like. 
-  
+
+You’ll notice that wherever you look, the Step card follows your gaze—it “tags along.” As you’re working, you never have to worry about where your instructions are. You can pin the Step card, however, if you want to turn off the tag-along feature. To pin the Step card, select the **Pin** button. Once it’s pinned, you can grab it and move it wherever you like. 
+
+![Pin button on HoloLens screen)](media/hololens-pin.png "Pin button on HoloLens screen")
 
 ## Turn off holograms 
 You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the tether. 
 
+![Turn off hologram)](media/toggle-visibility.png "Turn off hologram")
   
 
-## Useful links for more information  
-For more information on Microsoft mixed reality apps and HoloLens documentation, see the following links:  
-•	What is mixed reality? 
-•	Windows mixed reality documentation 
-•	Microsoft Dynamics 365 Layout 
-•	Microsoft Dynamics 365 Remote Assist 
-•	Connect to Wi-Fi on HoloLens 
-•	Calibrate your HoloLens 
-•	Using the Windows Device Portal 
+## Useful links for more information
+
+To learn more about Microsoft mixed reality apps and HoloLens, here are some helpful links: 
+
+- [What is mixed reality](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)?
+- [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
+- [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/)
+- [Connect to Wi-Fi on HoloLens](https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens)
+- [Calibrate your HoloLens](https://docs.microsoft.com/en-us/windows/mixed-reality/calibration)
+- [Using the Windows Device Portal](https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-device-portal)
+
 
