@@ -38,7 +38,7 @@ To navigate through a guide, you’ll use gaze and a few gestures.
 
 The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). In some cases, you can select the item by gazing at a selection box. For example, when you first start the HoloLens app, you’ll gaze at the **Operate** box in the **Select Mode** dialog box to select the correct mode for the HoloLens app.
 
-![Example of using gaze)](media/select-mode-dialog-box.PNG "Example of using gaze")  
+![Example of using gaze)](media/open-a-guide.PNG "Example of using gaze")  
 
 **Operate** is selected when the box is filled. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
 
@@ -81,11 +81,47 @@ For a tutorial on some basic gestures, use the bloom gesture to go to Start, and
 
 ## Get started with the HoloLens app 
 
-Now that your HoloLens is calibrated, and you know how to get around by gazing and using gestures, it’s time to open a guide and get some work done. Let’s start within installing the app if someone hasn’t already installed it for you. 
+Now that your HoloLens is calibrated, and you know how to get around by gazing and using gestures, it’s time to open a guide and get some work done. Let’s start with installing the app if someone hasn’t already installed it for you. 
 
+### Install the HoloLens app
 
-!!!NOTE TO SELF: Add Install and sign in info here.!!!
+1.	Make sure you have HoloLens build 10.0.14393.0 or later installed on your HoloLens. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
+2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the Home menu, and then open the Microsoft Store app and search for “Guides”.
+
+3.	Select **Install** to download and install the Guides application.
+
+### Sign in to the HoloLens app
+
+If you sign in with a brand new HoloLens device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your HoloLens for use if you haven't already calibrated it.
+ 
+### Open and sign in to HoloLens for the first time
+
+1.	Go to **All Apps**.
+
+    ![HoloLens Apps selection)](media/hololens-apps.PNG "HoloLens Apps selection")
+
+2.	Select the down arrow.
+
+    ![HoloLens down arrow highlighted)](media/hololens-down-arrow.PNG "HoloLens down arrow highlighted")
+
+3.	Launch the Guides application.
+
+    ![Launch Guides)](media/launch-guides.PNG "Launch 'Guides")
+ 
+4.	In the **Welcome** screen, select **Sign in**. 
+
+5.	In the **Email and accounts** screen, select **Work or school account**, and then select **Continue**. 
+
+6.	In the **Work or school account** screen, enter the credentials you created during the trial sign-up or the credentials provided to you by the administrator who installed the app. 
+
+    ![Sign in to HoloLens)](media/sign-in-hololens.PNG "Sign in to HoloLens")
+ 
+7.	Select an instance to use if you have more than one instance, and then select **Continue**.
+
+8.	In the **Select Mode** dialog box, gaze at the box to the right of **Operate** until the box fills, which selects that item. 
+
+    ![Select Author mode)](media/author-mode.PNG "Select Author mode")
 
 ### Open a guide 
 1.	On the HoloLens, go to Apps .  
