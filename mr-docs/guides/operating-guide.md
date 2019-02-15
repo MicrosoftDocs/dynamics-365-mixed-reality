@@ -38,7 +38,7 @@ To navigate through a guide, you’ll use gaze and a few gestures.
 
 The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). In some cases, you can select the item by gazing at a selection box. For example, when you first start the HoloLens app, you’ll gaze at the **Operate** box in the **Select Mode** dialog box to select the correct mode for the HoloLens app.
 
-![Example of using gaze)](media/open-a-guide.PNG "Example of using gaze")  
+![Example of using gaze)](media/author-mode.PNG "Example of using gaze")  
 
 **Operate** is selected when the box is filled. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
 
@@ -113,7 +113,7 @@ If you sign in with a brand new HoloLens device, you’ll be prompted to walk th
 
 5.	In the **Email and accounts** screen, select **Work or school account**, and then select **Continue**. 
 
-6.	In the **Work or school account** screen, enter the credentials you created during the trial sign-up or the credentials provided to you by the administrator who installed the app. 
+6.	In the **Work or school account** screen, enter the credentials provided by your administrator.
 
     ![Sign in to HoloLens)](media/sign-in-hololens.PNG "Sign in to HoloLens")
  
