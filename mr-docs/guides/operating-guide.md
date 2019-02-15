@@ -86,11 +86,11 @@ The alignment instructions are written by the person who created the guide. Alig
 
 If the guide is set up with Marker alignment, you’ll look for a printed marker attached to a physical object in your real-world environment. The printed marker looks like this: 
 
-![Printed marker)](media/printed-marker.PNG "Printed marker")
+![Printed marker)](media/print-marker.PNG "Printed marker")
 
 In the HoloLens, you’ll see a hologram that looks very similar to the printed marker. Find the printed marker in your real-world environment, and then align the hologram marker with the printed marker to align the guide. 
 
-![Holographic marker)](media/holographic-marker.PNG "Holographic marker")  
+![Holographic marker)](media/marker-holograph.PNG "Holographic marker")  
 
 After aligning a guide, you’ll see the **Marker found** screen. Follow the instructions on the screen, and then select the **Confirm** button to continue. 
  
