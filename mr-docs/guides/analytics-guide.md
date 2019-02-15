@@ -185,14 +185,14 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
 
     ![Drill Up button)](media/drill-up-2.PNG "Drill Up button")
    
-   To return to the step view, select the **Drill Mode** button, and then select the task you want to drill in to.
+    To return to the step view, select the **Drill Mode** button, and then select the task you want to drill in to.
   
-   ![Drill Mode button)](media/drill-mode-button.PNG "Drill Mode button")
+    ![Drill Mode button)](media/drill-mode-button.PNG "Drill Mode button")
  
-    Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the 
+     Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the 
    step level, whereas the **Drill Mode** only drills into the data item you selected. 
    
-   ![Next level hierarchy)](media/next-level-hierarchy.PNG "Next level hierarchy")
+    ![Next level hierarchy)](media/next-level-hierarchy.PNG "Next level hierarchy")
   
 6.	Select a recent run 
 
@@ -205,11 +205,11 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
     There are situations in which you might want to filter the report to show just runs generated in a particular date range or runs 
    that are within some step time range. For example: 
    
-    - **Compare versions of a guide.** The date filter is particularly useful if you made a revision to your guide (for example, added 
+     - **Compare versions of a guide.** The date filter is particularly useful if you made a revision to your guide (for example, added 
    or removed a step) and you want to show data for a given version of the guide that can be identified based on the date the guide 
    was created or edited. 
 
-    - **Filter outliers.** Unusually long step times can stretch the y-axis of the time per step line chart, which can make the 
+     - **Filter outliers.** Unusually long step times can stretch the y-axis of the time per step line chart, which can make the 
    majority of data difficult to see. Use this slider to set the range of step times you want to visualize across the report so you 
    can ignore the outliers.  
 
