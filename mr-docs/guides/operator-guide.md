@@ -9,7 +9,7 @@ title: Operator's manual for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Operator's manual for Dynamics 365 Guides
+# Operator's manual for Dynamics 365 Guides (Preview)
 
 Welcome to Microsoft Dynamics 365 Guides! This Operator's manual is designed to help operators understand how to use a holographic guide created with Guides. It describes everything that you, as the operator, need to know about the Guides user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With Dynamics 365 Guides, you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
 
