@@ -93,7 +93,7 @@ Now that your HoloLens is calibrated, and you know how to get around by gazing a
 
 ### Sign in to the HoloLens app
 
-If you sign in with a brand new HoloLens device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your HoloLens for use if you haven't already calibrated it.
+If you sign in with a brand new HoloLens device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your HoloLens for use if you haven't already calibrated it. For more information on calibration, see the **First things first** section of this topic.
  
 ### Open and sign in to HoloLens for the first time
 
