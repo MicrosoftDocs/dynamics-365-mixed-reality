@@ -31,6 +31,54 @@ Dynamics 365 Guides uses holograms to show you exactly what you need to do to ac
 
 [Learn more about HoloLens calibration](https://docs.microsoft.com/en-us/windows/mixed-reality/calibration). 
 
+## Navigate with gaze and gestures 
+To navigate through a guide, you’ll use gaze and a few gestures. 
+
+### Gaze 
+
+The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). In some cases, you can select the item by gazing at a selection box. For example, when you first start the HoloLens app, you’ll gaze at the **Operator** box in the **Select Mode** dialog box to select the correct mode for the HoloLens app.
+
+![Example of using gaze)](media/author-mode.PNG "Example of using gaze")  
+
+**Operator** is selected when the box is filled. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
+
+In other cases in Guides, you use gaze to target an object, and then act on the target with a gesture. In either case, when you gaze, make sure to turn your whole head—not just your eyes.  
+
+### Gestures 
+You’ll also need to use some gestures as you work with a guide. This section lists the most important gestures to know about. 
+
+### Bloom 
+
+The bloom gesture opens the Start menu (and hides the Start menu). Most of the time, you only need to use the bloom gesture once to get to Start, but sometimes you'll need to use it twice. If you're not sure what to do at any time, the bloom gesture is a good way to get reoriented.
+
+To do the bloom gesture:
+
+1.	Hold out your hand with your palm up and your fingertips together.
+
+2.	Open your hand. 
+
+   ![Bloom gesture)](media/bloom-gesture.PNG "Bloom gesture")  
+ 
+
+### Air tap 
+
+Use air tap, along with gaze, to select apps and other holograms. To do an air tap: 
+
+1.	Gaze at a hologram. 
+
+2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don’t need to raise your whole arm—keep your elbow low and comfortable. 
+
+3.	Tap your finger down, and then quickly raise it back up again. 
+
+![Air tap gesture)](media/air-tap-gesture.PNG "Air tap gesture")  
+ 
+### The gesture frame
+
+HoloLens has sensors that can see a few feet to either side of you. When you use gestures, you'll need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor will look like a ring. When HoloLens can't see your hand, the cursor will change to a dot. 
+
+### Need a tutorial? 
+For a tutorial on some basic gestures, use the bloom gesture to go to Start, and then select Learn Gestures. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/en-us/help/13456/hololens-and-holograms-faq). 
+
 ## Get started with the HoloLens app 
 
 Now that your HoloLens is calibrated, and you know how to get around by gazing and using gestures, it’s time to open a guide and get some work done. Let’s start with installing the app if someone hasn’t already installed it for you. 
@@ -101,55 +149,7 @@ After aligning a guide, you’ll see the **Marker found** screen. Follow the ins
 
 When you align your guide, if you’re using the HoloLens Commercial Suite, the alignment information is stored on your HoloLens so you don’t have to realign the guide every time you open it. You can re-align a guide at any time though if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section. 
  
-## Navigate with gaze and gestures 
-To navigate through a guide, you’ll use gaze and a few gestures. 
-
-### Gaze 
-
-The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). In some cases, you can select the item by gazing at a selection box. For example, when you first start the HoloLens app, you’ll gaze at the **Operator** box in the **Select Mode** dialog box to select the correct mode for the HoloLens app.
-
-![Example of using gaze)](media/author-mode.PNG "Example of using gaze")  
-
-**Operator** is selected when the box is filled. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
-
-In other cases in Guides, you use gaze to target an object, and then act on the target with a gesture. In either case, when you gaze, make sure to turn your whole head—not just your eyes.  
-
-### Gestures 
-You’ll also need to use some gestures as you work with a guide. This section lists the most important gestures to know about. 
-
-### Bloom 
-
-The bloom gesture opens the Start menu (and hides the Start menu). Most of the time, you only need to use the bloom gesture once to get to Start, but sometimes you'll need to use it twice. If you're not sure what to do at any time, the bloom gesture is a good way to get reoriented.
-
-To do the bloom gesture:
-
-1.	Hold out your hand with your palm up and your fingertips together.
-
-2.	Open your hand. 
-
-   ![Bloom gesture)](media/bloom-gesture.PNG "Bloom gesture")  
- 
-
-### Air tap 
-
-Use air tap, along with gaze, to select apps and other holograms. To do an air tap: 
-
-1.	Gaze at a hologram. 
-
-2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don’t need to raise your whole arm—keep your elbow low and comfortable. 
-
-3.	Tap your finger down, and then quickly raise it back up again. 
-
-![Air tap gesture)](media/air-tap-gesture.PNG "Air tap gesture")  
- 
-### The gesture frame
-
-HoloLens has sensors that can see a few feet to either side of you. When you use gestures, you'll need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor will look like a ring. When HoloLens can't see your hand, the cursor will change to a dot. 
-
-### Need a tutorial? 
-For a tutorial on some basic gestures, use the bloom gesture to go to Start, and then select Learn Gestures. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/en-us/help/13456/hololens-and-holograms-faq). 
-
-## Get oriented with the Step card 
+# Get oriented with the Step card 
 
 When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide — the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card “tags along” with you on the HoloLens to keep your instructions where you need them. 
 
