@@ -1,6 +1,6 @@
 
 
 
-# Sign up for the Dynamics 365 Guides Public Preview
+# Sign up to try Dynamics 365 Guides (Preview)
 
 Content goes here.
