@@ -9,7 +9,7 @@ title: Overview of Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Overview of Dynamics 365 Guides (public preview)
+# Overview of Dynamics 365 Guides (Preview)
 
 ![ATV graphic](media/overview.PNG "ATV graphic") 
 
