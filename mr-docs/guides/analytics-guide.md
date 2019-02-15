@@ -48,11 +48,11 @@ To set up your reports:
  
 1.	In the Guides PC authoring app, select the **Analyze** tab.
    
-    ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")  
+   ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")  
  
 2.	On the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=57767). 
 
-    ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
+   ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
  
 3.	In the Microsoft Download Center, select the **Download** button. You’ll be prompted to choose which files to download: 
 
@@ -70,7 +70,7 @@ To set up your reports:
 
     ![Guides Analytics template)](media/guides-analytics-template.PNG "Guides Analytics template")
  
-     You may see the following error message saying you aren’t signed in: 
+    You may see the following error message saying you aren’t signed in: 
   
     ![Sign-in error)](media/sign-in-error.PNG "Sign-in error")
 
