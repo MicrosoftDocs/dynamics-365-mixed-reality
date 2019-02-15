@@ -52,17 +52,17 @@ To set up your reports:
  
 2.	On the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=57767). 
 
-   ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
+    ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
  
 3.	In the Microsoft Download Center, select the **Download** button. You’ll be prompted to choose which files to download: 
 
-   - **Guides Analytics Template.** You can configure this Power BI template file to display Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
+    - **Guides Analytics Template.** You can configure this Power BI template file to display Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
    
-   - **Guides Analytics Demo.** You can use this Power BI file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics before you even create your first guide.  
+    - **Guides Analytics Demo.** You can use this Power BI file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics before you even create your first guide.  
 
-     We recommend downloading both files. 
+    We recommend downloading both files. 
 
-     ![Files to download)](media/download-files.PNG "Files to download")   
+    ![Files to download)](media/download-files.PNG "Files to download")   
   
 4.	Open the downloaded Guides Analytics Template.pbit file with Power BI Desktop. Use your Guides username and password if you’re prompted to sign in to Power BI.  
  
