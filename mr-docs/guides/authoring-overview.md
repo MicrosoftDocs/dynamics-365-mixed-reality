@@ -9,7 +9,7 @@ title: Overview of authoring in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Overview of authoring a guide in Dynamics 365 Guides
+# Overview of authoring a guide in Dynamics 365 Guides (Preview)
 
 If you're ready to start creating a guide with Microsoft Dynamics 365 Guides, you're in the right place! 
 
