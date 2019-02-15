@@ -39,7 +39,7 @@ Gaze on HoloLens is pretty much as easy as it sounds. In some cases, you can sel
 
 ![Example of using gaze)](media/author-mode.PNG "Example of using gaze")  
 
-**Operator** is selected when the box is filled up. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
+The **Operator** selection is completed when the box is filled up by your gaze. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
 
 In other cases in Guides, you use gaze to target an object, and then act on the target with a gesture. In either case, when you gaze, make sure to turn your whole head—not just your eyes.  
 
