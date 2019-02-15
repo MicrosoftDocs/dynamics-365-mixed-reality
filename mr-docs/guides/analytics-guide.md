@@ -101,7 +101,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
  
 1.	Which guides are included in the report.
 
-   Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization’s guides.
+> Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization’s guides.
    
 2.	Use the summary statistics to quickly answer the following questions:
 
@@ -115,21 +115,21 @@ The Guides Usage report provides an overview of all the guides used in your orga
    
 3.	Is daily guide usage changing? 
 
-   The bar chart of run counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage.  
+> The bar chart of run counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage.  
 
-   **Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart and then select the **Drill Up** button in the upper right-hand corner of the chart.
+> **Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart and then select the **Drill Up** button in the upper right-hand corner of the chart.
    
    ![Drill-up button)](media/drill-up-button.PNG "Drill-up-button")
   
-   To return to the per day view, select the **Drill Mode** button, and then select the month bar you want to drill into.  
+> To return to the per day view, select the **Drill Mode** button, and then select the month bar you want to drill into.  
 
    ![Drill Mode button)](media/drill-mode-button.PNG "Drill mode button")
 
-Alternatively, select the **Expand to the next level** button to drill back down.  
+> Alternatively, select the **Expand to the next level** button to drill back down.  
   
    ![Expand to next level)](media/expand-to-next-level.PNG "Expand to next level")
  
-   **Filter by Date.** Change the date range by using the Filter by Date slicer. Select the start or end date to set them manually, or move the slider.
+> **Filter by Date.** Change the date range by using the Filter by Date slicer. Select the start or end date to set them manually, or move the slider.
    
 > [!NOTE]
 > The date filter is applied to all visuals and statistics in the report. 
