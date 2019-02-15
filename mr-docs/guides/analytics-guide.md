@@ -76,7 +76,7 @@ To set up your reports:
 
     In that case, select the **Sign in** button and enter your Guides username and password to connect the template to your organization’s secure Dynamics 365 environment. 
 
-6.	You should now see the template populated with data from your own guides. If you have not operated any guides yet, your reports may appear blank. The reports are described in detail in **Take a tour of reports** later in this topic.
+6.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports may appear blank. The reports are described in detail in **Take a tour of reports** later in this topic.
  
     ![Example report)](media/example-report.PNG "Example report")
  
