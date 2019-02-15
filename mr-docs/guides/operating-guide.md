@@ -204,7 +204,7 @@ You can turn holograms off (or turn them back on) with a glance if you ever feel
 
 To learn more about Microsoft mixed reality apps and HoloLens, here are some helpful links: 
 
-- [What is mixed reality](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)?
+- [What is mixed reality?](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)
 - [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
 - [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/)
 - [Connect to Wi-Fi on HoloLens](https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens)
