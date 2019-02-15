@@ -112,7 +112,7 @@ If you sign in with a brand new HoloLens device, you’ll be prompted to walk th
 
 5.	In the **Email and accounts** screen, select **Work or school account**, and then select **Continue**. 
 
-6.	In the **Work or school account** screen, enter the credentials provided by your administrator. It looks like this: user@domain.com.  For example, if your name is Laura and you work for the Contoso company, the email name would be laura@contoso.com.
+6.	In the **Work or school account** screen, enter the credentials provided by your administrator. The credentials will look something like this: username@domain.com.  For example, if your user name is LauraO and you work for the Contoso company, the email name would be laurao@contoso.com.
 
     ![Sign in to HoloLens)](media/sign-in-hololens.PNG "Sign in to HoloLens")
  
