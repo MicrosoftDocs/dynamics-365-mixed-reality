@@ -20,7 +20,7 @@ The following table lists technical requirements for deploying and using Microso
 |Device|OS requirements|Details|
 |----------------------------------------|---------------------------------------------|-------------------------------------|
 |HoloLens|Build 10.0.14393.0 or later. We recommend updating HoloLens to newer versions when available.|See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS).|
-|Windows 10 PC (required to create a guide)|Windows 10 PC with Fall Creators Update 1709 or later (build 10.0.16299 or later|A Windows 10 PC is used to create and edit guides that will be then available on HoloLens.</br><br>Suggested minimum screen resolution: 1080 px width|
+|Windows 10 PC (required to create a guide)|Windows 10 PC with Fall Creators Update 1709 or later (build 10.0.16299 or later)|A Windows 10 PC is used to create and edit guides that will be then available on HoloLens.</br><br>Suggested minimum screen resolution: 1080 px width|
 
 #### Licensing and product requirements
 
