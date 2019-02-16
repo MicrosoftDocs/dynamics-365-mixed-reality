@@ -64,7 +64,7 @@ You can subscribe in any of the following ways:
 
 1.	Go to [https://portal.office.com/AdminPortal/Home#/catalog](https://portal.office.com/AdminPortal/Home#/catalog).
 
-2.	Sign in using your company's admin account. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252fen-us%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide).
+2.	Sign in using your company's admin account. If you don't know who your admin is, contact the IT helpdesk at your company to find out. [Get more advice on admin accounts](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252fen-us%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide).
 
 3.	Under **Billing** in the left navigation, select **Purchase services**.
 
