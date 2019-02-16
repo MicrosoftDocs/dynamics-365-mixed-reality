@@ -54,7 +54,7 @@ You can subscribe in any of the following ways:
     ![Microsoft 365 Admin Center)](media/microsoft-365-admin-center.PNG "Microsoft 365 Admin Center")
   
     > [!NOTE]
-    > You can add licenses for additional users now if you want by selecting the **Assign to users** button, or you can add them later. See step-by-step instructions on adding additional users.ADD BOOKMARK!!! 
+    > You can add licenses for additional users now if you want by selecting the **Assign to users** button, or you can add them later. [See step-by-step instructions on adding additional user licenses.](#licenses)
 
 5.	When you’re done, go to the next section: Create a new CDS environment and install the Guides solution.ADD BOOKMARK!!!
 
@@ -74,7 +74,7 @@ You can subscribe in any of the following ways:
 
 7.	Assign licenses to users as described in the next procedure.
 
-### Assign licenses for additional users (optional)
+### Assign licenses for additional users (optional)<a name="licenses"></a>
 
 If you want to share Guides with other users in your organization, you’ll need to assign licenses for users in the Microsoft 365 Admin Center or [Partner Center](https://docs.microsoft.com/en-us/partner-center/). Each user you assign a license to will need an Azure Active Directory (Azure AD) account.
 
