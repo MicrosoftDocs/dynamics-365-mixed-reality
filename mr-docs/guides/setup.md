@@ -1,5 +1,13 @@
-
-
+---
+author: anhaman
+description: Everything you need to know about signing up for a Dynamics 365 Guides (Preview) trial, configuring the solution, and installing the apps.
+ms.author: anhaman
+ms.date: 02/24/2019
+ms.service: crm-online
+ms.topic: article
+title: Sign up to try Dynamics 365 Guides (Preview) for free
+ms.reviewer: v-brycho
+---
 
 # Sign up to try Dynamics 365 Guides (Preview) for free
 
@@ -79,9 +87,9 @@ If you want to share Guides with other users in your organization, you’ll need
 4.	Select the licenses you want to enable for the selected users (Dynamics 365 Guides), and then select **Add**.
 
    > [!NOTE]
-   > After adding licenses, you’ll need to add user accounts. Instructions are provided below.
+   > After adding licenses, you’ll need to [add user accounts]BOOKMARK GOES HERE covered later in this topic. 
 
-### Create a CDS environment
+## Create a Common Data Service (CDS) environment
 
 Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. 
 
@@ -97,7 +105,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
     -	**Region:** Choose your region
     -	**Environment Type:** Set it to **Production**
   
-    ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
+     ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
     
 4.	Select the **Create environment** button. 
 
@@ -131,13 +139,13 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
 The Dynamics Admin Center will appear. This is where you can install the solution and make other configurations.
 
-### Install and configure the Guides solution
+## Install and configure the Guides solution
 
 1.	Before installing the solution, you need to increase the email attachment size to 128MB (131072kb). To do that: 
 
-    a.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and sign in with the user credentials you created when you signed up for the Guides trial.
+    1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and sign in with the user credentials you created when you signed up for the Guides trial.
     
-    b.	Select the newly created Guides instance from the list of instances, and then select the **Open** button as shown below: 
+    2.	Select the newly created Guides instance from the list of instances, and then select the **Open** button as shown below: 
     
     ![Admin Center with Open button selected)](media/admin-center-open-button.PNG "Admin Center with Open button selected")
  
@@ -163,7 +171,7 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
     > [!NOTE]
     > The installation process can take up to 20 minutes. 
 
-#### Set up user roles for the solution
+### Set up user roles for the solution
 
 1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Guides instance from the list of instances, and then select the **Open** button.
  
@@ -187,9 +195,9 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
     
     - System Administrator (if you’re adding additional user there’s no need to select System Administrator permission)
     
-    ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
+      ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
  
-### Change the name of the Guides URL (optional)
+## Change the name of the Guides URL (optional)
 
 If you want, you can change the name of the default Guides URL to a more meaningful name.
 
@@ -197,7 +205,7 @@ If you want, you can change the name of the default Guides URL to a more meaning
  
 2.	In the **URL** field, enter a new URL.
  
-   ![Enter URL in field)](media/url-field.PNG "Enter URL in field")
+     ![Enter URL in field)](media/url-field.PNG "Enter URL in field")
  
 ## Add additional user accounts (optional)
 
@@ -223,15 +231,15 @@ To add a user account:
 
     - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
     
-    ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
+      ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
 
     - **Roles.** Expand this section and select the **Customized administrator** option. Additional users will be customized administrators
     
-    ![Edit User Roles dialog box)](media/edit-user-roles-dialog-box.PNG "Edit User Roles dialog box")
+      ![Edit User Roles dialog box)](media/edit-user-roles-dialog-box.PNG "Edit User Roles dialog box")
  
     - **Product licenses**. Expand this section, and then turn on the **Guides plan**. For public preview, you have 25 Guides licenses.
     
-    ![Product Licenses dialog box)](media/product-licenses.PNG "Product Licenses dialog box")
+      ![Product Licenses dialog box)](media/product-licenses.PNG "Product Licenses dialog box")
  
 4.	Select **Add** when you’re done.
 
@@ -304,6 +312,14 @@ For information on opening and signing in to the HoloLens application, go to one
    - [HoloLens authoring](hololens-authoring.md)
    
    - [HoloLens Operating manual](operator-guide.md)
+
+### See also
+
+[Get started with Dynamics 365 Guides (Preview)(get-started.md)
+[Authoring a guide](authoring-overview.md)
+[Analyzing your guides](analytics-guide.md)
+[FAQ](faq)
+
 
 
 
