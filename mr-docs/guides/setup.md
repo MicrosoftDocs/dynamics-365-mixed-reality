@@ -164,25 +164,40 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
     > The installation process can take up to 20 minutes. 
 
 #### Set up user roles for the solution
-1.	Go to the Dynamics 365 Administration Center, select the newly created Guides instance from the list of instances, and then select the Open button.
+
+1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Guides instance from the list of instances, and then select the **Open** button.
  
-2.	In the Dynamics 365 Settings>Administration page, under System, select Security. 
+2.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
+
+    ![Dynamics 365 Security setting)](media/security-setting.PNG "Dynamics 365 Security setting")
  
-3.	In the Security page, select Users.
+3.	In the **Security** page, select **Users**.
+
+    ![Dynamics 365 Users setting)](media/select-users.PNG "Dynamics 365 Users setting")
  
-4.	Select the user, and then select Manage roles. 
+4.	Select the user, and then select **Manage** roles. 
+
+    ![Manage Roles command)](media/manage-roles-command.PNG "Manage Roles command")
  
-5.	In the Manage User Roles dialog box, select the following roles: 
-•	Common Data Service User
-•	Dynamics 365 MR Guides Author
-•	System Administrator (if you’re adding additional user there’s no need to select System Administrator permission)
+5.	In the **Manage User Roles** dialog box, select the following roles: 
+
+    - Common Data Service User
+    
+    - Dynamics 365 MR Guides Author
+    
+    - System Administrator (if you’re adding additional user there’s no need to select System Administrator permission)
+    
+    ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
  
 ### Change the name of the Guides URL (optional)
+
 If you want, you can change the name of the default Guides URL to a more meaningful name.
-1.	In the Dynamics 365 Administration Center, select the Guides instance, and then select Edit.
+
+1.	In the Dynamics 365 Administration Center, select the Guides instance, and then select **Edit**.
  
-2.	In the URL field, enter a new URL.
+2.	In the **URL** field, enter a new URL.
  
+   ![Enter URL in field)](media/url-field.PNG "Enter URL in field")
  
 ## Install the applications
 There are two guides applications: 
