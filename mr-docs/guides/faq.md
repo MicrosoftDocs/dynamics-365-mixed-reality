@@ -8,7 +8,7 @@ Guides includes two applications:
 
 - PC Authoring application
 
-- HoloLens application, which includes modes for authoring, operating, and spectating
+- HoloLens application, which includes modes for authoring and operating
 
 If you plan to author guides, you’ll need to use both apps. If not, you’ll only need the HoloLens app.
 
