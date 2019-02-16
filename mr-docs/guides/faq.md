@@ -24,7 +24,7 @@ The following table lists technical requirements for deploying and using Microso
 
 ### Licensing and product requirements
 
-You need a Dynamics 365 Guides (Preview) license for each user who will use the Guides app. For more information, see the Setup topic.
+You need a Dynamics 365 Guides (Preview) license for each user who will use the Guides app. For more information, [see the Setup topic](setup.md).
 
 ## I get an error message when I try to sign in to the PC app or HoloLens app
 
