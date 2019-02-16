@@ -312,7 +312,7 @@ You can use any of the following keyboard shortcuts in the PC application:
 
 |Keyboard shortcut|Action|
 |---------|-------------------------------------------------|
-|Ctrl + S|Save the current guide.|
+|Ctrl + S|Save the current guide|
 |Ctrl + C|Copy|
 |Ctrl + V|Paste|
 |Ctrl + X|Cut|
