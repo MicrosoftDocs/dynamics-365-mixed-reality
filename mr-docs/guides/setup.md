@@ -197,7 +197,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
     ![System settings dialog box)](media/system-settings-dialog-box.PNG "System settings dialog box")
  
-4.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the **Solutions>Edit** button.
+4.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small Edit button next to **Solutions**.
 
     ![Solutions Edit button)](media/solutions-edit-button.PNG "Solutions Edit button")
  
