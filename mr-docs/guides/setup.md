@@ -86,7 +86,7 @@ If you're an administrator, and you want to share Guides with other users in you
  
 3.	In the **Add to existing products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
  
-4.	Select the licenses you want to enable for the selected users (Dynamics 365 Guides), and then select **Add**.
+4.	Select the licenses you want to enable for the selected users (Dynamics 365 Guides (Preview)), and then select **Add**.
 
    > [!NOTE]
    > After adding licenses, you’ll need to add user accounts, as described in the next procedure. 
