@@ -67,30 +67,41 @@ You can subscribe in any of the following ways:
 7.	Assign licenses to users as described in the next procedure.
 
 ### Assign licenses for additional users (optional)
-If you want to share Guides with other users in your organization, you’ll need to assign licenses for users in the Microsoft 365 Admin Center or Partner Center. Each user you assign a license to will need an Azure Active Directory (Azure AD) account. 
-1.	In the Microsoft 365 Admin Center, under Billing in the left navigation, select Subscriptions, and then select Assign to users.
- with other users in your organization, you’ll need to assign licenses for users in the Microsoft 365 Admin Center or Partner Center. Each user you assign a license to will need an Azure Active Directory (Azure AD) account. 
-2.	Select the users you'd like to assign the trial or subscription to, and then in the Bulk actions menu on the right side of the screen, select Edit product licenses.
+
+If you want to share Guides with other users in your organization, you’ll need to assign licenses for users in the Microsoft 365 Admin Center or [Partner Center](https://docs.microsoft.com/en-us/partner-center/). Each user you assign a license to will need an Azure Active Directory (Azure AD) account.
+
+1.	In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users.**
+
+2.	Select the users you'd like to assign the trial or subscription to, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**.
  
-3.	In the Add to existing products screen, select the Add to existing product license assignments option, and then select Next.
+3.	In the **Add to existing products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
  
-4.	Select the licenses you want to enable for the selected users (Dynamics 365 Guides), and then select Add.
-Note: After adding licenses, you’ll need to add user accounts.
- 
-￼add user accounts.
-Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. 
+4.	Select the licenses you want to enable for the selected users (Dynamics 365 Guides), and then select **Add**.
+
+   > [!NOTE]
+   > After adding licenses, you’ll need to add user accounts. Instructions are provided below.
 
 ### Create a CDS environment
-1.	Go to the PowerApps admin center and sign in with the user credentials created when you signed up for the trial subscription.
-2.	In the PowerApps admin center, select the New environment button.
+
+Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. 
+
+1.	Go to the [PowerApps admin center](https://preview.admin.powerapps.com/environments) and sign in with the user credentials created when you signed up for the trial subscription.
+
+2.	In the PowerApps Admin Center, select the **New environment** button.
+
+    ![PowerApps Admin Center)](media/powerapps-environment.PNG "PowerApps Admin Center")
  
 3.	Fill in the following details for the environment:
-o	Environment Name: Guides_<any name>
-o	Region: Choose your region
-o	Environment Type: Set it to Production
+
+   -	**Environment Name:** Guides_<any name>
+   -	**Region:** Choose your region
+   -	**Environment Type:** Set it to **Production**
   
-4.	Select the Create environment button. 
-5.	In the pop-up that appears, select Create database.
+    ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
+    
+4.	Select the **Create environment** button. 
+
+5.	In the pop-up that appears, select **Create database**.
  
 6.	In the next pop-up, choose the currency and language.
  
