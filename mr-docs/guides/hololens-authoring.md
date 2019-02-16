@@ -22,12 +22,15 @@ The second major step in creating a guide in Microsoft Dynamics 365 Guides takes
   ![Test your guide)](media/test-guide.PNG "Test your guide")
 
 ## Install the HoloLens app
+
 If you haven’t already installed the HoloLens app on your HoloLens device (or it hasn't already been installed for you), install it from the Microsoft Store for Consumers.
 
 To install the HoloLens app:
 
 1.	Make sure you have HoloLens build 10.0.14393.0 or later installed on your HoloLens. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
+
 2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the Home menu, and then open the Microsoft Store app and search for “Guides”.
+
 3.	Select **Install** to download and install the Guides application.
 
 ### Sign in to the HoloLens app
@@ -53,6 +56,8 @@ To set your IPD, use the Calibration app included with HoloLens using the follow
 1.	Do the bloom gesture to launch the Start menu.
 
 2.	Air tap on **Calibration** to begin calibrating your HoloLens.
+
+   ![Calibration app)](media/hololens-calibration.PNG "Calibration app")
  
 3.	Follow the instructions on your HoloLens.
 
@@ -84,12 +89,15 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
     ![Launch Guides)](media/launch-guides.PNG "Launch 'Guides")
  
 4.	In the **Welcome** screen, select **Sign in**. 
+
 5.	In the **Email and accounts** screen, select **Work or school account**, and then select **Continue**. 
+
 6.	In the **Work or school account** screen, enter the credentials you created during the trial sign-up or the credentials provided to you by the administrator who installed the app. 
 
     ![Sign in to HoloLens)](media/sign-in-hololens.PNG "Sign in to HoloLens")
  
 7.	Select an instance to use if you have more than one instance, and then select **Continue**.
+
 8.	In the **Select Mode** dialog box, gaze at the box to the right of **Author** until the box fills, which selects that item. 
 
     ![Select Author mode)](media/author-mode.PNG "Select Author mode")
