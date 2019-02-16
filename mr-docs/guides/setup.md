@@ -281,11 +281,11 @@ If you use the Microsoft Store for Business, you can have users install the apps
 3.	In the Microsoft Store, select the **Install** button for the Guides app to download and install the application.
 
 > [!NOTE]
-> For instructions on opening and signing in to the app, see the procedure below.
+> For instructions on opening and signing in to the app, see the [Authoring guide](authoring-overview.md)
 
 #### Install the HoloLens app
 
-1.	Make sure your HoloLens is running build 10.0.14393.0 or later. HoloLens build 10.0.14393.0 is the minimum that supports Guides. We recommend updating HoloLens to newer versions when available. See Manage updates to HoloLens for instructions on using Windows Update for Business.
+1.	Make sure your HoloLens is running build 10.0.14393.0 or later. We recommend updating HoloLens to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
 2.	On your HoloLens, use the bloom gesture to open the Home menu, and then open the Microsoft Store app and search for “Guides”.
 
