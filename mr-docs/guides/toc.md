@@ -12,7 +12,7 @@
 ## [Analyze your guides](analytics-guide.md)
 ## [Windows Device Portal calibration](windows-device-portal.md)
 ## [Glossary of terms](glossary.md)
-## [Known issues](known-issues.md)
 ## [FAQ](faq.md)
+## [Known issues](known-issues.md)
 ## [Terms of use](../licensing/guides-terms-of-use.md)
 
