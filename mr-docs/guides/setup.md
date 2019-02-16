@@ -199,89 +199,113 @@ If you want, you can change the name of the default Guides URL to a more meaning
  
    ![Enter URL in field)](media/url-field.PNG "Enter URL in field")
  
+## Add additional user accounts (optional)
+
+You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides as an author or operator. 
+
+To add a user account:
+
+1.	Go to the [Office 365 Admin Center](https://portal.office.com/adminportal/home).
+
+2.	Select **Add a user**.
+
+    ![Add a user dialog box)](media/add user.PNG "Add a user dialog box")
+ 
+    You’ll see the **New user** dialog box:
+    
+    ![New User dialog box)](media/new-user-dialog-box.PNG "New user dialog box")
+ 
+3.	In the **New user** dialog box, fill in the following user information:
+
+    - Add the first, last, display name, and user name.
+
+    - **Domain.** Choose a domain. For example, if the user name is Jakob, and his domain is contoso.com, he'll sign in to Guides by entering jakob@contoso.com.
+
+    - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
+    
+    ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
+
+    - **Roles.** Expand this section and select the **Customized administrator** option. Additional users will be customized administrators
+    
+    ![Edit User Roles dialog box)](media/edit-user-roles-dialog-box.PNG "Edit User Roles dialog box")
+ 
+    - **Product licenses**. Expand this section, and then turn on the **Guides plan**. For public preview, you have 25 Guides licenses.
+    
+    ![Product Licenses dialog box)](media/product-licenses.PNG "Product Licenses dialog box")
+ 
+4.	Select **Add** when you’re done.
+
+When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to the Guides apps.
+
 ## Install the applications
+
 There are two guides applications: 
-•	PC authoring application
-•	HoloLens application, which has an Author mode and an Operator mode
+
+- PC authoring application
+
+- HoloLens application, which has an Author mode and an Operator mode
+
 You can install the apps from the Microsoft Store for Consumers as described below.
-Note: If you can’t access the Microsoft Store for Consumers due to company policies, please contact your administrator to distribute the app.
-If you are an administrator and you have subscribed and assigned licenses to your users through the Microsoft 365 Admin Center or Partner Center, you can make the apps available through one of the following:
-•	Microsoft Store for Consumers
-•	Microsoft Store for Business
+
+> [!NOTE]
+> If you can’t access the Microsoft Store for Consumers due to company policies, please contact your administrator to distribute the app.
+
+If you're an administrator and you have subscribed and assigned licenses to your users through the Microsoft 365 Admin Center or Partner Center, you can make the apps available through one of the following:
+
+- Microsoft Store for Consumers
+
+- Microsoft Store for Business
+
 If you use the Microsoft Store for Business, you can have users install the apps:
-•	From your organization’s private store
-•	From an email link that you send
+
+- From your organization’s private store
+
+- From an email link that you send
 
 ### Install the apps from the Microsoft Store for Consumers
 
 #### Install the PC authoring app 
 1.	Make sure your Windows 10 PC is running the Fall Creators Update or later (build 10.0.16299 or later).
-2.	On your PC, go to Start  > Microsoft Store  , and then search for “Guides.”
-3.	In the Microsoft Store, select the Install button for the Guides app to download and install the application.
-Note: For instructions on opening and signing in to the app, see the procedure below.
+
+2.	On your PC, go to Start ![Start button)](media/windows-button.PNG "Start button") > Microsoft Store ![Store button)](media/store-button.PNG "Store button"), and then search for “Guides.”
+
+3.	In the Microsoft Store, select the **Install** button for the Guides app to download and install the application.
+
+> [!NOTE]
+> For instructions on opening and signing in to the app, see the procedure below.
 
 #### Install the HoloLens app
+
 1.	Make sure your HoloLens is running build 10.0.14393.0 or later. HoloLens build 10.0.14393.0 is the minimum that supports Guides. We recommend updating HoloLens to newer versions when available. See Manage updates to HoloLens for instructions on using Windows Update for Business.
+
 2.	On your HoloLens, use the bloom gesture to open the Home menu, and then open the Microsoft Store app and search for “Guides”.
+
 3.	Select Install to download and install the Guides application.
-Note: For instructions on opening and signing in to the app, see the procedure below.
-Distribute the apps through the Microsoft Store for Business
-1.	Go to the Store for Business.
-2.	Acquire the app(s).
+
+> {!NOTE] 
+> For instructions on opening and signing in to the app, see the procedure below.
+
+### Distribute the apps through the Microsoft Store for Business
+
+1.	Go to the [Microsoft Store for Business](https://businessstore.microsoft.com/en-us/store).
+
+2.	[Acquire the app(s)](https://docs.microsoft.com/en-us/microsoft-store/acquire-apps-microsoft-store-for-business).
+
 3.	Choose one of the following distribution methods:
-•	Private store
-•	Email link
-•	Mobile device management
 
-FOR INFORMATION ON OPENING AND SIGNING IN TO THE PC APPLICATION, SEE AUTHORING A GUIDE
-FOR INFORMATION ON OPENING AND SINGING IN TO THE HOLOLENS APPLICATION, SEE X AND Y.
+   - [Private store](https://docs.microsoft.com/en-us/microsoft-store/distribute-apps-from-your-private-store)
+   - [Email link](https://docs.microsoft.com/en-us/microsoft-store/assign-apps-to-employees)
+   - [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
+
+For information on opening and signing in to the PC application after installing it, see the [Authroing Guide](authoring-overview.md)
+
+For information on opening and signing in to the HoloLens application, go to one of the following, depending on whether you're an author or an operator:
+
+   - [HoloLens authoring](hololens-authoring.md)
+   
+   - [HoloLens Operating manual](operator-guide.md)
 
 
-SOME OF THIS MIGHT NEED TO GO IN AUTHORING GUIDE
-Calibrate your HoloLens
-To have the holograms appear in the correct locations, the interpupillary distance (IPD) must be set. This is true for any HoloLens user, whether you’re an author or an operator. In an industrial setting where a hologram is used to direct the operator to do operational tasks, it’s crucial that holograms be aligned properly. Otherwise it can cause operator confusion and can result in costly damage.
-If you don’t configure the IPD for each user: 
-•	Holograms will be out of alignment by 1 – 2 cm. 
-•	Holograms will appear as if they’re sunk into or floating above surfaces they’re sitting on.
-•	Holograms will not be stable. As you walk around, you’ll notice that they move.
-It’s particularly important for authors to ensure that their IPD is set correctly. Otherwise, all operators using the guide will see misaligned holograms. 
-To set your IPD, use the Calibration app included with HoloLens using the following steps: 
-1.	Do the bloom gesture to launch the Start menu.
-2.	Air tap on Calibration to begin calibrating your HoloLens.
- 
-3.	Follow the instructions on your HoloLens.
-Each user will need to do this calibration after logging into the device. If the HoloLens is running Windows Holographic for Business edition, the IPD setting will be saved on the device. When the user logs into the same HoloLens, their IPD setting will be applied automatically even after switching users—they won’t need to recalibrate. If the HoloLens is running Windows Holographic edition, however, user settings aren’t saved, since this version of the operating system is designed for a single user. Each time you switch users, you’ll need to recalibrate the device. 
-To determine which version of the operating system you’re using on HoloLens: 
-1.	Do the bloom gesture to launch the Start menu.
-2.	Air tap on Settings > System.
 
- 
-3.	Air tap About.
- 
-Tip:  You can save time by setting your IPD with the Windows Device Portal instead of calibrating each time you switch users. For more information, see Use the Windows Device Portal to store your IPDs. 
-Open and sign in to the HoloLens application for the first time
-After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
-
-## Add additional user accounts (optional)
-You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides as an author or operator. 
-To add a user account:
-1.	Go to the Office 365 Admin Center.
-2.	Select Add a user.
- 
-You’ll see the New user dialog box:
- 
-3.	In the New user dialog box, fill in the following user information:
-￼￼￼Add the first, last, display name, and user name.
-•	Domain. Choose a domain For example, if the user name is Jakob, and his domain is contoso.com, he'll sign in to Guides by entering jakob@contoso.com.
-￼￼￼Add the first, last, display name, and user name.a mobile phone number, address, and so on.
-•	Password. The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the Make this user change their password when they first sign in check box. 
- ￼￼Add the first, last, display name, and user name.a mobile phone number, address, and so on.
-Password. The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the Make this user change their password when they first sign in check box. 
-•	Roles. Expand this section and select the Customized administrator option. Additional users will be customized administrators
- 
-•	Product licenses. Expand this section, and then turn on the Guides plan. For public preview, you have 25 Guides licenses.
- 
-4.	Select Add when you’re done.
-When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to the Guides apps.
 
 
