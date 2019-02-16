@@ -306,6 +306,23 @@ To add an object from the 3D toolkit:
 - Use one of the hand poses when you want the operator to use their hand in a specific way to influence or manipulate something. There are various poses for specific interactions such as Pull, Push, Pinch, Grab, and others. Combine these standards with arrows and/or icons to add additional meaning.
 - Adjust the size of the pointer but never go below 1 cm. Otherwise, it can cause errors.
 
+## Keyboard shortcuts
+
+You can use any of the following keyboard shortcuts in the PC application:
+
+|Keyboard shortcut|Action|
+|---------|-------------------------------------------------|
+|Ctrl + S|Save the current guide.|
+|Ctrl + C|Copy|
+|Ctrl + V|Paste|
+|Ctrl + X|Cut|
+|Ctrl + A|Select All|
+|Ctrl + Z|Undo the last change to the guide|
+|Ctrl + Y|Redo the last change to the guide|
+|Ctrl + F4|Close the current window|
+|Win + Down|Minimize the current window|
+|Win + Up|Maximize the current window|
+
 ## What's next?
 After you create your guide, select an alignment method, and create your tasks and steps, you’re ready to test things out on the HoloLens in a real-world environment and place your holograms.
 
