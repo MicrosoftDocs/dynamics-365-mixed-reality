@@ -102,20 +102,37 @@ Once you have a valid trial subscription, you’ll need to create an environment
 4.	Select the **Create environment** button. 
 
 5.	In the pop-up that appears, select **Create database**.
+
+    ![Environment created dialog box)](media/environment-created.PNG "Environment created dialog box")
  
 6.	In the next pop-up, choose the currency and language.
+
+    ![Currency and language settings)](media/currency-language-settings.PNG "Currency and language settings")
  
-NOTE: If you’re asked to include sample apps and data, clear the check box.
-7.	Select Create database. 
-8.	In the PowerApps Admin center>Environments screen, select the environment that was just created (a production environment, not a default environment). 
+    > [!NOTE]
+    > If you’re asked to include sample apps and data, clear the check box.
+    
+7.	Select **Create database.**
+
+8.	In the **PowerApps Admin center>Environments** screen, select the environment that was just created (a production environment, not a default environment). 
+
+    ![Select the environment)](media/select-environment.PNG "Select the environment")
  
-The following screen will appear while the database is being created and provisioned:
+    The following screen will appear while the database is being created and provisioned:
+    
+    ![Provisioning database screen)](media/provisioning-database.PNG "Provisioning database screen")
  
-Note: Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.
+    > [!NOTE]
+    > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.
+    
 9.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link. 
-The Dynamics admin center will appear. This is where you can install the solution and make other configurations.
+
+    ![Admin Center link)](media/admin-center-link.PNG "Admin Center link")
+
+The Dynamics Admin Center will appear. This is where you can install the solution and make other configurations.
 
 ### Install and configure the Guides solution
+
 1.	Before installing the solution, you need to increase the email attachment size to 128MB (131072kb). To do that: 
 a.	Go to the Dynamics 365 Administration Center and sign in with the user credentials you created when you signed up for the Guides trial.
 b.	Select the newly created Guides instance from the list of instances, and then select the Open button as shown below:  
