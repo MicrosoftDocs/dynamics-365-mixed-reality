@@ -105,7 +105,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
     -	**Region:** Choose your region
     -	**Environment Type:** Set it to **Production**
   
-     ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
+      ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
     
 4.	Select the **Create environment** button. 
 
@@ -147,7 +147,7 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
     
     2.	Select the newly created Guides instance from the list of instances, and then select the **Open** button as shown below: 
     
-    ![Admin Center with Open button selected)](media/admin-center-open-button.PNG "Admin Center with Open button selected")
+      ![Admin Center with Open button selected)](media/admin-center-open-button.PNG "Admin Center with Open button selected")
  
 2.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
 
@@ -197,16 +197,7 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
     
       ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
  
-## Change the name of the Guides URL (optional)
 
-If you want, you can change the name of the default Guides URL to a more meaningful name.
-
-1.	In the Dynamics 365 Administration Center, select the Guides instance, and then select **Edit**.
- 
-2.	In the **URL** field, enter a new URL.
- 
-     ![Enter URL in field)](media/url-field.PNG "Enter URL in field")
- 
 ## Add additional user accounts (optional)
 
 You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides as an author or operator. 
@@ -217,7 +208,7 @@ To add a user account:
 
 2.	Select **Add a user**.
 
-    ![Add a user dialog box)](media/add user.PNG "Add a user dialog box")
+    ![Add a user dialog box)](media/add-user.PNG "Add a user dialog box")
  
     You’ll see the **New user** dialog box:
     
@@ -245,6 +236,16 @@ To add a user account:
 
 When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to the Guides apps.
 
+## Change the name of the Guides URL (optional)
+
+If you want, you can change the name of the default Guides URL to a more meaningful name.
+
+1.	In the Dynamics 365 Administration Center, select the Guides instance, and then select **Edit**.
+ 
+2.	In the **URL** field, enter a new URL.
+ 
+     ![Enter URL in field)](media/url-field.PNG "Enter URL in field")
+     
 ## Install the applications
 
 There are two guides applications: 
@@ -290,7 +291,7 @@ If you use the Microsoft Store for Business, you can have users install the apps
 
 3.	Select Install to download and install the Guides application.
 
-> {!NOTE] 
+> [!NOTE] 
 > For instructions on opening and signing in to the app, see the procedure below.
 
 ### Distribute the apps through the Microsoft Store for Business
@@ -315,9 +316,9 @@ For information on opening and signing in to the HoloLens application, go to one
 
 ### See also
 
-[Get started with Dynamics 365 Guides (Preview)(get-started.md)
-[Authoring a guide](authoring-overview.md)
-[Analyzing your guides](analytics-guide.md)
+[Get started with Dynamics 365 Guides (Preview)(get-started.md)<br>
+[Authoring a guide](authoring-overview.md)<br>
+[Analyzing your guides](analytics-guide.md)<br>
 [FAQ](faq)
 
 
