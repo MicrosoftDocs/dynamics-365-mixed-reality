@@ -34,24 +34,41 @@ To install the HoloLens app:
 If you sign in with a brand new HoloLens device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your HoloLens for use.
 
 #### Calibrate your HoloLens
-When placing holograms, it’s crucial to ensure the alignment is as close as possible. You can’t place holograms accurately if your HoloLens isn’t calibrated. Calibration is also recommended to improve the quality of the visuals or to calibrate visuals for a new user.
 
-> [!IMPORTANT]
-> It’s particularly important for authors to ensure that their HoloLens is calibrated correctly. Otherwise, all operators using the guide will see misaligned holograms.
+To have the holograms appear in the correct locations, the interpupillary distance (IPD) must be set. This is true for any HoloLens user, whether you’re an author or an operator. In an industrial setting where a hologram is used to direct the operator to do operational tasks, it’s crucial that holograms be aligned properly. Otherwise it can cause operator confusion and can result in costly damage.
 
-You can use the Calibration app that comes with HoloLens to set your interpupillary distance (IPD) and ensure proper device fit. 
+If you don’t configure the IPD for each user: 
 
-To set your IPD using the Calibration app:
+•	Holograms will be out of alignment by 1 – 2 cm. 
+
+•	Holograms will appear as if they’re sunk into or floating above surfaces they’re sitting on.
+
+•	Holograms will not be stable. As you walk around, you’ll notice that they move.
+
+> [!IMPORTANT] 
+> It’s particularly crucial for authors to ensure that their IPD is set correctly. Otherwise, all operators using the guide will see misaligned holograms. 
+
+To set your IPD, use the Calibration app included with HoloLens using the following steps: 
+
 1.	Do the bloom gesture to launch the Start menu.
-2.	Air tap on Calibration to begin calibrating your HoloLens.
 
-    ![Calibrate your HoloLens)](media/calibrate-hololens.PNG "Calibrate your HoloLens")
-
+2.	Air tap on **Calibration** to begin calibrating your HoloLens.
+ 
 3.	Follow the instructions on your HoloLens.
 
+Each user will need to do this calibration after logging into the device. If the HoloLens is running Windows Holographic for Business edition, the IPD setting will be saved on the device. When the user logs into the same HoloLens, their IPD setting will be applied automatically even after switching users — they won’t need to recalibrate. If the HoloLens is running Windows Holographic edition, however, user settings aren’t saved, since this version of the operating system is designed for a single user. Each time you switch users, you’ll need to recalibrate the device. 
+
+To determine which version of the operating system you’re using on HoloLens: 
+
+1.	Do the bloom gesture to launch the Start menu.
+
+2.	Air tap on **Settings > System**.
+ 
+3.	Air tap **About**.
+ 
 > [!TIP]
-> If you’re sharing a HoloLens device, learn how to [use the Windows Device Portal](windows-device-portal) to avoid having to re-calibrate the HoloLens each time you switch users. 
- 
+> You can save time by setting your IPD with the Windows Device Portal instead of calibrating each time you switch users. For more information, see [Use the Windows Device Portal to store your IPDs](windows-device-portal). 
+
 ### Open and sign in to HoloLens for the first time
 After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
 1.	Go to **All Apps**.
