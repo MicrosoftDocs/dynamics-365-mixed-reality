@@ -85,7 +85,7 @@ Incorrect alignment of holograms can happen for two main reasons:
 
 - If the guide is aligned using **marker alignment**, the marker for the guide might not have been printed properly. Try realigning the guide by selecting the **Alignment** button. Alternatively, you can reprint the marker. Make sure that the printed marker lies flat in the work area before you realign.
 
-For more information on alignment methods, see the Alignment Methods topic.
+For more information on alignment methods, see the [Authoring Guide](pc-authoring.md).
 
 ## What does the Save button with the refresh icon mean? How does Save work?
 
