@@ -141,7 +141,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
  
 3.	Fill in the following details for the environment:
 
-    -	**Environment Name:** Guides_<any name>
+    -	**Environment Name:** Guides_*anyname*
     -	**Region:** Choose your region
     -	**Environment Type:** Set it to **Trial**
   
