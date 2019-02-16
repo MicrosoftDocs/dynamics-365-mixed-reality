@@ -2,7 +2,7 @@
 
 # Dynamics 365 Guides (Preview) Terms of Use
 
-NOTE: THIS IS PLACEHOLDER CONTENT--WAITING FOR CELA REVIEW
+!!!NOTE: THIS IS PLACEHOLDER CONTENT--WAITING FOR CELA REVIEW!!!
 
 
 Microsoft Software License Terms
