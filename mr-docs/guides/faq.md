@@ -28,7 +28,7 @@ You need a Dynamics 365 Guides (Preview) license for each user who will use the 
 
 ## I get an error message when I try to sign in to the PC app or HoloLens app
 
-The Guides solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the Guides product. If your organization has already purchased licenses, you or your admin can easily provide access to the apps. For more information, see the Setup topic.
+The Guides solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the Guides product. If your organization has already purchased licenses, you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
 
 ## Where is the data stored and who has access to it?
 
