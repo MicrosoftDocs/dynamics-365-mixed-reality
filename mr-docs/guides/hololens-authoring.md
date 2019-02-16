@@ -103,7 +103,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
     ![Select Author mode)](media/author-mode.PNG "Select Author mode")
     
 > [!TIP]
-> Dynamics 365 Guides (Preview) comes with an Example Guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/hololens-example-guide.PNG "Example Guide")
+> Dynamics 365 Guides (Preview) comes with an Example Guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/step-card.PNG "Example Guide")
 
 ## Align your guide
 The first thing you see when you open a guide is the alignment instructions you created in the PC Authoring application. The screen shot below shows the operating instructions created for the Example Guide that comes with Dynamics 365 Guides.
