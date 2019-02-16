@@ -49,7 +49,7 @@ You can subscribe in any of the following ways:
 
     ![Office 365 landing page)](media/office-365-landing-page.PNG "Office 365 landing page")
   
-3.	In the Office 365 landing page, select the **Admin** icon. This opens the Microsoft 365 Admin Cetner.   
+3.	In the Office 365 landing page, select the **Admin** icon. This opens the Microsoft 365 Admin Center.   
    
 4.	In the Microsoft 365 Admin Center, under **Billing**, select **Subscriptions**. MISSING SOMETHING HERE!!!
 
