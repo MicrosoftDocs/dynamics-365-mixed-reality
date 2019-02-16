@@ -151,12 +151,12 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
 5.	In the pop-up that appears, select **Create database**.
 
-    ![Environment created dialog box)](media/environment-created.PNG "Environment created dialog box")
+    ![Environment created dialog box)](media/environment-created.PNG "Environment created dialog box")   
     
+ 6.	In the next pop-up, choose the currency and language.
+
     > [!IMPORTANT]
     > If you’re asked to include sample apps and data, clear the check box.
- 
-6.	In the next pop-up, choose the currency and language.
 
     ![Currency and language settings)](media/currency-language-settings.PNG "Currency and language settings")
   
