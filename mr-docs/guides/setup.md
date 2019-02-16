@@ -302,17 +302,17 @@ If you use the Microsoft Store for Business, you can have users install the apps
 
 3.	Choose one of the following distribution methods:
 
-   - [Private store](https://docs.microsoft.com/en-us/microsoft-store/distribute-apps-from-your-private-store)
-   - [Email link](https://docs.microsoft.com/en-us/microsoft-store/assign-apps-to-employees)
-   - [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
+    - [Private store](https://docs.microsoft.com/en-us/microsoft-store/distribute-apps-from-your-private-store)
+    - [Email link](https://docs.microsoft.com/en-us/microsoft-store/assign-apps-to-employees)
+    - [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
-For information on opening and signing in to the PC application after installing it, see the [Authroing Guide](authoring-overview.md)
+For information on opening and signing in to the PC application after installing it, see the [Authoring Guide](authoring-overview.md)
 
 For information on opening and signing in to the HoloLens application, go to one of the following, depending on whether you're an author or an operator:
 
    - [HoloLens authoring](hololens-authoring.md)
    
-   - [HoloLens Operating manual](operator-guide.md)
+   - [Guides Operating manual](operator-guide.md)
 
 ### See also
 
