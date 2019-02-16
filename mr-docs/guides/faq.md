@@ -32,7 +32,7 @@ The Guides solution package (which includes the built-in library of 3D content) 
 
 ## Where is the data stored and who has access to it?
 
-The data is stored in the Microsoft Common Data Service (CDS) in the tenant that you have admin privileges to. Please sign in to Dynamics 365 using the credentials provided to you by the Guides team at Microsoft. For more information, see the Setup topic. 
+The data is stored in the Microsoft Common Data Service (CDS) in the tenant that you have admin privileges to. Please sign in to Dynamics 365 using the credentials created during the sign-up process. For more information, [see the Setup topic](setup.md). 
 
 ## What file formats are supported?
 
