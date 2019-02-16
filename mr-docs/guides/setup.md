@@ -134,20 +134,34 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
 ### Install and configure the Guides solution
 
 1.	Before installing the solution, you need to increase the email attachment size to 128MB (131072kb). To do that: 
-a.	Go to the Dynamics 365 Administration Center and sign in with the user credentials you created when you signed up for the Guides trial.
-b.	Select the newly created Guides instance from the list of instances, and then select the Open button as shown below:  
- 
-2.	In the Dynamics 365 Settings > Administration page, select System Settings.
-  
-3.	In the System Settings page, select the Email tab, and then in the Set file size limits for attachments field, enter 131072. Select OK when you’re done.
- 
-4.	Go back to the Dynamics 365 Administration Center and select the Solutions>Edit button.
- 
-Note:  You can also get to the Dynamics 365 Administration Center from the PowerApps portal.
-5.	Select the Dynamics 365 Guides solution in the list, and then select Install. 
 
+    a.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and sign in with the user credentials you created when you signed up for the Guides trial.
+    
+    b.	Select the newly created Guides instance from the list of instances, and then select the **Open** button as shown below: 
+    
+    ![Admin Center with Open button selected)](media/admin-center-open-button.PNG "Admin Center with Open button selected")
  
-Note: The installation process can take up to 20 minutes. 
+2.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
+
+    ![System settings in Dynamics 365)](media/system-settings.PNG "System settings in Dynamics 365")
+  
+3.	In the **System Settings** page, select the **Email** tab, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
+
+    ![System settings dialog box)](media/system-settings-dialog-box.PNG "System settings dialog box")
+ 
+4.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the **Solutions>Edit** button.
+
+    ![Solutions Edit button)](media/solutions-edit-button.PNG "Solutions Edit button")
+ 
+    > [!NOTE]
+    > You can also get to the Dynamics 365 Administration Center from the PowerApps portal.
+    
+5.	Select the Dynamics 365 Guides solution in the list, and then select **Install**. 
+
+    ![Solutions Install button)](media/solutions-install-button.PNG "Solutions Install button")
+ 
+    > [!NOTE]
+    > The installation process can take up to 20 minutes. 
 
 #### Set up user roles for the solution
 1.	Go to the Dynamics 365 Administration Center, select the newly created Guides instance from the list of instances, and then select the Open button.
