@@ -129,8 +129,6 @@ To add a user account:
 
 When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to the Guides apps.
 
-#
-
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
 Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Install and configure Guides solution](#configure)
@@ -240,7 +238,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
       ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
  
 
-## Change the name of the Guides URL (optional)
+### Change the name of the Guides URL (optional)
 
 If you want, you can change the name of the default Guides URL to a more meaningful name.
 
