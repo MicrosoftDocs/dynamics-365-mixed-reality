@@ -17,13 +17,15 @@ To try out Dynamics 365 Guides (Preview), you need to:
 
 1.	Get a trial subscription.
 
-2.	Create a new Common Data Service (CDS) environment and install the Guides solution.
+2.	Create a new Common Data Service (CDS) environment.
 
-3.	Install the Guides apps on a Windows 10 PC and HoloLens.
+3. install the Guides solution.
+
+4.	Install the Guides apps on a Windows 10 PC and HoloLens.
 
 This topic provides step-by-step instructions to get up and running with Guides. It also provides instructions for adding additional users to the trial (optional).
 
-## Subscribe to a free trial
+## Step 1: Subscribe to a free trial
 
 When you sign up for a free Guides trial subscription, you’ll get one month free for up to 25 users. 
 
@@ -89,7 +91,7 @@ If you want to share Guides with other users in your organization, you’ll need
    > [!NOTE]
    > After adding licenses, you’ll need to [add user accounts](#accounts) covered later in this topic. 
 
-## Create a Common Data Service (CDS) environment<a name="cds"></a>
+## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
 Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. 
 
@@ -139,7 +141,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
 The Dynamics Admin Center will appear. This is where you can install the solution and make other configurations.
 
-## Install and configure the Guides solution
+## Step 3: Install and configure the Guides solution
 
 1.	Before installing the solution, you need to increase the email attachment size to 128MB (131072kb). To do that: 
 
@@ -246,7 +248,7 @@ If you want, you can change the name of the default Guides URL to a more meaning
  
      ![Enter URL in field)](media/url-field.PNG "Enter URL in field")
      
-## Install the applications
+## Step 4: Install the applications
 
 There are two guides applications: 
 
