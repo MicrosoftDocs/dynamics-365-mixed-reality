@@ -40,7 +40,7 @@ The following table lists the formats supported for 3D content, images, and vide
 
 |Media|Supported formats|Best practice|
 |----------|----------------------|-------------------------------------------------------------------------|
-|3D content|FBX, GLB, GLTF|Make sure to optimize your 3D models as much as possible to maintain optimal performance on HoloLens|
+|3D content|FBX, GLB, GLTF|Make sure to optimize your 3D models as much as possible to maintain optimal performance on HoloLens.|
 |Images|PNG, JPG, JPEG, GIF, ICO, TIFF||
 |Videos|MP4, MOV, WMV|Make sure to keep your videos less than 2 mins long, and focused on one step at a time.|
 
