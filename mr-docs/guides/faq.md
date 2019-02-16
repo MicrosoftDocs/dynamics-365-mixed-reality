@@ -14,7 +14,7 @@ If you plan to author guides, you’ll need to use both apps. If not, you’ll o
 
 ## What are the prerequisites for using the Guides apps?
 
-The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Guides (Preview) throughout your organization.
+The following table lists technical requirements for deploying and using Microsoft Dynamics 365 Guides (Preview) throughout your organization.
 
 ### Device requirements
 |Device|OS requirements|Details|
