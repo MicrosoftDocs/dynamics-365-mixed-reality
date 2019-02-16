@@ -292,7 +292,7 @@ If you use the Microsoft Store for Business, you can have users install the apps
 3.	Select **Install** to download and install the Guides application.
 
 > [!NOTE] 
-> For instructions on opening and signing in to the app, if you're an author, see the [HoloLens authoring topic](hololens-authoring.md). Operators can use the [Guides Operating manual](operator-guide.md).
+> For instructions on opening and signing in to the app, if you're an author, see the [HoloLens authoring topic](hololens-authoring.md). Operators can use the [Guides Operator's manual](operator-guide.md).
 
 ### Distribute the apps through the Microsoft Store for Business
 
