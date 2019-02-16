@@ -200,7 +200,7 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
       ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
  
 
-## Add additional user accounts (optional)<a name="accounts"></a>
+### Add additional user accounts (optional)<a name="accounts"></a>
 
 You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides as an author or operator. 
 
@@ -238,7 +238,7 @@ To add a user account:
 
 When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to the Guides apps.
 
-## Change the name of the Guides URL (optional)
+### Change the name of the Guides URL (optional)
 
 If you want, you can change the name of the default Guides URL to a more meaningful name.
 
