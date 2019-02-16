@@ -147,7 +147,7 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
     
     2.	Select the newly created Guides instance from the list of instances, and then select the **Open** button as shown below: 
     
-       ![Admin Center with Open button selected)](media/admin-center-open-button.PNG "Admin Center with Open button selected")
+        ![Admin Center with Open button selected)](media/admin-center-open-button.PNG "Admin Center with Open button selected")
  
 2.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
 
