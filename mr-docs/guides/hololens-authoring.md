@@ -67,7 +67,7 @@ To determine which version of the operating system you’re using on HoloLens:
 3.	Air tap **About**.
  
 > [!TIP]
-> You can save time by setting your IPD with the Windows Device Portal instead of calibrating each time you switch users. For more information, see [Use the Windows Device Portal to store your IPDs](windows-device-portal). 
+> You can save time by setting your IPD with the Windows Device Portal instead of calibrating each time you switch users. For more information, see [Use the Windows Device Portal to store your IPDs](windows-device-portal.md). 
 
 ### Open and sign in to HoloLens for the first time
 After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
