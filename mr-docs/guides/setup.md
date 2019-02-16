@@ -312,15 +312,15 @@ For information on opening and signing in to the PC application after installing
 
 For information on opening and signing in to the HoloLens application, go to one of the following, depending on whether you're an author or an operator:
 
-    - [HoloLens authoring](hololens-authoring.md)
+   - [HoloLens authoring](hololens-authoring.md)
    
-    - [Guides Operating manual](operator-guide.md)
+   - [Guides Operating manual](operator-guide.md)
 
 ### See also
 
 [Get started with Dynamics 365 Guides (Preview)](get-started.md)<br>
 [Authoring a guide](authoring-overview.md)<br>
-[Guides Operator's manual)(operator-guide.md)<br>
+[Guides Operator's manual](operator-guide.md)<br>
 [Analyzing your guides](analytics-guide.md)<br>
 [FAQ](faq.md)
 
