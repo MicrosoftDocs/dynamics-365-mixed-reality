@@ -93,9 +93,9 @@ Once you have a valid trial subscription, you’ll need to create an environment
  
 3.	Fill in the following details for the environment:
 
-   -	**Environment Name:** Guides_<any name>
-   -	**Region:** Choose your region
-   -	**Environment Type:** Set it to **Production**
+    -	**Environment Name:** Guides_<any name>
+    -	**Region:** Choose your region
+    -	**Environment Type:** Set it to **Production**
   
     ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
     
