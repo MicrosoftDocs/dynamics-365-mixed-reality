@@ -1,7 +1,7 @@
 
 
 
-# Sign up to try Dynamics 365 Guides (Preview) for free!
+# Sign up to try Dynamics 365 Guides (Preview) for free
 
 We're thrilled to introduce Microsoft Dynamics 365 Guides (Preview)! 
 
