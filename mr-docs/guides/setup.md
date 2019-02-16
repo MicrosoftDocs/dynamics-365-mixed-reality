@@ -17,7 +17,7 @@ To try out Dynamics 365 Guides (Preview), you need to:
 
 1.	Get a trial subscription.
 
-2.	Create a new Common Data Service (CDS) environment.
+2.	Create a Common Data Service (CDS) environment, if you don't already have one.
 
 3. install the Guides solution.
 
@@ -37,13 +37,13 @@ You can subscribe in any of the following ways:
 
 - If you’re new to Microsoft, subscribe through the Guides Trial page. Step-by-step instructions for installing the app and signing up for a free trial are provided below. 
  
-  - Calling us at 1-888-477-7989, or
+  - Calling us at 1-888-477-7989 NOTE THAT THIS IS A PLACEHOLDER PHONE NUMBER!!!, or
   
   - Requesting to be contacted at [http://aka.ms/getmixedreality/](http://aka.ms/getmixedreality/).
 
 ### Subscribe through the Guides Trial page
 
-1.	Go to sign up for a Dynamics 365 Guides Trial (NEED TO ADD MARKETING LINK HERE WHEN WE HAVE IT), and then follow the instructions to create your user credentials for the trial.
+1.	Go to [the Dynamics 365 Guides sign-up page](aka.ms/GuidesSignUp), and then follow the instructions to create your user credentials for the trial.
 
 2.	After signing up, you’ll be prompted to sign in with the credentials you created in Step 1. After signing in, you’ll see the Office 365 landing page:
 
@@ -78,7 +78,7 @@ You can subscribe in any of the following ways:
 
 ### Assign licenses for additional users (optional)<a name="licenses"></a>
 
-If you want to share Guides with other users in your organization, you’ll need to assign licenses for users in the Microsoft 365 Admin Center or [Partner Center](https://docs.microsoft.com/en-us/partner-center/). Each user you assign a license to will need an Azure Active Directory (Azure AD) account.
+If you're an administrator, and you want to share Guides with other users in your organization, you’ll need to assign licenses for users in the Microsoft 365 Admin Center or [Partner Center](https://docs.microsoft.com/en-us/partner-center/). Each user you assign a license to will need an Azure Active Directory (Azure AD) account.
 
 1.	In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users.**
 
@@ -89,11 +89,51 @@ If you want to share Guides with other users in your organization, you’ll need
 4.	Select the licenses you want to enable for the selected users (Dynamics 365 Guides), and then select **Add**.
 
    > [!NOTE]
-   > After adding licenses, you’ll need to [add user accounts](#accounts) covered later in this topic. 
+   > After adding licenses, you’ll need to add user accounts, as described in the next procedure. 
+   
+### Add additional user accounts (optional)
+
+You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides as an author or operator. 
+
+To add a user account:
+
+1.	Go to the [Office 365 Admin Center](https://portal.office.com/adminportal/home).
+
+2.	Select **Add a user**.
+
+    ![Add a user dialog box)](media/add-user.PNG "Add a user dialog box")
+ 
+    You’ll see the **New user** dialog box:
+    
+    ![New User dialog box)](media/new-user-dialog-box.PNG "New user dialog box")
+ 
+3.	In the **New user** dialog box, fill in the following user information:
+
+    - Add the first, last, display name, and user name.
+
+    - **Domain.** Choose a domain. For example, if the user name is Jakob, and his domain is contoso.com, he'll sign in to Guides by entering jakob@contoso.com.
+
+    - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
+    
+      ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
+
+    - **Roles.** Expand this section and select the **Customized administrator** option. Additional users will be customized administrators
+    
+      ![Edit User Roles dialog box)](media/edit-user-roles-dialog-box.PNG "Edit User Roles dialog box")
+ 
+    - **Product licenses**. Expand this section, and then turn on the **Guides plan**. For public preview, you have 25 Guides licenses.
+    
+      ![Product Licenses dialog box)](media/product-licenses.PNG "Product Licenses dialog box")
+ 
+4.	Select **Add** when you’re done.
+
+When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to the Guides apps.
+
+#
 
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
-Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. 
+Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Install and configure Guides solution](#configure)
 
 1.	Go to the [PowerApps admin center](https://preview.admin.powerapps.com/environments) and sign in with the user credentials created when you signed up for the trial subscription.
 
@@ -105,7 +145,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
     -	**Environment Name:** Guides_<any name>
     -	**Region:** Choose your region
-    -	**Environment Type:** Set it to **Production**
+    -	**Environment Type:** Set it to **Trial**
   
         ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
     
@@ -114,14 +154,14 @@ Once you have a valid trial subscription, you’ll need to create an environment
 5.	In the pop-up that appears, select **Create database**.
 
     ![Environment created dialog box)](media/environment-created.PNG "Environment created dialog box")
+    
+    > [!IMPORTANT]
+    > If you’re asked to include sample apps and data, clear the check box.
  
 6.	In the next pop-up, choose the currency and language.
 
     ![Currency and language settings)](media/currency-language-settings.PNG "Currency and language settings")
- 
-    > [!NOTE]
-    > If you’re asked to include sample apps and data, clear the check box.
-    
+  
 7.	Select **Create database.**
 
 8.	In the **PowerApps Admin center>Environments** screen, select the environment that was just created (a production environment, not a default environment). 
@@ -141,15 +181,15 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
 The Dynamics Admin Center will appear. This is where you can install the solution and make other configurations.
 
-## Step 3: Install and configure the Guides solution
+## Step 3: Install and configure the Guides solution<a name="configure"></a>
 
-1.	Before installing the solution, you need to increase the email attachment size to 128MB (131072kb). To do that: 
+In the Guides PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To to this, you'll change the setting for the email attachment size to 128 MB (131072 KB). 
 
-    1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and sign in with the user credentials you created when you signed up for the Guides trial.
+1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and sign in with the user credentials you created when you signed up for the Guides trial. 
     
-    2.	Select the newly created Guides instance from the list of instances, and then select the **Open** button as shown below: 
+2.	Select the newly created Guides instance from the list of instances, and then select the **Open** button as shown below: 
     
-        ![Admin Center with Open button selected)](media/admin-center-open-button.PNG "Admin Center with Open button selected")
+    ![Admin Center with Open button selected)](media/admin-center-open-button.PNG "Admin Center with Open button selected")
  
 2.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
 
@@ -195,50 +235,12 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
     
     - Dynamics 365 MR Guides Author
     
-    - System Administrator (if you’re adding additional user there’s no need to select System Administrator permission)
+    - System Administrator (if you’re adding additional user there’s no need to select the System Administrator permission)
     
       ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
  
 
-### Add additional user accounts (optional)<a name="accounts"></a>
-
-You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides as an author or operator. 
-
-To add a user account:
-
-1.	Go to the [Office 365 Admin Center](https://portal.office.com/adminportal/home).
-
-2.	Select **Add a user**.
-
-    ![Add a user dialog box)](media/add-user.PNG "Add a user dialog box")
- 
-    You’ll see the **New user** dialog box:
-    
-    ![New User dialog box)](media/new-user-dialog-box.PNG "New user dialog box")
- 
-3.	In the **New user** dialog box, fill in the following user information:
-
-    - Add the first, last, display name, and user name.
-
-    - **Domain.** Choose a domain. For example, if the user name is Jakob, and his domain is contoso.com, he'll sign in to Guides by entering jakob@contoso.com.
-
-    - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
-    
-      ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
-
-    - **Roles.** Expand this section and select the **Customized administrator** option. Additional users will be customized administrators
-    
-      ![Edit User Roles dialog box)](media/edit-user-roles-dialog-box.PNG "Edit User Roles dialog box")
- 
-    - **Product licenses**. Expand this section, and then turn on the **Guides plan**. For public preview, you have 25 Guides licenses.
-    
-      ![Product Licenses dialog box)](media/product-licenses.PNG "Product Licenses dialog box")
- 
-4.	Select **Add** when you’re done.
-
-When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to the Guides apps.
-
-### Change the name of the Guides URL (optional)
+## Change the name of the Guides URL (optional)
 
 If you want, you can change the name of the default Guides URL to a more meaningful name.
 
