@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Sign up to try Dynamics 365 Guides (Preview) for free
 
-We're thrilled to introduce Microsoft Dynamics 365 Guides (Preview)! [Get an overview of Guides capabilities](index.md)
+We're thrilled to introduce Microsoft Dynamics 365 Guides (Preview)! [Learn about Dynamics 365 Guides (Preview) capabilities](index.md)
 
 To try out Dynamics 365 Guides (Preview), you need to:
 
