@@ -19,7 +19,7 @@ To try out Dynamics 365 Guides (Preview), you need to:
 
 2.	Create a Common Data Service (CDS) environment, if you don't already have one.
 
-3. install the Guides solution.
+3. Install the Guides solution.
 
 4.	Install the Guides apps on a Windows 10 PC and HoloLens.
 
