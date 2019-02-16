@@ -56,7 +56,7 @@ You can subscribe in any of the following ways:
     > [!NOTE]
     > You can add licenses for additional users now if you want by selecting the **Assign to users** button, or you can add them later. [See step-by-step instructions on adding additional user licenses.](#licenses)
 
-5.	When you’re done, go to the next section: Create a new CDS environment and install the Guides solution.ADD BOOKMARK!!!
+5.	When you’re done, go to the next section: [Create a new CDS environment and install the Guides solution.](#cds)
 
 ### Subscribe through the Microsoft 365 Admin Center.
 
@@ -87,9 +87,9 @@ If you want to share Guides with other users in your organization, you’ll need
 4.	Select the licenses you want to enable for the selected users (Dynamics 365 Guides), and then select **Add**.
 
    > [!NOTE]
-   > After adding licenses, you’ll need to [add user accounts]BOOKMARK GOES HERE covered later in this topic. 
+   > After adding licenses, you’ll need to [add user accounts](#accounts) covered later in this topic. 
 
-## Create a Common Data Service (CDS) environment
+## Create a Common Data Service (CDS) environment<a name="cds"></a>
 
 Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. 
 
@@ -198,7 +198,7 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
       ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
  
 
-## Add additional user accounts (optional)
+## Add additional user accounts (optional)<a name="accounts"></a>
 
 You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides as an author or operator. 
 
