@@ -39,26 +39,31 @@ You can subscribe in any of the following ways:
 
     ![Office 365 landing page)](media/office-365-landing-page.PNG "Office 365 landing page")
   
-3.	In the Office 365 landing page, select the **Admin** icon. This opens the Microsoft 365 Admin Cetner.
-
+3.	In the Office 365 landing page, select the **Admin** icon. This opens the Microsoft 365 Admin Cetner.   
    
-   
-4.	In the Microsoft 365 Admin Center, under **Billing**, select **Subscriptions**. 
+4.	In the Microsoft 365 Admin Center, under **Billing**, select **Subscriptions**. MISSING SOMETHING HERE!!!
 
     ![Microsoft 365 Admin Center)](media/microsoft-365-admin-center.PNG "Microsoft 365 Admin Center")
   
     > [!NOTE]
-    > You can add licenses for additional users now if you want by selecting the **Assign to users** button, or you can add them later. See step-by-step instructions on adding additional users.ADD BOOKMARK 
+    > You can add licenses for additional users now if you want by selecting the **Assign to users** button, or you can add them later. See step-by-step instructions on adding additional users.ADD BOOKMARK!!! 
 
-5.	When you’re done, go to the next section: Create a new CDS environment and install the Guides solution.ADD BOOKMARK
+5.	When you’re done, go to the next section: Create a new CDS environment and install the Guides solution.ADD BOOKMARK!!!
 
 ### Subscribe through the Microsoft 365 Admin Center.
-1.	Go to https://portal.office.com/AdminPortal/Home#/catalog.
-2.	Sign in using your company's admin account. If you don't know who your admin is, contact the IT help desk at your company to find out. Get more advice on admin accounts.
-3.	Under Billing in the left navigation, select Purchase services.
-4.	Scroll down to the Other plans section.
-5.	Find the product card for Dynamics 365 Guides.
-6.	On the product card, select Start free trial, and then follow the instructions.
+
+1.	Go to [https://portal.office.com/AdminPortal/Home#/catalog](https://portal.office.com/AdminPortal/Home#/catalog).
+
+2.	Sign in using your company's admin account. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252fen-us%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide).
+
+3.	Under **Billing** in the left navigation, select **Purchase services**.
+
+4.	Scroll down to the **Other plans** section.
+
+5.	Find the product card for Dynamics 365 Guides (Preview).
+
+6.	On the product card, select **Start free trial**, and then follow the instructions.
+
 7.	Assign licenses to users as described in the next procedure.
 
 ### Assign licenses for additional users (optional)
