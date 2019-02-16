@@ -267,7 +267,7 @@ If you use the Microsoft Store for Business, you can have users install the apps
 #### Install the PC authoring app 
 1.	Make sure your Windows 10 PC is running the Fall Creators Update or later (build 10.0.16299 or later).
 
-2.	On your PC, go to Start ![Start button)](media/windows-button.PNG "Start button") > Microsoft Store ![Store button)](media/store-button.PNG "Store button"), and then search for “Guides.”
+2.	On your PC, go to Start ![Start button)](media/windows-button.png "Start button") > Microsoft Store ![Store button)](media/store-button.png "Store button"), and then search for “Guides.”
 
 3.	In the Microsoft Store, select the **Install** button for the Guides app to download and install the application.
 
