@@ -321,7 +321,7 @@ For information on opening and signing in to the HoloLens application, go to one
 [Get started with Dynamics 365 Guides (Preview)](get-started.md)<br>
 [Authoring a guide](authoring-overview.md)<br>
 [Guides Operator's manual](operator-guide.md)<br>
-[Analyzing your guides](analytics-guide.md)<br>
+[Analyze your guides to improve process efficiencies](analytics-guide.md)<br>
 [FAQ](faq.md)
 
 
