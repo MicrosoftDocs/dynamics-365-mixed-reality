@@ -35,7 +35,7 @@ You can subscribe in any of the following ways:
 
   - Subscribe through the Guides Trial page as described below. 
  
-  - Call us at 1-888-477-7989 NOTE THAT THIS IS A PLACEHOLDER PHONE NUMBER!!!
+  - Call us at 1-888-477-7989. NOTE THAT THIS IS A PLACEHOLDER PHONE NUMBER!!!
   
   - Request to be contacted at [http://aka.ms/getmixedreality/](http://aka.ms/getmixedreality/).
   
