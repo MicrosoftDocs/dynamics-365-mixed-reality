@@ -12,7 +12,7 @@ To use the portal:
 
 3. Enter it in the portal every time you switch users on the HoloLens. 
 
-## Set up HoloLens to use the Windows Device Portal
+## Set up your HoloLens to use the Windows Device Portal
 
 Before accessing the Windows Device Portal, you need to set it up on HoloLens:
 
