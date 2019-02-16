@@ -13,6 +13,8 @@ ms.reviewer: v-brycho
 
 We're thrilled to introduce Microsoft Dynamics 365 Guides (Preview)! 
 
+Guides enables employees to learn by doing. Enhance learning with step-by-step instructions that guide employees to the tools and parts they need and how to use them in real work situations. Create interactive content, attach photos and videos, import 3D models, and customize training to turn institutional knowledge into a repeatable learning tool. Pull employee performance data into real-time Power BI dashboards, making it easier to identify where instruction is needed, and improve process.
+
 To try out Dynamics 365 Guides (Preview), you need to:
 
 1.	Get a trial subscription.
