@@ -117,7 +117,7 @@ To add a user account:
     
       ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
 
-    - **Roles.** Expand this section and select the **Customized administrator** option. Additional users will be customized administrators
+    - **Roles.** Expand this section and select the **Customized administrator** option. Additional users will be customized administrators.
     
       ![Edit User Roles dialog box)](media/edit-user-roles-dialog-box.PNG "Edit User Roles dialog box")
  
