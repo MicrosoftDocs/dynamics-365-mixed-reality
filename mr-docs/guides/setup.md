@@ -37,7 +37,7 @@ You can subscribe in any of the following ways:
 
 2.	After signing up, you’ll be prompted to sign in with the credentials you created in Step 1. After signing in, you’ll see the Office 365 landing page:
 
-   ![Office 365 landing page)](media/office-365-landing-page.PNG "Office 365 landing page")
+    ![Office 365 landing page)](media/office-365-landing-page.PNG "Office 365 landing page")
   
 3.	In the Office 365 landing page, select the **Admin** icon. This opens the Microsoft 365 Admin Cetner.
 
@@ -48,7 +48,7 @@ You can subscribe in any of the following ways:
     ![Microsoft 365 Admin Center)](media/microsoft-365-admin-center.PNG "Microsoft 365 Admin Center")
   
     > [!NOTE]
-    > You can add additional users now if you want by selecting the **Assign to users** button, or you can add them later. See step-by-step instructions on adding additional users.ADD BOOKMARK 
+    > You can add licenses for additional users now if you want by selecting the **Assign to users** button, or you can add them later. See step-by-step instructions on adding additional users.ADD BOOKMARK 
 
 5.	When you’re done, go to the next section: Create a new CDS environment and install the Guides solution.ADD BOOKMARK
 
