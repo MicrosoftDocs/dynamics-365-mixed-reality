@@ -316,7 +316,7 @@ For information on opening and signing in to the HoloLens application, go to one
 
 ### See also
 
-[Get started with Dynamics 365 Guides (Preview)(get-started.md)<br>
+[Get started with Dynamics 365 Guides (Preview)](get-started.md)<br>
 [Authoring a guide](authoring-overview.md)<br>
 [Analyzing your guides](analytics-guide.md)<br>
 [FAQ](faq)
