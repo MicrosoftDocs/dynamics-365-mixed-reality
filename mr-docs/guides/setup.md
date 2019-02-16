@@ -56,7 +56,7 @@ You can subscribe in any of the following ways:
     > [!NOTE]
     > You can add licenses for additional users now if you want by selecting the **Assign to users** button, or you can add them later. [See step-by-step instructions on adding additional user licenses.](#licenses)
 
-5.	When you’re done, go to the next section: [Create a new CDS environment and install the Guides solution.](#cds)
+5.	When you’re done, go to the next section: [Create a new Common Data Service (CDS) environment](#cds)
 
 ### Subscribe through the Microsoft 365 Admin Center.
 
