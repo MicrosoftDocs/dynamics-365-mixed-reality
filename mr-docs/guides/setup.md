@@ -31,11 +31,13 @@ When you sign up for a free Guides trial subscription, you’ll get one month fr
 
 You can subscribe in any of the following ways:
 
-- If you’re new to Microsoft, subscribe through the Guides Trial page. Step-by-step instructions for installing the app and signing up for a free trial are provided below. 
+- If you’re new to Microsoft:
+
+  - Subscribe through the Guides Trial page as described below. 
  
-  - Calling us at 1-888-477-7989 NOTE THAT THIS IS A PLACEHOLDER PHONE NUMBER!!!, or
+  - Call us at 1-888-477-7989 NOTE THAT THIS IS A PLACEHOLDER PHONE NUMBER!!!, or
   
-  - Requesting to be contacted at [http://aka.ms/getmixedreality/](http://aka.ms/getmixedreality/).
+  - Request to be contacted at [http://aka.ms/getmixedreality/](http://aka.ms/getmixedreality/).
   
 - If you're an existing customer, subscribe through the Microsoft Admin Center. Step-by-step instructions for subscribing are provided below.
 
