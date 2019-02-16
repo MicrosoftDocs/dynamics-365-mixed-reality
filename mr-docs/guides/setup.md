@@ -21,7 +21,7 @@ To try out Dynamics 365 Guides (Preview), you need to:
 
 3. Install the Guides solution.
 
-4.	Install the Guides apps on a Windows 10 PC and HoloLens.
+4.	Install the Guides apps on a Windows 10 PC and Microsoft HoloLens.
 
 This topic provides step-by-step instructions to get up and running with Guides. It also provides instructions for adding additional users to the trial (optional).
 
