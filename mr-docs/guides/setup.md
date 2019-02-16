@@ -51,7 +51,7 @@ You can subscribe in any of the following ways:
   
 3.	In the Office 365 landing page, select the **Admin** icon. This opens the Microsoft 365 Admin Center.   
    
-4.	In the Microsoft 365 Admin Center, under **Billing**, select **Subscriptions**. MISSING SOMETHING HERE!!!
+4.	In the Microsoft 365 Admin Center, under **Billing**, select **Subscriptions**. MISSING SOMETHING HERE???
 
     ![Microsoft 365 Admin Center)](media/microsoft-365-admin-center.PNG "Microsoft 365 Admin Center")
   
