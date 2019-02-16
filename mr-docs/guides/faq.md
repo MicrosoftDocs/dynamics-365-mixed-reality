@@ -115,6 +115,6 @@ The hazard sign is a placeholder for 3D models, videos, or images that can’t b
 
 - If the file exists in the library but the preview doesn’t load, there’s a problem with the file information in Dynamics 365. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
 
-See also
+### See also
 
 [Known Issues in Dynamics 365 Guides (Preview)](known-issues.md)
