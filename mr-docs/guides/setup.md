@@ -23,7 +23,7 @@ You can subscribe in any of the following ways:
 
 - If you’re new to Microsoft, subscribe through the Guides Trial page. Step-by-step instructions for installing the app and signing up for a free trial are provided below. 
 
-- Subscribe through the Microsoft Admin Center. Step-by-step instructions for ubscribing are provided below.
+- Subscribe through the Microsoft Admin Center. Step-by-step instructions for subscribing are provided below.
 
 - If you’re new to Microsoft, subscribe through the Guides Trial page. Step-by-step instructions for installing the app and signing up for a free trial are provided below. 
  
