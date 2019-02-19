@@ -1,11 +1,11 @@
 ---
 author: anhaman
-description: Overview of Dynamics 365 Guides
+description: Overview of Dynamics 365 Guides (Preview)
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: overview
-title: Overview of Dynamics 365 Guides
+title: Overview of Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 ![ATV graphic](media/overview.PNG "ATV graphic") 
 
-Microsoft Dynamics 365 Guides is a mixed reality application for HoloLens that enables employees to learn in the flow 
+Microsoft Dynamics 365 Guides (Preview) is a mixed reality application for HoloLens that enables employees to learn in the flow 
 of work by providing holographic instructions when and where they need them. A series of step-by-step instruction cards 
 with image and video support are visually tethered to the place where the work needs to be done. Additional guidance 
 in the form of holographic models shows what needs to be done where, so workers can get the job done faster, with fewer errors 
