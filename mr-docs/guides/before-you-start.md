@@ -1,25 +1,27 @@
 ---
 author: anhaman
-description: Things to keep in mind before you start authoring in Dynamics 365 Guides, including media and file naming.
+description: Things to keep in mind before you start authoring in Dynamics 365 Guides (Preview), including media and file naming.
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Things to keep in mind before you start authoring in Dynamics 365 Guides
+title: Things to keep in mind before you start authoring in Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
 # Before you start authoring a guide in Dynamics 365 Guides (Preview)
 
-Before you get started with Microsoft Dynamics 365 Guides authoring, you’ll want to understand your project and get organized. Here’s a quick checklist 
-to start you out on the right foot:
+Before you get started with Microsoft Dynamics 365 Guides (Preview) authoring, you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
 
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 
 (if you have any), and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
 Guides includes a 3D toolkit that you can use to get started.
+
 - Arrange for access to the space so you understand the real-world environment. You’ll also need access to the space to align 
 the guide and place holograms later.
-- Make sure you understand the space, the assembly, and the workflow you’re authoring for. 
+
+- Make sure you understand the space, the assembly, and the workflow you’re authoring for.
+
 - A great way to start is to create a video of the assembly you want to show, or have someone (an expert in that process, 
 for example) create one for you. You can refer to the video as you create your guide. If you’re using a video as a starting 
 point, make sure it’s representative of the guide you want to create though. For example, are you creating a guide for an 
