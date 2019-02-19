@@ -7,7 +7,7 @@ At this time, offline use in the Guides apps is not supported. Also, you must ha
 
 ## Recalibrating takes you back to the first step
 
-If you’re using the HoloLens application, and you select the Alignment button from any step and recalibrate your HoloLens, after recalibrating, you’ll land on the first step of your guide. This is by design. You (or the operator) will want to recheck all steps after recalibrating as this can change hologram alignment.
+If you’re using the HoloLens application, and you select the **Alignment** button from any step and recalibrate your HoloLens, after recalibrating, you’ll land on the first step of your guide. This is by design. You (or the operator) will want to recheck all steps after recalibrating as this can change hologram alignment.
 
 ## Voice commands not tested thoroughly
 
@@ -25,7 +25,7 @@ At this time, IPD settings aren’t saved automatically for each user. For now, 
 Currently, we don’t support permissions or versioning. Therefore, every guide is accessible to all users within your organization.
 
 ## Recent guides list isn’t scoped to user
-The Recent list of guides is currently not scoped to the user accessing it. This will be supported in a later release.
+The **Recent** list of guides is currently not scoped to the user accessing it. This will be supported in a later release.
 
 ## Can’t change alignment method once guide has been created
 Once you have selected an alignment method (manual or marker) and saved a guide, you can’t change the alignment method for that guide. You can, however, save a copy of the guide and then change the alignment method in the copy.
@@ -96,7 +96,7 @@ If you don’t see any guides, either your internet connection is unstable, or y
 
 #### I don’t see media or 3D content that I uploaded to the app
 
-When you upload content, at this time, the app doesn’t automatically scroll to the place in the library where the content is uploaded. To find the content, go to the library (right side of the screen), and then select the appropriate tab (3D parts, Pictures, Videos, or 3D toolkit).
+When you upload content, at this time, the app doesn’t automatically scroll to the place in the library where the content is uploaded. To find the content, go to the library (right side of the screen), and then select the appropriate tab (**3D parts**, **Pictures**, **Videos**, or **3D toolkit**).
 
 The PC app will show notifications (in the top title bar) if there are any errors during uploading. Please check to make sure your content is in the right file format as recommended below. 
 
@@ -110,7 +110,7 @@ If you still can’t find your content, contact your administrator.
 
 #### I have an issue that isn’t listed in these troubleshooting steps
 
-Please contact customer service: https://docs.microsoft.com/en-us/dynamics365/get-started/support/. This page can also be found by logging into your Dynamics 365 account and selecting the Support link.
+Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by logging into your Dynamics 365 account and selecting the Support link.
 
 ### HoloLens application issues
 
@@ -133,7 +133,7 @@ When you get to the screen where you can select between different saved accounts
 
 #### Marker alignment requires user’s consent to use the camera
 
-When the Guides application on HoloLens is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use marker-aligned guides, you will need to say **Yes** to this prompt. This is required for every device you use the Guides application on. If this consent was not provided previously, you can go to the Settings menu on the HoloLens (operating system) and provide consent to the app. 
+When the Guides application on HoloLens is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use marker-aligned guides, you will need to say **Yes** to this prompt. This is required for every device you use the Guides application on. If this consent was not provided previously, you can go to the **Settings** menu on the HoloLens (operating system) and provide consent to the app. 
 
 #### “Create account” link when signing in with a new account doesn’t work
 
@@ -147,7 +147,7 @@ If you don’t see any guides, either your internet connection is unstable, or y
 
 #### I can’t find the guide I created
 
-Look for newly created guides in the All tab in the list of guides. The **Recents** list only shows guides that have previously been opened on the device and will not include any guide recently created in the PC Authoring application. 
+Look for newly created guides in the **All** tab in the list of guides. The **Recents** list only shows guides that have previously been opened on the device and will not include any guide recently created in the PC Authoring application. 
 
 #### The profile picture shown in the app is incorrect 
 
@@ -163,7 +163,7 @@ As a best practice, video clips should not be too long (**maximum of 2 minutes**
 
 #### Deleting an asset from a step (from the bin) in the PC app will remove all previously placed instances on HoloLens
 
-If you’re editing an existing guide, where an asset was placed in a bin in the PC app, and then instances of that asset were placed in the world on HoloLens, note that deleting the asset from the bin will remove all of the placed assets in space. Adding the asset again will not restore the placed instances. To restore, press the Undo button in the PC app to revert the change.
+If you’re editing an existing guide, where an asset was placed in a bin in the PC app, and then instances of that asset were placed in the world on HoloLens, note that deleting the asset from the bin will remove all of the placed assets in space. Adding the asset again will not restore the placed instances. To restore, press the **Undo** button in the PC app to revert the change.
 
 #### Uploading GLTF files with dependencies across different folders might result in upload errors
 
@@ -182,5 +182,5 @@ After playing a video on HoloLens, you might see an empty media panel. This is a
 To allow authors to place 3D models carefully and precisely, the default movement is set to be slow. To indicate this, the manipulation sphere around the model will be blue. You can move your hand faster, or wiggle the model a bit to switch it to move faster. 
 
 #### I have an issue that isn’t listed in these troubleshooting steps
-Please contact customer service: https://docs.microsoft.com/en-us/dynamics365/get-started/support/. This page can also be found by logging in to your Dynamics 365 account and selecting the Support link.
+Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by logging in to your Dynamics 365 account and selecting the Support link.
 
