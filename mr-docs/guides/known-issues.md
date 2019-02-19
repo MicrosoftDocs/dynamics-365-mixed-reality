@@ -87,6 +87,8 @@ When you get to the screen where you can select between different saved accounts
 
 #### “Create account” link when signing in with a new account doesn’t work
 When signing in with a brand new account on the PC and HoloLens apps, there is a link to create a new account:
+
+![Sign-in screen)](media/sign-in-screen.PNG "Sign-in screen")  
  
 Please do not use this link to create an account – it doesn’t work.
 
@@ -138,6 +140,8 @@ When the Guides application on HoloLens is launched for the first time, the app 
 #### “Create account” link when signing in with a new account doesn’t work
 
 When signing in with a brand new account on the PC and HoloLens apps, there is a link to create a new account:
+
+![Sign-in screen)](media/sign-in-screen.PNG "Sign-in screen") 
   
 Please do not use this link to create an account – it doesn’t work.
 
@@ -176,6 +180,8 @@ There are some problems with rendering the “see through” style on some 3D mo
 #### After playing a video in HoloLens, its thumbnail might disappear
 
 After playing a video on HoloLens, you might see an empty media panel. This is a bug. The video is still there and you can play it by tapping on the play button.
+
+![Blank video)](media/blank-video-thumbnail.PNG "Blank video") 
  
 #### When moving a 3D model during authoring on HoloLens, the movement of the model may seem slow
 
