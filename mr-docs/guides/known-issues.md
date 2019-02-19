@@ -1,4 +1,13 @@
-
+---
+author: anhaman
+description: Known Issues with Dynamics 365 Guides (Preview)
+ms.author: anhaman
+ms.date: 02/24/2019
+ms.service: crm-online
+ms.topic: article
+title: Known Issues with Dynamics 365 Guides (Preview)
+ms.reviewer: v-brycho
+---
 
 # Known Issues with Dynamics 365 Guides (Preview)
 
