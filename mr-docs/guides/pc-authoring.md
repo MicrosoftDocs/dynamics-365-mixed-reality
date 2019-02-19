@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Use the PC authoring application to create a guide 
 
-Use the PC authoring application in Microsoft Dynamics 365 Guides to:
+Use the PC authoring application in Microsoft Dynamics 365 Guides (Preview) to:
 
 - Create a guide
 - Choose an alignment method
