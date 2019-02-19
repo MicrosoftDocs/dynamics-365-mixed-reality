@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Guides Analytics is part of the Microsoft Dynamics 365 Guides (Preview) application suite that also includes the Guides PC authoring app and the Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports which are populated with Guides telemetry data stored securely in your Dynamics 365 environment. 
 
-### What data is collected and used in Guides Analytics? 
+## What data is collected and used in Guides Analytics? 
 
 When an operator uses the Guides HoloLens app in Operate mode, each gaze-and-commit interaction on the **Next step** and 
 **Go back** buttons is recorded, together with the date and time of the interaction. Each operation of a guide in HoloLens 
@@ -21,7 +21,7 @@ Operate mode, whether completed from beginning to end of the guide or involving 
 operator’s user ID and information about the guide, such as step number, task number, and guide name are also recorded. This 
 data is stored in your private and secure Dynamics 365 environment.  
 
-### What can you do with the data? 
+## What can you do with the data? 
 
 The Guides Analytics reports are designed to help you answer high-level questions about guides usage. For example: 
 
