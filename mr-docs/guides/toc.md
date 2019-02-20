@@ -8,6 +8,7 @@
 ### [Author in the PC application](pc-authoring.md)
 ### [Test and place holograms with the HoloLens application](hololens-authoring.md)
 ### [Gestures for authoring and navigating](authoring-gestures.md)
+### [Use the Import Tool (Preview) to convert 3D models](import-tool.md)
 ## [Operator's manual](operator-guide.md)
 ## [Analyze your guides](analytics-guide.md)
 ## [Windows Device Portal calibration](windows-device-portal.md)
