@@ -53,7 +53,7 @@ best for your needs.
 |**Option**|**Description**|**Supported file formats**|
 |--------|-------------------------------------------------------------------------|----------------------------|
 |Optimize using the Microsoft Cloud Service|This is the simplest way to optimize your 3D models. The Microsoft Cloud Service automatically transcodes and simplifies the models you select. You can specify the type of device (HoloLens or Windows Mixed Reality headset) to optimize for, and also the number of models that you intend to view simultaneously. If you're not happy with the initial results after optimizing, you can use a sliding scale to re-optimize the model, focusing on performance or quality.|FBX, OBJ, SKP, JT, STP, STEP, GLTF, GLB|
-|Convert without optimizing|Use this option if you've already optimized a model using an external tool and want to retain the model properties when you convert it for use on HoloLens or Mixed Reality headsets. The Microsoft Cloud Service automatically transcodes the models you select without doing any optimization.|FBX, OBJ, SKP, JT, STP, STEP, GLTF, GLB|
+|Convert without optimizing|Use this option if you've already optimized a model using an external tool and want to retain the model properties when you convert it for use on HoloLens. The Microsoft Cloud Service automatically transcodes the models you select without doing any optimization.|FBX, OBJ, SKP, JT, STP, STEP, GLTF, GLB|
 |Convert using your PC|Use this option if you want to bring in self-authored assets without any optimization.|GLB only|
 
 Specific instructions for each option are provided below.
