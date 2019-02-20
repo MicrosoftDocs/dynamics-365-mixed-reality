@@ -42,11 +42,11 @@ To have the holograms appear in the correct locations, the interpupillary distan
 
 If you don’t configure the IPD for each user: 
 
-•	Holograms will be out of alignment by 1 – 2 cm. 
+- Holograms will be out of alignment by 1 – 2 cm. 
 
-•	Holograms will appear as if they’re sunk into or floating above surfaces they’re sitting on.
+- Holograms will appear as if they’re sunk into or floating above surfaces they’re sitting on.
 
-•	Holograms will not be stable. As you walk around, you’ll notice that they move.
+- Holograms will not be stable. As you walk around, you’ll notice that they move.
 
 > [!IMPORTANT] 
 > It’s particularly crucial for authors to ensure that their IPD is set correctly. Otherwise, all operators using the guide will see misaligned holograms. 
