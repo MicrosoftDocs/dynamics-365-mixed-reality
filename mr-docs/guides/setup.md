@@ -143,7 +143,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
     ![PowerApps Portal)](media/powerapps-portal.PNG "PowerApps Portal")
 
-3.  In the [PowerApps admin center](https://preview.admin.powerapps.com/environments), sign in with the user credentials created when you signed up for the trial subscription.
+3.  In the PowerApps Admin Center, sign in with the user credentials created when you signed up for the trial subscription.
 
 4.	In the PowerApps Admin Center, select the **New environment** button.
 
