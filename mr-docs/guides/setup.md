@@ -165,12 +165,9 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
     ![Environment created dialog box)](media/environment-created.PNG "Environment created dialog box")   
     
- 8.	In the next pop-up, choose the currency and language.
+ 8.	In the next pop-up, clear the sample apps and data check box, and then choose the currency and language.
 
-    > [!IMPORTANT]
-    > If you’re asked to include sample apps and data, clear the check box.
-
-    ![Currency and language settings)](media/currency-language-settings.PNG "Currency and language settings")
+        ![Currency and language settings)](media/currency-language-settings.PNG "Currency and language settings")
   
 9.	Select **Create database.**
 
@@ -247,16 +244,6 @@ In the Guides PC application, you can upload your own 3D files, as well as video
        
       ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
  
-
-### Change the name of the Guides URL (optional)
-
-If you want, you can change the name of the default Guides URL to a more meaningful name.
-
-1.	In the Dynamics 365 Administration Center, select the Guides instance, and then select **Edit**.
- 
-2.	In the **URL** field, enter a new URL.
- 
-     ![Enter URL in field)](media/url-field.PNG "Enter URL in field")
      
 ## Step 4: Install the applications
 
