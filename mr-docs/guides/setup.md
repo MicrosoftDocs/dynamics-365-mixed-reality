@@ -129,9 +129,9 @@ When you add a user, the user will get an email notification from the Microsoft 
 
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
-Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Install and configure Guides solution](#configure)
+Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Install and configure Guides solution](#configure).
 
-1.	Go to Powerapps.com and agree to the trial PowerApps subscription. 
+1.	Go to Powerapps.com and select **Start my trial**. 
 
     ![PowerApps trial sign-up)](media/powerapps-com.PNG "PowerApps trial sign-up")
 
