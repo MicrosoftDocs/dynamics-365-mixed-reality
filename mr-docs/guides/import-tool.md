@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # Use the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides (Preview)
 
 Guides supports GLTF, GLB, and FBX file formats. For additional file support (including some CAD formats) and automated 
-3D model optimization, you can use the [Dynamics 365 Import Tool (Preview)](guides-import-tool-flow.md) available through Dynamics 365 Layout. The Import Tool allows you to convert 3D models, edit, decimate, and set conversion scale.
+3D model optimization, you can use the [Dynamics 365 Import Tool (Preview)](guides-import-tool-flow.md) available through Dynamics 365 Layout. The Import Tool enables you to convert, edit, and decimate 3D models, and set the conversion scale.
 
 ## What you’ll need
 
