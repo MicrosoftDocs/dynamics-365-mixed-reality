@@ -114,8 +114,6 @@ them to the correct file format using the [!include[pn-import-tool](../includes/
 
 6. Select **Optimize** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
-If you're using a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset, your imported models will show up automatically in [!include[pn-layout](../includes/pn-layout.md)].
-	
 To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the HoloLens device](#copy-models-to-a-HoloLens-device).
 
 ### Convert using your PC
@@ -249,3 +247,8 @@ obfuscated URLs.
     protocol.
 
     ![Simplified model](media/2b7b299ce1a466ff2c5ffd87ea41e2a4.png "Simplified model")
+    
+    
+### See also
+
+[Dynamics 365 Layout documentation](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/)
