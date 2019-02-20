@@ -66,18 +66,18 @@ HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
 **2. TIME-SENSITIVE TRIAL-USE SUBSCRIPTION.**
 
-**a)** Period of use. This agreement is effective on your acceptance and
+> **a)** Period of use. This agreement is effective on your acceptance and
 terminates on the earlier of (i) 90 days following your first acceptance of a
 free trial of the software or (ii) upon termination by Microsoft in its
 discretion. Microsoft may extend this agreement in its discretion.
 
-**b)** Notice. You may receive periodic reminder notices of this date through
+> **b)** Notice. You may receive periodic reminder notices of this date through
 the software.
 
-**c)** Access to data. This software should be used with test data. You may not
+> **c)** Access to data. This software should be used with test data. You may not
 be able to access data used in the software after the free trial ends.
 
-**d)** One Free Trial per Customer. Each customer is entitled to only one free
+> **d)** One Free Trial per Customer. Each customer is entitled to only one free
 trial.
 
 **3. PRE-RELEASE SOFTWARE.** The software is a pre-release version. It may not
