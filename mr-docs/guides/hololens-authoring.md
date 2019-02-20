@@ -1,5 +1,5 @@
 ---
-author: anhaman
+author: BryceHo
 description: Test and place holograms using the HoloLens application in Author mode (Dynamics 365 Guides (Preview))
 ms.author: anhaman
 ms.date: 02/24/2019

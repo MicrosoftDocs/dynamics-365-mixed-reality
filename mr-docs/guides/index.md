@@ -1,5 +1,5 @@
 ---
-author: anhaman
+author: BryceHo
 description: Overview of Dynamics 365 Guides (Preview)
 ms.author: anhaman
 ms.date: 02/24/2019

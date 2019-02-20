@@ -1,5 +1,5 @@
 ---
-author: anhaman
+author: BryceHo
 description: Everything you need to know about signing up for a Dynamics 365 Guides (Preview) trial, configuring the solution, and installing the apps.
 ms.author: anhaman
 ms.date: 02/24/2019
@@ -43,7 +43,7 @@ You can subscribe in any of the following ways:
 
 ### Subscribe through the Guides Trial page
 
-1.	Go to [the Dynamics 365 Guides sign-up page](aka.ms/GuidesSignUp), and then follow the instructions to create your user credentials for the trial.
+1.	Go to [the Dynamics 365 Guides sign-up page](http://aka.ms/GuidesSignUp), and then follow the instructions to create your user credentials for the trial.
 
 2.	After signing up, you’ll be prompted to sign in with the credentials you created in Step 1. After signing in, you’ll see the Office 365 landing page:
 
