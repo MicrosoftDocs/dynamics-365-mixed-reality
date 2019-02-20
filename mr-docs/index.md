@@ -24,7 +24,7 @@ ms.custom:
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img alt="" src="../images/Layout_outline_36px_blue.svg">
+                                                    <img alt="" src="../images/Guides_outline_36px_blue.svg">
                                                 </div>
                                             </div>
                                             <div class="cardText">
