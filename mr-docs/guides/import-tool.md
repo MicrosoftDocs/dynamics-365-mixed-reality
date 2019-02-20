@@ -30,7 +30,7 @@ Guides supports GLTF, GLB, and FBX file formats. For additional file support (in
 
 ## Install the Import Tool
 
-How you install [!include[pn-import-tool](../includes/pn-import-tool.md)] depends on how your administrator
+How you install the [!include[pn-import-tool](../includes/pn-import-tool.md)] depends on how your administrator
 chooses to distribute the app. Your admin may have you install the app from the
 [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers, from your organization’s private store, through
 an email link, or another method. 
