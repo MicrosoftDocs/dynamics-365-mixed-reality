@@ -56,7 +56,11 @@ You can subscribe in any of the following ways:
     > [!NOTE]
     > You can add licenses for additional users now if you want by selecting the **Assign to users** button, or you can add them later. [See step-by-step instructions on adding additional user licenses.](#licenses)
 
-5.	When you’re done, go to the next section: [Create a Common Data Service (CDS) environment](#cds)
+5.	When you’re done, do one of the following:
+
+     - If you don't want to add additional users to the trial, go to the next section: [Create a Common Data Service (CDS) environment](#cds)
+     
+     - If you want to add additional users, see the procedures below.
 
 ### Subscribe through the Microsoft 365 Admin Center.
 
