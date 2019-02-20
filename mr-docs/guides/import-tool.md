@@ -73,7 +73,7 @@ Specific instructions for each option are provided below.
    
    ![Microsoft Cloud Service option](media/cloud-service-option.PNG "Microsoft Cloud Service Option") 
 
-6. Under **Optimization settings**, choose the type of device you're optimizing for (HoloLens or Mixed Reality headsets) and the number of models that you'll use in a single scene. These settings will apply to all models you selected in step 3.
+6. Under **Optimization settings**, choose the HoloLens device and the number of models that you'll use in a single scene. These settings will apply to all models you selected in step 3.
 
    ![Optimization settings](media/optimization-settings.PNG "Optimization settings") 
 
