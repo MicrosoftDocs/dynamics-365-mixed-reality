@@ -83,7 +83,7 @@ Specific instructions for each option are provided below.
 
    1. On the **Properties** tab for the model, select **Optimize again** in the lower right corner of the screen. 
    
-   2. Under **Optimize this model again** in the center of the screen, pull the slider to the left to optimize for performance or to the right to optimize for quality. Optimizing for performance will result in a model that performs better on HoloLens or Mixed Reality headsets, but may compromise on visual quality. Optimizing for quality will result in a model that has better visual quality but may adversely affect device performance, resulting in user discomfort.
+   2. Under **Optimize this model again** in the center of the screen, pull the slider to the left to optimize for performance or to the right to optimize for quality. Optimizing for performance will result in a model that performs better on HoloLens, but may compromise on visual quality. Optimizing for quality will result in a model that has better visual quality but may adversely affect device performance, resulting in user discomfort.
    
       ![Re-optimization slider](media/reoptimize-slider.PNG "Re-optimization slider") 
    
