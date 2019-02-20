@@ -17,17 +17,17 @@ For additional information, see [Get help with
 HoloLens](https://support.microsoft.com/products/hololens).
 
 If you’re an IT admin and you want to deploy [!include[pn-remote-assist](../includes/pn-remote-assist.md)] to devices running
-the [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, see [Try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
+the [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, see [Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md). 
+
+**Can I try the app before buying it?**
+
+Yes, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available as a free 90-day trial. For more information,
+see [Try Remote Assist for free](try-remote-assist-for-free.md).
 
 **Can I still use the preview app?**
 
 The preview period has ended. Existing preview app customers have until March
-2019 to upgrade to a paid subscription. 
-
-**Can I try the app before buying it?**
-
-Yes, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available as a free 30-day trial. For more information,
-see [Try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md).
+2019 to upgrade to a paid subscription. 
 
 **What are the technical requirements for installing [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
 
