@@ -19,7 +19,7 @@ To try out Dynamics 365 Guides (Preview), you need to:
 
 2.	Create a Common Data Service (CDS) environment, if you don't already have one.
 
-3. Install the Guides solution.
+3.  Install the Guides solution.
 
 4.	Install the Guides apps on a Windows 10 PC and Microsoft HoloLens.
 
@@ -27,15 +27,13 @@ This topic provides step-by-step instructions for all of the above.
 
 ## Step 1: Subscribe to a free trial
 
-When you sign up for a free Guides trial subscription, you’ll get one month free for up to 25 users. 
+When you sign up for a free Guides subscription, you’ll get a trial subscription for up to 25 users. 
 
 You can subscribe in any of the following ways:
 
 - If you’re new to Microsoft:
 
-  - Subscribe through the Guides Trial page as described below. 
- 
-  - Call us at 1-888-477-7989. NOTE THAT THIS IS A PLACEHOLDER PHONE NUMBER!!!
+  - Subscribe through the Guides Trial page as described below, or 
   
   - Request to be contacted at [http://aka.ms/getmixedreality/](http://aka.ms/getmixedreality/).
   
@@ -45,15 +43,13 @@ You can subscribe in any of the following ways:
 
 1.	Go to [the Dynamics 365 Guides sign-up page](http://aka.ms/GuidesSignUp), and then follow the instructions to create your user credentials for the trial.
 
-2.	After signing up, you’ll be prompted to sign in with the credentials you created in Step 1. After signing in, you’ll see the Office 365 landing page:
+2.	After signing up, you’ll be prompted to sign in with the credentials you created in Step 1. After signing in, you’ll see the Microsoft 365 Admin Center page:
 
-    ![Office 365 landing page)](media/office-365-landing-page.PNG "Office 365 landing page")
-  
-3.	In the Office 365 landing page, select the **Admin** icon. This opens the Microsoft 365 Admin Center.   
+    ![Microsoft 365 Admin Center page)](media/microsoft-365-admin-center.PNG "Microsoft 365 Admin Center")   
    
-4.	In the Microsoft 365 Admin Center, under **Billing**, select **Subscriptions**. MISSING SOMETHING HERE???
+4.	In the Microsoft 365 Admin Center, under **Billing**, select **Subscriptions**. 
 
-    ![Microsoft 365 Admin Center)](media/microsoft-365-admin-center.PNG "Microsoft 365 Admin Center")
+    ![Guides subscription in Microsoft Admin Center)](media/guides-subscription.PNG "Guides subscription in Microsoft Admin Center")
   
     > [!NOTE]
     > You can add licenses for additional users now if you want by selecting the **Assign to users** button, or you can add them later. [See step-by-step instructions on adding additional user licenses.](#licenses)
@@ -117,9 +113,9 @@ To add a user account:
     
       ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
 
-    - **Roles.** Expand this section and select the **Customized administrator** option. Additional users will be customized administrators.
+    - **Roles.** Expand this section and select the **User (no administrator access)** option. 
     
-      ![Edit User Roles dialog box)](media/edit-user-roles-dialog-box.PNG "Edit User Roles dialog box")
+      ![Edit user roles)](media/user-roles.PNG "Edit user roles")
  
     - **Product licenses**. Expand this section, and then turn on the **Guides plan**. For public preview, you have 25 Guides licenses.
     
@@ -133,13 +129,21 @@ When you add a user, the user will get an email notification from the Microsoft 
 
 Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Install and configure Guides solution](#configure)
 
-1.	Go to the [PowerApps admin center](https://preview.admin.powerapps.com/environments) and sign in with the user credentials created when you signed up for the trial subscription.
+1.	Go to Powerapps.com and agree to the trial PowerApps subscription. 
 
-2.	In the PowerApps Admin Center, select the **New environment** button.
+    ![PowerApps trial sign-up)](media/powerapps.com.PNG "PowerApps trial sign-up")
+
+2.  In the PowerApps portal, select the **Settings** button, and then select **Admin Center**.
+
+    ![PowerApps Portal)](media/powerapps-portal.PNG "PowerApps Portal")
+
+3.  In the [PowerApps admin center](https://preview.admin.powerapps.com/environments), sign in with the user credentials created when you signed up for the trial subscription.
+
+4.	In the PowerApps Admin Center, select the **New environment** button.
 
     ![PowerApps Admin Center)](media/powerapps-environment.PNG "PowerApps Admin Center")
  
-3.	Fill in the following details for the environment:
+5.	Fill in the following details for the environment:
 
     -	**Environment Name:** Guides_*anyname*
     -	**Region:** Choose your region
@@ -147,22 +151,22 @@ Once you have a valid trial subscription, you’ll need to create an environment
   
         ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
     
-4.	Select the **Create environment** button. 
+6.	Select the **Create environment** button. 
 
-5.	In the pop-up that appears, select **Create database**.
+7.	In the pop-up that appears, select **Create database**.
 
     ![Environment created dialog box)](media/environment-created.PNG "Environment created dialog box")   
     
- 6.	In the next pop-up, choose the currency and language.
+ 8.	In the next pop-up, choose the currency and language.
 
     > [!IMPORTANT]
     > If you’re asked to include sample apps and data, clear the check box.
 
     ![Currency and language settings)](media/currency-language-settings.PNG "Currency and language settings")
   
-7.	Select **Create database.**
+9.	Select **Create database.**
 
-8.	In the **PowerApps Admin center>Environments** screen, select the environment that was just created (a production environment, not a default environment). 
+10.	In the **PowerApps Admin center>Environments** screen, select the environment that was just created (a production environment, not a default environment). 
 
     ![Select the environment)](media/select-environment.PNG "Select the environment")
  
@@ -173,7 +177,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
     > [!NOTE]
     > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.
     
-9.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link. 
+11.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link. 
 
     ![Admin Center link)](media/admin-center-link.PNG "Admin Center link")
 
