@@ -25,7 +25,7 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 
 -   A subscription to Remote Assist. Microsoft Teams is included in the Remote Assist subscription for individuals using a Remote Assist license on HoloLens. A Microsoft Teams license is also required for individuals (experts) who communicate with a Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads) for these users. If you’re the admin for your organization, [learn how to try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
 
-    > {!TIP] 
+    > [!TIP] 
     > You can try Dynamics 365 Remote Assist for free for up to 90 days. [Learn more about the free 90-day Dynamics 365 Remote Assist trial](try-remote-assist-free.md).
 
 -   A [HoloLens running the Windows 10 April 2018
