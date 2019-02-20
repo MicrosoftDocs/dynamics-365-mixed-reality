@@ -7,5 +7,7 @@
 ## [Troubleshoot Field Service integration](troubleshoot-field-service.md)
 ## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)
 ## [For developers - protocol activation](protocol-activation.md)
-## [Terms of Use](../legal/remote-assist-license-terms.md)
 ## [FAQ](faq.md)
+## Terms of Use
+### [Remote Assist](../legal/remote-assist-license-terms.md)
+### [Free 90-day trial]
