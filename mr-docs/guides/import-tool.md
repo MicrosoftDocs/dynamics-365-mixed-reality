@@ -28,15 +28,14 @@ Guides supports GLTF, GLB, and FBX file formats. For additional file support (in
 
 -   An internet connection.
 
-## Install the apps
+## Install the Import Tool
 
 How you install [!include[pn-import-tool](../includes/pn-import-tool.md)] depends on how your administrator
 chooses to distribute the app. Your admin may have you install the app from the
 [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers, from your organization’s private store, through
 an email link, or another method. 
 
-The following table describes the import tool, and how to install them from the
-public store.
+The following table describes the Import Tool, and how to install it from the Microsoft Store for Consumers:
 
 | **App**     | **Device**            | **Use to**                            | **To install from [!include[cc-microsoft](../includes/cc-microsoft.md)] store** |
 |-------------|-----------------------|---------------------------------------------|-------------------------------------|
