@@ -57,7 +57,7 @@ To set your IPD, use the Calibration app included with HoloLens using the follow
 
 2.	Air tap on **Calibration** to begin calibrating your HoloLens.
 
-    ![Calibration app)](media/hololens-calibration.PNG "Calibration app")
+    ![Calibration app)](media/calibrate-hololens.PNG "Calibration app")
  
 3.	Follow the instructions on your HoloLens.
 
