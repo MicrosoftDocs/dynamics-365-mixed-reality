@@ -11,4 +11,4 @@
 ## [FAQ](faq.md)
 ## Terms of Use
 ### [Remote Assist](../legal/remote-assist-license-terms.md)
-### [Free 90-day trial]
+### [Remote Assist free trial](../legal/remote-assist-license-terms.md)
