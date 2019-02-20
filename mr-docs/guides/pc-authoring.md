@@ -324,7 +324,7 @@ You can use any of the following keyboard shortcuts in the PC application:
 |Win + Up|Maximize the current window|
 
 ## What's next?
-After you create your guide, select an alignment method, and create your tasks and steps, you’re ready to test things out on the HoloLens in a real-world environment and place your holograms.
+After you create your guide, select an alignment method, and create your tasks and steps, you’re ready to [test things out on the HoloLens in a real-world environment and place your holograms](hololens-authoring.md).
 
 > [!Important]
 > When working between PC and HoloLens be sure to select **Refresh** when starting work on a device to ensure you have the latest version of the guide. 
