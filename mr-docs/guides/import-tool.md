@@ -16,7 +16,7 @@ Guides supports GLTF, GLB, and FBX file formats. For additional file support (in
 
 ## What you’ll need to use the Import Tool
 
--   [A subscription to Layout.](../licensing/buy-and-deploy.md) The [!include[pn-layout](../includes/pn-layout.md)] subscription includes the
+-   [A subscription to Dynamics 365 Layout.](../licensing/buy-and-deploy.md) The [!include[pn-layout](../includes/pn-layout.md)] subscription includes the
     [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC.
 
 -   A [HoloLens](https://www.microsoft.com/hololens) running the [Windows 10 April 2018 Update](https://support.microsoft.com/en-us/help/12643). 
