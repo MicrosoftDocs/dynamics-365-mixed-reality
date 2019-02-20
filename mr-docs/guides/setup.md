@@ -58,7 +58,7 @@ You can subscribe in any of the following ways:
 
 5.	When you’re done, do one of the following:
 
-     - If you don't want to add additional users to the trial, go to the next section: [Create a Common Data Service (CDS) environment](#cds)
+     - If you don't want to add additional users to the trial, go to: [Step 2: Create a Common Data Service (CDS) environment](#cds)
      
      - If you want to add additional users, see the procedures below.
 
