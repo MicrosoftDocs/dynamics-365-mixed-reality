@@ -1,15 +1,15 @@
 ---
 author: robutter
-description: Using the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides (Preview)
+description: Use the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides (Preview)
 ms.author: robutter
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Using the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides (Preview)
+title: Use the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Using the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides (Preview)
+# Use the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides (Preview)
 
 Guides supports GLTF, GLB, and FBX file formats. For additional file support (including some CAD formats) and automated 
 3D model optimization, you can use the [Import Tool](guides-import-tool-flow.md) available through Dynamics 365 Layout.
