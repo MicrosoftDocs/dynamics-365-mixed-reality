@@ -139,7 +139,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
     ![PowerApps trial sign-up)](media/powerapps-com.PNG "PowerApps trial sign-up")
 
-2.  In the PowerApps portal, select the **Settings** button, and then select **Admin Center**.
+2.  In the PowerApps portal, select the **Settings** button, and then select **Admin center**.
 
     ![PowerApps Portal)](media/powerapps-portal.PNG "PowerApps Portal")
 
