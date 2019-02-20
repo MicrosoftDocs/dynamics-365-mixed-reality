@@ -13,6 +13,9 @@ ms.reviewer: v-brycho
 
 With Remote Assist you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
 
+> [!NOTE]
+> If you're using the preview version of Remote Assist, you have until March 2019 to upgrade to the paid version. 
+
 ## Subscribe to Remote Assist
 
 > [!TIP]
