@@ -246,7 +246,7 @@ obfuscated URLs.
 -   The simplified model is fetched via an obfuscated URL by using the HTTPS
     protocol.
 
-    ![Simplified model](media/2b7b299ce1a466ff2c5ffd87ea41e2a4.png "Simplified model")
+    ![Simplified model](media/simplified-model.png "Simplified model")
     
     
 ### See also
