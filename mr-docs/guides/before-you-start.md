@@ -66,6 +66,8 @@ You can also create and import your own custom 3D parts. If you use custom 3D pa
 before importing them to Guides. It’s also good to break up 3D parts as much as possible. For example, if you have a 3D model that 
 shows a composite part for an engine, create separate 3D parts for all the individual pieces to better highlight the parts in a step.
 
+Guides supports GLTF, GLB, and FBX file formats. For additional file support (including some CAD formats) and automated 3D model optimization, you can use the [Import Tool](guides-import-tool-flow.md) available through Dynamics 365 Layout.
+
 ## Setting up a folder structure
 To organize content, you may want to create a folder structure with separate folders for text, 3D assets, images, and videos to make 
 it easy to find and use the different types of assets.
