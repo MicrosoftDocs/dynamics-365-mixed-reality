@@ -30,9 +30,7 @@ moving them to the right location. Use the default library of 3D holograms or im
 ## Improve productivity by enabling your workforce to learn while doing their work
 
 Training typically occurs away from the flow of work in a training facility, and requires a buddy system with experienced 
-mentors to bring workers up to speed. Some complex procedures are not needed regularly, and just-in-time training is needed.  
-Task cards and standard operating procedures are typically done on paper or a 2D device that requires a user to read, process, 
-and then do. 
+mentors to bring workers up to speed on the production line. Some complex procedures are not needed regularly, and just-in-time training is needed even for experienced workers. Currenlty, task cards and standard operating procedures are typically done on paper or a 2D device that requires a user to read, process, and then do, leaving a gap between learning and doing. 
 
 Whether it’s doing complex procedures on the job or while training away from the production line, Guides provides heads-up, hands-free, 
 step-by-step instruction in the flow of work. Employees can control the interface with their gaze – using a glance to move to the next 
