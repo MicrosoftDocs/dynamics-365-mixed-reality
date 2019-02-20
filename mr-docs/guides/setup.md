@@ -43,7 +43,9 @@ You can subscribe in any of the following ways:
 
 1.	Go to [the Dynamics 365 Guides sign-up page](http://aka.ms/GuidesSignUp), and then follow the instructions to create your user credentials for the trial.
 
-2.	After signing up, you’ll be prompted to sign in with the credentials you created in Step 1. After signing in, you’ll see the Microsoft 365 Admin Center page:
+2.	After signing up, you’ll be prompted to sign in with the credentials you created in Step 1. 
+
+    After signing in, you’ll see the Microsoft 365 Admin Center page:
 
     ![Microsoft 365 Admin Center page)](media/microsoft-365-admin-center.PNG "Microsoft 365 Admin Center")   
    
@@ -131,7 +133,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
 1.	Go to Powerapps.com and agree to the trial PowerApps subscription. 
 
-    ![PowerApps trial sign-up)](media/powerapps.com.PNG "PowerApps trial sign-up")
+    ![PowerApps trial sign-up)](media/powerapps-com.PNG "PowerApps trial sign-up")
 
 2.  In the PowerApps portal, select the **Settings** button, and then select **Admin Center**.
 
