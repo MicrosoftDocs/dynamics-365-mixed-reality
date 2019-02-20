@@ -29,10 +29,10 @@ world, and add styles to 3D objects (warning or caution, for example).
 
    ![Authoring overview)](media/authoring-overview.PNG "Authoring overview")
 
-Ready to get jump in? Choose one of these links to get under way:
+Ready to jump in? Choose one of these links to get underway:
 
 - [A few things to keep in mind before you start authoring](before-you-start.md)
-- [PC authoring how-to's](pc-authoring.md)
-- [HoloLens authoring how-to's](hololens-authoring.md)
+- [PC authoring how-tos](pc-authoring.md)
+- [HoloLens authoring how-tos](hololens-authoring.md)
 - [Gestures you'll use for authoring and navigating](authoring-gestures.md)
 
