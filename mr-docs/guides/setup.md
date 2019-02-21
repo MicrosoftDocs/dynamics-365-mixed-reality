@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Sign up for Dynamics 365 Guides Preview
 
-We're thrilled to introduce Microsoft Dynamics 365 Guides in preview! [Learn about 365 Guides capabilities](index.md).
+We're thrilled to introduce Microsoft Dynamics 365 Guides in preview! [Learn about Guides capabilities](index.md).
 
 To get started with Guides, you need to:
 
