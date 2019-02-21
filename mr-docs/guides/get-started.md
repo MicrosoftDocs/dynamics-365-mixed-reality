@@ -27,7 +27,7 @@ The best way to learn is by doing, so here are some tips on getting started:
     - Edit the guide steps and assets using the PC authoring app or place instructions or holograms using the HoloLens app in Author mode.
 
 
-2.	Create your first guide from scratch:
+2.	Create your first guide from scratch, try it out, and analyze it!
 
      - Picking a scenario that works well for Guides is the first step. To create your first guide, find a simple step-by-step operation in a physical space that you have access to. We’ve created guides for operating a projector, pouring water into a glass, and making penguin olives! Or use a real-world workflow in your business. 
 
