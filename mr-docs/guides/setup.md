@@ -121,6 +121,8 @@ Once you have a valid trial subscription, you’ll need to create an environment
 2.  Select **Start free trial**. 
 
 3.  Select **Assign users.** TRUE??? HOW DO YOU GET TO THE NEW USER SCREEN?
+
+4.  In the **New user** dialog box, expand **Product licenses**, and then assign a license to yourself.
   
     ![Add user license)](media/add-user-license.PNG "Add user license")
     
