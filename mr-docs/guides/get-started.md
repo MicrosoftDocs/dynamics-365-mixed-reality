@@ -41,8 +41,8 @@ If you run across an issue, check out our [FAQ](faq.md) and [Known Issues](known
 
 ### See also
 
-[Author a guide](authoring-overview.md)
-[Operating manual](operator-guide.md)
-[Analyze your guides](analytics-guide.md)
-[FAQ](faq.md)
+[Author a guide](authoring-overview.md)<br>
+[Operating manual](operator-guide.md)<br>
+[Analyze your guides](analytics-guide.md)<br>
+[FAQ](faq.md)<br>
 [Known issues](known-issues.md)
