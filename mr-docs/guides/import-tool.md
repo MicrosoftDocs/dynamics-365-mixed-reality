@@ -38,7 +38,7 @@ The following table describes the Import Tool, and how to install it from the Mi
 
 | **App**     | **Device**            | **Use to**                            | **To install from [!include[cc-microsoft](../includes/cc-microsoft.md)] store** |
 |-------------|-----------------------|---------------------------------------------|-------------------------------------|
-| [!include[pn-import-tool](../includes/pn-import-tool.md)] | PC                    | <ul><li>Process 3D models for use on [!include[pn-hololens](../includes/pn-hololens.md)] </ul>| On your PC go to **Start** ![Start](media/windows-button.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/store-button.png "Microsoft Store"), search for “[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX). <br>    |
+| [!include[pn-import-tool](../includes/pn-import-tool.md)] | PC                    | Process 3D models for use on [!include[pn-hololens](../includes/pn-hololens.md)]| On your PC go to **Start** ![Start](media/windows-button.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/store-button.png "Microsoft Store"), search for “[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX). <br>    |
 
 ## Convert 3D models for use on HoloLens
 
