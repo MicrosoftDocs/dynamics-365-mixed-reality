@@ -14,7 +14,7 @@ There are three basic things you can do with Guides:
 
 See our [Authoring](authoring-overview.md), [Operating](operator-guide.md), and  [Analyzing](analytics-guide.md) topics for step-by-step guidance on the above. Not sure about a  term? See our [Glossary of terms](glossary.md). 
 
-## Learn by doing
+## Jumping in
 
 The best way to learn is by doing, so here are some tips on getting started: 
 
