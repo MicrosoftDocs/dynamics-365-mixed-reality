@@ -181,6 +181,12 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 2.	Select the newly created Guides instance from the list of instances, and then select the **Open** button as shown below: 
     
     ![Admin Center with Open button selected)](media/admin-center-open-button.PNG "Admin Center with Open button selected")
+    
+    This opens the **Dynamics 365** screen.
+    
+3.  In the **Dynamics 365** screen, select the **Settings** button, and then select **Advanced Settings**. 
+
+    [Advanced Settings](media/advanced-settings.PNG "Advanced Settings")
  
 2.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
 
