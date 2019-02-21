@@ -194,19 +194,23 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
     ![Advanced Settings](media/advanced-settings.PNG "Advanced Settings")
     
-4.  In the **Dynamics 365** screen, under **System**, select **Administration**.
+4.  In the **Dynamics 365 Business Management** screen, select the **Settings" drop-down, and then select **Administration**.
+
+    ![Business Management screen](media/business-management.PNG "Business Management screen")
+    
+5.  In the **Dynamics 365** screen, under **System**, select **Administration**.
 
     ![Administration button in Dynamics 365)](media/administration-button.PNG "Administration button in Dynamics 365")
  
-5.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
+6.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
 
     ![System settings in Dynamics 365)](media/system-settings.PNG "System settings in Dynamics 365")
   
-6.	In the **System Settings** page, select the **Email** tab, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
+7.	In the **System Settings** page, select the **Email** tab, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
 
     ![System settings dialog box)](media/system-settings-dialog-box.PNG "System settings dialog box")
  
-7.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small Edit button next to **Solutions**.
+8.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small Edit button next to **Solutions**.
 
     ![Solutions Edit button)](media/solutions-edit-button.PNG "Solutions Edit button")
  
