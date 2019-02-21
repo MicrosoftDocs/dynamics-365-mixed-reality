@@ -120,7 +120,7 @@ disconnecting your device from the Internet (if and when you re-connect to the I
 checking for and installing updates), or uninstalling the software. The product documentation, if any, may also specify how 
 to turn off updates for your specific device or software. 
 
-> **c) Germany and Austria.v 
+> **c) Germany and Austria.** 
 
 >> **i.Warranty.** The properly licensed software will perform substantially as described in any Microsoft materials that accompany 
 the software. However, Microsoft gives no contractual guarantee in relation to the licensed software. 
