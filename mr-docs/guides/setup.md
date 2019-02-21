@@ -31,9 +31,9 @@ When you sign up for preview, you’ll get access for up to 25 users.
 
 You can sign up in either of the following ways:
 
-- If you’re new to Microsoft, sign up through the Guides Getting Started page as described below.  
+- Sign up through the Guides Getting Started page as described below.  
   
-- If you're an existing customer or admin, sign up through the Guides Getting Started page or through the Microsoft Admin Center. Step-by-step instructions for signing up through the Microsoft Admin Center are provided below.
+- Sign up through the Microsoft Admin Center (for existing customers). Step-by-step instructions for signing up through the Microsoft Admin Center are provided below.
 
 ### Sign up through the Guides Getting Started page
 
@@ -110,7 +110,7 @@ When you add a user, the user will get an email notification from the Microsoft 
 
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
-After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Install and configure Guides solution](#configure).
+After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Step 3: Install and configure Guides solution](#configure).
 
 1.	Go to the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home).
 
@@ -132,7 +132,7 @@ After signing up for the preview, you’ll need to create an environment where y
   
     ![Add user license)](media/add-user-license.PNG "Add user license")
     
-7.  Go to the [PowerApps Admin Center[(https://preview.admin.powerapps.com/environments) and sign in with the user credentials created when you signed up for the preview.
+7.  Go to the [PowerApps Admin Center](https://preview.admin.powerapps.com/environments) and sign in with the user credentials created when you signed up for the preview.
 
 8.	In the PowerApps Admin Center, select the **New environment** button.
 
@@ -180,7 +180,7 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
 
 ## Step 3: Install and configure the Guides solution<a name="configure"></a>
 
-In the Guides PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To to this, you'll change the setting for the email attachment size to 128 MB (131072 KB). 
+In the Guides PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB). 
 
 1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and sign in with the user credentials you created when you signed up for the Guides trial. 
     
@@ -242,9 +242,12 @@ In the Guides PC application, you can upload your own 3D files, as well as video
     
     - Dynamics 365 MR Guides Author
     
-    - System Administrator (if this is the main user/admin; otherwise do not select this role)
+    - System Administrator 
        
       ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
+      
+      > [!NOTE]
+      > Select the System Administrator role if this is the main user/admin. Otherwise, do not select the System Administrator role.
  
      
 ## Step 4: Install the applications
@@ -260,11 +263,7 @@ You can install the apps from the Microsoft Store as described below.
 > [!NOTE]
 > If you can’t access the Microsoft Store due to company policies, please contact your administrator to distribute the app.
 
-If you use the Microsoft Store for Business, you can have users install the apps:
-
-- From your organization’s private store
-
-- From an email link that you send
+If you use the Microsoft Store for Business, you can have users install the apps from your organization’s private store or from an email link that you send.
 
 ### Install the apps from the Microsoft Store
 
@@ -313,9 +312,9 @@ For information on opening and signing in to the HoloLens application, go to one
 
 ### See also
 
-[Get started with Dynamics 365 Guides (Preview)](get-started.md)<br>
-[Authoring a guide](authoring-overview.md)<br>
-[Guides Operator's manual](operator-guide.md)<br>
+[Get started with Dynamics 365 Guides Preview](get-started.md)<br>
+[Author a guide](authoring-overview.md)<br>
+[Operator's manual](operator-guide.md)<br>
 [Analyze your guides to improve process efficiencies](analytics-guide.md)<br>
 [FAQ](faq.md)
 
