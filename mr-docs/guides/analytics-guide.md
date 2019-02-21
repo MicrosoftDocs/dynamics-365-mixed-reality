@@ -59,9 +59,9 @@ To set up your reports:
  
 2.	In the Microsoft Download Center, select the **Download** button. 
 
-   ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
+    ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
 
-   You’ll be prompted to choose which files to download: 
+    You’ll be prompted to choose which files to download: 
 
      - **Guides Analytics Template.** You can configure this Power BI template file to display Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
    
