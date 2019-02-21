@@ -1,0 +1,132 @@
+# TERMS OF SERVICE
+# MICROSOFT DYNAMICS 365 	MIXED REALITY PREVIEW
+
+These terms of service are an agreement between you and Microsoft Corporation (or one of its affiliates). They apply to the 
+Microsoft online services made available to you for preview use in connection with one or more Microsoft Dynamics 365 products 
+or applications (the “Preview”) (except to the extent such services or updates are accompanied by new or additional terms, 
+in which case those different terms apply prospectively and do not alter your or Microsoft’s rights relating to pre-updated 
+software or services). IF YOU COMPLY WITH THESE TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SERVICES FOR A PREVIEW, 
+YOU ACCEPT THESE TERMS.
+
+1.	USE RIGHTS.
+
+a)	Rights. During the term of any Preview (the “Term”), Microsoft grants you a non-exclusive, non-transferable, 
+non-sublicensable right to access and use, solely in accordance with this Agreement, the Microsoft online services solely 
+in connection with any Previews in which you participate. This agreement extends to your authorized users, and you are fully liable 
+for their use.
+
+b)	Use terms. You acknowledges that: (i) Previews may not work correctly or the same way that a commercial version may work; (ii) 
+if Microsoft elects to provide support for any Previews, such support will be provided “as is”, “with all faults”, and without 
+warranty, and Microsoft may cease providing support at any time, without notice; (iii) except as otherwise expressly stated 
+in this Agreement, the MLA does not apply to any Previews; (iv) Microsoft has no obligation to hold, export, or return any 
+Customer Data (defined in the MLA) in relation to any Previews; (v) You may use Previews for testing and evaluation purposes 
+only; (vi) You may not use Previews to access or process any “live” or production Customer Data, or Personal Data or other 
+data that is subject to legal or regulatory compliance requirements; (vii) Microsoft may chose not to make a Preview generally 
+commercially available Previews are subject to reduced or different security, compliance and privacy commitments. 
+Any data provided to Microsoft through Customer’s use of Previews may be transferred, stored, and processed in the 
+United States, or in any other country where Microsoft or its subcontractors operate.
+
+c)	Limitations and Exclusions. The Microsoft Online Services Terms (see http://microsoftvolumelicensing.com/) and any 
+Microsoft volume licensing agreement you have entered into with Microsoft, or any other applicable agreement (collectively, 
+the “Microsoft Licensing Agreement” or “MLA”), and any references or statements made in the Trust Center do not apply to the 
+Preview, including, but not limited to, data security, GDPR, and professional services related terms. Microsoft may, in its 
+sole discretion, limit the: (a) rate at which the services may be called or made available; and (b) the amount of data that may 
+be uploaded to, or served from, the Preview (all of the foregoing being forms of "Throttling"). Microsoft may perform this 
+Throttling globally across the Preview. You will not take steps to circumvent or disable any technical measures Microsoft may 
+put in place to enforce Throttling. The Preview is subject to reduced or different security, compliance and privacy commitments. 
+Any data provided to Microsoft through your use of the software and the Preview may be transferred, stored, and processed in the 
+United States, or in any other country where Microsoft of its subcontractors operate. 
+
+Important
+
+If you are the administrator for the organization and have authority to act on behalf of and to bind the organization, then by 
+installing or using the Preview, you consent to allow authorized users of Microsoft Dynamics 365 online services to activate, 
+configure and enable certain functionality which transmits Customer Data (as defined in the MLA) to external systems. Please 
+consult the feature technical documentation available at: https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/.
+
+d)	 Required Offerings. Certain Microsoft services or software may be necessary to use a particular Preview (“Required Offerings”). 
+Microsoft does not grant any rights under this Agreement to access or use Required Offerings; rather, Required Offerings are 
+separately licensed to you under a Microsoft Licensing Agreement, which may require paying a fee. The Required Offerings for a 
+given Preview will be identified in the Preview Terms. “Microsoft Licensing Agreement” or “MLA” means the Microsoft Online 
+Services Terms (see http://microsoftvolumelicensing.com/) and your Microsoft volume licensing agreement, or any other applicable 
+agreement, under which you subscribed or was granted a license to any Required Offerings.
+
+e)	Acceptable use. You will not: (i) use Previews (A) in a way prohibited by law, regulation, or government order or decree; (B) 
+to violate others’ rights; (C) to try to gain unauthorized access to or disrupt any service, device, account, or network; (D) to 
+distribute unsolicited commercial email or malware; or (E) in a way that could harm the Previews or impair anyone else’s use of 
+them; or (ii) reverse engineer, decompile, disassemble, or work around any technical limits in any Previews. You will respond 
+to any third-party claims regarding its use of Previews or Customer Data (e.g., under the DMCA), and will comply with them as 
+necessary to comply with laws.
+
+f)	Reservation of rights. All rights not expressly granted are reserved by the applicable rights holder, and no rights or 
+licenses are granted (or deemed granted) by implication, estoppel, or exhaustion.
+
+g)	Software. If a Preview includes any software, you may install and use it on its devices only with (and for so long as you have 
+the right to use) such Preview under this Agreement. You will comply with any additional terms that may accompany such software. 
+You must uninstall any such software when its right to use the applicable Preview ends (and Microsoft may also disable it at that time).
+
+2.	Non-Microsoft software. If you install or use any non-Microsoft software with any Previews: (i) Microsoft is not bound by any 
+terms governing your use of such software; (ii) you direct and control such installation and use (e.g., through use of application 
+programming interfaces and other means that may be part of the Previews); and (iii) you may not do so in a way that would subject 
+Microsoft intellectual property rights or technology to obligations beyond those in this Agreement. Microsoft will not run or 
+copy such non-Microsoft software outside of its relationship with you.
+
+3.	Updates. The services may periodically check for updates, and download and install them for you. You may obtain updates only 
+from Microsoft or authorized sources. Microsoft may need to update your system to provide you with updates. You agree to receive
+these automatic updates without any additional notice. Updates may not include or support all existing software features, services, 
+or peripheral devices.
+
+4.	Support. Microsoft is not obligated under this agreement to provide any support services of any kind. Any support provided 
+is “as is”, “with all faults”, and without warranty of any kind and Microsoft may cease providing support (if any) at any time, without 
+notice. If Microsoft elects to provide support, Microsoft will solely own any enhancements or improvements to the services or the 
+Preview arising from provision of such support services.
+
+5.	Customer Data. The applicable MLA terms (which may be incorporated in the MLA by reference) pertaining to collection, use, 
+and location of Customer Data (as such terms are modified in the MLA to apply to previews) will apply to collection, use, and 
+location of Customer Data under this Agreement.  The accuracy and performance of the Previews improve by having had access to large 
+volumes of data. Microsoft will solely own any enhancements or improvements to the Previews arising from access to and use of 
+Customer Data. Microsoft may also use information derived from Customer Data if such use does not include Customer Data and 
+no Customer Data can be reverse engineered from such use.
+
+6.	Data Transfers.  Customer Data and Personal Data that Microsoft processes on Customer’s behalf may be transferred to, and 
+stored and processed in, the United States or any other country in which Microsoft or its subprocessors operate.  
+Customer appoints Microsoft to perform any such transfer of Customer Data and Personal Data to any such country and to 
+store and process Customer Data and Personal Data to provide the Preview.  Microsoft will abide by the requirements of 
+European Economic Area and Swiss data protection law regarding the collection, use, transfer, retention, and other processing 
+of Personal Data from the European Economic Area and Switzerland. All transfers of Personal Data to a third country or an 
+international organization will be subject to appropriate safeguards as described in Article 46 of the GDPR ((EU) 2016/679 of 
+the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing 
+of personal data and on the free movement of such data, and repealing Directive 95/46/EC) and such transfers and safeguards 
+will be documented according to Article 30(2) of the GDPR. In addition, Microsoft is certified to the EU-U.S. and 
+Swiss-U.S. Privacy Shield Frameworks and the commitments they entail. Microsoft agrees to notify Customer if it makes 
+a determination that it can no longer meet its obligation to provide the same level of protection as is .required by the 
+Privacy Shield principles.
+
+7.	DISCLAIMER OF WARRANTY. THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE.” YOU BEAR THE RISK OF USING THE PREVIEW. 
+MICROSOFT GIVES NO EXPRESS WARRANTIES, GUARANTEES, OR CONDITIONS. TO THE EXTENT PERMITTED UNDER APPLICABLE LAWS, MICROSOFT
+EXCLUDES ALL IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8.	LIMITATION ON AND EXCLUSION OF DAMAGES. IF YOU HAVE ANY BASIS FOR RECOVERING DAMAGES DESPITE THE PRECEDING DISCLAIMER OF WARRANTY, 
+YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO U.S. $5.00. YOU CANNOT RECOVER ANY OTHER DAMAGES, 
+INCLUDING CONSEQUENTIAL, LOST PROFITS, SPECIAL, INDIRECT OR INCIDENTAL DAMAGES.
+
+This limitation applies to (a) anything related to the software, services, content (including code) on third party Internet sites, 
+or third party applications; and (b) claims for breach of contract, warranty, guarantee, or condition; strict liability, 
+negligence, or other tort; or any other claim; in each case to the extent permitted by applicable law.
+
+It also applies even if Microsoft knew or should have known about the possibility of the damages. The above limitation or 
+exclusion may not apply to you because your state, province, or country may not allow the exclusion or limitation 
+of incidental, consequential, or other damages.
+
+9.	Applicable Law and Place to Resolve Disputes. If you acquired the software in the United States or Canada, the laws of the 
+state or province where you live (or, if a business, where your principal place of business is located) govern the interpretation 
+of this agreement, claims for its breach, and all other claims (including consumer protection, unfair competition, and tort claims), 
+regardless of conflict of laws principles. If you acquired the software in any other country, its laws apply. If U.S. federal 
+jurisdiction exists, you and Microsoft consent to exclusive jurisdiction and venue in the federal court in King County, 
+Washington for all disputes heard in court. If not, you and Microsoft consent to exclusive jurisdiction and venue in the Superior 
+Court of King County, Washington for all disputes heard in court.
+
+10.	Entire Agreement. This agreement, and any other terms Microsoft may provide for supplements, updates, or third-party 
+applications, is the entire agreement for the services.
+
+
