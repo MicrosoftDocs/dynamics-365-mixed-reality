@@ -16,7 +16,7 @@ See our [Authoring](authoring-overview.md), [Operating](operator-guide.md), and 
 
 ## Jumping in
 
-The best way to learn is by doing, so here are some tips on getting started: 
+The best way to learn Guides is by doing, so here are some tips on getting started: 
 
 1.	Use the Example Guide:
 
