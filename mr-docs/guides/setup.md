@@ -122,23 +122,23 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
 4.  In the left navigation, select **Users**, and then select **Active users.** 
 
-    ![Edit PowerApps plan)](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
+    ![Users > Active Users screen)](media/users-active-users.PNG "Users > Active Users screen")
     
 5.  In the **Guides Account** screen, select the **Edit** button next to **Product license**.
 
      ![Edit PowerApps plan)](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
-5.  In the **Product licenses** screen, turn on **Dynamics 365 Guides" plan.
+7.  In the **Product licenses** screen, turn on **Dynamics 365 Guides" plan.
   
     ![Add user license)](media/add-user-license.PNG "Add user license")
     
-6.  Go to the PowerApps Admin Center and sign in with the user credentials created when you signed up for the trial subscription.
+7.  Go to the PowerApps Admin Center and sign in with the user credentials created when you signed up for the trial subscription.
 
-7.	In the PowerApps Admin Center, select the **New environment** button.
+8.	In the PowerApps Admin Center, select the **New environment** button.
 
     ![PowerApps Admin Center)](media/powerapps-environment.PNG "PowerApps Admin Center")
  
-8.	Fill in the following details for the environment:
+9.	Fill in the following details for the environment:
 
     -	**Environment Name:** Guides_*anyname*
     -	**Region:** Choose your region
@@ -146,22 +146,22 @@ Once you have a valid trial subscription, you’ll need to create an environment
   
         ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
     
-9.	Select the **Create environment** button. 
+10.	Select the **Create environment** button. 
 
-10.	In the pop-up that appears, select **Create database**.
+11.	In the pop-up that appears, select **Create database**.
 
     ![Environment created dialog box)](media/environment-created.PNG "Environment created dialog box")   
     
- 11.	In the next pop-up, choose the currency and language and then clear the **Include sample apps and data** check box.
+12.	In the next pop-up, choose the currency and language and then clear the **Include sample apps and data** check box.
 
     ![Currency and language settings)](media/currency-language-settings.PNG "Currency and language settings")
 
     > [!IMPORTANT]
     > Make sure to clear the **Include sample apps and data** check box.
   
-12.	Select **Create database.**
+13.	Select **Create database.**
 
-13.	In the **PowerApps Admin center>Environments** screen, select the environment that was just created (a production environment, not a default environment). 
+14.	In the **PowerApps Admin center>Environments** screen, select the environment that was just created (a production environment, not a default environment). 
 
     ![Select the environment)](media/select-environment.PNG "Select the environment")
  
@@ -172,7 +172,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
     > [!NOTE]
     > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.
     
-14.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link. 
+15.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link. 
 
     ![Admin Center link)](media/admin-center-link.PNG "Admin Center link")
 
