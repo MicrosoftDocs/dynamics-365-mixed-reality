@@ -112,20 +112,18 @@ When you add a user, the user will get an email notification from the Microsoft 
 
 Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Install and configure Guides solution](#configure).
 
-1.	Go to the Microsoft 365 Admin Center.
+1.	Go to the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home).
 
 2.  Under **Billing**, select **Purchase Services**, and then search for **PowerApps Plan 2**.
 
     ![PowerApps Plan 2)](media/powerapps-plan2.PNG "PowerApps Plan 2")
 
-2.  Select **Start free trial**.     
+2.  Select **Start free trial**. 
+
+3.  Select **Assign users.** TRUE??? HOW DO YOU GET TO THE NEW USER SCREEN?
   
-    This will take you to the PowerApps portal.
-
-2.  In the PowerApps portal, select the **Settings** button, and then select **Admin center**.
-
-    ![PowerApps Portal)](media/powerapps-portal.PNG "PowerApps Portal")
-
+    ![Add user license)](media/add-user-license.PNG "Add user license")
+    
 3.  In the PowerApps Admin Center, sign in with the user credentials created when you signed up for the trial subscription.
 
 4.	In the PowerApps Admin Center, select the **New environment** button.
