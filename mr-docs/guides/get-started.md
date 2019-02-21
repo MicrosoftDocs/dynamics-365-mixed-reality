@@ -12,7 +12,7 @@ There are three basic things you can do with Guides:
 
 - Analyze the guide usage (see how people operating the guide did at each step). 
 
-See our [Author a guide](authoring-overview.md), [Operating manual](operator-guide.md), and  [Analyze your guides](analtyics-guide.md) topics for step-by-step guidance. Not sure about a  term? See our [Glossary of terms](glossary.md). 
+See our [Author a guide](authoring-overview.md), [Operating manual](operator-guide.md), and  [Analyze your guides](analytics-guide.md) topics for step-by-step guidance. Not sure about a  term? See our [Glossary of terms](glossary.md). 
 
 ## Learn by doing
 
