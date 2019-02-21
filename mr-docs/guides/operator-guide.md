@@ -1,17 +1,17 @@
 ---
 author: BryceHo
-description: Everything you need to know about using a guide created with Dynamics 365 Guides (Preview), including calibration, gaze and gestures, and installing and using the HoloLens app.
+description: Everything you need to know about using a guide created with Dynamics 365 Guides Preview, including calibration, gaze and gestures, and installing and using the HoloLens app.
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Operator's manual for Dynamics 365 Guides (Preview)
+title: Operator's manual for Dynamics 365 Guides Preview
 ms.reviewer: v-brycho
 ---
 
-# Operator's manual for Dynamics 365 Guides (Preview)
+# Operator's manual for Dynamics 365 Guides Preview
 
-Welcome to Microsoft Dynamics 365 Guides (Preview)! This Operator's manual is designed to help operators understand how to use a holographic guide created with Guides. It describes everything that you, as the operator, need to know about the Guides user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With Dynamics 365 Guides, you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
+Welcome to Microsoft Dynamics 365 Guides Preview! This Operator's manual is designed to help operators understand how to use a holographic guide created with Guides. It describes everything that you, as the operator, need to know about the Guides user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With Dynamics 365 Guides, you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
 
 ## First things first – calibrate your HoloLens 
 Dynamics 365 Guides uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on a HoloLens, it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your HoloLens. You can do this by using the Calibration app that comes with your HoloLens. 
