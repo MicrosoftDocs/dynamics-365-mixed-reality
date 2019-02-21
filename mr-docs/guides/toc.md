@@ -15,5 +15,5 @@
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
 ## [Known issues](known-issues.md)
-## [Terms of use](../licensing/guides-terms-of-use.md)
+## [Terms of use](../legal/guides-terms-of-use.md)
 
