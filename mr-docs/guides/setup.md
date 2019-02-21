@@ -240,7 +240,9 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
     - Common Data Service User
     
-    - Dynamics 365 MR Guides Author    
+    - Dynamics 365 MR Guides Author
+    
+    - System Administrator (if this is the main user/admin; otherwise do not select this role)
        
       ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
  
