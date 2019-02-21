@@ -49,7 +49,7 @@ to better understand performance and improvement over time.
 You can set up Guide Analytics for the first time through the Guides PC authoring app.
 
 > [!NOTE]
-> Guides Analytics requires the freely available Power BI Desktop application. If you don’t have permission to install Power BI Desktop on your computer, ask your admin about Sharing the reports through the Power BI Service. 
+> Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). If you don’t have permission to install Power BI Desktop on your computer, ask your admin about Sharing the reports through the Power BI Service. 
 
 To set up your reports:
  
@@ -98,7 +98,7 @@ Once you have set up and saved the Guides Analytics Template on your computer, s
 
 ## Take a tour of reports 
 
-Both the Guides Analytics and Guides Analytics Demo apps contain two reports: Guides Usage and Process Time-Tracking.
+Both the Guides Analytics Template and Guides Analytics Demo files contain two reports: Guides Usage and Process Time-Tracking.
 
 ### Guides Usage report
 
@@ -204,7 +204,7 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
 6.	Select a recent run 
 
     To view data for a single recent run, select it from the run table. By default, this table is sorted by the **Run Start** time 
-   with the most recent run on the top. You can also select the column headers to sort by **Run Time** or **User Name**. If you select 
+   with the most recent run on the top. You can also select the column headers to sort by **Run Time**. If you select 
    a single row in this table, all visuals and statistics will be filtered to just that single run. 
    
 7.	Filter by Date or Step Time (minutes) 
