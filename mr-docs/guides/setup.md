@@ -186,7 +186,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
     
 3.  In the **Dynamics 365** screen, select the **Settings** button, and then select **Advanced Settings**. 
 
-    ![[Advanced Settings](media/advanced-settings.PNG "Advanced Settings")
+    ![Advanced Settings](media/advanced-settings.PNG "Advanced Settings")
  
 2.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
 
