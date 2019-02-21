@@ -25,9 +25,9 @@ To get started with Guides, you need to:
 
 This topic provides step-by-step instructions for all of the above.
 
-## Step 1: Sign up for the preview
+## Step 1: Sign up for the Preview
 
-When you sign up for preview, you’ll get access for up to 25 users. 
+When you sign up for the Preview, you’ll get access for up to 25 users. 
 
 You can sign up in either of the following ways:
 
