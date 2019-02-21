@@ -39,7 +39,7 @@ You can sign up in either of the following ways:
 
 1.	Go to [the Guides Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview.
 
-2.	After signing up, if you want to add up to 24 additional users for your preview, follow the steps below for adding users.
+2.	After signing up, if you want to add users for your preview, follow the steps below.
 
 ### Subscribe through the Microsoft 365 Admin Center.
 
