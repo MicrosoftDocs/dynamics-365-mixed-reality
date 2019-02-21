@@ -33,7 +33,7 @@ You can sign up in either of the following ways:
 
 - If you’re new to Microsoft, sign up through the Guides Getting Started page as described below.  
   
-- If you're an existing customer or admin, sign up through the Guides Getting Started page or through the Microsoft Admin Center. Step-by-step instructions for subscribing through the Microsoft Admin Center are provided below.
+- If you're an existing customer or admin, sign up through the Guides Getting Started page or through the Microsoft Admin Center. Step-by-step instructions for signing up through the Microsoft Admin Center are provided below.
 
 ### Sign up through the Guides Getting Started page
 
@@ -41,7 +41,7 @@ You can sign up in either of the following ways:
 
 2.	After signing up, if you want to add users for your preview, follow the steps below.
 
-### Subscribe through the Microsoft 365 Admin Center.
+### Sign up through the Microsoft 365 Admin Center.
 
 1.	Go to [https://portal.office.com/AdminPortal/Home#/catalog](https://portal.office.com/AdminPortal/Home#/catalog).
 
@@ -110,7 +110,7 @@ When you add a user, the user will get an email notification from the Microsoft 
 
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
-Once you have a valid trial subscription, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Install and configure Guides solution](#configure).
+After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Install and configure Guides solution](#configure).
 
 1.	Go to the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home).
 
@@ -132,7 +132,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
   
     ![Add user license)](media/add-user-license.PNG "Add user license")
     
-7.  Go to the PowerApps Admin Center and sign in with the user credentials created when you signed up for the trial subscription.
+7.  Go to the PowerApps Admin Center and sign in with the user credentials created when you signed up for the preview.
 
 8.	In the PowerApps Admin Center, select the **New environment** button.
 
