@@ -55,7 +55,7 @@ You can sign up in either of the following ways:
 
 6.	On the product card, select **Start free trial**, and then follow the instructions.
 
-7.	Assign licenses to users as described in the next procedure.
+7.	If you want to add additional users, assign licenses as described in the next procedure.
 
 ### Assign licenses for additional users (optional)<a name="licenses"></a>
 
