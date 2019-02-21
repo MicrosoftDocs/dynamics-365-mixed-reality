@@ -1,3 +1,3 @@
 
 
-# Get started with Dynamics 365 Guides (Preview)
+# Get started with Dynamics 365 Guides Preview
