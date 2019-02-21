@@ -21,10 +21,14 @@ The best way to learn Guides is by doing, so here are some tips on getting start
 1.	Use the Example Guide:
 
     - We have included an Example Guide that you can use to learn about Guides. It walks you through common workflows and features, provides tips and tricks to great guide creation, and helps you get up to speed by doing!
+    
+    ![Example Guide)](media/hololens-example-guide.PNG "Example Guide")
 
     - Put on your HoloLens, start the HoloLens app in Operator mode, and then select the Example Guide. Go through the guide step-by-step to learn about key features. 
 
     - Edit the guide steps and assets using the PC authoring app or place instructions or holograms using the HoloLens app in Author mode.
+    
+    
 
 
 2.	Create your first guide from scratch, try it out, and analyze it!
