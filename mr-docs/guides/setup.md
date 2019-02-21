@@ -120,7 +120,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
 3.  On the Microsoft PowerApps Plan 2 card, select **Start free trial**. 
 
-4.  In the left navigation, select **Users**, and then select **Active users.** 
+4.  Now you need to add the PowerApps license to a user. To do that, in the left navigation, select **Users**, select **Active users**, and then select the **Add a user** button. 
 
     ![Users > Active Users screen)](media/users-active-users.PNG "Users > Active Users screen")
     
@@ -128,7 +128,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
      ![Edit PowerApps plan)](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
-7.  In the **Product licenses** screen, turn on **Dynamics 365 Guides" plan.
+7.  In the **Product licenses** screen, turn on the **Microsoft PowerApps Plan 2** plan.
   
     ![Add user license)](media/add-user-license.PNG "Add user license")
     
