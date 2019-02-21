@@ -194,26 +194,26 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
     ![Advanced Settings](media/advanced-settings.PNG "Advanced Settings")
     
-3.  In the **Dynamics 365** screen, under **System**, select **Administration**.
+4.  In the **Dynamics 365** screen, under **System**, select **Administration**.
 
     ![Administration button in Dynamics 365)](media/administration-button.PNG "Administration button in Dynamics 365")
  
-2.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
+5.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
 
     ![System settings in Dynamics 365)](media/system-settings.PNG "System settings in Dynamics 365")
   
-3.	In the **System Settings** page, select the **Email** tab, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
+6.	In the **System Settings** page, select the **Email** tab, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
 
     ![System settings dialog box)](media/system-settings-dialog-box.PNG "System settings dialog box")
  
-4.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small Edit button next to **Solutions**.
+7.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small Edit button next to **Solutions**.
 
     ![Solutions Edit button)](media/solutions-edit-button.PNG "Solutions Edit button")
  
     > [!NOTE]
     > You can also get to the Dynamics 365 Administration Center from the PowerApps portal.
     
-5.	Select the Dynamics 365 Guides solution in the list, and then select **Install**. 
+8.	Select the Dynamics 365 Guides solution in the list, and then select **Install**. 
 
     ![Solutions Install button)](media/solutions-install-button.PNG "Solutions Install button")
  
@@ -255,16 +255,10 @@ There are two guides applications:
 
 - HoloLens application, which has an Author mode and an Operator mode
 
-You can install the apps from the Microsoft Store for Consumers as described below.
+You can install the apps from the Microsoft Store as described below.
 
 > [!NOTE]
-> If you can’t access the Microsoft Store for Consumers due to company policies, please contact your administrator to distribute the app.
-
-If you're an administrator and you have subscribed and assigned licenses to your users through the Microsoft 365 Admin Center or Partner Center, you can make the apps available through one of the following:
-
-- Microsoft Store for Consumers
-
-- Microsoft Store for Business
+> If you can’t access the Microsoft Store due to company policies, please contact your administrator to distribute the app.
 
 If you use the Microsoft Store for Business, you can have users install the apps:
 
@@ -272,12 +266,12 @@ If you use the Microsoft Store for Business, you can have users install the apps
 
 - From an email link that you send
 
-### Install the apps from the Microsoft Store for Consumers
+### Install the apps from the Microsoft Store
 
 #### Install the PC authoring app 
-1.	Make sure your Windows 10 PC is running the Fall Creators Update or later (build 10.0.16299 or later).
+1.	Check to make sure your Windows 10 PC is running the latest Windows build (must be build 10.0.16299 or later).
 
-2.	On your PC, go to Start ![Start button)](media/windows-button.png "Start button") > Microsoft Store ![Store button)](media/store-button.png "Store button"), and then search for “Guides.”
+2.	On your PC, go to Start ![Start button)](media/windows-button.png "Start button") > Microsoft Store ![Store button)](media/store-button.png "Store button"), and then search for “Dynamics 365 Guides (Preview).”
 
 3.	In the Microsoft Store, select the **Install** button for the Guides app to download and install the application.
 
@@ -288,7 +282,7 @@ If you use the Microsoft Store for Business, you can have users install the apps
 
 1.	Make sure your HoloLens is running build 10.0.14393.0 or later. We recommend updating HoloLens to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
-2.	On your HoloLens, use the bloom gesture to open the Home menu, and then open the Microsoft Store app and search for “Guides”.
+2.	On your HoloLens, use the bloom gesture to open the Home menu, and then open the Microsoft Store app and search for “Dynamics 365 Guides (Preview)”.
 
 3.	Select **Install** to download and install the Guides application.
 
