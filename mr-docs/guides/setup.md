@@ -118,25 +118,25 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
     ![PowerApps Plan 2)](media/powerapps-plan2.PNG "PowerApps Plan 2")
 
-2.  Select **Start free trial**. 
+3.  Select **Start free trial**. 
 
-3.  Select **Assign users.** TRUE??? HOW DO YOU GET TO THE NEW USER SCREEN?
+4.  Select **Assign users.** TRUE??? HOW DO YOU GET TO THE NEW USER SCREEN?
 
-4.  In the **New user** dialog box, expand **Product licenses**, and then assign a license to yourself. ???HOW TO DO THIS???
+5.  In the **New user** dialog box, expand **Product licenses**, and then assign a license to yourself. ???TRUE???HOW TO DO THIS???
   
     ![Add user license)](media/add-user-license.PNG "Add user license")
     
-3.  In the PowerApps Admin Center, sign in with the user credentials created when you signed up for the trial subscription.
+6.  Go to the PowerApps Admin Center and sign in with the user credentials created when you signed up for the trial subscription.
 
-4.	In the PowerApps Admin Center, select the **New environment** button.
+7.	In the PowerApps Admin Center, select the **New environment** button.
 
     ![PowerApps Admin Center)](media/powerapps-environment.PNG "PowerApps Admin Center")
  
-5.	Fill in the following details for the environment:
+8.	Fill in the following details for the environment:
 
     -	**Environment Name:** Guides_*anyname*
     -	**Region:** Choose your region
-    -	**Environment Type:** Set it to **Trial**
+    -	**Environment Type:** Set it to **Production**
   
         ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
     
