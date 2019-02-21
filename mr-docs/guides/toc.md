@@ -11,7 +11,6 @@
 ### [Use the Dynamics 365 Import Tool to convert 3D models](import-tool.md)
 ## [Operator's manual](operator-guide.md)
 ## [Analyze your guides](analytics-guide.md)
-## [Windows Device Portal calibration](windows-device-portal.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
 ## [Known issues](known-issues.md)
