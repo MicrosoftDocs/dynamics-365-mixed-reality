@@ -165,10 +165,10 @@ indemnisation pour les autres dommages, y compris les dommages spéciaux, indire
 
 **Cette limitation concerne:**
 
-**- tout ce qui est relié au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers ou 
+>**- tout ce qui est relié au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers ou 
 dans des programmes tiers; et** 
 
-**- les réclamations au titre de violation de contrat ou de garantie, ou au titre de responsabilité stricte, de négligence ou 
+>**- les réclamations au titre de violation de contrat ou de garantie, ou au titre de responsabilité stricte, de négligence ou 
 d’une autre faute dans la limite autorisée par la loi en vigueur.** 
 
 **Elle s’applique également, même si Microsoft connaissait ou devrait connaître l’éventualité d’un tel dommage. Si votre 
