@@ -15,7 +15,7 @@ We're thrilled to introduce Microsoft Dynamics 365 Guides in preview! [Learn abo
 
 To get started with Guides, you need to:
 
-1.	Sign up for preview.
+1.	Sign up for the preview.
 
 2.	Create a Common Data Service (CDS) environment, if you don't already have one.
 
