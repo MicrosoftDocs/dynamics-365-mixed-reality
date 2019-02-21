@@ -12,7 +12,7 @@ There are three basic things you can do with Guides:
 
 - Analyze the guide usage (see how people operating the guide did at each step). 
 
-See our [Author a guide](authoring-overview.md), [Operating manual](operator-guide), and  [Analyze your guides](guides-analytics.md) topics for step-by-step guidance. Not sure about a  term? See our [Glossary of terms](glossary.md). 
+See our [Author a guide](authoring-overview.md), [Operating manual](operator-guide.md), and  [Analyze your guides](analtyics-guide.md) topics for step-by-step guidance. Not sure about a  term? See our [Glossary of terms](glossary.md). 
 
 The best way to learn is by doing, so here are some tips on getting started: 
 
@@ -33,7 +33,7 @@ The best way to learn is by doing, so here are some tips on getting started:
 
      - After you’ve created your guide, try using it in Operate mode to see how it works. 
 
-     - Analyze your usage of the guide with Power BI reports! See [Analyze your guides](guides-analytics.md) for more information. 
+     - Analyze your usage of the guide with Power BI reports! See [Analyze your guides](analytics-guide.md) for more information. 
 
 3.	Need Support?
 
@@ -43,6 +43,6 @@ If you run across an issue, check out our [FAQ](faq.md) and [Known Issues](known
 
 [Author a guide](authoring-overview.md)
 [Operating manual](operator-guide.md)
-[Analyze your guides](guide-analytics.md)
+[Analyze your guides](analytics-guide.md)
 [FAQ](faq.md)
 [Known issues](known-issues.md)
