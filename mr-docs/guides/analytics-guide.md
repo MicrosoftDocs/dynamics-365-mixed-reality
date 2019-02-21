@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Analyze guides created with Dynamics 365 Guides Preview
 
-Guides Analytics is part of the Microsoft Dynamics 365 Guides Preview application suite that also includes the Guides PC authoring app and the Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports which are populated with Guides telemetry data stored securely in your Dynamics 365 environment. 
+Guides Analytics is part of the Microsoft Dynamics 365 Guides Preview application suite that includes the Guides PC authoring app and the Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports which are populated with Guides usage data stored securely in your Dynamics 365 environment. 
 
 ## What data is collected and used in Guides Analytics? 
 
@@ -53,15 +53,15 @@ You can set up Guide Analytics for the first time through the Guides PC authorin
 
 To set up your reports:
  
-1.	In the Guides PC authoring app, select the **Analyze** tab.
+1.	In the Guides PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=57767). 
    
-    ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")  
+    ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")      
  
-2.	On the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=57767). 
+2.	In the Microsoft Download Center, select the **Download** button. 
 
-    ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
- 
-3.	In the Microsoft Download Center, select the **Download** button. You’ll be prompted to choose which files to download: 
+   ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
+
+   You’ll be prompted to choose which files to download: 
 
      - **Guides Analytics Template.** You can configure this Power BI template file to display Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
    
@@ -71,9 +71,9 @@ To set up your reports:
 
      ![Files to download)](media/download-files.PNG "Files to download")   
   
-4.	Open the downloaded Guides Analytics Template.pbit file with Power BI Desktop. Use your Guides username and password if you’re prompted to sign in to Power BI.  
+3.	Open the downloaded Guides Analytics Template.pbit file with Power BI Desktop. Use your Guides username and password if you’re prompted to sign in to Power BI.  
  
-5.	When prompted, paste the Instance URI into the text box as shown below. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in Step 2. 
+4.	When prompted, paste the Instance URI into the text box as shown below. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in Step 1. 
 
      ![Guides Analytics template)](media/guides-analytics-template.PNG "Guides Analytics template")
  
