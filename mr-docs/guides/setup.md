@@ -39,18 +39,7 @@ You can sign up in either of the following ways:
 
 1.	Go to [the Guides Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview.
 
-2.	After signing up for preview, if you want to add up to 24 additional users for your preview, you'll need to assign them in the Microsoft 365 Admin Center. To do this, in the Microsoft 365 Admin Center, under **Billing**, select **Subscriptions**. 
-
-    ![Guides subscription in Microsoft Admin Center)](media/guides-subscription.PNG "Guides subscription in Microsoft Admin Center")
-  
-    > [!NOTE]
-    > You can add licenses for additional users now if you want by selecting the **Assign to users** button, or you can add them later. [See step-by-step instructions on adding additional user licenses.](#licenses)
-
-5.	When you’re done, do one of the following:
-
-     - If you don't want to add additional users to the trial, go to: [Step 2: Create a Common Data Service (CDS) environment](#cds)
-     
-     - If you want to add additional users, see the procedures below.
+2.	After signing up for preview, if you want to add up to 24 additional users for your preview, follow the steps below for adding users.
 
 ### Subscribe through the Microsoft 365 Admin Center.
 
