@@ -118,7 +118,7 @@ Once you have a valid trial subscription, you’ll need to create an environment
 
     ![PowerApps Plan 2)](media/powerapps-plan2.PNG "PowerApps Plan 2")
 
-3.  On the Microsoft PowerApps Plan 2 card, select **Start free trial**. 
+3.  On the **Microsoft PowerApps Plan 2** card, select **Start free trial**. 
 
 4.  Now you need to add the PowerApps license to a user. To do that, in the left navigation, select **Users**, select **Active users**, and then select the **Add a user** button. 
 
