@@ -39,7 +39,7 @@ The best way to learn Guides is by doing, so here are some tips on getting start
 
      - After you’ve created your guide, try using it in Operate mode to see how it works. 
 
-     - Analyze your usage of the guide with Power BI reports! See [Analyze your guides](analytics-guide.md) for more information. 
+     - Analyze your usage of the guide with Power BI reports. See [Analyze your guides](analytics-guide.md) for more information. 
 
 3.	Need Support?
 
