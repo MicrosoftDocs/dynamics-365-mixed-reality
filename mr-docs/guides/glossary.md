@@ -1,17 +1,17 @@
 ---
 author: BryceHo
-description: Glossary of terms for Dynamics 365 Guides (Preview)
+description: Glossary of terms for Dynamics 365 Guides Preview
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Glossary of terms for Dynamics 365 Guides (Preview)
+title: Glossary of terms for Dynamics 365 Guides Preview
 ms.reviewer: v-brycho
 ---
 
-# Glossary of terms for Dynamics 365 Guides (Preview)
+# Glossary of terms for Dynamics 365 Guides Preview
 
-When you're working with Microsoft Dynamics 365 Guides (Preview), you may find this glossary of terms helpful.
+When you're working with Microsoft Dynamics 365 Guides Preview, you may find this glossary of terms helpful.
 
 ## Air tap
 Air tap is a type of gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
