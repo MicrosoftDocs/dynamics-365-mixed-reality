@@ -1,15 +1,15 @@
 ---
 author: BryceHo
-description: Known Issues with Dynamics 365 Guides (Preview)
+description: Known Issues with Dynamics 365 Guides Preview
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Known Issues with Dynamics 365 Guides (Preview)
+title: Known Issues with Dynamics 365 Guides Preview
 ms.reviewer: v-brycho
 ---
 
-# Known Issues with Microsoft Dynamics 365 Guides (Preview)
+# Known Issues with Microsoft Dynamics 365 Guides Preview
 
 ## Offline use is not supported
 At this time, offline use in the Guides apps is not supported. Also, you must have an active and reliable internet connection to use the apps. 
@@ -198,4 +198,8 @@ To allow authors to place 3D models carefully and precisely, the default movemen
 
 #### I have an issue that isn’t listed in these troubleshooting steps
 Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by logging in to your Dynamics 365 account and selecting the Support link.
+
+### See also
+
+[Dynamics 365 Guides Preview FAQ](faq.md)
 
