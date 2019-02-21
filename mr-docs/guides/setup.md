@@ -132,7 +132,7 @@ After signing up for the preview, you’ll need to create an environment where y
   
     ![Add user license)](media/add-user-license.PNG "Add user license")
     
-7.  Go to the PowerApps Admin Center and sign in with the user credentials created when you signed up for the preview.
+7.  Go to the [PowerApps Admin Center[(https://preview.admin.powerapps.com/environments) and sign in with the user credentials created when you signed up for the preview.
 
 8.	In the PowerApps Admin Center, select the **New environment** button.
 
