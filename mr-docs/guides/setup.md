@@ -81,8 +81,6 @@ To add a user account:
 1.	Go to the Microsoft 365 Admin Center.
 
 2.	Select **Add a user**.
-
-    ![Add a user dialog box)](media/add-user.PNG "Add a user dialog box")
  
     You’ll see the **New user** dialog box:
     
