@@ -14,6 +14,8 @@ There are three basic things you can do with Guides:
 
 See our [Author a guide](authoring-overview.md), [Operating manual](operator-guide.md), and  [Analyze your guides](analtyics-guide.md) topics for step-by-step guidance. Not sure about a  term? See our [Glossary of terms](glossary.md). 
 
+## Learn by doing
+
 The best way to learn is by doing, so here are some tips on getting started: 
 
 1.	Use the Example Guide:
