@@ -1,55 +1,45 @@
 ---
-author: BryceHo
-description: Everything you need to know about signing up for a Dynamics 365 Guides (Preview) trial, configuring the solution, and installing the apps.
+author: anhaman
+description: Everything you need to know about signing up for Dynamics 365 Guides Preview, configuring the solution, and installing the apps.
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Sign up to try Dynamics 365 Guides (Preview) for free
+title: Sign up for Dynamics 365 Guides Preview
 ms.reviewer: v-brycho
 ---
 
-# Sign up to try Dynamics 365 Guides (Preview) for free
+# Sign up for Dynamics 365 Guides Preview
 
-We're thrilled to introduce Microsoft Dynamics 365 Guides (Preview)! [Learn about Dynamics 365 Guides (Preview) capabilities](index.md).
+We're thrilled to introduce Microsoft Dynamics 365 Guides in preview! [Learn about 365 Guides capabilities](index.md).
 
-To try out Dynamics 365 Guides (Preview), you need to:
+To get started with Guides, you need to:
 
-1.	Get a trial subscription.
+1.	Sign up for preview.
 
 2.	Create a Common Data Service (CDS) environment, if you don't already have one.
 
 3.  Install the Guides solution.
 
-4.	Install the Guides apps on a Windows 10 PC and Microsoft HoloLens.
+4.	Download and install the Guides apps on a Windows 10 PC and Microsoft HoloLens.
 
 This topic provides step-by-step instructions for all of the above.
 
-## Step 1: Subscribe to a free trial
+## Step 1: Sign up for the preview
 
-When you sign up for a free Guides subscription, you’ll get a trial subscription for up to 25 users. 
+When you sign up for preview, you’ll get access for up to 25 users. 
 
-You can subscribe in any of the following ways:
+You can sign up in either of the following ways:
 
-- If you’re new to Microsoft:
-
-  - Subscribe through the Guides Trial page as described below, or 
+- If you’re new to Microsoft, sign up through the Guides Getting Started page as described below.  
   
-  - Request to be contacted at [http://aka.ms/getmixedreality/](http://aka.ms/getmixedreality/).
-  
-- If you're an existing customer, subscribe through the Microsoft Admin Center. Step-by-step instructions for subscribing are provided below.
+- If you're an existing customer or admin, sign up through the Guides Getting Started page or through the Microsoft Admin Center. Step-by-step instructions for subscribing through the Microsoft Admin Center are provided below.
 
-### Subscribe through the Guides Trial page
+### Sign up through the Guides Getting Started page
 
-1.	Go to [the Dynamics 365 Guides sign-up page](http://aka.ms/GuidesSignUp), and then follow the instructions to create your user credentials for the trial.
+1.	Go to [the Guides Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview.
 
-2.	After signing up, you’ll be prompted to sign in with the credentials you created in Step 1. 
-
-    After signing in, you’ll see the Microsoft 365 Admin Center page:
-
-    ![Microsoft 365 Admin Center page)](media/microsoft-365-admin-center.PNG "Microsoft 365 Admin Center")   
-   
-4.	In the Microsoft 365 Admin Center, under **Billing**, select **Subscriptions**. 
+2.	After signing up for preview, if you want to add up to 24 additional users for your preview, you'll need to assign them in the Microsoft 365 Admin Center. To do this, in the Microsoft 365 Admin Center, under **Billing**, select **Subscriptions**. 
 
     ![Guides subscription in Microsoft Admin Center)](media/guides-subscription.PNG "Guides subscription in Microsoft Admin Center")
   
@@ -80,26 +70,26 @@ You can subscribe in any of the following ways:
 
 ### Assign licenses for additional users (optional)<a name="licenses"></a>
 
-If you're an administrator, and you want to share Guides with other users in your organization, you’ll need to assign licenses for users in the Microsoft 365 Admin Center or [Partner Center](https://docs.microsoft.com/en-us/partner-center/). Each user you assign a license to will need an Azure Active Directory (Azure AD) account.
+If you're an administrator, and you want others in your organization to have access to Guides, you’ll need to assign users in the Microsoft 365 Admin Center. Each user you add will need an Azure Active Directory (Azure AD) account.
 
 1.	In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users.**
 
-2.	Select the users you'd like to assign the trial or subscription to, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**.
+2.	Select the users you'd like to assign, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**.
  
 3.	In the **Add to existing products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
  
-4.	Select the licenses you want to enable for the selected users (Dynamics 365 Guides (Preview)), and then select **Add**.
+4.	Select the licenses you want to enable for the selected users, and then select **Add**.
 
    > [!NOTE]
-   > After adding licenses, you’ll need to add user accounts, as described in the next procedure. 
+   > If you didn't assign user licenses before, you’ll need to add user accounts, as described in the next procedure. 
    
 ### Add additional user accounts (optional)
 
-You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides as an author or operator. 
+You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides. 
 
 To add a user account:
 
-1.	Go to the [Office 365 Admin Center](https://portal.office.com/adminportal/home).
+1.	Go to the Microsoft 365 Admin Center.
 
 2.	Select **Add a user**.
 
@@ -123,13 +113,13 @@ To add a user account:
     
       ![Edit user roles)](media/user-roles.PNG "Edit user roles")
  
-    - **Product licenses**. Expand this section, and then turn on the **Guides plan**. For public preview, you have 25 Guides licenses.
+    - **Product licenses**. Expand this section, and then turn on the **Dynamics 365 Guides** option. You can assign up to 25 users.
     
       ![Product Licenses dialog box)](media/product-licenses.PNG "Product Licenses dialog box")
  
 4.	Select **Save** when you’re done.
 
-When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to the Guides apps.
+When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to Guides.
 
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
