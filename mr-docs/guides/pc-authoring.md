@@ -1,19 +1,19 @@
 ---
 author: BryceHo
-description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides (Preview).
+description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides in preview.
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Use the PC authoring application to create a guide in Dynamics 365 Guides (Preview)
+title: Use the PC authoring application to create a guide in Dynamics 365 Guides in preview
 ms.reviewer: v-brycho
 ---
 
-# Use the PC authoring application to create a guide in Dynamics 365 Guides (Preview)
+# Use the PC authoring application to create a guide in Dynamics 365 Guides in preview
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Use the PC authoring application in Microsoft Dynamics 365 Guides (Preview) to:
+Use the PC authoring application in Microsoft Dynamics 365 Guides in preview to:
 
 - Create a guide
 - Choose an alignment method
@@ -339,5 +339,8 @@ Don’t worry if your guide isn’t perfect before switching to HoloLens authori
 > [!Tip]
 > If you’re creating multiple versions of the same guide, you may want to use the **Save a Copy** command on the **File** menu. This is great for guides that are similar but have a few different steps. You don’t have to start from scratch!
 
+### See also
 
+[Overview of authoring a guide](authoring-overview.md)<br>
+[Test your guide and place holograms in the HoloLens app](hololens-authoring.md)<br>
  
