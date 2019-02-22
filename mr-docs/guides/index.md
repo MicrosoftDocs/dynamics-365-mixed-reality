@@ -47,7 +47,7 @@ analyze and improve without doing expensive studies. Being part of the Dynamics 
 
 ### See also
 
-[Author a guide](authoring-overview.md)
-[Operator's manual](operator-guide.md)
-[Analyze your guides](analytics-guide.md)
+[Author a guide](authoring-overview.md)<br>
+[Operator's manual](operator-guide.md)<br>
+[Analyze your guides](analytics-guide.md)<br>
 [FAQ](faq.md)
