@@ -1,19 +1,19 @@
 ---
 author: BryceHo
-description: FAQ about Dynamics 365 Guides Preview
+description: FAQ about Dynamics 365 Guides (Preview)
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: FAQ about Dynamics 365 Guides Preview
+title: FAQ about Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Frequently Asked Questions about Microsoft Dynamics 365 Guides Preview
+# Frequently Asked Questions about Microsoft Dynamics 365 Guides (Preview)
 
 ## Why do I have to download two apps?
 
-Dynamics 365 Guides Preview includes two applications:
+Microsoft Dynamics 365 Guides (Preview) includes two applications:
 
 - PC Authoring application
 
