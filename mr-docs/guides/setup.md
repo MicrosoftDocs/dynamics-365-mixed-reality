@@ -198,20 +198,24 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 ### Set up user roles for the solution
 
 1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Guides instance from the list of instances, and then select the **Open** button.
+
+2. In the **Dynamics 365** page, select the **Settings** button, and then select **Advanced Settings**.
+
+    ![Dynamics 365 Advanced Settings)](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
  
-2.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
+3.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
 
     ![Dynamics 365 Security setting)](media/security-setting.PNG "Dynamics 365 Security setting")
  
-3.	In the **Security** page, select **Users**.
+4.	In the **Security** page, select **Users**.
 
     ![Dynamics 365 Users setting)](media/select-users.PNG "Dynamics 365 Users setting")
  
-4.	Select the user, and then select **Manage** roles. 
+5.	Select the user, and then select **Manage** roles. 
 
     ![Manage Roles command)](media/manage-roles-command.PNG "Manage Roles command")
  
-5.	In the **Manage User Roles** dialog box, select the following roles: 
+6.	In the **Manage User Roles** dialog box, select the following roles: 
 
     - Common Data Service User
     
@@ -339,20 +343,24 @@ If you're an administrator, and you want others in your organization to have acc
 ### Set up user roles for the solution
 
 1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Guides instance from the list of instances, and then select the **Open** button.
+
+2. In the **Dynamics 365** page, select the **Settings** button, and then select **Advanced Settings**.
+
+    ![Dynamics 365 Advanced Settings)](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
  
-2.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
+3.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
 
     ![Dynamics 365 Security setting)](media/security-setting.PNG "Dynamics 365 Security setting")
  
-3.	In the **Security** page, select **Users**.
+4.	In the **Security** page, select **Users**.
 
     ![Dynamics 365 Users setting)](media/select-users.PNG "Dynamics 365 Users setting")
  
-4.	Select the user, and then select **Manage** roles. 
+5.	Select the user, and then select **Manage** roles. 
 
     ![Manage Roles command)](media/manage-roles-command.PNG "Manage Roles command")
  
-5.	In the **Manage User Roles** dialog box, select the following roles: 
+6.	In the **Manage User Roles** dialog box, select the following roles: 
 
     - Common Data Service User
     
