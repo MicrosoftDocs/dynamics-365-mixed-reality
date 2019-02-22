@@ -276,6 +276,9 @@ To import your own 3D objects:
 2.	Locate the 3D object you want to import, and then select **Open**.
 
     ![Import custom 3D part)](media/import-3D-part.PNG "Import custom 3D part")
+    
+> [!NOTE]
+> Guides supports GLTF, GLB, and FBX file formats. For additional file support (including some CAD formats) and automated 3D model optimization, you can use the [Import Tool](import-tool.md) available through Dynamics 365 Layout. 
 
 ### Add 3D objects from the 3D toolkit to support your steps
 Guides comes with a library of pre-defined 3D objects included in the 3D toolkit that are optimized to work perfectly with HoloLens. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
