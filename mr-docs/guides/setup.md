@@ -23,6 +23,8 @@ To get started with Guides, you need to:
 
 4.	Download and install the Guides apps on a Windows 10 PC and Microsoft HoloLens.
 
+5.  Add additional user accounts (optional).
+
 This topic provides step-by-step instructions for all of the above.
 
 ## Step 1: Sign up for the Preview
@@ -39,7 +41,7 @@ You can sign up in either of the following ways:
 
 1.	Go to [the Guides Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview.
 
-2.	After signing up, if you want to add users for your preview, follow the steps below.
+2.	After signing up, if you want to add users, see [Step 5: Add additional users](#user-accounts).
 
 ### Sign up through the Microsoft 365 Admin Center.
 
@@ -72,42 +74,6 @@ If you're an administrator, and you want others in your organization to have acc
    > [!NOTE]
    > If you didn't assign user licenses before, you’ll need to add user accounts, as described in the next procedure. 
    
-### Add additional user accounts (optional)
-
-You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides. 
-
-To add a user account:
-
-1.	Go to the Microsoft 365 Admin Center.
-
-2.	Select **Add a user**.
- 
-    You’ll see the **New user** dialog box:
-    
-    ![New User dialog box)](media/new-user-dialog-box.PNG "New user dialog box")
- 
-3.	In the **New user** dialog box, fill in the following user information:
-
-    - Add the first, last, display name, and user name.
-
-    - **Domain.** Choose a domain. For example, if the user name is Jakob, and his domain is contoso.com, he'll sign in to Guides by entering jakob@contoso.com.
-
-    - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
-    
-      ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
-
-    - **Roles.** Expand this section and select the **User (no administrator access)** option. 
-    
-      ![Edit user roles)](media/user-roles.PNG "Edit user roles")
- 
-    - **Product licenses**. Expand this section, and then turn on the **Dynamics 365 Guides** option. You can assign up to 25 users.
-    
-      ![Product Licenses dialog box)](media/product-licenses.PNG "Product Licenses dialog box")
- 
-4.	Select **Save** when you’re done.
-
-When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to Guides.
-
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
 After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Step 3: Install and configure Guides solution](#configure).
@@ -313,6 +279,44 @@ For information on opening and signing in to the HoloLens application, go to one
    - [HoloLens authoring](hololens-authoring.md)
    
    - [Guides Operating manual](operator-guide.md)
+   
+## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
+
+You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides. 
+
+### Add a user account
+
+1.	Go to the Microsoft 365 Admin Center.
+
+2.	Select **Add a user**.
+ 
+    You’ll see the **New user** dialog box:
+    
+    ![New User dialog box)](media/new-user-dialog-box.PNG "New user dialog box")
+ 
+3.	In the **New user** dialog box, fill in the following user information:
+
+    - Add the first, last, display name, and user name.
+
+    - **Domain.** Choose a domain. For example, if the user name is Jakob, and his domain is contoso.com, he'll sign in to Guides by entering jakob@contoso.com.
+
+    - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
+    
+      ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
+
+    - **Roles.** Expand this section and select the **User (no administrator access)** option. 
+    
+      ![Edit user roles)](media/user-roles.PNG "Edit user roles")
+ 
+    - **Product licenses**. Expand this section, and then turn on the **Dynamics 365 Guides** option. You can assign up to 25 users.
+    
+      ![Product Licenses dialog box)](media/product-licenses.PNG "Product Licenses dialog box")
+ 
+4.	Select **Save** when you’re done.
+
+When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to Guides.
+
+
 
 ### See also
 
