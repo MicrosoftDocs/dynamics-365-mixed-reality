@@ -46,7 +46,7 @@ You can sign up in either of the following ways:
     > [!IMPORTANT] 
     > We recommend creating user credentials for the preview even if you have an existing work account. If you're not an admin in the organization, you won't be able to complete Steps 2 and 3. Also, when asked to enter a domain name, don't use your normal work domain. Create a new domain in the form guides*YourCompanyName*.
 
-2.	After signing up, if you want to add users, see [Step 5: Add additional users](#user-accounts).
+2.	After signing up, if you want to add users, see [Step 5: Add additional user accounts](#user-accounts).
 
 ### Sign up through the Microsoft 365 Admin Center.
 
