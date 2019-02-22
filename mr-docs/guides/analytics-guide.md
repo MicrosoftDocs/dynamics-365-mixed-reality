@@ -17,8 +17,7 @@ Guides Analytics is part of the Microsoft Dynamics 365 Guides Preview applicatio
 
 When an operator uses the Guides HoloLens app in Operate mode, each gaze-and-commit interaction on the **Next step** and 
 **Go back** buttons is recorded, together with the date and time of the interaction. Each operation of a guide in HoloLens 
-Operate mode, whether completed from beginning to end of the guide or involving just a few steps, is called *a run*. The 
-operator’s user ID and information about the guide, such as step number, task number, and guide name are also recorded. This 
+Operate mode, whether completed from beginning to end of the guide or involving just a few steps, is called *a run*. Information about the guide, such as step number, task number, and guide name are also recorded. This 
 data is stored in your private and secure Dynamics 365 environment.  
 
 ## What can you do with the data? 
@@ -53,7 +52,7 @@ You can set up Guide Analytics for the first time through the Guides PC authorin
 
 To set up your reports:
  
-1.	In the Guides PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=57767). 
+1.	In the Guides PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
    
     ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")      
  
