@@ -35,7 +35,6 @@ ms.custom:
                                                 <p><a href="/dynamics365/mixed-reality/guides/authoring-overview">Author a guide</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/guides/operator-guide">Operator’s manual</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/guides/analytics-guide">Analyze your guides</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/guides/windows-device-portal">Windows Device Portal</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/guides/glossary">Glossary</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/guides/known-issues">Known issues</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/guides/faq">FAQ</a></p>
