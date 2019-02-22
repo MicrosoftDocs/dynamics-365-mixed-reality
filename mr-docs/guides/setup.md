@@ -308,7 +308,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
     
       ![Edit user roles)](media/user-roles.PNG "Edit user roles")
  
-    - **Product licenses**. Expand this section, and then turn on the **Dynamics 365 Guides** option. You can assign up to 25 users.
+    - **Product licenses**. Expand this section, and then turn on the **Dynamics 365 Guides** and "Microsoft PowerApps Plan 2* sliders to **On**. You can assign up to 25 users.
     
       ![Product Licenses dialog box)](media/new-user-plans.PNG "Product Licenses dialog box")
  
