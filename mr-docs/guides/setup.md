@@ -72,7 +72,7 @@ If you're an administrator, and you want others in your organization to have acc
 4.	Select the licenses you want to enable for the selected users, and then select **Add**.
 
    > [!NOTE]
-   > If you didn't assign user licenses before, you’ll need to add user accounts, as described in the next procedure. 
+   > If you didn't assign user accounts before adding licenses, you’ll need to do so as described in [Step 5: Add additional user accounts](#user-accounts). 
    
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
