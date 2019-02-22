@@ -1,21 +1,21 @@
 ---
 author: BryceHo
-description: FAQ about Dynamics 365 Guides Preview
+description: FAQ about Dynamics 365 Guides (Preview)
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: FAQ about Dynamics 365 Guides Preview
+title: FAQ about Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Frequently Asked Questions about Microsoft Dynamics 365 Guides Preview
+# Frequently Asked Questions about Microsoft Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
 ## Why do I have to download two apps?
 
-Dynamics 365 Guides Preview includes two applications:
+Microsoft Dynamics 365 Guides (Preview) includes two applications:
 
 - PC Authoring application
 
@@ -39,7 +39,7 @@ You need a Dynamics 365 Guides (Preview) license for each user who will use the 
 
 ## I get an error message when I try to sign in to the PC app or HoloLens app
 
-The Guides solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the Guides product. If your organization has already purchased licenses, you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
+The Guides solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the Guides product. If your organization is already subscribed to Guides, you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
 
 ## Where is the data stored and who has access to it?
 
@@ -52,7 +52,7 @@ The following table lists the formats supported for 3D content, images, and vide
 |Media|Supported formats|Best practice|
 |----------|----------------------|-------------------------------------------------------------------------|
 |3D content|FBX, GLB, GLTF|Make sure to optimize your 3D models as much as possible to maintain optimal performance on HoloLens.|
-|Images|PNG, JPG, JPEG, GIF, ICO, TIFF||
+|Images|PNG, JPG, JPEG, GIF, TIFF||
 |Videos|MP4, MOV, WMV|Make sure to keep your videos less than 2 mins long, and focused on one step at a time.|
 
 ## Will I lose any data if I close an app inadvertently?

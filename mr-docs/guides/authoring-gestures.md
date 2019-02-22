@@ -1,19 +1,19 @@
 ---
 author: BryceHo
-description: Gestures you can use to author and navigate a guide in Dynamics 365 Guides Preview, including gaze, bloom, and air tap.
+description: Gestures you can use to author and navigate a guide in Dynamics 365 Guides (Preview), including gaze, bloom, and air tap.
 ms.author: anhaman
 ms.date: 02/24/2018
 ms.service: crm-online
 ms.topic: article
-title: Gestures you can use to author and navigate a guide in Dynamics 365 Guides Preview
+title: Gestures you can use to author and navigate a guide in Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Gestures for authoring and navigating in Dynamics 365 Guides Preview
+# Gestures for authoring and navigating in Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-To author and navigate through a guide in Microsoft Dynamics 365 Guides Preview, you’ll use gaze and a few gestures.
+To author and navigate through a guide in Microsoft Dynamics 365 Guides (Preview), you’ll use gaze and a few gestures.
 
 ## Gaze
 The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). If the item has a selection box, you can select the item just by gazing at the button hit zone. The item is selected when the box is filled. 

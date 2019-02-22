@@ -1,26 +1,25 @@
 ---
 author: BryceHo
-description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides Preview to improve process efficiencies.
+description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides (Preview) to improve process efficiencies.
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides
+title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Analyze guides created with Dynamics 365 Guides Preview
+# Analyze guides created with Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Guides Analytics is part of the Microsoft Dynamics 365 Guides Preview application suite that includes the Guides PC authoring app and the Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports which are populated with Guides usage data stored securely in your Dynamics 365 environment. 
+Guides Analytics is part of the Microsoft Dynamics 365 Guides (Preview) application suite that includes the Guides PC authoring app and the Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports which are populated with Guides usage data stored securely in your Dynamics 365 environment. 
 
 ## What data is collected and used in Guides Analytics? 
 
 When an operator uses the Guides HoloLens app in Operate mode, each gaze-and-commit interaction on the **Next step** and 
 **Go back** buttons is recorded, together with the date and time of the interaction. Each operation of a guide in HoloLens 
-Operate mode, whether completed from beginning to end of the guide or involving just a few steps, is called *a run*. The 
-operator’s user ID and information about the guide, such as step number, task number, and guide name are also recorded. This 
+Operate mode, whether completed from beginning to end of the guide or involving just a few steps, is called *a run*. Information about the guide, such as step number, task number, and guide name are also recorded. This 
 data is stored in your private and secure Dynamics 365 environment.  
 
 ## What can you do with the data? 
@@ -55,7 +54,7 @@ You can set up Guide Analytics for the first time through the Guides PC authorin
 
 To set up your reports:
  
-1.	In the Guides PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=57767). 
+1.	In the Guides PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
    
     ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")      
  

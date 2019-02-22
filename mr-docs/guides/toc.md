@@ -1,6 +1,6 @@
-# Dynamics 365 Guides Preview
+# Dynamics 365 Guides (Preview)
 ## [Overview](index.md)
-## [Sign up for the Preview](setup.md)
+## [Sign up for the preview](setup.md)
 ## [Get started](get-started.md)
 ## Author a guide
 ### [Authoring overview](authoring-overview.md)
@@ -15,6 +15,6 @@
 ## [FAQ](faq.md)
 ## [Known issues](known-issues.md)
 ## Terms of use
-### [Guides Preview](../legal/guides-preview.md)
+### [Guides preview](../legal/guides-preview.md)
 ### [Service terms](../legal/guides-service-terms.md)
 

@@ -1,19 +1,19 @@
 ---
 author: anhaman
-description: Everything you need to know about signing up for Dynamics 365 Guides Preview, configuring the solution, and installing the apps.
+description: Everything you need to know about signing up for Dynamics 365 Guides (Preview), configuring the solution, and installing the apps.
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Sign up for Dynamics 365 Guides Preview
+title: Sign up for Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Sign up for Dynamics 365 Guides Preview
+# Sign up for Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-We're thrilled to introduce Microsoft Dynamics 365 Guides Preview! [Learn about Guides capabilities](index.md).
+We're thrilled to introduce Microsoft Dynamics 365 Guides (Preview)! [Learn about Guides capabilities](index.md).
 
 To get started with Guides, you need to:
 
@@ -25,23 +25,28 @@ To get started with Guides, you need to:
 
 4.	Download and install the Guides apps on a Windows 10 PC and Microsoft HoloLens.
 
+5.  Add additional user accounts (optional).
+
 This topic provides step-by-step instructions for all of the above.
 
-## Step 1: Sign up for the Preview
+## Step 1: Sign up for the preview
 
-When you sign up for the Preview, you’ll get access for up to 25 users. 
+When you sign up for the preview, you’ll get access for up to 25 users. 
 
 You can sign up in either of the following ways:
 
 - Sign up through the Guides Getting Started page as described below.  
   
-- Sign up through the Microsoft Admin Center (for existing customers). Step-by-step instructions for signing up through the Microsoft Admin Center are provided below.
+- If you're an admin in the organization, sign up through the Microsoft Admin Center. Step-by-step instructions for signing up through the Microsoft Admin Center are provided below.
 
 ### Sign up through the Guides Getting Started page
 
 1.	Go to [the Guides Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview.
 
-2.	After signing up, if you want to add users for your preview, follow the steps below.
+    > [!NOTE] 
+    > We recommend creating user credentials for the preview even if you have an existing work account. If you're not an admin in the organization, you won't be able to complete Steps 2 and 3. 
+
+2.	After signing up, if you want to add users, see [Step 5: Add additional users](#user-accounts).
 
 ### Sign up through the Microsoft 365 Admin Center.
 
@@ -59,7 +64,7 @@ You can sign up in either of the following ways:
 
 7.	If you want to add additional users, assign licenses as described in the next procedure.
 
-### Assign licenses for additional users (optional)<a name="licenses"></a>
+#### Assign licenses for additional users (optional)<a name="licenses"></a>
 
 If you're an administrator, and you want others in your organization to have access to Guides, you’ll need to assign users in the Microsoft 365 Admin Center. Each user you add will need an Azure Active Directory (Azure AD) account.
 
@@ -72,44 +77,8 @@ If you're an administrator, and you want others in your organization to have acc
 4.	Select the licenses you want to enable for the selected users, and then select **Add**.
 
    > [!NOTE]
-   > If you didn't assign user licenses before, you’ll need to add user accounts, as described in the next procedure. 
+   > If you didn't assign user accounts before adding licenses, you’ll need to do so as described in [Step 5: Add additional user accounts](#user-accounts). 
    
-### Add additional user accounts (optional)
-
-You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides. 
-
-To add a user account:
-
-1.	Go to the Microsoft 365 Admin Center.
-
-2.	Select **Add a user**.
- 
-    You’ll see the **New user** dialog box:
-    
-    ![New User dialog box)](media/new-user-dialog-box.PNG "New user dialog box")
- 
-3.	In the **New user** dialog box, fill in the following user information:
-
-    - Add the first, last, display name, and user name.
-
-    - **Domain.** Choose a domain. For example, if the user name is Jakob, and his domain is contoso.com, he'll sign in to Guides by entering jakob@contoso.com.
-
-    - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
-    
-      ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
-
-    - **Roles.** Expand this section and select the **User (no administrator access)** option. 
-    
-      ![Edit user roles)](media/user-roles.PNG "Edit user roles")
- 
-    - **Product licenses**. Expand this section, and then turn on the **Dynamics 365 Guides** option. You can assign up to 25 users.
-    
-      ![Product Licenses dialog box)](media/product-licenses.PNG "Product Licenses dialog box")
- 
-4.	Select **Save** when you’re done.
-
-When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to Guides.
-
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
 After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Step 3: Install and configure Guides solution](#configure).
@@ -130,7 +99,7 @@ After signing up for the preview, you’ll need to create an environment where y
 
      ![Edit PowerApps plan)](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
-6.  In the **Product licenses** screen, turn on the **Microsoft PowerApps Plan 2** plan, and then select **Save**.
+6.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** and **Microsoft PowerApps Plan 2** sliders to **On**, and then select **Save**.
   
     ![Add user license)](media/add-user-license.PNG "Add user license")
     
@@ -315,6 +284,57 @@ For information on opening and signing in to the HoloLens application, go to one
    - [HoloLens authoring](hololens-authoring.md)
    
    - [Guides Operating manual](operator-guide.md)
+   
+## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
+
+You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides. You create user accounts in the Microsoft 365 Admin Center and then assign licenses to those users.
+
+### Add a user account
+
+1.	Go to the Microsoft 365 Admin Center.
+
+2.	Select **Add a user**.
+ 
+    You’ll see the **New user** dialog box:
+    
+    ![New User dialog box)](media/new-user-dialog-box.PNG "New user dialog box")
+ 
+3.	In the **New user** dialog box, fill in the following user information:
+
+    - Add the first, last, display name, and user name.
+
+    - **Domain.** Choose a domain. For example, if the user name is Jakob, and his domain is contoso.com, he'll sign in to Guides by entering jakob@contoso.com.
+
+    - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
+    
+      ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
+
+    - **Roles.** Expand this section and select the **User (no administrator access)** option. 
+    
+      ![Edit user roles)](media/user-roles.PNG "Edit user roles")
+ 
+    - **Product licenses**. Expand this section, and then turn the **Dynamics 365 Guides** and **Microsoft PowerApps Plan 2** sliders to **On**. You can assign up to 25 users.
+    
+      ![Product Licenses dialog box)](media/new-user-plans.PNG "Product Licenses dialog box")
+ 
+4.	Select **Save** when you’re done.
+
+When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to Guides.
+
+### Assign licenses for additional users (optional)
+
+If you're an administrator, and you want others in your organization to have access to Guides, you’ll need to assign users in the Microsoft 365 Admin Center. Each user you add will need an Azure Active Directory (Azure AD) account.
+
+1.	In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users.**
+
+2.	Select the users you'd like to assign, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**.
+ 
+3.	In the **Add to existing products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
+ 
+4.	Select the licenses you want to enable for the selected users, and then select **Add**.
+
+   > [!NOTE]
+   > If you didn't assign user licenses before, you’ll need to add user accounts, as described in the next procedure. 
 
 ### See also
 

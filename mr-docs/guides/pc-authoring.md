@@ -1,19 +1,19 @@
 ---
 author: BryceHo
-description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides Preview.
+description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides (Preview).
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Use the PC authoring application to create a guide in Dynamics 365 Guides Preview
+title: Use the PC authoring application to create a guide in Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Use the PC authoring application to create a guide in Dynamics 365 Guides Preview
+# Use the PC authoring application to create a guide in Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Use the PC authoring application in Microsoft Dynamics 365 Guides Preview to:
+Use the PC authoring application in Microsoft Dynamics 365 Guides (Preview) to:
 
 - Create a guide
 - Choose an alignment method

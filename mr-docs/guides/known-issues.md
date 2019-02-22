@@ -1,15 +1,15 @@
 ---
 author: BryceHo
-description: Known Issues with Dynamics 365 Guides Preview
+description: Known Issues with Dynamics 365 Guides (Preview)
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Known Issues with Dynamics 365 Guides Preview
+title: Known Issues with Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Known Issues with Microsoft Dynamics 365 Guides Preview
+# Known Issues with Microsoft Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
@@ -33,7 +33,7 @@ The HoloLens app uses understanding of the environment to render holograms, but 
 At this time, IPD settings aren’t saved automatically for each user. For now, we don’t recommend sharing a HoloLens device. If you need to share a device, make sure to recalibrate the HoloLens whenever you switch users. Note that multiple users can share the same HoloLens if their IPDs are similar. 
 
 ## No way to secure a guide
-Currently, we don’t support permissions or versioning. Therefore, every guide is accessible to all users within your organization.
+Currently, we don’t support permissions or versioning. Therefore, anyone assigned a Guides license in your organization will be able to open or edit a guide.
 
 ## Recent guides list isn’t scoped to user
 The **Recent** list of guides is currently not scoped to the user accessing it. This will be supported in a later release.
@@ -116,7 +116,7 @@ The PC app will show notifications (in the top title bar) if there are any error
 |Media|Supported formats|
 |--------------|--------------------------------------------|
 |3D content|FBX, GLB, GLTF|
-|Images|PNG, JPG, JPEG, GIF, ICO, TIFF|
+|Images|PNG, JPG, JPEG, GIF, TIFF|
 |Videos|MP4, MOV, WMV|
 
 If you still can’t find your content, contact your administrator.
