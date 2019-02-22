@@ -321,7 +321,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
 
 When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to Guides.
 
-### Assign licenses for additional users (optional)
+### Assign licenses for additional users
 
 If you're an administrator, and you want others in your organization to have access to Guides, you’ll need to assign users in the Microsoft 365 Admin Center. Each user you add will need an Azure Active Directory (Azure AD) account.
 
