@@ -16,7 +16,7 @@ ms.reviewer: v-brycho
 Before you get started with Microsoft Dynamics 365 Guides in preview authoring, you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
 
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 
-(if you have any), and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
+(if you have any) and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
 Guides includes a 3D toolkit that you can use to get started.
 
 - Arrange for access to the space so you understand the real-world environment. You’ll also need access to the space to align 
@@ -26,10 +26,10 @@ the guide and place holograms later.
 
 - A great way to start is to create a video of the assembly you want to show, or have someone (an expert in that process, 
 for example) create one for you. You can refer to the video as you create your guide. If you’re using a video as a starting 
-point, make sure it’s representative of the guide you want to create though. For example, are you creating a guide for an 
+point, make sure it’s representative of the guide you want to create, though. For example, are you creating a guide for an 
 expert or a novice?
 
-## Using media and 3D content to your advantage
+## Use media and 3D content to your advantage
 
 As you consider the media and 3D content you want to use for your project, keep in mind that size matters greatly on HoloLens 
 both for the quality of the experience and performance. It’s best to use high-fidelity assets where details matter and low-fidelity 
@@ -47,7 +47,7 @@ that the operator will use.
 ### Best practices for videos
 - Videos are best for first-time users.
 - Keep videos short and focused on a single step.
-- Overview videos don’t work well generally, because operators may think they’re supposed to do the assembly while they’re watching 
+- Overview videos don’t work well generally, because operators might think they’re supposed to do the assembly while they’re watching 
 the overview video. 
 - When filming video, make sure to show a wide angle for context and then a close-up of the actual work and hand motions.
 - Effective videos “teach” how to do something. If you just take a video of someone on the floor doing a process they’re very 
@@ -70,13 +70,13 @@ shows a composite part for an engine, create separate 3D parts for all the indiv
 
 Guides supports GLTF, GLB, and FBX file formats. For additional file support (including some CAD formats) and automated 3D model optimization, you can use the [Import Tool](guides-import-tool-flow.md) available through Dynamics 365 Layout.
 
-## Setting up a folder structure
+## Set up a folder structure
 To organize content, you may want to create a folder structure with separate folders for text, 3D assets, images, and videos to make 
 it easy to find and use the different types of assets.
 
 ![Folder stucture)](media/folder-structure.PNG "Folder structure")
  
-### Naming your files 
+### Best practies for file names
 When naming your content pieces, consider using standard prefixes so that all your assets are organized together in the library. 
 For example:
 - atv_eng_01.png
