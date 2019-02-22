@@ -1,4 +1,13 @@
-
+---
+author: BryceHo
+description: Understand the building blocks of Dynamics 365 Guides (Preview)
+ms.author: anhaman
+ms.date: 02/24/2019
+ms.service: crm-online
+ms.topic: article
+title: Get started with Dynamics 365 Guides (Preview)
+ms.reviewer: v-brycho
+---
 
 # Get started with Dynamics 365 Guides (Preview)
 
