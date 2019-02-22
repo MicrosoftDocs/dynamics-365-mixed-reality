@@ -202,6 +202,9 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 2. In the **Dynamics 365** page, select the **Settings** button, and then select **Advanced Settings**.
 
     ![Dynamics 365 Advanced Settings)](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
+    
+    > [!IMPORTANT]
+    > You can access Guides data through the Guides Hub (Preview) tile in the above screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the Guides apps.
  
 3.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
 
@@ -347,6 +350,9 @@ If you're an administrator, and you want others in your organization to have acc
 2. In the **Dynamics 365** page, select the **Settings** button, and then select **Advanced Settings**.
 
     ![Dynamics 365 Advanced Settings)](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
+    
+    > [!IMPORTANT]
+    > You can access Guides data through the Guides Hub (Preview) tile in the above screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the Guides apps.
  
 3.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
 
