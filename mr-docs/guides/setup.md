@@ -94,7 +94,7 @@ After signing up for the preview, you’ll need to create an environment where y
 
      ![Edit PowerApps plan)](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
-6.  In the **Product licenses** screen, turn on the **Microsoft PowerApps Plan 2** plan, and then select **Save**.
+6.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** and **Microsoft PowerApps Plan 2** sliders to **On**, and then select **Save**.
   
     ![Add user license)](media/add-user-license.PNG "Add user license")
     
