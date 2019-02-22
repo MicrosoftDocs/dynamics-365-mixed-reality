@@ -195,7 +195,7 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
    
     To return to the step view, select the **Drill Mode** button, and then select the task you want to drill in to.
   
-    ![Drill Mode button)](media/step-to-task-drilldown.PNG "Drill Mode button")
+    ![Drill Mode button)](media/step-to-task-drill-down.PNG "Drill Mode button")
  
      Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the 
    step level, whereas the **Drill Mode** only drills into the data item you selected. 
