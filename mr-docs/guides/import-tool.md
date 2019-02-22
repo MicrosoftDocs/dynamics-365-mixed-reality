@@ -138,7 +138,7 @@ After you convert the assets, you'll need to [locate them](#locate) and import t
 
 After you convert the assets, you'll need to [locate them](#locate) and import them into Guides.
 
-### Locate converted assets<a name="locate"></a>
+### Locate the converted assets<a name="locate"></a>
 
 Files created with the Import tool are stored locally. To find the files on your local drive:
 
