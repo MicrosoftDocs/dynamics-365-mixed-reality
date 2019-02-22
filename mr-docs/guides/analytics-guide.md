@@ -200,7 +200,7 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
      Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the 
    step level, whereas the **Drill Mode** only drills into the data item you selected. 
    
-    ![Next level hierarchy)](media/next-level-hierarchy.PNG "Next level hierarchy")
+    ![Next level hierarchy)](media/expand-to-next-level.PNG "Next level hierarchy")
   
 6.	Select a recent run 
 
