@@ -1,11 +1,11 @@
 ---
 author: BryceHo
-description: Test and place holograms using the HoloLens application in Author mode (Dynamics 365 Guides (Preview))
+description: Test and place holograms using the HoloLens application in Author mode (Dynamics 365 Guides in preview)
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Test and place holograms using HoloLens Author mode (Dynamics 365 Guides (Preview))
+title: Test and place holograms using HoloLens Author mode (Dynamics 365 Guides in preview)
 ms.reviewer: v-brycho
 ---
 
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-The second major step in creating a guide in Microsoft Dynamics 365 Guides (Preview) takes place on the HoloLens application. In HoloLens Authoring mode, you:
+The second major step in creating a guide in Microsoft Dynamics 365 Guides in preview takes place on the HoloLens application. In HoloLens Authoring mode, you:
 
 - Align your guide to a marker or a digital twin, depending on the type of alignment you chose in the PC application.
 - Test the flow of your guide.
@@ -285,7 +285,7 @@ Here’s a list of styles included in Guides and when to use each:
 
 ## What's next?
 
-To learn more about Dynamics 365 Guides, here are some helpful links:
+To learn more about Guides, here are some helpful links:
 
 - [Use a guide as an operator](operator-guide.md)
 - [Analyze your guides to improve efficiences](analytics-guide.md)
