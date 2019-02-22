@@ -282,7 +282,7 @@ For information on opening and signing in to the HoloLens application, go to one
    
 ## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
 
-You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides. 
+You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides. You create user accounts in the Microsoft 365 Admin Center and then assign licenses to those users.
 
 ### Add a user account
 
@@ -316,7 +316,20 @@ You’ll need to create a user account for anyone you assign a license to. Creat
 
 When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to Guides.
 
+### Assign licenses for additional users (optional)
 
+If you're an administrator, and you want others in your organization to have access to Guides, you’ll need to assign users in the Microsoft 365 Admin Center. Each user you add will need an Azure Active Directory (Azure AD) account.
+
+1.	In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users.**
+
+2.	Select the users you'd like to assign, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**.
+ 
+3.	In the **Add to existing products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
+ 
+4.	Select the licenses you want to enable for the selected users, and then select **Add**.
+
+   > [!NOTE]
+   > If you didn't assign user licenses before, you’ll need to add user accounts, as described in the next procedure. 
 
 ### See also
 
