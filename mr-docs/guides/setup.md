@@ -112,7 +112,7 @@ After signing up for the preview, you’ll need to create an environment where y
 9.	Fill in the following details for the environment:
 
     -	**Environment Name:** Guides_*anyname*
-    -	**Region:** Choose your region
+    -	**Region:** Dont' change: - keep the default setting
     -	**Environment Type:** Set it to **Production**
   
         ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
@@ -335,6 +335,35 @@ If you're an administrator, and you want others in your organization to have acc
 
    > [!NOTE]
    > If you didn't assign user licenses before, you’ll need to add user accounts, as described in the next procedure. 
+   
+### Set up user roles for the solution
+
+1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Guides instance from the list of instances, and then select the **Open** button.
+ 
+2.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
+
+    ![Dynamics 365 Security setting)](media/security-setting.PNG "Dynamics 365 Security setting")
+ 
+3.	In the **Security** page, select **Users**.
+
+    ![Dynamics 365 Users setting)](media/select-users.PNG "Dynamics 365 Users setting")
+ 
+4.	Select the user, and then select **Manage** roles. 
+
+    ![Manage Roles command)](media/manage-roles-command.PNG "Manage Roles command")
+ 
+5.	In the **Manage User Roles** dialog box, select the following roles: 
+
+    - Common Data Service User
+    
+    - Dynamics 365 MR Guides Author
+    
+    - System Administrator 
+       
+      ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
+      
+      > [!NOTE]
+      > Select the System Administrator role if this is the main user/admin. Otherwise, do not select the System Administrator role.
 
 ### See also
 
