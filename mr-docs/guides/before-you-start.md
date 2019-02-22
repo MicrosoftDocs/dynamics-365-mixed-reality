@@ -84,6 +84,6 @@ For example:
 
 ### See also
 
-[Author a guide](authoring-overview.md)<br>
+[Overview of Guides authoring](authoring-overview.md)<br>
 [Author a guide using the PC application](pc-authoring.md)<br>
 [Test your guide and place holograms in the HoloLens app](hololens-authoring.md)<br>
