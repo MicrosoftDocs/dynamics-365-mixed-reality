@@ -1,19 +1,19 @@
 ---
 author: BryceHo
-description: Things to keep in mind before you start authoring in Dynamics 365 Guides (Preview), including media and file naming.
+description: Things to keep in mind before you start authoring in Dynamics 365 Guides in preview, including media and file naming.
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Things to keep in mind before you start authoring in Dynamics 365 Guides (Preview)
+title: Things to keep in mind before you start authoring in Dynamics 365 Guides in preview
 ms.reviewer: v-brycho
 ---
 
-# Before you start authoring a guide in Dynamics 365 Guides (Preview)
+# Before you start authoring a guide in Dynamics 365 Guides in preview
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Before you get started with Microsoft Dynamics 365 Guides (Preview) authoring, you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
+Before you get started with Microsoft Dynamics 365 Guides in preview authoring, you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
 
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 
 (if you have any), and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
@@ -81,3 +81,9 @@ When naming your content pieces, consider using standard prefixes so that all yo
 For example:
 - atv_eng_01.png
 - atv_eng_video01.wmv
+
+### See also
+
+[Author a guide](authoring-overview.md)<br>
+[Author a guide using the PC application](pc-authoring.md)<br>
+[Test your guide and place holograms in the HoloLens app](hololens-authoring.md)<br>
