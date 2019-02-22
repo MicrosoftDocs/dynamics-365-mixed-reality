@@ -28,9 +28,9 @@ ms.custom:
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Guides (Preview)</h3>
+                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Guides in preview</h3>
                                                 <p><a href="/dynamics365/mixed-reality/guides/index">Overview</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/guides/setup">Sign up to try Guides (Preview)</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/guides/setup">Sign up for preview</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/guides/get-started">Get started</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/guides/authoring-overview">Author a guide</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/guides/operator-guide">Operator’s manual</a></p>
