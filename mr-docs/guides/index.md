@@ -1,21 +1,21 @@
 ---
 author: BryceHo
-description: Overview of Dynamics 365 Guides (Preview)
+description: Overview of Dynamics 365 Guides in preview
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: overview
-title: Overview of Dynamics 365 Guides (Preview)
+title: Overview of Dynamics 365 Guidesin preview
 ms.reviewer: v-brycho
 ---
 
-# Overview of Dynamics 365 Guides (Preview)
+# Overview of Dynamics 365 Guides in preview
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
 ![ATV graphic](media/overview.PNG "ATV graphic") 
 
-Microsoft Dynamics 365 Guides (Preview) is a mixed reality application for HoloLens that enables employees to learn in the flow 
+Microsoft Dynamics 365 Guides in preview is a mixed reality application for HoloLens that enables employees to learn in the flow 
 of work by providing holographic instructions when and where they need them. A series of step-by-step instruction cards 
 with image and video support are visually tethered to the place where the work needs to be done. Additional guidance 
 in the form of holographic models shows what needs to be done where, so workers can get the job done faster, with fewer errors 
@@ -43,4 +43,11 @@ simple to use, and reduces mental processing time, errors, and the need to rely 
 ## Continually analyze and improve your processes   
 
 Using Power BI dashboards, managers can see rich data about how the process is working for their people, enabling them to continually 
-analyze and improve without doing expensive studies. Being part of the Dynamics 365 product family and powered by the Common Data Service, Guides allows customers and partners access and integration opportunities. 
+analyze and improve without doing expensive studies. Being part of the Dynamics 365 product family and powered by the Common Data Service, Guides allows customers and partners access and integration opportunities.
+
+### See also
+
+[Author a guide](authoring-overview.md)
+[Operator's manual](operator-guide.md)
+[Analyze your guides](analytics-guide.md)
+[FAQ](faq.md)
