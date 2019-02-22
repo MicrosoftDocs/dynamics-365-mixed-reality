@@ -1,15 +1,15 @@
 ---
 author: BryceHo
-description: Known Issues with Dynamics 365 Guides (Preview)
+description: Known Issues with Dynamics 365 Guides in preview
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Known Issues with Dynamics 365 Guides (Preview)
+title: Known Issues with Dynamics 365 Guides in preview
 ms.reviewer: v-brycho
 ---
 
-# Known Issues with Microsoft Dynamics 365 Guides (Preview)
+# Known Issues with Microsoft Dynamics 365 Guides in preview
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
@@ -203,5 +203,5 @@ Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/g
 
 ### See also
 
-[Dynamics 365 Guides Preview FAQ](faq.md)
+[Dynamics 365 Guides in preview FAQ](faq.md)
 
