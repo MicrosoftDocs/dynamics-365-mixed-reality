@@ -95,7 +95,7 @@ Specific instructions for each option are provided below.
       > [!NOTE]
       > The re-optimization option is available for 24 hours after the first optimization done using the cloud service.
 
-After you convert the assets, you'll need to locate them and import them into Guides.
+After you convert the assets, you'll need to [locate them](#locate) and import them into Guides.
 
 ### Convert without optimizing
 
@@ -114,7 +114,7 @@ After you convert the assets, you'll need to locate them and import them into Gu
 
 6. Select **Optimize** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
-After you convert the assets, you'll need to locate them and import them into Guides.
+After you convert the assets, you'll need to [locate them](#locate) and import them into Guides.
 
 ### Convert using your PC
 
@@ -136,9 +136,9 @@ After you convert the assets, you'll need to locate them and import them into Gu
    
 6. Select **Optimize** to start the optimization process. The optimization process might take a while, depending on how many models you're importing.
 
-After you convert the assets, you'll need to locate them and import them into Guides.
+After you convert the assets, you'll need to [locate them](#locate) and import them into Guides.
 
-### Locate converted assets
+### Locate converted assets<a name="locate"></a>
 
 Files created with the Import tool are stored locally. To find the files on your local drive:
 
