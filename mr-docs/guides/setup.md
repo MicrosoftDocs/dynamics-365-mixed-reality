@@ -112,7 +112,7 @@ After signing up for the preview, you’ll need to create an environment where y
 9.	Fill in the following details for the environment:
 
     -	**Environment Name:** Guides_*anyname*
-    -	**Region:** Dont' change: - keep the default setting
+    -	**Region:** Don't change - **keep the default setting**
     -	**Environment Type:** Set it to **Production**
   
         ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
