@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Sign up for Dynamics 365 Guides Preview
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+ 
 We're thrilled to introduce Microsoft Dynamics 365 Guides Preview! [Learn about Guides capabilities](index.md).
 
 To get started with Guides, you need to:

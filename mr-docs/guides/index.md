@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Overview of Dynamics 365 Guides Preview
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+ 
 ![ATV graphic](media/overview.PNG "ATV graphic") 
 
 Microsoft Dynamics 365 Guides Preview is a mixed reality application for HoloLens that enables employees to learn in the flow 

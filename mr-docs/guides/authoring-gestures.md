@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Gestures for authoring and navigating in Dynamics 365 Guides Preview
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+ 
 To author and navigate through a guide in Microsoft Dynamics 365 Guides Preview, you’ll use gaze and a few gestures.
 
 ## Gaze

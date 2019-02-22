@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Frequently Asked Questions about Microsoft Dynamics 365 Guides Preview
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+ 
 ## Why do I have to download two apps?
 
 Dynamics 365 Guides Preview includes two applications:

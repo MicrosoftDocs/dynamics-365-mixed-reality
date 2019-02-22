@@ -2,6 +2,8 @@
 
 # Get started with Dynamics 365 Guides Preview
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+ 
 So you’ve set up Microsoft Dynamics 365 Guides Preview using the [Setup topic](setup.md) and you’re ready to get started. What do you do next?
 
 There are three basic things you can do with Guides: 

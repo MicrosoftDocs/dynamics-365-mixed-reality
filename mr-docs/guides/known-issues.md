@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Known Issues with Microsoft Dynamics 365 Guides Preview
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+ 
 ## Offline use is not supported
 At this time, offline use in the Guides apps is not supported. Also, you must have an active and reliable internet connection to use the apps. 
 

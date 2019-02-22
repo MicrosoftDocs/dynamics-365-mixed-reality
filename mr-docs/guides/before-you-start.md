@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Before you start authoring a guide in Dynamics 365 Guides Preview
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+ 
 Before you get started with Microsoft Dynamics 365 Guides Preview authoring, you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
 
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 

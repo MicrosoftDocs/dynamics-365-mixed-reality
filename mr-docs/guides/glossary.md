@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Glossary of terms for Dynamics 365 Guides Preview
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+ 
 When you're working with Microsoft Dynamics 365 Guides Preview, you may find this glossary of terms helpful.
 
 ## Air tap

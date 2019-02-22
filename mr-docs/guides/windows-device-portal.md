@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 ---
 
 # Use the Windows Device Portal to streamline HoloLens calibration
+
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
 You can use the Windows Device Portal to configure and manage your HoloLens remotely with Wi-Fi or USB. The Windows Device Portal is a web server on your HoloLens that you can connect to from a web browser on your PC. The portal includes many tools that help you manage your HoloLens. The portal also offers a fast way to update interpupillary distance settings (IPDs) when switching users on a HoloLens. Updating an IPD via the portal takes about **2 seconds**. Updating the IPD by recalibrating the HoloLens takes about **2 minutes**.
 
