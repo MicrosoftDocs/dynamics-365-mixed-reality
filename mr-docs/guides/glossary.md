@@ -1,19 +1,19 @@
 ---
 author: BryceHo
-description: Glossary of terms for Dynamics 365 Guides (Preview)
+description: Glossary of terms for Dynamics 365 Guides in preview
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Glossary of terms for Dynamics 365 Guides (Preview)
+title: Glossary of terms for Dynamics 365 Guides in preview
 ms.reviewer: v-brycho
 ---
 
-# Glossary of terms for Dynamics 365 Guides (Preview)
+# Glossary of terms for Dynamics 365 Guides in preview
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-When you're working with Microsoft Dynamics 365 Guides (Preview), you may find this glossary of terms helpful.
+When you're working with Microsoft Dynamics 365 Guides in preview, you may find this glossary of terms helpful.
 
 ## Air tap
 Air tap is a type of gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
@@ -77,3 +77,9 @@ A tether is a holographic link that ties a step visually to the area where you w
 
 ## 3D parts
 3D parts are 3D content that you assign to a step to support that step. You assign 3D parts in the PC application, and then place the holograms in a real-world environment in HoloLens Authoring mode.
+
+### See also
+
+[Overview of authoring a guide](authoring-overview.md)<br>
+[Operator's manual](operator-guide.md)<br>
+[Analyze your guides](analytics-guide.md)
