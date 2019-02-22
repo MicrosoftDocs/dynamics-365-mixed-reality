@@ -1,19 +1,19 @@
 ---
 author: BryceHo
-description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides (Preview) to improve process efficiencies.
+description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides in preview to improve process efficiencies.
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides (Preview)
+title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides in preview
 ms.reviewer: v-brycho
 ---
 
-# Analyze guides created with Dynamics 365 Guides (Preview)
+# Analyze guides created with Dynamics 365 Guides in preview
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Guides Analytics is part of the Microsoft Dynamics 365 Guides (Preview) application suite that includes the Guides PC authoring app and the Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports which are populated with Guides usage data stored securely in your Dynamics 365 environment. 
+Guides Analytics is part of the Microsoft Dynamics 365 Guides in preview application suite that includes the Guides PC authoring app and the Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports which are populated with Guides usage data stored securely in your Dynamics 365 environment. 
 
 ## What data is collected and used in Guides Analytics? 
 
@@ -235,7 +235,7 @@ Power BI provides several mechanisms for sharing reports with others in your org
  
 ### See also
 
-[Authoring a guide (overview)](authoring-overview.md)</br>
+[Overview of authoring a guide](authoring-overview.md)</br>
 [Operating a guide](operator-guide.md)</br>
 [FAQ](faq.md)
 
