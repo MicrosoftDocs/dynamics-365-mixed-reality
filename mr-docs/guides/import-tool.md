@@ -250,6 +250,3 @@ obfuscated URLs.
     ![Simplified model](media/simplified-model.PNG "Simplified model")
     
     
-### See also
-
-[Dynamics 365 Layout documentation](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/)
