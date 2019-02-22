@@ -1,19 +1,19 @@
 ---
 author: anhaman
-description: Everything you need to know about signing up for Dynamics 365 Guides (Preview), configuring the solution, and installing the apps.
+description: Everything you need to know about signing up for Dynamics 365 Guides in preview, configuring the solution, and installing the apps.
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Sign up for Dynamics 365 Guides (Preview)
+title: Sign up for Dynamics 365 Guides in preview
 ms.reviewer: v-brycho
 ---
 
-# Sign up for Dynamics 365 Guides (Preview)
+# Sign up for Dynamics 365 Guides in preview
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-We're thrilled to introduce Microsoft Dynamics 365 Guides (Preview)! [Learn about Guides capabilities](index.md).
+We're thrilled to introduce Microsoft Dynamics 365 Guides in preview! [Learn about Guides capabilities](index.md).
 
 To get started with Guides, you need to:
 
@@ -375,7 +375,7 @@ If you're an administrator, and you want others in your organization to have acc
 
 ### See also
 
-[Get started with Dynamics 365 Guides Preview](get-started.md)<br>
+[Get started with Dynamics 365 Guides in preview](get-started.md)<br>
 [Author a guide](authoring-overview.md)<br>
 [Operator's manual](operator-guide.md)<br>
 [Analyze your guides to improve process efficiencies](analytics-guide.md)<br>
