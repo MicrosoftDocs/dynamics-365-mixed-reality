@@ -15,6 +15,6 @@
 ## [FAQ](faq.md)
 ## [Known issues](known-issues.md)
 ## Terms of use
-### [Guides Preview](../legal/guides-preview.md)
+### [Guides preview](../legal/guides-preview.md)
 ### [Service terms](../legal/guides-service-terms.md)
 
