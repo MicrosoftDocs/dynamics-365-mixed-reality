@@ -59,7 +59,7 @@ You can sign up in either of the following ways:
 
 7.	If you want to add additional users, assign licenses as described in the next procedure.
 
-### Assign licenses for additional users (optional)<a name="licenses"></a>
+#### Assign licenses for additional users (optional)<a name="licenses"></a>
 
 If you're an administrator, and you want others in your organization to have access to Guides, you’ll need to assign users in the Microsoft 365 Admin Center. Each user you add will need an Azure Active Directory (Azure AD) account.
 
