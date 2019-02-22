@@ -310,7 +310,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
  
     - **Product licenses**. Expand this section, and then turn on the **Dynamics 365 Guides** option. You can assign up to 25 users.
     
-      ![Product Licenses dialog box)](media/product-licenses.PNG "Product Licenses dialog box")
+      ![Product Licenses dialog box)](media/new-user-plans.PNG "Product Licenses dialog box")
  
 4.	Select **Save** when you’re done.
 
