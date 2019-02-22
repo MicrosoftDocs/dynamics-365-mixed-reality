@@ -1,21 +1,21 @@
 ---
 author: BryceHo
-description: FAQ about Dynamics 365 Guides (Preview)
+description: FAQ about Dynamics 365 Guides in preview
 ms.author: anhaman
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
-title: FAQ about Dynamics 365 Guides (Preview)
+title: FAQ about Dynamics 365 Guides in preview
 ms.reviewer: v-brycho
 ---
 
-# Frequently Asked Questions about Microsoft Dynamics 365 Guides (Preview)
+# Frequently Asked Questions about Microsoft Dynamics 365 Guides in preview
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
 ## Why do I have to download two apps?
 
-Microsoft Dynamics 365 Guides (Preview) includes two applications:
+Microsoft Dynamics 365 Guides in preview includes two applications:
 
 - PC Authoring application
 
@@ -35,7 +35,11 @@ The following table lists technical requirements for deploying and using Guides 
 
 ### Licensing and product requirements
 
-You need a Dynamics 365 Guides (Preview) license for each user who will use the Guides app. For more information, [see the Setup topic](setup.md).
+You need a Dynamics 365 Guides in preview license for each user who will use the Guides app. For more information, [see the Setup topic](setup.md).
+
+## Is Dynamics 365 for Field Service functionality available in Guides?
+
+Guides does not have this functionality. Integration with Dynamics for Field Service is coming in fall 2019. 
 
 ## I get an error message when I try to sign in to the PC app or HoloLens app
 
