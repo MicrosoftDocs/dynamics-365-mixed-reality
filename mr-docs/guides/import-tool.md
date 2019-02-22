@@ -95,8 +95,7 @@ Specific instructions for each option are provided below.
       > [!NOTE]
       > The re-optimization option is available for 24 hours after the first optimization done using the cloud service.
 
-To use 3D models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to convert
-them to the correct file format using the [!include[pn-import-tool](../includes/pn-import-tool.md)], and then import them into [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
+After you convert the assets, you'll need to locate them and import them into Guides.
 
 ### Convert without optimizing
 
@@ -115,7 +114,7 @@ them to the correct file format using the [!include[pn-import-tool](../includes/
 
 6. Select **Optimize** to start the optimization process. This process might take a while, depending on how many models you're importing.
 
-To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to [copy them to the HoloLens device](#copy-models-to-a-HoloLens-device).
+After you convert the assets, you'll need to locate them and import them into Guides.
 
 ### Convert using your PC
 
@@ -137,8 +136,17 @@ To use your models on [!include[pn-hololens](../includes/pn-hololens.md)], you�
    
 6. Select **Optimize** to start the optimization process. The optimization process might take a while, depending on how many models you're importing.
 
-To use 3D models on [!include[pn-hololens](../includes/pn-hololens.md)], you’ll need to convert
-them to the correct file format using the [!include[pn-import-tool](../includes/pn-import-tool.md)], and then import them into [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
+After you convert the assets, you'll need to locate them and import them into Guides.
+
+### Locate converted assets
+
+Files created with the Import tool are stored locally. To find the files on your local drive:
+
+1. Open the Import Tool.
+
+2. Right-click a model, and then select **Open file location.**
+
+3. Browse to this location when you import in Guides.
 
 
 ### Provide feedback and submit assets for manual processing if the quality is unsatisfactory
