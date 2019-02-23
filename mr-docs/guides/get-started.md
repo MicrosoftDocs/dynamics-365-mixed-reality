@@ -39,9 +39,9 @@ The best way to learn Guides is by doing, so here are some tips on getting start
 
     - Edit the guide steps and assets using the PC authoring app or place instructions or holograms using the HoloLens app in Author mode. 
     
-2.	Create your first guide from scratch, try it out, and analyze it!
+2.	Create your first guide from scratch, try it out, and analyze it.
 
-     - Picking a scenario that works well for Guides is the first step. To create your first guide, find a simple step-by-step operation in a physical space that you have access to. We’ve created guides for operating a projector, pouring water into a glass, and making penguin olives! Or use a real-world workflow in your business. 
+     - To create your first guide, find a simple step-by-step operation in a physical space that you have access to. We’ve created guides for operating a projector, pouring water into a glass, and making penguin olives! Or use a real-world workflow in your business. 
 
      - Build your first guide using standard 3D assets. Create your tasks and steps in the PC app, and then move to the HoloLens app to place the instructions and holograms in the physical space they relate to. Refer to the [Authoring](authoring-overview.md) and [Operating](operator-guide.md) topics for help. 
 
@@ -49,9 +49,7 @@ The best way to learn Guides is by doing, so here are some tips on getting start
 
      - Analyze your usage of the guide with Power BI reports. See [Analyze your guides](analytics-guide.md) for more information. 
 
-3.	Need Support?
-
-If you run across an issue, check out our [FAQ](faq.md) and [Known Issues](known-issues.md) topics. If that doesn’t help, please contact Support. You can find information on contacting support in the [FAQ](faq.md).
+3.	Need Support? If you run across an issue, check out our [FAQ](faq.md) and [Known Issues](known-issues.md) topics. If that doesn’t help, please contact Support. You can find information on contacting support in the [FAQ](faq.md).
 
 ## What makes a good guide?
 
