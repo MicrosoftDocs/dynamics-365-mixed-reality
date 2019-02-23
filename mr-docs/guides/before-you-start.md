@@ -80,7 +80,7 @@ it easy to find and use the different types of assets.
 ![Folder stucture)](media/folder-structure.PNG "Folder structure")
  
 ### Best practies for file names
-When naming your content pieces, consider using standard prefixes so that all your assets are organized together in the library. 
+When naming your content pieces, consider using standard prefixes so that all of your assets are organized together in the library. 
 For example:
 - atv_eng_01.png
 - atv_eng_video01.wmv
