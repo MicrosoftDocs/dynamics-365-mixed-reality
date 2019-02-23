@@ -146,7 +146,7 @@ Files created with the Import tool are stored locally. To find the files on your
 
    ![Open file location](media/location.PNG "Open file location")
 
-3. Browse to this location when you [import custom 3D object in the PC authoring app](pc-authoring.md#import).
+3. Browse to this location when you're ready to [import your own custom 3D objects in the PC authoring app](pc-authoring.md#import).
 
 
 ### Provide feedback and submit assets for manual processing if the quality is unsatisfactory
