@@ -81,7 +81,7 @@ When you author a guide, all changes are saved on both the PC and HoloLens. This
 Autosave checks for changes every 4 seconds. 
 
 > [!IMPORTANT]
-> For this preview release, there are a few things to be aware of when syncing devices:<br>- As a best practice, always select **Refresh** before making edits on a guide when you switch between devices. This ensures that you have the latest version of that file from the other device.<br>- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC application, the guide  automatically refreshes on HoloLens. You might notice the refresh process.<br>- When you add text to the guide in the PC application, the auto publish only activates when you click outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, you’ll lose the text you created on the PC when 
+> For this preview release, there are a few things to be aware of when syncing devices:<br>- As a best practice, always select **Refresh** before making edits on a guide when you switch between devices. This ensures that you have the latest version of that file from the other device.<br>- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC application, the guide  automatically refreshes on HoloLens. You might notice the refresh process.<br>- When you add text to the guide in the PC application, the auto publish only activates when you move the cursor outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, you’ll lose the text you created on the PC when 
 it updates with the changes from HoloLens. This issue will be addressed in our next release. 
 
 ## Create a new guide
@@ -269,7 +269,7 @@ The best way to understand this is to adjust the device positioning while aligni
 
 ## Structure your guide in the Outline page
 
-After you choose an alignment method, you see the Outline page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building blocks that everything is built around in Guides.
+After you choose an alignment method, you see the Outline page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in Guides.
 
 When you open the Outline page for the first time, you’ll see that a single task and step are already created for you. 
 
@@ -296,7 +296,7 @@ In addition to tasks and steps, the Outline page shows:
 
 - Add a step at the beginning and end of each task to let the operator know when they’re starting something new or ending a task and to make the operator feel successful when they complete a task.
 
-- Don’t be afraid to add lots of steps but remember to keep them short for best effect. 
+- Don’t be afraid to add lots of steps, but remember to keep them short for best effect. 
 
 - Consider adding steps that show individual tips and tricks. 
 
@@ -329,7 +329,7 @@ To add 3D content or media to support a step:
    > [!NOTE]
    > The collection of boxes below the instructional text is called the "bin."
   
-When you view your guide on the HoloLens in Authoring mode, you’ll see all the assets that you associated with the steps, and can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in HoloLens authoring. What you see in the Step card page, is very similar to what you see on the HoloLens. 
+When you view your guide on the HoloLens in Authoring mode, you’ll see all the assets that you associated with the steps, and you can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in HoloLens authoring. What you see in the Step card page, is very similar to what you see on the HoloLens. 
 
 ### Best practices for the Step card page
 
@@ -337,7 +337,7 @@ When you view your guide on the HoloLens in Authoring mode, you’ll see all the
 
 - Don’t be afraid to add lots of steps but keep the text short. Instruction text is limited to 280 characters per step to help keep the text short.
 
-- Try to stick to one type of asset (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time consuming to absorb. Think about what type of content gets the point across best.
+- Try to stick to one type of asset (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
 
 - Write your guide in casual human language for best results. Don’t use technical jargon that people don’t know or understand.
 
@@ -368,7 +368,7 @@ To import your own 3D objects:
 
 ### Add 3D objects from the 3D toolkit to support your steps
 
-Guides comes with a library of pre-defined 3D objects included in the 3D toolkit that are optimized to work perfectly with HoloLens. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
+Guides comes with a library of predefined 3D objects included in the 3D toolkit that are optimized to work perfectly with HoloLens. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
 
 ![Add object from 3D toolkit)](media/add-3D-toolkit.PNG "Add object from 3D toolkit")
  
@@ -389,7 +389,7 @@ To add an object from the 3D toolkit:
 2.	Select the appropriate category of objects.
 
     ![3D toolkit categories)](media/3D-toolkit-categories.PNG "3D toolkit categories")
-
+    
 3.	Drag the object you want from the list to a **3D parts** box below the Step card.
 
     ![Drag object from 3D toolkit)](media/drag-3D-toolkit-object.PNG "Drag object from 3D toolkit")
@@ -430,7 +430,7 @@ After you create your guide, select an alignment method, and create your tasks a
 Don’t worry if your guide isn’t perfect before switching to HoloLens authoring. You can always go back to the PC application to edit and restructure your guide. In fact, we’ve found it’s generally a good idea to do a quick test of the flow on HoloLens, and then go back to the PC application to make changes before placing all your holograms in HoloLens.
 
 > [!Tip]
-> If you’re creating multiple versions of the same guide, you may want to use the **Save a Copy** command on the **File** menu. This is great for guides that are similar but have a few different steps. You don’t have to start from scratch!
+> If you’re creating multiple versions of the same guide, you might want to use the **Save a Copy** command on the **File** menu. This is great for guides that are similar but have a few different steps. You don’t have to start from scratch!
 
 ### See also
 
