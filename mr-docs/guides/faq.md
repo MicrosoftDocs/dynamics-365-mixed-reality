@@ -15,17 +15,17 @@ ms.reviewer: v-brycho
  
 ## How do I contact Support if I don't find an answer in this FAQ?
 
-If you're not able to use Guides or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support using the following steps:
+If you're not able to use Microsoft Dynamics 365 Guides in preview, or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
 
 1. Go to [https://dynamics.microsoft.com/en-us/support/](https://dynamics.microsoft.com/en-us/support/).
 
 2. Under **Customer Engagement help + support**, select **GET SUPPORT**.
 
-3. Use the provided phone number or submit a support request through the Admin Center. 
+3. Find a phone number or submit a support request through the Admin Center. 
 
 ## Why do I have to download two apps?
 
-Microsoft Dynamics 365 Guides in preview includes two applications:
+Guides includes two applications:
 
 - PC Authoring application
 
@@ -45,7 +45,7 @@ The following table lists technical requirements for deploying and using Guides 
 
 ### Licensing and product requirements
 
-You need a Dynamics 365 Guides in preview license for each user who will use the Guides app. For more information, [see the Setup topic](setup.md).
+You need a Dynamics 365 Guides (Preview) license for each user who will use the Guides app. For more information, [see the Setup topic](setup.md).
 
 ## Is Dynamics 365 for Field Service functionality available in Guides?
 
@@ -67,7 +67,7 @@ The following table lists the formats supported for 3D content, images, and vide
 |----------|----------------------|-------------------------------------------------------------------------|
 |3D content|FBX, GLB, GLTF|Make sure to optimize your 3D models as much as possible to maintain optimal performance on HoloLens.|
 |Images|PNG, JPG, JPEG, GIF, TIFF||
-|Videos|MP4, MOV, WMV|Make sure to keep your videos less than 2 mins long, and focused on one step at a time.|
+|Videos|MP4, MOV, WMV|Make sure to keep your videos less than 2 minutes long, and focused on one step at a time.|
 
 ## Will I lose any data if I close an app inadvertently?
 
