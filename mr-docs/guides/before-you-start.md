@@ -47,17 +47,18 @@ that the operator will use.
 - For performance reasons, don’t use 4K/HD quality pictures. **Total image size shouldn’t exceed 100 KB.**
 
 ### Best practices for videos
-- Videos are best for first-time users.
+- Videos are:
+  - Best for first-time users.
+  - Very effective for showing specific hand movements.
 - Keep videos short and focused on a single step.
 - Overview videos don’t work well generally, because operators might think they’re supposed to do the assembly while they’re watching 
 the overview video. 
-- When filming video, make sure to show a wide angle for context and then a close-up of the actual work and hand motions.
+- When filming video, make sure to show a wide angle for context as well as a close-up of the actual work and hand motions.
 - Effective videos “teach” how to do something. If you just take a video of someone on the floor doing a process they’re very 
 familiar with, it’s likely that:
   - They’ll move too quickly.
   - They won’t talk through the tasks step-by-step.
   - They won’t teach the task the way management wants them to teach it.
-- Videos are very effective for showing specific hand movements.
 - Audio is very useful for step-by-step instructions. Watching someone do a task without audio doesn't provide as much context. Consider
 using video captions, if available, for noisy environments.
 
