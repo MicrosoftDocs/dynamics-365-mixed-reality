@@ -45,7 +45,7 @@ The best way to learn Guides is by doing, so here are some tips on getting start
 
      - Build your first guide using standard 3D assets. Create your tasks and steps in the PC app, and then move to the HoloLens app to place the instructions and holograms in the physical space they relate to. Refer to the [Authoring](authoring-overview.md) and [Operating](operator-guide.md) topics for help. 
 
-     - After you’ve created your guide, try using it in Operate mode to see how it works. 
+     - After you’ve created your guide, try it out in Operate mode to see how it works. 
 
      - Analyze your usage of the guide with Power BI reports. See [Analyze your guides](analytics-guide.md) for more information. 
 
