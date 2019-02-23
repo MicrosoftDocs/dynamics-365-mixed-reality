@@ -91,13 +91,13 @@ For a tutorial on some basic gestures, use the bloom gesture to go to Start, and
 
 ## Get started with the HoloLens app 
 
-Now that your HoloLens is calibrated, and you know how to get around by gazing and using gestures, it’s time to open a guide and get some work done. Let’s start by installing the app if someone hasn’t already installed it for you. 
+Now that your HoloLens is calibrated, and you know how to get around by gazing and using gestures, it’s time to open a guide and get some work done. Start by installing the app if someone hasn’t already installed it for you. 
 
 ### Install the HoloLens app
 
 1.	Make sure you have HoloLens build 10.0.14393.0 or later installed on your HoloLens. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
-2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the Home menu, and then open the Microsoft Store app and search for “Guides”.
+2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the Home menu, and then open the Microsoft Store app and search for “Dynamics 365 Guides (Preview)”.
 
 3.	Select **Install** to download and install the Guides application.
 
@@ -133,7 +133,7 @@ If you sign in with a brand new HoloLens device, you’ll be prompted to walk th
 
     ![Select Author mode)](media/author-mode.PNG "Select Author mode")
    
-7.	In the **Guides** dialog box, gaze at the selection box for the guide you want to open. For example, gaze at the selection box for Example Guide, the guide that comes with the public preview release of Dynamics 365 Guides.  
+7.	In the **Guides** dialog box, gaze at the selection box for the guide you want to open. For example, gaze at the selection box for Example Guide, the guide that comes with the preview release of Guides.  
    
 ### Align your guide 
 The first thing you see when you open a guide is the alignment instructions for the guide.  
@@ -159,14 +159,14 @@ After aligning a guide, you’ll see the **Marker found** screen. Follow the ins
 
 When you align your guide, if you’re using the HoloLens Commercial Suite, the alignment information is stored on your HoloLens so you don’t have to realign the guide every time you open it. You can re-align a guide at any time though if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section. 
  
-# Get oriented with the Step card 
+## Get oriented with the Step card 
 
 When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide — the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card “tags along” with you on the HoloLens to keep your instructions where you need them. 
 
 ![Step card with Next Step and Go Back buttons)](media/step-card.PNG "Step card with Next Step and Go Back buttons")
 
 > [!NOTE]
-> The screen shot above shows the first step of Example Guide, the guide created for the public preview release of Dynamics 365 Guides. In Example Guide, the first step provides an overview of the tasks included in the guide.  
+> The screen shot above shows the first step of Example Guide, the guide created for the preview release of Dynamics 365 Guides. In Example Guide, the first step provides an overview of the tasks included in the guide.  
 
 In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
 
@@ -212,7 +212,7 @@ You can turn holograms off (or turn them back on) with a glance if you ever feel
 
 ## Useful links for more information
 
-That's all the info you need to use a guide created with Dynamics 365 Guides! To learn more about Microsoft mixed reality apps and HoloLens, here are some helpful links: 
+That's all the info you need to use a guide created with Guides! To learn more about Microsoft mixed reality apps and HoloLens, here are some helpful links: 
 
 - [What is mixed reality?](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)
 - [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
