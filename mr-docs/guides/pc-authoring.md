@@ -33,8 +33,8 @@ Use these instructions to install the app (if it hasn't already been installed f
 3.  Select the **Install** button to install Guides.
 
 ### Sign in to the app
-1.	Launch the Guides application from the Start menu on your PC. 
-2.	In the **Welcome to Guides** screen, choose **Sign in**.
+1.	Open the Guides application from the **Start** menu on your PC. 
+2.	In the **Welcome to Guides** screen, select **Sign in**.
 
     ![Welcome to Guides)](media/welcome-to-guides.PNG "Welcome to Guides")
     
@@ -48,28 +48,28 @@ Use these instructions to install the app (if it hasn't already been installed f
     ![Choose an instance)](media/choose-instance-pc.PNG "Choose an instance")
 
  
-## 6 steps to authoring in the PC application
-You always start the authoring process for a guide in the PC application. Use the PC application to:
-1.	Create the guide
-2.	Choose an alignment method 
-3.	Add the structure (the tasks)
-4.	Add the steps included in each task
-5.	Write the short text for each step
-6.	Assign assets to support the steps
+## Six steps to authoring in the PC application
+Always start the authoring process for a guide in the PC application. Use the PC application to:
+1.	Create the guide.
+2.	Choose an alignment method. 
+3.	Add the structure (the tasks).
+4.	Add the steps included in each task.
+5.	Write the short text for each step.
+6.	Assign assets to support the steps.
 
 ## A note about saving in Guides
 The PC Authoring app and the HoloLens app are connected through the cloud, where your guide files and assets are stored. 
 When you author a guide, all changes are saved on both the PC and HoloLens. This makes it easy to switch between devices. 
 Autosave checks for changes every 4 seconds. 
 
-For public preview, there are a few things to be aware of when syncing devices:
-- As a best practice, always select **Refresh** before making edits on a guide when you switch between devices. This ensures you 
+For this preview release, there are a few things to be aware of when syncing devices:
+- As a best practice, always select **Refresh** before making edits on a guide when you switch between devices. This ensures that you 
 have the latest version of that file from the other device. 
-- If the same version of the guide is open on the PC and HoloLens, the app will automatically refresh when it detects that you've 
-made a change in the other app. For example, if you have a guide open on HoloLens and add a new step on the PC, the guide will 
-automatically refresh on HoloLens. You may notice the refresh process. 
-- When adding text in the PC application, the auto publish only activates when you click outside the text box. If you add text 
-to a step and keep your cursor in the text box and then make a change on HoloLens, you’ll lose the text you created on the PC when 
+- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've 
+made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC application, the guide  
+automatically refreshes on HoloLens. You might notice the refresh process. 
+- When you add text to the guide in the PC application, the auto publish only activates when you click outside the text box. If you add text 
+to a step, keep your cursor in the text box, and then make a change on HoloLens, you’ll lose the text you created on the PC when 
 it updates with the changes from HoloLens. This issue will be addressed in our next release. 
 
 ## Create a new guide
@@ -98,12 +98,12 @@ you use a gesture.
 instructions can cause operator confusion and potentially costly damage. For example, an operator could drill a hole in the wrong 
 place or assemble the wrong part. 
 
-Marker alignment is recommended, because it’s more accurate. You may want or need to use manual alignment, however, for any of the 
+Marker alignment is recommended because it’s more accurate. You might want or need to use manual alignment, however, for any of the 
 following reasons:
 
-- It may not be feasible to attach a marker because the authoring is done in a different location than where the parts are located.
-- It may not be feasible to attach a marker due to moving parts.
-- You can’t guarantee the placement of the marker will be the same every time.
+- It might not be feasible to attach a marker because the authoring is done in a different location than where the parts are located.
+- It might not be feasible to attach a marker due to moving parts.
+- You can’t guarantee that the placement of the marker will be the same every time.
 - A part is too small to attach a marker to.
 
 ### Align your guide by using marker alignment
@@ -134,25 +134,25 @@ To print the marker:
     ![Marker spacing)](media/marker-spacing.PNG "Marker spacing")
  
 > [!NOTE]
-> If the marker spacing is not within +/- 0.1mm, select the **Custom Scale** option in the **Print** dialog box, and then change the 
-percentage to compensate for the size discrepancy. For example, if you print the marker and the result is 49 mm, you would need to 
+> If the marker spacing is not within +/- 0.1 mm, select the **Custom Scale** option in the **Print** dialog box, and then change the 
+percentage to compensate for the size discrepancy. For example, if you print the marker and the result is 49 mm, you need to 
 change the scale to 100.4% to get 49.196 mm, which would be within tolerance.
 
 #### Best practices for marker alignment
 Keep the following in mind when working with marker alignment:
 
-- **Size.** Make sure that your printed marker is the exact size indicated in this document. Incorrect marker size will cause guide misalignment. 
-  - Some applications and printers may change the size of the image.
-  - If the printed marker is bigger than indicated, HoloLens will interpret the scale difference in distance. This will cause the marker to be identified as closer than it really is. 
-  - Note that printing from the pdf file (as described earlier in this section) is the best way to ensure that the marker is not resized. 
-- **Location.** Place the marker in a location on the physical object that’s easy to access and out of the way.
+- **Size.** Make sure that your printed marker is the exact size indicated in this document. Incorrect marker size causes guide misalignment. 
+  - Some applications and printers might change the size of the image.
+  - If the printed marker is bigger than indicated, HoloLens interprets the scale difference in distance. This causes the marker to be identified as closer than it really is. 
+  - Printing from the .pdf file (as described earlier in this topic) is the best way to ensure that the marker is not resized. 
+- **Location.** Place the marker in a location on the physical object in a location that’s easy to access and out of the way.
   - Marker placement should ideally be central to the steps being done.
-  - Content placed further away from the marker will be less accurate.
-  - Place the marker where operators can quickly re-scan to realign at any time.
+  - Content placed farther away from the marker will be less accurate.
+  - Place the marker where operators can quickly rescan to realign at any time.
   - Take a photo or video to document the marker placement and add it to the guide instructions to increase operator confidence.
 - **Scanning angle.** Make sure you’re facing the marker straight on at the correct distance when gazing at it. 
   - Scanning from an angle can cause misalignment.
-  - Ideal scanning range is 60–80 cm.
+  - Ideal scanning range is from 60 to 80 cm.
 
 #### How HoloLens establishes marker position, scale, and orientation
 When scanning, the forward-facing camera on the HoloLens is used to measure the horizontal and vertical distances on the marker. 
