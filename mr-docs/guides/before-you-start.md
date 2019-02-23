@@ -37,12 +37,12 @@ assets for high-level principles where details aren’t as important.
 
 ### Best practices for pictures (images)
 - Pictures are:
-  - Best for quick reference, validation, or special techniques
+  - Best for quick reference, validation, or special techniques.
   - A great and inexpensive way to orient an operator, so use lots of them. 
-  - Are very efficient for identifying specific patterns, shapes, or colors.
+  - Very efficient for identifying specific patterns, shapes, or colors.
 - When you take a picture:
   - Make sure to take a picture of the whole object for overall context, as well as a close-up for precision.
-  - Keep in mind the perspective of the operator. It’s helpful to take the picture from the same angle 
+  - Keep in mind the perspective of the operator. It’s helpful to take the picture from the same angle. 
 that the operator will use.
 - For performance reasons, don’t use 4K/HD quality pictures. **Total image size shouldn’t exceed 100 KB.**
 
@@ -65,13 +65,13 @@ using video captions, if available, for noisy environments.
 ### Best practices for 3D content
 3D content is best for adding in-context clarity. Guides includes a 3D toolkit of 3D models that you can use to add 
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
-optimized for HoloLens. For more information, see [Add 3D objects to support your steps](pc-authoring.md).
+optimized for HoloLens. For more information, see the [Authoring guide](pc-authoring.md).
 
 You can also create and import your own custom 3D parts. If you use custom 3D parts, make sure to optimize them as much as possible 
 before importing them to Guides. It’s also good to break up 3D parts as much as possible. For example, if you have a 3D model that 
 shows a composite part for an engine, create separate 3D parts for all the individual pieces to better highlight the parts in a step.
 
-Guides supports GLTF, GLB, and FBX file formats. For additional file support (including some CAD formats) and automated 3D model optimization, you can use the [Import Tool](guides-import-tool-flow.md) available through Dynamics 365 Layout.
+Guides supports GLTF, GLB, and FBX file formats. For additional file support (including some CAD formats) and automated 3D model optimization, you can use the [Import Tool](import-tool) available through Dynamics 365 Layout.
 
 ## Set up a folder structure
 To organize content, you may want to create a folder structure with separate folders for text, 3D assets, images, and videos to make 
