@@ -67,7 +67,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 3.	Enter a name for the guide. If you’re planning to create multiple versions of the guide, you may want to add _v2, _v3, and 
 so on as part of the name. 
 
-## Saving and how changes are synced between the PC app and HoloLens app
+## Saving: how changes are synced between the PC app and HoloLens app
 
 The PC Authoring app and the HoloLens app are connected through the cloud, where your Guides files and assets are stored. 
 When you author a guide, all changes are saved on both the PC and HoloLens. This makes it easy to switch between devices. 
