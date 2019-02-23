@@ -372,10 +372,9 @@ Guides comes with a library of predefined 3D objects included in the 3D toolkit 
 
 ![Add object from 3D toolkit)](media/add-3D-toolkit.PNG "Add object from 3D toolkit")
  
-Here’s the complete list of 3D objects available in the 3D toolkit:
+The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. Here’s what the models look like:
 
 ![List of objects in 3D toolkit)](media/3D-toolkit-objects.PNG "List of objects in 3D toolkit")
-
 
 You add a 3D object from the 3D toolkit in the Step card page, and then place them in HoloLens Authoring mode. You can use the same object (instance) as many times as you like in a step.
 
