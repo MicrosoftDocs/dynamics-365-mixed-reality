@@ -1,6 +1,6 @@
 # TERMS OF SERVICE - MICROSOFT DYNAMICS 365 	MIXED REALITY PREVIEW
 
-These terms of service are an agreement between you and Microsoft Corporation (or one of its affiliates). They apply to the Microsoft online services made available to you for preview use in connection with one or more Microsoft Dynamics 365 products or applications (the “Preview”) (except to the extent such services or updates are accompanied by new or additional terms, in which case those different terms apply prospectively and do not alter your or Microsoft’s rights relating to pre-updated software or services). IF YOU COMPLY WITH THESE TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SERVICES FOR A PREVIEW, YOU ACCEPT THESE TERMS.
+These terms of service are an agreement between you and Microsoft Corporation (or one of its affiliates). They apply to the Microsoft online services made available to you for preview use in connection with one or more Microsoft Dynamics 365 products or applications (the “Preview”) (except to the extent such services or updates are accompanied by new or additional terms, in which case those different terms apply prospectively and do not alter your or Microsoft’s rights relating to pre-updated software or services). IF YOU COMPLY WITH THESE TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SERVICES FOR A PREVIEW, YOU ACCEPT THESE TERMS.X
 
 **1.	USE RIGHTS.**
 
