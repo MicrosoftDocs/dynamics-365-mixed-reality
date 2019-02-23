@@ -52,7 +52,7 @@ The act of looking at a user interface element with the HoloLens. In some cases,
 Hand gestures enable operators to do actions in mixed reality. For more information, see [Gestures to know](authoring-gestures.md).
 
 ## Interpupillary distance (IPD)
-The distance between a user’s eyes. Different users have different IPDs. To align content correctly, the HoloLens needs to be calibrated for each user’s IPD. [Learn more about calibrating HoloLens](pc-authoring.md).
+The distance between a user’s eyes. Different users have different IPDs. To align content correctly, the HoloLens needs to be calibrated for each user’s IPD. 
 
 ## Marker
 A computer-generated visual used for one type of alignment. You gaze at the marker to align the guide with its spatial coordinates.
@@ -67,7 +67,7 @@ A page in the PC Authoring application that you use to add tasks and steps. From
 A short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
 
 ## Step card
-The fundamental building block in Guides. You add text and supporting assets to a Step card in the PC Authoring application, and then place holograms associated with each step in a real-world environment in HoloLens Authoring mode. The operator works through each step to complete a task or series of tasks. [Learn more about Step cards](pc-authoring.md).
+The fundamental building block in Guides. You add text and supporting assets to a Step card in the PC Authoring application, and then place holograms associated with each step in a real-world environment in HoloLens Authoring mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see the [Authoring guide](pc-authoring.md).
 
 ## Style
 Visual properties that you can add to any 3D object to reinforce what you want the operator to do or know. Examples of styles include Pick up, Place, and Caution.
