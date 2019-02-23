@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
  
 ## How do I contact Support?
 
-If you're not able to use Guides or if you have issues that aren't answered in this FAQ or in the documentation, please contact Customer Support using the following steps:
+If you're not able to use Guides or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support using the following steps:
 
 1. Go to [https://dynamics.microsoft.com/en-us/support/](https://dynamics.microsoft.com/en-us/support/).
 
