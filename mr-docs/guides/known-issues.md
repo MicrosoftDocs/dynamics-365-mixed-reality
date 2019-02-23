@@ -53,7 +53,7 @@ At this time, renaming or deleting guides is not supported.
 
 ## You can create guides with the same name without overwriting old guides
 
-You can create multiple guides with the same name. While this prevents unintentional overwrites of old files, it will be confusing when you choose a guide from a list. We recommend looking up the names of existing guides when creating new ones.
+You can create multiple guides with the same name. While this prevents unintentional overwrites of old files, it's confusing when you choose a guide from a list. We recommend looking up the names of existing guides when creating new ones.
 
 ## 3D content and media cannot be renamed or deleted after uploading
 
@@ -61,7 +61,7 @@ At this time, we do not support renaming or deleting 3D content and media once t
 
 ## 3D content and media will be overwritten if you upload new content with the same name
 
-We do not support multiple files with the same name in the current release. When uploading new 3D models or media, check to make sure a file with the same name does not exist in the library. You can, however, have different types of files with the same name — e.g. a ##bolt.png## image and a ##bolt.glb## 3D model.
+We do not support multiple files with the same name in the current release. When uploading new 3D models or media, check to make sure a file with the same name does not exist in the library. You can, however, have different types of files with the same name — e.g. a **bolt.png** image and a **bolt.glb** 3D model.
 
 ## Can’t use the same name for more than one guide
 
@@ -89,10 +89,9 @@ If you see any of the following errors, please contact your IT administrator or 
 
 - Your client app version does not support your Dynamics 365 Guides solution version. Please update your client app, contact your administrator, or see the self-serve documentation http://aka.ms/guidesdocs.
 
-- You don't have a license to use Guides
-  Contact your administrator or sign up for a free trial subscription using the documentation link below.
+- You don't have a license to use Guides. Contact your administrator or sign up for a free trial subscription using the documentation link below.
 
-#### Staying on account picker for more than 25 seconds during HoloLens during sign-in will make it unresponsive
+#### Staying on the account picker for more than 25 seconds during HoloLens sign-in will make it unresponsive
 
 When you get to the screen where you can select between different saved accounts on HoloLens, please choose an option within 25 seconds. After 25 seconds it will become unresponsive and you will need to restart the app. This bug has been fixed on RS5, but still exists on RS4 if you have that installed.
 
@@ -123,7 +122,7 @@ If you still can’t find your content, contact your administrator.
 
 #### I have an issue that isn’t listed in these troubleshooting steps
 
-Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by logging into your Dynamics 365 account and selecting the Support link.
+Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by logging into your Dynamics 365 account and selecting the **Support** link.
 
 ### HoloLens application issues
 
@@ -131,16 +130,15 @@ Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/g
 
 To sign in, you must use the Microsoft Dynamics 365 sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a Microsoft account (used for Outlook.com, the Windows store, and so on) or your corporate credentials to sign in. 
 
-If you’re seeing any of the following errors please contact your IT administrator or refer to our self-serve documentation at http://aka.ms/guidesdocs. 
+If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at http://aka.ms/guidesdocs. 
 
 - Guides isn't set up correctly, or you may not have permission to access it. Contact your administrator or use the documentation link below.
 
 - Your client app version does not support your Dynamics 365 Guides solution version. Please update your client app, contact your administrator, or see the self-serve documentation http://aka.ms/guidesdocs.
 
-- You don't have a license to use Guides
-  Contact your administrator or sign up for a free trial subscription using the documentation link below.
+- You don't have a license to use Guides. Contact your administrator or sign up for a free trial subscription using the documentation link below.
 
-#### Staying on account picker more than 25 seconds during HoloLens sign-in will make it unresponsive
+#### Staying on the account picker more than 25 seconds during HoloLens sign-in will make it unresponsive
 
 When you get to the screen where you can select between different saved accounts on HoloLens, please choose an option within 25 seconds. After 25 seconds it will become unresponsive and you will need to restart the app. This bug has been fixed on RS5, but still exists on RS4 if you have that installed.
 
@@ -199,7 +197,7 @@ After playing a video on HoloLens, you might see an empty media panel. This is a
 To allow authors to place 3D models carefully and precisely, the default movement is set to be slow. To indicate this, the manipulation sphere around the model will be blue. You can move your hand faster, or wiggle the model a bit to switch it to move faster. 
 
 #### I have an issue that isn’t listed in these troubleshooting steps
-Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by logging in to your Dynamics 365 account and selecting the Support link.
+Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by logging in to your Dynamics 365 account and selecting the **Support** link.
 
 ### See also
 
