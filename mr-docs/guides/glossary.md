@@ -25,7 +25,7 @@ A library of predefined objects included in Guides that use can use to get start
 A gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
 
 ## Alignment
-The process of making sure that a guide "lines up" with associated objects in the real world when used on a HoloLens. Alignment is crucial and mandatory for creating any guide. For more information, see [Align your guide](pc-authoring.md).
+The process of making sure that a guide "lines up" with associated objects in the real world when used on a HoloLens. Alignment is crucial and mandatory for creating any guide. For more information, see the [Authoring guide](pc-authoring.md).
 
 ## Asset
 Collective term for the complete set of objects that you can add to a step to support that step. Assets include 2D objects (images and videos) and 3D objects (3D parts and objects from the 3D toolkit). 
@@ -34,7 +34,7 @@ Collective term for the complete set of objects that you can add to a step to su
 The person who creates a guide.
 
 ## Calibration
-A process in which HoloLens adjusts the hologram display according to a user's interpupillary distance (IPD). The HoloLens device must be calibrated correctly so that the guide aligns properly in the real world. Proper calibration is also necessary to place holographic objects in HoloLens Authoring mode. HoloLens includes a Calibration app that can be used by authors and operators for this purpose. [Learn more about calibrating HoloLens](pc-authoring.md).
+A process in which HoloLens adjusts the hologram display according to a user's interpupillary distance (IPD). The HoloLens device must be calibrated correctly so that the guide aligns properly in the real world. Proper calibration is also necessary to place holographic objects in HoloLens Authoring mode. HoloLens includes a Calibration app that can be used by authors and operators for this purpose. 
 
 ## Digital twin
 A 3D representation used for one type of alignment. You place the digital twin, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital twin.
@@ -42,11 +42,11 @@ A 3D representation used for one type of alignment. You place the digital twin, 
 ## Field of view
 The size of the HoloLens display where holograms show up. It’s important to keep the field of view in mind when placing holograms in a real-world environment.
 
-## Fit box setting
+## Fit Box setting
 A setting that ensures the HoloLens device fits properly. A proper fit is very important for alignment purposes.
 
 ## Gaze
-The act of looking at a target with the HoloLens. After targeting an object with gaze, you typically act on it with a gesture.
+The act of looking at a user interface element with the HoloLens. In some cases, you can select an item just by gazing at it. In other cases, you use gaze to target an object and then act on that target with a gesture.
 
 ## Gesture
 Hand gestures enable operators to do actions in mixed reality. For more information, see [Gestures to know](authoring-gestures.md).
