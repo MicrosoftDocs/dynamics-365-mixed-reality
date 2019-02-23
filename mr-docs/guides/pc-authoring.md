@@ -67,14 +67,14 @@ Use these instructions to install the app (if it hasn't already been installed f
 3.	Enter a name for the guide. If you’re planning to create multiple versions of the guide, you may want to add _v2, _v3, and 
 so on as part of the name. 
 
-## Do I need to save my work?
+## Saving and how changes are synced between the PC app and HoloLens app
 
-The PC Authoring app and the HoloLens app are connected through the cloud, where your guide files and assets are stored. 
+The PC Authoring app and the HoloLens app are connected through the cloud, where your Guides files and assets are stored. 
 When you author a guide, all changes are saved on both the PC and HoloLens. This makes it easy to switch between devices. 
 Autosave checks for changes every 4 seconds. 
 
 > [!IMPORTANT]
-> For this preview release, there are a few things to be aware of when syncing devices:<br>- As a best practice, always select **Refresh** before making edits on a guide when you switch between devices. This ensures that you have the latest version of that file from the other device.<br>- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC application, the guide  automatically refreshes on HoloLens. You might notice the refresh process.<br>- When you add text to the guide in the PC application, the auto publish only activates when you move the cursor outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, you’ll lose the text you created on the PC when 
+> For this preview release, there are a few things to be aware of when syncing devices:<br>- As a best practice, always select **Refresh** before making edits when you switch between devices. This ensures that you have the latest version of that file from the other device.<br>- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC app, the guide  automatically refreshes on HoloLens. You might notice the refresh process.<br>- When you add text to the guide in the PC application, the auto publish only activates when you move the cursor outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, you’ll lose the text you created on the PC when 
 it updates with the changes from HoloLens. This issue will be addressed in our next release. 
 
 ## Choose an alignment method 
