@@ -36,33 +36,53 @@ both for the quality of the experience and performance. It’s best to use high-
 assets for high-level principles where details aren’t as important.
 
 ### Best practices for pictures (images)
+
 - Pictures are:
+
   - Best for quick reference, validation, or special techniques.
+  
   - A great and inexpensive way to orient an operator, so use lots of them. 
+  
   - Very efficient for identifying specific patterns, shapes, or colors.
+  
 - When you take a picture:
+
   - Make sure to take a picture of the whole object for overall context, as well as a close-up for precision.
+  
   - Keep in mind the perspective of the operator. It’s helpful to take the picture from the same angle. 
 that the operator will use.
+
 - For performance reasons, don’t use 4K/HD quality pictures. **Total image size shouldn’t exceed 100 KB.**
 
 ### Best practices for videos
+
 - Videos are:
+
   - Best for first-time users.
+  
   - Very effective for showing specific hand movements.
+  
 - Keep videos short and focused on a single step.
+
 - Overview videos don’t work well generally, because operators might think they’re supposed to do the assembly while they’re watching 
 the overview video. 
+
 - When filming video, make sure to show a wide angle for context as well as a close-up of the actual work and hand motions.
+
 - Effective videos “teach” how to do something. If you just take a video of someone on the floor doing a process they’re very 
 familiar with, it’s likely that:
+
   - They’ll move too quickly.
+  
   - They won’t talk through the tasks step-by-step.
+  
   - They won’t teach the task the way management wants them to teach it.
+  
 - Audio is very useful for step-by-step instructions. Watching someone do a task without audio doesn't provide as much context. Consider
 using video captions, if available, for noisy environments.
 
 ### Best practices for 3D content
+
 3D content is best for adding in-context clarity. Guides includes a 3D toolkit of 3D models that you can use to add 
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
 optimized for HoloLens. For more information, see the [Authoring guide](pc-authoring.md).
@@ -74,15 +94,20 @@ shows a composite part for an engine, create separate 3D parts for all the indiv
 Guides supports GLTF, GLB, and FBX file formats. For additional file support (including some CAD formats) and automated 3D model optimization, you can use the [Import Tool](import-tool.md) available through Dynamics 365 Layout.
 
 ## Set up a folder structure
+
 To organize content, you may want to create a folder structure with separate folders for text, 3D assets, images, and videos to make 
 it easy to find and use the different types of assets.
 
 ![Folder stucture)](media/folder-structure.PNG "Folder structure")
  
 ### Best practies for file names
-When naming your content pieces, consider using standard prefixes so that all of your assets are organized together in the library. 
+
+When naming your content pieces, consider using standard prefixes so that all of your assets are organized together in the library.
+
 For example:
+
 - atv_eng_01.png
+
 - atv_eng_video01.wmv
 
 ### See also
