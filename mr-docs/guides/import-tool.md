@@ -154,6 +154,7 @@ Files created with the Import tool are stored locally. To find the files on your
 You can provide feedback on the quality of prepared 3D models and get assistance from Microsoft if you're not satisfied with the quality.
 
 1. Select the **Models** or **All** tab, and then select the model you want to provide feedback on.
+
 2. At the bottom of the **Properties** tab, under **How does the model look?**, select **Looks good** or **Looks broken** to record your feedback.
 
    ![Provide feedback](media/feedback.PNG "Provide feedback")
@@ -164,9 +165,13 @@ You can provide feedback on the quality of prepared 3D models and get assistance
 If you rate the quality at 3 or below (out of 5), you'll be prompted to optionally submit the model to Microsoft for manual optimization. To submit a model for manual optimization: 
 
 1. Review the terms and conditions, and then if you consent, select the check box.
+
 2. Select **Next**.
+
 3. Enter the location of the source file, why you're dissatisfied with the results, and your email address.
+
 4. Select **Next** to upload the file to Microsoft safely and securely.
+
    You'll receive an acknowledgement confirming receipt of the model (and will also receive an email confirmation). 
 
 Microsoft will update you on the progress of the manual optimization through email and will let you know when the model is ready to download.
@@ -238,8 +243,8 @@ The [!include[pn-import-tool](../includes/pn-import-tool.md)] is designed to imp
 ## How does the Microsoft cloud service work?
 
 When you convert a 3D model, the [!include[pn-import-tool](../includes/pn-import-tool.md)] uploads the raw model to
-the [!include[cc-microsoft](../includes/cc-microsoft.md)] cloud service, which is hosted on a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-azure](../includes/pn-azure.md)] web service.
-The cloud service transcodes and simplifies the model and then returns the
+the [!include[cc-microsoft](../includes/cc-microsoft.md)] Cloud Service, which is hosted on a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-azure](../includes/pn-azure.md)] web service.
+The Microsoft Cloud Service transcodes and simplifies the model and then returns the
 simplified models to the [!include[pn-import-tool](../includes/pn-import-tool.md)], restricting access via the use of
 obfuscated URLs.
 
