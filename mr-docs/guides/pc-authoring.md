@@ -35,11 +35,11 @@ Use the PC authoring application in Microsoft Dynamics 365 Guides in preview to:
 Use these instructions to install the app (if it hasn't already been installed for you) and to sign in.
 
 ### Install the app 
-1.	On your Windows 10 PC, make sure you have the Windows 10 Fall Creators Update 1709 or later installed (build 10.0.16299 or later).
+1.	On your Windows 10 PC, make sure you have the latest Windows 10 build (build 10.0.16299 or later).
 
-2.	Go to Start ![Start button)](media/windows-button.png "Start button") > Microsoft Store ![Store button)](media/store-button.png "Store button"), and then search for “Guides.”
+2.	Go to Start ![Start button)](media/windows-button.png "Start button") > Microsoft Store ![Store button)](media/store-button.png "Store button"), and then search for “Dynamics 365 Guides (Preview).”
 
-3.  Select the **Install** button to install Guides.
+3.  Select the **Install** button to download and install Guides.
 
 ### Sign in to the app
 1.	Open the Guides application from the **Start** menu on your PC. 
@@ -50,39 +50,13 @@ Use these instructions to install the app (if it hasn't already been installed f
     
 3.	In the **Sign in** dialog box, select **Work or school account**, and then select **Continue**. 
 
-4.	In the **Sign in** screen, enter the user account and password assigned to you by your organization. If you’re the administrator, these are the credentials you created when you signed up for the trial subscription.
+4.	In the **Sign in** screen, enter the user account and password assigned to you by your organization. If you’re the administrator, these are the credentials you created when you signed up for the preview.
 
     ![Sign-in to the PC app)](media/sign-in-pc.PNG "Sign in to the PC app")
  
 5.	Select the instance you want to use if there’s more than one instance, and then select **Continue**.
 
     ![Choose an instance)](media/choose-instance-pc.PNG "Choose an instance")
-
- 
-## Six steps to authoring in the PC application
-Always start the authoring process for a guide in the PC application. Use the PC application to:
-
-1.	Create the guide.
-
-2.	Choose an alignment method. 
-
-3.	Add the structure (the tasks).
-
-4.	Add the steps included in each task.
-
-5.	Write the short text for each step.
-
-6.	Assign assets to support the steps.
-
-## A note about saving in Guides
-
-The PC Authoring app and the HoloLens app are connected through the cloud, where your guide files and assets are stored. 
-When you author a guide, all changes are saved on both the PC and HoloLens. This makes it easy to switch between devices. 
-Autosave checks for changes every 4 seconds. 
-
-> [!IMPORTANT]
-> For this preview release, there are a few things to be aware of when syncing devices:<br>- As a best practice, always select **Refresh** before making edits on a guide when you switch between devices. This ensures that you have the latest version of that file from the other device.<br>- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC application, the guide  automatically refreshes on HoloLens. You might notice the refresh process.<br>- When you add text to the guide in the PC application, the auto publish only activates when you move the cursor outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, you’ll lose the text you created on the PC when 
-it updates with the changes from HoloLens. This issue will be addressed in our next release. 
 
 ## Create a new guide
 
@@ -92,6 +66,16 @@ it updates with the changes from HoloLens. This issue will be addressed in our n
 
 3.	Enter a name for the guide. If you’re planning to create multiple versions of the guide, you may want to add _v2, _v3, and 
 so on as part of the name. 
+
+## Do I need to save my work?
+
+The PC Authoring app and the HoloLens app are connected through the cloud, where your guide files and assets are stored. 
+When you author a guide, all changes are saved on both the PC and HoloLens. This makes it easy to switch between devices. 
+Autosave checks for changes every 4 seconds. 
+
+> [!IMPORTANT]
+> For this preview release, there are a few things to be aware of when syncing devices:<br>- As a best practice, always select **Refresh** before making edits on a guide when you switch between devices. This ensures that you have the latest version of that file from the other device.<br>- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC application, the guide  automatically refreshes on HoloLens. You might notice the refresh process.<br>- When you add text to the guide in the PC application, the auto publish only activates when you move the cursor outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, you’ll lose the text you created on the PC when 
+it updates with the changes from HoloLens. This issue will be addressed in our next release. 
 
 ## Choose an alignment method 
 
