@@ -81,7 +81,7 @@ If you're an administrator, and you want others in your organization to have acc
    
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
-After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Step 3: Install and configure Guides solution](#configure).
+After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Step 3: Install and configure the Guides solution](#configure).
 
 1.	Go to the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home).
 
@@ -95,7 +95,7 @@ After signing up for the preview, you’ll need to create an environment where y
 
     ![Users > Active Users screen)](media/users-active-users.PNG "Users > Active Users screen")
     
-5.  In the **Guides Account** screen, select the **Edit** button next to **Product license**.
+5.  In the **Guides Account** screen, select the **Edit** button next to **Product licenses**.
 
      ![Edit PowerApps plan)](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
@@ -105,15 +105,15 @@ After signing up for the preview, you’ll need to create an environment where y
     
 7.  Go to the [PowerApps Admin Center](https://preview.admin.powerapps.com/environments) and sign in with the user credentials created when you signed up for the preview.
 
-8.	In the PowerApps Admin Center, select the **New environment** button.
+8.	In the PowerApps Admin Center, select **New environment**.
 
     ![PowerApps Admin Center)](media/powerapps-environment.PNG "PowerApps Admin Center")
  
 9.	Fill in the following details for the environment:
 
-    -	**Environment Name:** Guides_*anyname*
+    -	**Environment name:** Guides_*anyname*
     -	**Region:** Don't change - **keep the default setting**
-    -	**Environment Type:** Set it to **Production**
+    -	**Environment type:** Set it to **Production**
   
         ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
     
@@ -123,7 +123,7 @@ After signing up for the preview, you’ll need to create an environment where y
 
     ![Environment created dialog box)](media/environment-created.PNG "Environment created dialog box")   
     
-12.	In the next pop-up, choose the currency and language and then clear the **Include sample apps and data** check box.
+12.	In the next pop-up, choose the currency and language, and then clear the **Include sample apps and data** check box.
 
     ![Currency and language settings)](media/currency-language-settings.PNG "Currency and language settings")
 
@@ -153,7 +153,7 @@ The Dynamics Admin Center will appear. This is where you can install the solutio
 
 In the Guides PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB). 
 
-1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and sign in with the user credentials you created when you signed up for the Guides trial. 
+1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and sign in with the user credentials you created when you signed up for the Guides preview. 
     
 2.	Select the newly created Guides instance from the list of instances, and then select the **Open** button as shown below: 
     
@@ -177,11 +177,11 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
     ![System settings in Dynamics 365)](media/system-settings.PNG "System settings in Dynamics 365")
   
-7.	In the **System Settings** page, select the **Email** tab, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
+7.	In the **System Settings** dialog box, select the **Email** tab, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
 
     ![System settings dialog box)](media/system-settings-dialog-box.PNG "System settings dialog box")
  
-8.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small Edit button next to **Solutions**.
+8.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small edit button next to **Solutions**.
 
     ![Solutions Edit button)](media/solutions-edit-button.PNG "Solutions Edit button")
  
@@ -229,12 +229,12 @@ In the Guides PC application, you can upload your own 3D files, as well as video
       ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
       
       > [!NOTE]
-      > Select the System Administrator role if this is the main user/admin. Otherwise, do not select the System Administrator role.
+      > Select the System Administrator role if this is the main user/admin. Otherwise, do not select that role.
  
      
 ## Step 4: Install the applications
 
-There are two guides applications: 
+There are two Guides applications: 
 
 - PC authoring application
 
@@ -245,7 +245,7 @@ You can install the apps from the Microsoft Store as described below.
 > [!NOTE]
 > If you can’t access the Microsoft Store due to company policies, please contact your administrator to distribute the app.
 
-If you use the Microsoft Store for Business, you can have users install the apps from your organization’s private store or from an email link that you send.
+If you use the Microsoft Store for Business to distribute your apps, you can have users install the apps from your organization’s private store or from an email link that you send. Instructions are provided below.
 
 ### Install the apps from the Microsoft Store
 
@@ -284,17 +284,17 @@ If you use the Microsoft Store for Business, you can have users install the apps
     
     - [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
-For information on opening and signing in to the PC application after installing it, see the [Authoring Guide](authoring-overview.md)
+For information on opening and signing in to the PC application after installing it, see the [Authoring guide](authoring-overview.md)
 
 For information on opening and signing in to the HoloLens application, go to one of the following, depending on whether you're an author or an operator:
 
    - [HoloLens authoring](hololens-authoring.md)
    
-   - [Guides Operating manual](operator-guide.md)
+   - [Operating manual](operator-guide.md)
    
 ## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
 
-You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides. You create user accounts in the Microsoft 365 Admin Center and then assign licenses to those users.
+You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Guides. You create user accounts in the Microsoft 365 Admin Center, and then assign licenses to those users.
 
 ### Add a user account
 
@@ -324,7 +324,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
     
       ![Product Licenses dialog box)](media/new-user-plans.PNG "Product Licenses dialog box")
  
-4.	Select **Save** when you’re done.
+4.	Select **Add** when you’re done.
 
 When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to Guides.
 
@@ -377,7 +377,7 @@ If you're an administrator, and you want others in your organization to have acc
       ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
       
       > [!NOTE]
-      > Select the System Administrator role if this is the main user/admin. Otherwise, do not select the System Administrator role.
+      > Select the System Administrator role if this is the main user/admin. Otherwise, do not that role.
 
 ### See also
 
