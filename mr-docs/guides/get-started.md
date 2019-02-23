@@ -37,11 +37,8 @@ The best way to learn Guides is by doing, so here are some tips on getting start
 
     - Put on your HoloLens, start the HoloLens app in Operator mode, and then select the Example Guide. Go through the guide step-by-step to learn about key features. 
 
-    - Edit the guide steps and assets using the PC authoring app or place instructions or holograms using the HoloLens app in Author mode.
+    - Edit the guide steps and assets using the PC authoring app or place instructions or holograms using the HoloLens app in Author mode. 
     
-    
-
-
 2.	Create your first guide from scratch, try it out, and analyze it!
 
      - Picking a scenario that works well for Guides is the first step. To create your first guide, find a simple step-by-step operation in a physical space that you have access to. We’ve created guides for operating a projector, pouring water into a glass, and making penguin olives! Or use a real-world workflow in your business. 
@@ -55,6 +52,33 @@ The best way to learn Guides is by doing, so here are some tips on getting start
 3.	Need Support?
 
 If you run across an issue, check out our [FAQ](faq.md) and [Known Issues](known-issues.md) topics. If that doesn’t help, please contact Support.
+
+## What makes a good guide?
+
+Here are some tips for selecting high-impact use cases to get the most out of Guides. 
+
+Focus on step-by-step procedures that:
+
+- Operators don't know by heart (complex and/or spatially demanding procedures that aren't routinely performed).
+
+- Require important support preparation (paper-based patterns, stickers, measures, and so on) that could be replaced with holographic instructions.
+
+- Don't require millimeter-level accuracy. HoloLens sensors are not calibrated to support that level of accuracy.
+
+- Take less than one hour to complete. If it takes longer than one hour, the operator could experience discomfort.
+
+Ask these questions when evaluating scenarios:
+
+1.	Is the procedure complex enough that it requires augmented work instructions? Think about things like how long it takes new operators to learn a task, how much time is spent deciphering schematics, cost of errors, and so on.
+
+2.	Can you convey the necessary information with centimeter-level accuracy? We can’t guarantee that holograms will maintain accuracy below 2 cm.
+
+3.	Does the procedure take less than an hour? 
+
+4.	Do operators need to be hands-free to complete the procedure?
+
+But get creative and experiment with how Guides can help your employees learn by doing. We love hearing about new ways that customers are using Guides! 
+
 
 ### See also
 
