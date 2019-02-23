@@ -51,7 +51,7 @@ The best way to learn Guides is by doing, so here are some tips on getting start
 
 3.	Need Support?
 
-If you run across an issue, check out our [FAQ](faq.md) and [Known Issues](known-issues.md) topics. If that doesn’t help, please contact Support.
+If you run across an issue, check out our [FAQ](faq.md) and [Known Issues](known-issues.md) topics. If that doesn’t help, please contact Support. You can find information on contacting support in the [FAQ](faq.md).
 
 ## What makes a good guide?
 
