@@ -62,7 +62,7 @@ To set up your reports:
 
     ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
 
-    You’ll be prompted to choose which files to download: 
+    You’ll be prompted to choose the files to download: 
 
      - **Guides Analytics Template.** You can configure this Power BI template file to display Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
    
@@ -74,7 +74,7 @@ To set up your reports:
   
 3.	Open the downloaded Guides Analytics Template.pbit file with Power BI Desktop. Use your Guides username and password if you’re prompted to sign in to Power BI.  
  
-4.	When prompted, paste the Instance URI into the text box as shown below. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in Step 1. 
+4.	When prompted, paste the Instance URI into the text box as shown below. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in step 1. 
 
      ![Guides Analytics template)](media/guides-analytics-template.PNG "Guides Analytics template")
  
@@ -95,7 +95,7 @@ To set up your reports:
  
 ### Open your reports 
 
-Once you have set up and saved the Guides Analytics Template on your computer, simply launch Power BI Desktop and open your saved report. Power BI Desktop has a **File – Open – Recent** items list that is convenient for finding your previously opened reports.  
+Once you have set up and saved the Guides Analytics Template on your computer, launch Power BI Desktop and open your saved report. Power BI Desktop has a **File – Open – Recent** items list that's convenient for finding your previously opened reports.  
 
 ## Take a tour of reports 
 
@@ -125,7 +125,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
     The bar chart of run counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage.  
 
-    **Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart and then select the **Drill Up** button in the upper right-hand corner of the chart.
+    **Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart, and then select the **Drill Up** button.
    
     ![Drill-up button)](media/drill-up-button.PNG "Drill-up-button")
   
@@ -139,8 +139,8 @@ The Guides Usage report provides an overview of all the guides used in your orga
  
     **Filter by Date.** Change the date range by using the Filter by Date slicer. Select the start or end date to set them manually, or move the slider.
    
->[!NOTE]
->The date filter is applied to all visuals and statistics in the report. 
+     >[!NOTE]
+     >The date filter is applied to all visuals and statistics in the report. 
 
 4.	What is the most frequently used guide? 
 
