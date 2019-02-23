@@ -36,6 +36,10 @@ chooses to distribute the app. Your admin may have you install the app from the
 [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers, from your organization’s private store, through
 an email link, or another method. 
 
+To install the Import Tool from the Microsoft Store for Consumers:
+
+- On your PC go to **Start** ![Start](media/windows-button.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/store-button.png "Microsoft Store"), search for “[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX).
+
 The following table describes the Import Tool, and how to install it from the Microsoft Store for Consumers:
 
 | **App**     | **Device**            | **Use to**                            | **To install from [!include[cc-microsoft](../includes/cc-microsoft.md)] store** |
