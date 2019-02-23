@@ -188,8 +188,7 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
    indicates both the step numbers (upper labels) and parent task labels (lower labels). Guide tasks and steps are organized 
    into a hierarchy. 
 
-    To change the view from the step level to the task level, first select the chart and then select the **Drill Up** button in 
-   the upper right-hand corner of the chart.  
+    To change the view from the step level to the task level, first select the chart and then select the **Drill Up** button.  
 
     ![Drill Up button)](media/drill-up-2.PNG "Drill Up button")
    
