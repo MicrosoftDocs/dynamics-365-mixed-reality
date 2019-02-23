@@ -303,7 +303,7 @@ In the Step card page, you write your instructional text and assign supporting a
 
 1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
 
-2. Drag the object to the appropriate box below the step text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit , drag it to one of the **3D parts** boxes. 
+2. Drag the object to the appropriate box below the instructional text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit , drag it to one of the **3D parts** boxes. 
 
    ![Create a step with the Step card)](media/create-step.PNG "Create a step with the step card")
 
@@ -330,11 +330,11 @@ When you view your guide on the HoloLens in Authoring mode, you’ll see all the
 
 - Adding numbered small steps inside a step can sometimes help, but don’t be afraid to create separate steps for easier reading.
 
-- When you’re done writing a step, be sure to click outside of the text box to activate autosave. 
+- When you’re done writing a step, be sure to move the cursor outside of the text box to activate autosave. 
 
 ### Import your own custom 3D objects to add to the 3D parts list
 
-You can import your own 3D objects to add to the **3D parts** list, and then assign parts to a step. 
+You can import your own custom 3D objects to add to the **3D parts** list, and then assign parts to a step. 
 
 To import your own 3D objects:
 
@@ -365,6 +365,8 @@ You add a 3D object from the 3D toolkit in the Step card page, and then place th
 To add an object from the 3D toolkit:
 
 1.	Select the **Library** tab.
+
+2. Select the **3D toolkit** tab.
 
 2.	Select the appropriate category of objects.
 
@@ -405,7 +407,7 @@ You can use any of the following keyboard shortcuts in the PC application:
 After you create your guide, select an alignment method, and create your tasks and steps, you’re ready to [test things out on the HoloLens in a real-world environment and place your holograms](hololens-authoring.md).
 
 > [!Important]
-> When working between PC and HoloLens be sure to select **Refresh** when starting work on a device to ensure you have the latest version of the guide. 
+> When working between PC and HoloLens, be sure to select **Refresh** when starting work on a device to ensure you have the latest version of the guide. 
 
 Don’t worry if your guide isn’t perfect before switching to HoloLens authoring. You can always go back to the PC application to edit and restructure your guide. In fact, we’ve found it’s generally a good idea to do a quick test of the flow on HoloLens, and then go back to the PC application to make changes before placing all your holograms in HoloLens.
 
