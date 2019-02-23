@@ -43,7 +43,7 @@ The best way to learn Guides is by doing, so here are some tips on getting start
 
      - Picking a scenario that works well for Guides is the first step. To create your first guide, find a simple step-by-step operation in a physical space that you have access to. We’ve created guides for operating a projector, pouring water into a glass, and making penguin olives! Or use a real-world workflow in your business. 
 
-     - Build your first guide using standard 3D assets. Create your tasks and steps in the PC app, and then move to the HoloLens to place the instructions and holograms in the physical space they relate to. Refer to the [Authoring](authoring-overview.md) and [Operating](operator-guide.md) topics for help. 
+     - Build your first guide using standard 3D assets. Create your tasks and steps in the PC app, and then move to the HoloLens app to place the instructions and holograms in the physical space they relate to. Refer to the [Authoring](authoring-overview.md) and [Operating](operator-guide.md) topics for help. 
 
      - After you’ve created your guide, try using it in Operate mode to see how it works. 
 
