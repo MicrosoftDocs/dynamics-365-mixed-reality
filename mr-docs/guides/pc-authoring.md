@@ -80,16 +80,8 @@ The PC Authoring app and the HoloLens app are connected through the cloud, where
 When you author a guide, all changes are saved on both the PC and HoloLens. This makes it easy to switch between devices. 
 Autosave checks for changes every 4 seconds. 
 
-For this preview release, there are a few things to be aware of when syncing devices:
-
-- As a best practice, always select **Refresh** before making edits on a guide when you switch between devices. This ensures that you 
-have the latest version of that file from the other device. 
-
-- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've 
-made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC application, the guide  
-automatically refreshes on HoloLens. You might notice the refresh process. 
-
-- When you add text to the guide in the PC application, the auto publish only activates when you click outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, you’ll lose the text you created on the PC when 
+> [!IMPORTANT]
+> For this preview release, there are a few things to be aware of when syncing devices:<br>- As a best practice, always select **Refresh** before making edits on a guide when you switch between devices. This ensures that you have the latest version of that file from the other device.<br>- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC application, the guide  automatically refreshes on HoloLens. You might notice the refresh process.<br>- When you add text to the guide in the PC application, the auto publish only activates when you click outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, you’ll lose the text you created on the PC when 
 it updates with the changes from HoloLens. This issue will be addressed in our next release. 
 
 ## Create a new guide
@@ -276,13 +268,14 @@ Very dark or very bright environments, or environments that include very reflect
 The best way to understand this is to adjust the device positioning while aligning holograms to their physical counterparts in Guides. Observe how the alignment of holograms is affected when you shift the device left and right, up and down, and when you slide the display forward and backward. Users should wear the device in a consistent way and understand that subtle shifts in device positioning may not feel different but can lead to significant changes to perceived hologram locations.
 
 ## Structure your guide in the Outline page
-After you choose an alignment method, you’ll see the Outline page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building block that everything is built around in Guides.
 
-When you open the Outline page for the first time, you’ll see that a single task and step is already created for you. 
+After you choose an alignment method, you see the Outline page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building blocks that everything is built around in Guides.
+
+When you open the Outline page for the first time, you’ll see that a single task and step are already created for you. 
 
 ![Create a task and step)](media/create-task.PNG "Create a task and step")
   
-To get started, enter a task name, and then start typing the instructions in the box for the first step. When you need to add a new step, select **Add step**. When you’re ready to add another task, select **Add task**. It’s that simple!
+To get started, enter a task name, and then start typing the instructions for the first step in the box. When you need to add a new step, select **Add step**. When you’re ready to add another task, select **Add task**. It’s that simple!
 
 In reality, you’ll probably create most of your steps from inside the Step card (see the next section), but the Outline page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the Outline page by dragging tasks and steps.
 
