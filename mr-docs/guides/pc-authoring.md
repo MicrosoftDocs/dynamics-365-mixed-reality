@@ -332,7 +332,7 @@ When you view your guide on the HoloLens in Authoring mode, you’ll see all the
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate autosave. 
 
-### Import your own custom 3D objects to add to the 3D parts list
+### Import your own custom 3D objects to add to the 3D parts list<a name="import"></a>
 
 You can import your own custom 3D objects to add to the **3D parts** list, and then assign parts to a step. 
 
