@@ -13,12 +13,16 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-The second major step in creating a guide in Microsoft Dynamics 365 Guides in preview takes place on the HoloLens application. In HoloLens Authoring mode, you:
+The second major step in authoring a guide in Microsoft Dynamics 365 Guides in preview takes place on the HoloLens application. In HoloLens Authoring mode, you:
 
 - Align your guide to a marker or a digital twin, depending on the type of alignment you chose in the PC application.
+
 - Test the flow of your guide.
-- Add holographic tethers to visually tie your steps to physical objects in the real world.
+
 - Place your holographic 3D content in their relevant spaces in the real world.
+
+- Add holographic tethers to visually tie your steps to physical objects in the real world.
+
 - Add styles (optional) to 3D content to add treatments such as a warning or caution.
 
   ![Test your guide)](media/test-guide.PNG "Test your guide")
@@ -31,7 +35,7 @@ To install the HoloLens app:
 
 1.	Make sure you have HoloLens build 10.0.14393.0 or later installed on your HoloLens. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
-2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the Home menu, and then open the Microsoft Store app and search for “Guides”.
+2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the Home menu, and then open the Microsoft Store app and search for “Dynamics 365 Guides (Preview)”.
 
 3.	Select **Install** to download and install the Guides application.
 
@@ -73,9 +77,6 @@ To determine which version of the operating system you’re using on HoloLens:
  
 3.	Air tap **About**.
  
-> [!TIP]
-> You can save time by setting your IPD with the Windows Device Portal instead of calibrating each time you switch users. For more information, see [Use the Windows Device Portal to store your IPDs](windows-device-portal.md). 
-
 ### Open and sign in to HoloLens for the first time
 After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
 1.	Go to **All Apps**.
@@ -151,7 +152,7 @@ Here’s what each button or UI element is used for:
 |![Profile button)](media/profile-button.png "Profile button")|Profile|Sign in and out.|
 |![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- **Noise Cancellation**. If the environment is very noisy, this setting adjusts sensitivity to voice commands so the operator doesn't have to shout.</br><br>- **Dynamic Volume**. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- **Build number**. Shows the build you’re using.|
 |![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
-|![Pin button)](media/pin-button.png "Pin button")|Pin|Lock the step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
+|![Pin button)](media/pin-button.png "Pin button")|Pin|Lock the Step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the Step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
 |![Outline button)](media/outline-button.png "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
 |![Task progress)](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 |![Media button)](media/media-button.png "Media button")|Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
@@ -173,6 +174,7 @@ The 3D assets associated with each step appear below the Step card in *the bin*:
 ### Place a 3D part 
 
 1. In the bin, air tap the 3D part that you want to place.
+
 2. Use gaze and gestures to place the 3D part hologram over its counterpart in the physical world. For information on manipulating holograms with gaze and gestures, see the next section.
 
 ### Place a 3D model from the 3D toolkit
@@ -180,6 +182,7 @@ The 3D assets associated with each step appear below the Step card in *the bin*:
 You can place a 3D model from the 3D toolkit in the same way you place a 3D part if you added that 3D model to the bin in the PC application. If you didn't add the 3D model in the PC application, you can do it directly from the HoloLens app: 
 
 1.	Air tap an empty box in the bin (under **3D parts**).
+
 2.	Air tap a category (an arrow or hand, for example), and then air tap the specific 3D model you want to add.
 
     ![Air tap a category)](media/airtap-category.PNG "Airtap a category")
@@ -189,12 +192,19 @@ You can place a 3D model from the 3D toolkit in the same way you place a 3D part
     ![3D object in bin)](media/object-in-bin.PNG "3D object in bin")
 
 ### Manipulating holograms
+
 To place a hologram from one of your bins:
+
 1.	Air tap a 3D asset to add it to your real world. It will appear in your world in front of the Step card.
+
 2.	Raise your hand to the ready gesture and gaze at the 3D asset to select it. You can tell if it’s selected if the 3D selection sphere appears around it.
+
 3.	Once the object is selected, air tap + hold anywhere on the selection sphere to pick up the 3D asset.
+
 4.	Do one of the following to move the hologram:
+
     - To move it larger distances in any direction, move your hand quickly in the direction you want. By default, the hologram will move approximately the same distance your hand moves from the starting point of where you “grabbed” the hologram to where you stop. 
+    
     - To make more precise adjustments, move your hand slowly or keep it stationary to enter precision mode. This slows down the movement speed so you can nudge the hologram where you want it.
 
 >[!Tip]  
@@ -204,12 +214,17 @@ To place a hologram from one of your bins:
 
  
 #### Rotate a hologram
+
 It’s unlikely an asset will be at the correct orientation when you initially place or move it. Use the rotation adjustment knobs to rotate it the way you want.
 
 To rotate a hologram:
+
 - Air tap and hold on a rotation adjustment, and then do one of the following:
+
   - Use the up/down knob to rotate vertically.
+  
   - Use the left/right knob to rotate horizontally.
+  
   - Use the free-hand knob to rotate in any direction.
 
 >[!Tip]
@@ -224,9 +239,13 @@ The following graphic shows how to use the different rotation knobs:
 > To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. 
 
 ### Best practices for working with 3D content
+
 - Make sure that the 3D content is not in the way of the operator doing the task. 
-- Keep the field of view in mind when placing assets. If you put a hologram behind someone, it will be very hard to find. 
+
+- Keep the field of view in mind when placing assets. If you put a hologram behind someone, it will be very hard to find.
+
 - Use 3D content sparingly and with a clear goal. Too much content can clutter the instructions and make it harder to follow.
+
 - Remember that you can attach a tether to 3D content to make it more discoverable. See the next section to learn about tethers.
 
 ## Place tethers
@@ -235,13 +254,16 @@ You’ll typically place a tether for each Step card when you place your hologra
 ![Holographic tether)](media/hographic-tether.PNG "Holographic tether")
 
 To place a tether:
+
 1.	Tap and hold the “tether ball” below the Step card.
+
 2.	Place it in the real-world location that you want.
 
     ![Place a tether)](media/place-tether.PNG "Place a tether")
 
 ### Best practices for tethers
-- Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3d toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
+
+- Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3D toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
 
 ## Add styles for emphasis
 Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
@@ -250,7 +272,9 @@ Use styles to provide visual cues for extra emphasis. For example, add the Warni
 > At this time, you can’t add styles from the PC application. They exist only in HoloLens. 
 
 To place a style:
+
 1.	Air tap a hologram you’ve already placed in the real world to select it.
+
 2.	Air tap the **Edit Hologram** (. . .) button.
 
     ![Edit hologram button)](media/edit-hologram-button.PNG "Edit hologram button")
@@ -280,7 +304,9 @@ Here’s a list of styles included in Guides and when to use each:
 ![All styles)](media/all-styles.PNG "All styles")
  
 ### Best practices for styles
+
 - Use styles to reinforce actions.
+
 - Use styles only for the purpose they were intended. When operators learn the visual language of styles, they’ll know that a particular style means a certain thing, which will speed up the learning process. 
 
 ## What's next?
@@ -291,11 +317,10 @@ To learn more about Guides, here are some helpful links:
 - [Analyze your guides to improve efficiences](analytics-guide.md)
 - [FAQ](faq.md)
 
-To learn more about Microsoft mixed reality apps and HoloLens, here are some helpful links: 
+To learn more about Microsoft mixed reality apps and HoloLens, use the following links: 
 
 - [What is mixed reality](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)?
 - [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
 - [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/)
 - [Connect to Wi-Fi on HoloLens](https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens)
 - [Calibrate your HoloLens](https://docs.microsoft.com/en-us/windows/mixed-reality/calibration)
-- [Using the Windows Device Portal](https://docs.microsoft.com/en-us/windows/mixed-reality/using-the-windows-device-portal)
