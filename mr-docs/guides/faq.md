@@ -13,6 +13,16 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
+## How do I contact Support?
+
+If you're not able to use Guides or if you have issues that aren't answered in this FAQ or in the documentation, please contact Customer Support using the following steps:
+
+1. Go to [https://dynamics.microsoft.com/en-us/support/](https://dynamics.microsoft.com/en-us/support/).
+
+2. Select **Customer Engagement help + support**.
+
+3. Use the provided phone number or submit a support request through the Admin Center. 
+
 ## Why do I have to download two apps?
 
 Microsoft Dynamics 365 Guides in preview includes two applications:
