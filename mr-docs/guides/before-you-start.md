@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Before you get started with Microsoft Dynamics 365 Guides in preview authoring, you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
+Before you start authoring in Microsoft Dynamics 365 Guides in preview, you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
 
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 
 (if you have any) and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
@@ -36,12 +36,14 @@ both for the quality of the experience and performance. It’s best to use high-
 assets for high-level principles where details aren’t as important.
 
 ### Best practices for pictures (images)
-- Images are best for quick reference, validation, or special techniques.
-- Pictures are a great and inexpensive way to orient an operator, so use lots of them.
-- When taking pictures, make sure to take a picture of the whole object for overall context, as well as close-up pictures for precision.
-- When taking pictures, also keep in mind the perspective of the operator. It’s helpful to take the picture from the same angle 
-that the operator will use. 
-- Pictures are very efficient for identifying specific patterns, shapes, or colors.
+- Pictures are:
+  - Best for quick reference, validation, or special techniques
+  - A great and inexpensive way to orient an operator, so use lots of them. 
+  - Are very efficient for identifying specific patterns, shapes, or colors.
+- When you take a picture:
+  - Make sure to take a picture of the whole object for overall context, as well as a close-up for precision.
+  - Keep in mind the perspective of the operator. It’s helpful to take the picture from the same angle 
+that the operator will use.
 - For performance reasons, don’t use 4K/HD quality pictures. **Total image size shouldn’t exceed 100 KB.**
 
 ### Best practices for videos
