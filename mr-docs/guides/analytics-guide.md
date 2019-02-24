@@ -1,5 +1,5 @@
 ---
-author: Cydney Nielsen
+author: BryceHo
 description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides in preview to improve process efficiencies.
 ms.author: cynielse
 ms.date: 02/24/2019
