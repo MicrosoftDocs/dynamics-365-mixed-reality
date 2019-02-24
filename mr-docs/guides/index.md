@@ -1,5 +1,5 @@
 ---
-author: anhaman
+author: Anja Haman
 description: Overview of Dynamics 365 Guides in preview
 ms.author: anhaman
 ms.date: 02/24/2019
