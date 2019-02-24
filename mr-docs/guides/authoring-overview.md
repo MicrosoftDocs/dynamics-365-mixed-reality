@@ -1,5 +1,5 @@
 ---
-author: Margarita Maylyan
+author: BryceHo
 description: Overview of authoring in Dynamics 365 Guides in preview, including PC authoring and HoloLens authoring
 ms.author: mamaylya
 ms.date: 02/24/2019
