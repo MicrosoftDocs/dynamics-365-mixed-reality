@@ -47,9 +47,9 @@ The following table lists technical requirements for deploying and using Guides 
 
 You need a Dynamics 365 Guides (Preview) license for each user who will use the Guides app. For more information, [see the Setup topic](setup.md).
 
-## Is Dynamics 365 for Field Service functionality available in Guides?
+## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
 
-Guides does not have this functionality. Integration with Dynamics for Field Service is coming in fall 2019. 
+Target availability date for this functionality is fall 2019.
 
 ## I get an error message when I try to sign in to the PC app or HoloLens app
 
