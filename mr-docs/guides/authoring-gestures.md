@@ -1,5 +1,5 @@
 ---
-author: anhaman
+author: BryceHo
 description: Gestures you can use to author and navigate a guide in Dynamics 365 Guides in preview, including gaze, bloom, and air tap.
 ms.author: anhaman
 ms.date: 02/24/2019
