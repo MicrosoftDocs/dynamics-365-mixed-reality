@@ -1,5 +1,5 @@
 ---
-author: Margarita Maylyan
+author: BryceHo
 description: Things to keep in mind before you start authoring in Dynamics 365 Guides in preview, including media and file naming.
 ms.author: mamaylya
 ms.date: 02/24/2019
