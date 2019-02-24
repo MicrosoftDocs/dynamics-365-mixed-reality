@@ -1,5 +1,5 @@
 ---
-author: Mahesh Kamat
+author: BryceHo
 description: Known Issues with Dynamics 365 Guides in preview
 ms.author: makamat
 ms.date: 02/24/2019
