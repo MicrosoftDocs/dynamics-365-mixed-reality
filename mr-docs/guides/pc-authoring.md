@@ -1,5 +1,5 @@
 ---
-author: Margarita Maylyan
+author: BryceHo
 description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides in preview.
 ms.author: mamaylya
 ms.date: 02/24/2019
