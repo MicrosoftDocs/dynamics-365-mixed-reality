@@ -21,25 +21,15 @@ To get started with Guides, you need to:
 
 2.	Create a Common Data Service (CDS) environment, if you don't already have one.
 
-3.  Install the Guides solution.
+3. Install the Guides solution.
 
 4.	Download and install the Guides apps on a Windows 10 PC and Microsoft HoloLens.
 
-5.  Add additional user accounts (optional).
+5. Add additional user accounts (optional).
 
 This topic provides step-by-step instructions for all of the above.
 
 ## Step 1: Sign up for the preview
-
-When you sign up for the preview, you’ll get access for up to 25 users. 
-
-You can sign up in either of the following ways:
-
-- Sign up through the Guides Getting Started page as described below.  
-  
-- If you're an admin in the organization, sign up through the Microsoft Admin Center. Step-by-step instructions for signing up through the Microsoft Admin Center are provided below.
-
-### Sign up through the Guides Getting Started page
 
 1.	Go to [the Guides Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview.
 
@@ -47,37 +37,6 @@ You can sign up in either of the following ways:
     > We recommend creating user credentials for the preview even if you have an existing work account. If you're not an admin in the organization, you won't be able to complete Steps 2 and 3. Also, when asked to enter a domain name, don't use your normal work domain. Create a new domain in the form: **guides*YourCompanyName***.
 
 2.	After signing up, if you want to add users, see [Step 5: Add additional user accounts](#user-accounts).
-
-### Sign up through the Microsoft 365 Admin Center.
-
-1.	Go to [https://portal.office.com/AdminPortal/Home#/catalog](https://portal.office.com/AdminPortal/Home#/catalog).
-
-2.	Sign in using your company's admin account. If you don't know who your admin is, contact the IT helpdesk at your company to find out. [Get more advice on admin accounts](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252fen-us%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide).
-
-3.	Under **Billing**, in the left navigation, select **Purchase services**.
-
-4.	Scroll down to the **Other plans** section.
-
-5.	Find the product card for Dynamics 365 Guides (Preview).
-
-6.	On the product card, select **Start free trial**, and then follow the instructions.
-
-7.	If you want to add additional users, assign licenses as described in the next procedure.
-
-#### Assign licenses for additional users (optional)<a name="licenses"></a>
-
-If you're an administrator, and you want others in your organization to have access to Guides, you’ll need to assign users in the Microsoft 365 Admin Center. Each user you add will need an Azure Active Directory (Azure AD) account.
-
-1.	In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users.**
-
-2.	Select the users you'd like to assign, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**.
- 
-3.	In the **Add to existing products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
- 
-4.	Select the licenses you want to enable for the selected users, and then select **Add**.
-
-   > [!NOTE]
-   > If you didn't assign user accounts before adding licenses, you’ll need to do so as described in [Step 5: Add additional user accounts](#user-accounts). 
    
 ## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
 
