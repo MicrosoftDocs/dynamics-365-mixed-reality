@@ -1,7 +1,7 @@
 ---
 author: Margarita Maylyan
 description: Test and place holograms using the HoloLens application in Author mode (Dynamics 365 Guides in preview)
-ms.author: Margarita Maylyan
+ms.author: mamaylya
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
