@@ -1,7 +1,7 @@
 ---
 author: Mahesh Kamat
 description: FAQ about Dynamics 365 Guides in preview
-ms.author: Mahesh Kamat
+ms.author: makamat
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
