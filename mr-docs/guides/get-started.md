@@ -1,5 +1,5 @@
 ---
-author: Anja Haman
+author: BryceHo
 description: Understand the building blocks of Dynamics 365 Guides in preview
 ms.author: anhaman
 ms.date: 02/24/2019
