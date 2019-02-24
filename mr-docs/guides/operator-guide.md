@@ -1,7 +1,7 @@
 ---
-author: BryceHo
+author: Margarita Maylyan
 description: Everything you need to know about using a guide created with Dynamics 365 Guides in preview, including calibration, gaze and gestures, and installing and using the HoloLens app.
-ms.author: anhaman
+ms.author: Margarita Maylyan
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
