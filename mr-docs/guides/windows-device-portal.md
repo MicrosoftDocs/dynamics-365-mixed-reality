@@ -1,7 +1,7 @@
 ---
-author: BryceHo
+author: Margarita Maylyan
 description: How to use the Windows Device Portal to speed up HoloLens calibration when working with Dynamics 365 Guides Preview
-ms.author: anhaman
+ms.author: Margarita Maylyan
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
