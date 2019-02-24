@@ -1,7 +1,7 @@
 ---
-author: anhaman
+author: Margarita Maylyan
 description: Everything you need to know about signing up for Dynamics 365 Guides in preview, configuring the solution, and installing the apps.
-ms.author: anhaman
+ms.author: Margarita Maylyan
 ms.date: 02/24/2019
 ms.service: crm-online
 ms.topic: article
