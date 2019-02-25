@@ -1,7 +1,6 @@
 
 
-# MICROSOFT SOFTWARE LICENSE TERMS
-# MICROSOFT DYNAMICS 365 IMPORT TOOL (PREVIEW-FREE TRIAL) 
+# MICROSOFT SOFTWARE LICENSE TERMSF<br>MICROSOFT DYNAMICS 365 IMPORT TOOL (PREVIEW-FREE TRIAL) 
 
 These license terms are an agreement between you and Microsoft Corporation (or one of its affiliates). They apply to the 
 software named above and any Microsoft services or software updates (except to the extent such services or updates are accompanied by new or additional terms, in which case those different terms apply prospectively and do not alter your or Microsoft’s rights relating to pre-updated software or services). IF YOU COMPLY WITH THESE LICENSE TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
