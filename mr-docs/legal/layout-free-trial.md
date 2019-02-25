@@ -1,7 +1,6 @@
 
 
-# MICROSOFT SOFTWARE LICENSE TERMS
-# MICROSOFT DYNAMICS 365 LAYOUT (FREE TRIAL)
+# MICROSOFT SOFTWARE LICENSE TERMS<br># MICROSOFT DYNAMICS 365 LAYOUT (FREE TRIAL)
 
 These license terms are an agreement between you and Microsoft Corporation (or one of its affiliates). They apply 
 to the software named above and any Microsoft services or software updates (except to the extent such services or 
