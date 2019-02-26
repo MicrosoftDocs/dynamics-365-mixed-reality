@@ -107,9 +107,9 @@ Export again as FBX and use the [!include[pn-import-tool](../includes/pn-import-
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
-**If I built my layout on my laptop, how can I share it with others remotely?**
+**If I build my layout on my laptop, can I share it with others remotely?**
 
-Although the Import Tool doesn't allow you to share the layout directly through the application at this time, you can copy the layout file and then use another tool, such as OneDrive, Microsoft Teams, or email to share the file. 
+Yes. Although the Import Tool doesn't allow you to share the layout directly through the application at this time, you can copy the layout file and then use another tool, such as OneDrive, Microsoft Teams, or email to share the file. 
 
 To share the file:
 
