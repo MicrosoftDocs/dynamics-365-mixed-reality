@@ -107,6 +107,27 @@ Export again as FBX and use the [!include[pn-import-tool](../includes/pn-import-
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
+**If I built my layout on my laptop, how can I share it with others remotely?
+
+Although the Import Tool doesn't allow you to share the layout directly through the application at this time, you can copy the layout file and then use another tool, such as OneDrive, Microsoft Teams, or email to share the file. 
+
+To share the file:
+
+1.	Go to the **Layouts** tab in the Import Tool.
+
+2.	Right-click the layout you want to share, and then select **Open file location**.
+
+3.	Select the layout file (.mslt extension) and share it by using any tool supported by your organization.
+
+To import the file:
+
+1.	After receiving the file, add it in the **Microsoft Layout** folder (usually at c:\Users\<Username>\3D Objects\Microsoft Layout).
+
+    The Import Tool will detect the files automatically and display them in the gallery.
+
+3.	You can now perform all supported operations on the layout file through the Import Tool.
+
+
 ### See also
 [Overview of Layout](index.md)<br/>
 [Device options and technical requirements](requirements.md)<br/>
