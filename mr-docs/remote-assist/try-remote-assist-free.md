@@ -11,10 +11,7 @@ ms.reviewer: v-brycho
 
 # Try Dynamics 365 Remote Assist for free
 
-You can try Microsoft Dynamics 365 Remote Assist for free for up to 90 days. Starting a free 90-day trial is nearly effortless. Just install the Remote Assist app from the Microsoft Store, sign in with an Azure Active Directory (AAD) account, and then start using the app without any obligation or restrictions. If you don't already have an AAD account, the app will prompt you to create a free account.
-
-> [!NOTE]
-> With Remote Assist, the user on Microsoft HoloLens consults with an expert using Microsoft Teams, so the free trial also includes a Teams license.
+You can try Microsoft Dynamics 365 Remote Assist for free for up to 90 days. Starting a free 90-day trial is nearly effortless. Just install the Remote Assist app from the Microsoft Store, sign in with an Azure Active Directory (AAD) account, and then start using the app without any obligation or restrictions. If you don't already have an AAD account and a Microsoft Teams account (also required for Remote Assist), the app will prompt you to create free accounts.
 
 ## Install Remote Assist and try it out for free
 
