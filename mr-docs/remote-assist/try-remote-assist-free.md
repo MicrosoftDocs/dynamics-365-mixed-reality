@@ -29,6 +29,6 @@ With Remote Assist, the user on Microsoft HoloLens consults with an expert using
 
 ### See also
 
-[Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md)
-[Set up Microsoft Teams to work with Remote Assist](use-microsoft-teams-with-remote-assist.md)
+[Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md)<br>
+[Set up Microsoft Teams to work with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br>
 [Remote Assist User Guide](user-guide.md)
