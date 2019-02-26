@@ -109,7 +109,7 @@ Still need help? Try our [user forums](https://community.dynamics.com/365/layout
 
 **If I build my layout on my laptop, can I share it with others remotely?**
 
-You can't share the layout directly from the Import Tool at this time, but you can copy the layout file and then use another tool, such as OneDrive, Microsoft Teams, or email to share it. 
+You can't share the layout directly from the Import Tool at this time, but you can copy the layout file, and then use another tool, such as OneDrive, Microsoft Teams, or email to share it. 
 
 To share the file:
 
