@@ -23,8 +23,12 @@ With Remote Assist, the user on Microsoft HoloLens consults with an expert using
 
 3. Download and install the Remote Assist app.
 
-4. Start the app, and then sign in with an AAD account. If you don't already have an AAD account and/or a Teams account, the app will prompt you to create free accounts. Or you can [sign up for a free AAD account at this website](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
+4. Start the app, and then sign in with an AAD account. If you don't already have an AAD account and a Teams account, the app will prompt you to create your free accounts. Or you can [sign up at this website](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
+
+5. The expert signs in on Microsoft Teams. If the expert needs to create a free Teams account, they can [sign up a this website](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### See also
 
 [Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md)
+[Set up Microsoft Teams to work with Remote Assist](use-microsoft-teams-with-remote-assist.md)
+[Remote Assist User Guide](user-guide.md)
