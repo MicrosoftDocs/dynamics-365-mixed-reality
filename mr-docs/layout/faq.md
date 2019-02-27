@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 01/16/2019
+ms.date: 02/27/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
@@ -106,6 +106,27 @@ model as FBX from AutoCAD, and then define the textures in Blender or 3DS Max.
 Export again as FBX and use the [!include[pn-import-tool](../includes/pn-import-tool.md)] cloud option.
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
+
+**If I build my layout on my laptop, can I share it with others remotely?**
+
+You can't share the layout directly from the Import Tool at this time, but you can copy the layout file, and then use another tool, such as OneDrive, Microsoft Teams, or email to share it. 
+
+To share the file:
+
+1.	Go to the **Layouts** tab in the Import Tool.
+
+2.	Right-click the layout you want to share, and then select **Open file location**.
+
+3.	Select the layout file (.mslt extension) and share it by using any tool supported by your organization.
+
+To import the file:
+
+1.	After receiving the file, add it in the **Microsoft Layout** folder (usually at c:\Users\Username\3D Objects\Microsoft Layout).
+
+    The Import Tool will detect the files automatically and display them in the gallery.
+
+3.	You can now perform all supported operations on the layout file through the Import Tool.
+
 
 ### See also
 [Overview of Layout](index.md)<br/>
