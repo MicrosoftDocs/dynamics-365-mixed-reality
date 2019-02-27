@@ -22,7 +22,7 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
 
 -   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
     - Calling us at 1-888-477-7989, or
-    - Requesting to be contacted at http://aka.ms/getmixedreality/.
+    - Requesting to be contacted at  http://aka.ms/getLayout/.
     
 -   Through the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home#/catalog). Step-by-step instructions for logging in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided below.
 
