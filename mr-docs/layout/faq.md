@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 01/16/2019
+ms.date: 02/27/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
