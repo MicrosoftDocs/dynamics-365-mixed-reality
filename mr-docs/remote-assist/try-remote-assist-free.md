@@ -11,7 +11,9 @@ ms.reviewer: v-brycho
 
 # Try Dynamics 365 Remote Assist for free
 
-You can try Microsoft Dynamics 365 Remote Assist for free for up to 90 days. Starting a free 90-day trial is nearly effortless. Just install the Remote Assist app from the Microsoft Store, sign in with an Azure Active Directory (AAD) account, and then start using the app without any obligation or restrictions. If you don't already have an AAD account and a Microsoft Teams account (also required for Remote Assist), the app will prompt you to create free accounts.
+You can try Microsoft Dynamics 365 Remote Assist for free for up to 90 days. Starting a free 90-day trial is nearly effortless. Just install the Remote Assist app from the Microsoft Store, and then sign in to Microsoft Teams using your Azure Active directory (Azure AD) credntials. If you don't already have a Teasm account and an Azure AD account, the app helps you set them up for free.
+
+After you're signed in, you can access any and all features and capabilities in the app without any restrictions. 
 
 ## Install Remote Assist and try it out for free
 
@@ -21,12 +23,11 @@ You can try Microsoft Dynamics 365 Remote Assist for free for up to 90 days. Sta
 
 3. Download and install the Remote Assist app.
 
-4. Start the app, and then sign in with an AAD account. If you don't already have an AAD account and a Teams account, the app will prompt you to create your free accounts. Or you can [sign up at this website](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
-
-5. The expert signs in on Microsoft Teams. If the expert needs to create a free Teams account, they can [sign up a this website](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
+4. Start the app, and then sign in to Teams with your Azure AD credentials. If you don't already have a Teams account and an Azure AD account, the app will prompt you to create free accounts. Or you can [go to this website to sign up for your Teams and Azure AD accounts](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### See also
 
+[Terms and conditions for free trial](../legal/remote-assist-license-terms-free-trial.md)
 [Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md)<br>
-[Set up Microsoft Teams to work with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br>
+[Overview of Remote Assist](overview.md)<br>
 [Remote Assist User Guide](user-guide.md)
