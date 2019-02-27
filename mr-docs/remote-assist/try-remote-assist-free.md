@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Try Dynamics 365 Remote Assist for free
 
-You can try Microsoft Dynamics 365 Remote Assist for free for up to 90 days. Starting a free 90-day trial is nearly effortless. Just install the Remote Assist app from the Microsoft Store, and then sign in to Microsoft Teams using your Azure Active directory (Azure AD) credentials. If you don't already have a Teasm account and an Azure AD account, the app helps you set them up for free.
+You can try Microsoft Dynamics 365 Remote Assist for free for up to 90 days. Starting a free 90-day trial is nearly effortless. Just install the Remote Assist app from the Microsoft Store, and then sign in to Microsoft Teams using your Azure Active directory (Azure AD) credentials. If you don't already have a Teams account and an Azure AD account, the app helps you set them up for free.
 
 After you're signed in, you can access any and all features and capabilities in the app without any restrictions. 
 
