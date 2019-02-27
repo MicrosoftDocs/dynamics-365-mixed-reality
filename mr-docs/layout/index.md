@@ -17,7 +17,8 @@ Bring physical designs from concept to completion with confidence. Import 3D mod
 
 ### See also
 [Device options and technical requirements](requirements.md)<br/>
-[Try or buy, and deploy](../licensing/buy-and-deploy.md)<br/>
+[Try Layout for free](try-layout-free.md)<br/>
+[Buy and deploy Layout](buy-and-deploy-layout.md)<br>
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
 [FAQ](faq.md)<br/>
