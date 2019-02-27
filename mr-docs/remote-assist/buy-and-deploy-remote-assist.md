@@ -54,7 +54,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
 7. To subscribe, select **Buy now**.
 
    > [!NOTE]
-   > If you're not ready to buy yet, you can sign up for a free 30-day trial by selecting **Start free trial**. Then if you want to add users to the trial, follow the directions below. Or consider [signing up for an effortless 90-day trial instead](try-remote-assist-free.md). 
+   > If you're not ready to buy yet, you can sign up for a free 30-day trial by selecting **Start free trial**. Then if you want to add users to the trial, follow the directions below. When you sign up for a 30-day trial, you get a free Teams license for your organization. Or consider [signing up for a 90-day trial instead](try-remote-assist-free.md). With the 90-day trial, you don't get a Teams license for your organization, but you can sign up for a free Teams account.
    
 8. Assign licenses to users as described in the next procedure.
 
