@@ -23,7 +23,7 @@ After you're signed in, you can access any and all features and capabilities in 
 
 3. Download and install the Remote Assist app.
 
-4. Start the app, and then sign in to Teams with your Azure AD credentials. If you don't already have a Teams account and an Azure AD account, the app will prompt you to create free accounts. Or you can [go to this website to sign up for your Teams and Azure AD accounts](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
+4. Start the app, and then sign in to Teams with your Azure AD credentials. If you don't already have a Teams account and an Azure AD account, the app will prompt you to create free accounts. Or you can [go to this website to sign up for your free Teams and Azure AD accounts](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### See also
 
