@@ -52,7 +52,7 @@ more.
 ### See also
 [Overview of Remote Assist](index.md)<br/>
 [Try Remote Assist for free](try-remote-assist-free.md)<br/>
-[Buy and deploy Remote Assist](buy-and-deploye-remote-assist.md)<br>
+[Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md)<br>
 [User Guide](user-guide.md)<br/>
 [Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)<br/>
