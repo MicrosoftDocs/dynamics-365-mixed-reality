@@ -121,7 +121,7 @@ To share the file:
 
 To import the file:
 
-1.	After receiving the file, add it in the **Microsoft Layout** folder (usually at c:\Users\<Username>\3D Objects\Microsoft Layout).
+1.	After receiving the file, add it in the **Microsoft Layout** folder (usually at c:\Users\Username\3D Objects\Microsoft Layout).
 
     The Import Tool will detect the files automatically and display them in the gallery.
 
