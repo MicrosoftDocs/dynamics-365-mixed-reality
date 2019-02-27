@@ -18,7 +18,7 @@ Empower technicians to solve problems faster the first time. With heads-up, hand
 ### See also
 [Requirements](requirements.md)<br/>
 [Try Remote Assist for free](try-remote-assist-free.md)<br/>
-[Buy and deploy Remote Assist](bu-and-deploy-remote-assist.md)<br>
+[Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md)<br>
 [User Guide](user-guide.md)<br/>
 [Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
 [FAQ](faq.md)<br/>
