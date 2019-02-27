@@ -72,7 +72,7 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
 
    ![Edit product licenses](../media/EditLicenses.PNG "Edit product licenses")
    
-3. In the **Add to existing products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
+3. In the **Assign products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
 
    ![Add to existing product licenses](../media/AddProductLicenses.png "Add to existing product licenses")
    
