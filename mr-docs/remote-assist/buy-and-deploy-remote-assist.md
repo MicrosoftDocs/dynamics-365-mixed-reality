@@ -38,6 +38,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
 1. Go to https://portal.office.com/AdminPortal/Home#/catalog.
 
    ![Admin center](../media/AdminCenter.png "Admin Center")
+   ![Admin center](../media/AdminCenter.png "Admin Center")
 
 2. Log in under your company's admin account.
 
