@@ -52,8 +52,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
 6. Find the product card for Remote Assist.
 
    ![Remote Assist product card](../media/remote-assist-card.PNG "Remote Assist product card")
-   ![Edit product licenses](../media/remote-assist-card.PNG "Edit product licenses")
-        
+           
 7. To subscribe, select **Buy now**.
 
    > [!NOTE]
