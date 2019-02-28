@@ -48,12 +48,12 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
    
 6. Find the product card for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-   ![Remote Assist product card](../media/ProductCard.PNG "Find Remote Assist product card")
+   ![Layout product card](../media/ProductCard.PNG "Layout product card")
    
 7. To subscribe, select **Buy now**.
 
    > [!NOTE]
-   > If you're not ready to buy yet, you can sign up for a free 30-day trial by selecting **Start free trial**. Then if you want to add users to the trial, follow the directions below. Or consider [signing up for an effortless 90-day trial instead](try-layout-free.md). 
+   > If you're not ready to buy yet, you can sign up for a free 30-day trial on your organization's tenant by selecting **Start free trial**.  
    
 8. Assign licenses to users as described in the next procedure.
 
