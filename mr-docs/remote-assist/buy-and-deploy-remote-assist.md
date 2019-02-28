@@ -51,7 +51,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
    
 6. Find the product card for Remote Assist.
 
-   ![Remote Assist product card](../media/remote-assist-product-card.PNG "Remote Assist product card")
+   ![Remote Assist product card](../media/remote-assist-card.PNG "Remote Assist product card")
      
 7. To subscribe, select **Buy now**.
 
@@ -80,6 +80,8 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
    ![Add to existing product licenses](../media/AddProductLicenses.png "Add to existing product licenses")
    
 4. Select the licenses you want to enable for the selected users, and then select **Add**.
+
+   ![Select licenses](../media/licenses.PNG "Select licenses")
 
 ## Make the Remote Assist app available to your users
 
