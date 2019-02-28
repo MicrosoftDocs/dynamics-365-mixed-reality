@@ -50,11 +50,13 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
    ![Other plans](../media/OtherPlans.PNG "Select Other plans")
    
 6. Find the product card for Remote Assist.
+
+   ![Remote Assist product card](../media/remote-assist-product-card.PNG "Remote Assist product card")
      
 7. To subscribe, select **Buy now**.
 
    > [!NOTE]
-   > If you're not ready to buy yet, you can sign up for a free 30-day trial by selecting **Start free trial**. Then if you want to add users to the trial, follow the directions below. When you sign up for a 30-day trial, you get a free Teams license for your organization. Or consider [signing up for a 90-day trial instead](try-remote-assist-free.md). With the 90-day trial, you don't get a Teams license for your organization, but you can sign up for a free Teams account.
+   > If you're not ready to buy yet, you can sign up for a free 30-day trial on your organization's tenant by selecting **Start free trial**. The 30-day free trial includes access to Microsoft Teams for HoloLens users. 
    
 8. Assign licenses to users as described in the next procedure.
 
@@ -65,7 +67,9 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
 
 ### Assign a license to a user in the Microsoft 365 Admin Center
 
-1. In the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)], under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users**.   
+1. In the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)], under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users**.
+
+   ![Assign to users](../media/assign-users.PNG "Assign to users")
    
 2. Select the users you'd like to assign the trial or subscription to, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**. 
 
