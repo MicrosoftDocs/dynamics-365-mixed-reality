@@ -69,7 +69,7 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
 
 1. In the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)], under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users**.
 
-   ![Assign to users](../media/assign-users.PNG "Assign to users")
+   ![Assign to users](media/assign-users.PNG "Assign to users")
    
 2. Select the users you'd like to assign the trial or subscription to, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**. 
 
@@ -81,7 +81,7 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
    
 4. Select the licenses you want to enable for the selected users, and then select **Add**.
 
-   ![Select licenses](../media/licenses.PNG "Select licenses")
+   ![Select licenses](media/licenses.PNG "Select licenses")
 
 ## Make the Remote Assist app available to your users
 
