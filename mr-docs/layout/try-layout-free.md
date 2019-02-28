@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # Try Dynamics 365 Layout for free
 
 You can try Microsoft Dynamics 365 Layout for free for up to 90 days. Starting a free 90-day trial is nearly effortless. Just install 
-the Layout HoloLens app and the Import Tool PC app from the Microsoft Store, sign in with an Azure Active Directory (Azure AD) account, and then start using the app without any obligation or restrictions. If you don't already have an Azure AD account, the app will prompt you to create a free account.
+the Layout HoloLens app and the Import Tool PC app from the Microsoft Store, sign in with an Azure Active Directory (Azure AD) account, and then start using the apps without any obligation or restrictions. If you don't already have an Azure AD account, the app will prompt you to create a free account.
 
 ## Install Layout and try it out for free
 
