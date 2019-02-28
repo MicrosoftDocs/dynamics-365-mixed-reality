@@ -38,8 +38,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
 1. Go to https://portal.office.com/AdminPortal/Home#/catalog.
 
    ![Admin center](../media/AdminCenter.png "Admin Center")
-   ![Admin center](../media/AdminCenter.png "Admin Center")
-
+   
 2. Log in under your company's admin account.
 
 3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
@@ -52,7 +51,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
    
 6. Find the product card for Remote Assist.
 
-   ![Remote Assist product card](../media/remote-assist-card.PNG "Remote Assist product card")
+   ![Remote Assist product card](../media/OtherPlans.PNG "Remote Assist product card")
         
 7. To subscribe, select **Buy now**.
 
