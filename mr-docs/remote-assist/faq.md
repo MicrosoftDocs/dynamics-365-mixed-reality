@@ -22,7 +22,7 @@ the [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, see [B
 **Can I try the app before buying it?**
 
 Yes, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available as a free 90-day trial. For more information,
-see [Try Remote Assist for free](try-remote-assist-free.md).
+see [Try Remote Assist for free](try-remote-assist-free.md). Note that the 90-day free trial is only available for users who haven't already purchased a subscription. 
 
 **Can I still use the preview app?**
 
