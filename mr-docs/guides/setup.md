@@ -48,11 +48,11 @@ After signing up for the preview, you’ll need to create an environment where y
 
 3.  On the **Microsoft PowerApps Plan 2** card, select **Start free trial**. 
 
-4.  In the **Check out** screen, select **Try now**.
+4.  In the **Check out** screen, select **Try now**, and in the next screen, select **Continue**.
 
     ![Check out screen)](media/try-now.PNG "Check out screen")
 
-5.  Now you need to add the PowerApps license to a user. To do that, in the left navigation, select **Users**, select **Active users**, and then select the check box for a user. 
+5.  Now you need to add the PowerApps license to a user. To do that, in the left navigation, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
     ![Users > Active Users screen)](media/users-active-users.PNG "Users > Active Users screen")
     
@@ -84,12 +84,9 @@ After signing up for the preview, you’ll need to create an environment where y
 
     ![Environment created dialog box)](media/environment-created.PNG "Environment created dialog box")   
     
-13.	In the next pop-up, choose the currency and language, and then clear the **Include sample apps and data** check box.
+13.	In the next pop-up, choose your currency and language.
 
     ![Currency and language settings)](media/currency-language-settings.PNG "Currency and language settings")
-
-    > [!IMPORTANT]
-    > Make sure to clear the **Include sample apps and data** check box.
   
 14.	Select **Create database.**
 
@@ -104,7 +101,7 @@ After signing up for the preview, you’ll need to create an environment where y
     > [!NOTE]
     > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.
     
-16.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link. 
+16.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link, and then sign in again with the credentials you created for the preview. You may need to close your browser before signing in. 
 
     ![Admin Center link)](media/admin-center-link.PNG "Admin Center link")
 
