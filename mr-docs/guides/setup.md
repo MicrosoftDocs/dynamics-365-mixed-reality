@@ -270,7 +270,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
 
 ### Add a user account
 
-1.	Go to the Microsoft 365 Admin Center.
+1.	Go to the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home).
 
 2.	Select **Add a user**.
  
