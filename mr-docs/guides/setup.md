@@ -40,11 +40,14 @@ This topic provides step-by-step instructions for all of the above.
 
 After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Step 3: Install and configure the Guides solution](#configure).
 
-1.	Go to the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home).
+1.	 Go to the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home).
 
 2.  Under **Billing**, select **Purchase Services**, and then search for **PowerApps Plan 2**.
 
     ![PowerApps Plan 2)](media/powerapps-plan2.PNG "PowerApps Plan 2")
+
+    > [!NOTE]
+    > There's no charge to use PowerApps. PowerApps usage is included in the Guides preview.
 
 3.  On the **Microsoft PowerApps Plan 2** card, select **Start free trial**. 
 
@@ -135,7 +138,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
     ![System settings in Dynamics 365)](media/system-settings.PNG "System settings in Dynamics 365")
   
-7.	In the **System Settings** dialog box, select the **Email** tab, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
+7.	In the **System Settings** dialog box, select the **Email** tab, scroll down to the bottom of the dialog box, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
 
     ![System settings dialog box)](media/system-settings-dialog-box.PNG "System settings dialog box")
  
@@ -149,9 +152,11 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 8.	Select the Dynamics 365 Guides solution in the list, and then select **Install**. 
 
     ![Solutions Install button)](media/solutions-install-button.PNG "Solutions Install button")
+    
+9. In the Terms of Service dialog box, review the terms, and then select **install** when you're ready.
  
     > [!NOTE]
-    > The installation process can take up to 20 minutes. 
+    > The installation process can take a while and is variable based on the time of day and region. If the installation fails, you'll see this message: <br>
 
 ### Set up user roles for the solution
 
