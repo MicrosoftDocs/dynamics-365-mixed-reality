@@ -226,10 +226,10 @@ If you use the Microsoft Store for Business to distribute your apps, you can hav
 
 3.	In the Microsoft Store, select the **Get** button for the Guides app to download and install the application.
 
-   ![Preview app in Microsoft Store](media/preview-app.PNG "Preview app in Microsoft Store")
+    ![Preview app in Microsoft Store](media/preview-app.PNG "Preview app in Microsoft Store")
 
-> [!NOTE]
-> For instructions on opening and signing in to the app, see the [Authoring guide](authoring-overview.md)
+    > [!NOTE]
+    > For instructions on opening and signing in to the app, see the [Authoring guide](authoring-overview.md)
 
 #### Install the HoloLens app
 
