@@ -80,6 +80,9 @@ After signing up for the preview, you’ll need to create an environment where y
     -	**Environment type:** Set it to **Production**
   
         ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
+        
+    > [!NOTE]
+    > Make sure to set **Environment type** to **Production**. Do not set it to **Trial**.
     
 11.	Select the **Create environment** button. 
 
