@@ -2,7 +2,7 @@
 author: BryceHo
 description: Everything you need to know about signing up for Dynamics 365 Guides in preview, configuring the solution, and installing the apps.
 ms.author: mamaylya
-ms.date: 02/24/2019
+ms.date: 03/07/2019
 ms.service: crm-online
 ms.topic: article
 title: Sign up for Dynamics 365 Guides in preview
@@ -172,7 +172,11 @@ In the Guides PC application, you can upload your own 3D files, as well as video
     > [!IMPORTANT]
     > You can access Guides data through the Guides Hub (Preview) tile in the above screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the Guides apps.
  
-3.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
+3.	 In the **Dynamics 365 > Business Management** screen, select the **Settings** drop-down.
+    
+    ![Business management Settings drop-down)](media/business-management.PNG "Business Management Settings drop-down") 
+
+4.  In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
 
     ![Dynamics 365 Security setting)](media/security-setting.PNG "Dynamics 365 Security setting")
  
@@ -188,11 +192,11 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
     - Common Data Service User
     
-    - Dynamics 365 MR Guides Author
+    - Dynamics 365 Guides Author
     
     - System Administrator 
        
-      ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
+      ![Manage Roles dialog box filled in](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
       
       > [!NOTE]
       > Select the System Administrator role if this is the main user/admin. Otherwise, do not select that role.
@@ -220,7 +224,9 @@ If you use the Microsoft Store for Business to distribute your apps, you can hav
 
 2.	On your PC, go to Start ![Start button)](media/windows-button.png "Start button") > Microsoft Store ![Store button)](media/store-button.png "Store button"), and then search for “Dynamics 365 Guides (Preview).”
 
-3.	In the Microsoft Store, select the **Install** button for the Guides app to download and install the application.
+3.	In the Microsoft Store, select the **Get** button for the Guides app to download and install the application.
+
+   ![Preview app in Microsoft Store](media/preview-app.PNG "Preview app in Microsoft Store")
 
 > [!NOTE]
 > For instructions on opening and signing in to the app, see the [Authoring guide](authoring-overview.md)
