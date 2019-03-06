@@ -27,6 +27,8 @@ To get started with Guides, you need to:
 
 5. Add additional user accounts (optional).
 
+6. Set up Guides Analytics reports.
+
 This topic provides step-by-step instructions for all of the above.
 
 ## Step 1: Sign up for the preview
@@ -352,6 +354,18 @@ If you're an administrator, and you want others in your organization to have acc
       
       > [!NOTE]
       > Select the System Administrator role if this is the main user/admin. Otherwise, do not that role.
+
+## Step 6: Set up Guides Analytics reports 
+
+Guides includes Power BI reports (called Guides Analytics) that you can use to analyze guides processes. You can share these reports within your organization by publishing them to the Power BI Service. This allows anyone in your organization with a Power BI Pro license to access the report through the Power BI Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com).  
+
+Power BI provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/en-us/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a Power BI app. This involves the following well-documented steps: 
+
+1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-workspaces) 
+
+2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-upload-desktop-files) 
+
+3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-distribute-apps)  
 
 ### See also
 
