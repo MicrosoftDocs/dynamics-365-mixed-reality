@@ -44,7 +44,7 @@ After signing up for the preview, you’ll need to create an environment where y
 
 2.  Under **Billing**, select **Purchase Services**, and then search for **PowerApps Plan 2**.
 
-    ![PowerApps Plan 2)](media/powerapps-plan2.PNG "PowerApps Plan 2")
+    ![PowerApps Plan 2](media/powerapps-plan2.PNG "PowerApps Plan 2")
 
     > [!NOTE]
     > There's no charge to use PowerApps. PowerApps usage is included in the Guides preview.
@@ -53,25 +53,25 @@ After signing up for the preview, you’ll need to create an environment where y
 
 4.  In the **Check out** screen, select **Try now**, and in the next screen, select **Continue**.
 
-    ![Check out screen)](media/try-now.PNG "Check out screen")
+    ![Check out screen](media/try-now.PNG "Check out screen")
 
 5.  Now you need to add the PowerApps license to a user. To do that, in the left navigation, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
-    ![Users > Active Users screen)](media/users-active-users.PNG "Users > Active Users screen")
+    ![Users > Active Users screen](media/users-active-users.PNG "Users > Active Users screen")
     
 6.  In the **Guides Account** screen, select the **Edit** button next to **Product licenses**.
 
-     ![Edit PowerApps plan)](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
+     ![Edit PowerApps plan](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
 7.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** and **Microsoft PowerApps Plan 2** sliders to **On**, and then select **Save**.
   
-    ![Add user license)](media/add-user-license.PNG "Add user license")
+    ![Add user license](media/add-user-license.PNG "Add user license")
     
 8.  Go to the [PowerApps Admin Center](https://preview.admin.powerapps.com/environments) and sign in with the user credentials created when you signed up for the preview.
 
 9.	In the PowerApps Admin Center, select **New environment**.
 
-    ![PowerApps Admin Center)](media/powerapps-environment.PNG "PowerApps Admin Center")
+    ![PowerApps Admin Center](media/powerapps-environment.PNG "PowerApps Admin Center")
  
 10.	Fill in the following details for the environment:
 
@@ -79,7 +79,7 @@ After signing up for the preview, you’ll need to create an environment where y
     -	**Region:** Don't change - **keep the default setting**
     -	**Environment type:** Set it to **Production**
   
-        ![New Environment dialog box)](media/new-environment-dialog.PNG "New Environment dialog box")
+        ![New Environment dialog box](media/new-environment-dialog.PNG "New Environment dialog box")
         
     > [!NOTE]
     > Make sure to set **Environment type** to **Production**. Do not set it to **Trial**.
@@ -88,28 +88,28 @@ After signing up for the preview, you’ll need to create an environment where y
 
 12.	In the pop-up that appears, select **Create database**.
 
-    ![Environment created dialog box)](media/environment-created.PNG "Environment created dialog box")   
+    ![Environment created dialog box](media/environment-created.PNG "Environment created dialog box")   
     
 13.	In the next pop-up, choose your currency and language.
 
-    ![Currency and language settings)](media/currency-language-settings.PNG "Currency and language settings")
+    ![Currency and language settings](media/currency-language-settings.PNG "Currency and language settings")
   
 14.	Select **Create database.**
 
 15.	In the **PowerApps Admin center>Environments** screen, select the environment that was just created (a production environment, not a default environment). 
 
-    ![Select the environment)](media/select-environment.PNG "Select the environment")
+    ![Select the environment](media/select-environment.PNG "Select the environment")
  
     The following screen will appear while the database is being created and provisioned:
     
-    ![Provisioning database screen)](media/provisioning-database.PNG "Provisioning database screen")
+    ![Provisioning database screen](media/provisioning-database.PNG "Provisioning database screen")
  
     > [!NOTE]
     > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.
     
 16.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link, and then sign in again with the credentials you created for the preview. You may need to close your browser before signing in. 
 
-    ![Admin Center link)](media/admin-center-link.PNG "Admin Center link")
+    ![Admin Center link](media/admin-center-link.PNG "Admin Center link")
 
 The Dynamics Admin Center will appear. This is where you can install the solution and make other configurations.
 
@@ -121,7 +121,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
     
 2.	Select the newly created Guides instance from the list of instances, and then select the **Open** button as shown below: 
     
-    ![Admin Center with Open button selected)](media/admin-center-open-button.PNG "Admin Center with Open button selected")
+    ![Admin Center with Open button selected](media/admin-center-open-button.PNG "Admin Center with Open button selected")
     
     This opens the **Dynamics 365** screen.
     
@@ -135,15 +135,15 @@ In the Guides PC application, you can upload your own 3D files, as well as video
     
 5.  Under **System**, select **Administration**.
 
-    ![Administration button in Dynamics 365)](media/administration-button.PNG "Administration button in Dynamics 365")
+    ![Administration button in Dynamics 365](media/administration-button.PNG "Administration button in Dynamics 365")
  
 6.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
 
-    ![System settings in Dynamics 365)](media/system-settings.PNG "System settings in Dynamics 365")
+    ![System settings in Dynamics 365](media/system-settings.PNG "System settings in Dynamics 365")
   
 7.	In the **System Settings** dialog box, select the **Email** tab, scroll down to the bottom of the dialog box, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
 
-    ![System settings dialog box)](media/system-settings-dialog-box.PNG "System settings dialog box")
+    ![System settings dialog box](media/system-settings-dialog-box.PNG "System settings dialog box")
  
 8.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small edit button next to **Solutions**.
 
@@ -167,26 +167,26 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
 2. In the **Dynamics 365** page, select the **Settings** button, and then select **Advanced Settings**.
 
-    ![Dynamics 365 Advanced Settings)](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
+    ![Dynamics 365 Advanced Settings](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
     
     > [!IMPORTANT]
     > You can access Guides data through the Guides Hub (Preview) tile in the above screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the Guides apps.
  
 3.	 In the **Dynamics 365 > Business Management** screen, select the **Settings** drop-down.
     
-    ![Business Management screen](media/business-management.PNG "Business Management screen")
+     ![Business Management screen2](media/business-management.PNG "Business Management screen")
 
 4.  In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
 
-    ![Dynamics 365 Security setting)](media/security-setting.PNG "Dynamics 365 Security setting")
+    ![Dynamics 365 Security setting](media/security-setting.PNG "Dynamics 365 Security setting")
  
 4.	In the **Security** page, select **Users**.
 
-    ![Dynamics 365 Users setting)](media/select-users.PNG "Dynamics 365 Users setting")
+    ![Dynamics 365 Users setting](media/select-users.PNG "Dynamics 365 Users setting")
  
 5.	Select the user, and then select **Manage** roles. 
 
-    ![Manage Roles command)](media/manage-roles-command.PNG "Manage Roles command")
+    ![Manage Roles command](media/manage-roles-command.PNG "Manage Roles command")
  
 6.	In the **Manage User Roles** dialog box, select the following roles: 
 
@@ -278,7 +278,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
  
     You’ll see the **New user** dialog box:
     
-    ![New User dialog box)](media/new-user-dialog-box.PNG "New user dialog box")
+    ![New User dialog box](media/new-user-dialog-box.PNG "New user dialog box")
  
 3.	In the **New user** dialog box, fill in the following user information:
 
@@ -288,15 +288,15 @@ You’ll need to create a user account for anyone you assign a license to. Creat
 
     - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
     
-      ![Password enforcement check box)](media/password-enforcement.PNG "Password enforcement check box")
+      ![Password enforcement check box](media/password-enforcement.PNG "Password enforcement check box")
 
     - **Roles.** Expand this section and select the **User (no administrator access)** option. 
     
-      ![Edit user roles)](media/user-roles.PNG "Edit user roles")
+      ![Edit user roles](media/user-roles.PNG "Edit user roles")
  
     - **Product licenses**. Expand this section, and then turn the **Dynamics 365 Guides** and **Microsoft PowerApps Plan 2** sliders to **On**. You can assign up to 25 users.
     
-      ![Product Licenses dialog box)](media/new-user-plans.PNG "Product Licenses dialog box")
+      ![Product Licenses dialog box](media/new-user-plans.PNG "Product Licenses dialog box")
  
 4.	Select **Add** when you’re done.
 
@@ -330,15 +330,15 @@ If you're an administrator, and you want others in your organization to have acc
  
 3.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
 
-    ![Dynamics 365 Security setting)](media/security-setting.PNG "Dynamics 365 Security setting")
+    ![Dynamics 365 Security setting](media/security-setting.PNG "Dynamics 365 Security setting")
  
 4.	In the **Security** page, select **Users**.
 
-    ![Dynamics 365 Users setting)](media/select-users.PNG "Dynamics 365 Users setting")
+    ![Dynamics 365 Users setting](media/select-users.PNG "Dynamics 365 Users setting")
  
 5.	Select the user, and then select **Manage** roles. 
 
-    ![Manage Roles command)](media/manage-roles-command.PNG "Manage Roles command")
+    ![Manage Roles command](media/manage-roles-command.PNG "Manage Roles command")
  
 6.	In the **Manage User Roles** dialog box, select the following roles: 
 
@@ -348,7 +348,7 @@ If you're an administrator, and you want others in your organization to have acc
     
     - System Administrator 
        
-      ![Manage Roles dialog box filled in)](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
+      ![Manage Roles dialog box filled in](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
       
       > [!NOTE]
       > Select the System Administrator role if this is the main user/admin. Otherwise, do not that role.
