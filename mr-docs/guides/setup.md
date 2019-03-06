@@ -156,7 +156,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
     ![Solutions Install button)](media/solutions-install-button.PNG "Solutions Install button")
     
-9. In the Terms of Service dialog box, review the terms, and then select **install** when you're ready.
+9. In the **Terms of Service** dialog box, review the terms, and then select **install** when you're ready.
  
     > [!NOTE]
     > The installation process can take a while and is variable based on the time of day and region. If the installation fails, you'll see this message: <br>
