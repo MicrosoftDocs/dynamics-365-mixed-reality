@@ -131,7 +131,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
     
 4.  In the **Dynamics 365 Business Management** screen, select the **Settings** drop-down.
 
-     ![Business Management screen](media/business-management.PNG "Business Management screen")
+    ![Business Management screen](media/business-management.PNG "Business Management screen")
     
 5.  Under **System**, select **Administration**.
 
@@ -174,7 +174,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
  
 3.	 In the **Dynamics 365 > Business Management** screen, select the **Settings** drop-down.
     
-    ![Business management Settings drop-down](media/business-management.PNG "Business Management Settings drop-down") 
+    ![Business Management screen](media/business-management.PNG "Business Management screen")
 
 4.  In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
 
