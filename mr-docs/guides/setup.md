@@ -292,7 +292,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
 
     - Add the first, last, display name, and user name.
 
-    - **Domain.** Leave the domain as is. It will be automatically filled out based on the company you entered when you signed up for the preview. 
+    - **Domain.** Leave the domain as is. It's automatically filled out based on the company you entered when you signed up for the preview. 
 
     - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
     
