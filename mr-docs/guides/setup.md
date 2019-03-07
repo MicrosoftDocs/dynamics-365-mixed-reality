@@ -162,7 +162,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
    In the **Dynamics 365 Administration Center** screen, you'll see the following message highlighted in yellow showing that the solution is being installed:
 
-   ![Solution installing message)](media/solutions-installing-button.PNG "Solution installing message")
+   ![Solution installing message)](media/installing-solution.PNG "Solution installing message")
    
    The **Status** field to the left of the yellow message will say **Installation pending** while the solutions is being installed. When the solution has finished installing, the **Status** field will change to **Installed**.
  
