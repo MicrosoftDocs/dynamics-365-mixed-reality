@@ -376,7 +376,11 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
     > [!NOTE]
     > Only bookings for the current day are listed.
     
-2.  In the **Booking** pane, select the resource (expert). 
+2.  Select the booking you want to view under **Active Bookings** or **Upcoming Bookings Today**. 
+
+3.  In the **Booking** pane, select the resource (expert) listed under **Support Contact**.
+
+    ![Select a contact](media/select-expert.PNG "Select a contact")
 
 3.  In the filtered contacts list, select the tile for the expert. If you don’t
     see the contact you’re looking for, select **Search** to bring up the
