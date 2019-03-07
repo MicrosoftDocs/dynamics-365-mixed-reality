@@ -393,6 +393,14 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
     > [!NOTE]
     > Booking information is blurred out when you’re in a video call, but remains visible during an audio-only call.
     
+### Open a Power BI dashboard from a Field Service booking
+
+-   Select a [!include[pn-power-bi](../includes/pn-power-bi.md)] link to open [!include[pn-power-bi](../includes/pn-power-bi.md)] Online in a browser or to open the
+    [!include[pn-power-bi](../includes/pn-power-bi.md)] desktop application.
+    
+    > [!NOTE]
+    > When you open a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. Return to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] by opening the application again through the applications menu or live cube.
+    
 ### Change the status of a booking
 
 1. In the Booking pane for an open booking, select a booking under **Active Bookings** or **Upcoming Bookings Today**. 
@@ -422,13 +430,7 @@ To capture a mixed-reality image:
     
     ![Saved imaged](media/saved-image.PNG "Saved image")
 
-### Open a Power BI dashboard from a Field Service booking
 
--   Select a [!include[pn-power-bi](../includes/pn-power-bi.md)] link to open [!include[pn-power-bi](../includes/pn-power-bi.md)] Online in a browser or to open the
-    [!include[pn-power-bi](../includes/pn-power-bi.md)] desktop application.
-    
-    > [!NOTE]
-    > When you open a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. Return to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] by opening the application again through the applications menu or live cube.
 
 ### Modify the default booking view
 
