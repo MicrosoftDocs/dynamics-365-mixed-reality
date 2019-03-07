@@ -162,7 +162,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
    In the **Dynamics 365 Administration Center** screen, you'll see the following message highlighted in yellow showing that the solution is being installed:
 
-   ![Solutions Install button)](media/solutions-install-button.PNG "Solutions Install button")
+   ![Solution installing message)](media/solutions-installing-button.PNG "Solution installing message")
    
    The **Status** field to the left of the yellow message will say **Installation pending** while the solutions is being installed. When the solution has finished installing, the **Status** field will change to **Installed**.
  
@@ -170,7 +170,6 @@ In the Guides PC application, you can upload your own 3D files, as well as video
     > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing your screen. If the installation fails, you'll see this message: <br>
 
 ### Set up user roles for the solution<a name="user-roles"></a>
-
 
 1.	After the solution has finished installing, go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Guides instance from the list of instances, and then select the **Open** button.
 
