@@ -402,9 +402,9 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
    > [!NOTE] 
    > You can't change the status of a completed booking.   
 
-2. In the drop-down list, select the appropriate status: **Committed**, **Scheduled**, **Traveling**, **In Progress**, **On Break**, **Completed**, or **Canceled**.
+2. Open the drop-down list next to the current status, and then select the appropriate status: 
 
-   ![Booking status selections](media/booking-status.PNG "Booking status selections")
+   ![Booking status selections](media/select-expert.PNG "Booking status selections")
 
 ### Save call information or a mixed reality image to a booking
 
