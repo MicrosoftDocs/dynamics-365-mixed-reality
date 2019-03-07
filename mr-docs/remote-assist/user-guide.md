@@ -368,7 +368,7 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
 
 1.  In the Contacts menu, select **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** ![Dynamics 365](media/d365-button3.png "Dynamics 365") to open the **Booking** pane. (Select **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** ![Dynamics 365](media/d365-button3.png "Dynamics 365") again to close the **Booking** pane.)  
       
-    The **Recent Contacts** screen will appear with a **Booking** pane to the
+    The **Recent Contacts** screen will appear with a Booking pane to the
     right. The Booking pane shows all the bookings for the current day, organized by active, upcoming, and completed bookings.    
     
     ![Select the resource (expert)](media/bookings-for-today.PNG "Select the resource (expert)")
