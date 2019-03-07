@@ -25,13 +25,13 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
 
 -   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
     - Calling us at 1-888-477-7989, or
-    - Requesting to be contacted at http://aka.ms/getRemoteassist.
+    - Requesting to be contacted at [http://aka.ms/getRemoteassist](http://aka.ms/getRemoteassist).
     
 -   Through the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home#/catalog). Step-by-step instructions for logging in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided below.
 
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
 
--   [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner)
+-   [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/cloud-solution-provider/csp-partner)
 
 ## Subscribe through the Microsoft 365 Admin Center
 
@@ -41,7 +41,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
    
 2. Log in under your company's admin account.
 
-3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
+3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
 
 4. Under **Billing** in the left navigation, select **Purchase services**.
    
@@ -115,9 +115,9 @@ see the [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md).
 
 3.  Choose one of the following distribution methods:
 
-    -   [Private store](https://docs.microsoft.com/en-us/microsoft-store/distribute-apps-from-your-private-store)
-    -   [Email link](https://docs.microsoft.com/en-us/microsoft-store/assign-apps-to-employees)
-    -   [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
+    -   [Private store](https://docs.microsoft.com/microsoft-store/distribute-apps-from-your-private-store)
+    -   [Email link](https://docs.microsoft.com/microsoft-store/assign-apps-to-employees)
+    -   [Mobile device management](https://docs.microsoft.com/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
 [Try Dynamics 365 Remote Assist for free for up to 90 days](try-remote-assist-free.md)<br/>
