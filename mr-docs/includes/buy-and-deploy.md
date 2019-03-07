@@ -86,7 +86,7 @@ in any of the following ways:
 
 ### Install Layout from the Microsoft Store for Consumers
 
-For information on installing the Layout from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
+For information on installing Layout from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
 see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
