@@ -376,7 +376,7 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
     
 2.  In the **Booking** pane, select the resource (expert). 
 
-    ![Select the resource (expert)](media/61c6885a58d179a39e18b3af01554fcc.png "Select the resource (expert)")
+    ![Select the resource (expert)](media/saved-image.PNG "Select the resource (expert)")
 
 3.  In the filtered contacts list, select the tile for the expert. If you don’t
     see the contact you’re looking for, select **Search** to bring up the
