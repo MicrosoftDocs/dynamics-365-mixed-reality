@@ -372,13 +372,13 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
     right.
     
     > [!NOTE]
-    > Only bookings with the “In Progress” status are listed.
+    > Only bookings for the current day are listed.
     
-1.  In the **Booking** pane, select the resource (expert). 
+2.  In the **Booking** pane, select the resource (expert). 
 
     ![Select the resource (expert)](media/61c6885a58d179a39e18b3af01554fcc.png "Select the resource (expert)")
 
-1.  In the filtered contacts list, select the tile for the expert. If you don’t
+3.  In the filtered contacts list, select the tile for the expert. If you don’t
     see the contact you’re looking for, select **Search** to bring up the
     holographic keyboard.  
       
@@ -388,6 +388,35 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
     
     > [!NOTE]
     > Booking information is blurred out when you’re in a video call, but remains visible during an audio-only call.
+    
+### Change the status of a booking
+
+1. In the Booking pane for an open booking, select a booking under **Active Bookings** or **Upcoming Bookings Today**. 
+
+   ![Active, Upcoming, or Completed bookings](media/bookings-for-today.PNG "Active, Upcoming, or Completed bookings")
+   
+   > [!NOTE] 
+   > You can't change the status of a completed booking.   
+
+2. In the drop-down list, select the appropriate status: **Committed**, **Scheduled**, **Traveling**, **In Progress**, **On Break**, **Completed**, or **Canceled**.
+
+   ![Booking status selections](media/booking-status.PNG "Booking status selections")
+
+### Save call information or a mixed reality image to a booking
+
+At the end of the call, Remote Assist call information is automatically saved to the selected booking as long as you haven't selected the Back button or refreshed the Dynamics 365 pane. The same is true for mixed-reality images that you capture.
+
+To capture a mixed-reality image:
+
+1.  Select the Camera button.
+
+2.  In the pop-up that appears, select whether you want to save the image to OneDrive or to the booking.
+
+    ![Save image popup](media/save-image.PNG "Save image popup")
+    
+    If you save the image to the booking, it will appear under **Assets** in the Booking pane.
+    
+    ![Saved imaged](media/saved-image.PNG "Saved image")
 
 ### Open a Power BI dashboard from a Field Service booking
 
