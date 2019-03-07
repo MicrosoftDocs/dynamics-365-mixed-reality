@@ -412,7 +412,7 @@ At the end of the call, Remote Assist call information is automatically saved to
 
 To capture a mixed-reality image:
 
-1.  Select the Camera button.
+1.  Select the Camera ![Camera button](media/camera-button.PNG "Camera button") button.
 
 2.  In the pop-up that appears, select whether you want to save the image to OneDrive or to the booking.
 
