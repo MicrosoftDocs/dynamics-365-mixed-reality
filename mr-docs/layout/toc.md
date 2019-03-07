@@ -1,14 +1,9 @@
 # Dynamics 365 Layout
 ## [Overview](index.md)
 ## [Device options and technical requirements](requirements.md)
-## [Try Layout for free](try-layout-free.md)
-## [Buy and deploy Layout](buy-and-deploy-layout.md)
+## [Try or buy, and deploy](buy-and-deploy.md)
 ## [User Guide](user-guide.md)
 ## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)
+## [Layout Terms of Use](../legal/layout-license-terms.md)
+## [Import Tool Terms of Use](../legal/import-tool-license-terms.md)
 ## [FAQ](faq.md)
-## Terms of Use
-### [Layout](../legal/layout-license-terms.md)
-### [Layout free trial](../legal/layout-free-trial.md)
-### [Import Tool (Preview)](../legal/import-tool-license-terms.md)
-### [Import Tool (Preview) free trial](../legal/import-tool-free-trial.md)
-

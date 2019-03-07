@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 01/16/2019
+ms.date: 02/27/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
@@ -13,17 +13,18 @@ ms.reviewer: v-brycho
 
 Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-**Can I try Layout before buying it?**
+**How can I get [!include[pn-layout](../includes/pn-layout.md)]?**  
 
-Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a free trial for up to 90 days. It's nearly effortless to install and try out the app. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md). Note that the 90-day free trial is only available for users who haven't already purchased a subscription. 
+If you’re an IT admin, [learn how to try or buy, and deploy the app](../licensing/buy-and-deploy.md).  
 
-**How do I buy [!include[pn-layout](../includes/pn-layout.md)]?**  
+**Can I try the app before buying it?**
 
-If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-layout.md). 
+Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a free 30-day trial. For more information, see [Try or buy,
+and deploy Layout](../licensing/buy-and-deploy.md).
 
 **Can I still use the preview app?**
 
-No, the preview period has ended. Learn how to [subscribe to Dynamics 365 Layout](../licensing/buy-and-deploy.md) or [sign up for a free 90-day trial](try-layout-free.md). 
+The preview period has ended. [Learn how to subscribe to Dynamics 365 Layout](../licensing/buy-and-deploy.md).
 
 **How can I tell which version I'm using?**
 
@@ -106,10 +107,30 @@ Export again as FBX and use the [!include[pn-import-tool](../includes/pn-import-
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
+**If I build my layout on my laptop, can I share it with others remotely?**
+
+You can't share the layout directly from the Import Tool at this time, but you can copy the layout file, and then use another tool, such as OneDrive, Microsoft Teams, or email to share it. 
+
+To share the file:
+
+1.	Go to the **Layouts** tab in the Import Tool.
+
+2.	Right-click the layout you want to share, and then select **Open file location**.
+
+3.	Select the layout file (.mslt extension) and share it by using any tool supported by your organization.
+
+To import the file:
+
+1.	After receiving the file, add it in the **Microsoft Layout** folder (usually at c:\Users\Username\3D Objects\Microsoft Layout).
+
+    The Import Tool will detect the files automatically and display them in the gallery.
+
+3.	You can now perform all supported operations on the layout file through the Import Tool.
+
+
 ### See also
 [Overview of Layout](index.md)<br/>
 [Device options and technical requirements](requirements.md)<br/>
-[Try Layout for free for up to 90 days](try-layout-free.md)<br/>
-[Buy and deploy Layout](buy-and-deploy-layout.md)<br/>
+[Try or buy, and deploy](../licensing/buy-and-deploy.md)<br/>
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
