@@ -159,13 +159,20 @@ In the Guides PC application, you can upload your own 3D files, as well as video
     ![Solutions Install button)](media/solutions-install-button.PNG "Solutions Install button")
     
 9. In the **Terms of Service** dialog box, review the terms, and then select **install** when you're ready.
+
+   In the **Dynamics 365 Administration Center** screen, you'll see the following message highlighted in yellow showing that the solution is being installed:
+
+   ![Solutions Install button)](media/solutions-install-button.PNG "Solutions Install button")
+   
+   The **Status** field to the left of the yellow message will say **Installation pending** while the solutions is being installed. When the solution has finished installing, the **Status** field will change to **Installed**.
  
     > [!NOTE]
-    > The installation process can take a while and is variable based on the time of day and region. If the installation fails, you'll see this message: <br>
+    > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing your screen. If the installation fails, you'll see this message: <br>
 
-### Set up user roles for the solution
+### Set up user roles for the solution<a name="user-roles"></a>
 
-1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Guides instance from the list of instances, and then select the **Open** button.
+
+1.	After the solution has finished installing, go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Guides instance from the list of instances, and then select the **Open** button.
 
 2. In the **Dynamics 365** page, select the **Settings** button, and then select **Advanced Settings**.
 
@@ -302,58 +309,9 @@ You’ll need to create a user account for anyone you assign a license to. Creat
  
 4.	Select **Add** when you’re done.
 
-When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and temporary password. They’ll use this information to sign in to Guides.
+   When you add a user, the user will get an email notification from the Microsoft Online Services Team that includes their user ID and    temporary password. They’ll use this information to sign in to Guides.
 
-### Assign licenses for additional users
-
-If you're an administrator, and you want others in your organization to have access to Guides, you’ll need to assign users in the Microsoft 365 Admin Center. Each user you add will need an Azure Active Directory (Azure AD) account.
-
-1.	In the Microsoft 365 Admin Center, under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users.**
-
-2.	Select the users you'd like to assign, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**.
- 
-3.	In the **Add to existing products** screen, select the **Add to existing product license assignments** option, and then select **Next**.
- 
-4.	Select the licenses you want to enable for the selected users, and then select **Add**.
-
-   > [!NOTE]
-   > If you didn't assign user licenses before, you’ll need to add user accounts, as described in the next procedure. 
-   
-### Set up user roles for the solution
-
-1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Guides instance from the list of instances, and then select the **Open** button.
-
-2. In the **Dynamics 365** page, select the **Settings** button, and then select **Advanced Settings**.
-
-    ![Dynamics 365 Advanced Settings)](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
-    
-    > [!IMPORTANT]
-    > You can access Guides data through the Guides Hub (Preview) tile in the above screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the Guides apps.
- 
-3.	In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
-
-    ![Dynamics 365 Security setting](media/security-setting.PNG "Dynamics 365 Security setting")
- 
-4.	In the **Security** page, select **Users**.
-
-    ![Dynamics 365 Users setting](media/select-users.PNG "Dynamics 365 Users setting")
- 
-5.	Select the user, and then select **Manage** roles. 
-
-    ![Manage Roles command](media/manage-roles-command.PNG "Manage Roles command")
- 
-6.	In the **Manage User Roles** dialog box, select the following roles: 
-
-    - Common Data Service User
-    
-    - Dynamics 365 MR Guides Author
-    
-    - System Administrator 
-       
-      ![Manage Roles dialog box filled in](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
-      
-      > [!NOTE]
-      > Select the System Administrator role if this is the main user/admin. Otherwise, do not that role.
+5. If you haven't already done so, [set up user roles for the solution](#user-roles) as described above.
 
 ## Step 6: Set up Guides Analytics reports 
 
