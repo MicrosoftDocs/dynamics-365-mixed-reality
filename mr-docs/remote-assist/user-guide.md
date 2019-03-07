@@ -412,7 +412,7 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
 
 2. Open the drop-down list next to the current status, and then select the appropriate status. 
 
-   ![Booking status selections](media/status-dropdown.PNG "Booking status selections")
+   ![Booking status selections](media/status-drop-down.PNG "Booking status selections")
 
 ### Save call information or a mixed reality image to a booking
 
