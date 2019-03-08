@@ -19,7 +19,7 @@ To get started with Guides, you need to:
 
 1.	Sign up for the preview.
 
-2.	Create a Common Data Service (CDS) environment, if you don't already have one.
+2.	Create a Common Data Service for Apps environment, if you don't already have one.
 
 3. Install the Guides solution.
 
@@ -33,14 +33,14 @@ This topic provides step-by-step instructions for all of the above.
 
 ## Step 1: Sign up for the preview
 
-- Go to [the Guides Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview. After you have your credentials, come back to this page and go to [Step 2: Create a Common Data Service (CDS) environment](#cds).
+- Go to [the Guides Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview. After you have your credentials, come back to this page and go to [Step 2: Create a Common Data Service for Apps environment](#cds).
 
     > [!IMPORTANT] 
     > We recommend creating user credentials for the preview even if you have an existing work account. If you're not an admin in the organization, you won't be able to complete Steps 2 and 3. Also, when asked to enter a domain name, don't use your normal work domain. Create a new domain in the form: **guides*YourCompanyName***.
  
-## Step 2: Create a Common Data Service (CDS) environment<a name="cds"></a>
+## Step 2: Create a Common Data Service for Apps environment<a name="cds"></a>
 
-After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a CDS environment, you can skip to [Step 3: Install and configure the Guides solution](#configure).
+After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a Common Data Service for Apps environment, you can skip to [Step 3: Install and configure the Guides solution](#configure).
 
 1.	 Go to the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home).
 
@@ -98,7 +98,7 @@ After signing up for the preview, you’ll need to create an environment where y
   
 14.	Select **Create database.**
 
-15.	In the **PowerApps Admin center>Environments** screen, select the environment that was just created (a production environment, not a default environment). 
+15.	In the **PowerApps Admin center** > **Environments** screen, select the environment that was just created (a production environment, not a default environment). 
 
     ![Select the environment](media/select-environment.PNG "Select the environment")
  
@@ -184,7 +184,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
     
      ![Business Management screen2](media/business-management.PNG "Business Management screen")
 
-4.  In the **Dynamics 365 Settings>Administration** page, under **System**, select **Security**. 
+4.  In the **Dynamics 365 Settings** > **Administration** page, under **System**, select **Security**. 
 
     ![Dynamics 365 Security setting](media/security-setting.PNG "Dynamics 365 Security setting")
  
