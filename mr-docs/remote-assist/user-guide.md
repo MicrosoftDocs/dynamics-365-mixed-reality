@@ -419,6 +419,20 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
 
 At the end of the call, Remote Assist call information is automatically saved to the selected booking as long as you haven't selected the Back button or refreshed the Dynamics 365 pane. The same is true for mixed-reality images that you capture.
 
+The following information is automatically captured in the work order:
+
+- The participant(s) on the call
+
+- The day and time the call was started
+
+- The type of call - incoming or outgoing
+
+- Call duration
+
+- Assets related to the call (photo)
+
+![Recorded call info](media/recorded-call-info.PNG "Recorded call info")
+
 To capture a mixed-reality image:
 
 1.  Select the Camera ![Camera button](media/camera-button.PNG "Camera button") button.
