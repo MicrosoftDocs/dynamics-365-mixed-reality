@@ -131,7 +131,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
     ![Advanced Settings](media/advanced-settings.PNG "Advanced Settings")
     
-4.  In the **Dynamics 365 Business Management** screen, select the **Settings** drop-down.
+4.  In the **Dynamics 365 Business Management** screen, select the **Settings** drop-down list.
 
      ![Business Management screen2](media/business-management.PNG "Business Management screen")
     
@@ -180,7 +180,7 @@ In the Guides PC application, you can upload your own 3D files, as well as video
     > [!IMPORTANT]
     > You can access Guides data through the Guides Hub (Preview) tile in the above screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the Guides apps.
  
-3.	 In the **Dynamics 365 > Business Management** screen, select the **Settings** drop-down.
+3.	 In the **Dynamics 365 > Business Management** screen, select the **Settings** drop-down list.
     
      ![Business Management screen2](media/business-management.PNG "Business Management screen")
 
