@@ -149,25 +149,25 @@ In the Guides PC application, you can upload your own 3D files, as well as video
  
 8.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small edit button next to **Solutions**.
 
-    ![Solutions Edit button)](media/solutions-edit-button.PNG "Solutions Edit button")
+    ![Solutions Edit button](media/solutions-edit-button.PNG "Solutions Edit button")
  
     > [!NOTE]
     > You can also get to the Dynamics 365 Administration Center from the PowerApps portal.
     
 8.	Select the Dynamics 365 Guides solution in the list, and then select **Install**. 
 
-    ![Solutions Install button)](media/solutions-install-button.PNG "Solutions Install button")
+    ![Solutions Install button](media/solutions-install-button.PNG "Solutions Install button")
     
 9. In the **Terms of Service** dialog box, review the terms, and then select **install** when you're ready.
 
    In the **Dynamics 365 Administration Center** screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
 
-   ![Solution installing message)](media/installing-solution.PNG "Solution installing message")
+   ![Solution installing message](media/installing-solution.PNG "Solution installing message")
    
    The **Status** field to the left of the yellow message will say **Installation pending** while the solution is being installed. When the solution has finished installing, the **Status** field will change to **Installed**.
  
     > [!NOTE]
-    > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing your screen. If the installation fails, you'll see this message: <br>
+    > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing your screen. If the installation fails, you'll see this message:<br>![Failed installation](media/failed-install.PNG "Failed installation")
 
 ### Set up user roles for the solution<a name="user-roles"></a>
 
