@@ -395,8 +395,7 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
     
 ### Open a Power BI dashboard from a Field Service booking
 
--   Select a [!include[pn-power-bi](../includes/pn-power-bi.md)] link to open [!include[pn-power-bi](../includes/pn-power-bi.md)] Online in a browser or to open the
-    [!include[pn-power-bi](../includes/pn-power-bi.md)] desktop application.
+-   Select a [!include[pn-power-bi](../includes/pn-power-bi.md)] link to open [!include[pn-power-bi](../includes/pn-power-bi.md)] Online in a browser or to open the [!include[pn-power-bi](../includes/pn-power-bi.md)] desktop application.
     
     > [!NOTE]
     > When you open a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. Return to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] by opening the application again through the applications menu or live cube.
