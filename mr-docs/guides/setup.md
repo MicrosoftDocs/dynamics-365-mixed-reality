@@ -2,7 +2,7 @@
 author: BryceHo
 description: Everything you need to know about signing up for Dynamics 365 Guides in preview, configuring the solution, and installing the apps.
 ms.author: mamaylya
-ms.date: 03/07/2019
+ms.date: 03/08/2019
 ms.service: crm-online
 ms.topic: article
 title: Sign up for Dynamics 365 Guides in preview
