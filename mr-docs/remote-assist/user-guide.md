@@ -388,7 +388,7 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
       
     When you select a contact, you’ll see the following screen. 
 
-    ![Select a contact](media/712a579fd6c37af3087cd31fd01bab74.png "Select a contact")
+    ![Selected contact](media/support-contact-selected.PNG "Selected contact")
     
     > [!NOTE]
     > Booking information is blurred out when you’re in a video call, but remains visible during an audio-only call.
