@@ -376,7 +376,7 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
     > [!NOTE]
     > Only bookings for the current day are listed.
     
-2.  Select the booking you want to view under **Active Bookings** or **Upcoming Bookings Today**. 
+2.  Select the booking you want to view. 
 
 3.  In the **Booking** pane, select the resource (expert) listed under **Support Contact**.
 
@@ -400,7 +400,7 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
     > [!NOTE]
     > When you open a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. Return to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] by opening the application again through the applications menu or live cube.
     
-### Change the status of a booking
+### Change the status for a booking
 
 1. In the Booking pane for an open booking, select a booking under **Active Bookings** or **Upcoming Bookings Today**. 
 
@@ -417,7 +417,7 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
 
 ### Save call information or a mixed reality image to a booking
 
-At the end of the call, Remote Assist call information is automatically saved to the selected booking as long as you haven't selected the Back button or refreshed the Dynamics 365 pane. The same is true for mixed-reality images that you capture.
+At the end of the call, Remote Assist call information is automatically saved to the selected booking as long as you haven't selected the Back button or refreshed the Dynamics 365 pane. The same is true for mixed-reality images that you capture from within the call.
 
 The following information is automatically captured in the work order:
 
