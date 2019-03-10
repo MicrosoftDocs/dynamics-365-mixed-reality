@@ -439,7 +439,7 @@ To capture a mixed-reality image:
 
 2.  In the pop-up that appears, select whether you want to save the image to OneDrive or to the booking.
 
-    ![Save image popup](media/save-image.PNG "Save image popup")
+    ![Save image pop-up](media/save-image.PNG "Save image pop-up")
     
     If you save the image to the booking, it will appear under **Assets** in the Booking pane.
     
