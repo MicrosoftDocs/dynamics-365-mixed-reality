@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Dynamics 365 Remote Assist User Guide
 ms.author: mapau
-ms.date: 01/29/2019
+ms.date: 03/11/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User Guide
@@ -371,34 +371,84 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
 
 1.  In the Contacts menu, select **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** ![Dynamics 365](media/d365-button3.png "Dynamics 365") to open the **Booking** pane. (Select **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** ![Dynamics 365](media/d365-button3.png "Dynamics 365") again to close the **Booking** pane.)  
       
-    The **Recent Contacts** screen will appear with a **Booking** pane to the
-    right.
+    The **Recent Contacts** screen will appear with a Booking pane to the
+    right. The Booking pane shows all the bookings for the current day, organized by active, upcoming, and completed bookings.    
+    
+    ![Select the resource (expert)](media/bookings-for-today.PNG "Select the resource (expert)")
     
     > [!NOTE]
-    > Only bookings with the “In Progress” status are listed.
+    > Only bookings for the current day are listed.
     
-1.  In the **Booking** pane, select the resource (expert). 
+2.  Select the booking you want to view. 
 
-    ![Select the resource (expert)](media/61c6885a58d179a39e18b3af01554fcc.png "Select the resource (expert)")
+3.  In the **Booking** pane, select the resource (expert) listed under **Support Contact**.
 
-1.  In the filtered contacts list, select the tile for the expert. If you don’t
+    ![Select a contact](media/select-expert.PNG "Select a contact")
+
+3.  In the filtered contacts list, select the tile for the expert. If you don’t
     see the contact you’re looking for, select **Search** to bring up the
     holographic keyboard.  
       
     When you select a contact, you’ll see the following screen. 
 
-    ![Select a contact](media/712a579fd6c37af3087cd31fd01bab74.png "Select a contact")
+    ![Selected contact](media/support-contact-selected.PNG "Selected contact")
     
     > [!NOTE]
     > Booking information is blurred out when you’re in a video call, but remains visible during an audio-only call.
-
+    
 ### Open a Power BI dashboard from a Field Service booking
 
--   Select a [!include[pn-power-bi](../includes/pn-power-bi.md)] link to open [!include[pn-power-bi](../includes/pn-power-bi.md)] Online in a browser or to open the
-    [!include[pn-power-bi](../includes/pn-power-bi.md)] desktop application.
+-   Select a [!include[pn-power-bi](../includes/pn-power-bi.md)] link to open [!include[pn-power-bi](../includes/pn-power-bi.md)] Online in a browser or to open the [!include[pn-power-bi](../includes/pn-power-bi.md)] desktop application.
     
     > [!NOTE]
     > When you open a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. Return to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] by opening the application again through the applications menu or live cube.
+    
+### Change the status for a booking
+
+1. In the Booking pane for an open booking, select a booking under **Active Bookings** or **Upcoming Bookings Today**. 
+
+   ![Active, Upcoming, or Completed bookings](media/bookings-for-today.PNG "Active, Upcoming, or Completed bookings")
+   
+   > [!NOTE] 
+   > You can't change the status of a completed booking.   
+
+2. Open the drop-down list next to the current status, and then select the appropriate status. 
+
+   ![Booking status selections](media/status-drop-down.PNG "Booking status selections")
+   
+3. Select **Save** when you're done.
+
+### Save call information or a mixed reality image to a booking
+
+At the end of the call, Remote Assist call information is automatically saved to the selected booking as long as you haven't selected the Back button or refreshed the Dynamics 365 pane. The same is true for mixed-reality images that you capture from within the call.
+
+The following information is automatically captured in the work order:
+
+- The participant(s) on the call
+
+- The day and time the call was started
+
+- The type of call - incoming or outgoing
+
+- Call duration
+
+- Assets related to the call (photo)
+
+![Recorded call info](media/recorded-call-info.PNG "Recorded call info")
+
+To capture a mixed-reality image:
+
+1.  Select the Camera ![Camera button](media/camera-button.PNG "Camera button") button.
+
+2.  In the pop-up that appears, select whether you want to save the image to OneDrive or to the booking.
+
+    ![Save image pop-up](media/save-image.PNG "Save image pop-up")
+    
+    If you save the image to the booking, it will appear under **Assets** in the Booking pane.
+    
+    ![Saved imaged](media/saved-image.PNG "Saved image")
+
+
 
 ### Modify the default booking view
 
