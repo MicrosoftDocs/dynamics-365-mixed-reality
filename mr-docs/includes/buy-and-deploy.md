@@ -4,6 +4,9 @@ With [!include[pn-layout](../includes/pn-layout.md)] you can bridge the gap betw
 
 ## Subscribe to Layout
 
+> [!TIP]
+> Did you know you can try Layout for free for up to 90 days? [Learn more about the free 90-day trial](try-layout-free.md).
+
 You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!include[pn-remote-assist](../includes/pn-remote-assist.md)] in any of the following ways:
 
 -   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
@@ -39,7 +42,7 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
 7. To subscribe, select **Buy now**.
 
    > [!NOTE]
-   > If you're not ready to buy yet, you can sign up for a free 30-day trial by selecting **Start free trial**. Then if you want to add users to the trial, follow the directions below.  
+   > If you're not ready to buy yet, you can sign up for a free 30-day trial by selecting **Start free trial**. Then if you want to add users to the trial, follow the directions below. Or consider [signing up for an effortless 90-day trial instead](free-layout-trial). 
    
 8. Assign licenses to users as described in the next procedure.
 
@@ -83,7 +86,7 @@ in any of the following ways:
 
 ### Install Layout from the Microsoft Store for Consumers
 
-For information on installing Layout from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
+For information on installing the Layout from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
 see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]

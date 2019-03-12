@@ -1,31 +1,28 @@
 ---
-author: mapau
-description: Learn how to buy Dynamics 365 Remote Assist, add users to the subscription, and deploy the app to users in several different ways
-ms.author: mapau
-ms.date: 03/07/2019
+author: ornellaalt
+description: Learn how to buy Dynamics 365 Layout, add users to the subscription, and deploy the app to users in several different ways
+ms.author: ornella
+ms.date: 03/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Buy and deploy Dynamics 365 Remote Assist
+title: Buy and deploy Dynamics 365 Layout
 ms.reviewer: v-brycho
 ---
 
-# Buy and deploy Dynamics 365 Remote Assist
+# Buy and deploy Dynamics 365 Layout
 
-With Remote Assist you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
+With [!include[pn-layout](../includes/pn-layout.md)] you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and to create new ways to connect with customers and partners.
 
-> [!NOTE]
-> If you're using the preview version of Remote Assist, you have until March 2019 to upgrade to the paid version. 
-
-## Subscribe to Remote Assist
+## Subscribe to Layout
 
 > [!TIP]
-> Did you know you can try Remote Assist for free for up to 90 days? [Learn more about the free 90-day trial](try-remote-assist-free.md).
+> Did you know you can try Layout for free for up to 90 days? [Learn more about the free 90-day trial](try-layout-free.md).
 
-You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] in any of the following ways:
+You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!include[pn-remote-assist](../includes/pn-remote-assist.md)] in any of the following ways:
 
 -   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
     - Calling us at 1-888-477-7989, or
-    - Requesting to be contacted at http://aka.ms/getRemoteassist.
+    - Requesting to be contacted at  http://aka.ms/getLayout.
     
 -   Through the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home#/catalog). Step-by-step instructions for logging in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided below.
 
@@ -38,7 +35,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
 1. Go to https://portal.office.com/AdminPortal/Home#/catalog.
 
    ![Admin center](../media/AdminCenter.png "Admin Center")
-   
+
 2. Log in under your company's admin account.
 
 3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
@@ -49,14 +46,14 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
 
    ![Other plans](../media/OtherPlans.PNG "Select Other plans")
    
-6. Find the product card for Remote Assist.
+6. Find the product card for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-   ![Remote Assist product card](media/remote-assist-card.PNG "Remote Assist product card")
-           
+   ![Layout product card](../media/ProductCard.PNG "Layout product card")
+   
 7. To subscribe, select **Buy now**.
 
    > [!NOTE]
-   > If you're not ready to buy yet, you can sign up for a free 30-day trial on your organization's tenant by selecting **Start free trial**. The 30-day free trial includes access to Microsoft Teams for HoloLens users. 
+   > If you're not ready to buy yet, you can sign up for a free 30-day trial on your organization's tenant by selecting **Start free trial**.  
    
 8. Assign licenses to users as described in the next procedure.
 
@@ -69,7 +66,7 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
 
 1. In the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)], under **Billing** in the left navigation, select **Subscriptions**, and then select **Assign to users**.
 
-   ![Assign to users](media/assign-users.PNG "Assign to users")
+   ![Select Subscriptions](../media/AssignUsers.PNG "Select Subscriptions")
    
 2. Select the users you'd like to assign the trial or subscription to, and then in the **Bulk actions** menu on the right side of the screen, select **Edit product licenses**. 
 
@@ -81,11 +78,11 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
    
 4. Select the licenses you want to enable for the selected users, and then select **Add**.
 
-   ![Select licenses](media/licenses.PNG "Select licenses")
+   ![Select product licenses](../media/SelectLicenses.PNG "Select product licenses")
 
-## Make the Remote Assist app available to your users
+## Make the Layout app available to your users
 
-After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make the Remote Assist app available through one of
+After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make the Layout app available through one of
 the following:
 
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers
@@ -98,14 +95,14 @@ in any of the following ways:
 -   From an email link that you send
 -   Through mobile device management (MDM)
 
-### Install Remote Assist from the Microsoft Store for Consumers
+### Install Layout from the Microsoft Store for Consumers
 
-For information on installing the Remote Assist app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
-see the [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md). 
+For information on installing the Layout app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
+see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
-> When users launch the Remote Assist app, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 Admin Center.
-
+> <ul><li>When users launch the Layout app, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 Admin Center.</li>
+> <li>The Layout app requires users to be online once every 30 days to validate their subscription.</li></ul>
 
 ### Distribute the app through the Microsoft Store for Business
 
@@ -120,7 +117,7 @@ see the [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md).
     -   [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
-[Try Dynamics 365 Remote Assist for free for up to 90 days](try-remote-assist-free.md)<br/>
-[Overview of Dynamics 365 Remote Assist](../remote-assist/index.md)<br/>
-[Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md)<br/>
+[Try Dynamics 365 Layout for free for up to 90 days](try-layout-free.md)<br/>
+[Overview of Dynamics 365 Layout](../layout/index.md)<br/>
+[Dynamics 365 Layout User Guide](../layout/user-guide.md)<br/>
 

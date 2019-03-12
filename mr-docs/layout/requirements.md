@@ -42,7 +42,8 @@ Technical requirements
 | [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] | The [!include[pn-import-tool](../includes/pn-import-tool.md)] is a companion app that makes model optimization and management easy. The [!include[pn-import-tool](../includes/pn-import-tool.md)] runs on [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PCs, and is required to transfer existing 3D models from your PC to [!include[pn-layout](../includes/pn-layout.md)], so they can be viewed and edited from the [!include[pn-hololens](../includes/pn-hololens.md)] or mixed reality headset. The [!include[pn-import-tool](../includes/pn-import-tool.md)] is also required to transfer [!include[pn-visio](../includes/pn-visio.md)] space dimensions to the [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality headset. | [Import Tool](user-guide.md)    |
 
 ### See also
-[Try or buy, and deploy](../licensing/buy-and-deploy.md)<br/>
+[Try Layout for free](try-layout-free.md)<br/>
+[Buy and deploy Layout](buy-and-deploy-layout.md)<br>
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
 [FAQ](faq.md)<br/>
