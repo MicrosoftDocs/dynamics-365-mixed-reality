@@ -18,7 +18,7 @@ throughout your organization.
 |Product Visualize|Product Visualize software|[Sign up for preview](sign-up.md)|
 |Azure Active Directory (Azure AD) account|Required for users when signing in to the app.|[Get started with Azure AD](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis)|
 |Dynamics 365 for Sales|Product Visualize requires a Dynamics 365 for Sales license in order to display products associated with Dynamics 365 for Sales opportunities|[Learn more about Dynamics 365 for Sales](https://dynamics.microsoft.com/en-us/sales/overview/)|
-|SharePoint|Required for saving notes and accessing models|[SharePoint Online plan options](https://products.office.com/enus/sharepoint/compare-sharepoint-plans)|
+|SharePoint|Required for saving notes and accessing models|[SharePoint Online plan options](https://products.office.com/en-us/sharepoint/compare-sharepoint-plans)|
 |Microsoft Teams (optional)|A Microsoft Teams license will allow notes taken on Product Visualize to be pushed to the channel associated with that Sales Opportunity.|Teams may be [available as a free download](https://teams.microsoft.com/downloads) for users.|
 
 
