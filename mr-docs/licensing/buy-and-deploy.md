@@ -1,4 +1,5 @@
 ---
+redirect_url: /dynamics365/#pivot=mixed-reality-apps
 author: BryceHo
 description: Buy and deploy Dynamics 365 Remote Assist or Dynamics 365 Layout
 ms.author: v-brycho
