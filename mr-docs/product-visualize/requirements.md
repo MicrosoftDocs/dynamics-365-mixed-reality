@@ -9,8 +9,7 @@ throughout your organization.
 
 |Device|OS requirements|Details|
 |--------------------|-------------------------------------|--------------------------------------------|
-|iOS mobile device|iOS 11+<br>Device must be ARKit Compatible 4G/WiFi connection|[Check to see if your device 
-is compatible](https://go.microsoft.com/fwlink/p/?linkid=2082564)|
+|iOS mobile device|iOS 11+<br>Device must be ARKit Compatible 4G/WiFi connection|[Check to see if your device is compatible(https://go.microsoft.com/fwlink/p/?linkid=2082564)|
 
 ## Licensing and product requirements
 
