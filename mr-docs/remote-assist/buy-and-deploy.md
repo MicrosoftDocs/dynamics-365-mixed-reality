@@ -1,4 +1,5 @@
 ---
+redirect_url: buy-and-deploy-remote-assist
 author: MatthewJonPaul
 description: Try or buy, and deploy Dynamics 365 Remote Assist or Dynamics 365 Layout
 ms.author: mapau
