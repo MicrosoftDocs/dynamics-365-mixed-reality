@@ -1,4 +1,5 @@
 ---
+redirect_url: buy-and-deploy-layout
 author: ornellaalt
 description: Buy and deploy Dynamics 365 Remote Assist or Dynamics 365 Layout
 ms.author: ornella
