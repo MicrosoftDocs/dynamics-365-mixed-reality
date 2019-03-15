@@ -1,4 +1,13 @@
-
+---
+author: ReneeW-CPub
+description: Third-Party Software Notices and Information
+ms.author: renwe
+ms.date: 03/18/2019
+ms.service: crm-online
+ms.topic: article
+title: Third-Party Software Notices and Information
+robots: noindex, nofollow
+---
 
 # THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 
