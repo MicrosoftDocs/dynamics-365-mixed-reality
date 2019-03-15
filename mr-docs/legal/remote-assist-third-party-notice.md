@@ -9,7 +9,7 @@ title: Third-Party Software Notices and Information
 robots: noindex, nofollow
 ---
 
-# THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+# DYNAMICS 365 REMOTE ASSIST THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 
 Do Not Translate or Localize
 
