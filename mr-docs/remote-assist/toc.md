@@ -12,3 +12,4 @@
 ## Terms of Use
 ### [Remote Assist](../legal/remote-assist-license-terms.md)
 ### [Remote Assist free trial](../legal/remote-assist-license-terms-free-trial.md)
+## Third-party notice)../legal/remote-assist-third-party-notice.md)
