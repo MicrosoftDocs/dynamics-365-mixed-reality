@@ -9,7 +9,7 @@
 ## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)
 ## [For developers - protocol activation](protocol-activation.md)
 ## [FAQ](faq.md)
-## Terms of Use
+## Legal documents
 ### [Remote Assist](../legal/remote-assist-license-terms.md)
 ### [Remote Assist free trial](../legal/remote-assist-license-terms-free-trial.md)
-## [Third-party notices](../legal/remote-assist-third-party-notice.md)
+### [Third-party notices](../legal/remote-assist-third-party-notice.md)
