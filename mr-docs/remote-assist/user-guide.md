@@ -88,10 +88,13 @@ room so you can hear even if you're working in a loud environment.
 
 1. In the upper-right corner of the video feed, select the **Open Participants** button. 
 
+   > [!TIP]
+   > Select the **Open Participants** button again if you want to close the pane. 
+
 2. Use the search box search box to enter a name or email address. Select a name in the search results to begin calling. 
 
 > [!TIP]
-> Select the **Open Participants** button again to close the pane. [Learn how to add additional contacts from Microsoft Teams Desktop](https://support.office.com/en-us/article/add-someone-to-a-call-in-teams-267fb0c9-275a-4047-8412-7b2654dc29c3). 
+> [Learn how to add additional contacts from Microsoft Teams Desktop](https://support.office.com/en-us/article/add-someone-to-a-call-in-teams-267fb0c9-275a-4047-8412-7b2654dc29c3). 
 
 #### Switch the displayed video feed in a group call 
 
@@ -104,12 +107,15 @@ room so you can hear even if you're working in a loud environment.
 
 #### Mute a participant in a group call 
 
+> [!NOTE]
+> You can't mute a participant in a one-to-one call.
+
 1. In the upper-right corner of the video feed, select the **Open Participants** button. 
 
 2. Air tap the mute icon for the participant you want to mute. 
 
 > [!NOTE]
-> If you mute a participant, you won't be able to unmute that participant. They must unmute themselves through Teams. You can't mute a participant in a one-to-one call.
+> If you mute a participant, you won't be able to unmute them. They must unmute themselves through Teams. 
 
 ### Receive a video call from a contact using Microsoft Teams
 
