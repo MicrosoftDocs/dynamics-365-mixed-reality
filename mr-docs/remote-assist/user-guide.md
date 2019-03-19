@@ -86,23 +86,23 @@ room so you can hear even if you're working in a loud environment.
 
 ## Make group calls
 
-You can invite additional contacts to a call, switch between participants' video feeds, and mute participants in a call.
+You can include up to 50 people in a group call. You can also switch between participants' video feeds and mute participants as needed.
 
 ### Invite additional contacts to a call
 
 1. In the upper-right corner of the video feed, select the **Open Participants** button. 
 
    > [!TIP]
-   > Select the **Open Participants** button again if you want to close the pane. 
+   > Select the **Participants** button again if you want to close the pane. 
 
-2. Use the search box search box to enter a name or email address. Select a name in the search results to begin calling. 
+2. Select one of your recent contacts, or select **Invite Someone** at the bottom of the pane, enter a name or email address, and then seelect a name in the search results to start the call. 
 
 > [!TIP]
 > [Learn how to add additional contacts from Microsoft Teams Desktop](https://support.office.com/en-us/article/add-someone-to-a-call-in-teams-267fb0c9-275a-4047-8412-7b2654dc29c3). 
 
 ### Switch the displayed video feed in a group call 
 
-1. In the upper-right corner of the video feed, select the **Open Participants** button. 
+1. In the upper-right corner of the video feed, select the **Participants** button. 
 
 2. Hover over the participant whose video feed you want to switch to, and then select it. If the participant's video feed is enabled, the video will switch to their feed. 
 
@@ -114,7 +114,7 @@ You can invite additional contacts to a call, switch between participants' video
 > [!NOTE]
 > You can't mute a participant in a one-to-one call.
 
-1. In the upper-right corner of the video feed, select the **Open Participants** button. 
+1. In the upper-right corner of the video feed, select the **Participants** button. 
 
 2. Air tap the mute icon for the participant you want to mute. 
 
