@@ -92,6 +92,8 @@ You can include up to 50 people in a group call. You can also switch between par
 
 1. In the upper-right corner of the video feed, select the **Open Participants** button. 
 
+    ![TEST GIF](media/InviteKeyboard_gif.gif "TEST GIF")
+
    > [!TIP]
    > Select the **Participants** button again if you want to close the pane. 
 
