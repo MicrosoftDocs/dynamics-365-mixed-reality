@@ -31,9 +31,9 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643).
 
--   A contact using the latest version of [Microsoft
+-   To make a video call, you'll need a contact using the latest version of [Microsoft
     Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) on
-    a PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 to make a video call. [Learn about using Teams with
+    a PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 or a mobile device running Microsoft Teams Mobile. [Learn about using Teams with
     Remote Assist.](use-microsoft-teams-with-remote-assist.md)
 
 -   To connect to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] from within [!include[pn-remote-assist](../includes/pn-remote-assist.md)],
