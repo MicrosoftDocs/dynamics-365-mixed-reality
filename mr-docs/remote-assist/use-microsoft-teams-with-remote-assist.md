@@ -38,7 +38,7 @@ The Remote Assist user (first-line worker) on HoloLens needs:
 
 The expert needs:
 
--   A PC running Windows 10 with the latest version of [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software). The expert uses Teams to communicate with the Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads).
+-   A PC running Windows 10 with the latest version of [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) or a mobile device running Microsoft Teams Mobile. The expert uses Teams to communicate with the Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads).
 
 -   A free [!include[cc-microsoft](../includes/cc-microsoft.md)] account. The expert might already have a [!include[cc-microsoft](../includes/cc-microsoft.md)] account
     if they signed up for the [!include[cc-microsoft](../includes/cc-microsoft.md)] App Store, Skype, Xbox, Hotmail, or
