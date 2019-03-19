@@ -86,6 +86,8 @@ room so you can hear even if you're working in a loud environment.
 
 ## Make group calls
 
+You can invite additional contacts to a call, switch between participants' video feeds, and mute participants in a call.
+
 ### Invite additional contacts to a call
 
 1. In the upper-right corner of the video feed, select the **Open Participants** button. 
