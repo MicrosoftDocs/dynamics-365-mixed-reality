@@ -64,6 +64,28 @@ ms.custom:
                                     </div>
                                 </div>
                             </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
+                                                    <img alt="" src="../images/ProductVisualize_outline_36px_blue.svg">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Product Visualize in Preview</h3>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/index">Overview</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/requirements">Requirements</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/setup">Setup</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/user-guide">User Guide</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/faq">FAQ</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/legal/product-visualize-terms">Terms of use</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
                         </ul>
                     </li>
                 </ul>
