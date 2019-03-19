@@ -84,7 +84,7 @@ what you see in your space—including holograms.
 > Dynamic audio adjusts the volume level based on ambient noise in the
 room so you can hear even if you're working in a loud environment.
 
-#### Invite additional contacts to the call from Remote Assist 
+#### Invite additional contacts to the call
 
 1. In the upper-right corner of the video feed, select the **Open Participants** button. 
 
