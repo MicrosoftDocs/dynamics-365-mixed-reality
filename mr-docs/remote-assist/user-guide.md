@@ -84,7 +84,9 @@ what you see in your space—including holograms.
 > Dynamic audio adjusts the volume level based on ambient noise in the
 room so you can hear even if you're working in a loud environment.
 
-#### Invite additional contacts to the call
+## Make group calls
+
+### Invite additional contacts to a call
 
 1. In the upper-right corner of the video feed, select the **Open Participants** button. 
 
@@ -96,7 +98,7 @@ room so you can hear even if you're working in a loud environment.
 > [!TIP]
 > [Learn how to add additional contacts from Microsoft Teams Desktop](https://support.office.com/en-us/article/add-someone-to-a-call-in-teams-267fb0c9-275a-4047-8412-7b2654dc29c3). 
 
-#### Switch the displayed video feed in a group call 
+### Switch the displayed video feed in a group call 
 
 1. In the upper-right corner of the video feed, select the **Open Participants** button. 
 
@@ -105,7 +107,7 @@ room so you can hear even if you're working in a loud environment.
 > [!TIP] 
 > You can also switch video feeds from the “participant tray” located below the video feed. Hover over the avatar to display the participant's name, and then air tap to switch video feeds. 
 
-#### Mute a participant in a group call 
+### Mute a participant in a group call 
 
 > [!NOTE]
 > You can't mute a participant in a one-to-one call.
