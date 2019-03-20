@@ -1,4 +1,4 @@
-# Dynamics 365 Product Visualize in preview
+# Dynamics 365 Product Visualize (in preview)
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
 ## [Setup](sign-up.md)
