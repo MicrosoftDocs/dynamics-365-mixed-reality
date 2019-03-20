@@ -1,4 +1,9 @@
 
+# Frequently asked questions about Dynamics 365 Product Visualize
+
+**What are the requirements for running Dynamics 365 Product Visualize and what platforms does it work with?**
+
+For information on platforms and requirements, check out our Requirements page(requirements.md).
 
 **What kind of 3D content can I add?**
 
@@ -6,7 +11,7 @@ Microsoft Dynamics 365 Product Visualize supports GLF files.
 
 **How do I get my content in the right format?**
 
-To learn how to format your content, See this page for details on how to properly format your content. (https://go.microsoft.com/fwlink/p/?linkid=2083000). If you need assistance, contact our team <proper link from asset team>
+To learn how to format your content, see the following page on the Kronos website: [Art Pipeline for glTF](https://go.microsoft.com/fwlink/p/?linkid=2083000). If you need assistance, please [contact our team].
 
 **How does Product Visualize connect with Dynamics 365 for Sales?**
 
@@ -18,6 +23,3 @@ To learn how to associate a 3D model with a product, [check out our user guide](
 
 At this time, Product Visualize does not support remote capabilities.
 
-**What are the requirements for running Dynamics 365 Product Visualize and what platforms does it work with?**
-
-For information on platforms and requirements, check out our Requirements page(requirements.md).
