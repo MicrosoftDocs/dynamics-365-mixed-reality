@@ -3,7 +3,7 @@
 
 **What are the requirements for running Microsoft Dynamics 365 Product Visualize and what platforms does it support?**
 
-For information on platforms and requirements, check out our Requirements page(requirements.md).
+For information on platforms and requirements, check out [our Requirements page](requirements.md).
 
 **What kind of 3D content can I add?**
 
