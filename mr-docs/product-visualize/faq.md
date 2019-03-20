@@ -17,7 +17,7 @@ To learn how to format your content, see the following page on the Kronos websit
 
 After logging in with your Azure Active Directory credentials, Product Visualize diplays organizations associated with your Dynamics 365 for Sales account. Opportunities and products associated with your organizations will automatically show up in the app, as will 3D models attached to your products.
 
-To learn how to associate a 3D model with a product, [check out our user guide](user-guide.md).
+To learn how to associate a 3D model with a product, [check out our User Guide](user-guide.md).
 	
 **Can I use Dynamics 365 Product Visualize to do remote sales?**
 
