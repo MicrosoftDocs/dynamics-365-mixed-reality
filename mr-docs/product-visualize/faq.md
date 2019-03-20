@@ -1,5 +1,5 @@
 
-# Frequently asked questions about Dynamics 365 Product Visualize
+# Dynamics 365 Product Visualize FAQ
 
 **What are the requirements for running Dynamics 365 Product Visualize and what platforms does it work with?**
 
