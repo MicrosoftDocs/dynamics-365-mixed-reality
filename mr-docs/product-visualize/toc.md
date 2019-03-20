@@ -4,4 +4,4 @@
 ## [Setup](sign-up.md)
 ## [User Guide](user-guide.md)
 ## [FAQ](faq.md)
-## [Terms of use](tou.md)
+## [Terms of use](../legal/prodcut-visualize-terms.md)
