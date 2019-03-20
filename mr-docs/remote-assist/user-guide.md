@@ -93,7 +93,7 @@ You can include up to 50 people in a group call. You can also switch between par
 1. In the upper-right corner of the video feed, select the **Open Participants** button.     
 
    > [!TIP]
-   > Select the **Participants** button again if you want to close the pane. 
+   > Select the **Open Participants** button again if you want to close the pane. 
 
 2. Select one of your recent contacts, or select **Invite Someone** at the bottom of the pane, enter a name or email address using the holographic keyboard, and then seelect a name in the search results to start the call. 
 
@@ -108,8 +108,12 @@ You can include up to 50 people in a group call. You can also switch between par
 
 2. Hover over the participant whose video feed you want to switch to, and then select it. If the participant's video feed is enabled, the video will switch to their feed. 
 
+   ![Animation of video feed switch](media/FeedSwitch_gif.gif "Animation of video feed switch")
+
 > [!TIP] 
 > You can also switch video feeds from the “participant tray” located below the video feed. Hover over the avatar to display the participant's name, and then air tap to switch video feeds. 
+
+![Animation of tray switch](media/TraySwitch_gif.gif "Animation of tray switch")
 
 ### Mute a participant in a group call 
 
