@@ -19,7 +19,7 @@ After logging in with your Azure Active Directory credentials, Product Visualize
 
 To learn how to associate a 3D model with a product, [check out our User Guide](user-guide.md).
 	
-**Can I use Dynamics 365 Product Visualize to do remote sales?**
+**Can I use Product Visualize to do remote sales?**
 
 At this time, Product Visualize does not support remote capabilities.
 
