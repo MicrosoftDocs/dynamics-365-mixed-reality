@@ -7,7 +7,7 @@ For information on platforms and requirements, check out [our Requirements page]
 
 **What kind of 3D content can I add?**
 
-Product Visualize supports GLF files only.
+Product Visualize supports GLB files only.
 
 **How do I get my content in the right format?**
 
