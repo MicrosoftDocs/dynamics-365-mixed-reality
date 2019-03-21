@@ -42,7 +42,7 @@ This topic provides step-by-step instructions for all of the above.
 
 After signing up for the preview, you’ll need to create an environment where you can install the Guides solution. If you already have a Common Data Service for Apps environment, you can skip to [Step 3: Install and configure the Guides solution](#configure).
 
-1.	 Go to the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home).
+1.	 Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
 
 2.  Under **Billing**, select **Purchase Services**, and then search for **PowerApps Plan 2**.
 
@@ -278,7 +278,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
 
 ### Add a user account
 
-1.	Go to the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home).
+1.	Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
 
 2.	Select **Add a user**.
 
