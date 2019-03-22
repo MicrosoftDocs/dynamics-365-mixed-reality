@@ -1,6 +1,6 @@
 
 
-## Install and sign in to Product Visualize
+# Open and sign in to Product Visualize
 
 Product Visualize works together with Dynamics 365 for Sales, so you’ll need a Dynamics 365 account to access the full power of the app.    When you sign in with your Dynamics 365  for Sales account, the Product Visualize app automatically connects to your Dynamics 365 for Sales opportunities.
 
@@ -17,15 +17,7 @@ You can open and sign in to Product Visualize on your iOS device in two differen
 > [!NOTE]
 > At this time, Product Visualize is only available for iOS devices.
 
-### Install the app from the Apple Store  
-
-1.	Go to the Apple Store.
-
-2.	Search for “Dynamics 365 Product Visualize”.
-
-3.	Download and install the app.
-
-### Open the app and sign in for the first time
+## Open the app and sign in for the first time
 
 1.	On your iOS device, search for “Dynamics 365 Product Visualize”, and then open the app.
 
@@ -45,13 +37,13 @@ You can open and sign in to Product Visualize on your iOS device in two differen
  
     Product Visualize pulls in your opportunities from Dynamics 365 for Sales by default. You can also view followed opportunities and connect opportunities.
     
-### Sign in from Dynamics 365 for Sales
+## Sign in from Dynamics 365 for Sales
 
 You can also launch Product Visualize directly from Dynamics 365 for Sales on your iOS device. This makes it easy to visualize your products in 3D as you work with your sales opportunities. 
 
 If you haven’t already installed Product Visualize on your iOS device, you can install it from Dynamics 365 for Sales.
 
-#### Sign in from Dynamics 365 for Sales for the first time
+### Sign in from Dynamics 365 for Sales for the first time
 
 1.	Open one of your opportunities in Dynamics 365 for Sales.
 
@@ -72,7 +64,7 @@ If you haven’t already installed Product Visualize on your iOS device, you can
  
 8.	In the **My Opportunities** screen, select the opportunity you want to work on.
  
-### Switch to a different organization
+## Switch to a different organization
 
 If you have access to more than one Dynamics 365 organization,  you can use this procedure to switch between organizations.
 
