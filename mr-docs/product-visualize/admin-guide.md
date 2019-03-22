@@ -141,7 +141,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
 5. Create a new price list by selecting **New** near the top-left of the page.
 
-6. Give the price list a name (Default Price List, for example), and then select **Save and Close**.
+6. Give the price list a name (Default Price List), and then select **Save and Close**.
 
 ### Create a product family (optional)
 
@@ -151,36 +151,62 @@ This section provides step-by-step instructions for creating a new price list, p
 
 3. Select **Add Family** to create a new product family.
 
-4. Give the family a name (Product Samples, for example) and Product ID (PS-1, for example), and then select **Save**.
+4. Give the family a name (Product Samples) and a Product ID (PS-1), and then select **Save**.
 
 5. Select **Publish** to finish creating the product family.
 
-### Create a Product
-1. Return to the Product list page by click __Products__ in the Navigation bar on the left
-2. Create a new Product by clicking __Add Product__
-3. Fill in the __Name__ and __Product ID__ with any values you want
-4. Set the __Parent__ value to the __Product Samples__ family created earlier. 
-5. Set the __Unit Group__ field to __Default Unit__, set the __Default Unit__ field to __Primary Unit__
-6. Set the __Supported Decimals__ to 2
-7. __Save__ (but don't close) the Product
-8. Set the __Default Price List__ to the one created earlier
-9. Click the __Additional Details__ tab, directly above the __Name__ field
-10. In the __Price List Items__ section click __Add New Price List Item__
-11. Assign the Price List created earlier in the __Price List__ Field
-12. Switch to the __Pricing Information__ tab and fill in the __Amount__ field with the price for your Product
-13. __Save__ the Product again
-14. Click __Publish__ to finish creating the Product
+### Create a product
 
-## Adding Models
-Presenting complicated Products to a customer with traditional 2D materials always left something to be desired and creating physical 3D models was time-consuming and costly. Product Visualize simplifies the entire process by bringing 3D digital Models into the real-world. 
+1. In the left navigation, select **Products** to return to the product list. 
 
-Product Visualize makes use of the widely available GL Transmission Format (glTF) to store Model data. Many of the most popular 3D Modeling Products used by Engineering and Marketing teams already supports this format and exporters exist to convert many other formats to glTF. This section will guide you through adding a Model and thumbnail image to Product Visualize.
+2. Select **Add Product** to create a new product.
 
-1. Return to the Product list page by click __Products__ in the Navigation bar on the left
-2. Open a Product by clicking on its name
-3. From the __Related__ tab select __Documents__, which takes you to a view of the SharePoint Document location for that Product
-4. From the __Open Location__ dropdown select __Documents on Default Site 1__ to open the SharePoint location outside of Dynamics
-5. Drag and drop your Model folder into this location and they will automatically show up in Product Visualize. Models should be added with the following folder structure:
+3. Add values for **Name** and **Product ID** (use any values that you want).
+
+4. Set the **Parent** field to the **Product Samples** (the product family created in the previous procedure).
+
+5. Set the **Unit Group** field to **Default Unit**, and set the **Default Unit** field to **Primary Unit**.
+
+6. Set the **Supported Decimals** to **2**.
+
+7. Select **Save**, but don't close the product.
+
+8. Set the **Default Price List** field to **Default Price List**.
+
+9. Select the **Additional Details** tab, directly above the **Name** field.
+
+10. In the **Price List Items** section, select **Add New Price List Item**.
+
+11. Assign the price list created earlier in the **Price List** field.
+
+12. Switch to the **Pricing Information** tab, and then fill in the **Amount** field with the price for your product.
+
+13. Select **Save**.
+
+14. Select **Publish** to finish creating the product.
+
+## Add models
+
+Presenting complicated products to a customer with traditional 2D materials is unsatisfactory and creating 
+physical 3D models is time-consuming and costly. Product Visualize simplifies the entire process by bringing 3D digital 
+models into the real-world. 
+
+Product Visualize makes use of the widely available GL Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format and exporting tools exist to convert many other formats to glTF. This section provides step-by-step instructions for adding a model and thumbnail image to Product Visualize.
+
+### Add a model
+
+1. In the left navigation, select **Products** to go back to the **Product list** page.
+
+2. Select a product to open it. 
+
+3. On the **Related** tab, select **Documents**.
+
+   You'll see a view of the SharePoint Document location for that product.
+
+4. In the **Open Location** drop-down list, select **Documents on Default Site 1** to open the SharePoint location outside of Dynamics 365.
+
+5. Drag and drop your model folder into this location. It will automatically show up in Product Visualize. Add models using the following folder structure:
+
     * \<Product>
       * \<Model Name> (Folder)
         * \<Model Name>.gltf
@@ -191,7 +217,8 @@ Product Visualize makes use of the widely available GL Transmission Format (glTF
          * Thumbnails (Folder)
             * \<ModelName>.png
 
-## Adding Opportunities
+## Add opportunities
+
 Opportunities represent a chance to sell your Products to a customer. They capture a customer's needs, budget, and timeline, in addition to the list of Products the customer is interested in buying. Salespeople can view their open Opportunities directly from the Product Visualize app, but they must be added through the Sales Hub interface
 1. Return to your Dynamics 365 Sales Hub
 2. Open the Navigation menu on the left and click __Opportunities__
