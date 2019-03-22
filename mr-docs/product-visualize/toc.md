@@ -5,7 +5,7 @@
 ## [User Guide](user-guide.md)
 ### [Open the app and sign in](sign-in.md)
 ### [Work with 3D models](manipulate-models.md)
-### [Add a note to your model](add-note.md)
+### [Add a note to your 3D model](add-note.md)
 ### [Add your own 3D models](add-model.md)
 ### [Explore sample 3D models](explore-samples.md)
 ## [FAQ](faq.md)
