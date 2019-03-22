@@ -51,7 +51,7 @@ After creating the Active Directory tenant, the next step is to add an admin use
 
 6. If prompted, create a new password for the admin user.
 
-# Add a Dynamics 365 Customer Engagement trial
+## Add a Dynamics 365 Customer Engagement trial
 
 Product Visualize integrates directly with Dynamics 365 for Sales, which enables your salespeople to seamlessly transition from essential customer data to an engaging sales experience that changes the way customers think about your products.
 
