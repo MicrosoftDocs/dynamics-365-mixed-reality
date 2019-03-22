@@ -131,7 +131,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
 ### Create a price list
 
-1. Go to the Sales Hub application for your Dynamics 365 instance.
+1. Go to the Dynamics 365 Sales Hub [https://\<org\>.crm.dynamics.com](https://\<org\>.crm.dynamics.com).
 
 2. In the upper-right cornert of the page, select the **Settings** button, and then select **Advanced Settings**.
 
@@ -143,13 +143,18 @@ This section provides step-by-step instructions for creating a new price list, p
 
 6. Give the price list a name (Default Price List, for example), and then select **Save and Close**.
 
-### Create a Product Family (Optional)
-1. Return to your Dynamics 365 Sales Hub [https://\<org\>.crm.dynamics.com](https://\<org\>.crm.dynamics.com)
-2. Open the Navigation menu on the left and click __Products__
-3. Create a new Product Family by clicking __Add Family__
-4. Give the family a __Name__ (Product Samples) and __Product ID__ (PS-1) before clicking __Save__
-5. Now click __Publish__ to finish creating the Product Family
-6. 
+### Create a product family (optional)
+
+1. Go to the Dynamics 365 Sales Hub [https://\<org\>.crm.dynamics.com](https://\<org\>.crm.dynamics.com).
+
+2. Open the navigation menu on the left, and then select **Products**.
+
+3. Select **Add Family** to create a new product family.
+
+4. Give the family a name (Product Samples, for example) and Product ID (PS-1, for example), and then select **Save**.
+
+5. Select **Publish** to finish creating the product family.
+
 ### Create a Product
 1. Return to the Product list page by click __Products__ in the Navigation bar on the left
 2. Create a new Product by clicking __Add Product__
