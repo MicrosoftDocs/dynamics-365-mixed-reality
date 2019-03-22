@@ -58,27 +58,44 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 ### Add a user to your organization
 
-1. Visit [https://admin.microsoft.com](https://admin.microsoft.com) and login with the administrator credentials
-2. From the navigation menu on the left, drop down the __Users__ section and select __Active Users__
-3. Near the top of the page find the __Add a User__ button and click it to open the New User dialog
-4. In the New User dialog, fill in the following fields for the User:
-    * First Name
-    * Last Name
-    * Display Name
-    * Username
-    * Location
-5. Assign the user a role based on what resources they should be accessing:
-    * **User** - This user won't have permissions to the Office 365 admin center or any admin tasks
-    * **Global Administrator** - This user will have access to all features in the admin center and can perform all tasks in the Office 365 admin center
-    * **Custom Administrator** - You can assign this user one or many roles so they can manage specific areas of Office 365
-6. Enable the Licenses for __Dynamics 365 for Sales__ and __Office 365 Enterprise__
-7. Click __Add__ to submit the changes
-8. On the confirmation page, make note of the __Username__ and __Password__ before clicking __Close__
-9. Select the user you just created and on the __Group Memberships__ line click __Edit__
-10. Search for the user group you created earlier and click the group name to add the user to the group
-11. Click __Close__ to finish adding the user
+1. Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with the administrator credentials.
 
-**Note:** It may take some time for users added to your organization to show up in Dynamics, so we suggest adding all the users to your Organization before continuing
+2. In the left nagivation, select **Users**, and then select **Active Users**.
+
+3. Near the top of the page, select the **Add a User** button.
+
+4. In the **New User** dialog box, fill in the following fields:
+
+    - First Name
+    
+    - Last Name
+    
+    - Display Name
+    
+    - Username
+    
+    - Location
+    
+5. Assign the user a role based on the resources they need to access:
+
+    * **User** - This user won't have permissions to the Microsoft 365 admin center or any admin tasks.
+    
+    * **Global Administrator** - This user will have access to all features in the admin center and can perform all tasks in the Microsoft 365 admin center.
+    
+    * **Custom Administrator** - You can assign this user one or many roles so they can manage specific areas of Office 365.
+    
+6. Enable the licenses for **Dynamics 365 for Sales** and **Office 365 Enterprise**, and then select **Add**.
+
+7. In the confirmation page, make note of the username and password before selecting **Close**.
+
+8. Select the user you just created, and then select **Edit** next to **Group Memberships**.
+
+9. Search for the user group you created earlier, and then select the group name to add the user to the group.
+
+10. Select **Close** to finish adding the user.
+
+    > [NOTE]
+    > It may take some time for users added to your organization to show up in Dynamics 365, so it's a good idea to add all the users to your organization before continuing.
 
 ### Assign a security Role to the User
 
