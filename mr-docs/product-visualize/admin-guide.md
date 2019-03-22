@@ -22,35 +22,42 @@ This topic provides step-by-step procedures for all of the above.
 
 You can use Office 365 Groups to choose a set of people to collaborate with and to set up a collection of shared resources. Providing access to the group saves time because that way, you don't have to provide individual SharePoint permissions. The group needs to have Read/Write permissions to the SharePoint site to make full use of Product Visualize.
 
-### Create a User Group
+### Create a user group
 
-1. Open a new private browser window
+1. Open a new private browser window.
 
-2. Visit [https://admin.microsoft.com](https://admin.microsoft.com) and login with the administrator credentials
+2. Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with the administrator credentials.
 
-3. From the navigation menu on the left, drop down the __Groups__ section and select __Groups__
+3. In the left navigation, select **Groups** and then select **Groups** again.
 
-4. Near the top of the page click the __Add a Group__ button
+4. Near the top of the page, select the **Add a Group** button.
 
-5. Give the group a __Name__ and set the __Group Type__ should be set to __Office 365__
+5. Give the group a name and set the Group Type to **Office 365**.
 
-6. Add the admin user as the owner of the group by clicking the __Select Owner__ button
+6. Add the admin user as the owner of the group by selecting the **Select Owner** button.
 
-7. Click __Add__ to finish adding the group
+7. Select **Add** to finish adding the group.
 
-### Share the SharePoint site with the Group
-1. Navigate to your trail's SharePoint site [https://\<org\>.sharepoint.com]()
-2. In the upper right corner of the page click __Share Site__
-3. From the __Share__ window search for the group you made earlier and click the group name to add it to the site
-4. Grant the group __Edit__ permission by clicking the small arrow under the group name
-5. Click __Share__ to finish granting the group access to SharePoint
+### Share the SharePoint site with the group
 
-## Adding Users
-The administrative user created during the setup of your instance has full control of all aspects of your test environment. This user can administer your team's licenses, edit settings in Dynamics, and manage who has access to your services. Additional users can easily be added with more restrictive permissions so each salesperson can work with their own account.
+1. Go to your trial's SharePoint site: [https://\<org\>.sharepoint.com]().
 
-New users must first be added in the Azure Active Directory, which assigns them a username and password. Then, the user must be assigned a security role in Dynamics 365 in order to access the Dynamics applications.
+2. In the upper-right corner of the page, select **Share Site**.
 
-### Add a user to your Organization
+3. In the **Share** window, search for the group you created earlier, and then select the group name to add it to the site.
+
+4. Grant the group Edit permission by selecting the small arrow under the group name.
+
+5. Select **Share** to finish granting group access to SharePoint.
+
+## Add users
+
+The admin user created during the setup of your instance has full control of all aspects of your test environment. This user can administer your team's licenses, edit settings in Dynamics 365, and manage who has access to your services. The admin user can also add more users with more restrictive permissions so each salesperson can work with their own account.
+
+New users must first be added in the Azure Active Directory, which assigns them a username and password. Then, the user must be assigned a security role in Dynamics 365 so they can access the Dynamics 365 applications.
+
+### Add a user to your organization
+
 1. Visit [https://admin.microsoft.com](https://admin.microsoft.com) and login with the administrator credentials
 2. From the navigation menu on the left, drop down the __Users__ section and select __Active Users__
 3. Near the top of the page find the __Add a User__ button and click it to open the New User dialog
