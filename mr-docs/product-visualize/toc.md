@@ -6,5 +6,6 @@
 ### [Open the app and sign in](sign-in.md)
 ### [Work with 3D models](manipulate-models.md)
 ### [Add a note to your model](add-note.md)
+### [Add your own 3D models)(add-model.md)
 ## [FAQ](faq.md)
 ## [Terms of use](../legal/product-visualize-terms.md)
