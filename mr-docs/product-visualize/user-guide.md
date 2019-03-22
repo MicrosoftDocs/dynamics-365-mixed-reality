@@ -7,7 +7,7 @@ helping create a shared understanding between buyer and seller to accelerate com
 
 This User Guide describes how to:
 
-[Open and sign in to the app](sign-in.md)<br>
+[Open the app and sign in](sign-in.md)<br>
 [Work with 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
 [Add your own 3D models](add-model.md)<br>
