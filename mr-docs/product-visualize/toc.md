@@ -3,6 +3,6 @@
 ## [Requirements](requirements.md)
 ## [Setup](sign-up.md)
 ## [User Guide](user-guide.md)
-### [Open and sign in to the app](sign-in.md)
+### [Open the app and sign in](sign-in.md)
 ## [FAQ](faq.md)
 ## [Terms of use](../legal/product-visualize-terms.md)
