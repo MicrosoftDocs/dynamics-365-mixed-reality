@@ -5,7 +5,7 @@
 Microsoft Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their actual environment, 
 helping create a shared understanding between buyer and seller to accelerate complex sales processes.
 
-This User Guide describes how to:
+This User Guide describes everything you need to know about working with the app. It shows you how to:
 
 [Open the app and sign in](sign-in.md)<br>
 [Place and manipulate 3D models](manipulate-models.md)<br>
