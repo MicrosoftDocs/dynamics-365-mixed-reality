@@ -10,7 +10,7 @@ Product Visualize works together with Dynamics 365 for Sales, so you’ll need a
 You can open and sign in to Product Visualize on your iOS device in two different ways:
 
 - Open the app on your iOS device like you would any other app, and then sign in.
-- Select any GLB file in your Dynamics 365 for Sales opportunity.
+- Select any 3D model (GLB file) in your Dynamics 365 for Sales opportunity.
 
 > [!NOTE]
 > At this time, Product Visualize is only available for iOS devices.
