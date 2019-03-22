@@ -219,46 +219,80 @@ Product Visualize makes use of the widely available GL Transmission Format (glTF
 
 ## Add opportunities
 
-Opportunities represent a chance to sell your Products to a customer. They capture a customer's needs, budget, and timeline, in addition to the list of Products the customer is interested in buying. Salespeople can view their open Opportunities directly from the Product Visualize app, but they must be added through the Sales Hub interface
-1. Return to your Dynamics 365 Sales Hub
-2. Open the Navigation menu on the left and click __Opportunities__
-3. Create a new Opportunity by clicking the __New__ button at the top of the page
-4. Give the Opportunity a name by filling in the __Topic__ field
-5. (Optional) Assign the __Owner__ field to any user you have already added
-6. __Save__ (but do not close) the Opportunity
-7. Open the __Product Line Items__ tab 
-8. Set the __Price List__ to the one we created earlier
-9. Click the __Add New Opportunity Product__ button 
-10. In the __Existing Product__ field select one of the Products you created
-11. Enter a __Quantity__
-12. __Save and Close__
+Opportunities represent a chance to sell your products to a customer. They capture a customer's needs, budget, and timeline, in addition to the list of products the customer is interested in buying. Salespeople can view their open opportunities directly from the Product Visualize app, but they must be added through the Sales Hub interface.
+
+### Add an opportunity
+
+1. Go to the Dynamics 365 Sales Hub.
+
+2. In the left navigation, select **Opportunities**.
+
+3. Select **New** at the top of the page to create a new opportunity.
+
+4. In the **Topic** field, add a name for the opportunity.
+
+5. Assign the **Owner** field to any user you already added (optional).
+
+6. Select **Save**, but don't close the opportunity.
+
+7. Open the **Product Line Items** tab. 
+
+8. Set the **Price List** to the one created earlier.
+
+9. Select the **Add New Opportunity Product** button. 
+
+10. In the **Existing Product** field, select one of the products you created.
+
+11. In the **Quantity** field, enter a quantity.
+
+12. Select **Save and Close**.
 
 ## Install the Product Visualize Control
-The Product Visualize Control is an optional enhancement that allows salespeople to launch the Product Visualize app directly from Dynamics 365 on their mobile devices. The Control is lightweight and can easily be updated and removed.
 
-### Import the Product Visualize Solution
-1. Return to your Dynamics 365 Sales Hub
-2. Navigate to the Settings Menu by clicking the __Gear Icon__ in the upper-right corner of the page and select __Advanced Settings__. 
-3. From the __Settings__ dropdown at the top of the page select __Solutions__
-4. Download the __Product Visualize__ solution to your PC.
-5. Import the solution by clicking the __Import__ button and selecting the solution zip file you downloaded
+The Product Visualize Control is an optional enhancement that allows salespeople to open the Product Visualize app directly from Dynamics 365 for Sales on their mobile devices. The control is lightweight and can easily be updated and removed.
 
-### Customize the Opportunity Page
-There are numerous ways you can customize your Opportunity pages in Dynamics 365 for Sales. This section guides you through our suggested customizations, but feel free to adapt this to your exact needs.
-1. From the __Settings__ dropdown at the top of the page select __Customizations__ and then __Customize the System__
-2. In the panel on the left find __Entities > Opportunity > Forms__
-3. Click the __Opportunity__ form where the __Form Type__ is set to __Main__ (not the one marked __Quick Create__)
-4. With the __Summary__ section insert a __One Column Tab__ from the __Insert__ menu at the top of the page
-5. Double click on the newly created tab, set the __Name__ and __Label__ fields to __Product Visualize__, and click __OK__
-6. Drag a the __Description__ field into the newly created tab from the menu on the right. You may have to uncheck the __Only Show Unused Fields__ options in order to see the __Description__ field
-7. Double click on the __Description__ field you just placed to open the __Field Properties__ dialog
-8. On the __Display__ tab uncheck __Display Label on the Form__
-9. On the __Controls Page__ add the __Product Visualize__ control from the list and check the __Web__, __Phone__, and __Tablet__ options
-10. Click __OK__ to finish adding the control
-11. __Save__ your changes from the Menu bar
-12. __Publish__ your changes and they will be immediately visible on any Opportunity page
+### Import the Product Visualize solution
 
-## Accept App Permissions
+1. Go to the Dynamics 365 Sales Hub.
+
+2. Select the **Settings** button, and then select **Advanced Settings**.
+
+3. In the **Settings** drop-down list at the top of the page, select **Solutions**.
+
+4. Download the **Product Visualize** solution to your PC.
+
+5. Import the solution by clicking the **Import** button and selecting the solution zip file you downloaded.
+
+### Customize the Opportunity page
+
+There are numerous ways you can customize your Opportunity page in Dynamics 365 for Sales. This procdrue provides suggested customizations, but feel free to adapt to your needs.
+
+1. In the **Settings** drop-down list at the top of the page, select **Customizations**, and then select **Customize the System**.
+
+2. In the panel on the left, select **Entities > Opportunity > Forms**.
+
+3. Select the **Opportunity** form where the **Form Type** is set to **Main** (not the one marked **Quick Create**).
+
+4. In the **Summary** section, on the **Insert** menu at the top of the page, insert a **One Column Tab**.
+
+5. Double-click the newly created tab, set the **Name** and **Label** fields to **Product Visualize**, and then select **OK**.
+
+6. Drag a **Description** field into the newly created tab from the menu on the right. You may have to clear the check box for the **Only Show Unused Fields** options to see the **Description** field.
+
+7. Double-click the **Description** field you just placed to open the **Field Properties** dialog box.
+
+8. On the **Display** tab, clear the check box for **Display Label on the Form**.
+
+9. On the **Controls Page**, add the **Product Visualize** control from the list, and then select the **Web**, **Phone**, and **Tablet** options.
+
+10. Select **OK** to finish adding the control.
+
+11. Select **Save** to save your changes from the menu bar.
+
+12. Select **Publish** to publish your changes and make them immediately visible on any Opportunity page.
+
+## Accept app permissions
+
 The Product Visualize mobile app requires permission to access the Dynamics 365 for Sales and SharePoint instances you set up earlier. As a global administrator for the trial tenant you can grant access to the entire organization so that each user doesn't have to do it individually.
 1. Download the __Microsoft Dynamics 365 Product Visualize__ app from the Apple App Store
 2. Open the app and click __Sign In__ with the trial environment's administrator credentials
