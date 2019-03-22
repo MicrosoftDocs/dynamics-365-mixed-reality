@@ -28,7 +28,7 @@ The first step is to setup a new Azure Active Directory tenant. This ensures tah
 
 ## Add an admin user
 
-After creating the Active Directory tenant, the next step is to add an admin user to the tenant. The admin user will be responsible for creating additional users, assigning licenses, and initializing Dynamics 365. 
+After creating the Active Directory tenant, the next step is to add an admin user to the tenant. The admin user is responsible for creating additional users, assigning licenses, and initializing Dynamics 365. 
 
 > [!NOTE] 
 > We suggest creating a separate administrator account for each tenant.
@@ -51,52 +51,90 @@ After creating the Active Directory tenant, the next step is to add an admin use
 
 6. If prompted, create a new password for the admin user.
 
-# Add a Dynamics 365 Customer Engagement Trial
-Product Visualize integrates directly into Dynamics 365 for Sales, allowing your salespeople to seamlessly transition from the vital customer data into an engaging sales experience that will change the way customers think about your products.
-1. In a private browser window, return to [https://admin.microsoft.com](https://admin.microsoft.com)
-2. Click __Billing > Subscriptions__ and click __Add Subscription__
-3. Find __Dynamics 365 Customer Engagement__ and select __Start Free Trial__
-4. At the summary page double-check  that you are signing-up for a __Dynamics 365 Customer Engagement__ trial and click __Try Now__. Then click __Continue__ from the confirmation page.
+# Add a Dynamics 365 Customer Engagement trial
+
+Product Visualize integrates directly with Dynamics 365 for Sales, which enables your salespeople to seamlessly transition from essential customer data to an engaging sales experience that changes the way customers think about your products.
+
+1. In a private browser window, go to [https://admin.microsoft.com](https://admin.microsoft.com).
+
+2. Under **Billing**, select **Subscriptions**, and then select **Add Subscription**.
+
+3. Search for **Dynamics 365 Customer Engagement** and then select **Start Free Trial**.
+
+4. In the summary page, make sure you're signing-up for a Dynamics 365 Customer Engagement trial, select **Try Now**, and then select **Continue**.
 
 ## Assign licenses
-Now that you have license to Dynamics 365 Customer Engagement you have to assign that licenses to your admin user. 
-1. In a private browser window, return to [https://admin.microsoft.com](https://admin.microsoft.com)
-2. From the navigation menu on the left select __Users > Active Users__
-3. Edit the properties for your admin user created earlier by double clicking the name 
-4. On the __Product Licenses__ line click __Edit__
-5. __Enable__ the Licenses for __Dynamics 365 Customer Engagement__ and __Office 365 Enterprise E3__
-6. Save the changes and close the user dialog
+
+The next step after signing up for the trial is to assign a license to the admin user. 
+
+1. In a private browser window, go to [https://admin.microsoft.com](https://admin.microsoft.com).
+
+2. In the navigation menu on the left, select **Users > Active Users**.
+
+3. Double-click the name of the admin user you created earlier. 
+
+4. Next to **Product Licenses**, select **Edit**.
+
+5. Turn on the cicenses for **Dynamics 365 Customer Engagement** and **Office 365 Enterprise E3**.
+
+6. Save the changes and close the **Users** dialog box.
 
 ## Set up the Dynamics 365 for Sales trial
-It is time to finally set up your instance of Dynamics 365 Customer Engagement. This guide walks you through the manual installation of the Dynamics for Sales app, which generates a completely empty instance of the Dynamics CDS. If you would prefer for a simpler set up procedure, refer to the note below.
-1. Return to  Return to [https://admin.microsoft.com](https://admin.microsoft.com) and select __Dynamics 365__ from the _Admin Centers__ dropdown on the Microsoft Admin Portal
-2. A new page is brought up that asks you to set up your Dynamics 365 instance.
-    * Set the language to your preferred language
-    * Under __Select which scenario fits you best__ check __None of these__ (See note below)
-    * Set the currency to your preferred currency
-3. Click __Complete Setup__ which will likely take a few minutes to complete.
-4. Return to the Dynamics 365 Admin Portal
-5. From the __Instances__ page, ensure your newly created instance is selected and click the __Edit__ button next to the word __Solutions__ in the gray box on the right
-6. From the list of available solutions find __Dynamics 365 Sales Application__ and click __Install__
-7. This process may take a while to complete. You can refresh the page to view the current status of your installation.
 
-**NOTE:** In step 2 you could optionally select __Sales__ for your scenario which would allow you to skip step 4 - 7. However, this will install some additional sample data that may not be relevant to your organization. 
+The next step is to set up your instance of Dynamics 365 Customer Engagement. This procedure walks you through the manual installation of the Dynamics for Sales app, which generates an empty instance of the Dynamics Common Data Service for Apps. If you would prefer for a simpler set up procedure, refer to the note below.
+
+1. Go to [https://admin.microsoft.com](https://admin.microsoft.com), and then from the **Admin Centers** list, select **Dynamics 365**.
+
+2. A the page that appears:
+
+    - Set the language to your preferred language.
+    
+    - Under **Select which scenario fits you best**, select **None of these**.
+    
+      > [!NOTE]
+      > As an alternative, if you select **Sales** as the scenario, you can skip steps 4 - 7. If you choose this option, additional sample data will be installed that may not be relevant to your organization, however.
+    
+    - Set the currency to your preferred currency.
+    
+3. Select **Complete Setup**.
+
+    > [!NOTE]
+    > The setup process may take a few minutes.
+
+4. Go back to the [Dynamics 365 Admin Portal](https://admin.microsoft.com).
+
+5. On the **Instances** page, make sure the newly created instance is selected, and then select the **Edit** button next to the word **Solutions** in the gray box on the right.
+
+6. In the list of available solutions, select **Dynamics 365 Sales Application**, and then select **Install**.
+
+    > [!NOTE]
+    > This process may take a while to complete. You can refresh the page to view the current status of your installation.
+
 
 ## Set up a SharePoint site
-1. Navigate to the Sales Hub of your newly created Dynamics 365 instance 
-    * Visit [https://\<org>.crm.dynamics.com]()
-    * Find __Sales Hub__ from the list of available applications
-2. Click the __Gear__ icon in the upper-right corner of the page and select __Advanced Settings__
-3. At the top of the page click the down arrow next to __Settings__ and click __Document Management__
-4. Click the button for __Enable Server-Based SharePoint Integration__
-5. Continue through  the setup and, when prompted, enter the URL for your SharePoint ([https://\<org name>.sharepoint.com]())
-6. When complete, return to the __Document Management__ settings page and click __Document Management Settings__
-7. Enter the URL of your SharePoint site, if it isn't filled in by default. Then, click __Next__.
-8. Continue through the setup leaving the remaining options at the default values.
-9. Dynamics will now take a minute to set up the SharePoint connection.
 
-**Note:** If you opted to use the automated __Sales__ setup earlier you can skip the steps of Enabling Server-Based SharePoint Integration.
+1. Go to [https://\<org>.crm.dynamics.com](), and then search for **Sales Hub** in the list of available applications.
+    
+2. Select the **Gear** icon in the upper-right corner of the page, and then select **Advanced Settings**.
 
-# Conclusion
-Once the setup process has finished you will have an Azure Active Directory Tenant complete with Microsoft Office 365 and Microsoft Dynamics 365 Customer Engagement. At this point you can start adding Opportunities, Products, and Models to Dynamics. This is covered in the __Product Visualize Administrator's Guide__
+3. At the top of the page, select the down arrow next to **Settings**, and then select **Document Management**.
+
+4. Select the **Enable Server-Based SharePoint Integration** button. 
+
+5. Continue through the setup. When prompted, enter the URL for your SharePoint ([https://\<org name>.sharepoint.com]()).
+
+6. When complete, go back to the **Document Management** settings page, and then select **Document Management Settings**.
+
+7. Enter the URL for your SharePoint site, if it isn't filled in by default. Then select **Next**.
+
+8. Continue through the setup screens using the default values.
+
+   It will take about a minute for Dynamics 365 to set up the SharePoint connection.
+
+   > [!NOTE]
+   > If you opted to use the automated **Sales** setup earlier you can skip the steps of Enabling Server-Based SharePoint Integration.
+
+## What's' next?
+
+When you're finished setting everything up, you'll have an Azure Active Directory tenant complete with Microsoft Office 365 and Microsoft Dynamics 365 Customer Engagement. At this point you can start adding opportunities, products, and 3D models to Dynamics 365 for Sales. For more information, see the [Admin guide](admin-guide.md).
 
