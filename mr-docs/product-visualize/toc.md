@@ -1,7 +1,7 @@
 # Dynamics 365 Product Visualize (in preview)
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
-## [Setup and administration]
+## Setup and administration
 ### [Setup](setup.md)
 ### [Add users, and xxx](admin-guide.md)
 ## [User Guide](user-guide.md)
