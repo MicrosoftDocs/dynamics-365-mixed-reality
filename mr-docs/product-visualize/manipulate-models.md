@@ -1,6 +1,6 @@
 
 
-# Work with 3D models
+# Place and manipulate 3D models
 
 The home screen of Product Visualize is the **My Opportunities** page. Each opportunity typically has multiple products within it, and each product can have multiple 3D models. 
 
