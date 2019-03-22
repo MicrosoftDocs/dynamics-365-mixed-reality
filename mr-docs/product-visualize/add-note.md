@@ -1,6 +1,6 @@
 
 
-# Add a note to a model
+# Add a note to your 3D model
 
 You can capture notes on specific points on a 3D model and even add text or ink to the notes. For example, when you’re out in the field with a customer, capture any required product changes directly on the model. 
 
