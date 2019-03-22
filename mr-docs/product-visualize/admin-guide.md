@@ -97,36 +97,51 @@ New users must first be added in the Azure Active Directory, which assigns them 
     > [NOTE]
     > It may take some time for users added to your organization to show up in Dynamics 365, so it's a good idea to add all the users to your organization before continuing.
 
-### Assign a security Role to the User
+### Assign a security role to the user
 
-1. In your private browser window navigate to your Dynamics 365 URL [https://\<org\>.crm.dynamics.com]()
-2. Open the Sales Hub application from the list
-3. Navigate to the Settings Menu by clicking the __Gear Icon__ in the upper-right corner of the page and select __Advanced Settings__
-4. From the __Settings__ dropdown at the top of the page select __Security__.
-5. On the __Security Page__ click on __Users__
-6. Click on the name of the user you created to open the User page
-7. From the menu bar near the top of the page click __Approve Email__ to allow the user to be synced by the server
-8. Nearby on the menu bar click __Manage Roles__
-9. Select the __Salesperson__ and __Sales, Enterprise app access__ options from the list and click __OK__
+1. In your private browser window, go to your Dynamics 365 URL [https://\<org\>.crm.dynamics.com]().
 
-## Adding Products
-Products represent the things you sell to customer, whether they be physical goods or services. Products that a customer may be interested in purchasing will be added to a sales Opportunity. This allows salespeople to exactly track a customers needs the potential revenue a sale might bring in.
+2. Select the Sales Hub application in the list.
 
-__Products__ are sold in __Units__, which represent the possible quantities that are sold together. _Hours_, _Cases_, and _Pallets_ are good examples of Units. Units are grouped into __Unit Groups__ which keep Units with a similar purpose together. If you sell services, 'Time' might be a Unit Group containing _Days_, _Hours_, and _Minutes_. 
+3. Select the **Settings** button in the upper-right corner of the page, and then select **Advanced Settings**.
 
-Products may be priced differently depending on who you are selling to, when the sale is happening, and where the customer works. Prices with a similar purpose are grouped together into __Price Lists__. For example, you may have one price list for customers in Canada and another for customers in the U.S.
+4. In the **Settings** drop-down list at the top of the page, select **Security**.
 
-Individual Products can be arranged into a hierarchy, as well. __Product Families__ allow you to categorize similar Products based on your organization's needs.
+5. In the **Security** page, select **Users**.
 
-This section will walk you through creating a new Price List, Product Family, and Product. Dynamics 365 provides default values for Units and Unit Groups.
+6. Select the name of the user you created.
 
-### Create a Price List
-1. Return to the Sales Hub application for your Dynamics 365 instance
-2. Navigate to the Settings Menu by clicking the __Gear Icon__ in the upper-right corner of the page and select __Advanced Settings__.
-3. From the __Settings__ dropdown at the top of the page select __Product Catalog__
-4. Click __Price Lists__
-5. Create a new price list by pressing __New__ near the top-left of the page
-6. Give the price list a name (Default Price List, for example) and click __Save and Close__
+7. In the **Users** page, from the menu bar near the top of the page, select **Approve Email** so the user is synced by the server.
+
+8. On the menu bar, select **Manage Roles**.
+
+9. Select the **Salesperson** and **Sales, Enterprise app access** options from the list, and then select **OK**.
+
+## Add products
+
+*Products* are the things you sell to the customer, which can be physical goods or services. Products that a customer may be interested in purchasing are added to a sales opportunity. This enables salespeople to exactly track a customer's needs to the potential revenue a sale might bring in.
+
+Products are sold in *units*, which represent the possible quantities that are sold together. Examples of units include hours, cases, or pallets. Units are grouped into *unit groups* which keep units with a similar purpose together. If you sell services, 'time' might be a unit group containing days, hours, and minutes. 
+
+Products may be priced differently depending on who you are selling to, when the sale is happening, and where the customer works. Prices with a similar purpose are grouped together into *Price Lists*. For example, you may have one price list for customers in Canada and another for customers in the U.S.
+
+Individual products can be arranged into a hierarchy, as well. *Product Families* allow you to categorize similar products based on your organization's needs.
+
+This section provides step-by-step instructions for creating a new price list, product family, and product. Dynamics 365 provides default values for units and unit groups.
+
+### Create a price list
+
+1. Go to the Sales Hub application for your Dynamics 365 instance.
+
+2. In the upper-right cornert of the page, select the **Settings** button, and then select **Advanced Settings**.
+
+3. In the **Settings** drop-down list at the top of the page, select **Product Catalog**.
+
+4. Select **Price Lists**.
+
+5. Create a new price list by selecting **New** near the top-left of the page.
+
+6. Give the price list a name (Default Price List, for example), and then select **Save and Close**.
 
 ### Create a Product Family (Optional)
 1. Return to your Dynamics 365 Sales Hub [https://\<org\>.crm.dynamics.com](https://\<org\>.crm.dynamics.com)
