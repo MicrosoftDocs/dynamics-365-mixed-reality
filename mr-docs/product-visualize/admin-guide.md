@@ -2,9 +2,9 @@
 
 # Administrator's Guide
 
-After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 Product Visualize, you'll need to:
+After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 Product Visualize, you need to:
 
-- Create an Office 365 user group and share your SharePoint site with the group
+- Create an Office 365 user group and share your SharePoint site with that group
 
 - Add users and assign security roles
 
@@ -18,31 +18,39 @@ After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 
 
 This topic provides step-by-step procedures for all of the above.
 
-# Set up a User Group
-Groups in Office 365 let you choose a set of people that you wish to collaborate with and easily set up a collection of shared resources. For Product Visualize, this means you can give the group access to SharePoint which saves you the trouble of having to give every individual permission. This is a one-time step that will save you time later on. The User Group should have Read/Write permissions on the SharePoint site in order to make full use of our app.
+## Set up a user group
 
-## Create a User Group
+You can use Office 365 Groups to choose a set of people to collaborate with and to set up a collection of shared resources. Providing access to the group saves time because that way, you don't have to provide individual SharePoint permissions. The group needs to have Read/Write permissions to the SharePoint site to make full use of Product Visualize.
+
+### Create a User Group
+
 1. Open a new private browser window
+
 2. Visit [https://admin.microsoft.com](https://admin.microsoft.com) and login with the administrator credentials
+
 3. From the navigation menu on the left, drop down the __Groups__ section and select __Groups__
+
 4. Near the top of the page click the __Add a Group__ button
+
 5. Give the group a __Name__ and set the __Group Type__ should be set to __Office 365__
+
 6. Add the admin user as the owner of the group by clicking the __Select Owner__ button
+
 7. Click __Add__ to finish adding the group
 
-## Share the SharePoint site with the Group
+### Share the SharePoint site with the Group
 1. Navigate to your trail's SharePoint site [https://\<org\>.sharepoint.com]()
 2. In the upper right corner of the page click __Share Site__
 3. From the __Share__ window search for the group you made earlier and click the group name to add it to the site
 4. Grant the group __Edit__ permission by clicking the small arrow under the group name
 5. Click __Share__ to finish granting the group access to SharePoint
 
-# Adding Users
+## Adding Users
 The administrative user created during the setup of your instance has full control of all aspects of your test environment. This user can administer your team's licenses, edit settings in Dynamics, and manage who has access to your services. Additional users can easily be added with more restrictive permissions so each salesperson can work with their own account.
 
 New users must first be added in the Azure Active Directory, which assigns them a username and password. Then, the user must be assigned a security role in Dynamics 365 in order to access the Dynamics applications.
 
-## Add a user to your Organization
+### Add a user to your Organization
 1. Visit [https://admin.microsoft.com](https://admin.microsoft.com) and login with the administrator credentials
 2. From the navigation menu on the left, drop down the __Users__ section and select __Active Users__
 3. Near the top of the page find the __Add a User__ button and click it to open the New User dialog
@@ -65,7 +73,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 **Note:** It may take some time for users added to your organization to show up in Dynamics, so we suggest adding all the users to your Organization before continuing
 
-## Assign a security Role to the User
+### Assign a security Role to the User
 
 1. In your private browser window navigate to your Dynamics 365 URL [https://\<org\>.crm.dynamics.com]()
 2. Open the Sales Hub application from the list
@@ -77,7 +85,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 8. Nearby on the menu bar click __Manage Roles__
 9. Select the __Salesperson__ and __Sales, Enterprise app access__ options from the list and click __OK__
 
-# Adding Products
+## Adding Products
 Products represent the things you sell to customer, whether they be physical goods or services. Products that a customer may be interested in purchasing will be added to a sales Opportunity. This allows salespeople to exactly track a customers needs the potential revenue a sale might bring in.
 
 __Products__ are sold in __Units__, which represent the possible quantities that are sold together. _Hours_, _Cases_, and _Pallets_ are good examples of Units. Units are grouped into __Unit Groups__ which keep Units with a similar purpose together. If you sell services, 'Time' might be a Unit Group containing _Days_, _Hours_, and _Minutes_. 
@@ -88,7 +96,7 @@ Individual Products can be arranged into a hierarchy, as well. __Product Familie
 
 This section will walk you through creating a new Price List, Product Family, and Product. Dynamics 365 provides default values for Units and Unit Groups.
 
-## Create a Price List
+### Create a Price List
 1. Return to the Sales Hub application for your Dynamics 365 instance
 2. Navigate to the Settings Menu by clicking the __Gear Icon__ in the upper-right corner of the page and select __Advanced Settings__.
 3. From the __Settings__ dropdown at the top of the page select __Product Catalog__
@@ -96,14 +104,14 @@ This section will walk you through creating a new Price List, Product Family, an
 5. Create a new price list by pressing __New__ near the top-left of the page
 6. Give the price list a name (Default Price List, for example) and click __Save and Close__
 
-## Create a Product Family (Optional)
+### Create a Product Family (Optional)
 1. Return to your Dynamics 365 Sales Hub [https://\<org\>.crm.dynamics.com](https://\<org\>.crm.dynamics.com)
 2. Open the Navigation menu on the left and click __Products__
 3. Create a new Product Family by clicking __Add Family__
 4. Give the family a __Name__ (Product Samples) and __Product ID__ (PS-1) before clicking __Save__
 5. Now click __Publish__ to finish creating the Product Family
 6. 
-## Create a Product
+### Create a Product
 1. Return to the Product list page by click __Products__ in the Navigation bar on the left
 2. Create a new Product by clicking __Add Product__
 3. Fill in the __Name__ and __Product ID__ with any values you want
@@ -119,7 +127,7 @@ This section will walk you through creating a new Price List, Product Family, an
 13. __Save__ the Product again
 14. Click __Publish__ to finish creating the Product
 
-# Adding Models
+## Adding Models
 Presenting complicated Products to a customer with traditional 2D materials always left something to be desired and creating physical 3D models was time-consuming and costly. Product Visualize simplifies the entire process by bringing 3D digital Models into the real-world. 
 
 Product Visualize makes use of the widely available GL Transmission Format (glTF) to store Model data. Many of the most popular 3D Modeling Products used by Engineering and Marketing teams already supports this format and exporters exist to convert many other formats to glTF. This section will guide you through adding a Model and thumbnail image to Product Visualize.
@@ -139,7 +147,7 @@ Product Visualize makes use of the widely available GL Transmission Format (glTF
          * Thumbnails (Folder)
             * \<ModelName>.png
 
-# Adding Opportunities
+## Adding Opportunities
 Opportunities represent a chance to sell your Products to a customer. They capture a customer's needs, budget, and timeline, in addition to the list of Products the customer is interested in buying. Salespeople can view their open Opportunities directly from the Product Visualize app, but they must be added through the Sales Hub interface
 1. Return to your Dynamics 365 Sales Hub
 2. Open the Navigation menu on the left and click __Opportunities__
@@ -154,17 +162,17 @@ Opportunities represent a chance to sell your Products to a customer. They captu
 11. Enter a __Quantity__
 12. __Save and Close__
 
-# Install the Product Visualize Control
+## Install the Product Visualize Control
 The Product Visualize Control is an optional enhancement that allows salespeople to launch the Product Visualize app directly from Dynamics 365 on their mobile devices. The Control is lightweight and can easily be updated and removed.
 
-## Import the Product Visualize Solution
+### Import the Product Visualize Solution
 1. Return to your Dynamics 365 Sales Hub
 2. Navigate to the Settings Menu by clicking the __Gear Icon__ in the upper-right corner of the page and select __Advanced Settings__. 
 3. From the __Settings__ dropdown at the top of the page select __Solutions__
 4. Download the __Product Visualize__ solution to your PC.
 5. Import the solution by clicking the __Import__ button and selecting the solution zip file you downloaded
 
-## Customize the Opportunity Page
+### Customize the Opportunity Page
 There are numerous ways you can customize your Opportunity pages in Dynamics 365 for Sales. This section guides you through our suggested customizations, but feel free to adapt this to your exact needs.
 1. From the __Settings__ dropdown at the top of the page select __Customizations__ and then __Customize the System__
 2. In the panel on the left find __Entities > Opportunity > Forms__
@@ -179,7 +187,7 @@ There are numerous ways you can customize your Opportunity pages in Dynamics 365
 11. __Save__ your changes from the Menu bar
 12. __Publish__ your changes and they will be immediately visible on any Opportunity page
 
-# Accept App Permissions
+## Accept App Permissions
 The Product Visualize mobile app requires permission to access the Dynamics 365 for Sales and SharePoint instances you set up earlier. As a global administrator for the trial tenant you can grant access to the entire organization so that each user doesn't have to do it individually.
 1. Download the __Microsoft Dynamics 365 Product Visualize__ app from the Apple App Store
 2. Open the app and click __Sign In__ with the trial environment's administrator credentials
