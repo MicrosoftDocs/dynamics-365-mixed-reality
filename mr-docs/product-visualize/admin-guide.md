@@ -294,10 +294,16 @@ There are numerous ways you can customize your Opportunity page in Dynamics 365 
 ## Accept app permissions
 
 The Product Visualize mobile app requires permission to access the Dynamics 365 for Sales and SharePoint instances you set up earlier. As a global administrator for the trial tenant you can grant access to the entire organization so that each user doesn't have to do it individually.
-1. Download the __Microsoft Dynamics 365 Product Visualize__ app from the Apple App Store
-2. Open the app and click __Sign In__ with the trial environment's administrator credentials
-3. On the __Permissions Requested__ prompt click __Consent on behalf of your organization__
-4. Click __Accept__ to return to the app
 
-# Conclusion
-You now have everything you need to start using Microsoft Dynamics 365 Product Visualize! New Opportunities, Products, and Models will show up automatically in the application after they have been added to Dynamics. For any help or feedback use the __Feedback__ button in the Product Visualize app.
+1. Download the **Microsoft Dynamics 365 Product Visualize** app from the Apple App Store.
+
+2. Open the app, select **Sign In**, and then enter the administrator credentials for the trial environment.
+
+3. At the **Permissions Requested** prompt, select **Consent on behalf of your organization**.
+
+4. Select **Accept** to return to the app.
+
+
+## What's next?
+
+You now have everything you need to start using Microsoft Dynamics 365 Product Visualize! New opportunities, products, and models will show up automatically in the application after they have been added to Dynamics 365 for Sales. For help or feedback, use the **Feedback** button in the Product Visualize app.
