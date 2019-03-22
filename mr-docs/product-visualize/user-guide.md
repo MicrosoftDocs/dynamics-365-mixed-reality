@@ -122,6 +122,80 @@ After placing a model, if you want to view a different model, you can switch mod
  
 3.	Switch between the default size or life-size if desired (note that you can’t change the scale until the model is loaded), and then place the model as described in the previous procedure.  
 
- 
+### Move, rotate, or change the size of your model
 
+Chances are, you’ll want to move, rotate, or change the size of your model in some way after you place it. You use the **Transform** button to do any of these actions after placing your model.
+
+#### Change the size of your model
+
+When you change the size of your model, you can switch between meter-cube size and Life-size-scale  size. 
+
+1.	Select the **Transform** button on the right side of the screen.
+
+2.	Select the **Resize** button. 
+
+3.	Spread or pinch your fingers to change the size of the model.
+
+    > [!TIP]
+    > Select **Undo** if you ever need to undo your changes when you’re transforming the model.
+
+#### Rotate your model  
+
+1.	Select the **Transform** button on the right side of the screen.
+
+2.	Select the **Rotate** button.
+  
+3.	Drag your finger on the screen to rotate the model. 
+
+#### Move the model
+
+1.	Select the **Transform** button on the right side of the screen.
+
+2.	Select the **Move** button.
+  
+3.	Drag your finger on the screen to move the model.  
+
+#### Move the model up or down
+
+1.	Select the **Transform** button on the right side of the screen.
+
+2.	Select the **Lift** button.
+  
+3.	Drag your finger up or down on the screen. 
+
+### Add a note to a model
+
+You can capture notes on specific points on a 3D model and even add text or ink to the notes. For example, when you’re out in the field with a customer, capture any required product changes directly on the model. 
+
+To add a note, you tap the location of the model where you want to add the note, and then  take a picture of the model or upload a picture from your photo library to set the context.  Then you can ink on the image or add comments.  Notes you create are saved in a notes file in the Documents folder for the corresponding Dynamics 365 for Sales opportunity. 
+
+Product Visualize includes a notes browser that makes it easy to see all the notes attached to a model. The notes appear as a card  at the bottom of the screen. You can swipe to move forward and backward between notes in the browser, or you can tap a blue dot (spatial anchor  ) to select any note attached to the model. If the note is off the screen, you’ll see a blue dot with an arrow that points in the direction of the note.  
+
+#### Add a note
+
+1.	After placing a model, select Notes on the right side of the screen.
+ 
+2.	Select **Add**.
+ 
+3.	Tap the model where you want to place the note. 
+ 
+4.	Do one of the following:
+
+    -	To do a new capture, select **Capture** on the right side of the screen. The app will take a picture of the model.
+    
+    -	To use a picture from your camera roll, select **Camera Roll**, and then select the picture you want.
+   
+5.	In the **Create Note** screen:
+
+    - To ink on the screen, select a color and start drawing. For example, draw an arrow  to call out a particular part of the model.
+    
+    - To add text, tap the box at the bottom of the screen, and then enter the text you want.
+ 
+    > [!NOTE]
+    > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered will be retained, but inking will be lost. 
+    
+6.	If you want to change the settings for sharing notes, in the **Create Note** screen, select **Share Settings**. By default, notes are shared in the opportunity timeline in Dynamics 365 for Sales . You can also choose to share notes in a Microsoft Teams channel, or you can turn off sharing altogether if you want. When you’re done changing settings, select **Update all**.  
+ 
+    > [!TIP]
+    > You can also access global settings for sharing notes. To do this, select the main menu button  , select the **Edit** button next to the organization you’re signed in to, and then under **Sharing Notes**, select the option you want: Dynamics 365 for Sales Opportunity Timeline and/or Connect Teams Channels.
 
