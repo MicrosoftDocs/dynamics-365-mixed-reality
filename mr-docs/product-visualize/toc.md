@@ -1,7 +1,9 @@
 # Dynamics 365 Product Visualize (in preview)
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
-## [Setup](setup.md)
+## [Setup and administration]
+### [Setup](setup.md)
+### [Add users, and xxx](admin-guide.md)
 ## [User Guide](user-guide.md)
 ### [Open the app and sign in](sign-in.md)
 ### [Place and manipulate 3D models](manipulate-models.md)
