@@ -3,7 +3,7 @@
 ## [Requirements](requirements.md)
 ## Setup and administration
 ### [Setup](setup.md)
-### [Add users, and xxx](admin-guide.md)
+### [Administrator's Guide](admin-guide.md)
 ## [User Guide](user-guide.md)
 ### [Open the app and sign in](sign-in.md)
 ### [Place and manipulate 3D models](manipulate-models.md)
