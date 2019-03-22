@@ -197,5 +197,82 @@ Product Visualize includes a notes browser that makes it easy to see all the not
 6.	If you want to change the settings for sharing notes, in the **Create Note** screen, select **Share Settings**. By default, notes are shared in the opportunity timeline in Dynamics 365 for Sales . You can also choose to share notes in a Microsoft Teams channel, or you can turn off sharing altogether if you want. When you’re done changing settings, select **Update all**.  
  
     > [!TIP]
-    > You can also access global settings for sharing notes. To do this, select the main menu button  , select the **Edit** button next to the organization you’re signed in to, and then under **Sharing Notes**, select the option you want: Dynamics 365 for Sales Opportunity Timeline and/or Connect Teams Channels.
+    > You can also access global settings for sharing notes. To do this, select the main menu button  , select the **Edit** button next to the organization you’re signed in to, and then under **Sharing Notes**, select the option you want: **Dynamics 365 for Sales Opportunity Timeline** and/or **Connect Teams Channels**.
+    
+
+#### View the notes attached to a model
+
+1.	After placing the model, select **Notes** on the right side of the screen.
+ 
+2.	Select **Browse**.  
+ 
+3.	Tap a blue dot to open a specific note or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
+
+    > [!NOTE]
+    > If you want to see a larger view of the notes, which is useful if you can’t see all the text in the notes box, tap the expand arrow   in the upper-right corner of the notes box or flick up. Then you can use the scroll bar in the notes box to scroll the text. 
+  
+#### Edit or delete a note
+
+1.	Select **Notes** on the right side of the screen.
+2.	Select **Browse** to open the notes browser.
+3.	Select the **Overflow** menu   in the upper-right corner of the notes box.
+4.	In the **Options** dialog box, select **Edit Note** or **Delete Note**.
+  
+#### Change the share status of a note
+
+By default, Product Visualize sends your notes to your Dynamics 365 for Sales timeline and any connected Microsoft Teams channel. If you turn this option off, your notes will be stored only Product Visualize until you turn them back on again. 
+
+To change the share status of a note:
+
+1.	Select **Notes** on the right side of the screen.
+2.	Select **Browse** to open the notes browser.
+3.	Select the **More options** button   in the upper-right corner of the notes box.
+4.	In the **Options** dialog box, move the slider to turn **Output options** on or off.  
+ 
+#### Export a note
+1.	Select **Notesv on the right side of the screen.
+2.	Select **Browse** to open the notes browser.
+3.	Select the **More options** button   in the upper-right corner of the notes box.
+4.	In the **Options** dialog box, select **Export Note**.   
+
+## Add your own 3D model to an existing product
+
+If you have a 3D model stored in SharePoint or OneDrive, or on your local device, it’s simple to add it to a product included in a Dynamics 365 for Sales opportunity. 
+
+> [!NOTE]
+> 3D models must be in GLB format to link them to a product. 
+
+### Add a 3D model to a product
+
+1.	In the **My Opportunities** screen, open the appropriate opportunity. 
+ 
+2.	Select the product you want to add the model to. 
+
+3.	In the **Models** screen, select the plus (+) sign in the upper-right corner of the screen.
+ 
+4.	In the **Browse Your Files** screen, select the service where the 3D model is stored, or select **Your Files** to access the files on your device.
+ 
+    > [!NOTE]
+    > If you select SharePoint, you’ll see a list of SharePoint sites associated with your Dynamics 365 sign-in credentials. 
+
+5.	When prompted to link the model, select **Confirm**. 
+ 
+    When the model is ready, you’ll see a **Success!** message and then you’ll be back on the screen where you selected the model so you can add additional models if you want.
+
+## Explore sample 3D models
+
+Product Visualize comes with sample 3D models  that you can try out even if you don’t have a Dynamics 365 subscription. Use the sample content to try out the Product Visualize app and play with 3D models. When you explore a 3D model this way, you place it just like you would any other 3D model, and you can also add notes to the model. Notes you add to a sample model isn’t saved, however, when you close Product Visualize.
+
+### Open a sample 3D model
+
+1.	Open the Product Visualize app.
+
+2.	In the **Welcome** screen, select **Explore Sample 3D Models**. 
+  
+3.	In the **Sample Models** screen, select the 3D model you want to open.
+ 
+4.	Place the model as described earlier in this topic, and then size, rotate, move, or lift the model.
+
+5.	Add notes as described earlier in this topic. Notes will not be saved when you close the Product Visualize app. 
+
 
