@@ -47,8 +47,7 @@
       "titleSuffix": "Dynamics 365 Mixed Reality",
       "breadcrumb_path": "/dynamics365/mixed-reality/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "GitHub",
-      "feedback_github_repo": "https://github.com/MicrosoftDocs/dynamics-365-mixed-reality"
+      "feedback_system": "None"
     },
     "fileMetadata": {
       "searchScope": {
