@@ -2,6 +2,8 @@
 
 # Open and sign in to Product Visualize
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+
 Product Visualize works together with Dynamics 365 for Sales, so you’ll need a Dynamics 365 account to access the full power of the app. When you sign in with your Dynamics 365  for Sales account, the Product Visualize app automatically connects to your Dynamics 365 for Sales opportunities.
 
 > [!TIP]
