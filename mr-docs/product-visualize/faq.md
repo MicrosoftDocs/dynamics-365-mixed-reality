@@ -1,6 +1,8 @@
 
 # Dynamics 365 Product Visualize (in preview) FAQ
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+
 **What are the requirements for running Microsoft Dynamics 365 Product Visualize (in preview) and what platforms does it support?**
 
 For information on platforms and requirements, check out [our Requirements page](requirements.md).
