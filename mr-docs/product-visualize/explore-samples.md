@@ -36,4 +36,3 @@ Microsoft Dynamics 365 Product Visualize (in preview) comes with sample 3D model
 [Open the app and sign in](sign-in.md)<br>
 [Place and manipulate 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
-[Add your own 3D models](add-model.md)<br>
