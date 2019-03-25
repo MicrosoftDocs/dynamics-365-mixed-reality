@@ -32,7 +32,12 @@ throughout your organization.
 |SharePoint|Required for saving notes and accessing models.|[SharePoint Online plan options](https://products.office.com/en-us/sharepoint/compare-sharepoint-plans)|
 |Microsoft Teams (optional)|A Microsoft Teams license allows notes created in Product Visualize to be pushed to a Teams channel associated with that sales opportunity.|Teams may be [available as a free download](https://teams.microsoft.com/downloads) for users.|
 
+### See also
 
+[Set up Dynamics 365 Product Visualize](setup.md)<br>
+[Administrator Guide](admin-guide.md)<br>
+[User Guide](user-guide.md)<br>
+[FAQ](faq.md)<br>
 
 
 
