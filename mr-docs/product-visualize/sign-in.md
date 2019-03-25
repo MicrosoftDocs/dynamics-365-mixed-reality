@@ -82,7 +82,7 @@ If you haven’t already installed Product Visualize on your iOS device, you can
 
 If you have access to more than one Dynamics 365 organization,  you can use this procedure to switch between organizations.
 
-1.	Select the main menu icon ![Main menu button)](media/hamburger-icon.PNG "Main menu button") .
+1.	Select the main menu icon ![Main menu button)](media/hamburger-icon.png "Main menu button").
 
 2.	Select your account settings. 
 
