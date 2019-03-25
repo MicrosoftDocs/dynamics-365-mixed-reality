@@ -69,8 +69,8 @@ If you haven’t already installed Product Visualize on your iOS device, you can
  
     ![Sign-in screen)](media/sign-in.PNG "Sign-in screen") 
  
-   > [!NOTE]
-   > After you sign in for the first time, this screen will not appear again.
+    > [!NOTE]
+    > After you sign in for the first time, this screen will not appear again.
     
 7.	On your first sign in, you’ll be prompted to select your Dynamics 365 for Sales organization. You can change organizations later, if you want, through **Settings**.
 
