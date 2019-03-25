@@ -23,7 +23,7 @@ You can open and sign in to Product Visualize on your iOS device in two differen
 
 2.	In the **Welcome** screen, select **Sign in**. 
 
-   ![Welcome screen)](media/sign-in.PNG "Welcome screen") 
+   ![Welcome screen)](media/welcome.PNG "Welcome screen") 
  
 3.	In the **Sign in** screen, enter your Dynamics 365 account. This will be in the form: <username>@<domainname>. When you’re done, select **Next**.  
  
