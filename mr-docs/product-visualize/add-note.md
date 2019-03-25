@@ -1,4 +1,13 @@
-
+---
+author: mamithan
+description: How to add a note (including ink and text) to a 3D model in Dynamics 365 Product Visualize
+ms.author: mamithan
+ms.date: 04/2/2019
+ms.service: crm-online
+ms.topic: article
+title: Add a note to your 3D model in Dynamics 365 Product Visualize (in preview)
+ms.reviewer: v-brycho
+---
 
 # Add a note to your 3D model in Dynamics 365 Product Visualize (in preview)
 
