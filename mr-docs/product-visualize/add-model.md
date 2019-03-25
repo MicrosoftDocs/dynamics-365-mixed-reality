@@ -11,17 +11,17 @@ If you have a 3D model stored in SharePoint or OneDrive, or on your local device
 
 1.	In the **My Open Opportunities** screen, open the appropriate opportunity. 
 
-   ![My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
+    ![My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
  
 2.	Select the product you want to add the model to. 
 
 3.	In the **Models** screen, select the plus (+) sign in the upper-right corner of the screen.
 
-   ![Models screen](media/3D-models.PNG "Models screen")
+    ![Models screen](media/3D-models.PNG "Models screen")
  
 4.	In the **Browse Your Files** screen, select the service where the 3D model is stored, or select **Your Files** to access the files on your device.
 
-   ![Browse Your Files screen](media/quick-access.PNG "Browse Your Files screen")
+    ![Browse Your Files screen](media/quick-access.PNG "Browse Your Files screen")
  
     > [!NOTE]
     > If you select SharePoint, you’ll see a list of SharePoint sites associated with your Dynamics 365 sign-in credentials. 
