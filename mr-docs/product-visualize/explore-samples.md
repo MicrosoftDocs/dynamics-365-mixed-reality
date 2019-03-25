@@ -2,6 +2,8 @@
 
 # Explore sample 3D models in Dynamics 365 Product Visualize (in preview)
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+
 Microsoft Dynamics 365 Product Visualize (in preview) comes with sample 3D models you can try out even if you don’t have a Dynamics 365 subscription. Use the sample content to try out the Product Visualize app and play with 3D models. When you explore a 3D model this way, you place it just like you would any other 3D model, and you can also add notes to the model. Notes you add to a sample model aren't saved, however, when you close Product Visualize.
 
 ## Open a sample 3D model
