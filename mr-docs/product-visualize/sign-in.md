@@ -37,7 +37,7 @@ You can open and sign in to Product Visualize on your iOS device in two differen
     ![My organizations screen)](media/my-organizations.PNG "My organizations screen") 
  
     > [!TIP]
-    > If your organization isn’t set up with Dynamics 365 for Sales, you can explore sample models or go to the Dynamics 365 for Sales website to learn how to sign up.  
+    > If your organization isn’t set up with Dynamics 365 for Sales, you can explore sample models or go to the [Dynamics 365 for Sales website](https://trials.dynamics.com/Dynamics365/Signup/sales) to learn how to sign up.  
 
 5.	In the **My Open Opportunities** screen, select the opportunity you want to work on.  
 
