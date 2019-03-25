@@ -2,6 +2,8 @@
 
 # Administrator Guide for Dynamics 365 Product Visualize (in preview)
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+
 After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 Product Visualize, you need to:
 
 - Create an Office 365 user group and share your SharePoint site with that group
