@@ -80,7 +80,13 @@ Product Visualize includes a notes browser that makes it easy to see all the not
   
 ## Change how your notes are shared with other apps
 
-By default, your notes are saved to the SharePoint account associated with your Dynamics 365 for Sales account. By default, Product Visualize also sends your notes to your Dynamics 365 for Sales timeline and any connected Microsoft Teams channel. You can turn off sharing with the Dynamics 365 for Sales timeline or Microsoft Teams channels through **Settings**.
+By default, your notes are saved to the SharePoint account associated with your Dynamics 365 for Sales account. By default, Product Visualize also sends your notes to your Dynamics 365 for Sales timeline and any connected Microsoft Teams channel. 
+
+To turn off sharing with the Dynamics 365 for Sales timeline or Microsoft Teams channels:
+
+1. Select the Main menu button ![Main menu](media/main-menu.png "Main menu button"), and then select the **Edit** button next to the organization you're signed into.
+
+2. Under **Sharing Notes**, move the sliders to the off position for the options you want to turn off.
  
 ## Export a note
 1.	Select **Notes** on the right side of the screen.
