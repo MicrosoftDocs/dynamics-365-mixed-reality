@@ -54,7 +54,7 @@ Chances are, you’ll want to move, rotate, or change the size of your model in 
 
 ### Change the size of your model
 
-When you change the size of your model, you can switch between meter-cube size and Life-size-scale  size. 
+When you change the size of your model, you can switch between the default size and life-size-scale. 
 
 1.	Select the **Transform** button on the right side of the screen.
 
