@@ -78,16 +78,9 @@ Product Visualize includes a notes browser that makes it easy to see all the not
 
      ![Edit or delete a note](media/share-status.PNG "Edit or delete a note")
   
-## Change the share status of a note
+## Change how your notes are shared with other apps
 
-By default, Product Visualize sends your notes to your Dynamics 365 for Sales timeline and any connected Microsoft Teams channel. If you turn this option off, your notes will be stored only in Product Visualize until you turn them back on again. 
-
-To change the share status of a note:
-
-1.	Select **Notes** on the right side of the screen.
-2.	Select **Browse** to open the notes browser.
-3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
-4.	In the **Options** dialog box, move the slider to turn **Output options** on or off.  
+By default, your notes are saved to the SharePoint account associated with your Dynamics 365 for Sales account. By default, Product Visualize also sends your notes to your Dynamics 365 for Sales timeline and any connected Microsoft Teams channel. You can turn off sharing with the Dynamics 365 for Sales timeline or Microsoft Teams channels through **Settings**.
  
 ## Export a note
 1.	Select **Notes** on the right side of the screen.
