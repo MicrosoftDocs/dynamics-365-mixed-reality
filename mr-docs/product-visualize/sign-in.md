@@ -1,10 +1,10 @@
 
 
-# Open and sign in to Dynamics 365 Product Visualize
+# Open and sign in to Dynamics 365 Product Visualize (in preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Microsoft Dynamics 365 Product Visualize works together with Dynamics 365 for Sales, so you’ll need a Dynamics 365 account to access the full power of the app. When you sign in with your Dynamics 365  for Sales account, the Product Visualize app automatically connects to your Dynamics 365 for Sales opportunities.
+Microsoft Dynamics 365 Product Visualize (in preview) works together with Dynamics 365 for Sales, so you’ll need a Dynamics 365 account to access the full power of the app. When you sign in with your Dynamics 365  for Sales account, the Product Visualize app automatically connects to your Dynamics 365 for Sales opportunities.
 
 > [!TIP]
 > If you just want to explore sample 3D content or upload your own 3D content to try it out, you don’t need to have a Dynamics 365 account. For more information, see [Explore sample 3D models](explore-samples.md).
