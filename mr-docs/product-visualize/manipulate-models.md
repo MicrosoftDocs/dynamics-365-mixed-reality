@@ -114,4 +114,4 @@ When you change the size of your model, you can switch between the default size 
 [Open the app and sign in](sign-in.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
 [Add your own 3D models](add-model.md)<br>
-[Explore sample 3D models](explore-samples.md)
+
