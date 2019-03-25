@@ -9,6 +9,8 @@ Product Visualize works together with Dynamics 365 for Sales, so you’ll need a
 > [!TIP]
 > If you just want to explore sample 3D content or upload your own 3D content to try it out, you don’t need to have a Dynamics 365 account. For more information, see [Explore sample 3D models](explore-samples.md).
  
+## Two ways to open and sign in
+
 You can open and sign in to Product Visualize on your iOS device in two different ways:
 
 - Open the app on your iOS device like you would any other app, and then sign in.
