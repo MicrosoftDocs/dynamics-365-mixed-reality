@@ -2,7 +2,7 @@
 author: BryceHo
 description: Everything you need to know about signing up for Dynamics 365 Guides in preview, configuring the solution, and installing the apps.
 ms.author: mamaylya
-ms.date: 03/08/2019
+ms.date: 03/25/2019
 ms.service: crm-online
 ms.topic: article
 title: Sign up for Dynamics 365 Guides in preview
@@ -56,6 +56,9 @@ After signing up for the preview, you’ll need to create an environment where y
 4.  In the **Check out** screen, select **Try now**, and in the next screen, select **Continue**.
 
     ![Check out screen](media/try-now.PNG "Check out screen")
+
+    > [!NOTE]
+    > The license will not expire for the duration of the Guides preview even though it says it’s only valid for 3 months.
 
 5.  Now you need to add the PowerApps license to a user. To do that, in the left navigation, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
