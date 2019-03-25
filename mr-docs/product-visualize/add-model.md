@@ -2,6 +2,8 @@
 
 # Add your own 3D model to an existing Dynamics 365 for Sales product 
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+
 If you have a 3D model stored in SharePoint or OneDrive, or on your local device, it’s simple to add it to a product included in a Dynamics 365 for Sales opportunity from Microsoft Dynamics 365 Product Visualize (in preview).
 
 > [!NOTE]
