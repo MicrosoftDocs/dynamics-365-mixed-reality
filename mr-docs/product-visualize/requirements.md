@@ -1,8 +1,8 @@
 
 
-# Requirements for setting up Dynamics 365 Product Visualize
+# Requirements for setting up Dynamics 365 Product Visualize (in preview)
 
-The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Product Visualize 
+The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Product Visualize (in preview)
 throughout your organization.
 
 ## Device requirements
