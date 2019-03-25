@@ -323,7 +323,6 @@ You now have everything you need to start using Microsoft Dynamics 365 Product V
 
 [Requirements for setting up Dynamics 365 Product Visualize](requirements.md)<br>
 [Set up Dynamics 365 Product Visualize](setup.md)<br>
-[Administrator Guide](admin-guide.md)<br>
 [User Guide](user-guide.md)<br>
 [FAQ](faq.md)<br>
 
