@@ -24,7 +24,7 @@ The home screen of Product Visualize is the **My Open Opportunities** page. Each
  
     After the model has loaded, it will appear in the default size. You can view the model in this size or at life-size scale. 
 
-5.	If you want to change the size of the model to life-size before you place it, select the **Life-size** button (left button at the bottom of the screen). 
+5.	If you want to change the size of the model to life-size before you place it, select the **Life-size** button (right button at the bottom of the screen). 
 
     ![Compare sizes)](media/compare-sizes.PNG "Compare sizes")
   
