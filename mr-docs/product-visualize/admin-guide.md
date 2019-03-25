@@ -1,6 +1,6 @@
 
 
-# Administrator Guide
+# Administrator Guide for Dynamics 365 Product Visualize (in preview)
 
 After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 Product Visualize, you need to:
 
