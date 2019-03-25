@@ -76,7 +76,9 @@ If you haven’t already installed Product Visualize on your iOS device, you can
 
     ![My organizations screen)](media/my-organizations.PNG "My organizations screen") 
  
-8.	In the **My Opportunities** screen, select the opportunity you want to work on.
+8.	In the **My Open Opportunities** screen, select the opportunity you want to work on.
+
+    ![My Open Opportunities screen)](media/my-open-opportunities.PNG "My Open Opportunities screen")
  
 ## Switch to a different organization
 
