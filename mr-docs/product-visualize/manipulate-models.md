@@ -30,7 +30,7 @@ The home screen of Product Visualize is the **My Opportunities** page. Each oppo
   
 To place the model, select **Place** on the right side of the screen.
 
-    ![Place model item)](media/place-model.PNG "Place model item")
+   ![Place model item)](media/place-model.PNG "Place model item")
 
 ## Switch to a different model
 
@@ -60,7 +60,7 @@ When you change the size of your model, you can switch between meter-cube size a
 
 2.	Select the **Resize** button. 
 
-    ![Resize item)](media/resize-image.PNG "Resize item")
+    ![Resize item)](media/resize.PNG "Resize item")
 
 3.	Spread or pinch your fingers to change the size of the model.
 
@@ -73,7 +73,7 @@ When you change the size of your model, you can switch between meter-cube size a
 
 2.	Select the **Rotate** button.
 
-    ![Rotate item)](media/rotate-image.PNG "Rotate item")
+    ![Rotate item)](media/rotate.PNG "Rotate item")
   
 3.	Drag your finger on the screen to rotate the model. 
 
@@ -83,7 +83,7 @@ When you change the size of your model, you can switch between meter-cube size a
 
 2.	Select the **Move** button.
 
-    ![Move item)](media/move-image.PNG "Move item")
+    ![Move item)](media/move.PNG "Move item")
   
 3.	Drag your finger on the screen to move the model.  
 
@@ -93,6 +93,6 @@ When you change the size of your model, you can switch between meter-cube size a
 
 2.	Select the **Lift** button.
 
-    ![Lift item)](media/lift-image.PNG "Lift item")
+    ![Lift item)](media/lift.PNG "Lift item")
   
 3.	Drag your finger up or down on the screen. 
