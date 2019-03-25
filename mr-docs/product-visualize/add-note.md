@@ -100,3 +100,11 @@ To change the share status of a note:
 2.	Select **Browse** to open the notes browser.
 3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
 4.	In the **Options** dialog box, select **Export Note**.   
+
+
+### See also
+
+[Open the app and sign in](sign-in.md)<br>
+[Place and manipulate 3D models](manipulate-models.md)<br>
+[Add your own 3D models](add-model.md)<br>
+[Explore sample 3D models](explore-samples.md)
