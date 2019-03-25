@@ -46,7 +46,7 @@ Product Visualize includes a notes browser that makes it easy to see all the not
 6.	If you want to change the settings for sharing notes, in the **Create Note** screen, select **Share Settings**. By default, notes are shared in the opportunity timeline in Dynamics 365 for Sales . You can also choose to share notes in a Microsoft Teams channel, or you can turn off sharing altogether if you want. When you’re done changing settings, select **Update all**.  
  
     > [!TIP]
-    > You can also access global settings for sharing notes. To do this, select the main menu button ![Main menu button](media/hamburger-icon.PNG "Main menu button"), select the **Edit** button next to the organization you’re signed in to, and then under **Sharing Notes**, select the option you want: **Dynamics 365 for Sales Opportunity Timeline** and/or **Connect Teams Channels**.
+    > You can also access global settings for sharing notes. To do this, select the main menu button ![Main menu button](media/hamburger-icon.png "Main menu button"), select the **Edit** button next to the organization you’re signed in to, and then under **Sharing Notes**, select the option you want: **Dynamics 365 for Sales Opportunity Timeline** and/or **Connect Teams Channels**.
     
 
 ## View the notes attached to a model
@@ -71,7 +71,7 @@ Product Visualize includes a notes browser that makes it easy to see all the not
 3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes box.
 4.	In the **Options** dialog box, select **Edit Note** or **Delete Note**.
 
-   ![Edit or delete a note](media/share-status.PNG "Edit or delete a note")
+     ![Edit or delete a note](media/share-status.PNG "Edit or delete a note")
   
 ## Change the share status of a note
 
