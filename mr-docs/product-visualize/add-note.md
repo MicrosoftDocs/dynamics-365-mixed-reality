@@ -14,15 +14,15 @@ Product Visualize includes a notes browser that makes it easy to see all the not
 
 1.	After placing a model, select Notes on the right side of the screen.
 
-   ![Select Notes item](media/select-notes.PNG "Select Notes item")
+    ![Select Notes item](media/select-notes.PNG "Select Notes item")
  
 2.	Select **Add Note**.
 
-   ![Select Add Note](media/add-note.PNG "Select Add Note")
+    ![Select Add Note](media/add-note.PNG "Select Add Note")
  
 3.	Tap the model where you want to place the note. 
 
-   ![Tap the model](media/tap-on-product.PNG "Tap the model")
+    ![Tap the model](media/tap-on-product.PNG "Tap the model")
  
 4.	Do one of the following:
 
@@ -30,7 +30,7 @@ Product Visualize includes a notes browser that makes it easy to see all the not
     
     -	To use a picture from your camera roll, select **Camera Roll**, and then select the picture you want.
     
-      ![Picture choices](media/take-photo.PNG "Picture choices")
+       ![Picture choices](media/take-photo.PNG "Picture choices")
    
 5.	In the **Create Note** screen:
 
@@ -38,7 +38,7 @@ Product Visualize includes a notes browser that makes it easy to see all the not
     
     - To add text, tap the box at the bottom of the screen, and then enter the text you want.
     
-      ![Add text](media/add-text.PNG "Add text")
+       ![Add text](media/add-text.PNG "Add text")
  
     > [!NOTE]
     > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered will be retained, but inking will be lost. 
@@ -53,7 +53,7 @@ Product Visualize includes a notes browser that makes it easy to see all the not
 
 1.	After placing the model, select **Notes** on the right side of the screen.
 
-   ![Select Notes item](media/select-notes.PNG "Select Notes item")
+    ![Select Notes item](media/select-notes.PNG "Select Notes item")
  
 2.	Select **Browse**.  
  
@@ -62,13 +62,13 @@ Product Visualize includes a notes browser that makes it easy to see all the not
     > [!NOTE]
     > If you want to see a larger view of the notes, which is useful if you can’t see all the text in the notes box, tap the expand arrow   in the upper-right corner of the notes box or flick up. Then you can use the scroll bar in the notes box to scroll the text. 
     
-    ![Expand notes button](media/expand-notes.PNG "Expand notes button")
+     ![Expand notes button](media/expand-notes.PNG "Expand notes button")
   
 ## Edit or delete a note
 
 1.	Select **Notes** on the right side of the screen.
 2.	Select **Browse** to open the notes browser.
-3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-menu-button.png "Overflow menu button") in the upper-right corner of the notes box.
+3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes box.
 4.	In the **Options** dialog box, select **Edit Note** or **Delete Note**.
 
    ![Edit or delete a note](media/share-status.PNG "Edit or delete a note")
@@ -81,11 +81,11 @@ To change the share status of a note:
 
 1.	Select **Notes** on the right side of the screen.
 2.	Select **Browse** to open the notes browser.
-3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-menu-button.png "Overflow menu button") in the upper-right corner of the notes box.
+3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes box.
 4.	In the **Options** dialog box, move the slider to turn **Output options** on or off.  
  
 ## Export a note
 1.	Select **Notesv on the right side of the screen.
 2.	Select **Browse** to open the notes browser.
-3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-menu-button.png "Overflow menu button") in the upper-right corner of the notes box.
+3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes box.
 4.	In the **Options** dialog box, select **Export Note**.   
