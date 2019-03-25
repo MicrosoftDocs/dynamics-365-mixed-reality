@@ -105,3 +105,10 @@ If you have access to more than one Dynamics 365 organization,  you can use this
  
     > [!NOTE]
     > If you need to switch to a different user name, select **Sign out** in the previous screen, and then sign back in with a different user name.
+    
+### See also
+
+[Place and manipulate 3D models](manipulate-models.md)<br>
+[Add a note to your 3D model](add-note.md)<br>
+[Add your own 3D models](add-model.md)<br>
+[Explore sample 3D models](explore-samples.md)
