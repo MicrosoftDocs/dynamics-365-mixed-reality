@@ -40,3 +40,10 @@ If you have a 3D model stored in SharePoint or OneDrive, or on your local device
 5.	When prompted to link the model, select **Confirm**. 
  
     When the model is ready, you’ll see a **Success!** message and then you’ll be back on the screen where you selected the model so you can add additional models if you want.
+    
+### See also
+
+[Open the app and sign in](sign-in.md)<br>
+[Place and manipulate 3D models](manipulate-models.md)<br>
+[Add a note to your 3D model](add-note.md)<br>
+[Explore sample 3D models](explore-samples.md)
