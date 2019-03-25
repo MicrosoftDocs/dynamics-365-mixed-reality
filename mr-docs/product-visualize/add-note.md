@@ -26,7 +26,7 @@ Product Visualize includes a notes browser that makes it easy to see all the not
  
 4.	Do one of the following:
 
-    -	To do a new capture, select **Capture** on the right side of the screen. The app will take a picture of the model.
+    -	To take a picture, select **Capture** on the right side of the screen. The app will take a picture of the model.
     
     -	To use a picture from your camera roll, select **Camera Roll**, and then select the picture you want.
     
