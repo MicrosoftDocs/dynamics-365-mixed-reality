@@ -151,3 +151,8 @@ The next step is to set up your instance of Dynamics 365 Customer Engagement. Th
 
 When you're finished setting everything up, you'll have an Azure Active Directory tenant complete with Microsoft Office 365 and Microsoft Dynamics 365 Customer Engagement. At this point you can start adding opportunities, products, and 3D models to Dynamics 365 for Sales. For more information, see the [Admin guide](admin-guide.md).
 
+### See also
+
+[User Guide](user-guide.md)<br>
+[FAQ](faq.md)<br>
+
