@@ -8,6 +8,8 @@ To add a note, you tap the location of the model where you want to add the note,
 
 Product Visualize includes a notes browser that makes it easy to see all the notes attached to a model. The notes appear as a card  at the bottom of the screen. You can swipe to move forward and backward between notes in the browser, or you can tap a blue dot (spatial anchor  ) to select any note attached to the model. If the note is off the screen, you’ll see a blue dot with an arrow that points in the direction of the note.  
 
+
+
 ## Add a note
 
 1.	After placing a model, select Notes on the right side of the screen.
