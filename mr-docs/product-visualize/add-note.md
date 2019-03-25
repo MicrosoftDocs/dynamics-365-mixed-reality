@@ -30,7 +30,7 @@ Product Visualize includes a notes browser that makes it easy to see all the not
     
     -	To use a picture from your camera roll, select **Camera Roll**, and then select the picture you want.
     
-       ![Picture choices](media/take-photo.PNG "Picture choices")
+        ![Picture choices](media/take-photo.PNG "Picture choices")
    
 5.	In the **Create Note** screen:
 
