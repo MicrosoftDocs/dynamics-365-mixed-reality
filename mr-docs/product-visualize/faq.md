@@ -1,7 +1,7 @@
 
-# Dynamics 365 Product Visualize FAQ
+# Dynamics 365 Product Visualize (in preview) FAQ
 
-**What are the requirements for running Microsoft Dynamics 365 Product Visualize and what platforms does it support?**
+**What are the requirements for running Microsoft Dynamics 365 Product Visualize (in preview) and what platforms does it support?**
 
 For information on platforms and requirements, check out [our Requirements page](requirements.md).
 
