@@ -60,7 +60,7 @@ Product Visualize includes a notes browser that makes it easy to see all the not
 3.	Tap a blue dot to open a specific note or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
 
     > [!NOTE]
-    > If you want to see a larger view of the notes, which is useful if you can’t see all the text in the notes box, tap the expand arrow   in the upper-right corner of the notes box or flick up. Then you can use the scroll bar in the notes box to scroll the text. 
+    > If you want to see a larger view of the notes, which is useful if you can’t see all the text in the notes card, tap the expand arrow   in the upper-right corner of the notes box or flick up. Then you can use the scroll bar in the notes box to scroll the text. 
     
      ![Expand notes button](media/expand-notes.PNG "Expand notes button")
   
