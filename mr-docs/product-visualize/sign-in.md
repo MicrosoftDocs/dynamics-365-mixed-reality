@@ -92,5 +92,5 @@ If you have access to more than one Dynamics 365 organization,  you can use this
   
 3.	In the **Account Settings** screen, select **Edit** next to the organization you’re signed in to.
  
-> [!NOTE]
-> If you need to switch to a different user name, select **Sign out** in the previous screen, and then sign back in with a different user name.
+    > [!NOTE]
+    > If you need to switch to a different user name, select **Sign out** in the previous screen, and then sign back in with a different user name.
