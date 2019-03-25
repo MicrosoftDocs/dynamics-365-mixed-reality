@@ -27,15 +27,21 @@ You can open and sign in to Product Visualize on your iOS device in two differen
  
 3.	In the **Sign in** screen, enter your Dynamics 365 account. This will be in the form: <username>@<domainname>. When you’re done, select **Next**.  
  
+    ![Sign-in screen)](media/sign-in.PNG "Sign-in screen") 
+ 
     > [!NOTE]
     > After you sign in for the first time, this screen will not appear again.
 
 4.	On your first sign in, you’ll be prompted to select your Dynamics 365 for Sales organization. You can change organizations later, if you want, through **Settings**.  
+
+    ![My organizations screen)](media/my-organizations.PNG "My organizations screen") 
  
     > [!TIP]
     > If your organization isn’t set up with Dynamics 365 for Sales, you can explore sample models or go to the Dynamics 365 for Sales website to learn how to sign up.  
 
-5.	In the **My Opportunities** screen, select the opportunity you want to work on.  
+5.	In the **My Open Opportunities** screen, select the opportunity you want to work on.  
+
+    ![My Open Opportunities screen)](media/my-open-opportunities.PNG "My Open Opportunities screen") 
  
     Product Visualize pulls in your opportunities from Dynamics 365 for Sales by default. You can also view followed opportunities and connect opportunities.
     
@@ -56,13 +62,19 @@ If you haven’t already installed Product Visualize on your iOS device, you can
 4.	If you haven’t already installed the app, you’ll be redirected to the Apple Store. Follow the directions to install the app.
 
 5.	After installing the app, open it, and then in the **Welcome** screen, select **Sign in**. 
+
+   ![Welcome screen)](media/welcome.PNG "Welcome screen")
  
 6.	In the **Sign in** screen, enter your Dynamics 365 account. This will be in the form: <username>@<domainname>. When you’re done, select **Next**.
  
-    > [!NOTE]
-    > After you sign in for the first time, this screen will not appear again.
+   ![Sign-in screen)](media/sign-in.PNG "Sign-in screen") 
+ 
+   > [!NOTE]
+   > After you sign in for the first time, this screen will not appear again.
     
 7.	On your first sign in, you’ll be prompted to select your Dynamics 365 for Sales organization. You can change organizations later, if you want, through **Settings**.
+
+   ![My organizations screen)](media/my-organizations.PNG "My organizations screen") 
  
 8.	In the **My Opportunities** screen, select the opportunity you want to work on.
  
@@ -72,7 +84,9 @@ If you have access to more than one Dynamics 365 organization,  you can use this
 
 1.	Select the main menu icon  .
 
-2.	Select your account settings.  
+2.	Select your account settings. 
+
+   ![Account settings menu item)](media/account-settings.PNG "Account settings menu item") 
   
 3.	In the **Account Settings** screen, select **Edit** next to the organization you’re signed in to.
  
