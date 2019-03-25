@@ -2,6 +2,8 @@
 
 # Dynamics 365 Product Visualize (in preview) User Guide
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+
 Microsoft Dynamics 365 Product Visualize (in preview) empowers sellers to showcase and customize products in their actual environment, 
 helping create a shared understanding between buyer and seller to accelerate complex sales processes.
 
