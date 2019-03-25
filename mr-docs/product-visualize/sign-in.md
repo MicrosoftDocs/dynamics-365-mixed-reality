@@ -63,18 +63,18 @@ If you haven’t already installed Product Visualize on your iOS device, you can
 
 5.	After installing the app, open it, and then in the **Welcome** screen, select **Sign in**. 
 
-   ![Welcome screen)](media/welcome.PNG "Welcome screen")
+    ![Welcome screen)](media/welcome.PNG "Welcome screen")
  
 6.	In the **Sign in** screen, enter your Dynamics 365 account. This will be in the form: <username>@<domainname>. When you’re done, select **Next**.
  
-   ![Sign-in screen)](media/sign-in.PNG "Sign-in screen") 
+    ![Sign-in screen)](media/sign-in.PNG "Sign-in screen") 
  
    > [!NOTE]
    > After you sign in for the first time, this screen will not appear again.
     
 7.	On your first sign in, you’ll be prompted to select your Dynamics 365 for Sales organization. You can change organizations later, if you want, through **Settings**.
 
-   ![My organizations screen)](media/my-organizations.PNG "My organizations screen") 
+    ![My organizations screen)](media/my-organizations.PNG "My organizations screen") 
  
 8.	In the **My Opportunities** screen, select the opportunity you want to work on.
  
@@ -86,7 +86,7 @@ If you have access to more than one Dynamics 365 organization,  you can use this
 
 2.	Select your account settings. 
 
-   ![Account settings menu item)](media/account-settings.PNG "Account settings menu item") 
+    ![Account settings menu item)](media/account-settings.PNG "Account settings menu item") 
   
 3.	In the **Account Settings** screen, select **Edit** next to the organization you’re signed in to.
  
