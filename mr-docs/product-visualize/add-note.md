@@ -40,8 +40,8 @@ Product Visualize includes a notes browser that makes it easy to see all the not
     
        ![Add text](media/add-text.PNG "Add text")
  
-    > [!NOTE]
-    > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered will be retained, but inking will be lost. 
+       > [!NOTE]
+       > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered will be retained, but inking will be lost. 
     
 6.	If you want to change the settings for sharing notes, in the **Create Note** screen, select **Share Settings**. By default, notes are shared in the opportunity timeline in Dynamics 365 for Sales . You can also choose to share notes in a Microsoft Teams channel, or you can turn off sharing altogether if you want. When you’re done changing settings, select **Update all**.  
  
