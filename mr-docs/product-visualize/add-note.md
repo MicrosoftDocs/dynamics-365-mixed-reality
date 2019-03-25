@@ -6,7 +6,7 @@ You can capture notes on specific points on a 3D model and even add text or ink 
 
 To add a note, you tap the location of the model where you want to add the note, and then  take a picture of the model or upload a picture from your photo library to set the context.  Then you can ink on the image or add comments.  Notes you create are saved in a notes file in the Documents folder for the corresponding Dynamics 365 for Sales opportunity. 
 
-Product Visualize includes a notes browser that makes it easy to see all the notes attached to a model. The notes appear as a card  at the bottom of the screen. You can swipe to move forward and backward between notes in the browser, or you can tap a blue dot (spatial anchor  ) to select any note attached to the model. If the note is off the screen, you’ll see a blue dot with an arrow that points in the direction of the note.  
+Product Visualize includes a notes browser that makes it easy to see all the notes attached to a model. The notes appear as a card  at the bottom of the screen. You can swipe to move forward and backward between notes in the browser, or you can tap a blue dot (spatial anchor) to select any note attached to the model. If the note is off the screen, you’ll see a blue dot with an arrow that points in the direction of the note.  
 
 ![Types of notes](media/types-of-notes.PNG "Types of notes")
 
