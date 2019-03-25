@@ -1,4 +1,13 @@
-
+---
+author: mamithan
+description: Admin tasks for Dynamics 365 Product Visualize, including adding groups, products, opportunities, and the Product Visualize control
+ms.author: mamithan
+ms.date: 04/2/2019
+ms.service: crm-online
+ms.topic: article
+title: Administrator Guide for Dynamics 365 Product Visualize (in preview)
+ms.reviewer: v-brycho
+---
 
 # Administrator Guide for Dynamics 365 Product Visualize (in preview)
 
