@@ -28,9 +28,9 @@ The home screen of Product Visualize is the **My Open Opportunities** page. Each
 
     ![Compare sizes)](media/compare-sizes.PNG "Compare sizes")
   
-To place the model, select **Place** on the right side of the screen.
+6.  To place the model, select **Place** on the right side of the screen.
 
-   ![Place model item)](media/place-model.PNG "Place model item")
+    ![Place model item)](media/place-model.PNG "Place model item")
 
 ## Switch to a different model
 
