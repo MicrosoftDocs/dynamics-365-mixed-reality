@@ -12,7 +12,7 @@ Product Visualize includes a notes browser that makes it easy to see all the not
 
 ## Add a note
 
-1.	After placing a model, select Notes on the right side of the screen.
+1.	After placing a model, select **Notes** on the right side of the screen.
 
     ![Select Notes item](media/select-notes.PNG "Select Notes item")
  
