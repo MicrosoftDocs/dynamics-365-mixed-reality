@@ -1,8 +1,8 @@
 
 
-# Add a note to your 3D model in Dynamics 365 Product Visualize
+# Add a note to your 3D model in Dynamics 365 Product Visualize (in preview)
 
-You can capture notes on specific points on a 3D model and even add text or ink to the notes in Microsft Dynamics 365 Product Visualize. For example, when you’re out in the field with a customer, capture any required product changes directly on the model. 
+You can capture notes on specific points on a 3D model and even add text or ink to the notes in Microsft Dynamics 365 Product Visualize (in preview). For example, when you’re out in the field with a customer, capture any required product changes directly on the model. 
 
 To add a note, you tap the location of the model where you want to add the note, and then  take a picture of the model or upload a picture from your photo library to set the context.  Then you can ink on the image or add comments.  Notes you create are saved in a notes file in the Documents folder for the corresponding Dynamics 365 for Sales opportunity. 
 
