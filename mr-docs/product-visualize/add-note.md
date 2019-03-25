@@ -106,5 +106,4 @@ To change the share status of a note:
 
 [Open the app and sign in](sign-in.md)<br>
 [Place and manipulate 3D models](manipulate-models.md)<br>
-[Add your own 3D models](add-model.md)<br>
 [Explore sample 3D models](explore-samples.md)
