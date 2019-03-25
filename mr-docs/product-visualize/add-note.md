@@ -68,24 +68,24 @@ Product Visualize includes a notes browser that makes it easy to see all the not
 
 1.	Select **Notes** on the right side of the screen.
 2.	Select **Browse** to open the notes browser.
-3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes box.
+3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
 4.	In the **Options** dialog box, select **Edit Note** or **Delete Note**.
 
      ![Edit or delete a note](media/share-status.PNG "Edit or delete a note")
   
 ## Change the share status of a note
 
-By default, Product Visualize sends your notes to your Dynamics 365 for Sales timeline and any connected Microsoft Teams channel. If you turn this option off, your notes will be stored only Product Visualize until you turn them back on again. 
+By default, Product Visualize sends your notes to your Dynamics 365 for Sales timeline and any connected Microsoft Teams channel. If you turn this option off, your notes will be stored only in Product Visualize until you turn them back on again. 
 
 To change the share status of a note:
 
 1.	Select **Notes** on the right side of the screen.
 2.	Select **Browse** to open the notes browser.
-3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes box.
+3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
 4.	In the **Options** dialog box, move the slider to turn **Output options** on or off.  
  
 ## Export a note
-1.	Select **Notesv on the right side of the screen.
+1.	Select **Notes** on the right side of the screen.
 2.	Select **Browse** to open the notes browser.
-3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes box.
+3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
 4.	In the **Options** dialog box, select **Export Note**.   
