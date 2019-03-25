@@ -1,6 +1,6 @@
 
 
-# Place and manipulate 3D models
+# Place and manipulate 3D models in Dynamics 365 Product Visualize
 
 The home screen of Microsoft Dynamics 365 Product Visualize is the **My Open Opportunities** page. Each opportunity typically has multiple products within it, and each product can have multiple 3D models. 
 
