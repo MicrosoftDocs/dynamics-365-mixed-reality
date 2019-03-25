@@ -17,7 +17,7 @@ You can open and sign in to Product Visualize on your iOS device in two differen
 > [!NOTE]
 > At this time, Product Visualize is only available for iOS devices.
 
-## Open the app and sign in for the first time
+## Open the app on your iOS device and sign in for the first time
 
 1.	On your iOS device, search for “Dynamics 365 Product Visualize”, and then open the app.
 
