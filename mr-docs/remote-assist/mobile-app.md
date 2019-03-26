@@ -94,7 +94,7 @@ To make a call:
 You can add annotations to your screen to share with an expert on the call. To create annotations, your phone needs to recognize 
 at least one plane (vertical or horizontal) in your work area. You do this by scanning your work area with the phone. When a plane has been recognized, you’ll see a confirmation visualization and the annotation toolbar will appear at the top of the screen:
 
-![Add annnotations](media/annotations-bar-full-screen.PNG "Add annotations")
+![Add annnotations](media/annotation-bar-full-screen.PNG "Add annotations")
   
 > [!NOTE] 
 > If you lock your phone or minimize Remote Assist, the recognized planes will reappear automatically as soon as your phone 
@@ -103,7 +103,7 @@ recognizes the environment.
 ### Add an annotation
 You can add an annotation by using the buttons on the annotation toolbar:
 
-![Annotation bar](media/annotation-bar.PNG "Annotation bar")
+![Annotation bar](media/annotations-bar.PNG "Annotation bar")
   
 For example, to add an arrow, tap the arrow tool and drag your finger to the spot where you want to place the arrow.
 
