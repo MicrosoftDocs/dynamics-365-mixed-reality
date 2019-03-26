@@ -103,7 +103,7 @@ recognizes the environment.
 ### Add an annotation
 You can add an annotation by using the buttons on the annotation toolbar:
 
-![Annotation bar](media/annotations-bar.PNG "Annotation bar")
+![Annotation bar](media/annotation-bar.PNG "Annotation bar")
   
 For example, to add an arrow, tap the arrow tool and drag your finger to the spot where you want to place the arrow.
 
