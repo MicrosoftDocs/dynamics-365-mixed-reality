@@ -152,7 +152,7 @@ Field Service. You can link the apps through Settings if you chose not to link t
   
 2.	Select **Post**.
 
-3.	In the **Select one of today’s bookings** screens, select the appropriate booking to post the call data to.
+3.	In the **Select booking** screens, select the appropriate booking to post the call data to.
 
     ![Select bookings screen](media/bookings-today.PNG "Select bookings screen")
   
