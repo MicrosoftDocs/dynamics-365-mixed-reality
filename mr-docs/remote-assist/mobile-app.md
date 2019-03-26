@@ -80,7 +80,7 @@ To make a call:
     
     b.	Enter the name of the contact to search for , and then select the contact from the resulting list.
     
-2.	In the contact card, select **Video Call**.
+2.	In the contact card, select **Launch Call**.
 
     ![Launch Call screen](media/launch-call.PNG "Launch call screen")
   
