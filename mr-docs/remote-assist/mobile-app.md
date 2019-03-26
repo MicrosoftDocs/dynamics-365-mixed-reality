@@ -60,7 +60,7 @@ Teams account for free](https://businessstore.microsoft.com/en-us/create-account
 3.	In the **Link to Field Service** screen, select **Enable Feature** to link Remote Assist to Dynamics 365 for Field Service, or 
 select **Skip** if you don’t want to link them at this time. You can always link the apps later through **Settings**. To learn more about how the apps work together, select **Learn More**.
 
-   ![Field Service screen](media/field-service.PNG "Field Service screen")
+    ![Field Service screen](media/field-service.PNG "Field Service screen")
   
 ## Make a call
 After signing in, you’ll see the Contacts page, which is the main page in the Remote Assist mobile app. On the Contacts page, 
