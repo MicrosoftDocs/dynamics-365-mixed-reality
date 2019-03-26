@@ -70,15 +70,9 @@ your contacts are organized by the most recent calls.
   
 To make a call:
 
-1.	Do one of the following:
-
-    - Select a contact in the **Recents** list, or
-
-    a.	If the contact isn’t listed in the **Recents** list, select ![Search button](media/search-icon.PNG "Search button").
-    
-    b.	Enter the name of the contact to search for, and then select the contact from the resulting list.
+1.	Select ![Search button](media/search-icon.PNG "Search button"), enter the name of the contact to search for, and then select the contact from the resulting list.
        
-      ![Search for a contact](media/search-contact.PNG "Search for a contact")
+    ![Search for a contact](media/search-contact.PNG "Search for a contact")
     
 2.	In the contact card, select **Launch Call**.
 
