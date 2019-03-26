@@ -128,7 +128,7 @@ You can switch the orientation of the camera view from portrait to landscape whi
    
 ## Use Remote Assist together with Dynamics 365 for Field Service
 
-You use Remote Assist together with Dynamics 365 for Field Service if you want to automatically log call information to a 
+You can use Remote Assist together with Dynamics 365 for Field Service if you want to automatically log call information to a 
 Field Service work order when you end the call. 
 
 When you sign in to the Remote Assist mobile app for the first time, you’re prompted to link Remote Assist to Dynamics 365 for 
