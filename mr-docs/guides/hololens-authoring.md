@@ -2,7 +2,7 @@
 author: BryceHo
 description: Test and place holograms using the HoloLens application in Author mode (Dynamics 365 Guides in preview)
 ms.author: mamaylya
-ms.date: 02/24/2019
+ms.date: 03/26/2019
 ms.service: crm-online
 ms.topic: article
 title: Test and place holograms using HoloLens Author mode (Dynamics 365 Guides in preview)
@@ -248,23 +248,6 @@ The following graphic shows how to use the different rotation knobs:
 
 - Remember that you can attach a tether to 3D content to make it more discoverable. See the next section to learn about tethers.
 
-## Place tethers
-You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
-
-![Holographic tether)](media/hographic-tether.PNG "Holographic tether")
-
-To place a tether:
-
-1.	Tap and hold the “tether ball” below the Step card.
-
-2.	Place it in the real-world location that you want.
-
-    ![Place a tether)](media/place-tether.PNG "Place a tether")
-
-### Best practices for tethers
-
-- Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3D toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
-
 ## Add styles for emphasis
 Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
 
@@ -301,13 +284,46 @@ Here’s a list of styles included in Guides and when to use each:
 |X-ray	|Show things that happen inside something	|Outline with transparent inside|
 |Metal	|Provide a realistic metal finish for an object	|Metallic|
 
-![All styles)](media/all-styles.PNG "All styles")
+![All styles](media/all-styles.PNG "All styles")
  
 ### Best practices for styles
 
 - Use styles to reinforce actions.
 
 - Use styles only for the purpose they were intended. When operators learn the visual language of styles, they’ll know that a particular style means a certain thing, which will speed up the learning process. 
+
+## Duplicate a 3D model to use for similar items
+
+Sometimes, you need multiple copies of the same 3D models to point to similar items in the work area. Rather than adding new instances of a 3D model from the asset bin and having to set the position and style each time, you can save time by duplicating the 3D model. The duplicate will have the same rotation and style settings as the original.
+
+To duplicate a model:
+
+1.	Air tap a hologram you’ve already placed in the real world to select it.
+
+2.	Air tap the **Edit Hologram** (. . .) button.
+
+    ![Edit hologram button](media/edit-hologram-button.PNG "Edit hologram button")
+    
+3. Select **Duplicate**.
+
+    ![Duplicate button](media/duplicate-models.PNG "Duplicate button")
+
+## Place tethers
+You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
+
+![Holographic tether](media/hographic-tether.PNG "Holographic tether")
+
+To place a tether:
+
+1.	Tap and hold the “tether ball” below the Step card.
+
+2.	Place it in the real-world location that you want.
+
+    ![Place a tether](media/place-tether.PNG "Place a tether")
+
+### Best practices for tethers
+
+- Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3D toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
 
 ## What's next?
 
