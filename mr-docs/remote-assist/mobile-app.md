@@ -76,9 +76,9 @@ To make a call:
 
       -Or-
       
-     a.	If the contact isn’t listed in the **Recents** list, select ![Search button](media/search-icon.PNG "Search button").
+      a.	If the contact isn’t listed in the **Recents** list, select ![Search button](media/search-icon.PNG "Search button").
     
-     b.	Enter the name of the contact to search for , and then select the contact from the resulting list.
+      b.	Enter the name of the contact to search for , and then select the contact from the resulting list.
     
 2.	In the contact card, select **Launch Call**.
 
