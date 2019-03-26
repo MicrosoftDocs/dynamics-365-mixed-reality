@@ -66,7 +66,7 @@ To make a call:
 
 1.	Do one of the following:
 
-    - Select a contact in the **Recents** list. 
+   - Select a contact in the **Recents** list. 
 
       -Or-
       
