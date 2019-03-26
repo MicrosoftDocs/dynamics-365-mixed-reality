@@ -26,6 +26,9 @@ This section is going to walk you through the creation of a new Azure Active Dir
 With the Active Directory Tenant now created, the next step is to add an administrative user to the tenant. The admin user will be responsible for creating additional users, assigning licenses, and initializing Dynamics 365. As the creator of this Tenant, you could continue to use your work account to manage the system, but we have found it easier to have a separate administrator account for each Tenant.
 
 1. From the navigation menu on the left click __Azure Active Directory__ and then select __Users__
+
+![s2)](media/s2.png "s2")
+
 2. Click __New User__ at the top of the page and fill in the following fields:
     * Name - Can be anything
     * Username - must be fully qualified (username@\<tenant>.onmicrosoft.com)
@@ -39,8 +42,14 @@ Product Visualize integrates directly into Dynamics 365 for Sales, allowing your
 1. In a private browser window, return to [https://admin.microsoft.com](https://admin.microsoft.com)
 2. Sign in with the administrator credentials you just created and, if prompted, set a new password
 3. From the navigation menu on the left click __Billing > Subscriptions__ and click __Add Subscription__
-4. Find the subscription __Dynamics 365 Customer Engagement__, click the three dots (...) at the bottom, and select __Start Free Trial__
-5. At the summary page double-check  that you are signing-up for a __Dynamics 365 Customer Engagement__ trial and click __Try Now__
+
+![s3)](media/s3.png "s3")
+
+4. Find the subscription __Dynamics 365 Customer Engagement Plan__, click the three dots (...) at the bottom, and select __Start Free Trial__
+
+![s4)](media/s4.png "s4")
+
+5. At the summary page double-check  that you are signing-up for a __Dynamics 365 Customer Engagement Plan__ trial and click __Try Now__
 6. Click __Continue__ from the confirmation page
 
 # Assign Licenses
@@ -48,7 +57,10 @@ Before continuing we should make sure the Dynamics 365 Customer Engagement licen
 1. In the microsoft Admin Portal \([https://admin.microsoft.com](https://admin.microsoft.com)) select __Users > Active Users__ from the navigation menu on the left
 1. Edit the properties for your admin user created earlier by double clicking the name 
 2. On the __Product Licenses__ line click __Edit__
-3. __Enable__ the License for __Dynamics 365 Customer Engagement__
+3. __Enable__ the License for __Dynamics 365 Customer Engagement Plan__
+
+![s5)](media/s5.png "s5")
+
 4. Save the changes and close the user dialog
 
 # Set Up the Dynamics 365 for Sales Trial
@@ -63,12 +75,18 @@ It is time to finally set up your instance of Dynamics 365 Customer Engagement. 
     * Under __Select which scenario fits you best__ check __None of these__ (See note below)
     * Set the currency to your preferred currency
 4. Click __Complete Setup__ and wait for the initial setup process to complete
+
+![s6)](media/s6.png "s6")
+
 5. Return to the Dynamics 365 Admin Portal via the __Admin Centers__ list
 6. From the __Instances__ page you should see your newly created instance selected and some properties in a gray box on the right. Your new solution is still being setup, wait for it complete before moving on to the next step.
 
 > It can take around 10 minutes for the setup process to finish. You will know the process is complete when you see __Crm Hub__ listed under the __Solutions__ for your instance. Refresh the page periodically to check on the status.
 
 7. Click the small __Edit__ button next to the word __Solutions__ in the gray box on the right
+
+![s7)](media/s7.png "s7")
+
 8. From the list of available solutions find __Dynamics 365 Sales Application__ and click __Install__
 9. Approve the __Terms of Service__ and the installation process will start
 10. This process may take a while to complete. You can refresh the page to view the current status of your installation.
@@ -81,6 +99,9 @@ It is time to finally set up your instance of Dynamics 365 Customer Engagement. 
     * Find __Sales Hub__ from the list of available applications
 2. Click the __Gear__ icon in the upper-right corner of the page and select __Advanced Settings__
 3. From the navigation bar on the top of the page click the down arrow next to __Settings__ and click __Document Management__
+
+![s8)](media/s8.png "s8")
+
 4. Click __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint
 5. Continue through  the setup and, when prompted, enter the URL for your SharePoint ([https://\<org name>.sharepoint.com]())
 
