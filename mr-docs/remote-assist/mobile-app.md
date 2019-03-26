@@ -37,7 +37,7 @@ Field Service work order, you’ll also need one or both of the following:
 
 ### Step 1: Sign up for a Microsoft Teams account (free)
 
-A Microsoft Teams account is required to use Remote Assist mobile . If you don’t already have a Teams account, you can [create a 
+A Microsoft Teams account is required to use Remote Assist mobile. If you don’t already have a Teams account, you can [create a 
 Teams account for free](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### Step 2: Download the app
@@ -55,7 +55,7 @@ Teams account for free](https://businessstore.microsoft.com/en-us/create-account
     ![Sign-in screen](media/sign-in.png "Sign-in screen")
   
     > [!TIP]
-    > The sign-in address will be in the form: *username@company*.
+    > The sign-in address will be in the form: username@company.
     
 3.	In the dialaog box that appears, select **Enable Feature** to link Remote Assist to Dynamics 365 for Field Service, or 
 select **Skip** if you don’t want to link the apps at this time. You can always link them later through **Settings**. To learn more about how the apps work together, select **Learn More**.
@@ -72,13 +72,13 @@ To make a call:
 
 1.	Do one of the following:
 
-    - Select a contact in the **Recents** list. 
+     - Select a contact in the **Recents** list. 
 
       -Or-
       
-    a.	If the contact isn’t listed in the **Recents** list, select ![Search button](media/search-icon.PNG "Search button").
+     a.	If the contact isn’t listed in the **Recents** list, select ![Search button](media/search-icon.PNG "Search button").
     
-    b.	Enter the name of the contact to search for , and then select the contact from the resulting list.
+     b.	Enter the name of the contact to search for , and then select the contact from the resulting list.
     
 2.	In the contact card, select **Launch Call**.
 
