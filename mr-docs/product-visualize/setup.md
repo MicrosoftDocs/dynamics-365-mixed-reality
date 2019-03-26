@@ -45,7 +45,7 @@ Before continuing we should make sure the Dynamics 365 Customer Engagement licen
 1. In the microsoft Admin Portal \([https://admin.microsoft.com](https://admin.microsoft.com)) select __Users > Active Users__ from the navigation menu on the left
 1. Edit the properties for your admin user created earlier by double clicking the name 
 2. On the __Product Licenses__ line click __Edit__
-3. __Enable__ the Licenses for __Dynamics 365 Customer Engagement__ and __Office 365 Enterprise E3__
+3. __Enable__ the License for __Dynamics 365 Customer Engagement__
 4. Save the changes and close the user dialog
 
 # Set Up the Dynamics 365 for Sales Trial
@@ -60,7 +60,7 @@ It is time to finally set up your instance of Dynamics 365 Customer Engagement. 
     * Under __Select which scenario fits you best__ check __None of these__ (See note below)
     * Set the currency to your preferred currency
 4. Click __Complete Setup__ and wait for the initial setup process to complete
-5. Return to the Dynamics 365 Admin Portal \([https://port.crm.dynamics.com/G/Instances](https://port.crm.dynamics.com/G/Instances))
+5. Return to the Dynamics 365 Admin Portal via the __Admin Centers__ list
 6. From the __Instances__ page you should see your newly created instance selected and some properties in a gray box on the right. Your new solution is still being setup, wait for it complete before moving on to the next step.
 
 > It can take around 10 minutes for the setup process to finish. You will know the process is complete when you see __Crm Hub__ listed under the __Solutions__ for your instance. Refresh the page periodically to check on the status.
@@ -74,7 +74,7 @@ It is time to finally set up your instance of Dynamics 365 Customer Engagement. 
 
 # Set Up a SharePoint Site
 1. Navigate to the Sales Hub of your newly created Dynamics 365 instance 
-    * Visit [https://\<org>.crm.dynamics.com]()
+    * Click the __Open__ button next to your org name in the gray box on the Admin center page
     * Find __Sales Hub__ from the list of available applications
 2. Click the __Gear__ icon in the upper-right corner of the page and select __Advanced Settings__
 3. From the navigation bar on the top of the page click the down arrow next to __Settings__ and click __Document Management__
