@@ -126,7 +126,7 @@ To restore the toolbar to its original size:
 When you call an expert, the expert’s video feed appears in the lower-right corner of your phone screen. To make the expert’s 
 video feed bigger, tap the feed. Tap the feed again to return to the original size.
 
-![Expert video feed](media/expert-annotating.png "Expert video feed")
+![Expert video feed](media/expert-annotating.PNG "Expert video feed")
   
 If the expert is annotating, a notification icon will appear on the expert screen .  
 
