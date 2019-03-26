@@ -72,13 +72,13 @@ To make a call:
 
 1.	Do one of the following:
 
-     - Select a contact in the **Recents** list. 
+    - Select a contact in the **Recents** list, or
 
-      -Or-
-      
-       a.	If the contact isn’t listed in the **Recents** list, select ![Search button](media/search-icon.PNG "Search button").
+    a.	If the contact isn’t listed in the **Recents** list, select ![Search button](media/search-icon.PNG "Search button").
     
-       b.	Enter the name of the contact to search for , and then select the contact from the resulting list.
+    b.	Enter the name of the contact to search for, and then select the contact from the resulting list.
+       
+        ![Search for a contact](media/search-contact.PNG "Search for a contact")
     
 2.	In the contact card, select **Launch Call**.
 
