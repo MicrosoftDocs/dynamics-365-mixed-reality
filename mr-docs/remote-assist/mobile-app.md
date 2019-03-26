@@ -51,6 +51,8 @@ Teams account for free](https://businessstore.microsoft.com/en-us/create-account
 1.	After you’ve downloaded the app, open it on your Android phone. 
 
 2.	Sign in with your Microsoft Teams account.
+
+    ![Sign-in screen](media/sign-in.PNG "Sign-in screen")
   
     > [!TIP]
     > The sign-in address will be in the form: *username@company*.
