@@ -192,6 +192,6 @@ If you’d like to get direct access to the product team forum and provide feedb
  
 You can also provide feedback directly from the app by using the following procedure:
 
-1.	Select the **Main menu** button.
+1.	Select the **Main menu** ![Main menu button](media/hamburger-icon.png "Main menu button") button.
 
 2.	Select **Feedback**.
