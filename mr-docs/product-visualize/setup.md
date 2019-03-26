@@ -16,7 +16,7 @@ This section is going to walk you through the creation of a new Azure Active Dir
 3. From the navigation menu on the left click __Create a Resource__
 4. In the __New Resource__ window select __Identity > Azure Active Directory__
 
-![s1n)](media/s1.PNG "s1")
+![s1)](media/s1.PNG "s1")
 
 5. Give the Organization a __Name__ and __Initial Domain Name__
 6. Click __Create__ and wait several minutes until the __Success__ message pops up
