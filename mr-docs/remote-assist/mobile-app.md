@@ -13,8 +13,8 @@ to troubleshoot problems together, faster.
 
 You’ll need the following to use the Remote Assist mobile app:
 
-- An Android ARCore-capable phone (tablets are not currently supported), with ARCore installed. View the full list of supported 
-devices. 
+- An Android ARCore-capable phone (tablets are not currently supported), with ARCore installed. [View the full list of supported 
+devices](https://developers.google.com/ar/discover/supported-devices). 
 
 - A Google Play account.
 
@@ -29,7 +29,7 @@ devices.
 If you want to use Remote Assist together with Dynamics 365 for Field Service so you can automatically log call information to a 
 Field Service work order, you’ll also need one or both of the following:
 
-- Dynamics 365 for Field Service application
+- Dynamics 365 for Field Service web application
 
 - Dynamics 365 for Field Service mobile app 
 
@@ -37,14 +37,14 @@ Field Service work order, you’ll also need one or both of the following:
 
 ### Step 1: Sign up for a Microsoft Teams account (free)
 
-A Microsoft Teams account is required to use Remote Assist mobile . If you don’t already have a Teams account, you can create a 
-Teams account for free. 
+A Microsoft Teams account is required to use Remote Assist mobile . If you don’t already have a Teams account, you can [create a 
+Teams account for free](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### Step 2: Download the app
 
 1.	Go to the Google Play Store: https://play.google.com/store/apps/details?id=com.microsoft.ramobile.
 
-2.	Select Download. 
+2.	Select **Download**. 
  
 ### Step 3: Sign in to the app for the first time
 
@@ -53,11 +53,10 @@ Teams account for free.
 2.	Sign in with your Microsoft Teams account.
   
     > [!TIP]
-    > The sign-in address will be in the form: username@company.
+    > The sign-in address will be in the form: *username@company*.
     
-3.	In the Link to Field Service screen, select Enable Feature to link Remote Assist to Dynamics 365 for Field Service, or 
-select Skip if you don’t want to link them at this time. You can always link the apps later through Settings. To learn more about 
-how the apps work together, select Learn More.
+3.	In the **Link to Field Service** screen, select **Enable Feature** to link Remote Assist to Dynamics 365 for Field Service, or 
+select **Skip** if you don’t want to link them at this time. You can always link the apps later through **Settings**. To learn more about how the apps work together, select **Learn More**.
   
 ## Make a call
 After signing in, you’ll see the Contacts page, which is the main page in the Remote Assist mobile app. On the Contacts page, 
@@ -67,15 +66,15 @@ To make a call:
 
 1.	Do one of the following:
 
-    - Select a contact in the Recents list. 
+    - Select a contact in the **Recents** list. 
 
       -Or-
       
-    a.	If the contact isn’t listed in the Recents list, select  .
+    a.	If the contact isn’t listed in the **Recents** list, select  .
     
     b.	Enter the name of the contact to search for , and then select the contact from the resulting list.
     
-2.	In the contact card, select Video Call .
+2.	In the contact card, select **Video Call**.
   
     Use the buttons in the bar at the bottom of the screen to mute the call, pause the video feed, turn on the speaker phone, or 
     end the call.
@@ -83,8 +82,7 @@ To make a call:
  
 ## Add annotations
 You can add annotations to your screen to share with an expert on the call. To create annotations, your phone needs to recognize 
-at least one plane   in your work area. You do this by scanning your work area with the phone. When a plane has been recognized, 
-you’ll see a confirmation visualization and the annotation toolbar will appear at the top of the screen:
+at least one plane (vertical or horizontal) in your work area. You do this by scanning your work area with the phone. When a plane has been recognized, you’ll see a confirmation visualization and the annotation toolbar will appear at the top of the screen:
   
 > [!NOTE] 
 > If you lock your phone or minimize Remote Assist, the recognized planes will reappear automatically as soon as your phone 
@@ -105,7 +103,7 @@ To minimize the toolbar:
  
 To restore the toolbar to its original size:
 
-- Select the Pen button. 
+- Select the **Pen** button. 
 
 ### Make the expert’s video feed bigger
 
@@ -116,8 +114,7 @@ If the expert is annotating, a notification icon will appear on the expert scree
 
 ## Switch the camera view from portrait to landscape
 
-You can switch the orientation of the camera view from portrait to landscape while in a call. Using landscape view provides a 
-wider field of view, which may improve the experience for the remote expert on the call.
+You can switch the orientation of the camera view from portrait to landscape while in a call by changing the orientation of your phone. Using landscape view provides a wider field of view, which may improve the experience for the remote expert on the call.
    
 ## Use Remote Assist together with Dynamics 365 for Field Service
 
@@ -129,17 +126,19 @@ Field Service. You can link the apps through Settings if you chose not to link t
 
 ### Link the Remote Assist mobile app to Dynamics 365 for Field Service
 
-1.	Select the Settings button.  
+1.	Select the **Main menu** button.
 
-2.	In the Settings dialog box, move the slider to on.
+2.  Select the **Settings** button.  
+
+3.	In the **Settings** dialog box, move the slider to on.
   
 ### Save call data to a Field Service work order
 
 1.	When you end the call, the following dialog box will appear:
   
-2.	Select Post.
+2.	Select **Post**.
 
-3.	In the Select one of today’s bookings screens, select the appropriate booking to post the call data to.
+3.	In the **Select one of today’s bookings** screens, select the appropriate booking to post the call data to.
   
     > [!NOTE]
     > If you don’t see the booking you’re looking for, it may be because you have access to multiple organizations (instances). 
@@ -147,15 +146,15 @@ Field Service. You can link the apps through Settings if you chose not to link t
     
 ## Sign out of the app
 
-1.	Select the Main menu   button.
+1.	Select the **Main menu** button.
 
-2.	Select Sign Out.
+2.	Select **Sign Out**.
 
 ## Get Help
 
-1.	Select the Main menu   button.
+1.	Select the **Main menu** button.
 
-2.	Select Help.
+2.	Select **Help**.
 
 ## Get support or provide feedback
 
@@ -163,10 +162,10 @@ If you’d like to get direct access to the product team forum and provide feedb
 
 1.	Sign up for the Dynamics 365 Remote Assist Mobile Public Preview Insiders Program at https://experience.dynamics.com. 
 
-2.	Select the Insiders Program box, which will lead you to the Insiders Program application.
+2.	Select the **Insiders Program** box, which will lead you to the Insiders Program application.
  
 You can also provide feedback directly from the app by using the following procedure:
 
-1.	Select the Main menu   button.
+1.	Select the **Main menu** button.
 
-2.	Select Feedback.
+2.	Select **Feedback**.
