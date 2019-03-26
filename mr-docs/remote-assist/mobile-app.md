@@ -158,7 +158,7 @@ Field Service. You can link the apps through Settings if you chose not to link t
   
     > [!NOTE]
     > If you don’t see the booking you’re looking for, it may be because you have access to multiple organizations (instances). 
-    To switch to a different organization, select Change D365 Instance . 
+    To switch to a different organization, select **Change Dynamics 365 Instance**. 
     
 ## Sign out of the app
 
