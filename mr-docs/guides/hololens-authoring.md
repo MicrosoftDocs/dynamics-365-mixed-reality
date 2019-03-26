@@ -294,7 +294,7 @@ Here’s a list of styles included in Guides and when to use each:
 
 ## Duplicate a 3D model to use for similar items
 
-Sometimes, you need multiple copies of the same 3D models to point to similar items in the work area. Rather than picking up new instances of a 3D model from the asset bins and having to set their position and style, you can simply duplicate a 3D model. The duplicate will have the same rotation and style settings.
+Sometimes, you need multiple copies of the same 3D models to point to similar items in the work area. Rather than adding new instances of a 3D model from the asset bin and having to set the position and style each time, you can save time by duplicating the 3D model. The duplicate will have the same rotation and style settings as the original.
 
 To duplicate a model:
 
