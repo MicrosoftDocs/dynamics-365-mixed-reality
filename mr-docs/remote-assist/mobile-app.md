@@ -103,9 +103,7 @@ For example, to add an arrow, tap the arrow tool and drag your finger to the spo
 
 ### Minimize or restore the toolbar
 
-You can minimize the toolbar if you want to see more of the screen.
-
-To minimize the toolbar:
+To minimize the toolbar if you want to see more of the screen:
 
 - Select the arrow on the right side of the toolbar. 
 
