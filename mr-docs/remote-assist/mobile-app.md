@@ -57,8 +57,8 @@ Teams account for free](https://businessstore.microsoft.com/en-us/create-account
     > [!TIP]
     > The sign-in address will be in the form: *username@company*.
     
-3.	In the **Link to Field Service** screen, select **Enable Feature** to link Remote Assist to Dynamics 365 for Field Service, or 
-select **Skip** if you don’t want to link them at this time. You can always link the apps later through **Settings**. To learn more about how the apps work together, select **Learn More**.
+3.	In the dialaog box that appears, select **Enable Feature** to link Remote Assist to Dynamics 365 for Field Service, or 
+select **Skip** if you don’t want to link the apps at this time. You can always link them later through **Settings**. To learn more about how the apps work together, select **Learn More**.
 
     ![Field Service screen](media/field-service.PNG "Field Service screen")
   
