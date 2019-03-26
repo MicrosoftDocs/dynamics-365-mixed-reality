@@ -306,7 +306,7 @@ To duplicate a model:
     
 3. Select **Duplicate**.
 
-    ![Duplicate button](media/duplicate-model.PNG "Duplicate button")
+    ![Duplicate button](media/duplicate-models.PNG "Duplicate button")
 
 ## Place tethers
 You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
