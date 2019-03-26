@@ -63,7 +63,7 @@ select **Skip** if you don’t want to link the apps at this time. You can alway
     ![Field Service screen](media/field-service.PNG "Field Service screen")
   
 ## Make a call
-After signing in, you’ll see the **Contacts** page, which is the main page in the Remote Assist mobile app. On the Contacts page, 
+After signing in, you’ll see the **Contacts** page, which is the main page in the Remote Assist mobile app. On the **Contacts** page, 
 your contacts are organized by the most recent calls.
 
 ![Contacts screen](media/contacts.PNG "Contacts screen")
