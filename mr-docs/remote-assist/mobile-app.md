@@ -120,7 +120,7 @@ video feed bigger, tap the feed. Tap the feed again to return to the original si
 
 ![Expert video feed](media/expert-annotating.PNG "Expert video feed")
   
-If the expert is annotating, a notification icon will appear on the expert screen .  
+If the expert is annotating, a notification icon will appear on the expert's feed.  
 
 ## Switch the camera view from portrait to landscape
 
