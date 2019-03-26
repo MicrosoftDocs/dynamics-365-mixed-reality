@@ -89,6 +89,11 @@ To turn off sharing with the Dynamics 365 for Sales timeline or Microsoft Teams 
 2. Under **Sharing Notes**, move the sliders to the off position for the options you want to turn off.
  
 ## Export a note
+
+You can export your notes to share them with other apps on your device that support the iOS sharing function. The notes image and text are exported without any special formatting.
+
+To export a note:
+
 1.	Select **Notes** on the right side of the screen.
 2.	Select **Browse** to open the notes browser.
 3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
