@@ -68,7 +68,7 @@ your contacts are organized by the most recent calls.
 
 ![Contacts screen](media/contacts.PNG "Contacts screen")
   
-To make a call:
+### Make a call
 
 1.	Select ![Search button](media/search-icon.PNG "Search button"), enter the name of the contact to search for, and then select the contact from the resulting list.
        
