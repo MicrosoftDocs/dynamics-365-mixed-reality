@@ -78,7 +78,7 @@ To make a call:
     
     b.	Enter the name of the contact to search for, and then select the contact from the resulting list.
        
-        ![Search for a contact](media/search-contact.PNG "Search for a contact")
+      ![Search for a contact](media/search-contact.PNG "Search for a contact")
     
 2.	In the contact card, select **Launch Call**.
 
