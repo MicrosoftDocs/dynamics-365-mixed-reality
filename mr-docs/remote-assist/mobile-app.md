@@ -52,7 +52,7 @@ Teams account for free](https://businessstore.microsoft.com/en-us/create-account
 
 2.	Sign in with your Microsoft Teams account.
 
-    ![Sign-in screen](media/sign-in.PNG "Sign-in screen")
+    ![Sign-in screen](media/sign-in.png "Sign-in screen")
   
     > [!TIP]
     > The sign-in address will be in the form: *username@company*.
