@@ -2,14 +2,14 @@
 author: MatthewJonPaul
 description: Dynamics 365 Remote Assist User Guide
 ms.author: mapau
-ms.date: 01/29/2019
+ms.date: 04/02/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User Guide
 ms.reviewer: v-brycho
 ---
 
-# Dynamics 365 Remote Assist User Guide
+# Dynamics 365 Remote Assist User Guide (for HoloLens)
 
 Use [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] to connect and collaborate using
 hands-free video calling, mixed reality annotations, and file (image and PDF)
