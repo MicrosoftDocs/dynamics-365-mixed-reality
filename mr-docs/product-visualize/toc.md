@@ -8,7 +8,6 @@
 ### [Open the app and sign in](sign-in.md)
 ### [Place and manipulate 3D models](manipulate-models.md)
 ### [Add a note to your 3D model](add-note.md)
-### [Add your own 3D model](add-model.md)
 ### [Explore sample 3D models](explore-samples.md)
 ## [FAQ](faq.md)
 ## [Terms of use](../legal/product-visualize-terms.md)
