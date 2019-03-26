@@ -76,7 +76,7 @@ To make a call:
 
       -Or-
       
-    a.	If the contact isn’t listed in the **Recents** list, select ![Search button](media/search-icon.png "Search button") .
+    a.	If the contact isn’t listed in the **Recents** list, select ![Search button](media/search-icon.PNG "Search button") .
     
     b.	Enter the name of the contact to search for , and then select the contact from the resulting list.
     
@@ -144,7 +144,7 @@ Field Service. You can link the apps through Settings if you chose not to link t
 
 ### Link the Remote Assist mobile app to Dynamics 365 for Field Service
 
-1.	Select the **Main menu** ![Main menu button](media/main-menu-button.png "Main menu button") button.
+1.	Select the **Main menu** ![Main menu button](media/main-menu-button.PNG "Main menu button") button.
 
 2.  Select the **Settings** button.  
 
@@ -170,13 +170,13 @@ Field Service. You can link the apps through Settings if you chose not to link t
     
 ## Sign out of the app
 
-1.	Select the **Main menu** ![Main menu button](media/main-menu-button.png "Main menu button") button.
+1.	Select the **Main menu** ![Main menu button](media/main-menu-button.PNG "Main menu button") button.
 
 2.	Select **Sign Out**.
 
 ## Get Help
 
-1.	Select the **Main menu** ![Main menu button](media/main-menu-button.png "Main menu button") button.
+1.	Select the **Main menu** ![Main menu button](media/main-menu-button.PNG "Main menu button") button.
 
 2.	Select **Help**.
 
@@ -192,6 +192,6 @@ If you’d like to get direct access to the product team forum and provide feedb
  
 You can also provide feedback directly from the app by using the following procedure:
 
-1.	Select the **Main menu** ![Main menu button](main-menu-button.png "Main menu button") button.
+1.	Select the **Main menu** ![Main menu button](main-menu-button.PNG "Main menu button") button.
 
 2.	Select **Feedback**.
