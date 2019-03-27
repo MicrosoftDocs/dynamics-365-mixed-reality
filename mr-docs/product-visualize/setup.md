@@ -157,4 +157,4 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 > If you opted to use the automated __Sales__ setup option earlier, you can skip the steps to enable server-based SharePoint Integration.
 
 ## What's next?
-Once the setup process has finished, you'll have an Azure Active Directory Tenant complete with Microsoft Office 365 and Microsoft Dynamics 365 Customer Engagement. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator Guide](admin-guide.md).
+Once the setup process has finished, you'll have an Azure Active Directory organization complete with Microsoft Office 365 and Microsoft Dynamics 365 Customer Engagement. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator Guide](admin-guide.md).
