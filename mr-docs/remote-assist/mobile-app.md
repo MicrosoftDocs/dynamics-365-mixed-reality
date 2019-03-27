@@ -168,8 +168,8 @@ Field Service. You can link the apps through Settings if you chose not to link t
     ![Select bookings screen](media/bookings-today.PNG "Select bookings screen")
   
     > [!NOTE]
-    > If you don’t see the booking you’re looking for, it may be because you have access to multiple organizations (instances). 
-    To switch to a different organization, select **Change Dynamics 365 Instance**. 
+    > If you don’t see the booking you’re looking for, it may be because you have access to multiple instances (organizations). 
+    To switch to a different instance, select the ellipsis button (...), and then select the instance you want.<br>![Select instance](media/select-instance.PNG "Select instance")
     
 ## Sign out of the app
 
