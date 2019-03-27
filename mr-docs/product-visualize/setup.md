@@ -31,7 +31,7 @@ After creating the new organization, the next step is to add an admin user to th
 
 1. In the left navigation, select __Azure Active Directory__, and then select __Users__.
 
-   ![s2)](media/s2.png "s2")
+   ![Azure Active Directory](media/azure-active-directory.PNG "Azure Active Directory")
 
 2. Select __New User__ at the top of the page, and then fill in the following fields:
 
@@ -56,11 +56,11 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 3. In the left navigation, select __Billing > Subscriptions__, and then select __Add subscriptions__.
 
-   ![s3)](media/s3.png "s3")
+   ![Billing subscriptions](media/subscriptions.PNG "Billing subscriptions")
 
 4. Find the __Dynamics 365 Customer Engagement Plan__ subscription, select the three dots (...) at the bottom, and then select __Start Free Trial__.
 
-   ![s4)](media/s4.png "s4")
+   ![Dynamics 365 Customer Engagement plan](media/dynamics-365-customer-engagement-plan.PNG "Dynamics 365 Customer Engagement plan")
 
 5. In the summary page, make sure you're signing up for a __Dynamics 365 Customer Engagement Plan__ trial, and then select __Try Now__.
 
