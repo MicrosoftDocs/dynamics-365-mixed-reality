@@ -1,11 +1,11 @@
 ---
 author: MatthewJonPaul
-description: Dynamics 365 Remote Assist User Guide
+description: Dynamics 365 Remote Assist User Guide (for HoloLens)
 ms.author: mapau
 ms.date: 04/02/2019
 ms.service: crm-online
 ms.topic: article
-title: Dynamics 365 Remote Assist User Guide
+title: Dynamics 365 Remote Assist User Guide (for HoloLens)
 ms.reviewer: v-brycho
 ---
 
@@ -68,7 +68,7 @@ you’re signed in, you’ll see your recent contacts.
 The procedures in this user guide describe how to do tasks through the user
 interface or by using voice commands, when available. To use a voice command,
 say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say the voice command. [Learn more about voice
-commands.](#use-voice-commands)
+commands.](#voice)
 
 ## Make and receive calls
 
@@ -257,7 +257,7 @@ To undo your most recent action, including **Erase all**:
 
 -   Select **Undo** at the top of the call window (or say “Undo”).
 
-## Use voice commands and gaze
+## Use voice commands and gaze <a name="voice"></a>
 
 In many cases, you can use voice commands and gaze instead of gestures. Some voice
 commands are contextual, so they only work in particular areas of the user
