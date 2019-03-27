@@ -82,7 +82,7 @@ Before continuing, you need to make sure the Dynamics 365 Customer Engagement li
 
 5. Save the changes and close the dialog box.
 
-## Set Up the Dynamics 365 for Sales trial
+## Set up the Dynamics 365 for Sales trial
 
 The next step is to set up the Dynamics 365 Customer Engagement instance. This procedure provides step-by-step instructions for manually installing Dynamics for Sales, which generates a completely empty instance of the Dynamics 365 Common Data Service for Apps. 
 
