@@ -95,7 +95,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 
     - Set the language to your preferred language.
     
-    - Under __Select which scenario fits you best__, select __None of these__ (assuming you didn't select the **Sales option** above).
+    - Under __Select which scenario fits you best__, select __None of these__ (assuming you didn't select the **Sales** option above).
     
     - Set the currency to your preferred currency.
     
