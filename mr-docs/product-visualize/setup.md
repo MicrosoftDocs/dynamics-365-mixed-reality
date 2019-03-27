@@ -108,7 +108,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
    In the __Instances__ page, you should see your newly created instance selected and some properties in a gray box on the right. Your new solution is still being set up. Wait for the setup to complete before moving on to the next step.
 
    > [!NOTE]
-   > It can take around 10 minutes for the setup process to finish. You'll know the process is complete when you see __Crm Hub__ listed under __Solutions__ for your instance. Refresh the page periodically to check on the status.
+   > It can take around 10 minutes for the setup process to finish. You'll know the process is complete when you see __CRM Hub__ listed under __Solutions__ for your instance. Refresh the page periodically to check on the status.
 
 5. Select the small __Edit__ button next to the word __Solutions__ in the gray box on the right.
 
