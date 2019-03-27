@@ -17,7 +17,7 @@ The __Directory & Subscriptions__ can be accessed by selecting this icon:
 
 3. In the left navigation, select **Create a Resource**, under **New**, select **Identity**, and then select **Azure Active Directory**.
 
-   ![s1)](media/s1.png "s1")
+   ![Create resource)](media/create-resource.PNG "Create resource")
 
 4. Give the organization a name and an initial domain name.
 
