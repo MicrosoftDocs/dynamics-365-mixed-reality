@@ -19,11 +19,11 @@ The __Directory & Subscriptions__ can be accessed by selecting this icon:
 
    ![s1)](media/s1.png "s1")
 
-4. Give the Organization a name and an initial domain name.
+4. Give the organization a name and an initial domain name.
 
 5. Select __Create__. You may need to wait several minutes before the __Success__ message appears.
 
-6. Select the __Click here to manage your new directory__ link.
+6. Select __Click here to manage your new directory__.
 
 ## Add an admin user
 
