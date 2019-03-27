@@ -54,7 +54,7 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 2. Sign in with the administrator credentials you created in the previous procedure and, if prompted, set a new password.
 
-3. In the left navigation, select __Billing > Subscriptions__, and then select __Add Subscription__.
+3. In the left navigation, select __Billing > Subscriptions__, and then select __Add subscriptions__.
 
    ![s3)](media/s3.png "s3")
 
