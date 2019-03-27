@@ -35,7 +35,7 @@ After creating the new organization, the next step is to add an admin user to th
 
 2. Select __New User__ at the top of the page, and then fill in the following fields:
 
-    - **Name** - You can use any name.
+    - **Name** - Enter any name
     
     - **Username** - Must be fully qualified (username@\<tenant>.onmicrosoft.com)
     
@@ -48,39 +48,39 @@ After creating the new organization, the next step is to add an admin user to th
 
 ## Add a Dynamics 365 Customer Engagement trial
 
-Product Visualize integrates directly into Dynamics 365 for Sales, allowing your salespeople to seamlessly transition from the vital customer data into an engaging sales experience that will change the way customers think about your products.
+Product Visualize integrates directly into Dynamics 365 for Sales, which enables your salespeople to seamlessly transition from vital customer data into an engaging sales experience that changes the way customers think about your products.
 
-1. In a private browser window, return to [https://admin.microsoft.com](https://admin.microsoft.com)
+1. In a private browser window, go to [https://admin.microsoft.com](https://admin.microsoft.com).
 
-2. Sign in with the administrator credentials you just created and, if prompted, set a new password
+2. Sign in with the administrator credentials you created in the previous procedure and, if prompted, set a new password.
 
-3. From the navigation menu on the left click __Billing > Subscriptions__ and click __Add Subscription__
+3. In the left navigation, select __Billing > Subscriptions__, and then select __Add Subscription__.
 
    ![s3)](media/s3.png "s3")
 
-4. Find the subscription __Dynamics 365 Customer Engagement Plan__, click the three dots (...) at the bottom, and select __Start Free Trial__
+4. Find the subscription __Dynamics 365 Customer Engagement Plan__, select the three dots (...) at the bottom, and then select __Start Free Trial__.
 
    ![s4)](media/s4.png "s4")
 
-5. At the summary page double-check  that you are signing-up for a __Dynamics 365 Customer Engagement Plan__ trial and click __Try Now__
+5. In the summary page, make sure you're signing-up for a __Dynamics 365 Customer Engagement Plan__ trial, and then select __Try Now__.
 
-6. Click __Continue__ from the confirmation page
+6. In the confirmation page, select __Continue__.
 
 ## Assign licenses
 
-Before continuing we should make sure the Dynamics 365 Customer Engagement license has been assigned to our admin user
+Before continuing, you need to make sure the Dynamics 365 Customer Engagement license has been assigned to the admin user.
 
-1. In the microsoft Admin Portal \([https://admin.microsoft.com](https://admin.microsoft.com)) select __Users > Active Users__ from the navigation menu on the left
+1. In the Microsoft Admin Portal \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigations, select __Users > Active Users__.
 
-1. Edit the properties for your admin user created earlier by double clicking the name 
+2. Double-click the name of the admin user created earlier. 
 
-2. On the __Product Licenses__ line click __Edit__
+3. Next to __Product Licenses__, select __Edit__.
 
-3. __Enable__ the License for __Dynamics 365 Customer Engagement Plan__
+4. __Enable__ the License for __Dynamics 365 Customer Engagement Plan__
 
    ![s5)](media/s5.png "s5")
 
-4. Save the changes and close the user dialog
+5. Save the changes and close the user dialog
 
 ## Set Up the Dynamics 365 for Sales trial
 
