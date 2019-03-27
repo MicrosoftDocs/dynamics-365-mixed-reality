@@ -70,7 +70,7 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 Before continuing, you need to make sure the Dynamics 365 Customer Engagement license has been assigned to the admin user.
 
-1. In the Microsoft Admin Portal \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigations, select __Users > Active Users__.
+1. In the Microsoft Admin Portal \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, select __Users > Active Users__.
 
 2. Double-click the name of the admin user created earlier. 
 
