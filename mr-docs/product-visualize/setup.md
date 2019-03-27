@@ -1,6 +1,6 @@
 
 
-# Set up Dyanmics 365 Product Visualize (in preview)
+# Set up Dynamics 365 Product Visualize (in preview)
 
 Microsoft Dynamics 365 Product Visualize requires an active Dynamics 365 for Sales instance that is backed by a SharePoint site. This document provides the step-by-step procedure for setting up a new trial instance. Once the instance is running, refer to the __Product Visualize Admin Guide__ for instructions on adding Users, Products, Opportunities, and Models.
 
