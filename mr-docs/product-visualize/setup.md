@@ -2,7 +2,7 @@
 
 # Set up Dynamics 365 Product Visualize (in preview)
 
-Microsoft Dynamics 365 Product Visualize (in preview) requires an active Dynamics 365 for Sales instance that's associated with a Microsoft SharePoint site. This document provides step-by-step procedures for setting up a new Dynamics 365 for Sales trial instance. Once the instance is running, see the [Administrator Guide}(admin-guide.md) for instructions on adding users, products, opportunities, and models.
+Microsoft Dynamics 365 Product Visualize (in preview) requires an active Dynamics 365 for Sales instance that's associated with a Microsoft SharePoint site. This document provides step-by-step procedures for setting up a new Dynamics 365 for Sales trial instance. Once the instance is running, see the [Administrator Guide](admin-guide.md) for instructions on adding users, products, opportunities, and models.
 
 ## Create a new organization
 This section is going to walk you through the creation of a new Azure Active Directory organization. This will give you a safe environment to try out Product Visualize that won't interfere with any existing Dynamics 365 instances. This new organization allows you to create and manage users separate from your business organization.
