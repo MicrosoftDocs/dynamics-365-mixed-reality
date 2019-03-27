@@ -15,17 +15,15 @@ This section provides step-by-step instructions for creating a new Azure Active 
 
 The __Directory & Subscriptions__ can be accessed by selecting this icon:
 
-3. In the left navigation, select __Create a Resource__.
-
-4. In the __New Resource__ window, select __Identity > Azure Active Directory__.
+3. In the left navigation, select **Create a Resource**, under **New**, select **Identity**, and then select **Azure Active Directory**.
 
    ![s1)](media/s1.png "s1")
 
-5. Give the Organization a __Name__ and __Initial Domain Name__.
+4. Give the Organization a name and an initial domain name.
 
-6. Click __Create__ and wait several minutes until the __Success__ message pops up.
+5. Select __Create__. You may need to wait several minutes before the __Success__ message appears.
 
-7. Follow the link that says __Click here to manage your new directory__.
+6. Select the __Click here to manage your new directory__ link.
 
 ## Add an admin user
 
