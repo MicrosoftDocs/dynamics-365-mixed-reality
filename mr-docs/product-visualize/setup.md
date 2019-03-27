@@ -122,7 +122,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
    > This process may take a while to complete. You can refresh the page to view the current status of the installation.
 
 
-## Set Up a SharePoint site
+## Set up a SharePoint site
 
 1. Go to the Sales Hub for your newly created Dynamics 365 instance. To do this:
 
