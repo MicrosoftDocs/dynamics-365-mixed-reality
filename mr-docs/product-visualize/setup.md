@@ -58,11 +58,11 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
    ![s3)](media/s3.png "s3")
 
-4. Find the subscription __Dynamics 365 Customer Engagement Plan__, select the three dots (...) at the bottom, and then select __Start Free Trial__.
+4. Find the __Dynamics 365 Customer Engagement Plan__ subscription, select the three dots (...) at the bottom, and then select __Start Free Trial__.
 
    ![s4)](media/s4.png "s4")
 
-5. In the summary page, make sure you're signing-up for a __Dynamics 365 Customer Engagement Plan__ trial, and then select __Try Now__.
+5. In the summary page, make sure you're signing up for a __Dynamics 365 Customer Engagement Plan__ trial, and then select __Try Now__.
 
 6. In the confirmation page, select __Continue__.
 
