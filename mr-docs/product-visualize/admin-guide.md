@@ -41,6 +41,8 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 3. In the left navigation, select **Groups** and then select **Groups** again.
 
+   ![a1)](media/a1.png "a1")
+
 4. Near the top of the page, select the **Add a Group** button.
 
 5. Give the group a name and set the Group Type to **Office 365**.
@@ -51,13 +53,17 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 ### Share the SharePoint site with the group
 
-1. Go to your trial's SharePoint site: [https://\<org\>.sharepoint.com]().
+1. Go to your trial's SharePoint site: [https://\<org name\>.sharepoint.com]().
 
 2. In the upper-right corner of the page, select **Share Site**.
+
+   ![a2)](media/a2.png "a2")
 
 3. In the **Share** window, search for the group you created earlier, and then select the group name to add it to the site.
 
 4. Grant the group Edit permission by selecting the small arrow under the group name.
+
+   ![a3)](media/a3.png "a3")
 
 5. Select **Share** to finish granting group access to SharePoint.
 
@@ -72,6 +78,8 @@ New users must first be added in the Azure Active Directory, which assigns them 
 1. Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with the administrator credentials.
 
 2. In the left nagivation, select **Users**, and then select **Active Users**.
+
+   ![a4)](media/a4.png "a4")
 
 3. Near the top of the page, select the **Add a User** button.
 
@@ -101,7 +109,9 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 8. Select the user you just created, and then select **Edit** next to **Group Memberships**.
 
-9. Search for the user group you created earlier, and then select the group name to add the user to the group.
+   ![a5)](media/a5.png "a5")
+
+9. Click the **Add Memberships** button, search for the user group you created earlier, and then select the group name to add the user to the group.
 
 10. Select **Close** to finish adding the user.
 
@@ -110,23 +120,31 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 ### Assign a security role to the user
 
-1. In your private browser window, go to your Dynamics 365 URL [https://\<org\>.crm.dynamics.com]().
+1. In your private browser window, go to your Dynamics 365 URL [https://\<org name\>.crm.dynamics.com]().
 
 2. Select the Sales Hub application in the list.
+
+   ![a6)](media/a6.png "a6")
 
 3. Select the **Settings** button in the upper-right corner of the page, and then select **Advanced Settings**.
 
 4. In the **Settings** drop-down list at the top of the page, select **Security**.
 
-5. In the **Security** page, select **Users**.
+   ![a7)](media/a7.png "a7")
+
+5. In the **Security** page, select **Enabled Users**.
 
 6. Select the name of the user you created.
 
 7. In the **Users** page, from the menu bar near the top of the page, select **Approve Email** so the user is synced by the server.
 
+   ![a8)](media/a8.png "a8")
+
 8. On the menu bar, select **Manage Roles**.
 
-9. Select the **Salesperson** and **Sales, Enterprise app access** options from the list, and then select **OK**.
+   ![a9)](media/a9.png "a9")
+
+9. Select the **Sales, Enterprise app access** and **Salesperson** options from the list, and then select **OK**.
 
 ## Add products
 
@@ -142,29 +160,41 @@ This section provides step-by-step instructions for creating a new price list, p
 
 ### Create a price list
 
-1. Go to the Dynamics 365 Sales Hub [https://\<org\>.crm.dynamics.com](https://\<org\>.crm.dynamics.com).
+1. Go to the Dynamics 365 Sales Hub [https://\<org name\>.crm.dynamics.com](https://\<org\>.crm.dynamics.com).
 
-2. In the upper-right cornert of the page, select the **Settings** button, and then select **Advanced Settings**.
+2. In the upper-right corner of the page, select the **Settings** button, and then select **Advanced Settings**.
 
 3. In the **Settings** drop-down list at the top of the page, select **Product Catalog**.
+
+   ![a10)](media/a10.png "a10")
 
 4. Select **Price Lists**.
 
 5. Create a new price list by selecting **New** near the top-left of the page.
 
+   ![a11)](media/a11.png "a11")
+
 6. Give the price list a name (Default Price List), and then select **Save and Close**.
+
+   ![a12)](media/a12.png "a12")
 
 ### Create a product family (optional)
 
-1. Go to the Dynamics 365 Sales Hub [https://\<org\>.crm.dynamics.com](https://\<org\>.crm.dynamics.com).
+1. Go to the Dynamics 365 Sales Hub [https://\<org name\>.crm.dynamics.com](https://\<org\>.crm.dynamics.com).
 
 2. Open the navigation menu on the left, and then select **Products**.
 
+   ![a13)](media/a13.png "a13")
+
 3. Select **Add Family** to create a new product family.
 
-4. Give the family a name (Product Samples) and a Product ID (PS-1), and then select **Save**.
+   ![a14)](media/a14.png "a14")
+
+4. Give the family a name (Product Samples) and a Product ID (PS-1), and then select **Save and Close**.
 
 5. Select **Publish** to finish creating the product family.
+
+   ![a15)](media/a15.png "a15")
 
 ### Create a product
 
@@ -172,13 +202,15 @@ This section provides step-by-step instructions for creating a new price list, p
 
 2. Select **Add Product** to create a new product.
 
+   ![a16)](media/a16.png "a16")
+
 3. Add values for **Name** and **Product ID** (use any values that you want).
 
 4. Set the **Parent** field to the **Product Samples** (the product family created in the previous procedure).
 
 5. Set the **Unit Group** field to **Default Unit**, and set the **Default Unit** field to **Primary Unit**.
 
-6. Set the **Supported Decimals** to **2**.
+6. Set the **Decimals Supported** to **2**.
 
 7. Select **Save**, but don't close the product.
 
@@ -193,8 +225,6 @@ This section provides step-by-step instructions for creating a new price list, p
 12. Switch to the **Pricing Information** tab, and then fill in the **Amount** field with the price for your product.
 
 13. Select **Save**.
-
-14. Select **Publish** to finish creating the product.
 
 ## Add models
 
@@ -211,6 +241,8 @@ Product Visualize makes use of the widely available GL Transmission Format (glTF
 2. Select a product to open it. 
 
 3. On the **Related** tab, select **Documents**.
+
+   ![a17)](media/a17.png "a17")
 
    You'll see a view of the SharePoint Document location for that product.
 
@@ -238,6 +270,8 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 2. In the left navigation, select **Opportunities**.
 
+   ![a18)](media/a18.png "a18")
+
 3. Select **New** at the top of the page to create a new opportunity.
 
 4. In the **Topic** field, add a name for the opportunity.
@@ -248,9 +282,13 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 7. Open the **Product Line Items** tab. 
 
+   ![a19)](media/a19.png "a19")
+
 8. Set the **Price List** to the one created earlier.
 
 9. Select the **Add New Opportunity Product** button. 
+
+   ![a20)](media/a20.png "a20")
 
 10. In the **Existing Product** field, select one of the products you created.
 
