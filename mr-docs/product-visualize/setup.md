@@ -27,23 +27,23 @@ The __Directory & Subscriptions__ can be accessed by selecting this icon:
 
 ## Add an admin user
 
-With the Active Directory Tenant now created, the next step is to add an administrative user to the tenant. The admin user will be responsible for creating additional users, assigning licenses, and initializing Dynamics 365. As the creator of this Tenant, you could continue to use your work account to manage the system, but we have found it easier to have a separate administrator account for each Tenant.
+After creating the new organization, the next step is to add an admin user to the tenant. The admin user will be responsible for creating additional users, assigning licenses, and initializing Dynamics 365. As the creator of this organization, you could continue to use your work account to manage the system, but recommend having a separate administrator account for each organization.
 
-1. From the navigation menu on the left click __Azure Active Directory__ and then select __Users__
+1. In the left navigation, select __Azure Active Directory__, and then select __Users__.
 
    ![s2)](media/s2.png "s2")
 
-2. Click __New User__ at the top of the page and fill in the following fields:
+2. Select __New User__ at the top of the page, and then fill in the following fields:
 
-    * Name - Can be anything
+    - **Name** - You can use any name.
     
-    * Username - must be fully qualified (username@\<tenant>.onmicrosoft.com)
+    - **Username** - Must be fully qualified (username@\<tenant>.onmicrosoft.com)
     
-    * Directory Role - Global Administrator
+    - **Directory Role** - Global Administrator
     
-3. Click __Show Password__ and write down the temporary password
+3. Select __Show Password__, and then write down the temporary password.
 
-4. At the bottom of the page click __Create__ to finish creating the user.
+4. At the bottom of the page, select __Create__ to finish creating the user.
 
 
 ## Add a Dynamics 365 Customer Engagement trial
