@@ -122,6 +122,8 @@ To restore the toolbar to its original size:
 
 - Select the **Pen** button. 
 
+  ![Pen button](media/pen-button.PNG "Pen button")
+
 ### Make the expert’s video feed bigger
 
 When you call an expert, the expert’s video feed appears in the lower-right corner of your phone screen. To make the expert’s 
