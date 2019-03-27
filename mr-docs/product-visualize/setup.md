@@ -126,7 +126,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 
 1. Go to the Sales Hub for your newly created Dynamics 365 instance. To do this:
 
-    1. On the Admin Center page, select the __Open__ button next to your organization name in the gray box.
+    1. In the Admin Center page, select the __Open__ button next to your organization name in the gray box.
     
     2. Select __Sales Hub__ in the list of available applications.
     
