@@ -75,15 +75,11 @@ If the CAD model has layers, you can show or hide those layers when viewing note
 
 ![Layers example](media/layers-example.PNG "Layers-example")
 
-By default, all layers are turned on. To hide a layer, clear the check box for that layer.
+By default, all layers are turned on. To hide a layer, clear the check box for that layer. You can show or hide all layers by tapping the first row.
+
+![Hide layer](media/hide-layer.PNG "Hide layer")
 
 
-
-
-
-
-
-  
 ## Edit or delete a note
 
 1.	Select **Notes** on the right side of the screen.
