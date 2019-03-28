@@ -112,7 +112,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 
 6. In the list of available solutions, find __Dynamics 365 Sales Application__, and then select __Install__.
 
-7. Review the Terms of Service, and then select the check box that shows you approve when ready. This will start the installation.
+7. Review the Terms of Service, and then when ready, select the check box that shows you approve. This will start the installation.
 
    > [!NOTE]
    > This process may take a while to complete. You can refresh the page to view the current status of the installation.
@@ -134,10 +134,13 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 
 4. Select __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint.
 
+   > [!NOTE]
+   > If you opted to use the automated __Sales__ setup option earlier, you can skip the steps to enable server-based SharePoint Integration.
+
 5. Continue through the setup. When prompted, enter the URL for your SharePoint ([https://\<org name>.sharepoint.com]()).
 
-> [!IMPORTANT]
-> Be sure to enter the full URL for your SharePoint instance, including `https://`.
+   > [!IMPORTANT]
+   > Be sure to enter the full URL for your SharePoint instance, including `https://`.
 
 6. When complete, return to the __Document Management__ settings page, and then select __Document Management Settings__.
 
@@ -149,8 +152,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 
 9. Close the window when done.
 
-> [!NOTE]
-> If you opted to use the automated __Sales__ setup option earlier, you can skip the steps to enable server-based SharePoint Integration.
+
 
 ## What's next?
 Once the setup process has finished, you'll have an Azure Active Directory organization complete with Microsoft Office 365 and Microsoft Dynamics 365 Customer Engagement. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator Guide](admin-guide.md).
