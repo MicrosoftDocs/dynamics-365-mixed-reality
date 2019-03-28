@@ -110,7 +110,7 @@ You can include up to 50 people in a group call. You can also switch between par
 
 2. Hover over the participant whose video feed you want to switch to, and then select it. If the participant's video feed is enabled, the video will switch to their feed. 
 
-   ![Animation of video feed switch](media/GC_Switchfrom List.gif "Animation of video feed switch")
+   ![Animation of video feed switch](media/GC_SwitchfromList.gif "Animation of video feed switch")
 
 > [!TIP] 
 > You can also switch video feeds from the “participant tray” located below the video feed. Hover over the avatar to display the participant's name, and then air tap to switch video feeds. 
