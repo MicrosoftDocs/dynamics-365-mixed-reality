@@ -68,6 +68,8 @@ If you haven’t already installed Product Visualize on your iOS device, you can
 
 2.	Select the **Product Visualize** tab. 
 
+    ![Product Visualize tab](media/dynamics-entrypoint.PNG "ProductVisualize tab")
+
 3.	Select **Open Opportunity**.
  
 4.	If you haven’t already installed the app, you’ll be redirected to the Apple Store. Follow the directions to install the app.
