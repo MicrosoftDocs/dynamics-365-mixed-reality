@@ -84,8 +84,8 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 
 1. In the Microsoft Admin Portal \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for __Admin Centers__, select __Dynamics 365__. It may take a minute or two for this option to appear in the __Admin Centers__ list.
 
-> [!NOTE]
-> As an option, you can select __Sales__ from this drop-down list, which allows you to skip steps 5 - 7 in this procedure. However, this will install some additional sample data that may not be relevant to your organization. 
+    > [!NOTE]
+    > As an option, you can select __Sales__ from this drop-down list, which allows you to skip steps 5 - 7 in this procedure. However, this will install some additional sample data that may not be relevant to your organization. 
 
 2. In the page that appears:
 
