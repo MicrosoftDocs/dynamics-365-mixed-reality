@@ -9,9 +9,7 @@ The first thing you need to do is create a new Azure Active Directory organizati
 
 1. Sign in to the Microsoft Azure portal at https://ms.portal.azure.com.
 
-2. If your organization has multiple Azure subscriptions, you can select which subscription you are viewing from the **Subscriptions** drop-down in the **Directory & Subscriptions** menu in the upper-right corner of the page.
-
-   The __Directory & Subscriptions__ can be accessed by selecting this icon:
+2. If your organization has multiple Azure subscriptions, you can select which subscription you are viewing from the **Subscriptions** drop-down in the **Directory & Subscription** button ![Directory and Subscription button](media/directory-and-subscription-button.png "Directory and Subscription button") in the upper-right corner of the page. 
 
 3. In the left navigation, select **Create a Resource**, under **New**, select **Identity**, and then select **Azure Active Directory**.
 
