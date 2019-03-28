@@ -75,7 +75,7 @@ If the 3D model you're viewing has layers, you can show or hide those layers whe
 
 ![Layers example](media/layers-example.PNG "Layers-example")
 
-By default, all layers are turned on. To hide a layer, clear the check box for that layer. You can show or hide all layers by tapping the first row:
+By default, all layers are turned on. To hide a layer, clear the check box for that layer. You can show or hide all layers by tapping the first row under the model:
 
 ![Hide layer](media/hide-layer.PNG "Hide layer")
 
