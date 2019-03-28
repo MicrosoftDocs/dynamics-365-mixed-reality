@@ -9,6 +9,6 @@
 ### [Place and manipulate 3D models](manipulate-models.md)
 ### [Add a note to your 3D model](add-note.md)
 ### [Explore sample 3D models](explore-samples.md)
-## [Optimize and transcode 3D models](create-3D-models.md)
+## [Optimize and transcode 3D models](create-3D-model.md)
 ## [FAQ](faq.md)
 ## [Terms of use](../legal/product-visualize-terms.md)
