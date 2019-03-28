@@ -9,7 +9,7 @@ title: Open and sign in to Dynamics 365 Product Visualize (in preview)
 ms.reviewer: v-brycho
 ---
 
-# Open and sign in to Dynamics 365 Product Visualize (in preview)
+# Install, open, and sign in to Dynamics 365 Product Visualize (in preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
@@ -18,6 +18,14 @@ Microsoft Dynamics 365 Product Visualize (in preview) works together with Dynami
 > [!TIP]
 > If you just want to explore sample 3D content, you don’t need to have a Dynamics 365 account. For more information, see [Explore sample 3D models](explore-samples.md).
  
+## Install the app
+
+1.	Go to the Apple Store.
+
+2.	Search for “Dynamics 365 Product Visualize”.
+
+3.	Download and install the app.
+
 ## Two ways to open and sign in
 
 You can open and sign in to Product Visualize on your iOS device in two different ways:
