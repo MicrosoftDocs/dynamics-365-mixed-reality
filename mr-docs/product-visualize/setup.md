@@ -17,7 +17,7 @@ The first thing you need to do is create a new Azure Active Directory organizati
 
 4. Give the organization a name and an initial domain name.
 
-5. Select __Create__. You may need to wait several minutes before the __Success__ message appears.
+5. Select __Create__. You may need to wait several minutes while the directory is created. 
 
 6. Select __Click here to manage your new directory__.
 
@@ -33,7 +33,7 @@ After creating the new organization, the next step is to add an admin user to th
 
     - **Name** - Enter any name
     
-    - **Username** - Must be fully qualified (username@\<tenant>.onmicrosoft.com)
+    - **User name** - Must be fully qualified (username@\<tenant>.onmicrosoft.com)
     
     - **Directory Role** - Global Administrator
     
