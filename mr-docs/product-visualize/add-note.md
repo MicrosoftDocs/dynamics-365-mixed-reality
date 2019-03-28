@@ -88,7 +88,7 @@ To turn off sharing with the Dynamics 365 for Sales timeline or Microsoft Teams 
 
    ![Edit account settings](media/edit-account-settings.PNG "Edit account settings")
 
-2. Under **Sharing Notes**, move the sliders to the off position for the options you want to turn off.
+2. Under **Note Output Options**, move the sliders to the off position for the options you want to turn off.
  
 ## Export a note
 
