@@ -80,9 +80,9 @@ ms.custom:
                                                 <p><a href="/dynamics365/mixed-reality/product-visualize/index">Overview</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/product-visualize/requirements">Requirements</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/product-visualize/setup">Setup</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/product-visualize/admin-guide">Admin Guide</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/product-visualize/user-guide">User Guide</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/product-visualize/faq">FAQ</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/legal/product-visualize-terms">Terms of use</a></p>
                                             </div>
                                         </div>
                                     </div>

@@ -24,7 +24,7 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
     - Calling us at 1-888-477-7989, or
     - Requesting to be contacted at  http://aka.ms/getLayout.
     
--   Through the [Microsoft 365 Admin Center](https://portal.office.com/AdminPortal/Home#/catalog). Step-by-step instructions for logging in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided below.
+-   Through the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/catalog). Step-by-step instructions for logging in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided below.
 
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
 
@@ -32,7 +32,7 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
 
 ## Subscribe through the Microsoft 365 Admin Center
 
-1. Go to https://portal.office.com/AdminPortal/Home#/catalog.
+1. Go to https://admin.microsoft.com/AdminPortal/Home#/catalog.
 
    ![Admin center](../media/AdminCenter.png "Admin Center")
 
