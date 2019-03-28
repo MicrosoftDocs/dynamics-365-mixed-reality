@@ -153,7 +153,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 9. Close the window when done.
 
 ## What's next?
-Once the setup process has finished, you'll have an Azure Active Directory organization complete with Microsoft Office 365 and Microsoft Dynamics 365 Customer Engagement. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator Guide](admin-guide.md).
+Once the setup process has finished, you'll have an Azure Active Directory organization complete with Microsoft Dynamics 365 Customer Engagement and SharePoint. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator Guide](admin-guide.md).
 
 ### See also
 
