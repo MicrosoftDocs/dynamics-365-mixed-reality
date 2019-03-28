@@ -46,7 +46,7 @@ After creating the new organization, the next step is to add an admin user to th
 
 Product Visualize integrates directly into Dynamics 365 for Sales, which enables your salespeople to seamlessly transition from vital customer data into an engaging sales experience that changes the way customers think about your products.
 
-1. In a private browser window, go to [https://admin.microsoft.com](https://admin.microsoft.com).
+1. In a private browser window, go to the Microsoft 365 Admin Center at [https://admin.microsoft.com](https://admin.microsoft.com).
 
 2. Sign in with the administrator credentials you created in the previous procedure and, if prompted, set a new password.
 
@@ -66,7 +66,7 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 Before continuing, you need to make sure the Dynamics 365 Customer Engagement license has been assigned to the admin user.
 
-1. In the Microsoft Admin Portal \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, select __Users > Active Users__.
+1. In the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, select __Users > Active Users__.
 
 2. Double-click the name of the admin user created earlier. 
 
@@ -82,7 +82,7 @@ Before continuing, you need to make sure the Dynamics 365 Customer Engagement li
 
 The next step is to set up the Dynamics 365 Customer Engagement instance. This procedure provides step-by-step instructions for manually installing Dynamics for Sales, which generates a completely empty instance of the Dynamics 365 Common Data Service for Apps. 
 
-1. In the Microsoft Admin Portal \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for __Admin Centers__, select __Dynamics 365__. It may take a minute or two for this option to appear in the __Admin Centers__ list.
+1. In the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for __Admin Centers__, select __Dynamics 365__. It may take a minute or two for this option to appear in the __Admin Centers__ list.
 
     > [!NOTE]
     > As an option, you can select __Sales__ from this drop-down list, which allows you to skip steps 5 - 7 in this procedure. However, this will install some additional sample data that may not be relevant to your organization. 
@@ -152,7 +152,10 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 
 9. Close the window when done.
 
-
-
 ## What's next?
 Once the setup process has finished, you'll have an Azure Active Directory organization complete with Microsoft Office 365 and Microsoft Dynamics 365 Customer Engagement. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator Guide](admin-guide.md).
+
+### See also
+
+[User Guide](user-guide.md)<br>
+[FAQ](faq.md)
