@@ -78,7 +78,7 @@ Before continuing, you need to make sure the Dynamics 365 Customer Engagement li
 
 4. Move the slider to the **On** position for the __Dynamics 365 Customer Engagement Plan__ license.
 
-   ![s5)](media/s5.png "s5")
+   ![Edit licenses)](media/licenses.PNG "Edit licenses")
 
 5. Save the changes and close the dialog box.
 
@@ -101,7 +101,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
     
 3. Select __Complete Setup__, and then wait for the initial setup process to complete.
 
-   ![s6)](media/s6.png "s6")
+   ![Complete Setup](media/complete-setup.PNG "Complete setup")
 
 4. In the left navigation, in the __Admin Centers__ list, select **Dynamics 365 Admin Portal**.
 
@@ -134,7 +134,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 
 3. In the navigation bar at the top of the page, select the down arrow next to __Settings__, and then select __Document Management__.
 
-   ![s8)](media/s8.png "s8")
+   ![Document Management settings](media/sharepoint.PNG "SharePoint")
 
 4. Select __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint.
 
