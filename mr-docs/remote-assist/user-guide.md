@@ -92,7 +92,7 @@ You can include up to 50 people in a group call. You can also switch between par
 
 1. In the upper-right corner of the video feed, select the **Open Participants** button.
 
-   ![Animation of selecting Open Participants](media/GC_SearchCall.gif "Animation of selecting Open Participants")
+   ![Animation of selecting Open Participants](media/GC_OpenParticipantsList.gif "Animation of selecting Open Participants")
 
    > [!TIP]
    > Select the **Open Participants** button again if you want to close the pane. 
