@@ -260,6 +260,9 @@ Product Visualize makes use of the widely available GL Transmission Format (glTF
          * Thumbnails (Folder)
             * \<ModelName>.png
 
+    > [!NOTE]
+    > SharePoint folders only get created when you first visit the documents folder through a Dynamics 365 app. If the folder for a Product doesn't yet exist, return to the Sales Hub and open the Product's document location from there. Once created you can access it through SharePoint.
+    
 ## Add opportunities
 
 Opportunities represent a chance to sell your products to a customer. They capture a customer's needs, budget, and timeline, in addition to the list of products the customer is interested in buying. Salespeople can view their open opportunities directly from the Product Visualize app, but they must be added through the Sales Hub interface.
