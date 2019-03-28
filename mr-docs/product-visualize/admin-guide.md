@@ -281,6 +281,9 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 5. Assign the **Owner** field to any user you already added (optional).
 
+> [!NOTE]
+> The **Owner** field relocates to accomodate the size of your browser window. In a large browser window it appears in the upper-right corner of the page and in a medium-sized window it will be hidden in a dropdown menu in that same corner. In a small browser window or on mobile devices it will appear at the top of the **Summary** section.
+
 6. Select **Save**, but don't close the opportunity.
 
 7. Open the **Product Line Items** tab. 
