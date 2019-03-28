@@ -68,6 +68,21 @@ Product Visualize includes a notes browser that makes it easy to see all the not
     > If you want to see a larger view of the notes, which is useful if you can’t see all the text in the notes card, tap the expand arrow in the upper-right corner of the notes card or flick up. Then you can use the scroll bar in the notes card to scroll the text. 
     
      ![Expand notes button](media/expand-notes.PNG "Expand notes button")
+     
+## Show or hide note layers
+
+If the CAD model has layers, you can show or hide those layers when viewing notes. For example, you can start with the outer shell of a model and drill deeper into successive layers.
+
+![Layers example](media/layers-example.PNG "Layers-example")
+
+By default, all layers are turned on. To hide a layer, clear the check box for that layer.
+
+
+
+
+
+
+
   
 ## Edit or delete a note
 
