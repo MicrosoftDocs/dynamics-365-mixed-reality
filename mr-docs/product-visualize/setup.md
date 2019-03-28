@@ -78,7 +78,7 @@ Before continuing, you need to make sure the Dynamics 365 Customer Engagement li
 
 4. Move the slider to the **On** position for the __Dynamics 365 Customer Engagement Plan__ license.
 
-   ![Edit licenses)](media/licenses.PNG "Edit licenses")
+   ![Edit licenses)](media/product-license.PNG "Edit licenses")
 
 5. Save the changes and close the dialog box.
 
