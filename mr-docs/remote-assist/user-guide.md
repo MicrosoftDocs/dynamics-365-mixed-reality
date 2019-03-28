@@ -90,14 +90,16 @@ You can include up to 50 people in a group call. You can also switch between par
 
 ### Invite additional contacts to a call
 
-1. In the upper-right corner of the video feed, select the **Open Participants** button.     
+1. In the upper-right corner of the video feed, select the **Open Participants** button.
+
+   ![Animation of selecting Open Participants](media/GC_SearchCall.gif "Animation of selecting Open Participants")
 
    > [!TIP]
    > Select the **Open Participants** button again if you want to close the pane. 
 
 2. Select one of your recent contacts, or select **Invite Someone** at the bottom of the pane, enter a name or email address using the holographic keyboard, and then seelect a name in the search results to start the call. 
 
-   ![Animation of inviting a participant](media/InviteKeyboard_gif.gif "Animation of inviting a participant")
+   ![Animation of searching for a call](media/GC_SearchCall.gif "Animation of searching for a call")
 
 > [!TIP]
 > [Learn how to add additional contacts from Microsoft Teams Desktop](https://support.office.com/en-us/article/add-someone-to-a-call-in-teams-267fb0c9-275a-4047-8412-7b2654dc29c3). 
@@ -108,12 +110,12 @@ You can include up to 50 people in a group call. You can also switch between par
 
 2. Hover over the participant whose video feed you want to switch to, and then select it. If the participant's video feed is enabled, the video will switch to their feed. 
 
-   ![Animation of video feed switch](media/FeedSwitch_gif.gif "Animation of video feed switch")
+   ![Animation of video feed switch](media/GC_Switchfrom List.gif "Animation of video feed switch")
 
 > [!TIP] 
 > You can also switch video feeds from the “participant tray” located below the video feed. Hover over the avatar to display the participant's name, and then air tap to switch video feeds. 
 
-![Animation of tray switch](media/TraySwitch_gif.gif "Animation of tray switch")
+![Animation of tray switch](media/GC_SwitchfromBar.gif "Animation of tray switch")
 
 ### Mute a participant in a group call 
 
