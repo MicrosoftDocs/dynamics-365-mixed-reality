@@ -71,11 +71,11 @@ Product Visualize includes a notes browser that makes it easy to see all the not
      
 ## Show or hide note layers
 
-If the CAD model has layers, you can show or hide those layers when viewing notes. For example, you can start with the outer shell of a model and drill deeper into successive layers.
+If the 3D model you're viewing has layers, you can show or hide those layers when viewing notes. For example, you can start with the outer shell of a model and drill deeper into successive layers.
 
 ![Layers example](media/layers-example.PNG "Layers-example")
 
-By default, all layers are turned on. To hide a layer, clear the check box for that layer. You can show or hide all layers by tapping the first row.
+By default, all layers are turned on. To hide a layer, clear the check box for that layer. You can show or hide all layers by tapping the first row:
 
 ![Hide layer](media/hide-layer.PNG "Hide layer")
 
