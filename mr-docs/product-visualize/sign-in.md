@@ -78,11 +78,16 @@ If you haven’t already installed Product Visualize on your iOS device, you can
 
     ![Product Visualize tab](media/dynamics-entrypoint.PNG "ProductVisualize tab")
 
-3.	Select **Open Opportunity**.
- 
-4.	If you haven’t already installed the app, you’ll be redirected to the Apple Store. Follow the directions to install the app.
+3.	Do one of the following:
 
-5.	After installing the app, open it, and then in the **Welcome** screen, select **Sign in**. 
+    - If the iOS app is already installed, select **Open Opportunity** to open the app.
+    
+    - If you're using an iOS device, but the app isn't already installed, select **Learn More**, follow the instructions to install the app, and then sign in to the app using the instructions in step 5 of this procedure.
+
+    > [!NOTE]
+    > If you're using a laptop or an Android device, you can't use Product Visualize at this time. You'll see a **Learn More** button where you can learn more about the app.
+ 
+5.	In the Product Visualize **Welcome** screen, select **Sign in**. 
 
     ![Welcome screen](media/welcome.PNG "Welcome screen")
  
