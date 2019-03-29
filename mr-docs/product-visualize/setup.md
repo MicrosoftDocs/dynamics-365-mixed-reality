@@ -20,15 +20,19 @@ The first thing you need to do is create a new Azure Active Directory organizati
 
 2. If your organization has multiple Azure subscriptions, you can select which subscription you are viewing from the **Subscriptions** drop-down in the **Directory & Subscription** button ![Directory and Subscription button](media/directory-and-subscription-button.PNG "Directory and Subscription button") in the upper-right corner of the page. 
 
-3. In the left navigation, select **Create a Resource**, and then under **New**, select **Identity**, and then select **Azure Active Directory**.
+3. In the left navigation, select **Create a Resource**, select **Identity**, and then select **Azure Active Directory**.
 
    ![Create resource)](media/create-resource.PNG "Create resource")
 
 4. Give the organization a name and an initial domain name.
 
+   ![Name and domain name)](media/name-and-domain-name.PNG "Name and domain name")
+
 5. Select __Create__. You may need to wait several minutes while the directory is created. 
 
 6. Select __Click here to manage your new directory__.
+
+   ![Click to manage new directory link)](media/manage-directory-link.PNG "Click to manage new directory link")
 
 ## Add an admin user
 
