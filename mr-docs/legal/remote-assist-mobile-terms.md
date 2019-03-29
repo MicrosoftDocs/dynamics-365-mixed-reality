@@ -40,10 +40,7 @@ by their nature may make it possible for others to access machines on which they
 Utilities you have installed after you finish debugging or deploying your applications and databases. Microsoft is not 
 responsible for any third party use or access of Utilities you install on any machine.
 
->**e)	Personal use.** The software is licensed for your personal, non-commercial use, unless you have commercial use rights under a 
-separate agreement.
-
->**f)	Microsoft Services Agreement.** Some features of the software may provide access to, or rely on, online services. The use of 
+>**e)	Microsoft Services Agreement.** Some features of the software may provide access to, or rely on, online services. The use of 
 those services if any (but not the software) is governed by the separate terms and privacy policies in the Microsoft 
 Services Agreement at http://go.microsoft.com/fwlink/?linkid=398923. Please read them. The services may not be available 
 in all regions.
