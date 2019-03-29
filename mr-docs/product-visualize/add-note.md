@@ -84,7 +84,7 @@ By default, all layers are turned on. To hide a layer, clear the check box for t
 
 2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
 
-3.	In the **Options** dialog box, select **Edit Note** or **Delete Note**.
+3.	In the **Options** dialog box, select **Edit note** or **Delete note**.
 
      ![Edit or delete a note](media/share-status.PNG "Edit or delete a note")
   
