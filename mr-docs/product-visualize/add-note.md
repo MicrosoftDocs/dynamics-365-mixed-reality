@@ -58,11 +58,9 @@ Product Visualize includes a notes browser that makes it easy to see all the not
 
 1.	After placing the model, select **Notes** on the right side of the screen.
 
-    ![Select Notes item](media/select-notes.PNG "Select Notes item")
- 
-2.	Select **Browse**.  
- 
-3.	Tap a blue dot to open a specific note or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
+    ![Select Notes item](media/select-notes.PNG "Select Notes item") 
+
+2.	Tap a blue dot to open a specific note or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
 
     > [!NOTE]
     > If you want to see a larger view of the notes, which is useful if you can’t see all the text in the notes card, tap the expand arrow in the upper-right corner of the notes card or flick up. Then you can use the scroll bar in the notes card to scroll the text. 
@@ -83,9 +81,10 @@ By default, all layers are turned on. To hide a layer, clear the check box for t
 ## Edit or delete a note
 
 1.	Select **Notes** on the right side of the screen.
-2.	Select **Browse** to open the notes browser.
-3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
-4.	In the **Options** dialog box, select **Edit Note** or **Delete Note**.
+
+2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
+
+3.	In the **Options** dialog box, select **Edit Note** or **Delete Note**.
 
      ![Edit or delete a note](media/share-status.PNG "Edit or delete a note")
   
@@ -108,9 +107,10 @@ You can export your notes to share them with other apps on your device that supp
 To export a note:
 
 1.	Select **Notes** on the right side of the screen.
-2.	Select **Browse** to open the notes browser.
-3.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
-4.	In the **Options** dialog box, select **Export Note**.   
+
+2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
+
+3.	In the **Options** dialog box, select **Export Note**.   
 
 
 ### See also
