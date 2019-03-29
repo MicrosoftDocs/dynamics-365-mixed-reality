@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Microsoft Dynamics 365 Product Visualize (in preview) works together with Dynamics 365 for Sales. To get the full benefits of Product Visualize, you'll need a Dynamics 365 account. When you sign in with your Dynamics 365 for Sales account, Product Visualize automatically connects to your Dynamics 365 for Sales opportunities.
+To get the full benefits of Product Visualize, you'll need a Dynamics 365 account. When you sign in with your Dynamics 365 for Sales account, Product Visualize automatically connects to your Dynamics 365 for Sales opportunities.
 
 > [!TIP]
 > If you just want to explore sample 3D content, you don’t need to have a Dynamics 365 account. For more information, see [Explore sample 3D models](explore-samples.md).
@@ -44,14 +44,14 @@ You can open and sign in to Product Visualize on your iOS device in two differen
 
     ![Welcome screen](media/welcome.PNG "Welcome screen") 
  
-3.	In the **Sign in** screen, enter your Dynamics 365 account. When you’re done, select **Next**.  
+3.	In the **Sign in** screen, enter your Dynamics 365 for Sales account. When you’re done, select **Next**.  
  
     ![Sign-in screen](media/sign-in.PNG "Sign-in screen") 
  
     > [!NOTE]
     > After you sign in for the first time, this screen will not appear again.
 
-4.	On your first sign in, you’ll be prompted to select your Dynamics 365 for Sales organization. You can change organizations later, if you want, through **Settings**.  
+4.	On your first sign in, you’ll be prompted to select your Dynamics 365 for Sales organization. You can change organizations later, if you want, through **Account Settings**.  
 
     ![My organizations screen](media/my-organizations.PNG "My organizations screen") 
  
