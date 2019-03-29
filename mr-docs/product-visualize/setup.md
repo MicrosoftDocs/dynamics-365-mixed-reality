@@ -1,4 +1,13 @@
-
+---
+author: mamithan
+description: Set up Dynamics 365 Product Visualize (in preview)
+ms.author: mamithan
+ms.date: 04/1/2019
+ms.service: crm-online
+ms.topic: article
+title: Set up Dynamics 365 Product Visualize (in preview)
+ms.reviewer: v-brycho
+---
 
 # Set up Dynamics 365 Product Visualize (in preview)
 
