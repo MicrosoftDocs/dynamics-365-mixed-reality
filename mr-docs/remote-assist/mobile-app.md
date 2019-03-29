@@ -51,9 +51,6 @@ Teams account for free](https://businessstore.microsoft.com/en-us/create-account
 
 ### Step 2: Download the app
 
-<!--Any reason why the following URL isn't presented only as text?-->
-
-
 1.	Go to the Google Play Store: https://play.google.com/store/apps/details?id=com.microsoft.ramobile.
 
 2.	Select **Download**. 
@@ -79,9 +76,6 @@ After signing in, you’ll see the **Contacts** page, which is the main page in 
 your contacts are organized by the most recent calls.
 
 ![Contacts screen](media/contacts.PNG "Contacts screen")
-
-
-<!--The next heding is the same as the previous one. That is confusing.-->
 
 
 To make a call:
@@ -171,10 +165,6 @@ Field Service. You can link the apps through Settings if you chose not to link t
 2.	Select **Post**.
 
 
-
-<!--Should screens be singular?-->
-
-
 3.	In the **Select a Booking** screen, select the appropriate booking to post the call data to.
 
     ![Select a Booking screen](media/bookings-today.PNG "Select a Booking screen")
@@ -200,9 +190,6 @@ Field Service. You can link the apps through Settings if you chose not to link t
 If you’d like to get direct access to the product team forum and provide feedback on the mobile app preview:
 
 1.	Sign up for the Dynamics 365 Remote Assist Mobile Public Preview Insiders Program at https://experience.dynamics.com. 
-
-
-<!--The screenshot looks like it says "Insider" Program - not Insiders.-->
 
 
 2.	Select the **Insider Program** box, which will lead you to the Insider Program application.
