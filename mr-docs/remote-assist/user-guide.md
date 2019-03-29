@@ -97,7 +97,7 @@ You can include up to 50 people in a group call. You can also switch between par
    > [!TIP]
    > Select the **Open Participants** button again if you want to close the pane. 
 
-2. Select one of your recent contacts, or select **Invite Someone** at the bottom of the pane, enter a name or email address using the holographic keyboard, and then seelect a name in the search results to start the call. 
+2. Select one of your recent contacts, or select **Invite Someone** at the bottom of the list. A list of your recent contacts will appear. If the person you'd like to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call. 
 
    ![Animation of searching for a call](media/GC_SearchCall.gif "Animation of searching for a call")
 
