@@ -24,7 +24,7 @@ The first thing you need to do is create a new Azure Active Directory organizati
 
    ![Create resource)](media/create-resource.PNG "Create resource")
 
-4. Under **Create Directory**, give the organization a name and an initial domain name.
+4. Under **Create directory**, give the organization a name and an initial domain name.
 
    ![Name and domain name)](media/name-and-domain-name.PNG "Name and domain name")
 
