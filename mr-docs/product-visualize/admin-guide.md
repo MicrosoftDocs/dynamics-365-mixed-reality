@@ -27,6 +27,8 @@ After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 
 
 - Adjust permissions
 
+- Set up Microsoft Teams
+
 This topic provides step-by-step procedures for all of the above.
 
 ## Set up a user group
@@ -358,6 +360,75 @@ The Product Visualize mobile app requires permission to access the Dynamics 365 
 
 4. Select **Accept** to return to the app.
 
+## Set up Microsoft Teams
+
+Microsoft Teams is the best way to collaborate with your team, manage files, and have conversations in one easy-to-use location. You can connect your Product Visualize directly to Teams to make collaboration with your sales team even easier.
+
+### Sign up for Teams
+
+1. In a private browser window, go to [https://teams.microsoft.com](https://teams.microsoft.com).
+
+2. Make sure you're signed in as the admin for your trial tenant.
+
+3. When asked whether you want to open the desktop client or web app, select __Use the web app__.
+
+   You'll see a message that says: "We didn't find a Teams account for you, but you can use your organization's trial license to get started". 
+
+4. Select __Start__.
+
+### Create a team
+
+1. Once the web app has loaded you should see an option to join or create a team. Select __Create Team__.
+
+2. When you see the option to build a team from scratch or create from an existing team, select __Build a team from scratch__.
+
+3. Make the group __Org-Wide__.
+
+4. Give the group a name and a description.
+
+5. Select __Create__.
+
+### Add channels to the team
+
+1. In the **Teams and Channels** list, select the elipses (...) next to the team you just created.
+
+2. Select __Add Channel__. 
+
+3. Give the channel a name related to the opportunities you want to connect to it (ex: Seattle-area opportunities).
+
+4. Select __Add__.
+   
+### Connect Teams to Dynamics 365
+
+1. In the bottom-left corner of the Teams client, select __Store__.
+
+2. Search for "Dynamics 365".
+
+3. Select the icon for Dynamics 365 (Preview) to open the installation dialog.
+
+4. Ensure the toggle next to __Add for You__ is set to __Yes__.
+
+5. In the __Add to a team__ section, search for your team's name, which will also set the second toggle to __Yes__.
+
+6. Select __Install__.
+
+7. On the next page, select the channel you just created, and then select __Set up__.
+
+8. On the **Setup** page set the following:
+
+   - Select your Dynamics 365 organziation from the **Org** list.
+   
+   - Select **Sales Hub** from the **App Module** list.
+   
+9. Select __Select__.
+   
+10. From the list of Dynamics entities, select an opportunity, and then select **Save**.
+
+For more information on setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/basics/teams-install-app).
+
+## Post notes from Product Visualize
+
+Product Visualize makes your customer's needs part of the conversation by posting any notes you make in-app back to a connected Teams channel. The text and mixed-reality image get posted to Teams, giving your team the information and context they need to make smart decisions. This feature is enabled by default, but can be turned off through the in-app **Settings** menu. 
 
 ## What's next?
 
