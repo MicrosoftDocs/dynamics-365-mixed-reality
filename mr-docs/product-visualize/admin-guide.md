@@ -362,7 +362,7 @@ The Product Visualize mobile app requires permission to access the Dynamics 365 
 
 ## Set up Microsoft Teams
 
-Microsoft Teams is the best way to collaborate with your team, manage files, and have conversations in one easy-to-use location. You can connect your Product Visualize directly to Teams to make collaboration with your sales team even easier.
+Microsoft Teams is the best way to collaborate with your team, manage files, and have conversations in one easy-to-use location. You can connect Product Visualize to Teams to make collaboration with your sales team even easier.
 
 ### Sign up for Teams
 
