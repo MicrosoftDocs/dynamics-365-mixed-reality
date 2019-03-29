@@ -2,7 +2,7 @@
 author: mamithan
 description: Learn how to optimize and transcode 3D models for use with Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 04/2/2019
+ms.date: 04/1/2019
 ms.service: crm-online
 ms.topic: article
 title: Optimize and transcode 3D models
