@@ -23,7 +23,7 @@ to troubleshoot problems together, faster.
 You’ll need the following to use the Remote Assist mobile app:
 
 - An Android ARCore-capable phone (tablets are not currently supported), with ARCore installed. [View the full list of supported 
-devices](https://developers.google.com/ar/discover/supported-devices). 
+devices.](https://developers.google.com/ar/discover/supported-devices) 
 
 - A Google Play account.
 
@@ -51,6 +51,9 @@ Teams account for free](https://businessstore.microsoft.com/en-us/create-account
 
 ### Step 2: Download the app
 
+<!--Any reason why the following URL isn't presented only as text?-->
+
+
 1.	Go to the Google Play Store: https://play.google.com/store/apps/details?id=com.microsoft.ramobile.
 
 2.	Select **Download**. 
@@ -66,7 +69,7 @@ Teams account for free](https://businessstore.microsoft.com/en-us/create-account
     > [!TIP]
     > The sign-in address will be in the form: username@company.
     
-3.	In the dialaog box that appears, select **Enable Feature** to link Remote Assist to Dynamics 365 for Field Service, or 
+3.	In the dialog box that appears, select **Enable Feature** to link Remote Assist to Dynamics 365 for Field Service, or 
 select **Skip** if you don’t want to link the apps at this time. You can always link them later through **Settings**. To learn more about how the apps work together, select **Learn More**.
 
     ![Field Service screen](media/field-service.PNG "Field Service screen")
@@ -76,7 +79,11 @@ After signing in, you’ll see the **Contacts** page, which is the main page in 
 your contacts are organized by the most recent calls.
 
 ![Contacts screen](media/contacts.PNG "Contacts screen")
-  
+
+
+<!--The next heding is the same as the previous one. That is confusing.-->
+
+
 ### Make a call
 
 1.	Select ![Search button](media/search-icon.PNG "Search button"), enter the name of the contact to search for, and then select the contact from the resulting list.
@@ -85,7 +92,7 @@ your contacts are organized by the most recent calls.
     
 2.	In the contact card, select **Launch Call**.
 
-    ![Launch Call screen](media/launch-call.PNG "Launch call screen")
+    ![Launch Call screen](media/launch-call.PNG "Launch Call screen")
   
     Use the buttons in the bar at the bottom of the screen to mute the call, pause the video feed, turn on the speaker phone, or 
     end the call.
@@ -97,7 +104,7 @@ your contacts are organized by the most recent calls.
 You can add annotations to your screen to share with an expert on the call. To create annotations, your phone needs to recognize 
 at least one plane (vertical or horizontal) in your work area. You do this by scanning your work area with the phone. When a plane has been recognized, you’ll see a confirmation visualization and the annotation toolbar will appear at the top of the screen:
 
-![Add annnotations](media/annotation-bar-full-screen.PNG "Add annotations")
+![Add annotations](media/annotation-bar-full-screen.PNG "Add annotations")
   
 > [!NOTE] 
 > If you lock your phone or minimize Remote Assist, the recognized planes will reappear automatically as soon as your phone 
@@ -143,7 +150,7 @@ You can use Remote Assist together with Dynamics 365 for Field Service if you wa
 Field Service work order when you end the call. 
 
 When you sign in to the Remote Assist mobile app for the first time, you’re prompted to link Remote Assist to Dynamics 365 for 
-Field Service. You can link the apps through Settings if you chose not to link them at first sign in.
+Field Service. You can link the apps through Settings if you chose not to link them at first sign-in.
 
 ### Link the Remote Assist mobile app to Dynamics 365 for Field Service
 
@@ -163,12 +170,17 @@ Field Service. You can link the apps through Settings if you chose not to link t
   
 2.	Select **Post**.
 
-3.	In the **Select booking** screens, select the appropriate booking to post the call data to.
 
-    ![Select bookings screen](media/bookings-today.PNG "Select bookings screen")
+
+<!--Should screens be singular?-->
+
+
+3.	In the **Select a Booking** screens, select the appropriate booking to post the call data to.
+
+    ![Select a Booking screen](media/bookings-today.PNG "Select a Booking screen")
   
     > [!NOTE]
-    > If you don’t see the booking you’re looking for, it may be because you have access to multiple instances (organizations). 
+    > If you don’t see the booking you’re looking for, it might be because you have access to multiple instances (organizations). 
     To switch to a different instance, select the ellipsis button (...), and then select the instance you want.<br>![Select instance](media/select-instance.PNG "Select instance")
     
 ## Sign out of the app
@@ -189,9 +201,13 @@ If you’d like to get direct access to the product team forum and provide feedb
 
 1.	Sign up for the Dynamics 365 Remote Assist Mobile Public Preview Insiders Program at https://experience.dynamics.com. 
 
+
+<!--The screenshot looks like it says "Insider" Program - not Insiders.-->
+
+
 2.	Select the **Insiders Program** box, which will lead you to the Insiders Program application.
 
-    ![Insider's Program button](media/insiders-program.PNG "Insider's Program button")
+    ![Insiders Program button](media/insiders-program.PNG "Insiders Program button")
  
 You can also provide feedback directly from the app by using the following procedure:
 
