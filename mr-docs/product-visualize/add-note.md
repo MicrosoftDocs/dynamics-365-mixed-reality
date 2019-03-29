@@ -110,7 +110,7 @@ To export a note:
 
 2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
 
-3.	In the **Options** dialog box, select **Export Note**.   
+3.	In the **Options** dialog box, select **Export note**.   
 
 
 ### See also
