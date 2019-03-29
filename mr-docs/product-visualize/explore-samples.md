@@ -29,7 +29,7 @@ Microsoft Dynamics 365 Product Visualize (in preview) comes with sample 3D model
  
 4.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
 
-5.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes will not be saved when you close the Product Visualize app. 
+5.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes made on sample models will not be saved when you close Product Visualize or replace the model. 
 
 ### See also
 
