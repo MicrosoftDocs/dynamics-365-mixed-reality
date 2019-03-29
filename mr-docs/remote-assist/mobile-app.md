@@ -84,7 +84,7 @@ your contacts are organized by the most recent calls.
 <!--The next heding is the same as the previous one. That is confusing.-->
 
 
-### Make a call
+To make a call:
 
 1.	Select ![Search button](media/search-icon.PNG "Search button"), enter the name of the contact to search for, and then select the contact from the resulting list.
        
@@ -175,7 +175,7 @@ Field Service. You can link the apps through Settings if you chose not to link t
 <!--Should screens be singular?-->
 
 
-3.	In the **Select a Booking** screens, select the appropriate booking to post the call data to.
+3.	In the **Select a Booking** screen, select the appropriate booking to post the call data to.
 
     ![Select a Booking screen](media/bookings-today.PNG "Select a Booking screen")
   
@@ -205,9 +205,9 @@ If you’d like to get direct access to the product team forum and provide feedb
 <!--The screenshot looks like it says "Insider" Program - not Insiders.-->
 
 
-2.	Select the **Insiders Program** box, which will lead you to the Insiders Program application.
+2.	Select the **Insider Program** box, which will lead you to the Insider Program application.
 
-    ![Insiders Program button](media/insiders-program.PNG "Insiders Program button")
+    ![Insider Program button](media/insiders-program.PNG "Insider Program button")
  
 You can also provide feedback directly from the app by using the following procedure:
 
