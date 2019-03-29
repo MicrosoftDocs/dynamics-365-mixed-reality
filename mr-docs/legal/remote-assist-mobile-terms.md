@@ -2,7 +2,7 @@
 author: ReneeW-CPub
 description: Microsoft Software License Terms for Dynamics 365 Remote Assist Mobile preview
 ms.author: renwe
-ms.date: 04/012019
+ms.date: 04/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Microsoft Software License Terms for Dynamics 365 Remote Assist Mobile preview
