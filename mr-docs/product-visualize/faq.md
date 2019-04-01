@@ -1,11 +1,11 @@
 ---
 author: mamithan
-description: Frequently asked questions about Dynamics 365 Product Visualize (in preview)
+description: Frequently asked questions about Dynamics 365 Product Visualize
 ms.author: mamithan
 ms.date: 04/1/2019
 ms.service: crm-online
 ms.topic: article
-title: Frequently asked questions about Dynamics 365 Product Visualize (in preview)
+title: Frequently asked questions about Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-**What are the requirements for running Microsoft Dynamics 365 Product Visualize (in preview) and what platforms does it support?**
+**What are the requirements for running Microsoft Dynamics 365 Product Visualize and what platforms does it support?**
 
 For information on platforms and requirements, check out [our Requirements page](requirements.md).
 
@@ -38,6 +38,6 @@ At this time, Product Visualize does not support remote capabilities.
 ### See also
 
 [Requirements for setting up Dynamics 365 Product Visualize](requirements.md)<br>
-[Set up Dynamics 365 Product Visualize](setup.md)<br>
+[Setup](setup.md)<br>
 [Administrator Guide](admin-guide.md)<br>
 [User Guide](user-guide.md)<br>
