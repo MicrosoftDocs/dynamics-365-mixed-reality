@@ -101,8 +101,8 @@ You can include up to 50 people in a group call. You can also switch between par
 
    ![Animation of searching for a call](media/GC_SearchCall.gif "Animation of searching for a call")
 
-> [!TIP]
-> [Learn how to add additional contacts from Microsoft Teams Desktop](https://support.office.com/en-us/article/add-someone-to-a-call-in-teams-267fb0c9-275a-4047-8412-7b2654dc29c3). 
+   > [!TIP]
+   > [Learn how to add additional contacts from Microsoft Teams Desktop](https://support.office.com/en-us/article/add-someone-to-a-call-in-teams-267fb0c9-275a-4047-8412-7b2654dc29c3). 
 
 ### Switch the displayed video feed in a group call 
 
@@ -112,10 +112,10 @@ You can include up to 50 people in a group call. You can also switch between par
 
    ![Animation of video feed switch](media/GC_SwitchfromList.gif "Animation of video feed switch")
 
-> [!TIP] 
-> You can also switch video feeds from the “participant tray” located below the video feed. Hover over the avatar to display the participant's name, and then air tap to switch video feeds. 
+   > [!TIP] 
+   > You can also switch video feeds from the “participant tray” located below the video feed. Hover over the avatar to display the participant's name, and then air tap to switch video feeds. 
 
-![Animation of tray switch](media/GC_SwitchfromBar.gif "Animation of tray switch")
+   ![Animation of tray switch](media/GC_SwitchfromBar.gif "Animation of tray switch")
 
 ### Mute a participant in a group call 
 
