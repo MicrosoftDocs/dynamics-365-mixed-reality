@@ -17,6 +17,9 @@ The home screen of Microsoft Dynamics 365 Product Visualize (in preview) is the 
 
 ![Opportunities, products, and 3D models)](media/manipulating-3D-models.PNG "Opportunities, products, and 3D models")
 
+> [!NOTE]
+> If you're the administrator, to learn how to add 3D models to Dynamics 365 for Sales, see the [Administrator Guide](administrator-guide.md).
+
 ## View a 3D model in mixed reality 
 
 1.	Open the opportunity you want to focus on.
