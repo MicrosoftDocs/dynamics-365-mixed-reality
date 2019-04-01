@@ -1,4 +1,4 @@
-# Dynamics 365 Product Visualize (in preview)
+# Dynamics 365 Product Visualize
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
 ## Setup and administration
