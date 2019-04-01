@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: mapau
-ms.date: 1/07/2019
+ms.date: 4/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist FAQ
@@ -38,9 +38,9 @@ To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll n
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643). 
 
--   A contact using the latest version of [Microsoft
+-   To make a video call, you'll need a contact using the latest version of [Microsoft
     Teams](https://products.office.com/microsoft-teams/group-chat-software) on a
-    PC running Windows 10 to make a video call. Microsoft [!include[pn-teams](../includes/pn-teams.md)] is [available as
+    PC running Windows 10 or a mobile device running Microsoft Teams Mobile. Microsoft [!include[pn-teams](../includes/pn-teams.md)] is [available as
     a free download](https://teams.microsoft.com/downloads).
 
 **Do I need a subscription to Microsoft Teams or Office 365?**
@@ -141,8 +141,7 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 **Is group calling available in [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
 
-Group calling isn’t available at this time, but we’re working on it. This
-feature will be available sometime in 2019.
+Yes, group calling is available in the April release of Remote Assist. Up to 50 people can be on the same video call.
 
 **What file formats does the Insert file feature support?**
 

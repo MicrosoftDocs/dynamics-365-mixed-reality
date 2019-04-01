@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Dynamics 365 Remote Assist User Guide (for HoloLens)
 ms.author: mapau
-ms.date: 04/02/2019
+ms.date: 04/1/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User Guide (for HoloLens)
@@ -31,9 +31,9 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643).
 
--   A contact using the latest version of [Microsoft
+-   To make a video call, you'll need a contact using the latest version of [Microsoft
     Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) on
-    a PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 to make a video call. [Learn about using Teams with
+    a PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 or a mobile device running Microsoft Teams Mobile. [Learn about using Teams with
     Remote Assist.](use-microsoft-teams-with-remote-assist.md)
 
 -   To connect to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] from within [!include[pn-remote-assist](../includes/pn-remote-assist.md)],
@@ -83,6 +83,51 @@ what you see in your space—including holograms.
 > [!NOTE]
 > Dynamic audio adjusts the volume level based on ambient noise in the
 room so you can hear even if you're working in a loud environment.
+
+## Make group calls
+
+You can include up to 50 people in a group call. You can also switch between participants' video feeds and mute participants as needed.
+
+### Invite additional contacts to a call
+
+1. In the upper-right corner of the video feed, select the **Open Participants** button.
+
+   ![Animation of selecting Open Participants](media/GC_OpenParticipantsList.gif "Animation of selecting Open Participants")
+
+   > [!TIP]
+   > Select the **Open Participants** button again if you want to close the pane. 
+
+2. Select one of your recent contacts, or select **Invite Someone** at the bottom of the list. A list of your recent contacts will appear. If the person you'd like to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call. 
+
+   ![Animation of searching for a call](media/GC_SearchCall.gif "Animation of searching for a call")
+
+> [!TIP]
+> [Learn how to add additional contacts from Microsoft Teams Desktop](https://support.office.com/en-us/article/add-someone-to-a-call-in-teams-267fb0c9-275a-4047-8412-7b2654dc29c3). 
+
+### Switch the displayed video feed in a group call 
+
+1. In the upper-right corner of the video feed, select the **Open Participants** button. 
+
+2. Hover over the participant whose video feed you want to switch to, and then select it. If the participant's video feed is enabled, the video will switch to their feed. 
+
+   ![Animation of video feed switch](media/GC_SwitchfromList.gif "Animation of video feed switch")
+
+> [!TIP] 
+> You can also switch video feeds from the “participant tray” located below the video feed. Hover over the avatar to display the participant's name, and then air tap to switch video feeds. 
+
+![Animation of tray switch](media/GC_SwitchfromBar.gif "Animation of tray switch")
+
+### Mute a participant in a group call 
+
+> [!NOTE]
+> You can't mute a participant in a one-to-one call.
+
+1. In the upper-right corner of the video feed, select the **Open Participants** button. 
+
+2. Air tap the mute icon for the participant you want to mute. 
+
+> [!NOTE]
+> If you mute a participant, you won't be able to unmute them. They must unmute themselves through Teams. 
 
 ### Receive a video call from a contact using Microsoft Teams
 
