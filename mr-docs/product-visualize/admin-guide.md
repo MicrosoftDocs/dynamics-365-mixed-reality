@@ -79,11 +79,11 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 1. Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with the administrator credentials.
 
-2. In the left nagivation, select **Users**, and then select **Active Users**.
+2. In the left nagivation, select **Users**, and then select **Active users**.
 
    ![a4)](media/a4.png "a4")
 
-3. Near the top of the page, select the **Add a User** button.
+3. Near the top of the page, select the **Add a user** button.
 
 4. In the **New User** dialog box, fill in the following fields:
 
@@ -101,7 +101,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
     * **User** - This user won't have permissions to the Microsoft 365 admin center or any admin tasks.
     
-    * **Global Administrator** - This user will have access to all features in the admin center and can perform all tasks in the Microsoft 365 admin center.
+    * **Global Administrator** - This user will have access to all features in the admin center and can perform all tasks in the admin center.
     
     * **Custom Administrator** - You can assign this user one or many roles so they can manage specific areas of Office 365.
     
@@ -109,11 +109,11 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 7. In the confirmation page, make note of the username and password before selecting **Close**.
 
-8. Select the user you just created, and then select **Edit** next to **Group Memberships**.
+8. Select the user you just created, and then select **Edit** button for **Group memberships**.
 
    ![a5)](media/a5.png "a5")
 
-9. Click the **Add Memberships** button, search for the user group you created earlier, and then select the group name to add the user to the group.
+9. Select the **Add Memberships** button, search for the user group you created earlier, and then select the group name to add the user to the group.
 
 10. Select **Close** to finish adding the user.
 
@@ -263,7 +263,7 @@ Product Visualize makes use of the widely available GL Transmission Format (glTF
             * \<ModelName>.png
 
     > [!NOTE]
-    > SharePoint folders only get created when you first visit the documents folder through a Dynamics 365 app. If the folder for a Product doesn't yet exist, return to the Sales Hub and open the Product's document location from there. Once created you can access it through SharePoint.
+    > SharePoint folders are created when you first visit the documents folder through a Dynamics 365 app. If the folder for a Product doesn't exist yet, return to the Sales Hub and open the Product's document location from there. Once created you can access it through SharePoint.
     
 ## Add opportunities
 
@@ -284,11 +284,11 @@ Opportunities represent a chance to sell your products to a customer. They captu
 5. Assign the **Owner** field to any user you already added (optional).
 
     > [!NOTE]
-    > The **Owner** field relocates to accomodate the size of your browser window. In a large browser window it appears in the upper-right corner of the page and in a medium-sized window it will be hidden in a dropdown menu in that same corner. In a small browser window or on mobile devices it will appear at the top of the **Summary** section.
+    > The **Owner** field relocates to accommodate the size of your browser window. In a large browser window it appears in the upper-right corner of the page and in a medium-sized window it will be hidden in a drop-down menu in that same corner. In a small browser window or on mobile devices it will appear at the top of the **Summary** section.
 
 6. Select **Save**, but don't close the opportunity.
 
-7. Open the **Product Line Items** tab. 
+7. Open the **Product line items** tab. 
 
    ![a19)](media/a19.png "a19")
 
@@ -306,7 +306,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 ## Install the Product Visualize Control
 
-The Product Visualize Control is an optional enhancement that allows salespeople to open the Product Visualize app directly from Dynamics 365 for Sales on their mobile devices. The control is lightweight and can easily be updated and removed.
+The Product Visualize Control is an optional enhancement that allows salespeople to open the Product Visualize app directly from Dynamics 365 for Sales on their mobile devices. The control is lightweight and can easily be updated or removed.
 
 ### Import the Product Visualize solution
 
@@ -318,11 +318,11 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 
 4. Download the **Product Visualize** solution to your PC.
 
-5. Import the solution by clicking the **Import** button and selecting the solution zip file you downloaded.
+5. Import the solution by selecting the **Import** button and selecting the solution zip file you downloaded.
 
 ### Customize the Opportunity page
 
-There are numerous ways you can customize your Opportunity page in Dynamics 365 for Sales. This procdrue provides suggested customizations, but feel free to adapt to your needs.
+There are numerous ways you can customize your Opportunity page in Dynamics 365 for Sales. This procedure provides suggested customizations, but feel free to adapt to your needs.
 
 1. In the **Settings** drop-down list at the top of the page, select **Customizations**, and then select **Customize the System**.
 
@@ -406,23 +406,23 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 3. Select the icon for Dynamics 365 (Preview) to open the installation dialog.
 
-4. Ensure the toggle next to __Add for You__ is set to __Yes__.
+4. Ensure the __Add for You__ option is set to __Yes__.
 
-5. In the __Add to a team__ section, search for your team's name, which will also set the second toggle to __Yes__.
+5. In the __Add to a team__ section, search for your team's name, which will also set the second option to __Yes__.
 
 6. Select __Install__.
 
 7. On the next page, select the channel you just created, and then select __Set up__.
 
-8. On the **Setup** page set the following:
+8. On the **Setup** page, set the following:
 
-   - Select your Dynamics 365 organziation from the **Org** list.
+   - Select your Dynamics 365 organization from the **Org** list.
    
    - Select **Sales Hub** from the **App Module** list.
    
 9. Select __Select__.
    
-10. From the list of Dynamics entities, select an opportunity, and then select **Save**.
+10. From the list of Dynamics 365 entities, select an opportunity, and then select **Save**.
 
 For more information on setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/basics/teams-install-app).
 
