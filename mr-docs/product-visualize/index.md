@@ -1,15 +1,15 @@
 ---
 author: mamithan
-description: Overview of Dynamics 365 Product Visualize (in preview)
+description: Overview of Dynamics 365 Product Visualize
 ms.author: mamithan
 ms.date: 04/1/2019
 ms.service: crm-online
 ms.topic: overview
-title: Overview of Dynamics 365 Product Visualize (in preview)
+title: Overview of Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
-# Overview of Dynamics 365 Product Visualize (in preview)
+# Overview of Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
