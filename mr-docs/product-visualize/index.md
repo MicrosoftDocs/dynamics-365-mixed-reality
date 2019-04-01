@@ -28,7 +28,7 @@ sales process.
 ### See also
 
 [Requirements for setting up Dynamics 365 Product Visualize](requirements.md)<br>
-[Set up Dynamics 365 Product Visualize](setup.md)<br>
+[Setup](setup.md)<br>
 [Administrator Guide](admin-guide.md)<br>
 [User Guide](user-guide.md)<br>
 [FAQ](faq.md)<br>
