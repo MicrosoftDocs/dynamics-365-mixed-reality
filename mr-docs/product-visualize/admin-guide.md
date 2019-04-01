@@ -57,7 +57,7 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 1. Go to your trial's SharePoint site: [https://\<org name\>.sharepoint.com]().
 
-2. In the upper-right corner of the page, select **Share Site**.
+2. In the upper-right corner of the page, select **Share site**.
 
    ![a2)](media/a2.png "a2")
 
