@@ -1,19 +1,19 @@
 ---
 author: mamithan
-description: Device and licensing requirements for Dynamics 365 Product Visualize (in preview)
+description: Device and licensing requirements for Dynamics 365 Product Visualize
 ms.author: mamithan
 ms.date: 04/1/2019
 ms.service: crm-online
 ms.topic: article
-title: Requirements for setting up Dynamics 365 Product Visualize (in preview)
+title: Requirements for setting up Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
-# Requirements for setting up Dynamics 365 Product Visualize (in preview)
+# Requirements for setting up Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Product Visualize (in preview)
+The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Product Visualize
 throughout your organization.
 
 ## Device requirements
