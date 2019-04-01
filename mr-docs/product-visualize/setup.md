@@ -36,7 +36,7 @@ The first thing you need to do is create a new Azure Active Directory organizati
 
 ## Add an admin user
 
-After creating the new organization, the next step is to add an admin user to the organization. The admin user is responsible for creating additional users, assigning licenses, and initializing Dynamics 365. As the creator of this organization, you could use your work account to manage the system, but we recommend creating a separate administrator account for each organization.
+After creating the new organization, the next step is to add an admin user for the organization. The admin user is responsible for creating additional users, assigning licenses, and initializing Dynamics 365. As the creator of this organization, you could use your work account to manage the system, but we recommend creating a separate administrator account for each organization.
 
 1. In the left navigation, select __Azure Active Directory__, and then select __Users__.
 
