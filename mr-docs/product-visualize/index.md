@@ -22,7 +22,7 @@ change orders are reduced, and customer satisfaction is higher.
 Using Product Visualize, sellers can show products to customers 
 directly within their Dynamics 365 for Sales workflow and spatial and configuration notes are all saved directly within the associated 
 sales opportunity. Since sales commonly requires more than just one individual, sellers can leverage session content directly in 
-Microsoft Teams to improve internal collaboration to deliver customer-oriented solutions that are critical to accelerating the 
+Microsoft Teams to improve internal collaboration and deliver customer-oriented solutions that are critical to accelerating the 
 sales process.
 
 ### See also
