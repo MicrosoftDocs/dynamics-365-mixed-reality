@@ -43,7 +43,7 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 3. In the left navigation, select **Groups** and then select **Groups** again.
 
-   ![a1)](media/a1.png "a1")
+   ![Groups left-nav item](media/groups.PNG "Groups left-nav item")
 
 4. Near the top of the page, select the **Add a Group** button.
 
@@ -59,13 +59,13 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 2. In the upper-right corner of the page, select **Share site**.
 
-   ![a2)](media/a2.png "a2")
+   ![Share site command](media/share-site.PNG "Share site command")
 
 3. In the **Share** window, search for the group you created earlier, and then select the group name to add it to the site.
 
 4. Grant the group Edit permission by selecting the small arrow under the group name.
 
-   ![a3)](media/a3.png "a3")
+   ![Edit share site](media/edit-share-site.PNG "Edit share site")
 
 5. Select **Share** to finish granting group access to SharePoint.
 
@@ -81,7 +81,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 2. In the left nagivation, select **Users**, and then select **Active users**.
 
-   ![a4)](media/a4.png "a4")
+   ![Active users left-nav item](media/active-users.PNG "Active users left-nav item")
 
 3. Near the top of the page, select the **Add a user** button.
 
@@ -111,7 +111,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 8. Select the user you just created, and then select **Edit** button for **Group memberships**.
 
-   ![a5)](media/a5.png "a5")
+   ![Group memberships](media/group-memberships.PNG "Group memberships")
 
 9. Select the **Add Memberships** button, search for the user group you created earlier, and then select the group name to add the user to the group.
 
@@ -132,7 +132,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 4. In the **Settings** drop-down list at the top of the page, select **Security**.
 
-   ![a7)](media/a7.png "a7")
+   ![Security settings](media/security.PNG "Security settings")
 
 5. In the **Security** page, select **Enabled Users**.
 
@@ -140,11 +140,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 7. In the **Users** page, from the menu bar near the top of the page, select **Approve Email** so the user is synced by the server.
 
-   ![a8)](media/a8.png "a8")
-
 8. On the menu bar, select **Manage Roles**.
-
-   ![a9)](media/a9.png "a9")
 
 9. Select the **Sales, Enterprise app access** and **Salesperson** options from the list, and then select **OK**.
 
@@ -168,17 +164,13 @@ This section provides step-by-step instructions for creating a new price list, p
 
 3. In the **Settings** drop-down list at the top of the page, select **Product Catalog**.
 
-   ![a10)](media/a10.png "a10")
+   ![Product Catalog settings](media/product-catalog.PNG "Product Catalog settings")
 
 4. Select **Price Lists**.
 
 5. Create a new price list by selecting **New** near the top-left of the page.
 
-   ![a11)](media/a11.png "a11")
-
 6. Give the price list a name (Default Price List), and then select **Save and Close**.
-
-   ![a12)](media/a12.png "a12")
 
 ### Create a product family (optional)
 
@@ -186,25 +178,17 @@ This section provides step-by-step instructions for creating a new price list, p
 
 2. Open the navigation menu on the left, and then select **Products**.
 
-   ![a13)](media/a13.png "a13")
-
 3. Select **Add Family** to create a new product family.
-
-   ![a14)](media/a14.png "a14")
 
 4. Give the family a name (Product Samples) and a Product ID (PS-1), and then select **Save and Close**.
 
 5. Select **Publish** to finish creating the product family.
-
-   ![a15)](media/a15.png "a15")
 
 ### Create a product
 
 1. In the left navigation, select **Products** to return to the product list. 
 
 2. Select **Add Product** to create a new product.
-
-   ![a16)](media/a16.png "a16")
 
 3. Add values for **Name** and **Product ID** (use any values that you want).
 
@@ -244,7 +228,7 @@ Product Visualize makes use of the widely available GL Transmission Format (glTF
 
 3. On the **Related** tab, select **Documents**.
 
-   ![a17)](media/a17.png "a17")
+   ![Related tab](media/related-documents.PNG "Related tab")
 
    You'll see a view of the SharePoint Document location for that product.
 
@@ -275,8 +259,6 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 2. In the left navigation, select **Opportunities**.
 
-   ![a18)](media/a18.png "a18")
-
 3. Select **New** at the top of the page to create a new opportunity.
 
 4. In the **Topic** field, add a name for the opportunity.
@@ -290,13 +272,11 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 7. Open the **Product line items** tab. 
 
-   ![a19)](media/a19.png "a19")
+   ![Product line items tab](media/product-line-items-tab.PNG "Product line items tab")
 
 8. Set the **Price List** to the one created earlier.
 
 9. Select the **Add New Opportunity Product** button. 
-
-   ![a20)](media/a20.png "a20")
 
 10. In the **Existing Product** field, select one of the products you created.
 
