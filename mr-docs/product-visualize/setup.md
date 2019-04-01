@@ -148,7 +148,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 4. Select __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint.
 
    > [!NOTE]
-   > If you opted to use the automated __Sales__ setup option earlier, you can skip the steps to enable server-based SharePoint Integration.
+   > If you opted to use the automated __Sales__ setup option earlier, you can skip the steps to enable server-based SharePoint integration.
 
 5. Continue through the setup. When prompted, enter the URL for your SharePoint ([https://\<org name>.sharepoint.com]()).
 
