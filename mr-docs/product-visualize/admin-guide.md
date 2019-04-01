@@ -109,7 +109,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 7. In the confirmation page, make note of the username and password before selecting **Close**.
 
-8. Select the user you just created, and then select **Edit** button for **Group memberships**.
+8. Select the user you just created, and then select the **Edit** button for **Group memberships**.
 
    ![Group memberships](media/group-memberships.PNG "Group memberships")
 
