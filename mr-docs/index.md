@@ -103,7 +103,8 @@ ms.custom:
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/requirements">Requirements</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/try-remote-assist-free">Try Remote Assist free</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/buy-and-deploy">Buy and deploy</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/user-guide">User Guide</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/user-guide">HoloLens User Guide</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/mobile-app">Mobile app User Guide</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist">Use with Teams</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/protocol-activation">Launch from another app</a></p>
                                                 <p><a href="https://go.microsoft.com/fwlink/?linkid=2021485">Videos</a></p>
