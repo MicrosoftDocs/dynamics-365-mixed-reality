@@ -9,7 +9,7 @@ title: Frequently asked questions about Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
-# Frequently asked questions about Dynamics 365 Product Visualize
+# FAQ: Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
