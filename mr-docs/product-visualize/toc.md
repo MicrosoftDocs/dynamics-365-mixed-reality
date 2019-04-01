@@ -5,7 +5,7 @@
 ### [Setup](setup.md)
 ### [Administrator Guide](admin-guide.md)
 ## [User Guide](user-guide.md)
-### [Open the app and sign in](sign-in.md)
+### [Install, open, and sign in to the app](sign-in.md)
 ### [Place and manipulate 3D models](manipulate-models.md)
 ### [Add a note to your 3D model](add-note.md)
 ### [Explore sample 3D models](explore-samples.md)
