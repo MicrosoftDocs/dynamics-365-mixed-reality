@@ -5,11 +5,11 @@ ms.author: mamithan
 ms.date: 04/1/2019
 ms.service: crm-online
 ms.topic: article
-title: Administrator Guide for Dynamics 365 Product Visualize (in preview)
+title: Administrator Guide for Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
-# Administrator Guide for Dynamics 365 Product Visualize (in preview)
+# Administrator Guide for Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
@@ -437,7 +437,7 @@ You now have everything you need to start using Microsoft Dynamics 365 Product V
 ### See also
 
 [Requirements for setting up Dynamics 365 Product Visualize](requirements.md)<br>
-[Set up Dynamics 365 Product Visualize](setup.md)<br>
+[Setup](setup.md)<br>
 [User Guide](user-guide.md)<br>
 [FAQ](faq.md)<br>
 
