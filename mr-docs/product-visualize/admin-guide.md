@@ -47,7 +47,7 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 4. Near the top of the page, select the **Add a Group** button.
 
-5. Give the group a name and set the Group Type to **Office 365**.
+5. Give the group a name and set the **Group Type** to **Office 365**.
 
 6. Add the admin user as the owner of the group by selecting the **Select Owner** button.
 
