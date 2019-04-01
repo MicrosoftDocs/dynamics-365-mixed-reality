@@ -1,15 +1,15 @@
 ---
 author: mamithan
-description: How to place, resize, rotate, move, and lift 3D models in Dynamics 365 Product Visualize (in preview)
+description: How to place, resize, rotate, move, and lift 3D models in Dynamics 365 Product Visualize
 ms.author: mamithan
 ms.date: 04/1/2019
 ms.service: crm-online
 ms.topic: article
-title: Place and manipulate 3D models in Dynamics 365 Product Visualize (in preview)
+title: Place and manipulate 3D models in Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
-# Place and manipulate 3D models in Dynamics 365 Product Visualize (in preview)
+# Place and manipulate 3D models in Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
