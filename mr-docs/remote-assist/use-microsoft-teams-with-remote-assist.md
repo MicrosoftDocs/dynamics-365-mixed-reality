@@ -58,7 +58,7 @@ You can onboard an expert and collaborate using [!include[pn-teams](../includes/
 ### Step 1: Enable guest access for teams
 
 1.  If you’re the admin for the main [!include[pn-azure](../includes/pn-azure.md)] tenant, go to
-    <https://portal.office.com/adminportal/> to open the Office Admin portal,
+    <https://admin.microsoft.com/adminportal/> to open the Office Admin portal,
     and then sign in.
 
 2.  From the menu on the left, select **Show More** \> **Settings** \> **Services & add-ins**.

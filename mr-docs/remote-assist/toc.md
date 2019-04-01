@@ -3,7 +3,8 @@
 ## [Requirements](requirements.md)
 ## [Try Remote Assist free](try-remote-assist-free.md)
 ## [Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md)
-## [User Guide](user-guide.md)
+## [HoloLens User Guide](user-guide.md)
+## [Mobile app User Guide](mobile-app.md)
 ## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
 ## [Troubleshoot Field Service integration](troubleshoot-field-service.md)
 ## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)
@@ -12,4 +13,5 @@
 ## Legal documents
 ### [Remote Assist software license terms](../legal/remote-assist-license-terms.md)
 ### [Remote Assist free trial software license terms](../legal/remote-assist-license-terms-free-trial.md)
+### [Remote Assist Mobile Preview license terms](../legal/remote-assist-mobile-terms.md)
 ### [Third-party notices](../legal/remote-assist-third-party-notice.md)
