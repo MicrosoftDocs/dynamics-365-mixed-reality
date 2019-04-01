@@ -157,7 +157,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 
 6. When complete, return to the __Document Management__ settings page, and then select __Document Management Settings__.
 
-7. Enter the URL for your SharePoint site if it isn't filled in by default. Then, select __Next__.
+7. Enter the URL for your SharePoint site if it isn't filled in by default. Then select __Next__.
 
 8. Continue through the setup using the default values for the remaining options.
 
