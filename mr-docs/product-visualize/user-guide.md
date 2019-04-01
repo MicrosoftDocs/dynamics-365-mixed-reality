@@ -18,7 +18,7 @@ helping create a shared understanding between buyer and seller to accelerate com
 
 This User Guide describes everything you need to know about working with the app. It shows you how to:
 
-- [Open the app and sign in](sign-in.md)<br>
+- [Install, open, and sign in to the app](sign-in.md)<br>
 - [Place and manipulate 3D models](manipulate-models.md)<br>
 - [Add a note to your 3D model](add-note.md)<br>
 - [Explore sample 3D models](explore-samples.md)
