@@ -21,6 +21,8 @@ After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 
 
 - Add products
 
+- Add models
+
 - Add opportunities
 
 - Install the Product Visualize control if you want sales people to be able to open Product Visualize directly from Dynamics 365 for Sales
