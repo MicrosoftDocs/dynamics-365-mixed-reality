@@ -174,6 +174,9 @@ In the Guides PC application, you can upload your own 3D files, as well as video
 
 ### Set up user roles for the solution<a name="user-roles"></a>
 
+> [!NOTE]
+> It can take up to one hour for a user to appear in the Dynamics 365 admin center after the licenses are added in the Microsoft 365 admin center. 
+
 1.	After the solution has finished installing, go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Guides instance from the list of instances, and then select the **Open** button.
 
 2. In the **Dynamics 365** page, select the **Settings** button, and then select **Advanced Settings**.
