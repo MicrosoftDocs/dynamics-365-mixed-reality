@@ -53,10 +53,10 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 4. Select __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint.
 
-5. Continue through the setup. When prompted, enter the URL for your SharePoint ([https://\<org name>.sharepoint.com]()).
+5. Continue through the setup. When prompted, enter the URL for your SharePoint site: ([https://\<org name>.sharepoint.com]()).
 
    > [!IMPORTANT]
-   > Be sure to enter the full URL for your SharePoint instance, including `https://`.
+   > Be sure to enter the full URL for your SharePoint site, including `https://`.
 
 6. When complete, return to the __Document Management__ settings page, and then select __Document Management Settings__.
 
