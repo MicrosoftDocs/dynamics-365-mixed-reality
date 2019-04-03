@@ -131,5 +131,5 @@ The Product Visualize mobile app requires permission to access the Dynamics 365 
 4. Select __Accept__ to return to the app.
 
 ## Next steps
-You're now ready to use Microsoft Dynamics 365 Product Visualize with all of your sales opportunities. The Product Visualize mobile app can be downloaded from the iOS App Store. Users can sign in with the same Azure Active Directory credentials that they use to connect to Dynamics 365 for Sales.
+You're now ready to use Product Visualize with all of your sales opportunities. The Product Visualize mobile app can be downloaded from the iOS App Store. Users can sign in with the same Azure Active Directory credentials that they use to connect to Dynamics 365 for Sales.
   
