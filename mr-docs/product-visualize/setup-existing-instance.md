@@ -23,9 +23,9 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 2. In the upper-right corner of the screen, click the **Settings** button, and then select **About**.
 
-3. The **Server Version** listed must be greater than **9.0** to work with Product Visualize.
+3. The **Server version** listed must be greater than **9.0** to work with Product Visualize.
 
-   ![Server Version](media/sales-version.PNG "Server Version")
+   ![Server version](media/sales-version.PNG "Server version")
 
 ## Set up SharePoint document management
 
