@@ -19,7 +19,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 - The Dynamics 365 for Sales version must be 9.0 or later.
 
-- Server-based SharePoint document management muste be enabled.
+- Server-based SharePoint document management must be enabled.
 
 - Products associated with 3D models must be in the GLB format.
 
