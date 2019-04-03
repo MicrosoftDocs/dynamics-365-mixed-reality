@@ -17,7 +17,7 @@ You can connect Microosft Dynamics 365 Product Visualize to a new or existing Dy
 
 Existing Dynamics 365 for Sales instances must meet the following minimum requirements to connect to Product Visualize:
 
-- The Dynamics 365 for Sales version, must be 9.0 or later.
+- The Dynamics 365 for Sales version must be 9.0 or later.
 
 - Server-based SharePoint document management muste be enabled.
 
