@@ -66,7 +66,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
    Dynamics 365 will automatically create SharePoint folders for the Dynamics 365 for Sales entities. 
 
-9. Close the window when done.
+9. Close the window when you're done.
 
 ### Enable SharePoint document management
 
@@ -80,7 +80,9 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 5. Continue through the setup using the default values for the remaining options.
 
-   Dynamics 365 will automatically create SharePoint folders for the Dynamics 365 entities. Close the window when complete.
+   Dynamics 365 will automatically create SharePoint folders for the Dynamics 365 Sales entities. 
+   
+6. Close the window when you're done.
 
 ### Grant SharePoint permission
 
