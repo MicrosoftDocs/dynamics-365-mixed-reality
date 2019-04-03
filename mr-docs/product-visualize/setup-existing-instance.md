@@ -94,7 +94,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 4. Select **Share**.
 
-## Add Models to Your Products
+## Add 3D models to your products
 
 1. In a browser window, go to the Product List in the Sales or Sales Hub applications.
 
