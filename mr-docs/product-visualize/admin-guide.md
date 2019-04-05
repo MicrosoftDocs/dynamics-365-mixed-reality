@@ -265,7 +265,7 @@ Product Visualize makes use of the widely available GL Transmission Format (glTF
  
     1. Create a **Thumbnails** folder under the model folder.
   
-    2. Add a PNG image (with the same name as the model folder) and the model file into the **Thumbnails** folder.
+    2. Add a PNG image (with the same name as the model folder) and the model file to the **Thumbnails** folder.
   
        Example: 
 
