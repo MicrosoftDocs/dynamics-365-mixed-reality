@@ -293,8 +293,6 @@ Product Visualize makes use of the widely available GL Transmission Format (glTF
    * Fabrikam 360_F2F31831A83FE911A977000D3A1C5716
         * Fabrikam_260-X
             * Fabrikam_260-X.glb
-
-
     
 ## Add opportunities
 
