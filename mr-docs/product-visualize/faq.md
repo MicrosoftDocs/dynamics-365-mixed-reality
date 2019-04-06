@@ -38,7 +38,7 @@ At this time, Product Visualize does not support remote capabilities.
 
 ![Admin Approval](media/admin-approval.PNG "Admin Approval")
 
- This message indicates that your organizations requires administrator approval before any new apps can be used to access organizational resources. You will need to talk to your System Administrator to grant approval for Product Visualize before it can be used with your organization. In the mean time, you can still try Dynamics 365 Product Visualize by setting up a [trial version of Dynamics 365 For Sales](setup.md). 
+This message indicates that your organizations requires administrator approval before any new apps can be used to access organizational resources. You will need to talk to your System Administrator to grant approval for Product Visualize before it can be used with your organization. In the mean time, you can still try Dynamics 365 Product Visualize by setting up a [trial version of Dynamics 365 For Sales](setup.md). 
 
  ### Why don't I see my Dynamics Instances here?
  Product Visualize is able connect to instances of Dynamics 365 for Sales version 9 or above. It does not support On-Premises Dynamics solutions or older instances of Dynamics 365 for sales. Ensure your instance meets the [minimum requirements](requirements.md) for using Product Visualize. If your instance meets the requirements ensure you are signed-into the app with the same credentials you use to access Dynamics.
