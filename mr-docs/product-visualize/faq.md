@@ -36,7 +36,7 @@ At this time, Product Visualize does not support remote capabilities.
 
 ### "Need admin approval" after Sign-In
 
-![Admin Approval](media/adminApproval.png "Admin Approval")
+![Admin Approval](media/admin-approval.PNG "Admin Approval")
 
  This message indicates that your organizations requires administrator approval before any new apps can be used to access organizational resources. You will need to talk to your System Administrator to grant approval for Product Visualize before it can be used with your organization. In the mean time, you can still try Dynamics 365 Product Visualize by setting up a [trial version of Dynamics 365 For Sales](setup.md). 
 
