@@ -38,15 +38,15 @@ At this time, Product Visualize does not support remote capabilities.
 
 ![Admin Approval](media/admin-approval.PNG "Admin Approval")
 
-This message indicates that your organization requires administrator approval before any new apps can be used to access organizational resources. You will need to talk to your system administrator to grant approval for Product Visualize before it can be used in your organization. In the meantime, you can set up a [free trial version](setup.md). 
+This message indicates that your organization requires administrator approval before any new apps can be used to access organizational resources. Talk to your system administrator to get approval to use Product Visualize in your organization. In the meantime, you can set up a [free trial version](setup.md). 
 
 ## Why don't I see my Dynamics instances?
  
-Product Visualize is able connect to instances of Dynamics 365 for Sales version 9 or later. It doesn't support on-premises Dynamics 365 solutions or older instances of Dynamics 365 for Sales. Make sure your instance meets the [minimum requirements](requirements.md) for using Product Visualize. If your instance meets the requirements, make sure you're signed in to the app with the same credentials you use to access Dynamics 365 for Sales.
+Product Visualize can connect to instances of Dynamics 365 for Sales version 9 or later. It doesn't support on-premises Dynamics 365 solutions or older instances of Dynamics 365 for Sales. Make sure your instance meets the [minimum requirements](requirements.md) for using Product Visualize. If your instance meets the requirements, make sure you're signed in to the app with the same credentials you use to access Dynamics 365 for Sales.
 
-## Wy am I getting a message that says my organization isn't set up to use Product Visualize?
+## Why am I getting a message that says my organization isn't set up to use Product Visualize?
 
-This message indicates the Dynamics for Sales instance you selected doesn't meet the [minimum requirements](requirements.md) for using Product Visualize. If you have access to more than one Dynamics for Sales instance, make you selected the correct one.
+This message indicates the Dynamics for Sales instance you selected doesn't meet the [minimum requirements](requirements.md) for using Product Visualize. If you have access to more than one Dynamics for Sales instance, make sure you selected the correct one.
 
 ## How do I find my opportunities?
 
@@ -60,9 +60,9 @@ If an opportunity doesn't show up in the application, go to the Dynamics 365 Sal
 
 ## Why doesn't my model load?
 
-Models with very high polygon counts may take a long time to load, especially over slower connections. If the model doesn't load at all,  the GLB file may not be valid. A corrupt or invalid GLB may appear as loading but it will never actually ever load. If this happens, restart the app and try again. If, after restarting, the model still fails to load, try re-exporting the GLB from your authoring software and upload it again to SharePoint. If that doesn't work, try loading the model in a different GLTF viewer like [BabylonJS Sandbox](https://sandbox.babylonjs.com/). 
+Models with very high polygon counts may take a long time to load, especially over slower connections. If the model doesn't load at all,  the GLB file may not be valid. A corrupt or invalid GLB file may appear as loading but it will never actually ever load. If this happens, restart the app and try again. If, after restarting, the model still fails to load, try re-exporting the GLB from your authoring software and upload it again to SharePoint. If that doesn't work, try loading the model in a different glTF viewer like [BabylonJS Sandbox](https://sandbox.babylonjs.com/). 
 
-Larger models may exceed the memory of the mobile device you are using. This is especially true on previous generation iPhones. To reduce the models' memory requirements, reduce the size of any textures associated with the model and decimate the model to use fewer polygons.
+Larger models may exceed the memory of the mobile device you are using. This is especially true on previous generation iPhones. To reduce the model's memory requirements, reduce the size of any textures associated with the model and decimate the model to use fewer polygons.
 
 ### See also
 
