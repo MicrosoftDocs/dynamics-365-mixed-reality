@@ -286,17 +286,7 @@ Product Visualize makes use of the widely available GL Transmission Format (glTF
 
 #### Example file structure:
 
-- Product<br>
-    - Fabrikam 257_3B621A74A83FE911A977000D3A1C5716<br>
-        - Fabrikam_257-6R<br>
-            - Fabrikam_257-6R.glb<br>
-        - Fabrikam_257-90<br>
-            - Fabrikam_257-90.glb<br>
-            - Thumbnails<br>
-                - Fabrikam_257-90.png<br>
-   - Fabrikam 360_F2F31831A83FE911A977000D3A1C5716<br>
-        - Fabrikam_260-X<br>
-            - Fabrikam_260-X.glb
+![Example folder structure](media/folder-structure.PNG "Example folder structure")
     
 ## Add opportunities
 
