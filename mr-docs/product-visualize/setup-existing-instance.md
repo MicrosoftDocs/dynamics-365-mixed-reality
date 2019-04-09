@@ -94,6 +94,8 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 3. On the __Related__ tab, select __Documents__ to go to a view of the SharePoint Document location for that product.
 
+   ![Related tab](media/related-documents.PNG "Related tab")
+
 4. In the __Open Location__ drop-down list, select __Documents on Default Site 1__ to open the SharePoint location outside of Dynamics 365 for Sales.
 
 5. Drag and drop your Model folder into this location. It will automatically show up in Product Visualize. Models should be added with the following folder structure:
