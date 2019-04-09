@@ -70,22 +70,6 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 9. Close the window when you're done.
 
-### Enable SharePoint document management
-
-1. In a browser window, go to your organization's Sales or Sales Hub instance [https://\<org name>.crm.dynamics.com]().
-
-2. In the upper-right corner of the screen, select the **Settings** button, and then select **Advanced Settings**.
-
-3. In the **Document Management** settings page, select **Document Management Settings**.
-
-4. Enter the URL for your SharePoint site, if it isn't filled in by default. Then select __Next__.
-
-5. Continue through the setup using the default values for the remaining options.
-
-   Dynamics 365 will automatically create SharePoint folders for the Dynamics 365 Sales entities. 
-   
-6. Close the window when you're done.
-
 ### Grant SharePoint permission
 
 1. Go to the SharePoint site you just associated with your Dynamics 365 for Sales instance.
