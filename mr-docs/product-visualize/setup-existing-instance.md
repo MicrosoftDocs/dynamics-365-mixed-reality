@@ -62,6 +62,8 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 7. Enter the URL for your SharePoint site if it isn't filled in by default. Then select __Next__.
 
+![Document Management settings](media/document-management-settings.PNG "Document Management Settings")
+
 8. Continue through the setup using the default values for the remaining options.
 
    Dynamics 365 will automatically create SharePoint folders for the Dynamics 365 for Sales entities. 
