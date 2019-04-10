@@ -338,6 +338,12 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 3. In the **Settings** drop-down list at the top of the page, select **Solutions**.
 
 5. Import the solution by selecting the **Import** button and selecting the solution zip file you downloaded.
+
+   ![Import Solution](media/import-solution.PNG "Import Solution")
+ 
+6. Proceed through the Import dialogs until complete
+
+   ![Import Information](media/import-information.png "Import Information")
    
 ### Customize the Opportunity page
 
