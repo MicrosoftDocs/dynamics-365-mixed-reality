@@ -119,7 +119,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 10. Select **Close** to finish adding the user.
 
-    > [NOTE]
+    > [!NOTE]
     > It may take some time for users added to your organization to show up in Dynamics 365, so it's a good idea to add all the users to your organization before continuing.
 
 ### Assign a security role to the user
