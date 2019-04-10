@@ -2,7 +2,8 @@
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
 ## Setup and administration
-### [Setup](setup.md)
+### [Set up new Dynamics 365 for Sales instance](setup.md)
+### [Set up on existing Dynamics 365 for Sales instance](setup-existing-instance.md)
 ### [Administrator Guide](admin-guide.md)
 ## [User Guide](user-guide.md)
 ### [Install, open, and sign in to the app](sign-in.md)

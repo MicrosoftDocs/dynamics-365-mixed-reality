@@ -1,8 +1,8 @@
 ---
 author: rroesler
 description: Admin tasks for Dynamics 365 Product Visualize, including adding groups, products, opportunities, and the Product Visualize control
+ms.date: 04/10/2019
 ms.author: rroesler
-ms.date: 04/8/2019
 ms.service: crm-online
 ms.topic: article
 title: Administrator Guide for Dynamics 365 Product Visualize
@@ -329,16 +329,25 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 
 ### Import the Product Visualize solution
 
-1. Go to the Dynamics 365 Sales Hub.
+1. Download the **Product Visualize** solution from the [Microsoft Download Center](http://download.microsoft.com/download/5/5/2/5520DCD1-DF0E-4255-A7C9-5C95E80E0596/ProductVisualize.zip)
+
+2. Go to the Dynamics 365 Sales Hub.
 
 2. Select the **Settings** button, and then select **Advanced Settings**.
 
 3. In the **Settings** drop-down list at the top of the page, select **Solutions**.
 
-4. Download the **Product Visualize** solution to your PC.
-
 5. Import the solution by selecting the **Import** button and selecting the solution zip file you downloaded.
 
+   ![Import Solution](media/import-solution.PNG "Import Solution")
+ 
+6. Proceed through the Import dialogs until complete
+
+   ![Import Information](media/import-information.png "Import Information")
+   
+    > [!NOTE]
+    > Importing a solution will replace any existing versions of that solution.
+   
 ### Customize the Opportunity page
 
 There are numerous ways you can customize your Opportunity page in Dynamics 365 for Sales. This procedure provides suggested customizations, but feel free to adapt to your needs.
