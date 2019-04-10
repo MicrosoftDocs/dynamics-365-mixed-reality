@@ -47,7 +47,7 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
    ![Groups left-nav item](media/groups.PNG "Groups left-nav item")
 
-4. Near the top of the page, select the **Add a Group** button.
+4. Near the top of the page, select the **Add a group** button.
 
 5. Give the group a name and set the **Group Type** to **Office 365**.
 
