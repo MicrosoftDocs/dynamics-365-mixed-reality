@@ -418,11 +418,11 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 ### Add channels to the team
 
-1. In the **Teams and Channels** list, select the elipses (...) next to the team you just created.
+1. In the **Teams and Channels** list, select the **More Information** button (...) next to the team you just created.
 
 2. Select __Add Channel__. 
 
-3. Give the channel a name related to the opportunities you want to connect to it (ex: Seattle-area opportunities).
+3. Give the channel a name related to the opportunities you want to connect to it (example: Seattle-area opportunities).
 
 4. Select __Add__.
    
