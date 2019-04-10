@@ -331,7 +331,7 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 
 1. [Download the **Product Visualize** solution](http://download.microsoft.com/download/5/5/2/5520DCD1-DF0E-4255-A7C9-5C95E80E0596/ProductVisualize.zip).
 
-2. Go to the Dynamics 365 Sales Hub.
+2. Go to the Dynamics 365 for Sales Hub.
 
 2. Select the **Settings** button, and then select **Advanced Settings**.
 
@@ -341,12 +341,18 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 
    ![Import Solution](media/import-solution.PNG "Import Solution")
  
-6. Continue through the **Import** dialog boxes until complete.
+6. In the **Solution Information** dialog box, select **Import** to begin the import process.
 
-   ![Import Information](media/import-information.png "Import Information")
+   ![Import Information](media/import-information.PNG "Import Information")
    
     > [!NOTE]
     > Importing a solution will replace any existing versions of that solution.
+    
+  After the import process is complete, the screen will look like this:
+
+   ![Import Complete](media/import-complete.PNG "Import Complete")
+
+7. Select **Close** to close the **Import** dialog box.
    
 ### Customize the Opportunity page
 
