@@ -62,47 +62,45 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 7. Enter the URL for your SharePoint site if it isn't filled in by default. Then select __Next__.
 
+   ![Document Management settings](media/document-management-settings.PNG "Document Management Settings")
+
 8. Continue through the setup using the default values for the remaining options.
 
    Dynamics 365 will automatically create SharePoint folders for the Dynamics 365 for Sales entities. 
 
 9. Close the window when you're done.
 
-### Enable SharePoint document management
-
-1. In a browser window, go to your organization's Sales or Sales Hub instance [https://\<org name>.crm.dynamics.com]().
-
-2. In the upper-right corner of the screen, select the **Settings** button, and then select **Advanced Settings**.
-
-3. In the **Document Management** settings page, select **Document Management Settings**.
-
-4. Enter the URL for your SharePoint site, if it isn't filled in by default. Then select __Next__.
-
-5. Continue through the setup using the default values for the remaining options.
-
-   Dynamics 365 will automatically create SharePoint folders for the Dynamics 365 Sales entities. 
-   
-6. Close the window when you're done.
-
 ### Grant SharePoint permission
 
-1. Go to the SharePoint site you just associated with your Dynamics 365 for Sales instance.
+1. Go to your trial's SharePoint site: [https://\<org name\>.sharepoint.com]().
 
-2. In the upper-right corner of the SharePoint site's homepage, select **Share Site**.
+2. In the upper-right corner of the page, select **Share site**.
 
-3. Add users or groups from the Search bar.
+   ![Share site command](media/share-site.PNG "Share site command")
 
-4. Select **Share**.
+3. In the **Share** window, search for the group you created earlier, and then select the group name to add it to the site.
+
+4. Grant the group Edit permission by selecting the small arrow under the group name.
+
+   ![Edit share site](media/edit-share-site.PNG "Edit share site")
+
+5. Select **Share** to finish granting group access to SharePoint.
 
 ## Add 3D models to your products
 
 1. In a browser window, go to the Product List in the Sales or Sales Hub applications.
 
+   ![Product Navigation](media/products-navigation.PNG "Product Navigation")
+
 2. Open a product by selecting the product name.
 
 3. On the __Related__ tab, select __Documents__ to go to a view of the SharePoint Document location for that product.
 
+   ![Related tab](media/related-documents.PNG "Related tab")
+
 4. In the __Open Location__ drop-down list, select __Documents on Default Site 1__ to open the SharePoint location outside of Dynamics 365 for Sales.
+
+   ![Open Location](media/open-location.PNG "Open Location")
 
 5. Drag and drop your Model folder into this location. It will automatically show up in Product Visualize. Models should be added with the following folder structure:
     * \<Product>
