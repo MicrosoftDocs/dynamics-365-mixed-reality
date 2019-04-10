@@ -47,14 +47,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 3. In the navigation bar at the top of the page, select the down arrow next to __Settings__, and then select __Document Management__.
 
-
-
-<!--Do you mean for the hover text and alt text to be different?-->
-
-
-
-
-   ![Document Management settings](media/sharepoint.PNG "SharePoint")
+   ![Document Management settings](media/sharepoint.PNG "Document Managment settings")
 
 4. Select __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint.
 
@@ -125,11 +118,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 The Product Visualize mobile app requires permission to access the Dynamics 365 for Sales and SharePoint instances. As a global administrator, you can grant access to the entire organization so that each user doesn't have to do it individually.
 
-
-<!--Isn't the iOS App Store the Apple app site? Is this the only place you can go for the PV app?-->
-
-
-1. Download the __Microsoft Dynamics 365 Product Visualize__ app from the iOS App Store.
+1. Download the __Microsoft Dynamics 365 Product Visualize__ app from the Apple App Store.
 
 2. Open the app, select __Sign In__, and then sign in with the admin credentials for the Dynamics 365 for Sales instance.
 
