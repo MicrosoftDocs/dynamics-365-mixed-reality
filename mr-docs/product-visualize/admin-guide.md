@@ -348,7 +348,7 @@ The Product Visualize Control is an optional enhancement that allows salespeople
     > [!NOTE]
     > Importing a solution will replace any existing versions of that solution.
     
-    After the import process is complete, you'll see the **Importing Solutions** dialog box:
+    After the import process is complete, you'll see the **Importing Solution** dialog box:
 
    ![Import Complete](media/import-complete.PNG "Import Complete")
 
