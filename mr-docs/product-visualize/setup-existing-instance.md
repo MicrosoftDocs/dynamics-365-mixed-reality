@@ -131,5 +131,5 @@ You're now ready to use Product Visualize with all of your sales opportunities. 
   
 ### See also
 
-[Administrator Guide](admin-guide.md)
+[Administrator Guide](admin-guide.md)<br>
 [User Guide](user-guide.md)
