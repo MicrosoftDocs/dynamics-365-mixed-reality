@@ -86,7 +86,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 ## Add 3D models to your products
 
-1. In a browser window, go to the Sales or Sales Hub applicatiaon, and then in the left navigation, under **Collateral**, select **Products**.
+1. In a browser window, go to the Sales or Sales Hub application, and then in the left navigation, under **Collateral**, select **Products**.
 
    ![Product Navigation](media/products-navigation.PNG "Product Navigation")
 
