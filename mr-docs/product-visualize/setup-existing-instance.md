@@ -120,7 +120,7 @@ The Product Visualize mobile app requires permission to access the Dynamics 365 
 
 1. Download the __Microsoft Dynamics 365 Product Visualize__ app from the iOS App Store.
 
-2. Open the app, select __Sign In__, and then sign in with admin credentials for the Dynamics 365 for Sales instance.
+2. Open the app, select __Sign In__, and then sign in with the admin credentials for the Dynamics 365 for Sales instance.
 
 3. When prompted for permissions, select __Consent on behalf of your organization__.
 
@@ -131,5 +131,5 @@ You're now ready to use Product Visualize with all of your sales opportunities. 
   
 ### See also
 
-[Administrator Guide](admin-guide.md)<br>
 [User Guide](user-guide.md)
+[FAQ](faq.md)
