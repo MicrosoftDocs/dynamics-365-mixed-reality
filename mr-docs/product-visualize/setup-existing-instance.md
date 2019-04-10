@@ -30,7 +30,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 1. In a browser window, go to your organization's Sales or Sales Hub instance [https://\<org name>.crm.dynamics.com]().
 
-2. In the upper-right corner of the screen, click the **Settings** button, and then select **About**.
+2. In the upper-right corner of the screen, select the **Settings** button, and then select **About**.
 
 3. The **Server version** listed must be greater than **9.0** to work with Product Visualize.
 
