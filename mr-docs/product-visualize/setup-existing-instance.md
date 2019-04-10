@@ -92,7 +92,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 2. Open a product by selecting the product name.
 
-3. On the __Related__ tab, select __Documents__ to go to a view of the SharePoint Document location for that product.
+3. On the __Related__ tab, select __Documents__ to go to a view of the SharePoint document location for that product.
 
    ![Related tab](media/related-documents.PNG "Related tab")
 
