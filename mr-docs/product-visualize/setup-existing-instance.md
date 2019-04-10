@@ -116,11 +116,11 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 ## Accept app permissions
 
-The Product Visualize mobile app requires permission to access the Dynamics 365 for Sales and SharePoint instances. As a global administrator for the trial tenant you can grant access to the entire organization so that each user doesn't have to do it individually.
+The Product Visualize mobile app requires permission to access the Dynamics 365 for Sales and SharePoint instances. As a global administrator you can grant access to the entire organization so that each user doesn't have to do it individually.
 
 1. Download the __Microsoft Dynamics 365 Product Visualize__ app from the iOS App Store.
 
-2. Open the app, select __Sign In__, and then sign in with the trial environment's administrator credentials.
+2. Open the app, select __Sign In__, and then sign in with admin credentials for the Dynamics 365 for Sales instance.
 
 3. When prompted for permissions, select __Consent on behalf of your organization__.
 
@@ -129,3 +129,7 @@ The Product Visualize mobile app requires permission to access the Dynamics 365 
 ## Next steps
 You're now ready to use Product Visualize with all of your sales opportunities. The Product Visualize mobile app can be downloaded from the iOS App Store. Users can sign in with the same Azure Active Directory credentials that they use to connect to Dynamics 365 for Sales.
   
+### See also
+
+[Administrator Guide](admin-guide.md)
+[User Guide](user-guide.md)
