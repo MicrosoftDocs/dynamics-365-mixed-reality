@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Set up Dynamics 365 Product Visualize on an existing Dynamics 365 for Sales instance
 
-You can connect Microosft Dynamics 365 Product Visualize to a new or existing Dynamics 365 for Sales instance. This topic explains how to set it up on an existing Dyanmics 365 for Sales instance. If you don't already have Dynamics 365 for Sales, follow the instructions in the [Setup topic](setup.md) to sign up for a trial and get started today. 
+You can connect Microsoft Dynamics 365 Product Visualize to a new or existing Dynamics 365 for Sales instance. This topic explains how to set it up on an existing Dyanmics 365 for Sales instance. If you don't already have Dynamics 365 for Sales, follow the instructions in the [Setup topic](setup.md) to sign up for a trial and get started today. 
 
 ## Minimum requirements
 
