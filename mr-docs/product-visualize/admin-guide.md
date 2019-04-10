@@ -345,6 +345,9 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 
    ![Import Information](media/import-information.png "Import Information")
    
+    > [!NOTE]
+    > Importing a solution will replace any existing versions of that solution.
+   
 ### Customize the Opportunity page
 
 There are numerous ways you can customize your Opportunity page in Dynamics 365 for Sales. This procedure provides suggested customizations, but feel free to adapt to your needs.
