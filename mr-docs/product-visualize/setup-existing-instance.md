@@ -116,7 +116,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 ## Accept app permissions
 
-The Product Visualize mobile app requires permission to access the Dynamics 365 for Sales and SharePoint instances. As a global administrator you can grant access to the entire organization so that each user doesn't have to do it individually.
+The Product Visualize mobile app requires permission to access the Dynamics 365 for Sales and SharePoint instances. As a global administrator, you can grant access to the entire organization so that each user doesn't have to do it individually.
 
 1. Download the __Microsoft Dynamics 365 Product Visualize__ app from the iOS App Store.
 
