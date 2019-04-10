@@ -329,7 +329,7 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 
 ### Import the Product Visualize solution
 
-1. Download the **Product Visualize** solution from the [Microsoft Download Center](http://download.microsoft.com/download/5/5/2/5520DCD1-DF0E-4255-A7C9-5C95E80E0596/ProductVisualize.zip).
+1. [Download the **Product Visualize** solution](http://download.microsoft.com/download/5/5/2/5520DCD1-DF0E-4255-A7C9-5C95E80E0596/ProductVisualize.zip).
 
 2. Go to the Dynamics 365 Sales Hub.
 
