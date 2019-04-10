@@ -352,7 +352,7 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 
    ![Import Complete](media/import-complete.PNG "Import Complete")
 
-7. Select **Close** to close the **Import** dialog box.
+7. Select **Close**.
    
 ### Customize the Opportunity page
 
