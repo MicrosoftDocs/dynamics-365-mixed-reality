@@ -10,12 +10,11 @@ All geometry in the Dynamics 365 mixed reality applications uses the Khronos Gro
 > [!TIP] 
 > The Khronos Group provides a robust overview of best practices: [glTF Best Practices](https://aka.ms/glTFbestpractices).
 
-
 ## Parametric geometry vs. polygonal geometry
 
 Modeling tools in most CAD applications use sets of adjustable mathematical parameters to define parametric solids. Parametric solids are highly accurate volumes that can be used to carry out engineering simulations and manufacturing processes. glTF and real-time rendering applications require models to be represented as a triangulated polygon surface.
 
-compare-geometry SCREEEN SHOT GOES HERE
+![Parametric vs. polygonal geometry](media/compare-geometry.PNG "Parametric vs. polygonal geometry") 
 
 *Model visualized in Autodesk Inventor and Microsoft 3D Viewer*
 
@@ -34,7 +33,7 @@ Preparing CAD content for the Dynamics 365 mixed reality applications involves 3
 
 The following illustration shows a more detailed view of this process:
 
-overall-flow SCREEN SHOT GOES HERE
+![Overall flow](media/overall-flow.PNG "Overall flow") 
 
 A.	Create 3D models using the CAD software of your choice.
 B.	Convert CAD files to one of these file formats: FBX, OBJ, JT, STP, SKP.
