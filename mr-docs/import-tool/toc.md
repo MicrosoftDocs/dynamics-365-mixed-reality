@@ -7,5 +7,5 @@
 ## [Work with Dynamics 365 Layout](layout.md)
 ## [Work with Dynamics 365 Guides](guides.md)
 ## Tutorials
-### [Datasmith, Blender, and Import Tool](tutorial-1.md)
+### [Tutorial 1: Unreal Datasmith, Blender, and Import Tool](tutorial-1.md)
 ## [Additional resources](additional-resources.md)
