@@ -315,7 +315,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 8. Set the **Price List** to the one created earlier.
 
-9. Select the **Add New Opportunity Product** button. 
+9. Select the **Add New Opportunity...** button. 
 
 10. In the **Existing Product** field, select one of the products you created.
 
