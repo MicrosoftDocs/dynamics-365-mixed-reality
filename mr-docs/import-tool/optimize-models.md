@@ -12,8 +12,26 @@ The following table lists software tools that you can use to convert and/or opti
 
 |Software|Import|Export|Convert/transcode|Optimization|
 |---------------------------------|----------------------------------------|--------------------|--------------------|-------------------|
-|[PiXYZ Software]()|STEP, Catia, JT, OBJ, FBX, and more|glTF 2.0|Yes|Yes|
-|[Maxon Cinema 4D]()|SOLIDWORKS, STEP, Catia, JT, and IGES|FBX, glTF 2.0 [beta]|Yes|Yes|
-|[Simplygon Studios]()|FBX, OBJ|FBX|No|Yes|
-|[Unreal Datasmith]()|STEP, Catia, JT, OBJ, FBX, and more|FBX|Yes|No|
-|[Autodesk Inventor]()|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ|Yes|Yes|
+|[PiXYZ Software](https://aka.ms/Pixyz)|STEP, Catia, JT, OBJ, FBX, and more|glTF 2.0|Yes|Yes|
+|[Maxon Cinema 4D](https://aka.ms/MaxonCinema4D)|SOLIDWORKS, STEP, Catia, JT, and IGES|FBX, glTF 2.0 (beta)|Yes|Yes|
+|[Simplygon Studios](Simplygon Studios)|FBX, OBJ|FBX|No|Yes|
+|[Unreal Datasmith](https://aka.ms/UnrealDatasmithsoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX|Yes|No|
+|[Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ|Yes|Yes|
+
+Here's an example of CAD, converted, and optimized 3D models.
+
+|CAD|Converted to GLB|Optimized GLB|
+|------------------------------------------|----------------------------------------------|----------------------------------------------|
+|screen shot|screen shot|screen shot|
+|Original CAD file|52,000 triangles|9,000 triangles|
+
+## Performance targets
+
+The Dynamics 365 mixed reality applications can be used on HoloLens, immersive headsets, and mobile devices. The goal is to provide the highest possible visual fidelity without adversely affecting performance. 
+
+The following table lists some general conservative targets to aim for when acquiring or authoring 3D models for a range of hardware. When in doubt, target the mid-range profile for a balance of fidelity and performance. 
+
+||Low-scene complexity<br>screenshot|Medium scene complexity<br>screenshot|High scene complexity<br>screenshot|
+|--------------|---------------------------|-----------------------------------|-----------------------------------|
+|screen<br>HoloLens|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><100,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><30,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><10,000<br><br>**Materials:**<br>1-2 per object
+
