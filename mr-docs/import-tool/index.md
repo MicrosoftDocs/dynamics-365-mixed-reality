@@ -35,10 +35,10 @@ The following illustration shows a more detailed view of this process:
 
 ![Overall flow](media/overall-flow.PNG "Overall flow") 
 
-A.	Create 3D models using the CAD software of your choice.
-B.	Convert CAD files to one of these file formats: FBX, OBJ, JT, STP, SKP.
-C.	Optimize your 3D model and convert it to GLB.
-D.	Use the Dynamics 365 Import Tool to prepare content for HoloLens, immersive headsets, or mobile.
+A.	Create 3D models using the CAD software of your choice.<br>
+B.	Convert CAD files to one of these file formats: FBX, OBJ, JT, STP, SKP.<br>
+C.	Optimize your 3D model and convert it to GLB.<br>
+D.	Use the Dynamics 365 Import Tool to prepare content for HoloLens, immersive headsets, or mobile.<br>
 E.	3D models ready to be imported into the Dynamics 365 mixed reality applications.
 
 
