@@ -33,5 +33,8 @@ The following table lists some general conservative targets to aim for when acqu
 
 ||Low-scene complexity<br>screenshot|Medium scene complexity<br>screenshot|High scene complexity<br>screenshot|
 |--------------|---------------------------|-----------------------------------|-----------------------------------|
-|screen<br>HoloLens|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><100,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><30,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><10,000<br><br>**Materials:**<br>1-2 per object
+|screen<br>HoloLens|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><100,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><30,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><10,000<br><br>**Materials:**<br>1-2 per object|
+|screen<br>Immersive headsets|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><15,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><150,000<br><br>**Materials:**<br>1-2 per object|
+||screen<br>Mobile|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|Not applicable|Not applicable|
+
 
