@@ -144,9 +144,15 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 7. In the **Users** page, from the menu bar near the top of the page, select **Approve Email** so the user is synced by the server.
 
+   ![Approve Email](media/user-actions-email.PNG "Approve Email")
+
 8. On the menu bar, select **Manage Roles**.
 
+   ![Manage Roles](media/user-actions-roles.PNG "Manage Roles")
+
 9. Select the **"Sales, Enterprise app access"** and **"Salesperson"** options from the list, and then select **OK**.
+
+   ![Sales Role](media/manage-roles.PNG "Sales Role")
 
 ## Add products
 
