@@ -1,3 +1,3 @@
 
 
-# Optimize your 3D (CAD) models
+# Optimize your 3D models
