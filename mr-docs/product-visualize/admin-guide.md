@@ -146,7 +146,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 8. On the menu bar, select **Manage Roles**.
 
-9. Select the **"Sales, Enterprise app access"** and **Salesperson** options from the list, and then select **OK**.
+9. Select the **"Sales, Enterprise app access"** and **"Salesperson"** options from the list, and then select **OK**.
 
 ## Add products
 
