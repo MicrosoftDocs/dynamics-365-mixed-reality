@@ -47,7 +47,7 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
    ![Groups left-nav item](media/groups.PNG "Groups left-nav item")
 
-4. Near the top of the page, select the **Add a Group** button.
+4. Near the top of the page, select the **Add a group** button.
 
 5. Give the group a name and set the **Group Type** to **Office 365**.
 
@@ -73,7 +73,7 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 ## Add users
 
-The admin user created during the setup of your instance has full control of all aspects of your test environment. This user can administer your team's licenses, edit settings in Dynamics 365, and manage who has access to your services. The admin user can also add more users with more restrictive permissions so each salesperson can work with their own account.
+The admin user created during the setup of your instance has full control of all aspects of your trial environment. This user can administer your team's licenses, edit settings in Dynamics 365, and manage who has access to your services. The admin user can also add more users with more restrictive permissions so each salesperson can work with their own account.
 
 New users must first be added in the Azure Active Directory, which assigns them a username and password. Then, the user must be assigned a security role in Dynamics 365 so they can access the Dynamics 365 applications.
 
@@ -119,7 +119,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 10. Select **Close** to finish adding the user.
 
-    > [NOTE]
+    > [!NOTE]
     > It may take some time for users added to your organization to show up in Dynamics 365, so it's a good idea to add all the users to your organization before continuing.
 
 ### Assign a security role to the user
@@ -329,9 +329,9 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 
 ### Import the Product Visualize solution
 
-1. Download the **Product Visualize** solution from the [Microsoft Download Center](http://download.microsoft.com/download/5/5/2/5520DCD1-DF0E-4255-A7C9-5C95E80E0596/ProductVisualize.zip)
+1. [Download the **Product Visualize** solution](http://download.microsoft.com/download/5/5/2/5520DCD1-DF0E-4255-A7C9-5C95E80E0596/ProductVisualize.zip).
 
-2. Go to the Dynamics 365 Sales Hub.
+2. Go to the Dynamics 365 for Sales Hub.
 
 2. Select the **Settings** button, and then select **Advanced Settings**.
 
@@ -341,12 +341,18 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 
    ![Import Solution](media/import-solution.PNG "Import Solution")
  
-6. Proceed through the Import dialogs until complete
+6. In the **Solution Information** dialog box, select **Import** to begin the import process.
 
-   ![Import Information](media/import-information.png "Import Information")
+   ![Import Information](media/import-information.PNG "Import Information")
    
     > [!NOTE]
     > Importing a solution will replace any existing versions of that solution.
+    
+    After the import process is complete, you'll see the **Importing Solution** dialog box:
+
+   ![Import Complete](media/import-complete.PNG "Import Complete")
+
+7. Select **Close**.
    
 ### Customize the Opportunity page
 
@@ -418,11 +424,11 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 ### Add channels to the team
 
-1. In the **Teams and Channels** list, select the elipses (...) next to the team you just created.
+1. In the **Teams and Channels** list, select the **More Information** button (...) next to the team you just created.
 
 2. Select __Add Channel__. 
 
-3. Give the channel a name related to the opportunities you want to connect to it (ex: Seattle-area opportunities).
+3. Give the channel a name related to the opportunities you want to connect to it (example: Seattle-area opportunities).
 
 4. Select __Add__.
    
