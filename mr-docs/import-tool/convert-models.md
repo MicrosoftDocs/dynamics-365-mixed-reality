@@ -31,7 +31,7 @@ CAD models can be exported directly to glTF format or into intermediate formats 
 [Trimble Sketchup](https://aka.ms/SketchUp_glTF_Export)|Separate extensions for [import](https://aka.ms/Sketchupimport) and [export](https://aka.ms/sketchupexport)|
 |[Allegorithmic Substance Painter](https://aka.ms/SubstancePainter_glTF_Exporter)|Native exporter|
 |[SideFX Houdini](https://aka.ms/Houdini_glTF_Exporter)|Native import/export|
-|PluralSight Cinema 4D](https://www.pluralsight.com/browse/creative-professional/3d-vfx/cinema-4d-2?adobe_mc_ref=&utm_term=&aid=7010a000002LLQ2AAO&promo=&oid=&utm_source=non_branded&utm_medium=digital_paid_search_bing&utm_campaign=Bing_US_Courses_CDE_Cinema4d_E&utm_content=&s_kwcid=AL!5668!10!77584342505126!77584387031593&ef_id=W8kIKQAAAMMyqBeW%3A20190411225705%3As&adobe_mc_sdid=SDID%3D397AA90F5DBB519A-47326ED362A53096%7CMCORGID%3D70D658CC558978FF7F000101%2540AdobeOrg%7CTS%3D1555023433)|Native export|
+|[PluralSight Cinema 4D](https://www.pluralsight.com/browse/creative-professional/3d-vfx/cinema-4d-2?adobe_mc_ref=&utm_term=&aid=7010a000002LLQ2AAO&promo=&oid=&utm_source=non_branded&utm_medium=digital_paid_search_bing&utm_campaign=Bing_US_Courses_CDE_Cinema4d_E&utm_content=&s_kwcid=AL!5668!10!77584342505126!77584387031593&ef_id=W8kIKQAAAMMyqBeW%3A20190411225705%3As&adobe_mc_sdid=SDID%3D397AA90F5DBB519A-47326ED362A53096%7CMCORGID%3D70D658CC558978FF7F000101%2540AdobeOrg%7CTS%3D1555023433)|Native export|
 
 In situations where a CAD application doesn’t have an export option for FBX, OBJ, or glTF, you can export an intermediate file, such as [JT](https://aka.ms/Jtfileformat) or [STEP](https://aka.ms/STEPfileformat), and then process that file to create a glTF file. 
 
