@@ -49,6 +49,31 @@ ms.custom:
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
+                                                    <img alt="" src="images/Layout_outline_36px_blue.svg">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Import Tool (in Preview)</h3>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/index">Overview</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/convert-models">Convert your 3D (CAD) models</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/optimize-models">Optimize your 3D models</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/best-practices">Best practices for 3D models</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/import-tool">Use the Import Tool</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/layout">Work with Dynamics 365 Layout</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/guides">Work with Dynamics 365 Guides</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/tutorial-1">Tutorial 1: Unreal Datasmith, Blender, and Import Tool</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/additional-resources">Additional resources</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
                                                     <img alt="" src="/dynamics365/images/Layout_outline_36px_blue.svg">
                                                 </div>
                                             </div>
