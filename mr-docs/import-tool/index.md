@@ -18,7 +18,7 @@ Modeling tools in most CAD applications use sets of adjustable mathematical para
 
 *Model visualized in Autodesk Inventor and Microsoft 3D Viewer*
 
-A.	Parametric solid 3D model ready for simulation and manufacturing
+A.	Parametric solid 3D model ready for simulation and manufacturing<br>
 B.	Polygonal surface 3D model ready for real-time rendering
 
 ## Overall process for preparing 3D models
