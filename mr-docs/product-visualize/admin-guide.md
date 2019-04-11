@@ -138,6 +138,8 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 5. In the **Security** page, select **Users**.
 
+   ![User Settings](media/user-settings.PNG "User Settings")
+
 6. Select the name of the user you created.
 
 7. In the **Users** page, from the menu bar near the top of the page, select **Approve Email** so the user is synced by the server.
