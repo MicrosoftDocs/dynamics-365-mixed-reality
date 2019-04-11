@@ -136,7 +136,7 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
    ![Security settings](media/security.PNG "Security settings")
 
-5. In the **Security** page, select **Enabled Users**.
+5. In the **Security** page, select **Users**.
 
 6. Select the name of the user you created.
 
@@ -316,6 +316,8 @@ Opportunities represent a chance to sell your products to a customer. They captu
 8. Set the **Price List** to the one created earlier.
 
 9. Select the **Add New Opportunity...** button. 
+
+   ![Add New Opportunity Product](media/opportunity-product.PNG "Add New Opportunity Product")
 
 10. In the **Existing Product** field, select one of the products you created.
 
