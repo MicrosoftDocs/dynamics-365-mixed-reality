@@ -25,7 +25,7 @@ How you install the Import Tool depends on how your administrator chooses to dis
 
 To install the Import Tool from the Microsoft Store:
 
-- On your PC, go to **Start** > **Microsoft Store**, search for “Dynamics 365 Import Tool (Preview)," and then install the app. [Or go directly to the store url](https://www.microsoft.com/en-us/p/microsoft-dynamics-365-import-tool-preview/9nbf1cgb7khx?rtc=1&activetab=pivot:overviewtab).
+- On your PC, go to **Start** ![Start button](media/windows-button.PNG "Starta button") > **Microsoft Store** ![Store button](media/store-button.PNG "Store button") , search for “Dynamics 365 Import Tool (Preview)," and then install the app. [Or go directly to the store url](https://www.microsoft.com/en-us/p/microsoft-dynamics-365-import-tool-preview/9nbf1cgb7khx?rtc=1&activetab=pivot:overviewtab).
 
 ## Import Tool how to
 
