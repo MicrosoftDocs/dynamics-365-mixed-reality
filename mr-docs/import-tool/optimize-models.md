@@ -22,7 +22,7 @@ Here's an example of CAD, converted, and optimized 3D models.
 
 |CAD|Converted to GLB|Optimized GLB|
 |------------------------------------------|----------------------------------------------|----------------------------------------------|
-|![CAD illustration](media/CAD.PNG "CAD illustration")|![GLB illustration](media/GLB.PNG "GLB illustration")|![Optimized GLB illustration](media/optimized_GLB.PNG "Optimized GLB illustration")|
+|![CAD illustration](media/CAD.PNG "CAD illustration")|![GLB illustration](media/GLB.PNG "GLB illustration")|![Optimized GLB illustration](media/optimized-GLB.PNG "Optimized GLB illustration")|
 |Original CAD file|52,000 triangles|9,000 triangles|
 
 ## Performance targets
