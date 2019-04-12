@@ -7,8 +7,7 @@
 ## [Use the Import Tool](import-tool.md)
 ## [Work with Dynamics 365 Layout](layout.md)
 ## [Work with Dynamics 365 Guides](guides.md)
-## Tutorials
-### [Tutorial 1: Unreal Datasmith, Blender, and Import Tool](tutorial-1.md)
+## [Tutorial: Unreal Datasmith, Blender, and Import Tool](tutorial-1.md)
 ## [Additional resources](additional-resources.md)
 ## Terms of use
 ### [Import Tool (Preview)](../legal/import-tool-license-terms.md)
