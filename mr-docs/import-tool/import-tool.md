@@ -3,6 +3,7 @@
 # Use the Dynamics 365 Import Tool
 
 import-tool-flow Screenshot goes here
+
 Use the Import Tool to prepare your 3D models and Visio layouts to use in the Dynamics 365 mixed reality applications. You can also use the Import Tool to upload the 3D models and layouts for use with HoloLens, immersive headsets, and mobile devices.
 
 ## Requirements for using the Import Tool
