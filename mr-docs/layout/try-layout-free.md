@@ -12,7 +12,10 @@ ms.reviewer: v-brycho
 # Try Dynamics 365 Layout for free
 
 You can try Microsoft Dynamics 365 Layout for free for up to 90 days. Starting a free 90-day trial is nearly effortless. Just install 
-the Layout HoloLens app and the Import Tool PC app from the Microsoft Store, sign in with an Azure Active Directory (Azure AD) account, and then start using the apps without any obligation or restrictions. If you don't already have an Azure AD account, you'll be prompted to create a free account.
+the Layout HoloLens app from the Microsoft Store, sign in with an Azure Active Directory (Azure AD) account, and then start using the apps without any obligation or restrictions. If you don't already have an Azure AD account, you'll be prompted to create a free account.
+
+> [!NOTE]
+> You can also try the Dynamics 365 Import Tool (Preview) for free. You can use the Import Tool to prepare your 3D models for Dynamics 365 mixed reality applications. If you subscribe to Layout, you get the Import Tool as part of the Layout subscription. [Learn more about trying the Import Tool for 90 days for free().
 
 ## Install Layout and try it out for free
 
@@ -24,8 +27,6 @@ the Layout HoloLens app and the Import Tool PC app from the Microsoft Store, sig
 
 4. Start the app, and then sign in with an Azure AD account. If you don't already have an Azure AD account, the app will prompt you to 
 create a free account. Or you can [sign up for a free Azure AD account at this website](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-access-create-new-tenant). 
-
-5. To install the Import Tool for the PC, repeat steps 2 through 4, but search for "Dynamics 365 Import Tool (Preview)" in step 2.
 
 ### See also
 
