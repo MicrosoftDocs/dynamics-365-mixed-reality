@@ -11,5 +11,5 @@
 ### [Tutorial 1: Unreal Datasmith, Blender, and Import Tool](tutorial-1.md)
 ## [Additional resources](additional-resources.md)
 ## Terms of use
-### [Import Tool (Preview)]()
-### [Import Tool (Preview) free trial]()
+### [Import Tool (Preview)](../legal/import-tool-license-terms.md)
+### [Import Tool (Preview) free trial](../legal/import-tool-free-trial.md)
