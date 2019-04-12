@@ -38,3 +38,87 @@ remove-hidden-data Screenshot goes here
 
 *Wireframe and shaded model visualized in [Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)*
 
+## Reduce triangles
+
+- High triangle or vertex counts can hinder performance, especially on performance-constrained devices.
+
+- If the model usage is known ahead of time, you can make triangle reduction choices. Focus your reduction on less important areas with high mesh density to allow more detail in key areas.
+
+- Fine geometric surface details and material colors can often be replaced by baking them into normal, color, and ORM (occlusion, roughness, and metallic) maps for large triangle savings.
+
+reduce-triangles Screenshot goes here
+
+A.	Native CAD 3D model
+B.	Reduced triangle count polygonal model with normal map
+C.	Optimized model with normal map
+
+## Reduce draw calls
+
+- Draw calls refers to the number of graphical instructions per frame, which is the number of materials on screen. Reducing or consolidating materials on an object will help reduce draw calls.
+
+reduce-draw-calls Screenshot goes here
+
+*Consolidating multiple textures into a single texture reduces draw calls from 22 to 1 for this example*
+
+- The most common runtime performance bottlenecks can usually be attributed to a large number of draw calls. 
+
+- Create a [texture atlas](https://aka.ms/TextureAtlas) out of multiple materials and merge the meshes together to consolidate draw calls.
+
+## Reduce hierarchy complexity
+
+- Grouping, parenting, and large numbers of nodes such as nulls, locators, raw curves, meshes, and joints can contribute to poor runtime performance.
+
+- Simplify your hierarchy, remove unnecessary nodes, and combine meshes where possible.
+
+reduce-hierarchy Screenshot goes here
+
+*Meshes combined to reduce draw calls. Visualized in [Autodesk 3DS Max](https://aka.ms/3dsMax)*
+
+A.	Original hierarchy
+B.	Optimized hierarchy
+
+- glTF will create one mesh per material and atlas materials together to reduce node count and draw calls.
+
+## Increase distance between geometry faces
+
+- Flickering can occur when geometry faces are coplanar or nearly coplanar and is especially prevalent when the model is animated or moving from position to position in applications. This means the geometric faces are perfectly overlapping, causing what’s known as [Z-fighting](https://aka.ms/Zfighting).
+
+geometry-faces Screenshot goes here
+ 
+*Two shapes are nearly overlapping, causing the Z-fighting effect*
+
+- Increasing the distance between geometry faces by a small amount will resolve the flickering issues in most cases.
+
+## Flip inverted face normals
+
+- Inverted face normals can cause the model to be shaded incorrectly.
+
+- Flip the normals of the incorrectly shaded faces to resolve the rendering issues.
+
+inverted-face-normals Screenshot goes here
+	 
+*Face normals visualized in [Blender 2.8](https://aka.ms/blender2.8)*
+
+A.	3D model with normal flipped
+B.	3D model with fixed normal
+
+## Conflicting tangent basis
+
+- A conflicting tangent basis can cause your normal maps to appear inverted.
+
+conflicting-tangent-basis Screenshot goes here.
+
+*Tangent basis visualized in [Autodesk Maya](https://aka.ms/autodeskMaya)*
+
+A.	Normal map baked from a 3D model with a normal-flipped screw
+B.	The visible result of baking with a flipped normal object
+
+- If you don’t export tangents with your model, glTF and the real-time renderer will assume right-handedness.
+
+- Export your model with tangents if you are baking tangent space normal maps in a left-handed setup. Alternatively, you could invert the green channel (Y axis) of your normal map.
+
+
+
+
+
+
