@@ -9,6 +9,5 @@
 ## Terms of Use
 ### [Layout](../legal/layout-license-terms.md)
 ### [Layout free trial](../legal/layout-free-trial.md)
-### [Import Tool (Preview)](../legal/import-tool-license-terms.md)
-### [Import Tool (Preview) free trial](../legal/import-tool-free-trial.md)
+
 
