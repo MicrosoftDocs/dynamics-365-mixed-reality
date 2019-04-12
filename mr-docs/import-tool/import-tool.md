@@ -47,7 +47,7 @@ If you choose the **Send model to Microsoft** option, Microsoft will convert and
 
 4.	Select **Open**.
 
-5.	Select **Import using this PC*.
+5.	Select **Import using this PC**.
 
     ![Import using this PC option](media/import-using-pc-option.PNG "Import using this PC option") 
 
