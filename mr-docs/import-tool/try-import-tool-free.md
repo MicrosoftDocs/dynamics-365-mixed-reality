@@ -30,5 +30,5 @@ create a free account. Or you can [sign up for a free Azure AD account at this w
 
 ### See also
 
-[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
+[Overview of the Import Tool (Preview)](index.md)<br>
 [Buy and deploy Dynamics 365 Layout and Dynamics 365 Import Tool (Preview)]()
