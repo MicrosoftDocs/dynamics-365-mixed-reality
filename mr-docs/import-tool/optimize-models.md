@@ -20,6 +20,7 @@ The following table lists software tools that you can use to convert and/or opti
 
 <br>
 Here's an example of CAD, converted, and optimized 3D models.
+<br>
 
 |CAD|Converted to GLB|Optimized GLB|
 |------------------------------------------|----------------------------------------------|----------------------------------------------|
