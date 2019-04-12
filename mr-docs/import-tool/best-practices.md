@@ -97,7 +97,7 @@ This topic covers best practices for preparing 3D models to work with Dynamics 3
 
    ![Flip inverted face normals](media/inverted-face-normals.PNG "Flip inverted face normals") 
 	 
-   *Face normals visualized in [Blender 2.8](https://aka.ms/blender2.8)*
+  *Face normals visualized in [Blender 2.8](https://aka.ms/blender2.8)*
 
    A.	3D model with normal flipped<br>
    B.	3D model with fixed normal
