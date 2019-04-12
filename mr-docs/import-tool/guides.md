@@ -12,6 +12,6 @@ To find the files on your local drive using the Import Tool user interface:
 
 2.	Right-click the model, and then select **Open file location**.  
 
-    ![Locate file](media/locate-file.PNG "Locate file") 
+    ![Locate file](media/locate-model.PNG "Locate file") 
   
 3.	Browse to this location when you're ready to [import your own custom 3D objects in the PC authoring app](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/pc-authoring#import).
