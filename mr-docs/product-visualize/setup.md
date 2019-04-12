@@ -19,7 +19,7 @@ Microsoft Dynamics 365 Product Visualize requires an active Dynamics 365 for Sal
 The first thing you need to do is create a new Azure Active Directory organization. This new organization provides a safe environment to try out Product Visualize that won't interfere with any existing Dynamics 365 instances. You can also use this organization to create and manage users separate from your business organization.
 
    > [!NOTE]
-   > If you prefer to add Dynamics to an existing Azure Active Directory skip ahead to [Add a Dynamics 365 Customer Engagement trial](#add-a-dynamics-365-customer-engagement-trial)
+   > If you prefer to add Dynamics 365 for Sales to an existing Azure Active Directory skip ahead to [Add a Dynamics 365 Customer Engagement trial](#add-a-dynamics-365-customer-engagement-trial)
 
 1. Sign in to the Microsoft Azure portal at https://ms.portal.azure.com.
 
