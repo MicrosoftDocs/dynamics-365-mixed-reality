@@ -1,5 +1,6 @@
 # Dynamics 365 Import Tool (Preview)
 ## [Overview](index.md)
+## [Try the Import Tool free](try-import-tool-free.md)
 ## [Convert your 3D (CAD) models](convert-models.md)
 ## [Optimize your 3D models](optimize-models.md)
 ## [Best practices for real-time 3D models](best-practices.md)
