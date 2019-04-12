@@ -10,7 +10,7 @@ To use your 3D models with the Dynamics 365 mixed reality applications, you’ll
 
 The Import Tool provides two options for preparing your 3D models: 
 
-import-tool-options SCREEN SHOT GOES HERE
+![Import Tool options](media/import-tool-options.PNG "Import Tool options") 
 
 The following table describes the two options and the file formats supported for each:
 
