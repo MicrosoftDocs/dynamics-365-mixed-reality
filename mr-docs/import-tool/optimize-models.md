@@ -18,6 +18,7 @@ The following table lists software tools that you can use to convert and/or opti
 |[Unreal Datasmith](https://aka.ms/UnrealDatasmithsoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX|Yes|No|
 |[Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ|Yes|Yes|
 
+<br>
 Here's an example of CAD, converted, and optimized 3D models.
 
 |CAD|Converted to GLB|Optimized GLB|
