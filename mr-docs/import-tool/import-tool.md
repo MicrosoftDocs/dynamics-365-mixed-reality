@@ -54,7 +54,7 @@ If you choose the **Send model to Microsoft** option, Microsoft will convert and
 6.	Select **Apply**.
 
     > [!NOTE]
-    > The Import using this PC option isn’t available if any of your source models are not in GLB file format.
+    > The **Import using this PC** option isn’t available if any of your source models are not in GLB file format.
 
 ### Send models to Microsoft option
 
