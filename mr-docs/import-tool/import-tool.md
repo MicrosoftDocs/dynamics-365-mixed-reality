@@ -2,7 +2,7 @@
 
 # Use the Dynamics 365 Import Tool
 
-import-tool-flow Screenshot goes here
+![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
 
 Use the Import Tool to prepare your 3D models and Visio layouts to use in the Dynamics 365 mixed reality applications. You can also use the Import Tool to upload the 3D models and layouts for use with HoloLens, immersive headsets, and mobile devices.
 
@@ -31,7 +31,7 @@ To install the Import Tool from the Microsoft Store:
 
 The Import Tool provides two options for preparing your 3D models: 
 
-IMPORT TOOL SCREENSHOT GOES HERE
+![Import Tool options](media/import-tool-options.PNG "Import Tool options") 
  
 If you choose the **Import using this PC** option, you’ll need to prepare your models yourself using the instructions in the previous sections of this guide. 
 
@@ -49,7 +49,7 @@ If you choose the **Send model to Microsoft** option, Microsoft will convert and
 
 5.	Select **Import using this PC*.
 
-import-using-pc-option
+    ![Import using this PC option](media/import-using-pc-option.PNG "Import using this PC option") 
 
 6.	Select **Apply**.
 
@@ -68,7 +68,7 @@ import-using-pc-option
  
 5.	Select **Send model to Microsoft**.
 
-send-model-microsoft Screenshot goes here.
+    ![Send model to Microsoft option](media/send-model-microsoft.PNG "Send model to Microsoft option")
 
 6.	Under **Enter your email address**, enter the email address where Microsoft can contact you when the model is ready.
 
@@ -80,7 +80,7 @@ send-model-microsoft Screenshot goes here.
 
     Microsoft will send you the following email notification to confirm that the model has been sent:
     
-confirmation-email Screen shot goes here
+    ![Confirmation email](media/confirmation-email.PNG "Confirmation email") 
 
     Microsoft will update you on the progress of the manual optimization through email and will let you know when the model is ready to download.
 
@@ -88,7 +88,7 @@ confirmation-email Screen shot goes here
 
 When you send your model to Microsoft, it’s uploaded to a secure location. Microsoft prepares the model using a combination of automated and manual steps. Microsoft will provide a download link when the model is ready. After you download it, your model is deleted from the secure storage area.  
 
-what-happens Screen shot goes here
+![Model preparation](media/what-happens.PNG "Model preparation") 
 
 ### Download a model after it’s been converted and optimized by Microsoft
 
@@ -96,7 +96,8 @@ what-happens Screen shot goes here
 
 2.	Right-click the model that was submitted for manual processing, and then select **Download from Microsoft**.
 
-download-model Screen shot goes here
+    ![Download model](media/download-model.PNG "Download model") 
+
 
 ### Locate your converted assets
 
@@ -106,7 +107,7 @@ Files created with the Import Tool are stored locally. To find the files on your
 
 2.	Right-click a model, and then select **Open file location**.
 
-locate-model Screen shot goes here
+    ![Locate model](media/locate-model.PNG "Locate model")
 
 ### Provide feedback on the quality of processed 3D models
 
@@ -116,10 +117,10 @@ You can provide feedback on the quality of processed 3D models if you're not sat
 
 2.	At the bottom of the **Properties** tab, under **How does the model look?**, select **Looks good** or **Looks broken** to record your feedback.
 
-feedback Screen shot goes here.
+    ![Provide feedback](media/feedback.PNG "Provide feedback") 
 
-   > [!NOTE] 
-   > You can't update feedback after you submit it.
+    > [!NOTE] 
+    > You can't update feedback after you submit it.
 
 
 
