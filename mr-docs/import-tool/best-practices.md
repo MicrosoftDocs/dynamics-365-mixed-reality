@@ -12,7 +12,7 @@ This topic covers best practices for preparing 3D models to work with Dynamics 3
 
    ![Single color](media/PBR.PNG "Single color") 
 
-   A.	High performance single color 3D model with no PBR system
+   A.	High performance single color 3D model with no PBR system<br>
    B.	3D model using the PBR system for higher-quality representation
 
 ## Reduce textures
@@ -21,7 +21,7 @@ This topic covers best practices for preparing 3D models to work with Dynamics 3
 
    ![Decrease roughness map](media/roughness-map.PNG "Decrease roughness map") 
 
-   A.	Model with roughness map texture of 2048 x 2048
+   A.	Model with roughness map texture of 2048 x 2048<br>
    B.	Model with roughness map texture of 1024 x 1024
 
 - Reducing the resolution and the amount of textures will have the largest impact on memory consumption and file size.
@@ -48,8 +48,8 @@ This topic covers best practices for preparing 3D models to work with Dynamics 3
 
    ![Reduce triangles](media/reduce-triangles.PNG "Reduce triangles") 
 
-   A.	Native CAD 3D model
-   B.	Reduced triangle count polygonal model with normal map
+   A.	Native CAD 3D model<br>
+   B.	Reduced triangle count polygonal model with normal map<br>
    C.	Optimized model with normal map
 
 ## Reduce draw calls
@@ -74,7 +74,7 @@ This topic covers best practices for preparing 3D models to work with Dynamics 3
 
    *Meshes combined to reduce draw calls. Visualized in [Autodesk 3DS Max](https://aka.ms/3dsMax)*
 
-   A.	Original hierarchy
+   A.	Original hierarchy<br>
    B.	Optimized hierarchy
 
 - glTF will create one mesh per material and atlas materials together to reduce node count and draw calls.
@@ -99,7 +99,7 @@ This topic covers best practices for preparing 3D models to work with Dynamics 3
 	 
    *Face normals visualized in [Blender 2.8](https://aka.ms/blender2.8)*
 
-   A.	3D model with normal flipped
+   A.	3D model with normal flipped<br>
    B.	3D model with fixed normal
 
 ## Conflicting tangent basis
@@ -110,7 +110,7 @@ This topic covers best practices for preparing 3D models to work with Dynamics 3
 
    *Tangent basis visualized in [Autodesk Maya](https://aka.ms/autodeskMaya)*
 
-   A.	Normal map baked from a 3D model with a normal-flipped screw
+   A.	Normal map baked from a 3D model with a normal-flipped screw<br>
    B.	The visible result of baking with a flipped normal object
 
 - If you don’t export tangents with your model, glTF and the real-time renderer will assume right-handedness.
