@@ -87,6 +87,38 @@ confirmation-email Screen shot goes here
 
 When you send your model to Microsoft, it’s uploaded to a secure location. Microsoft prepares the model using a combination of automated and manual steps. Microsoft will provide a download link when the model is ready. After you download it, your model is deleted from the secure storage area.  
 
+what-happens Screen shot goes here
+
+### Download a model after it’s been converted and optimized by Microsoft
+
+1.	Open the Import Tool.
+
+2.	Right-click the model that was submitted for manual processing, and then select **Download from Microsoft**.
+
+download-model Screen shot goes here
+
+### Locate your converted assets
+
+Files created with the Import Tool are stored locally. To find the files on your local drive:
+
+1.	Open the Import Tool.
+
+2.	Right-click a model, and then select **Open file location**.
+
+locate-model Screen shot goes here
+
+### Provide feedback on the quality of processed 3D models
+
+You can provide feedback on the quality of processed 3D models if you're not satisfied.
+
+1.	Select the **Models** or **All** tab, and then select the model you want to provide feedback on.
+
+2.	At the bottom of the **Properties** tab, under **How does the model look?**, select **Looks good** or **Looks broken** to record your feedback.
+
+feedback Screen shot goes here.
+
+   > [!NOTE] 
+   > You can't update feedback after you submit it.
 
 
 
