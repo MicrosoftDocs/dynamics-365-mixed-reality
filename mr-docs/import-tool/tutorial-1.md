@@ -67,13 +67,13 @@ Datasmith can import multiple file formats, including several native CAD formats
     
  4. Select **Empty Level**.
     
-    ![Launch Unreal Engine](media/empty-level.PNG "Launch Unreal Engine")
+    ![Empty level](media/empty-level.PNG "Empty level")
     
 ## Import the model into the project
 
 1.	In the **Import Datasmith** drop-down list at the top of the screen, select **Import CAD**.
     
-    ![Launch Unreal Engine](media/import-CAD.PNG "Launch Unreal Engine")
+    ![Import CAD](media/import-cad.PNG "Import CAD")
     
 
 
