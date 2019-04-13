@@ -92,7 +92,7 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 ## How do I import AutoCAD models?
 
-You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the Import Tool to send your models to Microsoft to convert and optimize. After converting and optimizing the models, you use the Import Tool to import them into Layout. [Learn more about the Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
+You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the Import Tool to send your models to Microsoft to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the Import Tool to import them into Layout. [Learn more about the Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
 
 ## How does the [!include[pn-import-tool](../includes/pn-import-tool.md)] process my 3D models?
 
