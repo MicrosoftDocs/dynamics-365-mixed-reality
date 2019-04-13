@@ -27,7 +27,7 @@ To see the version number for Layout, go to **Settings** > **About**.
 
 To see the version number for the Import Tool, go to **Settings**, and then look in the **About** section.
 
-## Do I need the Layout apps for both HoloLens and Windows Mixed Reality?
+## Do I need the Layout apps for both HoloLens and Windows Mixed Reality immersive headsets?
 
 No, you can use each app separately, though they do work together as well. If
 you want to copy 3D models or layouts from your PC to your [!include[pn-hololens](../includes/pn-hololens.md)] or to
