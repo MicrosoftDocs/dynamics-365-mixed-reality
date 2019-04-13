@@ -55,13 +55,15 @@ Datasmith can import multiple file formats, including several native CAD formats
     
  2.	Select **New Project**, and then select the **Blank** button.
  
-    ![Launch Unreal Engine](media/new-project.PNG "Launch Unreal Engine")
+    ![New Project](media/new-project.PNG "New Project")
     
     This will open a blank scene that we’ll replace with an empty level.
     
+    ![Blank scene](media/blank-scene.PNG "Blank scene")
+    
  3.	On the **File** menu, select **New Level**.
     
-    ![Launch Unreal Engine](media/new-level.PNG "Launch Unreal Engine")
+    ![New level](media/new-level.PNG "New level")
     
  4. Select **Empty Level**.
     
