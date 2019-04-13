@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 01/16/2019
+ms.date: 04/18/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
@@ -13,31 +13,27 @@ ms.reviewer: v-brycho
 
 Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-**Can I try Layout before buying it?**
+## Can I try Layout before buying it?
 
 Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a free trial for up to 90 days. It's nearly effortless to install and try out the app. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md). Note that the 90-day free trial is only available for users who haven't already purchased a subscription. 
 
-**How do I buy [!include[pn-layout](../includes/pn-layout.md)]?**  
+## How do I buy [!include[pn-layout](../includes/pn-layout.md)]?  
 
 If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-layout.md). 
 
-**Can I still use the preview app?**
-
-No, the preview period has ended. Learn how to [subscribe to Dynamics 365 Layout](../licensing/buy-and-deploy.md) or [sign up for a free 90-day trial](try-layout-free.md). 
-
-**How can I tell which version I'm using?**
+## How can I tell which version I'm using?
 
 To see the version number for Layout, go to **Settings** > **About**.
 
 To see the version number for the Import Tool, go to **Settings**, and then look in the **About** section.
 
-**Do I need the Layout apps for both HoloLens and Windows Mixed Reality?**
+## Do I need the Layout apps for both HoloLens and Windows Mixed Reality?
 
 No, you can use each app separately, though they do work together as well. If
 you want to copy 3D models or layouts from your PC to your [!include[pn-hololens](../includes/pn-hololens.md)] or to
 Windows Mixed Reality, you’ll need the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
-**What are the technical requirements for running the [!include[pn-layout](../includes/pn-layout.md)] apps?**
+## What are the technical requirements for running the [!include[pn-layout](../includes/pn-layout.md)] apps?
 
 -   [!include[pn-hololens](../includes/pn-hololens.md)]: Your headset must be running the [Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643). 
@@ -53,40 +49,40 @@ Windows Mixed Reality, you’ll need the [!include[cc-microsoft](../includes/cc-
 
 [Learn more about device options and technical requirements.](requirements.md)
 
-**Do I need an [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account to use [!include[pn-layout](../includes/pn-layout.md)]?**
+## Do I need an [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account to use [!include[pn-layout](../includes/pn-layout.md)]?
 
 Yes, if you’re the admin, you’ll need an [!include[pn-azure](../includes/pn-azure.md)] AD account to distribute the
 apps, and users of [!include[pn-layout](../includes/pn-layout.md)] and the [!include[pn-import-tool](../includes/pn-import-tool.md)] will need an [!include[pn-azure](../includes/pn-azure.md)] AD account to
 sign in to the apps.
 
-**How often is [!include[pn-layout](../includes/pn-layout.md)] updated?**
+## How often is [!include[pn-layout](../includes/pn-layout.md)] updated?
 
 [!include[pn-layout](../includes/pn-layout.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
 
-**Can I use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)]?**
+## Can I use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)]?
 
 You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)] but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
 
-**Do I need to be connected to Wi-Fi to use [!include[pn-layout](../includes/pn-layout.md)]?**
+## Do I need to be connected to Wi-Fi to use [!include[pn-layout](../includes/pn-layout.md)]?
 
 If you want to convert 3D models using the [!include[pn-import-tool](../includes/pn-import-tool.md)], you’ll need a Wi-Fi
 connection if you use the cloud service option. If you choose to convert files
 using the PC option, you don’t need a Wi-Fi connection.
 
-**Can I change the unit of measure in the [!include[pn-layout](../includes/pn-layout.md)] app to metric?**
+## Can I change the unit of measure in the [!include[pn-layout](../includes/pn-layout.md)] app to metric?
 
 Yes, you can choose between U.S. and metric units from **Settings** \>
 **Measurements** \> **Unit of measure**.
 
-**What languages is [!include[pn-layout](../includes/pn-layout.md)] available in?**
+## What languages is [!include[pn-layout](../includes/pn-layout.md)] available in?
 
 At this time, [!include[pn-layout](../includes/pn-layout.md)], the [!include[pn-import-tool](../includes/pn-import-tool.md)], and the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-layout](../includes/pn-layout.md)] are
 available only in English. Additionally, to install the Add-in, you’ll need to
 [set the display language for Microsoft Office to
 English](https://support.office.com/article/add-an-editing-language-or-set-language-preferences-in-office-663d9d94-ca99-4a0d-973e-7c4a6b8a827d).
 
-**Where is [!include[pn-layout](../includes/pn-layout.md)] available?**
+## Where is [!include[pn-layout](../includes/pn-layout.md)] available?
 
 [!include[pn-layout](../includes/pn-layout.md)] is available worldwide. [!include[pn-layout](../includes/pn-layout.md)] can be used with [!include[pn-hololens](../includes/pn-hololens.md)] or a Mixed Reality headset/motion controller and a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Ultra PC.
 
@@ -94,15 +90,13 @@ English](https://support.office.com/article/add-an-editing-language-or-set-langu
 
 Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
 
-**How does the [!include[pn-import-tool](../includes/pn-import-tool.md)] process my 3D models?**
+## How do I import AutoCAD models?
 
-You can prepare your 3D models yourself using third-party tools, and then use the Import Tool to import them into Layout, or you can use the Import Tool to send your models to Microsoft to convert and optimize. [earn more about the Import Tool]https://review.docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/?branch=BryceHo-Import-Tool).
+You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the Import Tool to send your models to Microsoft to convert and optimize. After converting and optimizing the models, you use the Import Tool to import them into Layout. [Learn more about the Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
 
-**How do I import AutoCAD models?**
+## How does the [!include[pn-import-tool](../includes/pn-import-tool.md)] process my 3D models?
 
-Currently DWG files are not supported. To import an AutoCAD file, export the
-model as FBX from AutoCAD, and then define the textures in Blender or 3DS Max.
-Export again as FBX and use the [!include[pn-import-tool](../includes/pn-import-tool.md)] cloud option.
+If you send your model to Microsoft for converstion and optimization, it’s uploaded to a secure location. Microsoft prepares the model using a combination of automated and manual steps. Microsoft provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
