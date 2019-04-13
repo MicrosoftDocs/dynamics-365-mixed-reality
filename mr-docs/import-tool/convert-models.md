@@ -21,7 +21,7 @@ The following table describes the two options and the file formats supported for
 
 ## Tools for exporting CAD models
 
-CAD models can be exported directly to glTF format or into intermediate formats that can be subsequently processed into glTF files. If your content creation application does not have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat) or [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file), if available. You can use any of these third-party applications to import FBX or OBJ files, and export them as glTF/GLB files.
+CAD models can be exported directly to glTF format or into intermediate formats that can be subsequently processed into glTF files. If your content creation application does not have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat) or [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file), if available. Third-party applications are available to import FBX or OBJ files and export them as glTF/GLB files. Your use of third-party applications is subject to terms between you and the third party. Microsoft does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
 
 |Contect creation package|Description|
 |-----------------------------------------------|---------------------------------------------------------------|
