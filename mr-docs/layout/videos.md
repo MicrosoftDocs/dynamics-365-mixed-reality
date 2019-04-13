@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Watch these short videos to get up and running with Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 01/18/2019
+ms.date: 04/18/2019
 ms.service: crm-online
 ms.topic: article
 title: How-to videos for Dynamics 365 Layout
@@ -33,8 +33,6 @@ Looking for more help? Check out our [User Guide](user-guide.md).
 
 ## Dynamics 365 Import Tool (Preview) for PC
 
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RWqyMw" frameborder="0" allowfullscreen=""></iframe></div>
-</br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RWqjaR" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RWqDZa" frameborder="0" allowfullscreen=""></iframe></div>
