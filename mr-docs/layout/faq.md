@@ -96,7 +96,7 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 **How does the [!include[pn-import-tool](../includes/pn-import-tool.md)] process my 3D models?**
 
-There are three options for preparing 3D models for HoloLens or Mixed Reality headsets. You can use the [!include[cc-microsoft](../includes/cc-microsoft.md)] Cloud Service, your PC, or you can convert your models without optimizing them. [Learn more.](user-guide.md#file-types-and-guidelines)
+You can prepare your 3D models yourself using third-party tools, and then use the Import Tool to import them into Layout, or you can use the Import Tool to send your models to Microsoft to convert and optimize. [earn more about the Import Tool]https://review.docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/?branch=BryceHo-Import-Tool).
 
 **How do I import AutoCAD models?**
 
