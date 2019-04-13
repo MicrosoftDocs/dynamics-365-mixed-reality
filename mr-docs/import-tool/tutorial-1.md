@@ -49,5 +49,19 @@ Datasmith can import multiple file formats, including several native CAD formats
 
 ### Set up a new project and scene
 
-1.	Click Launch Unreal Engine from the Epic Games Welcome page.
+1.	Select **Launch Unreal Engine** from the Epic Games Welcome page.
+
+    ![Launch Unreal Engine](media/splash.PNG "Launch Unreal Engine")
+    
+ 2.	Select **New Project**, and then select the **Blank** button.
+ 
+    ![Launch Unreal Engine](media/new-project.PNG "Launch Unreal Engine")
+    
+    ![Launch Unreal Engine](media/new-level.PNG "Launch Unreal Engine")
+    
+    ![Launch Unreal Engine](media/empty-level.PNG "Launch Unreal Engine")
+    
+    ![Launch Unreal Engine](media/import-CAD.PNG "Launch Unreal Engine")
+    
+
 
