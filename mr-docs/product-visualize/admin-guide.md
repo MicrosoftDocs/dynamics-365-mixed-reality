@@ -136,15 +136,23 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
    ![Security settings](media/security.PNG "Security settings")
 
-5. In the **Security** page, select **Enabled Users**.
+5. In the **Security** page, select **Users**.
+
+   ![User Settings](media/user-settings.PNG "User Settings")
 
 6. Select the name of the user you created.
 
 7. In the **Users** page, from the menu bar near the top of the page, select **Approve Email** so the user is synced by the server.
 
+   ![Approve Email](media/user-actions-email.PNG "Approve Email")
+
 8. On the menu bar, select **Manage Roles**.
 
-9. Select the **Sales, Enterprise app access** and **Salesperson** options from the list, and then select **OK**.
+   ![Manage Roles](media/user-actions-roles.PNG "Manage Roles")
+
+9. Select the **"Sales, Enterprise app access"** and **"Salesperson"** options from the list, and then select **OK**.
+
+   ![Sales Role](media/manage-roles.PNG "Sales Role")
 
 ## Add products
 
@@ -315,7 +323,9 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 8. Set the **Price List** to the one created earlier.
 
-9. Select the **Add New Opportunity Product** button. 
+9. Select the **Add New Opportunity** button. 
+
+   ![Add New Opportunity Product](media/opportunity-product.PNG "Add New Opportunity Product")
 
 10. In the **Existing Product** field, select one of the products you created.
 
