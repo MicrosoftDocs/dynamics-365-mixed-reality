@@ -126,6 +126,10 @@ This topic covers best practices for preparing 3D models to work with Dynamics 3
 
 - Export your model with tangents if you are baking tangent space normal maps in a left-handed setup. Alternatively, you could invert the green channel (Y axis) of your normal map.
 
+[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
+[Convert 3D models](convert-models.md)<br>
+[Optimize 3D models](optimize-models.md)<br>
+[Use the Import Tool](import-tool.md)
 
 
 
