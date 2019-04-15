@@ -1,4 +1,13 @@
-
+---
+author: BryceHo
+description: Tutorial that shows how to use Unreal Datasmith, Blender, and the Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed reality applications.
+ms.author: BryceHo
+ms.date: 04/18/2019
+ms.service: crm-online
+ms.topic: article
+title: Use Unreal Datasmith, Blender, and the Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed reality applications
+ms.reviewer: v-brycho
+---
 
 # Tutorial 1: Unreal Datasmith, Blender, and Dynamics 365 Import Tool
 
