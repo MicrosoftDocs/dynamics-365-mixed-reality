@@ -95,6 +95,12 @@ To use the layout on HoloLens, you need to move it there:
 
 If you used the Import Tool to import your 3D models, they’re already available for immersive headsets. You can find them in your **3D objects** folder. 
 
+### See also
+[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
+[Convert 3D models](convert-models.md)<br>
+[Optimize 3D models](optimize-models.md)<br>
+[Best practices for converting and optimizing 3D models](best-practices.md)<br>
+[Use the Import Tool](import-tool.md)
     
 
 
