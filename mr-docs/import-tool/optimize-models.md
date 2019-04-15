@@ -41,7 +41,7 @@ The following table lists some general conservative targets to aim for when acqu
 
 ## Import Tool limitations
 
-- Existing transforms of your model off of the 3D origin (0,0,0) will not be preserved, however relative offsets between models that are imported as one instance will be preserved. The Import tool creates a bounding box that encompasses all geometry in the imported scene and places a new origin point at the center of the bottom surface of that bounding box.
+- The Import tool creates a bounding box that encompasses all geometry in the imported scene and places a new origin point at the center of the bottom surface of that bounding box.
 
 - Transparency in materials such as glass in a 3D model are not supported.
 
