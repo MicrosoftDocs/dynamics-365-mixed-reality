@@ -1,7 +1,17 @@
+---
+author: BryceHo
+description: Requirements for installing the Dynamics 365 Import Tool (Preview)
+ms.author: BryceHo
+ms.date: 04/18/2019
+ms.service: crm-online
+ms.topic: article
+title: Requirements for installing the Dynamics 365 Import Tool (Preview)
+ms.reviewer: v-brycho
+---
 
-# Requirements for using the Import Tool (Preview)
+# Requirements for installing the Dyanmics 365 Import Tool (Preview)
 
-To use the Import Tool, you need the following:
+To install and use the Import Tool, you need the following:
 
 - [A subscription to Dynamics 365 Layout](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/buy-and-deploy-layout). The 
 Layout subscription includes a subscription to the Import Tool.
