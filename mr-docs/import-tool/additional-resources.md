@@ -1,4 +1,13 @@
-
+---
+author: BryceHo
+description: Additional resources for converting and optimizing 3D models to use with the Dynamics 365 Import Tool (Preview)
+ms.author: cynielse
+ms.date: 02/24/2019
+ms.service: crm-online
+ms.topic: article
+title: Additional resources for converting and optimizing 3D models to use with the Dynamics 365 Import Tool (Preview)
+ms.reviewer: v-brycho
+---
 
 # Additional resources
 
