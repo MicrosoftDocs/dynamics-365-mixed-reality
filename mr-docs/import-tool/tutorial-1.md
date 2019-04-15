@@ -78,7 +78,7 @@ Datasmith can import multiple file formats, including several native CAD formats
     
     ![Empty level](media/empty-level.PNG "Empty level")
     
-## Import the model into the project
+### Import the model into the project
 
 1.	In the **Import Datasmith** drop-down list at the top of the screen, select **Import CAD**.
     
@@ -96,7 +96,7 @@ Datasmith can import multiple file formats, including several native CAD formats
 
     import-options SCREENSHOT GOES HERE
     
-## Reorient the model (if needed)
+### Reorient the model (if needed)
 
 Unreal uses Z as the up direction for its coordinates.
 
@@ -110,7 +110,7 @@ If your model is imported with the wrong vertices up:
     
     Changing the X rotation on the **Transform** tab to -90 usually fixes this problem.
     
-## Export the model as an OBJ file
+### Export the model as an OBJ file
 
 1.	On the **File** menu, select **Export All**.
 
@@ -124,7 +124,7 @@ If your model is imported with the wrong vertices up:
 
     export-materials-as-images SCREENSHOT GOES HERE
     
-## More info on Datasmith
+### More info on Datasmith
 
 Use these links to learn about more advanced optimizations you can do with Datasmith:
 
@@ -135,6 +135,64 @@ Use these links to learn about more advanced optimizations you can do with Datas
 - [Removing fully occluded meshes](https://aka.ms/DatasmithJacketing)
 
 - [Considerations when importing native CAD 3D models with Datasmith](https://aka.ms/DatasmithGuideCAD)
+
+## Use Blender to optimize the model
+
+In this part of the tutorial we’ll take the OBJ file that was converted from native CAD format with Datasmith and optimize it through decimation and texture baking to meet the requirements for Dynamics 365 mixed reality applications.
+
+The overall steps for optimizing with Blender include:
+
+1.	Import the model into Blender.
+
+2.	Decimate the model.
+
+3.	UV wrap the model.
+
+4.	Assign materials.
+
+5.	Bake the textures.
+
+6.	Export the model.
+
+### Import the model into Blender
+
+1.	Open Blender 2.8. A new scene will automatically be created.
+
+2.	Right-click the cube and delete it.
+
+    delete-cube SCREENSHOT GOES HERE
+    
+3.	Go to **File** > **Import** > **Wavefront (.obj)** to import the OBJ file that you exported from Datasmith.
+
+    import-obj SCREENSHOT GOES HERE
+    
+4. In the **Import** screen:
+   
+   a. Make sure to clear the **Object** and **Group** check boxes and select the **Image search** check box.
+   
+      check-boxes SCREENSHOT GOES HERE
+      
+   b. Select **Import OBJ** on the right side of the screen. This will import the 3D model as one item and search in the sub folder for the materials that we exported in Datasmith.
+   
+      import-object-2 SCREEN SHOT GOES HERE
+      
+      > [!TIP]
+      > If your 3D model is extremely large and hard to see, you can use the middle mouse wheel to scroll until it’s visible.
+      
+      large-model SCREENSHOT GOES HERE
+      
+      > [!TIP]
+      > If your 3D model appears grey, select the **Look Dev** shading option to show the colors.
+      
+      look-dev-shading SCREENSHOT GOES HERE      
+      
+      Now you can see your 3D model with the imported materials:
+      
+      At the bottom right of the screen, you can see your Tris count (percentage of polygons removed). [If this number falls in line with your object's desired resolution](optimize-models), you can skip the decimation step and go directly to the UV Unwrapping section. If not, continue to the next section to decimate the 3D model. 
+      
+      tris-count SCREENSHOT GOES HERE
+      
+      
 
 
 
