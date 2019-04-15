@@ -28,3 +28,8 @@ Layout subscription includes a subscription to the Import Tool.
   - [Learn more about the free 90-day Layout trial](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/try-layout-free).
   
   - [Learn more about the free 90-day Import Tool (Preview) trial](try-import-tool-free.md).
+
+### See also
+[Try the Import Tool free for 90 days](try-import-tool-free.md)<br>
+[Install the Import Tool](install.md)<br>
+[Use the Import Tool](import-tool.md)
