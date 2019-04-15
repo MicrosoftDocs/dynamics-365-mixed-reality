@@ -248,16 +248,74 @@ To start the process:
     
     duplicate-objects SCREEN SHOT GOES HERE
     
-    
-    
-    
-    
+### Prepare materials for texture baking
+
+1.	Select the second model, and then go to the materials panel by selecting the **Materials** tab in the menu on the bottom right.
+
+    materials-menu SCREEN SHOT GOES HERE
     
 
-
-
-
+2.	Delete all the materials for the duplicate 3D model by selecting the minus sign to the right of the materials, or if you have a lot of materials, you can use a Python command to delete them all at once:
     
+    a.	Open the Python Console (accessible through the icon at the bottom left of the screen or by pressing Shift+F4).
+    
+        python-console SCREEN SHOT GOES HERE
+    
+    b.	Use the following Python command to delete all the materials at once:
+Bpy.context.active_object.data.materials.clear()
+
+        python-command SCREEN SHOT GOES HERE
+
+3.	To hide the original 3D model and show just the duplicate, select the eye to the right of its name. Notice that there are no materials on the duplicate. 
+
+    hide-original SCREEN SHOT GOES HERE, MISSING SCREEN SHOT
+    
+4.	Select the plus sign to add a new material to the duplicate.
+
+    plus-sign SCREEN SHOT GOES HERE
+    
+5.	Select **New** to add a new material to the material slot.
+
+    new-material SCREEN SHOT GOES HERE
+    
+6.	Hover your mouse over the viewport, press Tab to enter Edit mode, press "a" to select all, and then select **Assign** from the **Materials** tab material-tab-button SCREEEN SHOT GOES HERE.
+
+    assign-button SCREEN SHOT GOES HERE
+
+7.	Select the icon to the left of **Object Mode** to go to the **Image Editor**.
+
+    image-editor SCREEN SHOT GOES HERE
+    
+8.	Create a new image (select **Add** > **Image** > **New**) that’s 1024 x 1024.
+
+    create-new-image SCREEN SHOT GOES HERE
+    
+9.	Save the new image as **My_Texture** or similar name that’s easy to remember. Don’t change any other options.
+
+    my-texture SCREEN SHOT GOES HERE
+
+10.	Select the icon to the left of **View** to go to the **Shader Editor**. 
+
+    shader-editor SCREEN SHOT GOES HERE
+    
+11.	With your original 3D model selected, select **Add** > **Texture** > **Image Texture**. Left click to place the image texture node in the window.
+
+    add-texture SCREEN SHOT GOES HERE
+    
+
+12.	Drag the yellow node link (the yellow dot) labeled **Color** in the image texture window to the **Base Color** yellow node on the **Principled BSDF** node to connect it.   
+
+    connect-yellow-node SCREEN SHOT GOES HERE
+    
+13.	In the drop-down menu on the image texture node, find the image you just created and select it.  
+
+    select-image SCREEN SHOT GOES HERE
+    
+14.	Select the 3D viewport icon at the top left to go to the 3D viewport menu.
+
+    3D-viewport-icon SCREEN SHOT GOES HERE
+    
+
 
 
 
