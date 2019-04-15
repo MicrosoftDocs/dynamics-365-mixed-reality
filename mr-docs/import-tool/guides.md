@@ -30,4 +30,5 @@ To find the files on your local drive using the Import Tool user interface:
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
+[Best practices for converting and optimizing 3D models](best-practices.md)<br>
 [Use the Import Tool](import-tool.md)
