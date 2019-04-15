@@ -1,4 +1,13 @@
-
+---
+author: BryceHo
+description: Install the Import Tool (Preview)
+ms.author: BryceHo
+ms.date: 04/18/2019
+ms.service: crm-online
+ms.topic: article
+title: Install the Import Tool (Preview)
+ms.reviewer: v-brycho
+---
 
 ## Install the Import Tool (Preview)
 
@@ -15,3 +24,8 @@ To install the Import Tool from the Microsoft Store:
 - On your PC, go to **Start** ![Start button](media/windows-button.png "Starta button") > **Microsoft Store** 
 ![Store button](media/store-button.png "Store button") , search for “Dynamics 365 Import Tool (Preview)," and then install the app. 
 [Or go directly to the store url](https://www.microsoft.com/en-us/p/microsoft-dynamics-365-import-tool-preview/9nbf1cgb7khx?rtc=1&activetab=pivot:overviewtab).
+
+### See also
+[Requirements for installing](requirements.md)<br>
+[Try the Import Tool free for 90 days](try-import-tool-free.md)<br>
+[Use the Import Tool](import-tool.md)
