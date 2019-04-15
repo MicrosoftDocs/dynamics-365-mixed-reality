@@ -1,4 +1,13 @@
-
+---
+author: BryceHo
+description: Everything you need to know about converting 3D models to use with the Dynamics 365 Import Tool (Preview)
+ms.author: cynielse
+ms.date: 04/18/2019
+ms.service: crm-online
+ms.topic: article
+title: Convert your 3D (CAD) models to use with the Dynamics 365 Import Tool (Preview)
+ms.reviewer: v-brycho
+---
 
 # Convert your 3D (CAD) models
 
