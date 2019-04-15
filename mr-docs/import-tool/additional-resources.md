@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 
 ### See also
 
-[Overview of Dynamics 365 Import Tool (Preview)<br>
+[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Use the Import Tool](import-tool.md)
