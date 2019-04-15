@@ -192,6 +192,76 @@ The overall steps for optimizing with Blender include:
       
       tris-count SCREENSHOT GOES HERE
       
+### Decimate the model
+
+To reach application-specific goals, we need to decimate the model.  Decimation is the process of recomputing the surface polygons of the model to create a similar shape with less polygons. There is a reduction in visual fidelity when doing this, but also an increase in performance. The example images below show the difference between a high-quality model used for low scene complexity on HoloLens, and a low-quality model used for high scene complexity.
+
+|High-poly 3D model|Low poly 3D model|
+|---------------------------------------------------------------------|----------------------------------------------------------------|
+|52000-triangles Screenshot goes here|9000-triangles Screenshot goes here|
+|52,000 trialngs|9000 triangles|
+
+To decimate a model:
+
+1.	On the **Modifiers** menu, in the **Add Modifier** drop-down list, select **Decimate**.
+
+    decimate-model SCREENSHOT GOES HERE
+    
+2.	With your model selected, change the **Ratio** value to a number between 0.0-1.0. This will determine the percentage of polygons (Tris) that are removed. For example, a value of 0.5 reduces the original polygon count to 50%. You’ll see the **Tris** value in the bottom right decrease as you change the ratio. 
+
+3.	When the number reaches a value that falls in line with the Dynamics 365 mixed reality application requirements, select **Apply**.
+
+### UV unwrapping
+
+A good way to visualize UV unwrapping, is to imagine cutting out every surface of your 3D model and placing those surfaces flat on a piece of paper. The U and V represent the vertical and horizontal axes of this piece of paper in the same way that X, Y, Z represent the three-dimensional axes of the 3D model. The advantage of unwrapping the UV is it allows us to paint the flattened pieces with the material colors of the 3D model. This painted paper is called a texture, and it’s later wrapped back on top of the 3D model, giving it the illusion of being made of different colored pieces, when it’s actually one item with a colorful texture wrapped around it. This process is called texture baking, which we’ll go into later.
+
+To start the process:
+
+1.	Select the model, hover the mouse over the main menu, press Tab to enter Edit mode, press “a” to select all, and then select **Smart UV Project** from the **UV** drop-down menu.
+
+    uv-dropdown SCREEN SHOT GOES HERE
+    
+2.	Keep the default settings for the properties, and then select **OK**.
+
+    uv-settings SCREEN SHOT GOES HERE
+    
+3.	Make sure that you’re in Edit mode, and that the entire model is still selected (press Tab to enter/exit Edit mode and then press “a” to select all). You can tell that the entire model is selected because it will be orange. 
+
+4.	Select the **UV Editor** menu (or press Shift+F10).
+
+    uv-editor-menu SCREEN SHOT GOES HERE
+    
+5.	On the **UV** tab, select **Pack Islands**.
+
+    pack-islands SCREEN SHOT GOES HERE
+    
+    The outlined pieces are reorganized to represent the surface of the model as efficiently as possible. After packing the islands, it will look like this:
+    
+    pack-islands-2 SCREEN SHOT GOES HERE
+    
+6.	To bake the texture that we’ll create later, we need a duplicate of the 3D model that only has one material on it. To make a copy of the 3D model, under **Scene Collection**, select the model by selecting the orange triangle icon to the left of the model name, press Shift+D, and then press Spacebar. This will place a duplicate at the exact location of the original object.
+
+    orange-triangle SCREEN SHOT GOES HERE
+    
+    > [!TIP]
+    > If you don’t want to use keyboard shortcuts, click the model with the left mouse button to select it, right-click the model to open the menu, select **Duplicate Objects**, and then press Spacebar.
+    
+    duplicate-objects SCREEN SHOT GOES HERE
+    
+    
+    
+    
+    
+    
+
+
+
+
+    
+
+
+
+
       
 
 
