@@ -50,7 +50,11 @@ C.	Optimize your 3D model and convert it to GLB.<br>
 D.	Use the Dynamics 365 Import Tool to prepare content for HoloLens, immersive headsets, or mobile.<br>
 E.	3D models ready to be imported into the Dynamics 365 mixed reality applications.
 
-
+### See also
+[Convert 3D models](convert-models.md)<br>
+[Optimize 3D models](optimize-models.md)<br>
+[Best practices for converting and optimizing 3D models](best-practices.md)<br>
+[Use the Import Tool](import-tool.md)
 
 
 
