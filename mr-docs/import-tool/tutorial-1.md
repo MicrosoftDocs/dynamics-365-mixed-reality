@@ -68,7 +68,7 @@ Datasmith can import multiple file formats, including several native CAD formats
     
     This will open a blank scene that we’ll replace with an empty level.
     
-    ![Blank scene](media/blank-scene.PNG "Blank scene")
+    ![Blank scene](media/blank-scene.PNG "Blank scene") (MISSING THIS SCREEN SHOT)
     
  3.	On the **File** menu, select **New Level**.
     
@@ -83,6 +83,39 @@ Datasmith can import multiple file formats, including several native CAD formats
 1.	In the **Import Datasmith** drop-down list at the top of the screen, select **Import CAD**.
     
     ![Import CAD](media/import-cad.PNG "Import CAD")
+    
+2.	Import your model using one of the [approved file formats](https://aka.ms/UnrealDatasmithsoftware). 
+
+    > [!NOTE]
+    > Using the beta file formats (.dwg, .wire, .gltf, and Autodesk Revit plug-in) may give you unwanted results.
+
+    file-formats SCREENSHOT GOES HERE
+    
+
+3.	In the **Datasmith Import Options** screen, use the default settings.
+
+    import-options SCREENSHOT GOES HERE
+    
+## Reorient the model (if needed)
+
+Unreal uses Z as the up direction for its coordinates.
+
+If your model is imported with the wrong vertices up:
+
+1.	Select the parent object for the 3D model in the World Outliner.
+
+2.	Use the **Transform** tab to change the rotation. 
+
+    transform-tab SCREENSHOT GOES HERE
+    
+    Changing the X rotation on the **Transform** tab to -90 usually fixes this problem.
+    
+## Export the model as an OBJ file
+
+1.	On the **File** menu, select **Export All**.
+
+    export-all SCREENSHOT GOES HERE
+
     
 
 
