@@ -44,6 +44,11 @@ CAD models can be exported directly to glTF format or into intermediate formats 
 
 In situations where a CAD application doesn’t have an export option for FBX, OBJ, or glTF, you can export an intermediate file, such as [JT](https://aka.ms/Jtfileformat) or [STEP](https://aka.ms/STEPfileformat), and then process that file to create a glTF file. 
 
+### See also
+[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
+[Optimize 3D models](optimize-models.md)<br>
+[Best practices for converting and optimizing models](best-practices.md)<br>
+[Use the Import Tool](import-tool.md)
 
 
 
