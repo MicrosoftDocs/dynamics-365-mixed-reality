@@ -1,4 +1,13 @@
-
+---
+author: BryceHo
+description: Overview of converting and optimizing 3D models to use with the Dynamics 365 Import Tool (Preview).  
+ms.author: BryceHo
+ms.date: 04/18/2019
+ms.service: crm-online
+ms.topic: overview
+title: Overview of converting and optimizing 3D models to use with the Dynamics 365 Import Tool (Preview).
+ms.reviewer: v-brycho
+---
 
 # Overview
 
