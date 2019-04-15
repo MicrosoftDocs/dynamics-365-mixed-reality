@@ -24,3 +24,10 @@ To find the files on your local drive using the Import Tool user interface:
     ![Locate file](media/locate-model.PNG "Locate file") 
   
 3.	Browse to this location when you're ready to [import your own custom 3D objects in the PC authoring app](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/pc-authoring#import).
+
+
+### See also
+[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
+[Convert 3D models](convert-models.md)<br>
+[Optimize 3D models](optimize-models.md)<br>
+[Use the Import Tool](import-tool.md)
