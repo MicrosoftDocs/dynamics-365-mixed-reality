@@ -54,3 +54,8 @@ The following table lists some general conservative targets to aim for when acqu
 
 - Transparency in materials such as glass in a 3D model are not supported.
 
+### See also
+[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
+[Convert 3D models](convert-models.md)<br>
+[Best practices for converting and optimizing 3D models](best-practices.md)<br>
+[Use the Import Tool](import-tool.md)
