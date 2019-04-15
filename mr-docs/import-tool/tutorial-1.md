@@ -116,7 +116,26 @@ If your model is imported with the wrong vertices up:
 
     export-all SCREENSHOT GOES HERE
 
+2.	Create a new folder, enter a file name, in the **Save as type** list, select **Object File (.obj)**, and then select **Save**.
+
+    save-as-type SCREENSHOT GOES HERE
+
+3.	When prompted whether you’d like to export the materials as images, select **Yes**. This will allow Blender to assign the correct materials when you import it.
+
+    export-materials-as-images SCREENSHOT GOES HERE
     
+## More info on Datasmith
+
+Use these links to learn about more advanced optimizations you can do with Datasmith:
+
+- [Mesh cleanup of CAD 3D model](https://aka.ms/ModifyStaticMesh)
+
+- [Defeaturing a CAD 3D model](https://aka.ms/DatasmithDefeaturing)
+
+- [Removing fully occluded meshes](https://aka.ms/DatasmithJacketing)
+
+- [Considerations when importing native CAD 3D models with Datasmith](https://aka.ms/DatasmithGuideCAD)
+
 
 
 ### See also
