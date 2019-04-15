@@ -9,7 +9,7 @@ title: Requirements for installing the Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Requirements for installing the Dyanmics 365 Import Tool (Preview)
+# Requirements for installing the Dynamics 365 Import Tool (Preview)
 
 To install and use the Import Tool, you need the following:
 
