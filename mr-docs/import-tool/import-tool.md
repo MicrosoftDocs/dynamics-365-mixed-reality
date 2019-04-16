@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 ![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
 
-Use the Microsoft Dynamics 365 Import Tool (Preview) to prepare your 3D models and Visio layouts to use in  Dynamics 365 mixed reality applications. 
+Use the Microsoft Dynamics 365 Import Tool (Preview) to prepare your 3D models to use in  Dynamics 365 mixed reality applications. 
 
 ## Two options for preparing 3D models
 
