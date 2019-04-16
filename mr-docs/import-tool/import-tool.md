@@ -82,7 +82,7 @@ When you send your model to Microsoft, it’s uploaded to a secure location. Mic
 
 ![Model preparation](media/what-happens.PNG "Model preparation") 
 
-## Download a model after it’s been converted and optimized by Microsoft
+## Download a model after it's been converted and optimized by Microsoft
 
 1.	Open the Import Tool.
 
