@@ -90,7 +90,6 @@ When you send your model to Microsoft, it’s uploaded to a secure location. Mic
 
     ![Download model](media/download-model.PNG "Download model") 
 
-
 ## Locate your converted assets
 
 Files created with the Import Tool are stored locally. To find the files on your local drive:
