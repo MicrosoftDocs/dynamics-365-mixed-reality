@@ -9,7 +9,7 @@ title: Install the Import Tool (Preview)
 ms.reviewer: v-brycho
 ---
 
-## Install the Import Tool (Preview)
+# Install the Import Tool (Preview)
 
 The Import Tool is included with Dynamics 365 Layout, so you'll need a subscription to Dynamics 365 Layout to use the Import Tool.
 
