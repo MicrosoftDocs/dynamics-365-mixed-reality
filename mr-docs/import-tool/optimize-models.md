@@ -47,8 +47,6 @@ The following table lists some general conservative targets to aim for when acqu
 
 ## Import Tool limitations
 
-- The Import tool creates a bounding box that encompasses all geometry in the imported scene and places a new origin point at the center of the bottom surface of that bounding box.
-
 - Transparency in materials such as glass in a 3D model are not supported.
 
 ### See also
