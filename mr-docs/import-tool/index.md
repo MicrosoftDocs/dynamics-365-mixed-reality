@@ -38,7 +38,7 @@ Preparing CAD content for the Dynamics 365 mixed reality applications involves 3
 
 2.	**Optimize the converted 3D models** to ensure the best possible performance in real-time applications.
 
-3.	**Use the Import Tool** to prepare the models for the Dynamics 365 mixed reality applications. Use the Import Tool to prepare the models for Layout and Guides.
+3.	**Use the Import Tool** to prepare the models for the Dynamics 365 mixed reality applications. 
 
 The following illustration shows a more detailed view of this process:
 
