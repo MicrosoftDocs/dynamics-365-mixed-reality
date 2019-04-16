@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Work with Dynamics 365 Layout
 
-With Microsoft Dynamic 365 Layout, you can work with floor plans created with Microsoft Visio or you can create the layout with the Layout HoloLens app. You can use the Dynamics 365 Import Tool (Preview) to make either type of layout available for immersive headsets or HoloLens. 
+With Microsoft Dynamic 365 Layout, you can work with floor plans created with Microsoft Visio or you can create the layout with the Layout HoloLens app. You can use the Dynamics 365 Import Tool (Preview) to make either type of layout available for immersive headsets. 
 
 ## Import a Microsoft Visio floor plan
 
