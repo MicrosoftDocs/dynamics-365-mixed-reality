@@ -33,8 +33,7 @@ to enforce Throttling. The Dynamics 365 Import Tool (Preview) is subject to redu
 privacy commitments. Any data provided to Microsoft through your use of the Dynamics 365 Import Tool (Preview) may be transferred, 
 stored, and processed in the United States, or in any other country where Microsoft of its subcontractors operate. 
 
-> **Important**
-
+> [!IMPORTANT]
 > If you are the administrator for the organization and have authority to act on behalf of and to bind the organization, then by 
 installing or using the Dynamics 365 Import Tool (Preview), you consent to allow authorized users of Microsoft Dynamics 365 
 online services to activate, configure and enable certain functionality which transmits Customer Data (as defined in the MLA) 
