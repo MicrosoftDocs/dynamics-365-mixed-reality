@@ -73,13 +73,13 @@ If you choose the **Send model to Microsoft** option, Microsoft will convert and
 
     Microsoft will update you on the progress of the manual optimization through email and will let you know when the model is ready to download.
 
-### What happens to my model when I send it to Microsoft?
+## What happens to my model when I send it to Microsoft?
 
 When you send your model to Microsoft, it’s uploaded to a secure location. Microsoft prepares the model using a combination of automated and manual steps. Microsoft will provide a download link when the model is ready. After you download it, your model is deleted from the secure storage area.  
 
 ![Model preparation](media/what-happens.PNG "Model preparation") 
 
-### Download a model after it’s been converted and optimized by Microsoft
+## Download a model after it’s been converted and optimized by Microsoft
 
 1.	Open the Import Tool.
 
@@ -88,7 +88,7 @@ When you send your model to Microsoft, it’s uploaded to a secure location. Mic
     ![Download model](media/download-model.PNG "Download model") 
 
 
-### Locate your converted assets
+## Locate your converted assets
 
 Files created with the Import Tool are stored locally. To find the files on your local drive:
 
@@ -98,7 +98,7 @@ Files created with the Import Tool are stored locally. To find the files on your
 
     ![Locate model](media/locate-model.PNG "Locate model")
 
-### Provide feedback on the quality of processed 3D models
+## Provide feedback on the quality of processed 3D models
 
 You can provide feedback on the quality of processed 3D models if you're not satisfied.
 
