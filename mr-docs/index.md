@@ -49,7 +49,7 @@ ms.custom:
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
-                                                    <img alt="" src="/dynamics365/images/Layout_outline_36px_blue.svg">
+                                                    <img alt="" src="/dynamics365/images/ImportMixedRealityLayoutLogoExtensions-03.svg">
                                                 </div>
                                             </div>
                                             <div class="cardText">
