@@ -64,8 +64,6 @@ ms.custom:
                                                 <p><a href="/dynamics365/mixed-reality/import-tool/import-tool">Use the Import Tool</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/import-tool/layout">Work with Dynamics 365 Layout</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/import-tool/guides">Work with Dynamics 365 Guides</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/import-tool/tutorial-1">Tutorial 1: Unreal Datasmith, Blender, and Import Tool</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/import-tool/additional-resources">Additional resources</a></p>
                                             </div>
                                         </div>
                                     </div>
