@@ -9,7 +9,7 @@ title: Overview of converting and optimizing 3D models to use with the Dynamics 
 ms.reviewer: v-brycho
 ---
 
-# Overview
+# Overview of Dynamics 365 Import Tool (Preview)
 
 If you’re using the Dynamics 365 mixed reality applications, you may want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models) into the applications. This guide shows you how to prepare your 3D models for use with Dynamics 365 mixed reality applications using a combination of third-party tools and the Dynamics 365 Import Tool (Preview).
 
