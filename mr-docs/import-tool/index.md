@@ -17,7 +17,7 @@ If you’re using the Dynamics 365 mixed reality applications, you may want to i
 All geometry in the Dynamics 365 mixed reality applications uses the Khronos Group glTF™ file format. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
 
 > [!TIP] 
-> The Khronos Group provides a robust overview of best practices: [glTF Best Practices](https://aka.ms/glTFbestpractices).
+> The Khronos Group provides a robust overview of best practices: [Art Pipeline for glTF](https://aka.ms/glTFbestpractices).
 
 ## Parametric geometry vs. polygonal geometry
 
