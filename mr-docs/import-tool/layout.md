@@ -23,7 +23,7 @@ To work with a Microsoft Visio floor plan in Layout, you need to do three steps:
 
 3.	Make the floor plan available for immersive headsets or HoloLens using the Import Tool.
 
-## Install the Visio Add-in for Layout
+### Install the Visio Add-in for Layout
 
 1.	Open the Import Tool.
 
@@ -37,11 +37,11 @@ To work with a Microsoft Visio floor plan in Layout, you need to do three steps:
 
 5.	Select **Visio Add-in for Dynamics 365 Layout**, and then select **Add**.
 
-## Export the floor plan to Layout
+### Export the floor plan to Layout
 
 - After you’ve created the floor plan in Visio, select the **Layout** tab, select **Export**, and then save your floor plan.
 
-## Make the floor plan available for immersive headsets or HoloLens 
+### Make the floor plan available for immersive headsets or HoloLens 
 
 1.	In the Import Tool, select **This PC** > **Add layout**, and then navigate to the floor plan.
 
