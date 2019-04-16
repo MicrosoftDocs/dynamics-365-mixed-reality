@@ -23,7 +23,7 @@ To work with a Microsoft Visio floor plan in Layout, you need to do three steps:
 
 3.	Make the floor plan available for immersive headsets or HoloLens using the Import Tool.
 
-### Install the Visio Add-in for Layout
+### Install the Visio add-in for Layout
 
 1.	Open the Import Tool.
 
