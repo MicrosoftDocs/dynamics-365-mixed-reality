@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 ![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
 
-To use your 3D models with the Dynamics 365 mixed reality applications, you’ll need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you’ll choose in the Import Tool.
+To use your 3D models with the Dynamics 365 mixed reality applications, you’ll need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you’ll choose in the Dynamics 365 Import Tool (Preview).
 
 ## Import Tool options and file types
 
