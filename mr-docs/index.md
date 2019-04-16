@@ -58,6 +58,9 @@ ms.custom:
                                                 <p><a href="/dynamics365/mixed-reality/import-tool/convert-models">Convert your 3D (CAD) models</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/import-tool/optimize-models">Optimize your 3D models</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/import-tool/best-practices">Best practices for 3D models</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/requirements">Requirements for installing Import Tool</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/import-tool">Try Import Tool free</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/install">Install Import Tool</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/import-tool/import-tool">Use the Import Tool</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/import-tool/layout">Work with Dynamics 365 Layout</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/import-tool/guides">Work with Dynamics 365 Guides</a></p>
