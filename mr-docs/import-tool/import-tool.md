@@ -21,7 +21,11 @@ The Import Tool provides two options for preparing your 3D models:
 
 ![Import Tool options](media/import-tool-options.PNG "Import Tool options") 
  
-If you choose the **Import using this PC** option, you’ll need to prepare your models yourself using the instructions in the previous sections of this guide. 
+If you choose the **Import using this PC** option, you’ll need to prepare your models yourself using the instructions in these topics:
+
+- [Convert your models](convert-models.md)
+- [Optimize your models](optimize-models.md)
+- [Best practices for 3D models](best-practices.md)
 
 If you choose the **Send model to Microsoft** option, Microsoft will convert and optimize your model for you and will provide a download link when the model is ready.
 
