@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview
 
-If you’re using the Dynamics 365 mixed reality applications, you may want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) drawings) into the applications. This guide shows you how to prepare your 3D models for use with the Dynamics 365 mixed reality applications using a combination of third-party tools and the Dynamics 365 Import Tool (Preview).
+If you’re using the Dynamics 365 mixed reality applications, you may want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models) into the applications. This guide shows you how to prepare your 3D models for use with the Dynamics 365 mixed reality applications using a combination of third-party tools and the Dynamics 365 Import Tool (Preview).
 
 ## glTF and GLB file formats
 All geometry in the Dynamics 365 mixed reality applications uses the Khronos Group glTF™ file format. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
@@ -21,13 +21,13 @@ All geometry in the Dynamics 365 mixed reality applications uses the Khronos Gro
 
 ## Parametric geometry vs. polygonal geometry
 
-Modeling tools in most CAD applications use sets of adjustable mathematical parameters to define parametric solids. Parametric solids are highly accurate volumes that can be used to carry out engineering simulations and manufacturing processes. glTF and real-time rendering applications require models to be represented as a triangulated polygon surface.
+Modeling tools in most CAD applications use sets of adjustable mathematical parameters to define parametric solids. Parametric solids and surfaces provide highly accurate detail that can be used to carry out engineering simulations and manufacturing processes. glTF and real-time rendering applications require models to be represented as a triangulated polygon surface.
 
 ![Parametric vs. polygonal geometry](media/compare-geometry.PNG "Parametric vs. polygonal geometry") 
 
 *Model visualized in Autodesk Inventor and Microsoft 3D Viewer*
 
-A.	Parametric solid 3D model ready for simulation and manufacturing<br>
+A.	Parametric 3D model ready for simulation and manufacturing<br>
 B.	Polygonal surface 3D model ready for real-time rendering
 
 ## Overall process for preparing 3D models
