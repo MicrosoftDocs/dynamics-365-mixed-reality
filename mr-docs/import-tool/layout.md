@@ -15,7 +15,7 @@ With Microsoft Dynamic 365 Layout, you can work with floor plans created with Mi
 
 ## Import a Microsoft Visio floor plan
 
-To work with a Microsoft Visio floor plan in Layout, you need to do 3 steps:
+To work with a Microsoft Visio floor plan in Layout, you need to do three steps:
 
 1.	Install the Visio Add-in for Layout. 
 
