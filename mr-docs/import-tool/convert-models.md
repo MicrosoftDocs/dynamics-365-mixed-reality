@@ -40,7 +40,7 @@ CAD models can be exported directly to glTF format or into intermediate formats 
 [Trimble Sketchup](https://aka.ms/SketchUp_glTF_Export)|Separate extensions for [import](https://aka.ms/Sketchupimport) and [export](https://aka.ms/sketchupexport)|
 |[Allegorithmic Substance Painter](https://aka.ms/SubstancePainter_glTF_Exporter)|Native exporter|
 |[SideFX Houdini](https://aka.ms/Houdini_glTF_Exporter)|Native import/export|
-|[Maxon Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)|Native export|
+|[Maxon Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)|Native export plug-in|
 
 In situations where a CAD application doesn’t have an export option for FBX, OBJ, or glTF, you can export an intermediate file, such as [JT](https://aka.ms/Jtfileformat) or [STEP](https://aka.ms/STEPfileformat), and then process that file to create a glTF file. 
 
