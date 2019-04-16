@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Work with Dynamics 365 Guides
 
-The 3D models prepared with the Import Tool can be used in Dynamics 365 Guides. To import them, you’ll need to locate the 3D model file and place it using the Guides PC authoring app.
+The 3D models prepared with Microsoft Dynamics 365 Import Tool (Preview) can be used in Dynamics 365 Guides (Preview). To import them, you’ll need to locate the 3D model file and place it using the Guides PC authoring app.
 
 Files created with the Import Tool are stored locally in C:\Users\[username]\3D Objects\Microsoft Layout. 
 
