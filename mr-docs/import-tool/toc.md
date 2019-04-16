@@ -4,7 +4,7 @@
 ## [Optimize your 3D models](optimize-models.md)
 ## [Best practices for real-time 3D models](best-practices.md)
 ## Install and use the Import Tool
-### [Requirements for installing and using the Import Tool](requirements.md)
+### [Requirements for installing the Import Tool](requirements.md)
 ### [Try the Import Tool free](try-import-tool-free.md)
 ### [Install the Import Tool after subscribing to Layout](install.md)
 ### [Use the Import Tool](import-tool.md)
