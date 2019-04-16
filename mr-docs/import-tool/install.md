@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Install the Import Tool (Preview)
 
-The Import Tool is included with Dynamics 365 Layout, so you'll need a subscription to Dynamics 365 Layout to use the Import Tool.
+Microsoft Dynamics 365 Import Tool (Preview) is included with Dynamics 365 Layout, so you'll need a subscription to Dynamics 365 Layout to use the Import Tool.
 
 > [!TIP] 
 > You can try both Layout and the Import Tool for free for up to 90 days:<br>[Learn more about the 90-day trial for Layout](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/try-layout-free)<br>[Learn more about the 90-day trial for the Import Tool](try-import-tool-free.md)
