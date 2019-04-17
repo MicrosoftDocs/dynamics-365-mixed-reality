@@ -39,7 +39,7 @@ To work with a Microsoft Visio floor plan in Layout, you need to do three steps:
 
 ### Export the floor plan to Layout
 
-- After you’ve created the floor plan in Visio, select the **Layout** tab, select **Export**, and then save your floor plan.
+After you’ve created the floor plan in Visio, select the **Layout** tab, select **Export**, and then save your floor plan.
 
 ### Make the floor plan available for immersive headsets or HoloLens 
 
