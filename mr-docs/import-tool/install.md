@@ -17,14 +17,14 @@ Microsoft Dynamics 365 Import Tool (Preview) is included with Dynamics 365 Layou
 > You can try both Layout and the Import Tool for free for up to 90 days:<br>[Learn more about the 90-day trial for Layout](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/try-layout-free)<br>[Learn more about the 90-day trial for the Import Tool](try-import-tool-free.md)
 
 After you have a subscription to Layout and the Import Tool, how you install the Import Tool depends on how your administrator chooses 
-to distribute the app. Your admin may have you install the app from the Microsoft Store, from your organization’s private store, 
+to distribute the app. Your admin might have you install the app from the Microsoft Store, from your organization’s private store, 
 through an email link, or another method.
 
 To install the Import Tool from the Microsoft Store:
 
-- On your PC, go to **Start** ![Start button](media/windows-button.png "Starta button") > **Microsoft Store** 
+- On your PC, go to **Start** ![Start button](media/windows-button.png "Start button") > **Microsoft Store** 
 ![Store button](media/store-button.png "Store button") , search for “Dynamics 365 Import Tool (Preview)," and then install the app. 
-[Or go directly to the store url](https://www.microsoft.com/en-us/p/microsoft-dynamics-365-import-tool-preview/9nbf1cgb7khx?rtc=1&activetab=pivot:overviewtab).
+[Or go directly to the store URL](https://www.microsoft.com/en-us/p/microsoft-dynamics-365-import-tool-preview/9nbf1cgb7khx?rtc=1&activetab=pivot:overviewtab).
 
 ### See also
 [Requirements for installing](requirements.md)<br>
