@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 You can use the Dynamics 365 Import Tool to import 3D (CAD) models for use with the Dynamics 365 Layout HoloLens app or the Layout 
 immersive headset app. You can also use the Import Tool to move layouts created with the HoloLens app to use with immersive headsets, 
-or vice versa. For information on using the Import Tool to prepare models for Layout, see the 
+or vice versa. For information on using the Import Tool with Layout, see the 
 [Import Tool overview](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
 
 The Import Tool is included with the Layout subscription. You can also try out either app for free for up to 90 days. For more information on the free trial, see:
