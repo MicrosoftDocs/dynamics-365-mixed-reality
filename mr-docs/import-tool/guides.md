@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 The 3D models prepared with Microsoft Dynamics 365 Import Tool (Preview) can be used in Dynamics 365 Guides (Preview). To import them, you’ll need to locate the 3D model file and place it using the Guides PC authoring app.
 
-Files created with the Import Tool are stored locally in C:\Users\[username]\3D Objects\Microsoft Layout. 
+Files created with the Import Tool are stored locally in C:\Users\\[username]\3D Objects\Microsoft Layout. 
 
 To find the files on your local drive using the Import Tool user interface:
 
