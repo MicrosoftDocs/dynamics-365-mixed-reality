@@ -2,7 +2,7 @@
 author: MatthewJonPaul
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: mapau
-ms.date: 4/01/2019
+ms.date: 4/18/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist FAQ
@@ -19,17 +19,17 @@ HoloLens](https://support.microsoft.com/products/hololens).
 If you’re an IT admin and you want to deploy [!include[pn-remote-assist](../includes/pn-remote-assist.md)] to devices running
 the [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, see [Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md). 
 
-**Can I try the app before buying it?**
+## Can I try the app before buying it?
 
 Yes, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available as a free 90-day trial. For more information,
 see [Try Remote Assist for free](try-remote-assist-free.md). Note that the 90-day free trial is only available for users who haven't already purchased a subscription. 
 
-**Can I still use the preview app?**
+## Can I still use the preview app?
 
 The preview period has ended. Existing preview app customers have until March
 2019 to upgrade to a paid subscription. 
 
-**What are the technical requirements for installing [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
+## What are the technical requirements for installing [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?
 
 To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll need:
 
@@ -43,35 +43,35 @@ To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll n
     PC running Windows 10 or a mobile device running Microsoft Teams Mobile. Microsoft [!include[pn-teams](../includes/pn-teams.md)] is [available as
     a free download](https://teams.microsoft.com/downloads).
 
-**Do I need a subscription to Microsoft Teams or Office 365?**
+## Do I need a subscription to Microsoft Teams or Office 365?
 
 As of January 7, 2019, a Teams subscription is included in the Remote Assist subscription for individuals using a Remote Assist license on HoloLens. A Microsoft Teams license is also required for individuals (experts) who communicate with a Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads) for these users. 
 
-**How often is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] updated?**
+## How often is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] updated?
 
 [!include[pn-remote-assist](../includes/pn-remote-assist.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
-**How can I tell what version I'm using?**
+## How can I tell what version I'm using?
 
 Go to **Settings**, and then find the version number in the **About** section.
 
-**Why am I not getting incoming call notifications?**
+## Why am I not getting incoming call notifications?
 
 This can happen if you’re signed in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] with a different account
 than the one you used to sign in to your [!include[pn-hololens](../includes/pn-hololens.md)]. Make sure you’re signed in to
 both the app and the device with the same account. 
 
-**I see a message saying I have no internet connection.**
+## I see a message saying I have no internet connection.
 
 To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you need a Wi-Fi connection. Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is
 [connected to Wi-Fi](https://support.microsoft.com/en-us/help/12629).
 
-**[!include[pn-remote-assist](../includes/pn-remote-assist.md)] is frozen or unresponsive.**
+## [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is frozen or unresponsive.
 
 Try closing and reopening [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. If you’re still having problems,
 [restart your HoloLens](https://support.microsoft.com/en-us/help/12642).
 
-**[!include[pn-remote-assist](../includes/pn-remote-assist.md)] isn't showing my contacts.**
+## [!include[pn-remote-assist](../includes/pn-remote-assist.md)] isn't showing my contacts.
 
 If you don’t see the contacts you expect, try the following:
 
@@ -82,30 +82,30 @@ If you don’t see the contacts you expect, try the following:
 
 -   [Restart your HoloLens](https://support.microsoft.com/en-us/help/12642).
 
-**The Mixed Reality toolbar doesn’t appear on the PC [!include[pn-teams](../includes/pn-teams.md)] client during a
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)] call.**
+## The Mixed Reality toolbar doesn’t appear on the PC [!include[pn-teams](../includes/pn-teams.md)] client during a
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] call.
 
 This might happen if [!include[pn-teams](../includes/pn-teams.md)] has downloaded a new version of the client in the
 background but is still running the older version of the app. Restarting your PC
 will usually fix this issue.
 
-**Why does audio sometimes cut out even in quiet environments?**
+## Why does audio sometimes cut out even in quiet environments?
 
 If [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is used in a loud environment, use headphones on both ends for
 better communication. Using headphones for both users prevents any echo
 filtering from proactively turning on noise cancellation, which turns off audio.
 
-**Can I use [!include[pn-remote-assist](../includes/pn-remote-assist.md)] to place a call between two separate tenants?**
+## Can I use [!include[pn-remote-assist](../includes/pn-remote-assist.md)] to place a call between two separate tenants?
 
 Yes, but only if the expert is calling as a guest on the other user’s tenant.
 Currently, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] doesn’t support two users calling each other even if
 two tenants are joined by federation.
 
-**Does [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] include the same [!include[pn-remote-assist](../includes/pn-remote-assist.md)] features on all platforms and devices?**
+## Does [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] include the same [!include[pn-remote-assist](../includes/pn-remote-assist.md)] features on all platforms and devices?
 
 No. Ink, arrows, and adding files are only available on [!include[pn-teams](../includes/pn-teams.md)] for PC.
 
-**I signed in to my [!include[pn-hololens](../includes/pn-hololens.md)], but I still can't sign in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)].**
+## I signed in to my [!include[pn-hololens](../includes/pn-hololens.md)], but I still can't sign in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 If you’re having trouble signing in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)], try the following:
 
@@ -123,15 +123,15 @@ If you’re having trouble signing in to [!include[pn-remote-assist](../includes
 -   Check with your administrator to make sure your device and network are set
     up to work with [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
-**How do I set up [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] to work with [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
+## How do I set up [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] to work with [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?
 
 To learn how to set up [!include[pn-field-service](../includes/pn-field-service.md)] integration with [!include[pn-remote-assist](../includes/pn-remote-assist.md)] so that a first-line worker can call an expert in the context of a [!include[pn-field-service](../includes/pn-field-service.md)] work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).
 
-**What languages is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] available in?**
+## What languages is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] available in?
 
 [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available in English only.
 
-**Where is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] available?**
+## Where is [!include[pn-remote-assist](../includes/pn-remote-assist.md)] available?
 
 [!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
 
@@ -139,16 +139,16 @@ To learn how to set up [!include[pn-field-service](../includes/pn-field-service.
 
 Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
 
-**Is group calling available in [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
+## Is group calling available in [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?
 
-Yes, group calling is available in the April release of Remote Assist. Up to 50 people can be on the same video call.
+Yes, group calling is available starting in the April release of Remote Assist. Up to 50 people can be on the same video call.
 
-**What file formats does the Insert file feature support?**
+## What file formats does the Insert file feature support?
 
 The Insert file feature supports most image formats (JPG, GIF, PNG) and PDF
 files.
 
-**Can I share files from [!include[pn-sharepoint](../includes/pn-sharepoint.md)] on [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?**
+## Can I share files from [!include[pn-sharepoint](../includes/pn-sharepoint.md)] on [!include[pn-remote-assist](../includes/pn-remote-assist.md)]?
 
 No, you can only share local files and files from [!include[pn-onedrive](../includes/pn-onedrive.md)].
 
