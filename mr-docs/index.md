@@ -85,6 +85,7 @@ ms.custom:
                                                 <p><a href="/dynamics365/mixed-reality/layout/try-layout-free">Try Layout free</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/buy-and-deploy">Buy and deploy</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/user-guide">User Guide</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/import-tool">Use Import Tool</a></p>
                                                 <p><a href="https://go.microsoft.com/fwlink/?linkid=2021489">Videos</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/faq">FAQ</a></p>
                                             </div>
