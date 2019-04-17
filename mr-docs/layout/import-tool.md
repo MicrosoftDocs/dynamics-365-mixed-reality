@@ -9,7 +9,7 @@ title: Use the Dynamics 365 Import Tool (Preview) to prepare 3D models to work w
 ms.reviewer: v-brycho
 ---
 
-# Use the Dynamics 365 Import Tool to import 3D (CAD) models
+# Use the Dynamics 365 Import Tool to import 3D (CAD) models and copy layouts
 
 You can use the Dynamics 365 Import Tool to import 3D (CAD) models for use with the Dynamics 365 Layout HoloLens app or the Layout 
 immersive headset app. You can also use the Import Tool to move layouts created with the HoloLens app to use with immersive headsets, 
