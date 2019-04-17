@@ -16,7 +16,7 @@ immersive headset app. You can also use the Import Tool to move layouts created 
 or vice versa. For information on using the Import Tool with Layout, see the 
 [Import Tool overview](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
 
-The Import Tool is included with the Layout subscription. You can also try out either app for free for up to 90 days. For more information on the free trial, see:
+The Import Tool is included with your Layout subscription. You can also try out either app for free for up to 90 days. For more information on the free trial, see:
 
 - [Layout free trial](try-layout-free.md)
 
