@@ -4,6 +4,7 @@
 ## [Try Layout for free](try-layout-free.md)
 ## [Buy and deploy Layout](buy-and-deploy-layout.md)
 ## [User Guide](user-guide.md)
+## [Use the Import Tool with Layout](import-tool.md)
 ## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)
 ## [FAQ](faq.md)
 ## Terms of Use
