@@ -45,9 +45,8 @@ The following table lists some general conservative targets to aim for when acqu
 |![Immersive headset graphic](media/immersive-headset.PNG "Immersive headset graphic") <br>Immersive headsets|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><15,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><150,000<br><br>**Materials:**<br>1-2 per object|
 |![Mobile graphic](media/mobile.PNG "Mobile graphic") <br>Mobile|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|Not applicable|Not applicable|
 
-## Import Tool limitations
-
-- Transparency in materials such as glass in a 3D model are not supported.
+> [!NOTE]
+> Transparency in materials such as glass in a 3D model are not supported.
 
 ### See also
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
