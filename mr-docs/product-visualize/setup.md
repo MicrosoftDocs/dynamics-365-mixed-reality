@@ -19,7 +19,7 @@ Microsoft Dynamics 365 Product Visualize requires an active Dynamics 365 for Sal
 The first thing you need to do is create a new Azure Active Directory organization. This new organization provides a safe environment to try out Product Visualize that won't interfere with any existing Dynamics 365 instances. You can also use this organization to create and manage users, separate from your business organization.
 
    > [!NOTE]
-   > If you prefer to add Dynamics 365 for Sales to an existing Azure Active Directory skip ahead to [Add a Dynamics 365 Customer Engagement trial](#add-a-dynamics-365-customer-engagement-trial)
+   > If you prefer to add Dynamics 365 for Sales to an existing Azure Active Directory skip ahead to [Add a Dynamics 365 for Customer Engagement trial](#add-a-dynamics-365-customer-engagement-trial)
 
 1. Sign in to the Microsoft Azure portal at https://ms.portal.azure.com.
 
@@ -60,7 +60,7 @@ After creating the new organization, the next step is to add an admin user for t
 4. At the bottom of the page, select __Create__ to finish creating the user.
 
 
-## Add a Dynamics 365 Customer Engagement trial
+## Add a Dynamics 365 for Customer Engagement trial
 
 Product Visualize integrates directly into Dynamics 365 for Sales, which enables your salespeople to seamlessly transition from vital customer data into an engaging sales experience that changes the way customers think about your products.
 
@@ -72,17 +72,17 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
    ![Billing subscriptions](media/subscriptions.PNG "Billing subscriptions")
 
-4. Find the __Dynamics 365 Customer Engagement Plan__ subscription, select the ellipses (...) at the bottom, and then select __Start Free Trial__.
+4. Find the __Dynamics 365 for Customer Engagement Plan__ subscription, select the ellipses (...) at the bottom, and then select __Start Free Trial__.
 
-   ![Dynamics 365 Customer Engagement plan](media/dynamics-365-customer-engagement-plan.PNG "Dynamics 365 Customer Engagement plan")
+   ![Dynamics 365 for Customer Engagement plan](media/dynamics-365-customer-engagement-plan.PNG "Dynamics 365 for Customer Engagement plan")
 
-5. On the summary page, make sure you're signing up for a __Dynamics 365 Customer Engagement Plan__ trial, and then select __Try Now__.
+5. On the summary page, make sure you're signing up for a __Dynamics 365 for Customer Engagement Plan__ trial, and then select __Try Now__.
 
 6. On the confirmation page, select __Continue__.
 
 ## Assign licenses
 
-Before continuing, make sure the Dynamics 365 Customer Engagement license has been assigned to the admin user.
+Before continuing, make sure the Dynamics 365 for Customer Engagement license has been assigned to the admin user.
 
 1. Go to the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)). In the left navigation, select __Users > Active Users__.
 
@@ -90,7 +90,7 @@ Before continuing, make sure the Dynamics 365 Customer Engagement license has be
 
 3. Next to __Product Licenses__, select __Edit__.
 
-4. Move the slider to **On** for the __Dynamics 365 Customer Engagement Plan__ license.
+4. Move the slider to **On** for the __Dynamics 365 for Customer Engagement Plan__ license.
 
    ![Edit licenses)](media/product-license.PNG "Edit licenses")
 
@@ -98,7 +98,7 @@ Before continuing, make sure the Dynamics 365 Customer Engagement license has be
 
 ## Set up the Dynamics 365 for Sales trial
 
-The next step is to set up the Dynamics 365 Customer Engagement instance. This procedure provides step-by-step instructions for manually installing Dynamics for Sales, which generates a completely empty instance of the Dynamics 365 Common Data Service. 
+The next step is to set up the Dynamics 365 for Customer Engagement instance. This procedure provides step-by-step instructions for manually installing Dynamics for Sales, which generates a completely empty instance of the Dynamics 365 Common Data Service. 
 
 1. In the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for __Admin Centers__, select __Dynamics 365__. It might take a minute or two for this option to appear in the __Admin Centers__ list.
 
@@ -171,7 +171,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 9. Close the window when done.
 
 ## What's next?
-After you've finished the setup process, you'll have an Azure Active Directory organization complete with Microsoft Dynamics 365 Customer Engagement and SharePoint. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator Guide](admin-guide.md).
+After you've finished the setup process, you'll have an Azure Active Directory organization complete with Microsoft Dynamics 365 for Customer Engagement and SharePoint. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator Guide](admin-guide.md).
 
 ### See also
 
