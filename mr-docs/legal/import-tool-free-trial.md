@@ -1,4 +1,13 @@
-
+---
+author: ReneeW-CPub
+description: Microsoft Software License Terms for MICROSOFT DYNAMICS 365 IMPORT TOOL (PREVIEW-FREE TRIAL)
+ms.author: renwe
+ms.date: 04/18/2019
+ms.service: crm-online
+ms.topic: article
+title: Microsoft Software License Terms for MICROSOFT DYNAMICS 365 IMPORT TOOL (PREVIEW-FREE TRIAL)
+robots: noindex, nofollow
+---
 
 # MICROSOFT SOFTWARE LICENSE TERMS<br>MICROSOFT DYNAMICS 365 IMPORT TOOL (PREVIEW-FREE TRIAL) 
 
@@ -24,8 +33,7 @@ to enforce Throttling. The Dynamics 365 Import Tool (Preview) is subject to redu
 privacy commitments. Any data provided to Microsoft through your use of the Dynamics 365 Import Tool (Preview) may be transferred, 
 stored, and processed in the United States, or in any other country where Microsoft of its subcontractors operate. 
 
-> **Important**
-
+> [!IMPORTANT]
 > If you are the administrator for the organization and have authority to act on behalf of and to bind the organization, then by 
 installing or using the Dynamics 365 Import Tool (Preview), you consent to allow authorized users of Microsoft Dynamics 365 
 online services to activate, configure and enable certain functionality which transmits Customer Data (as defined in the MLA) 
@@ -63,14 +71,7 @@ features at any time.
 **3.	PRE-RELEASE SOFTWARE.** The software is a pre-release version. It may not operate correctly. It may be different from the 
 commercially released version.
 
-**4.	DATA COLLECTION.** The software may collect information about you and your use of the software and send that to Microsoft. 
-Microsoft may use this information to provide services and improve Microsoft’s products and services. Your opt-out rights, if any, 
-are described in the product documentation. Some features in the software may enable collection of data from users of your 
-applications that access or use the software. If you use these features to enable data collection in your applications, you must 
-comply with applicable law, including getting any required user consent, and maintain a prominent privacy policy that accurately 
-informs users about how you use, collect, and share their data. You can learn more about Microsoft’s data collection and use in the 
-product documentation and the Microsoft Privacy Statement at https://go.microsoft.com/fwlink/?LinkId=521839. You agree to comply 
-with all applicable provisions of the Microsoft Privacy Statement.
+**4.	DATA COLLECTION.** The software may collect information about you and your use of the software and send that to Microsoft. Your opt-out rights, if any, are described in the product documentation. Some features in the software may enable you or your users to provide certain data to Microsoft. Providing such data to Microsoft is optional. Microsoft may use this information and data to provide services and improve Microsoft’s products and services. You can learn more about Microsoft’s data collection and use of data you elect to provide Microsoft in the product documentation and the Microsoft Privacy Statement at https://go.microsoft.com/fwlink/?LinkId=521839. You agree to comply with all applicable provisions of the Microsoft Privacy Statement.
 
 **5.	DATA TRANSFERS.** Customer Data and Personal Data (as defined in the MLA) that Microsoft processes on your behalf may be 
 transferred to, and stored and processed in, the United States or any other country in which Microsoft or its subprocessors operate. 
@@ -114,7 +115,7 @@ to receive these automatic updates without any additional notice. Updates may no
 features, services, or peripheral devices.
 
 **10.	FEEDBACK.** “Feedback” is all suggestions, comments, input, ideas, or know-how, in any form, that you provide to Microsoft 
-about the Dynamics 365 Import Tool (Preview). If you give Feedback to Microsoft, you give to Microsoft, without charge, the 
+about Microsoft products and services, including the Dynamics 365 Import Tool (Preview). If you give Feedback to Microsoft, you give to Microsoft, without charge, the 
 right to use, share and commercialize your Feedback in any way and for any purpose. You will not give Feedback that is 
 subject to a license that requires Microsoft to license its software or documentation to third parties because Microsoft 
 includes your Feedback in them. These rights survive this agreement.

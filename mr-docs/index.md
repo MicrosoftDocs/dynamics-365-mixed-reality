@@ -49,6 +49,32 @@ ms.custom:
                                         <div class="card">
                                             <div class="cardImageOuter">
                                                 <div class="cardImage">
+                                                    <img alt="" src="/dynamics365/images/ImportMixedRealityLayoutLogoExtensions-03.svg">
+                                                </div>
+                                            </div>
+                                            <div class="cardText">
+                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Import Tool (in preview)</h3>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/index">Overview</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/convert-models">Convert your 3D (CAD) models</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/optimize-models">Optimize your 3D models</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/best-practices">Best practices for 3D models</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/requirements">Requirements for installing Import Tool</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/try-import-tool-free">Try Import Tool free</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/install">Install Import Tool</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/import-tool">Use the Import Tool</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/layout">Work with Dynamics 365 Layout</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/import-tool/guides">Work with Dynamics 365 Guides</a></p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="cardSize">
+                                    <div class="cardPadding">
+                                        <div class="card">
+                                            <div class="cardImageOuter">
+                                                <div class="cardImage">
                                                     <img alt="" src="/dynamics365/images/Layout_outline_36px_blue.svg">
                                                 </div>
                                             </div>
@@ -59,6 +85,7 @@ ms.custom:
                                                 <p><a href="/dynamics365/mixed-reality/layout/try-layout-free">Try Layout free</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/buy-and-deploy">Buy and deploy</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/user-guide">User Guide</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/import-tool">Use Import Tool</a></p>
                                                 <p><a href="https://go.microsoft.com/fwlink/?linkid=2021489">Videos</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/faq">FAQ</a></p>
                                             </div>

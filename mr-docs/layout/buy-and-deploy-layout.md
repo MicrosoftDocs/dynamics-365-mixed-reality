@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Learn how to buy Dynamics 365 Layout, add users to the subscription, and deploy the app to users in several different ways
 ms.author: ornella
-ms.date: 03/01/2019
+ms.date: 04/18/2019
 ms.service: crm-online
 ms.topic: article
 title: Buy and deploy Dynamics 365 Layout
@@ -18,7 +18,7 @@ With [!include[pn-layout](../includes/pn-layout.md)] you can bridge the gap betw
 > [!TIP]
 > Did you know you can try Layout for free for up to 90 days? [Learn more about the free 90-day trial](try-layout-free.md).
 
-You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!include[pn-remote-assist](../includes/pn-remote-assist.md)] in any of the following ways:
+You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] in any of the following ways:
 
 -   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
     - Calling us at 1-888-477-7989, or
@@ -29,6 +29,8 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] or [!includ
 -   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
 
 -   [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner)
+
+When you subscribe to Layout, you also get the Dynamics 365 Import Tool (Preview) as part of the Layout subscription.
 
 ## Subscribe through the Microsoft 365 Admin Center
 

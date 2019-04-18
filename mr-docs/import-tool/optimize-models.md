@@ -1,0 +1,55 @@
+---
+author: BryceHo
+description: How to optimize your 3D (CAD) models to use with the Dynamics 365 Import Tool (Preview)
+ms.author: BryceHo
+ms.date: 04/18/2019
+ms.service: crm-online
+ms.topic: article
+title: Optimize your 3D models to use with they Dynamics 365 Import Tool (Preview)
+ms.reviewer: v-brycho
+---
+
+# Optimize your 3D models
+
+![Optimize flow highlighted](media/optimize-flow.PNG "Optimize flow highlighted") 
+
+For best rendering and best possible real-time performance, your 3D models need to be converted and might need to be optimized before using the Microsoft Dynamics 365 Import Tool (Preview). Third-party applications that convert CAD files often have tools that can optimize content as well. 
+
+The following table lists software tools that you can use to convert and/or optimize your CAD files or intermediate files into GLB files. Your use of third-party applications is subject to terms between you and the third party. Microsoft does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
+
+|Software|Import|Export|Convert/transcode|Optimization|
+|---------------------------------|----------------------------------------|--------------------|--------------------|-------------------|
+|[PiXYZ Software](https://aka.ms/Pixyz)|STEP, Catia, JT, OBJ, FBX, and more|glTF 2.0|Yes|Yes|
+|[Maxon Cinema 4D](https://aka.ms/MaxonCinema4D)|SOLIDWORKS, STEP, Catia, JT, and IGES|FBX, glTF 2.0 (beta)|Yes|Yes|
+|[Simplygon Studios](https://aka.ms/Simplygonsoftware)|FBX, OBJ|FBX|No|Yes|
+|[Unreal Datasmith](https://aka.ms/UnrealDatasmithsoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX|Yes|No|
+|[Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ|Yes|Yes|
+
+<br>
+Here's an example of CAD, converted, and optimized 3D models.<br></br>
+
+|CAD|Converted to GLB|Optimized GLB|
+|------------------------------------------|----------------------------------------------|----------------------------------------------|
+|![CAD illustration](media/CAD.PNG "CAD illustration")|![GLB illustration](media/GLB.PNG "GLB illustration")|![Optimized GLB illustration](media/optimized-GLB.PNG "Optimized GLB illustration")|
+|Original CAD file|52,000 triangles|9,000 triangles|
+
+## Performance targets
+
+The Dynamics 365 mixed reality applications can be used on HoloLens, immersive headsets, and mobile devices. The goal is to provide the highest possible visual fidelity without adversely affecting performance. 
+
+The following table lists some general conservative targets to aim for when acquiring or authoring 3D models for a range of hardware. When in doubt, target the mid-range profile for a balance of fidelity and performance. 
+
+||Low-scene complexity<br>![Low complexity graphic](media/simple.PNG "Low complexity graphic")|Medium scene complexity<br>![Medium complexity graphic](media/medium.PNG "Medium complexity graphic")|High scene complexity<br>![High complexity graphic](media/complex.PNG "High complexity graphic")|
+|--------------|---------------------------|-----------------------------------|-----------------------------------|
+|![HoloLens graphic](media/hololens.PNG "HoloLens graphic")<br>HoloLens|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><100,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><30,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><10,000<br><br>**Materials:**<br>1-2 per object|
+|![Immersive headset graphic](media/immersive-headset.PNG "Immersive headset graphic") <br>Immersive headsets|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><15,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><150,000<br><br>**Materials:**<br>1-2 per object|
+|![Mobile graphic](media/mobile.PNG "Mobile graphic") <br>Mobile|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|Not applicable|Not applicable|
+
+> [!NOTE]
+> Transparency in materials such as glass in a 3D model are not supported.
+
+### See also
+[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
+[Convert 3D models](convert-models.md)<br>
+[Best practices for converting and optimizing 3D models](best-practices.md)<br>
+[Use the Import Tool](import-tool.md)
