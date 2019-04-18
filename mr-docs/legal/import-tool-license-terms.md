@@ -9,7 +9,7 @@ title: Microsoft Software License Terms MICROSOFT DYNAMICS 365 IMPORT TOOL (PREV
 robots: noindex, nofollow
 ---
 
-Microsoft Software License Terms<br>MICROSOFT DYNAMICS 365 IMPORT TOOL (PREVIEW)
+Microsoft Software License Terms - MICROSOFT DYNAMICS 365 IMPORT TOOL (PREVIEW)
 ================================================================================
 
 **1.** These license terms are an agreement between you and Microsoft Corporation
