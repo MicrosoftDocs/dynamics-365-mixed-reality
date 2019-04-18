@@ -9,7 +9,7 @@ title: Use the Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynam
 ms.reviewer: v-brycho
 ---
 
-# Use the Dynamics 365 Import Tool
+# Use the Dynamics 365 Import Tool (Preview)
 
 ![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
 
