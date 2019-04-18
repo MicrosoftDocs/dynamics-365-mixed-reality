@@ -13,11 +13,11 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-You can capture notes on specific points on a 3D model in Microsft Dynamics 365 Product Visualize, and even add text or ink to the notes. For example, when you’re out in the field with a customer, capture any required product changes directly on the model. 
+You can capture notes on specific points on a 3D model in Microsoft Dynamics 365 Product Visualize, and even add text or ink to the notes. For example, when you’re out in the field with a customer, capture any required product changes directly on the model. 
 
-To add a note, you tap the location of the model where you want to add the note, and then  take a picture of the model or upload a picture from your photo library to set the context.  Then you can ink on the image or add comments.  Notes you create are saved in a notes file in the Documents folder for the corresponding Dynamics 365 for Sales opportunity. 
+To add a note, you tap the location of the model where you want to add the note, and then take a picture of the model or upload a picture from your photo library to set the context. Then you can ink on the image or add comments. Notes you create are saved in a notes file in the Documents folder for the corresponding Dynamics 365 for Sales opportunity. 
 
-To review notes you have made on your model, you can tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. You can also browse through your notes by swiping the notes cards at the bottom of the screen. The corresponding spatial anchor will activate on the model as you swipe. 
+To review notes you have made on your model, you can tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. You can also browse through your notes by swiping the notes cards at the bottom of the screen. The corresponding spatial anchor activates on the model as you swipe. 
 
 ![Types of notes](media/types-of-notes.PNG "Types of notes")
 
@@ -37,7 +37,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
  
 4.	Do one of the following:
 
-    -	To take a picture, select **Capture** on the right side of the screen. The app will take a picture of the model.
+    -	To take a picture, select **Capture** on the right side of the screen. The app takes a picture of the model.
     
     -	To use a picture from your camera roll, select **Camera Roll**, and then select the picture you want.
     
@@ -52,7 +52,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
        ![Add text](media/add-text.PNG "Add text")
  
        > [!NOTE]
-       > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered will be retained, but inking will be lost.    
+       > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered is retained, but inking is lost.    
 
 ## View the notes attached to a model
 
@@ -60,7 +60,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
     ![Select Notes item](media/select-notes.PNG "Select Notes item") 
 
-2.	Tap a blue dot to open a specific note or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
+2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
 
     > [!NOTE]
     > If you want to see a larger view of the notes, which is useful if you can’t see all the text in the notes card, tap the expand arrow in the upper-right corner of the notes card or flick up. Then you can use the scroll bar in the notes card to scroll the text. 
@@ -94,7 +94,7 @@ By default, your notes are saved to the SharePoint account associated with your 
 
 To turn off sharing with the Dynamics 365 for Sales timeline or Microsoft Teams channels:
 
-1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the **Edit** button next to the organization you're signed into.
+1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select **Edit** next to the organization you're signed into.
 
    ![Edit account settings](media/edit-account-settings.PNG "Edit account settings")
 
