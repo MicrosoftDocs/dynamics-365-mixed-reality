@@ -2,7 +2,7 @@
 author: mamithan
 description: Frequently asked questions about Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 04/8/2019
+ms.date: 04/19/2019
 ms.service: crm-online
 ms.topic: article
 title: Frequently asked questions about Dynamics 365 Product Visualize
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-## What are the requirements for running Microsoft Dynamics 365 Product Visualize and what platforms does it support?
+## What are the requirements for running Microsoft Dynamics 365 Product Visualize, and what platforms does it support?
 
 For information on platforms and requirements, check out [our Requirements page](requirements.md).
 
@@ -27,7 +27,7 @@ To learn how to format your content, see the following page on the Kronos websit
 
 ## How does Product Visualize connect with Dynamics 365 for Sales?
 
-After logging in with your Azure Active Directory credentials, Product Visualize diplays organizations associated with your Dynamics 365 for Sales account. Opportunities and products associated with your organizations will automatically show up in the app, as will 3D models attached to your products.
+After you sign in with your Azure Active Directory credentials, Product Visualize displays organizations associated with your Dynamics 365 for Sales account. Opportunities and products associated with your organizations automatically show up in the app, as do 3D models attached to your products.
 	
 ## Can I use Product Visualize to do remote sales?
 
