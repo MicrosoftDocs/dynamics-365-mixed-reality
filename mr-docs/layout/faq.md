@@ -15,7 +15,7 @@ Here are answers to common questions about using [!include[cc-microsoft](../incl
 
 ## Can I try Layout before buying it?
 
-Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a free trial for up to 90 days. It's nearly effortless to install and try out the app. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md). Note that the 90-day free trial is only available for users who haven't already purchased a subscription. 
+Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a trial for up to 90 days. It's nearly effortless to install and try out the app. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md). Note that the 90-day trial is only available for users who haven't already purchased a subscription. 
 
 ## How do I buy [!include[pn-layout](../includes/pn-layout.md)]?  
 
@@ -103,7 +103,7 @@ Still need help? Try our [user forums](https://community.dynamics.com/365/layout
 ### See also
 [Overview of Layout](index.md)<br/>
 [Device options and technical requirements](requirements.md)<br/>
-[Try Layout for free for up to 90 days](try-layout-free.md)<br/>
+[Use Layout on a trial basis for up to 90 days](try-layout-free.md)<br/>
 [Buy and deploy Layout](buy-and-deploy-layout.md)<br/>
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
