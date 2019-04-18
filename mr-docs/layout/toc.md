@@ -1,7 +1,7 @@
 # Dynamics 365 Layout
 ## [Overview](index.md)
 ## [Device options and technical requirements](requirements.md)
-## [Try Layout for free](try-layout-free.md)
+## [Try Layout for up to 90 days](try-layout-free.md)
 ## [Buy and deploy Layout](buy-and-deploy-layout.md)
 ## [User Guide](user-guide.md)
 ## [Use the Import Tool with Layout](import-tool.md)
