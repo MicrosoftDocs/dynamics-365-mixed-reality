@@ -16,7 +16,7 @@ ms.reviewer: v-brycho
 To get the full benefits of Microsoft Dynamics Product Visualize, you'll need a Dynamics 365 account. When you sign in with your Dynamics 365 for Sales account, Product Visualize automatically connects to your Dynamics 365 for Sales opportunities.
 
 > [!TIP]
-> If you just want to explore sample 3D content, you don’t need to have a Dynamics 365 account. For more information, see [Explore sample 3D models](explore-samples.md).
+> If you just want to explore sample 3D content, you don’t need a Dynamics 365 account. For more information, see [Explore sample 3D models](explore-samples.md).
  
 ## Install the app
 
@@ -76,7 +76,7 @@ If you haven’t already installed Product Visualize on your iOS device, you can
 
 2.	Select the **Product Visualize** tab. 
 
-    ![Product Visualize tab](media/dynamics-entrypoint.PNG "ProductVisualize tab")
+    ![Product Visualize tab](media/dynamics-entrypoint.PNG "Product Visualize tab")
 
 3.	Do one of the following:
 
