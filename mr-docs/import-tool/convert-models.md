@@ -23,6 +23,10 @@ The Import Tool provides two options for preparing your 3D models:
 
 The following table describes the two options and the file formats supported for each:
 
+
+<!--In the following table, should there be a file format for the second option?-->
+
+
 |Option|Description|Supported file formats|
 |------------|-----------------------------------------------------------------|-----------------------------|
 |Import using this PC|Use this option if you want to import self-authored models without any optimization.|GLB only|
