@@ -41,7 +41,7 @@ CAD models can be exported directly to glTF format or into intermediate formats 
 [Blender.org Blender](https://aka.ms/Blender_2.8)|Native import/export for Blender 2.8 or later|
 [Autodesk 3DS Max](https://aka.ms/BabylonJS_Max2Babylon_Installation)|Babylon.JS plug-in for Max 2015 or later|
 [Autodesk Maya](https://aka.ms/BabylonJS_Maya2Babylon_Installation)|Babylon.JS plug-in for Maya 2018 or later|
-[Trimble Sketchup](https://aka.ms/SketchUp_glTF_Export)|Separate extensions for [import](https://aka.ms/Sketchupimport) and [export](https://aka.ms/sketchupexport)|
+[Trimble SketchUp](https://aka.ms/SketchUp_glTF_Export)|Separate extensions for [import](https://aka.ms/Sketchupimport) and [export](https://aka.ms/sketchupexport)|
 |[Allegorithmic Substance Painter](https://aka.ms/SubstancePainter_glTF_Exporter)|Native exporter|
 |[SideFX Houdini](https://aka.ms/Houdini_glTF_Exporter)|Native import/export|
 |[Maxon Cinema 4D](https://www.maxon.net/en-us/products/cinema-4d/overview/)|Native export plug-in|
