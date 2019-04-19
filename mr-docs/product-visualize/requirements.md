@@ -35,8 +35,8 @@ throughout your organization.
 ### See also
 
 [Set up Dynamics 365 Product Visualize](setup.md)<br>
-[Administrator Guide](admin-guide.md)<br>
-[User Guide](user-guide.md)<br>
+[Administrator guide](admin-guide.md)<br>
+[User guide](user-guide.md)<br>
 [FAQ](faq.md)<br>
 
 
