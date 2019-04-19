@@ -2,7 +2,7 @@
 author: ReneeW-CPub
 description: Microsoft Software License Terms for MICROSOFT DYNAMICS 365 IMPORT TOOL (PREVIEW-FREE TRIAL)
 ms.author: renwe
-ms.date: 04/18/2019
+ms.date: 04/19/2019
 ms.service: crm-online
 ms.topic: article
 title: Microsoft Software License Terms for MICROSOFT DYNAMICS 365 IMPORT TOOL (PREVIEW-FREE TRIAL)
