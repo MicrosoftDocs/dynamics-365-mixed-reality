@@ -68,7 +68,7 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 2. Sign in with the administrator credentials you created in the previous procedure, and, if prompted, set a new password.
 
-3. In the left pane, select __Billing > Subscriptions__, and then select __Add subscriptions__.
+3. In the left pane, select **Billing** > **Subscriptions**, and then select __Add subscriptions__.
 
    ![Billing subscriptions](media/subscriptions.PNG "Billing subscriptions")
 
@@ -84,7 +84,7 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 Before continuing, make sure the Dynamics 365 for Customer Engagement license has been assigned to the admin user.
 
-1. Go to the Microsoft 365 admin center \([https://admin.microsoft.com](https://admin.microsoft.com)). In the left pane, select __Users > Active Users__.
+1. Go to the Microsoft 365 admin center \([https://admin.microsoft.com](https://admin.microsoft.com)). In the left pane, select **Users** > **Active Users**.
 
 2. Double-click the name of the admin user created earlier. 
 
@@ -98,7 +98,7 @@ Before continuing, make sure the Dynamics 365 for Customer Engagement license ha
 
 ## Set up the Dynamics 365 for Sales trial
 
-The next step is to set up the Dynamics 365 for Customer Engagement instance. This procedure provides step-by-step instructions for manually installing Dynamics for Sales, which generates a completely empty instance of the Dynamics 365 Common Data Service. 
+The next step is to set up the Dynamics 365 for Customer Engagement instance. This procedure provides step-by-step instructions for manually installing Dynamics for Sales, which generates a completely empty instance of the Common Data Service. 
 
 1. In the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for __Admin Centers__, select __Dynamics 365__. It might take a minute or two for this option to appear in the __Admin Centers__ list.
 
@@ -119,7 +119,7 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 
 4. In the left pane, in the __Admin Centers__ list, select **Dynamics 365 Admin Portal**.
 
-   On the __Instances__ page, you should see your newly created instance selected and some properties in a gray box on the right. Your new solution is still being set up. Wait for Setup to complete before moving on to the next step.
+   On the __Instances__ page, you should see your newly created instance selected and some properties in a gray box on the right. Your new solution is still being set up. Wait for setup to complete before moving on to the next step.
 
    > [!NOTE]
    > It can take around 10 minutes for the setup process to finish. You'll know the process is complete when you see __CRM Hub__ listed under __Solutions__ for your instance. Refresh the page periodically to check on the status.
@@ -148,7 +148,7 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 
 3. In the navigation bar at the top of the page, select the arrow next to __Settings__, and then select __Document Management__.
 
-   ![Document Management settings](media/sharepoint.PNG "SharePoint")
+   ![Document Management settings](media/sharepoint.PNG "Document Management settings")
 
 4. Select __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint.
 
@@ -171,9 +171,9 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 9. Close the window when done.
 
 ## What's next?
-After you've finished the setup process, you'll have an Azure Active Directory organization complete with Microsoft Dynamics 365 for Customer Engagement and SharePoint. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator Guide](admin-guide.md).
+After you've finished the setup process, you'll have an Azure Active Directory organization complete with Microsoft Dynamics 365 for Customer Engagement and SharePoint. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator guide](admin-guide.md).
 
 ### See also
 
-[User Guide](user-guide.md)<br>
+[User guide](user-guide.md)<br>
 [FAQ](faq.md)
