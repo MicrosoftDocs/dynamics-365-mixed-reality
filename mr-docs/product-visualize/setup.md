@@ -25,7 +25,7 @@ The first thing you need to do is create a new Azure Active Directory organizati
 
 2. If your organization has multiple Azure subscriptions, select **Directory & Subscription** ![Directory and Subscription button](media/directory-and-subscription-button.PNG "Directory and Subscription button") in the upper-right corner of the page to view the list of available subscriptions. 
 
-3. In the left navigation, select **Create a resource** > **Identity**, > **Azure Active Directory**.
+3. In the left pane, select **Create a resource** > **Identity**, > **Azure Active Directory**.
 
    ![Create resource)](media/create-resource.PNG "Create resource")
 
@@ -43,7 +43,7 @@ The first thing you need to do is create a new Azure Active Directory organizati
 
 After creating the new organization, the next step is to add an admin user for the organization. The admin user is responsible for creating additional users, assigning licenses, and initializing Dynamics 365. As the creator of this organization, you could use your work account to manage the system, but we recommend creating a separate administrator account for each organization.
 
-1. In the left navigation, select __Azure Active Directory__, and then select __Users__.
+1. In the left pane, select __Azure Active Directory__, and then select __Users__.
 
    ![Azure Active Directory](media/azure-active-directory.PNG "Azure Active Directory")
 
@@ -64,15 +64,15 @@ After creating the new organization, the next step is to add an admin user for t
 
 Product Visualize integrates directly into Dynamics 365 for Sales, which enables your salespeople to seamlessly transition from vital customer data into an engaging sales experience that changes the way customers think about your products.
 
-1. In a private browser window, go to the Microsoft 365 Admin Center at [https://admin.microsoft.com](https://admin.microsoft.com).
+1. In a private browser window, go to the Microsoft 365 admin center at [https://admin.microsoft.com](https://admin.microsoft.com).
 
 2. Sign in with the administrator credentials you created in the previous procedure, and, if prompted, set a new password.
 
-3. In the left navigation, select __Billing > Subscriptions__, and then select __Add subscriptions__.
+3. In the left pane, select __Billing > Subscriptions__, and then select __Add subscriptions__.
 
    ![Billing subscriptions](media/subscriptions.PNG "Billing subscriptions")
 
-4. Find the __Dynamics 365 for Customer Engagement Plan__ subscription, select the ellipses (...) at the bottom, and then select __Start Free Trial__.
+4. Find the __Dynamics 365 for Customer Engagement Plan__ subscription, select the **More Information** (...) at the bottom, and then select __Start Free Trial__.
 
    ![Dynamics 365 for Customer Engagement plan](media/dynamics-365-customer-engagement-plan.PNG "Dynamics 365 for Customer Engagement plan")
 
@@ -84,7 +84,7 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 Before continuing, make sure the Dynamics 365 for Customer Engagement license has been assigned to the admin user.
 
-1. Go to the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)). In the left navigation, select __Users > Active Users__.
+1. Go to the Microsoft 365 admin center \([https://admin.microsoft.com](https://admin.microsoft.com)). In the left pane, select __Users > Active Users__.
 
 2. Double-click the name of the admin user created earlier. 
 
@@ -117,7 +117,7 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 
    ![Complete Setup](media/complete-setup.PNG "Complete setup")
 
-4. In the left navigation, in the __Admin Centers__ list, select **Dynamics 365 Admin Portal**.
+4. In the left pane, in the __Admin Centers__ list, select **Dynamics 365 Admin Portal**.
 
    On the __Instances__ page, you should see your newly created instance selected and some properties in a gray box on the right. Your new solution is still being set up. Wait for Setup to complete before moving on to the next step.
 
