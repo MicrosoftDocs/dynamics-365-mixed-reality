@@ -89,17 +89,17 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 4. In the **New User** dialog box, fill in the following fields:
 
-    - First Name
+    - **First Name**
     
-    - Last Name
+    - **Last Name**
     
-    - Display Name
+    - **Display Name**
     
-    - Username
+    - **Username**
     
-    - Location
+    - **Location**
     
-5. Assign the user a role based on the resources they need to access:
+5. Assign the user a role based on the resources that they need to access:
 
     * **User** - This user won't have permissions to the Microsoft 365 admin center or any admin tasks.
     
@@ -347,7 +347,7 @@ The Product Visualize Control is an optional enhancement that allows salespeople
 
 3. In the **Settings** drop-down list at the top of the page, select **Solutions**.
 
-5. Import the solution by selecting the **Import** button and selecting the solution .zip file you downloaded.
+5. Import the solution by selecting the **Import** button and selecting the solution (.zip file) you downloaded.
 
    ![Import Solution](media/import-solution.PNG "Import Solution")
  
@@ -438,7 +438,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 2. Select __Add Channel__. 
 
-3. Give the channel a name related to the opportunities you want to connect to it (example: Seattle-area opportunities).
+3. Give the channel a name related to the opportunities you want to connect to it (for example: Seattle-area opportunities).
 
 4. Select __Add__.
    
