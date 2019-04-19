@@ -4,8 +4,8 @@
 ## Setup and administration
 ### [Set up new Dynamics 365 for Sales instance](setup.md)
 ### [Set up on existing Dynamics 365 for Sales instance](setup-existing-instance.md)
-### [Administrator Guide](admin-guide.md)
-## [User Guide](user-guide.md)
+### [Administrator guide](admin-guide.md)
+## [User guide](user-guide.md)
 ### [Install, open, and sign in to the app](sign-in.md)
 ### [Place and manipulate 3D models](manipulate-models.md)
 ### [Add a note to your 3D model](add-note.md)
