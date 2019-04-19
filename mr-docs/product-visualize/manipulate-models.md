@@ -18,7 +18,7 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 ![Opportunities, products, and 3D models)](media/manipulating-3D-models.PNG "Opportunities, products, and 3D models")
 
 > [!NOTE]
-> If you're the administrator, to learn how to add 3D models to Dynamics 365 for Sales, see the [Administrator Guide](admin-guide.md).
+> If you're the administrator, to learn how to add 3D models to Dynamics 365 for Sales, see the [Administrator guide](admin-guide.md).
 
 ## View a 3D model in mixed reality 
 
@@ -32,7 +32,7 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
     ![Advice on finding a plane)](media/find-plane.PNG "Advice on finding a plane")
 
-    After you find a suitable surface, you’ll see the model loading indicator:
+    After you find a suitable surface, you’ll see the model-loading indicator:
     
     ![Model-loading screen)](media/model-loading.PNG "Model-loading screen")
  
