@@ -29,6 +29,6 @@ sales process.
 
 [Requirements for setting up Dynamics 365 Product Visualize](requirements.md)<br>
 [Setup](setup.md)<br>
-[Administrator Guide](admin-guide.md)<br>
-[User Guide](user-guide.md)<br>
+[Administrator guide](admin-guide.md)<br>
+[User guide](user-guide.md)<br>
 [FAQ](faq.md)<br>
