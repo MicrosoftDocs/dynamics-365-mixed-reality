@@ -5,11 +5,11 @@ ms.date: 04/19/2019
 ms.author: rroesler
 ms.service: crm-online
 ms.topic: article
-title: Administrator Guide for Dynamics 365 Product Visualize
+title: Administrator guide for Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
-# Administrator Guide for Dynamics 365 Product Visualize
+# Administrator guide for Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
@@ -35,7 +35,7 @@ This topic provides step-by-step procedures for all of the above.
 
 ## Set up a user group
 
-You can use Office 365 Groups to choose a set of people to collaborate with and to set up a collection of shared resources. Providing access to the group saves time because that way, you don't have to provide individual SharePoint permissions. The group needs to have Read/Write permissions to the SharePoint site to make full use of Product Visualize.
+You can use Office 365 Groups to choose a set of people to collaborate with and to set up a collection of shared resources. Providing access to the group saves time because that way, you don't have to provide individual SharePoint permissions. The group needs to have read/write permissions to the SharePoint site to make full use of Product Visualize.
 
 ### Create a user group
 
@@ -75,7 +75,7 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 The admin user created during the setup of your instance has full control of all aspects of your trial environment. This user can administer your team's licenses, edit settings in Dynamics 365, and manage who has access to your services. The admin user can also add more users with more restrictive permissions so each salesperson can work with their own account.
 
-New users must first be added in the Azure Active Directory, which assigns them a username and password. Then, the user must be assigned a security role in Dynamics 365 so they can access the Dynamics 365 applications.
+New users must first be added in Azure Active Directory, which assigns them a username and password. Then, the user must be assigned a security role in Dynamics 365 so they can access the Dynamics 365 applications.
 
 ### Add a user to your organization
 
@@ -119,8 +119,8 @@ New users must first be added in the Azure Active Directory, which assigns them 
 
 10. Select **Close** to finish adding the user.
 
-    > [!NOTE]
-    > It can take some time for users added to your organization to show up in Dynamics 365, so it's a good idea to add all the users to your organization before continuing.
+    >[!NOTE]
+    >It can take some time for users added to your organization to show up in Dynamics 365, so it's a good idea to add all the users to your organization before continuing.
 
 ### Assign a security role to the user
 
