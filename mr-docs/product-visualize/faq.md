@@ -23,7 +23,7 @@ Product Visualize supports GLB files only.
 
 ## How do I get my content in the right format?
 
-To learn how to format your content, see the following page on the Kronos website: [Art Pipeline for glTF](https://go.microsoft.com/fwlink/p/?linkid=2083000). 
+To learn how to format your content, see the following page on the Khronos website: [Art Pipeline for glTF](https://go.microsoft.com/fwlink/p/?linkid=2083000). 
 
 ## How does Product Visualize connect with Dynamics 365 for Sales?
 
