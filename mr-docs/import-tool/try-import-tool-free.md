@@ -22,7 +22,7 @@ You can try Microsoft Dynamics 365 Import Tool (Preview) for free for up to 90 d
 3. Download and install the app.
 
 4. Start the app, and then sign in with an Azure AD account. If you don't already have an Azure AD account, the app will prompt you to 
-create a free account. Or you can [sign up for a free Azure AD account at this website](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-access-create-new-tenant). 
+create a free account. Or you can [sign up for a free Azure AD account at this website](https://azure.microsoft.com/en-us/free/). 
 
 
 <!--From the link above, you still have to click another link to get to the sign-up page for a free Azure account. This URL is more direct: https://azure.microsoft.com/en-us/free/  -->
