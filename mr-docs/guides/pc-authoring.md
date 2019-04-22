@@ -342,7 +342,7 @@ To import your own 3D objects:
 
 2.	Locate the 3D object you want to import, and then select **Open**.
 
-    ![Import custom 3D part)](media/import-3D-part.PNG "Import custom 3D part")
+    ![Import custom 3D part](media/import-3D-part.PNG "Import custom 3D part")
     
 > [!NOTE]
 > Guides supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/best-practices)
