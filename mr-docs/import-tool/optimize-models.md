@@ -11,7 +11,8 @@ ms.reviewer: v-brycho
 
 # Optimize your 3D models
 
-![Optimize flow highlighted](media/optimize-flow.PNG "Optimize flow highlighted") 
+> [!div class="mx-imgBorder"]
+> ![Optimize flow highlighted](media/optimize-flow.PNG "Optimize flow highlighted") 
 
 For best rendering and best possible real-time performance, your 3D models need to be converted and might need to be optimized before using the Microsoft Dynamics 365 Import Tool (Preview). Third-party applications that convert CAD files often have tools that can optimize content as well. 
 
@@ -39,7 +40,7 @@ The Dynamics 365 mixed reality applications can be used on HoloLens, immersive h
 
 The following table lists some general conservative targets to aim for when acquiring or authoring 3D models for a range of hardware. When in doubt, target the mid-range profile for a balance of fidelity and performance. 
 
-||Low-scene complexity<br>![Low complexity graphic](media/simple.PNG "Low complexity graphic")|Medium scene complexity<br>![Medium complexity graphic](media/medium.PNG "Medium complexity graphic")|High scene complexity<br>![High complexity graphic](media/complex.PNG "High complexity graphic")|
+||Low scene complexity<br>![Low complexity graphic](media/simple.PNG "Low complexity graphic")|Medium scene complexity<br>![Medium complexity graphic](media/medium.PNG "Medium complexity graphic")|High scene complexity<br>![High complexity graphic](media/complex.PNG "High complexity graphic")|
 |--------------|---------------------------|-----------------------------------|-----------------------------------|
 |![HoloLens graphic](media/hololens.PNG "HoloLens graphic")<br>HoloLens|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><100,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><30,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><10,000<br><br>**Materials:**<br>1-2 per object|
 |![Immersive headset graphic](media/immersive-headset.PNG "Immersive headset graphic") <br>Immersive headsets|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><15,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><150,000<br><br>**Materials:**<br>1-2 per object|
@@ -52,4 +53,4 @@ The following table lists some general conservative targets to aim for when acqu
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
-[Use the Import Tool](import-tool.md)
+[Use the Import Tool (Preview)](import-tool.md)
