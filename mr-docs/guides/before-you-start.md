@@ -2,7 +2,7 @@
 author: BryceHo
 description: Things to keep in mind before you start authoring in Dynamics 365 Guides in preview, including media and file naming.
 ms.author: mamaylya
-ms.date: 02/24/2019
+ms.date: 04/22/2019
 ms.service: crm-online
 ms.topic: article
 title: Things to keep in mind before you start authoring in Dynamics 365 Guides in preview
@@ -87,11 +87,13 @@ using video captions, if available, for noisy environments.
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
 optimized for HoloLens. For more information, see the [Authoring guide](pc-authoring.md).
 
-You can also create and import your own custom 3D parts. If you use custom 3D parts, make sure to optimize them as much as possible 
-before importing them to Guides. It’s also good to break up 3D parts as much as possible. For example, if you have a 3D model that 
-shows a composite part for an engine, create separate 3D parts for all the individual pieces to better highlight the parts in a step.
+You can also create and import your own custom 3D parts using CAD models. Guides supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool and preparing 3D models, see these topics:
 
-Guides supports GLTF, GLB, and FBX file formats. For additional file support (including some CAD formats) and automated 3D model optimization, you can use the [Import Tool](import-tool.md) available through Dynamics 365 Layout.
+- [Import Tool overview](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/)
+
+- [Optimize your 3D models](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models)
+
+- [Best practices for 3D models](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/best-practices)
 
 ## Set up a folder structure
 

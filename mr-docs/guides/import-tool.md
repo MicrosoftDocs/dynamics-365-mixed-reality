@@ -2,7 +2,7 @@
 author: robutter
 description: Use the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides in preview
 ms.author: robutter
-ms.date: 04/18/2019
+ms.date: 04/22/2019
 ms.service: crm-online
 ms.topic: article
 title: Use the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides in preview
@@ -13,5 +13,11 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Microsoft Dynamics 365 Guides in preview supports glTF, GLB, and FBX file formats. For additional file support (including some CAD formats) and automated 3D model optimization, you can use the Dynamics 365 Import Tool (Preview) available through Dynamics 365 Layout. You can also set up a free 90-day trial of the Import Tool. To learn more about the Import Tool, see [Import Tool overview](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
+With Microsoft Dynamics 365 Guides, you can create and import your own custom 3D parts using CAD models. Guides supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool, see these topics:
+
+- [Import Tool overview](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/index)
+
+- [Optimize your 3D models](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models)
+
+- [Best practices for 3D models](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/best-practices)
 
