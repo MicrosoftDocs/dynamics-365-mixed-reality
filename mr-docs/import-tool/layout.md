@@ -29,7 +29,8 @@ To work with a Microsoft Visio floor plan in Layout, you need to do three steps:
 
 2.	Select **Settings**, and then select the 32-bit or the 64-bit download. Choose the one that matches your version of Visio.
 
-    ![Visio add-in](media/visio-add-in.PNG "Visio add-in") 
+    > [!div class="mx-imgBorder"]
+    > ![Visio add-in](media/visio-add-in.PNG "Visio add-in") 
 
 3.	Open Visio, and then select **File** > **Options** > **Add-ins**.
 
@@ -57,7 +58,8 @@ After you’ve created the floor plan in Visio, select the **Layout** tab, selec
 
     c.	Select the check box on the layouts you want to copy, and then select **Send**.
     
-       ![Copy layouts](media/copy-layouts.PNG "Copy layouts") 
+       > [!div class="mx-imgBorder"]
+       > ![Copy layouts](media/copy-layouts.PNG "Copy layouts") 
     
     d.	On HoloLens, open the Layout app. You’ll find your floor plan on the **Layouts** tab.
     
@@ -100,7 +102,7 @@ If you used the Import Tool to import your 3D models, they’re already availabl
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
-[Use the Import Tool](import-tool.md)
+[Use the Import Tool (Preview)](import-tool.md)
     
 
 
