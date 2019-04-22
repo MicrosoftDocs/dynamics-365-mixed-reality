@@ -24,13 +24,10 @@ The Import Tool provides two options for preparing your 3D models:
 The following table describes the two options and the file formats supported for each:
 
 
-<!--In the following table, should there be a file format for the second option?-->
-
-
 |Option|Description|Supported file formats|
 |------------|-----------------------------------------------------------------|-----------------------------|
 |Import using this PC|Use this option if you want to import self-authored models without any optimization.|GLB only|
-|Send model to Microsoft|Use this option if you need Microsoft’s assistance in optimizing and converting your 3D model. Microsoft uses a combination of automation and manual steps to prepare the files. |
+|Send model to Microsoft|Use this option if you need Microsoft’s assistance in optimizing and converting your 3D model. Microsoft uses a combination of automation and manual steps to prepare the files. |FBX, OBJ, JT, STP, SKP|
 
 ## Tools for exporting CAD models
 
