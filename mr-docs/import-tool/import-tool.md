@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 > [!div class="mx-imgBorder"]
 > ![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
 
-Use the Microsoft Dynamics 365 Import Tool (Preview) to prepare your 3D models to use in  Dynamics 365 mixed reality applications. 
+Use the Microsoft Dynamics 365 Import Tool (Preview) to prepare your 3D models to use in Dynamics 365 mixed-reality applications. 
 
 ## Two options for preparing 3D models
 
@@ -83,7 +83,7 @@ If you choose the **Send model to Microsoft** option, Microsoft will convert and
 
 ## What happens to my model when I send it to Microsoft?
 
-When you send your model to Microsoft, it’s uploaded to a secure location. Microsoft prepares the model using a combination of automated and manual steps. Microsoft will provide a download link when the model is ready. After you download it, your model is deleted from the secure storage area.  
+When you send your model to Microsoft, it’s uploaded to a secure location. Microsoft prepares the model using a combination of automated and manual steps. Microsoft provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.  
 
 > [!div class="mx-imgBorder"]
 > ![Model preparation](media/what-happens.PNG "Model preparation") 
