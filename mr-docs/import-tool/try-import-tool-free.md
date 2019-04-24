@@ -2,7 +2,7 @@
 author: BryceHo
 description: Try Dynamics 365 Import Tool (Preview) for free for up to 90 days.
 ms.author: BryceHo
-ms.date: 04/18/2019
+ms.date: 04/24/2019
 ms.service: crm-online
 ms.topic: article
 title: Try Dynamics 365 Import Tool (Preview) for free for up to 90 days.
@@ -21,7 +21,7 @@ You can try Microsoft Dynamics 365 Import Tool (Preview) for free for up to 90 d
 
 3. Download and install the app.
 
-4. Start the app, and then sign in with an Azure AD account. If you don't already have an Azure AD account, the app will prompt you to 
+4. Start the app, and then sign in with an Azure AD account. If you don't already have an Azure AD account, the app prompts you to 
 create a free account. Or you can [sign up for a free Azure AD account at this website](https://azure.microsoft.com/en-us/free/). 
 
 ### See also
