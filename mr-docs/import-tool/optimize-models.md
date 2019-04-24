@@ -2,10 +2,10 @@
 author: BryceHo
 description: How to optimize your 3D (CAD) models to use with the Dynamics 365 Import Tool (Preview)
 ms.author: BryceHo
-ms.date: 04/18/2019
+ms.date: 04/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Optimize your 3D models to use with they Dynamics 365 Import Tool (Preview)
+title: Optimize your 3D models to use with the Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
 ---
 
@@ -36,9 +36,9 @@ Here's an example of CAD, converted, and optimized 3D models.<br></br>
 
 ## Performance targets
 
-The Dynamics 365 mixed reality applications can be used on HoloLens, immersive headsets, and mobile devices. The goal is to provide the highest possible visual fidelity without adversely affecting performance. 
+The Dynamics 365 mixed-reality applications can be used on Microsoft HoloLens, immersive headsets, and mobile devices. The goal is to provide the highest possible visual fidelity without adversely affecting performance. 
 
-The following table lists some general conservative targets to aim for when acquiring or authoring 3D models for a range of hardware. When in doubt, target the mid-range profile for a balance of fidelity and performance. 
+The following table lists some general conservative targets to aim for when acquiring or authoring 3D models for a range of hardware. When in doubt, target the midrange profile for a balance of fidelity and performance. 
 
 ||Low scene complexity<br>![Low complexity graphic](media/simple.PNG "Low complexity graphic")|Medium scene complexity<br>![Medium complexity graphic](media/medium.PNG "Medium complexity graphic")|High scene complexity<br>![High complexity graphic](media/complex.PNG "High complexity graphic")|
 |--------------|---------------------------|-----------------------------------|-----------------------------------|
@@ -47,7 +47,7 @@ The following table lists some general conservative targets to aim for when acqu
 |![Mobile graphic](media/mobile.PNG "Mobile graphic") <br>Mobile|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|Not applicable|Not applicable|
 
 > [!NOTE]
-> Transparency in materials such as glass in a 3D model are not supported.
+> Transparency in materials such as glass in a 3D model is not supported.
 
 ### See also
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
