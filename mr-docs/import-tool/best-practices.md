@@ -48,7 +48,7 @@ This topic covers best practices for converting and optimizing 3D models to work
    > [!div class="mx-imgBorder"]
    > ![Remove hidden data](media/remove-hidden-data.PNG "Remove hidden data") 
 
-   *Wireframe and shaded model visualized in [Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)*
+   *Wireframe and shaded model visualized in [Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware).*
 
 ## Reduce triangles
 
@@ -87,7 +87,7 @@ This topic covers best practices for converting and optimizing 3D models to work
    > [!div class="mx-imgBorder"]
    > ![Reduce hierarchy complexity](media/reduce-hierarchy.PNG "Reduce hierarchy complexity") 
 
-   *Meshes combined to reduce draw calls. Visualized in [Autodesk 3DS Max](https://aka.ms/3dsMax)*
+   *Meshes combined to reduce draw calls. Visualized in [Autodesk 3DS Max](https://aka.ms/3dsMax).*
 
    A.	Original hierarchy<br>
    B.	Optimized hierarchy
@@ -101,7 +101,7 @@ This topic covers best practices for converting and optimizing 3D models to work
    > [!div class="mx-imgBorder"]
    > ![Increase distance between geometry faces](media/geometry-faces.PNG "Increase distance between geometry faces") 
  
-   *Two shapes are nearly overlapping, causing the Z-fighting effect*
+   *Two shapes are nearly overlapping, causing the Z-fighting effect.*
 
 - Increasing the distance between geometry faces by a small amount resolves the flickering issues in most cases.
 
@@ -114,7 +114,7 @@ This topic covers best practices for converting and optimizing 3D models to work
    > [!div class="mx-imgBorder"]
    > ![Flip inverted face normals](media/inverted-face-normals.PNG "Flip inverted face normals") 
 	 
-   *Face normals visualized in [Blender 2.8](https://aka.ms/blender2.8)*
+   *Face normals visualized in [Blender 2.8](https://aka.ms/blender2.8).*
 
    A.	3D model with normal flipped<br>
    B.	3D model with fixed normal
@@ -126,7 +126,7 @@ This topic covers best practices for converting and optimizing 3D models to work
    > [!div class="mx-imgBorder"]
    > ![Conflicting tangent basis](media/conflicting-tangent-basis.PNG "Conflicting tangent basis") 
 
-   *Tangent basis visualized in [Autodesk Maya](https://aka.ms/autodeskMaya)*
+   *Tangent basis visualized in [Autodesk Maya](https://aka.ms/autodeskMaya).*
 
    A.	Normal map baked from a 3D model with a normal-flipped screw<br>
    B.	The visible result of baking with a flipped normal object
