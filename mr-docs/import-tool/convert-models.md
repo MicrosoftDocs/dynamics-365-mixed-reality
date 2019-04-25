@@ -1,11 +1,11 @@
 ---
 author: BryceHo
-description: Everything you need to know about converting 3D models to use with the Dynamics 365 Import Tool (Preview)
+description: Everything you need to know about converting 3D models to use with Dynamics 365 Import Tool (Preview)
 ms.author: BryceHo
 ms.date: 04/23/2019
 ms.service: crm-online
 ms.topic: article
-title: Convert your 3D (CAD) models to use with the Dynamics 365 Import Tool (Preview)
+title: Convert your 3D (CAD) models to use with Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
 ---
 
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 ![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
 
-To use your 3D models with Dynamics 365 mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you choose in the Microsoft Dynamics 365 Import Tool (Preview).
+To use your 3D models with Dynamics 365 mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you choose in Microsoft Dynamics 365 Import Tool (Preview).
 
 ## Import Tool options and file types
 
@@ -27,7 +27,7 @@ The following table describes the two options and the file formats supported for
 |Option|Description|Supported file formats|
 |------------|-----------------------------------------------------------------|-----------------------------|
 |Import using this PC|Use this option if you want to import self-authored models without any optimization.|GLB only|
-|Send model to Microsoft|Use this option if you need Microsoft’s assistance in optimizing and converting your 3D model. Microsoft uses a combination of automation and manual steps to prepare the files. |FBX, OBJ, JT, STP, SKP|
+|Send model to Microsoft|Use this option if you need Microsoft’s assistance optimizing and converting your 3D model. Microsoft uses a combination of automation and manual steps to prepare the files. |FBX, OBJ, JT, STP, and SKP|
 
 ## Tools for exporting CAD models
 
