@@ -1,20 +1,20 @@
 ---
 author: BryceHo
-description: How to use the Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed reality applications
+description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
 ms.author: BryceHo
-ms.date: 04/19/2019
+ms.date: 04/25/2019
 ms.service: crm-online
 ms.topic: article
-title: Use the Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed reality applications
+title: Use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
 ms.reviewer: v-brycho
 ---
 
-# Use the Dynamics 365 Import Tool (Preview)
+# Use Dynamics 365 Import Tool (Preview)
 
 > [!div class="mx-imgBorder"]
 > ![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
 
-Use the Microsoft Dynamics 365 Import Tool (Preview) to prepare your 3D models to use in Dynamics 365 mixed-reality applications. 
+Use Microsoft Dynamics 365 Import Tool (Preview) to prepare your 3D models to use in Dynamics 365 mixed-reality applications. 
 
 ## Two options for preparing 3D models
 
@@ -29,7 +29,7 @@ If you choose the **Import using this PC** option, you’ll need to prepare your
 - [Optimize your 3D models](optimize-models.md)
 - [Best practices for 3D models](best-practices.md)
 
-If you choose the **Send model to Microsoft** option, Microsoft will convert and optimize your model for you and will provide a download link when the model is ready.
+If you choose the **Send model to Microsoft** option, Microsoft converts and optimizes your model for you and will provide a download link when the model is ready.
 
 ### Import using this PC option
 
