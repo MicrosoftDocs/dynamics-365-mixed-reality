@@ -1,20 +1,20 @@
 ---
 author: BryceHo
-description: Overview of converting and optimizing 3D models to use with the Dynamics 365 Import Tool (Preview).  
+description: Overview of converting and optimizing 3D models to use with Dynamics 365 Import Tool (Preview).  
 ms.author: BryceHo
 ms.date: 04/24/2019
 ms.service: crm-online
 ms.topic: overview
-title: Overview of converting and optimizing 3D models to use with the Dynamics 365 Import Tool (Preview).
+title: Overview of converting and optimizing 3D models to use with Dynamics 365 Import Tool (Preview).
 ms.reviewer: v-brycho
 ---
 
 # Overview of Dynamics 365 Import Tool (Preview)
 
-If you’re using Dynamics 365 mixed-reality applications, you might want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models) into the applications. This guide shows you how to prepare your 3D models for use with Dynamics 365 mixed-reality applications using a combination of third-party tools and the Microsoft Dynamics 365 Import Tool (Preview).
+If you’re using Microsoft Dynamics 365 mixed-reality applications, you might want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models) into the applications. This guide shows you how to prepare your 3D models for use with Dynamics 365 mixed-reality applications using a combination of third-party tools and Dynamics 365 Import Tool (Preview).
 
 ## glTF and GLB file formats
-All geometry in the Dynamics 365 mixed-reality applications uses the Khronos Group glTF file format. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
+All geometry in Dynamics 365 mixed-reality applications uses the Khronos Group glTF file format. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
 
 <!--note from editor: I removed the TM bug from "glTF" because we typicvally don't include them.  Guidance from CELA website: "Bug and footnote third party trademarks ONLY when Microsoft is contractually obligated to do so." Do you know if this is a case where MS is obligated by contract?     -->
 
@@ -51,7 +51,7 @@ The following illustration shows a more detailed view of this process.
 A.	Create 3D models using the CAD software of your choice.<br>
 B.	Convert CAD files to one of these file formats: FBX, OBJ, JT, STP, or SKP.<br>
 C.	Optimize your 3D model and convert it to GLB.<br>
-D.	Use the Dynamics 365 Import Tool to prepare content for Microsoft HoloLens, immersive headsets, or mobile.<br>
+D.	Use the Import Tool to prepare content for Microsoft HoloLens, immersive headsets, or mobile devices.<br>
 E.	3D models are ready to be imported into the Dynamics 365 mixed-reality applications.
 
 ### See also
