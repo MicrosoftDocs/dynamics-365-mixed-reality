@@ -24,7 +24,7 @@ and greater retention of learned skills.
 ## Easily create mixed reality guides without the need for specialized skills
 
 Guides allows anyone to structure and create step-by-step mixed reality guidance for a task, without the need 
-for specialized 3D or programming skills. Start with the PC Authoring tool to capture work processes and create guides – files 
+for specialized 3D or programming skills. Start with the PC authoring tool to capture work processes and create guides – files 
 that include step-by-step instructions with images, video, and 3D holograms. After creating the guide on a PC, authors 
 can then connect the instruction cards and holograms to the physical work space using the HoloLens by picking them up and 
 moving them to the right location. Use the default library of 3D holograms or import your own custom 3D models if you prefer.   
