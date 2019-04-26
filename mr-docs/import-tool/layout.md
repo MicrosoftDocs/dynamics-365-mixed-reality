@@ -1,23 +1,23 @@
 ---
 author: BryceHo
-description: How to use the Dynamics 365 Import Tool (Preview) to prepare 3D models to work with Dynamics 365 Layout
+description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models to work with Dynamics 365 Layout
 ms.author: BryceHo
 ms.date: 04/24/2019
 ms.service: crm-online
 ms.topic: article
-title: Use the Dynamics 365 Import Tool (Preview) to prepare 3D models to work with Dynamics 365 Layout
+title: Use Dynamics 365 Import Tool (Preview) to prepare 3D models to work with Dynamics 365 Layout
 ms.reviewer: v-brycho
 ---
 
 # Work with Dynamics 365 Layout
 
-With Microsoft Dynamics 365 Layout, you can work with floor plans created with Microsoft Visio or you can create the layout with the Layout HoloLens app. You can use the Dynamics 365 Import Tool (Preview) to make either type of layout available for immersive headsets. 
+With Microsoft Dynamics 365 Layout, you can work with floor plans created with Microsoft Visio, or you can create a layout with the Layout HoloLens app. You can use Dynamics 365 Import Tool (Preview) to make either type of layout available for immersive headsets. 
 
-<!--note from editor: Style Guide says to always precede "Layout" with "Dynamics 365"--not sure if "Layout HoloLens app" is a Dynamics 365 app for the HoloLens or a HoloLens app for Dynamics 365, which I think would affect naming.   -->
+<!--note from editor: Style Guide says to always precede "Layout" with "Dynamics 365"--not sure if "Layout HoloLens app" is a Dynamics 365 app for the HoloLens or a HoloLens app for Dynamics 365, which I think would affect whether or not to prepend with "Dynamics 365".   -->
 
 ## Import a Microsoft Visio floor plan
 
-To work with a Microsoft Visio floor plan in Dynamics 365 Layout, take these three steps:
+To work with a Visio floor plan in Dynamics 365 Layout, take these three steps:
 
 1.	Install the Visio add-in for Dynamics 365 Layout. 
 
@@ -40,14 +40,14 @@ To work with a Microsoft Visio floor plan in Dynamics 365 Layout, take these thr
 
 5.	Select **Visio Add-in for Dynamics 365 Layout**, and then select **Add**.
 
-### Export the floor plan to Layout
+### Export the floor plan to Dynamics 365 Layout
 
 After you’ve created the floor plan in Visio, select the **Layout** tab, select **Export**, and then save your floor plan.
 
 ### Make the floor plan available for immersive headsets or HoloLens 
 
 
-<!--note from editor:  In Step 2, 2nd para, is "Layout" here referring to Dynamics 365 Layout or something else? If former, use "Dynamics 365 Layout".  -->
+
 
 1.	In the Import Tool, select **This PC** > **Add layout**, and then navigate to the floor plan.
 
