@@ -13,11 +13,11 @@ ms.reviewer: v-brycho
 
 Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-## Can I try Layout before buying it?
+## Can I try Dynamics 365 Layout before buying it?
 
 Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a trial for up to 90 days. It's nearly effortless to install and try out the app. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md). Note that the 90-day trial is only available for users who haven't already purchased a subscription. 
 
-## How do I buy [!include[pn-layout](../includes/pn-layout.md)]?  
+## How do I buy Dynamics 365 Layout?  
 
 If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-layout.md). 
 
@@ -27,13 +27,13 @@ To see the version number for Layout, go to **Settings** > **About**.
 
 To see the version number for the Import Tool, go to **Settings**, and then look in the **About** section.
 
-## Do I need the Layout apps for both HoloLens and Windows Mixed Reality immersive headsets?
+## Do I need the Dynamics 365 Layout apps for both HoloLens and Windows Mixed Reality immersive headsets?
 
 No, you can use each app separately, though they do work together as well. If
 you want to copy 3D models or layouts from your PC to your [!include[pn-hololens](../includes/pn-hololens.md)] or to
 Windows Mixed Reality, you’ll need the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
-## What are the technical requirements for running the [!include[pn-layout](../includes/pn-layout.md)] apps?
+## What are the technical requirements for running the Dynamics 365 Layout apps?
 
 -   [!include[pn-hololens](../includes/pn-hololens.md)]: Your headset must be running the [Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643). 
@@ -49,40 +49,40 @@ Windows Mixed Reality, you’ll need the [!include[cc-microsoft](../includes/cc-
 
 [Learn more about device options and technical requirements.](requirements.md)
 
-## Do I need an [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account to use [!include[pn-layout](../includes/pn-layout.md)]?
+## Do I need an Azure Active Directory (Azure AD) account to use Dynamics 365 Layout?
 
 Yes, if you’re the admin, you’ll need an [!include[pn-azure](../includes/pn-azure.md)] AD account to distribute the
 apps, and users of [!include[pn-layout](../includes/pn-layout.md)] and the [!include[pn-import-tool](../includes/pn-import-tool.md)] will need an [!include[pn-azure](../includes/pn-azure.md)] AD account to
 sign in to the apps.
 
-## How often is [!include[pn-layout](../includes/pn-layout.md)] updated?
+## How often is Dynamics 365 Layout updated?
 
 [!include[pn-layout](../includes/pn-layout.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
 
-## Can I use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)]?
+## Can I use the HoloLens clicker with Dynamics 365 Layout?
 
 You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)] but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
 
-## Do I need to be connected to Wi-Fi to use [!include[pn-layout](../includes/pn-layout.md)]?
+## Do I need to be connected to Wi-Fi to use Dynamics 365 Layout?
 
 If you want to convert 3D models using the [!include[pn-import-tool](../includes/pn-import-tool.md)], you’ll need a Wi-Fi
 connection if you use the cloud service option. If you choose to convert files
 using the PC option, you don’t need a Wi-Fi connection.
 
-## Can I change the unit of measure in the [!include[pn-layout](../includes/pn-layout.md)] app to metric?
+## Can I change the unit of measure in Dynamics 365 Layout to metric?
 
 Yes, you can choose between U.S. and metric units from **Settings** \>
 **Measurements** \> **Unit of measure**.
 
-## What languages is [!include[pn-layout](../includes/pn-layout.md)] available in?
+## What languages is Dynamics 365 Layout available in?
 
 At this time, [!include[pn-layout](../includes/pn-layout.md)], the [!include[pn-import-tool](../includes/pn-import-tool.md)], and the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-layout](../includes/pn-layout.md)] are
 available only in English. Additionally, to install the Add-in, you’ll need to
 [set the display language for Microsoft Office to
 English](https://support.office.com/article/add-an-editing-language-or-set-language-preferences-in-office-663d9d94-ca99-4a0d-973e-7c4a6b8a827d).
 
-## Where is [!include[pn-layout](../includes/pn-layout.md)] available?
+## Where is Dynamics 365 Layout available?
 
 [!include[pn-layout](../includes/pn-layout.md)] is available worldwide. [!include[pn-layout](../includes/pn-layout.md)] can be used with [!include[pn-hololens](../includes/pn-hololens.md)] or a Mixed Reality headset/motion controller and a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Ultra PC.
 
@@ -94,16 +94,16 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the Import Tool to send your models to Microsoft to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the Import Tool to import them into Layout. [Learn more about the Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
 
-## How does the [!include[pn-import-tool](../includes/pn-import-tool.md)] process my 3D models?
+## How does the Import Tool process my 3D models?
 
 If you send your model to Microsoft for converstion and optimization, it’s uploaded to a secure location. Microsoft prepares the model using a combination of automated and manual steps. Microsoft provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
 ### See also
-[Overview of Layout](index.md)<br/>
+[Overview of Dynamics 365 Layout](index.md)<br/>
 [Device options and technical requirements](requirements.md)<br/>
 [Use Layout on a trial basis for up to 90 days](try-layout-free.md)<br/>
-[Buy and deploy Layout](buy-and-deploy-layout.md)<br/>
+[Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br/>
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
