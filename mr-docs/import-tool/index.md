@@ -14,9 +14,7 @@ ms.reviewer: v-brycho
 If you’re using Microsoft Dynamics 365 mixed-reality applications, you might want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models) into the applications. This guide shows you how to prepare your 3D models for use with Dynamics 365 mixed-reality applications using a combination of third-party tools and Dynamics 365 Import Tool (Preview).
 
 ## glTF and GLB file formats
-All geometry in Dynamics 365 mixed-reality applications uses the Khronos Group glTF file format. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
-
-<!--note from editor: I removed the TM bug from "glTF" because we typicvally don't include them.  Guidance from CELA website: "Bug and footnote third party trademarks ONLY when Microsoft is contractually obligated to do so." Do you know if this is a case where MS is obligated by contract?     -->
+All geometry in Dynamics 365 mixed-reality applications uses the Khronos Group glTF™ file format. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
 
 > [!TIP] 
 > The Khronos Group provides a robust overview of best practices: [Art Pipeline for glTF](https://aka.ms/glTFbestpractices).
