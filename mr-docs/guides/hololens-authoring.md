@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-The second major step in authoring a guide in Microsoft Dynamics 365 Guides in preview takes place on the HoloLens application. In HoloLens Authoring mode, you:
+The second major step in authoring a guide in Microsoft Dynamics 365 Guides in preview takes place on the HoloLens application. In HoloLens Author mode, you:
 
 - Align your guide to a marker or a digital twin, depending on the type of alignment you chose in the PC application.
 
@@ -109,7 +109,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 > Dynamics 365 Guides (Preview) comes with an Example Guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/step-card.PNG "Example Guide")
 
 ## Align your guide
-The first thing you see when you open a guide is the alignment instructions you created in the PC Authoring application. The screen shot below shows the operating instructions created for the Example Guide that comes with Dynamics 365 Guides.
+The first thing you see when you open a guide is the alignment instructions you created in the PC authoring application. The screen shot below shows the operating instructions created for the Example Guide that comes with Dynamics 365 Guides.
 
 ![HoloLens alignment instructions)](media/hololens-alignment.PNG "HoloLens alignment instructions")
 
