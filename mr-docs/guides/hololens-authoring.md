@@ -2,7 +2,7 @@
 author: BryceHo
 description: Test and place holograms using the HoloLens application in Author mode (Dynamics 365 Guides in preview)
 ms.author: mamaylya
-ms.date: 03/26/2019
+ms.date: 04/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Test and place holograms using HoloLens Author mode (Dynamics 365 Guides in preview)
@@ -237,6 +237,12 @@ The following graphic shows how to use the different rotation knobs:
  
 > [!Important]
 > To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. 
+
+#### Change the size of a hologram after placing it
+
+- Air tap and hold the **Scale** button, and then move your hand up or down.  
+
+![Change hologram size](media/change-hologram-size.PNG "Change hologram size")
 
 ### Best practices for working with 3D content
 
