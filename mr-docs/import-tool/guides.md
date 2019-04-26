@@ -1,11 +1,11 @@
 ---
 author: BryceHo
-description: How to use the Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 Guides (Preview)
+description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 Guides (Preview)
 ms.author: BryceHo
-ms.date: 04/18/2019
+ms.date: 04/26/2019
 ms.service: crm-online
 ms.topic: article
-title: Use the Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 Guides (Preview)
+title: Use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 

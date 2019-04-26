@@ -1,11 +1,11 @@
 ---
 author: BryceHo
-description: Everything you need to know about converting 3D models to use with the Dynamics 365 Import Tool (Preview)
+description: Everything you need to know about converting 3D models to use with Dynamics 365 Import Tool (Preview)
 ms.author: BryceHo
-ms.date: 04/18/2019
+ms.date: 04/26/2019
 ms.service: crm-online
 ms.topic: article
-title: Convert your 3D (CAD) models to use with the Dynamics 365 Import Tool (Preview)
+title: Convert your 3D (CAD) models to use with Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
 ---
 
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 ![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
 
-To use your 3D models with the Dynamics 365 mixed reality applications, you’ll need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you’ll choose in the Microsoft Dynamics 365 Import Tool (Preview).
+To use your 3D models with Dynamics 365 mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you choose in Microsoft Dynamics 365 Import Tool (Preview).
 
 ## Import Tool options and file types
 
@@ -21,19 +21,21 @@ The Import Tool provides two options for preparing your 3D models:
 
 ![Import Tool options](media/import-tool-options.PNG "Import Tool options") 
 
-The following table describes the two options and the file formats supported for each:
+The following table describes the two options and the file formats supported for each.
 
 
 |Option|Description|Supported file formats|
 |------------|-----------------------------------------------------------------|-----------------------------|
 |Import using this PC|Use this option if you want to import self-authored models without any optimization.|GLB only|
-|Send model to Microsoft|Use this option if you need Microsoft’s assistance in optimizing and converting your 3D model. Microsoft uses a combination of automation and manual steps to prepare the files. |FBX, OBJ, JT, STP, SKP|
+|Send model to Microsoft|Use this option if you need Microsoft’s assistance optimizing and converting your 3D model. Microsoft uses a combination of automation and manual steps to prepare the files. |FBX, OBJ, JT, STP, and SKP|
 
 ## Tools for exporting CAD models
 
-CAD models can be exported directly to glTF format or into intermediate formats that can be subsequently processed into glTF files. If your content creation application does not have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat) or [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file), if available. Third-party applications are available to import FBX or OBJ files and export them as glTF/GLB files. Your use of third-party applications is subject to terms between you and the third party. Microsoft does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
+CAD models can be exported directly to glTF format or into intermediate formats that can be subsequently processed into glTF files. If your content-creation application does not have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat) or [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file), if available. Third-party applications are available to import FBX or OBJ files and export them as glTF/GLB files. 
 
-|Content creation package|Description|
+Your use of third-party applications is subject to terms between you and the third party. Microsoft does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
+
+|Content-creation package|Description|
 |-----------------------------------------------|---------------------------------------------------------------|
 [Blender.org Blender](https://aka.ms/Blender_2.8)|Native import/export for Blender 2.8 or later|
 [Autodesk 3DS Max](https://aka.ms/BabylonJS_Max2Babylon_Installation)|Babylon.JS plug-in for Max 2015 or later|

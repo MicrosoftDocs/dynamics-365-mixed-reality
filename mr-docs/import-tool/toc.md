@@ -6,7 +6,7 @@
 ## Install and use the Import Tool
 ### [Requirements for installing the Import Tool](requirements.md)
 ### [Try the Import Tool free](try-import-tool-free.md)
-### [Install the Import Tool after subscribing to Layout](install.md)
+### [Install the Import Tool after subscribing to Dynamics 365 Layout](install.md)
 ### [Use the Import Tool](import-tool.md)
 ## [Work with Dynamics 365 Layout](layout.md)
 ## [Work with Dynamics 365 Guides](guides.md)
