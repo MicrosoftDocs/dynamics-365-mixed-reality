@@ -75,6 +75,48 @@ The app currently looks up media by file names. So, for example, if you have a p
 
 Avoid using any names for your custom 3D models that match model names in the 3D toolkit.
 
+## Addressing hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for marker alignment
+ 
+The angle of each HoloLens 1 PV camera (the camera placed above the nose bridge) can be slightly different across devices due to manufacturing idiosyncrasies. Since the PV camera is used to scan the printed marker, this means holograms can appear slightly misaligned when using the same guide and same printed marker on multiple devices.
+ 
+To fix this issue, the Guides HoloLens app provides the ability to manually adjust for this offset and save the settings to the device so that each user does not need to set the offset each time. We recommend that IT staff go through the following steps before provisioning devices to Guides authors or operators. This is a one-time setup and does not need to be repeated unless the app is uninstalled or a new operating system is installed.
+ 
+### Step 1 – Set up marker alignment
+
+#### On the PC
+
+1.	Create a printed marker using the specifications described in [Author in the PC application](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-authoring#choose-an-alignment-method).
+
+2.	Open the Authoring app on the PC, and then create a guide using the marker alignment method (or you can use an existing guide that uses marker alignment).
+
+#### On HoloLens
+
+- Run the HoloLens Calibration app for yourself to ensure proper fit and IPD.
+ 
+### Step 2 – Open the guide and align it on HoloLens
+
+1.	On HoloLens, open the Guides app, select **Operator** or **Author** mode, and then open the guide used in step 1.
+
+2.	Select **Scan** to begin the alignment process. Accept the permissions prompts that appear. 
+
+3. Look for your printed marker, allow the device to find the marker, and wait for the blue outline animation. The blue outline shows where the printed marker is located, as calculated by HoloLens.
+
+### Step 3 – Adjust the offset
+
+The blue outline is the same size as the marker. You can move it up or down along the rails positioned at its corners. Look at the printed marker from above. Is the blue outline too far to the left or right of the printed marker? If so, try adjusting the HoloLens to make sure it fits correctly on your head.
+
+Tap and hold the blue outline and move it up or down until it overlaps with the marker exactly. Make sure that the outline is exactly aligned with the marker by looking at the marker from the side. 
+ 
+The media panel will show the following image to visually indicate what you need to do:
+
+![Adjust printed marker offset)](media/adjust-marker-offset.PNG "Adjust printed marker offset")  
+
+After you have verified the blue outline and the printed marker are lined up, select **Confirm** to complete the process. 
+
+The next time this device is used to load a guide, the operator/author can just scan the marker; they won't have to adjust the blue outline again.
+
+If, at any point, you need to readjust this setting, you can trigger the offset adjustment process again by selecting the **Adjust Offset** setting. When you turn this setting on, it triggers the normal alignment process, beginning with the scanning of the printed marker.
+
 ## Troubleshooting
 
 ### PC Authoring application issues
