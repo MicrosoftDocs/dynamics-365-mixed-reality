@@ -54,7 +54,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 
 - High triangle or vertex counts can hinder performance, especially on performance-constrained devices.
 
-- If the model usage is known ahead of time, you can make triangle reduction choices. Focus your reduction on less important areas with high-mesh density to allow more detail in key areas.
+- If the model usage is known ahead of time, you can make triangle reduction choices. Focus your reduction on less important areas with high mesh density to allow more detail in key areas.
 
 - Fine geometric surface details and material colors can often be replaced by baking them into normal, color, and ORM (occlusion, roughness, and metallic) maps for large triangle savings.
 
@@ -62,7 +62,7 @@ This topic covers best practices for converting and optimizing 3D models to work
    > ![Reduce triangles](media/reduce-triangles.PNG "Reduce triangles") 
 
    **A.**	Native CAD 3D model<br>
-   **B.**	Reduced triangle-count polygonal model with normal map<br>
+   **B.**	Reduced triangle count polygonal model with normal map<br>
    **C.**	Optimized model with normal map
 
 ## Reduce draw calls
@@ -136,7 +136,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 
 - If you don’t export tangents with your model, glTF and the real-time renderer will assume right-handedness.
 
-- Export your model with tangents if you are baking tangent-space normal maps in a left-handed setup. Alternatively, you could invert the green channel (Y axis) of your normal map.
+- Export your model with tangents if you are baking tangent space normal maps in a left-handed setup. Alternatively, you could invert the green channel (Y axis) of your normal map.
 
 ### See also
 
