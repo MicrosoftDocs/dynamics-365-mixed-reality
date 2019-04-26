@@ -119,6 +119,9 @@ This topic covers best practices for converting and optimizing 3D models to work
    **A.**	3D model with normal flipped<br>
    **B.**	3D model with fixed normal
 
+<!--note from editor: Can the heading below be changed to active verb form for consistency with others?   -->
+
+
 ## Conflicting tangent basis
 
 - A conflicting tangent basis can cause your normal maps to appear inverted.
