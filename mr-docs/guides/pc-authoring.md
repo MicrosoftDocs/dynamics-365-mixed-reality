@@ -147,7 +147,7 @@ To print the marker:
 > [!NOTE]
 > If the marker spacing is not within +/- 0.1 mm, select the **Custom Scale** option in the **Print** dialog box, and then change the 
 percentage to compensate for the size discrepancy. For example, if you print the marker and the result is 49 mm, you need to 
-change the scale to 100.4% to get 49.196 mm, which would be within tolerance.
+change the scale to 100.4% to get 49.196 mm, which would be within tolerance.<br>You may also need to adjust the hardware offset in Hololens 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
 
 #### Best practices for marker alignment
 
