@@ -32,8 +32,8 @@ This topic covers best practices for converting and optimizing 3D models to work
    > [!div class="mx-imgBorder"]
    > ![Decrease roughness map](media/roughness-map.PNG "Decrease roughness map") 
 
-   A.	Model with roughness map texture of 2048 x 2048<br>
-   B.	Model with roughness map texture of 1024 x 1024
+   **A.**	Model with roughness map texture of 2048 x 2048<br>
+   **B.**	Model with roughness map texture of 1024 x 1024
 
 - Reduce the resolution and the amount of textures to have the largest impact on memory consumption and file size.
 
@@ -61,9 +61,9 @@ This topic covers best practices for converting and optimizing 3D models to work
    > [!div class="mx-imgBorder"]
    > ![Reduce triangles](media/reduce-triangles.PNG "Reduce triangles") 
 
-   A.	Native CAD 3D model<br>
-   B.	Reduced triangle-count polygonal model with normal map<br>
-   C.	Optimized model with normal map
+   **A.**	Native CAD 3D model<br>
+   **B.**	Reduced triangle-count polygonal model with normal map<br>
+   **C.**	Optimized model with normal map
 
 ## Reduce draw calls
 
@@ -89,8 +89,8 @@ This topic covers best practices for converting and optimizing 3D models to work
 
    *Meshes combined to reduce draw calls. Visualized in [Autodesk 3DS Max](https://aka.ms/3dsMax).*
 
-   A.	Original hierarchy<br>
-   B.	Optimized hierarchy
+   **A.**	Original hierarchy<br>
+   **B.**	Optimized hierarchy
 
 - glTF will create one mesh per material and atlas materials together to reduce node count and draw calls.
 
@@ -116,8 +116,8 @@ This topic covers best practices for converting and optimizing 3D models to work
 	 
    *Face normals visualized in [Blender 2.8](https://aka.ms/blender2.8).*
 
-   A.	3D model with normal flipped<br>
-   B.	3D model with fixed normal
+   **A.**	3D model with normal flipped<br>
+   **B.**	3D model with fixed normal
 
 ## Conflicting tangent basis
 
@@ -128,8 +128,8 @@ This topic covers best practices for converting and optimizing 3D models to work
 
    *Tangent basis visualized in [Autodesk Maya](https://aka.ms/autodeskMaya).*
 
-   A.	Normal map baked from a 3D model with a normal-flipped screw<br>
-   B.	The visible result of baking with a flipped normal object
+   **A.**	Normal map baked from a 3D model with a normal-flipped screw<br>
+   **B.**	The visible result of baking with a flipped normal object
 
 - If you don’t export tangents with your model, glTF and the real-time renderer will assume right-handedness.
 
