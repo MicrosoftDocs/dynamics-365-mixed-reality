@@ -22,8 +22,8 @@ This topic covers best practices for converting and optimizing 3D models to work
    > [!div class="mx-imgBorder"]
    > ![Single color](media/PBR.PNG "Single color") 
 
-   A.	High performance single color 3D model with no PBR system<br>
-   B.	3D model using the PBR system for higher-quality representation
+   **A.**	High performance single color 3D model with no PBR system<br>
+   **B.**	3D model using the PBR system for higher-quality representation
 
 ## Reduce textures
 
