@@ -47,7 +47,7 @@ The following table lists some general conservative targets to aim for when acqu
 |![Mobile graphic](media/mobile.PNG "Mobile graphic") <br>Mobile|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|Not applicable|Not applicable|
 
 > [!NOTE]
-> Transparency in materials such as glass in a 3D model is not supported.
+> Transparency in materials such as glass in 3D models is not supported.
 
 ### See also
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
