@@ -243,7 +243,7 @@ If you use the Microsoft Store for Business to distribute your apps, you can hav
     ![Preview app in Microsoft Store](media/preview-app.PNG "Preview app in Microsoft Store")
 
     > [!NOTE]
-    > For instructions on opening and signing in to the app, see the [Authoring guide](authoring-overview.md).
+    > For instructions on opening and signing in to the app, see the [authoring guide](authoring-overview.md).
 
 #### Install the HoloLens app
 
@@ -270,7 +270,7 @@ If you use the Microsoft Store for Business to distribute your apps, you can hav
     
     - [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
-For information on opening and signing in to the PC application after installing it, see the [Authoring guide](authoring-overview.md)
+For information on opening and signing in to the PC application after installing it, see the [authoring guide](authoring-overview.md)
 
 For information on opening and signing in to the HoloLens application, go to one of the following, depending on whether you're an author or an operator:
 
