@@ -69,7 +69,7 @@ so on as part of the name.
 
 ## Saving: how changes are synced between the PC app and HoloLens app
 
-The PC Authoring app and the HoloLens app are connected through the cloud, where your Guides files and assets are stored. 
+The PC authoring app and the HoloLens app are connected through the cloud, where your Guides files and assets are stored. 
 When you author a guide, all changes are saved on both the PC and HoloLens. This makes it easy to switch between devices. 
 Autosave checks for changes every 4 seconds. 
 
@@ -187,13 +187,13 @@ in the preceding illustration) to establish the marker’s precise position, sca
 
 Manual alignment involves two basic steps:
 
-1.	Using the PC Authoring app, import a 3D representation of a physical object. This could be a CAD model used to create the physical object or a scanned model after fabrication. 
+1.	Using the PC authoring app, import a 3D representation of a physical object. This could be a CAD model used to create the physical object or a scanned model after fabrication. 
 
-2.	Using HoloLens Authoring mode, place the 3D digital representation directly over a physical part.
+2.	Using HoloLens Author mode, place the 3D digital representation directly over a physical part.
 
 To import a 3D representation: 
 
-1.	Open the PC Authoring app.
+1.	Open the PC authoring app.
 
 2.	On the right side of the screen, select the **Import** command. 
 
@@ -310,7 +310,7 @@ In the Step card page, you write your instructional text and assign supporting a
    > [!NOTE]
    > The collection of boxes below the instructional text is called the "bin."
   
-When you view your guide on the HoloLens in Authoring mode, you’ll see all the assets that you associated with the steps, and you can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in HoloLens authoring. What you see in the Step card page, is very similar to what you see on the HoloLens. 
+When you view your guide on the HoloLens in Author mode, you’ll see all the assets that you associated with the steps, and you can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in HoloLens authoring. What you see in the Step card page, is very similar to what you see on the HoloLens. 
 
 ### Best practices for the Step card page
 
@@ -326,7 +326,7 @@ When you view your guide on the HoloLens in Authoring mode, you’ll see all the
 
 - Adding a **NOTE** step is useful for quality checks. These types of steps can come before or after a step. Just make sure to put it in the right spot.
 
-- Add a **WARNING** step for things that could be dangerous or cause a quality issue. When you move to Authoring mode on the HoloLens, you can add a style to reinforce the warning.
+- Add a **WARNING** step for things that could be dangerous or cause a quality issue. When you move to Author mode on the HoloLens, you can add a style to reinforce the warning.
 
 - Adding numbered small steps inside a step can sometimes help, but don’t be afraid to create separate steps for easier reading.
 
@@ -357,7 +357,7 @@ The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols,
 
 ![List of objects in 3D toolkit)](media/3D-toolkit-objects.PNG "List of objects in 3D toolkit")
 
-You add a 3D object from the 3D toolkit in the Step card page, and then place them in HoloLens Authoring mode. You can use the same object (instance) as many times as you like in a step.
+You add a 3D object from the 3D toolkit in the Step card page, and then place them in HoloLens Author mode. You can use the same object (instance) as many times as you like in a step.
 
 > [!NOTE]
 > You can also add 3D objects from the 3D toolkit in HoloLens authoring. You don't have to add them on the PC if you prefer to do it in HoloLens authoring.
