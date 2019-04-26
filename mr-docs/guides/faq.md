@@ -27,7 +27,7 @@ If you're not able to use Microsoft Dynamics 365 Guides in preview, or if you ha
 
 Guides includes two applications:
 
-- PC Authoring application
+- PC authoring application
 
 - HoloLens application, which includes modes for authoring and operating
 
