@@ -105,7 +105,7 @@ To fix this issue, the Guides HoloLens app provides the ability to manually adju
 
 The blue outline is the same size as the marker. You can move it up or down along the rails positioned at its corners. Look at the printed marker from above. Is the blue outline too far to the left or right of the printed marker? If so, try adjusting the HoloLens to make sure it fits correctly on your head.
 
-Tap and hold the blue outline and move it up or down until it overlaps with the marker exactly. Make sure that the outline is exactly aligned with the marker by looking at the marker from the side. 
+Tap and hold the blue outline and move it up or down until it overlaps with the marker exactly. Make sure that the outline is exactly aligned by looking at the marker from the side. 
  
 The media panel will show the following image to visually indicate what you need to do:
 
