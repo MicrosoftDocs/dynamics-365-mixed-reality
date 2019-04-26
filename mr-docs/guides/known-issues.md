@@ -87,7 +87,7 @@ To fix this issue, the Guides HoloLens app provides the ability to manually adju
 
 1.	Create a printed marker using the specifications described in [Author in the PC application](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-authoring#choose-an-alignment-method).
 
-2.	Open the Authoring app on the PC, and then create a guide using the marker alignment method (or you can use an existing guide that uses marker alignment).
+2.	Open the authoring app on the PC, and then create a guide using the marker alignment method (or you can use an existing guide that uses marker alignment).
 
 #### On HoloLens
 
@@ -119,7 +119,7 @@ If, at any point, you need to readjust this setting, you can trigger the offset 
 
 ## Troubleshooting
 
-### PC Authoring application issues
+### PC authoring application issues
 
 #### I can’t sign in
 
@@ -202,7 +202,7 @@ If you don’t see any guides, either your internet connection is unstable, or y
 
 #### I can’t find the guide I created
 
-Look for newly created guides in the **All** tab in the list of guides. The **Recents** list only shows guides that have previously been opened on the device and will not include any guide recently created in the PC Authoring application. 
+Look for newly created guides in the **All** tab in the list of guides. The **Recents** list only shows guides that have previously been opened on the device and will not include any guide recently created in the PC authoring application. 
 
 #### The profile picture shown in the app is incorrect 
 
