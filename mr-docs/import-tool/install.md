@@ -2,7 +2,7 @@
 author: BryceHo
 description: How to install Dynamics 365 Import Tool (Preview)
 ms.author: BryceHo
-ms.date: 04/23/2019
+ms.date: 04/26/2019
 ms.service: crm-online
 ms.topic: article
 title: Install Dynamics 365 Import Tool (Preview)
