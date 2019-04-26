@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Watch these short videos to get up and running with Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
-Looking for more help? Check out our [User Guide](user-guide.md).
+Looking for more help? Check out our [User guide](user-guide.md).
 
 > [!TIP]
 > To turn on closed-captions for videos, select the **More options** (...) button, select **Closed captions**, and then select **English**.<br></br>![Closed captions](media/closed-captions.PNG "Closed captions")<br>Dynamics 365 Remote Assist is not available in languages other than English at this time.
@@ -52,6 +52,6 @@ Looking for more help? Check out our [User Guide](user-guide.md).
 
 
 ## See also
-[User Guide](user-guide.md)<br>
+[User guide](user-guide.md)<br>
 [Use Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br>
 [FAQ](faq.md)
