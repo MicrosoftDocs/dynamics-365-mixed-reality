@@ -15,6 +15,12 @@ Watch these short videos to get up and running with [!include[pn-dyn-365-layout]
 
 Looking for more help? Check out our [User Guide](user-guide.md).
 
+> [!TIP]
+> To turn on closed-captioning for videos, select the **More options** button, select **Closed captions**, and then select **English**.<br>
+
+
+Dynamics 365 Layout is not available in Languages other than English at this time.
+
 ## Layout for HoloLens
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EWQP" frameborder="0" allowfullscreen=""></iframe></div>
