@@ -27,7 +27,7 @@ The following table lists software tools that you can use to convert and/or opti
 |[Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ|Yes|Yes|
 
 <br>
-Here's an example of CAD, converted, and optimized 3D models.<br></br>
+Here are examples of CAD, converted, and optimized 3D models.<br></br>
 
 |CAD|Converted to GLB|Optimized GLB|
 |------------------------------------------|----------------------------------------------|----------------------------------------------|
