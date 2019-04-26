@@ -25,7 +25,7 @@ If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-la
 
 To see the version number for Layout, go to **Settings** > **About**.
 
-To see the version number for the Import Tool, go to **Settings**, and then look in the **About** section.
+To see the version number for Dynamics 365 Import Tool (Preview), go to **Settings**, and then look in the **About** section.
 
 ## Do I need the Dynamics 365 Layout apps for both HoloLens and Windows Mixed Reality immersive headsets?
 
