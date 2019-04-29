@@ -2,7 +2,7 @@
 author: BryceHo
 description: Glossary of terms for Dynamics 365 Guides in preview
 ms.author: anhaman
-ms.date: 02/24/2019
+ms.date: 04/29/2019
 ms.service: crm-online
 ms.topic: article
 title: Glossary of terms for Dynamics 365 Guides in preview
@@ -25,7 +25,7 @@ A library of predefined objects included in Guides that use can use to get start
 A gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
 
 ## Alignment
-The process of making sure that a guide "lines up" with associated objects in the real world when used on a HoloLens. Alignment is crucial and mandatory for creating any guide. For more information, see the [Authoring guide](pc-authoring.md).
+The process of making sure that a guide “lines up” with associated objects in the real world when used on HoloLens. Alignment is crucial and mandatory for creating any guide. For more information, see the [Authoring guide](pc-authoring.md).
 
 ## Asset
 Collective term for the complete set of objects that you can add to a step to support that step. Assets include 2D objects (images and videos) and 3D objects (3D parts and objects from the 3D toolkit). 
@@ -46,13 +46,13 @@ The size of the HoloLens display where holograms show up. It’s important to ke
 A setting that ensures the HoloLens device fits properly. A proper fit is very important for alignment purposes.
 
 ## Gaze
-The act of looking at a user interface element with the HoloLens. In some cases, you can select an item just by gazing at it. In other cases, you use gaze to target an object and then act on that target with a gesture.
+The act of looking at a user interface element with HoloLens. In some cases, you can select an item just by gazing at it. In other cases, you use gaze to target an object and then act on that target with a gesture.
 
 ## Gesture
-Hand gestures enable operators to do actions in mixed reality. For more information, see [Gestures to know](authoring-gestures.md).
+A hand movement that enables an operator to do an action in mixed reality. For more information, see [Gestures to know](authoring-gestures.md).
 
 ## Interpupillary distance (IPD)
-The distance between a user’s eyes. Different users have different IPDs. To align content correctly, the HoloLens needs to be calibrated for each user’s IPD. 
+The distance between a user’s eyes. Different users have different IPDs. To align content correctly, HoloLens needs to be calibrated for each user’s IPD. 
 
 ## Marker
 A computer-generated visual used for one type of alignment. You gaze at the marker to align the guide with its spatial coordinates.
@@ -67,7 +67,7 @@ A page in the PC Authoring application that you use to add tasks and steps. From
 A short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
 
 ## Step card
-The fundamental building block in Guides. You add text and supporting assets to a Step card in the PC Authoring application, and then place holograms associated with each step in a real-world environment in HoloLens Author mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see the [Authoring guide](pc-authoring.md).
+The fundamental building block in Guides. You add text and supporting assets to a Step card in the PC authoring application, and then place holograms associated with each step in a real-world environment in HoloLens Author mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see the [Authoring guide](pc-authoring.md).
 
 ## Style
 Visual properties that you can add to any 3D object to reinforce what you want the operator to do or know. Examples of styles include Pick up, Place, and Caution.
