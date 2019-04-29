@@ -25,7 +25,7 @@ If you're not able to use Microsoft Dynamics 365 Guides in preview, or if you ha
 
 ## Why do I have to download two apps?
 
-Guides includes two applications:
+Dynamics 365 Guides includes two applications:
 
 - PC authoring application
 
@@ -33,9 +33,9 @@ Guides includes two applications:
 
 If you plan to author guides, you’ll need to use both apps. If not, you’ll only need the HoloLens app.
 
-## What are the prerequisites for using the Guides apps?
+## What are the prerequisites for using the Dynamics 365 Guides apps?
 
-The following table lists technical requirements for deploying and using Guides throughout your organization.
+The following table lists technical requirements for deploying and using Dynamics 365 Guides throughout your organization.
 
 ### Device requirements
 |Device|OS requirements|Details|
@@ -45,7 +45,7 @@ The following table lists technical requirements for deploying and using Guides 
 
 ### Licensing and product requirements
 
-You need a Dynamics 365 Guides (Preview) license for each user who will use the Guides app. For more information, [see the Setup topic](setup.md).
+You need a Dynamics 365 Guides (Preview) license for each user who will use the Dynamics 365 Guides app. For more information, [see the Setup topic](setup.md).
 
 ## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
 
@@ -53,7 +53,7 @@ Target availability date for this functionality is fall 2019.
 
 ## I get an error message when I try to sign in to the PC app or HoloLens app
 
-The Guides solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the Guides product. If your organization is already subscribed to Guides, you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
+The Dynamics 365 Guides solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the Dynamics 365 Guides product. If your organization is already subscribed to Dynamics 365 Guides, you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
 
 ## Where is the data stored and who has access to it?
 
@@ -80,7 +80,7 @@ Note that in the HoloLens application, if you use the bloom gesture to open the 
 ## What if the app crashes while authoring. Do I lose data?
 Both apps automatically save your edits as you author a guide. Any loss of data due to a crash should be minimal.
 
-## What keyboard shortcuts are available in the PC Authoring app?
+## What keyboard shortcuts are available in the PC authoring app?
 
 For a list of keyboard shortcuts, see the [Authoring Guide](pc-authoring.md).
 
