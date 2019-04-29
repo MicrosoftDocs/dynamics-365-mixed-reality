@@ -206,7 +206,7 @@ To turn the Performance setting on or off:
 
 ## Turn off fading of holograms
 
-By default, holograms fade when you get within 45 centimeters of them. You can use th Hologram fade setting if you want to turn off this fade effect and get up close to your holograms.
+By default, holograms fade when you get within 45 centimeters of them. You can use the **Hologram fade** setting if you want to turn off this fade effect and get up close to your holograms.
 
 [!div class="mx-imgBorder"]
 ![Hologram fade setting](media/hologram-fade.PNG "Hologram fade setting")
