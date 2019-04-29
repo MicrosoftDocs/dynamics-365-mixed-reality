@@ -145,14 +145,14 @@ headset: 
 
 [!include[pn-layout](../includes/pn-layout.md)] includes two tools to help you learn how to do common tasks such as measuring, copying, grouping, resizing, and accessing settings: teaching moments and demo layouts.
 
-Teaching moments
+### Teaching moments
 
 Teaching moments provide a series of images to make it easy to understand common tasks. To access teaching moments, air tap **Help** in the main menu, and then air tap the area you need help with:
 
 [!div class="mx-imgBorder"]
 ![Teaching moments](media/teaching-moments.PNG "Teaching moments")
 
-Demo layouts
+### Demo layouts
 
 Demo layouts use pre-built layouts to demonstrate how to build different parts of a manufacturing plant. There are three demos to choose from:
 
@@ -165,7 +165,7 @@ To access demo layouts:
 
 ADD PROCEDURE HERE
 
-## Work with models
+## Place, copy, resize, rotate, and select models
 
 On [!include[pn-hololens](../includes/pn-hololens.md)] and in [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality, you can place, move, copy, resize, and
 rotate 3D models.
