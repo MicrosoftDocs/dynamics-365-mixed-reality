@@ -287,7 +287,7 @@ Here’s a list of styles included in Guides and when to use each:
 |Pick up	|Tell the operator to pick up something.	|Outline|
 |Place	|Show the operator where to place something.	|Dotted line|
 |See-through 1	|Show something without obscuring the operator’s view.	|50% transparent|
-|See-through 2	|Layer one thing on top of another so the operator can see through two layer.	|75% transparent|
+|See-through 2	|Layer one thing on top of another so the operator can see through two layers.	|75% transparent|
 |Warning	|Warn about a safety or quality concern.	|Yellow and black striped|
 |Avoid	|Show areas or things to avoid.	|Red flashing|
 |X-ray	|Show things that happen inside something.	|Outline with transparent inside|
