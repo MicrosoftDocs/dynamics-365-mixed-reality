@@ -37,7 +37,7 @@ To install the HoloLens app:
 
 2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open Microsoft Store and search for “Dynamics 365 Guides (Preview)”.
 
-3.	Select **Install** to download and install the Guides application.
+3.	Select **Install** to download and install the Dynamics 365 Guides application.
 
 ### Sign in to the HoloLens app
 If you sign in with a brand new HoloLens device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your HoloLens for use.
