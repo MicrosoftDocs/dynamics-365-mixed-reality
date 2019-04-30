@@ -37,12 +37,12 @@ Use these instructions to install the app (if it hasn't already been installed f
 ### Install the app 
 1.	On your Windows 10 PC, make sure you have the latest Windows 10 build (build 10.0.16299 or later).
 
-2.	Go to Start ![Start button)](media/windows-button.png "Start button") > Microsoft Store ![Store button)](media/store-button.png "Store button"), and then search for “Dynamics 365 Guides (Preview).”
+2.	Go to **Start** ![Start button)](media/windows-button.png "Start button") > **Microsoft Store** ![Store button)](media/store-button.png "Store button"), and then search for “Dynamics 365 Guides (Preview).”
 
-3.  Select the **Install** button to download and install Guides.
+3.  Select **Install** to download and install Dynamics 365 Guides.
 
 ### Sign in to the app
-1.	Open the Guides application from the **Start** menu on your PC. 
+1.	Open the Dynamics 365 Guides application from the **Start** menu on your PC. 
 
 2.	In the **Welcome to Guides** screen, select **Sign in**.
 
@@ -60,22 +60,24 @@ Use these instructions to install the app (if it hasn't already been installed f
 
 ## Create a new guide
 
-1.	Open the Guides app.
+1.	Open the Dynamics 365 Guides app.
 
 2.	Select **Create a new guide**.
 
-3.	Enter a name for the guide. If you’re planning to create multiple versions of the guide, you may want to add _v2, _v3, and 
+3.	Enter a name for the guide. If you’re planning to create multiple versions of the guide, you might want to add _v2, _v3, and 
 so on as part of the name. 
 
 ## Saving: how changes are synced between the PC app and HoloLens app
 
-The PC authoring app and the HoloLens app are connected through the cloud, where your Guides files and assets are stored. 
+The PC authoring app and the HoloLens app are connected through the cloud, where your Dynamics 365 Guides files and assets are stored. 
 When you author a guide, all changes are saved on both the PC and HoloLens. This makes it easy to switch between devices. 
 Autosave checks for changes every 4 seconds. 
 
 > [!IMPORTANT]
-> For this preview release, there are a few things to be aware of when syncing devices:<br><br>- As a best practice, always select **Refresh** before making edits when you switch between devices. This ensures that you have the latest version of that file from the other device.<br><br>- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC app, the guide  automatically refreshes on HoloLens. You might notice the refresh process.<br><br>- When you add text to the guide in the PC application, the auto publish only activates when you move the cursor outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, you’ll lose the text you created on the PC when 
+> For this preview release, there are a few things to be aware of when syncing devices:<br><br>- As a best practice, always select **Refresh** before making edits when you switch between devices. This ensures that you have the latest version of that file from the other device.<br><br>- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC app, the guide automatically refreshes on HoloLens. You might notice the refresh process.<br><br>- When you add text to the guide in the PC application, the auto publish feature activates only when you move the cursor outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, or you’ll lose the text you created on the PC when 
 it updates with the changes from HoloLens. This issue will be addressed in our next release. 
+
+<!--note from editor: Confirming the "or" I added to sentence above is correct.   -->
 
 ## Choose an alignment method 
 
@@ -88,10 +90,10 @@ with the space they live in and become meaningful. The alignment acts as the anc
 
 There are two types of alignment:
 
-- With **Marker alignment** (recommended), you attach a printed marker to a physical object in the real world. After creating the guide, 
-to align the guide in the real world, you gaze at the marker using the HoloLens.
+- With **marker alignment** (recommended), you attach a printed marker to a physical object in the real world. After creating the guide, 
+to align the guide in the real world, you gaze at the marker using HoloLens.
 
-- With **Manual alignment**, you import a 3D representation (such as a CAD model or scanned model), and then lay that representation, 
+- With **manual alignment**, you import a 3D representation (such as a CAD model or scanned model), and then lay that representation, 
 called a “digital twin”, directly over a physical object in the real world. After creating the guide, to align it in the real world, 
 you use a gesture.
 
@@ -102,7 +104,7 @@ place or assemble the wrong part.
 Marker alignment is recommended because it’s more accurate. You might want or need to use manual alignment, however, for any of the 
 following reasons:
 
-- It might not be feasible to attach a marker because the authoring is done in a different location than where the parts are located.
+- It might not be feasible to attach a marker because the authoring is done in a location different than where the parts are located.
 
 - It might not be feasible to attach a marker due to moving parts.
 
@@ -146,8 +148,8 @@ To print the marker:
  
 > [!NOTE]
 > If the marker spacing is not within +/- 0.1 mm, select the **Custom Scale** option in the **Print** dialog box, and then change the 
-percentage to compensate for the size discrepancy. For example, if you print the marker and the result is 49 mm, you need to 
-change the scale to 100.4% to get 49.196 mm, which would be within tolerance.<br>You may also need to adjust the hardware offset in Hololens 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
+percentage to compensate for the size discrepancy. For example, if you print the marker, and the result is 49 mm, you need to 
+change the scale to 100.4% to get 49.196 mm, which would be within tolerance.<br>You might also need to adjust the hardware offset in Hololens 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
 
 #### Best practices for marker alignment
 
@@ -157,7 +159,7 @@ Keep the following in mind when working with marker alignment:
 
   - Some applications and printers might change the size of the image.
   
-  - If the printed marker is bigger than indicated, HoloLens interprets the scale difference in distance. This causes the marker to be identified as closer than it really is. 
+  - If the printed marker is larger than indicated, HoloLens interprets the scale difference in distance. This causes the marker to be identified as closer than it really is. 
   
   - Printing from the .pdf file (as described earlier in this topic) is the best way to ensure that the marker is not resized. 
   
@@ -169,7 +171,7 @@ Keep the following in mind when working with marker alignment:
   
   - Place the marker where operators can quickly rescan to realign at any time.
   
-  - Take a photo or video to document the marker placement and add it to the guide instructions to increase operator confidence.
+  - Take a photo or video to document the marker placement, and add it to the guide instructions to increase operator confidence.
   
 - **Scanning angle.** Make sure you’re facing the marker straight on at the correct distance when gazing at it. 
 
@@ -179,8 +181,8 @@ Keep the following in mind when working with marker alignment:
 
 #### How HoloLens establishes marker position, scale, and orientation
 
-When scanning, the forward-facing camera on the HoloLens is used to measure the horizontal and vertical distances on the marker. 
-This information is combined with the actual marker values stored internally in the application (49.2 mm and 32.8 mm as indicated 
+When scanning, the forward-facing camera on the HoloLens device is used to measure the horizontal and vertical distances on the marker. 
+This information is combined with the actual marker values stored internally in the application (49.2 mm and 32.8 mm, as indicated 
 in the preceding illustration) to establish the marker’s precise position, scale, and orientation in space.
 
 ### Align your guide by using manual alignment
@@ -226,7 +228,7 @@ When you switch to HoloLens authoring, you'll use a gesture to place the 3D repr
   
   - Pick shapes that have clear edges and corners to help orient your content properly.
   
-- **Recognizable.** Select a digital twin that’s obvious, easily recognizable, and easy for the operator to find. Make sure they can access the object without any obstructions.
+- **Recognizable.** Select a digital twin that’s obvious, easily recognizable, and easy for the operator to find. Make sure that they can access the object without any obstructions.
 
 - **Alignment direction.** Always align the digital twin to your physical object from the same direction. This maximizes repeatability for operators.
 
@@ -237,7 +239,7 @@ When you switch to HoloLens authoring, you'll use a gesture to place the 3D repr
 ### Ensure accuracy of alignment
 Independent from the method used for alignment, these additional factors can impact the accuracy of the alignment and/or user perception of the alignment:
 
-- **Interpupillary distance (IPD) setting.** The IPD is the distance between the center of the user’s pupils. It’s crucial to set the appropriate IPD to enable HoloLens to adapt its display as different users may have different IPDs. An incorrect IPD setting might result in a wrong perception of holograms in space as well as instability of holograms. [Use the HoloLens Calibration app to calibrate your IPD](https://docs.microsoft.com/en-us/windows/mixed-reality/calibration). 
+- **Interpupillary distance (IPD) setting.** The IPD is the distance between the center of the user’s pupils. It’s crucial to set the appropriate IPD to enable HoloLens to adapt its display because different users might have different IPDs. An incorrect IPD setting can result in a wrong perception of holograms in space as well as instability of holograms. [Use the HoloLens Calibration app to calibrate your IPD](https://docs.microsoft.com/en-us/windows/mixed-reality/calibration). 
 
 - **Pre-scanning the environment.** HoloLens actively scans its environment for visible features  to create maps of its surroundings. This happens whenever the device is turned on and a user is signed in. It’s independent of whether you’re in the HoloLens shell or running apps. HoloLens constantly improves the accuracy of these maps as it scans the environment from different viewpoints and stores them on the device. Holograms are placed in relation to these maps. The more accurate the map, the more accurate the hologram placement.
 Before using Guides on a HoloLens that’s unfamiliar with its environment, the user should put on the HoloLens, sign into the device and walk around the space where holograms instructions are placed or will be placed. This can be done while the user is in the HoloLens shell, but we recommend the user hide the Start menu to see the space as they walk around. Walking at a leisurely pace while slowly looking up and down will give the device the opportunity to find features and construct accurate maps. This is called "pre-scanning" because it’s done before you run Guides. You only need to do this once for each environment as HoloLens stores the maps it created on the device and remembers the spaces it has scanned.
