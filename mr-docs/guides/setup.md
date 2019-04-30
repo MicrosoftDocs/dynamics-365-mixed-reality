@@ -17,9 +17,6 @@ We're thrilled to introduce Microsoft Dynamics 365 Guides in preview! [Learn abo
 
 To get started with Dynamics 365 Guides, you need to:
 
-<!--note from editor: Removed "for Apps" after "Common Data Service" per current guidance. The heading at Line 44 should also be changed.   -->
-
-
 1.	Sign up for the preview.
 
 2.	Create a Common Data Service environment, if you don't already have one.
@@ -41,7 +38,7 @@ This topic provides step-by-step instructions for all of the above.
     > [!IMPORTANT] 
     > We recommend creating user credentials for the preview even if you have an existing work account. If you're not an admin in the organization, you won't be able to complete Steps 2 and 3. Also, when asked to enter a domain name, don't use your normal work domain. Create a new domain in the form: **guides*YourCompanyName***.
  
-## Step 2: Create a Common Data Service for Apps environment<a name="cds"></a>
+## Step 2: Create a Common Data Service environment<a name="cds"></a>
 
 After signing up for the preview, you’ll need to create an environment where you can install the Dynamics 365 Guides solution. If you already have a Common Data Service environment, you can skip to [Step 3: Install and configure the Dynamics 365 Guides solution](#configure).
 
