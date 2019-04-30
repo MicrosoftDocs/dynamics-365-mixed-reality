@@ -36,8 +36,8 @@ Training typically occurs away from the flow of work in a training facility and 
 mentors to bring workers up to speed on the production line. Some complex procedures are not needed regularly, and just-in-time training is needed even for experienced workers. Currently, task cards and standard operating procedures are typically done on paper or a 2D device that requires a user to read, process, and then do, leaving a gap between learning and doing. 
 
 Whether it’s doing complex procedures on the job or while training away from the production line, Dynamics 365 Guides provides heads-up, hands-free, 
-step-by-step instruction in the flow of work. Employees can control the interface with their gaze—using a glance to move to the next 
-step—leaving their hands free to do the work. Instruction cards move with the worker, following them as they move around equipment, 
+step-by-step instruction in the flow of work. Employees can control the interface with their gaze (using a glance to move to the next 
+step) leaving their hands free to do the work. Instruction cards move with the worker, following them as they move around equipment, 
 pointing to the tools and parts they need and showing them exactly how and where to apply them. The experience is comfortable, 
 simple to use, and reduces mental processing time, errors, and the need to rely on a buddy system. 
 
