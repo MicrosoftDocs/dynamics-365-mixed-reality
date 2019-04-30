@@ -67,13 +67,13 @@ Focus on step-by-step procedures that:
 
 Ask these questions when evaluating scenarios:
 
-1.	Is the procedure complex enough that it requires augmented work instructions? Think about things like how long it takes new operators to learn a task, how much time is spent deciphering schematics, cost of errors, and so on.
+-	Is the procedure complex enough that it requires augmented work instructions? Think about things like how long it takes new operators to learn a task, how much time is spent deciphering schematics, cost of errors, and so on.
 
-2.	Can you convey the necessary information with centimeter-level accuracy? We can’t guarantee that holograms will maintain accuracy below 2 cm.
+-	Can you convey the necessary information with centimeter-level accuracy? We can’t guarantee that holograms will maintain accuracy below 2 cm.
 
-3.	Does the procedure take less than an hour? 
+-	Does the procedure take less than an hour? 
 
-4.	Do operators need to be hands-free to complete the procedure?
+-	Do operators need to be hands-free to complete the procedure?
 
 But get creative and experiment with how Dynamics 365 Guides can help your employees learn by doing. We love hearing about new ways that customers are using Dynamics 365 Guides! 
 
