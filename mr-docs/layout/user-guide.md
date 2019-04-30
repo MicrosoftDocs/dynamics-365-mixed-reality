@@ -83,9 +83,6 @@ To use [!include[pn-layout](../includes/pn-layout.md)], you create space layout
 layouts. The [!include[pn-layout](../includes/pn-layout.md)] app comes with a set of preinstalled models, and you can
 also add your own.
 
-> [!TIP]
-> As of the May 2019 update, [!include[pn-layout](../includes/pn-layout.md)] includes new learning tools including teaching moments and demo layouts. To learn more about these tools, see [Learning tools for Dynamics 365 Layout](user-guide#learn).
-
 ### Create a layout
 
 There are two ways to create a layout:
