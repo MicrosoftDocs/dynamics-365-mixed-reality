@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Known Issues with Microsoft Dynamics 365 Guides in preview
 
+<!--note from editor: throughout--add text (name of topic) to the http://aka.ms/guidesdocs link.  -->
+
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
 ## Offline use is not supported
