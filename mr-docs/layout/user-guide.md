@@ -161,7 +161,7 @@ headset: 
     > ![Move layout from HoloLens](media/selected-layouts-pc.PNG "Move layout from HoloLens")
 
 
-## Place, copy, resize, rotate, and select models
+## Place, copy, resize, rotate, and select 3D models
 
 On [!include[pn-hololens](../includes/pn-hololens.md)] and in [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality, you can place, move, copy, resize, and
 rotate 3D models.
