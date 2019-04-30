@@ -68,9 +68,9 @@ Teaching moments provide a series of images that make it easy to understand comm
 
 Demo layouts use pre-built layouts to demonstrate how to build different parts of a manufacturing plant. There are three demos to choose from:
 
-For example, in the Copy/paste and collision demo, learn how to complete a conveyor belt by copying and positioning sections.
-
 ![Demo layouts](media/demo-layouts.PNG "Demo layouts")
+
+For example, in the Copy/paste and collision demo, learn how to complete a conveyor belt by copying and positioning sections.
 
 To access demo layouts, pick the demo you want from the **Layouts** menu.
 
