@@ -275,7 +275,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
 ### Best practices for the Outline page
 
-- To provide overall context, add an Overview task at the start of the guide. This task should include just one step that describes what the guide is about. This is also a good place to list all the tasks that the guide covers. 
+- To provide overall context, add an Overview task at the start of the guide. This task would include just one step that describes what the guide is about. This is also a good place to list all the tasks that the guide covers. 
 
 - Add a step at the beginning and end of each task to let the operator know when they’re starting something new or ending a task, and to make the operator feel successful when they complete a task.
 
@@ -285,7 +285,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
 - Remember to refresh your guide when moving between PC and HoloLens, and be sure to move the cursor outside the text box when writing steps to activate AutoSave. 
 
-Here’s an example from the Example Guide to show what a completed **Outline** page looks like:
+Here’s the **Outline** page from the Example Guide to show what a completed **Outline** page looks like:
 
 ![Finished Outline page from Example guide)](media/finished-outline-page.PNG "Finished Outline page from Example guide")
   
