@@ -91,8 +91,6 @@ To set up your reports:
 7.	Save the configured reports to a convenient place on your computer for later use. 
 
 8.	Select **Refresh** ![Refresh button)](media/refresh-button.PNG "Refresh button") on the **Home** ribbon to update your reports with the most recent Dynamics 365 Guides data. 
-  
- <!--note from editor: Is there a way to make the Refresh button graphic not so tall in Step 8 above?   -->
  
 ### Open your reports 
 
