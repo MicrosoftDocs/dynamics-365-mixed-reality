@@ -147,7 +147,7 @@ headset: 
 
 ### Teaching moments
 
-Teaching moments provide a series of images to make it easy to understand common tasks. To access teaching moments, air tap **Help** in the main menu, and then air tap the area you need help with:
+Teaching moments provide a series of images that make it easy to understand common tasks. To access teaching moments, air tap **Help** in the main menu, and then air tap the area you need help with:
 
 [!div class="mx-imgBorder"]
 ![Teaching moments](media/teaching-moments.PNG "Teaching moments")
@@ -161,9 +161,10 @@ For example, in the Copy/paste and collision demo, you'll learn how to complete 
 [!div class="mx-imgBorder"]
 ![Demo layouts](media/demo-layouts.PNG "Demo layouts")
 
-To access demo layouts:
+To access demo layouts, pick the demo you want from the **Layouts** menu.
 
-ADD PROCEDURE HERE
+[!div class="mx-imgBorder"]
+![Access demo layouts](media/access-demo-layouts.PNG "Access demo layouts")
 
 ## Place, copy, resize, rotate, and select models
 
@@ -206,10 +207,10 @@ To turn the Performance setting on or off:
 
 ## Turn off fading of holograms
 
-By default, holograms fade when you get within 45 centimeters of them. You can use the **Hologram fade** setting if you want to turn off this fade effect and get up close to your holograms.
+By default, holograms fade when you get within 45 centimeters of them. You can use the **Hologram Fade** setting if you want to turn off this fade effect and get up close to your holograms.
 
 [!div class="mx-imgBorder"]
-![Hologram fade setting](media/hologram-fade.PNG "Hologram fade setting")
+![Hologram Fade setting](media/hologram-fade.PNG "Hologram Fade setting")
 
 Switch hologram fading back on at any time by switching the setting back to **On**.
 
