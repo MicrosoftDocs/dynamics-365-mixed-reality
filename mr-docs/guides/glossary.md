@@ -2,7 +2,7 @@
 author: BryceHo
 description: Glossary of terms for Dynamics 365 Guides in preview
 ms.author: anhaman
-ms.date: 04/29/2019
+ms.date: 04/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Glossary of terms for Dynamics 365 Guides in preview
@@ -19,7 +19,7 @@ When you're working with Microsoft Dynamics 365 Guides in preview, you might fin
 3D content that you assign to a step to support that step. You assign 3D parts in the PC application, and then place the holograms in a real-world environment in HoloLens Author mode.
 
 ## 3D toolkit
-A library of predefined objects included in Guides that use can use to get started right away. For example, there are 3D objects such as pointers and arrows that you can add to a step to support that step.
+A library of predefined objects included in Dynamics 365 Guides that use can use to get started right away. For example, there are 3D objects such as pointers and arrows that you can add to a step to support that step.
 
 ## Air tap
 A gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
