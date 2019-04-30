@@ -11,8 +11,6 @@ ms.reviewer: v-brycho
 
 # Known Issues with Microsoft Dynamics 365 Guides in preview
 
-<!--note from editor: throughout--add text (name of topic) to the http://aka.ms/guidesdocs link.  -->
-
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
 ## Offline use is not supported
@@ -133,9 +131,7 @@ If you see any of the following errors, please contact your IT administrator or 
 
 - Your client app version does not support your Dynamics 365 Guides solution version. Please update your client app, contact your administrator, or see the self-serve documentation at http://aka.ms/guidesdocs.
 
-- You don't have a license to use Dynamics 365 Guides. Contact your administrator, or sign up for a free trial subscription using the documentation link below.
-
-<!--note from editor: In bullet item above, replace "documentation link below" with  http://aka.ms/guidesdocs?  -->
+- You don't have a license to use Dynamics 365 Guides. Contact your administrator, or [sign up for a free trial subscription]().
 
 #### Staying on the account picker for more than 25 seconds during HoloLens sign-in will make it unresponsive
 
@@ -184,9 +180,7 @@ If you see any of the following errors, please contact your IT administrator or 
 
 - Your client app version does not support your Dynamics 365 Guides solution version. Please update your client app, contact your administrator, or see the self-serve documentation http://aka.ms/guidesdocs.
 
-- You don't have a license to use Dynamics 365 Guides. Contact your administrator or sign up for a free trial subscription using the documentation link below.
-
-<!--note from editor:  in list item above, change "documentation link below" to http://aka.ms/guidesdocs? Also, wasn't sure if those bullets were the exact wording of the error messge. If so, ignore edits. -->
+- You don't have a license to use Dynamics 365 Guides. Contact your administrator.
 
 #### Staying on the account picker more than 25 seconds during HoloLens sign-in will make it unresponsive
 
