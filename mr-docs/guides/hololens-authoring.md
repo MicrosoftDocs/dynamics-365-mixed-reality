@@ -19,7 +19,7 @@ The second major step in authoring a guide in Microsoft Dynamics 365 Guides in p
 
 - Test the flow of your guide.
 
-- Place your holographic 3D content in their relevant spaces in the real world.
+- Place your holographic 3D content in its relevant space in the real world.
 
 - Add holographic tethers to visually tie your steps to physical objects in the real world.
 
@@ -33,11 +33,11 @@ If you haven’t already installed the HoloLens app on your HoloLens device (or 
 
 To install the HoloLens app:
 
-1.	Make sure you have HoloLens build 10.0.14393.0 or later installed on your HoloLens. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
+1.	Make sure you have Microsoft HoloLens build 10.0.14393.0 or later installed on your HoloLens device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
-2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the Home menu, and then open the Microsoft Store app and search for “Dynamics 365 Guides (Preview)”.
+2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open Microsoft Store and search for “Dynamics 365 Guides (Preview)”.
 
-3.	Select **Install** to download and install the Guides application.
+3.	Select **Install** to download and install the Dynamics 365 Guides application.
 
 ### Sign in to the HoloLens app
 If you sign in with a brand new HoloLens device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your HoloLens for use.
@@ -48,7 +48,7 @@ To have the holograms appear in the correct locations, the interpupillary distan
 
 If you don’t configure the IPD for each user: 
 
-- Holograms will be out of alignment by 1 – 2 cm. 
+- Holograms will be out of alignment by 1–2 cm. 
 
 - Holograms will appear as if they’re sunk into or floating above surfaces they’re sitting on.
 
@@ -59,7 +59,7 @@ If you don’t configure the IPD for each user:
 
 To set your IPD, use the Calibration app included with HoloLens using the following steps: 
 
-1.	Do the bloom gesture to launch the Start menu.
+1.	Do the bloom gesture to launch the **Start** menu.
 
 2.	Air tap on **Calibration** to begin calibrating your HoloLens.
 
@@ -67,11 +67,11 @@ To set your IPD, use the Calibration app included with HoloLens using the follow
  
 3.	Follow the instructions on your HoloLens.
 
-Each user will need to do this calibration after logging into the device. If the HoloLens is running Windows Holographic for Business edition, the IPD setting will be saved on the device. When the user logs into the same HoloLens, their IPD setting will be applied automatically even after switching users — they won’t need to recalibrate. If the HoloLens is running Windows Holographic edition, however, user settings aren’t saved, since this version of the operating system is designed for a single user. Each time you switch users, you’ll need to recalibrate the device. 
+Each user will need to do this calibration after logging into the device. If HoloLens is running Windows Holographic for Business edition, the IPD setting will be saved on the device. When the user logs into the same HoloLens, their IPD setting will be applied automatically even after switching users—they won’t need to recalibrate. If HoloLens is running Windows Holographic edition, however, user settings aren’t saved, because this version of the operating system is designed for a single user. Each time you switch users, you’ll need to recalibrate the device. 
 
 To determine which version of the operating system you’re using on HoloLens: 
 
-1.	Do the bloom gesture to launch the Start menu.
+1.	Do the bloom gesture to launch the **Start** menu.
 
 2.	Air tap on **Settings > System**.
  
@@ -87,7 +87,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 
     ![HoloLens down arrow highlighted)](media/hololens-down-arrow.PNG "HoloLens down arrow highlighted")
 
-3.	Launch the Guides application.
+3.	Open the Guides application.
 
     ![Launch Guides)](media/launch-guides.PNG "Launch 'Guides")
  
@@ -109,7 +109,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 > Dynamics 365 Guides (Preview) comes with an Example Guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/step-card.PNG "Example Guide")
 
 ## Align your guide
-The first thing you see when you open a guide is the alignment instructions you created in the PC authoring application. The screen shot below shows the operating instructions created for the Example Guide that comes with Dynamics 365 Guides.
+The first thing you see when you open a guide is the alignment instructions you created in the PC authoring application. The screen shot that follows shows the operating instructions created for the Example Guide that comes with Dynamics 365 Guides.
 
 ![HoloLens alignment instructions)](media/hololens-alignment.PNG "HoloLens alignment instructions")
 
@@ -124,10 +124,10 @@ After aligning the guide, you’ll see the **Marker found** screen. Select the *
 > [!NOTE]
 > If you chose Manual alignment as the alignment method for the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
 
-When you align your guide, the alignment information is stored on your HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time though if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section.
+When you align your guide, the alignment information is stored on your HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section.
 
 > [!NOTE]
-> You may need to adjust the hardware offset in Hololens 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
+> You might need to adjust the hardware offset in HoloLens 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
 
 ## Get oriented on HoloLens
 After you align your guide, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card tags along with the operator to keep the instructions where they need them as they move around their work space.
@@ -161,7 +161,7 @@ Here’s what each button or UI element is used for:
 |![Media button)](media/media-button.png "Media button")|Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
 
 ## Test the flow of your guide
-Once you’re oriented on HoloLens, we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you may need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
+Once you’re oriented on HoloLens, we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
 
 ## Place your holograms
 After you’ve tested the flow of your guide and made changes in the PC application, you’re ready to place your holograms. 
@@ -200,13 +200,13 @@ To place a hologram from one of your bins:
 
 1.	Air tap a 3D asset to add it to your real world. It will appear in your world in front of the Step card.
 
-2.	Raise your hand to the ready gesture and gaze at the 3D asset to select it. You can tell if it’s selected if the 3D selection sphere appears around it.
+2.	Raise your hand to the ready gesture and gaze at the 3D asset to select it. The way you can tell if it’s selected is that the 3D selection sphere appears around it.
 
 3.	Once the object is selected, air tap + hold anywhere on the selection sphere to pick up the 3D asset.
 
 4.	Do one of the following to move the hologram:
 
-    - To move it larger distances in any direction, move your hand quickly in the direction you want. By default, the hologram will move approximately the same distance your hand moves from the starting point of where you “grabbed” the hologram to where you stop. 
+    - To move it larger distances in any direction, move your hand quickly in the direction you want. By default, the hologram moves approximately the same distance your hand moves from the starting point of where you “grabbed” the hologram to where you stop. 
     
     - To make more precise adjustments, move your hand slowly or keep it stationary to enter precision mode. This slows down the movement speed so you can nudge the hologram where you want it.
 
@@ -283,15 +283,15 @@ Here’s a list of styles included in Guides and when to use each:
 
 |Style	|Purpose	|How it appears to the operator|
 |---------------|-------------------|--------------------------------------------|
-|Original|Restore to original appearance	|Default appearance|
-|Pick up	|Tell the operator to pick up something	|Outline|
-|Place	|Show the operator where to place something	|Dotted line|
-|See-through 1	|Show something without obscuring the operator’s view	|50% transparent|
-|See-through 2	|Layer one thing on top of another so the operator can see through two layers	|75% transparent|
-|Warning	|Warn about a safety or quality concern	|Yellow and black striped|
-|Avoid	|Show areas or things to avoid	|Red flashing|
-|X-ray	|Show things that happen inside something	|Outline with transparent inside|
-|Metal	|Provide a realistic metal finish for an object	|Metallic|
+|Original|Restore to original appearance.	|Default appearance|
+|Pick up	|Tell the operator to pick up something.	|Outline|
+|Place	|Show the operator where to place something.	|Dotted line|
+|See-through 1	|Show something without obscuring the operator’s view.	|50% transparent|
+|See-through 2	|Layer one thing on top of another so the operator can see through two layers.	|75% transparent|
+|Warning	|Warn about a safety or quality concern.	|Yellow and black striped|
+|Avoid	|Show areas or things to avoid.	|Red flashing|
+|X-ray	|Show things that happen inside something.	|Outline with transparent inside|
+|Metal	|Provide a realistic metal finish for an object.	|Metallic|
 
 ![All styles](media/all-styles.PNG "All styles")
  
@@ -339,10 +339,10 @@ To place a tether:
 To learn more about Guides, here are some helpful links:
 
 - [Use a guide as an operator](operator-guide.md)
-- [Analyze your guides to improve efficiences](analytics-guide.md)
+- [Analyze your guides to improve efficiency](analytics-guide.md)
 - [FAQ](faq.md)
 
-To learn more about Microsoft mixed reality apps and HoloLens, use the following links: 
+To learn more about Microsoft mixed-reality apps and HoloLens, use the following links: 
 
 - [What is mixed reality](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)?
 - [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)

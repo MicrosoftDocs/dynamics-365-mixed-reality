@@ -2,7 +2,7 @@
 author: BryceHo
 description: Things to keep in mind before you start authoring in Dynamics 365 Guides in preview, including media and file naming.
 ms.author: mamaylya
-ms.date: 04/22/2019
+ms.date: 04/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Things to keep in mind before you start authoring in Dynamics 365 Guides in preview
@@ -17,7 +17,7 @@ Before you start authoring in Microsoft Dynamics 365 Guides in preview, you’ll
 
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 
 (if you have any) and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
-Guides includes a 3D toolkit that you can use to get started.
+Dynamics 365 Guides includes a 3D toolkit that you can use to get started.
 
 - Arrange for access to the space so you understand the real-world environment. You’ll also need access to the space to align 
 the guide and place holograms later.
@@ -31,7 +31,7 @@ expert or a novice?
 
 ## Use media and 3D content to your advantage
 
-As you consider the media and 3D content you want to use for your project, keep in mind that size matters greatly on HoloLens 
+As you consider the media and 3D content you want to use for your project, keep in mind that size matters greatly on Microsoft HoloLens, 
 both for the quality of the experience and performance. It’s best to use high-fidelity assets where details matter and low-fidelity 
 assets for high-level principles where details aren’t as important.
 
@@ -83,7 +83,7 @@ using video captions, if available, for noisy environments.
 
 ### Best practices for 3D content
 
-3D content is best for adding in-context clarity. Guides includes a 3D toolkit of 3D models that you can use to add 
+3D content is best for adding in-context clarity. Dynamics 365 Guides includes a 3D toolkit of 3D models that you can use to add 
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
 optimized for HoloLens. For more information, see the [Authoring guide](pc-authoring.md).
 
@@ -97,12 +97,12 @@ You can also create and import your own custom 3D parts using CAD models. Guides
 
 ## Set up a folder structure
 
-To organize content, you may want to create a folder structure with separate folders for text, 3D assets, images, and videos to make 
+To organize content, you might want to create a folder structure with separate folders for text, 3D assets, images, and videos to make 
 it easy to find and use the different types of assets.
 
-![Folder stucture)](media/folder-structure.PNG "Folder structure")
+![Folder structure)](media/folder-structure.PNG "Folder structure")
  
-### Best practies for file names
+### Best practices for file names
 
 When naming your content pieces, consider using standard prefixes so that all of your assets are organized together in the library.
 
@@ -114,6 +114,6 @@ For example:
 
 ### See also
 
-[Overview of Guides authoring](authoring-overview.md)<br>
+[Overview of Dynamics 365 Guides authoring](authoring-overview.md)<br>
 [Author a guide using the PC application](pc-authoring.md)<br>
 [Test your guide and place holograms in the HoloLens app](hololens-authoring.md)<br>
