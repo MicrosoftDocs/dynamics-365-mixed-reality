@@ -58,7 +58,7 @@ To set up your reports:
    
     ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")      
  
-2.	In the Microsoft Download Center, select the **Download** button. 
+2.	In the Microsoft Download Center, select **Download**. 
 
     ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
 
@@ -82,16 +82,17 @@ To set up your reports:
   
      ![Sign-in error)](media/sign-in-error.PNG "Sign-in error")
 
-     In that case, select the **Sign in** button, and enter your Dynamics 365 Guides username and password to connect the template to your organization’s secure Dynamics 365 environment. 
+     In that case, select **Sign in**, and enter your Dynamics 365 Guides username and password to connect the template to your organization’s secure Dynamics 365 environment. 
 
-6.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are described in detail in **Take a tour of reports** later in this topic.
+6.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are described in detail in “Take a tour of reports” later in this topic. 
  
      ![Example report)](media/example-report.PNG "Example report")
  
 7.	Save the configured reports to a convenient place on your computer for later use. 
 
-8.	Select the **Refresh** ![Refresh button)](media/refresh-button.PNG "Refresh button") button on the **Home** ribbon to update your reports with the most recent Dynamics 365 Guides data. 
+8.	Select **Refresh** ![Refresh button)](media/refresh-button.PNG "Refresh button") on the **Home** ribbon to update your reports with the most recent Dynamics 365 Guides data. 
   
+ <!--note from editor: Is there a way to make the Refresh button graphic not so tall in Step 8 above?   -->
  
 ### Open your reports 
 
@@ -125,11 +126,11 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
     The bar chart of run counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage.  
 
-    **Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart, and then select the **Drill Up** button.
+    **Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart, and then select **Drill Up**.
    
     ![Drill-up button)](media/drill-up-button.PNG "Drill-up-button")
   
-    To return to the per-day view, select the **Drill Mode** button, and then select the month bar you want to drill into.  
+    To return to the per-day view, select **Drill Mode**, and then select the month bar you want to drill into.  
 
     ![Drill Mode button)](media/drill-mode-button.PNG "Drill mode button")
 
@@ -150,9 +151,12 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
     The bar chart of average run time in minutes (x-axis) per guide (y-axis) allows you to quickly identify the guides that take the most or least amount of time to operate (top and bottom of chart respectively). If you have many guides, you might need to scroll within this chart. 
 
+<!--note from editor: In Step 3 above, sentence "Alternatively, select the **Expand to the next level** button to drill back down."--the wording in the graphic doesn't match button name given in text. Also, in Step 3, "Filter by Date" item--is "slicer" correct?  -->
+
+
 ### Process Time-Tracking report
 
-Use the Process Time-Tracking report to drill into usage and step-level run-time data for a single guide. 
+Use the Process Time-Tracking report to drill into usage and step-level run-time data for a single guide. The following graphic illustrates the parts of the report.
 
 ![Process Time-Tracking report)](media/process-time-tracking-report.PNG "Process Time-Tracking report")
  
@@ -188,16 +192,16 @@ Use the Process Time-Tracking report to drill into usage and step-level run-time
    indicates both the step numbers (upper labels) and parent task labels (lower labels). Guide tasks and steps are organized 
    into a hierarchy. 
 
-    To change the view from the step level to the task level, first select the chart and then select the **Drill Up** button.  
+    To change the view from the step level to the task level, first select the chart, and then select **Drill Up**.  
 
     ![Drill Up button)](media/drill-up-2.PNG "Drill Up button")
    
-    To return to the step view, select the **Drill Mode** button, and then select the task you want to drill in to.
+    To return to the step view, select **Drill Mode**, and then select the task you want to drill in to.
   
     ![Drill Mode button)](media/step-to-task-drill-down.PNG "Drill Mode button")
  
      Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the 
-   step level, whereas the **Drill Mode** only drills into the data item you selected. 
+   step level, whereas **Drill Mode** only drills into the data item you selected. 
    
     ![Next level hierarchy)](media/expand-to-next-level.PNG "Next level hierarchy")
   
