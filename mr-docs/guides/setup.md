@@ -317,7 +317,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
  
 4.	Select **Add** when you’re done.
 
-   When you add a user, the user gets an email notification from the Microsoft Online Services Team that includes their user ID and    temporary password. They’ll use this information to sign in to Dynamics 365 Guides.
+    When you add a user, the user gets an email notification from the Microsoft Online Services Team that includes their user ID and    temporary password. They’ll use this information to sign in to Dynamics 365 Guides.
 
 5. If you haven't already done so, [set up user roles for the solution](#user-roles) as described earlier in this topic.
 
