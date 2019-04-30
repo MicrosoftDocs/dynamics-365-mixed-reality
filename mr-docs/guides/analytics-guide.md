@@ -84,13 +84,13 @@ To set up your reports:
 
      In that case, select **Sign in**, and enter your Dynamics 365 Guides username and password to connect the template to your organization’s secure Dynamics 365 environment. 
 
-6.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are described in detail in “Take a tour of reports” later in this topic. 
+5.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are described in detail in “Take a tour of reports” later in this topic. 
  
      ![Example report)](media/example-report.PNG "Example report")
  
-7.	Save the configured reports to a convenient place on your computer for later use. 
+6.	Save the configured reports to a convenient place on your computer for later use. 
 
-8.	Select **Refresh** ![Refresh button)](media/refresh-button.PNG "Refresh button") on the **Home** ribbon to update your reports with the most recent Dynamics 365 Guides data. 
+7.	Select **Refresh** ![Refresh button)](media/refresh-button.png "Refresh button") on the **Home** ribbon to update your reports with the most recent Dynamics 365 Guides data. 
  
 ### Open your reports 
 
