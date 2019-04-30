@@ -2,7 +2,7 @@
 author: BryceHo
 description: Understand the building blocks of Dynamics 365 Guides in preview
 ms.author: anhaman
-ms.date: 02/24/2019
+ms.date: 04/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Guides in preview
@@ -15,11 +15,11 @@ ms.reviewer: v-brycho
  
 So you’ve set up Microsoft Dynamics 365 Guides in preview using the [Setup topic](setup.md) and you’re ready to get started. What do you do next?
 
-There are three basic things you can do with Guides: 
+There are three basic things you can do with Dynamics 365 Guides: 
 
-- Create a guide (author a guide)
+- Create a guide (author a guide).
 
-- Use a guide (operate a guide)
+- Use a guide (operate a guide).
 
 - Analyze the guide usage (see how people operating the guide did at each step). 
 
@@ -27,17 +27,17 @@ See our [Authoring](authoring-overview.md), [Operating](operator-guide.md), and 
 
 ## Jumping in
 
-The best way to learn Guides is by doing, so here are some tips on getting started: 
+The best way to learn Dynamics 365 Guides is by doing, so here are some tips on getting started: 
 
 1.	Use the Example Guide:
 
-    - We have included an Example Guide that you can use to learn about Guides. It walks you through common workflows and features, provides tips and tricks for great guide creation, and helps you get up to speed by doing!
+    - We have included an Example Guide that you can use to learn about Dynamics 365 Guides. It walks you through common workflows and features, provides tips and tricks for great guide creation, and helps you get up to speed by doing!
     
       ![Example Guide)](media/example-guide.PNG "Example Guide")
 
-    - Put on your HoloLens, start the HoloLens app in Operator mode, and then select the Example Guide. Go through the guide step-by-step to learn about key features. 
+    - Put on your Microsoft HoloLens device, start the HoloLens app in Operator mode, and then select the Example Guide. Go through the guide step-by-step to learn about key features. 
 
-    - Edit the guide steps and assets using the PC authoring app or place instructions or holograms using the HoloLens app in Author mode. 
+    - Edit the guide steps and assets using the PC authoring app, or place instructions or holograms using the HoloLens app in Author mode. 
     
 2.	Create your first guide from scratch, try it out, and analyze it.
 
@@ -53,7 +53,7 @@ The best way to learn Guides is by doing, so here are some tips on getting start
 
 ## What makes a good guide?
 
-Here are some tips for selecting high-impact use cases to get the most out of Guides. 
+Here are some tips for selecting high-impact use cases to get the most out of Dynamics 365 Guides. 
 
 Focus on step-by-step procedures that:
 
@@ -63,7 +63,7 @@ Focus on step-by-step procedures that:
 
 - Don't require millimeter-level accuracy. HoloLens sensors are not calibrated to support that level of accuracy.
 
-- Take less than one hour to complete. If it takes longer than one hour, the operator could experience discomfort.
+- Take less than one hour to complete. If a procedure takes longer than one hour, the operator could experience discomfort.
 
 Ask these questions when evaluating scenarios:
 
@@ -75,13 +75,13 @@ Ask these questions when evaluating scenarios:
 
 4.	Do operators need to be hands-free to complete the procedure?
 
-But get creative and experiment with how Guides can help your employees learn by doing. We love hearing about new ways that customers are using Guides! 
+But get creative and experiment with how Dynamics 365 Guides can help your employees learn by doing. We love hearing about new ways that customers are using Dynamics 365 Guides! 
 
 
 ### See also
 
 [Author a guide](authoring-overview.md)<br>
-[Operating manual](operator-guide.md)<br>
+[Operator's manual](operator-guide.md)<br>
 [Analyze your guides](analytics-guide.md)<br>
 [FAQ](faq.md)<br>
 [Known issues](known-issues.md)
