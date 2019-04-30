@@ -69,8 +69,6 @@ The following table lists the formats supported for 3D content, images, and vide
 |Images|PNG, JPG, JPEG, GIF, TIFF||
 |Videos|MP4, MOV, WMV|Make sure to keep your videos less than 2 minutes long, and focused on one step at a time.|
 
-<!--note from editor:  Add TM to glTF above?  -->
-
 ## Will I lose any data if I close an app inadvertently?
 
 Both apps automatically save your edits as you author a guide. We recommend pausing for a couple seconds after you’re done before closing the app to make sure the app has time to sync with the server.
