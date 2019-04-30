@@ -54,6 +54,28 @@ public store.
 | [!include[pn-layout](../includes/pn-layout.md)]      | Mixed reality headset |<ul><li>Place models in layouts imported from [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)] </ul>| 1. On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br> 2. Connect your mixed reality headset to the PC and find the app on the mixed reality **Start** menu. <br>   |
 | [!include[pn-import-tool](../includes/pn-import-tool.md)] | PC                    | <ul><li>Transfer floorplans from [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)] to [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality</li><li>Transfer layouts between [!include[pn-hololens](../includes/pn-hololens.md)] and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality </li><li>Process 3D models for use on [!include[pn-hololens](../includes/pn-hololens.md)] </ul>| On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX). <br>    |
 
+## Get started with Dynamics 365 Layout: take advantage of learning tools
+
+[!include[pn-layout](../includes/pn-layout.md)] includes two tools (teaching moments and demo layouts) that you can use to help you learn how to do common tasks such as measuring, copying, grouping, resizing, and accessing settings.
+
+### Teaching moments
+
+Teaching moments provide a series of images that make it easy to understand common tasks. To access teaching moments, air tap **Help**, and then air tap the area you need help with:
+
+![Teaching moments](media/teaching-moments.PNG "Teaching moments")
+
+### Demo layouts
+
+Demo layouts use pre-built layouts to demonstrate how to build different parts of a manufacturing plant. There are three demos to choose from:
+
+For example, in the Copy/paste and collision demo, learn how to complete a conveyor belt by copying and positioning sections.
+
+![Demo layouts](media/demo-layouts.PNG "Demo layouts")
+
+To access demo layouts, pick the demo you want from the **Layouts** menu.
+
+![Access demo layouts](media/access-demo-layouts.PNG "Access demo layouts")
+
 ## Use Dynamics 365 Layout
 
 To use [!include[pn-layout](../includes/pn-layout.md)], you create space layouts on your [!include[pn-hololens](../includes/pn-hololens.md)] or PC, and then use a
@@ -141,30 +163,6 @@ headset: 
     > [!div class="mx-imgBorder"]
     > ![Move layout from HoloLens](media/selected-layouts-pc.PNG "Move layout from HoloLens")
 
-## Learning tools for Dynamics 365 Layout
-
-[!include[pn-layout](../includes/pn-layout.md)] includes two tools to help you learn how to do common tasks such as measuring, copying, grouping, resizing, and accessing settings: teaching moments and demo layouts.
-
-### Teaching moments
-
-Teaching moments provide a series of images that make it easy to understand common tasks. To access teaching moments, air tap **Help** in the main menu, and then air tap the area you need help with:
-
-[!div class="mx-imgBorder"]
-![Teaching moments](media/teaching-moments.PNG "Teaching moments")
-
-### Demo layouts
-
-Demo layouts use pre-built layouts to demonstrate how to build different parts of a manufacturing plant. There are three demos to choose from:
-
-For example, in the Copy/paste and collision demo, you'll learn how to complete a conveyor belt by copying and positioning sections.
-
-[!div class="mx-imgBorder"]
-![Demo layouts](media/demo-layouts.PNG "Demo layouts")
-
-To access demo layouts, pick the demo you want from the **Layouts** menu.
-
-[!div class="mx-imgBorder"]
-![Access demo layouts](media/access-demo-layouts.PNG "Access demo layouts")
 
 ## Place, copy, resize, rotate, and select models
 
@@ -209,7 +207,6 @@ To turn the Performance setting on or off:
 
 By default, holograms fade when you get within 45 centimeters of them. You can use the **Hologram Fade** setting if you want to turn off this fade effect and get up close to your holograms.
 
-[!div class="mx-imgBorder"]
 ![Hologram Fade setting](media/hologram-fade.PNG "Hologram Fade setting")
 
 Switch hologram fading back on at any time by switching the setting back to **On**.
