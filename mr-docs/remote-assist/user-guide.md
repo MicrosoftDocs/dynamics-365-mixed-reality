@@ -72,7 +72,7 @@ commands.](#voice)
 
 ## Make and receive calls
 
-### Make a video call to a contact using Microsoft Teams
+### Make a video call to a contact in your company
 
 -   Open the app and [select](https://support.microsoft.com/en-us/help/12644) a
     recent contact. If you don’t see the contact you want, select **Search** ![Search](media/e3155cd796106ea0818d8f52c7dbfcbe.png "Search"), and then use the holographic keyboard to enter a name or email address.
@@ -83,6 +83,20 @@ what you see in your space—including holograms.
 > [!NOTE]
 > Dynamic audio adjusts the volume level based on ambient noise in the
 room so you can hear even if you're working in a loud environment.
+
+### Make a video call to a contact outside your company
+
+You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see [Manage external access (federation) in Microsoft Teams(https://docs.microsoft.com/microsoftteams/manage-external-access).
+
+> [!NOTE]
+> At this time, you can't do group calling or file sharing with users outside your company. 
+
+To make a video call to a contact outside your company:
+
+- Open the app, select **Search**, and then use the holographic keyboard to enter the full email address of the external user. You *must* enter the full email address. You won't see any search results if you enter just a name or a partial email address.
+
+> [!NOTE] 
+> If you're not able to find the contact you're looking or, it may be because external access has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help. 
 
 ## Make group calls
 
@@ -129,7 +143,7 @@ You can include up to 50 people in a group call. You can also switch between par
 > [!NOTE]
 > If you mute a participant, you won't be able to unmute them. They must unmute themselves through Teams. 
 
-### Receive a video call from a contact using Microsoft Teams
+## Receive a video call from a contact using Microsoft Teams
 
 -   Select **Video** ![Video](media/bae39e2bdb1eafec5c36c76ffa640355.png "Video") (or say “Video”) to accept the call as a video call or **Audio** ![Audio](media/972493ccc469c4ca41c04f96fabf6ba5.png "Audio") (or say “Audio”) to accept it as a voice-only call. To decline the call, select **Ignore** (or say “Ignore”).
 
@@ -140,7 +154,7 @@ to leave [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. Go ahead
 from [!include[pn-cortana](../includes/pn-cortana.md)] if a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] call comes in, and you’ll be able to accept or
 decline it using your voice.
 
-### Position the call window
+## Position the call window
 
 You can pin your video feed in your space, or you can have it follow you around.
 
@@ -148,11 +162,17 @@ To pin your video feed:
 
 -   Gaze to position the window, and then select **Pin** ![Pin](media/d213f48b98dc5b8e41318aaa3782c395.png "Pin") (or say “Pin”). To have it follow you again, select **Unpin** ![Unpin](media/1f4f3c48b466bfaa7a222cd4f1158c9c.png "Unpin") (or say “Unpin”).
 
-### Record a call
+## Record a call
 
-You can record and save a call to a file for viewing later. The easiest way to do this is to use the Game bar built into all Windows 10 PCs.
+You can record a call to a file for viewing later. This is a great way to capture a call for training or for record-keeping purposes.
 
-To record a call:
+You can record a call in two ways:
+
+- Use the Game bar built into Windows 10 PCs
+
+- Use the Teams recording feature
+
+### Record a call using the Game bar in Windows 10 PCs
 
 1. On a Windows 10 desktop PC, join a call using Microsoft Teams.
 
@@ -164,7 +184,7 @@ To record a call:
 
    A small recording menu will appear that shows that the recording is in progress.
    
-   ![Recording)](media/recording.PNG "Recording")
+   ![Recording](media/recording.PNG "Recording")
    
 4. To stop recording, select the **Stop Recording** button.
 
@@ -172,7 +192,23 @@ To record a call:
    
 [Learn more about the Game bar.](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10)
 
-### Text chat
+### Record a call from Teams
+
+Microsoft Teams supports [cloud-based call recording of group calls](https://support.office.com/en-us/article/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24). Recordings are stored and shared through Microsoft Stream.
+
+1.	Start or join the group call.
+
+2.	To start recording, select **More options** (...) > **Start recording**.
+
+    ![Start recording button](media/start-rrecording.PNG "Start recording button")
+ 
+3.	To stop recording, select **More options** (...) > **Stop recording**.
+
+    ![Stop recording button](media/stop-recording.PNG "Stop recording button")
+ 
+    The recording is processed (which can take a while) and saved to Microsoft Stream. The person who started the recording receives an email from Microsoft Stream when the recording is available. It also shows up in the group chat.
+
+## Text chat
 
 You can text chat with the other user on the call. The chat window displays just
 the text messages sent during the call.
