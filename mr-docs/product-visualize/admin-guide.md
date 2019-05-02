@@ -222,6 +222,8 @@ This section provides step-by-step instructions for creating a new price list, p
 
 13. Select **Save**.
 
+14. Select **Publish**.
+
 ## Add models
 
 Presenting complicated products to a customer with traditional 2D materials is unsatisfactory, and creating 
