@@ -90,7 +90,7 @@ You can include up to 50 people in a group call. You can also switch between par
 
 ### Invite additional contacts to a call
 
-1. In the upper-right corner of the video feed, select the **Open Participants** button.
+1. From the call controls, select the **Open Participants** button.
 
    ![Animation of selecting Open Participants](media/GC_OpenParticipantsList.gif "Animation of selecting Open Participants")
 
@@ -106,23 +106,19 @@ You can include up to 50 people in a group call. You can also switch between par
 
 ### Switch the displayed video feed in a group call 
 
-1. In the upper-right corner of the video feed, select the **Open Participants** button. 
+1. From the call controls, select the **Open Participants** button. 
 
 2. Hover over the participant whose video feed you want to switch to, and then select it. If the participant's video feed is enabled, the video will switch to their feed. 
 
-   ![Animation of video feed switch](media/GC_SwitchfromList.gif "Animation of video feed switch")
-
    > [!TIP] 
    > You can also switch video feeds from the “participant tray” located below the video feed. Hover over the avatar to display the participant's name, and then air tap to switch video feeds. 
-
-   ![Animation of tray switch](media/GC_SwitchfromBar.gif "Animation of tray switch")
 
 ### Mute a participant in a group call 
 
 > [!NOTE]
 > You can't mute a participant in a one-to-one call.
 
-1. In the upper-right corner of the video feed, select the **Open Participants** button. 
+1. From the call controls, select the **Open Participants** button. 
 
 2. Air tap the mute icon for the participant you want to mute. 
 
