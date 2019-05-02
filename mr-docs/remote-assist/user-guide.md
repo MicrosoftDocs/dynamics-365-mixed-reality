@@ -145,24 +145,6 @@ You can include up to 50 people in a group call. You can also switch between par
 > [!NOTE]
 > If you mute a participant, you won't be able to unmute them. They must unmute themselves through Teams. 
 
-## Receive a video call from a contact using Microsoft Teams
-
--   Select **Video** ![Video](media/bae39e2bdb1eafec5c36c76ffa640355.png "Video") (or say “Video”) to accept the call as a video call or **Audio** ![Audio](media/972493ccc469c4ca41c04f96fabf6ba5.png "Audio") (or say “Audio”) to accept it as a voice-only call. To decline the call, select **Ignore** (or say “Ignore”).
-
-> [!NOTE]
-> To receive calls when you’re using other apps on [!include[pn-hololens](../includes/pn-hololens.md)], open the
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)] app. Then use the [bloom gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
-to leave [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. Go ahead and use other apps. You’ll get a notification
-from [!include[pn-cortana](../includes/pn-cortana.md)] if a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] call comes in, and you’ll be able to accept or
-decline it using your voice.
-
-## Position the call window
-
-You can pin your video feed in your space, or you can have it follow you around.
-
-To pin your video feed:
-
--   Gaze to position the window, and then select **Pin** ![Pin](media/d213f48b98dc5b8e41318aaa3782c395.png "Pin") (or say “Pin”). To have it follow you again, select **Unpin** ![Unpin](media/1f4f3c48b466bfaa7a222cd4f1158c9c.png "Unpin") (or say “Unpin”).
 
 ## Record a call
 
@@ -202,13 +184,32 @@ Microsoft Teams supports [cloud-based call recording of group calls](https://sup
 
 2.	To start recording, select **More options** (...) > **Start recording**.
 
-    ![Start recording button](media/start-rrecording.PNG "Start recording button")
+    ![Start recording button](media/start-recording.PNG "Start recording button")
  
 3.	To stop recording, select **More options** (...) > **Stop recording**.
 
     ![Stop recording button](media/stop-recording.PNG "Stop recording button")
  
     The recording is processed (which can take a while) and saved to Microsoft Stream. The person who started the recording receives an email from Microsoft Stream when the recording is available. It also shows up in the group chat.
+
+## Receive a video call from a contact using Microsoft Teams
+
+-   Select **Video** ![Video](media/bae39e2bdb1eafec5c36c76ffa640355.png "Video") (or say “Video”) to accept the call as a video call or **Audio** ![Audio](media/972493ccc469c4ca41c04f96fabf6ba5.png "Audio") (or say “Audio”) to accept it as a voice-only call. To decline the call, select **Ignore** (or say “Ignore”).
+
+> [!NOTE]
+> To receive calls when you’re using other apps on [!include[pn-hololens](../includes/pn-hololens.md)], open the
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] app. Then use the [bloom gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
+to leave [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. Go ahead and use other apps. You’ll get a notification
+from [!include[pn-cortana](../includes/pn-cortana.md)] if a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] call comes in, and you’ll be able to accept or
+decline it using your voice.
+
+## Position the call window
+
+You can pin your video feed in your space, or you can have it follow you around.
+
+To pin your video feed:
+
+-   Gaze to position the window, and then select **Pin** ![Pin](media/d213f48b98dc5b8e41318aaa3782c395.png "Pin") (or say “Pin”). To have it follow you again, select **Unpin** ![Unpin](media/1f4f3c48b466bfaa7a222cd4f1158c9c.png "Unpin") (or say “Unpin”).
 
 ## Text chat
 
