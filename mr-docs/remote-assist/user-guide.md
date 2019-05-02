@@ -192,7 +192,7 @@ Microsoft Teams supports [cloud-based call recording of group calls](https://sup
  
     The recording is processed (which can take a while) and saved to Microsoft Stream. The person who started the recording receives an email from Microsoft Stream when the recording is available. It also shows up in the group chat.
 
-## Receive a video call from a contact using Microsoft Teams
+## Receive a call from a contact using Microsoft Teams
 
 -   Select **Video** ![Video](media/bae39e2bdb1eafec5c36c76ffa640355.png "Video") (or say “Video”) to accept the call as a video call or **Audio** ![Audio](media/972493ccc469c4ca41c04f96fabf6ba5.png "Audio") (or say “Audio”) to accept it as a voice-only call. To decline the call, select **Ignore** (or say “Ignore”).
 
