@@ -91,7 +91,7 @@ room so you can hear even if you're working in a loud environment.
 You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see [Manage external access (federation) in Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-external-access).
 
 > [!NOTE]
-> At this time, you can't do group calling or file sharing with users outside your company. 
+> At this time, you can't do group calling or file sharing with contacts outside your company. 
 
 To make a video call to a contact outside your company:
 
