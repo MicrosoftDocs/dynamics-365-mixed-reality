@@ -93,7 +93,7 @@ You can make or receive a one-to-one call with a Teams user from another company
 > [!NOTE]
 > At this time, you can't do group calling or file sharing with contacts outside your company. 
 
-To make a video call to a contact outside your company:
+To make a call to a contact outside your company:
 
 - Open the app, select **Search**, and then use the holographic keyboard to enter the full email address of the external user. You *must* enter the full email address. You won't see any search results if you enter just a name or a partial email address.
 
