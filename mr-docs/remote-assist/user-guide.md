@@ -72,6 +72,8 @@ commands.](#voice)
 
 ## Make and receive calls
 
+How you make a video call depends on whether you're calling a contact in your company or outside your company.
+
 ### Make a video call to a contact in your company
 
 -   Open the app and [select](https://support.microsoft.com/en-us/help/12644) a
@@ -86,7 +88,7 @@ room so you can hear even if you're working in a loud environment.
 
 ### Make a video call to a contact outside your company
 
-You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see [Manage external access (federation) in Microsoft Teams(https://docs.microsoft.com/microsoftteams/manage-external-access).
+You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see [Manage external access (federation) in Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-external-access).
 
 > [!NOTE]
 > At this time, you can't do group calling or file sharing with users outside your company. 
