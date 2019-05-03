@@ -26,7 +26,7 @@ see [Manage external access (federation) in Microsoft Teams](https://docs.micros
 
 2.	To check to see if a contact in another domain has external access enabled in their company’s Microsoft Teams admin center, try typing the contact's full email address in Teams Desktop. When external access is allowed between both domains, Teams shows the following message:
 
-    ![Confirmation message](media/access-enabled-message.PNG "Confirmation message")
+    ![Confirmation message](media/access-enabled-confirmation.PNG "Confirmation message")
  
 ### See also
 
