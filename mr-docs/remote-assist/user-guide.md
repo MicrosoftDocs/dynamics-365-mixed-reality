@@ -99,7 +99,7 @@ To make a call to a contact outside your company:
 
   You'll see the following message if external access has been enabled correctly:
   
-  ![External access confirmation](media/access-enabled-confirmation "External access confirmation")
+  ![External access confirmation](media/access-enabled-confirmation.PNG "External access confirmation")
 
 > [!NOTE] 
 > If you're not able to find the contact you're looking for, it may be because external access has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help. 
