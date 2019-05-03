@@ -3,6 +3,7 @@
 ## [Requirements](requirements.md)
 ## [Try Remote Assist free](try-remote-assist-free.md)
 ## [Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md)
+## [Set up cross-company calling (for admins)](cross-company-calling.md)
 ## [HoloLens User Guide](user-guide.md)
 ## [Mobile app User Guide](mobile-app.md)
 ## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
