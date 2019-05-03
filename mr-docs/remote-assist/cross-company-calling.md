@@ -20,8 +20,7 @@ Users in your organization can make or receive a one-on-one call with a Microsof
 
     ![Enable external access](media/enable-external-access.PNG "Enable external access")
  
-    By default, users can communicate with users in any other domain that has external access on and has allowed external access with 
-your domain. If you want to restrict this behavior, you can add allowed or blocked domains. For more information, 
+    By default, users can communicate with users in any other domain that has external access turned on and has allowed external access with your domain. If you want to restrict this behavior, you can add allowed or blocked domains. For more information, 
 see [Manage external access (federation) in Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-external-access).
 
 2.	To check to see if a contact in another domain has external access enabled in their company’s Microsoft Teams admin center, try typing the contact's full email address in Teams Desktop. When external access is allowed between both domains, Teams shows the following message:
