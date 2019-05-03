@@ -16,7 +16,7 @@ Users in your organization can make or receive a one-on-one call with a Microsof
 > [!NOTE]
 > At this time, group calling and file sharing is not available for cross-company calling.
 
-1.	[Enable external access](https://docs.microsoft.com/microsoftteams/manage-external-access) in your Microsoft Teams Admin Center. This allows users in your organization to make calls and chat with users outside your domain.
+1.	[Enable external access](https://docs.microsoft.com/microsoftteams/manage-external-access) in your Microsoft Teams admin center. This allows users in your organization to make calls and chat with users outside your domain.
 
     ![Enable external access](media/enable-external-access.PNG "Enable external access")
  
