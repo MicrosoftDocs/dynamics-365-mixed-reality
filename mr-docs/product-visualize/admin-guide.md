@@ -222,6 +222,8 @@ This section provides step-by-step instructions for creating a new price list, p
 
 13. Select **Save**.
 
+14. Select **Publish**.
+
 ## Add models
 
 Presenting complicated products to a customer with traditional 2D materials is unsatisfactory, and creating 
@@ -380,9 +382,9 @@ There are numerous ways you can customize your Opportunity page in Dynamics 365 
 
 5. Double-click the newly created tab, set the **Name** and **Label** fields to **Product Visualize**, and then select **OK**.
 
-6. Drag a **Description** field into the newly created tab from the menu on the right. You might have to clear the check box for the **Only Show Unused Fields** options to see the **Description** field.
+6. Drag a **Topic** field into the newly created tab from the menu on the right. You might have to clear the check box for the **Only Show Unused Fields** options to see the **Topic** field.
 
-7. Double-click the **Description** field you just placed to open the **Field Properties** dialog box.
+7. Double-click the **Topic** field you just placed to open the **Field Properties** dialog box.
 
 8. On the **Display** tab, clear the check box for **Display Label on the Form**.
 
