@@ -97,10 +97,6 @@ To make a call to a contact outside your company:
 
 - Open the app, select **Search**, and then use the holographic keyboard to enter the full email address of the external user. You *must* enter the full email address. You won't see any search results if you enter just a name or a partial email address.
 
-  You'll see the following message if external access has been enabled correctly:
-  
-  ![External access confirmation](media/access-enabled-confirmation.PNG "External access confirmation")
-
 > [!NOTE] 
 > If you're not able to find the contact you're looking for, it may be because external access has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help. 
 
