@@ -188,11 +188,13 @@ Microsoft Teams supports [cloud-based call recording of group calls](https://sup
  
 3.	To stop recording, select **More options** (...) > **Stop recording**.
 
+    ![Stop recording button](media/stop-recording.PNG "Stop recording button")
+
 
 <!--The screenshot below shows the "start recording" option, not "stop recording." Is that what you want?-->
 
 
-    ![Stop recording button](media/stop-recording.PNG "Stop recording button")
+    
  
     The recording is processed (which can take a while) and saved to Microsoft Stream. The person who started the recording receives an email from Microsoft Stream when the recording is available. It also shows up in the group chat.
 
