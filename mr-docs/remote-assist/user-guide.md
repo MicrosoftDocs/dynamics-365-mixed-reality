@@ -1,15 +1,15 @@
 ---
-author: MatthewJonPaul
-description: Dynamics 365 Remote Assist User Guide (for HoloLens)
-ms.author: mapau
-ms.date: 04/1/2019
+author: bencorn
+description: Dynamics 365 Remote Assist User guide (for HoloLens)
+ms.author: becorn
+ms.date: 05/6/2019
 ms.service: crm-online
 ms.topic: article
-title: Dynamics 365 Remote Assist User Guide (for HoloLens)
+title: Dynamics 365 Remote Assist User guide (for HoloLens)
 ms.reviewer: v-brycho
 ---
 
-# Dynamics 365 Remote Assist User Guide (for HoloLens)
+# Dynamics 365 Remote Assist User guide (for HoloLens)
 
 Use [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] to connect and collaborate using
 hands-free video calling, mixed reality annotations, and file (image and PDF)
@@ -72,7 +72,9 @@ commands.](#voice)
 
 ## Make and receive calls
 
-### Make a video call to a contact using Microsoft Teams
+How you make a call depends on whether you're calling a contact in your company or outside your company.
+
+### Make a call to a contact in your company
 
 -   Open the app and [select](https://support.microsoft.com/en-us/help/12644) a
     recent contact. If you don’t see the contact you want, select **Search** ![Search](media/e3155cd796106ea0818d8f52c7dbfcbe.png "Search"), and then use the holographic keyboard to enter a name or email address.
@@ -84,13 +86,27 @@ what you see in your space—including holograms.
 > Dynamic audio adjusts the volume level based on ambient noise in the
 room so you can hear even if you're working in a loud environment.
 
+### Make a call to a contact outside your company
+
+You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see [Set up cross-company calling](cross-company-calling.md).
+
+> [!NOTE]
+> At this time, you can't do group calling or file sharing with contacts outside your company. 
+
+To make a call to a contact outside your company:
+
+- Open the app, select **Search**, and then use the holographic keyboard to enter the full email address of the external user. You *must* enter the full email address. You won't see any search results if you enter just a name or a partial email address.
+
+> [!NOTE] 
+> If you're not able to find the contact you're looking for, it might be because external access has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help. 
+
 ## Make group calls
 
 You can include up to 50 people in a group call. You can also switch between participants' video feeds and mute participants as needed.
 
 ### Invite additional contacts to a call
 
-1. In the upper-right corner of the video feed, select the **Open Participants** button.
+1. From the call controls, select the **Open Participants** button.
 
    ![Animation of selecting Open Participants](media/GC_OpenParticipantsList.gif "Animation of selecting Open Participants")
 
@@ -106,53 +122,37 @@ You can include up to 50 people in a group call. You can also switch between par
 
 ### Switch the displayed video feed in a group call 
 
-1. In the upper-right corner of the video feed, select the **Open Participants** button. 
+1. From the call controls, select the **Open Participants** button. 
 
 2. Hover over the participant whose video feed you want to switch to, and then select it. If the participant's video feed is enabled, the video will switch to their feed. 
 
-   ![Animation of video feed switch](media/GC_SwitchfromList.gif "Animation of video feed switch")
-
    > [!TIP] 
    > You can also switch video feeds from the “participant tray” located below the video feed. Hover over the avatar to display the participant's name, and then air tap to switch video feeds. 
-
-   ![Animation of tray switch](media/GC_SwitchfromBar.gif "Animation of tray switch")
 
 ### Mute a participant in a group call 
 
 > [!NOTE]
 > You can't mute a participant in a one-to-one call.
 
-1. In the upper-right corner of the video feed, select the **Open Participants** button. 
+1. From the call controls, select the **Open Participants** button. 
 
 2. Air tap the mute icon for the participant you want to mute. 
 
 > [!NOTE]
 > If you mute a participant, you won't be able to unmute them. They must unmute themselves through Teams. 
 
-### Receive a video call from a contact using Microsoft Teams
 
--   Select **Video** ![Video](media/bae39e2bdb1eafec5c36c76ffa640355.png "Video") (or say “Video”) to accept the call as a video call or **Audio** ![Audio](media/972493ccc469c4ca41c04f96fabf6ba5.png "Audio") (or say “Audio”) to accept it as a voice-only call. To decline the call, select **Ignore** (or say “Ignore”).
+## Record a call
 
-> [!NOTE]
-> To receive calls when you’re using other apps on [!include[pn-hololens](../includes/pn-hololens.md)], open the
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)] app. Then use the [bloom gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
-to leave [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. Go ahead and use other apps. You’ll get a notification
-from [!include[pn-cortana](../includes/pn-cortana.md)] if a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] call comes in, and you’ll be able to accept or
-decline it using your voice.
+You can record a call to a file for viewing later. This is a great way to capture a call for training or for record-keeping purposes.
 
-### Position the call window
+You can record a call in two ways:
 
-You can pin your video feed in your space, or you can have it follow you around.
+- Use the Game bar built into Windows 10 PCs.
 
-To pin your video feed:
+- Use the Teams recording feature.
 
--   Gaze to position the window, and then select **Pin** ![Pin](media/d213f48b98dc5b8e41318aaa3782c395.png "Pin") (or say “Pin”). To have it follow you again, select **Unpin** ![Unpin](media/1f4f3c48b466bfaa7a222cd4f1158c9c.png "Unpin") (or say “Unpin”).
-
-### Record a call
-
-You can record and save a call to a file for viewing later. The easiest way to do this is to use the Game bar built into all Windows 10 PCs.
-
-To record a call:
+### Record a call using the Game bar in Windows 10 PCs
 
 1. On a Windows 10 desktop PC, join a call using Microsoft Teams.
 
@@ -164,7 +164,7 @@ To record a call:
 
    A small recording menu will appear that shows that the recording is in progress.
    
-   ![Recording)](media/recording.PNG "Recording")
+   ![Recording](media/recording.PNG "Recording")
    
 4. To stop recording, select the **Stop Recording** button.
 
@@ -172,7 +172,42 @@ To record a call:
    
 [Learn more about the Game bar.](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10)
 
-### Text chat
+### Record a call from Teams
+
+Microsoft Teams supports [cloud-based call recording of group calls](https://support.office.com/en-us/article/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24). Recordings are stored and shared through Microsoft Stream.
+
+1.	Start or join the group call.
+
+2.	To start recording, select **More options** (...) > **Start recording**.
+
+    ![Start recording button](media/start-recording.PNG "Start recording button")
+ 
+3.	To stop recording, select **More options** (...) > **Stop recording**.
+
+    ![Stop recording button](media/stop-recording.PNG "Stop recording button") 
+ 
+    The recording is processed (which can take a while) and saved to Microsoft Stream. The person who started the recording receives an email from Microsoft Stream when the recording is available. It also shows up in the group chat.
+
+## Receive a call from a contact using Microsoft Teams
+
+-   Select **Video** ![Video](media/bae39e2bdb1eafec5c36c76ffa640355.png "Video") (or say “Video”) to accept the call as a video call or **Audio** ![Audio](media/972493ccc469c4ca41c04f96fabf6ba5.png "Audio") (or say “Audio”) to accept it as a voice-only call. To decline the call, select **Ignore** (or say “Ignore”).
+
+> [!NOTE]
+> To receive calls when you’re using other apps on [!include[pn-hololens](../includes/pn-hololens.md)], open the
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] app. Then use the [bloom gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
+to leave [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. Go ahead and use other apps. You’ll get a notification
+from [!include[pn-cortana](../includes/pn-cortana.md)] if a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] call comes in, and you’ll be able to accept or
+decline it using your voice.
+
+## Position the call window
+
+You can pin your video feed in your space, or you can have it follow you around.
+
+To pin your video feed:
+
+-   Gaze to position the window, and then select **Pin** ![Pin](media/d213f48b98dc5b8e41318aaa3782c395.png "Pin") (or say “Pin”). To have it follow you again, select **Unpin** ![Unpin](media/1f4f3c48b466bfaa7a222cd4f1158c9c.png "Unpin") (or say “Unpin”).
+
+## Text chat
 
 You can text chat with the other user on the call. The chat window displays just
 the text messages sent during the call.
