@@ -2,7 +2,7 @@
 author: BryceHo
 description: FAQ about Dynamics 365 Guides in preview
 ms.author: makamat
-ms.date: 03/26/2019
+ms.date: 04/29/2019
 ms.service: crm-online
 ms.topic: article
 title: FAQ about Dynamics 365 Guides in preview
@@ -25,27 +25,27 @@ If you're not able to use Microsoft Dynamics 365 Guides in preview, or if you ha
 
 ## Why do I have to download two apps?
 
-Guides includes two applications:
+Dynamics 365 Guides includes two applications:
 
-- PC Authoring application
+- PC authoring application
 
 - HoloLens application, which includes modes for authoring and operating
 
 If you plan to author guides, you’ll need to use both apps. If not, you’ll only need the HoloLens app.
 
-## What are the prerequisites for using the Guides apps?
+## What are the prerequisites for using the Dynamics 365 Guides apps?
 
-The following table lists technical requirements for deploying and using Guides throughout your organization.
+The following table lists technical requirements for deploying and using Dynamics 365 Guides throughout your organization.
 
 ### Device requirements
 |Device|OS requirements|Details|
 |----------------------------------------|---------------------------------------------|-------------------------------------|
-|HoloLens|Build 10.0.14393.0 or later. We recommend updating HoloLens to newer versions when available.|See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS).|
+|Microsoft HoloLens|Build 10.0.14393.0 or later. We recommend updating HoloLens to newer versions when available.|See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS).|
 |Windows 10 PC (required to create a guide)|Windows 10 PC with Fall Creators Update 1709 or later (build 10.0.16299 or later)|A Windows 10 PC is used to create and edit guides that will be then available on HoloLens.</br><br>Suggested minimum screen resolution: 1080 px width|
 
 ### Licensing and product requirements
 
-You need a Dynamics 365 Guides (Preview) license for each user who will use the Guides app. For more information, [see the Setup topic](setup.md).
+You need a Dynamics 365 Guides (Preview) license for each user who will use the Dynamics 365 Guides app. For more information, [see the Setup topic](setup.md).
 
 ## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
 
@@ -53,11 +53,11 @@ Target availability date for this functionality is fall 2019.
 
 ## I get an error message when I try to sign in to the PC app or HoloLens app
 
-The Guides solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the Guides product. If your organization is already subscribed to Guides, you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
+The Dynamics 365 Guides solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the Dynamics 365 Guides product. If your organization is already subscribed to Dynamics 365 Guides, you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
 
 ## Where is the data stored and who has access to it?
 
-The data is stored in the Microsoft Common Data Service (CDS) in the tenant that you have admin privileges to. Please sign in to Dynamics 365 using the credentials created during the sign-up process. For more information, [see the Setup topic](setup.md). 
+The data is stored in Common Data Service in the tenant that you have admin privileges to. Please sign in to Dynamics 365 using the credentials created during the sign-up process. For more information, [see the Setup topic](setup.md). 
 
 ## What file formats are supported?
 
@@ -65,7 +65,7 @@ The following table lists the formats supported for 3D content, images, and vide
 
 |Media|Supported formats|Best practice|
 |----------|----------------------|-------------------------------------------------------------------------|
-|3D content|FBX, GLB, GLTF|Make sure to optimize your 3D models as much as possible to maintain optimal performance on HoloLens.|
+|3D content|FBX, GLB, glTF|Make sure to optimize your 3D models as much as possible to maintain optimal performance on HoloLens.|
 |Images|PNG, JPG, JPEG, GIF, TIFF||
 |Videos|MP4, MOV, WMV|Make sure to keep your videos less than 2 minutes long, and focused on one step at a time.|
 
@@ -73,22 +73,22 @@ The following table lists the formats supported for 3D content, images, and vide
 
 Both apps automatically save your edits as you author a guide. We recommend pausing for a couple seconds after you’re done before closing the app to make sure the app has time to sync with the server.
 
-Note that in the HoloLens application, if you use the bloom gesture to open the Start menu, the app goes on standby (doesn’t close). When you select the app tile, you’ll return to where you were before and no changes will be lost.
+Note that in the HoloLens application, if you use the bloom gesture to open the **Start** menu, the app goes on standby (doesn’t close). When you select the app tile, you’ll return to where you were before and no changes will be lost.
 
 ## What if the app crashes while authoring. Do I lose data?
 Both apps automatically save your edits as you author a guide. Any loss of data due to a crash should be minimal.
 
-## What keyboard shortcuts are available in the PC Authoring app?
+## What keyboard shortcuts are available in the PC authoring app?
 
 For a list of keyboard shortcuts, see the [Authoring Guide](pc-authoring.md).
 
 ## How can I improve visual clarity of holograms in the HoloLens app?
 
-If holograms aren’t visually clear, the HoloLens might not be properly calibrated for you. Calibration is crucial because the HoloLens renders holograms based on the distance between your eye pupils (interpupillary distance or “IPD”). If the HoloLens isn’t calibrated correctly, your eyes struggle to see the holograms in relation to the real world. 
+If holograms aren’t visually clear, HoloLens might not be properly calibrated for you. Calibration is crucial because HoloLens renders holograms based on the distance between your eye pupils (interpupillary distance or “IPD”). If HoloLens isn’t calibrated correctly, your eyes struggle to see the holograms in relation to the real world. 
 
-To calibrate the HoloLens:
+To calibrate HoloLens:
 
-1.	Use the bloom gesture to open the Start menu.
+1.	Use the bloom gesture to open the **Start** menu.
 
 2.	Use the bloom gesture again to see all the installed apps. 
 
@@ -96,7 +96,7 @@ To calibrate the HoloLens:
 
 4.	After calibrating, select the HoloLens app again.
 
-If the holograms are visually clear but too bright or too dim, use the buttons on the left side of the HoloLens to increase or decrease brightness.
+If the holograms are visually clear but too bright or too dim, use the buttons on the left side of the HoloLens headset to increase or decrease brightness.
 
 ## What should I do if the holographic instructions aren’t aligned to my work area?
 

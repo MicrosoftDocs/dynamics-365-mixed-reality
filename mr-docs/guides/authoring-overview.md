@@ -2,7 +2,7 @@
 author: BryceHo
 description: Overview of authoring in Dynamics 365 Guides in preview, including PC authoring and HoloLens authoring
 ms.author: mamaylya
-ms.date: 02/24/2019
+ms.date: 04/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Overview of authoring in Dynamics 365 Guides in preview
@@ -25,7 +25,7 @@ Supporting assets include:
   - 3D objects, such as objects from the 3D toolkit (arrows and numbers, for example)
   - 2D media (images and videos)
   
-- **HoloLens application in Authoring mode.** After creating the guide with the PC application, use the HoloLens application in Authoring mode to test the flow of your guide, place your holograms in the real world, add holographic tethers to show operators where to focus, and add styles to 3D objects (warning or caution, for example).
+- **HoloLens application in Author mode.** After creating the guide with the PC application, use the HoloLens application in Author mode to test the flow of your guide, place your holograms in the real world, add holographic tethers to show operators where to focus, and add styles to 3D objects (warning or caution, for example).
 
    ![Authoring overview)](media/authoring-overview.PNG "Authoring overview")
 

@@ -2,7 +2,7 @@
 author: BryceHo
 description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides in preview to improve process efficiencies.
 ms.author: cynielse
-ms.date: 02/24/2019
+ms.date: 04/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides in preview
@@ -13,11 +13,11 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Guides Analytics is part of the Microsoft Dynamics 365 Guides in preview application suite that includes the Guides PC authoring app and the Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports which are populated with Guides usage data stored securely in your Dynamics 365 environment. 
+Guides Analytics is part of the Microsoft Dynamics 365 Guides in preview application suite that includes the Dynamics 365 Guides PC authoring app and the Dynamics 365 Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports that are populated with Dynamics 365 Guides usage data stored securely in your Dynamics 365 environment. 
 
 ## What data is collected and used in Guides Analytics? 
 
-When an operator uses the Guides HoloLens app in Operate mode, each gaze-and-commit interaction on the **Next step** and 
+When an operator uses the Dynamics 365 Guides HoloLens app in Operate mode, each gaze-and-commit interaction on the **Next step** and 
 **Go back** buttons is recorded, together with the date and time of the interaction. Each operation of a guide in HoloLens 
 Operate mode, whether completed from beginning to end of the guide or involving just a few steps, is called *a run*. Information about the guide, such as step number, task number, and guide name are also recorded. This 
 data is stored in your private and secure Dynamics 365 environment.  
@@ -47,24 +47,24 @@ to better understand performance and improvement over time.
 
 ### Set up your reports for the first time 
 
-You can set up Guide Analytics for the first time through the Guides PC authoring app.
+You can set up Guide Analytics for the first time through the Dynamics 365 Guides PC authoring app.
 
 > [!NOTE]
-> Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). If you don’t have permission to install Power BI Desktop on your computer, ask your admin about Sharing the reports through the Power BI Service. 
+> Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). If you don’t have permission to install Power BI Desktop on your computer, ask your admin about sharing the reports through the Power BI Service. 
 
 To set up your reports:
  
-1.	In the Guides PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
+1.	In the Dynamics 365 Guides PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
    
     ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")      
  
-2.	In the Microsoft Download Center, select the **Download** button. 
+2.	In the Microsoft Download Center, select **Download**. 
 
     ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
 
     You’ll be prompted to choose the files to download: 
 
-     - **Guides Analytics Template.** You can configure this Power BI template file to display Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
+     - **Guides Analytics Template.** You can configure this Power BI template file to display Dynamics 365 Guides time-tracking data from within your organization. This is the main component of Guides Analytics. 
    
      - **Guides Analytics Demo.** You can use this Power BI file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics before you even create your first guide.  
 
@@ -72,30 +72,29 @@ To set up your reports:
 
      ![Files to download)](media/download-files.PNG "Files to download")   
   
-3.	Open the downloaded Guides Analytics Template.pbit file with Power BI Desktop. Use your Guides username and password if you’re prompted to sign in to Power BI.  
+3.	Open the downloaded Guides Analytics Template.pbit file with Power BI Desktop. Use your Dynamics 365 Guides username and password if you’re prompted to sign in to Power BI.  
  
-4.	When prompted, paste the Instance URI into the text box as shown below. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in step 1. 
+4.	When prompted, paste the Instance URI into the text box as shown here. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in step 1. 
 
      ![Guides Analytics template)](media/guides-analytics-template.PNG "Guides Analytics template")
  
-     You may see the following error message saying you aren’t signed in: 
+     You might see the following error message saying you aren’t signed in: 
   
      ![Sign-in error)](media/sign-in-error.PNG "Sign-in error")
 
-     In that case, select the **Sign in** button and enter your Guides username and password to connect the template to your organization’s secure Dynamics 365 environment. 
+     In that case, select **Sign in**, and enter your Dynamics 365 Guides username and password to connect the template to your organization’s secure Dynamics 365 environment. 
 
-6.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports may appear blank. The reports are described in detail in **Take a tour of reports** later in this topic.
+5.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are described in detail in “Take a tour of reports” later in this topic. 
  
      ![Example report)](media/example-report.PNG "Example report")
  
-7.	Save the configured reports to a convenient place on your computer for later use. 
+6.	Save the configured reports to a convenient place on your computer for later use. 
 
-8.	Select the **Refresh** ![Refresh button)](media/refresh-button.PNG "Refresh button") button on the Home ribbon to update your reports with the most recent Guides data. 
-  
+7.	Select **Refresh** on the **Home** ribbon to update your reports with the most recent Dynamics 365 Guides data. 
  
 ### Open your reports 
 
-Once you have set up and saved the Guides Analytics Template on your computer, launch Power BI Desktop and open your saved report. Power BI Desktop has a **File – Open – Recent** items list that's convenient for finding your previously opened reports.  
+Once you have set up and saved the Guides Analytics Template on your computer, open Power BI Desktop, and then open your saved report. Power BI Desktop has a **File – Open – Recent** items list that's convenient for finding your previously opened reports.  
 
 ## Take a tour of reports 
 
@@ -109,7 +108,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
  
 1.	Which guides are included in the report.
 
-    Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization’s guides.
+    Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down menu changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization’s guides.
    
 2.	Use the summary statistics to quickly answer the following questions:
 
@@ -125,11 +124,11 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
     The bar chart of run counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage.  
 
-    **Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart, and then select the **Drill Up** button.
+    **Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart, and then select **Drill Up**.
    
     ![Drill-up button)](media/drill-up-button.PNG "Drill-up-button")
   
-    To return to the per day view, select the **Drill Mode** button, and then select the month bar you want to drill into.  
+    To return to the per-day view, select **Drill Mode**, and then select the month bar you want to drill into.  
 
     ![Drill Mode button)](media/drill-mode-button.PNG "Drill mode button")
 
@@ -144,21 +143,24 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
 4.	What is the most frequently used guide? 
 
-    The bar chart of run counts (x-axis) per guide (y-axis) allows you to quickly identify which guides are used most and least in your organization (top and bottom of the chart respectively). If you have many guides, you may need to scroll within this chart. 
+    The bar chart of run counts (x-axis) per guide (y-axis) allows you to quickly identify which guides are used most and least in your organization (top and bottom of the chart respectively). If you have many guides, you might need to scroll within this chart. 
    
 5.	What is the average run time per guide? 
 
-    The bar chart of average run time in minutes (x-axis) per guide (y-axis) allows you to quickly identify the guides that take the most or least amount of time to operate (top and bottom of chart respectively). If you have many guides, you may need to scroll within this chart. 
+    The bar chart of average run time in minutes (x-axis) per guide (y-axis) allows you to quickly identify the guides that take the most or least amount of time to operate (top and bottom of chart respectively). If you have many guides, you might need to scroll within this chart. 
+
+<!--note from editor: In Step 3 above, sentence "Alternatively, select the **Expand to the next level** button to drill back down."--the wording in the graphic doesn't match button name given in text. Also, in Step 3, "Filter by Date" item--is "slicer" correct?  -->
+
 
 ### Process Time-Tracking report
 
-Use the Process Time-Tracking report to drill into usage and step-level run time data for a single guide. 
+Use the Process Time-Tracking report to drill into usage and step-level run-time data for a single guide. The following graphic illustrates the parts of the report.
 
 ![Process Time-Tracking report)](media/process-time-tracking-report.PNG "Process Time-Tracking report")
  
 1.	Which guides are included in the report?
 
-    Use the drop-down menu to select a single guide. Changing the selection in the drop-down changes the values in all 
+    Use the drop-down menu to select a single guide. Changing the selection in the drop-down menu changes the values in all 
    parts of the report to correspond to data for that single guide. 
    
 2.	Use the summary statistics to quickly answer the following questions: 
@@ -171,7 +173,7 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
    
 3.	Is daily guide usage changing? 
 
-    This is the same chart that’s shown in the Guides Usage report described above. 
+    This is the same chart that’s shown in the Guides Usage report described earlier. 
    
 4.	How long is a guide run in minutes? 
 
@@ -188,26 +190,26 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
    indicates both the step numbers (upper labels) and parent task labels (lower labels). Guide tasks and steps are organized 
    into a hierarchy. 
 
-    To change the view from the step level to the task level, first select the chart and then select the **Drill Up** button.  
+    To change the view from the step level to the task level, first select the chart, and then select **Drill Up**.  
 
     ![Drill Up button)](media/drill-up-2.PNG "Drill Up button")
    
-    To return to the step view, select the **Drill Mode** button, and then select the task you want to drill in to.
+    To return to the step view, select **Drill Mode**, and then select the task you want to drill in to.
   
     ![Drill Mode button)](media/step-to-task-drill-down.PNG "Drill Mode button")
  
      Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the 
-   step level, whereas the **Drill Mode** only drills into the data item you selected. 
+   step level, whereas **Drill Mode** only drills into the data item you selected. 
    
     ![Next level hierarchy)](media/expand-to-next-level.PNG "Next level hierarchy")
   
-6.	Select a recent run 
+6.	Select a recent run: 
 
     To view data for a single recent run, select it from the run table. By default, this table is sorted by the **Run Start** time 
    with the most recent run on the top. You can also select the column headers to sort by **Run Time**. If you select 
-   a single row in this table, all visuals and statistics will be filtered to just that single run. 
+   a single row in this table, all visuals and statistics are filtered to just that single run. 
    
-7.	Filter by Date or Step Time (minutes) 
+7.	Filter by Date or Step Time (minutes): 
 
     There are situations in which you might want to filter the report to show just runs generated in a particular date range or runs 
    that are within some step time range. For example: 
@@ -216,7 +218,7 @@ Use the Process Time-Tracking report to drill into usage and step-level run time
    or removed a step) and you want to show data for a given version of the guide that can be identified based on the date the guide 
    was created or edited. 
 
-     - **Filter outliers.** Unusually long step times can stretch the y-axis of the time per step line chart, which can make the 
+     - **Filter outliers.** Unusually long step times can stretch the y-axis of the time-per-step line chart, which can make the 
    majority of data difficult to see. Use this slider to set the range of step times you want to visualize across the report so you 
    can ignore the outliers.  
 
@@ -226,11 +228,11 @@ You can share your Guides Analytics Power BI reports within your organization by
 
 Power BI provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/en-us/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a Power BI app. This involves the following well-documented steps: 
 
-1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-workspaces) 
+1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-workspaces). 
 
-2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-upload-desktop-files) 
+2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-upload-desktop-files). 
 
-3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-distribute-apps)  
+3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-distribute-apps).  
  
 ### See also
 
