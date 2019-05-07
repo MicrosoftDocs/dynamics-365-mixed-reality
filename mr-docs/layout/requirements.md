@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Device options and technical requirements for Dynamics 365 Layout
 ms.author: ornella
-ms.date: 4/18/2019
+ms.date: 5/07/2019
 ms.service: crm-online
 ms.topic: article
 title: Device options and technical requirements for Dynamics 365 Layout
@@ -13,14 +13,14 @@ ms.reviewer: v-brycho
 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] works with a [!include[pn-hololens](../includes/pn-hololens.md)], or with a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset with motion controllers.
 
-## HoloLens requirements
+## Microsoft HoloLens requirements
 
 | **OS requirements**          | **Details**                                                                                                                           |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
 | Build 10.0.17134.77 or later | See [Update HoloLens](https://support.microsoft.com/help/12643/hololens-update-hololens) for instructions on upgrading to this build. |
 
 > [!NOTE]
-> You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)] but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
+> You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)], but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
 
 
 ## Windows Mixed Reality headset requirements
@@ -41,8 +41,8 @@ Technical requirements
 | [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] | The [!include[pn-import-tool](../includes/pn-import-tool.md)] runs on [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PCs, and is required to transfer existing 3D models from your PC to [!include[pn-layout](../includes/pn-layout.md)], so they can be viewed and edited from the [!include[pn-hololens](../includes/pn-hololens.md)] or immersive headsets. The [!include[pn-import-tool](../includes/pn-import-tool.md)] is also required to transfer [!include[pn-visio](../includes/pn-visio.md)] space dimensions to the [!include[pn-hololens](../includes/pn-hololens.md)] or immersive headsets. | [Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool)    |
 
 ### See also
-[Try Layout for free](try-layout-free.md)<br/>
-[Buy and deploy Layout](buy-and-deploy-layout.md)<br>
+[Try Dynamics 365 Layout for free](try-layout-free.md)<br/>
+[Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br>
 [User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
 [FAQ](faq.md)<br/>
