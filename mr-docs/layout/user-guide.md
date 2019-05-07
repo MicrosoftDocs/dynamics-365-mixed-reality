@@ -9,7 +9,7 @@ title: Dynamics 365 Layout User Guide
 ms.reviewer: v-brycho
 ---
 
-# Dynamics 365 Layout User Guide
+# Dynamics 365 Layout user guide
 
 Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] to create and design space plans on Microsoft [!include[pn-hololens](../includes/pn-hololens.md)]
 or on a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset. Import 3D models and design,
