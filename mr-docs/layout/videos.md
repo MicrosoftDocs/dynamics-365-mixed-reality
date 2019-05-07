@@ -18,6 +18,8 @@ Looking for more help? Check out our [User guide](user-guide.md).
 > [!TIP]
 > To turn on closed captions for videos, select the **More options** (...) button, select **Closed captions**, and then select **English**.<br></br>![Closed captions](media/closed-captions.PNG "Closed captions")<br>Dynamics 365 Layout is not available in languages other than English at this time.
 
+<!--note from editor: Is there a way to not have the play-button arrow block part of the video title?   -->
+
 ## Dynamics 365 Layout for HoloLens
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2EWQP" frameborder="0" allowfullscreen=""></iframe></div>
