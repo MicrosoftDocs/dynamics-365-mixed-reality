@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Layout User Guide
 
-Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] to create and design space plans on [!include[pn-hololens](../includes/pn-hololens.md)]
+Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] to create and design space plans on Microsoft [!include[pn-hololens](../includes/pn-hololens.md)]
 or on a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality immersive headset. Import 3D models and design,
 edit, and collaborate virtually, on a real-world scale.
 
@@ -27,7 +27,7 @@ Need more help? [Check out the Dynamics 365 Layout FAQ](faq.md) for answers to c
     > [!TIP]
     > You can try Dynamics 365 Layout for free for up to 90 days. [Learn more about the free 90-day Dynamics 365 Layout trial](try-layout-free.md).
 
--   A [Microsoft HoloLens](https://www.microsoft.com/hololens) device running the [Windows 10 April 2018 Update](https://support.microsoft.com/en-us/help/12643) and/or
+-   A [HoloLens](https://www.microsoft.com/hololens) device running the [Windows 10 April 2018 Update](https://support.microsoft.com/en-us/help/12643) and/or
     a [Windows Mixed Reality immersive
     headset](https://www.microsoft.com/en-us/windows/windows-mixed-reality). 
 
@@ -60,13 +60,16 @@ public store.
 
 ### Teaching moments
 
-Teaching moments provide a series of images that make it easy to understand common tasks. To access teaching moments, air tap **Help**, and then air tap the area you need help with:
+Teaching moments provide a series of images that make it easy to understand common tasks. To access teaching moments, air tap **Help**, and then air tap the area you need help with.
 
 ![Teaching moments](media/teaching-moments.PNG "Teaching moments")
 
 ### Demo layouts
 
 Demo layouts use prebuilt layouts to demonstrate how to build different parts of a manufacturing plant. There are three demos to choose from:
+- Copy/paste and collision
+- Group and measure
+- Fit and resize
 
 ![Demo layouts](media/demo-layouts.PNG "Demo layouts")
 
@@ -92,7 +95,7 @@ There are two ways to create a layout:
 
 -   Use [!include[pn-layout](../includes/pn-layout.md)] on your [!include[pn-hololens](../includes/pn-hololens.md)] to scan a space.
 
-#### Create a layout with Microsoft Visio<br>
+#### Create a layout with Microsoft Visio
 
 **Step 1: Download and install the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]**
 
@@ -175,7 +178,7 @@ rotate 3D models.
 | Copy         | Gaze and air tap to select the model, and then select **Copy**. Move the model where you want it, and then air tap to place it. Select **Done**.                                                                         |
 | Resize       | Gaze and air tap to select a model, and then select **Resize**. Tap and hold any edge of the model, and then move your hand in or out.                                                                                   |
 | Rotate       | Gaze and air tap to select the model. Select one of the rotation arrows to rotate 90 degrees. For more precise rotation, tap and hold the round rotation control, and then move your hand to rotate.                     |
-| Multi-select | Gaze at an empty spot. Tap and hold, and then move your hand diagonally to form a rectangle around all the models you want to select. Gaze at any of the models you’ve selected to see what you can do with all of them. |
+| Multiselect | Gaze at an empty spot. Tap and hold, and then move your hand diagonally to form a rectangle around all the models you want to select. Gaze at any of the models you’ve selected to see what you can do with all of them. |
 
 ### **On an immersive headset**
 
@@ -186,7 +189,7 @@ rotate 3D models.
 | Copy         | Select the model, and then select **Copy**. Point your controller to where you want to place the copy, and then pull the trigger again to place it. To place multiple copies, just point and select again—no need to go back to the original. Select **Done** on the last copy.      |
 | Resize       | Select the model, and then select **Resize**. Point at one edge of the object, and then pull and hold the trigger. Drag the edge, and then release the trigger.                                                                                                                      |
 | Rotate       | Point and pull the trigger to select the model. Then point at one of the rotation arrows and pull the trigger to rotate the model 90 degrees. For more precise rotation, use the round rotation control: point, pull, and hold the trigger, and then move your controller to rotate. |
-| Multi-select | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them. |
+| Multiselect | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them. |
 
 ## Improve performance when your models don't require texture or multiple colors
 
