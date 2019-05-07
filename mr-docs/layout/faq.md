@@ -27,10 +27,10 @@ To see the version number for Dynamics 365 Layout, go to **Settings** > **About*
 
 To see the version number for Dynamics 365 Import Tool (Preview), go to **Settings**, and then look in the **About** section.
 
-## Do I need the Dynamics 365 Layout apps for both HoloLens and Windows Mixed Reality immersive headsets?
+## Do I need the Dynamics 365 Layout apps for both Microsoft HoloLens and Windows Mixed Reality immersive headsets?
 
 No, you can use each app separately, though they do work together as well. If
-you want to copy 3D models or layouts from your PC to your [!include[pn-hololens](../includes/pn-hololens.md)] or to
+you want to copy 3D models or layouts from your PC to [!include[pn-hololens](../includes/pn-hololens.md)] or to
 Windows Mixed Reality, you’ll need the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 ## What are the technical requirements for running the Dynamics 365 Layout apps?
