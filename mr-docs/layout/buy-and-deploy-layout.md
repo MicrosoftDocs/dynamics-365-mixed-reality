@@ -97,7 +97,7 @@ in any of the following ways:
 -   From an email link that you send
 -   Through mobile device management (MDM)
 
-### Install Dynamics 365 Layout from the Microsoft Store for Consumers
+### Install Dynamics 365 Layout from Microsoft Store for Consumers
 
 For information on installing the Dynamics 365 Layout app from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
 see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
