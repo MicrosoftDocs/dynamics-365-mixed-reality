@@ -90,7 +90,7 @@ the following:
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business
 
-If you use the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business, you can have users install the app
+If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business, you can have users install the app
 in any of the following ways:
 
 -   From your organization’s private store
@@ -99,16 +99,16 @@ in any of the following ways:
 
 ### Install Dynamics 365 Layout from the Microsoft Store for Consumers
 
-For information on installing the Layout app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
+For information on installing the Dynamics 365 Layout app from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
 see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
 > <ul><li>When users launch the Dynamics 365 Layout app, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 Admin Center.</li>
 > <li>The Dynamics 365 Layout app requires users to be online once every 30 days to validate their subscription.</li></ul>
 
-### Distribute the app through the Microsoft Store for Business
+### Distribute the app through Microsoft Store for Business
 
-1.  Go to the [Store for Business](https://businessstore.microsoft.com/en-us/store).
+1.  Go to [Microsoft Store for Business](https://businessstore.microsoft.com/en-us/store).
 
 2.  [Acquire the app](https://docs.microsoft.com/en-us/microsoft-store/acquire-apps-microsoft-store-for-business).
 
