@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Buy and deploy Dynamics 365 Layout
 
-With [!include[pn-layout](../includes/pn-layout.md)] you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently and create new ways to connect with customers and partners.
+With [!include[pn-layout](../includes/pn-layout.md)] you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
 
 ## Subscribe to Dynamics 365 Layout
 
