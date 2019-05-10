@@ -2,7 +2,7 @@
 author: BryceHo
 description: Use the Dynamics 365 Import Tool to import 3D (CAD) models and to copy layouts between Microsoft HoloLens and immersive headsets
 ms.author: BryceHo
-ms.date: 05/07/2019
+ms.date: 05/14/2019
 ms.service: crm-online
 ms.topic: article
 title: Use the Dynamics 365 Import Tool to import 3D (CAD) models and to copy layouts between Microsoft HoloLens and immersive headsets
