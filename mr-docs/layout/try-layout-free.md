@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Try Dynamics 365 Layout for free for up to 90 days.
 ms.author: ornella
-ms.date: 05/07/2019
+ms.date: 05/14/2019
 ms.service: crm-online
 ms.topic: article
 title: Try Dynamics 365 Layout for free for up to 90 days.
