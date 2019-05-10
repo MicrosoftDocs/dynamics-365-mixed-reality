@@ -105,5 +105,5 @@ Still need help? Try our [user forums](https://community.dynamics.com/365/layout
 [Device options and technical requirements](requirements.md)<br/>
 [Use Dynamics 365 Layout on a trial basis for up to 90 days](try-layout-free.md)<br/>
 [Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br/>
-[User Guide](user-guide.md)<br/>
+[User guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
