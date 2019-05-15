@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Learn how to buy Dynamics 365 Layout, add users to the subscription, and deploy the app to users in several different ways
 ms.author: ornella
-ms.date: 04/18/2019
+ms.date: 05/15/2019
 ms.service: crm-online
 ms.topic: article
 title: Buy and deploy Dynamics 365 Layout
@@ -11,26 +11,26 @@ ms.reviewer: v-brycho
 
 # Buy and deploy Dynamics 365 Layout
 
-With [!include[pn-layout](../includes/pn-layout.md)] you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and to create new ways to connect with customers and partners.
+With [!include[pn-layout](../includes/pn-layout.md)] you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
 
-## Subscribe to Layout
+## Subscribe to Dynamics 365 Layout
 
 > [!TIP]
-> Did you know you can try Layout for free for up to 90 days? [Learn more about the free 90-day trial](try-layout-free.md).
+> Did you know you can try Dynamics 365 Layout for free for up to 90 days? [Learn more about the free 90-day trial](try-layout-free.md).
 
 You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] in any of the following ways:
 
 -   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
-    - Calling us at 1-888-477-7989, or
-    - Requesting to be contacted at  http://aka.ms/getLayout.
+    - Calling us at 1-888-477-7989.
+    - Requesting to be contacted at http://aka.ms/getLayout.
     
--   Through the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/catalog). Step-by-step instructions for logging in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided below.
+-   Through the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/catalog). Step-by-step instructions for signing in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided in the next section.
 
--   [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx)
+-   Through [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx).
 
--   [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner)
+-   Through [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner).
 
-When you subscribe to Layout, you also get the Dynamics 365 Import Tool (Preview) as part of the Layout subscription.
+When you subscribe to Dynamics 365 Layout, you also get the Dynamics 365 Import Tool (Preview) as part of the subscription.
 
 ## Subscribe through the Microsoft 365 Admin Center
 
@@ -38,7 +38,7 @@ When you subscribe to Layout, you also get the Dynamics 365 Import Tool (Preview
 
    ![Admin center](../media/AdminCenter.png "Admin Center")
 
-2. Log in under your company's admin account.
+2. Sign in under your company's admin account.
 
 3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
 
@@ -82,33 +82,33 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
 
    ![Select product licenses](../media/SelectLicenses.PNG "Select product licenses")
 
-## Make the Layout app available to your users
+## Make the Dynamics 365 Layout app available to your users
 
-After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make the Layout app available through one of
+After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make the Dynamics 365 Layout app available through one of
 the following:
 
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business
 
-If you use the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business, you can have users install the app
+If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business, you can have users install the app
 in any of the following ways:
 
 -   From your organization’s private store
 -   From an email link that you send
 -   Through mobile device management (MDM)
 
-### Install Layout from the Microsoft Store for Consumers
+### Install Dynamics 365 Layout from Microsoft Store for Consumers
 
-For information on installing the Layout app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
+For information on installing the Dynamics 365 Layout app from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
 see the [Dynamics 365 Layout User Guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
-> <ul><li>When users launch the Layout app, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 Admin Center.</li>
-> <li>The Layout app requires users to be online once every 30 days to validate their subscription.</li></ul>
+> <ul><li>When users launch the Dynamics 365 Layout app, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 Admin Center.</li>
+> <li>The Dynamics 365 Layout app requires users to be online once every 30 days to validate their subscription.</li></ul>
 
-### Distribute the app through the Microsoft Store for Business
+### Distribute the app through Microsoft Store for Business
 
-1.  Go to the [Store for Business](https://businessstore.microsoft.com/en-us/store).
+1.  Go to [Microsoft Store for Business](https://businessstore.microsoft.com/en-us/store).
 
 2.  [Acquire the app](https://docs.microsoft.com/en-us/microsoft-store/acquire-apps-microsoft-store-for-business).
 
