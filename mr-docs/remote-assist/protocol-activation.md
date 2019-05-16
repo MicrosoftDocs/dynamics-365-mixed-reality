@@ -29,7 +29,7 @@ The URI would look something like this:
 ms-voip-video:?contactids=\<contactID\>
 `
 
-The contact ID is the user’s [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) object ID.
+The contact ID is the user’s [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) objectID.
 
 ## Code sample
 
