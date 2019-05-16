@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 05/15/2019
+ms.date: 04/26/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
@@ -23,14 +23,14 @@ If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-la
 
 ## How can I tell which version I'm using?
 
-To see the version number for Dynamics 365 Layout, go to **Settings** > **About**.
+To see the version number for Layout, go to **Settings** > **About**.
 
 To see the version number for Dynamics 365 Import Tool (Preview), go to **Settings**, and then look in the **About** section.
 
-## Do I need the Dynamics 365 Layout apps for both Microsoft HoloLens and Windows Mixed Reality immersive headsets?
+## Do I need the Dynamics 365 Layout apps for both HoloLens and Windows Mixed Reality immersive headsets?
 
 No, you can use each app separately, though they do work together as well. If
-you want to copy 3D models or layouts from your PC to [!include[pn-hololens](../includes/pn-hololens.md)] or to
+you want to copy 3D models or layouts from your PC to your [!include[pn-hololens](../includes/pn-hololens.md)] or to
 Windows Mixed Reality, you’ll need the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 ## What are the technical requirements for running the Dynamics 365 Layout apps?
@@ -78,7 +78,7 @@ Yes, you can choose between U.S. and metric units from **Settings** \>
 ## What languages is Dynamics 365 Layout available in?
 
 At this time, [!include[pn-layout](../includes/pn-layout.md)], the [!include[pn-import-tool](../includes/pn-import-tool.md)], and the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-layout](../includes/pn-layout.md)] are
-available only in English. Additionally, to install the add-in, you’ll need to
+available only in English. Additionally, to install the Add-in, you’ll need to
 [set the display language for Microsoft Office to
 English](https://support.office.com/article/add-an-editing-language-or-set-language-preferences-in-office-663d9d94-ca99-4a0d-973e-7c4a6b8a827d).
 
@@ -92,18 +92,18 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 ## How do I import AutoCAD models?
 
-You can prepare your 3D models yourself using third-party conversion and optimization tools, or you can use the Import Tool to send your models to Microsoft to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the Import Tool to import them into Dynamics 365 Layout. [Learn more about the Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
+You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the Import Tool to send your models to Microsoft to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the Import Tool to import them into Layout. [Learn more about the Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
 
 ## How does the Import Tool process my 3D models?
 
-If you send your model to Microsoft for conversion and optimization, it’s uploaded to a secure location. Microsoft prepares the model using a combination of automated and manual steps. Microsoft provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
+If you send your model to Microsoft for converstion and optimization, it’s uploaded to a secure location. Microsoft prepares the model using a combination of automated and manual steps. Microsoft provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
 ### See also
 [Overview of Dynamics 365 Layout](index.md)<br/>
 [Device options and technical requirements](requirements.md)<br/>
-[Use Dynamics 365 Layout on a trial basis for up to 90 days](try-layout-free.md)<br/>
+[Use Layout on a trial basis for up to 90 days](try-layout-free.md)<br/>
 [Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br/>
-[User guide](user-guide.md)<br/>
+[User Guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
