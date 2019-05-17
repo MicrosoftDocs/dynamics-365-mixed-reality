@@ -27,9 +27,9 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 ## What you’ll need
 
 
-The Remote Assist user (first-line worker) on HoloLens needs:
+The [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user (first-line worker) on [!include[pn-HoloLens](../includes/pn-HoloLens.md)] needs:
 
--   [A subscription to Remote Assist.](../licensing/buy-and-deploy.md) The Remote Assist subscription includes a subscription to Microsoft Teams.
+-   [A subscription to Remote Assist.](../licensing/buy-and-deploy.md) The [!include[pn-remote-assist](../includes/pn-remote-assist.md)] subscription includes a subscription to [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)].
 
 -   A [!include[pn-hololens](../includes/pn-hololens.md)] running the [Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643) (or later).
@@ -38,7 +38,7 @@ The Remote Assist user (first-line worker) on HoloLens needs:
 
 The expert needs:
 
--   A PC running Windows 10 with the latest version of [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) or a mobile device running Microsoft Teams Mobile. The expert uses Teams to communicate with the Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads).
+-   A PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 with the latest version of [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) or a mobile device running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile. The expert uses [!include[pn-teams](../includes/pn-teams.md)] to communicate with the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user on [!include[pn-HoloLens](../includes/pn-HoloLens.md)]. [!include[pn-teams](../includes/pn-teams.md)] may be available [as a free download](https://teams.microsoft.com/downloads).
 
 -   A free [!include[cc-microsoft](../includes/cc-microsoft.md)] account. The expert might already have a [!include[cc-microsoft](../includes/cc-microsoft.md)] account
     if they signed up for the [!include[cc-microsoft](../includes/cc-microsoft.md)] App Store, Skype, Xbox, Hotmail, or
@@ -201,6 +201,6 @@ To share your desktop or a running application:
 > You can only share one application or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
 
 ### See also
-[User Guide](user-guide.md)<br/>
+[User guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)<br/>
 [FAQ](faq.md)<br/>
