@@ -22,6 +22,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
 
 -   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
     - Calling us at 1-888-477-7989, or
+    
     - Requesting to be contacted at http://aka.ms/getRemoteassist.
     
 -   Through the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/catalog). Step-by-step instructions for logging in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided below.
@@ -53,7 +54,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
 7. To subscribe, select **Buy now**.
 
    > [!NOTE]
-   > If you're not ready to buy yet, you can sign up for a free 30-day trial on your organization's tenant by selecting **Start free trial**. The 30-day free trial includes access to Microsoft Teams for HoloLens users. 
+   > If you're not ready to buy yet, you can sign up for a free 30-day trial on your organization's tenant by selecting **Start free trial**. The 30-day free trial includes access to [!include[cc-microsoft](../includes/cc-microsoft.md)] Teams for [!include[pn-HoloLens](../includes/pn-HoloLens.md)] users. 
    
 8. Assign licenses to users as described in the next procedure.
 
@@ -96,10 +97,10 @@ in any of the following ways:
 
 ### Install Remote Assist from the Microsoft Store for Consumers
 
-For information on installing the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers, see the [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md). 
+For information on installing the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers, see the [Dynamics 365 Remote Assist user guide](../remote-assist/user-guide.md). 
 
 > [!NOTE]
-> When users launch the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 Admin Center.
+> When users launch the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app, they’ll need to use the same ([!include[pn-azure](../includes/pn-azure.md)] AD account that the admin assigned in the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)].
 
 
 ### Distribute the app through the Microsoft Store for Business
@@ -117,5 +118,5 @@ For information on installing the [!include[pn-remote-assist](../includes/pn-rem
 ### See also
 [Try Dynamics 365 Remote Assist for free for up to 90 days](try-remote-assist-free.md)<br/>
 [Overview of Dynamics 365 Remote Assist](../remote-assist/index.md)<br/>
-[Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md)<br/>
+[Dynamics 365 Remote Assist user guide](../remote-assist/user-guide.md)<br/>
 
