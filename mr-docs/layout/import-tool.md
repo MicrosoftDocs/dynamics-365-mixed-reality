@@ -20,6 +20,6 @@ The [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] is
 
 - [Dynamics 365 Layout free trial](try-layout-free.md)
 
-- [Dynamics 365 Import Tool free trial](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/try-import-tool-free)
+- [Dynamics 365 Import Tool (Preview) free trial](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/try-import-tool-free)
 
 
