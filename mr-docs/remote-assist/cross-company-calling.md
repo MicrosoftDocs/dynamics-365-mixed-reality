@@ -29,4 +29,4 @@ see [Manage external access (federation) in Microsoft Teams](https://docs.micros
  
 ### See also
 
-[Dynamics 365 Remote Assist User guide](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/user-guide#make-and-receive-calls)
+[Dynamics 365 Remote Assist user guide](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/user-guide#make-and-receive-calls)
