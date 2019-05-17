@@ -23,15 +23,15 @@ If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-la
 
 ## How can I tell which version I'm using?
 
-To see the version number for Layout, go to **Settings** > **About**.
+To see the version number for [!include[pn-layout](../includes/pn-layout.md)], go to **Settings** > **About**.
 
-To see the version number for Dynamics 365 Import Tool (Preview), go to **Settings**, and then look in the **About** section.
+To see the version number for [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], go to **Settings**, and then look in the **About** section.
 
 ## Do I need the Dynamics 365 Layout apps for both HoloLens and Windows Mixed Reality immersive headsets?
 
 No, you can use each app separately, though they do work together as well. If
 you want to copy 3D models or layouts from your PC to your [!include[pn-hololens](../includes/pn-hololens.md)] or to
-Windows Mixed Reality, you’ll need the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+[!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality, you’ll need the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 ## What are the technical requirements for running the Dynamics 365 Layout apps?
 
@@ -84,7 +84,7 @@ English](https://support.office.com/article/add-an-editing-language-or-set-langu
 
 ## Where is Dynamics 365 Layout available?
 
-[!include[pn-layout](../includes/pn-layout.md)] is available worldwide. [!include[pn-layout](../includes/pn-layout.md)] can be used with [!include[pn-hololens](../includes/pn-hololens.md)] or a Mixed Reality headset/motion controller and a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Ultra PC.
+[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] is available worldwide. [!include[pn-layout](../includes/pn-layout.md)] can be used with [!include[pn-hololens](../includes/pn-hololens.md)] or a Mixed Reality headset/motion controller and a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Ultra PC.
 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
 
@@ -92,11 +92,11 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 ## How do I import AutoCAD models?
 
-You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the Import Tool to send your models to Microsoft to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the Import Tool to import them into Layout. [Learn more about the Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
+You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your models to [!include[cc-microsoft](../includes/cc-microsoft.md)] to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to import them into [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]. [Learn more about the Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
 
 ## How does the Import Tool process my 3D models?
 
-If you send your model to Microsoft for converstion and optimization, it’s uploaded to a secure location. Microsoft prepares the model using a combination of automated and manual steps. Microsoft provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
+If you send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for conversion and optimization, it’s uploaded to a secure location. [!include[cc-microsoft](../includes/cc-microsoft.md)] prepares the model using a combination of automated and manual steps. [!include[cc-microsoft](../includes/cc-microsoft.md)] provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
@@ -105,5 +105,5 @@ Still need help? Try our [user forums](https://community.dynamics.com/365/layout
 [Device options and technical requirements](requirements.md)<br/>
 [Use Layout on a trial basis for up to 90 days](try-layout-free.md)<br/>
 [Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br/>
-[User Guide](user-guide.md)<br/>
+[User guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
