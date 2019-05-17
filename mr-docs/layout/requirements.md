@@ -41,8 +41,8 @@ Technical requirements
 | [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] | The [!include[pn-import-tool](../includes/pn-import-tool.md)] runs on [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PCs, and is required to transfer existing 3D models from your PC to [!include[pn-layout](../includes/pn-layout.md)], so they can be viewed and edited from the [!include[pn-hololens](../includes/pn-hololens.md)] or immersive headsets. The [!include[pn-import-tool](../includes/pn-import-tool.md)] is also required to transfer [!include[pn-visio](../includes/pn-visio.md)] space dimensions to the [!include[pn-hololens](../includes/pn-hololens.md)] or immersive headsets. | [Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool)    |
 
 ### See also
-[Try Layout for free](try-layout-free.md)<br/>
-[Buy and deploy Layout](buy-and-deploy-layout.md)<br>
-[User Guide](user-guide.md)<br/>
+[Try Dynamics 365 Layout for free](try-layout-free.md)<br/>
+[Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br>
+[User guide](user-guide.md)<br/>
 [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
 [FAQ](faq.md)<br/>
