@@ -26,7 +26,7 @@ see [Try Remote Assist for free](try-remote-assist-free.md). Note that the 90-da
 
 ## Can I still use the preview app?
 
-The preview period has ended. Existing preview app customers have until March
+The preview period has ended. Existing preview app customers had until March
 2019 to upgrade to a paid subscription. 
 
 ## What are the technical requirements for installing Remote Assist?
@@ -40,12 +40,12 @@ To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll n
 
 -   To make a video call, you'll need a contact using the latest version of [Microsoft
     Teams](https://products.office.com/microsoft-teams/group-chat-software) on a
-    PC running Windows 10 or a mobile device running Microsoft Teams Mobile. Microsoft [!include[pn-teams](../includes/pn-teams.md)] is [available as
+    PC running Windows 10 or a mobile device running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile. [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] is [available as
     a free download](https://teams.microsoft.com/downloads).
 
 ## Do I need a subscription to Microsoft Teams or Office 365?
 
-As of January 7, 2019, a Teams subscription is included in the Remote Assist subscription for individuals using a Remote Assist license on HoloLens. A Microsoft Teams license is also required for individuals (experts) who communicate with a Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads) for these users. 
+A Teams subscription is included in the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] subscription for individuals using a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] license on [!include[pn-hololens](../includes/pn-hololens.md)]. A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] license is also required for individuals (experts) who communicate with a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user on [!include[pn-hololens](../includes/pn-hololens.md)]. [!include[pn-teams](../includes/pn-teams.md)] may be available [as a free download](https://teams.microsoft.com/downloads) for these users. 
 
 ## How often is Remote Assist updated?
 
@@ -140,7 +140,7 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 ## Is group calling available in Remote Assist?
 
-Yes, group calling is available starting in the April release of Remote Assist. Up to 50 people can be on the same video call.
+Yes, group calling is available starting in the April release of [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. Up to 50 people can be on the same video call.
 
 ## What file formats does the Insert file feature support?
 
