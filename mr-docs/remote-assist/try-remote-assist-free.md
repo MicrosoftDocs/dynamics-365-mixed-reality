@@ -30,4 +30,4 @@ After you're signed in, you can access any and all features and capabilities in 
 [Terms and conditions for free trial](../legal/remote-assist-license-terms-free-trial.md)<br>
 [Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md)<br>
 [Overview of Remote Assist](index.md)<br>
-[Remote Assist User Guide](user-guide.md)
+[Remote Assist user guide](user-guide.md)
