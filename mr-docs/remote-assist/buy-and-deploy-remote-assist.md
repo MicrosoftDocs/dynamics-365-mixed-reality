@@ -11,15 +11,12 @@ ms.reviewer: v-brycho
 
 # Buy and deploy Dynamics 365 Remote Assist
 
-With Remote Assist you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
-
-> [!NOTE]
-> If you're using the preview version of Remote Assist, you have until March 2019 to upgrade to the paid version. 
+With [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
 
 ## Subscribe to Remote Assist
 
 > [!TIP]
-> Did you know you can try Remote Assist for free for up to 90 days? [Learn more about the free 90-day trial](try-remote-assist-free.md).
+> Did you know you can try [!include[pn-remote-assist](../includes/pn-remote-assist.md)] for free for up to 90 days? [Learn more about the free 90-day trial](try-remote-assist-free.md).
 
 You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] in any of the following ways:
 
@@ -49,7 +46,7 @@ You can subscribe to [!include[pn-remote-assist](../includes/pn-remote-assist.md
 
    ![Other plans](../media/OtherPlans.PNG "Select Other plans")
    
-6. Find the product card for Remote Assist.
+6. Find the product card for [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
    ![Remote Assist product card](media/remote-assist-card.PNG "Remote Assist product card")
            
@@ -85,8 +82,7 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
 
 ## Make the Remote Assist app available to your users
 
-After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make the Remote Assist app available through one of
-the following:
+After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app available through one of the following:
 
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business
@@ -100,11 +96,10 @@ in any of the following ways:
 
 ### Install Remote Assist from the Microsoft Store for Consumers
 
-For information on installing the Remote Assist app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
-see the [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md). 
+For information on installing the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers, see the [Dynamics 365 Remote Assist User Guide](../remote-assist/user-guide.md). 
 
 > [!NOTE]
-> When users launch the Remote Assist app, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 Admin Center.
+> When users launch the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 Admin Center.
 
 
 ### Distribute the app through the Microsoft Store for Business
