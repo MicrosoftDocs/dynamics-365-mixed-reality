@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 [This topic is pre-release documentation and is subject to change.]
 
 The [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] mobile app extends the capabilities of [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] to work with [!include[tn-android](../includes/tn-android.md)] 
-ARCore-capable phones (in addition to [!include[cc-microsoft](../includes/cc-microsoft.md) [!include[pn-HoloLens](../includes/pn-HoloLens.md)). Technicians can use their phones to connect and collaborate with an 
+ARCore-capable phones (in addition to [!include[cc-microsoft](../includes/cc-microsoft.md)  [!include[pn-HoloLens](../includes/pn-HoloLens.md)). Technicians can use their phones to connect and collaborate with an 
 expert on [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]. Using live video calling and mixed reality annotations, they can share what they see with the expert 
 to troubleshoot problems together, faster. 
 
