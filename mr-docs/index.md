@@ -86,7 +86,7 @@ ms.custom:
                                                 <p><a href="/dynamics365/mixed-reality/layout/buy-and-deploy">Buy and deploy</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/user-guide">User Guide</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/import-tool">Use Import Tool</a></p>
-                                                <p><a href="https://go.microsoft.com/fwlink/?linkid=2021489">Videos</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/layout/videos">Videos</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/layout/faq">FAQ</a></p>
                                             </div>
                                         </div>
@@ -134,7 +134,7 @@ ms.custom:
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/mobile-app">Mobile app User Guide</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist">Use with Teams</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/protocol-activation">Launch from another app</a></p>
-                                                <p><a href="https://go.microsoft.com/fwlink/?linkid=2021485">Videos</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/videos">Videos</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/faq">FAQ</a></p>
                                             </div>
                                         </div>
