@@ -36,7 +36,7 @@ devices.](https://developers.google.com/ar/discover/supported-devices)
 - An internet connection. At least 1.5 MB of bandwidth is recommended for the best experience.
 
 If you want to use [!include[pn-remote-assist](../includes/pn-remote-assist.md) together with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] so you can automatically log call information to a 
-[!include[field-service](../includes/field-service.md) work order, you’ll also need one or both of the following:
+[!include[pn-field-service](../includes/pn-field-service.md) work order, you’ll also need one or both of the following:
 
 - [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md) web application
 
@@ -141,7 +141,7 @@ You can switch the orientation of the camera view from portrait to landscape whi
 ## Use Remote Assist together with Dynamics 365 for Field Service
 
 You can use [!include[pn-remote-assist](../includes/pn-remote-assist.md) together with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md) if you want to automatically log call information to a 
-[!include[field-service](../includes/field-service.md) work order when you end the call. 
+[!include[pn-field-service](../includes/pn-field-service.md) work order when you end the call. 
 
 When you sign in to the [!include[pn-remote-assist](../includes/pn-remote-assist.md) mobile app for the first time, you’re prompted to link [!include[pn-remote-assist](../includes/pn-remote-assist.md) to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md). You can link the apps through Settings if you chose not to link them at first sign-in.
 
