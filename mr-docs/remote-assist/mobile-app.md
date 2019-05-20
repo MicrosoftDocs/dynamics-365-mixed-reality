@@ -27,7 +27,7 @@ devices.](https://developers.google.com/ar/discover/supported-devices)
 
 - A [!include[tn-google](../includes/tn-google.md)] Play account.
 
-- The [!include[pn-remote-assist](../includes/pn-remote-assist.md) mobile app.
+- The [!include[pn-remote-assist](../includes/pn-remote-assist.md)  mobile app.
 
 - A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] account (available for free).
 
