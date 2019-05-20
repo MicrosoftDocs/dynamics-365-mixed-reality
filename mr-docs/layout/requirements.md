@@ -44,5 +44,5 @@ Technical requirements
 [Try Dynamics 365 Layout for free](try-layout-free.md)<br/>
 [Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br>
 [User Guide](user-guide.md)<br/>
-[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
+[How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>
