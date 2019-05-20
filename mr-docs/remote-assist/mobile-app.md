@@ -35,18 +35,18 @@ devices.](https://developers.google.com/ar/discover/supported-devices)
 
 - An internet connection. At least 1.5 MB of bandwidth is recommended for the best experience.
 
-If you want to use [!include[pn-remote-assist](../includes/pn-remote-assist.md) together with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] so you can automatically log call information to a 
-[!include[pn-field-service](../includes/pn-field-service.md) work order, you’ll also need one or both of the following:
+If you want to use [!include[pn-remote-assist](../includes/pn-remote-assist.md)  together with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] so you can automatically log call information to a 
+[!include[pn-field-service](../includes/pn-field-service.md)  work order, you’ll also need one or both of the following:
 
-- [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md) web application
+- [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)  web application
 
-- [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md) mobile app 
+- [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)  mobile app 
 
 ## Get started
 
 ### Step 1: Sign up for a Microsoft Teams account (free)
 
-A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] account is required to use [!include[pn-remote-assist](../includes/pn-remote-assist.md) mobile. If you don’t already have a [!include[pn-teams](../includes/pn-teams.md)] account, you can [create a 
+A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] account is required to use [!include[pn-remote-assist](../includes/pn-remote-assist.md)  mobile. If you don’t already have a [!include[pn-teams](../includes/pn-teams.md)] account, you can [create a 
 Teams account for free](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### Step 2: Download the app
@@ -59,20 +59,20 @@ Teams account for free](https://businessstore.microsoft.com/en-us/create-account
 
 1.	After you’ve downloaded the app, open it on your [!include[tn-android](../includes/tn-android.md)] phone. 
 
-2.	Sign in with your [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md) account.
+2.	Sign in with your [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)  account.
 
     ![Sign-in screen](media/sign-in.png "Sign-in screen")
   
     > [!TIP]
     > The sign-in address will be in the form: username@company.
     
-3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-remote-assist](../includes/pn-remote-assist.md) to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md), or 
+3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-remote-assist](../includes/pn-remote-assist.md)  to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md), or 
 select **Skip** if you don’t want to link the apps at this time. You can always link them later through **Settings**. To learn more about how the apps work together, select **Learn More**.
 
     ![Field Service screen](media/field-service.PNG "Field Service screen")
   
 ## Make a call
-After signing in, you’ll see the **Contacts** page, which is the main page in the [!include[pn-remote-assist](../includes/pn-remote-assist.md) mobile app. On the **Contacts** page, 
+After signing in, you’ll see the **Contacts** page, which is the main page in the [!include[pn-remote-assist](../includes/pn-remote-assist.md)  mobile app. On the **Contacts** page, 
 your contacts are organized by the most recent calls.
 
 ![Contacts screen](media/contacts.PNG "Contacts screen")
@@ -140,10 +140,10 @@ You can switch the orientation of the camera view from portrait to landscape whi
    
 ## Use Remote Assist together with Dynamics 365 for Field Service
 
-You can use [!include[pn-remote-assist](../includes/pn-remote-assist.md) together with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md) if you want to automatically log call information to a 
-[!include[pn-field-service](../includes/pn-field-service.md) work order when you end the call. 
+You can use [!include[pn-remote-assist](../includes/pn-remote-assist.md)  together with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)  if you want to automatically log call information to a 
+[!include[pn-field-service](../includes/pn-field-service.md)  work order when you end the call. 
 
-When you sign in to the [!include[pn-remote-assist](../includes/pn-remote-assist.md) mobile app for the first time, you’re prompted to link [!include[pn-remote-assist](../includes/pn-remote-assist.md) to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md). You can link the apps through Settings if you chose not to link them at first sign-in.
+When you sign in to the [!include[pn-remote-assist](../includes/pn-remote-assist.md)  mobile app for the first time, you’re prompted to link [!include[pn-remote-assist](../includes/pn-remote-assist.md)  to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md). You can link the apps through Settings if you chose not to link them at first sign-in.
 
 ### Link the Remote Assist mobile app to Dynamics 365 for Field Service
 
@@ -187,7 +187,7 @@ When you sign in to the [!include[pn-remote-assist](../includes/pn-remote-assist
 
 If you’d like to get direct access to the product team forum and provide feedback on the mobile app preview:
 
-1.	Sign up for the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md) Mobile Public Preview Insiders Program at https://experience.dynamics.com. 
+1.	Sign up for the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)  Mobile Public Preview Insiders Program at https://experience.dynamics.com. 
 
 
 2.	Select the **Insider Program** box, which will lead you to the Insider Program application.
