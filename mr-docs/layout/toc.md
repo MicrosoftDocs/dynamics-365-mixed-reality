@@ -5,7 +5,7 @@
 ## [Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)
 ## [User guide](user-guide.md)
 ## [Use the Import Tool with Dynamics 365 Layout](import-tool.md)
-## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)
+## [How-to videos](videos.md)
 ## [FAQ](faq.md)
 ## Terms of Use
 ### [Dynamics 365 Layout](../legal/layout-license-terms.md)

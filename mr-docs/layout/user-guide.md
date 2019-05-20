@@ -17,7 +17,7 @@ edit, and collaborate virtually, on a real-world scale.
 
 Need more help? [Check out the Dynamics 365 Layout FAQ](faq.md) for answers to common questions.
 
-[Watch how-to videos about Dynamics 365 Layout.](https://go.microsoft.com/fwlink/p/?linkid=2021489)
+[Watch how-to videos about Dynamics 365 Layout.](videos.md)
 
 ## What you’ll need
 
@@ -212,6 +212,6 @@ By default, holograms fade when you get within 45 centimeters of them. You can u
 Switch hologram fading back on at any time by switching the setting back to **On**.
 
 ### See also
-[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021489)<br/>
+[How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>
 [Try Dynamics 365 Layout for free for up to 90 days](try-layout-free.md)
