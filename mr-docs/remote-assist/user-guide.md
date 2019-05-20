@@ -95,7 +95,7 @@ You can make or receive a one-to-one call with a Teams user from another company
 
 To make a call to a contact outside your company:
 
-- Open the app, select **Search**, and then use the holographic keyboard to enter the full email address of the external user. You *must* enter the full email address. You won't see any search results if you enter just a name or a partial email address.
+- Open the app, select  **Search**, and then use the holographic keyboard to enter the full email address of the external user. You *must* enter the full email address. You won't see any search results if you enter just a name or a partial email address.
 
 > [!NOTE] 
 > If you're not able to find the contact you're looking for, it might be because external access has not been enabled in [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] for your company or the other company. Contact your administrator for help. 
