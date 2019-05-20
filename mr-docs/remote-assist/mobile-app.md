@@ -22,7 +22,7 @@ to troubleshoot problems together, faster.
 
 You’ll need the following to use the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] mobile app:
 
-- An [!include[tn-android](../includes/tn-android.md) ARCore-capable phone (tablets are not currently supported), with ARCore installed. [View the full list of supported 
+- An [!include[tn-android](../includes/tn-android.md)  ARCore-capable phone (tablets are not currently supported), with ARCore installed. [View the full list of supported 
 devices.](https://developers.google.com/ar/discover/supported-devices) 
 
 - A [!include[tn-google](../includes/tn-google.md)] Play account.
