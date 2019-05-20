@@ -31,7 +31,7 @@ devices.](https://developers.google.com/ar/discover/supported-devices)
 
 - A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] account (available for free).
 
-- A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] desktop client running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md) 10 (for the remote expert receiving the call).
+- A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] desktop client running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)  10 (for the remote expert receiving the call).
 
 - An internet connection. At least 1.5 MB of bandwidth is recommended for the best experience.
 
