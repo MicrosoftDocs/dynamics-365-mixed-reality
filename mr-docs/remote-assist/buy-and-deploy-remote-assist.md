@@ -100,7 +100,7 @@ in any of the following ways:
 For information on installing the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers, see the [Dynamics 365 Remote Assist user guide](../remote-assist/user-guide.md). 
 
 > [!NOTE]
-> When users launch the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app, they’ll need to use the same ([!include[pn-azure](../includes/pn-azure.md)] AD account that the admin assigned in the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)].
+> When users launch the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] app, they’ll need to use the same [!include[pn-azure](../includes/pn-azure.md)] AD account that the admin assigned in the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)].
 
 
 ### Distribute the app through the Microsoft Store for Business
