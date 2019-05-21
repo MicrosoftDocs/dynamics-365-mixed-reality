@@ -86,9 +86,7 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
 
 ## Make the Dynamics 365 Layout app available to your users
 
-After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make [!include[pn-layout](../includes/pn-layout.md)] available through one of
-
-the following:
+After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make [!include[pn-layout](../includes/pn-layout.md)] available through one of the following:
 
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers
 
@@ -110,8 +108,8 @@ For information on installing [!include[pn-layout](../includes/pn-layout.md)] fr
 see the [Dynamics 365 Layout user guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
-> <ul><li>When users launch [!include[pn-layout](../includes/pn-layout.md)], they’ll need to use the same [!include[pn-azure](../includes/pn-azure.md)] AD account that the admin assigned in the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)].</li>
-> <li>[!include[pn-layout](../includes/pn-layout.md)] requires users to be online once every 30 days to validate their subscription.</li></ul>
+> <ul><li>When users launch Dynamics 365 Layout, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 admin center.</li>
+> <li>Dynamics 365 Layout requires users to be online once every 30 days to validate their subscription.</li></ul>
 
 ### Distribute the app through Microsoft Store for Business
 
