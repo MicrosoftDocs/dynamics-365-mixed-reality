@@ -1,7 +1,7 @@
 ---
-author: MatthewJonPaul
+author: jevertt
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
-ms.author: mapau
+ms.author: jevertt
 ms.date: 4/01/2019
 ms.service: crm-online
 ms.topic: article
