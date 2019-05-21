@@ -55,6 +55,10 @@ A Teams subscription is included in the [!include[pn-remote-assist](../includes/
 
 Go to **Settings**, and then find the version number in the **About** section.
 
+## What languages is Remote Assist available in?
+
+At this time, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available in English and Japanese.
+
 ## Why am I not getting incoming call notifications?
 
 This can happen if you’re signed in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] with a different account
@@ -126,9 +130,7 @@ If you’re having trouble signing in to [!include[pn-remote-assist](../includes
 
 To learn how to set up [!include[pn-field-service](../includes/pn-field-service.md)] integration with [!include[pn-remote-assist](../includes/pn-remote-assist.md)] so that a first-line worker can call an expert in the context of a [!include[pn-field-service](../includes/pn-field-service.md)] work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).
 
-## What languages is Remote Assist available in?
 
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available in English only.
 
 ## Where is Remote Assist available?
 
