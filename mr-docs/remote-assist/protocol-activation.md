@@ -1,7 +1,7 @@
 ---
-author: MatthewJonPaul
+author: jevertt
 description: Launch Dynamics 365 Remote Assist from another app (protocol activation)
-ms.author: mapau
+ms.author: jevertt
 ms.date: 09/21/2018
 ms.service: crm-online
 ms.topic: article

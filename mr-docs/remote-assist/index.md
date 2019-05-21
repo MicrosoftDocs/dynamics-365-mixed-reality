@@ -1,7 +1,7 @@
 ---
-author: MatthewJonPaul
+author: jevertt
 description: Overview of Dynamics 365 Remote Assist
-ms.author: mapau
+ms.author: jevertt
 ms.date: 11/21/2018
 ms.service: crm-online
 ms.topic: article
