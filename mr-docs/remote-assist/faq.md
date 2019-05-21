@@ -24,11 +24,6 @@ the [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, see [B
 Yes, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available as a free 90-day trial. For more information,
 see [Try Remote Assist for free](try-remote-assist-free.md). Note that the 90-day free trial is only available for users who haven't already purchased a subscription. 
 
-## Can I still use the preview app?
-
-The preview period has ended. Existing preview app customers have until March
-2019 to upgrade to a paid subscription. 
-
 ## What are the technical requirements for installing Remote Assist?
 
 To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll need:
@@ -40,12 +35,12 @@ To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll n
 
 -   To make a video call, you'll need a contact using the latest version of [Microsoft
     Teams](https://products.office.com/microsoft-teams/group-chat-software) on a
-    PC running Windows 10 or a mobile device running Microsoft Teams Mobile. Microsoft [!include[pn-teams](../includes/pn-teams.md)] is [available as
+    PC running Windows 10 or a mobile device running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile. [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] is [available as
     a free download](https://teams.microsoft.com/downloads).
 
 ## Do I need a subscription to Microsoft Teams or Office 365?
 
-As of January 7, 2019, a Teams subscription is included in the Remote Assist subscription for individuals using a Remote Assist license on HoloLens. A Microsoft Teams license is also required for individuals (experts) who communicate with a Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads) for these users. 
+A Teams subscription is included in the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] subscription for individuals using a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] license on [!include[pn-hololens](../includes/pn-hololens.md)]. A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] license is also required for individuals (experts) who communicate with a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user on [!include[pn-hololens](../includes/pn-hololens.md)]. [!include[pn-teams](../includes/pn-teams.md)] may be available [as a free download](https://teams.microsoft.com/downloads) for these users. 
 
 ## How often is Remote Assist updated?
 
@@ -54,6 +49,18 @@ As of January 7, 2019, a Teams subscription is included in the Remote Assist sub
 ## How can I tell what version I'm using?
 
 Go to **Settings**, and then find the version number in the **About** section.
+
+## What languages is Remote Assist available in?
+
+At this time, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available in English and Japanese.
+
+## Where is Remote Assist available?
+
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
+
+[!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
+
+Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
 
 ## Why am I not getting incoming call notifications?
 
@@ -126,21 +133,9 @@ If you’re having trouble signing in to [!include[pn-remote-assist](../includes
 
 To learn how to set up [!include[pn-field-service](../includes/pn-field-service.md)] integration with [!include[pn-remote-assist](../includes/pn-remote-assist.md)] so that a first-line worker can call an expert in the context of a [!include[pn-field-service](../includes/pn-field-service.md)] work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).
 
-## What languages is Remote Assist available in?
-
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available in English only.
-
-## Where is Remote Assist available?
-
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
-
-[!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
-
-Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
-
 ## Is group calling available in Remote Assist?
 
-Yes, group calling is available starting in the April release of Remote Assist. Up to 50 people can be on the same video call.
+Yes, group calling is available starting in the April release of [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. Up to 50 people can be on the same video call.
 
 ## What file formats does the Insert file feature support?
 
