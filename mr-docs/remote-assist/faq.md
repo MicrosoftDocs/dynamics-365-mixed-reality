@@ -59,6 +59,14 @@ Go to **Settings**, and then find the version number in the **About** section.
 
 At this time, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available in English and Japanese.
 
+## Where is Remote Assist available?
+
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
+
+[!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
+
+Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
+
 ## Why am I not getting incoming call notifications?
 
 This can happen if you’re signed in to [!include[pn-remote-assist](../includes/pn-remote-assist.md)] with a different account
@@ -129,16 +137,6 @@ If you’re having trouble signing in to [!include[pn-remote-assist](../includes
 ## How do I set up Dynamics 365 for Field Service to work with Remote Assist?
 
 To learn how to set up [!include[pn-field-service](../includes/pn-field-service.md)] integration with [!include[pn-remote-assist](../includes/pn-remote-assist.md)] so that a first-line worker can call an expert in the context of a [!include[pn-field-service](../includes/pn-field-service.md)] work order, see [Troubleshoot Field Service integration with Remote Assist](troubleshoot-field-service.md).
-
-
-
-## Where is Remote Assist available?
-
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
-
-[!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
-
-Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, United States
 
 ## Is group calling available in Remote Assist?
 
