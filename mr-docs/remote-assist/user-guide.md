@@ -9,7 +9,7 @@ title: Dynamics 365 Remote Assist User guide (for HoloLens)
 ms.reviewer: v-brycho
 ---
 
-# Dynamics 365 Remote Assist User guide (for HoloLens)
+# Dynamics 365 Remote Assist user guide (for HoloLens)
 
 Use [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] to connect and collaborate using
 hands-free video calling, mixed reality annotations, and file (image and PDF)
@@ -23,17 +23,17 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 
 ## What you’ll need
 
--   A subscription to Remote Assist. Microsoft Teams is included in the Remote Assist subscription for individuals using a Remote Assist license on HoloLens. A Microsoft Teams license is also required for individuals (experts) who communicate with a Remote Assist user on HoloLens. Teams may be available [as a free download](https://teams.microsoft.com/downloads) for these users. If you’re the admin for your organization, [learn how to try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
+-   A subscription to [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] is included in the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] subscription for individuals using a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] license on [!include[pn-HoloLens](../includes/pn-HoloLens.md)]. A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] license is also required for individuals (experts) who communicate with a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user on [!include[pn-HoloLens](../includes/pn-HoloLens.md)]. [!include[pn-teams](../includes/pn-teams.md)] may be available [as a free download](https://teams.microsoft.com/downloads) for these users. If you’re the admin for your organization, [learn how to try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
 
     > [!TIP] 
-    > You can try Dynamics 365 Remote Assist for free for up to 90 days. [Learn more about the free 90-day Dynamics 365 Remote Assist trial](try-remote-assist-free.md).
+    > You can try [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] for free for up to 90 days. [Learn more about the free 90-day Dynamics 365 Remote Assist trial](try-remote-assist-free.md).
 
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643).
 
 -   To make a video call, you'll need a contact using the latest version of [Microsoft
     Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) on
-    a PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 or a mobile device running Microsoft Teams Mobile. [Learn about using Teams with
+    a PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 or a mobile device running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile. [Learn about using Teams with
     Remote Assist.](use-microsoft-teams-with-remote-assist.md)
 
 -   To connect to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] from within [!include[pn-remote-assist](../includes/pn-remote-assist.md)],
@@ -88,17 +88,17 @@ room so you can hear even if you're working in a loud environment.
 
 ### Make a call to a contact outside your company
 
-You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see [Set up cross-company calling](cross-company-calling.md).
+You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]. If you're the admin for your organization, to set up external access, see [Set up cross-company calling](cross-company-calling.md).
 
 > [!NOTE]
 > At this time, you can't do group calling or file sharing with contacts outside your company. 
 
 To make a call to a contact outside your company:
 
-- Open the app, select **Search**, and then use the holographic keyboard to enter the full email address of the external user. You *must* enter the full email address. You won't see any search results if you enter just a name or a partial email address.
+- Open the app, select  **Search**, and then use the holographic keyboard to enter the full email address of the external user. You *must* enter the full email address. You won't see any search results if you enter just a name or a partial email address.
 
 > [!NOTE] 
-> If you're not able to find the contact you're looking for, it might be because external access has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help. 
+> If you're not able to find the contact you're looking for, it might be because external access has not been enabled in [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] for your company or the other company. Contact your administrator for help. 
 
 ## Make group calls
 
@@ -139,7 +139,7 @@ You can include up to 50 people in a group call. You can also switch between par
 2. Air tap the mute icon for the participant you want to mute. 
 
 > [!NOTE]
-> If you mute a participant, you won't be able to unmute them. They must unmute themselves through Teams. 
+> If you mute a participant, you won't be able to unmute them. They must unmute themselves through [!include[pn-teams](../includes/pn-teams.md)]. 
 
 
 ## Record a call
@@ -148,13 +148,13 @@ You can record a call to a file for viewing later. This is a great way to captur
 
 You can record a call in two ways:
 
-- Use the Game bar built into Windows 10 PCs.
+- Use the Game bar built into [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PCs.
 
-- Use the Teams recording feature.
+- Use the [!include[pn-teams](../includes/pn-teams.md)] recording feature.
 
 ### Record a call using the Game bar in Windows 10 PCs
 
-1. On a Windows 10 desktop PC, join a call using Microsoft Teams.
+1. On a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 desktop PC, join a call using [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)].
 
 2. Press **Windows logo key ![Windows logo key)](media/windows-logo-key.png "Windows logo key") + G** to open the Game bar.
 
@@ -168,13 +168,13 @@ You can record a call in two ways:
    
 4. To stop recording, select the **Stop Recording** button.
 
-   The video of the recording will appear in your Videos/Captures folder.
+   The video of the recording will appear in your **Videos/Captures** folder.
    
 [Learn more about the Game bar.](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10)
 
 ### Record a call from Teams
 
-Microsoft Teams supports [cloud-based call recording of group calls](https://support.office.com/en-us/article/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24). Recordings are stored and shared through Microsoft Stream.
+[!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] supports [cloud-based call recording of group calls](https://support.office.com/en-us/article/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24). Recordings are stored and shared through Microsoft Stream.
 
 1.	Start or join the group call.
 
@@ -186,7 +186,7 @@ Microsoft Teams supports [cloud-based call recording of group calls](https://sup
 
     ![Stop recording button](media/stop-recording.PNG "Stop recording button") 
  
-    The recording is processed (which can take a while) and saved to Microsoft Stream. The person who started the recording receives an email from Microsoft Stream when the recording is available. It also shows up in the group chat.
+    The recording is processed (which can take a while) and saved to Microsoft Stream. The person who started the recording receives an email from [!include[pn-microsoft-stream](../includes/pn-microsoft-stream.md)] when the recording is available. It also shows up in the group chat.
 
 ## Receive a call from a contact using Microsoft Teams
 
@@ -344,7 +344,7 @@ commands are contextual, so they only work in particular areas of the user
 interface.
 
 > [!IMPORTANT]
-> To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. For example, say "Remote Assist, Move" to enter Move mode for a slate (window). You can also gaze at any button and say “Remote Assist, Select” to select that button.
+> To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. For example, say "[!include[pn-remote-assist](../includes/pn-remote-assist.md)], Move" to enter Move mode for a slate (window). You can also gaze at any button and say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)], Select” to select that button.
 
 | **Voice command**            | **Description**                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------|
