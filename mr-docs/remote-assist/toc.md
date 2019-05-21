@@ -8,7 +8,7 @@
 ## [Mobile app user guide](mobile-app.md)
 ## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
 ## [Troubleshoot Field Service integration](troubleshoot-field-service.md)
-## [How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)
+## [How-to videos](videos.md)
 ## [For developers - protocol activation](protocol-activation.md)
 ## [FAQ](faq.md)
 ## Legal documents

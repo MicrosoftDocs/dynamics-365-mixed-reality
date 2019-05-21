@@ -22,7 +22,7 @@ expert.
 
 Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common questions.
 
-[Watch how-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485) about [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
+[Watch how-to videos](videos.md) about [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 ## What you’ll need
 
@@ -201,6 +201,6 @@ To share your desktop or a running application:
 > You can only share one application or screen at a time. If you want to share a different screen, select the **Close share tray** button to stop sharing, select a different screen, and then start sharing again.
 
 ### See also
-[User guide](user-guide.md)<br/>
-[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)<br/>
+[User Guide](user-guide.md)<br/>
+[How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>

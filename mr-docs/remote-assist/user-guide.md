@@ -19,7 +19,7 @@ together, faster.
 
 Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common questions.
 
-[Watch how-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485) about [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
+[Watch how-to videos](videos.md) about [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 ## What you’ll need
 
@@ -487,5 +487,5 @@ you would any Dynamics 365 view](https://docs.microsoft.com/en-us/dynamics365/cu
 
 ### See also
 [Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
-[How-to videos](https://go.microsoft.com/fwlink/p/?linkid=2021485)<br/>
+[How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>
