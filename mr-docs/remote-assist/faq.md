@@ -24,11 +24,6 @@ the [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, see [B
 Yes, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available as a free 90-day trial. For more information,
 see [Try Remote Assist for free](try-remote-assist-free.md). Note that the 90-day free trial is only available for users who haven't already purchased a subscription. 
 
-## Can I still use the preview app?
-
-The preview period has ended. Existing preview app customers had until March
-2019 to upgrade to a paid subscription. 
-
 ## What are the technical requirements for installing Remote Assist?
 
 To use [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you’ll need:
