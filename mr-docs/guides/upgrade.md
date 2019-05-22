@@ -23,6 +23,6 @@ you created a new environment).
    
 5. Review the Terms of service, and then select **Accept** if you're ready to start the upgrade. 
 
-   The status of the solution will change to **Installation pending,** followed by **Installed** when the upgrade is complete. 
+   The status of the solution changes to **Installation pending,** and then changes to **Installed** when the upgrade is complete. 
  
 For more information on upgrading a Dynamics 365 solution, [see Install, update, or remove a preferred solution](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution).
