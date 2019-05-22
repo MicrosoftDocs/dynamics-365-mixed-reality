@@ -11,8 +11,8 @@ ms.reviewer: v-brycho
 
 # Upgrade the Dynamics 365 Guides solution
 
-The May release of Dynamics 365 Guides includes updates for creating anchors (previously known as markers). To take advantage 
-of the new anchoring features, you must update the Dynamics 365 Guides solution.
+The May release of Dynamics 365 Guides includes improvements for creating anchors (previously known as "alignment"). To take advantage 
+of the new anchoring improvements, you must update the Dynamics 365 Guides solution.
 
 To upgrade the solution:
 
