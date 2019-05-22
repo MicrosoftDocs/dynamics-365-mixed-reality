@@ -17,7 +17,7 @@ you created a new environment).
  
    ![Solutions button)](media/solutions.PNG "Solutions button")
  
-4. In the list of solutions, select the Dynamics 365 Guides (Preview) solution, and then select **Upgrade**.  
+4. In the list of solutions, select **Dynamics 365 Guides (Preview)**, and then select **Upgrade**.  
  
    ![Upgrade button)](media/upgrade.PNG "Upgrade button")
    
