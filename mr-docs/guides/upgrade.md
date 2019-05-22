@@ -1,4 +1,13 @@
-
+---
+author: BryceHo
+description: Upgrade the Dynamics 365 Guides solution to take advantage of May release features
+ms.author: anhaman
+ms.date: 05/28/2019
+ms.service: crm-online
+ms.topic: article
+title: Upgrade the Dynamics 365 Guides solution
+ms.reviewer: v-brycho
+---
 
 # Upgrade the Dynamics 365 Guides solution
 
