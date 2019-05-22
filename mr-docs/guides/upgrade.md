@@ -15,11 +15,14 @@ you created a new environment).
 
 3. Select the small edit button next to **Solutions** to see the list of solutions. 
  
+   ![Solutions button)](media/solutions.PNG "Solutions button")
  
-4. Find the Dynamics 365 Guides solution and click Upgrade button to trigger update as shown below.  
+4. Find the Dynamics 365 Guides solution, and then select **Upgrade**.  
  
- 
-5. Proceed through Terms of service to accept the terms and start the upgrade 
-The status of the solution will change to "Installation pending", followed by "Installed" when the upgrade process is complete. 
+   ![Upgrade button)](media/upgrade.PNG "Upgrade button")
+   
+5. Review the Terms of service, and then select **Accept** if you're ready to start the upgrade. 
+
+   The status of the solution will change to **Installation pending,** followed by **Installed** when the upgrade is complete. 
  
 For more information on upgrading a Dynamics 365 solution, [see Install, update, or remove a preferred solution](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution).
