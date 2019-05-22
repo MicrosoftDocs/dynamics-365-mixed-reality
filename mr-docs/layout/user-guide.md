@@ -1,11 +1,11 @@
 ---
 author: ornellaalt
-description: Dynamics 365 Layout User Guide
+description: Dynamics 365 Layout user guide
 ms.author: ornella
 ms.date: 05/15/2019
 ms.service: crm-online
 ms.topic: article
-title: Dynamics 365 Layout User Guide
+title: Dynamics 365 Layout user guide
 ms.reviewer: v-brycho
 ---
 
@@ -25,7 +25,7 @@ Need more help? [Check out the Dynamics 365 Layout FAQ](faq.md) for answers to c
     [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC.
     
     > [!TIP]
-    > You can try Dynamics 365 Layout for free for up to 90 days. [Learn more about the free 90-day Dynamics 365 Layout trial](try-layout-free.md).
+    > You can try [!include[pn-layout](../includes/pn-layout.md)] for free for up to 90 days. [Learn more about the free 90-day Dynamics 365 Layout trial](try-layout-free.md).
 
 -   A [HoloLens](https://www.microsoft.com/hololens) device running the [Windows 10 April 2018 Update](https://support.microsoft.com/en-us/help/12643) and/or
     a [Windows Mixed Reality immersive
