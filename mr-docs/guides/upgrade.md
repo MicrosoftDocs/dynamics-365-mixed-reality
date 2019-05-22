@@ -9,7 +9,7 @@ title: Upgrade the Dynamics 365 Guides solution
 ms.reviewer: v-brycho
 ---
 
-# Upgrade the Dynamics 365 Guides solution
+# Upgrade the Dynamics 365 Guides solution (for admins)
 
 The May release of Dynamics 365 Guides includes improvements for creating anchors (previously known as "alignment"). To take advantage 
 of the new anchoring improvements, you must update the Dynamics 365 Guides solution.
