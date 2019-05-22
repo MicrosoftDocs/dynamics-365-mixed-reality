@@ -1,0 +1,25 @@
+
+
+# Upgrade the Dynamics 365 Guides solution
+
+The Dynamics 365 Guides May release includes updates for creating anchors (previously known as markers). To take advantage 
+of the new anchoring features, you must update the Dynamics 365 Guides solution.
+
+To upgrade the solution:
+
+1. Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), and sign in with 
+your administrator credentials (the user credentials you created when you signed up for the Dynamics 365 Guides preview if 
+you created a new environment). 
+
+2. Select an **Instances** tab, and then choose an instance that has the Dynamics 365 Guides solution installed.
+
+3. Select the small edit button next to **Solutions** to see the list of solutions. 
+ 
+ 
+4. Find the Dynamics 365 Guides solution and click Upgrade button to trigger update as shown below.  
+ 
+ 
+5. Proceed through Terms of service to accept the terms and start the upgrade 
+The status of the solution will change to "Installation pending", followed by "Installed" when the upgrade process is complete. 
+ 
+For more information on upgrading solutions, [see xxx]().
