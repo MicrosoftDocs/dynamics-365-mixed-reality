@@ -11,7 +11,7 @@ To upgrade the solution:
 your administrator credentials (the credentials you created when you signed up for the Dynamics 365 Guides preview, if 
 you created a new environment). 
 
-2. Select an **Instances** tab, and then choose an instance that has the Dynamics 365 Guides solution installed.
+2. Select the **Instances** tab, and then choose an instance that has the Dynamics 365 Guides solution installed.
 
 3. Select the small edit button next to **Solutions** to see the list of solutions. 
  
