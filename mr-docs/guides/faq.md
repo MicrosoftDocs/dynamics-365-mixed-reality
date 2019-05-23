@@ -106,11 +106,11 @@ Incorrect alignment of holograms can happen for two main reasons:
 
 - The guide needs to be realigned:
 
-- If the guide is aligned using **manual alignment**, the digital twin (3D representation laid over its corresponding physical area) is not aligned correctly. To realign the guide, select the **Alignment** button and then realign the digital twin to perfectly overlay the physical area. 
+- If the guide is aligned using a **digital anchor**, the digital representation (3D representation laid over its corresponding physical area) is not aligned correctly. To realign the guide, select the **Alignment** button and then realign the digital representation to perfectly overlay the physical area. 
 
-- If the guide is aligned using **marker alignment**, the marker for the guide might not have been printed properly. Try realigning the guide by selecting the **Alignment** button. Alternatively, you can reprint the marker. Make sure that the printed marker lies flat in the work area before you realign.
+- If the guide is aligned using a **printed anchor**, the marker for the guide might not have been printed properly. Try realigning the guide by selecting the **Alignment** button. Alternatively, you can reprint the marker. Make sure that the printed marker lies flat in the work area before you realign.
 
-For more information on alignment methods, see the [Authoring Guide](pc-authoring.md).
+For more information on anchoring methods, see the [Authoring Guide](pc-authoring.md).
 
 ## What does the Save button with the refresh icon mean? How does Save work?
 
