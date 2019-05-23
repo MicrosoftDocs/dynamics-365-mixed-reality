@@ -142,7 +142,7 @@ The first thing you see when you open a guide is the alignment instructions for 
 
 The alignment instructions are written by the person who created the guide. Aligning a guide is a crucial step, just like calibrating HoloLens. You align a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don’t line up, you’ll likely be confused when you try to do a task. You could even cause damage. For example, you might drill a hole in the wrong place. 
 
-If the guide is set up with Marker alignment, you’ll look for a printed marker attached to a physical object in your real-world environment. The printed marker looks like this: 
+If the guide is set up with printed anchor (marker), you’ll look for a printed marker attached to a physical object in your real-world environment. The printed marker looks like this: 
 
 ![Printed marker)](media/printed-marker.PNG "Printed marker")
 
@@ -155,7 +155,7 @@ After aligning a guide, you’ll see the **Marker found** screen. Follow the ins
 ![Marker found screen)](media/marker-found.PNG "Marker found screen") 
 
 > [!NOTE]
-> There are two ways to align a guide. The method illustrated above is called *Marker alignment* because you gaze at a physical marker to align your guide. The other type of alignment is called *Manual alignment*. With Manual alignment, you use gestures to align the guide to a digital 3D representation laid over a physical object in your work area. If the author of the guide chose Manual alignment when they created they guide, you’d align a hologram on HoloLens with a digital 3D representation of the same object in your real world. 
+> There are two ways to anchor a guide. The method illustrated above is called a printed anchor because you gaze at a physical marker to align your guide. The other type of anchor is a *digital anchor*. With a digital anchor, you use gestures to align the guide to a digital 3D representation laid over a physical object in your work area. If the author of the guide chose a digital anchor when they created they guide, you’d align a hologram on HoloLens with a digital 3D representation of the same object in your real world. 
 
 When you align your guide, if you’re using the Microsoft HoloLens Commercial Suite, the alignment information is stored on HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section. 
  
@@ -180,7 +180,7 @@ Button|Name|Description|
 |![Home button)](media/home-button.png "Home button")|Home|Choose a different guide| 
 |![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your HoloLens device correctly. Fit is very important. Otherwise holograms might be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the HoloLens properly.<br></br>- **Noise cancellation.** Enables you to use voice commands to navigate the app when there’s a lot of noise in your environment (a factory floor, for example). The app supports noise levels up to 80 decibels.<br></br>- **Dynamic volume.** Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.<br></br>- **Build number.** Shows the build of Dynamics 365 Guides that you’re using.| 
 |![Profile button)](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
-|![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide. HoloLens can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to realign the guide by gazing at a printed marker or digital 3D representation (digital twin) again. For more information, see “Align your guide” earlier in this topic.| 
+|![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide. HoloLens can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to realign the guide by gazing at a printed marker or digital 3D representation again. For more information, see “Align your guide” earlier in this topic.| 
 |![Pin button)](media/pin-button.png "Pin button")|Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around. You can pin or unpin it any time you want.|
 |![Outline buttons)](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for Example Guide:</br><br>![HoloLens Outline page)](media/outline-page-hololens.PNG "HoloLens Outline page")| 
 |![Task progress)](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
