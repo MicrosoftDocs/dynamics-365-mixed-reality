@@ -19,7 +19,7 @@ Before you start authoring in Microsoft Dynamics 365 Guides in preview, you’ll
 (if you have any) and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
 Dynamics 365 Guides includes a 3D toolkit that you can use to get started.
 
-- Arrange for access to the space so you understand the real-world environment. You’ll also need access to the space to align 
+- Arrange for access to the space so you understand the real-world environment. You’ll also need access to the space to anchor 
 the guide and place holograms later.
 
 - Make sure you understand the space, the assembly, and the workflow you’re authoring for.
