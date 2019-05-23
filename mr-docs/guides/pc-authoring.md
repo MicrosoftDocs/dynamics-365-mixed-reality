@@ -81,7 +81,7 @@ it updates with the changes from HoloLens. This issue will be addressed in our n
 
 After you name your guide, you’ll see the **Choose an anchor method** screen. 
 
-![Anchor methods screen)](media/anchoring-methods.PNG "Anchor methods screen")
+![Anchor methods screen)](media/anchoring-method.PNG "Anchor methods screen")
 
 Anchoring is used to spatially sync your instructions to the real world. When you anchor your guide, your instructions coincide 
 with the space they live in and become meaningful. Your content is centered around this anchoring point.
@@ -123,7 +123,7 @@ To print the marker:
 
 1.  In the **Choose an anchor method** screen, in the **Printed Anchor** section, choose **Select**.
 
-    ![Anchoring methods screen)](media/anchoring-methods.PNG "Anchoring methods screen")
+    ![Anchoring methods screen)](media/anchoring-method.PNG "Anchoring methods screen")
 
 2.  In the **Print and place the anchor** screen, select **Save to print** to save the marker.pdf file to your PC.
 
@@ -202,7 +202,7 @@ To import a 3D representation:
     
 4.	In the library, select **3D parts**, and then drag your 3D representation to the digital anchor box. If you don't want to select a digital anchor at this time, select **Next**. The guide will be created with a preset 3D model that looks like this:
 
-   ![Preset anchor)](media/digital-anchor.PNG "Preset anchor")
+    ![Preset anchor)](media/digital-anchor.PNG "Preset anchor")
    
 > [!NOTE]
 > It’s a good practice to take a photo or video of the base physical object and location and upload the photo or video to the 
