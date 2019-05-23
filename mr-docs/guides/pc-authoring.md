@@ -1,5 +1,5 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides in preview.
 ms.author: mamaylya
 ms.date: 04/30/2019
@@ -17,7 +17,7 @@ Use the PC authoring application in Microsoft Dynamics 365 Guides in preview to:
 
 - Create a guide
 
-- Choose an alignment method
+- Choose an anchoring method
 
 - Add tasks and steps
 
@@ -77,58 +77,57 @@ Autosave checks for changes every 4 seconds.
 > For this preview release, there are a few things to be aware of when syncing devices:<br><br>- As a best practice, always select **Refresh** before making edits when you switch between devices. This ensures that you have the latest version of that file from the other device.<br><br>- If the same version of the guide is open on both the PC and HoloLens, the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on HoloLens and add a new step in the PC app, the guide automatically refreshes on HoloLens. You might notice the refresh process.<br><br>- When you add text to the guide in the PC application, the auto publish feature activates only when you move the cursor outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on HoloLens, or you’ll lose the text you created on the PC when 
 it updates with the changes from HoloLens. This issue will be addressed in our next release. 
 
-## Choose an alignment method 
+## Choose an anchoring method 
 
-After you name your guide, you’ll see the **Choose an alignment method** screen. 
+After you name your guide, you’ll see the **Choose an anchor method** screen. 
 
-![Alignment methods screen)](media/alignment-methods.PNG "Alignment methods screen")
+![Anchor methods screen)](media/anchoring-methods.PNG "Anchor methods screen")
 
-Alignment is used to spatially sync your instructions to the real world. When you align your guide, your instructions coincide 
-with the space they live in and become meaningful. The alignment acts as the anchor that all your content is centered around.
+Anchoring is used to spatially sync your instructions to the real world. When you anchor your guide, your instructions coincide 
+with the space they live in and become meaningful. Your content is centered around this anchoring point.
 
-There are two types of alignment:
+There are two types of anchors:
 
-- With **marker alignment** (recommended), you attach a printed marker to a physical object in the real world. After creating the guide, 
-to align the guide in the real world, you gaze at the marker using HoloLens.
+- With a **printed anchor** (recommended), you attach a printed marker to a physical object in the real world. After creating the guide, 
+to anchor the guide in the real world, you gaze at the marker using HoloLens.
 
-- With **manual alignment**, you import a 3D representation (such as a CAD model or scanned model), and then lay that representation, 
-called a “digital twin”, directly over a physical object in the real world. After creating the guide, to align it in the real world, 
+- With a **digital anchor**, you import a 3D representation (such as a CAD model or scanned model), and then lay that representation directly over a physical object in the real world. After creating the guide, to anchor it in the real world, 
 you use a gesture.
 
-**It’s extremely important to ensure that the alignment is correct and as precise as possible.** If alignment is not correct, your 
+**It’s extremely important to ensure that anchoring is correct and as precise as possible.** If anchoring is not correct, your 
 instructions can cause operator confusion and potentially costly damage. For example, an operator could drill a hole in the wrong 
 place or assemble the wrong part. 
 
-Marker alignment is recommended because it’s more accurate. You might want or need to use manual alignment, however, for any of the 
+Printed anchors provide more accuracy. You might want or need to use a digital anchor, however, for any of the 
 following reasons:
 
-- It might not be feasible to attach a marker because the authoring is done in a location different than where the parts are located.
+- It might not be feasible to attach a printed anchor because the authoring is done in a location different than where the parts are located.
 
-- It might not be feasible to attach a marker due to moving parts.
+- It might not be feasible to attach a printed anchor due to moving parts.
 
-- You can’t guarantee that the placement of the marker will be the same every time.
+- You can’t guarantee that the placement of the printed anchor will be the same every time.
 
-- A part is too small to attach a marker to.
+- A part is too small to attach a printed anchor to.
 
-### Align your guide by using marker alignment
+### Anchor your guide by using a printed anchor
 
-Marker alignment involves three basic steps:
+Using a printed anchor involves three basic steps:
 
 1.	Print out a marker.
 
 2.	Attach the marker to a physical object in the real world.
 
-3.	Gaze at the marker to align the guide.
+3.	Gaze at the marker to anchor the guide.
 
 To print the marker:
 
-1.  In the **Choose an alignment method** screen, in the **Marker** section, choose **Select**.
+1.  In the **Choose an anchor method** screen, in the **Printed Anchor** section, choose **Select**.
 
-    ![Alignment methods screen)](media/alignment-methods.PNG "Alignment methods screen")
+    ![Anchoring methods screen)](media/anchoring-methods.PNG "Anchoring methods screen")
 
-2.  In the **Marker** screen, select **Save to print** to save the marker.pdf file to your PC.
+2.  In the **Print and place the anchor** screen, select **Save to print** to save the marker.pdf file to your PC.
 
-    ![Save the PDF file)](media/marker-pdf.PNG "Save the PDF file")
+    ![Print and place the anchor screen](media/print-place-anchor.PNG "Print and place the anchor screen")
 
 3.	Open the marker.pdf file on your PC in Adobe Acrobat Reader.
 
@@ -149,45 +148,45 @@ To print the marker:
 percentage to compensate for the size discrepancy. For example, if you print the marker, and the result is 49 mm, you need to 
 change the scale to 100.4% to get 49.196 mm, which would be within tolerance.<br>You might also need to adjust the hardware offset in Hololens 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
 
-#### Best practices for marker alignment
+#### Best practices for printed anchors
 
-Keep the following in mind when working with marker alignment:
+Keep the following in mind when working with printed anchors:
 
-- **Size.** Make sure that your printed marker is the exact size indicated in this document. Incorrect marker size causes guide misalignment. 
+- **Size.** Make sure that your printed anchor is the exact size indicated in this document. Incorrect anchor size causes guide misalignment. 
 
   - Some applications and printers might change the size of the image.
   
-  - If the printed marker is larger than indicated, HoloLens interprets the scale difference in distance. This causes the marker to be identified as closer than it really is. 
+  - If the printed anchor is larger than indicated, HoloLens interprets the scale difference in distance. This causes the anchor to be identified as closer than it really is. 
   
-  - Printing from the .pdf file (as described earlier in this topic) is the best way to ensure that the marker is not resized. 
+  - Printing from the .pdf file (as described earlier in this topic) is the best way to ensure that the anchor is not resized. 
   
-- **Location.** Place the marker in a location on the physical object in a location that’s easy to access and out of the way.
+- **Location.** Place the anchor in a location on the physical object in a location that’s easy to access and out of the way.
 
-  - Marker placement should ideally be central to the steps being done.
+  - Anchor placement should ideally be central to the steps being done.
   
-  - Content placed farther away from the marker will be less accurate.
+  - Content placed farther away from the anchor will be less accurate.
   
-  - Place the marker where operators can quickly rescan to realign at any time.
+  - Place the anchor where operators can quickly rescan to realign at any time.
   
-  - Take a photo or video to document the marker placement, and add it to the guide instructions to increase operator confidence.
+  - Take a photo or video to document the anchor placement, and add it to the guide instructions to increase operator confidence. To capture a photo or video from HoloLens, see [Mixed reality capture](https://docs.microsoft.com/windows/mixed-reality/mixed-reality-capture).
   
-- **Scanning angle.** Make sure you’re facing the marker straight on at the correct distance when gazing at it. 
+- **Scanning angle.** Make sure you’re facing the anchor straight on at the correct distance when gazing at it. 
 
   - Scanning from an angle can cause misalignment.
   
   - Ideal scanning range is from 60 to 80 cm.
 
-#### How HoloLens establishes marker position, scale, and orientation
+#### How HoloLens establishes anchor position, scale, and orientation
 
-When scanning, the forward-facing camera on the HoloLens device is used to measure the horizontal and vertical distances on the marker. 
-This information is combined with the actual marker values stored internally in the application (49.2 mm and 32.8 mm, as indicated 
-in the preceding illustration) to establish the marker’s precise position, scale, and orientation in space.
+When scanning, the forward-facing camera on HoloLens is used to measure the horizontal and vertical distances on the anchor. 
+This information is combined with the actual anchor values stored internally in the application (49.2 mm and 32.8 mm, as indicated 
+in the preceding illustration) to establish the anchor's precise position, scale, and orientation in space.
 
-### Align your guide by using manual alignment
+### Align your guide by using a digital anchor
 
-Manual alignment involves two basic steps:
+Digital anchoring involves two basic steps:
 
-1.	Using the PC authoring app, import a 3D representation of a physical object. This could be a CAD model used to create the physical object or a scanned model after fabrication. 
+1.	Using the PC authoring app, import a 3D representation of a physical object. This could be a CAD model used to create the physical object or a scanned model after fabrication. If you don't have a 3D representation, you can skip this step and use the preset 3D model included in Dynamics 365 Guides.
 
 2.	Using HoloLens Author mode, place the 3D digital representation directly over a physical part.
 
@@ -201,41 +200,42 @@ To import a 3D representation:
 
     This adds the 3D representation to the **3D parts** section of the library.
     
-4.	In the library, select **3D parts**, and then drag your 3D representation to the **Digital twin** box in the lower-left side of the screen.
+4.	In the library, select **3D parts**, and then drag your 3D representation to the digital anchor box. If you don't want to select a digital anchor at this time, select **Next**. The guide will be created with a preset 3D model that looks like this:
 
+   ![Preset anchor)](media/digital-anchor.PNG "Preset anchor")
+   
 > [!NOTE]
 > It’s a good practice to take a photo or video of the base physical object and location and upload the photo or video to the 
-**Digital twin** reference box. You might also want to customize the instructions in the **Operator instructions** box to provide more specific 
-directions.
+**digital anchor** reference box. To capture a photo or video from HoloLens, see [Mixed reality capture](https://docs.microsoft.com/windows/mixed-reality/mixed-reality-capture). You might also want to customize the instructions in the **Operator instructions** box to provide more specific directions.
 
 When you switch to HoloLens authoring, you'll use a gesture to place the 3D representation directly over the physical object in your work environment.
 
-#### Best practices for manual alignment
+#### Best practices for digital anchors
 
-- **Size.** Select a digital twin that’s not too small or too big. 
+- **Size.** Select a digital anchor that’s not too small or too big. 
 
   - Medium-size digital objects are best. Very small or very large holograms are difficult to manipulate. 
   
   - Shoebox size or slightly larger is ideal.
   
-- **Placement.** Choose a digital twin that’s as close to the center of the work being done as possible. The further you place digital content away from the digital twin, the less accurate it becomes.
+- **Placement.** Choose a digital anchor that’s as close to the center of the work being done as possible. The further you place digital content away from the digital anchor, the less accurate it becomes.
 
-- **Shape.** Select a digital twin that has a non-uniform or uncommon shape. Unusual shapes are easiest to align to.
+- **Shape.** Select a digital anchor that has a non-uniform or uncommon shape. Unusual shapes are easiest to align to.
 
   - Avoid objects that are mirrored. This can cause 180-degree misalignment.
   
   - Pick shapes that have clear edges and corners to help orient your content properly.
   
-- **Recognizable.** Select a digital twin that’s obvious, easily recognizable, and easy for the operator to find. Make sure that they can access the object without any obstructions.
+- **Recognizable.** Select a digital anchor that’s obvious, easily recognizable, and easy for the operator to find. Make sure that they can access the object without any obstructions.
 
-- **Alignment direction.** Always align the digital twin to your physical object from the same direction. This maximizes repeatability for operators.
+- **Alignment direction.** Always align the digital anchor to your physical object from the same direction. This maximizes repeatability for operators.
 
   - Placement from different perspectives can cause misalignment.
   
-  - Always look at it from multiple angles to ensure the digital twin is aligned to the physical object.
+  - Always look at it from multiple angles to ensure the digital anchor is aligned to the physical object.
 
-### Ensure accuracy of alignment
-Independent from the method used for alignment, these additional factors can impact the accuracy of the alignment and/or user perception of the alignment:
+### Ensure accuracy of anchors (alignment)
+Independent from the method used for anchoring, these additional factors can impact the accuracy of the alignment and/or user perception of the alignment:
 
 - **Interpupillary distance (IPD) setting.** The IPD is the distance between the center of the user’s pupils. It’s crucial to set the appropriate IPD to enable HoloLens to adapt its display because different users might have different IPDs. An incorrect IPD setting can result in a wrong perception of holograms in space as well as instability of holograms. [Use the HoloLens Calibration app to calibrate your IPD](https://docs.microsoft.com/en-us/windows/mixed-reality/calibration). 
 
@@ -250,7 +250,7 @@ Before using Dynamics 365 Guides on a HoloLens that’s unfamiliar with its envi
 
 ## Structure your guide in the Outline page
 
-After you choose an alignment method, you see the **Outline** page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in Dynamics 365 Guides.
+After you choose an anchoring method, you see the **Outline** page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in Dynamics 365 Guides.
 
 When you open the **Outline** page for the first time, you see that a single task and step are already created for you. 
 
@@ -404,7 +404,7 @@ You can use any of the following keyboard shortcuts in the PC application:
 |Win + Up|Maximize the current window|
 
 ## What's next?
-After you create your guide, select an alignment method, and create your tasks and steps, you’re ready to [test things out on HoloLens in a real-world environment, and place your holograms](hololens-authoring.md).
+After you create your guide, select an anchoring method, and create your tasks and steps, you’re ready to [test things out on HoloLens in a real-world environment, and place your holograms](hololens-authoring.md).
 
 > [!IMPORTANT]
 > When switching between PC and HoloLens, be sure to select **Refresh** when starting work on a device to ensure that you have the latest version of the guide. 
