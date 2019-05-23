@@ -1,5 +1,5 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Upgrade the Dynamics 365 Guides solution to take advantage of May release features
 ms.author: mamaylya
 ms.date: 05/28/2019
