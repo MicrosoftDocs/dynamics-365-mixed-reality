@@ -16,7 +16,7 @@ of the new anchoring improvements, you must update the Dynamics 365 Guides solut
 
 To upgrade the solution:
 
-1. Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), and then sign in with 
+1. Go to the [Dynamics 365 administration center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), and then sign in with 
 your administrator credentials (the credentials you created when you signed up for the Dynamics 365 Guides preview, if 
 you created a new environment). 
 
