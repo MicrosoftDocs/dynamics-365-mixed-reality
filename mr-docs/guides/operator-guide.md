@@ -155,7 +155,7 @@ After aligning a guide, you’ll see the **Marker found** screen. Follow the ins
 ![Marker found screen)](media/marker-found.PNG "Marker found screen") 
 
 > [!NOTE]
-> There are two ways to anchor a guide. The method illustrated above is called a printed anchor because you gaze at a physical marker to align your guide. The other type of anchor is a *digital anchor*. With a digital anchor, you use gestures to align the guide to a digital 3D representation laid over a physical object in your work area. If the author of the guide chose a digital anchor when they created they guide, you’d align a hologram on HoloLens with a digital 3D representation of the same object in your real world. 
+> There are two ways to anchor a guide. The method illustrated above is called a printed anchor because you gaze at a physical marker to align your guide. The other type of anchor is a *digital anchor*. With a digital anchor, you use gestures to align the guide to a digital 3D representation laid over a physical object in your work area. If the author of the guide chose a digital anchor when they created the guide, you’d align a hologram on HoloLens with a digital 3D representation of the same object in your real world. 
 
 When you align your guide, if you’re using the Microsoft HoloLens Commercial Suite, the alignment information is stored on HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section. 
  
