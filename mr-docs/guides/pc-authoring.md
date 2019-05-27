@@ -218,7 +218,7 @@ When you switch to HoloLens authoring, you'll use a gesture to place the 3D repr
   
   - Shoebox size or slightly larger is ideal.
   
-- **Placement.** Choose a digital anchor that’s as close to the center of the work being done as possible. The further you place digital content away from the digital anchor, the less accurate it becomes.
+- **Placement.** Choose a digital anchor that’s as close to the center of the work being done as possible. The farther you place digital content away from the digital anchor, the less accurate it becomes.
 
 - **Shape.** Select a digital anchor that has a non-uniform or uncommon shape. Unusual shapes are easiest to align to.
 
