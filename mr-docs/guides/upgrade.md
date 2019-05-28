@@ -13,6 +13,9 @@ ms.reviewer: v-brycho
 
 Some releases of Dynamics 365 Guides require an update to the Dynamics 365 Guides solution.
 
+> [!IMPORTANT]
+> Before updating your Dynamics 365 Guides solution, make sure the HoloLens app and the Dynamics 365 Guides app have received the latest updates.
+
 To upgrade the solution:
 
 1. Go to the [Dynamics 365 administration center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), and then sign in with 
