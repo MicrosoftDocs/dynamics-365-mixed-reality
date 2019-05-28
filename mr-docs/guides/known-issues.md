@@ -13,6 +13,10 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
+## HoloLens app can't refresh when you edit the anchoring step on a PC for the same guide
+
+We recommend you don't open a guide on HoloLens while editing the alignment step for the same guide on a PC. In this case, the HoloLens app will refresh automatically, but won't be able to open the guide.
+
 ## Offline use is not supported
 At this time, offline use in the Dynamics 365 Guides apps is not supported. Also, you must have an active and reliable internet connection to use the apps. 
 
