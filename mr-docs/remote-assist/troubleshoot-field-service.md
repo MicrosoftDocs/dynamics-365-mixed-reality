@@ -1,8 +1,8 @@
 ---
-author: MatthewJonPaul
+author: bencorn
 description: How to make sure you have the right version, views, and data to integrate Dynamics 365 for Field Service with Dynamics 365 Remote Assist
-ms.author: mapau
-ms.date: 11/14/2018
+ms.author: bencorn
+ms.date: 06/04/2019
 ms.service: crm-online
 ms.topic: article
 title: Integrate Dynamics 365 for Field Service with Dynamics 365 Remote Assist
