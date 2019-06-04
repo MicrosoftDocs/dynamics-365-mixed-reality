@@ -1,8 +1,8 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Test and place holograms using the HoloLens application in Author mode (Dynamics 365 Guides in preview)
 ms.author: mamaylya
-ms.date: 04/30/2019
+ms.date: 05/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Test and place holograms using HoloLens Author mode (Dynamics 365 Guides in preview)
@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
  
 The second major step in authoring a guide in Microsoft Dynamics 365 Guides in preview takes place on the HoloLens application. In HoloLens Author mode, you:
 
-- Align your guide to a marker or a digital twin, depending on the type of alignment you chose in the PC application.
+- Align your guide to a printed anchor (marker) or a digital anchor, depending on the type of anchor method you chose in the PC application.
 
 - Test the flow of your guide.
 
@@ -113,7 +113,7 @@ The first thing you see when you open a guide is the alignment instructions you 
 
 ![HoloLens alignment instructions)](media/hololens-alignment.PNG "HoloLens alignment instructions")
 
-If you chose Marker alignment as the alignment method for the guide, the next step is to align the marker hologram with the printed marker you placed in the real-world environment. The marker hologram looks like this:
+If you chose to align your guide with a printed anchor, the next step is to align the marker hologram with the printed marker you placed in the real-world environment. The marker hologram looks like this:
 
 ![Holographic marker image)](media/marker-holograph.PNG "Holographic marker image")
   
@@ -122,7 +122,7 @@ After aligning the guide, you’ll see the **Marker found** screen. Select the *
 ![Marker found holograph)](media/marker-found.PNG "Marker found holograph")
    
 > [!NOTE]
-> If you chose Manual alignment as the alignment method for the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
+> If you chose to use a digital anchor to align the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
 
 When you align your guide, the alignment information is stored on your HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section.
 
@@ -154,7 +154,7 @@ Here’s what each button or UI element is used for:
 |![Home button)](media/home-button.png "Home button")|Home|Choose a different guide.|
 |![Profile button)](media/profile-button.png "Profile button")|Profile|Sign in and out.|
 |![Settings button)](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- **Noise Cancellation**. If the environment is very noisy, this setting adjusts sensitivity to voice commands so the operator doesn't have to shout.</br><br>- **Dynamic Volume**. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- **Build number**. Shows the build you’re using.|
-|![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the marker or digital twin again.|
+|![Alignment button)](media/alignment-button.png "Alignment button")|Alignment|Realign your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the printed anchor (marker) or digital anchor again.|
 |![Pin button)](media/pin-button.png "Pin button")|Pin|Lock the Step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the Step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
 |![Outline button)](media/outline-button.png "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
 |![Task progress)](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|

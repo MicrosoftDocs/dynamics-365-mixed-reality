@@ -1,5 +1,5 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Everything you need to know about signing up for Dynamics 365 Guides in preview, configuring the solution, and installing the apps.
 ms.author: mamaylya
 ms.date: 04/30/2019
