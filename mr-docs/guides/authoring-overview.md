@@ -1,8 +1,8 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Overview of authoring in Dynamics 365 Guides in preview, including PC authoring and HoloLens authoring
 ms.author: mamaylya
-ms.date: 04/30/2019
+ms.date: 05/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Overview of authoring in Dynamics 365 Guides in preview
@@ -17,7 +17,7 @@ If you're ready to start creating a guide with Microsoft Dynamics 365 Guides in 
 
 To create a guide, you’ll use two applications:
 
-- **PC application.** You’ll start with the PC application. Use this application to create the guide, choose an alignment method, 
+- **PC application.** You’ll start with the PC application. Use this application to create the guide, choose an anchoring method, 
 add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
 Supporting assets include:
 

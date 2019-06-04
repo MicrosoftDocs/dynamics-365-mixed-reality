@@ -1,6 +1,7 @@
 # Dynamics 365 Guides in preview
 ## [Overview](index.md)
 ## [Sign up for preview](setup.md)
+## [Upgrade the Guides solution (for admins)](upgrade.md)
 ## [Get started](get-started.md)
 ## Author a guide
 ### [Authoring overview](authoring-overview.md)

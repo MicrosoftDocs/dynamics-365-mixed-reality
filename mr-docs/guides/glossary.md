@@ -1,8 +1,8 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Glossary of terms for Dynamics 365 Guides in preview
-ms.author: anhaman
-ms.date: 04/30/2019
+ms.author: Mamaylya
+ms.date: 05/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Glossary of terms for Dynamics 365 Guides in preview
@@ -24,8 +24,8 @@ A library of predefined objects included in Dynamics 365 Guides that use can use
 ## Air tap
 A gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
 
-## Alignment
-The process of making sure that a guide “lines up” with associated objects in the real world when used on HoloLens. Alignment is crucial and mandatory for creating any guide. For more information, see the [Authoring guide](pc-authoring.md).
+## Anchoring (alignment)
+The process of making sure that a guide “lines up” with associated objects in the real world when used on HoloLens. Anchoring is crucial and mandatory for creating any guide. For more information, see the [Authoring guide](pc-authoring.md).
 
 ## Asset
 Collective term for the complete set of objects that you can add to a step to support that step. Assets include 2D objects (images and videos) and 3D objects (3D parts and objects from the 3D toolkit). 
@@ -36,8 +36,8 @@ The person who creates a guide.
 ## Calibration
 A process in which HoloLens adjusts the hologram display according to a user's interpupillary distance (IPD). The HoloLens device must be calibrated correctly so that the guide aligns properly in the real world. Proper calibration is also necessary to place holographic objects in HoloLens Author mode. HoloLens includes a Calibration app that can be used by authors and operators for this purpose. 
 
-## Digital twin
-A 3D representation used for one type of alignment. You place the digital twin, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital twin.
+## Digital anchor
+A 3D representation used to anchor holograms in the real world. You place the digital representation, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor.
 
 ## Field of view
 The size of the HoloLens display where holograms show up. It’s important to keep the field of view in mind when placing holograms in a real-world environment.
@@ -55,13 +55,13 @@ A hand movement that enables an operator to do an action in mixed reality. For m
 The distance between a user’s eyes. Different users have different IPDs. To align content correctly, HoloLens needs to be calibrated for each user’s IPD. 
 
 ## Marker
-A computer-generated visual used for one type of alignment. You gaze at the marker to align the guide with its spatial coordinates.
+A computer-generated visual used for printed anchors. You gaze at the printed marker to align the guide with its spatial coordinates.
 
 ## Operator
 The person who uses a guide to do a set of tasks. 
 
 ## Outline page
-A page in the PC Authoring application that you use to add tasks and steps. From the Outline page, you can get a sense of the whole guide and restructure tasks by dragging them from one place to another. The Outline page also includes customizable alignment instructions and a special step called the Completion step (also customizable).
+A page in the PC Authoring application that you use to add tasks and steps. From the Outline page, you can get a sense of the whole guide and restructure tasks by dragging them from one place to another. The Outline page also includes customizable anchoring instructions and a special step called the Completion step (also customizable).
 
 ## Step
 A short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
