@@ -2,7 +2,7 @@
 author: BryceHo
 description: Known Issues with Dynamics 365 Guides in preview
 ms.author: makamat
-ms.date: 04/30/2019
+ms.date: 05/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Known Issues with Dynamics 365 Guides in preview
@@ -13,6 +13,10 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
+## HoloLens app can't refresh when you edit the anchoring step on a PC for the same guide
+
+We recommend you don't open a guide on HoloLens while editing the alignment step for the same guide on a PC. In this case, the HoloLens app will refresh automatically, but won't be able to open the guide.
+
 ## Offline use is not supported
 At this time, offline use in the Dynamics 365 Guides apps is not supported. Also, you must have an active and reliable internet connection to use the apps. 
 
@@ -37,9 +41,6 @@ Currently, we don’t support permissions or versioning. Therefore, anyone assig
 
 ## Recent guides list isn’t scoped to user
 The **Recent** list of guides is currently not scoped to the user accessing it. This will be supported in a later release.
-
-## Can’t change alignment method once guide has been created
-Once you have selected an alignment method (manual or marker) and saved a guide, you can’t change the alignment method for that guide. You can, however, save a copy of the guide and then change the alignment method in the copy.
 
 ## Search is not supported at this time
 At this time, you can’t search for a guide in the list in either application. 
@@ -75,19 +76,19 @@ The app currently looks up media by file names. So, for example, if you have a p
 
 Avoid using any names for your custom 3D models that match model names in the 3D toolkit.
 
-## Addressing hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for marker alignment
+## Addressing hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for printed anchor alignment
  
 The angle of each HoloLens 1 PV camera (the camera placed above the nose bridge) can be slightly different across devices due to manufacturing idiosyncrasies. Since the PV camera is used to scan the printed marker, this means holograms can appear slightly misaligned when using the same guide and same printed marker on multiple devices.
  
 To fix this issue, the Dynamics 365 Guides HoloLens app provides the ability to manually adjust for this offset and save the settings to the device so that each user does not need to set the offset each time. We recommend that IT staff go through the following steps before provisioning devices to Dynamics 365 Guides authors or operators. This is a one-time setup and does not need to be repeated unless the app is uninstalled or a new operating system is installed.
  
-### Step 1 – Set up marker alignment
+### Step 1 – Set up printed anchor
 
 #### On the PC
 
 1.	Create a printed marker using the specifications described in [Author in the PC application](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-authoring#choose-an-alignment-method).
 
-2.	Open the authoring app on the PC, and then create a guide using the marker alignment method (or you can use an existing guide that uses marker alignment).
+2.	Open the authoring app on the PC, and then create a guide using the printed anchor method (or you can use an existing guide that uses a printed anchor).
 
 #### On HoloLens
 
@@ -186,9 +187,9 @@ If you see any of the following errors, please contact your IT administrator or 
 
 When you get to the screen where you can select between different saved accounts on HoloLens, choose an option within 25 seconds. After 25 seconds it will become unresponsive, and you will need to restart the app. This bug has been fixed on RS5, but still exists on RS4 if you have that installed.
 
-#### Marker alignment requires user’s consent to use the camera
+#### Printed anchor method requires user’s consent to use the camera
 
-When the Dynamics 365 Guides application on HoloLens is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use marker-aligned guides, you will need to say **Yes** to this prompt. This is required for every device you use the Dynamics 365 Guides application on. If this consent was not provided previously, you can go to the **Settings** menu on the HoloLens (operating system) and provide consent to the app. 
+When the Dynamics 365 Guides application on HoloLens is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use printed anchors in your guides, you will need to say **Yes** to this prompt. This is required for every device you use the Dynamics 365 Guides application on. If this consent was not provided previously, you can go to the **Settings** menu on the HoloLens (operating system) and provide consent to the app. 
 
 #### “Create account” link when signing in with a new account doesn’t work
 
