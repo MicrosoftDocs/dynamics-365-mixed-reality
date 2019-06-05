@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Work with Dynamics 365 Guides
 
-The 3D models prepared with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]) can be used in Dynamics 365 Guides (Preview). To import them, you’ll need to locate the 3D model file and place it using the Guides PC authoring app.
+The 3D models prepared with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]) can be used in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]). To import them, you’ll need to locate the 3D model file and place it using the Guides PC authoring app.
 
 Files created with [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] are stored locally in C:\Users\\[username]\3D Objects\Microsoft Layout. 
 
