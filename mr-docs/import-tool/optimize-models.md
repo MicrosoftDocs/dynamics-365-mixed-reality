@@ -36,7 +36,7 @@ Here are examples of CAD, converted, and optimized 3D models.<br></br>
 
 ## Performance targets
 
-The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications can be used on [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens, immersive headsets, and mobile devices. The goal is to provide the highest possible visual fidelity without adversely affecting performance. 
+The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications can be used on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], immersive headsets, and mobile devices. The goal is to provide the highest possible visual fidelity without adversely affecting performance. 
 
 The following table lists some general conservative targets to aim for when acquiring or authoring 3D models for a range of hardware. When in doubt, target the midrange profile for a balance of fidelity and performance. 
 
