@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Work with Dynamics 365 Layout
 
-With [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], you can work with floor plans created with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)], or you can create a layout with the HoloLens app. You can use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to make either type of layout available for immersive headsets. 
+With [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], you can work with floor plans created with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)], or you can create a layout with the [!include[pn-hololens](../includes/pn-hololens.md)] app. You can use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to make either type of layout available for immersive headsets. 
 
 ## Import a Microsoft Visio floor plan
 
@@ -21,7 +21,7 @@ To work with a [!include[pn-visio](../includes/pn-visio.md)] floor plan in [!inc
 
 2.	Export the floor plan to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-3.	Make the floor plan available for immersive headsets or [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens using [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+3.	Make the floor plan available for immersive headsets or [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] using [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 ### Install the Visio add-in for Dynamics 365 Layout
 
@@ -50,9 +50,9 @@ After you’ve created the floor plan in [!include[pn-visio](../includes/pn-visi
 
     If you’re using an immersive headset connected to the same PC, the floor plan shows up automatically in Layout. You don’t need to do anything more.
 
-    If you’re using HoloLens:
+    If you’re using [!include[pn-hololens](../includes/pn-hololens.md)]:
     
-    a.	Connect your HoloLens to your PC using the USB cable.
+    a.	Connect your [!include[pn-hololens](../includes/pn-hololens.md)] to your PC using the USB cable.
 
     b.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] on the PC, and then select **This PC** > **Layouts**.
 
@@ -61,37 +61,37 @@ After you’ve created the floor plan in [!include[pn-visio](../includes/pn-visi
        > [!div class="mx-imgBorder"]
        > ![Copy layouts](media/copy-layouts.PNG "Copy layouts") 
     
-    d.	On HoloLens, open [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You’ll find your floor plan on the **Layouts** tab.
+    d.	On [!include[pn-hololens](../includes/pn-hololens.md)], open [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You’ll find your floor plan on the **Layouts** tab.
     
 ## Import layouts created with the HoloLens Layout app to use with immersive headsets
 
-1.	Connect your HoloLens to your PC using the USB cable.
+1.	Connect your [!include[pn-hololens](../includes/pn-hololens.md)] to your PC using the USB cable.
 
-2.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] on the PC, and then select **HoloLens name** > **Layouts**.
+2.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] on the PC, and then select **[!include[pn-hololens](../includes/pn-hololens.md)] name** > **Layouts**.
 
 3.	Select the check boxes for the layouts you want to copy, and then select **Send**.
 
 ## Import layouts created with the immersive Dynamics 365 Layout app to use with the HoloLens Layout app
 
-To use the layout on HoloLens, you need to move it there:
+To use the layout on [!include[pn-hololens](../includes/pn-hololens.md)], you need to move it there:
 
-1.	Connect your HoloLens to your PC using the USB cable.
+1.	Connect your [!include[pn-hololens](../includes/pn-hololens.md)] to your PC using the USB cable.
 
 2.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] on the PC, and then select **This PC** > **Layouts**.
 
 3.	Select the check boxes for the layouts you want to copy, and then select **Send**.
 
-4.	On HoloLens, open [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You’ll find your layouts on the **Layouts** tab.
+4.	On [!include[pn-hololens](../includes/pn-hololens.md)], open [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You’ll find your layouts on the **Layouts** tab.
 
 ## Import 3D models to use with HoloLens
 
-1.	Connect your HoloLens to your PC using the USB cable.
+1.	Connect your [!include[pn-hololens](../includes/pn-hololens.md)] to your PC using the USB cable.
 
 2.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] on the PC, and then select **This PC** > **Models**.
 
 3.	Select the check boxes for the 3D models you want to copy, and then select **Send**.
 
-4.	On HoloLens, open [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You’ll find your 3D models on the **Models** tab.
+4.	On [!include[pn-hololens](../includes/pn-hololens.md)], open [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You’ll find your 3D models on the **Models** tab.
 
 ## Import 3D models to use with immersive headsets
 
