@@ -11,15 +11,15 @@ ms.reviewer: v-brycho
 
 # Work with Dynamics 365 Layout
 
-With [!include[cc-microsoft](../includes/cc-microsoft.md)] Dynamics 365 Layout, you can work with floor plans created with Microsoft Visio, or you can create a layout with the HoloLens app. You can use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to make either type of layout available for immersive headsets. 
+With [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], you can work with floor plans created with Microsoft Visio, or you can create a layout with the HoloLens app. You can use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to make either type of layout available for immersive headsets. 
 
 ## Import a Microsoft Visio floor plan
 
-To work with a Visio floor plan in Dynamics 365 Layout, take these three steps:
+To work with a Visio floor plan in [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], take these three steps:
 
-1.	Install the Visio add-in for Dynamics 365 Layout. 
+1.	Install the Visio add-in for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. 
 
-2.	Export the floor plan to Dynamics 365 Layout.
+2.	Export the floor plan to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
 3.	Make the floor plan available for immersive headsets or [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens using [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
@@ -36,7 +36,7 @@ To work with a Visio floor plan in Dynamics 365 Layout, take these three steps:
 
 4.	Next to **Manage**, select **COM Add-ins**, and then select **Go**.
 
-5.	Select **Visio Add-in for Dynamics 365 Layout**, and then select **Add**.
+5.	Select **Visio Add-in for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]**, and then select **Add**.
 
 ### Export the floor plan to Dynamics 365 Layout
 
@@ -61,7 +61,7 @@ After you’ve created the floor plan in Visio, select the **Layout** tab, selec
        > [!div class="mx-imgBorder"]
        > ![Copy layouts](media/copy-layouts.PNG "Copy layouts") 
     
-    d.	On HoloLens, open the Layout app. You’ll find your floor plan on the **Layouts** tab.
+    d.	On HoloLens, open [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You’ll find your floor plan on the **Layouts** tab.
     
 ## Import layouts created with the HoloLens Layout app to use with immersive headsets
 
@@ -81,7 +81,7 @@ To use the layout on HoloLens, you need to move it there:
 
 3.	Select the check boxes for the layouts you want to copy, and then select **Send**.
 
-4.	On HoloLens, open the Layout app. You’ll find your layouts on the **Layouts** tab.
+4.	On HoloLens, open [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You’ll find your layouts on the **Layouts** tab.
 
 ## Import 3D models to use with HoloLens
 
@@ -91,7 +91,7 @@ To use the layout on HoloLens, you need to move it there:
 
 3.	Select the check boxes for the 3D models you want to copy, and then select **Send**.
 
-4.	On HoloLens, open the Dynamics 365 Layout app. You’ll find your 3D models on the **Models** tab.
+4.	On HoloLens, open [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You’ll find your 3D models on the **Models** tab.
 
 ## Import 3D models to use with immersive headsets
 
