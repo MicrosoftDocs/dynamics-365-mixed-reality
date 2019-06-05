@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview of Dynamics 365 Import Tool (Preview)
 
-If you’re using Microsoft [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you might want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models) into the applications. This guide shows you how to prepare your 3D models for use with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications using a combination of third-party tools and [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+If you’re using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you might want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models) into the applications. This guide shows you how to prepare your 3D models for use with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications using a combination of third-party tools and [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 ## glTF and GLB file formats
 All geometry in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications uses the Khronos Group glTF™ file format. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
@@ -26,7 +26,7 @@ Modeling tools in most CAD applications use sets of adjustable mathematical para
 > [!div class="mx-imgBorder"]
 > ![Parametric vs. polygonal geometry](media/compare-geometry.PNG "Parametric vs. polygonal geometry") 
 
-*Model visualized in Autodesk Inventor and Microsoft 3D Viewer*
+*Model visualized in Autodesk Inventor and [!include[cc-microsoft](../includes/cc-microsoft.md)] 3D Viewer*
 
 A.	Parametric 3D model ready for simulation and manufacturing<br>
 B.	Polygonal surface 3D model ready for real-time rendering
@@ -49,7 +49,7 @@ The following illustration shows a more detailed view of this process.
 **A.**	Create 3D models using the CAD software of your choice.<br>
 **B.**	Convert CAD files to one of these file formats: FBX, OBJ, JT, STP, or SKP.<br>
 **C.**	Optimize your 3D model and convert it to GLB.<br>
-**D.**	Use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare content for Microsoft HoloLens, immersive headsets, or mobile devices.<br>
+**D.**	Use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare content for [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens, immersive headsets, or mobile devices.<br>
 **E.**	3D models are ready to be imported into Dynamics 365 mixed-reality applications.
 
 ### See also
