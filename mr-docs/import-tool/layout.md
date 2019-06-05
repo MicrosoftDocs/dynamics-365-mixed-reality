@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Work with Dynamics 365 Layout
 
-With Microsoft Dynamics 365 Layout, you can work with floor plans created with Microsoft Visio, or you can create a layout with the HoloLens app. You can use Dynamics 365 Import Tool (Preview) to make either type of layout available for immersive headsets. 
+With Microsoft Dynamics 365 Layout, you can work with floor plans created with Microsoft Visio, or you can create a layout with the HoloLens app. You can use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to make either type of layout available for immersive headsets. 
 
 ## Import a Microsoft Visio floor plan
 
@@ -21,11 +21,11 @@ To work with a Visio floor plan in Dynamics 365 Layout, take these three steps:
 
 2.	Export the floor plan to Dynamics 365 Layout.
 
-3.	Make the floor plan available for immersive headsets or Microsoft HoloLens using the Import Tool.
+3.	Make the floor plan available for immersive headsets or Microsoft HoloLens using [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 ### Install the Visio add-in for Dynamics 365 Layout
 
-1.	Open the Import Tool.
+1.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 2.	Select **Settings**, and then select the 32-bit or the 64-bit download. Choose the one that matches your version of Visio.
 
@@ -44,7 +44,7 @@ After you’ve created the floor plan in Visio, select the **Layout** tab, selec
 
 ### Make the floor plan available for immersive headsets or HoloLens
 
-1.	In the Import Tool, select **This PC** > **Add layout**, and then navigate to the floor plan.
+1.	In [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], select **This PC** > **Add layout**, and then navigate to the floor plan.
 
 2.	Select the floor plan, and then select **Open**.
 
@@ -54,7 +54,7 @@ After you’ve created the floor plan in Visio, select the **Layout** tab, selec
     
     a.	Connect your HoloLens to your PC using the USB cable.
 
-    b.	Open the Import Tool on the PC, and then select **This PC** > **Layouts**.
+    b.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] on the PC, and then select **This PC** > **Layouts**.
 
     c.	Select the check box on the layouts you want to copy, and then select **Send**.
     
@@ -67,7 +67,7 @@ After you’ve created the floor plan in Visio, select the **Layout** tab, selec
 
 1.	Connect your HoloLens to your PC using the USB cable.
 
-2.	Open the Import Tool on the PC, and then select **HoloLens name** > **Layouts**.
+2.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] on the PC, and then select **HoloLens name** > **Layouts**.
 
 3.	Select the check boxes for the layouts you want to copy, and then select **Send**.
 
@@ -77,7 +77,7 @@ To use the layout on HoloLens, you need to move it there:
 
 1.	Connect your HoloLens to your PC using the USB cable.
 
-2.	Open the Import Tool on the PC, and then select **This PC** > **Layouts**.
+2.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] on the PC, and then select **This PC** > **Layouts**.
 
 3.	Select the check boxes for the layouts you want to copy, and then select **Send**.
 
@@ -87,7 +87,7 @@ To use the layout on HoloLens, you need to move it there:
 
 1.	Connect your HoloLens to your PC using the USB cable.
 
-2.	Open the Import Tool on the PC, and then select **This PC** > **Models**.
+2.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] on the PC, and then select **This PC** > **Models**.
 
 3.	Select the check boxes for the 3D models you want to copy, and then select **Send**.
 
@@ -95,14 +95,14 @@ To use the layout on HoloLens, you need to move it there:
 
 ## Import 3D models to use with immersive headsets
 
-If you used the Import Tool to import your 3D models, they’re already available for immersive headsets. You can find them in your **3D objects** folder. 
+If you used [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to import your 3D models, they’re already available for immersive headsets. You can find them in your **3D objects** folder. 
 
 ### See also
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
-[Use the Import Tool (Preview)](import-tool.md)
+[Use Dynamics 365 Import Tool (Preview)](import-tool.md)
     
 
 
