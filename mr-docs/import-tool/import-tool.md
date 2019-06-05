@@ -14,11 +14,11 @@ ms.reviewer: v-brycho
 > [!div class="mx-imgBorder"]
 > ![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
 
-Use Microsoft Dynamics 365 Import Tool (Preview) to prepare your 3D models to use in Dynamics 365 mixed-reality applications. 
+Use Microsoft [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models to use in Dynamics 365 mixed-reality applications. 
 
 ## Two options for preparing 3D models
 
-The Import Tool provides two options for preparing your 3D models: 
+[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] provides two options for preparing your 3D models: 
 
 > [!div class="mx-imgBorder"]
 > ![Import Tool options](media/import-tool-options.PNG "Import Tool options") 
@@ -33,7 +33,7 @@ If you choose the **Send model to Microsoft** option, Microsoft converts and opt
 
 ### Import using this PC option
 
-1.	On your PC, open the Import Tool.
+1.	On your PC, open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 2.	Select **Models** > **PC**, and then select **Add models**.
 
@@ -53,7 +53,7 @@ If you choose the **Send model to Microsoft** option, Microsoft converts and opt
 
 ### Send model to Microsoft option
 
-1.	On your PC, open the Import Tool.
+1.	On your PC, open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 2.	Select **Models** > **PC**, and then select **Add models**.
 
@@ -90,7 +90,7 @@ When you send your model to Microsoft, it’s uploaded to a secure location. Mic
 
 ## Download a model after it's been converted and optimized by Microsoft
 
-1.	Open the Import Tool.
+1.	Open the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 2.	Right-click the model that was submitted for manual processing, and then select **Download from Microsoft**.
 
@@ -99,9 +99,9 @@ When you send your model to Microsoft, it’s uploaded to a secure location. Mic
 
 ## Locate your converted assets
 
-Files created with the Import Tool are stored locally. To find the files on your local drive:
+Files created with [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] are stored locally. To find the files on your local drive:
 
-1.	Open the Import Tool.
+1.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 2.	Right-click a model, and then select **Open file location**.
 
