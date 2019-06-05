@@ -48,7 +48,7 @@ After you’ve created the floor plan in [!include[pn-visio](../includes/pn-visi
 
 2.	Select the floor plan, and then select **Open**.
 
-    If you’re using an immersive headset connected to the same PC, the floor plan shows up automatically in Layout. You don’t need to do anything more.
+    If you’re using an immersive headset connected to the same PC, the floor plan shows up automatically in [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. You don’t need to do anything more.
 
     If you’re using [!include[pn-hololens](../includes/pn-hololens.md)]:
     
