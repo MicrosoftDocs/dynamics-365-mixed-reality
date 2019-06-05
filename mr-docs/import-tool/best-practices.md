@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Best practices for converting and optimizing real-time 3D models
 
-This topic covers best practices for converting and optimizing 3D models to work with Dynamics 365 mixed-reality applications.
+This topic covers best practices for converting and optimizing 3D models to work with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications.
 
 ## Reduce materials and surfacing
 
@@ -118,9 +118,6 @@ This topic covers best practices for converting and optimizing 3D models to work
 
    **A.**	3D model with normal flipped<br>
    **B.**	3D model with fixed normal
-
-<!--note from editor: Can the heading below be changed to active verb form for consistency with others?   -->
-
 
 ## Conflicting tangent basis
 
