@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 ![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
 
-HTo use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you choose in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you choose in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 ## Options and file types for Dynamics 365 Import Tool (Preview) 
 
@@ -27,13 +27,13 @@ The following table describes the two options and the file formats supported for
 |Option|Description|Supported file formats|
 |------------|-----------------------------------------------------------------|-----------------------------|
 |Import using this PC|Use this option if you want to import self-authored models without any optimization.|GLB only|
-|Send model to Microsoft|Use this option if you need Microsoft’s assistance optimizing and converting your 3D model. Microsoft uses a combination of automation and manual steps to prepare the files. |FBX, OBJ, JT, STP, and SKP|
+|Send model to [!include[cc-microsoft](../includes/cc-microsoft.md)]|Use this option if you need Microsoft’s assistance optimizing and converting your 3D model. [!include[cc-microsoft](../includes/cc-microsoft.md)] uses a combination of automation and manual steps to prepare the files. |FBX, OBJ, JT, STP, and SKP|
 
 ## Tools for exporting CAD models
 
 CAD models can be exported directly to glTF format or into intermediate formats that can be subsequently processed into glTF files. If your content-creation application does not have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat) or [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file), if available. Third-party applications are available to import FBX or OBJ files and export them as glTF/GLB files. 
 
-Your use of third-party applications is subject to terms between you and the third party. Microsoft does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
+Your use of third-party applications is subject to terms between you and the third party. [!include[cc-microsoft](../includes/cc-microsoft.md)] does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
 
 |Content-creation package|Description|
 |-----------------------------------------------|---------------------------------------------------------------|
