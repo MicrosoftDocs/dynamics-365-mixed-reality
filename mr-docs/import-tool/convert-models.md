@@ -13,11 +13,11 @@ ms.reviewer: v-brycho
 
 ![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
 
-To use your 3D models with Dynamics 365 mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you choose in Microsoft Dynamics 365 Import Tool (Preview).
+To use your 3D models with Dynamics 365 mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you choose in Microsoft [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 ## Import Tool options and file types
 
-The Import Tool provides two options for preparing your 3D models: 
+The [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] provides two options for preparing your 3D models: 
 
 ![Import Tool options](media/import-tool-options.PNG "Import Tool options") 
 
@@ -51,7 +51,7 @@ In situations where a CAD application doesn’t have an export option for FBX, O
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing models](best-practices.md)<br>
-[Use the Import Tool](import-tool.md)
+[Use Dynamics 365 Import Tool (Preview)](import-tool.md)
 
 
 
