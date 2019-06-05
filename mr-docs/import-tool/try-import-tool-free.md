@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Try Dynamics 365 Import Tool (Preview) for free
 
-HYou can try [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for free for up to 90 days. Starting a 90-day trial is nearly effortless. Just install the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] app from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, sign in with an [!include[pn-azure](../includes/pn-azure.md)] Active Directory ([!include[pn-azure](../includes/pn-azure.md)] AD) account, and then start using the app without any obligation or restrictions. If you don't already have an [!include[pn-azure](../includes/pn-azure.md)] AD account, you'll be prompted to create a free account.
+You can try [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for free for up to 90 days. Starting a 90-day trial is nearly effortless. Just install the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] app from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, sign in with an [!include[pn-azure](../includes/pn-azure.md)] Active Directory ([!include[pn-azure](../includes/pn-azure.md)] AD) account, and then start using the app without any obligation or restrictions. If you don't already have an [!include[pn-azure](../includes/pn-azure.md)] AD account, you'll be prompted to create a free account.
 
 ## Install Dynamics 365 Import Tool (Preview) on a trial basis
 
