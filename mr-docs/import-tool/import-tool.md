@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 > [!div class="mx-imgBorder"]
 > ![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
 
-Use Microsoft [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models to use in Dynamics 365 mixed-reality applications. 
+Use Microsoft [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models to use in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications. 
 
 ## Two options for preparing 3D models
 
