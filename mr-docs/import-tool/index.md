@@ -49,14 +49,14 @@ The following illustration shows a more detailed view of this process.
 **A.**	Create 3D models using the CAD software of your choice.<br>
 **B.**	Convert CAD files to one of these file formats: FBX, OBJ, JT, STP, or SKP.<br>
 **C.**	Optimize your 3D model and convert it to GLB.<br>
-**D.**	Use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare content for Microsoft HoloLens, immersive headsets, or mobile devices.<br>
+**D.**	Use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare content for Microsoft HoloLens, immersive headsets, or mobile devices.<br>
 **E.**	3D models are ready to be imported into Dynamics 365 mixed-reality applications.
 
 ### See also
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
-[Use the Import Tool](import-tool.md)
+[Use Dynamics 365 Import Tool (Preview)](import-tool.md)
 
 
 
