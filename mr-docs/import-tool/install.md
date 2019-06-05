@@ -11,12 +11,12 @@ ms.reviewer: v-brycho
 
 # Install Dynamics 365 Import Tool (Preview)
 
-[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] is included with Dynamics 365 Layout, so you'll need a subscription to Dynamics 365 Layout to use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] is included with [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], so you'll need a subscription to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] to use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 > [!TIP] 
-> You can try both Dynamics 365 Layout and [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for free for up to 90 days:<br>[Learn more about the 90-day trial for Dynamics 365 Layout](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/try-layout-free).<br>[Learn more about the 90-day trial for Dynamics 365 Import Tool (Preview)](try-import-tool-free.md).
+> You can try both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for free for up to 90 days:<br>[Learn more about the 90-day trial for Dynamics 365 Layout](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/try-layout-free).<br>[Learn more about the 90-day trial for Dynamics 365 Import Tool (Preview)](try-import-tool-free.md).
 
-After you have a subscription to Dynamics 365 Layout and [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], how you install [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] depends on how your administrator chooses 
+After you have a subscription to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], how you install [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] depends on how your administrator chooses 
 to distribute the app. Your admin might have you install the app from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, from your organization’s private store, 
 through an email link, or another method.
 
