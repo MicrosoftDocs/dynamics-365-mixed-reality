@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Requirements for installing Dynamics 365 Import Tool (Preview)
 
-To install and use Microsoft [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], you'll need the following:
+To install and use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], you'll need the following:
 
 - [A subscription to Dynamics 365 Layout](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/buy-and-deploy-layout). The 
 Layout subscription includes a subscription to [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
