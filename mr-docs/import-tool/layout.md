@@ -11,13 +11,13 @@ ms.reviewer: v-brycho
 
 # Work with Dynamics 365 Layout
 
-With [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], you can work with floor plans created with Microsoft Visio, or you can create a layout with the HoloLens app. You can use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to make either type of layout available for immersive headsets. 
+With [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], you can work with floor plans created with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)], or you can create a layout with the HoloLens app. You can use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to make either type of layout available for immersive headsets. 
 
 ## Import a Microsoft Visio floor plan
 
-To work with a Visio floor plan in [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], take these three steps:
+To work with a [!include[pn-visio](../includes/pn-visio.md)] floor plan in [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], take these three steps:
 
-1.	Install the Visio add-in for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. 
+1.	Install the [!include[pn-visio](../includes/pn-visio.md)] add-in for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]. 
 
 2.	Export the floor plan to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
@@ -27,20 +27,20 @@ To work with a Visio floor plan in [!include[pn-dyn-365-layout](../includes/pn-d
 
 1.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
-2.	Select **Settings**, and then select the 32-bit or the 64-bit download. Choose the one that matches your version of Visio.
+2.	Select **Settings**, and then select the 32-bit or the 64-bit download. Choose the one that matches your version of [!include[pn-visio](../includes/pn-visio.md)].
 
     > [!div class="mx-imgBorder"]
     > ![Visio add-in](media/visio-add-in.PNG "Visio add-in") 
 
-3.	Open Visio, and then select **File** > **Options** > **Add-ins**.
+3.	Open [!include[pn-visio](../includes/pn-visio.md)], and then select **File** > **Options** > **Add-ins**.
 
 4.	Next to **Manage**, select **COM Add-ins**, and then select **Go**.
 
-5.	Select **Visio Add-in for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]**, and then select **Add**.
+5.	Select **[!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]**, and then select **Add**.
 
 ### Export the floor plan to Dynamics 365 Layout
 
-After you’ve created the floor plan in Visio, select the **Layout** tab, select **Export**, and then save your floor plan.
+After you’ve created the floor plan in [!include[pn-visio](../includes/pn-visio.md)], select the **Layout** tab, select **Export**, and then save your floor plan.
 
 ### Make the floor plan available for immersive headsets or HoloLens
 
