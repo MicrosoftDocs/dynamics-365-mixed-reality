@@ -1,7 +1,7 @@
 ---
-author: MatthewJonPaul
+author: drpusey
 description: Dynamics 365 Remote Assist mobile app user guide
-ms.author: mapau
+ms.author: drpusey
 ms.date: 04/02/2019
 ms.service: crm-online
 ms.topic: article
