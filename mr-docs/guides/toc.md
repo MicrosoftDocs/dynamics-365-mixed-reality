@@ -1,5 +1,7 @@
 # Dynamics 365 Guides in preview
 ## [Overview](index.md)
+## What's new
+### [June 30](new-june.md)
 ## [Sign up for preview](setup.md)
 ## [Upgrade the Guides solution (for admins)](upgrade.md)
 ## [Get started](get-started.md)
