@@ -21,9 +21,13 @@ send a check or money order for US $5.00, including the product name, the open
 source component name, and version number, to:
 
 Source Code Compliance Team
+
 Microsoft Corporation
+
 One Microsoft Way
+
 Redmond, WA 98052
+
 USA
 
 Notwithstanding any other terms, you may reverse engineer this software to the 
