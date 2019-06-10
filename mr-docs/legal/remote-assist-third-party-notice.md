@@ -11,12 +11,24 @@ robots: noindex, nofollow
 
 # DYNAMICS 365 REMOTE ASSIST THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 
+DNOTICES AND INFORMATION
+
 Do Not Translate or Localize
 
-This product incorporates copyrighted material from the open source projects listed below (Third Party IP). 
-The license terms of Microsoft Corporation’s product do not apply to the Third Party IP which is licensed to you 
-under its original license terms which are provided below. Microsoft reserves all rights not expressly granted herein, 
-whether by implication, estoppel or otherwise.
+This software incorporates material from third parties. Microsoft makes certain 
+open source code available at http://3rdpartysource.microsoft.com, or you may 
+send a check or money order for US $5.00, including the product name, the open 
+source component name, and version number, to:
+
+Source Code Compliance Team
+Microsoft Corporation
+One Microsoft Way
+Redmond, WA 98052
+USA
+
+Notwithstanding any other terms, you may reverse engineer this software to the 
+extent required to debug changes to any libraries licensed under the GNU Lesser 
+General Public License.
 
 ****
 SQLite.Net-PCL 3.1.1
@@ -454,27 +466,6 @@ ARISING IN ANY WAY &ast; OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 this code cannot simply be copied and put under another distribution license [including the GNU Public License.] */
 
 ****
-NOTICES AND INFORMATION
-
-Do Not Translate or Localize
-
-This software incorporates material from third parties. Microsoft makes certain 
-open source code available at http://3rdpartysource.microsoft.com, or you may 
-send a check or money order for US $5.00, including the product name, the open 
-source component name, and version number, to:
-
-Source Code Compliance Team
-Microsoft Corporation
-One Microsoft Way
-Redmond, WA 98052
-USA
-
-Notwithstanding any other terms, you may reverse engineer this software to the 
-extent required to debug changes to any libraries licensed under the GNU Lesser 
-General Public License.
-
-=========
-
 Noto CJK - NotoSansCJKjp
 
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
