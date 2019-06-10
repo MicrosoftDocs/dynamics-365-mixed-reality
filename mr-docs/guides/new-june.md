@@ -1,4 +1,4 @@
-# What's new in the June 30 release
+# What's new in Dynamics 365 Guides (June 30, 2019)
 
 ## Feature 1
 
