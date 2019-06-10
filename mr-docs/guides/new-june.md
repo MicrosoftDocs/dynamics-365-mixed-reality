@@ -1,4 +1,4 @@
-# What's new in Dynamics 365 Guides (June 30, 2019)
+# What's new in Dynamics 365 Guides (June 25, 2019)
 
 ## Feature 1
 
