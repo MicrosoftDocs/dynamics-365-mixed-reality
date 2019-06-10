@@ -2,7 +2,7 @@
 author: ReneeW-CPub
 description: Third-Party Software Notices and Information
 ms.author: renwe
-ms.date: 06/04/2019
+ms.date: 06/11/2019
 ms.service: crm-online
 ms.topic: article
 title: Third-Party Software Notices and Information
