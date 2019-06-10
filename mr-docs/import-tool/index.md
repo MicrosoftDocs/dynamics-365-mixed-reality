@@ -47,8 +47,8 @@ The following illustration shows a more detailed view of this process.
 > ![Overall flow](media/overall-flow.PNG "Overall flow") 
 
 **A.**	Create 3D models using the CAD software of your choice.<br>
-**B.**	Convert CAD files to one of these file formats: FBX, OBJ, JT, STP, or SKP.<br>
-**C.**	Optimize your 3D model and convert it to GLB.<br>
+**B.**	Convert CAD files to one of these file formats: GLB, glTF, FBX, OBJ, 3MF, STL, or PLY .<br>
+**C.**	Optimize your 3D model and export as a GLB, glTF, FBX, OBJ, 3MF, STL, or PLY.<br>
 **D.**	Use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare content for [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens, immersive headsets, or mobile devices.<br>
 **E.**	3D models are ready to be imported into [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications.
 
