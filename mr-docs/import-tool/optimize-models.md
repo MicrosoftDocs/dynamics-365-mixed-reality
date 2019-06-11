@@ -1,8 +1,8 @@
 ---
-author: BryceHo
+author: JBrentJ
 description: How to optimize your 3D (CAD) models to use with Dynamics 365 Import Tool (Preview)
-ms.author: BryceHo
-ms.date: 04/26/2019
+ms.author: v-jerja
+ms.date: 06/17/2019
 ms.service: crm-online
 ms.topic: article
 title: Optimize your 3D models to use with Dynamics 365 Import Tool (Preview)
