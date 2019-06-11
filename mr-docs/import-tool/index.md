@@ -48,7 +48,7 @@ The following illustration shows a more detailed view of this process.
 
 **A.**	Create 3D models using the CAD software of your choice.<br>
 **B.**	Convert CAD files to one of these file formats: GLB, glTF, FBX, OBJ, 3MF, STL, PLY, JT, SKP, or STP.<br>
-**C.**	If you saved your model as one of the file formats with a red asterisk next to it, you can optimize your 3D model yourself and use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to convert the 3D model to a GLB locally. If you use any of the listed formats, including those with the red asterisks, you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for manual optimization and conversion to a supported format.<br>
+**C.**	If you save your model as one of the file formats with a red asterisk next to it, you can optimize your 3D model yourself and use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to convert the 3D model to a GLB locally. If you use any of the listed formats, including those with the red asterisks, you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for manual optimization and conversion to a supported format.<br>
 **E.**	3D models are optimized and converted into the GLB format and ready to be imported into [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications.
 
 ### See also
