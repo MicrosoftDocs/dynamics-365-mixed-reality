@@ -1,8 +1,8 @@
 ---
-author: BryceHo
+author: JBrentJ
 description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
-ms.author: BryceHo
-ms.date: 04/26/2019
+ms.author: v-jerja
+ms.date: 06/19/2019
 ms.service: crm-online
 ms.topic: article
 title: Use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
@@ -47,9 +47,6 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
     > ![Import using this PC option](media/import-using-pc-option.PNG "Import using this PC option") 
 
 6.	Select **Apply**.
-
-    > [!NOTE]
-    > The **Import using this PC** option isn’t available if any of your source models are not in GLB file format.
 
 ### Send model to Microsoft option
 
