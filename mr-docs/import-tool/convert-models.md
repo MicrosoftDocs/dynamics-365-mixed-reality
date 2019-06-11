@@ -13,11 +13,11 @@ ms.reviewer: v-brycho
 
 ![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
 
-To use your 3D models with Dynamics 365 mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you choose in Microsoft Dynamics 365 Import Tool (Preview).
+To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you choose in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
-## Import Tool options and file types
+## Options and file types for Dynamics 365 Import Tool (Preview) 
 
-The Import Tool provides two options for preparing your 3D models: 
+The [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] provides two options for preparing your 3D models: 
 
 ![Import Tool options](media/import-tool-options.PNG "Import Tool options") 
 
@@ -27,13 +27,13 @@ The following table describes the two options and the file formats supported for
 |Option|Description|Supported file formats|
 |------------|-----------------------------------------------------------------|-----------------------------|
 |Import using this PC|Use this option if you want to import self-authored models without any optimization.|GLB only|
-|Send model to Microsoft|Use this option if you need Microsoft’s assistance optimizing and converting your 3D model. Microsoft uses a combination of automation and manual steps to prepare the files. |FBX, OBJ, JT, STP, and SKP|
+|Send model to [!include[cc-microsoft](../includes/cc-microsoft.md)]|Use this option if you need Microsoft’s assistance optimizing and converting your 3D model. [!include[cc-microsoft](../includes/cc-microsoft.md)] uses a combination of automation and manual steps to prepare the files. |FBX, OBJ, JT, STP, and SKP|
 
 ## Tools for exporting CAD models
 
 CAD models can be exported directly to glTF format or into intermediate formats that can be subsequently processed into glTF files. If your content-creation application does not have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat) or [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file), if available. Third-party applications are available to import FBX or OBJ files and export them as glTF/GLB files. 
 
-Your use of third-party applications is subject to terms between you and the third party. Microsoft does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
+Your use of third-party applications is subject to terms between you and the third party. [!include[cc-microsoft](../includes/cc-microsoft.md)] does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
 
 |Content-creation package|Description|
 |-----------------------------------------------|---------------------------------------------------------------|
@@ -51,7 +51,7 @@ In situations where a CAD application doesn’t have an export option for FBX, O
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing models](best-practices.md)<br>
-[Use the Import Tool](import-tool.md)
+[Use Dynamics 365 Import Tool (Preview)](import-tool.md)
 
 
 
