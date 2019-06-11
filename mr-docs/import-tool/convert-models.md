@@ -1,7 +1,7 @@
 ---
-author: BryceHo
+author: JBrentJ
 description: Everything you need to know about converting 3D models to use with Dynamics 365 Import Tool (Preview)
-ms.author: BryceHo
+ms.author: v-jerja
 ms.date: 06/17/2019
 ms.service: crm-online
 ms.topic: article
