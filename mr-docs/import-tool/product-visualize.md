@@ -21,9 +21,9 @@ There are two ways to prepare CAD files to work with Dynamics 365 Product Visual
 
 1. Create your own GLB files using these topics for reference:
 
-   - [Convert your 3D models](convert-models.md)
+   - [Convert your 3D (CAD) models](convert-models.md)
    
-   - [Optimize your 3D modesl](optimize-models.md)
+   - [Optimize your 3D models](optimize-models.md)
    
    - [Best practices for 3D models](best-practices.md).
 
