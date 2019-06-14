@@ -2,7 +2,7 @@
 
 # Work with Dynamics 365 Product Visualize
 
-You can use Dynamics 365 Import Tool (Preview) to prepare CAD files to use with Dynamics 365 Product Visualize. After preparing the 3D models, upload them to Dynamics 365 Product Visualize. [THINKING THIS WOULD BE A LINK. OR, WE COULD PUT THE INFO IN THIS TOPIC].
+You can use Dynamics 365 Import Tool (Preview) to prepare CAD files to use with Dynamics 365 Product Visualize. After preparing the CAD models, upload the 3D models to Dynamics 365 Product Visualize.
 
 1. Prepare your 3D models using the **Import using this PC** option or the **Send model to Microsoft** option as described in the [Use Dynamics 365 Import Tool (Preview) topic](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool#two-options-for-preparing-3d-models). 
 
