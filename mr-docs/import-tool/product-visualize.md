@@ -12,11 +12,11 @@ You can use either of the followiong options to prepare your 3D models
 
 1. Create your own GLB files using these topics for reference:
 
-   - [Convert 3D models](convert-models.md)
+   - [Convert your 3D models](convert-models.md)
    
-   - [Optimize 3D modesl](optimize-models.md)
+   - [Optimize your 3D modesl](optimize-models.md)
    
-   - [Best practices](best-practices.md).
+   - [Best practices for 3D models](best-practices.md).
 
 2. Upload your files to Dynamics 365 Product Visualize as described in [Set up Dynamics 365 Product Visualize on an existing Dynamics 365 for Sales instance](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/product-visualize/setup-existing-instance).
 
@@ -30,11 +30,11 @@ You can use either of the followiong options to prepare your 3D models
 
 ### See also
 
-[Convert 3D models](convert-models.md)<br>
+[Convert your 3D models](convert-models.md)<br>
    
-[Optimize 3D modesl](optimize-models.md)<br>
+[Optimize your 3D models](optimize-models.md)<br>
    
-[Best practices](best-practices.md)<br>
+[Best practices for 3D models](best-practices.md)<br>
 
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)<br>
 
