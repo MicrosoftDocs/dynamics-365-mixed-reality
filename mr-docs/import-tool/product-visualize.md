@@ -17,9 +17,9 @@ There are two ways to prepare CAD files to work with Dynamics 365 Product Visual
 
 - Use Dynamics 365 Import Tool (Preview) to prepare your files.
 
-### Create your own GLB files
+## Convert and optimize your own GLB files
 
-1. Create your own GLB files using these topics for reference:
+1. Convert and optimize your own GLB files using these topics for reference:
 
    - [Convert your 3D (CAD) models](convert-models.md)
    
@@ -29,7 +29,7 @@ There are two ways to prepare CAD files to work with Dynamics 365 Product Visual
 
 2. Upload your files to Dynamics 365 Product Visualize as described in [Set up Dynamics 365 Product Visualize on an existing Dynamics 365 for Sales instance](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/product-visualize/setup-existing-instance).
 
-### Use Dynamics 365 Import Tool (Preview) to prepare your GLB files
+## Use Dynamics 365 Import Tool (Preview) to prepare your GLB files
 
 2. Prepare your 3D models using the **Import using this PC** option or the **Send model to Microsoft** option as described in the [Use Dynamics 365 Import Tool (Preview)](import-tool.md). 
 
