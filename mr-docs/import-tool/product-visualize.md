@@ -2,11 +2,11 @@
 
 # Work with Dynamics 365 Product Visualize
 
-You can use Dynamics 365 Import Tool (Preview) to prepare CAD files to use with Dynamics 365 Product Visualize. 
+There are two ways to prepare CAD files to work with Dynamics 365 Product Visualize
 
-## Two options for preparing 3D models
+- Create your own GLB files
 
-You can use either of the followiong options to prepare your 3D models
+- Use Dynamics 365 Import Tool (Preview) to prepare your files
 
 ### Create and upload your own GLB files
 
