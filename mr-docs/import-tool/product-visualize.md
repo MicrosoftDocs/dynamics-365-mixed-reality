@@ -41,7 +41,7 @@ There are two ways to prepare CAD files to work with Dynamics 365 Product Visual
 
 ### See also
 
-[Convert your 3D models](convert-models.md)<br>
+[Convert your 3D (CAD) models](convert-models.md)<br>
    
 [Optimize your 3D models](optimize-models.md)<br>
    
