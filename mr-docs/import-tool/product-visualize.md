@@ -13,9 +13,9 @@ ms.reviewer: v-brycho
 
 There are two ways to prepare CAD files to work with Dynamics 365 Product Visualize:
 
-- Create your own GLB files
+- Create your own GLB files.
 
-- Use Dynamics 365 Import Tool (Preview) to prepare your files
+- Use Dynamics 365 Import Tool (Preview) to prepare your files.
 
 ### Create your own GLB files
 
