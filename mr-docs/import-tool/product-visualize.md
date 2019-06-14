@@ -33,7 +33,7 @@ There are two ways to prepare CAD files to work with Dynamics 365 Product Visual
 
 1. Prepare your 3D models using the **Import using this PC** option or the **Send model to Microsoft** option as described in [Use Dynamics 365 Import Tool (Preview)](import-tool.md). 
 
-2. After using Dynamics 365 Import Tool (Preview), go to c:\users\[username]\3D Objects\Microsoft Layout.
+2. After using Dynamics 365 Import Tool (Preview), go to **c:\users\[username]\3D Objects\Microsoft Layout**.
 
 3. Copy the GLB files.
 
