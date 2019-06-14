@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Work with Dynamics 365 Product Visualize
 
-There are two ways to prepare CAD files to work with Dynamics 365 Product Visualize
+There are two ways to prepare CAD files to work with Dynamics 365 Product Visualize:
 
 - Create your own GLB files
 
