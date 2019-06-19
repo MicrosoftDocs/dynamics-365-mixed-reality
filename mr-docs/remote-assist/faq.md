@@ -54,6 +54,22 @@ Go to **Settings**, and then find the version number in the **About** section.
 
 At this time, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is available in English and Japanese.
 
+## What languages are voice commands and speech recognition available for?
+
+At this time, voice commands and speech recognition are available for the following languages:
+
+-	English (US)
+-	English (Canada)
+-	English (United Kingdom)
+-	English (Australia)
+-	Chinese (China)
+-	French (France)
+-	French (Canada)
+-	German (Germany)
+-	Italian (Italy)
+-	Japanese (Japan)
+-	Spanish (Spain)
+
 ## Where is Remote Assist available?
 
 [!include[pn-remote-assist](../includes/pn-remote-assist.md)], which requires [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
