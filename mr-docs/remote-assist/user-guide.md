@@ -70,6 +70,9 @@ interface or by using voice commands, when available. To use a voice command,
 say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say the voice command. [Learn more about voice
 commands.](#voice)
 
+> [!NOTE]
+> At this time, voice commands and speech recognition are available in specific languages. [Learn more](faq.md). 
+
 ## Make and receive calls
 
 How you make a call depends on whether you're calling a contact in your company or outside your company.
@@ -341,7 +344,7 @@ To undo your most recent action, including **Erase all**:
 
 In many cases, you can use voice commands and gaze instead of gestures. Some voice
 commands are contextual, so they only work in particular areas of the user
-interface.
+interface. At this time, voice commands and speech recognition are [available in specific languages](faq.md). 
 
 > [!IMPORTANT]
 > To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. For example, say "[!include[pn-remote-assist](../includes/pn-remote-assist.md)], Move" to enter Move mode for a slate (window). You can also gaze at any button and say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)], Select” to select that button.
