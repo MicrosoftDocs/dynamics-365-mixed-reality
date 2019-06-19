@@ -62,55 +62,34 @@ After placing a model, if you want to view a different model, you can switch mod
 
 ## Move, rotate, or change the size of your model
 
-Chances are, you’ll want to move, rotate, or change the size of your model in some way after you place it. You use the **Transform** button to do any of these actions after placing your model.
+Chances are, you’ll want to move, rotate, or change the size of your model in some way after you place it. You can use various gestures to do any of these actions after placing your model.
 
 ![Transform item)](media/transform-model.PNG "Transform item")
 
 ### Change the size of your model
 
+Spread or pinch your fingers on the screen to change the size of the model. You can also double-tap to switch between the default size and life size.
 When you change the size of your model, you can switch between the default size and life size. 
 
-1.	Select **Transform** on the right side of the screen.
-
-2.	Select **Resize**. 
-
-    ![Resize item)](media/resize.PNG "Resize item")
-
-3.	Spread or pinch your fingers to change the size of the model.
-
-    > [!TIP]
-    > Select **Undo** if you ever need to undo your changes when you’re transforming the model.
+![Resize item)](media/resize.PNG "Resize item")
 
 ### Rotate your model  
 
-1.	Select **Transform** on the right side of the screen.
+Rotate your fingers on the screen to rotate the model.
 
-2.	Select **Rotate**. 
-
-    ![Rotate item)](media/rotate.PNG "Rotate item")
-  
-3.	Drag your finger on the screen to rotate the model. 
+![Rotate item)](media/rotate.PNG "Rotate item")
 
 ### Move the model
 
-1.	Select **Transform** on the right side of the screen.
+To move the model sideways, drag one finger on the screen.
 
-2.	Select **Move**.
-
-    ![Move item)](media/move.PNG "Move item")
-  
-3.	Drag your finger on the screen to move the model.  
+![Move item)](media/move.PNG "Move item")
 
 ### Move the model up or down
 
-1.	Select **Transform** on the right side of the screen.
+To move the model up or down, drag two fingers up or down on the screen.
 
-2.	Select **Lift**.
-
-    ![Lift item)](media/lift.PNG "Lift item")
-  
-3.	Drag your finger up or down on the screen. 
-
+![Lift item)](media/lift.PNG "Lift item")
 
 ### See also
 
