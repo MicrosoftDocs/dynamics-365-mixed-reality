@@ -68,14 +68,14 @@ Chances are, you’ll want to move, rotate, or change the size of your model in 
 
 ### Change the size of your model
 
-Spread or pinch your fingers on the screen to change the size of the model. You can also double-tap to switch between the default size and life size.
+Spread or pinch two fingers on the screen to change the size of the model. You can also double-tap to switch between the default size and life size.
 When you change the size of your model, you can switch between the default size and life size. 
 
 ![Resize item)](media/resize.PNG "Resize item")
 
 ### Rotate your model  
 
-Rotate your fingers on the screen to rotate the model.
+Rotate two fingers on the screen to rotate the model.
 
 ![Rotate item)](media/rotate.PNG "Rotate item")
 
