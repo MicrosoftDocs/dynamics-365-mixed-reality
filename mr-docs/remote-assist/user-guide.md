@@ -71,7 +71,7 @@ say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and the
 commands.](#voice)
 
 > [!NOTE]
-> At this time, voice commands and speech recognition are available in specific languages. [Learn more](https://review.docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq?branch=BryceHo-RA-voice#what-languages-are-voice-commands-and-speech-recognition-available-for). 
+> At this time, voice commands and speech recognition are [available in specific languages](https://review.docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq?branch=BryceHo-RA-voice#what-languages-are-voice-commands-and-speech-recognition-available-for). 
 
 ## Make and receive calls
 
