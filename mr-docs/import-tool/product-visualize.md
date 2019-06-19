@@ -35,7 +35,7 @@ There are two ways to prepare CAD files to work with Dynamics 365 Product Visual
 
 2. After using Dynamics 365 Import Tool (Preview), go to **c:\users\[username]\3D Objects\Microsoft Layout** and copy the GLB files.
 
-3. Add the files to Dynamics 365 Product Visualize as described in [Set up Dynamics 365 Product Visualize on an existing Dynamics 365 for Sales instance](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/product-visualize/setup-existing-instance).
+3. [Add the files to Dynamics 365 Product Visualize](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/product-visualize/setup-existing-instance#add-3d-models-to-your-products). 
 
 ### See also
 
@@ -47,7 +47,7 @@ There are two ways to prepare CAD files to work with Dynamics 365 Product Visual
 
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)<br>
 
-[Set up Dynamics 365 Product Visualize on an existing Dynamics 365 for Sales instance](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/product-visualize/setup-existing-instance)
+[Add 3D models to Dynamics 365 Product Visualize](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/product-visualize/setup-existing-instance#add-3d-models-to-your-products)
 
 
 
