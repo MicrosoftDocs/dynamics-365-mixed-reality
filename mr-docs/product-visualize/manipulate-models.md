@@ -95,5 +95,6 @@ To move the model up or down, drag two fingers up or down on the screen.
 
 [Install, open, and sign in to the app](sign-in.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
+[View layers of your 3D model](layers.md)<br>
 [Add your own 3D models](add-model.md)<br>
 

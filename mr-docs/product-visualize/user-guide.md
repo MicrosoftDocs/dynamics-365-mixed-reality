@@ -21,5 +21,6 @@ This User guide describes everything you need to know about working with the app
 - [Install, open, and sign in to the app](sign-in.md)<br>
 - [Place and manipulate 3D models](manipulate-models.md)<br>
 - [Add a note to your 3D model](add-note.md)<br>
+- [View layers of your 3D model](layers.md)<br>
 - [Explore sample 3D models](explore-samples.md)
 
