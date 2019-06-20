@@ -64,15 +64,15 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 
     > [!div class="mx-imgBorder"]
     > ![Send model to Microsoft option](media/send-model-microsoft-a.png "Send model to Microsoft option")
-    
-6. Select **Next**.
+
+6.	Under **Enter your email address**, enter the email address where [!include[cc-microsoft](../includes/cc-microsoft.md)] can contact you when the model is ready.
+
+7. Select **Next**.    
+
+8. Under **Measurement unit for existing model**, select the measurement unit the model was created with. This will preserve that unit of measurement when Microsoft converts and optimizes the model.
 
     > [!div class="mx-imgBorder"]
     > ![Send model to Microsoft option, second page](media/send-model-microsoft-1.png "Send model to Microsoft option")
-
-7.	Under **Enter your email address**, enter the email address where [!include[cc-microsoft](../includes/cc-microsoft.md)] can contact you when the model is ready.
-
-8. Under **Measurement unit for existing model**, select the measurement unit the model was created with. This will preserve that unit of measurement when Microsoft converts and optimizes the model.
 
 9.	Under **Where will you use this model?**, choose the target device. You can only choose one type of target device at this time.
 
