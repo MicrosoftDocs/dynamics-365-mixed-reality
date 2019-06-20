@@ -1,6 +1,6 @@
 
 
-## What's new in Dynamics 365 Guides (June 25, 2019)
+## What's new in Dynamics 365 Guides (July 9, 2019)
 
 In the May release, we created a new flow for selecting an anchoring method. If you don't see these changes in the PC app, [your admin needs to do some updates](upgrade.md){:target="_blank"}.
  
