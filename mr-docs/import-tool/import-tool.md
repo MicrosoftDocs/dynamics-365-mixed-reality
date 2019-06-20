@@ -63,7 +63,7 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 5.	Under **How would you like to prepare the model?**, select **Send model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**.
 
     > [!div class="mx-imgBorder"]
-    > ![Send model to Microsoft option](media/send-model-microsoft.PNG "Send model to Microsoft option")
+    > ![Send model to Microsoft option](media/send-model-microsoft-1.png "Send model to Microsoft option")
 
 6.	Under **Enter your email address**, enter the email address where [!include[cc-microsoft](../includes/cc-microsoft.md)] can contact you when the model is ready.
 
