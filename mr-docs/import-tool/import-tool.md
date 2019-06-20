@@ -134,8 +134,8 @@ You can provide feedback on the quality of processed 3D models if you're not sat
 
 3D models sometimes reference other files in your file system, such as textures and materials files. Your imported 3D model may not look correct if Dynamics 365 Import Tool (Preview) can’t access these files, in which case, you may see this error dialog box:
 
-    > [!div class="mx-imgBorder"]
-    > ![File access errors dialog box](media/file-access-errors.PNG "File access errors dialog box") 
+> [!div class="mx-imgBorder"]
+> ![File access errors dialog box](media/file-access-errors.PNG "File access errors dialog box") 
 
 There are two primary reasons why Dynamics 365 Import Tool (Preview) might not have access to these files:
 
