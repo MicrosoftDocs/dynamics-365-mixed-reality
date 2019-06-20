@@ -78,7 +78,7 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 
 10.	Under **How many models will your scene have?**, select the appropriate option for your scene complexity. 
 
-11. In the **What's most important to you about your model** box, provide instructions for Microsoft. For example, specify which is most important to you--visual accuracy or performance.
+11. In the **What's most important to you about your model** box, provide instructions for Microsoft. For example, specify which is most important to you — visual accuracy or performance.
 
 12.	Select **Apply** to send the model to [!include[cc-microsoft](../includes/cc-microsoft.md)].
 
