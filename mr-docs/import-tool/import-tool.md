@@ -44,7 +44,7 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 5.	Under **How would you like to prepare the model?**, select **Import using this PC**.
 
     > [!div class="mx-imgBorder"]
-    > ![Import using this PC option](media/import-using-pc-option.png "Import using this PC option") 
+    > ![Import using this PC option](media/import-using-pc-option-1.png "Import using this PC option") 
     
 6. Under **Measurement unit for existing model**, select the measurement unit the model was created with. This will preserve that unit of measurement when you import the model.
 
