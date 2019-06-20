@@ -41,7 +41,7 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 
 4.	Select **Open**.
 
-5.	Select **Import using this PC**.
+5.	Under **How would you like to prepare the model?**, select **Import using this PC**.
 
     > [!div class="mx-imgBorder"]
     > ![Import using this PC option](media/import-using-pc-option-1.png "Import using this PC option") 
@@ -60,7 +60,7 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 
 4.	Select **Open**.
  
-5.	Select **Send model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**.
+5.	Under **How would you like to prepare the model?**, select **Send model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**.
 
     > [!div class="mx-imgBorder"]
     > ![Send model to Microsoft option](media/send-model-microsoft.PNG "Send model to Microsoft option")
