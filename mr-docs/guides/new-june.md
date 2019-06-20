@@ -11,8 +11,8 @@ ms.reviewer: v-brycho
 
 ## What's new in Dynamics 365 Guides (July 9, 2019)
 
-In the May release, we created a new flow for selecting an anchoring method. If you don't see these changes in the PC app, [your admin needs to do some updates](upgrade.md){:target="_blank"}.
- 
+In the May release, we created a new flow for selecting an anchoring method. If you don't see these changes in the PC app, [your admin needs to do some updates]<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 The June release brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
  
 ### Improved experience
