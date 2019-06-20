@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Requirements for installing Dynamics 365 Import Tool (Preview)
 ms.author: v-jerja
-ms.date: 06/17/2019
+ms.date: 06/21/2019
 ms.service: crm-online
 ms.topic: article
 title: Requirements for installing Dynamics 365 Import Tool (Preview)
