@@ -130,6 +130,19 @@ You can provide feedback on the quality of processed 3D models if you're not sat
     > [!NOTE] 
     > You can't update feedback after you submit it.
 
+## If you encounter file access errors when importing files
+
+3D models sometimes reference other files in your file system, such as textures and materials files. Your imported 3D model may not look correct if Dynamics 365 Import Tool (Preview) can’t access these files, in which case, you may see this error dialog box:
+
+    > [!div class="mx-imgBorder"]
+    > ![File access errors dialog box](media/file-access-errors.PNG "File access errors dialog box") 
+
+There are two primary reasons why Dynamics 365 Import Tool (Preview) might not have access to these files:
+
+- **No permissions**. For the safety and security of your files, Windows 10 does not allow all Windows Store applications full access to the files in your system. To allow Dynamics 365 Import Tool (Preview) access to your files, select **Grant permissions**, go to the folder that contains the file, and then select the folder. This will grant access to all files in the folder. Alternatively, you can move your 3D models and all their referenced files to the **3D Objects** folder.
+
+- **Missing files**. Dyanmics 365 Import Tool (Preview) expects the files to appear in the exact file paths listed in the dialog box. If files are not there, they will be marked as missing. Move the missing files to locations indicated in the dialog box, or update the original 3D model.
+
 ### See also
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
