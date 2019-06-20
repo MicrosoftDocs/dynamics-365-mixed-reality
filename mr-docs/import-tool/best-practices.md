@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Best practices for converting and optimizing real-time 3D models for use with Dynamics 365 mixed-reality applications
 ms.author: v-jerja
-ms.date: 06/17/2019
+ms.date: 06/21/2019
 ms.service: crm-online
 ms.topic: article
 title: Best practices for converting and optimizing real-time 3D models
