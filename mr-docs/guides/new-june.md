@@ -1,4 +1,13 @@
-
+---
+author: Mamaylya
+description: Describes the new features in each monthly release of Dynamics 365 Guides
+ms.author: mamaylya
+ms.date: 07/09/2019
+ms.service: crm-online
+ms.topic: article
+title: What's new in Dynamics 365 Guides (July 9, 2019)
+ms.reviewer: v-brycho
+---
 
 ## What's new in Dynamics 365 Guides (July 9, 2019)
 
