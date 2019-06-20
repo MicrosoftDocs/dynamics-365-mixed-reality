@@ -44,9 +44,11 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 5.	Select **Import using this PC**.
 
     > [!div class="mx-imgBorder"]
-    > ![Import using this PC option](media/import-using-pc-option.PNG "Import using this PC option") 
+    > ![Import using this PC option](media/import-using-pc-option-1.png "Import using this PC option") 
+    
+6. Under **Measurement unit for existing model**, select the measurement unit the model was created with. This will preserve that unit of measurement when you import the model.
 
-6.	Select **Apply**.
+7.	Select **Apply**.
 
 ### Send model to Microsoft option
 
@@ -65,11 +67,15 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 
 6.	Under **Enter your email address**, enter the email address where [!include[cc-microsoft](../includes/cc-microsoft.md)] can contact you when the model is ready.
 
-7.	Under **Where will you use this model?**, choose the target device. You can only choose one type of target device at this time.
+7. Under **Measurement unit for existing model**, select the measurement unit the model was created with. This will preserve that unit of measurement when Microsoft converts and optimizes the model.
 
-8.	Under **How many models will your scene have?**, select the appropriate option for your scene complexity. 
+8.	Under **Where will you use this model?**, choose the target device. You can only choose one type of target device at this time.
 
-9.	Select **Apply** to send the model to [!include[cc-microsoft](../includes/cc-microsoft.md)].
+9.	Under **How many models will your scene have?**, select the appropriate option for your scene complexity. 
+
+10. In the **What's most important to you about your model** box, provide instructions for Microsoft. For example, specify which is most important to you--visual accuracy or performance.
+
+11.	Select **Apply** to send the model to [!include[cc-microsoft](../includes/cc-microsoft.md)].
 
     [!include[cc-microsoft](../includes/cc-microsoft.md)] will send you the following email notification to confirm that the model has been sent:
     
