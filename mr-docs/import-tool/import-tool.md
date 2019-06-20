@@ -83,7 +83,7 @@ There are two primary reasons why Dynamics 365 Import Tool (Preview) might not h
 8.	Under **Where will you use this model?**, choose the target device. You can only choose one type of target device at this time.
 
     > [!div class="mx-imgBorder"]
-    > ![Send model to Microsoft option, second page](media/send-model-microsoft-1.png "Send model to Microsoft option")
+    > ![Send model to Microsoft option, second page](media/send-model-microsoft-2.png "Send model to Microsoft option")
 
 9.	Under **How many models will your scene have?**, select the appropriate option for your scene complexity. 
 
