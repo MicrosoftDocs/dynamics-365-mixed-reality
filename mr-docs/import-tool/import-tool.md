@@ -44,7 +44,7 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 5.	Under **How would you like to prepare the model?**, select **Import using this PC**.
 
     > [!div class="mx-imgBorder"]
-    > ![Import using this PC option](media/import-using-pc-option-1.png "Import using this PC option") 
+    > ![Import using this PC option](media/import-using-pc-option.png "Import using this PC option") 
     
 6. Under **Measurement unit for existing model**, select the measurement unit the model was created with. This will preserve that unit of measurement when you import the model.
 
@@ -63,19 +63,24 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 5.	Under **How would you like to prepare the model?**, select **Send model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**.
 
     > [!div class="mx-imgBorder"]
-    > ![Send model to Microsoft option](media/send-model-microsoft-1.png "Send model to Microsoft option")
+    > ![Send model to Microsoft option](media/send-model-microsoft-a.png "Send model to Microsoft option")
+    
+6. Select **Next**.
 
-6.	Under **Enter your email address**, enter the email address where [!include[cc-microsoft](../includes/cc-microsoft.md)] can contact you when the model is ready.
+    > [!div class="mx-imgBorder"]
+    > ![Send model to Microsoft option, second page](media/send-model-microsoft-1.png "Send model to Microsoft option")
 
-7. Under **Measurement unit for existing model**, select the measurement unit the model was created with. This will preserve that unit of measurement when Microsoft converts and optimizes the model.
+7.	Under **Enter your email address**, enter the email address where [!include[cc-microsoft](../includes/cc-microsoft.md)] can contact you when the model is ready.
 
-8.	Under **Where will you use this model?**, choose the target device. You can only choose one type of target device at this time.
+8. Under **Measurement unit for existing model**, select the measurement unit the model was created with. This will preserve that unit of measurement when Microsoft converts and optimizes the model.
 
-9.	Under **How many models will your scene have?**, select the appropriate option for your scene complexity. 
+9.	Under **Where will you use this model?**, choose the target device. You can only choose one type of target device at this time.
 
-10. In the **What's most important to you about your model** box, provide instructions for Microsoft. For example, specify which is most important to you--visual accuracy or performance.
+10.	Under **How many models will your scene have?**, select the appropriate option for your scene complexity. 
 
-11.	Select **Apply** to send the model to [!include[cc-microsoft](../includes/cc-microsoft.md)].
+11. In the **What's most important to you about your model** box, provide instructions for Microsoft. For example, specify which is most important to you--visual accuracy or performance.
+
+12.	Select **Apply** to send the model to [!include[cc-microsoft](../includes/cc-microsoft.md)].
 
     [!include[cc-microsoft](../includes/cc-microsoft.md)] will send you the following email notification to confirm that the model has been sent:
     
