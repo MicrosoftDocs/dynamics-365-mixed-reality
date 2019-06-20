@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 ## What's new in Dynamics 365 Guides (July 9, 2019)
 
-In the May release, we created a new flow for selecting an anchoring method. If you don't see these changes in the PC app, <a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/upgrade" target="_blank">Your admin needs to do some updates</a>
+In the May release, we created a new flow for selecting an anchoring method. If you don't see these changes in the PC app, <a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/upgrade" target="_blank">your admin needs to do some updates</a>
 
 The June release brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
  
