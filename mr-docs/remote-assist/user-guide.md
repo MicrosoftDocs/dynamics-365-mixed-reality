@@ -71,7 +71,7 @@ say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and the
 commands.](#voice)
 
 > [!NOTE]
-> At this time, voice commands and speech recognition are [available in specific languages](https://review.docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq?branch=BryceHo-RA-voice#what-languages-are-voice-commands-and-speech-recognition-available-for). 
+> At this time, voice commands and speech recognition are [available in specific languages](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
 
 ## Make and receive calls
 
@@ -344,7 +344,7 @@ To undo your most recent action, including **Erase all**:
 
 In many cases, you can use voice commands and gaze instead of gestures. Some voice
 commands are contextual, so they only work in particular areas of the user
-interface. Note that at this time, voice commands and speech recognition are [available in specific languages](https://review.docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq?branch=BryceHo-RA-voice#what-languages-are-voice-commands-and-speech-recognition-available-for). 
+interface. Note that at this time, voice commands and speech recognition are [available in specific languages](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
 
 > [!IMPORTANT]
 > To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. For example, say "[!include[pn-remote-assist](../includes/pn-remote-assist.md)], Move" to enter Move mode for a slate (window). You can also gaze at any button and say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)], Select” to select that button.
