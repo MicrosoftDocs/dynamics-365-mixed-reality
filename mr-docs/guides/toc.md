@@ -2,7 +2,7 @@
 ## [Overview](index.md)
 ## [Sign up for preview](setup.md)
 ## [Upgrade the Guides solution (for admins)](upgrade.md)
-## [Get started]
+## Get started
 ### [Get started](get-started.md)
 ### [What's new](new.md)
 #### [May 28, 2019](new-may.md)
