@@ -2,7 +2,7 @@
 author: mamithan
 description: Learn how to optimize and transcode 3D models for use with Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 06/19/2019
+ms.date: 06/21/2019
 ms.service: crm-online
 ms.topic: article
 title: Prepare 3D CAD models to use with Dynamics 365 Product Visualize
