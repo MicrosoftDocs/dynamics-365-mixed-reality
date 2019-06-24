@@ -2,7 +2,7 @@
 author: drpusey
 description: Dynamics 365 Remote Assist User guide (for HoloLens)
 ms.author: drpusey
-ms.date: 06/19/2019
+ms.date: 06/24/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User guide (for HoloLens)
