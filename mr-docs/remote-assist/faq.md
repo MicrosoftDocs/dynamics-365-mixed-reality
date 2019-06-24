@@ -56,7 +56,7 @@ At this time, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is a
 
 ## What languages are voice commands and speech recognition available for?
 
-At this time, voice commands and speech recognition are available for the following languages:
+At this time, for HoloLens 1, voice and speech recognition are available only in English. For HoloLens 2, voice commands and speech recognition are available for the following languages:
 
 -	English (US)
 -	English (Canada)
