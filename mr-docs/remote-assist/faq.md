@@ -2,7 +2,7 @@
 author: drpusey
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: drpusey
-ms.date: 6/19/2019
+ms.date: 6/24/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist FAQ
