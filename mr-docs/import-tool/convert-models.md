@@ -31,7 +31,7 @@ The following table describes the two options and the file formats supported for
 
 ## Tools for exporting CAD models
 
-CAD models can be exported directly to glTF format or into intermediate formats that can be subsequently processed into glTF files. If your content-creation application does not have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat), [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file), [STL](https://en.wikipedia.org/wiki/STL_(file_format)), or [PLY](https://en.wikipedia.org/wiki/PLY_(file_format)), if available.  If these formats are not available, there are third-party applications that can import many different file formats and export them as one of these supported file formats. 
+CAD models can be exported directly to glTF format or into intermediate formats that can be subsequently processed into glTF files. If your content-creation application does not have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat), [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file), [STL](https://en.wikipedia.org/wiki/STL_(file_format)), or [PLY](https://en.wikipedia.org/wiki/PLY_(file_format)), if available. If these formats are not available, there are third-party applications that can import many different file formats and export them as one of these supported file formats. 
 
 Your use of third-party applications is subject to terms between you and the third party. [!include[cc-microsoft](../includes/cc-microsoft.md)] does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
 
