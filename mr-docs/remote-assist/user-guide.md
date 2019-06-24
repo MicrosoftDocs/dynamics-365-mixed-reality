@@ -85,10 +85,6 @@ How you make a call depends on whether you're calling a contact in your company 
 When your contact answers the call in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)], they’ll be able to see
 what you see in your space—including holograms.
 
-> [!NOTE]
-> Dynamic audio adjusts the volume level based on ambient noise in the
-room so you can hear even if you're working in a loud environment.
-
 ### Make a call to a contact outside your company
 
 You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)]. If you're the admin for your organization, to set up external access, see [Set up cross-company calling](cross-company-calling.md).
