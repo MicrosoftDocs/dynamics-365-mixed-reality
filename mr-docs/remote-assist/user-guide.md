@@ -2,7 +2,7 @@
 author: drpusey
 description: Dynamics 365 Remote Assist User guide (for HoloLens)
 ms.author: drpusey
-ms.date: 06/19/2019
+ms.date: 06/24/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User guide (for HoloLens)
@@ -71,7 +71,7 @@ say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and the
 commands.](#voice)
 
 > [!NOTE]
-> At this time, voice commands and speech recognition are [available in specific languages](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
+> At this time, voice commands and speech recognition are available only in English for HoloLens 1. For HoloLens 2, voice commands are [available in specific languages](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
 
 ## Make and receive calls
 
@@ -84,10 +84,6 @@ How you make a call depends on whether you're calling a contact in your company 
 
 When your contact answers the call in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)], they’ll be able to see
 what you see in your space—including holograms.
-
-> [!NOTE]
-> Dynamic audio adjusts the volume level based on ambient noise in the
-room so you can hear even if you're working in a loud environment.
 
 ### Make a call to a contact outside your company
 
@@ -344,7 +340,7 @@ To undo your most recent action, including **Erase all**:
 
 In many cases, you can use voice commands and gaze instead of gestures. Some voice
 commands are contextual, so they only work in particular areas of the user
-interface. Note that at this time, voice commands and speech recognition are [available in specific languages](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
+interface. Note that at this time, voice commands and speech recognition are available only in English for HoloLens 1 and in [specific languages for HoloLens 2](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
 
 > [!IMPORTANT]
 > To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. For example, say "[!include[pn-remote-assist](../includes/pn-remote-assist.md)], Move" to enter Move mode for a slate (window). You can also gaze at any button and say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)], Select” to select that button.
