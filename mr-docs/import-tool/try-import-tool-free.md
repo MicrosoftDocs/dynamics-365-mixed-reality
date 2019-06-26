@@ -17,7 +17,7 @@ You can try [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-d
 
 1. On your PC, go to **Start** ![Start](media/windows-button.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/store-button.png "Microsoft Store").
 
-2. Search for "[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]"
+2. Search for "[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]".
 
 3. Download and install the app.
 

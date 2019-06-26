@@ -50,14 +50,14 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 
 #### If you encounter file access errors when importing files
 
-3D models sometimes reference other files in your file system, such as textures and materials files. Your imported 3D model may not look correct if Dynamics 365 Import Tool (Preview) can’t access these files, in which case, you may see this error dialog box:
+3D models sometimes reference other files in your file system, such as textures and materials files. Your imported 3D model might not look correct if Dynamics 365 Import Tool (Preview) can’t access these files, in which case, you might see this error dialog box:
 
 > [!div class="mx-imgBorder"]
 > ![File access errors dialog box](media/file-access-errors.PNG "File access errors dialog box") 
 
 There are two primary reasons why Dynamics 365 Import Tool (Preview) might not have access to these files:
 
-- **No permissions**. For the safety and security of your files, Windows 10 does not allow all Windows Store applications full access to the files in your system. To allow Dynamics 365 Import Tool (Preview) access to your files, select **Grant permissions**, go to the folder(s) that contains the files, and then select the folder(s). This will grant access to all files in the folder. Alternatively, you can move your 3D models and all their referenced files to the **3D Objects** folder.
+- **No permissions**. For the safety and security of your files, Windows 10 does not allow all Windows Store applications full access to the files in your system. To allow Dynamics 365 Import Tool (Preview) access to your files, select **Grant permissions**, go to the folder(s) that contains the files, and then select the folder(s). This grants access to all files in the folder. Alternatively, you can move your 3D models and all their referenced files to the **3D Objects** folder.
 
 - **Missing files**. Dynamics 365 Import Tool (Preview) expects the files to appear in the exact file paths listed in the dialog box. If files are not there, they will be marked as missing. Move the missing files to locations indicated in the dialog box, or update the original 3D model.
 
@@ -87,16 +87,16 @@ There are two primary reasons why Dynamics 365 Import Tool (Preview) might not h
 
 9.	Under **How many models will your scene have?**, select the appropriate option for your scene complexity. 
 
-10. In the **What's most important to you about your model** box, provide instructions for Microsoft. For example, specify which is most important to you — visual accuracy or performance.
+10. In the **What's most important to you about your model** box, provide instructions for Microsoft. For example, specify which is most important to you—visual accuracy or performance.
 
 11.	Select **Apply** to send the model to [!include[cc-microsoft](../includes/cc-microsoft.md)].
 
-    [!include[cc-microsoft](../includes/cc-microsoft.md)] will send you the following email notification to confirm that the model has been sent:
+    [!include[cc-microsoft](../includes/cc-microsoft.md)] sends you the following email notification to confirm that the model has been sent:
     
     > [!div class="mx-imgBorder"]
     > ![Confirmation email](media/confirmation-email.PNG "Confirmation email") 
 
-    [!include[cc-microsoft](../includes/cc-microsoft.md)] will update you on the progress of the manual optimization through email and will let you know when the model is ready to download.
+    [!include[cc-microsoft](../includes/cc-microsoft.md)] updates you on the progress of the manual optimization through email and lets you know when the model is ready to download.
 
 ## What happens to my model when I send it to Microsoft?
 
