@@ -33,9 +33,9 @@ The first thing you need to do is create a new Azure Active Directory organizati
 
    ![Name and domain name)](media/name-and-domain-name.PNG "Name and domain name")
 
-5. Select __Create__. You might need to wait several minutes while the directory is created. 
+5. Select **Create**. You might need to wait several minutes while the directory is created. 
 
-6. Select __Click here to manage your new directory__.
+6. Select **Click here to manage your new directory**.
 
    ![Click to manage new directory link)](media/manage-directory-link.PNG "Click to manage new directory link")
 
@@ -43,11 +43,11 @@ The first thing you need to do is create a new Azure Active Directory organizati
 
 After creating the new organization, the next step is to add an admin user for the organization. The admin user is responsible for creating additional users, assigning licenses, and initializing Dynamics 365. As the creator of this organization, you could use your work account to manage the system, but we recommend creating a separate administrator account for each organization.
 
-1. In the left pane, select __Azure Active Directory__, and then select __Users__.
+1. In the left pane, select **Azure Active Directory**, and then select **Users**.
 
    ![Azure Active Directory](media/azure-active-directory.PNG "Azure Active Directory")
 
-2. Select __New User__ at the top of the page, and then fill in the following fields:
+2. Select **New User** at the top of the page, and then fill in the following fields:
 
     - **Name**: Enter any name.
     
@@ -55,9 +55,9 @@ After creating the new organization, the next step is to add an admin user for t
     
     - **Directory Role**: Global Administrator
     
-3. Select __Show Password__, and then write down the temporary password.
+3. Select **Show Password**, and then write down the temporary password.
 
-4. At the bottom of the page, select __Create__ to finish creating the user.
+4. At the bottom of the page, select **Create** to finish creating the user.
 
 
 ## Add a Dynamics 365 for Customer Engagement trial
@@ -68,17 +68,17 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 2. Sign in with the administrator credentials you created in the previous procedure, and, if prompted, set a new password.
 
-3. In the left pane, select **Billing** and then select __Purchase services__.
+3. In the left pane, select **Billing** and then select **Purchase services**.
 
    ![Purchase Services](media/subscriptions.PNG "Purchase Services")
 
-4. Search for __Dynamics 365 for Customer Engagement Plan__ and select the __Dynamics 365 for Customer Engagement Plan__ panel from the results.
+4. Search for **Dynamics 365 for Customer Engagement Plan** and select the **Dynamics 365 for Customer Engagement Plan** panel from the results.
 
    ![Dynamics 365 for Customer Engagement plan](media/dynamics-365-customer-engagement-plan.PNG "Dynamics 365 for Customer Engagement plan")
 
-5. On the summary page,select the _Get free trial_ button.
+5. On the summary page,select the **Get free trial** button.
 
-6. On the checkout page, select __Try now__. After this processes, select _Continue_. 
+6. On the checkout page, select **Try now**. After this processes, select **Continue**. 
 
 ## Assign licenses
 
@@ -88,7 +88,7 @@ Before continuing, make sure the Dynamics 365 for Customer Engagement license ha
 
 2. Click the name of the admin user created earlier. 
 
-3. In __Licenses and Apps__, under _Licenses_ ensure that _Dynamics 365 Customer Engagement Plan_ is checked.
+3. In **Licenses and Apps**, under **Licenses** ensure that **Dynamics 365 Customer Engagement Plan** is checked.
 
    ![Edit licenses)](media/product-license.PNG "Edit licenses")
 
@@ -98,7 +98,7 @@ Before continuing, make sure the Dynamics 365 for Customer Engagement license ha
 
 The next step is to set up the Dynamics 365 for Customer Engagement instance. This procedure provides step-by-step instructions for manually installing Dynamics for Sales, which generates a completely empty instance of the Common Data Service. 
 
-1. In the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for __Admin Centers__, select __All admin centers__. 
+1. In the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for **Admin Centers**, select **All admin centers**. 
 
 2. In the All admin centers page, select the _Dynamics 365_ panel.
 
@@ -106,26 +106,26 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 
     - Set the language to your preferred language.
     
-    - Under __Select which scenario fits you best__, select __None of these__.
+    - Under **Select which scenario fits you best**, select **None of these**.
     
     - Set the currency to your preferred currency.
     
-4. Select __Complete Setup__, and then wait for the initial setup process to complete.
+4. Select **Complete Setup**, and then wait for the initial setup process to complete.
 
    ![Complete Setup](media/complete-setup.PNG "Complete setup")
 
-5. In the left pane, in the __Admin Centers__ list, select **Dynamics 365 Admin Portal**.
+5. In the left pane, in the **Admin Centers** list, select **Dynamics 365 Admin Portal**.
 
-   On the __Instances__ page, you should see your newly created instance selected and some properties in a gray box on the right. Your new solution is still being set up. Wait for setup to complete before moving on to the next step.
+   On the **Instances** page, you should see your newly created instance selected and some properties in a gray box on the right. Your new solution is still being set up. Wait for setup to complete before moving on to the next step.
 
    > [!NOTE]
-   > It can take around 10 minutes for the setup process to finish. You'll know the process is complete when you see __CRM Hub__ listed under __Solutions__ for your instance. Refresh the page periodically to check on the status.
+   > It can take around 10 minutes for the setup process to finish. You'll know the process is complete when you see **CRM Hub** listed under **Solutions** for your instance. Refresh the page periodically to check on the status.
 
-6. Select the small __Edit__ button next to the word __Solutions__ in the gray box on the right.
+6. Select the small **Edit** button next to the word **Solutions** in the gray box on the right.
 
    ![s7)](media/s7.png "s7")
 
-7. In the list of available solutions, find __Dynamics 365 Sales Application__, and then select __Install__.
+7. In the list of available solutions, find **Dynamics 365 Sales Application**, and then select **Install**.
 
 8. Review the Terms of Service. When you're ready, select the check box that shows you approve. This starts the installation.
 
@@ -137,29 +137,29 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 
 1. Go to the Sales Hub for your newly created Dynamics 365 instance. To do this:
 
-    1. On the Admin Center page, select  __Open__  next to your organization name in the gray box.
+    1. On the Admin Center page, select  **Open**  next to your organization name in the gray box.
     
-    2. Select __Sales Hub__ in the list of available applications.
+    2. Select **Sales Hub** in the list of available applications.
     
-2. Select **Settings** in the upper-right corner of the page, and then select __Advanced Settings__.
+2. Select **Settings** in the upper-right corner of the page, and then select **Advanced Settings**.
 
-3. In the navigation bar at the top of the page, select the arrow next to __Settings__, and then select __Document Management__.
+3. In the navigation bar at the top of the page, select the arrow next to **Settings**, and then select **Document Management**.
 
    ![Document Management settings](media/sharepoint.PNG "Document Management settings")
 
-4. Select __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint.
+4. Select **Enable Server-Based SharePoint Integration** to set up the connection to SharePoint.
 
    > [!NOTE]
-   > If you opted to use the automated __Sales__ setup option earlier, you can skip the steps to enable server-based SharePoint integration.
+   > If you opted to use the automated **Sales** setup option earlier, you can skip the steps to enable server-based SharePoint integration.
 
 5. Continue through the setup. When prompted, enter the URL for your SharePoint instance ([https://\<org name>.sharepoint.com]()).
 
    > [!IMPORTANT]
    > Be sure to enter the full URL for your SharePoint instance, including `https://`.
 
-6. When complete, return to the __Document Management__ settings page, and then select __Document Management Settings__.
+6. When complete, return to the **Document Management** settings page, and then select **Document Management Settings**.
 
-7. Enter the URL for your SharePoint site if it isn't filled in by default. Then select __Next__.
+7. Enter the URL for your SharePoint site if it isn't filled in by default. Then select **Next**.
 
 8. Continue through Setup using the default values for the remaining options.
 

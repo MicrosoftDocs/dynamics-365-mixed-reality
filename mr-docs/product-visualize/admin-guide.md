@@ -47,7 +47,7 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 3. In the left pane, select **Groups**, and then select **Groups** again.
 
-   ![Groups left-nav item](media/groups.PNG "Groups left-nav item")
+   ![Groups left-nav item](media/create-group.PNG "Groups left-nav item")
 
 4. Near the top of the page, select **Add a group**.
 
@@ -367,9 +367,9 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 2. Sign in with the administrator credentials you created.
 
-3. In the left pane, select **Billing** and then select __Purchase services__.
+3. In the left pane, select **Billing** and then select **Purchase services**.
 
-4. Search for __Office 365 Business Premium__ and select the __Office 365 Business Premium___ panel from the results.
+4. Search for **Office 365 Business Premium** and select the **Office 365 Business Premium** panel from the results.
 
    ![Dynamics 365 for Customer Engagement plan](media/office.PNG "Dynamics 365 for Customer Engagement plan")
 
@@ -379,41 +379,41 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 ### Create a team
 
-1. Once the web app has loaded, you should see an option to join or create a team. Select __Create Team__.
+1. Once the web app has loaded, you should see an option to join or create a team. Select **Create Team**.
 
-2. When you see the option to build a team from scratch or create from an existing team, select __Build a team from scratch__.
+2. When you see the option to build a team from scratch or create from an existing team, select **Build a team from scratch**.
 
-3. Make the group __Org-Wide__.
+3. Make the group **Org-Wide**.
 
 4. Give the group a name and a description.
 
-5. Select __Create__.
+5. Select **Create**.
 
 ### Add channels to the team
 
 1. In the **Teams and Channels** list, select the **More Information** button (...) next to the team you just created.
 
-2. Select __Add Channel__. 
+2. Select **Add Channel**. 
 
 3. Give the channel a name related to the opportunities you want to connect to it (for example: Seattle-area opportunities).
 
-4. Select __Add__.
+4. Select **Add**.
    
 ### Connect Teams to Dynamics 365
 
-1. In the lower corner of the Teams client, select __Store__.
+1. In the lower corner of the Teams client, select **Store**.
 
 2. Search for "Dynamics 365".
 
 3. Select the icon for Dynamics 365 (Preview) to open the installation dialog box.
 
-4. Ensure that the __Add for You__ option is set to __Yes__.
+4. Ensure that the **Add for You** option is set to **Yes**.
 
-5. In the __Add to a team__ section, search for your team's name, which will also set the second option to __Yes__.
+5. In the **Add to a team** section, search for your team's name, which will also set the second option to **Yes**.
 
-6. Select __Install__.
+6. Select **Install**.
 
-7. On the next page, select the channel you just created, and then select __Set up__.
+7. On the next page, select the channel you just created, and then select **Set up**.
 
 8. On the **Setup** page, set the following:
 
@@ -421,7 +421,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
    
    - Select **Sales Hub** from the **App Module** list.
    
-9. Select __Select__.
+9. Select **Select**.
    
 10. From the list of Dynamics 365 entities, select an opportunity, and then select **Save**.
 
