@@ -99,21 +99,21 @@ New users must first be added in Azure Active Directory, which assigns them a us
     
     - **Username**
     
-    - **Location**
-    
-5. Assign the user a role based on the resources that they need to access:
+    - Click **Next**.
+	
+5. Under the **Licenses** field, Ensure that _Assign a user a product license_ is selected, and the user is assigned a _Dynamics 365 Customer Engagement Plan_ license, then click **Next**.
+  
+6. Under **Roles**, Assign the user a role based on the resources that they need to access, then click **Next**.
 
     * **User** - This user won't have permissions to the Microsoft 365 admin center or any admin tasks.
     
     * **Global Administrator** - This user will have access to all features in the admin center and can perform all tasks in the admin center.
     
     * **Custom Administrator** - You can assign this user one or many roles so they can manage specific areas of Office 365.
-    
-6. Enable the licenses for **Dynamics 365 for Sales** and **Office 365 Enterprise**, and then select **Add**.
 
-7. On the confirmation page, make note of the username and password before selecting **Close**.
+7. On the confirmation page, make note of the username and password before selecting **Finish Adding**, and then **Close**.
 
-8. Select the user you just created, and then select the **Edit** button for **Group memberships**.
+8. Select the user you just created, in the **Account** tab under **Groups** click **Manage Groups**.
 
    ![Group memberships](media/group-memberships.PNG "Group memberships")
 
@@ -363,15 +363,19 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 ### Sign up for Teams
 
-1. In a private browser window, go to [https://teams.microsoft.com](https://teams.microsoft.com).
+1. In a private browser window, go to the Microsoft 365 admin center at [https://admin.microsoft.com](https://admin.microsoft.com).
 
-2. Make sure you're signed in as the admin for your trial tenant.
+2. Sign in with the administrator credentials you created.
 
-3. When asked whether you want to open the desktop client or web app, select __Use the web app__.
+3. In the left pane, select **Billing** and then select __Purchase services__.
 
-   You'll see a message that says: "We didn't find a Teams account for you, but you can use your organization's trial license to get started". 
+4. Search for __Office 365 Business Premium__ and select the __Office 365 Business Premium___ panel from the results.
 
-4. Select __Start__.
+   ![Dynamics 365 for Customer Engagement plan](media/office.PNG "Dynamics 365 for Customer Engagement plan")
+
+5. On the summary page,select the **Get free trial** button.
+
+6. On the checkout page, select **Try now**. After this processes, select **Continue**. 
 
 ### Create a team
 

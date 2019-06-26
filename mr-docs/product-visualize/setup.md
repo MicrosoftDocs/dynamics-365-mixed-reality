@@ -68,17 +68,17 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 2. Sign in with the administrator credentials you created in the previous procedure, and, if prompted, set a new password.
 
-3. In the left pane, select **Billing** > **Subscriptions**, and then select __Add subscriptions__.
+3. In the left pane, select **Billing** and then select __Purchase services__.
 
-   ![Billing subscriptions](media/subscriptions.PNG "Billing subscriptions")
+   ![Purchase Services](media/subscriptions.PNG "Purchase Services")
 
-4. Find the __Dynamics 365 for Customer Engagement Plan__ subscription, select the **More Information** (...) at the bottom, and then select __Start Free Trial__.
+4. Search for __Dynamics 365 for Customer Engagement Plan__ and select the __Dynamics 365 for Customer Engagement Plan__ panel from the results.
 
    ![Dynamics 365 for Customer Engagement plan](media/dynamics-365-customer-engagement-plan.PNG "Dynamics 365 for Customer Engagement plan")
 
-5. On the summary page, make sure you're signing up for a __Dynamics 365 for Customer Engagement Plan__ trial, and then select __Try Now__.
+5. On the summary page,select the _Get free trial_ button.
 
-6. On the confirmation page, select __Continue__.
+6. On the checkout page, select __Try now__. After this processes, select _Continue_. 
 
 ## Assign licenses
 
@@ -86,11 +86,9 @@ Before continuing, make sure the Dynamics 365 for Customer Engagement license ha
 
 1. Go to the Microsoft 365 admin center \([https://admin.microsoft.com](https://admin.microsoft.com)). In the left pane, select **Users** > **Active Users**.
 
-2. Double-click the name of the admin user created earlier. 
+2. Click the name of the admin user created earlier. 
 
-3. Next to __Product Licenses__, select __Edit__.
-
-4. Move the slider to **On** for the __Dynamics 365 for Customer Engagement Plan__ license.
+3. In __Licenses and Apps__, under _Licenses_ ensure that _Dynamics 365 Customer Engagement Plan_ is checked.
 
    ![Edit licenses)](media/product-license.PNG "Edit licenses")
 
@@ -100,37 +98,36 @@ Before continuing, make sure the Dynamics 365 for Customer Engagement license ha
 
 The next step is to set up the Dynamics 365 for Customer Engagement instance. This procedure provides step-by-step instructions for manually installing Dynamics for Sales, which generates a completely empty instance of the Common Data Service. 
 
-1. In the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for __Admin Centers__, select __Dynamics 365__. It might take a minute or two for this option to appear in the __Admin Centers__ list.
+1. In the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for __Admin Centers__, select __All admin centers__. 
 
-    > [!NOTE]
-    > As an option, you can select __Sales__ from this drop-down list, which allows you to skip steps 5–7 in this procedure. However, this installs some additional sample data that might not be relevant to your organization. 
+2. In the All admin centers page, select the _Dynamics 365_ panel.
 
-2. In the page that appears:
+3. In the page that appears:
 
     - Set the language to your preferred language.
     
-    - Under __Select which scenario fits you best__, select __None of these__ (assuming you didn't select the **Sales** option in the preceding step).
+    - Under __Select which scenario fits you best__, select __None of these__.
     
     - Set the currency to your preferred currency.
     
-3. Select __Complete Setup__, and then wait for the initial setup process to complete.
+4. Select __Complete Setup__, and then wait for the initial setup process to complete.
 
    ![Complete Setup](media/complete-setup.PNG "Complete setup")
 
-4. In the left pane, in the __Admin Centers__ list, select **Dynamics 365 Admin Portal**.
+5. In the left pane, in the __Admin Centers__ list, select **Dynamics 365 Admin Portal**.
 
    On the __Instances__ page, you should see your newly created instance selected and some properties in a gray box on the right. Your new solution is still being set up. Wait for setup to complete before moving on to the next step.
 
    > [!NOTE]
    > It can take around 10 minutes for the setup process to finish. You'll know the process is complete when you see __CRM Hub__ listed under __Solutions__ for your instance. Refresh the page periodically to check on the status.
 
-5. Select the small __Edit__ button next to the word __Solutions__ in the gray box on the right.
+6. Select the small __Edit__ button next to the word __Solutions__ in the gray box on the right.
 
    ![s7)](media/s7.png "s7")
 
-6. In the list of available solutions, find __Dynamics 365 Sales Application__, and then select __Install__.
+7. In the list of available solutions, find __Dynamics 365 Sales Application__, and then select __Install__.
 
-7. Review the Terms of Service. When you're ready, select the check box that shows you approve. This starts the installation.
+8. Review the Terms of Service. When you're ready, select the check box that shows you approve. This starts the installation.
 
    > [!NOTE]
    > This process might take a while to complete. You can refresh the page to view the current status of the installation.
