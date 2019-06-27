@@ -35,15 +35,12 @@ By default, all layers in the model are visible.
 
 Each layer can be selected by pressing on the checkbox placed to the right of each layer. 
 
-* ![Unselected](media/unselected.jpeg "Unselected") 
-* ![Selected](media/selected.jpeg "Selected")
+![Unselected](media/unselected.jpeg "Unselected") ![Selected](media/selected.jpeg "Selected")
 
 Additionally, each layer has an indicator of whether it is a folder or individual layer placed to the left of each layer. 
 
-* ![Expandable Folder](media/expandable-folder.jpeg "Expandable Folder with no children layers visible")
-* ![Collapsible Folder](media/collapsible-folder.jpeg "Collapsible Folder with children layers visible")
-* ![Individual Invisible Layer](media/individual-layer-visibility.jpeg "(1) Individual Invisible Layer")
-* ![Individual Visible Layer](media/individual-layer-visibility.jpeg "(2) Individual Visible Layer")
+![Expandable Folder](media/expandable-folder.jpeg "Expandable Folder with no children layers visible") ![Collapsible Folder](media/collapsible-folder.jpeg "Collapsible Folder with children layers visible")
+![Individual Invisible Layer](media/individual-layer-visibility.jpeg "(1) Individual Invisible Layer") ![Individual Visible Layer](media/individual-layer-visibility.jpeg "(2) Individual Visible Layer")
 
 
 ## Toggle a layer's visibility off 
@@ -54,7 +51,7 @@ Additionally, each layer has an indicator of whether it is a folder or individua
 
 2. Tap on the right checkbox of the desired layer(s) you would like to toggle the visibility of. The layers you select will be visibily outlined in white. 
 
-* ![Layer Selected](media/selected.jpeg "Select Layers")
+![Layer Selected](media/selected.jpeg "Select Layers")
 
 3. Tap the **Hide** button to turn the visibility of the selected layer(s) off 
 
