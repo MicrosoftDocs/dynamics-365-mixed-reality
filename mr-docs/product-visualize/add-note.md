@@ -67,17 +67,6 @@ To review notes you have made on your model, you can tap any spatial anchor on t
     
      ![Expand notes button](media/expand-notes.PNG "Expand notes button")
      
-## Show or hide note layers
-
-If the 3D model you're viewing has layers, you can show or hide those layers when viewing notes. For example, you can start with the outer shell of a model and drill deeper into successive layers.
-
-![Layers example](media/layers-example.PNG "Layers example")
-
-By default, all layers are turned on. To hide a layer, clear the check box for that layer. You can show or hide all layers by tapping the first row under the model:
-
-![Hide layer](media/hide-layer.PNG "Hide layer")
-
-
 ## Edit or delete a note
 
 1.	Select **Notes** on the right side of the screen.

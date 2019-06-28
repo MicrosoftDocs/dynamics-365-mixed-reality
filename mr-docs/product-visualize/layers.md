@@ -47,25 +47,25 @@ Additionally, each layer has an indicator of whether it is a folder or individua
 
 1. After placing a model, select **Layers** on the right side of the screen. 
 
-![Enter Layers Tool](media/layers-tool.jpeg "Enter Layers")
+   ![Enter Layers Tool](media/layers-tool.jpeg "Enter Layers")
 
 2. Tap on the right checkbox of the desired layer(s) you would like to toggle the visibility of. The layers you select will be visibily outlined in white. 
 
-![Layer Selected](media/selected.jpeg "Select Layers")
+   ![Layer Selected](media/selected.jpeg "Select Layers")
 
 3. Tap the **Hide** button to turn the visibility of the selected layer(s) off 
 
-![Hide Layers](media/hide-layer.jpeg "Hide Layer")
+   ![Hide Layers](media/hide-layer.jpeg "Hide Layer")
 
 ## Show or Hide all layers 
 
 1. After placing a model, select **Layers** on the right side of the screen. 
 
-![Enter Layers Tool](media/layers-tool.jpeg "Enter Layers")
+   ![Enter Layers Tool](media/layers-tool.jpeg "Enter Layers")
 
 2. Tap on the right checkbox on the layers toolbar to select all layers belonging to the placed model. 
 
-![All Layers Selection](media/layer-select-all.jpeg "Select All Layers")
+   ![All Layers Selection](media/layer-select-all.jpeg "Select All Layers")
 
 3. Do one of the following: 
 
@@ -73,7 +73,7 @@ Additionally, each layer has an indicator of whether it is a folder or individua
 
 - To hide all layers, tap on **Hide** 
 
-![Layer Toggle](media/layer-toggle.jpeg "Toggle Layers")
+   ![Layer Toggle](media/layer-toggle.jpeg "Toggle Layers")
 
 ### See also
 

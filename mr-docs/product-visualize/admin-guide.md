@@ -294,7 +294,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 12. Select **Save and Close**.
 
-## Import the Product Visualize Solution
+## Install the Product Visualize Control
 
 The Product Visualize solution is a package that customizes your Dynamics 365 installation in order to support Product Visualize.
 
@@ -325,11 +325,9 @@ The Product Visualize solution is a package that customizes your Dynamics 365 in
 
 7. Select **Close**.
 
-## Install the Product Visualize Control
-
-The Product Visualize Control is an optional enhancement that allows salespeople to open the Product Visualize app directly from Dynamics 365 for Sales on their mobile devices. The control is lightweight and can easily be updated or removed.
-
 ### Customize the Opportunity page
+
+The Product Visualize solution also contains an optional enhancement that allows salespeople to open the Product Visualize app directly from Dynamics 365 for Sales on their mobile devices. The control is lightweight and can easily be updated or removed.
 
 There are numerous ways you can customize your Opportunity page in Dynamics 365 for Sales. This procedure provides suggested customizations, but feel free to adapt to your needs:
 
