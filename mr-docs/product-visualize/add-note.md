@@ -2,7 +2,7 @@
 author: mamithan
 description: How to add a note (including ink and text) to a 3D model in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 04/19/2019
+ms.date: 06/27/2019
 ms.service: crm-online
 ms.topic: article
 title: Add a note to your 3D model in Dynamics 365 Product Visualize
@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 
 You can capture notes on specific points on a 3D model in Microsoft Dynamics 365 Product Visualize, and even add text or ink to the notes. For example, when you’re in the field with a customer, capture any required product changes directly on the model. 
 
-To add a note, you tap the location of the model where you want to add the note, and then take a picture of the model or upload a picture from your photo library to set the context. Then you can draw (ink) on the image or add comments. Notes you create are saved in a notes file in the Documents folder for the corresponding Dynamics 365 for Sales opportunity. 
+To add a note, you tap the location of the model where you want to add the note, and then take a picture of the model or upload a picture from your photo library to set the context. Then you can draw (ink) on the image or add comments. Notes you create are saved in a folder in the root product folder (not the folder for a particular product). The notes are organized by Opportunity ID, Product ID, and model name.
 
 To review notes you have made on your model, you can tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. You can also browse through your notes by swiping the notes cards at the bottom of the screen. The corresponding spatial anchor activates on the model as you swipe. 
 
