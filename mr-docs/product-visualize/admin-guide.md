@@ -25,7 +25,7 @@ After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 
 
 - Add opportunities.
 
-- Install the Product Visualize solution
+- Install the Product Visualize solution.
 
 - Install the Product Visualize control if you want sales people to be able to open Product Visualize directly from Dynamics 365 for Sales.
 
@@ -101,9 +101,9 @@ New users must first be added in Azure Active Directory, which assigns them a us
     
     - Click **Next**.
 	
-5. Under the **Licenses** field, Ensure that _Assign a user a product license_ is selected, and the user is assigned a _Dynamics 365 Customer Engagement Plan_ license, then click **Next**.
+5. Under the **Licenses** field, ensure that _Assign a user a product license_ is selected and the user is assigned a _Dynamics 365 Customer Engagement Plan_ license, and then select **Next**.
   
-6. Under **Roles**, Assign the user a role based on the resources that they need to access, then click **Next**.
+6. Under **Roles**, assign the user a role based on the resources they need to access, and then select **Next**.
 
     * **User** - This user won't have permissions to the Microsoft 365 admin center or any admin tasks.
     
@@ -111,7 +111,7 @@ New users must first be added in Azure Active Directory, which assigns them a us
     
     * **Custom Administrator** - You can assign this user one or many roles so they can manage specific areas of Office 365.
 
-7. On the confirmation page, make note of the username and password before selecting **Finish Adding**, and then **Close**.
+7. On the confirmation page, make note of the username and password before selecting **Finish Adding**, and then select **Close**.
 
 8. Select the user you just created, in the **Account** tab under **Groups** click **Manage Groups**.
 
@@ -253,7 +253,7 @@ This section provides step-by-step instructions for adding a model and thumbnail
 5. Drag and drop your model file (as a GLB file) into this location. It will automatically show up in Product Visualize.
 
     > [!NOTE]
-    > SharePoint folders are created when you first visit the documents folder using a Dynamics 365 app. If the folder for a product doesn't exist yet, return to the Sales Hub and open the product's document location from there. After it's created, you can access it through SharePoint.
+    > SharePoint folders are created when you first visit the Documents folder using a Dynamics 365 app. If the folder for a product doesn't exist yet, return to the Sales Hub and open the product's document location from there. After it's created, you can access it through SharePoint.
 
 6. Optional: SharePoint automatically provides a thumbnail for Product Visualize. However, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb"
 
