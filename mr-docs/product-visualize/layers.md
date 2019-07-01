@@ -21,11 +21,11 @@ You can create layers in model design software tools such as CAD. You can build 
 
 In Dynamics 365 Product Visualize, you use the Layers tool to show or hide layers in a 3D model that has been placed in a scene. 
 
-![Layers tool](media/layers-tool.JPEG "Layers tool") 
+![Layers tool](media/layers-tool.JPG "Layers tool") 
 
 When you select the **Layers** tool, you'll see a list of all the layers in the model. Tap a row to show or hide that layer. 
 
-![Unselected](media/unselected.JPEG "Unselected") ![Selected](media/selected.JPEG "Selected")
+![Unselected](media/unselected.JPG "Unselected") ![Selected](media/selected.JPG "Selected")
 
 A single layer can also act as a folder that includes other layers. You can expand or collapse the folder by selecting the [+] or [-] button. 
 
@@ -35,25 +35,25 @@ By default, all layers in the model are visible.
 
 1. After placing a model, select **Layers** on the right side of the screen. 
 
-   ![Enter Layers Tool](media/layers-tool.JPEG "Enter Layers")
+   ![Enter Layers Tool](media/layers-tool.JPG "Enter Layers")
 
 2. Tap the check box for the layer you want to show or hide. 
 
-   ![Layer Selected](media/selected.JPEG "Select Layers")
+   ![Layer Selected](media/selected.JPG "Select Layers")
 
 3. Tap the **Show** or **Hide** button.
 
-   ![Hide Layers](media/hide-layer.JPEG "Hide Layer")
+   ![Hide Layers](media/hide-layer.JPG "Hide Layer")
 
 ## Show or hide all layers 
 
 1. After placing a model, select **Layers** on the right side of the screen. 
 
-   ![Enter Layers Tool](media/layers-tool.JPEG "Enter Layers")
+   ![Enter Layers Tool](media/layers-tool.JPG "Enter Layers")
 
 2. Tap the check box in the toolbar above the other check boxes to select all layers for the model. 
 
-   ![All Layers Selection](media/layer-select-all.JPEG "Select All Layers")
+   ![All Layers Selection](media/layer-select-all.JPG "Select All Layers")
 
 3. Do one of the following: 
 
@@ -61,7 +61,7 @@ By default, all layers in the model are visible.
 
    - To hide all layers, tap **Hide** 
 
-   ![Layer Toggle](media/layer-toggle.JPEG "Toggle Layers")
+   ![Layer Toggle](media/layer-toggle.JPG "Toggle Layers")
 
 ### See also
 
