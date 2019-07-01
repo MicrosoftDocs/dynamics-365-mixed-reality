@@ -54,7 +54,7 @@ After placing a model, if you want to view a different model, you can switch mod
 
     ![Switch models)](media/switch-models.PNG "Switch models")
  
-2.	on the **Models** screen, select the model you want to view.
+2.	On the **Models** screen, select the model you want to view.
 
     ![Models screen)](media/3D-models.PNG "Models screen")
  

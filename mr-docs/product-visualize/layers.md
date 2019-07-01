@@ -37,11 +37,7 @@ Each layer can be selected by pressing on the checkbox placed to the right of ea
 
 ![Unselected](media/unselected.jpeg "Unselected") ![Selected](media/selected.jpeg "Selected")
 
-Additionally, each layer has an indicator of whether it is a folder or individual layer placed to the left of each layer. 
-
-![Expandable Folder](media/expandable-folder.jpeg "Expandable Folder with no children layers visible") ![Collapsible Folder](media/collapsible-folder.jpeg "Collapsible Folder with children layers visible")
-![Individual Invisible Layer](media/individual-layer-visibility.jpeg "(1) Individual Invisible Layer") ![Individual Visible Layer](media/individual-layer-visibility.jpeg "(2) Individual Visible Layer")
-
+Additionally, each layer has an indicator of whether it is a folder or individual layer placed to the left of each layer.
 
 ## Toggle a layer's visibility off 
 
