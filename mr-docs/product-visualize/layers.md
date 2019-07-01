@@ -23,7 +23,7 @@ In Dynamics 365 Product Visualize, you use the Layers tool to show or hide layer
 
 ![Layers tool](media/layers-tool.JPG "Layers tool") 
 
-When you select the **Layers** tool, you'll see a list of all the layers in the model. Tap a row to show or hide that layer. 
+When you select the **Layers** tool, you'll see a list of all the layers in the model.  
 
 ![Unselected](media/unselected.JPG "Unselected") ![Selected](media/selected.JPG "Selected")
 
