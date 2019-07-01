@@ -1,73 +1,65 @@
 ---
 author: erhong
-description: How to toggle the visibility of layers on a 3D model in Dynamics 365 Product Visualize 
+description: How to show or hide layers in a 3D model in Dynamics 365 Product Visualize 
 ms.author: erhong
 ms.date: 06/18/2019
 ms.service: crm-online
 ms.topic: article
-title: How to toggle the visibility of layers on a 3D model in Dynamics 365 Product Visualize 
-ms.reviewer: 
+title: Show or hide layers in a 3D model in Dynamics 365 Product Visualize 
+ms.reviewer: v-brycho
 ---
 
-# Toggle visibility of layers on a 3D model in Dynamics 365 Product Visualize 
+# Show or hide layers in a 3D model in Dynamics 365 Product Visualize 
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-## What is a layer? 
+A single 3D model in Dynamics 365 Product Visualize consists of one or more layers, which you can think of as categorized objects often grouped by function or location. 
 
-A single 3D model consists of one or more layers which can be thought of as categorized objects often grouped by function or location. 
+You can create layers in model design software tools such as CAD. You can build layers in a nested or flattened format. 
 
-Layers are created in model design software tools such as CAD and can be built in a nested or flattened format. 
+## Using the Layers tool
 
-## Introduction to the Layers tool
+In Dynamics 365 Product Visualize, you use the Layers tool to show or hide layers in a 3D model that has been placed in a scene. 
 
-In Dynamics 365 Product Visualize, the Layers tool allows you to toggle the visibility for any existing layer(s) in a 3D model. 
+![Layers tool](media/layers-tool.jpeg "Layers tool") 
 
-After a model is placed in the scene, you can enter the Layers tool by tapping on the toolbar button on the right side labeled Layers. 
-
-The Layers tool presents a list of the placed 3D model's layers where each row can be selected to toggle the visibility of that layer. 
-
-A layer that contains one or more other layers acts as a folder that can be expanded or collapsed by tapping on the [+] or [-] button respectively. 
-
-By default, all layers in the model are visible. 
-
-## Icon Legend
-
-Each layer can be selected by pressing on the checkbox placed to the right of each layer. 
+When you select the **Layers** tool, you'll see a list of all the layers in the model. Tap a row to show or hide that layer. 
 
 ![Unselected](media/unselected.jpeg "Unselected") ![Selected](media/selected.jpeg "Selected")
 
-Additionally, each layer has an indicator of whether it is a folder or individual layer placed to the left of each layer.
+A single layer can also act as a folder that includes other layers. You can expand or collapse the folder by selecting the [+] or [-] button. 
 
-## Toggle a layer's visibility off 
+By default, all layers in the model are visible. 
+
+## Show or hide a layer
 
 1. After placing a model, select **Layers** on the right side of the screen. 
 
    ![Enter Layers Tool](media/layers-tool.jpeg "Enter Layers")
 
-2. Tap on the right checkbox of the desired layer(s) you would like to toggle the visibility of. The layers you select will be visibily outlined in white. 
+2. Tap the check box for the layer you want to show or hide. 
 
    ![Layer Selected](media/selected.jpeg "Select Layers")
 
-3. Tap the **Hide** button to turn the visibility of the selected layer(s) off 
+3. Tap the **Show** or **Hide** button.
 
    ![Hide Layers](media/hide-layer.jpeg "Hide Layer")
 
-## Show or Hide all layers 
+## Show or hide all layers 
 
 1. After placing a model, select **Layers** on the right side of the screen. 
 
    ![Enter Layers Tool](media/layers-tool.jpeg "Enter Layers")
 
-2. Tap on the right checkbox on the layers toolbar to select all layers belonging to the placed model. 
+2. Tap the check box in the toolbar above the other check boxes to select all layers for the model. 
 
    ![All Layers Selection](media/layer-select-all.jpeg "Select All Layers")
 
 3. Do one of the following: 
 
-- To show all layers, tap on **Show**
+   - To show all layers, tap **Show**
 
-- To hide all layers, tap on **Hide** 
+   - To hide all layers, tap **Hide** 
 
    ![Layer Toggle](media/layer-toggle.jpeg "Toggle Layers")
 
