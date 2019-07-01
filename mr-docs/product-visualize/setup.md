@@ -68,15 +68,15 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 2. Sign in with the administrator credentials you created in the previous procedure, and, if prompted, set a new password.
 
-3. In the left pane, select **Billing** and then select **Purchase services**.
+3. In the left pane, select **Billing**, and then select **Purchase services**.
 
    ![Purchase Services](media/subscriptions.PNG "Purchase Services")
 
-4. Search for **Dynamics 365 for Customer Engagement Plan** and select the **Dynamics 365 for Customer Engagement Plan** panel from the results.
+4. Search for **Dynamics 365 for Customer Engagement Plan**, and then select the **Dynamics 365 for Customer Engagement Plan** panel from the results.
 
    ![Dynamics 365 for Customer Engagement plan](media/dynamics-365-customer-engagement-plan.PNG "Dynamics 365 for Customer Engagement plan")
 
-5. On the summary page,select the **Get free trial** button.
+5. On the summary page, select the **Get free trial** button.
 
 6. On the checkout page, select **Try now**. After this processes, select **Continue**. 
 
@@ -86,9 +86,9 @@ Before continuing, make sure the Dynamics 365 for Customer Engagement license ha
 
 1. Go to the Microsoft 365 admin center \([https://admin.microsoft.com](https://admin.microsoft.com)). In the left pane, select **Users** > **Active Users**.
 
-2. Click the name of the admin user created earlier. 
+2. Select the name of the admin user created earlier. 
 
-3. In **Licenses and Apps**, under **Licenses** ensure that **Dynamics 365 Customer Engagement Plan** is checked.
+3. In **Licenses and Apps**, under **Licenses**, make sure that **Dynamics 365 Customer Engagement Plan** is checked.
 
    ![Edit licenses)](media/product-license.PNG "Edit licenses")
 
@@ -100,7 +100,7 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 
 1. In the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for **Admin Centers**, select **All admin centers**. 
 
-2. In the All admin centers page, select the _Dynamics 365_ panel.
+2. In the **All admin centers** page, select the **Dynamics 365** panel.
 
 3. In the page that appears:
 
