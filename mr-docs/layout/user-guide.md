@@ -191,6 +191,26 @@ rotate 3D models.
 | Rotate       | Point and pull the trigger to select the model. Then point at one of the rotation arrows and pull the trigger to rotate the model 90 degrees. For more precise rotation, use the round rotation control: point, pull, and hold the trigger, and then move your controller to rotate. |
 | Multiselect | Point your controller at an empty spot. Pull and hold the trigger and drag to form a rectangle around the models you want to select. Point at any of the models you’ve selected to see what you can do with all of them. |
 
+## Lock a layout
+
+You can lock a layout to prevent unintentional changes. This is particularly useful when you want to share a layout with your peers for reviewing purposes. 
+
+To lock a layout, air tap **Lock layout** in the sidebar menu. This locks the current layout for editing.
+
+![Lock layout](media/lock-layout.PNG "Lock layout")
+ 
+After a layout has been locked, if someone selects a model in the layout, on the third consecutive attempt, a pop-up will appear to let them know that the layout is locked for editing. A similar pop-up is displayed when attempting to place a model from the **Layout** menu into the current layout.
+
+![Locked layout message](media/locked-layout-message.PNG "Locked layout message")
+ 
+A lock graphic is displayed in the top right corner of the layout tile.
+ 
+![Locked layout graphic](media/locked-layout-graphic.PNG "Locked layout graphic")
+
+To unlock a layout, air tap Unlock layout in the sidebar menu. 
+ 
+![Unlock layout](media/unlock-layout.PNG "Unlock layout")
+
 ## Improve performance when your models don't require texture or multiple colors
 
 In certain scenarios, textures or multiple colors might not be important for visualizing 3D models. In these cases, to improve 
