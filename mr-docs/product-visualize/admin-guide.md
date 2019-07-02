@@ -27,10 +27,6 @@ After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 
 
 - Install the Product Visualize solution.
 
-- Install the Product Visualize control if you want sales people to be able to open Product Visualize directly from Dynamics 365 for Sales.
-
-- Adjust permissions.
-
 - Set up Microsoft Teams.
 
 This topic provides step-by-step procedures for all of the above.
@@ -327,7 +323,7 @@ The Product Visualize solution is a package that customizes your Dynamics 365 in
 
 ### Customize the Opportunity page
 
-The Product Visualize solution also contains an optional enhancement that allows salespeople to open the Product Visualize app directly from Dynamics 365 for Sales on their mobile devices. The control is lightweight and can easily be updated or removed.
+The Product Visualize solution also contains an optional enhancement (a control) that allows salespeople to open the Product Visualize app directly from Dynamics 365 for Sales on their mobile devices. The control is lightweight and can easily be updated or removed.
 
 There are numerous ways you can customize your Opportunity page in Dynamics 365 for Sales. This procedure provides suggested customizations, but feel free to adapt to your needs:
 

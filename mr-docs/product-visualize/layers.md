@@ -29,6 +29,8 @@ When you select the **Layers** tool, you'll see a list of all the layers in the 
 
 A single layer can also act as a folder that includes other layers. You can expand or collapse the folder by selecting the [+] or [-] button. 
 
+![Collapsible folder](media/collapsible-folder.jpeg "Collapsible folder") ![Expandable folder](media/expandable-folder.jpeg "Expandable folder") ![Flattened nested](media/flattened-nested.jpeg "Flattened nested")
+
 By default, all layers in the model are visible. 
 
 ## Show or hide a layer
