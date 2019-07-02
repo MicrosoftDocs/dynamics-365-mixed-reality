@@ -198,14 +198,12 @@ You can lock a layout to prevent unintentional changes. This is particularly use
 To lock a layout, air tap **Lock layout** in the sidebar menu. This locks the current layout for editing.
 
 ![Lock layout](media/locked-layout.PNG "Lock layout")
- 
-After a layout has been locked, if someone selects a model in the layout, on the third consecutive attempt, a pop-up will appear to let them know that the layout is locked for editing. A similar pop-up is displayed when attempting to place a model from the **Layout** menu into the current layout.
 
-![Locked layout message](media/locked-layout-message.PNG "Locked layout message")
- 
 A lock graphic is displayed in the top right corner of the layout tile.
  
 ![Locked layout graphic](media/locked-layout-graphic.PNG "Locked layout graphic")
+ 
+After a layout has been locked, if someone selects a model in the layout, on the third consecutive attempt, a pop-up will appear to let them know that the layout is locked for editing. A similar pop-up is displayed when attempting to place a model from the **Layout** menu into the current layout.
 
 To unlock a layout, air tap **Unlock layout** in the sidebar menu. 
  
