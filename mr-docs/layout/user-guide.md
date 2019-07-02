@@ -207,7 +207,7 @@ A lock graphic is displayed in the top right corner of the layout tile.
  
 ![Locked layout graphic](media/locked-layout-graphic.PNG "Locked layout graphic")
 
-To unlock a layout, air tap Unlock layout in the sidebar menu. 
+To unlock a layout, air tap **Unlock layout** in the sidebar menu. 
  
 ![Unlock layout](media/unlock-layout.PNG "Unlock layout")
 
