@@ -79,8 +79,21 @@ Yes, you can choose between U.S. and metric units from **Settings** \>
 
 ## What languages is Dynamics 365 Layout available in?
 
-At this time, [!include[pn-layout](../includes/pn-layout.md)], the [!include[pn-import-tool](../includes/pn-import-tool.md)], and the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-layout](../includes/pn-layout.md)] are
-available only in English. Additionally, to install the add-in, you’ll need to
+[!include[pn-layout](../includes/pn-layout.md)] is available for [!include[pn-hololens](../includes/pn-hololens.md)]2 in the following locales:
+
+- US
+- Canada (English and French)
+- UK
+- Australia
+- Germany
+- France
+- China
+- Japan
+- Taiwan (no speech support)
+- Hong Kong (no speech support)
+
+[!include[pn-layout](../includes/pn-layout.md)], the [!include[pn-import-tool](../includes/pn-import-tool.md)], and the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-layout](../includes/pn-layout.md)] are
+available only in English for [!include[pn-hololens](../includes/pn-hololens.md)]1. Additionally, to install the add-in, you’ll need to
 [set the display language for Microsoft Office to
 English](https://support.office.com/article/add-an-editing-language-or-set-language-preferences-in-office-663d9d94-ca99-4a0d-973e-7c4a6b8a827d).
 
