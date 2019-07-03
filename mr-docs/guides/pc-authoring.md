@@ -258,9 +258,9 @@ Before using Dynamics 365 Guides on a HoloLens that’s unfamiliar with its envi
 
 After you choose an anchoring method, you see the **Outline** page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in Dynamics 365 Guides.
 
-When you open the **Outline** page for the first time, you see that a single task and step are already created for you. 
+When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
 
-![Create a task and step)](media/create-task.PNG "Create a task and step")
+![Create a task and step)](media/task-name.PNG "Create a task and step")
   
 To get started, enter a task name, and then start typing the instructions for the first step in the box. When you need to add a new step, select **Add step**. When you’re ready to add another task, select **Add task**. It’s that simple!
 
@@ -272,7 +272,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
 - A special step called a Completion step that lets operators know when they’ve reached the end of the guide. The Completion step includes default text that you can customize as you see fit.
 
-  ![Outline page)](media/outline-page.PNG "Outline page")
+  ![Outline page)](media/completion-step.PNG "Outline page")
  
 > [!NOTE]
 > Whenever you start working on a guide, be sure to select **Refresh** to ensure you have the latest version. 
