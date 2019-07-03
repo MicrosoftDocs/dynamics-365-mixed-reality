@@ -127,7 +127,7 @@ To print the marker:
 
 1.  In the **Choose an anchor method** screen, in the **Printed Anchor** section, choose **Select**.
 
-    ![Anchoring methods screen)](media/anchoring-method.PNG "Anchoring methods screen")
+    ![Anchoring methods screen)](media/choose-anchor-method.PNG "Anchoring methods screen")
 
 2.  In the **Print and place the anchor** screen, select **Save to print** to save the marker.pdf file to your PC.
 
