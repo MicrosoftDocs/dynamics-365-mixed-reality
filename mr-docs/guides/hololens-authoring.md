@@ -101,7 +101,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
  
 7.	Select an instance to use if you have more than one instance, and then select **Continue**.
 
-8.	In the **Select Mode** dialog box, gaze at the box to the right of **Author** until the box fills, which selects that item. 
+8.	In the **Select Mode** dialog box, gaze at the box to the left of **Author** until the box fills, which selects that item. 
 
     ![Select Author mode)](media/select-mode.PNG "Select Author mode")
     
