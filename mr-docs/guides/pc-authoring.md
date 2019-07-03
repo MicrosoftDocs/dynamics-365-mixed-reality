@@ -83,11 +83,9 @@ After you name your guide, you’ll see the **Outline** page and a prompt to cre
 
 ![Outline page with anchor prompt](media/outline-page.PNG "Outline page with anchor prompt")
 
-- To choose an anchoring method, select **Set your anchor now**.
+- Select **Set your anchor now** to display the **Choose an anchor method** screen.
 
-  The **Choose an anchor method** screen appears
-
-  ![Anchoring methods screen)](media/choose-anchor-method.PNG "Anchoring methods screen")
+![Anchoring methods screen)](media/choose-anchor-method.PNG "Anchoring methods screen")
 
 ### How anchoring works and types of anchors
 
