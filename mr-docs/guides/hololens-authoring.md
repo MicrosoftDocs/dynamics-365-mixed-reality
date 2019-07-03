@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Test and place holograms using the HoloLens application in Author mode (Dynamics 365 Guides in preview)
 ms.author: mamaylya
-ms.date: 05/30/2019
+ms.date: 07/09/2019
 ms.service: crm-online
 ms.topic: article
 title: Test and place holograms using HoloLens Author mode (Dynamics 365 Guides in preview)
@@ -103,15 +103,15 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 
 8.	In the **Select Mode** dialog box, gaze at the box to the right of **Author** until the box fills, which selects that item. 
 
-    ![Select Author mode)](media/author-mode.PNG "Select Author mode")
+    ![Select Author mode)](media/select-mode.PNG "Select Author mode")
     
 > [!TIP]
-> Dynamics 365 Guides (Preview) comes with an Example Guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/step-card.PNG "Example Guide")
+> Dynamics 365 Guides (Preview) comes with an Example Guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/example-guide-hololens.PNG "Example Guide")
 
 ## Align your guide
 The first thing you see when you open a guide is the alignment instructions you created in the PC authoring application. The screen shot that follows shows the operating instructions created for the Example Guide that comes with Dynamics 365 Guides.
 
-![HoloLens alignment instructions)](media/hololens-alignment.PNG "HoloLens alignment instructions")
+![HoloLens alignment instructions)](media/scan-printed-anchor.PNG "HoloLens alignment instructions")
 
 If you chose to align your guide with a printed anchor, the next step is to align the marker hologram with the printed marker you placed in the real-world environment. The marker hologram looks like this:
 
@@ -119,7 +119,7 @@ If you chose to align your guide with a printed anchor, the next step is to alig
   
 After aligning the guide, you’ll see the **Marker found** screen. Select the **Confirm** button to continue. 
 
-![Marker found holograph)](media/marker-found.PNG "Marker found holograph")
+![Marker found holograph)](media/printed-anchor-found.PNG "Marker found holograph")
    
 > [!NOTE]
 > If you chose to use a digital anchor to align the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
@@ -136,7 +136,7 @@ Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows
 
 At the top of the Step card screen, you’ll see three holographic buttons: **Undo**, **Redo**, and **Save**.
 
-![HoloLens step card screen)](media/hololens-orientation.PNG "HoloLens step card screen")
+![HoloLens step card screen)](media/step-card-orientation.PNG "HoloLens step card screen")
  
 The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. There’s no limit to the number of times you can undo or redo. 
 
@@ -145,7 +145,7 @@ The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microso
 
 The Step card also includes several other buttons and UI elements:
 
-![HoloLens buttons)](media/hololens-buttons.PNG "HoloLens buttons")
+![HoloLens buttons)](media/step-card-orientation-2.PNG "HoloLens buttons")
  
 Here’s what each button or UI element is used for:
 
@@ -172,7 +172,7 @@ You don’t need to do anything to place images or videos associated with a step
 
 The 3D assets associated with each step appear below the Step card in *the bin*:
 
-![3D assets below Step card)](media/place-holograms.PNG "3D assets below Step card")
+![3D assets below Step card)](media/step-card-bin.PNG "3D assets below Step card")
  
 ### Place a 3D part 
 
@@ -188,11 +188,9 @@ You can place a 3D model from the 3D toolkit in the same way you place a 3D part
 
 2.	Air tap a category (an arrow or hand, for example), and then air tap the specific 3D model you want to add.
 
-    ![Air tap a category)](media/airtap-category.PNG "Airtap a category")
+    ![Air tap a category)](media/step-card-hands.PNG "Airtap a category")
 
     The item will be added to your bin and you can then place it as you would a 3D part.
-    
-    ![3D object in bin)](media/object-in-bin.PNG "3D object in bin")
 
 ### Manipulating holograms
 
@@ -269,7 +267,7 @@ To place a style:
 
 2.	Air tap the **Edit Hologram** (. . .) button.
 
-    ![Edit hologram button)](media/edit-hologram-button.PNG "Edit hologram button")
+    ![Edit hologram button)](media/hologram-buttons.PNG "Edit hologram button")
 
 3.	Air tap **Styles**. 
 
@@ -277,7 +275,7 @@ To place a style:
  
 4.	Select the style you want to use.
 
-    ![List of styles)](media/styles-list.PNG "List of styles")
+    ![List of styles)](media/styles.PNG "List of styles")
  
 Here’s a list of styles included in Guides and when to use each:
 
@@ -311,11 +309,11 @@ To duplicate a model:
 
 2.	Air tap the **Edit Hologram** (. . .) button.
 
-    ![Edit hologram button](media/edit-hologram-button.PNG "Edit hologram button")
+    ![Edit hologram button](media/hologram-buttons.PNG "Edit hologram button")
     
 3. Select **Duplicate**.
 
-    ![Duplicate button](media/duplicate-models.PNG "Duplicate button")
+    ![Duplicate button](media/edit-duplicate.PNG "Duplicate button")
 
 ## Place tethers
 You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
