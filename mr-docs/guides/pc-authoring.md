@@ -79,9 +79,13 @@ it updates with the changes from HoloLens. This issue will be addressed in our n
 
 ## Choose an anchoring method 
 
-After you name your guide, you’ll see the **Choose an anchor method** screen. 
+After you name your guide, you’ll see the **Outline** page and a prompt to create an anchor.
 
-![Anchor methods screen)](media/anchoring-method.PNG "Anchor methods screen")
+![Outline page with anchor prompt](media/outline-page.PNG "Outline page with anchor prompt")
+
+To choose an anchoring method, select **Set your anchor now.
+
+### How anchoring works and types of anchors
 
 Anchoring is used to spatially sync your instructions to the real world. When you anchor your guide, your instructions coincide 
 with the space they live in and become meaningful. Your content is centered around this anchoring point.
