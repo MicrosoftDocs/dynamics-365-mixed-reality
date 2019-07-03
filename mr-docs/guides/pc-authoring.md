@@ -85,6 +85,10 @@ After you name your guide, you’ll see the **Outline** page and a prompt to cre
 
 - To choose an anchoring method, select **Set your anchor now**.
 
+  The **Choose an anchor method** screen appears
+
+  ![Anchoring methods screen)](media/choose-anchor-method.PNG "Anchoring methods screen")
+
 ### How anchoring works and types of anchors
 
 Anchoring is used to spatially sync your instructions to the real world. When you anchor your guide, your instructions coincide 
