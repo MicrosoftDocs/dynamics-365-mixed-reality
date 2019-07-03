@@ -133,7 +133,7 @@ To print the marker:
 
 2.  In the **Print and place the anchor** screen, select **Save to print** to save the marker.pdf file to your PC.
 
-    ![Print and place the anchor screen](media/print-place-anchor.PNG "Print and place the anchor screen")
+    ![Print and place the anchor screen](media/print-anchor.PNG "Print and place the anchor screen")
 
 3.	Open the marker.pdf file on your PC in Adobe Acrobat Reader.
 
