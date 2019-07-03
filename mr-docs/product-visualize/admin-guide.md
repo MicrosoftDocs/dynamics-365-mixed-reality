@@ -290,7 +290,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 12. Select **Save and Close**.
 
-## Install the Product Visualize Control
+## Install the Product Visualize Solution
 
 The Product Visualize solution is a package that customizes your Dynamics 365 installation in order to support Product Visualize.
 
