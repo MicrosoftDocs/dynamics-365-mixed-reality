@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-![ATV graphic](media/overview.PNG "ATV graphic") 
+![Engine graphic](media/overview.PNG "Engine graphic") 
 
 Microsoft Dynamics 365 Guides in preview is a mixed-reality application for Microsoft HoloLens that enables employees to learn in the flow 
 of work by providing holographic instructions when and where they need them. A series of step-by-step instruction cards 
