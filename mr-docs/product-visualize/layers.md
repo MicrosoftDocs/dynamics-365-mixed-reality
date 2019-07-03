@@ -17,7 +17,7 @@ A single 3D model in Dynamics 365 Product Visualize consists of one or more laye
 
 You can create layers in model design software tools such as CAD. You can build layers in a nested or flattened format. 
 
-## Using the Layers tool
+## Use the Layers tool
 
 In Dynamics 365 Product Visualize, you use the Layers tool to show or hide layers in a 3D model that has been placed in a scene. 
 
