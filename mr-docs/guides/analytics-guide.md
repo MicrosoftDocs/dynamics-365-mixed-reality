@@ -56,7 +56,7 @@ To set up your reports:
  
 1.	In the Dynamics 365 Guides PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
    
-    ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")      
+    ![Analyze tab)](media/get-started-analytics.PNG "Analyze tab")      
  
 2.	In the Microsoft Download Center, select **Download**. 
 
