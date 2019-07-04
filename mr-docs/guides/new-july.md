@@ -11,19 +11,19 @@ ms.reviewer: v-brycho
 
 ## What's new in Dynamics 365 Guides (July 9, 2019)
 
-In the May release, we created a new flow for selecting an anchoring method. If you don't see these changes in the PC app, <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">your admin needs to do some updates</a>.
-
-The June release brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
+Guides app version 103.1906.XXXX brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
  
-### Improved experience
-The PC app is now fully responsive across various screen sizes. 
+### Improvements in this release
 
-The navigation menu on the left and bottom right makes it much faster to navigate between guide content and guide anchor settings. 
+- The PC app is now fully responsive across various screen sizes. 
+
+- The navigation menu on the left and bottom right of the PC app makes it much faster to navigate between guide content and guide anchor settings. 
  
-“Gaze-dwell” interactions on HoloLens on the left side of each button make it easier to select buttons across the app. 
+- “Gaze-dwell” interactions on HoloLens are consistently placed on the left side of list items to make it easier to select while browsing. 
 
-With the indented task panel, you can easily jump between tasks and steps. 
+- 3D models are loaded for each step to improve performance on HoloLens
  
-### What's New panel
-The What's New panel (what you’re reading right now!) tells you about new and noteworthy features in each monthly release and alerts you about any required updates. 
+This **What's New** panel will continue to inform you of new and noteworthy features in each monthly release.
 
+> [!NOTE]
+> Please make sure to update the Dynamics 365 Guides (Preview) solution in the Dynamics 365 admin center to take advantage of the latest features. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides (Preview) solution</a> or contact your Dynamics 365 administrator.
