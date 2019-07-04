@@ -169,7 +169,7 @@ Here’s what each button or UI element is used for:
 |![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
 |![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
 |![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
-|![Task name](media/task-name.PNG "Task name")|Task name|The name of the task.|
+|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 |![Media button](media/media-button.png "Media button")|Media|This button shows that there’s a video or image attached to a step. The image or video opens automatically when the operator goes to the step. If they want to close the image or video, they can select the button.|
 
 ## Test the flow of your guide
