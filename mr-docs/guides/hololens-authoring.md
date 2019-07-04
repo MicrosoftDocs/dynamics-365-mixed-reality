@@ -129,7 +129,7 @@ To align a guide by using a printed anchor:
    
    ![Marker found holograph)](media/printed-anchor-found.PNG "Marker found holograph")
    
-4. Select **Confirm**  to continue. 
+4. If the outline aligns with the printed anchor, select **Confirm**. If not, select **Rescan**.
    
 > [!NOTE]
 > If you chose to use a digital anchor to align the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
