@@ -109,17 +109,27 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 > Dynamics 365 Guides comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/example-guide-hololens.PNG "Example Guide")
 
 ## Align your guide
-The first thing you see when you open a guide is the alignment instructions from the PC authoring application. For example, if you chose a printed anchor, you'd see a screen like this:
+The first thing you see when you open a guide is the alignment instructions from the PC authoring application. 
 
-![HoloLens alignment instructions)](media/scan-printed-anchor.PNG "HoloLens alignment instructions")
+To align a guide by using a printed anchor:
 
-If you chose to align your guide with a printed anchor, the next step is to align the anchor hologram with the printed anchor you placed in the real-world environment. The anchor hologram looks like this:
+1. Stand about two feet in front ot the printed anchor.
 
-![Holographic marker image)](media/marker-holograph.PNG "Holographic marker image")
-  
-After aligning the guide with a printed anchor, you’ll see the **Printed anchor found** screen. Select the **Confirm** button to continue. 
+2. In the **Scan printed anchor** screen, select **Initiate Scan**.
 
-![Marker found holograph)](media/printed-anchor-found.PNG "Marker found holograph")
+   ![HoloLens alignment instructions)](media/scan-printed-anchor.PNG "HoloLens alignment instructions")
+
+   On your HoloLens, you'll see an anchor hologram that looks like this:
+
+   ![Holographic marker image)](media/marker-holograph.PNG "Holographic marker image")
+   
+3. Look at the printed anchor with your HoloLens until a green outline appears.
+
+   You'll see the **Printed anchor found** screen. 
+   
+   ![Marker found holograph)](media/printed-anchor-found.PNG "Marker found holograph")
+   
+4. Select **Confirm**  to continue. 
    
 > [!NOTE]
 > If you chose to use a digital anchor to align the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
