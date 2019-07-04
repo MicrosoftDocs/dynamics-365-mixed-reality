@@ -50,7 +50,7 @@ Gaze on HoloLens is pretty much as easy as it sounds. In some cases, you can sel
 
 ![Example of using gaze)](media/select-mode.PNG "Example of using gaze")  
 
-The **Operator** selection is completed when the box is filled up by your gaze. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
+The selection is completed when the box is filled up by your gaze. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
 
 In other cases in Dynamics 365 Guides, you use gaze to target an object, and then act on the target with a gesture, such as an air tap. In either case, when you gaze, make sure to turn your whole head—not just your eyes.  
 
