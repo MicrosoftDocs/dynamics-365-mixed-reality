@@ -159,7 +159,7 @@ The Step card also includes several other buttons and UI elements:
  
 Here’s what each button or UI element is used for:
 
-|Button|Name|Purpose|
+|Button/Example|Name|Purpose|
 |-----|------------|----------------------------------------------------------------------------------------------------------------|
 |![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
 |![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the printed anchor (marker) or digital anchor again.|
