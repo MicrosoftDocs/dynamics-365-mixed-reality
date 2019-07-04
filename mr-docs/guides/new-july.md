@@ -21,7 +21,7 @@ Guides app version 103.1906.XXXX brings a new look and feel to the PC and HoloLe
  
 - “Gaze-dwell” interactions on HoloLens are consistently placed on the left side of list items to make it easier to select while browsing. 
 
-- 3D models are loaded for each step to improve performance on HoloLens
+- 3D models are loaded for each step to improve performance on HoloLens.
  
 This **What's New** panel will continue to inform you of new and noteworthy features in each monthly release.
 
