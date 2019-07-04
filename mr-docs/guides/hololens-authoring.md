@@ -111,7 +111,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 ## Align your guide
 The first thing you see when you open a guide is the alignment instructions from the PC authoring application. 
 
-### To align a guide by using a printed anchor:
+### To align a guide by using a printed anchor
 
 1. Stand about two feet in front of the printed anchor.
 
