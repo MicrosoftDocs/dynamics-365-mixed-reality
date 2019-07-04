@@ -175,7 +175,7 @@ In addition to the **Next Step** and **Go Back** buttons, the Step card includes
 
 Here’s a description of the buttons and other UI elements in the Step card:
 
-Button|Name|Description|
+Button/Example|Name|Description|
 |-----|------------------|------------------------------------------------------------------------------------|
 |![Home button](media/home-button.png "Home button")|Home|Choose a different guide|
 |![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor button|Re-anchor (realign) the guide. HoloLens can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to re-anchor the guide by gazing at a printed anchor or digital anchor again. For more information, see “Anchor your guide” earlier in this topic.|
