@@ -117,7 +117,7 @@ If you chose to align your guide with a printed anchor, the next step is to alig
 
 ![Holographic marker image)](media/marker-holograph.PNG "Holographic marker image")
   
-After aligning the guide, you’ll see the **Marker found** screen. Select the **Confirm** button to continue. 
+After aligning the guide with a printed marker, you’ll see the **Printed anchor found** screen. Select the **Confirm** button to continue. 
 
 ![Marker found holograph)](media/printed-anchor-found.PNG "Marker found holograph")
    
