@@ -142,7 +142,7 @@ The first thing you see when you open a guide is the anchoring instructions for 
 
 The anchoring instructions are written by the person who created the guide. Anchoring a guide is a crucial step, just like calibrating HoloLens. You anchor a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don’t line up, you’ll likely be confused when you try to do a task. You could even cause damage. For example, you might drill a hole in the wrong place. 
 
-If the guide is set up with printed anchor, you’ll look for a printed anchor attached to a physical object in your real-world environment. The printed anchor looks like this: 
+If the guide is set up with a printed anchor, you’ll look for a printed anchor attached to a physical object in your real-world environment. The printed anchor looks like this: 
 
 ![Printed marker)](media/printed-marker.PNG "Printed marker")
 
