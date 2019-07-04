@@ -134,7 +134,7 @@ After you align your guide, you’ll see the Step card. The Step card is the hub
 
 Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap to navigate through a guide. 
 
-At the top of the Step card screen, you’ll see three holographic buttons: **Save**, **Undo**, and **Redo**.
+At the top of the Step card screen, you’ll see three buttons: **Save**, **Undo**, and **Redo**.
 
 ![HoloLens step card screen)](media/step-card-orientation.PNG "HoloLens step card screen")
  
