@@ -330,7 +330,7 @@ To duplicate a model:
 ## Place tethers
 You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
 
-![Holographic tether](media/hographic-tether.PNG "Holographic tether")
+![Holographic tether](media/tether-example.PNG "Holographic tether")
 
 To place a tether:
 
@@ -338,7 +338,7 @@ To place a tether:
 
 2.	Place it in the real-world location that you want.
 
-    ![Place a tether](media/tether-example.PNG "Place a tether")
+    ![Place a tether](media/place-tether.PNG "Place a tether")
 
 ### Best practices for tethers
 
