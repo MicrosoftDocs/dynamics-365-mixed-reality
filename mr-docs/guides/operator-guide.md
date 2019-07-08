@@ -204,12 +204,12 @@ Note that the tether might go through real-world objects at times.
 
 You’ll notice that wherever you look, the Step card follows your gaze—it “tags along.” As you’re working, you never have to worry about where your instructions are. You can pin the Step card, however, if you want to turn off the tag-along feature. To pin the Step card, select **Pin**. Once it’s pinned, you can grab it and move it wherever you like. 
 
-![Pin button on HoloLens screen](media/pin-card-operator.PNG "Pin button on HoloLens screen")
+![Pin button on HoloLens screen](media/example-guide-operator.PNG "Pin button on HoloLens screen")
 
 ## Turn off holograms 
 You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the tether. 
 
-![Turn off holograms](media/turn-off-holograms.PNG "Turn off holograms")
+![Turn off holograms](media/tether-example.PNG "Turn off holograms")
   
 
 ## Useful links for more information
