@@ -338,7 +338,7 @@ To place a tether:
 
 2.	Place it in the real-world location that you want.
 
-    ![Place a tether](media/place-tether.PNG "Place a tether")
+    ![Place a tether](media/tether-example.PNG "Place a tether")
 
 ### Best practices for tethers
 
