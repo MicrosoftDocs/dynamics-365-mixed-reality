@@ -190,7 +190,7 @@ Here’s a description of the buttons and other UI elements in the Step card:
 ## Use a tether to help you find the focus area for a step 
 Step cards are linked by holographic tethers to physical areas in your work area. These tethers help you find the area where you need to take an action. 
 
-![Holographic tether](media/tether-hololens.PNG "Holographic tether")
+![Holographic tether](media/tether-example.PNG "Holographic tether")
 
 ### Tether tips and tricks 
 
