@@ -185,8 +185,7 @@ Here’s a description of the buttons and other UI elements in the Step card:
 |F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
 |G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for Example Guide:</br><br>![HoloLens Outline page)](media/example-guide-operator.PNG "HoloLens Outline page")| 
 |H|![Task progress](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
-|I|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task you're working on.|
-|J|![Media button](media/media-button.png "Media button")|Media|Close the image or video associated with the step. (If there’s an image or video associated with a step, it appears automatically when you go to that step.)| 
+|I|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task you're working on.| 
  
 ## Use a tether to help you find the focus area for a step 
 Step cards are linked by holographic tethers to physical areas in your work area. These tethers help you find the area where you need to take an action. 
