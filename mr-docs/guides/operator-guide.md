@@ -163,7 +163,7 @@ When you align your guide, if you’re using the Microsoft HoloLens Commercial S
 
 When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card “tags along” with you on HoloLens to keep your instructions where you need them. 
 
-![Step card with Next Step and Go Back buttons)](media/step-card.PNG "Step card with Next Step and Go Back buttons")
+![Step card with Next Step and Go Back buttons)](media/step-card-basic.PNG "Step card with Next Step and Go Back buttons")
 
 > [!NOTE]
 > The preceding screen shot shows the first step of Example Guide, the guide created for the preview release of Dynamics 365 Guides. In Example Guide, the first step provides an overview of the tasks included in the guide.  
