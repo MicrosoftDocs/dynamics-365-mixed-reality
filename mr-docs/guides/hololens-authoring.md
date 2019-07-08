@@ -89,7 +89,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 
 3.	Open the Guides application.
 
-    ![Launch Guides)](media/launch-guides.PNG "Launch 'Guides")
+    ![Launch Guides)](media/open-guides-application.PNG "Launch 'Guides")
  
 4.	In the **Welcome** screen, select **Sign in**. 
 
