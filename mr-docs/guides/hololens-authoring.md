@@ -159,8 +159,8 @@ The Step card also includes several other buttons and UI elements:
  
 Here’s what each button or UI element is used for:
 
-|Button/Example|Name|Purpose|
-|-----|------------|----------------------------------------------------------------------------------------------------------------|
+|Letter|Button/Example|Name|Purpose|
+|--|---|------------|----------------------------------------------------------------------------------------------------------------|
 |A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
 |B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the printed anchor (marker) or digital anchor again.|
 |C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- **Noise Cancellation**. If the environment is very noisy, this setting adjusts sensitivity to voice commands so the operator doesn't have to shout.</br><br>- **Dynamic Volume**. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- **Build number**. Shows the build you’re using.|
