@@ -21,7 +21,7 @@ details, end to end, top to bottom, in a single place that you can use for plann
 
 ## July 9, 2019
 
-Dynamics 365 Guides **app version 103.1907.04001.0** brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
+Dynamics 365 Guides **app version 103.1907.4001.0** brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
  
 ### Improvements in this release
 
