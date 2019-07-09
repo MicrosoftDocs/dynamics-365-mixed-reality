@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 ## What's new in Dynamics 365 Guides (July 9, 2019)
 
-Guides app version 103.1906.XXXX brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
+Guides app version 103.1907.04001.0 brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
  
 ### Improvements in this release
 
