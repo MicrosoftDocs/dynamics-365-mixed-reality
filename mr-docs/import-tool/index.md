@@ -1,8 +1,8 @@
 ---
-author: BryceHo
+author: JBrentJ
 description: Overview of converting and optimizing 3D models to use with Dynamics 365 Import Tool (Preview).  
-ms.author: BryceHo
-ms.date: 04/26/2019
+ms.author: v-jerja
+ms.date: 06/24/2019
 ms.service: crm-online
 ms.topic: overview
 title: Overview of converting and optimizing 3D models to use with Dynamics 365 Import Tool (Preview).
@@ -47,10 +47,10 @@ The following illustration shows a more detailed view of this process.
 > ![Overall flow](media/overall-flow.PNG "Overall flow") 
 
 **A.**	Create 3D models using the CAD software of your choice.<br>
-**B.**	Convert CAD files to one of these file formats: FBX, OBJ, JT, STP, or SKP.<br>
-**C.**	Optimize your 3D model and convert it to GLB.<br>
-**D.**	Use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare content for [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens, immersive headsets, or mobile devices.<br>
-**E.**	3D models are ready to be imported into [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications.
+**B.**	Convert CAD files to one of these file formats: GLB, glTF, FBX, OBJ, STL, PLY, JT, SKP, or STP.<br>
+**C.**	If you save your model as one of the file formats with a red asterisk next to it, you can optimize the 3D model yourself and use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to convert the 3D model to a GLB file locally. If you use any of the listed formats, including those with the red asterisks, you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for manual optimization and conversion to a supported format.<br>
+**D.**	3D models are optimized and converted into the GLB format.<br>
+**E.**	3D models ready to be imported into [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications.
 
 ### See also
 [Convert 3D models](convert-models.md)<br>
@@ -58,5 +58,5 @@ The following illustration shows a more detailed view of this process.
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
 
-
+ 
 

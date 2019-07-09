@@ -1,8 +1,8 @@
 ---
-author: BryceHo
+author: JBrentJ
 description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
-ms.author: BryceHo
-ms.date: 04/26/2019
+ms.author: v-jerja
+ms.date: 06/24/2019
 ms.service: crm-online
 ms.topic: article
 title: Use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
@@ -41,15 +41,25 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 
 4.	Select **Open**.
 
-5.	Select **Import using this PC**.
+5.	In the **Prepare Model** dialog box, under **How would you like to prepare the model?**, select **Import using this PC**.
 
     > [!div class="mx-imgBorder"]
     > ![Import using this PC option](media/import-using-pc-option.PNG "Import using this PC option") 
 
 6.	Select **Apply**.
 
-    > [!NOTE]
-    > The **Import using this PC** option isn’t available if any of your source models are not in GLB file format.
+#### If you encounter file access errors when importing files
+
+3D models sometimes reference other files in your file system, such as textures and materials files. Your imported 3D model might not look correct if Dynamics 365 Import Tool (Preview) can’t access these files, in which case, you might see this error dialog box:
+
+> [!div class="mx-imgBorder"]
+> ![File access errors dialog box](media/file-access-errors.PNG "File access errors dialog box") 
+
+There are two primary reasons why Dynamics 365 Import Tool (Preview) might not have access to these files:
+
+- **No permissions**. For the safety and security of your files, Windows 10 does not allow all Windows Store applications full access to the files in your system. To allow Dynamics 365 Import Tool (Preview) access to your files, select **Grant permissions**, go to the folder(s) that contains the files, and then select the folder(s). This grants access to all files in the folder. Alternatively, you can move your 3D models and all their referenced files to the **3D Objects** folder.
+
+- **Missing files**. Dynamics 365 Import Tool (Preview) expects the files to appear in the exact file paths listed in the dialog box. If files are not there, they will be marked as missing. Move the missing files to locations indicated in the dialog box, or update the original 3D model.
 
 ### Send model to Microsoft option
 
@@ -61,25 +71,32 @@ If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microso
 
 4.	Select **Open**.
  
-5.	Select **Send model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**.
+5.	In the **Prepare Model** dialog box, under **How would you like to prepare the model?**, select **Send model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**.
 
     > [!div class="mx-imgBorder"]
-    > ![Send model to Microsoft option](media/send-model-microsoft.PNG "Send model to Microsoft option")
+    > ![Send model to Microsoft option](media/send-model-microsoft-a.png "Send model to Microsoft option")
 
 6.	Under **Enter your email address**, enter the email address where [!include[cc-microsoft](../includes/cc-microsoft.md)] can contact you when the model is ready.
 
-7.	Under **Where will you use this model?**, choose the target device. You can only choose one type of target device at this time.
+7. Select **Next**.     
 
-8.	Under **How many models will your scene have?**, select the appropriate option for your scene complexity. 
+8.	Under **Where will you use this model?**, choose the target device. You can only choose one type of target device at this time.
 
-9.	Select **Apply** to send the model to [!include[cc-microsoft](../includes/cc-microsoft.md)].
+    > [!div class="mx-imgBorder"]
+    > ![Send model to Microsoft option, second page](media/send-model-microsoft-2.png "Send model to Microsoft option")
 
-    [!include[cc-microsoft](../includes/cc-microsoft.md)] will send you the following email notification to confirm that the model has been sent:
+9.	Under **How many models will your scene have?**, select the appropriate option for your scene complexity. 
+
+10. In the **What's most important to you about your model** box, provide instructions for Microsoft. For example, specify which is most important to you—visual accuracy or performance.
+
+11.	Select **Apply** to send the model to [!include[cc-microsoft](../includes/cc-microsoft.md)].
+
+    [!include[cc-microsoft](../includes/cc-microsoft.md)] sends you the following email notification to confirm that the model has been sent:
     
     > [!div class="mx-imgBorder"]
     > ![Confirmation email](media/confirmation-email.PNG "Confirmation email") 
 
-    [!include[cc-microsoft](../includes/cc-microsoft.md)] will update you on the progress of the manual optimization through email and will let you know when the model is ready to download.
+    [!include[cc-microsoft](../includes/cc-microsoft.md)] updates you on the progress of the manual optimization through email and lets you know when the model is ready to download.
 
 ## What happens to my model when I send it to Microsoft?
 
@@ -121,6 +138,8 @@ You can provide feedback on the quality of processed 3D models if you're not sat
 
     > [!NOTE] 
     > You can't update feedback after you submit it.
+
+
 
 ### See also
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>

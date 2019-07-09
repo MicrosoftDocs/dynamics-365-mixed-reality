@@ -1,5 +1,6 @@
 ---
 author: Mamaylya
+
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: mamaylya
 ms.date: 07/09/2019
@@ -46,3 +47,4 @@ before proceeding.
 admin center. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides (Preview) solution</a> or contact your Dynamics 365 administrator.
 
 For more information on authoring a guide with the PC application, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-authoring" target="_blank">Use the PC authoring application to create a guide</a>.
+
