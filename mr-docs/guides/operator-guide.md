@@ -117,7 +117,7 @@ If you sign in with a brand new HoloLens device, you’ll be prompted to walk th
 
 3.	Open the Dynamics 365 Guides application.
 
-    ![Open Guides)](media/launch-guides.PNG "Launch 'Guides")
+    ![Open Guides)](media/open-guides-app.PNG "Launch 'Guides")
  
 4.	In the **Welcome** screen, select **Sign in**. 
 
