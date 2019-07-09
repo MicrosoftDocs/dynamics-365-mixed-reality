@@ -2,7 +2,7 @@
 
 # What's new in Dynamics 365 Guides
 
-The What's new pages provide details about the latest releases of Microsoft Dynamics 365 Guides. 
+This page provides details about the latest releases of Microsoft Dynamics 365 Guides, organized by release date.  
 
 > [!NOTE]
 > You can also learn about new and upcoming Dynamics 365 Guides features through our 
