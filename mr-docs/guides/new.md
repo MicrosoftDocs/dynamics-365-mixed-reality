@@ -11,7 +11,7 @@ details, end to end, top to bottom, in a single place that you can use for plann
 
 ## July 9, 2019
 
-Guides app version 103.1907.04001.0 brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
+Dynamics 365 Guides **app version 103.1907.04001.0** brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
  
 ### Improvements in this release
 
@@ -27,7 +27,7 @@ This **What's New** panel will continue to inform you of new and noteworthy feat
 
 ## June 3, 2019
 
-Guides app version 103.1905.31001 introduces an improved anchoring (alignment) experience for Dynamics 365 Guides in preview. The PC app doesn’t require you to choose an anchoring method before creating a guide so you can start creating content right away. You can also switch between anchoring methods after creating a guide. The PC app also provides better step-by-step guidance for choosing the appropriate method for anchoring mixed reality instructions to your workspace.
+Dynamics 365 Guides **app version 103.1905.31001** introduces an improved anchoring (alignment) experience for Dynamics 365 Guides in preview. The PC app doesn’t require you to choose an anchoring method before creating a guide so you can start creating content right away. You can also switch between anchoring methods after creating a guide. The PC app also provides better step-by-step guidance for choosing the appropriate method for anchoring mixed reality instructions to your workspace.
 
 If you choose to create a guide using a digital anchor, you can now use a pre-set 3D model, so you don’t have to choose a 3D model 
 before proceeding.
