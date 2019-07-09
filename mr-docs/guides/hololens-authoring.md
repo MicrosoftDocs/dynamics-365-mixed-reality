@@ -81,15 +81,15 @@ To determine which version of the operating system you’re using on HoloLens:
 After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
 1.	Go to **All Apps**.
 
-    ![HoloLens Apps selection)](media/hololens-apps.PNG "HoloLens Apps selection")
+    ![HoloLens Apps selection](media/hololens-apps.PNG "HoloLens Apps selection")
 
 2.	Select the down arrow.
 
-    ![HoloLens down arrow highlighted)](media/hololens-down-arrow.PNG "HoloLens down arrow highlighted")
+    ![HoloLens down arrow highlighted](media/hololens-down-arrow.PNG "HoloLens down arrow highlighted")
 
 3.	Open the Guides application.
 
-    ![Launch Guides)](media/open-guides-application.PNG "Launch 'Guides")
+    ![Launch Guides](media/open-guides-application.PNG "Launch 'Guides")
  
 4.	In the **Welcome** screen, select **Sign in**. 
 
@@ -97,13 +97,13 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 
 6.	In the **Work or school account** screen, enter the credentials you created during the trial sign-up or the credentials provided to you by the administrator who installed the app. 
 
-    ![Sign in to HoloLens)](media/sign-in-hololens.PNG "Sign in to HoloLens")
+    ![Sign in to HoloLens](media/sign-in-hololens.PNG "Sign in to HoloLens")
  
 7.	Select an instance to use if you have more than one instance, and then select **Continue**.
 
 8.	In the **Select Mode** dialog box, gaze at the box to the left of **Author** until the box fills, which selects that item. 
 
-    ![Select Author mode)](media/select-mode.PNG "Select Author mode")
+    ![Select Author mode](media/select-mode.PNG "Select Author mode")
     
 > [!TIP]
 > Dynamics 365 Guides comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/example-guide-hololens.PNG "Example Guide")
@@ -117,17 +117,17 @@ The first thing you see when you open a guide is the alignment instructions from
 
 2. In the **Scan printed anchor** screen, select **Initiate Scan**.
 
-   ![HoloLens alignment instructions)](media/scan-printed-anchor.PNG "HoloLens alignment instructions")
+   ![HoloLens alignment instructions](media/scan-printed-anchor.PNG "HoloLens alignment instructions")
 
    On your HoloLens, you'll see an anchor hologram that looks like this:
 
-   ![Holographic marker image)](media/marker-holograph.PNG "Holographic marker image")
+   ![Holographic marker image](media/marker-holograph.PNG "Holographic marker image")
    
 3. Look at the printed anchor with your HoloLens until a green outline appears.
 
    You'll see the **Printed anchor found** screen. 
    
-   ![Marker found holograph)](media/printed-anchor-found.PNG "Marker found holograph")
+   ![Marker found holograph](media/printed-anchor-found.PNG "Marker found holograph")
    
 4. If the outline aligns with the printed anchor, select **Confirm**. If not, select **Rescan**.
    
@@ -146,7 +146,7 @@ Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows
 
 At the top of the Step card screen, you’ll see three buttons: **Save**, **Undo**, and **Redo**.
 
-![HoloLens step card screen)](media/step-card-orientation.PNG "HoloLens step card screen")
+![HoloLens step card screen](media/step-card-orientation.PNG "HoloLens step card screen")
  
 The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. There’s no limit to the number of times you can undo or redo. 
 
@@ -155,7 +155,7 @@ The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microso
 
 The Step card also includes several other buttons and UI elements:
 
-![HoloLens buttons)](media/step-card-orientation-2.PNG "HoloLens buttons")
+![HoloLens buttons](media/step-card-orientation-2.PNG "HoloLens buttons")
  
 Here’s what each button or UI element is used for:
 
@@ -184,7 +184,7 @@ You don’t need to do anything to place images or videos associated with a step
 
 The 3D assets associated with each step appear below the Step card in *the bin*:
 
-![3D assets below Step card)](media/step-card-bin.PNG "3D assets below Step card")
+![3D assets below Step card](media/step-card-bin.PNG "3D assets below Step card")
  
 ### Place a 3D part 
 
@@ -200,7 +200,7 @@ You can place a 3D model from the 3D toolkit in the same way you place a 3D part
 
 2.	Air tap a category (an arrow or hand, for example), and then air tap the specific 3D model you want to add.
 
-    ![Air tap a category)](media/step-card-hands.PNG "Airtap a category")
+    ![Air tap a category](media/step-card-hands.PNG "Airtap a category")
 
     The item will be added to your bin and you can then place it as you would a 3D part.
 
@@ -223,7 +223,7 @@ To place a hologram from one of your bins:
 >[!Tip]  
 > You’ll know you’ve entered precision mode when the selection sphere turns blue.
 
-![Hologram selection sphere)](media/hologram-selection-sphere.PNG "Hologram selection sphere")
+![Hologram selection sphere](media/hologram-selection-sphere.PNG "Hologram selection sphere")
 
  
 #### Rotate a hologram
@@ -246,7 +246,7 @@ To rotate a hologram:
 When rotating, it helps to think as if you are physically grabbing the knob and rotating around the object, like a wheel.
 The following graphic shows how to use the different rotation knobs:
 
-![Hologram manipulation)](media/hologram-manipulation.PNG "Hologram manipulation")
+![Hologram manipulation](media/hologram-manipulation.PNG "Hologram manipulation")
  
 > [!Important]
 > To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. 
@@ -279,15 +279,15 @@ To place a style:
 
 2.	Air tap the **Edit Hologram** (. . .) button.
 
-    ![Edit hologram button)](media/hologram-buttons.PNG "Edit hologram button")
+    ![Edit hologram button](media/hologram-buttons.PNG "Edit hologram button")
 
 3.	Air tap **Styles**. 
 
-    ![Edit styles)](media/edit-styles.PNG "Edit styles")
+    ![Edit styles](media/edit-styles.PNG "Edit styles")
  
 4.	Select the style you want to use.
 
-    ![List of styles)](media/styles.PNG "List of styles")
+    ![List of styles](media/styles.PNG "List of styles")
  
 Here’s a list of styles included in Guides and when to use each:
 
