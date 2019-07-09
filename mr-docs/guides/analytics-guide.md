@@ -2,7 +2,7 @@
 author: BryceHo
 description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides in preview to improve process efficiencies.
 ms.author: cynielse
-ms.date: 04/30/2019
+ms.date: 07/09/2019
 ms.service: crm-online
 ms.topic: article
 title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides in preview
@@ -56,7 +56,7 @@ To set up your reports:
  
 1.	In the Dynamics 365 Guides PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
    
-    ![Analyze tab)](media/analyze-tab.PNG "Analyze tab")      
+    ![Analyze tab)](media/get-started-analytics.PNG "Analyze tab")      
  
 2.	In the Microsoft Download Center, select **Download**. 
 

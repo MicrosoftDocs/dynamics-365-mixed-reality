@@ -2,7 +2,7 @@
 author: BryceHo
 description: Known Issues with Dynamics 365 Guides in preview
 ms.author: makamat
-ms.date: 05/30/2019
+ms.date: 07/09/2019
 ms.service: crm-online
 ms.topic: article
 title: Known Issues with Dynamics 365 Guides in preview
@@ -233,12 +233,6 @@ Some glTF files may have dependencies in other folders that the app may not have
 
 There are some problems with rendering the “see through” style on some 3D models. Some surfaces on these models will look gray. Please use another style if you see this problem, or contact customer service if this is a must-have and you need help with it.
 
-#### After playing a video in HoloLens, its thumbnail might disappear
-
-After playing a video on HoloLens, you might see an empty media panel. This is a bug. The video is still there and you can play it by tapping on the play button.
-
-![Blank video)](media/blank-video-thumbnail.PNG "Blank video") 
- 
 #### When moving a 3D model during authoring on HoloLens, the movement of the model may seem slow
 
 To allow authors to place 3D models carefully and precisely, the default movement is set to be slow. To indicate this, the manipulation sphere around the model will be blue. You can move your hand faster, or wiggle the model a bit to switch it to move faster. 
