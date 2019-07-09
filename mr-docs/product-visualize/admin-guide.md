@@ -365,7 +365,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 4. Search for **Office 365 Business Premium**, and then select the **Office 365 Business Premium** panel from the results.
 
-   ![Dynamics 365 for Customer Engagement plan](media/office.png "Dynamics 365 for Customer Engagement plan")
+   ![Dynamics 365 for Customer Engagement plan](media/office.PNG "Dynamics 365 for Customer Engagement plan")
 
 5. On the summary page, select **Get free trial**.
 
