@@ -121,7 +121,7 @@ The first thing you see when you open a guide is the alignment instructions from
 
    On your HoloLens, you'll see an anchor hologram that looks like this:
 
-   ![Holographic marker image](media/marker-holograph.PNG "Holographic marker image")
+   ![Holographic marker image](media/scanning.PNG "Holographic marker image")
    
 3. Look at the printed anchor with your HoloLens until a green outline appears.
 
