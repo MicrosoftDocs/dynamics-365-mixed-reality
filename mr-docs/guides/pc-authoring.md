@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides in preview.
 ms.author: mamaylya
-ms.date: 05/30/2019
+ms.date: 07/09/2019
 ms.service: crm-online
 ms.topic: article
 title: Use the PC authoring application to create a guide in Dynamics 365 Guides in preview
@@ -79,9 +79,15 @@ it updates with the changes from HoloLens. This issue will be addressed in our n
 
 ## Choose an anchoring method 
 
-After you name your guide, you’ll see the **Choose an anchor method** screen. 
+After you name your guide, you’ll see the **Outline** page and a prompt to create an anchor.
 
-![Anchor methods screen)](media/anchoring-method.PNG "Anchor methods screen")
+![Outline page with anchor prompt](media/outline-page.PNG "Outline page with anchor prompt")
+
+- Select **Set your anchor now** to display the **Choose an anchor method** screen.
+
+![Anchoring methods screen)](media/choose-anchor-method.PNG "Anchoring methods screen")
+
+### How anchoring works and types of anchors
 
 Anchoring is used to spatially sync your instructions to the real world. When you anchor your guide, your instructions coincide 
 with the space they live in and become meaningful. Your content is centered around this anchoring point.
@@ -123,11 +129,11 @@ To print the marker:
 
 1.  In the **Choose an anchor method** screen, in the **Printed Anchor** section, choose **Select**.
 
-    ![Anchoring methods screen)](media/anchoring-method.PNG "Anchoring methods screen")
+    ![Anchoring methods screen)](media/choose-anchor-method.PNG "Anchoring methods screen")
 
 2.  In the **Print and place the anchor** screen, select **Save to print** to save the marker.pdf file to your PC.
 
-    ![Print and place the anchor screen](media/print-place-anchor.PNG "Print and place the anchor screen")
+    ![Print and place the anchor screen](media/print-anchor.PNG "Print and place the anchor screen")
 
 3.	Open the marker.pdf file on your PC in Adobe Acrobat Reader.
 
@@ -252,9 +258,9 @@ Before using Dynamics 365 Guides on a HoloLens that’s unfamiliar with its envi
 
 After you choose an anchoring method, you see the **Outline** page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in Dynamics 365 Guides.
 
-When you open the **Outline** page for the first time, you see that a single task and step are already created for you. 
+When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
 
-![Create a task and step)](media/create-task.PNG "Create a task and step")
+![Create a task and step)](media/task-name.PNG "Create a task and step")
   
 To get started, enter a task name, and then start typing the instructions for the first step in the box. When you need to add a new step, select **Add step**. When you’re ready to add another task, select **Add task**. It’s that simple!
 
@@ -266,7 +272,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
 - A special step called a Completion step that lets operators know when they’ve reached the end of the guide. The Completion step includes default text that you can customize as you see fit.
 
-  ![Outline page)](media/outline-page.PNG "Outline page")
+  ![Outline page)](media/completion-step.PNG "Outline page")
  
 > [!NOTE]
 > Whenever you start working on a guide, be sure to select **Refresh** to ensure you have the latest version. 
@@ -303,9 +309,9 @@ In the Step card page, you write your instructional text and assign supporting a
 
 1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
 
-2. Drag the object to the appropriate box below the instructional text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit , drag it to one of the **3D parts** boxes. 
+2. Drag the object to the appropriate box below the instructional text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit, drag it to one of the **3D parts** boxes. 
 
-   ![Create a step with the Step card)](media/create-step.PNG "Create a step with the step card")
+   ![Create a step with the Step card)](media/drag-object.PNG "Create a step with the step card")
 
    > [!NOTE]
    > The collection of boxes below the instructional text is called the “bin.”
@@ -342,16 +348,16 @@ To import your own 3D objects:
 
 2.	Locate the 3D object you want to import, and then select **Open**.
 
-    ![Import custom 3D part](media/import-3D-part.PNG "Import custom 3D part")
+    ![Import custom 3D part](media/import-object.PNG "Import custom 3D part")
     
 > [!NOTE]
-> Dynamics 365 Guides supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/best-practices)
+> Dynamics 365 Guides supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
 ### Add 3D objects from the 3D toolkit to support your steps
 
 Dynamics 365 Guides comes with a library of predefined 3D objects included in the 3D toolkit that are optimized to work perfectly with HoloLens. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
 
-![Add object from 3D toolkit)](media/add-3D-toolkit.PNG "Add object from 3D toolkit")
+![Add object from 3D toolkit)](media/3d-toolkit.PNG "Add object from 3D toolkit")
  
 The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. Here’s what the models look like:
 
@@ -364,17 +370,13 @@ You add a 3D object from the 3D toolkit in the Step card page, and then place it
 
 To add an object from the 3D toolkit:
 
-1.	Select the **Library** tab.
-
-2. Select the **3D toolkit** tab.
+1. Select the **3D toolkit** tab.
 
 2.	Select the appropriate category of objects.
-
-    ![3D toolkit categories)](media/3D-toolkit-categories.PNG "3D toolkit categories")
     
 3.	Drag the object you want from the list to a **3D parts** box below the Step card.
 
-    ![Drag object from 3D toolkit)](media/drag-3D-toolkit-object.PNG "Drag object from 3D toolkit")
+    ![Drag object from 3D toolkit)](media/3d-part.PNG "Drag object from 3D toolkit")
  
 ### Best practices for 3D toolkit
 
