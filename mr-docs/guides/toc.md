@@ -5,7 +5,6 @@
 ## Get started
 ### [Get started](get-started.md)
 ### [What's new](new.md)
-#### [May 28, 2019](new-may.md)
 ## Author a guide
 ### [Authoring overview](authoring-overview.md)
 ### [Before you start](before-you-start.md)
