@@ -29,7 +29,7 @@ After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 
 
 - Set up Microsoft Teams.
 
-This topic provides step-by-step procedures for all of the above.
+The following topics provide step-by-step procedures for all of the above.
 
 ## Set up a user group
 
@@ -77,7 +77,7 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
 ### Add a user to your organization
 
-1. Go to [https://admin.microsoft.com](https://admin.microsoft.com) and sign in with the administrator credentials.
+1. Go to [https://admin.microsoft.com](https://admin.microsoft.com), and sign in with the administrator credentials.
 
 2. In the left pane, select **Users**, and then select **Active users**.
 
@@ -126,7 +126,7 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
 2. Select the Sales Hub application in the list.
 
-   ![a6)](media/a6.png "a6")
+   ![Sales Hub](media/a6.png "Sales Hub")
 
 3. Select the **Settings** button in the upper-right corner of the page, and then select **Advanced Settings**.
 
@@ -136,7 +136,7 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
 5. On the **Security** page, select **Users**.
 
-   ![User Settings](media/user-settings.PNG "User Settings")
+   ![User settings](media/user-settings.PNG "User settings")
 
 6. Select the name of the user you created.
 
@@ -144,13 +144,13 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
    ![Approve Email](media/user-actions-email.PNG "Approve Email")
 
-8. On the menu bar, select **Manage Roles**.
+8. On the menu bar, select **Manage roles**.
 
-   ![Manage Roles](media/user-actions-roles.PNG "Manage Roles")
+   ![Manage roles](media/user-actions-roles.PNG "Manage roles")
 
 9. Select the **"Sales, Enterprise app access"** and **"Salesperson"** options from the list, and then select **OK**.
 
-   ![Sales Role](media/manage-roles.PNG "Sales Role")
+   ![Sales role](media/manage-roles.PNG "Sales role")
 
 ## Add products
 
@@ -306,18 +306,18 @@ The Product Visualize solution is a package that customizes your Dynamics 365 in
 
 5. Import the solution by selecting the **Import** button and selecting the solution (.zip file) you downloaded.
 
-   ![Import Solution](media/import-solution.PNG "Import Solution")
+   ![Import solution](media/import-solution.PNG "Import solution")
  
 6. In the **Solution Information** dialog box, select **Import** to begin the import process.
 
-   ![Import Information](media/import-information.PNG "Import Information")
+   ![Import information](media/import-information.PNG "Import information")
    
     > [!NOTE]
     > Importing a solution will replace any existing versions of that solution.
     
     After the import process is complete, you'll see the **Importing Solution** dialog box:
 
-   ![Import Complete](media/import-complete.PNG "Import Complete")
+   ![Import complete](media/import-complete.PNG "Import complete")
 
 7. Select **Close**.
 
@@ -357,7 +357,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 ### Sign up for Teams
 
-1. In a private browser window, go to the Microsoft 365 admin center at [https://admin.microsoft.com](https://admin.microsoft.com).
+1. In a private browser window, go to the Microsoft 365 Admin Center at [https://admin.microsoft.com](https://admin.microsoft.com).
 
 2. Sign in with the administrator credentials you created.
 
@@ -385,7 +385,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 ### Add channels to the team
 
-1. In the **Teams and Channels** list, select the **More Information** button (...) next to the team you just created.
+1. In the **Teams and Channels** list, select the **More Information** button next to the team you just created.
 
 2. Select **Add Channel**. 
 
@@ -421,7 +421,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 For more information on setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/basics/teams-install-app).
 
-## Post notes from Product Visualize
+### Post notes from Product Visualize
 
 Product Visualize makes your customer's needs part of the conversation by posting any notes you make in the app back to a connected Teams channel. The text and mixed-reality image get posted to Teams, giving your team the information and context they need to make smart decisions. This feature is enabled by default but can be turned off through the in-app **Settings** menu. 
 
