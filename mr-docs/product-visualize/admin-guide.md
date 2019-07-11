@@ -282,7 +282,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 9. Select **Add New Opportunity**. 
 
-   ![Add New Opportunity Product](media/opportunity-product.PNG "Add New Opportunity Product")
+   ![Add New Opportunity Product](media/opportunity-product.PNG "Add New Opportunity")
 
 10. In the **Existing Product** field, select one of the products you created.
 
