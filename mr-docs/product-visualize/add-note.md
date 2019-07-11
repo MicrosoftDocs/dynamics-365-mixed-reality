@@ -45,7 +45,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
    
 5.	In the **Create Note** screen:
 
-    - To ink on the screen, select a color and start drawing. For example, draw an arrow  to call out a particular part of the model.
+    - To ink on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
     - To add text, tap the box at the bottom of the screen, and then enter the text you want.
     
