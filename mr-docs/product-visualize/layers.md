@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 
 A single 3D model in Dynamics 365 Product Visualize consists of one or more layers, which you can think of as categorized objects often grouped by function or location. 
 
-You can create layers in model design software tools such as CAD. You can build layers in a nested or flattened format. 
+You can create layers in model design software tools, such as CAD. You can build layers in a nested or flattened format. 
 
 ## Use the Layers tool
 
@@ -39,33 +39,33 @@ You can expand or collapse the folder by selecting the [+] or [-] button. By def
 
 1. After placing a model, select **Layers** on the right side of the screen. 
 
-   ![Enter Layers Tool](media/layers-tool.JPG "Enter Layers")
+   ![Enter Layers Tool](media/layers-tool.JPG "Enter layers")
 
 2. Tap the check box for the layer you want to show or hide. 
 
-   ![Layer Selected](media/selected.JPG "Select Layers")
+   ![Layer Selected](media/selected.JPG "Select layers")
 
 3. Tap the **Show** or **Hide** button.
 
-   ![Hide Layers](media/hide-layer.JPG "Hide Layer")
+   ![Hide Layers](media/hide-layer.JPG "Hide layer")
 
 ## Show or hide all layers 
 
 1. After placing a model, select **Layers** on the right side of the screen. 
 
-   ![Enter Layers Tool](media/layers-tool.JPG "Enter Layers")
+   ![Enter Layers Tool](media/layers-tool.JPG "Enter layers")
 
 2. Tap the check box in the toolbar above the other check boxes to select all layers for the model. 
 
-   ![All Layers Selection](media/layer-select-all.JPG "Select All Layers")
+   ![All Layers Selection](media/layer-select-all.JPG "Select all layers")
 
 3. Do one of the following: 
 
-   - To show all layers, tap **Show**
+   - To show all layers, tap **Show**.
 
-   - To hide all layers, tap **Hide** 
+   - To hide all layers, tap **Hide**. 
 
-   ![Layer Toggle](media/layer-toggle.JPG "Toggle Layers")
+   ![Layer Toggle](media/layer-toggle.JPG "Toggle layers")
 
 ### See also
 
