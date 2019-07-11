@@ -19,13 +19,13 @@ Microsoft Dynamics 365 Product Visualize requires an active Dynamics 365 for Sal
 The first thing you need to do is create a new Azure Active Directory organization. This new organization provides a safe environment to try out Product Visualize that won't interfere with any existing Dynamics 365 instances. You can also use this organization to create and manage users, separate from your business organization.
 
    > [!NOTE]
-   > If you prefer to add Dynamics 365 for Sales to an existing Azure Active Directory skip ahead to **Add a Dynamics 365 for Customer Engagement trial.**
+   > If you prefer to add Dynamics 365 for Sales to an existing Azure Active Directory, skip ahead to **Add a Dynamics 365 for Customer Engagement trial.**
 
 1. Sign in to the Microsoft Azure portal at https://ms.portal.azure.com.
 
 2. If your organization has multiple Azure subscriptions, select **Directory & Subscription** ![Directory and Subscription button](media/directory-and-subscription-button.PNG "Directory and Subscription button") in the upper-right corner of the page to view the list of available subscriptions. 
 
-3. In the left pane, select **Create a resource** > **Identity**, > **Azure Active Directory**.
+3. In the left pane, select **Create a resource** > **Identity** > **Azure Active Directory**.
 
    ![Create resource)](media/create-resource.PNG "Create resource")
 
@@ -51,7 +51,7 @@ After creating the new organization, the next step is to add an admin user for t
 
     - **Name**: Enter any name.
     
-    - **User name**: Enter a fully qualified username (<username>@\<tenant>.onmicrosoft.com).
+    - **Username**: Enter a fully qualified username (<username>@\<tenant>.onmicrosoft.com).
     
     - **Directory Role**: Global Administrator
     
@@ -70,7 +70,7 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 3. In the left pane, select **Billing**, and then select **Purchase services**.
 
-   ![Purchase Services](media/subscriptions.PNG "Purchase Services")
+   ![Purchase Services](media/subscriptions.PNG "Purchase services")
 
 4. Search for **Dynamics 365 for Customer Engagement Plan**, and then select the **Dynamics 365 for Customer Engagement Plan** panel from the results.
 
@@ -84,7 +84,7 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 Before continuing, make sure the Dynamics 365 for Customer Engagement license has been assigned to the admin user.
 
-1. Go to the Microsoft 365 admin center \([https://admin.microsoft.com](https://admin.microsoft.com)). In the left pane, select **Users** > **Active Users**.
+1. Go to the Microsoft 365 Admin Center at [https://admin.microsoft.com](https://admin.microsoft.com). In the left pane, select **Users** > **Active Users**.
 
 2. Select the name of the admin user created earlier. 
 
@@ -98,7 +98,7 @@ Before continuing, make sure the Dynamics 365 for Customer Engagement license ha
 
 The next step is to set up the Dynamics 365 for Customer Engagement instance. This procedure provides step-by-step instructions for manually installing Dynamics for Sales, which generates a completely empty instance of the Common Data Service. 
 
-1. In the Microsoft 365 Admin Center \([https://admin.microsoft.com](https://admin.microsoft.com)), in the left navigation, in the drop-down list for **Admin Centers**, select **All admin centers**. 
+1. In the Microsoft 365 Admin Center at [https://admin.microsoft.com](https://admin.microsoft.com), in the left navigation, in the drop-down list for **Admin Centers**, select **All admin centers**. 
 
 2. In the **All admin centers** page, select the **Dynamics 365** panel.
 
@@ -137,7 +137,7 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 
 1. Go to the Sales Hub for your newly created Dynamics 365 instance. To do this:
 
-    1. On the Admin Center page, select  **Open**  next to your organization name in the gray box.
+    1. On the Admin Center page, select **Open** next to your organization name in the gray box.
     
     2. Select **Sales Hub** in the list of available applications.
     
@@ -159,16 +159,16 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 
 6. When complete, return to the **Document Management** settings page, and then select **Document Management Settings**.
 
-7. Enter the URL for your SharePoint site if it isn't filled in by default. Then select **Next**.
+7. Enter the URL for your SharePoint site if it isn't filled in by default, and then select **Next**.
 
-8. Continue through Setup using the default values for the remaining options.
+8. Continue through setup using the default values for the remaining options.
 
    Dynamics 365 automatically creates SharePoint folders for Dynamics 365 entities. 
 
 9. Close the window when done.
 
 ## What's next?
-After you've finished the setup process, you'll have an Azure Active Directory organization complete with Microsoft Dynamics 365 for Customer Engagement and SharePoint. At this point you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator guide](admin-guide.md).
+After you've finished the setup process, you'll have an Azure Active Directory organization complete with Microsoft Dynamics 365 for Customer Engagement and SharePoint. At this point, you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator guide](admin-guide.md).
 
 ### See also
 
