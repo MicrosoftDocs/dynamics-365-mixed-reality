@@ -296,7 +296,7 @@ The Product Visualize solution is a package that customizes your Dynamics 365 in
 
 ### Import the Product Visualize solution
 
-1. [Download the **Product Visualize** solution](http://download.microsoft.com/download/5/5/2/5520DCD1-DF0E-4255-A7C9-5C95E80E0596/ProductVisualize.zip).
+1. [Download the **Product Visualize** solution](http://download.microsoft.com/download/F/D/E/FDEE4BA0-F7E5-4FBD-80C1-E670F9F397BA/ProductVisualize.Solution.zip).
 
 2. Go to the Dynamics 365 for Sales Hub.
 
