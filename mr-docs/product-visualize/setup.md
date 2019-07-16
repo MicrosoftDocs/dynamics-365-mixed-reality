@@ -70,7 +70,7 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 3. In the left pane, select **Billing**, and then select **Purchase services**.
 
-   ![Purchase Services](media/billing-purchase-services.png "Purchase services")
+   ![Purchase Services](media/billing_purchase_services.png "Purchase services")
 
 4. Search for **Dynamics 365 for Customer Engagement Plan**, and then select the **Dynamics 365 for Customer Engagement Plan** panel from the results.
 
