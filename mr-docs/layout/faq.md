@@ -90,7 +90,7 @@ Yes, you can choose between U.S. and metric units from **Settings** \>
 - China
 - Japan
 - Taiwan (no speech support)
-- Hong Kong (no speech support)
+- Hong Kong SAR (no speech support)
 
 [!include[pn-layout](../includes/pn-layout.md)], the [!include[pn-import-tool](../includes/pn-import-tool.md)], and the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-layout](../includes/pn-layout.md)] are
 available only in English for [!include[pn-hololens](../includes/pn-hololens.md)]1. Additionally, to install the add-in, you’ll need to
