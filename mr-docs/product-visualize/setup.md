@@ -74,7 +74,7 @@ Product Visualize integrates directly into Dynamics 365 for Sales, which enables
 
 4. Search for **Dynamics 365 for Customer Engagement Plan**, and then select the **Dynamics 365 for Customer Engagement Plan** panel from the results.
 
-   ![Dynamics 365 for Customer Engagement plan](media/dynamics-365-customer-engagement-plan.PNG "Dynamics 365 for Customer Engagement plan")
+   ![Dynamics 365 for Customer Engagement plan](media/purchase_services_365_engagement-plan.png "Dynamics 365 for Customer Engagement plan")
 
 5. On the summary page, select the **Get free trial** button.
 
