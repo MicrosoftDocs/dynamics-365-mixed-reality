@@ -23,7 +23,7 @@ Integration between Dynamics 365 Guides and Dynamics 365 Field Service requires:
 
 - A Dynamics 365 instance (not a Common Data Service instance) with Field Service version 8.6.0.183 or later.
 
-- Dynamics 365 Guides Common Data Service version 104.1907.0.18 or later. [Learn how to upgrade the Dynamcis 365 Guides 
+- Dynamics 365 Guides Common Data Service version 104.1907.0.18 or later. [Learn how to upgrade the Dynamics 365 Guides 
 solution.](upgrade.md)
 
 - Dynamics 365 Guides PC and HoloLens app versions 104.1907.XXXX or later. [Learn how to install the apps.]()
