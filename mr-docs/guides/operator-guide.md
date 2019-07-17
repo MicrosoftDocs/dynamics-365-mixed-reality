@@ -177,7 +177,7 @@ Here’s a description of the buttons and other UI elements in the Step card:
 
 |Letter|Button/Example|Name|Description|
 |---|--|------------------|------------------------------------------------------------------------------------|
-|A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide|
+|A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
 |B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor button|Re-anchor (realign) the guide. HoloLens can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to re-anchor the guide by gazing at a printed anchor or digital anchor again. For more information, see “Anchor your guide” earlier in this topic.|
 |C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your HoloLens device correctly. Fit is very important. Otherwise holograms might be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the HoloLens properly.<br></br>- **Noise cancellation.** Enables you to use voice commands to navigate the app when there’s a lot of noise in your environment (a factory floor, for example). The app supports noise levels up to 80 decibels.<br></br>- **Dynamic volume.** Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.<br></br>- **Build number.** Shows the build of Dynamics 365 Guides that you’re using.| 
 |D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
