@@ -47,7 +47,7 @@ solution.](upgrade.md)
       ![Add new task](media/add-new-task.PNG "Add new task")   
       
    3. In the **New Work Order Service Task** view, select a task type, provide an optional description, and then select a 
-   guide to associate with the service task. Select ** Save** when you're done.
+   guide to associate with the service task. Select **Save** when you're done.
    
       ![Select task type and associate guide](media/new-work-order-options.PNG "Select task type and associate guide")   
       
