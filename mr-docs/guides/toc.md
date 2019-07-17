@@ -12,6 +12,7 @@
 ### [Test and place holograms with the HoloLens application](hololens-authoring.md)
 ### [Gestures for authoring and navigating](authoring-gestures.md)
 ### [Use the Dynamics 365 Import Tool to convert 3D models](import-tool.md)
+### [Dynamics 365 Field Service integration](field-service.md)
 ## [Operator's manual](operator-guide.md)
 ## [Analyze your guides](analytics-guide.md)
 ## [Glossary of terms](glossary.md)
