@@ -67,7 +67,7 @@ solution.](upgrade.md)
     
     
 > [!NOTE]
-> - The Dynamics 365 Guides HoloLens app shows work orders scheduled for the current day and the following eight days.<br>- Work orders continue to appear on HoloLens until they're marked as **Complete** in Field Service, or assigned to someone else.
+> - The Dynamics 365 Guides HoloLens app shows work orders scheduled for the current day and the following eight days.<br></br>- Work orders continue to appear on HoloLens until they're marked as **Complete** in Field Service or assigned to someone else.
 
 ### Known issues
 
