@@ -77,8 +77,9 @@ solution.](upgrade.md)
    
    ![Create a new guide from Field Service](media/create-new-guide-from-field-service.PNG "Create a new guide from Field Service")   
 
+### See also
 
-      
+[Overview of Dynamics 365 for Field Service](https://docs.microsoft.com/dynamics365/customer-engagement/field-service/overview)
       
       
    
