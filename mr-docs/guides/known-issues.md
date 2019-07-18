@@ -25,7 +25,7 @@ While you can author the same guide on PC and HoloLens, we strongly recommend th
 
 ## Example guide images and video still show older version of HoloLens user interface
 
-The Example guide will be revised in a later release. Until then, please note that the images and video in the Example guide show the older version of the HoloLens user interface (version 103.1905.31001 or earlier).
+The Example guide will be revised in a later release. Until then, note that the images and video in the Example guide show the older version of the HoloLens user interface (version 103.1905.31001 or earlier).
 
 ## Text wrapping on PC and HoloLens might differ in rare cases
 
