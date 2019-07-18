@@ -28,7 +28,7 @@ Note that to use this feature, you'll need:
 
 - Dynamics 365 Guides Common Data Service 104.1907.0.18 or later. [Learn how to upgrade to the latest solution.](upgrade.md)
 
-- Dynamics 365 Guides PC app and HoloLens app versions 104.1907.XXXX or later. [Learn how to install the apps.]().
+- Dynamics 365 Guides PC app and HoloLens app versions 104.1907.XXXX or later. [Learn how to sign up for the preview and install the apps.](setup.md).
 
 ### July 9, 2019
 
