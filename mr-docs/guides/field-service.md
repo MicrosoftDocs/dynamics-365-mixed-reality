@@ -26,7 +26,7 @@ Integration between Dynamics 365 Guides and Dynamics 365 Field Service requires:
 - Dynamics 365 Guides Common Data Service version 104.1907.0.18 or later. [Learn how to upgrade the Dynamics 365 Guides 
 solution.](upgrade.md)
 
-- Dynamics 365 Guides PC and HoloLens app versions 104.1907.XXXX or later. [Learn how to install the apps.]()
+- Dynamics 365 Guides PC and HoloLens app versions 104.1907.XXXX or later. [Learn how to sign up for the preview and install the apps.](setup.md)
 
 ## Enable your technicians to use Dynamics 365 Guides for work orders
 
