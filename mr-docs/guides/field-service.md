@@ -38,7 +38,7 @@ solution.](upgrade.md)
    
 2. Create a Field Service work order and attach a service task to it. To do this:
 
-   1. To create a new work order in Dynamics 365 for Field Service, select **Word Orders**, and then select **New Work Order**.
+   1. To create a new work order in Dynamics 365 for Field Service, select **Work Orders**, and then select **New Work Order**.
    
       ![Create work order](media/create-work-order.PNG "Create work order")  
       
