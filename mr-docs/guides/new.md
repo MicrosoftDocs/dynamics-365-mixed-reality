@@ -20,7 +20,7 @@ details, end to end, top to bottom, in a single place that you can use for plann
 
 ### July 23, 2019
 
-Dynamics 365 Guides app version 1.3 introduces integration with Dynamics 365 for Field Service. Field Service customers can now attach guides to Field Service tasks in Dynamics 365. When work orders are assigned to technicians, the technicians can launch the assigned guide in a dedicated tab in the Dynamics 365 Guides HoloLens application and do their work.
+Dynamics 365 Guides app version XXXX introduces integration with Dynamics 365 for Field Service. Field Service customers can now attach guides to Field Service tasks in Dynamics 365. When work orders are assigned to technicians, the technicians can launch the assigned guide in a dedicated tab in the Dynamics 365 Guides HoloLens application and do their work.
 
 Note that to use this feature, you'll need:
 
