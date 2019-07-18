@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Dynamics 365 for Field Service integration (included in version 104.1907.XXXX) enables Field Service 
 customers to attach guides to field service tasks in Dynamics 365. When work orders are assigned to technicians, 
-the technicians can use a dedicated tab in the Guides HoloLens app to launch the assigned guide and do their work.
+the technicians can use a dedicated **Field Service** tab in the Guides HoloLens app to launch the assigned guide and do their work.
 
 ![Select guide](media/select-guide.PNG "Select guide")   
 
