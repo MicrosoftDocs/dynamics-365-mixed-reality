@@ -63,7 +63,7 @@ solution.](upgrade.md)
       
 4. Have your technician launch the Dynamics 365 Guides app on HoloLens. After signing in, the technician will see the **Field Service** tab. The tab shows the guide (and any other guides assigned to them) along with a brief description of the booking and when that order is scheduled.
 
-    ![Select guide](media/select-guide-2.PNG "Select guide")   
+    ![Select guide](media/select-guide-3.PNG "Select guide")   
     
     
 > [!NOTE]
