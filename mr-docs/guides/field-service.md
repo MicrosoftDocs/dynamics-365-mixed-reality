@@ -23,7 +23,7 @@ Integration between Dynamics 365 Guides and Dynamics 365 Field Service requires:
 
 - A Dynamics 365 instance (not a Common Data Service instance) with Field Service version 8.6.0.183 or later.
 
-- Dynamics 365 Guides Common Data Service version 104.1907.0.18 or later. [Learn how to upgrade the Dynamics 365 Guides 
+- Dynamics 365 Guides solution version 104.1907.0.18 or later. [Learn how to upgrade the Dynamics 365 Guides 
 solution.](upgrade.md)
 
 - Dynamics 365 Guides PC and HoloLens app versions 104.1907.XXXX or later. [Learn how to sign up for the preview and install the apps.](setup.md)
@@ -42,7 +42,7 @@ solution.](upgrade.md)
    
       ![Create work order](media/create-work-order.PNG "Create work order")  
       
-   2. In the **Service Tasks** view, select the More info button (...), and then select **Add New Work Order Service Task**.
+   2. In the **Service Tasks** view, select the **More Commands** button (...), and then select **Add New Work Order Service Task**.
    
       ![Add new task](media/add-new-task.PNG "Add new task")   
       
@@ -53,7 +53,7 @@ solution.](upgrade.md)
       
 3. Assign the work order to a resource (the technician). To do this, you need to create a booking for the resource:
 
-   1. In the **Work Order** view, scroll down to the **Bookings** tab, select the More Info (...) button, and then select **Add New Bookable Resource**.
+   1. In the **Work Order** view, scroll down to the **Bookings** tab, select the **More Commands** (...) button, and then select **Add New Bookable Resource**.
    
       ![Add bookable resource](media/add-bookable-resource.PNG "Add bookable resource")   
       
