@@ -2,7 +2,7 @@
 author: BryceHo
 description: Known Issues with Dynamics 365 Guides in preview
 ms.author: makamat
-ms.date: 07/09/2019
+ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
 title: Known Issues with Dynamics 365 Guides in preview
@@ -13,6 +13,24 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
+## Keep file names for 3D models and media short
+
+Before you upload custom 3D models or media files in the PC app, please make sure the file names are not more than 60 characters and do not contain special characters (&, @, and so on). 
+
+Large 3D models are stored in HoloLens memory while in use and therefore slow down the experience significantly if there are too many models in a guide. **For reasonable performance, we recommend that you don't exceed 450 MB of 3D models in a single guide.** 
+
+## Editing the same guide on two different PCs is not fully supported
+
+While you can author the same guide on PC and HoloLens, we strongly recommend that you not edit the same guide on two separate PCs. This can cause synchronization issues and you might lose changes made in one of the PC sessions.
+
+## Example guide images and video still show older UI version of HoloLens user interface
+
+The Example guide will be revised in a later release. Until then, please note that the images and video in the Example guide show the older version of the HoloLens user interface (version 103.1905.31001 or earlier).
+
+## Text wrapping on PC and HoloLens might differ in rare cases
+
+In rare cases, you might notice that text is wrapped on the Step card view in HoloLens, but not on the PC. This is because Dynamics 365 Guides renders fonts at different sizes for readability between PC and HoloLens, and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the HoloLens app before sharing your guides with operators.
+
 ## HoloLens app can't refresh when you edit the anchoring step on a PC for the same guide
 
 We recommend you don't open a guide on HoloLens while editing the alignment step for the same guide on a PC. In this case, the HoloLens app will refresh automatically, but won't be able to open the guide.
