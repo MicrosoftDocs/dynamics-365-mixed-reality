@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Dynamics 365 for Field Service integration (included in version 104.1907.XXXX) enables Field Service 
 customers to attach guides to field service tasks in Dynamics 365. When work orders are assigned to technicians, 
-the technicians can use a dedicated tab in the Guides HoloLens app to retrieve and launch the assigned guide and do their work.
+the technicians can use a dedicated tab in the Guides HoloLens app to launch the assigned guide and do their work.
 
 ![Select guide](media/select-guide.PNG "Select guide")   
 
@@ -36,9 +36,9 @@ solution.](upgrade.md)
    
    - [Use the HoloLens app to place your holograms](hololens-authoring.md)
    
-2. Create a Field Service work order and attach a service task to it. To do this:
+2. Create a Field Service work order and attach a service task to it. 
 
-   1. To create a new work order in Dynamics 365 for Field Service, select **Work Orders**, and then select **New Work Order**.
+   1. To create a new work order in Dynamics 365 for Field Service, in the left navigation, select **Work Orders**, and then select **New Work Order**.
    
       ![Create work order](media/create-work-order.PNG "Create work order")  
       
@@ -57,17 +57,17 @@ solution.](upgrade.md)
    
       ![Add bookable resource](media/add-bookable-resource.PNG "Add bookable resource")   
       
-   2. In the **Resource Booking** view, schedule the service task at the appropriate time for the technician, and then select the appropriate technician as the resource.
+   2. In the **New Bookable Resource Booking** view, schedule the service task at the appropriate time for the technician, and then select the appropriate technician as the resource.
    
       ![Schedule and select resource](media/schedule-select-resource.PNG "Schedule and select resource")   
       
-4. Have your technician launch the Dynamics 365 Guides app on HoloLens. After signing in, the technician will see the **Guides for Field Service** tab. The tab shows the guide (and any other guides assigned to them) along with a brief descriptoin of the booking and when that order has been scheduled.
+4. Have your technician launch the Dynamics 365 Guides app on HoloLens. After signing in, the technician will see the **Field Service** tab. The tab shows the guide (and any other guides assigned to them) along with a brief descriptoin of the booking and when that order is scheduled.
 
     ![Select guide](media/select-guide-2.PNG "Select guide")   
     
     
 > [!NOTE]
-> - The Dynamics 365 Guides HoloLens app shows work orders scheduled for the current day and the following eight days.<br></br>- Work orders continue to appear on HoloLens until they're marked as **Complete** in Field Service or assigned to someone else.
+> * The Dynamics 365 Guides HoloLens app shows work orders scheduled for the current day and the following eight days.<br></br>* Work orders continue to appear on HoloLens until they're marked as **Complete** in Field Service or assigned to someone else.
 
 ### Known issues
 
