@@ -23,7 +23,7 @@ Large 3D models are stored in HoloLens memory while in use and therefore slow do
 
 While you can author the same guide on PC and HoloLens, we strongly recommend that you not edit the same guide on two separate PCs. This can cause synchronization issues and you might lose changes made in one of the PC sessions.
 
-## Example guide images and video still show older UI version of HoloLens user interface
+## Example guide images and video still show older version of HoloLens user interface
 
 The Example guide will be revised in a later release. Until then, please note that the images and video in the Example guide show the older version of the HoloLens user interface (version 103.1905.31001 or earlier).
 
