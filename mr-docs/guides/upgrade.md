@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 This topic is for Dynamics 365 administrators. Some releases of Dynamics 365 Guides require an update to the Dynamics 365 Guides solution. When an update is required, the user will see a notification in the **What's new** panel.
 
 > [!IMPORTANT]
-> * Before updating your Dynamics 365 Guides solution in the Dynamics 365 Admin center, make sure that the Guides PC and HoloLens apps have been updated to the latest version from the store.<br></br>* Updates to the solution must be done when the PC and HoloLens apps are not in use.  
+> - Before updating your Dynamics 365 Guides solution in the Dynamics 365 Admin center, make sure that the Guides PC and HoloLens apps have been updated to the latest version from the store.<br><br>- Updates to the solution must be done when the PC and HoloLens apps are not in use.  
 
 To upgrade the solution:
 
