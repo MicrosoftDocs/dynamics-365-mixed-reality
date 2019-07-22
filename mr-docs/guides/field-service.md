@@ -1,7 +1,7 @@
 ---
-author: Mamaylya
+author: makamat
 description: How to integrate Dynamics 365 Field Service with Dynamics 365 Guides so Field Service technicians can follow a guide while doing a work order
-ms.author: Mamaylya
+ms.author: makamat
 ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Integrate Dynamics 365 for Field Service with Dynamics 365 Guides
 
-Dynamics 365 for Field Service integration (included in version 104.1907.XXXX) enables Field Service 
+Dynamics 365 for Field Service integration (included in version 104.1907.19001) enables Field Service 
 customers to attach guides to field service tasks in Dynamics 365. When work orders are assigned to technicians, 
 the technicians can use a dedicated **Field Service** tab in the Guides HoloLens app to launch the assigned guide and do their work.
 
@@ -19,14 +19,8 @@ the technicians can use a dedicated **Field Service** tab in the Guides HoloLens
 
 ## Prerequisites
 
-Integration between Dynamics 365 Guides and Dynamics 365 Field Service requires:
-
-- A Dynamics 365 instance (not a Common Data Service instance) with Field Service version 8.6.0.183 or later.
-
-- Dynamics 365 Guides solution version 104.1907.0.18 or later. [Learn how to upgrade the Dynamics 365 Guides 
-solution.](upgrade.md)
-
-- Dynamics 365 Guides PC and HoloLens app versions 104.1907.XXXX or later. [Learn how to sign up for the preview and install the apps.](setup.md)
+To attach guides to service tasks in Dynamics 365 Field Service, customers need to have an existing Dynamics 365 Customer Engagement (CRM) instance with Dynamics 365 for Field Service version 8.6.0.183 or later. You also need to update to Dynamics 365 Guides solution version 104.1907.0.18 or later [learn how to upgrade the Dynamics 365 Guides 
+solution.](upgrade.md) and Dynamics 365 Guides PC and HoloLens app versions 104.1907.19001 [learn how to sign up for the preview and install the apps.](setup.md)
 
 ## Enable your technicians to use Dynamics 365 Guides for work orders
 
