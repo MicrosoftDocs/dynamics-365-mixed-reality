@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Understand the building blocks of Dynamics 365 Guides in preview
 ms.author: Mamaylya
-ms.date: 07/09/2019
+ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Guides in preview
