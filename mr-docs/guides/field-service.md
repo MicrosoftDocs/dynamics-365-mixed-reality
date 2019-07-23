@@ -19,7 +19,7 @@ the technicians can use a dedicated **Field Service** tab in the Guides HoloLens
 
 ## Prerequisites
 
-To attach guides to service tasks in Dynamics 365 Field Service, customers need to have an existing Dynamics 365 Customer Engagement (CRM) instance with Dynamics 365 for Field Service version 8.6.0.183 or later. You also need to update to Dynamics 365 Guides solution version 104.1907.0.18 or later ([learn how to upgrade the Dynamics 365 Guides 
+To attach guides to service tasks in Dynamics 365 Field Service, customers need to have an existing Dynamics 365 Customer Engagement (CRM) instance with Dynamics 365 for Field Service version 8.6.0.183 or later. You also need to update to Dynamics 365 Guides solution version 104.1907.0.33 or later ([learn how to upgrade the Dynamics 365 Guides 
 solution](upgrade.md)) and Dynamics 365 Guides PC and HoloLens app versions 104.1907.19001 ([learn how to sign up for the preview and install the apps](setup.md)).
 
 ## Enable your technicians to use Dynamics 365 Guides for work orders
