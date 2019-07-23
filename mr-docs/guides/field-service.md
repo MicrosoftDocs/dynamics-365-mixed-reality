@@ -9,9 +9,9 @@ title: Integrate Dynamics 365 for Field Service with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Integrate Dynamics 365 for Field Service with Dynamics 365 Guides
+# Integrate Dynamics 365 for Field Service with Dynamics 365 Guides (in preview)
 
-Dynamics 365 for Field Service integration (included in version 104.1907.19001) enables Field Service 
+Dynamics 365 for Field Service integration (included in version 104.1907.19001 for public preview) enables Field Service 
 customers to attach guides to field service tasks in Dynamics 365. When work orders are assigned to technicians, 
 the technicians can use a dedicated **Field Service** tab in the Guides HoloLens app to launch the assigned guide and do their work.
 
