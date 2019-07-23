@@ -2,7 +2,7 @@
 author: mamithan
 description: Open and sign in to Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 04/19/2019
+ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
 title: Open and sign in to Dynamics 365 Product Visualize
@@ -127,4 +127,5 @@ If you have access to more than one Dynamics 365 organization,  you can use this
 
 [Place and manipulate 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
+[View layers of your 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)
