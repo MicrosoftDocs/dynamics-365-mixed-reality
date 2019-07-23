@@ -2,7 +2,7 @@
 author: mamithan
 description: Open and sign in to Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 07/12/2019
+ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
 title: Open and sign in to Dynamics 365 Product Visualize
