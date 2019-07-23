@@ -9,31 +9,31 @@ title: Known Issues with Dynamics 365 Guides in preview
 ms.reviewer: v-brycho
 ---
 
-# Known Issues with Microsoft Dynamics 365 Guides in preview
+# Known issues with Microsoft Dynamics 365 Guides in preview
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
 ## Keep file names for 3D models and media short
 
-Before you upload custom 3D models or media files in the PC app, please make sure the file names are not more than 60 characters and do not contain special characters (&, @, and so on). 
+Before you upload custom 3D models or media files in the PC app, please make sure the file names are not more than 60 characters, and do not contain special characters (&, @, and so on). 
 
-Large 3D models are stored in HoloLens memory while in use and therefore slow down the experience significantly if there are too many models in a guide. **For reasonable performance, we recommend that you don't exceed 450 MB of 3D models in a single guide.** 
+Large 3D models are stored in HoloLens memory while in use; therefore, the experience is slow down significantly if there are too many models in a guide. **For reasonable performance, we recommend that you don't exceed 450MB of 3D models in a single guide.** 
 
 ## Editing the same guide on two different PCs is not fully supported
 
-While you can author the same guide on PC and HoloLens, we strongly recommend that you not edit the same guide on two separate PCs. This can cause synchronization issues and you might lose changes made in one of the PC sessions.
+While you can author the same guide on PC and HoloLens, we strongly recommend that you not edit the same guide on two separate PCs. This can cause synchronization issues, and you might lose changes made in one of the PC sessions.
 
 ## Example guide images and video still show older version of HoloLens user interface
 
-The Example guide will be revised in a later release. Until then, note that the images and video in the Example guide show the older version of the HoloLens user interface (version 103.1905.31001 or earlier).
+The Example Guide will be revised in a later release. Until then, note that the images and video in the Example Guide show the older version of the HoloLens user interface (version 103.1905.31001 or earlier).
 
 ## Text wrapping on PC and HoloLens might differ in rare cases
 
-In rare cases, you might notice that text is wrapped on the Step card view in HoloLens, but not on the PC. This is because Dynamics 365 Guides renders fonts at different sizes for readability between PC and HoloLens, and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the HoloLens app before sharing your guides with operators.
+In rare cases, you might notice that text is wrapped on the step card view in HoloLens but not on the PC. This is because Dynamics 365 Guides renders fonts at different sizes for readability between PC and HoloLens, and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the HoloLens app before sharing your guides with operators.
 
 ## HoloLens app can't refresh when you edit the anchoring step on a PC for the same guide
 
-We recommend you don't open a guide on HoloLens while editing the alignment step for the same guide on a PC. In this case, the HoloLens app will refresh automatically, but won't be able to open the guide.
+We recommend you don't open a guide on HoloLens while editing the alignment step for the same guide on a PC. In this case, the HoloLens app will refresh automatically, but it won't be able to open the guide.
 
 ## Offline use is not supported
 At this time, offline use in the Dynamics 365 Guides apps is not supported. Also, you must have an active and reliable internet connection to use the apps. 
@@ -55,7 +55,7 @@ The HoloLens app uses understanding of the environment to render holograms, but 
 At this time, interpupillary distance (IPD) settings aren’t saved automatically for each user. For now, we don’t recommend sharing a HoloLens device. If you need to share a device, make sure to recalibrate HoloLens whenever you switch users. Note that multiple users can share the same HoloLens device if their IPDs are similar. 
 
 ## No way to secure a guide
-Currently, we don’t support permissions or versioning. Therefore, anyone assigned a Guides license in your organization will be able to open or edit a guide.
+Currently, we don’t support permissions or versioning; therefore, anyone assigned a Guides license in your organization will be able to open or edit a guide.
 
 ## Recent guides list isn’t scoped to user
 The **Recent** list of guides is currently not scoped to the user accessing it. This will be supported in a later release.
