@@ -9,6 +9,7 @@
 ### [Install, open, and sign in to the app](sign-in.md)
 ### [Place and manipulate 3D models](manipulate-models.md)
 ### [Add a note to your 3D model](add-note.md)
+### [View layers of your 3D model](layers.md)
 ### [Explore sample 3D models](explore-samples.md)
 ## [Optimize and transcode 3D models](create-3D-model.md)
 ## [FAQ](faq.md)
