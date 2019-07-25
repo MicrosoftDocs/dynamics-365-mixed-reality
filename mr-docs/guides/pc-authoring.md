@@ -1,19 +1,19 @@
 ---
 author: Mamaylya
-description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides in preview.
+description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides (Preview).
 ms.author: mamaylya
 ms.date: 07/09/2019
 ms.service: crm-online
 ms.topic: article
-title: Use the PC authoring application to create a guide in Dynamics 365 Guides in preview
+title: Use the PC authoring application to create a guide in Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Use the PC authoring application to create a guide in Dynamics 365 Guides in preview
+# Use the PC authoring application to create a guide in Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Use the PC authoring application in Microsoft Dynamics 365 Guides in preview to:
+Use the PC authoring application in Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]w to:
 
 - Create a guide
 
@@ -37,12 +37,12 @@ Use these instructions to install the app (if it hasn't already been installed f
 ### Install the app 
 1.	On your Windows 10 PC, make sure you have the latest Windows 10 build (build 10.0.16299 or later).
 
-2.	Go to **Start** ![Start button)](media/windows-button.png "Start button") > **Microsoft Store** ![Store button)](media/store-button.png "Store button"), and then search for “Dynamics 365 Guides (Preview).”
+2.	Go to **Start** ![Start button)](media/windows-button.png "Start button") > **Microsoft Store** ![Store button)](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
 
-3.  Select **Install** to download and install Dynamics 365 Guides.
+3.  Select **Install** to download and install [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
 ### Sign in to the app
-1.	Open the Dynamics 365 Guides application from the **Start** menu on your PC. 
+1.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application from the **Start** menu on your PC. 
 
 2.	In the **Welcome to Guides** screen, select **Sign in**.
 
@@ -60,7 +60,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 
 ## Create a new guide
 
-1.	Open the Dynamics 365 Guides app.
+1.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
 2.	Select **Create a new guide**.
 
@@ -69,7 +69,7 @@ so on as part of the name.
 
 ## Saving: how changes are synced between the PC app and HoloLens app
 
-The PC authoring app and the HoloLens app are connected through the cloud, where your Dynamics 365 Guides files and assets are stored. 
+The PC authoring app and the HoloLens app are connected through the cloud, where your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] files and assets are stored. 
 When you author a guide, all changes are saved on both the PC and HoloLens. This makes it easy to switch between devices. 
 Autosave checks for changes every 4 seconds. 
 
@@ -192,7 +192,7 @@ in the preceding illustration) to establish the anchor's precise position, scale
 
 Digital anchoring involves two basic steps:
 
-1.	Using the PC authoring app, import a 3D representation of a physical object. This could be a CAD model used to create the physical object or a scanned model after fabrication. If you don't have a 3D representation, you can skip this step and use the preset 3D model included in Dynamics 365 Guides.
+1.	Using the PC authoring app, import a 3D representation of a physical object. This could be a CAD model used to create the physical object or a scanned model after fabrication. If you don't have a 3D representation, you can skip this step and use the preset 3D model included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
 2.	Using HoloLens Author mode, place the 3D digital representation directly over a physical part.
 
@@ -246,17 +246,17 @@ Independent from the method used for anchoring, these additional factors can imp
 - **Interpupillary distance (IPD) setting.** The IPD is the distance between the center of the user’s pupils. It’s crucial to set the appropriate IPD to enable HoloLens to adapt its display because different users might have different IPDs. An incorrect IPD setting can result in a wrong perception of holograms in space as well as instability of holograms. [Use the HoloLens Calibration app to calibrate your IPD](https://docs.microsoft.com/en-us/windows/mixed-reality/calibration). 
 
 - **Pre-scanning the environment.** HoloLens actively scans its environment for visible features  to create maps of its surroundings. This happens whenever the device is turned on and a user is signed in. It’s independent of whether you’re in the HoloLens shell or running apps. HoloLens constantly improves the accuracy of these maps as it scans the environment from different viewpoints and stores them on the device. Holograms are placed in relation to these maps. The more accurate the map, the more accurate the hologram placement.
-Before using Dynamics 365 Guides on a HoloLens that’s unfamiliar with its environment, the user should put on the HoloLens, sign into the device, and walk around the space where hologram instructions are placed or will be placed. This can be done while the user is in the HoloLens shell, but we recommend the user hide the **Start** menu to see the space as they walk around. Walking at a leisurely pace while slowly looking up and down will give the device the opportunity to find features and construct accurate maps. This is called "pre-scanning" because it’s done before you run Dynamics 365 Guides. You only need to do this once for each environment because HoloLens stores the maps it created on the device and remembers the spaces it has scanned.
+Before using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on a HoloLens that’s unfamiliar with its environment, the user should put on the HoloLens, sign into the device, and walk around the space where hologram instructions are placed or will be placed. This can be done while the user is in the HoloLens shell, but we recommend the user hide the **Start** menu to see the space as they walk around. Walking at a leisurely pace while slowly looking up and down will give the device the opportunity to find features and construct accurate maps. This is called "pre-scanning" because it’s done before you run Dynamics 365 Guides. You only need to do this once for each environment because HoloLens stores the maps it created on the device and remembers the spaces it has scanned.
 
    Very dark or very bright environments, or environments that include very reflective surfaces (mirrors), dark surfaces, or featureless surfaces, cause a negative impact on HoloLens’s capability to recognize the space, which will impact hologram position and stability.
 
 - **Impact of device positioning.** HoloLens uses a novel display technology to project images in the user’s field of view, which creates holograms. The way a user wears a device on their head has a huge impact on the perceived position of the holograms. 
 
-   The best way to understand this is to adjust the device positioning while aligning holograms to their physical counterparts in Dynamics 365 Guides. Observe how the alignment of holograms is affected when you shift the device left and right, up and down, and when you slide the display forward and backward. Users should wear the device in a consistent way and understand that subtle shifts in device positioning might not feel different but can lead to significant changes to perceived hologram locations.
+   The best way to understand this is to adjust the device positioning while aligning holograms to their physical counterparts in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Observe how the alignment of holograms is affected when you shift the device left and right, up and down, and when you slide the display forward and backward. Users should wear the device in a consistent way and understand that subtle shifts in device positioning might not feel different but can lead to significant changes to perceived hologram locations.
 
 ## Structure your guide in the Outline page
 
-After you choose an anchoring method, you see the **Outline** page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in Dynamics 365 Guides.
+After you choose an anchoring method, you see the **Outline** page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
 When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
 
@@ -351,11 +351,11 @@ To import your own 3D objects:
     ![Import custom 3D part](media/import-object.PNG "Import custom 3D part")
     
 > [!NOTE]
-> Dynamics 365 Guides supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
 ### Add 3D objects from the 3D toolkit to support your steps
 
-Dynamics 365 Guides comes with a library of predefined 3D objects included in the 3D toolkit that are optimized to work perfectly with HoloLens. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects included in the 3D toolkit that are optimized to work perfectly with HoloLens. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
 
 ![Add object from 3D toolkit)](media/3d-toolkit.PNG "Add object from 3D toolkit")
  
