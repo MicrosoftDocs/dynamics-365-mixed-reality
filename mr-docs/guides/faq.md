@@ -1,21 +1,21 @@
 ---
 author: BryceHo
-description: FAQ about Dynamics 365 Guides in preview
+description: FAQ about Dynamics 365 Guides (Preview)
 ms.author: makamat
 ms.date: 05/30/2019
 ms.service: crm-online
 ms.topic: article
-title: FAQ about Dynamics 365 Guides in preview
+title: FAQ about Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Frequently Asked Questions about Microsoft Dynamics 365 Guides in preview
+# Frequently Asked Questions about Microsoft Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
 ## How do I contact Support if I don't find an answer in this FAQ?
 
-If you're not able to use Microsoft Dynamics 365 Guides in preview, or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
+If you're not able to use Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
 
 1. Go to [https://dynamics.microsoft.com/en-us/support/](https://dynamics.microsoft.com/en-us/support/).
 
@@ -25,7 +25,7 @@ If you're not able to use Microsoft Dynamics 365 Guides in preview, or if you ha
 
 ## Why do I have to download two apps?
 
-Dynamics 365 Guides includes two applications:
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes two applications:
 
 - PC authoring application
 
@@ -35,7 +35,7 @@ If you plan to author guides, you’ll need to use both apps. If not, you’ll o
 
 ## What are the prerequisites for using the Dynamics 365 Guides apps?
 
-The following table lists technical requirements for deploying and using Dynamics 365 Guides throughout your organization.
+The following table lists technical requirements for deploying and using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] throughout your organization.
 
 ### Device requirements
 |Device|OS requirements|Details|
@@ -45,15 +45,15 @@ The following table lists technical requirements for deploying and using Dynamic
 
 ### Licensing and product requirements
 
-You need a Dynamics 365 Guides (Preview) license for each user who will use the Dynamics 365 Guides app. For more information, [see the Setup topic](setup.md).
+You need a [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] license for each user who will use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app. For more information, [see the Setup topic](setup.md).
 
 ## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
 
-Target availability date for this functionality is fall 2019.
+Yes, the preview version of Dynamics 365 for Field Service integration was added in version 104.1907.19001.
 
 ## I get an error message when I try to sign in to the PC app or HoloLens app
 
-The Dynamics 365 Guides solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the Dynamics 365 Guides product. If your organization is already subscribed to Dynamics 365 Guides, you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
+The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] product. If your organization is already subscribed to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
 
 ## Where is the data stored and who has access to it?
 
