@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-The second major step in authoring a guide in Microsoft Dynamics 365 Guides in preview takes place on the HoloLens application. In HoloLens Author mode, you:
+The second major step in authoring a guide in Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] takes place on the HoloLens application. In HoloLens Author mode, you:
 
 - Align your guide to a printed anchor (marker) or a digital anchor, depending on the type of anchor method you chose in the PC application.
 
@@ -35,9 +35,9 @@ To install the HoloLens app:
 
 1.	Make sure you have Microsoft HoloLens build 10.0.14393.0 or later installed on your HoloLens device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
-2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open Microsoft Store and search for “Dynamics 365 Guides (Preview)”.
+2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open Microsoft Store and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
 
-3.	Select **Install** to download and install the Dynamics 365 Guides application.
+3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
 ### Sign in to the HoloLens app
 If you sign in with a brand new HoloLens device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your HoloLens for use.
@@ -87,7 +87,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
 
     ![HoloLens down arrow highlighted](media/hololens-down-arrow.PNG "HoloLens down arrow highlighted")
 
-3.	Open the Guides application.
+3.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
     ![Launch Guides](media/open-guides-application.PNG "Launch 'Guides")
  
@@ -106,7 +106,7 @@ After ensuring that your HoloLens is correctly calibrated, you can open the Holo
     ![Select Author mode](media/select-mode.PNG "Select Author mode")
     
 > [!TIP]
-> Dynamics 365 Guides comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/example-guide-hololens.PNG "Example Guide")
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/example-guide-hololens.PNG "Example Guide")
 
 ## Align your guide
 The first thing you see when you open a guide is the alignment instructions from the PC authoring application. 
@@ -346,7 +346,7 @@ To place a tether:
 
 ## What's next?
 
-To learn more about Guides, here are some helpful links:
+To learn more about [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], here are some helpful links:
 
 - [Use a guide as an operator](operator-guide.md)
 - [Analyze your guides to improve efficiency](analytics-guide.md)
