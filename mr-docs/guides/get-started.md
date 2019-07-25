@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-So you’ve set up Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] using the [Setup topic](setup.md) and you’re ready to get started. What do you do next?
+So you’ve set up [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] using the [Setup topic](setup.md) and you’re ready to get started. What do you do next?
 
 There are three basic things you can do with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]s: 
 
@@ -38,7 +38,7 @@ The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides
     
       ![Example Guide)](media/example-guide.PNG "Example Guide")
 
-    - Put on your Microsoft HoloLens device, start the HoloLens app in Operator mode, and then select the Example Guide. Go through the guide step-by-step to learn about key features. 
+    - Put on your [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens device, start the HoloLens app in Operator mode, and then select the Example Guide. Go through the guide step-by-step to learn about key features. 
 
     - Edit the guide steps and assets using the PC authoring app, or place instructions or holograms using the HoloLens app in Author mode. 
     
