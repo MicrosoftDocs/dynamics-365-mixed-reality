@@ -40,7 +40,7 @@ At this time, offline use in the [!include[pn-dyn-365-guides](../includes/pn-dyn
 
 ## Recalibrating takes you back to the first step
 
-If you’re using the Microsoft HoloLens application, and you select the **Alignment** button from any step to recalibrate your HoloLens, after recalibrating, you’ll land on the first step of your guide. This is by design. You (or the operator) will want to recheck all steps after recalibrating, as this can change hologram alignment.
+If you’re using the [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens application, and you select the **Alignment** button from any step to recalibrate your HoloLens, after recalibrating, you’ll land on the first step of your guide. This is by design. You (or the operator) will want to recheck all steps after recalibrating, as this can change hologram alignment.
 
 ## Voice commands not tested thoroughly
 
@@ -142,7 +142,7 @@ If, at any point, you need to readjust this setting, you can trigger the offset 
 
 #### I can’t sign in
 
-To sign in, you must use the Microsoft Dynamics 365 sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a Microsoft account (used for Outlook.com, Windows Store, and so on) or your corporate credentials to sign in. 
+To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] Dynamics 365 sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, Windows Store, and so on) or your corporate credentials to sign in. 
 
 If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at http://aka.ms/guidesdocs. 
 
@@ -189,7 +189,7 @@ Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/g
 
 #### I can’t sign in
 
-To sign in, you must use the Microsoft Dynamics 365 sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a Microsoft account (used for Outlook.com, Microsoft Store, and so on) or your corporate credentials to sign in. 
+To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] Dynamics 365 sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, and so on) or your corporate credentials to sign in. 
 
 If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at http://aka.ms/guidesdocs. 
 
