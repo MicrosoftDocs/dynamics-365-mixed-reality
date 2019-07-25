@@ -13,10 +13,10 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Welcome to Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]! This operator's manual is designed to help operators understand how to use a holographic guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It describes everything that you, as the operator, need to know about the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
+Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]! This operator's manual is designed to help operators understand how to use a holographic guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It describes everything that you, as the operator, need to know about the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
 
 ## First things first–calibrate your HoloLens 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on Microsoft HoloLens, it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your HoloLens device. You can do this by using the Calibration app that comes with your HoloLens. 
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens, it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your HoloLens device. You can do this by using the Calibration app that comes with your HoloLens. 
 
 ![HoloLens Calibration app](media/calibration.PNG "HoloLens Calibration app")  
 
@@ -97,7 +97,7 @@ Now that your HoloLens device is calibrated, and you know how to get around by g
 
 1.	Make sure you have HoloLens build 10.0.14393.0 or later installed on your HoloLens device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
-2.	On your HoloLens device, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open the Microsoft Store app and search for “Dynamics 365 Guides (Preview)”.
+2.	On your HoloLens device, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “Dynamics 365 Guides (Preview)”.
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
@@ -157,7 +157,7 @@ After anchoring a guide, if you're anchoring your guide to a printed anchor, you
 > [!NOTE]
 > There are two ways to anchor a guide. The method illustrated above is called a printed anchor because you gaze at a physical marker to anchor your guide. The other type of anchor is a *digital anchor*. With a digital anchor, you use gestures to align the guide to a digital 3D representation laid over a physical object in your work area. If the author of the guide chose a digital anchor when they created the guide, you’d align a hologram on HoloLens with a digital 3D representation of the same object in your real world. 
 
-When you align your guide, if you’re using the Microsoft HoloLens Commercial Suite, the alignment information is stored on HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section. 
+When you align your guide, if you’re using the [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens Commercial Suite, the alignment information is stored on HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section. 
  
 ## Get oriented with the Step card 
 
@@ -213,7 +213,7 @@ You can turn holograms off (or turn them back on) with a glance if you ever feel
 
 ## Useful links for more information
 
-That's all the info you need to use a guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! To learn more about Microsoft mixed-reality apps and HoloLens, here are some helpful links: 
+That's all the info you need to use a guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! To learn more about [!include[cc-microsoft](../includes/cc-microsoft.md)] mixed-reality apps and HoloLens, here are some helpful links: 
 
 - [What is mixed reality?](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)
 - [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
