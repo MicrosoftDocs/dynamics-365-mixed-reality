@@ -1,4 +1,13 @@
-
+---
+author: ReneeW-CPub
+description: Microsoft Software License Terms for the free trial of Microsoft Dynamics 365 Layout
+ms.author: renwe
+ms.date: 07/27/2019
+ms.service: crm-online
+ms.topic: article
+title: Microsoft Software License Terms Microsoft Dynamics 365 Layout (Free Trial)
+robots: noindex, nofollow
+---
 
 # MICROSOFT SOFTWARE LICENSE TERMS<br># MICROSOFT DYNAMICS 365 LAYOUT (FREE TRIAL)
 
