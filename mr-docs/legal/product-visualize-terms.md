@@ -1,3 +1,13 @@
+---
+author: ReneeW-CPub
+description: License terms for preview of Microsoft Dynamics 365 Product Visualize iOS mobile 
+ms.author: renwe
+ms.date: 04/19/2019
+ms.service: crm-online
+ms.topic: article
+title: Microsoft software license terms for Microsoft Dynamics 365 Product Visualize iOS Mobile preview
+robots: noindex, nofollow
+---
 
 # MICROSOFT SOFTWARE LICENSE TERMS - MICROSOFT DYNAMICS 365 PRODUCT VISUALIZE IOS MOBILE PREVIEW
 
