@@ -1,11 +1,11 @@
 ---
 author: Mamaylya
-description: Test and place holograms using the HoloLens application in Author mode (Dynamics 365 Guides in preview)
+description: Test and place holograms using the Dynamics 365 Guides (Preview) HoloLens application in Author mode 
 ms.author: mamaylya
 ms.date: 07/09/2019
 ms.service: crm-online
 ms.topic: article
-title: Test and place holograms using HoloLens Author mode (Dynamics 365 Guides in preview)
+title: Test and place holograms using HoloLens Author mode in Dynamics 365 Guides (Preview) 
 ms.reviewer: v-brycho
 ---
 
