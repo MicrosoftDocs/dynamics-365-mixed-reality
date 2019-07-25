@@ -19,7 +19,7 @@ Dynamics 365 Guides app version 104.1907.19001 and CDS solution version 104.1907
 
 Customers interested in previewing integration with Dynamics 365 for Field Service need to have an existing Dynamics 365 Customer Engagement (CRM) instance with Dynamics 365 for Field Service version 8.6.0.183 or later. 
 
-Visit [aka.ms/getguides](https://aka.ms/getguides) for steps to upgrade.
+Visit aka.ms/getguides for steps to upgrade.
 
 ### July 9, 2019
 
