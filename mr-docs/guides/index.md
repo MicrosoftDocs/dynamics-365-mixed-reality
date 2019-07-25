@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
  
 ![Engine graphic](media/overview.PNG "Engine graphic") 
 
-Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] is a mixed-reality application for Microsoft HoloLens that enables employees to learn in the flow 
+[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens that enables employees to learn in the flow 
 of work by providing holographic instructions when and where they need them. A series of step-by-step instruction cards 
 with image and video support are visually tethered to the place where the work needs to be done. Additional guidance 
 in the form of holographic models shows what needs to be done where, so workers can get the job done faster, with fewer errors 
