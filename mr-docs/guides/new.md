@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 ## What's new in Dynamics 365 Guides (Preview)
 
-This page provides details about the latest releases of Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] organized by release date.  
+This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] organized by release date.  
 
 ### July 23, 2019
 
