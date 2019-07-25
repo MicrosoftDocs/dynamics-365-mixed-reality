@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Use the PC authoring application in Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]w to:
+Use the PC authoring application in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]w to:
 
 - Create a guide
 
@@ -37,7 +37,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 ### Install the app 
 1.	On your Windows 10 PC, make sure you have the latest Windows 10 build (build 10.0.16299 or later).
 
-2.	Go to **Start** ![Start button)](media/windows-button.png "Start button") > **Microsoft Store** ![Store button)](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
+2.	Go to **Start** ![Start button)](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button)](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
 
 3.  Select **Install** to download and install [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
@@ -351,7 +351,7 @@ To import your own 3D objects:
     ![Import custom 3D part](media/import-object.PNG "Import custom 3D part")
     
 > [!NOTE]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information on the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
 ### Add 3D objects from the 3D toolkit to support your steps
 
