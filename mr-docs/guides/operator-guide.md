@@ -1,22 +1,22 @@
 ---
 author: Mamaylya
-description: Everything you need to know about using a guide created with Dynamics 365 Guides in preview, including calibration, gaze and gestures, and installing and using the HoloLens app.
+description: Everything you need to know about using a guide created with Dynamics 365 Guides (Preview), including calibration, gaze and gestures, and installing and using the HoloLens app.
 ms.author: mamaylya
 ms.date: 07/09/2019
 ms.service: crm-online
 ms.topic: article
-title: Operator's manual for Dynamics 365 Guides in preview
+title: Operator's manual for Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Operator's manual for Dynamics 365 Guides in preview
+# Operator's manual for Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Welcome to Microsoft Dynamics 365 Guides in preview! This operator's manual is designed to help operators understand how to use a holographic guide created with Dynamics 365 Guides. It describes everything that you, as the operator, need to know about the Dynamics 365 Guides user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With Dynamics 365 Guides, you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
+Welcome to Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]! This operator's manual is designed to help operators understand how to use a holographic guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It describes everything that you, as the operator, need to know about the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
 
 ## First things first–calibrate your HoloLens 
-Dynamics 365 Guides uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on Microsoft HoloLens, it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your HoloLens device. You can do this by using the Calibration app that comes with your HoloLens. 
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on Microsoft HoloLens, it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your HoloLens device. You can do this by using the Calibration app that comes with your HoloLens. 
 
 ![HoloLens Calibration app](media/calibration.PNG "HoloLens Calibration app")  
 
@@ -52,7 +52,7 @@ Gaze on HoloLens is pretty much as easy as it sounds. In some cases, you can sel
 
 The selection is completed when the box is filled up by your gaze. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
 
-In other cases in Dynamics 365 Guides, you use gaze to target an object, and then act on the target with a gesture, such as an air tap. In either case, when you gaze, make sure to turn your whole head—not just your eyes.  
+In other cases in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you use gaze to target an object, and then act on the target with a gesture, such as an air tap. In either case, when you gaze, make sure to turn your whole head—not just your eyes.  
 
 ### Gestures 
 You’ll also need to use some gestures as you work with a guide. This section lists the most important gestures to know about. 
@@ -99,7 +99,7 @@ Now that your HoloLens device is calibrated, and you know how to get around by g
 
 2.	On your HoloLens device, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open the Microsoft Store app and search for “Dynamics 365 Guides (Preview)”.
 
-3.	Select **Install** to download and install the Dynamics 365 Guides application.
+3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
 ### Sign in to the HoloLens app
 
@@ -115,7 +115,7 @@ If you sign in with a brand new HoloLens device, you’ll be prompted to walk th
 
     ![HoloLens down arrow highlighted](media/hololens-down-arrow.PNG "HoloLens down arrow highlighted")
 
-3.	Open the Dynamics 365 Guides application.
+3.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
     ![Open Guides](media/open-guides-application.PNG "Launch 'Guides")
  
@@ -133,7 +133,7 @@ If you sign in with a brand new HoloLens device, you’ll be prompted to walk th
 
     ![Select Operate mode](media/select-mode.PNG "Select Operate mode")
    
-7.	In the **Guides** dialog box, gaze at the selection box for the guide you want to open. For example, gaze at the selection box for Example Guide, the guide that comes with the preview release of Dynamics 365 Guides.  
+7.	In the **Guides** dialog box, gaze at the selection box for the guide you want to open. For example, gaze at the selection box for Example Guide, the guide that comes with the preview release of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].  
    
 ### Anchor your guide 
 The first thing you see when you open a guide is the anchoring instructions for the guide.  
@@ -166,7 +166,7 @@ When you open a guide, you’ll see the Step card, which is the hub of everythin
 ![Step card with Next Step and Go Back buttons](media/step-card-basic.PNG "Step card with Next Step and Go Back buttons")
 
 > [!NOTE]
-> The preceding screen shot shows the first step of Example Guide, the guide created for the preview release of Dynamics 365 Guides. In Example Guide, the first step provides an overview of the tasks included in the guide.  
+> The preceding screen shot shows the first step of Example Guide, the guide created for the preview release of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. In Example Guide, the first step provides an overview of the tasks included in the guide.  
 
 In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
 
@@ -179,7 +179,7 @@ Here’s a description of the buttons and other UI elements in the Step card:
 |---|--|------------------|------------------------------------------------------------------------------------|
 |A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
 |B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor button|Re-anchor (realign) the guide. HoloLens can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to re-anchor the guide by gazing at a printed anchor or digital anchor again. For more information, see “Anchor your guide” earlier in this topic.|
-|C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your HoloLens device correctly. Fit is very important. Otherwise holograms might be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the HoloLens properly.<br></br>- **Noise cancellation.** Enables you to use voice commands to navigate the app when there’s a lot of noise in your environment (a factory floor, for example). The app supports noise levels up to 80 decibels.<br></br>- **Dynamic volume.** Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.<br></br>- **Build number.** Shows the build of Dynamics 365 Guides that you’re using.| 
+|C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your HoloLens device correctly. Fit is very important. Otherwise holograms might be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the HoloLens properly.<br></br>- **Noise cancellation.** Enables you to use voice commands to navigate the app when there’s a lot of noise in your environment (a factory floor, for example). The app supports noise levels up to 80 decibels.<br></br>- **Dynamic volume.** Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.<br></br>- **Build number.** Shows the build of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you’re using.| 
 |D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
 |E|![Pin button)](media/pin-button.PNG "Pin button")|Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around. You can pin or unpin it any time you want.|
 |F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
@@ -213,7 +213,7 @@ You can turn holograms off (or turn them back on) with a glance if you ever feel
 
 ## Useful links for more information
 
-That's all the info you need to use a guide created with Dynamics 365 Guides! To learn more about Microsoft mixed-reality apps and HoloLens, here are some helpful links: 
+That's all the info you need to use a guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! To learn more about Microsoft mixed-reality apps and HoloLens, here are some helpful links: 
 
 - [What is mixed reality?](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)
 - [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
