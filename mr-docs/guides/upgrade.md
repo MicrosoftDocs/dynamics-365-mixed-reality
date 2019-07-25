@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Upgrade the Dynamics 365 Guides (Preview) solution (for admins)
 
-This topic is for Dynamics 365 administrators. Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution. When an update is required, the user will see a notification in the **What's new** panel.
+This topic is for [!include[cc-microsoft](../includes/cc-microsoft.md)] Dynamics 365 administrators. Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution. When an update is required, the user will see a notification in the **What's new** panel.
 
 > [!IMPORTANT]
 > Keep the following in mind:<br><br>- Before updating your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the Dynamics 365 Admin center, make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and HoloLens apps have been updated to the latest version from the store.<br><br>- Updates to the solution must be done when the PC and HoloLens apps are not in use.  
