@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
  
 ## How do I contact Support if I don't find an answer in this FAQ?
 
-If you're not able to use Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
+If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
 
 1. Go to [https://dynamics.microsoft.com/en-us/support/](https://dynamics.microsoft.com/en-us/support/).
 
@@ -40,7 +40,7 @@ The following table lists technical requirements for deploying and using [!inclu
 ### Device requirements
 |Device|OS requirements|Details|
 |----------------------------------------|---------------------------------------------|-------------------------------------|
-|Microsoft HoloLens|Build 10.0.14393.0 or later. We recommend updating HoloLens to newer versions when available.|See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS).|
+|[!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens|Build 10.0.14393.0 or later. We recommend updating HoloLens to newer versions when available.|See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS).|
 |Windows 10 PC (required to create a guide)|Windows 10 PC with Fall Creators Update 1709 or later (build 10.0.16299 or later)|A Windows 10 PC is used to create and edit guides that will be then available on HoloLens.</br><br>Suggested minimum screen resolution: 1080 px width|
 
 ### Licensing and product requirements
