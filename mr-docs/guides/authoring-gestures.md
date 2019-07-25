@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-To author and navigate through a guide in Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides-preview.md)], you’ll use gaze and a few gestures.
+To author and navigate through a guide in Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], you’ll use gaze and a few gestures.
 
 ## Gaze
 The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). If the item has a selection box, you can select the item just by gazing at the button hit zone. The item is selected when the box is filled. 
