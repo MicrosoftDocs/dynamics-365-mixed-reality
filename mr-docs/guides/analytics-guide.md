@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Guides Analytics is part of the Microsoft Dynamics 365 Guides in preview application suite that includes the Dynamics 365 Guides PC authoring app and the Dynamics 365 Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports that are populated with Dynamics 365 Guides usage data stored securely in your Dynamics 365 environment. 
+Guides Analytics is part of the Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] in preview application suite that includes the Dynamics 365 Guides PC authoring app and the Dynamics 365 Guides HoloLens app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports that are populated with Dynamics 365 Guides usage data stored securely in your Dynamics 365 environment. 
 
 ## What data is collected and used in Guides Analytics? 
 
