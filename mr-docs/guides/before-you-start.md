@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Before you start authoring in Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
+Before you start authoring in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
 
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 
 (if you have any) and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
@@ -31,7 +31,7 @@ expert or a novice?
 
 ## Use media and 3D content to your advantage
 
-As you consider the media and 3D content you want to use for your project, keep in mind that size matters greatly on Microsoft HoloLens, 
+As you consider the media and 3D content you want to use for your project, keep in mind that size matters greatly on [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens, 
 both for the quality of the experience and performance. It’s best to use high-fidelity assets where details matter and low-fidelity 
 assets for high-level principles where details aren’t as important.
 
@@ -87,7 +87,7 @@ using video captions, if available, for noisy environments.
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
 optimized for HoloLens. For more information, see the [Authoring guide](pc-authoring.md).
 
-You can also create and import your own custom 3D parts using CAD models. [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool and preparing 3D models, see these topics:
+You can also create and import your own custom 3D parts using CAD models. [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D models, or you can use the Import Tool’s concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information on the Import Tool and preparing 3D models, see these topics:
 
 - [Import Tool overview](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/)
 
