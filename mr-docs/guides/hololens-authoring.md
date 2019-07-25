@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-The second major step in authoring a guide in Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] takes place on the HoloLens application. In HoloLens Author mode, you:
+The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] takes place on the HoloLens application. In HoloLens Author mode, you:
 
 - Align your guide to a printed anchor (marker) or a digital anchor, depending on the type of anchor method you chose in the PC application.
 
@@ -29,13 +29,13 @@ The second major step in authoring a guide in Microsoft [!include[pn-dyn-365-gui
 
 ## Install the HoloLens app
 
-If you haven’t already installed the HoloLens app on your HoloLens device (or it hasn't already been installed for you), install it from the Microsoft Store for Consumers.
+If you haven’t already installed the HoloLens app on your HoloLens device (or it hasn't already been installed for you), install it from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers.
 
 To install the HoloLens app:
 
-1.	Make sure you have Microsoft HoloLens build 10.0.14393.0 or later installed on your HoloLens device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
+1.	Make sure you have [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens build 10.0.14393.0 or later installed on your HoloLens device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
-2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open Microsoft Store and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
+2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open [!include[cc-microsoft](../includes/cc-microsoft.md)] Store and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
@@ -352,7 +352,7 @@ To learn more about [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.m
 - [Analyze your guides to improve efficiency](analytics-guide.md)
 - [FAQ](faq.md)
 
-To learn more about Microsoft mixed-reality apps and HoloLens, use the following links: 
+To learn more about [!include[cc-microsoft](../includes/cc-microsoft.md)] mixed-reality apps and HoloLens, use the following links: 
 
 - [What is mixed reality](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)?
 - [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
