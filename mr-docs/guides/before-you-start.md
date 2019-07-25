@@ -1,19 +1,19 @@
 ---
 author: Mamaylya
-description: Things to keep in mind before you start authoring in Dynamics 365 Guides in preview, including media and file naming.
+description: Things to keep in mind before you start authoring in Dynamics 365 Guides (Preview), including media and file naming.
 ms.author: mamaylya
 ms.date: 05/30/2019
 ms.service: crm-online
 ms.topic: article
-title: Things to keep in mind before you start authoring in Dynamics 365 Guides in preview
+title: Things to keep in mind before you start authoring in Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Before you start authoring a guide in Dynamics 365 Guides in preview
+# Before you start authoring a guide in Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Before you start authoring in Microsoft Dynamics 365 Guides in preview, you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
+Before you start authoring in Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], you’ll want to understand your project and get organized. Here’s a quick checklist to start you out on the right foot:
 
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 
 (if you have any) and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
@@ -83,11 +83,11 @@ using video captions, if available, for noisy environments.
 
 ### Best practices for 3D content
 
-3D content is best for adding in-context clarity. Dynamics 365 Guides includes a 3D toolkit of 3D models that you can use to add 
+3D content is best for adding in-context clarity. [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a 3D toolkit of 3D models that you can use to add 
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
 optimized for HoloLens. For more information, see the [Authoring guide](pc-authoring.md).
 
-You can also create and import your own custom 3D parts using CAD models. Guides supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool and preparing 3D models, see these topics:
+You can also create and import your own custom 3D parts using CAD models. [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D models, or you can use the Import Tool’s concierge service to have Microsoft convert and optimize the models for you. For more information on the Import Tool and preparing 3D models, see these topics:
 
 - [Import Tool overview](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/)
 
