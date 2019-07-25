@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-To author and navigate through a guide in Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], you’ll use gaze and a few gestures.
+To author and navigate through a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], you’ll use gaze and a few gestures.
 
 ## Gaze
 The easiest way to get around a guide is to gaze at an item (an app, menu, or button, for example). If the item has a selection box, you can select the item just by gazing at the button hit zone. The item is selected when the box is filled. 
@@ -46,7 +46,7 @@ Use air tap, along with gaze, to select apps and other holograms. To do an air t
 To air tap and hold, start with an air tap, but keep your finger down instead of raising it back up again.
 
 ### The gesture frame
-Microsoft HoloLens has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor looks like a ring. When HoloLens can't see your hand, the cursor changes to a dot.
+[!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor looks like a ring. When HoloLens can't see your hand, the cursor changes to a dot.
 
 ### Need a tutorial on gestures?
 For a tutorial on some basic gestures, use the bloom gesture to go to **Start**, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/en-us/help/13456/hololens-and-holograms-faq).
