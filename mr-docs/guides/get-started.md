@@ -1,21 +1,21 @@
 ---
 author: Mamaylya
-description: Understand the building blocks of Dynamics 365 Guides in preview
+description: Understand the building blocks of Dynamics 365 Guides (Preview)
 ms.author: Mamaylya
 ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
-title: Get started with Dynamics 365 Guides in preview
+title: Get started with Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Get started with Dynamics 365 Guides in preview
+# Get started with Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-So you’ve set up Microsoft Dynamics 365 Guides in preview using the [Setup topic](setup.md) and you’re ready to get started. What do you do next?
+So you’ve set up Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] using the [Setup topic](setup.md) and you’re ready to get started. What do you do next?
 
-There are three basic things you can do with Dynamics 365 Guides: 
+There are three basic things you can do with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]s: 
 
 - Create a guide (author a guide).
 
@@ -26,15 +26,15 @@ There are three basic things you can do with Dynamics 365 Guides:
 See our [Authoring](authoring-overview.md), [Operating](operator-guide.md), and [Analyzing](analytics-guide.md) topics for step-by-step guidance. Not sure about a term? See our [Glossary of terms](glossary.md). 
 
 > [!NOTE]
-> To learn about new features in Dynamics 365 Guides, see our [What's new page](new.md). To learn about new and upcoming Dynamics 365 Guides features, see our [April 2019 release notes](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/planned-features) and [2019 release wave 2 plan](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features). The release notes and release plan capture all the details, end-to-end, top-to-bottom, in a single place that you can use for planning. 
+> To learn about new features in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], see our [What's new page](new.md). To learn about new and upcoming [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] features, see our [April 2019 release notes](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/planned-features) and [2019 release wave 2 plan](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features). The release notes and release plan capture all the details, end-to-end, top-to-bottom, in a single place that you can use for planning. 
 
 ## Jumping in
 
-The best way to learn Dynamics 365 Guides is by doing, so here are some tips on getting started: 
+The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is by doing, so here are some tips on getting started: 
 
 1.	Use the Example Guide:
 
-    - We have included an Example Guide that you can use to learn about Dynamics 365 Guides. It walks you through common workflows and features, provides tips and tricks for great guide creation, and helps you get up to speed by doing!
+    - We have included an Example Guide that you can use to learn about [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]s. It walks you through common workflows and features, provides tips and tricks for great guide creation, and helps you get up to speed by doing!
     
       ![Example Guide)](media/example-guide.PNG "Example Guide")
 
@@ -56,7 +56,7 @@ The best way to learn Dynamics 365 Guides is by doing, so here are some tips on 
 
 ## What makes a good guide?
 
-Here are some tips for selecting high-impact use cases to get the most out of Dynamics 365 Guides. 
+Here are some tips for selecting high-impact use cases to get the most out of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
 
 Focus on step-by-step procedures that:
 
@@ -78,7 +78,7 @@ Ask these questions when evaluating scenarios:
 
 -	Do operators need to be hands-free to complete the procedure?
 
-But get creative and experiment with how Dynamics 365 Guides can help your employees learn by doing. We love hearing about new ways that customers are using Dynamics 365 Guides! 
+But get creative and experiment with how [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] can help your employees learn by doing. We love hearing about new ways that customers are using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! 
 
 
 ### See also
