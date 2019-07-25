@@ -1,15 +1,15 @@
 ---
 author: BryceHo
-description: Known Issues with Dynamics 365 Guides in preview
+description: Known Issues with Dynamics 365 Guides (Preview)
 ms.author: makamat
 ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
-title: Known Issues with Dynamics 365 Guides in preview
+title: Known Issues with Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Known issues with Microsoft Dynamics 365 Guides in preview
+# Known issues with Microsoft Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
@@ -29,14 +29,14 @@ The Example Guide will be revised in a later release. Until then, note that the 
 
 ## Text wrapping on PC and HoloLens might differ in rare cases
 
-In rare cases, you might notice that text is wrapped on the step card view in HoloLens but not on the PC. This is because Dynamics 365 Guides renders fonts at different sizes for readability between PC and HoloLens, and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the HoloLens app before sharing your guides with operators.
+In rare cases, you might notice that text is wrapped on the step card view in HoloLens but not on the PC. This is because [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] renders fonts at different sizes for readability between PC and HoloLens, and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the HoloLens app before sharing your guides with operators.
 
 ## HoloLens app can't refresh when you edit the anchoring step on a PC for the same guide
 
 We recommend you don't open a guide on HoloLens while editing the alignment step for the same guide on a PC. In this case, the HoloLens app will refresh automatically, but it won't be able to open the guide.
 
 ## Offline use is not supported
-At this time, offline use in the Dynamics 365 Guides apps is not supported. Also, you must have an active and reliable internet connection to use the apps. 
+At this time, offline use in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps is not supported. Also, you must have an active and reliable internet connection to use the apps. 
 
 ## Recalibrating takes you back to the first step
 
@@ -55,7 +55,7 @@ The HoloLens app uses understanding of the environment to render holograms, but 
 At this time, interpupillary distance (IPD) settings aren’t saved automatically for each user. For now, we don’t recommend sharing a HoloLens device. If you need to share a device, make sure to recalibrate HoloLens whenever you switch users. Note that multiple users can share the same HoloLens device if their IPDs are similar. 
 
 ## No way to secure a guide
-Currently, we don’t support permissions or versioning; therefore, anyone assigned a Guides license in your organization will be able to open or edit a guide.
+Currently, we don’t support permissions or versioning; therefore, anyone assigned a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license in your organization will be able to open or edit a guide.
 
 ## Recent guides list isn’t scoped to user
 The **Recent** list of guides is currently not scoped to the user accessing it. This will be supported in a later release.
@@ -98,7 +98,7 @@ Avoid using any names for your custom 3D models that match model names in the 3D
  
 The angle of each HoloLens 1 PV camera (the camera placed above the nose bridge) can be slightly different across devices due to manufacturing idiosyncrasies. Since the PV camera is used to scan the printed marker, this means holograms can appear slightly misaligned when using the same guide and same printed marker on multiple devices.
  
-To fix this issue, the Dynamics 365 Guides HoloLens app provides the ability to manually adjust for this offset and save the settings to the device so that each user does not need to set the offset each time. We recommend that IT staff go through the following steps before provisioning devices to Dynamics 365 Guides authors or operators. This is a one-time setup and does not need to be repeated unless the app is uninstalled or a new operating system is installed.
+To fix this issue, the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens app provides the ability to manually adjust for this offset and save the settings to the device so that each user does not need to set the offset each time. We recommend that IT staff go through the following steps before provisioning devices to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] authors or operators. This is a one-time setup and does not need to be repeated unless the app is uninstalled or a new operating system is installed.
  
 ### Step 1 – Set up printed anchor
 
@@ -114,7 +114,7 @@ To fix this issue, the Dynamics 365 Guides HoloLens app provides the ability to 
  
 ### Step 2 – Open the guide and align it on HoloLens
 
-1.	On HoloLens, open the Dynamics 365 Guides app, select **Operator** or **Author** mode, and then open the guide used in step 1.
+1.	On HoloLens, open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app, select **Operator** or **Author** mode, and then open the guide used in step 1.
 
 2.	Select **Scan** to begin the alignment process. Accept the permissions prompts that appear. 
 
@@ -146,11 +146,11 @@ To sign in, you must use the Microsoft Dynamics 365 sign-in credentials for your
 
 If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at http://aka.ms/guidesdocs. 
 
-- Dynamics 365 Guides isn't set up correctly, or you might not have permission to access it. Contact your administrator or refer to http://aka.ms/guidesdocs.
+- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] isn't set up correctly, or you might not have permission to access it. Contact your administrator or refer to http://aka.ms/guidesdocs.
 
-- Your client app version does not support your Dynamics 365 Guides solution version. Please update your client app, contact your administrator, or see the self-serve documentation at http://aka.ms/guidesdocs.
+- Your client app version does not support your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version. Please update your client app, contact your administrator, or see the self-serve documentation at http://aka.ms/guidesdocs.
 
-- You don't have a license to use Dynamics 365 Guides. Contact your administrator, or [sign up for a free trial subscription]().
+- You don't have a license to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Contact your administrator, or [sign up for a free trial subscription]().
 
 #### Staying on the account picker for more than 25 seconds during HoloLens sign-in will make it unresponsive
 
@@ -179,8 +179,6 @@ The PC app shows notifications (in the top title bar) if there are any errors du
 |Images|PNG, JPG, JPEG, GIF, TIFF|
 |Videos|MP4, MOV, WMV|
 
-<!--note from editor: Add TM to "glTF" in table?   -->
-
 If you still can’t find your content, contact your administrator.
 
 #### I have an issue that isn’t listed in these troubleshooting steps
@@ -195,11 +193,11 @@ To sign in, you must use the Microsoft Dynamics 365 sign-in credentials for your
 
 If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at http://aka.ms/guidesdocs. 
 
-- Guides isn't set up correctly, or you might not have permission to access it. Contact your administrator or use the documentation link below.
+- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] isn't set up correctly, or you might not have permission to access it. Contact your administrator or use the documentation link below.
 
-- Your client app version does not support your Dynamics 365 Guides solution version. Please update your client app, contact your administrator, or see the self-serve documentation http://aka.ms/guidesdocs.
+- Your client app version does not support your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version. Please update your client app, contact your administrator, or see the self-serve documentation http://aka.ms/guidesdocs.
 
-- You don't have a license to use Dynamics 365 Guides. Contact your administrator.
+- You don't have a license to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Contact your administrator.
 
 #### Staying on the account picker more than 25 seconds during HoloLens sign-in will make it unresponsive
 
@@ -207,7 +205,7 @@ When you get to the screen where you can select between different saved accounts
 
 #### Printed anchor method requires user’s consent to use the camera
 
-When the Dynamics 365 Guides application on HoloLens is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use printed anchors in your guides, you will need to say **Yes** to this prompt. This is required for every device you use the Dynamics 365 Guides application on. If this consent was not provided previously, you can go to the **Settings** menu on the HoloLens (operating system) and provide consent to the app. 
+When the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on HoloLens is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use printed anchors in your guides, you will need to say **Yes** to this prompt. This is required for every device you use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on. If this consent was not provided previously, you can go to the **Settings** menu on the HoloLens (operating system) and provide consent to the app. 
 
 #### “Create account” link when signing in with a new account doesn’t work
 
@@ -244,8 +242,6 @@ If you’re editing an existing guide, where an asset was placed in a bin in the
 #### Uploading glTF files with dependencies across different folders might result in upload errors
 
 Some glTF files may have dependencies in other folders that the app may not have permissions to when uploading. This might result in errors or broken 3D models in the gallery. Please make sure you either have permissions to all dependencies, or that you have all of them in the same folder when uploading glTF models. 
-
-<!--note from editor:  Include TM after glTF above?  -->
 
 #### The see-through style, when applied to a 3D model might show gray areas instead of rendering textures properly
 
