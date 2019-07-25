@@ -1,11 +1,11 @@
 ---
 author: Mamaylya
-description: Overview of authoring in Dynamics 365 Guides in preview, including PC authoring and HoloLens authoring
+description: Overview of authoring in Dynamics 365 Guides (Preview), including PC authoring and HoloLens authoring
 ms.author: mamaylya
 ms.date: 05/30/2019
 ms.service: crm-online
 ms.topic: article
-title: Overview of authoring in Dynamics 365 Guides in preview
+title: Overview of authoring in Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-If you're ready to start creating a guide with Microsoft Dynamics 365 Guides in preview, you're in the right place! 
+If you're ready to start creating a guide with Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], you're in the right place! 
 
 To create a guide, you’ll use two applications:
 
