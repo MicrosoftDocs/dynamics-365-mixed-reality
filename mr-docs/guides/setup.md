@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-We're thrilled to introduce Microsoft Dynamics 365 Guides (Preview)! [Learn about Guides capabilities](index.md).
+We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)] Dynamics 365 Guides (Preview)! [Learn about Guides capabilities](index.md).
 
 To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]s, you need to:
 
@@ -23,7 +23,7 @@ To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.m
 
 3. Install the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution.
 
-4.	Download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps on a Windows 10 PC and Microsoft HoloLens.
+4.	Download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps on a Windows 10 PC and [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens.
 
 5. Add additional user accounts (optional).
 
@@ -51,7 +51,7 @@ After signing up for the preview, you’ll need to create an environment where y
     > [!NOTE]
     > There's no charge to use PowerApps. PowerApps usage is included in [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].
 
-3.  On the **Microsoft PowerApps Plan 2** card, select **Start free trial**. 
+3.  On the **[!include[cc-microsoft](../includes/cc-microsoft.md)] PowerApps Plan 2** card, select **Start free trial**. 
 
 4.  In the **Check out** screen, select **Try now**, and in the next screen, select **Continue**.
 
@@ -68,7 +68,7 @@ After signing up for the preview, you’ll need to create an environment where y
 
      ![Edit PowerApps plan](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
-7.  In the **Product licenses** screen, turn the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** and **Microsoft PowerApps Plan 2** sliders to **On**, and then select **Save**.
+7.  In the **Product licenses** screen, turn the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** and **[!include[cc-microsoft](../includes/cc-microsoft.md)] PowerApps Plan 2** sliders to **On**, and then select **Save**.
   
     ![Add user license](media/add-user-license.PNG "Add user license")
     
@@ -175,7 +175,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 ### Set up user roles for the solution<a name="user-roles"></a>
 
 > [!NOTE]
-> It can take up to one hour for a user to appear in the Dynamics 365 admin center after the licenses are added in the Microsoft 365 admin center. 
+> It can take up to one hour for a user to appear in the Dynamics 365 admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center. 
 
 1.	After the solution has finished installing, go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open**.
 
@@ -224,21 +224,21 @@ There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] ap
 
 - HoloLens application, which has an Author mode and an Operator mode
 
-You can install the apps from Microsoft Store as described in the next section.
+You can install the apps from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store as described in the next section.
 
 > [!NOTE]
-> If you can’t access Microsoft Store due to company policies, please contact your administrator to distribute the app.
+> If you can’t access [!include[cc-microsoft](../includes/cc-microsoft.md)] Store due to company policies, please contact your administrator to distribute the app.
 
-If you use Microsoft Store for Business to distribute your apps, you can have users install the apps from your organization’s private store or from an email link that you send. Instructions are provided later in this topic.
+If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business to distribute your apps, you can have users install the apps from your organization’s private store or from an email link that you send. Instructions are provided later in this topic.
 
 ### Install the apps from Microsoft Store
 
 #### Install the PC authoring app 
 1.	Check to make sure your Windows 10 PC is running the latest Windows build (must be build 10.0.16299 or later).
 
-2.	On your PC, go to **Start** ![Start button)](media/windows-button.png "Start button") > **Microsoft Store** ![Store button)](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
+2.	On your PC, go to **Start** ![Start button)](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button)](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
 
-3.	In Microsoft Store, select **Get** for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app to download, and install the application.
+3.	In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Get** for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app to download, and install the application.
 
     ![Preview app in Microsoft Store](media/preview-app.PNG "Preview app in Microsoft Store")
 
@@ -249,7 +249,7 @@ If you use Microsoft Store for Business to distribute your apps, you can have us
 
 1.	Make sure HoloLens is running build 10.0.14393.0 or later. We recommend updating HoloLens to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
-2.	On your HoloLens, use the bloom gesture to open the **Home** menu, and then open the Microsoft Store app and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
+2.	On your HoloLens, use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
@@ -280,7 +280,7 @@ For information on opening and signing in to the HoloLens application, go to one
    
 ## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
 
-You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You create user accounts in the Microsoft 365 Admin Center, and then assign licenses to those users.
+You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You create user accounts in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 Admin Center, and then assign licenses to those users.
 
 ### Add a user account
 
@@ -308,13 +308,13 @@ You’ll need to create a user account for anyone you assign a license to. Creat
     
       ![Edit user roles](media/user-roles.PNG "Edit user roles")
  
-    - **Product licenses**. Expand this section, and then turn the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** and **Microsoft PowerApps Plan 2** sliders to **On**. You can assign up to 25 users.
+    - **Product licenses**. Expand this section, and then turn the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** and **[!include[cc-microsoft](../includes/cc-microsoft.md)] PowerApps Plan 2** sliders to **On**. You can assign up to 25 users.
     
       ![Product Licenses dialog box](media/new-user-plans.PNG "Product Licenses dialog box")
  
 4.	Select **Add** when you’re done.
 
-    When you add a user, the user gets an email notification from the Microsoft Online Services Team that includes their user ID and    temporary password. They’ll use this information to sign in to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
+    When you add a user, the user gets an email notification from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Online Services Team that includes their user ID and    temporary password. They’ll use this information to sign in to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
 5. If you haven't already done so, [set up user roles for the solution](#user-roles) as described earlier in this topic.
 
