@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-When you're working with Microsoft [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], you might find this glossary of terms helpful.
+When you're working with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], you might find this glossary of terms helpful.
 
 ## 3D parts
 3D content that you assign to a step to support that step. You assign 3D parts in the PC application, and then place the holograms in a real-world environment in HoloLens Author mode.
