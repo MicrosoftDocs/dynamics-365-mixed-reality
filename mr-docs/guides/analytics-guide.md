@@ -13,14 +13,14 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Guides Analytics is part of the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] application suite that includes the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of [!include[pn-power-bi](../includes/pn-power-bi.md)] visual reports that are populated with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] usage data stored securely in your Dynamics 365 environment. 
+Guides Analytics is part of the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] application suite that includes the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of [!include[pn-power-bi](../includes/pn-power-bi.md)] visual reports that are populated with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] usage data stored securely in your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
 
 ## What data is collected and used in Guides Analytics? 
 
 When an operator uses the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app in Operate mode, each gaze-and-commit interaction on the **Next step** and 
 **Go back** buttons is recorded, together with the date and time of the interaction. Each operation of a guide in [!include[pn-hololens](../includes/pn-hololens.md)] 
 Operate mode, whether completed from beginning to end of the guide or involving just a few steps, is called *a run*. Information about the guide, such as step number, task number, and guide name are also recorded. This 
-data is stored in your private and secure Dynamics 365 environment.  
+data is stored in your private and secure [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment.  
 
 ## What can you do with the data? 
 
@@ -82,7 +82,7 @@ To set up your reports:
   
      ![Sign-in error)](media/sign-in-error.PNG "Sign-in error")
 
-     In that case, select **Sign in**, and enter your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password to connect the template to your organization’s secure Dynamics 365 environment. 
+     In that case, select **Sign in**, and enter your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password to connect the template to your organization’s secure [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
 
 5.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are described in detail in “Take a tour of reports” later in this topic. 
  
