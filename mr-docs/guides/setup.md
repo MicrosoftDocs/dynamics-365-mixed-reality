@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)] Dynamics 365 Guides (Preview)! [Learn about Guides capabilities](index.md).
+We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]! [Learn about Guides capabilities](index.md).
 
 To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]s, you need to:
 
@@ -112,7 +112,7 @@ After signing up for the preview, you’ll need to create an environment where y
     > [!NOTE]
     > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.
     
-16.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link, and then sign in again with the credentials you created for the preview. You might need to close your browser before signing in. 
+16.	After the database is created, a link to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center appears. Select this link, and then sign in again with the credentials you created for the preview. You might need to close your browser before signing in. 
 
     ![Admin Center link](media/admin-center-link.PNG "Admin Center link")
 
@@ -128,13 +128,13 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     
     ![Admin Center with Open button selected](media/admin-center-open-button.PNG "Admin Center with Open button selected")
     
-    This opens the **Dynamics 365** screen.
+    This opens the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** screen.
     
-3.  In the **Dynamics 365** screen, select **Settings**, and then select **Advanced Settings**. 
+3.  In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** screen, select **Settings**, and then select **Advanced Settings**. 
 
     ![Advanced Settings](media/advanced-settings.PNG "Advanced Settings")
     
-4.  In the **Dynamics 365 Business Management** screen, select the **Settings** drop-down list.
+4.  In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Business Management** screen, select the **Settings** drop-down list.
 
      ![Business Management screen2](media/business-management.PNG "Business Management screen")
     
@@ -142,7 +142,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     ![Administration button in Dynamics 365](media/administration-button.PNG "Administration button in Dynamics 365")
  
-6.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
+6.	In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Settings > Administration** page, select **System Settings**.
 
     ![System settings in Dynamics 365](media/system-settings.PNG "System settings in Dynamics 365")
   
@@ -155,7 +155,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     ![Solutions Edit button](media/solutions-edit-button.PNG "Solutions Edit button")
  
     > [!NOTE]
-    > You can also get to the Dynamics 365 Administration Center from the PowerApps portal.
+    > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the PowerApps portal.
     
 8.	Select the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution in the list, and then select **Install**. 
 
@@ -163,7 +163,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     
 9. In the **Terms of Service** dialog box, review the terms, and then select **install** when you're ready.
 
-   In the **Dynamics 365 Administration Center** screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
+   In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center** screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
 
    ![Solution installing message](media/installing-solution.PNG "Solution installing message")
    
@@ -175,22 +175,22 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 ### Set up user roles for the solution<a name="user-roles"></a>
 
 > [!NOTE]
-> It can take up to one hour for a user to appear in the Dynamics 365 admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center. 
+> It can take up to one hour for a user to appear in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center. 
 
 1.	After the solution has finished installing, go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open**.
 
-2. On the **Dynamics 365** page, select **Settings**, and then select **Advanced Settings**.
+2. On the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** page, select **Settings**, and then select **Advanced Settings**.
 
     ![Dynamics 365 Advanced Settings](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
     
     > [!IMPORTANT]
     > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the Guides Hub (Preview) tile in the preceding screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
  
-3.	 In the **Dynamics 365 > Business Management** screen, select the **Settings** drop-down list.
+3.	 In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] > Business Management** screen, select the **Settings** drop-down list.
     
      ![Business Management screen2](media/business-management.PNG "Business Management screen")
 
-4.  On the **Dynamics 365 Settings** > **Administration** page, under **System**, select **Security**. 
+4.  On the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Settings** > **Administration** page, under **System**, select **Security**. 
 
     ![Dynamics 365 Security setting](media/security-setting.PNG "Dynamics 365 Security setting")
  
