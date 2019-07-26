@@ -53,11 +53,11 @@ Yes, the preview version of Dynamics 365 for Field Service integration was added
 
 ## I get an error message when I try to sign in to the PC app or [!include[pn-hololens](../includes/pn-hololens.md)] app
 
-The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution package (which includes the built-in library of 3D content) needs to be installed on your Dynamics 365 account. Every user must also have a license to use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] product. If your organization is already subscribed to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
+The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution package (which includes the built-in library of 3D content) needs to be installed on your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account. Every user must also have a license to use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] product. If your organization is already subscribed to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
 
 ## Where is the data stored and who has access to it?
 
-The data is stored in Common Data Service in the tenant that you have admin privileges to. Please sign in to Dynamics 365 using the credentials created during the sign-up process. For more information, [see the Setup topic](setup.md). 
+The data is stored in Common Data Service in the tenant that you have admin privileges to. Please sign in to [!include[pn-dyn-365](../includes/pn-dyn-365.md)] using the credentials created during the sign-up process. For more information, [see the Setup topic](setup.md). 
 
 ## What file formats are supported?
 
@@ -138,7 +138,7 @@ The hazard sign is a placeholder for 3D models, videos, or images that can’t b
 
 - If you can’t find the file in the PC app library, the reference (entity) to the 3D model/video/image is broken. Please upload the file again and re-author the guide.
 
-- If the file exists in the library but the preview doesn’t load, there’s a problem with the file information in Dynamics 365. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
+- If the file exists in the library but the preview doesn’t load, there’s a problem with the file information in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]. Please upload the file again, and then edit the guide to refer to this new asset wherever applicable.
 
 ### See also
 
