@@ -76,7 +76,7 @@ You can create multiple guides with the same name. While this prevents unintenti
 
 ## 3D content and media cannot be renamed or deleted after uploading
 
-At this time, we do not support renaming or deleting 3D content and media once they have been uploaded to the server. While it’s possible to rename them in Dynamics 365, doing so can have unintended consequences on any guides that use this content.
+At this time, we do not support renaming or deleting 3D content and media once they have been uploaded to the server. While it’s possible to rename them in [!include[pn-dyn-365](../includes/pn-dyn-365.md)], doing so can have unintended consequences on any guides that use this content.
 
 ## 3D content and media will be overwritten if you upload new content with the same name
 
@@ -142,7 +142,7 @@ If, at any point, you need to readjust this setting, you can trigger the offset 
 
 #### I can’t sign in
 
-To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] Dynamics 365 sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, Windows Store, and so on) or your corporate credentials to sign in. 
+To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, Windows Store, and so on) or your corporate credentials to sign in. 
 
 If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at http://aka.ms/guidesdocs. 
 
@@ -183,13 +183,13 @@ If you still can’t find your content, contact your administrator.
 
 #### I have an issue that isn’t listed in these troubleshooting steps
 
-Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by signing in to your Dynamics 365 account and selecting the **Support** link.
+Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
 
 ### HoloLens application issues
 
 #### I can’t sign in
 
-To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] Dynamics 365 sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, and so on) or your corporate credentials to sign in. 
+To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, and so on) or your corporate credentials to sign in. 
 
 If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at http://aka.ms/guidesdocs. 
 
@@ -225,9 +225,9 @@ Look for newly created guides in the **All** tab in the list of guides. The **Re
 
 #### The profile picture shown in the app is incorrect 
 
-Make sure you’re signed in. To do this, select the profile picture, and then sign out and sign back in with your Dynamics 365 credentials. Your profile picture should appear correctly.
+Make sure you’re signed in. To do this, select the profile picture, and then sign out and sign back in with your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] credentials. Your profile picture should appear correctly.
 
-Signing in with the right credentials ensures that your work progress is correctly tracked in Dynamics 365.
+Signing in with the right credentials ensures that your work progress is correctly tracked in [!include[pn-dyn-365](../includes/pn-dyn-365.md)].
 
 #### The video preview on a step is blurry
 
@@ -252,7 +252,7 @@ There are some problems with rendering the “see through” style on some 3D mo
 To allow authors to place 3D models carefully and precisely, the default movement is set to be slow. To indicate this, the manipulation sphere around the model will be blue. You can move your hand faster, or wiggle the model a bit to switch it to move faster. 
 
 #### I have an issue that isn’t listed in these troubleshooting steps
-Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by signing in to your Dynamics 365 account and selecting the **Support** link.
+Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
 
 ### See also
 
