@@ -95,7 +95,7 @@ Now that your [!include[pn-hololens](../includes/pn-hololens.md)] device is cali
 
 ### Install the HoloLens app
 
-1.	Make sure you have [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
+1.	Make sure you have [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
 
 2.	On your [!include[pn-hololens](../includes/pn-hololens.md)] device, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
 
@@ -103,7 +103,7 @@ Now that your [!include[pn-hololens](../includes/pn-hololens.md)] device is cali
 
 ### Sign in to the HoloLens app
 
-If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.md)] device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard also walks you through steps to calibrate and prepare [!include[pn-hololens](../includes/pn-hololens.md)]. For more information on calibration, see the “First things first” section of this topic.
+If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.md)] device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you’re running. The Setup wizard also walks you through steps to calibrate and prepare [!include[pn-hololens](../includes/pn-hololens.md)]. For more information on calibration, see the “First things first” section of this topic.
  
 ### Open and sign in to HoloLens for the first time
 
