@@ -11,14 +11,14 @@ ms.reviewer: v-brycho
 
 # Integrate Dynamics 365 for Field Service with Dynamics 365 Guides (Preview)
 
-[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration (included in version 104.1907.19001 for Public Preview) enables Field Service 
-customers to attach guides to field service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]. When work orders are assigned to technicians, 
-the technicians can use a dedicated **Field Service** tab in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app to launch the assigned guide and do their work.
+[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration (included in version 104.1907.19001 for Public Preview) enables [!include[pn-field-service](../includes/pn-field-service.md)] 
+customers to attach guides to [!include[pn-field-service](../includes/pn-field-service.md)] tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]. When work orders are assigned to technicians, 
+the technicians can use a dedicated **[!include[pn-field-service](../includes/pn-field-service.md)]** tab in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app to launch the assigned guide and do their work.
 
 ![Select guide](media/select-guide.PNG "Select guide")   
 
 > [!IMPORTANT]
-> To attach guides to service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], you need to have an existing Dynamics 365 Customer Engagement (CRM) instance with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.6.0.183 or later. You also need to update to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 104.1907.0.33 or later ([Learn how to upgrade the Dynamics 365 Guides 
+> To attach guides to service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], you need to have an existing [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Customer Engagement (CRM) instance with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.6.0.183 or later. You also need to update to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 104.1907.0.33 or later ([Learn how to upgrade the Dynamics 365 Guides 
 solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] app versions 104.1907.19001 ([Learn how to sign up for the preview and install the apps](setup.md)).
 
 ## Enable your technicians to use Dynamics 365 Guides for work orders
@@ -29,7 +29,7 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
    
    - [Use the HoloLens app to place your holograms](hololens-authoring.md)
    
-2. Create a Field Service work order and attach a service task to it. 
+2. Create a [!include[pn-field-service](../includes/pn-field-service.md)] work order and attach a service task to it. 
 
    1. To create a new work order in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], select **Work Orders** in the left navigation, and then select **New Work Order**.
    
@@ -54,19 +54,19 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
    
       ![Schedule and select resource](media/schedule-select-resource.PNG "Schedule and select resource")   
       
-4. Have your technician launch the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app on [!include[pn-hololens](../includes/pn-hololens.md)]. After signing in, the technician will see the **Field Service** tab. The tab shows the guide (and any other guides assigned to them) along with a brief description of the booking and when that order is scheduled.
+4. Have your technician launch the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app on [!include[pn-hololens](../includes/pn-hololens.md)]. After signing in, the technician will see the **[!include[pn-field-service](../includes/pn-field-service.md)]** tab. The tab shows the guide (and any other guides assigned to them) along with a brief description of the booking and when that order is scheduled.
 
     ![Select guide](media/select-guide-3.PNG "Select guide")   
     
     
 > [!NOTE]
-> Keep the following in mind:<br><br>- The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app shows work orders scheduled for the current day and the following eight days.<br><br>- Work orders continue to appear on [!include[pn-hololens](../includes/pn-hololens.md)] until they're marked as **Complete** in Field Service or assigned to someone else.
+> Keep the following in mind:<br><br>- The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app shows work orders scheduled for the current day and the following eight days.<br><br>- Work orders continue to appear on [!include[pn-hololens](../includes/pn-hololens.md)] until they're marked as **Complete** in [!include[pn-field-service](../includes/pn-field-service.md)] or assigned to someone else.
 
 ### Known issues
 
 - Service task names that are longer than approximately 50 characters are cut off in the [!include[pn-hololens](../includes/pn-hololens.md)] user interface.
 
-- When assigning a guide to a Field Service service task, there's an option to create a new guide. Do not use this option to create a new guide. Guides must be created using the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps as described in step 1 of this procedure.
+- When assigning a guide to a [!include[pn-field-service](../includes/pn-field-service.md)] service task, there's an option to create a new guide. Do not use this option to create a new guide. Guides must be created using the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps as described in step 1 of this procedure.
    
    ![Create a new guide from Field Service](media/create-new-guide-from-field-service.PNG "Create a new guide from Field Service")   
 
