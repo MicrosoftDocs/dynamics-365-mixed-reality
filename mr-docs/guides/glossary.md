@@ -34,7 +34,7 @@ Collective term for the complete set of objects that you can add to a step to su
 The person who creates a guide.
 
 ## Calibration
-A process in which [!include[pn-hololens](../includes/pn-hololens.md)] adjusts the hologram display according to a user's interpupillary distance (IPD). The [!include[pn-hololens](../includes/pn-hololens.md)] device must be calibrated correctly so that the guide aligns properly in the real world. Proper calibration is also necessary to place holographic objects in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. HoloL[!include[pn-hololens](../includes/pn-hololens.md)]ens includes a Calibration app that can be used by authors and operators for this purpose. 
+A process in which [!include[pn-hololens](../includes/pn-hololens.md)] adjusts the hologram display according to a user's interpupillary distance (IPD). The [!include[pn-hololens](../includes/pn-hololens.md)] device must be calibrated correctly so that the guide aligns properly in the real world. Proper calibration is also necessary to place holographic objects in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. [!include[pn-hololens](../includes/pn-hololens.md)] includes a Calibration app that can be used by authors and operators for this purpose. 
 
 ## Digital anchor
 A 3D representation used to anchor holograms in the real world. You place the digital representation, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor.
@@ -67,7 +67,7 @@ A page in the PC Authoring application that you use to add tasks and steps. From
 A short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
 
 ## Step card
-The fundamental building block in Guides. You add text and supporting assets to a Step card in the PC authoring application, and then place holograms associated with each step in a real-world environment in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see the [Authoring guide](pc-authoring.md).
+The fundamental building block in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You add text and supporting assets to a Step card in the PC authoring application, and then place holograms associated with each step in a real-world environment in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see the [Authoring guide](pc-authoring.md).
 
 ## Style
 Visual properties that you can add to any 3D object to reinforce what you want the operator to do or know. Examples of styles include Pick up, Place, and Caution.
