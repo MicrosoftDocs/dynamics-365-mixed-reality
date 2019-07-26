@@ -49,7 +49,7 @@ You need a [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-pr
 
 ## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
 
-Yes, the preview version of Dynamics 365 for Field Service integration was added in version 104.1907.19001.
+Yes, the preview version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
 
 ## I get an error message when I try to sign in to the PC app or [!include[pn-hololens](../includes/pn-hololens.md)] app
 
