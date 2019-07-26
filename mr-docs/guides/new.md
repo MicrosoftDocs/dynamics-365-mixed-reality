@@ -17,13 +17,13 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1907.19001 and CDS solution version 104.1907.0.33 introduces integration with Dynamics 365 for Field Service. **Field Service** customers can now attach guides to service tasks in Dynamics 365 for Field Service. When work orders are assigned to technicians, the technicians can launch the assigned guide in a dedicated **Field Service** tab in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] application and do their work.
 
-Customers interested in previewing integration with Dynamics 365 for Field Service need to have an existing Dynamics 365 Customer Engagement (CRM) instance with Dynamics 365 for Field Service version 8.6.0.183 or later. 
+Customers interested in previewing integration with Dynamics 365 for Field Service need to have an existing [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Customer Engagement (CRM) instance with Dynamics 365 for Field Service version 8.6.0.183 or later. 
 
 Visit aka.ms/getguides for steps to upgrade.
 
 ### July 9, 2019
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1907.4001.0 brings a new look and feel to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1907.4001.0 brings a new look and feel to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps. We improved the user experience and aligned it with the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] family of apps. 
  
 #### Improvements in this release
 
@@ -45,8 +45,8 @@ If you choose to create a guide using a digital anchor, you can now use a pre-se
 before proceeding.
 
 > [!NOTE]
-> To take advantage of the new anchoring improvements, you must update the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution in the Dynamics 365 
-admin center. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides (Preview) solution</a> or contact your Dynamics 365 administrator.
+> To take advantage of the new anchoring improvements, you must update the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] 
+admin center. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides (Preview) solution</a> or contact your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] administrator.
 
 For more information on authoring a guide with the PC application, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-authoring" target="_blank">Use the PC authoring application to create a guide</a>.
 
