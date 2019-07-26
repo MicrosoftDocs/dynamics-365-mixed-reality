@@ -15,9 +15,9 @@ ms.reviewer: v-brycho
  
 If you're ready to start creating a guide with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], you're in the right place! 
 
-To create a guide, you’ll use two applications:
+To create a guide, you use two applications:
 
-- **PC application.** You’ll start with the PC application. Use this application to create the guide, choose an anchoring method, 
+- **PC application.** You start with the PC application. Use this application to create the guide, choose an anchoring method, 
 add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
 Supporting assets include:
 
