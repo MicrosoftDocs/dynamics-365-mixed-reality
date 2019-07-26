@@ -15,7 +15,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ### July 23, 2019
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1907.19001 and CDS solution version 104.1907.0.33 introduces integration with Dynamics 365 for Field Service. **Field Service** customers can now attach guides to service tasks in Dynamics 365 for Field Service. When work orders are assigned to technicians, the technicians can launch the assigned guide in a dedicated **Field Service** tab in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens application and do their work.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1907.19001 and CDS solution version 104.1907.0.33 introduces integration with Dynamics 365 for Field Service. **Field Service** customers can now attach guides to service tasks in Dynamics 365 for Field Service. When work orders are assigned to technicians, the technicians can launch the assigned guide in a dedicated **Field Service** tab in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] application and do their work.
 
 Customers interested in previewing integration with Dynamics 365 for Field Service need to have an existing Dynamics 365 Customer Engagement (CRM) instance with Dynamics 365 for Field Service version 8.6.0.183 or later. 
 
@@ -23,7 +23,7 @@ Visit aka.ms/getguides for steps to upgrade.
 
 ### July 9, 2019
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1907.4001.0 brings a new look and feel to the PC and HoloLens apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1907.4001.0 brings a new look and feel to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps. We improved the user experience and aligned it with the Dynamics 365 family of apps. 
  
 #### Improvements in this release
 
@@ -31,9 +31,9 @@ Visit aka.ms/getguides for steps to upgrade.
 
 - The navigation menu on the left and bottom right of the PC app makes it much faster to navigate between guide content and guide anchor settings. 
  
-- “Gaze-dwell” interactions on HoloLens are consistently placed on the left side of list items to make it easier to select while browsing. 
+- “Gaze-dwell” interactions on [!include[pn-hololens](../includes/pn-hololens.md)] are consistently placed on the left side of list items to make it easier to select while browsing. 
 
-- 3D models are loaded for each step to improve performance on HoloLens.
+- 3D models are loaded for each step to improve performance on [!include[pn-hololens](../includes/pn-hololens.md)].
  
 This **What's New** panel will continue to inform you of new and noteworthy features in each monthly release.
 
