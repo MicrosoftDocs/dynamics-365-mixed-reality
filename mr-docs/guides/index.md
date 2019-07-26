@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
  
 ![Engine graphic](media/overview.PNG "Engine graphic") 
 
-[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens that enables employees to learn in the flow 
+[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that enables employees to learn in the flow 
 of work by providing holographic instructions when and where they need them. A series of step-by-step instruction cards 
 with image and video support are visually tethered to the place where the work needs to be done. Additional guidance 
 in the form of holographic models shows what needs to be done where, so workers can get the job done faster, with fewer errors 
@@ -25,7 +25,7 @@ and greater retention of learned skills.
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] allows anyone to structure and create step-by-step mixed-reality guidance for a task, without the need for specialized 3D or programming skills. Start with the PC authoring tool to capture work processes and create guides—files 
 that include step-by-step instructions with images, video, and 3D holograms. After creating the guide on a PC, authors 
-can then connect the instruction cards and holograms to the physical work space using HoloLens by picking them up and 
+can then connect the instruction cards and holograms to the physical work space using [!include[pn-hololens](../includes/pn-hololens.md)] by picking them up and 
 moving them to the right location. Use the default library of 3D holograms or import your own custom 3D models if you prefer.   
 
 ## Improve productivity by enabling your workforce to learn while doing their work
