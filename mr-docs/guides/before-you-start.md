@@ -49,8 +49,7 @@ assets for high-level principles where details aren’t as important.
 
   - Make sure to take a picture of the whole object for overall context, as well as a close-up for precision.
   
-  - Keep in mind the perspective of the operator. It’s helpful to take the picture from the same angle. 
-that the operator will use.
+  - Keep in mind the perspective of the operator. It’s helpful to take the picture from the same angle that the operator will use.
 
 - For performance reasons, don’t use 4K/HD quality pictures. **Total image size shouldn’t exceed 100 KB.**
 
