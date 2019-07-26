@@ -38,15 +38,15 @@ The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides
     
       ![Example Guide)](media/example-guide.PNG "Example Guide")
 
-    - Put on your [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens device, start the HoloLens app in Operator mode, and then select the Example Guide. Go through the guide step-by-step to learn about key features. 
+    - Put on your [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] device, start the [!include[pn-hololens](../includes/pn-hololens.md)] app in Operator mode, and then select the Example Guide. Go through the guide step-by-step to learn about key features. 
 
-    - Edit the guide steps and assets using the PC authoring app, or place instructions or holograms using the HoloLens app in Author mode. 
+    - Edit the guide steps and assets using the PC authoring app, or place instructions or holograms using the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode. 
     
 2.	Create your first guide from scratch, try it out, and analyze it.
 
      - To create your first guide, find a simple step-by-step operation in a physical space that you have access to. We’ve created guides for operating a projector, pouring water into a glass, and making penguin olives! Or use a real-world workflow in your business. 
 
-     - Build your first guide using standard 3D assets. Create your tasks and steps in the PC app, and then move to the HoloLens app to place the instructions and holograms in the physical space they relate to. Refer to the [Authoring](authoring-overview.md) and [Operating](operator-guide.md) topics for help. 
+     - Build your first guide using standard 3D assets. Create your tasks and steps in the PC app, and then move to the [!include[pn-hololens](../includes/pn-hololens.md)] app to place the instructions and holograms in the physical space they relate to. Refer to the [Authoring](authoring-overview.md) and [Operating](operator-guide.md) topics for help. 
 
      - After you’ve created your guide, try it out in Operate mode to see how it works. 
 
@@ -64,7 +64,7 @@ Focus on step-by-step procedures that:
 
 - Require important support preparation (paper-based patterns, stickers, measures, and so on) that could be replaced with holographic instructions.
 
-- Don't require millimeter-level accuracy. HoloLens sensors are not calibrated to support that level of accuracy.
+- Don't require millimeter-level accuracy. [!include[pn-hololens](../includes/pn-hololens.md)] sensors are not calibrated to support that level of accuracy.
 
 - Take less than one hour to complete. If a procedure takes longer than one hour, the operator could experience discomfort.
 
