@@ -17,7 +17,7 @@ Before you start authoring in [!include[cc-microsoft](../includes/cc-microsoft.m
 
 - Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content 
 (if you have any) and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. 
-Dynamics 365 Guides includes a 3D toolkit that you can use to get started.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a 3D toolkit that you can use to get started.
 
 - Arrange for access to the space so you understand the real-world environment. You’ll also need access to the space to anchor 
 the guide and place holograms later.
