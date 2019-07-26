@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
  
 We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]! [Learn about Guides capabilities](index.md).
 
-To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]s, you need to:
+To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
 
 1.	Sign up for the preview.
 
