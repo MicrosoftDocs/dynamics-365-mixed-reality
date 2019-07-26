@@ -9,7 +9,7 @@ title: Overview of authoring in Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Overview of authoring a guide in Dynamics 365 Guides in preview
+# Overview of authoring a guide in Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
