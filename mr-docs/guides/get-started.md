@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
  
 So you’ve set up [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] using the [Setup topic](setup.md) and you’re ready to get started. What do you do next?
 
-There are three basic things you can do with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]s: 
+There are three basic things you can do with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]: 
 
 - Create a guide (author a guide).
 
