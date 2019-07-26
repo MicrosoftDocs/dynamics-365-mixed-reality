@@ -42,7 +42,7 @@ simple to use, and reduces mental processing time, errors, and the need to rely 
 ## Continually analyze and improve your processes   
 
 Using [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboards, managers can see rich data about how the process is working for their people, enabling them to continually 
-analyze and improve without doing expensive studies. Being part of the Dynamics 365 product family and powered by Common Data Service, [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] allows customers and partners access and integration opportunities.
+analyze and improve without doing expensive studies. Being part of the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] product family and powered by Common Data Service, [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] allows customers and partners access and integration opportunities.
 
 ### See also
 
