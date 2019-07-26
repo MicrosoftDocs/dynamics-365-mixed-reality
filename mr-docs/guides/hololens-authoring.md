@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] takes place on the HoloLens application. In HoloLens Author mode, you:
+The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] takes place on the [!include[pn-hololens](../includes/pn-hololens.md)] application. In [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, you:
 
 - Align your guide to a printed anchor (marker) or a digital anchor, depending on the type of anchor method you chose in the PC application.
 
@@ -29,22 +29,22 @@ The second major step in authoring a guide in [!include[cc-microsoft](../include
 
 ## Install the HoloLens app
 
-If you haven’t already installed the HoloLens app on your HoloLens device (or it hasn't already been installed for you), install it from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers.
+If you haven’t already installed the [!include[pn-hololens](../includes/pn-hololens.md)] app on your [!include[pn-hololens](../includes/pn-hololens.md)] device (or it hasn't already been installed for you), install it from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers.
 
 To install the HoloLens app:
 
-1.	Make sure you have [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens build 10.0.14393.0 or later installed on your HoloLens device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
+1.	Make sure you have [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
-2.	On your HoloLens, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open [!include[cc-microsoft](../includes/cc-microsoft.md)] Store and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
+2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open [!include[cc-microsoft](../includes/cc-microsoft.md)] Store and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
 ### Sign in to the HoloLens app
-If you sign in with a brand new HoloLens device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your HoloLens for use.
+If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.md)] device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of Windows that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your [!include[pn-hololens](../includes/pn-hololens.md)] for use.
 
 #### Calibrate your HoloLens
 
-To have the holograms appear in the correct locations, the interpupillary distance (IPD) must be set. This is true for any HoloLens user, whether you’re an author or an operator. In an industrial setting where a hologram is used to direct the operator to do operational tasks, it’s crucial that holograms be aligned properly. Otherwise it can cause operator confusion and can result in costly damage.
+To have the holograms appear in the correct locations, the interpupillary distance (IPD) must be set. This is true for any [!include[pn-hololens](../includes/pn-hololens.md)] user, whether you’re an author or an operator. In an industrial setting where a hologram is used to direct the operator to do operational tasks, it’s crucial that holograms be aligned properly. Otherwise it can cause operator confusion and can result in costly damage.
 
 If you don’t configure the IPD for each user: 
 
@@ -57,19 +57,19 @@ If you don’t configure the IPD for each user:
 > [!IMPORTANT] 
 > It’s particularly crucial for authors to ensure that their IPD is set correctly. Otherwise, all operators using the guide will see misaligned holograms. 
 
-To set your IPD, use the Calibration app included with HoloLens using the following steps: 
+To set your IPD, use the Calibration app included with [!include[pn-hololens](../includes/pn-hololens.md)] using the following steps: 
 
 1.	Do the bloom gesture to launch the **Start** menu.
 
-2.	Air tap on **Calibration** to begin calibrating your HoloLens.
+2.	Air tap on **Calibration** to begin calibrating your [!include[pn-hololens](../includes/pn-hololens.md)].
 
     ![Calibration app)](media/hololens-calibration.PNG "Calibration app")
  
-3.	Follow the instructions on your HoloLens.
+3.	Follow the instructions on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
-Each user will need to do this calibration after logging into the device. If HoloLens is running Windows Holographic for Business edition, the IPD setting will be saved on the device. When the user logs into the same HoloLens, their IPD setting will be applied automatically even after switching users—they won’t need to recalibrate. If HoloLens is running Windows Holographic edition, however, user settings aren’t saved, because this version of the operating system is designed for a single user. Each time you switch users, you’ll need to recalibrate the device. 
+Each user will need to do this calibration after logging into the device. If [!include[pn-hololens](../includes/pn-hololens.md)] is running Windows Holographic for Business edition, the IPD setting will be saved on the device. When the user logs into the same [!include[pn-hololens](../includes/pn-hololens.md)], their IPD setting will be applied automatically even after switching users—they won’t need to recalibrate. If [!include[pn-hololens](../includes/pn-hololens.md)] is running Windows Holographic edition, however, user settings aren’t saved, because this version of the operating system is designed for a single user. Each time you switch users, you’ll need to recalibrate the device. 
 
-To determine which version of the operating system you’re using on HoloLens: 
+To determine which version of the operating system you’re using on [!include[pn-hololens](../includes/pn-hololens.md)]: 
 
 1.	Do the bloom gesture to launch the **Start** menu.
 
@@ -78,7 +78,8 @@ To determine which version of the operating system you’re using on HoloLens:
 3.	Air tap **About**.
  
 ### Open and sign in to HoloLens for the first time
-After ensuring that your HoloLens is correctly calibrated, you can open the HoloLens application.
+
+After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is correctly calibrated, you can open the [!include[pn-hololens](../includes/pn-hololens.md)] application.
 1.	Go to **All Apps**.
 
     ![HoloLens Apps selection](media/hololens-apps.PNG "HoloLens Apps selection")
@@ -119,11 +120,11 @@ The first thing you see when you open a guide is the alignment instructions from
 
    ![HoloLens alignment instructions](media/scan-printed-anchor.PNG "HoloLens alignment instructions")
 
-   On your HoloLens, you'll see an anchor hologram that looks like this:
+   On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see an anchor hologram that looks like this:
 
    ![Holographic marker image](media/scanning.PNG "Holographic marker image")
    
-3. Look at the printed anchor with your HoloLens until a green outline appears.
+3. Look at the printed anchor with your [!include[pn-hololens](../includes/pn-hololens.md)] until a green outline appears.
 
    You'll see the **Printed anchor found** screen. 
    
@@ -134,10 +135,10 @@ The first thing you see when you open a guide is the alignment instructions from
 > [!NOTE]
 > If you chose to use a digital anchor to align the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
 
-When you align your guide, the alignment information is stored on your HoloLens so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section.
+When you align your guide, the alignment information is stored on your [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section.
 
 > [!NOTE]
-> You might need to adjust the hardware offset in HoloLens 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
+> You might need to adjust the hardware offset in [!include[pn-hololens](../includes/pn-hololens.md)] 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
 
 ## Get oriented on HoloLens
 After you align your guide, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card tags along with the operator to keep the instructions where they need them as they move around their work space.
@@ -151,7 +152,7 @@ At the top of the Step card screen, you’ll see three buttons: **Save**, **Undo
 The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. There’s no limit to the number of times you can undo or redo. 
 
 > [!NOTE]
-> Changes are automatically saved as you author in HoloLens. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
+> Changes are automatically saved as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
 
 The Step card also includes several other buttons and UI elements:
 
@@ -162,8 +163,8 @@ Here’s what each button or UI element is used for:
 |Letter|Button/Example|Name|Purpose|
 |--|---|------------|----------------------------------------------------------------------------------------------------------------|
 |A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
-|B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.|HoloLens can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the printed anchor (marker) or digital anchor again.|
-|C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the HoloLens device correctly.</br><br>- **Noise Cancellation**. If the environment is very noisy, this setting adjusts sensitivity to voice commands so the operator doesn't have to shout.</br><br>- **Dynamic Volume**. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- **Build number**. Shows the build you’re using.|
+|B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.|[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the printed anchor (marker) or digital anchor again.|
+|C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] device correctly.</br><br>- **Noise Cancellation**. If the environment is very noisy, this setting adjusts sensitivity to voice commands so the operator doesn't have to shout.</br><br>- **Dynamic Volume**. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- **Build number**. Shows the build you’re using.|
 |D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
 |E|![Pin button](media/pin-button.PNG "Pin button")|Pin|Lock the Step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the Step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
 |F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
@@ -173,7 +174,7 @@ Here’s what each button or UI element is used for:
 
 
 ## Test the flow of your guide
-Once you’re oriented on HoloLens, we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
+Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
 
 ## Place your holograms
 After you’ve tested the flow of your guide and made changes in the PC application, you’re ready to place your holograms. 
@@ -194,7 +195,7 @@ The 3D assets associated with each step appear below the Step card in *the bin*:
 
 ### Place a 3D model from the 3D toolkit
 
-You can place a 3D model from the 3D toolkit in the same way you place a 3D part if you added that 3D model to the bin in the PC application. If you didn't add the 3D model in the PC application, you can do it directly from the HoloLens app: 
+You can place a 3D model from the 3D toolkit in the same way you place a 3D part if you added that 3D model to the bin in the PC application. If you didn't add the 3D model in the PC application, you can do it directly from the [!include[pn-hololens](../includes/pn-hololens.md)] app: 
 
 1.	Air tap an empty box in the bin (under **3D parts**).
 
@@ -249,7 +250,7 @@ The following graphic shows how to use the different rotation knobs:
 ![Hologram manipulation](media/hologram-manipulation.PNG "Hologram manipulation")
  
 > [!Important]
-> To manipulate holograms effectively, make sure that your HoloLens is calibrated properly. 
+> To manipulate holograms effectively, make sure that your [!include[pn-hololens](../includes/pn-hololens.md)] is calibrated properly. 
 
 #### Change the size of a hologram after placing it
 
@@ -271,7 +272,7 @@ The following graphic shows how to use the different rotation knobs:
 Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
 
 > [!Note]
-> At this time, you can’t add styles from the PC application. They exist only in HoloLens. 
+> At this time, you can’t add styles from the PC application. They exist only in [!include[pn-hololens](../includes/pn-hololens.md)]. 
 
 To place a style:
 
@@ -352,7 +353,7 @@ To learn more about [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.m
 - [Analyze your guides to improve efficiency](analytics-guide.md)
 - [FAQ](faq.md)
 
-To learn more about [!include[cc-microsoft](../includes/cc-microsoft.md)] mixed-reality apps and HoloLens, use the following links: 
+To learn more about [!include[cc-microsoft](../includes/cc-microsoft.md)] mixed-reality apps and [!include[pn-hololens](../includes/pn-hololens.md)], use the following links: 
 
 - [What is mixed reality](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)?
 - [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
