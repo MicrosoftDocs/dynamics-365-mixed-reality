@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Guides Analytics is part of the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] application suite that includes the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of Power BI visual reports that are populated with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] usage data stored securely in your Dynamics 365 environment. 
+Guides Analytics is part of the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] application suite that includes the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of [!include[pn-power-bi](../includes/pn-power-bi.md)] visual reports that are populated with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] usage data stored securely in your Dynamics 365 environment. 
 
 ## What data is collected and used in Guides Analytics? 
 
@@ -50,7 +50,7 @@ to better understand performance and improvement over time.
 You can set up Guide Analytics for the first time through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
 
 > [!NOTE]
-> Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). If you don’t have permission to install Power BI Desktop on your computer, ask your admin about sharing the reports through the Power BI Service. 
+> Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). If you don’t have permission to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer, ask your admin about sharing the reports through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. 
 
 To set up your reports:
  
@@ -64,15 +64,15 @@ To set up your reports:
 
     You’ll be prompted to choose the files to download: 
 
-     - **Guides Analytics Template.** You can configure this Power BI template file to display [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] time-tracking data from within your organization. This is the main component of Guides Analytics. 
+     - **Guides Analytics Template.** You can configure this [!include[pn-power-bi](../includes/pn-power-bi.md)] template file to display [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] time-tracking data from within your organization. This is the main component of Guides Analytics. 
    
-     - **Guides Analytics Demo.** You can use this Power BI file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics before you even create your first guide.  
+     - **Guides Analytics Demo.** You can use this [!include[pn-power-bi](../includes/pn-power-bi.md)] file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics before you even create your first guide.  
 
      We recommend downloading both files. 
 
      ![Files to download)](media/download-files.PNG "Files to download")   
   
-3.	Open the downloaded Guides Analytics Template.pbit file with Power BI Desktop. Use your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password if you’re prompted to sign in to Power BI.  
+3.	Open the downloaded Guides Analytics Template.pbit file with [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop. Use your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password if you’re prompted to sign in to [!include[pn-power-bi](../includes/pn-power-bi.md)].  
  
 4.	When prompted, paste the Instance URI into the text box as shown here. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in step 1. 
 
@@ -94,7 +94,7 @@ To set up your reports:
  
 ### Open your reports 
 
-Once you have set up and saved the Guides Analytics Template on your computer, open Power BI Desktop, and then open your saved report. Power BI Desktop has a **File – Open – Recent** items list that's convenient for finding your previously opened reports.  
+Once you have set up and saved the Guides Analytics Template on your computer, open [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop, and then open your saved report. [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop has a **File – Open – Recent** items list that's convenient for finding your previously opened reports.  
 
 ## Take a tour of reports 
 
@@ -124,7 +124,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
     The bar chart of run counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage.  
 
-    **Drill up/Expand to the next level.** In Power BI, dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart, and then select **Drill Up**.
+    **Drill up/Expand to the next level.** In [!include[pn-power-bi](../includes/pn-power-bi.md)], dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart, and then select **Drill Up**.
    
     ![Drill-up button)](media/drill-up-button.PNG "Drill-up-button")
   
@@ -221,9 +221,9 @@ Use the Process Time-Tracking report to drill into usage and step-level run-time
 
 ## Share the Guides Analytics reports 
 
-You can share your Guides Analytics Power BI reports within your organization by publishing them to the Power BI Service. This allows anyone in your organization with a Power BI Pro license to access the report through the Power BI Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com).  
+You can share your Guides Analytics [!include[pn-power-bi](../includes/pn-power-bi.md)] reports within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the report through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com).  
 
-Power BI provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/en-us/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a Power BI app. This involves the following well-documented steps: 
+[!include[pn-power-bi](../includes/pn-power-bi.md)] provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/en-us/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This involves the following well-documented steps: 
 
 1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-workspaces). 
 
