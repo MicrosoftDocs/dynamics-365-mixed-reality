@@ -34,7 +34,7 @@ The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides
 
 1.	Use the Example Guide:
 
-    - We have included an Example Guide that you can use to learn about [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]s. It walks you through common workflows and features, provides tips and tricks for great guide creation, and helps you get up to speed by doing!
+    - We have included an Example Guide that you can use to learn about [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It walks you through common workflows and features, provides tips and tricks for great guide creation, and helps you get up to speed by doing!
     
       ![Example Guide)](media/example-guide.PNG "Example Guide")
 
