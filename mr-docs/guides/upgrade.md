@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 This topic is for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] administrators. Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution. When an update is required, the user will see a notification in the **What's new** panel.
 
 > [!IMPORTANT]
-> Keep the following in mind:<br><br>- Before updating the solution in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Admin center, make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps have been updated to the latest version from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store.<br><br>- Updates to the solution must be done when the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps are not in use.  
+> Keep the following in mind:<br><br>- Before updating the solution in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center, make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps have been updated to the latest version from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store.<br><br>- Updates to the solution must be done when the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps are not in use.  
 
 To upgrade the solution:
 
