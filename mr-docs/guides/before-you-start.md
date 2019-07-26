@@ -31,7 +31,7 @@ expert or a novice?
 
 ## Use media and 3D content to your advantage
 
-As you consider the media and 3D content you want to use for your project, keep in mind that size matters greatly on [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens, 
+As you consider the media and 3D content you want to use for your project, keep in mind that size matters greatly on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], 
 both for the quality of the experience and performance. It’s best to use high-fidelity assets where details matter and low-fidelity 
 assets for high-level principles where details aren’t as important.
 
@@ -85,7 +85,7 @@ using video captions, if available, for noisy environments.
 
 3D content is best for adding in-context clarity. [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a 3D toolkit of 3D models that you can use to add 
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
-optimized for HoloLens. For more information, see the [Authoring guide](pc-authoring.md).
+optimized for [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see the [Authoring guide](pc-authoring.md).
 
 You can also create and import your own custom 3D parts using CAD models. [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the Dynamics 365 Import Tool (Preview) to prepare your 3D models, or you can use the Import Tool’s concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information on the Import Tool and preparing 3D models, see these topics:
 
