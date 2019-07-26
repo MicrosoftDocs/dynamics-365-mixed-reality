@@ -23,7 +23,7 @@ To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.m
 
 3. Install the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution.
 
-4.	Download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps on a Windows 10 PC and [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)].
+4.	Download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps on a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC and [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)].
 
 5. Add additional user accounts (optional).
 
@@ -234,7 +234,7 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 ### Install the apps from Microsoft Store
 
 #### Install the PC authoring app 
-1.	Check to make sure your Windows 10 PC is running the latest Windows build (must be build 10.0.16299 or later).
+1.	Check to make sure your [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC is running the latest [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] build (must be build 10.0.16299 or later).
 
 2.	On your PC, go to **Start** ![Start button)](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button)](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
 
@@ -247,7 +247,7 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 
 #### Install the HoloLens app
 
-1.	Make sure [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.14393.0 or later. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
+1.	Make sure [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.14393.0 or later. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
 
 2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
 
