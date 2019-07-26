@@ -11,14 +11,14 @@ ms.reviewer: v-brycho
 
 # Integrate Dynamics 365 for Field Service with Dynamics 365 Guides (Preview)
 
-[!include[cc-microsoft](../includes/cc-microsoft.md)] Dynamics 365 for Field Service integration (included in version 104.1907.19001 for Public Preview) enables Field Service 
-customers to attach guides to field service tasks in Dynamics 365 for Field Service. When work orders are assigned to technicians, 
+[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration (included in version 104.1907.19001 for Public Preview) enables Field Service 
+customers to attach guides to field service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]. When work orders are assigned to technicians, 
 the technicians can use a dedicated **Field Service** tab in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app to launch the assigned guide and do their work.
 
 ![Select guide](media/select-guide.PNG "Select guide")   
 
 > [!IMPORTANT]
-> To attach guides to service tasks in Dynamics 365 Field Service, you need to have an existing Dynamics 365 Customer Engagement (CRM) instance with Dynamics 365 for Field Service version 8.6.0.183 or later. You also need to update to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 104.1907.0.33 or later ([Learn how to upgrade the Dynamics 365 Guides 
+> To attach guides to service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], you need to have an existing Dynamics 365 Customer Engagement (CRM) instance with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.6.0.183 or later. You also need to update to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 104.1907.0.33 or later ([Learn how to upgrade the Dynamics 365 Guides 
 solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] app versions 104.1907.19001 ([Learn how to sign up for the preview and install the apps](setup.md)).
 
 ## Enable your technicians to use Dynamics 365 Guides for work orders
@@ -31,7 +31,7 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
    
 2. Create a Field Service work order and attach a service task to it. 
 
-   1. To create a new work order in Dynamics 365 for Field Service, select **Work Orders** in the left navigation, and then select **New Work Order**.
+   1. To create a new work order in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], select **Work Orders** in the left navigation, and then select **New Work Order**.
    
       ![Create work order](media/create-work-order.PNG "Create work order")  
       
