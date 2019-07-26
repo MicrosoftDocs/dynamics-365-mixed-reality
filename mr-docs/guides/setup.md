@@ -23,7 +23,7 @@ To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.m
 
 3. Install the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution.
 
-4.	Download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps on a Windows 10 PC and [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens.
+4.	Download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps on a Windows 10 PC and [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)].
 
 5. Add additional user accounts (optional).
 
@@ -222,7 +222,7 @@ There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] ap
 
 - PC authoring application
 
-- HoloLens application, which has an Author mode and an Operator mode
+- [!include[pn-hololens](../includes/pn-hololens.md)] application, which has an Author mode and an Operator mode
 
 You can install the apps from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store as described in the next section.
 
@@ -247,9 +247,9 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 
 #### Install the HoloLens app
 
-1.	Make sure HoloLens is running build 10.0.14393.0 or later. We recommend updating HoloLens to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
+1.	Make sure [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.14393.0 or later. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
 
-2.	On your HoloLens, use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
+2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
@@ -272,7 +272,7 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 
 For information on opening and signing in to the PC application after installing it, see the [authoring guide](authoring-overview.md).
 
-For information on opening and signing in to the HoloLens application, go to one of the following, depending on whether you're an author or an operator:
+For information on opening and signing in to the [!include[pn-hololens](../includes/pn-hololens.md)] application, go to one of the following, depending on whether you're an author or an operator:
 
    - [HoloLens authoring](hololens-authoring.md)
    
