@@ -118,7 +118,7 @@ After signing up for the preview, you’ll need to create an environment where y
 
 The Dynamics Admin Center appears. This is where you can install the solution and make other configurations.
 
-## Step 3: Install and configure the Guides solution<a name="configure"></a>
+## Step 3: Install and configure the Dynamics 365 Guides (Preview) solution<a name="configure"></a>
 
 In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB). 
 
