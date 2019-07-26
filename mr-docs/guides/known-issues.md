@@ -17,30 +17,30 @@ ms.reviewer: v-brycho
 
 Before you upload custom 3D models or media files in the PC app, please make sure the file names are not more than 60 characters, and do not contain special characters (&, @, and so on). 
 
-Large 3D models are stored in HoloLens memory while in use; therefore, the experience is slow down significantly if there are too many models in a guide. **For reasonable performance, we recommend that you don't exceed 450MB of 3D models in a single guide.** 
+Large 3D models are stored in [!include[pn-hololens](../includes/pn-hololens.md)] memory while in use; therefore, the experience is slow down significantly if there are too many models in a guide. **For reasonable performance, we recommend that you don't exceed 450MB of 3D models in a single guide.** 
 
 ## Editing the same guide on two different PCs is not fully supported
 
-While you can author the same guide on PC and HoloLens, we strongly recommend that you not edit the same guide on two separate PCs. This can cause synchronization issues, and you might lose changes made in one of the PC sessions.
+While you can author the same guide on PC and [!include[pn-hololens](../includes/pn-hololens.md)], we strongly recommend that you not edit the same guide on two separate PCs. This can cause synchronization issues, and you might lose changes made in one of the PC sessions.
 
 ## Example guide images and video still show older version of HoloLens user interface
 
-The Example Guide will be revised in a later release. Until then, note that the images and video in the Example Guide show the older version of the HoloLens user interface (version 103.1905.31001 or earlier).
+The Example Guide will be revised in a later release. Until then, note that the images and video in the Example Guide show the older version of the [!include[pn-hololens](../includes/pn-hololens.md)] user interface (version 103.1905.31001 or earlier).
 
 ## Text wrapping on PC and HoloLens might differ in rare cases
 
-In rare cases, you might notice that text is wrapped on the step card view in HoloLens but not on the PC. This is because [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] renders fonts at different sizes for readability between PC and HoloLens, and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the HoloLens app before sharing your guides with operators.
+In rare cases, you might notice that text is wrapped on the step card view in [!include[pn-hololens](../includes/pn-hololens.md)] but not on the PC. This is because [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] renders fonts at different sizes for readability between PC and [!include[pn-hololens](../includes/pn-hololens.md)], and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the [!include[pn-hololens](../includes/pn-hololens.md)] app before sharing your guides with operators.
 
 ## HoloLens app can't refresh when you edit the anchoring step on a PC for the same guide
 
-We recommend you don't open a guide on HoloLens while editing the alignment step for the same guide on a PC. In this case, the HoloLens app will refresh automatically, but it won't be able to open the guide.
+We recommend you don't open a guide on [!include[pn-hololens](../includes/pn-hololens.md)] while editing the alignment step for the same guide on a PC. In this case, the [!include[pn-hololens](../includes/pn-hololens.md)] app will refresh automatically, but it won't be able to open the guide.
 
 ## Offline use is not supported
 At this time, offline use in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps is not supported. Also, you must have an active and reliable internet connection to use the apps. 
 
 ## Recalibrating takes you back to the first step
 
-If you’re using the [!include[cc-microsoft](../includes/cc-microsoft.md)] HoloLens application, and you select the **Alignment** button from any step to recalibrate your HoloLens, after recalibrating, you’ll land on the first step of your guide. This is by design. You (or the operator) will want to recheck all steps after recalibrating, as this can change hologram alignment.
+If you’re using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] application, and you select the **Alignment** button from any step to recalibrate your [!include[pn-hololens](../includes/pn-hololens.md)], after recalibrating, you’ll land on the first step of your guide. This is by design. You (or the operator) will want to recheck all steps after recalibrating, as this can change hologram alignment.
 
 ## Voice commands not tested thoroughly
 
@@ -48,11 +48,11 @@ We haven’t tested voice commands thoroughly for different accents or gender, w
 
 ## Instruction cards and holograms may render inside objects in the real world
 
-The HoloLens app uses understanding of the environment to render holograms, but it doesn’t use this information to render the instruction cards (Step cards). As a result, at this time, instruction cards may sometimes render inside objects in the real world. 
+The [!include[pn-hololens](../includes/pn-hololens.md)] app uses understanding of the environment to render holograms, but it doesn’t use this information to render the instruction cards (Step cards). As a result, at this time, instruction cards may sometimes render inside objects in the real world. 
 
 ## IPD settings are not saved for each user
 
-At this time, interpupillary distance (IPD) settings aren’t saved automatically for each user. For now, we don’t recommend sharing a HoloLens device. If you need to share a device, make sure to recalibrate HoloLens whenever you switch users. Note that multiple users can share the same HoloLens device if their IPDs are similar. 
+At this time, interpupillary distance (IPD) settings aren’t saved automatically for each user. For now, we don’t recommend sharing a [!include[pn-hololens](../includes/pn-hololens.md)] device. If you need to share a device, make sure to recalibrate [!include[pn-hololens](../includes/pn-hololens.md)] whenever you switch users. Note that multiple users can share the same [!include[pn-hololens](../includes/pn-hololens.md)] device if their IPDs are similar. 
 
 ## No way to secure a guide
 Currently, we don’t support permissions or versioning; therefore, anyone assigned a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license in your organization will be able to open or edit a guide.
@@ -64,7 +64,7 @@ The **Recent** list of guides is currently not scoped to the user accessing it. 
 At this time, you can’t search for a guide in the list in either application. 
 
 ## When placing large assets on HoloLens, you might see minor loading delays
-The HoloLens app currently loads the guide right after you open it, and in the background as you use the guide. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
+The [!include[pn-hololens](../includes/pn-hololens.md)] app currently loads the guide right after you open it, and in the background as you use the guide. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
 
 ## Guides can’t be renamed or deleted
 
@@ -96,9 +96,9 @@ Avoid using any names for your custom 3D models that match model names in the 3D
 
 ## Addressing hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for printed anchor alignment
  
-The angle of each HoloLens 1 PV camera (the camera placed above the nose bridge) can be slightly different across devices due to manufacturing idiosyncrasies. Since the PV camera is used to scan the printed marker, this means holograms can appear slightly misaligned when using the same guide and same printed marker on multiple devices.
+The angle of each [!include[pn-hololens](../includes/pn-hololens.md)] 1 PV camera (the camera placed above the nose bridge) can be slightly different across devices due to manufacturing idiosyncrasies. Since the PV camera is used to scan the printed marker, this means holograms can appear slightly misaligned when using the same guide and same printed marker on multiple devices.
  
-To fix this issue, the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens app provides the ability to manually adjust for this offset and save the settings to the device so that each user does not need to set the offset each time. We recommend that IT staff go through the following steps before provisioning devices to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] authors or operators. This is a one-time setup and does not need to be repeated unless the app is uninstalled or a new operating system is installed.
+To fix this issue, the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app provides the ability to manually adjust for this offset and save the settings to the device so that each user does not need to set the offset each time. We recommend that IT staff go through the following steps before provisioning devices to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] authors or operators. This is a one-time setup and does not need to be repeated unless the app is uninstalled or a new operating system is installed.
  
 ### Step 1 – Set up printed anchor
 
@@ -110,19 +110,19 @@ To fix this issue, the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guide
 
 #### On HoloLens
 
-- Run the HoloLens Calibration app for yourself to ensure proper fit and IPD.
+- Run the [!include[pn-hololens](../includes/pn-hololens.md)] Calibration app for yourself to ensure proper fit and IPD.
  
 ### Step 2 – Open the guide and align it on HoloLens
 
-1.	On HoloLens, open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app, select **Operator** or **Author** mode, and then open the guide used in step 1.
+1.	On [!include[pn-hololens](../includes/pn-hololens.md)], open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app, select **Operator** or **Author** mode, and then open the guide used in step 1.
 
 2.	Select **Scan** to begin the alignment process. Accept the permissions prompts that appear. 
 
-3. Look for your printed marker, allow the device to find the marker, and wait for the blue outline animation. The blue outline shows where the printed marker is located, as calculated by HoloLens.
+3. Look for your printed marker, allow the device to find the marker, and wait for the blue outline animation. The blue outline shows where the printed marker is located, as calculated by [!include[pn-hololens](../includes/pn-hololens.md)].
 
 ### Step 3 – Adjust the offset
 
-The blue outline is the same size as the marker. You can move it up or down along the rails positioned at its corners. Look at the printed marker from above. Is the blue outline too far to the left or right of the printed marker? If so, try adjusting the HoloLens device to make sure it fits correctly on your head.
+The blue outline is the same size as the marker. You can move it up or down along the rails positioned at its corners. Look at the printed marker from above. Is the blue outline too far to the left or right of the printed marker? If so, try adjusting the [!include[pn-hololens](../includes/pn-hololens.md)] device to make sure it fits correctly on your head.
 
 Tap and hold the blue outline and move it up or down until it overlaps with the marker exactly. Make sure that the outline is exactly aligned by looking at the marker from the side. 
  
@@ -154,10 +154,10 @@ If you see any of the following errors, please contact your IT administrator or 
 
 #### Staying on the account picker for more than 25 seconds during HoloLens sign-in will make it unresponsive
 
-When you get to the screen where you can select between different saved accounts on HoloLens, choose an option within 25 seconds. After 25 seconds, it becomes unresponsive, and you will need to restart the app. This issue has been fixed on RS5 but still exists on RS4 if you have that installed.
+When you get to the screen where you can select between different saved accounts on [!include[pn-hololens](../includes/pn-hololens.md)], choose an option within 25 seconds. After 25 seconds, it becomes unresponsive, and you will need to restart the app. This issue has been fixed on RS5 but still exists on RS4 if you have that installed.
 
 #### “Create account” link when signing in with a new account doesn’t work
-When signing in with a brand new account on the PC and HoloLens apps, there is a link to create a new account:
+When signing in with a brand new account on the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps, there is a link to create a new account:
 
 ![Sign-in screen)](media/sign-in-screen.PNG "Sign-in screen")  
  
@@ -201,15 +201,15 @@ If you see any of the following errors, please contact your IT administrator or 
 
 #### Staying on the account picker more than 25 seconds during HoloLens sign-in will make it unresponsive
 
-When you get to the screen where you can select between different saved accounts on HoloLens, choose an option within 25 seconds. After 25 seconds it will become unresponsive, and you will need to restart the app. This bug has been fixed on RS5, but still exists on RS4 if you have that installed.
+When you get to the screen where you can select between different saved accounts on [!include[pn-hololens](../includes/pn-hololens.md)], choose an option within 25 seconds. After 25 seconds it will become unresponsive, and you will need to restart the app. This bug has been fixed on RS5, but still exists on RS4 if you have that installed.
 
 #### Printed anchor method requires user’s consent to use the camera
 
-When the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on HoloLens is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use printed anchors in your guides, you will need to say **Yes** to this prompt. This is required for every device you use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on. If this consent was not provided previously, you can go to the **Settings** menu on the HoloLens (operating system) and provide consent to the app. 
+When the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on [!include[pn-hololens](../includes/pn-hololens.md)] is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use printed anchors in your guides, you will need to say **Yes** to this prompt. This is required for every device you use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on. If this consent was not provided previously, you can go to the **Settings** menu on the [!include[pn-hololens](../includes/pn-hololens.md)] (operating system) and provide consent to the app. 
 
 #### “Create account” link when signing in with a new account doesn’t work
 
-When signing in with a brand new account on the PC and HoloLens apps, there is a link to create a new account:
+When signing in with a brand new account on the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps, there is a link to create a new account:
 
 ![Sign-in screen)](media/sign-in-screen.PNG "Sign-in screen") 
   
@@ -231,13 +231,13 @@ Signing in with the right credentials ensures that your work progress is correct
 
 #### The video preview on a step is blurry
 
-The HoloLens app converts and resizes videos when they’re uploaded to ensure optimal performance on HoloLens. If your video was recorded at a very high resolution, or if it’s extremely large, the transcoding process might have degraded its quality. Re-record and upload a new video, keeping length and resolution in mind.
+The [!include[pn-hololens](../includes/pn-hololens.md)] app converts and resizes videos when they’re uploaded to ensure optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. If your video was recorded at a very high resolution, or if it’s extremely large, the transcoding process might have degraded its quality. Re-record and upload a new video, keeping length and resolution in mind.
 
 As a best practice, video clips should not be too long (**maximum of 2 minutes**). This helps operators focus on one meaningful task at a time and keeps them from getting overwhelmed. 
 
 #### Deleting an asset from a step (from the bin) in the PC app will remove all previously placed instances on HoloLens
 
-If you’re editing an existing guide, where an asset was placed in a bin in the PC app, and then instances of that asset were placed in the world on HoloLens, note that deleting the asset from the bin removes all of the placed assets in space. Adding the asset again will not restore the placed instances. To restore, press the **Undo** button in the PC app to revert the change.
+If you’re editing an existing guide, where an asset was placed in a bin in the PC app, and then instances of that asset were placed in the world on [!include[pn-hololens](../includes/pn-hololens.md)], note that deleting the asset from the bin removes all of the placed assets in space. Adding the asset again will not restore the placed instances. To restore, press the **Undo** button in the PC app to revert the change.
 
 #### Uploading glTF files with dependencies across different folders might result in upload errors
 
