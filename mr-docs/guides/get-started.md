@@ -50,7 +50,7 @@ The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides
 
      - After you’ve created your guide, try it out in Operate mode to see how it works. 
 
-     - Analyze your usage of the guide with Power BI reports. See [Analyze your guides](analytics-guide.md) for more information. 
+     - Analyze your usage of the guide with [!include[pn-power-bi](../includes/pn-power-bi.md)] reports. See [Analyze your guides](analytics-guide.md) for more information. 
 
 3.	Need Support? If you run across an issue, check out our [FAQ](faq.md) and [Known Issues](known-issues.md) topics. If that doesn’t help, please contact Support. You can find information on contacting support in the [FAQ](faq.md).
 
