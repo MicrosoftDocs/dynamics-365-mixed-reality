@@ -44,7 +44,7 @@ After signing up for the preview, you’ll need to create an environment where y
 
 1.	 Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
 
-2.  Now you need to make sure that D365 Guides license is assigned to a user. To do that, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
+2.  Make sure that the Dynamics 365 Guides license is assigned to a user. To do that, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
     ![Users > Active Users screen](media/users-active-users.PNG "Users > Active Users screen")
     
@@ -52,11 +52,11 @@ After signing up for the preview, you’ll need to create an environment where y
 
      ![Edit PowerApps plan](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
-4.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** sliders to **On**, and then select **Save**.
+4.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** slider to **On**, and then select **Save**.
   
     ![Add user license](media/add-user-license.PNG "Add user license")
     
-5.  Go to the [PowerApps Admin Center](https://preview.admin.powerapps.com/environments), and sign in with the user credentials created/provided when you signed up for the preview.
+5.  Go to the [PowerApps Admin Center](https://preview.admin.powerapps.com/environments), and sign in with the user credentials provided when you signed up for the preview.
 
 6.	In the PowerApps Admin Center, select **New environment**.
 
@@ -292,7 +292,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
     
       ![Edit user roles](media/user-roles.PNG "Edit user roles")
  
-    - **Product licenses**. Expand this section, and then turn the **Dynamics 365 Guides** sliders to **On**. You can assign up to 25 users.
+    - **Product licenses**. Expand this section, and then turn the **Dynamics 365 Guides** slider to **On**. You can assign up to 25 users.
     
       ![Product Licenses dialog box](media/new-user-plans.PNG "Product Licenses dialog box")
  
