@@ -44,41 +44,25 @@ After signing up for the preview, you’ll need to create an environment where y
 
 1.	 Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
 
-2.  Under **Billing**, select **Purchase Services**, and then search for **PowerApps Plan 2**.
-
-    ![PowerApps Plan 2](media/powerapps-plan2.PNG "PowerApps Plan 2")
-
-    > [!NOTE]
-    > There's no charge to use PowerApps. PowerApps usage is included in Dynamics 365 Guides in preview.
-
-3.  On the **Microsoft PowerApps Plan 2** card, select **Start free trial**. 
-
-4.  In the **Check out** screen, select **Try now**, and in the next screen, select **Continue**.
-
-    ![Check out screen](media/try-now.PNG "Check out screen")
-
-    > [!NOTE]
-    > The license will not expire for the duration of the Dynamics 365 Guides preview, even though it says it’s only valid for 3 months.
-
-5.  Now you need to add the PowerApps license to a user. To do that, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
+2.  Now you need to make sure that D365 Guides license is assigned to a user. To do that, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
     ![Users > Active Users screen](media/users-active-users.PNG "Users > Active Users screen")
     
-6.  In the **Guides Account** screen, select the **Edit** button next to **Product licenses**.
+3.  In the **Guides Account** screen, select the **Edit** button next to **Product licenses**.
 
      ![Edit PowerApps plan](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
-7.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** and **Microsoft PowerApps Plan 2** sliders to **On**, and then select **Save**.
+4.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** sliders to **On**, and then select **Save**.
   
     ![Add user license](media/add-user-license.PNG "Add user license")
     
-8.  Go to the [PowerApps Admin Center](https://preview.admin.powerapps.com/environments), and sign in with the user credentials created when you signed up for the preview.
+5.  Go to the [PowerApps Admin Center](https://preview.admin.powerapps.com/environments), and sign in with the user credentials created/provided when you signed up for the preview.
 
-9.	In the PowerApps Admin Center, select **New environment**.
+6.	In the PowerApps Admin Center, select **New environment**.
 
     ![PowerApps Admin Center](media/powerapps-environment.PNG "PowerApps Admin Center")
  
-10.	Fill in the following details for the environment:
+7.	Fill in the following details for the environment:
 
     -	**Environment name:** Guides_*anyname*
     -	**Region:** Don't change - **keep the default setting**
@@ -89,19 +73,19 @@ After signing up for the preview, you’ll need to create an environment where y
     > [!NOTE]
     > Make sure to set **Environment type** to **Production**. Do not set it to **Trial**.
     
-11.	Select the **Create environment** button. 
+8.	Select the **Create environment** button. 
 
-12.	In the dialog box that appears, select **Create database**.
+9.	In the dialog box that appears, select **Create database**.
 
     ![Environment created dialog box](media/environment-created.PNG "Environment created dialog box")   
     
-13.	In the next dialog box, choose your currency and language.
+10.	In the next dialog box, choose your currency and language.
 
     ![Currency and language settings](media/currency-language-settings.PNG "Currency and language settings")
   
-14.	Select **Create database.**
+11.	Select **Create database.**
 
-15.	In the **PowerApps Admin center** > **Environments** screen, select the environment that was just created (a production environment, not a default environment). 
+12.	In the **PowerApps Admin center** > **Environments** screen, select the environment that was just created (a production environment, not a default environment). 
 
     ![Select the environment](media/select-environment.PNG "Select the environment")
  
@@ -112,7 +96,7 @@ After signing up for the preview, you’ll need to create an environment where y
     > [!NOTE]
     > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.
     
-16.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link, and then sign in again with the credentials you created for the preview. You might need to close your browser before signing in. 
+13.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link, and then sign in again with the credentials you created for the preview. You might need to close your browser before signing in. 
 
     ![Admin Center link](media/admin-center-link.PNG "Admin Center link")
 
@@ -308,7 +292,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
     
       ![Edit user roles](media/user-roles.PNG "Edit user roles")
  
-    - **Product licenses**. Expand this section, and then turn the **Dynamics 365 Guides** and **Microsoft PowerApps Plan 2** sliders to **On**. You can assign up to 25 users.
+    - **Product licenses**. Expand this section, and then turn the **Dynamics 365 Guides** sliders to **On**. You can assign up to 25 users.
     
       ![Product Licenses dialog box](media/new-user-plans.PNG "Product Licenses dialog box")
  
