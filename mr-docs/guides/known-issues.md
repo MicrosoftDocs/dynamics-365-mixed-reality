@@ -40,7 +40,7 @@ At this time, offline use in the [!include[pn-dyn-365-guides](../includes/pn-dyn
 
 ## Recalibrating takes you back to the first step
 
-If you’re using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] application, and you select the **Alignment** button from any step to recalibrate your [!include[pn-hololens](../includes/pn-hololens.md)], after recalibrating, you’ll land on the first step of your guide. This is by design. You (or the operator) will want to recheck all steps after recalibrating, as this can change hologram alignment.
+If you’re using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] application, and you select the **Anchor** button from any step to recalibrate your [!include[pn-hololens](../includes/pn-hololens.md)], after recalibrating, you’ll land on the first step of your guide. This is by design. You (or the operator) will want to recheck all steps after recalibrating, as this can change hologram alignment.
 
 ## Voice commands not tested thoroughly
 
