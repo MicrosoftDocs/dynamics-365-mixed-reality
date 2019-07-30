@@ -18,8 +18,8 @@ the technicians can use a dedicated **[!include[pn-field-service](../includes/pn
 ![Select guide](media/select-guide.PNG "Select guide")   
 
 > [!IMPORTANT]
-> To attach guides to service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], you need to have an existing [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Customer Engagement (CRM) instance with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.6.0.183 or later. You also need to update to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 104.1907.0.33 or later ([Learn how to upgrade the Dynamics 365 Guides 
-solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] app versions 104.1907.19001 ([Learn how to sign up for the preview and install the apps](setup.md)).
+> To attach guides to service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], you need to have an existing [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Customer Engagement (CRM) instance with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.6.0.183 or later. You also need to update to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 104.1907.0.33 or later ([learn how to upgrade the Dynamics 365 Guides 
+solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] app versions 104.1907.19001 ([learn how to sign up for the preview and install the apps](setup.md)).
 
 ## Enable your technicians to use Dynamics 365 Guides for work orders
 
