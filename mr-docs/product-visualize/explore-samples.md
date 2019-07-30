@@ -2,7 +2,7 @@
 author: mamithan
 description: How to explore sample models in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 04/19/2019
+ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
 title: Explore sample 3D models in Dynamics 365 Product Visualize
@@ -19,20 +19,17 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
 
 1.	Open the Product Visualize app.
 
-2.	On the **Welcome** screen, select **Explore Sample 3D Models**. 
+2.	On the **Welcome** screen, scroll down to the sample 3D models, and select the 3D model that you want to open.
 
      ![Welcome screen](media/welcome.PNG "Welcome screen")
-  
-3.	On the **Sample 3D Models** screen, select the 3D model that you want to open.
-
-     ![Sample 3D Models screen](media/3D-models.PNG "Sample 3D Models screen")
  
-4.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
+3.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
 
-5.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes made on sample models are not saved when you close Product Visualize or replace the model. 
+4.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes made on sample models are not saved when you close Product Visualize or replace the model. 
 
 ### See also
 
 [Install, open, and sign in to the app](sign-in.md)<br>
 [Place and manipulate 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
+[View layers of your 3D model](layers.md)<br>

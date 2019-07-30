@@ -2,7 +2,7 @@
 author: mamithan
 description: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 for Sales instance
 ms.author: mamithan
-ms.date: 04/1/2019
+ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
 title: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 for Sales instance
@@ -58,9 +58,9 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 6. When complete, return to the __Document Management__ settings page, and then select __Document Management Settings__.
 
-7. Enter the URL for your SharePoint site if it isn't filled in by default. Then select __Next__.
+7. Enter the URL for your SharePoint site if it isn't filled in by default, and then select __Next__.
 
-   ![Document Management settings](media/document-management-settings.PNG "Document Management Settings")
+   ![Document Management settings](media/document-management-settings.PNG "Document Management settings")
 
 8. Continue through the setup using the default values for the remaining options.
 
@@ -88,7 +88,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 1. In a browser window, go to the Sales or Sales Hub application, and then in the left navigation, under **Collateral**, select **Products**.
 
-   ![Product Navigation](media/products-navigation.PNG "Product Navigation")
+   ![Product Navigation](media/products-navigation.PNG "Product navigation")
 
 2. Open a product by selecting the product name.
 
@@ -98,35 +98,16 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 4. In the __Open Location__ drop-down list, select __Documents on Default Site 1__ to open the SharePoint location outside of Dynamics 365 for Sales.
 
-   ![Open Location](media/open-location.PNG "Open Location")
+   ![Open Location](media/open-location.PNG "Open location")
 
-5. Drag and drop your Model folder into this location. It will automatically show up in Product Visualize. Models should be added with the following folder structure:
-    * \<Product>
-      * \<Model Name> (Folder)
-        * \<Model Name>.gltf
-        * Thumbnails (Folder)
-            * \<ModelName>.png
-      *  \<Model Name> (Folder)
-         * \<Model Name>.gltf
-         * Thumbnails (Folder)
-            * \<ModelName>.png
+5. Drag and drop your model file (as a GLB file) into this location. It will automatically show up in Product Visualize.
 
    > [!IMPORTANT]
    > SharePoint folders are created when you first visit a product's documents through the Dynamics for Sales interface. Once the folder has been created, you can access the folder directly from the SharePoint site.
 
-## Accept app permissions
+6. Optional: SharePoint automatically provides a thumbnail for Product Visualize; however, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb"
 
-The Product Visualize mobile app requires permission to access the Dynamics 365 for Sales and SharePoint instances. As a global administrator, you can grant access to the entire organization so that each user doesn't have to do it individually.
-
-1. Download the __Microsoft Dynamics 365 Product Visualize__ app from the Apple App Store.
-
-2. Open the app, select __Sign In__, and then sign in with the admin credentials for the Dynamics 365 for Sales instance.
-
-3. When prompted for permissions, select __Consent on behalf of your organization__.
-
-4. Select __Accept__ to return to the app.
-
-## Next steps
+## What's next?
 You're now ready to use Product Visualize with all of your sales opportunities. The Product Visualize mobile app can be downloaded from the iOS App Store. Users can sign in with the same Azure Active Directory credentials that they use to connect to Dynamics 365 for Sales.
   
 ### See also

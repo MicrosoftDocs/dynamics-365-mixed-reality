@@ -2,7 +2,7 @@
 author: mamithan
 description: How to add a note (including ink and text) to a 3D model in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 06/27/2019
+ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
 title: Add a note to your 3D model in Dynamics 365 Product Visualize
@@ -45,7 +45,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
    
 5.	In the **Create Note** screen:
 
-    - To ink on the screen, select a color and start drawing. For example, draw an arrow  to call out a particular part of the model.
+    - To ink on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
     - To add text, tap the box at the bottom of the screen, and then enter the text you want.
     
@@ -67,17 +67,6 @@ To review notes you have made on your model, you can tap any spatial anchor on t
     
      ![Expand notes button](media/expand-notes.PNG "Expand notes button")
      
-## Show or hide note layers
-
-If the 3D model you're viewing has layers, you can show or hide those layers when viewing notes. For example, you can start with the outer shell of a model and drill deeper into successive layers.
-
-![Layers example](media/layers-example.PNG "Layers example")
-
-By default, all layers are turned on. To hide a layer, clear the check box for that layer. You can show or hide all layers by tapping the first row under the model:
-
-![Hide layer](media/hide-layer.PNG "Hide layer")
-
-
 ## Edit or delete a note
 
 1.	Select **Notes** on the right side of the screen.
@@ -117,4 +106,5 @@ To export a note:
 
 [Install, open, and sign in to the app](sign-in.md)<br>
 [Place and manipulate 3D models](manipulate-models.md)<br>
+[View layers of your 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)
