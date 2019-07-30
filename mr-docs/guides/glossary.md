@@ -19,7 +19,7 @@ When you're working with [!include[cc-microsoft](../includes/cc-microsoft.md)] [
 3D content that you assign to a step to support that step. You assign 3D parts in the PC application, and then place the holograms in a real-world environment in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode.
 
 ## 3D toolkit
-A library of predefined objects included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that use can use to get started right away. For example, there are 3D objects such as pointers and arrows that you can add to a step to support that step.
+A library of predefined objects included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you can use to get started right away. For example, there are 3D objects such as pointers and arrows that you can add to a step to support that step.
 
 ## Air tap
 A gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
