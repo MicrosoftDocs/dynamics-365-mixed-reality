@@ -135,7 +135,7 @@ The first thing you see when you open a guide is the alignment instructions from
 > [!NOTE]
 > If you chose to use a digital anchor to align the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
 
-When you align your guide, the alignment information is stored on your [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Alignment** button in the next section.
+When you align your guide, the alignment information is stored on your [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section.
 
 > [!NOTE]
 > You might need to adjust the hardware offset in [!include[pn-hololens](../includes/pn-hololens.md)] 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
@@ -181,7 +181,7 @@ After you’ve tested the flow of your guide and made changes in the PC applicat
 
 In this stage of the process, you’ll walk through each step in your guide and place any assets that you associated with that step when you authored it in the PC application. For example, if you added a 3D part to support a step, you’ll place that part over its physical counterpart in the real world. If you added a 3D object from the 3D toolkit (an arrow or a number, for example), you’ll place that object in an appropriate place in the real world to draw the user’s focus. You can place the same 3D part or 3D object as many times as you want.
 
-You don’t need to do anything to place images or videos associated with a step. They automatically appear when the operator goes to the step. They can select the **Media** button to close the image or video.
+You don’t need to do anything to place images or videos associated with a step. They automatically appear when the operator goes to the step.
 
 The 3D assets associated with each step appear below the Step card in *the bin*:
 
@@ -290,7 +290,7 @@ To place a style:
 
     ![List of styles](media/styles.PNG "List of styles")
  
-Here’s a list of styles included in Guides and when to use each:
+Here’s a list of styles included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] and when to use each:
 
 |Style	|Purpose	|How it appears to the operator|
 |---------------|-------------------|--------------------------------------------|
