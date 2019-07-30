@@ -54,7 +54,7 @@ After signing up for the preview, you’ll need to create an environment where y
 
 4.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** slider to **On**, and then select **Save**.
   
-    ![Add user license](media/add-user-license.PNG "Add user license")
+    ![Add user license](media/guides-license.PNG "Add user license")
     
 5.  Go to the [PowerApps Admin Center](https://preview.admin.powerapps.com/environments), and sign in with the user credentials provided when you signed up for the preview.
 
