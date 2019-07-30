@@ -148,7 +148,7 @@ If the guide is set up with a printed anchor, you’ll look for a printed anchor
 
 In the [!include[pn-hololens](../includes/pn-hololens.md)], you’ll see a hologram that looks very similar to the printed anchor. Find the printed anchor in your real-world environment, and then align the anchor hologram with the printed marker to align the guide. 
 
-![Holographic marker](media/marker-holograph.PNG "Holographic marker")  
+![Holographic marker](media/scanning.PNG "Holographic marker")  
 
 After anchoring a guide, if you're anchoring your guide to a printed anchor, you’ll see the **Printed anchor found** screen. Follow the instructions on the screen, and then select **Confirm** to continue. 
  
