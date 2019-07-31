@@ -36,7 +36,7 @@ The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides
 
     - We have included an Example Guide that you can use to learn about [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It walks you through common workflows and features, provides tips and tricks for great guide creation, and helps you get up to speed by doing.
     
-      ![Example Guide)](media/example-guide.PNG "Example Guide")
+      ![Example Guide](media/example-guide.PNG "Example Guide")
 
     - Put on your [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] device, start the [!include[pn-hololens](../includes/pn-hololens.md)] app in Operate mode, and then select the Example Guide. Go through the guide step-by-step to learn about key features. 
 
