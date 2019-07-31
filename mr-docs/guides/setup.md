@@ -1,29 +1,29 @@
 ---
 author: Mamaylya
-description: Everything you need to know about signing up for Dynamics 365 Guides in preview, configuring the solution, and installing the apps.
+description: Everything you need to know about signing up for Dynamics 365 Guides (Preview), configuring the solution, and installing the apps.
 ms.author: mamaylya
 ms.date: 04/30/2019
 ms.service: crm-online
 ms.topic: article
-title: Sign up for Dynamics 365 Guides in preview
+title: Sign up for Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Sign up for Dynamics 365 Guides in preview
+# Sign up for Dynamics 365 Guides (Preview)
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-We're thrilled to introduce Microsoft Dynamics 365 Guides in preview! [Learn about Guides capabilities](index.md).
+We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]! [Learn about Guides capabilities](index.md).
 
-To get started with Dynamics 365 Guides, you need to:
+To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
 
 1.	Sign up for the preview.
 
 2.	Create a Common Data Service environment, if you don't already have one.
 
-3. Install the Dynamics 365 Guides solution.
+3. Install the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution.
 
-4.	Download and install the Dynamics 365 Guides apps on a Windows 10 PC and Microsoft HoloLens.
+4.	Download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps on a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC and [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)].
 
 5. Add additional user accounts (optional).
 
@@ -33,16 +33,17 @@ This topic provides step-by-step instructions for all of the above.
 
 ## Step 1: Sign up for the preview
 
-- Go to [the Guides Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview. After you have your credentials, come back to this page and go to [Step 2: Create a Common Data Service environment](#cds).
+- Go to [the Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview. After you have your credentials, come back to this page and go to [Step 2: Create a Common Data Service environment](#cds).
 
     > [!IMPORTANT] 
     > We recommend creating user credentials for the preview even if you have an existing work account. If you're not an admin in the organization, you won't be able to complete Steps 2 and 3. Also, when asked to enter a domain name, don't use your normal work domain. Create a new domain in the form: **guides*YourCompanyName***.
  
 ## Step 2: Create a Common Data Service environment<a name="cds"></a>
 
-After signing up for the preview, you’ll need to create an environment where you can install the Dynamics 365 Guides solution. If you already have a Common Data Service environment, you can skip to [Step 3: Install and configure the Dynamics 365 Guides solution](#configure).
+After signing up for the preview, you’ll need to create an environment where you can install the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution. If you already have a Common Data Service environment, you can skip to [Step 3: Install and configure the Dynamics 365 Guides solution](#configure).
 
 1.	 Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
+
 
 2.  Make sure that the Dynamics 365 Guides license is assigned to a user. To do that, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
@@ -51,6 +52,7 @@ After signing up for the preview, you’ll need to create an environment where y
 3.  In the **Guides Account** screen, select the **Edit** button next to **Product licenses**.
 
      ![Edit PowerApps plan](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
+
 
 4.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** slider to **On**, and then select **Save**.
   
@@ -96,29 +98,30 @@ After signing up for the preview, you’ll need to create an environment where y
     > [!NOTE]
     > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.
     
+
 13.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link, and then sign in again with the credentials you created for the preview. You might need to close your browser before signing in. 
 
     ![Admin Center link](media/admin-center-link.PNG "Admin Center link")
 
 The Dynamics Admin Center appears. This is where you can install the solution and make other configurations.
 
-## Step 3: Install and configure the Guides solution<a name="configure"></a>
+## Step 3: Install and configure the Dynamics 365 Guides (Preview) solution<a name="configure"></a>
 
-In the Dynamics 365 Guides PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB). 
+In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB). 
 
-1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), and sign in with the user credentials you created when you signed up for the Dynamics 365 Guides preview. 
+1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), and sign in with the user credentials you created when you signed up for the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]. 
     
-2.	Select the newly created Dynamics 365 Guides instance from the list of instances, and then select **Open** as shown here: 
+2.	Select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open** as shown here: 
     
     ![Admin Center with Open button selected](media/admin-center-open-button.PNG "Admin Center with Open button selected")
     
-    This opens the **Dynamics 365** screen.
+    This opens the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** screen.
     
-3.  In the **Dynamics 365** screen, select **Settings**, and then select **Advanced Settings**. 
+3.  In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** screen, select **Settings**, and then select **Advanced Settings**. 
 
     ![Advanced Settings](media/advanced-settings.PNG "Advanced Settings")
     
-4.  In the **Dynamics 365 Business Management** screen, select the **Settings** drop-down list.
+4.  In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Business Management** screen, select the **Settings** drop-down list.
 
      ![Business Management screen2](media/business-management.PNG "Business Management screen")
     
@@ -126,7 +129,7 @@ In the Dynamics 365 Guides PC application, you can upload your own 3D files, as 
 
     ![Administration button in Dynamics 365](media/administration-button.PNG "Administration button in Dynamics 365")
  
-6.	In the **Dynamics 365 Settings > Administration** page, select **System Settings**.
+6.	In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Settings > Administration** page, select **System Settings**.
 
     ![System settings in Dynamics 365](media/system-settings.PNG "System settings in Dynamics 365")
   
@@ -139,15 +142,15 @@ In the Dynamics 365 Guides PC application, you can upload your own 3D files, as 
     ![Solutions Edit button](media/solutions-edit-button.PNG "Solutions Edit button")
  
     > [!NOTE]
-    > You can also get to the Dynamics 365 Administration Center from the PowerApps portal.
+    > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the PowerApps portal.
     
-8.	Select the Dynamics 365 Guides solution in the list, and then select **Install**. 
+8.	Select the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution in the list, and then select **Install**. 
 
     ![Solutions Install button](media/solutions-install-button.PNG "Solutions Install button")
     
 9. In the **Terms of Service** dialog box, review the terms, and then select **install** when you're ready.
 
-   In the **Dynamics 365 Administration Center** screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
+   In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center** screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
 
    ![Solution installing message](media/installing-solution.PNG "Solution installing message")
    
@@ -159,22 +162,22 @@ In the Dynamics 365 Guides PC application, you can upload your own 3D files, as 
 ### Set up user roles for the solution<a name="user-roles"></a>
 
 > [!NOTE]
-> It can take up to one hour for a user to appear in the Dynamics 365 admin center after the licenses are added in the Microsoft 365 admin center. 
+> It can take up to one hour for a user to appear in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center. 
 
-1.	After the solution has finished installing, go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created Dynamics 365 Guides instance from the list of instances, and then select **Open**.
+1.	After the solution has finished installing, go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open**.
 
-2. On the **Dynamics 365** page, select **Settings**, and then select **Advanced Settings**.
+2. On the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** page, select **Settings**, and then select **Advanced Settings**.
 
     ![Dynamics 365 Advanced Settings](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
     
     > [!IMPORTANT]
-    > You can access Dynamics 365 Guides data through the Guides Hub (Preview) tile in the preceding screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the Dynamics 365 Guides apps.
+    > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the Guides Hub (Preview) tile in the preceding screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
  
-3.	 In the **Dynamics 365 > Business Management** screen, select the **Settings** drop-down list.
+3.	 In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] > Business Management** screen, select the **Settings** drop-down list.
     
      ![Business Management screen2](media/business-management.PNG "Business Management screen")
 
-4.  On the **Dynamics 365 Settings** > **Administration** page, under **System**, select **Security**. 
+4.  On the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Settings** > **Administration** page, under **System**, select **Security**. 
 
     ![Dynamics 365 Security setting](media/security-setting.PNG "Dynamics 365 Security setting")
  
@@ -190,7 +193,7 @@ In the Dynamics 365 Guides PC application, you can upload your own 3D files, as 
 
     - Common Data Service User
     
-    - Dynamics 365 Guides Author
+    - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Author
     
     - System Administrator 
        
@@ -202,27 +205,27 @@ In the Dynamics 365 Guides PC application, you can upload your own 3D files, as 
      
 ## Step 4: Install the applications
 
-There are two Dynamics 365 Guides applications: 
+There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applications: 
 
 - PC authoring application
 
-- HoloLens application, which has an Author mode and an Operator mode
+- [!include[pn-hololens](../includes/pn-hololens.md)] application, which has an Author mode and an Operator mode
 
-You can install the apps from Microsoft Store as described in the next section.
+You can install the apps from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store as described in the next section.
 
 > [!NOTE]
-> If you can’t access Microsoft Store due to company policies, please contact your administrator to distribute the app.
+> If you can’t access [!include[cc-microsoft](../includes/cc-microsoft.md)] Store due to company policies, please contact your administrator to distribute the app.
 
-If you use Microsoft Store for Business to distribute your apps, you can have users install the apps from your organization’s private store or from an email link that you send. Instructions are provided later in this topic.
+If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business to distribute your apps, you can have users install the apps from your organization’s private store or from an email link that you send. Instructions are provided later in this topic.
 
 ### Install the apps from Microsoft Store
 
 #### Install the PC authoring app 
-1.	Check to make sure your Windows 10 PC is running the latest Windows build (must be build 10.0.16299 or later).
+1.	Check to make sure your [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC is running the latest [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] build (must be build 10.0.16299 or later).
 
-2.	On your PC, go to **Start** ![Start button)](media/windows-button.png "Start button") > **Microsoft Store** ![Store button)](media/store-button.png "Store button"), and then search for “Dynamics 365 Guides (Preview).”
+2.	On your PC, go to **Start** ![Start button)](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button)](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
 
-3.	In Microsoft Store, select **Get** for the Dynamics 365 Guides app to download, and install the application.
+3.	In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Get** for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app to download, and install the application.
 
     ![Preview app in Microsoft Store](media/preview-app.PNG "Preview app in Microsoft Store")
 
@@ -231,11 +234,11 @@ If you use Microsoft Store for Business to distribute your apps, you can have us
 
 #### Install the HoloLens app
 
-1.	Make sure HoloLens is running build 10.0.14393.0 or later. We recommend updating HoloLens to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using Windows Update for Business.
+1.	Make sure [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.14393.0 or later. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
 
-2.	On your HoloLens, use the bloom gesture to open the **Home** menu, and then open the Microsoft Store app and search for “Dynamics 365 Guides (Preview)”.
+2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
 
-3.	Select **Install** to download and install the Dynamics 365 Guides application.
+3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
 > [!NOTE] 
 > For instructions on opening and signing in to the app, if you're an author, see the [HoloLens authoring topic](hololens-authoring.md). Operators can use the [Dynamics 365 Guides Operator's manual](operator-guide.md).
@@ -256,7 +259,7 @@ If you use Microsoft Store for Business to distribute your apps, you can have us
 
 For information on opening and signing in to the PC application after installing it, see the [authoring guide](authoring-overview.md).
 
-For information on opening and signing in to the HoloLens application, go to one of the following, depending on whether you're an author or an operator:
+For information on opening and signing in to the [!include[pn-hololens](../includes/pn-hololens.md)] application, go to one of the following, depending on whether you're an author or an operator:
 
    - [HoloLens authoring](hololens-authoring.md)
    
@@ -264,7 +267,7 @@ For information on opening and signing in to the HoloLens application, go to one
    
 ## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
 
-You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use Dynamics 365 Guides. You create user accounts in the Microsoft 365 Admin Center, and then assign licenses to those users.
+You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You create user accounts in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 Admin Center, and then assign licenses to those users.
 
 ### Add a user account
 
@@ -292,21 +295,22 @@ You’ll need to create a user account for anyone you assign a license to. Creat
     
       ![Edit user roles](media/user-roles.PNG "Edit user roles")
  
+
     - **Product licenses**. Expand this section, and then turn the **Dynamics 365 Guides** slider to **On**. You can assign up to 25 users.
     
       ![Product Licenses dialog box](media/new-user-plans.PNG "Product Licenses dialog box")
  
 4.	Select **Add** when you’re done.
 
-    When you add a user, the user gets an email notification from the Microsoft Online Services Team that includes their user ID and    temporary password. They’ll use this information to sign in to Dynamics 365 Guides.
+    When you add a user, the user gets an email notification from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Online Services Team that includes their user ID and    temporary password. They’ll use this information to sign in to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
 5. If you haven't already done so, [set up user roles for the solution](#user-roles) as described earlier in this topic.
 
 ## Step 6: Set up Guides Analytics reports 
 
-Guides includes Power BI reports (called Guides Analytics) that you can use to analyze guides processes. You can share these reports within your organization by publishing them to the Power BI Service. This allows anyone in your organization with a Power BI Pro license to access the report through the Power BI Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com).  
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes [!include[pn-power-bi](../includes/pn-power-bi.md)] reports (called Guides Analytics) that you can use to analyze guides processes. You can share these reports within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the report through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com).  
 
-Power BI provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/en-us/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a Power BI app. This involves the following well-documented steps: 
+[!include[pn-power-bi](../includes/pn-power-bi.md)] provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/en-us/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This involves the following well-documented steps: 
 
 1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-workspaces). 
 
