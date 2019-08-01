@@ -26,7 +26,7 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
 -   A subscription to [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] is included in the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] subscription for individuals using a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] license on [!include[pn-HoloLens](../includes/pn-HoloLens.md)]. A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] license is also required for individuals (experts) who communicate with a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user on [!include[pn-HoloLens](../includes/pn-HoloLens.md)]. [!include[pn-teams](../includes/pn-teams.md)] may be available [as a free download](https://teams.microsoft.com/downloads) for these users. If you’re the admin for your organization, [learn how to try or buy, and deploy Remote Assist](../licensing/buy-and-deploy.md). 
 
     > [!TIP] 
-    > You can try [!include[pn-remote-assist](../includes/pn-remote-assist.md)] for free for up to 90 days. [Learn more about the free 90-day Dynamics 365 Remote Assist trial](try-remote-assist-free.md).
+    > You can try [!include[pn-remote-assist](../includes/pn-remote-assist.md)] for free for up to 90 days. [Learn more about the free 90-day Remote Assist trial](try-remote-assist-free.md).
 
 -   A [HoloLens running the Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643).
