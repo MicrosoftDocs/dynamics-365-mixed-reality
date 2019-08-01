@@ -116,7 +116,7 @@ For information on installing the [!include[pn-remote-assist](../includes/pn-rem
     -   [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
-[Try Dynamics 365 Remote Assist for free for up to 90 days](try-remote-assist-free.md)<br/>
-[Overview of Dynamics 365 Remote Assist](../remote-assist/index.md)<br/>
-[Dynamics 365 Remote Assist user guide](../remote-assist/user-guide.md)<br/>
+[Try Remote Assist for free for up to 90 days](try-remote-assist-free.md)<br/>
+[Overview of Remote Assist](../remote-assist/index.md)<br/>
+[Remote Assist user guide](../remote-assist/user-guide.md)<br/>
 
