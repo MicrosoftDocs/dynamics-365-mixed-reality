@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Remote Assist user guide (for HoloLens)
 
-Use [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] to connect and collaborate using
+Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] to connect and collaborate using
 hands-free video calling, mixed reality annotations, and file (image and PDF)
 sharing. Use your [!include[pn-hololens](../includes/pn-hololens.md)] to call an expert who's using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)], and
 then share what you see on [!include[pn-hololens](../includes/pn-hololens.md)] to solve problems and complete tasks
