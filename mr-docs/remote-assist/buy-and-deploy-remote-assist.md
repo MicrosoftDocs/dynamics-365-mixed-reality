@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Buy and deploy Dynamics 365 Remote Assist
 
-With [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
+With [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
 
 ## Subscribe to Remote Assist
 
