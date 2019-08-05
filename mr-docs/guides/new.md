@@ -13,6 +13,11 @@ ms.reviewer: v-brycho
 
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] organized by release date.  
 
+### August 6, 2019
+Dynamics 365 Guides app version 104.1908.2001.0 fixes an issue on the July 23rd release of the HoloLens app which prevented the list of guides from being shown in the HoloLens application for Europe, Middle East and Asia-based customers.
+
+To get this upgrade, you only need to update the D365 Guides HoloLens app from the Microsoft store.
+
 ### July 23, 2019
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1907.19001 and CDS solution version 104.1907.0.33 introduces integration with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]. **[!include[pn-field-service](../includes/pn-field-service.md)]** customers can now attach guides to service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]. When work orders are assigned to technicians, the technicians can launch the assigned guide in a dedicated **[!include[pn-field-service](../includes/pn-field-service.md)]** tab in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] application and do their work.
