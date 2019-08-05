@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] organized by release date.  
 
 ### August 6, 2019
-Dynamics 365 Guides app version 104.1908.2001.0 fixes an issue in the July 23rd release of the HoloLens app which prevented the list of guides from being shown in the HoloLens application for Europe, Middle East, and Asia-based customers.
+Dynamics 365 Guides app version 104.1908.2001.0 fixes an issue in the July 23rd release of the HoloLens app that prevented the list of guides from being shown in the HoloLens application for Europe, Middle East, and Asia-based customers.
 
 To get this upgrade, you only need to update the Dynamics 365 Guides HoloLens app from the Microsoft store. You don't need to update the Dynamics 365 Guides (Preview) solution. 
 
