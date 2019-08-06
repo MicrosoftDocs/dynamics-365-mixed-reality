@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Buy and deploy Dynamics 365 Remote Assist
 
-With [!include[pn-remote-assist](../includes/pn-remote-assist.md)], you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
+With [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
 
 ## Subscribe to Remote Assist
 
@@ -116,7 +116,7 @@ For information on installing the [!include[pn-remote-assist](../includes/pn-rem
     -   [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
-[Try Dynamics 365 Remote Assist for free for up to 90 days](try-remote-assist-free.md)<br/>
-[Overview of Dynamics 365 Remote Assist](../remote-assist/index.md)<br/>
-[Dynamics 365 Remote Assist user guide](../remote-assist/user-guide.md)<br/>
+[Try Remote Assist for free for up to 90 days](try-remote-assist-free.md)<br/>
+[Overview of Remote Assist](../remote-assist/index.md)<br/>
+[Remote Assist user guide](../remote-assist/user-guide.md)<br/>
 
