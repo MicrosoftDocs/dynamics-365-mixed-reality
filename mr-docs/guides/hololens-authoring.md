@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Test and place holograms using the Dynamics 365 Guides (Preview) HoloLens application in Author mode 
 ms.author: mamaylya
-ms.date: 07/09/2019
+ms.date: 08/27/2019
 ms.service: crm-online
 ms.topic: article
 title: Test and place holograms using HoloLens Author mode in Dynamics 365 Guides (Preview) 
@@ -207,24 +207,15 @@ You can place a 3D model from the 3D toolkit in the same way you place a 3D part
 
 ### Manipulating holograms
 
-To place a hologram from one of your bins:
+To place a 3D model from one of your bins:
 
-1.	Air tap a 3D asset to add it to your real world. It will appear in your world in front of the Step card.
+1.	Air tap a 3D model to add it to your real world. It will appear in your world in front of the Step card.
 
-2.	Raise your hand to the ready gesture and gaze at the 3D asset to select it. The way you can tell if it’s selected is that the 3D selection sphere appears around it.
+2.	Raise your hand to the ready gesture and gaze at the model to select it. The way you can tell if it’s selected is that the 3D selection sphere appears around it.
 
-3.	Once the object is selected, air tap + hold anywhere on the selection sphere to pick up the 3D asset.
+3.	Once the object is selected, air tap + hold anywhere on the selection sphere to pick up the model.
 
-4.	Do one of the following to move the hologram:
-
-    - To move it larger distances in any direction, move your hand quickly in the direction you want. By default, the hologram moves approximately the same distance your hand moves from the starting point of where you “grabbed” the hologram to where you stop. 
-    
-    - To make more precise adjustments, move your hand slowly or keep it stationary to enter precision mode. This slows down the movement speed so you can nudge the hologram where you want it.
-
->[!Tip]  
-> You’ll know you’ve entered precision mode when the selection sphere turns blue.
-
-![Hologram selection sphere](media/hologram-selection-sphere.PNG "Hologram selection sphere")
+4.	Move the model where you want it to go.
 
  
 #### Rotate a hologram
