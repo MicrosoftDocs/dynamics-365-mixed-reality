@@ -13,3 +13,8 @@ The following table lists technical requirements for deploying and using [!inclu
 ### Licensing and product requirements
 
 You need a [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] license for each user who will use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app. For more information, [see the Setup topic](setup.md).
+
+### See also
+
+[Sign up for the preview](setup.md)<br>
+[Upgrade the solution (for admins)](upgrade.md)
