@@ -16,7 +16,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 ### August 27, 2019
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.XXXX includes the following updates:
 
-- **Accessibilty enhancements.** These enhancements include support for high-contrast colors and better color contrast, as well as  additional keyboard shortcuts. For example, you can now use a keyboard shortcut to add a model to a step. 
+- **Accessibility enhancements.** These enhancements include support for high-contrast colors and better color contrast, as well as  additional keyboard shortcuts. For example, you can now use a keyboard shortcut to add a model to a step. 
 
 - **Improved hologram manipulation.** Holograms move more natuarally as you place them in space, making it easier to accurately align holograms to the real world.
 
