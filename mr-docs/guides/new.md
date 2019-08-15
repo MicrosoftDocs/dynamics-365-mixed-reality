@@ -24,6 +24,8 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 - **Additional file formats**. You can now upload PLY, OBJ, and STL 3D models. Node-based animiations are also supported now for FBX models.
 
+- **Improved stability.** Both the PC and HoloLens apps have improved overall stability. The spatial placement of holograms on HoloLens 1 is also improved.
+
 ### August 6, 2019
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.1908.2001.0 fixes an issue in the July 23rd release of the [!include[pn-hololens](../includes/pn-hololens.md)] app that prevented the list of guides from being shown in the [!include[pn-hololens](../includes/pn-hololens.md)] application for Europe, Middle East, and Asia-based customers. We also released an updated version of the Power BI reporting template that fixes a bug related to missing data causing the report to break.
 
