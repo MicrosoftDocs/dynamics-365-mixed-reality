@@ -47,6 +47,28 @@ The following table lists technical requirements for deploying and using [!inclu
 
 You need a [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] license for each user who will use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app. For more information, [see the Setup topic](setup.md).
 
+## What languages in Dynamics 365 Guides available in?
+
+As of the August 27 update, Dynamics 365 Guides is available in the following languages for both the PC app and the HoloLens app:
+
+- English (US, UK, Canada, Australia)
+
+- Chinese (China, Taiwan, Hong Kong)
+
+- German 
+
+- Dutch (Netherlands)
+
+- French (France, Canada)
+
+- Italian
+
+- Japanese
+
+- Korean
+
+- Spanish (Spain)
+
 ## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
 
 Yes, the preview version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
