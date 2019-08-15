@@ -13,10 +13,21 @@ ms.reviewer: v-brycho
 
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] organized by release date.  
 
-### August 6, 2019
-Dynamics 365 Guides app version 104.1908.2001.0 fixes an issue in the July 23rd release of the HoloLens app that prevented the list of guides from being shown in the HoloLens application for Europe, Middle East, and Asia-based customers. We also released an updated version of the Power BI reporting template that fixes a bug related to missing data causing the report to break.
+### August 27, 2019
+[!include[pn-hololens](../includes/pn-hololens.md)] app version 104.XXXX includes the following updates:
 
-To get this upgrade, you only need to update the Dynamics 365 Guides HoloLens app from the Microsoft store. You don't need to update the Dynamics 365 Guides (Preview) solution. For the Power BI report, please visit https://aka.ms/guidesreport.
+- **Accessibilty enhancements.** include support for high-contrast colors and better color contrast. We also added additional keyboard shortcuts. For example, you can now use a keyboard shortcut to add a model to a step. 
+
+- **Improved hologram manipulation.** Holograms move more natuarally as you place them in space, making it easier to accurately align holograms to the real world.
+
+- **Support for 15 languages**. The PC app and the HoloLens app now support the following languages: English (US, UK, Canada, Australia), French (France, Canada), German, Dutch (Netherlands), Chinese (China, Taiwan, Hong Kong), Japanese, Spanish (Spain), Italian, and Korean.
+
+- **Additional file formats**. You can now upload additional 3D model formats, such as PLY, OBJ, and STL. Node-based animiations are also supported now for FBX models.
+
+### August 6, 2019
+[!include[pn-hololens](../includes/pn-hololens.md)] app version 104.1908.2001.0 fixes an issue in the July 23rd release of the [!include[pn-hololens](../includes/pn-hololens.md)] app that prevented the list of guides from being shown in the [!include[pn-hololens](../includes/pn-hololens.md)] application for Europe, Middle East, and Asia-based customers. We also released an updated version of the Power BI reporting template that fixes a bug related to missing data causing the report to break.
+
+To get this upgrade, you only need to update the [!include[pn-hololens](../includes/pn-hololens.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] store. You don't need to update the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution. For the Power BI report, please visit https://aka.ms/guidesreport.
 
 ### July 23, 2019
 
