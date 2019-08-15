@@ -18,7 +18,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 - **Accessibility enhancements.** These enhancements include support for high-contrast colors and better color contrast, as well as  additional keyboard shortcuts. For example, you can now use a keyboard shortcut to add a model to a step. 
 
-- **Improved hologram manipulation.** Holograms move more natuarally as you place them in space, making it easier to accurately align holograms to the real world.
+- **Improved hologram manipulation.** Holograms move more naturally as you place them in space, making it easier to accurately align holograms to the real world.
 
 - **Support for 15 languages**. The PC app and the HoloLens app now support the following languages: English (US, UK, Canada, Australia), French (France, Canada), German, Dutch (Netherlands), Chinese (China, Taiwan, Hong Kong), Japanese, Spanish (Spain), Italian, and Korean.
 
