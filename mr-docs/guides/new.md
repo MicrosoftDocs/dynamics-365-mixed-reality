@@ -20,7 +20,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 - **Improved hologram manipulation.** Holograms move more naturally as you place them in space, making it easier to accurately align holograms to the real world.
 
-- **Support for 15 languages**. The PC app and the HoloLens app now support the following languages: English (US, UK, Canada, Australia), French (France, Canada), German, Dutch (Netherlands), Chinese (China, Taiwan, Hong Kong), Japanese, Spanish (Spain), Italian, and Korean.
+- **Support for additional languages**. The PC app and the HoloLens app now support the following languages: English (US, UK, Canada, Australia), French (France, Canada), German, Dutch, Spanish, Italian, Chinese (People’s Republic of China, Taiwan, Hong Kong), Japanese, and Korean.
 
 - **Additional file formats**. You can now upload PLY, OBJ, and STL 3D models. Node-based animiations are also supported now for FBX models.
 
