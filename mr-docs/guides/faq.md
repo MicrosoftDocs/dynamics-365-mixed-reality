@@ -33,19 +33,17 @@ If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] 
 
 If you plan to author guides, you’ll need to use both apps. If not, you’ll only need the [!include[pn-hololens](../includes/pn-hololens.md)] app.
 
-
-
 ## What languages is Dynamics 365 Guides available in?
 
 As of the August 27 update, Dynamics 365 Guides is available in the following languages for both the PC app and the HoloLens app:
 
 - English (US, UK, Canada, Australia)
 
-- Chinese (China, Taiwan, Hong Kong)
+- Chinese (People's Republic of China, Taiwan, Hong Kong)
 
 - German 
 
-- Dutch (Netherlands)
+- Dutch
 
 - French (France, Canada)
 
@@ -55,7 +53,7 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 - Korean
 
-- Spanish (Spain)
+- Spanish
 
 ## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
 
