@@ -319,22 +319,22 @@ To duplicate a model:
 
     ![Duplicate button](media/edit-duplicate.PNG "Duplicate button")
 
-## Place tethers
-You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
+## Add a dotted line to link your Step cards to the work area
+You can add a dotted line (a *tether*) to link your Step cards to the areas where the work is done. These dotted lines show the operator where to focus. 
 
 ![Holographic tether](media/tether-example.PNG "Holographic tether")
 
-To place a tether:
+To place a dotted line:
 
-1.	Tap and hold the “tether ball” below the Step card.
+1.	Tap and hold the gem below the Step card.
 
-2.	Place it in the real-world location that you want.
+2.	Drag it to the real-world location that you want.
 
     ![Place a tether](media/place-tether.PNG "Place a tether")
 
-### Best practices for tethers
+### Best practices for dotted lines
 
-- Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3D toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
+- Placement isn’t exact, so if you’re connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (a number, for example) at the end of the dotted line. 
 
 ## What's next?
 
