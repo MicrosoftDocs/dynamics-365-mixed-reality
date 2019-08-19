@@ -192,11 +192,7 @@ To place a dotted line:
 
 ### Best practices for dotted lines
 
-- Placement isn’t exact, so if you’re connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (a number, for example) at the end of the dotted line. ### Place a 3D part 
-
-1. In the bin, air tap the 3D part that you want to place.
-
-2. Use gaze and gestures to place the 3D part hologram over its counterpart in the physical world. For information on manipulating holograms with gaze and gestures, see the next section.
+- Placement isn’t exact, so if you’re connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (a number, for example) at the end of the dotted line. 
 
 ## Place your holograms
 
@@ -206,7 +202,15 @@ You don’t need to do anything to place images or videos associated with a step
 
 The 3D assets associated with each step appear below the Step card in *the bin*:
 
-![3D assets below Step card](media/step-card-bin.PNG "3D assets below Step card")### Place a 3D model from the 3D toolkit
+![3D assets below Step card](media/step-card-bin.PNG "3D assets below Step card")
+
+### Place a 3D part 
+
+1. In the bin, air tap the 3D part that you want to place.
+
+2. Use gaze and gestures to place the 3D part hologram over its counterpart in the physical world. For information on manipulating holograms with gaze and gestures, see the next section.
+
+### Place a 3D model from the 3D toolkit
 
 You can place a 3D model from the 3D toolkit in the same way you place a 3D part if you added that 3D model to the bin in the PC application. If you didn't add the 3D model in the PC application, you can do it directly from the [!include[pn-hololens](../includes/pn-hololens.md)] app: 
 
