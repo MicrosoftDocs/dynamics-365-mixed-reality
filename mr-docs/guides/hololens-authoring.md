@@ -175,9 +175,30 @@ Here’s what each button or UI element is used for:
 
 ## Test the flow of your guide
 Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
+ 
+## Add a dotted line to link a Step card to a focus area
+
+You can add dotted lines (*tethers*) to link your Step cards to the areas where the work gets done. These dotted lines show the operator where to focus. 
+
+![Holographic tether](media/tether-example.PNG "Holographic tether")
+
+To place a dotted line:
+
+1.	Tap and hold the gem below the Step card.
+
+2.	Drag it to the real-world location that you want.
+
+    ![Place a tether](media/place-tether.PNG "Place a tether")
+
+### Best practices for dotted lines
+
+- Placement isn’t exact, so if you’re connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (a number, for example) at the end of the dotted line. ### Place a 3D part 
+
+1. In the bin, air tap the 3D part that you want to place.
+
+2. Use gaze and gestures to place the 3D part hologram over its counterpart in the physical world. For information on manipulating holograms with gaze and gestures, see the next section.
 
 ## Place your holograms
-After you’ve tested the flow of your guide and made changes in the PC application, you’re ready to place your holograms. 
 
 In this stage of the process, you’ll walk through each step in your guide and place any assets that you associated with that step when you authored it in the PC application. For example, if you added a 3D part to support a step, you’ll place that part over its physical counterpart in the real world. If you added a 3D object from the 3D toolkit (an arrow or a number, for example), you’ll place that object in an appropriate place in the real world to draw the user’s focus. You can place the same 3D part or 3D object as many times as you want.
 
@@ -185,15 +206,7 @@ You don’t need to do anything to place images or videos associated with a step
 
 The 3D assets associated with each step appear below the Step card in *the bin*:
 
-![3D assets below Step card](media/step-card-bin.PNG "3D assets below Step card")
- 
-### Place a 3D part 
-
-1. In the bin, air tap the 3D part that you want to place.
-
-2. Use gaze and gestures to place the 3D part hologram over its counterpart in the physical world. For information on manipulating holograms with gaze and gestures, see the next section.
-
-### Place a 3D model from the 3D toolkit
+![3D assets below Step card](media/step-card-bin.PNG "3D assets below Step card")### Place a 3D model from the 3D toolkit
 
 You can place a 3D model from the 3D toolkit in the same way you place a 3D part if you added that 3D model to the bin in the PC application. If you didn't add the 3D model in the PC application, you can do it directly from the [!include[pn-hololens](../includes/pn-hololens.md)] app: 
 
@@ -319,22 +332,7 @@ To duplicate a model:
 
     ![Duplicate button](media/edit-duplicate.PNG "Duplicate button")
 
-## Add a dotted line to link your Step cards to the work area
-You can add a dotted line (a *tether*) to link your Step cards to the areas where the work is done. These dotted lines show the operator where to focus. 
 
-![Holographic tether](media/tether-example.PNG "Holographic tether")
-
-To place a dotted line:
-
-1.	Tap and hold the gem below the Step card.
-
-2.	Drag it to the real-world location that you want.
-
-    ![Place a tether](media/place-tether.PNG "Place a tether")
-
-### Best practices for dotted lines
-
-- Placement isn’t exact, so if you’re connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (a number, for example) at the end of the dotted line. 
 
 ## What's next?
 
