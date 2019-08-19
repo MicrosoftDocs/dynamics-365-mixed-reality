@@ -13,12 +13,6 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-## Node-based animations need to be on a single track when exporting models to FBX file format
-
-The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app cannot play separate animations on multiple tracks in the FBX file format. When exporting from third-party tools like Blender, make sure that animations are on a single track. In Blender, this can be done by clearing the **NLA Strips** and **All Actions** check boxes: 
-
-![Clearing check boxes in Blender](media/blender-animation.PNG "Clearing check boxes in Blender") 
-
 ## Keep file names for 3D models and media short
 
 Before you upload custom 3D models or media files in the PC app, please make sure the file names are not more than 60 characters, and do not contain special characters (&, @, and so on). 
