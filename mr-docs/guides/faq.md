@@ -43,7 +43,7 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 - German 
 
-- Dutch
+- Dutch (Netherlands)
 
 - French (France, Canada)
 
@@ -53,7 +53,7 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 - Korean
 
-- Spanish
+- Spanish (Spain)
 
 ## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
 
