@@ -16,13 +16,11 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 ### August 27, 2019
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.XXXX includes the following updates:
 
-- **Accessibility enhancements.** These enhancements include support for high-contrast colors and better color contrast, as well as  additional keyboard shortcuts. For example, you can now use a keyboard shortcut to add a model to a step. 
+- **Accessibility enhancements.** The PC application now offers better color contrast for visually-impaired users.
 
 - **Improved hologram manipulation.** Holograms move more naturally as you place them in space, making it easier to accurately align holograms to the real world.
 
 - **Support for additional languages**. The PC app and the HoloLens app now support the following languages: English (US, UK, Canada, Australia), French (France, Canada), German, Dutch, Spanish, Italian, Chinese (People’s Republic of China, Taiwan, Hong Kong), Japanese, and Korean.
-
-- **Additional file formats for 3D models**. You can now upload PLY, OBJ, and STL 3D models. Node-based animiations are also supported now for FBX models.
 
 > [!NOTE]
 > To get this update, you need to update the PC app and the [!include[pn-hololens](../includes/pn-hololens.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] store. You don't need to update the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution. **For the next release, you'll need to update the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution, however.** 
