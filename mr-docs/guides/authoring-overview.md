@@ -27,7 +27,7 @@ Supporting assets include:
   
 - **[!include[pn-hololens](../includes/pn-hololens.md)] application in Author mode.** After creating the guide with the PC application, use the [!include[pn-hololens](../includes/pn-hololens.md)] application in Author mode to test the flow of your guide, place your holograms in the real world, add holographic tethers to show operators where to focus, and add styles to 3D objects (warning or caution, for example).
 
-   ![Authoring overview)](media/authoring-overview.PNG "Authoring overview")
+   ![Authoring overview](media/authoring-overview.PNG "Authoring overview")
 
 Ready to jump in? Choose one of these links to get underway:
 

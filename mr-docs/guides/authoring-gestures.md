@@ -32,7 +32,7 @@ To do the bloom gesture:
 1.	Hold out your hand with your palm up and your fingertips together. 
 2.	Open your hand.
 
-![Bloom gesture)](media/bloom-gesture.PNG "Bloom gesture")
+![Bloom gesture](media/bloom-gesture.PNG "Bloom gesture")
  
 ### Air tap
 Use air tap, along with gaze, to select apps and other holograms. To do an air tap:
@@ -40,7 +40,7 @@ Use air tap, along with gaze, to select apps and other holograms. To do an air t
 2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don’t need to raise your whole arm—keep your elbow low and comfortable.
 3.	Tap your finger down, then quickly raise it back up again.
 
-![Air tap gesture)](media/air-tap-gesture.PNG "Authoring overview")
+![Air tap gesture](media/air-tap-gesture.PNG "Authoring overview")
  
 ### Air tap and hold
 To air tap and hold, start with an air tap, but keep your finger down instead of raising it back up again.

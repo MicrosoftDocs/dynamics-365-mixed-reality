@@ -159,7 +159,7 @@ When you get to the screen where you can select between different saved accounts
 #### “Create account” link when signing in with a new account doesn’t work
 When signing in with a brand new account on the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps, there is a link to create a new account:
 
-![Sign-in screen)](media/sign-in-screen.PNG "Sign-in screen")  
+![Sign-in screen](media/sign-in-screen.PNG "Sign-in screen")  
  
 Please do not use this link to create an account–it doesn’t work.
 
@@ -211,7 +211,7 @@ When the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applica
 
 When signing in with a brand new account on the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps, there is a link to create a new account:
 
-![Sign-in screen)](media/sign-in-screen.PNG "Sign-in screen") 
+![Sign-in screen](media/sign-in-screen.PNG "Sign-in screen") 
   
 Please do not use this link to create an account–it doesn’t work.
 

@@ -26,11 +26,11 @@ you created a new environment).
 
 3. Select the small edit button next to **Solutions** to see the list of solutions. 
  
-   ![Solutions button)](media/solutions.PNG "Solutions button")
+   ![Solutions button](media/solutions.PNG "Solutions button")
  
 4. In the list of solutions, select **[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]**, and then select **Upgrade**.  
  
-   ![Upgrade button)](media/upgrade.PNG "Upgrade button")
+   ![Upgrade button](media/upgrade.PNG "Upgrade button")
    
 5. Review the Terms of service, and then select **Accept** if you're ready to start the upgrade. 
 
