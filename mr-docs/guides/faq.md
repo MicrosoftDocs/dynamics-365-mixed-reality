@@ -37,7 +37,7 @@ If you plan to author guides, you’ll need to use both apps. If not, you’ll o
 
 As of the August 27 update, Dynamics 365 Guides is available in the following languages for both the PC app and the HoloLens app:
 
-- English (US, UK, Canada, Australia)
+- English (US, UK)
 
 - Chinese (People's Republic of China, Taiwan, Hong Kong)
 
