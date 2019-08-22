@@ -13,6 +13,9 @@ ms.reviewer: v-brycho
 
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] organized by release date.  
 
+> [!IMPORTANT]
+> The next release planned for October will require all customers to do a mandatory update of the Dynamics 365 Guides apps and solution. Please work with your IT admin to plan downtime for this update.
+
 ### August 27, 2019
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.XXXX includes the following updates:
 
@@ -23,7 +26,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 - **Support for additional languages**. The PC app and the HoloLens app now support the following languages: English (US, UK, Canada, Australia), French (France, Canada), German, Dutch, Spanish, Italian, Chinese (People’s Republic of China, Taiwan, Hong Kong), Japanese, and Korean.
 
 > [!NOTE]
-> To get this update, you need to update the PC app and the [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] store. You don't need to update the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution. **For the next release, you'll need to update the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution, however.** 
+> To get this update, you need to update the PC app and the [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] store. You don't need to update the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution. 
 
 ### August 6, 2019
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.1908.2001.0 fixes an issue in the July 23rd release of the [!include[pn-hololens](../includes/pn-hololens.md)] app that prevented the list of guides from being shown in the [!include[pn-hololens](../includes/pn-hololens.md)] application for Europe, Middle East, and Asia-based customers. We also released an updated version of the Power BI reporting template that fixes a bug related to missing data causing the report to break.
