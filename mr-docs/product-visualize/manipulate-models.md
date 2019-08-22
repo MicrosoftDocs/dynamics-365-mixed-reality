@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 
 The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Opportunities** page. Each opportunity typically has multiple products within it, and each product can have multiple 3D models. 
 
-![Opportunities, products, and 3D models)](media/manipulating-3D-models.PNG "Opportunities, products, and 3D models")
+![Opportunities, products, and 3D models](media/manipulating-3D-models.PNG "Opportunities, products, and 3D models")
 
 > [!NOTE]
 > If you're the administrator, to learn how to add 3D models to Dynamics 365 for Sales, see the [Administrator guide](admin-guide.md).

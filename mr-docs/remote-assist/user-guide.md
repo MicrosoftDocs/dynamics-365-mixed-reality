@@ -155,11 +155,11 @@ You can record a call in two ways:
 
 1. On a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 desktop PC, join a call using [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)].
 
-2. Press **Windows logo key ![Windows logo key)](media/windows-logo-key.png "Windows logo key") + G** to open the Game bar.
+2. Press **Windows logo key ![Windows logo key](media/windows-logo-key.png "Windows logo key") + G** to open the Game bar.
 
-   ![Game bar)](media/game-bar.png "Game bar")
+   ![Game bar](media/game-bar.png "Game bar")
 
-3. Select the **Start Recording** button (or press **Windows logo key ![Windows logo key)](media/windows-logo-key.png "Windows logo key") + Alt + R**).
+3. Select the **Start Recording** button (or press **Windows logo key ![Windows logo key](media/windows-logo-key.png "Windows logo key") + Alt + R**).
 
    A small recording menu will appear that shows that the recording is in progress.
    
@@ -242,7 +242,7 @@ When you're working with an expert on a call, the expert can share their desktop
 
 To move, size, or close the shared window, use the controls at the top right of the shared window.
 
-![Shared-desktop controls)](media/screen-sharing-controls.jpg "Shared-desktop controls")
+![Shared-desktop controls](media/screen-sharing-controls.jpg "Shared-desktop controls")
 
 ## Collaborate and annotate
 
@@ -259,11 +259,11 @@ and will be able to make annotations of their own.
 
 2.  Gaze where you want to add the arrow. You'll see a silhouette of the arrow that shows where it will be placed. For example, note the faint arrow in the following screenshot:
 
-    ![Ghost arrow)](media/ghost-arrow-before.PNG "Ghost arrow")
+    ![Ghost arrow](media/ghost-arrow-before.PNG "Ghost arrow")
 
 3.  Air tap to place the arrow.
 
-    ![Arrow placed)](media/ghost-arrow-after.PNG "Arrow placed")
+    ![Arrow placed](media/ghost-arrow-after.PNG "Arrow placed")
 
 > [!NOTE]
 > If you want to specify the direction that the arrow points, air tap and
@@ -458,7 +458,7 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
     
 1.  In the **Booking** pane, select the resource (expert). 
 
-    ![Select the resource (expert)](media/61c6885a58d179a39e18b3af01554fcc.png "Select the resource (expert)")
+    ![Select the resource (expert](media/61c6885a58d179a39e18b3af01554fcc.png "Select the resource (expert)")
 
 1.  In the filtered contacts list, select the tile for the expert. If you don’t
     see the contact you’re looking for, select **Search** to bring up the

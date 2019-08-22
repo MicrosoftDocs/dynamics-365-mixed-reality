@@ -27,17 +27,17 @@ The first thing you need to do is create a new Azure Active Directory organizati
 
 3. In the left pane, select **Create a resource** > **Identity** > **Azure Active Directory**.
 
-   ![Create resource)](media/create-resource.PNG "Create resource")
+   ![Create resource](media/create-resource.PNG "Create resource")
 
 4. Under **Create directory**, give the organization a name and an initial domain name.
 
-   ![Name and domain name)](media/name-and-domain-name.PNG "Name and domain name")
+   ![Name and domain name](media/name-and-domain-name.PNG "Name and domain name")
 
 5. Select **Create**. You might need to wait several minutes while the directory is created. 
 
 6. Select **Click here to manage your new directory**.
 
-   ![Click to manage new directory link)](media/manage-directory-link.PNG "Click to manage new directory link")
+   ![Click to manage new directory link](media/manage-directory-link.PNG "Click to manage new directory link")
 
 ## Add an admin user
 
@@ -90,7 +90,7 @@ Before continuing, make sure the Dynamics 365 for Customer Engagement license ha
 
 3. In **Licenses and Apps**, under **Licenses**, make sure that **Dynamics 365 Customer Engagement Plan** is checked.
 
-   ![Edit licenses)](media/user_licenses.png "Edit licenses")
+   ![Edit licenses](media/user_licenses.png "Edit licenses")
 
 5. Save your changes and close the dialog box.
 
@@ -123,7 +123,7 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 
 6. Select the small **Edit** button next to the word **Solutions** in the gray box on the right.
 
-   ![s7)](media/s7.png "s7")
+   ![s7](media/s7.png "s7")
 
 7. In the list of available solutions, find **Dynamics 365 Sales Application**, and then select **Install**.
 

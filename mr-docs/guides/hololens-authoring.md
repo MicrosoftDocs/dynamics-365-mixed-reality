@@ -25,7 +25,7 @@ The second major step in authoring a guide in [!include[cc-microsoft](../include
 
 - Add styles (optional) to 3D content to add treatments such as a warning or caution.
 
-  ![Test your guide)](media/test-guide.PNG "Test your guide")
+  ![Test your guide](media/test-guide.PNG "Test your guide")
 
 ## Install the HoloLens app
 
@@ -63,7 +63,7 @@ To set your IPD, use the Calibration app included with [!include[pn-hololens](..
 
 2.	Air tap on **Calibration** to begin calibrating your [!include[pn-hololens](../includes/pn-hololens.md)].
 
-    ![Calibration app)](media/hololens-calibration.PNG "Calibration app")
+    ![Calibration app](media/hololens-calibration.PNG "Calibration app")
  
 3.	Follow the instructions on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
@@ -107,7 +107,7 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
     ![Select Author mode](media/select-mode.PNG "Select Author mode")
     
 > [!TIP]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/example-guide-hololens.PNG "Example Guide")
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide](media/example-guide-hololens.PNG "Example Guide")
 
 ## Align your guide
 The first thing you see when you open a guide is the alignment instructions from the PC authoring application. 
