@@ -19,7 +19,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 ### August 27, 2019
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.XXXX includes the following updates:
 
-- **Accessibility enhancements.** The PC application offers better color contrast and support for high-contrast mode for visually-impaired users. Use the keyboard to tab through the user interface while using Narrator to read various authoring options. In preview mode, you can manipulate 3D models using the keyboard.
+- **Accessibility enhancements.** The PC application offers better color contrast and support for high-contrast mode for visually impaired users. Use the keyboard to tab through the user interface while using Narrator to read various authoring options. In preview mode, you can manipulate 3D models using the keyboard.
 
 - **Improved hologram manipulation.** Holograms move more naturally as you place them in space, making it easier to accurately align holograms to the real world.
 
