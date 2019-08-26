@@ -1,4 +1,13 @@
-
+---
+author: Mamaylya
+description: Technical requirements for installing and using Dynamics 365 Guides
+ms.author: mamaylya
+ms.date: 08/27/2019
+ms.service: crm-online
+ms.topic: article
+title: Technical requirements for Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
 # Requirements for Dynamics 365 Guides
 
