@@ -99,7 +99,7 @@ You can also create and import your own custom 3D parts using CAD models. [!incl
 To organize content, you might want to create a folder structure with separate folders for text, 3D assets, images, and videos to make 
 it easy to find and use the different types of assets.
 
-![Folder structure)](media/folder-structure.PNG "Folder structure")
+![Folder structure](media/folder-structure.PNG "Folder structure")
  
 ### Best practices for file names
 

@@ -9,7 +9,7 @@ title: What's new in Dynamics 365 Guides in preview (May 28, 2019)
 ms.reviewer: v-brycho
 ---
 
-## What's new in Dynamics 365 Guides in preview (May 28, 2019)
+# What's new in Dynamics 365 Guides in preview (May 28, 2019)
 
 The May release introduces an improved anchoring (alignment) experience for Dynamics 365 Guides in preview. The PC app doesn’t require you to choose an anchoring method before creating a guide so you can start creating content right away. You can also switch between anchoring 
 methods after creating a guide. The PC app also provides better step-by-step guidance for choosing the appropriate method for anchoring mixed reality instructions to your workspace.

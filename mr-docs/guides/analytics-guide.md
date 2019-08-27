@@ -56,11 +56,11 @@ To set up your reports:
  
 1.	In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
    
-    ![Analyze tab)](media/get-started-analytics.PNG "Analyze tab")      
+    ![Analyze tab](media/get-started-analytics.PNG "Analyze tab")      
  
 2.	In the [!include[cc-microsoft](../includes/cc-microsoft.md)] Download Center, select **Download**. 
 
-    ![Microsoft Download Center)](media/microsoft-download-center.PNG "Microsoft Download Center") 
+    ![Microsoft Download Center](media/microsoft-download-center.PNG "Microsoft Download Center") 
 
     You’ll be prompted to choose the files to download: 
 
@@ -70,23 +70,23 @@ To set up your reports:
 
      We recommend downloading both files. 
 
-     ![Files to download)](media/download-files.PNG "Files to download")   
+     ![Files to download](media/download-files.PNG "Files to download")   
   
 3.	Open the downloaded Guides Analytics Template.pbit file with [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop. Use your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password if you’re prompted to sign in to [!include[pn-power-bi](../includes/pn-power-bi.md)].  
  
 4.	When prompted, paste the Instance URI into the text box as shown here. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in step 1. 
 
-     ![Guides Analytics template)](media/guides-analytics-template.PNG "Guides Analytics template")
+     ![Guides Analytics template](media/guides-analytics-template.PNG "Guides Analytics template")
  
      You might see the following error message saying you aren’t signed in: 
   
-     ![Sign-in error)](media/sign-in-error.PNG "Sign-in error")
+     ![Sign-in error](media/sign-in-error.PNG "Sign-in error")
 
      In that case, select **Sign in**, and enter your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password to connect the template to your organization’s secure [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
 
 5.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are described in detail in “Take a tour of reports” later in this topic. 
  
-     ![Example report)](media/example-report.PNG "Example report")
+     ![Example report](media/example-report.PNG "Example report")
  
 6.	Save the configured reports to a convenient place on your computer for later use. 
 
@@ -104,7 +104,7 @@ Both the Guides Analytics Template and Guides Analytics Demo files contain two r
 
 The Guides Usage report provides an overview of all the guides used in your organization. The following graphic illustrates the parts of the report.
 
-![Guides Usage report)](media/guides-usage-report.PNG "Guides Usage report") 
+![Guides Usage report](media/guides-usage-report.PNG "Guides Usage report") 
  
 1.	Which guides are included in the report.
 
@@ -126,15 +126,15 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
     **Drill up/Expand to the next level.** In [!include[pn-power-bi](../includes/pn-power-bi.md)], dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart, and then select **Drill Up**.
    
-    ![Drill-up button)](media/drill-up-button.PNG "Drill-up-button")
+    ![Drill-up button](media/drill-up-button.PNG "Drill-up-button")
   
     To return to the per-day view, select **Drill Mode**, and then select the month bar you want to drill into.  
 
-    ![Drill Mode button)](media/drill-mode-button.PNG "Drill mode button")
+    ![Drill Mode button](media/drill-mode-button.PNG "Drill mode button")
 
     Alternatively, select the **Expand to the next level** button to drill back down.  
   
-    ![Expand to next level)](media/expand-to-next-level.PNG "Expand to next level")
+    ![Expand to next level](media/expand-to-next-level.PNG "Expand to next level")
  
     **Filter by Date.** Change the date range by using the Filter by Date slicer. Select the start or end date to set them manually, or move the slider.
    
@@ -153,7 +153,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
 Use the Process Time-Tracking report to drill into usage and step-level run-time data for a single guide. The following graphic illustrates the parts of the report.
 
-![Process Time-Tracking report)](media/process-time-tracking-report.PNG "Process Time-Tracking report")
+![Process Time-Tracking report](media/process-time-tracking-report.PNG "Process Time-Tracking report")
  
 1.	Which guides are included in the report?
 
@@ -189,16 +189,16 @@ Use the Process Time-Tracking report to drill into usage and step-level run-time
 
     To change the view from the step level to the task level, first select the chart, and then select **Drill Up**.  
 
-    ![Drill Up button)](media/drill-up-2.PNG "Drill Up button")
+    ![Drill Up button](media/drill-up-2.PNG "Drill Up button")
    
     To return to the step view, select **Drill Mode**, and then select the task you want to drill in to.
   
-    ![Drill Mode button)](media/step-to-task-drill-down.PNG "Drill Mode button")
+    ![Drill Mode button](media/step-to-task-drill-down.PNG "Drill Mode button")
  
      Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the 
    step level, whereas **Drill Mode** only drills into the data item you selected. 
    
-    ![Next level hierarchy)](media/expand-to-next-level.PNG "Next level hierarchy")
+    ![Next level hierarchy](media/expand-to-next-level.PNG "Next level hierarchy")
   
 6.	Select a recent run: 
 
@@ -223,13 +223,13 @@ Use the Process Time-Tracking report to drill into usage and step-level run-time
 
 You can share your Guides Analytics [!include[pn-power-bi](../includes/pn-power-bi.md)] reports within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the report through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com).  
 
-[!include[pn-power-bi](../includes/pn-power-bi.md)] provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/en-us/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This involves the following well-documented steps: 
+[!include[pn-power-bi](../includes/pn-power-bi.md)] provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This involves the following well-documented steps: 
 
-1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-workspaces). 
+1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-workspaces). 
 
-2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/en-us/power-bi/desktop-upload-desktop-files). 
+2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/power-bi/desktop-upload-desktop-files). 
 
-3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/en-us/power-bi/service-create-distribute-apps).  
+3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-distribute-apps).  
  
 ### See also
 

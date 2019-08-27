@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Test and place holograms using the Dynamics 365 Guides (Preview) HoloLens application in Author mode 
 ms.author: mamaylya
-ms.date: 07/09/2019
+ms.date: 08/27/2019
 ms.service: crm-online
 ms.topic: article
 title: Test and place holograms using HoloLens Author mode in Dynamics 365 Guides (Preview) 
@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
  
 The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] takes place on the [!include[pn-hololens](../includes/pn-hololens.md)] application. In [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, you:
 
-- Align your guide to a printed anchor (marker) or a digital anchor, depending on the type of anchor method you chose in the PC application.
+- Anchor your guide.
 
 - Test the flow of your guide.
 
@@ -25,7 +25,7 @@ The second major step in authoring a guide in [!include[cc-microsoft](../include
 
 - Add styles (optional) to 3D content to add treatments such as a warning or caution.
 
-  ![Test your guide)](media/test-guide.PNG "Test your guide")
+  ![Test your guide](media/test-guide.PNG "Test your guide")
 
 ## Install the HoloLens app
 
@@ -63,7 +63,7 @@ To set your IPD, use the Calibration app included with [!include[pn-hololens](..
 
 2.	Air tap on **Calibration** to begin calibrating your [!include[pn-hololens](../includes/pn-hololens.md)].
 
-    ![Calibration app)](media/hololens-calibration.PNG "Calibration app")
+    ![Calibration app](media/hololens-calibration.PNG "Calibration app")
  
 3.	Follow the instructions on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
@@ -107,12 +107,12 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
     ![Select Author mode](media/select-mode.PNG "Select Author mode")
     
 > [!TIP]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide)](media/example-guide-hololens.PNG "Example Guide")
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide](media/example-guide-hololens.PNG "Example Guide")
 
-## Align your guide
-The first thing you see when you open a guide is the alignment instructions from the PC authoring application. 
+## Anchor your guide
+The first thing you see when you open a guide is the anchoring instructions from the PC authoring application. 
 
-### To align a guide by using a printed anchor
+### To anchor a guide by using a printed anchor
 
 1. Stand about two feet in front of the printed anchor.
 
@@ -135,13 +135,13 @@ The first thing you see when you open a guide is the alignment instructions from
 > [!NOTE]
 > If you chose to use a digital anchor to align the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
 
-When you align your guide, the alignment information is stored on your [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section.
+When you anchor your guide, the anchoring information is stored on your [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to re-anchor the guide every time you open it. You can re-anchor a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section.
 
 > [!NOTE]
 > You might need to adjust the hardware offset in [!include[pn-hololens](../includes/pn-hololens.md)] 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
 
 ## Get oriented on HoloLens
-After you align your guide, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card tags along with the operator to keep the instructions where they need them as they move around their work space.
+After you anchor your guide, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card tags along with the operator to keep the instructions where they need them as they move around their work space.
 
 Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap to navigate through a guide. 
 
@@ -163,7 +163,7 @@ Here’s what each button or UI element is used for:
 |Letter|Button/Example|Name|Purpose|
 |--|---|------------|----------------------------------------------------------------------------------------------------------------|
 |A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
-|B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.|[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to realign the guide by gazing at the printed anchor (marker) or digital anchor again.|
+|B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.|[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.|
 |C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] device correctly.</br><br>- **Noise Cancellation**. If the environment is very noisy, this setting adjusts sensitivity to voice commands so the operator doesn't have to shout.</br><br>- **Dynamic Volume**. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- **Build number**. Shows the build you’re using.|
 |D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
 |E|![Pin button](media/pin-button.PNG "Pin button")|Pin|Lock the Step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the Step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
@@ -175,9 +175,26 @@ Here’s what each button or UI element is used for:
 
 ## Test the flow of your guide
 Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
+ 
+## Add a dotted line to link a Step card to a focus area
+
+You can add dotted lines (*tethers*) to link your Step cards to the areas where the work gets done. These dotted lines show the operator where to focus. 
+
+![Holographic tether](media/tether-example.PNG "Holographic tether")
+
+To place a dotted line:
+
+1.	Tap and hold the gem below the Step card.
+
+2.	Drag it to the real-world location that you want.
+
+    ![Place a tether](media/place-tether.PNG "Place a tether")
+
+### Best practices for dotted lines
+
+- Placement isn’t exact, so if you’re connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (a number, for example) at the end of the dotted line. 
 
 ## Place your holograms
-After you’ve tested the flow of your guide and made changes in the PC application, you’re ready to place your holograms. 
 
 In this stage of the process, you’ll walk through each step in your guide and place any assets that you associated with that step when you authored it in the PC application. For example, if you added a 3D part to support a step, you’ll place that part over its physical counterpart in the real world. If you added a 3D object from the 3D toolkit (an arrow or a number, for example), you’ll place that object in an appropriate place in the real world to draw the user’s focus. You can place the same 3D part or 3D object as many times as you want.
 
@@ -186,7 +203,7 @@ You don’t need to do anything to place images or videos associated with a step
 The 3D assets associated with each step appear below the Step card in *the bin*:
 
 ![3D assets below Step card](media/step-card-bin.PNG "3D assets below Step card")
- 
+
 ### Place a 3D part 
 
 1. In the bin, air tap the 3D part that you want to place.
@@ -207,24 +224,15 @@ You can place a 3D model from the 3D toolkit in the same way you place a 3D part
 
 ### Manipulating holograms
 
-To place a hologram from one of your bins:
+To place a 3D model from one of your bins:
 
-1.	Air tap a 3D asset to add it to your real world. It will appear in your world in front of the Step card.
+1.	Air tap a 3D model to add it to your real world. It will appear in your world in front of the Step card.
 
-2.	Raise your hand to the ready gesture and gaze at the 3D asset to select it. The way you can tell if it’s selected is that the 3D selection sphere appears around it.
+2.	Raise your hand to the ready gesture and gaze at the model to select it. The way you can tell if it’s selected is that the 3D selection sphere appears around it.
 
-3.	Once the object is selected, air tap + hold anywhere on the selection sphere to pick up the 3D asset.
+3.	Once the object is selected, air tap + hold anywhere on the selection sphere to pick up the model.
 
-4.	Do one of the following to move the hologram:
-
-    - To move it larger distances in any direction, move your hand quickly in the direction you want. By default, the hologram moves approximately the same distance your hand moves from the starting point of where you “grabbed” the hologram to where you stop. 
-    
-    - To make more precise adjustments, move your hand slowly or keep it stationary to enter precision mode. This slows down the movement speed so you can nudge the hologram where you want it.
-
->[!Tip]  
-> You’ll know you’ve entered precision mode when the selection sphere turns blue.
-
-![Hologram selection sphere](media/hologram-selection-sphere.PNG "Hologram selection sphere")
+4.	Move the model where you want it to go.
 
  
 #### Rotate a hologram
@@ -328,22 +336,7 @@ To duplicate a model:
 
     ![Duplicate button](media/edit-duplicate.PNG "Duplicate button")
 
-## Place tethers
-You’ll typically place a tether for each Step card when you place your holograms. A tether visually links a Step card to the area where the operator needs to focus. It helps the operator find the content or understand what they’re supposed to be looking at in the real world. 
 
-![Holographic tether](media/tether-example.PNG "Holographic tether")
-
-To place a tether:
-
-1.	Tap and hold the “tether ball” below the Step card.
-
-2.	Place it in the real-world location that you want.
-
-    ![Place a tether](media/place-tether.PNG "Place a tether")
-
-### Best practices for tethers
-
-- Tether placement isn’t exact, so if you’re connecting a tether to a 3D object from the 3D toolkit, place the tether in the general area, and then place the 3D object (a number, for example) at the end of the tether. 
 
 ## What's next?
 

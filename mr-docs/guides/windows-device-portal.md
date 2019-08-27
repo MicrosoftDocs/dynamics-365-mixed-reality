@@ -41,7 +41,7 @@ Before accessing the Windows Device Portal, you need to set it up on HoloLens:
 
 7.	Scroll down and turn on **Enable Device Portal**.
 
-    ![Enable Device Portal setting)](media/developers-settings.PNG "Enable Device Portal setting")
+    ![Enable Device Portal setting](media/developers-settings.PNG "Enable Device Portal setting")
  
 ## Connect with Wi-Fi
 
@@ -77,7 +77,7 @@ Now you’re ready to change the IPD settings for the device using the Windows D
 
 2.	Write the number down. In the future, whenever you need to change the IPD settings on the device, sign in to the device, go to the Windows Device Portal, and then change the IPD information in this same field. 
 
-    ![IPD setting)](media/ipd-setting.PNG "IPD setting")
+    ![IPD setting](media/ipd-setting.PNG "IPD setting")
  
 > [!TIP]
 > Consider keeping a shared file with all your team members’ IPDs, or have users memorize their IPD. 

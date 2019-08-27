@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides (Preview).
 ms.author: mamaylya
-ms.date: 07/09/2019
+ms.date: 08/27/2019
 ms.service: crm-online
 ms.topic: article
 title: Use the PC authoring application to create a guide in Dynamics 365 Guides (Preview)
@@ -37,7 +37,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 ### Install the app 
 1.	On your [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC, make sure you have the latest [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 build (10.0.16299 or later).
 
-2.	Go to **Start** ![Start button)](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button)](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
+2.	Go to **Start** ![Start button](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
 
 3.  Select **Install** to download and install [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
@@ -46,17 +46,17 @@ Use these instructions to install the app (if it hasn't already been installed f
 
 2.	In the **Welcome to Guides** screen, select **Sign in**.
 
-    ![Welcome to Guides)](media/welcome-to-guides.PNG "Welcome to Guides")
+    ![Welcome to Guides](media/welcome-to-guides.PNG "Welcome to Guides")
     
 3.	In the **Sign in** dialog box, select **Work or school account**, and then select **Continue**. 
 
 4.	In the **Sign in** screen, enter the user account and password assigned to you by your organization. If you’re the administrator, these are the credentials you created when you signed up for the preview.
 
-    ![Sign-in to the PC app)](media/sign-in-pc.PNG "Sign in to the PC app")
+    ![Sign-in to the PC app](media/sign-in-pc.PNG "Sign in to the PC app")
  
 5.	Select the instance you want to use if there’s more than one instance, and then select **Continue**.
 
-    ![Choose an instance)](media/choose-instance-pc.PNG "Choose an instance")
+    ![Choose an instance](media/choose-instance-pc.PNG "Choose an instance")
 
 ## Create a new guide
 
@@ -85,7 +85,7 @@ After you name your guide, you’ll see the **Outline** page and a prompt to cre
 
 - Select **Set your anchor now** to display the **Choose an anchor method** screen.
 
-![Anchoring methods screen)](media/choose-anchor-method.PNG "Anchoring methods screen")
+![Anchoring methods screen](media/choose-anchor-method.PNG "Anchoring methods screen")
 
 ### How anchoring works and types of anchors
 
@@ -129,7 +129,7 @@ To print the marker:
 
 1.  In the **Choose an anchor method** screen, in the **Printed Anchor** section, choose **Select**.
 
-    ![Anchoring methods screen)](media/choose-anchor-method.PNG "Anchoring methods screen")
+    ![Anchoring methods screen](media/choose-anchor-method.PNG "Anchoring methods screen")
 
 2.  In the **Print and place the anchor** screen, select **Save to print** to save the marker.pdf file to your PC.
 
@@ -141,13 +141,13 @@ To print the marker:
 
 5.	Under **Page Sizing & Handling**, select the **Actual size** option.
 
-    ![Print a marker)](media/print-marker.PNG "Print a marker")
+    ![Print a marker](media/print-marker.PNG "Print a marker")
 
 4.	Print the last page of the document on matte stock (glossy materials can affect scanning). 
 
 5.	After printing, make sure the marker spacing matches the measurements shown in the following illustration:
 
-    ![Marker spacing)](media/marker-spacing.PNG "Marker spacing")
+    ![Marker spacing](media/marker-spacing.PNG "Marker spacing")
  
 > [!NOTE]
 > If the marker spacing is not within +/- 0.1 mm, select the **Custom Scale** option in the **Print** dialog box, and then change the 
@@ -208,7 +208,7 @@ To import a 3D representation:
     
 4.	In the library, select **3D parts**, and then drag your 3D representation to the digital anchor box. If you don't want to select a digital anchor at this time, select **Next**. The guide will be created with a preset 3D model that looks like this:
 
-    ![Preset anchor)](media/digital-anchor.PNG "Preset anchor")
+    ![Preset anchor](media/digital-anchor.PNG "Preset anchor")
    
 > [!NOTE]
 > It’s a good practice to take a photo or video of the base physical object and location and upload the photo or video to the 
@@ -260,7 +260,7 @@ After you choose an anchoring method, you see the **Outline** page. This is wher
 
 When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
 
-![Create a task and step)](media/task-name.PNG "Create a task and step")
+![Create a task and step](media/task-name.PNG "Create a task and step")
   
 To get started, enter a task name, and then start typing the instructions for the first step in the box. When you need to add a new step, select **Add step**. When you’re ready to add another task, select **Add task**. It’s that simple!
 
@@ -272,7 +272,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
 - A special step called a Completion step that lets operators know when they’ve reached the end of the guide. The Completion step includes default text that you can customize as you see fit.
 
-  ![Outline page)](media/completion-step.PNG "Outline page")
+  ![Outline page](media/completion-step.PNG "Outline page")
  
 > [!NOTE]
 > Whenever you start working on a guide, be sure to select **Refresh** to ensure you have the latest version. 
@@ -291,7 +291,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
 Here’s the **Outline** page from the Example Guide to show what a completed **Outline** page looks like:
 
-![Finished Outline page from Example guide)](media/finished-outline-page.PNG "Finished Outline page from Example guide")
+![Finished Outline page from Example guide](media/finished-outline-page.PNG "Finished Outline page from Example guide")
   
 ## Create steps and assign assets in the Step card page
 
@@ -311,7 +311,7 @@ In the Step card page, you write your instructional text and assign supporting a
 
 2. Drag the object to the appropriate box below the instructional text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit, drag it to one of the **3D parts** boxes. 
 
-   ![Create a step with the Step card)](media/drag-object.PNG "Create a step with the step card")
+   ![Create a step with the Step card](media/drag-object.PNG "Create a step with the step card")
 
    > [!NOTE]
    > The collection of boxes below the instructional text is called the “bin.”
@@ -357,11 +357,11 @@ To import your own 3D objects:
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects included in the 3D toolkit that are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
 
-![Add object from 3D toolkit)](media/3d-toolkit.PNG "Add object from 3D toolkit")
+![Add object from 3D toolkit](media/3d-toolkit.PNG "Add object from 3D toolkit")
  
 The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. Here’s what the models look like:
 
-![List of objects in 3D toolkit)](media/3D-toolkit-objects.PNG "List of objects in 3D toolkit")
+![List of objects in 3D toolkit](media/3D-toolkit-objects.PNG "List of objects in 3D toolkit")
 
 You add a 3D object from the 3D toolkit in the Step card page, and then place it in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. You can use the same object (instance) as many times as you like in a step.
 
@@ -376,7 +376,7 @@ To add an object from the 3D toolkit:
     
 3.	Drag the object you want from the list to a **3D parts** box below the Step card.
 
-    ![Drag object from 3D toolkit)](media/3d-part.PNG "Drag object from 3D toolkit")
+    ![Drag object from 3D toolkit](media/3d-part.PNG "Drag object from 3D toolkit")
  
 ### Best practices for 3D toolkit
 

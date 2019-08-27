@@ -39,7 +39,7 @@ Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dy
 
 7.	Follow the instructions on your screen. 
 
-[Learn more about HoloLens calibration](https://docs.microsoft.com/en-us/windows/mixed-reality/calibration). 
+[Learn more about HoloLens calibration](https://docs.microsoft.com/windows/mixed-reality/calibration). 
 
 ## Navigate with gaze and gestures 
 To navigate through a guide, you’ll use your gaze and a few gestures. 
@@ -87,7 +87,7 @@ Use air tap, along with gaze, to select apps and other holograms. To do an air t
 [!include[pn-hololens](../includes/pn-hololens.md)] has sensors that can see a few feet to either side of you. When you use gestures, you'll need to keep them inside that frame, or [!include[pn-hololens](../includes/pn-hololens.md)] won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor looks like a ring. When [!include[pn-hololens](../includes/pn-hololens.md)] can't see your hand, the cursor changes to a dot. 
 
 #### Need a tutorial on gestures? 
-For a tutorial on some basic gestures, use the bloom gesture to go to **Start**, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/en-us/help/13456/hololens-and-holograms-faq). 
+For a tutorial on some basic gestures, use the bloom gesture to go to **Start**, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/help/13456/hololens-and-holograms-faq). 
 
 ## Get started with the HoloLens app 
 
@@ -95,7 +95,7 @@ Now that your [!include[pn-hololens](../includes/pn-hololens.md)] device is cali
 
 ### Install the HoloLens app
 
-1.	Make sure you have [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
+1.	Make sure you have [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
 
 2.	On your [!include[pn-hololens](../includes/pn-hololens.md)] device, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
 
@@ -181,9 +181,9 @@ Here’s a description of the buttons and other UI elements in the Step card:
 |B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor button|Re-anchor (realign) the guide. [!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to re-anchor the guide by gazing at a printed anchor or digital anchor again. For more information, see “Anchor your guide” earlier in this topic.|
 |C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your [!include[pn-hololens](../includes/pn-hololens.md)] device correctly. Fit is very important. Otherwise holograms might be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] properly.<br></br>- **Noise cancellation.** Enables you to use voice commands to navigate the app when there’s a lot of noise in your environment (a factory floor, for example). The app supports noise levels up to 80 decibels.<br></br>- **Dynamic volume.** Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.<br></br>- **Build number.** Shows the build of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you’re using.| 
 |D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
-|E|![Pin button)](media/pin-button.PNG "Pin button")|Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around. You can pin or unpin it any time you want.|
+|E|![Pin button](media/pin-button.PNG "Pin button")|Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around. You can pin or unpin it any time you want.|
 |F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
-|G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for Example Guide:</br><br>![HoloLens Outline page)](media/example-guide-operator.PNG "HoloLens Outline page")| 
+|G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for Example Guide:</br><br>![HoloLens Outline page](media/example-guide-operator.PNG "HoloLens Outline page")| 
 |H|![Task progress](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
 |I|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task you're working on.| 
  
@@ -215,11 +215,11 @@ You can turn holograms off (or turn them back on) with a glance if you ever feel
 
 That's all the info you need to use a guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! To learn more about [!include[cc-microsoft](../includes/cc-microsoft.md)] mixed-reality apps and [!include[pn-hololens](../includes/pn-hololens.md)], here are some helpful links: 
 
-- [What is mixed reality?](https://docs.microsoft.com/en-us/windows/mixed-reality/mixed-reality)
-- [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/en-us/mixed-reality/layout/)
-- [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/en-us/mixed-reality/remote-assist/)
-- [Connecting to Wi-Fi on HoloLens](https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens)
-- [Calibrate your HoloLens](https://docs.microsoft.com/en-us/windows/mixed-reality/calibration)
+- [What is mixed reality?](https://docs.microsoft.com/windows/mixed-reality/mixed-reality)
+- [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/mixed-reality/layout/)
+- [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/mixed-reality/remote-assist/)
+- [Connecting to Wi-Fi on HoloLens](https://docs.microsoft.com/windows/mixed-reality/connecting-to-wi-fi-on-hololens)
+- [Calibrate your HoloLens](https://docs.microsoft.com/windows/mixed-reality/calibration)
 
 
 
