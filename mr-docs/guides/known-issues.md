@@ -183,7 +183,7 @@ If you still can’t find your content, contact your administrator.
 
 #### I have an issue that isn’t listed in these troubleshooting steps
 
-Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
+Please contact customer service: [https://docs.microsoft.com/dynamics365/get-started/support/](https://docs.microsoft.com/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
 
 ### HoloLens application issues
 
@@ -252,7 +252,7 @@ There are some problems with rendering the “see through” style on some 3D mo
 To allow authors to place 3D models carefully and precisely, the default movement is set to be slow. To indicate this, the manipulation sphere around the model will be blue. You can move your hand faster, or wiggle the model a bit to switch it to move faster. 
 
 #### I have an issue that isn’t listed in these troubleshooting steps
-Please contact customer service: [https://docs.microsoft.com/en-us/dynamics365/get-started/support/](https://docs.microsoft.com/en-us/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
+Please contact customer service: [https://docs.microsoft.com/dynamics365/get-started/support/](https://docs.microsoft.com/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
 
 ### See also
 
