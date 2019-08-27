@@ -29,15 +29,15 @@ Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common ques
     > You can try [!include[pn-remote-assist](../includes/pn-remote-assist.md)] for free for up to 90 days. [Learn more about the free 90-day Remote Assist trial](try-remote-assist-free.md).
 
 -   A [HoloLens running the Windows 10 April 2018
-    Update](https://support.microsoft.com/en-us/help/12643).
+    Update](https://support.microsoft.com/help/12643).
 
 -   To make a video call, you'll need a contact using the latest version of [Microsoft
-    Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) on
+    Teams](https://products.office.com/microsoft-teams/group-chat-software) on
     a PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 or a mobile device running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile. [Learn about using Teams with
     Remote Assist.](use-microsoft-teams-with-remote-assist.md)
 
 -   To connect to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] from within [!include[pn-remote-assist](../includes/pn-remote-assist.md)],
-    you’ll need a [Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand).
+    you’ll need a [Dynamics 365 license](https://dynamics.microsoft.com/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand).
 
 -   An internet connection. At least 1.5 MB of bandwidth is recommended for the
     best experience.
@@ -55,7 +55,7 @@ link, or another method.
 
 1.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![[!include[cc-microsoft](../includes/cc-microsoft.md)] Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), and then search for “[!include[pn-remote-assist](../includes/pn-remote-assist.md)].”
 
-2.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **[!include[pn-remote-assist](../includes/pn-remote-assist.md)]**, then select it again to launch the app. [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is an immersive app with a [holographic view](https://support.microsoft.com/en-us/help/12635), so it will be the only app you see while you’re using it.
+2.  On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **All apps**. Select **[!include[pn-remote-assist](../includes/pn-remote-assist.md)]**, then select it again to launch the app. [!include[pn-remote-assist](../includes/pn-remote-assist.md)] is an immersive app with a [holographic view](https://support.microsoft.com/help/12635), so it will be the only app you see while you’re using it.
 
 If your [!include[pn-hololens](../includes/pn-hololens.md)] is running the April 2018 Update and you're signed in with an
 [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account, you'll automatically be signed in to
@@ -71,7 +71,7 @@ say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and the
 commands.](#voice)
 
 > [!NOTE]
-> At this time, voice commands and speech recognition are available only in English for HoloLens 1. For HoloLens 2, voice commands are [available in specific languages](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
+> At this time, voice commands and speech recognition are available only in English for HoloLens 1. For HoloLens 2, voice commands are [available in specific languages](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
 
 ## Make and receive calls
 
@@ -79,7 +79,7 @@ How you make a call depends on whether you're calling a contact in your company 
 
 ### Make a call to a contact in your company
 
--   Open the app and [select](https://support.microsoft.com/en-us/help/12644) a
+-   Open the app and [select](https://support.microsoft.com/help/12644) a
     recent contact. If you don’t see the contact you want, select **Search** ![Search](media/e3155cd796106ea0818d8f52c7dbfcbe.png "Search"), and then use the holographic keyboard to enter a name or email address.
 
 When your contact answers the call in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)], they’ll be able to see
@@ -117,7 +117,7 @@ You can include up to 50 people in a group call. You can also switch between par
    ![Animation of searching for a call](media/GC_SearchCall.gif "Animation of searching for a call")
 
    > [!TIP]
-   > [Learn how to add additional contacts from Microsoft Teams Desktop](https://support.office.com/en-us/article/add-someone-to-a-call-in-teams-267fb0c9-275a-4047-8412-7b2654dc29c3). 
+   > [Learn how to add additional contacts from Microsoft Teams Desktop](https://support.office.com/article/add-someone-to-a-call-in-teams-267fb0c9-275a-4047-8412-7b2654dc29c3). 
 
 ### Switch the displayed video feed in a group call 
 
@@ -173,7 +173,7 @@ You can record a call in two ways:
 
 ### Record a call from Teams
 
-[!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] supports [cloud-based call recording of group calls](https://support.office.com/en-us/article/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24). Recordings are stored and shared through Microsoft Stream.
+[!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] supports [cloud-based call recording of group calls](https://support.office.com/article/record-a-meeting-in-teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24). Recordings are stored and shared through Microsoft Stream.
 
 1.	Start or join the group call.
 
@@ -193,7 +193,7 @@ You can record a call in two ways:
 
 > [!NOTE]
 > To receive calls when you’re using other apps on [!include[pn-hololens](../includes/pn-hololens.md)], open the
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)] app. Then use the [bloom gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
+[!include[pn-remote-assist](../includes/pn-remote-assist.md)] app. Then use the [bloom gesture](https://support.microsoft.com/help/12644/hololens-use-gestures)
 to leave [!include[pn-remote-assist](../includes/pn-remote-assist.md)]. Go ahead and use other apps. You’ll get a notification
 from [!include[pn-cortana](../includes/pn-cortana.md)] if a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] call comes in, and you’ll be able to accept or
 decline it using your voice.
@@ -249,7 +249,7 @@ To move, size, or close the shared window, use the controls at the top right of 
 Once you’re connected to a video call, your contact will see everything you see
 in your space—including your holograms.
 
-Use [HoloLens gestures](https://support.microsoft.com/en-us/help/12644) to draw,
+Use [HoloLens gestures](https://support.microsoft.com/help/12644) to draw,
 place arrows, and add files to your space. Your contact will see your additions,
 and will be able to make annotations of their own.
 
@@ -340,7 +340,7 @@ To undo your most recent action, including **Erase all**:
 
 In many cases, you can use voice commands and gaze instead of gestures. Some voice
 commands are contextual, so they only work in particular areas of the user
-interface. Note that at this time, voice commands and speech recognition are available only in English for HoloLens 1 and in [specific languages for HoloLens 2](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
+interface. Note that at this time, voice commands and speech recognition are available only in English for HoloLens 1 and in [specific languages for HoloLens 2](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for). 
 
 > [!IMPORTANT]
 > To use a voice command, say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)],” and then say one of the voice commands in the following table. For example, say "[!include[pn-remote-assist](../includes/pn-remote-assist.md)], Move" to enter Move mode for a slate (window). You can also gaze at any button and say “[!include[pn-remote-assist](../includes/pn-remote-assist.md)], Select” to select that button.
@@ -421,7 +421,7 @@ Here’s how:
 
 1.  Open an app on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
-2.  Use the [bloom gesture](https://support.microsoft.com/en-us/help/12644/hololens-use-gestures)
+2.  Use the [bloom gesture](https://support.microsoft.com/help/12644/hololens-use-gestures)
     to leave the 3D view, but don’t close the app launcher.
 
 3.  Start [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and call your contact.
@@ -437,14 +437,14 @@ Here’s how:
 
 ## Use Dynamics 365 for Field Service from Remote Assist
 
-If your organization uses [Dynamics 365 for Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage field service
+If your organization uses [Dynamics 365 for Field Service](https://dynamics.microsoft.com/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage field service
 work orders, you (the first-line worker) can view [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]
 bookings from [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and call the expert listed in the **Support Contact** field.
 This enables you to do heads-up, hands-free calling through [!include[pn-hololens](../includes/pn-hololens.md)] in the
 context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] booking.
 
 > [!NOTE]
-> For information on setting up and troubleshooting [!include[pn-field-service](../includes/pn-field-service.md)] integration if you're an admin, see [Troubleshoot Field Service integration](troubleshoot-field-service.md). **Note** that [a Dynamics 365 license](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view [!include[pn-field-service](../includes/pn-field-service.md)] bookings from [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
+> For information on setting up and troubleshooting [!include[pn-field-service](../includes/pn-field-service.md)] integration if you're an admin, see [Troubleshoot Field Service integration](troubleshoot-field-service.md). **Note** that [a Dynamics 365 license](https://dynamics.microsoft.com/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) is required to view [!include[pn-field-service](../includes/pn-field-service.md)] bookings from [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
 
 ### View a Field Service booking and call an expert from Remote Assist
 
@@ -482,7 +482,7 @@ context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-se
 ### Modify the default booking view
 
 To modify the default view of information in the **Booking** pane, [edit the view as
-you would any Dynamics 365 view](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-and-edit-views).
+you would any Dynamics 365 view](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-and-edit-views).
 
 ### See also
 [Set up and use Microsoft Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>

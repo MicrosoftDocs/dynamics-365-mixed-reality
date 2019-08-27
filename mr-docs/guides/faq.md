@@ -2,7 +2,7 @@
 author: BryceHo
 description: FAQ about Dynamics 365 Guides (Preview)
 ms.author: makamat
-ms.date: 05/30/2019
+ms.date: 08/27/2019
 ms.service: crm-online
 ms.topic: article
 title: FAQ about Dynamics 365 Guides (Preview)
@@ -33,19 +33,27 @@ If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] 
 
 If you plan to author guides, you’ll need to use both apps. If not, you’ll only need the [!include[pn-hololens](../includes/pn-hololens.md)] app.
 
-## What are the prerequisites for using the Dynamics 365 Guides apps?
+## What languages is Dynamics 365 Guides available in?
 
-The following table lists technical requirements for deploying and using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] throughout your organization.
+As of the August 27 update, Dynamics 365 Guides is available in the following languages for both the PC app and the HoloLens app:
 
-### Device requirements
-|Device|OS requirements|Details|
-|----------------------------------------|---------------------------------------------|-------------------------------------|
-|[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)]|Build 10.0.14393.0 or later. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available.|See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, Mobile Device Management (MDM), and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Server Update Services (WSUS).|
-|[!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC (required to create a guide)|[!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC with Fall Creators Update 1709 or later (build 10.0.16299 or later)|A [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC is used to create and edit guides that will be then available on [!include[pn-hololens](../includes/pn-hololens.md)].</br><br>Suggested minimum screen resolution: 1080 px width|
+- English (US, UK)
 
-### Licensing and product requirements
+- Chinese (People's Republic of China, Taiwan, Hong Kong SAR)
 
-You need a [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] license for each user who will use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app. For more information, [see the Setup topic](setup.md).
+- German 
+
+- Dutch (Netherlands)
+
+- French (France, Canada)
+
+- Italian
+
+- Japanese
+
+- Korean
+
+- Spanish (Spain)
 
 ## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
 
@@ -65,7 +73,7 @@ The following table lists the formats supported for 3D content, images, and vide
 
 |Media|Supported formats|Best practice|
 |----------|----------------------|-------------------------------------------------------------------------|
-|3D content|FBX, GLB, glTF|Make sure to optimize your 3D models as much as possible to maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)].|
+|3D content|glTF, GLB, and FBX|Make sure to optimize your 3D models as much as possible to maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)].|
 |Images|PNG, JPG, JPEG, GIF, TIFF||
 |Videos|MP4, MOV, WMV|Make sure to keep your videos less than 2 minutes long, and focused on one step at a time.|
 
