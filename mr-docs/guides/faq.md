@@ -39,7 +39,7 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 - English (US, UK)
 
-- Chinese (People's Republic of China, Taiwan, Hong Kong)
+- Chinese (People's Republic of China, Taiwan, Hong Kong SAR)
 
 - German 
 
