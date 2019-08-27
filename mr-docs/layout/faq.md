@@ -38,16 +38,16 @@ or to [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed 
 ## What are the technical requirements for running the Dynamics 365 Layout apps?
 
 -   [!include[pn-hololens](../includes/pn-hololens.md)]: Your headset must be running the [Windows 10 April 2018
-    Update](https://support.microsoft.com/en-us/help/12643). 
+    Update](https://support.microsoft.com/help/12643). 
 
 -   [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality: Your PC must be running the [Windows 10 April 2018
-    Update](https://support.microsoft.com/en-us/help/4028685). You’ll also need
+    Update](https://support.microsoft.com/help/4028685). You’ll also need
     [Windows Mixed Reality motion
-    controllers](https://support.microsoft.com/en-us/help/4040517) to use the
+    controllers](https://support.microsoft.com/help/4040517) to use the
     app with your immersive headset.
 
 -   [!include[pn-import-tool](../includes/pn-import-tool.md)]: Your PC must be running the [Windows 10 April 2018
-    Update](https://support.microsoft.com/en-us/help/4028685).
+    Update](https://support.microsoft.com/help/4028685).
 
 [Learn more about device options and technical requirements.](requirements.md)
 
@@ -108,7 +108,7 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 ## How do I import AutoCAD models?
 
 
-You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your models to [!include[cc-microsoft](../includes/cc-microsoft.md)] to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about the Import Tool](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool).
+You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your models to [!include[cc-microsoft](../includes/cc-microsoft.md)] to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about the Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool).
 
 ## How does the Import Tool process my 3D models?
 
