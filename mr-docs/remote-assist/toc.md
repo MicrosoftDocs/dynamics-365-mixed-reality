@@ -5,7 +5,7 @@
 ## [Buy and deploy Remote Assist](buy-and-deploy-remote-assist.md)
 ## [Set up cross-company calling (for admins)](cross-company-calling.md)
 ## [HoloLens user guide](user-guide.md)
-## [Mobile app user guide](mobile-app.md)
+## [Mobile app user guide](mobile-app/index.md)
 ## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
 ## [Troubleshoot Field Service integration](troubleshoot-field-service.md)
 ## [How-to videos](videos.md)

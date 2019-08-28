@@ -1,0 +1,9 @@
+{
+    "redirections": [
+      {
+        "source_path": "mr-docs/remote-assist/mobile-app.md",
+        "redirect_url": "mobile-app/index",
+        "redirect_document_id": "false"
+      }
+    ]
+}
