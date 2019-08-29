@@ -317,8 +317,7 @@ To navigate in a PDF file:
 
 ### Take a snapshot of your annotations
 
-During a call, you can take a photo of your mixed reality annotations to save
-for later.
+During a call, you can take a photo of your mixed reality annotations. When you take a photo, a link to the photo is automatically shared through text chat so you can easily refer to it in the call. Or you can save it for work validation or inspection records.
 
 To take a snapshot:
 
