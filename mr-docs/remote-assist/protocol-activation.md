@@ -66,7 +66,7 @@ An additional "returnto" field can be included to have Remote Assist return to y
 
 To support the "returnto" field, you need to register your app with a custom URI (see [Register an app with a custom URI](<https://docs.microsoft.com/en-us/windows/uwp/launch-resume/handle-uri-activation#step-1-specify-the-extension-point-in-the-package-manifest>)).
 
-Then include the optional "returnto" field along with the registered app name you completed in the previous step. In the example below, "helicoptor-maintenance-app" is the registered URI.
+Then include the optional "returnto" field along with the registered app name you completed in the previous step. In the example below, "helicoptor-maintenance-app" is the registered URI:
 
 `
 ms-voip-call:?contactids=<CONTACT_ID>&returnto=helicoptor-maintenance-app");
