@@ -323,7 +323,7 @@ To take a snapshot:
 
 -   Select **Camera** ![Camera](media/cameraicon3.png "Camera") (or say “Camera”), and then air tap (or say “Snap”) to take the photo.
 
->   The photo will be saved to your [!include[pn-hololens](../includes/pn-hololens.md)] camera roll.
+>   The photo is saved to your [!include[pn-hololens](../includes/pn-hololens.md)] camera roll and shared as a link in text chat.
 
 ## Make changes
 
