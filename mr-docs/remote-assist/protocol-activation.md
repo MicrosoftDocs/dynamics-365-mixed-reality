@@ -62,7 +62,7 @@ To place an audio-only call instead of video, use URI: “ms-voip-call:?contacti
 
 ## Return to your app at the end of a call
 
-An additional "returnto" field can be included to have Remote Assist return to your application when a call ends. This enables users to both start and end their experience in your app without having to manually switch between them.
+An additional "returnto" field can be included to have Dynamics 365 Remote Assist return to your application when a call ends. This enables users to both start and end their experience in your app without having to manually switch between them.
 
 To support the "returnto" field, you need to register your app with a custom URI (see [Register an app with a custom URI](<https://docs.microsoft.com/en-us/windows/uwp/launch-resume/handle-uri-activation#step-1-specify-the-extension-point-in-the-package-manifest>)).
 
@@ -72,7 +72,7 @@ Then include the optional "returnto" field along with the registered app name yo
 ms-voip-call:?contactids=<CONTACT_ID>&returnto=helicoptor-maintenance-app");
 `
 
-### Example of launching Remote Assist from your app with optional returnto field
+### Example of launching Dynamics 365 Remote Assist from your app with optional returnto field
 
 The following code example is written in C++, but can be easily adapted to another language.
 
