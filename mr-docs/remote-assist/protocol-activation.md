@@ -2,7 +2,7 @@
 author: jevertt
 description: Launch Dynamics 365 Remote Assist from another app (protocol activation)
 ms.author: jevertt
-ms.date: 09/21/2018
+ms.date: 09/03/2019
 ms.service: crm-online
 ms.topic: article
 title: Launch Dynamics 365 Remote Assist from another app
@@ -12,6 +12,7 @@ ms.reviewer: v-brycho
 # Launch Dynamics 365 Remote Assist from another app (protocol activation)
 
 You can embed code in your [!include[pn-hololens](../includes/pn-hololens.md)] application to switch to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and begin a call using a Uniform Resource Identifier (URI).
+
 For example, let’s say you’re creating a helicopter maintenance app. You can add
 a button that a maintenance engineer can use to call an expert if they get
 stuck. The button will launch [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and call the designated expert.
@@ -31,9 +32,9 @@ ms-voip-video:?contactids=\<contactID\>
 
 The contact ID is the user’s [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) object ID.
 
-## Code sample
+## Code example
 
-You’ll need to embed the code in your [!include[pn-hololens](../includes/pn-hololens.md)] app. The following code sample is
+You’ll need to embed the code in your [!include[pn-hololens](../includes/pn-hololens.md)] app. The following code example is
 written in C++, but can be easily adapted to another language.
 
 ```
@@ -58,6 +59,43 @@ launchUriOperation.then([this](bool success)   
 ```
 
 To place an audio-only call instead of video, use URI: “ms-voip-call:?contactids=”
+
+## Return to your app at the end of a call
+
+An additional "returnto" field can be included to have Dynamics 365 Remote Assist return to your application when a call ends. This enables users to both start and end their experience in your app without having to manually switch between them.
+
+To support the "returnto" field, you need to register your app with a custom URI (see [Register an app with a custom URI](<https://docs.microsoft.com/en-us/windows/uwp/launch-resume/handle-uri-activation#step-1-specify-the-extension-point-in-the-package-manifest>)).
+
+Then include the optional "returnto" field along with the registered app name you completed in the previous step. In the example below, "helicoptor-maintenance-app" is the registered URI:
+
+`
+ms-voip-call:?contactids=<CONTACT_ID>&returnto=helicoptor-maintenance-app");
+`
+
+### Example of launching Dynamics 365 Remote Assist from your app with optional returnto field
+
+The following code example is written in C++, but can be easily adapted to another language.
+
+```
+Platform::String^ id = objectId->Text;
+auto uri = ref new Windows::Foundation::Uri("ms-voip-video:?contactids=" + id + &returnto=helicoptor-maintenance-app");
+resultText->Text = uri->AbsoluteUri; 
+
+concurrency::task<bool> launchUriOperation(Windows::System::Launcher::LaunchUriAsync(uri));
+launchUriOperation.then([this](bool success)   
+{         
+    if (success)         
+    {             
+        // URI launched  
+        resultText->Text += " (URI Launched)"; 
+    } 
+    else         
+    {             
+        // URI launch failed             
+        resultText->Text += " (FAILED)";
+    }     
+});  
+```
 
 ## Place a call to test your code
 

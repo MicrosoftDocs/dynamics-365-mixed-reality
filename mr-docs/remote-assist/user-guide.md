@@ -317,14 +317,13 @@ To navigate in a PDF file:
 
 ### Take a snapshot of your annotations
 
-During a call, you can take a photo of your mixed reality annotations to save
-for later.
+During a call, you can take a photo of your mixed reality annotations. When you take a photo, a link to the photo is automatically shared through text chat so you can easily refer to it in the call. Or you can save it for work validation or inspection records.
 
 To take a snapshot:
 
 -   Select **Camera** ![Camera](media/cameraicon3.png "Camera") (or say “Camera”), and then air tap (or say “Snap”) to take the photo.
 
->   The photo will be saved to your [!include[pn-hololens](../includes/pn-hololens.md)] camera roll.
+>   The photo is saved to your [!include[pn-hololens](../includes/pn-hololens.md)] camera roll and shared as a link in text chat.
 
 ## Make changes
 
