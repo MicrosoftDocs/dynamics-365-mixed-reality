@@ -17,7 +17,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > The next release planned for October will require all customers to do a mandatory update of the Dynamics 365 Guides apps and solution. Please work with your IT admin to plan downtime for this update.
 
 ### August 27, 2019
-[!include[pn-hololens](../includes/pn-hololens.md)] app version 104.1908.24001 and solution version 104.1908.0.117 includes the following updates:
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1908.24001 and solution version 104.1908.0.117 includes the following updates:
 
 - **Accessibility enhancements.** The PC application offers better color contrast and support for high-contrast mode for visually impaired users. Use the keyboard to tab through the user interface while using Narrator to read various authoring options. In preview mode, you can manipulate 3D models using the keyboard.
 
