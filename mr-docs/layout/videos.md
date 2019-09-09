@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Watch these short videos to get up and running with [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-Looking for more help? Check out our [user guide](user-guide.md).
+Looking for more help? Check out our [User guide](user-guide.md).
 
 ## Dynamics 365 Layout for HoloLens
 

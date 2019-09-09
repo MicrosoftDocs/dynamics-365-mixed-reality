@@ -2,7 +2,7 @@
 author: drpusey
 description: Dynamics 365 Remote Assist User guide (for HoloLens)
 ms.author: drpusey
-ms.date: 06/24/2019
+ms.date: 06/19/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist User guide (for HoloLens)
@@ -84,6 +84,10 @@ How you make a call depends on whether you're calling a contact in your company 
 
 When your contact answers the call in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)], they’ll be able to see
 what you see in your space—including holograms.
+
+> [!NOTE]
+> Dynamic audio adjusts the volume level based on ambient noise in the
+room so you can hear even if you're working in a loud environment.
 
 ### Make a call to a contact outside your company
 
