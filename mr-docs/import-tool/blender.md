@@ -139,4 +139,62 @@ To start the process:
 
     SCREENSHOT GOES HERE: blender-duplicate-object
     
+ ### Prepare materials for texture baking
+ 
+ 1.	Select the duplicate model, and then go to the materials panel by selecting the Materials tab in the menu on the bottom right. SCREEN SHOT GOES HERE: blender-materials-tab
+ 
+SCREENSHOT GOES HERE: blender-materials-tab-full-screen
+
+2.	Delete all the materials for the duplicate 3D model by selecting the minus sign to the right of the materials  SCREEN SHOT GOES HERE: blender-minus-sign. 
+
+SCREENSHOT GOES HERE: blender-minus-sign-full-screen
+
+3.	To hide the original 3D model and show just the duplicate, select the eye to the right of the original 3D model’s name. Notice that there are no materials on the duplicate 3D model.
+
+    SCREENSHOT GOES HERE: blender-select-eye
+
+4.	Select the plus sign in the materials panel to add a new material to the duplicate.
+
+    SCREENSHOT GOES HERE: blender-plus-sign
+    
+5.	Select **New** to add a new material to the material slot.
+
+    SCREENSHOT GOES HERE: blender-new
+    
+6. Hover your mouse over the viewport (main window where the 3D model is shown), press tab to enter **Edit Mode**, press "**a**" to select all, and then select **Assign** from the **Materials** tab SCREEN SHOT GOES HERE: blender-materials-tab.
+
+    SCREENSHOT GOES HERE: blender-assign
+    
+7.	Select the icon to the left of **Object Mode** SCREEN SHOT blender-object-mode and select **Image Editor**.   
+
+    SCREENSHOT GOES HERE: blender-image-editor
+    
+8.	Create a new image (select **Add > Image > New**).
+
+    SCREENSHOT GOES HERE: blender-add-image-new
+    
+9. Save the new image as **My_Texture** or similar name that’s easy to remember, and set the width and height to 1024 px by 1024 px. Leave all other options default. 
+
+    SCREENSHOT GOES HERE: blender-my-texture
+    
+10.	Select the icon to the left of **View** and go to the **Shader Editor** SCREEN SHOT GOES HERE: blender-shader-editor.
+
+    SCREENSHOT GOES HERE: blender-shader-editor-full-screen
+
+11.	With your duplicate 3D model selected, select **Add > Texture > Image Texture**. Click to place the image texture node in the window.
+
+    SCREENSHOT GOES HERE: blender-image-texture
+    
+12.	Drag the yellow node link (the yellow dot) labeled **Color** in the image texture window to the **Base Color** yellow node on the **Principled BSDF** node to connect them.
+
+    SCREENSHOT GOES HERE: blender-principled-bsdf
+    
+13.	In the drop-down menu on the image texture node SCREEN SHOT GOES HERE: blender-image-texture-node, find the texture you just created and select it.
+
+    SCREENSHOT GOES HERE: blender-image-texture-2
+    
+14.	Select **3D Viewport** at the top left to go to the **3D Viewport** menu.
+
+
+
     
