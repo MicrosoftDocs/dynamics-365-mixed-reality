@@ -79,3 +79,64 @@ The overall steps we’ll cover for optimizing in Blender include:
       
       SCREENSHOT GOES HERE: blender-tris-count
       
+### Decimate the model
+
+To reach application-specific performance goals, we need to decimate the model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. There is a reduction in visual fidelity when doing this, but also an increase in performance. The example images below shows a high fidelity model that can be used when you are viewing one or two 3D models at a time on HoloLens, and a low-quality 3D used model used when you are viewing Ten or more models at a time on HoloLens.
+
+SCREENSHOT GOES HERE: blender-decimation
+
+To decimate a model:
+
+1.	Select your 3D model and go to the **Modifiers** menu SCREEN SHOT: blender-wrench-tool  on the right hand tool column.
+
+2.	On the **Modifiers** menu, in the **Add Modifier** drop-down list, select **Decimate**.
+
+SCREENSHOT GOES HERE: blender-add-modifier-decimate
+
+3.	With your model selected, change the **Ratio** value to a number between 0.0-1.0. This will determine the percentage of polygons (triangles) that are removed. For example, a value of 0.5 reduces the original polygon count to 50%. You’ll see the **Tris** value in the bottom right of the Blender window decrease as you change the ratio. When the number reaches a value that matches your performance goal and looks good, select **Apply**.
+
+SCREENSHOT GOES HERE: blender-ratio
+
+### UV unwrapping
+
+A good way to visualize UV unwrapping is to imagine cutting out every surface of your 3d model and placing those surfaces flat on a piece of paper. The U and V dimensions represent the vertical and horizontal axes of this piece of paper in the same way that X, Y, and Z represent the three-dimensional axes of a 3d model. The advantage of unwrapping the UVs is to allow us to paint the flattened pieces with the material colors of the 3d model. This painted paper is called a texture, and it’s later wrapped back on top of the 3d model, giving it the illusion of being made from different colored pieces, when it’s actually one item with a colorful texture wrapped around it. This process is called texture baking, which we’ll go into later. You may skip this step if your model has only one color. 
+
+> [!TIP]
+> Enter **Edit Mode** by selecting the mode dropdown in the upper left corner, or press the **Tab** key. Pressing **Tab** while already in **Edit Mode** will bring you back into **Object Mode**. 
+
+SCREENSHOT GOES HERE: blender-object-mode
+
+To start the process:
+
+1.	Select the model, hover the mouse over the main menu, press **Tab** to enter **Edit Mode**, press **“a”** to select all, and then select **Smart UV Project** from the **UV** drop-down menu.
+
+    SCREENSHOT GOES HERE: blender-UV
+
+2.	Keep the default settings for the properties, and then select **OK**.
+
+    SCREENSHOT GOES HERE: blender-default-settings
+    
+3.	Make sure that you’re in **Edit Mode** (tab), and that the entire model is still selected (a-key). You can tell the entire model is selected because it will be orange. 
+
+4.	Select the **UV Editor** menu (or press Shift+F10).
+  
+    SCREENSHOT GOES HERE: blender-UV-editor
+    
+5.	On the **UV** tab, select **Pack Islands**.
+
+    SCREENSHOT GOES HERE: blender-pack-islands
+    
+    The outlined pieces are reorganized to represent the surface of the model as efficiently as possible. After packing the islands, the UVs will look like this:
+    
+    SCREENSHOT GOES HERE: blender-pack-islands-after
+    
+6.	For our next step, we’ll need a duplicate of our mesh.  This will be the mesh that our texture gets “baked” to in a later section.
+    a.	To make a copy of the 3d model:
+        i.	Click the model with the left mouse button to select it
+        ii.	Right-click the 3D model to open the menu
+        iii.	Select “Duplicate Objects”
+        iv.	Press “Space Bar”
+
+    SCREENSHOT GOES HERE: blender-duplicate-object
+    
+    
