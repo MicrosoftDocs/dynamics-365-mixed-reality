@@ -195,6 +195,63 @@ SCREENSHOT GOES HERE: blender-minus-sign-full-screen
     
 14.	Select **3D Viewport** at the top left to go to the **3D Viewport** menu.
 
+### Bake the materials into the texture
 
+Now that we have the texture and material set up on the duplicate 3d model, we’re ready to bake the materials from our original 3d model onto that texture. That texture will be wrapped around our duplicate 3d model, giving us a higher performing 3d model with the colors of the original.
+
+1.	Go to the **Render** tab SCREEN SHOT GOES HERE: blender-render-tab.
+
+2.	Select **Cycles** as the render engine.
+
+3.	In the **Bake** drop-down menu, set **Bake type** to **Diffuse**.
+
+4.	Clear the buttons for **Direct** and **Indirect**.
+
+5.	Select the original 3d model, and then hold the shift key and select the duplicate 3d model.
+
+6.	Select the **Selected to Active** check box.
+
+7.	Add a **Ray Distance** value. Start with .01 and increase if the result is missing patches of color.
+
+8.	Select **Bake**.
+
+    SCREENSHOT GOES HERE: blender-bake
+    
+    The duplicate 3d model will now have the same coloring as the original, but with only one material instead of several. This can significantly reduce draw calls and increase performance.  
+    
+    To confirm that your bake was successful, you can select the eye icon SCREEN SHOT GOES HERE: blender-eye-icon next to your original model to hide it. Now only the duplicate with one material and texture is visible.
+    
+    SCREENSHOT GOES HERE: blender-eye-icon-full-screen
+    
+### Export the model to a GLB file
+
+In this step, we’ll export the model to a GLB file so it can be used with Dynamics 365 mixed reality apps.
+
+1.	In Blender, select **File > Export > glTF 2.0**.
+
+    SCREENSHOT GOES HERE: blender-export
+    
+2. In the **Export** menu, make sure that the GLB format is selected and that the **Selected Objects** check box is selected. Name your file and select **glTF 2.0 (.glb/.gltf)**.
+
+    SCREENSHOT GOES HERE: blender-gltf    
+
+### Viewing a 3D model in mixed reality
+
+Now that you have prepared your 3d models, you can learn more about using the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality here:
+
+[Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)
+
+[Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+
+[Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/index) via the [Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+
+#### More information
+
+Several screenshots in this document were taken from the Blender software program in order to provide clear instructions on how to use Blender’s software.  More information about Blender can be found here: [Blender Foundation](https://www.blender.org/)
+
+The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Blender, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
+The license terms of the Blender website is found below: [Creative Commons Attribution ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/)
+
+The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation.
 
     
