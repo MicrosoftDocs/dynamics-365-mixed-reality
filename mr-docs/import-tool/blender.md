@@ -53,7 +53,7 @@ The overall steps we’ll cover for optimizing in Blender include:
  
 3.	Go to **File > Import > Wavefront (.obj)** to import your OBJ. 
 
-    ![Clear checkboxes](media/blender-clear-checkboxes.PNG "Clear checkboxes")
+    ![File import](media/blender-clear-checkboxes.PNG "File import")
 
 4.	In the **Import OBJ** screen:
 
