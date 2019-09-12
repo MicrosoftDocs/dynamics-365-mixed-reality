@@ -43,7 +43,7 @@ The overall steps we’ll cover for optimizing in Blender include:
 
 6.	Export the model.
 
-### Import the model into Blender
+## Import the model into Blender
 
 1.	Open Blender 2.8. A new scene will automatically be created.
 
@@ -79,7 +79,7 @@ The overall steps we’ll cover for optimizing in Blender include:
       
       ![Tris count](media/blender-tris-count.PNG "Tris count")
       
-### Decimate the model
+## Decimate the model
 
 To reach application-specific performance goals, we need to decimate the model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. There is a reduction in visual fidelity when doing this, but also an increase in performance. The example images below shows a high fidelity model that can be used when you are viewing one or two 3D models at a time on HoloLens, and a low-quality 3D used model used when you are viewing Ten or more models at a time on HoloLens.
 
@@ -97,7 +97,7 @@ SCREENSHOT GOES HERE: blender-add-modifier-decimate
 
 SCREENSHOT GOES HERE: blender-ratio
 
-### UV unwrapping
+## UV unwrapping
 
 A good way to visualize UV unwrapping is to imagine cutting out every surface of your 3d model and placing those surfaces flat on a piece of paper. The U and V dimensions represent the vertical and horizontal axes of this piece of paper in the same way that X, Y, and Z represent the three-dimensional axes of a 3d model. The advantage of unwrapping the UVs is to allow us to paint the flattened pieces with the material colors of the 3d model. This painted paper is called a texture, and it’s later wrapped back on top of the 3d model, giving it the illusion of being made from different colored pieces, when it’s actually one item with a colorful texture wrapped around it. This process is called texture baking, which we’ll go into later. You may skip this step if your model has only one color. 
 
@@ -139,7 +139,7 @@ To start the process:
 
     SCREENSHOT GOES HERE: blender-duplicate-object
     
- ### Prepare materials for texture baking
+ ## Prepare materials for texture baking
  
  1.	Select the duplicate model, and then go to the materials panel by selecting the Materials tab in the menu on the bottom right. SCREEN SHOT GOES HERE: blender-materials-tab
  
@@ -195,7 +195,7 @@ SCREENSHOT GOES HERE: blender-minus-sign-full-screen
     
 14.	Select **3D Viewport** at the top left to go to the **3D Viewport** menu.
 
-### Bake the materials into the texture
+## Bake the materials into the texture
 
 Now that we have the texture and material set up on the duplicate 3d model, we’re ready to bake the materials from our original 3d model onto that texture. That texture will be wrapped around our duplicate 3d model, giving us a higher performing 3d model with the colors of the original.
 
@@ -223,7 +223,7 @@ Now that we have the texture and material set up on the duplicate 3d model, we�
     
     SCREENSHOT GOES HERE: blender-eye-icon-full-screen
     
-### Export the model to a GLB file
+## Export the model to a GLB file
 
 In this step, we’ll export the model to a GLB file so it can be used with Dynamics 365 mixed reality apps.
 
@@ -235,7 +235,7 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
     SCREENSHOT GOES HERE: blender-gltf    
 
-### Viewing a 3D model in mixed reality
+## View a 3D model in mixed reality
 
 Now that you have prepared your 3d models, you can learn more about using the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality here:
 
@@ -245,7 +245,7 @@ Now that you have prepared your 3d models, you can learn more about using the fo
 
 [Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/index) via the [Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
-#### More information
+## More information
 
 Several screenshots in this document were taken from the Blender software program in order to provide clear instructions on how to use Blender’s software.  More information about Blender can be found here: [Blender Foundation](https://www.blender.org/)
 
