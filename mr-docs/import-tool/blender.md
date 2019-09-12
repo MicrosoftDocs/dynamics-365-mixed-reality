@@ -53,15 +53,17 @@ The overall steps we’ll cover for optimizing in Blender include:
  
 3.	Go to **File > Import > Wavefront (.obj)** to import your OBJ. 
 
+    ![Clear checkboxes](media/blender-clear-checkboxes.PNG "Clear checkboxes")
+
 4.	In the **Import OBJ** screen:
 
     a. Make sure to clear the **Object** and **Group** check boxes and select the **Image Search** check box.
 
-      ![Clear checkboxes](media/blender-clear-checkboxes.PNG "Clear checkboxes")
+      ![Image search](media/blender-import-obj.PNG "Image search")
         
     b. Select **Import OBJ** on the right side of the screen. This will import the 3D model as one item and search in the sub folder for any materials.
 
-      ![Import object](media/blender-import-obj.PNG "Import object")
+      ![Import object](media/blender-import-obj-2.PNG "Import object")
       
       > [!TIP]
       > If your 3D model is extremely large or small, hard to see, and possibly off screen, you can use the middle mouse wheel to zoom the camera in or out until it’s visible.
