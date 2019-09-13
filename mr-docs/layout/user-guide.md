@@ -40,7 +40,7 @@ Need more help? [Check out the Dynamics 365 Layout FAQ](faq.md) for answers to c
 
 ## Install the apps
 
-How you install [!include[pn-layout](../includes/pn-layout.md)] and the [!include[pn-import-tool](../includes/pn-import-tool.md)] depends on how your administrator
+How you install [!include[pn-layout](../includes/pn-layout.md)] and the [!include[pn-dyn-365-import-tool](../includes/pn-import-tool.md)] depends on how your administrator
 chooses to distribute the apps. Your admin might have you install the app from the
 [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers, from your organization’s private store, through
 an email link, or with another method. 
@@ -52,7 +52,7 @@ public store.
 |-------------|-----------------------|---------------------------------------------|-------------------------------------|
 | [!include[pn-layout](../includes/pn-layout.md)]      | [!include[pn-hololens](../includes/pn-hololens.md)]              | <ul><li>Create layouts by scanning your surroundings. </li><li>Place models in your layouts. </li></ul>     | On your [!include[pn-hololens](../includes/pn-hololens.md)], go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br>    |
 | [!include[pn-layout](../includes/pn-layout.md)]      | Mixed reality headset |<ul><li>Place models in layouts imported from [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)]. </ul>| 1. On your PC go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]," and then [install the app](https://www.microsoft.com/store/apps/9N20MQ2V3XCW). <br> 2. Connect your mixed reality headset to the PC, and find the app on the mixed reality **Start** menu. <br>   |
-| [!include[pn-import-tool](../includes/pn-import-tool.md)] | PC                    | <ul><li>Transfer floor plans from [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)] to [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality.</li><li>Transfer layouts between [!include[pn-hololens](../includes/pn-hololens.md)] and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality. </li><li>Process 3D models for use on [!include[pn-hololens](../includes/pn-hololens.md)]. </ul>| On your PC, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX). <br>    |
+| [!include[pn-dyn-365-import-tool](../includes/pn-import-tool.md)] | PC                    | <ul><li>Transfer floor plans from [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)] to [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality.</li><li>Transfer layouts between [!include[pn-hololens](../includes/pn-hololens.md)] and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality. </li><li>Process 3D models for use on [!include[pn-hololens](../includes/pn-hololens.md)]. </ul>| On your PC, go to **Start** ![Start](media/d2a2ae5e90bdd0e0642abb5458af1016.png "Start") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Microsoft Store](media/2ac602b5a7855d312f3e7d924732acca.png "Microsoft Store"), search for “[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]," and then [install the app](https://www.microsoft.com/store/apps/9NBF1CGB7KHX). <br>    |
 
 ## Get started with Dynamics 365 Layout: take advantage of learning tools
 
@@ -99,7 +99,7 @@ There are two ways to create a layout:
 
 **Step 1: Download and install the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)]**
 
-1.  Open the [!include[pn-import-tool](../includes/pn-import-tool.md)].
+1.  Open the [!include[pn-dyn-365-import-tool](../includes/pn-import-tool.md)].
 
 2.  Select **About**, and then select the 32-bit or the 64-bit download (choose
     the one that matches your version of [!include[pn-visio](../includes/pn-visio.md)]).
@@ -118,9 +118,9 @@ There are two ways to create a layout:
 -   When the floor plan is ready, select the **[!include[pn-layout](../includes/pn-layout.md)]** tab, select **Export**,
     and then save your floor plan.
 
-**Step 3: Import your floor plan using the [!include[pn-import-tool](../includes/pn-import-tool.md)]**
+**Step 3: Import your floor plan using the [!include[pn-dyn-365-import-tool](../includes/pn-import-tool.md)]**
 
-1.  In the [!include[pn-import-tool](../includes/pn-import-tool.md)], select **This PC** \> **Add layout**, and then navigate
+1.  In the [!include[pn-dyn-365-import-tool](../includes/pn-import-tool.md)], select **This PC** \> **Add layout**, and then navigate
     to the floor plan.
 
 2.  Select the floor plan, and then select **Open**.
@@ -132,7 +132,7 @@ To use the layout on [!include[pn-hololens](../includes/pn-hololens.md)], you’
 
 1.  Connect your [!include[pn-hololens](../includes/pn-hololens.md)] to your PC using the USB cable.
 
-2.  Open the [!include[pn-import-tool](../includes/pn-import-tool.md)] on the PC, and then select **This PC** \> **Layouts**.
+2.  Open the [!include[pn-dyn-365-import-tool](../includes/pn-import-tool.md)] on the PC, and then select **This PC** \> **Layouts**.
 
 3.  Select the check box on the layouts you want to copy, and then select
     **Send**.
@@ -155,7 +155,7 @@ headset: 
 
 1.  Connect the [!include[pn-hololens](../includes/pn-hololens.md)] to the PC using the USB cable.
 
-2.  Open the [!include[pn-import-tool](../includes/pn-import-tool.md)], and then select the [!include[pn-hololens](../includes/pn-hololens.md)] name.
+2.  Open the [!include[pn-dyn-365-import-tool](../includes/pn-import-tool.md)], and then select the [!include[pn-hololens](../includes/pn-hololens.md)] name.
 
 3.  Select the check box on the layout you want to send to your PC, and then
     select **Send**.
