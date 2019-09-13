@@ -32,5 +32,5 @@ the [!include[pn-layout](../includes/pn-layout.md)] [!include[pn-HoloLens](../in
 ### See also
 
 [Overview of Dynamics 365 Layout](index.md)<br>
-[Dynamics 365 Layout User Guide](user-guide.md)<br>
+[Dynamics 365 Layout user guide](user-guide.md)<br>
 [Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)
