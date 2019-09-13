@@ -61,16 +61,19 @@ sign in to the apps.
 
 [!include[pn-layout](../includes/pn-layout.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
-
 ## Can I use the HoloLens clicker with Dynamics 365 Layout?
 
 You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)] but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
 
 ## Do I need to be connected to Wi-Fi to use Dynamics 365 Layout?
 
-If you want to convert 3D models using the [!include[pn-import-tool](../includes/pn-import-tool.md)], you’ll need a Wi-Fi
-connection if you use the cloud service option. If you choose to convert files
-using the PC option, you don’t need a Wi-Fi connection.
+[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] requires users to be logged in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
+
+Based on the method that users choose to import models, Wi-Fi connectivity requirements vary:
+
+- **Import using this PC**. When users choose this option to import models, a Wi-Fi connection is not required.
+
+- **Send my model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**. When users choose this option to import models, a Wi-Fi connection is required. To understand how your models are processed by [!include[cc-microsoft](../includes/cc-microsoft.md)], see [What happens to my model when I send it to Microsoft?](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool#what-happens-to-my-model-when-i-send-it-to-microsoft). 
 
 ## Can I change the unit of measure in Dynamics 365 Layout to metric?
 
@@ -107,13 +110,11 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 ## How do I import AutoCAD models?
 
-
 You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your models to [!include[cc-microsoft](../includes/cc-microsoft.md)] to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about the Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool).
 
 ## How does the Import Tool process my 3D models?
 
 If you send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for conversion and optimization, it’s uploaded to a secure location. [!include[cc-microsoft](../includes/cc-microsoft.md)] prepares the model using a combination of automated and manual steps. [!include[cc-microsoft](../includes/cc-microsoft.md)] provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
-
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
