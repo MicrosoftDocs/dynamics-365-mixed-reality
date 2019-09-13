@@ -23,7 +23,6 @@ If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-la
 
 ## How can I tell which version I'm using?
 
-
 To see the version number for [!include[pn-layout](../includes/pn-layout.md)], go to **Settings** > **About**.
 
 To see the version number for [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], go to **Settings**, and then look in the **About** section.
@@ -33,7 +32,6 @@ To see the version number for [!include[pn-dyn-365-import-tool](../includes/pn-d
 No, you can use each app separately, though they do work together as well. If you want to copy 3D models or layouts from your PC to your [!include[pn-hololens](../includes/pn-hololens.md)] 
 or to [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality, you’ll need the 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
-
 
 ## What are the technical requirements for running the Dynamics 365 Layout apps?
 
@@ -67,13 +65,7 @@ You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with
 
 ## Do I need to be connected to Wi-Fi to use Dynamics 365 Layout?
 
-[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] requires users to be logged in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
-
-Based on the method that users choose to import models, Wi-Fi connectivity requirements vary:
-
-- **Import using this PC**. When users choose this option to import models, a Wi-Fi connection is not required.
-
-- **Send my model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**. When users choose this option to import models, a Wi-Fi connection is required. To understand how your models are processed by [!include[cc-microsoft](../includes/cc-microsoft.md)], see [What happens to my model when I send it to Microsoft?](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool#what-happens-to-my-model-when-i-send-it-to-microsoft). 
+[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] requires users to be logged in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
 
 ## Can I change the unit of measure in Dynamics 365 Layout to metric?
 
