@@ -139,9 +139,9 @@ You can provide feedback on the quality of processed 3D models if you're not sat
     > [!NOTE] 
     > You can't update feedback after you submit it.
 
-## Do I need to be connected to Wi-Fi to use Dynamics 365 Layout?
+## Do I need to be connected to Wi-Fi to use Dynamics 365 Import Tool (Preview)?
 
-[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] requires users to be logged in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
+[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] requires users to be logged in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
 
 In addition to the above, Wi-Fi connectivity requirements depend on the method that users choose to import models:
 
