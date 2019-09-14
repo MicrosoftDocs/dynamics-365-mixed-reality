@@ -16,7 +16,7 @@ ms.reviewer: v-brycho
 Microsoft Dynamics 365 Product Visualize requires an active Dynamics 365 for Sales instance that's associated with a Microsoft SharePoint site. This topic provides step-by-step procedures for setting up a new Dynamics 365 for Sales trial instance. Once the instance is running, see the [Administrator Guide](admin-guide.md) for instructions on adding users, products, opportunities, and models.
 
 ## Create a new organization
-The first thing you need to do is create a new Azure Active Directory organization. This new organization provides a safe environment to try out Product Visualize that won't interfere with any existing Dynamics 365 instances. You can also use this organization to create and manage users, separate from your business organization.
+The first thing you need to do is create a new Azure Active Directory organization. This new organization provides a safe environment to try out Dynamics 365 Product Visualize that won't interfere with any existing Dynamics 365 instances. You can also use this organization to create and manage users, separate from your business organization.
 
    > [!NOTE]
    > If you prefer to add Dynamics 365 for Sales to an existing Azure Active Directory, skip ahead to **Add a Dynamics 365 for Customer Engagement trial.**
@@ -62,7 +62,7 @@ After creating the new organization, the next step is to add an admin user for t
 
 ## Add a Dynamics 365 for Customer Engagement trial
 
-Product Visualize integrates directly into Dynamics 365 for Sales, which enables your salespeople to seamlessly transition from vital customer data into an engaging sales experience that changes the way customers think about your products.
+Dynamics 365 Product Visualize integrates directly into Dynamics 365 for Sales, which enables your salespeople to seamlessly transition from vital customer data into an engaging sales experience that changes the way customers think about your products.
 
 1. In a private browser window, go to the Microsoft 365 admin center at [https://admin.microsoft.com](https://admin.microsoft.com).
 
