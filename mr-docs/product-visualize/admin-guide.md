@@ -25,7 +25,7 @@ After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 
 
 - Add opportunities.
 
-- Install the Product Visualize solution.
+- Install the Dynamics 365 Product Visualize solution.
 
 - Set up Microsoft Teams.
 
@@ -33,7 +33,7 @@ The following topics provide step-by-step procedures for all of the above.
 
 ## Set up a user group
 
-You can use Office 365 Groups to choose a set of people to collaborate with and to set up a collection of shared resources. Providing access to the group saves time because that way, you don't have to provide individual SharePoint permissions. The group needs to have read/write permissions to the SharePoint site to make full use of Product Visualize.
+You can use Office 365 Groups to choose a set of people to collaborate with and to set up a collection of shared resources. Providing access to the group saves time because that way, you don't have to provide individual SharePoint permissions. The group needs to have read/write permissions to the SharePoint site to make full use of Dynamics 365 Product Visualize.
 
 ### Create a user group
 
@@ -228,9 +228,9 @@ Presenting complicated products to a customer with traditional 2D materials is u
 physical 3D models is time-consuming and costly. Product Visualize simplifies the entire process by bringing 3D digital 
 models into the real world. 
 
-Product Visualize makes use of the widely available GL Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and exporting tools exist to convert many other formats to glTF. The GLB format is the binary version of .glTF version 2.0, which can include textures. 
+Dynamics 365 Product Visualize makes use of the widely available GL Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and exporting tools exist to convert many other formats to glTF. The GLB format is the binary version of .glTF version 2.0, which can include textures. 
 
-This section provides step-by-step instructions for adding a model and thumbnail image to Product Visualize.
+This section provides step-by-step instructions for adding a model and thumbnail image to Dynamics 365 Product Visualize.
 
 ### Add a model
 
@@ -246,16 +246,16 @@ This section provides step-by-step instructions for adding a model and thumbnail
 
 4. In the **Open Location** drop-down list, select **Documents on Default Site 1** to open the SharePoint location outside of Dynamics 365.
 
-5. Drag and drop your model file (as a GLB file) into this location. It will automatically show up in Product Visualize.
+5. Drag and drop your model file (as a GLB file) into this location. It will automatically show up in Dynamics 365 Product Visualize.
 
     > [!NOTE]
     > SharePoint folders are created when you first visit the Documents folder using a Dynamics 365 app. If the folder for a product doesn't exist yet, return to the Sales Hub and open the product's document location from there. After it's created, you can access it through SharePoint.
 
-6. Optional: SharePoint automatically provides a thumbnail for Product Visualize. However, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb"
+6. Optional: SharePoint automatically provides a thumbnail for Dynamics 365 Product Visualize. However, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb"
 
 ## Add opportunities
 
-Opportunities represent a chance to sell your products to a customer. They capture a customer's needs, budget, and timeline, in addition to the list of products the customer is interested in buying. Sales people can view their open opportunities directly from the Product Visualize app, but they must be added through the Sales Hub interface.
+Opportunities represent a chance to sell your products to a customer. They capture a customer's needs, budget, and timeline, in addition to the list of products the customer is interested in buying. Sales people can view their open opportunities directly from the Dynamics 365 Product Visualize app, but they must be added through the Sales Hub interface.
 
 ### Add an opportunity
 
@@ -290,15 +290,15 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 12. Select **Save and Close**.
 
-## Install the Product Visualize Solution
+## Install the Dynamics 365 Product Visualize Solution
 
-The Product Visualize solution is a package that customizes your Dynamics 365 installation in order to support Product Visualize.
+The Dynamics 365 Product Visualize solution is a package that customizes your Dynamics 365 installation in order to support Dynamics 365 Product Visualize.
 
-### Import the Product Visualize solution
+### Import the Dynamics 365 Product Visualize solution
 
-1. [Download the **Product Visualize** solution](http://download.microsoft.com/download/F/D/E/FDEE4BA0-F7E5-4FBD-80C1-E670F9F397BA/ProductVisualize.Solution.zip).
+1. [Download the **Dynamics 365 Product Visualize** solution](http://download.microsoft.com/download/F/D/E/FDEE4BA0-F7E5-4FBD-80C1-E670F9F397BA/ProductVisualize.Solution.zip).
 
-2. Go to the Dynamics 365 for Sales Hub.
+2. Go to the Dynamics 365 Sales Hub.
 
 2. Select the **Settings** button, and then select **Advanced Settings**.
 
@@ -323,9 +323,9 @@ The Product Visualize solution is a package that customizes your Dynamics 365 in
 
 ### Customize the Opportunity page
 
-The Product Visualize solution also contains an optional enhancement (a control) that allows salespeople to open the Product Visualize app directly from Dynamics 365 for Sales on their mobile devices. The control is lightweight and can easily be updated or removed.
+The Dynamics 365 Product Visualize solution also contains an optional enhancement (a control) that allows salespeople to open the Dynamics 365 Product Visualize app directly from Dynamics 365 Sales on their mobile devices. The control is lightweight and can easily be updated or removed.
 
-There are numerous ways you can customize your Opportunity page in Dynamics 365 for Sales. This procedure provides suggested customizations, but feel free to adapt to your needs:
+There are numerous ways you can customize your Opportunity page in Dynamics 365 Sales. This procedure provides suggested customizations, but feel free to adapt to your needs:
 
 1. In the **Settings** drop-down list at the top of the page, select **Customizations**, and then select **Customize the System**.
 
@@ -421,13 +421,13 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 For more information on setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/basics/teams-install-app).
 
-### Post notes from Product Visualize
+### Post notes from Dynamics 365 Product Visualize
 
-Product Visualize makes your customer's needs part of the conversation by posting any notes you make in the app back to a connected Teams channel. The text and mixed-reality image get posted to Teams, giving your team the information and context they need to make smart decisions. This feature is enabled by default but can be turned off through the in-app **Settings** menu. 
+Dynamics 365 Product Visualize makes your customer's needs part of the conversation by posting any notes you make in the app back to a connected Teams channel. The text and mixed-reality image get posted to Teams, giving your team the information and context they need to make smart decisions. This feature is enabled by default but can be turned off through the in-app **Settings** menu. 
 
 ## What's next?
 
-You now have everything you need to start using Microsoft Dynamics 365 Product Visualize. New opportunities, products, and models will show up automatically in the application after they have been added to Dynamics 365 for Sales. For help or feedback, use the **Feedback** button in the Product Visualize app.
+You now have everything you need to start using Microsoft Dynamics 365 Product Visualize. New opportunities, products, and models will show up automatically in the application after they have been added to Dynamics 365 Sales. For help or feedback, use the **Feedback** button in the Dynamics 365 Product Visualize app.
 
 ### See also
 
