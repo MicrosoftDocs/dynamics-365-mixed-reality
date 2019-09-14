@@ -13,13 +13,13 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Microsoft Dynamics 365 Product Visualize requires an active Dynamics 365 for Sales instance that's associated with a Microsoft SharePoint site. This topic provides step-by-step procedures for setting up a new Dynamics 365 for Sales trial instance. Once the instance is running, see the [Administrator Guide](admin-guide.md) for instructions on adding users, products, opportunities, and models.
+Microsoft Dynamics 365 Product Visualize requires an active Dynamics 365 Sales instance that's associated with a Microsoft SharePoint site. This topic provides step-by-step procedures for setting up a new Dynamics 365 Sales trial instance. Once the instance is running, see the [Administrator Guide](admin-guide.md) for instructions on adding users, products, opportunities, and models.
 
 ## Create a new organization
 The first thing you need to do is create a new Azure Active Directory organization. This new organization provides a safe environment to try out Dynamics 365 Product Visualize that won't interfere with any existing Dynamics 365 instances. You can also use this organization to create and manage users, separate from your business organization.
 
    > [!NOTE]
-   > If you prefer to add Dynamics 365 for Sales to an existing Azure Active Directory, skip ahead to **Add a Dynamics 365 for Customer Engagement trial.**
+   > If you prefer to add Dynamics 365 Sales to an existing Azure Active Directory, skip ahead to **Add a Dynamics 365 for Customer Engagement trial.**
 
 1. Sign in to the Microsoft Azure portal at https://ms.portal.azure.com.
 
@@ -62,7 +62,7 @@ After creating the new organization, the next step is to add an admin user for t
 
 ## Add a Dynamics 365 for Customer Engagement trial
 
-Dynamics 365 Product Visualize integrates directly into Dynamics 365 for Sales, which enables your salespeople to seamlessly transition from vital customer data into an engaging sales experience that changes the way customers think about your products.
+Dynamics 365 Product Visualize integrates directly into Dynamics 365 Sales, which enables your salespeople to seamlessly transition from vital customer data into an engaging sales experience that changes the way customers think about your products.
 
 1. In a private browser window, go to the Microsoft 365 admin center at [https://admin.microsoft.com](https://admin.microsoft.com).
 
@@ -94,7 +94,7 @@ Before continuing, make sure the Dynamics 365 for Customer Engagement license ha
 
 5. Save your changes and close the dialog box.
 
-## Set up the Dynamics 365 for Sales trial
+## Set up the Dynamics 365 Sales trial
 
 The next step is to set up the Dynamics 365 for Customer Engagement instance. This procedure provides step-by-step instructions for manually installing Dynamics for Sales, which generates a completely empty instance of the Common Data Service. 
 
@@ -168,7 +168,7 @@ The next step is to set up the Dynamics 365 for Customer Engagement instance. Th
 9. Close the window when done.
 
 ## What's next?
-After you've finished the setup process, you'll have an Azure Active Directory organization complete with Microsoft Dynamics 365 for Customer Engagement and SharePoint. At this point, you can start adding opportunities, products, and models to Dynamics 365 for Sales. For more information, see the [Administrator guide](admin-guide.md).
+After you've finished the setup process, you'll have an Azure Active Directory organization complete with Microsoft Dynamics 365 for Customer Engagement and SharePoint. At this point, you can start adding opportunities, products, and models to Dynamics 365 Sales. For more information, see the [Administrator guide](admin-guide.md).
 
 ### See also
 
