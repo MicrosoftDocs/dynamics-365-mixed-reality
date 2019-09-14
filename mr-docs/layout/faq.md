@@ -46,7 +46,7 @@ or to [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed 
     controllers](https://support.microsoft.com/help/4040517) to use the
     app with your immersive headset.
 
--   [!include[pn-import-tool](../includes/pn-import-tool.md)]: Your PC must be running the [Windows 10 April 2018
+-   [!include[pn-dyn-365-import-tool](../includes/pn-import-tool.md)]: Your PC must be running the [Windows 10 April 2018
     Update](https://support.microsoft.com/help/4028685).
 
 [Learn more about device options and technical requirements.](requirements.md)
@@ -54,7 +54,7 @@ or to [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed 
 ## Do I need an Azure Active Directory (Azure AD) account to use Dynamics 365 Layout?
 
 Yes, if you’re the admin, you’ll need an [!include[pn-azure](../includes/pn-azure.md)] AD account to distribute the
-apps, and users of [!include[pn-layout](../includes/pn-layout.md)] and the [!include[pn-import-tool](../includes/pn-import-tool.md)] will need an [!include[pn-azure](../includes/pn-azure.md)] AD account to
+apps, and users of [!include[pn-layout](../includes/pn-layout.md)] and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] will need an [!include[pn-azure](../includes/pn-azure.md)] AD account to
 sign in to the apps.
 
 ## How often is Dynamics 365 Layout updated?
@@ -68,7 +68,7 @@ You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with
 
 ## Do I need to be connected to Wi-Fi to use Dynamics 365 Layout?
 
-If you want to convert 3D models using the [!include[pn-import-tool](../includes/pn-import-tool.md)], you’ll need a Wi-Fi
+If you want to convert 3D models using the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], you’ll need a Wi-Fi
 connection if you use the cloud service option. If you choose to convert files
 using the PC option, you don’t need a Wi-Fi connection.
 
@@ -92,7 +92,7 @@ Yes, you can choose between U.S. and metric units from **Settings** \>
 - Taiwan (no speech support)
 - Hong Kong SAR (no speech support)
 
-[!include[pn-layout](../includes/pn-layout.md)], the [!include[pn-import-tool](../includes/pn-import-tool.md)], and the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-layout](../includes/pn-layout.md)] are
+[!include[pn-layout](../includes/pn-layout.md)], the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], and the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-layout](../includes/pn-layout.md)] are
 available only in English for [!include[pn-hololens](../includes/pn-hololens.md)]1. Additionally, to install the add-in, you’ll need to
 [set the display language for Microsoft Office to
 English](https://support.office.com/article/add-an-editing-language-or-set-language-preferences-in-office-663d9d94-ca99-4a0d-973e-7c4a6b8a827d).
@@ -108,9 +108,9 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 ## How do I import AutoCAD models?
 
 
-You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your models to [!include[cc-microsoft](../includes/cc-microsoft.md)] to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about the Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool).
+You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your models to [!include[cc-microsoft](../includes/cc-microsoft.md)] to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool).
 
-## How does the Import Tool process my 3D models?
+## How does Dynamics 365 Import Tool (Preview) process my 3D models?
 
 If you send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for conversion and optimization, it’s uploaded to a secure location. [!include[cc-microsoft](../includes/cc-microsoft.md)] prepares the model using a combination of automated and manual steps. [!include[cc-microsoft](../includes/cc-microsoft.md)] provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
 
