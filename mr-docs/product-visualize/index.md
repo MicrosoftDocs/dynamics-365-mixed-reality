@@ -19,7 +19,7 @@ like manufacturing, healthcare, and automotive, where products are often complex
 to carry around, the need for product visualization is key. It builds a buyer’s confidence early in the sales process so costly 
 change orders are reduced, and customer satisfaction is higher. 
 
-Using Product Visualize, sellers can show products to customers 
+Using Dynamics 365 Product Visualize, sellers can show products to customers 
 directly within their Dynamics 365 for Sales workflow. Spatial and configuration notes are all saved directly within the associated 
 sales opportunity. Since sales tasks commonly require more than just one individual, sellers can leverage session content directly in 
 Microsoft Teams to improve internal collaboration and deliver customer-oriented solutions that are critical to accelerating the 
