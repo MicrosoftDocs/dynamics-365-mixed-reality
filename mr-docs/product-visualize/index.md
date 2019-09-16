@@ -2,7 +2,7 @@
 author: mamithan
 description: Overview of Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 04/19/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: overview
 title: Overview of Dynamics 365 Product Visualize
