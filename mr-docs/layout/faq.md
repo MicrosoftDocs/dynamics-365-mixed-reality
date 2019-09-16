@@ -15,7 +15,7 @@ Here are answers to common questions about using [!include[cc-microsoft](../incl
 
 ## Can I try Dynamics 365 Layout before buying it?
 
-Yes, [!include[pn-layout](../includes/pn-layout.md)] is available as a trial for up to 90 days. It's nearly effortless to install and try out the app. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md). Note that the 90-day trial is only available for users who haven't already purchased a subscription. 
+Yes, [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] is available as a trial for up to 90 days. It's nearly effortless to install and try out the app. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md). Note that the 90-day trial is only available for users who haven't already purchased a subscription. 
 
 ## How do I buy Dynamics 365 Layout?  
 
@@ -23,8 +23,7 @@ If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-la
 
 ## How can I tell which version I'm using?
 
-
-To see the version number for [!include[pn-layout](../includes/pn-layout.md)], go to **Settings** > **About**.
+To see the version number for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], go to **Settings** > **About**.
 
 To see the version number for [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], go to **Settings**, and then look in the **About** section.
 
@@ -46,7 +45,7 @@ or to [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed 
     controllers](https://support.microsoft.com/help/4040517) to use the
     app with your immersive headset.
 
--   [!include[pn-dyn-365-import-tool](../includes/pn-import-tool.md)]: Your PC must be running the [Windows 10 April 2018
+-   [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]: Your PC must be running the [Windows 10 April 2018
     Update](https://support.microsoft.com/help/4028685).
 
 [Learn more about device options and technical requirements.](requirements.md)
@@ -54,17 +53,17 @@ or to [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed 
 ## Do I need an Azure Active Directory (Azure AD) account to use Dynamics 365 Layout?
 
 Yes, if you’re the admin, you’ll need an [!include[pn-azure](../includes/pn-azure.md)] AD account to distribute the
-apps, and users of [!include[pn-layout](../includes/pn-layout.md)] and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] will need an [!include[pn-azure](../includes/pn-azure.md)] AD account to
+apps, and users of [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] will need an [!include[pn-azure](../includes/pn-azure.md)] AD account to
 sign in to the apps.
 
 ## How often is Dynamics 365 Layout updated?
 
-[!include[pn-layout](../includes/pn-layout.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
+[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
 
 ## Can I use the HoloLens clicker with Dynamics 365 Layout?
 
-You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)] but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
+You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
 
 ## Do I need to be connected to Wi-Fi to use Dynamics 365 Layout?
 
@@ -79,7 +78,7 @@ Yes, you can choose between U.S. and metric units from **Settings** \>
 
 ## What languages is Dynamics 365 Layout available in?
 
-[!include[pn-layout](../includes/pn-layout.md)] is available for [!include[pn-hololens](../includes/pn-hololens.md)]2 in the following locales:
+[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] is available for [!include[pn-hololens](../includes/pn-hololens.md)]2 in the following locales:
 
 - US
 - Canada (English and French)
@@ -92,14 +91,14 @@ Yes, you can choose between U.S. and metric units from **Settings** \>
 - Taiwan (no speech support)
 - Hong Kong SAR (no speech support)
 
-[!include[pn-layout](../includes/pn-layout.md)], the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], and the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-layout](../includes/pn-layout.md)] are
+[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], and the [!include[pn-visio](../includes/pn-visio.md)] Add-in for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] are
 available only in English for [!include[pn-hololens](../includes/pn-hololens.md)]1. Additionally, to install the add-in, you’ll need to
 [set the display language for Microsoft Office to
 English](https://support.office.com/article/add-an-editing-language-or-set-language-preferences-in-office-663d9d94-ca99-4a0d-973e-7c4a6b8a827d).
 
 ## Where is Dynamics 365 Layout available?
 
-[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] is available worldwide. [!include[pn-layout](../includes/pn-layout.md)] can be used with [!include[pn-hololens](../includes/pn-hololens.md)] or a Mixed Reality headset/motion controller and a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Ultra PC.
+[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] is available worldwide. [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] can be used with [!include[pn-hololens](../includes/pn-hololens.md)] or a Mixed Reality headset/motion controller and a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Ultra PC.
 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
 
@@ -107,13 +106,11 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 ## How do I import AutoCAD models?
 
-
 You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your models to [!include[cc-microsoft](../includes/cc-microsoft.md)] to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool).
 
 ## How does Dynamics 365 Import Tool (Preview) process my 3D models?
 
 If you send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for conversion and optimization, it’s uploaded to a secure location. [!include[cc-microsoft](../includes/cc-microsoft.md)] prepares the model using a combination of automated and manual steps. [!include[cc-microsoft](../includes/cc-microsoft.md)] provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
-
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
