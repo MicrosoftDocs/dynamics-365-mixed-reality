@@ -2,7 +2,7 @@
 author: JBrentJ
 description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
 ms.author: v-jerja
-ms.date: 06/24/2019
+ms.date: 09/16/2019
 ms.service: crm-online
 ms.topic: article
 title: Use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
@@ -139,7 +139,15 @@ You can provide feedback on the quality of processed 3D models if you're not sat
     > [!NOTE] 
     > You can't update feedback after you submit it.
 
+## Do I need to be connected to Wi-Fi to use Dynamics 365 Import Tool (Preview)?
 
+[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] requires users to be signed in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
+
+In addition to the above, Wi-Fi connectivity requirements depend on the method that users choose to import models:
+
+- **Import using this PC**. When users choose this option to import models, a Wi-Fi connection is not required.
+
+- **Send my model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**. When users choose this option to import models, a Wi-Fi connection is required. To understand how your models are processed by [!include[cc-microsoft](../includes/cc-microsoft.md)], see [What happens to my model when I send it to Microsoft?](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool#what-happens-to-my-model-when-i-send-it-to-microsoft). 
 
 ### See also
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>

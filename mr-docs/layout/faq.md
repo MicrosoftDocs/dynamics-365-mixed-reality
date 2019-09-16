@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: ornella
-ms.date: 07/09/2019
+ms.date: 09/16/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
@@ -23,7 +23,6 @@ If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-la
 
 ## How can I tell which version I'm using?
 
-
 To see the version number for [!include[pn-layout](../includes/pn-layout.md)], go to **Settings** > **About**.
 
 To see the version number for [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], go to **Settings**, and then look in the **About** section.
@@ -33,7 +32,6 @@ To see the version number for [!include[pn-dyn-365-import-tool](../includes/pn-d
 No, you can use each app separately, though they do work together as well. If you want to copy 3D models or layouts from your PC to your [!include[pn-hololens](../includes/pn-hololens.md)] 
 or to [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality, you’ll need the 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
-
 
 ## What are the technical requirements for running the Dynamics 365 Layout apps?
 
@@ -61,16 +59,15 @@ sign in to the apps.
 
 [!include[pn-layout](../includes/pn-layout.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
-
 ## Can I use the HoloLens clicker with Dynamics 365 Layout?
 
 You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with [!include[pn-layout](../includes/pn-layout.md)] but it has limited functionality. You can use the clicker to do menu selections and to scan a room, but you can't use it to manipulate objects.
 
 ## Do I need to be connected to Wi-Fi to use Dynamics 365 Layout?
 
-If you want to convert 3D models using the [!include[pn-import-tool](../includes/pn-import-tool.md)], you’ll need a Wi-Fi
-connection if you use the cloud service option. If you choose to convert files
-using the PC option, you don’t need a Wi-Fi connection.
+[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] requires users to be signed in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
+
+[Learn about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] Wi-Fi requirements](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool#do-i-need-to-be-connected-to-wi-fi-to-use-dynamics-365-import-tool-preview).
 
 ## Can I change the unit of measure in Dynamics 365 Layout to metric?
 
@@ -107,13 +104,11 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 ## How do I import AutoCAD models?
 
-
 You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your models to [!include[cc-microsoft](../includes/cc-microsoft.md)] to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about the Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool).
 
 ## How does the Import Tool process my 3D models?
 
 If you send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for conversion and optimization, it’s uploaded to a secure location. [!include[cc-microsoft](../includes/cc-microsoft.md)] prepares the model using a combination of automated and manual steps. [!include[cc-microsoft](../includes/cc-microsoft.md)] provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
-
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
