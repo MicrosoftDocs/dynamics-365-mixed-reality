@@ -19,38 +19,37 @@ For information on platforms and requirements, check out our [Requirements page]
 
 ## What kind of 3D content can I add?
 
-Product Visualize supports GLB files only.
+Dynamics 365 Product Visualize supports GLB files only.
 
 ## How do I get my content in the right format?
 
 To learn how to format your content, see the following page on the Khronos website: [Art Pipeline for glTF](https://go.microsoft.com/fwlink/p/?linkid=2083000). 
 
-## How does Product Visualize connect with Dynamics 365 for Sales?
+## How does Dynamics 365 Product Visualize connect with Dynamics 365 Sales?
 
-After you sign in with your Azure Active Directory credentials, Product Visualize displays organizations associated with your Dynamics 365 for Sales account. Opportunities and products associated with your organizations automatically show up in the app, as do 3D models attached to your products.
+After you sign in with your Azure Active Directory credentials, Dynamics 365 Product Visualize displays organizations associated with your Dynamics 365 Sales account. Opportunities and products associated with your organizations automatically show up in the app, as do 3D models attached to your products.
 	
-## Can I use Product Visualize to do remote sales?
+## Can I use Dynamics 365 Product Visualize to do remote sales?
 
-At this time, Product Visualize does not support remote capabilities.
-
+At this time, Dynamics 365 Product Visualize does not support remote capabilities.
 
 ## Why is the "Need admin approval" message displayed after signing in?
 
 ![Admin Approval](media/admin-approval.PNG "Admin Approval")
 
-This message indicates that your organization requires administrator approval before any new apps can be used to access organizational resources. Talk to your system administrator to get approval to use Product Visualize in your organization. In the meantime, you can set up a [free trial version](setup.md). 
+This message indicates that your organization requires administrator approval before any new apps can be used to access organizational resources. Talk to your system administrator to get approval to use Dynamics 365 Product Visualize in your organization. In the meantime, you can set up a [free trial version](setup.md). 
 
-## Why don't I see my Dynamics instances?
+## Why don't I see my Dynamics 365 instances?
  
-Product Visualize can connect to instances of Dynamics 365 for Sales version 9 or later. It doesn't support on-premises Dynamics 365 solutions or older instances of Dynamics 365 for Sales. Make sure your instance meets the [minimum requirements](requirements.md) for using Product Visualize. If your instance meets the requirements, make sure you're signed in to the app with the same credentials you use to access Dynamics 365 for Sales.
+Dynamics 365 Product Visualize can connect to instances of Dynamics 365 Sales version 9 or later. It doesn't support on-premises Dynamics 365 solutions or older instances of Dynamics 365 Sales. Make sure your instance meets the [minimum requirements](requirements.md) for using Dynamics 365 Product Visualize. If your instance meets the requirements, make sure you're signed in to the app with the same credentials you use to access Dynamics 365 Sales.
 
-## Why am I getting a message that says my organization isn't set up to use Product Visualize?
+## Why am I getting a message that says my organization isn't set up to use Dynamics 365 Product Visualize?
 
-This message indicates the Dynamics for Sales instance you selected doesn't meet the [minimum requirements](requirements.md) for using Product Visualize. If you have access to more than one Dynamics for Sales instance, make sure you selected the correct one.
+This message indicates the Dynamics 365 Sales instance you selected doesn't meet the [minimum requirements](requirements.md) for using Dynamics 365 Product Visualize. If you have access to more than one Dynamics Sales instance, make sure you selected the correct one.
 
 ## How do I find my opportunities?
 
-Product Visualize helps you stay organized by focusing only on the opportunities that are important to you. From the Opportunity Selection view there are three options for viewing your opportunities:
+Dynamics 365 Product Visualize helps you stay organized by focusing only on the opportunities that are important to you. From the Opportunity Selection view there are three options for viewing your opportunities:
 
 1. **My Open Opportunities** - Open opportunities where you are listed as the owner.
 2. **My Connected Opportunities** - Open opportunities where you have been added to the Sales team.
