@@ -13,9 +13,9 @@ ms.reviewer: v-brycho
 
 Watch these short videos to get up and running with Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
-Looking for more help? Check out our [User guide](user-guide.md).
+Looking for more help? Check out our [user guide](user-guide.md).
 
-## Remote Assist for HoloLens
+## Dynamics 365 Remote Assist for HoloLens
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F6TI" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
@@ -36,7 +36,7 @@ Looking for more help? Check out our [User guide](user-guide.md).
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2FhfT" frameborder="0" allowfullscreen=""></iframe></div>
 
 
-## Microsoft Teams and Remote Assist
+## Microsoft Teams and Dynamics 365 Remote Assist
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/en-us/videoplayer/embed/RE2F6TF" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
@@ -50,5 +50,5 @@ Looking for more help? Check out our [User guide](user-guide.md).
 
 ## See also
 [User guide](user-guide.md)<br>
-[Use Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md)<br>
+[Use Teams with Dynamics 365 Remote Assist](use-microsoft-teams-with-remote-assist.md)<br>
 [FAQ](faq.md)
