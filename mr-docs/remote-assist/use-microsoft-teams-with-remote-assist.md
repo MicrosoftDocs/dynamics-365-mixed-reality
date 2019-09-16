@@ -2,7 +2,7 @@
 author: bencorn
 description: Set up and use Microsoft Teams with Dynamics 365 Remote Assist to collaborate on a call
 ms.author: bencorn
-ms.date: 06/04/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Set up and use Microsoft Teams with Dynamics 365 Remote Assist
