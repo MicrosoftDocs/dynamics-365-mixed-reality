@@ -15,9 +15,9 @@ You can embed code in your [!include[pn-hololens](../includes/pn-hololens.md)] a
 
 For example, let’s say you’re creating a helicopter maintenance app. You can add
 a button that a maintenance engineer can use to call an expert if they get
-stuck. The button will launch [!include[pn-remote-assist](../includes/pn-remote-assist.md)] and call the designated expert.
+stuck. The button will launch [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and call the designated expert.
 
-[!include[pn-remote-assist](../includes/pn-remote-assist.md)] supports two methods for protocol activation: 
+[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] supports two methods for protocol activation: 
 
 -   “ms-voip-video” is for video-enabled calling.
 
@@ -103,7 +103,7 @@ launchUriOperation.then([this](bool success)   
 
 2.  Initiate the call from your app.
 
-3.  The [!include[pn-hololens](../includes/pn-hololens.md)] will appear to close the app, open [!include[pn-remote-assist](../includes/pn-remote-assist.md)] if it isn’t
+3.  The [!include[pn-hololens](../includes/pn-hololens.md)] will appear to close the app, open [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] if it isn’t
     already open, and sign in.
 
 4.  After the contacts panel is loaded, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] will place a call to the
