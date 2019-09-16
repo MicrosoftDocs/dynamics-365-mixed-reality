@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Overview of Dynamics 365 Layout
 ms.author: ornella
-ms.date: 05/15/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Overview of Dynamics 365 Layout
