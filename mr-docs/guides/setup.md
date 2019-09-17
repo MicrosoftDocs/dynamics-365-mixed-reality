@@ -15,7 +15,7 @@ We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)
 
 To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
 
-1. Buy a Dyanmics 365 Guides subscription or sign up for a free trial subscription.
+1. Buy a Dynamics 365 Guides subscription or sign up for a free trial subscription.
 
 2. Create a Common Data Service environment (if you don't already have one) and install the Dynamics 365 Guides solution in the environment (instance).
 
