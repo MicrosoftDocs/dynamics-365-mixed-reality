@@ -195,11 +195,11 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applications: 
 
-- PC authoring application
+- Desktop authoring application
 
 - [!include[pn-hololens](../includes/pn-hololens.md)] application, which has an Author mode and an Operator mode
 
-You can install the apps from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store as described in the next section.
+You can install both apps from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store as described in the next section.
 
 > [!NOTE]
 > If you can’t access [!include[cc-microsoft](../includes/cc-microsoft.md)] Store due to company policies, please contact your administrator to distribute the app.
@@ -209,9 +209,9 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 ### Install the apps from Microsoft Store
 
 #### Install the PC authoring app 
-1.	Check to make sure your [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC is running the latest [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] build (must be build 10.0.16299 or later).
+1.	Check to make sure your [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC is running the latest [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] build (must be build 10.0.17134, April 2018 update, or later).
 
-2.	On your PC, go to **Start** ![Start button](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
+2.	On your PC, go to **Start** ![Start button](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].”
 
 3.	In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Get** for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app to download, and install the application.
 
@@ -224,7 +224,7 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 
 1.	Make sure [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.14393.0 or later. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
 
-2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
+2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]”.
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
@@ -233,7 +233,7 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 
 ### Distribute the apps through the Microsoft Store for Business
 
-1.	Go to the [Microsoft Store for Business](https://businessstore.microsoft.com/store).
+1.	Go to [Microsoft Store for Business](https://businessstore.microsoft.com/store).
 
 2.	[Acquire the app(s)](https://docs.microsoft.com/microsoft-store/acquire-apps-microsoft-store-for-business).
 
@@ -255,44 +255,23 @@ For information on opening and signing in to the [!include[pn-hololens](../inclu
    
 ## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
 
-You’ll need to create a user account for anyone you assign a license to. Create a new user account for anyone on your team who will use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You create user accounts in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 Admin Center, and then assign licenses to those users.
+If you want to add additional users, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them in the Office 365 admin portal and configure roles in the Dynamics 365 admin portal.
 
 ### Add a user account
 
 1.	Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
 
-2.	Select **Add a user**.
+2.	Select user accounts.
 
-    ![Add a user](media/add-user.PNG "Add a user")
- 
-    You’ll see the **New user** dialog box:
-    
-    ![New User dialog box](media/new-user-dialog-box.PNG "New user dialog box")
- 
-3.	In the **New user** dialog box, fill in the following user information:
+3. Assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them. 
 
-    - Add the first, last, display name, and user name.
-
-    - **Domain.** Leave the domain as is. It's automatically filled out based on the company you entered when you signed up for the preview. 
-
-    - **Password.** The system generates a user ID and temporary password for the user. We recommend that you send the temporary credentials to the user via email and have the user change the password at first sign in. To enforce that this happens, select the down arrow, and then select the **Make this user change their password when they first sign in** check box. 
-    
-      ![Password enforcement check box](media/password-enforcement.PNG "Password enforcement check box")
-
-    - **Roles.** Expand this section and select the **User (no administrator access)** option. 
-    
-      ![Edit user roles](media/user-roles.PNG "Edit user roles")
- 
-
-    - **Product licenses**. Expand this section, and then turn the **Dynamics 365 Guides** slider to **On**. You can assign up to 25 users.
+4. Expand the **Product licenses** section, and then turn the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** slider to **On**. You can assign up to 25 users.
     
       ![Product Licenses dialog box](media/new-user-plans.PNG "Product Licenses dialog box")
  
-4.	Select **Add** when you’re done.
+5.	Select **Save** when you’re done.    
 
-    When you add a user, the user gets an email notification from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Online Services Team that includes their user ID and    temporary password. They’ll use this information to sign in to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
-
-5. If you haven't already done so, [set up user roles for the solution](#user-roles) as described earlier in this topic.
+6. [Set up user roles for the solution](#user-roles) as described earlier in this topic.
 
 ## Step 6: Set up Guides Analytics reports 
 
@@ -308,7 +287,7 @@ You’ll need to create a user account for anyone you assign a license to. Creat
 
 ### See also
 
-[Get started with Dynamics 365 Guides in preview](get-started.md)<br>
+[Get started with Dynamics 365 Guides](get-started.md)<br>
 [Author a guide](authoring-overview.md)<br>
 [Operator's manual](operator-guide.md)<br>
 [Analyze your guides to improve process efficiencies](analytics-guide.md)<br>
