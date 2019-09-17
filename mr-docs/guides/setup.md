@@ -80,10 +80,10 @@ After acquiring a Dynamics 365 Guides subscription and assigning licenses, you�
 
 The following screen appears while the database is being created and provisioned:
     
-    ![Provisioning database screen](media/provisioning-database.PNG "Provisioning database screen")
+   ![Provisioning database screen](media/provisioning-database.PNG "Provisioning database screen")
  
-    > [!NOTE]
-    > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
+   > [!NOTE]
+   > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
 
 7.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link, and then sign in again with the credentials you used in previous steps. You might need to close your browser before signing in. 
 
