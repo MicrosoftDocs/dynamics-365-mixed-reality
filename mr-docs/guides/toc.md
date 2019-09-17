@@ -1,7 +1,7 @@
 # Dynamics 365 Guides in preview
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
-## [Sign up for preview](setup.md)
+## [Buy and deploy Dynamics 365 Guides](setup.md)
 ## [Upgrade the Guides solution (for admins)](upgrade.md)
 ## Get started
 ### [Get started](get-started.md)
