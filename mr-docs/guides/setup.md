@@ -133,7 +133,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     > [!NOTE]
     > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the PowerApps portal.
     
-8.	Select the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution in the list, and then select **Install**. 
+8.	Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the list, and then select **Install**. 
 
     ![Solutions Install button](media/solutions-install-button.PNG "Solutions Install button")
     
@@ -215,7 +215,7 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 
 3.	In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Get** for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app to download, and install the application.
 
-    ![Preview app in Microsoft Store](media/preview-app.PNG "Preview app in Microsoft Store")
+    ![App in Microsoft Store](media/preview-app.PNG "App in Microsoft Store")
 
     > [!NOTE]
     > For instructions on opening and signing in to the app, see the [authoring guide](authoring-overview.md).
