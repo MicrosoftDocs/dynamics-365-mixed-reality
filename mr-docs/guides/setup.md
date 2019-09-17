@@ -64,7 +64,7 @@ After acquiring a Dynamics 365 Guides subscription and assigning licenses, youâ€
 
     ![Power Platform Environments](media/powerapps-environments.PNG "Power Platform Environments")
     
-3.	Select the **More information** button (...) next to the default instance, and then select **Manage Environment**.
+3.	Select the **More information** button (...) next to the default instance, and then select **Manage environment**.
 
     ![Manage Environment](media/powerapps-manage-environment.PNG "Manage Environment")
     
