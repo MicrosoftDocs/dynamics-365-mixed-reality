@@ -30,4 +30,5 @@ The following table lists technical requirements for deploying and using [!inclu
 
 ### See also
 
+[Buy and deploy Dynamics 365 Guides](setup.md)
 [Upgrade the solution (for admins)](upgrade.md)
