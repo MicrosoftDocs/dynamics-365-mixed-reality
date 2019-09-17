@@ -215,7 +215,7 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 
 3.	In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Get** for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app to download, and install the application.
 
-    ![App in Microsoft Store](media/preview-app.PNG "App in Microsoft Store")
+    ![App in Microsoft Store](media/app.PNG "App in Microsoft Store")
 
     > [!NOTE]
     > For instructions on opening and signing in to the app, see the [authoring guide](authoring-overview.md).
