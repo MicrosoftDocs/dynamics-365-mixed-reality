@@ -1,37 +1,35 @@
 ---
 author: Mamaylya
-description: Everything you need to know about signing up for Dynamics 365 Guides (Preview), configuring the solution, and installing the apps.
+description: Everything you need to know about buying Dynamics 365 Guides, configuring the solution, and installing the apps.
 ms.author: mamaylya
-ms.date: 04/30/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Sign up for Dynamics 365 Guides (Preview)
+title: Buy and deploy Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Sign up for Dynamics 365 Guides (Preview)
+# Buy and deploy Dynamics 365 Guides
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]! [Learn about Guides capabilities](index.md).
+We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] for general availability! [Learn about Guides capabilities](index.md).
 
 To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
 
-1.	Sign up for the preview.
+1.	Buy a Dyanmics 365 Guides subscription or sign up for a free trial subscription.
 
-2.	Create a Common Data Service environment, if you don't already have one.
+2. Create a Common Data Service environment (if you don't already have one) and install the Dynamics 365 Guides solution in the environment (instance).
 
-3. Install the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution.
+3.	Download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps on a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC and [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)].
 
-4.	Download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps on a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC and [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)].
+4. Set up Guides Analytics reports.
 
-5. Add additional user accounts (optional).
-
-6. Set up Guides Analytics reports.
+5. Add additional users accounts (optional).
 
 This topic provides step-by-step instructions for all of the above.
 
-## Step 1: Sign up for the preview
+## Step 1: Buy a Dynamics 365 Guides subscription or sign up for a free trial subscription
 
 - Go to [the Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview. After you have your credentials, come back to this page and go to [Step 2: Create a Common Data Service environment](#cds).
 
