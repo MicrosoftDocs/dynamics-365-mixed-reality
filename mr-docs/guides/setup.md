@@ -59,7 +59,7 @@ After you sign up for a Dynamics 365 Guides subscription, you need to assign the
  
 ## Step 2: Create a Common Data Service environment<a name="cds"></a>
 
-After acquiring a Dynamics 365 Guides subscription and assigning licenses, you’ll need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Step 3: Install and configure the Dynamics 365 Guides solution](#configure).
+After acquiring a Dynamics 365 Guides subscription and assigning licenses, you’ll need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Install and configure the Dynamics 365 Guides solution](#configure).
     
 1.  Go to the Power Platform Admin Center and sign in with the admin user credentials (the one where the Dynamics 365 Guides licenses are assigned).
 
@@ -94,11 +94,11 @@ The following screen appears while the database is being created and provisioned
 
 The Dynamics Admin Center appears. This is where you can install the solution and make other configurations.
 
-## Step 3: Install and configure the Dynamics 365 Guides (Preview) solution<a name="configure"></a>
+### Install and configure the Dynamics 365 Guides solution<a name="configure"></a>
 
 In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB). 
 
-1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), and sign in with the user credentials you created when you signed up for the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]. 
+1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
     
 2.	Select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open** as shown here: 
     
@@ -126,7 +126,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     ![System settings dialog box](media/system-settings-dialog-box.PNG "System settings dialog box")
  
-8.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), and select the small edit button next to **Solutions**.
+8.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small edit button next to **Solutions**.
 
     ![Solutions Edit button](media/solutions-edit-button.PNG "Solutions Edit button")
  
@@ -160,7 +160,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     ![Dynamics 365 Advanced Settings](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
     
     > [!IMPORTANT]
-    > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the Guides Hub (Preview) tile in the preceding screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
+    > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the Guides Hub tile in the preceding screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
  
 3.	 In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] > Business Management** screen, select the **Settings** drop-down list.
     
@@ -170,15 +170,15 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     ![Dynamics 365 Security setting](media/security-setting.PNG "Dynamics 365 Security setting")
  
-4.	On the **Security** page, select **Users**.
+5.	On the **Security** page, select **Users**.
 
     ![Dynamics 365 Users setting](media/select-users.PNG "Dynamics 365 Users setting")
  
-5.	Select the user, and then select **Manage** roles. 
+6.	Select the user, and then select **Manage** roles. 
 
     ![Manage Roles command](media/manage-roles-command.PNG "Manage Roles command")
  
-6.	In the **Manage User Roles** dialog box, select the following roles: 
+7.	In the **Manage User Roles** dialog box, select the following roles: 
 
     - Common Data Service User
     
@@ -189,8 +189,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
       ![Manage Roles dialog box filled in](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
       
       > [!NOTE]
-      > Select the System Administrator role if this is the main user/admin. Otherwise, do not select that role.
- 
+      > Select the System Administrator role if this is the main user/admin. Otherwise, do not select that role. 
      
 ## Step 4: Install the applications
 
