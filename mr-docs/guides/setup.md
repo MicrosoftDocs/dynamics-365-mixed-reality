@@ -15,7 +15,7 @@ We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)
 
 To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
 
-1.	Buy a Dyanmics 365 Guides subscription or sign up for a free trial subscription.
+1. Buy a Dyanmics 365 Guides subscription or sign up for a free trial subscription.
 
 2. Create a Common Data Service environment (if you don't already have one) and install the Dynamics 365 Guides solution in the environment (instance).
 
@@ -23,7 +23,7 @@ To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.m
 
 4. Set up Guides Analytics reports.
 
-5. Add additional users accounts (optional).
+5. Add additional user accounts (optional).
 
 This topic provides step-by-step instructions for all of the above.
 
@@ -36,7 +36,7 @@ There are multiple ways to get a Dynamics 365 Guides subscription.
 - Go to [the Getting started page](http://aka.ms/GetGuides) to create new credentials and follow the instructions to sign up for a free trial subscription. 
 
     > [!IMPORTANT] 
-    > If you don't have administrator permissions associated with your work account, you won't be able to complete Steps 2 and 3 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out Dynamics 365 Guides by following the steps on the Getting started page. In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*.
+    > If you don't have administrator permissions associated with your work account, you won't be able to complete Step 2 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out Dynamics 365 Guides by following the steps on the Getting started page. In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*.
     
 After you sign up for a Dynamics 365 Guides subscription, you need to assign the Dynamics 365 Guides license to user accounts. To do this:
 
@@ -55,7 +55,7 @@ After you sign up for a Dynamics 365 Guides subscription, you need to assign the
   
     ![Add user license](media/guides-license.PNG "Add user license") 
  
-## Step 2: Create a Common Data Service environment<a name="cds"></a>
+## Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
 
 After acquiring a Dynamics 365 Guides subscription and assigning licenses, you’ll need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Install and configure the Dynamics 365 Guides solution](#configure).
     
@@ -189,7 +189,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
       > [!NOTE]
       > Select the System Administrator role if this is the main user/admin. Otherwise, do not select that role. 
      
-## Step 4: Install the applications
+## Step 3: Download and install the apps
 
 There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applications: 
 
@@ -250,7 +250,19 @@ For information on opening and signing in to the [!include[pn-hololens](../inclu
    - [HoloLens authoring](hololens-authoring.md)
    
    - [Operator's manual](operator-guide.md)
-   
+
+## Step 4: Set up Guides Analytics reports 
+
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes [!include[pn-power-bi](../includes/pn-power-bi.md)] reports (called Guides Analytics) that you can use to analyze guides processes. You can share these reports within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the report through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com).  
+
+[!include[pn-power-bi](../includes/pn-power-bi.md)] provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This involves the following well-documented steps: 
+
+1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-workspaces). 
+
+2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/power-bi/desktop-upload-desktop-files). 
+
+3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-distribute-apps).  
+
 ## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
 
 If you want to add additional users, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them in the Office 365 admin portal and configure roles in the Dynamics 365 admin portal.
@@ -270,18 +282,6 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 5.	Select **Save** when you’re done.    
 
 6. [Set up user roles for the solution](#user-roles) as described earlier in this topic.
-
-## Step 6: Set up Guides Analytics reports 
-
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes [!include[pn-power-bi](../includes/pn-power-bi.md)] reports (called Guides Analytics) that you can use to analyze guides processes. You can share these reports within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the report through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com).  
-
-[!include[pn-power-bi](../includes/pn-power-bi.md)] provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This involves the following well-documented steps: 
-
-1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-workspaces). 
-
-2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/power-bi/desktop-upload-desktop-files). 
-
-3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-distribute-apps).  
 
 ### See also
 
