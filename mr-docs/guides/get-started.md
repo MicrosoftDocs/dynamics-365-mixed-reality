@@ -1,19 +1,17 @@
 ---
 author: Mamaylya
-description: Understand the building blocks of Dynamics 365 Guides (Preview)
+description: Understand the building blocks of Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 07/23/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Get started with Dynamics 365 Guides (Preview)
+title: Get started with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Get started with Dynamics 365 Guides (Preview)
+# Get started with Dynamics 365 Guides
 
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
- 
-So you’ve set up [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] using the [Setup topic](setup.md) and you’re ready to get started. What do you do next?
+So you’ve set up [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] using the [Setup topic](setup.md) and you’re ready to get started. What do you do next?
 
 There are three basic things you can do with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]: 
 
@@ -32,7 +30,9 @@ See our [Authoring](authoring-overview.md), [Operating](operator-guide.md), and 
 
 The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is by doing, so here are some tips on getting started: 
 
-1.	Use the Example Guide:
+- Start with the in-the-box demo. CONTENT AND SCREEN SHOTS TO COME.
+
+- Use the Example Guide:
 
     - We have included an Example Guide that you can use to learn about [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It walks you through common workflows and features, provides tips and tricks for great guide creation, and helps you get up to speed by doing.
     
@@ -42,11 +42,11 @@ The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides
 
     - Edit the guide steps and assets using the PC authoring app, or place instructions or holograms using the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode. 
     
-2.	Create your first guide from scratch, try it out, and analyze it.
+- Create your first guide from scratch, try it out, and analyze it.
 
-     - To create your first guide, find a simple step-by-step operation in a physical space that you have access to. We’ve created guides for operating a projector, pouring water into a glass, and making penguin olives! Or use a real-world workflow in your business. 
+     - To create your first guide, find a simple step-by-step operation or assembly and a physical space for that operation or assembly that you have access to. We’ve created guides for operating a projector, pouring water into a glass, and making a bird house! Or use a real-world workflow in your business. 
 
-     - Build your first guide using standard 3D assets. Create your tasks and steps in the PC app, and then move to the [!include[pn-hololens](../includes/pn-hololens.md)] app to place the instructions and holograms in the physical space they relate to. Refer to the [Authoring](authoring-overview.md) and [Operating](operator-guide.md) topics for help. 
+     - Build your first guide using 3D toolkit objects (included with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]). Create your tasks and steps and assign 3D content in the PC app, and then move to the [!include[pn-hololens](../includes/pn-hololens.md)] app to place your holograms and add dotted holographic lines to connect the instruction cards to the physical spaces they relate to. Refer to the [Authoring](authoring-overview.md) and [Operating](operator-guide.md) topics for help. 
 
      - After you’ve created your guide, try it out in Operate mode to see how it works. 
 
