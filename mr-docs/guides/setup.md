@@ -29,7 +29,7 @@ This topic provides step-by-step instructions for all of the above.
 
 ## Step 1: Buy a Dynamics 365 Guides subscription or sign up for a free trial subscription
 
-There are multiple ways to get a Dynamics 365 Guides subscription.
+There are multiple ways to get a Dynamics 365 Guides subscription:
 
 - If you have a Microsoft work account, you can go directly to the Microsoft 365 Admin Center and search for a Dynamics 365 Guides subscription there.
 
