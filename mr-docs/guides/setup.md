@@ -31,16 +31,18 @@ This topic provides step-by-step instructions for all of the above.
 
 ## Step 1: Buy a Dynamics 365 Guides subscription or sign up for a free trial subscription
 
-- Go to [the Getting started page](http://aka.ms/GetGuides), and then follow the instructions to create your user credentials for the preview. After you have your credentials, come back to this page and go to [Step 2: Create a Common Data Service environment](#cds).
+There are multiple ways to get a Dynamics 365 Guides subscription.
+
+- If you have a Microsoft work account, you can go directly to the Microsoft 365 Admin Center and search for a Dynamics 365 Guides subscription there.
+
+- Go to [the Getting started page](http://aka.ms/GetGuides) to create new credentials and follow the instructions to sign up for a free trial subscription. 
 
     > [!IMPORTANT] 
-    > We recommend creating user credentials for the preview even if you have an existing work account. If you're not an admin in the organization, you won't be able to complete Steps 2 and 3. Also, when asked to enter a domain name, don't use your normal work domain. Create a new domain in the form: **guides*YourCompanyName***.
- 
-## Step 2: Create a Common Data Service environment<a name="cds"></a>
+    > If you don't have administrator permissions associated with your work account, you won't be able to complete Steps 2 and 3 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out Dynamics 365 Guides by following the steps on the Getting started page. In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*.
+    
+After you sign up for a Dynamics 365 Guides subscription, you need to assign the Dynamics 365 Guides license to user accounts. To do this:
 
-After signing up for the preview, you’ll need to create an environment where you can install the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution. If you already have a Common Data Service environment, you can skip to [Step 3: Install and configure the Dynamics 365 Guides solution](#configure).
-
-1.	 Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
+1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
 
 
 2.  Make sure that the Dynamics 365 Guides license is assigned to a user. To do that, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
@@ -51,53 +53,42 @@ After signing up for the preview, you’ll need to create an environment where y
 
      ![Edit PowerApps plan](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
-
 4.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** slider to **On**, and then select **Save**.
   
-    ![Add user license](media/guides-license.PNG "Add user license")
-    
-5.  Go to the [PowerApps Admin Center](https://preview.admin.powerapps.com/environments), and sign in with the user credentials provided when you signed up for the preview.
-
-6.	In the PowerApps Admin Center, select **New environment**.
-
-    ![PowerApps Admin Center](media/powerapps-environment.PNG "PowerApps Admin Center")
+    ![Add user license](media/guides-license.PNG "Add user license") 
  
-7.	Fill in the following details for the environment:
+## Step 2: Create a Common Data Service environment<a name="cds"></a>
 
-    -	**Environment name:** Guides_*anyname*
-    -	**Region:** Don't change - **keep the default setting**
-    -	**Environment type:** Set it to **Production**
-  
-        ![New Environment dialog box](media/new-environment-dialog.PNG "New Environment dialog box")
-        
-    > [!NOTE]
-    > Make sure to set **Environment type** to **Production**. Do not set it to **Trial**.
+After acquiring a Dynamics 365 Guides subscription and assigning licenses, you’ll need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Step 3: Install and configure the Dynamics 365 Guides solution](#configure).
     
-8.	Select the **Create environment** button. 
+1.  Go to the Power Platform Admin Center and sign in with the admin user credentials (the one where the Dynamics 365 Guides licenses are assigned).
 
-9.	In the dialog box that appears, select **Create database**.
+2.	In the Power Platform Admin Center, select **Environments**.
 
-    ![Environment created dialog box](media/environment-created.PNG "Environment created dialog box")   
+    ![Power Platform Environments](media/powerapps-environments.PNG "Power Platform Environments")
     
-10.	In the next dialog box, choose your currency and language.
+3.	Select the **More information** button (...) next to the default instance, and then select **Manage Environment**.
+
+    ![Manage Environment](media/powerapps-manage-environment.PNG "Manage Environment")
+    
+4. Change the name of the environment (for example, Guides_*anyname*), and then select **Create my database**.
+
+    ![Create database](media/powerapps-create-database.PNG "Create database")
+    
+5. In the next dialog box, choose your currency and language.
 
     ![Currency and language settings](media/currency-language-settings.PNG "Currency and language settings")
   
-11.	Select **Create database.**
+6.	Select **Create database.**
 
-12.	In the **PowerApps Admin center** > **Environments** screen, select the environment that was just created (a production environment, not a default environment). 
-
-    ![Select the environment](media/select-environment.PNG "Select the environment")
- 
-    The following screen appears while the database is being created and provisioned:
+The following screen appears while the database is being created and provisioned:
     
     ![Provisioning database screen](media/provisioning-database.PNG "Provisioning database screen")
  
     > [!NOTE]
-    > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.
-    
+    > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
 
-13.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link, and then sign in again with the credentials you created for the preview. You might need to close your browser before signing in. 
+7.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link, and then sign in again with the credentials you used in previous steps. You might need to close your browser before signing in. 
 
     ![Admin Center link](media/admin-center-link.PNG "Admin Center link")
 
