@@ -42,7 +42,6 @@ After you sign up for a Dynamics 365 Guides subscription, you need to assign the
 
 1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
 
-
 2.  Make sure that the Dynamics 365 Guides license is assigned to a user. To do that, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
     ![Users > Active Users screen](media/users-active-users.PNG "Users > Active Users screen")
