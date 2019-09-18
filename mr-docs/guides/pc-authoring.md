@@ -11,8 +11,6 @@ ms.reviewer: v-brycho
 
 # Use the PC authoring application to create a guide in Dynamics 365 Guides
 
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
- 
 Use the PC authoring application in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to:
 
 - Create a guide
