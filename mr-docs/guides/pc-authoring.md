@@ -131,7 +131,7 @@ In the Step card page, you write your instructional text and assign supporting a
 
    ![Step command in left navigation](media/left-nav-step.PNG "Step command in left navigation")
 
-2. Enter your instructional text in the black rectangle in the middle of the Step card screen.
+2. Enter your instructional text in the rectangle in the middle of the Step card screen.
 
 ### Add 3D content or media to support a step 
 
@@ -144,11 +144,11 @@ In the Step card page, you write your instructional text and assign supporting a
    > [!NOTE]
    > The collection of boxes below the instructional text is called the “bin.”
   
-When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] in Author mode, you’ll see all the assets that you associated with the steps, and you can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in [!include[pn-hololens](../includes/pn-hololens.md)] authoring. What you see in the Step card page is very similar to what you see on [!include[pn-hololens](../includes/pn-hololens.md)]. 
+When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] in Author mode, you’ll see all the assets that you associated with the steps, and you can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in [!include[pn-hololens](../includes/pn-hololens.md)] authoring in the real world. What you see in the Step card page is very similar to what you see on [!include[pn-hololens](../includes/pn-hololens.md)]. 
 
 ### Best practices for the Step card page
 
-- It’s easy to add another step from the Step card page. Just select **Add new step** in the lower-right corner of the page. No need to go back to the **Outline** page. 
+- It’s easy to add another step from the Step card page. Just select **Add new step** in the top right corner of the page. No need to go back to the **Outline** page. 
 
 - Don’t be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step to help keep the text short.
 
@@ -166,9 +166,9 @@ When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] 
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave. 
 
-### Import your own custom 3D objects to add to the 3D parts list<a name="import"></a>
+### Import your own custom 3D objects<a name="import"></a>
 
-You can import your own custom 3D objects to add to the **3D parts** list, and then assign parts to a step. 
+You can import your own custom 3D objects to add to the **3D parts** library, and then assign parts to a step. 
 
 To import your own 3D objects:
 
@@ -230,11 +230,16 @@ You can use any of the following keyboard shortcuts in the PC application:
 |Ctrl + Z|Undo the last change to the guide|
 |Ctrl + Y|Redo the last change to the guide|
 |Ctrl + F4|Close the current window|
+|Ctrl + Left, Right|Move to previous or next task or step, depending on what's selected|
+|Ctrl + Up, Down|Move to above or below task or step, depending on what's selected|
 |Win + Down|Minimize the current window|
 |Win + Up|Maximize the current window|
 
+> [!NOTE]
+> Microsoft Mixed Reality applications do not have complete solutions in certain scenarios for standards that support programmatic access, UI scaling, or other solutions for customers that are blind. Microsoft is committed to delivering products accessible by all and will continue to investigate solutions for customers needing support in this area. In Mixed Reality, much of the app development environment relies on third-party software that has not yet delivered a rich model for interaction and UI attributes that provide the foundation for usable experiences by customers with visual impairments. Please contact our enterprise disability answer desk for more information on our investigations and roadmaps for Mixed Reality accessibility.
+
 ## What's next?
-After you create your guide, select an anchoring method, and create your tasks and steps, you’re ready to [test things out on HoloLens in a real-world environment, and place your holograms](hololens-authoring.md).
+After you create your guide on the PC, select an anchoring method, and create your tasks and steps, you’re ready to [test things out on HoloLens in a real-world environment, and place your holograms](hololens-authoring.md).
 
 > [!IMPORTANT]
 > When switching between PC and [!include[pn-hololens](../includes/pn-hololens.md)], be sure to select **Refresh** when starting work on a device to ensure that you have the latest version of the guide. 
@@ -248,5 +253,5 @@ Don’t worry if your guide isn’t perfect before switching to [!include[pn-hol
 
 [Overview of authoring a guide](authoring-overview.md)<br>
 [Choose an anchoring method for your guide](anchor.md)<br>
-[Test your guide and place holograms in the HoloLens app](hololens-authoring.md)<br>
+[Author in the HoloLens app](hololens-authoring.md)<br>
  
