@@ -119,11 +119,11 @@ You can also annotate in 2D by toggling augmented reality off or by taking a pic
 ![2D toggle](../media/toggle-button.PNG "2D toggle")
 ![Camera button](../media/camera-button.PNG "Camera button")
 
-You may want to do this to:
+You may want to do this:
 
-- Increase performance and save battery
+- To increase performance and save battery
 
-- Increase accuracy of annotations
+- To increase accuracy of annotations
 
 - If your device does not support augmented reality
 
