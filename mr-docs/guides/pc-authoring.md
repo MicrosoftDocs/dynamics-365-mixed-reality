@@ -73,9 +73,8 @@ The PC authoring app and the [!include[pn-hololens](../includes/pn-hololens.md)]
 When you author a guide, all changes are saved on both the PC and [!include[pn-hololens](../includes/pn-hololens.md)]. This makes it easy to switch between devices. 
 Autosave checks for changes every 4 seconds. You must be online to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]
 
-> [!IMPORTANT]
-> For this preview release, there are a few things to be aware of when syncing devices:<br><br>- As a best practice, always select **Refresh** before making edits when you switch between devices. This ensures that you have the latest version of that file from the other device.<br><br>- If the same version of the guide is open on both the PC and [!include[pn-hololens](../includes/pn-hololens.md)], the app automatically refreshes when it detects that you've made a change in the other app. For example, if you have a guide open on [!include[pn-hololens](../includes/pn-hololens.md)] and add a new step in the PC app, the guide automatically refreshes on [!include[pn-hololens](../includes/pn-hololens.md)]. You might notice the refresh process.<br><br>- When you add text to the guide in the PC application, the auto publish feature activates only when you move the cursor outside the text box. If you add text to a step, keep your cursor in the text box, and then make a change on [!include[pn-hololens](../includes/pn-hololens.md)], or you’ll lose the text you created on the PC when 
-it updates with the changes from [!include[pn-hololens](../includes/pn-hololens.md)]. This issue will be addressed in our next release. 
+> [!NOTE]
+> When you switch from one device to the other, it's best to close the guide to make sure you don't lose any work. 
 
 ## Choose an anchoring method for your guide
 
@@ -122,13 +121,15 @@ Here’s the **Outline** page from the Example Guide to show what a completed **
   
 ## Create steps and assign assets in the Step card page
 
-You can create steps on the **Outline** page, but you’ll probably create most of your steps from the WYSIWYG Step card page.  
+You can create steps on the **Outline** page, but you’ll probably create most of your steps from the WYSIWYG Step card page. The instructions you create on the Step card page match what the operator will see on [!include[pn-hololens](../includes/pn-hololens.md)].
 
 In the Step card page, you write your instructional text and assign supporting assets for that step, like 3D content or media (image or video). 
 
 ### Open the Step card page and add instructions
 
-1. Double-click any step on the **Outline** page. 
+1. Click any step on the **Outline** page, or select **Step** in the left navigation. 
+
+   ![Step command in left navigation](media/left-nav-step.PNG "Step command in left navigation")
 
 2. Enter your instructional text in the black rectangle in the middle of the Step card screen.
 
