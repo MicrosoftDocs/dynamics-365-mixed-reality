@@ -1,19 +1,17 @@
 ---
 author: Mamaylya
-description: Test and place holograms using the Dynamics 365 Guides (Preview) HoloLens application in Author mode 
+description: Test and place holograms using the Dynamics 365 Guides HoloLens application in Author mode 
 ms.author: mamaylya
-ms.date: 08/27/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Test and place holograms using HoloLens Author mode in Dynamics 365 Guides (Preview) 
+title: Test and place holograms using HoloLens Author mode in Dynamics 365 Guides 
 ms.reviewer: v-brycho
 ---
 
 # Test your guide and place holograms using HoloLens Author mode
 
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
- 
-The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] takes place on the [!include[pn-hololens](../includes/pn-hololens.md)] application. In [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, you:
+The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] takes place on the [!include[pn-hololens](../includes/pn-hololens.md)] application. In [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, you:
 
 - Anchor your guide.
 
@@ -35,7 +33,7 @@ To install the HoloLens app:
 
 1.	Make sure you have [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
 
-2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open [!include[cc-microsoft](../includes/cc-microsoft.md)] Store and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
+2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open [!include[cc-microsoft](../includes/cc-microsoft.md)] Store and search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]”.
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
@@ -102,7 +100,11 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
  
 7.	Select an instance to use if you have more than one instance, and then select **Continue**.
 
-8.	In the **Select Mode** dialog box, gaze at the box to the left of **Author** until the box fills, which selects that item. 
+8. In the **Select Guides** screen, gaze at the guide you want to open until the circle fills, which selects that guide.
+
+    ![Select Guide screen](media/select-guide.PNG "Select Guide screen")
+
+9.	In the **Select Mode** dialog box, gaze at the box to the left of **Author** to select it. 
 
     ![Select Author mode](media/select-mode.PNG "Select Author mode")
     
@@ -132,8 +134,13 @@ The first thing you see when you open a guide is the anchoring instructions from
    
 4. If the outline aligns with the printed anchor, select **Confirm**. If not, select **Rescan**.
    
-> [!NOTE]
-> If you chose to use a digital anchor to align the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
+### To anchor a guide by using a digital anchor
+
+1. Use air tap and hold to align the digital anchor to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres.
+
+   ![Rotate digital anchor](media/rotate-digital-anchor.PNG "Rotate digital anchor")
+
+### Re-anchoring a guide
 
 When you anchor your guide, the anchoring information is stored on your [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to re-anchor the guide every time you open it. You can re-anchor a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section.
 
