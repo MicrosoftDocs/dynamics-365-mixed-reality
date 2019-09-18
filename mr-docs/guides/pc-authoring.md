@@ -1,19 +1,19 @@
 ---
 author: Mamaylya
-description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides (Preview).
+description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 08/27/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Use the PC authoring application to create a guide in Dynamics 365 Guides (Preview)
+title: Use the PC authoring application to create a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Use the PC authoring application to create a guide in Dynamics 365 Guides (Preview)
+# Use the PC authoring application to create a guide in Dynamics 365 Guides
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
  
-Use the PC authoring application in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] to:
+Use the PC authoring application in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to:
 
 - Create a guide
 
@@ -37,7 +37,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 ### Install the app 
 1.	On your [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC, make sure you have the latest [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 build (10.0.16299 or later).
 
-2.	Go to **Start** ![Start button](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)].”
+2.	Go to **Start** ![Start button](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].”
 
 3.  Select **Install** to download and install [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
@@ -50,7 +50,7 @@ Use these instructions to install the app (if it hasn't already been installed f
     
 3.	In the **Sign in** dialog box, select **Work or school account**, and then select **Continue**. 
 
-4.	In the **Sign in** screen, enter the user account and password assigned to you by your organization. If you’re the administrator, these are the credentials you created when you signed up for the preview.
+4.	In the **Sign in** screen, enter the user account and password assigned to you by your organization. 
 
     ![Sign-in to the PC app](media/sign-in-pc.PNG "Sign in to the PC app")
  
