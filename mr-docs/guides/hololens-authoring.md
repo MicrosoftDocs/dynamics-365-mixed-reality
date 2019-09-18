@@ -342,8 +342,6 @@ To duplicate a model:
 
     ![Duplicate button](media/edit-duplicate.PNG "Duplicate button")
 
-
-
 ## What's next?
 
 To learn more about [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], here are some helpful links:
