@@ -16,7 +16,7 @@
 ### [Use the Dynamics 365 Import Tool to convert 3D models](import-tool.md)
 ## [Operator's manual](operator-guide.md)
 ## [Analyze your guides](analytics-guide.md)
-## [Dynamics 365 for Field Service integration](field-service.md)
+## [Dynamics 365 Field Service integration](field-service.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
 ## [Known issues](known-issues.md)
