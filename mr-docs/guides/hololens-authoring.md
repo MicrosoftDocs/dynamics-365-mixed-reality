@@ -268,7 +268,7 @@ The following graphic shows how to use the different rotation knobs:
 
 #### Change the size of a hologram after placing it
 
-- Air tap and hold the **Scale** button, and then move your hand up or down.  
+- Air tap and hold the **Scale hologram** button, and then move your hand up or down.  
 
    ![Change hologram size](media/manipulate-holograms.PNG "Change hologram size")
 
@@ -292,7 +292,7 @@ To place a style:
 
 1.	Air tap a hologram you’ve already placed in the real world to select it.
 
-2.	Air tap the **Edit Hologram** (. . .) button.
+2.	Air tap the **Edit Hologram** button.
 
     ![Edit hologram button](media/manipulate-holograms.PNG "Edit hologram button")
 
@@ -334,7 +334,7 @@ To duplicate a model:
 
 1.	Air tap a hologram you’ve already placed in the real world to select it.
 
-2.	Air tap the **Edit Hologram** (. . .) button.
+2.	Air tap the **Edit Hologram** button.
 
     ![Edit hologram button](media/manipulate-holograms.PNG "Edit hologram button")
     
