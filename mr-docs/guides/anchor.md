@@ -189,3 +189,5 @@ Before using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on 
 - **Impact of device positioning.** [!include[pn-hololens](../includes/pn-hololens.md)] uses a novel display technology to project images in the user’s field of view, which creates holograms. The way a user wears a device on their head has a huge impact on the perceived position of the holograms. 
 
    The best way to understand this is to adjust the device positioning while aligning holograms to their physical counterparts in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Observe how the alignment of holograms is affected when you shift the device left and right, up and down, and when you slide the display forward and backward. Users should wear the device in a consistent way and understand that subtle shifts in device positioning might not feel different but can lead to significant changes to perceived hologram locations.
+   
+- **Using the same anchor for authoring and operating.** For best accuracy, use the same anchor for authoring and operating. 
