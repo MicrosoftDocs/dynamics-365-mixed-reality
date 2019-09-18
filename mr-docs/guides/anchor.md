@@ -1,4 +1,13 @@
-
+---
+author: Mamaylya
+description: Learn about anchoring holograms in Dynamics 365 Guides and how to create a printed anchor or digital anchor.
+ms.author: mamaylya
+ms.date: 10/01/2019
+ms.service: crm-online
+ms.topic: article
+title: Choose an anchoring method for your guide in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
 # Choose an anchoring method for your guide
 
