@@ -156,10 +156,10 @@ At the top of the Step card screen, you’ll see three buttons: **Save**, **Undo
 
 ![HoloLens step card screen](media/save-undo-redo.PNG "HoloLens step card screen")
  
-The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. There’s no limit to the number of times you can undo or redo. 
+The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. You can undo 100 changes or redo 100 changes.  
 
 > [!NOTE]
-> Changes are automatically saved as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
+> Changes are automatically saved in the cloud as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
 
 The Step card also includes several other buttons and UI elements:
 
@@ -179,7 +179,6 @@ Here’s what each button or UI element is used for:
 |H|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 |I|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 
-
 ## Test the flow of your guide
 Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
  
@@ -187,7 +186,7 @@ Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], w
 
 You can add dotted lines (*tethers*) to link your Step cards to the areas where the work gets done. These dotted lines show the operator where to focus. 
 
-![Holographic tether](media/tether-example.PNG "Holographic tether")
+![Holographic dotted lines](media/tether-example.PNG "Holographic dotted lines")
 
 To place a dotted line:
 
@@ -195,7 +194,7 @@ To place a dotted line:
 
 2.	Drag it to the real-world location that you want.
 
-    ![Place a tether](media/place-tether.PNG "Place a tether")
+    ![Place a dotted line](media/place-tether.PNG "Place a dotted line")
 
 ### Best practices for dotted lines
 
@@ -316,7 +315,7 @@ Here’s a list of styles included in [!include[pn-dyn-365-guides](../includes/p
 |See-through 2	|Layer one thing on top of another so the operator can see through two layers.	|75% transparent|
 |Warning	|Warn about a safety or quality concern.	|Yellow and black striped|
 |Avoid	|Show areas or things to avoid.	|Red flashing|
-|X-ray	|Show things that happen inside something.	|Outline with transparent inside|
+|X-ray	|Show things that happen inside something.	|Shows a pulse through it|
 |Metal	|Provide a realistic metal finish for an object.	|Metallic|
 
 ![All styles](media/all-styles.PNG "All styles")
