@@ -23,7 +23,7 @@ The second major step in authoring a guide in [!include[cc-microsoft](../include
 
 - Add styles (optional) to 3D content to add treatments such as a warning or caution.
 
-  ![Test your guide](media/test-guide.PNG "Test your guide")
+  ![Test your guide](media/test-your-guide.PNG "Test your guide")
 
 ## Install the HoloLens app
 
