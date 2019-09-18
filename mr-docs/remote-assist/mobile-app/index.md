@@ -67,11 +67,11 @@ A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account i
 3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)], or 
 select **Skip** if you don’t want to link the apps at this time. You can always link them later through **Settings**. To learn more about how the apps work together, select **Learn More**.
 
-   ![Field Service screen](../media/field-service.PNG "Field Service screen")
+    ![Field Service screen](../media/field-service.PNG "Field Service screen")
    
 4. If you don't have a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license, another dialog box will prompt you to get a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license or to sign up for a free trial.
 
-   ![Failed license screen](../media/failed-license.PNG "Failed license screen")
+    ![Failed license screen](../media/failed-license.PNG "Failed license screen")
   
 ## Make a call
 After signing in, you’ll see the **Contacts** page, which is the main page in [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. On the **Contacts** page, 
