@@ -9,7 +9,7 @@ title: Dynamics 365 Remote Assist for mobile user guide
 ms.reviewer: v-brycho
 ---
 
-# Dynamics 365 Remote Assist Mobile for mobile user guide
+# Dynamics 365 Remote Assist for mobile user guide
 
 [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile extends the capabilities of [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to work with iOS or [!include[tn-android](../../includes/tn-android.md)] tablets and ARCore-capable [!include[tn-android](../../includes/tn-android.md)] phones (in addition to [!include[cc-microsoft](../../includes/cc-microsoft.md)]  [!include[pn-HoloLens](../../includes/pn-HoloLens.md)]). Technicians can use their phones to connect and collaborate with an 
 expert on [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)]. Using live video calling and annotations, they can share what they see with the expert 
@@ -187,7 +187,7 @@ When you sign in to [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-36
 
 ## Get support or provide feedback
 
-If you’d like access to the product forum or to leave feedback on the app, go to [Dynamics 365 Remote Assist Community](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommunity.dynamics.com%2F365%2Fremoteassist%2F&data=02%7C01%7CAppa.Hardner%40microsoft.com%7C13ed052d9b4748edbd2708d73afd1af1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637042731056891564&sdata=I6tj74%2F5mWbX%).
+If you’d like access to the product forum or to leave feedback on the app, go to [Dynamics 365 Remote Assist Community](https://community.dynamics.com/365/remoteassist/).
 
 You can also provide feedback directly from the app by using the following procedure:
 
