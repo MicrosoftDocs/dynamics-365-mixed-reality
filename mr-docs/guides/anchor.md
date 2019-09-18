@@ -45,7 +45,7 @@ After you name your guide, you’ll see the **Outline** page and a prompt to cre
 
 ![Outline page with anchor prompt](media/outline-page.PNG "Outline page with anchor prompt")
 
-- Select **Set your anchor now** to display the **Choose an anchor method** screen.
+Select **Set your anchor now** to display the **Choose an anchor method** screen.
 
 ![Anchoring methods screen](media/choose-anchor-method.PNG "Anchoring methods screen")
 
@@ -191,3 +191,8 @@ Before using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on 
    The best way to understand this is to adjust the device positioning while aligning holograms to their physical counterparts in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Observe how the alignment of holograms is affected when you shift the device left and right, up and down, and when you slide the display forward and backward. Users should wear the device in a consistent way and understand that subtle shifts in device positioning might not feel different but can lead to significant changes to perceived hologram locations.
    
 - **Using the same anchor for authoring and operating.** For best accuracy, use the same anchor for authoring and operating. 
+
+### See also
+
+[Author a guide using the PC application](pc-authoring.md)</br>
+[Author a guide using the HoloLens application](hololens-authoring.md)
