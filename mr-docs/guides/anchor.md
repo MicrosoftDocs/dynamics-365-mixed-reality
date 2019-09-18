@@ -11,18 +11,10 @@ ms.reviewer: v-brycho
 
 # Choose an anchoring method for your guide
 
-After you name your guide, you’ll see the **Outline** page and a prompt to create an anchor.
-
-![Outline page with anchor prompt](media/outline-page.PNG "Outline page with anchor prompt")
-
-- Select **Set your anchor now** to display the **Choose an anchor method** screen.
-
-![Anchoring methods screen](media/choose-anchor-method.PNG "Anchoring methods screen")
-
-## How anchoring works and types of anchors
-
 Anchoring is used to spatially sync your instructions to the real world. When you anchor your guide, your instructions coincide 
 with the space they live in and become meaningful. Your content is centered around this anchoring point.
+
+## Two types of anchors
 
 There are two types of anchors:
 
@@ -47,10 +39,17 @@ following reasons:
 
 - A part is too small to attach a printed anchor to.
 
-> [!NOTE]
-> For best accuracy, use the **same** printer anchor for authoring and operating. 
+## Create an anchor
 
-## Anchor your guide by using a printed anchor
+After you name your guide, you’ll see the **Outline** page and a prompt to create an anchor.
+
+![Outline page with anchor prompt](media/outline-page.PNG "Outline page with anchor prompt")
+
+- Select **Set your anchor now** to display the **Choose an anchor method** screen.
+
+![Anchoring methods screen](media/choose-anchor-method.PNG "Anchoring methods screen")
+
+## Anchor your guide using a printed anchor
 
 Using a printed anchor involves three basic steps:
 
@@ -92,6 +91,8 @@ change the scale to 100.4% to get 49.196 mm, which would be within tolerance.<br
 ### Best practices for printed anchors
 
 Keep the following in mind when working with printed anchors:
+
+- **Same anchor for authoring and printing.** For best accuracy, use the **same** printer anchor for authoring and operating. 
 
 - **Size.** Make sure that your printed anchor is the exact size indicated in this document. Incorrect anchor size causes guide misalignment. 
 
