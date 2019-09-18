@@ -5,11 +5,11 @@ ms.author: makamat
 ms.date: 07/23/2019
 ms.service: crm-online
 ms.topic: article
-title: Integrate Dynamics 365 for Field Service with Dynamics 365 Guides (Preview)
+title: Integrate Dynamics 365 Field Service with Dynamics 365 Guides (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Integrate Dynamics 365 for Field Service with Dynamics 365 Guides (Preview)
+# Integrate Dynamics 365 Field Service with Dynamics 365 Guides (Preview)
 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration (included in version 104.1907.19001 for Public Preview) enables [!include[pn-field-service](../includes/pn-field-service.md)] 
 customers to attach guides to [!include[pn-field-service](../includes/pn-field-service.md)] tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]. When work orders are assigned to technicians, 
@@ -72,7 +72,7 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
 
 ### See also
 
-[Overview of Dynamics 365 for Field Service](https://docs.microsoft.com/dynamics365/customer-engagement/field-service/overview)
+[Overview of Dynamics 365 Field Service](https://docs.microsoft.com/dynamics365/customer-engagement/field-service/overview)
       
       
    
