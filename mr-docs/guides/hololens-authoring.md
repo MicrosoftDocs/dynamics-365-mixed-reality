@@ -154,7 +154,7 @@ Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows
 
 At the top of the Step card screen, you’ll see three buttons: **Save**, **Undo**, and **Redo**.
 
-![HoloLens step card screen](media/step-card-orientation.PNG "HoloLens step card screen")
+![HoloLens step card screen](media/save-undo-redo.PNG "HoloLens step card screen")
  
 The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. There’s no limit to the number of times you can undo or redo. 
 
