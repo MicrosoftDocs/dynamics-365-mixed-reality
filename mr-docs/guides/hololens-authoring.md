@@ -268,7 +268,7 @@ The following graphic shows how to use the different rotation knobs:
 
 #### Change the size of a hologram after placing it
 
-- Air tap and hold the **Scale hologram** button, and then move your hand up or down.  
+- Air tap and hold the **Scale Hologram** button, and then move your hand up or down.  
 
    ![Change hologram size](media/manipulate-holograms.PNG "Change hologram size")
 
