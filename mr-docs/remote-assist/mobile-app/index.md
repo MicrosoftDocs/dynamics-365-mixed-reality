@@ -69,7 +69,7 @@ select **Skip** if you don’t want to link the apps at this time. You can alway
 
     ![Field Service screen](../media/field-service.PNG "Field Service screen")
    
-4. If you don't have a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license, another dialog box will prompt you to get a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license or to sign up for a free trial.
+4. If you don't have a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license, another dialog box will prompt you to get a license or to sign up for a free trial.
 
     ![Failed license screen](../media/failed-license.PNG "Failed license screen")
   
