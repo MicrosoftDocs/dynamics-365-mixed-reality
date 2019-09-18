@@ -45,17 +45,17 @@ If you want to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365
 
 ### Step 1: Sign up for a Microsoft Teams account (free)
 
-A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account is required to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] mobile. If you don’t already have a [!include[pn-teams](../../includes/pn-teams.md)] account, you can [create a Teams account for free](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
+A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account is required to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. If you don’t already have a [!include[pn-teams](../../includes/pn-teams.md)] account, you can [create a Teams account for free](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### Step 2: Download the app
 
-1.	Go to the [!include[tn-google](../../includes/tn-google.md)] Play Store: https://play.google.com/store/apps/details?id=com.microsoft.ramobile.
+1.	Go to the [!include[tn-google](../../includes/tn-google.md)] Play Store: https://play.google.com/store/apps/details?id=com.microsoft.ramobile or Apple Store: .
 
 2.	Select **Download**. 
  
 ### Step 3: Sign in to the app for the first time
 
-1.	After you’ve downloaded the app, open it on your [!include[tn-android](../../includes/tn-android.md)] phone. 
+1.	After you’ve downloaded the app, open it on your phone or tablet. 
 
 2.	Sign in with your [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account.
 
@@ -67,14 +67,17 @@ A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account i
 3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)], or 
 select **Skip** if you don’t want to link the apps at this time. You can always link them later through **Settings**. To learn more about how the apps work together, select **Learn More**.
 
-    ![Field Service screen](../media/field-service.PNG "Field Service screen")
+   ![Field Service screen](../media/field-service.PNG "Field Service screen")
+   
+4. If you don't have a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license, another dialog box will prompt you to get a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license or to sign up for a free trial.
+
+   ![Failed license screen](../media/failed-license.PNG "Failed license screen")
   
 ## Make a call
-After signing in, you’ll see the **Contacts** page, which is the main page in the [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] mobile app. On the **Contacts** page, 
+After signing in, you’ll see the **Contacts** page, which is the main page in [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. On the **Contacts** page, 
 your contacts are organized by the most recent calls.
 
 ![Contacts screen](../media/contacts.PNG "Contacts screen")
-
 
 To make a call:
 
@@ -93,38 +96,40 @@ To make a call:
   
  
 ## Add annotations
-You can add annotations to your screen to share with an expert on the call. To create annotations, your phone needs to recognize 
-at least one plane (vertical or horizontal) in your work area. You do this by scanning your work area with the phone. When a plane has been recognized, you’ll see a confirmation visualization and the annotation toolbar will appear at the top of the screen:
+You can add annotations to your screen to share with an expert on the call. To create annotations, your phone or tablet needs to recognize 
+at least one plane (vertical or horizontal) in your work area. You do this by scanning your work area with the phone or tablet. When a plane has been recognized, you’ll see a confirmation visualization and the annotation toolbar will appear at the top of the screen:
 
 ![Add annotations](../media/annotation-bar-full-screen.PNG "Add annotations")
   
 > [!NOTE] 
-> If you lock your phone or minimize [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)], the recognized planes will reappear automatically as soon as your phone recognizes the environment.
+> If you lock your phone or tablet, or minimize [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)], the recognized planes will reappear automatically as soon as your phone recognizes the environment.
 
-### Add an annotation
-You can add an annotation by using the buttons on the annotation toolbar:
+### Add an augmented reality annotation
+
+You can add an augmented-reality annotation by using the buttons on the annotation toolbar:
 
 ![Annotation bar](../media/annotation-bar.PNG "Annotation bar")
   
 For example, to add an arrow, tap the arrow tool and drag your finger to the spot where you want to place the arrow.
 
-### Minimize or restore the toolbar
+### Add a 2D annotation
 
-To minimize the toolbar if you want to see more of the screen:
+You can also annotate in 2D by toggling augmented reality off or by taking a picture.
 
-- Select the arrow on the right side of the toolbar. 
+![2D toggle](../media/toggle-button.PNG "2D toggle")
+![Camera button](../media/camera-button.PNG "Camera button")
 
-  ![Minimize bar](../media/minimize-bar.PNG "Minimize bar")
- 
-To restore the toolbar to its original size:
+You may want to do this to:
 
-- Select the **Pen** button. 
+- Increase performance and save battery
 
-  ![Pen button](../media/pen-button.PNG "Pen button")
+- Increase accuracy of annotations
+
+- If your device does not support augmented reality
 
 ### Make the expert’s video feed bigger
 
-When you call an expert, the expert’s video feed appears in the lower-right corner of your phone screen. To make the expert’s 
+When you call an expert, the expert’s video feed appears in the lower-right corner of your phone or tablet screen. To make the expert’s 
 video feed bigger, tap the feed. Tap the feed again to return to the original size.
 
 ![Expert video feed](../media/expert-annotating.PNG "Expert video feed")
@@ -133,16 +138,16 @@ If the expert is annotating, a notification icon will appear on the expert's fee
 
 ## Switch the camera view from portrait to landscape
 
-You can switch the orientation of the camera view from portrait to landscape while in a call by changing the orientation of your phone. Using landscape view provides a wider field of view, which may improve the experience for the remote expert on the call.
+You can switch the orientation of the camera view from portrait to landscape while in a call by changing the orientation of your phone or tablet. Using landscape view provides a wider field of view, which may improve the experience for the remote expert on the call.
    
-## Use Remote Assist together with Dynamics 365 for Field Service
+## Use Remote Assist together with Dynamics 365 Field Service
 
 You can use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] together with [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] if you want to automatically log call information to a 
 [!include[pn-field-service](../../includes/pn-field-service.md)] work order when you end the call. 
 
-When you sign in to the [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] mobile app for the first time, you’re prompted to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)]. You can link the apps through **Settings** if you chose not to link them at first sign-in.
+When you sign in to [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile for the first time, you’re prompted to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)]. You can link the apps through **Settings** if you chose not to link them at first sign-in.
 
-### Link the Remote Assist mobile app to Dynamics 365 for Field Service
+### Link Dynamics 365 Remote Assist for mobile to Dynamics 365 Field Service
 
 1.	Select the **Main menu** ![Main menu button](../media/main-menu-button.PNG "Main menu button") button.
 
@@ -152,7 +157,7 @@ When you sign in to the [!include[pn-dyn-365-remote-assist](../../includes/pn-dy
 
     ![Settings screen](../media/settings.PNG "Settings screen")
   
-### Save call data to a Field Service work order
+### Save call data to a Dynamics 365 Field Service work order
 
 1.	When you end the call, the following dialog box will appear:
 
@@ -182,15 +187,8 @@ When you sign in to the [!include[pn-dyn-365-remote-assist](../../includes/pn-dy
 
 ## Get support or provide feedback
 
-If you’d like to get direct access to the product team forum and provide feedback on the mobile app preview:
+If you’d like access to the product forum or to leave feedback on the app, go to [Dynamics 365 Remote Assist Community](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcommunity.dynamics.com%2F365%2Fremoteassist%2F&data=02%7C01%7CAppa.Hardner%40microsoft.com%7C13ed052d9b4748edbd2708d73afd1af1%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637042731056891564&sdata=I6tj74%2F5mWbX%).
 
-1.	Sign up for the [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] Mobile Public Preview Insiders Program at https://experience.dynamics.com. 
-
-
-2.	Select the **Insider Program** box, which will lead you to the Insider Program application.
-
-    ![Insider Program button](../media/insiders-program.PNG "Insider Program button")
- 
 You can also provide feedback directly from the app by using the following procedure:
 
 1.	Select the **Main menu** ![Main menu button](../media/main-menu-button.PNG "Main menu button") button.
@@ -199,4 +197,4 @@ You can also provide feedback directly from the app by using the following proce
 
 ### See also
 
-[Troubleshoot Dynamics 365 for Field Service integration with Remote Assist](../troubleshoot-field-service.md)
+[Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](../troubleshoot-field-service.md)
