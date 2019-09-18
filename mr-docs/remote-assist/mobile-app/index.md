@@ -102,7 +102,7 @@ at least one plane (vertical or horizontal) in your work area. You do this by sc
 ![Add annotations](../media/annotation-bar-full-screen.PNG "Add annotations")
   
 > [!NOTE] 
-> If you lock your phone or tablet, or minimize [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile, the recognized planes will reappear automatically as soon as your phone recognizes the environment.
+> If you lock your phone or tablet, or minimize [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile, the recognized planes will reappear automatically as soon as your phone or tablet recognizes the environment.
 
 ### Add an augmented reality annotation
 
