@@ -100,7 +100,7 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
  
 7.	Select an instance to use if you have more than one instance, and then select **Continue**.
 
-8. In the **Select Guides** screen, gaze at the guide you want to open until the circle fills, which selects that guide.
+8. In the **Select Guide** screen, gaze at the guide you want to open until the circle fills, which selects that guide.
 
     ![Select Guide screen](media/select-guide.PNG "Select Guide screen")
 
@@ -114,7 +114,7 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
 ## Anchor your guide
 The first thing you see when you open a guide is the anchoring instructions from the PC authoring application. 
 
-### To anchor a guide by using a printed anchor
+### To anchor a guide using a printed anchor
 
 1. Stand about two feet in front of the printed anchor.
 
@@ -134,13 +134,13 @@ The first thing you see when you open a guide is the anchoring instructions from
    
 4. If the outline aligns with the printed anchor, select **Confirm**. If not, select **Rescan**.
    
-### To anchor a guide by using a digital anchor
+### To anchor a guide using a digital anchor
 
-1. Use air tap and hold to align the digital anchor to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres.
+- Use air tap and hold to move and align the digital anchor to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres.
 
    ![Rotate digital anchor](media/rotate-digital-anchor.PNG "Rotate digital anchor")
 
-### Re-anchoring a guide
+### Re-anchor a guide
 
 When you anchor your guide, the anchoring information is stored on your [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to re-anchor the guide every time you open it. You can re-anchor a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section.
 
