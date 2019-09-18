@@ -246,5 +246,6 @@ Don’t worry if your guide isn’t perfect before switching to [!include[pn-hol
 ### See also
 
 [Overview of authoring a guide](authoring-overview.md)<br>
+[Choose an anchoring method for your guide](anchor.md)<br>
 [Test your guide and place holograms in the HoloLens app](hololens-authoring.md)<br>
  
