@@ -15,7 +15,7 @@ Thank you for being part of the Dynamics 365 Guides Preview! Since the release
 at Mobile World Congress in Barcelona, we have taken your feedback and invested in continually improving the experience and expanding 
 functionality.  
  
-Starting October 1, 2019, Dynamics 365 Guides is generally available.  
+**Starting October 1, 2019, Dynamics 365 Guides is generally available.**  
  
 If you want to continue using Dynamics 365 Guides and receiving updates, you need to update the PC authoring app and the HoloLens app, 
 and install new Dynamics 365 Guides solution using the Dynamics 365 Admin Center.  
