@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Other online documentation in Dynamics 365 Guides focuses on helping you learn how to use the Dyanmics 365 Guides applications and their various features. This document focuses on how to author great guide content to best communicate instructions to your operators. We suggest reading all other documentation first to get a good understanding of how to use the Dynamics 365 Guides applications, and then refer to this documentation to start authoring high-quality guides.
 
-## Gett started
+## Get started
 
 ### Gather content
 
