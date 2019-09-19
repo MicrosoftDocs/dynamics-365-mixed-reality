@@ -14,5 +14,6 @@
 ## Legal documents
 ### [Remote Assist software license terms](../legal/remote-assist-license-terms.md)
 ### [Remote Assist free trial software license terms](../legal/remote-assist-license-terms-free-trial.md)
-### [Remote Assist Mobile Preview license terms](../legal/remote-assist-mobile-terms.md)
+### [Remote Assist Mobile Android license terms](../legal/remote-assist-mobile-android.md)
+### [Remote Assist Mobile iOS license terms](../legal/remote-assist-mobile-iOS.md)
 ### [Third-party notices](../legal/remote-assist-third-party-notice.md)
