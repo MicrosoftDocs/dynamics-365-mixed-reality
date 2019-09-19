@@ -9,7 +9,6 @@
 ### [What's new](new.md)
 ## Author a guide
 ### [Authoring overview](authoring-overview.md)
-### [Before you start](before-you-start.md)
 ### [Author in the PC application](pc-authoring.md)
 ### [Choose an anchoring method for your guide](anchor.md)
 ### [Author in the HoloLens application](hololens-authoring.md)
