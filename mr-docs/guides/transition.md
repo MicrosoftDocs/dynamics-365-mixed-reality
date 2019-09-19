@@ -49,4 +49,23 @@ the Dynamics 365 Guides preview. 
 
 SCREENSHOT GOES HERE: guides-preview-billing
 
-3. Select **Dynamics 365 Guides Preview** in the main list to see when the preview license expires.  
+3. Select **Dynamics 365 Guides Preview** in the main list to see when the preview license expires. 
+
+### To buy a general availability license
+
+1. Go to the [Microsoft 365 admin portal](http://admin.microsoft.com).
+
+2. Sign in with the admin credentials for the tenant that you want to add the license to.
+
+3. Select **Billing** > **Purchase Services**.
+
+SCREEN SHOT GOES HERE: guides-ga-billing
+
+4. Find the Dynamics 365 Guides item, and then select **Start free trial** or **Buy now”. 
+
+If you require a different type of license, please contact your mixed reality sales specialist or account executive.  
+ 
+
+
+
+
