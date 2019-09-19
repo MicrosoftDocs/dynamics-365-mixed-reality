@@ -57,7 +57,7 @@ the Dynamics 365 Guides preview. 
 
    ![Billing > Subscriptions](media/guides-preview-billing.PNG "Billing > Subscriptions")  
 
-### To buy a general availability license
+### Get a trial or purchase license
 
 1. Go to the [Microsoft 365 admin portal](http://admin.microsoft.com).
 
