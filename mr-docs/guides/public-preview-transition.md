@@ -18,7 +18,7 @@ functionality.
 **Starting October 1, 2019, Dynamics 365 Guides is generally available.**  
  
 If you want to continue using Dynamics 365 Guides and receiving updates, you need to update the PC authoring app and the HoloLens app, 
-and install new Dynamics 365 Guides solution using the Dynamics 365 Admin Center.  
+and install the new Dynamics 365 Guides solution using the Dynamics 365 Admin Center.  
  
 Please follow the instructions below to transition to GA.  
  
@@ -37,7 +37,7 @@ administrator credentials you used for public preview.
 
    ![Edit button](media/small-edit-button.PNG "Edit button")  
 
-4. In the list of solutions, select **Dynamics 365 Guides solution**, and then select **Install**. This will install the GA version of the solution and remove the preview solution.  
+4. In the list of solutions, select **Dynamics 365 Guides**, and then select **Install**. This will install the GA version of the solution and remove the preview solution.  
 
    ![Install the GA version](media/install-ga-version.PNG "Install the GA version")  
    
@@ -53,11 +53,9 @@ You have to sign up for the GA license for Dynamics 365 Guides when your pub
 1. Go to the [Microsoft 365 admin portal](https://admin.microsoft.com/) and sign in with the admin account for the tenant that includes 
 the Dynamics 365 Guides preview.  
 
-2. Go to **Billing** > **Subscriptions**.
+2. Go to **Billing** > **Subscriptions**, and then select **Dynamics 365 Guides Preview Trial** in the main list to see when the preview license expires. 
 
    ![Billing > Subscriptions](media/guides-preview-billing.PNG "Billing > Subscriptions")  
-
-3. Select **Dynamics 365 Guides Preview** in the main list to see when the preview license expires. 
 
 ### To buy a general availability license
 
@@ -69,7 +67,7 @@ the Dynamics 365 Guides preview. 
 
    ![Billing > Purchase Services](media/guides-ga-billing.PNG "Billing > Purchase Services")
 
-4. Find the Dynamics 365 Guides item, and then select **Start free trial** or **Buy now”. 
+4. Find the Dynamics 365 Guides item, and then select **Start free trial** or **Buy now**. 
 
 If you require a different type of license, please contact your mixed reality sales specialist or account executive.  
  
