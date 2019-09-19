@@ -3,7 +3,7 @@
 ## [Requirements](requirements.md)
 ## [Buy and deploy Dynamics 365 Guides](setup.md)
 ## [Upgrade the Guides solution (for admins)](upgrade.md)
-## [Transition from public preview to GA](transition.md)
+## [Transition from public preview to GA](public-preview-transition.md)
 ## Get started
 ### [Get started](get-started.md)
 ### [What's new](new.md)
