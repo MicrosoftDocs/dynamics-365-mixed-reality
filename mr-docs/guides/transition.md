@@ -1,6 +1,15 @@
+---
+author: Mamaylya
+description: Learn about transitioning from the public preview version of Dynamics 365 Guides to the GA version.
+ms.author: mamaylya
+ms.date: 10/01/2019
+ms.service: crm-online
+ms.topic: article
+title: Transition from Dynamics 365 Guides public preview to GA
+ms.reviewer: v-brycho
+---
 
-
-# Transition from public preview to GA
+# Transition from Dynamics 365 Guides public preview to GA
 
 Thank you for being part of the Dynamics 365 Guides Preview! Since the release of Dynamics 365 Guides to the public at the end February 
 at Mobile World Congress in Barcelona, we have taken your feedback and invested in continually improving the experience and expanding 
