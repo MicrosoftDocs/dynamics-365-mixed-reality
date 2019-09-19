@@ -1,4 +1,13 @@
-
+---
+author: ReneeW-CPub
+description: Microsoft Software License Terms Microsoft Dynamics 365 Remote Assist iOS Mobile
+ms.author: renwe
+ms.date: 10/01/2019
+ms.service: crm-online
+ms.topic: article
+title: Microsoft Software License Terms Microsoft Dynamics 365 Remote Assist iOS Mobile
+robots: noindex, nofollow
+---
 
 # MICROSOFT SOFTWARE LICENSE TERMS - MICROSOFT DYNAMICS 365 REMOTE ASSIST iOS MOBILE
 
