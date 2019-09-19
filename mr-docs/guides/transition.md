@@ -24,15 +24,14 @@ administrator credentials you used for public preview.
 
 2. Select the **Instances** tab, and then choose an instance that has the Dynamics 365 Guides Preview solution installed. 
 
-3. Select the small edit button next to Solutions to see the list of solutions.  
+3. Select the small edit button next to **Solutions** to see the list of solutions.  
 
-SCREENSHOT GOES HERE: small-edit-button
+   ![Edit button](media/small-edit-button.PNG "Edit button")  
 
-4. In the list of solutions, select **Dynamics 365 Guides solution**, and then select **Install**. This will install the GA version of the 
-solution and remove the preview solution.  
+4. In the list of solutions, select **Dynamics 365 Guides solution**, and then select **Install**. This will install the GA version of the solution and remove the preview solution.  
 
-SCREENSHOT GOES HERE: install-ga-version
-
+   ![Install the GA version](media/install-ga-version.PNG "Install the GA version")  
+   
 5. Review the Terms of service, and then select **Accept** if you're ready to start the upgrade. 
 The status of the solution changes to **Installation pending**, and then changes to **Installed** when the transition is complete. 
 
@@ -47,7 +46,7 @@ the Dynamics 365 Guides preview. 
 
 2. Go to **Billing** > **Subscriptions**.
 
-SCREENSHOT GOES HERE: guides-preview-billing
+   ![Billing > Subscriptions](media/guides-preview-billing.PNG "Billing > Subscriptions")  
 
 3. Select **Dynamics 365 Guides Preview** in the main list to see when the preview license expires. 
 
@@ -59,7 +58,7 @@ SCREENSHOT GOES HERE: guides-preview-billing
 
 3. Select **Billing** > **Purchase Services**.
 
-SCREEN SHOT GOES HERE: guides-ga-billing
+   ![Billing > Purchase Services](media/guides-ga-billing.PNG "Billing > Purchase Services")
 
 4. Find the Dynamics 365 Guides item, and then select **Start free trial** or **Buy now”. 
 
