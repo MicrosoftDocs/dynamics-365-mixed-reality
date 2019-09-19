@@ -5,44 +5,41 @@ ms.author: mamaylya
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: How ot make a good mixed reality guide in Dynamics 365 Guides
+title: How to make a good mixed reality guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# How to make a good mixed reality guide
+# How to make a great mixed reality guide
 
-The other documentation online focuses on helping you learn the how to use the Guides applications and their various features, this 
-document focuses on how to author good guide content to best communicate instructions to your operators. We suggest reading all other 
-documentation first to get a good understanding of how to use the Guides applications, and then refer to this documentation to start 
-authoring high quality guides.
+Other online documentation in Dynamics 365 Guides focuses on helping you learn how to use the Dyanmics 365 Guides applications and their various features. This document focuses on how to author great guide content to best communicate instructions to your operators. We suggest reading all other documentation first to get a good understanding of how to use the Dynamics 365 Guides applications, and then refer to this documentation to start authoring high-quality guides.
 
-Making Good Mixed Reality Guides - Getting Started
+## Gett started
 
-A.	Gather Content
+### Gather content
 
 Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content (if you have any), 
 and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. Guides includes a 3D Toolkit 
 (including simple models such as arrows, hands, zones, etc.) that you can use to get started.
 
-B.	Understand the space
+### Understand the space
 
 Make sure you understand the space, the procedure, and the workflow you’re authoring for. Arrange for access to the space so you 
 understand the real-world environment. You’ll also need access to the space to align the guide and place holograms later.
 
-C.	Build references
+### Build references
 
 A great way to start is to create a video of the procedure you want to show, or have someone (an expert in that process, for 
 example) create one for you. You can refer to the video as you create your guide. If you’re using a video as a starting point, 
 make sure it’s representative of the guide you want to create. For example, are you creating a guide for an expert or a novice?
 
-D.	Understand Your Lesson Objectives and Target Audience
+### Understand your lesson objectives and target audience
 
 It is critical to understand your lesson objectives and target audience before developing your guide. Lesson objectives include 
 various sub-objectives that are needed to accomplish an overall Guides objective. Additionally, understanding your target 
 population will help you tailor your guide to provide the right amount of complexity needed to communicate information to your 
 operators. For example, will your audience understand how to use specific tools, or the names of specific machinery?
 
-What features can you use as an author to make a good guide?
+## What features can you use as an author to make a good guide?
 
 Guide Structure
 
@@ -204,7 +201,7 @@ turn the knob simultaneously")
 
              –	If strength is required, make sure to specify dominant/non-dominant hand in the step instructions (i.e. "Turn the knob three times with your dominant hand. It will require force.")
 
-The Dotted Line
+## The Dotted Line
 
 •	The main purpose of the dotted line is to spatially locate the operator where the work will be taking place.
 
@@ -230,7 +227,7 @@ The Dotted Line
 
 –	For the second time, or to put a tool back, you don't need to use the tether again (Unless it's in a different location).
 
-2D Images
+## 2D Images
 
 We recommend using 2D images in the following scenarios:
 
@@ -283,7 +280,7 @@ We recommend using 2D images in the following scenarios:
 
    ***EXAMPLE IMAGE HERE***
 
-Videos
+## Videos
 
 We recommend using videos for:
 
@@ -323,7 +320,7 @@ We recommend using videos for:
 
     –	Showing multiple ways to complete a step may be confusing to operators learning the task— pick the best method of completing the step and only communicate this method to operators
     
-3D Toolkit
+## 3D Toolkit
 
 3D Toolkit Categories:
 
@@ -417,7 +414,7 @@ Symbols
 
 •	We recommend using the "Lighting Bolt" with the “Avoid” or "Warning" style.
 
-Custom 3D Holograms
+## Custom 3D Holograms
 
 •	In general, try to accomplish a step by using 3D Toolkit. If you cannot achieve the desired result with 3D Toolkit assets, you can use a custom asset, image, or video instead.
 
@@ -435,7 +432,7 @@ Custom 3D Holograms
 
 •	You can always use a combination of custom assets with the 3D Toolkit on any step.
 
-Hologram Styles
+## Hologram Styles
 
 •	Use styles to help create a visual hierarchy of 3D holograms
 
@@ -527,7 +524,7 @@ Metal
 
 •	The Metal style represents a highly glossy metal and can be used to give a hologram a realistic shinny material.
 
-Anchoring
+## Anchoring
 
 •	Place the anchor on the base object (Rather than a static object such as a table or cart), so if orientation of the base object is incorrect, the operator can rescan and correct hologram positions.
 
