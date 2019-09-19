@@ -186,211 +186,354 @@ validation examples include:
           
 •	Hands:
 
-  Do not specify which hand to use (left/right) unless:
+         Do not specify which hand to use (left/right) unless:
   
           •	Using a specific hand is important to the process (i.e. "Hold the left side down with your left hand, and use your right hand to 
 turn the knob simultaneously")
 
           •	Strength is required
 
-             –	If strength is required, make sure to specify dominant/non-dominant hand in the step instructions (i.e. "Turn the knob three times 
-with your dominant hand. It will require force.")
+             –	If strength is required, make sure to specify dominant/non-dominant hand in the step instructions (i.e. "Turn the knob three times with your dominant hand. It will require force.")
 
 The Dotted Line
 
 •	The main purpose of the dotted line is to spatially locate the operator where the work will be taking place.
-•	You should use the dotted line when:
-–	Starting a guide. This well help orient the operator at the right general location where the work will take place.
-–	When moving to a different area on a new step.
-–	When locating a part.
-–	When moving to a different area of a large piece of machinery (i.e. grater than 2' away from the previous step).
-•	You should not use the dotted line on every step.
-–	Using the dotted line to point to the same location over multiple steps can become visual clutter distracting the operator from focusing on 3D holograms or the physical piece of machinery.
+
+•	You *should* use the dotted line when:
+
+  –	Starting a guide. This well help orient the operator at the right general location where the work will take place.
+  
+  –	When moving to a different area on a new step.
+  
+  –	When locating a part.
+  
+  –	When moving to a different area of a large piece of machinery (i.e. grater than 2' away from the previous step).
+  
+•	You *should not* use the dotted line on every step.
+
+  –	Using the dotted line to point to the same location over multiple steps can become visual clutter distracting the operator from focusing on 3D holograms or the physical piece of machinery.
+  
 •	Do not use the dotted line to point to a specific location (within 10mm). Instead use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
+
 •	Use the tether for "Part Pickup" in the following ways:
+
 –	For the first time picking up a part, use the tether to show the operator where it is.
+
 –	For the second time, or to put a tool back, you don't need to use the tether again (Unless it's in a different location).
 
-2D Images:
+2D Images
+
 We recommend using 2D images in the following scenarios:
+
 •	"What to do & What not to do"
-–	When operators do something the wrong way consistently, it's useful to have an image in the "correct way" next to an image of the "incorrect way" highlighting the key difference.
-***EXAMPLE IMAGE HERE***
+
+   –	When operators do something the wrong way consistently, it's useful to have an image in the "correct way" next to an image of the "incorrect way" highlighting the key difference.
+
+   ***EXAMPLE IMAGE HERE***
 
 •	Validation
-–	Orientation Validation
-•	Using an image is a clear way to make sure parts or machinery are in the correct orientation. This can be critically important if subsequent steps are based on correct orientation of a specific part or piece.
-–	Make sure to give enough environmental context to visually communicate to operators the correct orientation in the environment.
-***EXAMPLE IMAGE HERE***
 
-–	Part Validation
-•	Use images for part identification in cases where a work-station has multiple parts that could be confused with one another visually---This is especially useful when two or more parts looks very similar with one minute differences.
-•	Validating that an operator is picking up the correct part by comparing it to a picture or reference number
+  –	Orientation Validation
+
+    •	Using an image is a clear way to make sure parts or machinery are in the correct orientation. This can be critically important if subsequent steps are based on correct orientation of a specific part or piece.
+    
+      –	Make sure to give enough environmental context to visually communicate to operators the correct orientation in the environment.
+      
+      ***EXAMPLE IMAGE HERE***
+
+
+      –	Part Validation
+      
+      •	Use images for part identification in cases where a work-station has multiple parts that could be confused with one another visually---This is especially useful when two or more parts looks very similar with one minute differences.      
+
+      •	Validating that an operator is picking up the correct part by comparing it to a picture or reference number
 
 •	General notes for images:
-–	Make sure images:
-•	Clear
-•	High quality (1080p is recommended. 4K images are unnecessary)
-•	Capture enough context to orient the operator contextually in the environment.
-***EXAMPLE IMAGE HERE***
-•	From the viewpoint of how the operator will see it.
-•	Don't contain extra visual noise that can confuse or distract the operator from what you are trying to communicate.
-•	Images should maintain 16:9 ratio to fill the entire media panel.
-•	Images should not be taken from too far away that the operator can't see enough detail of what you are trying to communicate.
-•	Make sure to preview all images in HoloLens before using a Guide (Image detail and color may appear different on HoloLens).
+
+     –	Make sure images:
+     
+        •	Clear
+        
+        •	High quality (1080p is recommended. 4K images are unnecessary)
+        
+        •	Capture enough context to orient the operator contextually in the environment.
+        
+        ***EXAMPLE IMAGE HERE***
+        
+        •	From the viewpoint of how the operator will see it.
+
+        •	Don't contain extra visual noise that can confuse or distract the operator from what you are trying to communicate.
+
+        •	Images should maintain 16:9 ratio to fill the entire media panel.
+
+        •	Images should not be taken from too far away that the operator can't see enough detail of what you are trying to communicate.
+
+        •	Make sure to preview all images in HoloLens before using a Guide (Image detail and color may appear different on HoloLens).
+
 •	If an image is critical, say ***REFER TO IMAGE*** before any additional action text in the step instructions. If you put it after an action text operators can miss it- You can even put this as it's own step before the action to make sure the user pays attention to the image.
-***EXAMPLE IMAGE HERE***
+
+   ***EXAMPLE IMAGE HERE***
 
 Videos
-We recommend using videos for:
-•	Unique interactions
-–	Detailed hand processes.
-–	Steps where millimeter accuracy is critical, and 3D holograms may not be accurate enough.
-–	Processes where standard holograms are too abstract, but custom holograms are too complex for your team to produce.
-•	Videos should be shot from a 3rd person or 1st person perspective.
-***EXAMPLE IMAGE  OF 3RD-PERSON VS 1ST-PERSON HERE***
-–	3rd Person works best for:
-•	Show environmental context of where you are doing the work.
-•	Understand how to the operator and machine are interacting.
-•	When filming in 3rd person, it helps to start wide (to see full context) and then zoom in to understand detailed operations.
-•	3rd person videos can easily be taken with any hand-held camera.
-–	1st Person works best for:
-•	Small tight spaces
-•	Fine hand work
-•	When communicating the work from the perspective of the operator is critical to the success of the procedure.
-•	For 1st-person videos, we recommend mounting a camera to the authors head using a GoPro or similar device.
-•	Only show how to do something one way (i.e. don't show alternative methods)
-–	Showing multiple ways to complete a step may be confusing to operators learning the task— pick the best method of completing the step and only communicate this method to operators
 
+We recommend using videos for:
+
+   •	Unique interactions
+   
+     –	Detailed hand processes.
+     
+     –	Steps where millimeter accuracy is critical, and 3D holograms may not be accurate enough.
+     
+     –	Processes where standard holograms are too abstract, but custom holograms are too complex for your team to produce.
+     
+   •	Videos should be shot from a 3rd person or 1st person perspective.
+   
+      ***EXAMPLE IMAGE  OF 3RD-PERSON VS 1ST-PERSON HERE***
+
+     –	3rd Person works best for:
+     
+        •	Show environmental context of where you are doing the work.
+
+        •	Understand how to the operator and machine are interacting.
+
+        •	When filming in 3rd person, it helps to start wide (to see full context) and then zoom in to understand detailed operations.
+
+        •	3rd person videos can easily be taken with any hand-held camera.
+
+     –	1st Person works best for:
+
+        •	Small tight spaces
+
+        •	Fine hand work
+
+        •	When communicating the work from the perspective of the operator is critical to the success of the procedure.
+
+        •	For 1st-person videos, we recommend mounting a camera to the authors head using a GoPro or similar device.
+
+•	Only show how to do something one way (i.e. don't show alternative methods)
+
+    –	Showing multiple ways to complete a step may be confusing to operators learning the task— pick the best method of completing the step and only communicate this method to operators
+    
 3D Toolkit
+
 3D Toolkit Categories:
+
 Arrows
+
 •	Use arrows to communicate simple spatial information like position, direction, and translation.
+
 •	Use arrows when you want the operator to insert a part into something.
-–	Arrows are great to pointing to a specific location (Within a +/- 2mm tolerance)
-–	Arrows can be used to show directionality (i.e. "Twist the lever until tight"--with corresponding half circle arrow showing movement direction)
-–	You can use a combination of different arrows to show a sequence of different actions (i.e. "Swing then pull")- This can also be paired with numbers (Expanded upon here)
-–	You can use arrows in combination with other 3D holograms (for example, checks and cross’) to show where to put something and where not to put something.
-***EXAMPLE IMAGE HERE***
+
+   –	Arrows are great to pointing to a specific location (Within a +/- 2mm tolerance)
+
+   –	Arrows can be used to show directionality (i.e. "Twist the lever until tight"--with corresponding half circle arrow showing movement direction)
+
+   –	You can use a combination of different arrows to show a sequence of different actions (i.e. "Swing then pull")- This can also be paired with numbers (Expanded upon here)
+
+   –	You can use arrows in combination with other 3D holograms (for example, checks and cross’) to show where to put something and where not to put something.
+
+      ***EXAMPLE IMAGE HERE***
 
 Hands
+
 •	Hands are best to communicate specific hand orientations or movements.
+
 •	Use hands when you want the operator to use their hands in a specific way to grab or manipulate something. There are various poses for specific interactions that are available in the 3D Toolkit such as Pull, Push, Pinch, Grab, etc.
-–	Combine these hands with arrows and/or additional 3D holograms to add additional meaning.
+
+     –	Combine these hands with arrows and/or additional 3D holograms to add additional meaning.
+
 •	Generally, the "Pick Up" or “Place” shader works best with hands allowing operators to visually align their hands with the hologram.
 
 Numbers
+
 •	Numbers should be used for sequencing within a step
-–	Example: "First pull the lever (1) and then place it in the key hole (2)."
-***EXAMPLE IMAGE HERE***
+
+   –	Example: "First pull the lever (1) and then place it in the key hole (2)."
+
+      ***EXAMPLE IMAGE HERE***
+
 •	Numbers should not be used to identify parts in the world
-–	Example: "Pick up the screwdriver (1) and the socket wrench (2)."
+
+    –	Example: "Pick up the screwdriver (1) and the socket wrench (2)."
+
 •	Numbers should not be used to communicate how many of something to get
-–	Example: "Pick up 3 screws." --- Holographic Number 3 is next to screws
+
+    –	Example: "Pick up 3 screws." --- Holographic Number 3 is next to screws
 
 Zones
+
 •	Zones are a good way to communicate areas to place items.
-***EXAMPLE IMAGE HERE***
+
+   ***EXAMPLE IMAGE HERE***
+
 •	Zones can be used to show the orientation and location of objects.
+
 •	Animated zones are effective in getting operators attention.
+
 •	If you are using zones to communicate orientation, it is helpful to pair it with a reference image.
-***EXAMPLE IMAGE HERE***
+
+   ***EXAMPLE IMAGE HERE***
 
 Generic Tools
+
 •	Generic tools can be used in two ways:
-–	Symbols
-•	Use the scaled-down version of a generic tool (For example, screw driver) next to a real world part to indicate to the operator the type of tool to pick-up or use
-–	Models
-•	Use a scaled up version of a generic tool to indicate to the operator the actual scale of a specific tool to pick-up or use
+
+   –	Symbols
+
+     •	Use the scaled-down version of a generic tool (For example, screw driver) next to a real world part to indicate to the operator the type of tool to pick-up or use
+
+   –	Models
+   
+     •	Use a scaled up version of a generic tool to indicate to the operator the actual scale of a specific tool to pick-up or use
 
 Symbols
+
 •	The "Check" and "Cross" symbols are best at communicating where to and where not where not to:
-•	Place things
-•	Run things through
-•	Clearance areas
-•	Which part of machinery or tool to select out of an array of options.
+
+   •	Place things
+
+   •	Run things through
+
+   •	Clearance areas
+
+   •	Which part of machinery or tool to select out of an array of options.
+
 •	The "Exclamation Point" is best at communicating critical or alarming information
-•	We recommend using the "Exclamation Point" with the "Avoid" or “Warning “style.
-•	Do not overuse the "Exclamation Point," as it will lose its urgency after repeated use.
+
+   •	We recommend using the "Exclamation Point" with the "Avoid" or “Warning “style.
+
+   •	Do not overuse the "Exclamation Point," as it will lose its urgency after repeated use.
+
 •	The "Lighting Bolt" is best at communication potential electrical hazards
+
 •	We recommend using the "Lighting Bolt" with the “Avoid” or "Warning" style.
 
 Custom 3D Holograms
+
 •	In general, try to accomplish a step by using 3D Toolkit. If you cannot achieve the desired result with 3D Toolkit assets, you can use a custom asset, image, or video instead.
+
 •	Use custom high-fidelity assets where details matter and custom low-fidelity assets for high-level principles where details aren’t as important.
-•	Example- if detailed accuracy is important, like a referencing a specific port or lever, highly detailed custom assets may be necessary.
-•	If you are trying to show how to align the object, a general shape may achieve the desired effect.
+
+    •	Example- if detailed accuracy is important, like a referencing a specific port or lever, highly detailed custom assets may be necessary.
+
+    •	If you are trying to show how to align the object, a general shape may achieve the desired effect.
+
 •	Custom assets are best at communicating unique parts or unusual animation behaviors.
+
 •	Animated custom holograms are a great way to show the flow or movement patters throughout a step.
+
 •	You should use a custom hologram of the entire object for orientation and alignment steps.
+
 •	You can always use a combination of custom assets with the 3D Toolkit on any step.
 
 Hologram Styles
+
 •	Use styles to help create a visual hierarchy of 3D holograms
+
 •	Use styles consistently to communicate specific actions. If you use styles consistently, as operators continue to use Guides, they will start to understand what styles are intended to mean, which will speed up their learning process.
 
 Hologram Style Options:
 
 Original
+
 •	For 3D Toolkit assets, the "Original" shader is a white material
-–	The original white material is a good generic style because it doesn’t have any strong pre-existing connotations for operators.
-–	If your focus is more on alignment or positioning, the original shader is a good choice because it won’t have any strong action indications to the operator.
+
+   –	The original white material is a good generic style because it doesn’t have any strong pre-existing connotations for operators.
+
+   –	If your focus is more on alignment or positioning, the original shader is a good choice because it won’t have any strong action indications to the operator.
+
 •	For custom assets, the "Original" shader is whatever is imported with the 3D model.
-–	Depending on the Authors needs or requirements, you can import a custom model with any style on it. Some good examples might include:
-•	Specific colors on sections of a model to identify parts or pieces.
-–	You can then add step instructions that refer to the colored sections.
-***EXAMPLE IMAGE HERE***
-•	Realistic style to show what the actual object looks like
+
+   –	Depending on the Authors needs or requirements, you can import a custom model with any style on it. Some good examples might include:
+
+      •	Specific colors on sections of a model to identify parts or pieces.
+
+         –	You can then add step instructions that refer to the colored sections.
+
+         ***EXAMPLE IMAGE HERE***
+
+      •	Realistic style to show what the actual object looks like
 
 Pick Up
+
 •	The pick-up style shows an outline around the hologram.
+
 •	We recommend using the Pick-Up style for:
-–	Having the operator pick up a part/piece.
-•	This works especially well on:
-–	The hands holograms in the 3D Toolkit because operators can align their hand to the hologram, positioning their hand in the right orientation and position.
-–	Picking up parts because the outline around the real-world object visually distinguishes it from the rest of the environment.
+
+    –	Having the operator pick up a part/piece.
+
+       •	This works especially well on:
+
+          –	The hands holograms in the 3D Toolkit because operators can align their hand to the hologram, positioning their hand in the right orientation and position.
+
+          –	Picking up parts because the outline around the real-world object visually distinguishes it from the rest of the environment.
 
 Place
+
 •	Place style is similar to the Pick-Up style but has a dashed outline instead of a solid outline.
+
 •	We recommend using the place style for:
-–	Trying to align a real-world object to a hologram, because operators can place the real object in the hologram to validate that it visually matches.
+
+   –	Trying to align a real-world object to a hologram, because operators can place the real object in the hologram to validate that it visually matches.
 
 See-Through (Two Options – 1 + 2)
+
 •	"See-Through" is best at de-emphasizing holograms in the world because it makes the hologram semi-transparent and darker.
+
 •	When creating a visual hierarchy of Holograms, "See-Through" can be used to soften less important holograms in the scene.
-***EXAMPLE IMAGE HERE***
+
+   ***EXAMPLE IMAGE HERE***
+
 •	See-Through 1 is less opaque than See-Through 2.
 
 Warning
+
 •	Warning style is yellow and black stripes which is synonymous with warning.
+
 •	 You should use a warning style when a hologram represents something that is potentially:
-–	Dangerous
-–	Electric
-–	Hazardous
+
+   –	Dangerous
+   
+   –	Electric
+   
+   –	Hazardous
 
 Avoid
+
 •	Avoid is a red pulsing style that should be used when:
-–	Trying to avoid touching or interacting with a specific zone or part.
-–	Something is dangerous or electrical (Can also use warning style based on specific context).
-–	Trying to avoid a clearance area.
+
+   –	Trying to avoid touching or interacting with a specific zone or part.
+   
+   –	Something is dangerous or electrical (Can also use warning style based on specific context).
+
+   –	Trying to avoid a clearance area.
 
 X-Ray
+
 •	X-ay resembles the effect of an x-ray scan.
+
 •	X-Ray should be used when a hologram is placed within another object, helping the operator understand the depth order of parts.
 
 Metal
+
 •	The Metal style represents a highly glossy metal and can be used to give a hologram a realistic shinny material.
 
 Anchoring
+
 •	Place the anchor on the base object (Rather than a static object such as a table or cart), so if orientation of the base object is incorrect, the operator can rescan and correct hologram positions.
-***EXAMPLE IMAGE HERE***
+
+   ***EXAMPLE IMAGE HERE***
+
 •	Important orientation that could impact alignment of future steps be coupled with visual guides either via photo or custom hologram and text reminders to check their positioning.
-***EXAMPLE IMAGE HERE***
+
+   ***EXAMPLE IMAGE HERE***
+
 •	Make sure to explain anchoring fundamentals to operators, otherwise they may be confused how to fix it if they incorrectly align a real object.
 
-See Also
-Author a guide
-Operator's manual
-Analyze your guides
-FAQ
-Known issues
+### See Also
+
+[Author a guide](authoring-overview.md)<br>
+[Operator's manual](operator-guide.md)<br>
+[Analyze your guides](analytics-guide.md)<br>
+[FAQ](faq.md)<br>
+[Known issues]
