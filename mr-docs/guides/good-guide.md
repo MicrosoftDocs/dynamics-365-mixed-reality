@@ -19,7 +19,7 @@ Other online documentation in Dynamics 365 Guides focuses on helping you learn h
 
 Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content (if you have any), 
 and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. Guides includes a 3D Toolkit 
-(including simple models such as arrows, hands, zones, etc.) that you can use to get started.
+(including simple models such as arrows, hands, zones, and so on) that you can use to get started.
 
 ### Understand the space
 
@@ -34,55 +34,49 @@ make sure it’s representative of the guide you want to create. For example, ar
 
 ### Understand your lesson objectives and target audience
 
-It is critical to understand your lesson objectives and target audience before developing your guide. Lesson objectives include 
-various sub-objectives that are needed to accomplish an overall Guides objective. Additionally, understanding your target 
-population will help you tailor your guide to provide the right amount of complexity needed to communicate information to your 
-operators. For example, will your audience understand how to use specific tools, or the names of specific machinery?
+It's critical to understand your lesson objectives and target audience before developing your guide. Lesson objectives include 
+various sub-objectives needed to accomplish an overall Dynamics 365 Guides objective. Additionally, understanding your target 
+audience will help you tailor your guide to provide the right amount of complexity needed to communicate information to your 
+operators. For example, will your audience understand how to use specific tools or the names of specific machinery?
 
-## What features can you use as an author to make a good guide?
+## What features can you use, as an author, to make a great guide?
 
-Guide Structure
+### Guide Structure
 
-Tasks:
-•	When first organizing a guide’s structure, break the assembly process into logical "Key Objectives, i.e. "Tasks."
+#### Tasks
 
-  –	Think about tasks as key "check points" throughout the guide.
+- When first organizing a guide’s structure, break the assembly process into logical key objectives (tasks).
+
+  –	Think about tasks as key check points throughout the guide.
   
   –	At the end of each task, the operator should accomplish one significant goal.
   
-•	Tasks should include only one main objective. If a task contains more than one main objective, break it into two or more tasks. 
+- Tasks should include only one main objective. If a task contains more than one main objective, break it into two or more tasks. 
 This will help the operator retain the organization of the guide, leading to better retention.
 
-•	Tasks should follow a logical sequence of actions.
+- Tasks should follow a logical sequence of actions.
 
-•	When starting to write a guide, talk the assembly process "out loud"- i.e. how would you verbally communicate this process 
+- When you start authoring a guide, talk the assembly process out loud – how would you verbally communicate this process 
 to someone in person?
 
-•	To provide overall context, add an “Overview” and/or “Welcome” task at the start of the guide.
+- To provide overall context, add an Overview and/or Welcome task at the beginning of the guide. This task can include the following steps:
 
-   –	This task can include the following steps:
+    - A step that describes what the guide is about.
 
-      •	A step that describes what the guide is about.
+    - A step with a list of all the tasks in the guide. This will help create a roadmap of the assembly process for the operator, which leads to better retention.
 
-      •	A step with a list of all the tasks that within the guide. This will help set a road map of the assembly process to the operator 
-and lead to better retention.
+    If safety is a critical concern, you can add an additional step focused on specific safety measures you want operators 
+to take before starting the guide.
 
-      •	If safety is a critical concern, you can add an additional step focused on specific safety measures you would like the operators 
-to take before beginning the guide.
+   ***EXAMPLE IMAGE HERE***
 
-***EXAMPLE IMAGE HERE***
+- Tasks shouldn't include more than 30 steps. If a task contains more than 30 steps, break it into two or more tasks. Our research shows that having too many steps in a single task can overwhelm an operator, especially if they're learning the procedure for the first time.
 
-•	Tasks shouldn't be more than 30 steps. If a task contains more than 30 steps break it into two or more tasks.
+#### Steps
 
-    –	Our research shows that having too many steps on a single task can start to overwhelm an operator, especially if this is their 
-first time learning the procedure.
+- Unlike traditional instructions, step text in Dynamics 365 Guides isn't meant to describe everything because you have additional visual aids such as images, videos, and 3D holograms.
 
-Steps:
-
-•	Unlike traditional instructions, step text in Guides isn't meant to describe everything because you have additional visual aids 
-such as images, videos, and 3D holograms.
-
-   –	When writing a step consider all the different forms of communication you are using.
+   –	When writing a step, consider all the different forms of communication you're using.
    
    –	Try to stick to one type of asset (image, video, or 3D hologram) per step. Too much media or 3D content can be overwhelming to 
    the operator and too time-consuming to absorb. Think about what type of content gets your point across best.
@@ -90,34 +84,34 @@ such as images, videos, and 3D holograms.
    –	In general, operators will read the text, look at images or videos, follow the dotted line, and observe 3D holograms. 
    Keep this order of operations in mind when writing a step.
    
-•	It's critical to keep your audience in mind when writing a step.
+- It's critical to keep your audience in mind when writing a step. Will your audience:
 
-   –	Will your audience know the names of specific tools are and what they can do?
+   –	Know the names of specific tools and what they can do?
    
-      •	If yes, you can use less detail and don't need to explain what tools or parts are.
+      - If yes, you can use less detail since you don't need to explain what tools or parts are.
       
-      •	If no, you should add extra descriptions and clarifying visuals to support operators.
+      - If no, you should add extra descriptions and clarifying visuals to support operators.
       
-      •	For a general audience, describe unique things (Custom parts or tools) and don't describe generic things (generic tools).
+      - For a general audience, describe unique things (custom parts or tools) and don't describe generic things (generic tools).
       
-   –	Will your audience understand basic safety requirements?
+   –	Understand basic safety requirements?
    
-   –	Will you audience understand different environmental cues and conditions?
+   –	Understand different environmental cues and conditions?
    
-•	Don’t be afraid to add lots of steps
+- Don’t be afraid to add lots of steps.
 
-   –	Remember to keep steps short for the best effect.
+   –	Remember to keep steps short for best effect.
    
    –	If you have multiple sentences in a single step, our research shows that operators will often read the first sentence, 
    try to complete the action, and miss the rest of the content on the step.
    
-   –	***EXAMPLE IMAGE HERE***
+     ***EXAMPLE IMAGE HERE***
    
-   –	In this example, many operators might miss the second sentence and continue onto the next step.
+     In this example, many operators might miss the second sentence and continue onto the next step.
 
-•	Keep text simple and colloquial
+- Keep text simple and colloquial.
 
-   –	Don’t be verbose
+   –	Don’t be verbose.
    
    –	Write your guide in colloquial human language for best results. Don’t use technical jargon that people don’t know or understand.
 
@@ -125,72 +119,67 @@ such as images, videos, and 3D holograms.
 
    –	Make sure to use language the intended audience will understand.
 
-   –	On PC, you will get a warning if your text is going to go over the 280-character limit. If you are approaching the 280-character 
-limit, this is a good indication that you are trying to put too much information on a single step.
+   –	On the PC, the app will warn you if your text is over the 280-character limit. If you're approaching the 280-character 
+limit, this is a good indication that you're trying to put too much information in a single step.
 
-   –	We do not currently support any text formatting (Such as font size or styling) within Guides, but you can use capitalization to 
-point out key words or phrases.
+   –	Dynamics 365 Guides doesn't currently support any text formatting (such as font size or styling), but you can use capitalization to point out key words or phrases.
 
    –	Adding numbered or multiple small steps inside a single step can often lead an operator to miss specific actions. Don’t be afraid 
 to create separate steps to make sure the operator completes the correct sequence of actions.
 
-•	Use descriptive action words like “locate,” “find,” “get,” “go to”, “pick up,” “put down,” “insert,” “attach,” and “remove.”
+- Use descriptive action words like “locate,” “find,” “get,” “go to”, “pick up,” “put down,” “insert,” “attach,” and “remove.”
 
-•	Keep language consistent throughout the entire guide. Items that are especially important for language consistency include:
+- Keep language consistent throughout the entire guide. Items that are especially important for language consistency include:
 
    –	Part names
    
    –	Action verbs
    
-   –	Referring to Task names
+   –	Referring to task names
    
-•	Consider adding additional separate steps that show individual tips and tricks.
-
-   –	Adding tips/tricks onto an action step can often lead the operator to miss them.
+- Consider adding additional separate steps that show individual tips and tricks. Adding tips/tricks in an action step often leads the operator to miss them.
    
-       •	It can be beneficial to add the tip/tricks as a separate step before the action step.
+    - It can be beneficial to add tips/tricks as a separate step before the action step.
        
-       •	Adding a NOTE step is useful for quality checks. This type of step can come before or after another step, depending on the 
+    - Adding a NOTE step is useful for quality checks. This type of step can come before or after another step, depending on the 
        specific context.
        
-       ***EXAMPLE IMAGE HERE***
+      ***EXAMPLE IMAGE HERE***
        
-       •	Add a WARNING step for things that could be dangerous or cause a quality issue. This type of step can come before or after 
+    - Add a WARNING step for things that could be dangerous or cause a quality issue. This type of step can come before or after 
        another step, depending on the specific context. On HoloLens, you can add a warning style on a 3D hologram to reinforce the 
        warning step text.
        
-       ***EXAMPLE IMAGE HERE***
+      ***EXAMPLE IMAGE HERE***
        
-•	Add a step at the end of each task to let the operator know that they’re ending a task and introduce them to the following 
-       task. This will help the operator form a mental model of the guide structure, leading to better retention.
+- Add a step at the end of each task to let the operator know that they’re ending a task and to introduce them to the following 
+       task. This helps the operator form a mental model of the guide structure, leading to better retention.
        
-•	If it isn't a generic tool/part (i.e. screwdriver, socket wrench, washer etc.), make sure to label and define the tool/part 
-       the first time you introduce it to the operator
+- If it isn't a generic tool/part (for example, a screwdriver, socket wrench, or washer), make sure to label and define the tool/part 
+       the first time you introduce it to the operator. After labeling and describing the tool/part the first time, you don't need to define it throughout the rest of the guide.
        
-       –	After labeling and describing it the first time, you do not need to define it throughout the rest of the Guide.
-       
-•	Validation: If certain actions are critical to the success of subsequent actions, make sure to put a validation step in. Some 
+- If certain actions are critical to the success of subsequent actions, make sure to add a validation step. Some 
 validation examples include:
 
-       –	Visual Validation
+  –	Visual validation
        
-          •	"Make sure the green side is facing up"
+   - "Make sure the green side is facing up."
           
-          •	"Make sure the text is upside down when screwing it in"
+   - "Make sure the text is upside down when screwing it in."
           
-          •	"Make sure the front of the machine is facing you and aligns to the top right corner of the table before continuing on to 
+   - "Make sure the front of the machine is facing you and aligns to the top-right corner of the table before continuing on to 
           the next step."
           
-       –	Auditory Validation
+  –	Auditory validation
        
-          •	"Twist the knob to the right until you hear 2 loud clicks."
+   - "Twist the knob to the right until you hear 2 loud clicks."
           
-       –	Reference Validation
+  –	Reference validation
        
-          •	" Reference image for correct orientation before continuing on to the next step. The following steps rely on correct 
+   - "Reference image for correct orientation before continuing on to the next step. The following steps rely on correct 
           orientation of the circuit box."
           
-•	Hands:
+- Hands:
 
          Do not specify which hand to use (left/right) unless:
   
