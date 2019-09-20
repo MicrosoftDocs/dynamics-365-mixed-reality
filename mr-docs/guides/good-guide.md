@@ -39,7 +39,7 @@ various sub-objectives needed to accomplish an overall Dynamics 365 Guides objec
 audience will help you tailor your guide to provide the right amount of complexity needed to communicate information to your 
 operators. For example, will your audience understand how to use specific tools or the names of specific machinery?
 
-## What features can you use, as an author, to make a great guide?
+## Authoring features you can you use to make a great guide
 
 ### Guide Structure
 
