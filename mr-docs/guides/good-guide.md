@@ -267,11 +267,11 @@ We recommend using 2D images in the following scenarios:
 
 Good example:
 
-![Good example of referring to an image](media/good-example-3.PNG "Good example of referring to an image")  
+![Good example of referring to an image](media/good-example3.PNG "Good example of referring to an image")  
 
 Bad example:
 
-![Bad example of referring to an image](media/bad-example-3.PNG "Bad example of referring to an image") bad-example3
+![Bad example of referring to an image](media/bad-example3.PNG "Bad example of referring to an image") 
 
 ## Videos
 
