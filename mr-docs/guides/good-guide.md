@@ -139,18 +139,18 @@ to create separate steps to make sure the operator completes the correct sequenc
    
 - Consider adding additional separate steps that show individual tips and tricks. Adding tips/tricks in an action step often leads the operator to miss them.
    
-    - It can be beneficial to add tips/tricks as a separate step before the action step.
+   - It can be beneficial to add tips/tricks as a separate step before the action step.
        
-    - Adding a NOTE step is useful for quality checks. This type of step can come before or after another step, depending on the 
+   - Adding a NOTE step is useful for quality checks. This type of step can come before or after another step, depending on the 
        specific context.
        
-      ***EXAMPLE IMAGE HERE***
+     ***EXAMPLE IMAGE HERE***
        
-    - Add a WARNING step for things that could be dangerous or cause a quality issue. This type of step can come before or after 
+   - Add a WARNING step for things that could be dangerous or cause a quality issue. This type of step can come before or after 
        another step, depending on the specific context. On HoloLens, you can add a warning style on a 3D hologram to reinforce the 
        warning step text.
        
-      ***EXAMPLE IMAGE HERE***
+     ***EXAMPLE IMAGE HERE***
        
 - Add a step at the end of each task to let the operator know that they’re ending a task and to introduce them to the following 
        task. This helps the operator form a mental model of the guide structure, leading to better retention.
