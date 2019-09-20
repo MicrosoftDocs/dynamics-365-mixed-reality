@@ -90,6 +90,11 @@ To make a call:
     end the call.
     
     ![Call controls](media/call-controls.PNG "Call controls")
+    
+    A. Pause video feed
+    B. Mute call
+    C. Turn on speaker phone
+    D. End call
   
  
 ## Add annotations
@@ -106,6 +111,12 @@ at least one plane (vertical or horizontal) in your work area. You do this by sc
 You can add an augmented-reality annotation by using the buttons on the annotation toolbar:
 
 ![Annotation bar](media/annotation-bar.PNG "Annotation bar")
+
+A. Add arrow
+B. Add ink
+C. Change color of arrow or ink
+D. Undo last action
+E. Delete everything on screen, including expert's annotations
   
 For example, to add an arrow, tap the arrow tool and drag your finger to the spot where you want to place the arrow.
 
