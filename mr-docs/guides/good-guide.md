@@ -191,7 +191,7 @@ validation examples include:
 
 - The main purpose of the dotted line is to spatially locate the operator where the work will take place.
 
-- **Use** the dotted line when:
+- Use the dotted line when:
 
   –	Starting a guide. This helps orient the operator to the right general location where the work will take place.
   
@@ -201,17 +201,17 @@ validation examples include:
   
   –	Moving to a different area of a large piece of machinery (for example, greater than 2' away from the previous step).
   
-- **Don't use** the dotted line:
+- Don't use the dotted line:
 
-   - On every step. Using the dotted line to point to the same location over multiple steps can become visual clutter that distracts the operator from focusing on 3D holograms or the physical piece of machinery.
+  - On every step. Using the dotted line to point to the same location over multiple steps can become visual clutter that distracts the operator from focusing on 3D holograms or the physical piece of machinery.
   
-   - To point to a specific location (within 10 mm). Use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
+  - To point to a specific location (within 10 mm). Use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
 
 - Use the dotted line for "part pickup" in the following ways:
 
-   –	For the first time picking up a part, use the dotted line to show the operator where it is.
+  –	For the first time picking up a part, use the dotted line to show the operator where it is.
 
-   –	For the second time, or to put a tool back, you don't need to use the dotted line again (unless it's in a different location).
+  –	For the second time, or to put a tool back, you don't need to use the dotted line again (unless it's in a different location).
 
 ## 2D images
 
@@ -233,21 +233,21 @@ We recommend using 2D images in the following scenarios:
 
 - General notes for images. Make sure images:
      
-  - Are clear
+ - Are clear
         
-  - Are high quality. 1080p is recommended. 4K images are unnecessary.
+ - Are high quality. 1080p is recommended. 4K images are unnecessary.
         
-  - Capture enough context to orient the operator contextually in the environment.
+ - Capture enough context to orient the operator contextually in the environment.
         
-    ***EXAMPLE IMAGE HERE***
+   ***EXAMPLE IMAGE HERE***
         
-  - Are shown from the viewpoint of the operator.
+ - Are shown from the viewpoint of the operator.
 
-  - Don't contain extra visual noise that can confuse or distract the operator from what you're trying to communicate.
+ - Don't contain extra visual noise that can confuse or distract the operator from what you're trying to communicate.
 
-  - Maintain a 16:9 ratio to fill the entire media panel.
+ - Maintain a 16:9 ratio to fill the entire media panel.
 
-  - Show enough of the details you're trying to communicate. Don't take images from too far away. 
+ - Show enough of the details you're trying to communicate. Don't take images from too far away. 
 
 - Make sure to preview all images on HoloLens before using a guide. Image detail and color may appear different on HoloLens.
 
@@ -359,23 +359,23 @@ Shoot videos from a third-person or first-person perspective.
 
 - The Check and Cross symbols are best at communicating:
 
-   - Where and where not to place things
+  - Where and where not to place things
 
-   - Where and where  not to run things through
+  - Where and where  not to run things through
 
-   - Clearance areas
+  - Clearance areas
 
-   - Which part of machinery or tool to select out of an array of options
+  - Which part of machinery or tool to select out of an array of options
 
 - The Exclamation Point is best for communicating critical or alarming information.
 
-   - We recommend using the Exclamation Point with the Avoid or Warning style.
+  - We recommend using the Exclamation Point with the Avoid or Warning style.
 
-   - Do not overuse the Exclamation Point, as it will lose its urgency after repeated use.
+  - Do not overuse the Exclamation Point, as it will lose its urgency after repeated use.
 
 - The Lighting Bolt is best for communicating potential electrical hazards.
 
-  - We recommend using the Lighting Bolt with the Avoid or Warning style.
+ - We recommend using the Lighting Bolt with the Avoid or Warning style.
 
 ## Custom 3D holograms
 
