@@ -295,181 +295,161 @@ Shoot videos from a third-person or first-person perspective.
     
 ## 3D toolkit
 
-3D Toolkit Categories:
+### 3D toolkit categories:
 
-Arrows
+#### Arrows
 
-•	Use arrows to communicate simple spatial information like position, direction, and translation.
+- Use arrows:
 
-•	Use arrows when you want the operator to insert a part into something.
+  - To communicate simple spatial information like position, direction, and translation.
 
-   –	Arrows are great to pointing to a specific location (Within a +/- 2mm tolerance)
+  - When you want the operator to insert a part into something:
 
-   –	Arrows can be used to show directionality (i.e. "Twist the lever until tight"--with corresponding half circle arrow showing movement direction)
+    –	Arrows are great for pointing to a specific location (within +/- 2mm tolerance)
 
-   –	You can use a combination of different arrows to show a sequence of different actions (i.e. "Swing then pull")- This can also be paired with numbers (Expanded upon here)
+    –	Arrows can be used to show directionality. Example: "Twist the lever until tight" with corresponding half circle arrow showing movement direction
 
-   –	You can use arrows in combination with other 3D holograms (for example, checks and cross’) to show where to put something and where not to put something.
+    –	You can use a combination of different arrows to show a sequence of different actions (for example, "Swing, then pull"). You can pair arrows with numbers.
 
-      ***EXAMPLE IMAGE HERE***
-
-Hands
-
-•	Hands are best to communicate specific hand orientations or movements.
-
-•	Use hands when you want the operator to use their hands in a specific way to grab or manipulate something. There are various poses for specific interactions that are available in the 3D Toolkit such as Pull, Push, Pinch, Grab, etc.
-
-     –	Combine these hands with arrows and/or additional 3D holograms to add additional meaning.
-
-•	Generally, the "Pick Up" or “Place” shader works best with hands allowing operators to visually align their hands with the hologram.
-
-Numbers
-
-•	Numbers should be used for sequencing within a step
-
-   –	Example: "First pull the lever (1) and then place it in the key hole (2)."
+    –	You can use arrows in combination with other 3D holograms (for example, checks and cross) to show where to put something and where not to put something.
 
       ***EXAMPLE IMAGE HERE***
 
-•	Numbers should not be used to identify parts in the world
+#### Hands
 
-    –	Example: "Pick up the screwdriver (1) and the socket wrench (2)."
+- Hands are best for communicating specific hand orientations or movements.
 
-•	Numbers should not be used to communicate how many of something to get
+- Use hands when you want the operator to use their hands in a specific way to grab or manipulate something. There are various poses for specific interactions that are available in the 3D toolkit such as Pull, Push, Pinch, Grab, and so on. Combine hands with arrows and/or additional 3D holograms to add additional meaning.
 
-    –	Example: "Pick up 3 screws." --- Holographic Number 3 is next to screws
+- Generally, the "Pick Up" or “Place” shader works best with hands allowing operators to visually align their hands with the hologram.
 
-Zones
+#### Numbers
 
-•	Zones are a good way to communicate areas to place items.
+- Use numbers for sequencing within a step. Example: "First pull the lever (1), and then place it in the key hole (2)."
 
-   ***EXAMPLE IMAGE HERE***
+  ***EXAMPLE IMAGE HERE***
 
-•	Zones can be used to show the orientation and location of objects.
+- Don't use numbers to identify parts in the world. Example: "Pick up the screwdriver (1) and the socket wrench (2)."
 
-•	Animated zones are effective in getting operators attention.
+- Don't use numbers to communicate how many of something to get. Example: "Pick up 3 screws" where holographic number 3 is next to screws.
 
-•	If you are using zones to communicate orientation, it is helpful to pair it with a reference image.
+#### Zones
 
-   ***EXAMPLE IMAGE HERE***
-
-Generic Tools
-
-•	Generic tools can be used in two ways:
-
-   –	Symbols
-
-     •	Use the scaled-down version of a generic tool (For example, screw driver) next to a real world part to indicate to the operator the type of tool to pick-up or use
-
-   –	Models
-   
-     •	Use a scaled up version of a generic tool to indicate to the operator the actual scale of a specific tool to pick-up or use
-
-Symbols
-
-•	The "Check" and "Cross" symbols are best at communicating where to and where not where not to:
-
-   •	Place things
-
-   •	Run things through
-
-   •	Clearance areas
-
-   •	Which part of machinery or tool to select out of an array of options.
-
-•	The "Exclamation Point" is best at communicating critical or alarming information
-
-   •	We recommend using the "Exclamation Point" with the "Avoid" or “Warning “style.
-
-   •	Do not overuse the "Exclamation Point," as it will lose its urgency after repeated use.
-
-•	The "Lighting Bolt" is best at communication potential electrical hazards
-
-•	We recommend using the "Lighting Bolt" with the “Avoid” or "Warning" style.
-
-## Custom 3D Holograms
-
-•	In general, try to accomplish a step by using 3D Toolkit. If you cannot achieve the desired result with 3D Toolkit assets, you can use a custom asset, image, or video instead.
-
-•	Use custom high-fidelity assets where details matter and custom low-fidelity assets for high-level principles where details aren’t as important.
-
-    •	Example- if detailed accuracy is important, like a referencing a specific port or lever, highly detailed custom assets may be necessary.
-
-    •	If you are trying to show how to align the object, a general shape may achieve the desired effect.
-
-•	Custom assets are best at communicating unique parts or unusual animation behaviors.
-
-•	Animated custom holograms are a great way to show the flow or movement patters throughout a step.
-
-•	You should use a custom hologram of the entire object for orientation and alignment steps.
-
-•	You can always use a combination of custom assets with the 3D Toolkit on any step.
-
-## Hologram Styles
-
-•	Use styles to help create a visual hierarchy of 3D holograms
-
-•	Use styles consistently to communicate specific actions. If you use styles consistently, as operators continue to use Guides, they will start to understand what styles are intended to mean, which will speed up their learning process.
-
-Hologram Style Options:
-
-Original
-
-•	For 3D Toolkit assets, the "Original" shader is a white material
-
-   –	The original white material is a good generic style because it doesn’t have any strong pre-existing connotations for operators.
-
-   –	If your focus is more on alignment or positioning, the original shader is a good choice because it won’t have any strong action indications to the operator.
-
-•	For custom assets, the "Original" shader is whatever is imported with the 3D model.
-
-   –	Depending on the Authors needs or requirements, you can import a custom model with any style on it. Some good examples might include:
-
-      •	Specific colors on sections of a model to identify parts or pieces.
-
-         –	You can then add step instructions that refer to the colored sections.
-
-         ***EXAMPLE IMAGE HERE***
-
-      •	Realistic style to show what the actual object looks like
-
-Pick Up
-
-•	The pick-up style shows an outline around the hologram.
-
-•	We recommend using the Pick-Up style for:
-
-    –	Having the operator pick up a part/piece.
-
-       •	This works especially well on:
-
-          –	The hands holograms in the 3D Toolkit because operators can align their hand to the hologram, positioning their hand in the right orientation and position.
-
-          –	Picking up parts because the outline around the real-world object visually distinguishes it from the rest of the environment.
-
-Place
-
-•	Place style is similar to the Pick-Up style but has a dashed outline instead of a solid outline.
-
-•	We recommend using the place style for:
-
-   –	Trying to align a real-world object to a hologram, because operators can place the real object in the hologram to validate that it visually matches.
-
-See-Through (Two Options – 1 + 2)
-
-•	"See-Through" is best at de-emphasizing holograms in the world because it makes the hologram semi-transparent and darker.
-
-•	When creating a visual hierarchy of Holograms, "See-Through" can be used to soften less important holograms in the scene.
+- Zones are a good way to communicate areas to place items.
 
    ***EXAMPLE IMAGE HERE***
 
-•	See-Through 1 is less opaque than See-Through 2.
+- Zones can be used to show the orientation and location of objects.
 
-Warning
+- Animated zones are effective in getting operators' attention.
 
-•	Warning style is yellow and black stripes which is synonymous with warning.
+- If you user zones to communicate orientation, it's helpful to pair them with a reference image.
 
-•	 You should use a warning style when a hologram represents something that is potentially:
+   ***EXAMPLE IMAGE HERE***
+
+#### Generic tools
+
+- Generic tools can be used in two ways:
+
+   –	Symbols. Use the scaled-down version of a generic tool (for example, a screw driver) next to a real-world part to indicate to the operator the type of tool to pick up or use.
+
+   –	Models. Use a scaled-up version of a generic tool to indicate to the operator the actual scale of a specific tool to pick up or use.
+
+#### Symbols
+
+- The Check and Cross symbols are best at communicating:
+
+   - Where and where not to place things
+
+   - Where and where  not to run things through
+
+   - Clearance areas
+
+   - Which part of machinery or tool to select out of an array of options
+
+- The Exclamation Point is best for communicating critical or alarming information.
+
+   - We recommend using the Exclamation Point with the Avoid or Warning style.
+
+   - Do not overuse the Exclamation Point, as it will lose its urgency after repeated use.
+
+- The Lighting Bolt is best for communicating potential electrical hazards.
+
+  - We recommend using the Lighting Bolt with the Avoid or Warning style.
+
+## Custom 3D holograms
+
+- In general, try to accomplish a step by using the 3D toolkit. If you can't achieve the desired result with 3D toolkit assets, you can use a custom asset, image, or video instead.
+
+- Use custom high-fidelity assets where details matter, and custom low-fidelity assets for high-level principles where details aren’t as important. For example, if detailed accuracy is important, like referencing a specific port or lever, highly detailed custom assets may be necessary. On the other hand, if you're trying to show how to align an object, a general shape may achieve the desired effect.
+
+- Custom assets are best for communicating unique parts or unusual animation behaviors.
+
+- Animated custom holograms are a great way to show the flow or movement patterns throughout a step.
+
+- Use a custom hologram of the entire object for orientation and alignment steps.
+
+- You can always use a combination of custom assets with the 3D toolkit on any step.
+
+## Hologram styles
+
+- Use styles to help create a visual hierarchy of 3D holograms.
+
+- Use styles consistently to communicate specific actions. If you use styles consistently, as operators continue to use Dynamics 365 Guides, they'll start to understand what styles are intended to convey, which will speed up their learning process.
+
+### Hologram style options
+
+#### Original
+
+- For 3D toolkit assets, the Original shader is a white material.
+
+   –	The Original white material is a good generic style because it doesn’t have any strong pre-existing connotations for operators.
+
+   –	If your focus is more on alignment or positioning, the Original shader is a good choice because it won’t indicate any strong action indications for the operator.
+
+- For custom assets, the Original shader is whatever is imported with the 3D model.
+
+  –	Depending on the author's needs or requirements, you can import a custom model with any style on it. Some good examples include:
+
+    - Specific colors on sections of a model to identify parts or pieces. You can then add step instructions that refer to the colored sections.
+
+     ***EXAMPLE IMAGE HERE***
+
+     - Realistic style to show what the actual object looks like.
+
+#### Pick Up
+
+- The Pick Up style shows an outline around the hologram.
+
+- We recommend using the Pick Up style for:
+
+  –	Having the operator pick up a part/piece. This works especially well on:
+    
+    - The hands holograms in the 3D toolkit because operators can align their hand to the hologram, positioning their hand in the right orientation and position.
+
+    –	Picking up parts because the outline around the real-world object visually distinguishes it from the rest of the environment.
+
+#### Place
+
+- The Place style is similar to the Pick Up style but has a dashed outline instead of a solid outline.
+
+- We recommend using the Place style for trying to align a real-world object to a hologram, because operators can place the real object in the hologram to validate that it visually matches.
+
+#### See-Through (includes See Through 1 and See Through 2)
+
+- See-Through is best for de-emphasizing holograms in the real world because it makes the hologram semi-transparent and darker.
+
+- When creating a visual hierarchy of holograms, use See-Through to soften less important holograms in the scene.
+
+   ***EXAMPLE IMAGE HERE***
+
+- See-Through 1 is less opaque than See-Through 2.
+
+#### Warning
+
+- The Warning style is yellow with black stripes, which is synonymous with warning.
+
+- Use the Warning style when a hologram represents something that is potentially:
 
    –	Dangerous
    
@@ -477,37 +457,37 @@ Warning
    
    –	Hazardous
 
-Avoid
+#### Avoid
 
-•	Avoid is a red pulsing style that should be used when:
+- Avoid is a red pulsing style that you can use to indicate to the operator that:
 
-   –	Trying to avoid touching or interacting with a specific zone or part.
+   –	They should avoid touching or interacting with a specific zone or part.
    
-   –	Something is dangerous or electrical (Can also use warning style based on specific context).
+   –	They should avoid a clearance area.
+   
+   –	Something is dangerous or electrical. You can also use the Warning style based on the specific context.
 
-   –	Trying to avoid a clearance area.
+#### X-Ray
 
-X-Ray
+- X-Ray resembles the effect of an x-ray scan.
 
-•	X-ay resembles the effect of an x-ray scan.
+- Use X-Ray when a hologram is placed in another object, which helps the operator understand the depth order of parts.
 
-•	X-Ray should be used when a hologram is placed within another object, helping the operator understand the depth order of parts.
+#### Metal
 
-Metal
-
-•	The Metal style represents a highly glossy metal and can be used to give a hologram a realistic shinny material.
+- The Metal style represents a highly glossy metal and can be used to give a hologram a realistic shiny material.
 
 ## Anchoring
 
-•	Place the anchor on the base object (Rather than a static object such as a table or cart), so if orientation of the base object is incorrect, the operator can rescan and correct hologram positions.
+- Place the anchor on the base object (rather than a static object such as a table or cart), so if orientation of the base object is incorrect, the operator can rescan and correct hologram positions.
 
    ***EXAMPLE IMAGE HERE***
 
-•	Important orientation that could impact alignment of future steps be coupled with visual guides either via photo or custom hologram and text reminders to check their positioning.
+- Important orientation that could impact alignment of future steps can be coupled with visual guides via photos or custom holograms and text reminders to check their positioning.
 
    ***EXAMPLE IMAGE HERE***
 
-•	Make sure to explain anchoring fundamentals to operators, otherwise they may be confused how to fix it if they incorrectly align a real object.
+•- Make sure to explain anchoring fundamentals to operators, otherwise they may be confused about how to fix if they incorrectly align a real-world object.
 
 ### See Also
 
