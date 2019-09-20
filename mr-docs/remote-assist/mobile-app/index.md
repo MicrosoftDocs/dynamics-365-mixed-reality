@@ -65,7 +65,7 @@ A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account i
     > [!TIP]
     > The sign-in address will be in the form: username@company.
     
-3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)], or 
+<br>3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)], or 
 select **Skip** if you don’t want to link the apps at this time. You can always link them later through **Settings**. To learn more about how the apps work together, select **Learn More**.
 
     ![Field Service screen](../media/field-service.PNG "Field Service screen")
@@ -93,9 +93,9 @@ To make a call:
     
     ![Call controls](media/call-controls.PNG "Call controls")
     
-    A. Pause video feed
-    B. Mute call
-    C. Turn on speaker phone
+    A. Pause video feed<br>
+    B. Mute call<br>
+    C. Turn on speaker phone<br>
     D. End call
   
  
@@ -114,10 +114,10 @@ You can add an augmented-reality annotation by using the buttons on the annotati
 
 ![Annotation bar](media/annotation-bar.PNG "Annotation bar")
 
-A. Add arrow
-B. Add ink
-C. Change color of arrow or ink
-D. Undo last action
+A. Add arrow<br>
+B. Add ink<br>
+C. Change color of arrow or ink<br>
+D. Undo last action<br>
 E. Delete everything on screen, including expert's annotations
   
 For example, to add an arrow, tap the arrow tool and drag your finger to the spot where you want to place the arrow.
