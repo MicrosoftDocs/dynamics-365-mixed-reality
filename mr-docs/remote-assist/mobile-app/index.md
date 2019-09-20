@@ -74,7 +74,7 @@ select **Skip** if you don’t want to link the apps at this time. You can alway
 After signing in, you’ll see the **Contacts** page, which is the main page in [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. On the **Contacts** page, 
 your contacts are organized by the most recent calls.
 
-![Contacts screen](media/contacts.PNG "Contacts screen")
+![Contacts screen](media/contacts.png "Contacts screen")
 
 To make a call:
 
@@ -84,7 +84,7 @@ To make a call:
     
 2.	In the contact card, select **Launch Call**.
 
-    ![Launch Call screen](media/launch-call.PNG "Launch Call screen")
+    ![Launch Call screen](media/launch-call.png "Launch Call screen")
   
     Use the buttons in the bar at the bottom of the screen to mute the call, pause the video feed, turn on the speaker phone, or 
     end the call.
@@ -163,7 +163,7 @@ When you sign in to [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-36
 
 1.	When you end the call, the following dialog box will appear:
 
-    ![Post to Work Order screen](media/post-to-work-order.PNG "Post to Work Order screen")
+    ![Post to Work Order screen](media/post-to-work-order.png "Post to Work Order screen")
   
 2.	Select **Post**.
 
