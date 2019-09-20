@@ -74,7 +74,7 @@ select **Skip** if you don’t want to link the apps at this time. You can alway
 After signing in, you’ll see the **Contacts** page, which is the main page in [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. On the **Contacts** page, 
 your contacts are organized by the most recent calls.
 
-![Contacts screen](../media/contacts.PNG "Contacts screen")
+![Contacts screen](media/contacts.PNG "Contacts screen")
 
 To make a call:
 
@@ -84,19 +84,19 @@ To make a call:
     
 2.	In the contact card, select **Launch Call**.
 
-    ![Launch Call screen](/media/launch-call.PNG "Launch Call screen")
+    ![Launch Call screen](media/launch-call.PNG "Launch Call screen")
   
     Use the buttons in the bar at the bottom of the screen to mute the call, pause the video feed, turn on the speaker phone, or 
     end the call.
     
-    ![Call controls](../media/call-controls.PNG "Call controls")
+    ![Call controls](media/call-controls.PNG "Call controls")
   
  
 ## Add annotations
 You can add annotations to your screen to share with an expert on the call. To create annotations, your phone or tablet needs to recognize 
 at least one plane (vertical or horizontal) in your work area. You do this by scanning your work area with the phone or tablet. When a plane has been recognized, you’ll see a confirmation visualization and the annotation toolbar will appear at the top of the screen:
 
-![Add annotations](../media/annotation-bar-full-screen.PNG "Add annotations")
+![Add annotations](media/annotation-bar-full-screen.PNG "Add annotations")
   
 > [!NOTE] 
 > If you lock your phone or tablet, or minimize [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile, the recognized planes will reappear automatically as soon as your phone or tablet recognizes the environment.
@@ -105,7 +105,7 @@ at least one plane (vertical or horizontal) in your work area. You do this by sc
 
 You can add an augmented-reality annotation by using the buttons on the annotation toolbar:
 
-![Annotation bar](../media/annotation-bar.PNG "Annotation bar")
+![Annotation bar](media/annotation-bar.PNG "Annotation bar")
   
 For example, to add an arrow, tap the arrow tool and drag your finger to the spot where you want to place the arrow.
 
@@ -113,7 +113,7 @@ For example, to add an arrow, tap the arrow tool and drag your finger to the spo
 
 You can also annotate in 2D by toggling augmented reality off or by taking a picture.
 
-![Camera button](../media/camera-button.PNG "Camera button")
+![Camera button](media/camera-button.PNG "Camera button")
 
 You may want to do this:
 
@@ -128,7 +128,7 @@ You may want to do this:
 When you call an expert, the expert’s video feed appears in the lower-right corner of your phone or tablet screen. To make the expert’s 
 video feed bigger, tap the feed. Tap the feed again to return to the original size.
 
-![Expert video feed](../media/expert-annotating.PNG "Expert video feed")
+![Expert video feed](media/expert-annotating.PNG "Expert video feed")
   
 If the expert is annotating, a notification icon will appear on the expert's feed.  
 
@@ -140,7 +140,7 @@ You can switch the orientation of the camera view from portrait to landscape whi
 
 You can also communicate through Teams chat with the person you're calling. A popup appears for any messages you receive or can open the text chat window to send a message to the other person. 
 
-![Expert video feed](../media/chat.PNG "Expert video feed")
+![Expert video feed](media/chat.PNG "Expert video feed")
    
 ## Use Remote Assist together with Dynamics 365 Field Service
 
@@ -163,13 +163,13 @@ When you sign in to [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-36
 
 1.	When you end the call, the following dialog box will appear:
 
-    ![Post to Work Order screen](../media/post-to-work-order.PNG "Post to Work Order screen")
+    ![Post to Work Order screen](media/post-to-work-order.PNG "Post to Work Order screen")
   
 2.	Select **Post**.
 
 3.	In the **Select a Booking** screen, select the appropriate booking to post the call data to.
 
-    ![Select a Booking screen](../media/bookings-today.PNG "Select a Booking screen")
+    ![Select a Booking screen](media/bookings-today.PNG "Select a Booking screen")
   
     > [!NOTE]
     > If you don’t see the booking you’re looking for, it might be because you have access to multiple instances (organizations). 
