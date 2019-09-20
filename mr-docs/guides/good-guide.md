@@ -233,23 +233,23 @@ We recommend using 2D images in the following scenarios:
 
 - General notes for images. Make sure images:
      
- - Are clear
+  - Are clear
         
- - Are high quality. 1080p is recommended. 4K images are unnecessary.
+  - Are high quality. 1080p is recommended. 4K images are unnecessary.
         
- - Capture enough context to orient the operator contextually in the environment.
+  - Capture enough context to orient the operator contextually in the environment.
         
    ***EXAMPLE IMAGE HERE***
         
- - Are shown from the viewpoint of the operator.
+  - Are shown from the viewpoint of the operator.
 
- - Don't contain extra visual noise that can confuse or distract the operator from what you're trying to communicate.
+  - Don't contain extra visual noise that can confuse or distract the operator from what you're trying to communicate.
 
- - Maintain a 16:9 ratio to fill the entire media panel.
+  - Maintain a 16:9 ratio to fill the entire media panel.
 
- - Show enough of the details you're trying to communicate. Don't take images from too far away. 
+  - Show enough of the details you're trying to communicate. Don't take images from too far away. 
 
-- Make sure to preview all images on HoloLens before using a guide. Image detail and color may appear different on HoloLens.
+  - Make sure to preview all images on HoloLens before using a guide. Image detail and color may appear different on HoloLens.
 
 - If an image is critical, include the words ***REFER TO IMAGE*** before any additional action text in the step instructions. If you put the reference after an action, operators can miss it. You can even create a separate step to place before the action to make sure the operator sees the image.
 
