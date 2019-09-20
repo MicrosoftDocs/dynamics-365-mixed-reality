@@ -65,7 +65,7 @@ to someone in person?
 
   - A step with a list of all the tasks in the guide. This will help create a roadmap of the assembly process for the operator, which leads to better retention.
 
-  If safety is a critical concern, you can add an additional step focused on specific safety measures you want operators 
+- If safety is a critical concern, you can add an additional step focused on specific safety measures you want operators 
 to take before starting the guide.
 
    ***EXAMPLE IMAGE HERE***
