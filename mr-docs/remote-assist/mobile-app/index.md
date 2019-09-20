@@ -84,7 +84,7 @@ To make a call:
     
 2.	In the contact card, select **Launch Call**.
 
-    ![Launch Call screen](../media/launch-call.PNG "Launch Call screen")
+    ![Launch Call screen](/media/launch-call.PNG "Launch Call screen")
   
     Use the buttons in the bar at the bottom of the screen to mute the call, pause the video feed, turn on the speaker phone, or 
     end the call.
