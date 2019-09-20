@@ -151,7 +151,7 @@ You can switch the orientation of the camera view from portrait to landscape whi
 
 ## Send a text message
 
-You can also communicate through Teams chat with the person you're calling. A popup appears for any messages you receive or can open the text chat window to send a message to the other person. 
+You can also communicate through Teams chat with the person you're calling. A popup appears for any messages you receive or you can open the text chat window to send a message to the other person. 
 
 ![Expert video feed](media/chat.PNG "Expert video feed")
    
