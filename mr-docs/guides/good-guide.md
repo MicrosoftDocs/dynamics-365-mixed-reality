@@ -263,7 +263,7 @@ We recommend using 2D images in the following scenarios:
 
   - Make sure to preview all images on HoloLens before using a guide. Image detail and color may appear different on HoloLens.
 
-- If an image is critical, include the words ***REFER TO IMAGE*** before any additional action text in the step instructions. If you put the reference after an action, operators can miss it. You can even create a separate step to place before the action to make sure the operator sees the image.
+- If an image is critical, include the words **Refer to image for reference** before any additional action text in the step instructions. If you put the reference after an action, operators can miss it. You can even create a separate step to place before the action to make sure the operator sees the image.
 
    Good example:
 
