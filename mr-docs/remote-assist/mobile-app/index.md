@@ -18,8 +18,10 @@ expert on [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)]. 
 
 You’ll need the following to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile:
 
-- An [!include[tn-android](../../includes/tn-android.md)] or iOS device. Dynamics 365 Remote Assist for mobile supports both AR and non-AR devicies. With non-AR devices, you can use 2D annotations.  [View the full list of AR-supported 
-Android devices.](https://developers.google.com/ar/discover/supported-devices). [Learn more about augmented reality on iOS](https://www.apple.com/ios/augmented-reality/).
+- An [!include[tn-android](../../includes/tn-android.md)] or iOS device. Dynamics 365 Remote Assist for mobile supports both AR and non-AR devicies. With non-AR devices, you can use 2D annotations:
+  - [View the full list of AR-supported Android devices](https://developers.google.com/ar/discover/supported-devices)
+
+  - [Learn more about augmented reality on iOS](https://www.apple.com/ios/augmented-reality/)
 
 - A [!include[tn-google](../../includes/tn-google.md)] Play or Apple Store account.
 
