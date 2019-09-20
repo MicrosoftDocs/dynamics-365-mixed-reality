@@ -495,4 +495,4 @@ Shoot videos from a third-person or first-person perspective.
 [Operator's manual](operator-guide.md)<br>
 [Analyze your guides](analytics-guide.md)<br>
 [FAQ](faq.md)<br>
-[Known issues](knwon-issues.md)
+[Known issues](known-issues.md)
