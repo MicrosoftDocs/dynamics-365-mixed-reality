@@ -48,7 +48,7 @@ A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account i
 
 ### Step 2: Download the app
 
-1.	Go to the [!include[tn-google](../../includes/tn-google.md)] Play Store: https://play.google.com/store/apps/details?id=com.microsoft.ramobile or Apple Store: .
+1.	Go to the [Google Play Store](https://play.google.com/store/apps/details?id=com.microsoft.ramobile) or [Apple Store](https://go.microsoft.com/fwlink/?linkid=2100645).
 
 2.	Select **Download**. 
  
