@@ -11,16 +11,15 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Remote Assist for mobile user guide
 
-[!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile extends the capabilities of [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to work with iOS or [!include[tn-android](../../includes/tn-android.md)] tablets and ARCore-capable [!include[tn-android](../../includes/tn-android.md)] phones (in addition to [!include[cc-microsoft](../../includes/cc-microsoft.md)]  [!include[pn-HoloLens](../../includes/pn-HoloLens.md)]). Technicians can use their phones to connect and collaborate with an 
-expert on [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)]. Using live video calling and annotations, they can share what they see with the expert 
-to troubleshoot problems together, faster. 
+[!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile extends the capabilities of [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to work with [!include[tn-android](../../includes/tn-android.md)] or iOS phones or tablets (in addition to [!include[cc-microsoft](../../includes/cc-microsoft.md)]  [!include[pn-HoloLens](../../includes/pn-HoloLens.md)]). Technicians can use their phone or tablet to connect and collaborate with an 
+expert on [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)]. Using live video calling and annotations, they can share what they see with the expert to troubleshoot problems together, faster. 
 
 ## What you’ll need
 
 You’ll need the following to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile:
 
-- An [!include[tn-android](../../includes/tn-android.md)] or iOS device. [View the full list of supported 
-devices.](https://developers.google.com/ar/discover/supported-devices). [Learn more about augmented reality on iOS](https://www.apple.com/ios/augmented-reality/).
+- An [!include[tn-android](../../includes/tn-android.md)] or iOS device. Dynamics 365 Remote Assist for mobile supports both AR and non-AR devicies. With non-AR devices, you can use 2D annotations.  [View the full list of AR-supported 
+Android devices.](https://developers.google.com/ar/discover/supported-devices). [Learn more about augmented reality on iOS](https://www.apple.com/ios/augmented-reality/).
 
 - A [!include[tn-google](../../includes/tn-google.md)] Play or Apple Store account.
 
