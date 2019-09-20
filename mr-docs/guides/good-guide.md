@@ -139,14 +139,14 @@ to create separate steps to make sure the operator completes the correct sequenc
    
 - Consider adding additional separate steps that show individual tips and tricks. Adding tips/tricks in an action step often leads the operator to miss them.
    
-   - It can be beneficial to add tips/tricks as a separate step before the action step.
+  - It can be beneficial to add tips/tricks as a separate step before the action step.
        
-   - Adding a NOTE step is useful for quality checks. This type of step can come before or after another step, depending on the 
+  - Adding a **NOTE** step is useful for quality checks. This type of step can come before or after another step, depending on the 
        specific context.
        
      ***EXAMPLE IMAGE HERE***
        
-   - Add a WARNING step for things that could be dangerous or cause a quality issue. This type of step can come before or after 
+  - Add a **WARNING** step for things that could be dangerous or cause a quality issue. This type of step can come before or after 
        another step, depending on the specific context. On HoloLens, you can add a warning style on a 3D hologram to reinforce the 
        warning step text.
        
@@ -158,7 +158,7 @@ to create separate steps to make sure the operator completes the correct sequenc
 - If it isn't a generic tool/part (for example, a screwdriver, socket wrench, or washer), make sure to label and define the tool/part 
        the first time you introduce it to the operator. After labeling and describing the tool/part the first time, you don't need to define it throughout the rest of the guide.
        
-- If certain actions are critical to the success of subsequent actions, make sure to add a validation step. Some 
+- Validation. If certain actions are critical to the success of subsequent actions, make sure to add a validation step. Some 
 validation examples include:
 
   –	Visual validation
