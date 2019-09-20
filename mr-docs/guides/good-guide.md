@@ -265,13 +265,13 @@ We recommend using 2D images in the following scenarios:
 
 - If an image is critical, include the words ***REFER TO IMAGE*** before any additional action text in the step instructions. If you put the reference after an action, operators can miss it. You can even create a separate step to place before the action to make sure the operator sees the image.
 
-Good example:
+   Good example:
 
-![Good example of referring to an image](media/good-example3.PNG "Good example of referring to an image")  
+   ![Good example of referring to an image](media/good-example3.PNG "Good example of referring to an image")  
 
-Bad example:
+   Bad example:
 
-![Bad example of referring to an image](media/bad-example3.PNG "Bad example of referring to an image") 
+   ![Bad example of referring to an image](media/bad-example3.PNG "Bad example of referring to an image") 
 
 ## Videos
 
