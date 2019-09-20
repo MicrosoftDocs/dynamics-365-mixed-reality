@@ -135,6 +135,12 @@ If the expert is annotating, a notification icon will appear on the expert's fee
 ## Switch the camera view from portrait to landscape
 
 You can switch the orientation of the camera view from portrait to landscape while in a call by changing the orientation of your phone or tablet. Using landscape view provides a wider field of view, which may improve the experience for the remote expert on the call.
+
+## Send a text message
+
+You can also communicate through Teams chat with the person you're calling. A popup appears for any messages you receive or can open the text chat window to send a message to the other person. 
+
+![Expert video feed](../media/chat.PNG "Expert video feed")
    
 ## Use Remote Assist together with Dynamics 365 Field Service
 
