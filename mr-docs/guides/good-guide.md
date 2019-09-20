@@ -331,8 +331,7 @@ Shoot videos from a third-person or first-person perspective.
 
     –	You can use arrows in combination with other 3D holograms (for example, checks and cross) to show where to put something and where not to put something.
 
-      ![Example of number sequencing](media/number-sequencing.PNG "Example of number sequencing")
-
+      
 #### Hands
 
 - Hands are best for communicating specific hand orientations or movements.
@@ -345,7 +344,7 @@ Shoot videos from a third-person or first-person perspective.
 
 - Use numbers for sequencing within a step. Example: "First pull the lever (1), and then place it in the key hole (2)."
 
-  ***EXAMPLE IMAGE HERE***
+  ![Example of number sequencing](media/number-sequencing.PNG "Example of number sequencing")
 
 - Don't use numbers to identify parts in the world. Example: "Pick up the screwdriver (1) and the socket wrench (2)."
 
