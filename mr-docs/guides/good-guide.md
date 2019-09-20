@@ -181,7 +181,7 @@ validation examples include:
           
 - Hands:
 
-  - Don't specify which hand to use (left/right) unless:
+ - Don't specify which hand to use (left/right) unless:
   
    - Using a specific hand is important to the process (for example, "Hold the left side down with your left hand, and use your right hand to turn the knob simultaneously")
 
