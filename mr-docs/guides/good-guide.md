@@ -425,9 +425,9 @@ Shoot videos from a third-person or first-person perspective.
 
   –	Having the operator pick up a part/piece. This works especially well on:
     
-    - The hands holograms in the 3D toolkit because operators can align their hand to the hologram, positioning their hand in the right orientation and position.
+   - The hands holograms in the 3D toolkit because operators can align their hand to the hologram, positioning their hand in the right orientation and position.
 
-    –	Picking up parts because the outline around the real-world object visually distinguishes it from the rest of the environment.
+   – Picking up parts because the outline around the real-world object visually distinguishes it from the rest of the environment.
 
 #### Place
 
@@ -487,7 +487,7 @@ Shoot videos from a third-person or first-person perspective.
 
    ***EXAMPLE IMAGE HERE***
 
-•- Make sure to explain anchoring fundamentals to operators, otherwise they may be confused about how to fix if they incorrectly align a real-world object.
+- Make sure to explain anchoring fundamentals to operators, otherwise they may be confused about how to fix if they incorrectly align a real-world object.
 
 ### See Also
 
