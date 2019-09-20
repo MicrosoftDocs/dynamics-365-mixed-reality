@@ -61,7 +61,7 @@ to someone in person?
 
 - To provide overall context, add an Overview and/or Welcome task at the beginning of the guide. 
 
-  ![Overview example](media/select-guide.PNG "Overview example")
+  ![Overview example](media/overview.PNG "Overview example")
 
   This task can include the following steps:
 
