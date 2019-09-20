@@ -61,7 +61,7 @@ to someone in person?
 
 - To provide overall context, add an Overview and/or Welcome task at the beginning of the guide. 
 
-  SCREENSHOT GOES HERE: overview
+  ![Overview example](media/select-guide.PNG "Overview example")
 
   This task can include the following steps:
 
@@ -109,11 +109,11 @@ to take before starting the guide.
    
      Bad example:
      
-     SCREEN SHOT GOES HERE: bad-example
+     ![Multiple sentences](media/bad-example.PNG "Multiple sentences")
      
      Good example:
      
-     SCREEN SHOT GOES HERE: good-example     
+     ![Single idea](media/good-example.PNG "Single idea")     
        
      In this example, many operators might miss the second sentence and continue onto the next step.
 
@@ -158,11 +158,11 @@ to create separate steps to make sure the operator completes the correct sequenc
        
      Good example:
      
-     SCREEN SHOT GOES HERE: good-example2
+     ![Warning, good example](media/good-example2.PNG "Warning, good example")
      
      Bad example:
      
-     SCREEN SHOT GOES HERE: bad-example2
+     ![Warning, bad example](media/bad-example2.PNG "Warning, bad example")
             
 - Add a step at the end of each task to let the operator know that they’re ending a task and to introduce them to the following 
        task. This helps the operator form a mental model of the guide structure, leading to better retention.
@@ -231,13 +231,13 @@ We recommend using 2D images in the following scenarios:
 
 - What to do and what not to do. When operators do something the wrong way consistently, it's useful to have an image that shows the correct way next to an image that shows the incorrect way. Highlight the key difference.
 
-  SCREEN SHOT GOES HERE: to-do-and-not-to-do
+  ![Example of what to do and not to do](media/to-do-and-not-to-do.PNG "Example of what to do and not to do") 
 
 - Validation
 
   –	Orientation validation. Using an image is a clear way to make sure parts or machinery have the correct orientation. This can be critically important if subsequent steps are based on correct orientation for a specific part or piece. Make sure to give enough environmental context to visually communicate to operators the correct orientation in the environment.
       
-   SCREEN SHOT GOES HERE: orientation-validation
+   ![Example of orientation validation](media/orientation-validation.PNG "Example of orientation validation")  
 
   –	Part validation. Use images for part identification in cases where a workstation has multiple parts that could be confused with one another visually. This is especially useful when two or more parts looks very similar with one minute differences.      
 
@@ -267,11 +267,11 @@ We recommend using 2D images in the following scenarios:
 
 Good example:
 
-SCREEN SHOT GOES HERE: good-example3
+![Good example of referring to an image](media/good-example-3.PNG "Good example of referring to an image")  
 
 Bad example:
 
-SCREEN SHOT GOES HERE: bad-example3
+![Bad example of referring to an image](media/bad-example-3.PNG "Bad example of referring to an image") bad-example3
 
 ## Videos
 
@@ -331,7 +331,7 @@ Shoot videos from a third-person or first-person perspective.
 
     –	You can use arrows in combination with other 3D holograms (for example, checks and cross) to show where to put something and where not to put something.
 
-      SCREEN SHOT GOES HERE: number-sequencing
+      ![Example of number sequencing](media/number-sequencing.PNG "Example of number sequencing")
 
 #### Hands
 
