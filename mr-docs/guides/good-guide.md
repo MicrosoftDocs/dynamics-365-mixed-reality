@@ -203,9 +203,9 @@ validation examples include:
   
 - Don't use the dotted line:
 
-  - On every step. Using the dotted line to point to the same location over multiple steps can become visual clutter that distracts the operator from focusing on 3D holograms or the physical piece of machinery.
+  – On every step. Using the dotted line to point to the same location over multiple steps can become visual clutter that distracts the operator from focusing on 3D holograms or the physical piece of machinery.
   
-  - To point to a specific location (within 10 mm). Use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
+  – To point to a specific location (within 10 mm). Use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
 
 - Use the dotted line for "part pickup" in the following ways:
 
