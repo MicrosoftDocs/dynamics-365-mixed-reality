@@ -88,11 +88,11 @@ to take before starting the guide.
 
    –	Know the names of specific tools and what they can do?
    
-      - If yes, you can use less detail since you don't need to explain what tools or parts are.
+     - If yes, you can use less detail since you don't need to explain what tools or parts are.
       
-      - If no, you should add extra descriptions and clarifying visuals to support operators.
+     - If no, you should add extra descriptions and clarifying visuals to support operators.
       
-      - For a general audience, describe unique things (custom parts or tools) and don't describe generic things (generic tools).
+     - For a general audience, describe unique things (custom parts or tools) and don't describe generic things (generic tools).
       
    –	Understand basic safety requirements?
    
@@ -181,135 +181,119 @@ validation examples include:
           
 - Hands:
 
-         Do not specify which hand to use (left/right) unless:
+  - Dont's specify which hand to use (left/right) unless:
   
-          •	Using a specific hand is important to the process (i.e. "Hold the left side down with your left hand, and use your right hand to 
-turn the knob simultaneously")
+   - Using a specific hand is important to the process (for example, "Hold the left side down with your left hand, and use your right hand to turn the knob simultaneously")
 
-          •	Strength is required
+   - Strength is required. If strength is required, make sure to specify dominant/non-dominant hand in the step instructions. For example: "Turn the knob three times with your dominant hand. It will require force."
 
-             –	If strength is required, make sure to specify dominant/non-dominant hand in the step instructions (i.e. "Turn the knob three times with your dominant hand. It will require force.")
+## The dotted line (tether)
 
-## The Dotted Line
+- The main purpose of the dotted line is to spatially locate the operator where the work will take place.
 
-•	The main purpose of the dotted line is to spatially locate the operator where the work will be taking place.
+- **Use** the dotted line when:
 
-•	You *should* use the dotted line when:
-
-  –	Starting a guide. This well help orient the operator at the right general location where the work will take place.
+  –	Starting a guide. This helps orient the operator to the right general location where the work will take place.
   
-  –	When moving to a different area on a new step.
+  –	Moving to a different area on a new step.
   
-  –	When locating a part.
+  –	Locating a part.
   
-  –	When moving to a different area of a large piece of machinery (i.e. grater than 2' away from the previous step).
+  –	Moving to a different area of a large piece of machinery (for example, greater than 2' away from the previous step).
   
-•	You *should not* use the dotted line on every step.
+- **Don't use** the dotted line:
 
-  –	Using the dotted line to point to the same location over multiple steps can become visual clutter distracting the operator from focusing on 3D holograms or the physical piece of machinery.
+   - On every step. Using the dotted line to point to the same location over multiple steps can become visual clutter that distracts the operator from focusing on 3D holograms or the physical piece of machinery.
   
-•	Do not use the dotted line to point to a specific location (within 10mm). Instead use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
+   - To point to a specific location (within 10 mm). Use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
 
-•	Use the tether for "Part Pickup" in the following ways:
+- Use the dotted line for "part pickup" in the following ways:
 
-–	For the first time picking up a part, use the tether to show the operator where it is.
+   –	For the first time picking up a part, use the dotted line to show the operator where it is.
 
-–	For the second time, or to put a tool back, you don't need to use the tether again (Unless it's in a different location).
+   –	For the second time, or to put a tool back, you don't need to use the dotted line again (unless it's in a different location).
 
-## 2D Images
+## 2D images
 
 We recommend using 2D images in the following scenarios:
 
-•	"What to do & What not to do"
+- What to do and what not to do. When operators do something the wrong way consistently, it's useful to have an image that shows the correct way next to an image that shows the incorrect way. Highlight the key difference.
 
-   –	When operators do something the wrong way consistently, it's useful to have an image in the "correct way" next to an image of the "incorrect way" highlighting the key difference.
+  ***EXAMPLE IMAGE HERE***
 
-   ***EXAMPLE IMAGE HERE***
+- Validation
 
-•	Validation
-
-  –	Orientation Validation
-
-    •	Using an image is a clear way to make sure parts or machinery are in the correct orientation. This can be critically important if subsequent steps are based on correct orientation of a specific part or piece.
-    
-      –	Make sure to give enough environmental context to visually communicate to operators the correct orientation in the environment.
+  –	Orientation validation. Using an image is a clear way to make sure parts or machinery have the correct orientation. This can be critically important if subsequent steps are based on correct orientation for a specific part or piece. Make sure to give enough environmental context to visually communicate to operators the correct orientation in the environment.
       
-      ***EXAMPLE IMAGE HERE***
+    ***EXAMPLE IMAGE HERE***
 
+  –	Part validation. Use images for part identification in cases where a workstation has multiple parts that could be confused with one another visually. This is especially useful when two or more parts looks very similar with one minute differences.      
 
-      –	Part Validation
-      
-      •	Use images for part identification in cases where a work-station has multiple parts that could be confused with one another visually---This is especially useful when two or more parts looks very similar with one minute differences.      
+    Validate that an operator is picking up the correct part by comparing it to a picture or reference number.
 
-      •	Validating that an operator is picking up the correct part by comparing it to a picture or reference number
-
-•	General notes for images:
-
-     –	Make sure images:
+- General notes for images. Make sure images:
      
-        •	Clear
+  - Are clear
         
-        •	High quality (1080p is recommended. 4K images are unnecessary)
+  - Are high quality. 1080p is recommended. 4K images are unnecessary.
         
-        •	Capture enough context to orient the operator contextually in the environment.
+  - Capture enough context to orient the operator contextually in the environment.
         
-        ***EXAMPLE IMAGE HERE***
+    ***EXAMPLE IMAGE HERE***
         
-        •	From the viewpoint of how the operator will see it.
+  - Are shown from the viewpoint of the operator.
 
-        •	Don't contain extra visual noise that can confuse or distract the operator from what you are trying to communicate.
+  - Don't contain extra visual noise that can confuse or distract the operator from what you're trying to communicate.
 
-        •	Images should maintain 16:9 ratio to fill the entire media panel.
+  - Maintain a 16:9 ratio to fill the entire media panel.
 
-        •	Images should not be taken from too far away that the operator can't see enough detail of what you are trying to communicate.
+  - Show enough of the details you're trying to communicate. Don't take images from too far away. 
 
-        •	Make sure to preview all images in HoloLens before using a Guide (Image detail and color may appear different on HoloLens).
+- Make sure to preview all images on HoloLens before using a guide. Image detail and color may appear different on HoloLens.
 
-•	If an image is critical, say ***REFER TO IMAGE*** before any additional action text in the step instructions. If you put it after an action text operators can miss it- You can even put this as it's own step before the action to make sure the user pays attention to the image.
+- If an image is critical, include the words ***REFER TO IMAGE*** before any additional action text in the step instructions. If you put the reference after an action, operators can miss it. You can even create a separate step to place before the action to make sure the operator sees the image.
 
    ***EXAMPLE IMAGE HERE***
 
 ## Videos
 
-We recommend using videos for:
-
-   •	Unique interactions
+We recommend videos for unique interactions, such as:
    
-     –	Detailed hand processes.
+–	Detailed hand processes.
      
-     –	Steps where millimeter accuracy is critical, and 3D holograms may not be accurate enough.
+–	Steps where millimeter accuracy is critical and 3D holograms may not be accurate enough.
      
-     –	Processes where standard holograms are too abstract, but custom holograms are too complex for your team to produce.
+–	Processes where standard holograms are too abstract, but custom holograms are too complex for your team to produce.
+
+Only show how to do something one way. Showing multiple ways to complete a step can be confusing for operators. Pick the best method for completing the step.
      
-   •	Videos should be shot from a 3rd person or 1st person perspective.
+### First-person vs. third-person videos
+
+Shoot videos from a third-person or first-person perspective.
    
-      ***EXAMPLE IMAGE  OF 3RD-PERSON VS 1ST-PERSON HERE***
+   ***EXAMPLE IMAGE  OF 3RD-PERSON VS 1ST-PERSON HERE***
 
-     –	3rd Person works best for:
+- Third-person videos work best to:
      
-        •	Show environmental context of where you are doing the work.
+  - Show environmental context of where to do the work.
 
-        •	Understand how to the operator and machine are interacting.
+  - Understand how the operator and machine interact.
 
-        •	When filming in 3rd person, it helps to start wide (to see full context) and then zoom in to understand detailed operations.
+- When filming in third person, it helps to start wide (to see the full context), and then zoom in to understand detailed operations.
 
-        •	3rd person videos can easily be taken with any hand-held camera.
+- You can easily shoot third-person videos with any hand-held camera.
 
-     –	1st Person works best for:
+- First person videos work best:
 
-        •	Small tight spaces
+  - For small, tight spaces
 
-        •	Fine hand work
+  - For fine hand work
 
-        •	When communicating the work from the perspective of the operator is critical to the success of the procedure.
+  - When communicating the work from the perspective of the operator is critical to the success of the procedure.
 
-        •	For 1st-person videos, we recommend mounting a camera to the authors head using a GoPro or similar device.
-
-•	Only show how to do something one way (i.e. don't show alternative methods)
-
-    –	Showing multiple ways to complete a step may be confusing to operators learning the task— pick the best method of completing the step and only communicate this method to operators
+- For first-person videos, we recommend mounting a camera to the authors head using a GoPro or similar device.
     
-## 3D Toolkit
+## 3D toolkit
 
 3D Toolkit Categories:
 
