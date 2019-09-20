@@ -59,7 +59,11 @@ This will help the operator retain the organization of the guide, leading to bet
 - When you start authoring a guide, talk the assembly process out loud – how would you verbally communicate this process 
 to someone in person?
 
-- To provide overall context, add an Overview and/or Welcome task at the beginning of the guide. This task can include the following steps:
+- To provide overall context, add an Overview and/or Welcome task at the beginning of the guide. 
+
+  SCREENSHOT GOES HERE: overview
+
+  This task can include the following steps:
 
   - A step that describes what the guide is about.
 
@@ -67,8 +71,6 @@ to someone in person?
 
   - If safety is a critical concern, you can add an additional step focused on specific safety measures you want operators 
 to take before starting the guide.
-
-   ***EXAMPLE IMAGE HERE***
 
 - Tasks shouldn't include more than 30 steps. If a task contains more than 30 steps, break it into two or more tasks. Our research shows that having too many steps in a single task can overwhelm an operator, especially if they're learning the procedure for the first time.
 
@@ -105,8 +107,14 @@ to take before starting the guide.
    –	If you have multiple sentences in a single step, our research shows that operators will often read the first sentence, 
    try to complete the action, and miss the rest of the content on the step.
    
-     ***EXAMPLE IMAGE HERE***
-   
+     Bad example:
+     
+     SCREEN SHOT GOES HERE: bad-example
+     
+     Good example:
+     
+     SCREEN SHOT GOES HERE: good-example     
+       
      In this example, many operators might miss the second sentence and continue onto the next step.
 
 - Keep text simple and colloquial.
@@ -143,15 +151,19 @@ to create separate steps to make sure the operator completes the correct sequenc
        
   - Adding a **NOTE** step is useful for quality checks. This type of step can come before or after another step, depending on the 
        specific context.
-       
-     ***EXAMPLE IMAGE HERE***
-       
+            
   - Add a **WARNING** step for things that could be dangerous or cause a quality issue. This type of step can come before or after 
        another step, depending on the specific context. On HoloLens, you can add a warning style on a 3D hologram to reinforce the 
        warning step text.
        
-     ***EXAMPLE IMAGE HERE***
-       
+     Good example:
+     
+     SCREEN SHOT GOES HERE: good-example2
+     
+     Bad example:
+     
+     SCREEN SHOT GOES HERE: bad-example2
+            
 - Add a step at the end of each task to let the operator know that they’re ending a task and to introduce them to the following 
        task. This helps the operator form a mental model of the guide structure, leading to better retention.
        
@@ -219,13 +231,13 @@ We recommend using 2D images in the following scenarios:
 
 - What to do and what not to do. When operators do something the wrong way consistently, it's useful to have an image that shows the correct way next to an image that shows the incorrect way. Highlight the key difference.
 
-  ***EXAMPLE IMAGE HERE***
+  SCREEN SHOT GOES HERE: to-do-and-not-to-do
 
 - Validation
 
   –	Orientation validation. Using an image is a clear way to make sure parts or machinery have the correct orientation. This can be critically important if subsequent steps are based on correct orientation for a specific part or piece. Make sure to give enough environmental context to visually communicate to operators the correct orientation in the environment.
       
-    ***EXAMPLE IMAGE HERE***
+   SCREEN SHOT GOES HERE: orientation-validation
 
   –	Part validation. Use images for part identification in cases where a workstation has multiple parts that could be confused with one another visually. This is especially useful when two or more parts looks very similar with one minute differences.      
 
@@ -253,7 +265,13 @@ We recommend using 2D images in the following scenarios:
 
 - If an image is critical, include the words ***REFER TO IMAGE*** before any additional action text in the step instructions. If you put the reference after an action, operators can miss it. You can even create a separate step to place before the action to make sure the operator sees the image.
 
-   ***EXAMPLE IMAGE HERE***
+Good example:
+
+SCREEN SHOT GOES HERE: good-example3
+
+Bad example:
+
+SCREEN SHOT GOES HERE: bad-example3
 
 ## Videos
 
@@ -313,7 +331,7 @@ Shoot videos from a third-person or first-person perspective.
 
     –	You can use arrows in combination with other 3D holograms (for example, checks and cross) to show where to put something and where not to put something.
 
-      ***EXAMPLE IMAGE HERE***
+      SCREEN SHOT GOES HERE: number-sequencing
 
 #### Hands
 
