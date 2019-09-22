@@ -33,7 +33,7 @@ There are multiple ways to get a Dynamics 365 Guides subscription:
 
 - If you have a Microsoft work account, you can go directly to the Microsoft 365 Admin Center and search for a Dynamics 365 Guides subscription there.
 
-- Go to [the Getting started page](http://aka.ms/GetGuides) to create new credentials and follow the instructions to sign up for a free trial subscription. 
+- Go to [the Getting started page](http://aka.ms/GetGuides). You can use this page to buy a subscription or to sign up for a free trial subscription. If you sign up for a trial, you'll create new credentials for the trial.  
 
     > [!IMPORTANT] 
     > If you don't have administrator permissions associated with your work account, you won't be able to complete Step 2 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out Dynamics 365 Guides by following the steps on the Getting started page. In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*.
@@ -258,7 +258,7 @@ If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, y
 
 ## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
 
-If you want to add additional users, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them in the Office 365 admin portal and configure roles in the Dynamics 365 admin portal.
+If you want to add additional users, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them in the Microsoft 365 Admin Center and configure roles in the Dynamics 365 admin portal.
 
 ### Add a user account
 
