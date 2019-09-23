@@ -15,7 +15,7 @@ So you’ve set up [!include[cc-microsoft](../includes/cc-microsoft.md)] [!inclu
 
 ## Check out the demo
 
-Dynamics 365 Guides provides an online demo that showcases the value of the app for your company. Use this five-minute demo to get a quick overview of how Dynamics 365 Guides works. 
+Dynamics 365 Guides provides a demo that showcases the value of the app for your company. This five-minute demo is useful for any type of Dynamics 365 Guides user, whether you're an author, operator, process engineer, or business decision maker. Use the demo to get a quick overview of how Dynamics 365 Guides works. You don't have to be online to use the demo. 
 
 To start the demo:
 
