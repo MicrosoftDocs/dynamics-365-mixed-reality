@@ -59,7 +59,6 @@ The following table provides useful links to learn about each of these areas.
 
 |Area|Online documentation|Video(s)|
 |----------------------------|--------------------------------------------|-----------------------------------------------|
-
 |Author a guide|[Authoring](authoring-overview.md)|[Author on the PC](https://aka.ms/pcauthor); [Author on HoloLens](https://aka.ms/hololensauthor); [Create a printed anchor](https://aka.ms/guidesprintedanchor); [Create a digital anchor](https://aka.ms/guidesdigitalanchor)|
 |Operate a guide|[Operator's manual](operator-guide.md)|[Opearate a guide](https://aka.ms/guidesoperate)|
 |Analyze guide usage|[Analyze a guide](analytics-guide.md)|[Analyze a guide](https://aka.ms/guidesanalyze)|
