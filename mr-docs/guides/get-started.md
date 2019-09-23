@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Get started with Dynamics 365 Guides
 
-So you’ve set up [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] using the [Setup topic](setup.md) and you’re ready to get started. What do you do next?
+So you’ve set up [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] using the [Setup topic](setup.md) and you’re ready to get started. What do you do next? This topic provides some ideas. 
 
 ## Check out the demo
 
