@@ -49,13 +49,22 @@ Experience step-by-step instructions that point to where the work takes place.
 
 There are three basic things you can do with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]: 
 
-- Create a guide (author a guide).
+- Create a guide (author a guide). 
 
 - Use a guide (operate a guide).
 
 - Analyze the guide usage (see how people operating the guide did at each step). 
 
-See our [Authoring](authoring-overview.md), [Operating](operator-guide.md), and [Analyzing](analytics-guide.md) topics for step-by-step guidance. Not sure about a term? See our [Glossary of terms](glossary.md). 
+The following table provides useful links to learn about each of these areas.
+
+|Area|Online documentation|Video(s)|
+|----------------------------|--------------------------------------------|-----------------------------------------------|
+
+|Author a guide|[Authoring](authoring-overview.md)|- [Author on the PC](https://aka.ms/pcauthor)<br></br>- [Author on HoloLens](https://aka.ms/hololensauthor)<br></br>- [Create a printed anchor](https://aka.ms/guidesprintedanchor)<br></br>- [Create a digital anchor](https://aka.ms/guidesdigitalanchor)|
+|Operate a guide|[Operator's manual](operator-guide.md)|[Opearate a guide](https://aka.ms/guidesoperate)|
+|Analyze guide usage|[Analyze a guide](analytics-guide.md)|[Analyze a guide](https://aka.ms/guidesanalyze)|
+
+Not sure about a term? See our [Glossary of terms](glossary.md). 
 
 > [!NOTE]
 > To learn about new features in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], see our [What's new page](new.md). To learn about new and upcoming [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] features, see our [April 2019 release notes](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/planned-features) and [2019 release wave 2 plan](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features). The release notes and release plan capture all the details, end-to-end, top-to-bottom, in a single place that you can use for planning. 
@@ -65,6 +74,8 @@ See our [Authoring](authoring-overview.md), [Operating](operator-guide.md), and 
 The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is by doing, so here are some tips on getting started: 
 
 - Watch the demo (see the first section in this topic).
+
+- [Watch our overview video](https://aka.ms/overview)
 
 - Use the Example Guide:
 
