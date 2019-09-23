@@ -21,7 +21,7 @@ To start the demo:
 
 1. Air tap the Dynamics 365 Guides logo.
 
-   ![Dynamics 365 Guides logo](media/logo.PNG "Dynamics 365 Guides logo")
+   ![Dynamics 365 Guides logo](media/Logo.png "Dynamics 365 Guides logo")
 
 2. Select the **Try this demo** button.
 
