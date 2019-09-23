@@ -29,7 +29,7 @@ To start the demo:
    
    The following sections provide a quick preview of what you'll see in the demo. 
 
-### Find your way around the demo
+### Find your way around 
 
 Try the hands-free interface to activate buttons, even when your hands are full. Gaze at the **Next** button to move forward in a guide, and the **Back** button to move backward. 
 
