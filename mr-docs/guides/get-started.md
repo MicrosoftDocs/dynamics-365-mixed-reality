@@ -49,7 +49,7 @@ Experience step-by-step instructions that point to where the work takes place.
 
 The following table provides useful links to learn about the three basic things you can do with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]: author a guide, operate a guide, or analyze a guide.
 
-|Area|Online documentation|Video(s)|
+|Task|Online documentation|Video(s)|
 |----------------------------|--------------------------------------------|-----------------------------------------------|
 |Author a guide|[Authoring overview](authoring-overview.md)|- [Author on the PC](https://aka.ms/pcauthor)<br>- [Author on HoloLens](https://aka.ms/hololensauthor)<br>- [Create a printed anchor](https://aka.ms/guidesprintedanchor)<br>- [Create a digital anchor](https://aka.ms/guidesdigitalanchor)|
 |Operate a guide|[Operator's manual](operator-guide.md)|[Operate a guide](https://aka.ms/guidesoperate)|
