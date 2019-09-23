@@ -45,17 +45,9 @@ Experience step-by-step instructions that point to where the work takes place.
 
 ![Dotted line examples](media/step-example-2.PNG "Dotted line examples")
 
-## Understand how Dynamics 365 Guides is organized
+## Check out our documentation and videos
 
-There are three basic things you can do with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]: 
-
-- Create a guide (author a guide). 
-
-- Use a guide (operate a guide).
-
-- Analyze the guide usage (see how people operating the guide did at each step). 
-
-The following table provides useful links to learn about each of these areas.
+The following table provides useful links to learn about the three basic things you can do with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]: author a guide, operate a guide, or analyze a guide.
 
 |Area|Online documentation|Video(s)|
 |----------------------------|--------------------------------------------|-----------------------------------------------|
