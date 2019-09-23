@@ -54,31 +54,6 @@ The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides
 
 3.	Need Support? If you run across an issue, check out our [FAQ](faq.md) and [Known Issues](known-issues.md) topics. If that doesn’t help, please contact Support. You can find information on contacting support in the [FAQ](faq.md).
 
-## What makes a good guide?
-
-Here are some tips for selecting high-impact use cases to get the most out of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
-
-Focus on step-by-step procedures that:
-
-- Operators don't know by heart (complex and/or spatially demanding procedures that aren't routinely performed).
-
-- Require important support preparation (paper-based patterns, stickers, measures, and so on) that could be replaced with holographic instructions.
-
-- Don't require millimeter-level accuracy. [!include[pn-hololens](../includes/pn-hololens.md)] sensors are not calibrated to support that level of accuracy.
-
-- Take less than one hour to complete. If a procedure takes longer than one hour, the operator could experience discomfort.
-
-Ask these questions when evaluating scenarios:
-
--	Is the procedure complex enough that it requires augmented work instructions? Think about things like how long it takes new operators to learn a task, how much time is spent deciphering schematics, cost of errors, and so on.
-
--	Can you convey the necessary information with centimeter-level accuracy? We can’t guarantee that holograms will maintain accuracy below 2 cm.
-
--	Does the procedure take less than an hour? 
-
--	Do operators need to be hands-free to complete the procedure?
-
-But get creative and experiment with how [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] can help your employees learn by doing. We love hearing about new ways that customers are using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! 
 
 
 ### See also
