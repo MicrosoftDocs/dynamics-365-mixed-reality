@@ -1,21 +1,19 @@
 ---
 author: Mamaylya
-description: Overview of Dynamics 365 Guides (Preview)
+description: Overview of Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 07/09/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: overview
-title: Overview of Dynamics 365 Guides (Preview)
+title: Overview of Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Overview of Dynamics 365 Guides (Preview)
+# Overview of Dynamics 365 Guides
 
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
- 
 ![Engine graphic](media/overview.PNG "Engine graphic") 
 
-[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that enables employees to learn in the flow 
+[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that enables employees to learn in the flow 
 of work by providing holographic instructions when and where they need them. A series of step-by-step instruction cards 
 with image and video support are visually tethered to the place where the work needs to be done. Additional guidance 
 in the form of holographic models shows what needs to be done where, so workers can get the job done faster, with fewer errors 
