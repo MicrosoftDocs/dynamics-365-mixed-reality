@@ -16,8 +16,12 @@ To do this:
 3.	Select the Guides app in the list. This opens a new tab for the Guides portal.
 
 4.	In the left navigation, go to **User Settings.**
+
+   ![User Settings](media/data-opt-out-user-settings.PNG "User Settings")
  
 5.	Select **New**.
+
+   ![Select New](media/data-opt-out-new.PNG "Select New")
  
 6.	Fill out the form as follows:
 
@@ -25,9 +29,11 @@ To do this:
 
     - **Record Guides usage:** Yes.
 
-    - **Belongs to:** User’s name.
+    - **Belongs to:** User’s name. 
 
 7.	Select **Save**.
+
+   ![Filled-out form](media/data-opt-out-filled-out-form.PNG "Filled-out-form")
  
 ### See also
 
