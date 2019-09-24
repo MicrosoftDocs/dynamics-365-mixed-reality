@@ -149,7 +149,7 @@ Anchoring a guide is a crucial step, just like calibrating [!include[pn-hololens
 
 #### Printed anchors and digital anchors
 
-There are two types of anchors: a printed anchor and a digital anchor. The way you anchor your guide changes depending on which method is used.
+There are two types of anchors: a printed anchor and a digital anchor. The way you anchor your guide depends on which method is used.
 
 **To anchor your guide using a printed anchor**
 
@@ -157,17 +157,24 @@ There are two types of anchors: a printed anchor and a digital anchor. The way y
 
    ![Printed marker](media/printed-marker.PNG "Printed marker")
 
-2. On your HoloLens [!include[pn-hololens](../includes/pn-hololens.md)], you’ll see a hologram that looks very similar to the printed anchor. Find the printed anchor in your real-world environment, and then align the anchor hologram with the printed marker to align the guide. 
+2. On your HoloLens [!include[pn-hololens](../includes/pn-hololens.md)], you’ll see a hologram that looks very similar to the printed anchor. Find the printed anchor in your real-world environment, and then align the anchor hologram with the printed anchor.    
+   
+3. When the green box is aligned to the printed anchor, select **Confirm**.
 
-   ![Holographic marker](media/scanning.PNG "Holographic marker")  
+   ![Holographic marker](media/align-marker.PNG "Holographic marker") 
 
-3. When you see the **Printed anchor found** screen, follow the instructions on the screen, and then select **Confirm** to continue. 
+4. When you see the **Printed anchor found** screen, follow the instructions on the screen, and then select **Confirm** to continue. 
  
    ![Printed anchor found screen](media/printed-anchor-found.PNG "Printed anchor found screen") 
 
 **To anchor your guide with a digital anchor**
 
-With a digital anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world. You use air tap and hold to move the hologram and blue spheres to rotate the hologram.
+With a digital anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world. 
+
+![Digital anchor example](media/digital-anchor-example.PNG "Digital anchor example") 
+
+To align the digital anchor with its real-world counterpart, air tap and hold to move the hologram, and use air tap and the blue spheres to rotate the hologram.
+
 
 
 
