@@ -27,7 +27,7 @@ Dynamics 365 Guides app version 200.1909.XX and solution version 200.0.0.XX incl
 
 - **Opt out of sending data to Microsoft.** On both PC and HoloLens apps, for privacy reasons, you can turn off the ability to send telemetry data to Microsoft. 
 
-- **Opt out of sending usage data to your organization.** If you want to prevent usage data from showing in Power BI dashboards, administrators can now turn this off for specific users.
+- **Opt out of sending usage data to your organization.** To prevent usage data from showing in Power BI dashboards, administrators can now turn this off for specific users.
 
 ### August 27, 2019
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1908.24001 and solution version 104.1908.0.117 includes the following updates:
