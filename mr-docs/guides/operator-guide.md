@@ -1,19 +1,17 @@
 ---
 author: Mamaylya
-description: Everything you need to know about using a guide created with Dynamics 365 Guides (Preview), including calibration, gaze and gestures, and installing and using the HoloLens app.
+description: Everything you need to know about using a guide created with Dynamics 365 Guides, including calibration, gaze and gestures, and installing and using the HoloLens app.
 ms.author: mamaylya
-ms.date: 07/09/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Operator's manual for Dynamics 365 Guides (Preview)
+title: Operator's manual for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Operator's manual for Dynamics 365 Guides (Preview)
+# Operator's manual for Dynamics 365 Guides
 
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
- 
-Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]! This operator's manual is designed to help operators understand how to use a holographic guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It describes everything that you, as the operator, need to know about the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
+Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! This operator's manual is designed to help operators understand how to use a holographic guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It describes everything that you, as the operator, need to know about the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
 
 ## First things first–calibrate your HoloLens 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device. You can do this by using the Calibration app that comes with your [!include[pn-hololens](../includes/pn-hololens.md)]. 
@@ -97,7 +95,7 @@ Now that your [!include[pn-hololens](../includes/pn-hololens.md)] device is cali
 
 1.	Make sure you have [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
 
-2.	On your [!include[pn-hololens](../includes/pn-hololens.md)] device, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
+2.	On your [!include[pn-hololens](../includes/pn-hololens.md)] device, use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]”.
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
@@ -133,7 +131,7 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 
     ![Select Operate mode](media/select-mode.PNG "Select Operate mode")
    
-7.	In the **Guides** dialog box, gaze at the selection box for the guide you want to open. For example, gaze at the selection box for Example Guide, the guide that comes with the preview release of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].  
+7.	In the **Guides** dialog box, gaze at the selection box for the guide you want to open.  
    
 ### Anchor your guide 
 The first thing you see when you open a guide is the anchoring instructions for the guide.  
@@ -163,10 +161,7 @@ When you align your guide, if you’re using the [!include[cc-microsoft](../incl
 
 When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card “tags along” with you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
 
-![Step card with Next Step and Go Back buttons](media/step-card-basic.PNG "Step card with Next Step and Go Back buttons")
-
-> [!NOTE]
-> The preceding screen shot shows the first step of Example Guide, the guide created for the preview release of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. In Example Guide, the first step provides an overview of the tasks included in the guide.  
+![Step card with Next Step and Go Back buttons](media/step-card-basic.PNG "Step card with Next Step and Go Back buttons")  
 
 In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
 
