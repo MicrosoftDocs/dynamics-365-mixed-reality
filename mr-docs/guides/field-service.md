@@ -2,7 +2,7 @@
 author: makamat
 description: How to integrate Dynamics 365 Field Service with Dynamics 365 Guides so Field Service technicians can follow a guide while doing a work order
 ms.author: makamat
-ms.date: 07/23/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Integrate Dynamics 365 Field Service with Dynamics 365 Guides
