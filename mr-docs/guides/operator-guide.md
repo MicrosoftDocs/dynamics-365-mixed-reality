@@ -225,10 +225,9 @@ You’ll notice that wherever you look, the Step card follows your gaze—it “
 ![Pin button on HoloLens screen](media/step-card-basic.PNG "Pin button on HoloLens screen")
 
 ## Turn off holograms 
-You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the tether. 
+You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the dotted line. 
 
-![Turn off holograms](media/tether-example.PNG "Turn off holograms")
-  
+![Turn off holograms](media/tether-example.PNG "Turn off holograms")  
 
 ## Useful links for more information
 
