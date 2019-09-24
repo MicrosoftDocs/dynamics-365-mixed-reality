@@ -64,7 +64,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 
 1.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
-2.	Select **Create a new guide**.
+2.	Select **Create new guide**.
 
      ![Create new guide](media/create-guide.PNG "Create new guide")
 
