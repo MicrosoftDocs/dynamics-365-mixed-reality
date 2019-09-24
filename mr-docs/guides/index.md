@@ -46,7 +46,12 @@ analyze and improve without doing expensive studies. Being part of the [!include
 
 ### See also
 
-[Author a guide](authoring-overview.md)<br>
-[Operator's manual](operator-guide.md)<br>
-[Analyze your guides](analytics-guide.md)<br>
+[Video: Quick overview of Dynamics 365 Guides(https://aka.ms/overview)<br>
+[Video: Author a guide in the PC app](https://aka.ms/pcauthor)<br> 
+[Video: Author a guide in the HoloLens app](https://aka.ms/hololensauthor)<br>
+[Documentation: Authoring overview](authoring-overview.md)<br>
+[Video: Operate a guide](https://aka.ms/guidesoperate)<br>
+[Documentation: Operator's manual](operator-guide.md)<br>
+[Video: Analyze your guides](https://aka.ms/guidesanalyze)<br>
+[Documentation: Analyze your guides](analytics-guide.md)<br>
 [FAQ](faq.md)
