@@ -134,8 +134,6 @@ The first thing you see when you open a guide is the anchoring instructions from
    
    ![Marker found holograph](media/printed-anchor-found.PNG "Marker found holograph")
    
-4. If the outline aligns with the printed anchor, select **Confirm**. If not, select **Rescan**.
-   
 ### To anchor a guide using a digital anchor
 
 - Use air tap and hold to move and align the digital anchor to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres.
