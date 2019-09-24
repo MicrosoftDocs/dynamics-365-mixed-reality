@@ -71,6 +71,8 @@ Use these instructions to install the app (if it hasn't already been installed f
 3.	Enter a name for the guide. If you’re planning to create multiple versions of the guide, you might want to add _v2, _v3, and 
 so on as part of the name. 
 
+     ![Name the guide](media/name-guide.PNG "Name the guide")
+
 ## Saving: how changes are synced between the PC app and HoloLens app
 
 The PC authoring app and the [!include[pn-hololens](../includes/pn-hololens.md)] app are connected through the cloud, where your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] files and assets are stored. 
