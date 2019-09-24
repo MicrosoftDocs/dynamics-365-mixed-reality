@@ -25,11 +25,11 @@ To do this:
  
 6.	Fill out the form as follows:
 
-    - **Name:** Opt out for <add user name here>.
+    - **Name:** Opt out for *add user name here*.
 
-    - **Record Guides usage:** Yes.
+    - **Record Guide Usage:** Yes.
 
-    - **Belongs to:** User’s name. 
+    - **Belongs To:** User’s name. 
 
 7.	Select **Save**.
 
