@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Use the PC authoring application to create a guide in Dynamics 365 Guides
 
+[Watch a video on PC authoring](https://aka.ms/pcauthor).
+
 Use the PC authoring application in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to:
 
 - Create a guide
@@ -28,6 +30,8 @@ Use the PC authoring application in [!include[cc-microsoft](../includes/cc-micro
   - 3D objects, such as objects from the 3D toolkit (arrows and numbers, for example)
   
   - 2D media (images and videos)
+  
+![PC authoring](media/pc-authoring.PNG "PC authoring")
 
 ## Install, open, and sign in to the PC application
 Use these instructions to install the app (if it hasn't already been installed for you) and to sign in.
