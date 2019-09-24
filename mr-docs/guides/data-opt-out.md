@@ -9,7 +9,7 @@ title: Opt out of storing Dynamics 365 Guides events data in Common Data Service
 ms.reviewer: v-brycho
 ---
 
-# Opt out of storing Dyanmics 365 Guides events data in Common Data Service
+# Opt out of storing Dynamics 365 Guides events data in Common Data Service
 
 Dynamics 365 Guides apps enable teams to capture usage statistics and detailed time-tracking information. This data is used to 
 provide metrics for operator performance and help you identify opportunities for process optimization. Administrators can turn off 
