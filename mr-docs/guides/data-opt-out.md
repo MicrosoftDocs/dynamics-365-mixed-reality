@@ -1,5 +1,13 @@
-
-
+---
+author: Makamat
+description: Describes how to opt out of storing Dynamics 365 Guides events data, for privacy reasons, in Common Data Service.
+ms.author: makamat
+ms.date: 07/09/2019
+ms.service: crm-online
+ms.topic: article
+title: Opt out of storing Dynamics 365 Guides events data in Common Data Service
+ms.reviewer: v-brycho
+---
 
 # Opt out of storing Dyanmics 365 Guides events data in Common Data Service
 
