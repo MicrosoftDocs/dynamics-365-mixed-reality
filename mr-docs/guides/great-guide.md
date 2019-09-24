@@ -250,9 +250,7 @@ We recommend using 2D images in the following scenarios:
   - Are high quality. 1080p is recommended. 4K images are unnecessary.
         
   - Capture enough context to orient the operator contextually in the environment.
-        
-   ***EXAMPLE IMAGE HERE***
-        
+              
   - Are shown from the viewpoint of the operator.
 
   - Don't contain extra visual noise that can confuse or distract the operator from what you're trying to communicate.
@@ -289,7 +287,7 @@ Only show how to do something one way. Showing multiple ways to complete a step 
 
 Shoot videos from a third-person or first-person perspective.
    
-   ***EXAMPLE IMAGE  OF 3RD-PERSON VS 1ST-PERSON HERE***
+![Example of third person vs. first person](media/third-vs-first.PNG "Example of third person vs. first person") 
 
 - Third-person videos work best to:
      
@@ -329,7 +327,9 @@ Shoot videos from a third-person or first-person perspective.
 
     –	You can use a combination of different arrows to show a sequence of different actions (for example, "Swing, then pull"). You can pair arrows with numbers.
 
-    –	You can use arrows in combination with other 3D holograms (for example, checks and cross) to show where to put something and where not to put something.
+    –	You can use arrows in combination with other 3D holograms (for example, checks and cross) to show where to put something and where not to put something.    
+    
+    ![Arrows combined](media/arrows-combined.PNG "Arrows combined") 
 
       
 #### Hands
@@ -354,15 +354,13 @@ Shoot videos from a third-person or first-person perspective.
 
 - Zones are a good way to communicate areas to place items.
 
-   ***EXAMPLE IMAGE HERE***
+   ![Zones example](media/zones-example.PNG "Zones example")
 
 - Zones can be used to show the orientation and location of objects.
 
 - Animated zones are effective in getting operators' attention.
 
-- If you user zones to communicate orientation, it's helpful to pair them with a reference image.
-
-   ***EXAMPLE IMAGE HERE***
+- If you use zones to communicate orientation, it's helpful to pair them with a reference image.
 
 #### Generic tools
 
@@ -430,8 +428,6 @@ Shoot videos from a third-person or first-person perspective.
 
     - Specific colors on sections of a model to identify parts or pieces. You can then add step instructions that refer to the colored sections.
 
-     ***EXAMPLE IMAGE HERE***
-
      - Realistic style to show what the actual object looks like.
 
 #### Pick Up
@@ -457,8 +453,6 @@ Shoot videos from a third-person or first-person perspective.
 - See-Through is best for de-emphasizing holograms in the real world because it makes the hologram semi-transparent and darker.
 
 - When creating a visual hierarchy of holograms, use See-Through to soften less important holograms in the scene.
-
-   ***EXAMPLE IMAGE HERE***
 
 - See-Through 1 is less opaque than See-Through 2.
 
@@ -498,11 +492,15 @@ Shoot videos from a third-person or first-person perspective.
 
 - Place the anchor on the base object (rather than a static object such as a table or cart), so if orientation of the base object is incorrect, the operator can rescan and correct hologram positions.
 
-   ***EXAMPLE IMAGE HERE***
+  Good example:
+
+  ![Zones example](media/zones-example.PNG "Zones example")
+
+  Bad example:
+
+  ![Zones example](media/zones-example.PNG "Zones example")
 
 - Important orientation that could impact alignment of future steps can be coupled with visual guides via photos or custom holograms and text reminders to check their positioning.
-
-   ***EXAMPLE IMAGE HERE***
 
 - Make sure to explain anchoring fundamentals to operators, otherwise they may be confused about how to fix if they incorrectly align a real-world object.
 
