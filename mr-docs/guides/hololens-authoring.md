@@ -15,13 +15,13 @@ The second major step in authoring a guide in [!include[cc-microsoft](../include
 
 - Anchor your guide.
 
-- Test the flow of your guide.
-
 - Place your holographic 3D content in its relevant space in the real world.
 
-- Add holographic tethers to visually tie your steps to physical objects in the real world.
+- Add dotted lines to visually tie your steps to physical objects in the real world.
 
 - Add styles (optional) to 3D content to add treatments such as a warning or caution.
+
+- Test the flow of your guide.
 
   ![Test your guide](media/test-your-guide.PNG "Test your guide")
 
@@ -126,7 +126,9 @@ The first thing you see when you open a guide is the anchoring instructions from
 
    ![Holographic marker image](media/scanning.PNG "Holographic marker image")
    
-3. Look at the printed anchor with your [!include[pn-hololens](../includes/pn-hololens.md)] until a green outline appears.
+3. Look at the printed anchor with your [!include[pn-hololens](../includes/pn-hololens.md)] until a green outline appears. Use your gaze to align the green box to the marker, and then select **Confirm**.
+
+   ![Align marker](media/align-marker.PNG "Align marker")
 
    You'll see the **Printed anchor found** screen. 
    
