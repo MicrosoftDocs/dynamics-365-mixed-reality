@@ -190,8 +190,6 @@ To import your own 3D objects:
 ### Add 3D objects from the 3D toolkit to support your steps
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects included in the 3D toolkit that are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
-
-![Add object from 3D toolkit](media/3d-toolkit.PNG "Add object from 3D toolkit")
  
 The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. Here’s what the models look like:
 
@@ -242,7 +240,7 @@ You can use any of the following keyboard shortcuts in the PC application:
 |Win + Up|Maximize the current window|
 
 > [!NOTE]
-> Microsoft Mixed Reality applications do not have complete solutions in certain scenarios for standards that support programmatic access, UI scaling, or other solutions for customers that are blind. Microsoft is committed to delivering products accessible by all and will continue to investigate solutions for customers needing support in this area. In Mixed Reality, much of the app development environment relies on third-party software that has not yet delivered a rich model for interaction and UI attributes that provide the foundation for usable experiences by customers with visual impairments. Please contact our enterprise disability answer desk for more information on our investigations and roadmaps for Mixed Reality accessibility.
+> Microsoft will continue to add support for screen readers, high contrast, and keyboard usability.
 
 ## What's next?
 After you create your guide on the PC, select an anchoring method, and create your tasks and steps, you’re ready to [test things out on HoloLens in a real-world environment, and place your holograms](hololens-authoring.md).
