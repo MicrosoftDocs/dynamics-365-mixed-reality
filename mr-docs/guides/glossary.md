@@ -11,8 +11,6 @@ ms.reviewer: v-brycho
 
 # Glossary of terms for Dynamics 365 Guides
 
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
- 
 When you're working with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you might find this glossary of terms helpful.
 
 ## 3D parts
@@ -27,9 +25,6 @@ A gesture that’s equivalent to a “click” with a mouse. For more informatio
 ## Anchoring (alignment)
 The process of making sure that a guide “lines up” with associated objects in the real world when used on [!include[pn-hololens](../includes/pn-hololens.md)]. Anchoring is crucial and mandatory for creating any guide. For more information, see the [Authoring guide](pc-authoring.md).
 
-## Asset
-Collective term for the complete set of objects that you can add to a step to support that step. Assets include 2D objects (images and videos) and 3D objects (3D parts and objects from the 3D toolkit). 
-
 ## Author
 The person who creates a guide.
 
@@ -38,6 +33,9 @@ A process in which [!include[pn-hololens](../includes/pn-hololens.md)] adjusts t
 
 ## Digital anchor
 A 3D representation used to anchor holograms in the real world. You place the digital representation, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor.
+
+## Dotted line
+A holographic link that ties a step visually to the area where you want the operator to focus. It helps the operator find content or understand what they’re supposed to be looking at in the real world. You can use a holographic dotted line together with a 3D object, such as a holographic arrow or number. 
 
 ## Field of view
 The size of the [!include[pn-hololens](../includes/pn-hololens.md)] display where holograms show up. It’s important to keep the field of view in mind when placing holograms in a real-world environment.
@@ -75,8 +73,7 @@ Visual properties that you can add to any 3D object to reinforce what you want t
 ## Task
 A piece of work to be done or undertaken. A task is made up of steps that the operator must follow to complete the task. 
 
-## Tether
-A holographic link that ties a step visually to the area where you want the operator to focus. It helps the operator find content or understand what they’re supposed to be looking at in the real world. You can use a tether together with a 3D object, such as a holographic arrow or number. 
+
 
 ### See also
 
