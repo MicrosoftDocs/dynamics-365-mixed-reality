@@ -175,8 +175,7 @@ With a digital anchor, you align a hologram on your [!include[pn-hololens](../in
 
 To align the digital anchor with its real-world counterpart, air tap and hold to move the hologram, and use air tap and the blue spheres to rotate the hologram.
 
-
-
+![Rotate digital anchor](media/rotate-digital-anchor.PNG "Rotate digital anchor")
 
 #### Where alignment information is stored 
 
