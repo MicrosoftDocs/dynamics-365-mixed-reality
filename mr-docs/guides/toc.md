@@ -10,7 +10,7 @@
 ## Author a guide
 ### [Authoring overview](authoring-overview.md)
 ### [Author in the PC application](pc-authoring.md)
-### [Choose an anchoring method for your guide](anchor.md)
+### [Anchor your guide to the real world](anchor.md)
 ### [Author in the HoloLens application](hololens-authoring.md)
 ### [Gestures for authoring and navigating](authoring-gestures.md)
 ### [Use the Dynamics 365 Import Tool to convert 3D models](import-tool.md)
