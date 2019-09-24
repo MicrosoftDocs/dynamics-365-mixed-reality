@@ -1,17 +1,15 @@
 ---
 author: BryceHo
-description: Known Issues with Dynamics 365 Guides (Preview)
+description: Known Issues with Dynamics 365 Guides
 ms.author: makamat
-ms.date: 07/23/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Known Issues with Dynamics 365 Guides (Preview)
+title: Known Issues with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Known issues with Microsoft Dynamics 365 Guides (Preview)
-
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+# Known issues with Microsoft Dynamics 365 Guides
  
 ## Keep file names for 3D models and media short
 
@@ -256,5 +254,5 @@ Please contact customer service: [https://docs.microsoft.com/dynamics365/get-sta
 
 ### See also
 
-[Dynamics 365 Guides in preview FAQ](faq.md)
+[Dynamics 365 Guides FAQ](faq.md)
 
