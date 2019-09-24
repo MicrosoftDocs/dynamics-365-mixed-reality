@@ -1,20 +1,33 @@
 ---
 author: makamat
-description: Describes the new features in Dynamics 365 Guides (Preview), organized by release date
+description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 09/10/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: What's new in Dynamics 365 Guides (Preview)
+title: What's new in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-## What's new in Dynamics 365 Guides (Preview)
+## What's new in Dynamics 365 Guides
 
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] organized by release date.  
 
-> [!IMPORTANT]
-> The next release planned for October will require all customers to do a mandatory update of the Dynamics 365 Guides apps and solution. Please work with your IT admin to plan downtime for this update.
+### October 1, 2019
+
+Dynamics 365 Guides is now generally available (GA)! The October 1, 2019 updates for PC and HoloLens apps, and the Common Data Service solution need to be installed to continue to using Dynamics 365 Guides. The upgrades will continue to work with your preview license. To check your preview license expiration date, go to https:<i></i>//admin.microsoft.com/, and then select **Billing** in settings to ensure continuity.
+
+New customers must acquire a new GA license. Please go to aka.ms/GetGuides for information on licenses, installation, and upgrades.
+
+Dynamics 365 Guides app version 200.1909.XX and solution version 200.0.0.XX includes the following updates:
+
+- **Try the demo.** You can now try an out-of-box sample guide on the HoloLens app without signing up for a license or authoring a guide yourself.
+
+- **Customer satisfaction surveys.** We will occasionally ask you to rate your satisfaction with the Dynamics 365 Guides product so that we can improve the product.
+
+- **Opt out of sending data to Microsoft.** On both PC and HoloLens apps, for privacy reasons, you can turn off the ability to send telemetry data to Microsoft. 
+
+- **Opt out of sending usage data to your organization.** If you want to prevent usage data from showing in Power BI dashboards, administrators can now turn this off for specific users.
 
 ### August 27, 2019
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1908.24001 and solution version 104.1908.0.117 includes the following updates:
