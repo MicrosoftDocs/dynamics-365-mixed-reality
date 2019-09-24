@@ -32,7 +32,7 @@ following reasons:
 
 - A part is too small to attach a printed anchor to.
 
-## Align your guide by using a printed anchor
+## Anchor your guide by using a printed anchor
 
 Using a printed anchor involves three basic steps:
 
