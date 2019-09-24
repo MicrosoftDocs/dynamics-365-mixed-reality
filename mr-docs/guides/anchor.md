@@ -54,7 +54,7 @@ To print the anchor:
 
 5.	After printing, make sure the marker spacing matches the measurements shown in the following illustration:
 
-    ![Marker spacing](media/marker-spacing.PNG "Marker spacing")
+    ![Marker spacing](media/marker-spacing.png "Marker spacing")
  
 > [!NOTE]
 > If the marker spacing is not within +/- 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the 
