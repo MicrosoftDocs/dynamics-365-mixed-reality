@@ -37,7 +37,7 @@ A 3D representation used to anchor holograms in the real world. You place the di
 ## Dotted line
 A holographic link that ties a step visually to the area where you want the operator to focus. It helps the operator find content or understand what they’re supposed to be looking at in the real world. You can use a holographic dotted line together with a 3D object, such as a holographic arrow or number. 
 
-## Field of view (Fov)
+## Field of view (fov)
 The size of the [!include[pn-hololens](../includes/pn-hololens.md)] display where holograms show up. It’s important to keep the field of view in mind when placing holograms in a real-world environment.
 
 ## Fit Box setting
