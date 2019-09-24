@@ -1,8 +1,8 @@
-# Dynamics 365 Guides in preview
+# Dynamics 365 Guides
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
 ## [Buy and deploy Dynamics 365 Guides](setup.md)
-## [Upgrade the Guides solution (for admins)](upgrade.md)
+## [Upgrade the solution (for admins)](upgrade.md)
 ## [Transition from public preview to GA](public-preview-transition.md)
 ## Get started
 ### [Get started](get-started.md)
@@ -18,6 +18,7 @@
 ## [Operator's manual](operator-guide.md)
 ## [Analyze your guides](analytics-guide.md)
 ## [Dynamics 365 Field Service integration](field-service.md)
+## [Opt out of storing Guides events data in CDS](data-opt-out.md)
 ## [Glossary of terms](glossary.md)
 ## [Videos](videos.md)
 ## [FAQ](faq.md)
