@@ -92,7 +92,7 @@ After you choose an anchoring method, you see the **Outline** page. This is wher
 
 When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
 
-![Create a task and step](media/create-task.PNG "Create a task and step")
+![Create a task and step](media/create-task-2.PNG "Create a task and step")
   
 To get started, enter a task name, and then start typing the instructions for the first step in the box. When you need to add a new step, select **Add step**. When you’re ready to add another task, select **Add task**. It’s that simple!
 
