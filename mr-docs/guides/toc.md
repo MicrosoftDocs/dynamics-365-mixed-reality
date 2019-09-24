@@ -13,7 +13,7 @@
 ### [Anchor your guide to the real world](anchor.md)
 ### [Author in the HoloLens application](hololens-authoring.md)
 ### [Gestures for authoring and navigating](authoring-gestures.md)
-### [Use the Dynamics 365 Import Tool to convert 3D models](import-tool.md)
+### [Use Dynamics 365 Import Tool to convert 3D models](import-tool.md)
 ### [How to make a great mixed reality guide](great-guide.md)
 ## [Operator's manual](operator-guide.md)
 ## [Analyze your guides](analytics-guide.md)
