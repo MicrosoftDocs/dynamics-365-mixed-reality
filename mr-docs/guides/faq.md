@@ -1,21 +1,19 @@
 ---
 author: BryceHo
-description: FAQ about Dynamics 365 Guides (Preview)
+description: FAQ about Dynamics 365 Guides
 ms.author: makamat
-ms.date: 08/27/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: FAQ about Dynamics 365 Guides (Preview)
+title: FAQ about Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Frequently Asked Questions about Microsoft Dynamics 365 Guides (Preview)
+# Frequently Asked Questions about Microsoft Dynamics 365 Guides
 
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
- 
 ## How do I contact Support if I don't find an answer in this FAQ?
 
-If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)], or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
+If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
 
 1. Go to [https://dynamics.microsoft.com/en-us/support/](https://dynamics.microsoft.com/en-us/support/).
 
@@ -57,7 +55,7 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 ## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
 
-Yes, the preview version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
+Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
 
 ## I get an error message when I try to sign in to the PC app or [!include[pn-hololens](../includes/pn-hololens.md)] app
 
@@ -150,4 +148,4 @@ The hazard sign is a placeholder for 3D models, videos, or images that can’t b
 
 ### See also
 
-[Known Issues in Dynamics 365 Guides in preview](known-issues.md)
+[Known Issues in Dynamics 365 Guides](known-issues.md)
