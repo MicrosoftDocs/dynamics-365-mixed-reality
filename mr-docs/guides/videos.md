@@ -1,7 +1,7 @@
 
 # Dynamics 365 Guides videos
 
-Watch these videos to jumpstart your Dynamics 365 Guides education.
+Watch these videos to jumpstart your Dynamics 365 Guides learning curve.
 
 [Overview of Dynamics 365 Guides](https://aka.ms/overview)
 [Author a guide on the PC](https://aka.ms/pcauthor)
