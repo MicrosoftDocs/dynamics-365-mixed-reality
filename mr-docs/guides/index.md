@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Overview of Dynamics 365 Guides
 
+[Watch a video to get a quick overview of Dynamics 365 Guides](https://aka.ms/overview)
+
 ![Engine graphic](media/overview.PNG "Engine graphic") 
 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that enables employees to learn in the flow 
