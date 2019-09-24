@@ -11,7 +11,11 @@ ms.reviewer: v-brycho
 
 # Operator's manual for Dynamics 365 Guides
 
+[Watch a video on operating a guide](https://aka.ms/guidesoperate).
+
 Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! This operator's manual is designed to help operators understand how to use a holographic guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It describes everything that you, as the operator, need to know about the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
+
+![Operator at work](media/operator-at-work.PNG "Operator at work")
 
 ## First things first–calibrate your HoloLens 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device. You can do this by using the Calibration app that comes with your [!include[pn-hololens](../includes/pn-hololens.md)]. 
@@ -46,7 +50,7 @@ To navigate through a guide, you’ll use your gaze and a few gestures.
 
 Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is pretty much as easy as it sounds. In some cases, you can select an item (an app, menu, or button, for example) just by gazing at a selection box next to the item. For example, when you first start the [!include[pn-hololens](../includes/pn-hololens.md)] app, you’ll gaze at the box to the left of **Operate** in the following dialog box to select Operate mode.
 
-![Example of using gaze](media/select-mode.PNG "Example of using gaze")  
+![Example of using gaze](media/gaze-example.PNG "Example of using gaze")  
 
 The selection is completed when the box is filled up by your gaze. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
 
@@ -125,35 +129,46 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 
     ![Sign in to HoloLens](media/sign-in-hololens.PNG "Sign in to HoloLens")
  
-7.	Select an instance to use if you have more than one instance, and then select **Continue**.
+7.	Select an instance to use if you have more than one instance, and then select **Continue**.	
+   
+8.	In the **Guides** dialog box, gaze at the selection box for the guide you want to open.  
 
-8.	In the **Select Mode** dialog box, gaze at the box to the left of **Operate** until the box fills, which selects that item. 
+9.  In the **Select Mode** dialog box, gaze at the box to the left of **Operate** until the box fills, which selects that item. 
 
     ![Select Operate mode](media/select-mode.PNG "Select Operate mode")
-   
-7.	In the **Guides** dialog box, gaze at the selection box for the guide you want to open.  
    
 ### Anchor your guide 
 The first thing you see when you open a guide is the anchoring instructions for the guide.  
 
 ![Scan printed anchor](media/scan-printed-anchor.PNG "Scan printed anchor")  
 
-The anchoring instructions are written by the person who created the guide. Anchoring a guide is a crucial step, just like calibrating [!include[pn-hololens](../includes/pn-hololens.md)]. You anchor a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don’t line up, you’ll likely be confused when you try to do a task. You could even cause damage. For example, you might drill a hole in the wrong place. 
+Anchoring a guide is a crucial step, just like calibrating [!include[pn-hololens](../includes/pn-hololens.md)]. You anchor a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don’t line up, you’ll likely be confused when you try to do a task. You could even cause damage. For example, you might drill a hole in the wrong place. 
 
-If the guide is set up with a printed anchor, you’ll look for a printed anchor attached to a physical object in your real-world environment. The printed anchor looks like this: 
+#### Two types of anchors
 
-![Printed marker](media/printed-marker.PNG "Printed marker")
+There are two types of anchors: a printed anchor and a digital anchor. The way you anchor your guide is different for each method.
 
-In the [!include[pn-hololens](../includes/pn-hololens.md)], you’ll see a hologram that looks very similar to the printed anchor. Find the printed anchor in your real-world environment, and then align the anchor hologram with the printed marker to align the guide. 
+**To anchor your guide using a printed anchor**
 
-![Holographic marker](media/scanning.PNG "Holographic marker")  
+1. Look for a printed anchor attached to a physical object in your real-world environment. The printed anchor looks like this: 
 
-After anchoring a guide, if you're anchoring your guide to a printed anchor, you’ll see the **Printed anchor found** screen. Follow the instructions on the screen, and then select **Confirm** to continue. 
+   ![Printed marker](media/printed-marker.PNG "Printed marker")
+
+2. On your HoloLens [!include[pn-hololens](../includes/pn-hololens.md)], you’ll see a hologram that looks very similar to the printed anchor. Find the printed anchor in your real-world environment, and then align the anchor hologram with the printed marker to align the guide. 
+
+   ![Holographic marker](media/scanning.PNG "Holographic marker")  
+
+3. When you see the **Printed anchor found** screen, follow the instructions on the screen, and then select **Confirm** to continue. 
  
-![Printed anchor found screen](media/printed-anchor-found.PNG "Printed anchor found screen") 
+   ![Printed anchor found screen](media/printed-anchor-found.PNG "Printed anchor found screen") 
 
-> [!NOTE]
-> There are two ways to anchor a guide. The method illustrated above is called a printed anchor because you gaze at a physical marker to anchor your guide. The other type of anchor is a *digital anchor*. With a digital anchor, you use gestures to align the guide to a digital 3D representation laid over a physical object in your work area. If the author of the guide chose a digital anchor when they created the guide, you’d align a hologram on [!include[pn-hololens](../includes/pn-hololens.md)] with a digital 3D representation of the same object in your real world. 
+**To anchor your guide with a digital anchor**
+
+With a digital anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world. You use air tap and hold to move the hologram and blue spheres to rotate the hologram.
+
+
+
+#### Where alignment information is stored 
 
 When you align your guide, if you’re using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section. 
  
