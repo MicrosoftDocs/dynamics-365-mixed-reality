@@ -46,7 +46,7 @@ analyze and improve without doing expensive studies. Being part of the [!include
 
 ### See also
 
-[Video: Quick overview of Dynamics 365 Guides(https://aka.ms/overview)<br>
+[Video: Quick overview of Dynamics 365 Guides](https://aka.ms/overview)<br>
 [Video: Author a guide in the PC app](https://aka.ms/pcauthor)<br> 
 [Video: Author a guide in the HoloLens app](https://aka.ms/hololensauthor)<br>
 [Documentation: Authoring overview](authoring-overview.md)<br>
