@@ -15,9 +15,7 @@ When you create a guide with Dynamics 365 Guides, one of the first steps is to c
 
 It’s crucial to ensure that your guide alignment is correct and as precise as possible. If the guide is misaligned, your instructions may show actions at incorrect locations, which can result in operator confusion or damage to parts.
 
-## Two types of anchors
-
-There are two types of anchors:
+There are two ways to anchor a guide:
 
 - With a **printed anchor** (recommended), you align a guide by gazing at (scanning) a printed anchor attached to a physical object in the real world. [Watch a video on creating a printed anchor](https://aka.ms/guidesprintedanchor).
 
