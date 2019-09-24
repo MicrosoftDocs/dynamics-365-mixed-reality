@@ -23,13 +23,13 @@ Supporting assets include:
   - 3D objects, such as objects from the 3D toolkit (arrows and numbers, for example)
   - 2D media (images and videos)
 
-[Watch a video on PC authoring](https://aka.ms/pcauthor)
+    [Watch a video on PC authoring](https://aka.ms/pcauthor)
 
 - **[!include[pn-hololens](../includes/pn-hololens.md)] application in Author mode.** After creating the guide with the PC application, use the [!include[pn-hololens](../includes/pn-hololens.md)] application in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles to 3D objects (warning or caution, for example).
 
    ![Authoring overview](media/authoring-overview.PNG "Authoring overview")
    
-[Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)   
+    [Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)   
 
 Ready to jump in? Choose one of these links to get underway:
 
