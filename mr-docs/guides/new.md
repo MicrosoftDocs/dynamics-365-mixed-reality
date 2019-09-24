@@ -23,7 +23,7 @@ Dynamics 365 Guides app version 200.1909.XX and solution version 200.0.0.XX incl
 
 - **Try the demo.** You can now try an out-of-box sample guide on the HoloLens app without signing up for a license or authoring a guide yourself.
 
-- **Customer satisfaction surveys.** We will occasionally ask you to rate your satisfaction with the Dynamics 365 Guides product so that we can improve the product.
+- **Customer satisfaction surveys.** We will occasionally ask you to rate your satisfaction with the Dynamics 365 Guides to help us improve the product.
 
 - **Opt out of sending data to Microsoft.** On both PC and HoloLens apps, for privacy reasons, you can turn off the ability to send telemetry data to Microsoft. 
 
