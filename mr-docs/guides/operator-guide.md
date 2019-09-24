@@ -173,7 +173,7 @@ With a digital anchor, you align a hologram on your [!include[pn-hololens](../in
 
 ![Digital anchor example](media/digital-anchor-example.PNG "Digital anchor example") 
 
-To align the digital anchor with its real-world counterpart, air tap and hold to move the hologram, and use air tap and the blue spheres to rotate the hologram.
+To align the digital anchor with its real-world counterpart, air tap and hold to move the hologram, and tap and hold the blue spheres to rotate the hologram, if needed.
 
 ![Rotate digital anchor](media/rotate-digital-anchor.PNG "Rotate digital anchor")
 
@@ -185,7 +185,7 @@ When you align your guide, if you’re using the [!include[cc-microsoft](../incl
 
 When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card “tags along” with you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
 
-![Step card with Next Step and Go Back buttons](media/step-card-basic.PNG "Step card with Next Step and Go Back buttons")  
+![Step card with Next Step and Go Back buttons](media/step-card-basic-1.PNG "Step card with Next Step and Go Back buttons")  
 
 In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
 
