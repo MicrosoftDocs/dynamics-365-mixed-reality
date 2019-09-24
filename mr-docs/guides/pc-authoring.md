@@ -121,9 +121,9 @@ In addition to tasks and steps, the **Outline** page shows:
 
 - Remember to refresh your guide when moving between PC and [!include[pn-hololens](../includes/pn-hololens.md)], and be sure to move the cursor outside the text box when writing steps to activate AutoSave. 
 
-Here’s the **Outline** page from the Example Guide to show what a completed **Outline** page looks like:
+Here’s an example of a filled-out **Outline** page:
 
-![Finished Outline page from Example guide](media/finished-outline-page.PNG "Finished Outline page from Example guide")
+![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.PNG "Filled-out Outline page fro Pylon wiring guide")
   
 ## Create steps and assign assets in the Step card page
 
