@@ -140,13 +140,16 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 ### Anchor your guide 
 The first thing you see when you open a guide is the anchoring instructions for the guide.  
 
-![Scan printed anchor](media/scan-printed-anchor.PNG "Scan printed anchor")  
+![Scan printed anchor](media/scan-printed-anchor.PNG "Scan printed anchor") 
+
+[!NOTE]
+The screen above shows the anchoring instructions for a printed anchor. This screen would look different if you need to anchor your guide with a digital anchor. The anchoring instructions will tell you how to go about anchoring your guide.
 
 Anchoring a guide is a crucial step, just like calibrating [!include[pn-hololens](../includes/pn-hololens.md)]. You anchor a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don’t line up, you’ll likely be confused when you try to do a task. You could even cause damage. For example, you might drill a hole in the wrong place. 
 
-#### Two types of anchors
+#### Printed anchors and digital anchors
 
-There are two types of anchors: a printed anchor and a digital anchor. The way you anchor your guide is different for each method.
+There are two types of anchors: a printed anchor and a digital anchor. The way you anchor your guide changes depending on which method is used.
 
 **To anchor your guide using a printed anchor**
 
