@@ -48,7 +48,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 
 2.	In the **Welcome to Guides** screen, select **Sign in**.
 
-    ![Welcome to Guides](media/welcome-to-guides.PNG "Welcome to Guides")
+    ![Welcome to Guides](media/welcome.PNG "Welcome to Guides")
     
 3.	In the **Sign in** dialog box, select **Work or school account**, and then select **Continue**. 
 
