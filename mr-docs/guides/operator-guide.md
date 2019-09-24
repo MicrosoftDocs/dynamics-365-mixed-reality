@@ -211,12 +211,12 @@ Step cards are linked by holographic dotted lines to physical areas in your work
 
 ![Holographic dotted line](media/tether-example.PNG "Holographic dotted-line")
 
-### Tether tips and tricks 
+### Dotted line tips and tricks 
 
-- Follow the tether to find the physical area where you need to do the work. Follow the tether back to the Step card to read the instructions. 
+- Follow the dotted line to find the physical area where you need to do the work. Follow the dotted line back to the Step card to read the instructions. 
 
-- If the tether points behind you, step to the side, and then continue to follow the tether. 
-Note that the tether might go through real-world objects at times. 
+- If the dotted line points behind you, step to the side, and then continue to follow the dotted line. 
+Note that the dotted line might go through real-world objects at times. 
 
 ## Tag along and pinning 
 
