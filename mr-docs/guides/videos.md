@@ -19,6 +19,6 @@ Watch these videos to jumpstart your Dynamics 365 Guides learning curve.
 [Set up a digital anchor for your guide](https://aka.ms/guidesprintedanchor)<br>
 [Author a guide on HoloLens](https://aka.ms/guidesprintedanchor)<br>
 [Operate a guide](https://aka.ms/guidesprintedanchor)<br>
-[Analyze a guide](https://aka.ms/guidesprintedanchor)
+[Analyze your organization's guides](https://aka.ms/guidesprintedanchor)
 
 
