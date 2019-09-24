@@ -70,7 +70,7 @@ At this time, renaming or deleting guides is not supported.
 
 ## You can create guides with the same name without overwriting old guides
 
-You can create multiple guides with the same name. While this prevents unintentional overwrites of old files, it's confusing when you choose a guide from a list. We recommend looking up the names of existing guides when creating new ones.
+You can create multiple guides with the same name. While this prevents unintentional overwrites of old files, it's confusing when you choose a guide from a list. When you create a new guide, make sure to use a unique name.
 
 ## 3D content and media cannot be renamed or deleted after uploading
 
@@ -80,19 +80,11 @@ At this time, we do not support renaming or deleting 3D content and media once t
 
 We do not support multiple files with the same name in the current release. When uploading new 3D models or media, check to make sure a file with the same name does not exist in the library. You can, however, have different types of files with the same name—for example, a bolt.png image and a bolt.glb 3D model.
 
-## Can’t use the same name for more than one guide
-
-When you create a new guide, make sure to use a unique name. If you use a name that’s already used for another guide, it won’t overwrite the other guide, but the app won’t be able to tell which guide to open the next time.
-
 ## Can’t use the same name for 3D parts that you upload, even if they have different extensions
 
 The app currently looks up media by file names. So, for example, if you have a picture.jpg file and a picture.png, the app doesn’t know which file to show for the step. So it’s best to always use unique file names for media files you upload.
 
-## Uploading new 3D models with names matching any of the pre-packaged models in the 3D toolkit will overwrite the files in the 3D toolkit
-
-Avoid using any names for your custom 3D models that match model names in the 3D toolkit.
-
-## Addressing hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for printed anchor alignment
+## How do I address hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for printed anchor alignment
  
 The angle of each [!include[pn-hololens](../includes/pn-hololens.md)] 1 PV camera (the camera placed above the nose bridge) can be slightly different across devices due to manufacturing idiosyncrasies. Since the PV camera is used to scan the printed marker, this means holograms can appear slightly misaligned when using the same guide and same printed marker on multiple devices.
  
