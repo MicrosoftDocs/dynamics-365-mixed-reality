@@ -23,7 +23,5 @@
 ## [Videos](videos.md)
 ## [FAQ](faq.md)
 ## [Known issues](known-issues.md)
-## Terms of use
-### [Guides preview](../legal/guides-preview.md)
-### [Service terms](../legal/guides-service-terms.md)
+## [Terms of use](../legal/guides-service-terms.md)
 
