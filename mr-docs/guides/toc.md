@@ -19,6 +19,7 @@
 ## [Analyze your guides](analytics-guide.md)
 ## [Dynamics 365 Field Service integration](field-service.md)
 ## [Glossary of terms](glossary.md)
+## [Videos](videos.md)
 ## [FAQ](faq.md)
 ## [Known issues](known-issues.md)
 ## Terms of use
