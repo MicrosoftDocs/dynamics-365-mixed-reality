@@ -43,7 +43,7 @@ following reasons:
 
 After you name your guide, you’ll see the **Outline** page and a prompt to create an anchor.
 
-![Outline page with anchor prompt](media/outline-page.PNG "Outline page with anchor prompt")
+![Outline page with anchor prompt](media/create-task.PNG "Outline page with anchor prompt")
 
 Select **Set your anchor now** to display the **Choose an anchor method** screen.
 
