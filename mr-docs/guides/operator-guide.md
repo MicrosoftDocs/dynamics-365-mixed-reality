@@ -61,7 +61,7 @@ You’ll also need to use some gestures as you work with a guide. This section l
 
 #### Bloom 
 
-The bloom gesture opens the **Start** menu (or hides the **Start** menu). Most of the time, you need to use the bloom gesture only once to get to **Start**, but sometimes you'll need to use it twice. If you're not sure what to do at any time, the bloom gesture is a good way to get reoriented.
+The bloom gesture opens the **Start** menu or the **Quick Actions** menu, depending on which version of HoloLens you're using. Most of the time, you need to use the bloom gesture only once to get to **Start**, but sometimes you'll need to use it twice. If you're not sure what to do at any time, the bloom gesture is a good way to get reoriented.
 
 To do the bloom gesture:
 
@@ -74,7 +74,7 @@ To do the bloom gesture:
 
 #### Air tap 
 
-Use air tap, along with gaze, to select apps and other holograms. To do an air tap: 
+Use air tap, along with gaze, to select apps and other holograms and any gaze/dwell buttons. To do an air tap: 
 
 1.	Gaze at a hologram. 
 
