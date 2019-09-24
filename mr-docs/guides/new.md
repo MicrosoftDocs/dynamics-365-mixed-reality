@@ -15,7 +15,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ### October 1, 2019
 
-Dynamics 365 Guides is now generally available (GA)! The October 1, 2019 updates for the PC app, HoloLens app, and Common Data Service solution need to be installed to continue to using Dynamics 365 Guides. The upgrades will continue to work with your preview license. To check your preview license expiration date, go to https:<i></i>//admin.microsoft.com/, and then select **Billing** in settings to ensure continuity.
+Dynamics 365 Guides is now generally available (GA)! The October 1, 2019 updates for the PC app, HoloLens app, and Common Data Service solution need to be installed to continue using Dynamics 365 Guides. The upgrades will continue to work with your preview license. To check your preview license expiration date, go to https:<i></i>//admin.microsoft.com/, and then select **Billing** in settings to ensure continuity.
 
 New customers must acquire a new GA license. Please go to aka.ms/GetGuides for information on licenses, installation, and upgrades.
 
