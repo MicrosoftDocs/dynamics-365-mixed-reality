@@ -19,7 +19,7 @@ Dynamics 365 Guides is now generally available (GA)! The October 1, 2019 updates
 
 New customers must acquire a new GA license. Please go to aka.ms/GetGuides for information on licenses, installation, and upgrades.
 
-Dynamics 365 Guides app version 200.1909.XX and solution version 200.0.0.XX includes the following updates:
+Dynamics 365 Guides app version 200.1909.XX and solution version 200.0.0.XX include the following updates:
 
 - **Try the demo.** You can now try an out-of-box sample guide on the HoloLens app without signing up for a license or authoring a guide yourself.
 
