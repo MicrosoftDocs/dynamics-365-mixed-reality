@@ -19,7 +19,7 @@ To create a guide, you use two applications:
 add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
 Supporting assets include:
 
-  - You custom 3D parts
+  - Your custom 3D parts
   - 3D objects, such as objects from the 3D toolkit (arrows and numbers, for example)
   - 2D media (images and videos)
 
