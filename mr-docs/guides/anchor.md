@@ -19,10 +19,10 @@ with the space they live in and become meaningful. Your content is centered arou
 There are two types of anchors:
 
 - With a **printed anchor** (recommended), you attach a printed marker to a physical object in the real world. After creating the guide, 
-to anchor the guide in the real world, you gaze at the marker using [!include[pn-hololens](../includes/pn-hololens.md)].
+to anchor the guide in the real world, you gaze at the marker using [!include[pn-hololens](../includes/pn-hololens.md)]. [Watch a video on creating a printed anchor](https://aka.ms/guidesprintedanchor).
 
 - With a **digital anchor**, you import a 3D representation (such as a CAD model or scanned model), and then lay that representation directly over a physical object in the real world. After creating the guide, to anchor it in the real world, 
-you use a gesture.
+you use a gesture. [Watch a video on creating a digital anchor](https://aka.ms/guidesdigitalanchor).
 
 **It’s extremely important to ensure that anchoring is correct and as precise as possible.** If anchoring is not correct, your 
 instructions can cause operator confusion and potentially costly damage. For example, an operator could drill a hole in the wrong 
