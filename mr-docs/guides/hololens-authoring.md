@@ -130,7 +130,7 @@ The first thing you see when you open a guide is the anchoring instructions from
 
    ![Align marker](media/align-marker.PNG "Align marker")
 
-   You'll see the **Printed anchor found** screen. 
+   When the guide is correctly aligned, you'll see the **Printed anchor found** screen. 
    
    ![Marker found holograph](media/printed-anchor-found.PNG "Marker found holograph")
    
@@ -153,6 +153,8 @@ When you anchor your guide, the anchoring information is stored on your [!includ
 After you anchor your guide, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card tags along with the operator to keep the instructions where they need them as they move around their work space.
 
 Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap to navigate through a guide. 
+
+![Navigate a guide](media/navigate-example.PNG "Navigate a guide")
 
 At the top of the Step card screen, you’ll see three buttons: **Save**, **Undo**, and **Redo**.
 
