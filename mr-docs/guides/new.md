@@ -15,15 +15,15 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ### October 1, 2019
 
-Dynamics 365 Guides is now generally available (GA)! The October 1, 2019 updates for the PC app, HoloLens app, and Common Data Service solution need to be installed to continue using Dynamics 365 Guides. Dynamics 365 Guides upgrades will continue to work with your preview license until it expires. To check your preview license expiration date, go to https:<i></i>//admin.microsoft.com/, and then select **Billing** in settings to ensure continuity.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is now generally available (GA)! The October 1, 2019 updates for the PC app, HoloLens app, and Common Data Service solution need to be installed to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. v upgrades will continue to work with your preview license until it expires. To check your preview license expiration date, go to https:<i></i>//admin.microsoft.com/, and then select **Billing** in settings to ensure continuity.
 
 New customers must acquire a new GA license. Please go to aka.ms/GetGuides for information on licenses, installation, and upgrades.
 
-Dynamics 365 Guides app version 200.1909.XX and solution version 200.0.0.XX include the following updates:
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 200.1909.XX and solution version 200.0.0.XX include the following updates:
 
 - **Try the demo.** You can now try an out-of-box sample guide on the HoloLens app without signing up for a license or authoring a guide yourself.
 
-- **Customer satisfaction surveys.** We will occasionally ask you to rate your satisfaction with the Dynamics 365 Guides to help us improve the product.
+- **Customer satisfaction surveys.** We will occasionally ask you to rate your satisfaction with the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to help us improve the product.
 
 - **Opt out of sending data to Microsoft.** On both PC and HoloLens apps, for privacy reasons, you can turn off the ability to send telemetry data to Microsoft. 
 
