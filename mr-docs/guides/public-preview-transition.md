@@ -41,6 +41,9 @@ administrator credentials you used for public preview.
 
    ![Install the GA version](media/install-ga-version.PNG "Install the GA version")  
    
+   > [!NOTE]
+   > The Dynamics 365 Guides (Preview) solution is being delisted and is no longer available for update or installation.
+   
 5. Review the Terms of service, and then select **Accept** if you're ready to start the upgrade. 
 The status of the solution changes to **Installation pending**, and then changes to **Installed** when the transition is complete. 
 
