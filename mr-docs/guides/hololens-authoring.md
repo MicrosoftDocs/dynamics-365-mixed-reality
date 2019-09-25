@@ -272,7 +272,7 @@ The following graphic shows how to use the different rotation knobs:
 
 - Air tap and hold the **Scale Hologram** button, and then move your hand up or down.  
 
-   ![Change hologram size](media/manipulate-holograms.PNG "Change hologram size")
+   ![Change hologram size](media/scale-hologram.PNG "Change hologram size")
 
 ### Best practices for working with 3D content
 
@@ -296,7 +296,7 @@ To place a style:
 
 2.	Air tap the **Edit Hologram** button.
 
-    ![Edit hologram button](media/manipulate-holograms.PNG "Edit hologram button")
+    ![Edit hologram button](media/edit-hologram.PNG "Edit hologram button")
 
 3.	Air tap **Styles**. 
 
