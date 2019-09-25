@@ -10,6 +10,10 @@ ms.reviewer: v-brycho
 ---
 
 # Known issues with Microsoft Dynamics 365 Guides
+
+## October 1 release improvements for 3D model positioning may shift models in existing guides
+
+The October 1 release includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
  
 ## Keep file names for 3D models and media short
 
