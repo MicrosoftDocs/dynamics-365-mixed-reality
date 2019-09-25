@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Dynamics 365 Guides videos
 
-Watch these videos to jumpstart your Dynamics 365 Guides learning curve.
+Watch these videos to jumpstart your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] learning curve.
 
 [Overview of Dynamics 365 Guides](https://aka.ms/overview)<br>
 [Author a guide on the PC](https://aka.ms/pcauthor)<br>
