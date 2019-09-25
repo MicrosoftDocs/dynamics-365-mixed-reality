@@ -1,19 +1,17 @@
 ---
 author: BryceHo
-description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides (Preview) to improve process efficiencies.
+description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides to improve process efficiencies.
 ms.author: cynielse
-ms.date: 07/09/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides (Preview)
+title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Analyze guides created with Dynamics 365 Guides (Preview)
-
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+# Analyze guides created with Dynamics 365 Guides
  
-Guides Analytics is part of the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] application suite that includes the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of [!include[pn-power-bi](../includes/pn-power-bi.md)] visual reports that are populated with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] usage data stored securely in your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
+Guides Analytics is part of the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application suite that includes the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of [!include[pn-power-bi](../includes/pn-power-bi.md)] visual reports that are populated with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] usage data stored securely in your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
 
 ## What data is collected and used in Guides Analytics? 
 
@@ -50,11 +48,11 @@ to better understand performance and improvement over time.
 You can set up Guide Analytics for the first time through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
 
 > [!NOTE]
-> Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). If you don’t have permission to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer, ask your admin about sharing the reports through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. 
+> Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). Talk to your admin if you don’t have permission to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer. 
 
 To set up your reports:
  
-1.	In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app, select the **Analyze** tab, copy the highlighted Instance URI text, and then select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
+1.	In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app, select the **Analyze** tab, copy the highlighted Instance URL text, and then select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
    
     ![Analyze tab](media/get-started-analytics.PNG "Analyze tab")      
  
@@ -74,7 +72,7 @@ To set up your reports:
   
 3.	Open the downloaded Guides Analytics Template.pbit file with [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop. Use your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password if you’re prompted to sign in to [!include[pn-power-bi](../includes/pn-power-bi.md)].  
  
-4.	When prompted, paste the Instance URI into the text box as shown here. This is the same Instance URI you copied from the **Analyze** tab in the PC authoring app in step 1. 
+4.	When prompted, paste the Instance URL into the text box as shown here. This is the same Instance URL you copied from the **Analyze** tab in the PC authoring app in step 1. 
 
      ![Guides Analytics template](media/guides-analytics-template.PNG "Guides Analytics template")
  
@@ -221,9 +219,9 @@ Use the Process Time-Tracking report to drill into usage and step-level run-time
 
 ## Share the Guides Analytics reports 
 
-You can share your Guides Analytics [!include[pn-power-bi](../includes/pn-power-bi.md)] reports within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the report through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com).  
+If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, you can share your Guides Analytics [!include[pn-power-bi](../includes/pn-power-bi.md)] reports within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the report through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service web interface accessible at https://powerbi.microsoft.com.
 
-[!include[pn-power-bi](../includes/pn-power-bi.md)] provides several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This involves the following well-documented steps: 
+Once you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, there are several mechanisms for sharing reports with others in your organization. We recommend reading [Ways to share your work in Power BI](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This involves the following well-documented steps:
 
 1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-workspaces). 
 
