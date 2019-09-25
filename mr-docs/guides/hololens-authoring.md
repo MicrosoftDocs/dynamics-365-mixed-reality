@@ -1,31 +1,29 @@
 ---
 author: Mamaylya
-description: Test and place holograms using the Dynamics 365 Guides (Preview) HoloLens application in Author mode 
+description: Test and place holograms using the Dynamics 365 Guides HoloLens application in Author mode 
 ms.author: mamaylya
-ms.date: 08/27/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Test and place holograms using HoloLens Author mode in Dynamics 365 Guides (Preview) 
+title: Test and place holograms using HoloLens Author mode in Dynamics 365 Guides 
 ms.reviewer: v-brycho
 ---
 
 # Test your guide and place holograms using HoloLens Author mode
 
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
- 
-The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] takes place on the [!include[pn-hololens](../includes/pn-hololens.md)] application. In [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, you:
+The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] takes place on the [!include[pn-hololens](../includes/pn-hololens.md)] application. In [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, you:
 
 - Anchor your guide.
 
-- Test the flow of your guide.
-
 - Place your holographic 3D content in its relevant space in the real world.
 
-- Add holographic tethers to visually tie your steps to physical objects in the real world.
+- Add dotted lines to visually tie your steps to physical objects in the real world.
 
 - Add styles (optional) to 3D content to add treatments such as a warning or caution.
 
-  ![Test your guide](media/test-guide.PNG "Test your guide")
+- Test the flow of your guide.
+
+  ![Test your guide](media/test-your-guide.PNG "Test your guide")
 
 ## Install the HoloLens app
 
@@ -35,7 +33,7 @@ To install the HoloLens app:
 
 1.	Make sure you have [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/en-us/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
 
-2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open [!include[cc-microsoft](../includes/cc-microsoft.md)] Store and search for “[!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)]”.
+2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the [bloom gesture](authoring-gestures.md) to open the **Home** menu, and then open [!include[cc-microsoft](../includes/cc-microsoft.md)] Store and search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]”.
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
@@ -102,7 +100,11 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
  
 7.	Select an instance to use if you have more than one instance, and then select **Continue**.
 
-8.	In the **Select Mode** dialog box, gaze at the box to the left of **Author** until the box fills, which selects that item. 
+8. In the **Select Guide** screen, gaze at the guide you want to open until the circle fills, which selects that guide.
+
+    ![Select Guide screen](media/select-guide.PNG "Select Guide screen")
+
+9.	In the **Select Mode** dialog box, gaze at the box to the left of **Author** to select it. 
 
     ![Select Author mode](media/select-mode.PNG "Select Author mode")
     
@@ -112,7 +114,7 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
 ## Anchor your guide
 The first thing you see when you open a guide is the anchoring instructions from the PC authoring application. 
 
-### To anchor a guide by using a printed anchor
+### To anchor a guide using a printed anchor
 
 1. Stand about two feet in front of the printed anchor.
 
@@ -124,16 +126,21 @@ The first thing you see when you open a guide is the anchoring instructions from
 
    ![Holographic marker image](media/scanning.PNG "Holographic marker image")
    
-3. Look at the printed anchor with your [!include[pn-hololens](../includes/pn-hololens.md)] until a green outline appears.
+3. Look at the printed anchor with your [!include[pn-hololens](../includes/pn-hololens.md)] until a green outline appears. Use your gaze to align the green box to the marker, and then select **Confirm**.
 
-   You'll see the **Printed anchor found** screen. 
+   ![Align marker](media/align-marker.PNG "Align marker")
+
+   When the guide is correctly aligned, you'll see the **Printed anchor found** screen. 
    
    ![Marker found holograph](media/printed-anchor-found.PNG "Marker found holograph")
    
-4. If the outline aligns with the printed anchor, select **Confirm**. If not, select **Rescan**.
-   
-> [!NOTE]
-> If you chose to use a digital anchor to align the guide, you’d use a gesture to align the hologram that matches the digital 3D representation that you placed in your real-world environment.
+### To anchor a guide using a digital anchor
+
+- Use air tap and hold to move and align the digital anchor to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres.
+
+   ![Rotate digital anchor](media/rotate-digital-anchor.PNG "Rotate digital anchor")
+
+### Re-anchor a guide
 
 When you anchor your guide, the anchoring information is stored on your [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to re-anchor the guide every time you open it. You can re-anchor a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section.
 
@@ -145,14 +152,16 @@ After you anchor your guide, you’ll see the Step card. The Step card is the hu
 
 Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap to navigate through a guide. 
 
+![Navigate a guide](media/navigate-example.PNG "Navigate a guide")
+
 At the top of the Step card screen, you’ll see three buttons: **Save**, **Undo**, and **Redo**.
 
-![HoloLens step card screen](media/step-card-orientation.PNG "HoloLens step card screen")
+![HoloLens step card screen](media/save-undo-redo.PNG "HoloLens step card screen")
  
-The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. There’s no limit to the number of times you can undo or redo. 
+The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. You can undo 100 changes or redo 100 changes.  
 
 > [!NOTE]
-> Changes are automatically saved as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
+> Changes are automatically saved in the cloud as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
 
 The Step card also includes several other buttons and UI elements:
 
@@ -164,7 +173,7 @@ Here’s what each button or UI element is used for:
 |--|---|------------|----------------------------------------------------------------------------------------------------------------|
 |A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
 |B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.|[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.|
-|C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] device correctly.</br><br>- **Noise Cancellation**. If the environment is very noisy, this setting adjusts sensitivity to voice commands so the operator doesn't have to shout.</br><br>- **Dynamic Volume**. Adjusts the volume dynamically based on noise in the environment. For example, if the environment is very noisy, the volume adjusts upward automatically.</br><br>- **Build number**. Shows the build you’re using.|
+|C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] device correctly.<br>- **Build number**. Shows the build you’re using.|
 |D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
 |E|![Pin button](media/pin-button.PNG "Pin button")|Pin|Lock the Step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the Step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
 |F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
@@ -172,15 +181,14 @@ Here’s what each button or UI element is used for:
 |H|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 |I|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 
-
 ## Test the flow of your guide
-Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
+Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in Operate mode to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
  
 ## Add a dotted line to link a Step card to a focus area
 
 You can add dotted lines (*tethers*) to link your Step cards to the areas where the work gets done. These dotted lines show the operator where to focus. 
 
-![Holographic tether](media/tether-example.PNG "Holographic tether")
+![Holographic dotted lines](media/tether-example.PNG "Holographic dotted lines")
 
 To place a dotted line:
 
@@ -188,7 +196,7 @@ To place a dotted line:
 
 2.	Drag it to the real-world location that you want.
 
-    ![Place a tether](media/place-tether.PNG "Place a tether")
+    ![Place a dotted line](media/place-tether.PNG "Place a dotted line")
 
 ### Best practices for dotted lines
 
@@ -253,18 +261,28 @@ To rotate a hologram:
 > Gazing at any of the gizmo knobs will let you know which direction the knob will rotate.
 
 When rotating, it helps to think as if you are physically grabbing the knob and rotating around the object, like a wheel.
-The following graphic shows how to use the different rotation knobs:
+The following graphics show how to use the different rotation knobs:
 
-![Hologram manipulation](media/hologram-manipulation.PNG "Hologram manipulation")
+Free rotation
+
+![Free rotation](media/free-rotation.PNG "Free rotation")
+
+Left/right rotation
+
+![Left/right rotation](media/left-right-rotation.PNG "Left/right rotation")
+
+Up/down rotation
+
+![Up/down rotation](media/up-down-rotation.PNG "Up/down rotation")
  
 > [!Important]
 > To manipulate holograms effectively, make sure that your [!include[pn-hololens](../includes/pn-hololens.md)] is calibrated properly. 
 
 #### Change the size of a hologram after placing it
 
-- Air tap and hold the **Scale** button, and then move your hand up or down.  
+- Air tap and hold the **Scale Hologram** button, and then move your hand up or down.  
 
-   ![Change hologram size](media/change-hologram-size.PNG "Change hologram size")
+   ![Change hologram size](media/scale-hologram.PNG "Change hologram size")
 
 ### Best practices for working with 3D content
 
@@ -286,9 +304,9 @@ To place a style:
 
 1.	Air tap a hologram you’ve already placed in the real world to select it.
 
-2.	Air tap the **Edit Hologram** (. . .) button.
+2.	Air tap the **Edit Hologram** button.
 
-    ![Edit hologram button](media/hologram-buttons.PNG "Edit hologram button")
+    ![Edit hologram button](media/edit-hologram.PNG "Edit hologram button")
 
 3.	Air tap **Styles**. 
 
@@ -309,7 +327,7 @@ Here’s a list of styles included in [!include[pn-dyn-365-guides](../includes/p
 |See-through 2	|Layer one thing on top of another so the operator can see through two layers.	|75% transparent|
 |Warning	|Warn about a safety or quality concern.	|Yellow and black striped|
 |Avoid	|Show areas or things to avoid.	|Red flashing|
-|X-ray	|Show things that happen inside something.	|Outline with transparent inside|
+|X-ray	|Show things that happen inside something.	|Shows a pulse through it|
 |Metal	|Provide a realistic metal finish for an object.	|Metallic|
 
 ![All styles](media/all-styles.PNG "All styles")
@@ -328,15 +346,13 @@ To duplicate a model:
 
 1.	Air tap a hologram you’ve already placed in the real world to select it.
 
-2.	Air tap the **Edit Hologram** (. . .) button.
+2.	Air tap the **Edit Hologram** button.
 
-    ![Edit hologram button](media/hologram-buttons.PNG "Edit hologram button")
+    ![Edit hologram button](media/manipulate-holograms.PNG "Edit hologram button")
     
 3. Select **Duplicate**.
 
     ![Duplicate button](media/edit-duplicate.PNG "Duplicate button")
-
-
 
 ## What's next?
 

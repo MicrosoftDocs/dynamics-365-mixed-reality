@@ -1,17 +1,17 @@
 ---
 author: makamat
-description: How to integrate Dynamics 365 Field Service with Dynamics 365 Guides (Preview) so Field Service technicians can follow a guide while doing a work order
+description: How to integrate Dynamics 365 Field Service with Dynamics 365 Guides so Field Service technicians can follow a guide while doing a work order
 ms.author: makamat
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Integrate Dynamics 365 Field Service with Dynamics 365 Guides (Preview)
+title: Integrate Dynamics 365 Field Service with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Integrate Dynamics 365 Field Service with Dynamics 365 Guides (Preview)
+# Integrate Dynamics 365 Field Service with Dynamics 365 Guides
 
-[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration (included in version 104.1907.19001 for Public Preview) enables [!include[pn-field-service](../includes/pn-field-service.md)] 
+[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration (included in version 104.1907.19001) enables [!include[pn-field-service](../includes/pn-field-service.md)] 
 customers to attach guides to [!include[pn-field-service](../includes/pn-field-service.md)] tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]. When work orders are assigned to technicians, 
 the technicians can use a dedicated **[!include[pn-field-service](../includes/pn-field-service.md)]** tab in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app to launch the assigned guide and do their work.
 
@@ -19,7 +19,7 @@ the technicians can use a dedicated **[!include[pn-field-service](../includes/pn
 
 > [!IMPORTANT]
 > To attach guides to service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], you need to have an existing [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Customer Engagement (CRM) instance with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.6.0.183 or later. You also need to update to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 104.1907.0.33 or later ([learn how to upgrade the Dynamics 365 Guides 
-solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] app versions 104.1907.19001 ([learn how to sign up for the preview and install the apps](setup.md)).
+solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] app versions 104.1907.19001.
 
 ## Enable your technicians to use Dynamics 365 Guides for work orders
 
