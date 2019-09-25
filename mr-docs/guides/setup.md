@@ -33,7 +33,7 @@ There are multiple ways to get a Dynamics 365 Guides subscription:
 
 - If you have a Microsoft work account, you can go directly to the Microsoft 365 Admin Center and search for a Dynamics 365 Guides subscription there.
 
-- Go to [the Getting started page](http://aka.ms/GetGuides). You can use this page to buy a subscription or to sign up for a free trial subscription. If you sign up for a trial, you'll create new credentials for the trial.  
+- Go to [the Getting started page](http://aka.ms/GetGuides). You can use this page to buy a subscription or to sign up for a free 30-day trial subscription. If you sign up for a trial, you can use credentials for an existing Dynamics 365 account or you can create new credentials. 
 
     > [!IMPORTANT] 
     > If you don't have administrator permissions associated with your work account, you won't be able to complete Step 2 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out Dynamics 365 Guides by following the steps on the Getting started page. In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*.
