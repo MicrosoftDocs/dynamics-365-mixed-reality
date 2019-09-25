@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # How to make a great mixed reality guide
 
-Other online documentation in Dynamics 365 Guides focuses on helping you learn how to use the Dyanmics 365 Guides applications and their various features. This document focuses on how to author great guide content to best communicate instructions to your operators. We suggest reading all other documentation first to get a good understanding of how to use the Dynamics 365 Guides applications, and then refer to this documentation to start authoring high-quality guides.
+Other online documentation in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] focuses on helping you learn how to use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applications and their various features. This document focuses on how to author great guide content to best communicate instructions to your operators. We suggest reading all other documentation first to get a good understanding of how to use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applications, and then refer to this documentation to start authoring high-quality guides.
 
 ## Get started
 
@@ -35,7 +35,7 @@ make sure it’s representative of the guide you want to create. For example, ar
 ### Understand your lesson objectives and target audience
 
 It's critical to understand your lesson objectives and target audience before developing your guide. Lesson objectives include 
-various sub-objectives needed to accomplish an overall Dynamics 365 Guides objective. Additionally, understanding your target 
+various sub-objectives needed to accomplish an overall [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] objective. Additionally, understanding your target 
 audience will help you tailor your guide to provide the right amount of complexity needed to communicate information to your 
 operators. For example, will your audience understand how to use specific tools or the names of specific machinery?
 
@@ -76,7 +76,7 @@ to take before starting the guide.
 
 #### Steps
 
-- Unlike traditional instructions, step text in Dynamics 365 Guides isn't meant to describe everything because you have additional visual aids such as images, videos, and 3D holograms.
+- Unlike traditional instructions, step text in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] isn't meant to describe everything because you have additional visual aids such as images, videos, and 3D holograms.
 
    –	When writing a step, consider all the different forms of communication you're using.
    
@@ -130,7 +130,7 @@ to take before starting the guide.
    –	On the PC, the app will warn you if your text is over the 280-character limit. If you're approaching the 280-character 
 limit, this is a good indication that you're trying to put too much information in a single step.
 
-   –	Dynamics 365 Guides doesn't currently support any text formatting (such as font size or styling), but you can use capitalization to point out key words or phrases.
+   –	[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] doesn't currently support any text formatting (such as font size or styling), but you can use capitalization to point out key words or phrases.
 
    –	Adding numbered or multiple small steps inside a single step can often lead an operator to miss specific actions. Don’t be afraid 
 to create separate steps to make sure the operator completes the correct sequence of actions.
@@ -410,7 +410,7 @@ Shoot videos from a third-person or first-person perspective.
 
 - Use styles to help create a visual hierarchy of 3D holograms.
 
-- Use styles consistently to communicate specific actions. If you use styles consistently, as operators continue to use Dynamics 365 Guides, they'll start to understand what styles are intended to convey, which will speed up their learning process.
+- Use styles consistently to communicate specific actions. If you use styles consistently, as operators continue to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], they'll start to understand what styles are intended to convey, which will speed up their learning process.
 
 ### Hologram style options
 
