@@ -140,7 +140,7 @@ You can also annotate in 2D by toggling augmented reality off or by taking a pic
 
 When augmented reality is turned off, the Camera button turns into a check mark. 
 
-![2D check mark](media/2d-checkmark.PNG "2D check mark")
+![2D check mark](media/2d-checkmark.png "2D check mark")
 
 You may want to use 2D:
 
