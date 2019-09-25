@@ -29,6 +29,8 @@ Dynamics 365 Guides app version 200.1909.XX and solution version 200.0.0.XX incl
 
 - **Opt out of sending usage data to your organization.** To prevent usage data from showing in Power BI dashboards, administrators can now turn this off for specific users.
 
+The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
+
 ### August 27, 2019
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1908.24001 and solution version 104.1908.0.117 includes the following updates:
 
