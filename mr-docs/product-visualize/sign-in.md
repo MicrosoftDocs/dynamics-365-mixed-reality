@@ -2,7 +2,7 @@
 author: mamithan
 description: Open and sign in to Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 07/23/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Open and sign in to Dynamics 365 Product Visualize
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-To get the full benefits of Microsoft Dynamics Product Visualize, you'll need a Dynamics 365 account. When you sign in with your Dynamics 365 for Sales account, Product Visualize automatically connects to your Dynamics 365 for Sales opportunities.
+To get the full benefits of Microsoft Dynamics Product Visualize, you'll need a Dynamics 365 account. When you sign in with your Dynamics 365 Sales account, Dynamics 365 Product Visualize automatically connects to your Dynamics 365 Sales opportunities.
 
 > [!TIP]
 > If you just want to explore sample 3D content, you don’t need a Dynamics 365 account. For more information, see [Explore sample 3D models](explore-samples.md).
@@ -28,13 +28,13 @@ To get the full benefits of Microsoft Dynamics Product Visualize, you'll need a 
 
 ## Two ways to open and sign in
 
-You can open and sign in to Product Visualize on your iOS device in two different ways:
+You can open and sign in to Dynamics 365 Product Visualize on your iOS device in two different ways:
 
 - Open the app on your iOS device like you would any other app, and then sign in.
-- Select any 3D model (GLB file) in your Dynamics 365 for Sales opportunity.
+- Select any 3D model (GLB file) in your Dynamics 365 Sales opportunity.
 
 > [!NOTE]
-> At this time, Product Visualize is available for iOS devices only.
+> At this time, Dynamics 365 Product Visualize is available for iOS devices only.
 
 ## Open the app on your iOS device and sign in for the first time
 
@@ -44,35 +44,35 @@ You can open and sign in to Product Visualize on your iOS device in two differen
 
     ![Welcome screen](media/welcome.PNG "Welcome screen") 
  
-3.	On the **Sign in** screen, enter your Dynamics 365 for Sales account. When you’re done, select **Next**.  
+3.	On the **Sign in** screen, enter your Dynamics 365 Sales account. When you’re done, select **Next**.  
  
     ![Sign-in screen](media/sign-in.PNG "Sign-in screen") 
  
     > [!NOTE]
     > After you sign in for the first time, this screen will not appear again.
 
-4.	On your first sign-in, you're prompted to select your Dynamics 365 for Sales organization. You can change organizations later, if you want, through **Account Settings**.  
+4.	On your first sign-in, you're prompted to select your Dynamics 365 Sales organization. You can change organizations later, if you want, through **Account Settings**.  
 
     ![My organizations screen](media/my-organizations.PNG "My organizations screen") 
  
     > [!TIP]
-    > If your organization isn’t set up with Dynamics 365 for Sales, you can explore sample models or go to the [Dynamics 365 for Sales website](https://trials.dynamics.com/Dynamics365/Signup/sales) to learn how to sign up.  
+    > If your organization isn’t set up with Dynamics 365 Sales, you can explore sample models or go to the [Dynamics 365 Sales website](https://trials.dynamics.com/Dynamics365/Signup/sales) to learn how to sign up.  
 
 5.	On the **My Open Opportunities** screen, select the opportunity you want to work on.  
 
     ![My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen") 
  
-    Product Visualize pulls in your opportunities from Dynamics 365 for Sales by default. You can also view followed opportunities and connect opportunities.
+    Dynamics 365 Product Visualize pulls in your opportunities from Dynamics 365 Sales by default. You can also view followed opportunities and connect opportunities.
     
-## Sign in from Dynamics 365 for Sales
+## Sign in from Dynamics 365 Sales
 
-You can also open Product Visualize directly from Dynamics 365 for Sales on your iOS device. This makes it easy to visualize your products in 3D as you work with your sales opportunities. 
+You can also open Dynamics 365 Product Visualize directly from Dynamics 365 Sales on your iOS device. This makes it easy to visualize your products in 3D as you work with your sales opportunities. 
 
-If you haven’t already installed Product Visualize on your iOS device, you can install it from Dynamics 365 for Sales.
+If you haven’t already installed Dynamics 365 Product Visualize on your iOS device, you can install it from Dynamics 365 Sales.
 
-### Sign in from Dynamics 365 for Sales for the first time
+### Sign in from Dynamics 365 Sales for the first time
 
-1.	Open one of your opportunities in Dynamics 365 for Sales.
+1.	Open one of your opportunities in Dynamics 365 Sales.
 
 2.	Select the **Product Visualize** tab. 
 
@@ -85,9 +85,9 @@ If you haven’t already installed Product Visualize on your iOS device, you can
     - If you're using an iOS device, but the app isn't already installed, select **Learn More**, follow the instructions to install the app, and then sign in to the app using the instructions in step 5 of this procedure.
 
     > [!NOTE]
-    > If you're using a laptop or an Android device, you can't use Product Visualize at this time. You can select **Learn More** to learn more about the app.
+    > If you're using a laptop or an Android device, you can't use Dynamics 365 Product Visualize at this time. You can select **Learn More** to learn more about the app.
  
-5.	On the Product Visualize **Welcome** screen, select **Sign in**. 
+5.	On the Dynamics 365 Product Visualize **Welcome** screen, select **Sign in**. 
 
     ![Welcome screen](media/welcome.PNG "Welcome screen")
  
@@ -98,7 +98,7 @@ If you haven’t already installed Product Visualize on your iOS device, you can
     > [!NOTE]
     > After you sign in for the first time, this screen will not appear again.
     
-7.	On your first sign-in, you're prompted to select your Dynamics 365 for Sales organization. You can change organizations later, if you want, through **Settings**.
+7.	On your first sign-in, you're prompted to select your Dynamics 365 Sales organization. You can change organizations later, if you want, through **Settings**.
 
     ![My organizations screen](media/my-organizations.PNG "My organizations screen") 
  

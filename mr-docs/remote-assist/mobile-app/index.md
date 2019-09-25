@@ -1,33 +1,33 @@
 ---
 author: drpusey
-description: Dynamics 365 Remote Assist mobile app user guide
+description: Dynamics 365 Remote Assist for mobile user guide
 ms.author: drpusey
-ms.date: 06/07/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Dynamics 365 Remote Assist mobile app user guide
+title: Dynamics 365 Remote Assist for mobile user guide
 ms.reviewer: v-brycho
 ---
 
-# Dynamics 365 Remote Assist Mobile user guide (in preview)
+# Dynamics 365 Remote Assist for mobile user guide (in preview)
 
 [This topic is pre-release documentation and is subject to change.]
 
-The [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] mobile app extends the capabilities of [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to work with [!include[tn-android](../../includes/tn-android.md)] 
+[!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile extends the capabilities of [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to work with [!include[tn-android](../../includes/tn-android.md)] 
 ARCore-capable phones (in addition to [!include[cc-microsoft](../../includes/cc-microsoft.md)]  [!include[pn-HoloLens](../../includes/pn-HoloLens.md)]). Technicians can use their phones to connect and collaborate with an 
 expert on [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)]. Using live video calling and mixed reality annotations, they can share what they see with the expert 
 to troubleshoot problems together, faster. 
 
 ## What you’ll need
 
-You’ll need the following to use the [!include[pn-remote-assist](../../includes/pn-remote-assist.md)] mobile app:
+You’ll need the following to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile:
 
 - An [!include[tn-android](../../includes/tn-android.md)] ARCore-capable phone (tablets are not currently supported), with ARCore installed. [View the full list of supported 
 devices.](https://developers.google.com/ar/discover/supported-devices) 
 
 - A [!include[tn-google](../../includes/tn-google.md)] Play account.
 
-- The [!include[pn-remote-assist](../../includes/pn-remote-assist.md)] mobile app.
+- [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile.
 
 - A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account (available for free).
 
@@ -35,8 +35,8 @@ devices.](https://developers.google.com/ar/discover/supported-devices)
 
 - An internet connection. At least 1.5 MB of bandwidth is recommended for the best experience.
 
-If you want to use [!include[pn-remote-assist](../../includes/pn-remote-assist.md)] together with [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] so you can automatically log call information to a 
-[!include[pn-field-service](../../includes/pn-field-service.md)] work order, you’ll also need one or both of the following:
+If you want to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] together with [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] so you can automatically log call information to a 
+[!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] work order, you’ll also need one or both of the following:
 
 - [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] web application
 
@@ -46,7 +46,7 @@ If you want to use [!include[pn-remote-assist](../../includes/pn-remote-assist.m
 
 ### Step 1: Sign up for a Microsoft Teams account (free)
 
-A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account is required to use [!include[pn-remote-assist](../../includes/pn-remote-assist.md)] mobile. If you don’t already have a [!include[pn-teams](../../includes/pn-teams.md)] account, you can [create a Teams account for free](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
+A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account is required to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. If you don’t already have a [!include[pn-teams](../../includes/pn-teams.md)] account, you can [create a Teams account for free](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### Step 2: Download the app
 
@@ -65,13 +65,13 @@ A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account i
     > [!TIP]
     > The sign-in address will be in the form: username@company.
     
-3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-remote-assist](../../includes/pn-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)], or 
+3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)], or 
 select **Skip** if you don’t want to link the apps at this time. You can always link them later through **Settings**. To learn more about how the apps work together, select **Learn More**.
 
-    ![Field Service screen](../media/field-service.PNG "Field Service screen")
+    ![Dynamics 365 Field Service screen](../media/field-service.PNG "Dynamics 365 Field Service screen")
   
 ## Make a call
-After signing in, you’ll see the **Contacts** page, which is the main page in the [!include[pn-remote-assist](../../includes/pn-remote-assist.md)] mobile app. On the **Contacts** page, 
+After signing in, you’ll see the **Contacts** page, which is the main page in [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. On the **Contacts** page, 
 your contacts are organized by the most recent calls.
 
 ![Contacts screen](../media/contacts.PNG "Contacts screen")
@@ -136,14 +136,14 @@ If the expert is annotating, a notification icon will appear on the expert's fee
 
 You can switch the orientation of the camera view from portrait to landscape while in a call by changing the orientation of your phone. Using landscape view provides a wider field of view, which may improve the experience for the remote expert on the call.
    
-## Use Remote Assist together with Dynamics 365 for Field Service
+## Use Dynamics 365 Remote Assist together with Dynamics 365 Field Service
 
-You can use [!include[pn-remote-assist](../../includes/pn-remote-assist.md)] together with [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] if you want to automatically log call information to a 
-[!include[pn-field-service](../../includes/pn-field-service.md)] work order when you end the call. 
+You can use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] together with [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] if you want to automatically log call information to a 
+[!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] work order when you end the call. 
 
-When you sign in to the [!include[pn-remote-assist](../../includes/pn-remote-assist.md)] mobile app for the first time, you’re prompted to link [!include[pn-remote-assist](../../includes/pn-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)]. You can link the apps through **Settings** if you chose not to link them at first sign-in.
+When you sign in to the [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] mobile app for the first time, you’re prompted to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)]. You can link the apps through **Settings** if you chose not to link them at first sign-in.
 
-### Link the Remote Assist mobile app to Dynamics 365 for Field Service
+### Link the Dynamics 365 Remote Assist mobile app to Dynamics 365 Field Service
 
 1.	Select the **Main menu** ![Main menu button](../media/main-menu-button.PNG "Main menu button") button.
 
@@ -153,7 +153,7 @@ When you sign in to the [!include[pn-remote-assist](../../includes/pn-remote-ass
 
     ![Settings screen](../media/settings.PNG "Settings screen")
   
-### Save call data to a Field Service work order
+### Save call data to a Dynamics 365 Field Service work order
 
 1.	When you end the call, the following dialog box will appear:
 
@@ -200,4 +200,4 @@ You can also provide feedback directly from the app by using the following proce
 
 ### See also
 
-[Troubleshoot Dynamics 365 for Field Service integration with Remote Assist](../troubleshoot-field-service.md)
+[Integrate Dynamics 365 for Field Service with Dynamics 365 Remote Assist](../troubleshoot-field-service.md)

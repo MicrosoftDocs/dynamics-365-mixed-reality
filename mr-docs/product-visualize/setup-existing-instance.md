@@ -1,32 +1,32 @@
 ---
 author: mamithan
-description: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 for Sales instance
+description: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
 ms.author: mamithan
-ms.date: 07/23/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 for Sales instance
+title: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
 ms.reviewer: v-brycho
 ---
 
-# Set up Dynamics 365 Product Visualize on an existing Dynamics 365 for Sales instance
+# Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
 
-You can connect Microsoft Dynamics 365 Product Visualize to a new or existing Dynamics 365 for Sales instance. This topic explains how to set it up on an existing Dynamics 365 for Sales instance. If you don't already have Dynamics 365 for Sales, you can set up a free trial. For more information, see the [Setup topic](setup.md). 
+You can connect Microsoft Dynamics 365 Product Visualize to a new or existing Dynamics 365 Sales instance. This topic explains how to set it up on an existing Dynamics 365 Sales instance. If you don't already have Dynamics 365 Sales, you can set up a free trial. For more information, see the [Setup topic](setup.md). 
 
 ## Minimum requirements
 
-Existing Dynamics 365 for Sales instances must meet the following minimum requirements to connect to Product Visualize:
+Existing Dynamics 365 Sales instances must meet the following minimum requirements to connect to Dynamics 365 Product Visualize:
 
-- The Dynamics 365 for Sales version must be 9.0 or later.
+- The Dynamics 365 Sales version must be 9.0 or later.
 
 - Server-based SharePoint document management must be enabled.
 
 - Products associated with 3D models must be in the GLB format.
 
     > [!IMPORTANT]
-    > Server-based SharePoint integration is the preferred method for integrating Dynamics 365 for Sales with SharePoint. You can't use the SharePoint List Component with SharePoint Online. Product Visualize does not support existing instances that use the List Component.
+    > Server-based SharePoint integration is the preferred method for integrating Dynamics 365 Sales with SharePoint. You can't use the SharePoint List Component with SharePoint Online. Dynamics 365 Product Visualize does not support existing instances that use the List Component.
 
-### Verify the Dynamics 365 for Sales version
+### Verify the Dynamics 365 Sales version
 
 1. In a browser window, go to your organization's Sales or Sales Hub instance [https://\<org name>.crm.dynamics.com]().
 
@@ -64,7 +64,7 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
 8. Continue through the setup using the default values for the remaining options.
 
-   Dynamics 365 will automatically create SharePoint folders for the Dynamics 365 for Sales entities. 
+   SharePoint folders will automatically be created for the Dynamics 365 Sales entities. 
 
 9. Close the window when you're done.
 
@@ -96,19 +96,19 @@ Existing Dynamics 365 for Sales instances must meet the following minimum requir
 
    ![Related tab](media/related-documents.PNG "Related tab")
 
-4. In the __Open Location__ drop-down list, select __Documents on Default Site 1__ to open the SharePoint location outside of Dynamics 365 for Sales.
+4. In the __Open Location__ drop-down list, select __Documents on Default Site 1__ to open the SharePoint location outside of Dynamics 365 Sales.
 
    ![Open Location](media/open-location.PNG "Open location")
 
-5. Drag and drop your model file (as a GLB file) into this location. It will automatically show up in Product Visualize.
+5. Drag and drop your model file (as a GLB file) into this location. It will automatically show up in Dynamics 365 Product Visualize.
 
    > [!IMPORTANT]
    > SharePoint folders are created when you first visit a product's documents through the Dynamics for Sales interface. Once the folder has been created, you can access the folder directly from the SharePoint site.
 
-6. Optional: SharePoint automatically provides a thumbnail for Product Visualize; however, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb"
+6. Optional: SharePoint automatically provides a thumbnail for Dynamics 365 Product Visualize; however, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb"
 
 ## What's next?
-You're now ready to use Product Visualize with all of your sales opportunities. The Product Visualize mobile app can be downloaded from the iOS App Store. Users can sign in with the same Azure Active Directory credentials that they use to connect to Dynamics 365 for Sales.
+You're now ready to use Dynamics 365 Product Visualize with all of your sales opportunities. The Dynamics 365 Product Visualize mobile app can be downloaded from the iOS App Store. Users can sign in with the same Azure Active Directory credentials that they use to connect to Dynamics 365 Sales.
   
 ### See also
 

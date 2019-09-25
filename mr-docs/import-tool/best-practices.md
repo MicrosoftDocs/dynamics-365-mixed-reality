@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Best practices for converting and optimizing real-time 3D models for use with Dynamics 365 mixed-reality applications
 ms.author: v-jerja
-ms.date: 06/24/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Best practices for converting and optimizing real-time 3D models
@@ -141,7 +141,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
-[Use the Import Tool](import-tool.md)
+[Use Dynamics 365 Import Tool (Preview)](import-tool.md)
 
 
 

@@ -1,17 +1,17 @@
 ---
 author: bencorn
-description: Set up and use Microsoft Teams with Remote Assist to collaborate on a call
+description: Set up and use Microsoft Teams with Dynamics 365 Remote Assist to collaborate on a call
 ms.author: bencorn
-ms.date: 06/04/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Set up and use Microsoft Teams with Remote Assist
+title: Set up and use Microsoft Teams with Dynamics 365 Remote Assist
 ms.reviewer: v-brycho
 ---
 
-# Set up and use Microsoft Teams with Remote Assist to collaborate on a call
+# Set up and use Microsoft Teams with Dynamics 365 Remote Assist to collaborate on a call
 
-A [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user on [!include[pn-hololens](../includes/pn-hololens.md)] can work collaboratively with a colleague (typically an expert in a particular field) during a video call by using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]. The expert can see everything that the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user sees, and they can holographically draw
+A [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user on [!include[pn-hololens](../includes/pn-hololens.md)] can work collaboratively with a colleague (typically an expert in a particular field) during a video call by using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]. The expert can see everything that the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user sees, and they can holographically draw
 and annotate together. For example, let’s say a first-line worker is servicing a
 very complex machine and isn’t sure how to solve a problem. The first-line
 worker can call an expert anywhere in the world and have the expert assist with
@@ -20,16 +20,15 @@ the servicing using annotations or files.
 Setting up this collaboration using [!include[pn-teams](../includes/pn-teams.md)] is simple and it’s free for the
 expert.
 
-Need more help? [Check out Remote Assist FAQ](faq.md) for answers to common questions.
+Need more help? [Check out Dynamics 365 Remote Assist FAQ](faq.md) for answers to common questions.
 
-[Watch how-to videos](videos.md) about [!include[pn-remote-assist](../includes/pn-remote-assist.md)].
+[Watch how-to videos](videos.md) about [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
 ## What you’ll need
 
+The [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user (first-line worker) on [!include[pn-HoloLens](../includes/pn-HoloLens.md)] needs:
 
-The [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user (first-line worker) on [!include[pn-HoloLens](../includes/pn-HoloLens.md)] needs:
-
--   [A subscription to Remote Assist.](../licensing/buy-and-deploy.md) The [!include[pn-remote-assist](../includes/pn-remote-assist.md)] subscription includes a subscription to [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)].
+-   [A subscription to Dynamics 365 Remote Assist.](../licensing/buy-and-deploy.md) The [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] subscription includes a subscription to [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)].
 
 -   A [!include[pn-hololens](../includes/pn-hololens.md)] running the [Windows 10 April 2018
     Update](https://support.microsoft.com/en-us/help/12643) (or later).
@@ -38,7 +37,7 @@ The [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user (first-li
 
 The expert needs:
 
--   A PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 with the latest version of [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) or a mobile device running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile. The expert uses [!include[pn-teams](../includes/pn-teams.md)] to communicate with the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user on [!include[pn-HoloLens](../includes/pn-HoloLens.md)]. [!include[pn-teams](../includes/pn-teams.md)] may be available [as a free download](https://teams.microsoft.com/downloads).
+-   A PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 with the latest version of [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) or a mobile device running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile. The expert uses [!include[pn-teams](../includes/pn-teams.md)] to communicate with the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user on [!include[pn-HoloLens](../includes/pn-HoloLens.md)]. [!include[pn-teams](../includes/pn-teams.md)] may be available [as a free download](https://teams.microsoft.com/downloads).
 
 -   A free [!include[cc-microsoft](../includes/cc-microsoft.md)] account. The expert might already have a [!include[cc-microsoft](../includes/cc-microsoft.md)] account
     if they signed up for the [!include[cc-microsoft](../includes/cc-microsoft.md)] App Store, Skype, Xbox, Hotmail, or
@@ -52,8 +51,8 @@ You can onboard an expert and collaborate using [!include[pn-teams](../includes/
 | **Step** | **Description**                                                                  | **Who does this step?**           |
 |----------|----------------------------------------------------------------------------------|-----------------------------------|
 |    1.      | Enable guest access for [!include[pn-teams](../includes/pn-teams.md)]                                                    | Administrator                     |
-|    2.      | Invite the expert to join a team as a guest using the expert’s [!include[cc-microsoft](../includes/cc-microsoft.md)] account | Administrator or [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user and expert (to download [!include[pn-teams](../includes/pn-teams.md)]) |
-|    3.      | Place a call                                                                     | [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user or expert     |
+|    2.      | Invite the expert to join a team as a guest using the expert’s [!include[cc-microsoft](../includes/cc-microsoft.md)] account | Administrator or [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user and expert (to download [!include[pn-teams](../includes/pn-teams.md)]) |
+|    3.      | Place a call                                                                     | [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user or expert     |
 
 ### Step 1: Enable guest access for teams
 
@@ -84,7 +83,7 @@ You can onboard an expert and collaborate using [!include[pn-teams](../includes/
 ### Step 2: Invite the expert to join a team
 
 1.  In [!include[pn-teams](../includes/pn-teams.md)], select **Join or create a team** to create a team if it doesn’t
-    already exist. The [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user and the expert must be on the same
+    already exist. The [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user and the expert must be on the same
     team to communicate.
 
     ![Join or create a team](media/16e00f809d210dcb3b1e8c8e859b73da.png "Join or create a team")
@@ -102,7 +101,7 @@ You can onboard an expert and collaborate using [!include[pn-teams](../includes/
 
 ### Step 3. Place a call
 
-1.  The expert launches the [!include[pn-teams](../includes/pn-teams.md)] app and the [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user on the [!include[pn-hololens](../includes/pn-hololens.md)]
+1.  The expert launches the [!include[pn-teams](../includes/pn-teams.md)] app and the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user on the [!include[pn-hololens](../includes/pn-hololens.md)]
     signs in to their account as usual.
 
     > [!IMPORTANT]
@@ -124,7 +123,7 @@ You can onboard an expert and collaborate using [!include[pn-teams](../includes/
 ## Working with annotations
 
 Once [!include[pn-teams](../includes/pn-teams.md)] is installed, the expert can make video calls to (and receive them
-from) contacts using [!include[pn-remote-assist](../includes/pn-remote-assist.md)] on a [!include[pn-hololens](../includes/pn-hololens.md)].
+from) contacts using [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] on a [!include[pn-hololens](../includes/pn-hololens.md)].
 
 When in a call, the expert will see the contact’s space—including the
 holograms—and can use the Mixed Reality toolbar in the video call window to add
@@ -185,9 +184,9 @@ To make changes to edits, do one of the following:
 > [!NOTE]
 > Specific drawings or arrows can’t be removed. Only the [!include[pn-hololens](../includes/pn-hololens.md)] user can make changes to or delete pictures added by an expert.
 
-## Share your desktop or a running application with a Remote Assist user
+## Share your desktop or a running application with a Dynamics 365 Remote Assist user
 
-When you share your desktop or running application with a [!include[pn-remote-assist](../includes/pn-remote-assist.md)] user, the user's video feed will change to a solid color. They'll still be able to use all the tools in the toolbar even though their video feed will no longer be displayed.
+When you share your desktop or running application with a [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user, the user's video feed will change to a solid color. They'll still be able to use all the tools in the toolbar even though their video feed will no longer be displayed.
 
 To share your desktop or a running application:
 
