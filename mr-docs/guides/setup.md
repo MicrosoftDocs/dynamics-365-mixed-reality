@@ -15,9 +15,9 @@ We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)
 
 To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
 
-1. Buy a Dynamics 365 Guides subscription or sign up for a free 30-day trial subscription.
+1. Buy a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription or sign up for a free 30-day trial subscription.
 
-2. Create a Common Data Service environment (if you don't already have one) and install the Dynamics 365 Guides solution in the environment (instance).
+2. Create a Common Data Service environment (if you don't already have one) and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the environment (instance).
 
 3.	Download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps on a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC and [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)].
 
@@ -29,20 +29,20 @@ This topic provides step-by-step instructions for all of the above.
 
 ## Step 1: Buy a Dynamics 365 Guides subscription or sign up for a free trial subscription
 
-There are multiple ways to get a Dynamics 365 Guides subscription:
+There are multiple ways to get a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription:
 
-- If you have a Microsoft work account, you can go directly to the Microsoft 365 Admin Center and search for a Dynamics 365 Guides subscription there.
+- If you have a Microsoft work account, you can go directly to the Microsoft 365 Admin Center and search for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription there.
 
 - Go to [the Getting started page](http://aka.ms/GetGuides). You can use this page to buy a subscription or to sign up for a free 30-day trial subscription. If you sign up for a trial, you can use credentials for an existing Dynamics 365 account or you can create new credentials. 
 
     > [!IMPORTANT] 
-    > If you don't have administrator permissions associated with your work account, you won't be able to complete Step 2 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out Dynamics 365 Guides by following the steps on the Getting started page. In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*.
+    > If you don't have administrator permissions associated with your work account, you won't be able to complete Step 2 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] by following the steps on the Getting started page. In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*.
     
-After you sign up for a Dynamics 365 Guides subscription, you need to assign the Dynamics 365 Guides license to user accounts. To do this:
+After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to user accounts. To do this:
 
 1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
 
-2.  Make sure that the Dynamics 365 Guides license is assigned to a user. To do that, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
+2.  Make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license is assigned to a user. To do that, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
     ![Users > Active Users screen](media/users-active-users.PNG "Users > Active Users screen")
     
@@ -50,15 +50,15 @@ After you sign up for a Dynamics 365 Guides subscription, you need to assign the
 
      ![Edit PowerApps plan](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
 
-4.  In the **Product licenses** screen, turn the **Dynamics 365 Guides** slider to **On**, and then select **Save**.
+4.  In the **Product licenses** screen, turn the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** slider to **On**, and then select **Save**.
   
     ![Add user license](media/guides-license.PNG "Add user license") 
  
 ## Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
 
-After acquiring a Dynamics 365 Guides subscription and assigning licenses, you’ll need to create a database on a default environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Install and configure the Dynamics 365 Guides solution](#configure).
+After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you’ll need to create a database on a default environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Install and configure the Dynamics 365 Guides solution](#configure).
     
-1.  Go to the [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/environments) and sign in with the admin user credentials (the one where the Dynamics 365 Guides licenses are assigned).
+1.  Go to the [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/environments) and sign in with the admin user credentials (the one where the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] licenses are assigned).
 
 2.	In the Power Platform Admin Center, select **Environments**.
 
