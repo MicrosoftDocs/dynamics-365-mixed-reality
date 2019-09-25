@@ -180,7 +180,7 @@ When you sign in to [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-36
   
 2.	Select **Post**.
 
-3.	In the **Select a Booking** screen, select the appropriate booking to post the call data to.
+3.	In the **Select one of today's bookings** screen, select the appropriate booking to post the call data to.
 
     ![Select a Booking screen](media/bookings-today.jpg "Select a Booking screen")
   
