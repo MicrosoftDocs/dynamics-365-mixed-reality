@@ -65,10 +65,10 @@ A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account i
     > [!TIP]
     > The sign-in address will be in the form: username@company.
     
-<br>3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)], or 
+3.	In the dialog box that appears, select **Enable Feature** to link [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)], or 
 select **Skip** if you don’t want to link the apps at this time. You can always link them later through **Settings**. To learn more about how the apps work together, select **Learn More**.
 
-    ![Field Service screen](../media/field-service.PNG "Field Service screen")
+   ![Field Service screen](../media/field-service.PNG "Field Service screen")
    
 4. If you don't have a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license, another dialog box will prompt you to get a license or to sign up for a free trial.
   
