@@ -264,12 +264,15 @@ When rotating, it helps to think as if you are physically grabbing the knob and 
 The following graphics show how to use the different rotation knobs:
 
 Free rotation
+
 ![Free rotation](media/free-rotation.PNG "Free rotation")
 
 Left/right rotation
+
 ![Left/right rotation](media/left-right-rotation.PNG "Left/right rotation")
 
 Up/down rotation
+
 ![Up/down rotation](media/up-down-rotation.PNG "Up/down rotation")
  
 > [!Important]
