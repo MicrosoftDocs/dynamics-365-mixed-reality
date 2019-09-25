@@ -72,6 +72,16 @@ select **Skip** if you don’t want to link the apps at this time. You can alway
    
 4. If you don't have a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license, another dialog box will prompt you to get a license or to sign up for a free trial.
   
+## View a quick tutorial to jumpstart your learning curve
+
+Dynamics 365 Remote Assist for mobile includes a tutorial that you can use to jumpstart your learning curve. You can start the tutorial by selecting the **Try It** button when you sign in.
+
+![Try the tutorial](media/try-it.png "Try the tutorial")
+
+You can also start the tutorial by selecting the Main menu button, and selecting **Learn the tools**.
+
+![Learn the tools item](media/learn-the-tools.png "Learn the tools item")
+
 ## Make a call
 After signing in, you’ll see the **Contacts** page, which is the main page in [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. On the **Contacts** page, 
 your contacts are organized by the most recent calls.
@@ -127,6 +137,10 @@ For example, to add an arrow, tap the arrow tool and drag your finger to the spo
 You can also annotate in 2D by toggling augmented reality off or by taking a picture.
 
 ![Camera button](media/camera-button.PNG "Camera button")
+
+When augmented reality is turned off, you'll see a check mark in the lower-left corner of the screen.
+
+![2D check mark](media/2d-checkmark.PNG "2D check mark")
 
 You may want to do this:
 
