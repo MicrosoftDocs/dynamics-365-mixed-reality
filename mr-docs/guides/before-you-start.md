@@ -88,11 +88,11 @@ optimized for [!include[pn-hololens](../includes/pn-hololens.md)]. For more info
 
 You can also create and import your own custom 3D parts using CAD models. [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models, or you can use the Import Tool’s concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information on the Import Tool and preparing 3D models, see these topics:
 
-- [Import Tool overview](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/)
+- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/)
 
-- [Optimize your 3D models](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models)
+- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)
 
-- [Best practices for 3D models](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/best-practices)
+- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)
 
 ## Set up a folder structure
 

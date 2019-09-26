@@ -85,7 +85,7 @@ operate correctly. It may be different from the commercially released version.
 
 **4. FEEDBACK.** “Feedback” is all suggestions, comments, input, ideas, or
 know-how, in any form, that you provide to Microsoft about the Dynamics 365
-Remote Assist tool. If you give Feedback to Microsoft, you give to Microsoft,
+Dynamics 365 Remote Assist tool. If you give Feedback to Microsoft, you give to Microsoft,
 without charge, the right to use, share and commercialize your Feedback in any
 way and for any purpose. You will not give Feedback that is subject to a license
 that requires Microsoft to license its software or documentation to third

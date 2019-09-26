@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 
 If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:
 
-1. Go to [https://dynamics.microsoft.com/en-us/support/](https://dynamics.microsoft.com/en-us/support/).
+1. Go to [https://dynamics.microsoft.com/support/](https://dynamics.microsoft.com/support/).
 
 2. Under **Customer Engagement help + support**, select **GET SUPPORT**.
 
@@ -53,7 +53,7 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 - Spanish (Spain)
 
-## Is there an out-of-the-box integration with Dynamics 365 for Field Service?
+## Is there an out-of-the-box integration with Dynamics 365 Field Service?
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
 

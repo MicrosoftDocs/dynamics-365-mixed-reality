@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist
 
-If your organization uses [Dynamics 365 Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] work orders, 
+If your organization uses [Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] work orders, 
 the first-line worker using [!include[pn-hololens](../includes/pn-hololens.md)] can view [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] bookings from [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and 
 quickly call the expert listed in the **Support Contact** field when needed. This enables first-line workers 
 to do heads-up, hands-free calling through [!include[pn-hololens](../includes/pn-hololens.md)] in the context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] booking.
@@ -77,10 +77,10 @@ To upgrade an instance:
 
    - If you don’t have version 8.2 or later, an **Upgrade** button will appear on the right side of the screen in the **[!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]** box. Select the **Upgrade** button to start the upgrade process. 
    
-     If there’s no **Upgrade** button, you can obtain version 8.2 or later by [signing up for a trial](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) or by going to the [Dynamics Insider Portal](http://experience.dynamics.com/insider).
+     If there’s no **Upgrade** button, you can obtain version 8.2 or later by [signing up for a trial](https://appsource.microsoft.com/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) or by going to the [Dynamics Insider Portal](http://experience.dynamics.com/insider).
 
      > [!NOTE]
-     > If the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] installation fails, you might need to reset or create a new instance. [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] installation requires specific steps and doing the steps out of order can cause the installation to fail. [Learn more about Dynamics 365 Field Service installation.](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/field-service/install-field-service)
+     > If the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] installation fails, you might need to reset or create a new instance. [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] installation requires specific steps and doing the steps out of order can cause the installation to fail. [Learn more about Dynamics 365 Field Service installation.](https://docs.microsoft.com/dynamics365/customer-engagement/field-service/install-field-service)
 
    - If the right version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] is installed and the **My In Progress Bookings** view is included, go to [Add a work order and booking](#add-a-work-order-and-booking), the next procedure in this topic.
    
@@ -147,6 +147,6 @@ The following table shows examples of the types of changes you might want to mak
 
 ### See also
 
-- [Create or edit fields in Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-edit-fields)
+- [Create or edit fields in Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-edit-fields)
 
-- [Create or edit views in Dynamics 365](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/customize/create-edit-views)
+- [Create or edit views in Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-edit-views)

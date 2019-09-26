@@ -125,10 +125,10 @@ ms.custom:
                                                 </div>
                                             </div>
                                             <div class="cardText">
-                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Remote Assist</h3>
+                                                <h3 style="font-size: 1.8rem; font-weight: 500; font-family: segoe-ui, Segoe UI, Segoe WP, Frutiger, Helvetica Neue, Helvetica, sans-serif"><span style="font-size: 50%; color: #7f7f7f">DYNAMICS 365</span><br />Dynamics 365 Remote Assist</h3>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/index">Overview</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/requirements">Requirements</a></p>
-                                                <p><a href="/dynamics365/mixed-reality/remote-assist/try-remote-assist-free">Try Remote Assist free</a></p>
+                                                <p><a href="/dynamics365/mixed-reality/remote-assist/try-remote-assist-free">Try Dynamics 365 Remote Assist free</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/buy-and-deploy">Buy and deploy</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/user-guide">HoloLens User Guide</a></p>
                                                 <p><a href="/dynamics365/mixed-reality/remote-assist/mobile-app/index">Mobile app User Guide</a></p>

@@ -38,7 +38,7 @@ stored, and processed in the United States, or in any other country where Micros
 installing or using the Dynamics 365 Import Tool (Preview), you consent to allow authorized users of Microsoft Dynamics 365 
 online services to activate, configure and enable certain functionality which transmits Customer Data (as defined in the MLA) 
 to external systems. Please consult the feature technical documentation available at: 
-https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/.
+https://docs.microsoft.com/dynamics365/mixed-reality/layout/.
 
 >**c)	Included Microsoft Applications.** This software may include components from other Microsoft applications. 
 These license terms apply to those included applications, if any, unless other license terms are provided with the other 

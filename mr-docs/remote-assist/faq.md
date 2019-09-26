@@ -31,7 +31,7 @@ To use [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.
 -   [A subscription to Dynamics 365 Remote Assist.](../licensing/buy-and-deploy.md)
 
 -   A [HoloLens running the Windows 10 April 2018
-    Update](https://support.microsoft.com/en-us/help/12643). 
+    Update](https://support.microsoft.com/help/12643). 
 
 -   To make a video call, you'll need a contact using the latest version of [Microsoft
     Teams](https://products.office.com/microsoft-teams/group-chat-software) on a
@@ -87,12 +87,12 @@ both the app and the device with the same account. 
 ## I see a message saying I have no internet connection.
 
 To use [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], you need a Wi-Fi connection. Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is
-[connected to Wi-Fi](https://support.microsoft.com/en-us/help/12629).
+[connected to Wi-Fi](https://support.microsoft.com/help/12629).
 
 ## Dynamics 365 Remote Assist is frozen or unresponsive.
 
 Try closing and reopening [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]. If you’re still having problems,
-[restart your HoloLens](https://support.microsoft.com/en-us/help/12642).
+[restart your HoloLens](https://support.microsoft.com/help/12642).
 
 ## Dynamics 365 Remote Assist isn't showing my contacts.
 
@@ -103,7 +103,7 @@ If you don’t see the contacts you expect, try the following:
 
 -   Close and reopen [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
--   [Restart your HoloLens](https://support.microsoft.com/en-us/help/12642).
+-   [Restart your HoloLens](https://support.microsoft.com/help/12642).
 
 ## The Mixed Reality toolbar doesn’t appear on the PC Teams client during a Dynamics 365 Remote Assist call.
 
@@ -135,9 +135,9 @@ If you’re having trouble signing in to [!include[pn-dyn-365-remote-assist](../
     sign in to [!include[pn-hololens](../includes/pn-hololens.md)].
 
 -   Make sure that the work or school account you’re using has a valid [Office
-    365 Business](https://products.office.com/en-us/business/office) Premium or
+    365 Business](https://products.office.com/business/office) Premium or
     Essentials subscription with [Microsoft
-    Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software)
+    Teams](https://products.office.com/microsoft-teams/group-chat-software)
     enabled.
 
 -   Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is connected to the internet.
