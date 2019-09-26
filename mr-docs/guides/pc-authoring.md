@@ -157,6 +157,8 @@ When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] 
 
 - It’s easy to add another step from the Step card page. Just select **Add new step** in the top right corner of the page. No need to go back to the **Outline** page. 
 
+  ![Add new step button](media/add-new-step-button.PNG "Add new step button")
+
 - Don’t be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step to help keep the text short.
 
 - Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
