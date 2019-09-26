@@ -9,10 +9,12 @@ title: Dynamics 365 Remote Assist for mobile user guide
 ms.reviewer: v-brycho
 ---
 
+
 # Dynamics 365 Remote Assist for mobile user guide
 
 [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile extends the capabilities of [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] to work with [!include[tn-android](../../includes/tn-android.md)] or iOS phones or tablets (in addition to [!include[cc-microsoft](../../includes/cc-microsoft.md)]  [!include[pn-HoloLens](../../includes/pn-HoloLens.md)]). Technicians can use their phone or tablet to connect and collaborate with an 
 expert on [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)]. Using live video calling and annotations, they can share what they see with the expert to troubleshoot problems together, faster. 
+
 
 ## What you’ll need
 
@@ -23,9 +25,11 @@ You’ll need the following to use [!include[pn-dyn-365-remote-assist](../../inc
 
   - [Learn more about augmented reality on iOS](https://www.apple.com/ios/augmented-reality/)
 
+
 - A [!include[tn-google](../../includes/tn-google.md)] Play or Apple Store account.
 
 - [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile.
+
 
 - A [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license (free trial available).
 
@@ -36,6 +40,7 @@ You’ll need the following to use [!include[pn-dyn-365-remote-assist](../../inc
 - An internet connection. At least 1.5 MB of bandwidth is recommended for the best experience.
 
 If you want to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] together with [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] so you can automatically log call information to a 
+
 [!include[pn-field-service](../../includes/pn-field-service.md)] work order, you’ll also need one or both of the following:
 
 - [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] web application
@@ -71,6 +76,7 @@ select **Skip** if you don’t want to link the apps at this time. You can alway
    ![Field Service screen](../media/field-service.PNG "Field Service screen")
    
 4. If you don't have a [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] license, another dialog box will prompt you to get a license or to sign up for a free trial.
+
   
 ## View a quick tutorial to jumpstart your learning curve
 
@@ -169,7 +175,8 @@ You can also communicate through Teams chat with the person you're calling. A po
 
 ![Chat window](media/chat.png "Chat window")
    
-## Use Remote Assist together with Dynamics 365 Field Service
+
+## Use Dynamics 365 Remote Assist together with Dynamics 365 Field Service
 
 You can use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] together with [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] if you want to automatically log call information to a 
 [!include[pn-field-service](../../includes/pn-field-service.md)] work order when you end the call. 
@@ -226,4 +233,6 @@ You can also provide feedback directly from the app by using the following proce
 
 ### See also
 
+
 [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](../troubleshoot-field-service.md)
+

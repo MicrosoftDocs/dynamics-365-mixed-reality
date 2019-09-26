@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Learn how to buy Dynamics 365 Layout, add users to the subscription, and deploy the app to users in several different ways
 ms.author: ornella
-ms.date: 05/15/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Buy and deploy Dynamics 365 Layout
@@ -11,14 +11,14 @@ ms.reviewer: v-brycho
 
 # Buy and deploy Dynamics 365 Layout
 
-With [!include[pn-layout](../includes/pn-layout.md)] you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
+With [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
 
 ## Subscribe to Dynamics 365 Layout
 
 > [!TIP]
-> Did you know you can try [!include[pn-layout](../includes/pn-layout.md)] for free for up to 90 days? [Learn more about the free 90-day trial](try-layout-free.md).
+> Did you know you can try [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] for free for up to 90 days? [Learn more about the free 90-day trial](try-layout-free.md).
 
-You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] in any of the following ways:
+You can subscribe to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] in any of the following ways:
 
 -   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
 
@@ -32,7 +32,7 @@ You can subscribe to [!include[pn-layout](../includes/pn-layout.md)] in any of t
 
 -   Through [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner).
 
-When you subscribe to [!include[pn-layout](../includes/pn-layout.md)], you also get the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] as part of the [!include[pn-layout](../includes/pn-layout.md)] subscription.
+When you subscribe to [!include[pn-layout](../includes/pn-layout.md)], you also get the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] as part of the [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] subscription.
 
 ## Subscribe through the Microsoft 365 Admin Center
 
@@ -52,7 +52,7 @@ When you subscribe to [!include[pn-layout](../includes/pn-layout.md)], you also 
    
 6. Find the product card for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-   ![Layout product card](../media/ProductCard.PNG "Layout product card")
+   ![Dynamics 365 Layout product card](../media/ProductCard.PNG "Layout product card")
    
 7. To subscribe, select **Buy now**.
 
@@ -86,7 +86,7 @@ assign a license to will need an [!include[pn-azure-active-directory](../include
 
 ## Make the Dynamics 365 Layout app available to your users
 
-After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make [!include[pn-layout](../includes/pn-layout.md)] available through one of the following:
+After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] available through one of the following:
 
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers
 
@@ -104,12 +104,12 @@ in any of the following ways:
 ### Install Dynamics 365 Layout from Microsoft Store for Consumers
 
 
-For information on installing [!include[pn-layout](../includes/pn-layout.md)] from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
+For information on installing [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
 see the [Dynamics 365 Layout user guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
-> <ul><li>When users launch Dynamics 365 Layout, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 admin center.</li>
-> <li>Dynamics 365 Layout requires users to be online once every 30 days to validate their subscription.</li></ul>
+> <ul><li>When users launch [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 admin center.</li>
+> <li>[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] requires users to be online once every 30 days to validate their subscription.</li></ul>
 
 ### Distribute the app through Microsoft Store for Business
 

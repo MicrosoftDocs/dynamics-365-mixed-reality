@@ -2,7 +2,7 @@
 author: mamithan
 description: How to add a note (including ink and text) to a 3D model in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 07/23/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Add a note to your 3D model in Dynamics 365 Product Visualize
@@ -79,9 +79,9 @@ To review notes you have made on your model, you can tap any spatial anchor on t
   
 ## Change how your notes are shared with other apps
 
-By default, your notes are saved to the SharePoint account associated with your Dynamics 365 for Sales account. By default, Product Visualize also sends your notes to your Dynamics 365 for Sales timeline and any connected Microsoft Teams channel. 
+By default, your notes are saved to the SharePoint account associated with your Dynamics 365 Sales account. By default, Dynamics 365 Product Visualize also sends your notes to your Dynamics 365 Sales timeline and any connected Microsoft Teams channel. 
 
-To turn off sharing with the Dynamics 365 for Sales timeline or Microsoft Teams channels:
+To turn off sharing with the Dynamics 365 Sales timeline or Microsoft Teams channels:
 
 1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select **Edit** next to the organization you're signed in to.
 
