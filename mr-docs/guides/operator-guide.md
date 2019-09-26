@@ -202,7 +202,7 @@ Here’s a description of the buttons and other UI elements in the Step card:
 |D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
 |E|![Pin button](media/pin-button.PNG "Pin button")|Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around. You can pin or unpin it any time you want.|
 |F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
-|G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for Example Guide:</br><br>![HoloLens Outline page](media/outline.jpg "HoloLens Outline page")| 
+|G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for the Pylon wiring guide:</br><br>![HoloLens Outline page](media/outline.jpg "HoloLens Outline page")| 
 |H|![Task progress](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
 |I|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task you're working on.| 
  
