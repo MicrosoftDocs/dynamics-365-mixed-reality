@@ -88,7 +88,7 @@ Autosave checks for changes every 4 seconds. You must be online to use [!include
 
 ## Choose an anchoring method for your guide
 
-The next step is to choose an anchoring method for your guide. Anchoring is how you tie your holograms to your real-world environment. [Learn more about anchoring and how to create an anchor](anchor.md).
+The next step is to choose an anchoring method for your guide. Anchoring is a crucial step in creating a guide. It's how you tie your holograms to your real-world environment. If you don't anchor your guide properly, your holograms will be misaligned, and your operators will be confused and can even cause damage to machinery or parts. [Learn more about anchoring and how to create an anchor](anchor.md).
 
 ## Structure your guide in the Outline page
 
@@ -110,9 +110,6 @@ In addition to tasks and steps, the **Outline** page shows:
 
   ![Outline page](media/completion-step.PNG "Outline page")
  
-> [!NOTE]
-> Whenever you start working on a guide, be sure to select **Refresh** to ensure you have the latest version. 
-
 ### Best practices for the Outline page
 
 - To provide overall context, add an Overview task at the start of the guide. This task would include just one step that describes what the guide is about. This is also a good place to list all the tasks that the guide covers. 
@@ -123,7 +120,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
 - Consider adding steps that show individual tips and tricks. 
 
-- Remember to refresh your guide when moving between PC and [!include[pn-hololens](../includes/pn-hololens.md)], and be sure to move the cursor outside the text box when writing steps to activate AutoSave. 
+- When you move from the PC app to the HoloLens app, you'll be prompted to refresh. It's a good idea to close the guide you're working on when you switch devices. 
 
 Here’s an example of a filled-out **Outline** page:
 
