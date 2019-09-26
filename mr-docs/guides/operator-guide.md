@@ -48,7 +48,7 @@ To navigate through a guide, you’ll use your gaze and a few gestures.
 
 ### Gaze 
 
-Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is pretty much as easy as it sounds. In some cases, you can select an item (an app, menu, or button, for example) just by gazing at a selection box next to the item. For example, when you first start the [!include[pn-hololens](../includes/pn-hololens.md)] app, you’ll gaze at the box to the left of **Operate** in the following dialog box to select Operate mode.
+Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is pretty much as easy as it sounds. In some cases, you can select an item (an app, menu, or button, for example) just by gazing at a selection box next to the item. For example, when you first start the [!include[pn-hololens](../includes/pn-hololens.md)] app, you’ll gaze at the box to the left of **Operate** in the following dialog box to select **Operate** mode.
 
 ![Example of using gaze](media/gaze-example.PNG "Example of using gaze")  
 
