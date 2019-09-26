@@ -134,7 +134,7 @@ In the Step card page, you write your instructional text and assign supporting c
 
 ### Open the Step card page and add instructions
 
-1. Click any step on the **Outline** page, or select **Step** in the left navigation. 
+1. Select any step on the **Outline** page, or select **Step** in the left navigation. 
 
    ![Step command in left navigation](media/left-nav-step.PNG "Step command in left navigation")
 
