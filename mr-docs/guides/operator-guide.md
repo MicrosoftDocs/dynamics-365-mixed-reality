@@ -20,7 +20,7 @@ Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dy
 ## First things first – calibrate your HoloLens 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device. You can do this by using the Calibration app that comes with your [!include[pn-hololens](../includes/pn-hololens.md)]. 
 
-![HoloLens Calibration app](media/calibration.jpg "HoloLens Calibration app")  
+![HoloLens Calibration app](media/calibration.PNG "HoloLens Calibration app")  
 
 ### Calibrate your HoloLens by using the Calibration app 
 
@@ -111,15 +111,15 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 
 1.	Go to **All Apps**.
 
-    ![HoloLens Apps selection](media/hololens-apps.jpg "HoloLens Apps selection")
+    ![HoloLens Apps selection](media/hololens-apps.PNG "HoloLens Apps selection")
 
 2.	Select the down arrow.
 
-    ![HoloLens down arrow highlighted](media/hololens-down-arrow.jpg "HoloLens down arrow highlighted")
+    ![HoloLens down arrow highlighted](media/hololens-down-arrow.PNG "HoloLens down arrow highlighted")
 
 3.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
-    ![Open Guides](media/open-guides-application.jpg "Launch 'Guides")
+    ![Open Guides](media/open-guides-application.PNG "Launch 'Guides")
  
 4.	In the **Welcome** screen, select **Sign in**. 
 
@@ -127,7 +127,7 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 
 6.	In the **Work or school account** screen, enter the credentials provided by your administrator. The credentials will look something like this: username@domain.com.  For example, if your user name is LauraO and you work for the Contoso company, the email name would be laurao@contoso.com.
 
-    ![Sign in to HoloLens](media/sign-in-hololens.jpg "Sign in to HoloLens")
+    ![Sign in to HoloLens](media/sign-in-hololens.PNG "Sign in to HoloLens")
  
 7.	Select an instance to use if you have more than one instance, and then select **Continue**.	
    
@@ -155,7 +155,7 @@ There are two types of anchors: a printed anchor and a digital anchor. The way y
 
 1. Look for a printed anchor attached to a physical object in your real-world environment. The printed anchor looks like this: 
 
-   ![Printed marker](media/printed-marker.jpg "Printed marker")
+   ![Printed marker](media/printed-marker.PNG "Printed marker")
 
 2. On your HoloLens [!include[pn-hololens](../includes/pn-hololens.md)], you’ll see a hologram that looks very similar to the printed anchor. Find the printed anchor in your real-world environment, and then align the anchor hologram with the printed anchor.    
    
