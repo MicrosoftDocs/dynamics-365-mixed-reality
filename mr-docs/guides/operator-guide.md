@@ -140,7 +140,7 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 ### Anchor your guide 
 The first thing you see when you open a guide is the anchoring instructions for the guide.  
 
-![Scan printed anchor](media/scan-printed-anchor.jpg "Scan printed anchor") 
+![Scan printed anchor](media/scan-printed-anchor.PNG "Scan printed anchor") 
 
 > [!NOTE]
 > The screen above shows the anchoring instructions for a printed anchor. This screen would look different if you need to anchor your guide with a digital anchor. The anchoring instructions will tell you how to go about anchoring your guide.
