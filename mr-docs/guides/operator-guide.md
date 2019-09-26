@@ -17,7 +17,7 @@ Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dy
 
 ![Operator at work](media/operator-at-work.PNG "Operator at work")
 
-## First things first–calibrate your HoloLens 
+## First things first – calibrate your HoloLens 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device. You can do this by using the Calibration app that comes with your [!include[pn-hololens](../includes/pn-hololens.md)]. 
 
 ![HoloLens Calibration app](media/calibration.PNG "HoloLens Calibration app")  
@@ -159,7 +159,7 @@ There are two types of anchors: a printed anchor and a digital anchor. The way y
 
 2. On your HoloLens [!include[pn-hololens](../includes/pn-hololens.md)], you’ll see a hologram that looks very similar to the printed anchor. Find the printed anchor in your real-world environment, and then align the anchor hologram with the printed anchor.    
    
-3. When the green box is aligned to the printed anchor, select **Confirm**.
+3. When the green box is aligned to the printed anchor, gaze at **Confirm** to select it.
 
    ![Holographic marker](media/align-marker.PNG "Holographic marker") 
 
@@ -233,6 +233,7 @@ You can turn holograms off (or turn them back on) with a glance if you ever feel
 
 That's all the info you need to use a guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! To learn more about [!include[cc-microsoft](../includes/cc-microsoft.md)] mixed-reality apps and [!include[pn-hololens](../includes/pn-hololens.md)], here are some helpful links: 
 
+- [Watch a video on operating a guide](https://aka.ms/guidesoperate)
 - [What is mixed reality?](https://docs.microsoft.com/windows/mixed-reality/mixed-reality)
 - [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/mixed-reality/layout/)
 - [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/mixed-reality/remote-assist/)
