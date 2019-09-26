@@ -11,7 +11,11 @@ ms.reviewer: v-brycho
 
 # Use the PC authoring application to create a guide in Dynamics 365 Guides
 
-[Watch a video on PC authoring](https://aka.ms/pcauthor).
+Watch videos on:
+
+- [Dynamics 365 Guides overview](https://aka.ms/guidesoverview)
+- [PC authoring](https://aka.ms/pcauthor)
+- [HoloLens authoring](https://aka.ms/hololensauthor)
 
 Use the PC authoring application in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to:
 
@@ -23,7 +27,7 @@ Use the PC authoring application in [!include[cc-microsoft](../includes/cc-micro
 
 - Write the instructions for your steps
 
-- Assign different types of assets to support those steps. Supporting assets include:
+- Assign different types of content to support those steps. Supporting content includes:
 
   - 3D parts
   
@@ -75,7 +79,7 @@ so on as part of the name.
 
 ## Saving: how changes are synced between the PC app and HoloLens app
 
-The PC authoring app and the [!include[pn-hololens](../includes/pn-hololens.md)] app are connected through the cloud, where your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] files and assets are stored. 
+The PC authoring app and the [!include[pn-hololens](../includes/pn-hololens.md)] app are connected through the cloud, where your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] files and content are stored. 
 When you author a guide, all changes are saved on both the PC and [!include[pn-hololens](../includes/pn-hololens.md)]. This makes it easy to switch between devices. 
 Autosave checks for changes every 4 seconds. You must be online to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]
 
@@ -125,11 +129,11 @@ Here’s an example of a filled-out **Outline** page:
 
 ![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.PNG "Filled-out Outline page fro Pylon wiring guide")
   
-## Create steps and assign assets in the Step card page
+## Create steps and assign content in the Step card page
 
 You can create steps on the **Outline** page, but you’ll probably create most of your steps from the WYSIWYG Step card page. The instructions you create on the Step card page match what the operator will see on [!include[pn-hololens](../includes/pn-hololens.md)].
 
-In the Step card page, you write your instructional text and assign supporting assets for that step, like 3D content or media (image or video). 
+In the Step card page, you write your instructional text and assign supporting content for that step, like 3D content or media (image or video). 
 
 ### Open the Step card page and add instructions
 
@@ -150,7 +154,7 @@ In the Step card page, you write your instructional text and assign supporting a
    > [!NOTE]
    > The collection of boxes below the instructional text is called the “bin.”
   
-When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] in Author mode, you’ll see all the assets that you associated with the steps, and you can place the assets in their relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in [!include[pn-hololens](../includes/pn-hololens.md)] authoring in the real world. What you see in the Step card page is very similar to what you see on [!include[pn-hololens](../includes/pn-hololens.md)]. 
+When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] in Author mode, you’ll see all the content that you associated with the steps, and you can place the content in the relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in [!include[pn-hololens](../includes/pn-hololens.md)] authoring in the real world. What you see in the Step card page is very similar to what you see on [!include[pn-hololens](../includes/pn-hololens.md)]. 
 
 ### Best practices for the Step card page
 
@@ -158,7 +162,7 @@ When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] 
 
 - Don’t be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step to help keep the text short.
 
-- Try to stick to one type of asset (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
+- Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
 
 - Write your guide in casual human language for best results. Don’t use technical jargon that people don’t know or understand.
 
@@ -189,7 +193,7 @@ To import your own 3D objects:
 
 ### Add 3D objects from the 3D toolkit to support your steps
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects included in the 3D toolkit that are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. Use objects from the 3D toolkit like any other asset to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects included in the 3D toolkit that are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. Use objects from the 3D toolkit like any other content to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
  
 The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. Here’s what the models look like:
 
