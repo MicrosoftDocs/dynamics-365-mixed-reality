@@ -179,8 +179,7 @@ validation examples include:
           
    - "Make sure the text is upside down when screwing it in."
           
-   - "Make sure the front of the machine is facing you and aligns to the top-right corner of the table before continuing on to 
-          the next step."
+   - "Make sure the front of the machine is facing you and aligns to the top-right corner of the table before continuing on to the next step."
           
   –	Auditory validation
        
