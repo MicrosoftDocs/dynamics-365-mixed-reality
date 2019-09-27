@@ -20,7 +20,7 @@ expert on [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)]. 
 
 You’ll need the following to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile:
 
-- An [!include[tn-android](../../includes/tn-android.md)] or iOS device. Dynamics 365 Remote Assist for mobile supports both AR and non-AR devicies. With non-AR devices, you can use 2D annotations:
+- An [!include[tn-android](../../includes/tn-android.md)] or iOS device. Dynamics 365 Remote Assist for mobile supports both AR and non-AR devices. With non-AR devices, you can use 2D annotations:
   - [View the full list of AR-supported Android devices](https://developers.google.com/ar/discover/supported-devices)
 
   - [Learn more about augmented reality on iOS](https://www.apple.com/ios/augmented-reality/)
@@ -39,9 +39,7 @@ You’ll need the following to use [!include[pn-dyn-365-remote-assist](../../inc
 
 - An internet connection. At least 1.5 MB of bandwidth is recommended for the best experience.
 
-If you want to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] together with [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] so you can automatically log call information to a 
-
-[!include[pn-field-service](../../includes/pn-field-service.md)] work order, you’ll also need one or both of the following:
+If you want to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] together with [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] so you can automatically log call information to a [!include[pn-field-service](../../includes/pn-field-service.md)] work order, you’ll also need one or both of the following:
 
 - [!include[pn-dyn-365-field-service](../../includes/pn-dyn-365-field-service.md)] web application
 
@@ -148,13 +146,13 @@ When augmented reality is turned off, the **Camera** button turns into a check m
 
 ![2D check mark](media/2d-checkmark.png "2D check mark")
 
-You may want to use 2D:
+You might want to use 2D:
 
-- To increase performance and save battery
+- To increase performance and save battery.
 
-- To increase accuracy of annotations
+- To increase accuracy of annotations.
 
-- If your device does not support augmented reality
+- If your device does not support augmented reality.
 
 ### Make the expert’s video feed bigger
 
@@ -171,7 +169,7 @@ You can switch the orientation of the camera view from portrait to landscape whi
 
 ## Send a text message
 
-You can also communicate through Teams chat with the person you're calling. A popup appears for any messages you receive or you can open the text chat window to send a message to the other person. 
+You can also communicate through Teams chat with the person you're calling. A pop-up window appears for any messages you receive or you can open the text chat window to send a message to the other person. 
 
 ![Chat window](media/chat.png "Chat window")
    
@@ -215,7 +213,7 @@ When you sign in to [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-36
 
 2.	Select **Sign Out**.
 
-## Get Help
+## Get help
 
 1.	Select the **Main menu** ![Main menu button](../media/main-menu-button.PNG "Main menu button") button.
 
