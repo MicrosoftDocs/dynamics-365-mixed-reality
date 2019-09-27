@@ -124,7 +124,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
 Here’s an example of a filled-out **Outline** page:
 
-![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.png "Filled-out Outline page fro Pylon wiring guide")
+![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.png "Filled-out Outline page from Pylon wiring guide")
   
 ## Create steps and assign content in the Step card page
 
