@@ -497,7 +497,7 @@ Shoot videos from a third-person or first-person perspective.
 
   Bad example:
 
-  ![Bad exampleo anchoring](media/bad-example-anchoring.PNG "Bad example of anchoring")
+  ![Bad example of anchoring](media/bad-example-anchoring.PNG "Bad example of anchoring")
 
 - Important orientation that could impact alignment of future steps can be coupled with visual guides via photos or custom holograms and text reminders to check their positioning.
 
