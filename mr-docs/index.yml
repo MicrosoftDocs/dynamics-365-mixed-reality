@@ -1,0 +1,60 @@
+### YamlMime:Hub
+
+title: Microsoft Dynamics 365 mixed reality documentation # < 60 chars
+# brand: aspnet | azure | dotnet | dynamics | m365 | office | sql | windows | visual-studio | xamarin
+brand: dynamics
+
+metadata:
+  title: Microsoft Dynamics 365 mixed reality documentation # Required; page title displayed in search results. Include the brand. < 60 chars.
+  description: Learn how to deploy, customize, manage and use Microsoft Dynamics 365 mixed reality services and applications. Get documentation, sample code, tutorials, and more. # Required; article description that is displayed in search results. < 160 chars.
+  ms.service: dynamics-365-crossapp #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.topic: hub-page # Required
+  author: buck1ey #Required; your GitHub user alias, with correct capitalization.
+  ms.author: buckg #Required; microsoft alias of author; optional team alias.
+  ms.date: 10/01/2019 #Required; mm/dd/yyyy format.
+  hide_bc: false
+
+# productDirectory section (optional)
+productDirectory:
+  items:
+    # Card
+    - title: Dynamics 365 Guides (in preview)
+      # imageSrc should be square in ratio with no whitespace
+      imageSrc: /dynamics365/images/Guides_color.svg
+      links:
+        - url: /dynamics365/mixed-reality/guides/index
+          text: Documentation
+        - url: /dynamics365/mixed-reality/guides/get-started
+          text: Get started
+    # Card
+    - title: Dynamics 365 Import Tool (in preview)
+      imageSrc: /dynamics365/images/importmixedrealitylayoutlogoextensions-03.svg
+      links:
+        - url: /dynamics365/mixed-reality/import-tool/index
+          text: Documentation
+        - url: /dynamics365/mixed-reality/import-tool/convert-models
+          text: Convert your 3D (CAD) models
+    # Card
+    - title: Dynamics 365 Layout
+      imageSrc: /dynamics365/images/Layout_color.svg
+      links:
+        - url: /dynamics365/mixed-reality/layout/index
+          text: Documentation
+        - url: /dynamics365/mixed-reality/layout/requirements
+          text: Requirements
+    # Card
+    - title: Dynamics 365 Product Visualize (in preview)
+      imageSrc: /dynamics365/images/ProductVisualize_color.svg
+      links:
+        - url: /dynamics365/mixed-reality/product-visualize/index
+          text: Documentation
+        - url: /dynamics365/mixed-reality/product-visualize/requirements
+          text: Requirements
+    # Card
+    - title: Dynamics 365 Remote Assist
+      imageSrc: /dynamics365/images/Remote_Assist__color.svg
+      links:
+        - url: /dynamics365/mixed-reality/remote-assist/index
+          text: Documentation
+        - url: /dynamics365/mixed-reality/remote-assist/requirements
+          text: Requirements
