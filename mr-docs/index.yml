@@ -23,7 +23,7 @@ productDirectory:
       imageSrc: /dynamics365/images/Guides_color.svg
       links:
         - url: /dynamics365/mixed-reality/guides/index
-          text: Overview
+          text: Documentation
         - url: /dynamics365/mixed-reality/guides/get-started
           text: Get started
     # Card
@@ -31,7 +31,7 @@ productDirectory:
       imageSrc: /dynamics365/images/importmixedrealitylayoutlogoextensions-03.svg
       links:
         - url: /dynamics365/mixed-reality/import-tool/index
-          text: Overview
+          text: Documentation
         - url: /dynamics365/mixed-reality/import-tool/convert-models
           text: Convert your 3D (CAD) models
     # Card
@@ -39,7 +39,7 @@ productDirectory:
       imageSrc: /dynamics365/images/Layout_color.svg
       links:
         - url: /dynamics365/mixed-reality/layout/index
-          text: Overview
+          text: Documentation
         - url: /dynamics365/mixed-reality/layout/requirements
           text: Requirements
     # Card
@@ -47,7 +47,7 @@ productDirectory:
       imageSrc: /dynamics365/images/ProductVisualize_color.svg
       links:
         - url: /dynamics365/mixed-reality/product-visualize/index
-          text: Overview
+          text: Documentation
         - url: /dynamics365/mixed-reality/product-visualize/requirements
           text: Requirements
     # Card
@@ -55,6 +55,6 @@ productDirectory:
       imageSrc: /dynamics365/images/Remote_Assist__color.svg
       links:
         - url: /dynamics365/mixed-reality/remote-assist/index
-          text: Overview
+          text: Documentation
         - url: /dynamics365/mixed-reality/remote-assist/requirements
           text: Requirements
