@@ -52,13 +52,13 @@ Use these instructions to install the app (if it hasn't already been installed f
 
 2.	In the **Welcome to Guides** screen, select **Sign in**.
 
-    ![Welcome to Guides](media/welcome.png "Welcome to Guides")
+    ![Welcome to Guides](media/welcome.PNG "Welcome to Guides")
     
 3.	In the **Sign in** dialog box, select **Work or school account**, and then select **Continue**. 
 
 4.	In the **Sign in** screen, enter the user account and password assigned to you by your organization. 
 
-    ![Sign-in to the PC app](media/sign-in-pc.png "Sign in to the PC app")
+    ![Sign-in to the PC app](media/sign-in-pc.PNG "Sign in to the PC app")
  
 5.	Select the instance you want to use if there’s more than one instance, and then select **Continue**.
 
