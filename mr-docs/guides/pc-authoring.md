@@ -211,7 +211,7 @@ To add an object from the 3D toolkit:
     
 3.	Drag the object you want from the list to a **3D parts** box below the Step card.
 
-    ![Drag object from 3D toolkit](media/3D-part.PNG "Drag object from 3D toolkit")
+    ![Drag object from 3D toolkit](media/3d-part.PNG "Drag object from 3D toolkit")
  
 ### Best practices for 3D toolkit
 
