@@ -41,12 +41,12 @@ The October 1 release also includes refactoring of code for hologram positions t
 - **Support for additional languages**. The PC app and the HoloLens app now support the following languages: English (US, UK), French (France, Canada), German, Dutch (Netherlands), Spanish, Italian, Chinese (People’s Republic of China, Taiwan, Hong Kong SAR), Japanese, and Korean.
 
 > [!NOTE]
-> To get this update, you need to update the PC app and the [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] store. Updating the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution is not mandatory, but you need to update it if you intend to use the app in the newly supported languages. 
+> To get this update, you need to update the PC app and the [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store. Updating the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution is not mandatory, but you need to update it if you intend to use the app in the newly supported languages. 
 
 ### August 6, 2019
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.1908.2001.0 fixes an issue in the July 23rd release of the [!include[pn-hololens](../includes/pn-hololens.md)] app that prevented the list of guides from being shown in the [!include[pn-hololens](../includes/pn-hololens.md)] application for Europe, Middle East, and Asia-based customers. We also released an updated version of the Power BI reporting template that fixes a bug related to missing data causing the report to break.
 
-To get this update, you only need to update the [!include[pn-hololens](../includes/pn-hololens.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] store. You don't need to update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. For the Power BI report, please visit https:<i></i>//aka.ms/guidesreport.
+To get this update, you only need to update the [!include[pn-hololens](../includes/pn-hololens.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store. You don't need to update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. For the Power BI report, please visit https:<i></i>//aka.ms/guidesreport.
 
 ### July 23, 2019
 
