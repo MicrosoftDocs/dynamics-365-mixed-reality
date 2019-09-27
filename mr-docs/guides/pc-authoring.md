@@ -52,17 +52,17 @@ Use these instructions to install the app (if it hasn't already been installed f
 
 2.	In the **Welcome to Guides** screen, select **Sign in**.
 
-    ![Welcome to Guides](media/welcome.PNG "Welcome to Guides")
+    ![Welcome to Guides](media/welcome.png "Welcome to Guides")
     
 3.	In the **Sign in** dialog box, select **Work or school account**, and then select **Continue**. 
 
 4.	In the **Sign in** screen, enter the user account and password assigned to you by your organization. 
 
-    ![Sign-in to the PC app](media/sign-in-pc.PNG "Sign in to the PC app")
+    ![Sign-in to the PC app](media/sign-in-pc.png "Sign in to the PC app")
  
 5.	Select the instance you want to use if there’s more than one instance, and then select **Continue**.
 
-    ![Choose an instance](media/choose-instance-pc.PNG "Choose an instance")
+    ![Choose an instance](media/choose-instance-pc.jpg "Choose an instance")
 
 ## Create a new guide
 
@@ -70,12 +70,12 @@ Use these instructions to install the app (if it hasn't already been installed f
 
 2.	Select **Create new guide**.
 
-     ![Create new guide](media/create-guide.PNG "Create new guide")
+     ![Create new guide](media/create-guide.jpg "Create new guide")
 
 3.	Enter a name for the guide. If you’re planning to create multiple versions of the guide, you might want to add _v2, _v3, and 
 so on as part of the name. 
 
-     ![Name the guide](media/name-guide.PNG "Name the guide")
+     ![Name the guide](media/name-guide.jpg "Name the guide")
 
 ## Saving: how changes are synced between the PC app and HoloLens app
 
@@ -96,7 +96,7 @@ After you choose an anchoring method, you see the **Outline** page. This is wher
 
 When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
 
-![Create a task and step](media/create-task-2.PNG "Create a task and step")
+![Create a task and step](media/create-task-2.jpgG "Create a task and step")
   
 To get started, enter a task name, and then start typing the instructions for the first step in the box. When you need to add a new step, select **Add step**. When you’re ready to add another task, select **Add task**. It’s that simple!
 
@@ -108,7 +108,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
 - A special step called a Completion step that lets operators know when they’ve reached the end of the guide. The Completion step includes default text that you can customize as you see fit.
 
-  ![Outline page](media/completion-step.PNG "Outline page")
+  ![Completion step](media/completion-step.jpg "Completion step")
  
 ### Best practices for the Outline page
 
@@ -124,7 +124,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
 Here’s an example of a filled-out **Outline** page:
 
-![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.PNG "Filled-out Outline page fro Pylon wiring guide")
+![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.png "Filled-out Outline page fro Pylon wiring guide")
   
 ## Create steps and assign content in the Step card page
 
@@ -146,7 +146,7 @@ In the Step card page, you write your instructional text and assign supporting c
 
 2. Drag the object to the appropriate box below the instructional text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit, drag it to one of the **3D parts** boxes. 
 
-   ![Create a step with the Step card](media/drag-object.PNG "Create a step with the step card")
+   ![Create a step with the Step card](media/drag-object.jpg "Create a step with the step card")
 
    > [!NOTE]
    > The collection of boxes below the instructional text is called the “bin.”
@@ -185,7 +185,7 @@ To import your own 3D objects:
 
 2.	Locate the 3D object you want to import, and then select **Open**.
 
-    ![Import custom 3D part](media/import-object.PNG "Import custom 3D part")
+    ![Import custom 3D part](media/import-object.jpg "Import custom 3D part")
     
 > [!NOTE]
 > [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information on the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
@@ -196,7 +196,7 @@ To import your own 3D objects:
  
 The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. Here’s what the models look like:
 
-![List of objects in 3D toolkit](media/3D-toolkit-objects.PNG "List of objects in 3D toolkit")
+![List of objects in 3D toolkit](media/3D-toolkit-objects.png "List of objects in 3D toolkit")
 
 You add a 3D object from the 3D toolkit in the Step card page, and then place it in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. You can use the same object (instance) as many times as you like in a step.
 
@@ -211,7 +211,7 @@ To add an object from the 3D toolkit:
     
 3.	Drag the object you want from the list to a **3D parts** box below the Step card.
 
-    ![Drag object from 3D toolkit](media/3d-part.PNG "Drag object from 3D toolkit")
+    ![Drag object from 3D toolkit](media/3d-part.jpg "Drag object from 3D toolkit")
  
 ### Best practices for 3D toolkit
 
