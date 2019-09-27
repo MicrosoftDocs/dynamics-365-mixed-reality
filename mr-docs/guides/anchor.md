@@ -103,7 +103,7 @@ Digital anchoring involves two basic steps:
 
 1.	Using the PC authoring app, import and assign a 3D model to the digital anchor setup flow. This can be a representation of a physical object or a generic 3D object. A default digital anchor will be used if you don't select a custom 3D model.
 
-2.	Using [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, algin the digital anchor to a physical object in the real world.
+2.	Using [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, align the digital anchor to a physical object in the real world.
 
 To import a 3D model and assign it as the digital anchor using the PC authoring app: 
 
@@ -120,7 +120,7 @@ To import a 3D model and assign it as the digital anchor using the PC authoring 
 5. On step 1, **Assign**, of the anchor wizard, drag the 3D model from the 3D parts section in the bin. This assigns the 3D model as your digital anchor. 
    
 > [!NOTE]
-> It’s a good practice to take a photo or video of the base physical object and location that the operator will align the digital anchor to and upload the photo or video in step 3 of the anchor wizard. You may also want to customize the instrutions in step 4 of the wizard to provide more specific directions on what to align the digital anchor to. 
+> It’s a good practice to take a photo or video of the base physical object and location that the operator will align the digital anchor to and upload the photo or video in step 3 of the anchor wizard. You may also want to customize the instructions in step 4 of the wizard to provide more specific directions on what to align the digital anchor to. 
 
 When you switch to [!include[pn-hololens](../includes/pn-hololens.md)] authoring, you'll use a gesture to place the 3D representation directly over the physical object in your work environment.
 
@@ -128,7 +128,7 @@ When you switch to [!include[pn-hololens](../includes/pn-hololens.md)] authoring
 
 1. Open the guide on HoloLens.
 
-2. When prompted, use air tap and hold to move the digital anchor directly over a phsycial object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
+2. When prompted, use air tap and hold to move the digital anchor directly over a physical object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
 
 ### Best practices for digital anchors
 
