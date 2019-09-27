@@ -47,7 +47,7 @@ Use air tap and hold to move, rotate, or scale holograms when authoring. To air 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or [!include[pn-hololens](../includes/pn-hololens.md)] won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor looks like a ring. When [!include[pn-hololens](../includes/pn-hololens.md)] can't see your hand, the cursor changes to a dot.
 
 ### Need a tutorial on gestures?
-For a tutorial on some basic gestures, close [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] by blooming and selecting **Mixed Reality Home**, use the bloom gesture to go to **Start**, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/en-us/help/13456/hololens-and-holograms-faq).
+For a tutorial on some basic gestures, close [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] by blooming and selecting **Mixed Reality Home**, use the bloom gesture to go to **Start**, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/help/13456/hololens-and-holograms-faq).
 
 ### See also
 

@@ -419,7 +419,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
    
 10. From the list of Dynamics 365 entities, select an opportunity, and then select **Save**.
 
-For more information on setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/basics/teams-install-app).
+For more information on setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/dynamics365/customer-engagement/basics/teams-install-app).
 
 ### Post notes from Dynamics 365 Product Visualize
 

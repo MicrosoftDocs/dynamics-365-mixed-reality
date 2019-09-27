@@ -33,7 +33,7 @@ TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 >   365 that apply to you through your company’s subscription. You may use and
 >   install copies of the software on mixed reality devices you own or control
 >   so long as you have a valid subscription license to Microsoft Dynamics 365
->   Remote Assist.
+>   Dynamics 365 Remote Assist.
 > 
 >   b. **Included Microsoft Applications**. The software may include other
 >   Microsoft applications. These license terms apply to those included

@@ -13,4 +13,4 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-You can convert and optimize 3D CAD models and add them to products in Dynamics 365 Product Visualize. You can convert and optimize your CAD models yourself or you can use Dynamics 365 Import Tool (Preview) to prepare your models. [Learn more about preparing 3D CAD models for use with Dynamics 365 Product Visualize](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/product-visualize).
+You can convert and optimize 3D CAD models and add them to products in Dynamics 365 Product Visualize. You can convert and optimize your CAD models yourself or you can use Dynamics 365 Import Tool (Preview) to prepare your models. [Learn more about preparing 3D CAD models for use with Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/product-visualize).

@@ -68,7 +68,7 @@ You can use the [!include[pn-hololens](../includes/pn-hololens.md)] clicker with
 
 [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] requires users to be signed in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
 
-[Learn about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] Wi-Fi requirements](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool#do-i-need-to-be-connected-to-wi-fi-to-use-dynamics-365-import-tool-preview).
+[Learn about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] Wi-Fi requirements](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool#do-i-need-to-be-connected-to-wi-fi-to-use-dynamics-365-import-tool-preview).
 
 ## Can I change the unit of measure in Dynamics 365 Layout to metric?
 

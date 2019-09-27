@@ -31,7 +31,7 @@ The [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)
 -   [A subscription to Dynamics 365 Remote Assist.](../licensing/buy-and-deploy.md) The [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] subscription includes a subscription to [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)].
 
 -   A [!include[pn-hololens](../includes/pn-hololens.md)] running the [Windows 10 April 2018
-    Update](https://support.microsoft.com/en-us/help/12643) (or later).
+    Update](https://support.microsoft.com/help/12643) (or later).
 
 -   An [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] account.
 

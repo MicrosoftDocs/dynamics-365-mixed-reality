@@ -30,7 +30,7 @@ You can subscribe to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.
 
 -   Through [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx).
 
--   Through [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner).
+-   Through [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/cloud-solution-provider/csp-partner).
 
 When you subscribe to [!include[pn-layout](../includes/pn-layout.md)], you also get the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] as part of the [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] subscription.
 
@@ -42,7 +42,7 @@ When you subscribe to [!include[pn-layout](../includes/pn-layout.md)], you also 
 
 2. Sign in under your company's admin account.
 
-3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/en-us/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
+3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
 
 4. Under **Billing** in the left navigation, select **Purchase services**.
    
@@ -63,7 +63,7 @@ When you subscribe to [!include[pn-layout](../includes/pn-layout.md)], you also 
 
 ## Assign licenses to users
 
-After subscribing (or signing up for a free 30-day trial), you’ll need to assign licenses to users in the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or [Partner Center](https://partner.microsoft.com/en-us/cloud-solution-provider/csp-partner). Each user you
+After subscribing (or signing up for a free 30-day trial), you’ll need to assign licenses to users in the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or [Partner Center](https://partner.microsoft.com/cloud-solution-provider/csp-partner). Each user you
 assign a license to will need an [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account.
 
 ### Assign a license to a user in the Microsoft 365 Admin Center
@@ -113,15 +113,15 @@ see the [Dynamics 365 Layout user guide](../layout/user-guide.md). Users will ne
 
 ### Distribute the app through Microsoft Store for Business
 
-1.  Go to [Microsoft Store for Business](https://businessstore.microsoft.com/en-us/store).
+1.  Go to [Microsoft Store for Business](https://businessstore.microsoft.com/store).
 
-2.  [Acquire the app](https://docs.microsoft.com/en-us/microsoft-store/acquire-apps-microsoft-store-for-business).
+2.  [Acquire the app](https://docs.microsoft.com/microsoft-store/acquire-apps-microsoft-store-for-business).
 
 3.  Choose one of the following distribution methods:
 
-    -   [Private store](https://docs.microsoft.com/en-us/microsoft-store/distribute-apps-from-your-private-store)
-    -   [Email link](https://docs.microsoft.com/en-us/microsoft-store/assign-apps-to-employees)
-    -   [Mobile device management](https://docs.microsoft.com/en-us/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
+    -   [Private store](https://docs.microsoft.com/microsoft-store/distribute-apps-from-your-private-store)
+    -   [Email link](https://docs.microsoft.com/microsoft-store/assign-apps-to-employees)
+    -   [Mobile device management](https://docs.microsoft.com/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
 [Try Dynamics 365 Layout for free for up to 90 days](try-layout-free.md)<br/>
