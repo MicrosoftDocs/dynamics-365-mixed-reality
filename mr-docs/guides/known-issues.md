@@ -97,7 +97,7 @@ Tap and hold the blue outline and move it up or down until it overlaps with the 
  
 The media panel shows the following image to visually indicate what you need to do.
 
-![Adjust printed marker offset](media/adjust-marker-offset.PNG "Adjust printed marker offset")  
+![Adjust printed marker offset](media/adjust-marker-offset.png "Adjust printed marker offset")  
 
 After you have verified that the blue outline and the printed marker are lined up, select **Confirm** to complete the process. 
 
