@@ -100,7 +100,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     > [!NOTE]
     > To go to the Dynamics 365 Administration Center, go to the Microsoft 365 Admin Center (it should be a link to https://admin.microsoft.com/AdminPortal/Home) and select **Admin centers** > **Dynamics 365** as shown below.
    
-   ![Microsoft Admin Center](media/microsoft-admin-center.PNG "Microsoft Admin Center")
+    ![Microsoft Admin Center](media/microsoft-admin-center.PNG "Microsoft Admin Center")
     
 2.	Select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open** as shown here: 
     
