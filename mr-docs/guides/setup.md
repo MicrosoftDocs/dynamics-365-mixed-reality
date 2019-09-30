@@ -95,7 +95,12 @@ The Dynamics Admin Center appears. This is where you can install the solution an
 
 In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB). 
 
-1.	Go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
+1.	Go to the Dynamics 365 Administration Center and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
+
+   > [!NOTE]
+   > To go to the Dynamics 365 Administration Center, go to the Microsoft 365 Admin Center (it should be a link to https://admin.microsoft.com/AdminPortal/Home) and select **Admin centers** > **Dynamics 365** as shown below.
+   
+   ![Microsoft Admin Center](media/microsoft-admin-center.PNG "Microsoft Admin Center")
     
 2.	Select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open** as shown here: 
     
