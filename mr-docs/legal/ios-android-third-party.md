@@ -1,3 +1,13 @@
+---
+author: ReneeW-CPub
+description: Dynamics 365 Remote Assist iOS and Android third-party software notices and information
+ms.author: renwe
+ms.date: 10/01/2019
+ms.service: crm-online
+ms.topic: article
+title: Dynamics 365 Remote Assist iOS and Android third-party software notices and information
+robots: noindex, nofollow
+---
 
 # DYNAMICS 365 REMOTE ASSIST iOS AND ANDROID THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
 NOTICES AND INFORMATION
