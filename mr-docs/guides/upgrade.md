@@ -21,7 +21,7 @@ To upgrade the solution:
 1. Go to the Dynamics 365 Administration Center and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
 
    > [!NOTE]
-   > To go to the Dynamics 365 Administration Center, go to the Microsoft 365 Admin Center (it should be a link to https://admin.microsoft.com/AdminPortal/Home) and select **Admin centers** > **Dynamics 365** as shown below.
+   > To go to the Dynamics 365 Administration Center, go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home), and then select **Admin centers** > **Dynamics 365** as shown below.
    
    ![Microsoft Admin Center](media/microsoft-admin-center.PNG "Microsoft Admin Center") 
 
