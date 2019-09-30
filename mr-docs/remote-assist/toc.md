@@ -14,5 +14,7 @@
 ## Legal documents
 ### [Dynamics 365 Remote Assist software license terms](../legal/remote-assist-license-terms.md)
 ### [Dynamics 365 Remote Assist free trial software license terms](../legal/remote-assist-license-terms-free-trial.md)
-### [Dynamics 365 Remote Assist Mobile Preview license terms](../legal/remote-assist-mobile-terms.md)
+### [Dynamics 365 Remote Assist Android Mobile license terms](../legal/remote-assist-mobile-android.md)
+### [Dynamics 365 Remote Assist iOS Mobile license terms](../legal/remote-assist-mobile-iOS.md)
 ### [Third-party notices](../legal/remote-assist-third-party-notice.md)
+### [iOS and Android third-party notices](../legal/ios-android-third-party.md)
