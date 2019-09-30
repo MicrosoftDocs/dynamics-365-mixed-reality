@@ -147,7 +147,7 @@ In addition to the above, Wi-Fi connectivity requirements depend on the method t
 
 - **Import using this PC**. When users choose this option to import models, a Wi-Fi connection is not required.
 
-- **Send my model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**. When users choose this option to import models, a Wi-Fi connection is required. To understand how your models are processed by [!include[cc-microsoft](../includes/cc-microsoft.md)], see [What happens to my model when I send it to Microsoft?](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool#what-happens-to-my-model-when-i-send-it-to-microsoft). 
+- **Send my model to [!include[cc-microsoft](../includes/cc-microsoft.md)]**. When users choose this option to import models, a Wi-Fi connection is required. To understand how your models are processed by [!include[cc-microsoft](../includes/cc-microsoft.md)], see [What happens to my model when I send it to Microsoft?](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool#what-happens-to-my-model-when-i-send-it-to-microsoft). 
 
 ### See also
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>

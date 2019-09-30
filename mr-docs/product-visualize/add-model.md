@@ -1,19 +1,19 @@
 ---
 author: mamithan
-description: How to add your own custom 3D models to an existing Dynamics 365 for Sales product
+description: How to add your own custom 3D models to an existing Dynamics 365 Sales product
 ms.author: mamithan
 ms.date: 04/19/2019
 ms.service: crm-online
 ms.topic: article
-title: Add your own 3D model to an existing Dynamics 365 for Sales product
+title: Add your own 3D model to an existing Dynamics 365 Sales product
 ms.reviewer: v-brycho
 ---
 
-# Add your own 3D model to an existing Dynamics 365 for Sales product 
+# Add your own 3D model to an existing Dynamics 365 Sales product 
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your local device, it’s simple to add it to a product included in a Dynamics 365 for Sales opportunity from Microsoft Dynamics 365 Product Visualize (in preview).
+If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your local device, it’s simple to add it to a product included in a Dynamics 365 Sales opportunity from Microsoft Dynamics 365 Product Visualize (in preview).
 
 > [!NOTE]
 > 3D models must be in GLB format to link them to a product. 

@@ -23,7 +23,7 @@ After you're signed in, you can access any and all features and capabilities in 
 
 3. Download and install the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] app.
 
-4. Start the app, and then sign in to [!include[pn-teams](../includes/pn-teams.md)] with your [!include[pn-azure](../includes/pn-azure.md)] AD credentials. If you don't already have a [!include[pn-teams](../includes/pn-teams.md)] account and an [!include[pn-azure](../includes/pn-azure.md)] AD account, the app will prompt you to create free accounts. Or you can [go to this website to sign up for your free Teams and Azure AD accounts](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
+4. Start the app, and then sign in to [!include[pn-teams](../includes/pn-teams.md)] with your [!include[pn-azure](../includes/pn-azure.md)] AD credentials. If you don't already have a [!include[pn-teams](../includes/pn-teams.md)] account and an [!include[pn-azure](../includes/pn-azure.md)] AD account, the app will prompt you to create free accounts. Or you can [go to this website to sign up for your free Teams and Azure AD accounts](https://businessstore.microsoft.com/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### See also
 

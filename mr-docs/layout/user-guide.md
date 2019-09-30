@@ -27,14 +27,14 @@ Need more help? [Check out the Dynamics 365 Layout FAQ](faq.md) for answers to c
     > [!TIP]
     > You can try [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] for free for up to 90 days. [Learn more about the free 90-day Dynamics 365 Layout trial](try-layout-free.md).
 
--   A [HoloLens](https://www.microsoft.com/hololens) device running the [Windows 10 April 2018 Update](https://support.microsoft.com/en-us/help/12643) and/or
+-   A [HoloLens](https://www.microsoft.com/hololens) device running the [Windows 10 April 2018 Update](https://support.microsoft.com/help/12643) and/or
     a [Windows Mixed Reality immersive
-    headset](https://www.microsoft.com/en-us/windows/windows-mixed-reality). 
+    headset](https://www.microsoft.com/windows/windows-mixed-reality). 
 
 -   A [Windows Mixed Reality–ready
-    PC](https://www.microsoft.com/en-us/windows/windows-mixed-reality-devices#wmrpcs)
+    PC](https://www.microsoft.com/windows/windows-mixed-reality-devices#wmrpcs)
     running the [Windows 10 April 2018
-    Update](https://support.microsoft.com/en-us/help/4028685).
+    Update](https://support.microsoft.com/help/4028685).
 
 -   An internet connection.
 
@@ -90,7 +90,7 @@ also add your own.
 
 There are two ways to create a layout:
 
--   Use [Microsoft Visio](https://products.office.com/en-us/visio/) to design a
+-   Use [Microsoft Visio](https://products.office.com/visio/) to design a
     floor plan, and then export it to [!include[pn-hololens](../includes/pn-hololens.md)] or [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed Reality.
 
 -   Use [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] on your [!include[pn-hololens](../includes/pn-hololens.md)] to scan a space.

@@ -45,7 +45,7 @@ Before accessing the Windows Device Portal, you need to set it up on HoloLens:
  
 ## Connect with Wi-Fi
 
-1.	[Connect your HoloLens to Wi-Fi](https://docs.microsoft.com/en-us/windows/mixed-reality/connecting-to-wi-fi-on-hololens).
+1.	[Connect your HoloLens to Wi-Fi](https://docs.microsoft.com/windows/mixed-reality/connecting-to-wi-fi-on-hololens).
 
 2.	Look up your device's IP address.
 
@@ -59,7 +59,7 @@ Before accessing the Windows Device Portal, you need to set it up on HoloLens:
 
 ## Connect with USB
 
-1.	[Install the tools](https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools) to make sure you have Visual Studio Update 1 with the Windows 10 developer tools installed on your PC. This enables USB connectivity.
+1.	[Install the tools](https://docs.microsoft.com/windows/mixed-reality/install-the-tools) to make sure you have Visual Studio Update 1 with the Windows 10 developer tools installed on your PC. This enables USB connectivity.
 
 2.	Connect your HoloLens device to your PC with a micro-USB cable.
 

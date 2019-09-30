@@ -49,7 +49,7 @@ If you want to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365
 
 ### Step 1: Sign up for a Microsoft Teams account (free)
 
-A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account is required to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. If you don’t already have a [!include[pn-teams](../../includes/pn-teams.md)] account, you can [create a Teams account for free](https://businessstore.microsoft.com/en-us/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
+A [!include[pn-microsoft-teams](../../includes/pn-microsoft-teams.md)] account is required to use [!include[pn-dyn-365-remote-assist](../../includes/pn-dyn-365-remote-assist.md)] for mobile. If you don’t already have a [!include[pn-teams](../../includes/pn-teams.md)] account, you can [create a Teams account for free](https://businessstore.microsoft.com/create-account/signup?products=CFQ7TTC0K8P5:0001&lm=deeplink&lmsrc=freePageWeb&cmpid=FreemiumSignUpHeader). 
 
 ### Step 2: Download the app
 
@@ -231,6 +231,6 @@ You can also provide feedback directly from the app by using the following proce
 
 ### See also
 
-
 [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](../troubleshoot-field-service.md)
+
 
