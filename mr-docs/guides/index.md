@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview of Dynamics 365 Guides
 
-[Watch a video to get a quick overview of Dynamics 365 Guides](https://aka.ms/overview)
+[Watch a video to get a quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)
 
 ![Engine graphic](media/overview.PNG "Engine graphic") 
 
