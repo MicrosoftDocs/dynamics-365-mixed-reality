@@ -57,6 +57,10 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
 
+## How do I limit users to a particular Dynamics 365 Guides instance?
+
+You can limit user access to instances by using security groups, managed from the Microsoft 365 Admin Center. For more information, see [Restrict User Access to a D365 instance using Security Groups](https://community.dynamics.com/365/b/d365demystified/posts/restrict-user-access-to-a-d365-instance-using-security-groups) and [Control user access to instances: security groups and licenses](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/add-instance-subscription#control-user-access-to-instances-security-groups-and-licenses).
+
 ## I get an error message when I try to sign in to the PC app or [!include[pn-hololens](../includes/pn-hololens.md)] app
 
 The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution package (which includes the built-in library of 3D content) needs to be installed on your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account. Every user must also have a license to use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] product. If your organization is already subscribed to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you or your admin can easily provide access to the apps. For more information, [see the Setup topic](setup.md).
