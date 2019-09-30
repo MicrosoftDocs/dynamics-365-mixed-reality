@@ -17,4 +17,4 @@
 ### [Dynamics 365 Remote Assist Android Mobile license terms](../legal/remote-assist-mobile-android.md)
 ### [Dynamics 365 Remote Assist iOS Mobile license terms](../legal/remote-assist-mobile-iOS.md)
 ### [Third-party notices](../legal/remote-assist-third-party-notice.md)
-### [iOS and Android third-party notices](../legal/ios-android-third-party-notices.md)
+### [iOS and Android third-party notices](../legal/ios-android-third-party.md)
