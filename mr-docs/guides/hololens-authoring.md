@@ -282,7 +282,7 @@ Up/down rotation
 
 #### Change the size of a hologram after placing it
 
-- Air tap and hold the **Scale Hologram** button, and then move your hand up or down.  
+- Air tap and hold the **Scale Hologram** control, and then move your hand up or down.  
 
    ![Change hologram size](media/scale-hologram.PNG "Change hologram size")
 
