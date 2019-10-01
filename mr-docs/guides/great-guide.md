@@ -343,8 +343,6 @@ Shoot videos from a third-person or first-person perspective.
 
 - Use numbers for sequencing within a step. Example: "First pull the lever (1), and then place it in the key hole (2)."
 
-  ![Example of number sequencing](media/number-sequencing.PNG "Example of number sequencing")
-
 - Don't use numbers to identify parts in the world. Example: "Pick up the screwdriver (1) and the socket wrench (2)."
 
 - Don't use numbers to communicate how many of something to get. Example: "Pick up 3 screws" where holographic number 3 is next to screws.
