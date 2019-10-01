@@ -179,8 +179,7 @@ validation examples include:
           
    - "Make sure the text is upside down when screwing it in."
           
-   - "Make sure the front of the machine is facing you and aligns to the top-right corner of the table before continuing on to 
-          the next step."
+   - "Make sure the front of the machine is facing you and aligns to the top-right corner of the table before continuing on to the next step."
           
   –	Auditory validation
        
@@ -344,8 +343,6 @@ Shoot videos from a third-person or first-person perspective.
 
 - Use numbers for sequencing within a step. Example: "First pull the lever (1), and then place it in the key hole (2)."
 
-  ![Example of number sequencing](media/number-sequencing.PNG "Example of number sequencing")
-
 - Don't use numbers to identify parts in the world. Example: "Pick up the screwdriver (1) and the socket wrench (2)."
 
 - Don't use numbers to communicate how many of something to get. Example: "Pick up 3 screws" where holographic number 3 is next to screws.
@@ -498,7 +495,7 @@ Shoot videos from a third-person or first-person perspective.
 
   Bad example:
 
-  ![Bad exampleo anchoring](media/bad-example-anchoring.PNG "Bad example of anchoring")
+  ![Bad example of anchoring](media/bad-example-anchoring.PNG "Bad example of anchoring")
 
 - Important orientation that could impact alignment of future steps can be coupled with visual guides via photos or custom holograms and text reminders to check their positioning.
 

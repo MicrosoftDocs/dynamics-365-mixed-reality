@@ -19,7 +19,7 @@ So you’ve set up [!include[cc-microsoft](../includes/cc-microsoft.md)] [!inclu
 
 To start the demo:
 
-1. Air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] logo.
+1. Air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile.
 
    ![Dynamics 365 Guides logo](media/Logo.png "Dynamics 365 Guides logo")
 

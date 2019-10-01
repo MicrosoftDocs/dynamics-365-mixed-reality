@@ -206,7 +206,7 @@ To place a dotted line:
 
 In this stage of the process, you’ll walk through each step in your guide and place any assets that you associated with that step when you authored it in the PC application. For example, if you added a 3D part to support a step, you’ll place that part over its physical counterpart in the real world. If you added a 3D object from the 3D toolkit (an arrow or a number, for example), you’ll place that object in an appropriate place in the real world to draw the user’s focus. You can place the same 3D part or 3D object as many times as you want.
 
-You don’t need to do anything to place images or videos associated with a step. They automatically appear when the operator goes to the step.
+You don’t need to do anything to place an image or a video associated with a step. They automatically appear when the operator goes to the step.
 
 The 3D assets associated with each step appear below the Step card in *the bin*:
 
@@ -236,32 +236,34 @@ To place a 3D model from one of your bins:
 
 1.	Air tap a 3D model to add it to your real world. It will appear in your world in front of the Step card.
 
-2.	Raise your hand to the ready gesture and gaze at the model to select it. The way you can tell if it’s selected is that the 3D selection sphere appears around it.
+2.	Raise your hand to the ready gesture and gaze at the model to preview it. The way you can tell if it’s in a preview state is that the 3D controls appear around it.
 
-3.	Once the object is selected, air tap + hold anywhere on the selection sphere to pick up the model.
+    If you put your hand down, the 3D controls will go away. This way, if you're just looking at holograms, the controls won't get in your way. You need to look at the part as well as put your hand up in the ready position.
 
-4.	Move the model where you want it to go.
+3. With the controls visible, air tap + hold anywhere on the move control to pick up the model. Move the model where you want it to go and release to place the model.
 
+> [!NOTE]
+> When you tap a 3D part to move it, you select it at the same time. When it's selected, when you put your hand down, the 3D controls remain until you preview or select another part, or air tap anywhere in empty space.
  
 #### Rotate a hologram
 
-It’s unlikely an asset will be at the correct orientation when you initially place or move it. Use the rotation adjustment knobs to rotate it the way you want.
+It’s unlikely an asset will be at the correct orientation when you initially place or move it. Use the rotation controls to rotate it the way you want.
 
 To rotate a hologram:
 
-- Air tap and hold on a rotation adjustment, and then do one of the following:
+- Air tap and hold a rotation control, and then do one of the following:
 
-  - Use the up/down knob to rotate vertically.
+  - Use the up/down sphere to rotate vertically.
   
-  - Use the left/right knob to rotate horizontally.
+  - Use the left/right sphere to rotate horizontally.
   
-  - Use the free-hand knob to rotate in any direction.
+  - Use the free-hand sphere to rotate in any direction.
 
 >[!Tip]
-> Gazing at any of the gizmo knobs will let you know which direction the knob will rotate.
+> Gazing at any of the spheres will let you know which direction the sphere will rotate.
 
-When rotating, it helps to think as if you are physically grabbing the knob and rotating around the object, like a wheel.
-The following graphics show how to use the different rotation knobs:
+When rotating, it helps to think as if you are physically grabbing the sphere and rotating around the object, like a wheel.
+The following graphics show how to use the different rotation controls:
 
 Free rotation
 
@@ -280,7 +282,7 @@ Up/down rotation
 
 #### Change the size of a hologram after placing it
 
-- Air tap and hold the **Scale Hologram** button, and then move your hand up or down.  
+- Air tap and hold the **Scale Hologram** control, and then move your hand up or down.  
 
    ![Change hologram size](media/scale-hologram.PNG "Change hologram size")
 

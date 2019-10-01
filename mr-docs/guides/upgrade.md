@@ -18,8 +18,12 @@ This topic is for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!includ
 
 To upgrade the solution:
 
-1. Go to the [Dynamics 365 administration center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), and then sign in with 
-your administrator credentials. If you created new credentials when signing up, these credentials should have administrator permissions. 
+1. Go to the Dynamics 365 Administration Center and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
+
+   > [!NOTE]
+   > To go to the Dynamics 365 Administration Center, go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home), and then select **Admin centers** > **Dynamics 365** as shown below.
+   
+   ![Microsoft Admin Center](media/microsoft-admin-center.PNG "Microsoft Admin Center") 
 
 2. Select the **Instances** tab, and then choose an instance that has the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution installed.
 

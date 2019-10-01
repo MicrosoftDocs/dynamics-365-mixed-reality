@@ -11,13 +11,13 @@ ms.reviewer: v-brycho
 
 # Operator's manual for Dynamics 365 Guides
 
-[Watch a video on operating a guide](https://aka.ms/guidesoperate).
+[Watch a video on operating a guide](https://aka.ms/guidesoperate)
 
 Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! This operator's manual is designed to help operators understand how to use a holographic guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It describes everything that you, as the operator, need to know about the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
 
 ![Operator at work](media/operator-at-work.PNG "Operator at work")
 
-## First things first–calibrate your HoloLens 
+## First things first – calibrate your HoloLens 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device. You can do this by using the Calibration app that comes with your [!include[pn-hololens](../includes/pn-hololens.md)]. 
 
 ![HoloLens Calibration app](media/calibration.PNG "HoloLens Calibration app")  
@@ -48,7 +48,7 @@ To navigate through a guide, you’ll use your gaze and a few gestures.
 
 ### Gaze 
 
-Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is pretty much as easy as it sounds. In some cases, you can select an item (an app, menu, or button, for example) just by gazing at a selection box next to the item. For example, when you first start the [!include[pn-hololens](../includes/pn-hololens.md)] app, you’ll gaze at the box to the left of **Operate** in the following dialog box to select Operate mode.
+Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is pretty much as easy as it sounds. In some cases, you can select an item (an app, menu, or button, for example) just by gazing at a selection box next to the item. For example, when you first start the [!include[pn-hololens](../includes/pn-hololens.md)] app, you’ll gaze at the box to the left of **Operate** in the following dialog box to select **Operate** mode.
 
 ![Example of using gaze](media/gaze-example.PNG "Example of using gaze")  
 
@@ -135,7 +135,7 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 
 9.  In the **Select Mode** dialog box, gaze at the box to the left of **Operate** until the box fills, which selects that item. 
 
-    ![Select Operate mode](media/select-mode.PNG "Select Operate mode")
+    ![Select Operate mode](media/select-mode.jpg "Select Operate mode")
    
 ### Anchor your guide 
 The first thing you see when you open a guide is the anchoring instructions for the guide.  
@@ -159,7 +159,7 @@ There are two types of anchors: a printed anchor and a digital anchor. The way y
 
 2. On your HoloLens [!include[pn-hololens](../includes/pn-hololens.md)], you’ll see a hologram that looks very similar to the printed anchor. Find the printed anchor in your real-world environment, and then align the anchor hologram with the printed anchor.    
    
-3. When the green box is aligned to the printed anchor, select **Confirm**.
+3. When the green box is aligned to the printed anchor, gaze at **Confirm** to select it.
 
    ![Holographic marker](media/align-marker.PNG "Holographic marker") 
 
@@ -185,11 +185,11 @@ When you align your guide, if you’re using the [!include[cc-microsoft](../incl
 
 When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card “tags along” with you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
 
-![Step card with Next Step and Go Back buttons](media/step-card-basic-1.PNG "Step card with Next Step and Go Back buttons")  
+![Step card with Next Step and Go Back buttons](media/step-card-basic-1.jpg "Step card with Next Step and Go Back buttons")  
 
 In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
 
-![Step card buttons](media/step-card-orientation-2.PNG "Step card buttons")
+![Step card buttons](media/step-card-orientation-2.jpg "Step card buttons")
    
 
 Here’s a description of the buttons and other UI elements in the Step card:
@@ -202,14 +202,14 @@ Here’s a description of the buttons and other UI elements in the Step card:
 |D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
 |E|![Pin button](media/pin-button.PNG "Pin button")|Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around. You can pin or unpin it any time you want.|
 |F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
-|G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for Example Guide:</br><br>![HoloLens Outline page](media/example-guide-operator.PNG "HoloLens Outline page")| 
+|G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for the Pylon wiring guide:</br><br>![HoloLens Outline page](media/outline.jpg "HoloLens Outline page")| 
 |H|![Task progress](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
 |I|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task you're working on.| 
  
 ## Use a dotted line to help you find the focus area for a step 
 Step cards are linked by holographic dotted lines to physical areas in your work area. These dotted lines help you find the area where you need to take an action. 
 
-![Holographic dotted line](media/tether-example.PNG "Holographic dotted-line")
+![Holographic dotted line](media/dotted-line.jpg "Holographic dotted-line")
 
 ### Dotted line tips and tricks 
 
@@ -222,17 +222,18 @@ Note that the dotted line might go through real-world objects at times.
 
 You’ll notice that wherever you look, the Step card follows your gaze—it “tags along.” As you’re working, you never have to worry about where your instructions are. You can pin the Step card, however, if you want to turn off the tag-along feature. To pin the Step card, select **Pin**. Once it’s pinned, you can grab it and move it wherever you like. 
 
-![Pin button on HoloLens screen](media/step-card-basic.PNG "Pin button on HoloLens screen")
+![Pin button on HoloLens screen](media/pin.jpg "Pin button on HoloLens screen")
 
 ## Turn off holograms 
 You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the dotted line. 
 
-![Turn off holograms](media/tether-example.PNG "Turn off holograms")  
+![Turn off holograms](media/dotted-line-toggle-visibility.jpg "Turn off holograms")  
 
 ## Useful links for more information
 
 That's all the info you need to use a guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! To learn more about [!include[cc-microsoft](../includes/cc-microsoft.md)] mixed-reality apps and [!include[pn-hololens](../includes/pn-hololens.md)], here are some helpful links: 
 
+- [Watch a video on operating a guide](https://aka.ms/guidesoperate)
 - [What is mixed reality?](https://docs.microsoft.com/windows/mixed-reality/mixed-reality)
 - [Microsoft Dynamics 365 Layout](https://dynamics.microsoft.com/mixed-reality/layout/)
 - [Microsoft Dynamics 365 Remote Assist](https://dynamics.microsoft.com/mixed-reality/remote-assist/)
