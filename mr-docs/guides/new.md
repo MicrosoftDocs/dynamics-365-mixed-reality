@@ -1,20 +1,35 @@
 ---
 author: makamat
-description: Describes the new features in Dynamics 365 Guides (Preview), organized by release date
+description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 09/10/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: What's new in Dynamics 365 Guides (Preview)
+title: What's new in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-## What's new in Dynamics 365 Guides (Preview)
+## What's new in Dynamics 365 Guides
 
-This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] organized by release date.  
+This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date.  
 
-> [!IMPORTANT]
-> The next release planned for October will require all customers to do a mandatory update of the Dynamics 365 Guides apps and solution. Please work with your IT admin to plan downtime for this update.
+### October 1, 2019
+
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is now generally available (GA)! The October 1, 2019 updates for the PC app, HoloLens app, and Common Data Service solution need to be installed to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Upgrades will continue to work with your preview license until it expires. To check your preview license expiration date, go to https:<i></i>//admin.microsoft.com/, and then select **Billing** in settings to ensure continuity.
+
+New customers must acquire a new GA license. Please go to aka.ms/GetGuides for information on licenses, installation, and upgrades.
+
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 200.1909.24001 and solution version 200.0.0.102 include the following updates:
+
+- **Try the demo.** You can now try an out-of-box sample guide on the HoloLens app without signing up for a license or authoring a guide yourself.
+
+- **Customer satisfaction surveys.** We will occasionally ask you to rate your satisfaction with the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to help us improve the product.
+
+- **Opt out of sending data to Microsoft.** On both PC and HoloLens apps, for privacy reasons, you can turn off the ability to send telemetry data to Microsoft. 
+
+- **Opt out of sending usage data to your organization.** To prevent usage data from showing in Power BI dashboards, administrators can now turn this off for specific users.
+
+The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
 
 ### August 27, 2019
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1908.24001 and solution version 104.1908.0.117 includes the following updates:
@@ -26,12 +41,12 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 - **Support for additional languages**. The PC app and the HoloLens app now support the following languages: English (US, UK), French (France, Canada), German, Dutch (Netherlands), Spanish, Italian, Chinese (People’s Republic of China, Taiwan, Hong Kong SAR), Japanese, and Korean.
 
 > [!NOTE]
-> To get this update, you need to update the PC app and the [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] store. Updating the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution is not mandatory, but you need to update it if you intend to use the app in the newly supported languages. 
+> To get this update, you need to update the PC app and the [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store. Updating the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution is not mandatory, but you need to update it if you intend to use the app in the newly supported languages. 
 
 ### August 6, 2019
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.1908.2001.0 fixes an issue in the July 23rd release of the [!include[pn-hololens](../includes/pn-hololens.md)] app that prevented the list of guides from being shown in the [!include[pn-hololens](../includes/pn-hololens.md)] application for Europe, Middle East, and Asia-based customers. We also released an updated version of the Power BI reporting template that fixes a bug related to missing data causing the report to break.
 
-To get this update, you only need to update the [!include[pn-hololens](../includes/pn-hololens.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] store. You don't need to update the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution. For the Power BI report, please visit https:<i></i>//aka.ms/guidesreport.
+To get this update, you only need to update the [!include[pn-hololens](../includes/pn-hololens.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store. You don't need to update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. For the Power BI report, please visit https:<i></i>//aka.ms/guidesreport.
 
 ### July 23, 2019
 
@@ -65,8 +80,8 @@ If you choose to create a guide using a digital anchor, you can now use a pre-se
 before proceeding.
 
 > [!NOTE]
-> To take advantage of the new anchoring improvements, you must update the [!include[pn-dyn-365-guides-preview](../includes/pn-dyn-365-guides-preview.md)] solution in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] 
-admin center. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides (Preview) solution</a> or contact your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] administrator.
+> To take advantage of the new anchoring improvements, you must update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] 
+admin center. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides solution</a> or contact your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] administrator.
 
 For more information on authoring a guide with the PC application, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-authoring" target="_blank">Use the PC authoring application to create a guide</a>.
 

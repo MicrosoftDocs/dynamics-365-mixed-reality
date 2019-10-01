@@ -2,7 +2,7 @@
 author: erhong
 description: How to show or hide layers in a 3D model in Dynamics 365 Product Visualize 
 ms.author: erhong
-ms.date: 07/23/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Show or hide layers in a 3D model in Dynamics 365 Product Visualize 
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-A single 3D model in Dynamics 365 Product Visualize consists of one or more layers, which you can think of as categorized objects often grouped by function or location. 
+A single 3D model in Microsoft Dynamics 365 Product Visualize consists of one or more layers, which you can think of as categorized objects often grouped by function or location. 
 
 You can create layers in model design software tools, such as CAD. You can build layers in a nested or flattened format. 
 

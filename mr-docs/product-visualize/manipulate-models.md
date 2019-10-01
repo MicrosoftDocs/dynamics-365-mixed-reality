@@ -2,7 +2,7 @@
 author: mamithan
 description: How to place, resize, rotate, move, and lift 3D models in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 07/23/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Place and manipulate 3D models in Dynamics 365 Product Visualize
@@ -18,7 +18,7 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 ![Opportunities, products, and 3D models](media/manipulating-3D-models.PNG "Opportunities, products, and 3D models")
 
 > [!NOTE]
-> If you're the administrator, to learn how to add 3D models to Dynamics 365 for Sales, see the [Administrator guide](admin-guide.md).
+> If you're the administrator, to learn how to add 3D models to Dynamics 365 Sales, see the [Administrator guide](admin-guide.md).
 
 ## View a 3D model in mixed reality 
 
@@ -28,7 +28,7 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
 3.	Select the 3D model that you want to view.
 
-4.	In a brightly lit environment, point your device down toward a flat surface like the floor or a desk. Move your device around slowly to allow Product Visualize to find the surface. 
+4.	In a brightly lit environment, point your device down toward a flat surface like the floor or a desk. Move your device around slowly to allow Dynamics 365 Product Visualize to find the surface. 
 
     ![Advice on finding a plane](media/find-plane.PNG "Advice on finding a plane")
 

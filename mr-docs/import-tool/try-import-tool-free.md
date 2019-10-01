@@ -22,9 +22,9 @@ You can try [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-d
 3. Download and install the app.
 
 4. Start the app, and then sign in with an [!include[pn-azure](../includes/pn-azure.md)] AD account. If you don't already have an [!include[pn-azure](../includes/pn-azure.md)] AD account, the app prompts you to 
-create a free account. Or you can [sign up for a free Azure AD account at this website](https://azure.microsoft.com/en-us/free/). 
+create a free account. Or you can [sign up for a free Azure AD account at this website](https://azure.microsoft.com/free/). 
 
 ### See also
 
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
-[Buy and deploy Dynamics 365 Layout and Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/buy-and-deploy-layout)
+[Buy and deploy Dynamics 365 Layout and Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/layout/buy-and-deploy-layout)

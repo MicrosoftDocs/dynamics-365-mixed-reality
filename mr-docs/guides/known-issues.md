@@ -1,17 +1,19 @@
 ---
 author: BryceHo
-description: Known Issues with Dynamics 365 Guides (Preview)
+description: Known Issues with Dynamics 365 Guides
 ms.author: makamat
-ms.date: 07/23/2019
+ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Known Issues with Dynamics 365 Guides (Preview)
+title: Known Issues with Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Known issues with Microsoft Dynamics 365 Guides (Preview)
+# Known issues with Microsoft Dynamics 365 Guides
 
-[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+## October 1 release improvements for 3D model positioning may shift models in existing guides
+
+The October 1 release includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
  
 ## Keep file names for 3D models and media short
 
@@ -23,10 +25,6 @@ Large 3D models are stored in [!include[pn-hololens](../includes/pn-hololens.md)
 
 While you can author the same guide on PC and [!include[pn-hololens](../includes/pn-hololens.md)], we strongly recommend that you not edit the same guide on two separate PCs. This can cause synchronization issues, and you might lose changes made in one of the PC sessions.
 
-## Example guide images and video still show older version of HoloLens user interface
-
-The Example Guide will be revised in a later release. Until then, note that the images and video in the Example Guide show the older version of the [!include[pn-hololens](../includes/pn-hololens.md)] user interface (version 103.1905.31001 or earlier).
-
 ## Text wrapping on PC and HoloLens might differ in rare cases
 
 In rare cases, you might notice that text is wrapped on the step card view in [!include[pn-hololens](../includes/pn-hololens.md)] but not on the PC. This is because [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] renders fonts at different sizes for readability between PC and [!include[pn-hololens](../includes/pn-hololens.md)], and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the [!include[pn-hololens](../includes/pn-hololens.md)] app before sharing your guides with operators.
@@ -35,46 +33,25 @@ In rare cases, you might notice that text is wrapped on the step card view in [!
 
 We recommend you don't open a guide on [!include[pn-hololens](../includes/pn-hololens.md)] while editing the alignment step for the same guide on a PC. In this case, the [!include[pn-hololens](../includes/pn-hololens.md)] app will refresh automatically, but it won't be able to open the guide.
 
-## Offline use is not supported
-At this time, offline use in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps is not supported. Also, you must have an active and reliable internet connection to use the apps. 
+## When authoring on HoloLens 2, authors need to air tap to select 3D models before editing
 
-## Recalibrating takes you back to the first step
-
-If you’re using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] application, and you select the **Anchor** button from any step to recalibrate your [!include[pn-hololens](../includes/pn-hololens.md)], after recalibrating, you’ll land on the first step of your guide. This is by design. You (or the operator) will want to recheck all steps after recalibrating, as this can change hologram alignment.
-
-## Voice commands not tested thoroughly
-
-We haven’t tested voice commands thoroughly for different accents or gender, which means they might not work in some cases. We’ll test voice commands thoroughly in a later release.
-
-## Instruction cards and holograms may render inside objects in the real world
-
-The [!include[pn-hololens](../includes/pn-hololens.md)] app uses understanding of the environment to render holograms, but it doesn’t use this information to render the instruction cards (Step cards). As a result, at this time, instruction cards may sometimes render inside objects in the real world. 
-
-## IPD settings are not saved for each user
-
-At this time, interpupillary distance (IPD) settings aren’t saved automatically for each user. For now, we don’t recommend sharing a [!include[pn-hololens](../includes/pn-hololens.md)] device. If you need to share a device, make sure to recalibrate [!include[pn-hololens](../includes/pn-hololens.md)] whenever you switch users. Note that multiple users can share the same [!include[pn-hololens](../includes/pn-hololens.md)] device if their IPDs are similar. 
-
-## No way to secure a guide
-Currently, we don’t support permissions or versioning; therefore, anyone assigned a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license in your organization will be able to open or edit a guide.
+On HoloLens 2, selection mode appears after you air tap 3D models rather than when you gaze at them. After air tapping, you can tap and hold to move, use the gizmos to rotate, or explore edit options. HoloLens 1 will continue to support the former behavior where you gaze at 3D models to select them.
 
 ## Recent guides list isn’t scoped to user
 The **Recent** list of guides is currently not scoped to the user accessing it. This will be supported in a later release.
 
-## Search is not supported at this time
-At this time, you can’t search for a guide in the list in either application. 
-
 ## When placing large assets on HoloLens, you might see minor loading delays
 The [!include[pn-hololens](../includes/pn-hololens.md)] app currently loads the guide right after you open it, and in the background as you use the guide. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
 
-## Guides can’t be renamed or deleted
+## Guides can’t be renamed or deleted from the PC app
 
 At this time, renaming or deleting guides is not supported.
 
 ## You can create guides with the same name without overwriting old guides
 
-You can create multiple guides with the same name. While this prevents unintentional overwrites of old files, it's confusing when you choose a guide from a list. We recommend looking up the names of existing guides when creating new ones.
+You can create multiple guides with the same name. While this prevents unintentional overwrites of old files, it's confusing when you choose a guide from a list. When you create a new guide, make sure to use a unique name.
 
-## 3D content and media cannot be renamed or deleted after uploading
+## 3D content and media cannot be renamed or deleted from the PC app after uploading
 
 At this time, we do not support renaming or deleting 3D content and media once they have been uploaded to the server. While it’s possible to rename them in [!include[pn-dyn-365](../includes/pn-dyn-365.md)], doing so can have unintended consequences on any guides that use this content.
 
@@ -82,19 +59,11 @@ At this time, we do not support renaming or deleting 3D content and media once t
 
 We do not support multiple files with the same name in the current release. When uploading new 3D models or media, check to make sure a file with the same name does not exist in the library. You can, however, have different types of files with the same name—for example, a bolt.png image and a bolt.glb 3D model.
 
-## Can’t use the same name for more than one guide
-
-When you create a new guide, make sure to use a unique name. If you use a name that’s already used for another guide, it won’t overwrite the other guide, but the app won’t be able to tell which guide to open the next time.
-
 ## Can’t use the same name for 3D parts that you upload, even if they have different extensions
 
 The app currently looks up media by file names. So, for example, if you have a picture.jpg file and a picture.png, the app doesn’t know which file to show for the step. So it’s best to always use unique file names for media files you upload.
 
-## Uploading new 3D models with names matching any of the pre-packaged models in the 3D toolkit will overwrite the files in the 3D toolkit
-
-Avoid using any names for your custom 3D models that match model names in the 3D toolkit.
-
-## Addressing hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for printed anchor alignment
+## How do I address hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for printed anchor alignment
  
 The angle of each [!include[pn-hololens](../includes/pn-hololens.md)] 1 PV camera (the camera placed above the nose bridge) can be slightly different across devices due to manufacturing idiosyncrasies. Since the PV camera is used to scan the printed marker, this means holograms can appear slightly misaligned when using the same guide and same printed marker on multiple devices.
  
@@ -128,7 +97,7 @@ Tap and hold the blue outline and move it up or down until it overlaps with the 
  
 The media panel shows the following image to visually indicate what you need to do.
 
-![Adjust printed marker offset](media/adjust-marker-offset.PNG "Adjust printed marker offset")  
+![Adjust printed marker offset](media/adjust-marker-offset.png "Adjust printed marker offset")  
 
 After you have verified that the blue outline and the printed marker are lined up, select **Confirm** to complete the process. 
 
@@ -256,5 +225,5 @@ Please contact customer service: [https://docs.microsoft.com/dynamics365/get-sta
 
 ### See also
 
-[Dynamics 365 Guides in preview FAQ](faq.md)
+[Dynamics 365 Guides FAQ](faq.md)
 
