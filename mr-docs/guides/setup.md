@@ -137,7 +137,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     
 8.	Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the list, and then select **Install**. 
 
-    ![Solutions Install button](media/solutions-install-button.PNG "Solutions Install button")
+    ![Solutions Install button](media/install-ga-version.PNG "Solutions Install button")
     
 9. In the **Terms of Service** dialog box, review the terms, and then select **install** when you're ready.
 
