@@ -128,7 +128,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     ![System settings dialog box](media/system-settings-dialog-box.PNG "System settings dialog box")
  
-8.	Go back to the [Power Platform Admin center](https://admin.powerapps.com/environments), select the three dots next to the configured environment, and then select **Manage Solutions**.
+8.	Go back to the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select the three dots next to the configured environment, and then select **Manage Solutions**.
 
     ![Power Platform Admin center](media/power-platform-manage-solutions.PNG "Power Platform Admin center")
  
@@ -155,7 +155,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 > [!NOTE]
 > It can take up to one hour for a user to appear in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center. 
 
-1.	After the solution has finished installing, go to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx), select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open**.
+1.	After the solution has finished installing, go to the Dynamics 365 Administration Center, select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open**.
 
 2. On the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** page, select **Settings**, and then select **Advanced Settings**.
 
