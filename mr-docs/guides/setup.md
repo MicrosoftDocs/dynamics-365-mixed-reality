@@ -98,9 +98,9 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 1.	Go to the Dynamics 365 Administration Center and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
 
     > [!NOTE]
-    > To go to the Dynamics 365 Administration Center, go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home), and then select **Admin centers** > **Dynamics 365** as shown below.
+    > To go to the Dynamics 365 Administration Center, go to the [PowerApps Admin center](https://admin.powerapps.com/environments), select the configured environment, and then select the link for **Dynamics 365 Administration center** as shown below:
    
-    ![Microsoft Admin Center](media/microsoft-admin-center.PNG "Microsoft Admin Center")
+    ![Open Dynamics 365 Admin center](media/open-D365-admin-center.PNG "Open Dynamics 365 Admin center")
     
 2.	Select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open** as shown here: 
     
@@ -128,9 +128,9 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     ![System settings dialog box](media/system-settings-dialog-box.PNG "System settings dialog box")
  
-8.	Go back to the [Dynamics 365 Administration Center](https://port.crm.dynamics.com/G/Instances/InstancePicker.aspx) and select the small edit button next to **Solutions**.
+8.	Go back to the [Power Platform Admin center](https://admin.powerapps.com/environments), select the three dots next to the configured environment, and then select **Manage Solutions**.
 
-    ![Solutions Edit button](media/solutions-edit-button.PNG "Solutions Edit button")
+    ![Power Platform Admin center](media/power-platform-manage-solutions.PNG "Power Platform Admin center")
  
     > [!NOTE]
     > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the PowerApps portal.
