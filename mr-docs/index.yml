@@ -18,7 +18,7 @@ metadata:
 productDirectory:
   items:
     # Card
-    - title: Dynamics 365 Guides (in preview)
+    - title: Dynamics 365 Guides
       # imageSrc should be square in ratio with no whitespace
       imageSrc: /dynamics365/images/Guides_color.svg
       links:
