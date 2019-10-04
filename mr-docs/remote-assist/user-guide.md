@@ -335,6 +335,16 @@ To undo your most recent action, including **Erase all**:
 
 -   Select **Undo** at the top of the call window (or say “Undo”).
 
+## Join a Teams meeting
+
+You can join a Teams meeting directly from Dynamics 365 Remote Assist. This is useful for maintenance and repairs that are scheduled in advance. It's also useful for inspections and other recurring scenarios. 
+
+To join a call:
+
+- Select the **Join** button below the **Contacts** screen. The **Join** button appears if the meeting is happening now or sometime in the next 30 minutes.
+
+   ![Join meeting](media/join-meeting.PNG "Join meeting")
+
 ## Use voice commands and gaze <a name="voice"></a>
 
 In many cases, you can use voice commands and gaze instead of gestures. Some voice
