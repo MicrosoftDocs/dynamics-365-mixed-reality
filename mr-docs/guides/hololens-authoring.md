@@ -350,7 +350,7 @@ To duplicate a model:
 
 2.	Air tap the **Edit Hologram** button.
 
-    ![Edit hologram button](media/manipulate-holograms.PNG "Edit hologram button")
+    ![Edit hologram button](media/edit-hologram.PNG "Edit hologram button")
     
 3. Select **Duplicate**.
 
