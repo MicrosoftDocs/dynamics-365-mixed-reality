@@ -2,14 +2,14 @@
 author: Mamaylya
 description: Test and place holograms using the Dynamics 365 Guides HoloLens application in Author mode 
 ms.author: mamaylya
-ms.date: 10/01/2019
+ms.date: 10/07/2019
 ms.service: crm-online
 ms.topic: article
 title: Test and place holograms using HoloLens Author mode in Dynamics 365 Guides 
 ms.reviewer: v-brycho
 ---
 
-# Test your guide and place holograms using HoloLens Author mode
+# Author in the HoloLens application
 
 The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] takes place on the [!include[pn-hololens](../includes/pn-hololens.md)] application. In [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, you:
 
@@ -350,7 +350,7 @@ To duplicate a model:
 
 2.	Air tap the **Edit Hologram** button.
 
-    ![Edit hologram button](media/manipulate-holograms.PNG "Edit hologram button")
+    ![Edit hologram button](media/edit-hologram.PNG "Edit hologram button")
     
 3. Select **Duplicate**.
 
