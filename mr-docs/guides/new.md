@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 10/01/2019
+ms.date: 10/07/2019
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -19,7 +19,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 New customers must acquire a new GA license. Please go to aka.ms/GetGuides for information on licenses, installation, and upgrades.
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 200.1909.24001 and solution version 200.0.0.102 include the following updates:
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 200.1909.24001 and solution version 200.0.0.107 include the following updates:
 
 - **Try the demo.** You can now try an out-of-box sample guide on the HoloLens app without signing up for a license or authoring a guide yourself.
 
