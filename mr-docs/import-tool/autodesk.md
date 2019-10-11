@@ -21,12 +21,12 @@ models for use in mixed reality.
 Mixed Reality at Work applications. The Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or 
 sponsor Autodesk or any of Autodesk’s products. 
 
-## What is Autodesk 3ds Max
+## What is Autodesk 3ds Max?
 
 Autodesk 3ds Max is 3d modeling and rendering software for design visualization, games, and animation. Read more 
 about [Autodesk](https://www.autodesk.com/products/3ds-max/overview). 
 
-## Import your file into 3ds Max
+## Import a file into 3ds Max
 
 1. Open a new scene in 3ds Max, and then on the **File** menu, select **Import>Import** to import your 3D model. 
  
@@ -41,7 +41,7 @@ import. You can usually keep the default values with the following exceptions:
 
    SCREEN SHOT GOES HERE: 3ds-max-import-settings   
    
-## Optimize your 3D models 
+## Optimize a 3D model 
 
 If the polygon count is too high ([see Performance targets](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets)), 
 the model won’t perform well in mixed reality applications. You can optimize the 3D model to reduce the polygon count so the model 
@@ -332,7 +332,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
    SCREEN SHOT GOES HERE: 3ds-max-optimized-model
  
-## Export your 3D model 
+## Export the 3D model 
 
 1. Select your cloned model. 
  
@@ -346,7 +346,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 4. Select **Export**. 
  
-## View your 3D model in mixed reality 
+## View the 3D model in mixed reality 
 
 After you have prepared your 3D models, you can use the following Microsoft Dynamics 365 apps to view your 3D model in mixed reality: 
 
