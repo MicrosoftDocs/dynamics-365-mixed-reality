@@ -23,7 +23,7 @@ sponsor Autodesk or any of Autodesk’s products.
 
 ## What is Autodesk 3ds Max?
 
-Autodesk 3ds Max is 3d modeling and rendering software for design visualization, games, and animation. Read more 
+Autodesk 3ds Max is 3d modeling and rendering software for design visualization, games, and animations. Read more 
 about [Autodesk](https://www.autodesk.com/products/3ds-max/overview). 
 
 ## Import a file into 3ds Max
