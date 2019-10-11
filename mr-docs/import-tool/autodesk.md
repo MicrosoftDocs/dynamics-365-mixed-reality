@@ -121,6 +121,42 @@ and reduce them the most. Objects such as screws and grills can have thousands o
    
    > [!TIP]
    > You can be as granular with what you reduce as you like. If there are specific parts that need higher fidelity, select them and raise the percentage value to meet your needs. Try different techniques until you find one that works best for you. 
+   
+## Work with curved surfaces 
+
+When curved surfaces are present on 3D models, they might appear faceted. You can soften the appearance of these surfaces by using **Smooth**.  
  
-    
+1. On the **Edit** menu, select **Select All** to select all 3D models in the scene.  
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-select-all
+   
+2. In the **Modifier List** panel, select **Smooth** from the drop-down.  
+
+   SCREEN SHOT GOES HERE: 3ds-max-smooth 
+ 
+3. Select the **Auto Smooth** check box, and then adjust the **Threshold** value until the faceted surfaces appear smooth.  The default threshold is 30.0 which is usually pretty good. 
+ 
+   > [!NOTE]
+   > You can also apply the **Smooth** modifier to individual 3D models if they each require a different threshold.  
+ 
+At this point, your model may be optimized enough for use in mixed reality. If you think it will work fine in this form, you can skip to exporting your model as a GLB. If the model is still too complex and has lots of materials, go to the next section on texture baking. 
+ 
+## Set up materials
+
+Not all CAD materials are compatible with real-time applications, so they must be converted first. In this section, we’ll change the materials to a GLB-friendly material type called **Physical Material**. This material is very flexible and is compatible with mixed reality technology.  
+ 
+> [!NOTE]
+> If your 3D model has 10 or more materials, performance may be an issue. To fix this, skip to the Texture Baking section.  
+ 
+To set up materials in 3ds Max: 
+ 
+1. On the **Rendering** menu, select **Scene Converter**.   
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-scene-converter 
+ 
+2. In the **Scene Converter** dialog box, expand the **Materials** tab, and then select **Standard Material to Physical Material**. 
+
+   SCREEN SHOT GOES HERE: 3ds-max-standard-to-physical
+   
+3. Select **Convert Scene**.  
  
