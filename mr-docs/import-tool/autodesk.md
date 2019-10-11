@@ -92,8 +92,8 @@ and reduce them the most. Objects such as screws and grills can have thousands o
  
 4. Select the **Faces** tab a few times so that your objects are now sorted from highest face count to lowest. 
 
->[!TIP]
-> You can also search at the top of this menu. If your model has lots of fillets, try searching for those. Fillets use lots of polygons and can be reduced without affecting the overall fidelity of the model. 
+   >[!TIP]
+   > You can also search at the top of this menu. If your model has lots of fillets, try searching for those. Fillets use lots of polygons and can be reduced without affecting the overall fidelity of the model. 
  
 5. Select the objects with the highest face counts, and then select **OK**.   
  
@@ -119,8 +119,8 @@ and reduce them the most. Objects such as screws and grills can have thousands o
  
    SCREEN SHOT GOES HERE: 3ds-max-select-invert
    
-> [!TIP]
-> You can be as granular with what you reduce as you like. If there are specific parts that need higher fidelity, select them and raise the percentage value to meet your needs. Try different techniques until you find one that works best for you. 
+   > [!TIP]
+   > You can be as granular with what you reduce as you like. If there are specific parts that need higher fidelity, select them and raise the percentage value to meet your needs. Try different techniques until you find one that works best for you. 
  
     
  
