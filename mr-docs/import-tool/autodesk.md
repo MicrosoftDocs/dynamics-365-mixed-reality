@@ -56,5 +56,60 @@ check box.
  
    SCREEN SHOT GOES HERE: 3ds-max-total-poly-count
    
+### Add an Edit Poly modifier 
 
+- Select all parts of your 3D model and apply the **Edit Poly** modifier. Adding an edit poly modifier helps eliminate shading issues that occur during the modification. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-edit-poly-modifier
+    
+### Select high poly objects
+
+The best way to reduce the size of your model while maintaining visual fidelity is to find the objects with the highest poly count, 
+and reduce them the most. Objects such as screws and grills can have thousands of polygons that are rarely seen.  
+
+1. Go to **Select from Scene**. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-select-from-scene
+ 
+2. Go to **Customize>Configure Columns**. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-configure-columns
+ 
+3. Drag **Faces** next to **name** to activate the column. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-drag-faces
+ 
+4. Select the **Faces** tab a few times so that your objects are now sorted from highest face count to lowest. 
+
+>[!TIP]
+> You can also search at the top of this menu. If your model has lots of fillets, try searching for those. Fillets use lots of polygons and can be reduced without affecting the overall fidelity of the model. 
+ 
+5. Select the objects with the highest face counts, and then select **OK**.   
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-face-counts
+ 
+   You now have the highest poly objects selected. For the example model, 136K of the 195K polygons exist in 6 objects. The next section in this topic shows how to reduce the poly count of these objects. 
+   
+   SCREEN SHOT GOES HERE: 3ds-max-selected-objects
+   
+### Reduce poly count 
+
+1. Go to the **Modifier List** panel located on the right side of the viewport, and then select the **Modifier List** drop-down.  
+
+   SCREEN SHOT GOES HERE: 3ds-max-modifier-list   
+ 
+2. Select **ProOptimize** from the list.   
+
+   SCREEN SHOT GOES HERE: 3ds-max-prooptimize
+  
+3. Select **Calculate** to unlock the **Optimization Level** value adjustments. Try different values for **Vertex %** that range from 10 - 30% until you find the highest level of reduction that still maintains a visual fidelity that meets your standards. 
+ 
+4. Go to **Edit -> Select Invert** and add a **Pro Optimizer** to the rest of your model. Follow the same steps as you did before, but don't go as low as 10 - 30%. Reduce these other objects until you reach a polygon count that matches the recommended [Performance targets](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for your specific use case and still provides good visual fidelity. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-select-invert
+   
+> [!TIP]
+> You can be as granular with what you reduce as you like. If there are specific parts that need higher fidelity, select them and raise the percentage value to meet your needs. Try different techniques until you find one that works best for you. 
+ 
+    
  
