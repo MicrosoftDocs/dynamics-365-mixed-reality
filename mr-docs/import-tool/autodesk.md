@@ -9,7 +9,7 @@ title: Use Autodesk 3ds Max to generate content for use in Dynamics 365 mixed re
 ms.reviewer: v-brycho
 ---
 
-# Use Autodesk 3ds Max to generate content for use in Dynamics 365 mixed reality applications
+# Use Autodesk 3ds Max to generate 3D content for Dynamics 365 mixed reality applications
 
 When preparing CAD files for mixed reality, there are numerous performance and quality roadblocks that prevent a smooth transition 
 from CAD to real-time. 3ds Max is a digital content creation suite that has a unique ability to bridge parametric models and real-time 
