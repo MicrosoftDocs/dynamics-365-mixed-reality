@@ -346,4 +346,24 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 4. Select **Export**. 
  
+## View your 3D model in mixed reality 
+
+After you have prepared your 3D models, you can use the following Microsoft Dynamics 365 apps to view your 3D model in mixed reality: 
+
+- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model) 
+
+- [Dynamics 365 Layout via Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool)
+
+## For more information 
+Several screenshots in this document were taken from the Autodesk 3ds Max software program in order to provide clear instructions on how to use Autodesk’s software.  More information about Autodesk can be found here: Autodesk 
  
+You can find more information on these products here: 
+ 
+Autodesk 3ds Max 
+Babylon Exporter for 3ds Max 
+Dynamics 365 Import Tool 
+Dynamics 365 Product Visualize 
+ 
+The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk 3ds Max, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
+ 
+The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation.  
