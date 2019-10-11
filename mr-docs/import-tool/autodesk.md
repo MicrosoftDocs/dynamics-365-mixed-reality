@@ -354,15 +354,16 @@ After you have prepared your 3D models, you can use the following Microsoft Dyna
 
 - [Dynamics 365 Layout via Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool)
 
-## For more information 
-Several screenshots in this document were taken from the Autodesk 3ds Max software program in order to provide clear instructions on how to use Autodesk’s software.  More information about Autodesk can be found here: Autodesk 
+## For more information
+
+Several screenshots in this document were taken from the Autodesk 3ds Max software program in order to provide clear instructions on how to use Autodesk’s software. More information about Autodesk can be found here: [Autodesk](https://www.autodesk.com/) 
  
 You can find more information on these products here: 
  
-Autodesk 3ds Max 
-Babylon Exporter for 3ds Max 
-Dynamics 365 Import Tool 
-Dynamics 365 Product Visualize 
+[Autodesk 3ds Max](https://area.autodesk.com/crush-it-3ds-max-2/?mktvar002=759224&&mkwid=sKU4V0FKc%7cpcrid%7c300714295428%7cpkw%7cmax%203ds%7cpmt%7ce%7cpdv%7cc%7cslid%7c%7cpgrid%7c23187845595%7cptaid%7ckwd-37564256%7c&intent=3ds+Max+-+Brand&utm_medium=cpc&utm_source=google&utm_campaign=GGL_3DS+MAX_US_BR_SEM_EXACT&utm_term=max%203ds&utm_content=sKU4V0FKc%7cpcrid%7c300714295428%7cpkw%7cmax%203ds%7cpmt%7ce%7cpdv%7cc%7cslid%7c%7cpgrid%7c23187845595%7cptaid%7ckwd-37564256%7c&addisttype=g&s_kwcid=AL!8131199977!3!300714295428!e!!g!!max%203ds&gclid=EAIaIQobChMItvLZ4ZC64wIVDtRkCh1r-A0VEAAYASAAEgJhwfD_BwE&gclsrc=aw.ds) 
+[Babylon Exporter for 3ds Max](https://doc.babylonjs.com/resources/3dsmax) 
+[Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool) 
+[Dynamics 365 Product Visualize ](https://dynamics.microsoft.com/mixed-reality/product-visualize/)
  
 The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk 3ds Max, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
  
