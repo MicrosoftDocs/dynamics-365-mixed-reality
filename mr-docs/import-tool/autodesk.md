@@ -242,4 +242,56 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
    SCREEN SHOT GOES HERE: 3ds-max-copies
    
-### 
+### Bake texture
+
+1. Select the cloned mesh - the one you want to bake the texture onto. 
+ 
+2. On the **Rendering** menu, select **Render To Texture**.
+
+   SCREEN SHOT GOES HERE: 3ds-max-render-to-texture 
+ 
+3. Set up the **Render to Texture** menu in the following ways: 
+ 
+   a. Set the **Output** path to the location where the map will bake. You can leave the default setting if you don't have a specific destination in mind.
+   
+   b. Change the **Render Settings** to **3dsmax.scanline.no.advanced.lighting.high**. When you're prompted to select Preset Categories, leave them all highlighted and select **Load**.
+   
+      SCREEN SHOT GOES HERE: 3ds-max-load 
+ 
+   c. On the **Projection Mapping** submenu, do the following:
+   
+      i. Toggle **Projection Mapping** to be enabled.
+      
+      ii. Select **Pick**, select the original source 3D models you want to bake the color from, and then select **Add**.
+      
+      iii. Select the **Options** button next to the **Pick** button, and then in the method section select **UV Match** and clear **Use Cage**. 
+      
+      iv. Clear **Cage**. 
+ 
+          SCREEN SHOT GOES HERE: 3ds-max-use-cage 
+          
+   d. Select **Use Existing Channel** and then set the channel to **1** in the **Mapping Coordinates** submenu.
+   
+   e. Under **Output**, select **Add**, select **DiffuseMap**,  and then select **Add Elements**.
+   
+   f. Select the three dots next to **File Name and Type**, and then select .png.
+   
+   g. In the pop up menu, select **RGB 24 bit** and clear **Alpha channel**. 
+   
+      SCREEN SHOT GOES HERE: 3ds-max-alpha-channel
+ 
+   h. In the **Target Map** slot, select **Base Color**. 
+   
+   i. Select **Automatic map size**. 
+   
+   j. In the **Automatic Mapping** sub-menu, select **Nearest power of 2**. 
+   
+   k. Once everything is set correctly, select **Render** to bake the diffuse color map. A preview window may appear, but the final map automatically saves to the Output location. 
+
+      SCREEN SHOT GOES HERE: 3ds-max-render
+ 
+4. If you go to the location where your .png was saved and open it, the baked map may look something like this:  
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-baked-map
+   
+   
