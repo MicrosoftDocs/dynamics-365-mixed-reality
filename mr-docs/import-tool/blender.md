@@ -9,7 +9,7 @@ title: Use Blender to prepare 3D models for use in Dynamics 365 Mixed Reality ap
 ms.reviewer: v-brycho
 ---
 
-# Tutorial 1: Use Blender to prepare 3D models for use in Microsoft Dynamics 365 Mixed Reality applications
+# Use Blender to prepare 3D models for use in Microsoft Dynamics 365 Mixed Reality applications
 
 This tutorial provides step-by-step instructions that show you how to:
 
