@@ -294,4 +294,56 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
    SCREEN SHOT GOES HERE: 3ds-max-baked-map
    
-   
+## Apply the texture 
+
+1. Select **Rendering > Material Editor > Compact Material Editor** to open the Compact Material Editor.
+
+   SCREEN SHOT GOES HERE: 3ds-max-rendering-compact-material-editor 
+ 
+2. Set up a new material slot in the material editor.  
+
+3. Select one of the grey spheres and drag it to your unwrapped 3D model. At this point, the model will appear grey because it has just one material on it. 
+
+4. Select the **Standard** button to access the material / Map Browser.
+
+   SCREEN SHOT GOES HERE: 3ds-max-standard-button 
+ 
+5. Select **Materials > General > Physical Material**. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-physical-material
+ 
+6. Set the **Roughness** value to **0.9** and the **Metalness** value to **0.1**. 
+
+   SCREEN SHOT GOES HERE: 3ds-max-roughness-metalness 
+ 
+7. To attach the baked color map, select the option box SCREEN SHOT GOES HERE: 3ds-max-option-box next to the **Base Color and Reflections** color selector, and then select **Maps > General > Bitmap** from the list of options. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-bitmap
+ 
+8. When prompted to select the Bitmap Image File, select the texture that was created earlier. 
+
+   SCREEN SHOT GOES HERE: 3ds-max-bitmap-image-file 
+ 
+9. To view the new texture on the model, in the viewport, go to: **User Defined > Materials > Shaded Materials with Maps**. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-shaded-materials
+ 
+10. Hide the original 3D model so you can see the optimized 3D model with its texture.
+
+   SCREEN SHOT GOES HERE: 3ds-max-optimized-model
+ 
+## Export your 3D model 
+
+1. Select your cloned model. 
+ 
+2. On the **Babylon** menu, select [Babylon File Exporter](https://doc.babylonjs.com/resources/3dsmax). 
+
+   SCREEN SHOT GOES HERE: 3ds-max-babylon 
+ 
+3. Make sure **glb** is selected under **Output format**, and then select the **Export only selected** option so all necessary or selected 3D models are exported.  
+
+   SCREEN SHOT GOES HERE: 3ds-max-export-model
+ 
+4. Select **Export**. 
+ 
+ 
