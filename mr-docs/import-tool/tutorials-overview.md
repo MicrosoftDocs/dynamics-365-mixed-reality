@@ -1,3 +1,14 @@
+---
+author: JBrentJ
+description: Describes the third-party tutorials available for converting 3D models for use with Dynamics 365 mixed reality appilcations
+ms.author: v-jerja
+ms.date: 10/21/2019
+ms.service: crm-online
+ms.topic: article
+title: Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 mixed reality applications
+ms.reviewer: v-brycho
+---
+
 # Overview of self-serve tutorials
 
 3D models come in all shapes and sizes. Sometimes they're complex and require preparation before you can use them in mixed reality scenarios. To make it easier to prepare your 3D models, we created tutorials for several third-party CAD (Computer-Aided Design) and DCC (Digital Content Creation) programs. 
