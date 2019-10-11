@@ -103,7 +103,7 @@ and reduce them the most. Objects such as screws and grills can have thousands o
    
    SCREEN SHOT GOES HERE: 3ds-max-selected-objects
    
-### Reduce poly count 
+### Reduce polygon count 
 
 1. Go to the **Modifier List** panel located on the right side of the viewport, and then select the **Modifier List** drop-down.  
 
@@ -181,14 +181,14 @@ In cases where you want fine control over materials, this section shows how to a
  
    - To inspect another material, either use the eyedropper again to overwrite the current material slot, or select a new slot to easily switch back and forth between materials.  
    
-## Texture baking 
+## Bake textures
 
 If there are more than ten materials on the 3D model, combining them into a single material can increase performance. You can do this by baking material colors into a single image map. This section is optional, but is a good idea if you find that you experience performance issues when viewing your 3D model. The goal is to have one object with colors as the original 3D model, and another that represents the combined 3D models to bake to. 
 
 > [!NOTE]
 > - This process only works if the materials have not yet been converted to **Physical Material**.<br>- Baking, UVs, and texture maps are complex. The goal of this tutorial is not to make you an expert in texture baking, but to help you get through the process so that you can use your 3D models in Mixed Reality. For this reason, this tutorial doesn't go into great detail on texture baking. 
 
-### Prepare your 3D model 
+### Prepare the 3D model 
 
 1. Choose a single object from your model Hierarchy, rename it to “Original” and add an “Edit Poly” Modifier to it. 
 
