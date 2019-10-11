@@ -160,3 +160,24 @@ To set up materials in 3ds Max:
    
 3. Select **Convert Scene**.  
  
+## Add or modify existing materials
+
+In cases where you want fine control over materials, this section shows how to apply and change material characteristics, such as color and reflection.  
+ 
+1. On the **Rendering** menu, select **Material Editor>Compact Material Editor**. This provides control over how the materials will look. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-compact-material-editor
+ 
+ 
+2. The **Material Editor** window includes blank material slots that appear as grey spheres. To load a slot for inspection, select the eye dropper icon near the **Global** drop-down, and then select the 3d model to look at.  
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-material-color 
+ 
+   The important parameters to look at are **Base Color** and **Reflections**. **Reflections** is controlled by the **Metalness** and **Roughnes**s values — the surface finish of the material.  
+ 
+   - To apply a material to another 3D model, drag the active material ball on top of the 3D model you want to change.  
+ 
+     SCREEN SHOT GOES HERE: 3ds-max-apply-material 
+ 
+   - To inspect another material, either use the eyedropper again to overwrite the current material slot, or select a new slot to easily switch back and forth between materials.  
+   
