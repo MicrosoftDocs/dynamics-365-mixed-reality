@@ -247,7 +247,7 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
     SCREENSHOT GOES HERE: blender-gltf    
 
-## View a 3D model in mixed reality
+## Viewing 3D models in mixed reality
 
 Now that you have prepared your 3d models, you can learn more about using the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality here:
 
