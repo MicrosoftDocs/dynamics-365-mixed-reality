@@ -181,3 +181,65 @@ In cases where you want fine control over materials, this section shows how to a
  
    - To inspect another material, either use the eyedropper again to overwrite the current material slot, or select a new slot to easily switch back and forth between materials.  
    
+## Texture baking 
+
+If there are more than ten materials on the 3D model, combining them into a single material can increase performance. You can do this by baking material colors into a single image map. This section is optional, but is a good idea if you find that you experience performance issues when viewing your 3D model. The goal is to have one object with colors as the original 3D model, and another that represents the combined 3D models to bake to. 
+
+> [!NOTE]
+> - This process only works if the materials have not yet been converted to **Physical Material**.<br>- Baking, UVs, and texture maps are complex. The goal of this tutorial is not to make you an expert in texture baking, but to help you get through the process so that you can use your 3D models in Mixed Reality. For this reason, this tutorial doesn't go into great detail on texture baking. 
+
+### Prepare your 3D model 
+
+1. Choose a single object from your model Hierarchy, rename it to “Original” and add an “Edit Poly” Modifier to it. 
+
+2. Go to the object selection.  
+
+3. Attach all the 3D models by selecting one object and adding another **Edit Poly** modifier to it. It doesn't matter which 3D model you select.  
+ 
+  	SCREEN SHOT GOES HERE: 3ds-max-add-edit-poly
+
+4. Under the tool menu, select the button to the right of the **Attach** button. This button shows the available models in the scene that you can combine together.  
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-attach-list-button
+ 
+5. Select all of the 3D models by going to **Edit -> Select All** again, and then select **Add**.  
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-add-models
+ 
+6. When prompted, select **Match Material IDs to Material**, and then select **OK**.  
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-material-IDs
+ 
+   All of your individual meshes have been combined into one.  
+   
+7. Rename the mesh **Original** or something similar. Going forward in this tutorial, we'll refer to this mesh as the **Original** mesh. 
+
+### Unwrap UVs 
+
+1. Unwrap the duplicate 3D model by selecting and applying the **Unwrap UVW** modifier from the **Nodifier List** for your original mesh. Select **Polygon** in the drop-down so to edit the UV faces. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-unwrap-UVW
+ 
+2. On the **Edit UVs** tab, select **Open UV Editor**. 
+
+   SCREEN SHOT GOES HERE: 3ds-max-open-UV-editor 
+ 
+3. In the **Edit UVWs** window, select **Mapping>Flatten Mapping**. In the option box that appears, give the UVs some padding by setting **Spacing** to **0.003**, select the check box for **material grouping**, and then select **OK**. 
+
+   SCREEN SHOT GOES HERE: 3ds-max-flatten-mapping
+   
+   SCREEN SHOT GOES HERE: 3ds-max-spacing
+ 
+### Create a copy of your original mesh 
+
+Now that the original mesh has been prepared, you need to create a copy of it to bake the texture to. 
+
+1. Clone all meshes/groups that comprise the original set.  
+
+   SCREEN SHOT GOES HERE: 3ds-max-clone-meshes 
+ 
+2. Select **copies** and rename the object so that you know it's the cloned object. 
+ 
+   SCREEN SHOT GOES HERE: 3ds-max-copies
+   
+### 
