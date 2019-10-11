@@ -6,7 +6,7 @@ The goal of these tutorials isn't to teach you to be an expert at using these pr
 
 ## CAD tutorials 
 
-If you use Autodesk Inventor or Dassault SolidWorks, there are built-in tools that can simplify complex components and make your 3D models perform better in mixed reality. Starting with these tutorials to produce the highest-quality 3D models: 
+If you use Autodesk Inventor or Dassault SolidWorks, there are built-in tools that can simplify complex components and make your 3D models perform better in mixed reality. Start with these tutorials to produce the highest-quality 3D models: 
 
 Autodesk Inventor 
 
@@ -14,7 +14,7 @@ Dassault SolidWorks
 
 ## DCC tutorials 
 
-If your 3D models are in FBX, OBJ, or GLB file format, you can use either of the following tutorials to prepare your 3D models. 
+If your 3D models are in FBX, OBJ, or GLB file format, you can use either of the following tutorials to prepare your 3D models: 
 
 SideFX Houdini 
 
