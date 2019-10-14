@@ -11,9 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview of self-serve tutorials
 
-3D models come in all shapes and sizes. Sometimes they're complex and require preparation before you can use them in mixed reality scenarios. To make it easier to prepare your 3D models, we created tutorials for several third-party CAD (Computer-Aided Design) and DCC (Digital Content Creation) programs. 
-
-The goal of these tutorials isn't to teach you to be an expert at using these programs. The goal is to guide you through the process of preparing your 3D models so you can achieve more with mixed reality. 
+3D models come in all shapes and sizes. Sometimes they're complex and require preparation before you can use them in mixed reality scenarios. To make it easier to prepare your 3D models, we have created tutorials for several third-party CAD (Computer-Aided Design) and DCC (Digital Content Creation) programs.  The goal of these tutorials is not to teach you to be an expert at using these programs, but to guide you through the process of preparing your 3D models so you can achieve more with mixed reality. 
 
 ## CAD tutorials 
 
@@ -25,15 +23,15 @@ Dassault SolidWorks
 
 ## DCC tutorials 
 
-If your 3D models are in FBX, OBJ, or GLB file format, you can use either of the following tutorials to prepare your 3D models: 
+If your 3D models are in the FBX, OBJ, or GLB file format, you can use any of the following tutorials to prepare your 3D models: 
 
 SideFX Houdini 
 
 Blender 
 
-If your models are in some other file format, or if you already have access to 3ds Max, you can use the following tutorial to prepare your 3D models: 
-
 Autodesk 3ds Max  
+
+Note: In addition to FBX, OBJ, and GLB, 3DS Max can import a multitude of file formats including several native CAD formats.
 
 ## More information  
 
