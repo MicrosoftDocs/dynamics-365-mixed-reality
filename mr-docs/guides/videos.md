@@ -2,7 +2,7 @@
 author: Mamaylya
 description: These series of Dynamics 365 Guides videos shows you everything you need to know to get started with authoring, operating, and analyzing guides.
 ms.author: mamaylya
-ms.date: 10/01/2019
+ms.date: 10/14/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Guides videos
