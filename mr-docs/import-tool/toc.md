@@ -6,7 +6,7 @@
 ## Tutorials
 ### [Overview](tutorials-overview.md)
 ### [Blender](blender.md)
-### [Autodesk 3ds Max](autodesk.md)
+### [Autodesk 3ds Max](3ds-max.md)
 ### [Autodesk Inventor](inventor.md)
 ### [SideFX Houdini](houdini.md)
 ## Install and use Dynamics 365 Import Tool (Preview)
