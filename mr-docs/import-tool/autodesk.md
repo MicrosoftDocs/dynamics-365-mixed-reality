@@ -200,7 +200,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 4. Under the tool menu, select the button to the right of the **Attach** button. This button shows the available models in the scene that you can combine together.  
  
-   SCREEN SHOT GOES HERE: 3ds-max-attach-list-button
+   SCREEN SHOT GOES HERE: 3ds-max-attach-list-button. THIS SCREEN SHOT IS IN THE FOLDER.   
  
 5. Select all of the 3D models by going to **Edit -> Select All** again, and then select **Add**.  
  
@@ -240,7 +240,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 2. Select **copies** and rename the object so that you know it's the cloned object. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-copies
+   SCREEN SHOT GOES HERE: 3ds-max-copies. THIS SCREEN SHOT IS IN THE FOLDER.
    
 ### Bake texture
 
@@ -310,7 +310,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 5. Select **Materials > General > Physical Material**. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-physical-material
+   SCREEN SHOT GOES HERE: 3ds-max-physical-material. THIS SCREEN SHOT IS IN THE FOLDER.   
  
 6. Set the **Roughness** value to **0.9** and the **Metalness** value to **0.1**. 
 
