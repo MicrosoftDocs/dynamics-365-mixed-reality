@@ -2,7 +2,7 @@
 author: drpusey
 description: Dynamics 365 Remote Assist user guide (for HoloLens)
 ms.author: drpusey
-ms.date: 10/01/2019
+ms.date: 10/17/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist user guide (for HoloLens)
@@ -341,7 +341,7 @@ You can join a Teams meeting directly from Dynamics 365 Remote Assist. This is u
 
 To join a call:
 
-- Select the **Join** button below the **Contacts** screen. The **Join** button appears if the meeting is happening now or sometime in the next 30 minutes.
+- Select the **Join Meeting** button below the **Contacts** screen. The **Join Meeting** button appears if the meeting is happening now or sometime in the next 30 minutes.
 
    ![Join meeting](media/join-meeting.PNG "Join meeting")
 
