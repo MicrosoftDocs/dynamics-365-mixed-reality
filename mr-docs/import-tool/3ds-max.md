@@ -60,7 +60,7 @@ performs better. To see the polygon count, first set up the viewport to show pol
 and select the **Total + Selection** radial button. In the **Application** submenu, select the **Show Statistics in Active View** 
 check box.  
  
-   ![Viewport settings](media/3ds-max-file-viewport-settings.png "Viewport settings") 
+   ![Viewport settings](media/3ds-max-viewport-settings.png "Viewport settings") 
  
    You can now see the total poly count of your model, and the total poly count of any objects that you have selected. 
  
