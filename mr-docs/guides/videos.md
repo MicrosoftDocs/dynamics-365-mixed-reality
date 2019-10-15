@@ -17,7 +17,7 @@ Watch these videos to jumpstart your [!include[pn-dyn-365-guides](../includes/pn
 [Author a guide on the PC](https://aka.ms/pcauthor)<br>
 [Set up a printed anchor for your guide](https://aka.ms/guidesprintedanchor)<br>
 [Set up a digital anchor for your guide](https://aka.ms/guidesdigitalanchor)<br>
-[Author a guide on HoloLens](https://aka.ms/guideshololensauthor)<br>
+[Author a guide on HoloLens](https://aka.ms/hololensauthor)<br>
 [Operate a guide](https://aka.ms/guidesoperate)<br>
 [Analyze your organization's guides](https://aka.ms/guidesanalyze)
 
