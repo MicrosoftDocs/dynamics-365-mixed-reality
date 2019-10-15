@@ -216,29 +216,29 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 1. Unwrap the duplicate 3D model by selecting and applying the **Unwrap UVW** modifier from the **Nodifier List** for your original mesh. Select **Polygon** in the drop-down so to edit the UV faces. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-unwrap-UVW
+   ![Unwrap UVW](media/3ds-max-unwrap-UVW.PNG "Unwrap UVW") 
  
 2. On the **Edit UVs** tab, select **Open UV Editor**. 
 
-   SCREEN SHOT GOES HERE: 3ds-max-open-UV-editor 
+   ![Open UV Editor](media/3ds-max-open-UV-editor.PNG "Open UV Editor") 
  
 3. In the **Edit UVWs** window, select **Mapping>Flatten Mapping**. In the option box that appears, give the UVs some padding by setting **Spacing** to **0.003**, select the check box for **material grouping**, and then select **OK**. 
 
-   SCREEN SHOT GOES HERE: 3ds-max-flatten-mapping
+   ![Flatten Mapping](media/3ds-max-flatten-mapping.PNG "Flatten Mapping") 
    
-   SCREEN SHOT GOES HERE: 3ds-max-spacing
- 
+   ![Spacing](media/3ds-max-spacing.PNG "Spacing") 
+   
 ### Create a copy of your original mesh 
 
 Now that the original mesh has been prepared, you need to create a copy of it to bake the texture to. 
 
 1. Clone all meshes/groups that comprise the original set.  
 
-   SCREEN SHOT GOES HERE: 3ds-max-clone-meshes 
+   ![Clone meshes](media/3ds-max-clone-meshes.PNG "Clone meshes") 
  
 2. Select **copies** and rename the object so that you know it's the cloned object. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-copies. THIS SCREEN SHOT IS IN THE FOLDER.
+   ![Copies](media/3ds-max-file-copies.PNG "Copies") 
    
 ### Bake texture
 
@@ -246,7 +246,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 2. On the **Rendering** menu, select **Render To Texture**.
 
-   SCREEN SHOT GOES HERE: 3ds-max-render-to-texture 
+   ![Render to Texture](media/3ds-max-render-to-texture.PNG "Render to Texture") 
  
 3. Set up the **Render to Texture** menu in the following ways: 
  
@@ -254,7 +254,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
    b. Change the **Render Settings** to **3dsmax.scanline.no.advanced.lighting.high**. When you're prompted to select Preset Categories, leave them all highlighted and select **Load**.
    
-      SCREEN SHOT GOES HERE: 3ds-max-load 
+      ![Load](media/3ds-max-load.PNG "Load") 
  
    c. On the **Projection Mapping** submenu, do the following:
    
@@ -266,7 +266,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
       
       iv. Clear **Cage**. 
  
-          SCREEN SHOT GOES HERE: 3ds-max-use-cage 
+      ![Clear Cage](media/3ds-max-use-cage.PNG "Clear Cage") 
           
    d. Select **Use Existing Channel** and then set the channel to **1** in the **Mapping Coordinates** submenu.
    
@@ -276,7 +276,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
    g. In the pop up menu, select **RGB 24 bit** and clear **Alpha channel**. 
    
-      SCREEN SHOT GOES HERE: 3ds-max-alpha-channel
+      ![Alpha channel](media/3ds-max-alpha-channel.PNG "Alpha channel") 
  
    h. In the **Target Map** slot, select **Base Color**. 
    
@@ -286,17 +286,17 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
    k. Once everything is set correctly, select **Render** to bake the diffuse color map. A preview window may appear, but the final map automatically saves to the Output location. 
 
-      SCREEN SHOT GOES HERE: 3ds-max-render
+      ![Render](media/3ds-max-render.PNG "Render") 
  
 4. If you go to the location where your .png was saved and open it, the baked map may look something like this:  
  
-   SCREEN SHOT GOES HERE: 3ds-max-baked-map
+   ![Baked map](media/3ds-max-baked-map.PNG "Baked map") 
    
 ## Apply the texture 
 
 1. Select **Rendering > Material Editor > Compact Material Editor** to open the Compact Material Editor.
 
-   SCREEN SHOT GOES HERE: 3ds-max-rendering-compact-material-editor 
+   ![Compact Material Editor](media/3ds-max-rendering-compact-material-editor.PNG "Compact Material Editor") 
  
 2. Set up a new material slot in the material editor.  
 
@@ -304,31 +304,31 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 4. Select the **Standard** button to access the material / Map Browser.
 
-   SCREEN SHOT GOES HERE: 3ds-max-standard-button 
+   ![Standard button](media/3ds-max-standard-button.PNG "Standard button") 
  
 5. Select **Materials > General > Physical Material**. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-physical-material. THIS SCREEN SHOT IS IN THE FOLDER.   
+   ![Physical Material](media/3ds-max-physical-material.PNG "Physical Material") 
  
 6. Set the **Roughness** value to **0.9** and the **Metalness** value to **0.1**. 
 
-   SCREEN SHOT GOES HERE: 3ds-max-roughness-metalness 
+   ![Roughness and Metalness](media/3ds-max-roughness-metalness.PNG "Roughness and Metalness") 
  
-7. To attach the baked color map, select the option box SCREEN SHOT GOES HERE: 3ds-max-option-box next to the **Base Color and Reflections** color selector, and then select **Maps > General > Bitmap** from the list of options. 
+7. To attach the baked color map, select the option box ![Option button](media/3ds-max-option-button.PNG "Option button") next to the **Base Color and Reflections** color selector, and then select **Maps > General > Bitmap** from the list of options. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-bitmap
+   ![Bitmap](media/3ds-max-bitmap.PNG "Bitmap") 
  
 8. When prompted to select the Bitmap Image File, select the texture that was created earlier. 
 
-   SCREEN SHOT GOES HERE: 3ds-max-bitmap-image-file 
+   ![Bitmap image file](media/3ds-max-bitmap-image-file.PNG "Bitmap image file") 
  
 9. To view the new texture on the model, in the viewport, go to: **User Defined > Materials > Shaded Materials with Maps**. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-shaded-materials
+   ![Shaded Materials with Maps](media/3ds-max-shaded-materials.PNG "Shaded Materials with Maps") 
  
 10. Hide the original 3D model so you can see the optimized 3D model with its texture.
 
-   SCREEN SHOT GOES HERE: 3ds-max-optimized-model
+   ![Optimized model](media/3ds-max-optimized-model.PNG "Optmized model") 
  
 ## Export the 3D model 
 
@@ -336,11 +336,11 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 2. On the **Babylon** menu, select [Babylon File Exporter](https://doc.babylonjs.com/resources/3dsmax). 
 
-   SCREEN SHOT GOES HERE: 3ds-max-babylon 
+   ![Babylon menu](media/3ds-max-babylon.PNG "Babylon menu")  
  
 3. Make sure **glb** is selected under **Output format**, and then select the **Export only selected** option so all necessary or selected 3D models are exported.  
 
-   SCREEN SHOT GOES HERE: 3ds-max-export-model
+   ![Export model](media/3ds-max-export-model.PNG "Export model") 
  
 4. Select **Export**. 
  
