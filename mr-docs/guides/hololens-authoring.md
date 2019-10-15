@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Author in the HoloLens application
 
+[Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)
+
 The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] takes place on the [!include[pn-hololens](../includes/pn-hololens.md)] application. In [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, you:
 
 - Anchor your guide.
