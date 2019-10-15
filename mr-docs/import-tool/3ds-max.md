@@ -214,7 +214,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 ### Unwrap UVs 
 
-1. Unwrap the duplicate 3D model by selecting and applying the **Unwrap UVW** modifier from the **Nodifier List** for your original mesh. Select **Polygon** in the drop-down so to edit the UV faces. 
+1. Unwrap the duplicate 3D model by selecting and applying the **Unwrap UVW** modifier from the **Modifier List** for your original mesh. Select **Polygon** in the drop-down so to edit the UV faces. 
  
    ![Unwrap UVW](media/3ds-max-unwrap-UVW.png "Unwrap UVW") 
  
