@@ -266,7 +266,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
       
       iv. Clear **Cage**. 
  
-      ![Clear Cage](media/3ds-max-use-cage.PNG "Clear Cage") 
+      ![Clear Cage](media/3ds-max-clear-cage.PNG "Clear Cage") 
           
    d. Select **Use Existing Channel** and then set the channel to **1** in the **Mapping Coordinates** submenu.
    
