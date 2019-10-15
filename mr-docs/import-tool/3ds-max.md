@@ -246,7 +246,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 2. On the **Rendering** menu, select **Render To Texture**.
 
-   ![Render to Texture](media/3ds-max-render-to-texture.png "Render to Texture") 
+   ![Render to Texture](media/3ds-max-render-to-texture.PNG "Render to Texture") 
  
 3. Set up the **Render to Texture** menu in the following ways: 
  
@@ -254,7 +254,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
    b. Change the **Render Settings** to **3dsmax.scanline.no.advanced.lighting.high**. When you're prompted to select Preset Categories, leave them all highlighted and select **Load**.
    
-      ![Load](media/3ds-max-load.png "Load") 
+      ![Load](media/3ds-max-load.PNG "Load") 
  
    c. On the **Projection Mapping** submenu, do the following:
    
@@ -266,7 +266,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
       
       iv. Clear **Cage**. 
  
-      ![Clear Cage](media/3ds-max-use-cage.png "Clear Cage") 
+      ![Clear Cage](media/3ds-max-use-cage.PNG "Clear Cage") 
           
    d. Select **Use Existing Channel** and then set the channel to **1** in the **Mapping Coordinates** submenu.
    
