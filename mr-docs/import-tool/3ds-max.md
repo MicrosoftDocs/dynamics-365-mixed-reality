@@ -238,7 +238,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 2. Select **copies** and rename the object so that you know it's the cloned object. 
  
-   ![Copies](media/3ds-max-file-copies.png "Copies") 
+   ![Copies](media/3ds-max-copies.png "Copies") 
    
 ### Bake texture
 
