@@ -198,7 +198,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 4. Under the tool menu, select the button to the right of the **Attach** button. This button shows the available models in the scene that you can combine together.  
  
-   ![Attach list button](media/3ds-max-attach-list-button.png "Attach list button") 
+   ![Attach list button](media/3ds-max-attach-list-button.PNG "Attach list button") 
  
 5. Select all of the 3D models by going to **Edit -> Select All** again, and then select **Add**.  
  
