@@ -30,16 +30,16 @@ about [Autodesk](https://www.autodesk.com/products/3ds-max/overview).
 
 1. Open a new scene in 3ds Max, and then on the **File** menu, select **Import>Import** to import your 3D model. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-file-import
+   ![Import file](media/3ds-max-file-import.PNG "Import file") 
  
 2. Check the import options to ensure the scene is imported as expected. Import settings might differ depending on the type of file you 
 import. You can usually keep the default values with the following exceptions:
    
-    - Set **Hierarchy Mode** to **Flatten**
+   - Set **Hierarchy Mode** to **Flatten**
     
-    - Se **Mesh Resolution** somewhere between -6 and -10. If your model imports sideways, re-import it with the Up axis set to Y – Up. 
+   - Set **Mesh Resolution** somewhere between -6 and -10. If your model imports sideways, re-import it with the Up axis set to Y – Up. 
 
-   SCREEN SHOT GOES HERE: 3ds-max-import-settings   
+   ![Import file settings](media/3ds-max-import-settings.PNG "Import file settings")   
    
 ## Optimize a 3D model 
 
@@ -52,26 +52,25 @@ performs better. To see the polygon count, first set up the viewport to show pol
 1. To view the number of polygons in your scene, select **+** in the upper-left corner of any viewport window to open the 
 **Configure Viewports** options.  
  
-   SCREEN SHOT GOES HERE: 3ds-max-plus-sign
+   ![Plus sign](media/3ds-max-plus-sign.PNG "Plus sign") 
  
-   SCREEN SHOT GOES HERE: 3ds-max-configure-viewports
- 
+   ![Configure viewports](media/3ds-max-configure-viewports.PNG "Configure viewports") 
  
 2. On the **Viewport Configuration** menu, go to the **Statistics** tab. In the Setup submenu, select the **Polygon Count** check box, 
 and select the **Total + Selection** radial button. In the **Application** submenu, select the **Show Statistics in Active View** 
 check box.  
  
-   SCREEN SHOT GOES HERE: 3ds-max-viewport-settings
+   ![Viewport settings](media/3ds-max-file-viewport-settings.PNG "Viewport settings") 
  
    You can now see the total poly count of your model, and the total poly count of any objects that you have selected. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-total-poly-count
+   ![Total poly count](media/3ds-max-total-poly-count.PNG "Total poly count") 
    
 ### Add an Edit Poly modifier 
 
 - Select all parts of your 3D model and apply the **Edit Poly** modifier. Adding an edit poly modifier helps eliminate shading issues that occur during the modification. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-edit-poly-modifier
+   ![Edit Poly modifier](media/3ds-max-edit-poly-modifier.PNG "Edit Poly modifier")
     
 ### Select high poly objects
 
@@ -80,15 +79,15 @@ and reduce them the most. Objects such as screws and grills can have thousands o
 
 1. Go to **Select from Scene**. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-select-from-scene
+   ![Select from Scene](media/3ds-max-select-from-scene.PNG "Select from Scene") 
  
 2. Go to **Customize>Configure Columns**. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-configure-columns
+   ![Configure Columns](media/3ds-max-configure-columns.PNG "Configure Columns") 
  
 3. Drag **Faces** next to **name** to activate the column. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-drag-faces
+   ![Drag Faces](media/3ds-max-drag-faces.PNG "Drag Faces") 
  
 4. Select the **Faces** tab a few times so that your objects are now sorted from highest face count to lowest. 
 
@@ -97,27 +96,27 @@ and reduce them the most. Objects such as screws and grills can have thousands o
  
 5. Select the objects with the highest face counts, and then select **OK**.   
  
-   SCREEN SHOT GOES HERE: 3ds-max-face-counts
+   ![Face counts](media/3ds-max-face-counts.PNG "Face counts") 
  
    You now have the highest poly objects selected. For the example model, 136K of the 195K polygons exist in 6 objects. The next section in this topic shows how to reduce the poly count of these objects. 
    
-   SCREEN SHOT GOES HERE: 3ds-max-selected-objects
+   ![Selected objects](media/3ds-max-selected-objects.PNG "Selected objects") 
    
 ### Reduce polygon count 
 
 1. Go to the **Modifier List** panel located on the right side of the viewport, and then select the **Modifier List** drop-down.  
 
-   SCREEN SHOT GOES HERE: 3ds-max-modifier-list   
+   ![Modifier List](media/3ds-max-modifier-list.PNG "Modifier List") 
  
 2. Select **ProOptimize** from the list.   
 
-   SCREEN SHOT GOES HERE: 3ds-max-prooptimize
+   ![ProOptimize](media/3ds-max-prooptimize.PNG "ProOptimize") 
   
 3. Select **Calculate** to unlock the **Optimization Level** value adjustments. Try different values for **Vertex %** that range from 10 - 30% until you find the highest level of reduction that still maintains a visual fidelity that meets your standards. 
  
 4. Go to **Edit -> Select Invert** and add a **Pro Optimizer** to the rest of your model. Follow the same steps as you did before, but don't go as low as 10 - 30%. Reduce these other objects until you reach a polygon count that matches the recommended [Performance targets](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for your specific use case and still provides good visual fidelity. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-select-invert
+   ![Select Invert](media/3ds-max-select-invert.PNG "Select Invert") 
    
    > [!TIP]
    > You can be as granular with what you reduce as you like. If there are specific parts that need higher fidelity, select them and raise the percentage value to meet your needs. Try different techniques until you find one that works best for you. 
@@ -128,11 +127,11 @@ When curved surfaces are present on 3D models, they might appear faceted. You ca
  
 1. On the **Edit** menu, select **Select All** to select all 3D models in the scene.  
  
-   SCREEN SHOT GOES HERE: 3ds-max-select-all
+   ![Select All](media/3ds-max-select-all.PNG "Select All") 
    
 2. In the **Modifier List** panel, select **Smooth** from the drop-down.  
 
-   SCREEN SHOT GOES HERE: 3ds-max-smooth 
+   ![Smooth](media/3ds-max-smooth.PNG "Smooth") 
  
 3. Select the **Auto Smooth** check box, and then adjust the **Threshold** value until the faceted surfaces appear smooth.  The default threshold is 30.0 which is usually pretty good. 
  
@@ -152,11 +151,11 @@ To set up materials in 3ds Max:
  
 1. On the **Rendering** menu, select **Scene Converter**.   
  
-   SCREEN SHOT GOES HERE: 3ds-max-scene-converter 
+   ![Scene Converter](media/3ds-max-scene-converter.PNG "Scene Converter")  
  
 2. In the **Scene Converter** dialog box, expand the **Materials** tab, and then select **Standard Material to Physical Material**. 
 
-   SCREEN SHOT GOES HERE: 3ds-max-standard-to-physical
+   ![Standard Material to Physical Material](media/3ds-max-standard-to-physical.PNG "Standard Material to Physical Material") 
    
 3. Select **Convert Scene**.  
  
@@ -166,19 +165,18 @@ In cases where you want fine control over materials, this section shows how to a
  
 1. On the **Rendering** menu, select **Material Editor>Compact Material Editor**. This provides control over how the materials will look. 
  
-   SCREEN SHOT GOES HERE: 3ds-max-compact-material-editor
- 
+   ![Compact Material Editor](media/3ds-max-compact-material-editor.PNG "Compact Material Editor")  
  
 2. The **Material Editor** window includes blank material slots that appear as grey spheres. To load a slot for inspection, select the eye dropper icon near the **Global** drop-down, and then select the 3d model to look at.  
  
-   SCREEN SHOT GOES HERE: 3ds-max-material-color 
+   ![Material color](media/3ds-max-material-color.PNG "Material Color") 
  
    The important parameters to look at are **Base Color** and **Reflections**. **Reflections** is controlled by the **Metalness** and **Roughnes**s values — the surface finish of the material.  
  
    - To apply a material to another 3D model, drag the active material ball on top of the 3D model you want to change.  
  
-     SCREEN SHOT GOES HERE: 3ds-max-apply-material 
- 
+     ![Apply material](media/3ds-max-apply-material.PNG "Apply material") 
+     
    - To inspect another material, either use the eyedropper again to overwrite the current material slot, or select a new slot to easily switch back and forth between materials.  
    
 ## Bake textures
@@ -196,19 +194,19 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 3. Attach all the 3D models by selecting one object and adding another **Edit Poly** modifier to it. It doesn't matter which 3D model you select.  
  
-  	SCREEN SHOT GOES HERE: 3ds-max-add-edit-poly
+  	![Edit Poly](media/3ds-max-add-edit-poly.PNG "Edit Poly") 
 
 4. Under the tool menu, select the button to the right of the **Attach** button. This button shows the available models in the scene that you can combine together.  
  
-   SCREEN SHOT GOES HERE: 3ds-max-attach-list-button. THIS SCREEN SHOT IS IN THE FOLDER.   
+   ![Attach list button](media/3ds-max-attach-list-button.PNG "Attach list button") 
  
 5. Select all of the 3D models by going to **Edit -> Select All** again, and then select **Add**.  
  
-   SCREEN SHOT GOES HERE: 3ds-max-add-models
+   ![Add models](media/3ds-max-add-models.PNG "Add models") 
  
 6. When prompted, select **Match Material IDs to Material**, and then select **OK**.  
  
-   SCREEN SHOT GOES HERE: 3ds-max-material-IDs
+   ![Match Material IDs](media/3ds-max-material-IDs.PNG "Match Material IDs") 
  
    All of your individual meshes have been combined into one.  
    
