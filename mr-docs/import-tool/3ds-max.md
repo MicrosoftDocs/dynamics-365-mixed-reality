@@ -276,7 +276,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
    g. In the pop up menu, select **RGB 24 bit** and clear **Alpha channel**. 
    
-      ![Alpha channel](media/3ds-max-alpha-channel.png "Alpha channel") 
+      ![Alpha channel](media/3ds-max-alpha-channel.PNG "Alpha channel") 
  
    h. In the **Target Map** slot, select **Base Color**. 
    
@@ -286,7 +286,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
    k. Once everything is set correctly, select **Render** to bake the diffuse color map. A preview window may appear, but the final map automatically saves to the Output location. 
 
-      ![Render](media/3ds-max-render.png "Render") 
+      ![Render](media/3ds-max-render.PNG "Render") 
  
 4. If you go to the location where your .png was saved and open it, the baked map may look something like this:  
  
@@ -304,15 +304,15 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 4. Select the **Standard** button to access the material / Map Browser.
 
-   ![Standard button](media/3ds-max-standard-button.png "Standard button") 
+   ![Standard button](media/3ds-max-standard-button.PNG "Standard button") 
  
 5. Select **Materials > General > Physical Material**. 
  
-   ![Physical Material](media/3ds-max-physical-material.png "Physical Material") 
+   ![Physical Material](media/3ds-max-physical-material.PNG "Physical Material") 
  
 6. Set the **Roughness** value to **0.9** and the **Metalness** value to **0.1**. 
 
-   ![Roughness and Metalness](media/3ds-max-roughness-metalness.png "Roughness and Metalness") 
+   ![Roughness and Metalness](media/3ds-max-roughness-metalness.PNG "Roughness and Metalness") 
  
 7. To attach the baked color map, select the option box ![Option button](media/3ds-max-option-button.png "Option button") next to the **Base Color and Reflections** color selector, and then select **Maps > General > Bitmap** from the list of options. 
  
@@ -324,7 +324,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 9. To view the new texture on the model, in the viewport, go to: **User Defined > Materials > Shaded Materials with Maps**. 
  
-   ![Shaded Materials with Maps](media/3ds-max-shaded-materials.png "Shaded Materials with Maps") 
+   ![Shaded Materials with Maps](media/3ds-max-shaded-materials-with-maps.PNG "Shaded Materials with Maps") 
  
 10. Hide the original 3D model so you can see the optimized 3D model with its texture.
 
