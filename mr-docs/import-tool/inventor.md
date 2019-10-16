@@ -30,21 +30,21 @@ The first step is to remove any unneeded details in the 3D model. This vastly im
 
 1.	From the **Assemble** tab in Inventor, select **Shrinkwrap**.
 
-    SCREENSHOT GOES HERE: inventor-shrinkwrap
+    ![Shrinkwrap](media/inventor-shrinkwrap.PNG "Shrinkwarp") 
     
     From here, there are several optimization options you can choose to help increase the performance of your model in Dynamics 365 Layout. 
  
 2.	Select **Remove parts by size**, select the mouse arrow, and then select an object that is the largest you would be willing to remove, such as a bolt. This will remove all objects (nuts, bolts, washers) that are smaller than the object you selected.
 
-    SCREENSHOT GOES HERE: inventor-remove-parts
+    ![Remove parts by size](media/inventor-remove-parts.PNG "Remove parts by size") 
  
 3.	If there are specific items such as grates or cooling fins that are extremely complex and you don’t need to see them, you can use the **Select to Exclude** option to remove them piece by piece.
 
-    SCREENSHOT GOES HERE: inventor-select-to-exclude
+    ![Select to Exclude option](media/inventor-select-to-exclude.PNG "Select to Exclude option") 
 
 4.	On the **Features** tab, you’ll see options to remove some or all features such as holes, fillets, pockets, and chamfers. This works the same as removing parts by size, but for features instead of entire parts. Experiment with these features to gain additional optimizations for your model. The results can be significant.
 
-    SCREENSHOT GOES HERE: inventor-features-tab
+    ![Features tab](media/inventor-features-tab.PNG "Features tab") 
  
 5.	On the **Create** tab:
 
@@ -64,7 +64,7 @@ The first step is to remove any unneeded details in the 3D model. This vastly im
 
     h.	Select **OK**.
  
-        SCREENSHOT GOES HERE: inventor-features-tab-settings
+        ![Features tab settings](media/inventor-features-tab-settings.PNG "Features tab settings") 
  
 6.	Save your file. 
 
@@ -76,11 +76,11 @@ Next, you need to export the model to a usable format that Dynamics Import Tool 
     
 2.	Select the **Options** button.
 
-    SCREENSHOT GOES HERE: inventor-options-button
+    ![Options button](media/inventor-options-button.PNG "Options button") 
     
     This is what the OBJ export settings look like in Inventor:
     
-    SCREENSHOT GOES HERE: inventor-save-as-options
+    ![Save as options](media/inventor-save-as-options.PNG "Save as options") 
     
     We suggest using the **Brep** setting.  Brep stands for “boundary representation” and produces the lowest poly output for Inventor files.  If your model is not overly complex and you desire a higher level of detail, you can use the **Low** setting ([see Performance targets](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets)).
     
