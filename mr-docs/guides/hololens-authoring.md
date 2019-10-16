@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 10/15/2019
 ms.service: crm-online
 ms.topic: article
-title: Test and place holograms using HoloLens Author mode in Dynamics 365 Guides 
+title: Author in the HoloLens application 
 ms.reviewer: v-brycho
 ---
 
