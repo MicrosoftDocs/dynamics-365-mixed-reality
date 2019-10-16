@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [Watch a video to get a quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)
 
-![Woman at work](media/woman-at-work.PNG "Woman at work") 
+![Person using Dynamics 365 Guides while working on a truck engine](media/woman-at-work.PNG "Person using Dynamics 365 Guides while working on a truck engine") 
 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that enables operators to learn in the flow 
 of work by providing holographic instructions when and where they need them. A series of step-by-step instruction cards 
