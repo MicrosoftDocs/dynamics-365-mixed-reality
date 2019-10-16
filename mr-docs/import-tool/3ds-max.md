@@ -314,13 +314,13 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
    ![Roughness and Metalness](media/3ds-max-roughness-metalness.PNG "Roughness and Metalness") 
  
-7. To attach the baked color map, select the option box ![Option button](media/3ds-max-option-button.png "Option button") next to the **Base Color and Reflections** color selector, and then select **Maps > General > Bitmap** from the list of options. 
+7. To attach the baked color map, select the option box ![Option button](media/3ds-max-option-button.PNG "Option button") next to the **Base Color and Reflections** color selector, and then select **Maps > General > Bitmap** from the list of options. 
  
    ![Bitmap](media/3ds-max-bitmap.png "Bitmap") 
  
 8. When prompted to select the Bitmap Image File, select the texture that was created earlier. 
 
-   ![Bitmap image file](media/3ds-max-bitmap-image-file.png "Bitmap image file") 
+   ![Bitmap image file](media/3ds-max-bitmap-image-file.PNG "Bitmap image file") 
  
 9. To view the new texture on the model, in the viewport, go to: **User Defined > Materials > Shaded Materials with Maps**. 
  
