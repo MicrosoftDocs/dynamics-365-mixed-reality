@@ -9,10 +9,9 @@ title: Prepare Autodesk Inventor 3D models for use in Dynamics 365 mixed reality
 ms.reviewer: v-brycho
 ---
 
-# Prepare Autodesk Inventor 3D models for use in Dynamics 365 mixed reality applications
+# Prepare Autodesk Inventor 3D models for use in Dynamics 365 Import Tool (Preview)
 
-This tutorial shows how to prepare Autodesk Inventor files for use in Dynamics 365 Import Tool (Preview). The Import Tool accepts 
-formats like OBJ and changes them to GLB, the real-time format used in mixed reality.  
+This tutorial shows how to prepare Autodesk Inventor files for use in Dynamics 365 Import Tool (Preview). Dynamics 365 Import Tool (Preview) accepts formats like OBJ and changes them to GLB, the real-time format used in Dynamics 365 mixed reality applications.  
 
 > [!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how Autodesk Inventor works with Microsoft Dynamics 365 
@@ -22,11 +21,11 @@ There are several other [content-creation applications that can be used to prepa
 
 ## What is Autodesk Inventor?
 
-Autodesk Inventor is professional-grade 3D CAD software for product design and engineering. For more information, see [Autodesk Inventor](https://www.autodesk.com/products/inventor/overview). 
+Autodesk Inventor is professional-grade 3D CAD software for product design and engineering. For more information, [see Autodesk Inventor](https://www.autodesk.com/products/inventor/overview). 
 
 ## Optimize 3D models for mixed reality
 
-The first step is to remove any unneeded details in the 3D model. This vastly improves performance and increases the visual quality of the 3D model. Inventor has a tool called “Shrinkwrap” that can assist with this by removing fillets, chamfers, small parts, holes, and more.
+The first step is to remove any unneeded details in the 3D model. This vastly improves performance and increases the visual quality of the 3D model. Inventor has a tool called **Shrinkwrap** that can assist by removing fillets, chamfers, small parts, holes, and more.
 
 1.	From the **Assemble** tab in Inventor, select **Shrinkwrap**.
 
@@ -34,11 +33,11 @@ The first step is to remove any unneeded details in the 3D model. This vastly im
     
     From here, there are several optimization options you can choose to help increase the performance of your model in Dynamics 365 Layout. 
  
-2.	Select **Remove parts by size**, select the mouse arrow, and then select an object that is the largest you would be willing to remove, such as a bolt. This will remove all objects (nuts, bolts, washers) that are smaller than the object you selected.
+2.	Select the **Remove parts by size** check box, select the mouse arrow, and then select an object that is the largest you would be willing to remove, such as a bolt. This will remove all objects (nuts, bolts, washers) that are smaller than the object you selected.
 
     ![Remove parts by size](media/inventor-remove-parts.PNG "Remove parts by size") 
  
-3.	If there are specific items such as grates or cooling fins that are extremely complex and you don’t need to see them, you can use the **Select to Exclude** option to remove them piece by piece.
+3.	If there are specific items such as grates or cooling fins that are extremely complex and you don’t need to see them, you can use the **Select to Exclude** option to remove them piece-by-piece.
 
     ![Select to Exclude option](media/inventor-select-to-exclude.PNG "Select to Exclude option") 
 
@@ -54,13 +53,13 @@ The first step is to remove any unneeded details in the 3D model. This vastly im
 
     c.	Set the new file location.
 
-    d.	Under the **Style** section, select **Single Composite**. 
+    d.	Under **Style**, select **Single Composite**. 
 
-    e.	Select the **Fill all internal voids** box.
+    e.	Select the **Fill all internal voids** check box.
 
-    f.	Select the **Remove internal parts** box.
+    f.	Select the **Remove internal parts** check box.
 
-    g.	Select the **Use color override from source component** box.
+    g.	Select the **Use color override from source component** check box.
 
     h.	Select **OK**.
  
@@ -70,7 +69,7 @@ The first step is to remove any unneeded details in the 3D model. This vastly im
 
 ## Export the 3D model
 
-Next, you need to export the model to a usable format that Dynamics Import Tool (Preview) can read. Settings will need to be adjusted so that the lowest density model is exported. 
+Next, you need to export the model to a usable format that Dynamics 365 Import Tool (Preview) can read. Settings will need to be adjusted so that the lowest density model is exported. 
 
 1.	In the **Save as** type box, select **OBJ files (*.obj)**.
     
@@ -84,13 +83,13 @@ Next, you need to export the model to a usable format that Dynamics Import Tool 
     
     We suggest using the **Brep** setting.  Brep stands for “boundary representation” and produces the lowest poly output for Inventor files.  If your model is not overly complex and you desire a higher level of detail, you can use the **Low** setting ([see Performance targets](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets)).
     
-## Convert your .OBJ to .GLB
+## Convert your OBJ file to a GLB file
 
-Microsoft Dynamics 365 mixed reality applications use the .glb format for 3D models. There are two options for converting your .OBJ file to a .GLB.
+Microsoft Dynamics 365 mixed reality applications use the GLB format for 3D models. There are two options for converting your OBJ file to a GLB.
 
-- The first is by using Dynamics 365 Import Tool (Preview). This tool automatically converts your .OBJ 3D model into a .GLB 3D model.
+- The first is by using Dynamics 365 Import Tool (Preview). This tool automatically converts your OBJ 3D model into a GLB 3D model.
 
-- The second is to use a digital content creation (DCC) platform to convert your 3D models into GLBs. Using these software platforms is a manual process but provides you with more opportunities for optimization. To assist with this process, see the following tutorials for using the following DCC platforms to further optimize your 3D models and export them as GLBs:
+- The second is to use a digital content creation (DCC) platform to convert your 3D models into GLBs. Using these software platforms is a manual process but provides you with more opportunities for optimization. To assist with this process, see the following tutorials:
 
 - [Blender](blender.md)
 
@@ -101,7 +100,7 @@ Microsoft Dynamics 365 mixed reality applications use the .glb format for 3D mod
 ## View the 3D model in mixed reality
 
 After preparing the 3D
-model, you can learn more about using the following Microsoft Dynamics 365 applications to view your 3D model in mixed reality here: 
+model, you can learn more about using the following Microsoft Dynamics 365 applications to view your 3D model in mixed reality: 
 
 [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/) 
 
