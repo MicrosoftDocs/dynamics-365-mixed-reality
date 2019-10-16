@@ -64,7 +64,7 @@ The first step is to remove any unneeded details in the 3D model. This vastly im
 
     h.	Select **OK**.
  
-        ![Features tab settings](media/inventor-features-tab-settings.PNG "Features tab settings") 
+      ![Features tab settings](media/inventor-features-tab-settings.PNG "Features tab settings") 
  
 6.	Save your file. 
 
