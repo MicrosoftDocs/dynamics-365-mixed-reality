@@ -73,8 +73,6 @@ The first step is to remove any unneeded details in the 3D model. This vastly im
 Next, you need to export the model to a usable format that Dynamics Import Tool (Preview) can read. Settings will need to be adjusted so that the lowest density model is exported. 
 
 1.	In the **Save as** type box, select **OBJ files (*.obj)**.
-
-    SCREENSHOT GOES HERE: inventor-save-as-obj
     
 2.	Select the **Options** button.
 
