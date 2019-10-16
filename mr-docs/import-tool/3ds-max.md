@@ -296,7 +296,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 1. Select **Rendering > Material Editor > Compact Material Editor** to open the Compact Material Editor.
 
-   ![Compact Material Editor](media/3ds-max-rendering-compact-material-editor.png "Compact Material Editor") 
+   ![Compact Material Editor](media/3ds-max-rendering-compact-material-editor1.PNG "Compact Material Editor") 
  
 2. Set up a new material slot in the material editor.  
 
