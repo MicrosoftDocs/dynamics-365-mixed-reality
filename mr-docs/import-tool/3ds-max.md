@@ -265,15 +265,15 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
    c. Under **Projection Mapping**, do the following:
    
->>i. Select the **Enabled** check box.
+>>>i. Select the **Enabled** check box.
       
->>ii. Select **Pick**, select the original source 3D models you want to bake the color from, and then select **Add**.
+>>>ii. Select **Pick**, select the original source 3D models you want to bake the color from, and then select **Add**.
       
->>iii. Select the **Options** button next to the **Pick** button, and then in the **Method** section, select the **UV Match** check box and clear the **Use Cage** check box. 
+>>>iii. Select the **Options** button next to the **Pick** button, and then in the **Method** section, select the **UV Match** check box and clear the **Use Cage** check box. 
       
->>iv. Clear **Cage**. 
+>>>iv. Clear **Cage**. 
  
-      ![Clear Cage](media/3ds-max-clear-cage.PNG "Clear Cage") 
+>>>![Clear Cage](media/3ds-max-clear-cage.PNG "Clear Cage") 
           
    d. Under **Mapping Coordinates**, select the **Use Existing Channel** option, and then set the channel to **1**.
    
