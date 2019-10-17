@@ -85,4 +85,73 @@ SCREEN SHOT GOES HERE: houdini-decimation-overview
 
 There is some wiggle room with the polygon counts for use on mixed reality devices. You can use the **Number to keep** slider to fine-tune the look of the model. Experiment with this slider to get the look you like with the polygon count you need.
 
+## Add a material with a principled shader
+
+You can add a shader to the model to define how shiny and smooth the model appears, giving it a more realistic appearance. 
+
+1.	Open the **Material Palette** tab (in the same window pane as the node system), select **Principled Shader**, and then drag it to the open grey space.
+
+   SCREEN SHOT GOES HERE: houdini-shader
+ 
+2.	Right-click **Principled Shader**, and then select **Assign to Selected Objects or Geometry**.
+
+   SCREEN SHOT GOES HERE: houdini-assign-to-selected-objects
+ 
+3.	Highlight the entire model by selecting the window, and then select **Assign**.
+
+   SCREEN SHOT GOES HERE: houdini-highlight-model
+ 
+4.	In the **Geometry** window, you'll see that a material1 node has been created and linked below the polyreduce1 node.
+
+   SCREEN SHOT GOES HERE: houdini-material1-node
+  
+5.	Select the open floating operator chooser in the upper pane, select **principledshader**, and then select **Accept**.
+
+   SCREEN SHOT GOES HERE: houdini-accept
+ 
+### Adjust material properites
+
+You can adjust visible properties like the color of the material in the window pane above the **Material Palette** when you have the **Principled Shader** highlighted. For example, start with Roughness at 0.8 and Metallic at 0.2 for CAD models.
+
+SCREEN SHOT GOES HERE: houdini-adjust-material-properties
+
+To change the color of the 3D model:
+
+1. Select the color swatch button located to the right of **Base Color** (see screen shot above). 
+
+2. In the **Color Editor** dialog box, pick a color. You can pick from previous colors, the mixer wheel located in the upper-left of the editor, or from the sliders located on the bottom right. 
+
+   SCREEN SHOT GOES HERE: houdini-color-editor
+
+3. When you're satisfied with the color choice, close the **Color Editor** dialog box.
+
+## Export the model to a GLB file
+
+In this step, we’ll export the model to a GLB file so it can be used with Dynamics 365 mixed reality apps. 
+
+1.	In the **Geometry** window, press the Tab key to bring up the **TAB** menu. 
+
+2. Select **Export > ROP GLTF Output**, press Enter, and then select below the **material1** node to place the **rop_glft1** node.
+
+   SCREEN SHOT GOES HERE: houdini-place-rop-gltf1-node 
+
+3.	Drag a connection from the **material1** node to the **rop_gltf1** node.
+
+   SCREEN SHOT GOES HERE: houdini-drag-connection-to-rop-gltf1-node
+  
+4.	In the top pane, in the **Export Type** field, select **glb**. 
+
+   SCREEN SHOT GOES HERE: houdini-export-type
+ 
+5.	Next to the **Output File** field, select the **File Chooser** button, and then choose a name and destination for the GLB file.  Make sure to add **.glb** to the end of the file name.
+
+   SCREEN SHOT GOES HERE: houdini-output-file
+ 
+6.	Select **Render to Disk** to finalize the export and create the GLB file.
+
+   SCREEN SHOT GOES HERE: houdini-render-to-disk
+ 
+
+
+ 
 
