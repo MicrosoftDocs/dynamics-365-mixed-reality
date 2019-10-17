@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Describes, in tutorial format, how to use SideFx Houdini to prepare 3D models for use in Dynamics 365 mixed reality applications
 ms.author: v-jerja
-ms.date: 10/21/2019
+ms.date: 10/22/2019
 ms.service: crm-online
 ms.topic: article
 title: Use SideFx Houdini to prepare 3D models for use in Dynamics 365 mixed reality applications
@@ -11,26 +11,26 @@ ms.reviewer: v-brycho
 
 # Use SideFx Houdini to prepare 3D models for use in Dynamics 365 mixed reality applications
 
-This tutorial provides step-by-step instructions that will show you how to:
+This tutorial provides step-by-step instructions that show you how to:
 
 - Optimize a 3D model by reducing the polygon count so that it matches [performance targets for Dynamics 365 mixed 
 reality applications](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).  
 
 - Add the correct material to a 3D model. 
 
-- Export an optimized 3d model as a .GLB file that can be used in Dynamics 365 mixed reality applications. 
+- Export an optimized 3D model as a GLB file that you can use in Dynamics 365 mixed reality applications. 
 
-- Create a processing pipeline template for quickly optimizing other 3D models in the future. 
+- Create a template to quickly optimize other 3D models in the future. 
 
 >[!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how SideFX Houdini works with Microsoft 
 Dynamics 365 Mixed Reality at Work applications.  Your use of third-party applications is subject to terms between you 
 and the third party.  The Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor 
-SideFX or any of SideFX’s products.  There are several other content-creation applications that can be used to prepare your 3D models.
+SideFX or any of SideFX’s products.  [There are several other content-creation applications that can be used to prepare your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models).
 
 ## What is Houdini? 
 
-Houdini is a 3D procedural content creation tool. It has a non-destructive node-based tool system that can be used to design process pipelines. 
+Houdini is a 3D procedural content creation tool. It's a non-destructive node-based tool system that you can use to design process pipelines. 
 
 ## Import a 3D model into Houdini
 
@@ -38,11 +38,11 @@ Houdini is a 3D procedural content creation tool. It has a non-destructive node-
 
    ![Open Houdini to a new scene](media/1-houdini-new-scene.PNG "Open Houdini to a new scene") 
 
-   A new scene will automatically be created.   
+   A new scene is automatically created.   
  
-2. Right-click in the bottom right window pane to open the **TAB** menu (or press TAB).    
+2. Right-click in the bottom-right window pane to open the **TAB Menu** (or press Tab).    
 
-3. In the **TAB** menu, go to **Import > File**. Select to place this in the Geometry pane. 
+3. In the **TAB Menu**, select **Import > File**, and then click to place this in the Geometry pane. 
 
    ![Import File](media/2-houdini-import-file.PNG "Import File") 
  
