@@ -64,11 +64,11 @@ To reach application-specific goals, you may need to decimate a 3D model. Decima
 
 ![Decimation example](media/6-houdini-decimation-overview.PNG "Decimation example") 
 
-1.	In the **Geometry** pane on the lower right, tap the Tab key to open the **TAB** menu again. 
-
-    ![Polygon PolyReduce](media/7-houdini-poly-reduce.PNG "Polygon PolyReduce") 
+1.	In the **Geometry** pane on the lower right, tap the Tab key to open the **TAB** menu again.     
 
 2. Select **Polygon > PolyReduce**, and then press Enter to select the PolyReduce node. Click beneath the **File** node to place it.
+
+    ![Polygon PolyReduce](media/7-houdini-poly-reduce.PNG "Polygon PolyReduce") 
  
    A new node named **polyreduce1** appears in the **Geometry** window near the imported geometry node.
    
