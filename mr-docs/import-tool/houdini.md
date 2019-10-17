@@ -36,7 +36,7 @@ Houdini is a 3D procedural content creation tool. It has a non-destructive node-
 
 1. Open Houdini 17.5. 
 
-   SCREEN SHOT GOES HERE: 1-houdini-new scene
+   ![Open Houdini to a new scene](media/1-houdini-new-scene.PNG "Open Houdini to a new scene") 
 
    A new scene will automatically be created.   
  
@@ -44,53 +44,53 @@ Houdini is a 3D procedural content creation tool. It has a non-destructive node-
 
 3. In the **TAB** menu, go to **Import > File**. Select to place this in the Geometry pane. 
 
-   SCREEN SHOT GOES HERE: 2-houdini-import-file
+   ![Import File](media/2-houdini-import-file.PNG "Import File") 
  
-4. Double-click the center of the “file1” icon or press ‘I’ to drill down to the file selection part of this node. Select the “open floating file chooser” button and choose the file you want to import. 
+4. Double-click the center of the **File1** icon or press **I** to drill down to the file selection part of this node. Select the **File chooser** button, and then choose the file you want to import. 
 
-   SCREEN SHOT GOES HERE: 3-houdini-file-chooser
+   ![File chooser button](media/3-houdini-file-chooser.PNG "File chooser button") 
  
 5. A file browser will pop up. Browse to the location of the file you need to import, select the file requiring reduction, and then select **Accept**.  
 
-   SCREEN SHOT GOES HERE: 4-houdini-select-file 
+   ![Select the file](media/4-houdini-select-file.PNG "Select the file") 
  
    The model appears in the viewport. 
    
-   SCREEN SHOT GOES HERE: 5-houdini-viewport
+   ![Viewport](media/5-houdini-viewport.PNG "Viewport") 
    
 ## Decimate a 3D model
 
 To reach application-specific goals, you may need to decimate a 3D model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with less polygons. There is a reduction in visual fidelity when doing this, but also an increase in performance. The example images below show the difference between a high-quality model used for low-scene complexity on HoloLens, and a low-quality model used for high-scene complexity. 
 
-SCREEN SHOT GOES HERE: 6-houdini-decimation-overview
+![Decimation example](media/6-houdini-decimation-overview.PNG "Decimation example") 
 
 1.	In the **Geometry** pane on the lower right, tap the Tab key to open the **TAB** menu again. 
 
-   SCREEN SHOT GOES HERE: 7-houdini-poly-reduce
+   ![Polygon PolyReduce](media/7-houdini-poly-reduce.PNG "Polygon PolyReduce") 
 
 2. Select **Polygon > PolyReduce**, and then press Enter to select the PolyReduce node. Click beneath the **File** node to place it.
  
    A new node named **polyreduce1** appears in the **Geometry** window near the imported geometry node.
    
-   SCREEN SHOT GOES HERE: 8-houdini-polyreduce1-node
+   ![Polyreduce node](media/8-houdini-polyreduce1-node.PNG "Polyreduce node") 
  
 3.	Select the bottom gray dot on the node of the imported geometry and drag a connection line to the leftmost top dot on the polyreduce1 node. A red arrow appears on the dot on the polyreduce1 node.
 
-   SCREEN SHOT GOES HERE: 9-houdini-drag-geometry
+   ![Drag to create a connection](media/9-houdini-drag-geometry.PNG "Drag to create a connection") 
  
 5. Select the center of the polyreduce1 node and look at the options available in the tab above the **Geometry** window.
 
-   SCREEN SHOT GOES HERE: 10-houdini-polyreduce1-options
+   ![Polreduce options](media/10-houdini-polyreduce1-options.PNG "Polyreduce options") 
  
 6.	Select the **Target** window and choose **Output Polygon Count**. This enables you to specify a polygon count that meets the desired polygon targets.
 
-   SCREEN SHOT GOES HERE: 11-houdini-output-polygon-count
+   ![Output Polygon Count](media/11-houdini-output-polygon-count.PNG "Output Polygon Count") 
 
 7.	To see the results, make sure the polyreduce1 node is selected, and the **Template** (pink) and **Display** (blue) bars are filled by selecting each bar. 
 
    The model changes to show much less detail.
    
-   SCREEN SHOT GOES HERE: 12-houdini-polyreduce-results 
+   ![Polyreduce results](media/12-houdini-polyreduce-results.PNG "Polyreduce results") 
 
 There is some wiggle room with the polygon counts for use on mixed reality devices. You can use the **Number to keep** slider to fine-tune the look of the model. Experiment with this slider to get the look you like with the polygon count you need.
 
