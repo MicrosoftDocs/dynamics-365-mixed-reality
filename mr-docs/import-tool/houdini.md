@@ -204,12 +204,12 @@ The first thing you need to do is replace whatever geometry is currently being u
 After preparing your 3D models, you can learn more about using the following Microsoft Dynamics 365 applications to view your 3D models in mixed reality: 
 
 [Dynamics 365 Product Visualize (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)
-[Dynamics 365 Guides]() 
-[Dynamics 365 Layout]() via the [Dynamics 365 Import Tool]() 
+[Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/) 
+[Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/index) via the [Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool) 
  
-More information 
+## More information 
  
-Several screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software.  More information about Houdini can be found here: SideFX 
+Several screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software.  More information about Houdini can be found here: [SideFX Houdini](https://www.sidefx.com/) 
  
 The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Houdini, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
 The license terms of the Blender website is found below: Creative Commons Attribution ShareAlike 
