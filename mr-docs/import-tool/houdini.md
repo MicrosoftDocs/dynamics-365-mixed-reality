@@ -196,7 +196,7 @@ The first thing you need to do is replace whatever geometry is currently being u
 
     ![Select red sphere](media/29-houdini-reduction-tools.PNG "Select red sphere") 
 
-   This shows you what the reduced poly model looks like in the view window, and provides access to the reduction tools.
+    This shows you what the reduced poly model looks like in the view window, and provides access to the reduction tools.
  
 4.	When the model reaches a quality that meets your requirements, select the **rop_gltf1** node, select the **File chooser** button, and then choose a location and name for the file you're exporting. Be sure to include the .glb extension in the file name.
 
