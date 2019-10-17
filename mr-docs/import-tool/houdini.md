@@ -151,6 +151,70 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
    SCREEN SHOT GOES HERE: houdini-render-to-disk
  
+## Create a template
+
+Now that the node tree is set up, you can use it as a template to quickly prepare 3D models.
+
+The first thing you need to do is replace whatever geometry is currently being used with a default geometry. This makes the template file lightweight so that it will load quickly when you open it. To do this:
+
+1.	Select the file icon to activate the geometry file menu in the upper pane.
+
+2.	Change the **Geometry File** field to say **default.bgeo**, and then select **Reload Geometry**.
+
+   This refreshes the geometry so that it's a generic cube.
+   
+3.	Change the file name to something generic like **Template**.
+
+   SCREEN SHOT GOES HERE: houdini-template
+ 
+4.	On the **File** menu, select **Save**, and then save the file as something memorable like **Prep_Template**.  
+
+   SCREEN SHOT GOES HERE: houdini-save
+
+5.	The template is ready. Close Houdini to try it out.
+
+### Use a template
+
+1.	Launch Houdini, open the template file by selecting **File > Open**, and then select the template.
+
+   SCREEN SHOT GOES HERE: houdini-file-open
+ 
+2.	Select the center of the geometry file node to switch to the **File** context menu above, and then select **File chooser** button to select xxx.  
+
+   SCREEN SHOT GOES HERE: houdini-file-chooser2
+ 
+3.	When the geometry is loaded, select the red sphere on the **polyreduce1** node, and then the blue tab to the far right. 
+
+   SCREEN SHOT GOES HERE: houdini-red-sphere
+
+   This shows you what the reduced poly model looks like in the view window, and provides access to the reduction tools.
+ 
+4.	When the model reaches a quality that meets your requirements, select the **rop_gltf1** node, select the **File chooser** button, and then choose a location and name for the file you're exporting. Be sure to include the .glb extension in the file name.
+
+   SCREEN SHOT GOES HERE: houdini-choose-location
+ 
+5.	Select **Render to Disk** to create the 3D model.
+ 
+   SCREEN SHOT GOES HERE: houdini-render-to-disk2
+
+6.	Repeat this process with the rest of your 3D models to rapidly produce optimized assets ready for use in Dynamics 365 mixed reality applications.
+
+## Viewing a 3D model in mixed reality
+
+After preparing your 3D models, you can learn more about using the following Microsoft Dynamics 365 applications to view your 3D models in mixed reality: 
+
+[Dynamics 365 Product Visualize (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)
+[Dynamics 365 Guides]() 
+[Dynamics 365 Layout]() via the [Dynamics 365 Import Tool]() 
+ 
+More information 
+ 
+Several screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software.  More information about Houdini can be found here: SideFX 
+ 
+The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Houdini, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
+The license terms of the Blender website is found below: Creative Commons Attribution ShareAlike 
+ 
+The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation. 
 
 
  
