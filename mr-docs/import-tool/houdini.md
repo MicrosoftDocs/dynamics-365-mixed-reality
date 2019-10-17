@@ -199,7 +199,7 @@ The first thing you need to do is replace whatever geometry is currently being u
 
 6.	Repeat this process with the rest of your 3D models to rapidly produce optimized assets ready for use in Dynamics 365 mixed reality applications.
 
-## Viewing a 3D model in mixed reality
+## View a 3D model in a Dynamics 365 mixed reality application
 
 After preparing your 3D models, you can learn more about using the following Microsoft Dynamics 365 applications to view your 3D models in mixed reality: 
 
