@@ -45,8 +45,44 @@ Houdini is a 3D procedural content creation tool. It has a non-destructive node-
 
    SCREEN SHOT GOES HERE: houdini-select-file 
  
-   You can now see your model in the viewport. 
+   The model appears in the viewport. 
    
    SCREEN SHOT GOES HERE: houdini-viewport
    
+## Decimate a 3D model
+
+To reach application-specific goals, you may need to decimate a 3D model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with less polygons. There is a reduction in visual fidelity when doing this, but also an increase in performance. The example images below show the difference between a high-quality model used for low-scene complexity on HoloLens, and a low-quality model used for high-scene complexity. 
+
+SCREEN SHOT GOES HERE: houdini-decimation-overview
+
+1.	In the **Geometry** pane on the lower right, tap the Tab key to open the **TAB** menu again. 
+
+   SCREEN SHOT GOES HERE: houdini-tab-menu
+
+2. Select **Polygon > PolyReduce**, and then press Enter to select the PolyReduce node. Click beneath the **File** node to place it.
+ 
+   A new node named **polyreduce1** appears in the **Geometry** window near the imported geometry node.
    
+   SCREEN SHOT GOES HERE: houdini-polyreduce1-node
+ 
+3.	Select the bottom gray dot on the node of the imported geometry and drag a connection line to the leftmost top dot on the polyreduce1 node. A red arrow appears on the dot on the polyreduce1 node.
+
+   SCREEN SHOT GOES HERE: houdini-drag-geometry
+ 
+5. Select the center of the polyreduce1 node and look at the options available in the tab above the **Geometry** window.
+
+   SCREEN SHOT GOES HERE: houdini-polyreduce1-options
+ 
+6.	Select the **Target** window and choose **Output Polygon Count**. This enables you to specify a polygon count that meets the desired polygon targets.
+
+   SCREEN SHOT GOES HERE: houdini-output-polygon-count
+
+7.	To see the results, make sure the polyreduce1 node is selected, and the **Template** (pink) and **Display** (blue) bars are filled by selecting each bar. 
+
+   The model changes to show much less detail.
+   
+   SCREEN SHOT GOES HERE: houdini-changed-model 
+
+There is some wiggle room with the polygon counts for use on mixed reality devices. You can use the **Number to keep** slider to fine-tune the look of the model. Experiment with this slider to get the look you like with the polygon count you need.
+
+
