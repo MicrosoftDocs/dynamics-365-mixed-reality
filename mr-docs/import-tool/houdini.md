@@ -57,7 +57,7 @@ SCREEN SHOT GOES HERE: 6-houdini-decimation-overview
 
 1.	In the **Geometry** pane on the lower right, tap the Tab key to open the **TAB** menu again. 
 
-   SCREEN SHOT GOES HERE: 7-houdini-tab-menu
+   SCREEN SHOT GOES HERE: 7-houdini-poly-reduce
 
 2. Select **Polygon > PolyReduce**, and then press Enter to select the PolyReduce node. Click beneath the **File** node to place it.
  
@@ -81,7 +81,7 @@ SCREEN SHOT GOES HERE: 6-houdini-decimation-overview
 
    The model changes to show much less detail.
    
-   SCREEN SHOT GOES HERE: 12-houdini-changed-model 
+   SCREEN SHOT GOES HERE: 12-houdini-polyreduce-results 
 
 There is some wiggle room with the polygon counts for use on mixed reality devices. You can use the **Number to keep** slider to fine-tune the look of the model. Experiment with this slider to get the look you like with the polygon count you need.
 
@@ -103,7 +103,7 @@ You can add a shader to the model to define how shiny and smooth the model appea
  
 4.	In the **Geometry** window, you'll see that a material1 node has been created and linked below the polyreduce1 node.
 
-   SCREEN SHOT GOES HERE: 16-houdini-material1-node
+   SCREEN SHOT GOES HERE: 16-houdini-material-node
   
 5.	Select the open floating operator chooser in the upper pane, select **principledshader**, and then select **Accept**.
 
@@ -113,7 +113,7 @@ You can add a shader to the model to define how shiny and smooth the model appea
 
 You can adjust visible properties like the color of the material in the window pane above the **Material Palette** when you have the **Principled Shader** highlighted. For example, start with Roughness at 0.8 and Metallic at 0.2 for CAD models.
 
-SCREEN SHOT GOES HERE: 18-houdini-adjust-material-properties
+SCREEN SHOT GOES HERE: 18-houdini-adjust-materials
 
 To change the color of the 3D model:
 
@@ -133,19 +133,19 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
 2. Select **Export > ROP GLTF Output**, press Enter, and then select below the **material1** node to place the **rop_glft1** node.
 
-   SCREEN SHOT GOES HERE: 20-houdini-place-rop-gltf1-node 
+   SCREEN SHOT GOES HERE: 20-houdini-export-rop-gltf 
 
 3.	Drag a connection from the **material1** node to the **rop_gltf1** node.
 
-   SCREEN SHOT GOES HERE: 21-houdini-drag-connection-to-rop-gltf1-node
+   SCREEN SHOT GOES HERE: 21-houdini-rop-connection
   
 4.	In the top pane, in the **Export Type** field, select **glb**. 
 
-   SCREEN SHOT GOES HERE: 22-houdini-export-type
+   SCREEN SHOT GOES HERE: 22-houdini-export-glb
  
 5.	Next to the **Output File** field, select the **File Chooser** button, and then choose a name and destination for the GLB file.  Make sure to add **.glb** to the end of the file name.
 
-   SCREEN SHOT GOES HERE: 23-houdini-output-file
+   SCREEN SHOT GOES HERE: 23-houdini-file-chooser
  
 6.	Select **Render to Disk** to finalize the export and create the GLB file.
 
@@ -169,7 +169,7 @@ The first thing you need to do is replace whatever geometry is currently being u
  
 4.	On the **File** menu, select **Save**, and then save the file as something memorable like **Prep_Template**.  
 
-   SCREEN SHOT GOES HERE: 26-houdini-save
+   SCREEN SHOT GOES HERE: 26-houdini-file-save
 
 5.	The template is ready. Close Houdini to try it out.
 
@@ -177,7 +177,7 @@ The first thing you need to do is replace whatever geometry is currently being u
 
 1.	Launch Houdini, open the template file by selecting **File > Open**, and then select the template.
 
-   SCREEN SHOT GOES HERE: 27-houdini-file-open
+   SCREEN SHOT GOES HERE: 27-houdini-open-template
  
 2.	Select the center of the geometry file node to switch to the **File** context menu above, and then select **File chooser** button to select xxx.  
 
@@ -185,13 +185,13 @@ The first thing you need to do is replace whatever geometry is currently being u
  
 3.	When the geometry is loaded, select the red sphere on the **polyreduce1** node, and then the blue tab to the far right. 
 
-   SCREEN SHOT GOES HERE: 29-houdini-red-sphere
+   SCREEN SHOT GOES HERE: 29-houdini-reduction-tools
 
    This shows you what the reduced poly model looks like in the view window, and provides access to the reduction tools.
  
 4.	When the model reaches a quality that meets your requirements, select the **rop_gltf1** node, select the **File chooser** button, and then choose a location and name for the file you're exporting. Be sure to include the .glb extension in the file name.
 
-   SCREEN SHOT GOES HERE: 30-houdini-choose-location
+   SCREEN SHOT GOES HERE: 30-houdini-rop-gltf
  
 5.	Select **Render to Disk** to create the 3D model.
  
