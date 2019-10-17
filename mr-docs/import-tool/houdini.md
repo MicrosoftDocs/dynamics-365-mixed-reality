@@ -100,23 +100,23 @@ You can add a shader to the model to define how shiny and smooth the model appea
 
 1.	Open the **Material Palette** tab (in the same window pane as the node system), select **Principled Shader**, and then drag it to the open grey space.
 
-   SCREEN SHOT GOES HERE: 13-houdini-shader
+   ![Principled Shader](media/13-houdini-shader.PNG "Principled Shader") 
  
 2.	Right-click **Principled Shader**, and then select **Assign to Selected Objects or Geometry**.
 
-   SCREEN SHOT GOES HERE: 14-houdini-assign-to-selected-objects
+   ![Assign to Selected Objects or Geometry](media/14-houdini-assign-to-selected-objects.PNG "Assign to Selected Objects or Geometry") 
  
 3.	Highlight the entire model by selecting the window, and then select **Assign**.
 
-   SCREEN SHOT GOES HERE: 15-houdini-highlight-model
+   ![Highlighted model](media/15-houdini-highlight-model.PNG "Highlighted model") 
  
 4.	In the **Geometry** window, you'll see that a material1 node has been created and linked below the polyreduce1 node.
 
-   SCREEN SHOT GOES HERE: 16-houdini-material-node
+   ![Material node](media/16-houdini-material-node.PNG "Material node") 
   
 5.	Select the open floating operator chooser in the upper pane, select **principledshader**, and then select **Accept**.
 
-   SCREEN SHOT GOES HERE: 17-houdini-accept
+   ![Accept principledshader](media/17-houdini-accept.PNG "Accept principledshader") 
  
 ### Adjust material properites
 
