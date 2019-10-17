@@ -27,7 +27,7 @@ Houdini is a 3D procedural content creation tool. It has a non-destructive node-
 
 1. Open Houdini 17.5. 
 
-   SCREEN SHOT GOES HERE: houdini-new scene
+   SCREEN SHOT GOES HERE: 1-houdini-new scene
 
    A new scene will automatically be created.   
  
@@ -35,53 +35,53 @@ Houdini is a 3D procedural content creation tool. It has a non-destructive node-
 
 3. In the **TAB** menu, go to **Import > File**. Select to place this in the Geometry pane. 
 
-   SCREEN SHOT GOES HERE: houdini-import-file
+   SCREEN SHOT GOES HERE: 2-houdini-import-file
  
 4. Double-click the center of the “file1” icon or press ‘I’ to drill down to the file selection part of this node. Select the “open floating file chooser” button and choose the file you want to import. 
 
-   SCREEN SHOT GOES HERE: houdini-file-chooser
+   SCREEN SHOT GOES HERE: 3-houdini-file-chooser
  
 5. A file browser will pop up. Browse to the location of the file you need to import, select the file requiring reduction, and then select **Accept**.  
 
-   SCREEN SHOT GOES HERE: houdini-select-file 
+   SCREEN SHOT GOES HERE: 4-houdini-select-file 
  
    The model appears in the viewport. 
    
-   SCREEN SHOT GOES HERE: houdini-viewport
+   SCREEN SHOT GOES HERE: 5-houdini-viewport
    
 ## Decimate a 3D model
 
 To reach application-specific goals, you may need to decimate a 3D model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with less polygons. There is a reduction in visual fidelity when doing this, but also an increase in performance. The example images below show the difference between a high-quality model used for low-scene complexity on HoloLens, and a low-quality model used for high-scene complexity. 
 
-SCREEN SHOT GOES HERE: houdini-decimation-overview
+SCREEN SHOT GOES HERE: 6-houdini-decimation-overview
 
 1.	In the **Geometry** pane on the lower right, tap the Tab key to open the **TAB** menu again. 
 
-   SCREEN SHOT GOES HERE: houdini-tab-menu
+   SCREEN SHOT GOES HERE: 7-houdini-tab-menu
 
 2. Select **Polygon > PolyReduce**, and then press Enter to select the PolyReduce node. Click beneath the **File** node to place it.
  
    A new node named **polyreduce1** appears in the **Geometry** window near the imported geometry node.
    
-   SCREEN SHOT GOES HERE: houdini-polyreduce1-node
+   SCREEN SHOT GOES HERE: 8-houdini-polyreduce1-node
  
 3.	Select the bottom gray dot on the node of the imported geometry and drag a connection line to the leftmost top dot on the polyreduce1 node. A red arrow appears on the dot on the polyreduce1 node.
 
-   SCREEN SHOT GOES HERE: houdini-drag-geometry
+   SCREEN SHOT GOES HERE: 9-houdini-drag-geometry
  
 5. Select the center of the polyreduce1 node and look at the options available in the tab above the **Geometry** window.
 
-   SCREEN SHOT GOES HERE: houdini-polyreduce1-options
+   SCREEN SHOT GOES HERE: 10-houdini-polyreduce1-options
  
 6.	Select the **Target** window and choose **Output Polygon Count**. This enables you to specify a polygon count that meets the desired polygon targets.
 
-   SCREEN SHOT GOES HERE: houdini-output-polygon-count
+   SCREEN SHOT GOES HERE: 11-houdini-output-polygon-count
 
 7.	To see the results, make sure the polyreduce1 node is selected, and the **Template** (pink) and **Display** (blue) bars are filled by selecting each bar. 
 
    The model changes to show much less detail.
    
-   SCREEN SHOT GOES HERE: houdini-changed-model 
+   SCREEN SHOT GOES HERE: 12-houdini-changed-model 
 
 There is some wiggle room with the polygon counts for use on mixed reality devices. You can use the **Number to keep** slider to fine-tune the look of the model. Experiment with this slider to get the look you like with the polygon count you need.
 
@@ -91,29 +91,29 @@ You can add a shader to the model to define how shiny and smooth the model appea
 
 1.	Open the **Material Palette** tab (in the same window pane as the node system), select **Principled Shader**, and then drag it to the open grey space.
 
-   SCREEN SHOT GOES HERE: houdini-shader
+   SCREEN SHOT GOES HERE: 13-houdini-shader
  
 2.	Right-click **Principled Shader**, and then select **Assign to Selected Objects or Geometry**.
 
-   SCREEN SHOT GOES HERE: houdini-assign-to-selected-objects
+   SCREEN SHOT GOES HERE: 14-houdini-assign-to-selected-objects
  
 3.	Highlight the entire model by selecting the window, and then select **Assign**.
 
-   SCREEN SHOT GOES HERE: houdini-highlight-model
+   SCREEN SHOT GOES HERE: 15-houdini-highlight-model
  
 4.	In the **Geometry** window, you'll see that a material1 node has been created and linked below the polyreduce1 node.
 
-   SCREEN SHOT GOES HERE: houdini-material1-node
+   SCREEN SHOT GOES HERE: 16-houdini-material1-node
   
 5.	Select the open floating operator chooser in the upper pane, select **principledshader**, and then select **Accept**.
 
-   SCREEN SHOT GOES HERE: houdini-accept
+   SCREEN SHOT GOES HERE: 17-houdini-accept
  
 ### Adjust material properites
 
 You can adjust visible properties like the color of the material in the window pane above the **Material Palette** when you have the **Principled Shader** highlighted. For example, start with Roughness at 0.8 and Metallic at 0.2 for CAD models.
 
-SCREEN SHOT GOES HERE: houdini-adjust-material-properties
+SCREEN SHOT GOES HERE: 18-houdini-adjust-material-properties
 
 To change the color of the 3D model:
 
@@ -121,7 +121,7 @@ To change the color of the 3D model:
 
 2. In the **Color Editor** dialog box, pick a color. You can pick from previous colors, the mixer wheel located in the upper-left of the editor, or from the sliders located on the bottom right. 
 
-   SCREEN SHOT GOES HERE: houdini-color-editor
+   SCREEN SHOT GOES HERE: 19-houdini-color-editor
 
 3. When you're satisfied with the color choice, close the **Color Editor** dialog box.
 
@@ -133,23 +133,23 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
 2. Select **Export > ROP GLTF Output**, press Enter, and then select below the **material1** node to place the **rop_glft1** node.
 
-   SCREEN SHOT GOES HERE: houdini-place-rop-gltf1-node 
+   SCREEN SHOT GOES HERE: 20-houdini-place-rop-gltf1-node 
 
 3.	Drag a connection from the **material1** node to the **rop_gltf1** node.
 
-   SCREEN SHOT GOES HERE: houdini-drag-connection-to-rop-gltf1-node
+   SCREEN SHOT GOES HERE: 21-houdini-drag-connection-to-rop-gltf1-node
   
 4.	In the top pane, in the **Export Type** field, select **glb**. 
 
-   SCREEN SHOT GOES HERE: houdini-export-type
+   SCREEN SHOT GOES HERE: 22-houdini-export-type
  
 5.	Next to the **Output File** field, select the **File Chooser** button, and then choose a name and destination for the GLB file.  Make sure to add **.glb** to the end of the file name.
 
-   SCREEN SHOT GOES HERE: houdini-output-file
+   SCREEN SHOT GOES HERE: 23-houdini-output-file
  
 6.	Select **Render to Disk** to finalize the export and create the GLB file.
 
-   SCREEN SHOT GOES HERE: houdini-render-to-disk
+   SCREEN SHOT GOES HERE: 24-houdini-render-to-disk
  
 ## Create a template
 
@@ -165,11 +165,11 @@ The first thing you need to do is replace whatever geometry is currently being u
    
 3.	Change the file name to something generic like **Template**.
 
-   SCREEN SHOT GOES HERE: houdini-template
+   SCREEN SHOT GOES HERE: 25-houdini-template
  
 4.	On the **File** menu, select **Save**, and then save the file as something memorable like **Prep_Template**.  
 
-   SCREEN SHOT GOES HERE: houdini-save
+   SCREEN SHOT GOES HERE: 26-houdini-save
 
 5.	The template is ready. Close Houdini to try it out.
 
@@ -177,25 +177,25 @@ The first thing you need to do is replace whatever geometry is currently being u
 
 1.	Launch Houdini, open the template file by selecting **File > Open**, and then select the template.
 
-   SCREEN SHOT GOES HERE: houdini-file-open
+   SCREEN SHOT GOES HERE: 27-houdini-file-open
  
 2.	Select the center of the geometry file node to switch to the **File** context menu above, and then select **File chooser** button to select xxx.  
 
-   SCREEN SHOT GOES HERE: houdini-file-chooser2
+   SCREEN SHOT GOES HERE: 28-houdini-file-chooser2
  
 3.	When the geometry is loaded, select the red sphere on the **polyreduce1** node, and then the blue tab to the far right. 
 
-   SCREEN SHOT GOES HERE: houdini-red-sphere
+   SCREEN SHOT GOES HERE: 29-houdini-red-sphere
 
    This shows you what the reduced poly model looks like in the view window, and provides access to the reduction tools.
  
 4.	When the model reaches a quality that meets your requirements, select the **rop_gltf1** node, select the **File chooser** button, and then choose a location and name for the file you're exporting. Be sure to include the .glb extension in the file name.
 
-   SCREEN SHOT GOES HERE: houdini-choose-location
+   SCREEN SHOT GOES HERE: 30-houdini-choose-location
  
 5.	Select **Render to Disk** to create the 3D model.
  
-   SCREEN SHOT GOES HERE: houdini-render-to-disk2
+   SCREEN SHOT GOES HERE: 31-houdini-render-to-disk2
 
 6.	Repeat this process with the rest of your 3D models to rapidly produce optimized assets ready for use in Dynamics 365 mixed reality applications.
 
