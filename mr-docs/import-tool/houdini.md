@@ -88,7 +88,7 @@ To reach application-specific goals, you may need to decimate a 3D model. Decima
 
 7.	To see the results, make sure the polyreduce1 node is selected, and the **Template** (pink) and **Display** (blue) bars are filled by selecting each bar. 
 
-   The model changes to show much less detail.
+    The model changes to show much less detail.
    
     ![Polyreduce results](media/12-houdini-polyreduce-results.PNG "Polyreduce results") 
 
