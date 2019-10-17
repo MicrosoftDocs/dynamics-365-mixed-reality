@@ -122,7 +122,7 @@ You can add a shader to the model to define how shiny and smooth the model appea
 
 You can adjust visible properties like the color of the material in the window pane above the **Material Palette** when you have the **Principled Shader** highlighted. For example, start with Roughness at 0.8 and Metallic at 0.2 for CAD models.
 
-SCREEN SHOT GOES HERE: 18-houdini-adjust-materials
+![Adjust materials](media/18-houdini-adjust-materials.PNG "Adjust materials") 
 
 To change the color of the 3D model:
 
@@ -130,7 +130,7 @@ To change the color of the 3D model:
 
 2. In the **Color Editor** dialog box, pick a color. You can pick from previous colors, the mixer wheel located in the upper-left of the editor, or from the sliders located on the bottom right. 
 
-   SCREEN SHOT GOES HERE: 19-houdini-color-editor
+   ![Color Editor](media/19-houdini-color-editor.PNG "Color Editor") 
 
 3. When you're satisfied with the color choice, close the **Color Editor** dialog box.
 
@@ -142,23 +142,23 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
 2. Select **Export > ROP GLTF Output**, press Enter, and then select below the **material1** node to place the **rop_glft1** node.
 
-   SCREEN SHOT GOES HERE: 20-houdini-export-rop-gltf 
+   ![Export ROP GLTF Output](media/20-houdini-export-rop-gltf.PNG "Export ROP GLTF Output") 
 
 3.	Drag a connection from the **material1** node to the **rop_gltf1** node.
 
-   SCREEN SHOT GOES HERE: 21-houdini-rop-connection
+   ![Connection from material1 node to rop_gltf1 node](media/21-houdini-rop-connection.PNG "Connection from material1 node to rop_gltf1 node") 
   
 4.	In the top pane, in the **Export Type** field, select **glb**. 
 
-   SCREEN SHOT GOES HERE: 22-houdini-export-glb
+   ![Export to GLB file](media/22-houdini-export-glf.PNG "Export to GLB file") 
  
 5.	Next to the **Output File** field, select the **File Chooser** button, and then choose a name and destination for the GLB file.  Make sure to add **.glb** to the end of the file name.
 
-   SCREEN SHOT GOES HERE: 23-houdini-file-chooser
+   ![File chooser button](media/23-houdini-file-chooser.PNG "File chooser button") 
  
 6.	Select **Render to Disk** to finalize the export and create the GLB file.
 
-   SCREEN SHOT GOES HERE: 24-houdini-render-to-disk
+   ![Render to Disk button](media/24-houdini-render-to-disk.PNG "Render to Disk button") 
  
 ## Create a template
 
@@ -174,11 +174,11 @@ The first thing you need to do is replace whatever geometry is currently being u
    
 3.	Change the file name to something generic like **Template**.
 
-   SCREEN SHOT GOES HERE: 25-houdini-template
+   ![Template](media/25-houdini-template.PNG "Template") 
  
 4.	On the **File** menu, select **Save**, and then save the file as something memorable like **Prep_Template**.  
 
-   SCREEN SHOT GOES HERE: 26-houdini-file-save
+   ![File Save](media/26-houdini-file-save.PNG "File Save") 
 
 5.	The template is ready. Close Houdini to try it out.
 
@@ -186,25 +186,25 @@ The first thing you need to do is replace whatever geometry is currently being u
 
 1.	Launch Houdini, open the template file by selecting **File > Open**, and then select the template.
 
-   SCREEN SHOT GOES HERE: 27-houdini-open-template
+   ![File Open template](media/27-houdini-open-template.PNG "File Open template") 
  
 2.	Select the center of the geometry file node to switch to the **File** context menu above, and then select **File chooser** button to select xxx.  
 
-   SCREEN SHOT GOES HERE: 28-houdini-file-chooser2
+   ![File chooser button](media/28-houdini-file-chooser2.PNG "File chooser button") 
  
 3.	When the geometry is loaded, select the red sphere on the **polyreduce1** node, and then the blue tab to the far right. 
 
-   SCREEN SHOT GOES HERE: 29-houdini-reduction-tools
+   ![Select red sphere](media/29-houdini-reduction-tools.PNG "Select red sphere") 
 
    This shows you what the reduced poly model looks like in the view window, and provides access to the reduction tools.
  
 4.	When the model reaches a quality that meets your requirements, select the **rop_gltf1** node, select the **File chooser** button, and then choose a location and name for the file you're exporting. Be sure to include the .glb extension in the file name.
 
-   SCREEN SHOT GOES HERE: 30-houdini-rop-gltf
+   ![Export rop-gltf](media/30-houdini-rop-gltf.PNG "Export rop-gltf") SCREEN SHOT GOES HERE: 30-houdini-rop-gltf
  
 5.	Select **Render to Disk** to create the 3D model.
  
-   SCREEN SHOT GOES HERE: 31-houdini-render-to-disk2
+   ![Render to Disk button](media/31-houdini-render-to-disk-2.PNG "Render to Disk button") 
 
 6.	Repeat this process with the rest of your 3D models to rapidly produce optimized assets ready for use in Dynamics 365 mixed reality applications.
 
