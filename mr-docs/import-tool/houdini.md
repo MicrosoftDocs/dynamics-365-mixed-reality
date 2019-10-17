@@ -66,31 +66,31 @@ To reach application-specific goals, you may need to decimate a 3D model. Decima
 
 1.	In the **Geometry** pane on the lower right, tap the Tab key to open the **TAB** menu again. 
 
-   ![Polygon PolyReduce](media/7-houdini-poly-reduce.PNG "Polygon PolyReduce") 
+    ![Polygon PolyReduce](media/7-houdini-poly-reduce.PNG "Polygon PolyReduce") 
 
 2. Select **Polygon > PolyReduce**, and then press Enter to select the PolyReduce node. Click beneath the **File** node to place it.
  
    A new node named **polyreduce1** appears in the **Geometry** window near the imported geometry node.
    
-   ![Polyreduce node](media/8-houdini-polyreduce1-node.PNG "Polyreduce node") 
+    ![Polyreduce node](media/8-houdini-polyreduce1-node.PNG "Polyreduce node") 
  
 3.	Select the bottom gray dot on the node of the imported geometry and drag a connection line to the leftmost top dot on the polyreduce1 node. A red arrow appears on the dot on the polyreduce1 node.
 
-   ![Drag to create a connection](media/9-houdini-drag-geometry.PNG "Drag to create a connection") 
+    ![Drag to create a connection](media/9-houdini-drag-geometry.PNG "Drag to create a connection") 
  
 5. Select the center of the polyreduce1 node and look at the options available in the tab above the **Geometry** window.
 
-   ![Polreduce options](media/10-houdini-polyreduce1-options.PNG "Polyreduce options") 
+    ![Polreduce options](media/10-houdini-polyreduce1-options.PNG "Polyreduce options") 
  
 6.	Select the **Target** window and choose **Output Polygon Count**. This enables you to specify a polygon count that meets the desired polygon targets.
 
-   ![Output Polygon Count](media/11-houdini-output-polygon-count.PNG "Output Polygon Count") 
+    ![Output Polygon Count](media/11-houdini-output-polygon-count.PNG "Output Polygon Count") 
 
 7.	To see the results, make sure the polyreduce1 node is selected, and the **Template** (pink) and **Display** (blue) bars are filled by selecting each bar. 
 
    The model changes to show much less detail.
    
-   ![Polyreduce results](media/12-houdini-polyreduce-results.PNG "Polyreduce results") 
+    ![Polyreduce results](media/12-houdini-polyreduce-results.PNG "Polyreduce results") 
 
 There is some wiggle room with the polygon counts for use on mixed reality devices. You can use the **Number to keep** slider to fine-tune the look of the model. Experiment with this slider to get the look you like with the polygon count you need.
 
@@ -100,23 +100,23 @@ You can add a shader to the model to define how shiny and smooth the model appea
 
 1.	Open the **Material Palette** tab (in the same window pane as the node system), select **Principled Shader**, and then drag it to the open grey space.
 
-   ![Principled Shader](media/13-houdini-shader.PNG "Principled Shader") 
+    ![Principled Shader](media/13-houdini-shader.PNG "Principled Shader") 
  
 2.	Right-click **Principled Shader**, and then select **Assign to Selected Objects or Geometry**.
 
-   ![Assign to Selected Objects or Geometry](media/14-houdini-assign-to-selected-objects.PNG "Assign to Selected Objects or Geometry") 
+    ![Assign to Selected Objects or Geometry](media/14-houdini-assign-to-selected-objects.PNG "Assign to Selected Objects or Geometry") 
  
 3.	Highlight the entire model by selecting the window, and then select **Assign**.
 
-   ![Highlighted model](media/15-houdini-highlight-model.PNG "Highlighted model") 
+    ![Highlighted model](media/15-houdini-highlight-model.PNG "Highlighted model") 
  
 4.	In the **Geometry** window, you'll see that a material1 node has been created and linked below the polyreduce1 node.
 
-   ![Material node](media/16-houdini-material-node.PNG "Material node") 
+    ![Material node](media/16-houdini-material-node.PNG "Material node") 
   
 5.	Select the open floating operator chooser in the upper pane, select **principledshader**, and then select **Accept**.
 
-   ![Accept principledshader](media/17-houdini-accept.PNG "Accept principledshader") 
+    ![Accept principledshader](media/17-houdini-accept.PNG "Accept principledshader") 
  
 ### Adjust material properites
 
@@ -130,7 +130,7 @@ To change the color of the 3D model:
 
 2. In the **Color Editor** dialog box, pick a color. You can pick from previous colors, the mixer wheel located in the upper-left of the editor, or from the sliders located on the bottom right. 
 
-   ![Color Editor](media/19-houdini-color-editor.PNG "Color Editor") 
+    ![Color Editor](media/19-houdini-color-editor.PNG "Color Editor") 
 
 3. When you're satisfied with the color choice, close the **Color Editor** dialog box.
 
@@ -142,23 +142,23 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
 2. Select **Export > ROP GLTF Output**, press Enter, and then select below the **material1** node to place the **rop_glft1** node.
 
-   ![Export ROP GLTF Output](media/20-houdini-export-rop-gltf.PNG "Export ROP GLTF Output") 
+    ![Export ROP GLTF Output](media/20-houdini-export-rop-gltf.PNG "Export ROP GLTF Output") 
 
 3.	Drag a connection from the **material1** node to the **rop_gltf1** node.
 
-   ![Connection from material1 node to rop_gltf1 node](media/21-houdini-rop-connection.PNG "Connection from material1 node to rop_gltf1 node") 
+    ![Connection from material1 node to rop_gltf1 node](media/21-houdini-rop-connection.PNG "Connection from material1 node to rop_gltf1 node") 
   
 4.	In the top pane, in the **Export Type** field, select **glb**. 
 
-   ![Export to GLB file](media/22-houdini-export-glf.PNG "Export to GLB file") 
+    ![Export to GLB file](media/22-houdini-export-glf.PNG "Export to GLB file") 
  
 5.	Next to the **Output File** field, select the **File Chooser** button, and then choose a name and destination for the GLB file.  Make sure to add **.glb** to the end of the file name.
 
-   ![File chooser button](media/23-houdini-file-chooser.PNG "File chooser button") 
+    ![File chooser button](media/23-houdini-file-chooser.PNG "File chooser button") 
  
 6.	Select **Render to Disk** to finalize the export and create the GLB file.
 
-   ![Render to Disk button](media/24-houdini-render-to-disk.PNG "Render to Disk button") 
+    ![Render to Disk button](media/24-houdini-render-to-disk.PNG "Render to Disk button") 
  
 ## Create a template
 
@@ -174,11 +174,11 @@ The first thing you need to do is replace whatever geometry is currently being u
    
 3.	Change the file name to something generic like **Template**.
 
-   ![Template](media/25-houdini-template.PNG "Template") 
+    ![Template](media/25-houdini-template.PNG "Template") 
  
 4.	On the **File** menu, select **Save**, and then save the file as something memorable like **Prep_Template**.  
 
-   ![File Save](media/26-houdini-file-save.PNG "File Save") 
+    ![File Save](media/26-houdini-file-save.PNG "File Save") 
 
 5.	The template is ready. Close Houdini to try it out.
 
@@ -186,25 +186,25 @@ The first thing you need to do is replace whatever geometry is currently being u
 
 1.	Launch Houdini, open the template file by selecting **File > Open**, and then select the template.
 
-   ![File Open template](media/27-houdini-open-template.PNG "File Open template") 
+    ![File Open template](media/27-houdini-open-template.PNG "File Open template") 
  
 2.	Select the center of the geometry file node to switch to the **File** context menu above, and then select **File chooser** button to select xxx.  
 
-   ![File chooser button](media/28-houdini-file-chooser2.PNG "File chooser button") 
+    ![File chooser button](media/28-houdini-file-chooser2.PNG "File chooser button") 
  
 3.	When the geometry is loaded, select the red sphere on the **polyreduce1** node, and then the blue tab to the far right. 
 
-   ![Select red sphere](media/29-houdini-reduction-tools.PNG "Select red sphere") 
+    ![Select red sphere](media/29-houdini-reduction-tools.PNG "Select red sphere") 
 
    This shows you what the reduced poly model looks like in the view window, and provides access to the reduction tools.
  
 4.	When the model reaches a quality that meets your requirements, select the **rop_gltf1** node, select the **File chooser** button, and then choose a location and name for the file you're exporting. Be sure to include the .glb extension in the file name.
 
-   ![Export rop-gltf](media/30-houdini-rop-gltf.PNG "Export rop-gltf") SCREEN SHOT GOES HERE: 30-houdini-rop-gltf
+    ![Export rop-gltf](media/30-houdini-rop-gltf.PNG "Export rop-gltf") 
  
 5.	Select **Render to Disk** to create the 3D model.
  
-   ![Render to Disk button](media/31-houdini-render-to-disk-2.PNG "Render to Disk button") 
+    ![Render to Disk button](media/31-houdini-render-to-disk-2.PNG "Render to Disk button") 
 
 6.	Repeat this process with the rest of your 3D models to rapidly produce optimized assets ready for use in Dynamics 365 mixed reality applications.
 
