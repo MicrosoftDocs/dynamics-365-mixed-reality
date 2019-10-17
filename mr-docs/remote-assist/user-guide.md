@@ -2,7 +2,7 @@
 author: drpusey
 description: Dynamics 365 Remote Assist user guide (for HoloLens)
 ms.author: drpusey
-ms.date: 10/01/2019
+ms.date: 10/16/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist user guide (for HoloLens)
@@ -334,6 +334,16 @@ To erase all the arrows and drawings you’ve added during a video call:
 To undo your most recent action, including **Erase all**:
 
 -   Select **Undo** at the top of the call window (or say “Undo”).
+
+## Join a Teams meeting
+
+You can join a Teams meeting directly from Dynamics 365 Remote Assist. This is useful for maintenance and repairs that are scheduled in advance. It's also useful for inspections and other recurring scenarios. 
+
+To join a call:
+
+- Select the **Join Meeting** button below the **Contacts** screen. The **Join Meeting** button appears if the meeting is happening now or sometime in the next 30 minutes.
+
+   ![Join meeting](media/join-meeting.PNG "Join meeting")
 
 ## Use voice commands and gaze <a name="voice"></a>
 
