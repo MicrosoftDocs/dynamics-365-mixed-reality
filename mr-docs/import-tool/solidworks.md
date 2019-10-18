@@ -82,3 +82,28 @@ The Defeature tool provides another optimization option. You can use this tool f
     SCREEN SHOT GOES HERE: solidworks-save
  
 8. Name your model, and then select **Save**. The model is saved as a single SolidWorks part file. 
+
+### Create a silhouette
+
+Another option for optimizing your model is the Silhouette tool. This tool is useful when you just need to understand the basic shape of a complex model.  
+
+1. To access the tool, select **Tools > Defeature**.
+
+    SCREEN SHOT GOES HERE: solidworks-defeature
+    
+2. Select **Sillhouette**. 
+
+    SCREEN SHOT GOES HERE: solidworks-silhouette
+ 
+3. Highlight the entire model (or portions of the model if you only want to modify certain parts), select an option under  **Simplification Method**, and then select **Add Group**. For this example, we selected the **Tight Fit Outline** option, but feel free to experiment with other options.
+ 
+    SCREEN SHOT GOES HERE: solidworks-tight-fit-outline
+ 
+4. You'll see a preview window that shows what your silhouetted model will look like. When you have it the way want, select the Next button.  
+ 
+    SCREEN SHOT GOES HERE: solidworks-preview-window
+ 
+5. Select **Save as a new document**, and then select the green check mark to save your model. 
+ 
+    SCREEN SHOT GOES HERE: solidworks-save-silhouette
+
