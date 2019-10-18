@@ -37,8 +37,48 @@ To remove features with the Simplify tool:
 
 3. Select the **All** check box, and then select **Suppress**. 
 
-   SCREEN SHOT GOES HERE: solidworks-suppress
+    SCREEN SHOT GOES HERE: solidworks-suppress
  
    The features you select are removed from your model. If you discover that features of your model were removed that you wish to keep, you can undo the process. Clear the **All** check box, and then select just the items you want to remove. 
 
+## Remove small parts with the Defeature tool
 
+The Defeature tool provides another optimization option. You can use this tool for both part removal and for creating a silhouette of your model.  
+
+1. To access this tool, select **Tools > Defeature**. 
+ 
+    SCREEN SHOT GOES HERE: solidworks-defeature
+ 
+2. Select to either simplify your geometry or create a silhouette. 
+
+    SCREEN SHOT GOES HERE: solidworks-geometry-or-silhouette
+
+### Simplify geometry
+
+1. Select the Simplify Geometry icon, and then select the Next arrow. 
+ 
+    SCREEN SHOT GOES HERE: solidworks-simplify-geometry
+    
+2. Select the **Internal components** check box.  
+
+3. Select the **Small components** check box, and enter a percentage to use.  We suggest starting with 1%. This will often remove nuts, bolts, and washers from an assembly while leaving the more visually important components. You can increase this percentage if you need to remove more. Select the next arrow when you're ready.
+
+    SCREEN SHOT GOES HERE: solidworks-components
+    
+4. Select the Next arrow again to skip adding motion to the assemblies.  
+
+    SCREEN SHOT GOES HERE: solidworks-motion
+    
+5. If you want to retain the detail for specific geometry areas, select them. Otherwise, they'll be optimized. You can also select the check boxes under **Auto-Select** to retain all holes or holes of a specific size. Select the Next button when you're done.
+
+    SCREEN SHOT GOES HERE: solidworks-autoselect
+    
+6. The tool "defeatures" the model. If there's anything that was missed that you would like to remove, select it in the following screen. When you're done, select the Next button. 
+
+    SCREEN SHOT GOES HERE: solidworks-select-additional-features
+    
+7. If the optimized model meets your needs, select **Save as a new document**, and then select the green arrow. 
+
+    SCREEN SHOT GOES HERE: solidworks-save
+ 
+8. Name your model, and then select **Save**. The model is saved as a single SolidWorks part file. 
