@@ -120,3 +120,36 @@ Another technique is to save the 3D model assembly as a part file (.asm -> .prt)
     SCREEN SHOT GOES HERE: solidworks-save-assembly-as-part
     
 4. Select **Save**.
+
+## Export the 3D model as a GLB file 
+ 
+After you optimize a 3D model, you can easily export it directly from SolidWorks as a GLB file.  
+
+- Select **File > Save As**, and then select Extended Reality Binary (.glb) as the file type. 
+
+   SCREEN SHOT GOES HERE: solidworks-export
+   
+## Other conversion options 
+
+If you do not have SolidWorks 2019 and the XR exporter plugin, then you need to do one of the following to convert your 3D model into an optimizable format: 
+If you do not need to see material color, then you can export your model as a .STL and import it directly into the import tool.  If it is not performant then you can import the .STL into a DCC application and optimize it further.  A list of tutorials on how to optimize your 3D models with DCC applications can be found here 
+If you would like to see material colors on your final product, then you will need to send your 3D model through a transcoder before optimizing it further.  Here is a link to a 3ds Max tutorial that we have created that will walk you through the optimization and conversion process. 
+Viewing your 3D model in mixed reality 
+ 
+Now that you have prepared your 3d models, you can use the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality: 
+Dynamics 365 Product Visualize 
+Dynamics 365 Guides 
+Dynamics 365 Layout via the Dynamics 365 Import Tool (Preview) 
+ 
+More information 
+ 
+You can find more information on these products here: 
+ 
+Dassault Systèmes Solidworks 2019  
+Extended Reality (XR) Exporter 
+ 
+Several screenshots in this document were taken from the Dassault Systèmes SolidWorks software program to provide clear instructions on how to use Dassault’s software.  More information about Dassault Systèmes SolidWorks can be found here: Dassault Systèmes SolidWorks 
+ 
+The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Dassault Systèmes Solidworks, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
+ 
+The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation.  
