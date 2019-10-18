@@ -107,3 +107,16 @@ Another option for optimizing your model is the Silhouette tool. This tool is us
  
     SCREEN SHOT GOES HERE: solidworks-save-silhouette
 
+## Save an assembly as a part
+
+Another technique is to save the 3D model assembly as a part file (.asm -> .prt).  When you do this, you can choose to hide internal geometry. This will increase the performance of your 3D model and also help you maintain confidentiality about the inner workings of your designs.  
+
+1. Select the master assembly (or a subassembly), and then select **File -> Save As**. 
+
+2. In the **Save as type** field, select **Part**.
+
+3. Under **Geometry to save**, select **Exterior faces**. This creates a part that only has the exterior faces showing.  Any internal parts will be filled, and the item will become solid. 
+
+    SCREEN SHOT GOES HERE: solidworks-save-assembly-as-part
+    
+4. Select **Save**.
