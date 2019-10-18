@@ -131,24 +131,28 @@ After you optimize a 3D model, you can easily export it directly from SolidWorks
    
 ## Other conversion options 
 
-If you do not have SolidWorks 2019 and the XR exporter plugin, then you need to do one of the following to convert your 3D model into an optimizable format: 
-If you do not need to see material color, then you can export your model as a .STL and import it directly into the import tool.  If it is not performant then you can import the .STL into a DCC application and optimize it further.  A list of tutorials on how to optimize your 3D models with DCC applications can be found here 
-If you would like to see material colors on your final product, then you will need to send your 3D model through a transcoder before optimizing it further.  Here is a link to a 3ds Max tutorial that we have created that will walk you through the optimization and conversion process. 
-Viewing your 3D model in mixed reality 
+If you don't have SolidWorks 2019 and the XR exporter plugin, you need to do one of the following to convert your 3D model into an optimizable format: 
+
+- If you don't need to see material color, you can export your model as an STL file and import it directly into Dynamics 365 Import Tool (Preview). If it's not performant, you can import the STL file into a DCC application and optimize it further. [See a list of tutorials on how to optimize your 3D models with DCC applications](tutorials-overview.md). 
+
+- If you would like to see material colors on your final product, you'll need to send your 3D model through a transcoder before optimizing it further. [This 3ds Max tutorial walks you through the optimization and conversion process](3ds-max).  
+
+## View your 3D model in Dynamics 365 mixed reality applications
  
-Now that you have prepared your 3d models, you can use the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality: 
-Dynamics 365 Product Visualize 
-Dynamics 365 Guides 
-Dynamics 365 Layout via the Dynamics 365 Import Tool (Preview) 
+After you prepare your 3D models, you can use the following Microsoft Dynamics 365 applications to view your 3D model in mixed reality: 
+
+[Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)<br> 
+[Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)<br> 
+[Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/index) via [Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool)<br> 
  
-More information 
+## More information 
  
 You can find more information on these products here: 
  
-Dassault Systèmes Solidworks 2019  
-Extended Reality (XR) Exporter 
+[Dassault Systèmes Solidworks 2019](https://www.solidworks.com/)  
+[Extended Reality (XR) Exporter](https://www.solidworks.com/beta/exporter.htm) 
  
-Several screenshots in this document were taken from the Dassault Systèmes SolidWorks software program to provide clear instructions on how to use Dassault’s software.  More information about Dassault Systèmes SolidWorks can be found here: Dassault Systèmes SolidWorks 
+Several screenshots in this document were taken from the Dassault Systèmes SolidWorks software program to provide clear instructions on how to use Dassault’s software.  More information about Dassault Systèmes SolidWorks can be found here: [Dassault Systèmes SolidWorks](https://www.solidworks.com/) 
  
 The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Dassault Systèmes Solidworks, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
  
