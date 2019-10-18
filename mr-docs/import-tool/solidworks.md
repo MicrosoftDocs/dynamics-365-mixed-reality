@@ -21,4 +21,24 @@ The features in this tutorial have been identified as ways to optimize 3D models
 
 If your 3D model is extremely complex and you're having performance issues, you can optimize it with the Simplify tool.  The Simplify tool provides a wide range of options for simplifying your models to different levels, including internal part removal, small part removal, defeaturing and more. [Learn more about using the Simplify tool](https://help.solidworks.com/2018/English/SolidWorks/sldworks/t_simplifying_parts.htm). 
 
+To remove features with the Simplify tool:
+
+1. Access the Simplify tool, select **Tools > Find/Modify > Simplify**. 
+
+   SCREEN SHOT GOES HERE: solidworks-simplify-tool
+ 
+2. Choose from the following options: 
+
+   - **Features**. Decide which features you want to search for. Select fillets, chamfers, and holes as these features create lots of polygons when transcoded.
+   
+   - **Feature Parameter or Volume Based.**  When you select the **Feature Parameter** option, SolidWorks selects objects whose parameters (such as “Fillet Radius”) are smaller than the simplification factor. When you select the **Volume Based** option, SolidWorks selects objects if the feature volume is less than the volume of a part times the value in the **Simplification factor** field. Either method works fine. Selecting the **Volume Based** option and entering a value of 0.1 for the **Simplification factor** field will give you a great first pass. If you don’t find many objects, increase the **Simplification factor** value and try again. Select **Find Now** to see the results. 
+ 
+      SCREEN SHOT GOES HERE: solidworks-simplify-features
+
+3. Select the **All** check box, and then select **Suppress**. 
+
+   SCREEN SHOT GOES HERE: solidworks-suppress
+ 
+   The features you select are removed from your model. If you discover that features of your model were removed that you wish to keep, you can undo the process. Clear the **All** check box, and then select just the items you want to remove. 
+
 
