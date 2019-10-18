@@ -100,7 +100,7 @@ To decimate a 3D model:
 
 You can add a shader to the model to define how shiny and smooth the model appears to give it a more realistic appearance. 
 
-1.	Open the **Material Palette** tab (in the same window pane as the node system), select **Principled Shader**, and then drag it to the open grey space.
+1.	Open the **Material Palette** tab (in the same window pane as the node system), select **Principled Shader**, and then drag it to the open gray space.
 
     ![Principled Shader](media/13-houdini-shader.PNG "Principled Shader") 
  
@@ -112,17 +112,17 @@ You can add a shader to the model to define how shiny and smooth the model appea
 
     ![Highlighted model](media/15-houdini-highlight-model.PNG "Highlighted model") 
  
-4.	In the **Geometry** window, you'll see that a material1 node has been created and linked below the polyreduce1 node.
+4.	In the **Geometry** window, you'll see that a **material1** node has been created and linked below the **polyreduce1** node.
 
     ![Material node](media/16-houdini-material-node.PNG "Material node") 
   
-5.	Select the open floating operator chooser in the upper pane, select **principledshader**, and then select **Accept**.
+5.	Select the open **File chooser** button in the upper pane, select **principledshader**, and then select **Accept**.
 
     ![Accept principledshader](media/17-houdini-accept.PNG "Accept principledshader") 
  
 ### Adjust material properites
 
-You can adjust visible properties like the color of the material in the window pane above the **Material Palette** when you have the **Principled Shader** highlighted. For example, start with Roughness at 0.8 and Metallic at 0.2 for CAD models.
+You can adjust visible properties like the color of the material in the window pane above the **Material Palette** when you have the **Principled Shader** highlighted. For example, start with **Roughness** at **0.8** and **Metallic** at **0.2** for CAD models.
 
 ![Adjust materials](media/18-houdini-adjust-materials.PNG "Adjust materials") 
 
@@ -130,19 +130,19 @@ To change the color of the 3D model:
 
 1. Select the color swatch button located to the right of **Base Color** (see screen shot above). 
 
-2. In the **Color Editor** dialog box, pick a color. You can pick from previous colors, the mixer wheel located in the upper-left of the editor, or from the sliders located on the bottom right. 
+2. In the **Color Editor** dialog box, pick a color. You can pick from previous colors, the mixer wheel, or from the sliders. 
 
     ![Color Editor](media/19-houdini-color-editor.PNG "Color Editor") 
 
-3. When you're satisfied with the color choice, close the **Color Editor** dialog box.
+3. When you're satisfied with the colors, close the **Color Editor** dialog box.
 
 ## Export the model to a GLB file
 
-In this step, we’ll export the model to a GLB file so it can be used with Dynamics 365 mixed reality apps. 
+You need to export the model to a GLB file to use it with Dynamics 365 mixed reality apps. 
 
-1.	In the **Geometry** window, press the Tab key to bring up the **TAB** menu. 
+1.	In the **Geometry** window, press the Tab key to open the **TAB Menu**. 
 
-2. Select **Export > ROP GLTF Output**, press Enter, and then select below the **material1** node to place the **rop_glft1** node.
+2. Select **Export > ROP GLTF Output**, press Enter, and then select below the **material1** node to place the **rop_gltf1** node.
 
     ![Export ROP GLTF Output](media/20-houdini-export-rop-gltf.PNG "Export ROP GLTF Output") 
 
@@ -158,7 +158,7 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
     ![File chooser button](media/23-houdini-file-chooser.PNG "File chooser button") 
  
-6.	Select **Render to Disk** to finalize the export and create the GLB file.
+6.	Select **Render to Disk** to finish the export and create the GLB file.
 
     ![Render to Disk button](media/24-houdini-render-to-disk.PNG "Render to Disk button") 
  
@@ -166,13 +166,13 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
 Now that the node tree is set up, you can use it as a template to quickly prepare 3D models.
 
-The first thing you need to do is replace whatever geometry is currently being used with a default geometry. This makes the template file lightweight so that it will load quickly when you open it. To do this:
+The first thing you need to do is replace whatever geometry is currently being used with a default geometry. This makes the template file lightweight so that it loads quickly when you open it. To do this:
 
 1.	Select the file icon to activate the geometry file menu in the upper pane.
 
-2.	Change the **Geometry File** field to say **default.bgeo**, and then select **Reload Geometry**.
+2.	Change the **Geometry File** field to **default.bgeo**, and then select **Reload Geometry**.
 
-   This refreshes the geometry so that it's a generic cube.
+    This refreshes the geometry so that it's a generic cube.
    
 3.	Change the file name to something generic like **Template**.
 
@@ -208,19 +208,19 @@ The first thing you need to do is replace whatever geometry is currently being u
  
     ![Render to Disk button](media/31-houdini-render-to-disk-2.PNG "Render to Disk button") 
 
-6.	Repeat this process with the rest of your 3D models to rapidly produce optimized assets ready for use in Dynamics 365 mixed reality applications.
+6.	Repeat this process with the rest of your 3D models to rapidly produce optimized models ready for use in Dynamics 365 mixed reality applications.
 
 ## View a 3D model in a Dynamics 365 mixed reality application
 
 After preparing your 3D models, you can learn more about using the following Microsoft Dynamics 365 applications to view your 3D models in mixed reality: 
 
-[Dynamics 365 Product Visualize (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)
-[Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/) 
-[Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/index) via the [Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool) 
+[Dynamics 365 Product Visualize (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)<br>
+[Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)<br> 
+[Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/index) via the [Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)<br> 
  
 ## More information 
  
-Several screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software.  More information about Houdini can be found here: [SideFX Houdini](https://www.sidefx.com/) 
+Several screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software. [Learn more about SideFX Houdini](https://www.sidefx.com/).
  
 The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Houdini, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
 The license terms of the Blender website is found below: Creative Commons Attribution ShareAlike 
