@@ -136,7 +136,7 @@ After you optimize a 3D model, you can easily export it directly from SolidWorks
 
 - Select **File > Save As**, and then select Extended Reality Binary (.glb) as the file type. 
 
-   ![Save as GLB](media/solidworks-export.PNG "Save as GLB") 
+   ![Save as GLB](media/solidworks-export.png "Save as GLB") 
    
 ## Other conversion options 
 
