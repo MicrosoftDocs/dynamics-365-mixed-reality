@@ -23,7 +23,7 @@ If you use Autodesk Inventor or Dassault SolidWorks, there are built-in tools th
 
 ## DCC tutorials 
 
-If your 3D models are in the FBX, OBJ, or GLB file format, you can use any of the following tutorials to prepare your 3D models: 
+If your 3D models are in FBX, OBJ, or GLB file format, you can use any of the following tutorials to prepare your 3D models: 
 
 [SideFX Houdini](houdini.md)
 
@@ -31,7 +31,8 @@ If your 3D models are in the FBX, OBJ, or GLB file format, you can use any of th
 
 [Autodesk 3ds Max](3ds-max.md)  
 
-Note: In addition to FBX, OBJ, and GLB, 3DS Max can import a multitude of file formats including several native CAD formats.
+> [!NOTE]
+> In addition to FBX, OBJ, and GLB, 3DS Max can import a multitude of file formats including several native CAD formats.
 
 ## More information  
 
