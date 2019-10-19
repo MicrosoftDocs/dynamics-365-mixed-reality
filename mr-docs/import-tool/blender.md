@@ -187,7 +187,7 @@ To start the process:
     
 8.	Create a new image (select **Add > Image > New**).
 
-    ![Add new image](media/blender-add-image-new.PNG "Add new image") 
+    ![Add new image](media/blender-add-new-image.PNG "Add new image") 
     
 9. Save the new image as **My_Texture** or similar name that’s easy to remember, and then set the width and height to 1024 px by 1024 px. Leave all other options default. 
 
