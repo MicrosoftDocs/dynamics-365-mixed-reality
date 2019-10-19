@@ -211,6 +211,8 @@ To start the process:
     
 14.	Select **3D Viewport** at the top left to go to the **3D Viewport** menu.
 
+    ![3D Viewport](media/blender-3D-viewport.PNG "3D Viewport")
+
 ## Bake the materials into the texture
 
 After the texture and material are set up on the duplicate 3D model, it's time to bake the materials from the original 3D model onto that texture. The texture will be wrapped around the duplicate 3D model, which makes it higher performing while using the original colors.
