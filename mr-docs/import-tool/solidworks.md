@@ -72,7 +72,7 @@ The Defeature tool provides another optimization option. You can use this tool f
 
 3. Select the **Small components** check box, and enter a percentage to use.  We suggest starting with 1%. This will often remove nuts, bolts, and washers from an assembly while leaving the more visually important components. You can increase this percentage if you need to remove more. Select the next arrow when you're ready.
 
-    ![Small components settings](media/solidworks-simplify-tool.PNG "Small components settings") 
+    ![Small components settings](media/solidworks-small-components.PNG "Small components settings") 
     
 4. Select the Next arrow again to skip adding motion to the assemblies.  
 
