@@ -98,7 +98,7 @@ To reach application-specific performance goals, you can decimate the model. Dec
 
 To decimate a model:
 
-1.	Select the model, and then select the **Modifiers** menu ![Modifiers menu](media/blender-wrench.PNG "Modifiers menu") in the right tool column.
+1.	Select the model, and then select the **Modifiers** menu ![Modifiers menu](media/blender-wrench.png "Modifiers menu") in the right tool column.
 
 2.	On the **Modifiers** menu, in the **Add Modifier** list, select **Decimate**.
 
