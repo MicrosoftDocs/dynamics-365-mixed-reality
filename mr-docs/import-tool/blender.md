@@ -114,16 +114,14 @@ You can skip this step if your model has only one color.
 
 To visualize the concept of UV unwrapping, imagine cutting out every surface of a 3D model and placing those surfaces flat on a piece of paper. The U and V dimensions represent the vertical and horizontal axes of the piece of paper in the same way that X, Y, and Z represent the three-dimensional axes of a 3D model. Unwrapping the UVs enables you to paint the flattened pieces with the material colors of the model. This painted paper is called a texture, and it’s later wrapped back on top of the model, giving it the illusion of being made from different colored pieces, when it’s actually one item with a colorful texture wrapped around it. This process is called texture baking, which is covered later in this tutorial. 
 
-> [!TIP]
-> Enter **Edit Mode** by selecting the **Mode** list in the upper left corner, or press the **Tab** key. Pressing **Tab** while already in **Edit Mode** returns you to **Object Mode**. 
-    
-![Blender Object mode](media/blender-object-mode.PNG "Blender Object mode") 
-
 To start the process:
 
 1.	Select the model, hover the mouse cursor over the main menu, press **Tab** to enter **Edit Mode**, press **a** to select all, and then select **Smart UV Project** from the **UV** drop-down menu.    
 
     ![Smart UV Project](media/blender-UV.PNG "Smart UV Project") 
+    
+    > [!TIP]
+    > Enter **Edit Mode** by selecting the **Mode** list in the upper left corner, or press the **Tab** key. Pressing **Tab** while already in **Edit Mode** returns you to **Object Mode**.<br>![Blender Object mode](media/blender-object-mode.PNG "Blender Object mode")
 
 2.	Keep the default settings for the properties, and then select **OK**.
 
