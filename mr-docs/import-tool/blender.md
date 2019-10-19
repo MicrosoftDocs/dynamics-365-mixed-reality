@@ -217,7 +217,7 @@ To start the process:
 
 After the texture and material are set up on the duplicate 3D model, it's time to bake the materials from the original 3D model onto that texture. The texture will be wrapped around the duplicate 3D model, which makes it higher performing while using the original colors.
 
-1.	On the **Render** tab ![Render tab](media/blender-render-tab.PNG "Render tab"), select **Cycles** as the render engine.
+1.	On the **Render** tab ![Render tab](media/blender-render-tab.png "Render tab"), select **Cycles** as the render engine.
 
 2.	In the **Bake** menu, set **Bake type** to **Diffuse**.
 
