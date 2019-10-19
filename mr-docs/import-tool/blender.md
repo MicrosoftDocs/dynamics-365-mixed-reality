@@ -18,12 +18,12 @@ This tutorial provides step-by-step instructions that show you how to:
 
 - Combine the 3D model’s multiple materials (colors) into a single texture that can be applied to the model.
 
-- Export the optimized 3D model as a [GLB](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/#gltf-and-glb-file-formats) file that can be used in Dynamics 365 Mixed Reality applications.
+- Export the optimized 3D model as a [GLB](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/#gltf-and-glb-file-formats) file that can be used in Dynamics 365 mixed reality applications.
 
 The combination of reducing polygons and turning multiple materials into a single texture can transform a complex 3D model that 
-is resource intensive, into a highly performant 3D model that performs well in mixed reality applications.
+is resource intensive, into a 3D model that performs well in mixed reality applications.
 
-> [!NOTE]
+> [!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how Blender works with Microsoft Dynamics 365 Mixed Reality 
 at Work applications. Your use of third-party applications is subject to terms between you and the third party.  
 The Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Blender or any of 
@@ -33,19 +33,17 @@ Blender’s products. [There are several other content-creation applications tha
 
 [Blender](https://www.blender.org/) is a free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing and game creation. 
 
-If Blender is the software that you decide to use to prepare your assets, review Blender’s website and download the most current stable version for Windows here. [Blender](https://www.blender.org/download/).
+If Blender is the software that you decide to use to prepare your assets, review Blender’s website and download the most current stable version for Windows at [Blender](https://www.blender.org/download/).
 
-## Use Blender to prepare a 3D model for Mixed Reality
+## Overall steps for preparing a 3D model with Blender
 
-In this part of the tutorial we’ll take an OBJ and optimize it through decimation and texture baking to prepare it for use in Dynamics 365 Mixed Reality applications.
-
-The overall steps we’ll cover for optimizing in Blender include:
+Preparing a 3D for mixed reality with Blender includes the following steps:
 
 1.	Import the model into Blender.
 
 2.	Decimate the model.
 
-3.	UV wrap the model.
+3.	Unwrap the model (UV unwrapping).
 
 4.	Assign materials.
 
@@ -55,101 +53,107 @@ The overall steps we’ll cover for optimizing in Blender include:
 
 ## Import the model into Blender
 
-1.	Open Blender. A new scene will automatically be created.
+1.	Open Blender. A new scene is automatically created.
 
 2.	Right-click the cube and delete it.
 
     ![Delete cube](media/blender-delete-cube.PNG "Delete cube") 
  
-3.	Go to **File > Import > Wavefront (.obj)** to import your OBJ. 
+3.	Select **File > Import > Wavefront (.obj)** to import the OBJ file. 
 
     ![File import](media/blender-clear-checkboxes.PNG "File import")
 
-4.	In the **Import OBJ** screen:
+4.	Under **Import OBJ**:
 
     a. Make sure to clear the **Object** and **Group** check boxes and select the **Image Search** check box.
 
       ![Image search](media/blender-import-obj.PNG "Image search")
         
-    b. Select **Import OBJ** on the right side of the screen. This will import the 3D model as one item and search in the sub folder for any materials.
+    b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as one item and searches in the subfolder for any materials.
 
       ![Import object](media/blender-import-obj-2.PNG "Import object")
       
       > [!TIP]
-      > If your 3D model is extremely large or small, hard to see, and possibly off screen, you can use the middle mouse wheel to zoom the camera in or out until it’s visible.
+      > If the 3D model is extremely large or small, hard to see, and possibly off screen, you can use the mouse wheel to zoom the camera in or out until it’s visible.
       
-      ![Zoom camera](media/blender-zoom-camera.PNG "Zoom camera")
+      ![Zoom camera](media/blender-zoom-camera.PNG "Zoom camera")      
       
-      > [!TIP]
-      > If your 3D model appears grey, select the **Look Dev** shading option ![Look Dev shading option](media/blender-look-dev.PNG "Look Dev shading option")  to show the colors.
+      If the 3D model appears grey, select the **Look Dev** shading option to show the colors.
       
       ![Look Dev shading option full screen](media/blender-look-dev-full-screen.PNG "Look Dev shading option full screen")
       
-      Now you can see your 3D model with the imported materials.
+      You'll see the 3D model with the imported materials.
       
-      At the bottom right of the screen, you can see your **Tris** count (number of polygons). [If this number falls in line with the target resolution](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets), you can skip the decimation step and go directly to the **UV Unwrapping** section of this tutorial. If not, continue to the next section and decimate the 3d model.
+      The **Tris** count (number of polygons) is shown on the bottom right of the screen. 
       
       ![Tris count](media/blender-tris-count.PNG "Tris count")
       
+      If this number falls in line with the [target resolution](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets), you can skip the decimation step and go directly to the **UV Unwrapping** section of this tutorial. If not, continue to the next section and decimate the model.
+      
 ## Decimate the model
 
-To reach application-specific performance goals, we need to decimate the model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. There is a reduction in visual fidelity when doing this, but also an increase in performance. The example images below shows a high fidelity model that can be used when you are viewing one or two 3D models at a time on HoloLens, and a low-quality 3D used model used when you are viewing Ten or more models at a time on HoloLens.
+To reach application-specific performance goals, you can decimate the model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. This reduces visual fidelity but increases performance. The example images below show a high-fidelity model that can be used when you're viewing one or two 3D models at a time on HoloLens, and a low-quality 3D model used when you're viewing ten or more models at a time on HoloLens.
 
-SCREENSHOT GOES HERE: blender-decimation
+![Decimation example](media/blender-decimation.PNG "Decimation example") 
 
 To decimate a model:
 
-1.	Select your 3D model and go to the **Modifiers** menu SCREEN SHOT: blender-wrench-tool  on the right hand tool column.
+1.	Select the model, and then select the **Modifiers** menu ![Modifiers menu](media/blender-wrench-tool.PNG "Modifiers menu") in the right tool column.
 
-2.	On the **Modifiers** menu, in the **Add Modifier** drop-down list, select **Decimate**.
+2.	On the **Modifiers** menu, in the **Add Modifier** list, select **Decimate**.
 
-SCREENSHOT GOES HERE: blender-add-modifier-decimate
+    ![Decimate](media/blender-add-modifier-decimate.PNG "Decimate") 
 
-3.	With your model selected, change the **Ratio** value to a number between 0.0-1.0. This will determine the percentage of polygons (triangles) that are removed. For example, a value of 0.5 reduces the original polygon count to 50%. You’ll see the **Tris** value in the bottom right of the Blender window decrease as you change the ratio. When the number reaches a value that matches your performance goal and looks good, select **Apply**.
+3.	With your model selected, change the **Ratio** value to a number between 0.0 - 1.0. This setting determines the percentage of polygons (triangles) that are removed. For example, a value of 0.5 reduces the original polygon count to 50%. You’ll see the **Tris** value in the bottom right of the Blender window decrease as you change the ratio. When the number reaches a value that matches your performance goal and looks good, select **Apply**.
 
-SCREENSHOT GOES HERE: blender-ratio
+![Ratio setting](media/blender-ratio.PNG "Ratio setting") 
 
-## UV unwrapping
+## Unwrap the model (UV unwrapping)
 
-A good way to visualize UV unwrapping is to imagine cutting out every surface of your 3d model and placing those surfaces flat on a piece of paper. The U and V dimensions represent the vertical and horizontal axes of this piece of paper in the same way that X, Y, and Z represent the three-dimensional axes of a 3d model. The advantage of unwrapping the UVs is to allow us to paint the flattened pieces with the material colors of the 3d model. This painted paper is called a texture, and it’s later wrapped back on top of the 3d model, giving it the illusion of being made from different colored pieces, when it’s actually one item with a colorful texture wrapped around it. This process is called texture baking, which we’ll go into later. You may skip this step if your model has only one color. 
+You can skip this step if your model has only one color.
 
-> [!TIP]
-> Enter **Edit Mode** by selecting the mode dropdown in the upper left corner, or press the **Tab** key. Pressing **Tab** while already in **Edit Mode** will bring you back into **Object Mode**. 
+To visualize the concept of UV unwrapping, imagine cutting out every surface of a 3D model and placing those surfaces flat on a piece of paper. The U and V dimensions represent the vertical and horizontal axes of the piece of paper in the same way that X, Y, and Z represent the three-dimensional axes of a 3D model. Unwrapping the UVs enables you to paint the flattened pieces with the material colors of the model. This painted paper is called a texture, and it’s later wrapped back on top of the model, giving it the illusion of being made from different colored pieces, when it’s actually one item with a colorful texture wrapped around it. This process is called texture baking, which is covered later in this tutorial.  
 
-SCREENSHOT GOES HERE: blender-object-mode
+![Blender Object mode](media/blender-object-mode.PNG "Blender Object mode") SCREENSHOT GOES HERE: blender-object-mode
 
 To start the process:
 
-1.	Select the model, hover the mouse over the main menu, press **Tab** to enter **Edit Mode**, press **“a”** to select all, and then select **Smart UV Project** from the **UV** drop-down menu.
+1.	Select the model, hover the mouse cursor over the main menu, press **Tab** to enter **Edit Mode**, press **a** to select all, and then select **Smart UV Project** from the **UV** drop-down menu.
 
-    SCREENSHOT GOES HERE: blender-UV
+    > [!TIP]
+    > Enter **Edit Mode** by selecting the **Mode** list in the upper left corner, or press the **Tab** key. Pressing **Tab** while already in **Edit Mode** returns you to **Object Mode**. 
+
+    ![Smart UV Project](media/blender-UV.PNG "Smart UV Project") 
 
 2.	Keep the default settings for the properties, and then select **OK**.
 
-    SCREENSHOT GOES HERE: blender-default-settings
+    ![Default settings](media/blender-default-settings.PNG "Default settings") 
     
-3.	Make sure that you’re in **Edit Mode** (tab), and that the entire model is still selected (a-key). You can tell the entire model is selected because it will be orange. 
+3.	Make sure that you’re in **Edit Mode** (press **Tab**), and that the entire model is still selected (press **a**). When the entire model is selected, it's orange. 
 
 4.	Select the **UV Editor** menu (or press Shift+F10).
   
-    SCREENSHOT GOES HERE: blender-UV-editor
+    ![UV Editor](media/blender-UV-editor.PNG "UV Editor") 
     
 5.	On the **UV** tab, select **Pack Islands**.
 
-    SCREENSHOT GOES HERE: blender-pack-islands
+    ![Pack Islands](media/blender-pack-islands.PNG "Pack Islands") 
     
-    The outlined pieces are reorganized to represent the surface of the model as efficiently as possible. After packing the islands, the UVs will look like this:
+    The outlined pieces are reorganized to represent the surface of the model as efficiently as possible. After packing the islands, the UVs look like this:
     
-    SCREENSHOT GOES HERE: blender-pack-islands-after
+    ![Results of Pack Islands](media/blender-pack-islands-after.PNG "Results of Pack Islands") 
     
-6.	For our next step, we’ll need a duplicate of our mesh.  This will be the mesh that our texture gets “baked” to in a later section.
-    a.	To make a copy of the 3d model:
-        i.	Click the model with the left mouse button to select it
-        ii.	Right-click the 3D model to open the menu
-        iii.	Select “Duplicate Objects”
-        iv.	Press “Space Bar”
+6.	Create a copy of the mesh to bake the texture into. To do this:
 
-    SCREENSHOT GOES HERE: blender-duplicate-object
+    a. Select the model.
+    
+    b. Right-click the model to open the menu.
+    
+    c. Select **Duplicate Objects**.
+    
+    d. Press Spacebar.
+
+    ![Duplicate Objects](media/blender-duplicate-object.PNG "Duplicate Objects") 
     
  ## Prepare materials for texture baking
  
