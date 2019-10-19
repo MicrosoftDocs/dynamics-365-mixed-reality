@@ -158,12 +158,10 @@ To start the process:
  ## Prepare materials for texture baking
  
 1. Select the duplicate model, and then select the **Materials** tab in the menu on the bottom right to go the **Materials** panel. 
-
-   ![Materials tab](media/blender-materials-tab.PNG "Materials tab") 
-   
+     
    ![Materials tab](media/blender-materials-tab-full-screen.PNG "Materials tab") 
 
-2. Delete all the materials for the duplicate 3D model by selecting the minus sign ![Minus sign](media/blender-minus-sign.PNG "Minus sign") to the right of the materials.  
+2. Delete all the materials for the duplicate 3D model by selecting the minus sign to the right of the materials.  
 
    ![Minus sign](media/blender-minus-sign-full-screen.PNG "Minus sign") 
 
@@ -183,7 +181,7 @@ To start the process:
 
     ![Assign](media/blender-assign.PNG "Assign") 
     
-7.	Select the icon to the left of **Object Mode** ![Object Mode](media/blender-object-mode.PNG "Object Mode"), and then select **Image Editor**.   
+7.	Select the icon to the left of **Object Mode**, and then select **Image Editor**.   
 
     ![Image Editor](media/blender-image-editor.PNG "Image Editor") 
     
@@ -195,7 +193,7 @@ To start the process:
 
     ![Save as My_Texture](media/blender-my-texture.PNG "Save as My_Texture") 
     
-10.	Select the icon to the left of **View** and go to the **Shader Editor** ![Shader Editor](media/blender-shader-editor.PNG "Shader Editor") 
+10.	Select the icon to the left of **View** and go to the **Shader Editor**.
 
     ![Shader Editor](media/blender-shader-editor-full-screen.PNG "Shader Editor") 
 
@@ -207,7 +205,7 @@ To start the process:
 
     ![Principled BSDF](media/blender-principled-bsdf.PNG "Principled BSDF") 
     
-13.	In the drop-down menu on the image texture node ![Image texture node](media/blender-image-texture-node.PNG "Image texture node"), find the texture you just created and select it.
+13.	In the drop-down menu on the image texture node, find the texture you just created and select it.
 
     ![Created texture](media/blender-image-texture-2.PNG "Created texture") 
     
