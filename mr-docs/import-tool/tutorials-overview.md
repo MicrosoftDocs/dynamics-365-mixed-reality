@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Describes the third-party tutorials available for converting 3D models for use with Dynamics 365 mixed reality appilcations
 ms.author: v-jerja
-ms.date: 10/21/2019
+ms.date: 10/22/2019
 ms.service: crm-online
 ms.topic: article
 title: Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 mixed reality applications
@@ -17,19 +17,19 @@ ms.reviewer: v-brycho
 
 If you use Autodesk Inventor or Dassault SolidWorks, there are built-in tools that can simplify complex components and make your 3D models perform better in mixed reality. Start with these tutorials to produce the highest-quality 3D models: 
 
-Autodesk Inventor 
+[Autodesk Inventor](inventor.md) 
 
-Dassault SolidWorks 
+[Dassault SolidWorks](solidworks.md) 
 
 ## DCC tutorials 
 
 If your 3D models are in the FBX, OBJ, or GLB file format, you can use any of the following tutorials to prepare your 3D models: 
 
-SideFX Houdini 
+[SideFX Houdini](houdini.md)
 
-Blender 
+[Blender](blender.md) 
 
-Autodesk 3ds Max  
+[Autodesk 3ds Max](3ds-max.md)  
 
 Note: In addition to FBX, OBJ, and GLB, 3DS Max can import a multitude of file formats including several native CAD formats.
 
