@@ -133,7 +133,7 @@ To start the process:
 
 4.	Select the **UV Editor** menu (or press Shift+F10).
   
-    ![UV Editor](media/blender-UV-editor.PNG "UV Editor") 
+    ![UV Editor](media/blender-uv-editor.PNG "UV Editor") 
     
 5.	On the **UV** tab, select **Pack Islands**.
 
