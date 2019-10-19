@@ -98,7 +98,7 @@ To reach application-specific performance goals, you can decimate the model. Dec
 
 To decimate a model:
 
-1.	Select the model, and then select the **Modifiers** menu ![Modifiers menu](media/blender-wrench.png "Modifiers menu") in the right tool column.
+1.	Select the model, and go to the **Modifiers** menu ![Modifiers menu](media/blender-wrench.png "Modifiers menu") in the right tool column.
 
 2.	On the **Modifiers** menu, in the **Add Modifier** list, select **Decimate**.
 
@@ -106,7 +106,7 @@ To decimate a model:
 
 3.	With your model selected, change the **Ratio** value to a number between 0.0 - 1.0. This setting determines the percentage of polygons (triangles) that are removed. For example, a value of 0.5 reduces the original polygon count to 50%. You’ll see the **Tris** value in the bottom right of the Blender window decrease as you change the ratio. When the number reaches a value that matches your performance goal and looks good, select **Apply**.
 
-![Ratio setting](media/blender-ratio.PNG "Ratio setting") 
+    ![Ratio setting](media/blender-ratio.PNG "Ratio setting") 
 
 ## Unwrap the model (UV unwrapping)
 
