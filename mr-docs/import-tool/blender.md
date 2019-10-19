@@ -114,7 +114,7 @@ You can skip this step if your model has only one color.
 
 To visualize the concept of UV unwrapping, imagine cutting out every surface of a 3D model and placing those surfaces flat on a piece of paper. The U and V dimensions represent the vertical and horizontal axes of the piece of paper in the same way that X, Y, and Z represent the three-dimensional axes of a 3D model. Unwrapping the UVs enables you to paint the flattened pieces with the material colors of the model. This painted paper is called a texture, and it’s later wrapped back on top of the model, giving it the illusion of being made from different colored pieces, when it’s actually one item with a colorful texture wrapped around it. This process is called texture baking, which is covered later in this tutorial.  
 
-![Blender Object mode](media/blender-object-mode.PNG "Blender Object mode") SCREENSHOT GOES HERE: blender-object-mode
+![Blender Object mode](media/blender-object-mode.PNG "Blender Object mode") 
 
 To start the process:
 
@@ -157,57 +157,59 @@ To start the process:
     
  ## Prepare materials for texture baking
  
- 1.	Select the duplicate model, and then go to the materials panel by selecting the Materials tab in the menu on the bottom right. SCREEN SHOT GOES HERE: blender-materials-tab
- 
-SCREENSHOT GOES HERE: blender-materials-tab-full-screen
+1. Select the duplicate model, and then select the **Materials** tab in the menu on the bottom right to go the **Materials** panel. 
 
-2.	Delete all the materials for the duplicate 3D model by selecting the minus sign to the right of the materials  SCREEN SHOT GOES HERE: blender-minus-sign. 
+   ![Materials tab](media/blender-materials-tab.PNG "Materials tab") 
+   
+   ![Materials tab](media/blender-materials-tab-full-screen.PNG "Materials tab") 
 
-SCREENSHOT GOES HERE: blender-minus-sign-full-screen
+2. Delete all the materials for the duplicate 3D model by selecting the minus sign ![Minus sign](media/blender-minus-sign.PNG "Minus sign") to the right of the materials.  
 
-3.	To hide the original 3D model and show just the duplicate, select the eye to the right of the original 3D model’s name. Notice that there are no materials on the duplicate 3D model.
+   ![Minus sign](media/blender-minus-sign-full-screen.PNG "Minus sign") 
 
-    SCREENSHOT GOES HERE: blender-select-eye
+3. To hide the original 3D model and show just the duplicate, select the "eye" to the right of the original 3D model’s name. Notice that there are no materials on the duplicate 3D model.
 
-4.	Select the plus sign in the materials panel to add a new material to the duplicate.
+    ![Select eye](media/blender-select-eye.PNG "Select eye") 
 
-    SCREENSHOT GOES HERE: blender-plus-sign
+4. Select the plus sign in the materials panel to add a new material to the duplicate.
+
+    ![Plus sign](media/blender-plus-sign.PNG "Plus sign") 
     
-5.	Select **New** to add a new material to the material slot.
+5. Select **New** to add a new material to the material slot.
 
-    SCREENSHOT GOES HERE: blender-new
+    ![New](media/blender-new.PNG "New") 
     
-6. Hover your mouse over the viewport (main window where the 3D model is shown), press tab to enter **Edit Mode**, press "**a**" to select all, and then select **Assign** from the **Materials** tab SCREEN SHOT GOES HERE: blender-materials-tab.
+6. Hover the mouse over the viewport (main window where the 3D model is shown), press Tab to enter **Edit Mode**, press **a** to select all, and then select **Assign** from the **Materials** tab ![Materials tab](media/blender-materials-tab.PNG "Materials tab").
 
-    SCREENSHOT GOES HERE: blender-assign
+    ![Assign](media/blender-assign.PNG "Assign") 
     
-7.	Select the icon to the left of **Object Mode** SCREEN SHOT blender-object-mode and select **Image Editor**.   
+7.	Select the icon to the left of **Object Mode** ![Object Mode](media/blender-object-mode.PNG "Object Mode"), and then select **Image Editor**.   
 
-    SCREENSHOT GOES HERE: blender-image-editor
+    ![Image Editor](media/blender-image-editor.PNG "Image Editor") 
     
 8.	Create a new image (select **Add > Image > New**).
 
-    SCREENSHOT GOES HERE: blender-add-image-new
+    ![Add new image](media/blender-add-image-new.PNG "Add new image") 
     
-9. Save the new image as **My_Texture** or similar name that’s easy to remember, and set the width and height to 1024 px by 1024 px. Leave all other options default. 
+9. Save the new image as **My_Texture** or similar name that’s easy to remember, and then set the width and height to 1024 px by 1024 px. Leave all other options default. 
 
-    SCREENSHOT GOES HERE: blender-my-texture
+    ![Save as My_Texture](media/blender-my-texture.PNG "Save as My_Texture") 
     
-10.	Select the icon to the left of **View** and go to the **Shader Editor** SCREEN SHOT GOES HERE: blender-shader-editor.
+10.	Select the icon to the left of **View** and go to the **Shader Editor** ![Shader Editor](media/blender-shader-editor.PNG "Shader Editor") 
 
-    SCREENSHOT GOES HERE: blender-shader-editor-full-screen
+    ![Shader Editor](media/blender-shader-editor-full-screen.PNG "Shader Editor") 
 
-11.	With your duplicate 3D model selected, select **Add > Texture > Image Texture**. Click to place the image texture node in the window.
+11.	With the duplicate 3D model selected, select **Add > Texture > Image Texture**. Click to place the image texture node in the window.
 
-    SCREENSHOT GOES HERE: blender-image-texture
+    ![Image Texture](media/blender-image-texture.PNG "Image Texture") 
     
 12.	Drag the yellow node link (the yellow dot) labeled **Color** in the image texture window to the **Base Color** yellow node on the **Principled BSDF** node to connect them.
 
-    SCREENSHOT GOES HERE: blender-principled-bsdf
+    ![Principled BSDF](media/blender-principled-bsdf.PNG "Principled BSDF") 
     
-13.	In the drop-down menu on the image texture node SCREEN SHOT GOES HERE: blender-image-texture-node, find the texture you just created and select it.
+13.	In the drop-down menu on the image texture node ![Image texture node](media/blender-image-texture-node.PNG "Image texture node"), find the texture you just created and select it.
 
-    SCREENSHOT GOES HERE: blender-image-texture-2
+    ![Created texture](media/blender-image-texture-2.PNG "Created texture") 
     
 14.	Select **3D Viewport** at the top left to go to the **3D Viewport** menu.
 
