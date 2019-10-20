@@ -19,6 +19,7 @@ informational purposes only. Microsoft licenses the Third Party IP to you under 
 Microsoft reserves all other rights not expressly granted under this agreement, whether by implication, estoppel or otherwise.
 
 ****
+
 Microsoft.Toolkit.UWP
 
 2.0.0 
