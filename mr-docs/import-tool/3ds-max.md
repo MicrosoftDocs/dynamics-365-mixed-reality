@@ -281,7 +281,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
    g. In the pop up menu, select the **RGB 24 bit** option, clear the **Alpha channel** check box, and then select **OK**. 
    
-      ![Alpha channel](media/3ds-max-alpha-channel.PNG "Alpha channel") 
+   ![Alpha channel](media/3ds-max-alpha-channel.PNG "Alpha channel") 
  
    h. In the **Target Map Slot** field, select **Diffuse Color**. 
    
@@ -291,7 +291,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
    k. Once everything is set correctly, select **Render** to bake the diffuse color map. A preview window may appear, but the final map automatically saves to the output location. 
 
-      ![Render](media/3ds-max-render.PNG "Render") 
+   ![Render](media/3ds-max-render.PNG "Render") 
  
 4. If you go to the location where your .png was saved and open it, the baked map may look something like this:  
  
