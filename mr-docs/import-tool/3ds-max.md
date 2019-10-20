@@ -271,13 +271,11 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
    d. Under **Projection Mapping**, do the following:
    
->>>i. Select the **Enabled** check box.
-      
->>>ii. Select **Pick**, select the original source 3D models you want to bake the color from, and then select **Add**.
+>>>i. Select the **Enabled** check box, select **Pick**, select the original source 3D models you want to bake the color from, and then select **Add**.
 
 >>>![Projection mapping](media/3ds-max-projection-mapping.PNG "Projection mapping") 
       
->>>iii. Select the **Options** button next to the **Pick** button, and then in the **Method** section, select the **UV Match** check box, clear the **Use Cage** check box, and close the window. 
+>>>ii. Select the **Options** button next to the **Pick** button, and then in the **Method** section, select the **UV Match** check box, clear the **Use Cage** check box, and close the window. 
  
 >>>![Clear Cage](media/3ds-max-clear-cage.PNG "Clear Cage") 
           
