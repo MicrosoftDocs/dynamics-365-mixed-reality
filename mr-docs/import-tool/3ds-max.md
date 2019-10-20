@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Describes, in tutorial format, how to use Autodesk 3ds Max to generate content for use in Dynamics 365 mixed reality applications
 ms.author: v-jerja
-ms.date: 10/21/2019
+ms.date: 10/22/2019
 ms.service: crm-online
 ms.topic: article
 title: Use Autodesk 3ds Max to generate content for use in Dynamics 365 mixed reality applications
@@ -79,7 +79,7 @@ Adding an **Edit Poly** modifier helps eliminate shading issues that occur durin
 The best way to reduce the size of your model while maintaining visual fidelity is to find the objects with the highest poly count, 
 and reduce them the most. Objects such as screws and grills can have thousands of polygons that are rarely seen.  
 
-1. Go to **Select from Scene**. 
+1. Select the **Name** button to open the **Select from Scene** window. 
  
    ![Select from Scene](media/3ds-max-select-from-scene.png "Select from Scene") 
  
@@ -94,7 +94,7 @@ and reduce them the most. Objects such as screws and grills can have thousands o
 4. Select the **Faces** tab a few times so that your objects are now sorted from highest face count to lowest. 
 
    >[!TIP]
-   > You can also search at the top of this menu. If your model has lots of fillets, try searching for those. Fillets use lots of polygons and can be reduced without affecting the overall fidelity of the model. 
+   > You can also search at the top of the **Select from Scene** menu. If your model has lots of fillets, try searching for those. Fillets use lots of polygons and can be reduced without affecting the overall fidelity of the model. 
  
 5. Select the objects with the highest face counts, and then select **OK**.   
  
@@ -205,7 +205,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
  
    ![Attach list button](media/3ds-max-attach-list-button.PNG "Attach list button") 
  
-5. Select all of the 3D models by going to **Edit -> Select All** again, and then select **Add**.  
+5. Select all of the 3D models in the attach list, and then select **Add**.  
  
    ![Add models](media/3ds-max-add-models.png "Add models") 
  
@@ -231,7 +231,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
    ![Flatten Mapping](media/3ds-max-flatten-mapping.png "Flatten Mapping") 
    
-4. In the option box that appears, give the UVs some padding by setting **Spacing** to **0.003**, select the check box for **material grouping**, and then select **OK**
+4. In the option box that appears, give the UVs some padding by setting **Spacing** to **0.003**, select the check box for **By Material IDs**, and then select **OK**
    
    ![Spacing](media/3ds-max-spacing.png "Spacing") 
    
@@ -239,7 +239,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 Now that the original mesh has been prepared, you need to create a copy of it to bake the texture to. 
 
-1. Clone all meshes/groups that comprise the original set.  
+1. To clone the 3D model, select it, and then select **Edit > Clone**.  
 
    ![Clone meshes](media/3ds-max-clone-meshes.png "Clone meshes") 
  
@@ -269,9 +269,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
       
 >>>ii. Select **Pick**, select the original source 3D models you want to bake the color from, and then select **Add**.
       
->>>iii. Select the **Options** button next to the **Pick** button, and then in the **Method** section, select the **UV Match** check box and clear the **Use Cage** check box. 
-      
->>>iv. Clear **Cage**. 
+>>>iii. Select the **Options** button next to the **Pick** button, and then in the **Method** section, select the **UV Match** check box, clear the **Use Cage** check box, and close the window. 
  
 >>>![Clear Cage](media/3ds-max-clear-cage.PNG "Clear Cage") 
           
@@ -285,7 +283,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
       ![Alpha channel](media/3ds-max-alpha-channel.PNG "Alpha channel") 
  
-   h. In the **Target Map Slot** field, select **Base Color**. 
+   h. In the **Target Map Slot** field, select **Diffuse Color**. 
    
    i. Select the **Automatic map size** check box. 
    
