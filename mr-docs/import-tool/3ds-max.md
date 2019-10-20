@@ -301,11 +301,11 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
    i. Select the **Use Automatic Map Size** check box. 
    
-   ![Use Automatic Map Size](media/3ds-max-automatic-map-size.PNG "Use Automatic Map Size") 
+   ![Use Automatic Map Size](media/3ds-max-use-automatic-map-size.PNG "Use Automatic Map Size") 
    
    j. Under **Automatic Map Size**, select the **Nearest power of 2** check box.
    
-   ![Automatic Map Size](media/3ds-automatic-map-size.PNG "Automatic Map Size") 
+   ![Automatic Map Size](media/3ds-max-automatic-map-size.PNG "Automatic Map Size") 
    
    k. Once everything is set correctly, select **Render** to bake the diffuse color map. A preview window may appear, but the final map automatically saves to the output location. 
 
