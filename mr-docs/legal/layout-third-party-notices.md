@@ -1,4 +1,13 @@
-
+---
+author: ReneeW-CPub
+description: Third-party notices for Microsoft Dynamics 365 Layout
+ms.author: renwe
+ms.date: 10/22/2019
+ms.service: crm-online
+ms.topic: article
+title: Third-party notices for Microsoft Dynamics 365 Layout
+robots: noindex, nofollow
+---
 
 # THIRD PARTY NOTICES
 
