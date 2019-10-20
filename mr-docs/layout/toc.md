@@ -10,5 +10,6 @@
 ## Terms of Use
 ### [Dynamics 365 Layout](../legal/layout-license-terms.md)
 ### [Dynamics 365 Layout free trial](../legal/layout-free-trial.md)
+### [Third-party notices](../legal/layout-third-party-notices.md)
 
 
