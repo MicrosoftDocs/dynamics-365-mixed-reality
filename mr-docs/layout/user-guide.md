@@ -71,17 +71,15 @@ Teaching moments provide a series of images that make it easy to understand comm
 ### Demo layouts
 
 Demo layouts use prebuilt layouts to demonstrate how to build different parts of a manufacturing plant. There are three demos to choose from:
-- Copy/paste and collision
-- Group and measure
-- Fit and resize
+- Move and resize
+- Grouping and measurement
+- Copy and paste
 
-![Demo layouts](media/demo-layouts.PNG "Demo layouts")
-
-For example, in the Copy/paste and collision demo, learn how to complete a conveyor belt by copying and positioning sections.
+For example, in the Copy and paste and collision demo, learn how to complete a conveyor belt by copying and positioning sections.
 
 To access demo layouts, pick the demo you want from the **Layouts** menu.
 
-![Access demo layouts](media/access-demo-layouts.PNG "Access demo layouts")
+![Demo layouts](media/demo-layouts.PNG "Demo layouts")
 
 ## Use Dynamics 365 Layout
 
