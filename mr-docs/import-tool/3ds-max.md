@@ -257,17 +257,25 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 3. Set up the **Render to Texture** menu in the following ways: 
  
-   a. Set the **Output** path to the location where the map will bake. You can leave the default setting if you don't have a specific destination in mind.
+   a. Under **Output**, set **Path** to the location where the map will bake. You can leave the default setting if you don't have a specific destination in mind.
    
-   b. Change the **Render Settings** to **3dsmax.scanline.no.advanced.lighting.high**. When you're prompted to **Select Preset Categories**, leave the entries all highlighted and select **Load**.
+     ![Output path](media/3ds-max-output-path.PNG "Output path")    
+   
+   b. Change the **Render Settings** to **3dsmax.scanline.no.advanced.lighting.high**.
+   
+     ![Render settings](media/3ds-max-render-settings.PNG "Render settings")     
+   
+   c. When you're prompted to **Select Preset Categories**, leave the entries all highlighted and select **Load**.
    
       ![Load](media/3ds-max-load.PNG "Load") 
  
-   c. Under **Projection Mapping**, do the following:
+   d. Under **Projection Mapping**, do the following:
    
 >>>i. Select the **Enabled** check box.
       
 >>>ii. Select **Pick**, select the original source 3D models you want to bake the color from, and then select **Add**.
+
+>>>![Projection mapping](media/3ds-max-projection-mapping.PNG "Projection mapping") 
       
 >>>iii. Select the **Options** button next to the **Pick** button, and then in the **Method** section, select the **UV Match** check box, clear the **Use Cage** check box, and close the window. 
  
@@ -275,9 +283,15 @@ Now that the original mesh has been prepared, you need to create a copy of it to
           
    d. Under **Mapping Coordinates**, select the **Use Existing Channel** option, and then set the channel to **1**.
    
+   ![Mapping Coordinates](media/3ds-max-mapping-coordinates.PNG "Mapping Coordinates") 
+   
    e. Under **Output**, select **Add**, select **DiffuseMap**, and then select **Add Elements**.
    
+   ![Output](media/3ds-max-output.PNG "Output") 
+   
    f. Select the three dots next to **File Name and Type**, and then select **.png**.
+   
+   ![File Name and Type](media/3ds-max-file-name-and-type.PNG "File Name and Type") 
    
    g. In the pop up menu, select the **RGB 24 bit** option, clear the **Alpha channel** check box, and then select **OK**. 
    
@@ -285,13 +299,23 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
    h. In the **Target Map Slot** field, select **Diffuse Color**. 
    
-   i. Select the **Automatic map size** check box. 
+   ![Target Map Slot](media/3ds-max-target-map-slot.PNG "Target Map Slot")   
    
-   j. Under **Automatic Mapping**, select the **Nearest power of 2** check box. 
+   i. Select the **Use Automatic Map Size** check box. 
+   
+   ![Use Automatic Map Size](media/3ds-max-automatic-map-size.PNG "Use Automatic Map Size") 
+   
+   j. Under **Automatic Map Size**, select the **Nearest power of 2** check box.
+   
+   ![Automatic Map Size](media/3ds-automatic-map-size.PNG "Automatic Map Size") 
    
    k. Once everything is set correctly, select **Render** to bake the diffuse color map. A preview window may appear, but the final map automatically saves to the output location. 
 
-   ![Render](media/3ds-max-render.PNG "Render") 
+   ![Render button](media/3ds-max-render-button.PNG "Render") 
+
+   The full group of settings for the **Rendering** menu looks like this:
+   
+   ![All Rendering settings](media/3ds-max-render2.PNG "All Rendering settings") 
  
 4. If you go to the location where your .png was saved and open it, the baked map may look something like this:  
  
