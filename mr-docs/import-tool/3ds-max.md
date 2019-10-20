@@ -275,7 +275,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
 >>>![Projection mapping](media/3ds-max-projection-mapping.PNG "Projection mapping") 
       
->>>ii. Select the **Options** button next to the **Pick** button, and then in the **Method** section, select the **UV Match** check box, clear the **Use Cage** check box, and close the window. 
+>>>ii. Select the **Options** button next to the **Pick** button, and then in the **Method** section, select the **UV Match** option, clear the **Use Cage** check box, and close the window. 
  
 >>>![Clear Cage](media/3ds-max-clear-cage.PNG "Clear Cage") 
           
@@ -313,7 +313,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
    The full group of settings for the **Rendering** menu looks like this:
    
-   ![All Rendering settings](media/3ds-max-render2.PNG "All Rendering settings") 
+   ![All Rendering settings](media/3ds-max-render2.png "All Rendering settings") 
  
 4. If you go to the location where your .png was saved and open it, the baked map may look something like this:  
  
