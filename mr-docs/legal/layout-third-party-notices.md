@@ -219,9 +219,9 @@ IF YOU COMPLY WITH THESE LICENSE TERMS, YOU HAVE THE PERPETUAL RIGHTS BELOW.
 
 1. INSTALLATION AND USE RIGHTS.   
 
-a. Installation and Use. You may install and use any number of copies of the software to design, develop and test your programs.    
+>a. Installation and Use. You may install and use any number of copies of the software to design, develop and test your programs.    
 
-b. Third Party Programs. The software may include third party programs that Microsoft, not the third party, licenses to you under 
+>b. Third Party Programs. The software may include third party programs that Microsoft, not the third party, licenses to you under 
 this agreement. Notices, if any, for the third party program are included for your information only.    
 
 2. DATA. The software may collect information about you and your use of the software, and send that to Microsoft. Microsoft may 
@@ -231,41 +231,41 @@ to these practices.
 
 3. ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS.     
 
-a. DISTRIBUTABLE CODE.    The software is comprised of Distributable Code. “Distributable Code” is code that you are permitted to 
+>a. DISTRIBUTABLE CODE. The software is comprised of Distributable Code. “Distributable Code” is code that you are permitted to 
 distribute in programs you develop if you comply with the terms below.    
 
-i. Right to Use and Distribute.  
+>>i. Right to Use and Distribute.  
 
-- You may copy and distribute the object code form of the software.  
+>>>- You may copy and distribute the object code form of the software.  
 
-- Third Party Distribution. You may permit distributors of your programs to copy and distribute the Distributable Code as part of 
+>>>- Third Party Distribution. You may permit distributors of your programs to copy and distribute the Distributable Code as part of 
 those programs.  
 
-ii. Distribution Requirements. For any Distributable Code you distribute, you must   
+>>ii. Distribution Requirements. For any Distributable Code you distribute, you must   
 
-· Add significant primary functionality to it in your programs;  
+>>>- Add significant primary functionality to it in your programs;  
 
-· Require distributors and external end users to agree to terms that protect it at least as much as this agreement;  
+>>>- Require distributors and external end users to agree to terms that protect it at least as much as this agreement;  
 
-· Display your valid copyright notice on your programs; and  
+>>>- Display your valid copyright notice on your programs; and  
 
-· Indemnify, defend, and hold harmless Microsoft from any claims, including attorneys’ fees, related to the distribution or use of 
+>>>- Indemnify, defend, and hold harmless Microsoft from any claims, including attorneys’ fees, related to the distribution or use of 
 your programs.  
 
-iii. Distribution Restrictions.  You may not 
+>>iii. Distribution Restrictions.  You may not 
 
-- Alter any copyright, trademark or patent notice in the Distributable Code;  
+>>>- Alter any copyright, trademark or patent notice in the Distributable Code;  
 
-- Use Microsoft’s trademarks in your programs’ names or in a way that suggests your programs come from or are endorsed by Microsoft;  
+>>>- Use Microsoft’s trademarks in your programs’ names or in a way that suggests your programs come from or are endorsed by Microsoft; 
 
-- Include Distributable Code in malicious, deceptive or unlawful programs; or  
+>>>- Include Distributable Code in malicious, deceptive or unlawful programs; or  
 
-- Modify or distribute the source code of any Distributable Code so that any part of it becomes subject to an Excluded License. An 
+>>>- Modify or distribute the source code of any Distributable Code so that any part of it becomes subject to an Excluded License. An 
 Excluded License is one that requires, as a condition of use, modification or distribution, that  
 
-- The code be disclosed or distributed in source code form; or  
+>>>- The code be disclosed or distributed in source code form; or  
 
-- Others have the right to modify it.  
+>>>- Others have the right to modify it.  
 
 4. SCOPE OF LICENSE. The software is licensed, not sold. This agreement only gives you some rights to use the software. Microsoft 
 reserves all other rights. Unless applicable law gives you more rights despite this limitation, you may use the software only as 
@@ -301,11 +301,11 @@ are the entire agreement for the software and support services.
 
 10. APPLICABLE LAW.  
 
-a. United States. If you acquired the software in the United States, Washington state law governs the interpretation of this agreement 
+>a. United States. If you acquired the software in the United States, Washington state law governs the interpretation of this agreement 
 and applies to claims for breach of it, regardless of conflict of laws principles. The laws of the state where you live govern all 
 other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.  
 
-b. Outside the United States. If you acquired the software in any other country, the laws of that country apply.   
+>b. Outside the United States. If you acquired the software in any other country, the laws of that country apply.   
 
 11. LEGAL EFFECT. This agreement describes certain legal rights. You may have other rights under the laws of your country. 
 You may also have rights with respect to the party from whom you acquired the software. This agreement does not change your 
@@ -316,7 +316,7 @@ GUARANTEES OR CONDITIONS. YOU MAY HAVE ADDITIONAL CONSUMER RIGHTS OR STATUTORY G
 CANNOT CHANGE. TO THE EXTENT PERMITTED UNDER YOUR LOCAL LAWS, MICROSOFT EXCLUDES THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS 
 FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.   
 
-FOR AUSTRALIA – YOU HAVE STATUTORY GUARANTEES UNDER THE AUSTRALIAN CONSUMER LAW AND NOTHING IN THESE TERMS IS INTENDED TO AFFECT THOSE 
+>FOR AUSTRALIA – YOU HAVE STATUTORY GUARANTEES UNDER THE AUSTRALIAN CONSUMER LAW AND NOTHING IN THESE TERMS IS INTENDED TO AFFECT THOSE 
 RIGHTS.   
 
 13. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES. YOU CAN RECOVER FROM MICROSOFT AND ITS SUPPLIERS ONLY DIRECT DAMAGES UP TO 
