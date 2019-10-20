@@ -2,7 +2,7 @@
 author: ornellaalt
 description: Dynamics 365 Layout user guide
 ms.author: ornella
-ms.date: 10/01/2019
+ms.date: 10/22/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout user guide
@@ -56,7 +56,11 @@ public store.
 
 ## Get started with Dynamics 365 Layout: take advantage of learning tools
 
-[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] includes two tools (teaching moments and demo layouts) that you can use to help you learn how to do common tasks such as measuring, copying, grouping, resizing, and accessing settings.
+[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] includes three tools that you can use to help you learn how to do common tasks such as measuring, copying, grouping, resizing, and accessing settings.
+
+### Animated out-of-the-box experience for HoloLens 2 users
+
+If you use [!include[pn-hololens](../includes/pn-hololens.md)] 2, after you install the [!include[pn-hololens](../includes/pn-hololens.md)] app, and before you sign in, you'll see an animated 3D experience that shows the benefits and key capabilities of [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
 ### Teaching moments
 
