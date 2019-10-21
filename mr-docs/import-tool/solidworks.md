@@ -48,7 +48,7 @@ To remove features with the **Simplify** tool:
     
     ![Suppress](media/solidworks-suppress.PNG "Suppress") 
  
-   The features you select are removed from the model. If you find that features were removed that you want to keep, you can undo the process by clearing the **All** check box, and selecting just the items you want to remove. 
+   The features selected are removed from the model. If you find that features were removed that you want to keep, you can undo the process by clearing the **All** check box, and selecting just the items you want to remove. 
 
 ## Remove small parts with the Defeature tool
 
