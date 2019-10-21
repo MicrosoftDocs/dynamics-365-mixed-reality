@@ -98,7 +98,7 @@ To decimate a 3D model:
 
 ## Add a material with a principled shader
 
-You can add a shader to the model to define how shiny and smooth the model appears to give it a more realistic appearance. 
+To give the model a more realistic appearance, you can add a shader to the model to define how shiny and smooth the model appears. 
 
 1.	Open the **Material Palette** tab (in the same window pane as the node system), select **Principled Shader**, and then drag it to the open space in the pane to the right.
 
