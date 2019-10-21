@@ -108,7 +108,7 @@ To give the model a more realistic appearance, you can add a shader to the model
 
     ![Assign to Selected Objects or Geometry](media/14-houdini-assign-to-selected-objects.PNG "Assign to Selected Objects or Geometry") 
  
-3.	Highlight the entire model by selecting the window, and then select **Assign**.
+3.	Highlight the entire model. To do this, select the window, and then select **Assign**.
 
     ![Highlighted model](media/15-houdini-highlight-model.PNG "Highlighted model") 
  
