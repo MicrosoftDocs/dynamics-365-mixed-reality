@@ -120,7 +120,7 @@ To give the model a more realistic appearance, you can add a shader to the model
 
     ![Accept principledshader](media/17-houdini-accept.PNG "Accept principledshader") 
  
-### Adjust material properites
+### Adjust material properties
 
 You can adjust visible properties like the color of the material in the window pane above the **Material Palette** when you have the **Principled Shader** highlighted. For example, start with **Roughness** at **0.8** and **Metallic** at **0.2** for CAD models.
 
