@@ -94,7 +94,7 @@ To decimate a 3D model:
    
     ![Polyreduce results](media/12-houdini-polyreduce-results.PNG "Polyreduce results") 
 
-    There is some room to experiment with the polygon counts for use on mixed reality devices. You can use the **Number to keep** slider to fine-tune the look of the model. Experiment with this slider to get the look you like with the polygon count you need.
+    There is some room to experiment with the polygon counts for use on mixed reality devices. You can use the **Number To Keep** slider to fine-tune the look of the model. Experiment with this slider to get the look you like with the polygon count you need.
 
 ## Add a material with a principled shader
 
