@@ -120,9 +120,9 @@ Another technique is to save the 3D model assembly as a part file (.asm -> .prt)
 
 2. In the **Save as type** field, select **Part**.
 
-3. Under **Geometry to save**, select **Exterior faces**. This creates a part that only has the exterior faces showing. Any internal parts are filled, and the item becomes solid. 
-    
-    ![Save an assembly as a part](media/solidworks-save-assembly-as-part.PNG "Save an assembly as a part") 
+    ![Save an assembly as a part](media/solidworks-save-assembly-as-part.PNG "Save an assembly as a part")
+
+3. Under **Geometry to save**, select **Exterior faces**. This creates a part that only has the exterior faces showing. Any internal parts are filled, and the item becomes solid.      
     
 4. Select **Save**.
 
