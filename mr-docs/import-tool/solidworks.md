@@ -130,9 +130,11 @@ Another technique is to save the 3D model assembly as a part file (.asm -> .prt)
  
 After you optimize a 3D model, you can easily export it directly from SolidWorks as a GLB file.  
 
-- Select **File > Save As**, and then select **Extended Reality Binary (.glb)** as the file type. 
+1. Select **File > Save As**, and then select **Extended Reality Binary (.glb)** as the file type. 
    
    ![Save as GLB](media/solidworks-export.png "Save as GLB") 
+   
+2. Select **Save**.
    
 ## Other conversion options 
 
