@@ -159,7 +159,7 @@ You can find more information on these products here:
 [Dassault Systèmes Solidworks 2019](https://www.solidworks.com/)  
 [Extended Reality (XR) Exporter](https://www.solidworks.com/beta/exporter.htm) 
  
-Several screenshots in this document were taken from the Dassault Systèmes SolidWorks software program to provide clear instructions on how to use Dassault’s software. [Learn more about Dassault Systèmes SolidWorks](https://www.solidworks.com/) 
+Several screenshots in this document were taken from the Dassault Systèmes SolidWorks software program to provide clear instructions on how to use Dassault’s software. [Learn more about Dassault Systèmes SolidWorks](https://www.solidworks.com/). 
  
 The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Dassault Systèmes Solidworks, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
  
