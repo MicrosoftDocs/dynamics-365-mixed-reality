@@ -86,7 +86,7 @@ The **Defeature** tool provides another optimization option. You can use this to
     
     ![Save as new document](media/solidworks-save.PNG "Save as new document") 
  
-8. Name your model, and then select **Save**. The model is saved as a single SolidWorks part file. 
+8. Name the model, and then select **Save**. The model is saved as a single SolidWorks part file. 
 
 ### Create a silhouette
 
