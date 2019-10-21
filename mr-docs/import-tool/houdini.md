@@ -60,7 +60,7 @@ Houdini is built from the ground up as a procedural system that empowers artists
    
 ## Decimate a 3D model
 
-To reach application-specific goals, you may need to decimate a 3D model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with less polygons. This reduces visual fidelity but also increases performance. The example images below show the difference between a high-quality model used for low-scene complexity on Microsoft HoloLens, and a low-quality model used for high-scene complexity. 
+To reach application-specific goals, you may need to decimate your 3D models. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with less polygons. This reduces visual fidelity but also increases performance. The example images below show the difference between a high-quality model used for low-scene complexity on Microsoft HoloLens, and a low-quality model used for high-scene complexity. 
 
 ![Decimation example](media/6-houdini-decimation-overview.PNG "Decimation example") 
 
