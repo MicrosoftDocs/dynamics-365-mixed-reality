@@ -78,7 +78,7 @@ The **Defeature** tool provides another optimization option. You can use this to
     
     ![Auto-Select settings](media/solidworks-autoselect.PNG "Auto-Select settings") 
     
-6. The tool "defeatures" the model. If there's anything that was missed that you want to remove, select it in the following screen. When you're done, select the **Next** button. 
+6. The tool "defeatures" the model. If there's anything that was missed that you want to remove, select it in the model. When you're done, select the **Next** button. 
      
     ![Select additional features to remove](media/solidworks-select-additional-features.PNG "Select additional features to remove") 
     
