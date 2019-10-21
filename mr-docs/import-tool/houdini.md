@@ -66,7 +66,7 @@ To reach application-specific goals, you may need to decimate your 3D models. De
 
 To decimate a 3D model:
 
-1.	In the **Geometry** pane on the lower right, press the Tab key to open the **TAB menu**.     
+1.	In the **Geometry** pane on the lower right, press the Tab key to open the **TAB Menu**.     
 
 2. Select **Polygon > PolyReduce**, and then press Enter to select the PolyReduce node. Select or click in the area beneath the **File** node to place a **PolyReduce** node.
 
