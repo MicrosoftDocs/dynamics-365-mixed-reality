@@ -30,7 +30,7 @@ SideFX or any of SideFX’s products.  [There are several other content-
 
 ## What is Houdini? 
 
-Houdini is a 3D procedural content creation tool. It's a non-destructive node-based tool system that you can use to design process pipelines. 
+Houdini is built from the ground up to be a procedural system that empowers artists to work freely, create multiple iterations, and rapidly share workflows with colleagues. 
 
 ## Import a 3D model into Houdini
 
@@ -42,11 +42,11 @@ Houdini is a 3D procedural content creation tool. It's a non-destructive node-ba
  
 2. Right-click in the bottom-right window pane to open the **TAB Menu** (or press Tab).    
 
-3. In the **TAB Menu**, select **Import > File**, and then click to place this in the Geometry pane. 
+3. In the **TAB Menu**, select **Import > File**, and then select **File** to place a **File Node** in the **Geometry** window. 
 
    ![Import File](media/2-houdini-import-file.PNG "Import File") 
  
-4. Double-click the **file1** icon or press **I** to drill down to the file selection part of this node. Select the **File chooser** button, and then choose the file you want to import. 
+4. Double-click the **file1** icon or press **I** to drill down to the file selection part of this node. Select the **Open floating file chooser** button, and then choose the file you want to import. 
 
    ![File chooser button](media/3-houdini-file-chooser.PNG "File chooser button") 
  
@@ -66,9 +66,9 @@ To reach application-specific goals, you may need to decimate a 3D model. Decima
 
 To decimate a 3D model:
 
-1.	In the **Geometry** pane on the lower right, press the Tab key to open the **TAB menu**.     
+1.	In the **Geometry** window on the lower right, press the Tab key to open the **TAB menu**.     
 
-2. Select **Polygon > PolyReduce**, and then press Enter to select the PolyReduce node. Click beneath the **File** node to place it.
+2. Select **Polygon > PolyReduce**, and then press Enter to select the PolyReduce node. Select or click in the area beneath the **File** node to place a **PolyReduce** node.
 
     ![Polygon PolyReduce](media/7-houdini-poly-reduce.PNG "Polygon PolyReduce") 
  
@@ -88,7 +88,7 @@ To decimate a 3D model:
 
     ![Output Polygon Count](media/11-houdini-output-polygon-count.PNG "Output Polygon Count") 
 
-7.	To see the results, make sure the **polyreduce1** node is selected and the **Template** (pink) and **Display** (blue) bars are filled by selecting each bar. 
+7.	To see the results, select the **polyreduce1** node, and then select the **Template** (pink) and **Display** (blue) bars on the right side of the node. 
 
     The model changes to show much less detail.
    
@@ -100,7 +100,7 @@ To decimate a 3D model:
 
 You can add a shader to the model to define how shiny and smooth the model appears to give it a more realistic appearance. 
 
-1.	Open the **Material Palette** tab (in the same window pane as the node system), select **Principled Shader**, and then drag it to the open gray space.
+1.	Open the **Material Palette** tab (in the same window pane as the node system), select **Principled Shader**, and then drag it to the open space in the pane to the right.
 
     ![Principled Shader](media/13-houdini-shader.PNG "Principled Shader") 
  
@@ -116,7 +116,7 @@ You can add a shader to the model to define how shiny and smooth the model appea
 
     ![Material node](media/16-houdini-material-node.PNG "Material node") 
   
-5.	Select the open **File chooser** button in the upper pane, select **principledshader**, and then select **Accept**.
+5.	Select the open **Open floating file chooser** button in the upper pane, select **principledshader**, and then select **Accept**.
 
     ![Accept principledshader](media/17-houdini-accept.PNG "Accept principledshader") 
  
@@ -190,17 +190,17 @@ The first thing you need to do is replace whatever geometry is currently being u
 
     ![File Open template](media/27-houdini-open-template.PNG "File Open template") 
  
-2.	Select the center of the geometry file node to switch to the **File** context menu above, and then select **File chooser** button to select xxx.  
+2.	Select the center of the geometry file node to switch to the **File** context menu above, and then select the **Open floating file chooser** button to select xxx.  
 
     ![File chooser button](media/28-houdini-file-chooser2.PNG "File chooser button") 
  
-3.	When the geometry is loaded, select the red sphere on the **polyreduce1** node, and then the blue tab to the far right. 
+3.	When the geometry is loaded, select the red sphere on the **polyreduce1** node, and then the blue tab to the far right of the **polyreduce1** node. 
 
     ![Select red sphere](media/29-houdini-reduction-tools.PNG "Select red sphere") 
 
     This shows you what the reduced poly model looks like in the view window, and provides access to the reduction tools.
  
-4.	When the model reaches a quality that meets your requirements, select the **rop_gltf1** node, select the **File chooser** button, and then choose a location and name for the file you're exporting. Be sure to include the .glb extension in the file name.
+4.	When the model reaches a quality that meets your requirements, select the **rop_gltf1** node, select the **Open floating file chooser** button, and then choose a location and name for the file you're exporting. Be sure to include the .glb extension in the file name.
 
     ![Export rop-gltf](media/30-houdini-rop-gltf.PNG "Export rop-gltf") 
  
@@ -222,8 +222,7 @@ After preparing your 3D models, you can learn more about using the following Mic
  
 Several screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software. [Learn more about SideFX Houdini](https://www.sidefx.com/).
  
-The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Houdini, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
-The license terms of the Blender website is found below: Creative Commons Attribution ShareAlike 
+The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Houdini, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.  
  
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation. 
 
