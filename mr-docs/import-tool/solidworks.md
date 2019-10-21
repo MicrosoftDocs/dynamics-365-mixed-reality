@@ -52,7 +52,7 @@ To remove features with the **Simplify** tool:
 
 ## Remove small parts with the Defeature tool
 
-The **Defeature** tool provides another optimization option. You can use this tool for both part removal (simiplifying geometry) and for creating a silhouette of your model.  
+The **Defeature** tool provides another optimization option. You can use this tool for both part removal (simplifying geometry) and for creating a silhouette of your model.  
 
 1. To access this tool, select **Tools > Defeature**. 
      
