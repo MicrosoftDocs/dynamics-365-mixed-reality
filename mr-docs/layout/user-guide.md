@@ -75,11 +75,7 @@ Demo layouts use prebuilt layouts to demonstrate how to build different parts of
 - Grouping and measurement
 - Copy and paste
 
-
-<!--from editor: The following sentence mentions collision, but that was deleted from the list above. Should it be removed here, too? -->
-
-
-For example, in the Copy and paste and collision demo, learn how to complete a conveyor belt by copying and positioning sections.
+For example, in the Copy and paste demo, learn how to complete a conveyor belt by copying and positioning sections.
 
 To access demo layouts, pick the demo you want from the **Layouts** menu.
 
