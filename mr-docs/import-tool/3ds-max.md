@@ -337,7 +337,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
    ![Physical Material](media/3ds-max-physical-material.PNG "Physical Material") 
  
-6. Set the **Roughness** value to **0.9** and the **Metalness** value to **0.1**. 
+6. Set the **Roughness** value to **0.1** and the **Metalness** value to **0.9**. 
 
    ![Roughness and Metalness](media/3ds-max-roughness-metalness.png "Roughness and Metalness") 
  
