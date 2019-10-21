@@ -174,11 +174,11 @@ The first thing you need to do is replace whatever geometry is currently being u
 
 2.	Change the **Geometry File** field to **default.bgeo**, and then select **Reload Geometry**.
 
+    ![Template](media/25-houdini-template.PNG "Template") 
+
     This refreshes the geometry so that it's a generic cube.
    
-3.	Change the file name to something generic like **Template**.
-
-    ![Template](media/25-houdini-template.PNG "Template") 
+3.	Change the file name to something generic like **Template**.    
  
 4.	On the **File** menu, select **Save**, and then save the file as something memorable like **Prep_Template**.  
 
