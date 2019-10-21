@@ -190,7 +190,7 @@ The first thing you need to do is replace whatever geometry is currently being u
 
     ![File Open template](media/27-houdini-open-template.PNG "File Open template") 
  
-2.	Select the center of the geometry file node to switch to the **File** context menu above, and then select the **Open floating file chooser** button to select xxx.  
+2.	Select the center of the geometry file node to switch to the **File** context menu above, and then select the **Open floating file chooser** button to select the 3D model you want to prepare.  
 
     ![File chooser button](media/28-houdini-file-chooser2.PNG "File chooser button") 
  
