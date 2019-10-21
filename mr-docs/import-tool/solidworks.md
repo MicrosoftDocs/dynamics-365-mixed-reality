@@ -24,7 +24,7 @@ SolidWorks 2019 provides the breadth of tools to tackle the most complex problem
  
 ## Optimize 3D models in SolidWorks 
 
-The features in this tutorial have been identified as ways to optimize 3D models for use in mixed reality applications. Depending on how complex your model is, you may be able to just export it as a GLB file or you may need to use a combination of several features. 
+The features in this tutorial have been identified as ways to optimize 3D models for use in Dynamics 365 mixed reality applications. Depending on how complex your model is, you may be able to just export it as a GLB file or you may need to use a combination of several features. 
  
 ## Remove features with the Simplify tool 
 
