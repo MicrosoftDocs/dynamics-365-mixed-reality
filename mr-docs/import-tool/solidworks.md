@@ -32,7 +32,7 @@ If your 3D model is extremely complex and you're having performance issues, you 
 
 To remove features with the **Simplify** tool:
 
-1. Access the **Simplify** tool, select **Tools > Find/Modify > Simplify**. 
+1. To access the **Simplify** tool, select **Tools > Find/Modify > Simplify**. 
 
    ![Simplify tool](media/solidworks-simplify-tool.PNG "Simplify tool") 
  
