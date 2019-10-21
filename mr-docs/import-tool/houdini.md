@@ -130,7 +130,7 @@ To change the color of the 3D model:
 
 1. Select the color swatch button located to the right of **Base Color**. 
 
-    ![Base Color](media/18.1-houdini-select-color-match.png "Base Color")
+    ![Base Color](media/18.1-houdini-select-color-swatch.png "Base Color")
 
 2. In the **Color Editor** dialog box, pick a color. You can pick from previous colors, the mixer wheel, or from the sliders. 
 
