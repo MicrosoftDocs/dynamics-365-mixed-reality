@@ -62,29 +62,27 @@ The Defeature tool provides another optimization option. You can use this tool f
      
 ### Simplify geometry
 
-1. Select the Simplify Geometry icon, and then select the Next arrow.  
+1. Select the **Simplify Geometry** button, and then select the **Next** button.  
      
     ![Simplify Geometry](media/solidworks-geometry-or-silhouette.PNG "Simplify Geometry") 
     
-2. Select the **Internal components** check box.  
-
-3. Select the **Small components** check box, and enter a percentage to use.  We suggest starting with 1%. This will often remove nuts, bolts, and washers from an assembly while leaving the more visually important components. You can increase this percentage if you need to remove more. Select the next arrow when you're ready.
+2. Select the **Internal components** check box, select the **Small components** check box, and then enter a percentage to use. We suggest starting with 1%. This will often remove nuts, bolts, and washers from an assembly while leaving the more visually important components. You can increase this percentage if you need to remove more. Select the **Next** button when you're ready to move forward.
      
     ![Small components settings](media/solidworks-small-components.PNG "Small components settings") 
     
-4. Select the Next arrow again to skip adding motion to the assemblies. 
+4. Select the **Next** button again to skip adding motion to the assemblies. 
      
     ![Adding motion](media/solidworks-motion.PNG "Adding motion") 
     
-5. If you want to retain the detail for specific geometry areas, select them. Otherwise, they'll be optimized. You can also select the check boxes under **Auto-Select** to retain all holes or holes of a specific size. Select the Next button when you're done.
+5. If you want to retain the detail for specific geometry areas, select them. Otherwise, they'll be optimized. You can also select the check boxes under **Auto-Select** to retain all holes or holes of a specific size. Select the **Next** button when you're done.
     
     ![Auto-Select settings](media/solidworks-autoselect.PNG "Auto-Select settings") 
     
-6. The tool "defeatures" the model. If there's anything that was missed that you would like to remove, select it in the following screen. When you're done, select the Next button. 
+6. The tool "defeatures" the model. If there's anything that was missed that you want to remove, select it in the following screen. When you're done, select the **Next** button. 
      
     ![Select additional features to remove](media/solidworks-select-additional-features.PNG "Select additional features to remove") 
     
-7. If the optimized model meets your needs, select **Save as a new document**, and then select the green arrow. 
+7. If the optimized model meets your needs, select **Save as a new document**, and then select the green check mark. 
     
     ![Save as new document](media/solidworks-save.PNG "Save as new document") 
  
@@ -92,13 +90,13 @@ The Defeature tool provides another optimization option. You can use this tool f
 
 ### Create a silhouette
 
-Another option for optimizing your model is the Silhouette tool. This tool is useful when you just need to understand the basic shape of a complex model.  
+Another option for optimizing your model is the **Silhouette** tool. This tool is useful when you just need to understand the basic shape of a complex model.  
 
 1. To access the tool, select **Tools > Defeature**.
      
     ![Defeature tool](media/solidworks-defeature.PNG "Defeature tool") 
     
-2. Select **Silhouette**. 
+2. Select the **Silhouette** button. 
      
     ![Silhouette tool](media/solidworks-silhouette.PNG "Silhouette tool") 
  
@@ -106,23 +104,23 @@ Another option for optimizing your model is the Silhouette tool. This tool is us
     
     ![Tight Fit Outline option](media/solidworks-tight-fit-outline.PNG "Tight Fit Outline option") 
  
-4. You'll see a preview window that shows what your silhouetted model will look like. When you have it the way want, select the Next button.   
+4. You'll see a preview window that shows what your silhouetted model will look like. When the model looks the way you want, select the **Next** button.   
     
     ![Preview window](media/solidworks-preview-window.PNG "Preview window") 
  
-5. Select **Save as a new document**, and then select the green check mark to save your model.  
+5. Select **Save as a new document**, and then select the green check mark to save the model.  
      
     ![Save](media/solidworks-save-silhouette.PNG "Save") 
 
 ## Save an assembly as a part
 
-Another technique is to save the 3D model assembly as a part file (.asm -> .prt).  When you do this, you can choose to hide internal geometry. This will increase the performance of your 3D model and also help you maintain confidentiality about the inner workings of your designs.  
+Another technique is to save the 3D model assembly as a part file (.asm -> .prt). When you do this, you can choose to hide internal geometry, which increases the performance of your 3D model and also helps maintain confidentiality about the inner workings of your designs.  
 
 1. Select the master assembly (or a subassembly), and then select **File -> Save As**. 
 
 2. In the **Save as type** field, select **Part**.
 
-3. Under **Geometry to save**, select **Exterior faces**. This creates a part that only has the exterior faces showing.  Any internal parts will be filled, and the item will become solid. 
+3. Under **Geometry to save**, select **Exterior faces**. This creates a part that only has the exterior faces showing. Any internal parts are filled, and the item becomes solid. 
     
     ![Save an assembly as a part](media/solidworks-save-assembly-as-part.PNG "Save an assembly as a part") 
     
@@ -132,7 +130,7 @@ Another technique is to save the 3D model assembly as a part file (.asm -> .prt)
  
 After you optimize a 3D model, you can easily export it directly from SolidWorks as a GLB file.  
 
-- Select **File > Save As**, and then select Extended Reality Binary (.glb) as the file type. 
+- Select **File > Save As**, and then select **Extended Reality Binary (.glb)** as the file type. 
    
    ![Save as GLB](media/solidworks-export.png "Save as GLB") 
    
@@ -140,9 +138,9 @@ After you optimize a 3D model, you can easily export it directly from SolidWorks
 
 If you don't have SolidWorks 2019 and the XR exporter plugin, you need to do one of the following to convert your 3D model into an optimizable format: 
 
-- If you don't need to see material color, you can export your model as an STL file and import it directly into Dynamics 365 Import Tool (Preview). If it's not performant, you can import the STL file into a DCC application and optimize it further. [See a list of tutorials on how to optimize your 3D models with DCC applications](tutorials-overview.md). 
+- If you don't need to see material color, you can export your model as an STL file and import it directly into Dynamics 365 Import Tool (Preview). If it doesn't perform well, you can import the STL file into a Digital Content Creation (DCC) application and optimize it further. [See a list of tutorials on how to optimize your 3D models with DCC applications](tutorials-overview.md). 
 
-- If you would like to see material colors on your final product, you'll need to send your 3D model through a transcoder before optimizing it further. [This 3ds Max tutorial walks you through the optimization and conversion process](3ds-max).  
+- If you want to see material colors on your final product, you need to send your 3D model through a transcoder before optimizing it further. [This 3ds Max tutorial walks you through the optimization and conversion process](3ds-max.md).  
 
 ## View your 3D model in Dynamics 365 mixed reality applications
  
