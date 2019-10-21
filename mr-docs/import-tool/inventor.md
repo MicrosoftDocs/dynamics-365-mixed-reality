@@ -33,7 +33,7 @@ The first step is to remove any unneeded details in the 3D model. This vastly im
     
     From here, there are several optimization options you can choose to help increase the performance of your model in Dynamics 365 mixed reality applications. 
  
-2.	Select the **Remove parts by size** check box, select the mouse arrow, and then select an object that is the largest you would be willing to remove, such as a bolt. This will remove all objects (nuts, bolts, washers) that are smaller than the object you selected.
+2.	Select the **Remove parts by size** check box, select the mouse arrow, and then select the largest object you're willing to remove, such as a bolt. This will remove all objects (nuts, bolts, washers) that are smaller than the object you selected.
 
     ![Remove parts by size](media/inventor-remove-parts.PNG "Remove parts by size") 
  
