@@ -58,10 +58,8 @@ The Defeature tool provides another optimization option. You can use this tool f
      
     ![Defeature tool](media/solidworks-defeature.PNG "Defeature tool") 
  
-2. Select to either simplify your geometry or create a silhouette. 
+2. At this point, you can choose to simplify your geometry or create a silhouette. 
      
-    ![Geometry or silhouette](media/solidworks-geometry-or-silhouette.PNG "Geometry or silhouette") 
-
 ### Simplify geometry
 
 1. Select the Simplify Geometry icon, and then select the Next arrow.  
