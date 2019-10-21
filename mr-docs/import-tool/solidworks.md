@@ -146,7 +146,7 @@ If you don't have SolidWorks 2019 and the XR exporter plugin, you need to do one
 
 ## View your 3D model in Dynamics 365 mixed reality applications
  
-After you prepare your 3D models, you can use the following Microsoft Dynamics 365 applications to view your 3D model in mixed reality: 
+After you prepare a 3D model, you can use the following Microsoft Dynamics 365 applications to view it in mixed reality: 
 
 [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)<br> 
 [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)<br> 
