@@ -28,11 +28,11 @@ The features in this tutorial have been identified as ways to optimize 3D models
  
 ## Remove features with the Simplify tool 
 
-If your 3D model is extremely complex and you're having performance issues, you can optimize it with the Simplify tool.  The Simplify tool provides a wide range of options for simplifying your models to different levels, including internal part removal, small part removal, defeaturing and more. [Learn more about using the Simplify tool](https://help.solidworks.com/2018/English/SolidWorks/sldworks/t_simplifying_parts.htm). 
+If your 3D model is extremely complex and you're having performance issues, you can optimize it with the **Simplify** tool.  The **Simplify** tool provides a wide range of options for simplifying your models to different levels, including internal part removal, small part removal, defeaturing and more. [Learn more about using the Simplify tool](https://help.solidworks.com/2018/English/SolidWorks/sldworks/t_simplifying_parts.htm). 
 
-To remove features with the Simplify tool:
+To remove features with the **Simplify** tool:
 
-1. Access the Simplify tool, select **Tools > Find/Modify > Simplify**. 
+1. Access the **Simplify** tool, select **Tools > Find/Modify > Simplify**. 
 
    ![Simplify tool](media/solidworks-simplify-tool.PNG "Simplify tool") 
  
