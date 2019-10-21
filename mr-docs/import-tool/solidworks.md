@@ -74,7 +74,7 @@ The **Defeature** tool provides another optimization option. You can use this to
      
     ![Adding motion](media/solidworks-motion.PNG "Adding motion") 
     
-5. If you want to retain the detail for specific geometry areas, select them. Otherwise, they'll be optimized. You can also select the check boxes under **Auto-Select** to retain all holes or holes of a specific size. Select the **Next** button when you're done.
+5. If you want to retain the detail for specific geometry areas, select them in the model. Otherwise, they'll be optimized. You can also select the check boxes under **Auto-Select** to retain all holes or holes of a specific size. Select the **Next** button when you're done.
     
     ![Auto-Select settings](media/solidworks-autoselect.PNG "Auto-Select settings") 
     
