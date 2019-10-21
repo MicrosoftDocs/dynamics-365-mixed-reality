@@ -96,7 +96,7 @@ Another option for optimizing your model is the **Silhouette** tool. This tool i
      
     ![Defeature tool](media/solidworks-defeature.PNG "Defeature tool") 
     
-2. Select the **Silhouette** button. 
+2. Select the **Silhouette** button, and then select the **Next** button. 
      
     ![Silhouette tool](media/solidworks-silhouette.PNG "Silhouette tool") 
  
