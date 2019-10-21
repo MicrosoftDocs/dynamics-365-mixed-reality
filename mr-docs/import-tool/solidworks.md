@@ -1,6 +1,6 @@
 ---
 author: JBrentJ
-description: Describes, in tutorial format, how to use Dassault SolidWords to prepare 3D models for use in Dynamics 365 mixed reality applications
+description: Describes, in tutorial format, how to use Dassault SolidWorks to prepare 3D models for use in Dynamics 365 mixed reality applications
 ms.author: v-jerja
 ms.date: 10/22/2019
 ms.service: crm-online
