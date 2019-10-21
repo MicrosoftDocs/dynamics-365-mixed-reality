@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Prepare Dassault SolidWorks 3D models for use in Dynamics 365 mixed reality applications
 
-There are several ways that you can optimize 3D models for mixed reality by using Dassault Systèmes SolidWorks. This tutorial provides you with easy-to-follow procedures for using each of these methods. Some of the procedures are redundant, so you may not need to use them all. Experiment with each procedure and decide what suits your use case best. 
+There are several ways you can optimize 3D models for mixed reality by using Dassault Systèmes SolidWorks. This tutorial provides you with easy-to-follow procedures for using each of these methods. Some of the procedures are redundant, so you may not need to use them all. Experiment with each procedure and decide what suits your use case best. 
  
 Sections of this tutorial are for 2019 and later only, and assume you’ve successfully installed the SolidWorks XR Exporter onto your local machine.  
  
