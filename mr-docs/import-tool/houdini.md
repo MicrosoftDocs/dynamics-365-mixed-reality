@@ -42,7 +42,7 @@ Houdini is built from the ground up as a procedural system that empowers artists
  
 2. Right-click in the bottom-right window pane to open the **TAB Menu** (or press Tab).    
 
-3. In the **TAB Menu**, select **Import > File**, and then select **File** to place a **File Node** in the **Geometry** window. 
+3. In the **TAB Menu**, select **Import**, and then select **File** to place a **File** node in the **Geometry** pane. 
 
    ![Import File](media/2-houdini-import-file.PNG "Import File") 
  
@@ -66,13 +66,13 @@ To reach application-specific goals, you may need to decimate a 3D model. Decima
 
 To decimate a 3D model:
 
-1.	In the **Geometry** window on the lower right, press the Tab key to open the **TAB menu**.     
+1.	In the **Geometry** pane on the lower right, press the Tab key to open the **TAB menu**.     
 
 2. Select **Polygon > PolyReduce**, and then press Enter to select the PolyReduce node. Select or click in the area beneath the **File** node to place a **PolyReduce** node.
 
     ![Polygon PolyReduce](media/7-houdini-poly-reduce.PNG "Polygon PolyReduce") 
  
-   A new node named **polyreduce1** appears in the **Geometry** window near the imported geometry node.
+   A new node named **polyreduce1** appears in the **Geometry** pane near the imported geometry node.
    
     ![Polyreduce node](media/8-houdini-polyreduce1-node.PNG "Polyreduce node") 
  
@@ -80,7 +80,7 @@ To decimate a 3D model:
 
     ![Drag to create a connection](media/9-houdini-drag-geometry.PNG "Drag to create a connection") 
  
-5. Select the center of the **polyreduce1** node and look at the options available in the tab above the **Geometry** window.
+5. Select the center of the **polyreduce1** node and look at the options available in the tab above the **Geometry** pane.
 
     ![PolyReduce options](media/10-houdini-polyreduce1-options.PNG "PolyReduce options") 
  
@@ -112,7 +112,7 @@ You can add a shader to the model to define how shiny and smooth the model appea
 
     ![Highlighted model](media/15-houdini-highlight-model.PNG "Highlighted model") 
  
-4.	In the **Geometry** window, you'll see that a **material1** node has been created and linked below the **polyreduce1** node.
+4.	In the **Geometry** pane, you'll see that a **material1** node has been created and linked below the **polyreduce1** node.
 
     ![Material node](media/16-houdini-material-node.PNG "Material node") 
   
@@ -140,7 +140,7 @@ To change the color of the 3D model:
 
 You need to export the model to a GLB file to use it with Dynamics 365 mixed reality apps. 
 
-1.	In the **Geometry** window, press the Tab key to open the **TAB Menu**. 
+1.	In the **Geometry** pane, press the Tab key to open the **TAB Menu**. 
 
 2. Select **Export > ROP GLTF Output**, press Enter, and then select below the **material1** node to place the **rop_gltf1** node.
 
