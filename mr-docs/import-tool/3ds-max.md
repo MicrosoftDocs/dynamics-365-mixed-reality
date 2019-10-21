@@ -102,7 +102,7 @@ and reduce them the most. Objects such as screws and grills can have thousands o
  
    You now have the highest poly objects selected. For the example model, 136K of the 195K polygons exist in 6 objects. The next section in this topic shows how to reduce the poly count of these objects. 
    
-   ![Selected objects](media/3ds-max-selected-objects.png "Selected objects") 
+   ![Selected objects](media/3ds-max-selected-objects.PNG "Selected objects") 
    
 ### Reduce polygon count 
 
@@ -157,7 +157,7 @@ To set up materials in 3ds Max:
  
 2. In the **Scene Converter** dialog box, expand **Materials**, and then select **Standard Material to Physical Material**. 
 
-   ![Standard Material to Physical Material](media/3ds-max-standard-to-physical.png "Standard Material to Physical Material") 
+   ![Standard Material to Physical Material](media/3ds-max-standard-to-physical.PNG "Standard Material to Physical Material") 
    
 3. Select **Convert Scene**.  
  
@@ -339,7 +339,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 6. Set the **Roughness** value to **0.9** and the **Metalness** value to **0.1**. 
 
-   ![Roughness and Metalness](media/3ds-max-roughness-metalness.PNG "Roughness and Metalness") 
+   ![Roughness and Metalness](media/3ds-max-roughness-metalness.png "Roughness and Metalness") 
  
 7. To attach the baked color map, select the option box ![Option button](media/3ds-max-option-button.PNG "Option button") next to the **Base Color and Reflections** color selector, and then select **Maps > General > Bitmap** from the list of options. 
  
