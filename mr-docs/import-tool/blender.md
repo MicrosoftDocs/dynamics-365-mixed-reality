@@ -59,7 +59,7 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
  
 3.	Select **File > Import > Wavefront (.obj)** to import the OBJ file. 
 
-    ![File import](media/blender-clear-checkboxes.PNG "File import")
+    ![File import](media/blender-clear-checkboxes.png "File import")
 
 4.	Under **Import OBJ**:
 
@@ -69,14 +69,14 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
         
     b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as one item and searches in the subfolder for any materials.
 
-      ![Import object](media/blender-import-obj-2.PNG "Import object")
+      ![Import object](media/blender-import-obj-2.png "Import object")
 
       When you select **Import Obj**, you'll see the 3D model with the imported materials.
       
       > [!TIP]
       > If the 3D model is extremely large or small, hard to see, and possibly off screen, you can use the mouse wheel to zoom the camera in or out until it’s visible.
       
-      ![Zoom camera](media/blender-zoom-camera.PNG "Zoom camera")      
+      ![Zoom camera](media/blender-zoom-camera.png "Zoom camera")      
       
       If the 3D model appears grey, select the **Look Dev** shading option to show the colors.
       
