@@ -154,7 +154,7 @@ You need to export the model to a GLB file to use it with Dynamics 365 mixed rea
   
 4.	In the top pane, in the **Export Type** field, select **glb**. 
 
-    ![Export to GLB file](media/22-houdini-export-glf.PNG "Export to GLB file") 
+    ![Export to GLB file](media/21-houdini-export-glb.PNG "Export to GLB file") 
  
 5.	Next to the **Output File** field, select the **File Chooser** button, and then choose a name and destination for the GLB file.  Make sure to add **.glb** to the end of the file name.
 
