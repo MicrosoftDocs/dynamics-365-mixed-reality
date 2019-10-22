@@ -113,7 +113,7 @@ To start the process:
 
 1.	Select the model, hover the mouse cursor over the main menu, press **Tab** to enter **Edit Mode**, press **a** to select all, and then on the **UV** menu, select **Smart UV Project**.    
 
-    ![Smart UV Project](media/blender-UV.PNG "Smart UV Project") 
+    ![Smart UV Project](media/blender-UV.png "Smart UV Project") 
     
     > [!TIP]
     > Enter **Edit Mode** by selecting the **Edit Mode** list in the upper-left corner, or press the Tab key. Pressing Tab while already in **Edit Mode** returns you to **Object Mode**.<br>![Blender Object mode](media/blender-object-mode.PNG "Blender Object mode")
@@ -146,7 +146,7 @@ To start the process:
     
     d. Press Spacebar.
 
-    ![Duplicate Objects](media/blender-duplicate-object.PNG "Duplicate Objects") 
+    ![Duplicate Objects](media/blender-duplicate-object.png "Duplicate Objects") 
     
  ## Prepare materials for texture baking
  
@@ -176,7 +176,7 @@ To start the process:
     
 7.	Select the icon to the left of **Object Mode**, and then select **Image Editor**.   
 
-    ![Image Editor](media/blender-image-editor.PNG "Image Editor") 
+    ![Image Editor](media/blender-image-editor.png "Image Editor") 
     
 8.	Create a new image (select **Add > Image > New**).
 
@@ -244,7 +244,7 @@ The last step is to export the model to a GLB file so it can be used with Dynami
     
 2. On the **Export** menu, make sure that the GLB format is selected and that the **Selected Objects** check box is selected. Name your file and select **glTF 2.0 (.glb/.gltf)**.
 
-    ![Export settings](media/blender-gltf.PNG "Export settings")    
+    ![Export settings](media/blender-gltf.png "Export settings")    
 
 ## View a 3D model in Dynamics 365 mixed reality applications
 
