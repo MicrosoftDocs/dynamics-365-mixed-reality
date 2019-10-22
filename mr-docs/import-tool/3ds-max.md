@@ -316,7 +316,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 4. If you go to the location where your .png was saved and open it, the baked map may look something like this:  
  
-   ![Baked map](media/3ds-max-baked-map.png "Baked map") 
+   ![Baked map](media/3ds-max-baked-map2.PNG "Baked map") 
    
 ## Apply the texture 
 
