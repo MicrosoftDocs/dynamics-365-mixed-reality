@@ -59,7 +59,7 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
  
 3.	Select **File > Import > Wavefront (.obj)** to import the OBJ file. 
 
-    ![File import](media/blender-clear-checkboxes.png "File import")
+    ![File import](media/blender-clear-check-boxes.png "File import")
 
 4.	Under **Import OBJ**:
 
