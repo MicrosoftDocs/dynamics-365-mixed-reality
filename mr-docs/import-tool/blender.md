@@ -1,20 +1,20 @@
 ---
 author: JBrentJ
-description: Describes in tutorial form how to use the Blender open source 3D creation suite to prepare 3D models for use in Dynamics 365 Mixed Reality applications
+description: Describes in tutorial form how to use the Blender open source 3D creation suite to prepare 3D models for use in Dynamics 365 mixed reality applications
 ms.author: v-jerja
-ms.date: 10/21/2019
+ms.date: 10/22/2019
 ms.service: crm-online
 ms.topic: article
-title: Use Blender to prepare 3D models for use in Dynamics 365 Mixed Reality applications
+title: Use Blender to prepare 3D models for use in Dynamics 365 mixed reality applications
 ms.reviewer: v-brycho
 ---
 
-# Use Blender to prepare 3D models for use in Microsoft Dynamics 365 Mixed Reality applications
+# Use Blender to prepare 3D models for use in Microsoft Dynamics 365 mixed reality applications
 
 This tutorial provides step-by-step instructions that show you how to:
 
 - Reduce the polygon count of a 3D model so that it matches the performance needs specific to the [performance targets for Dynamics 
-365 Mixed Reality applications](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+365 mixed reality applications](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
 
 - Combine the 3D model’s multiple materials (colors) into a single texture that can be applied to the model.
 
@@ -23,7 +23,7 @@ This tutorial provides step-by-step instructions that show you how to:
 The combination of reducing polygons and turning multiple materials into a single texture can transform a complex and resource-intensive 3D model into a 3D model that performs well in mixed reality applications.
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Blender works with Microsoft Dynamics 365 Mixed Reality at Work applications. Your use of third-party applications is subject to terms between you and the third party.<br><br>  
+> This document is created strictly for informative purposes to demonstrate how Blender works with Microsoft Dynamics 365 Mixed Reality at Work applications. Your use of third-party applications is subject to terms between you and the third party.<br>  
 The Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Blender or any of 
 Blender’s products. [There are several other content-creation applications that can be used to prepare your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models).
 
@@ -31,7 +31,7 @@ Blender’s products. [There are several other content-creation applications tha
 
 [Blender](https://www.blender.org/) is a free and open source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing and game creation. 
 
-If Blender is the software that you decide to use to prepare your 3D models, review Blender’s website and download the most current stable version for Windows at [Blender](https://www.blender.org/download/).
+If Blender is the software that you decide to use to prepare your 3D models, review Blender’s website and [download the most current stable version for Windows](https://www.blender.org/download/).
 
 ## Overall steps for preparing a 3D model with Blender
 
@@ -51,9 +51,9 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
 
 ## Import the model into Blender
 
-1.	Open Blender. A new scene is automatically created.
+1.	Open Blender. "When you open the app, a new scene is automatically created.
 
-2.	Right-click the cube and delete it.
+2.	Right-click the cube, and then select **Delete** to delete it.
 
     ![Delete cube](media/blender-delete-cube.png "Delete cube") 
  
@@ -63,7 +63,7 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
 
 4.	Under **Import OBJ**:
 
-    a. Make sure to clear the **Object** and **Group** check boxes and select the **Image Search** check box.
+    a. Clear the **Object** and **Group** check boxes, and select the **Image Search** check box.
 
       ![Image search](media/blender-import-obj.PNG "Image search")
         
@@ -71,7 +71,7 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
 
       ![Import object](media/blender-import-obj-2.png "Import object")
 
-      When you select **Import Obj**, you'll see the 3D model with the imported materials.
+      When you select **Import OBJ**, you'll see the 3D model with the imported materials.
       
       > [!TIP]
       > If the 3D model is extremely large or small, hard to see, and possibly off screen, you can use the mouse wheel to zoom the camera in or out until it’s visible.
@@ -87,17 +87,17 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
       
       ![Tris count](media/blender-tris-count.PNG "Tris count")
       
-      If this number falls in line with the [target resolution](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets), you can skip the decimation step and go directly to the **UV Unwrapping** section of this tutorial. If not, continue to the next section to decimate the model.
+      If this number meets the [performance target resolution](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets), you can skip the decimation step and go directly to the **UV Unwrapping** section of this tutorial. If not, continue to the next section to decimate the model.
       
 ## Decimate the model
 
-To reach application-specific performance goals, you can decimate the model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. This reduces visual fidelity but increases performance. The example images below show a high-fidelity model that can be used when you're viewing one or two 3D models at a time on HoloLens, and a low-quality 3D model used when you're viewing ten or more models at a time on HoloLens.
+To reach application-specific performance goals, you may need to decimate the model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with fewer polygons. This reduces visual fidelity but increases performance. The example images below show a high-fidelity model that can be used when you're viewing one or two 3D models at a time on HoloLens, and a low-quality 3D model used when you're viewing ten or more models at a time on HoloLens.
 
 ![Decimation examples](media/blender-decimation-examples.PNG "Decimation examples") 
 
 To decimate a model:
 
-1.	Select the model, and go to the **Modifiers** menu ![Modifiers menu](media/blender-wrench.png "Modifiers menu") in the right tool column.
+1.	Select the model, and then go to the **Modifiers** menu ![Modifiers menu](media/blender-wrench.png "Modifiers menu") in the right tool column.
 
 2.	On the **Modifiers** menu, in the **Add Modifier** list, select **Decimate**.
 
@@ -166,7 +166,7 @@ To start the process:
 
     ![Select eye](media/blender-select-eye.PNG "Select eye") 
 
-4. Select the plus sign in the Materials panel to add a new material to the duplicate.
+4. Select the plus sign in the **Materials** panel to add a new material to the duplicate.
 
     ![Plus sign](media/blender-plus-sign.PNG "Plus sign") 
     
@@ -194,7 +194,7 @@ To start the process:
 
     ![Shader Editor](media/blender-shader-editor-full-screen.PNG "Shader Editor") 
 
-11.	With the duplicate 3D model selected, select **Add > Texture > Image Texture**. Click to place the image texture node in the window.
+11.	With the duplicate 3D model selected, select **Add > Texture > Image Texture**. Select or click to place the image texture node in the window.
 
     ![Image Texture](media/blender-image-texture.PNG "Image Texture") 
     
@@ -216,7 +216,7 @@ After the texture and material are set up on the duplicate 3D model, it's time t
 
 1.	Select the **Render** tab ![Render tab](media/blender-render-tab.png "Render tab")
 
-2   Select **Cycles** as the render engine.
+2.  Select **Cycles** as the render engine.
 
 3.	In the **Bake** menu, set **Bake Type** to **Diffuse**.
 
@@ -250,7 +250,7 @@ The last step is to export the model to a GLB file so it can be used with Dynami
 
     ![Export settings](media/blender-gltf.PNG "Export settings")    
 
-## View 3D models in Dynamics 365 mixed reality applications
+## View a 3D model in Dynamics 365 mixed reality applications
 
 After preparing a 3D model, you can learn more about using the following Microsoft Dynamics 365 applications to view it:
 
@@ -262,10 +262,10 @@ After preparing a 3D model, you can learn more about using the following Microso
 
 ## More information
 
-Several screenshots in this document were taken from the Blender software program in order to provide clear instructions on how to use Blender’s software. More information about Blender can be found here: [Blender Foundation](https://www.blender.org/)
+Several screenshots in this document were taken from the Blender software program in order to provide clear instructions on how to use Blender’s software. [Learn more about the Blender Foundation](https://www.blender.org/).
 
 The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Blender, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
-Read about license terms for blender at: [Creative Commons Attribution ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/).
+Read about license terms for Blender at: [Creative Commons Attribution ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/).
 
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation.
 
