@@ -74,9 +74,7 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
       When you select **Import OBJ**, you'll see the 3D model with the imported materials.
       
       > [!TIP]
-      > If the 3D model is extremely large or small, hard to see, and possibly off screen, you can use the mouse wheel to zoom the camera in or out until it’s visible.
-      
-      ![Zoom camera](media/blender-zoom-camera.png "Zoom camera")      
+      > If the 3D model is extremely large or small, hard to see, and possibly off screen, you can use the mouse wheel to zoom the camera in or out until it’s visible.<br>![Zoom camera](media/blender-zoom-camera.png "Zoom camera")      
       
       If the 3D model appears grey, select the **Look Dev** shading option to show the colors.
       
