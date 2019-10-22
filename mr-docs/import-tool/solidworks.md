@@ -110,7 +110,7 @@ Another option for optimizing your model is the **Silhouette** tool. This tool i
  
 5. Select **Save as a new document**, and then select the green check mark to save the model.  
      
-    ![Save](media/solidworks-save-silhouette.PNG "Save") 
+    ![Save](media/solidworks-save.PNG "Save") 
 
 ## Save an assembly as a part
 
