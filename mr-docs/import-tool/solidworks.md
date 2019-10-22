@@ -106,7 +106,7 @@ Another option for optimizing your model is the **Silhouette** tool. This tool i
  
 4. You'll see a preview window that shows what your silhouetted model will look like. When the model looks the way you want, select the **Next** button.   
     
-    ![Preview window](media/solidworks-preview-window.PNG "Preview window") 
+    ![Preview window](media/solidworks-preview-window.png "Preview window") 
  
 5. Select **Save as a new document**, and then select the green check mark to save the model.  
      
