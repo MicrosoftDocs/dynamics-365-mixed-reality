@@ -77,7 +77,7 @@ Next, you need to export the model to a usable format that Dynamics 365 Import T
 
     ![Options button](media/inventor-options-button.PNG "Options button") 
     
-     This is what the OBJ export settings look like in Inventor:
+      This is what the OBJ export settings look like in Inventor:
     
     ![Save as options](media/inventor-save-as-options.PNG "Save as options") 
     
