@@ -55,7 +55,7 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
 
 2.	Right-click the cube and delete it.
 
-    ![Delete cube](media/blender-delete-cube.PNG "Delete cube") 
+    ![Delete cube](media/blender-delete-cube.png "Delete cube") 
  
 3.	Select **File > Import > Wavefront (.obj)** to import the OBJ file. 
 
@@ -80,7 +80,7 @@ Preparing a 3D model for mixed reality with Blender includes the following steps
       
       If the 3D model appears grey, select the **Look Dev** shading option to show the colors.
       
-      ![Look Dev shading option full screen](media/blender-look-dev-full-screen.PNG "Look Dev shading option full screen")    
+      ![Look Dev shading option full screen](media/blender-look-dev-full-screen.png "Look Dev shading option full screen")    
       
       
       c. Review the **Tris** count (number of polygons) at the bottom right of the screen. 
