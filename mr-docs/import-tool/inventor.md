@@ -69,7 +69,7 @@ The first step is to remove any unneeded details in the 3D model. This vastly im
 
 ## Export the 3D model
 
-Next, you need to export the model to a usable format that Dynamics 365 Import Tool (Preview) can read. Settings will need to be adjusted so that the lowest density model is exported. 
+Next, you need to export the model to a usable format that Dynamics 365 Import Tool (Preview) can read. You need to adjust settings so  the lowest density model is exported. 
 
 1.	In the **Save as** type box, select **OBJ files (*.obj)**.
     
