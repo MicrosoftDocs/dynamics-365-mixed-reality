@@ -17,7 +17,7 @@ This tutorial shows how to prepare Autodesk Inventor files for use in Dynamics 3
 > This document is created strictly for informative purposes to demonstrate how Autodesk Inventor works with Microsoft Dynamics 365 
 mixed reality applications. Your use of third-party applications is subject to terms between you and the third party. The Microsoft 
 Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk’s products. 
-There are several other [content-creation applications that can be used to prepare your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models). 
+[There are several other content-creation applications that can be used to prepare your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models). 
 
 ## What is Autodesk Inventor?
 
