@@ -16,7 +16,7 @@ When preparing CAD files for Dynamics 365 mixed reality applications, there are 
 > [!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how Autodesk 3ds Max works with Microsoft Dynamics 365 
 Mixed Reality at Work applications. The Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or 
-sponsor Autodesk or any of Autodesk’s products. 
+sponsor Autodesk or any of Autodesk’s products. [There are several other content-creation applications that can be used to prepare your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models).
 
 ## What is Autodesk 3ds Max?
 
