@@ -81,7 +81,7 @@ Next, you need to export the model to a usable format that Dynamics 365 Import T
     
     ![Save as options](media/inventor-save-as-options.PNG "Save as options") 
     
-    We suggest using the **Brep** setting.  Brep stands for “boundary representation” and produces the lowest poly output for Inventor files.  If your model is not overly complex and you desire a higher level of detail, you can use the **Low** setting ([see Performance targets](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets)).
+    We suggest using the **Brep** “boundary representation” setting, which produces the lowest poly output for Inventor files. If your model is not overly complex and you desire a higher level of detail, you can use the **Low** setting ([see Performance targets](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets)).
     
 ## Convert your OBJ file to a GLB file
 
