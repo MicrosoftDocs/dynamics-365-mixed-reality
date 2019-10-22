@@ -1,20 +1,17 @@
 ---
 author: JBrentJ
-description: Describes, in tutorial format, how to use Autodesk 3ds Max to generate content for use in Dynamics 365 mixed reality applications
+description: Describes, in tutorial format, how to use Autodesk 3ds Max to prepare content for use in Dynamics 365 mixed reality applications
 ms.author: v-jerja
 ms.date: 10/22/2019
 ms.service: crm-online
 ms.topic: article
-title: Use Autodesk 3ds Max to generate content for use in Dynamics 365 mixed reality applications
+title: Use Autodesk 3ds Max to prepare content for use in Dynamics 365 mixed reality applications
 ms.reviewer: v-brycho
 ---
 
-# Use Autodesk 3ds Max to generate 3D content for Dynamics 365 mixed reality applications
+# Use Autodesk 3ds Max to prepare 3D content for Dynamics 365 mixed reality applications
 
-When preparing CAD files for mixed reality, there are numerous performance and quality roadblocks that prevent a smooth transition 
-from CAD to real-time. 3ds Max is a digital content creation suite that has a unique ability to bridge parametric models and real-time 
-polygon modeling. This topic demonstrates a workflow that utilizes 3ds Max’s conversion and optimization abilities to prepare 3D CAD 
-models for use in mixed reality.  
+When preparing CAD files for Dynamics 365 mixed reality applications, there are numerous performance and quality roadblocks that prevent a smooth transition from CAD to real-time. 3ds Max is a digital content creation suite that has a unique ability to bridge parametric models and real-time polygon modeling. This tutorial demonstrates how to use the 3ds Max conversion and optimization capabilities to prepare 3D CAD models for use in mixed reality.  
  
 > [!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how Autodesk 3ds Max works with Microsoft Dynamics 365 
@@ -24,7 +21,7 @@ sponsor Autodesk or any of Autodesk’s products.
 ## What is Autodesk 3ds Max?
 
 Autodesk 3ds Max is 3D modeling and rendering software for design visualization, games, and animations. [Read more 
-about Autodesk](https://www.autodesk.com/products/3ds-max/overview). 
+about Autodesk 3ds Max](https://www.autodesk.com/products/3ds-max/overview). 
 
 ## Import a file into 3ds Max
 
@@ -37,7 +34,9 @@ import. You can usually keep the default values with the following exceptions:
    
    - Set **Hierarchy Mode** to **Flattened**.
     
-   - Set **Mesh Resolution** somewhere between -6 and -10. If your model imports sideways, re-import it with **Up Axis** set to **Y-Up**. 
+   - Set **Mesh Resolution** somewhere between -6 and -10. 
+   
+   - If your model imports sideways, re-import it with **Up Axis** set to **Y-Up**. 
 
    ![Import file settings](media/3ds-max-import-settings.png "Import file settings")   
    
@@ -56,9 +55,9 @@ performs better. To see the polygon count, first set up the viewport to show pol
  
    ![Configure viewports](media/3ds-max-configure-viewports.png "Configure viewports") 
  
-2. On the **Viewport Configuration** menu, go to the **Statistics** tab. Under **Setup**, select the **Polygon Count** check box, 
-and then select the **Total + Selection** button. Under **Application**, select the **Show Statistics in Active View** 
-check box. When you're done, select **OK**.
+2. In the **Viewport Configuration** screen, select the **Statistics** tab. 
+
+3. Under **Setup**, select the **Polygon Count** check box, and then select the **Total + Selection** option. Under **Application**, select the **Show Statistics in Active View** check box. When you're done, select **OK**.
  
    ![Viewport settings](media/3ds-max-viewport-settings.png "Viewport settings") 
  
@@ -83,7 +82,7 @@ and reduce them the most. Objects such as screws and grills can have thousands o
  
    ![Select from Scene](media/3ds-max-select-from-scene.png "Select from Scene") 
  
-2. Go to **Customize>Configure Columns**. 
+2. Select **Customize > Configure Columns**. 
  
    ![Configure Columns](media/3ds-max-configure-columns.png "Configure Columns") 
  
@@ -94,13 +93,13 @@ and reduce them the most. Objects such as screws and grills can have thousands o
 4. Select the **Faces** tab a few times so that your objects are now sorted from highest face count to lowest. 
 
    >[!TIP]
-   > You can also search at the top of the **Select from Scene** menu. If your model has lots of fillets, try searching for those. Fillets use lots of polygons and can be reduced without affecting the overall fidelity of the model. 
+   > You can also search at the top of the **Select from Scene** menu. If your model has lots of fillets, try searching for those. Fillets use lots of polygons and can be reduced without affecting the overall visual fidelity of the model. 
  
 5. Select the objects with the highest face counts, and then select **OK**.   
  
    ![Face counts](media/3ds-max-face-counts.png "Face counts") 
  
-   You now have the highest poly objects selected. For the example model, 136K of the 195K polygons exist in 6 objects. The next section in this topic shows how to reduce the poly count of these objects. 
+   You now have the highest poly objects selected. For the example model, 123K of the 195K polygons exist in 5 objects. The next section in this topic shows how to reduce the poly count of these objects. 
    
    ![Selected objects](media/3ds-max-selected-objects.PNG "Selected objects") 
    
@@ -111,12 +110,12 @@ and reduce them the most. Objects such as screws and grills can have thousands o
    ![Modifier List](media/3ds-max-modifier-list.png "Modifier List") 
  
 2. Select **ProOptimizer** from the list.   
-
-   ![ProOptimizer](media/3ds-max-prooptimize.png "ProOptimizer") 
   
 3. Select **Calculate** to unlock the **Optimization Level** value adjustments. Try different values for **Vertex %** that range from 10 - 30% until you find the highest level of reduction that still maintains a visual fidelity that meets your standards. 
+
+   ![ProOptimizer](media/3ds-max-prooptimize.png "ProOptimizer") 
  
-4. On the **Edit** menu, select **Select Invert** and add a **ProOptimizer** to the rest of your model. Follow the same steps as you did before, but don't go as low as 10 - 30%. Reduce these other objects until you reach a polygon count that matches the recommended [Performance targets](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for your specific use case and still provides good visual fidelity. 
+4. On the **Edit** menu, select **Select Invert** and then add a **ProOptimizer** to the rest of your model. Follow the same steps as you did before, but don't go as low as 10 - 30%. Reduce these other objects until you reach a polygon count that matches the recommended [Performance targets](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for your specific use case and still provides good visual fidelity. 
  
    ![Select Invert](media/3ds-max-select-invert.png "Select Invert") 
    
@@ -135,7 +134,7 @@ When curved surfaces are present on 3D models, they might appear faceted. You ca
 
    ![Smooth](media/3ds-max-smooth.png "Smooth") 
  
-3. Under **Parameters**, select the **Auto Smooth** check box, and then adjust the **Threshold** value until the faceted surfaces appear smooth.  The default threshold is 30.0 which is usually pretty good. 
+3. Under **Parameters**, select the **Auto Smooth** check box, and then adjust the **Threshold** value until the faceted surfaces appear smooth.  The default threshold is 30.0, which is usually pretty good. 
  
    > [!NOTE]
    > You can also apply the **Smooth** modifier to individual 3D models if they each require a different threshold.  
@@ -147,7 +146,7 @@ At this point, your model may be optimized enough for use in mixed reality. If y
 Not all CAD materials are compatible with real-time applications, so they must be converted first. In this section, we’ll change the materials to a GLB-friendly material type called **Physical Material**. This material is very flexible and is compatible with mixed reality technology.  
  
 > [!NOTE]
-> If your 3D model has 10 or more materials, performance may be an issue. To fix this, skip to the Texture Baking section.  
+> If your 3D model has 10 or more materials, performance may be an issue. To fix this, skip to the Texture Baking section of this tutorial.  
  
 To set up materials in 3ds Max: 
  
@@ -163,7 +162,7 @@ To set up materials in 3ds Max:
  
 ## Add or modify existing materials
 
-In cases where you want fine control over materials, this section shows how to apply and change material characteristics, such as color and reflection.  
+For cases where you want fine control over materials, you can apply and change material characteristics, such as color and reflection.  
  
 1. On the **Rendering** menu, select **Material Editor>Compact Material Editor**. This provides control over how the materials will look. 
  
@@ -193,7 +192,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
 ### Prepare the 3D model 
 
-1. Choose a single object from your model hierarchy, rename it to “Original” and add an **Edit Poly** modifier to it. 
+1. Choose a single object from your model hierarchy, rename it to **Original** and add an **Edit Poly** modifier to it. 
 
 2. Go to the object selection.  
 
@@ -201,7 +200,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
  
   	![Edit Poly](media/3ds-max-add-edit-poly.png "Edit Poly") 
 
-4. Under the tool menu, select the button to the right of the **Attach** button. This button shows the available models in the scene that you can combine together.  
+4. Under the **Tool** menu, select the button to the right of the **Attach** button. This button shows the available models in the scene that you can combine together.  
  
    ![Attach list button](media/3ds-max-attach-list-button.PNG "Attach list button") 
  
@@ -227,11 +226,11 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
    ![Open UV Editor](media/3ds-max-open-UV-editor.png "Open UV Editor") 
  
-3. In the **Edit UVWs** window, select **Mapping>Flatten Mapping**. . 
+3. In the **Edit UVWs** window, select **Mapping > Flatten Mapping**. . 
 
    ![Flatten Mapping](media/3ds-max-flatten-mapping.png "Flatten Mapping") 
    
-4. In the option box that appears, give the UVs some padding by setting **Spacing** to **0.003**, select the check box for **By Material IDs**, and then select **OK**
+4. In the option box that appears, give the UVs some padding by setting **Spacing** to **0.003**, select the check box for **By Material IDs**, and then select **OK**.
    
    ![Spacing](media/3ds-max-spacing.png "Spacing") 
    
@@ -243,7 +242,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
    ![Clone meshes](media/3ds-max-clone-meshes.png "Clone meshes") 
  
-2. Select **Copy** and rename the object so that you know it's the cloned object. 
+2. Select **Copy**, and then rename the object so that you know it's the cloned object. 
  
    ![Copies](media/3ds-max-copies.png "Copies") 
    
@@ -265,7 +264,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
      ![Render settings](media/3ds-max-render-settings.PNG "Render settings")     
    
-   c. When you're prompted to **Select Preset Categories**, leave the entries all highlighted and select **Load**.
+   c. When you're prompted to **Select Preset Categories**, leave the entries all highlighted, and then select **Load**.
    
       ![Load](media/3ds-max-load.PNG "Load") 
  
@@ -291,7 +290,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
    
    ![File Name and Type](media/3ds-max-file-name-and-type.PNG "File Name and Type") 
    
-   g. In the pop up menu, select the **RGB 24 bit** option, clear the **Alpha channel** check box, and then select **OK**. 
+   g. In the pop-up menu, select the **RGB 24 bit** option, clear the **Alpha channel** check box, and then select **OK**. 
    
    ![Alpha channel](media/3ds-max-alpha-channel.PNG "Alpha channel") 
  
@@ -327,9 +326,9 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 2. Set up a new material slot in the material editor.  
 
-3. Select one of the grey spheres and drag it to your unwrapped 3D model. At this point, the model will appear grey because it has just one material on it. 
+3. Select one of the grey spheres and drag it to the unwrapped 3D model. At this point, the model will appear grey because it has just one material on it. 
 
-4. Select the **Standard** button to access the material / Map Browser.
+4. Select the **Standard** button to open **Material/Map Browser**.
 
    ![Standard button](media/3ds-max-standard-button.PNG "Standard button") 
  
@@ -371,17 +370,19 @@ Now that the original mesh has been prepared, you need to create a copy of it to
  
 4. Select **Export**. 
  
-## View the 3D model in mixed reality 
+## View the 3D model in Dynamics 365 mixed reality applications
 
-After you have prepared your 3D models, you can use the following Microsoft Dynamics 365 apps to view your 3D model in mixed reality: 
+After you have prepared your 3D models, you can use the following Microsoft Dynamics 365 apps to view them in mixed reality: 
 
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model) 
+- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/index)<br>
 
-- [Dynamics 365 Layout via Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/import-tool)
+- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/index)<br>
+
+- [Dynamics 365 Layout](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/layout/) via [Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
 ## For more information
 
-Several screenshots in this document were taken from the Autodesk 3ds Max software program in order to provide clear instructions on how to use Autodesk’s software. More information about Autodesk can be found here: [Autodesk](https://www.autodesk.com/) 
+Several screenshots in this document were taken from the Autodesk 3ds Max software program in order to provide clear instructions on how to use Autodesk’s software. [Learn more about Autodesk](https://www.autodesk.com/). 
  
 You can find more information on these products here: 
  
