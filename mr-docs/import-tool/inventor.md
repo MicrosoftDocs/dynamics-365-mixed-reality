@@ -110,7 +110,7 @@ model, you can learn more about using the following Microsoft Dynamics 365 appli
 
 ## More information
 
-Several screenshots in this document were taken from the Autodesk Inventor software program to provide clear instructions on how to use Autodesk’s software.  More information about Autodesk Inventor can be found here: [Autodesk Inventor](https://aka.ms/Autodesk_inventor).
+Several screenshots in this document were taken from the Autodesk Inventor software program to provide clear instructions on how to use Autodesk’s software.  [Read more about Autodesk Inventor](https://aka.ms/Autodesk_inventor).
 
 The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk Inventor, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
 
