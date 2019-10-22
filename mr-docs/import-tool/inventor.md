@@ -85,7 +85,7 @@ Next, you need to export the model to a usable format that Dynamics 365 Import T
     
 ## Convert your OBJ file to a GLB file
 
-Microsoft Dynamics 365 mixed reality applications use the GLB format for 3D models. There are two options for converting your OBJ file to a GLB.
+Microsoft Dynamics 365 mixed reality applications use the GLB format for 3D models. There are two options for converting your OBJ file to a GLB file.
 
 - The first is by using Dynamics 365 Import Tool (Preview). This tool automatically converts your OBJ 3D model into a GLB 3D model.
 
