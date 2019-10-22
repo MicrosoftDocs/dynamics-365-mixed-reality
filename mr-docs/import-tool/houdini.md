@@ -25,8 +25,10 @@ reality applications](https://docs.microsoft.com/dynamics365/mixed-reality/imp
 >[!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how SideFX Houdini works with Microsoft 
 Dynamics 365 Mixed Reality at Work applications.  Your use of third-party applications is subject to terms between you 
-and the third party.  The Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor 
-SideFX or any of SideFX’s products.  [There are several other content-creation applications that can be used to prepare your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models).
+and the third party.
+
+The Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor 
+SideFX or any of SideFX’s products. [There are several other content-creation applications that can be used to prepare your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models).
 
 ## What is Houdini? 
 
