@@ -222,7 +222,13 @@ This section provides step-by-step instructions for creating a new price list, p
 
 13. Select **Save**.
 
-14. Select **Publish**.
+14. In the left navigation, select the **Products** tab.
+
+15. Select the newly created product by selecting the check box to the left of the product name.
+
+    ![Publish product](media/publish-product-family.PNG"Publish product")
+
+16. Select **Publish**.
 
 ## Add models
 
