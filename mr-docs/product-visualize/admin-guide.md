@@ -381,15 +381,21 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 ### Create a team
 
-1. Once the web app has loaded, you should see an option to join or create a team. Select **Create Team**.
+1. Launch Teams in a private browser by going to: teams.microsoft.com
 
-2. When you see the option to build a team from scratch or create from an existing team, select **Build a team from scratch**.
+2. When prompted, select **Use the web app instead.**
 
-3. Make the group **Org-Wide**.
+3. Select **Get Started**.
 
-4. Give the group a name and a description.
+4. Once the web app has loaded, you should see an option to join or create a team. Select **Create Team**.
 
-5. Select **Create**.
+5. build a team from scratch or create from an existing team, select **Build a team from scratch**.
+
+6. Make the group **Org-Wide**.
+
+7. Give the group a name and a description.
+
+8. Select **Create**.
 
 ### Add channels to the team
 
@@ -408,6 +414,18 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 2. Search for "Dynamics 365".
 
 3. Select the icon for Dynamics 365 (Preview) to open the installation dialog box.
+
+4. Select the **Open** menu, and then select **Add to a team.**
+
+   ![Add to a team](media/add-to-team.PNG "Add to a team")
+
+   a. Select an environment. This will be the organization name for the instance.
+   
+   b. Select **Sales Hub**.
+   
+      ![Sales Hub](media/select-sales-hub.PNG "Sales Hub")
+   
+   c. Select an opportunity, and then select **Save**.
 
 4. Ensure that the **Add for You** option is set to **Yes**.
 
