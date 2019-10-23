@@ -415,35 +415,35 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 3. Select the icon for Dynamics 365 (Preview) to open the installation dialog box.
 
-4. Select the **Open** menu, and then select **Add to a team.**
+4. Ensure that the **Add for You** option is set to **Yes**.
 
-   ![Add to a team](media/add-to-team.png "Add to a team")
+5. Select the **Open** menu, and then select **Add to a team.**
+
+   ![Add to a team](media/add-to-team.PNG "Add to a team")
 
    a. Select an environment. This will be the organization name for the instance.
    
    b. Select **Sales Hub**.
    
-      ![Sales Hub](media/select-sales-hub.png "Sales Hub")
+      ![Sales Hub](media/select-sales-hub.PNG "Sales Hub")
    
    c. Select an opportunity, and then select **Save**.
 
-4. Ensure that the **Add for You** option is set to **Yes**.
+6. In the **Add to a team** section, search for your team's name, which will also set the second option to **Yes**.
 
-5. In the **Add to a team** section, search for your team's name, which will also set the second option to **Yes**.
+7. Select **Install**.
 
-6. Select **Install**.
+8. On the next page, select the channel you just created, and then select **Set up**.
 
-7. On the next page, select the channel you just created, and then select **Set up**.
-
-8. On the **Setup** page, set the following:
+9. On the **Setup** page, set the following:
 
    - Select your Dynamics 365 organization from the **Org** list.
    
    - Select **Sales Hub** from the **App Module** list.
    
-9. Select **Select**.
+10. Select **Select**.
    
-10. From the list of Dynamics 365 entities, select an opportunity, and then select **Save**.
+11. From the list of Dynamics 365 entities, select an opportunity, and then select **Save**.
 
 For more information on setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/dynamics365/customer-engagement/basics/teams-install-app).
 
