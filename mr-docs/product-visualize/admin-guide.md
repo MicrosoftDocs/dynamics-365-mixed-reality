@@ -226,7 +226,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
 15. Select the newly created product by selecting the check box to the left of the product name.
 
-    ![Publish product](media/publish-product-family.PNG"Publish product")
+    ![Publish product](media/publish-product.PNG "Publish product")
 
 16. Select **Publish**.
 
