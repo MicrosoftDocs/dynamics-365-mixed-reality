@@ -190,7 +190,9 @@ This section provides step-by-step instructions for creating a new price list, p
 
 4. Give the family a name (**Product Samples**) and a Product ID (**PS-1**), and then select **Save and Close**.
 
-5. Select **Publish** to finish creating the product family.
+5. Select the check box for the product family, and then select **Publish** to finish creating the product family.
+
+   ![Publish product family](media/publish-product-family.PNG "Publish product family")
 
 ### Create a product
 
@@ -395,7 +397,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
    
 ### Connect Teams to Dynamics 365
 
-1. In the lower corner of the Teams client, select **Store**.
+1. In the lower corner of the Teams client, select **Apps**.
 
 2. Search for "Dynamics 365".
 
