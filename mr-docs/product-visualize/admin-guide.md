@@ -1,7 +1,7 @@
 ---
 author: rroesler
 description: Admin tasks for Dynamics 365 Product Visualize, including adding groups, products, opportunities, and the Product Visualize control
-ms.date: 10/01/2019
+ms.date: 10/24/2019
 ms.author: rroesler
 ms.service: crm-online
 ms.topic: article
@@ -343,7 +343,7 @@ There are numerous ways you can customize your Opportunity page in Dynamics 365 
 
 8. On the **Display** tab, clear the check box for **Display Label on the Form**.
 
-9. On the **Controls Page**, add the **Product Visualize** control from the list, and then select the **Web**, **Phone**, and **Tablet** options.
+9. On the **Controls Page**, add the **Product Visualize Launcher** control from the list, and then select the **Web**, **Phone**, and **Tablet** options.
 
 10. Select **OK** to finish adding the control.
 
