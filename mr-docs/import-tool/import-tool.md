@@ -28,6 +28,7 @@ If you choose the **Import using this PC** option, you’ll need to prepare your
 - [Convert your 3D models](convert-models.md)
 - [Optimize your 3D models](optimize-models.md)
 - [Best practices for 3D models](best-practices.md)
+- [Overview of self-serve tutorials](tutorials-overview.md)
 
 If you choose the **Send model to [!include[cc-microsoft](../includes/cc-microsoft.md)]** option, [!include[cc-microsoft](../includes/cc-microsoft.md)] converts and optimizes your model for you and will provide a download link when the model is ready.
 
