@@ -417,13 +417,13 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 4. Select the **Open** menu, and then select **Add to a team.**
 
-   ![Add to a team](media/add-to-team.PNG "Add to a team")
+   ![Add to a team](media/add-to-team.png "Add to a team")
 
    a. Select an environment. This will be the organization name for the instance.
    
    b. Select **Sales Hub**.
    
-      ![Sales Hub](media/select-sales-hub.PNG "Sales Hub")
+      ![Sales Hub](media/select-sales-hub.png "Sales Hub")
    
    c. Select an opportunity, and then select **Save**.
 
