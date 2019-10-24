@@ -30,7 +30,7 @@ To upgrade the solution:
 
    ![Manage solutions](media/manage-solutions.PNG "Manage solutions")
 
-3. Select [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] in the list of solutions, and then select **Upgrade**.
+3. Select **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** in the list of solutions, and then select **Upgrade**.
  
    ![Upgrade button](media/upgrade.PNG "Upgrade button")   
   
