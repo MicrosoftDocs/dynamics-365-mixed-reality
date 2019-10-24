@@ -136,32 +136,22 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 > [!NOTE]
 > It can take up to one hour for a user to appear in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center. 
 
-1.	After the solution has finished installing, go to the Dynamics 365 Administration Center, select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open**.
+1. After the solution has finished installing, go to the Power Platform admin center. 
 
-2. On the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** page, select **Settings**, and then select **Advanced Settings**.
+2. On the **Environments** page, select the check mark next to the environment you created, and then select **Settings** at the top of the screen. 
+
+3. On the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** page, under **Users + permissions**, select **Users**.
 
     ![Dynamics 365 Advanced Settings](media/roles-advanced-settings.PNG "Dynamics 365 Advanced Settings")
     
     > [!IMPORTANT]
     > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the Guides Hub tile in the preceding screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
  
-3.	 In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] > Business Management** screen, select the **Settings** drop-down list.
-    
-     ![Business Management screen2](media/business-management.PNG "Business Management screen")
+4.	On the **Enabled Users**page, select the user, and then select **Manage** roles at the top of the screen. 
 
-4.  On the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Settings** > **Administration** page, under **System**, select **Security**. 
-
-    ![Dynamics 365 Security setting](media/security-setting.PNG "Dynamics 365 Security setting")
+    SCREEN SHOT GOES HERE: manage-roles-command
  
-5.	On the **Security** page, select **Users**.
-
-    ![Dynamics 365 Users setting](media/select-users.PNG "Dynamics 365 Users setting")
- 
-6.	Select the user, and then select **Manage** roles. 
-
-    ![Manage Roles command](media/manage-roles-command.PNG "Manage Roles command")
- 
-7.	In the **Manage User Roles** dialog box, select the following roles: 
+5.	In the **Manage User Roles** dialog box, select the following roles: 
 
     - Common Data Service User
     
