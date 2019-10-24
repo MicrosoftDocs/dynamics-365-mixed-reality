@@ -389,7 +389,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 4. Once the web app has loaded, you should see an option to join or create a team. Select **Create Team**.
 
-5. build a team from scratch or create from an existing team, select **Build a team from scratch**.
+5. When you see the option to build a team from scratch or create from an existing team, select **Build a team from scratch**.
 
 6. Make the group **Org-Wide**.
 
