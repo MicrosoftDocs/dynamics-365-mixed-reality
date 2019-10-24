@@ -13,17 +13,20 @@ ms.reviewer: v-brycho
 
 This topic is for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] administrators. Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. When an update is required, the user will see a notification in the **What's new** panel.
 
-> [!IMPORTANT]
-> If you're currently using the public preview version of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], to get the October 2019 release, you'll need to search for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, and then select **Install** instead of **Upgrade**. This installs the GA version of the solution and removes the public preview solution. For more information, see [Transition from public preview to GA](public-preview-transition.md).
+Keep the following in mind:
+
+- Before updating the solution in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center, make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps have been updated to the latest version from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store.
+
+- Updates to the solution must be done when the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps are not in use.  
 
 > [!IMPORTANT]
-> Keep the following in mind:<br><br>- Before updating the solution in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center, make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps have been updated to the latest version from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store.<br><br>- Updates to the solution must be done when the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps are not in use.  
+> If you're currently using the public preview version of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], to get the October 2019 release, you'll need to search for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, and then select **Install** instead of **Upgrade**. This installs the GA version of the solution and removes the public preview solution. For more information, see [Transition from public preview to GA](public-preview-transition.md).
 
 To upgrade the solution:
 
 1. Go to the [Power Platform Center](https://admin.powerplatform.microsoft.com/environments) and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
 
-2. Select the environment by tapping the check mark, select the three dots, and then select **Manage solutions**. 
+2. To select the environment, select the check box, select the three dots button, and then select **Manage solutions**. 
 
    ![Manage solutions](media/manage-solutions.PNG "Manage solutions")
 
