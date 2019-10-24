@@ -66,7 +66,7 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 
     ![Power Platform Environments](media/powerapps-environments.PNG "Power Platform Environments")
     
-3.	Select the **More information** button (...) next to the default instance, and then select **Manage environment**.
+3.	Select the **More environment actions** button (...) next to the default instance, and then select **Manage environment**.
 
     ![Manage Environment](media/powerapps-manage-environment.PNG "Manage Environment")
     
