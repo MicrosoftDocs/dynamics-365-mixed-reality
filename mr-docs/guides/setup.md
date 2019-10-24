@@ -87,7 +87,7 @@ The following screen appears while the database is being created and provisioned
    > [!NOTE]
    > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
 
-7.	After the database has been successfully created, return to the Main Environments screen.
+7.	After the database has been successfully created, return to the **Environments** page.
 
 ### Change maximum upload file size<a name="upload"></a>
 
@@ -105,7 +105,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     ![File size](media/edit-file-size.png "File size")
 
-4. Go back to the **Environments** screen to prepare for the next step. 
+4. Go back to the **Environments** page to prepare for the next step. 
 
 ### Install and configure the Dynamics 365 Guides solution<a name="configure"></a>
 
