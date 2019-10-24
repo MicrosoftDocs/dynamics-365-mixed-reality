@@ -111,20 +111,20 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 1. In the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select the **More environment actions** (three dots) button next to the configured environment, and then select **Manage Solutions**.
 
-    ![Manage solutions](media/manage-solutions.png "Manage solutions")
+    ![Manage solutions](media/manage-solutions.PNG "Manage solutions")
      
     >[!NOTE]
     > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the PowerApps portal.
     
 2. Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the list, and then select **Install**.
 
-    ![Install button](media/solutions-button-install.png "Install button")
+    ![Install button](media/solutions-install-button.png "Install button")
     
 3. In the **Terms of Service** dialog box, review the terms, and then select **Install** when you're ready.
 
     In the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
     
-     ![Installing message](media/solution-installing-message.png "Installing message")
+     ![Installing message](media/solution-installing-message.PNG "Installing message")
      
     The **Status** field to the left of the yellow message will say **Installation pending** while the solution is being installed. When the solution has finished installing, the **Status** field changes to **Installed**.
     
