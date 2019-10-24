@@ -95,7 +95,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 1. On the Power Platform Admin Center Environments page, select the check box next to your newly created environment, and then select **Settings** from the top bar. 
 
-    ![Select environment and Settings](media/admin-center-settings.PNG "Select environment and settings")
+    ![Select environment and Settings](media/admin-center-settings.png "Select environment and settings")
    
 2. Under **Email**, select **Email settings**. 
 
