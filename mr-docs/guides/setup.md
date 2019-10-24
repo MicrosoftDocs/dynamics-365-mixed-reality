@@ -138,7 +138,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 1. After the solution has finished installing, go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/). 
 
-2. On the **Environments** page, select the check mark next to the environment you created, and then select **Settings** at the top of the screen. 
+2. On the **Environments** page, select the environment you created, and then select the **Settings** button in the title bar. 
 
 3. On the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** page, under **Users + permissions**, select **Users**.
 
