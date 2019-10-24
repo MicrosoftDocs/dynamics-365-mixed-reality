@@ -136,7 +136,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 > [!NOTE]
 > It can take up to one hour for a user to appear in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center. 
 
-1. After the solution has finished installing, go to the Power Platform admin center. 
+1. After the solution has finished installing, go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/). 
 
 2. On the **Environments** page, select the check mark next to the environment you created, and then select **Settings** at the top of the screen. 
 
@@ -147,7 +147,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     > [!IMPORTANT]
     > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the Guides Hub tile in the preceding screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
  
-4.	On the **Enabled Users**page, select the user, and then select **Manage** roles at the top of the screen. 
+4.	On the **Enabled Users**page, select the user, and then select **Manage roles** at the top of the screen. 
 
     SCREEN SHOT GOES HERE: manage-roles-command
  
@@ -202,7 +202,7 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 > [!NOTE] 
 > For instructions on opening and signing in to the app, if you're an author, see the [HoloLens authoring topic](hololens-authoring.md). Operators can use the [Dynamics 365 Guides Operator's manual](operator-guide.md).
 
-### Distribute the apps through the Microsoft Store for Business
+### Distribute the apps through Microsoft Store for Business
 
 1.	Go to [Microsoft Store for Business](https://businessstore.microsoft.com/store).
 
@@ -226,7 +226,7 @@ For information on opening and signing in to the [!include[pn-hololens](../inclu
 
 ## Step 4: Set up Guides Analytics reports 
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes [!include[pn-power-bi](../includes/pn-power-bi.md)] reports (called Guides Analytics) that you can use to analyze guides processes. Follow the instructions for how to [Open Guides Analytics](https://docs.microsoft.com/dynamics365/mixed-reality/guides/analytics-guide#open-guides-analytics) using the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/).
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes [!include[pn-power-bi](../includes/pn-power-bi.md)] reports (called Guides Analytics) that you can use to analyze [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] processes. Follow the instructions for how to [Open Guides Analytics](https://docs.microsoft.com/dynamics365/mixed-reality/guides/analytics-guide#open-guides-analytics) using the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/).
 
 If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, you can share your Guides Analytics [!include[pn-power-bi](../includes/pn-power-bi.md)] reports within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the report through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com). To learn about [!include[pn-power-bi](../includes/pn-power-bi.md)] cloud collaboration and sharing and to sign up for a free trial of [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro, visit [Getting Started with Power BI Desktop](https://powerbi.microsoft.com/get-started/) and [Ways to share your work in Power BI](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports).
 
@@ -236,9 +236,9 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
 ### Add a user account
 
-1.	Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
+1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
 
-2.	Select user accounts.
+2. Select user accounts.
 
 3. Assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them. 
 
