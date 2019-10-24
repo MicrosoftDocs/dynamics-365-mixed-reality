@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Everything you need to know about buying Dynamics 365 Guides, configuring the solution, and installing the apps.
 ms.author: mamaylya
-ms.date: 10/07/2019
+ms.date: 10/29/2019
 ms.service: crm-online
 ms.topic: article
 title: Buy and deploy Dynamics 365 Guides
@@ -48,7 +48,7 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
     ![Users > Active Users screen](media/users-active-users.png "Users > Active Users screen")
     
-3.  Select **Manage product licenses** from the top bar.
+3.  Select **Manage product licenses**.
 
      ![Manage product licenses](media/manage-product-licenses.png "Manage product licenses")
 
