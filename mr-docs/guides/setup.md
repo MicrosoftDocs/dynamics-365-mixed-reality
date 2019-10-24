@@ -58,9 +58,9 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
  
 ## Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
 
-After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you’ll need to create a database on a default environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Install and configure the Dynamics 365 Guides solution](#configure).
+After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you’ll need to create a database on a default environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Change maxiumum upload size](#upload).
     
-1.  Go to the [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/environments) and sign in with the admin user credentials (the one where the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] licenses are assigned).
+1.  Go to the [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/environments) and sign in with the admin user credentials (where the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] licenses are assigned).
 
 2.	In the Power Platform Admin Center, select **Environments**.
 
@@ -87,68 +87,47 @@ The following screen appears while the database is being created and provisioned
    > [!NOTE]
    > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
 
-7.	After the database is created, a link to the Dynamics 365 Administration Center appears. Select this link, and then sign in again with the credentials you used in previous steps. You might need to close your browser before signing in. 
+7.	After the database has been successfully created, return to the Main Environments screen.
 
-    ![Admin Center link](media/admin-center-link.PNG "Admin Center link")
+### Change maximum upload file size<a name="upload"></a>
 
-The Dynamics Admin Center appears. This is where you can install the solution and make other configurations.
+In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB).
+
+1. On the Power Platform Admin Center Environments page, select the check box next to your newly created environment, and then select **Settings** from the top bar. 
+
+    SCREEN SHOT GOES HERE: admin-center-settings 
+  
+2. Under **Email**, select **Email settings**. 
+
+    SCREEN SHOTE GOES HERE: email-settings
+
+3. Scroll down to the bottom of the page, and then under **Attachments**, set the **Maximum file size for attachments** field to 131072. Select **Save** when you’re done.
+
+   SCREEN SHOT GOES HERE: edit-file-size
+
+4. Return to the Main Environments screen to prepare for the next step. 
 
 ### Install and configure the Dynamics 365 Guides solution<a name="configure"></a>
 
-In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB). 
+1. In the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select the **More environment actions** (three dots) button next to the configured environment, and then select **Manage Solutions**.
 
-1.	Go to the Dynamics 365 Administration Center and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
-
-    > [!NOTE]
-    > To go to the Dynamics 365 Administration Center, go to the [PowerApps Admin center](https://admin.powerapps.com/environments), select the configured environment, and then select the link for **Dynamics 365 Administration center** as shown below:
-   
-    ![Open Dynamics 365 Admin center](media/open-D365-admin-center.PNG "Open Dynamics 365 Admin center")
+    SCREEN SHOT GOES HERE: open-dynamics-365-admin-center
     
-2.	Select the newly created [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] instance from the list of instances, and then select **Open** as shown here: 
-    
-    ![Admin Center with Open button selected](media/admin-center-open-button.PNG "Admin Center with Open button selected")
-    
-    This opens the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** screen.
-    
-3.  In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** screen, select **Settings**, and then select **Advanced Settings**. 
-
-    ![Advanced Settings](media/advanced-settings.PNG "Advanced Settings")
-    
-4.  In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Business Management** screen, select the **Settings** drop-down list.
-
-     ![Business Management screen2](media/business-management.PNG "Business Management screen")
-    
-5.  Under **System**, select **Administration**.
-
-    ![Administration button in Dynamics 365](media/administration-button.PNG "Administration button in Dynamics 365")
- 
-6.	In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Settings > Administration** page, select **System Settings**.
-
-    ![System settings in Dynamics 365](media/system-settings.PNG "System settings in Dynamics 365")
-  
-7.	In the **System Settings** dialog box, select the **Email** tab, scroll down to the bottom of the dialog box, and then in the **Set file size limits for attachments** field, enter **131072**. Select **OK** when you’re done.
-
-    ![System settings dialog box](media/system-settings-dialog-box.PNG "System settings dialog box")
- 
-8.	Go back to the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select the three dots next to the configured environment, and then select **Manage Solutions**.
-
-    ![Power Platform Admin center](media/power-platform-manage-solutions.PNG "Power Platform Admin center")
- 
-    > [!NOTE]
+    >[!NOTE]
     > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the PowerApps portal.
     
-8.	Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the list, and then select **Install**. 
+2. Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the list, and then select **Install**.
 
-    ![Solutions Install button](media/install-ga-version.PNG "Solutions Install button")
+    SCREEN SHOT GOES HERE: solutions-button-install
     
-9. In the **Terms of Service** dialog box, review the terms, and then select **install** when you're ready.
+3. In the **Terms of Service** dialog box, review the terms, and then select **Install** when you're ready.
 
-   In the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center** screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
-
-   ![Solution installing message](media/installing-solution.PNG "Solution installing message")
-   
-   The **Status** field to the left of the yellow message will say **Installation pending** while the solution is being installed. When the solution has finished installing, the **Status** field changes to **Installed**.
- 
+    In the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
+    
+    SCREEN SHOT GOES HERE: solution-installing-message
+    
+    The **Status** field to the left of the yellow message will say **Installation pending** while the solution is being installed. When the solution has finished installing, the **Status** field changes to **Installed**.
+    
     > [!NOTE]
     > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing your screen. If the installation fails, you'll see this message:<br>![Failed installation](media/failed-install.PNG "Failed installation")
 
