@@ -36,19 +36,21 @@ There are multiple ways to get a [!include[pn-dyn-365-guides](../includes/pn-dyn
 - Go to [the Getting started page](http://aka.ms/GetGuides). You can use this page to buy a subscription or to sign up for a free 30-day trial subscription. If you sign up for a trial, you can use credentials for an existing Dynamics 365 account or you can create new credentials. 
 
     > [!IMPORTANT] 
-    > If you don't have administrator permissions associated with your work account, you won't be able to complete Step 2 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] by following the steps on the Getting started page. In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*.
+    > If you don't have administrator permissions associated with your work account, you won't be able to complete Step 2 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] by following the steps on [the Getting started page](http://aka.ms/GetGuides). In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*.
     
 After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to user accounts. To do this:
 
-1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
+1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home) and make sure that the slider for **The new admin center** option in the top right of the page is set to **on**.
 
-2.  Make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license is assigned to a user. To do that, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
+    ![The new admin center slider](media/new-admin-center-slider.PNG "The new admin center slider")
+
+2.  Make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license is assigned to a user. To do this, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
     ![Users > Active Users screen](media/users-active-users.PNG "Users > Active Users screen")
     
-3.  In the **Guides Account** screen, select the **Edit** button next to **Product licenses**.
+3.  Select **Manage product licenses** from the top bar.
 
-     ![Edit PowerApps plan](media/edit-powerapps-plan.PNG "Edit PowerApps plan")
+     ![Manage product licenses](media/manage-product-licenses.PNG "Manage product licenses")
 
 4.  In the **Product licenses** screen, turn the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** slider to **On**, and then select **Save**.
   
