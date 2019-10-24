@@ -25,7 +25,7 @@ To upgrade the solution:
 
 2. Select the environment by tapping the check mark, select the three dots, and then select **Manage solutions**. 
 
-   ![Manage solutions](media/manage-solutions.PNG "Manage solutions")
+   ![Manage solutions](media/manage-solutions.png "Manage solutions")
 
 3. Select [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] in the list of solutions, and then select **Upgrade**.
  
