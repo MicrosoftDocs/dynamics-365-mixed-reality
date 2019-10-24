@@ -42,19 +42,19 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
 1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home) and make sure that the slider for **The new admin center** option in the top right of the page is set to **on**.
 
-    ![The new admin center slider](media/new-admin-center-slider.PNG "The new admin center slider")
+    ![The new admin center slider](media/new-admin-center-slider.png "The new admin center slider")
 
 2.  Make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license is assigned to a user. To do this, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
-    ![Users > Active Users screen](media/users-active-users.PNG "Users > Active Users screen")
+    ![Users > Active Users screen](media/users-active-users.png "Users > Active Users screen")
     
 3.  Select **Manage product licenses** from the top bar.
 
-     ![Manage product licenses](media/manage-product-licenses.PNG "Manage product licenses")
+     ![Manage product licenses](media/manage-product-licenses.png "Manage product licenses")
 
 4.  In the **Product licenses** screen, turn the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** slider to **On**, and then select **Save**.
   
-    ![Add user license](media/guides-license.PNG "Add user license") 
+    ![Add user license](media/guides-license.png "Add user license") 
  
 ## Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
 
@@ -95,37 +95,37 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 1. On the Power Platform Admin Center Environments page, select the check box next to your newly created environment, and then select **Settings** from the top bar. 
 
-    SCREEN SHOT GOES HERE: admin-center-settings 
-  
+    ![Select environment and Settings](media/admin-center-settings.PNG "Select environment and settings")
+   
 2. Under **Email**, select **Email settings**. 
 
-    SCREEN SHOTE GOES HERE: email-settings
+    ![Email settings](media/email-settings.png "Email settings")
 
 3. Scroll down to the bottom of the page, and then under **Attachments**, set the **Maximum file size for attachments** field to 131072. Select **Save** when you’re done.
 
-   SCREEN SHOT GOES HERE: edit-file-size
+    ![File size](media/edit-file-size.png "File size")
 
-4. Return to the Main Environments screen to prepare for the next step. 
+4. Go back to the **Environments** screen to prepare for the next step. 
 
 ### Install and configure the Dynamics 365 Guides solution<a name="configure"></a>
 
 1. In the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select the **More environment actions** (three dots) button next to the configured environment, and then select **Manage Solutions**.
 
-    SCREEN SHOT GOES HERE: open-dynamics-365-admin-center
-    
+    ![Manage solutions](media/manage-solutions.png "Manage solutions")
+     
     >[!NOTE]
     > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the PowerApps portal.
     
 2. Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the list, and then select **Install**.
 
-    SCREEN SHOT GOES HERE: solutions-button-install
+    ![Install button](media/solutions-button-install.png "Install button")
     
 3. In the **Terms of Service** dialog box, review the terms, and then select **Install** when you're ready.
 
     In the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
     
-    SCREEN SHOT GOES HERE: solution-installing-message
-    
+     ![Installing message](media/solution-installing-message.png "Installing message")
+     
     The **Status** field to the left of the yellow message will say **Installation pending** while the solution is being installed. When the solution has finished installing, the **Status** field changes to **Installed**.
     
     > [!NOTE]
@@ -149,7 +149,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
  
 4.	On the **Enabled Users**page, select the user, and then select **Manage roles** at the top of the screen. 
 
-    SCREEN SHOT GOES HERE: manage-roles-command
+    ![Manage roles](media/manage-roles.PNG "Manage roles")
  
 5.	In the **Manage User Roles** dialog box, select the following roles: 
 
