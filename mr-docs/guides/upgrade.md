@@ -15,7 +15,7 @@ This topic is for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!includ
 
 Keep the following in mind:
 
-- Before updating the solution in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center, make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps have been updated to the latest version from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store.
+- Before updating the solution in the Power Platform Center, make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps have been updated to the latest version from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store.
 
 - Updates to the solution must be done when the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps are not in use.  
 
