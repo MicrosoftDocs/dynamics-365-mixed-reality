@@ -140,7 +140,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 2. On the **Environments** page, select the environment you created, and then select the **Settings** button in the title bar. 
 
-3. On the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** page, under **Users + permissions**, select **Users**.
+3. In the **Settings** page, under **Users + permissions**, select **Users**.
 
     ![Users and permissions](media/settings-page.png "Users and permissions")
     
