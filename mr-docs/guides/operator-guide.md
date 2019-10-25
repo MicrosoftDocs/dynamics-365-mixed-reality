@@ -199,7 +199,7 @@ Here’s a description of the buttons and other UI elements in the Step card:
 |B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor button|Re-anchor (realign) the guide. [!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to re-anchor the guide by gazing at a printed anchor or digital anchor again. For more information, see “Anchor your guide” earlier in this topic.|
 |C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your [!include[pn-hololens](../includes/pn-hololens.md)] device correctly. Fit is very important. Otherwise holograms might be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] properly.<br></br>- **Build number.** Shows the build of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you’re using.| 
 |D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
-|E|![Pin button](media/pin-button.PNG "Pin button")|Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around. You can pin or unpin it any time you want.|
+|E|![Follow mode button](media/follow-button.png "Follow mode button")|Follow mode|Have the Step card follow you around or lock it to a location. If you turn off Follow mode, the Step card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like.|
 |F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
 |G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for the Pylon wiring guide:</br><br>![HoloLens Outline page](media/outline.jpg "HoloLens Outline page")| 
 |H|![Task progress](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
@@ -221,11 +221,11 @@ Note that the dotted line might go through real-world objects at times.
 
 You’ll notice that wherever you look, the Step card follows your gaze. As you’re working, you never have to worry about where your instructions are. You can stop the Step card from following you by turning the Follow behavior off from the navigation bar. 
 
-![Turn off Follow behavior](media/turn-off-follow.PNG "Turn off Follow behavior")
+![Turn off Follow behavior](media/follow-button-nav-bar.PNG "Turn off Follow behavior")
 
 You can grab the navigation bar at any time to place the card where you like.
 
-![Grab navigation bar](media/grab-navigation-bar.PNG "Grab navigation bar")
+![Grab navigation bar](media/follow-button-move-card.PNG "Grab navigation bar")
 
 ## Turn off holograms 
 You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the dotted line. 
