@@ -102,6 +102,7 @@ If you used [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
+[Overview of self-serve tutorials](tutorials-overview.md)<br>
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
     
 
