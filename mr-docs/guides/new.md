@@ -21,7 +21,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports STL and PLY formats for 3D models.
 
-#### Other updates
+#### Other updates on October 29
 
 - We removed different sizes for the same model in the 3D toolkit. Since authors can now resize models, the different sizes are not needed anymore.
 
