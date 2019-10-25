@@ -221,11 +221,11 @@ Note that the dotted line might go through real-world objects at times.
 
 You’ll notice that wherever you look, the Step card follows your gaze. As you’re working, you never have to worry about where your instructions are. You can stop the Step card from following you by turning the Follow behavior off from the navigation bar. 
 
-![Pin button on HoloLens screen](media/pin.jpg "Pin button on HoloLens screen")
+![Turn off Follow behavior](media/turn-off-follow.PNG "Turn off Follow behavior")
 
 You can grab the navigation bar at any time to place the card where you like.
 
-
+![Grab navigation bar](media/grab-navigation-bar.PNG "Grab navigation bar")
 
 ## Turn off holograms 
 You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the dotted line. 
