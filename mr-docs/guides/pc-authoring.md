@@ -266,7 +266,7 @@ To turn telemetry data off for the PC application:
 
 2. In the **About** dialog box, turn the **Send usage data** slider to off.
 
-    ![Send usage data setting](media/send-usage-data-setting-pc.PNG "Send usage data setting")
+    ![Send usage data setting](media/send-usage-data-pc.PNG "Send usage data setting")
     
 > [!NOTE]
 > - To turn this setting off for HoloLens, see [Author a guide on HoloLens](hololens-authoring.md).<br>- Database administrators can also prevent usage data from showing in Power BI dashboards for Guides Analytics. For more information, see [Opting out of storing Dynamics 365 Guides events data in Common Data Service](data-opt-out.md).
