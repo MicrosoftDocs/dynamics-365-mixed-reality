@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Everything you need to know about using a guide created with Dynamics 365 Guides, including calibration, gaze and gestures, and installing and using the HoloLens app.
 ms.author: mamaylya
-ms.date: 10/01/2019
+ms.date: 10/29/2019
 ms.service: crm-online
 ms.topic: article
 title: Operator's manual for Dynamics 365 Guides
@@ -183,14 +183,13 @@ When you align your guide, if you’re using the [!include[cc-microsoft](../incl
  
 ## Get oriented with the Step card 
 
-When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card “tags along” with you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
+When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card follows you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
 
 ![Step card with Next Step and Go Back buttons](media/step-card-basic-1.jpg "Step card with Next Step and Go Back buttons")  
 
 In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
 
-![Step card buttons](media/step-card-orientation-2.jpg "Step card buttons")
-   
+![Step card buttons](media/step-card-orientation-2.jpg "Step card buttons")   
 
 Here’s a description of the buttons and other UI elements in the Step card:
 
@@ -218,11 +217,15 @@ Step cards are linked by holographic dotted lines to physical areas in your work
 - If the dotted line points behind you, step to the side, and then continue to follow the dotted line. 
 Note that the dotted line might go through real-world objects at times. 
 
-## Tag along and pinning 
+## Follow and pinning 
 
-You’ll notice that wherever you look, the Step card follows your gaze—it “tags along.” As you’re working, you never have to worry about where your instructions are. You can pin the Step card, however, if you want to turn off the tag-along feature. To pin the Step card, select **Pin**. Once it’s pinned, you can grab it and move it wherever you like. 
+You’ll notice that wherever you look, the Step card follows your gaze. As you’re working, you never have to worry about where your instructions are. You can stop the Step card from following you by turning the Follow behavior off from the navigation bar. 
 
 ![Pin button on HoloLens screen](media/pin.jpg "Pin button on HoloLens screen")
+
+You can grab the navigation bar at any time to place the card where you like.
+
+
 
 ## Turn off holograms 
 You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the dotted line. 
