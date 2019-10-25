@@ -219,9 +219,9 @@ Note that the dotted line might go through real-world objects at times.
 
 ## Follow and pinning 
 
-You’ll notice that wherever you look, the Step card follows your gaze. As you’re working, you never have to worry about where your instructions are. You can stop the Step card from following you by turning the Follow behavior off from the navigation bar. 
+You’ll notice that wherever you look, the Step card follows your gaze. As you’re working, you never have to worry about where your instructions are. You can stop the Step card from following you by turning the Follow mode behavior off from the navigation bar. 
 
-![Turn off Follow behavior](media/follow-button-nav-bar.PNG "Turn off Follow behavior")
+![Turn off Follow mode behavior](media/follow-button-nav-bar.PNG "Turn off Follow mode behavior")
 
 You can grab the navigation bar at any time to place the card where you like.
 
