@@ -35,14 +35,8 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
     After you find a suitable surface, you’ll see the model-loading indicator:
     
     ![Model-loading screen](media/model-loading.PNG "Model-loading screen")
- 
-    When the model loads, it appears in the default size. You can view the model in this size or at life-size scale. 
-
-5.	If you want to change the size of the model to life size before you place it, select  **Life-size** (right button at the bottom of the screen). 
-
-    ![Compare sizes](media/compare-sizes.PNG "Compare sizes")
   
-6.  To place the model, select **Place** on the right side of the screen.
+5.  To place the model, select **Place** on the right side of the screen.
 
     ![Place model item](media/place-model.PNG "Place model item")
 
@@ -58,7 +52,7 @@ After placing a model, if you want to view a different model, you can switch mod
 
     ![Models screen](media/3D-models.PNG "Models screen")
  
-3.	Switch between the default size or life size as needed (you can’t change the scale until the model is loaded), and then place the model as described in the previous procedure.  
+3.	Place the model as described in the previous procedure.  
 
 ## Move, rotate, or change the size of your model
 
@@ -68,8 +62,7 @@ Chances are, you’ll want to move, rotate, or change the size of your model in 
 
 ### Change the size of your model
 
-Spread or pinch two fingers on the screen to change the size of the model. You can also double-tap to switch between the default size and life size.
-When you change the size of your model, you can switch between the default size and life size. 
+Spread or pinch two fingers on the screen to change the size of the model. 
 
 ![Resize item](media/resize.PNG "Resize item")
 
