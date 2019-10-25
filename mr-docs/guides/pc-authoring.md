@@ -256,6 +256,21 @@ Don’t worry if your guide isn’t perfect before switching to [!include[pn-hol
 > [!TIP]
 > If you’re creating multiple versions of the same guide, you might want to use the **Save a Copy** command on the **File** menu. This is great for guides that are similar but have a few different steps. You don’t have to start from scratch!
 
+## Opt out of sending telemetry data to Microsoft
+
+For privacy reasons, you can turn off the ability to send telemetry data to Microsoft. Microsoft uses this data to improve the product. Opting out prevents Microsoft from collecting any activity data.
+
+To turn telemetry data off for the PC application:
+
+1.  On the **File** menu, select **About**.
+
+2. In the **About** dialog box, turn the **Send usage data** slider to off.
+
+    ![Send usage data setting](media/send-usage-data-setting-pc.PNG "Send usage data setting")
+    
+> [!NOTE]
+> - To turn this setting off for HoloLens, see [Author a guide on HoloLens](hololens-authoring.md).<br>- Database administrators can also prevent usage data from showing in Power BI dashboards for Guides Analytics. For more information, see [Opting out of storing Dynamics 365 Guides events data in Common Data Service](data-opt-out.md).
+
 ### See also
 
 [Overview of authoring a guide](authoring-overview.md)<br>
