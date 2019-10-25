@@ -372,7 +372,7 @@ To turn telemetry data off for HoloLens:
 
 - In **Settings**, turn the **Send Usage Data** slider to off.
 
-    ![Send Usage Data setting](media/send-usage-data-setting.PNG "Send Usage Data setting")
+    ![Send Usage Data setting](media/send-usage-data.PNG "Send Usage Data setting")
     
 > [!NOTE]
 > This option only applies to the device on which it's set. If you use Dynamics 365 Guides on more than one device, you need to modify the setting on those other devices. To turn this setting off for the PC application, see [Author a guide in the PC application](pc-authoring.md). 
