@@ -108,10 +108,10 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
 
 9.	In the **Select Mode** dialog box, gaze at the box to the left of **Author** to select it. 
 
-    ![Select Author mode](media/select-mode.PNG "Select Author mode")
+    ![Select Author mode](media/select-mode.png "Select Author mode")
     
 > [!TIP]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide](media/example-guide-hololens.PNG "Example Guide")
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide](media/example-guide-hololens.png "Example Guide")
 
 ## Anchor your guide
 The first thing you see when you open a guide is the anchoring instructions from the PC authoring application. 
@@ -122,7 +122,7 @@ The first thing you see when you open a guide is the anchoring instructions from
 
 2. In the **Scan printed anchor** screen, select **Initiate Scan**.
 
-   ![HoloLens alignment instructions](media/scan-printed-anchor.PNG "HoloLens alignment instructions")
+   ![HoloLens alignment instructions](media/scan-printed-anchor.png "HoloLens alignment instructions")
 
    On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see an anchor hologram that looks like this:
 
@@ -134,7 +134,7 @@ The first thing you see when you open a guide is the anchoring instructions from
 
    When the guide is correctly aligned, you'll see the **Printed anchor found** screen. 
    
-   ![Marker found holograph](media/printed-anchor-found.PNG "Marker found holograph")
+   ![Marker found holograph](media/printed-anchor-found.png "Marker found holograph")
    
 ### To anchor a guide using a digital anchor
 
@@ -158,7 +158,7 @@ Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows
 
 At the top of the Step card screen, you’ll see three buttons: **Save**, **Undo**, and **Redo**.
 
-![HoloLens step card screen](media/save-undo-redo.PNG "HoloLens step card screen")
+![HoloLens step card screen](media/save-undo-redo.png "HoloLens step card screen")
  
 The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. You can undo 100 changes or redo 100 changes.  
 
@@ -190,7 +190,7 @@ Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], w
 
 You can add dotted lines (*tethers*) to link your Step cards to the areas where the work gets done. These dotted lines show the operator where to focus. 
 
-![Holographic dotted lines](media/tether-example.PNG "Holographic dotted lines")
+![Holographic dotted lines](media/tether-example.png "Holographic dotted lines")
 
 To place a dotted line:
 
@@ -212,7 +212,7 @@ You don’t need to do anything to place an image or a video associated with a s
 
 The 3D assets associated with each step appear below the Step card in *the bin*:
 
-![3D assets below Step card](media/step-card-bin.PNG "3D assets below Step card")
+![3D assets below Step card](media/step-card-bin.png "3D assets below Step card")
 
 ### Place a 3D part 
 
@@ -228,7 +228,7 @@ You can place a 3D model from the 3D toolkit in the same way you place a 3D part
 
 2.	Air tap a category (an arrow or hand, for example), and then air tap the specific 3D model you want to add.
 
-    ![Air tap a category](media/step-card-hands.PNG "Airtap a category")
+    ![Air tap a category](media/step-card-hands.png "Airtap a category")
 
     The item will be added to your bin and you can then place it as you would a 3D part.
 
