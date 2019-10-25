@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 10/07/2019
+ms.date: 10/29/2019
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -11,7 +11,21 @@ ms.reviewer: v-brycho
 
 ## What's new in Dynamics 365 Guides
 
-This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date.  
+This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. 
+
+### October, 29, 2019
+
+- You can now import models with node-based animations and use them in work instructions.
+
+- Authors can turn animations on or off for 3D models.
+
+- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports STL and PLY formats for 3D models.
+
+#### Other updates
+
+- We removed different sizes for the same model in the 3D toolkit. Since authors can now resize models, the different sizes are not needed anymore.
+
+- We updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holograpic OS (Shell) behavior where the Step card follows you when the option is turned on.
 
 ### October 1, 2019
 
