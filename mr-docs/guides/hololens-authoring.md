@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Test and place holograms using the Dynamics 365 Guides HoloLens application in Author mode 
 ms.author: mamaylya
-ms.date: 10/15/2019
+ms.date: 10/29/2019
 ms.service: crm-online
 ms.topic: article
 title: Author in the HoloLens application 
@@ -297,6 +297,12 @@ Up/down rotation
 - Use 3D content sparingly and with a clear goal. Too much content can clutter the instructions and make it harder to follow.
 
 - Remember that you can attach a tether to 3D content to make it more discoverable. See the next section to learn about tethers.
+
+## Turn off animations
+
+If you're using animated 3D models in your guide, you can turn animation off if you plan to show it with animation in one step and without animation in another. This option is available from the **Edit** menu when you select the model.
+
+You can also use this option when placing animated models in space. Turn animation off, place the model, and then turn animation back on. This way the animation won't interfere with your ability to place it.
 
 ## Add styles for emphasis
 Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
