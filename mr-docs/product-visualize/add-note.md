@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 
 You can capture notes on specific points on a 3D model in Microsoft Dynamics 365 Product Visualize, and even add text or ink to the notes. For example, when you’re in the field with a customer, capture any required product changes directly on the model. 
 
-To add a note, you tap the location of the model where you want to add the note, and then take a picture of the model or upload a picture from your photo library to set the context. Then you can draw (ink) on the image or add comments. Notes you create are saved in a folder in the root product folder (not the folder for a particular product). The notes are organized by Opportunity ID, Product ID, and model name.
+To add a note, you tap the location of the model where you want to add the note, and then take a picture of the model or upload a picture from your photo library to set the context. Then you can draw (ink) on the image or add comments. Notes you create are saved in the Microsoft Common Data Service.
 
 To review notes you have made on your model, you can tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. You can also browse through your notes by swiping the notes cards at the bottom of the screen. The corresponding spatial anchor activates on the model as you swipe. 
 
@@ -45,14 +45,18 @@ To review notes you have made on your model, you can tap any spatial anchor on t
    
 5.	In the **Create Note** screen:
 
-    - To ink on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
+    a. Do the following: 
     
-    - To add text, tap the box at the bottom of the screen, and then enter the text you want.
+      - To ink on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
-       ![Add text](media/add-text.PNG "Add text")
+      - To add text, tap the box at the bottom of the screen, and then enter the text you want.
+    
+      ![Add text](media/add-text.PNG "Add text")
+      
+    b. Select **Submit** to add your note.
  
-       > [!NOTE]
-       > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered is retained, but inking is lost.    
+      > [!NOTE]
+      > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered is retained, but inking is lost.    
 
 ## View the notes attached to a model
 
@@ -83,7 +87,7 @@ By default, your notes are saved to the SharePoint account associated with your 
 
 To turn off sharing with the Dynamics 365 Sales timeline or Microsoft Teams channels:
 
-1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select **Edit** next to the organization you're signed in to.
+1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the organization you're signed in to.
 
    ![Edit account settings](media/edit-account-settings.PNG "Edit account settings")
 
