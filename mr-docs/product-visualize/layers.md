@@ -25,7 +25,7 @@ In Dynamics 365 Product Visualize, you use the Layers tool to show or hide layer
 
 When you select the **Layers** tool, you'll see a list of all the layers in the model.  
 
-![Unselected](media/unselected.JPG "Unselected") ![Selected](media/selected.JPG "Selected")
+![Multiple layers](media/multiple-layers.JPG "Multiple layers") ![Selected](media/selected.JPG "Selected")
 
 A single layer can also act as a folder that includes other layers.
 
@@ -43,11 +43,12 @@ You can expand or collapse the folder by selecting the [+] or [-] button. By def
 
 2. Tap the check box for the layer you want to show or hide. 
 
-   ![Layer Selected](media/selected.JPG "Select layers")
+   ![Tap check box](media/tap-check-box.PNG "Tap check box")
 
-3. Tap the **Show** or **Hide** button.
+   > [!TIP]
+   > To select all your unselected layers or vice versa, tap **Invert**.
 
-   ![Hide Layers](media/hide-layer.JPG "Hide layer")
+   ![Invert selected layers](media/invert.PNG "Invert selected layers")
 
 ## Show or hide all layers 
 
@@ -55,17 +56,9 @@ You can expand or collapse the folder by selecting the [+] or [-] button. By def
 
    ![Enter Layers Tool](media/layers-tool.JPG "Enter layers")
 
-2. Tap the check box in the toolbar above the other check boxes to select all layers for the model. 
+2. Tap the check box in the toolbar above the other check boxes to select or clear all layers for the model. 
 
-   ![All Layers Selection](media/layer-select-all.JPG "Select all layers")
-
-3. Do one of the following: 
-
-   - To show all layers, tap **Show**.
-
-   - To hide all layers, tap **Hide**. 
-
-   ![Layer Toggle](media/layer-toggle.JPG "Toggle layers")
+   ![Select or clear all](media/select-clear-all.PNG "Select or clear all")
 
 ### See also
 
