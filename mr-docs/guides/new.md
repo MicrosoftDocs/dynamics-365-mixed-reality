@@ -15,17 +15,19 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ### October, 29, 2019
 
+The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on October 29 brings highly requested features for content creators. To get this update, please upgrade to app version 301.1910.24001 and solution version 300.0.1.115.
+
 - You can now import models with node-based animations and use them in work instructions.
 
 - Authors can turn animations on or off for 3D models.
 
 - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports STL and PLY formats for 3D models.
 
-#### Other updates on October 29
+We also:
 
-- We removed different sizes for the same model in the 3D toolkit. Since authors can now resize models, the different sizes are not needed anymore.
+- Removed different sizes for the same model in the 3D toolkit. Since authors can now resize models, the different sizes are not needed anymore.
 
-- We updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holograpic OS (Shell) behavior where the Step card follows you when the option is turned on.
+- Updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holograpic OS (Shell) behavior where the Step card follows you when the option is turned on.
 
 ### October 1, 2019
 
