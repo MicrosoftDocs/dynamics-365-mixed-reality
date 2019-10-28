@@ -149,7 +149,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
  
 4.	On the **Enabled Users** page, select the user, and then select **Manage roles** at the top of the screen. 
 
-    ![Manage roles](media/manage-roles.PNG "Manage roles")
+    ![Manage roles](media/manage-roles.png "Manage roles")
  
 5.	In the **Manage User Roles** dialog box, select the following roles: 
 
