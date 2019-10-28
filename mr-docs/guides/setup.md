@@ -52,7 +52,7 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
      ![Manage product licenses](media/manage-product-licenses.png "Manage product licenses")
 
-4.  In the **Product licenses** screen, turn the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** slider to **On**, and then select **Save**.
+4.  In the **Product licenses** screen, select the check box for **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]**.
   
     ![Add user license](media/guides-license.PNG "Add user license") 
  
@@ -242,9 +242,9 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
 3. Assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them. 
 
-4. Expand the **Product licenses** section, and then turn the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** slider to **On**. You can assign up to 25 users.
+4. In the **Product licenses** screen, select the check box for **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]**.  
     
-      ![Product Licenses dialog box](media/new-user-plans.PNG "Product Licenses dialog box")
+      ![Add user license](media/guides-license.PNG "Add user license") 
  
 5.	Select **Save** when you’re done.    
 
