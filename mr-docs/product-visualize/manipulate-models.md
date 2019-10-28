@@ -33,9 +33,7 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
     ![Advice on finding a plane](media/find-plane.PNG "Advice on finding a plane")
 
     After you find a suitable surface, you’ll see the model-loading indicator:
-    
-    ![Model-loading screen](media/model-loading.PNG "Model-loading screen")
-  
+      
 5.  To place the model, select **Place** on the right side of the screen.
 
     ![Place model item](media/place-model.PNG "Place model item")
