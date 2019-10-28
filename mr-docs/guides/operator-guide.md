@@ -135,7 +135,7 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 
 9.  In the **Select Mode** dialog box, gaze at the box to the left of **Operate** until the box fills, which selects that item. 
 
-    ![Select Operate mode](media/select-mode.jpg "Select Operate mode")
+    ![Select Operate mode](media/select-mode.png "Select Operate mode")
    
 ### Anchor your guide 
 The first thing you see when you open a guide is the anchoring instructions for the guide.  
