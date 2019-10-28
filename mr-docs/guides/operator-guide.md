@@ -185,7 +185,7 @@ When you align your guide, if you’re using the [!include[cc-microsoft](../incl
 
 When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card follows you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
 
-![Step card with Next Step and Go Back buttons](media/pin.jpg "Step card with Next Step and Go Back buttons")  
+![Step card with Next Step and Go Back buttons](media/pin.PNG "Step card with Next Step and Go Back buttons")  
 
 In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
 
