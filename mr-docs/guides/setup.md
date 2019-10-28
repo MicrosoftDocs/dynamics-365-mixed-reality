@@ -124,7 +124,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     In the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
     
-     ![Installing message](media/installing-solution.PNG "Installing message")
+     ![Installing message](media/installing-solution.png "Installing message")
      
     The **Status** field to the left of the yellow message will say **Installation pending** while the solution is being installed. When the solution has finished installing, the **Status** field changes to **Installed**.
     
