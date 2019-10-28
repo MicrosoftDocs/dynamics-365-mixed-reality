@@ -258,7 +258,7 @@ To turn telemetry data off for the PC application:
     ![Send usage data setting](media/send-usage-data-pc.PNG "Send usage data setting")
     
 > [!NOTE]
-> To turn this setting off for HoloLens, see [Author a guide on HoloLens](hololens-authoring.md). Database administrators can also prevent usage data from showing in Power BI dashboards for Guides Analytics. For more information, see [Opting out of storing Dynamics 365 Guides events data in Common Data Service](data-opt-out.md).
+> This option only applies to the device on which it's set. If you use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on more than one device, you need to modify the setting on those other devices. To turn this setting off for HoloLens, see [Author a guide on HoloLens](hololens-authoring.md). Database administrators can also prevent usage data from showing in Power BI dashboards for Guides Analytics. For more information, see [Opting out of storing Dynamics 365 Guides events data in Common Data Service](data-opt-out.md).
 
 ## What's next?
 After you create your guide on the PC, select an anchoring method, and create your tasks and steps, you’re ready to [test things out on HoloLens in a real-world environment, and place your holograms](hololens-authoring.md).
