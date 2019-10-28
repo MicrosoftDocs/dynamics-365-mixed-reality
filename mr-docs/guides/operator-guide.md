@@ -189,7 +189,7 @@ When you open a guide, you’ll see the Step card, which is the hub of everythin
 
 In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
 
-![Step card buttons](media/step-card-orientation-2.jpg "Step card buttons")   
+![Step card buttons](media/step-card-orientation-2.PNG "Step card buttons")   
 
 Here’s a description of the buttons and other UI elements in the Step card:
 
