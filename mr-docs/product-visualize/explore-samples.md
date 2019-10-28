@@ -23,7 +23,7 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
 
      ![Welcome screen](media/welcome.PNG "Welcome screen")
 
-     You can also select the **Main** ![Main menu button](media/hamburgur-icon.png "Main menu button") menu button and go to the **Sample Products** page.
+     You can also select the **Main** ![Main menu button](media/hamburger-icon.png "Main menu button") menu button and go to the **Sample Products** page.
      
      ![Sample Products page](media/sample-products.PNG "Sample Products page")
  
