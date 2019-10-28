@@ -87,7 +87,7 @@ By default, your notes are saved to the SharePoint account associated with your 
 
 To turn off sharing with the Dynamics 365 Sales timeline or Microsoft Teams channels:
 
-1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the organization you're signed in to.
+1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.
 
    ![Edit account settings](media/edit-account-settings.PNG "Edit account settings")
 
