@@ -140,7 +140,7 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 ### Anchor your guide 
 The first thing you see when you open a guide is the anchoring instructions for the guide.  
 
-![Scan printed anchor](media/scan-printed-anchor.PNG "Scan printed anchor") 
+![Scan printed anchor](media/scan-printed-anchor.png "Scan printed anchor") 
 
 > [!NOTE]
 > The screen above shows the anchoring instructions for a printed anchor. This screen would look different if you need to anchor your guide with a digital anchor. The anchoring instructions will tell you how to go about anchoring your guide.
@@ -165,7 +165,7 @@ There are two types of anchors: a printed anchor and a digital anchor. The way y
 
 4. When you see the **Printed anchor found** screen, follow the instructions on the screen, and then select **Confirm** to continue. 
  
-   ![Printed anchor found screen](media/printed-anchor-found.PNG "Printed anchor found screen") 
+   ![Printed anchor found screen](media/printed-anchor-found.png "Printed anchor found screen") 
 
 **To anchor your guide with a digital anchor**
 
