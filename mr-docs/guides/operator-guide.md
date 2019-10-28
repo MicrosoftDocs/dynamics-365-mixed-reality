@@ -208,7 +208,7 @@ Here’s a description of the buttons and other UI elements in the Step card:
 ## Use a dotted line to help you find the focus area for a step 
 Step cards are linked by holographic dotted lines to physical areas in your work area. These dotted lines help you find the area where you need to take an action. 
 
-![Holographic dotted line](media/dotted-line.jpg "Holographic dotted-line")
+![Holographic dotted line](media/dotted-line.PNG "Holographic dotted-line")
 
 ### Dotted line tips and tricks 
 
@@ -230,7 +230,7 @@ You can grab the navigation bar at any time to place the card where you like.
 ## Turn off holograms 
 You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the dotted line. 
 
-![Turn off holograms](media/dotted-line-toggle-visibility.jpg "Turn off holograms")  
+![Turn off holograms](media/dotted-line-toggle-visibility.PNG "Turn off holograms")  
 
 ## Useful links for more information
 
