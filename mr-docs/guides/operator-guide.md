@@ -82,7 +82,7 @@ Use air tap, along with gaze, to select apps and other holograms and any gaze/dw
 
 3.	Tap your finger down, and then quickly raise it back up again. 
 
-![Air tap gesture](media/air-tap-gesture.PNG "Air tap gesture")  
+    ![Air tap gesture](media/air-tap-gesture.PNG "Air tap gesture")  
  
 #### The gesture frame
 
