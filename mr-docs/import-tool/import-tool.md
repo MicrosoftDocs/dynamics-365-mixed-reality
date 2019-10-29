@@ -103,7 +103,7 @@ There are two primary reasons why Dynamics 365 Import Tool (Preview) might not h
 When you send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)], it’s uploaded to a secure location. [!include[cc-microsoft](../includes/cc-microsoft.md)] prepares the model using a combination of automated and manual steps. [!include[cc-microsoft](../includes/cc-microsoft.md)] provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.  
 
 > [!div class="mx-imgBorder"]
-> ![Model preparation](media/what-happens.PNG "Model preparation") 
+> ![Model preparation](media/what-happens.png "Model preparation") 
 
 ## Download a model after it's been converted and optimized by Microsoft
 
