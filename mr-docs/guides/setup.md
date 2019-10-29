@@ -261,8 +261,10 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 9. If you selected **Generate password** in step 4, make note of the password. The user will need this password to sign in.
 
    ![Review user settings](media/review-user-settings.png "Review user settings") 
+   
+10. Select **Close**.
 
-10. [Set up user roles for the solution](#user-roles) as described earlier in this topic.
+11. [Set up user roles for the solution](#user-roles) as described earlier in this topic.
 
 ### See also
 
