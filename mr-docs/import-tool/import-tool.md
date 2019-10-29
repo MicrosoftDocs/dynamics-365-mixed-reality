@@ -2,7 +2,7 @@
 author: JBrentJ
 description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
 ms.author: v-jerja
-ms.date: 09/16/2019
+ms.date: 10/29/2019
 ms.service: crm-online
 ms.topic: article
 title: Use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
