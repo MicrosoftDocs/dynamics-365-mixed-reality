@@ -302,7 +302,7 @@ Up/down rotation
 
 If you're using animated 3D models in your guide, you can turn animation off if you plan to show it with animation in one step and without animation in another. This option is available from the **Edit** menu when you select the model.
 
-![Turn off animations](media/edit-animations.PNG "Turn off animations")
+![Turn off animations](media/edit-animations.png "Turn off animations")
 
 You can also use this option when placing animated models in space. Turn animation off, place the model, and then turn animation back on. This way the animation won't interfere with your ability to place it.
 
