@@ -44,7 +44,7 @@ Preparing CAD content for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixe
 The following illustration shows a more detailed view of this process.
 
 > [!div class="mx-imgBorder"]
-> ![Overall flow](media/overall-flow.PNG "Overall flow") 
+> ![Overall flow](media/overall-flow.png "Overall flow") 
 
 **A.**	Create 3D models using the CAD software of your choice.<br>
 **B.**	Convert CAD files to one of these file formats: GLB, glTF, FBX, OBJ, STL, PLY, JT, SKP, or STP.<br>
