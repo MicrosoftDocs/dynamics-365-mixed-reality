@@ -2,7 +2,7 @@
 author: robutter
 description: Use the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides
 ms.author: robutter
-ms.date: 10/01/2019
+ms.date: 10/29/2019
 ms.service: crm-online
 ms.topic: article
 title: Use the Dynamics 365 Import Tool (Preview) with Dynamics 365 Guides
