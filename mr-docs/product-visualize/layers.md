@@ -2,7 +2,7 @@
 author: erhong
 description: How to show or hide layers in a 3D model in Dynamics 365 Product Visualize 
 ms.author: erhong
-ms.date: 10/01/2019
+ms.date: 10/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Show or hide layers in a 3D model in Dynamics 365 Product Visualize 
@@ -65,4 +65,5 @@ You can expand or collapse the folder by selecting the [+] or [-] button. By def
 [Install, open, and sign in to the app](sign-in.md)<br>
 [Place and manipulate 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
-[Explore sample 3D models](explore-samples.md)
+[Explore sample 3D models](explore-samples.md)<br>
+[View 3D models stored on your device](browse-models.md)
