@@ -27,7 +27,7 @@ productDirectory:
        
     # Card
     - title: Dynamics 365 Import Tool (in preview)
-      imageSrc: /dynamics365/images/importmixedrealitylayoutlogoextensions-03.svg
+      imageSrc: /dynamics365/images/ImportTool.svg
       links:
         - url: /dynamics365/mixed-reality/import-tool/index
           text: Documentation
