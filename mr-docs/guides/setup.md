@@ -232,15 +232,15 @@ If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, y
 
 ## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
 
-If you want to add additional users, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them and configure the roles they will have access to in the Dynamics 365 Admin Center.
+If you want to add additional users, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them and configure the roles they will have access to in the Dynamics 365 admin center.
 
 ### Add a user account
 
-1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
-2. Select **Users**, and then select **Active Users**. 
+2. Select **Users**, and then select **Active users**. 
 
-3. Select **Add a user**
+3. Select **Add a user**.
 
    ![Add user](media/add-additional-user.png "Add user") 
 
