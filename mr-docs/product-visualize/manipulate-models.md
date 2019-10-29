@@ -88,4 +88,5 @@ To move the model up or down, drag two fingers up or down on the screen.
 [Add a note to your 3D model](add-note.md)<br>
 [View layers of your 3D model](layers.md)<br>
 [Explore sample 3D models](add-model.md)<br>
+[View 3D models located on your device](browse-models.md)
 
