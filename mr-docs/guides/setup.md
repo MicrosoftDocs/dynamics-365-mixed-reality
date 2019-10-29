@@ -256,7 +256,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
    ![Optional user settings](media/user-optional-settings.png "Optional user settings") 
    
-8. Review all the info in this last page. To make changes, select the **Edit** buton below each section. When you're done, select **Finish Adding**.
+8. Review the info in this last page. To make changes, select the **Edit** button below each section. When you're done, select **Finish Adding**.
 
 9. If you selected **Generate password** in step 4, make note of the password. The user will need this password to sign in.
 
