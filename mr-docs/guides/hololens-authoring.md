@@ -104,7 +104,7 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
 
 8. In the **Select Guide** screen, gaze at the guide you want to open until the circle fills, which selects that guide.
 
-    ![Select Guide screen](media/select-guide.PNG "Select Guide screen")
+    ![Select Guide screen](media/select-guide.png "Select Guide screen")
 
 9.	In the **Select Mode** dialog box, gaze at the box to the left of **Author** to select it. 
 
