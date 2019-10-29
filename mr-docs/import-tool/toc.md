@@ -3,6 +3,13 @@
 ## [Convert your 3D (CAD) models](convert-models.md)
 ## [Optimize your 3D models](optimize-models.md)
 ## [Best practices for real-time 3D models](best-practices.md)
+## Tutorials
+### [Overview](tutorials-overview.md)
+### [Autodesk Inventor](inventor.md)
+### [Dassault SolidWorks](solidworks.md)
+### [SideFX Houdini](houdini.md)
+### [Blender](blender.md)
+### [Autodesk 3ds Max](3ds-max.md)
 ## Install and use Dynamics 365 Import Tool (Preview)
 ### [Requirements for installing](requirements.md)
 ### [Try Dynamics 365 Import Tool (Preview) free](try-import-tool-free.md)
