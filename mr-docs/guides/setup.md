@@ -232,23 +232,36 @@ If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, y
 
 ## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
 
-If you want to add additional users, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them in the Microsoft 365 Admin Center and configure roles in the Dynamics 365 admin portal.
+If you want to add additional users, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them and configure the roles they will have access to in the Dynamics 365 Admin Center.
 
 ### Add a user account
 
 1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home).
 
-2. Select user accounts.
+2. Select **Users**, and then select **Active Users**. 
 
-3. Assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them. 
+3. Select **Add a user**
 
-4. In the **Product licenses** screen, select the check box for **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]**.  
-    
-      ![Add user license](media/guides-license.PNG "Add user license") 
+   ![Add user](media/add-additional-user.PNG "Add user") 
+
+4. Fill in the information for the new user. Select **Next** when you're done.
  
-5.	Select **Save** when you’re done.    
+5. Select the location for this user, and then under **Licenses**, make sure the check box next to **Dynamics 365 Guides** is selected.  
+6. In the **Product licenses** screen, select the check box for **Dynamics 365 Guides**. Select **Next** when you're done.
 
-6. [Set up user roles for the solution](#user-roles) as described earlier in this topic.
+   ![Assign license](media/assign-license-user.PNG "Assign license") 
+
+7. In the**Optional settings** screen, leave the **User** box selected unless this new user will be an administrator. If the user will be an administrator, select the **Global administrator** check box. To fill out the new user's profile info, expand the **Profile info**. Select **Next** when you're done.
+
+   ![Optional user settings](media/user-optional-settings.PNG "Optional user settings") 
+   
+8. Review all the info in this last page. To make changes, select the **Edit** buton below each section. When you're done, select **Finish Adding**.
+
+9. If you selected **Generate password** in step 4, make note of the password. The user will need this password to sign in.
+
+   ![Review user settings](media/review-user-settings.PNG "Review user settings") 
+
+10. [Set up user roles for the solution](#user-roles) as described earlier in this topic.
 
 ### See also
 
