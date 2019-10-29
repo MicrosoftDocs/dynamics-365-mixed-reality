@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # Optimize your 3D models
 
 > [!div class="mx-imgBorder"]
-> ![Optimize flow highlighted](media/optimize-flow.PNG "Optimize flow highlighted") 
+> ![Optimize flow highlighted](media/optimize-flow.png "Optimize flow highlighted") 
 
 For best rendering and best possible real-time performance, your 3D models need to be converted and might need to be optimized before using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]. Third-party applications that convert CAD files often have tools that can optimize content as well. 
 
