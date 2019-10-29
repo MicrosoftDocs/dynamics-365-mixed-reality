@@ -29,6 +29,7 @@ You don't have to have a Dynamics 365 account to view 3D models in Dynamics 365 
 ### See also
 
 [Install, open, and sign in to the app](sign-in.md)<br>
+[Place and manipulate 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
 [View layers of your 3D model](layers.md)<br>
 [Explore sample 3D models](add-model.md)<br>
