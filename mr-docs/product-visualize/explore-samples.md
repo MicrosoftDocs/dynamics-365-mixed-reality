@@ -25,7 +25,7 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
 
      You can also select the **Main** ![Main menu button](media/hamburger-icon.png "Main menu button") menu button and go to the **Sample Products** page.
      
-     ![Sample Products page](media/sample-products.PNG "Sample Products page")
+     ![Main menu button dropped down](media/main-menu-button-dropped-down.PNG "Main menu button dropped down")
  
 3.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
 
