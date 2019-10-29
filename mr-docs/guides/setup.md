@@ -242,24 +242,24 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
 3. Select **Add a user**
 
-   ![Add user](media/add-additional-user.PNG "Add user") 
+   ![Add user](media/add-additional-user.png "Add user") 
 
 4. Fill in the information for the new user. Select **Next** when you're done.
  
 5. Select the location for this user, and then under **Licenses**, make sure the check box next to **Dynamics 365 Guides** is selected.  
 6. In the **Product licenses** screen, select the check box for **Dynamics 365 Guides**. Select **Next** when you're done.
 
-   ![Assign license](media/assign-license-user.PNG "Assign license") 
+   ![Assign license](media/assign-license-user.png "Assign license") 
 
 7. In the**Optional settings** screen, leave the **User** box selected unless this new user will be an administrator. If the user will be an administrator, select the **Global administrator** check box. To fill out the new user's profile info, expand the **Profile info**. Select **Next** when you're done.
 
-   ![Optional user settings](media/user-optional-settings.PNG "Optional user settings") 
+   ![Optional user settings](media/user-optional-settings.png "Optional user settings") 
    
 8. Review all the info in this last page. To make changes, select the **Edit** buton below each section. When you're done, select **Finish Adding**.
 
 9. If you selected **Generate password** in step 4, make note of the password. The user will need this password to sign in.
 
-   ![Review user settings](media/review-user-settings.PNG "Review user settings") 
+   ![Review user settings](media/review-user-settings.png "Review user settings") 
 
 10. [Set up user roles for the solution](#user-roles) as described earlier in this topic.
 
