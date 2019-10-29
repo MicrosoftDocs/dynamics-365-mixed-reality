@@ -252,7 +252,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
      Select **Next** when you're done.
    
-7. In the **Optional settings** screen, leave the **User** box selected unless this new user will be an administrator. If the user will be an administrator, select the **Global administrator** check box. To fill out the new user's profile info, expand the **Profile info**. Select **Next** when you're done.
+7. In the **Optional settings** screen, leave the **User (no administrator access** box selected unless this new user will be an administrator. In that case, select the **Global administrator** check box. To fill out the new user's profile info, expand the **Profile info**. Select **Next** when you're done.
 
    ![Optional user settings](media/user-optional-settings.png "Optional user settings") 
    
