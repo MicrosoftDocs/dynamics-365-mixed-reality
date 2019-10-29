@@ -2,7 +2,7 @@
 author: mamithan
 description: How to place, resize, rotate, move, and lift 3D models in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 10/01/2019
+ms.date: 10/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Place and manipulate 3D models in Dynamics 365 Product Visualize
@@ -88,5 +88,5 @@ To move the model up or down, drag two fingers up or down on the screen.
 [Add a note to your 3D model](add-note.md)<br>
 [View layers of your 3D model](layers.md)<br>
 [Explore sample 3D models](add-model.md)<br>
-[View 3D models located on your device](browse-models.md)
+[View 3D models stored on your device](browse-models.md)
 
