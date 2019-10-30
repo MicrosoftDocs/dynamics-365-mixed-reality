@@ -29,7 +29,7 @@ Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dy
 2.	Select **+** to view all apps, if **Settings** isn't pinned to **Start**.
 
     > [!NOTE]
-    > To select something with your [!include[pn-hololens](../includes/pn-hololens.md)] device, just gaze at it to target it, and then air tap to select it. 
+    > To select something with your [!include[pn-hololens](../includes/pn-hololens.md)] device, gaze at it to target it, and then air tap to select it. 
    
 3.	Select **Settings**. 
 
@@ -196,7 +196,7 @@ Here’s a description of the buttons and other UI elements in the Step card:
 |Letter|Button/Example|Name|Description|
 |---|--|------------------|------------------------------------------------------------------------------------|
 |A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
-|B|![Follow mode button](media/follow-button.png "Follow mode button")|Follow mode|Have the Step card follow you around or lock it to a location. If you turn off Follow mode, the Step card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. For more information, see the **Follow and pinning** section later in this topic.|
+|B|![Follow mode button](media/follow-button.png "Follow mode button")|Follow mode|Have the Step card follow you around or lock it to a location. If you turn off Follow mode, the Step card stays where it is. You can grab the card at any time by using the navigation bar to move it wherever you like. For more information, see the **Follow and pinning** section later in this topic.|
 |C|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor button|Re-anchor (realign) the guide. [!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to re-anchor the guide by gazing at a printed anchor or digital anchor again. For more information, see “Anchor your guide” earlier in this topic.|
 |D|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your [!include[pn-hololens](../includes/pn-hololens.md)] device correctly. Fit is very important. Otherwise holograms might be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] properly.<br></br>- **Build number.** Shows the build of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you’re using.| 
 |E|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
@@ -208,7 +208,7 @@ Here’s a description of the buttons and other UI elements in the Step card:
 ## Use a dotted line to help you find the focus area for a step 
 Step cards are linked by holographic dotted lines to physical areas in your work area. These dotted lines help you find the area where you need to take an action. 
 
-![Holographic dotted line](media/dotted-line.PNG "Holographic dotted-line")
+![Holographic dotted line](media/dotted-line.PNG "Holographic dotted line")
 
 ### Dotted line tips and tricks 
 
