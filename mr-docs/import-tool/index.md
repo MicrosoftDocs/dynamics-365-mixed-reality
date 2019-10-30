@@ -2,10 +2,10 @@
 author: JBrentJ
 description: Overview of converting and optimizing 3D models to use with Dynamics 365 Import Tool (Preview).  
 ms.author: v-jerja
-ms.date: 06/24/2019
+ms.date: 10/29/2019
 ms.service: crm-online
 ms.topic: overview
-title: Overview of converting and optimizing 3D models to use with Dynamics 365 Import Tool (Preview).
+title: Overview of Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
 ---
 
@@ -44,7 +44,7 @@ Preparing CAD content for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixe
 The following illustration shows a more detailed view of this process.
 
 > [!div class="mx-imgBorder"]
-> ![Overall flow](media/overall-flow.PNG "Overall flow") 
+> ![Overall flow](media/overall-flow.png "Overall flow") 
 
 **A.**	Create 3D models using the CAD software of your choice.<br>
 **B.**	Convert CAD files to one of these file formats: GLB, glTF, FBX, OBJ, STL, PLY, JT, SKP, or STP.<br>
