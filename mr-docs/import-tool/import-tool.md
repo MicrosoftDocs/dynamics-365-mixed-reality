@@ -11,10 +11,10 @@ ms.reviewer: v-brycho
 
 # Use Dynamics 365 Import Tool (Preview)
 
+Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models to use in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications. 
+
 > [!div class="mx-imgBorder"]
 > ![Import Tool flow](media/import-tool-flow.png "Import Tool flow") 
-
-Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models to use in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications. 
 
 ## Two options for preparing 3D models
 
