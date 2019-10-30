@@ -201,7 +201,7 @@ Here’s a description of the buttons and other UI elements in the Step card:
 |4|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your [!include[pn-hololens](../includes/pn-hololens.md)] device correctly. Fit is very important. Otherwise holograms might be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] properly.<br></br>- **Build number.** Shows the build of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you’re using.| 
 |5|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
 |6|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
-|7|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for the Pylon wiring guide:</br><br>![HoloLens Outline page](media/outline.jpg "HoloLens Outline page")| 
+|7|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for the Pylon wiring guide:</br><br>![HoloLens Outline page](media/outline-operator.PNG "HoloLens Outline page")| 
 |8|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task you're working on.| 
 |9|![Task progress](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
  
