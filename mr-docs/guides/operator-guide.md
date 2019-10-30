@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Everything you need to know about using a guide created with Dynamics 365 Guides, including calibration, gaze and gestures, and installing and using the HoloLens app.
 ms.author: mamaylya
-ms.date: 10/01/2019
+ms.date: 10/29/2019
 ms.service: crm-online
 ms.topic: article
 title: Operator's manual for Dynamics 365 Guides
@@ -29,7 +29,7 @@ Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dy
 2.	Select **+** to view all apps, if **Settings** isn't pinned to **Start**.
 
     > [!NOTE]
-    > To select something with your [!include[pn-hololens](../includes/pn-hololens.md)] device, just gaze at it to target it, and then air tap to select it. 
+    > To select something with your [!include[pn-hololens](../includes/pn-hololens.md)] device, gaze at it to target it, and then air tap to select it. 
    
 3.	Select **Settings**. 
 
@@ -82,7 +82,7 @@ Use air tap, along with gaze, to select apps and other holograms and any gaze/dw
 
 3.	Tap your finger down, and then quickly raise it back up again. 
 
-![Air tap gesture](media/air-tap-gesture.PNG "Air tap gesture")  
+    ![Air tap gesture](media/air-tap-gesture.PNG "Air tap gesture")  
  
 #### The gesture frame
 
@@ -135,12 +135,12 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 
 9.  In the **Select Mode** dialog box, gaze at the box to the left of **Operate** until the box fills, which selects that item. 
 
-    ![Select Operate mode](media/select-mode.jpg "Select Operate mode")
+    ![Select Operate mode](media/select-mode-operate.png "Select Operate mode")
    
 ### Anchor your guide 
 The first thing you see when you open a guide is the anchoring instructions for the guide.  
 
-![Scan printed anchor](media/scan-printed-anchor.PNG "Scan printed anchor") 
+![Scan printed anchor](media/scan-printed-anchor.png "Scan printed anchor") 
 
 > [!NOTE]
 > The screen above shows the anchoring instructions for a printed anchor. This screen would look different if you need to anchor your guide with a digital anchor. The anchoring instructions will tell you how to go about anchoring your guide.
@@ -165,7 +165,7 @@ There are two types of anchors: a printed anchor and a digital anchor. The way y
 
 4. When you see the **Printed anchor found** screen, follow the instructions on the screen, and then select **Confirm** to continue. 
  
-   ![Printed anchor found screen](media/printed-anchor-found.PNG "Printed anchor found screen") 
+   ![Printed anchor found screen](media/printed-anchor-found.png "Printed anchor found screen") 
 
 **To anchor your guide with a digital anchor**
 
@@ -183,33 +183,33 @@ When you align your guide, if you’re using the [!include[cc-microsoft](../incl
  
 ## Get oriented with the Step card 
 
-When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card “tags along” with you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
+When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card follows you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
 
-![Step card with Next Step and Go Back buttons](media/step-card-basic-1.jpg "Step card with Next Step and Go Back buttons")  
+![Step card with Next Step and Go Back buttons](media/pin.PNG "Step card with Next Step and Go Back buttons")  
 
 In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
 
-![Step card buttons](media/step-card-orientation-2.jpg "Step card buttons")
-   
+![Step card buttons](media/step-card-orientation-2.PNG "Step card buttons")   
 
 Here’s a description of the buttons and other UI elements in the Step card:
 
-|Letter|Button/Example|Name|Description|
+|Number|Button/Example|Name|Description|
 |---|--|------------------|------------------------------------------------------------------------------------|
-|A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
-|B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor button|Re-anchor (realign) the guide. [!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to re-anchor the guide by gazing at a printed anchor or digital anchor again. For more information, see “Anchor your guide” earlier in this topic.|
-|C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:<br></br>- **Fit box.** Use to make sure you’re wearing your [!include[pn-hololens](../includes/pn-hololens.md)] device correctly. Fit is very important. Otherwise holograms might be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] properly.<br></br>- **Build number.** Shows the build of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you’re using.| 
-|D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
-|E|![Pin button](media/pin-button.PNG "Pin button")|Pin|Lock the Step card in place. This is useful if you want to keep the Step card in one location while you complete the step or task. If you pin the Step card, it doesn’t follow you around. You can pin or unpin it any time you want.|
-|F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
-|G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for the Pylon wiring guide:</br><br>![HoloLens Outline page](media/outline.jpg "HoloLens Outline page")| 
-|H|![Task progress](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
-|I|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task you're working on.| 
+
+|1|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
+|2|![Follow mode button](media/follow-button.png "Follow mode button")|Follow mode|Have the Step card follow you around or lock it to a location.<br><br>If you turn off Follow mode, the Step card stays where it is. You can grab the card at any time by using the navigation bar to move it wherever you like. For more information, see the **Follow and pinning** section later in this topic.|
+|3|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor button|Re-anchor (realign) the guide.<br><br>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to re-anchor the guide by gazing at a printed anchor or digital anchor again. For more information, see “Anchor your guide” earlier in this topic.|
+|4|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:<br><br>- **Fit box.** Use to make sure you’re wearing your [!include[pn-hololens](../includes/pn-hololens.md)] device correctly. Fit is very important. Otherwise holograms might be misaligned in your environment. When you select this setting, you’ll see borders in your field of view to help you make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] properly.<br></br>- **Build number.** Shows the build of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you’re using.| 
+|5|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
+|6|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
+|7|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the **Outline** page.<br><br>Use the **Outline** page to quickly navigate around your guide. Here’s what the **Outline** page looks like for the Pylon wiring guide:</br><br>![HoloLens Outline page](media/outline-operator.PNG "HoloLens Outline page")| 
+|8|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task you're working on.| 
+|9|![Task progress](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
  
 ## Use a dotted line to help you find the focus area for a step 
 Step cards are linked by holographic dotted lines to physical areas in your work area. These dotted lines help you find the area where you need to take an action. 
 
-![Holographic dotted line](media/dotted-line.jpg "Holographic dotted-line")
+![Holographic dotted line](media/dotted-line.PNG "Holographic dotted line")
 
 ### Dotted line tips and tricks 
 
@@ -218,16 +218,20 @@ Step cards are linked by holographic dotted lines to physical areas in your work
 - If the dotted line points behind you, step to the side, and then continue to follow the dotted line. 
 Note that the dotted line might go through real-world objects at times. 
 
-## Tag along and pinning 
+## Follow and pinning 
 
-You’ll notice that wherever you look, the Step card follows your gaze—it “tags along.” As you’re working, you never have to worry about where your instructions are. You can pin the Step card, however, if you want to turn off the tag-along feature. To pin the Step card, select **Pin**. Once it’s pinned, you can grab it and move it wherever you like. 
+You’ll notice that wherever you look, the Step card follows your gaze. As you’re working, you never have to worry about where your instructions are. You can stop the Step card from following you by turning the Follow mode behavior off from the navigation bar. 
 
-![Pin button on HoloLens screen](media/pin.jpg "Pin button on HoloLens screen")
+![Turn off Follow mode behavior](media/follow-button-nav-bar.PNG "Turn off Follow mode behavior")
+
+You can grab the navigation bar at any time to place the card where you like.
+
+![Grab navigation bar](media/follow-button-move-card.PNG "Grab navigation bar")
 
 ## Turn off holograms 
 You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the dotted line. 
 
-![Turn off holograms](media/dotted-line-toggle-visibility.jpg "Turn off holograms")  
+![Turn off holograms](media/dotted-line-toggle-visibility.PNG "Turn off holograms")  
 
 ## Useful links for more information
 
