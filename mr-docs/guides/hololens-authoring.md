@@ -180,8 +180,8 @@ Here’s what each button or UI element is used for:
 |5|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
 |6|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
 |7|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page.<br><br>Use the Outline page to quickly navigate around your guide.|
-|8|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
-|9|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
+|8|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
+|9|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 
 ## Test the flow of your guide
 Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in Operate mode to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
