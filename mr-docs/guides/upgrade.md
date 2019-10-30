@@ -26,7 +26,7 @@ To upgrade the solution:
 
 1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
 
-2. To select the environment, select the check mark, select the three dots button, and then select **Manage Solutions**. 
+2. To select the environment, select the check mark, select the **More environment actions** (three dots) button, and then select **Manage Solutions**. 
 
    ![Manage solutions](media/manage-solutions.PNG "Manage solutions")
 
