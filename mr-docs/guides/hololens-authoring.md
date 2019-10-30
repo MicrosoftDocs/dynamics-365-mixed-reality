@@ -171,7 +171,7 @@ The Step card also includes several other buttons and UI elements:
  
 Here’s what each button or UI element is used for:
 
-|Letter|Button/Example|Name|Purpose|
+|Number|Button/Example|Name|Purpose|
 |--|---|------------|----------------------------------------------------------------------------------------------------------------|
 |1|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
 |2|![Follow Mode button](media/follow-button.png "Follow Mode button")|Follow mode|Have the Step card follow you or lock it to a location.<br><br>Guides includes a feature called Follow mode. Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you turn off Follow mode, the card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. |
