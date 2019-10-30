@@ -2,14 +2,14 @@
 author: Mamaylya
 description: Test and place holograms using the Dynamics 365 Guides HoloLens application in Author mode 
 ms.author: mamaylya
-ms.date: 10/15/2019
+ms.date: 10/29/2019
 ms.service: crm-online
 ms.topic: article
 title: Author in the HoloLens application 
 ms.reviewer: v-brycho
 ---
 
-# Author in the HoloLens application
+# Author in the HoloLens application for Dynamics 365 Guides
 
 [Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)
 
@@ -104,14 +104,14 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
 
 8. In the **Select Guide** screen, gaze at the guide you want to open until the circle fills, which selects that guide.
 
-    ![Select Guide screen](media/select-guide.PNG "Select Guide screen")
+    ![Select Guide screen](media/select-guide.png "Select Guide screen")
 
 9.	In the **Select Mode** dialog box, gaze at the box to the left of **Author** to select it. 
 
-    ![Select Author mode](media/select-mode.PNG "Select Author mode")
+    ![Select Author mode](media/select-mode.png "Select Author mode")
     
 > [!TIP]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide](media/example-guide-hololens.PNG "Example Guide")
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide](media/example-guide-hololens.png "Example Guide")
 
 ## Anchor your guide
 The first thing you see when you open a guide is the anchoring instructions from the PC authoring application. 
@@ -122,7 +122,7 @@ The first thing you see when you open a guide is the anchoring instructions from
 
 2. In the **Scan printed anchor** screen, select **Initiate Scan**.
 
-   ![HoloLens alignment instructions](media/scan-printed-anchor.PNG "HoloLens alignment instructions")
+   ![Scan Printed Anchor screen with Initiate Scan button](media/scan-printed-anchor.png "Scan Printed Anchor screen with Initiate Scan button")
 
    On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see an anchor hologram that looks like this:
 
@@ -134,7 +134,7 @@ The first thing you see when you open a guide is the anchoring instructions from
 
    When the guide is correctly aligned, you'll see the **Printed anchor found** screen. 
    
-   ![Marker found holograph](media/printed-anchor-found.PNG "Marker found holograph")
+   ![Marker found holograph](media/printed-anchor-found.png "Marker found holograph")
    
 ### To anchor a guide using a digital anchor
 
@@ -150,7 +150,7 @@ When you anchor your guide, the anchoring information is stored on your [!includ
 > You might need to adjust the hardware offset in [!include[pn-hololens](../includes/pn-hololens.md)] 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
 
 ## Get oriented on HoloLens
-After you anchor your guide, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card tags along with the operator to keep the instructions where they need them as they move around their work space.
+After you anchor your guide, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card follows the operator to keep the instructions where they need them as they move around their work space.
 
 Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap to navigate through a guide. 
 
@@ -158,7 +158,7 @@ Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows
 
 At the top of the Step card screen, you’ll see three buttons: **Save**, **Undo**, and **Redo**.
 
-![HoloLens step card screen](media/save-undo-redo.PNG "HoloLens step card screen")
+![HoloLens step card screen](media/save-undo-redo.png "HoloLens step card screen")
  
 The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. You can undo 100 changes or redo 100 changes.  
 
@@ -171,17 +171,17 @@ The Step card also includes several other buttons and UI elements:
  
 Here’s what each button or UI element is used for:
 
-|Letter|Button/Example|Name|Purpose|
+|Number|Button/Example|Name|Purpose|
 |--|---|------------|----------------------------------------------------------------------------------------------------------------|
-|A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
-|B|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.|[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.|
-|C|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] device correctly.<br>- **Build number**. Shows the build you’re using.|
-|D|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
-|E|![Pin button](media/pin-button.PNG "Pin button")|Pin|Lock the Step card to a location.|Guides includes a feature called “tag-along.” Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you pin the Step card, you turn off the tag-along feature. When tag-along is off, you can just grab the card and move it wherever you like.|
-|F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
-|G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page.|Use the Outline page to quickly navigate around your guide.|
-|H|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
-|I|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
+|1|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
+|2|![Follow Mode button](media/follow-button.png "Follow Mode button")|Follow mode|Have the Step card follow you or lock it to a location.<br><br>Guides includes a feature called Follow mode. Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you turn off Follow mode, the card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. |
+|3|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.<br><br>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.|
+|4|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] device correctly.<br>- **Build number**. Shows the build you’re using.|
+|5|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
+|6|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
+|7|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the **Outline** page.<br><br>Use the **Outline** page to quickly navigate around your guide.|
+|8|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
+|9|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 
 ## Test the flow of your guide
 Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in Operate mode to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
@@ -190,7 +190,7 @@ Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], w
 
 You can add dotted lines (*tethers*) to link your Step cards to the areas where the work gets done. These dotted lines show the operator where to focus. 
 
-![Holographic dotted lines](media/tether-example.PNG "Holographic dotted lines")
+![Holographic dotted lines](media/tether-example.png "Holographic dotted lines")
 
 To place a dotted line:
 
@@ -210,9 +210,9 @@ In this stage of the process, you’ll walk through each step in your guide and 
 
 You don’t need to do anything to place an image or a video associated with a step. They automatically appear when the operator goes to the step.
 
-The 3D assets associated with each step appear below the Step card in *the bin*:
+The 3D assets associated with each step appear below the Step card in the bin:
 
-![3D assets below Step card](media/step-card-bin.PNG "3D assets below Step card")
+![3D assets below Step card](media/step-card-bin.png "3D assets below Step card")
 
 ### Place a 3D part 
 
@@ -228,7 +228,7 @@ You can place a 3D model from the 3D toolkit in the same way you place a 3D part
 
 2.	Air tap a category (an arrow or hand, for example), and then air tap the specific 3D model you want to add.
 
-    ![Air tap a category](media/step-card-hands.PNG "Airtap a category")
+    ![Air tap a category](media/step-card-hands.png "Airtap a category")
 
     The item will be added to your bin and you can then place it as you would a 3D part.
 
@@ -292,11 +292,19 @@ Up/down rotation
 
 - Make sure that the 3D content is not in the way of the operator doing the task. 
 
-- Keep the field of view in mind when placing assets. If you put a hologram behind someone, it will be very hard to find.
+- Keep the field of view in mind when you place assets. If you put a hologram behind someone, it will be very hard to find.
 
 - Use 3D content sparingly and with a clear goal. Too much content can clutter the instructions and make it harder to follow.
 
 - Remember that you can attach a tether to 3D content to make it more discoverable. See the next section to learn about tethers.
+
+## Turn off animations
+
+If you're using animated 3D models in your guide, you can turn animation off if you plan to show it with animation in one step and without animation in another. This option is available from the **Edit** menu when you select the model.
+
+![Turn off animations](media/edit-animations.png "Turn off animations")
+
+You can also use this option when you place animated models in space. Turn animation off, place the model, and then turn animation back on. This way the animation won't interfere with your ability to place it.
 
 ## Add styles for emphasis
 Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
@@ -357,6 +365,19 @@ To duplicate a model:
 3. Select **Duplicate**.
 
     ![Duplicate button](media/edit-duplicate.PNG "Duplicate button")
+    
+## Opt out of sending telemetry data to Microsoft
+
+For privacy reasons, you can turn off the ability to send telemetry data to Microsoft. Microsoft uses this data to improve the product. Opting out prevents Microsoft from collecting any activity data.
+
+To turn telemetry data off for HoloLens:
+
+- In **Settings**, turn the **Send Usage Data** slider to off.
+
+    ![Send Usage Data setting](media/send-usage-data.PNG "Send Usage Data setting")
+    
+> [!NOTE]
+> This option applies only to the device on which it's set. If you use Dynamics 365 Guides on more than one device, you need to modify the setting on those other devices. To turn this setting off for the PC application, see [Author a guide in the PC application](pc-authoring.md). 
 
 ## What's next?
 
