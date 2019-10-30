@@ -210,7 +210,7 @@ In this stage of the process, you’ll walk through each step in your guide and 
 
 You don’t need to do anything to place an image or a video associated with a step. They automatically appear when the operator goes to the step.
 
-The 3D assets associated with each step appear below the Step card in *the bin*:
+The 3D assets associated with each step appear below the Step card in the bin:
 
 ![3D assets below Step card](media/step-card-bin.png "3D assets below Step card")
 
