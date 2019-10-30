@@ -9,7 +9,7 @@ title: Author in the HoloLens application
 ms.reviewer: v-brycho
 ---
 
-# Author in the HoloLens application
+# Author in the HoloLens application for Dynamics 365 Guides
 
 [Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)
 
