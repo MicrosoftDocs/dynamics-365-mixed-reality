@@ -202,8 +202,8 @@ Here’s a description of the buttons and other UI elements in the Step card:
 |5|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.| 
 |6|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
 |7|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide. Here’s what the Outline page looks like for the Pylon wiring guide:</br><br>![HoloLens Outline page](media/outline.jpg "HoloLens Outline page")| 
-|8|![Task progress](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
-|9|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task you're working on.| 
+|8|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task you're working on.| 
+|9|![Task progress](media/task-progress.PNG "Task progress")|Task progress|Shows where you are in the task.| 
  
 ## Use a dotted line to help you find the focus area for a step 
 Step cards are linked by holographic dotted lines to physical areas in your work area. These dotted lines help you find the area where you need to take an action. 
