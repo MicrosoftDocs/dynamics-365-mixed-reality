@@ -19,3 +19,5 @@ With [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-
 
 - [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)
 
+- [Tutorials for converting and optimizing 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/tutorials-overview)
+
