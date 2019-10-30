@@ -292,7 +292,7 @@ Up/down rotation
 
 - Make sure that the 3D content is not in the way of the operator doing the task. 
 
-- Keep the field of view in mind when placing assets. If you put a hologram behind someone, it will be very hard to find.
+- Keep the field of view in mind when you place assets. If you put a hologram behind someone, it will be very hard to find.
 
 - Use 3D content sparingly and with a clear goal. Too much content can clutter the instructions and make it harder to follow.
 
@@ -304,7 +304,7 @@ If you're using animated 3D models in your guide, you can turn animation off if 
 
 ![Turn off animations](media/edit-animations.png "Turn off animations")
 
-You can also use this option when placing animated models in space. Turn animation off, place the model, and then turn animation back on. This way the animation won't interfere with your ability to place it.
+You can also use this option when you place animated models in space. Turn animation off, place the model, and then turn animation back on. This way the animation won't interfere with your ability to place it.
 
 ## Add styles for emphasis
 Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
@@ -377,7 +377,7 @@ To turn telemetry data off for HoloLens:
     ![Send Usage Data setting](media/send-usage-data.PNG "Send Usage Data setting")
     
 > [!NOTE]
-> This option only applies to the device on which it's set. If you use Dynamics 365 Guides on more than one device, you need to modify the setting on those other devices. To turn this setting off for the PC application, see [Author a guide in the PC application](pc-authoring.md). 
+> This option applies only to the device on which it's set. If you use Dynamics 365 Guides on more than one device, you need to modify the setting on those other devices. To turn this setting off for the PC application, see [Author a guide in the PC application](pc-authoring.md). 
 
 ## What's next?
 
