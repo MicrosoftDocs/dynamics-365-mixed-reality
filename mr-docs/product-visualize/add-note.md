@@ -1,6 +1,6 @@
 ---
 author: mamithan
-description: How to add a note (including ink and text) to a 3D model in Dynamics 365 Product Visualize
+description: How to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize
 ms.author: mamithan
 ms.date: 10/30/2019
 ms.service: crm-online
@@ -13,9 +13,9 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-You can capture notes on specific points on a 3D model in Microsoft Dynamics 365 Product Visualize, and even add text or ink to the notes. For example, when you’re in the field with a customer, capture any required product changes directly on the model. 
+You can capture notes on specific points on a 3D model in Microsoft Dynamics 365 Product Visualize, and even add text or draw on the notes. For example, when you’re in the field with a customer, capture any required product changes directly on the model. 
 
-To add a note, you tap the location of the model where you want to add the note, and then take a picture of the model or upload a picture from your photo library to set the context. Then you can draw (ink) on the image or add comments. Notes you create are saved in the Common Data Service.
+To add a note, you tap the location of the model where you want to add the note, and then take a picture of the model or upload a picture from your photo library to set the context. Then you can draw on the image or add comments. Notes you create are saved in the Common Data Service.
 
 To review notes you have made on your model, you can tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. You can also browse through your notes by swiping the notes cards at the bottom of the screen. The corresponding spatial anchor activates on the model as you swipe. 
 
@@ -47,7 +47,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
     a. Do the following: 
     
-      - To ink on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
+      - To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
       - To add text, tap the box at the bottom of the screen, and then enter the text you want.
     
@@ -56,7 +56,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
     b. Select **Submit** to add your note.
  
       > [!NOTE]
-      > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered is retained, but inking is lost.    
+      > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered is retained, but any drawings are lost.    
 
 ## View the notes attached to a model
 
