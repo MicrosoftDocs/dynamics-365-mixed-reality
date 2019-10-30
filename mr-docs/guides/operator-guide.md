@@ -193,7 +193,7 @@ In addition to the **Next Step** and **Go Back** buttons, the Step card includes
 
 Here’s a description of the buttons and other UI elements in the Step card:
 
-|Letter|Button/Example|Name|Description|
+|Number|Button/Example|Name|Description|
 |---|--|------------------|------------------------------------------------------------------------------------|
 |1|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
 |2|![Follow mode button](media/follow-button.png "Follow mode button")|Follow mode|Have the Step card follow you around or lock it to a location. If you turn off Follow mode, the Step card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. For more information, see the **Follow and pinning** section later in this topic.|
