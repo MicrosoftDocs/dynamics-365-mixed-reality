@@ -51,7 +51,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
     
       - To add text, tap the box at the bottom of the screen, and then enter the text you want.
     
-      ![Add text](media/add-text.PNG "Add text")
+         ![Add text](media/add-text.PNG "Add text")
       
     b. Select **Submit** to add your note.
  
