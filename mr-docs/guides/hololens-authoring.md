@@ -122,7 +122,7 @@ The first thing you see when you open a guide is the anchoring instructions from
 
 2. In the **Scan printed anchor** screen, select **Initiate Scan**.
 
-   ![HoloLens alignment instructions](media/scan-printed-anchor.png "HoloLens alignment instructions")
+   ![Scan Printed Anchor screen with Initiate Scan button](media/scan-printed-anchor.png "Scan Printed Anchor screen with Initiate Scan button")
 
    On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see an anchor hologram that looks like this:
 
@@ -174,12 +174,12 @@ Here’s what each button or UI element is used for:
 |Letter|Button/Example|Name|Purpose|
 |--|---|------------|----------------------------------------------------------------------------------------------------------------|
 |A|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
-|B|![Follow Mode button](media/follow-button.png "Follow Mode button")|Follow mode|Have the Step card follow you or lock it to a location. Guides includes a feature called Follow mode. Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you turn off Follow mode, the card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. |
-|C|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide. [!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.|
+|B|![Follow Mode button](media/follow-button.png "Follow Mode button")|Follow mode|Have the Step card follow you or lock it to a location.<br>Guides includes a feature called Follow mode. Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you turn off Follow mode, the card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. |
+|C|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.<br>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.|
 |D|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] device correctly.<br>- **Build number**. Shows the build you’re using.|
 |E|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
 |F|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
-|G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page. Use the Outline page to quickly navigate around your guide.|
+|G|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page.<br>Use the Outline page to quickly navigate around your guide.|
 |H|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 |I|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 
