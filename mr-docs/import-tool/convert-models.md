@@ -51,6 +51,7 @@ In situations where a CAD application doesn’t have an export option for FBX, O
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing models](best-practices.md)<br>
+[Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
 
 

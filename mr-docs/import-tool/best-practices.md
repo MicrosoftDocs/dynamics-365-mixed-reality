@@ -141,6 +141,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
+[Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
 
 
