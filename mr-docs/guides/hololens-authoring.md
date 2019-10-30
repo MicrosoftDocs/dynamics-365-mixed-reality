@@ -179,7 +179,7 @@ Here’s what each button or UI element is used for:
 |4|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Fit box**. Use to make sure you’re wearing the [!include[pn-hololens](../includes/pn-hololens.md)] device correctly.<br>- **Build number**. Shows the build you’re using.|
 |5|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
 |6|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
-|7|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the Outline page.<br><br>Use the Outline page to quickly navigate around your guide.|
+|7|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the **Outline** page.<br><br>Use the **Outline** page to quickly navigate around your guide.|
 |8|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 |9|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 
