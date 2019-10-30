@@ -2,14 +2,14 @@
 author: Mamaylya
 description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 10/01/2019
+ms.date: 10/29/2019
 ms.service: crm-online
 ms.topic: article
 title: Use the PC authoring application to create a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Use the PC authoring application to create a guide in Dynamics 365 Guides
+# Author in the PC application for Dynamics 365 Guides
 
 Watch videos on:
 
@@ -188,7 +188,7 @@ To import your own 3D objects:
     ![Import custom 3D part](media/import-object.PNG "Import custom 3D part")
     
 > [!NOTE]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information on the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
 ### Add 3D objects from the 3D toolkit to support your steps
 
@@ -244,6 +244,21 @@ You can use any of the following keyboard shortcuts in the PC application:
 
 > [!NOTE]
 > Microsoft will continue to add support for screen readers, high contrast, and keyboard usability.
+
+## Opt out of sending telemetry data to Microsoft
+
+For privacy reasons, you can turn off the ability to send telemetry data to Microsoft. Microsoft uses this data to improve the product. Opting out prevents Microsoft from collecting any activity data.
+
+To turn telemetry data off for the PC application:
+
+1.  On the **File** menu, select **About**.
+
+2. In the **About** dialog box, turn the **Send usage data** slider to off.
+
+    ![Send usage data setting](media/send-usage-data-pc.PNG "Send usage data setting")
+    
+> [!NOTE]
+> This option applies only to the device on which it's set. If you use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on more than one device, you need to modify the setting on those other devices. To turn this setting off for HoloLens, see [Author in the HoloLens application](hololens-authoring.md). Database administrators can also prevent usage data from showing in Power BI dashboards for Guides Analytics. For more information, see [Opting out of storing Dynamics 365 Guides events data in Common Data Service](data-opt-out.md).
 
 ## What's next?
 After you create your guide on the PC, select an anchoring method, and create your tasks and steps, you’re ready to [test things out on HoloLens in a real-world environment, and place your holograms](hololens-authoring.md).
