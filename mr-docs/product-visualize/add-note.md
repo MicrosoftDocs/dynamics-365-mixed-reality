@@ -27,7 +27,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
     ![Select Notes item](media/select-notes.PNG "Select Notes item")
  
-2.	Select **Add Note**.
+2.	Select **Add**.
 
     ![Select Add Note](media/add-note.PNG "Select Add Note")
  
