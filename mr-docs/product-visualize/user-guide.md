@@ -2,7 +2,7 @@
 author: mamithan
 description: User guide for Dynamics 365 Product Visualize, including opening and signing in to the app, placing and manipulating 3D models, adding notes, adding your own 3D models, and exploring sample 3D models
 ms.author: mamithan
-ms.date: 10/30/2019
+ms.date: 10/31/2019
 ms.service: crm-online
 ms.topic: article
 title: User guide for Dynamics 365 Product Visualize
