@@ -129,4 +129,4 @@ If you have access to more than one Dynamics 365 organization,  you can use this
 [Add a note to your 3D model](add-note.md)<br>
 [View layers of your 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
-[View 3D models stored on my device](browse-models)
+[View 3D models stored on your device](browse-models)
