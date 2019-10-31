@@ -2,7 +2,7 @@
 author: mamithan
 description: How to add your own custom 3D models to an existing Dynamics 365 Sales product
 ms.author: mamithan
-ms.date: 10/30/2019
+ms.date: 10/31/2019
 ms.service: crm-online
 ms.topic: article
 title: Add your own 3D model to an existing Dynamics 365 Sales product
