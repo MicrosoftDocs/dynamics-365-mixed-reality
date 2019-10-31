@@ -1,11 +1,11 @@
 ---
 author: mamithan
-description: How to view 3D models stored on your device in Dynamics 365 Product Visualize
+description: How to view 3D models (GLB files) stored on your device in Dynamics 365 Product Visualize
 ms.author: mamithan
 ms.date: 10/30/2019
 ms.service: crm-online
 ms.topic: article
-title: View 3D modesl stored on your device in Dynamics 365 Product Visualize
+title: View 3D models stored on your device in Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
