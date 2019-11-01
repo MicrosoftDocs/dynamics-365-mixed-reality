@@ -197,6 +197,8 @@ This section provides step-by-step instructions for creating a new price list, p
 ### Create a product
 
 1. In the left pane, select **Products** to return to the product list. 
+<!--note from editor: It's better to call this "left pane" what it is. Ditto for steps 14 and 15 below. -->
+
 
 2. Select **Add Product** to create a new product.
 
