@@ -88,5 +88,6 @@ To move the model up or down, drag two fingers up or down on the screen.
 [Add a note to your 3D model](add-note.md)<br>
 [Show or hide a layer in 3D model](layers.md)<br>
 [Explore sample 3D models](add-model.md)<br>
-[View 3D models stored on your device](browse-models.md)
+[View 3D models stored on your device](browse-models.md)<br>
+[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)
 
