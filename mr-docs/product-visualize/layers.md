@@ -66,5 +66,5 @@ You can expand or collapse the folder by selecting the [+] or [-] button. By def
 [Place and manipulate 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
-[View 3D models stored on your device](browse-models.md)
+[View 3D models stored on your device](browse-models.md)<br>
 [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)
