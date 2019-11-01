@@ -193,6 +193,8 @@ This section provides step-by-step instructions for creating a new price list, p
 5. Select the check box for the product family, and then select **Publish** to finish creating the product family.
 
    ![Publish product family](media/publish-product-family.png "Publish product family")
+   <!--note from editor: This image link is broken in the preview. -->
+
 
 ### Create a product
 
@@ -229,6 +231,7 @@ This section provides step-by-step instructions for creating a new price list, p
 15. Select the newly created product by selecting the check box to the left of the product name.
 
     ![Publish product](media/publish-product.PNG "Publish product")
+<!--note from editor: This image link is broken in the preview. Otherwise I'd have added in the check box text above, as we need to be more descriptive. -->
 
 16. Select **Publish**.
 
@@ -273,7 +276,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 2. In the left pane, select **Opportunities**.
 
-3. Select **New** at the top of the page to create a new opportunity.
+3. To create a new opportunity, select **New** at the top of the page.
 
 4. In the **Topic** field, add a name for the opportunity.
 
@@ -293,6 +296,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 9. Select **Add New Opportunity**. 
 
    ![Add New Opportunity Product](media/new-opportunity-product.PNG "Add New Opportunity Product")
+   <!--note from editor: This image link is broken in the preview. -->
 
 10. In the **Existing Product** field, select one of the products you created.
 
@@ -422,12 +426,14 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 5. Select the **Open** menu, and then select **Add to a team.**
 
    ![Add to a team](media/add-to-team.PNG "Add to a team")
+<!--note from editor: This image link is broken in the preview. -->
 
    a. Select an environment. This will be the organization name for the instance.
    
    b. Select **Sales Hub**.
    
       ![Sales Hub](media/select-sales-hub.PNG "Sales Hub")
+   <!--note from editor: This image link is broken in the preview. -->
    
    c. Select an opportunity, and then select **Save**.
 
@@ -447,7 +453,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
    
 11. From the list of Dynamics 365 entities, select an opportunity, and then select **Save**.
 
-For more information on setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/dynamics365/customer-engagement/basics/teams-install-app).
+For more information about setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/dynamics365/customer-engagement/basics/teams-install-app).
 
 ### Post notes from Dynamics 365 Product Visualize
 
