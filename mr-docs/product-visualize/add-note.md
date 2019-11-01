@@ -112,4 +112,5 @@ To export a note:
 [Place and manipulate 3D models](manipulate-models.md)<br>
 [Show or hide layers in a 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
-[View 3D models stored on your device](browse-models.md)
+[View 3D models stored on your device](browse-models.md)<br>
+[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)
