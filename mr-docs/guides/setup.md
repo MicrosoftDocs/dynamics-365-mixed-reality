@@ -261,7 +261,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
    ![Optional user settings](media/user-optional-settings.png "Optional user settings") 
    
-   To fill out the new user's profile info, expand the **Profile info**. Select **Next** when you're done.
+8. To fill out the new user's profile info, scroll down, and then expand **Profile info**. Select **Next** when you're done.
    
    ![Expanded Profile info](media/expanded-profile-info.png "Expanded Profile info")
    
