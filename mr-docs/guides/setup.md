@@ -238,9 +238,9 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
 1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
-2. In the left navigation, select **Users**, and then select **Active users**. 
+2. Select **Users**, and then select **Active users**. 
 
-3. Select **Add a user**.
+3. In the **Active Users** screen, select **Add a user**.
 
    ![Add user](media/add-additional-user.png "Add user") 
 
