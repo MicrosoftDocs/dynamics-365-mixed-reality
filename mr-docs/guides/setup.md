@@ -265,7 +265,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
    
    ![Expanded Profile info](media/expanded-profile-info.png "Expanded Profile info")
    
-8. Review the info in this last page. To make changes, select the **Edit** button below each section. When you're done, select **Finish Adding**.
+8. Review the info in the last page. To make changes, select the **Edit** button below each section. When you're done, select **Finish Adding**.
 
    ![Review page with Edit buttons](media/review-page.png "Review page with Edit buttons")
 
