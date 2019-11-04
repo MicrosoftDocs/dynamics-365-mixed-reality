@@ -269,7 +269,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
    ![Review page with Edit buttons](media/review-page.png "Review page with Edit buttons")
 
-9. If you selected **Generate password** in step 4, make note of the password. The user will need this password to sign in.
+9. If you selected **Auto-generate password** in step 4, make note of the password. The user will need this password to sign in.
 
    ![Review user settings](media/review-user-settings.png "Review user settings") 
    
