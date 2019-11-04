@@ -249,7 +249,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
    ![Set up the basics screen](media/setup-basics.png "Set up the basics screen")
 
    > [!NOTE]
-   > By default, an auto-generated password will be generated for the user. The user is required to change the password the first time they sign in with this account. If you want to change the password at this time to a permanent password instead of using the auto-generated password, change **Auto-generate password** to **Let me create the password**, and then clear the **Require this user to change their password when they first sign in** check box. 
+   > By default, an auto-generated password will be generated for the user. The user is required to change the password the first time they sign in with this account. If you want to change the password to a permanent password instead of using the auto-generated password, selet the **Let me create the password** option, and then clear the **Require this user to change their password when they first sign in** check box. 
  
 5. Select the location for this user, and then under **Licenses**, select the check box next to **Dynamics 365 Guides**. 
 
