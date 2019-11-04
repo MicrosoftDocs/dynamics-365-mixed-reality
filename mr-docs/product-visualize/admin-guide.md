@@ -1,7 +1,7 @@
 ---
 author: rroesler
 description: Admin tasks for Dynamics 365 Product Visualize, including adding groups, products, opportunities, and the Product Visualize control
-ms.date: 10/01/2019
+ms.date: 10/31/2019
 ms.author: rroesler
 ms.service: crm-online
 ms.topic: article
@@ -190,11 +190,17 @@ This section provides step-by-step instructions for creating a new price list, p
 
 4. Give the family a name (**Product Samples**) and a Product ID (**PS-1**), and then select **Save and Close**.
 
-5. Select **Publish** to finish creating the product family.
+5. Select the check box for the product family, and then select **Publish** to finish creating the product family.
+
+   ![Publish product family](media/publish-product-family.png "Publish product family")
+   <!--note from editor: This image link is broken in the preview. -->
+
 
 ### Create a product
 
 1. In the left pane, select **Products** to return to the product list. 
+<!--note from editor: It's better to call this "left pane" what it is. Ditto for steps 14 and 15 below. -->
+
 
 2. Select **Add Product** to create a new product.
 
@@ -220,7 +226,14 @@ This section provides step-by-step instructions for creating a new price list, p
 
 13. Select **Save**.
 
-14. Select **Publish**.
+14. In the left navigation, select the **Products** tab.
+
+15. Select the newly created product by selecting the check box to the left of the product name.
+
+    ![Publish product](media/publish-product.PNG "Publish product")
+<!--note from editor: This image link is broken in the preview. Otherwise I'd have added in the check box text above, as we need to be more descriptive. -->
+
+16. Select **Publish**.
 
 ## Add models
 
@@ -263,7 +276,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 2. In the left pane, select **Opportunities**.
 
-3. Select **New** at the top of the page to create a new opportunity.
+3. To create a new opportunity, select **New** at the top of the page.
 
 4. In the **Topic** field, add a name for the opportunity.
 
@@ -282,7 +295,8 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 9. Select **Add New Opportunity**. 
 
-   ![Add New Opportunity Product](media/opportunity-product.PNG "Add New Opportunity")
+   ![Add New Opportunity Product](media/new-opportunity-product.PNG "Add New Opportunity Product")
+   <!--note from editor: This image link is broken in the preview. -->
 
 10. In the **Existing Product** field, select one of the products you created.
 
@@ -296,7 +310,7 @@ The Dynamics 365 Product Visualize solution is a package that customizes your Dy
 
 ### Import the Dynamics 365 Product Visualize solution
 
-1. [Download the **Dynamics 365 Product Visualize** solution](http://download.microsoft.com/download/F/D/E/FDEE4BA0-F7E5-4FBD-80C1-E670F9F397BA/ProductVisualize.Solution.zip).
+1. [Download the **Dynamics 365 Product Visualize** solution](https://download.microsoft.com/download/F/D/E/FDEE4BA0-F7E5-4FBD-80C1-E670F9F397BA/ProductVisualize.Solution.zip).
 
 2. Go to the Dynamics 365 Sales Hub.
 
@@ -343,7 +357,7 @@ There are numerous ways you can customize your Opportunity page in Dynamics 365 
 
 8. On the **Display** tab, clear the check box for **Display Label on the Form**.
 
-9. On the **Controls Page**, add the **Product Visualize** control from the list, and then select the **Web**, **Phone**, and **Tablet** options.
+9. On the **Controls Page**, add the **Product Visualize Launcher** control from the list, and then select the **Web**, **Phone**, and **Tablet** options.
 
 10. Select **OK** to finish adding the control.
 
@@ -373,15 +387,21 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 ### Create a team
 
-1. Once the web app has loaded, you should see an option to join or create a team. Select **Create Team**.
+1. Launch Teams in a private browser by going to: teams.microsoft.com
 
-2. When you see the option to build a team from scratch or create from an existing team, select **Build a team from scratch**.
+2. When prompted, select **Use the web app instead.**
 
-3. Make the group **Org-Wide**.
+3. Select **Get Started**.
 
-4. Give the group a name and a description.
+4. Once the web app has loaded, you should see an option to join or create a team. Select **Create Team**.
 
-5. Select **Create**.
+5. When you see the option to build a team from scratch or create from an existing team, select **Build a team from scratch**.
+
+6. Make the group **Org-Wide**.
+
+7. Give the group a name and a description.
+
+8. Select **Create**.
 
 ### Add channels to the team
 
@@ -395,7 +415,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
    
 ### Connect Teams to Dynamics 365
 
-1. In the lower corner of the Teams client, select **Store**.
+1. In the lower corner of the Teams client, select **Apps**.
 
 2. Search for "Dynamics 365".
 
@@ -403,23 +423,37 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 4. Ensure that the **Add for You** option is set to **Yes**.
 
-5. In the **Add to a team** section, search for your team's name, which will also set the second option to **Yes**.
+5. Select the **Open** menu, and then select **Add to a team.**
 
-6. Select **Install**.
+   ![Add to a team](media/add-to-team.PNG "Add to a team")
+<!--note from editor: This image link is broken in the preview. -->
 
-7. On the next page, select the channel you just created, and then select **Set up**.
+   a. Select an environment. This will be the organization name for the instance.
+   
+   b. Select **Sales Hub**.
+   
+      ![Sales Hub](media/select-sales-hub.PNG "Sales Hub")
+   <!--note from editor: This image link is broken in the preview. -->
+   
+   c. Select an opportunity, and then select **Save**.
 
-8. On the **Setup** page, set the following:
+6. In the **Add to a team** section, search for your team's name, which will also set the second option to **Yes**.
+
+7. Select **Install**.
+
+8. On the next page, select the channel you just created, and then select **Set up**.
+
+9. On the **Setup** page, set the following:
 
    - Select your Dynamics 365 organization from the **Org** list.
    
    - Select **Sales Hub** from the **App Module** list.
    
-9. Select **Select**.
+10. Select **Select**.
    
-10. From the list of Dynamics 365 entities, select an opportunity, and then select **Save**.
+11. From the list of Dynamics 365 entities, select an opportunity, and then select **Save**.
 
-For more information on setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/dynamics365/customer-engagement/basics/teams-install-app).
+For more information about setting up Teams, see [Install and set up the Dynamics 365 app for Teams](https://docs.microsoft.com/dynamics365/customer-engagement/basics/teams-install-app).
 
 ### Post notes from Dynamics 365 Product Visualize
 

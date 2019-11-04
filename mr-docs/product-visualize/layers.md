@@ -2,7 +2,7 @@
 author: erhong
 description: How to show or hide layers in a 3D model in Dynamics 365 Product Visualize 
 ms.author: erhong
-ms.date: 10/01/2019
+ms.date: 10/31/2019
 ms.service: crm-online
 ms.topic: article
 title: Show or hide layers in a 3D model in Dynamics 365 Product Visualize 
@@ -23,9 +23,9 @@ In Dynamics 365 Product Visualize, you use the Layers tool to show or hide layer
 
 ![Layers tool](media/layers-tool.JPG "Layers tool") 
 
-When you select the **Layers** tool, you'll see a list of all the layers in the model.  
+When you select the **Layers**, you'll see a list of all the layers in the model.  
 
-![Unselected](media/unselected.JPG "Unselected") ![Selected](media/selected.JPG "Selected")
+![Multiple layers](media/multiple-layers.PNG "Multiple layers") 
 
 A single layer can also act as a folder that includes other layers.
 
@@ -33,7 +33,7 @@ A single layer can also act as a folder that includes other layers.
 
 You can expand or collapse the folder by selecting the [+] or [-] button. By default, all layers in the model are visible.
 
-![Expandable folder](media/expand-folder.PNG "Expandable folder") ![Collapsible folder](media/collapse-folder.PNG "Collapsible folder")
+![Expandable folder](media/expand-folder.PNG "Expandable folder") 
 
 ## Show or hide a layer
 
@@ -43,11 +43,12 @@ You can expand or collapse the folder by selecting the [+] or [-] button. By def
 
 2. Tap the check box for the layer you want to show or hide. 
 
-   ![Layer Selected](media/selected.JPG "Select layers")
+   ![Tap check box](media/tap-check-box.PNG "Tap check box")
 
-3. Tap the **Show** or **Hide** button.
+   > [!TIP]
+   > To select all your unselected layers or vice versa, tap **Invert**.
 
-   ![Hide Layers](media/hide-layer.JPG "Hide layer")
+   ![Invert selected layers](media/invert.PNG "Invert selected layers")
 
 ## Show or hide all layers 
 
@@ -55,21 +56,15 @@ You can expand or collapse the folder by selecting the [+] or [-] button. By def
 
    ![Enter Layers Tool](media/layers-tool.JPG "Enter layers")
 
-2. Tap the check box in the toolbar above the other check boxes to select all layers for the model. 
+2. Tap the check box in the toolbar above the other check boxes to select or clear all layers for the model. 
 
-   ![All Layers Selection](media/layer-select-all.JPG "Select all layers")
-
-3. Do one of the following: 
-
-   - To show all layers, tap **Show**.
-
-   - To hide all layers, tap **Hide**. 
-
-   ![Layer Toggle](media/layer-toggle.JPG "Toggle layers")
+   ![Select or clear all](media/select-clear-all.PNG "Select or clear all")
 
 ### See also
 
 [Install, open, and sign in to the app](sign-in.md)<br>
 [Place and manipulate 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
-[Explore sample 3D models](explore-samples.md)
+[Explore sample 3D models](explore-samples.md)<br>
+[View 3D models stored on your device](browse-models.md)<br>
+[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)

@@ -1,8 +1,8 @@
 ---
 author: mamithan
-description: How to add a note (including ink and text) to a 3D model in Dynamics 365 Product Visualize
+description: How to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 10/01/2019
+ms.date: 10/30/2019
 ms.service: crm-online
 ms.topic: article
 title: Add a note to your 3D model in Dynamics 365 Product Visualize
@@ -13,9 +13,9 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-You can capture notes on specific points on a 3D model in Microsoft Dynamics 365 Product Visualize, and even add text or ink to the notes. For example, when you’re in the field with a customer, capture any required product changes directly on the model. 
+You can capture notes on specific points on a 3D model in Microsoft Dynamics 365 Product Visualize, and even add text or draw on the notes. For example, when you’re in the field with a customer, capture any required product changes directly on the model. 
 
-To add a note, you tap the location of the model where you want to add the note, and then take a picture of the model or upload a picture from your photo library to set the context. Then you can draw (ink) on the image or add comments. Notes you create are saved in a folder in the root product folder (not the folder for a particular product). The notes are organized by Opportunity ID, Product ID, and model name.
+To add a note, you tap the location of the model where you want to add the note, and then take a picture of the model or upload a picture from your photo library to set the context. Then you can draw on the image or add comments. Notes you create are saved in the Common Data Service.
 
 To review notes you have made on your model, you can tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. You can also browse through your notes by swiping the notes cards at the bottom of the screen. The corresponding spatial anchor activates on the model as you swipe. 
 
@@ -27,7 +27,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
     ![Select Notes item](media/select-notes.PNG "Select Notes item")
  
-2.	Select **Add Note**.
+2.	Select **Add**.
 
     ![Select Add Note](media/add-note.PNG "Select Add Note")
  
@@ -45,14 +45,18 @@ To review notes you have made on your model, you can tap any spatial anchor on t
    
 5.	In the **Create Note** screen:
 
-    - To ink on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
+    a. Do the following: 
     
-    - To add text, tap the box at the bottom of the screen, and then enter the text you want.
+      - To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
-       ![Add text](media/add-text.PNG "Add text")
+      - To add text, tap the box at the bottom of the screen, and then enter the text you want.
+    
+         ![Add text](media/add-text.PNG "Add text")
+      
+    b. Select **Submit** to add your note.
  
-       > [!NOTE]
-       > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered is retained, but inking is lost.    
+      > [!NOTE]
+      > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered is retained, but any drawings are lost.    
 
 ## View the notes attached to a model
 
@@ -83,7 +87,7 @@ By default, your notes are saved to the SharePoint account associated with your 
 
 To turn off sharing with the Dynamics 365 Sales timeline or Microsoft Teams channels:
 
-1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select **Edit** next to the organization you're signed in to.
+1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.
 
    ![Edit account settings](media/edit-account-settings.PNG "Edit account settings")
 
@@ -106,5 +110,7 @@ To export a note:
 
 [Install, open, and sign in to the app](sign-in.md)<br>
 [Place and manipulate 3D models](manipulate-models.md)<br>
-[View layers of your 3D model](layers.md)<br>
-[Explore sample 3D models](explore-samples.md)
+[Show or hide layers in a 3D model](layers.md)<br>
+[Explore sample 3D models](explore-samples.md)<br>
+[View 3D models stored on your device](browse-models.md)<br>
+[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)

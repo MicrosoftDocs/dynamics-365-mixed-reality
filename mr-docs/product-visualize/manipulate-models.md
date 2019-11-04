@@ -2,7 +2,7 @@
 author: mamithan
 description: How to place, resize, rotate, move, and lift 3D models in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 10/01/2019
+ms.date: 10/31/2019
 ms.service: crm-online
 ms.topic: article
 title: Place and manipulate 3D models in Dynamics 365 Product Visualize
@@ -33,16 +33,8 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
     ![Advice on finding a plane](media/find-plane.PNG "Advice on finding a plane")
 
     After you find a suitable surface, you’ll see the model-loading indicator:
-    
-    ![Model-loading screen](media/model-loading.PNG "Model-loading screen")
- 
-    When the model loads, it appears in the default size. You can view the model in this size or at life-size scale. 
-
-5.	If you want to change the size of the model to life size before you place it, select  **Life-size** (right button at the bottom of the screen). 
-
-    ![Compare sizes](media/compare-sizes.PNG "Compare sizes")
-  
-6.  To place the model, select **Place** on the right side of the screen.
+      
+5.  To place the model, select **Place** on the right side of the screen.
 
     ![Place model item](media/place-model.PNG "Place model item")
 
@@ -58,7 +50,7 @@ After placing a model, if you want to view a different model, you can switch mod
 
     ![Models screen](media/3D-models.PNG "Models screen")
  
-3.	Switch between the default size or life size as needed (you can’t change the scale until the model is loaded), and then place the model as described in the previous procedure.  
+3.	Place the model as described in the previous procedure.  
 
 ## Move, rotate, or change the size of your model
 
@@ -68,8 +60,7 @@ Chances are, you’ll want to move, rotate, or change the size of your model in 
 
 ### Change the size of your model
 
-Spread or pinch two fingers on the screen to change the size of the model. You can also double-tap to switch between the default size and life size.
-When you change the size of your model, you can switch between the default size and life size. 
+Spread or pinch two fingers on the screen to change the size of the model. 
 
 ![Resize item](media/resize.PNG "Resize item")
 
@@ -95,6 +86,8 @@ To move the model up or down, drag two fingers up or down on the screen.
 
 [Install, open, and sign in to the app](sign-in.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
-[View layers of your 3D model](layers.md)<br>
+[Show or hide a layer in 3D model](layers.md)<br>
 [Explore sample 3D models](add-model.md)<br>
+[View 3D models stored on your device](browse-models.md)<br>
+[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)
 
