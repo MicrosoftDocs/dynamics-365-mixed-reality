@@ -244,7 +244,9 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
    ![Add user](media/add-additional-user.png "Add user") 
 
-4. Fill in the information for the new user. Select **Next** when you're done.
+4. In the **Set up the basics** screen, fill in the information for the new user. Select **Next** when you're done.
+
+   ![Set up the basics screen](media/setup-basics.png "Set up the basics screen")
 
    > [!NOTE]
    > By default, an auto-generated password will be generated for the user. The user is required to change the password the first time they sign in with this account. If you want to change the password at this time to a permanent password instead of using the auto-generated password, change **Auto-generate password** to **Let me create the password**, and then clear the **Require this user to change their password when they first sign in** check box. 
@@ -255,11 +257,17 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
      Select **Next** when you're done.
    
-7. In the **Optional settings** screen, leave the **User (no administrator access)** box selected unless this new user will be an administrator. In that case, select the **Global administrator** check box. To fill out the new user's profile info, expand the **Profile info**. Select **Next** when you're done.
+7. In the **Optional settings** screen, leave the **User (no administrator access)** box selected unless this new user will be an administrator. In that case, select the **Global administrator** check box. 
 
    ![Optional user settings](media/user-optional-settings.png "Optional user settings") 
    
+   To fill out the new user's profile info, expand the **Profile info**. Select **Next** when you're done.
+   
+   ![Expanded Profile info](media/expanded-profile-info.png "Expanded Profile info")
+   
 8. Review the info in this last page. To make changes, select the **Edit** button below each section. When you're done, select **Finish Adding**.
+
+   ![Review page with Edit buttons](media/review-page.png "Review page with Edit buttons")
 
 9. If you selected **Generate password** in step 4, make note of the password. The user will need this password to sign in.
 
