@@ -242,7 +242,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
 3. In the **Active users** screen, select **Add a user**.
 
-   ![Add user](media/add-additional-user.png "Add user") 
+   ![Add a user command](media/add-additional-user.png "Add a user command") 
 
 4. In the **Set up the basics** screen, fill in the information for the new user. Select **Next** when you're done.
 
@@ -253,13 +253,13 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
  
 5. Select the location for this user, and then under **Licenses**, select the check box next to **Dynamics 365 Guides**. 
 
-    ![Assign license](media/assign-license-user.png "Assign license") 
+    ![Dynamics 365 Guides check box](media/assign-license-user.png "Dynamics 365 Guides check box") 
 
      Select **Next** when you're done.
    
 7. In the **Optional settings** screen, leave the **User (no administrator access)** box selected unless this new user will be an administrator. In that case, select the **Global administrator** check box. 
 
-   ![Optional user settings](media/user-optional-settings.png "Optional user settings") 
+   ![Optional settings screen](media/user-optional-settings.png "Optional settings screen") 
    
 8. To fill out the new user's profile info, scroll down, and then expand **Profile info**. Select **Next** when you're done.
    
@@ -271,7 +271,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
 9. If you selected **Auto-generate password** in step 4, make note of the password. The user will need this password to sign in.
 
-   ![Review user settings](media/review-user-settings.png "Review user settings") 
+   ![Auto-generated password](media/review-user-settings.png "Auto-generated password") 
    
 10. Select **Close**.
 
