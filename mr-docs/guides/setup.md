@@ -240,7 +240,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
 2. Select **Users**, and then select **Active users**. 
 
-3. In the **Active Users** screen, select **Add a user**.
+3. In the **Active users** screen, select **Add a user**.
 
    ![Add user](media/add-additional-user.png "Add user") 
 
