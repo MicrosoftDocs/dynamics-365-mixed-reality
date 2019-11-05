@@ -42,15 +42,15 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
 1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home) and make sure that the slider for **The new admin center** option in the top right of the page is set to **on**.
 
-    ![The new admin center slider](media/new-admin-center-slider.png "The new admin center slider")
+    ![The new admin center slider](media/new-admin-center-slider.PNG "The new admin center slider")
 
 2.  Make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license is assigned to a user. To do this, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
-    ![Users > Active Users page](media/users-active-users.png "Users > Active Users page")
+    ![Users > Active Users page](media/users-active-users.PNG "Users > Active Users page")
     
 3.  Select **Manage product licenses**.
 
-     ![Manage product licenses](media/manage-product-licenses.png "Manage product licenses")
+     ![Manage product licenses](media/manage-product-licenses.PNG "Manage product licenses")
 
 4.  On the **Product licenses** page, select the check box for **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]**.
   
