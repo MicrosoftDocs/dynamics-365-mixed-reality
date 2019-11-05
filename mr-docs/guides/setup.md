@@ -129,7 +129,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     The **Status** field to the left of the yellow message will say **Installation pending** while the solution is being installed. When the solution has finished installing, the **Status** field changes to **Installed**.
     
     > [!NOTE]
-    > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing the page. If the installation fails, you'll see this message: Solution installation failed. Please try again later. If the problem persists, please contact customer support.<br>![Failed installation](media/failed-install.PNG "Failed installation")
+    > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing the page. If the installation fails, you'll see this message: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."<br>![Failed installation](media/failed-install.PNG "Failed installation")
 
 ### Set up user roles for the solution<a name="user-roles"></a>
 
