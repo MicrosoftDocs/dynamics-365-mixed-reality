@@ -155,14 +155,12 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     - Common Data Service User
     
-    - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Author
-    
-    - System Administrator 
-       
+    - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Author    
+         
       ![Manage Roles dialog box filled in](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
       
       > [!NOTE]
-      > Select the System Administrator role if this is the main user/admin. Otherwise, do not select that role. 
+      > Also select the System Administrator role if this is the main user/admin. Otherwise, do not select that role. 
      
 ## Step 3: Download and install the apps
 
