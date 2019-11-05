@@ -46,13 +46,13 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
 2.  Make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license is assigned to a user. To do this, in the left pane, select **Users**, select **Active users**, and then select the check box for the user you want to add. 
 
-    ![Users > Active Users screen](media/users-active-users.png "Users > Active Users screen")
+    ![Users > Active Users page](media/users-active-users.png "Users > Active Users page")
     
 3.  Select **Manage product licenses**.
 
      ![Manage product licenses](media/manage-product-licenses.png "Manage product licenses")
 
-4.  In the **Product licenses** screen, select the check box for **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]**.
+4.  On the **Product licenses** page, select the check box for **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]**.
   
     ![Add user license](media/guides-license.PNG "Add user license") 
  
@@ -80,9 +80,9 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
   
 6.	Select **Create database.**
 
-The following screen appears while the database is being created and provisioned:
+    The following page appears while the database is being created and provisioned:
     
-   ![Provisioning database screen](media/provisioning-database.PNG "Provisioning database screen")
+   ![Provisioning database page](media/provisioning-database.PNG "Provisioning database page")
  
    > [!NOTE]
    > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
@@ -122,14 +122,14 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     
 3. In the **Terms of Service** dialog box, review the terms, and then select **Install** when you're ready.
 
-    In the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center screen, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
+    On the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center page, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
     
      ![Installing message](media/installing-solution.png "Installing message")
      
     The **Status** field to the left of the yellow message will say **Installation pending** while the solution is being installed. When the solution has finished installing, the **Status** field changes to **Installed**.
     
     > [!NOTE]
-    > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing your screen. If the installation fails, you'll see this message:<br>![Failed installation](media/failed-install.PNG "Failed installation")
+    > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing the page. If the installation fails, you'll see this message:<br>![Failed installation](media/failed-install.PNG "Failed installation")
 
 ### Set up user roles for the solution<a name="user-roles"></a>
 
@@ -140,12 +140,12 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 2. On the **Environments** page, select the environment you created, and then select the **Settings** button in the title bar. 
 
-3. In the **Settings** page, under **Users + permissions**, select **Users**.
+3. On the **Settings** page, under **Users + permissions**, select **Users**.
 
     ![Users and permissions](media/settings-page.png "Users and permissions")
     
     > [!IMPORTANT]
-    > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the Guides Hub tile in the preceding screen, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
+    > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the Guides Hub tile on the preceding page, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
  
 4.	On the **Enabled Users** page, select the user, and then select **Manage Roles**. 
 
@@ -168,7 +168,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applications: 
 
-- Desktop authoring application
+- PC authoring application
 
 - [!include[pn-hololens](../includes/pn-hololens.md)] application, which has an Author mode and an Operator mode
 
@@ -240,13 +240,13 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
 2. In the left pane, select **Users**, and then select **Active users**. 
 
-3. In the **Active users** screen, select **Add a user**.
+3. On the **Active users** page, select **Add a user**.
 
    ![Add a user command](media/add-additional-user.png "Add a user command") 
 
-4. In the **Set up the basics** screen, fill in the information for the new user. Select **Next** when you're done.
+4. On the **Set up the basics** page, fill in the information for the new user. Select **Next** when you're done.
 
-   ![Set up the basics screen](media/setup-basics.png "Set up the basics screen")
+   ![Set up the basics page](media/setup-basics.png "Set up the basics page")
 
    > [!NOTE]
    > By default, an auto-generated password will be generated for the user. The user is required to change the password the first time they sign in with this account. If you want to change the password to a permanent password instead of using the auto-generated password, select the **Let me create the password** option, and then clear the **Require this user to change their password when they first sign in** check box. 
@@ -257,9 +257,9 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
      Select **Next** when you're done.
    
-7. In the **Optional settings** screen, leave the **User (no administrator access)** box selected unless this new user will be an administrator. In that case, select the **Global administrator** check box. 
+7. On the **Optional settings** page, leave the **User (no administrator access)** box selected unless this new user will be an administrator. In that case, select the **Global administrator** check box. 
 
-   ![Optional settings screen](media/user-optional-settings.png "Optional settings screen") 
+   ![Optional settings page](media/user-optional-settings.png "Optional settings page") 
    
 8. To fill out the new user's profile info, scroll down, and then expand **Profile info**. Select **Next** when you're done.
    
