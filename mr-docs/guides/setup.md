@@ -82,10 +82,10 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 
     The following page appears while the database is being created and provisioned:
     
-   ![Provisioning database page](media/provisioning-database.PNG "Provisioning database page")
+     ![Provisioning database page](media/provisioning-database.PNG "Provisioning database page")
  
-   > [!NOTE]
-   > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
+     > [!NOTE]
+     > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
 
 7.	After the database has been successfully created, return to the **Environments** page.
 
