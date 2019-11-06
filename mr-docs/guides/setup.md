@@ -15,7 +15,7 @@ We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)
 
 To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
 
-1. Buy a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription or sign up for a free 30-day trial subscription.
+1. Buy a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription or sign up for a free, 30-day trial subscription.
 
 2. Create a Common Data Service environment (if you don't already have one) and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the environment (instance).
 
@@ -31,16 +31,16 @@ This topic provides step-by-step instructions for all of the above.
 
 There are multiple ways to get a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription:
 
-- If you have a Microsoft work account, you can go directly to the Microsoft 365 Admin Center and search for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription there.
+- If you have a Microsoft work account, you can go directly to the Microsoft 365 admin center and search for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription there.
 
-- Go to [the Getting started page](https://aka.ms/GetGuides). You can use this page to buy a subscription or to sign up for a free 30-day trial subscription. If you sign up for a trial, you can use credentials for an existing Dynamics 365 account or you can create new credentials. 
+- Go to the [Getting started](https://aka.ms/GetGuides) page. You can use this page to buy a subscription or to sign up for a free, 30-day trial subscription. If you sign up for a trial, you can use credentials for an existing Dynamics 365 account or you can create new credentials. 
 
     > [!IMPORTANT] 
-    > If you don't have administrator permissions associated with your work account, you won't be able to complete Step 2 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] by following the steps on [the Getting started page](https://aka.ms/GetGuides). In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*.
+    > If you don't have administrator permissions associated with your work account, you won't be able to complete step 2 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] by following the steps on the [Getting started](https://aka.ms/GetGuides) page. In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*
     
 After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to user accounts. To do this:
 
-1. Go to the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home) and make sure that the slider for **The new admin center** option in the top right of the page is set to **on**.
+1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home) and make sure that the slider for **The new admin center** option in the top right of the page is set to **on**.
 
     ![The new admin center slider](media/new-admin-center-slider.PNG "The new admin center slider")
 
@@ -60,9 +60,9 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
 After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you’ll need to create a database on a default environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Change maxiumum upload size](#upload).
     
-1.  Go to the [Power Platform Admin Center](https://admin.powerplatform.microsoft.com/environments) and sign in with the admin user credentials (where the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] licenses are assigned).
+1.  Go to the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the admin user credentials (where the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] licenses are assigned).
 
-2.	In the Power Platform Admin Center, select **Environments**.
+2.	In the Power Platform Admin center, select **Environments**.
 
     ![Power Platform Environments](media/powerapps-environments.PNG "Power Platform Environments")
     
@@ -74,7 +74,7 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 
     ![Create database](media/powerapps-create-database.PNG "Create database")
     
-5. In the next dialog box, choose your currency and language.
+5. In the **Create a database for this environment** dialog box, choose your currency and language.
 
     ![Currency and language settings](media/currency-language-settings.PNG "Currency and language settings")
   
@@ -87,13 +87,13 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
      > [!NOTE]
      > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
 
-7.	After the database has been successfully created, return to the **Environments** page.
+7.	After you have successfully created the database, return to the **Environments** page.
 
 ### Change maximum upload file size<a name="upload"></a>
 
 In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB).
 
-1. On the Power Platform Admin Center Environments page, select the newly created environment, and then select the **Settings** button in the title bar. 
+1. On the Power Platform Admin center **Environments** page, select the newly created environment, and then select the **Settings** button in the title bar. 
 
     ![Select environment and Settings](media/admin-center-settings.png "Select environment and settings")
    
@@ -109,7 +109,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 ### Install and configure the Dynamics 365 Guides solution<a name="configure"></a>
 
-1. In the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select the **More environment actions** (three dots) button next to the configured environment, and then select **Manage Solutions**.
+1. In the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select the **More environment actions** (...) button next to the configured environment, and then select **Manage Solutions**.
 
     ![Manage solutions](media/manage-solutions.PNG "Manage solutions")
      
@@ -120,13 +120,13 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     ![Install button](media/solutions-install-button.png "Install button")
     
-3. In the **Terms of Service** dialog box, review the terms, and then select **Install** when you're ready.
+3. In the **Terms of Service** dialog box, review the terms, and then select **Install**.
 
-    On the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center page, you'll see the following message highlighted in yellow showing that the solution is about to be installed:
-    
+    On the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center page, you'll see the following message highlighted in yellow showing that the solution is about to be installed: "Please wait while installation starts." 
+        
      ![Installing message](media/installing-solution.png "Installing message")
      
-    The **Status** field to the left of the yellow message will say **Installation pending** while the solution is being installed. When the solution has finished installing, the **Status** field changes to **Installed**.
+    The **Status** field to the left of the installation message will say **Installation pending** while the solution is being installed. When the solution has finished installing, the **Status** field changes to **Installed**.
     
     > [!NOTE]
     > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing the page. If the installation fails, you'll see this message: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."<br>![Failed installation](media/failed-install.PNG "Failed installation")
@@ -153,8 +153,8 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
  
 5.	In the **Manage User Roles** dialog box, select the following roles: 
 
-    - Common Data Service User
-    
+    - Common Data Service User    
+
     - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Author    
          
       ![Manage Roles dialog box filled in](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
@@ -191,14 +191,14 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 
 #### Install the HoloLens app
 
-1.	Make sure [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.17134 or later. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
+1.	Make sure [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.17134 or later. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available. For instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates).
 
 2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]”.
 
-3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
+3.	To download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application, select **Install**.
 
 > [!NOTE] 
-> For instructions on opening and signing in to the app, if you're an author, see the [HoloLens authoring topic](hololens-authoring.md). Operators can use the [Dynamics 365 Guides Operator's manual](operator-guide.md).
+> If you're an author, for instructions on opening and signing in to the app, see the [HoloLens authoring topic](hololens-authoring.md). Operators can use the [Dynamics 365 Guides Operator's manual](operator-guide.md).
 
 ### Distribute the apps through Microsoft Store for Business
 
@@ -214,9 +214,9 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
     
     - [Mobile device management](https://docs.microsoft.com/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
-For information on opening and signing in to the PC application after installing it, see the [authoring guide](authoring-overview.md).
+For information about opening and signing in to the PC application after installing it, see the [authoring guide](authoring-overview.md).
 
-For information on opening and signing in to the [!include[pn-hololens](../includes/pn-hololens.md)] application, go to one of the following, depending on whether you're an author or an operator:
+For information about opening and signing in to the [!include[pn-hololens](../includes/pn-hololens.md)] application, go to one of the following, depending on whether you're an author or an operator:
 
    - [HoloLens authoring](hololens-authoring.md)
    
@@ -224,7 +224,7 @@ For information on opening and signing in to the [!include[pn-hololens](../inclu
 
 ## Step 4: Set up Guides Analytics reports 
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes [!include[pn-power-bi](../includes/pn-power-bi.md)] reports (called Guides Analytics) that you can use to analyze [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] processes. Follow the instructions for how to [Open Guides Analytics](https://docs.microsoft.com/dynamics365/mixed-reality/guides/analytics-guide#open-guides-analytics) using the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/).
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes [!include[pn-power-bi](../includes/pn-power-bi.md)] reports (called Guides Analytics) that you can use to analyze [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] processes. Follow the instructions for how to [Open Guides Analytics](https://docs.microsoft.com/dynamics365/mixed-reality/guides/analytics-guide#open-guides-analytics) using the free [Power BI Desktop application](https://powerbi.microsoft.com/get-started/).
 
 If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, you can share your Guides Analytics [!include[pn-power-bi](../includes/pn-power-bi.md)] reports within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the report through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service web interface accessible at [https://powerbi.microsoft.com](https://powerbi.microsoft.com). To learn about [!include[pn-power-bi](../includes/pn-power-bi.md)] cloud collaboration and sharing and to sign up for a free trial of [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro, visit [Getting Started with Power BI Desktop](https://powerbi.microsoft.com/get-started/) and [Ways to share your work in Power BI](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports).
 
@@ -249,7 +249,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
    > [!NOTE]
    > By default, an auto-generated password will be generated for the user. The user is required to change the password the first time they sign in with this account. If you want to change the password to a permanent password instead of using the auto-generated password, select the **Let me create the password** option, and then clear the **Require this user to change their password when they first sign in** check box. 
  
-5. Select the location for this user, and then under **Licenses**, select the check box next to **Dynamics 365 Guides**. 
+5. Select the location for this user, and then under **Licenses**, select the **Dynamics 365 Guides** check box. 
 
     ![Dynamics 365 Guides check box](media/assign-license-user.png "Dynamics 365 Guides check box") 
 
@@ -263,7 +263,7 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
    
    ![Expanded Profile info](media/expanded-profile-info.png "Expanded Profile info")
    
-8. Review the info in the last page. To make changes, select the **Edit** button below each section. Select **Finish Adding** when you're done.
+8. Review the information on the last page. To make changes, select the **Edit** button below each section. Select **Finish Adding** when you're done.
 
    ![Review page with Edit buttons](media/review-page.png "Review page with Edit buttons")
 
