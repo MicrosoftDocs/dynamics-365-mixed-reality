@@ -195,7 +195,6 @@ Here’s a description of the buttons and other UI elements in the Step card:
 
 |Number|Button/Example|Name|Description|
 |---|--|------------------|------------------------------------------------------------------------------------|
-
 |1|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
 |2|![Follow mode button](media/follow-button.png "Follow mode button")|Follow mode|Have the Step card follow you around or lock it to a location.<br><br>If you turn off Follow mode, the Step card stays where it is. You can grab the card at any time by using the navigation bar to move it wherever you like. For more information, see the **Follow and pinning** section later in this topic.|
 |3|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor button|Re-anchor (realign) the guide.<br><br>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking, which causes holograms to be misaligned. To fix this, you need to re-anchor the guide by gazing at a printed anchor or digital anchor again. For more information, see “Anchor your guide” earlier in this topic.|
