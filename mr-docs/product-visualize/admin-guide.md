@@ -220,7 +220,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
 4. Select **Save**, but don't close the product.   
 
-5. Select the **Additional Details** tab, and then in the **Price List Items** section, select **New Price List Item**.
+5. Select the **Additional Details** tab, and then select **New Price List Item**.
 
     ![Price List field](media/new-price-list-item.PNG "Price List field")
 
