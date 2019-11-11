@@ -214,7 +214,7 @@ This section provides step-by-step instructions for creating a new price list, p
    
    - **Decimals Supported**. Set this field to **2**.
 
-   ![Dialog box with values filled in](media/finished-dialog.PNG "Dialog box with values filled in") 
+      ![Dialog box with values filled in](media/finished-dialog.PNG "Dialog box with values filled in") 
 
 3. Set the **Default Price List** field to **Default Price List**.
 
