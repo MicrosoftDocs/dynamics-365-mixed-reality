@@ -226,7 +226,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
 6. Assign the price list created earlier in the **Price List** field.
    
-    ![Price List field](media/additional-details.PNG "Price List field")
+    ![Price List field](media/price-list-field.PNG "Price List field")
 
 7. Switch to the **Pricing information** tab, and then fill in the **Amount** field with the price for your product.
 
