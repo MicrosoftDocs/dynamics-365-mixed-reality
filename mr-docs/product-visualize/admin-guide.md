@@ -200,47 +200,47 @@ This section provides step-by-step instructions for creating a new price list, p
 
    ![Products item in left pane](media/select-products.PNG "Products item in left pane")
 
-2. Add values for the **Name** and **Product ID** fields (use any values that you want).
+2. In the **New Product** form, enter the following values:
 
-   ![Name and Product ID fields](media/name-product-id.PNG "Name and Product ID fields")
+   - **Name**. Use any value you want.
+   
+   - **Product ID**. Use any value you want.
 
-3. Set the **Parent** field to **Product Samples** (the product family created in the previous procedure).
-
-4. Set the **Unit Group** field to **Default Unit**, and set the **Default Unit** field to **Primary Unit**.
-
-5. Set **Decimals Supported** to **2**.
+   - **Parent**. Set this field to **Product Samples** (the product family created in the previous procedure).
+   
+   - **Unit Group**. Set this field to **Default Unit**.
+   
+   - **Default Unit**. Set this field to **Primary Unit**.
+   
+   - **Decimals Supported**. Set this field to **2**.
 
    ![Dialog box with values filled in](media/finished-dialog.PNG "Dialog box with values filled in") 
 
-6. Set the **Default Price List** field to **Default Price List**.
+3. Set the **Default Price List** field to **Default Price List**.
 
-7. Select **Save**, but don't close the product.   
+4. Select **Save**, but don't close the product.   
 
-8. Select the **Additional Details** tab.
+5. Select the **Additional Details** tab.
 
    ![Additional Details tab](media/additional-details.PNG "Additional Details tab")
 
-9. In the **Price List Items** section, select **Add New Price List Item**.
+6. In the **Price List Items** section, select **Add New Price List Item**.
 
-10. Assign the price list created earlier in the **Price List** field.
+7. Assign the price list created earlier in the **Price List** field.
    
     ![Price List field](media/additional-details.PNG "Price List field")
 
-11. Switch to the **Pricing information** tab, and then fill in the **Amount** field with the price for your product.
+8. Switch to the **Pricing information** tab, and then fill in the **Amount** field with the price for your product.
 
     ![Pricing information tab](media/pricing-information.PNG "Pricing information tab")
 
-12. Select **Save**.
+9. Select **Save**.
 
-13. In the left navigation, select the **Products** tab.
+10. In the left navigation, select the **Products** tab.
 
-14. Select the newly created product by selecting the check box to the left of the product name.
+11. Select the newly created product by selecting the check box to the left of the product name, and then select **Publish**.
 
     ![Product selected](media/product-selected.PNG "Product selected")
-
-15. Select **Publish**.
-
-    ![Publish product](media/publish-product.PNG "Publish product")
 
 ## Add models
 
