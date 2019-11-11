@@ -200,7 +200,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
    ![Products item in left pane](media/select-products.PNG "Products item in left pane")
 
-2. In the **New Product** form, enter the following values:
+2. In the **Product** form, enter the following values:
 
    - **Name**. Use any value you want.
    
