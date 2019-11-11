@@ -1,7 +1,7 @@
 ---
 author: rroesler
 description: Admin tasks for Dynamics 365 Product Visualize, including adding groups, products, opportunities, and the Product Visualize control
-ms.date: 10/31/2019
+ms.date: 11/12/2019
 ms.author: rroesler
 ms.service: crm-online
 ms.topic: article
@@ -193,18 +193,18 @@ This section provides step-by-step instructions for creating a new price list, p
 5. Select the check box for the product family, and then select **Publish** to finish creating the product family.
 
    ![Publish product family](media/publish-product-family.png "Publish product family")
-   <!--note from editor: This image link is broken in the preview. -->
-
-
+  
 ### Create a product
 
-1. In the left pane, select **Products** to return to the product list. 
-<!--note from editor: It's better to call this "left pane" what it is. Ditto for steps 14 and 15 below. -->
+1. In the left pane, select **Products** to return to the product list.
 
+   ![Products item in left pane](media/select-products.PNG "Products item in left pane")
 
 2. Select **Add Product** to create a new product.
 
 3. Add values for **Name** and **Product ID** (use any values that you want).
+
+   ![Name and Product ID fields](media/name-productID.PNG "Name and Product ID fields")
 
 4. Set the **Parent** field to **Product Samples** (the product family created in the previous procedure).
 
@@ -212,17 +212,25 @@ This section provides step-by-step instructions for creating a new price list, p
 
 6. Set **Decimals Supported** to **2**.
 
-7. Select **Save**, but don't close the product.
+   ![Dialog box with all values filled in](media/finished-dialog.PNG "Dialog box with all values filled in")
+
+7. Select **Save**, but don't close the product.   
 
 8. Set the **Default Price List** field to **Default Price List**.
 
-9. Select the **Additional Details** tab, directly above the **Name** field.
+9. Select the **Additional Details** tab.
+
+   ![Additional Details tab](media/additional-details.PNG "Additional Details tab")
 
 10. In the **Price List Items** section, select **Add New Price List Item**.
 
 11. Assign the price list created earlier in the **Price List** field.
+   
+    ![Price List field](media/additional-details.PNG "Price List field")
 
-12. Switch to the **Pricing Information** tab, and then fill in the **Amount** field with the price for your product.
+12. Switch to the **Pricing information** tab, and then fill in the **Amount** field with the price for your product.
+
+    ![Pricing information tab](media/pricing-information.PNG "Pricing information tab")
 
 13. Select **Save**.
 
@@ -230,10 +238,11 @@ This section provides step-by-step instructions for creating a new price list, p
 
 15. Select the newly created product by selecting the check box to the left of the product name.
 
-    ![Publish product](media/publish-product.PNG "Publish product")
-<!--note from editor: This image link is broken in the preview. Otherwise I'd have added in the check box text above, as we need to be more descriptive. -->
+    ![Product selected](media/product-selected.PNG "Product selected")
 
 16. Select **Publish**.
+
+    ![Publish product](media/publish-product.PNG "Publish product")
 
 ## Add models
 
