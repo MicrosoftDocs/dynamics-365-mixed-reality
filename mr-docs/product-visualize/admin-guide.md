@@ -234,9 +234,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
 8. Select **Save**.
 
-9. In the left navigation, select the **Products** tab.
-
-10. Select the newly created product by selecting the check box to the left of the product name, and then select **Publish**.
+9. In the left pane, select the **Products** tab, select the newly created product by selecting the check box to the left of the product name, and then select **Publish**.
 
     ![Product selected](media/product-selected.PNG "Product selected")
 
