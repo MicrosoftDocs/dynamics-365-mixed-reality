@@ -1,7 +1,7 @@
 ---
-author: bencorn
+author: xonatia
 description: Learn how to buy Dynamics 365 Remote Assist, add users to the subscription, and deploy the app to users in several different ways
-ms.author: bencorn
+ms.author: xolee
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
