@@ -224,7 +224,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
     ![Price List field](media/new-price-list-item.PNG "Price List field")
 
-6. Assign the price list created earlier in the **Price List** field.
+6. In the **Price List** field, assign the price list created earlier.
    
     ![Price List field](media/price-list-field.PNG "Price List field")
 
