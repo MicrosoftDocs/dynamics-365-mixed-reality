@@ -200,7 +200,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
    ![Products item in left pane](media/select-products.PNG "Products item in left pane")
 
-2. Add values for **Name** and **Product ID** (use any values that you want).
+2. Add values for **Name** and **Product ID** fields (use any values that you want).
 
    ![Name and Product ID fields](media/name-product-id.PNG "Name and Product ID fields")
 
