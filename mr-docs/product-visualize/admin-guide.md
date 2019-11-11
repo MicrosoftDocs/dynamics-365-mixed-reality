@@ -204,7 +204,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
 3. Add values for **Name** and **Product ID** (use any values that you want).
 
-   ![Name and Product ID fields](media/name-product-ID.PNG "Name and Product ID fields")
+   ![Name and Product ID fields](media/name-product-id.PNG "Name and Product ID fields")
 
 4. Set the **Parent** field to **Product Samples** (the product family created in the previous procedure).
 
