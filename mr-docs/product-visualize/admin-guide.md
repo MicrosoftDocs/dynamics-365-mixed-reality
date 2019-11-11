@@ -220,25 +220,23 @@ This section provides step-by-step instructions for creating a new price list, p
 
 4. Select **Save**, but don't close the product.   
 
-5. Select the **Additional Details** tab.
+5. Select the **Additional Details** tab, and then in the **Price List Items** section, select **New Price List Item**.
 
-   ![Additional Details tab](media/additional-details.PNG "Additional Details tab")
+    ![Price List field](media/new-price-list-item.PNG "Price List field")
 
-6. In the **Price List Items** section, select **New Price List Item**.
-
-7. Assign the price list created earlier in the **Price List** field.
+6. Assign the price list created earlier in the **Price List** field.
    
     ![Price List field](media/additional-details.PNG "Price List field")
 
-8. Switch to the **Pricing information** tab, and then fill in the **Amount** field with the price for your product.
+7. Switch to the **Pricing information** tab, and then fill in the **Amount** field with the price for your product.
 
     ![Pricing information tab](media/pricing-information.PNG "Pricing information tab")
 
-9. Select **Save**.
+8. Select **Save**.
 
-10. In the left navigation, select the **Products** tab.
+9. In the left navigation, select the **Products** tab.
 
-11. Select the newly created product by selecting the check box to the left of the product name, and then select **Publish**.
+10. Select the newly created product by selecting the check box to the left of the product name, and then select **Publish**.
 
     ![Product selected](media/product-selected.PNG "Product selected")
 
