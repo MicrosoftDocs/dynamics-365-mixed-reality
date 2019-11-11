@@ -210,11 +210,11 @@ This section provides step-by-step instructions for creating a new price list, p
 
 5. Set **Decimals Supported** to **2**.
 
-   ![Dialog box with all values filled in](media/finished-dialog.PNG "Dialog box with all values filled in")
+   ![Dialog box with values filled in](media/finished-dialog.PNG "Dialog box with values filled in") 
 
-6. Select **Save**, but don't close the product.   
+6. Set the **Default Price List** field to **Default Price List**.
 
-7. Set the **Default Price List** field to **Default Price List**.
+7. Select **Save**, but don't close the product.   
 
 8. Select the **Additional Details** tab.
 
