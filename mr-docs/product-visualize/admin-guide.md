@@ -224,7 +224,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
    ![Additional Details tab](media/additional-details.PNG "Additional Details tab")
 
-6. In the **Price List Items** section, select **Add New Price List Item**.
+6. In the **Price List Items** section, select **New Price List Item**.
 
 7. Assign the price list created earlier in the **Price List** field.
    
