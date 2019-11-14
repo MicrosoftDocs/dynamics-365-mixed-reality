@@ -15,6 +15,11 @@ ms.reviewer: v-brycho
 
 After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 Product Visualize, you need to:
 
+
+
+<!--from editor: If the following actions should be done in order, it would be better to use a numbered list. -->
+
+
 - Create an Office 365 user group, and share your SharePoint site with that group.
 
 - Add users and assign security roles.
@@ -33,7 +38,7 @@ The following topics provide step-by-step procedures for all of the above.
 
 ## Set up a user group
 
-You can use Office 365 Groups to choose a set of people to collaborate with and to set up a collection of shared resources. Providing access to the group saves time because that way, you don't have to provide individual SharePoint permissions. The group needs to have read/write permissions to the SharePoint site to make full use of Dynamics 365 Product Visualize.
+You can use Office 365 Groups to choose a set of people to collaborate with and to set up a collection of shared resources. Providing access to the group saves time because that way, you don't have to provide individual SharePoint permissions. The group needs to have read/write permission to the SharePoint site to make full use of Dynamics 365 Product Visualize.
 
 ### Create a user group
 
@@ -95,21 +100,21 @@ New users must first be added in Azure Active Directory, which assigns them a us
     
     - **Username**
     
-    - Click **Next**.
+    Select **Next**.
 	
 5. Under the **Licenses** field, ensure that _Assign a user a product license_ is selected and the user is assigned a _Dynamics 365 Customer Engagement Plan_ license, and then select **Next**.
   
 6. Under **Roles**, assign the user a role based on the resources they need to access, and then select **Next**.
 
-    * **User** - This user won't have permissions to the Microsoft 365 admin center or any admin tasks.
+    * **User** – This user won't have permissions to the Microsoft 365 admin center or any admin tasks.
     
-    * **Global Administrator** - This user will have access to all features in the admin center and can perform all tasks in the admin center.
+    * **Global Administrator** – This user will have access to all features in the admin center and can perform all tasks in the admin center.
     
-    * **Custom Administrator** - You can assign this user one or many roles so they can manage specific areas of Office 365.
+    * **Custom Administrator** – You can assign this user one or many roles so they can manage specific areas of Office 365.
 
 7. On the confirmation page, make note of the username and password before selecting **Finish Adding**, and then select **Close**.
 
-8. Select the user you just created, in the **Account** tab under **Groups** click **Manage Groups**.
+8. Select the user you just created, and then in the **Account** tab under **Groups** select **Manage Groups**.
 
    ![Group memberships](media/group-memberships.PNG "Group memberships")
 
@@ -117,8 +122,8 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
 10. Select **Close** to finish adding the user.
 
-    >[!NOTE]
-    >It can take some time for users added to your organization to show up in Dynamics 365, so it's a good idea to add all the users to your organization before continuing.
+    > [!NOTE]
+    > It can take some time for users added to your organization to show up in Dynamics 365, so it's a good idea to add all the users to your organization before continuing.
 
 ### Assign a security role to the user
 
@@ -140,15 +145,15 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
 6. Select the name of the user you created.
 
-7. On the **Users** page, from the menu bar near the top of the page, select **Approve Email** so the user is synced by the server.
+7. On the **Users** page, from the menu bar near the top of the page, select **Approve email** so the user is synced by the server.
 
-   ![Approve Email](media/user-actions-email.PNG "Approve Email")
+   ![Approve email](media/user-actions-email.PNG "Approve Email")
 
 8. On the menu bar, select **Manage roles**.
 
    ![Manage roles](media/user-actions-roles.PNG "Manage roles")
 
-9. Select the **"Sales, Enterprise app access"** and **"Salesperson"** options from the list, and then select **OK**.
+9. Select the **Sales, Enterprise app access** and **Salesperson** options from the list, and then select **OK**.
 
    ![Sales role](media/manage-roles.PNG "Sales role")
 
@@ -267,7 +272,7 @@ This section provides step-by-step instructions for adding a model and thumbnail
     > [!NOTE]
     > SharePoint folders are created when you first visit the Documents folder using a Dynamics 365 app. If the folder for a product doesn't exist yet, return to the Sales Hub and open the product's document location from there. After it's created, you can access it through SharePoint.
 
-6. Optional: SharePoint automatically provides a thumbnail for Dynamics 365 Product Visualize. However, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb"
+6. Optional: SharePoint automatically provides a thumbnail for Dynamics 365 Product Visualize. However, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb".
 
 ## Add opportunities
 
@@ -298,8 +303,12 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 9. Select **Add New Opportunity**. 
 
+
+   <!--from editor: Based on the screenshot, should the above say "Add New Opportunity Product"? -->
+
+
    ![Add New Opportunity Product](media/new-opportunity-product.PNG "Add New Opportunity Product")
-   <!--note from editor: This image link is broken in the preview. -->
+   
 
 10. In the **Existing Product** field, select one of the products you created.
 
@@ -307,7 +316,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 12. Select **Save and Close**.
 
-## Install the Dynamics 365 Product Visualize Solution
+## Install the Dynamics 365 Product Visualize solution
 
 The Dynamics 365 Product Visualize solution is a package that customizes your Dynamics 365 installation in order to support Dynamics 365 Product Visualize.
 
@@ -321,7 +330,7 @@ The Dynamics 365 Product Visualize solution is a package that customizes your Dy
 
 3. In the **Settings** drop-down list at the top of the page, select **Solutions**.
 
-5. Import the solution by selecting the **Import** button and selecting the solution (.zip file) you downloaded.
+5. Import the solution by selecting the **Import** button and then selecting the solution (.zip file) you downloaded.
 
    ![Import solution](media/import-solution.PNG "Import solution")
  
@@ -370,7 +379,7 @@ There are numerous ways you can customize your Opportunity page in Dynamics 365 
 
 ## Set up Microsoft Teams
 
-Microsoft Teams is the best way to collaborate with your team, manage files, and have conversations in one easy-to-use location. You can connect Product Visualize to Teams to make collaboration with your sales team even easier.
+Microsoft Teams is the best way to collaborate with your team, manage files, and have conversations in one easy-to-use location. You can connect Dynamics 365 Product Visualize to Teams to make collaboration with your sales team even easier.
 
 ### Sign up for Teams
 
@@ -382,7 +391,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 4. Search for **Office 365 Business Premium**, and then select the **Office 365 Business Premium** panel from the results.
 
-   ![Dynamics 365 for Customer Engagement plan](media/office.PNG "Dynamics 365 for Customer Engagement plan")
+   ![Office 365 Business Premium plans](media/office.PNG "Office 365 Business Premium plans")
 
 5. On the summary page, select **Get free trial**.
 
@@ -392,7 +401,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 1. Launch Teams in a private browser by going to: teams.microsoft.com
 
-2. When prompted, select **Use the web app instead.**
+2. When prompted, select **Use the web app instead**.
 
 3. Select **Get Started**.
 
@@ -429,15 +438,13 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 5. Select the **Open** menu, and then select **Add to a team.**
 
    ![Add to a team](media/add-to-team.PNG "Add to a team")
-<!--note from editor: This image link is broken in the preview. -->
 
    a. Select an environment. This will be the organization name for the instance.
    
    b. Select **Sales Hub**.
    
       ![Sales Hub](media/select-sales-hub.PNG "Sales Hub")
-   <!--note from editor: This image link is broken in the preview. -->
-   
+      
    c. Select an opportunity, and then select **Save**.
 
 6. In the **Add to a team** section, search for your team's name, which will also set the second option to **Yes**.
