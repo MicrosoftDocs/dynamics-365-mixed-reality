@@ -114,7 +114,7 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
 7. On the confirmation page, make note of the username and password before selecting **Finish Adding**, and then select **Close**.
 
-8. Select the user you just created, and then on the **Account** tab under **Groups** select **Manage Groups**.
+8. Select the user you just created, and then on the **Account** tab under **Groups** select **Manage groups**.
 
    ![Group memberships](media/group-memberships.PNG "Group memberships")
 
