@@ -86,7 +86,7 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
 2. In the left pane, select **Users**, and then select **Active users**.
 
-   ![Active users left-nav item](media/active-users.PNG "Active users left-nav item")
+   ![Active users left-nav item](media/active-users-2.PNG "Active users left-nav item")
 
 3. Near the top of the page, select **Add a user**.
 
