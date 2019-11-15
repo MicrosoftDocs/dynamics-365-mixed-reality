@@ -301,14 +301,9 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 8. Set the **Price List** to the one created earlier.
 
-9. Select **Add New Opportunity**. 
+9. Select **Add New Opportunity Product**. 
 
-
-   <!--from editor: Based on the screenshot, should the above say "Add New Opportunity Product"? -->
-
-
-   ![Add New Opportunity Product](media/new-opportunity-product.PNG "Add New Opportunity Product")
-   
+   ![Add New Opportunity Product](media/new-opportunity-product.PNG "Add New Opportunity Product")   
 
 10. In the **Existing Product** field, select one of the products you created.
 
