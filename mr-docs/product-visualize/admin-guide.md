@@ -15,11 +15,6 @@ ms.reviewer: v-brycho
 
 After you've completed the [setup process](setup.md) for Microsoft Dynamics 365 Product Visualize, you need to:
 
-
-
-<!--from editor: If the following actions should be done in order, it would be better to use a numbered list. -->
-
-
 - Create an Office 365 user group, and share your SharePoint site with that group.
 
 - Add users and assign security roles.
