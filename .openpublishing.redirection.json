@@ -1,9 +1,24 @@
 {
-    "redirections": [
-      {
-        "source_path": "mr-docs/remote-assist/mobile-app.md",
-        "redirect_url": "mobile-app/index",
-        "redirect_document_id": "false"
-      }
-    ]
+  "redirections": [
+    {
+      "source_path": "mr-docs/remote-assist/mobile-app.md",
+      "redirect_url": "mobile-app/index",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/layout/buy-and-deploy.md",
+      "redirect_url": "buy-and-deploy-layout",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/licensing/buy-and-deploy.md",
+      "redirect_url": "/dynamics365/#pivot=mixed-reality-apps",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/buy-and-deploy.md",
+      "redirect_url": "buy-and-deploy-remote-assist",
+      "redirect_document_id": "false"
+    }
+  ]
 }
