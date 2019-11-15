@@ -1,7 +1,7 @@
 ---
 author: rroesler
 description: Admin tasks for Dynamics 365 Product Visualize, including adding groups, products, opportunities, and the Product Visualize control
-ms.date: 11/12/2019
+ms.date: 11/15/2019
 ms.author: rroesler
 ms.service: crm-online
 ms.topic: article
@@ -434,9 +434,9 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
    ![Add to a team](media/add-to-team.PNG "Add to a team")
 
-   a. Select an environment. This will be the organization name for the instance.
+    a. Select an environment. This will be the organization name for the instance.
    
-   b. Select **Sales Hub**.
+    b. Select **Sales Hub**.
    
       ![Sales Hub](media/select-sales-hub.PNG "Sales Hub")
       
