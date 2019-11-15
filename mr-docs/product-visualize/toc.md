@@ -14,4 +14,4 @@
 ### [View 3D models stored on your device](browse-models.md)
 ## [Optimize and transcode 3D models](create-3D-model.md)
 ## [FAQ](faq.md)
-## [Terms of use](../legal/product-visualize-terms.md)
+## [Terms of use](../legal/slt-dynamics365-provis-iospre.md)
