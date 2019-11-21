@@ -10,6 +10,7 @@
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 ## [How-to videos](videos.md)
 ## [Protocol activation (for developers)](protocol-activation.md)
+## [Test topic](test.md)
 ## [FAQ](faq.md)
 ## Legal documents
 ### [Dynamics 365 Remote Assist software license terms](../legal/remote-assist-license-terms.md)
