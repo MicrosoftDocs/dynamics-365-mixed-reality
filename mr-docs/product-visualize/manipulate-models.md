@@ -26,15 +26,15 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
 2.	Select a product within that opportunity.
 
-3.	Select the 3D model that you want to view.
+    The first model in the product is displayed. 
 
-4.	In a brightly lit environment, point your device down toward a flat surface like the floor or a desk. Move your device around slowly to allow Dynamics 365 Product Visualize to find the surface. 
+3.	In a brightly lit environment, point your device down toward a flat surface like the floor or a desk. Move your device around slowly to allow Dynamics 365 Product Visualize to find the surface. 
 
     ![Advice on finding a plane](media/find-plane.PNG "Advice on finding a plane")
 
     After you find a suitable surface, you’ll see the model-loading indicator:
       
-5.  To place the model, select **Place** on the right side of the screen.
+4.  To place the model, select **Place** on the right side of the screen.
 
     ![Place model item](media/place-model.PNG "Place model item")
 
