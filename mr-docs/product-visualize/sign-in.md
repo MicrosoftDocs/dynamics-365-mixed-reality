@@ -2,7 +2,7 @@
 author: mamithan
 description: Open and sign in to Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 10/31/2019
+ms.date: 11/25/2019
 ms.service: crm-online
 ms.topic: article
 title: Open and sign in to Dynamics 365 Product Visualize
@@ -74,7 +74,7 @@ If you haven’t already installed Dynamics 365 Product Visualize on your iOS de
 
 1.	Open one of your opportunities in Dynamics 365 Sales.
 
-2.	Select the **Product Visualize** tab. 
+2.	Select the **Product Visualize Launcher** tab. 
 
     ![Product Visualize tab](media/dynamics-entrypoint.PNG "Product Visualize tab")
 
