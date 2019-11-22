@@ -62,25 +62,25 @@ Chances are, you’ll want to move, rotate, or change the size of your model in 
 
 Spread or pinch two fingers on the screen to change the size of the model. 
 
-![Resize item](media/resize.PNG "Resize item")
+![Resize item](media/resize.png "Resize item")
 
 ### Rotate your model  
 
 Rotate two fingers on the screen to rotate the model.
 
-![Rotate item](media/rotate.PNG "Rotate item")
+![Rotate item](media/rotate.png "Rotate item")
 
 ### Move the model
 
 To move the model sideways, drag one finger on the screen.
 
-![Move item](media/move.PNG "Move item")
+![Move item](media/move.png "Move item")
 
 ### Move the model up or down
 
 To move the model up or down, drag two fingers up or down on the screen.
 
-![Lift item](media/lift.PNG "Lift item")
+![Lift item](media/lift.png "Lift item")
 
 ### See also
 
