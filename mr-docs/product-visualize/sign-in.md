@@ -76,7 +76,7 @@ If you haven’t already installed Dynamics 365 Product Visualize on your iOS de
 
 2.	Select the **Product Visualize Launcher** tab. 
 
-    ![Product Visualize tab](media/dynamics-entrypoint.PNG "Product Visualize tab")
+    ![Product Visualize tab](media/dynamics-entrypoint.png "Product Visualize tab")
 
 3.	Do one of the following:
 
