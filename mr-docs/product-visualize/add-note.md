@@ -2,7 +2,7 @@
 author: mamithan
 description: How to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 10/30/2019
+ms.date: 11/25/2019
 ms.service: crm-online
 ms.topic: article
 title: Add a note to your 3D model in Dynamics 365 Product Visualize
@@ -71,13 +71,13 @@ To review notes you have made on your model, you can tap any spatial anchor on t
     
      ![Expand notes button](media/expand-notes.PNG "Expand notes button")
      
-## Edit or delete a note
+## Delete a note
 
 1.	Select **Notes** on the right side of the screen.
 
 2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
 
-3.	In the **Options** dialog box, select **Edit note** or **Delete note**.
+3.	In the **Options** dialog box, select **Delete note**.
 
      ![Edit or delete a note](media/share-status.PNG "Edit or delete a note")
   
