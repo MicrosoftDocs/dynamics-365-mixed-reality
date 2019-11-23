@@ -70,7 +70,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
 3.	In the **Options** dialog box, select **Delete note**.
 
-     ![Edit or delete a note](media/share-status.PNG "Edit or delete a note")
+     ![Delete a note](media/delete-note.png "Delete a note")
   
 ## Change how your notes are shared with other apps
 
@@ -80,7 +80,7 @@ To turn off sharing with the Dynamics 365 Sales timeline or Microsoft Teams chan
 
 1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.
 
-   ![Edit account settings](media/edit-account-settings.PNG "Edit account settings")
+   ![Edit account settings](media/edit-account-settings.png "Edit account settings")
 
 2. Under **Note Output Options**, move the sliders to the off position for the options you want to turn off.
  
