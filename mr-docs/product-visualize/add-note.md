@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 
 You can capture notes on specific points on a 3D model in Microsoft Dynamics 365 Product Visualize, and even add text or draw on the notes. For example, when you’re in the field with a customer, capture any required product changes directly on the model. 
 
-To add a note, you tap the location of the model where you want to add the note, and then take a picture of the model or upload a picture from your photo library to set the context. Then you can draw on the image or add comments. Notes you create are saved in the Common Data Service.
+To add a note, you take a picture of the model (or upload a picture from your camera roll), tap the location of the model where you want to add the note, and then draw on the image or add comments. Notes you create are saved in the Common Data Service.
 
 To review notes you have made on your model, you can tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. You can also browse through your notes by swiping the notes cards at the bottom of the screen. The corresponding spatial anchor activates on the model as you swipe. 
 
