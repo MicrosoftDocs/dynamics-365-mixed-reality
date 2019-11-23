@@ -68,7 +68,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
 2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
 
-3.	In the **Options** dialog box, select **Delete note**.
+3.	In the **Options** dialog box, select **Delete Note**.
 
      ![Delete a note](media/delete-note.png "Delete a note")
   
