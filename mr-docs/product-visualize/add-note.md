@@ -23,40 +23,35 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
 ## Add a note
 
-1.	After placing a model, select **Notes** on the right side of the screen.
+1.	After placing a model, select **Add Note**.
 
-    ![Select Notes item](media/select-notes.PNG "Select Notes item")
+    ![Select Add Note](media/add-note.png "Select Add Note")
  
-2.	Select **Add**.
+2.	To take a picture, select **Capture**.
 
-    ![Select Add Note](media/add-note.PNG "Select Add Note")
+    ![Select Capture](media/capture.png "Select Capture")
+
+     The app takes a picture of the model.
  
-3.	Tap the model where you want to place the note. 
+     [!NOTE]
+     If you want to use a picture already stored on your device, select **Camera Roll**, and then select the picture you want.
 
-    ![Tap the model](media/tap-on-product.PNG "Tap the model")
- 
-4.	Do one of the following:
-
-    -	To take a picture, select **Capture** on the right side of the screen. The app takes a picture of the model.
-    
-    -	To use a picture from your camera roll, select **Camera Roll**, and then select the picture you want.
-    
-        ![Picture choices](media/take-photo.PNG "Picture choices")
-   
-5.	In the **Create Note** screen:
-
-    a. Do the following: 
+3.	In the **Create Note** screen, do the following: 
     
       - To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
       - To add text, tap the box at the bottom of the screen, and then enter the text you want.
     
-         ![Add text](media/add-text.PNG "Add text")
-      
-    b. Select **Submit** to add your note.
+         ![Draw or add text](media/draw-add-text.png "Draw or add text")
+         
+ 4. Tap the model where you want to place the note.
  
-      > [!NOTE]
-      > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, any text you entered is retained, but any drawings are lost.    
+      ![Tap on model](media/tap-on-product.png "Tap on model")
+      
+ 5. Select **Finish** when you're done.
+ 
+> [!NOTE]
+> If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, text you entered is retained, but any drawings are lost.    
 
 ## View the notes attached to a model
 
