@@ -27,16 +27,11 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
     ![Select Add Note](media/add-note.png "Select Add Note")
  
-2.	Select **Capture** to take a picture of the model.
+2.	Select **Photo** to take a picture of the model or **Camera Roll** if you want to use a photo already stored on your device.
 
-    ![Select Capture](media/capture.png "Select Capture")
+    ![Select Photo](media/camera-roll.png "Select Capture")
 
-     The app takes a picture of the model.
- 
-     [!NOTE]
-     If you want to use a picture already stored on your device, select **Camera Roll**, and then select the picture you want.
-
-3.	In the **Create Note** screen, do the following: 
+ 3.	In the **Create Note** screen, do the following: 
     
       - To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
