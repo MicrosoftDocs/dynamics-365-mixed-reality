@@ -31,7 +31,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
     ![Select Photo](media/camera-roll.png "Select Capture")
 
- 3.	In the **Create Note** screen, do the following: 
+ 3.	Do the following: 
     
       - To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
