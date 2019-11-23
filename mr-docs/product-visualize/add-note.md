@@ -27,7 +27,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
     ![Select Add Note](media/add-note.png "Select Add Note")
  
-2.	To take a picture, select **Capture**.
+2.	Select **Capture** to take a picture of the model.
 
     ![Select Capture](media/capture.png "Select Capture")
 
@@ -42,7 +42,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
     
       - To add text, tap the box at the bottom of the screen, and then enter the text you want.
     
-         ![Draw or add text](media/draw-add-text.png "Draw or add text")
+         ![Draw or add text](media/draw-add-text.PNG "Draw or add text")
          
  4. Tap the model where you want to place the note.
  
