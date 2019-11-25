@@ -34,15 +34,7 @@ You can create layers in a flattened or nested format by using CAD model design 
    ![Tap check box](media/nested-folder.png "Tap check box")
 
    > [!TIP]
-   > To select all your unselected layers or vice versa, tap **Invert**.
-
-   ![Invert selected layers](media/invert.PNG "Invert selected layers")
-
-## Show or hide all layers 
-
--  Tap the check box in the toolbar above the other check boxes to select or clear all layers for the model. 
-
-   ![Select or clear all](media/select-clear-all.PNG "Select or clear all")
+   > To expand or collapse a layer, tap the arrow button.<br>To select all your unselected layers or vice versa, tap **Invert**.<br>![Invert selected layers](media/invert.PNG "Invert selected layers")<br>To show or hide all layers, tap the check box in the toolbar above the other checkboxes.<br>![Select or clear all](media/select-clear-all.PNG "Select or clear all")
 
 ### See also
 
