@@ -27,7 +27,7 @@ To review notes you have made on your model, you can tap any spatial anchor on t
 
     ![Select Add Note](media/add-note.png "Select Add Note")
  
-2.	Select **Photo** to take a picture of the model or **Camera Roll** if you want to use a photo already stored on your device.
+2.	Select **Photo** to take a picture of the model, or select **Camera Roll** if you want to use a photo already stored on your device.
 
     ![Select Photo](media/camera-roll.png "Select Capture")
 
