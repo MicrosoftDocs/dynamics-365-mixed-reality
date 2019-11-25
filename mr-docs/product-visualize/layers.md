@@ -21,7 +21,7 @@ A single layer can also act as a folder that includes other layers.
 
 ![Folder containing folders](media/nested-folder.png "Folder containing folders")
 
-You can create layers in a flattened or nested format by using model design software tools, such as CAD. For more information on converting CAD models, see [Convert your 3D (CAD) models with the Dynamics 365 Import Tool (Preview)(https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models).
+You can create layers in a flattened or nested format by using CAD model design software tools. For more information on converting CAD models to use with Dynamics 365 Product Visualize, see [Convert your 3D (CAD) models with the Dynamics 365 Import Tool (Preview)(https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models).
 
 ## Show or hide a layer
 
