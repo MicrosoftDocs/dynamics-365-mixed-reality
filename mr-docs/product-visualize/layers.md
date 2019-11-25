@@ -31,7 +31,7 @@ You can create layers in a flattened or nested format by using CAD model design 
 
 2. Tap the check box for the layer you want to show or hide. 
 
-   ![Tap check box](media/tap-check-box.PNG "Tap check box")
+   ![Tap check box](media/nested-folder.png "Tap check box")
 
    > [!TIP]
    > To select all your unselected layers or vice versa, tap **Invert**.
@@ -40,11 +40,7 @@ You can create layers in a flattened or nested format by using CAD model design 
 
 ## Show or hide all layers 
 
-1. After placing a model, select **Layers** on the right side of the screen. 
-
-   ![Enter Layers Tool](media/layers-tool.JPG "Enter layers")
-
-2. Tap the check box in the toolbar above the other check boxes to select or clear all layers for the model. 
+-  Tap the check box in the toolbar above the other check boxes to select or clear all layers for the model. 
 
    ![Select or clear all](media/select-clear-all.PNG "Select or clear all")
 
