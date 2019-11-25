@@ -35,11 +35,9 @@ You can create layers in a flattened or nested format by using CAD model design 
    
    The following table shows some tips for working with layers
    
-   |To|Do this|
-   |-----------------------------|-----------------------------------------------------------------------------|
-   |Expand or collapse a layer|Tap the arrow button<br>![Invert selected layers](media/invert.PNG "Invert selected layers")|
-   |Select all unselected layers or vice versa|Tap **Invert**.<br>![Invert selected layers](media/invert.PNG "Invert selected layers")|
-   |Show or hide all layers|Tap the check box above the other checkboxes.<br>![Select or clear all](media/select-clear-all.PNG "Select or clear all")|   
+   |Expand or collapse a layer|Select all unselected layers or vice versa|Show or hide all layers|
+   |--------------------------------------------|----------------------------------------|-----------------------------------------|
+   |![Invert selected layers](media/invert.PNG "Invert selected layers")|![Invert selected layers](media/invert.PNG "Invert selected layers")|![Select or clear all](media/select-clear-all.PNG "Select or clear all")|   
 
 ### See also
 
