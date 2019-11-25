@@ -33,7 +33,7 @@ You can create layers in a flattened or nested format by using CAD model design 
 
    ![Tap check box](media/nested-folder.png "Tap check box")
    
-   The following table shows some tips for working with layers
+   The following table shows some tips for working with layers:
    
    |To expand or collapse a layer|To select all unselected layers|To show or hide all layers|
    |--------------------------------------------|----------------------------------------|-----------------------------------------|
