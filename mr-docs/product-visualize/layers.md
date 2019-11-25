@@ -25,15 +25,12 @@ In Dynamics 365 Product Visualize, you use the Layers tool to show or hide layer
 
 When you select the **Layers**, you'll see a list of all the layers in the model.  
 
-![Multiple layers](media/multiple-layers.PNG "Multiple layers") 
+![Multiple layers](media/multiple-layers.png "Multiple layers") 
 
 A single layer can also act as a folder that includes other layers.
 
-![Folder containing folders](media/nested-folder.PNG "Folder containing folders")
+![Folder containing folders](media/nested-folder.png "Folder containing folders")
 
-You can expand or collapse the folder by selecting the [+] or [-] button. By default, all layers in the model are visible.
-
-![Expandable folder](media/expand-folder.PNG "Expandable folder") 
 
 ## Show or hide a layer
 
