@@ -27,9 +27,9 @@ Looking for more help? Check out our [user guide](user-guide.md).
 ### Resize, rotate, or copy a model
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE43KMT" frameborder="0" allowfullscreen=""></iframe></div>
 
-## Dynamics 365 Layout for Windows Mixed Reality
+## Dynamics 365 Layout for Windows Mixed Reality headsets
 
-### Opening and using Layout
+### Opening and using Dynamics 365 Layout
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE43Ven" frameborder="0" allowfullscreen=""></iframe></div>
 
@@ -43,11 +43,11 @@ Looking for more help? Check out our [user guide](user-guide.md).
 
 ## Dynamics 365 Import Tool (Preview) for PC
 
-### Getting a model ready for Layout
+### Getting a model ready for Dynamics 365 Layout
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42Fl3" frameborder="0" allowfullscreen=""></iframe></div>
 
-### Import a Visio floor plan
+### Import a Microsoft Visio floor plan
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42xuU" frameborder="0" allowfullscreen=""></iframe></div>
 
