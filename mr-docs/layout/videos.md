@@ -9,7 +9,7 @@ title: How-to videos for Dynamics 365 Layout
 ms.reviewer: v-brycho
 ---
 
-# How-to videos for Dynamics 365 Layout
+# How-to videos for Dynamics 365 LayoutMMM
 
 Watch these short videos to get up and running with [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
