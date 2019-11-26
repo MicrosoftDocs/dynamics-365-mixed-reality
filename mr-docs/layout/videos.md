@@ -17,10 +17,14 @@ Looking for more help? Check out our [user guide](user-guide.md).
 
 ## Dynamics 365 Layout for HoloLens
 
+### Create a new layout
+
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42N6m" frameborder="0" allowfullscreen=""></iframe></div>
-</br>
+
+### Interacting with HoloLens
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE43PZj" frameborder="0" allowfullscreen=""></iframe></div>
-</br>
+
+### Resize, rotate, or copy a model
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE43KMT" frameborder="0" allowfullscreen=""></iframe></div>
 
 ## Dynamics 365 Layout for Windows Mixed Reality
