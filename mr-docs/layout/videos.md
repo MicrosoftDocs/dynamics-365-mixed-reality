@@ -27,7 +27,7 @@ Looking for more help? Check out our [user guide](user-guide.md).
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE43Ven" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2EK2x" frameborder="0" allowfullscreen=""></iframe></div>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE4dCNF" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42A4P" frameborder="0" allowfullscreen=""></iframe></div>
 
