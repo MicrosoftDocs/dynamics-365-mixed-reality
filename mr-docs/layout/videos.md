@@ -29,18 +29,30 @@ Looking for more help? Check out our [user guide](user-guide.md).
 
 ## Dynamics 365 Layout for Windows Mixed Reality
 
+### Create a new layout
+
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE43Ven" frameborder="0" allowfullscreen=""></iframe></div>
-</br>
+
+### Create a new layout
+
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE4dCNF" frameborder="0" allowfullscreen=""></iframe></div>
-</br>
+
+### Create a new layout
+
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42A4P" frameborder="0" allowfullscreen=""></iframe></div>
 
 ## Dynamics 365 Import Tool (Preview) for PC
 
+### Create a new layout
+
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42Fl3" frameborder="0" allowfullscreen=""></iframe></div>
-</br>
+
+### Create a new layout
+
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42xuU" frameborder="0" allowfullscreen=""></iframe></div>
-</br>
+
+### Create a new layout
+
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42Fl4" frameborder="0" allowfullscreen=""></iframe></div>
 
 ### See also
