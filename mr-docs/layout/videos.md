@@ -29,29 +29,29 @@ Looking for more help? Check out our [user guide](user-guide.md).
 
 ## Dynamics 365 Layout for Windows Mixed Reality
 
-### Create a new layout
+### Opening and using Layout
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE43Ven" frameborder="0" allowfullscreen=""></iframe></div>
 
-### Create a new layout
+### Resize, rotate, or copy a model
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE4dCNF" frameborder="0" allowfullscreen=""></iframe></div>
 
-### Create a new layout
+### Teleporting, selecting, and placing
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42A4P" frameborder="0" allowfullscreen=""></iframe></div>
 
 ## Dynamics 365 Import Tool (Preview) for PC
 
-### Create a new layout
+### Getting a model ready for Layout
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42Fl3" frameborder="0" allowfullscreen=""></iframe></div>
 
-### Create a new layout
+### Import a Visio floor plan
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42xuU" frameborder="0" allowfullscreen=""></iframe></div>
 
-### Create a new layout
+### Transfer models and layouts between your HoloLens and PC
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE42Fl4" frameborder="0" allowfullscreen=""></iframe></div>
 
