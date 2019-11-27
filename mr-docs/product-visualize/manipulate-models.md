@@ -26,8 +26,8 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
 2.	Select a product within that opportunity.
 
-    The first model in the product is displayed. 
-
+    ![Products screen showing multiple products](media/products-screen.png "Products screen showing multiple products")
+    
 3.	In a brightly lit environment, point your device down toward a flat surface like the floor or a desk. Move your device around slowly to allow Dynamics 365 Product Visualize to find the surface. 
 
     ![Advice on finding a plane](media/find-plane.PNG "Advice on finding a plane")
