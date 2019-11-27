@@ -18,24 +18,24 @@ Offline mode. Downloading models for offline use is a Preview feature.
 
 1. Select the **Main** menu button, and then select **Preview features**.
 
-   [My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
+   [Preview features](media/preview-features.PNG "Preview features")
 
 2. In the **Feature Settings** screen, under **Preview features**, slide **Offline mode feature** to On.
 
-   [My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
+   [Offline mode feature setting](media/offline-mode.PNG "Offline mode feature setting")
 
 ## Download a 3D model
 
 - When viewing a product, tap the **Cloud** button next to the product name to download the model.
 
-   [My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
+   [Cloud button](media/cloud-button.PNG "Cloud button")
 
 ## Delete all downloaded models
 
 1. Select the **Main** menu button, and then select **Settings** button.
 
-   [My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
+   [Settings button](media/settings-button.PNG "Settings button")
 
 2. Next to **Remove all models from device**, select **Remove all**.
 
-   [My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
+   [Remove all setting](media/remove-all-setting.PNG "Remove all setting")
