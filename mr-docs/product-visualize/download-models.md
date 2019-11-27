@@ -36,7 +36,7 @@ Offline mode. Downloading models for offline use is a Preview feature.
 
 ## Delete all downloaded models
 
-1. Select the **Main** menu button, and then select **Settings** button.
+1. Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then select **Settings** button.
 
    ![Settings button](media/settings-button.PNG "Settings button")
 
