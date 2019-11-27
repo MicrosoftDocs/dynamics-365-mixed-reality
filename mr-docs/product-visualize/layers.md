@@ -27,7 +27,7 @@ You can create layers in a flattened or nested format by using CAD model design 
 
 1. After placing a model, select **Layers** on the right side of the screen. 
 
-   ![Enter Layers Tool](media/layers-tool.JPG "Enter layers")
+   ![Enter Layers Tool](media/layers-tool.PNG "Enter layers")
 
 2. Tap the check box for the layer you want to show or hide. 
 
