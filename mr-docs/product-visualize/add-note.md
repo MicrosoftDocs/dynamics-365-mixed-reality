@@ -29,7 +29,7 @@ The following table shows how notes appear on the model, depending on where the 
 
 ## Add a note
 
-1.	Place the model, and then select **Add Note**.
+1.	Place the model as described in [Place and manipulate models](manipulate-models.md), and then select **Add Note**.
 
     ![Select Add Note](media/add-note.png "Select Add Note")
  
