@@ -18,28 +18,28 @@ Offline mode. Downloading models for offline use is a Preview feature.
 
 1. Select the **Main** menu button, and then select **Preview features**.
 
-   [Preview features](media/preview-features.PNG "Preview features")
+   ![Preview features](media/preview-features.PNG "Preview features")
 
 2. In the **Feature Settings** screen, under **Preview features**, slide **Offline mode feature** to On.
 
-   [Offline mode feature setting](media/offline-mode.PNG "Offline mode feature setting")
+   ![Offline mode feature setting](media/offline-mode.PNG "Offline mode feature setting")
 
 ## Download a 3D model
 
 - When viewing a product, tap the **Cloud** button next to the product name to download the model.
 
-   [Cloud button](media/cloud-button.PNG "Cloud button")
+   ![Cloud button](media/cloud-button.PNG "Cloud button")
    
    When the model is downloaded, it looks like this:
    
-   [Model downloaded button](media/model-downloaded.PNG "Model downloaded button")
+   ![Model downloaded button](media/model-downloaded.PNG "Model downloaded button")
 
 ## Delete all downloaded models
 
 1. Select the **Main** menu button, and then select **Settings** button.
 
-   [Settings button](media/settings-button.PNG "Settings button")
+   ![Settings button](media/settings-button.PNG "Settings button")
 
 2. Next to **Remove all models from device**, select **Remove all**.
 
-   [Remove all setting](media/remove-all-setting.PNG "Remove all setting")
+   ![Remove all setting](media/remove-all-setting.PNG "Remove all setting")
