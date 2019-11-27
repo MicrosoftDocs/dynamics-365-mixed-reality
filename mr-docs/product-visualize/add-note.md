@@ -41,7 +41,7 @@ The following table shows how notes appear on the model, depending on where the 
     
       - To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
-      - To add text, tap the box at the bottom of the screen, and then enter the text you want.
+      - To add text, tap the box at the bottom of the screen, and then enter the text you want. When you're finished adding text, select **Next**.
     
          ![Draw or add text](media/draw-add-text.PNG "Draw or add text")
          
