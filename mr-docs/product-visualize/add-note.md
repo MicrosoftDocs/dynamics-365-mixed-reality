@@ -41,7 +41,7 @@ The following table shows how notes appear on the model, depending on where the 
     
       a. To draw on the screen (optional), select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
-      b. To add text (required), tap the box at the bottom of the screen, and then enter the text you want. When you're finished adding text, select **Next**. 
+      b. To add text (required), tap **Add caption** in the notes box at the bottom of the screen, and then enter the text you want. When you're finished adding text, select **Next**. 
     
        ![Draw or add text](media/draw-add-text.PNG "Draw or add text")
          
