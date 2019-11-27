@@ -12,7 +12,7 @@
 ### [Show or hide layers in a 3D model](layers.md)
 ### [Explore sample 3D models](explore-samples.md)
 ### [View 3D models stored on your device](browse-models.md)
-### [Downloand 3D models for offline use](download-models.md)
+### [Download 3D models for offline use](download-models.md)
 ## [Optimize and transcode 3D models](create-3D-model.md)
 ## [FAQ](faq.md)
 ## [Terms of use](../legal/slt-dynamics365-provis-iospre.md)
