@@ -74,7 +74,7 @@ The following table shows how notes appear on the model, depending on where the 
 
 2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
 
-3.	In the **Options** dialog box, select **Delete Note**.
+3.	Select **Delete Note**.
 
      ![Delete a note](media/delete-note.png "Delete a note")
   
