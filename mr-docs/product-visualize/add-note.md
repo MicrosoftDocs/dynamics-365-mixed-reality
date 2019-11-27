@@ -59,8 +59,6 @@ The following table shows how notes appear on the model, depending on where the 
 
 1.	After placing the model, select **Notes** on the right side of the screen.
 
-    ![Select Notes item](media/select-notes.PNG "Select Notes item") 
-
 2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
 
     > [!NOTE]
