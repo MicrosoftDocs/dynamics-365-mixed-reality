@@ -19,7 +19,7 @@ To add a note, you take a picture of the model (or upload a picture from your ca
 
 To review notes you have made on your model, you can tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. For a model and note that's off the screen, a "note bubble" points in the direction of the model and note. See the table below to see how these notes appear.
 
-You can also browse through your notes by swiping the notes cards at the bottom of the screen. The corresponding spatial anchor activates on the model as you swipe.
+You can also browse through your notes by swiping the notes at the bottom of the screen. The corresponding spatial anchor activates on the model as you swipe.
 
 The following table shows how notes appear on the model, depending on where the note is located.
 
