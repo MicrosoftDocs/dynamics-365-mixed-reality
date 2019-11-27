@@ -16,7 +16,7 @@ Offline mode. Downloading models for offline use is a Preview feature.
 
 ## Enable Offline mode
 
-1. Select the **Main** menu button, and then select **Preview features**.
+1. Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then select **Preview features**.
 
    ![Preview features](media/preview-features.PNG "Preview features")
 
