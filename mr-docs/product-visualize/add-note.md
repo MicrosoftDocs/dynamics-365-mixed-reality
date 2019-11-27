@@ -23,7 +23,7 @@ You can also browse through your notes by swiping the notes cards at the bottom 
 
 The following table shows how notes appear on the model, depending on where the note is located.
 
-|Anchor on front of model|Anchor on back of model|Note and model off the screen|
+|Note on front of model|Note on back of model|Note and model off the screen|
 |-------------------------------------|-------------------------------------------|-----------------------------------------|
 |![Note on front of model](media/front-note.PNG "Note on front of model")|![Note on back of model](media/back-note.PNG "Note on back of model")|![Note and model off the screen](media/off-screen-note.PNG "Note and model off the screen")|
 
