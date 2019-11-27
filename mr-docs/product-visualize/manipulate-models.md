@@ -20,7 +20,7 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 > [!NOTE]
 > If you're the administrator, to learn how to add 3D models to Dynamics 365 Sales, see the [Administrator guide](admin-guide.md).
 
-## View a 3D model in mixed reality 
+## View (place) a 3D model in mixed reality 
 
 1.	Open the opportunity you want to focus on.
 
