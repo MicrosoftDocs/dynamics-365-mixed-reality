@@ -21,13 +21,13 @@ A single layer can also act as a folder that includes other layers.
 
 ![Folder containing folders](media/nested-folder.png "Folder containing folders")
 
-You can create layers in a flattened or nested format by using CAD model design software tools. For more information on converting CAD models to use with Dynamics 365 Product Visualize, see [Convert your 3D (CAD) models with the Dynamics 365 Import Tool (Preview)(https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models).
+You can create layers in a flattened or nested format by using CAD model design software tools. For more information on converting CAD models to use with Dynamics 365 Product Visualize, see [Convert your 3D (CAD) models with the Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models).
 
 ## Show or hide a layer
 
 1. After placing a model, select **Layers** on the right side of the screen. 
 
-   ![Enter Layers Tool](media/layers-tool.PNG "Enter layers")
+   ![Select Layers](media/layers-tool.PNG "Select Layers")
 
 2. Tap the check box for the layer you want to show or hide. 
 
@@ -37,7 +37,7 @@ You can create layers in a flattened or nested format by using CAD model design 
    
    |To expand or collapse a layer|To select all unselected layers|To show or hide all layers|
    |--------------------------------------------|----------------------------------------|-----------------------------------------|
-   |- Select the arrow button.<br>![Expand or collapse a layer](media/expand-collapse.PNG "Expand or collapse a layer")|- Select **Invert**.<br>![Invert selected layers](media/invert.png "Invert selected layers")|- Select the top check box.<br>![Show or hide all layers](media/show-hide-all.png "Show or hide all layers")|   
+   |Select the arrow button.<br>![Expand or collapse a layer](media/expand-collapse.PNG "Expand or collapse a layer")|Select **Invert**.<br>![Invert selected layers](media/invert.png "Invert selected layers")|Select the top check box.<br>![Show or hide all layers](media/show-hide-all.png "Show or hide all layers")|   
 
 ### See also
 
