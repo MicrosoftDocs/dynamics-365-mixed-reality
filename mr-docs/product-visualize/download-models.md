@@ -30,7 +30,7 @@ Offline mode. Downloading models for offline use is a Preview feature.
 
    [My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
 
-## Delete downloaded models
+## Delete all downloaded models
 
 1. Select the **Main** menu button, and then select **Settings** button.
 
