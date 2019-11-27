@@ -56,8 +56,6 @@ After placing a model, if you want to view a different model, you can switch mod
 
 Chances are, you’ll want to move, rotate, or change the size of your model in some way after you place it. You can use various gestures to do any of these actions after placing your model.
 
-![Transform item](media/transform-model.PNG "Transform item")
-
 ### Change the size of your model
 
 Spread or pinch two fingers on the screen to change the size of the model. 
