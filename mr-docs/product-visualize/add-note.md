@@ -43,7 +43,7 @@ The following table shows how notes appear on the model, depending on where the 
     
       b. To add text (required), tap the box at the bottom of the screen, and then enter the text you want. When you're finished adding text, select **Next**. 
     
-         ![Draw or add text](media/draw-add-text.PNG "Draw or add text")
+       ![Draw or add text](media/draw-add-text.PNG "Draw or add text")
          
      > [!NOTE]
      > If you’re not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, text you entered is retained, but any drawings are lost. 
