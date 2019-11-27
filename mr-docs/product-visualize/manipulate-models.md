@@ -38,20 +38,6 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
     ![Place model item](media/place-model.PNG "Place model item")
 
-## Switch to a different model
-
-After placing a model, if you want to view a different model, you can switch models very easily:
-
-1.	Select **Models** on the right side of the screen.
-
-    ![Switch models](media/select-models.PNG "Switch models")
- 
-2.	Select the model you want to view.
-
-    ![Models screen](media/3D-models.png "Models screen")
- 
-3.	Place the model as described in the previous procedure.  
-
 ## Move, rotate, or change the size of your model
 
 Chances are, you’ll want to move, rotate, or change the size of your model in some way after you place it. You can use various gestures to do any of these actions after placing your model.
@@ -79,6 +65,20 @@ To move the model sideways, drag one finger on the screen.
 To move the model up or down, drag two fingers up or down on the screen.
 
 ![Lift item](media/lift.png "Lift item")
+
+## Switch to a different model
+
+After placing a model, if you want to view a different model, you can switch models very easily:
+
+1.	Select **Models** on the right side of the screen.
+
+    ![Switch models](media/select-models.PNG "Switch models")
+ 
+2.	Select the model you want to view.
+
+    ![Models screen](media/3D-models.png "Models screen")
+ 
+3.	Place the model as described in the previous procedure.  
 
 ### See also
 
