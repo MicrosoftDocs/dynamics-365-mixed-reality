@@ -29,6 +29,10 @@ Offline mode. Downloading models for offline use is a Preview feature.
 - When viewing a product, tap the **Cloud** button next to the product name to download the model.
 
    [Cloud button](media/cloud-button.PNG "Cloud button")
+   
+   When the model is downloaded, it looks like this:
+   
+   [Model downloaded button](media/model-downloaded.PNG "Model downloaded button")
 
 ## Delete all downloaded models
 
