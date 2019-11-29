@@ -24,7 +24,7 @@ All geometry in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality 
 Modeling tools in most CAD applications use sets of adjustable mathematical parameters to define parametric solids. Parametric solids and surfaces provide highly accurate detail that can be used to carry out engineering simulations and manufacturing processes. glTF and real-time rendering applications require models to be represented as a triangulated polygon surface.
 
 > [!div class="mx-imgBorder"]
-> ![Parametric vs. polygonal geometry](media/compare-geometry.PNG "Parametric vs. polygonal geometry") 
+> ![Parametric vs. polygonal geometry](media/compare-geometry.PNG "Parametric vs. polygonal geometry")  
 
 *Model visualized in Autodesk Inventor and [!include[cc-microsoft](../includes/cc-microsoft.md)] 3D Viewer*
 
