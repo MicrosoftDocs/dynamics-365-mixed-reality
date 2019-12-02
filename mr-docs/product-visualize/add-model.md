@@ -2,7 +2,7 @@
 author: mamithan
 description: How to add your own custom 3D models to an existing Dynamics 365 Sales product
 ms.author: mamithan
-ms.date: 10/31/2019
+ms.date: 12/04/2019
 ms.service: crm-online
 ms.topic: article
 title: Add your own 3D model to an existing Dynamics 365 Sales product
@@ -46,6 +46,7 @@ If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your lo
 [Open the app and sign in](sign-in.md)<br>
 [Place and manipulate 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
-[Show or hide layers in a 3D model](layers.md}<br>
+[Show or hide layers in a 3D model](layers.md]<br>
 [Explore sample 3D models](explore-samples.md)<br>
-[View 3D models stored on your device](browse-models.md)
+[View 3D models stored on your device](browse-models.md)<br>
+[Download 3D models to use offline](download-models.md)
