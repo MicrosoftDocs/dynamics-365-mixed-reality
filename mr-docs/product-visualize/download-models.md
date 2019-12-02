@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 You can download models to use offline when you're away from a cellular network or wi-fi. To download models for offline use, you need to first enable Offline mode. 
 
 >[!NOTE]
->Downloading models for offline use is a Preview feature. Preview features provide access to the latest innovations that the Product Visualize team is working on, but are considered "experimental." 
+>Downloading models for offline use is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Product Visualize team is working on.
 
 ## Enable Offline mode
 
