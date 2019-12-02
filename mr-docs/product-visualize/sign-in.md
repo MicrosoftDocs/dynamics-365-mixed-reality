@@ -91,8 +91,6 @@ If you haven’t already installed Dynamics 365 Product Visualize on your iOS de
  
 6.	On the **Sign in** screen, enter your Dynamics 365 account. When you’re done, select **Next**.
  
-    ![Sign-in screen](media/sign-in.PNG "Sign-in screen") 
- 
     > [!NOTE]
     > After you sign in for the first time, this screen will not appear again.
     
