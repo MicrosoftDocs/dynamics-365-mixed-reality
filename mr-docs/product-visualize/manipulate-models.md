@@ -87,5 +87,6 @@ After placing a model, if you want to view a different model, you can switch mod
 [Show or hide a layer in 3D model](layers.md)<br>
 [Explore sample 3D models](add-model.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
-[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)
+[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
+[Download 3D models to use offline](download-models.md)
 
