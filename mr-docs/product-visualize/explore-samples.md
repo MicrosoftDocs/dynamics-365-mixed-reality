@@ -32,7 +32,7 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
 4.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes made on sample models are not saved when you close Dynamics 365 Product Visualize or replace the model. 
 
     >[!TIP]
-    >If you want to see dimensions for the model, you can enable the **Product measurements feature**. To enable this feature, select the Main menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. Preview features provide access to new innovations that the Product Visualize team is working on. Preview features are considered "experimental." At this time, you can view dimensions in metric only. 
+    >If you want to see dimensions for the model, enable the **Product measurements feature**. To enable this feature, select the Main menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. After the feature is enabled, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model. At this time, you can view dimensions in metric only.<br><br>Preview features are experimental features that provide access to new innovations that the Product Visualize team is working on.  
 
 ### See also
 
