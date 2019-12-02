@@ -114,7 +114,7 @@ If you have access to more than one Dynamics 365 organization,  you can use this
 
 2.	Select your account settings. 
 
-    ![Account settings menu item](media/account-settings.PNG "Account settings menu item") 
+    ![Account settings menu item](media/edit-account-settings.png "Account settings menu item") 
   
 3.	On the **Account Settings** screen, select **Edit** next to the organization you’re signed in to.
 
