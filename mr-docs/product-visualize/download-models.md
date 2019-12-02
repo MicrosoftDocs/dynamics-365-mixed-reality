@@ -39,7 +39,7 @@ You can download models to use offline when you're away from a cellular network 
    ![Model downloaded button](media/model-downloaded.PNG "Model downloaded button")
    
    >[!NOTE]
-   >When working offline with a 3 model, the notes functionality is disabled. 
+   >When working offline with a 3D model, the notes functionality is disabled. 
 
 ## Delete all downloaded models
 
