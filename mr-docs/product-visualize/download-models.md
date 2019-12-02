@@ -45,7 +45,7 @@ You can download models to use offline when you're away from a cellular network 
 
 1. Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then select the **Settings** button.
 
-   ![Settings button](media/settings-button.PNG "Settings button")
+   ![Settings button](media/edit-account-settings.PNG "Settings button")
 
 2. Next to **Remove all models from device**, select **Remove all**.
 
