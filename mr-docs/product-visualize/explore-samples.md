@@ -2,7 +2,7 @@
 author: mamithan
 description: How to explore sample models in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 10/31/2019
+ms.date: 12/04/2019
 ms.service: crm-online
 ms.topic: article
 title: Explore sample 3D models in Dynamics 365 Product Visualize
@@ -38,5 +38,6 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
 [Add a note to your 3D model](add-note.md)<br>
 [Show or hide a layer in a 3D model](layers.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
-[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)
+[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
+[Download 3D models to use offline](download-models.md)
 
