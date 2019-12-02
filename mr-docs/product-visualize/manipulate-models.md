@@ -39,7 +39,7 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
     ![Place model item](media/place-model.PNG "Place model item")
     
     >[!TIP]
-    >If you want to see dimensions for the model, you can enable the **Product measurements feature**. To enable this feature, select the Main menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. Preview features provide access to new innovations that the Product Visualize team is working on. Preview features are considered "experimental."    
+    >If you want to see dimensions for the model, you can enable the **Product measurements feature**. To enable this feature, select the Main menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. Preview features provide access to new innovations that the Product Visualize team is working on. Preview features are considered "experimental." At this time, you can view dimensions in metric only.   
 
 ## Move, rotate, or change the size of your model
 
