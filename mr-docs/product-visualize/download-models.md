@@ -22,7 +22,7 @@ You can download models to use offline when you're away from a cellular network 
 
    ![Preview features](media/preview-features.PNG "Preview features")
 
-2. In the **Feature Settings** screen, under **Preview features**, slide **Offline mode feature** to On.
+2. In the **Feature Settings** screen, under **Preview features**, slide the **Offline mode feature** setting to On.
 
    ![Offline mode feature setting](media/offline-mode.PNG "Offline mode feature setting")
    
