@@ -112,7 +112,7 @@ If you have access to more than one Dynamics 365 organization,  you can use this
 
 1.	Select the main menu icon ![Main menu button](media/hamburger-icon.png "Main menu button").
 
-2.	Select your account settings. 
+2.	Select the **Settings** button. 
 
     ![Account settings menu item](media/edit-account-settings.png "Account settings menu item") 
   
