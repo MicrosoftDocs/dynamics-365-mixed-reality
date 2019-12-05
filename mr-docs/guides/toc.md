@@ -16,7 +16,7 @@
 #### [Overview](pc-app-overview.md)
 #### [Install, open, and sign in](install-sign-in-pc-app.md)
 #### [Create a new guide](create-guide.md)
-#### [Choose an anchoring method](anchor.md)
+#### [Anchor your guide to the real world](anchor.md)
 #### [Structure your guide](structure-guide.md)
 #### [Create steps and assign media](create-steps-assign-media.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
