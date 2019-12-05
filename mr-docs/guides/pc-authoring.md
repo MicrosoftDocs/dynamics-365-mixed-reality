@@ -73,8 +73,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 
      ![Create new guide](media/create-guide.PNG "Create new guide")
 
-3.	Enter a name for the guide. If you’re planning to create multiple versions of the guide, you might want to add _v2, _v3, and 
-so on as part of the name. 
+3.	Enter a name for the guide, and then select **Create**. If you’re planning to create multiple versions of the guide, you might want to add _v2, _v3, and so on as part of the name. 
 
      ![Name the guide](media/name-guide.PNG "Name the guide")
      
