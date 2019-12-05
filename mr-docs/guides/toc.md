@@ -1,5 +1,5 @@
 # Dynamics 365 Guides
-## [Overview](index.md)
+## [Overview of Dynamics 365 Guides](index.md)
 ## [What's new](new.md)
 ## [Get started](get-started.md)
 ## [Videos](videos.md)
