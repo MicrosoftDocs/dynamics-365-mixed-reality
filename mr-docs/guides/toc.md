@@ -20,7 +20,7 @@
 ### [HoloLens gestures for authoring and navigating](authoring-gestures.md)
 ### [Use Dynamics 365 Import Tool to convert 3D models](import-tool.md)
 ## I'm an operator
-### [Operator's manual](operator-guide.md)
+### [Operate a guide](operator-guide.md)
 ## I'm a process engineer
 ### [Analyze your guides](analytics-guide.md)
 ## [FAQ](faq.md)
