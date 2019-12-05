@@ -9,7 +9,7 @@ title: Choose an anchoring method for your guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Anchor your guide to the real world
+# Anchor your guide to the real world in the Dynamics 365 Guides PC app
 
 When you create a guide with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], one of the first steps is to choose an anchoring method. When you anchor a guide, you synchronize it spatially with a real-world environment. Anchoring is how holograms know where they are in the real world. You must create an anchor for your guide for it to work on HoloLens.
 
