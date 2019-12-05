@@ -9,7 +9,7 @@ title: Use the PC authoring application to create a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Author in the PC application for Dynamics 365 Guides
+# Authoring overview for the Dynamics 365 Guides PC app
 
 Watch videos on:
 
