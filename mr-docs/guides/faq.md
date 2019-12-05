@@ -2,7 +2,7 @@
 author: BryceHo
 description: FAQ about Dynamics 365 Guides
 ms.author: makamat
-ms.date: 10/01/2019
+ms.date: 12/06/2019
 ms.service: crm-online
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
@@ -56,6 +56,11 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 ## Is there an out-of-the-box integration with Dynamics 365 Field Service?
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
+
+## Can I use the JSON data file generated in Common Data Service when a guide is created to build or extend functionality?
+
+When you create a guide using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it may change from time to time. 
+
 
 ## How do I limit users to a particular Dynamics 365 instance?
 
