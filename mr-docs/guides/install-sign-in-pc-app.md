@@ -1,4 +1,4 @@
-# Install, open, and sign in to the Dynamics 365 Guides PC application
+# Install, open, and sign in to the Dynamics 365 Guides PC app
 
 Use these instructions to install the app (if it hasn't already been installed for you) and to sign in.
 
