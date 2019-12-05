@@ -3,7 +3,6 @@
 ## [What's new](new.md)
 ## [Get started](get-started.md)
 ## [Videos](videos.md)
-## [Glossary of terms](glossary.md)
 ## I'm an admin
 ### [Requirements for installation](requirements.md)
 ### [Buy and deploy](setup.md)
@@ -23,6 +22,7 @@
 ### [Operate a guide](operator-guide.md)
 ## I'm a process engineer
 ### [Analyze your guides](analytics-guide.md)
+## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
 ## [Known issues](known-issues.md)
 ## [Terms of use](../legal/guides-service-terms.md)
