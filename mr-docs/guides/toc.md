@@ -22,7 +22,7 @@
 ## I'm an operator
 ### [Operator's manual](operator-guide.md)
 ## I'm a process engineer
-## [Analyze your guides](analytics-guide.md)
+### [Analyze your guides](analytics-guide.md)
 ## [FAQ](faq.md)
 ## [Known issues](known-issues.md)
 ## [Terms of use](../legal/guides-service-terms.md)
