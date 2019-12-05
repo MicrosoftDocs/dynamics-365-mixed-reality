@@ -14,7 +14,7 @@
 ### [Authoring overview](authoring-overview.md)
 ### Author in the PC app
 #### [Overview](pc-app-overview.md)
-#### [Install, open, and sign in](sign-in.md)
+#### [Install, open, and sign in](install-sign-in-pc-app.md)
 #### [Create a new guide](create-guide.md)
 #### [Choose an anchoring method](choose-anchoring-method.md)
 #### [Structure your guide](structure-guide.md)
