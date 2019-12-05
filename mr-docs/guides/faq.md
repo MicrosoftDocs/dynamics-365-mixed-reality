@@ -59,7 +59,7 @@ Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md
 
 ## Can I use the JSON data file generated in Common Data Service when a guide is created to build or extend functionality?
 
-When you create a guide using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it may change from time to time. 
+When you create a guide using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it may change over time. 
 
 
 ## How do I limit users to a particular Dynamics 365 instance?
