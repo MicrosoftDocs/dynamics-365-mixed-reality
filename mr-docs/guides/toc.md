@@ -21,6 +21,7 @@
 #### [Create steps and assign media](create-steps-assign-media.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
+#### [What's next?](next-pc-app.md)
 ### [Author in the HoloLens app](hololens-authoring.md)
 ### [How to make a great mixed reality guide](great-guide.md)
 ### [HoloLens gestures for authoring and navigating](authoring-gestures.md)
