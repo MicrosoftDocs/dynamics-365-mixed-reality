@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 10/29/2019
+ms.date: 12/09/2019
 ms.service: crm-online
 ms.topic: article
 title: Use the PC authoring application to create a guide in Dynamics 365 Guides
@@ -36,6 +36,9 @@ Use the PC authoring application in [!include[cc-microsoft](../includes/cc-micro
   - 2D media (images and videos)
   
 ![PC authoring](media/pc-authoring.PNG "PC authoring")
+
+>[!NOTE]
+>When you create a guide using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it may change over time. 
 
 ## Install, open, and sign in to the PC application
 Use these instructions to install the app (if it hasn't already been installed for you) and to sign in.
