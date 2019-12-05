@@ -1,6 +1,6 @@
 # Install, open, and sign in to the Dynamics 365 Guides PC app
 
-Use these instructions to install the app (if it hasn't already been installed for you) and to sign in.
+Use these instructions to install the Dynamics 365 Guides PC app (if it hasn't already been installed for you) and to sign in.
 
 ### Install the app 
 1.	On your [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC, make sure you have the latest [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 build (10.0.16299 or later).
