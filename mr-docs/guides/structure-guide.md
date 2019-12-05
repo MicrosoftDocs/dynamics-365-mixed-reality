@@ -1,4 +1,4 @@
-## Structure your guide in the Dynamics 365 Guides PC app
+# Structure your guide using the Outline page in the Dynamics 365 Guides PC app
 
 After you choose an anchoring method, you see the **Outline** page. This is where you create the framework for your guide by adding as many tasks and steps as you need. *Tasks* are groups of steps. *Steps* are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
