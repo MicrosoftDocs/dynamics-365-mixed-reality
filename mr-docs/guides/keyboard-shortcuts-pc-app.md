@@ -1,4 +1,4 @@
-## Keyboard shortcuts
+# Keyboard shortcuts for the Dynamics 365 Guide PC app
 
 You can use any of the following keyboard shortcuts in the PC application:
 
