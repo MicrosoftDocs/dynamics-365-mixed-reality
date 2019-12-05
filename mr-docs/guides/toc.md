@@ -18,7 +18,7 @@
 #### [Create a new guide](create-guide.md)
 #### [Choose an anchoring method](choose-anchoring-method.md)
 #### [Structure your guide](structure-guide.md)
-#### [Create steps and assign media](create-steps-media.md)
+#### [Create steps and assign media](create-steps-assign-media.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
 ### [Author in the PC app](pc-authoring.md)
