@@ -12,6 +12,15 @@
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ## I'm an author
 ### [Authoring overview](authoring-overview.md)
+### Author in the PC app
+#### [Overview](pc-app-overview.md)
+#### [Install, open, and sign in](sign-in.md)
+#### [Create a new guide](create-guide.md)
+#### [Choose an anchoring method](choose-anchoring-method.md)
+#### [Structure your guide](structure-guide.md)
+#### [Create steps and assign media](create-steps-media.md)
+#### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
+#### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
 ### [Author in the PC app](pc-authoring.md)
 ### [Anchor your guide to the real world](anchor.md)
 ### [Author in the HoloLens app](hololens-authoring.md)
