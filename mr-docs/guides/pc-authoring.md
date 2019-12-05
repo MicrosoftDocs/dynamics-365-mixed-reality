@@ -37,8 +37,6 @@ Use the PC authoring application in [!include[cc-microsoft](../includes/cc-micro
   
 ![PC authoring](media/pc-authoring.PNG "PC authoring")
 
->[!NOTE]
->When you create a guide using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it may change over time. 
 
 ## Install, open, and sign in to the PC application
 Use these instructions to install the app (if it hasn't already been installed for you) and to sign in.
@@ -79,6 +77,9 @@ Use these instructions to install the app (if it hasn't already been installed f
 so on as part of the name. 
 
      ![Name the guide](media/name-guide.PNG "Name the guide")
+     
+>[!NOTE]
+>When you create a guide using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it may change over time. 
 
 ## Saving: how changes are synced between the PC app and HoloLens app
 
