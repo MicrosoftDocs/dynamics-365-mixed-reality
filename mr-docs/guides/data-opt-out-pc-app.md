@@ -13,4 +13,13 @@ To turn telemetry data off for the PC application:
 > [!NOTE]
 > This option applies only to the device on which it's set. If you use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on more than one device, you need to modify the setting on those other devices. To turn this setting off for HoloLens, see [Author in the HoloLens application](hololens-authoring.md). Database administrators can also prevent usage data from showing in Power BI dashboards for Guides Analytics. For more information, see [Opting out of storing Dynamics 365 Guides events data in Common Data Service](data-opt-out.md).
 
+## What's next?
+
+[Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
+[Create a guide](create-guide.md)<br>
+[Anchor your guide to the real world](anchor.md)<br>
+[Structure your guide in the Outline page](structure-guide.md)<br>
+[Create steps and assign media](create-steps-assign-media.md)<br>
+[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
+
 
