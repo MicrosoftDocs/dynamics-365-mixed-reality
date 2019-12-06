@@ -37,8 +37,8 @@ Use the PC app to:
 
 [Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
 [Create a guide](create-guide.md)<br>
-[Anchor your guide to the real world)[anchor.md)<br>
-[Structure your guide in the Outline page0(structure-giude.md)<br>
+[Anchor your guide to the real world](anchor.md)<br>
+[Structure your guide in the Outline page](structure-giude.md)<br>
 [Create steps and assign media](create-steps-assign-media.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
 [Opt out of sending telemetry data to Microsoft](data-opt-out-pc-app.md)
