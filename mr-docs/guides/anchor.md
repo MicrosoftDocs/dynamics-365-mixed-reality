@@ -169,7 +169,11 @@ Before using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on 
    
 - **Using the same anchor for authoring and operating.** For best accuracy, use the same anchor for authoring and operating. 
 
-### See also
+## What's next?
 
-[Author a guide using the PC application](pc-authoring.md)</br>
-[Author a guide using the HoloLens application](hololens-authoring.md)
+[Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
+[Create a guide](create-guide.md)<br>
+[Structure your guide in the Outline page](structure-guide.md)<br>
+[Create steps and assign media](create-steps-assign-media.md)<br>
+[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
+[Opt out of sending telemetry data to Microsoft](data-opt-out-pc-app.md)
