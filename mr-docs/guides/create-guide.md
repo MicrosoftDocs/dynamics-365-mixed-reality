@@ -20,3 +20,11 @@ Autosave checks for changes every 4 seconds. You must be online to use [!include
 > [!NOTE]
 > When you switch from one device to the other, it's best to close the guide to make sure you don't lose any work. 
 
+## What's next?
+
+[Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
+[Anchor your guide to the real world](anchor.md)<br>
+[Structure your guide in the Outline page](structure-guide.md)<br>
+[Create steps and assign media](create-steps-assign-media.md)<br>
+[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
+[Opt out of sending telemetry data to Microsoft](data-opt-out-pc-app.md)
