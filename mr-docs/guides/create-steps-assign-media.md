@@ -4,7 +4,7 @@ You can create steps on the **Outline** page, but you’ll probably create most 
 
 In the Step card page, you write your instructional text and assign supporting content for that step, like 3D content or media (image or video). 
 
-### Open the Step card page and add instructions
+## Open the Step card page and add instructions
 
 1. Select any step on the **Outline** page, or select **Step** in the left navigation. 
 
@@ -12,7 +12,7 @@ In the Step card page, you write your instructional text and assign supporting c
 
 2. Enter your instructional text in the rectangle in the middle of the Step card screen.
 
-### Add 3D content or media to support a step 
+## Add 3D content or media to support a step 
 
 1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
 
@@ -25,7 +25,7 @@ In the Step card page, you write your instructional text and assign supporting c
   
 When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] in Author mode, you’ll see all the content that you associated with the steps, and you can place the content in the relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in [!include[pn-hololens](../includes/pn-hololens.md)] authoring in the real world. What you see in the Step card page is very similar to what you see on [!include[pn-hololens](../includes/pn-hololens.md)]. 
 
-### Best practices for the Step card page
+## Best practices for the Step card page
 
 - It’s easy to add another step from the Step card page. Just select **Add new step** in the top right corner of the page. No need to go back to the **Outline** page. 
 
@@ -47,7 +47,7 @@ When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] 
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave. 
 
-### Import your own custom 3D objects<a name="import"></a>
+## Import your own custom 3D objects<a name="import"></a>
 
 You can import your own custom 3D objects to add to the **3D parts** library, and then assign parts to a step. 
 
@@ -62,7 +62,7 @@ To import your own 3D objects:
 > [!NOTE]
 > [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
-### Add 3D objects from the 3D toolkit to support your steps
+## Add 3D objects from the 3D toolkit to support your steps
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects included in the 3D toolkit that are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. Use objects from the 3D toolkit like any other content to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
  
@@ -85,7 +85,7 @@ To add an object from the 3D toolkit:
 
     ![Drag object from 3D toolkit](media/3d-part.PNG "Drag object from 3D toolkit")
  
-### Best practices for 3D toolkit
+## Best practices for 3D toolkit
 
 - Use pointers to communicate simple spatial information like position, direction, and translation.
 
