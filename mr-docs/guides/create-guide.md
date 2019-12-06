@@ -1,4 +1,4 @@
-# Create a new guide using the Dynamics 365 Guides PC app
+# Create a guide using the Dynamics 365 Guides PC app
 
 1.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
