@@ -2,14 +2,14 @@
 
 Use these instructions to install the Dynamics 365 Guides PC app (if it hasn't already been installed for you) and to sign in.
 
-### Install the app 
+## Install the app 
 1.	On your [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC, make sure you have the latest [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 build (10.0.16299 or later).
 
 2.	Go to **Start** ![Start button](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].”
 
 3.  Select **Install** to download and install [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
-### Sign in to the app
+## Sign in to the app
 1.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application from the **Start** menu on your PC. 
 
 2.	In the **Welcome to Guides** screen, select **Sign in**.
