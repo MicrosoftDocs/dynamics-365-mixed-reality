@@ -34,3 +34,11 @@ Here’s an example of a filled-out **Outline** page:
 
 ![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.png "Filled-out Outline page from Pylon wiring guide")
   
+## What's next?
+
+[Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
+[Create a guide](create-guide.md)<br>
+[Anchor your guide to the real world](anchor.md)<br>
+[Create steps and assign media](create-steps-assign-media.md)<br>
+[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
+[Opt out of sending telemetry data to Microsoft](data-opt-out-pc-app.md)
