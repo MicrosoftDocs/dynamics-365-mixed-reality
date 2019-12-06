@@ -1,6 +1,6 @@
 # Create a guide using the Dynamics 365 Guides PC app
 
-1.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
+1.	[Open the Dynamics 365 Guieds PC app](install-sign-in-pc-app.md).
 
 2.	Select **Create new guide**.
 
