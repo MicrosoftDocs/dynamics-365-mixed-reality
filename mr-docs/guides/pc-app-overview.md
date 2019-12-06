@@ -9,15 +9,11 @@ title: Use the PC authoring application to create a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Authoring overview for the Dynamics 365 Guides PC app
+# Overview of authing a guide with the Dynamics 365 Guides PC app
 
-Watch videos on:
+You use the PC authoring app in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] as the first step in the authoring process. Watch a video on [PC authoring](https://aka.ms/pcauthor).
 
-- [Dynamics 365 Guides overview](https://aka.ms/guidesoverview)
-- [PC authoring](https://aka.ms/pcauthor)
-- [HoloLens authoring](https://aka.ms/hololensauthor)
-
-Use the PC authoring application in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to:
+Use the PC app to:
 
 - Create a guide
 
@@ -36,4 +32,15 @@ Use the PC authoring application in [!include[cc-microsoft](../includes/cc-micro
   - 2D media (images and videos)
   
 ![PC authoring](media/pc-authoring.PNG "PC authoring")
+
+## What's next?
+
+[Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
+[Create a guide](create-guide.md)<br>
+[Anchor your guide to the real world)[anchor.md)<br>
+[Structure your guide in the Outline page0(structure-giude.md)<br>
+[Create steps and assign media](create-steps-assign-media.md)<br>
+[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
+[Opt out of sending telemetry data to Microsoft](data-opt-out-pc-app.md)
+
 
