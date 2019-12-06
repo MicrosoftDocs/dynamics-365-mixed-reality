@@ -11,7 +11,9 @@ ms.reviewer: v-brycho
 
 # Overview of authing a guide with the Dynamics 365 Guides PC app
 
-You use the PC authoring app in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] as the first step in the authoring process. [Watch a video on PC authoring](https://aka.ms/pcauthor).
+You use the PC authoring app in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] as the first step in the authoring process. 
+
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on PC authoring](https://aka.ms/pcauthor).
 
 Use the PC app to:
 
