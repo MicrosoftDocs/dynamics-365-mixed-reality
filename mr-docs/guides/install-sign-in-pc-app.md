@@ -26,3 +26,11 @@ Use these instructions to install the Dynamics 365 Guides PC app (if it hasn't a
 
     ![Choose an instance](media/choose-instance-pc.PNG "Choose an instance")
 
+## What's next?
+
+[Create a guide](create-guide.md)<br>
+[Anchor your guide to the real world](anchor.md)<br>
+[Structure your guide in the Outline page](structure-guide.md)<br>
+[Create steps and assign media](create-steps-assign-media.md)<br>
+[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
+[Opt out of sending telemetry data to Microsoft](data-opt-out-pc-app.md)
