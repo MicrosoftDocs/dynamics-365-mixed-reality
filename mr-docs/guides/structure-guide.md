@@ -18,7 +18,7 @@ In addition to tasks and steps, the **Outline** page shows:
 
   ![Completion step](media/completion-step.PNG "Completion step")
  
-### Best practices for the Outline page
+## Best practices for the Outline page
 
 - To provide overall context, add an Overview task at the start of the guide. This task would include just one step that describes what the guide is about. This is also a good place to list all the tasks that the guide covers. 
 
