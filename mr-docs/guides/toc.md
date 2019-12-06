@@ -15,9 +15,9 @@
 ### Author in the PC app
 #### [Overview](pc-app-overview.md)
 #### [Install, open, and sign in](install-sign-in-pc-app.md)
-#### [Create a new guide](create-guide.md)
+#### [Create a guide](create-guide.md)
 #### [Anchor your guide to the real world](anchor.md)
-#### [Structure your guide](structure-guide.md)
+#### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and assign media](create-steps-assign-media.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
