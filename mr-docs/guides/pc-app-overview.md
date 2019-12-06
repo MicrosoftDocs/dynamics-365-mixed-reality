@@ -9,7 +9,7 @@ title: Use the PC authoring application to create a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Overview of authing a guide with the Dynamics 365 Guides PC app
+# Overview of authing a guide with the Dynamics 365 Guides PC appxxx
 
 You use the PC authoring app in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] as the first step in the authoring process. 
 
