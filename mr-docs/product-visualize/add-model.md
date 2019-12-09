@@ -9,14 +9,14 @@ title: Add your own 3D model to an existing Dynamics 365 Sales product
 ms.reviewer: v-brycho
 ---
 
-# Add your own 3D model to an existing Dynamics 365 Sales product 
+# Add your own 3D model to an existing Dynamics 365 Sales product
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your local device, it’s simple to add it to a product included in a Dynamics 365 Sales opportunity from Microsoft Dynamics 365 Product Visualize (in preview).
+If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your local device, it's simple to add it to a product included in a Dynamics 365 Sales opportunity from Microsoft Dynamics 365 Product Visualize (in preview).
 
 > [!NOTE]
-> 3D models must be in GLB format to link them to a product. 
+> 3D models must be in GLB format to link them to a product.
 
 ## Add a 3D model to a product
 
@@ -24,7 +24,7 @@ If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your lo
 
     ![My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
  
-2.	Select the product you want to add the model to. 
+2.	Select the product you want to add the model to.
 
 3.	On the **Models** screen, select the plus sign (+) in the upper-right corner of the screen.
 
@@ -35,11 +35,11 @@ If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your lo
     ![Browse Your Files screen](media/quick-access.PNG "Browse Your Files screen")
  
     > [!NOTE]
-    > If you select SharePoint, you’ll see a list of SharePoint sites associated with your Dynamics 365 sign-in credentials. 
+    > If you select SharePoint, you'll see a list of the SharePoint sites associated with your Dynamics 365 sign-in credentials.
 
-5.	When prompted to link the model, select **Confirm**. 
+5.	When prompted to link the model, select **Confirm**.
  
-    When the model is ready, you’ll see a **Success!** message, and then you’ll be back on the screen where you selected the model, so you can add additional models if you want.
+    When the model is ready, you'll see a **Success!** message, and then you'll see the screen where you selected the model so you can add additional models if you want.
     
 ### See also
 

@@ -9,11 +9,11 @@ title: Show or hide layers in a 3D model in Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
-# Show or hide layers in a 3D model in Dynamics 365 Product Visualize 
+# Show or hide layers in a 3D model in Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-A single 3D model in Microsoft Dynamics 365 Product Visualize consists of one or more layers, which you can think of as categorized objects often grouped by function or location. 
+A single 3D model in Microsoft Dynamics 365 Product Visualize consists of one or more layers, which you can think of as categorized objects often grouped by function or location.
 
 ![Multiple layers](media/multiple-layers.png "Multiple layers") 
 
@@ -21,7 +21,7 @@ A single layer can also act as a folder that includes other layers.
 
 ![Folder containing folders](media/nested-folder.png "Folder containing folders")
 
-You can create layers in a flattened or nested format by using CAD model design software tools. For more information on converting CAD models to use with Dynamics 365 Product Visualize, see [Convert your 3D (CAD) models with the Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models).
+You can create layers in a flattened or nested format by using CAD model design software tools. For more information about converting CAD models to use with Dynamics 365 Product Visualize, see [Convert your 3D (CAD) models with the Dynamics 365 Import Tool (Preview)](../import-tool/convert-models.md).
 
 ## Show or hide a layer
 
@@ -31,13 +31,13 @@ You can create layers in a flattened or nested format by using CAD model design 
 
 2. Tap the check box for the layer you want to show or hide. 
 
-   ![Tap check box](media/nested-folder.png "Tap check box")
+   ![Tap check box](media/nested-folder.png "Tap the check box")
    
    The following table shows some tips for working with layers.
    
    |To expand or collapse a layer|To select all unselected layers|To show or hide all layers|
    |--------------------------------------------|----------------------------------------|-----------------------------------------|
-   |Select the arrow button.<br>![Expand or collapse a layer](media/expand-collapse.PNG "Expand or collapse a layer")|Select **Invert**.<br>![Invert selected layers](media/invert.png "Invert selected layers")|Select the top check box.<br>![Show or hide all layers](media/show-hide-all.png "Show or hide all layers")|   
+   |Select the arrow button.<br>![Expand or collapse a layer](media/expand-collapse.PNG "Expand or collapse a layer")|Select **Invert**.<br>![Invert selected layers](media/invert.png "Invert selected layers")|Select the uppermost check box.<br>![Show or hide all layers](media/show-hide-all.png "Show or hide all layers")|
 
 ### See also
 

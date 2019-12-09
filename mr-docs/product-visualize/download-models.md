@@ -11,10 +11,10 @@ ms.reviewer: v-brycho
 
 # Download 3D models to use offline with Dynamics 365 Product Visualize
 
-You can download models to use offline when you're away from a cellular network or wi-fi. To download models for offline use, you need to first enable Offline mode. 
+You can download models to use offline when you're away from a cellular network or Wi-Fi. To download models for offline use, you need to first enable Offline mode.
 
 >[!NOTE]
->Downloading models for offline use is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Product Visualize team is working on.
+>Downloading models for offline use is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 
 ## Enable Offline mode
 
@@ -26,7 +26,7 @@ You can download models to use offline when you're away from a cellular network 
 
    ![Offline mode feature setting](media/offline-mode.PNG "Offline mode feature setting")
    
-3. Close the Product Visualize app, and then restart it.
+3. Close the Dynamics 365 Product Visualize app, and then restart it.
 
 ## Download a 3D model
 
@@ -39,7 +39,7 @@ You can download models to use offline when you're away from a cellular network 
    ![Model downloaded button](media/model-downloaded.PNG "Model downloaded button")
    
    >[!NOTE]
-   >When working offline with a 3D model, the notes functionality is disabled. 
+   >When you're working offline with a 3D model, the notes functionality is disabled.
 
 ## Delete all downloaded models
 
@@ -50,7 +50,6 @@ You can download models to use offline when you're away from a cellular network 
 2. Next to **Remove all models from device**, select **Remove all**.
 
    ![Remove all setting](media/remove-all-setting.PNG "Remove all setting")
-
 
 ### See also
 

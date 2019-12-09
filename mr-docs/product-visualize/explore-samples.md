@@ -13,13 +13,13 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try out even if you don’t have a Dynamics 365 subscription. Use the sample content to try the Dynamics 365 Product Visualize app and play with 3D models. When you explore a 3D model this way, you place it just like you would any other 3D model, and you can also add notes to the model. Notes you add to a sample model aren't saved, however, when you close Dynamics 365 Product Visualize.
+Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try out even if you don't have a Dynamics 365 subscription. Use the sample content to try the Dynamics 365 Product Visualize app and play with 3D models. When you explore a 3D model this way, you place it just like you would any other 3D model, and you can also add notes to the model. However, any notes you add to a sample model aren't saved when you close Dynamics 365 Product Visualize.
 
 ## Open a sample 3D model
 
 1.	Open the Dynamics 365 Product Visualize app.
 
-2.	On the **Welcome** screen, scroll down to the sample 3D models, and select the 3D model that you want to open.
+2.	On the **Welcome** screen, scroll down to the sample 3D models, and then select the 3D model that you want to open.
 
      ![Welcome screen](media/welcome.PNG "Welcome screen")
 
@@ -29,10 +29,10 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
  
 3.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
 
-4.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes made on sample models are not saved when you close Dynamics 365 Product Visualize or replace the model. 
+4.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes made on sample models aren't saved when you close Dynamics 365 Product Visualize or replace the model.
 
     >[!TIP]
-    >If you want to see dimensions for the model, enable the **Product measurements feature**. To enable this feature, select the **Main** menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. After the feature is enabled, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model. At this time, you can view dimensions in metric only.<br><br>Preview features are experimental features that provide access to new innovations that the Product Visualize team is working on.  
+    >If you want to see dimensions for the model, enable the **Product measurements feature**. To enable this feature, select the **Main** menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. After the feature is enabled, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model. At this time, you can view dimensions in metric only.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
 
 ### See also
 
