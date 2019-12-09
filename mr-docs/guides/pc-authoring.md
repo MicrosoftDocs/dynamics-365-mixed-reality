@@ -1,15 +1,15 @@
 ---
 author: Mamaylya
-description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides.
+description: Everything you need to know about using the PC authoring app to create a guide in Dynamics 365 Guides.
 ms.author: mamaylya
 ms.date: 12/09/2019
 ms.service: crm-online
 ms.topic: article
-title: Use the PC authoring application to create a guide in Dynamics 365 Guides
+title: Use the PC authoring app to create a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Author in the PC application for Dynamics 365 Guides
+# Author in the PC app for Dynamics 365 Guides
 
 Watch videos on:
 
@@ -17,7 +17,7 @@ Watch videos on:
 - [PC authoring](https://aka.ms/pcauthor)
 - [HoloLens authoring](https://aka.ms/hololensauthor)
 
-Use the PC authoring application in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to:
+Use the PC authoring app in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to:
 
 - Create a guide.
 
@@ -38,7 +38,7 @@ Use the PC authoring application in [!include[cc-microsoft](../includes/cc-micro
 ![PC authoring](media/pc-authoring.PNG "PC authoring")
 
 
-## Install, open, and sign in to the PC application
+## Install, open, and sign in to the PC app
 Use these instructions to install the app (if it hasn't already been installed for you) and to sign in.
 
 ### Install the app 
@@ -49,7 +49,7 @@ Use these instructions to install the app (if it hasn't already been installed f
 3.  Select **Install** to download and install [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
 ### Sign in to the app
-1.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application from the **Start** menu on your PC. 
+1.	Open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app from the **Start** menu on your PC. 
 
 2.	In the **Welcome to Guides** screen, select **Sign in**.
 
@@ -154,7 +154,7 @@ In the Step card page, you write your instructional text and assign supporting c
    > [!NOTE]
    > The collection of boxes below the instructional text is called the _bin_.
   
-When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] in Author mode, you'll see all the content that you associated with the steps, and you can place the content in the relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you'll align that pointer to the thing you want to point to in [!include[pn-hololens](../includes/pn-hololens.md)] authoring in the real world. What you see in the Step card page is very similar to what you see on [!include[pn-hololens](../includes/pn-hololens.md)]. 
+When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] in Author mode, you'll see all the content that you associated with the steps, and you can place the content in the relevant spaces in the real world. For example, if you assign a pointer to a step in the PC app, you'll align that pointer to the thing you want to point to in [!include[pn-hololens](../includes/pn-hololens.md)] authoring in the real world. What you see in the Step card page is very similar to what you see on [!include[pn-hololens](../includes/pn-hololens.md)]. 
 
 ### Best practices for the Step card page
 
@@ -261,7 +261,7 @@ To turn telemetry data off for the PC app:
     ![Send usage data setting](media/send-usage-data-pc.PNG "Send usage data setting")
     
 > [!NOTE]
-> This option applies only to the device on which it's set. If you use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on more than one device, you need to modify the setting on those other devices. To turn this setting off for HoloLens, see [Author in the HoloLens application](hololens-authoring.md). Database administrators can also prevent usage data from showing in Power BI dashboards for Guides Analytics. For more information, see [Opting out of storing Dynamics 365 Guides events data in Common Data Service](data-opt-out.md).
+> This option applies only to the device on which it's set. If you use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on more than one device, you need to modify the setting on those other devices. To turn this setting off for HoloLens, see [Author in the HoloLens app](hololens-authoring.md). Database administrators can also prevent usage data from showing in Power BI dashboards for Guides Analytics. For more information, see [Opting out of storing Dynamics 365 Guides events data in Common Data Service](data-opt-out.md).
 
 ## What's next?
 After you create your guide on the PC, select an anchoring method, and create your tasks and steps, you're ready to [test things out on HoloLens in a real-world environment, and place your holograms](hololens-authoring.md).
