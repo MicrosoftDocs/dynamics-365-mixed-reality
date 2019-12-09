@@ -64,7 +64,7 @@ When you create a guide using the PC app, a JSON data file is automatically crea
 
 ## How do I limit users to a particular Dynamics 365 instance?
 
-You can limit user access to instances by using security groups, managed from the Microsoft 365 Admin Center. For more information, see [Restrict User Access to a Dynamics 365 instance using Security Groups](https://community.dynamics.com/365/b/d365demystified/posts/restrict-user-access-to-a-d365-instance-using-security-groups) and [Control user access to instances: security groups and licenses](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/add-instance-subscription#control-user-access-to-instances-security-groups-and-licenses).
+You can limit user access to instances by using security groups, managed from the Microsoft 365 Admin Center. For more information, see [Restrict User Access to a Dynamics 365 instance using Security Groups](https://community.dynamics.com/365/b/d365demystified/posts/restrict-user-access-to-a-d365-instance-using-security-groups) and [Control user access to instances: security groups and licenses](https://docs.microsoft.com/dynamics365/customer-engagement/admin/add-instance-subscription#control-user-access-to-instances-security-groups-and-licenses).
 
 ## I get an error message when I try to sign in to the PC app or [!include[pn-hololens](../includes/pn-hololens.md)] app
 
