@@ -16,6 +16,9 @@ ms.reviewer: v-brycho
 Microsoft Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their real-world environment. 
 This helps create a shared understanding between buyer and seller to accelerate complex sales processes.
 
+>[!IMPORTANT]
+>This user guide describes features available in version 1.8 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/sign-in).
+
 This user guide describes everything you need to know about working with the app. It shows you how to:
 
 - [Install, open, and sign in to the app](sign-in.md)<br>
