@@ -43,9 +43,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a demo that showcases the value of the app for your company. This five-minute demo is useful for any type of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, whether you're an author, operator, process engineer, or business decision maker. You don't have to be online to use the demo. 
 
-#### Start the demo
-
-- Air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select the **Try the demo** button.
+To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select the **Try the demo** button.
 
    ![Try the demo button](media/try-demo.PNG "Try the demo button")   
    
