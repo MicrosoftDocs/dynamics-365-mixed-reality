@@ -17,7 +17,9 @@ Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] 
 
 ### Documentation
 
-This is where you are now. Our in-depth documentation covers everything you need to know about authoring, operating, and analyzing guides. 
+This is where you are now. We organized our documentation by role so you can quickly get to the content you need, whether you're an admin, author, operator, or process engineer:
+
+ADD SCREEN SHOT HERE
 
 ### Video tutorials
 
