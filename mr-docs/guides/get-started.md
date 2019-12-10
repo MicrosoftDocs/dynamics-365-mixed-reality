@@ -21,7 +21,7 @@ This is where you are now. Our in-depth documentation covers everything you need
 
 ### Video tutorials
 
-These step-by-step video tutorials provide a quick overview of key concepts and tasks: 
+These step-by-step video tutorials provide a quick overview of key concepts: 
  
   - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides]()
   
