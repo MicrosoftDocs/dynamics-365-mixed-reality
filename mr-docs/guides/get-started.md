@@ -49,7 +49,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
    ![Dynamics 365 Guides logo](media/Logo.png "Dynamics 365 Guides logo")
 
-2. Select the **Try this demo** button.
+2. Select the **Try the demo** button.
 
    ![Try the demo button](media/try-demo.PNG "Try the demo button")   
    
