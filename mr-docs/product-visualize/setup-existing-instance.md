@@ -24,7 +24,7 @@ Existing Dynamics 365 Sales instances must meet the following minimum requiremen
 - Products associated with 3D models must be in the GLB format.
 
     > [!IMPORTANT]
-    > Server-based SharePoint integration is the preferred method for integrating Dynamics 365 Sales with SharePoint. You can't use the SharePoint List component with SharePoint Online. Dynamics 365 Product Visualize doesn't support existing instances that use the List component.
+    > Server-based SharePoint integration is the preferred method for integrating Dynamics 365 Sales with SharePoint. You can't use the SharePoint List Component with SharePoint Online. Dynamics 365 Product Visualize doesn't support existing instances that use the List Component.
 
 ### Verify the Dynamics 365 Sales version
 
