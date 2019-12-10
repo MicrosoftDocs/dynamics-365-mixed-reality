@@ -11,13 +11,41 @@ ms.reviewer: v-brycho
 
 # Get started with Dynamics 365 Guides
 
-So you’ve set up [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] using the [Setup topic](setup.md) and you’re ready to get started. What do you do next? This topic provides some ideas to get you going. 
+Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]? Not sure where to begin? Use this topic to get a quick overview of available resources and jumpstart your learning curve.
 
-## Check out the demo
+## Resources
+
+Here's a quick list of top resources.
+
+### Documentation. 
+
+This is whare you are now. Our in-depth documentation covers everything you need to know about authoring, operating, and analyzing guides. Check out the links in the Table of Contents to explore.
+
+### Video tutorials
+
+These step-by-step tutorials show you everything you need to know to get a quick overview: 
+ 
+  - Overview of Dynamics 365 Guides
+  
+  - Author in the PC application
+  
+  - Anchor your guide in the real world:
+  
+   - Using a printed anchor
+   
+   - Using a digital anchor
+   
+  - Author in the HoloLens application
+  
+  - Operate a guide
+  
+  - Analyze a guide
+
+### Demo
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a demo that showcases the value of the app for your company. This five-minute demo is useful for any type of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, whether you're an author, operator, process engineer, or business decision maker. Use the demo to get a quick overview of how [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] works. You don't have to be online to use the demo. 
 
-To start the demo:
+#### Start the demo
 
 1. Air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile.
 
@@ -29,73 +57,64 @@ To start the demo:
    
    The following sections provide a quick preview of what you'll see in the demo. 
 
-### Find your way around 
+### Example guide
 
-Try the hands-free interface to activate buttons, even when your hands are full. Gaze at the **Next** button to move forward in a guide, and the **Back** button to move backward. 
-
-![Next and Back buttons](media/navigate-example.PNG "Next and Back buttons")
-
-### Step examples
-
-Understand how steps can show safe procedures with 3D holograms and 2D photos. 
-
-![Safe procedure examples](media/step-example-1.PNG "Safe procedure examples")
-
-Experience step-by-step instructions that point to where the work takes place.
-
-![Dotted line examples](media/step-example-2.PNG "Dotted line examples")
-
-## Check out our documentation and videos
-
-The following table provides useful links to learn about the three basic things you can do with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]: author a guide, operate a guide, or analyze a guide.
-
-|Task|Online documentation|Video(s)|
-|----------------------------|--------------------------------------------|-----------------------------------------------|
-|Author a guide|[Authoring overview](authoring-overview.md)|- [Author on the PC](https://aka.ms/pcauthor)<br>- [Author on HoloLens](https://aka.ms/hololensauthor)<br>- [Create a printed anchor](https://aka.ms/guidesprintedanchor)<br>- [Create a digital anchor](https://aka.ms/guidesdigitalanchor)|
-|Operate a guide|[Operator's manual](operator-guide.md)|[Operate a guide](https://aka.ms/guidesoperate)|
-|Analyze guide usage|[Analyze a guide](analytics-guide.md)|[Analyze a guide](https://aka.ms/guidesanalyze)|
-
-Not sure about a term? See our [Glossary of terms](glossary.md). 
-
-> [!NOTE]
-> To learn about new features in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], see our [What's new page](new.md). To learn about new and upcoming [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] features, see our [April 2019 release notes](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/planned-features) and [2019 release wave 2 plan](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features). The release notes and release plan capture all the details, end-to-end, top-to-bottom, in a single place that you can use for planning. 
-
-## Jump in
-
-The best way to learn [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is by doing, so here are some tips on getting started: 
-
-- Watch the demo (see the first section in this topic).
-
-- [Watch our overview video](https://aka.ms/overview)
-
-- Use the Example Guide:
-
-    - We have included an Example Guide that you can use to learn about [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It walks you through common workflows and features, provides tips and tricks for great guide creation, and helps you get up to speed by doing.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an Example guide that you can use to learn about the product. The Example guide walks you through common workflows and features, provides tips and tricks for creating great guides, and helps you get up to speed by doing.
     
-      ![Example Guide](media/example-guide.PNG "Example Guide")
+![Example Guide](media/example-guide.PNG "Example Guide")
 
-    - Put on your [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] device, start the [!include[pn-hololens](../includes/pn-hololens.md)] app in Operate mode, and then select the Example Guide. Go through the guide step-by-step to learn about key features. 
+To try it out, put on your [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], start the [!include[pn-hololens](../includes/pn-hololens.md)] app in Operate mode, and then select **Example guide**. Go through the guide step-by-step to learn about key features. Then when you're ready to take the next stpe, use the PC application to edit the guide steps and assets, or place instructions or holograms using the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode. 
 
-    - Edit the guide steps and assets using the PC authoring app, or place instructions or holograms using the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode. 
-    
-- Create your first guide from scratch, try it out, and analyze it.
+## Understand concepts
 
-     - To create your first guide, find a simple step-by-step operation or assembly and a physical space for that operation or assembly that you have access to. We’ve created guides for operating a projector, pouring water into a glass, and making a bird house! Or use a real-world workflow in your business. 
+Use these topics to get a quick overview of the product and authoring steps:
 
-     - Build your first guide using 3D toolkit objects (included with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]). Create your tasks and steps and assign 3D content in the PC app, and then move to the [!include[pn-hololens](../includes/pn-hololens.md)] app to place your holograms and add dotted holographic lines to connect the instruction cards to the physical spaces they relate to. Refer to the [Authoring](authoring-overview.md) and [Operating](operator-guide.md) topics for help. 
+- Overview of Dynamics 365 Guides
 
-     - After you’ve created your guide, try it out in Operate mode to see how it works. 
+- Authoring overview
 
-     - Analyze your usage of the guide with [!include[pn-power-bi](../includes/pn-power-bi.md)] reports. See [Analyze your guides](analytics-guide.md) for more information. 
+- Glossary of terms
 
-## Need support?
+- What makes a great guide?
 
-If you run across an issue, check out our [FAQ](faq.md) and [Known Issues](known-issues.md) topics. If that doesn’t help, please contact Support. You can find information on contacting support in the [FAQ](faq.md).
+## Set up and administer Dynamics 365 Guides
 
-### See also
+These are the most important topics for admins:
 
-[Author a guide](authoring-overview.md)<br>
-[Operator's manual](operator-guide.md)<br>
-[Analyze your guides](analytics-guide.md)<br>
-[FAQ](faq.md)<br>
-[Known issues](known-issues.md)
+- Requirements for installation
+
+- Buy and deploy Dynamics 365 Guides
+
+- Upgrade the solution
+
+## Integrations
+
+You can integrate Dynamics 365 Guides with Dynamics 365 Field Service to help field service workers accomplish maintenance tasks.
+
+- Learn how to integrate Dynamcis 365 Guides with Dynamics 365 Field Service
+
+## Find out what's new
+
+We constantly update Dynamics 365 Guides to improve the product and include features requested by our customers. To find out what's new, check out these topics:
+
+- What's new
+
+- Release plan
+
+  2019 Wave 1
+
+  2019 Wave 2
+  
+  2020 Wave 1
+
+## Need help or support?
+
+If you run across an issue, check out these topics:
+
+- [FAQ](faq.md)
+
+- [Known Issues](known-issues.md). 
+
+If you don't find what you're looking for, contact Support at xxxxx.
+
+
