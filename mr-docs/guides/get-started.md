@@ -15,11 +15,9 @@ Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] 
 
 ## Top resources
 
-Here's a quick list of top resources.
-
 ### Documentation
 
-This is whare you are now. Our in-depth documentation covers everything you need to know about authoring, operating, and analyzing guides. Explore the links in the Table of Contents.
+This is where you are now. Our in-depth documentation covers everything you need to know about authoring, operating, and analyzing guides. 
 
 ### Video tutorials
 
