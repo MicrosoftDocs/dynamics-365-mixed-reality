@@ -59,7 +59,7 @@ To try it out, put on your [!include[cc-microsoft](../includes/cc-microsoft.md)]
 
 ADD SCREEN SHOT HERE
 
-Go through the guide step-by-step to learn about key features. Then when you're ready to take the next stpe, use the PC application to edit the guide steps and assets, or place instructions or holograms using the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode. 
+Go through the guide step-by-step to learn about key features. Then when you're ready to take the next step, use the PC application to edit the guide steps and assets, or place instructions or holograms using the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode. 
 
 ## Understand concepts
 
