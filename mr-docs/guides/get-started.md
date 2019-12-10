@@ -63,7 +63,7 @@ Go through the guide step-by-step to learn about key features. Then when you're 
 
 ## Understand concepts
 
-Use these topics to get a quick overview of the product and authoring steps:
+Use these topics to get a quick overview of the product and how to author a guide:
 
 - [Overview of Dynamics 365 Guides]()
 
