@@ -21,7 +21,7 @@ This is where you are now. Our in-depth documentation covers everything you need
 
 ### Video tutorials
 
-These step-by-step tutorials show you everything you need to know to get a quick overview: 
+These step-by-step tutorials provide a quick overview of key concepts and tasks: 
  
   - [Overview of Dynamics 365 Guides]()
   
