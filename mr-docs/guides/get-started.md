@@ -51,10 +51,8 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 2. Select the **Try this demo** button.
 
-   ![Try the demo button](media/try-demo.PNG "Try the demo button")
+   ![Try the demo button](media/try-demo.PNG "Try the demo button")   
    
-   The following sections provide a quick preview of what you'll see in the demo. 
-
 ### Example guide
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an Example guide that you can use to learn about the product. The Example guide walks you through common workflows and features, provides tips and tricks for creating great guides, and helps you get up to speed by doing.
