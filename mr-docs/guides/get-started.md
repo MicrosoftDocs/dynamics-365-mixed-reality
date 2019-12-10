@@ -41,7 +41,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 ### Demo
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a demo that showcases the value of the app for your company. This five-minute demo is useful for any type of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, whether you're an author, operator, process engineer, or business decision maker. Use the demo to get a quick overview of how [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] works. You don't have to be online to use the demo. 
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a demo that showcases the value of the app for your company. This five-minute demo is useful for any type of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, whether you're an author, operator, process engineer, or business decision maker. You don't have to be online to use the demo. 
 
 #### Start the demo
 
