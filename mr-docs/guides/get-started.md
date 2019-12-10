@@ -55,7 +55,9 @@ These step-by-step video tutorials provide a quick overview of key concepts:
     
 ![Example Guide](media/example-guide.PNG "Example Guide")
 
-To try it out, put on your [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], start the [!include[pn-hololens](../includes/pn-hololens.md)] app in Operate mode, and then select **Example guide**. Go through the guide step-by-step to learn about key features. Then when you're ready to take the next stpe, use the PC application to edit the guide steps and assets, or place instructions or holograms using the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode. 
+To try it out, put on your [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], start the [!include[pn-hololens](../includes/pn-hololens.md)] app in **Operate** mode, and then select **Example guide**. 
+
+Go through the guide step-by-step to learn about key features. Then when you're ready to take the next stpe, use the PC application to edit the guide steps and assets, or place instructions or holograms using the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode. 
 
 ## Understand concepts
 
