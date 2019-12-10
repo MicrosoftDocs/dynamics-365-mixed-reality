@@ -45,11 +45,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 #### Start the demo
 
-1. Air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile.
-
-   ![Dynamics 365 Guides logo](media/Logo.png "Dynamics 365 Guides logo")
-
-2. Select the **Try the demo** button.
+- Air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select the **Try the demo** button.
 
    ![Try the demo button](media/try-demo.PNG "Try the demo button")   
    
