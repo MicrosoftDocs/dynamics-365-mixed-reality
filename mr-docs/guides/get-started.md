@@ -93,7 +93,7 @@ You can integrate Dynamics 365 Guides with Dynamics 365 Field Service so field s
 
 ## Find out what's new
 
-We're constantly updating Dynamics 365 Guides to include features requested by our customers. To find out what's new, check out these topics:
+We're constantly updating Dynamics 365 Guides to include the top features requested by our customers. To find out what's new, check out these topics:
 
 - [What's new](). This topic is also available from the app so it's always at your fingertips.
 
