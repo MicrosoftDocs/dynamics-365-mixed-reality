@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Get started with Dynamics 365 Guides
 
-Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]? Not sure where to begin? Use this topic to get a quick overview of available resources and jumpstart your learning curve.
+Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]? Not sure where to begin? Use this topic to get a quick overview of available resources and jumpstart your learning curve!
 
 ## Resources
 
@@ -19,27 +19,27 @@ Here's a quick list of top resources.
 
 ### Documentation
 
-This is whare you are now. Our in-depth documentation covers everything you need to know about authoring, operating, and analyzing guides. Check out the links in the Table of Contents to explore.
+This is whare you are now. Our in-depth documentation covers everything you need to know about authoring, operating, and analyzing guides. Explore the links in the Table of Contents.
 
 ### Video tutorials
 
 These step-by-step tutorials show you everything you need to know to get a quick overview: 
  
-  - Overview of Dynamics 365 Guides
+  - [Overview of Dynamics 365 Guides]()
   
-  - Author in the PC application
+  - [Author in the PC application]()
   
   - Anchor your guide in the real world:
   
-   - Using a printed anchor
+    - [Using a printed anchor]()
    
-   - Using a digital anchor
+    - [Using a digital anchor]()
    
-  - Author in the HoloLens application
+  - [Author in the HoloLens application]()
   
-  - Operate a guide
+  - [Operate a guide]()
   
-  - Analyze a guide
+  - [Analyze a guide]()
 
 ### Demo
 
@@ -69,43 +69,43 @@ To try it out, put on your [!include[cc-microsoft](../includes/cc-microsoft.md)]
 
 Use these topics to get a quick overview of the product and authoring steps:
 
-- Overview of Dynamics 365 Guides
+- [Overview of Dynamics 365 Guides]()
 
-- Authoring overview
+- [Authoring overview]()
 
-- Glossary of terms
+- [Glossary of terms]()
 
-- What makes a great guide?
+- [What makes a great guide?]()
 
 ## Set up and administer Dynamics 365 Guides
 
 These are the most important topics for admins:
 
-- Requirements for installation
+- [Requirements for installation]()
 
-- Buy and deploy Dynamics 365 Guides
+- [Buy and deploy Dynamics 365 Guides]()
 
-- Upgrade the solution
+- [Upgrade the solution]()
 
 ## Integrations
 
 You can integrate Dynamics 365 Guides with Dynamics 365 Field Service to help field service workers accomplish maintenance tasks.
 
-- Learn how to integrate Dynamcis 365 Guides with Dynamics 365 Field Service
+- [Learn how to integrate Dynamcis 365 Guides with Dynamics 365 Field Service]()
 
 ## Find out what's new
 
-We constantly update Dynamics 365 Guides to improve the product and include features requested by our customers. To find out what's new, check out these topics:
+We're constantly updating Dynamics 365 Guides to include features requested by our customers. To find out what's new, check out these topics:
 
-- What's new
+- [What's new](). This topic is also available from the app so it's always at your fingertips.
 
-- Release plan
+- Release plans
 
-  2019 Wave 1
+  [2019 Wave 1]()
 
-  2019 Wave 2
+  [2019 Wave 2]()
   
-  2020 Wave 1
+  [2020 Wave 1]()
 
 ## Need help or support?
 
@@ -115,6 +115,6 @@ If you run across an issue, check out these topics:
 
 - [Known Issues](known-issues.md). 
 
-If you don't find what you're looking for, contact Support at xxxxx.
+If you don't find what you're looking for, [find a list of phone numbers to contact Support]().
 
 
