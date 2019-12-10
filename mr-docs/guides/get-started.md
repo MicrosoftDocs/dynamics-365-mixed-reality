@@ -85,7 +85,7 @@ These are the most important topics for admins:
 
 ## Integrations
 
-You can integrate Dynamics 365 Guides with Dynamics 365 Field Service to so field service workers can use Dynamics 365 Guides to complete work orders.
+You can integrate Dynamics 365 Guides with Dynamics 365 Field Service so field service technicians can use Dynamics 365 Guides to complete their work orders.
 
 - [Learn how to integrate Dynamics 365 Guides with Dynamics 365 Field Service]()
 
