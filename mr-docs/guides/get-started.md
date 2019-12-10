@@ -19,7 +19,7 @@ Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] 
 
 This is where you are now. We organized our documentation by role so you can quickly get to the content you need, whether you're an admin, author, operator, or process engineer:
 
-ADD SCREEN SHOT HERE
+![Table of contents organized by role](media/organized-by-role.PNG "Table of contents organized by role")
 
 ### Video tutorials
 
@@ -47,13 +47,13 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select the **Try the demo** button.
 
-   ![Try the demo button](media/try-demo.PNG "Try the demo button")   
+   ![Try the demo button](media/try-demo-2.PNG "Try the demo button")   
    
 ### Example guide
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an Example guide that you can use to learn about the product. The Example guide walks you through common workflows and features, provides tips and tricks for creating great guides, and helps you get up to speed by doing.
     
-![Example Guide](media/example-guide.PNG "Example Guide")
+![Example Guide](media/example-guide-3.PNG "Example Guide")
 
 To try it out, put on your [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], start the [!include[pn-hololens](../includes/pn-hololens.md)] app in **Operate** mode, and then select **Example guide**. 
 
@@ -86,6 +86,8 @@ These are the most important topics for admins:
 ## Integrations
 
 You can integrate Dynamics 365 Guides with Dynamics 365 Field Service so field service technicians can use Dynamics 365 Guides to complete their work orders.
+
+![Field Service tab](media/field-service-2.PNG "Field Service tab")
 
 - [Learn how to integrate Dynamics 365 Guides with Dynamics 365 Field Service]()
 
