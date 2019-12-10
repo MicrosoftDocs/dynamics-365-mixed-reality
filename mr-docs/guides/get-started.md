@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]? Not sure where to begin? Use this topic to get a quick overview of available resources and jumpstart your learning curve!
 
-## Resources
+## Top resources
 
 Here's a quick list of top resources.
 
