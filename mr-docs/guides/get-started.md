@@ -23,21 +23,21 @@ This is where you are now. Our in-depth documentation covers everything you need
 
 These step-by-step video tutorials provide a quick overview of key concepts and tasks: 
  
-  - [Overview of Dynamics 365 Guides]()
+  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides]()
   
-  - [Author in the PC application]()
+  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the PC application]()
   
   - Anchor your guide in the real world:
   
-    - [Using a printed anchor]()
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Using a printed anchor]()
    
-    - [Using a digital anchor]()
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Using a digital anchor]()
    
-  - [Author in the HoloLens application]()
+  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens application]()
   
-  - [Operate a guide]()
+  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide]()
   
-  - [Analyze a guide]()
+  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze a guide]()
 
 ### Demo
 
