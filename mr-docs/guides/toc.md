@@ -1,7 +1,7 @@
 # Dynamics 365 Guides
 ## [Overview of Dynamics 365 Guides](index.md)
-## [What's new](new.md)
 ## [Get started](get-started.md)
+## [What's new](new.md)
 ## [Videos](videos.md)
 ## I'm an admin
 ### [Requirements for installation](requirements.md)
