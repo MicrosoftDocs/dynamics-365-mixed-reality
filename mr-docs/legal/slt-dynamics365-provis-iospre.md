@@ -2,7 +2,7 @@
 author: ReneeW-CPub
 description: License terms for preview of Microsoft Dynamics 365 Product Visualize iOS mobile 
 ms.author: renwe
-ms.date: 04/19/2019
+ms.date: 12/12/2019
 ms.service: crm-online
 ms.topic: article
 title: Microsoft software license terms for Microsoft Dynamics 365 Product Visualize iOS Mobile preview
@@ -86,10 +86,85 @@ These license terms are an agreement between you and Microsoft Corporation (or o
 **Please note: As this software is distributed in Canada, some of the clauses in this agreement are provided below in French.
 Remarque: Ce logiciel étant distribué au Canada, certaines des clauses dans ce contrat sont fournies ci-dessous en français.**
 
-**EXONÉRATION DE GARANTIE. Le logiciel visé par une licence est offert « tel quel ». Toute utilisation de ce logiciel est à votre seule risque et péril. Microsoft n’accorde aucune autre garantie expresse. Vous pouvez bénéficier de droits additionnels en vertu du droit local sur la protection des consommateurs, que ce contrat ne peut modifier. La ou elles sont permises par le droit locale, les garanties implicites de qualité marchande, d’adéquation à un usage particulier et d’absence de contrefaçon sont exclues.**
+## TERMES DU CONTRAT DE LICENCE LOGICIEL MICROSOFT - VERSION PRÉLIMINAIRE MICROSOFT DYNAMICS 365 PRODUCT VISUALIZE IOS MOBILE
 
-**LIMITATION DES DOMMAGES-INTÉRÊTS ET EXCLUSION DE RESPONSABILITÉ POUR LES DOMMAGES. Vous pouvez obtenir de Microsoft et de ses fournisseurs une indemnisation en cas de dommages directs uniquement à hauteur de 5,00 $ US. Vous ne pouvez prétendre à aucune indemnisation pour les autres dommages, y compris les dommages spéciaux, indirects ou accessoires et pertes de bénéfices.
-Cette limitation concerne:**
+Les présents termes du contrat de licence constituent un contrat entre vous et Microsoft Corporation (ou l'un de ses affiliés). Ils s'appliquent au logiciel d’évaluation désigné ci-dessus et aux services ou mises à jour de logiciels fournis par Microsoft (à moins que d'autres termes n'accompagnent ces éléments, auquel cas ces derniers s'appliquent prospectivement et ne modifient pas vos droits ni ceux de Microsoft en ce qui concerne les logiciels ou services mis à jour au préalable). SI VOUS VOUS CONFORMEZ AUX PRÉSENTS TERMES DU CONTRAT DE LICENCE, VOUS DISPOSEZ DES DROITS CI-DESSOUS. EN UTILISANT LE LOGICIEL, VOUS ACCEPTEZ CES TERMES.
+
+**1. INSTALLATION ET DROITS D’UTILISATION.**
+
+**a) Stipulations générales.** Vous pouvez installer et exécuter une instance du logiciel sur les appareils iOS mobiles que vous possédez ou que vous contrôlez. Vous devez désinstaller le logiciel une fois la période de la version préliminaire arrivée à expiration, sauf si vous avez acheté un abonnement pour l'appareil sur lequel ce logiciel est installé.
+
+**b) Autres applications Microsoft.** L’exécution du logiciel nécessite une licence pour Microsoft Dynamics 365 Sales, qui est un produit Microsoft distinct. Vous n’êtes pas autorisé à utiliser ce logiciel, sauf si vous avez une licence applicable pour Microsoft Dynamics 365 Sales. Ce logiciel peut aussi inclure des composants de Microsoft ou interagir avec d'autres applications Microsoft, y compris Microsoft Teams, qui sont régis par des contrats distincts et disposent de leurs propres politiques en matière d’assistance technique. En l'absence de conditions distinctes, les restrictions et limitations de ces conditions s’appliquent à l’utilisation de ces composants durant cette version préliminaire limitée.
+
+**c) Logiciels tiers.** Le logiciel peut inclure des applications ou des composants logiciels tiers. Sauf déclaration contraire dans ce logiciel, Microsoft, et non le tiers, vous le concède sous licence aux termes du présent contrat. Les mentions éventuelles relatives aux applications de tiers sont incluses pour votre information uniquement.
+
+**d) Conditions des services Microsoft.** Certaines fonctions du logiciel peuvent fournir un point d’accès à des services en ligne ou en exploitent. Le cas échéant, l’utilisation desdits services (mais pas du logiciel) est régie par des conditions distinctes applicables à ces services tel que convenu entre vous et Microsoft occasionnellement, puisque ces conditions peuvent être modifiées pour les versions préliminaires.
+
+**2. LOGICIEL TEMPORAIRE.**
+
+**a) Durée.** Le présent contrat entre en vigueur lors de votre signature et sera résilié à la survenance du premier des événements suivants : (i) trente (30) jours après la mise sur le marché du logiciel ou (ii) lors de la résiliation par Microsoft. Microsoft peut prolonger le présent contrat, à sa seule discrétion.
+
+**b) Notification.** Le logiciel pourra afficher des notifications de rappel de ladite date.
+
+**c) Accès aux données.** Vous risquez de ne plus pouvoir accéder aux données utilisées dans le logiciel une fois que celui-ci cessera de fonctionner.
+
+**3. LOGICIEL EN VERSION PRÉCOMMERCIALE.** Le logiciel est une version précommerciale. Il peut ne pas fonctionner correctement. En cas d’édition d’une version commerciale, celle-ci peut différer de ce logiciel.
+
+**4. MISE EN GARDE : Il vous incombe d'utiliser le logiciel de manière sûre et légale. Faites preuve de prudence et soyez conscient de votre environnement lorsque vous utilisez le logiciel, en particulier lors de vos déplacements. Vous ne devez pas utiliser le logiciel si un autre équipement est en cours d'exécution.**
+
+**5. COMMENTAIRES.** Si vous faites part de vos commentaires concernant le logiciel à Microsoft, vous concédez gracieusement à Microsoft le droit d’utiliser, de partager et de commercialiser vos commentaires de quelque façon que ce soit et à toute fin. Vous ne fournirez pas de commentaires faisant l’objet d’une licence qui impose à Microsoft de concéder sous licence son logiciel ou sa documentation à des tiers du fait que nous y incluons vos commentaires. Ces droits survivent au présent contrat.
+
+**6. COLLECTE DES DONNÉES.** Le logiciel peut collecter des informations sur vous et votre utilisation du logiciel et les envoyer à Microsoft. Microsoft est susceptible d’utiliser ces informations pour fournir des services et améliorer ses produits et services. Vos droits de désactivation, le cas échéant, sont indiqués dans la documentation du produit. Certaines fonctionnalités du logiciel peuvent permettre la collecte de données auprès des utilisateurs des applications qui accèdent au logiciel ou l’utilisent. Si vous utilisez ces fonctionnalités pour permettre la collecte de données dans vos applications, vous devez le faire en toute conformité avec la réglementation applicable, notamment en obtenant le consentement de l’utilisateur et en maintenant une politique de confidentialité bien visible qui informe les utilisateurs de l’utilisation, de la collecte et du partage de leurs données. Pour en savoir plus sur la collecte et l'utilisation des données par Microsoft, consultez la documentation du produit et la Déclaration de confidentialité Microsoft à l'adresse https://go.microsoft.com/fwlink/?LinkId=521839. Vous acceptez de vous conformer à toutes les provisions applicables de la Déclaration de confidentialité Microsoft.
+
+**7. CHAMP D’APPLICATION DE LA LICENCE.** Le logiciel n’est pas vendu, mais concédé sous licence. Microsoft se réserve tous les autres droits. Sauf si la réglementation applicable vous confère d’autres droits, nonobstant la présente limitation, vous n’êtes pas autorisé à:
+
+**a)** contourner les restrictions techniques contenues dans le logiciel qui vous permettent de l’utiliser d’une certaine façon;
+
+**b)** reconstituer la logique du logiciel, le décompiler ou le désassembler;
+
+**c)** supprimer, réduire, bloquer ou modifier toute mention légale de Microsoft ou de ses fournisseurs dans le logiciel;
+
+**d)** utiliser le logiciel d’une manière contraire à la législation ou pour créer ou propager des logiciels malveillants; ou
+
+**e)** partager, publier, distribuer ou prêter le logiciel, ou le fournir en tant que solution hébergée autonome utilisable par autrui, ou transférer le logiciel ou ce contrat à un tiers.
+
+**8. RESTRICTIONS À L’EXPORTATION.** Vous devez vous conformer à toutes les lois et réglementations nationales et internationales en matière d'exportation concernant le logiciel, qui contiennent des restrictions en matière de destinations, d'utilisateurs finaux et d'utilisation finale. Pour plus d'informations sur les restrictions à l'exportation, consultez le site http://aka.ms/exporting.
+
+**9. SERVICE D’ASSISTANCE TECHNIQUE.** Microsoft n’a aucune obligation de fournir des services d’assistance technique pour le logiciel en vertu de ce contrat. Les services d'assistance technique sont fournis « en l'état », « avec toutes les imperfections » et sans aucune garantie.
+
+**10. MISES À JOUR.** Le logiciel peut régulièrement rechercher des mises à jour, qu’il télécharge et installe automatiquement. Vous ne pouvez obtenir des mises à jour qu’auprès de Microsoft ou de sources autorisées. Microsoft peut avoir besoin de mettre à jour votre système pour vous fournir les mises à jour. Vous acceptez de recevoir ces mises à jour automatiques sans autre préavis. Ces mises à jour ne peuvent pas inclure ou prendre en charge tous les services, fonctionnalités logicielles ou périphériques existants.
+
+**11. INTÉGRALITÉ DES ACCORDS.** Le présent contrat ainsi que les conditions concernant les suppléments, les mises à jour ou les applications de tiers constituent l’intégralité des accords en ce qui concerne le logiciel.
+
+**12. RÉGLEMENTATION APPLICABLE ET TRIBUNAL COMPÉTENT.** Si vous avez acheté le logiciel aux États-Unis ou au Canada, les lois de l'État ou de la province où vous résidez (ou, dans le cas d'une entreprise, où se trouve votre siège social) régissent l'interprétation du présent contrat, les réclamations pour rupture du présent contrat et toutes les autres réclamations (y compris celles fondées sur la protection des consommateurs, la concurrence déloyale et les délits), sans tenir compte de leurs dispositions relatives aux conflits de lois. Si vous avez acquis le logiciel dans un autre pays, ses lois s’appliquent. S’il existe une compétence fédérale, vous et Microsoft consentez irrévocablement à ce que tout litige soumis à un tribunal soit soumis à la compétence exclusive des tribunaux fédéraux siégeant dans le comté de King (King County), Washington, États-Unis. Dans le cas contraire, vous et Microsoft consentez irrévocablement à ce que tout litige soumis à un tribunal soit soumis à la compétence exclusive de la Cour Supérieure du comté de King (King County), Washington, États-Unis.
+
+**13. DROITS DES CONSOMMATEURS VARIABLES SELON LES RÉGIONS.** Le présent contrat décrit certains droits légaux. Vous pouvez bénéficier d'autres droits, y compris des droits des consommateurs, prévus par les lois de votre État, province ou pays. Indépendamment de votre relation avec Microsoft, vous pouvez également bénéficier de certains droits octroyés par la partie auprès de laquelle vous avez acquis le logiciel. Le présent contrat ne modifie pas ces autres droits si les lois de votre État, province ou pays ne le permettent pas. Par exemple, si vous avez acquis le logiciel dans l'une des régions ci-dessous ou si une loi nationale s'applique, vous êtes tenu de vous conformer aux dispositions suivantes:
+
+**a) Australie.** La loi australienne sur la consommation (Australian Consumer Law) vous accorde des garanties statutaires qu'aucun élément du présent contrat ne peut affecter.
+
+**b) Canada.** Si vous avez acheté le logiciel au Canada, pour ne plus recevoir de mises à jour, vous pouvez désactiver la fonction Mises à jour automatiques, déconnecter votre dispositif d'Internet (néanmoins, le logiciel recherchera et installera les mises à jour disponibles automatiquement dès la reconnexion du dispositif à Internet) ou désinstaller le logiciel. La documentation du produit, le cas échéant, peut également indiquer comment désactiver les mises à jour de votre produit ou dispositif spécifique.
+
+**c) Allemagne et Autriche.**
+
+**i. Garantie.** Le logiciel sous licence valable fonctionnera, pour l’essentiel, comme le décrit la documentation de Microsoft qui l’accompagne. Microsoft n’accorde toutefois aucune autre garantie contractuelle relative au logiciel sous licence.
+
+**ii. Limitation de responsabilité.** En cas de faute intentionnelle, de faute lourde, de réclamation fondée sur la loi allemande sur la responsabilité du fait des produits, ou de faute entraînant un décès ou des préjudices corporels ou matériels, Microsoft sera tenue légalement responsable.
+
+Sous réserve de la clause ii qui précède, la responsabilité de Microsoft pour négligence légère ne sera engagée qu’en cas de manquement aux obligations contractuelles essentielles à la bonne exécution du présent contrat, dans la mesure où ledit manquement compromet l’objet même du présent contrat et la confiance des partenaires contractuels relative au respect de ces dernières (les « obligations majeures »). La responsabilité de Microsoft ne sera pas engagée en cas d'autres fautes légères.
+
+**14. EXCLUSIONS DE GARANTIE. LE LOGICIEL EST CONCÉDÉ SOUS LICENCE « EN L’ÉTAT ». VOUS ASSUMEZ TOUS LES RISQUES LIÉS À SON UTILISATION. MICROSOFT N’ACCORDE AUCUNE GARANTIE OU CONDITION EXPRESSE. DANS LA MESURE PERMISE PAR LA RÉGLEMENTATION APPLICABLE, MICROSOFT EXCLUT TOUTES LES GARANTIES IMPLICITES, Y COMPRIS DE QUALITÉ, D’ADÉQUATION À UN USAGE PARTICULIER ET D’ABSENCE DE CONTREFAÇON.**
+
+**15. LIMITATION ET EXCLUSION DE RESPONSABILITÉ EN CAS DE DOMMAGES. SI VOUS AVEZ DES MOTIFS DE RÉCLAMATION DE DOMMAGES AUPRÈS DE MICROSOFT OU DE SES FOURNISSEURS, NONOBSTANT L'EXCLUSION DE GARANTIE PRÉCÉDENTE, VOUS NE POUVEZ OBTENIR QU'UNE INDEMNISATION EN CAS DE DOMMAGES DIRECTS LIMITÉE À CINQ DOLLARS AMÉRICAINS (5,00 USD). VOUS NE POUVEZ PRÉTENDRE À AUCUNE INDEMNISATION POUR LES AUTRES DOMMAGES, Y COMPRIS LES DOMMAGES SPÉCIAUX, INCIDENTS, INDIRECTS ET LES PERTES DE BÉNÉFICES.**
+
+**Cette limitation s'applique (a) à toute affaire liée au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers ou dans des applications tierces ; et (b) aux réclamations pour manquement aux termes du contrat ou violation de garantie ou de condition, responsabilité sans faute, négligence ou autre délit ; ou à toute autre réclamation ; selon le cas, dans la limite autorisée par la réglementation applicable.**
+
+**Elle s'applique également même si Microsoft avait ou aurait dû avoir connaissance de l'éventualité de tels dommages. La limitation ou l’exclusion ci-dessus peut également ne pas vous être applicable si votre État, province ou pays n’autorise pas l’exclusion ou la limitation de responsabilité pour les dommages incidents, indirects ou de quelque nature que ce soit.**
+
+**Remarque: Ce logiciel étant distribué au Canada, certaines des clauses dans ce contrat sont fournies ci-dessous en français.**
+
+**EXONÉRATION DE GARANTIE.** Le logiciel visé par une licence est offert « tel quel ». Toute utilisation de ce logiciel est à votre seule risque et péril. Microsoft n’accorde aucune autre garantie expresse. Vous pouvez bénéficier de droits additionnels en vertu du droit local sur la protection des consommateurs, que ce contrat ne peut modifier. La ou elles sont permises par le droit locale, les garanties implicites de qualité marchande, d’adéquation à un usage particulier et d’absence de contrefaçon sont exclues.**
+
+**LIMITATION DES DOMMAGES-INTÉRÊTS ET EXCLUSION DE RESPONSABILITÉ POUR LES DOMMAGES. Vous pouvez obtenir de Microsoft et de ses fournisseurs une indemnisation en cas de dommages directs uniquement à hauteur de 5,00 $ US. Vous ne pouvez prétendre à aucune indemnisation pour les autres dommages, y compris les dommages spéciaux, indirects ou accessoires et pertes de bénéfices. Cette limitation concerne:**
 
 **- tout ce qui est relié au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers ou dans des programmes tiers; et**
 
@@ -98,4 +173,5 @@ Cette limitation concerne:**
 **Elle s’applique également, même si Microsoft connaissait ou devrait connaître l’éventualité d’un tel dommage. Si votre pays n’autorise pas l’exclusion ou la limitation de responsabilité pour les dommages indirects, accessoires ou de quelque nature que ce soit, il se peut que la limitation ou l’exclusion ci-dessus ne s’appliquera pas à votre égard.**
 
 **EFFET JURIDIQUE. Le présent contrat décrit certains droits juridiques. Vous pourriez avoir d’autres droits prévus par les lois de votre pays. Le présent contrat ne modifie pas les droits que vous confèrent les lois de votre pays si celles-ci ne le permettent pas.**
+
 
