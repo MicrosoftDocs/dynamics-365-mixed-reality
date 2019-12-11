@@ -43,7 +43,7 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 3. In the left pane, select **Groups**, and then select **Groups** again.
 
-   ![Groups left-nav item](media/create-group.PNG "Groups left-nav item")
+   ![Groups left-pane item](media/create-group.PNG "Groups left-pane item")
 
 4. Near the top of the page, select **Add a group**.
 
@@ -54,8 +54,9 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 7. Select **Add** to finish adding the group.
 
 ### Share the SharePoint site with the group
+<!--note from editor: Please check edit to step 1.-->
 
-1. Go to your trial's SharePoint site: [https://\<org name\>.sharepoint.com]().
+1. Go to the SharePoint site for your Dynamics 365 Product Visualize trial: [https://\<org name\>.sharepoint.com]().
 
 2. In the upper-right corner of the page, select **Share site**.
 
@@ -81,7 +82,7 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
 2. In the left pane, select **Users**, and then select **Active users**.
 
-   ![Active users left-nav item](media/active-users-2.PNG "Active users left-nav item")
+   ![Active users left-pane item](media/active-users-2.PNG "Active users left-pane item")
 
 3. Near the top of the page, select **Add a user**.
 
@@ -142,7 +143,7 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
 7. On the **Users** page, from the menu bar near the top of the page, select **Approve email** so the user is synced by the server.
 
-   ![Approve email](media/user-actions-email.PNG "Approve Email")
+   ![Approve email](media/user-actions-email.PNG "Approve email")
 
 8. On the menu bar, select **Manage roles**.
 
@@ -156,11 +157,11 @@ New users must first be added in Azure Active Directory, which assigns them a us
 
 *Products* are the things you sell to the customer, which can be physical goods or services. Products that a customer might be interested in purchasing are added to a sales opportunity. This enables salespeople to exactly track a customer's needs to the potential revenue a sale might bring in.
 
-Products are sold in *units*, which represent the possible quantities that are sold together. Examples of units include hours, cases, or pallets. Units are grouped into *unit groups*, which keep units with a similar purpose together. If you sell services, "time" might be a unit group containing days, hours, and minutes. 
+Products are sold in *units*, which represent the possible quantities that are sold together. Examples of units include hours, cases, or pallets. Units are grouped into *unit groups*, which keep units that have a similar purpose together. If you sell services, "time" might be a unit group containing days, hours, and minutes.
 
-Products can be priced differently depending on who you are selling to, when the sale is happening, and where the customer works. Prices with a similar purpose are grouped together into *Price Lists*. For example, you might have one price list for customers in Canada and another for customers in the United States.
+Products can be priced differently depending on who you're selling to, when the sale is happening, and where the customer works. Prices with a similar purpose are grouped together into *price lists*. For example, you might have one price list for customers in Canada and another for customers in the United States.
 
-Individual products can be arranged into a hierarchy, as well. *Product Families* allow you to categorize similar products based on your organization's needs.
+Individual products can be arranged into a hierarchy, as well. You can use *product families* to categorize similar products based on your organization's needs.
 
 This section provides step-by-step instructions for creating a new price list, product family, and product. Dynamics 365 provides default values for units and unit groups.
 
@@ -176,7 +177,7 @@ This section provides step-by-step instructions for creating a new price list, p
 
 4. Select **Price Lists**.
 
-5. Create a new price list by selecting **New** near the top-left of the page.
+5. Create a new price list by selecting **New** near the upper-left corner of the page.
 
 6. Give the price list a name (**Default Price List**), and then select **Save and Close**.
 
@@ -192,13 +193,13 @@ This section provides step-by-step instructions for creating a new price list, p
 
 5. Select the check box for the product family, and then select **Publish** to finish creating the product family.
 
-   ![Publish product family](media/publish-product-family.png "Publish product family")
+   ![Publish product family](media/publish-product-family.png "Publish a product family")
   
 ### Create a product
 
 1. In the left pane, select **Products** to return to the product list, and then select **Add Product** to create a new product.
 
-   ![Products item in left pane](media/select-products.PNG "Products item in left pane")
+   ![Products item in left pane](media/select-products.PNG "Products item in the left pane")
 
 2. In the **Product** form, enter the following values:
 
@@ -214,11 +215,11 @@ This section provides step-by-step instructions for creating a new price list, p
    
    - **Decimals Supported**. Set this field to **2**.
 
-      ![Dialog box with values filled in](media/finished-dialog.PNG "Dialog box with values filled in") 
+      ![Dialog box with values filled in](media/finished-dialog.PNG "Dialog box with values filled in")
 
 3. Set the **Default Price List** field to **Default Price List**.
 
-4. Select **Save**, but don't close the product.   
+4. Select **Save**, but don't close the product.
 
 5. Select the **Additional Details** tab, and then select **New Price List Item**.
 
@@ -240,11 +241,11 @@ This section provides step-by-step instructions for creating a new price list, p
 
 ## Add models
 
-Presenting complicated products to a customer with traditional 2D materials is unsatisfactory, and creating 
-physical 3D models is time-consuming and costly. Product Visualize simplifies the entire process by bringing 3D digital 
-models into the real world. 
+Presenting complicated products to a customer by using traditional 2D materials is unsatisfactory, and creating 
+physical 3D models is time-consuming and costly. Dynamics 365 Product Visualize simplifies the entire process by bringing 3D digital 
+models into the real world.
 
-Dynamics 365 Product Visualize makes use of the widely available GL Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and exporting tools exist to convert many other formats to glTF. The GLB format is the binary version of .glTF version 2.0, which can include textures. 
+Dynamics 365 Product Visualize makes use of the widely available GL Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and <!--self: reword?-->exporting tools exist to convert many other formats to glTF. The GLB format is the binary version of .glTF version 2.0, which can include textures.
 
 This section provides step-by-step instructions for adding a model and thumbnail image to Dynamics 365 Product Visualize.
 
@@ -252,7 +253,7 @@ This section provides step-by-step instructions for adding a model and thumbnail
 
 1. In the left pane, select **Products** to go back to the **Product list** page.
 
-2. Select a product to open it. 
+2. Select a product to open it.
 
 3. On the **Related** tab, select **Documents**.
 
@@ -265,13 +266,13 @@ This section provides step-by-step instructions for adding a model and thumbnail
 5. Drag and drop your model file (as a GLB file) into this location. It will automatically show up in Dynamics 365 Product Visualize.
 
     > [!NOTE]
-    > SharePoint folders are created when you first visit the Documents folder using a Dynamics 365 app. If the folder for a product doesn't exist yet, return to the Sales Hub and open the product's document location from there. After it's created, you can access it through SharePoint.
+    > SharePoint folders are created when you first visit the Documents folder by using a Dynamics 365 app. If the folder for a product doesn't exist yet, return to the Sales Hub and open the product's document location from there. After it's created, you can access it through SharePoint.
 
 6. Optional: SharePoint automatically provides a thumbnail for Dynamics 365 Product Visualize. However, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb".
 
 ## Add opportunities
 
-Opportunities represent a chance to sell your products to a customer. They capture a customer's needs, budget, and timeline, in addition to the list of products the customer is interested in buying. Sales people can view their open opportunities directly from the Dynamics 365 Product Visualize app, but they must be added through the Sales Hub interface.
+Opportunities represent a chance to sell your products to a customer. They capture a customer's needs, budget, and timeline, in addition to the list of products the customer is interested in buying. Salespeople can view their open opportunities directly from the Dynamics 365 Product Visualize app, but they must be added through the Sales Hub interface.
 
 ### Add an opportunity
 
@@ -290,15 +291,15 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 6. Select **Save**, but don't close the opportunity.
 
-7. Open the **Product line items** tab. 
+7. Open the **Product line items** tab.
 
    ![Product line items tab](media/product-line-items-tab.PNG "Product line items tab")
 
 8. Set the **Price List** to the one created earlier.
 
-9. Select **Add New Opportunity Product**. 
+9. Select **Add New Opportunity Product**.
 
-   ![Add New Opportunity Product](media/new-opportunity-product.PNG "Add New Opportunity Product")   
+   ![Add New Opportunity Product](media/new-opportunity-product.PNG "Add New Opportunity Product")
 
 10. In the **Existing Product** field, select one of the products you created.
 
@@ -308,7 +309,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 ## Install the Dynamics 365 Product Visualize solution
 
-The Dynamics 365 Product Visualize solution is a package that customizes your Dynamics 365 installation in order to support Dynamics 365 Product Visualize.
+The Dynamics 365 Product Visualize solution is a package that customizes your Dynamics 365 installation to support Dynamics 365 Product Visualize.
 
 ### Import the Dynamics 365 Product Visualize solution
 
@@ -320,7 +321,7 @@ The Dynamics 365 Product Visualize solution is a package that customizes your Dy
 
 3. In the **Settings** drop-down list at the top of the page, select **Solutions**.
 
-5. Import the solution by selecting the **Import** button and then selecting the solution (.zip file) you downloaded.
+5. Import the solution by selecting the **Import** button, and then selecting the solution (.zip file) you downloaded.
 
    ![Import solution](media/import-solution.PNG "Import solution")
  
@@ -341,7 +342,7 @@ The Dynamics 365 Product Visualize solution is a package that customizes your Dy
 
 The Dynamics 365 Product Visualize solution also contains an optional enhancement (a control) that allows salespeople to open the Dynamics 365 Product Visualize app directly from Dynamics 365 Sales on their mobile devices. The control is lightweight and can easily be updated or removed.
 
-There are numerous ways you can customize your Opportunity page in Dynamics 365 Sales. This procedure provides suggested customizations, but feel free to adapt to your needs:
+There are numerous ways you can customize your Opportunity page in Dynamics 365 Sales. This procedure provides suggested customizations, but feel free to adapt them to your needs.
 
 1. In the **Settings** drop-down list at the top of the page, select **Customizations**, and then select **Customize the System**.
 
@@ -373,11 +374,11 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 ### Sign up for Teams
 
-1. In a private browser window, go to the Microsoft 365 Admin Center at [https://admin.microsoft.com](https://admin.microsoft.com).
+1. In a private browser window, go to the Microsoft 365 admin center at [https://admin.microsoft.com](https://admin.microsoft.com).
 
 2. Sign in with the administrator credentials you created.
 
-3. In the left pane, select **Billing** and then select **Purchase services**.
+3. In the left pane, select **Billing**, and then select **Purchase services**.
 
 4. Search for **Office 365 Business Premium**, and then select the **Office 365 Business Premium** panel from the results.
 
@@ -395,9 +396,9 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 3. Select **Get Started**.
 
-4. Once the web app has loaded, you should see an option to join or create a team. Select **Create Team**.
+4. After the web app has loaded, you should see an option to join or create a team. Select **Create Team**.
 
-5. When you see the option to build a team from scratch or create from an existing team, select **Build a team from scratch**.
+5. When you see the option to build a team from scratch or create one from an existing team, select **Build a team from scratch**.
 
 6. Make the group **Org-Wide**.
 
@@ -409,7 +410,7 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
 
 1. In the **Teams and Channels** list, select the **More Information** button next to the team you just created.
 
-2. Select **Add Channel**. 
+2. Select **Add Channel**.
 
 3. Give the channel a name related to the opportunities you want to connect to it (for example: Seattle-area opportunities).
 
@@ -417,9 +418,9 @@ Microsoft Teams is the best way to collaborate with your team, manage files, and
    
 ### Connect Teams to Dynamics 365
 
-1. In the lower corner of the Teams client, select **Apps**.
+1. In the lower-left corner of the Teams client, select **Apps**.
 
-2. Search for "Dynamics 365".
+2. Search for **Dynamics 365**.
 
 3. Select the icon for Dynamics 365 (Preview) to open the installation dialog box.
 
@@ -457,11 +458,11 @@ For more information about setting up Teams, see [Install and set up the Dynamic
 
 ### Post notes from Dynamics 365 Product Visualize
 
-Dynamics 365 Product Visualize makes your customer's needs part of the conversation by posting any notes you make in the app back to a connected Teams channel. The text and mixed-reality image get posted to Teams, giving your team the information and context they need to make smart decisions. This feature is enabled by default but can be turned off through the in-app **Settings** menu. 
+Dynamics 365 Product Visualize makes your customers' needs part of the conversation by posting any notes you make in the app back to a connected Teams channel. The text and mixed-reality image get posted to Teams, giving your team the information and context they need to make smart decisions. This feature is enabled by default, but can be turned off through the in-app **Settings** menu.
 
 ## What's next?
 
-You now have everything you need to start using Microsoft Dynamics 365 Product Visualize. New opportunities, products, and models will show up automatically in the application after they have been added to Dynamics 365 Sales. For help or feedback, use the **Feedback** button in the Dynamics 365 Product Visualize app.
+You now have everything you need to start using Microsoft Dynamics 365 Product Visualize. New opportunities, products, and models will show up automatically in the application after they've been added to Dynamics 365 Sales. For help or feedback, use the **Feedback** button in the Dynamics 365 Product Visualize app.
 
 ### See also
 
