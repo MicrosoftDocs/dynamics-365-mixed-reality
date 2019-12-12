@@ -1,5 +1,5 @@
 ---
-author: Ben Corn
+author: bencorn
 description: Launch Dynamics 365 Remote Assist from another app (protocol activation)
 ms.author: bencorn
 ms.date: 10/01/2019
