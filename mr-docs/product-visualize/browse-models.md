@@ -2,7 +2,7 @@
 author: mamithan
 description: How to view 3D models (GLB files) stored on your device in Dynamics 365 Product Visualize.
 ms.author: mamithan
-ms.date: 10/31/2019
+ms.date: 12/07/2019
 ms.service: crm-online
 ms.topic: article
 title: View 3D models stored on your device in Dynamics 365 Product Visualize
@@ -19,7 +19,10 @@ You don't have to have a Dynamics 365 account to view 3D models in Dynamics 365 
    
 2. Select **Continue**.
    
-   Dynamics 365 Product Visualize browses your device and displays any GLB files.
+   Dynamics 365 Product Visualize browses through your device and displays any GLB files.
+   
+    >[!TIP]
+    >If you want to see dimensions for the model, enable the **Product measurements feature**. To enable this feature, select the **Main** menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. After the feature is enabled, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model. At this time, you can view dimensions in metric only.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
 
 
 ### See also
@@ -28,6 +31,6 @@ You don't have to have a Dynamics 365 account to view 3D models in Dynamics 365 
 [Place and manipulate 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
 [Show or hide layers in a 3D model](layers.md)<br>
-[Explore sample 3D models](add-model.md)<br>
-[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)
-
+[Explore sample 3D models](explore-samples.md)<br>
+[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
+[Download 3D models to use offline](download-models.md)
