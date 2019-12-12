@@ -128,7 +128,7 @@ Les présents termes du contrat de licence constituent un contrat entre vous et 
 
 **e)** partager, publier, distribuer ou prêter le logiciel, ou le fournir en tant que solution hébergée autonome utilisable par autrui, ou transférer le logiciel ou ce contrat à un tiers.
 
-**8. RESTRICTIONS À L’EXPORTATION.** Vous devez vous conformer à toutes les lois et réglementations nationales et internationales en matière d'exportation concernant le logiciel, qui contiennent des restrictions en matière de destinations, d'utilisateurs finaux et d'utilisation finale. Pour plus d'informations sur les restrictions à l'exportation, consultez le site http://aka.ms/exporting.
+**8. RESTRICTIONS À L’EXPORTATION.** Vous devez vous conformer à toutes les lois et réglementations nationales et internationales en matière d'exportation concernant le logiciel, qui contiennent des restrictions en matière de destinations, d'utilisateurs finaux et d'utilisation finale. Pour plus d'informations sur les restrictions à l'exportation, consultez le site https://aka.ms/exporting.
 
 **9. SERVICE D’ASSISTANCE TECHNIQUE.** Microsoft n’a aucune obligation de fournir des services d’assistance technique pour le logiciel en vertu de ce contrat. Les services d'assistance technique sont fournis « en l'état », « avec toutes les imperfections » et sans aucune garantie.
 
