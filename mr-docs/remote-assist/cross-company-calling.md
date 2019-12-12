@@ -1,7 +1,7 @@
 ---
-author: bencorn
+author: sophiasysun
 description: Set up cross-company calling for Dynamics 365 Remote Assist by enabling external access in Microsoft Teams admin center.
-ms.author: becorn
+ms.author: sopsun
 ms.date: 05/06/2019
 ms.service: crm-online
 ms.topic: article
