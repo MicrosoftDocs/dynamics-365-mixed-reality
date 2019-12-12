@@ -1,7 +1,7 @@
 ---
-author: bencorn
+author: xonatia
 description: Learn how to buy Dynamics 365 Remote Assist, add users to the subscription, and deploy the app to users in several different ways
-ms.author: bencorn
+ms.author: xolee
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
@@ -23,7 +23,7 @@ You can subscribe to [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-
 -   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
     - Calling us at 1-888-477-7989, or
     
-    - Requesting to be contacted at http://aka.ms/getRemoteassist.
+    - Requesting to be contacted at https://aka.ms/getRemoteassist.
     
 -   Through the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/catalog). Step-by-step instructions for logging in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided below.
 

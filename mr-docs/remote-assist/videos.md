@@ -1,7 +1,7 @@
 ---
-author: carrinef
+author: jahardner
 description: Watch these short videos to get up and running with Microsoft Dynamics 365 Remote Assist.
-ms.author: cafish
+ms.author: johardne
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
