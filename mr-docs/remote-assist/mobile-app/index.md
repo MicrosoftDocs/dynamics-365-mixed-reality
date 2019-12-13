@@ -1,7 +1,7 @@
 ---
-author: drpusey
+author: IshitaGanotra
 description: Dynamics 365 Remote Assist for mobile user guide
-ms.author: drpusey
+ms.author: isganotr
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
