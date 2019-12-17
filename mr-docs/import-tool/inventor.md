@@ -10,7 +10,8 @@ ms.reviewer: v-brycho
 ---
 
 # Prepare Autodesk Inventor 3D models for use in Dynamics 365 Import Tool (Preview)
-<!--note to self: note difference between title and heading 1. Intentional?-->
+<!--note from editor: There's a subtle difference between the title and the H1, but should there be?-->
+
 This tutorial shows how to prepare Autodesk Inventor files for use in Microsoft Dynamics 365 Import Tool (Preview). Dynamics 365 Import Tool (Preview) accepts formats like OBJ and changes them to GLB, the real-time format used in Dynamics 365 mixed-reality apps.  
 
 > [!IMPORTANT]

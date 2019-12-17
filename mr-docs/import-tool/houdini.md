@@ -29,7 +29,7 @@ This tutorial provides step-by-step instructions that show you how to:
 Houdini is built from the ground up as a procedural system that empowers artists to work freely, create multiple iterations, and rapidly share workflows with colleagues.
 
 ## Import a 3D model into Houdini
-<!--note from editor: In step 4, does "press I" mean type the letter I on the keyboard? (Style Guide wants us to use "select" even for physical keys, alas.) Is it important to supply two ways to do this?-->
+<!--note from editor: In step 4, I assume "press I" means type the letter I on the keyboard? I'm in a bit of a quandary because the Style Guide wants us to use "select" even for physical keys, but in some of these procedures I think it's going to be confusing not to differentiate physical key actions from selecting with the mouse, so I've left "press" in there. However, if it isn't necessary to supply two ways to accomplish the same thing, I think we should go with using the mouse. I do understand it's a tutorial, so maybe you want to teach these alternative steps as you go.-->
 
 1. Open Houdini 17.5.
 
@@ -43,7 +43,7 @@ Houdini is built from the ground up as a procedural system that empowers artists
 
    ![Import File](media/2-houdini-import-file.PNG "Import a file")
 
-4. Double-click the **file1** icon (or select **I** on the keyboard) to drill down to the file selection part of this node. Select the **Open floating file chooser** button, and then choose the file you want to import.
+4. Double-click the **file1** icon (or press **I**) to drill down to the file selection part of this node. Select the **Open floating file chooser** button, and then choose the file you want to import.
 
    ![File chooser button](media/3-houdini-file-chooser.PNG "File chooser button")
 
@@ -63,9 +63,9 @@ To reach application-specific goals, you might need to "decimate" your 3D models
 
 **To decimate a 3D model**
 
-1.	In the **Geometry** pane on the lower right, select the **Tab** key to open the **TAB Menu**.
+1.	In the **Geometry** pane on the lower right, press the **Tab** key to open the **TAB Menu**.
 
-2. Select **Polygon** > **PolyReduce**, and then select the **Enter** key to select the **PolyReduce** node. Select or click in the area beneath the **File** node to place a **PolyReduce** node.
+2. Select **Polygon** > **PolyReduce**, and then press **Enter** to select the **PolyReduce** node. Select or click in the area beneath the **File** node to place a **PolyReduce** node.
 
     ![Polygon PolyReduce](media/7-houdini-poly-reduce.PNG "Polygon PolyReduce")
 
