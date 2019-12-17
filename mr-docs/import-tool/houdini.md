@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 This tutorial provides step-by-step instructions that show you how to:
 
-- Optimize a 3D model by reducing the polygon count so that it matches [performance targets for Microsoft Dynamics 365 mixed-reality apps](optimize-models.md#performance-targets).  
+- Optimize a 3D model by reducing the polygon count so that it matches [performance targets](optimize-models.md#performance-targets) for Microsoft Dynamics 365 mixed-reality apps.  
 
 - Add the correct material to a 3D model.
 

@@ -114,7 +114,7 @@ To visualize the concept of UV unwrapping, imagine cutting out every surface of 
     ![Smart UV Project](media/blender-UV.png "Smart UV Project")
 
     > [!TIP]
-    > Enter **Edit Mode** by selecting the **Edit Mode** list in the upper-left corner, or press the Tab key. Pressing the Tab key while already in **Edit Mode** returns you to **Object Mode**, as shown in the following graphic.
+    > Enter **Edit Mode** by selecting the **Edit Mode** list in the upper-left corner, or press the **Tab** key. Pressing the Tab key while already in **Edit Mode** returns you to **Object Mode**, as shown in the following graphic.
 
     ![Blender Object mode](media/blender-object-mode.PNG "Blender Object mode")
 
