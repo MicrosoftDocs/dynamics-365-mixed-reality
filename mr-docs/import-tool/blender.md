@@ -13,11 +13,11 @@ ms.reviewer: v-brycho
 
 This tutorial provides step-by-step instructions that show you how to:
 
-- Reduce the polygon count of a 3D model so that it matches the performance needs specific to [performance targets](optimize-models#performance-targets) for Microsoft Dynamics 365 mixed-reality apps.
+- Reduce the polygon count of a 3D model so that it matches the performance needs specific to [performance targets](optimize-models.md#performance-targets) for Microsoft Dynamics 365 mixed-reality apps.
 
 - Combine the 3D model's multiple materials (colors) into a single texture that can be applied to the model.
 
-- Export the optimized 3D model as a [GLB file](import-tool.md/#gltf-and-glb-file-formats) that can be used in Dynamics 365 mixed-reality apps.
+- Export the optimized 3D model as a [GLB file](index.md/#gltf-and-glb-file-formats) that can be used in Dynamics 365 mixed-reality apps.
 
 The combination of reducing polygons and turning multiple materials into a single texture can transform a complex and resource-intensive 3D model into a 3D model that performs well in mixed-reality apps.
 

@@ -145,8 +145,8 @@ If you don't have SOLIDWORKS 2019 and the XR Exporter add-in, you need to do one
 
 After you prepare a 3D model, you can use the following Dynamics 365 apps to view it in mixed reality:
 
-<!--note from editor: do you want the first link to be the same throughout these tutorial topics? It currently isn't; goes to the main index file in Houdini, Blender, and 3ds Max topics.-->
-[Dynamics 365 Product Visualize](../product-visualize/admin-guide#add-a-model)<br> 
+<!--note from editor: do you want the first link to be the same throughout these tutorial topics? In this topic, it goes to a page in the Admin guide, but in Inventor, Houdini, Blender, and 3ds Max this first link just goes to the main Product Visualize page.-->
+[Dynamics 365 Product Visualize](../product-visualize/admin-guide.md#add-a-model)<br> 
 [Dynamics 365 Guides](../guides/index.md)<br> 
 [Dynamics 365 Layout](../layout/index.md) via [Dynamics 365 Import Tool (Preview)](import-tool.md)
 
