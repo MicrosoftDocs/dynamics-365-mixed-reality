@@ -235,7 +235,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 
    ![Copies](media/3ds-max-copies.png "Copies")
 
-<!--note from editor: I renamed this H3 so we wouldn't have two identical headings.-->
+<!--note from editor: I renamed this H3 so we wouldn't have two identical headings in this topic.-->
 ### Bake texture onto the cloned mesh
 
 1. Select the cloned mesh (the one you want to bake the texture onto).

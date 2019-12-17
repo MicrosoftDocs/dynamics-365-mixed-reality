@@ -19,7 +19,7 @@ Sections of this tutorial are for 2019 and later only, and assume you've success
 > This document is created strictly for informative purposes to demonstrate how Dassault Systèmes SOLIDWORKS works with Microsoft Dynamics 365 mixed-reality apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft is not affiliated with, is not a partner to, and does not endorse or sponsor Dassault or any of Dassault Systèmes' products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
 
 ## What is Dassault Systèmes SOLIDWORKS?
-<!--note to SELF: Sure sounds like we're endorsing the product.-->
+<!--note from editor: It sure sounds like we're endorsing this product. Can we make this less enthusiastic?-->
 SOLIDWORKS 2019 provides the breadth of tools to tackle the most complex problems, and the depth to finish critical detail work. New features help you improve your product development process to get innovative products into production faster.  [Read more about SOLIDWORKS](https://www.solidworks.com/).
 
 ## Optimize 3D models by using SOLIDWORKS
