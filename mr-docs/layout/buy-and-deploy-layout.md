@@ -1,7 +1,7 @@
 ---
-author: ornellaalt
+author: StaceyLaw
 description: Learn how to buy Dynamics 365 Layout, add users to the subscription, and deploy the app to users in several different ways
-ms.author: ornella
+ms.author: slaw
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
@@ -23,7 +23,7 @@ You can subscribe to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.
 -   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
 
     - Calling us at 1-888-477-7989.
-    - Requesting to be contacted at http://aka.ms/getLayout.
+    - Requesting to be contacted at https://aka.ms/getLayout.
 
     
 -   Through the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/catalog). Step-by-step instructions for signing in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided in the next section.

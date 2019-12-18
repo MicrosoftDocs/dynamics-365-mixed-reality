@@ -1,7 +1,7 @@
 ---
-author: ornellaalt
+author: StaceyLaw
 description: Watch these short videos to get up and running with Microsoft Dynamics 365 Layout
-ms.author: ornella
+ms.author: slaw
 ms.date: 12/2/2019
 ms.service: crm-online
 ms.topic: article
