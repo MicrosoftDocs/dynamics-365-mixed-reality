@@ -309,7 +309,7 @@ Opportunities represent a chance to sell your products to a customer. They captu
 
 ## Install the Dynamics 365 Product Visualize solution
 
-The Dynamics 365 Product Visualize solution is a package that customizes your Dynamics 365 installation to support Dynamics 365 Product Visualize.
+The Dynamics 365 Product Visualize solution is a package that customizes your Dynamics 365 Sales installation to support Dynamics 365 Product Visualize.
 
 ### Import the Dynamics 365 Product Visualize solution
 
