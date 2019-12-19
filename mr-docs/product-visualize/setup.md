@@ -1,6 +1,6 @@
 ---
 author: mamithan
-description: Set up Dynamics 365 Product Visualize
+description: Set up Dynamics 365 Product Visualize on a new Dynamics 365 Sales instance
 ms.author: mamithan
 ms.date: 10/01/2019
 ms.service: crm-online
