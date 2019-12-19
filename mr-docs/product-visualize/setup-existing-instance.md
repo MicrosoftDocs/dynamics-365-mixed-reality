@@ -107,6 +107,37 @@ Existing Dynamics 365 Sales instances must meet the following minimum requiremen
 
 6. Optional: SharePoint automatically provides a thumbnail for Dynamics 365 Product Visualize; however, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb".
 
+## Install the Dynamics 365 Product Visualize solution
+
+The Dynamics 365 Product Visualize solution is a package that customizes your Dynamics 365 installation to support Dynamics 365 Product Visualize.
+
+### Import the Dynamics 365 Product Visualize solution
+
+1. [Download the **Dynamics 365 Product Visualize** solution](https://download.microsoft.com/download/F/D/E/FDEE4BA0-F7E5-4FBD-80C1-E670F9F397BA/ProductVisualize.Solution.zip).
+
+2. Go to the Dynamics 365 Sales Hub.
+
+2. Select the **Settings** button, and then select **Advanced Settings**.
+
+3. In the **Settings** drop-down list at the top of the page, select **Solutions**.
+
+5. Import the solution by selecting the **Import** button, and then selecting the solution (.zip file) you downloaded.
+
+   ![Import solution](media/import-solution.PNG "Import solution")
+ 
+6. In the **Solution Information** dialog box, select **Import** to begin the import process.
+
+   ![Import information](media/import-information.PNG "Import information")
+   
+    > [!NOTE]
+    > Importing a solution will replace any existing versions of that solution.
+    
+    After the import process is complete, you'll see the **Importing Solution** dialog box:
+
+   ![Import complete](media/import-complete.PNG "Import complete")
+
+7. Select **Close**.
+
 ## What's next?
 You're now ready to use Dynamics 365 Product Visualize with all your sales opportunities. The Dynamics 365 Product Visualize mobile app can be downloaded from the Apple App Store. Users can sign in with the same Azure AD credentials that they use to connect to Dynamics 365 Sales.
   
