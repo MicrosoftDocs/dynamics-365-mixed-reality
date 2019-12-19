@@ -109,7 +109,7 @@ Existing Dynamics 365 Sales instances must meet the following minimum requiremen
 
 ## Install the Dynamics 365 Product Visualize solution
 
-The Dynamics 365 Product Visualize solution is a package that customizes your Dynamics 365 installation to support Dynamics 365 Product Visualize.
+The Dynamics 365 Product Visualize solution is a package that customizes your Dynamics 365 Sales installation to support Dynamics 365 Product Visualize.
 
 ### Import the Dynamics 365 Product Visualize solution
 
