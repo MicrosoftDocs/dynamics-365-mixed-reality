@@ -1,7 +1,7 @@
 ---
-author: ornellaalt
+author: StaceyLaw
 description: Device options and technical requirements for Dynamics 365 Layout
-ms.author: ornella
+ms.author: slaw
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
