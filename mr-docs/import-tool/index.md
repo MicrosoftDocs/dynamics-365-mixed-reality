@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Overview of converting and optimizing 3D models to use with Dynamics 365 Import Tool (Preview).  
 ms.author: v-jerja
-ms.date: 10/29/2019
+ms.date: 12/23/2019
 ms.service: crm-online
 ms.topic: overview
 title: Overview of Dynamics 365 Import Tool (Preview)
