@@ -41,7 +41,6 @@ Preparing CAD content for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixe
 3.	**Use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]** to prepare the models for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps.
 
 The following illustration shows a more detailed view of this process.
-<!--note from editor: For reasons of accessibility, the file formats that are marked with a red asterisk need to be enumerated in the accompanying text (or alt text, but that could push the alt text past the character limit). Not just for low vision readers but also readers who aren't loading graphics for reasons of performance or they're using a mobile device.-->
 
 > [!div class="mx-imgBorder"]
 > ![Overall flow](media/overall-flow.png "Overall flow") 
