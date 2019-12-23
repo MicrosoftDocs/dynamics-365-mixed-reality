@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Describes, in tutorial format, how to use SideFX Houdini to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.author: v-jerja
-ms.date: 10/22/2019
+ms.date: 12/23/2019
 ms.service: crm-online
 ms.topic: article
 title: Use SideFX Houdini to prepare 3D models for use in Dynamics 365 mixed-reality apps
