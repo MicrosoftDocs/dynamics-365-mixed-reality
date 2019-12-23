@@ -36,7 +36,6 @@ If your 3D models are in FBX, OBJ, or GLB file format, you can use any of the fo
 > [!NOTE]
 > In addition to FBX, OBJ, and GLB, 3ds Max can import a multitude of file formats, including several native CAD formats.
 
-<!--note from editor: Do you know where these disclaimers came from? Do they really need to be replicated (twice) in each of the tutorials? I'd really like to get a second opinion about them.-->
 ### More information  
 
 Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any of the software used in these tutorials.
