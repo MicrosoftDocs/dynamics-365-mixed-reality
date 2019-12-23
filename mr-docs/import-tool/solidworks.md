@@ -20,7 +20,7 @@ Sections of this tutorial are for 2019 and later only, and assume you've success
 
 ## What is Dassault Systèmes SOLIDWORKS?
 <!--note from editor: It sure sounds like we're endorsing this product. Can we make this less enthusiastic?-->
-SOLIDWORKS 2019 provides the breadth of tools to tackle the most complex problems, and the depth to finish critical detail work. New features help you improve your product development process to get innovative products into production faster.  [Read more about SOLIDWORKS](https://www.solidworks.com/).
+SOLIDWORKS tools enable you to leverage 3D models throughout the organization, bringing processes together so you can get products to market faster. [Read more about SOLIDWORKS](https://www.solidworks.com/).
 
 ## Optimize 3D models by using SOLIDWORKS
 
@@ -146,7 +146,7 @@ If you don't have SOLIDWORKS 2019 and the XR Exporter add-in, you need to do one
 After you prepare a 3D model, you can use the following Dynamics 365 apps to view it in mixed reality:
 
 <!--note from editor: do you want the first link to be the same throughout these tutorial topics? In this topic, it goes to a page in the Admin guide, but in Inventor, Houdini, Blender, and 3ds Max this first link just goes to the main Product Visualize page.-->
-[Dynamics 365 Product Visualize](../product-visualize/admin-guide.md#add-a-model)<br> 
+[Dynamics 365 Product Visualize](../product-visualize/index.md)<br> 
 [Dynamics 365 Guides](../guides/index.md)<br> 
 [Dynamics 365 Layout](../layout/index.md) via [Dynamics 365 Import Tool (Preview)](import-tool.md)
 
