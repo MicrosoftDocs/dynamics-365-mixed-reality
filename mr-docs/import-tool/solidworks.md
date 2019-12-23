@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Describes, in tutorial format, how to use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.author: v-jerja
-ms.date: 10/22/2019
+ms.date: 12/23/2019
 ms.service: crm-online
 ms.topic: article
 title: Use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality apps
@@ -19,7 +19,6 @@ Sections of this tutorial are for 2019 and later only, and assume you've success
 > This document is created strictly for informative purposes to demonstrate how Dassault Systèmes SOLIDWORKS works with Microsoft Dynamics 365 mixed-reality apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft is not affiliated with, is not a partner to, and does not endorse or sponsor Dassault or any of Dassault Systèmes' products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
 
 ## What is Dassault Systèmes SOLIDWORKS?
-<!--note from editor: It sure sounds like we're endorsing this product. Can we make this less enthusiastic?-->
 SOLIDWORKS tools enable you to leverage 3D models throughout the organization, bringing processes together so you can get products to market faster. [Read more about SOLIDWORKS](https://www.solidworks.com/).
 
 ## Optimize 3D models by using SOLIDWORKS
@@ -145,7 +144,6 @@ If you don't have SOLIDWORKS 2019 and the XR Exporter add-in, you need to do one
 
 After you prepare a 3D model, you can use the following Dynamics 365 apps to view it in mixed reality:
 
-<!--note from editor: do you want the first link to be the same throughout these tutorial topics? In this topic, it goes to a page in the Admin guide, but in Inventor, Houdini, Blender, and 3ds Max this first link just goes to the main Product Visualize page.-->
 [Dynamics 365 Product Visualize](../product-visualize/index.md)<br> 
 [Dynamics 365 Guides](../guides/index.md)<br> 
 [Dynamics 365 Layout](../layout/index.md) via [Dynamics 365 Import Tool (Preview)](import-tool.md)
