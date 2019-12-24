@@ -1,8 +1,8 @@
 ---
 author: mamithan
-description: Set up Dynamics 365 Product Visualize
+description: Set up Dynamics 365 Product Visualize on a new Dynamics 365 Sales instance
 ms.author: mamithan
-ms.date: 10/01/2019
+ms.date: 12/22/2019
 ms.service: crm-online
 ms.topic: article
 title: Set up Dynamics 365 Product Visualize
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Microsoft Dynamics 365 Product Visualize requires an active Dynamics 365 Sales instance that's associated with a Microsoft SharePoint site. This topic provides step-by-step procedures for setting up a new Dynamics 365 Sales trial instance. After the instance is running, see the [Administrator guide](admin-guide.md) instructions for adding users, products, opportunities, and models.
+Microsoft Dynamics 365 Product Visualize requires an active Dynamics 365 Sales instance that's associated with a Microsoft SharePoint site. This topic provides step-by-step procedures for setting up a new Dynamics 365 Sales trial instance. After the instance is running, see the [Administrator guide](admin-guide.md) instructions for adding users, products, opportunities, and models. The Administrator guide also includes important information about downloading the Dynamics 365 Product Visualize solution package that connects the Dynamics 365 Sales instance with Dynamics 365 Product Visualize. 
 
 ## Create a new organization
 The first thing you need to do is create a new Azure Active Directory (Azure AD) organization. This new organization provides a safe environment to try out Dynamics 365 Product Visualize that won't interfere with any existing Dynamics 365 instances. You can also use this organization to create and manage users, separate from your business organization.
@@ -167,7 +167,7 @@ The next step is to set up the Dynamics 365 Customer Engagement instance. This p
 9. Close the window when done.
 
 ## What's next?
-After you've finished the setup process, you'll have an Azure AD organization complete with Microsoft Dynamics 365 Customer Engagement and SharePoint. At this point, you can start adding opportunities, products, and models to Dynamics 365 Sales. For more information, see the [Administrator guide](admin-guide.md).
+After you've finished the setup process, you'll have an Azure AD organization complete with Microsoft Dynamics 365 Customer Engagement and SharePoint. At this point, you can start adding opportunities, products, and models to Dynamics 365 Sales. For more information, see the [Administrator guide](admin-guide.md). The Administrator guide also includes important information about downloading the Dynamics 365 Product Visualize solution package that connects the Dynamics 365 Sales instance with Dynamics 365 Product Visualize. 
 
 ### See also
 
