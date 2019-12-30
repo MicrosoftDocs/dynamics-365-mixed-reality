@@ -141,6 +141,9 @@ The first thing you see when you open a guide is the anchoring instructions from
 - Use air tap and hold to move and align the digital anchor to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres.
 
    ![Rotate digital anchor](media/rotate-digital-anchor.PNG "Rotate digital anchor")
+   
+>[!TIP]
+   >On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a digital anchor when authoring a guide. See [Manipulating holograms](#manipulate) for more information.    
 
 ### Re-anchor a guide
 
@@ -232,7 +235,7 @@ You can place a 3D model from the 3D toolkit in the same way you place a 3D part
 
     The item will be added to your bin and you can then place it as you would a 3D part.
 
-### Manipulating holograms
+### Manipulating holograms<a name ="manipulate"></a>
 
 To place a 3D model from one of your bins:
 
