@@ -30,6 +30,7 @@
 ### [Operate a guide](operator-guide.md)
 ## I'm a process engineer
 ### [Analyze your guides](analytics-guide.md)
+## [Get Help](help.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
 ## [Known issues](known-issues.md)
