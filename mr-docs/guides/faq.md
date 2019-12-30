@@ -57,6 +57,10 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
 
+## Can I use the JSON data file generated in Common Data Service when a guide is created to build or extend functionality?
+
+When you create a guide by using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
+
 ## How do I limit users to a particular Dynamics 365 instance?
 
 You can limit user access to instances by using security groups, managed from the Microsoft 365 Admin Center. For more information, see [Restrict User Access to a Dynamics 365 instance using Security Groups](https://community.dynamics.com/365/b/d365demystified/posts/restrict-user-access-to-a-d365-instance-using-security-groups) and [Control user access to instances: security groups and licenses](https://docs.microsoft.com/en-us/dynamics365/customer-engagement/admin/add-instance-subscription#control-user-access-to-instances-security-groups-and-licenses).
