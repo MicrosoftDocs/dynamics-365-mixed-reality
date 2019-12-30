@@ -1,4 +1,15 @@
-# Create steps and assign media in the Dynamics 365 Guides PC app
+---
+author: Mamaylya
+description: Create steps and assign 3D content or media to support those steps in the Dynamics 365 Guides PC app.
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Create steps and assign 3D models or media in the Dynamics 365 Guides PC app
+ms.reviewer: v-brycho
+---
+
+# Create steps and assign 3D models or media in the Dynamics 365 Guides PC app
 
 Steps are the central building block for creating a guide in Dynamics 365 Guides. In the PC app, you can create steps in the **Outline** page, but you’ll probably create most of your steps from the WYSIWYG Step card page. The instructions you create on the Step card page match what the operator will see on [!include[pn-hololens](../includes/pn-hololens.md)].
 
@@ -47,11 +58,11 @@ When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] 
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave. 
 
-## Import your own custom 3D objects<a name="import"></a>
+## Import your own custom 3D models<a name="import"></a>
 
-You can import your own custom 3D objects to add to the **3D parts** library, and then assign parts to a step. 
+You can import your own custom 3D objects to add to the **3D parts** library, and then assign parts to a step. You can also drag and drop models from a local file folder.
 
-To import your own 3D objects:
+To import your own 3D models:
 
 1.	Select the **Import** command in the upper-right corner of the Step card screen. 
 
