@@ -130,6 +130,9 @@ When you switch to [!include[pn-hololens](../includes/pn-hololens.md)] authoring
 
 2. When prompted, use air tap and hold to move the digital anchor directly over a physical object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
 
+   >[!TIP]
+   >On HoloLens 2, you can use your hand to directly select and place a digital anchor when authoring a guide. See [Manipulating holograms](https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-authoring#place-your-holograms) for more information.
+
 ### Best practices for digital anchors
 
 - **Size.** Select a digital anchor that’s not too small or too big. 
