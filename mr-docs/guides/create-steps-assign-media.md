@@ -58,11 +58,19 @@ When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] 
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave. 
 
-## Import your own custom 3D models<a name="import"></a>
+### Import your own custom 3D models<a name="import"></a>
 
-You can import your own custom 3D objects to add to the **3D parts** library, and then assign parts to a step. You can also drag and drop models from a local file folder.
+You can import your own custom 3D models to add to the **3D parts** library, and then assign parts to a step. You can use the Import command or drag-and-drop.
 
-To import your own 3D models:
+To import a 3D model using drag-and-drop:
+
+1. Open Windows File Explorer, and then go to the folder that contains the 3D model. 
+
+2. Drag it to the gallery.
+
+   ![Drag and drop animation](media/drag-drop.gif "Drag and drop animation")
+
+To import a 3D model using the **Import** command:   
 
 1.	Select the **Import** command in the upper-right corner of the Step card screen. 
 
@@ -71,7 +79,8 @@ To import your own 3D models:
     ![Import custom 3D part](media/import-object.PNG "Import custom 3D part")
     
 > [!NOTE]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (CAD) models, or you can use the Import Tool’s concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (CAD) models, or you can use the Import Tool's concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+
 
 ## Add 3D objects from the 3D toolkit to support your steps
 
