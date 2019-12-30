@@ -10,6 +10,9 @@
 so on as part of the name. 
 
      ![Name the guide](media/name-guide.PNG "Name the guide")
+     
+>[!NOTE]
+>When you create a guide by using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
 
 ## Saving: how changes are synced between the PC app and HoloLens app
 
