@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Test and place holograms using the Dynamics 365 Guides HoloLens application in Author mode 
 ms.author: mamaylya
-ms.date: 01/282020
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Author in the HoloLens application 
@@ -286,7 +286,7 @@ Up/down rotation
 
 - Air tap and hold the **Scale Hologram** control, and then move your hand up or down.  
 
-   ![Change hologram size](media/scale-hologram.PNG "Change hologram size")
+   ![Change hologram size](media/scale-hologram.png "Change hologram size")
 
 ### Best practices for working with 3D content
 
@@ -318,15 +318,15 @@ To place a style:
 
 2.	Air tap the **Edit Hologram** button.
 
-    ![Edit hologram button](media/edit-hologram.PNG "Edit hologram button")
+    ![Edit hologram button](media/edit-hologram.png "Edit hologram button")
 
 3.	Air tap **Styles**. 
 
-    ![Edit styles](media/edit-styles.PNG "Edit styles")
+    ![Edit styles](media/edit-styles.png "Edit styles")
  
 4.	Select the style you want to use.
 
-    ![List of styles](media/styles.PNG "List of styles")
+    ![List of styles](media/styles.png "List of styles")
  
 Here’s a list of styles included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] and when to use each:
 
@@ -360,11 +360,11 @@ To duplicate a model:
 
 2.	Air tap the **Edit Hologram** button.
 
-    ![Edit hologram button](media/edit-hologram.PNG "Edit hologram button")
+    ![Edit hologram button](media/edit-hologram.png "Edit hologram button")
     
 3. Select **Duplicate**.
 
-    ![Duplicate button](media/edit-duplicate.PNG "Duplicate button")
+    ![Duplicate button](media/edit-duplicate.png "Duplicate button")
     
 ## Opt out of sending telemetry data to Microsoft
 
