@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Glossary of terms for Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 10/01/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Glossary of terms for Dynamics 365 Guides
@@ -39,9 +39,6 @@ A holographic link that ties a step visually to the area where you want the oper
 
 ## Field of view (fov)
 The size of the [!include[pn-hololens](../includes/pn-hololens.md)] display where holograms show up. It’s important to keep the field of view in mind when placing holograms in a real-world environment.
-
-## Fit Box setting
-A setting that ensures the [!include[pn-hololens](../includes/pn-hololens.md)] device fits properly. A proper fit is very important for alignment purposes.
 
 ## Gaze
 The act of looking at a user interface element with [!include[pn-hololens](../includes/pn-hololens.md)]. In some cases, you can select an item just by gazing at it. In other cases, you use gaze to target an object and then act on that target with a gesture.
