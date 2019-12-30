@@ -26,6 +26,9 @@ The second major step in authoring a guide in [!include[cc-microsoft](../include
 - Test the flow of your guide.
 
   ![Test your guide](media/test-your-guide.PNG "Test your guide")
+  
+>[!TIP]
+>**New for [!include[pn-hololens](../includes/pn-hololens.md)] 2.** [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now includes [!include[pn-hololens](../includes/pn-hololens.md)] 2 advanced hand-tracking capabilities. When you author a guide, you can now work directly with holograms by grabbing the manipulation controls with your hands to position, rotate, and change the size. When selecting a guide, scanning an anchor, or working in the Step card editor, however, you make selections the same way as on [!include[pn-hololens](../includes/pn-hololens.md)] 1.<br>Watch this space for future developments on [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]!
 
 ## Install the HoloLens app
 
@@ -80,6 +83,7 @@ To determine which version of the operating system you’re using on [!include[p
 ### Open and sign in to HoloLens for the first time
 
 After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is correctly calibrated, you can open the [!include[pn-hololens](../includes/pn-hololens.md)] application.
+
 1.	Go to **All Apps**.
 
     ![HoloLens Apps selection](media/hololens-apps.PNG "HoloLens Apps selection")
@@ -247,8 +251,10 @@ To place a 3D model from one of your bins:
 
 3. With the controls visible, air tap + hold anywhere on the move control to pick up the model. Move the model where you want it to go and release to place the model.
 
-> [!NOTE]
-> When you tap a 3D part to move it, you select it at the same time. When it's selected, when you put your hand down, the 3D controls remain until you preview or select another part, or air tap anywhere in empty space.
+When you tap a 3D part to move it, you select it at the same time. When it's selected, when you put your hand down, the 3D controls remain until you preview or select another part, or air tap anywhere in empty space.
+
+>[!TIP]
+>On HoloLens 2, you can manipulate holograms directly with your hands. To select a hologram, place your hand on it to show the 3D controls. Then grab the hologram, move it, and release to place it. Air tap anywhere in an empty space when you're done.
  
 #### Rotate a hologram
 
@@ -264,10 +270,9 @@ To rotate a hologram:
   
   - Use the free-hand sphere to rotate in any direction.
 
->[!Tip]
-> Gazing at any of the spheres will let you know which direction the sphere will rotate.
+  You can gaze at any sphere to see which direction it will rotate.
 
-When rotating, it helps to think as if you are physically grabbing the sphere and rotating around the object, like a wheel.
+  When rotating, it helps to think as if you are physically grabbing the sphere and rotating around the object, like a wheel.
 The following graphics show how to use the different rotation controls:
 
 Free rotation
@@ -282,14 +287,17 @@ Up/down rotation
 
 ![Up/down rotation](media/up-down-rotation.PNG "Up/down rotation")
  
-> [!Important]
-> To manipulate holograms effectively, make sure that your [!include[pn-hololens](../includes/pn-hololens.md)] is calibrated properly. 
+>[!TIP]
+>On HoloLens 2, you can operate the rotation controls with your hands. Grab one of the available rotation controls with your hand and rotate the hologram the way you want.
 
 #### Change the size of a hologram after placing it
 
 - Air tap and hold the **Scale Hologram** control, and then move your hand up or down.  
 
    ![Change hologram size](media/scale-hologram.png "Change hologram size")
+   
+   >[!TIP]
+   >On HoloLens 2, you can grab the **Scale Hologram** control with your hand and move it up or down to change the size of the hologram. 
 
 ### Best practices for working with 3D content
 
@@ -326,6 +334,9 @@ To place a style:
 3.	Air tap **Styles**. 
 
     ![Edit styles](media/edit-styles.png "Edit styles")
+    
+    >[!TIP]
+    >On HoloLens 2, you can reach out and select **Styles** and subsequent menu items directly with your finger.
  
 4.	Select the style you want to use.
 
@@ -368,6 +379,9 @@ To duplicate a model:
 3. Select **Duplicate**.
 
     ![Duplicate button](media/edit-duplicate.png "Duplicate button")
+    
+    >[!TIP]
+    >On HoloLens 2, you can reach out and select **Duplicate** directly with your finger.
     
 ## Opt out of sending telemetry data to Microsoft
 
