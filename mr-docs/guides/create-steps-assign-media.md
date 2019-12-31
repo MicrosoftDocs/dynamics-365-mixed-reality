@@ -30,7 +30,7 @@ ADD NEW SCREEN SHOT HERE
 >[!TIP]
 To add another step from the Step card page, select **Add new step**.<br>![Add new step button](media/add-new-step-button.PNG "Add new step button")
 
-## Best practices for instruction text
+### Best practices for instruction text
 
 - Don’t be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step.
 
@@ -44,7 +44,7 @@ To add another step from the Step card page, select **Add new step**.<br>![Add n
 
 - Add a **WARNING** step for things that could be dangerous or cause a quality issue. To reinforce the warning, you can [add a style in the HoloLens app](hololens-authoring.md).
 
-- Adding numbered small steps inside a step can sometimes help, but don’t be afraid to create separate steps for easier reading.
+- Adding steps inside a step can be helpful, but don’t be afraid to create separate steps for easier reading.
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave. 
 
@@ -71,7 +71,7 @@ You can add 3D content and/or media to help operators complete a step. The follo
 
 You can import your own custom 3D models to add to the **3D parts** library. You can can drag and drop files from a local file folder to import them or use the **Import** command.
 
-To import files using drag and drop:
+To import files by using drag and drop:
 
 1. Open Windows File Explorer, and then go to the folder that contains the 3D model(s). 
 
@@ -83,6 +83,8 @@ To import a 3D model by using the **Import** command:
 
 1.	Select the **Import** command in the upper-right corner of the Step card screen. 
 
+ADD SCREEN SHOT HERE
+
 2.	Locate the 3D object you want to import, and then select **Open**.
 
     ![Import custom 3D part](media/import-object.PNG "Import custom 3D part")
@@ -90,31 +92,20 @@ To import a 3D model by using the **Import** command:
 > [!NOTE]
 > [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (CAD) models, or you can use the Import Tool's concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
+### Add numbers, arrows, hand positions, and more with the 3D toolkit
 
-## Add 3D objects from the 3D toolkit to support your steps
-
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects included in the 3D toolkit that are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. Use objects from the 3D toolkit like any other content to support your steps and get your point across. Having a ready-made library makes it easy to get started if your company doesn’t have any 3D content.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects. These objects are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. 
  
-The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. Here’s what the models look like:
+The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. 
 
 ![List of objects in 3D toolkit](media/3D-toolkit-objects.png "List of objects in 3D toolkit")
 
-You add a 3D object from the 3D toolkit in the Step card page, and then place it in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. You can use the same object (instance) as many times as you like in a step.
+You can use the same object (instance) as many times as you like in a step.
 
 > [!NOTE]
 > You can also add 3D objects from the 3D toolkit in [!include[pn-hololens](../includes/pn-hololens.md)] authoring. You don't have to add them on the PC if you prefer to do it in [!include[pn-hololens](../includes/pn-hololens.md)] authoring.
 
-To add an object from the 3D toolkit:
-
-1. Select the **3D toolkit** tab.
-
-2.	Select the appropriate category of objects.
-    
-3.	Drag the object you want from the list to a **3D parts** box below the Step card.
-
-    ![Drag object from 3D toolkit](media/3d-part.PNG "Drag object from 3D toolkit")
- 
-## Best practices for the 3D toolkit
+### Best practices for the 3D toolkit
 
 - Use pointers to communicate simple spatial information like position, direction, and translation.
 
@@ -123,6 +114,8 @@ To add an object from the 3D toolkit:
 - Use one of the hand poses when you want the operator to use their hand in a specific way to influence or manipulate something. There are various poses for specific interactions such as Pull, Push, Pinch, Grab, and others. Combine these standards with arrows and/or icons to add additional meaning.
 
 - Adjust the size of the pointer, but never go below 1 cm. Otherwise, it can cause errors.
+
+For more information on ways to use objects from the 3D toolkit, see [Create a great guide](great-guide.md).
 
 ## Add a website link to a step
 
@@ -152,5 +145,6 @@ You can add a website link to a step so operators can see and interact with info
 
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
+[Learn what makes a great guide](great-guide.md)
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
 
