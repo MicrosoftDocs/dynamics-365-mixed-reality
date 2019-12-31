@@ -38,7 +38,7 @@ You can add 3D content and/or media to help operators complete a step. The follo
 |Image|Image file|Add a diagram to help operators with a complex step.|
 |Video|Video file|Add a video to help operators with a complex step.|
 
-To add 3D content or media to a step:
+### Add 3D content or media to a step:
 
 1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
 
