@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # What's next after creating a guide in the Dynamics 365 PC app?
 
-After you create your guide on the PC, select an anchoring method, and create your tasks and steps, you’re ready to [test things out on HoloLens in a real-world environment, and place your holograms](hololens-authoring.md).
+After you create your guide on the PC app, select an anchoring method, and create your tasks and steps, you’re ready to [place your holograms and test everything out on the HoloLens apps](hololens-authoring.md).
 
 > [!IMPORTANT]
 > When switching between PC and [!include[pn-hololens](../includes/pn-hololens.md)], be sure to select **Refresh** when starting work on a device to ensure that you have the latest version of the guide. 
