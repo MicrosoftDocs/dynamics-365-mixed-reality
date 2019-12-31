@@ -130,7 +130,7 @@ You can add a website link to a step so operators can see and interact with info
 
     ![Website graphic](media/action-circle.PNG "Website graphic") 
 
-3.	In the **Website** dialog box, enter a valid URL that begins with http:// or https://, and then select **Save**.
+3.	In the **Website** dialog box, enter a valid URL that begins with **http://** or **https://**, and then select **Save**.
  
     ![Website dialog box](media/website-dialog.PNG "Website dialog box")
 
