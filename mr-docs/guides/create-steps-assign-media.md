@@ -115,6 +115,30 @@ To add an object from the 3D toolkit:
 
 - Adjust the size of the pointer, but never go below 1 cm. Otherwise, it can cause errors.
 
+## Add a website link to a step
+
+You can add a website link to a step so operators can see and interact with information outside of Dynamics 365 Guides. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about IoT sensors. Website links enable authors to create a seamless workflow for operators.
+
+>[!NOTE]
+>Only one website link can be added to each step.
+
+1.	On the right side of the screen, select the **Action** tab. 
+
+   ![Action tab](media/action-tab.png "Action tab")
+ 
+2.	Drag the **Website** graphic to the **Action** circle in the lower-right corner of the Step card.
+
+   ![Website graphic](media/website-graphic.png "Website graphic") 
+
+3.	In the **Website** dialog box, enter a valid URL that begins with http:// or https://, and then select **Save**.
+ 
+   ![Website dialog box](media/website-dialog.png "Website dialog box")
+
+4.	To test, edit, or delete the link, right-click the **Website** button in the Step card.
+
+   ![Website button](media/website-button.png "Website button")
+
+
 ## What's next?
 
 [Anchor your guide to the real world](anchor.md)<br>
