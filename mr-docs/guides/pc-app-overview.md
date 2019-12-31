@@ -37,7 +37,7 @@ Use the PC app to:
 
 ## What's next?
 
-[Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
+[Install and sign in to the PC app](install-sign-in-pc-app.md)<br>
 [Create a guide](create-guide.md)<br>
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
