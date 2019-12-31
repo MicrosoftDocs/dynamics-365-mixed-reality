@@ -227,6 +227,12 @@ You can grab the navigation bar at any time to place the card where you like.
 
 ![Grab navigation bar](media/follow-button-move-card.PNG "Grab navigation bar")
 
+### Access a website linked from the Step card
+
+If a Step card includes a **Website link** button, you can go to that website by selecting the button. The website opens in the HoloLens Edge browser. When you close the browser, you go back to the step you were on. 
+
+![Website link button](media/website-button-runtime.PNG "Website link button")
+
 ## Turn off holograms 
 You can turn holograms off (or turn them back on) with a glance if you ever feel like they’re getting in the way. To turn off a hologram, gaze at the “eye” in the middle of the dotted line. 
 
