@@ -36,7 +36,6 @@ Autosave checks for changes every 4 seconds. You must be online to use [!include
 
 ## What's next?
 
-[Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Create steps and assign media](create-steps-assign-media.md)<br>
