@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Create steps and assign 3D content or media to support those steps in the Dynamics 365 Guides PC app.
+description: Create steps and add 3D content or media to support those steps in the Dynamics 365 Guides PC app.
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
