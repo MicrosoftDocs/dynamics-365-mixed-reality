@@ -128,15 +128,15 @@ You can add a website link to a step so operators can see and interact with info
  
 2.	Drag the **Website link** graphic to the **Action** circle in the lower-right corner of the Step card.
 
-    ![Website graphic](media/action-circle.PNG "Website graphic") 
+    ![Website link graphic](media/action-circle.PNG "Website link graphic") 
 
-3.	In the **Website** dialog box, enter a valid URL that begins with **http://** or **https://**, and then select **Save**.
+3.	In the **Website link** dialog box, enter a valid URL that begins with **http://** or **https://**, and then select **Save**.
  
-    ![Website dialog box](media/website-dialog.PNG "Website dialog box")
+    ![Website link dialog box](media/website-dialog.PNG "Website link dialog box")
 
-4.	To view, edit, or delete the link, right-click the **Website** button in the Step card.
+4.	To view, edit, or delete the link, right-click the **Website link** button in the Step card.
 
-    ![Website button](media/website-button.PNG "Website button")
+    ![Website link button](media/website-button.PNG "Website link button")
 
 
 ## What's next?
