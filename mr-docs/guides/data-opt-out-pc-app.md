@@ -1,3 +1,14 @@
+---
+author: Mamaylya
+description: To preserve privacy, opt out of sending telemetry data to Microsoft in the Dynamics 365 Guides PC app.
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Opt out of sending telemetry data to Microsoft in the Dynamics 365 Guides PC app
+ms.reviewer: v-brycho
+---
+
 # Opt out of sending telemetry data to Microsoft in the Dynamics 365 Guides PC app
 
 For privacy reasons, you can turn off the ability to send telemetry data to Microsoft when using the Dynamcis 365 Guides PC app. Microsoft uses this data to improve the product. Opting out prevents Microsoft from collecting any activity data.
@@ -15,8 +26,6 @@ To turn telemetry data off for the PC application:
 
 ## What's next?
 
-[Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
-[Create a guide](create-guide.md)<br>
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Create steps and assign media](create-steps-assign-media.md)<br>
