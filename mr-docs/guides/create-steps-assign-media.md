@@ -29,7 +29,7 @@ ADD NEW SCREEN SHOT HERE
 
 ## Add 3D content or media to support a step 
 
-You can add 3D content and/or media to help operators complete a step. The following table shows the types of 3D content or media that you can add.
+You can add 3D content and/or media to help operators complete a step. The following table shows the types of content you can add.
 
 |Content type|Description|Example|
 |---------------|---------------------------------------------|----------------------------------------------------------|
