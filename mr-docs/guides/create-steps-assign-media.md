@@ -27,6 +27,27 @@ In the Step card page, you write your instructional text and assign supporting c
 
 ADD NEW SCREEN SHOT HERE
 
+>[!TIP]
+To add another step from the Step card page, select **Add new step** in the top right corner of the page.<br>![Add new step button](media/add-new-step-button.PNG "Add new step button")
+
+## Best practices for instruction text
+
+- Don’t be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step.
+
+- Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
+
+- Write your guide in casual human language for best results. Avoid technical jargon.
+
+- Use descriptive words. Examples: locate, find, get, go to, pick up, put down, insert, attach, remove.
+
+- Adding a **NOTE** step is useful for quality checks. This type of step can come before or after another step. Just make sure to put it in the right spot.
+
+- Add a **WARNING** step for things that could be dangerous or cause a quality issue. To reinforce the warning, you can [add a style in the HoloLens app](hololens-authoring.md).
+
+- Adding numbered small steps inside a step can sometimes help, but don’t be afraid to create separate steps for easier reading.
+
+- When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave. 
+
 ## Add 3D content or media to support a step 
 
 You can add 3D content and/or media to help operators complete a step. The following table shows the types of content you can add.
@@ -38,7 +59,7 @@ You can add 3D content and/or media to help operators complete a step. The follo
 |Image|2D image file|Add a diagram to help operators complete a complex step.|
 |Video|Video file|Add a video to help operators complete a complex step.|
 
-### Add 3D content or media to a step:
+### Add 3D content or media to a step
 
 1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
 
@@ -46,36 +67,9 @@ You can add 3D content and/or media to help operators complete a step. The follo
 
    ![Create a step with the Step card](media/drag-object.PNG "Create a step with the step card")
 
-   > [!NOTE]
-   > The collection of boxes below the instructional text is called the “bin.”
-  
-When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] in Author mode, you’ll see all the content that you associated with the steps, and you can place the content in the relevant spaces in the real world. For example, if you assign a pointer to a step in the PC application, you’ll align that pointer to the thing you want to point to in [!include[pn-hololens](../includes/pn-hololens.md)] authoring in the real world. What you see in the Step card page is very similar to what you see on [!include[pn-hololens](../includes/pn-hololens.md)]. 
+### Import a custom 3D model to use as a 3D part<a name="import"></a>
 
-## Best practices for the Step card page
-
-- It’s easy to add another step from the Step card page. Just select **Add new step** in the top right corner of the page. No need to go back to the **Outline** page. 
-
-  ![Add new step button](media/add-new-step-button.PNG "Add new step button")
-
-- Don’t be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step to help keep the text short.
-
-- Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
-
-- Write your guide in casual human language for best results. Don’t use technical jargon that people don’t know or understand.
-
-- Use descriptive words like “locate,” “find,” “get,” “go to”, “pick up,” “put down,” “insert,” “attach,” and “remove.”
-
-- Adding a **NOTE** step is useful for quality checks. This type of step can come before or after another step. Just make sure to put it in the right spot.
-
-- Add a **WARNING** step for things that could be dangerous or cause a quality issue. When you move to Author mode on [!include[pn-hololens](../includes/pn-hololens.md)], you can add a style to reinforce the warning.
-
-- Adding numbered small steps inside a step can sometimes help, but don’t be afraid to create separate steps for easier reading.
-
-- When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave. 
-
-### Import your own custom 3D models<a name="import"></a>
-
-You can import your own custom 3D models to add to the **3D parts** library, and then assign parts to a step. You can use the **Import** command or you can drag and drop files from a local file folder to import them.
+You can import your own custom 3D models to add to the **3D parts** library. You can can drag and drop files from a local file folder to import them or use the **Import** command.
 
 To import files using drag and drop:
 
