@@ -79,7 +79,7 @@ To import files using drag and drop:
 
    ![Drag and drop animation](media/drag-drop.gif "Drag and drop animation")
 
-To import a 3D model using the **Import** command:   
+To import a 3D model by using the **Import** command:   
 
 1.	Select the **Import** command in the upper-right corner of the Step card screen. 
 
