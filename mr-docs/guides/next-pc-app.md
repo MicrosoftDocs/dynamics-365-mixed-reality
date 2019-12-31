@@ -1,3 +1,14 @@
+---
+author: Mamaylya
+description: Learn about the next steps to take after creating a guide with the Dynamics 365 Guides PC app
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Next steps after creating a guide in the Dynamics 365 Guides PC app
+ms.reviewer: v-brycho
+---
+
 # What's next after creating a guide in the Dynamics 365 PC app?
 
 After you create your guide on the PC, select an anchoring method, and create your tasks and steps, you’re ready to [test things out on HoloLens in a real-world environment, and place your holograms](hololens-authoring.md).
