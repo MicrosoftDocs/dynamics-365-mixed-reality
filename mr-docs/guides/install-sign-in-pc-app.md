@@ -1,3 +1,14 @@
+---
+author: Mamaylya
+description: Learn how to install and sign in to the Dynamics 365 Guides PC app so you can start creating a guide.
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Install, open, and sign in to the Dynamics 365 Guides PC app to start creating a guide.
+ms.reviewer: v-brycho
+---
+
 # Install, open, and sign in to the Dynamics 365 Guides PC app
 
 Use these instructions to install the Dynamics 365 Guides PC app (if it hasn't already been installed for you) and to sign in.
