@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Steps are the central building block for creating a guide in Dynamics 365 Guides. In the PC app, you can create steps in the **Outline** page, but you’ll probably create most of your steps from the WYSIWYG Step card page. The instructions you create on the Step card page match what the operator will see on [!include[pn-hololens](../includes/pn-hololens.md)].
 
-ADD NEW SCREEN SHOTS HERE
+![Example Step card](media/pin.png "Example Step card")
 
 ## Open the Step card page and add instructions
 
