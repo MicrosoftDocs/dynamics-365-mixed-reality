@@ -43,6 +43,6 @@ Use the PC app to:
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Create steps and assign media](create-steps-assign-media.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
-[Opt out of sending telemetry data to Microsoft](data-opt-out-pc-app.md)
+
 
 
