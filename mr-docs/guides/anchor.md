@@ -174,8 +174,6 @@ Before using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on 
 
 ## What's next?
 
-[Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
-[Create a guide](create-guide.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Create steps and assign media](create-steps-assign-media.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
