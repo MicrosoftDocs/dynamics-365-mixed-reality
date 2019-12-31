@@ -5,11 +5,11 @@ ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Create steps and assign 3D models or media in the Dynamics 365 Guides PC app
+title: Create steps and add 3D models or media in the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
 ---
 
-# Create steps and assign 3D models or media in the Dynamics 365 Guides PC app
+# Create steps and add 3D models or media in the Dynamics 365 Guides PC app
 
 Steps are the central building block for creating a guide in Dynamics 365 Guides. In the PC app, you can create steps in the **Outline** page, but you’ll probably create most of your steps from the WYSIWYG Step card page. The instructions you create on the Step card page match what the operator will see on [!include[pn-hololens](../includes/pn-hololens.md)].
 
