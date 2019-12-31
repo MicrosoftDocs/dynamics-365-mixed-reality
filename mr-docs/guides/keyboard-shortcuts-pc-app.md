@@ -1,4 +1,15 @@
-# Keyboard shortcuts for the Dynamics 365 Guide PC app
+---
+author: Mamaylya
+description: Learn about keyboard shortcuts you can use in the Dynamics 365 Guides PC app
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Keyboard shortcuts for the Dynamics 365 Guides PC app
+ms.reviewer: v-brycho
+---
+
+# Keyboard shortcuts for the Dynamics 365 Guides PC app
 
 You can use any of the following keyboard shortcuts in the Dynamics 365 Guides PC application.
 
