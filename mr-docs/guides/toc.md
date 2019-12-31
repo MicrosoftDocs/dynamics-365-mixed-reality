@@ -18,7 +18,7 @@
 #### [Create a guide](create-guide.md)
 #### [Anchor your guide to the real world](anchor.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
-#### [Create steps and assign media](create-steps-assign-media.md)
+#### [Create steps and add 3D models, media](create-steps-assign-media.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
 #### [What's next?](next-pc-app.md)
