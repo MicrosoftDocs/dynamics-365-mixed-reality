@@ -134,7 +134,7 @@ You can add a website link to a step so operators can see and interact with info
  
     ![Website dialog box](media/website-dialog.jpg "Website dialog box")
 
-4.	To test, edit, or delete the link, right-click the **Website** button in the Step card.
+4.	To view, edit, or delete the link, right-click the **Website** button in the Step card.
 
     ![Website button](media/website-button.jpg "Website button")
 
