@@ -36,4 +36,4 @@ You can use any of the following keyboard shortcuts in the Dynamics 365 Guides P
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Create steps and assign media](create-steps-assign-media.md)<br>
-[Opt out of sending telemetry data to Microsoft](data-opt-out-pc-app.md)
+
