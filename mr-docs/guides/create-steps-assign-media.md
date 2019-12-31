@@ -126,7 +126,7 @@ You can add a website link to a step so operators can see and interact with info
 
     ![Action tab](media/action-tab.PNG "Action tab")
  
-2.	Drag the **Website** graphic to the **Action** circle in the lower-right corner of the Step card.
+2.	Drag the **Website link** graphic to the **Action** circle in the lower-right corner of the Step card.
 
     ![Website graphic](media/action-circle.PNG "Website graphic") 
 
