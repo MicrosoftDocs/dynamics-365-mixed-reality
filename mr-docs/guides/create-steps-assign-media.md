@@ -60,13 +60,13 @@ When you view your guide on [!include[pn-hololens](../includes/pn-hololens.md)] 
 
 ### Import your own custom 3D models<a name="import"></a>
 
-You can import your own custom 3D models to add to the **3D parts** library, and then assign parts to a step. You can use the Import command or drag-and-drop.
+You can import your own custom 3D models to add to the **3D parts** library, and then assign parts to a step. You can use the **Import** command or you can drag and drop files from a local file folder to import them.
 
-To import a 3D model using drag-and-drop:
+To import files using drag and drop:
 
-1. Open Windows File Explorer, and then go to the folder that contains the 3D model. 
+1. Open Windows File Explorer, and then go to the folder that contains the 3D model(s). 
 
-2. Drag it to the gallery.
+2. Drag the file(s) to the gallery.
 
    ![Drag and drop animation](media/drag-drop.gif "Drag and drop animation")
 
