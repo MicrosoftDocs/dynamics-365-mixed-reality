@@ -144,4 +144,4 @@ You can add a website link to a step so operators can see and interact with info
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
-[Opt out of sending telemetry data to Microsoft](data-opt-out-pc-app.md)
+
