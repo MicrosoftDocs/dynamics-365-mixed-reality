@@ -47,8 +47,6 @@ Here’s an example of a filled-out **Outline** page:
   
 ## What's next?
 
-[Install, open, and sign in to the PC app](install-sign-in-pc-app.md)<br>
-[Create a guide](create-guide.md)<br>
 [Anchor your guide to the real world](anchor.md)<br>
 [Create steps and assign media](create-steps-assign-media.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
