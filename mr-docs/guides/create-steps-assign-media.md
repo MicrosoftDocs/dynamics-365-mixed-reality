@@ -13,9 +13,11 @@ ms.reviewer: v-brycho
 
 Steps are the central building block for creating a guide in Dynamics 365 Guides. In the PC app, you can create steps in the **Outline** page, but you’ll probably create most of your steps from the WYSIWYG Step card page. The instructions you create on the Step card page match what the operator will see on [!include[pn-hololens](../includes/pn-hololens.md)].
 
-In the Step card page, you write your instructional text and assign supporting content for that step, like 3D content or media (image or video). 
+ADD NEW SCREEN SHOTS HERE
 
 ## Open the Step card page and add instructions
+
+In the Step card page, you write your instructional text and assign supporting content for that step, like 3D content or media (image or video). 
 
 1. Select any step on the **Outline** page, or select **Step** in the left navigation. 
 
@@ -23,7 +25,20 @@ In the Step card page, you write your instructional text and assign supporting c
 
 2. Enter your instructional text in the rectangle in the middle of the Step card screen.
 
+ADD NEW SCREEN SHOT HERE
+
 ## Add 3D content or media to support a step 
+
+You can add 3D content and/or media to help operators complete a step. The following table shows the types of 3D content or media that you can add:
+
+|Content type|Description|Example|
+|---------------|---------------------------------------------|----------------------------------------------------------|
+|3D toolkit|The 3D toolkit provides ready-to-use 3D models such as pointers, arrows, and hands.|Use a hand hologram to show the correct hand position for completing a task|
+|3D part|3D model that matches a 3D part in the real world|Use a 3D part to help find a 3D part in the real world.|
+|Image|Image file|Add a diagram to help operators with a complex step.|
+|Video|Video file|Add a video to help operators with a complex step.|
+
+To add 3D content or media to a step:
 
 1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
 
