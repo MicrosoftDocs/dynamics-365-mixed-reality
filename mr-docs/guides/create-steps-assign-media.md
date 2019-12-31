@@ -35,7 +35,7 @@ You can add 3D content and/or media to help operators complete a step. The follo
 |-------------------------|---------------------------------------------|----------------------------------------------------------|
 |3D toolkit|Ready-to-use 3D models such as numbers, arrows, and hands.|Add a holographic arrow to help operators find a focus area.|
 |3D part|3D models specific to your company.|Use a 3D part to help operators find a 3D part in the real world.|
-|Image|Image file|Add a diagram to help operators with a complex step.|
+|Image|2D image file|Add a diagram to help operators with a complex step.|
 |Video|Video file|Add a video to help operators with a complex step.|
 
 ### Add 3D content or media to a step:
