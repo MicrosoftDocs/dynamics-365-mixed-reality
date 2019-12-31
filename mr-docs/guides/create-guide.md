@@ -1,3 +1,14 @@
+---
+author: Mamaylya
+description: Use the PC app in Dynamics 365 Guides as the first step in creating a guide. 
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Create a guide using the Dynamics 365 Guides PC app
+ms.reviewer: v-brycho
+---
+
 # Create a guide using the Dynamics 365 Guides PC app
 
 1.	[Open the Dynamics 365 Guides PC app](install-sign-in-pc-app.md).
