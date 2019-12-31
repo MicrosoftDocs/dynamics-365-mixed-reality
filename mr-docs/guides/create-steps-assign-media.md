@@ -28,7 +28,7 @@ In the Step card page, you write your instructional text and assign supporting c
 ADD NEW SCREEN SHOT HERE
 
 >[!TIP]
-To add another step from the Step card page, select **Add new step** in the top right corner of the page.<br>![Add new step button](media/add-new-step-button.PNG "Add new step button")
+To add another step from the Step card page, select **Add new step**.<br>![Add new step button](media/add-new-step-button.PNG "Add new step button")
 
 ## Best practices for instruction text
 
