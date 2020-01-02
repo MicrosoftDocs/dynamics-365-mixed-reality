@@ -61,7 +61,7 @@ You can add 3D content and/or media to help operators complete a step. You can a
 
 ### Add a 3D model from the 3D toolkit
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects. These objects are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. The following picture shows an example of using holographic numbers, arrows, and xxx to help operators complete a step:
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects. These objects are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. The following picture shows an example of using holographic numbers, arrows, and xxx to help operators complete a step.
 
 ![Example of holographic numbers, arrows, and xxx](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and xxx")
 
