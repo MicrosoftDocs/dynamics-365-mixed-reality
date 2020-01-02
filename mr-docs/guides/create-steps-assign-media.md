@@ -25,10 +25,11 @@ You open the **Step Editor** from the **Outline** page.
 
 2. Enter your instructional text in the rectangle in the middle of the Step card screen.
 
-![Step Editor](media/step-editor.PNG "Step Editor")
+   ![Step Editor](media/step-editor.PNG "Step Editor")
 
->[!TIP]
-To add another step from the Step card page, select **Add new step**.<br>![Add new step button](media/add-new-step-button.PNG "Add new step button")
+3. When you're ready to add another step, select **Add new step**.
+
+   ![Add new step button](media/add-new-step-button.PNG "Add new step button")
 
 ### Best practices for instruction text
 
