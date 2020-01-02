@@ -59,7 +59,46 @@ You can add 3D content and/or media to help operators complete a step. You can a
 |Video|Video file|Short video that helps operators complete a complex step|
 |Website link|Link to an external website|Link to a parts inventory system|
 
-### Add 3D content or media
+### Add a 3D model from the 3D toolkit
+
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects. These objects are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. The following picture shows an example of using holographic numbers, arrows, and xxx to help operators complete a step:
+
+![Example of holographic numbers, arrows, and xxx](media/3D-toolkit-example.PNG "Example of holographic numbers, arrows, and xxx")
+
+![List of objects in 3D toolkit](media/3D-toolkit-objects.png "List of objects in 3D toolkit")
+
+You can use the same object (instance) as many times as you like in a step.
+
+To add a model from the 3D toolkit:
+
+1. On the right side of the screen, select **3D toolkit**.
+
+2. Select the category for the type of item you want to add.
+
+3. Locate the specific object you want to add, and then drag it to one of the **3D parts** boxes. 
+
+   ![Create a step with the Step card](media/drag-object.PNG "Create a step with the step card")
+   
+  >[!TIP]
+  >Try to stick to one type of content per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
+
+> [!NOTE]
+> You can also add 3D objects from the 3D toolkit in [!include[pn-hololens](../includes/pn-hololens.md)] authoring. You don't have to add them on the PC if you prefer to do it in [!include[pn-hololens](../includes/pn-hololens.md)] authoring.
+
+### Best practices for the 3D toolkit
+
+- Use pointers to communicate simple spatial information like position, direction, and translation.
+
+- Use the arrow when you want the operator to insert a part into something stationary (hand tightening a bolt into a tapped hole, for example). 
+
+- Use one of the hand poses when you want the operator to use their hand in a specific way to influence or manipulate something. There are various poses for specific interactions such as Pull, Push, Pinch, Grab, and others. Combine these standards with arrows and/or icons to add additional meaning.
+
+- Adjust the size of the pointer, but never go below 1 cm. Otherwise, it can cause errors.
+
+For more information on ways to use objects from the 3D toolkit, see [Create a great guide](great-guide.md).
+
+  
+### Add a 3D part
 
 1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
 
@@ -98,32 +137,16 @@ ADD SCREEN SHOT HERE
 > [!NOTE]
 > [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (CAD) models, or you can use the Import Tool's concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
-### Add numbers, arrows, hand positions, and more with the 3D toolkit
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects. These objects are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. 
- 
-The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. 
+### Add media (image or video)
 
-![List of objects in 3D toolkit](media/3D-toolkit-objects.png "List of objects in 3D toolkit")
+1. On the right side of the screen, select **Images** or **Videos**.
 
-You can use the same object (instance) as many times as you like in a step.
+2. Drag the object to the **Image or video** box. 
 
-> [!NOTE]
-> You can also add 3D objects from the 3D toolkit in [!include[pn-hololens](../includes/pn-hololens.md)] authoring. You don't have to add them on the PC if you prefer to do it in [!include[pn-hololens](../includes/pn-hololens.md)] authoring.
-
-### Best practices for the 3D toolkit
-
-- Use pointers to communicate simple spatial information like position, direction, and translation.
-
-- Use the arrow when you want the operator to insert a part into something stationary (hand tightening a bolt into a tapped hole, for example). 
-
-- Use one of the hand poses when you want the operator to use their hand in a specific way to influence or manipulate something. There are various poses for specific interactions such as Pull, Push, Pinch, Grab, and others. Combine these standards with arrows and/or icons to add additional meaning.
-
-- Adjust the size of the pointer, but never go below 1 cm. Otherwise, it can cause errors.
-
-For more information on ways to use objects from the 3D toolkit, see [Create a great guide](great-guide.md).
-
-## Add a website link to a step
+   ![Create a step with the Step card](media/drag-object.PNG "Create a step with the step card")
+   
+### Add a website link to a step
 
 You can add a website link to a step so operators can see and interact with information outside of Dynamics 365 Guides. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about IoT sensors. Website links enable authors to create a seamless workflow for operators.
 
