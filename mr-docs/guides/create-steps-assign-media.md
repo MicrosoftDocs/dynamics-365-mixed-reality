@@ -47,7 +47,7 @@ You open the **Step Editor** from the **Outline** page.
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave.
 
-## What types of 3D content or media can you add to help operators with a step?
+## What types of content can you add to help operators with a step?
 
 You can add 3D content and/or media to help operators complete a step. You can also add a link to a website. For example, you could add a link to a parts inventory. The following table shows the different types of supporting items you can add.
 
