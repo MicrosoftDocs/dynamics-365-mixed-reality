@@ -31,11 +31,9 @@ You open the **Step Editor** from the **Outline** page.
 
    ![Add new step button](media/add-new-step-button.PNG "Add new step button")
 
-### Best practices for instructional text
+### Best practices for instructional text and supporting content
 
 - Don’t be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step.
-
-- Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
 
 - Write your guide in casual human language for best results. Avoid technical jargon.
 
@@ -47,7 +45,9 @@ You open the **Step Editor** from the **Outline** page.
 
 - Adding steps inside a step can be helpful, but don’t be afraid to create separate steps for easier reading.
 
-- When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave. 
+- When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave.
+
+- Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
 
 ## Adding 3D content or media 
 
