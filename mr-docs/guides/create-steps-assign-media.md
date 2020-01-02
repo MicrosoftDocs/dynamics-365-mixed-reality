@@ -11,15 +11,9 @@ ms.reviewer: v-brycho
 
 # Create steps and add 3D models or media in the Dynamics 365 Guides PC app
 
-Steps are the central building block for creating a guide in Dynamics 365 Guides. After creating the [structure for your guide in the **Outline** page](structure.md), you add instruction text and 3D models or media to support those steps in the **Step Editor**. The instructions you create in the WYSIWYG **Step Editor** match what the operator will see in the Step card on [!include[pn-hololens](../includes/pn-hololens.md)].
+Steps are the central building block for creating a guide in Dynamics 365 Guides. After creating the [structure for your guide in the **Outline** page](structure.md), you add instruction text and 3D models or media to support those steps in the **Step Editor**. The instructions you create in the WYSIWYG **Step Editor** match what the operator will see in the Step card on [!include[pn-hololens](../includes/pn-hololens.md)]. The following graphic shows the Step Editor and the Step card.
 
-![Step Editor](media/step-editor-pc-app.PNG "Step Editor")
-
-Step Editor in the PC app
-
-![Step card on HoloLens](media/step-card-holoens.PNG "Step Card on HoloLens")
-
-Step card page on HoloLens
+![Step Editor and Step card](media/step-editor-step-card.PNG "Step Editor and Step card")
 
 >[!NOTE]
 > You can also add instruction text in the **Outline** page. 
