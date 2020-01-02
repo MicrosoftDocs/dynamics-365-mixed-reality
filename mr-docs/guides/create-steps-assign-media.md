@@ -82,18 +82,15 @@ You can mix and match different types of 3D models. You can also use the same ob
 > [!NOTE]
 > You can also add 3D models from the 3D toolkit directly in the [!include[pn-hololens](../includes/pn-hololens.md)] app. 
 
-### Best practices for the 3D toolkit
+###3 Best practices for the 3D toolkit
 
-- Use pointers to communicate simple spatial information like position, direction, and translation.
+- Use pointers to communicate simple spatial information like position, direction, and translation. You can adjust the size of the pointer, but never go below 1 cm. Otherwise, it can cause errors.
 
 - Use the arrow when you want the operator to insert a part into something stationary (hand tightening a bolt into a tapped hole, for example). 
 
 - Use one of the hand poses when you want the operator to use their hand in a specific way to influence or manipulate something. There are various poses for specific interactions such as Pull, Push, Pinch, Grab, and others. Combine these standards with arrows and/or icons to add additional meaning.
 
-- Adjust the size of the pointer, but never go below 1 cm. Otherwise, it can cause errors.
-
 For more information on ways to use objects from the 3D toolkit, see [Create a great guide](great-guide.md).
-
   
 ### Add a 3D part
 
