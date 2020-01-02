@@ -20,7 +20,7 @@ Steps are the central building block for creating a guide in Dynamics 365 Guides
 
 ## Open the Step Editor and add instructions
 
-You open the Step Editor from the **Outline** page.
+You open the **Step Editor** from the **Outline** page.
 
 1. Select any step on the **Outline** page, or select **Step** in the left navigation. 
 
