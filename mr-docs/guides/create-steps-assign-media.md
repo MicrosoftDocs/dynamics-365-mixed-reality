@@ -53,11 +53,11 @@ You can add 3D content and/or media to help operators complete a step. You can a
 
 |Content type|Description|Example|
 |-------------------------|---------------------------------------------|----------------------------------------------------------|
-|3D models from the 3D toolkit|Ready-to-use 3D models such as numbers, arrows, and hands|Holographic arrow that helps operators find a focus area.|
-|3D part|3D models specific to your company|3D part hologram that helps operators find a 3D part in the real world.|
-|Image|2D image file|Diagram that helps operators complete a complex step.|
-|Video|Video file|Short video that helps operators complete a complex step.|
-|Website link|Link to an external website|Link to a parts inventory system.|
+|3D models from the 3D toolkit|Ready-to-use 3D models such as numbers, arrows, and hands|Holographic arrow that helps operators find a focus area|
+|3D part|3D models specific to your company|3D part hologram that helps operators find a 3D part in the real world|
+|Image|2D image file|Diagram that helps operators complete a complex step|
+|Video|Video file|Short video that helps operators complete a complex step|
+|Website link|Link to an external website|Link to a parts inventory system|
 
 ### Add 3D content or media
 
