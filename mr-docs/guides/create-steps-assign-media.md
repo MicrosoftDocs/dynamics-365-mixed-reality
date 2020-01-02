@@ -43,7 +43,7 @@ You open the **Step Editor** from the **Outline** page.
 
 - Add a **WARNING** step for things that could be dangerous or cause a quality issue. To reinforce the warning, you can [add a style in the HoloLens app](hololens-authoring.md).
 
-- Adding steps inside a step can be helpful, but don’t be afraid to create separate steps for easier reading.
+- Adding sub-steps inside a step can be helpful, but don’t be afraid to create separate steps for easier reading.
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave.
 
