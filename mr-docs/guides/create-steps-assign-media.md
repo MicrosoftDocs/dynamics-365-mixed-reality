@@ -80,7 +80,7 @@ You can mix and match different types of 3D models. You can also use the same ob
    ![Drag a model to 3D parts box](media/select-arrow.PNG "Drag a model to 3D parts box")  
 
 > [!NOTE]
-> You can also add 3D objects from the 3D toolkit in the [!include[pn-hololens](../includes/pn-hololens.md)] app. 
+> You can also add 3D models from the 3D toolkit directly in the [!include[pn-hololens](../includes/pn-hololens.md)] app. 
 
 ### Best practices for the 3D toolkit
 
