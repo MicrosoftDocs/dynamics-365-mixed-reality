@@ -166,6 +166,6 @@ You can add a website link to a step so operators can see and interact with info
 
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
-[Learn what makes a great guide](great-guide.md)
+[Learn what makes a great guide](great-guide.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
 
