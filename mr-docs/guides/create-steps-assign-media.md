@@ -47,6 +47,8 @@ You open the **Step Editor** from the **Outline** page.
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave.
 
+- Try to stick to one type of content per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
+
 ## What types of content can you add to help operators with a step?
 
 You can add 3D content and/or media to help operators complete a step. You can also add a link to a website. The following table shows the different types of supporting items you can add.
@@ -61,26 +63,21 @@ You can add 3D content and/or media to help operators complete a step. You can a
 
 ### Add a 3D model from the 3D toolkit
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects. These objects are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, generic tools, hands, numbers, symbols, and zones. The following picture shows an example of using holographic numbers, arrows, and xxx to help operators complete a step.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects, which are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following picture shows an example of using holographic numbers, arrows, and zones to help operators complete a step.
 
-![Example of holographic numbers, arrows, and xxx](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and xxx")
+![Example of holographic numbers, arrows, and zones](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and zones")
 
-![List of objects in 3D toolkit](media/3D-toolkit-objects.png "List of objects in 3D toolkit")
+You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you like in a step.
 
-You can use the same object (instance) as many times as you like in a step.
+#### Add a model from the 3D toolkit
 
-To add a model from the 3D toolkit:
+1. On the right side of the screen, select **3D toolkit**, and then select the category for the type of item you want to add.
 
-1. On the right side of the screen, select **3D toolkit**.
+   ![Select 3D toolkit](media/select-3D-toolkit.PNG "Select 3D toolkit")
 
-2. Select the category for the type of item you want to add.
+3. Drag a model to one of the **3D parts** boxes below the instruction text. 
 
-3. Locate the specific object you want to add, and then drag it to one of the **3D parts** boxes. 
-
-   ![Create a step with the Step card](media/drag-object.PNG "Create a step with the step card")
-   
-  >[!TIP]
-  >Try to stick to one type of content per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
+   ![Drag a model to 3D parts box](media/select-arrow.PNG "Drag a model to 3D parts box")  
 
 > [!NOTE]
 > You can also add 3D objects from the 3D toolkit in [!include[pn-hololens](../includes/pn-hololens.md)] authoring. You don't have to add them on the PC if you prefer to do it in [!include[pn-hololens](../includes/pn-hololens.md)] authoring.
