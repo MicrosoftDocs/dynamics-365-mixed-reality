@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Everything you need to know about buying Dynamics 365 Guides, configuring the solution, and installing the apps.
 ms.author: mamaylya
-ms.date: 10/29/2019
+ms.date: 01/03/2020
 ms.service: crm-online
 ms.topic: article
 title: Buy and deploy Dynamics 365 Guides
@@ -69,6 +69,9 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 3.	Select the **More environment actions** button (...) next to the default instance, and then select **Manage environment**.
 
     ![Manage Environment](media/powerapps-manage-environment.PNG "Manage Environment")
+    
+    >[!NOTE]
+    >The default environment/instance doesn't have backup/restore functionality and is not meant for trial purposes. If you need to set up a production environment, see [Set up production environment](setup-production-environment.md).
     
 4. Change the name of the environment (for example, Guides_*anyname*), and then select **Create my database**.
 
@@ -184,10 +187,10 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 
 2.	On your PC, go to **Start** ![Start button](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].”
 
-3.	In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Get** for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app to download, and install the application.
+3.	In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Install** to download and install the application.
 
     > [!NOTE]
-    > For instructions on opening and signing in to the app, see the [authoring guide](authoring-overview.md).
+    > For instructions on opening and signing in to the app, see the [PC authoring guide](pc-authoring.md).
 
 #### Install the HoloLens app
 
