@@ -30,4 +30,8 @@
    
     ![Enviroment getting prepared message](media/environment-message.PNG "Environment getting prepared message") 
 
-4.	After the new environment is active (has **Ready** state) go to [Change maximum upload file size instructions](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup#change-maximum-upload-file-size). 
+4.	After the new environment is active (listed as **Ready** in the **State** column) go to [Change maximum upload file size instructions](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup#change-maximum-upload-file-size). 
+
+### See also
+
+[Buy and deploy Dynamics 365 Guides](setup.md)
