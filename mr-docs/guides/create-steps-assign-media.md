@@ -31,7 +31,7 @@ You open the **Step Editor** from the **Outline** page.
 
    ![Add new step button](media/add-new-step-button.PNG "Add new step button")
 
-### Best practices for instruction text
+### Best practices for instructional text
 
 - Don’t be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step.
 
