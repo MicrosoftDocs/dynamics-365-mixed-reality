@@ -15,9 +15,6 @@ Steps are the central building block for creating a guide in Dynamics 365 Guides
 
 ![Step Editor and Step card](media/step-editor-step-card.PNG "Step Editor and Step card")
 
->[!NOTE]
-> You can also add instruction text in the **Outline** page. 
-
 ## Open the Step Editor and add instructions
 
 You open the **Step Editor** from the **Outline** page.
