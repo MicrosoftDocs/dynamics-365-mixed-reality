@@ -47,8 +47,6 @@ You open the **Step Editor** from the **Outline** page.
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave.
 
-- Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
-
 ## Adding 3D content or media 
 
 You can add 3D content and/or media to help operators complete a step. The following table shows the types of content you can add.
@@ -67,6 +65,9 @@ You can add 3D content and/or media to help operators complete a step. The follo
 2. Drag the object to the appropriate box below the instructional text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit, drag it to one of the **3D parts** boxes. 
 
    ![Create a step with the Step card](media/drag-object.PNG "Create a step with the step card")
+   
+  >[!TIP]
+  >Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
 
 ### Import a custom 3D model to use as a 3D part<a name="import"></a>
 
