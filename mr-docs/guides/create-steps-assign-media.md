@@ -17,7 +17,7 @@ Steps are the central building block for creating a guide in Dynamics 365 Guides
 
 Step Editor in the PC app
 
-![Step card on HoloLens](media/step-card-hololens.PNG "Step Card on HoloLens")
+![Step card on HoloLens](media/step-card-holoens.PNG "Step Card on HoloLens")
 
 Step card page on HoloLens
 
