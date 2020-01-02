@@ -47,7 +47,7 @@ You open the **Step Editor** from the **Outline** page.
 
 - When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave.
 
-## Adding 3D content or media 
+## What types of 3D content or media can you add to a step?
 
 You can add 3D content and/or media to help operators complete a step. The following table shows the types of content you can add.
 
