@@ -2,7 +2,7 @@
 
 # Set up a production environment for Dynamics 365 Guides
 
-1.	Go to the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), and then select **Environments**.
+1.	Go to the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select **Environments** if it's not already select, and then select **New**.
 
 2.  Select **New**. 
 
