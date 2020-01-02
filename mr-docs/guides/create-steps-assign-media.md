@@ -61,7 +61,7 @@ You can add 3D content and/or media to help operators complete a step. You can a
 |Video|Video file|Short video that helps operators complete a complex step|
 |Website link|Link to an external website|Link to a parts inventory system|
 
-### Add a 3D model from the 3D toolkit
+## Add a 3D model from the 3D toolkit
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects, which are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following picture shows an example of using holographic numbers, arrows, and zones to help operators complete a step.
 
@@ -69,7 +69,7 @@ You can add 3D content and/or media to help operators complete a step. You can a
 
 You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you like in a step.
 
-#### Add a model from the 3D toolkit
+### Add a model from the 3D toolkit
 
 1. On the right side of the screen, select **3D toolkit**, and then select the category for the type of item you want to add.
 
@@ -82,7 +82,7 @@ You can mix and match different types of 3D models. You can also use the same ob
 > [!NOTE]
 > You can also add 3D models from the 3D toolkit directly in the [!include[pn-hololens](../includes/pn-hololens.md)] app. 
 
-###3 Best practices for the 3D toolkit
+### Best practices for the 3D toolkit
 
 - Use pointers to communicate simple spatial information like position, direction, and translation. You can adjust the size of the pointer, but never go below 1 cm. Otherwise, it can cause errors.
 
@@ -92,7 +92,7 @@ You can mix and match different types of 3D models. You can also use the same ob
 
 For more information on ways to use objects from the 3D toolkit, see [Create a great guide](great-guide.md).
   
-### Add a 3D part
+## Add a 3D part
 
 1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
 
@@ -103,7 +103,7 @@ For more information on ways to use objects from the 3D toolkit, see [Create a g
   >[!TIP]
   >Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
 
-### Import a custom 3D model to use as a 3D part<a name="import"></a>
+## Import a custom 3D model to use as a 3D part<a name="import"></a>
 
 You can import your own custom 3D models to add to the **3D parts** library. You can can drag and drop files from a local file folder to import them or use the **Import** command.
 
@@ -131,8 +131,7 @@ ADD SCREEN SHOT HERE
 > [!NOTE]
 > [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (CAD) models, or you can use the Import Tool's concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about the Import Tool, see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
-
-### Add media (image or video)
+## Add media (image or video)
 
 1. On the right side of the screen, select **Images** or **Videos**.
 
@@ -140,7 +139,7 @@ ADD SCREEN SHOT HERE
 
    ![Create a step with the Step card](media/drag-object.PNG "Create a step with the step card")
    
-### Add a website link to a step
+## Add a website link to a step
 
 You can add a website link to a step so operators can see and interact with information outside of Dynamics 365 Guides. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about IoT sensors. Website links enable authors to create a seamless workflow for operators.
 
@@ -162,7 +161,6 @@ You can add a website link to a step so operators can see and interact with info
 4.	To view, edit, or delete the link, right-click the **Website link** button in the Step card.
 
     ![Website link button](media/website-button.PNG "Website link button")
-
 
 ## What's next?
 
