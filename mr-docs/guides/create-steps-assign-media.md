@@ -49,7 +49,7 @@ You open the **Step Editor** from the **Outline** page.
 
 ## What types of 3D content or media can you add to a step?
 
-You can add 3D content and/or media to help operators complete a step. The following table shows the types of content you can add.
+You can add 3D content and/or media to help operators complete a step. You can also add a link to a website. For example, you could add a link to a parts inventory. The following table shows the different types of supporting items you can add.
 
 |Content type|Description|Example|
 |-------------------------|---------------------------------------------|----------------------------------------------------------|
@@ -57,6 +57,7 @@ You can add 3D content and/or media to help operators complete a step. The follo
 |3D part|3D models specific to your company.|Use a 3D part to help operators find a 3D part in the real world.|
 |Image|2D image file|Add a diagram to help operators complete a complex step.|
 |Video|Video file|Add a video to help operators complete a complex step.|
+|Website link|Link to an external website|Add a link to a parts inventory system.|
 
 ### Add 3D content or media
 
@@ -72,6 +73,9 @@ You can add 3D content and/or media to help operators complete a step. The follo
 ### Import a custom 3D model to use as a 3D part<a name="import"></a>
 
 You can import your own custom 3D models to add to the **3D parts** library. You can can drag and drop files from a local file folder to import them or use the **Import** command.
+
+>[!NOTE]
+> You can also drag media files to the gallery.
 
 To import files by using drag and drop:
 
