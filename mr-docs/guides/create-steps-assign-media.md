@@ -23,7 +23,7 @@ You open the **Step Editor** from the **Outline** page.
 
    ![Step command in left navigation](media/left-nav-step.PNG "Step command in left navigation")
 
-2. Enter your instructional text in the rectangle in the middle of the Step card screen.
+2. Enter your instructional text in the blue rectangle in the middle of the screen.
 
    ![Step Editor](media/step-editor.PNG "Step Editor")
 
