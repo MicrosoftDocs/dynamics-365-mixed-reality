@@ -2,7 +2,6 @@
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
 ## [Buy and deploy Dynamics 365 Guides](setup.md)
-## [Set up a production environment](setup-production-environment.md)
 ## [Upgrade the solution (for admins)](upgrade.md)
 ## [Transition from public preview to GA](public-preview-transition.md)
 ## Get started
