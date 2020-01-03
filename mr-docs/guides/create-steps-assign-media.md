@@ -69,13 +69,13 @@ You can add 3D content and/or media to help operators complete a step. You can a
 
 You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you like in a step.
 
-### Add a model from the 3D toolkit
+To add a model from the 3D toolkit:
 
 1. On the right side of the screen, select **3D toolkit**, and then select the category for the type of item you want to add.
 
    ![Select 3D toolkit](media/select-3D-toolkit.PNG "Select 3D toolkit")
 
-3. Drag a model to one of the **3D parts** boxes below the instruction text. 
+3. Drag a model to one of the **3D parts** boxes below the instruction text box. 
 
    ![Drag a model to 3D parts box](media/select-arrow.PNG "Drag a model to 3D parts box")  
 
@@ -98,9 +98,9 @@ For more information on ways to use objects from the 3D toolkit, see [Create a g
 
    ![Select 3D parts](media/select-3D-parts.PNG "Select 3D parts")
 
-2. Drag the object to the appropriate box below the instructional text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit, drag it to one of the **3D parts** boxes. 
+2. Drag the 3D part to one of the **3D parts** boxes below the instruction text box. 
 
-   ![Create a step with the Step card](media/drag-object.PNG "Create a step with the step card")
+   ![Drag a model to 3D parts box](media/select-3D-part.PNG "Drag a model to 3D parts box")
    
   >[!TIP]
   >Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
