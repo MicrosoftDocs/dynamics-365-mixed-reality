@@ -96,7 +96,7 @@ Note that the default instance does not provide backup and restore capabilities.
 
 7.	After you have successfully created the database, return to the **Environments** page and go to the [Change maximum upload file size procedure](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup#change-maximum-upload-file-size).
 
-## Set up a production environment
+### Set up a production environment
 
 If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to set up a production environment. A production environment provides backup and restore capabilities.
 
