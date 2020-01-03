@@ -94,7 +94,9 @@ For more information on ways to use objects from the 3D toolkit, see [Create a g
   
 ## Add a 3D part
 
-1. On the right side of the screen, select the label for the type of item you want to add (**3D parts**, **Images**, **Videos**, or **3D toolkit**).
+1. On the right side of the screen, select **3D parts**.
+
+   ![Select 3D parts](media/select-3D-parts.PNG "Select 3D parts")
 
 2. Drag the object to the appropriate box below the instructional text. For example, to add an image or video, drag the image or video to the **Image or video** box. To add a 3D part or an object from the 3D toolkit, drag it to one of the **3D parts** boxes. 
 
