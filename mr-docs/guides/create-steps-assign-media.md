@@ -100,17 +100,11 @@ For more information on ways to use objects from the 3D toolkit, see [Create a g
 
 2. Drag the 3D part that you want to one of the **3D parts** boxes. 
 
-   ![Drag a model to 3D parts box](media/drag-3D-part.PNG "Drag a model to 3D parts box")
-   
-  >[!TIP]
-  >Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
-
+   ![Drag a model to 3D parts box](media/drag-3D-part.PNG "Drag a model to 3D parts box") 
+  
 ## Import a custom 3D model to use as a 3D part<a name="import"></a>
 
 You can import your own custom 3D models to add to the **3D parts** library. You can can drag and drop files from a local file folder to import them or use the **Import** command.
-
->[!NOTE]
-> You can also drag media files to the gallery.
 
 To import files by using drag and drop:
 
@@ -122,9 +116,9 @@ To import files by using drag and drop:
 
 To import a 3D model by using the **Import** command:   
 
-1.	Select the **Import** command in the upper-right corner of the Step card screen. 
+1.	Select the **Import** command in the lower-right corner of the Step card screen. 
 
-ADD SCREEN SHOT HERE
+    ![Import command](media/import-command.PNG "Import command")
 
 2.	Locate the 3D object you want to import, and then select **Open**.
 
