@@ -120,13 +120,17 @@ If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-
 
     e.	Select **Next** at the bottom of the screen. 
 
-3. In the **Add database** pane that appears, choose your language and currency, leave the other default settings, and then select **Save**.
+3. In the **Add database** pane that appears, choose your language and currency, leave the other default settings, 
+   and then select **Save**.
 
    ![Add database pane](media/add-database-pane.PNG "Add database pane") 
 
+   >[!NOTE]
+   > To learn about security groups, see [Control user access to instances](https://docs.microsoft.com/en-us/dynamics365/admin/add-instance-subscription#BKMK_man_sec_group).
+
    The following page appears while the production environment is being prepared. 
    
-    ![Enviroment getting prepared message](media/environment-message.PNG "Environment getting prepared message") 
+    ![Environment getting prepared message](media/environment-message.PNG "Environment getting prepared message") 
 
 4.	After the new environment is active (listed as **Ready** in the **State** column) go to the next procedure on changing the maximum upload file size. 
 
