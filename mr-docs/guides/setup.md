@@ -65,7 +65,7 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 
 ### Set up a trial environment on the default instance
 
-Note that the default instance does not provide backup and restore capabilities. If you need these capabilities, you need to buy a license and set up a production environment as described below.
+Note that the default instance does not provide backup and restore capabilities. If you need these capabilities, you need to buy a license and set up a production environment as described in the next procedure.
     
 1.  Go to the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the admin user credentials (where the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] licenses are assigned).
 
