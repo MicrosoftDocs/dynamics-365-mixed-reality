@@ -134,10 +134,10 @@ If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-
 
 In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB).
 
-1. On the Power Platform Admin center **Environments** page, select the newly created environment, and then select the **Settings** button in the title bar. 
+1. On the Power Platform Admin center **Environments** page, select the newly created environment, select the **More environment actions** (...) button, and then select **Settings**. 
 
-    ![Select environment and Settings](media/admin-center-settings.png "Select environment and settings")
-   
+    ![More environment actions button](media/environment-settings.PNG "More environment actions button")
+       
 2. Under **Email**, select **Email settings**. 
 
     ![Email settings](media/email-settings.png "Email settings")
