@@ -58,7 +58,14 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
  
 ## Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
 
-After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you’ll need to create a database on a default environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Change maximum upload size](#upload).
+After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you’ll need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment you create depends on whether you're creating a trial or production environment. 
+
+>[!NOTE]
+>If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Change maximum upload size](#upload).
+
+### Set up a trial environment on the default instance
+
+Note that the default instance does not provide backup and restore capabilities. If you need these capabilities, you need to buy a license and set up a production environment as described below.
     
 1.  Go to the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the admin user credentials (where the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] licenses are assigned).
 
@@ -68,11 +75,8 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
     
 3.	Select the **More environment actions** button (...) next to the default instance, and then select **Manage environment**.
 
-    ![Manage Environment](media/powerapps-manage-environment.PNG "Manage Environment")
-    
-    >[!NOTE]
-    >The default environment/instance doesn't have backup/restore functionality and is not meant for trial purposes. If you need to set up a production environment, see [Set up production environment](setup-production-environment.md).
-    
+    ![Manage Environment](media/powerapps-manage-environment.PNG "Manage Environment")    
+     
 4. Change the name of the environment (for example, Guides_*anyname*), and then select **Create my database**.
 
     ![Create database](media/powerapps-create-database.PNG "Create database")
@@ -90,7 +94,41 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
      > [!NOTE]
      > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
 
-7.	After you have successfully created the database, return to the **Environments** page.
+7.	After you have successfully created the database, return to the **Environments** page and go to the [Change maximum upload file size procedure](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup#change-maximum-upload-file-size).
+
+## Set up a production environment
+
+If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to set up a production environment. A production environment provides backup and restore capabilities.
+
+1.	Go to the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select **Environments** if it's not already selected, and then select **New**.
+
+    ![Add new environment](media/add-new-environment.PNG "Add new environment") 
+
+    The **New enironment** pane appears on the right side of the screen.
+
+    ![New environment pane](media/new-environment-pane.PNG "New environment pane") 
+
+3.	In the **New environment** pane:
+
+    a.	Enter a name for the environment.
+
+    b.	In the **Type** list, select **Production**.
+
+    c.	In the **Region** field, keep the default setting.  
+
+    d.	In the **Create a database for this environment?** field, move the slider to **Yes**.
+
+    e.	Select **Next** at the bottom of the screen. 
+
+3. In the **Add database** pane that appears, choose your language and currency, leave the other default settings, and then select **Save**.
+
+   ![Add database pane](media/add-database-pane.PNG "Add database pane") 
+
+   The following page appears while the production environment is being prepared. 
+   
+    ![Enviroment getting prepared message](media/environment-message.PNG "Environment getting prepared message") 
+
+4.	After the new environment is active (listed as **Ready** in the **State** column) go to the next procedure on changing the maximum upload file size. 
 
 ### Change maximum upload file size<a name="upload"></a>
 
