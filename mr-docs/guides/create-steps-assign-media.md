@@ -71,7 +71,7 @@ You can mix and match different types of 3D models. You can also use the same ob
 
 To add a model from the 3D toolkit:
 
-1. On the right side of the screen, select **3D toolkit**, and then select the category for the type of item you want to add.
+1. On the right side of the screen, select the **3D toolkit** tab, and then select the category for the type of item you want to add.
 
    ![Select 3D toolkit](media/select-3D-toolkit.PNG "Select 3D toolkit")
 
@@ -94,7 +94,7 @@ For more information on ways to use objects from the 3D toolkit, see [Create a g
   
 ## Add a 3D part
 
-1. On the right side of the screen, select **3D parts**.
+1. On the right side of the screen, select the **3D parts** tab.
 
    ![Select 3D parts](media/select-3D-parts.PNG "Select 3D parts")
 
@@ -129,7 +129,7 @@ You can import your own custom 3D models to add to the **3D parts** library. You
 
 ## Add media (image or video)
 
-1. On the right side of the screen, select **Images** or **Videos**.
+1. On the right side of the screen, select the **Images** or **Videos** tab.
 
    ![Select Images or Videos](media/select-image-video.PNG "Select Images or Videos")
 
