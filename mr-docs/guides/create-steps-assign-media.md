@@ -75,7 +75,7 @@ To add a model from the 3D toolkit:
 
    ![Select 3D toolkit](media/select-3D-toolkit.PNG "Select 3D toolkit")
 
-3. Drag a model to one of the **3D parts** boxes below the instruction text box. 
+3. Drag the arrow you want to one of the **3D parts** boxes below the instruction text box. 
 
    ![Drag a model to 3D parts box](media/select-arrow.PNG "Drag a model to 3D parts box")  
 
@@ -98,7 +98,7 @@ For more information on ways to use objects from the 3D toolkit, see [Create a g
 
    ![Select 3D parts](media/select-3D-parts.PNG "Select 3D parts")
 
-2. Drag the 3D part to one of the **3D parts** boxes below the instruction text box. 
+2. Drag the 3D part that you want to one of the **3D parts** boxes below the instruction text box. 
 
    ![Drag a model to 3D parts box](media/drag-3D-part.PNG "Drag a model to 3D parts box")
    
