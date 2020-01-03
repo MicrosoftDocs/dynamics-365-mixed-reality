@@ -49,9 +49,9 @@ You open the **Step Editor** from the **Outline** page.
 
 - Try to stick to one type of content per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
 
-## What types of content can you add to help operators with a step?
+## What can you add to help operators with a step?
 
-You can add 3D content and/or media to help operators complete a step. You can also add a link to a website. The following table shows the different types of supporting items you can add.
+You can add 3D content, media, or website links to help operators complete a step. The following table describes the different types of content you can add.
 
 |Content type|Description|Example|
 |-------------------------|---------------------------------------------|----------------------------------------------------------|
