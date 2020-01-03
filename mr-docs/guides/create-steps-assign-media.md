@@ -120,7 +120,7 @@ You can import your own custom 3D models to add to the **3D parts** library. You
 
     ![Import command](media/import-command.PNG "Import command")
 
-2.	Locate the 3D object you want to import, and then select **Open**.
+2.	Locate the file(s) you want to import, and then select **Open**.
 
     ![Import custom 3D part](media/import-object.PNG "Import custom 3D part")
     
