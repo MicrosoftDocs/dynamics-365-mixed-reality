@@ -106,7 +106,7 @@ For more information on ways to use objects from the 3D toolkit, see [Create a g
 
 You can import your own custom 3D models to add to the **3D parts** library. You can can drag and drop files from a local file folder to import them or use the **Import** command.
 
-To import files by using drag and drop:
+### Import a file by using drag and drop
 
 1. Open Windows File Explorer, and then go to the folder that contains the 3D model(s). 
 
@@ -114,7 +114,7 @@ To import files by using drag and drop:
 
    ![Drag and drop animation](media/drag-drop.gif "Drag and drop animation")
 
-To import a 3D model by using the **Import** command:   
+### Import a file by using the **Import** command  
 
 1.	Select the **Import** command in the lower-right corner of the Step card screen. 
 
