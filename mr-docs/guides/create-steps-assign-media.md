@@ -116,7 +116,7 @@ You can import your own custom 3D models to add to the **3D parts** library. You
 
 ### Import a file by using the **Import** command  
 
-1.	Select the **Import** command in the lower-right corner of the Step card screen. 
+1.	Select the **Import** command in the lower-right corner of the **Step Editor**. 
 
     ![Import command](media/import-command.PNG "Import command")
 
