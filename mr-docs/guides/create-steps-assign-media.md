@@ -100,7 +100,7 @@ For more information on ways to use objects from the 3D toolkit, see [Create a g
 
 2. Drag the 3D part to one of the **3D parts** boxes below the instruction text box. 
 
-   ![Drag a model to 3D parts box](media/select-3D-part.PNG "Drag a model to 3D parts box")
+   ![Drag a model to 3D parts box](media/drag-3D-part.PNG "Drag a model to 3D parts box")
    
   >[!TIP]
   >Try to stick to one type of content (image, video, or 3D object) per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
