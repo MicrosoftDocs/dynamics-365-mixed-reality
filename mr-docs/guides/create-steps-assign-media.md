@@ -131,10 +131,12 @@ You can import your own custom 3D models to add to the **3D parts** library. You
 
 1. On the right side of the screen, select **Images** or **Videos**.
 
-2. Drag the object to the **Image or video** box. 
+   ![Select Images or Videos](media/select-image-video.PNG "Select Images or Videos")
 
-   ![Create a step with the Step card](media/drag-object.PNG "Create a step with the step card")
-   
+2. Drag the image or video to the **Image or video** box. 
+
+   ![Drag image or video](media/drag-image-video.PNG "Drag image or video")
+     
 ## Add a website link to a step
 
 You can add a website link to a step so operators can see and interact with information outside of Dynamics 365 Guides. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about IoT sensors. Website links enable authors to create a seamless workflow for operators.
