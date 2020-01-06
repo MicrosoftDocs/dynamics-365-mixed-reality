@@ -2,7 +2,7 @@
 author: BryceHo
 description: FAQ about Dynamics 365 Guides
 ms.author: makamat
-ms.date: 12/09/2019
+ms.date: 01/07/2020
 ms.service: crm-online
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
