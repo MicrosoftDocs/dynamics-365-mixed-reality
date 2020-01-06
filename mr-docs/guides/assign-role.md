@@ -17,24 +17,22 @@ To modify user roles, you must have:
 
 ## Assign user roles
 
-1. Go to the [PowerPlatform Admin center]().
+1. Go to the [PowerPlatform Admin center](https://admin.powerplatform.microsoft.com/environments), and then sign in with your administrator credentials. 
 
-2. Log in with your administrator credentials. 
+2. Select **Environments** in the left pane (if the **Environments** page isn't already open).  
 
-3. Select **Environments** in the left pane (if the **Environments** page isn't already open).  
-
-4. Select the environment you want to work with, select the **More environment actions** (...) button, and then select **Settings**.
+3. Select the environment you want to work with, select the **More environment actions** (...) button, and then select **Settings**.
  
-5. Select **Users + permissions** to expand the list of options, and then select **Users**. 
+4. Select **Users + permissions** to expand the list of options, and then select **Users**. 
 
    A new window with your Dynamics instance will appear. If you're prompted to sign in to Dynamics.com, make sure to you use your 
    administrator credentials.  
  
-6. Select a user or multiple users, and then select **Manage Roles** at the top of the screen. 
+5. Select a user or multiple users, and then select **Manage Roles** at the top of the screen. 
 
-7. In the **Manage User Roles** screen, make sure that the **Common Data Service User** is selected for the user(s). This option should 
+6. In the **Manage User Roles** screen, make sure that the **Common Data Service User** is selected for the user(s). This option should 
 be enabled by default. 
 
  
-8. Select the appropriate check box, and then select **OK**. 
+7. Select the appropriate check box, and then select **OK**. 
 
