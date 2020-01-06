@@ -11,7 +11,7 @@ To modify user roles, you must have:
 
 - An active Dynamics 365 Guides license. For more information, see [Buy and deploy Dynamics 365 Guides](setup.md).
 
-- The latest Dynamics 365 Guides solution installed. For more information, see [Install the latest solution](upgrade-solution.md). 
+- The latest Dynamics 365 Guides solution installed. For more information, see [Install the latest solution](upgrade.md). 
 
 - Access to the Power Platform Admin center and full administrator privileges. 
 
