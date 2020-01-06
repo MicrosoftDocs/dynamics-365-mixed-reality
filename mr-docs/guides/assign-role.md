@@ -17,7 +17,7 @@ To modify user roles, you must have:
 
 ## Assign user roles
 
-1. Go to the [PowerPlatform Admin center ]().
+1. Go to the [PowerPlatform Admin center]().
 
 2. Log in with your administrator credentials. 
 
