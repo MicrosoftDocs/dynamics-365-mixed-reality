@@ -32,7 +32,7 @@ To modify user roles, you must have:
 
 3. Select the environment you want to work with, select the **More environment actions** (...) button, and then select **Settings**.
 
-   ![Environment settings](media/environment-settings.png "Environment settings")
+   ![Environment settings](media/environment-settings.PNG "Environment settings")
  
 4. Select **Users + permissions** to expand the list of options, and then select **Users**. If you're prompted to sign in to Dynamics.com, make sure to you use your administrator credentials. 
   
