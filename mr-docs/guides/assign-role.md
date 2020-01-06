@@ -31,17 +31,27 @@ To modify user roles, you must have:
 2. Select **Environments** in the left pane (if the **Environments** page isn't already open).  
 
 3. Select the environment you want to work with, select the **More environment actions** (...) button, and then select **Settings**.
+
+   ![Marker spacing](media/marker-spacing.png "Marker spacing")
  
 4. Select **Users + permissions** to expand the list of options, and then select **Users**. If you're prompted to sign in to Dynamics.com, make sure to you use your administrator credentials. 
   
    A new window with your Dynamics 365 instance will appear. 
+   
+   ![Marker spacing](media/marker-spacing.png "Marker spacing")
  
 5. Select a user or multiple users, and then select **Manage Roles** at the top of the screen. 
+  
+   ![Marker spacing](media/marker-spacing.png "Marker spacing")
 
 6. In the **Manage User Roles** screen, make sure that the **Common Data Service User** is selected. This option should 
 be enabled by default.
+
+   ![Marker spacing](media/marker-spacing.png "Marker spacing")
  
 7. Select the appropriate check box (list options here), and then select **OK**. 
+
+   ![Marker spacing](media/marker-spacing.png "Marker spacing")
 
 ### See also
 
