@@ -126,7 +126,7 @@ If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-
    ![Add database pane](media/add-database-pane.PNG "Add database pane") 
 
    >[!NOTE]
-   > To learn about security groups, see [Control user access to instances](https://docs.microsoft.com/en-us/dynamics365/admin/add-instance-subscription#BKMK_man_sec_group).
+   > To learn about security groups, see [Control user access to instances](https://docs.microsoft.com/dynamics365/admin/add-instance-subscription#BKMK_man_sec_group).
 
    The following page appears while the production environment is being prepared. 
    
