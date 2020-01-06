@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Everything you need to know about buying Dynamics 365 Guides, configuring the solution, and installing the apps.
 ms.author: mamaylya
-ms.date: 01/03/2020
+ms.date: 01/07/2020
 ms.service: crm-online
 ms.topic: article
 title: Buy and deploy Dynamics 365 Guides
