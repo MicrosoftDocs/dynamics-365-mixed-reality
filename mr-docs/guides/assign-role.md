@@ -2,7 +2,7 @@
 
 # Assign an Author or Operator role to a user
 
-If you're an administrator, you can assign Author or Operator roles users to control whether have users can view guides (Operator role) 
+If you're an administrator, you can assign **Author** or **Operator** roles to users to control whether have users can view guides (Operator role) 
 or view and edit guides (Author role).  
 
 ## Prerequisites
