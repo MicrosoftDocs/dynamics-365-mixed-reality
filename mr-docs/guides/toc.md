@@ -8,6 +8,7 @@
 ### [Buy and deploy](setup.md)
 ### [Upgrade the solution](upgrade.md)
 ### [Transition from public preview to GA](public-preview-transition.md)
+### [Assign user roles (Author or Operator)](assign-roles.md)
 ### [Integration Dynamics 365 Field Service](field-service.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ## I'm an author
