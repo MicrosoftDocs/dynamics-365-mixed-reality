@@ -23,16 +23,19 @@ To modify user roles, you must have:
 
 3. Select the environment you want to work with, select the **More environment actions** (...) button, and then select **Settings**.
  
-4. Select **Users + permissions** to expand the list of options, and then select **Users**. 
-
-   A new window with your Dynamics instance will appear. If you're prompted to sign in to Dynamics.com, make sure to you use your 
-   administrator credentials.  
+4. Select **Users + permissions** to expand the list of options, and then select **Users**. If you're prompted to sign in to Dynamics.com, make sure to you use your administrator credentials. 
+  
+   A new window with your Dynamics 365 instance will appear. 
  
 5. Select a user or multiple users, and then select **Manage Roles** at the top of the screen. 
 
-6. In the **Manage User Roles** screen, make sure that the **Common Data Service User** is selected for the user(s). This option should 
-be enabled by default. 
-
+6. In the **Manage User Roles** screen, make sure that the **Common Data Service User** is selected. This option should 
+be enabled by default.
  
-7. Select the appropriate check box, and then select **OK**. 
+7. Select the appropriate check box (list options here), and then select **OK**. 
+
+### See also
+
+[Author a guide](authoring-overview.md)<br>
+[Operate a guide](operator-guide.md)
 
