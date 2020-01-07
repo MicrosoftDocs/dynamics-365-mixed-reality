@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Everything you need to know about converting 3D models to use with Dynamics 365 Import Tool (Preview)
 ms.author: v-jerja
-ms.date: 10/29/2019
+ms.date: 01/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Convert your 3D (CAD) models to use with Dynamics 365 Import Tool (Preview)
@@ -11,24 +11,11 @@ ms.reviewer: v-brycho
 
 # Convert your 3D (CAD) models
 
-To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. The type of file you convert to depends on the option you choose in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. 
 
 ![Convert flow highlighted](media/convert-flow.png "Convert flow highlighted") 
 
-
-## Options and file types for Dynamics 365 Import Tool (Preview) 
-
-The [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] provides two options for preparing your 3D models: 
-
-![Import Tool options](media/import-tool-options.PNG "Import Tool options") 
-
-The following table describes the two options and the file formats supported for each.
-
-
-|Option|Description|Supported file formats|
-|------------|-----------------------------------------------------------------|-----------------------------|
-|Import using this PC|Use this option if you want to import self-authored models without any optimization.|GLB, GLTF, FBX, OBJ, STL, PLY |
-|Send model to [!include[cc-microsoft](../includes/cc-microsoft.md)]|Use this option if you need Microsoft’s assistance optimizing and converting your 3D model. [!include[cc-microsoft](../includes/cc-microsoft.md)] uses a combination of automation and manual steps to prepare the files. |FBX, OBJ, JT, STP, and SKP|
+CAD models can be exported directly to the glTF/GLB format or into intermediate formats that can be subsequently processed into glTF/GLB files. If your content-creation application does not have a glTF/GLB exporter, we recommend exporting to FBX, OBJ, STL, or PLY, if available. For complex models you may want to explore options to lower the tessellation during the conversion of the CAD model. If these formats are not available, there are third-party applications that can import many different file formats and export them as one of these supported file formats.
 
 ## Tools for exporting CAD models
 
