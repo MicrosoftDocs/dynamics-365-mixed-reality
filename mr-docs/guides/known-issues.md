@@ -37,9 +37,6 @@ We recommend you don't open a guide on [!include[pn-hololens](../includes/pn-hol
 
 On HoloLens 2, selection mode appears after you air tap 3D models rather than when you gaze at them. After air tapping, you can tap and hold to move, use the gizmos to rotate, or explore edit options. HoloLens 1 will continue to support the former behavior where you gaze at 3D models to select them.
 
-## Recent guides list isn’t scoped to user
-The **Recent** list of guides is currently not scoped to the user accessing it. This will be supported in a later release.
-
 ## When placing large assets on HoloLens, you might see minor loading delays
 The [!include[pn-hololens](../includes/pn-hololens.md)] app currently loads the guide right after you open it, and in the background as you use the guide. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
 
