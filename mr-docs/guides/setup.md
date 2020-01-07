@@ -58,10 +58,10 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
  
 ## Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
 
-After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you’ll need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment you create depends on whether you're creating a trial or production environment. 
+After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you'll need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment you create depends on whether you're creating a trial or production environment.
 
 >[!NOTE]
->If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Change maximum upload size](#upload).
+>If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Change maximum upload file size](#upload).
 
 ### Set up a trial environment on the default instance
 
@@ -92,9 +92,9 @@ Note that the default instance does not provide backup and restore capabilities.
      ![Provisioning database page](media/provisioning-database.PNG "Provisioning database page")
  
      > [!NOTE]
-     > Database creation usually takes several minutes. If, after 5 minutes, the “Provisioning database” message still appears, try refreshing the page.    
+     > Database creation usually takes several minutes. If, after five minutes, the "Provisioning database" message still appears, try refreshing the page.
 
-7.	After you have successfully created the database, return to the **Environments** page and go to the [Change maximum upload file size procedure](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup#change-maximum-upload-file-size).
+7.	After you've successfully created the database, return to the **Environments** page and go to the [Change maximum upload file size](#upload) procedure later in this topic.
 
 ### Set up a production environment
 
@@ -104,7 +104,7 @@ If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-
 
     ![Add new environment](media/add-new-environment.PNG "Add new environment") 
 
-    The **New enironment** pane appears on the right side of the screen.
+    The **New environment** pane appears on the right side of the screen.
 
     ![New environment pane](media/new-environment-pane.PNG "New environment pane") 
 
@@ -120,8 +120,7 @@ If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-
 
     e.	Select **Next** at the bottom of the screen. 
 
-3. In the **Add database** pane that appears, choose your language and currency, leave the other default settings, 
-   and then select **Save**.
+3. In the **Add database** pane that appears, choose your language and currency, leave the other default settings, and then select **Save**.
 
    ![Add database pane](media/add-database-pane.PNG "Add database pane") 
 
@@ -132,14 +131,16 @@ If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-
    
     ![Environment getting prepared message](media/environment-message.PNG "Environment getting prepared message") 
 
-4.	After the new environment is active (listed as **Ready** in the **State** column) go to the next procedure on changing the maximum upload file size. 
+4.	After the new environment is active (listed as **Ready** in the **State** column), go to the next procedure for changing the maximum upload file size.
 
 >[!NOTE]
->In subsequent procedures throughout this topic, use the production environment instead of the default environment shown in the screen shots.
+>In subsequent procedures throughout this topic, use the production environment instead of the default environment shown in the screenshots.
 
-### Change maximum upload file size<a name="upload"></a>
+<a name="upload"></a>
 
-In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files, as well as videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB).
+### Change maximum upload file size
+
+In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files in addition to videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB).
 
 1. On the Power Platform Admin center **Environments** page, select the newly created environment, select the **More environment actions** (...) button, and then select **Settings**. 
 
@@ -149,7 +150,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     ![Email settings](media/email-settings.png "Email settings")
 
-3. Scroll down to the bottom of the page, and then under **Attachments**, set the **Maximum file size for attachments** field to 131072. Select **Save** when you’re done.
+3. Scroll down to the bottom of the page, and then under **Attachments**, set the **Maximum file size for attachments** field to 131072. Select **Save** when you're done.
 
     ![File size](media/edit-file-size.png "File size")
 
@@ -182,7 +183,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 ### Set up user roles for the solution<a name="user-roles"></a>
 
 > [!NOTE]
-> It can take up to one hour for a user to appear in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center. 
+> It can take up to one hour for a user to appear in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center.
 
 1. After the solution has finished installing, go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/). 
 
@@ -221,16 +222,16 @@ There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] ap
 You can install both apps from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store as described in the next section.
 
 > [!NOTE]
-> If you can’t access [!include[cc-microsoft](../includes/cc-microsoft.md)] Store due to company policies, please contact your administrator to distribute the app.
+> If you can't access [!include[cc-microsoft](../includes/cc-microsoft.md)] Store due to company policies, please contact your administrator to distribute the app.
 
-If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business to distribute your apps, you can have users install the apps from your organization’s private store or from an email link that you send. Instructions are provided later in this topic.
+If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business to distribute your apps, you can have users install the apps from your organization's private store or from an email link that you send. Instructions are provided later in this topic.
 
 ### Install the apps from Microsoft Store
 
 #### Install the PC authoring app 
 1.	Check to make sure your [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC is running the latest [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] build (must be build 10.0.17134, April 2018 update, or later).
 
-2.	On your PC, go to **Start** ![Start button](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].”
+2.	On your PC, go to **Start** ![Start button](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for "[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]".
 
 3.	In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Install** to download and install the application.
 
@@ -241,12 +242,12 @@ If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Busin
 
 1.	Make sure [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.17134 or later. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available. For instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates).
 
-2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for “[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]”.
+2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for "[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]".
 
 3.	To download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application, select **Install**.
 
 > [!NOTE] 
-> If you're an author, for instructions on opening and signing in to the app, see the [HoloLens authoring topic](hololens-authoring.md). Operators can use the [Dynamics 365 Guides Operator's manual](operator-guide.md).
+> If you're an author, see the [HoloLens authoring topic](hololens-authoring.md) for instructions on opening and signing in to the app. Operators can use the [Dynamics 365 Guides Operator's manual](operator-guide.md).
 
 ### Distribute the apps through Microsoft Store for Business
 
@@ -330,9 +331,3 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 [Operator's manual](operator-guide.md)<br>
 [Analyze your guides to improve process efficiencies](analytics-guide.md)<br>
 [FAQ](faq.md)
-
-
-
-
-
-
