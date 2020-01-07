@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview of authoring a guide in the the Dynamics 365 Guides HoloLens app
 
-[Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)
 
 The second major step in authoring a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] takes place on the [!include[pn-hololens](../includes/pn-hololens.md)] application. In [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, you:
 
