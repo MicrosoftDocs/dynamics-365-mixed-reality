@@ -39,7 +39,7 @@ Here’s what each button or UI element is used for:
 
 Below the instruction text, you'll see any items you added in the PC app to help operators with the steps, such as 3D parts, 3D objects from the 3D toolkit, and 2D media (images or videos).
 
-![HoloLens step card screen](media/save-undo-redo.png "HoloLens step card screen")
+![Supporting items for Step card](media/step-card-3D-parts.PNG "Supporting items for Step")
 
 The Step card also includes three buttons at the top of the screen: **Save**, **Undo**, and **Redo**.
 
