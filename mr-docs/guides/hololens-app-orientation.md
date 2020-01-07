@@ -19,9 +19,7 @@ You and your operators can navigate through a guide by gazing at the **Next Step
 
 ## Get oriented with the Step card
 
-
-
-The Step card also includes several other buttons and UI elements:
+The following graphic shows the different user interface elements of the Step card screen.
 
 ![HoloLens buttons](media/step-card-orientation-2.PNG "HoloLens buttons")
  
