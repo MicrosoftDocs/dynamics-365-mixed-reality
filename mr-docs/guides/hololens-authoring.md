@@ -84,6 +84,9 @@ To determine which version of the operating system you’re using on [!include[p
 
 After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is correctly calibrated, you can open the [!include[pn-hololens](../includes/pn-hololens.md)] application.
 
+>[!NOTE]
+>If you're a Dynamics 365 Guides administrator, you can assign Author and Operator roles to restrict features available to users. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
+
 1.	Go to **All Apps**.
 
     ![HoloLens Apps selection](media/hololens-apps.PNG "HoloLens Apps selection")
