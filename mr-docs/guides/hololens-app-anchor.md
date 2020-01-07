@@ -29,7 +29,7 @@ The first thing you see when you open a guide in the Dynamics 365 Guides HoloLen
 
    ![Align marker](media/align-marker.PNG "Align marker")
 
-   When the guide is correctly aligned, you'll see the **Printed anchor found** screen. 
+   When the guide is correctly aligned, you'll see the **Printed Anchor Found** screen. 
    
    ![Marker found holograph](media/printed-anchor-found.png "Marker found holograph")
    
