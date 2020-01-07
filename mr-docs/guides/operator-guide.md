@@ -18,7 +18,7 @@ Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dy
 ![Operator at work](media/operator-at-work.PNG "Operator at work")
 
 >[!NOTE]
->If you're a Dynamics 365 Guides administrator, you can assign a role so a user can't edit a guide. For more information, see [Assign an Author or Operator role for a user](assign-role.md).
+>If you're a Dynamics 365 Guides administrator, you can use roles to restrict access so operators can view guides but not edit them. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
 
 ## First things first – calibrate your HoloLens 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device. You can do this by using the Calibration app that comes with your [!include[pn-hololens](../includes/pn-hololens.md)]. 
