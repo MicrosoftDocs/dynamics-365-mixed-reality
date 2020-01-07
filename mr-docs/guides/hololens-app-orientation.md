@@ -37,7 +37,7 @@ Here’s what each button or UI element is used for:
 |8|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 |9|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 
-In the bin below the Step card instruction text, you'll see any 3D parts (including 3D models from the 3D toolkit) that you added in the PC app to help operators with that step.
+In the 3D parts bin below the Step card instruction text, you'll see any objects that you added in the PC app to help operators with that step. 3D parts include 3D objects from the 3D toolkit and any 3D models (CAD drawings) that you import to mimic 3D parts in the real world.
 
 ![Supporting items for Step card](media/step-card-3D-parts.PNG "Supporting items for Step")
 
