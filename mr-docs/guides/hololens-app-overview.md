@@ -1,15 +1,15 @@
 ---
 author: Mamaylya
-description: Overview of the Dynamics 365 Guides HoloLens app
+description: Overview of authroing a guide in the Dynamics 365 Guides HoloLens app
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of the Dynamics 365 Guides HoloLens app
+title: Overview of authoring a guide in the Dynamics 365 Guides HoloLens app
 ms.reviewer: v-brycho
 ---
 
-# Overview of the Dynamics 365 Guides HoloLens app
+# Overview of authoring a guide in the the Dynamics 365 Guides HoloLens app
 
 [Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)
 
