@@ -1,6 +1,15 @@
+---
+author: Mamaylya
+description: Learn how to nstall and sign in to the Dynamics 365 Guides HoloLens app and calibrate your HoloLens
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Install and sign in to the Dynamics 365 Guides HoloLens app
+ms.reviewer: v-brycho
+---
 
-
-## Install the HoloLens app
+# Install and sign in to the Dynamics 365 Guides HoloLens app
 
 If you haven’t already installed the [!include[pn-hololens](../includes/pn-hololens.md)] app on your [!include[pn-hololens](../includes/pn-hololens.md)] device (or it hasn't already been installed for you), install it from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers.
 
@@ -12,10 +21,10 @@ To install the HoloLens app:
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
-### Sign in to the HoloLens app
+## Sign in to the HoloLens app
 If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.md)] device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your [!include[pn-hololens](../includes/pn-hololens.md)] for use.
 
-#### Calibrate your HoloLens
+## Calibrate your HoloLens
 
 To have the holograms appear in the correct locations, the interpupillary distance (IPD) must be set. This is true for any [!include[pn-hololens](../includes/pn-hololens.md)] user, whether you’re an author or an operator. In an industrial setting where a hologram is used to direct the operator to do operational tasks, it’s crucial that holograms be aligned properly. Otherwise it can cause operator confusion and can result in costly damage.
 
@@ -50,7 +59,7 @@ To determine which version of the operating system you’re using on [!include[p
  
 3.	Air tap **About**.
  
-### Open and sign in to HoloLens for the first time
+## Open and sign in to HoloLens for the first time
 
 After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is correctly calibrated, you can open the [!include[pn-hololens](../includes/pn-hololens.md)] application.
 
@@ -89,4 +98,6 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
     
 > [!TIP]
 > [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with an example guide you can use to get ideas for your own guides. Check it out!</br><br>![Example Guide](media/example-guide-hololens.png "Example Guide")
+
+## What's next?
 
