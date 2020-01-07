@@ -43,7 +43,7 @@ Below the Step card instruction text, you'll see any 3D parts (including 3D mode
 
 The Step card also includes three buttons at the top of the screen: **Save**, **Undo**, and **Redo**.
 
-![HoloLens step card screen](media/save-undo-redo.png "HoloLens step card screen")
+![Save, Undo, and Redo buttons](media/step-card-buttons.PNG "Save, Undo, and Redo buttons")
  
 The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. You can undo 100 changes or redo 100 changes.  
 
