@@ -1,7 +1,17 @@
+---
+author: Mamaylya
+description: Get oriented with the Dynamics 365 Guides HoloLens app. Learn how to place holograms, add styles, and more.
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
+ms.reviewer: v-brycho
+---
 
+# Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
 
-## Get oriented on HoloLens
-After you anchor your guide, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card follows the operator to keep the instructions where they need them as they move around their work space.
+After you anchor your guide in the Dynamics 365 Guides HoloLens app, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card follows the operator to keep the instructions where they need them as they move around their work space.
 
 Navigate through the guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap to navigate through a guide. 
 
@@ -134,7 +144,7 @@ Up/down rotation
 >[!TIP]
 >On HoloLens 2, you can operate the rotation controls with your hands. Grab one of the available rotation controls with your hand and rotate the hologram the way you want.
 
-#### Change the size of a hologram after placing it
+### Change the size of a hologram after placing it
 
 - Air tap and hold the **Scale Hologram** control, and then move your hand up or down.  
 
