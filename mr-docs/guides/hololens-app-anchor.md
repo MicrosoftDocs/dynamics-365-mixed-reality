@@ -1,9 +1,19 @@
+---
+author: Mamaylya
+description: Learn how to anchor a guide when you're using the Dynamics 365 Guides HoloLens app in Author mode
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Install and sign in to the Dynamics 365 Guides HoloLens app
+ms.reviewer: v-brycho
+---
 
+# Anchor a guide using the Dynamics 365 Guides HoloLens app in Author mode
 
-# Anchor your guide
-The first thing you see when you open a guide is the anchoring instructions from the PC authoring application. 
+The first thing you see when you open a guide in the Dynamics 365 Guides HoloLens app is the anchoring instructions created in the Dynamics 365 Guides PC app. How you anchor the guide depends on the type of anchor created in the PC app. For more information on anchoring, see [set up an anchor in Dynamics 365 Guides](anchor.md).
 
-## To anchor a guide using a printed anchor
+## Anchor a guide using a printed anchor
 
 1. Stand about two feet in front of the printed anchor.
 
@@ -23,7 +33,7 @@ The first thing you see when you open a guide is the anchoring instructions from
    
    ![Marker found holograph](media/printed-anchor-found.png "Marker found holograph")
    
-## To anchor a guide using a digital anchor
+## Anchor a guide using a digital anchor
 
 - Use air tap and hold to move and align the digital anchor to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres.
 
