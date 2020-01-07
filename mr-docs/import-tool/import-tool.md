@@ -32,13 +32,6 @@ Before using the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import
 
 4.	Select **Open**.
 
-5.	In the **Prepare Model** dialog box, under **How would you like to prepare the model?**, select **Import using this PC**.
-
-    > [!div class="mx-imgBorder"]
-    > ![Import using this PC option](media/import-using-pc-option.PNG "Import using this PC option") 
-
-6.	Select **Apply**.
-
 #### If you encounter file access errors when importing files
 
 3D models sometimes reference other files in your file system, such as textures and materials files. Your imported 3D model might not look correct if Dynamics 365 Import Tool (Preview) can’t access these files, in which case, you might see this error dialog box:
@@ -52,6 +45,31 @@ There are two primary reasons why Dynamics 365 Import Tool (Preview) might not h
 
 - **Missing files**. Dynamics 365 Import Tool (Preview) expects the files to appear in the exact file paths listed in the dialog box. If files are not there, they will be marked as missing. Move the missing files to locations indicated in the dialog box, or update the original 3D model.
 
+## Locate your converted assets
+
+Files created with [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] are stored locally. To find the files on your local drive:
+
+1.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+
+2.	Right-click a model, and then select **Open file location**.
+
+    > [!div class="mx-imgBorder"]
+    > ![Locate model](media/locate-model.PNG "Locate model")
+
+## Provide feedback on the quality of processed 3D models
+
+You can provide feedback on the quality of processed 3D models if you're not satisfied.
+
+1.	Select the **Models** or **All** tab, and then select the model you want to provide feedback on.
+
+2.	At the bottom of the **Properties** tab, under **How does the model look?**, select **Looks good** or **Looks broken** to record your feedback.
+
+    > [!div class="mx-imgBorder"]
+    > ![Provide feedback](media/feedback.PNG "Provide feedback") 
+
+    > [!NOTE] 
+    > You can't update feedback after you submit it.
+    
 ## Do I need to be connected to Wi-Fi to use Dynamics 365 Import Tool (Preview)?
 
 [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] requires users to be signed in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
