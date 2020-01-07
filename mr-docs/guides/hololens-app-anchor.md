@@ -52,4 +52,4 @@ When you anchor your guide, the anchoring information is stored on your [!includ
 ## What's next?
 
 [Place holograms, add styles, and more](hololens-app-orientation.md)<br>
-[Opt out of sending telemetry data to Microsoft](hololens-app-data-opt-out.md)
+
