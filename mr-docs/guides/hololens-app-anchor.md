@@ -15,7 +15,7 @@ The first thing you see when you open a guide in the Dynamics 365 Guides HoloLen
 
 ## Anchor a guide using a printed anchor
 
-1. Stand about two feet in front of the printed anchor.
+1. With your HoloLens on, stand about two feet in front of the printed anchor.
 
 2. In the **Scan printed anchor** screen, select **Initiate Scan**.
 
