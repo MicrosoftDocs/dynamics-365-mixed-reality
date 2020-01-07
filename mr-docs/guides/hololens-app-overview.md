@@ -35,4 +35,3 @@ The second major step in authoring a guide in [!include[cc-microsoft](../include
 [Install and sign in to the app](install-sign-in-hololens-app.md)<br>
 [Anchor your guide](hololens-app-anchor.md)<br>
 [Place holograms, add styles, and more](hololens-app-orientation.md)<br>
-[Opt out of sending telemetry data to Microsoft](hololens-app-data-opt-out.md)
