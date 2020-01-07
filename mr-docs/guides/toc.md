@@ -26,9 +26,9 @@
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
 #### [Install the app and sign in](install-sign-in-hololens-app.md)
-#### [Anchor the guide](hololens-app-anchor.md)
+#### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
-#### [Opt out of sending telemetry data)(hololens-app-data-opt-out.md)
+#### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ### [How to make a great mixed reality guide](great-guide.md)
 ### [HoloLens gestures for authoring and navigating](authoring-gestures.md)
 ### [Use Dynamics 365 Import Tool to convert 3D models](import-tool.md)
