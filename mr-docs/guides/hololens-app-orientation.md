@@ -37,6 +37,10 @@ Here’s what each button or UI element is used for:
 |8|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 |9|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 
+Below the instruction text, you'll see any items you added in the PC app to help operators with the steps, such as 3D parts, 3D objects from the 3D toolkit, and 2D media (images or videos).
+
+![HoloLens step card screen](media/save-undo-redo.png "HoloLens step card screen")
+
 The Step card also includes three buttons at the top of the screen: **Save**, **Undo**, and **Redo**.
 
 ![HoloLens step card screen](media/save-undo-redo.png "HoloLens step card screen")
