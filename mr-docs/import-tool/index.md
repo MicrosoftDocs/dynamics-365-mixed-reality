@@ -9,9 +9,9 @@ title: Overview of Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
 ---
 
-# Overview of Dynamics 365 Import Tool (Preview)
+# Overview of preparing 3D models for Dynamics 365 mixed reality applications
 
-If you're using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps, you might want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models) into the applications. This guide shows you how to prepare your 3D models for use with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps by using a combination of third-party tools and [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+If you're using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps, you might want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models) into the applications. This topic shows you how to prepare your 3D models for use with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps by using a combination of third-party tools and [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
 
 ## glTF and GLB file formats
 All geometry in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps uses the Khronos Group glTF file format. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
@@ -46,8 +46,8 @@ The following illustration shows a more detailed view of this process.
 > ![Overall flow](media/overall-flow.png "Overall flow") 
 
 **A.**	Create 3D models using the CAD software of your choice.<br>
-**B.**	Convert CAD files to one of these file formats: GLB, glTF, FBX, OBJ, STL, PLY, JT, SKP, or STP.<br>
-**C.**	If you save your model as one of the file formats with a red asterisk next to it (glTF, GLB, STL, PLY, FBX, OBJ), you can optimize the 3D model yourself and use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to convert the 3D model to a GLB file locally. If you use any of these formats, you can use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for manual optimization and conversion to a supported format.<br>
+**B.**	Convert CAD files to one of these file formats: GLB, glTF, FBX, OBJ, STL, PL.<br>
+**C.**	Use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to convert the 3D model to a GLB file locally. If you use any of these formats, you can use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for manual optimization and conversion to a supported format.<br>
 **D.**	3D models are optimized and converted into the GLB format.<br>
 **E.**	3D models are ready to be imported into [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications.
 
