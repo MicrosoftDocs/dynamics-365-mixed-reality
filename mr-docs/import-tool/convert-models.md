@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. 
 
-![Convert flow highlighted](media/convert-flow.png "Convert flow highlighted") 
+![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
 
 CAD models can be exported directly to the glTF/GLB format or into intermediate formats that can be subsequently processed into glTF/GLB files. If your content-creation application does not have a glTF/GLB exporter, we recommend exporting to FBX, OBJ, STL, or PLY, if available. For complex models you may want to explore options to lower the tessellation during the conversion of the CAD model. If these formats are not available, there are third-party applications that can import many different file formats and export them as one of these supported file formats.
 
