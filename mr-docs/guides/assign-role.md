@@ -42,8 +42,7 @@ To modify user roles, you must have:
   
    ![Manage Roles](media/select-manage-roles.PNG "Manage Roles")
 
-6. In the **Manage User Roles** dialog box, make sure that the **Common Data Service User** check box is selected. This option should 
-be enabled by default.
+6. In the **Manage User Roles** dialog box, make sure that the **Common Data Service User** check box is selected. 
 
    ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
  
