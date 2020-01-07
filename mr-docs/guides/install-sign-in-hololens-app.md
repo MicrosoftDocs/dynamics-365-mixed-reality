@@ -101,3 +101,6 @@ After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is 
 
 ## What's next?
 
+[Anchor your guide](hololens-app-anchor.md)<br>
+[Place holograms, add styles, and more](hololens-app-orientation.md)<br>
+[Opt out of sending telemetry data to Microsoft](hololens-app-data-opt-out.md)
