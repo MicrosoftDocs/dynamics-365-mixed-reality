@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models to use in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications. 
 
 > [!div class="mx-imgBorder"]
-> ![Import Tool flow](media/import-tool-flow.png "Import Tool flow") 
+> ![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
 
 Before using the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] you need to convert and optimize your models. For more information, see these topics:
 
