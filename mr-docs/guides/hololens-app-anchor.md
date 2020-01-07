@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Install and sign in to the Dynamics 365 Guides HoloLens app
+title: Anchor a guide in Author mode using the Dynamics 365 Guides HoloLens app 
 ms.reviewer: v-brycho
 ---
 
