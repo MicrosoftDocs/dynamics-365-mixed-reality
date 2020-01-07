@@ -36,16 +36,16 @@ To modify user roles, you must have:
  
 4. Select **Users + permissions** to expand the list of options, and then select **Users**. If you're prompted to sign in to Dynamics.com, make sure to you use your administrator credentials.   
       
-   ![Users selected](media/users-settings.PNG "Users selected")
+   ![Users selected](media/users-setting.PNG "Users selected")
  
 5. Select a user or multiple users, and then select **Manage Roles** at the top of the screen. 
   
-   ![Manage Roles](media/manage-roles2.PNG "Manage Roles")
+   ![Manage Roles](media/select-manage-roles.PNG "Manage Roles")
 
 6. In the **Manage User Roles** dialog box, make sure that the **Common Data Service User** is selected. This option should 
 be enabled by default.
 
-   ![Common Data Service User check box](media/common-data-service-user-check-box.PNG "Common Data Service User check box")
+   ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
  
 7. Select the appropriate check box (list options here), and then select **OK**. 
 
