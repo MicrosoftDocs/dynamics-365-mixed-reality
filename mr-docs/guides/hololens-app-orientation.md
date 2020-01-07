@@ -63,9 +63,8 @@ To place a dotted line:
 
     ![Place a dotted line](media/place-tether.PNG "Place a dotted line")
 
-### Best practices for dotted lines
-
-- Placement isn’t exact, so if you’re connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (a number, for example) at the end of the dotted line. 
+    >[!TIP}
+    >Placement isn’t exact, so if you’re connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (a number, for example) at the end of the dotted line. 
 
 ## Place your holograms
 
