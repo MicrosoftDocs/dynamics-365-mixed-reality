@@ -40,7 +40,7 @@ The first thing you see when you open a guide in the Dynamics 365 Guides HoloLen
    ![Rotate digital anchor](media/rotate-digital-anchor.PNG "Rotate digital anchor")
    
 >[!TIP]
-   >On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a digital anchor when authoring a guide. See [Manipulating holograms](#manipulate) for more information.    
+   >On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a digital anchor when authoring a guide. See [Manipulating holograms](hololens-app-orientation.md) for more information.    
 
 ## Re-anchor a guide
 
@@ -49,3 +49,8 @@ When you anchor your guide, the anchoring information is stored on your [!includ
 > [!NOTE]
 > You might need to adjust the hardware offset in [!include[pn-hololens](../includes/pn-hololens.md)] 1 devices to ensure accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
 
+## What's next?
+
+[Anchor your guide](hololens-app-anchor.md)<br>
+[Place holograms, add styles, and more](hololens-app-orientation.md)<br>
+[Opt out of sending telemetry data to Microsoft](hololens-app-data-opt-out.md)
