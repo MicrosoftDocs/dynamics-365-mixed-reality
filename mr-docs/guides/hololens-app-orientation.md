@@ -19,7 +19,7 @@ You and your operators can navigate through a guide by gazing at the **Next Step
 
 ## Get oriented with the Step card
 
-At the top of the Step card screen, you’ll see three buttons: **Save**, **Undo**, and **Redo**.
+In Author mode, there are three buttons at the top of the Step card screen: **Save**, **Undo**, and **Redo**.
 
 ![HoloLens step card screen](media/save-undo-redo.png "HoloLens step card screen")
  
