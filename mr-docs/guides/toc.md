@@ -15,7 +15,7 @@
 ### [Authoring overview](authoring-overview.md)
 ### Author in the PC app
 #### [Overview](pc-app-overview.md)
-#### [Install the PC app and sign in](install-sign-in-pc-app.md)
+#### [Install the app and sign in](install-sign-in-pc-app.md)
 #### [Create a guide](create-guide.md)
 #### [Anchor your guide to the real world](anchor.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
@@ -23,7 +23,12 @@
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
 #### [What's next?](next-pc-app.md)
-### [Author in the HoloLens app](hololens-authoring.md)
+### Author in the HoloLens app
+#### [Overview](hololens-app-overview.md)
+#### [Install the app and sign in](install-sign-in-hololens-app.md)
+#### [Anchor the guide](hololens-app-anchor.md)
+#### [Place holograms, add styles, and more](hololens-app-orientation.md)
+#### [Opt out of sending telemetry data)(hololens-app-data-opt-out.md)
 ### [How to make a great mixed reality guide](great-guide.md)
 ### [HoloLens gestures for authoring and navigating](authoring-gestures.md)
 ### [Use Dynamics 365 Import Tool to convert 3D models](import-tool.md)
