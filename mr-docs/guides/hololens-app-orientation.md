@@ -164,14 +164,6 @@ Up/down rotation
 
 - Remember that you can attach a tether to 3D content to make it more discoverable. See the next section to learn about tethers.
 
-## Turn off animations
-
-If you're using animated 3D models in your guide, you can turn animation off if you plan to show it with animation in one step and without animation in another. This option is available from the **Edit** menu when you select the model.
-
-![Turn off animations](media/edit-animations.png "Turn off animations")
-
-You can also use this option when you place animated models in space. Turn animation off, place the model, and then turn animation back on. This way the animation won't interfere with your ability to place it.
-
 ## Add styles for emphasis
 Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
 
@@ -238,3 +230,10 @@ To duplicate a model:
     >[!TIP]
     >On HoloLens 2, you can reach out and select **Duplicate** directly with your finger.
     
+## Turn off animations
+
+If you're using animated 3D models in your guide, you can turn animation off if you plan to show it with animation in one step and without animation in another. This option is available from the **Edit** menu when you select the model.
+
+![Turn off animations](media/edit-animations.png "Turn off animations")
+
+You can also use this option when you place animated models in space. Turn animation off, place the model, and then turn animation back on. This way the animation won't interfere with your ability to place it.
