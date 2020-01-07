@@ -19,14 +19,7 @@ You and your operators can navigate through a guide by gazing at the **Next Step
 
 ## Get oriented with the Step card
 
-In Author mode, there are three buttons at the top of the Step card screen: **Save**, **Undo**, and **Redo**.
 
-![HoloLens step card screen](media/save-undo-redo.png "HoloLens step card screen")
- 
-The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. You can undo 100 changes or redo 100 changes.  
-
-> [!NOTE]
-> Changes are automatically saved in the cloud as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
 
 The Step card also includes several other buttons and UI elements:
 
@@ -45,6 +38,15 @@ Here’s what each button or UI element is used for:
 |7|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the **Outline** page.<br><br>Use the **Outline** page to quickly navigate around your guide.|
 |8|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 |9|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
+
+The Step card also includes three buttons at the top of the screen: **Save**, **Undo**, and **Redo**.
+
+![HoloLens step card screen](media/save-undo-redo.png "HoloLens step card screen")
+ 
+The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. You can undo 100 changes or redo 100 changes.  
+
+> [!NOTE]
+> Changes are automatically saved in the cloud as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
 
 ## Test the flow of your guide
 Once you’re oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we recommend that you go through your whole guide in Operate mode to see how it flows. As you step through your guide, make note of things you want to change in the PC application. For example, you might need to move some steps around, add tasks or steps, or add more supporting assets. It’s generally best to make these changes in the PC application before you start placing holograms, tethers, and styles. 
