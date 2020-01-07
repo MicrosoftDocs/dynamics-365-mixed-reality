@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Anchor a guide using the Dynamics 365 Guides HoloLens app in Author mode
 
-The first thing you see when you open a guide in the Dynamics 365 Guides HoloLens app is the anchoring instructions created in the Dynamics 365 Guides PC app. How you anchor the guide depends on the type of anchor created in the PC app. For more information on anchoring, see [set up an anchor in Dynamics 365 Guides](anchor.md).
+The first thing you see when you open a guide in the Dynamics 365 Guides HoloLens app is the anchoring instructions created in the Dynamics 365 Guides PC app. How you anchor the guide depends on the type of anchor created in the PC app. For more information on creating an anchor and the types of anchors, see [anchor your guide to the real world in Dynamics 365 Guides PC app](anchor.md).
 
 ## Anchor a guide using a printed anchor
 
