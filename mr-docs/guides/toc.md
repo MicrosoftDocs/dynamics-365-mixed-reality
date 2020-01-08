@@ -4,7 +4,7 @@
 ## [What's new](new.md)
 ## [Videos](videos.md)
 ## I'm an admin
-### [Requirements for installation](requirements.md)
+### [Requirements for installing](requirements.md)
 ### [Try or buy and deploy](setup.md)
 ### [Upgrade the solution](upgrade.md)
 ### [Transition from public preview to GA](public-preview-transition.md)
