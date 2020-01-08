@@ -15,7 +15,7 @@ To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mix
 
 ![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
 
-CAD models can be exported directly to the glTF/GLB format or into intermediate formats that can be subsequently processed into glTF/GLB files. If your content-creation application does not have a glTF/GLB exporter, we recommend exporting to FBX, OBJ, STL, or PLY, if available. For complex models you may want to explore options to lower the tessellation during the conversion of the CAD model. If these formats are not available, there are third-party applications that can import many different file formats and export them as one of these supported file formats.
+You can export CAD models directly to the glTF/GLB format or into intermediate formats that you can process into glTF/GLB files. If your content-creation application does not have a glTF/GLB exporter, we recommend exporting to FBX, OBJ, STL, or PLY, if available. For complex models you may want to explore options to lower the tessellation during the conversion of the CAD model. If these formats are not available, there are third-party applications that can import many different file formats and export them as one of these supported file formats.
 
 ## Tools for exporting CAD models
 
