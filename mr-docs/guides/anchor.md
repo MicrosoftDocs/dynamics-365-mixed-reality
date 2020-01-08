@@ -175,6 +175,6 @@ Before using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on 
 ## What's next?
 
 [Structure your guide in the Outline page](structure-guide.md)<br>
-[Create steps and assign media](create-steps-assign-media.md)<br>
+[Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
 
