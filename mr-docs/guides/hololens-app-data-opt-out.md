@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Opt out of sending telemetry data to Microsoft in the Dynamics 365 Guides HoloLens app
 
-For privacy reasons, you can turn off the ability to send telemetry data to Microsoft. Microsoft uses this data to improve the product. Opting out prevents Microsoft from collecting any activity data.
+For privacy reasons, you can turn off the ability to send telemetry data to Microsoft in the Dynamics 365 Guides HoloLens app. Microsoft uses this data to improve the product. Opting out prevents Microsoft from collecting any activity data.
 
 To turn telemetry data off for HoloLens:
 
