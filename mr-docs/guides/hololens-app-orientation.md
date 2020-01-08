@@ -17,6 +17,9 @@ You and your operators can navigate through a guide by gazing at the **Next Step
 
 ![Navigate a guide](media/navigate-example.PNG "Navigate a guide")
 
+>[!TIP]
+>When switching between the PC and HoloLens apps, select **Refresh** to make sure you have the latest version of the guide.
+
 ## Get oriented with the Step card
 
 The following graphic shows the different user interface elements of the Step card screen.
