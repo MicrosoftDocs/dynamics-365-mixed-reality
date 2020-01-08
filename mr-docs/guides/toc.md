@@ -35,7 +35,7 @@
 ## I'm an operator
 ### [Overview](operator-overview.md)
 ### [Calibrate HoloLens](operator-calibrate.md)
-### [Gestures you can use](operator-gestures.md)
+### [Gestures for navigating the app](operator-gestures.md)
 ### [Install the app and sign in](install-sign-in-operator.md)
 ### [Operate a guide](operator-orientation.md)
 ## I'm a process engineer
