@@ -55,3 +55,8 @@ To align the digital anchor with its real-world counterpart, air tap and hold to
 When you align your guide, if you’re using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section. 
  
 ## What's next?
+
+[Calibrate your HoloLens](operator-overview.md)<br>
+[Install the app and sign in](install-sign-in-operator.md)<br>
+[Gestures for navigating the app](operator-gestures.md)<br>
+[Operate a guide](operator-orientation.md)
