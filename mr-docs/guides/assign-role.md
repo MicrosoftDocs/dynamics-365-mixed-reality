@@ -18,7 +18,7 @@ or view and edit guides (Author role).
  
 To modify user roles, you must have: 
 
-- An active Dynamics 365 Guides license. For more information, see [Buy and deploy Dynamics 365 Guides](setup.md).
+- An active Dynamics 365 Guides license. For more information, see [Try or buy, and deploy Dynamics 365 Guides](setup.md).
 
 - The latest Dynamics 365 Guides solution installed. For more information, see [upgrade to the latest solution](upgrade.md). 
 
