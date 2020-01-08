@@ -35,5 +35,5 @@ You can use any of the following keyboard shortcuts in the Dynamics 365 Guides P
 
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
-[Create steps and assign media](create-steps-assign-media.md)<br>
+[Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
 
