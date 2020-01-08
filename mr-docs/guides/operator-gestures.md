@@ -60,6 +60,6 @@ For a tutorial on some basic gestures, use the bloom gesture to go to **Start**,
 
 ## What's next?
 
-[Calibrate your HoloLens](operator-overview.md)<br>
+[Calibrate your HoloLens](operator-calibrate.md)<br>
 [Anchor your guide](operator-anchor.md)<br>
 [Operate a guide](operator-orientation.md)
