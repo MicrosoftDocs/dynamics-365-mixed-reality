@@ -19,7 +19,7 @@ The January 28 update includes the following new features:
 
 - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms with direct touch, just like real objects. Interact with holograms in a consistent way when they're out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works the same as before since [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn’t support hand tracking. 
 
-- Administrators can assign Author and Operator roles to users. Users with the Operator role can view guides but can't edit them. 
+- Administrators can assign Author and Operator roles to users. Users with the Operator role can view guides but can't edit them. Users with the Author role can view and edit guides.
 
 - Select the **Help** (question mark) button in the PC app to: 
 
