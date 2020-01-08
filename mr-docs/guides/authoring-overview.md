@@ -29,10 +29,10 @@ Supporting assets include:
     
 Ready to jump in? Choose one or more of these links to get underway:
 
-- [Watch a video on PC authoring](https://aka.ms/pcauthor)
-- [PC authoring how-tos](pc-authoring.md)
-- [Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)  
-- [HoloLens authoring how-tos](hololens-authoring.md)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on PC authoring](https://aka.ms/pcauthor)
+- [Overview of the PC app](pc-app-overview.md)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)  
+- [Overview of the HoloLens app](hololens-app-overview.md)
 - [Gestures for authoring and navigating](authoring-gestures.md)
 - [What makes a great guide](great-guide.md)
 
