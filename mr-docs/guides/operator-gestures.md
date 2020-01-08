@@ -59,3 +59,7 @@ Use air tap, along with gaze, to select apps and other holograms and any gaze/dw
 For a tutorial on some basic gestures, use the bloom gesture to go to **Start**, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/help/13456/hololens-and-holograms-faq). 
 
 ## What's next?
+
+[Calibrate your HoloLens](operator-overview.md)<br>
+[Anchor your guide](operator-anchor.md)<br>
+[Operate a guide](operator-orientation.md)
