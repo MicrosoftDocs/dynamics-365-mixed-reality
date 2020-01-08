@@ -2,7 +2,7 @@
 author: BryceHo
 description: FAQ about Dynamics 365 Guides
 ms.author: makamat
-ms.date: 12/09/2019
+ms.date: 01/07/2020
 ms.service: crm-online
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
@@ -57,10 +57,13 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
 
+## I don't see my [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] environment even though I have a valid [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license. What should I do? 
+
+You might have installed [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on a trial environment that has expired. Trial environments have their own life cycle, independent of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license. You can go to [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
+
 ## Can I use the JSON data file generated in Common Data Service when a guide is created to build or extend functionality?
 
 When you create a guide by using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
-
 
 ## How do I limit users to a particular Dynamics 365 instance?
 
