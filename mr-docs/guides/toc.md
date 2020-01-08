@@ -35,7 +35,7 @@
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
 ### [Calibrate your HoloLens](operator-calibrate.md)
-### [Install the app and sign in](install-sign-in-operator.md)
+### [Install the HoloLens app and sign in](install-sign-in-operator.md)
 ### [Gestures for navigating the app](operator-gestures.md)
 ### [Anchor your guide](operator-anchor.md)
 ### [Operate a guide](operator-orientation.md)
