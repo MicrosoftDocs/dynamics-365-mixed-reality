@@ -1,6 +1,6 @@
 
 
-## Opt out of sending telemetry data to Microsoft
+# Opt out of sending telemetry data to Microsoft
 
 For privacy reasons, you can turn off the ability to send telemetry data to Microsoft. Microsoft uses this data to improve the product. Opting out prevents Microsoft from collecting any activity data.
 
