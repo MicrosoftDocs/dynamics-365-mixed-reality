@@ -55,3 +55,8 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 >If you're a Dynamics 365 Guides administrator, you can assign the **Operator** role to operators so they can view guides but not edit them. If you assign the **Operator** role to a user, they can also skip the **Select Mode** dialog box step and open a guide directly. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
    
 ## What's next?
+
+[Calibrate your HoloLens](operator-overview.md)<br>
+[Gestures for navigating the app](operator-gestures.md)<br>
+[Anchor your guide](operator-anchor.md)<br>
+[Operate a guide](operator-orientation.md)
