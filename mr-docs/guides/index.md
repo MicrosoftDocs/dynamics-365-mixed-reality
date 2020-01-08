@@ -48,6 +48,6 @@ analyze and improve without doing expensive studies. Being part of the [!include
 [Authoring overview](authoring-overview.md)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)<br>
 [Operator overview](operator-overview.md)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic")[Analyze your guides](https://aka.ms/guidesanalyze)<br>
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides](https://aka.ms/guidesanalyze)<br>
 [Analyze your guides](analytics-guide.md)<br>
 [FAQ](faq.md)
