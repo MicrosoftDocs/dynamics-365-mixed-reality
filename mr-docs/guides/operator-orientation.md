@@ -1,4 +1,13 @@
-
+---
+author: Mamaylya
+description: Overview of operating a guide in Dynamics 365 Guides
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Overview of operating a guide in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
 ## Get oriented with the Step card 
 
