@@ -16,7 +16,7 @@ Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-i
 > [!div class="mx-imgBorder"]
 > ![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
 
-Before using the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] you need to convert and optimize your models. For more information, see these topics:
+Before you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], you need to convert and optimize your models. For more information, see these topics:
 
 - [Convert your 3D models](convert-models.md)
 - [Optimize your 3D models](optimize-models.md)
