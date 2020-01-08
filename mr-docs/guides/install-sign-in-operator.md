@@ -1,19 +1,15 @@
 ---
 author: Mamaylya
-description: Overview of operating a guide in Dynamics 365 Guides
+description: Install and sign in to the Dynamics 365 Guides HoloLens app as an operator
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of operating a guide in Dynamics 365 Guides
+title: Install and sign in to the Dynamics 365 Guides HoloLens app as an operator
 ms.reviewer: v-brycho
 ---
 
-## Get started with the HoloLens app 
-
-Now that your [!include[pn-hololens](../includes/pn-hololens.md)] device is calibrated, and you know how to get around by gazing and using gestures, it’s time to open a guide and get some work done. Start by installing the app if someone hasn’t already installed it for you. 
-
-### Install the HoloLens app
+# Install and sign in to the Dynamics 365 Guides HoloLens app (operators)
 
 1.	Make sure you have [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
 
@@ -21,11 +17,11 @@ Now that your [!include[pn-hololens](../includes/pn-hololens.md)] device is cali
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
-### Sign in to the HoloLens app
+## Sign in to the HoloLens app
 
 If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.md)] device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you’re running. The Setup wizard also walks you through steps to calibrate and prepare [!include[pn-hololens](../includes/pn-hololens.md)]. For more information on calibration, see the “First things first” section of this topic.
  
-### Open and sign in to HoloLens for the first time
+## Open and sign in to HoloLens for the first time
 
 1.	Go to **All Apps**.
 
@@ -58,3 +54,4 @@ If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.m
 >[!NOTE]
 >If you're a Dynamics 365 Guides administrator, you can assign the **Operator** role to operators so they can view guides but not edit them. If you assign the **Operator** role to a user, they can also skip the **Select Mode** dialog box step and open a guide directly. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
    
+## What's next?
