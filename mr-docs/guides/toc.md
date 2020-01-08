@@ -22,7 +22,6 @@
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
-#### [What's next?](next-pc-app.md)
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
 #### [Install the app and sign in](install-sign-in-hololens-app.md)
