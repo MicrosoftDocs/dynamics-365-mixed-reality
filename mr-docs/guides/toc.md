@@ -5,7 +5,7 @@
 ## [Videos](videos.md)
 ## I'm an admin
 ### [Requirements for installing](requirements.md)
-### [Try or buy and deploy](setup.md)
+### [Try or buy, and deploy](setup.md)
 ### [Upgrade the solution](upgrade.md)
 ### [Transition from public preview to GA](public-preview-transition.md)
 ### [Assign user roles (Author or Operator)](assign-role.md)
