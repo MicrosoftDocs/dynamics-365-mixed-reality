@@ -1,15 +1,16 @@
 ---
 author: Mamaylya
-description: Overview of operating a guide in Dynamics 365 Guides
+description: Anchor a guide in the Dynamics 365 Guides HoloLens app if you're an operator
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of operating a guide in Dynamics 365 Guides
+title: Anchor a guide in the Dynamics 365 Guides HoloLens app as an operator
 ms.reviewer: v-brycho
 ---
 
-### Anchor your guide 
+# Anchor a guide in the Dynamics 365 Guides HoloLens app (operators)
+
 The first thing you see when you open a guide is the anchoring instructions for the guide.  
 
 ![Scan printed anchor](media/scan-printed-anchor.png "Scan printed anchor") 
@@ -19,11 +20,11 @@ The first thing you see when you open a guide is the anchoring instructions for 
 
 Anchoring a guide is a crucial step, just like calibrating [!include[pn-hololens](../includes/pn-hololens.md)]. You anchor a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don’t line up, you’ll likely be confused when you try to do a task. You could even cause damage. For example, you might drill a hole in the wrong place. 
 
-#### Printed anchors vs digital anchors
+## Printed anchors vs digital anchors
 
 There are two types of anchors: a printed anchor and a digital anchor. The way you anchor your guide depends on which method is used.
 
-**To anchor your guide using a printed anchor**
+### Anchor your guide using a printed anchor
 
 1. Look for a printed anchor attached to a physical object in your real-world environment. The printed anchor looks like this: 
 
@@ -39,7 +40,7 @@ There are two types of anchors: a printed anchor and a digital anchor. The way y
  
    ![Printed anchor found screen](media/printed-anchor-found.png "Printed anchor found screen") 
 
-**To anchor your guide with a digital anchor**
+### Anchor your guide using a digital anchor
 
 With a digital anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world. 
 
@@ -49,7 +50,8 @@ To align the digital anchor with its real-world counterpart, air tap and hold to
 
 ![Rotate digital anchor](media/rotate-digital-anchor.PNG "Rotate digital anchor")
 
-#### Where alignment information is stored 
+## Where alignment information is stored 
 
 When you align your guide, if you’re using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)] so you don’t have to realign the guide every time you open it. You can realign a guide at any time, though, if you feel the holograms are out of alignment. For more information, read about the **Anchor** button in the next section. 
  
+## What's next?
