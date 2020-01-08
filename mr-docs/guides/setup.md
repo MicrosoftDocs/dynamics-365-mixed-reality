@@ -134,9 +134,7 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 >[!NOTE]
 >In subsequent procedures throughout this topic, use the production environment instead of the default environment shown in the screenshots.
 
-<a name="upload"></a>
-
-### Change maximum upload file size
+### Change maximum upload file size<a name="upload"></a>
 
 In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files in addition to videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB).
 
