@@ -38,6 +38,6 @@ Autosave checks for changes every 4 seconds. You must be online to use [!include
 
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
-[Create steps and assign media](create-steps-assign-media.md)<br>
+[Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
 
