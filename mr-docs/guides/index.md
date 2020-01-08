@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview of Dynamics 365 Guides
 
-[Watch a video to get a quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video to get a quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)
 
 ![Person using Dynamics 365 Guides while working on a truck engine](media/woman-at-work.PNG "Person using Dynamics 365 Guides while working on a truck engine") 
 
