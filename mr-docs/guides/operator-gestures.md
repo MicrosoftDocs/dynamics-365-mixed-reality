@@ -9,7 +9,7 @@ title: Gestures you can use to navigate a guide as an operator in Dyanmics 365 G
 ms.reviewer: v-brycho
 ---
 
-# Gestures you can use to navigate a guide in Dynamics 365 Guides
+# Gestures for navigating a guide in Dynamics 365 Guides
 
 To navigate through a guide as an operator in Dynamics 365 Guides, you use your gaze and a few gestures. 
 
