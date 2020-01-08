@@ -37,3 +37,8 @@ ms.reviewer: v-brycho
 [Learn more about HoloLens calibration](https://docs.microsoft.com/windows/mixed-reality/calibration). 
 
 ## What's next?
+
+[Install the app and sign in](install-sign-in-operator.md)<br>
+[Gestures for navigating the app](operator-gestures.md)<br>
+[Anchor your guide](operator-anchor.md)<br>
+[Operate a guide](operator-orientation.md)
