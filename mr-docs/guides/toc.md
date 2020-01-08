@@ -33,7 +33,7 @@
 ### [HoloLens gestures for authoring and navigating](authoring-gestures.md)
 ### [Use Dynamics 365 Import Tool to convert 3D models](import-tool.md)
 ## I'm an operator
-### [Overview](operator-overview.md)
+### [Overview of operating a guide](operator-overview.md)
 ### [Calibrate HoloLens](operator-calibrate.md)
 ### [Install the app and sign in](install-sign-in-operator.md)
 ### [Gestures for navigating the app](operator-gestures.md)
