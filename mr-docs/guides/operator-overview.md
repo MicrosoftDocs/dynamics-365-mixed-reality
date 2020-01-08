@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview of operating a guide in Dynamics 365 Guides
 
-[Watch a video on operating a guide](https://aka.ms/guidesoperate)
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on operating a guide](https://aka.ms/guidesoperate)
 
 Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! This set of topics is designed to help operators understand how to use a holographic guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. It describes everything that you, as the operator, need to know about the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user interface and how to accomplish tasks in a real-world environment, such as a busy factory floor. If you’re like other first-line workers in this type of environment, you probably have your hands full of tools and parts as you do your work. With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can stay heads-up and keep your tools in your hands as you follow step-by-step holographic instructions to accomplish your tasks. 
 
