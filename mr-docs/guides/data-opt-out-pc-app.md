@@ -26,6 +26,6 @@ To turn telemetry data off for the PC application:
 
 ## See also
 
-[Opt out of sending telemetry data in the HoloLens app](hololens-data-opt-out.md)
+[Opt out of sending telemetry data in the HoloLens app](hololens-app-data-opt-out.md)
 
 
