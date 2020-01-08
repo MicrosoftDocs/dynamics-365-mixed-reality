@@ -48,6 +48,6 @@ Here’s an example of a filled-out **Outline** page:
 ## What's next?
 
 [Anchor your guide to the real world](anchor.md)<br>
-[Create steps and assign media](create-steps-assign-media.md)<br>
+[Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
 
