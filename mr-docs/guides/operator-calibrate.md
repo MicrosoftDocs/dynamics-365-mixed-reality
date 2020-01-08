@@ -1,20 +1,21 @@
 ---
 author: Mamaylya
-description: Overview of operating a guide in Dynamics 365 Guides
+description: Learn how to calibrate HoloLens to use with the Dynamics 365 Guides app
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of operating a guide in Dynamics 365 Guides
+title: Calibrate your HoloLens to use with the Dynamics 365 Guides app
 ms.reviewer: v-brycho
 ---
 
-## First things first – calibrate your HoloLens 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device. You can do this by using the Calibration app that comes with your [!include[pn-hololens](../includes/pn-hololens.md)]. 
+# Calibrate your HoloLens before using the Dynamics 365 Guides app
+
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show you, as an operator, exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device. You can do this by using the Calibration app that comes with your [!include[pn-hololens](../includes/pn-hololens.md)]. 
 
 ![HoloLens Calibration app](media/calibration.PNG "HoloLens Calibration app")  
 
-### Calibrate your HoloLens by using the Calibration app 
+## Calibrate your HoloLens by using the Calibration app 
 
 1.	Use the bloom gesture to open the **Start** menu. 
 
@@ -35,3 +36,4 @@ ms.reviewer: v-brycho
 
 [Learn more about HoloLens calibration](https://docs.microsoft.com/windows/mixed-reality/calibration). 
 
+## What's next?
