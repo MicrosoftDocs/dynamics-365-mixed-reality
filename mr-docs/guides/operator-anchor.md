@@ -56,7 +56,7 @@ When you align your guide, if you’re using the [!include[cc-microsoft](../incl
  
 ## What's next?
 
-[Calibrate your HoloLens](operator-overview.md)<br>
+[Calibrate your HoloLens](operator-calibrate.md)<br>
 [Install the app and sign in](install-sign-in-operator.md)<br>
 [Gestures for navigating the app](operator-gestures.md)<br>
 [Operate a guide](operator-orientation.md)
