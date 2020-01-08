@@ -17,8 +17,11 @@ ms.reviewer: v-brycho
 
      ![Create new guide](media/create-guide.PNG "Create new guide")
 
-3.	Enter a name for the guide. If you’re planning to create multiple versions of the guide, you might want to add _v2, _v3, and 
-so on as part of the name. 
+3.	Enter a name for the guide, and then select **Create**. 
+
+     >[TIP]
+     >If you’re planning to create multiple versions of the guide, you might want to add _v2, _v3, and 
+so on as part of the name. You can also use the **Save a Copy** command on the **File** menu if you're creating multiple versions of the same guide.
 
      ![Name the guide](media/name-guide.PNG "Name the guide")
      
