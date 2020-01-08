@@ -71,8 +71,6 @@ You can turn holograms off (or turn them back on) with a glance if you ever feel
 ## What's next?
 
 - [Watch a video on operating a guide](https://aka.ms/guidesoperate)
-- [What is mixed reality?](https://docs.microsoft.com/windows/mixed-reality/mixed-reality)
-- [Connecting to Wi-Fi on HoloLens](https://docs.microsoft.com/windows/mixed-reality/connecting-to-wi-fi-on-hololens)
 - [Calibrate your HoloLens](https://docs.microsoft.com/windows/mixed-reality/calibration)
 
 
