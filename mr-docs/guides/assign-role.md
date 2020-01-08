@@ -52,6 +52,6 @@ To modify user roles, you must have:
 
 ### See also
 
-[Author a guide](authoring-overview.md)<br>
-[Operate a guide](operator-guide.md)
+[Overview of authoring a guide](authoring-overview.md)<br>
+[Overview of operating a guide](operator-overview.md)
 
