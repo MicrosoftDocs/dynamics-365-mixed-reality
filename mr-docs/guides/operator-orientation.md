@@ -1,19 +1,21 @@
 ---
 author: Mamaylya
-description: Overview of operating a guide in Dynamics 365 Guides
+description: Learn how to operate a guide in Dynamics 365 Guides using the HoloLens app.
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of operating a guide in Dynamics 365 Guides
+title: Operate a guide in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-## Get oriented with the Step card 
+# Operate a guide in Dynamics 365 Guides
 
-When you open a guide, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card follows you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
+When you open a guide as an operator with the Dynamics 365 Guides HoloLens app, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card follows you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
 
 ![Step card with Next Step and Go Back buttons](media/pin.PNG "Step card with Next Step and Go Back buttons")  
+
+## Get oriented with the Step card
 
 In addition to the **Next Step** and **Go Back** buttons, the Step card includes a number of different buttons and UI elements to help you take various actions. 
 
@@ -66,9 +68,7 @@ You can turn holograms off (or turn them back on) with a glance if you ever feel
 
 ![Turn off holograms](media/dotted-line-toggle-visibility.PNG "Turn off holograms")  
 
-## Useful links for more information
-
-That's all the info you need to use a guide created with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]! To learn more about [!include[cc-microsoft](../includes/cc-microsoft.md)] mixed-reality apps and [!include[pn-hololens](../includes/pn-hololens.md)], here are some helpful links: 
+## What's next?
 
 - [Watch a video on operating a guide](https://aka.ms/guidesoperate)
 - [What is mixed reality?](https://docs.microsoft.com/windows/mixed-reality/mixed-reality)
