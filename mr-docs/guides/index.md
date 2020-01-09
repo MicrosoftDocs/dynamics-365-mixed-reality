@@ -17,9 +17,9 @@ ms.reviewer: v-brycho
 
 ![Person using Dynamics 365 Guides while working on a truck engine](media/woman-at-work.PNG "Person using Dynamics 365 Guides while working on a truck engine") 
 
-## Create mixed-reality guides - no specialized skills required
+## No specialized skills required to create mixed-reality guides
 
-With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you don't need specialized 3D or programming skills to create step-by-step mixed-reality guides. Start with the PC authoring app to create guides — step-by-step instructions with images, video, and 3D holograms. After creating the guide on a PC, authors use HoloLens to connect the instruction cards and holograms to the physical work space by picking them up and moving them to the right location. Authors can use the default library of 3D holograms to get started. They can also import their own custom 3D models.   
+With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you don't need specialized 3D or programming skills. Start with the PC authoring app to create guides — step-by-step instructions with images, video, and 3D holograms. After creating the guide on a PC, authors use HoloLens to connect the instruction cards and holograms to the physical work space by picking them up and moving them to the right location. Authors can use the default library of 3D holograms to get started. They can also import their own custom 3D models.   
 
 ## Improve productivity by enabling your workforce to learn while doing their work
 
