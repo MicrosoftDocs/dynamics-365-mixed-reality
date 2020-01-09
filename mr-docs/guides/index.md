@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video to get a quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)
 
-[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that enables operators to learn in the flow of work by providing holographic instructions when and where they need them. Instruction cards are visually tethered to the place where the work needs to be done and can include images, videos, and 3D holographic models that show operators what needs to be done where, so they can get the job done faster, with fewer errors, and with greater skill retention. 
+[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that enables operators to learn in the flow of work by providing holographic instructions when and where they need them. These instruction cards are visually tethered to the place where the work needs to be done and can include images, videos, and 3D holographic models that show operators what needs to be done where, so they can get the job done faster, with fewer errors, and with greater skill retention. 
 
 ![Person using Dynamics 365 Guides while working on a truck engine](media/woman-at-work.PNG "Person using Dynamics 365 Guides while working on a truck engine") 
 
