@@ -36,7 +36,7 @@ analyze and improve without doing expensive studies.
 
 Check out these videos and overview topics:
 
-[Learn about resources in our Get started topic](get-started.md)
+[Learn about resources in our Get started topic](get-started.md)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)<br> 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the HoloLens app](https://aka.ms/hololensauthor)<br>
