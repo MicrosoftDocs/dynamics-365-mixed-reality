@@ -40,9 +40,9 @@ Check out these videos and overview topics:
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)<br> 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the HoloLens app](https://aka.ms/hololensauthor)<br>
-[Authoring overview](authoring-overview.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Authoring overview](authoring-overview.md)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)<br>
-[Operator overview](operator-overview.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Operator overview](operator-overview.md)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides](https://aka.ms/guidesanalyze)<br>
-[Analyze your guides](analytics-guide.md)<br>
-[FAQ](faq.md)
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Analyze your guides](analytics-guide.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [FAQ](faq.md)
