@@ -23,7 +23,7 @@ With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you don't 
 
 ## Improve productivity by enabling your workforce to learn while doing their work
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides heads-up, hands-free, step-by-step instructions in the flow of work, whether employees are doing complex procedures on the job or training away from the production line. Operators control the interface with their gaze (using a glance to move to the next step) leaving their hands free to do the work. Instruction cards move with the worker, following them as they move around equipment, pointing to the tools and parts they need and showing them exactly how and where to apply them. The experience is comfortable, simple to use, and reduces mental processing time, errors, and the need to rely on a buddy system. 
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides heads-up, hands-free, step-by-step instructions in the flow of work, whether employees are doing complex procedures on the job or training away from the production line. Operators control the interface with their gaze (using a glance to move to the next step) leaving their hands free to do the work. Instruction cards move with the operator, following them as they move around equipment, pointing to the tools and parts they need and showing them exactly how and where to apply them. The experience is comfortable, simple to use, and reduces mental processing time, errors, and the need to rely on a buddy system. 
 
 ## Continually analyze and improve your processes   
 
