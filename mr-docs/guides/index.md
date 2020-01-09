@@ -23,7 +23,7 @@ and greater retention of learned skills.
 
 ## Create mixed-reality guides without the need for specialized skills
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] allows anyone to create step-by-step mixed-reality guidance for a task, without the need for specialized 3D or programming skills. Start with the PC authoring tool to create guides — step-by-step instructions with images, video, and 3D holograms. After creating the guide on a PC, authors 
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] allows anyone to create step-by-step mixed-reality guidance for a task, without the need for specialized 3D or programming skills. Start with the PC authoring app to create guides — step-by-step instructions with images, video, and 3D holograms. After creating the guide on a PC, authors 
 use HoloLens to connect the instruction cards and holograms to the physical work space by picking them up and 
 moving them to the right location. Authors can use the default library of 3D holograms or they can import their own custom 3D models if they prefer.   
 
