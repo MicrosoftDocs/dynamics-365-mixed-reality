@@ -27,8 +27,8 @@ With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you don't 
 
 ## Continually analyze and improve your processes   
 
-Using [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboards, managers can see rich data about how the process is working for their people, enabling them to continually 
-analyze and improve without doing expensive studies. Being part of the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] product family and powered by Common Data Service, [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] allows customers and partners access and integration opportunities.
+Using [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboards, managers can view rich data about how processes are working for their employees, enabling them to continually 
+analyze and improve without doing expensive studies. [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is part of the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] product family and is powered by Common Data Service, which enables access and integration opportunities for customers and partners.
 
 ## What's next?
 
