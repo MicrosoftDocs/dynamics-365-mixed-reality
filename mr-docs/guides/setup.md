@@ -211,7 +211,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     |Role|Description|
     |-----------------------|----------------------------------------------------------------------|
     |**Author**|Users with this role can use the PC app and HoloLens app to create, edit, and operate guides. They can also rename and deactivate existing guides.|
-    |**Operator**|Users with this role can use the HoloLens app to view/operate a guide. If the **Operator** role is set, operators can also save a step when opening a guide by skipping the **Select Mode** dialog box.|
+    |**Operator**|Users with this role can use the HoloLens app to view/operate a guide. If the **Operator** role is set, operators can also save time when opening a guide by skipping the **Select Mode** dialog box.|
       
 7. If you want this user to have administrator privileges, select the **System Administrator** check box. 
      
