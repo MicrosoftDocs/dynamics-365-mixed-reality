@@ -9,9 +9,9 @@ title: Assign an Author or Operator role to a user to control whether a user can
 ms.reviewer: v-brycho
 ---
 
-# Assign an Author or Operator role to a user
+# Assign an Author or Operator role to a user in Dynamics 365 Guides
 
-If you're an administrator, you can assign an **Author** or **Operator** role to a user. The following table describes the privileges granted by each role.
+If you're a Dynamics 365 Guides administrator, you can assign an **Author** or **Operator** role to a user to restrict what they can do with the apps. The following table describes the privileges granted by each role.
 
 |Role|Description|
 |-----------------------|----------------------------------------------------------------------|
