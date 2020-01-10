@@ -187,7 +187,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
     ![Environment settings](media/environment-settings.PNG "Environment settings")
 
-3. On the **Settings** page, under **Users + permissions**, select **Users**.
+3. On the **Settings** page, expand **Users + permissions**, and then select **Users**.
 
     ![Users and permissions](media/settings-page.png "Users and permissions")
     
