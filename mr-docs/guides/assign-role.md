@@ -48,7 +48,7 @@ To modify user roles, you must have:
  
 7. Select the appropriate check box (!!!list options here!!!), and then select **OK**. 
 
-   ![Author and Operator check boxes](media/author-operator-check-boxes.PNG "Author and Operator check boxes")
+   ![Author and Operator check boxes](media/select-role.PNG "Author and Operator check boxes")
 
 ### See also
 
