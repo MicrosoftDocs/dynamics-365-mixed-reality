@@ -34,7 +34,7 @@ To modify user roles, you must have:
 
    ![Environment settings](media/environment-settings.PNG "Environment settings")
  
-4. Select **Users + permissions** to expand the list of options, and then select **Users**. If you're prompted to sign in to Dynamics 365, make sure to you use your administrator credentials.   
+4. Select **Users + permissions** to expand the list of options, and then select **Users**. If you're prompted to sign in to Dynamics 365, make sure to use your administrator credentials.   
       
    ![Users selected](media/users-setting.PNG "Users selected")
  
