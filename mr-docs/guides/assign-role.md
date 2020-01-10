@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Assign an Author or Operator role to a user
 
-If you're an administrator, you can assign an **Author** or **Operator** role to a user. The following table describes each role.
+If you're an administrator, you can assign an **Author** or **Operator** role to a user. The following table describes the privileges granted by each role.
 
 |Role|Description|
 |-----------------------|----------------------------------------------------------------------|
