@@ -202,7 +202,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
          
     ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
     
-6. Select the **Author** or **Operator** role check box, depending on the privileges you want the user to have.
+6. Select the **Dyamics 365 Guides Author** or **Dynamics 365 Guides Operator** check box, depending on the privileges you want the user to have.
 
     ![Author and Operator role check boxes](media/select-role.PNG "Author and Operator role check boxes")
     
@@ -210,11 +210,10 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     
     |Role|Description|
     |-----------------------|----------------------------------------------------------------------|
-    |**Author**|Use the PC app and HoloLens app to create, edit, and operate guides. Users with the **Author** role can also rename and deactivate existing guides.|
-    |**Operator**|Use the HoloLens app to view/operate a guide. If the **Operator** role is set, operators can also save a step when opening a guide by skipping the **Select Mode** dialog box.|
+    |**Author**|Users with this role can use the PC app and HoloLens app to create, edit, and operate guides. They can also rename and deactivate existing guides.|
+    |**Operator**|Users with this role can use the HoloLens app to view/operate a guide. If the **Operator** role is set, operators can also save a step when opening a guide by skipping the **Select Mode** dialog box.|
       
-> [!NOTE]
-> Also select the System Administrator role if this is the main user/admin. Otherwise, do not select that role. 
+7. If you want this user to have administrator privileges, select the **System Administrator** check box. 
      
 ## Step 3: Download and install the apps
 
