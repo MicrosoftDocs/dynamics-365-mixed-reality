@@ -183,7 +183,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 1. After the solution has finished installing, go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/). 
 
-2. On the **Environments** page, select the environment you created, select the **More environment actions** (...) button, and then select the **Settings**. 
+2. On the **Environments** page, select the environment you created, select the **More environment actions** (...) button, and then select **Settings**. 
 
     ![Environment settings](media/environment-settings.PNG "Environment settings")
 
