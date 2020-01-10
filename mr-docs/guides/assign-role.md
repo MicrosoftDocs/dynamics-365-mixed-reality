@@ -16,7 +16,7 @@ If you're a Dynamics 365 Guides administrator, you can assign an **Author** or *
 |Role|Description|
 |-----------------------|----------------------------------------------------------------------|
 |**Author**|Use the PC app and HoloLens app to create, edit, and operate guides. Users with the **Author** role can also rename and deactivate existing guides.|
-|**Operator**|Use the HoloLens app to view/operate a guide. If the **Operator** role is set, operators can also save a step when opening a guide by skipping the **Select Mode** dialog box.|
+|**Operator**|Use the HoloLens app to view/operate a guide. If the **Operator** role is set, operators can also save time when opening a guide by skipping the **Select Mode** dialog box.|
 
 >[!IMPORTANT]
 >If you followed the instructions in the [Try or buy, and deploy](setup.md) topic when you set up Dynamics 365 Guides, any users you added were automatically assigned the **Author** role. You must explicitly assign the **Operator** role to specific users if you don't want them to have **Author** role privileges. 
