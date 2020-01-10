@@ -46,7 +46,7 @@ To modify user roles, you must have:
 
    ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
  
-7. Select the appropriate check box (!!!list options here!!!), and then select **OK**. 
+7. Select the check box for the appropriate role for this user, and then select **OK**. 
 
    ![Author and Operator check boxes](media/select-role.PNG "Author and Operator check boxes")
 
