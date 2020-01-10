@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 If you're an administrator, you can assign an **Author** or **Operator** role to a user. The following table describes each role.
 
 |Role|Description|
-|-------------|----------------------------------------------------------------------|
+|-----------------------|----------------------------------------------------------------------|
 |Author|Use the PC and HoloLens apps to create, edit, and operate guides.|
 |Operator|Use guides. If the **Operator** role is set, operators can also save a step when opening a guide by skipping the **Select Mode** dialog box.|
 
