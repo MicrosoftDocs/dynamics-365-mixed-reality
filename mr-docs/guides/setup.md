@@ -183,7 +183,9 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 1. After the solution has finished installing, go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/). 
 
-2. On the **Environments** page, select the environment you created, and then select the **Settings** button in the title bar. 
+2. On the **Environments** page, select the environment you created, select the **More environment actions** (...) button, and then select the **Settings**. 
+
+    ![Environment settings](media/environment-settings.PNG "Environment settings")
 
 3. On the **Settings** page, under **Users + permissions**, select **Users**.
 
@@ -192,17 +194,23 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     > [!IMPORTANT]
     > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the Guides Hub tile on the preceding page, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
  
-4.	On the **Enabled Users** page, select the user, and then select **Manage Roles**. 
+4. On the **Enabled Users** page, select the user, and then select **Manage Roles**. 
 
     ![Manage roles](media/manage-roles.png "Manage roles")
  
-5.	In the **Manage User Roles** dialog box, select the following roles: 
-
-    - Common Data Service User    
-
-    - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Author    
+5. In the **Manage User Roles** dialog box, make sure the **Common Data Service User** check box is selected.
          
-      ![Manage Roles dialog box filled in](media/manage-roles-dialog-box.PNG "Manage Roles dialog box filled in")
+    ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
+    
+6. Select the **Author** or **Operator** role check box, depending on the privileges you want the user to have.
+
+    ![Author and Operator role check boxes](media/select-role.PNG "Author and Operator role check boxes")
+    
+    The following table describes the privileges provided by each role:
+    
+    
+
+
       
       > [!NOTE]
       > Also select the System Administrator role if this is the main user/admin. Otherwise, do not select that role. 
