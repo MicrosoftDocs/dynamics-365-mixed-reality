@@ -38,8 +38,7 @@
 ### [Gestures for navigating a guide](operator-gestures.md)
 ### [Anchor your guide](operator-anchor.md)
 ### [Operate your guide](operator-orientation.md)
-## I'm a process engineer
-### [Analyze your guides](analytics-guide.md)
+## [Analyze your guides](analytics-guide.md)
 ## [Get Help and provide feedback](help.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
