@@ -38,8 +38,20 @@ You can download models to use offline when you're away from a cellular network 
    
    ![Model downloaded button](media/model-downloaded.PNG "Model downloaded button")
    
-   >[!NOTE]
-   >When you're working offline with a 3D model, the notes functionality is disabled.
+   > [!NOTE]
+   > When you're working offline with a 3D model, the notes functionality is disabled.
+
+## Update downloaded models
+
+You can update all of your downloaded models at once.
+
+1.	In the Product Visualize app, select the main menu button.
+
+2.	Select **Downloads**.
+
+3.	Select **Update Downloads**.
+
+   A progress bar is displayed at the top of the screen indicating the status of downloads.
 
 ## Delete all downloaded models
 
