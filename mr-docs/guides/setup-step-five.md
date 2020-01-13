@@ -1,9 +1,12 @@
 
-## Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
+# Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
 
-If you want to add additional users, you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them and configure the roles they will have access to in the Dynamics 365 admin center.
+>[!NOTE]
+>Before completing the procedure in this step, make sure to see [Step Four: Set up Guides Analytics reports](setup-step-four.md)
 
-### Add a user account
+If you want to add additional users to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them and configure the roles they will have access to in the Dynamics 365 admin center.
+
+## Add a user account
 
 1. Go to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
@@ -26,11 +29,11 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
      Select **Next** when you're done.
    
-7. On the **Optional settings** page, leave the **User (no administrator access)** box selected unless this new user will be an administrator. In that case, select the **Global administrator** check box. 
+6. On the **Optional settings** page, leave the **User (no administrator access)** box selected unless this new user will be an administrator. In that case, select the **Global administrator** check box. 
 
    ![Optional settings page](media/user-optional-settings.png "Optional settings page") 
    
-8. To fill out the new user's profile info, scroll down, and then expand **Profile info**. Select **Next** when you're done.
+7. To fill out the new user's profile info, scroll down, and then expand **Profile info**. Select **Next** when you're done.
    
    ![Expanded Profile info](media/expanded-profile-info.png "Expanded Profile info")
    
@@ -38,17 +41,17 @@ If you want to add additional users, you need to assign the [!include[pn-dyn-365
 
    ![Review page with Edit buttons](media/review-page.png "Review page with Edit buttons")
 
-9. If you selected **Auto-generate password** in step 4, make note of the password. The user will need this password to sign in.
+8. If you selected **Auto-generate password** in step 4, make note of the password. The user will need this password to sign in.
 
    ![Auto-generated password](media/review-user-settings.png "Auto-generated password") 
    
-10. Select **Close**.
+9. Select **Close**.
 
-11. [Set up user roles for the solution](#user-roles) as described earlier in this topic.
+10. [Set up user roles for the solution](#user-roles) as described earlier in this topic.
 
-### See also
+## What's next?
 
-[Get started with Dynamics 365 Guides](get-started.md)<br>
+[Learn about resources you can use to get started with Dynamics 365 Guides](get-started.md)<br>
 [Author a guide](authoring-overview.md)<br>
 [Overview of operating a guide](operator-overview.md)<br>
 [Analyze your guides to improve process efficiencies](analytics-guide.md)<br>
