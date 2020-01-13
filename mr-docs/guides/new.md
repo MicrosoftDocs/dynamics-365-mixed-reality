@@ -32,6 +32,8 @@ The January 28 update includes the following new features:
   - Get phone numbers for customer support.
   
   - Provide feedback and ideas for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team. 
+  
+#### Other updates
 
 - The media panel automatically resizes to fit the attached media, which optimizes for the [!include[pn-hololens](../includes/pn-hololens.md)] field of view. 
 
