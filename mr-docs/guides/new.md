@@ -19,7 +19,7 @@ The January 28 update includes the following new features:
 
 - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms with direct touch, just like real objects. Use hand rays to interact with holograms when they're out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works the same as before since [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn’t support hand tracking. 
 
-- Authors can add a website link to a guide step. Use a website link to display a PDF hosted on your server, show a form, or bring data from your online IoT devices for the operator to review.
+- Authors can add a website link to a guide step. Use a website link to display a PDF hosted on your server, show a form, or show data from your online IoT devices for the operator to review.
 
 - Administrators can assign Author and Operator roles to users so that editing is only enabled for authors. 
 
