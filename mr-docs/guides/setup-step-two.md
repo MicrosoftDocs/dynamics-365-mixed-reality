@@ -1,11 +1,13 @@
-## Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
+# Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
 
-After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment you create depends on whether you're creating a trial or production environment. If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to set up a production environment. A production environment provides backup and restore capabilities.
+Before completing the procedures in this step, make sure to see [Step One: Buy a Dyammics 365 Guides subscription or sign up for a free trial subscription](setup-step-one.md)
+
+After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment you create depends on whether you're creating a trial or production environment. If you have a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to set up a production environment. A production environment provides backup and restore capabilities. Otherwise, you can set up a trial environment.
 
 >[!NOTE]
 >If you already have a Common Data Service environment (for example, an instance in your company's Dynamics 365 tenant), you can skip to [Change maximum upload file size](#upload).
 
-### Set up a trial environment on the default instance
+## Set up a trial environment on the default instance
     
 1.  Go to the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the admin user credentials (where the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] licenses are assigned).
 
@@ -36,7 +38,7 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 
 7.	After you've successfully created the database, return to the **Environments** page and go to the [Change maximum upload file size](#upload) procedure later in this topic.
 
-### Set up a production environment
+## Set up a production environment
 
 1.	Go to the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select **Environments** if it's not already selected, and then select **New**.
 
@@ -74,7 +76,7 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 >[!NOTE]
 >In subsequent procedures throughout this topic, use the production environment instead of the default environment shown in the screenshots.
 
-### Change maximum upload file size<a name="upload"></a>
+## Change maximum upload file size<a name="upload"></a>
 
 In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC application, you can upload your own 3D files in addition to videos and 2D images. Many of these files will be larger than 5 MB, so you need to change the maximum file size for files that are uploaded. To do this, you'll change the setting for the email attachment size to 128 MB (131072 KB).
 
@@ -92,7 +94,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 4. Go back to the **Environments** page to prepare for the next step. 
 
-### Install and configure the Dynamics 365 Guides solution<a name="configure"></a>
+## Install and configure the Dynamics 365 Guides solution<a name="configure"></a>
 
 1. In the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select the **More environment actions** (...) button next to the configured environment, and then select **Manage Solutions**.
 
@@ -116,7 +118,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     > [!NOTE]
     > The installation process can take up to one hour and is variable based on the time of day and region. If the status hasn't changed after an hour, try refreshing the page. If the installation fails, you'll see this message: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."<br>![Failed installation](media/failed-install.PNG "Failed installation")
 
-### Set up user roles for the solution<a name="user-roles"></a>
+## Set up user roles for the solution<a name="user-roles"></a>
 
 > [!NOTE]
 > It can take up to one hour for a user to appear in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center.
@@ -155,3 +157,6 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
       
 7. If you want this user to have administrator privileges, select the **System Administrator** check box. 
      
+## What's next?
+
+[Step Three: Download and install the apps](setup-step-three.md)<br>
