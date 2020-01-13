@@ -21,7 +21,7 @@ The January 28 update includes the following new features:
 
 - Authors can add a website link to a guide step. Use a website link to display a PDF hosted on your server, show a form, or show data from your online IoT devices for the operator to review.
 
-- Administrators can assign Author and Operator roles to users so that editing is only enabled for authors. 
+- Administrators can assign **Author** and **Operator** roles to users so that editing is only enabled for authors. 
 
 - Drag and drop multiple files from your local file folder into the PC app gallery to import the files.
 
