@@ -1,5 +1,5 @@
 
-# Step 5: Add additional user accounts (optional)<a name="user-accounts"></a>
+# Step 5: Add additional user accounts to Dynamics 365 Guides
 
 >[!NOTE]
 >Before completing the procedure in this step, make sure to see [Step Four: Set up Guides Analytics reports](setup-step-four.md)
