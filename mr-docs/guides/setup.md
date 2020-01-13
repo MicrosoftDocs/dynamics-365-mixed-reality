@@ -9,13 +9,13 @@ title: Trying or buy, and deploy Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Try or buy, and deploy Dynamics 365 Guides
+# Overview of setting up Dynamics 365 Guides
 
-We're thrilled to introduce [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] for general availability! [Learn about Guides capabilities](index.md).
+Ready to buy a subscription of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] or sign up for a free trial? You're in the right place! 
 
-To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
+To set up [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
 
-1. Buy a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription or sign up for a free, 30-day trial subscription.
+1. Buy a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription or sign up for a free 30-day trial subscription.
 
 2. Create a Common Data Service environment (if you don't already have one) and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the environment (instance).
 
@@ -25,5 +25,9 @@ To get started with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.m
 
 5. Add additional user accounts (optional).
 
-This topic provides step-by-step instructions for all of the above.
+This set of topics provides step-by-step instructions for all of the above.
 
+## What's next?
+
+[Buy a license or sign up for a free trial](setup-step-one.md)<br>
+[Learn about Dynamics 365 Guides capabilities](index.md).
