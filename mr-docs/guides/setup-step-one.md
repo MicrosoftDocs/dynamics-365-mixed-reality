@@ -3,7 +3,7 @@
 >[!NOTE]
 >Before completing this step, make sure to see [Overview of setting up Dynamics 365 Guides](setup.md)
 
-There are multiple ways to get a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription:
+There are two ways to get a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription:
 
 - If you have a Microsoft work account, you can go directly to the Microsoft 365 admin center and search for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription there.
 
