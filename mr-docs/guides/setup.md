@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview of setting up Dynamics 365 Guides
 
-Ready to buy a subscription of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] or sign up for a free trial? You're in the right place! 
+Ready to buy a subscription of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] or sign up for a free trial and get everything set up? You're in the right place! 
 
 To set up [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
 
