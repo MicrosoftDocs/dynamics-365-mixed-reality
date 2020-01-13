@@ -1,6 +1,7 @@
 # Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
 
-Before completing the procedures in this step, make sure to see [Step One: Buy a Dyammics 365 Guides subscription or sign up for a free trial subscription](setup-step-one.md)
+[!NOTE]
+>Before completing the procedures in this step, make sure to see [Step One: Buy a Dyammics 365 Guides subscription or sign up for a free trial subscription](setup-step-one.md)
 
 After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment you create depends on whether you're creating a trial or production environment. If you have a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to set up a production environment. A production environment provides backup and restore capabilities. Otherwise, you can set up a trial environment.
 
