@@ -47,18 +47,18 @@ You can update all of your downloaded models at once.
 
 1.	Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then select **Downloads**.
 
-   > [!div class=mx-imgBorder]
-   > ![Downloads options](media/downloads-option.png "Downloads options")
+      > [!div class=mx-imgBorder]
+      > ![Downloads options](media/downloads-option.png "Downloads options")
 
 2.	Select **Update Downloads** at the upper-right corner of the screen.
 
-   > [!div class=mx-imgBorder]
-   > ![Update downloads button](media/update-downloads.png "Update downloads button")
+      > [!div class=mx-imgBorder]
+      > ![Update downloads button](media/update-downloads.png "Update downloads button")
 
-   A progress bar is displayed at the top of the screen indicating the status of downloads.
+      A progress bar is displayed at the top of the screen indicating the status of downloads.
 
-   > [!div class=mx-imgBorder]
-   > ![Download progress bar](media/download-progress-bar.png "Download progress bar")
+      > [!div class=mx-imgBorder]
+      > ![Download progress bar](media/download-progress-bar.png "Download progress bar")
 
 ## Delete all downloaded models
 
