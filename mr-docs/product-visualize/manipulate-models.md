@@ -2,7 +2,7 @@
 author: mamithan
 description: How to place, resize, rotate, move, and lift 3D models in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 12/07/2019
+ms.date: 01/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Place and manipulate 3D models in Dynamics 365 Product Visualize
@@ -34,12 +34,12 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
     After you find a suitable surface, you'll see the model-loading indicator.
       
-4.  To place the model, select **Place** on the right side of the screen.
+4.  To place the model, select **Place** on the bottom of the screen.
 
     ![Place model item](media/place-model.PNG "Place model item")
     
-    >[!TIP]
-    >If you want to see dimensions for the model, enable the **Product measurements feature**. To enable this feature, select the **Main** menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. After the feature is enabled, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model. At this time, you can view dimensions in metric only.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
+    > [!TIP]
+    > If you want to see dimensions for the model, enable the **Product measurements feature**. To enable this feature, select the **Main** menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. After the feature is enabled, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model. At this time, you can view dimensions in metric only.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
 
 ## Move, rotate, or change the size of your model
 

@@ -21,8 +21,8 @@ You don't have to have a Dynamics 365 account to view 3D models in Dynamics 365 
    
    Dynamics 365 Product Visualize browses through your device and displays any GLB files.
    
-    >[!TIP]
-    >If you want to see dimensions for the model, enable the **Product measurements feature**. To enable this feature, select the **Main** menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. After the feature is enabled, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model. At this time, you can view dimensions in metric only.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
+    > [!TIP]
+    > If you want to see dimensions for the model, enable the **Product measurements feature**. To enable this feature, select the **Main** menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. After the feature is enabled, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model. At this time, you can view dimensions in metric only.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
 
 
 ### See also
