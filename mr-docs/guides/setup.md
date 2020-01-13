@@ -15,7 +15,7 @@ Ready to buy a subscription of [!include[cc-microsoft](../includes/cc-microsoft.
 
 To set up [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to:
 
-1. [Buy a Dynamics 365 Guides subscription or sign up for a free 30-day trial subscription](setup-step-one.md).
+1. [Buy a subscription or sign up for a free 30-day trial subscription](setup-step-one.md).
 
 2. [Create a Common Data Service environment and install the Dynamics 365 Guides solution in the environment](setup-step-two.md).
 
