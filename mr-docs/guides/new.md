@@ -17,9 +17,13 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 The January 28 update includes the following new features:
 
-- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms with direct touch, just like real objects. Interact with holograms in a consistent way when they're out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works the same as before since [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn’t support hand tracking. 
+- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms with direct touch, just like real objects. Use hand rays to interact with holograms when they're out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works the same as before since [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn’t support hand tracking. 
 
-- Administrators can assign Author and Operator roles to users. Users with the Operator role can view guides but can't edit them. Users with the Author role can view and edit guides.
+- Authors can add a website link to a guide step. Use a website link to display a PDF hosted on your server, show a form, or bring data from your online IoT devices for the operator to review.
+
+- Administrators can assign Author and Operator roles to users so that editing is only enabled for authors. 
+
+- Drag and drop multiple files from your local file folder into the PC app gallery to import the files.
 
 - Select the **Help** (question mark) button in the PC app to: 
 
@@ -28,14 +32,12 @@ The January 28 update includes the following new features:
   - Get phone numbers for customer support.
   
   - Provide feedback and ideas for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team. 
-  
-- Drag and drop multiple files from your local file folder into the PC app gallery to import the files.
 
 - The media panel automatically resizes to fit the attached media, which optimizes for the [!include[pn-hololens](../includes/pn-hololens.md)] field of view. 
 
-- Depth LSR for improved stabilization of holograms.
+- The **Recent guides** list now reflects the user's recently opened guides.
 
-- The Recent guides list now reflects the user's recently opened guides.
+- Holograms stabilization is improved and optimized for HoloLens 2. 
 
 ### October, 29, 2019
 
