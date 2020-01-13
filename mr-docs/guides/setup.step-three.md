@@ -1,0 +1,60 @@
+## Step 3: Download and install the apps
+
+There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applications: 
+
+- PC authoring application
+
+- [!include[pn-hololens](../includes/pn-hololens.md)] application, which has an Author mode and an Operator mode
+
+You can install both apps from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store as described in the next section.
+
+> [!NOTE]
+> If you can't access [!include[cc-microsoft](../includes/cc-microsoft.md)] Store due to company policies, please contact your administrator to distribute the app.
+
+If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business to distribute your apps, you can have users install the apps from your organization's private store or from an email link that you send. Instructions are provided later in this topic.
+
+### Install the apps from Microsoft Store
+
+#### Install the PC authoring app 
+1.	Check to make sure your [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC is running the latest [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] build (must be build 10.0.17134, April 2018 update, or later).
+
+2.	On your PC, go to **Start** ![Start button](media/windows-button.png "Start button") > **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for "[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]".
+
+3.	In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Install** to download and install the application.
+
+    > [!NOTE]
+    > For instructions on opening and signing in to the app, see the [PC authoring guide](pc-authoring.md).
+
+#### Install the HoloLens app
+
+1.	Make sure [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.17134 or later. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available. For instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates).
+
+2.	On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu, and then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app and search for "[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]".
+
+3.	To download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application, select **Install**.
+
+> [!NOTE] 
+> If you're an author, see the [HoloLens authoring topic](hololens-authoring.md) for instructions on opening and signing in to the app. Operators can use the [Dynamics 365 Guides Operator's manual](operator-guide.md).
+
+### Distribute the apps through Microsoft Store for Business
+
+1.	Go to [Microsoft Store for Business](https://businessstore.microsoft.com/store).
+
+2.	[Acquire the app(s)](https://docs.microsoft.com/microsoft-store/acquire-apps-microsoft-store-for-business).
+
+3.	Choose one of the following distribution methods:
+
+    - [Private store](https://docs.microsoft.com/microsoft-store/distribute-apps-from-your-private-store)
+    
+    - [Email link](https://docs.microsoft.com/microsoft-store/assign-apps-to-employees)
+    
+    - [Mobile device management](https://docs.microsoft.com/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
+
+For information about opening and signing in to the PC application after installing it, see the [authoring guide](authoring-overview.md).
+
+For information about opening and signing in to the [!include[pn-hololens](../includes/pn-hololens.md)] application, go to one of the following, depending on whether you're an author or an operator:
+
+   - [HoloLens authoring](hololens-authoring.md)
+   
+   - [Operator's manual](operator-guide.md)
+
