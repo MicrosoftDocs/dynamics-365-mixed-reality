@@ -19,8 +19,8 @@ To create a guide, you use two applications:
 add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
 Supporting assets include:
 
-  - Your custom 3D parts
-  - 3D objects, such as objects from the 3D toolkit (arrows and numbers, for example)
+  - Your custom 3D models
+  - 3D models from the 3D toolkit (arrows and numbers, for example)
   - 2D media (images and videos)
 
 - **[!include[pn-hololens](../includes/pn-hololens.md)] application in Author mode.** After creating the guide with the PC application, use the [!include[pn-hololens](../includes/pn-hololens.md)] application in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles for 3D objects (warning or caution, for example).
