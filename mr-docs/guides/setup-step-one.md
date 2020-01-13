@@ -31,4 +31,4 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
  
 ## What's next?
 
-[Create and environment and install the solution](setup-step-two.md)<br>
+[Step Two: Create a Common Data Service environment and install the solution](setup-step-two.md)<br>
