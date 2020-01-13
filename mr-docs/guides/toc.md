@@ -6,7 +6,7 @@
 ## I'm an admin
 ### [Requirements for installing](requirements.md)
 ### [Try or buy, and deploy](setup.md)
-#### [Step One: ](setup-step-one.md)
+#### [Step One: Buy or try subscription](setup-step-one.md)
 #### [Step Two: ](setup-step-two.md)
 #### [Step Three: ](setup-step-three.md)
 #### [Step Four: ](setup-step-four.md)
