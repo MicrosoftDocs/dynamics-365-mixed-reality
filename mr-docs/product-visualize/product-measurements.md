@@ -15,7 +15,7 @@ ms.reviewer:
 Product Visualize has a tool to display your model measurements in Imperial or Metric units. To view model measurements, you need to first enable Product Measurements feature. 
 
 > [!NOTE]
-> Model Measurements is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
+> Product measurements is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 
 To enable product measurements:
 
