@@ -33,10 +33,6 @@ In rare cases, you might notice that text is wrapped on the step card view in [!
 
 We recommend you don't open a guide on [!include[pn-hololens](../includes/pn-hololens.md)] while editing the alignment step for the same guide on a PC. In this case, the [!include[pn-hololens](../includes/pn-hololens.md)] app will refresh automatically, but it won't be able to open the guide.
 
-## When authoring on HoloLens 2, authors need to air tap to select 3D models before editing
-
-On HoloLens 2, selection mode appears after you air tap 3D models rather than when you gaze at them. After air tapping, you can tap and hold to move, use the gizmos to rotate, or explore edit options. HoloLens 1 will continue to support the former behavior where you gaze at 3D models to select them.
-
 ## When placing large assets on HoloLens, you might see minor loading delays
 The [!include[pn-hololens](../includes/pn-hololens.md)] app currently loads the guide right after you open it, and in the background as you use the guide. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
 
