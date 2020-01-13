@@ -1,4 +1,4 @@
-## Step 1: Buy a Dynamics 365 Guides subscription or sign up for a free trial subscription
+# Step 1: Buy a Dynamics 365 Guides subscription or sign up for a free trial subscription
 
 There are multiple ways to get a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription:
 
@@ -29,3 +29,6 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
   
     ![Add user license](media/guides-license.PNG "Add user license") 
  
+## What's next?
+
+[Create and environment and install the solution](setup-step-two.md)<br>
