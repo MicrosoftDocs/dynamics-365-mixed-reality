@@ -17,11 +17,11 @@ ms.reviewer: v-brycho
 
 ![Person using Dynamics 365 Guides while working on a truck engine](media/woman-at-work.PNG "Person using Dynamics 365 Guides while working on a truck engine") 
 
-## No specialized skills required to create mixed-reality guides
+## No coding skills required to create mixed-reality guides
 
 With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you don't need specialized 3D or programming skills. Start with the PC authoring app to create a guide — step-by-step instructions with images, video, and 3D holograms. After creating the guide on a PC, use the HoloLens app to connect the instruction cards and holograms to the physical work space by picking them up and moving them to the right location. Use the default library of 3D holograms to get started. You can also import your own custom 3D models.   
 
-## Improve productivity – learn while doing
+## Improve productivity – learn by doing
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides heads-up, hands-free, step-by-step instructions in the flow of work, whether employees are doing complex procedures on the job or training away from the production line. Operators control the interface with their gaze (using a glance to move to the next step) leaving their hands free to do the work. Instruction cards move with the operator, following them as they move around equipment, pointing to the tools and parts they need and showing them exactly how and where to apply them. The experience is comfortable, simple to use, and reduces mental processing time, errors, and the need to rely on a buddy system. 
 
