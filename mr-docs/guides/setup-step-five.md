@@ -2,7 +2,7 @@
 # Step 5: Add additional user accounts to Dynamics 365 Guides
 
 >[!NOTE]
->Before completing the procedure in this step, make sure to see [Step Four: Set up Guides Analytics reports](setup-step-four.md)
+>Before completing the procedure in this step, make sure to see [Step 4: Set up Guides Analytics reports](setup-step-four.md)
 
 If you want to add additional users to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them and configure the roles they will have access to in the Dynamics 365 admin center.
 
