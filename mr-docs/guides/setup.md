@@ -29,4 +29,4 @@ This set of topics provides step-by-step instructions for all of the above.
 
 ## What's next?
 
-[Step One: Buy a license or sign up for a free trial](setup-step-one.md)<br>
+[Step 1: Buy a subscription or sign up for a free trial subscription](setup-step-one.md)<br>
