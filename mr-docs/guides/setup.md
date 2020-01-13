@@ -29,5 +29,4 @@ This set of topics provides step-by-step instructions for all of the above.
 
 ## What's next?
 
-[Buy a license or sign up for a free trial](setup-step-one.md)<br>
-[Learn about Dynamics 365 Guides capabilities](index.md).
+[Step One: Buy a license or sign up for a free trial](setup-step-one.md)<br>
