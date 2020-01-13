@@ -7,7 +7,7 @@ There are two ways to get a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-
 
 - If you have a Microsoft work account, you can go directly to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home) and search for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription there.
 
-- Go to the [Getting started](https://aka.ms/GetGuides) page. You can use this page to buy a subscription or to sign up for a free 30-day trial subscription. If you sign up for a trial, you can use credentials for an existing Dynamics 365 account or you can create new credentials. 
+- Go to the [Getting started](https://aka.ms/GetGuides) page. You can use this page to buy a subscription or to sign up for a free 30-day trial. If you sign up for a trial, you can use credentials for an existing Dynamics 365 account or you can create new credentials. 
 
     > [!IMPORTANT] 
     > If you don't have administrator permissions associated with your work account, you won't be able to complete step 2 of the Setup process. Please coordinate setup with your administrator. If it's not possible to coordinate setup with your administrator, you can choose to create user credentials to try out [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] by following the steps on the [Getting started](https://aka.ms/GetGuides) page. In this case, the new tenant will be created and the newly created user account will have administrator permissions. Note that you'll need to provide the domain name in the form: *guidesYourCompanyName*
