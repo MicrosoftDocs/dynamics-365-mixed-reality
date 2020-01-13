@@ -1,6 +1,7 @@
 # Step 1: Buy a Dynamics 365 Guides subscription or sign up for a free trial subscription
 
-Before completing this step, make sure to see [Overview of setting up Dynamics 365 Guides](setup.md)
+>[!NOTE]
+>Before completing this step, make sure to see [Overview of setting up Dynamics 365 Guides](setup.md)
 
 There are multiple ways to get a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription:
 
