@@ -7,7 +7,7 @@
 ### [Requirements for installing](requirements.md)
 ### [Try or buy, and deploy](setup.md)
 #### [Step One: Buy or try subscription](setup-step-one.md)
-#### [Step Two: ](setup-step-two.md)
+#### [Step Two: Create environment/install solution](setup-step-two.md)
 #### [Step Three: ](setup-step-three.md)
 #### [Step Four: ](setup-step-four.md)
 #### [Step Five: ](setup-step-five.md)
