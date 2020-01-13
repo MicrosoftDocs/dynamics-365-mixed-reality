@@ -6,6 +6,11 @@
 ## I'm an admin
 ### [Requirements for installing](requirements.md)
 ### [Try or buy, and deploy](setup.md)
+#### [Step One: ](setup-step-one.md)
+#### [Step Two: ](setup-step-two.md)
+#### [Step Three: ](setup-step-three.md)
+#### [Step Four: ](setup-step-four.md)
+#### [Step Five: ](setup-step-five.md)
 ### [Upgrade the solution](upgrade.md)
 ### [Transition from public preview to GA](public-preview-transition.md)
 ### [Assign user roles (Author or Operator)](assign-role.md)
