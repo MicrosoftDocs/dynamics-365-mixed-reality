@@ -37,7 +37,7 @@ The January 28 update includes the following new features:
 
 - The **Recent guides** list now reflects the user's recently opened guides.
 
-- Holograms stabilization is improved and optimized for HoloLens 2. 
+- Hologram stabilization is improved and optimized for HoloLens 2. 
 
 ### October, 29, 2019
 
