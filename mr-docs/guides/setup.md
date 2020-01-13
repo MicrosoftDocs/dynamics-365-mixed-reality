@@ -19,7 +19,7 @@ To set up [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you n
 
 2. [Create a Common Data Service environment and install the Dynamics 365 Guides solution in the environment](setup-step-two.md).
 
-3. [Download and install the Dynamics 365 Guides apps on a Windows 10 PC and Microsoft HoloLens](setup-step-three.md).
+3. [Download and install the Dynamics 365 Guides apps (PC and HoloLens](setup-step-three.md).
 
 4. [Set up Guides Analytics reports](setup-step-four.md).
 
