@@ -13,7 +13,10 @@ ms.reviewer: v-brycho
 
 If you haven’t already installed the [!include[pn-hololens](../includes/pn-hololens.md)] app on your [!include[pn-hololens](../includes/pn-hololens.md)] device (or it hasn't already been installed for you), install it from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers.
 
-To install the HoloLens app:
+>[!NOTE]
+>You must have a license to install the Dynamics 365 Guides HoloLens app. You can also sign up for a free trial. For more information, see the [Setup overview](setup.md)
+
+## Install the app
 
 1.	Make sure you have [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 or later installed on your [!include[pn-hololens](../includes/pn-hololens.md)] device. We recommend updating to newer versions when available. See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business.
 
@@ -21,7 +24,8 @@ To install the HoloLens app:
 
 3.	Select **Install** to download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application.
 
-## Sign in to the HoloLens app
+## Sign in
+
 If you sign in with a brand new [!include[pn-hololens](../includes/pn-hololens.md)] device, you’ll be prompted to walk through the Setup wizard. In the Setup wizard, you can sign in with an existing account or create a new one, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you’re running. The Setup wizard will also walk you through steps to calibrate and prepare your [!include[pn-hololens](../includes/pn-hololens.md)] for use.
 
 ## Calibrate your HoloLens
@@ -59,7 +63,7 @@ To determine which version of the operating system you’re using on [!include[p
  
 3.	Air tap **About**.
  
-## Open and sign in to HoloLens for the first time
+## Open and sign in for the first time
 
 After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is correctly calibrated, you can open the [!include[pn-hololens](../includes/pn-hololens.md)] application.
 
