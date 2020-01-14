@@ -8,7 +8,7 @@
 ### Setup
 #### [Overview](setup.md)
 #### [1: Get a subscription (buy or trial)](setup-step-one.md)
-#### [2: Create environment and install solution](setup-step-two.md)
+#### [2: Install the solution](setup-step-two.md)
 #### [3: Install the apps](setup-step-three.md)
 #### [4: Set up Power BI reports](setup-step-four.md)
 ### [Upgrade the solution](upgrade.md)
