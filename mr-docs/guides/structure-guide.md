@@ -16,10 +16,6 @@ When you open the Dynamics 365 Guides PC app, you see the **Outline** page. This
 When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
 
 ![Create a task and step](media/create-task-2.PNG "Create a task and step")
-  
-To get started, enter a task name, and then start typing the instructions for the first step in the box. When you start typing your text, the **Step Editor** appears.
-
-To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
 
 The **Outline** page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the **Outline** page by dragging tasks and steps.
 
@@ -30,6 +26,14 @@ In addition to tasks and steps, the **Outline** page shows:
 - A special step called a Completion step that lets operators know when they’ve reached the end of the guide. The Completion step includes default text that you can customize as you see fit.
 
   ![Completion step](media/completion-step.PNG "Completion step")
+
+## Create a task add start adding instruction text
+
+1. Enter a task name in the **Task name**, and then start typing the instructions for the first step in the box below the task name. When you start typing your text, the **Step Editor** appears.
+
+   ![Step Editor](media/step-editor.PNG "Step Editor")
+
+To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
  
 ## Best practices for the Outline page
 
