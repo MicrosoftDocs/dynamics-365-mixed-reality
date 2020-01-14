@@ -13,9 +13,9 @@ When you're done with this step, go to [Step 5: Add additional user accounts (op
 
 If you have any issues setting up Guides Analytics, please:
 
-Ask on our community site at https://community.dynamics.com/365/guides
+- Ask on our community site at https://community.dynamics.com/365/guides
 
-Contact customer service: at https://go.microsoft.com/fwlink/?LinkId=853505&clcid=0x409
+- Contact customer service: at https://go.microsoft.com/fwlink/?LinkId=853505&clcid=0x409
 
 
 
