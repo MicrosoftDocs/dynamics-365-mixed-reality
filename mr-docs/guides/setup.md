@@ -27,4 +27,4 @@ This set of topics provides step-by-step instructions for all of the above.
 
 ## What's next?
 
-Ready to get started? See [Step 1: Buy a subscription or sign up for a free trial subscription](setup-step-one.md).
+Ready to get started? See step 1: [Buy a subscription or sign up for a free trial subscription](setup-step-one.md)
