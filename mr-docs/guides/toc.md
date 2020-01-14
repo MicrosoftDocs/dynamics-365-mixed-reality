@@ -6,7 +6,7 @@
 ## I'm an admin
 ### [Requirements for installing](requirements.md)
 ### Setup
-#### [Setup overview](setup.md)
+#### [Overview](setup.md)
 #### [1: Get a subscription (buy or trial)](setup-step-one.md)
 #### [2: Create environment and install solution](setup-step-two.md)
 #### [3: Install the apps](setup-step-three.md)
