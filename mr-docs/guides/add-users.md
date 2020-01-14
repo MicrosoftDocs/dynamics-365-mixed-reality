@@ -56,35 +56,8 @@ If you want to add additional users to [!include[pn-dyn-365-guides](../includes/
 
 10. Set up user roles for the solution as described in the next procedure.
 
-## Set up user roles for the solution
+## What's next?
 
-1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/). 
-
-2. On the **Environments** page, select the appropriate environment, select the **More environment actions** (...) button, and then select **Settings**. 
-
-    ![Environment settings](media/environment-settings.PNG "Environment settings")
-
-3. On the **Settings** page, expand **Users + permissions**, and then select **Users**.
-
-    ![Users and permissions](media/settings-page.png "Users and permissions")    
-    
-4. On the **Enabled Users** page, select the user, and then select **Manage Roles**. 
-
-    ![Manage roles](media/manage-roles.png "Manage roles")
- 
-5. In the **Manage User Roles** dialog box, make sure the **Common Data Service User** check box is selected.
-         
-    ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
-    
-6. Select the **Dyamics 365 Guides Author** or **Dynamics 365 Guides Operator** check box, depending on the privileges you want the user to have.
-
-    ![Author and Operator role check boxes](media/select-role.PNG "Author and Operator role check boxes")
-    
-    The following table describes the privileges provided by each role:
-    
-    |Role|Description|
-    |-----------------------|----------------------------------------------------------------------|
-    |**Author**|Users with this role can use the PC app and HoloLens app to create, edit, and operate guides. They can also rename and deactivate existing guides.|
-    |**Operator**|Users with this role can use the HoloLens app to view/operate a guide. If the **Operator** role is set, operators can also save time when opening a guide by skipping the **Select Mode** dialog box.|
+[Add user roles (Author, Operator, or Admin)](assign-role.md)
       
 
