@@ -1,4 +1,15 @@
-# Setup Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution
+---
+author: Mamaylya
+description: Step 2 in setting up Dynamics 365 Guides, which includes creating a Common Data Service environment and installing the Dynamics 365 Guides solution
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Set up Dynamics 365 Guides after signing up for a subscription
+ms.reviewer: v-brycho
+---
+
+# Dynamics 365 Guides setup Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution
 
 >[!NOTE]
 >Before completing the procedures in this step, make sure to see [Step 1: Buy a Dynamics 365 Guides subscription or sign up for a free trial](setup-step-one.md)
