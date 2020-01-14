@@ -1,15 +1,15 @@
 ---
 author: Mamaylya
-description: Technical requirements for installing and using Dynamics 365 Guides
+description: Device and licensing requirements for installing and using Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Technical requirements for Dynamics 365 Guides
+title: Device and licensing requirements for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Hardware and licensing requirements for Dynamics 365 Guides
+# Device and licensing requirements for Dynamics 365 Guides
 
 The following table lists technical requirements for deploying and using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] throughout your organization.
 
