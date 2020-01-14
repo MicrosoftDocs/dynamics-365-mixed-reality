@@ -59,6 +59,7 @@ To modify user roles, you must have:
 
 ### See also
 
+[Add additional user accounts to Dynamics 365 Guides](add-users.md)
 [Overview of authoring a guide](authoring-overview.md)<br>
 [Overview of operating a guide](operator-overview.md)
 
