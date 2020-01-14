@@ -54,10 +54,10 @@ If you want to add additional users to [!include[pn-dyn-365-guides](../includes/
    
 9. Select **Close**.
 
-10. Set up user roles for the solution as described in the next procedure.
+After adding user accounts, the next step is to assign the Author, Operator, or Admin user roles. For more information, [Assign user roles](assign-role.md).
 
 ## What's next?
 
-[Add user roles (Author, Operator, or Admin)](assign-role.md)
+[Assign user roles (Author, Operator, or Admin)](assign-role.md)
       
 
