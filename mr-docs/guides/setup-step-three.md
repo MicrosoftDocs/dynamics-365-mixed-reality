@@ -37,7 +37,7 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
 3.	To download and install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application, select **Install**.
 
 > [!NOTE] 
-> If you're an author, see the [HoloLens authoring topic](hololens-authoring.md) for instructions on opening and signing in to the app. Operators can use the [Dynamics 365 Guides Operator's manual](operator-guide.md).
+> If you're an author, for instructions on opening and signing in to the app, see [Install, open, and sign in to the HoloLens app](install-sign-in-hololens-app.md). If you're an operator, see [Install, open, and sign in to the HoloLens app](install-sign-in-operator.md).
 
 ## Distribute the apps through Microsoft Store for Business
 
