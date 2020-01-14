@@ -97,7 +97,7 @@ We're constantly updating Dynamics 365 Guides to include the top features reques
 
 ![What's new](media/what-new.PNG "Whats new")
 
-To learn about when features were introduced or learn about new features that we're planning to add, see the Release plans:
+To learn about when features were introduced or to learn about upcoming features, see the Release plan topics:
 
 - [2019 Wave 1 (April 2019 through September 2019)](https://docs.microsoft.com/business-applications-release-notes/April19/index)
 
