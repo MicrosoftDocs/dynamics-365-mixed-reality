@@ -106,7 +106,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
 
 4. Go back to the **Environments** page to prepare for the next step. 
 
-## Install and configure the Dynamics 365 Guides solution<a name="configure"></a>
+## Install and configure the solution<a name="configure"></a>
 
 1. In the [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select the **More environment actions** (...) button next to the configured environment, and then select **Manage Solutions**.
 
