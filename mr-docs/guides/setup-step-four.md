@@ -11,7 +11,7 @@ If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, y
 
 When you're done with this step, go to [Step 5: Add additional user accounts (optional)](setup-step-five.md).
 
-If you have trouble with any of the procedures in this step, please:
+If you have any issues setting up Guides Analytics, please:
 
 Ask on our community site at https://community.dynamics.com/365/guides
 
