@@ -11,10 +11,10 @@
 #### [2: Install the solution](setup-step-two.md)
 #### [3: Install the apps](setup-step-three.md)
 #### [4: Set up Power BI reports](setup-step-four.md)
-### [Upgrade the solution](upgrade.md)
-### [Transition from public preview to GA](public-preview-transition.md)
 ### [Add additional users](add-users.md)
 ### [Assign user roles](assign-role.md)
+### [Upgrade the solution](upgrade.md)
+### [Transition from public preview to GA](public-preview-transition.md)
 ### [Integrate Dynamics 365 Field Service](field-service.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ## I'm an author
