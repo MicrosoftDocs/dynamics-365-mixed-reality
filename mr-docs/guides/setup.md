@@ -1,11 +1,11 @@
 ---
 author: Mamaylya
-description: Everything you need to know about trying or buying Dynamics 365 Guides, configuring the solution, and installing the apps.
+description: Overview of setting up Dynamics 365 Guides, including getting a subscription, creating an environment, installing the solution and apps, and setting up Power BI reports.
 ms.author: mamaylya
-ms.date: 01/07/2020
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Trying or buy, and deploy Dynamics 365 Guides
+title: Overview of setting up Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
