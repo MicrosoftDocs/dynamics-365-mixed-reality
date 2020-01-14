@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # Dynamics 365 Guides setup Step 4: Set up Power BI reports
 
 >[!NOTE]
-> Before completing this step, make sure to see [Step 3: Downloand and install the Dynamics 365 Guides apps](setup-step-three.md)
+> Before completing this step, make sure to see step 3 in the setup process, [Downloand and install the apps](setup-step-three.md)
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes [!include[pn-power-bi](../includes/pn-power-bi.md)] reports (called Guides Analytics) that you can use to analyze [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] processes. Follow the instructions for how to [Open Guides Analytics](https://docs.microsoft.com/dynamics365/mixed-reality/guides/analytics-guide#open-guides-analytics) using the free [Power BI Desktop application](https://powerbi.microsoft.com/get-started/).
 
