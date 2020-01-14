@@ -29,7 +29,13 @@ In addition to tasks and steps, the **Outline** page shows:
 
 ## Create a task add start adding instruction text
 
-1. Enter a task name in the **Task name**, and then start typing the instructions for the first step in the box below the task name. When you start typing your text, the **Step Editor** appears.
+1. Enter a task name in the **Task name** box.
+
+   ![Create a task and step](media/create-task-2.PNG "Create a task and step")
+
+2. Start typing the instructions for the first step in the box below the task name. 
+
+    When you start typing your text, the **Step Editor** appears.
 
    ![Step Editor](media/step-editor.PNG "Step Editor")
 
