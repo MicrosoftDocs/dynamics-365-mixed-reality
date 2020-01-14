@@ -34,4 +34,10 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
  
 ## What's next?
 
-[Step 2: Create a Common Data Service environment and install the solution](setup-step-two.md)<br>
+When you're done with this step, go to [Step 2: Create a Common Data Service environment and install the solution](setup-step-two.md).
+
+If you have trouble with any of the procedures in this step, please:
+
+- Ask on our community site at https://community.dynamics.com/365/guides.
+
+- Contact customer service at https://go.microsoft.com/fwlink/?LinkId=853505&clcid=0x409.
