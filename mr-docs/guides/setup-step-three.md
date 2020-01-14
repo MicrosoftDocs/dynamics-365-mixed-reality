@@ -58,4 +58,10 @@ For information about opening and signing in to the PC application after install
 
 ## What's next?
 
-[Step 4: Set up Guides Analytics reports](setup-step-four.md)
+When you're done with this step, go to [Step 4: Set up Guides Analytics reports](setup-step-four.md).
+
+If you have trouble with any of the procedures in this step, please:
+
+- Ask on our community site at https://community.dynamics.com/365/guides.
+
+- Contact customer service at https://go.microsoft.com/fwlink/?LinkId=853505&clcid=0x409.
