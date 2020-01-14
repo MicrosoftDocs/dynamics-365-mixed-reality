@@ -11,6 +11,8 @@ ms.reviewer: krbjoran
 
 # Dynamics 365 Remote Assist FAQ
 
+DELETE ME PLEASE - TESTING FOR REVIEW LINKS
+
 Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
 For additional information, see [Get help with
