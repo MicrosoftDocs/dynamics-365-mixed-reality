@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # Dynamics 365 Guides setup Step 2: Install the solution
 
 >[!NOTE]
->Before completing the procedures in this step, make sure to see step 1 in the Dynamics 365 Guides setup process: [Buy a subscription or sign up for a free trial](setup-step-one.md)
+>Before completing the procedures in this step, make sure to see step 1 in the setup process: [Buy a subscription or sign up for a free trial](setup-step-one.md)
 
 After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you need to create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment you create depends on whether you're creating a trial or production environment. If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], set up a production environment. A production environment provides backup and restore capabilities. 
 
