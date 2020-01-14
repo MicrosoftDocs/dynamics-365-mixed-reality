@@ -17,9 +17,11 @@ When you open the **Outline** page for the first time, you'll see that a single 
 
 ![Create a task and step](media/create-task-2.PNG "Create a task and step")
   
-To get started, enter a task name, and then start typing the instructions for the first step in the box. When you need to add a new step, select **Add step**. When you’re ready to add another task, select **Add task**. It’s that simple!
+To get started, enter a task name, and then start typing the instructions for the first step in the box. When you start typing your text, the **Step Editor** appears.
 
-In reality, you’ll probably create most of your steps from inside the Step card (see the next section), but the **Outline** page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the **Outline** page by dragging tasks and steps.
+To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
+
+The **Outline** page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the **Outline** page by dragging tasks and steps.
 
 In addition to tasks and steps, the **Outline** page shows:
 
