@@ -9,7 +9,7 @@ title: Technical requirements for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Requirements for Dynamics 365 Guides
+# Hardware and licensing requirements for Dynamics 365 Guides
 
 The following table lists technical requirements for deploying and using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] throughout your organization.
 
@@ -28,7 +28,7 @@ The following table lists technical requirements for deploying and using [!inclu
 |Azure Active Directory (Azure AD) account|Required for:</br><br>- Purchasing [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses. You'll need an Azure AD account for each licensed user.</br><br>- Users when signing in to the app.|[Get started with Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis)|
 |Network connectivity|Internet access is required to download the app and to use all of its features for both PC and HoloLens.||
 
-### See also
+## What's next
 
-[Buy and deploy Dynamics 365 Guides](setup.md)<br>
-[Upgrade the solution (for admins)](upgrade.md)
+[Setup overview](setup.md)
+
