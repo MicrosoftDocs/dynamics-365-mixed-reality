@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Add additional user accounts to Dynamics 365 Guides and configure user roles
+description: Add additional user accounts to a Dynamics 365 Guides license
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
@@ -87,18 +87,4 @@ If you want to add additional users to [!include[pn-dyn-365-guides](../includes/
     |**Author**|Users with this role can use the PC app and HoloLens app to create, edit, and operate guides. They can also rename and deactivate existing guides.|
     |**Operator**|Users with this role can use the HoloLens app to view/operate a guide. If the **Operator** role is set, operators can also save time when opening a guide by skipping the **Select Mode** dialog box.|
       
-## What's next?
 
-If you have trouble with any of the procedures in this step, please:
-
-- Ask on our community site at https://community.dynamics.com/365/guides.
-
-- Contact customer service at https://dynamics.microsoft.com/support/.
-
-### Other useful links
-
-[Learn about resources you can use to get started with Dynamics 365 Guides](get-started.md)<br>
-[Author a guide](authoring-overview.md)<br>
-[Overview of operating a guide](operator-overview.md)<br>
-[Analyze your guides to improve process efficiencies](analytics-guide.md)<br>
-[FAQ](faq.md)
