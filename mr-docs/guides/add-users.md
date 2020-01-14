@@ -58,6 +58,6 @@ After adding user accounts, the next step is to assign the **Author**, **Operato
 
 ## What's next?
 
-[Assign user roles)](assign-role.md)
+[Assign user roles](assign-role.md)
       
 
