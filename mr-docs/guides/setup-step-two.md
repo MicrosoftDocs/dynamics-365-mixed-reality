@@ -37,7 +37,7 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
      > [!NOTE]
      > Database creation usually takes several minutes. If, after five minutes, the "Provisioning database" message still appears, try refreshing the page.
 
-7.	After you've successfully created the database, return to the **Environments** page and go to the [Change maximum upload file size](#upload) procedure later in this topic.
+7.	After you've successfully created the database, return to the **Environments** page and go to the [Change maximum upload file size](#upload) procedure.
 
 ## Set up a production environment
 
