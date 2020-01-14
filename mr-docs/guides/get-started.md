@@ -25,21 +25,21 @@ This is where you are now. We organized our documentation by role so you can qui
 
 These step-by-step video tutorials provide a quick overview of key concepts: 
  
-  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides]()
+  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides](https://www.youtube.com/watch?v=dk-TbWtMb-4&feature=youtu.be)
   
-  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the PC application]()
+  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://www.youtube.com/watch?v=PiN31iAiRrQ&feature=youtu.be)
   
   - Anchor your guide in the real world:
   
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Using a printed anchor]()
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Using a printed anchor](https://www.youtube.com/watch?v=m_I-viB3np8&feature=youtu.be)
    
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Using a digital anchor]()
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Using a digital anchor](https://www.youtube.com/watch?v=LNQ3W-p7_sU&feature=youtu.be)
    
-  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens application]()
+  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app](https://www.youtube.com/watch?v=HXG8zWOYqlk&feature=youtu.be)
   
-  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide]()
+  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://www.youtube.com/watch?v=XIRyvg38qlM&feature=youtu.be)
   
-  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze a guide]()
+  - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides using Power BI reports](https://www.youtube.com/watch?v=rkriIa4go1Q&feature=youtu.be)
 
 ### Demo
 
@@ -65,13 +65,13 @@ Go through the guide step-by-step to learn about key features. Then when you're 
 
 Use these topics to get a quick overview of the product and how to author a guide:
 
-- [Overview of Dynamics 365 Guides]()
+- [Overview of Dynamics 365 Guides](index.md)
 
-- [Authoring overview]()
+- [Authoring overview](authoring-overview.md)
 
-- [Glossary of terms]()
+- [What makes a great guide?](great-guide.md)
 
-- [What makes a great guide?]()
+- [Glossary of terms](glossary.md)
 
 ## Set up and administer Dynamics 365 Guides
 
@@ -113,6 +113,6 @@ If you run across an issue, check out these topics:
 
 - [Known Issues](known-issues.md). 
 
-If you don't find what you're looking for, [find a list of phone numbers to contact Support]().
+If you don't find what you're looking for, [find a list of phone numbers to contact Support](help.md).
 
 
