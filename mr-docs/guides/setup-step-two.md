@@ -1,4 +1,4 @@
-# Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
+# Setup Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution<a name="cds"></a>
 
 [!NOTE]
 >Before completing the procedures in this step, make sure to see [Step 1: Buy a Dyammics 365 Guides subscription or sign up for a free trial subscription](setup-step-one.md)
