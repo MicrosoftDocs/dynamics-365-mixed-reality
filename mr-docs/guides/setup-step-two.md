@@ -171,7 +171,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
      
 ## What's next?
 
-When you're done with this step, go to [Step 3: Download and install the apps](setup-step-three.md)<br>
+When you're done with this step, go to step 2 in the setup process: [Download and install the apps](setup-step-three.md)<br>
 
 If you have trouble with any of the procedures in this step, please:
 
