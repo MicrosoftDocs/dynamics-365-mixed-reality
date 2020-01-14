@@ -28,7 +28,7 @@ so on as part of the name. You can also use the **Save a Copy** command on the *
 >[!NOTE]
 >When you create a guide by using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
 
-## Saving: how changes are synced between the PC app and HoloLens app
+## How changes are synced between the PC app and HoloLens app
 
 The PC authoring app and the [!include[pn-hololens](../includes/pn-hololens.md)] app are connected through the cloud, where your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] files and content are stored. 
 When you author a guide, all changes are saved on both the PC and [!include[pn-hololens](../includes/pn-hololens.md)]. This makes it easy to switch between devices. 
