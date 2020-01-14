@@ -69,7 +69,7 @@ Use these topics to get a quick overview of the product and how to author a guid
 
 - [Authoring overview](authoring-overview.md)
 
-- [What makes a great guide?](great-guide.md)
+- [How to create a great mixed reality guide?](great-guide.md)
 
 - [Glossary of terms](glossary.md)
 
