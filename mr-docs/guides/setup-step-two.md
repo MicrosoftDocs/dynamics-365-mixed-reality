@@ -75,7 +75,7 @@ After acquiring a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 4.	After the new environment is active (listed as **Ready** in the **State** column), go to the next procedure for changing the maximum upload file size.
 
 >[!NOTE]
->In subsequent procedures throughout this topic, use the production environment instead of the default environment shown in the screenshots.
+>If you set up a production environment instead of a trial environment, in subsequent procedures throughout this topic, use the production environment instead of the default environment shown in the screenshots.
 
 ## Change maximum upload file size<a name="upload"></a>
 
