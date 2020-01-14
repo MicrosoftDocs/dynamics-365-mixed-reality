@@ -1,4 +1,15 @@
-# Setup Step 4: Set up Power BI reports for Dynamics 365 Guides
+---
+author: Mamaylya
+description: Step 4 in setting up Dynamics 365 Guides, which includes setting up Power BI reports
+ms.author: mamaylya
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Set up Power BI reports in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
+
+# Dynamics 365 Guides setup Step 4: Set up Power BI reports
 
 >[!NOTE]
 > Before completing this step, make sure to see [Step 3: Downloand and install the Dynamics 365 Guides apps](setup-step-three.md)
