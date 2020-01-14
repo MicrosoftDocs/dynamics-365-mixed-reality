@@ -101,7 +101,7 @@ We're constantly updating Dynamics 365 Guides to include the top features reques
 
   [2019 Wave 1](https://docs.microsoft.com/business-applications-release-notes/April19/index)
 
-  [2019 Wave 2]()
+  [2019 Wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/index)
   
   [2020 Wave 1]()
 
