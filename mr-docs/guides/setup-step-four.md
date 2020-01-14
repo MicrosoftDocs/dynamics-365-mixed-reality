@@ -20,9 +20,7 @@ If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, y
 
 ## What's next?
 
-When you're done with this step, go to [Step 5: Add additional user accounts (optional)](setup-step-five.md).
-
-If you have any issues setting up Guides Analytics, please:
+If you have any issues setting up Power BI reports, please:
 
 - Ask on our community site at https://community.dynamics.com/365/guides.
 
