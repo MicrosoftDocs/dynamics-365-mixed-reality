@@ -64,8 +64,6 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
     
     - [Mobile device management](https://docs.microsoft.com/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
-For information about opening and signing in to the PC application after installing it, see the [authoring guide](authoring-overview.md).
-
 ## What's next?
 
 When you're done with this step, go to [Step 4: Set up Guides Analytics reports](setup-step-four.md).
