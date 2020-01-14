@@ -14,7 +14,7 @@ You can install both apps from [!include[cc-microsoft](../includes/cc-microsoft.
 > [!NOTE]
 > If you can't access [!include[cc-microsoft](../includes/cc-microsoft.md)] Store due to company policies, please contact your administrator to distribute the app.
 
-If you use [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business to distribute your apps, you can have users install the apps from your organization's private store or from an email link that you send. Instructions are provided later in this topic.
+If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business to distribute your apps, you can have users install the apps from your organization's private store or from an email link that you send. See instructions later in this topic.
 
 ## Install the apps from Microsoft Store
 
