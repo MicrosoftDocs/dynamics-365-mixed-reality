@@ -55,11 +55,6 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
 
 For information about opening and signing in to the PC application after installing it, see the [authoring guide](authoring-overview.md).
 
-For information about opening and signing in to the [!include[pn-hololens](../includes/pn-hololens.md)] application, go to one of the following, depending on whether you're an author or an operator:
-
-   - [HoloLens authoring](hololens-authoring.md)
-   
-   - [Operator's manual](operator-guide.md)
 
 ## What's next?
 
