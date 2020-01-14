@@ -110,7 +110,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     
 3. In the **Terms of Service** dialog box, review the terms, and then select **Install**.
 
-    On the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center page, you'll see the following message highlighted in yellow showing that the solution is about to be installed: "Please wait while installation starts." 
+    On the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center page, you'll see the following message highlighted in yellow, showing that the solution is about to be installed: "Please wait while installation starts." 
         
      ![Installing message](media/installing-solution.png "Installing message")
      
