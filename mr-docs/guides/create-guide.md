@@ -11,19 +11,19 @@ ms.reviewer: v-brycho
 
 # Create a guide using the Dynamics 365 Guides PC app
 
-1.	[Open the Dynamics 365 Guides PC app](install-sign-in-pc-app.md).
+1. [Open the Dynamics 365 Guides PC app](install-sign-in-pc-app.md).
 
-2.	Select **Create new guide**.
+2. Select **Create new guide**.
 
-     ![Create new guide](media/create-guide.PNG "Create new guide")
+    ![Create new guide](media/create-guide.PNG "Create new guide")
 
-3.	Enter a name for the guide, and then select **Create**. 
+3. Enter a name for the guide, and then select **Create**. 
 
-     >[TIP]
-     >If you’re planning to create multiple versions of the guide, you might want to add _v2, _v3, and 
+    >[!TIP]
+    >If you’re planning to create multiple versions of the guide, you might want to add _v2, _v3, and 
 so on as part of the name. You can also use the **Save a Copy** command on the **File** menu if you're creating multiple versions of the same guide.
 
-     ![Name the guide](media/name-guide.PNG "Name the guide")
+    ![Name the guide](media/name-guide.PNG "Name the guide")
      
 >[!NOTE]
 >When you create a guide by using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
