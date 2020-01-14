@@ -6,7 +6,7 @@ ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist FAQ
-ms.reviewer: v-brycho
+ms.reviewer: krbjoran
 ---
 
 # Dynamics 365 Remote Assist FAQ
