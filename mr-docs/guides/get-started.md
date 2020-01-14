@@ -89,7 +89,7 @@ You can integrate Dynamics 365 Guides with Dynamics 365 Field Service so field s
 
 ![Field Service tab](media/field-service-2.PNG "Field Service tab")
 
-- [Learn how to integrate Dynamics 365 Guides with Dynamics 365 Field Service](field-service.md)
+- Learn how to [Integrate Dynamics 365 Guides with Dynamics 365 Field Service](field-service.md)
 
 ## Find out what's new
 
