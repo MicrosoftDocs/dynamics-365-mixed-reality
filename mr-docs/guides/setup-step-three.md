@@ -3,11 +3,11 @@
 >[!NOTE]
 >Before completing the procedures in this step, make sure to see [Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution](setup-step-two.md)
 
-There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] applications: 
+There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps: 
 
-- PC authoring application
+- PC authoring app
 
-- [!include[pn-hololens](../includes/pn-hololens.md)] application, which has an Author mode and an Operator mode
+- [!include[pn-hololens](../includes/pn-hololens.md)] app, which has an **Author** mode and an **Operate** mode
 
 You can install both apps from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store as described in the next section.
 
