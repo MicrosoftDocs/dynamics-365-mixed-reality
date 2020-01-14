@@ -23,8 +23,6 @@ To set up [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you n
 
 4. [Set up Guides Analytics reports](setup-step-four.md).
 
-5. [Add additional user accounts (optional)](setup-step-five.md).
-
 This set of topics provides step-by-step instructions for all of the above.
 
 ## What's next?
