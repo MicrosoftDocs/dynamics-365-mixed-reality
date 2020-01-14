@@ -66,7 +66,7 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
 
 ## What's next?
 
-When you're done with this step, go to [Step 4: Set up Guides Analytics reports](setup-step-four.md).
+When you're done with this step, go to step 4 in the setup process: [Set up Power BI reports](setup-step-four.md).
 
 If you have trouble with any of the procedures in this step, please:
 
