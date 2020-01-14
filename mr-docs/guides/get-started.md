@@ -47,7 +47,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] tile, and then select the **Try the demo** button.
 
-   ![Try the demo button](media/try-demo-2.PNG "Try the demo button")   
+![Try the demo button](media/try-demo-2.PNG "Try the demo button")   
    
 ### Example guide
 
@@ -77,11 +77,11 @@ Use these topics to get a quick overview of the product and how to author a guid
 
 These are the most important topics for admins:
 
-- [Requirements for installation]()
+- [Requirements for installation](requirements.md)
 
-- [Buy and deploy Dynamics 365 Guides]()
+- [Setup overview](setup.md)
 
-- [Upgrade the solution]()
+- [Upgrade the solution](upgrade.md)
 
 ## Integrations
 
@@ -89,13 +89,13 @@ You can integrate Dynamics 365 Guides with Dynamics 365 Field Service so field s
 
 ![Field Service tab](media/field-service-2.PNG "Field Service tab")
 
-- [Learn how to integrate Dynamics 365 Guides with Dynamics 365 Field Service]()
+- [Learn how to integrate Dynamics 365 Guides with Dynamics 365 Field Service](field-service.md)
 
 ## Find out what's new
 
 We're constantly updating Dynamics 365 Guides to include the top features requested by our customers. To find out what's new, check out these topics:
 
-- [What's new](). This topic is also available from the app so it's always at your fingertips.
+- [What's new](new.md). This topic is also available from the app so it's always at your fingertips.
 
 - Release plans
 
