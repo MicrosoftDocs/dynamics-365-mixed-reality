@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # Dynamics 365 Guides setup Step 3: Download and install the apps (PC and HoloLens)
 
 >[!NOTE]
->Before completing the procedures in this step, make sure to see [Step 2: Create a Common Data Service environment and install the Dynamics 365 Guides solution](setup-step-two.md)
+>Before completing the procedures in this step, make sure to see step 2 in the setup process: [Install the Dynamics 365 Guides solution](setup-step-two.md)
 
 There are two [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps: 
 
