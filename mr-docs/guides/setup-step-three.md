@@ -26,7 +26,7 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
 3.	In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Install** to download and install the application.
 
     > [!NOTE]
-    > For instructions on opening and signing in to the app, see the [PC authoring guide](pc-authoring.md).
+    > For instructions on opening and signing in to the app, see [Install, open, and sign in to the PC app](install-sign-in-pc-app.md).
 
 ### Install the HoloLens app
 
