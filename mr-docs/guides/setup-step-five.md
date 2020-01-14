@@ -1,10 +1,7 @@
 
 # Setup Step 5: Add additional user accounts to Dynamics 365 Guides (optional)
 
->[!NOTE]
->Before completing the procedure in this step, make sure to see [Step 4: Set up Power BI reports](setup-step-four.md)
-
-If you want to add additional users to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them and configure the roles they will have access to in the Dynamics 365 admin center.
+If you want to add additional users to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you need to assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them in the Microsoft 365 admin center, and then configure the roles they will have access to in the Power Platform admin center.
 
 ## Add a user account
 
