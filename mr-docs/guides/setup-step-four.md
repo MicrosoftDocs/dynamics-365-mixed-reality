@@ -1,4 +1,4 @@
-# Setup Step 4: Set up Guides Analytics reports for Dynamics 365 Guides
+# Setup Step 4: Set up Power BI reports for Dynamics 365 Guides
 
 >[!NOTE]
 > Before completing this step, make sure to see [Step 3: Downloand and install the Dynamics 365 Guides apps](setup-step-three.md)
