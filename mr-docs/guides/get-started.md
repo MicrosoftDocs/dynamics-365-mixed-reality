@@ -99,7 +99,7 @@ We're constantly updating Dynamics 365 Guides to include the top features reques
 
 - Release plans
 
-  [2019 Wave 1]()
+  [2019 Wave 1](https://docs.microsoft.com/business-applications-release-notes/April19/index)
 
   [2019 Wave 2]()
   
