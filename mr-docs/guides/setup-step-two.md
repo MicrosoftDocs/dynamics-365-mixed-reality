@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Set up Dynamics 365 Guides after signing up for a subscription
+title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
 ms.reviewer: v-brycho
 ---
 
