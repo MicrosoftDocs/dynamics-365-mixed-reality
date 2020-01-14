@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 If you haven’t already installed the [!include[pn-hololens](../includes/pn-hololens.md)] app on your [!include[pn-hololens](../includes/pn-hololens.md)] device (or it hasn't already been installed for you), install it from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers.
 
 >[!NOTE]
->You must have a license to install the Dynamics 365 Guides HoloLens app. You can also sign up for a free trial. For more information, see the [Setup overview](setup.md)
+>You must have a license to install the Dynamics 365 Guides HoloLens app. You can also sign up for a free trial. For more information, see the [Setup overview](setup.md).
 
 ## Install the app
 
