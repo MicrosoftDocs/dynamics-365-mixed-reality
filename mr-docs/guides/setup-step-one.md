@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # Dynamics 365 Guides setup Step 1: Buy a subscription or sign up for a free trial 
 
 >[!NOTE]
->Before completing this step, make sure to see [Overview of setting up Dynamics 365 Guides](setup.md)
+>Before completing this step, make sure to see [Overview of setting up Dynamics 365 Guides](setup.md).
 
 There are two ways to get a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription:
 
@@ -45,7 +45,7 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
  
 ## What's next?
 
-When you're done with this step, go to [Step 2: Create a Common Data Service environment and install the solution](setup-step-two.md).
+When you're done with this step, go to [Step 2: Install the solution](setup-step-two.md).
 
 If you have trouble with any of the procedures in this step, please:
 
