@@ -1,4 +1,4 @@
-# Step 4: Set up Guides Analytics reports for Dynamics 365 Guides
+# Setup Step 4: Set up Guides Analytics reports for Dynamics 365 Guides
 
 >[!NOTE]
 > Before completing this step, make sure to see [Step 3: Downloand and install the Dynamics 365 Guides apps](setup-step-three.md)
@@ -9,5 +9,13 @@ If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, y
 
 ## What's next?
 
-[Step 5: Add additional user accounts (optional)](setup-step-five.md)
+When you're done with this step, go to [Step 5: Add additional user accounts (optional)](setup-step-five.md).
+
+If you have trouble with any of the procedures in this step, please:
+
+Ask on our community site at https://community.dynamics.com/365/guides
+
+Contact customer service: at https://go.microsoft.com/fwlink/?LinkId=853505&clcid=0x409
+
+
 
