@@ -5,7 +5,7 @@
 ## [Videos](videos.md)
 ## I'm an admin
 ### Set up Dynamics 365 Guides
-#### [Hardward and licensing requirements](requirements.md)
+#### [Hardware and licensing requirements](requirements.md)
 #### [Setup overview](setup.md)
 #### [1: Get a subscription (buy or trial)](setup-step-one.md)
 #### [2: Install the solution](setup-step-two.md)
