@@ -99,11 +99,11 @@ We're constantly updating Dynamics 365 Guides to include the top features reques
 
 - Release plans
 
-  [2019 Wave 1](https://docs.microsoft.com/business-applications-release-notes/April19/index)
+  [2019 Wave 1 (April 2019 through September 2019)](https://docs.microsoft.com/business-applications-release-notes/April19/index)
 
-  [2019 Wave 2](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/index)
+  [2019 Wave 2 (October 2019 through April 2020)](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/index)
   
-  [2020 Wave 1]()
+  [2020 Wave 1 (April 2020 through September 2020)]()
 
 ## Need help or support?
 
@@ -111,7 +111,7 @@ If you run across an issue, check out these topics:
 
 - [FAQ](faq.md)
 
-- [Known Issues](known-issues.md). 
+- [Known Issues](known-issues.md) 
 
 If you don't find what you're looking for, [find a list of phone numbers to contact Support](help.md).
 
