@@ -83,14 +83,6 @@ These are the most important topics for admins:
 
 - [Upgrade the solution](upgrade.md)
 
-## Integrations
-
-You can integrate Dynamics 365 Guides with Dynamics 365 Field Service so field service technicians can use Dynamics 365 Guides to complete their work orders.
-
-![Field Service tab](media/field-service-2.PNG "Field Service tab")
-
-- Learn how to [Integrate Dynamics 365 Guides with Dynamics 365 Field Service](field-service.md)
-
 ## Find out what's new
 
 We're constantly updating Dynamics 365 Guides to include the top features requested by our customers. To find out what's new, check out the [What's new topic](new.md). This topic is also available by selecting the **Help** (question mark) button in the upper-right corner of the Dynamics 365 Guides screen, so it's always at your fingertips:
@@ -104,6 +96,15 @@ To learn about when features were introduced or to learn about upcoming features
 - [2019 Wave 2 (October 2019 through March 2020)](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/index)
   
 - [2020 Wave 1 (April 2020 through September 2020)]()
+
+## Integrations
+
+You can integrate Dynamics 365 Guides with Dynamics 365 Field Service so field service technicians can use Dynamics 365 Guides to complete their work orders.
+
+![Field Service tab](media/field-service-2.PNG "Field Service tab")
+
+- Learn how to [Integrate Dynamics 365 Guides with Dynamics 365 Field Service](field-service.md)
+
 
 ## Need help or support?
 
