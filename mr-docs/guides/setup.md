@@ -21,7 +21,7 @@ To set up [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you n
 
 3. [Download and install the apps (PC and HoloLens)](setup-step-three.md).
 
-4. [Set up Guides Analytics reports](setup-step-four.md).
+4. [Set up Power BI reports](setup-step-four.md).
 
 This set of topics provides step-by-step instructions for all of the above.
 
