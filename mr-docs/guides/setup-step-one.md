@@ -45,7 +45,7 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
  
 ## What's next?
 
-When you're done with this step, go to [Step 2: Install the solution](setup-step-two.md).
+When you're done with this step, go to step 2 in the setup process: [Install the solution](setup-step-two.md)
 
 If you have trouble with any of the procedures in this step, please:
 
