@@ -21,7 +21,7 @@ There are two ways to get a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-
 - Go to the [Get started](https://aka.ms/GetGuides) page. You can use this page to buy a subscription or to sign up for a free 30-day trial. If you sign up for a trial, you can use credentials for an existing Dynamics 365 account or you can create new credentials. 
 
     > [!IMPORTANT] 
-    > If you don't have administrator permissions associated with your work account, you won't be able to complete step 2 of the setup process ([Install the solution](setup-step-two.md)). Please coordinate setup with your administrator. If that's not possible, you can create user credentials to try out [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] by following the steps on the [Getting started](https://aka.ms/GetGuides) page. In this case, you'll create a new tenant and the user account you create will have administrator permissions. 
+    > If you don't have administrator permissions associated with your work account, you won't be able to complete step 2 of the setup process ([Install the solution](setup-step-two.md)). Please coordinate setup with your administrator. If that's not possible, you can sign up for a free 30-day trial by following the steps on the [Getting started](https://aka.ms/GetGuides) page. In this case, you'll create a new environment and the user account you create will have administrator permissions. 
 
 ## Assign the Dynamics 365 Guides license to user accounts
 
