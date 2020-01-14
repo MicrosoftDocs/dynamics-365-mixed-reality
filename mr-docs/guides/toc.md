@@ -5,7 +5,7 @@
 ## [Videos](videos.md)
 ## I'm an admin
 ### [Requirements for installing](requirements.md)
-### Try or buy, and deploy
+### Setup
 #### [Setup overview](setup.md)
 #### [1: Get a subscription (buy or trial)](setup-step-one.md)
 #### [2: Create environment and install solution](setup-step-two.md)
