@@ -47,7 +47,7 @@ If you want to add additional users to [!include[pn-dyn-365-guides](../includes/
    
 9. Select **Close**.
 
-10. [Set up user roles for the solution](#user-roles) as described earlier in this topic.
+10. Set up user roles for the solution as described in [Step 2: Create a Common Database environment and install the solution](setup-step-two.md).
 
 ## What's next?
 
