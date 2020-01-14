@@ -4,9 +4,9 @@
 ## [What's new](new.md)
 ## [Videos](videos.md)
 ## I'm an admin
-### [Requirements for installing](requirements.md)
 ### Setup
-#### [Overview](setup.md)
+#### [Requirements for installing](requirements.md)
+#### [Setup overview](setup.md)
 #### [1: Get a subscription (buy or trial)](setup-step-one.md)
 #### [2: Install the solution](setup-step-two.md)
 #### [3: Install the apps](setup-step-three.md)
