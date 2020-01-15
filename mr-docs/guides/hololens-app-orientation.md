@@ -86,7 +86,7 @@ You don’t need to do anything to place an image or a video associated with a s
 
 You can place a 3D model from the 3D toolkit in the same way you place a 3D part if you added that 3D model to the bin in the PC application. If you didn't add the 3D model in the PC application, you can also do it directly from the [!include[pn-hololens](../includes/pn-hololens.md)] app: 
 
-1.	Air tap an empty box in the bin (under **3D parts**).
+1.	Air tap an empty box in the bin.
 
 2.	Air tap a category (an arrow or hand, for example), and then air tap the specific 3D model you want to add.
 
