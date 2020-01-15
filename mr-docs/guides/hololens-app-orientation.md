@@ -30,25 +30,20 @@ Here’s what each button or UI element is used for:
 
 |Number|Button/Example|Name|Purpose|
 |--|---|------------|----------------------------------------------------------------------------------------------------------------|
-|1|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
-|2|![Follow Mode button](media/follow-button.png "Follow Mode button")|Follow mode|Have the Step card follow you or lock it to a location.<br><br>Guides includes a feature called Follow mode. Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you turn off Follow mode, the card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. |
-|3|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.<br><br>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.|
-|4|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Build number**. Shows the build you’re using.|
-|5|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
-|6|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
-|7|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the **Outline** page.<br><br>Use the **Outline** page to quickly navigate around your guide.|
-|8|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
-|9|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
-
-In the 3D parts bin below the Step card instruction text, you'll see any objects that you added in the PC app to help operators with that step. 3D parts include 3D objects from the 3D toolkit and any 3D models (CAD drawings) that you import to mimic 3D parts in the real world.
-
-![Supporting items for Step card](media/step-card-3D-parts.PNG "Supporting items for Step")
-
-The Step card also includes three buttons at the top of the screen: **Save**, **Undo**, and **Redo**.
-
-![Save, Undo, and Redo buttons](media/step-card-buttons.PNG "Save, Undo, and Redo buttons")
- 
-The **Undo** and **Redo** buttons work like **Undo** and **Redo** in any Microsoft Office program. You can undo 100 changes or redo 100 changes.  
+|1|![Save button](media/home-button.png "Save button")|Save|Save the guide.|
+|2|![Undo button](media/home-button.png "Undo button")|Home|Undo the latest change. You can undo up to 100 changes.|
+|3|![Redo button](media/home-button.png "Redo button")|Home|Redo the latest change. You can redo up to 100 changes.|
+|4|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
+|5|![Follow Mode button](media/follow-button.png "Follow Mode button")|Follow mode|Have the Step card follow you or lock it to a location.<br><br>Guides includes a feature called Follow mode. Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you turn off Follow mode, the card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. |
+|6|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.<br><br>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.|
+|7|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Build number**. Shows the build you’re using.|
+|8|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
+|9|![Step progress](media/step-progress.PNG "Step progress")|Step progress|Shows where you are in the step.|
+|10|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the **Outline** page.<br><br>Use the **Outline** page to quickly navigate around your guide.|
+|11|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
+|12|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
+|13|![Gem](media/task-name-table.PNG "Gem")|Gem|Drag the gem to create a dotted line to draw attention to a focus area.|
+|14|![Bin](media/task-name-table.PNG "Bin")|Bom|3D parts (models) available to add for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (CAD drawings) that you import to mimic 3D parts in your operator's real world environment.|
 
 > [!NOTE]
 > Changes are automatically saved in the cloud as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
