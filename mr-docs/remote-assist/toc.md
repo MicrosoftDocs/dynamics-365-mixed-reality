@@ -1,6 +1,6 @@
 # Dynamics 365 Remote Assist
 ## [Overview](index.md)
-## [Setup]
+## Setup
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist-free.md)
 ### [Buy Remote Assist](buy-and-deploy-remote-assist.md)
