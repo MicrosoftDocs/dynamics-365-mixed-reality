@@ -16,7 +16,7 @@ When you open the Dynamics 365 Guides PC app, you see the **Outline** page. In t
 ![Outline page](media/outline-page-2.PNG "Outline page")
 
 >[!NOTE]
->You also use the **Outline** page to add an anchor for the guide. For information on anchoring a guide, see [Anchor your guide](anchor.md).
+>You also use the **Outline** page to choose an anchoring method for the guide. For information on anchoring a guide, see [Anchor your guide](anchor.md).
 
 The **Outline** page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the **Outline** page by dragging tasks and steps.
 
