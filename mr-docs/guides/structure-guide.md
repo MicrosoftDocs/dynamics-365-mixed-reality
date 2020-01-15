@@ -41,21 +41,22 @@ Use the buttons in the navigation bar on the left side of the **Outline** page t
 |![Outline button](media/outline-button-pc-app.png "Outline button")|**Outline**|Go to the **Outline** page. In the **Outline** page, you can structure or restructure your guide. You can also access the **Choose an an anchor method** wizard from this page.|
 |![Step button](media/step-button-pc-app.png "Step button")|**Step**|Go to the **Step Editor** page. In the **Step Editor** page, you can add your instruction text and add supporting 2D or 3D content.|
 
-## Create a task and add instruction text
+## Create a task or step, and add instruction text for a step
 
 When you open the **Outline** page for a newly created guide, you'll see that a single task and step are already created for you. 
 
 ![Create a task and step](media/outline-page-3.PNG "Create a task and step")
 
-- To change the task name, type a new name in the **Task name** box.
+The following table describes actions for adding and renaming tasks and steps.
 
-- To enter instructions for the first step in the task, enter your text in the box below the task name. When you start typing your text, the **Step Editor** appears.
-
-   ![Step Editor](media/step-editor.PNG "Step Editor")
-
-    To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
-    
-- To add a new task, select **Add task**.
+|To|Do this|
+|------------------------------|-------------------------------------------------------------|
+|Change a task name|Type a new name in the **Task name** box.|
+|Enter instruction text for a step|Enter your text in the box below the task name. When you start typing your text, the **Step Editor** appears. To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).|
+|Add a new task|Select **Add task** below the task name instruction text. You can also select the **Task menu** (...) button, and then select **Insert a task**.|
+|Add a new step|Select **Add step**.|
+|Remove a task and its steps|Select the **Task menu** (...) button, and then select **Remove task and steps**.
+|Change the instruction text for the **Completion** step|Select the **Completion** step. This opens the **Step Editor** page. To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
 
 ## Best practices for the Outline page
 
@@ -67,12 +68,6 @@ When you open the **Outline** page for a newly created guide, you'll see that a 
 
 - Consider adding steps that show individual tips and tricks. 
 
-- When you move from the PC app to the HoloLens app, you'll be prompted to refresh. It's a good idea to close the guide you're working on when you switch devices. 
-
-Here’s an example of a filled-out **Outline** page:
-
-![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.png "Filled-out Outline page from Pylon wiring guide")
-  
 ## What's next?
 
 [Anchor your guide to the real world](anchor.md)<br>
