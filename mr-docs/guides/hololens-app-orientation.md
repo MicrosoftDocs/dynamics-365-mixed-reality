@@ -43,7 +43,7 @@ Here’s what each button or UI element is used for:
 |11|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 |12|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
 |13|![Gem](media/task-name-table.PNG "Gem")|Gem|Drag the gem to create a dotted line to draw attention to a focus area.|
-|14|![Bin](media/task-name-table.PNG "Bin")|Bom|3D parts (models) available to add for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (CAD drawings) that you import to mimic 3D parts in your operator's real world environment.|
+|14|!See green rectangular area above|Bin|3D parts (models) available to add for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (CAD drawings) that you import to mimic 3D parts in your operator's real world environment.|
 
 > [!NOTE]
 > Changes are automatically saved in the cloud as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the PC to ensure that you have the latest version of the guide.
