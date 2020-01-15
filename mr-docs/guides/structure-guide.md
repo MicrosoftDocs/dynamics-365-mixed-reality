@@ -11,9 +11,12 @@ ms.reviewer: v-brycho
 
 # Structure a guide in the Outline page in the Dynamics 365 Guides PC app
 
-When you open the Dynamics 365 Guides PC app, you see the **Outline** page. This is where you create the framework for your guide by adding as many tasks and steps as you need. Tasks are groups of steps. Steps are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
+When you open the Dynamics 365 Guides PC app, you see the **Outline** page. In the Outline page, you can add an anchor for the guide and create a framework for the guide, by adding as many tasks and steps as you need. Tasks are groups of steps. Steps are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
 ![Outline page](media/outline-page-2.PNG "Outline page")
+
+>[!NOTE]
+>For information on anchoring a guide, see [Anchor your guide](anchor.md).
 
 The **Outline** page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the **Outline** page by dragging tasks and steps.
 
@@ -21,32 +24,28 @@ Here’s an example of a filled-out **Outline** page:
 
 ![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.png "Filled-out Outline page from Pylon wiring guide")
 
-In addition to tasks and steps, the **Outline** page shows:
+In addition to tasks and steps, the **Outline** page has a special step called a **Completion** step that lets operators know when they’ve reached the end of the guide. The **Completion** step includes default text that you can customize as you see fit.
 
-- Customizable operator instructions.
+![Completion step](media/completion-step.PNG "Completion step")
 
-- A special step called a Completion step that lets operators know when they’ve reached the end of the guide. The Completion step includes default text that you can customize as you see fit.
-
-  ![Completion step](media/completion-step.PNG "Completion step")
-
-## Create a task add start adding instruction text
+## Create a task and start adding instruction text
 
 When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
 
 ![Create a task and step](media/create-task-2.PNG "Create a task and step")
 
-1. Enter a task name in the **Task name** box.
+To change the task name, type a new name in the **Task name** box.
 
-   ![Create a task and step](media/create-task-2.PNG "Create a task and step")
-
-2. Start typing the instructions for the first step in the box below the task name. 
-
-    When you start typing your text, the **Step Editor** appears.
+To enter instructions for the first step, enter your text in the box below the task name. When you start typing your text, the **Step Editor** appears.
 
    ![Step Editor](media/step-editor.PNG "Step Editor")
 
 To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
- 
+
+## Go back to the Outline page from the Step Editor
+
+- Select the **Outline** button in the left pane of the **Step Editor** screen.
+
 ## Best practices for the Outline page
 
 - To provide overall context, add an Overview task at the start of the guide. This task would include just one step that describes what the guide is about. This is also a good place to list all the tasks that the guide covers. 
