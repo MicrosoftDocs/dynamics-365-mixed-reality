@@ -11,12 +11,12 @@ ms.reviewer: v-brycho
 
 # Structure a guide in the Outline page in the Dynamics 365 Guides PC app
 
-When you open the Dynamics 365 Guides PC app, you see the **Outline** page. In the Outline page, you can add an anchor for the guide and create a framework for the guide, by adding as many tasks and steps as you need. Tasks are groups of steps. Steps are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
+When you open the Dynamics 365 Guides PC app, you see the **Outline** page. In the Outline page, you create a framework for the guide, by adding as many tasks and steps as you need. Tasks are groups of steps. Steps are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
 ![Outline page](media/outline-page-2.PNG "Outline page")
 
 >[!NOTE]
->For information on anchoring a guide, see [Anchor your guide](anchor.md).
+>You also use the **Outline** page to add an anchor for the guide. For information on anchoring a guide, see [Anchor your guide](anchor.md).
 
 The **Outline** page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the **Outline** page by dragging tasks and steps.
 
