@@ -42,7 +42,7 @@ Here’s what each button or UI element is used for:
 |10|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the **Outline** page.<br><br>Use the **Outline** page to quickly navigate around your guide.|
 |11|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 |12|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
-|13|![Gem](media/gem.PNG "Gem")|Gem|Drag the gem to create a dotted line to draw attention to a focus area.|
+|13|![Gem](media/gem.png "Gem")|Gem|Drag the gem to create a dotted line to draw attention to a focus area.|
 |14|See green rectangular area above|Bin|3D parts (models) available to add for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (CAD drawings) that you import to mimic 3D parts in your operator's real world environment.|
 
 > [!NOTE]
