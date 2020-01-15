@@ -20,13 +20,13 @@ After you [create a guide](create-guide.md) with Dynamics 365 Guides PC app, you
 
 The **Outline** page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the **Outline** page by dragging tasks and steps.
 
-Here’s an example of a filled-out **Outline** page:
-
-![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.png "Filled-out Outline page from Pylon wiring guide")
-
 In addition to tasks and steps, the **Outline** page has a special step called a **Completion** step that's included in all guides that lets operators know when they’ve reached the end of the guide. The **Completion** step includes default text that you can customize as you see fit.
 
 ![Completion step](media/completion-step.PNG "Completion step")
+
+Here’s an example of a filled-out **Outline** page:
+
+![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.png "Filled-out Outline page from Pylon wiring guide")
 
 ## Go to other pages from the Outline page
 
