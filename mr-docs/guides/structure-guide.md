@@ -45,7 +45,7 @@ Use the buttons in the navigation bar on the left side of the **Outline** page t
 
 When you open the **Outline** page for a newly created guide, you'll see that a single task and step are already created for you. 
 
-![Create a task and step](media/outline-page-3.PNG "Create a task and step")
+![Create a task and step](media/outline-page-4.PNG "Create a task and step")
 
 The following table describes actions for adding and renaming tasks and steps.
 
