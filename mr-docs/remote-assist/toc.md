@@ -4,52 +4,52 @@
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist-free.md)
 ### [Buy Remote Assist](buy-and-deploy-remote-assist.md)
-### Deploy (NEW TOPIC)
+### [Deploy](deploy-remote-assist.md)
 ### [Configure cross-company calling](cross-company-calling.md)
 ## Remote Assist on Hololens 1
 ### [Overview](user-guide.md)
-### Launch Remote Assist
-### Making + taking calls
-### Join a meeting
-### Add annotations
-### Share files
-### Take a snapshot
-### Record calls
-### Send texts + voice messages
-### Get help in another HoloLens app
-### Update a Dynamics 365 Field Service work order
-### Voice commands
+### [Launch Remote Assist](launch-hololens-1.md)
+### [Making + taking calls](making-taking-calls-hololens-1.md)
+### [Join a meeting](join-meeting-hololens-1.md)
+### [Add annotations](add-annotations-hololens-1.md)
+### [Share files](share-files-hololens-1.md)
+### [Take a snapshot](take-snapshot-hololens-1.md)
+### [Record calls](record calls-hololens-1.md)
+### [Send texts + voice messages](send-texts-voice-messages-hololens-1.md)
+### [Get help in another HoloLens app](get-help-holoLens-app-hololens-1.md)
+### [Update a Dynamics 365 Field Service work order](update-field-service-work-order-hololens-1.md)
+### [Voice commands](voice-commands-hololens-1.md)
 ## Remote Assist on Hololens 2
-### Overview
-### Launch Remote Assist
-### Making + taking calls
-### Join a meeting
-### Add annotations
-### Share files
-### Take a snapshot
-### Record calls
-### Send texts + voice messages
-### Get help in another HoloLens app
-### Update a Dynamics 365 Field Service work order 
-### Voice commands
+### [Overview](overview-hololens-2.md)
+### [Launch Remote Assist](launch-hololens-2.md)
+### [Making + taking calls](making-taking-calls-hololens-2.md)
+### [Join a meeting](join-meeting-hololens-2.md)
+### [Add annotations](add-annotations-hololens-2.md)
+### [Share files](share-files-hololens-2.md)
+### [Take a snapshot](take-snapshot-hololens-2.md)
+### [Record calls](record calls-hololens-2.md)
+### [Send texts + voice messages](send-texts-voice-messages-hololens-2.md)
+### [Get help in another HoloLens app](get-help-holoLens-app-hololens-2.md)
+### [Update a Dynamics 365 Field Service work order](update-field-service-work-order-hololens-2.md)
+### [Voice commands](voice-commands-hololens-2.md)
 ## Remote Assist on mobile devices
 ### [Overview](mobile-app/index.md)
-### Making calls
-### Track your space
-### Annotate your space
-### Annotate a snapshot
-### Record calls
-### Send texts + voice messages
-### Update a Dynamics 365 Field Service work order 
+### [Making calls](mobile-app/making-calls.md)
+### [Track your space](mobile-app/track-space.md)
+### [Annotate your space](mobile-app/annotate-space.md)
+### [Annotate a snapshot](mobile-app/annotate-snapshot.md)
+### [Record calls](mobile-app/record-calls.md)
+### [Send texts + voice messages](mobile-app/send-texts-voice-messages.md)
+### [Update a Dynamics 365 Field Service work order](mobile-app/update-field-service-work-orders.md)
 ## Collaborate on Microsoft Teams with Remote Assist users
 ### [Making + taking calls](use-microsoft-teams-with-remote-assist.md)
-### Join a meeting
-### Add annotations
-### Share files
-### Take a snapshot?????
-### Record calls
-### Send texts + voice messages
-### Update a Dynamics 365 Field Service work order????? 
+### [Join a meeting](join-a-meeting-teams.md)
+### [Add annotations](add-annotations-teams.md)
+### [Share files](share-files-teams.md)
+### [Take a snapshot?????](take-snapshot-teams.md)
+### [Record calls](record-calls-teams.md)
+### [Send texts + voice messages](send-texts-voice-messages-teams.md)
+### [Update a Dynamics 365 Field Service work order?????](update-field-service-work-orders-teams.md)
 ## Integrations
 ### [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 ## Additional resources
