@@ -49,7 +49,7 @@ When you open the **Outline** page for a newly created guide, you'll see that a 
 
 - To change the task name, type a new name in the **Task name** box.
 
-- To enter instructions for the first step, enter your text in the box below the task name. When you start typing your text, the **Step Editor** appears.
+- To enter instructions for the first step in the task, enter your text in the box below the task name. When you start typing your text, the **Step Editor** appears.
 
    ![Step Editor](media/step-editor.PNG "Step Editor")
 
