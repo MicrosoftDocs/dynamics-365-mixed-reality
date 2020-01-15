@@ -34,12 +34,12 @@ Use the buttons in the navigation bar on the left side of the **Outline** page t
 
 |Button|Name|Description|
 |--------|----------------|----------------------------------------------------------|
-||**Open Navigation**|Expand the navigation bar to included descriptors for each button.|
-||**Home**|Go to the **Welcome** page. In the **Welcome** page, you can create a new guide or open an existing guide.|
-||**Analyze**|Go to the **Analyze** page. In the **Analyze** page, you can set up Power BI reports (Guides Analytics) to analyze your guides.|
-||**Anchor**|Go to the **Choose an anchor method** wizard. In the wizard you can choose from different anchor methods for you guide or change the type of anchoring method.|
-||**Outline**|Go to the **Outline** page. In the **Outline** page, you can structure or restructure your guide. You can also access the **Choose an an anchor method** wizard from this page.|
-||**Step**|Go the **Step Editor** page. In the **Step Editor** page, you can add your instruction text and add supporting 2D or 3D content.|
+|![Open Navigation button](media/open-navigation-button.png "Open Navigation button")|**Open Navigation**|Expand the navigation bar to included descriptors for each button.|
+|![Home button](media/home-button-pc-app.png "Home button")|**Home**|Go to the **Welcome** page. In the **Welcome** page, you can create a new guide or open an existing guide.|
+|![Analyze button](media/analyze-button-pc-app.png "Analyze button")|**Analyze**|Go to the **Analyze** page. In the **Analyze** page, you can set up Power BI reports (Guides Analytics) to analyze your guides.|
+|![Anchor button](media/anchor-button-pc-app.png "Anchor button")|**Anchor**|Go to the **Choose an anchor method** wizard. In the wizard you can choose from different anchor methods for you guide or change the type of anchoring method.|
+|![Outline button](media/outline-button-pc-app.png "Outline button")|**Outline**|Go to the **Outline** page. In the **Outline** page, you can structure or restructure your guide. You can also access the **Choose an an anchor method** wizard from this page.|
+|![Step button](media/step-button-pc-app.png "Step button")|**Step**|Go the **Step Editor** page. In the **Step Editor** page, you can add your instruction text and add supporting 2D or 3D content.|
 
 ## Create a task and add instruction text
 
