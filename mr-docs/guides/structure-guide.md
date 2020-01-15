@@ -47,7 +47,7 @@ When you open the **Outline** page for a newly created guide, you'll see that a 
 
 ![Create a task and step](media/outline-page-4.png "Create a task and step")
 
-The following table describes actions for adding and renaming tasks and steps.
+The following table describes actions for working with tasks and steps.
 
 |To|Do this|
 |------------------------------|-------------------------------------------------------------|
@@ -56,7 +56,8 @@ The following table describes actions for adding and renaming tasks and steps.
 |Add a new task|Select **Add task** below the task name instruction text. You can also select the **Task menu** (...) button, and then select **Insert a task**.|
 |Add a new step|Select **Add step**.|
 |Remove a task and its steps|Select the **Task menu** (...) button, and then select **Remove task and steps**.
-|Change the instruction text for the **Completion** step|Select the **Completion** step. This opens the **Step Editor** page. To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
+|Change the instruction text for the **Completion** step|Select the **Completion** step. This opens the **Step Editor** page. To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).|
+|Rearrange tasks or steps|Drag them to move them where you want.|
 
 ## Best practices for the Outline page
 
