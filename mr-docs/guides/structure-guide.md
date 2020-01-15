@@ -32,7 +32,7 @@ In addition to tasks and steps, the **Outline** page has a special step called a
 
 When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
 
-![Create a task and step](media/create-task-2.PNG "Create a task and step")
+![Create a task and step](media/create-task-3.PNG "Create a task and step")
 
 To change the task name, type a new name in the **Task name** box.
 
