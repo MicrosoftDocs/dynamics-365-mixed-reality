@@ -47,17 +47,15 @@ When you open the **Outline** page for the first time, you'll see that a single 
 
 ![Create a task and step](media/outline-page-3.PNG "Create a task and step")
 
-To change the task name, type a new name in the **Task name** box.
+- To change the task name, type a new name in the **Task name** box.
 
-To enter instructions for the first step, enter your text in the box below the task name. When you start typing your text, the **Step Editor** appears.
+- To enter instructions for the first step, enter your text in the box below the task name. When you start typing your text, the **Step Editor** appears.
 
    ![Step Editor](media/step-editor.PNG "Step Editor")
 
-To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
-
-## Go back to the Outline page from the Step Editor
-
-- Select the **Outline** button in the left pane of the **Step Editor** screen.
+    To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
+    
+- To add a new task, select **Add task**.
 
 ## Best practices for the Outline page
 
