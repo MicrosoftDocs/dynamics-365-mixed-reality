@@ -13,11 +13,13 @@ ms.reviewer: v-brycho
 
 When you open the Dynamics 365 Guides PC app, you see the **Outline** page. This is where you create the framework for your guide by adding as many tasks and steps as you need. Tasks are groups of steps. Steps are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
-When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
-
-![Create a task and step](media/create-task-2.PNG "Create a task and step")
+![Outline page](media/outline-page-2.PNG "Outline page")
 
 The **Outline** page provides a great way to map out your guide at the start, or to get an overall picture of the guide after you’ve added all your tasks and steps. You can also restructure your guide from the **Outline** page by dragging tasks and steps.
+
+Here’s an example of a filled-out **Outline** page:
+
+![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.png "Filled-out Outline page from Pylon wiring guide")
 
 In addition to tasks and steps, the **Outline** page shows:
 
@@ -28,6 +30,10 @@ In addition to tasks and steps, the **Outline** page shows:
   ![Completion step](media/completion-step.PNG "Completion step")
 
 ## Create a task add start adding instruction text
+
+When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
+
+![Create a task and step](media/create-task-2.PNG "Create a task and step")
 
 1. Enter a task name in the **Task name** box.
 
