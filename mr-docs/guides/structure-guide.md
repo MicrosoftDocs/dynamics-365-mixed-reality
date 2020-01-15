@@ -37,7 +37,7 @@ Use the buttons in the navigation bar on the left side of the **Outline** page t
 ||**Open Navigation**|Expand the navigation bar to included descriptors for each button.|
 ||**Home**|Go to the **Welcome** page. From the **Welcome** page, you can create a new guide or open an existing guide.|
 ||**Analyze**|Go to the **Analyze** page. From the **Analyze** page, you can set up Power BI reports (Guides Analytics) to analyze your guides.|
-||**Anchor**|Go the **Choose an anchor method** wizard. In the wizard you can choose from different anchor methods for you guide or change the type of anchoring method.|
+||**Anchor**|Go to the **Choose an anchor method** wizard. In the wizard you can choose from different anchor methods for you guide or change the type of anchoring method.|
 ||**Outline**|Go to the **Outline** page. In the **Outline** page, you can structure or restructure your guide. You can also access the **Choose an an anchor method** wizard from this page.|
 ||**Step**|Go the **Step Editor** page. In the **Step Editor** page, you can add your instruction text and add supporting 2D or 3D content.|
 ||**Save a copy**|Save a copy of your guide.|
