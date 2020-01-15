@@ -15,6 +15,8 @@ When you create a guide with the [!include[pn-dyn-365-guides](../includes/pn-dyn
 
 It’s crucial to ensure that your guide alignment is correct and as precise as possible. If the guide is misaligned, your instructions may show actions at incorrect locations, which can result in operator confusion or damage to parts.
 
+## Two ways to anchor a guide
+
 There are two ways to anchor a guide:
 
 - With a **printed anchor** (recommended), you align a guide by gazing at (scanning) a printed anchor attached to a physical object in the real world. [Watch a video on creating a printed anchor](https://aka.ms/guidesprintedanchor).
@@ -32,15 +34,31 @@ following reasons:
 
 - A part is too small to attach a printed anchor to.
 
+Dynamics 365 Guides includes an anchor wizard that makes it easy to choose and set up the most appropriate anchoring method for your situation.
+
 ## Anchor your guide by using a printed anchor
 
-Using a printed anchor involves three basic steps:
+[Watch a video on creating a printed anchor](https://aka.ms/guidesprintedanchor)
 
-1.	Print out a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] anchor.
+Creating a printed anchor involves four basic steps:
 
-2.	Attach the marker to a physical object in the real world.
+1. Use the Anchor wizard to choose an anchor method.
 
-3.	Gaze at the printed anchor to align the guide.
+2.	Print out the anchor from a saved PDF file.
+
+3.	Attach the printed anchor to a physical object in the real world.
+
+4.	Gaze at the anchor on HoloLens to anchor the guide.
+
+### Use the anchor wizard to choose the anchor method.
+
+You can access the Anchor wizard from the **Outline** page. The **Outline** page automatically appears after you create a guide.
+
+1. In the **Outline** page, select **Set an anchor method**.
+
+   ![Set an anchor method on Outline page](media/outline-page-3.PNG "Set an anchor method on Outline page")
+   
+   
    
 To print the anchor:
 
