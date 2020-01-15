@@ -24,11 +24,11 @@ Here’s an example of a filled-out **Outline** page:
 
 ![Filled-out Outline page from Pylon wiring guide](media/finished-outline-page.png "Filled-out Outline page from Pylon wiring guide")
 
-In addition to tasks and steps, the **Outline** page has a special step called a **Completion** step that lets operators know when they’ve reached the end of the guide. The **Completion** step includes default text that you can customize as you see fit.
+In addition to tasks and steps, the **Outline** page has a special step called a **Completion** step that's included in all guides that lets operators know when they’ve reached the end of the guide. The **Completion** step includes default text that you can customize as you see fit.
 
 ![Completion step](media/completion-step.PNG "Completion step")
 
-## Create a task and start adding instruction text
+## Create a task and add instruction text
 
 When you open the **Outline** page for the first time, you'll see that a single task and step are already created for you. 
 
