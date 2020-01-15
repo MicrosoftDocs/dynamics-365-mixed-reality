@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Operate a guide in Dynamics 365 Guides
 
+[Watch a video on operating a guide](https://aka.ms/guidesoperate)
+
 When you open a guide as an operator with the Dynamics 365 Guides HoloLens app, you’ll see the Step card, which is the hub of everything you do in a guide. The Step card  provides the instructions that you follow to complete a task. It also includes the two buttons that you use to navigate through a guide—the **Next Step** and **Go Back** buttons. As you go through the steps in a task, the Step card follows you on [!include[pn-hololens](../includes/pn-hololens.md)] to keep your instructions where you need them. 
 
 ![Step card with Next Step and Go Back buttons](media/pin.PNG "Step card with Next Step and Go Back buttons")  
