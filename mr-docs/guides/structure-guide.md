@@ -40,7 +40,6 @@ Use the buttons in the navigation bar on the left side of the **Outline** page t
 ||**Anchor**|Go to the **Choose an anchor method** wizard. In the wizard you can choose from different anchor methods for you guide or change the type of anchoring method.|
 ||**Outline**|Go to the **Outline** page. In the **Outline** page, you can structure or restructure your guide. You can also access the **Choose an an anchor method** wizard from this page.|
 ||**Step**|Go the **Step Editor** page. In the **Step Editor** page, you can add your instruction text and add supporting 2D or 3D content.|
-||**Save a copy**|Save a copy of your guide.|
 
 ## Create a task and add instruction text
 
