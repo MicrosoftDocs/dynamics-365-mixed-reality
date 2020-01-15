@@ -93,6 +93,16 @@ You can place a 3D model from the 3D toolkit in the same way you place a 3D part
     ![Air tap a category](media/step-card-hands.png "Airtap a category")
 
     The item will be added to your bin and you can then place it as you would a 3D part.
+    
+### Best practices for working with 3D content
+
+- Make sure that the 3D content is not in the way of the operator doing the task. 
+
+- Keep the field of view in mind when you place assets. If you put a hologram behind someone, it will be very hard to find.
+
+- Use 3D content sparingly and with a clear goal. Too much content can clutter the instructions and make it harder to follow.
+
+- Remember that you can attach a tether to 3D content to make it more discoverable. 
 
 ### Manipulating holograms<a name ="manipulate"></a>
 
@@ -154,15 +164,6 @@ Up/down rotation
    >[!TIP]
    >On HoloLens 2, you can grab the **Scale Hologram** control with your hand and move it up or down to change the size of the hologram. 
 
-### Best practices for working with 3D content
-
-- Make sure that the 3D content is not in the way of the operator doing the task. 
-
-- Keep the field of view in mind when you place assets. If you put a hologram behind someone, it will be very hard to find.
-
-- Use 3D content sparingly and with a clear goal. Too much content can clutter the instructions and make it harder to follow.
-
-- Remember that you can attach a tether to 3D content to make it more discoverable. See the next section to learn about tethers.
 
 ## Add styles for emphasis
 Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
