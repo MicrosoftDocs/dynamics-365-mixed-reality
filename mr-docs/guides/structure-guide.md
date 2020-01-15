@@ -57,7 +57,7 @@ The following table describes actions for working with tasks and steps.
 |Add a new step|Select **Add step**.|
 |Remove a task and its steps|Select the **Task menu** (...) button to the right of the task name, and then select **Remove task and steps**.
 |Change the instruction text for the **Completion** step|Select the **Completion** step. This opens the **Step Editor** page. To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).|
-|Rearrange tasks or steps|Drag them to move them where you want.|
+|Rearrange tasks or steps|Drag the task or step to move it where you want.|
 
 ## Best practices for the Outline page
 
