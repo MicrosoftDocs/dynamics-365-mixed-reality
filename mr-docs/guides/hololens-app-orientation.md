@@ -80,7 +80,7 @@ You don’t need to do anything to place an image or a video associated with a s
 
 1. In the bin, air tap the 3D part that you want to place.
 
-2. Use gaze and gestures to place the 3D part hologram over its counterpart in the physical world. For information on manipulating holograms with gaze and gestures, see the next section.
+2. Use gaze and gestures to place the 3D part hologram over its counterpart in the physical world. For information on manipulating holograms with gaze and gestures, see the [Manipulating holograms](#manipulate) below.
 
 ### Place a 3D model from the 3D toolkit
 
