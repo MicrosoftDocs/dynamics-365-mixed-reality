@@ -34,7 +34,7 @@
 ### Voice commands
 ## Remote Assist on mobile devices
 ### [Overview](mobile-app/index.md)
-### Making + taking calls
+### Making calls
 ### Join a meeting
 ### Add annotations
 ### Share files
