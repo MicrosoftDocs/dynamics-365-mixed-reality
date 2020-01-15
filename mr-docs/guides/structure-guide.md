@@ -9,7 +9,7 @@ title: Use the Outline page to create the structure for a guide in the Dynamics 
 ms.reviewer: v-brycho
 ---
 
-# Structure your guide using the Outline page in the Dynamics 365 Guides PC app
+# Structure a guide in the Outline page in the Dynamics 365 Guides PC app
 
 When you open the Dynamics 365 Guides PC app, you see the **Outline** page. This is where you create the framework for your guide by adding as many tasks and steps as you need. Tasks are groups of steps. Steps are the short, discrete work items that operators do to complete the task. Steps are the central building blocks in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
