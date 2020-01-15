@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
 
-After you anchor your guide in the Dynamics 365 Guides HoloLens app in **Author** mode, you’ll see the Step card. The Step card is the hub of everything you do with your guide and how you navigate in the app. The Step card is also what your operator will see when they use the guide. The Step card follows the operator to keep the instructions where they need them as they move around their work space.
+After you anchor your guide in the Dynamics 365 Guides HoloLens app in **Author** mode, you’ll see the Step card. The Step card is the hub of everything you do with your guide. The Step card is also what your operator will see when they use the guide. The Step card follows the operator to keep the instructions where they need them as they move around their work space.
 
 You and your operators can navigate through a guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap to navigate through a guide. 
 
