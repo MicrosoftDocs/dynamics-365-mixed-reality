@@ -104,7 +104,7 @@ You can place a 3D model from the 3D toolkit in the same way you place a 3D part
 
 - Remember that you can attach a tether to 3D content to make it more discoverable. 
 
-### Manipulating holograms<a name ="manipulate"></a>
+## Manipulate holograms<a name ="manipulate"></a>
 
 To place a 3D model from one of your bins:
 
