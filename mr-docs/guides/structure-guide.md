@@ -41,11 +41,11 @@ Use the buttons in the navigation bar on the left side of the **Outline** page t
 |![Outline button](media/outline-button-pc-app.png "Outline button")|**Outline**|Go to the **Outline** page. In the **Outline** page, you can structure or restructure your guide. You can also access the **Choose an an anchor method** wizard from this page.|
 |![Step button](media/step-button-pc-app.png "Step button")|**Step**|Go to the **Step Editor** page. In the **Step Editor** page, you can add your instruction text and add supporting 2D or 3D content.|
 
-## Create a task or step, and add instruction text for a step
+## Work with tasks and steps
 
 When you open the **Outline** page for a newly created guide, you'll see that a single task and step are already created for you. 
 
-![Create a task and step](media/outline-page-4.PNG "Create a task and step")
+![Create a task and step](media/outline-page-4.png "Create a task and step")
 
 The following table describes actions for adding and renaming tasks and steps.
 
