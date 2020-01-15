@@ -53,7 +53,7 @@ The following table describes actions for working with tasks and steps.
 |------------------------------|-------------------------------------------------------------|
 |Change a task name|Type a new name in the **Task name** box.|
 |Enter instruction text for a step|Enter your text in the box below the task name. When you start typing your text, the **Step Editor** appears. To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).|
-|Add a new task|Select **Add task** below the last task/set of steps. You can also select the **Task menu** (...) button, and then select **Insert a task**.|
+|Add a new task|Select **Add task** below the last task/set of steps. You can also select the **Task menu** (...) button to the right of the task name, and then select **Insert a task**.|
 |Add a new step|Select **Add step**.|
 |Remove a task and its steps|Select the **Task menu** (...) button, and then select **Remove task and steps**.
 |Change the instruction text for the **Completion** step|Select the **Completion** step. This opens the **Step Editor** page. To learn more about using the **Step Editor**, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).|
