@@ -30,7 +30,7 @@ In addition to tasks and steps, the **Outline** page has a special step called a
 
 ## Get to other pages from the Outline page
 
-Use the buttons in the navigation bar on the left side of the screen to get to other pages from the **Outline** page. The following table describes each of these buttons.
+Use the buttons in the navigation bar on the left side of the **Outline** page to get to other pages in the PC app. The following table describes the navigation bar buttons.
 
 |Button|Name|Description|
 |--------|----------------|----------------------------------------------------------|
