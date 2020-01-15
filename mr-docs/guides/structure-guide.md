@@ -32,9 +32,9 @@ Here’s an example of a filled-out **Outline** page:
 
 Use the buttons in the navigation bar on the left side of the **Outline** page to get to other pages in the PC app. The following table describes the navigation bar buttons.
 
-|Button|Name|Description|
+|Button|Name|Action|
 |--------|----------------|----------------------------------------------------------|
-|![Open Navigation button](media/open-navigation-button.png "Open Navigation button")|**Open Navigation**|Expand the navigation bar to included descriptors for each button.|
+|![Open Navigation button](media/open-navigation-button.png "Open Navigation button")|**Open Navigation**|Expand the navigation bar to include descriptors for each button.|
 |![Home button](media/home-button-pc-app.png "Home button")|**Home**|Go to the **Welcome** page. In the **Welcome** page, you can create a new guide or open an existing guide.|
 |![Analyze button](media/analyze-button-pc-app.png "Analyze button")|**Analyze**|Go to the **Analyze** page. In the **Analyze** page, you can set up Power BI reports (Guides Analytics) to analyze your guides.|
 |![Anchor button](media/anchor-button-pc-app.png "Anchor button")|**Anchor**|Go to the **Choose an anchor method** wizard. In the wizard you can choose from different anchor methods for you guide or change the type of anchoring method.|
