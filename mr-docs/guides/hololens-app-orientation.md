@@ -166,7 +166,7 @@ Up/down rotation
 
 
 ## Add styles for emphasis
-Use styles to provide visual cues for extra emphasis. For example, add the Warning style to show caution or the Avoid style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
+Use styles to provide visual cues for extra emphasis. For example, add the **Warning** style to show caution or the **Avoid** style to make sure an operator doesn’t do something that could cause harm. As your operators get used to the visual language provided by styles, it will speed up their learning process.
 
 > [!Note]
 > At this time, you can’t add styles from the PC application. They exist only in [!include[pn-hololens](../includes/pn-hololens.md)]. 
