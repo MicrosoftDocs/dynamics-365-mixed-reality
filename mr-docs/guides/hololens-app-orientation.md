@@ -30,9 +30,9 @@ Here’s what each button or UI element is used for:
 
 |Number|UI element|Name|Purpose|
 |--|---|------------|----------------------------------------------------------------------------------------------------------------|
-|1|![Save button](media/home-button.png "Save button")|Save|Save the guide.|
-|2|![Undo button](media/home-button.png "Undo button")|Home|Undo the latest change. You can undo up to 100 changes.|
-|3|![Redo button](media/home-button.png "Redo button")|Home|Redo the latest change. You can redo up to 100 changes.|
+|1|![Save button](media/save-button.png "Save button")|Save|Save the guide.|
+|2|![Undo button](media/undo-button.png "Undo button")|Home|Undo the latest change. You can undo up to 100 changes.|
+|3|![Redo button](media/redo-button.png "Redo button")|Home|Redo the latest change. You can redo up to 100 changes.|
 |4|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
 |5|![Follow Mode button](media/follow-button.png "Follow Mode button")|Follow mode|Have the Step card follow you or lock it to a location.<br><br>Guides includes a feature called Follow mode. Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you turn off Follow mode, the card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. |
 |6|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.<br><br>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.|
@@ -42,7 +42,7 @@ Here’s what each button or UI element is used for:
 |10|![Outline button](media/outline-button.png "Outline button")|Outline|Go to the **Outline** page.<br><br>Use the **Outline** page to quickly navigate around your guide.|
 |11|![Task name](media/task-name-table.PNG "Task name")|Task name|The name of the task.|
 |12|![Task progress](media/task-progress.PNG "Task progress")|Task Progress	|Shows where you are in the open task.|
-|13|![Gem](media/task-name-table.PNG "Gem")|Gem|Drag the gem to create a dotted line to draw attention to a focus area.|
+|13|![Gem](media/gem.PNG "Gem")|Gem|Drag the gem to create a dotted line to draw attention to a focus area.|
 |14|See green rectangular area above|Bin|3D parts (models) available to add for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (CAD drawings) that you import to mimic 3D parts in your operator's real world environment.|
 
 > [!NOTE]
