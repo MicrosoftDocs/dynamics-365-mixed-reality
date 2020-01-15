@@ -28,7 +28,7 @@ The following graphic shows the different user interface elements of the Step ca
  
 Here’s what each button or UI element is used for:
 
-|Number|Button/Example|Name|Purpose|
+|Number|UI element|Name|Purpose|
 |--|---|------------|----------------------------------------------------------------------------------------------------------------|
 |1|![Save button](media/home-button.png "Save button")|Save|Save the guide.|
 |2|![Undo button](media/home-button.png "Undo button")|Home|Undo the latest change. You can undo up to 100 changes.|
