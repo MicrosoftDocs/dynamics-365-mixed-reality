@@ -17,7 +17,7 @@
 ### Record calls
 ### Send texts + voice messages
 ### Get help in another HoloLens app
-### Update a work order
+### Update a Dynamics 365 Field Service work order
 ### Voice commands
 ## Remote Assist on Hololens 2
 ### Overview
@@ -30,22 +30,26 @@
 ### Record calls
 ### Send texts + voice messages
 ### Get help in another HoloLens app
-### Update a work order
+### Update a Dynamics 365 Field Service work order 
 ### Voice commands
 ## Remote Assist on mobile devices
 ### [Overview](mobile-app/index.md)
 ### Making calls
+### Track your space
+### Annotate your space
+### Annotate a snapshot
+### Record calls
+### Send texts + voice messages
+### Update a Dynamics 365 Field Service work order 
+## Collaborate on Microsoft Teams with Remote Assist users
+### [Making + taking calls](use-microsoft-teams-with-remote-assist.md)
 ### Join a meeting
 ### Add annotations
 ### Share files
-### Take a snapshot
+### Take a snapshot?????
 ### Record calls
 ### Send texts + voice messages
-### Update a work order
-### Voice commands
-## Remote Assist on PC
-### [Collaborate with Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
-### OTHER?
+### Update a Dynamics 365 Field Service work order????? 
 ## Integrations
 ### [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 ## Additional resources
