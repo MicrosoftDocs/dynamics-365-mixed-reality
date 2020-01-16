@@ -206,7 +206,7 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
 ## Change from one anchor type to the other
 
-1. On the **Outline** page, select the anchor at the top of the screen, or select the **Anchor** button in the left navigation pane. This opens the wizard.
+1. On the **Outline** page, select the anchor at the top of the screen, or select the **Anchor** button in the left navigation pane. This opens the Anchor wizard.
 
     ![Anchor button and anchor highlighted](media/change-anchor-method.PNG "Anchor button and anchor highlighted")
 
