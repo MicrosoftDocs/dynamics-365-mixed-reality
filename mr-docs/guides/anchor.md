@@ -157,7 +157,7 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
    ![Import button](media/import-button-digital-anchor.PNG "Import button")
 
-4. Drag the 3D model from the **3D parts** tab to **Assign digital anchor** box. This assigns the 3D model as your digital anchor. Select **Next** when you're ready to move to the next step.
+4. Drag the 3D model from the **3D parts** tab to the **Assign digital anchor** box. This assigns the 3D model as your digital anchor. Select **Next** when you're ready to move to the next step.
 
    ![Drag model](media/drag-model-digital-anchor.PNG "Drag model")
 
