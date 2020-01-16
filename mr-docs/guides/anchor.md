@@ -62,11 +62,11 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
    ![Choose an anchor method](media/choose-anchor-method.PNG "Choose an anchor method")
 
-3. In step 1 of the wizard, select the **Save to print** button. This creates a PDF file called Guides-PrintedAnchor that includes the anchor that you'll print in step 7. 
+3. In step 1 of the wizard, select the **Save to print** button. This creates a PDF file called **Guides-PrintedAnchor** that includes the anchor that you'll print in step 7. 
 
    ![Save to print button](media/save-to-print-button.PNG "Save to print button")
 
-4. On your PC, in Adobe Acrobat Reader, open the Guides-PrintedAnchor file. 
+4. On your PC, in Adobe Acrobat Reader, open the **Guides-PrintedAnchor** file. 
 
 5.	Select **Print** to print the page, and then under **Page Sizing & Handling**, select the **Actual size** option.
 
