@@ -93,7 +93,7 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
      ![Edit step card text button](media/edit-step-card-text-button.PNG "Edit step card text button")
 
-12. Put on your HoloLens, open your guide, and then gaze at the printed anchor to anchor it. 
+12. Put on your HoloLens, open your guide, and then gaze at the printed anchor to anchor the guide. 
 
 ### Best practices for printed anchors
 
