@@ -14,10 +14,10 @@ ms.reviewer: v-brycho
 The following table lists technical requirements for deploying and using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] throughout your organization.
 
 ## Device requirements
-|Device|OS requirements|Details|
+|Device|Platform|OS requirements|Details|
 |----------------------------------------|---------------------------------------------|-------------------------------------|
-|[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)]|Build 10.0.17134 or later. HoloLens build 10.0.17134 is the minimum that supports [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. We recommend updating HoloLens to newer versions when available. |See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, Mobile Device Management, and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Server Update Services (WSUS).|
-|[!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC (required to create a guide)|[!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC with build 10.0.17134 (April 2018 Update 1803) or later|A [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC is used to create and edit guides that will be then available on [!include[pn-hololens](../includes/pn-hololens.md)].|
+|[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)]|x86, ARTM|Build 10.0.17134 or later. HoloLens build 10.0.17134 is the minimum that supports [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. We recommend updating HoloLens to newer versions when available. |See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, Mobile Device Management, and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Server Update Services (WSUS).|
+|[!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC (required to create a guide)|X64|[!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC with build 10.0.17134 (April 2018 Update 1803) or later|A [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC is used to create and edit guides that will be then available on [!include[pn-hololens](../includes/pn-hololens.md)].|
 
 ## Licensing and product requirements
 
