@@ -172,7 +172,7 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
 7. Go back to the PC app, and then select **Next** in the wizard two times.
 
-8. In step 4 of the wizard, select the **Import** button to import the photo you took in step 6, and then drag it to the **Import photo anchor location** bin. Select **Next** when you're ready to move to the next step.
+8. In step 4 of the wizard, select the **Import** button to import the photo you took in step 6, and then drag it to the **Import photo of anchor location** box. Select **Next** when you're ready to move to the next step.
 
     ![Drag photo](media/drag-photo-digital-anchor.PNG "Drag photo")
 
