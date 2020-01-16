@@ -50,34 +50,42 @@ Creating a printed anchor involves four basic steps:
 
 4.	Gaze at the anchor on HoloLens to anchor the guide.
 
-### Use the anchor wizard to choose the anchor method.
+### Choose the anchor method and set up the printed anchor
 
 You can access the Anchor wizard from the **Outline** page. The **Outline** page automatically appears after you create a guide.
 
-1. In the **Outline** page, select **Set an anchor method**.
+1. On the **Outline** page, select **Set your anchor now**.
 
    ![Set an anchor method on Outline page](media/outline-page-3.PNG "Set an anchor method on Outline page")
    
-   
-   
-To print the anchor:
+2. In the **Choose an anchor method** screen, select **Printed Anchor**.  
 
-1. Ensure the Guides printed anchor .pdf file has been saved from the Anchor setup page in the PC application, and then open it in Adobe Acrobat Reader. 
+3. In step 1 of the wizard, select the **Save to print** button. This creates a PDF file that includes the anchor that you'll print later. Select **Next** to move to the next step.
 
-2.	On the **File** menu, select **Print**.
+4. On your PC, search for the XXXX file, and then open it in Adobe Acrobat Reader. 
 
-3.	Under **Page Sizing & Handling**, select the **Actual size** option.
+5.	On the **File** menu in Adobe, select **Print**.
 
-4.	Print the last page of the document on matte stock as glossy materials can affect scanning. 
+6.	Under **Page Sizing & Handling**, select the **Actual size** option.
 
-5.	After printing, make sure the marker spacing matches the measurements shown in the following illustration:
+7.	Print the last page of the document on matte stock (glossy materials can affect scanning). 
+
+8.	After printing, make sure the marker spacing matches the measurements shown in the following illustration:
 
     ![Marker spacing](media/marker-spacing.png "Marker spacing")
  
-> [!NOTE]
-> If the marker spacing is not within +/- 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the 
-percentage to compensate for the size discrepancy. For example, if you print the anchor and the result is 49 mm, you need to 
-change the scale to 100.4% to get 49.196 mm, which would be within tolerance.
+    > [!NOTE]
+    > If the marker spacing is not within +/- 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the percentage to compensate for the size discrepancy. For example, if you print the anchor and the result is 49 mm, you need to change the scale to 100.4% to get 49.196 mm, which would be within tolerance.
+    
+9. Attach the printed anchor to a physical object in the real world, and then take a picture of where you placed it to help the operator locate it.
+
+10. Go back to the Anchor wizard in the PC app, and then select **Next** to move to the next step.
+
+11. In step 3 of the wizard, select **Import** to import the picture you took in step 9. Select **Next** to move to the next step.
+
+12. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. Select **Next** to move to the next step.
+
+13. Put on your HoloLens, open a guide, and then gaze at the printed anchor to anchor it. 
 
 ### Best practices for printed anchors
 
@@ -117,39 +125,50 @@ in the preceding illustration) to establish the anchor's precise position, scale
 
 ## Anchor your guide by using a digital anchor
 
-Digital anchoring involves two basic steps:
+[Watch a video on creating a digital anchor](https://aka.ms/guidesdigitalanchor)
 
-1.	Using the PC authoring app, import and assign a 3D model to the digital anchor setup flow. This can be a representation of a physical object or a generic 3D object. A default digital anchor will be used if you don't select a custom 3D model.
+Digital anchoring involves three basic steps:
 
-2.	Using [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, align the digital anchor to a physical object in the real world.
+1.	Use the PC app to import a custom 3D model to use as the anchor. This can be a representation of a physical object or a generic 3D object. A default digital anchor will be used if you don't select a custom 3D model.
 
-To import a 3D model and assign it as the digital anchor using the PC authoring app: 
+2. Use the Anchor wizard in the PC app to assign the digital anchor.
 
-1.	Open the PC authoring app.
+3.	Using [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, align the digital anchor to a physical object in the real world.
+
+### Use the PC app to import a custom 3D model
+
+1.	Open the PC app.
 
 2.	On the right side of the screen, select the **Import** command. 
 
-3.	In the **Open** dialog box, select the 3D model that you want to use as a digital twin, and then select **Open**.
+3.	In the **Open** dialog box, select the 3D model that you want to use, and then select **Open**.
 
     This adds the 3D model to the **3D parts** section of the library.
     
-4. Make sure you've selected **Digital Anchor** as your anchor type.
-    
-5. On step 1, **Assign**, of the anchor wizard, drag the 3D model from the 3D parts section in the bin. This assigns the 3D model as your digital anchor. 
+### Use the anchor wizard to assign the digital anchor
+
+You can access the Anchor wizard from the **Outline** page. The **Outline** page automatically appears after you create a guide.
+
+1. On the **Outline** page, select **Set your anchor now**.
+
+   ![Set an anchor method on Outline page](media/outline-page-3.PNG "Set an anchor method on Outline page")
    
-> [!NOTE]
-> It’s a good practice to take a photo or video of the base physical object and location that the operator will align the digital anchor to and upload the photo or video in step 3 of the anchor wizard. You may also want to customize the instructions in step 4 of the wizard to provide more specific directions on what to align the digital anchor to. 
+2. In the **Choose an anchor method** screen, select **Digital Anchor**.  
+ 
+3. In step 1 of the wizard, drag the 3D model from the **3D parts** section to **Assign digital anchor** box. This assigns the 3D model as your digital anchor. Select **Next** when you're ready to move to the next step.
 
-When you switch to [!include[pn-hololens](../includes/pn-hololens.md)] authoring, you'll use a gesture to place the 3D representation directly over the physical object in your work environment.
-
-### To align the digital anchor in HoloLens
-
-1. Open the guide on HoloLens.
-
-2. When prompted, use air tap and hold to move the digital anchor directly over a physical object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
+4. Put on your HoloLens, and then use air tap and hold to move the digital anchor directly over a physical object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
 
    >[!TIP]
    >On HoloLens 2, you can use your hand to directly select and place a digital anchor when authoring a guide. See [Manipulating holograms](https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-authoring#place-your-holograms) for more information.
+
+5. Take a picture of where you placed the digital anchor to help the operator find the anchor.
+
+6. Go back to the PC app, and then select **Next** two times to move to the next step in the wizard.
+
+7. In step 4 of the wizard, import the photo you took in step 5, and then drag i to the **Import photo anchor location** bin. Select **Next** when you're ready to move to the next step.
+
+8. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. Select **Next** to move to the next step, and then select **Confirm**.
 
 ### Best practices for digital anchors
 
