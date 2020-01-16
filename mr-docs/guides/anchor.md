@@ -56,15 +56,15 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
 1. On the **Outline** page, select **Set your anchor now**.
 
-   ![Set an anchor method on Outline page](media/outline-page-3.PNG "Set an anchor method on Outline page")
+    ![Set an anchor method on Outline page](media/outline-page-3.PNG "Set an anchor method on Outline page")
    
 2. In the **Choose an anchor method** screen, select **Printed Anchor**.  
 
-   ![Choose an anchor method](media/choose-anchor-method.PNG "Choose an anchor method")
+    ![Choose an anchor method](media/choose-anchor-method.PNG "Choose an anchor method")
 
 3. In step 1 of the wizard, select the **Save to print** button. This creates a PDF file called **Guides-PrintedAnchor** that includes the anchor that you'll print in step 6. 
 
-   ![Save to print button](media/save-to-print-button.PNG "Save to print button")
+    ![Save to print button](media/save-to-print-button.PNG "Save to print button")
 
 4. On your PC, in Adobe Acrobat Reader, open the **Guides-PrintedAnchor** file. 
 
@@ -76,10 +76,10 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
 7.	After printing, make sure the marker spacing matches the measurements shown in the following illustration:
 
-   ![Marker spacing](media/marker-spacing.png "Marker spacing")
+    ![Marker spacing](media/marker-spacing.png "Marker spacing")
  
-   > [!NOTE]
-   > If the marker spacing is not within +/- 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the percentage to compensate for the size discrepancy. For example, if you print the anchor and the result is 49 mm, you need to change the scale to 100.4% to get 49.196 mm, which would be within tolerance.
+    > [!NOTE]
+    > If the marker spacing is not within +/- 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the percentage to compensate for the size discrepancy. For example, if you print the anchor and the result is 49 mm, you need to change the scale to 100.4% to get 49.196 mm, which would be within tolerance.
     
 8. Attach the printed anchor to a physical object in the real world, and then take a picture of where you placed it to help the operator locate it.
 
@@ -87,13 +87,13 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
 10. In step 3 of the wizard, select **Import** to import the picture you took in step 8. Select **Next** to move to the next step.
 
-    ![Import button](media/import-button.PNG "Import button")
+     ![Import button](media/import-buttton.PNG "Import button")
 
 11. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. Select **Next** to move to the next step.
 
-    ![Edit step card text button](media/edit-step-card-text-button.PNG "Edit step card text button")
+     ![Edit step card text button](media/edit-step-card-text-button.PNG "Edit step card text button")
 
-12. Put on your HoloLens, open a guide, and then gaze at the printed anchor to anchor it. 
+12. Put on your HoloLens, open your guide, and then gaze at the printed anchor to anchor it. 
 
 ### Best practices for printed anchors
 
