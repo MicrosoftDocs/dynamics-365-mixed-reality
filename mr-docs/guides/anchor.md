@@ -19,9 +19,9 @@ It’s crucial to ensure that your guide alignment is correct and as precise as 
 
 There are two ways to anchor a guide:
 
-- With a **printed anchor** (recommended), you align a guide by gazing at (scanning) a printed anchor attached to a physical object in the real world. [Watch a video on creating a printed anchor](https://aka.ms/guidesprintedanchor).
+- With a **printed anchor** (recommended), you align a guide by gazing at (scanning) a printed anchor attached to a physical object in the real world. ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on creating a printed anchor](https://aka.ms/guidesprintedanchor).
 
-- With a **digital anchor**, you align a guide to a digital 3D hologram that's overlaid on a physical object in the real world. [Watch a video on creating a digital anchor](https://aka.ms/guidesdigitalanchor).
+- With a **digital anchor**, you align a guide to a digital 3D hologram that's overlaid on a physical object in the real world. ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on creating a digital anchor](https://aka.ms/guidesdigitalanchor).
 
 A printed anchor is recommended because it's more accurate. You might want or need to use a digital anchor, however, for any of the 
 following reasons:
@@ -38,7 +38,7 @@ Dynamics 365 Guides includes an anchor wizard that makes it easy to choose and s
 
 ## Anchor your guide by using a printed anchor
 
-[Watch a video on creating a printed anchor](https://aka.ms/guidesprintedanchor)
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on creating a printed anchor](https://aka.ms/guidesprintedanchor)
 
 Creating a printed anchor involves four basic steps:
 
@@ -135,7 +135,7 @@ in the preceding illustration) to establish the anchor's precise position, scale
 
 ## Anchor your guide by using a digital anchor
 
-[Watch a video on creating a digital anchor](https://aka.ms/guidesdigitalanchor)
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on creating a digital anchor](https://aka.ms/guidesdigitalanchor)
 
 Digital anchoring involves three basic steps:
 
