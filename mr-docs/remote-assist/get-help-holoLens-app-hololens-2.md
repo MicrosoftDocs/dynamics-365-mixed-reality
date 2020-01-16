@@ -1,5 +1,5 @@
 ---
-title: TITLE OF THIS TOPIC
+title: Use Dynamics 365 Remote Assist to get help in a different HoloLens 2 app
 author: GITHUB USER NAME
 description: VERY BRIEF DESCRIPTION OF THIS CONTENT
 ms.author: MS ALIAS
@@ -8,4 +8,4 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Title of the topic
+# Use Dynamics 365 Remote Assist to get help in a different HoloLens 2 app

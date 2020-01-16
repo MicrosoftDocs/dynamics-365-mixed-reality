@@ -1,5 +1,5 @@
 ---
-title: Set up and use Microsoft Teams with Dynamics 365 Remote Assist
+title: Deploy Dynamics 365 Remote Assist
 author: GITHUB USER NAME
 description: VERY BRIEF DESCRIPTION OF THIS CONTENT
 ms.author: MS ALIAS
@@ -8,4 +8,4 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Title of the topic
+# Deploy Dynamics 365 Remote Assist

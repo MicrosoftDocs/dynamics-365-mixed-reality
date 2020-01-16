@@ -1,5 +1,5 @@
 ---
-title: TITLE OF THIS TOPIC
+title: Take a snapshot in Microsoft Teams
 author: GITHUB USER NAME
 description: VERY BRIEF DESCRIPTION OF THIS CONTENT
 ms.author: MS ALIAS
@@ -8,4 +8,4 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Title of the topic
+# Take a snapshot in Microsoft Teams
