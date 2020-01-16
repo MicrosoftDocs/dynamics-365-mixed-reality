@@ -54,7 +54,7 @@ Creating a printed anchor involves four basic steps:
 
 You can access the Anchor wizard from the **Outline** page. The **Outline** page automatically appears after you create or open a guide.
 
-1. On the **Outline** page, select **Set your anchor now**.
+1. In the **Outline** page, select **Set your anchor now**.
 
     ![Set an anchor method on Outline page](media/outline-page-3.PNG "Set an anchor method on Outline page")
    
@@ -150,7 +150,7 @@ Digital anchoring involves two basic steps:
 
 You can access the Anchor wizard from the **Outline** page. The **Outline** page automatically appears after you create or open a guide.
 
-1. On the **Outline** page, select **Set your anchor now**.
+1. In the **Outline** page, select **Set your anchor now**.
 
    ![Set an anchor method on Outline page](media/outline-page-3.PNG "Set an anchor method on Outline page")
    
