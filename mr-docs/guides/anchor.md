@@ -66,7 +66,7 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
    ![Save to print button](media/save-to-print-button.PNG "Save to print button")
 
-4. On your PC, search for the XXXX file, and then open it in Adobe Acrobat Reader. 
+4. On your PC, open the Guides-PrintedAnchor file in Adobe Acrobat Reader. 
 
 5.	On the **File** menu in Adobe, select **Print**.
 
