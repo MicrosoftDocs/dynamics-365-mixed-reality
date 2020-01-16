@@ -163,6 +163,8 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
 5. Put on your HoloLens, and then use air tap and hold to move the digital anchor directly over a physical object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
 
+   ![Blue spheres](media/blue-spheres-digital-anchor.PNG "Blue spheres")
+
    >[!TIP]
    >On HoloLens 2, you can use your hand to directly select and place a digital anchor when authoring a guide. See [Manipulating holograms](https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-authoring#place-your-holograms) for more information.
 
