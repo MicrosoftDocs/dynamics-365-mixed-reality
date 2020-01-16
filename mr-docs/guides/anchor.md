@@ -161,7 +161,7 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
    ![Drag model](media/drag-model-digital-anchor.PNG "Drag model")
 
-5. Put on your HoloLens, and then use air tap and hold to move the digital anchor directly over a physical object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
+5. Put on your HoloLens, open the guide, and then use air tap and hold to move the digital anchor directly over a physical object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
 
    ![Blue spheres](media/blue-spheres-digital-anchor.PNG "Blue spheres")
 
