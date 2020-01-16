@@ -34,7 +34,7 @@ following reasons:
 
 - A part is too small to attach a printed anchor to.
 
-Dynamics 365 Guides includes an anchor wizard that makes it easy to choose and set up the most appropriate anchoring method for your situation.
+Dynamics 365 Guides includes an anchor wizard that makes it easy to choose and set up the most appropriate anchor type for your situation.
 
 ## Anchor your guide with a printed anchor
 
