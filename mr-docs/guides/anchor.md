@@ -101,7 +101,7 @@ Keep the following in mind when working with printed anchors:
 
 - **Material surface.** Make sure to print the anchor on matte stock and don't laminate it. Glossy materials can negatively affect scanning due to reflected light. Also, ensure the anchor is flat and not curved or distorted as this can affect alignment and detection. 
 
-- **Same anchor for authoring and printing.** For best accuracy, use the **same** printer anchor for authoring and operating. 
+- **Same anchor for authoring and printing.** For best accuracy, use the **same** printed anchor for authoring and operating. 
 
 - **Size.** Make sure that your printed anchor is the exact size indicated in this topic. Incorrect anchor size causes guide misalignment. 
 
