@@ -2,7 +2,7 @@
 author: mamithan
 description: User guide for Dynamics 365 Product Visualize, including opening and signing in to the app, placing and manipulating 3D models, adding notes, adding your own 3D models, and exploring sample 3D models
 ms.author: mamithan
-ms.date: 12/07/2019
+ms.date: 01/17/2019
 ms.service: crm-online
 ms.topic: article
 title: User guide for Dynamics 365 Product Visualize
@@ -13,8 +13,24 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Microsoft Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their real-world environment. 
-This helps create a shared understanding between buyer and seller to accelerate complex sales processes.
+Microsoft Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their real-world environment. Using Augmented Reality, sellers can create a shared understanding between themselves and buyers to accelerate complex sales processes. Showing your customers products in 3D is so much more compelling than showing them flat images. Our app also gives you other capabilities that aren't available with conventional sales tools. You can conduct an entire sales meeting with the Product Visualize app, using the following features:
+
+**Place a model**
+
+If you have 3D models of your products, you can show them to your client in a meeting using the Product Visualize app. Simply place the model in your space to analyze it from different perspectives and have a conversation with your client.
+
+**Add a note to your model**
+
+You can add notes to your model before the meeting to highlight sales points for the client. If they have a question or comment during the meeting, you can take a note to record that for a follow-up. This way, the comments are captured in context of specific points on the model, so you and your teammates can always be on the same page.
+
+**View layers on your model**
+
+For complex 3D models that are build with layers, you can turn these on and off for your client. This will help your clients to get a better understanding about the inner parts of the product or even different available configurations.
+
+**View your models offline**
+
+If you're going to be in a location with low internet connectivity, you can download your models and notes to be available offline. This way, you can never miss a beat with your clients, and your resources will always be at your fingertips.
+
 
 >[!IMPORTANT]
 >This user guide describes features available in version 1.8 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).
