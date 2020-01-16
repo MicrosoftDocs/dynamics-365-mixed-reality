@@ -168,15 +168,15 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
    >[!TIP]
    >On HoloLens 2, you can use your hand to directly select and place a digital anchor when authoring a guide. See [Place your holograms](https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-authoring#place-your-holograms) for more information.
 
-5. Take a picture of where you placed the digital anchor to help the operator find the anchor.
+6. Take a picture of where you placed the digital anchor to help the operator find the anchor.
 
-6. Go back to the PC app, and then select **Next** in the wizard two times.
+7. Go back to the PC app, and then select **Next** in the wizard two times.
 
-7. In step 4 of the wizard, select the **Import** button to import the photo you took in step 5, and then drag it to the **Import photo anchor location** bin. Select **Next** when you're ready to move to the next step.
+8. In step 4 of the wizard, select the **Import** button to import the photo you took in step 6, and then drag it to the **Import photo anchor location** bin. Select **Next** when you're ready to move to the next step.
 
     ![Drag photo](media/drag-photo-digital-anchor.PNG "Drag photo")
 
-8. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. Select **Next** to move to the next step, and then select **Confirm**.
+9. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. Select **Next** to move to the next step, and then select **Confirm**.
 
     ![Edit step card text](media/edit-step-card-text-digital-anchor.PNG "Edit step-card-text")
 
