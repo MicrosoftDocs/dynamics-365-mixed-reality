@@ -223,7 +223,7 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
 4. In the warning screen that appears, select **Switch anchor method**.
 
-## Ensure accuracy of anchors
+## Other factors that impact anchoring accuracy
 
 The following factors can also impact the accuracy of the anchor and/or user perception of the alignment: 
 
