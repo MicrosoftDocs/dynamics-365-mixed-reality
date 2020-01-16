@@ -2,7 +2,7 @@
 author: mamithan
 description: How to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 12/07/2019
+ms.date: 01/17/2019
 ms.service: crm-online
 ms.topic: article
 title: Add a note to your 3D model in Dynamics 365 Product Visualize
@@ -98,9 +98,23 @@ To export a note:
 
 1.	Select **Notes** on the right side of the screen.
 
-2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
+
+2.	Navigate to the note you want to export, and select the **Overflow** menu in the upper-right corner of the notes card.
+
+    > [!div class=mx-imgBorder]
+    > ![Note](media/note.png "Note")
 
 3.	In the **Options** dialog box, select **Export note**.
+
+    > [!div class=mx-imgBorder]
+    > ![Export note](media/export-note.png "Export note")
+
+4. Select the required option for exporting the note.
+
+    > [!div class=mx-imgBorder]
+    > ![Export options](media/export-options.png "Export options")
 
 ### See also
 
