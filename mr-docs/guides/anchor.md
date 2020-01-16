@@ -70,7 +70,7 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
 5. Select **File** > **Print**, and then under **Page Sizing & Handling**, select the **Actual size** option.
 
-  ![Actual size option](media/adobe-actual-size.PNG "Actual size option")
+    ![Actual size option](media/adobe-actual-size.PNG "Actual size option")
 
 6.	Print the last page of the document on matte stock (glossy materials can affect scanning). 
 
