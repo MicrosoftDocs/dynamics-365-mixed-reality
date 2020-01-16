@@ -36,7 +36,7 @@ following reasons:
 
 Dynamics 365 Guides includes an anchor wizard that makes it easy to choose and set up the most appropriate anchoring method for your situation.
 
-## Anchor your guide by using a printed anchor
+## Anchor your guide with a printed anchor
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on creating a printed anchor](https://aka.ms/guidesprintedanchor)
 
@@ -44,11 +44,11 @@ Creating a printed anchor involves four basic steps:
 
 1. Use the Anchor wizard to choose an anchor method.
 
-2.	Print out the anchor from a PDF file created by the anchor wizard.
+2. Print out the anchor from a PDF file created by the anchor wizard.
 
-3.	Attach the printed anchor to a physical object in the real world.
+3. Attach the printed anchor to a physical object in the real world.
 
-4.	Gaze at the anchor on HoloLens to anchor the guide.
+4. Gaze at the anchor on HoloLens to anchor the guide.
 
 ### Set up a printed anchor
 
@@ -131,52 +131,52 @@ When scanning, the forward-facing camera on [!include[pn-hololens](../includes/p
 This information is combined with the actual anchor values stored internally in the application (49.2 mm and 32.8 mm, as indicated 
 in the preceding illustration) to establish the anchor's precise position, scale, and orientation in space.
 
-## Anchor your guide by using a digital anchor
+## Anchor your guide with a digital anchor
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on creating a digital anchor](https://aka.ms/guidesdigitalanchor)
 
-Digital anchoring involves three basic steps:
+Digital anchoring involves two basic steps:
 
-1.	Use the PC app to import a custom 3D model to use as the anchor. This can be a representation of a physical object or a generic 3D object. A default digital anchor will be used if you don't select a custom 3D model.
+1. Use the Anchor wizard in the PC app to import a custom 3D model to use as the anchor. and then and assign the 3D model as the anchor for the guide. The 3D model can be a representation of a physical object or a generic 3D object. A default digital anchor will be used if you don't select a custom 3D model.
 
-2. Use the Anchor wizard in the PC app to assign the digital anchor.
+2.	In the [!include[pn-hololens](../includes/pn-hololens.md)] app in **Author** mode, use gestures to align the digital anchor to a physical object in the real world.
+  
+### Set up a digital anchor
 
-3.	Using [!include[pn-hololens](../includes/pn-hololens.md)] Author mode, align the digital anchor to a physical object in the real world.
-
-### Use the PC app to import a custom 3D model
-
-1.	Open the PC app.
-
-2.	On the right side of the screen, select the **Import** command. 
-
-3.	In the **Open** dialog box, select the 3D model that you want to use, and then select **Open**.
-
-    This adds the 3D model to the **3D parts** section of the library.
-    
-### Use the anchor wizard to assign the digital anchor
-
-You can access the Anchor wizard from the **Outline** page. The **Outline** page automatically appears after you create a guide.
+You can access the Anchor wizard from the **Outline** page. The **Outline** page automatically appears after you create or open a guide.
 
 1. On the **Outline** page, select **Set your anchor now**.
 
    ![Set an anchor method on Outline page](media/outline-page-3.PNG "Set an anchor method on Outline page")
    
-2. In the **Choose an anchor method** screen, select **Digital Anchor**.  
- 
-3. In step 1 of the wizard, drag the 3D model from the **3D parts** section to **Assign digital anchor** box. This assigns the 3D model as your digital anchor. Select **Next** when you're ready to move to the next step.
+2. In the **Choose an anchor method** screen, select **Digital Anchor**. 
 
-4. Put on your HoloLens, and then use air tap and hold to move the digital anchor directly over a physical object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
+   ![Select Digital Anchor](media/choose-anchor-method-digital-anchor.PNG "Select Digital Anchor")
+ 
+3. In step 1 of the wizard, select **Import**, locate your custom 3D model, and then select **Open** to import it. This adds the model to the **3D parts** section of the gallery.
+
+   ![Import button](media/import-button-digital-anchor.PNG "Import button")
+
+4. Drag the 3D model from the **3D parts** section to **Assign digital anchor** box. This assigns the 3D model as your digital anchor. Select **Next** when you're ready to move to the next step.
+
+   ![Drag model](media/drag-model-digital-anchor.PNG "Drag model")
+
+5. Put on your HoloLens, and then use air tap and hold to move the digital anchor directly over a physical object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
 
    >[!TIP]
    >On HoloLens 2, you can use your hand to directly select and place a digital anchor when authoring a guide. See [Manipulating holograms](https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-authoring#place-your-holograms) for more information.
 
 5. Take a picture of where you placed the digital anchor to help the operator find the anchor.
 
-6. Go back to the PC app, and then select **Next** two times to move to the next step in the wizard.
+6. Go back to the PC app, and then select **Next** in the wizard two times.
 
-7. In step 4 of the wizard, import the photo you took in step 5, and then drag i to the **Import photo anchor location** bin. Select **Next** when you're ready to move to the next step.
+7. In step 4 of the wizard, select the **Import** button to import the photo you took in step 5, and then drag it to the **Import photo anchor location** bin. Select **Next** when you're ready to move to the next step.
+
+    ![Drag photo](media/drag-photo-digital-anchor.PNG "Drag photo")
 
 8. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. Select **Next** to move to the next step, and then select **Confirm**.
+
+    ![Edit step card text](media/edit-step-card-text-digital-anchor.PNG "Edit step-card-text")
 
 ### Best practices for digital anchors
 
