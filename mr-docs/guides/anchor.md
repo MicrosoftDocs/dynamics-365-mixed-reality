@@ -101,7 +101,7 @@ Keep the following in mind when working with printed anchors:
 
 - **Same anchor for authoring and printing.** For best accuracy, use the **same** printer anchor for authoring and operating. 
 
-- **Size.** Make sure that your printed anchor is the exact size indicated in this document. Incorrect anchor size causes guide misalignment. 
+- **Size.** Make sure that your printed anchor is the exact size indicated in this topic. Incorrect anchor size causes guide misalignment. 
 
   - Some applications and printers might change the size of the image.
   
