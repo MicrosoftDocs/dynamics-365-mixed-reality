@@ -107,7 +107,7 @@ Keep the following in mind when working with printed anchors:
   
   - If the printed anchor is larger than indicated, [!include[pn-hololens](../includes/pn-hololens.md)] interprets the scale difference in distance. This causes the anchor to be identified as closer than it really is. 
   
-  - Printing from the .pdf file (as described earlier in this topic) is the best way to ensure that the anchor is not resized. 
+  - Printing from the .PDF file (as described earlier in this topic) is the best way to ensure that the anchor is not resized. 
   
 - **Location.** Place the anchor in a location on the physical object in a location that’s easy to access and out of the way.
 
