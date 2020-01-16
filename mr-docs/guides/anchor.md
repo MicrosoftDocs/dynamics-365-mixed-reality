@@ -68,18 +68,18 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
 4. On your PC, in Adobe Acrobat Reader, open the **Guides-PrintedAnchor** file. 
 
-5.	Select **Print** to print the page, and then under **Page Sizing & Handling**, select the **Actual size** option.
+5. Select **File** > **Print**, and then under **Page Sizing & Handling**, select the **Actual size** option.
 
-  ![Actual size option](media/actual-size-option.PNG "Actual size option")
+  ![Actual size option](media/adobe-actual-size.PNG "Actual size option")
 
 6.	Print the last page of the document on matte stock (glossy materials can affect scanning). 
 
 7.	After printing, make sure the marker spacing matches the measurements shown in the following illustration:
 
-    ![Marker spacing](media/marker-spacing.png "Marker spacing")
+    ![Printed anchor measurements](media/printed-anchor-measurements.PNG "Printed anchor measurements")
  
     > [!NOTE]
-    > If the marker spacing is not within +/- 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the percentage to compensate for the size discrepancy. For example, if you print the anchor and the result is 49 mm, you need to change the scale to 100.4% to get 49.196 mm, which would be within tolerance.
+    > If the anchor spacing is not within +/- 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the percentage to compensate for the size discrepancy. For example, if you print the anchor and the result is 49 mm, you need to change the scale to 100.4% to get 49.196 mm, which would be within tolerance.
     
 8. Attach the printed anchor to a physical object in the real world, and then take a picture of where you placed it to help the operator locate it.
 
