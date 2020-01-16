@@ -202,7 +202,22 @@ You can access the Anchor wizard from the **Outline** page. The **Outline** page
 
   - Placement from different perspectives can cause misalignment.
   
-  - Always look at it from multiple angles to ensure the digital anchor is aligned to the physical object.
+  - Always look at the digital anchor from multiple angles to ensure it's aligned to the physical object.
+
+## Change from one anchor type to the other
+
+1. On the **Outline** page, select the anchor at the top of the screen, or select the **Anchor** button in the left navigation pane. This opens the wizard.
+
+    ![Anchor button and anchor highlighted](media/change-anchor-method.PNG "Anchor button and anchor highlighted")
+
+2. In the lower-left corner of the wizard screen, select **Change anchor method**.
+
+   ![Change anchor method button](media/change-anchor-method-button.PNG "Change anchor method button")
+
+3. Select the anchor type you want to change to.
+
+4. In the warning screen that appears, select **Switch anchor method**.
+
 
 ## Ensure accuracy of anchors (alignment)
 Independent from the method used for anchoring, these additional factors can impact the accuracy of the alignment and/or user perception of the alignment:
