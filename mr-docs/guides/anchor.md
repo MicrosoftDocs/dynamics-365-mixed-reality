@@ -52,7 +52,7 @@ Creating a printed anchor involves four basic steps:
 
 ### Set up a printed anchor
 
-You can access the Anchor wizard from the **Outline** page. The **Outline** page automatically appears after you create a guide.
+You can access the Anchor wizard from the **Outline** page. The **Outline** page automatically appears after you create or open a guide.
 
 1. On the **Outline** page, select **Set your anchor now**.
 
