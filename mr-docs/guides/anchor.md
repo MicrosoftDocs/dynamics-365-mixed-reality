@@ -111,7 +111,7 @@ Keep the following in mind when working with printed anchors:
   
   - Printing from the .PDF file (as described earlier in this topic) is the best way to ensure that the anchor is not resized. 
   
-- **Location.** Place the anchor in a location on the physical object in a location that’s easy to access and out of the way.
+- **Location.** Place the anchor in a location on the physical object that’s easy to access and out of the way.
 
   - Anchor placement should ideally be central to the steps being done.
   
