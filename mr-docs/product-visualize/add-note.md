@@ -37,12 +37,12 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Select Add Note](media/add-note.png "Select Add Note")
  
-2.	Select **Photo** to take a picture of the model, or select **Camera Roll** if you want to use a photo already stored on your device.
+3.	Select **Photo** to take a picture of the model, or select **Camera Roll** if you want to use a photo already stored on your device.
 
     > [!div class=mx-imgBorder]
     > ![Select Photo](media/camera-roll.png "Select Capture")
 
- 3.	Do one or both of the following: 
+4.	Do one or both of the following: 
     
       a. Optional: To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
@@ -54,13 +54,11 @@ The following table shows how notes appear on the model, depending on where the 
      > [!NOTE]
      > If you're not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, text you entered is retained, but any drawings are lost.
          
- 4. Tap the model where you want to place the note.
+5. Tap the model where you want to place the note, and then select **Finish**.
  
       > [!div class=mx-imgBorder]
       > ![Tap on the model](media/tap-on-product.png "Tap on the model")
       
- 5. Select **Finish** when you're done.
-   
 
 ## View the notes attached to a model
 
