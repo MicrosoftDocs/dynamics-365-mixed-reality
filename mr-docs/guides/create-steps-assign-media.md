@@ -59,6 +59,18 @@ You can add 3D content, media, or website links to help operators complete a ste
 |Video|Video file|Short video that helps operators complete a complex step|
 |Website link|Link to an external website|Link to a parts inventory system|
 
+## Go to other pages from the Step Editor page
+
+Use the buttons in the navigation bar on the left side of the **Step Editor** page to get to other pages in the PC app. The following table describes the navigation bar buttons.
+
+|Button|Name|Action|
+|--------|----------------|----------------------------------------------------------|
+|![Open Navigation button](media/open-navigation-button.png "Open Navigation button")|**Open Navigation**|Expand the navigation bar to include descriptors for each button.|
+|![Home button](media/home-button-pc-app.png "Home button")|**Home**|Go to the **Welcome** page. In the **Welcome** page, you can create a new guide or open an existing guide.|
+|![Analyze button](media/analyze-button-pc-app.png "Analyze button")|**Analyze**|Go to the **Analyze** page. In the **Analyze** page, you can set up Power BI reports (Guides Analytics) to analyze your guides.|
+|![Anchor button](media/anchor-button-pc-app.png "Anchor button")|**Anchor**|Go to the **Choose an anchor method** wizard. In the wizard, you can choose from different anchor methods for your guide or change the type of anchoring method.|
+|![Outline button](media/outline-button-pc-app.png "Outline button")|**Outline**|Go to the **Outline** page. In the **Outline** page, you can structure or restructure your guide. You can also access the **Choose an an anchor method** wizard from this page.|
+
 ## Add a 3D model from the 3D toolkit
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects, which are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following picture shows an example of using holographic numbers, arrows, and zones to help operators complete a step.
