@@ -29,15 +29,18 @@ The following table shows how notes appear on the model, depending on where the 
 
 1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then select **Notes** from the right side of the screen.
 
-    ![Select Notes](media/select-notes.PNG "Select Notes")
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
 
 2. Select **Add Note**.
 
-    ![Select Add Note](media/add-note.png "Select Add Note")
+    > [!div class=mx-imgBorder]
+    > ![Select Add Note](media/add-note.png "Select Add Note")
  
 2.	Select **Photo** to take a picture of the model, or select **Camera Roll** if you want to use a photo already stored on your device.
 
-    ![Select Photo](media/camera-roll.png "Select Capture")
+    > [!div class=mx-imgBorder]
+    > ![Select Photo](media/camera-roll.png "Select Capture")
 
  3.	Do one or both of the following: 
     
@@ -45,14 +48,16 @@ The following table shows how notes appear on the model, depending on where the 
     
       b. Required: To add text, tap **Add caption** in the notes box at the bottom of the screen, and then enter the text you want. When you're finished adding text, select **Next**.
     
-       ![Draw or add text](media/draw-add-text.PNG "Draw or add text")
+       > [!div class=mx-imgBorder]
+       > ![Draw or add text](media/draw-add-text.png "Draw or add text")
          
      > [!NOTE]
      > If you're not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, text you entered is retained, but any drawings are lost.
          
  4. Tap the model where you want to place the note.
  
-      ![Tap on model](media/tap-on-product.png "Tap on model")
+      > [!div class=mx-imgBorder]
+      > ![Tap on the model](media/tap-on-product.png "Tap on the model")
       
  5. Select **Finish** when you're done.
    
