@@ -73,7 +73,7 @@ Point the device down so that it is parallel to the desired surface. Hold it the
  
 ## What should I do if I lose tracking during a presentation? 
 
-Initially, you should try pointing the device down so it is parallel to the surface and then slowly tilting it up. If that does not restore tracking, select the hamburger menu (three bars) icon on the top-left of the screen and then select **Opportunities**. Select the opportunity that contains the product and then select the product containing the model you were viewing. You will then need to go through the placement process again with the initial model in the product. After placing the initial model, tap the **Model** button on the right of the screen to open the model menu. From the model menu, find the desired model, and then select it to place it on the selected surface. 
+Initially, you should try pointing the device down so it is parallel to the surface and then slowly tilting it up. If that does not restore tracking, select the hamburger menu (three bars) icon at the top-left of the screen and then select **Opportunities**. Select the opportunity that contains the product and then select the product containing the model you were viewing. You will then need to go through the placement process again with the initial model in the product. After placing the initial model, select **Models** on the right of the screen to open the model menu. From the model menu, find the desired model, and then select it to place it on the selected surface. 
  
 ## What surfaces and locations are best to track on? 
 
@@ -85,33 +85,33 @@ You will want to avoid something with large high-contrast repeating patterns lik
  
 ## Can I automatically scale the object to 100%? 
 
-Yes. By double tapping on the model it will expand to its 100% scale. Double tapping on the model again will scale it back to the previous scale it was at. 
+Yes. By double-tapping on the model it will expand to its 100% scale. Double-tapping on the model again will scale it back to the previous scale it was at. 
  
 ## How do I switch between objects during a presentation? 
 
-If the desired model is in the current Product:
-1. Tap the **Model** button to open the model browser. 
-2. Scroll left or right to find the desired model (you can also use search if there are a large number of models in the browser). Tap on the model to load it. 
+If the desired model is in the current product:
+1. Select **Models** to open the model browser. 
+2. Scroll left or right to find the desired model (you can also use search if there are a large number of models in the browser). Select the model to load it. 
  
-If the desired model is in another Product or Opportunity: 
-1. Tap on the hamburger menu (three bars). 
-2. Tap on Opportunities and then on the Opportunity with the desired model. 
-3. Tap on the Product with the desired model.  
-4. Go through the Placement process and place the initial model. 
-5. Tap on the Model button to bring up the model browser at the bottom of the screen. 
-6. Scroll left or right to find the desired model (you can also use search if there are a large number of models in the browser). Tap on the model to load it. 
+If the desired model is in another product or opportunity: 
+1. Select the hamburger menu (three bars) icon at the top-left of the screen and then select **Opportunities**.
+2. Select the required opportunity. 
+3. Select product with the desired model.  
+4. Go through the placement process and place the initial model. 
+5. Select **Models** to open the model browser.
+6. Scroll left or right to find the desired model (you can also use search if there are a large number of models in the browser). Select the model to load it. 
  
 ## How do I export the text and image in my note for email? 
 
-Navigate to the note you want to export. Tap on the overflow menu (three dots) on the note itself. Tap on Export Note on the popup menu. Tap on email and select the app that your email uses.  
+Navigate to the note you want to export. Select the overflow menu (three dots) on the note. Select **Export Note** on the pop-up menu, and then select **Email**. Select the app that your email uses.  
  
 ## How do I download and retain the model locally? 
 
-First you will need to enable the offline mode. Tap on the Hamburger menu (three bars) at the top left of the screen. Tap on Preview features. Tap on the toggle for Offline mode so that it is enabled. 
+First, you must enable the offline mode. Select the Hamburger menu (three bars) at the top-left of the screen. Select **Preview features**. Move the toggle for **Offline mode feature** to the On position. 
+
+Navigate to your opportunities and select the one having the product you want to save. Observe the cloud icon with the down pointing arrow on the lower left-corner of each product. Select the cloud icon in the product that has the desired model. This will start a download process changing the icon to a square and loading circle. After every model in the product has been downloaded, a blue circle with a check mark will appear. Those models are now available on the device. 
  
-Navigate to your Opportunities and tap on the one that has the Product you want to save. Observe the cloud icon with the down pointing arrow on the lower left corner of each product. Tap on that icon in the Product that has the desired model. This will start a download process changing the icon to a square and loading circle. After every model in the Product has been downloaded a blue circle with a check market will appear. Those models are now on the device. 
- 
-If you lose network connectivity and want to view the downloaded files restart the app and navigate to the Opportunity and Product as before. The models that were downloaded should appear and be accessible from the Product.  
+If you lose network connectivity and want to view the downloaded files, restart the app, and then navigate to the opportunity and product as before. The models that were downloaded should appear and be accessible from the product.  
  
 ## Will my notes be visible to other users? 
 
@@ -119,22 +119,21 @@ Notes are currently saved to the Opportunity they were made in. If someone with 
  
 ## Can I update the Product Notes during a meeting? 
 
-Currently you can only make new notes or delete notes. 
- 
-In the Note menu tap on the Add Note to make a new one. To delete a note tap on the overflow menu (three dots) on the upper right corner of the note. Tap delete now and confirm.    
- 
+Currently you can only make new notes or delete notes.
+
+In the **Notes** menu, select **Add Note** to make a new one. To delete a note, select the overflow menu (three dots) on the upper-right corner of the note. Select **Delete Note** and confirm.    
+
 ## If I delete a note, how can I recover it? 
 
 You cannot recover a deleted note in the app. However, the note is saved in Dynamics even if deleted so the text and image can be recovered to be used in the app again. 
  
 ## Can I walk away from my model and come back later? 
 
-The iOS device uses a camera to orient to the world and placing the device so that the camera is covered, or leaving it idle so that the screen turns off, will likely cause the device to lose its world information and lose where it placed the object. If this happens you will need to redo the placement process for the model. 
+The iOS device uses a camera to orient to the world and placing the device so that the camera is covered, or leaving it idle so that the screen turns off, will likely cause the device to lose its world information and lose where it placed the object. If this happens, you will need to redo the placement process for the model. 
  
 ## How can I ensure success when manipulating my model? 
 
-Be aware of the positioning of the hand holding the device as a stray finger on the screen might cause unintended movement of the model when trying to manipulate it via gestures
-
+Be aware of the positioning of the hand holding the device as a stray finger on the screen might cause unintended movement of the model when trying to manipulate it through gestures.
 
 ### See also
 
