@@ -42,7 +42,7 @@ Notes capture images of your model in context, and allow you to attach text or a
 
 **View layers on your model**
 
-For complex 3D models that are build with layers, you can turn these on and off for your client. This will help them get a better understanding about the inner parts of the product or even different available configurations. You can display details or individual components of a complex model using layers.
+For complex 3D models that are built with layers, you can turn these on and off for your client. This will help them get a better understanding about the inner parts of the product or even different available configurations. You can display details or individual components of a complex model using layers.
 
 > [!div class=mx-imgBorder]
 > ![View layers of a model](media/preface-view-layers.png "View layers of a model")
