@@ -19,7 +19,13 @@ Microsoft Dynamics 365 Product Visualize empowers sellers to showcase and custom
 
 If you have 3D models of your products, you can show them to your client in a meeting using the Product Visualize app. Simply place the model in your space to analyze it from different perspectives and have a conversation with your client. The app uses your device's camera to read the surrounding environment, and places a 3D holographic model on a surface you select.
 
-> [TIP]
+> [!div class=mx-imgBorder]
+> ![Find a surface to place a model](media/preface-find-surface.png "Find a surface to place a model")
+
+> [!div class=mx-imgBorder]
+> ![Model placed on a surface](media/preface-model-placed.png "Model placed on a surface")
+
+> [!TIP]
 > - You can help the program select the best surface by scanning the surface on which you want to place your model. Scan a surface by pointing your device's camera down at a flat surface and panning it slowly right to left. 
 > - If you are having trouble detecting a surface, or loading a model, make sure that the surface you are scanning is not too shiny. Lay a contrasting flat object (such as a sheet of paper) on the surface you want to select if you think it is too shiny. Re-scan the surface.
 
@@ -31,14 +37,22 @@ You can add notes on your model before the meeting to highlight sales points for
 
 Notes capture images of your model in context, and allow you to attach text or annotate the image by drawing on it. Notes you create may be exported using Teams or email.
 
+> [!div class=mx-imgBorder]
+> ![Add note to a model](media/preface-add-note.png "Add note to a model")
+
 **View layers on your model**
 
-For complex 3D models that are build with layers, you can turn these on and off for your client. This will help them get a better understanding about the inner parts of the product or even different available configurations. You can display details or individual components of a complex model using layers. 
+For complex 3D models that are build with layers, you can turn these on and off for your client. This will help them get a better understanding about the inner parts of the product or even different available configurations. You can display details or individual components of a complex model using layers.
+
+> [!div class=mx-imgBorder]
+> ![View layers of a model](media/preface-view-layers.png "View layers of a model")
 
 **View your models offline**
 
 If you're going to be in a location with low internet connectivity, you can download your models and notes to be available offline. This way, you will never miss a beat with your clients, and your resources will always be at your fingertips. This feature gives you a way to always carry your catalog of products with you, without having to carry hundreds of pages of documents to every meeting, even when you can’t connect to the cloud.
 
+> [!div class=mx-imgBorder]
+> ![Model downloaded for offline availability](media/preface-offline-model.png "Model downloaded for offline availability")
 
 > [!IMPORTANT]
 > This user guide describes features available in version 1.8 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).
