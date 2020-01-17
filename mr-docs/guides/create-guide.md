@@ -25,8 +25,10 @@ so on as part of the name. You can also use the **Save a Copy** command on the *
 
     ![Name the guide](media/name-guide.PNG "Name the guide")
      
->[!NOTE]
->When you create a guide by using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
+    >[!NOTE]
+    >When you create a guide by using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
+    
+After you create your guide, you'll see the **Outline** page, where you can structure your guide. To learn more about working in the **Outline** page, see [Structure your guide in the Outline page](structure-guide.md).
 
 ## How changes are synced between the PC app and HoloLens app
 
