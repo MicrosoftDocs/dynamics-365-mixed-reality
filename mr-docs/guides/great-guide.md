@@ -320,7 +320,7 @@ Shoot videos from a third-person or first-person perspective.
 
   - When you want the operator to insert a part into something:
 
-    –	Arrows are great for pointing to a specific location (within +/- 2mm tolerance)
+    –	Arrows are great for pointing to a specific location
 
     –	Arrows can be used to show directionality. Example: "Twist the lever until tight" with corresponding half circle arrow showing movement direction
 
