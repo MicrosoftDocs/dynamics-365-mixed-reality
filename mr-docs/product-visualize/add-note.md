@@ -72,11 +72,19 @@ The following table shows how notes appear on the model, depending on where the 
 
 1.	Select **Notes** on the right side of the screen.
 
-2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
 
-3.	Select **Delete Note**.
+2.	Navigate to the note you want to export, and select the **Overflow** menu in the upper-right corner of the notes card.
+
+    > [!div class=mx-imgBorder]
+    > ![Navigate to the note](media/note-1.png "Navigate to the note")
+
+3.	In the **Options** dialog box, select **Delete Note**.
 
      ![Delete a note](media/delete-note.png "Delete a note")
+
+4. Select **Delete** in the confirmation dialog box.
   
 ## Change how your notes are shared with other apps
 
@@ -104,9 +112,9 @@ To export a note:
 2.	Navigate to the note you want to export, and select the **Overflow** menu in the upper-right corner of the notes card.
 
     > [!div class=mx-imgBorder]
-    > ![Note](media/note.png "Note")
+    > ![Navigate to the note](media/note.png "Navigate to the note")
 
-3.	In the **Options** dialog box, select **Export note**.
+3.	In the **Options** dialog box, select **Export Note**.
 
     > [!div class=mx-imgBorder]
     > ![Export note](media/export-note.png "Export note")
