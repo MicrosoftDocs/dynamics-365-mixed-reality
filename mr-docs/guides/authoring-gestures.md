@@ -1,15 +1,15 @@
 ---
 author: Mamaylya
-description: Gestures you can use to author and navigate a guide in Dynamics 365 Guides, including gaze, bloom, and air tap.
+description: HoloLens 1 gestures you can use to author and navigate a guide in Dynamics 365 Guides, including gaze, bloom, and air tap.
 ms.author: Mamaylya
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Gestures you can use to author and navigate a guide in Dynamics 365 Guides 
+title: HoloLens 1 gestures you can use to author and navigate a guide in Dynamics 365 Guides 
 ms.reviewer: v-brycho
 ---
 
-# Gestures for authoring and navigating in Dynamics 365 Guides 
+# HoloLens 1 gestures for authoring and navigating in Dynamics 365 Guides 
 
 To author and navigate through a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you’ll use gaze and a few gestures.
 
