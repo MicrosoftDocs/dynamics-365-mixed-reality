@@ -35,7 +35,7 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
     After you find a suitable surface, you'll see the model-loading indicator.
       
-4.  To place the model, select **Place** at the bottom of the screen.
+4.  To place the model, select **Place** on the right side of the screen.
 
     ![Place model item](media/place-model.PNG "Place model item")
     
