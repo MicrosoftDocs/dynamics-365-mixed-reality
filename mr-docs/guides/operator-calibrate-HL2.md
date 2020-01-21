@@ -1,12 +1,12 @@
 
 # Calibrate your HoloLens 2 device to use with Dynamics 365 Guides
 
-Dynamics 365 Guides uses holograms to show you, as an operator, exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on Microsoft HoloLens, it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your HoloLens device. You can do this by using the Calibration app that comes with your HoloLens.  
-
-Adjust Prompt 
+Dynamics 365 Guides uses holograms to show you, as an operator, exactly what you need to do to accomplish a real-world task. For example, your guide might show you how to assemble a door for a commercial aircraft. Since instructions are provided through holograms on Microsoft HoloLens, it’s extremely important to make sure that the holograms are aligned properly. Otherwise you might drill a hole in the wrong place or even assemble the wrong part! To make sure holograms are properly aligned, you need to calibrate your HoloLens device. You can do this by using the Calibration app that comes with your HoloLens. 
 
 >[!NOTE]
 >When using the device for the first time, you should automatically see this system prompt: **Let’s adjust HoloLens for your eyes**. To automatically begin calibration, select **Adjust**.
+
+![Adjust prompt](media/adjust-prompt-HL2-calibration.PNG "Adjust prompt")
 
 ## Manually calibrate your HoloLens by using the Calibration app 
 
