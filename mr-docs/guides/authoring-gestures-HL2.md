@@ -126,7 +126,7 @@ You can open the **Start** menu on HoloLens 2 with one hand or two hands. If you
 
 2.	With your other hand, touch the Windows logo with your index finger.
 
-   [Watch a video on opening the Start menu with two hands](https://www.microsoft.com/en-us/videoplayer/embed/RE3Wxng).
+   ![Video camera graphic](media/video-camera.PNG [Watch a video on opening the Start menu with two hands](https://www.microsoft.com/en-us/videoplayer/embed/RE3Wxng).
 
 ## Need a tutorial on gestures?
 For a tutorial on some basic gestures, open the **Start** menu, and then select **Tips**. This closes the Dynamics 365 Guides app.
