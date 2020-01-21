@@ -20,31 +20,43 @@ your whole head—not just your eyes.
 
 You’ll also need to use some gestures as you work with a guide. This section lists the most important gestures to know about.
 
-### Start gesture
+### Open the Start menu
 
-There are two ways to access the **Start** menu on HoloLens 2, using one hand or two hands. If you're not sure what to do at any time, 
-opening your start menu is a good way to get reoriented.
+You can open the **Start** menu on HoloLens 2 with one hand or two hands. If you're not sure what to do at any time, opening the **Start** menu is a good way to get reoriented.
 
-To open the start menu with two hands:
-1.	Hold out one of your hands, palm facing up, and look at your wrist. You should see a windows logo.
-2.	Touch the index finger of your other hand to the holographic windows logo.
-Two handed start menu
-https://www.microsoft.com/en-us/videoplayer/embed/RE3Wxng
-Two handed start menu
-To open the start menu with one hand:
-1.	Hold out one of your hands, palm facing up, and look at your wrist. You should see a windows logo.
-2.	Touch the index finger of the held-out hand to the thumb of the same hand in a pinching motion.
-One handed start menu
-One handed start menu
+### To open the Start menu with one hand
+
+1.	Hold out one of your hands, palm facing up, and look at your wrist. You’ll see a holographic Windows logo.
+
+2.	On the hand you’re holding out, touch your index finger to your thumb in a pinching motion.
  
-Air tap
+    ![Open Start menu with one hand](media/open-start-menu-one-hand.png "Open Start menu with one hand")
+
+### To open the Start menu with two hands
+
+1.	Hold out one of your hands, palm facing up, and look at your wrist. You’ll see a holographic Windows logo.
+
+2.	With your other hand, touch the Windows logo with your index finger.
+
+     ![Video camera graphic](media/video-camera.PNG) [Watch a video on opening the Start menu with two hands](https://www.microsoft.com/en-us/videoplayer/embed/RE3Wxng).
+ 
+### Air tap
+
 Use air tap, along with gaze, to select apps and other holograms and any gaze/dwell buttons. To do an air tap:
+
 1.	Gaze at a hologram.
+
 2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don’t need to raise your whole arm—keep your elbow low and comfortable.
+
 3.	Tap your finger down, and then quickly raise it back up again.
+
+AIR TAP ANIMATION GOES HERE
  
-The gesture frame
+### The gesture frame
+
 HoloLens has sensors that can see a few feet to either side of you. When you use gestures, you'll need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor looks like a ring. When HoloLens can't see your hand, the cursor changes to a dot.
-Need a tutorial on gestures?
+
+### Need a tutorial on gestures?
+
 For a tutorial on some basic gestures, use the bloom gesture to go to Start, and then select Learn Gestures. If you're having trouble with gestures, see HoloLens and holograms: FAQ.
 
