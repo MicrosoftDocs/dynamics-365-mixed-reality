@@ -6,7 +6,7 @@ Dynamics 365 Guides uses holograms to show you, as an operator, exactly what you
 >[!NOTE]
 >When using the device for the first time, you should automatically see this system prompt: **Let’s adjust HoloLens for your eyes**. To automatically begin calibration, select **Adjust**.
 
-![Adjust prompt](media/adjust-prompt-HL2-calibration.PNG "Adjust prompt")
+![Adjust prompt](media/adjust-prompt-HL2-calibration.png "Adjust prompt")
 
 ## Manually calibrate your HoloLens by using the Calibration app 
 
