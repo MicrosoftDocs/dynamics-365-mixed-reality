@@ -12,6 +12,8 @@ touch, just like real objects, and use hand rays to interact with holograms when
 
 To author or navigate in HoloLens 2, you need to know how to do these actions and gestures:
 
+- **Touch**. 
+
 - **Hand ray**. To use a hand ray, hold your hand in front of you with your palm facing away. This causes a laser pointer (hand ray) to appear. After targeting an item with your hand ray, you can act on that target in different ways as described later in this topic.
 
     ![Hand ray example](media/hand-ray-example.png "Hand ray example") 
