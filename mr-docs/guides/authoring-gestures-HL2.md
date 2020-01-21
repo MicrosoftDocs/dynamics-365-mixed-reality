@@ -14,15 +14,15 @@ To author or navigate in HoloLens 2, you need to know how to do these actions an
 
 - Hand ray. To use a hand ray, hold your hand in front of you with your palm facing away. This causes a laser pointer (hand ray) to appear. After targeting an item with your hand ray, you can act on that target in different ways as described later in this document.
 
-    ![Hand ray example](media/hand-ray-example.PNG "Hand ray example") 
+    ![Hand ray example](media/hand-ray-example.png "Hand ray example") 
 
 - Gaze. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. You often use gaze and air tap together. When you gaze, turn your whole head—not just your eyes. The cursor will follow.
  
-    ![Gaze animation](media/gaze-animation.GIF "Gaze animation") 
+    ![Gaze animation](media/gaze-animation.gif "Gaze animation") 
 
 - Air tap. Hold your hand straight out in front of you in a loose fist, point your index finger straight up toward the ceiling, tap your finger down, and then quickly raise it back up again.
  
-    ![Air tap animation](media/air-tap-animation.GIF "Air tap animation")
+    ![Air tap animation](media/air-tap-animation.gif "Air tap animation")
 
 - Air tap and hold. Start by air tapping, but keep your finger down instead of raising it back up.
 
@@ -45,35 +45,35 @@ You can use hand rays to work with UI elements and holograms from a distance. Ga
     
     - If there’s a selection box or circle, hold your hand ray on it until it’s selected.
  
-      ![Hand ray dwell animation](media/hand-ray-dwell-animation.GIF "Hand ray dwell animation")
+      ![Hand ray dwell animation](media/hand-ray-dwell-animation.gif "Hand ray dwell animation")
 
 ### To manipulate a hologram with a hand ray
 
 1.	Point your hand ray at the object to target it. Controls will appear around the hologram.
 
-    ![Hand ray dwell animation](media/hand-ray-dwell-animation.GIF "Hand ray dwell animation")
+    ![Hand ray dwell animation](media/hand-ray-dwell-animation.gif "Hand ray dwell animation")
     
 2.	Do one of the following:
 
     - To move the hologram, air tap and hold on the hand ray, move the hologram where you want it, and then release.
     
-        ![Hand ray move animation](media/hand-ray-dwell-animation.GIF "Hand ray move animation")
+        ![Hand ray move animation](media/hand-ray-dwell-animation.gif "Hand ray move animation")
        
     - To rotate the hologram, air tap and hold on one of the blue spheres, rotate the hologram, and then release.
     
-         ![Hand ray move left or right animation](media/hand-ray-move-left-right-animation.GIF "Hand ray move left or right animation")
+         ![Hand ray move left or right animation](media/hand-ray-move-left-right-animation.gif "Hand ray move left or right animation")
          
-         ![Hand ray move up or down animation](media/hand-ray-move-up-down-animation.GIF "Hand ray move up or down animation")
+         ![Hand ray move up or down animation](media/hand-ray-move-up-down-animation.gif "Hand ray move up or down animation")
          
-         ![Hand ray free roate animation](media/hand-ray-free-rotate-animation.GIF "Hand ray free rotate animation")
+         ![Hand ray free roate animation](media/hand-ray-free-rotate-animation.gif "Hand ray free rotate animation")
       
     - To change the size of a hologram, air tap and hold the **Scale** control. While holding, move the control along the track up to scale the part up, or move the control down along the track to scale the part down.
     
-         ![Hand ray scale animation](media/hand-ray-scale-animation.GIF "Hand ray scale animation")
+         ![Hand ray scale animation](media/hand-ray-scale-animation.gif "Hand ray scale animation")
       
     - To edit the hologram, air tap the Edit button, and then air tap the selection you want.
     
-         ![Hand ray edit hologram animation](media/hand-ray-edit-hologram-animation.GIF "Hand ray edit hologram animation") 
+         ![Hand ray edit hologram animation](media/hand-ray-edit-hologram-animation.gif "Hand ray edit hologram animation") 
       
 ### To select an item on the instruction card with gaze
 
@@ -81,7 +81,7 @@ You can use hand rays to work with UI elements and holograms from a distance. Ga
 
 2.	Continue gazing until the button is filled up.
  
-    ![Gaze animation](media/gaze-animation.GIF "Gaze animation")
+    ![Gaze animation](media/gaze-animation.gif "Gaze animation")
    
 ## Work with close-up UI elements and holograms
 
@@ -90,7 +90,7 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 ### To select a hologram
 1.	Touch the hologram with your index finger. The controls will appear.
 
-    ![Touch dwell animation](media/touch-dwell-animation.GIF "Touch dwell animation")
+    ![Touch dwell animation](media/touch-dwell-animation.gif "Touch dwell animation")
 
 ### To move a hologram
 
@@ -118,7 +118,7 @@ You can open the **Start** menu on HoloLens 2 with one hand or two hands. If you
 
 2.	On the hand you’re holding out, touch your index finger to your thumb in a pinching motion.
  
-   ![Open Start menu with one hand animation](media/open-start-menu-one-hand-animation.GIF "Open Start menu with one hand animation")
+   ![Open Start menu with one hand animation](media/open-start-menu-one-hand-animation.gif "Open Start menu with one hand animation")
 
 ## To open the Start menu with two hands
 
