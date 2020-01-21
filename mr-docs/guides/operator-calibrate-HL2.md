@@ -14,8 +14,8 @@ Adjust Prompt
 
 2. Select **+** to view all apps, if **Settings** isn't pinned to **Start**. 
 
->[!NOTE]
->To select something on the Holographic **Start** menu, touch the button with your index finger.
+    >[!NOTE]
+    >To select something on the Holographic **Start** menu, touch the button with your index finger.
 
 3. Select **Settings**. 
 
