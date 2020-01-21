@@ -57,5 +57,5 @@ HoloLens has sensors that can see a few feet to either side of you. When you use
 
 ### Need a tutorial on gestures?
 
-For a tutorial on some basic gestures, use the bloom gesture to go to Start, and then select Learn Gestures. If you're having trouble with gestures, see HoloLens and holograms: FAQ.
+For a tutorial on some basic gestures, open the **Start** menu, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: Frequently asked questions](https://docs.microsoft.com/en-us/hololens/hololens-faq).
 
