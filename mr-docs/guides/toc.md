@@ -45,7 +45,7 @@
 ### [Install the HoloLens app and sign in](install-sign-in-operator.md)
 ### Gestures for navigating a guide
 #### [HoloLens 1](operator-gestures.md)
-#### [HoloLens 2](operator-gestures.HL2.md)
+#### [HoloLens 2](operator-gestures-HL2.md)
 ### [Anchor your guide](operator-anchor.md)
 ### [Operate your guide](operator-orientation.md)
 ## [Analyze your guides](analytics-guide.md)
