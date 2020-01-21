@@ -6,23 +6,27 @@ Dynamics 365 Guides uses holograms to show you, as an operator, exactly what you
 Adjust Prompt 
 
 >[!NOTE]
->When using the device for the first time, you should automatically see a system prompt “Let’s adjust HoloLens for your eyes”. Simply tap the “Adjust” button and you will automatically begin calibration. 
+>When using the device for the first time, you should automatically see this system prompt: **Let’s adjust HoloLens for your eyes**. To automatically begin calibration, select **Adjust**.
 
 ## Manually calibrate your HoloLens by using the Calibration app 
 
-1. Use the start gesture to open the Start menu. 
+1. Use the start gesture to open the **Start** menu. 
 
-2. Select + to view all apps, if Settings isn't pinned to Start. 
+2. Select **+** to view all apps, if **Settings** isn't pinned to **Start**. 
 
 >[!NOTE]
->To select something on the Holographic start menu, simply touch the button with your index finger.
+>To select something on the Holographic **Start** menu, touch the button with your index finger.
 
-3. Select Settings. 
+3. Select **Settings**. 
 
-4. Select System. 
+4. Select **System**. 
 
-5. On the side panel, select Calibration. 
+5. On the side panel, select **Calibration**. 
 
-6. Select Run Eye Calibration. 
+6. Select **Run Eye Calibration**. 
 
 7. Follow the instructions on your screen. 
+
+### See also
+
+[Gestures for navigating](operator-gestures.md)
