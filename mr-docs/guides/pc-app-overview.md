@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Everything you need to know about using the PC authoring application to create a guide in Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 10/29/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Use the PC authoring application to create a guide in Dynamics 365 Guides
