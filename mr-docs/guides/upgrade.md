@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Upgrade the Dynamics 365 Guides solution when required by a new release
 ms.author: mamaylya
-ms.date: 10/29/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Upgrade the Dynamics 365 Guides solution
