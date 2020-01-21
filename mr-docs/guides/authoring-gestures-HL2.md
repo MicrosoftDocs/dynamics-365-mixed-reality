@@ -30,6 +30,31 @@ To author or navigate in HoloLens 2, you need to know how to do these actions an
 
 It’s also important to know about the gesture frame. HoloLens 2 has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, a hand ray will appear from your palm. When HoloLens can't see your hands and you’re looking at a UI element, you’ll see the gaze cursor in the center of your display.
 
+## Work with close-up UI elements and holograms
+
+For close-up UI elements and holograms, you can just reach out and touch or grab them with your hands. When your hand gets close enough to touch or grab a hologram, a visual appears around the control to let you know what that control does.
+
+### To select a hologram
+1.	Touch the hologram with your index finger. The controls will appear.
+
+    ![Touch dwell animation](media/touch-dwell-animation.gif "Touch dwell animation")
+
+### To move a hologram
+
+- Grab the large white sphere in the center of the controls with your hands and move it where you want. The sphere will light up based on where your index finger is in relation to the sphere.
+
+### To rotate or edit a hologram
+
+- Grab one of the blue spheres (rotation controls) and rotate it the way you want. Arrows appear around the rotation controls to show which direction they rotate.
+
+### To change the size of a hologram
+
+- Pinch the blue dial (**Scale** control) on the right side of the part. A slider track appears above and below the **Scale** control to show scaling up or down.
+
+### To select a button
+
+- Push it with your index finger. The button’s collision area lights up as you approach the button.
+
 ## Work with far-away UI elements and holograms - using hand rays and gaze
 
 You can use hand rays to work with UI elements and holograms from a distance. You can use gaze to work with the instruction card from a distance, but you can’t manipulate holograms.
@@ -83,30 +108,7 @@ You can use hand rays to work with UI elements and holograms from a distance. Yo
  
     ![Gaze animation](media/gaze-animation.gif "Gaze animation")
    
-## Work with close-up UI elements and holograms
 
-For close-up UI elements and holograms, you can just reach out and touch or grab them with your hands. When your hand gets close enough to touch or grab a hologram, a visual appears around the control to let you know what that control does.
-
-### To select a hologram
-1.	Touch the hologram with your index finger. The controls will appear.
-
-    ![Touch dwell animation](media/touch-dwell-animation.gif "Touch dwell animation")
-
-### To move a hologram
-
-- Grab the large white sphere in the center of the controls with your hands and move it where you want. The sphere will light up based on where your index finger is in relation to the sphere.
-
-### To rotate or edit a hologram
-
-- Grab one of the blue spheres (rotation controls) and rotate it the way you want. Arrows appear around the rotation controls to show which direction they rotate.
-
-### To change the size of a hologram
-
-- Pinch the blue dial (**Scale** control) on the right side of the part. A slider track appears above and below the **Scale** control to show scaling up or down.
-
-### To select a button
-
-- Push it with your index finger. The button’s collision area lights up as you approach the button.
 
 ## Open the Start menu
 
