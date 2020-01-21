@@ -12,19 +12,19 @@ touch, just like real objects, and use hand rays to interact with holograms when
 
 To author or navigate in HoloLens 2, you need to know how to do these actions and gestures:
 
-- Hand ray. To use a hand ray, hold your hand in front of you with your palm facing away. This causes a laser pointer (hand ray) to appear. After targeting an item with your hand ray, you can act on that target in different ways as described later in this document.
+- **Hand ray**. To use a hand ray, hold your hand in front of you with your palm facing away. This causes a laser pointer (hand ray) to appear. After targeting an item with your hand ray, you can act on that target in different ways as described later in this document.
 
     ![Hand ray example](media/hand-ray-example.png "Hand ray example") 
 
-- Gaze. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. You often use gaze and air tap together. When you gaze, turn your whole head—not just your eyes. The cursor will follow.
+- **Gaze**. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. You often use gaze and air tap together. When you gaze, turn your whole head—not just your eyes. The cursor will follow.
  
     ![Gaze animation](media/gaze-animation.gif "Gaze animation") 
 
-- Air tap. Hold your hand straight out in front of you in a loose fist, point your index finger straight up toward the ceiling, tap your finger down, and then quickly raise it back up again.
+- **Air tap**. Hold your hand straight out in front of you in a loose fist, point your index finger straight up toward the ceiling, tap your finger down, and then quickly raise it back up again.
  
     ![Air tap animation](media/air-tap-animation.gif "Air tap animation")
 
-- Air tap and hold. Start by air tapping, but keep your finger down instead of raising it back up.
+- **Air tap and hold**. Start by air tapping, but keep your finger down instead of raising it back up.
 
 It’s also important to know about the gesture frame. HoloLens 2 has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, a hand ray will appear from your palm. When HoloLens can't see your hands and you’re looking at a UI element, you’ll see the gaze cursor in the center of your display.
 
