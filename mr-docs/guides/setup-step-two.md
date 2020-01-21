@@ -113,7 +113,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     ![Manage solutions](media/manage-solutions.PNG "Manage solutions")
      
     >[!NOTE]
-    > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the PowerApps portal.
+    > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the Power Apps portal.
     
 2. Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the list, and then select **Install**.
 
@@ -146,7 +146,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
     ![Users and permissions](media/settings-page.png "Users and permissions")
     
     > [!IMPORTANT]
-    > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the Guides Hub tile on the preceding page, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
+    > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the **Guides Hub** tile on the preceding page, but we recommend that you not make any changes in the Guides Hub. Any changes you make can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
  
 4. On the **Enabled Users** page, select the user, and then select **Manage Roles**. 
 
@@ -156,7 +156,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC applic
          
     ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
     
-6. Select the **Dyamics 365 Guides Author** or **Dynamics 365 Guides Operator** check box, depending on the privileges you want the user to have.
+6. Select the **D[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Author** or **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Operator** check box, depending on the privileges you want the user to have.
 
     ![Author and Operator role check boxes](media/select-role.PNG "Author and Operator role check boxes")
     
