@@ -16,7 +16,7 @@ To author or navigate in HoloLens 2, you need to know how to do these actions an
 
     ![Hand ray example](media/hand-ray-example.png "Hand ray example") 
 
-- **Gaze**. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. You often use gaze and air tap together. When you gaze, turn your whole head—not just your eyes. The cursor will follow.
+- **Gaze**. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. You will often use gaze and air tap together. When you gaze, turn your whole head—not just your eyes. The cursor will follow.
  
     ![Gaze animation](media/gaze-animation.gif "Gaze animation") 
 
