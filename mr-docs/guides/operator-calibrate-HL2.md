@@ -10,7 +10,7 @@ Dynamics 365 Guides uses holograms to show you, as an operator, exactly what you
 
 ## Manually calibrate your HoloLens by using the Calibration app 
 
-1. Use the start gesture to open the **Start** menu. 
+1. Use the start gesture to open the **Start** menu. For help with gestures, see [Gestures for navigating Dynamics 365 Guides](operator-gestures.md).
 
 2. Select **+** to view all apps, if **Settings** isn't pinned to **Start**. 
 
