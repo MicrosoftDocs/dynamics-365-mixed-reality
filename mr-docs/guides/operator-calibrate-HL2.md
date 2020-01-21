@@ -29,4 +29,4 @@ Adjust Prompt
 
 ### See also
 
-[Gestures for navigating](operator-gestures.md)
+[Gestures for navigating Dynamics 365 Guides](operator-gestures.md)
