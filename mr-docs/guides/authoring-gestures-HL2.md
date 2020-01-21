@@ -112,7 +112,7 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 
 You can open the **Start** menu on HoloLens 2 with one hand or two hands. If you're not sure what to do at any time, opening the **Start** menu is a good way to get reoriented.
 
-## To open the Start menu with one hand
+### To open the Start menu with one hand
 
 1.	Hold out one of your hands, palm facing up, and look at your wrist. You’ll see a holographic Windows logo.
 
@@ -120,7 +120,7 @@ You can open the **Start** menu on HoloLens 2 with one hand or two hands. If you
  
     ![Open Start menu with one hand](media/open-start-menu-one-hand.png "Open Start menu with one hand")
 
-## To open the Start menu with two hands
+### To open the Start menu with two hands
 
 1.	Hold out one of your hands, palm facing up, and look at your wrist. You’ll see a holographic Windows logo.
 
