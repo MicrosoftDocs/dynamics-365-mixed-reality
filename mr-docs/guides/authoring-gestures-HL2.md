@@ -71,7 +71,7 @@ You can use hand rays to work with UI elements and holograms from a distance. Ga
     
          ![Hand ray scale animation](media/hand-ray-scale-animation.gif "Hand ray scale animation")
       
-    - To edit the hologram, air tap the Edit button, and then air tap the selection you want.
+    - To edit the hologram, air tap the **Edit** button, and then air tap the selection you want.
     
          ![Hand ray edit hologram animation](media/hand-ray-edit-hologram-animation.gif "Hand ray edit hologram animation") 
       
