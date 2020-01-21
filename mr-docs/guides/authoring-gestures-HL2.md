@@ -65,7 +65,7 @@ You can use hand rays to work with UI elements and holograms from a distance. Ga
          
          ![Hand ray move up or down animation](media/hand-ray-move-up-down-animation.gif "Hand ray move up or down animation")
          
-         ![Hand ray free roate animation](media/hand-ray-free-rotate-animation.gif "Hand ray free rotate animation")
+         ![Hand ray free rotate animation](media/hand-ray-free-rotate-animation.gif "Hand ray free rotate animation")
       
     - To change the size of a hologram, air tap and hold the **Scale** control. While holding, move the control along the track up to scale the part up, or move the control down along the track to scale the part down.
     
