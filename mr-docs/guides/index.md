@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Overview of Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 10/15/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: overview
 title: Overview of Dynamics 365 Guides
