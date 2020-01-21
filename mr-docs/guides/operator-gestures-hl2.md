@@ -11,9 +11,9 @@ just by gazing at a selection box next to the item. For example, you can select 
 
 ![Gaze animation](media/gaze-animation.gif "Gaze animation")     
  
-Using gaze is very helpful if your hands are occupied with tools or parts. In other cases in Dynamics 365 Guides, you use gaze to 
-target an object, and then act on the target with a gesture, such as an air tap. In either case, when you gaze, make sure to turn 
-your whole head—not just your eyes.
+Using gaze is very helpful if your hands are occupied with tools or parts. 
+
+In other cases in Dynamics 365 Guides, you use gaze to target an object, and then act on the target with a gesture, such as an air tap (see below). In either case, when you gaze, make sure to turn your whole head—not just your eyes.
 
 ## Gestures
 
