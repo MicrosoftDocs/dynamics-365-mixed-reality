@@ -33,11 +33,11 @@
 #### [Install the app and sign in](install-sign-in-hololens-app.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
-#### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
-### [How to make a great mixed reality guide](great-guide.md)
 #### HoloLens gestures for authoring and navigating
 ##### [HoloLens 1](authoring-gestures.md)
 ##### [HoloLens 2](authoring-gestures-HL2.md)
+#### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
+### [How to make a great mixed reality guide](great-guide.md)
 ### [Use Dynamics 365 Import Tool to convert 3D models](import-tool.md)
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
