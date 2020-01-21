@@ -118,7 +118,7 @@ You can open the **Start** menu on HoloLens 2 with one hand or two hands. If you
 
 2.	On the hand you’re holding out, touch your index finger to your thumb in a pinching motion.
  
-   ![Open Start menu with one hand animation](media/open-start-menu-one-hand-animation.gif "Open Start menu with one hand animation")
+    ![Open Start menu with one hand](media/open-start-menu-one-hand.png "Open Start menu with one hand")
 
 ## To open the Start menu with two hands
 
