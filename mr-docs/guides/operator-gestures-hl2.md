@@ -10,7 +10,7 @@ Gaze on HoloLens is pretty much as easy as it sounds. In some cases, you can sel
 just by gazing at a selection box next to the item. For example, you can select the Next or Go back buttons on an instruction card by
 gazing at the button. The selection is completed when the box is filled up by your gaze. 
 
-GIF ANIMATION GOES HERE
+![Gaze animation](media/gaze-animation.gif "Gaze animation")     
  
 Using gaze is very helpful if your hands are occupied with tools or parts. In other cases in Dynamics 365 Guides, you use gaze to 
 target an object, and then act on the target with a gesture, such as an air tap. In either case, when you gaze, make sure to turn 
@@ -50,7 +50,7 @@ Use air tap, along with gaze, to select apps and other holograms and any gaze/dw
 
 3.	Tap your finger down, and then quickly raise it back up again.
 
-AIR TAP ANIMATION GOES HERE
+     ![Air tap animation](media/air-tap-animation.gif "Air tap animation")
  
 ### The gesture frame
 
