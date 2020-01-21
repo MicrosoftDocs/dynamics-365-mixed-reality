@@ -7,8 +7,7 @@ To navigate through a guide as an operator in Dynamics 365 Guides, you use your 
 ## Gaze
 
 Gaze on HoloLens is pretty much as easy as it sounds. In some cases, you can select an item (an app, menu, or button, for example) 
-just by gazing at a selection box next to the item. For example, you can select the Next or Go back buttons on an instruction card by
-gazing at the button. The selection is completed when the box is filled up by your gaze. 
+just by gazing at a selection box next to the item. For example, you can select the **Next** or **Go back** button on an instruction card by gazing at the button. The selection is completed when the box is filled up by your gaze. 
 
 ![Gaze animation](media/gaze-animation.gif "Gaze animation")     
  
