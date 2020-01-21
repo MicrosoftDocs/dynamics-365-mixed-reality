@@ -41,7 +41,9 @@
 ### [Use Dynamics 365 Import Tool to convert 3D models](import-tool.md)
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
-### [Calibrate your HoloLens](operator-calibrate.md)
+### Calibrate your HoloLens
+#### [HoloLens 1](operator-calibrate.md)
+#### [HoloLens 2](operator-calibrate-HL2.md)
 ### [Install the HoloLens app and sign in](install-sign-in-operator.md)
 ### Gestures for navigating a guide
 #### [HoloLens 1](operator-gestures.md)
