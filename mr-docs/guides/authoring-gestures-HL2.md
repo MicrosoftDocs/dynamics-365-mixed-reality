@@ -28,7 +28,7 @@ To author or navigate in HoloLens 2, you need to know how to do these actions an
 
 It’s also important to know about the gesture frame. HoloLens 2 has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, a hand ray will appear from your palm. When HoloLens can't see your hands and you’re looking at a UI element, you’ll see the gaze cursor in the center of your display.
 
-## Use hand rays and gaze to work with far-away UI elements and holograms
+## Work with far-away UI elements and holograms
 
 You can use hand rays to work with UI elements and holograms from a distance. Gaze is more limited. You can use gaze to work with the instruction card, but you can’t manipulate holograms.
 
