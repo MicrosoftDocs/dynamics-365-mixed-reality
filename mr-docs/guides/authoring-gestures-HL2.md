@@ -45,7 +45,7 @@ You can use hand rays to work with UI elements and holograms from a distance. Ga
     
     - If there’s a selection box or circle, hold your hand ray on it until it’s selected.
  
-      ![Hand ray dwell animation](media/hand-ray-dwell-animation.gif "Hand ray dwell animation")
+      ![Hand ray dwell on instruction card animation](media/hand-ray-dwell-instruction-card-animation.gif "Hand ray dwell on instruction card animation")
 
 ### To manipulate a hologram with a hand ray
 
@@ -57,7 +57,7 @@ You can use hand rays to work with UI elements and holograms from a distance. Ga
 
     - To move the hologram, air tap and hold on the hand ray, move the hologram where you want it, and then release.
     
-        ![Hand ray move animation](media/hand-ray-dwell-animation.gif "Hand ray move animation")
+        ![Hand ray move animation](media/hand-ray-move-animation.gif "Hand ray move animation")
        
     - To rotate the hologram, air tap and hold on one of the blue spheres, rotate the hologram, and then release.
     
