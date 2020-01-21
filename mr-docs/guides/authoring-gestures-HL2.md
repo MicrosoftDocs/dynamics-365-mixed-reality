@@ -26,6 +26,8 @@ To author or navigate in HoloLens 2, you need to know how to do these actions an
 
 - **Air tap and hold**. Start by air tapping, but keep your finger down instead of raising it back up.
 
+### Gesture frame
+
 It’s also important to know about the gesture frame. HoloLens 2 has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, a hand ray will appear from your palm. When HoloLens can't see your hands and you’re looking at a UI element, you’ll see the gaze cursor in the center of your display.
 
 ## Work with far-away UI elements and holograms
