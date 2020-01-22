@@ -91,7 +91,7 @@ To learn about when features were introduced or to learn about upcoming features
 
 - [2019 Wave 1 (April 2019 through September 2019)](https://docs.microsoft.com/business-applications-release-notes/April19/index)
 
-- [2019 Wave 2 (October 2019 through March 2020)](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/index)
+- [2019 Wave 2 (October 2019 through March 2020)](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/index)
   
 ## Integrations
 
