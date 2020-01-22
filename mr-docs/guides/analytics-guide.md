@@ -233,6 +233,6 @@ Once you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license,
 
 [Video: Analyze your guides](https://aka.ms/guidesanalyze)<br>
 [Documentation: Overview of authoring a guide](authoring-overview.md)</br>
-[Documentation: Operating a guide](operator-guide.md)</br>
+[Documentation: Overview of operating a guide](operator-overview.md)</br>
 [FAQ](faq.md)
 
