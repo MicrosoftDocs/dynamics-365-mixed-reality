@@ -106,11 +106,11 @@ If, at any point, you need to readjust this setting, you can trigger the offset 
 
 To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Store, and so on) or your corporate credentials to sign in. 
 
-If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at http://aka.ms/guidesdocs. 
+If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at https://aka.ms/guidesdocs. 
 
-- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] isn't set up correctly, or you might not have permission to access it. Contact your administrator or refer to http://aka.ms/guidesdocs.
+- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] isn't set up correctly, or you might not have permission to access it. Contact your administrator or refer to https://aka.ms/guidesdocs.
 
-- Your client app version does not support your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version. Please update your client app, contact your administrator, or see the self-serve documentation at http://aka.ms/guidesdocs.
+- Your client app version does not support your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version. Please update your client app, contact your administrator, or see the self-serve documentation at https://aka.ms/guidesdocs.
 
 - You don't have a license to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Contact your administrator, or [sign up for a free trial subscription]().
 
@@ -153,11 +153,11 @@ Please contact customer service: [https://docs.microsoft.com/dynamics365/get-sta
 
 To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can’t use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, and so on) or your corporate credentials to sign in. 
 
-If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at http://aka.ms/guidesdocs. 
+If you see any of the following errors, please contact your IT administrator or refer to our self-serve documentation at https://aka.ms/guidesdocs. 
 
 - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] isn't set up correctly, or you might not have permission to access it. Contact your administrator or use the documentation link below.
 
-- Your client app version does not support your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version. Please update your client app, contact your administrator, or see the self-serve documentation http://aka.ms/guidesdocs.
+- Your client app version does not support your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version. Please update your client app, contact your administrator, or see the self-serve documentation https://aka.ms/guidesdocs.
 
 - You don't have a license to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Contact your administrator.
 
@@ -216,7 +216,7 @@ To allow authors to place 3D models carefully and precisely, the default movemen
 #### I have an issue that isn’t listed in these troubleshooting steps
 Please contact customer service: [https://docs.microsoft.com/dynamics365/get-started/support/](https://docs.microsoft.com/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
 
-### See also
+## See also
 
 [Dynamics 365 Guides FAQ](faq.md)
 
