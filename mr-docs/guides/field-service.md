@@ -2,7 +2,7 @@
 author: makamat
 description: How to integrate Dynamics 365 Field Service with Dynamics 365 Guides so Field Service technicians can follow a guide while doing a work order
 ms.author: makamat
-ms.date: 10/01/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Integrate Dynamics 365 Field Service with Dynamics 365 Guides
@@ -25,9 +25,9 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
 
 1. Create a guide using the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps. For information on creating a guide, see:
   
-   - [Use the PC authoring app to create a guide](pc-authoring.md)
+   - [Overview of authoring a guide in the PC app](pc-app-overview.md)
    
-   - [Use the HoloLens app to place your holograms](hololens-authoring.md)
+   - [Overview of authoring a guide in the HoloLens app](hololens-app-overview.md)
    
 2. Create a [!include[pn-field-service](../includes/pn-field-service.md)] work order and attach a service task to it. 
 
