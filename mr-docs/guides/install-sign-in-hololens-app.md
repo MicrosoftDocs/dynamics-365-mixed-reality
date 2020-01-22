@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 If you haven’t already installed the [!include[pn-hololens](../includes/pn-hololens.md)] app on your [!include[pn-hololens](../includes/pn-hololens.md)] device (or it hasn't already been installed for you), install it from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers.
 
 >[!NOTE]
->You must have a license to install the Dynamics 365 Guides HoloLens app. You can also sign up for a free trial. For more information, see the [Setup overview](setup.md).
+>You must have a license to install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens app. You can also sign up for a free trial. For more information, see the [Setup overview](setup.md).
 
 ## Install the app
 
@@ -68,7 +68,7 @@ To determine which version of the operating system you’re using on [!include[p
 After ensuring that your [!include[pn-hololens](../includes/pn-hololens.md)] is correctly calibrated, you can open the [!include[pn-hololens](../includes/pn-hololens.md)] application.
 
 >[!NOTE]
->If you're a Dynamics 365 Guides administrator, you can assign Author and Operator roles to restrict features available to users. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
+>If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] administrator, you can assign **Author** and **Operator** roles to restrict features available to users. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
 
 1.	Go to **All Apps**.
 
