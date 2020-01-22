@@ -55,7 +55,7 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 - Push it with your index finger. The button’s collision area lights up as you approach the button.
 
 ### To select a hologram
-1.	Touch the hologram with your index finger. The controls will appear.
+- Touch the hologram with your index finger. The controls will appear.
 
     ![Touch dwell animation](media/touch-dwell-animation.gif "Touch dwell animation")
 
