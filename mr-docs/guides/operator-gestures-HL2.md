@@ -65,5 +65,5 @@ Use air tap, along with gaze, to select apps and other holograms and any gaze/dw
 
 ### Need a tutorial on gestures?
 
-For a tutorial on some basic gestures, open the **Start** menu, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: Frequently asked questions](https://docs.microsoft.com/en-us/hololens/hololens-faq).
+For a tutorial on some basic gestures, open the **Start** menu, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: Frequently asked questions](https://docs.microsoft.com/hololens/hololens-faq).
 
