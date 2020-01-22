@@ -37,6 +37,6 @@ ms.reviewer: v-brycho
 
 7. Follow the instructions on your screen. 
 
-### See also
+## See also
 
 [Gestures for navigating Dynamics 365 Guides](operator-gestures-HL2.md)
