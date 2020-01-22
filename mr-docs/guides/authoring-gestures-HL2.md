@@ -50,6 +50,10 @@ It’s also important to know about the gesture frame. [!include[pn-hololens](..
 
 For close-up UI elements and holograms, you can just reach out and touch or grab them with your hands. When your hand gets close enough to touch or grab a hologram, a visual appears around the control to let you know what that control does.
 
+### To select a button
+
+- Push it with your index finger. The button’s collision area lights up as you approach the button.
+
 ### To select a hologram
 1.	Touch the hologram with your index finger. The controls will appear.
 
@@ -59,17 +63,29 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 
 - Grab the large white sphere in the center of the controls with your hands and move it where you want. The sphere will light up based on where your index finger is in relation to the sphere.
 
-### To rotate or edit a hologram
+    ![Move hologram using touch](media/touch-move.gif "Move hologram using touch")
+
+### To rotate a hologram
 
 - Grab one of the blue spheres (rotation controls) and rotate it the way you want. Arrows appear around the rotation controls to show which direction they rotate.
+
+    ![Rotate right using touch](media/touch-rotate-right.gif "Rotate right using touch")
+    
+    ![Rotate up and down using touch](media/touch-rotate-up-down.gif "Rotate up and down using touch")
+    
+    ![Free rotate using touch](media/touch-free-rotate.gif "Free rotate using touch")
 
 ### To change the size of a hologram
 
 - Pinch the blue dial (**Scale** control) on the right side of the part. A slider track appears above and below the **Scale** control to show scaling up or down.
 
-### To select a button
+    ![Change the size using touch](media/touch-scale-hologram.gif "Change the size using touch")
+    
+### To edit a hologram
 
-- Push it with your index finger. The button’s collision area lights up as you approach the button.
+- Do what???
+
+    ![Edit a hologram using touch](media/touch-edit-menu.gif "Edit a hologram using touch")
 
 ## Work with far-away UI elements and holograms - using hand rays and gaze
 
