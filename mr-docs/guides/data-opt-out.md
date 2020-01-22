@@ -43,6 +43,6 @@ To do this:
 
     ![Filled-out form](media/data-opt-out-filled-out-form.PNG "Filled-out-form")
  
-### See also
+## See also
 
 [Analyze guides usage](analytics-guide.md)
