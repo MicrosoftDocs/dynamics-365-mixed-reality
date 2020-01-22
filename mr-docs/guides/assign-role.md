@@ -57,7 +57,7 @@ To modify user roles, you must have:
 
    ![Author and Operator check boxes](media/select-role.PNG "Author and Operator check boxes")
 
-### See also
+## See also
 
 [Add additional user accounts to Dynamics 365 Guides](add-users.md)<br>
 [Overview of authoring a guide](authoring-overview.md)<br>
