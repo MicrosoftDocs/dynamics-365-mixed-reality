@@ -501,7 +501,7 @@ Shoot videos from a third-person or first-person perspective.
 
 - Make sure to explain anchoring fundamentals to operators, otherwise they may be confused about how to fix if they incorrectly align a real-world object.
 
-### See Also
+## See also
 
 [Author a guide](authoring-overview.md)<br>
 [Overview of operating a guide](operator-overview.md)<br>
