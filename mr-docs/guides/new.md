@@ -41,7 +41,7 @@ The January 28 update includes the following new features:
 
 - Hologram stabilization is improved and optimized for HoloLens 2. 
 
-- Reorganized documention based on customer input to make it easier to find information based on role (admin, author, operator)
+- Reorganized documentation to make it easier to find information for specific roles (admin, author, operator).
 
 ### October, 29, 2019
 
