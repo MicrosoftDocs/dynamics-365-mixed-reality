@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 10/29/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -12,6 +12,34 @@ ms.reviewer: v-brycho
 ## What's new in Dynamics 365 Guides
 
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. 
+
+### January 28, 2020
+
+The January 28 update includes the following new features:
+
+- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms with direct touch, just like real objects. Use hand rays to interact with holograms when they're out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works the same as before since [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn’t support hand tracking. 
+
+- Authors can add a website link to a step in a guide. Use a website link to display a PDF hosted on your server, show a form, or show data from your online IoT devices for the operator to review.
+
+- Administrators can assign **Author** and **Operator** roles to users so that editing is only enabled for authors. 
+
+- Drag and drop multiple files from your local file folder into the PC app gallery to import the files.
+
+- Select the **Help** (question mark) button in the PC app to: 
+
+  - Get quick access to video tutorials that show how to author, operate, or analyze guides.
+  
+  - Get phone numbers for customer support.
+  
+  - Provide feedback and ideas for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team. 
+  
+#### Other updates
+
+- The media panel automatically resizes to fit the attached media, which optimizes for the [!include[pn-hololens](../includes/pn-hololens.md)] field of view. 
+
+- The **Recent guides** list now shows only your recently opened guides.
+
+- Hologram stabilization is improved and optimized for HoloLens 2. 
 
 ### October, 29, 2019
 
