@@ -39,7 +39,7 @@ You open the **Step Editor** from the **Outline** page.
 
 - Adding a **NOTE** step is useful for quality checks. This type of step can come before or after another step. Just make sure to put it in the right spot.
 
-- Add a **WARNING** step for things that could be dangerous or cause a quality issue. To reinforce the warning, you can [add a style in the HoloLens app](hololens-authoring.md).
+- Add a **WARNING** step for things that could be dangerous or cause a quality issue. To reinforce the warning, you can [add a style in the HoloLens app](create-steps-assign-media.md).
 
 - Adding sub-steps inside a step can be helpful, but don’t be afraid to create separate steps for easier reading.
 
