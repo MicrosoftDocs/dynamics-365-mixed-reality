@@ -83,7 +83,7 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
     
 ### To edit a hologram
 
-- Do what???
+- Touch the **Edit hologram** button with your finger, and then touch the command you want.
 
     ![Edit a hologram using touch](media/touch-edit-menu.gif "Edit a hologram using touch")
 
