@@ -30,7 +30,7 @@ If you want to add additional users to [!include[pn-dyn-365-guides](../includes/
    > [!NOTE]
    > By default, an auto-generated password will be generated for the user. The user is required to change the password the first time they sign in with this account. If you want to change the password to a permanent password instead of using the auto-generated password, select the **Let me create the password** option, and then clear the **Require this user to change their password when they first sign in** check box. 
  
-5. Select the location for this user, and then under **Licenses**, select the **Dynamics 365 Guides** check box. 
+5. Select the location for this user, and then under **Licenses**, select the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]s** check box. 
 
     ![Dynamics 365 Guides check box](media/assign-license-user.png "Dynamics 365 Guides check box") 
 
