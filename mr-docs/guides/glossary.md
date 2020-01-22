@@ -23,7 +23,7 @@ A library of predefined objects included in [!include[pn-dyn-365-guides](../incl
 A gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
 
 ## Anchoring (alignment)
-The process of making sure that a guide “lines up” with associated objects in the real world when used on [!include[pn-hololens](../includes/pn-hololens.md)]. Anchoring is crucial and mandatory for creating any guide. For more information, see the [Authoring guide](pc-authoring.md).
+The process of making sure that a guide “lines up” with associated objects in the real world when used on [!include[pn-hololens](../includes/pn-hololens.md)]. Anchoring is crucial and mandatory for creating any guide. For more information, see the [Anchor your guides in the real world](anchor.md).
 
 ## Author
 The person who creates a guide.
