@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Create steps and add 3D models or 2D media in the Dynamics 365 Guides PC app
 
-Steps are the central building block for creating a guide in Dynamics 365 Guides. After creating the [structure for your guide in the **Outline** page](structure-guide.md), you add instructional text and 3D models or media to support those steps in the **Step Editor**. The instructions you create in the WYSIWYG **Step Editor** match what the operator will see in the Step card on [!include[pn-hololens](../includes/pn-hololens.md)]. The following graphic shows the **Step Editor** in the PC app and the Step card that the user sees on HoloLens.
+Steps are the central building block for creating a guide in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. After creating the [structure for your guide in the **Outline** page](structure-guide.md), you add instructional text and 3D models or media to support those steps in the **Step Editor**. The instructions you create in the WYSIWYG **Step Editor** match what the operator will see in the Step card on [!include[pn-hololens](../includes/pn-hololens.md)]. The following graphic shows the **Step Editor** in the PC app and the Step card that the user sees on [!include[pn-hololens](../includes/pn-hololens.md)].
 
 ![Step Editor and Step card](media/step-editor-step-card.PNG "Step Editor and Step card")
 
@@ -70,8 +70,6 @@ You can add 3D content, media, or website links to help operators complete a ste
 |Image|2D image file|Diagram that helps operators complete a complex step|
 |Video|Video file|Short video that helps operators complete a complex step|
 |Website link|Link to an external website|Link to a parts inventory system|
-
-
 
 ## Add a 3D model from the 3D toolkit
 
@@ -151,7 +149,7 @@ You can import your own custom 3D models to add to the **3D parts** library. You
      
 ## Add a website link to a step
 
-You can add a website link to a step so operators can see and interact with information outside of Dynamics 365 Guides. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about IoT sensors. Website links enable authors to create a seamless workflow for operators.
+You can add a website link to a step so operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about IoT sensors. Website links enable authors to create a seamless workflow for operators.
 
 >[!NOTE]
 >Only one website link can be added to each step.
