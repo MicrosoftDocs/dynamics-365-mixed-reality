@@ -70,9 +70,7 @@ Visual properties that you can add to any 3D object to reinforce what you want t
 ## Task
 A piece of work to be done or undertaken. A task is made up of steps that the operator must follow to complete the task. 
 
-
-
-### See also
+## See also
 
 [Overview of authoring a guide](authoring-overview.md)<br>
 [Overview of operating a guide](operator-overview.md)<br>
