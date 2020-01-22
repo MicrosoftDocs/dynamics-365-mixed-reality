@@ -52,5 +52,5 @@ For a tutorial on some basic gestures, close [!include[pn-dyn-365-guides](../inc
 ### See also
 
 [Overview of authoring a guide](authoring-overview.md)<br>
-[Operator's manual](operator-guide.md)
+[Overview of operating a guide](operator-overview.md)
 
