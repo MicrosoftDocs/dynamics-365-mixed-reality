@@ -2,7 +2,7 @@
 author: StaceyLaw
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: slaw
-ms.date: 10/01/2019
+ms.date: 01/20/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
@@ -105,11 +105,7 @@ Austria, Australia, Belgium, Bulgaria, Canada, China, Croatia, Cyprus, Czech Rep
 
 ## How do I import AutoCAD models?
 
-You can prepare your 3D models yourself using third-party conversion and optimization tools or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to send your models to [!include[cc-microsoft](../includes/cc-microsoft.md)] to convert and optimize. Whichever method you use, after converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool).
-
-## How does Dynamics 365 Import Tool (Preview) process my 3D models?
-
-If you send your model to [!include[cc-microsoft](../includes/cc-microsoft.md)] for conversion and optimization, it’s uploaded to a secure location. [!include[cc-microsoft](../includes/cc-microsoft.md)] prepares the model using a combination of automated and manual steps. [!include[cc-microsoft](../includes/cc-microsoft.md)] provides a download link when the model is ready. After you download it, your model is deleted from the secure storage area.
+You can prepare your 3D models yourself using third-party conversion and optimization tools. After converting and optimizing the models, you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare them for mixed reality. [Learn more about Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool).
 
 Still need help? Try our [user forums](https://community.dynamics.com/365/layout).
 
