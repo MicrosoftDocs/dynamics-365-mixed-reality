@@ -73,7 +73,7 @@ You can turn holograms off (or turn them back on) with a glance if you ever feel
 ## See also?
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on operating a guide](https://aka.ms/guidesoperate)
-- [Calibrate your HoloLens](https://docs.microsoft.com/windows/mixed-reality/calibration)
+- ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Calibrate your HoloLens](https://docs.microsoft.com/windows/mixed-reality/calibration)
 
 
 
