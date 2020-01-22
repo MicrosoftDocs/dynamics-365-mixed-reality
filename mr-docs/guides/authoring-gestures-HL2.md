@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # HoloLens 2 gestures for authoring and navigating in Dynamics 365 Guides 
 
-Hand-tracking in Microsoft HoloLens 2 provides instinctual interactions for authors. You can select and position holograms with direct 
+Hand-tracking in Microsoft [!include[pn-hololens](../includes/pn-hololens.md)] 2 provides instinctual interactions for authors. You can select and position holograms with direct 
 touch, just like real objects, and use hand rays to interact with holograms when they're out of reach. 
 
 >[!NOTE]
@@ -19,9 +19,9 @@ touch, just like real objects, and use hand rays to interact with holograms when
 
 ## Basic actions and gestures to know
 
-To author or navigate in HoloLens 2, you need to know how to do these actions and gestures:
+To author or navigate in [!include[pn-hololens](../includes/pn-hololens.md)] 2, you need to know how to do these actions and gestures:
 
-- **Touch**. With HoloLens 2 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can reach out and touch or grab holograms. This is the easiest and most intuitive way to author your guides. 
+- **Touch**. With [!include[pn-hololens](../includes/pn-hololens.md)] 2 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can reach out and touch or grab holograms. This is the easiest and most intuitive way to author your guides. 
 
     ![Touch dwell animation](media/touch-dwell-animation.gif "Touch dwell animation")
 
@@ -44,7 +44,7 @@ To author or navigate in HoloLens 2, you need to know how to do these actions an
 
 ### Gesture frame
 
-It’s also important to know about the gesture frame. HoloLens 2 has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or HoloLens won't see them. As you move around, the frame moves with you. When your hand is inside the frame, a hand ray will appear from your palm. When HoloLens can't see your hands and you’re looking at a UI element, you’ll see the gaze cursor in the center of your display.
+It’s also important to know about the gesture frame. [!include[pn-hololens](../includes/pn-hololens.md)] 2 has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or [!include[pn-hololens](../includes/pn-hololens.md)] won't see them. As you move around, the frame moves with you. When your hand is inside the frame, a hand ray will appear from your palm. When [!include[pn-hololens](../includes/pn-hololens.md)] can't see your hands and you’re looking at a UI element, you’ll see the gaze cursor in the center of your display.
 
 ## Work with close-up UI elements and holograms
 
@@ -76,7 +76,7 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 You can use hand rays to work with UI elements and holograms from a distance. You can use gaze to work with the instruction card from a distance, but you can’t manipulate holograms.
 
 >[!TIP]
->When you author a guide, if your hand is visible, hand rays are enabled and gaze is disabled. To use gaze, place your hands at your side so the HoloLens 2 device can’t see your hands.
+>When you author a guide, if your hand is visible, hand rays are enabled and gaze is disabled. To use gaze, place your hands at your side so the [!include[pn-hololens](../includes/pn-hololens.md)] 2 device can’t see your hands.
 
 ### To select a button or UI element with a hand ray
 
@@ -124,8 +124,6 @@ You can use hand rays to work with UI elements and holograms from a distance. Yo
  
     ![Gaze animation](media/gaze-animation.gif "Gaze animation")
    
-
-
 ## Open the Start menu
 
 You can open the **Start** menu on HoloLens 2 with one hand or two hands. If you're not sure what to do at any time, opening the **Start** menu is a good way to get reoriented.
