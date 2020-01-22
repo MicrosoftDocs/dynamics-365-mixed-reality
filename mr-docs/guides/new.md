@@ -41,6 +41,8 @@ The January 28 update includes the following new features:
 
 - Hologram stabilization is improved and optimized for HoloLens 2. 
 
+- Reorganized documention based on customer input to make it easier to find information based on role (admin, author, operator)
+
 ### October, 29, 2019
 
 The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on October 29 brings highly requested features for content creators: 
