@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
 
-After you anchor your guide in the Dynamics 365 Guides HoloLens app in **Author** mode, you’ll see the Step card screen. The Step card  is the hub of everything you do with your guide. The Step card is also what your operator will see when they use the guide. The Step card follows the operator around to keep the instructions where they need them as they move around their work space.
+After you anchor your guide in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app in **Author** mode, you’ll see the Step card screen. The Step card  is the hub of everything you do with your guide. The Step card is also what your operator will see when they use the guide. The Step card follows the operator around to keep the instructions where they need them as they move around their work space.
 
 You and your operators can navigate through a guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap to navigate through a guide. 
 
@@ -22,7 +22,7 @@ You and your operators can navigate through a guide by gazing at the **Next Step
 
 ## Get oriented with the Step card screen
 
-The following graphic shows the different user interface elements of the Step card screen in the HoloLens app.
+The following graphic shows the different user interface elements of the Step card screen in the [!include[pn-hololens](../includes/pn-hololens.md)] app.
 
 ![HoloLens buttons](media/step-card-orientation-2.PNG "HoloLens buttons")
  
@@ -34,7 +34,7 @@ Here’s what each button or UI element is used for:
 |2|![Undo button](media/undo-button.png "Undo button")|Undo|Undo the latest change. You can undo up to 100 changes.|
 |3|![Redo button](media/redo-button.png "Redo button")|Redo|Redo the latest change. You can redo up to 100 changes.|
 |4|![Home button](media/home-button.png "Home button")|Home|Choose a different guide.|
-|5|![Follow Mode button](media/follow-button.png "Follow Mode button")|Follow mode|Have the Step card follow you or lock it to a location.<br><br>Guides includes a feature called Follow mode. Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you turn off Follow mode, the card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. |
+|5|![Follow Mode button](media/follow-button.png "Follow Mode button")|Follow mode|Have the Step card follow you or lock it to a location.<br><br>[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a feature called Follow mode. Wherever you look, the Step card follows your gaze so you never have to worry where your instructions are. When you turn off Follow mode, the card stays where it is. You can just grab the card at any time by using the navigation bar to move it wherever you like. |
 |6|![Anchor button](media/anchor-button.PNG "Anchor button")|Anchor|Re-anchor (realign) your guide.<br><br>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this, you’ll need to re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.|
 |7|![Settings button](media/settings-button.png "Settings button")|Settings|Access the following settings:</br><br>- **Build number**. Shows the build you’re using.|
 |8|![Profile button](media/profile-button.png "Profile button")|Profile|Sign in and out.|
@@ -119,7 +119,7 @@ To place a 3D model from one of your bins:
 When you tap a 3D part to move it, you select it at the same time. When it's selected, when you put your hand down, the 3D controls remain until you preview or select another part, or air tap anywhere in empty space.
 
 >[!TIP]
->On HoloLens 2, you can manipulate holograms directly with your hands. To select a hologram, place your hand on it to show the 3D controls. Then grab the hologram, move it, and release to place it. Air tap anywhere in an empty space when you're done.
+>On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can manipulate holograms directly with your hands. To select a hologram, place your hand on it to show the 3D controls. Then grab the hologram, move it, and release to place it. Air tap anywhere in an empty space when you're done.
  
 #### Rotate a hologram
 
@@ -153,7 +153,7 @@ Up/down rotation
 ![Up/down rotation](media/up-down-rotation.PNG "Up/down rotation")
  
 >[!TIP]
->On HoloLens 2, you can operate the rotation controls with your hands. Grab one of the available rotation controls with your hand and rotate the hologram the way you want.
+>On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can operate the rotation controls with your hands. Grab one of the available rotation controls with your hand and rotate the hologram the way you want.
 
 ### Change the size of a hologram after placing it
 
@@ -162,7 +162,7 @@ Up/down rotation
    ![Change hologram size](media/scale-hologram.png "Change hologram size")
    
    >[!TIP]
-   >On HoloLens 2, you can grab the **Scale Hologram** control with your hand and move it up or down to change the size of the hologram. 
+   >On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can grab the **Scale Hologram** control with your hand and move it up or down to change the size of the hologram. 
 
 
 ## Add styles for emphasis
@@ -184,7 +184,7 @@ To place a style:
     ![Edit styles](media/edit-styles.png "Edit styles")
     
     >[!TIP]
-    >On HoloLens 2, you can reach out and select **Styles** and subsequent menu items directly with your finger.
+    >On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Styles** and subsequent menu items directly with your finger.
  
 4.	Select the style you want to use.
 
@@ -229,7 +229,7 @@ To duplicate a model:
     ![Duplicate button](media/edit-duplicate.png "Duplicate button")
     
     >[!TIP]
-    >On HoloLens 2, you can reach out and select **Duplicate** directly with your finger.
+    >On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Duplicate** directly with your finger.
     
 ## Turn off animations
 
