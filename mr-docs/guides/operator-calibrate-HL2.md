@@ -39,4 +39,4 @@ ms.reviewer: v-brycho
 
 ### See also
 
-[Gestures for navigating Dynamics 365 Guides](operator-gestures.md)
+[Gestures for navigating Dynamics 365 Guides](operator-gestures-HL2.md)
