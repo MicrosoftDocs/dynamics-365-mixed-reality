@@ -163,7 +163,7 @@ You can open the **Start** menu on HoloLens 2 with one hand or two hands. If you
 ## Need a tutorial on gestures?
 For a tutorial on some basic gestures, open the **Start** menu, and then select **Tips**. This closes the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app.
 
-### See also
+## See also
 
 [Operator gestures on HoloLens 2]()<br>
 [Calibrate HoloLens]()<br>
