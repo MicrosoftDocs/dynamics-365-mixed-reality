@@ -2,7 +2,7 @@
 author: BryceHo
 description: Known Issues with Dynamics 365 Guides
 ms.author: makamat
-ms.date: 10/01/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Known Issues with Dynamics 365 Guides
