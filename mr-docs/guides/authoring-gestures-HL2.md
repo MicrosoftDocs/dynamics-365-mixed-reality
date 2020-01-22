@@ -46,7 +46,7 @@ To author or navigate in [!include[pn-hololens](../includes/pn-hololens.md)] 2, 
 
 It’s also important to know about the gesture frame. [!include[pn-hololens](../includes/pn-hololens.md)] 2 has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or [!include[pn-hololens](../includes/pn-hololens.md)] won't see them. As you move around, the frame moves with you. When your hand is inside the frame, a hand ray will appear from your palm. When [!include[pn-hololens](../includes/pn-hololens.md)] can't see your hands and you’re looking at a UI element, you’ll see the gaze cursor in the center of your display.
 
-## Work with close-up UI elements and holograms
+## Work with close-up UI elements and holograms using touch
 
 For close-up UI elements and holograms, you can just reach out and touch or grab them with your hands. When your hand gets close enough to touch or grab a hologram, a visual appears around the control to let you know what that control does.
 
