@@ -21,7 +21,7 @@ touch, just like real objects, and use hand rays to interact with holograms when
 
 To author or navigate in [!include[pn-hololens](../includes/pn-hololens.md)] 2, you need to know how to do these actions and gestures:
 
-- **Touch**. With [!include[pn-hololens](../includes/pn-hololens.md)] 2 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can reach out and touch or grab holograms. This is the easiest and most intuitive way to author your guides. 
+- **Touch**. With [!include[pn-hololens](../includes/pn-hololens.md)] 2 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can reach out and touch or grab holograms. This is the easiest and most intuitive way to author your guides. As shown in the animation below, when [!include[pn-hololens](../includes/pn-hololens.md)] sees your hand, a floating cursor appears near the tip of your index finger to help you target elements.
 
     ![Touch dwell animation](media/touch-dwell-animation.gif "Touch dwell animation")
 
