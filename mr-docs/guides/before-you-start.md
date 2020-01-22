@@ -84,7 +84,7 @@ using video captions, if available, for noisy environments.
 
 3D content is best for adding in-context clarity. [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a 3D toolkit of 3D models that you can use to add 
 clarity to your instructions. For example, the 3D toolkit includes arrows, hands, zones, and icons. These assets are already 
-optimized for [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see the [Authoring guide](pc-authoring.md).
+optimized for [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see the [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
 
 You can also create and import your own custom 3D parts using CAD models. [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, and FBX file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models, or you can use the Import Tool’s concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information on the Import Tool and preparing 3D models, see these topics:
 
@@ -114,5 +114,5 @@ For example:
 ### See also
 
 [Overview of Dynamics 365 Guides authoring](authoring-overview.md)<br>
-[Author a guide using the PC application](pc-authoring.md)<br>
-[Test your guide and place holograms in the HoloLens app](hololens-authoring.md)<br>
+[Overview of authoring a guide in the PC application](pc-app-overview.md)<br>
+[Overview of authoring a guide in the HoloLens app](hololens-app-overview.md)<br>
