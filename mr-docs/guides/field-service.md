@@ -70,7 +70,7 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
    
    ![Create a new guide from Field Service](media/create-new-guide-from-field-service.PNG "Create a new guide from Field Service")   
 
-### See also
+## See also
 
 [Overview of Dynamics 365 Field Service](https://docs.microsoft.com/dynamics365/customer-engagement/field-service/overview)
       
