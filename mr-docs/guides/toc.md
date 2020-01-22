@@ -50,7 +50,7 @@
 #### [HoloLens 2](operator-gestures-HL2.md)
 ### [Anchor your guide](operator-anchor.md)
 ### [Operate your guide](operator-orientation.md)
-## [Analyze your organization's guides](analytics-guide.md)
+## [Analyze your guides](analytics-guide.md)
 ## [Get Help and provide feedback](help.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
