@@ -3,9 +3,9 @@
 ## Setup
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist-free.md)
-### [Buy Remote Assist](buy-and-deploy-remote-assist.md)
-### [Deploy](deploy-remote-assist.md)
-### [Configure cross-company calling](cross-company-calling.md)
+### [Buy + assign Remote Assist licenses](buy-and-deploy-remote-assist.md)
+### [Deployment checklist](deploy-remote-assist.md)
+### [Configure 3rd-party calling](cross-company-calling.md)
 ## Remote Assist on Hololens 1
 ### [Overview](user-guide.md)
 ### [Launch Remote Assist](launch-hololens-1.md)
@@ -41,7 +41,7 @@
 ### [Record calls](mobile-app/record-calls.md)
 ### [Send texts + voice messages](mobile-app/send-texts-voice-messages.md)
 ### [Update a Dynamics 365 Field Service work order](mobile-app/update-field-service-work-orders.md)
-## Collaborate in Microsoft Teams with Remote Assist users
+## Collaborate in Microsoft Teams with Remote Assist users (PC + mobile)
 ### [Making + taking calls](use-microsoft-teams-with-remote-assist.md)
 ### [Join a meeting](join-a-meeting-teams.md)
 ### [Add annotations](add-annotations-teams.md)
