@@ -231,8 +231,10 @@ Once you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license,
  
 ### See also
 
-[Video: Analyze your guides](https://aka.ms/guidesanalyze)<br>
-[Documentation: Overview of authoring a guide](authoring-overview.md)</br>
-[Documentation: Overview of operating a guide](operator-overview.md)</br>
-[FAQ](faq.md)
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides](https://aka.ms/guidesanalyze)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide](authoring-overview.md)</br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of operating a guide](operator-overview.md)</br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [FAQ](faq.md)
+
+
 
