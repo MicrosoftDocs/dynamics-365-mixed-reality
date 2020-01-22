@@ -62,7 +62,7 @@ A page in the PC Authoring application that you use to add tasks and steps. From
 A short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
 
 ## Step card
-The fundamental building block in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You add text and supporting assets to a Step card in the PC authoring application, and then place holograms associated with each step in a real-world environment in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see the [Authoring guide](pc-authoring.md).
+The fundamental building block in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You add text and supporting assets to a Step card in the PC authoring application, and then place holograms associated with each step in a real-world environment in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see the [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
 
 ## Style
 Visual properties that you can add to any 3D object to reinforce what you want the operator to do or know. Examples of styles include Pick up, Place, and Caution.
@@ -75,5 +75,5 @@ A piece of work to be done or undertaken. A task is made up of steps that the op
 ### See also
 
 [Overview of authoring a guide](authoring-overview.md)<br>
-[Operator's manual](operator-guide.md)<br>
+[Overview of operating a guide](operator-overview.md)<br>
 [Analyze your guides](analytics-guide.md)
