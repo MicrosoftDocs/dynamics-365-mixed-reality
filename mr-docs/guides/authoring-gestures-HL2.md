@@ -52,7 +52,7 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 
 ### To select a button
 
-- Push it with your index finger. The button’s collision area lights up as you approach the button.
+- Push it with your index finger. 
 
 ### To select a hologram
 - Touch the hologram with your index finger. The controls will appear.
