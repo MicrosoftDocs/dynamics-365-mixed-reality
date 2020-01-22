@@ -504,7 +504,7 @@ Shoot videos from a third-person or first-person perspective.
 ### See Also
 
 [Author a guide](authoring-overview.md)<br>
-[Operator's manual](operator-guide.md)<br>
+[Overview of operating a guide](operator-overview.md)<br>
 [Analyze your guides](analytics-guide.md)<br>
 [FAQ](faq.md)<br>
 [Known issues](known-issues.md)
