@@ -30,7 +30,7 @@ To author or navigate in [!include[pn-hololens](../includes/pn-hololens.md)] 2, 
 
 - **Hand ray**. To use a hand ray, hold your hand in front of you with your palm facing away. This causes a laser pointer (hand ray) to appear. After targeting an item with your hand ray, you can act on that target in different ways as described later in this topic.
 
-    ![Hand ray example](media/hand-ray-example.png "Hand ray example") 
+    ![Hand ray example](media/hand-rays-example.png "Hand ray example") 
 
 - **Gaze**. If the item has a selection box or circle (gaze/dwell button), you can select the item by gazing at it. The item is selected when the box or circle is filled. You will often use gaze and air tap together. When you gaze, turn your whole head—not just your eyes. The cursor will follow.
  
