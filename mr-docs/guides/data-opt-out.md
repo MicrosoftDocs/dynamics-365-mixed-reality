@@ -2,7 +2,7 @@
 author: Makamat
 description: Describes how to opt out of storing Dynamics 365 Guides usage data, for privacy reasons, in Common Data Service.
 ms.author: makamat
-ms.date: 07/09/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Opt out of storing Dynamics 365 Guides usage data in Common Data Service
