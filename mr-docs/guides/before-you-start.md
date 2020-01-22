@@ -111,7 +111,7 @@ For example:
 
 - atv_eng_video01.wmv
 
-### See also
+## What's next?
 
 [Overview of Dynamics 365 Guides authoring](authoring-overview.md)<br>
 [Overview of authoring a guide in the PC application](pc-app-overview.md)<br>
