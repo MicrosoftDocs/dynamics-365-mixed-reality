@@ -87,7 +87,7 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 
     ![Edit a hologram using touch](media/touch-edit-menu.gif "Edit a hologram using touch")
 
-## Work with far-away UI elements and holograms - using hand rays and gaze
+## Work with far-away UI elements and holograms using hand rays and gaze
 
 You can use hand rays to work with UI elements and holograms from a distance. You can use gaze to work with the instruction card from a distance, but you can’t manipulate holograms.
 
