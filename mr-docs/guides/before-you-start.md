@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Things to keep in mind before you start authoring in Dynamics 365 Guides (Preview), including media and file naming.
 ms.author: mamaylya
-ms.date: 05/30/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Things to keep in mind before you start authoring in Dynamics 365 Guides (Preview)
