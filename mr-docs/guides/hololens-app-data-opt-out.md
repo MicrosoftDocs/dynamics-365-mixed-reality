@@ -22,6 +22,6 @@ To turn telemetry data off for [!include[pn-hololens](../includes/pn-hololens.md
 > [!NOTE]
 > This option applies only to the device on which it's set. If you use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on more than one device, you need to modify the setting on those other devices. To turn this setting off for the PC application, see [Author a guide in the PC application](pc-app-overview.md). 
 
-### See also
+## See also
 
 [Opt out of sending telemetry data in the PC app](data-opt-out-pc-app.md)
