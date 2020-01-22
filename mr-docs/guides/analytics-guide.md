@@ -229,7 +229,7 @@ Once you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license,
 
 3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-distribute-apps).  
  
-### See also
+## See also
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides](https://aka.ms/guidesanalyze)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide](authoring-overview.md)</br>
