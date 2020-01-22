@@ -26,7 +26,7 @@ To author or navigate in HoloLens 2, you need to know how to do these actions an
     ![Touch dwell animation](media/touch-dwell-animation.gif "Touch dwell animation")
 
     >[!IMPORTANT]
-    >Use touch interaction to place parts in the world. In Dynamics 365 Guides, instructions are meant to be kept out of the way so they're out of reach for touch interaction. 
+    >Use touch interaction to place parts in the world. In Dynamics 365 Guides, instruction cards (Step cards) are meant to be kept out of the way so they're out of reach for touch interaction. 
 
 - **Hand ray**. To use a hand ray, hold your hand in front of you with your palm facing away. This causes a laser pointer (hand ray) to appear. After targeting an item with your hand ray, you can act on that target in different ways as described later in this topic.
 
