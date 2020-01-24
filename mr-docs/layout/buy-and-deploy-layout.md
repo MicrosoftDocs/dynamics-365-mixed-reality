@@ -108,8 +108,8 @@ For information on installing [!include[pn-dyn-365-layout](../includes/pn-dyn-36
 see the [Dynamics 365 Layout user guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
 > [!NOTE]
-> <ul><li>When users launch [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 admin center.</li>
-> <li>[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] requires users to be online once every 30 days to validate their subscription.</li></ul>
+> <ul><li>When users launch Dynamics 365 Layout, they’ll need to use the same Azure AD account that the admin assigned in the Microsoft 365 admin center.</li>
+> Dynamics 365 Layout requires users to be online once every 30 days to validate their subscription.</li></ul>
 
 ### Distribute the app through Microsoft Store for Business
 
