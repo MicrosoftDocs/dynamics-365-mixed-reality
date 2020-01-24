@@ -1,7 +1,7 @@
 ---
 author: rroesler
 description: Admin tasks for Dynamics 365 Product Visualize, including adding groups, products, opportunities, and the Product Visualize control
-ms.date: 01/17/2020
+ms.date: 01/27/2020
 ms.author: rroesler
 ms.service: crm-online
 ms.topic: article

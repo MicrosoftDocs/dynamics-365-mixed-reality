@@ -2,7 +2,7 @@
 author: mamithan
 description: Frequently asked questions about Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 01/17/2020
+ms.date: 01/27/2020
 ms.service: crm-online
 ms.topic: article
 title: Frequently asked questions about Dynamics 365 Product Visualize

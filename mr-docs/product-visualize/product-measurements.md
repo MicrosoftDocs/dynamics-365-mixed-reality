@@ -4,7 +4,7 @@ description: Enable product measurements to see model dimensions in Dynamics 365
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 01/17/2020
+ms.date: 01/27/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -12,7 +12,7 @@ ms.reviewer:
 
 # Enable product measurements
 
-Product Visualize has a tool to display your model measurements in Imperial or Metric units. To view model measurements, you need to first enable Product Measurements feature. 
+Product Visualize has a tool to display your model measurements in Imperial or Metric units. To display model measurements, must enable the Product Measurements feature. 
 
 > [!NOTE]
 > Product measurements is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
@@ -44,3 +44,14 @@ To enable product measurements:
     > [!div class=mx-imgBorder]
     > ![Select measurement unit](media/select-measurement-unit.png "Select measurement unit")
 
+## Display model dimensions
+
+1. Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then select **Dimensions** on the right side of the screen.
+
+    > [!div class=mx-imgBorder]
+    > ![Dimensions button](media/dimensions-button.png "Dimensions button")
+
+2. The model dimensions are displayed as per the selected measurement units.
+
+    > [!div class=mx-imgBorder]
+    > ![Model dimensions](media/model-dimensions.png "Model dimensions")

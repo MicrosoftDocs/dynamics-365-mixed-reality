@@ -2,7 +2,7 @@
 author: mamithan
 description: How to place, resize, rotate, move, and lift 3D models in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 01/17/2020
+ms.date: 01/27/2020
 ms.service: crm-online
 ms.topic: article
 title: Place and manipulate 3D models in Dynamics 365 Product Visualize
@@ -28,16 +28,15 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
     ![Products screen showing multiple products](media/products-screen.PNG "Products screen showing multiple products")
     
-3.	In a brightly lit environment, point your device down toward a flat surface like the floor or a desk. Move your device around slowly to allow Dynamics 365 Product Visualize to find the surface.
+3.	In a brightly lit environment, point your device down towards a flat surface like the floor or a desk. Move your device around slowly to allow Dynamics 365 Product Visualize to find the surface. After you find a suitable surface, you'll see the model-loading indicator and a message that a surface has been found.
 
     > [!div class=mx-imgBorder]
-    > ![Advice on finding a plane](media/find-plane.PNG "Advice on finding a plane")
+    > ![Find a surface](media/preface-find-surface.png "Find a surface")
 
-    After you find a suitable surface, you'll see the model-loading indicator.
-      
-4.  To place the model, select **Place** on the right side of the screen.
+4.  To place the model, select **Place** on the right side of the screen. The model is placed at the surface.
 
-    ![Place model item](media/place-model.PNG "Place model item")
+    > [!div class=mx-imgBorder]
+    > ![Place model item](media/preface-model-placed.png "Place model item")
     
     > [!TIP]
     > If you want to see dimensions for the model, enable the **Product measurements feature**. To enable this feature, see [Enable product measurements](product-measurements.md). After enabling the feature, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
@@ -48,27 +47,31 @@ Chances are, you'll want to move, rotate, or change the size of your model in so
 
 ### Change the size of your model
 
-Spread or pinch two fingers on the screen to change the size of the model.
+Spread or pinch with two fingers on the screen to change the size of the model.
 
-![Resize item](media/resize.png "Resize an item")
+> [!div class=mx-imgBorder]
+> ![Resize a model](media/resize.png "Resize a model")
 
 ### Rotate your model  
 
-Rotate two fingers on the screen to rotate the model.
+Rotate with two fingers on the screen to rotate the model.
 
-![Rotate item](media/rotate.png "Rotate an item")
+> [!div class=mx-imgBorder]
+> ![Rotate a model](media/rotate.png "Rotate a model")
 
 ### Move the model
 
-To move the model sideways, drag one finger on the screen.
+To move the model sideways, drag with one finger on the screen.
 
-![Move item](media/move.png "Move an item")
+> [!div class=mx-imgBorder]
+> ![Move a model](media/move.png "Move a model")
 
 ### Move the model up or down
 
-To move the model up or down, drag two fingers up or down on the screen.
+To move the model up or down, drag with two fingers up or down on the screen.
 
-![Lift item](media/lift.png "Lift an item")
+> [!div class=mx-imgBorder]
+> ![Lift a model](media/lift.png "Lift a model")
 
 ## Switch to a different model
 

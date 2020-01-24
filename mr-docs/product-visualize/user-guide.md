@@ -55,7 +55,7 @@ If you're going to be in a location with low internet connectivity, you can down
 > ![Model downloaded for offline availability](media/preface-offline-model.png "Model downloaded for offline availability")
 
 > [!IMPORTANT]
-> This user guide describes features available in version 1.8 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).
+> This user guide describes features available in version 1.9 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).
 
 This user guide describes everything you need to know about working with the app. It shows you how to:
 

@@ -27,7 +27,7 @@ The following table shows how notes appear on the model, depending on where the 
 
 ## Add a note
 
-1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then select **Notes** from the right side of the screen.
+1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then select **Notes** on the right side of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
