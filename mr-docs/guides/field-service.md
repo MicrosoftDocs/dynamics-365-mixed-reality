@@ -58,9 +58,13 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
 
     ![Select guide](media/select-guide-3.PNG "Select guide")   
     
-    
+
 > [!NOTE]
-> Keep the following in mind:<br><br>- The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app shows work orders scheduled for the current day and the following eight days.<br>- Work orders continue to appear on [!include[pn-hololens](../includes/pn-hololens.md)] until they're marked as **Complete** in [!include[pn-field-service](../includes/pn-field-service.md)] or assigned to someone else.
+> Keep the following points in mind:
+>
+> - The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app shows work orders that are scheduled for the current day and the following eight days.
+>
+> - Work orders continue to appear on [!include[pn-hololens](../includes/pn-hololens.md)] until they are either marked as **Complete** in [!include[pn-field-service](../includes/pn-field-service.md)] or assigned to someone else.
 
 ### Known issues
 
