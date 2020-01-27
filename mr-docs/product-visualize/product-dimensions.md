@@ -1,6 +1,6 @@
 ---
-title: Enable product measurements in Dynamics 365 Product Visualize
-description: Enable product measurements to see model dimensions in Dynamics 365 Product Visualize.
+title: Enable product dimensions in Dynamics 365 Product Visualize
+description: Enable product dimensions to see model dimensions in Dynamics 365 Product Visualize.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
@@ -10,23 +10,23 @@ ms.topic: article
 ms.reviewer:
 ---
 
-# Enable product measurements
+# Enable product dimensions
 
-Product Visualize has a tool to display your model measurements in Imperial or Metric units. To display model measurements, must enable the Product Measurements feature. 
+Product Visualize has a tool to display your model measurements in Imperial or Metric units. To display model dimensions, must enable the Product dimensions feature. 
 
 > [!NOTE]
-> Product measurements is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
+> Product dimensions is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 
-To enable product measurements:
+To enable product dimensions:
 
 1. Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then select **Preview features**.
 
    ![Preview features](media/preview-features.PNG "Preview features")
 
-2. In the **Feature Settings** screen, under **Preview features**, slide the **Product measurements feature** setting to **On**.
+2. In the **Feature Settings** screen, under **Preview features**, slide the **Product dimensions** toggle to **On**.
 
     > [!div class=mx-imgBorder]
-    > ![Product measurements feature](media/product-measurements-feature.png "Product measurements feature")
+    > ![Product dimensions feature](media/product-measurements-feature.png "Product dimensions feature")
 
 ## Set measurement units
 

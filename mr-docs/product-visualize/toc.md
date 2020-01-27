@@ -14,7 +14,7 @@
 ### [View 3D models stored on your device](browse-models.md)
 ### [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)
 ### [Download 3D models to use offline](download-models.md)
-### [Enable product measurements](product-measurements.md)
+### [Enable product dimensions](product-dimensions.md)
 ## [Prepare 3D CAD models](create-3D-model.md)
 ## [FAQ](faq.md)
 ## [Terms of use](../legal/slt-dynamics365-provis-iospre.md)
