@@ -19,7 +19,7 @@ ms.reviewer: v-brycho
 
 ## Sign in to the HoloLens app
 
-If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)] device, you will be prompted to complete the **Setup** wizard. In the **Setup** wizard, you can either sign in by using an existing account or create a new account, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you're running. The **Setup** wizard also guides you through steps to calibrate and prepare [!include[pn-hololens](../includes/pn-hololens.md)] for use. For more information about calibration, see the "First things first" section of this topic.
+If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)] device, you will be prompted to complete the **Setup** wizard. In the **Setup** wizard, you can either sign in by using an existing account or create a new account, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you're running. The **Setup** wizard also guides you through steps to calibrate and prepare [!include[pn-hololens](../includes/pn-hololens.md)] for use. 
  
 ## Open and sign in to HoloLens for the first time
 
