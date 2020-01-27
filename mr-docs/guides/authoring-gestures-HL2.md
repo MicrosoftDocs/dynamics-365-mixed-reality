@@ -176,7 +176,7 @@ For a tutorial on some basic gestures, open the **Start** menu, and then select 
 
 ## See also
 
-[Operator gestures on HoloLens 2](operator-gestures-HL2.md)<br>
-[Calibrate HoloLens](operator-calibrate-HL2.md)<br>
-[Authoring and navigating gestures on HoloLens 1](authoring-gestures.md)<br>
-[Operator gestures on HoloLens 1](operator-gestures.md)
+[HoloLens 2 gestures for operating (navigating) a guide](operator-gestures-HL2.md)<br>
+[Calibrate HoloLens 2](operator-calibrate-HL2.md)<br>
+[HoloLens 1 gestures for authoring and navigating a guide](authoring-gestures.md)<br>
+[HoloLens 1 gestures for operating (navigating) a guide](operator-gestures.md)
