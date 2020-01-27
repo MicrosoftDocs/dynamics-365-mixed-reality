@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Create steps and add 3D content or media to support those steps in the Dynamics 365 Guides PC app.
+description: Create steps and add 3D content or media to support those steps in the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
@@ -11,162 +11,170 @@ ms.reviewer: v-brycho
 
 # Create steps and add 3D models or 2D media in the Dynamics 365 Guides PC app
 
-Steps are the central building block for creating a guide in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. After creating the [structure for your guide in the **Outline** page](structure-guide.md), you add instructional text and 3D models or media to support those steps in the **Step Editor**. The instructions you create in the WYSIWYG **Step Editor** match what the operator will see in the Step card on [!include[pn-hololens](../includes/pn-hololens.md)]. The following graphic shows the **Step Editor** in the PC app and the Step card that the user sees on [!include[pn-hololens](../includes/pn-hololens.md)].
+Steps are the central building block for creating a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. After you create the [structure for your guide on the **Outline** page](structure-guide.md), you use the Step Editor to add instructional text and 3D models or media to support those steps. The instructions that you create in the what-you-see-is-what-you-get (WYSIWYG) Step Editor match what the operator will see on the Step card on [!include[pn-hololens](../includes/pn-hololens.md)]. The following illustration shows the Step Editor in the PC app and the Step card that the user sees on [!include[pn-hololens](../includes/pn-hololens.md)].
 
 ![Step Editor and Step card](media/step-editor-step-card.PNG "Step Editor and Step card")
 
 ## Open the Step Editor and add instructions
 
-You open the **Step Editor** from the **Outline** page.
+You open the **Step Editor** page from the **Outline** page.
 
-1. Select any step on the **Outline** page, or select **Step** in the left navigation. 
+1. Select any step on the **Outline** page, or select **Step** in the left navigation.
 
-   ![Step command in left navigation](media/left-nav-step.PNG "Step command in left navigation")
+    ![Step on the Outline page and Step command in the left navigation](media/left-nav-step.PNG "Step on the Outline page and Step command in the left navigation")
 
-2. Enter your instructional text in the blue rectangle in the middle of the screen.
+2. Enter your instructional text in the blue rectangle in the middle of the page.
 
-   ![Step Editor](media/step-editor.PNG "Step Editor")
+    ![Step Editor](media/step-editor.PNG "Step Editor")
 
-3. When you're ready to add another step, select **Add new step** in the upper-right corner of the screen.
+3. When you're ready to add another step, select **Add new step** in the upper-right corner of the page.
 
 ### Best practices for instructional text and supporting content
 
-- Don’t be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step.
+- Don't be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step.
 
-- Write your guide in casual human language for best results. Avoid technical jargon.
+- For the best results, write your guide in casual human language. Avoid technical jargon.
 
-- Use descriptive words. Examples: locate, find, get, go to, pick up, put down, insert, attach, remove.
+- Use descriptive words, such as *locate*, *find*, *get*, *go to*, *pick up*, *put down*, *insert*, *attach*, and *remove*.
 
-- Adding a **NOTE** step is useful for quality checks. This type of step can come before or after another step. Just make sure to put it in the right spot.
+- **NOTE** steps are useful for quality checks. This type of step can come before or after another step. Just be sure to add it in the right place.
 
 - Add a **WARNING** step for things that could be dangerous or cause a quality issue. To reinforce the warning, you can [add a style in the HoloLens app](create-steps-assign-media.md).
 
-- Adding sub-steps inside a step can be helpful, but don’t be afraid to create separate steps for easier reading.
+- Sub-steps inside a step can be helpful, but don't be afraid to create separate steps for easier reading.
 
-- When you’re done writing a step, be sure to move the cursor outside of the text box to activate AutoSave.
+- When you've finished writing a step, be sure to move the cursor outside the text box to activate AutoSave.
 
-- Try to stick to one type of content per step. Too much media or 3D content can be overwhelming to the operator and too time-consuming to absorb. Think about what type of content gets the point across best.
+- Try to use limit yourself to one type of content per step. Too much media or 3D content can overwhelm the operator and can be too time-consuming to absorb. Think about the type of content that best gets the point across.
 
 ## Go to other pages from the Step Editor page
 
-Use the buttons in the navigation bar on the left side of the **Step Editor** page to get to other pages in the PC app. The following table describes the navigation bar buttons.
+Use the buttons in the navigation pane on the left side of the **Step Editor** page to go to other pages in the PC app. The following table describes the buttons in the navigation pane.
 
-|Button|Name|Action|
-|--------|----------------|----------------------------------------------------------|
-|![Open Navigation button](media/open-navigation-button.png "Open Navigation button")|**Open Navigation**|Expand the navigation bar to include descriptors for each button.|
-|![Home button](media/home-button-pc-app.png "Home button")|**Home**|Go to the **Welcome** page. In the **Welcome** page, you can create a new guide or open an existing guide.|
-|![Analyze button](media/analyze-button-pc-app.png "Analyze button")|**Analyze**|Go to the **Analyze** page. In the **Analyze** page, you can set up Power BI reports (Guides Analytics) to analyze your guides.|
-|![Anchor button](media/anchor-button-pc-app.png "Anchor button")|**Anchor**|Go to the **Choose an anchor method** wizard. In the wizard, you can choose from different anchor methods for your guide or change the type of anchoring method.|
-|![Outline button](media/outline-button-pc-app.png "Outline button")|**Outline**|Go to the **Outline** page. In the **Outline** page, you can structure or restructure your guide. You can also access the **Choose an an anchor method** wizard from this page.|
+| Button | Name | Action |
+|---|---|---|
+| ![Open Navigation button](media/open-navigation-button.png "Open Navigation button") | Open Navigation | Expand the navigation pane so that it includes a description for each button. |
+| ![Home button](media/home-button-pc-app.png "Home button") | Home | Go to the **Welcome** page, where you can create a new guide or open an existing guide. |
+| ![Analyze button](media/analyze-button-pc-app.png "Analyze button") | Analyze | Go to the **Analyze** page, where you can set up Microsoft Power BI reports (Guides Analytics) to analyze your guides. |
+| ![Anchor button](media/anchor-button-pc-app.png "Anchor button")| Anchor | Open the **Choose an anchor method** wizard, where you can select different anchor methods for your guide or change the type of anchoring method. |
+| ![Outline button](media/outline-button-pc-app.png "Outline button")| Outline | Go to the **Outline** page, where you can structure or restructure your guide. You can also open the **Choose an anchor method** wizard from that page. |
 
 ## What can you add to help operators with a step?
 
-You can add 3D content, media, or website links to help operators complete a step. The following table describes the different types of content you can add.
+You can add 3D content, media, or website links to help operators complete a step. The following table describes the different types of content that you can add.
 
-|Content type|Description|Example|
-|-------------------------|---------------------------------------------|----------------------------------------------------------|
-|3D models from the 3D toolkit|Ready-to-use 3D models such as numbers, arrows, and hands|Holographic arrow that helps operators find a focus area|
-|3D part|3D models specific to your company|3D part hologram that helps operators find a 3D part in the real world|
-|Image|2D image file|Diagram that helps operators complete a complex step|
-|Video|Video file|Short video that helps operators complete a complex step|
-|Website link|Link to an external website|Link to a parts inventory system|
+| Content type | Description | Example |
+|---|---|---|
+| 3D models from the 3D toolkit | Ready-to-use 3D models, such as numbers, arrows, and hands | A holographic arrow that helps operators find a focus area |
+| 3D part | 3D models that are specific to your company | A 3D part hologram that helps operators find a 3D part in the real world |
+| Image | A 2D image file | A diagram that helps operators complete a complex step |
+| Video | A video file | A short video that helps operators complete a complex step |
+| Website link | A link to an external website | A link to a parts inventory system |
 
 ## Add a 3D model from the 3D toolkit
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] comes with a library of predefined 3D objects, which are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following picture shows an example of using holographic numbers, arrows, and zones to help operators complete a step.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a library of predefined 3D objects that are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following illustration shows an example where holographic numbers, arrows, and zones are used to help operators complete a step.
 
 ![Example of holographic numbers, arrows, and zones](media/3d-toolkit-example.PNG "Example of holographic numbers, arrows, and zones")
 
-You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you like in a step.
+You can mix and match different types of 3D models. You can also use the same object (instance) as many times as you want in a step.
 
-To add a model from the 3D toolkit:
+To add a model from the 3D toolkit, follow these steps.
 
-1. On the right side of the screen, select the **3D toolkit** tab, and then select the category for the type of item you want to add.
+1. On the right side of the page, select the **3D toolkit** tab, and then select the category for the type of item that you want to add.
 
-   ![Select 3D toolkit](media/select-3D-toolkit.PNG "Select 3D toolkit")
+    ![3D toolkit tab](media/select-3D-toolkit.PNG "3D toolkit tab")
 
-3. Drag the 3D model you want to one of the **3D parts** boxes. 
+2. Drag the 3D model that you want to one of the **3D parts** boxes.
 
-   ![Drag a model to 3D parts box](media/select-arrow.PNG "Drag a model to 3D parts box")  
+    ![Dragging a 3D model to a 3D parts box](media/select-arrow.PNG "Dragging a 3D model to a 3D parts box")
 
 > [!NOTE]
-> You can also add 3D models from the 3D toolkit directly in the [!include[pn-hololens](../includes/pn-hololens.md)] app. 
+> You can also add 3D models from the 3D toolkit directly in the [!include[pn-hololens](../includes/pn-hololens.md)] app.
 
 ### Best practices for the 3D toolkit
 
-- Use pointers to communicate simple spatial information like position, direction, and translation. You can adjust the size of the pointer, but never go below 1 cm. Otherwise, it can cause errors.
+- Use pointers to communicate simple spatial information, such as position, direction, and translation. You can adjust the size of the pointer, but you should never reduce it below 1 cm. Otherwise, errors can occur.
 
-- Use the arrow when you want the operator to insert a part into something stationary (hand tightening a bolt into a tapped hole, for example). 
+- Use the arrow when you want the operator to insert a part into something stationary (for example, to hand-tighten a bolt into a tapped hole).
 
-- Use one of the hand poses when you want the operator to use their hand in a specific way to influence or manipulate something. There are various poses for specific interactions such as Pull, Push, Pinch, Grab, and others. Combine these standards with arrows and/or icons to add additional meaning.
+- Use one of the hand poses when you want the operator to use his or her hand in a specific way to influence or manipulate something. There are various poses for specific interactions, such as Pull, Push, Pinch, and Grab. Combine these standard poses with arrows and/or icons to add additional meaning.
 
-For more information on ways to use objects from the 3D toolkit, see [Create a great guide](great-guide.md).
-  
+For more information about ways to use objects from the 3D toolkit, see [Create a great guide](great-guide.md).
+
 ## Add a 3D part
 
-1. On the right side of the screen, select the **3D parts** tab.
+1. On the right side of the page, select the **3D parts** tab.
 
-   ![Select 3D parts](media/select-3D-parts.PNG "Select 3D parts")
+    ![3D parts tab](media/select-3D-parts.PNG "3D parts tab")
 
-2. Drag the 3D part that you want to one of the **3D parts** boxes. 
+2. Drag the 3D part that you want to one of the **3D parts** boxes.
 
-   ![Drag a model to 3D parts box](media/drag-3D-part.PNG "Drag a model to 3D parts box") 
-  
+    ![Dragging a 3D part to a 3D parts box](media/drag-3D-part.PNG "Dragging a 3D part to a 3D parts box")
+
 ## Import a custom 3D model to use as a 3D part<a name="import"></a>
 
-You can import your own custom 3D models to add to the **3D parts** library. You can can drag and drop files from a local file folder to import them or use the **Import** command.
+You can import your own custom 3D models and add them to the **3D parts** library. To import files, you can drag them from a local file folder or use the **Import** command.
 
-### Import a file by using drag and drop
+### Import a file by using a drag-and-drop operation
 
-1. Open Windows File Explorer, and then go to the folder that contains the 3D model(s). 
+1. Open Windows File Explorer, and go to the folder that contains the 3D models that you want to import.
 
-2. Drag the file(s) to the gallery.
+2. Drag the files to the gallery.
 
-   ![Drag and drop animation](media/drag-drop.gif "Drag and drop animation")
+    ![Drag-and-drop animation](media/drag-drop.gif "Drag-and-drop animation")
 
-### Import a file by using the **Import** command  
+### Import a file by using the Import command
 
-1.	Select the **Import** command in the lower-right corner of the screen. 
+1.	Select **Import** in the lower-right corner of the page.
 
-    ![Import command](media/import-command.PNG "Import command")
+    ![Import button](media/import-command.PNG "Import button")
 
-2.	Locate the file(s) you want to import, and then select **Open**.
+2.	Find the files that you want to import, and then select **Open**.
 
-    ![Import custom 3D part](media/import-object.PNG "Import custom 3D part")
-    
+    ![Importing a custom 3D part](media/import-object.PNG "Importing a custom 3D part")
+
 > [!NOTE]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (CAD) models, or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], see these topics:<br>- [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)<br>- [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)<br>- [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)<br>- [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (computer-aided design \[CAD\]) models, or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], see these topics:
+>
+> - [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)
+>
+> - [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)
+>
+> - [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)
+>
+> - [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
 
-## Add media (image or video)
+## Add media (images or videos)
 
-1. On the right side of the screen, select the **Images** or **Videos** tab.
+1. On the right side of the page, select the **Images** or **Videos** tab.
 
-   ![Select Images or Videos](media/select-image-video.PNG "Select Images or Videos")
+    ![Images and Videos tabs](media/select-image-video.PNG "Images and Videos tabs")
 
-2. Drag the image or video to the **Image or video** box. 
+2. Drag the image or video to the **Image or video** box.
 
-   ![Drag image or video](media/drag-image-video.PNG "Drag image or video")
-     
+    ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
+
 ## Add a website link to a step
 
-You can add a website link to a step so operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about IoT sensors. Website links enable authors to create a seamless workflow for operators.
+You can add a website link to a step so that operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about Internet of Things (IoT) sensors. Website links let authors create a seamless workflow for operators.
 
->[!NOTE]
->Only one website link can be added to each step.
+> [!NOTE]
+> Only one website link can be added to each step.
 
-1.	On the right side of the screen, select the **Action** tab. 
+1. On the right side of the page, select the **Action** tab.
 
     ![Action tab](media/action-tab.PNG "Action tab")
  
-2.	Drag the **Website link** graphic to the **Action** circle in the lower-right corner of the Step card.
+2. Drag the **Website link** symbol to the **Action** circle in the lower-right corner of the Step card.
 
-    ![Website link graphic](media/action-circle.PNG "Website link graphic") 
+    ![Dragging the Website link symbol to the Action circle](media/action-circle.PNG "Dragging the Website link symbol to the Action circle")
 
-3.	In the **Website link** dialog box, enter a valid URL that begins with **http://** or **https://**, and then select **Save**.
- 
+3. In the **Website link** dialog box, enter a valid URL that begins with **http://** or **https://**, and then select **Save**.
+
     ![Website link dialog box](media/website-dialog.PNG "Website link dialog box")
 
-4.	To view, edit, or delete the link, right-click the **Website link** button in the **Step Editor**.
+4. To view, edit, or delete the link, right-click the **Website link** button in the **Step Editor**.
 
     ![Website link button](media/website-button.PNG "Website link button")
 
@@ -175,5 +183,4 @@ You can add a website link to a step so operators can see and interact with info
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Learn what makes a great mixed reality guide](great-guide.md)<br>
-[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
-
+[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)
