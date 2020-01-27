@@ -20,10 +20,10 @@ When you're working with [!include[cc-microsoft](../includes/cc-microsoft.md)] [
 A library of predefined objects included in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you can use to get started right away. For example, there are 3D objects such as pointers and arrows that you can add to a step to support that step.
 
 ## Air tap
-A gesture that’s equivalent to a “click” with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
+A gesture that's equivalent to a "click" with a mouse. For more information on how to do an air tap, see [Gestures to know](authoring-gestures.md).
 
 ## Anchoring (alignment)
-The process of making sure that a guide “lines up” with associated objects in the real world when used on [!include[pn-hololens](../includes/pn-hololens.md)]. Anchoring is crucial and mandatory for creating any guide. For more information, see the [Anchor your guides in the real world](anchor.md).
+The process of making sure that a guide "lines up" with associated objects in the real world when it's used on [!include[pn-hololens](../includes/pn-hololens.md)]. Anchoring is a crucial and mandatory part of creating any guide. For more information, see [Anchor your guides in the real world](anchor.md).
 
 ## Author
 The person who creates a guide.
@@ -35,10 +35,10 @@ A process in which [!include[pn-hololens](../includes/pn-hololens.md)] adjusts t
 A 3D representation used to anchor holograms in the real world. You place the digital representation, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor.
 
 ## Dotted line
-A holographic link that ties a step visually to the area where you want the operator to focus. It helps the operator find content or understand what they’re supposed to be looking at in the real world. You can use a holographic dotted line together with a 3D object, such as a holographic arrow or number. 
+A holographic link that ties a step visually to the area where you want the operator to focus. It helps the operator find content or understand what they're supposed to be looking at in the real world. You can use a holographic dotted line together with a 3D object, such as a holographic arrow or number. 
 
 ## Field of view (fov)
-The size of the [!include[pn-hololens](../includes/pn-hololens.md)] display where holograms show up. It’s important to keep the field of view in mind when placing holograms in a real-world environment.
+The size of the [!include[pn-hololens](../includes/pn-hololens.md)] display where holograms show up. It's important to keep the field of view in mind when placing holograms in a real-world environment.
 
 ## Gaze
 The act of looking at a user interface element with [!include[pn-hololens](../includes/pn-hololens.md)]. In some cases, you can select an item just by gazing at it. In other cases, you use gaze to target an object and then act on that target with a gesture.
@@ -47,7 +47,7 @@ The act of looking at a user interface element with [!include[pn-hololens](../in
 A hand movement that enables an operator to do an action in mixed reality. For more information, see [Gestures to know](authoring-gestures.md).
 
 ## Interpupillary distance (IPD)
-The distance between a user’s eyes. Different users have different IPDs. To align content correctly, [!include[pn-hololens](../includes/pn-hololens.md)] needs to be calibrated for each user’s IPD. 
+The distance between a user's eyes. Different users have different IPDs. To align content correctly, [!include[pn-hololens](../includes/pn-hololens.md)] needs to be calibrated for each user's IPD. 
 
 ## Marker
 A computer-generated visual used for printed anchors. You gaze at the printed marker to align the guide with its spatial coordinates.
@@ -62,7 +62,7 @@ A page in the PC Authoring application that you use to add tasks and steps. From
 A short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
 
 ## Step card
-The fundamental building block in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You add text and supporting assets to a Step card in the PC authoring application, and then place holograms associated with each step in a real-world environment in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see the [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
+The fundamental building block in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You first add text and supporting assets to a Step card in the PC Authoring application. You then place holograms that are associated with each step in a real-world environment in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. The operator works through each step to complete a task or series of tasks. For more information about Step cards, see [Create steps and add 3D models or 2D media](create-steps-assign-media.md).
 
 ## Style
 Visual properties that you can add to any 3D object to reinforce what you want the operator to do or know. Examples of styles include Pick up, Place, and Caution.
