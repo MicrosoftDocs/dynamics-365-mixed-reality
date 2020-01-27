@@ -19,11 +19,11 @@ To create a guide, you use two applications:
 add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
 Supporting assets include:
 
-  - Your custom 3D models
-  
-  - 3D models from the 3D toolkit (arrows and numbers, for example)
-  
-  - 2D media (images and videos)
+    - Your custom 3D models
+
+    - 3D models from the 3D toolkit (arrows and numbers, for example)
+
+    - 2D media (images and videos)
 
 - **[!include[pn-hololens](../includes/pn-hololens.md)] application in Author mode.** After creating the guide with the PC application, use the [!include[pn-hololens](../includes/pn-hololens.md)] application in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles for 3D objects (warning or caution, for example).
 
@@ -31,10 +31,9 @@ Supporting assets include:
     
 Ready to jump in? Choose one or more of these links to get underway:
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on PC authoring](https://aka.ms/pcauthor)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about PC authoring](https://aka.ms/pcauthor)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide with the PC app](pc-app-overview.md)
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on HoloLens authoring](https://aka.ms/hololensauthor)  
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about HoloLens authoring](https://aka.ms/hololensauthor)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide with the HoloLens app](hololens-app-overview.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Gestures for authoring and navigating](authoring-gestures.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [How to make a great guide](great-guide.md)
-
