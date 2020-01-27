@@ -128,7 +128,7 @@ Incorrect alignment of holograms can happen for two main reasons:
 
 - If the guide is aligned by using a **printed anchor**, the marker for the guide might not have been printed properly. Try realigning the guide by selecting the **Anchor** button. Alternatively, you can reprint the marker. Make sure that the printed marker lies flat in the work area before you realign.
 
-For more information about anchoring methods, see the [Anchor your guide in the real world](anchor.md).
+For more information about anchoring methods, see [Anchor your guide in the real world](anchor.md).
 
 ## What does the Save button with the refresh icon mean? How does Save work?
 
