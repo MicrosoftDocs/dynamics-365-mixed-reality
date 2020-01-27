@@ -17,33 +17,33 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 The January 28 update includes the following new features:
 
-- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms with direct touch, just like real objects. Use hand rays to interact with holograms when they're out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works the same as before since [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn’t support hand tracking. 
+- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms by using direct touch, just as if they were real objects. Use hand rays to interact with holograms when they are out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works just as it worked before, because [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn't support hand tracking.
 
-- Authors can add a website link to a step in a guide. Use a website link to display a PDF hosted on your server, show a form, or show data from your online IoT devices for the operator to review.
+- Authors can add a website link to a step in a guide. Use a website link to show a PDF that is hosted on your server, show a form, or show data from your online Internet of Things (IoT) devices for the operator to review.
 
-- Administrators can assign **Author** and **Operator** roles to users so that editing is only enabled for authors. 
+- Admins can assign **Author** and **Operator** roles to users, so that editing is available only for authors.
 
-- Drag and drop multiple files from your local file folder into the PC app gallery to import the files.
+- Drag multiple files from your local file folder into the PC app gallery to import the files.
 
-- Select the **Help** (question mark) button in the PC app to: 
+- Select the **Help** (question mark) button in the PC app to complete these tasks:
 
-  - Get quick access to video tutorials that show how to author, operate, or analyze guides.
-  
-  - Get phone numbers for customer support.
-  
-  - Provide feedback and ideas for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team. 
-  
+    - Get quick access to video tutorials that show how to author, operate, or analyze guides.
+
+    - Get phone numbers for customer support.
+
+    - Provide feedback and ideas for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team.
+
 #### Other updates
 
-- The media panel automatically resizes to fit the attached media, which optimizes for the [!include[pn-hololens](../includes/pn-hololens.md)] field of view. 
+- The media panel is automatically resized to fit the attached media, which is optimized for the [!include[pn-hololens](../includes/pn-hololens.md)] field of view.
 
 - The **Recent guides** list now shows only your recently opened guides.
 
-- Hologram stabilization is improved and optimized for HoloLens 2. 
+- Hologram stabilization has been improved and optimized for HoloLens 2.
 
-- Reorganized documentation to make it easier to find information for specific roles (admin, author, operator).
+- Documentation has been reorganized documentation so that it's easier to find information for specific roles (admin, author, and operator).
 
-### October, 29, 2019
+### October 29, 2019
 
 The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on October 29 brings highly requested features for content creators: 
 
@@ -59,7 +59,7 @@ We also:
 
 - Removed different sizes for the same model in the 3D toolkit. Since authors can now resize models, the different sizes are not needed anymore.
 
-- Updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holograpic OS (Shell) behavior where the Step card follows you when the option is turned on.
+- Updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holographic OS (Shell) behavior where the Step card follows you when the option is turned on.
 
 ### October 1, 2019
 
@@ -86,7 +86,7 @@ The October 1 release also includes refactoring of code for hologram positions t
 
 - **Improved hologram manipulation.** Holograms move more naturally as you place them in space, making it easier to accurately align holograms to the real world.
 
-- **Support for additional languages**. The PC app and the HoloLens app now support the following languages: English (US, UK), French (France, Canada), German, Dutch (Netherlands), Spanish, Italian, Chinese (People’s Republic of China, Taiwan, Hong Kong SAR), Japanese, and Korean.
+- **Support for additional languages**. The PC app and the HoloLens app now support the following languages: English (US, UK), French (France, Canada), German, Dutch (Netherlands), Spanish, Italian, Chinese (People's Republic of China, Taiwan, Hong Kong SAR), Japanese, and Korean.
 
 > [!NOTE]
 > To get this update, you need to update the PC app and the [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store. Updating the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution is not mandatory, but you need to update it if you intend to use the app in the newly supported languages. 
@@ -122,9 +122,9 @@ This **What's New** panel will continue to inform you of new and noteworthy feat
 
 ### June 3, 2019
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1905.31001 introduces an improved anchoring (alignment) experience for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. The PC app doesn’t require you to choose an anchoring method before creating a guide so you can start creating content right away. You can also switch between anchoring methods after creating a guide. The PC app also provides better step-by-step guidance for choosing the appropriate method for anchoring mixed reality instructions to your workspace.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1905.31001 introduces an improved anchoring (alignment) experience for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. The PC app doesn't require you to choose an anchoring method before creating a guide so you can start creating content right away. You can also switch between anchoring methods after creating a guide. The PC app also provides better step-by-step guidance for choosing the appropriate method for anchoring mixed reality instructions to your workspace.
 
-If you choose to create a guide using a digital anchor, you can now use a pre-set 3D model, so you don’t have to choose a 3D model 
+If you choose to create a guide using a digital anchor, you can now use a pre-set 3D model, so you don't have to choose a 3D model 
 before proceeding.
 
 > [!NOTE]
