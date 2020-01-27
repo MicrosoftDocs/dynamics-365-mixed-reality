@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: HoloLens 1 gestures you can use to author and navigate a guide in Dynamics 365 Guides, including gaze, bloom, and air tap.
+description: Learn about HoloLens 1 gestures that you can use to author and navigate a guide in Microsoft Dynamics 365 Guides, such as gaze, bloom, and air tap.
 ms.author: Mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # HoloLens 1 gestures for authoring and navigating in Dynamics 365 Guides 
 
-To author and navigate through a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you’ll use gaze and a few gestures.
+To author and navigate through a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you'll use gaze and a few gestures.
 
 ## Gaze
 The easiest way to get around a guide is to gaze at an item (menu or button, for example). If the item has a selection box or circle (gaze/dwell button), you can select the item just by gazing at the button hit zone. The item is selected when the box or circle is filled. 
@@ -35,7 +35,7 @@ To do the bloom gesture:
 ### Air tap
 Use air tap, along with gaze, to select holograms and any gaze/dwell buttons. To do an air tap:
 1.	Gaze at a hologram.
-2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don’t need to raise your whole arm—keep your elbow low and comfortable.
+2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don't need to raise your whole arm—keep your elbow low and comfortable.
 3.	Tap your finger down, then quickly raise it back up again.
 
 ![Air tap gesture](media/air-tap-gesture.PNG "Authoring overview")
