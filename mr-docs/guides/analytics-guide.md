@@ -48,7 +48,7 @@ to better understand performance and improvement over time.
 You can set up Guide Analytics for the first time through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
 
 > [!NOTE]
-> Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). Talk to your admin if you don’t have permission to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer. 
+> Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). Talk to your admin if you don't have permission to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer. 
 
 To set up your reports:
  
@@ -60,7 +60,7 @@ To set up your reports:
 
     ![Microsoft Download Center](media/microsoft-download-center.PNG "Microsoft Download Center") 
 
-    You’ll be prompted to choose the files to download: 
+    You'll be prompted to choose the files to download: 
 
      - **Guides Analytics Template.** You can configure this [!include[pn-power-bi](../includes/pn-power-bi.md)] template file to display [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] time-tracking data from within your organization. This is the main component of Guides Analytics. 
    
@@ -70,19 +70,19 @@ To set up your reports:
 
      ![Files to download](media/download-files.PNG "Files to download")   
   
-3.	Open the downloaded Guides Analytics Template.pbit file with [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop. Use your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password if you’re prompted to sign in to [!include[pn-power-bi](../includes/pn-power-bi.md)].  
+3.	Open the downloaded Guides Analytics Template.pbit file with [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop. Use your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password if you're prompted to sign in to [!include[pn-power-bi](../includes/pn-power-bi.md)].  
  
 4.	When prompted, paste the Instance URL into the text box as shown here. This is the same Instance URL you copied from the **Analyze** tab in the PC authoring app in step 1. 
 
      ![Guides Analytics template](media/guides-analytics-template.PNG "Guides Analytics template")
  
-     You might see the following error message saying you aren’t signed in: 
+     You might see the following error message saying you aren't signed in: 
   
      ![Sign-in error](media/sign-in-error.PNG "Sign-in error")
 
-     In that case, select **Sign in**, and enter your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password to connect the template to your organization’s secure [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
+     In that case, select **Sign in**, and enter your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password to connect the template to your organization's secure [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
 
-5.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are described in detail in “Take a tour of reports” later in this topic. 
+5.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are described in detail in "Take a tour of reports" later in this topic. 
  
      ![Example report](media/example-report.PNG "Example report")
  
@@ -106,7 +106,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
  
 1.	Which guides are included in the report.
 
-    Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down menu changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization’s guides.
+    Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down menu changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization's guides.
    
 2.	Use the summary statistics to quickly answer the following questions:
 
@@ -168,7 +168,7 @@ Use the Process Time-Tracking report to drill into usage and step-level run-time
    
 3.	Is daily guide usage changing? 
 
-    This is the same chart that’s shown in the Guides Usage report described earlier. 
+    This is the same chart that's shown in the Guides Usage report described earlier. 
    
 4.	How long is a guide run in minutes? 
 
