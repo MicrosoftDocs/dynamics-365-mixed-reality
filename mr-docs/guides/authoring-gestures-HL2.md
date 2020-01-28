@@ -51,7 +51,7 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 
 ### Select a button
 
-- Press the button with your index finger.
+- Push the button with your index finger.
 
 ### Select a hologram
 
@@ -67,7 +67,7 @@ For close-up UI elements and holograms, you can just reach out and touch or grab
 
 ### Rotate a hologram
 
-- Grab one of the blue spheres (rotation controls), and rotate it the way that you want. Arrows appear around the rotation controls to show which direction they can be rotated.
+- Pinch one of the blue spheres (rotation controls), and rotate it the way that you want. Arrows appear around the rotation controls to show which direction they can be rotated.
 
     **Left/right rotation**
 
