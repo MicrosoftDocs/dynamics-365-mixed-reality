@@ -38,7 +38,7 @@ Use these instructions to install the [!include[cc-microsoft](../includes/cc-mic
 
     ![Sign in page](media/sign-in-pc.PNG "Sign in page")
 
-5. Select the instance that you want to use, if there is more than one instance. Then select **Continue**.
+5. Select the instance that you want to use, if there is more than one instance. Then select **OK**.
 
     ![Selecting an instance](media/choose-instance-pc.PNG "Selecting an instance")
 
