@@ -156,7 +156,7 @@ The following illustrations show how to use the different rotation controls.
 ![Up/down rotation](media/up-down-rotation.PNG "Up/down rotation")
 
 > [!TIP]
-> On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can operate the rotation controls with your hands. Grab one of the available rotation controls with your hand, and rotate the hologram the way that you want. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
+> On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can operate the rotation controls with your hands. Pinch one of the available rotation controls with your hand, and rotate the hologram the way that you want. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
 
 ### Change the size of a hologram after you place it
 
@@ -165,7 +165,7 @@ The following illustrations show how to use the different rotation controls.
     ![Scale Hologram control](media/scale-hologram.png "Scale Hologram control")
 
     > [!TIP]
-    > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can grab the **Scale Hologram** control with your hand, and then move it up or down to change the size of the hologram.
+    > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can pinch the **Scale Hologram** control with your hand, and then move it up or down to change the size of the hologram.
 
 ## Add styles for emphasis
 
