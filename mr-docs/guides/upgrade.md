@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Upgrade the Dynamics 365 Guides solution when required by a new release
+description: Learn how to upgrade the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
