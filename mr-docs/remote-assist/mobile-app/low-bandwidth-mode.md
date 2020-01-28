@@ -1,10 +1,11 @@
-title	author	description	ms.author	ms.date	ms.service	ms.topic	ms.reviewer
-TITLE OF THIS TOPIC
-GITHUB USER NAME
-VERY BRIEF DESCRIPTION OF THIS CONTENT
-MS ALIAS
-00/00/2020
-crm-online
-article
-krbjoran
-Title of the topic
+---
+title: Low Bandwidth Mode
+author: GITHUB USER NAME
+description: VERY BRIEF DESCRIPTION OF THIS CONTENT
+ms.author: xolee
+ms.date: 01/28/2020
+ms.service: crm-online
+ms.topic: article
+ms.reviewer: krbjoran
+---
+# Title of the topic
