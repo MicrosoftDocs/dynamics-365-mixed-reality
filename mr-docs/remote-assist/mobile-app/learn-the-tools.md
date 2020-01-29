@@ -15,6 +15,18 @@ Dynamics 365 Remote Assist Mobile includes a tutorial for technicians to jumpsta
 - map their environment for better tracking of surfaces
 - place and manipulate annotations, such as the arrow and the ink tool
 
+## Learn the Tools scenario
+1. On the Sign In page, technicians can go through Remote Assist Mobile's tutorial. 
+2. Select Try It. Allow Remote Assist Mobile to access your Camera. 
+3. If instead you click Sign In, you can go to the Menu. 
+4. Select Try the Tools. Allow Remote Assist Mobile to access your Camera. 
+5. Once you are in the tutorial experience, you are prompted to move your phone to map your space.  
+6. Select the arrow tool. 
+7. Tap and drag to place an arrow. 
+8. Select the inking tool.
+9. Draw a line or circle. 
+10. Practice placing and using other annotations. You can use the Color, Undo, or Trash icons.  
+
 ## Tips 
 ###
 What are the yellow tracking dots?
@@ -30,15 +42,3 @@ Limitations that may hinder accurate understanding of surfaces or faciliate in l
 - Environments with dim lighting or extremely bright lighting
 - Transparent or reflective surfaces like glass
 - Dynamic or moving surfaces
-
-## Learn the Tools scenario
-1. On the Sign In page, technicians can go through Remote Assist Mobile's tutorial. 
-2. Select Try It. Allow Remote Assist Mobile to access your Camera. 
-3. If instead you click Sign In, you can go to the Menu. 
-4. Select Try the Tools. Allow Remote Assist Mobile to access your Camera. 
-5. Once you are in the tutorial experience, you are prompted to move your phone to map your space.  
-6. Select the arrow tool. 
-7. Tap and drag to place an arrow. 
-8. Select the inking tool.
-9. Draw a line or circle. 
-10. Practice placing and using other annotations. You can use the Color, Undo, or Trash icons.  
