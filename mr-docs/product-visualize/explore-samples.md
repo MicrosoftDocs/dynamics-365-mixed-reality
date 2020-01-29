@@ -2,7 +2,7 @@
 author: mamithan
 description: How to explore sample models in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 01/27/2020
+ms.date: 01/29/2020
 ms.service: crm-online
 ms.topic: article
 title: Explore sample 3D models in Dynamics 365 Product Visualize
