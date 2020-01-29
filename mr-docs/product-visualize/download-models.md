@@ -2,7 +2,7 @@
 author: mamithan
 description: Download 3D models in Dynamics 365 Product Visualize to use when you don't have access to a network.
 ms.author: mamithan
-ms.date: 12/07/2019
+ms.date: 01/29/2020
 ms.service: crm-online
 ms.topic: article
 title: Download 3D models to use offline with Dynamics 365 Product Visualize
@@ -13,8 +13,8 @@ ms.reviewer: v-brycho
 
 You can download models to use offline when you're away from a cellular network or Wi-Fi. To download models for offline use, you need to first enable Offline mode.
 
->[!NOTE]
->Downloading models for offline use is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
+> [!NOTE]
+> Downloading models for offline use is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 
 ## Enable Offline mode
 
@@ -22,9 +22,10 @@ You can download models to use offline when you're away from a cellular network 
 
    ![Preview features](media/preview-features.PNG "Preview features")
 
-2. In the **Feature Settings** screen, under **Preview features**, slide the **Offline mode feature** setting to On.
+2. In the **Feature Settings** screen, under **Preview features**, slide the **Offline mode** toggle to On.
 
-   ![Offline mode feature setting](media/offline-mode.PNG "Offline mode feature setting")
+   > [!div class=mx-imgBorder]
+   > ![Offline mode feature](media/offline-mode.png "Offline mode feature")
    
 3. Close the Dynamics 365 Product Visualize app, and then restart it.
 
@@ -38,8 +39,27 @@ You can download models to use offline when you're away from a cellular network 
    
    ![Model downloaded button](media/model-downloaded.PNG "Model downloaded button")
    
-   >[!NOTE]
-   >When you're working offline with a 3D model, the notes functionality is disabled.
+   > [!NOTE]
+   > When you're working offline with a 3D model, the notes functionality is disabled.
+
+## Update downloaded models
+
+You can update all of your downloaded models at once.
+
+1.	Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then select **Downloads**.
+
+      > [!div class=mx-imgBorder]
+      > ![Downloads options](media/downloads-option.png "Downloads options")
+
+2.	Select **Update Downloads** at the upper-right corner of the screen.
+
+      > [!div class=mx-imgBorder]
+      > ![Update downloads button](media/update-downloads.png "Update downloads button")
+
+      A progress bar is displayed at the top of the screen indicating the status of downloads.
+
+      > [!div class=mx-imgBorder]
+      > ![Download progress bar](media/download-progress-bar.png "Download progress bar")
 
 ## Delete all downloaded models
 
