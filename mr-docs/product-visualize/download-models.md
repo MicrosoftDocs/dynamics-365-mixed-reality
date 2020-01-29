@@ -22,9 +22,9 @@ You can download models to use offline when you're away from a cellular network 
 
    ![Preview features](media/preview-features.PNG "Preview features")
 
-2. In the **Feature Settings** screen, under **Preview features**, slide the **Offline mode feature** setting to On.
+2. In the **Feature Settings** screen, under **Preview features**, slide the **Offline mode** toggle to On.
 
-   ![Offline mode feature setting](media/offline-mode.PNG "Offline mode feature setting")
+   ![Offline mode feature](media/offline-mode.png "Offline mode feature")
    
 3. Close the Dynamics 365 Product Visualize app, and then restart it.
 

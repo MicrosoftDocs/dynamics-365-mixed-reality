@@ -26,7 +26,7 @@ To enable product dimensions:
 2. In the **Feature Settings** screen, under **Preview features**, slide the **Product dimensions** toggle to **On**.
 
     > [!div class=mx-imgBorder]
-    > ![Product dimensions feature](media/product-measurements-feature.png "Product dimensions feature")
+    > ![Product dimensions feature](media/product-dimensions-feature.png "Product dimensions feature")
 
 ## Set measurement units
 
