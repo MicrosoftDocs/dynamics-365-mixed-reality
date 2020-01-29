@@ -15,13 +15,14 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## January 28, 2020
 
-The January 28 update includes the following new features:
+The January 28 update (app versions 303.2001.21001 and solution version 300.0.3.137) includes the following new features:
 
-- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms by using direct touch, just as if they were real objects. Use hand rays to interact with holograms when they are out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works just as it worked before, because [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn't support hand tracking.
+- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms by using direct touch, just as if they were real objects. Use hand rays to interact with holograms when they are out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works just as it worked before, because [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn't support hand tracking. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/authoring-gestures-hl2" target="_blank">HoloLens 2 gestures for authoring and navigating</a>.
 
-- Authors can add a website link to a step in a guide. Use a website link to show a PDF that is hosted on your server, show a form, or show data from your online Internet of Things (IoT) devices for the operator to review. This feature requires Common Data Service solution version 300.0.3.137.
+- Authors can add a website link to a step in a guide. Use a website link to show a PDF that is hosted on your server, show a form, or show data from your online Internet of Things (IoT) devices for the operator to review. This feature requires Common Data Service solution version 300.0.3.137. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-steps-assign-media#add-a-website-link-to-a-step" target="_blank">Add a website link to a step</a>.
 
-- Admins can assign **Author** and **Operator** roles to users, so that editing is available only for authors.
+- Admins can assign **Author** and **Operator** roles to users, so that editing is available only for authors. For more information, see 
+<a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/assign-role" target="_blank">Assign user roles</a>.
 
 - Drag multiple files from your local file folder into the PC app gallery to import the files.
 
