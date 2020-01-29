@@ -52,7 +52,7 @@ To align the digital anchor with its real-world counterpart, air tap and hold to
 
 ## Where alignment information is stored
 
-When you align your guide, if you're using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)]. Therefore, you don't have to realign the guide every time that you open it. However, you can realign a guide at any time if you think that the holograms are out of alignment. For more information about the **Anchor** button, see the next section.
+When you align your guide, if you're using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)]. Therefore, you don't have to realign the guide every time that you open it. However, you can realign a guide at any time if you think that the holograms are out of alignment by using the **Anchor** button. For more information, see [Operate a guide](operator-orientation.md).
 
 ## What's next?
 
