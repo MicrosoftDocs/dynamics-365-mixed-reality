@@ -15,7 +15,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## January 28, 2020
 
-The January 28 update includes the following new features:
+The January 28 update (app versions 303.2001.21001 and solution version 300.0.3.137) includes the following new features:
 
 - [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms by using direct touch, just as if they were real objects. Use hand rays to interact with holograms when they are out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works just as it worked before, because [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn't support hand tracking.
 
