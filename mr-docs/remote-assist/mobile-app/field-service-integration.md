@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 
 ###
 Empower technicians to solve problems faster by pairing Dynamics 365 Remote Assist application with the Dynamics 365 Field Service application. This allows technicians to automatically log call information into their Field Service work order when they end the call. 
-##
+###
 With the Dynamics 365 Field Service application, technicians manage their assigned work orders, or the service work needed, and perform maintenance and repairs onsite at customer locations. With Dynamics 365 Remote Assist, technicians can directly post essential call data and history to their Field Service work orders without opening their work order. 
 
 ## Set up Dynamics 365 Integration:
