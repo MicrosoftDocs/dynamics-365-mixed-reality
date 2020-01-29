@@ -1,11 +1,11 @@
 ---
-author: mamithan
+title: Add your own 3D model to an existing Dynamics 365 Sales product
 description: How to add your own custom 3D models to an existing Dynamics 365 Sales product
+author: mamithan
 ms.author: mamithan
-ms.date: 12/07/2019
+ms.date: 01/29/2020
 ms.service: crm-online
 ms.topic: article
-title: Add your own 3D model to an existing Dynamics 365 Sales product
 ms.reviewer: v-brycho
 ---
 
@@ -20,24 +20,18 @@ If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your lo
 
 ## Add a 3D model to a product
 
-1.	On the **My Open Opportunities** screen, open the appropriate opportunity. 
+1.	Navigate to the **My Open Opportunities** screen, and then select **View Models** at the upper-right corner of the screen.
 
     ![My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
  
-2.	Select the product you want to add the model to.
-
-3.	On the **Models** screen, select the plus sign (+) in the upper-right corner of the screen.
-
-    ![Models screen](media/3D-models.PNG "Models screen")
- 
-4.	On the **Browse Your Files** screen, select the service where the 3D model is stored, or select **Your Files** to access the files on your device.
+2.	On the **Browse Your Files** screen, select the service where the 3D model is stored, or select **Your Files** to access the files on your device.
 
     ![Browse Your Files screen](media/quick-access.PNG "Browse Your Files screen")
  
     > [!NOTE]
     > If you select SharePoint, you'll see a list of the SharePoint sites associated with your Dynamics 365 sign-in credentials.
 
-5.	When prompted to link the model, select **Confirm**.
+3.	When prompted to link the model, select **Confirm**.
  
     When the model is ready, you'll see a **Success!** message, and then you'll see the screen where you selected the model so you can add additional models if you want.
     
