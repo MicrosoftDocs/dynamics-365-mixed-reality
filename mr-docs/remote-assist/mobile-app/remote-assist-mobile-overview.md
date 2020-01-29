@@ -18,8 +18,8 @@ Some of the differentiators for Remote Assist Mobile are it allows easier physic
 Dynamics 365 Remote Assist for mobile phones or tablets is now available on Android or iOS devices with ARCore enabled. You can check out the device requirements here.
 
 ## Features: 
-•	Video calling 
-•	Annotations 
+*Video calling 
+*Annotations 
 •	Capturing snapshots and annotating on snapshots
 •	Sending chat messages
 •	Poor network connectivity mode
