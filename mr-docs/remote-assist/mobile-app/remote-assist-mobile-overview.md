@@ -15,7 +15,7 @@ Dynamics 365 Remote Assist for mobile phones or tablets enables technicians to c
 ###
 Some of the differentiators for Remote Assist Mobile are it allows easier physical access to confined or hard-to-reach spaces and a lower barrier to entry from ease of use. Additionally, your mobile device allows easy access to other mobile apps that are part of your company workflows. 
 ###
-Dynamics 365 Remote Assist for mobile phones or tablets is now available on Android or iOS devices with ARCore enabled. You can check out the device requirements [here.](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements)
+Dynamics 365 Remote Assist Mobile is now available on Android or iOS devices with ARCore enabled. You can check out the device requirements [here.](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements)
 
 ## Features: 
 - Video calling 
