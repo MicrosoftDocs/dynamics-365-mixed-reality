@@ -1,17 +1,17 @@
 ---
 author: Mamaylya
-description: Gestures you can use to author and navigate a guide in Dynamics 365 Guides, including gaze, bloom, and air tap.
+description: Learn about HoloLens 1 gestures that you can use to author and navigate a guide in Microsoft Dynamics 365 Guides, such as gaze, bloom, and air tap.
 ms.author: Mamaylya
-ms.date: 10/01/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Gestures you can use to author and navigate a guide in Dynamics 365 Guides 
+title: HoloLens 1 gestures you can use to author and navigate a guide in Dynamics 365 Guides 
 ms.reviewer: v-brycho
 ---
 
-# Gestures for authoring and navigating in Dynamics 365 Guides 
+# HoloLens 1 gestures for authoring and navigating in Dynamics 365 Guides 
 
-To author and navigate through a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you’ll use gaze and a few gestures.
+To author and navigate through a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you'll use gaze and a few gestures.
 
 ## Gaze
 The easiest way to get around a guide is to gaze at an item (menu or button, for example). If the item has a selection box or circle (gaze/dwell button), you can select the item just by gazing at the button hit zone. The item is selected when the box or circle is filled. 
@@ -35,7 +35,7 @@ To do the bloom gesture:
 ### Air tap
 Use air tap, along with gaze, to select holograms and any gaze/dwell buttons. To do an air tap:
 1.	Gaze at a hologram.
-2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don’t need to raise your whole arm—keep your elbow low and comfortable.
+2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don't need to raise your whole arm—keep your elbow low and comfortable.
 3.	Tap your finger down, then quickly raise it back up again.
 
 ![Air tap gesture](media/air-tap-gesture.PNG "Authoring overview")
@@ -46,11 +46,11 @@ Use air tap and hold to move, rotate, or scale holograms when authoring. To air 
 ### The gesture frame
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] has sensors that can see a few feet to either side of you. When you use gestures, you need to keep them inside that frame, or [!include[pn-hololens](../includes/pn-hololens.md)] won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor looks like a ring. When [!include[pn-hololens](../includes/pn-hololens.md)] can't see your hand, the cursor changes to a dot.
 
-### Need a tutorial on gestures?
+## Need a tutorial on gestures?
 For a tutorial on some basic gestures, close [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] by blooming and selecting **Mixed Reality Home**, use the bloom gesture to go to **Start**, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/help/13456/hololens-and-holograms-faq).
 
-### See also
+## See also
 
 [Overview of authoring a guide](authoring-overview.md)<br>
-[Operator's manual](operator-guide.md)
+[Overview of operating a guide](operator-overview.md)
 

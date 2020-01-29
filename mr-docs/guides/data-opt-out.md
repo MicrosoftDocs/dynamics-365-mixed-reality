@@ -1,15 +1,15 @@
 ---
 author: Makamat
-description: Describes how to opt out of storing Dynamics 365 Guides events data, for privacy reasons, in Common Data Service.
+description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage data in Common Data Service, for privacy reasons.
 ms.author: makamat
-ms.date: 07/09/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Opt out of storing Dynamics 365 Guides events data in Common Data Service
+title: Opt out of storing Dynamics 365 Guides usage data in Common Data Service
 ms.reviewer: v-brycho
 ---
 
-# Opt out of storing Dynamics 365 Guides events data in Common Data Service
+# Opt out of storing Dynamics 365 Guides usage data in Common Data Service
 
 Dynamics 365 Guides apps enable teams to capture usage statistics and detailed time-tracking information. This data is used to 
 provide metrics for operator performance and help you identify opportunities for process optimization. Administrators can turn off 
@@ -37,12 +37,12 @@ To do this:
 
     - **Record Guide Usage:** Yes.
 
-    - **Belongs To:** User’s name. 
+    - **Belongs To:** User's name. 
 
 7.	Select **Save**.
 
     ![Filled-out form](media/data-opt-out-filled-out-form.PNG "Filled-out-form")
  
-### See also
+## See also
 
 [Analyze guides usage](analytics-guide.md)

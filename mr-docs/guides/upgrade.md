@@ -1,15 +1,15 @@
 ---
 author: Mamaylya
-description: Upgrade the Dynamics 365 Guides (Preview) solution 
+description: Learn how to upgrade the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: mamaylya
-ms.date: 10/29/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Upgrade the Dynamics 365 Guides (Preview) solution
+title: Upgrade the Dynamics 365 Guides solution
 ms.reviewer: v-brycho
 ---
 
-# Upgrade the Dynamics 365 Guides solution (for admins)
+# Upgrade the Dynamics 365 Guides solution
 
 This topic is for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] administrators. Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. When an update is required, the user will see a notification in the **What's new** panel.
 
