@@ -18,12 +18,12 @@ Some of the differentiators for Remote Assist Mobile are it allows easier physic
 Dynamics 365 Remote Assist for mobile phones or tablets is now available on Android or iOS devices with ARCore enabled. You can check out the device requirements here.
 
 ## Features: 
--Video calling 
--Annotations 
--Capturing snapshots and annotating on snapshots
--Sending chat messages
--Low bandwidth mode
--Integration with Dynamics 365 Field Service 
+- Video calling 
+- Annotations 
+- Capturing snapshots and annotating on snapshots
+- Sending chat messages
+- Low bandwidth mode
+- Integration with Dynamics 365 Field Service 
 ###
 Watch a video on Dynamics 365 Remote Assist Mobile. 
  
