@@ -23,9 +23,11 @@ Dynamics 365 Remote Assist for mobile phones or tablets is now available on Andr
 - Capturing snapshots and annotating on snapshots
 - Sending chat messages
 - Low bandwidth mode
-- Integration with Dynamics 365 Field Service 
+- Integration with Dynamics 365 Field Service
 ###
-Watch a video on Dynamics 365 Remote Assist Mobile. 
+[Watch a video on Dynamics 365 Remote Assist Mobile](https://www.youtube.com/watch?v=J-C6GE2gFYw&t=27s) 
+
+
  
  
  
