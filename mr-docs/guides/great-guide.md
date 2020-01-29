@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about the do's and don'ts for a successful mixed reality guide created in Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 10/01/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: How to make a good mixed reality guide in Dynamics 365 Guides
@@ -18,19 +18,19 @@ Other online documentation in [!include[pn-dyn-365-guides](../includes/pn-dyn-36
 ### Gather content
 
 Gather as much content as you can before you begin creating your guide. This includes images, videos, and 3D content (if you have any), 
-and the physical objects themselves (if feasible). Don’t worry if you don’t have any 3D content. Guides includes a 3D Toolkit 
+and the physical objects themselves (if feasible). Don't worry if you don't have any 3D content. Guides includes a 3D Toolkit 
 (including simple models such as arrows, hands, zones, and so on) that you can use to get started.
 
 ### Understand the space
 
-Make sure you understand the space, the procedure, and the workflow you’re authoring for. Arrange for access to the space so you 
-understand the real-world environment. You’ll also need access to the space to align the guide and place holograms later.
+Make sure you understand the space, the procedure, and the workflow you're authoring for. Arrange for access to the space so you 
+understand the real-world environment. You'll also need access to the space to align the guide and place holograms later.
 
 ### Build references
 
 A great way to start is to create a video of the procedure you want to show, or have someone (an expert in that process, for 
-example) create one for you. You can refer to the video as you create your guide. If you’re using a video as a starting point, 
-make sure it’s representative of the guide you want to create. For example, are you creating a guide for an expert or a novice?
+example) create one for you. You can refer to the video as you create your guide. If you're using a video as a starting point, 
+make sure it's representative of the guide you want to create. For example, are you creating a guide for an expert or a novice?
 
 ### Understand your lesson objectives and target audience
 
@@ -45,7 +45,7 @@ operators. For example, will your audience understand how to use specific tools 
 
 #### Tasks
 
-- When first organizing a guide’s structure, break the assembly process into logical key objectives (tasks).
+- When first organizing a guide's structure, break the assembly process into logical key objectives (tasks).
 
   –	Think about tasks as key check points throughout the guide.
   
@@ -100,7 +100,7 @@ to take before starting the guide.
    
    –	Understand different environmental cues and conditions?
    
-- Don’t be afraid to add lots of steps.
+- Don't be afraid to add lots of steps.
 
    –	Remember to keep steps short for best effect.
    
@@ -119,9 +119,9 @@ to take before starting the guide.
 
 - Keep text simple and colloquial.
 
-   –	Don’t be verbose.
+   –	Don't be verbose.
    
-   –	Write your guide in colloquial human language for best results. Don’t use technical jargon that people don’t know or understand.
+   –	Write your guide in colloquial human language for best results. Don't use technical jargon that people don't know or understand.
 
    –	Try to cut out unnecessary words.
 
@@ -132,10 +132,10 @@ limit, this is a good indication that you're trying to put too much information 
 
    –	[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] doesn't currently support any text formatting (such as font size or styling), but you can use capitalization to point out key words or phrases.
 
-   –	Adding numbered or multiple small steps inside a single step can often lead an operator to miss specific actions. Don’t be afraid 
+   –	Adding numbered or multiple small steps inside a single step can often lead an operator to miss specific actions. Don't be afraid 
 to create separate steps to make sure the operator completes the correct sequence of actions.
 
-- Use descriptive action words like “locate,” “find,” “get,” “go to”, “pick up,” “put down,” “insert,” “attach,” and “remove.”
+- Use descriptive action words like "locate," "find," "get," "go to", "pick up," "put down," "insert," "attach," and "remove."
 
 - Keep language consistent throughout the entire guide. Items that are especially important for language consistency include:
 
@@ -164,7 +164,7 @@ to create separate steps to make sure the operator completes the correct sequenc
      
      ![Warning, bad example](media/bad-example2.PNG "Warning, bad example")
             
-- Add a step at the end of each task to let the operator know that they’re ending a task and to introduce them to the following 
+- Add a step at the end of each task to let the operator know that they're ending a task and to introduce them to the following 
        task. This helps the operator form a mental model of the guide structure, leading to better retention.
        
 - If it isn't a generic tool/part (for example, a screwdriver, socket wrench, or washer), make sure to label and define the tool/part 
@@ -238,7 +238,7 @@ We recommend using 2D images in the following scenarios:
       
    ![Example of orientation validation](media/orientation-validation.PNG "Example of orientation validation")  
 
-  –	Part validation. Use images for part identification in cases where a workstation has multiple parts that could be confused with one another visually. This is especially useful when two or more parts looks very similar with one minute differences.      
+  –	Part validation. Use images for part identification in cases where a workstation has multiple parts that could be confused with one another visually. This is especially useful when two or more parts looks very similar with one tiny difference.      
 
     Validate that an operator is picking up the correct part by comparing it to a picture or reference number.
 
@@ -320,7 +320,7 @@ Shoot videos from a third-person or first-person perspective.
 
   - When you want the operator to insert a part into something:
 
-    –	Arrows are great for pointing to a specific location (within +/- 2mm tolerance)
+    –	Arrows are great for pointing to a specific location.
 
     –	Arrows can be used to show directionality. Example: "Twist the lever until tight" with corresponding half circle arrow showing movement direction
 
@@ -337,7 +337,7 @@ Shoot videos from a third-person or first-person perspective.
 
 - Use hands when you want the operator to use their hands in a specific way to grab or manipulate something. There are various poses for specific interactions that are available in the 3D toolkit such as Pull, Push, Pinch, Grab, and so on. Combine hands with arrows and/or additional 3D holograms to add additional meaning.
 
-- Generally, the "Pick Up" or “Place” shader works best with hands allowing operators to visually align their hands with the hologram.
+- Generally, the "Pick Up" or "Place" shader works best with hands allowing operators to visually align their hands with the hologram.
 
 #### Numbers
 
@@ -393,7 +393,7 @@ Shoot videos from a third-person or first-person perspective.
 
 - In general, try to accomplish a step by using the 3D toolkit. If you can't achieve the desired result with 3D toolkit assets, you can use a custom asset, image, or video instead.
 
-- Use custom high-fidelity assets where details matter, and custom low-fidelity assets for high-level principles where details aren’t as important. For example, if detailed accuracy is important, like referencing a specific port or lever, highly detailed custom assets may be necessary. On the other hand, if you're trying to show how to align an object, a general shape may achieve the desired effect.
+- Use custom high-fidelity assets where details matter, and custom low-fidelity assets for high-level principles where details aren't as important. For example, if detailed accuracy is important, like referencing a specific port or lever, highly detailed custom assets may be necessary. On the other hand, if you're trying to show how to align an object, a general shape may achieve the desired effect.
 
 - Custom assets are best for communicating unique parts or unusual animation behaviors.
 
@@ -415,9 +415,9 @@ Shoot videos from a third-person or first-person perspective.
 
 - For 3D toolkit assets, the Original shader is a white material.
 
-   –	The Original white material is a good generic style because it doesn’t have any strong pre-existing connotations for operators.
+   –	The Original white material is a good generic style because it doesn't have any strong pre-existing connotations for operators.
 
-   –	If your focus is more on alignment or positioning, the Original shader is a good choice because it won’t indicate any strong action indications for the operator.
+   –	If your focus is more on alignment or positioning, the Original shader is a good choice because it won't indicate any strong action indications for the operator.
 
 - For custom assets, the Original shader is whatever is imported with the 3D model.
 
@@ -501,10 +501,10 @@ Shoot videos from a third-person or first-person perspective.
 
 - Make sure to explain anchoring fundamentals to operators, otherwise they may be confused about how to fix if they incorrectly align a real-world object.
 
-### See Also
+## See also
 
 [Author a guide](authoring-overview.md)<br>
-[Operator's manual](operator-guide.md)<br>
+[Overview of operating a guide](operator-overview.md)<br>
 [Analyze your guides](analytics-guide.md)<br>
 [FAQ](faq.md)<br>
 [Known issues](known-issues.md)
