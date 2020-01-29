@@ -17,7 +17,7 @@ Microsoft Dynamics 365 Product Visualize empowers sellers to showcase and custom
 
 ## Connect to Dynamics 365 Sales
 
-Product Visualize connects directly with your opportunities and products in Dynamics 365 Sales. When you log in to our app using your Dynamics 365 Sales credentials, we automatically grab your list of sales opportunities, so you can see all your products and notes organized by customer.
+Product Visualize connects directly with your opportunities and products in Dynamics 365 Sales. When you log in to the app using your Dynamics 365 Sales credentials, we automatically grab your list of sales opportunities, so you can see all your products and notes organized by customer.
 
 ## Place a model
 
