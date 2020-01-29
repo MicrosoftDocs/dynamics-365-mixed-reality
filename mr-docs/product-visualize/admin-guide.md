@@ -1,7 +1,7 @@
 ---
 author: rroesler
 description: Admin tasks for Dynamics 365 Product Visualize, including adding groups, products, opportunities, and the Product Visualize control
-ms.date: 12/22/2019
+ms.date: 01/29/2020
 ms.author: rroesler
 ms.service: crm-online
 ms.topic: article
@@ -340,7 +340,7 @@ The Dynamics 365 Product Visualize solution is a package that customizes your Dy
 
 ### Customize the Opportunity page
 
-The Dynamics 365 Product Visualize solution also contains an optional enhancement (a control) that allows salespeople to open the Dynamics 365 Product Visualize app directly from Dynamics 365 Sales on their mobile devices. The control is lightweight and can easily be updated or removed.
+The Dynamics 365 Product Visualize solution also contains an optional enhancement (a control) that allows salespeople to open the Dynamics 365 Product Visualize app directly from Dynamics 365 Sales on their mobile devices, and a control to access Product Visualize notes. The controls are lightweight and can easily be updated or removed.
 
 There are numerous ways you can customize your Opportunity page in Dynamics 365 Sales. This procedure provides suggested customizations, but feel free to adapt them to your needs.
 
@@ -366,7 +366,9 @@ There are numerous ways you can customize your Opportunity page in Dynamics 365 
 
 11. Select **Save** to save your changes from the menu bar.
 
-12. Select **Publish** to publish your changes and make them immediately visible on any Opportunity page.
+12. To add the **Product Visualize Notes Viewer** control, repeat steps 6 to 11.
+
+13. Select **Publish** to publish your changes and make them immediately visible on any Opportunity page.
 
 ## Set up Microsoft Teams
 

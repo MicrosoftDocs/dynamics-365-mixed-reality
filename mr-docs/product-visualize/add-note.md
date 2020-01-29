@@ -2,7 +2,7 @@
 author: mamithan
 description: How to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 12/07/2019
+ms.date: 01/29/2020
 ms.service: crm-online
 ms.topic: article
 title: Add a note to your 3D model in Dynamics 365 Product Visualize
@@ -27,35 +27,38 @@ The following table shows how notes appear on the model, depending on where the 
 
 ## Add a note
 
-1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then select **Notes** from the right side of the screen.
+1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then select **Notes** on the right side of the screen.
 
-    ![Select Notes](media/select-notes.PNG "Select Notes")
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
 
 2. Select **Add Note**.
 
-    ![Select Add Note](media/add-note.png "Select Add Note")
+    > [!div class=mx-imgBorder]
+    > ![Select Add Note](media/add-note.png "Select Add Note")
  
-2.	Select **Photo** to take a picture of the model, or select **Camera Roll** if you want to use a photo already stored on your device.
+3.	Select **Photo** to take a picture of the model, or select **Camera Roll** if you want to use a photo already stored on your device.
 
-    ![Select Photo](media/camera-roll.png "Select Capture")
+    > [!div class=mx-imgBorder]
+    > ![Select Photo](media/camera-roll.png "Select Capture")
 
- 3.	Do one or both of the following: 
+4.	Do one or both of the following: 
     
       a. Optional: To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
     
       b. Required: To add text, tap **Add caption** in the notes box at the bottom of the screen, and then enter the text you want. When you're finished adding text, select **Next**.
     
-       ![Draw or add text](media/draw-add-text.PNG "Draw or add text")
+       > [!div class=mx-imgBorder]
+       > ![Draw or add text](media/draw-add-text.png "Draw or add text")
          
      > [!NOTE]
      > If you're not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, text you entered is retained, but any drawings are lost.
          
- 4. Tap the model where you want to place the note.
+5. Tap the model where you want to place the note, and then select **Finish**.
  
-      ![Tap on model](media/tap-on-product.png "Tap on model")
+      > [!div class=mx-imgBorder]
+      > ![Tap on the model](media/tap-on-product.png "Tap on the model")
       
- 5. Select **Finish** when you're done.
-   
 
 ## View the notes attached to a model
 
@@ -72,11 +75,19 @@ The following table shows how notes appear on the model, depending on where the 
 
 1.	Select **Notes** on the right side of the screen.
 
-2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
 
-3.	Select **Delete Note**.
+2.	Navigate to the note you want to export, and select the **Overflow** menu in the upper-right corner of the notes card.
+
+    > [!div class=mx-imgBorder]
+    > ![Navigate to the note](media/note-1.png "Navigate to the note")
+
+3.	In the **Options** dialog box, select **Delete Note**.
 
      ![Delete a note](media/delete-note.png "Delete a note")
+
+4. Select **Delete** in the confirmation dialog box.
   
 ## Change how your notes are shared with other apps
 
@@ -98,9 +109,23 @@ To export a note:
 
 1.	Select **Notes** on the right side of the screen.
 
-2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
 
-3.	In the **Options** dialog box, select **Export note**.
+2.	Navigate to the note you want to export, and select the **Overflow** menu in the upper-right corner of the notes card.
+
+    > [!div class=mx-imgBorder]
+    > ![Navigate to the note](media/note.png "Navigate to the note")
+
+3.	In the **Options** dialog box, select **Export Note**.
+
+    > [!div class=mx-imgBorder]
+    > ![Export note](media/export-note.png "Export note")
+
+4. Select the required option for exporting the note.
+
+    > [!div class=mx-imgBorder]
+    > ![Export options](media/export-options.png "Export options")
 
 ### See also
 
