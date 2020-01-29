@@ -11,16 +11,16 @@ ms.reviewer: krbjoran
 # Dynamics 365 Field Service Integration
 
 ###
-Empower technicians to solve problems faster by pairing Dynamics 365 Remote Assist application with the Dynamics 365 Field Service application. This allows technicians to automatically log call information into their Field Service work order when they end the call. 
+Empower technicians to solve problems faster by pairing Dynamics 365 Remote Assist Mobile application with the Dynamics 365 Field Service application. This allows technicians to automatically log call information into their Field Service work order when they end the call. 
 ###
-With the Dynamics 365 Field Service application, technicians manage their assigned work orders, or the service work needed, and perform maintenance and repairs onsite at customer locations. With Dynamics 365 Remote Assist, technicians can directly post essential call data and history to their Field Service work orders without opening their work order. 
+With the Dynamics 365 Field Service application, technicians manage their assigned work orders, or the service work needed, and perform maintenance and repairs onsite at customer locations. With Dynamics 365 Remote Assist Mobile, technicians can directly post essential call data and history to their Field Service work orders without opening their work order. 
 
 ## Set up Dynamics 365 Integration:
-1.	Enable this feature when they first sign into Dynamics 365 Remote Assist and receive a pop-up to integrate with Dynamics 365 Field Service.
-2.	If technicians did not enable this feature at first sign in, they can go to Main Menu, Settings, and toggle on Dynamics 365 Integration.
+- Technicans can enable this feature when they first sign into Dynamics 365 Remote Assist Mobile and they will receive a pop-up notification to integrate with Dynamics 365 Field Service.
+- If they did not enable this feature at first sign in, they can go to Main Menu, Settings, and toggle on Dynamics 365 Integration.
 
 ## Dynamics 365 Integration scenario: 
-1.	At the end of a Dynamics 365 Remote Assist call, you are prompted to post your call information to your Field Service work order. Select Post. 
+1.	At the end of a Dynamics 365 Remote Assist Mobile call, you are prompted to post your call information to your Field Service work order. Select Post. 
 2.	If you have an active booking assigned to you, you will see them listed.
 3.	Select your Booking and click Post. 
 4.	After you click Post, you will return to the Contact Card of the expert you called. 
