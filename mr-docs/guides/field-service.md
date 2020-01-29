@@ -2,7 +2,7 @@
 author: makamat
 description: How to integrate Dynamics 365 Field Service with Dynamics 365 Guides so Field Service technicians can follow a guide while doing a work order
 ms.author: makamat
-ms.date: 10/01/2019
+ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Integrate Dynamics 365 Field Service with Dynamics 365 Guides
@@ -25,9 +25,9 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
 
 1. Create a guide using the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps. For information on creating a guide, see:
   
-   - [Use the PC authoring app to create a guide](pc-authoring.md)
+   - [Overview of authoring a guide in the PC app](pc-app-overview.md)
    
-   - [Use the HoloLens app to place your holograms](hololens-authoring.md)
+   - [Overview of authoring a guide in the HoloLens app](hololens-app-overview.md)
    
 2. Create a [!include[pn-field-service](../includes/pn-field-service.md)] work order and attach a service task to it. 
 
@@ -58,9 +58,13 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
 
     ![Select guide](media/select-guide-3.PNG "Select guide")   
     
-    
+
 > [!NOTE]
-> Keep the following in mind:<br><br>- The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app shows work orders scheduled for the current day and the following eight days.<br><br>- Work orders continue to appear on [!include[pn-hololens](../includes/pn-hololens.md)] until they're marked as **Complete** in [!include[pn-field-service](../includes/pn-field-service.md)] or assigned to someone else.
+> Keep the following points in mind:
+>
+> - The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app shows work orders that are scheduled for the current day and the following eight days.
+>
+> - Work orders continue to appear on [!include[pn-hololens](../includes/pn-hololens.md)] until they are either marked as **Complete** in [!include[pn-field-service](../includes/pn-field-service.md)] or assigned to someone else.
 
 ### Known issues
 
@@ -70,7 +74,7 @@ solution](upgrade.md)) and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-g
    
    ![Create a new guide from Field Service](media/create-new-guide-from-field-service.PNG "Create a new guide from Field Service")   
 
-### See also
+## See also
 
 [Overview of Dynamics 365 Field Service](https://docs.microsoft.com/dynamics365/customer-engagement/field-service/overview)
       
