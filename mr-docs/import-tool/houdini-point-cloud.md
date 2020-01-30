@@ -296,6 +296,31 @@ SCREEN SHOT GOES HERE
  
 SCREEN SHOT GOES HERE 
 
+## Export the model to a GLB file
+
+In this step, we’ll export the model to a GLB file so it can be used with Dynamics 365 mixed reality apps. 
+
+1.	In the Geometry window, right mouse button click to bring up the Tab menu.  Navigate to **Export > ROP GLTF Output**.
+
+SCREEN SHOT GOES HERE  
+
+2.	Drag a connection from the **material1 output** node to the **rop_gltf input** node.
+
+SCREEN SHOT GOES HERE 
+  
+3.	In the top pane, change **Export Type** to **GLB**. 
+
+SCREEN SHOT GOES HERE 
+ 
+4.	Next to the Output File field, click the **File Chooser** and choose a name and destination for the **GLB**.  Make sure to add “.glb” to the end of your file name.
+
+SCREEN SHOT GOES HERE  
+
+5.	Next, click the **Render to Disk** button to finalize the export and to create the **GLB** file.
+
+SCREEN SHOT GOES HERE 
+ 
+Congratulations! You have officially taken a point-cloud and converted it into a mixed reality ready 3D model.
 
 
 
