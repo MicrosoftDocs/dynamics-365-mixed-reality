@@ -375,15 +375,15 @@ SCREEN SHOT GOES HERE
 
 Now that you have prepared your 3d models, you can learn more about using the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality here: 
 
-[Dynamics 365 Product Visualize](mixed-reality/product-visualize/) 
+[Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/) 
 
-Dynamics 365 Guides 
+[Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/) 
 
-Dynamics 365 Layout 
+[Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/index) 
  
-More information 
+### More information 
  
-Several screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software.  More information about Houdini can be found here: SideFX
+Several screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software.  More information about Houdini can be found here: [SideFX](https://www.sidefx.com/tutorials/alicevision-plugin/)
  
 The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Houdini, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
  
