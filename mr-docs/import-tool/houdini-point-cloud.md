@@ -150,6 +150,45 @@ SCREEN SHOT GOES HERE
 
 SCREEN SHOT GOES HERE 
  
+## Convert your point-cloud to a mesh
+
+Now that our point-cloud has been imported and is oriented correctly, we will convert it to a mesh.  To do this we will use a the “Particle Fluid Surface” node. That can be found in the tab menu we accessed earlier.
+
+1.	In the Geometry windowpane, click the left mouse button and then navigate to **Fluid > Particle Fluid Surface**, select the node and add it to the geometry windowpane. 
+
+SCREEN SHOT GOES HERE 
+
+2.	Connect it to the transform node by left mouse button holding the output node and dragging the connector to the left input node.  Click on the far-right tab of the pariclefluidsurface1 node to activate this node in the viewport.
+ 
+SCREEN SHOT GOES HERE 
+  
+Once this step is complete your point-cloud will be rendered as a mesh in the viewport. Above the Geometry tab the Surfacing tab will be open in the upper right pane.
+
+SCREEN SHOT GOES HERE 
+ 
+3.	If the points in your point-cloud have color data connected to them, then you can use those color attributes by adding the letters **Cd** to the end of the **Transfer Attributes** text box.  Once you add this attribute you will see color come through on your mesh.
+
+SCREEN SHOT GOES HERE 
+ 
+4.	Sometimes the mesh may generate with issues such as holes as shown below.  You can adjust both the **Particle Separation** and **Voxel Scale** sliders until a satisfactory result has been produced. 
+
+SCREEN SHOT GOES HERE  
+ 
+5.	Once you have your mesh rendering in a way that you like there are a couple things we must do to prepare for decimation.  First, in the output tab change the **Convert to** drop down from **Surface Polygon Soup** to **Surface Polygons**. This will allow us to remesh and decimate our mesh.
+
+SCREEN SHOT GOES HERE 
+ 
+6.	Next add a **remesh** node so that the mesh is converted into triangles.  This will allow us to decimate the 3D model to a poly count that meets your performance requirements.  To do this, right mouse click in the Geometry pane and navigate to **Polygon -> Remesh**.
+
+SCREEN SHOT GOES HERE  
+
+7.	Connect the **remesh** node to the left input node of the **particlefluidsurface** node.  Click the middle of the **remesh** node to activate it in the pane above the geometry pane and click the far-right tab to activate the model in the viewport.  You should now be able to edit the properties of the remesh and see those edits represented in the viewport.
+
+SCREEN SHOT GOES HERE 
+ 
+8.	You can play with the element sizing controls here by either staying with the default **Uniform** option in **edge lengths**, or choosing **adaptive** and changing the **relative density slider** among others if you feel that it produces a better looking mesh.
+
+ 
 
 
 
