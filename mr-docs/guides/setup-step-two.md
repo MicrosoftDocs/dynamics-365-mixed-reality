@@ -56,9 +56,7 @@ After you buy a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 
     ![New button](media/add-new-environment.PNG "New button")
 
-    The **New environment** dialog box appears on the right side of the page.
-
-    ![New environment dialog box](media/new-environment-pane.PNG "New environment dialog box")
+    The **New environment** dialog box appears on the right side of the page.    
 
 3. In the **New environment** dialog box, follow these steps:
 
@@ -68,7 +66,9 @@ After you buy a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 
     3. In the **Region** field, keep the default setting.
 
-    4. Set the **Create a database for this environment?** option to **Yes**.
+    4. Set the **Create a database for this environment?** option to **Yes**. At this point the **New environment** dialog looks like this:
+
+       ![New environment dialog box](media/new-environment-pane.PNG "New environment dialog box")
 
     5. Select **Next**.
 
