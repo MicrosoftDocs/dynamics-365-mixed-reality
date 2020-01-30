@@ -10,6 +10,7 @@
 ### [SideFX Houdini](houdini.md)
 ### [Blender](blender.md)
 ### [Autodesk 3ds Max](3ds-max.md)
+### [Convert a point cloud with Houdini](houdini-point-cloud.md)
 ## Install and use Dynamics 365 Import Tool (Preview)
 ### [Requirements for installing](requirements.md)
 ### [Try Dynamics 365 Import Tool (Preview) free](try-import-tool-free.md)
