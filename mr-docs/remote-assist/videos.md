@@ -15,6 +15,9 @@ Watch these short videos to get up and running with Microsoft [!include[pn-dyn-3
 
 Looking for more help? Check out our [user guide](user-guide.md).
 
+[!NOTE]
+The videos in this article illustrate HoloLens 1st Gen interactions, such as air-tap. Remote Assist is compatible with HoloLens 2 interactions. You can learn more about HoloLens 2 gestures and interactions [here](https://docs.microsoft.com/hololens/hololens2-basic-usage)
+
 ## Dynamics 365 Remote Assist for HoloLens
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F6TI" frameborder="0" allowfullscreen=""></iframe></div>
