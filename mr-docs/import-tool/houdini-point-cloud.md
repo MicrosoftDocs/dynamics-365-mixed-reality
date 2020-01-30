@@ -322,5 +322,53 @@ SCREEN SHOT GOES HERE
  
 Congratulations! You have officially taken a point-cloud and converted it into a mixed reality ready 3D model.
 
+## Creating a template
+
+An advantage to using Houdini is all of the steps that are used to prepare the 3D model exist in the application, even export to the glTF format.  This node tree can be reused to create more 3D models from point clouds.  While you will have to click bake and maybe adjust a few values to tweak everything to your liking, the majority of the processing is automated and we can rapidly create more 3D models.  
+
+1.	The first thing we will do is replace whatever geometry is currently being used with a default geometry.  This makes our template file lightweight so that it will load quickly when we open it.  To do this, do the following:
+
+    a.	Click on your file icon to activate the geometry file menu in the upper pane.
+    
+    b.	Once activated, change the “Geometry File” field to say “default.bgeo” and click **Reload Geometry**.
+    
+    c.	This will refresh the geometry so that it is now a generic cube.
+    
+    d.	Go ahead and change the file name to something generic like “Template” as well.
+    
+        SCREEN SHOT GOES HERE 
+ 
+2.	With our template setup, save your file as something memorable like “Prep_Template.”  To save the file go to **File > Save**.
+
+SCREEN SHOT GOES HERE  
+
+3.	Your Template is now ready.  Close Houdini so that we can perform a complete walkthrough using our template.
+
+### Using the template
+
+1.	Now that our template is ready, Launch Houdini and open your template file by going to File > Open, and selecting the template we saved in the previous section.
+
+SCREEN SHOT GOES HERE 
+ 
+2.	Click on the center of the geometry file node to switch to the File context menu above, and then click the “Open floating file chooser” button to select your .ply point cloud file.
+
+SCREEN SHOT GOES HERE 
+ 
+3.	Click the “Reload Geometry” button to load your point-cloud into your scene.
+
+SCREEN SHOT GOES HERE 
+ 
+4.	Once your point-cloud loads return to the **Maps Baker** node and click **bake** to bake a new texture for your 3D model.
+
+SCREEN SHOT GOES HERE 
+
+5.	Click the right tab of the **Material** Node to view what your baked model looks like.
+
+SCREEN SHOT GOES HERE  
+
+6.	  If you are satisfied with the 3D model, navigate to the **rop_gltfB** node and export your 3D model by clicking **Render to Disk**.  
+SCREEN SHOT GOES HERE  
+
+7.	If you are not satisfied with how your model looks, then try adjusting the options in the **particle fluid surface**, **remesh**, and **polyreduce** nodes.  Once your model looks acceptable, bake your texture again and export your 3D model.
 
 
