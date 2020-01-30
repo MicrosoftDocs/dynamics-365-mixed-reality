@@ -63,13 +63,13 @@ After you buy a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
     1. Enter a name for the environment.
 
     2. In the **Type** field, select **Production**.
+    
+        ![New environment dialog box](media/new-environment-pane.PNG "New environment dialog box")
 
     3. In the **Region** field, keep the default setting.
 
-    4. Set the **Create a database for this environment?** option to **Yes**. At this point the **New environment** dialog looks like this:
-
-       ![New environment dialog box](media/new-environment-pane.PNG "New environment dialog box")
-
+    4. Set the **Create a database for this environment?** option to **Yes**. 
+       
     5. Select **Next**.
 
 3. In the **Add database** dialog box that appears, select your language and currency, keep the default settings for the other fields, and then select **Save**.
