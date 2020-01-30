@@ -188,7 +188,27 @@ SCREEN SHOT GOES HERE
  
 8.	You can play with the element sizing controls here by either staying with the default **Uniform** option in **edge lengths**, or choosing **adaptive** and changing the **relative density slider** among others if you feel that it produces a better looking mesh.
 
+SCREEN SHOT GOES HERE 
+
+## Decimate the 3D model
+
+To reach application-specific goals, we may need to decimate the 3D model.  Decimation is the process of recomputing the surface polygons of the model to create a similar shape with less polygons. There is a reduction in visual fidelity when doing this, but also an increase in performance. The example images below show the difference between a high-quality model used for low scene complexity on HoloLens, and a low-quality model used for high scene complexity.
+
+|High-poly 3D model|	Low-poly 3D model|
+|---------------------------------------------------------------|--------------------------------------------------------------|
+|SCREEN SHOT GOES HERE |SCREEN SHOT GOES HERE |
+|500,000 triangles|8,000 triangles|
+
+1.	In the Geometry pane on the lower right, tap the Tab key to bring up the tab menu again.  Navigate to **Polygon > PolyReduce** and to select the PolyReduce node.  Place the node in the Geometry pane.
+
+SCREEN SHOT GOES HERE 
  
+2.	Connect the output from the **remesh** node to the top-left input node of the **polyreduce** node.  Select the **polyreduce** node by clicking in the middle and click the far-right tab to activate the **polyreduce** node in the viewport.  Once you have done this, change the **Reduction Amount** tab’s **Target** dropdown to **Output Polygon Count** and adjust the polygon count to an amount that is within your performance requirements and maintains an acceptable visual fidelity.
+
+SCREEN SHOT GOES HERE 
+ 
+Our point-cloud has now been converted to an optimized 3D mesh.  In the next step we will bake a high-resolution texture to the 3D model to recover some of the visual fidelity that existed before decimation.
+
 
 
 
