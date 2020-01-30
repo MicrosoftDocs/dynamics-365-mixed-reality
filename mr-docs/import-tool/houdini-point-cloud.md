@@ -209,6 +209,93 @@ SCREEN SHOT GOES HERE
  
 Our point-cloud has now been converted to an optimized 3D mesh.  In the next step we will bake a high-resolution texture to the 3D model to recover some of the visual fidelity that existed before decimation.
 
+## Bake a high-resolution texture to our low poly mesh
+
+One downside to reducing the number of polygons that are in a mesh is that much of the detail can be lost.  However, there is a method of capturing the detail that exists on your high-poly 3D model and applying it as a texture layered on top of your low-poly model known as “texture baking”.  Texture baking basically takes a picture of all the surfaces of your high-poly model and stitches those pictures into a quilt that is draped on top of your low-poly model.  Doing this gives you the performance of a low-poly 3D model while maintaining some of the finer details of your high-poly 3D model.  The steps below will walk you through this process.
+
+1.	Add the **Labs AutoUV** node to the scene by right clicking in the geometry pane and navigating to **Labs > UV > Labs Auto UV** and change the method to **UV unwrap**.
+
+SCREEN SHOT GOES HERE 
+
+2.	Connect the **polyreduce output node** to the **AutoUV input node**.
+
+SCREEN SHOT GOES HERE  
+
+3.	Change your Viewport to **Vertical split** by clicking the **Viewport Layout** button and selecting **Two Views Side by Side**.
+
+SCREEN SHOT GOES HERE 
+ 
+4.	In the left ViewPane, set the view to **UV view** by left mouse clicking the drop down and navigating to **Set View > UV viewport**.
+
+SCREEN SHOT GOES HERE 
+ 
+You will now see your unwrapped UVs in the left pane and your 3D model in the right pane.
+
+SCREEN SHOT GOES HERE 
+
+5.	Add the **Labs Maps Baker** node to the geometry pane by navigating to **Labs > Output > Labs Maps Baker (Beta)**.
+
+SCREEN SHOT GOES HERE 
+ 
+6.	Connect the **AutoUV output** node to the **LOW Resolution input** node of the **maps baker** node.
+
+SCREEN SHOT GOES HERE  
+
+7.	Connect the **particle fluid surface output** node to the **HIGH resolution input** node of the **maps baker node**.
+
+SCREEN SHOT GOES HERE 
+ 
+8.	Select the **maps_baker** node and change the preview channel to **diffuse** and **check diffuse** in the **Transfer** section of **Bake options**.
+
+SCREEN SHOT GOES HERE  
+
+>[!TIP]
+>Save your project in a specific folder by clicking the file chooser highlighted in the image above.  When we bake our texture, the .png texture file will be output into a render folder that is created in the root of the saved project.  Saving your project into its own folder will make the baked texture easy to find.
+
+9.	Highlight the **Maps Baker** node and click **Bake** in the options pane.
+
+SCREEN SHOT GOES HERE 
+ 
+10.	Right mouse click in the Geometry pane to access the TAB menu and navigate to **Managers >Material Network** to add a **Material Network** node to your scene.  
+
+SCREEN SHOT GOES HERE 
+
+11.	Double click the **matnet** node to open the **VEX Builder** Pane.
+
+SCREEN SHOT GOES HERE 
+ 
+12.	Add a Principled Shader material by right mouse clicking in the VEX Builder pane and navigate to **Shaders > Principled Shaders**.
+
+SCREEN SHOT GOES HERE 
+ 
+13.	In the options pane, navigate to the **Surface** tab and change the **roughness** to **0.6** and **Metallic** to **0.1**.  You can set these values to whatever you like.  We have found these values in conjunction with leaving the other values at their default values to be a good starting point.
+
+SCREEN SHOT GOES HERE  
+
+14.	Next navigate to the **Texture** tab and under **Base Color** select the **Use Texture** box.  Now click on the **File Chooser** icon and select the ***_color.png** texture that we baked out into the render folder earlier.  Our principled shader is now ready for use.  There are lots of opportunities in this material network for advanced users to further modify the material, but for this tutorial we will be using this configuration.
+
+SCREEN SHOT GOES HERE  
+
+15.	Click the back arrow in the **Vex Builder** pane to navigate back to our **Geometry** Pane.
+
+SCREEN SHOT GOES HERE  
+
+16.	Place a **Material** node into the geometry pane by navigating to **Material > Material**.
+
+SCREEN SHOT GOES HERE  
+
+17.	Next, connect the output of your **AutoUV** node to the input of the **Material** node.
+
+SCREEN SHOT GOES HERE  
+
+18.	With the **Material** node selected, click the **operator chooser** button and select the **Principled Shader** we just created by navigating to **file1 > matnet1** and selecting the **principledshader1** operator.
+
+SCREEN SHOT GOES HERE  
+
+19.	If you click the right side of the node to activate it in your viewport you will see the texture rendered on top of your low-poly 3D model.  If it looks acceptable, we can move on to exporting the 3D model.
+ 
+SCREEN SHOT GOES HERE 
+
 
 
 
