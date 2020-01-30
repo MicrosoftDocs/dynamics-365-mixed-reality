@@ -16,9 +16,9 @@ The first thing that you see when you open a guide is the anchoring instructions
 ![Scan Printed Anchor page](media/scan-printed-anchor.png "Scan Printed Anchor page")
 
 > [!NOTE]
-> The page in the previous illustration shows the anchoring instructions for a printed anchor. The page will differ if you must anchor your guide by using a digital anchor. The anchoring instructions will tell you how to anchor your guide.
+> The page in the previous illustration shows the anchoring instructions for a printed anchor. The page will differ if you have to anchor your guide by using a digital anchor. The anchoring instructions will tell you how to anchor your guide.
 
-Like the calibration of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], anchoring a guide is a crucial step. You anchor a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don't line up, operators will likely be confused when they try to do a task. They could even cause damage. For example, an operator might drill a hole in the wrong place.
+Like the calibration of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], anchoring a guide is a crucial step. You anchor a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don't line up, you'll likely be confused when you try to do a task. You could even cause damage. For example, you might drill a hole in the wrong place.
 
 ## Printed anchors versus digital anchors
 
@@ -26,7 +26,7 @@ There are two types of anchors: printed anchors and digital anchors. The method 
 
 ### Anchor your guide by using a printed anchor
 
-1. Look for a printed anchor that is attached to a physical object in your real-world environment. The printed anchor will resemble this illustration.
+1. Look for a printed anchor that's attached to a physical object in your real-world environment. The printed anchor will resemble this illustration.
 
     ![Printed marker](media/printed-marker.PNG "Printed marker")
 
@@ -52,7 +52,7 @@ To align the digital anchor with its real-world counterpart, air tap and hold to
 
 ## Where alignment information is stored
 
-When you align your guide, if you're using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)]. Therefore, you don't have to realign the guide every time that you open it. However, you can realign a guide at any time if you think that the holograms are out of alignment by using the **Anchor** button. For more information, see [Operate a guide](operator-orientation.md).
+When you align your guide, if you're using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)], so you don't have to realign the guide every time that you open it. However, you can realign a guide at any time if you think that the holograms are out of alignment by using the **Anchor** button. For more information, see [Operate a guide](operator-orientation.md).
 
 ## What's next?
 
