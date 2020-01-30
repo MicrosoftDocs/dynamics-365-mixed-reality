@@ -46,5 +46,86 @@ There is an existing plugin for Houdini users to leverage AliceVision for photog
 
 [AliceVision](https://alicevision.org/) is a Photogrammetric Computer Vision Framework which provides 3D Reconstruction and Camera Tracking algorithms, which can be found on GitHub. It is being developed by the post-production company called **Mikros Image**, about whom you can find more information here: [About AliceVision](https://alicevision.org/#about) – [SideFX](https://www.sidefx.com/tutorials/alicevision-plugin/)
 
+## Importing point-clouds into SideFX Houdini
 
+Houdini can import point-clouds of a file type .ply.  If you do not have a .ply file format, but do have a .pts file format, it is possible to manually convert your file format.
 
+### Manually converting .pts files to .ply files.
+
+You can open your .pts file in a file editor of your choice and add the following heading to your file to convert it from a .pts file to a .ply file.  
+
+************************
+ply
+format ascii 1.0
+element vertex 534993 WHY WAS THIS HIGHLIGHTED IN YELLOW?
+property float x
+property float y
+property float z
+property uchar intensity
+property uchar red
+property uchar green
+property uchar blue
+end_header
+************************
+(Note: the element vertex highlighted above in the header is the number that appears at the top of your .pts file.  This is the total number of points in your point cloud and should be placed in the header and removed from the file after the header.)
+Below is a side by side view of what the top of your original .pts file and the top of your modified .ply files will look like before and after the heading is added.  The element vertex count is highlighted in red:
+
+|Top of .pts file|Top of .ply file|
+|---------------------------------------------------------------|------------------------------------------------------------------|
+|SCREEN SHOT GOES HERE|SCREEN SHOT GOES HERE|
+
+*The numbers on the left most of the images indicate respective line number.*
+
+Once you have correctly modified your .pts file, save it with the file extension .ply and you will now be able to import your point-cloud into Houdini.
+
+### Import your .ply file
+
+1.	Open Houdini. A new scene will automatically be created.  We will be building a chain of nodes that process our point cloud into a 3D model.  These nodes will be constructed in the bottom right windowpane highlighted below.
+
+SCREEN SHOT GOES HERE  
+
+2.	Right click in the bottom right windowpane to open the tab menu (you can also just press TAB). In the **TAB menu**, navigate to **Import > File**.  Left click to place this node into the Geometry pane.
+
+SCREEN SHOT GOES HERE
+ 
+3.	Double click the center of the **File1** icon or press **I** to drill down to the file selection part of this node. Click the **File Chooser** button and choose the file you wish to import.
+
+SCREEN SHOT GOES HERE 
+
+4.	A file browser will pop up. Browse to the location of the file you need to import, select your .ply point-cloud file, and then click the **Accept** button. 
+
+SCREEN SHOT GOES HERE
+ 
+5.	You can now see your point-cloud in the viewport.  If you cannot, try zooming out with the mouse wheel until you can see the entire point-cloud.
+
+SCREEN SHOT GOES HERE
+ 
+## Preparing point-clouds
+
+### Re-orienting point-clouds
+
+Sometimes your point-cloud will import in the wrong orientation.  You can easily fix this by adding a transformation node in the node tree on the bottom right of the Houdini window.  
+
+1.	To add a transform node, right-click inside the geometry pane to access the TAB menu and navigate to **Manipulate > Transform**.
+
+SCREEN SHOT GOES HERE
+
+2.	Place the “transform” node below the “file” node, left mouse click and hold the dot on the bottom of the “file” node and drag it to the dot on the top of the “transform” node to link them.  Once you have them linked, left mouse click the right side of the “transform” node.  Doing this will turn it blue and set the View window to the transform node so that you can see your model after it has been transformed. 
+
+SCREEN SHOT GOES HERE
+ 
+>[!TIP]
+>Tip: In Houdini, you can Select the right side of each node to view the model during that stage of the process.  This is helpful is you ever need to go back and look at your 3D model in a previous state to make changes that occurred during that state.
+3.	Now that you have your transform node set up properly, correct the rotation of your model.  You do this by adding values to the “Rotate” row of value in the options pane above the node pane.  Often you can replace the x value with “270” and the model will rotate to the correct position.  If this does not produce an acceptable result, try with different values.
+
+SCREEN SHOT GOES HERE
+ 
+4.	You should now see your point-cloud oriented correctly.  If you would like to center your point-cloud over the origin, you can add an **axis align** node after your transform node.  To place the node, hover your mouse over the Geometry pane, press tab and navigate to **Labs > Geo  Labs Axis Align**.  
+
+SCREEN SHOT GOES HERE
+ 
+5.	Connect the output of your **transform** node to the input of your axis align node.  Leaving the values at default will set your point-cloud on top of the origin point, an ideal place to have your 3D model.
+
+SCREEN SHOT GOES HERE 
+
+Next, we will clean up the point-cloud.
