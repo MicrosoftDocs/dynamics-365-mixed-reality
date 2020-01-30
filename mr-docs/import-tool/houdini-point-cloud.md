@@ -129,3 +129,27 @@ SCREEN SHOT GOES HERE
 SCREEN SHOT GOES HERE 
 
 Next, we will clean up the point-cloud.
+
+### Cleaning up point-clouds
+
+If your point-cloud has stray points that you would like to remove, you can select and delete individual or groups of points.
+
+1.	To start, change the “geometry select” method to **points** and the “select” tool to **Lasso Picking**. You can use a different method if you prefer, but for this demo we will be using these settings.
+
+SCREEN SHOT GOES HERE 
+
+2.	Once you have your selection set up, select the points that you wish to delete.
+
+SCREEN SHOT GOES HERE 
+ 
+3.	Press the **Delete** key to remove these points from your point cloud.  When you do this, a new node called “blast” will appear connected to the bottom of the last node you were operating on.
+
+SCREEN SHOT GOES HERE 
+ 
+4.	Continue to remove points until your point-cloud reaches a satisfactory level of cleanliness.  Each deletion will add a new “blast” node that can be viewed or removed at any time.
+
+SCREEN SHOT GOES HERE 
+ 
+
+
+
