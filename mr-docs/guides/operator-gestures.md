@@ -1,62 +1,65 @@
 ---
 author: Mamaylya
-description: Gestures you can use to navigate a guide as an operator in Dynamics 365 Guides
+description: Learn about gestures that you can use to navigate a guide as an operator in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
-title: Gestures you can use to navigate a guide as an operator in Dyanmics 365 Guides
+title: Gestures you can use to navigate a guide as an operator in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
 # HoloLens 1 gestures for operating (navigating) a guide in Dynamics 365 Guides
 
-To navigate through a guide as an operator in Dynamics 365 Guides, you use your gaze and a few gestures. 
+To move through a guide as an operator in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you use your gaze and a few gestures.
 
-## Gaze 
+## Gaze
 
-Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is pretty much as easy as it sounds. In some cases, you can select an item (an app, menu, or button, for example) just by gazing at a selection box next to the item. For example, when you first start the [!include[pn-hololens](../includes/pn-hololens.md)] app, you’ll gaze at the box to the left of **Operate** in the following dialog box to select **Operate** mode.
+Gaze on [!include[pn-hololens](../includes/pn-hololens.md)] is as easy as it sounds. In some cases, you can select an item (for example, an app, menu, or button) just by gazing at a selection box next to it. For example, when you first start the [!include[pn-hololens](../includes/pn-hololens.md)] app, you will gaze at the box to the left of **Operate** in the **Select Mode** dialog box to select **Operate** mode. The selection is completed when the box is filled up by your gaze.
 
-![Example of using gaze](media/gaze-example.PNG "Example of using gaze")  
+![Example of using gaze](media/gaze-example.PNG "Example of using gaze")
 
-The selection is completed when the box is filled up by your gaze. Using gaze is extremely helpful if your hands are occupied with tools or parts.  
+Gaze is very useful if your hands are busy with tools or parts.
 
-In other cases in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you use gaze to target an object, and then act on the target with a gesture, such as an air tap. In either case, when you gaze, make sure to turn your whole head—not just your eyes.  
+In other cases, you first use gaze to target an object in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], and you then act on the object by using a gesture such as an air tap.
 
-## Gestures 
-You’ll also need to use some gestures as you work with a guide. This section lists the most important gestures to know about. 
+In both cases, when you gaze, be sure to turn your whole head, not just your eyes.
 
-### Bloom 
+## Gestures
 
-The bloom gesture opens the **Start** menu or the **Quick Actions** menu, depending on which version of HoloLens you're using. Most of the time, you need to use the bloom gesture only once to get to **Start**, but sometimes you'll need to use it twice. If you're not sure what to do at any time, the bloom gesture is a good way to get reoriented.
+As you work with a guide, you will also have to use some gestures. This section lists the most important gestures.
 
-To do the bloom gesture:
+### Bloom
 
-1.	Hold out your hand with your palm up and your fingertips together.
+The bloom gesture opens the **Start** menu or the **Quick Actions** menu, depending on the version of [!include[pn-hololens](../includes/pn-hololens.md)] that you're using. Most of the time, you will have to use the bloom gesture only once to get to **Start**. However, you will sometimes have to use it twice. If you're ever unsure what to do, the bloom gesture can help you get reoriented.
 
-2.	Open your hand. 
+To do the bloom gesture, follow these steps.
 
-   ![Bloom gesture](media/bloom-gesture.PNG "Bloom gesture")  
- 
+1. Hold out one of your hands with the palm facing up and all your fingertips together.
 
-### Air tap 
+2. Open your hand.
 
-Use air tap, along with gaze, to select apps and other holograms and any gaze/dwell buttons. To do an air tap: 
+![Bloom gesture](media/bloom-gesture.PNG "Bloom gesture")
 
-1.	Gaze at a hologram. 
+### Air tap
 
-2.	Hold your hand straight out in front of you in a loose fist, then point your index finger straight up toward the ceiling. You don’t need to raise your whole arm—keep your elbow low and comfortable. 
+You can use air tap, together with gaze, to select apps, other holograms, and gaze/dwell buttons. To do an air tap, follow these steps.
 
-3.	Tap your finger down, and then quickly raise it back up again. 
+1. Gaze at a hologram.
 
-    ![Air tap gesture](media/air-tap-gesture.PNG "Air tap gesture")  
- 
+2. Hold your hand straight out in front of you in a loose fist, and point your index finger straight up toward the ceiling. You don't have to raise your whole arm. Keep your elbow low and comfortable.
+
+3. Tap your finger down, and then quickly raise it back up again.
+
+![Air tap gesture](media/air-tap-gesture.PNG "Air tap gesture")
+
 ### The gesture frame
 
-[!include[pn-hololens](../includes/pn-hololens.md)] has sensors that can see a few feet to either side of you. When you use gestures, you'll need to keep them inside that frame, or [!include[pn-hololens](../includes/pn-hololens.md)] won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the cursor looks like a ring. When [!include[pn-hololens](../includes/pn-hololens.md)] can't see your hand, the cursor changes to a dot. 
+[!include[pn-hololens](../includes/pn-hololens.md)] has sensors that can see a few feet to each side of you. When you use gestures, you must keep them inside that frame. Otherwise, [!include[pn-hololens](../includes/pn-hololens.md)] won't see them. As you move around, the frame moves with you. When your hand is inside the frame, the pointer looks like a ring. If [!include[pn-hololens](../includes/pn-hololens.md)] can't see your hand, the pointer becomes a dot.
 
-## Need a tutorial on gestures? 
-For a tutorial on some basic gestures, use the bloom gesture to go to **Start**, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/help/13456/hololens-and-holograms-faq). 
+## Need a tutorial on gestures?
+
+For a tutorial on some basic gestures, use the bloom gesture to go to **Start**, and then select **Learn Gestures**. If you're having trouble with gestures, see [HoloLens and holograms: FAQ](https://support.microsoft.com/help/13456/hololens-and-holograms-faq).
 
 ## What's next?
 
