@@ -136,23 +136,19 @@ If your point-cloud has stray points that you would like to remove, you can sele
 
 1.	To start, change the “geometry select” method to **points** and the “select” tool to **Lasso Picking**. You can use a different method if you prefer, but for this demo we will be using these settings.
 
-SCREEN SHOT GOES HERE 
-![Points and Lasso Picking selected](media/houdini-16-points-lasso-picking.PNG "Points and Lasso Picking selected")
+    ![Points and Lasso Picking selected](media/houdini-16-points-lasso-picking.PNG "Points and Lasso Picking selected")
 
 2.	Once you have your selection set up, select the points that you wish to delete.
 
-SCREEN SHOT GOES HERE 
-![Selected points to delete](media/houdini-17-selected-points.PNG "Selected points to delete")
+    ![Selected points to delete](media/houdini-17-selected-points.PNG "Selected points to delete")
  
 3.	Press the **Delete** key to remove these points from your point cloud.  When you do this, a new node called “blast” will appear connected to the bottom of the last node you were operating on.
 
-SCREEN SHOT GOES HERE 
-![Blast node](media/houdini-18-blast-node.PNG "Blast node")
+    ![Blast node](media/houdini-18-blast-node.PNG "Blast node")
  
 4.	Continue to remove points until your point-cloud reaches a satisfactory level of cleanliness.  Each deletion will add a new “blast” node that can be viewed or removed at any time.
 
-SCREEN SHOT GOES HERE 
-![Multiple blast nodes](media/houdini-19-multiple-blast-nodes.PNG "Multiple blast nodes")
+    ![Multiple blast nodes](media/houdini-19-multiple-blast-nodes.PNG "Multiple blast nodes")
  
 ## Convert your point-cloud to a mesh
 
@@ -160,48 +156,39 @@ Now that our point-cloud has been imported and is oriented correctly, we will co
 
 1.	In the Geometry windowpane, click the left mouse button and then navigate to **Fluid > Particle Fluid Surface**, select the node and add it to the geometry windowpane. 
 
-SCREEN SHOT GOES HERE 
-![Fluid > Particle Fluid Surface command](media/houdini-20-particle-fluid-surface.PNG "Fluid > Particle Fluid Surfacecommand")
+    ![Fluid > Particle Fluid Surface command](media/houdini-20-particle-fluid-surface.PNG "Fluid > Particle Fluid Surfacecommand")
 
 2.	Connect it to the transform node by left mouse button holding the output node and dragging the connector to the left input node.  Click on the far-right tab of the pariclefluidsurface1 node to activate this node in the viewport.
  
-SCREEN SHOT GOES HERE 
-![Connected nodes](media/houdini-21-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes](media/houdini-21-connected-nodes.PNG "Connected nodes")
   
-Once this step is complete your point-cloud will be rendered as a mesh in the viewport. Above the Geometry tab the Surfacing tab will be open in the upper right pane.
+    Once this step is complete your point-cloud will be rendered as a mesh in the viewport. Above the Geometry tab the Surfacing tab will be open in the upper right pane.
 
-SCREEN SHOT GOES HERE 
-![Surfacing tab](media/houdini-22-surfacing-tab.PNG "Surfacing tab")
+    ![Surfacing tab](media/houdini-22-surfacing-tab.PNG "Surfacing tab")
  
 3.	If the points in your point-cloud have color data connected to them, then you can use those color attributes by adding the letters **Cd** to the end of the **Transfer Attributes** text box.  Once you add this attribute you will see color come through on your mesh.
 
-SCREEN SHOT GOES HERE 
-![Cd attribute](media/houdini-23-cd-attribute.PNG "Cd attribute")
+    ![Cd attribute](media/houdini-23-cd-attribute.PNG "Cd attribute")
  
 4.	Sometimes the mesh may generate with issues such as holes as shown below.  You can adjust both the **Particle Separation** and **Voxel Scale** sliders until a satisfactory result has been produced. 
 
-SCREEN SHOT GOES HERE  
-![Particle Separation and Voxel Scale sliders](media/houdini-24-particle-scale-voxel.PNG "Particle Separation and Voxel Scale sliders")
+    ![Particle Separation and Voxel Scale sliders](media/houdini-24-particle-scale-voxel.PNG "Particle Separation and Voxel Scale sliders")
  
 5.	Once you have your mesh rendering in a way that you like there are a couple things we must do to prepare for decimation.  First, in the output tab change the **Convert to** drop down from **Surface Polygon Soup** to **Surface Polygons**. This will allow us to remesh and decimate our mesh.
 
-SCREEN SHOT GOES HERE 
-![Convert to drop-down](media/houdini-25-convert-to.PNG "Convert to drop-down")
+    ![Convert to drop-down](media/houdini-25-convert-to.PNG "Convert to drop-down")
  
 6.	Next add a **remesh** node so that the mesh is converted into triangles.  This will allow us to decimate the 3D model to a poly count that meets your performance requirements.  To do this, right mouse click in the Geometry pane and navigate to **Polygon -> Remesh**.
 
-SCREEN SHOT GOES HERE  
-![Polygon > Remesh command](media/houdini-26-polygon-remesh.PNG "Polygon > Remesh command")
+    ![Polygon > Remesh command](media/houdini-26-polygon-remesh.PNG "Polygon > Remesh command")
 
 7.	Connect the **remesh** node to the left input node of the **particlefluidsurface** node.  Click the middle of the **remesh** node to activate it in the pane above the geometry pane and click the far-right tab to activate the model in the viewport.  You should now be able to edit the properties of the remesh and see those edits represented in the viewport.
 
-SCREEN SHOT GOES HERE 
-![Connected nodes](media/houdini-27-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes](media/houdini-27-connected-nodes.PNG "Connected nodes")
  
 8.	You can play with the element sizing controls here by either staying with the default **Uniform** option in **edge lengths**, or choosing **adaptive** and changing the **relative density slider** among others if you feel that it produces a better looking mesh.
 
-SCREEN SHOT GOES HERE 
-![Element Sizing controls](media/houdini-28-element-sizing.PNG "Element Sizing controls")
+    ![Element Sizing controls](media/houdini-28-element-sizing.PNG "Element Sizing controls")
 
 ## Decimate the 3D model
 
@@ -209,7 +196,7 @@ To reach application-specific goals, we may need to decimate the 3D model.  Deci
 
 |High-poly 3D model|	Low-poly 3D model|
 |---------------------------------------------------------------|--------------------------------------------------------------|
-|SCREEN SHOT GOES HERE![High-poly model](media/houdini-29-high-poly-model.PNG "High-poly model") |SCREEN SHOT GOES HERE ![Low-poly-model](media/houdini-30-low-poly-model.PNG "Low-poly model")|
+|![High-poly model](media/houdini-29-high-poly-model.PNG "High-poly model") |![Low-poly-model](media/houdini-30-low-poly-model.PNG "Low-poly model")|
 |500,000 triangles|8,000 triangles|
 
 1.	In the Geometry pane on the lower right, tap the Tab key to bring up the tab menu again.  Navigate to **Polygon > PolyReduce** and to select the PolyReduce node.  Place the node in the Geometry pane.
