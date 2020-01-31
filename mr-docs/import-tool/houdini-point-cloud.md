@@ -36,8 +36,7 @@ SideFX provides a tutorial video that will help you install these tools that can
 
 3.	Click update to install the tools.  It is packaged with Houdini and does not require an internet connection to install.  If you are connected to the internet, then you can change the release to a later release.  If you want to check out the latest features, then you can uncheck the “Production Builds Only” option and you will be able to install the absolute latest builds of SideFX Labs.
 
-SCREEN SHOT GOES HERE
-![Update button](media/houdini-3-update-button.PNG "Update button")
+    ![Update button](media/houdini-3-update-button.PNG "Update button")
 
 You will know that your install was successful if more tools show up in the toolbar. You are now ready to use SideFX Labs tools and can continue with the tutorial.
 
