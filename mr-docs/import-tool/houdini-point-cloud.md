@@ -34,12 +34,12 @@ SCREEN SHOT GOES HERE
 2.	You will now have a SideFX Labs toolbar that has one icon called **Update toolset**.  Click on this icon to launch the installer.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-2-.PNG "xxx")
+![Update toolset icon](media/houdini-2-update-toolset-icon.PNG "Update toolset icon")
 
 3.	Click update to install the tools.  It is packaged with Houdini and does not require an internet connection to install.  If you are connected to the internet, then you can change the release to a later release.  If you want to check out the latest features, then you can uncheck the “Production Builds Only” option and you will be able to install the absolute latest builds of SideFX Labs.
 
 SCREEN SHOT GOES HERE
-![xxx](media/houdini-3-.PNG "xxx")
+![Update button](media/houdini-3-update-button.PNG "Update button")
 
 You will know that your install was successful if more tools show up in the toolbar. You are now ready to use SideFX Labs tools and can continue with the tutorial.
 
@@ -75,7 +75,7 @@ Below is a side by side view of what the top of your original .pts file and the 
 
 |Top of .pts file|Top of .ply file|
 |---------------------------------------------------------------|------------------------------------------------------------------|
-|SCREEN SHOT GOES HERE![xxx](media/houdini-4-.PNG "xxx")|SCREEN SHOT GOES HERE![xxx](media/houdini-5-.PNG "xxx")|
+|SCREEN SHOT GOES HERE![Selected number at top of .PTS file](media/houdini-4-pts-file.PNG "Selected number at top of .PTS file")|SCREEN SHOT GOES HERE![Selected number at top of .PLY file](media/houdini-5-ply-file.PNG "Selected number at top of .PLY file")|
 
 *The numbers on the left most of the images indicate respective line number.*
 
@@ -86,27 +86,27 @@ Once you have correctly modified your .pts file, save it with the file extension
 1.	Open Houdini. A new scene will automatically be created.  We will be building a chain of nodes that process our point cloud into a 3D model.  These nodes will be constructed in the bottom right windowpane highlighted below.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-6-.PNG "xxx")
+![Node area of window](media/houdini-6-node-area.PNG "Node area of window")
 
-2.	Right click in the bottom right windowpane to open the tab menu (you can also just press TAB). In the **TAB menu**, navigate to **Import > File**.  Left click to place this node into the Geometry pane.
+2.	Right click in the bottom right windowpane to open the **TAB menu** (you can also just press TAB). In the **TAB menu**, navigate to **Import > File**.  Left click to place this node into the Geometry pane.
 
 SCREEN SHOT GOES HERE
-![xxx](media/houdini-7-.PNG "xxx")
+![Import File command](media/houdini-7-import-file.PNG "Import File command")
  
 3.	Double click the center of the **File1** icon or press **I** to drill down to the file selection part of this node. Click the **File Chooser** button and choose the file you wish to import.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-8-.PNG "xxx")
+![File Chooser button](media/houdini-8-file-chooser.PNG "File Chooser button")
 
 4.	A file browser will pop up. Browse to the location of the file you need to import, select your .ply point-cloud file, and then click the **Accept** button. 
 
 SCREEN SHOT GOES HERE
-![xxx](media/houdini-9-.PNG "xxx")
+![Accept button](media/houdini-9-accept-button.PNG "Accept button")
  
 5.	You can now see your point-cloud in the viewport.  If you cannot, try zooming out with the mouse wheel until you can see the entire point-cloud.
 
 SCREEN SHOT GOES HERE
-![xxx](media/houdini-10-.PNG "xxx")
+![Point cloud displayed](media/houdini-10-point-cloud-displayed.PNG "Point cloud displayed")
  
 ## Preparing point-clouds
 
@@ -117,55 +117,55 @@ Sometimes your point-cloud will import in the wrong orientation.  You can easily
 1.	To add a transform node, right-click inside the geometry pane to access the TAB menu and navigate to **Manipulate > Transform**.
 
 SCREEN SHOT GOES HERE
-![xxx](media/houdini-11-.PNG "xxx")
+![Manipulat > Transform command](media/houdini-11-manipulate-transform.PNG "Manipulate > Transform command")
 
 2.	Place the “transform” node below the “file” node, left mouse click and hold the dot on the bottom of the “file” node and drag it to the dot on the top of the “transform” node to link them.  Once you have them linked, left mouse click the right side of the “transform” node.  Doing this will turn it blue and set the View window to the transform node so that you can see your model after it has been transformed. 
 
 SCREEN SHOT GOES HERE
-![xxx](media/houdini-12-.PNG "xxx")
+![Transform node](media/houdini-12-transform-node.PNG "Transform node")
  
 >[!TIP]
 >Tip: In Houdini, you can Select the right side of each node to view the model during that stage of the process.  This is helpful is you ever need to go back and look at your 3D model in a previous state to make changes that occurred during that state.
 3.	Now that you have your transform node set up properly, correct the rotation of your model.  You do this by adding values to the “Rotate” row of value in the options pane above the node pane.  Often you can replace the x value with “270” and the model will rotate to the correct position.  If this does not produce an acceptable result, try with different values.
 
 SCREEN SHOT GOES HERE
-![xxx](media/houdini-13-.PNG "xxx")
+![Rotation value](media/houdini-13-rotation-value.PNG "Rotation value")
  
 4.	You should now see your point-cloud oriented correctly.  If you would like to center your point-cloud over the origin, you can add an **axis align** node after your transform node.  To place the node, hover your mouse over the Geometry pane, press tab and navigate to **Labs > Geo  Labs Axis Align**.  
 
 SCREEN SHOT GOES HERE
-![xxx](media/houdini-14-.PNG "xxx")
+![Labs > Geo > Labs Axis Align command](media/houdini-14-labs-geo-axis-align.PNG "Labs > Geo > Labs Axis Align command")
  
 5.	Connect the output of your **transform** node to the input of your axis align node.  Leaving the values at default will set your point-cloud on top of the origin point, an ideal place to have your 3D model.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-15-.PNG "xxx")
+![Nodes connected](media/houdini-15-nodes-connected.PNG "Nodes connected")
 
-Next, we will clean up the point-cloud.
+Next, we'll clean up the point cloud.
 
-### Cleaning up point-clouds
+### Clean up the point clouds
 
 If your point-cloud has stray points that you would like to remove, you can select and delete individual or groups of points.
 
 1.	To start, change the “geometry select” method to **points** and the “select” tool to **Lasso Picking**. You can use a different method if you prefer, but for this demo we will be using these settings.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-16-.PNG "xxx")
+![Points and Lasso Picking selected](media/houdini-16-points-lasso-picking.PNG "Points and Lasso Picking selected")
 
 2.	Once you have your selection set up, select the points that you wish to delete.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-17-.PNG "xxx")
+![Selected points to delete](media/houdini-17-selected-points.PNG "Selected points to delete")
  
 3.	Press the **Delete** key to remove these points from your point cloud.  When you do this, a new node called “blast” will appear connected to the bottom of the last node you were operating on.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-18-.PNG "xxx")
+![Blast node](media/houdini-18-blast-node.PNG "Blast node")
  
 4.	Continue to remove points until your point-cloud reaches a satisfactory level of cleanliness.  Each deletion will add a new “blast” node that can be viewed or removed at any time.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-19-.PNG "xxx")
+![Multiple blast nodes](media/houdini-19-multiple-blast-nodes.PNG "Multiple blast nodes")
  
 ## Convert your point-cloud to a mesh
 
@@ -174,17 +174,17 @@ Now that our point-cloud has been imported and is oriented correctly, we will co
 1.	In the Geometry windowpane, click the left mouse button and then navigate to **Fluid > Particle Fluid Surface**, select the node and add it to the geometry windowpane. 
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-20-.PNG "xxx")
+![Fluid > Particle Fluid Surface command](media/houdini-20-particle-fluid-surface.PNG "Fluid > Particle Fluid Surfacecommand")
 
 2.	Connect it to the transform node by left mouse button holding the output node and dragging the connector to the left input node.  Click on the far-right tab of the pariclefluidsurface1 node to activate this node in the viewport.
  
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-21-.PNG "xxx")
+![Connected nodes](media/houdini-21-connected-nodes.PNG "Connected nodes")
   
 Once this step is complete your point-cloud will be rendered as a mesh in the viewport. Above the Geometry tab the Surfacing tab will be open in the upper right pane.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-22-.PNG "xxx")
+![Surfacing tab](media/houdini-22-surfacing-tab.PNG "Surfacing tab")
  
 3.	If the points in your point-cloud have color data connected to them, then you can use those color attributes by adding the letters **Cd** to the end of the **Transfer Attributes** text box.  Once you add this attribute you will see color come through on your mesh.
 
