@@ -72,7 +72,7 @@ Below is a side by side view of what the top of your original .pts file and the 
 
 |Top of .pts file|Top of .ply file|
 |---------------------------------------------------------------|------------------------------------------------------------------|
-|SCREEN SHOT GOES HERE![Selected number at top of .PTS file](media/houdini-4-pts-file.PNG "Selected number at top of .PTS file")|SCREEN SHOT GOES HERE![Selected number at top of .PLY file](media/houdini-5-ply-file.PNG "Selected number at top of .PLY file")|
+|![Selected number at top of .PTS file](media/houdini-4-pts-file.PNG "Selected number at top of .PTS file")|![Selected number at top of .PLY file](media/houdini-5-ply-file.PNG "Selected number at top of .PLY file")|
 
 *The numbers on the left most of the images indicate respective line number.*
 
@@ -82,28 +82,23 @@ Once you have correctly modified your .pts file, save it with the file extension
 
 1.	Open Houdini. A new scene will automatically be created.  We will be building a chain of nodes that process our point cloud into a 3D model.  These nodes will be constructed in the bottom right windowpane highlighted below.
 
-SCREEN SHOT GOES HERE 
-![Node area of window](media/houdini-6-node-area.PNG "Node area of window")
+    ![Node area of window](media/houdini-6-node-area.PNG "Node area of window")
 
 2.	Right click in the bottom right windowpane to open the **TAB menu** (you can also just press TAB). In the **TAB menu**, navigate to **Import > File**.  Left click to place this node into the Geometry pane.
 
-SCREEN SHOT GOES HERE
-![Import File command](media/houdini-7-import-file.PNG "Import File command")
+    ![Import File command](media/houdini-7-import-file.PNG "Import File command")
  
 3.	Double click the center of the **File1** icon or press **I** to drill down to the file selection part of this node. Click the **File Chooser** button and choose the file you wish to import.
 
-SCREEN SHOT GOES HERE 
-![File Chooser button](media/houdini-8-file-chooser.PNG "File Chooser button")
+    ![File Chooser button](media/houdini-8-file-chooser.PNG "File Chooser button")
 
 4.	A file browser will pop up. Browse to the location of the file you need to import, select your .ply point-cloud file, and then click the **Accept** button. 
 
-SCREEN SHOT GOES HERE
-![Accept button](media/houdini-9-accept-button.PNG "Accept button")
+    ![Accept button](media/houdini-9-accept-button.PNG "Accept button")
  
 5.	You can now see your point-cloud in the viewport.  If you cannot, try zooming out with the mouse wheel until you can see the entire point-cloud.
 
-SCREEN SHOT GOES HERE
-![Point cloud displayed](media/houdini-10-point-cloud-displayed.PNG "Point cloud displayed")
+    ![Point cloud displayed](media/houdini-10-point-cloud-displayed.PNG "Point cloud displayed")
  
 ## Preparing point-clouds
 
@@ -113,30 +108,25 @@ Sometimes your point-cloud will import in the wrong orientation.  You can easily
 
 1.	To add a transform node, right-click inside the geometry pane to access the TAB menu and navigate to **Manipulate > Transform**.
 
-SCREEN SHOT GOES HERE
-![Manipulat > Transform command](media/houdini-11-manipulate-transform.PNG "Manipulate > Transform command")
+    ![Manipulat > Transform command](media/houdini-11-manipulate-transform.PNG "Manipulate > Transform command")
 
 2.	Place the “transform” node below the “file” node, left mouse click and hold the dot on the bottom of the “file” node and drag it to the dot on the top of the “transform” node to link them.  Once you have them linked, left mouse click the right side of the “transform” node.  Doing this will turn it blue and set the View window to the transform node so that you can see your model after it has been transformed. 
 
-SCREEN SHOT GOES HERE
-![Transform node](media/houdini-12-transform-node.PNG "Transform node")
+    ![Transform node](media/houdini-12-transform-node.PNG "Transform node")
  
->[!TIP]
->Tip: In Houdini, you can Select the right side of each node to view the model during that stage of the process.  This is helpful is you ever need to go back and look at your 3D model in a previous state to make changes that occurred during that state.
+    >[!TIP]
+    >Tip: In Houdini, you can Select the right side of each node to view the model during that stage of the process.  This is helpful is you ever need to go back and look at your 3D model in a previous state to make changes that occurred during that state.
 3.	Now that you have your transform node set up properly, correct the rotation of your model.  You do this by adding values to the “Rotate” row of value in the options pane above the node pane.  Often you can replace the x value with “270” and the model will rotate to the correct position.  If this does not produce an acceptable result, try with different values.
 
-SCREEN SHOT GOES HERE
-![Rotation value](media/houdini-13-rotation-value.PNG "Rotation value")
+    ![Rotation value](media/houdini-13-rotation-value.PNG "Rotation value")
  
 4.	You should now see your point-cloud oriented correctly.  If you would like to center your point-cloud over the origin, you can add an **axis align** node after your transform node.  To place the node, hover your mouse over the Geometry pane, press tab and navigate to **Labs > Geo  Labs Axis Align**.  
 
-SCREEN SHOT GOES HERE
-![Labs > Geo > Labs Axis Align command](media/houdini-14-labs-geo-axis-align.PNG "Labs > Geo > Labs Axis Align command")
+    ![Labs > Geo > Labs Axis Align command](media/houdini-14-labs-geo-axis-align.PNG "Labs > Geo > Labs Axis Align command")
  
 5.	Connect the output of your **transform** node to the input of your axis align node.  Leaving the values at default will set your point-cloud on top of the origin point, an ideal place to have your 3D model.
 
-SCREEN SHOT GOES HERE 
-![Nodes connected](media/houdini-15-nodes-connected.PNG "Nodes connected")
+    ![Nodes connected](media/houdini-15-nodes-connected.PNG "Nodes connected")
 
 Next, we'll clean up the point cloud.
 
