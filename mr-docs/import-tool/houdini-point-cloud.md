@@ -201,13 +201,11 @@ To reach application-specific goals, we may need to decimate the 3D model.  Deci
 
 1.	In the Geometry pane on the lower right, tap the Tab key to bring up the tab menu again.  Navigate to **Polygon > PolyReduce** and to select the PolyReduce node.  Place the node in the Geometry pane.
 
-SCREEN SHOT GOES HERE 
-![Polygon > PolyReduce command](media/houdini-31-polygon-polyreduce.PNG "Polygon > PolyReduce command")
+    ![Polygon > PolyReduce command](media/houdini-31-polygon-polyreduce.PNG "Polygon > PolyReduce command")
  
 2.	Connect the output from the **remesh** node to the top-left input node of the **polyreduce** node.  Select the **polyreduce** node by clicking in the middle and click the far-right tab to activate the **polyreduce** node in the viewport.  Once you have done this, change the **Reduction Amount** tab’s **Target** dropdown to **Output Polygon Count** and adjust the polygon count to an amount that is within your performance requirements and maintains an acceptable visual fidelity.
 
-SCREEN SHOT GOES HERE 
-![Connected nodes](media/houdini-32-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes](media/houdini-32-connected-nodes.PNG "Connected nodes")
  
 Our point-cloud has now been converted to an optimized 3D mesh.  In the next step we will bake a high-resolution texture to the 3D model to recover some of the visual fidelity that existed before decimation.
 
@@ -217,43 +215,35 @@ One downside to reducing the number of polygons that are in a mesh is that much 
 
 1.	Add the **Labs AutoUV** node to the scene by right clicking in the geometry pane and navigating to **Labs > UV > Labs Auto UV** and change the method to **UV unwrap**.
 
-SCREEN SHOT GOES HERE 
-![Labs AutoUV node](media/houdini-33-labs-autouv-node.PNG "Labs AutoUV node")
+    ![Labs AutoUV node](media/houdini-33-labs-autouv-node.PNG "Labs AutoUV node")
 
 2.	Connect the **polyreduce output node** to the **AutoUV input node**.
 
-SCREEN SHOT GOES HERE 
-![Connected nodes](media/houdini-34-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes](media/houdini-34-connected-nodes.PNG "Connected nodes")
 
 3.	Change your Viewport to **Vertical split** by clicking the **Viewport Layout** button and selecting **Two Views Side by Side**.
 
-SCREEN SHOT GOES HERE 
-![Two Views Side by Side option](media/houdini-35-two-views-option.PNG "Two Views Side by Side option")
+    ![Two Views Side by Side option](media/houdini-35-two-views-option.PNG "Two Views Side by Side option")
  
 4.	In the left ViewPane, set the view to **UV view** by left mouse clicking the drop down and navigating to **Set View > UV viewport**.
 
-SCREEN SHOT GOES HERE 
-![Set View > UV viewport command](media/houdini-36-uv-viewport.PNG "Set View > UV viewport command")
+    ![Set View > UV viewport command](media/houdini-36-uv-viewport.PNG "Set View > UV viewport command")
  
 You will now see your unwrapped UVs in the left pane and your 3D model in the right pane.
 
-SCREEN SHOT GOES HERE 
-![Unwrapped UVs displayed](media/houdini-37-unwrapped-uvs.PNG "Unwrapped UVs displayed")
+    ![Unwrapped UVs displayed](media/houdini-37-unwrapped-uvs.PNG "Unwrapped UVs displayed")
 
 5.	Add the **Labs Maps Baker** node to the geometry pane by navigating to **Labs > Output > Labs Maps Baker (Beta)**.
 
-SCREEN SHOT GOES HERE 
-![Labs Maps Baker node](media/houdini-38-labs-maps-baker-node.PNG "Labs Maps Baker node")
+    ![Labs Maps Baker node](media/houdini-38-labs-maps-baker-node.PNG "Labs Maps Baker node")
  
 6.	Connect the **AutoUV output** node to the **LOW Resolution input** node of the **maps baker** node.
 
-SCREEN SHOT GOES HERE  
-![Connected nodes](media/houdini-39-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes](media/houdini-39-connected-nodes.PNG "Connected nodes")
 
 7.	Connect the **particle fluid surface output** node to the **HIGH resolution input** node of the **maps baker node**.
 
-SCREEN SHOT GOES HERE 
-![Connected nodes](media/houdini-40-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes](media/houdini-40-connected-nodes.PNG "Connected nodes")
  
 8.	Select the **maps_baker** node and change the preview channel to **diffuse** and **check diffuse** in the **Transfer** section of **Bake options**.
 
