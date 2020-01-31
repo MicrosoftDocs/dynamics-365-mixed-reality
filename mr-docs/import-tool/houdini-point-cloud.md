@@ -307,7 +307,7 @@ SCREEN SHOT GOES HERE
 12.	Add a Principled Shader material by right mouse clicking in the VEX Builder pane and navigate to **Shaders > Principled Shaders**.
 
 SCREEN SHOT GOES HERE 
-![Shaders > Principled Shaders command](media/houdini-45-.PNG "Shaders > Principled Shaders command")
+![Shaders > Principled Shaders command](media/houdini-45-shaders.PNG "Shaders > Principled Shaders command")
  
 13.	In the options pane, navigate to the **Surface** tab and change the **roughness** to **0.6** and **Metallic** to **0.1**.  You can set these values to whatever you like.  We have found these values in conjunction with leaving the other values at their default values to be a good starting point.
 
@@ -414,7 +414,7 @@ SCREEN SHOT GOES HERE
 3.	Click the “Reload Geometry” button to load your point-cloud into your scene.
 
 SCREEN SHOT GOES HERE 
-![Reload Geometry button](media/houdini-62-.PNG "Reload Geometry button")
+![Reload Geometry button](media/houdini-62-reload-geometry.PNG "Reload Geometry button")
  
 4.	Once your point-cloud loads return to the **Maps Baker** node and click **bake** to bake a new texture for your 3D model.
 
