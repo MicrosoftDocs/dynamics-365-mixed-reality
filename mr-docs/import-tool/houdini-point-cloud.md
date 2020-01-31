@@ -247,56 +247,46 @@ You will now see your unwrapped UVs in the left pane and your 3D model in the ri
  
 8.	Select the **maps_baker** node and change the preview channel to **diffuse** and **check diffuse** in the **Transfer** section of **Bake options**.
 
-SCREEN SHOT GOES HERE  
-![Diffuse options](media/houdini-41-diffuse-options.PNG "Diffuse options")
+    ![Diffuse options](media/houdini-41-diffuse-options.PNG "Diffuse options")
 
->[!TIP]
->Save your project in a specific folder by clicking the file chooser highlighted in the image above.  When we bake our texture, the .png texture file will be output into a render folder that is created in the root of the saved project.  Saving your project into its own folder will make the baked texture easy to find.
+    >[!TIP]
+    >Save your project in a specific folder by clicking the file chooser highlighted in the image above.  When we bake our texture, the .png texture file will be output into a render folder that is created in the root of the saved project.  Saving your project into its own folder will make the baked texture easy to find.
 
 9.	Highlight the **Maps Baker** node and click **Bake** in the options pane.
 
-SCREEN SHOT GOES HERE 
-![Bake command](media/houdini-42-bake-command.PNG "Bake comand")
+    ![Bake command](media/houdini-42-bake-command.PNG "Bake comand")
  
 10.	Right mouse click in the Geometry pane to access the TAB menu and navigate to **Managers >Material Network** to add a **Material Network** node to your scene.  
 
-SCREEN SHOT GOES HERE 
-![Managers > Material Network command](media/houdini-43-managers-material-network.PNG "Managers > Material Network command")
+    ![Managers > Material Network command](media/houdini-43-managers-material-network.PNG "Managers > Material Network command")
 
 11.	Double click the **matnet** node to open the **VEX Builder** Pane.
 
-SCREEN SHOT GOES HERE 
-![Matnet node](media/houdini-44-matnet-node.PNG "Matnet node")
+    ![Matnet node](media/houdini-44-matnet-node.PNG "Matnet node")
  
 12.	Add a Principled Shader material by right mouse clicking in the VEX Builder pane and navigate to **Shaders > Principled Shaders**.
 
-SCREEN SHOT GOES HERE 
-![Shaders > Principled Shaders command](media/houdini-45-shaders.PNG "Shaders > Principled Shaders command")
+    ![Shaders > Principled Shaders command](media/houdini-45-shaders.PNG "Shaders > Principled Shaders command")
  
 13.	In the options pane, navigate to the **Surface** tab and change the **roughness** to **0.6** and **Metallic** to **0.1**.  You can set these values to whatever you like.  We have found these values in conjunction with leaving the other values at their default values to be a good starting point.
 
-SCREEN SHOT GOES HERE  
-![Roughness and Metallic values](media/houdini-46-roughness-metallic.PNG "Roughness and Metallic values")
+     ![Roughness and Metallic values](media/houdini-46-roughness-metallic.PNG "Roughness and Metallic values")
 
 14.	Next navigate to the **Texture** tab and under **Base Color** select the **Use Texture** box.  Now click on the **File Chooser** icon and select the _*_color.png_ texture that we baked out into the render folder earlier. Our principled shader is now ready for use.  There are lots of opportunities in this material network for advanced users to further modify the material, but for this tutorial we will be using this configuration.
 
-SCREEN SHOT GOES HERE  
-![Use Texture box and selected texture](media/houdini-47-texture.PNG "Use Texture box and selected texture")
+    ![Use Texture box and selected texture](media/houdini-47-texture.PNG "Use Texture box and selected texture")
 
 15.	Click the back arrow in the **Vex Builder** pane to navigate back to our **Geometry** Pane.
 
-SCREEN SHOT GOES HERE  
-![Back arrow](media/houdini-48-back-arrow.PNG "Back arrow")
+    ![Back arrow](media/houdini-48-back-arrow.PNG "Back arrow")
 
 16.	Place a **Material** node into the geometry pane by navigating to **Material > Material**.
 
-SCREEN SHOT GOES HERE  
-![Material > Material command](media/houdini-49-material.PNG "Material > Material command")
+    ![Material > Material command](media/houdini-49-material.PNG "Material > Material command")
 
 17.	Next, connect the output of your **AutoUV** node to the input of the **Material** node.
 
-SCREEN SHOT GOES HERE  
-![Connected nodes](media/houdini-50-connected-nodes.PNG "Connected nodes")
+    ![Connected nodes](media/houdini-50-connected-nodes.PNG "Connected nodes")
 
 18.	With the **Material** node selected, click the **operator chooser** button and select the **Principled Shader** we just created by navigating to **file1 > matnet1** and selecting the **principledshader1** operator.
 
