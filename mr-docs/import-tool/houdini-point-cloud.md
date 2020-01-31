@@ -351,27 +351,27 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 1.	In the Geometry window, right mouse button click to bring up the Tab menu.  Navigate to **Export > ROP GLTF Output**.
 
 SCREEN SHOT GOES HERE  
-![xxx](media/houdini-53-.PNG "xxx")
+![Export > ROP GLTF Output command](media/houdini-53-export.PNG "Export > ROP GLTF Output command")
 
 2.	Drag a connection from the **material1 output** node to the **rop_gltf input** node.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-54-.PNG "xxx")
+![Connected nodes](media/houdini-54-connected-nodes.PNG "Connected nodes")
   
 3.	In the top pane, change **Export Type** to **GLB**. 
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-55-.PNG "xxx")
+![glb selected in Export Type field](media/houdini-55-select-glb.PNG "glb selected in Export Type field")
  
 4.	Next to the Output File field, click the **File Chooser** and choose a name and destination for the **GLB**.  Make sure to add “.glb” to the end of your file name.
 
 SCREEN SHOT GOES HERE  
-![xxx](media/houdini-56-.PNG "xxx")
+![File Chooser button and Name field](media/houdini-56-file-chooser-name.PNG "File Chooser button and Name field")
 
 5.	Next, click the **Render to Disk** button to finalize the export and to create the **GLB** file.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-57-.PNG "xxx")
+![Render to Disk button](media/houdini-57-render-to-disk.PNG "Render to Disk button")
  
 Congratulations! You have officially taken a point-cloud and converted it into a mixed reality ready 3D model.
 
@@ -389,13 +389,13 @@ An advantage to using Houdini is all of the steps that are used to prepare the 3
     
     d.	Go ahead and change the file name to something generic like “Template” as well.
     
-        SCREEN SHOT GOES HERE 
-        ![xxx](media/houdini-58-.PNG "xxx")
+      SCREEN SHOT GOES HERE 
+      ![Refreshed geometry](media/houdini-58-refreshed-geometry.PNG "Refreshed geometry")
  
 2.	With our template setup, save your file as something memorable like “Prep_Template.”  To save the file go to **File > Save**.
 
 SCREEN SHOT GOES HERE  
-![xxx](media/houdini-59-.PNG "xxx")
+![File > Save command](media/houdini-59-file-save.PNG "File > Save command")
 
 3.	Your Template is now ready.  Close Houdini so that we can perform a complete walkthrough using our template.
 
@@ -404,31 +404,31 @@ SCREEN SHOT GOES HERE
 1.	Now that our template is ready, Launch Houdini and open your template file by going to File > Open, and selecting the template we saved in the previous section.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-60-.PNG "xxx")
+![File > Open command](media/houdini-60-file-open.PNG "File > Open command")
  
 2.	Click on the center of the geometry file node to switch to the File context menu above, and then click the “Open floating file chooser” button to select your .ply point cloud file.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-61-.PNG "xxx")
+![Selected node and File Chooser button](media/houdini-61-selected-node-file-chooser.PNG "Selected node and File Chooser button")
  
 3.	Click the “Reload Geometry” button to load your point-cloud into your scene.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-62-.PNG "xxx")
+![Reload Geometry button](media/houdini-62-.PNG "Reload Geometry button")
  
 4.	Once your point-cloud loads return to the **Maps Baker** node and click **bake** to bake a new texture for your 3D model.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-63-.PNG "xxx")
+![Bake command](media/houdini-63-bake-command.PNG "Bake command")
 
 5.	Click the right tab of the **Material** Node to view what your baked model looks like.
 
 SCREEN SHOT GOES HERE  
-![xxx](media/houdini-64-.PNG "xxx")
+![Right tab of Material node](media/houdini-64-right-tab-material-node.PNG "Right tab of Material node")
 
 6.	  If you are satisfied with the 3D model, navigate to the **rop_gltfB** node and export your 3D model by clicking **Render to Disk**.  
 SCREEN SHOT GOES HERE  
-![xxx](media/houdini-65-.PNG "xxx")
+![Render to Disk command](media/houdini-65-render-to-disk.PNG "Render to Disk command")
 
 7.	If you are not satisfied with how your model looks, then try adjusting the options in the **particle fluid surface**, **remesh**, and **polyreduce** nodes.  Once your model looks acceptable, bake your texture again and export your 3D model.
 
