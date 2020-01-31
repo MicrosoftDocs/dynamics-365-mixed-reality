@@ -189,32 +189,32 @@ SCREEN SHOT GOES HERE
 3.	If the points in your point-cloud have color data connected to them, then you can use those color attributes by adding the letters **Cd** to the end of the **Transfer Attributes** text box.  Once you add this attribute you will see color come through on your mesh.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-23-.PNG "xxx")
+![Cd attribute](media/houdini-23-cd-attribute.PNG "Cd attribute")
  
 4.	Sometimes the mesh may generate with issues such as holes as shown below.  You can adjust both the **Particle Separation** and **Voxel Scale** sliders until a satisfactory result has been produced. 
 
 SCREEN SHOT GOES HERE  
-![xxx](media/houdini-24-.PNG "xxx")
+![Particle Separation and Voxel Scale sliders](media/houdini-24-particle-scale-voxel.PNG "Particle Separation and Voxel Scale sliders")
  
 5.	Once you have your mesh rendering in a way that you like there are a couple things we must do to prepare for decimation.  First, in the output tab change the **Convert to** drop down from **Surface Polygon Soup** to **Surface Polygons**. This will allow us to remesh and decimate our mesh.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-25-.PNG "xxx")
+![Convert to drop-down](media/houdini-25-convert-to.PNG "Convert to drop-down")
  
 6.	Next add a **remesh** node so that the mesh is converted into triangles.  This will allow us to decimate the 3D model to a poly count that meets your performance requirements.  To do this, right mouse click in the Geometry pane and navigate to **Polygon -> Remesh**.
 
 SCREEN SHOT GOES HERE  
-![xxx](media/houdini-26-.PNG "xxx")
+![Polygon > Remesh command](media/houdini-26-polygon-remesh.PNG "Polygon > Remesh command")
 
 7.	Connect the **remesh** node to the left input node of the **particlefluidsurface** node.  Click the middle of the **remesh** node to activate it in the pane above the geometry pane and click the far-right tab to activate the model in the viewport.  You should now be able to edit the properties of the remesh and see those edits represented in the viewport.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-27-.PNG "xxx")
+![Connected nodes](media/houdini-27-connected-nodes.PNG "Connected nodes")
  
 8.	You can play with the element sizing controls here by either staying with the default **Uniform** option in **edge lengths**, or choosing **adaptive** and changing the **relative density slider** among others if you feel that it produces a better looking mesh.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-28-.PNG "xxx")
+![Element Sizing controls](media/houdini-28-element-sizing.PNG "Element Sizing controls")
 
 ## Decimate the 3D model
 
@@ -222,13 +222,13 @@ To reach application-specific goals, we may need to decimate the 3D model.  Deci
 
 |High-poly 3D model|	Low-poly 3D model|
 |---------------------------------------------------------------|--------------------------------------------------------------|
-|SCREEN SHOT GOES HERE![xxx](media/houdini-29-.PNG "xxx") |SCREEN SHOT GOES HERE ![xxx](media/houdini-30-.PNG "xxx")|
+|SCREEN SHOT GOES HERE![High-poly model](media/houdini-29-high-poly-model.PNG "High-poly model") |SCREEN SHOT GOES HERE ![Low-poly-model](media/houdini-30-low-poly-model.PNG "Low-poly model")|
 |500,000 triangles|8,000 triangles|
 
 1.	In the Geometry pane on the lower right, tap the Tab key to bring up the tab menu again.  Navigate to **Polygon > PolyReduce** and to select the PolyReduce node.  Place the node in the Geometry pane.
 
 SCREEN SHOT GOES HERE 
-![xxx](media/houdini-31-.PNG "xxx")
+![Polygon > PolyReduce command](media/houdini-31-polygon-polyreduce.PNG "Polygon > PolyReduce command")
  
 2.	Connect the output from the **remesh** node to the top-left input node of the **polyreduce** node.  Select the **polyreduce** node by clicking in the middle and click the far-right tab to activate the **polyreduce** node in the viewport.  Once you have done this, change the **Reduction Amount** tab’s **Target** dropdown to **Output Polygon Count** and adjust the polygon count to an amount that is within your performance requirements and maintains an acceptable visual fidelity.
 
