@@ -192,7 +192,7 @@ The next step after importing the point cloud is to convert it to a mesh. To do 
 
    ![Particle Separation and Voxel Scale sliders](media/houdini-24-particle-scale-voxel.PNG "Particle Separation and Voxel Scale sliders")
  
-5. To prepare the mesh for decimation (the next step in the process) in the **Output** tab, change the **Convert to** value from **Surface Polygon Soup** to **Surface Polygons**. This will enable you to remesh and decimate the mesh.
+5. To prepare the mesh for decimation (the next step in the overall process) in the **Output** tab, change the **Convert To** value from **Surface Polygon Soup** to **Surface Polygons**. This will enable you to remesh and decimate the mesh.
 
    ![Convert to drop-down](media/houdini-25-convert-to.PNG "Convert to drop-down")
  
