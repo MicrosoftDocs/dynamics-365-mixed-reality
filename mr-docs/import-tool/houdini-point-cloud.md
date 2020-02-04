@@ -97,7 +97,7 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 
     ![Node area of window](media/houdini-6-node-area.PNG "Node area of window")
 
-2.	Right-click the bottom-right window pane (or press TAB) to open the **TAB menu**.
+2.	Right-click the bottom-right window pane (or press TAB) to open the **TAB Menu**.
 
 3.  On the **TAB Menu**, select **Import > File**, and then click the **Geometry** pane to place the node.
 
@@ -169,7 +169,7 @@ If your point cloud has stray points that you want to remove, you can select and
  
 ## Convert a point cloud to a mesh
 
-The next step after importing the point cloud is to convert it to a mesh. To do this, you can use the **Particle Fluid Surface** command in the **Tab menu**. 
+The next step after importing the point cloud is to convert it to a mesh. To do this, you can use the **Particle Fluid Surface** command in the **Tab Menu**. 
 
 1. Click the **Geometry** pane, select **Fluid** > **Particle Fluid Surface**, select the node, and add it to the **Geometry** pane. 
 
