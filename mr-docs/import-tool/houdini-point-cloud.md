@@ -111,7 +111,7 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 
     ![Accept button](media/houdini-9-accept-button.PNG "Accept button")
  
-    Now you can see the point cloud in the viewport. If you can't, try zooming out with the mouse wheel until you can see the entire point-cloud.
+    Now you can see the point cloud in the viewport. If you can't see it, try zooming out with the mouse wheel until you can see the entire point-cloud.
 
     ![Point cloud displayed](media/houdini-10-point-cloud-displayed.PNG "Point cloud displayed")
  
