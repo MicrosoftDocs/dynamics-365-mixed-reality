@@ -167,45 +167,45 @@ If your point cloud has stray points that you want to remove, you can select and
 
     ![Multiple blast nodes](media/houdini-19-multiple-blast-nodes.PNG "Multiple blast nodes")
  
-## Convert your point-cloud to a mesh
+## Convert a point cloud to a mesh
 
-Now that our point-cloud has been imported and is oriented correctly, we will convert it to a mesh.  To do this we will use a the “Particle Fluid Surface” node. That can be found in the tab menu we accessed earlier.
+The next step after importing the point cloud is to convert it to a mesh. To do this, you can use the Particle Fluid Surface node in the **Tab menu**. 
 
-1.	In the Geometry windowpane, click the left mouse button and then navigate to **Fluid > Particle Fluid Surface**, select the node and add it to the geometry windowpane. 
+1. Click the **Geometry** pane, select **Fluid** > **Particle Fluid Surface**, select the node, and add it to the **Geometry** pane. 
 
-    ![Fluid > Particle Fluid Surface command](media/houdini-20-particle-fluid-surface.PNG "Fluid > Particle Fluid Surfacecommand")
+   ![Fluid > Particle Fluid Surface command](media/houdini-20-particle-fluid-surface.PNG "Fluid > Particle Fluid Surfacecommand")
 
-2.	Connect it to the transform node by left mouse button holding the output node and dragging the connector to the left input node.  Click on the far-right tab of the pariclefluidsurface1 node to activate this node in the viewport.
+2. Connect it to the **transform1** node by dragging the output node to the left input node. Then click on the far-right tab of the **pariclefluidsurface1** node to activate the node in the viewport.
  
-    ![Connected nodes](media/houdini-21-connected-nodes.PNG "Connected nodes")
+   ![Connected nodes](media/houdini-21-connected-nodes.PNG "Connected nodes")
   
-    Once this step is complete your point-cloud will be rendered as a mesh in the viewport. Above the Geometry tab the Surfacing tab will be open in the upper right pane.
+    This renders the point cloud as a mesh in the viewport. The **Surfacing** tab is open in the upper-right pane above the **Geometry** tab.
 
-    ![Surfacing tab](media/houdini-22-surfacing-tab.PNG "Surfacing tab")
+   ![Surfacing tab](media/houdini-22-surfacing-tab.PNG "Surfacing tab")
  
-3.	If the points in your point-cloud have color data connected to them, then you can use those color attributes by adding the letters **Cd** to the end of the **Transfer Attributes** text box.  Once you add this attribute you will see color come through on your mesh.
+3. If the points in the point cloud have color data connected to them, you can use those color attributes by adding the letters **Cd** to the end of the **Transfer Attributes** text box. When you add this attribute, the color will come through on your mesh.
 
-    ![Cd attribute](media/houdini-23-cd-attribute.PNG "Cd attribute")
+   ![Cd attribute](media/houdini-23-cd-attribute.PNG "Cd attribute")
  
-4.	Sometimes the mesh may generate with issues such as holes as shown below.  You can adjust both the **Particle Separation** and **Voxel Scale** sliders until a satisfactory result has been produced. 
+4. Sometimes you might see holes in the mesh as shown below. To fix this, adjust the **Particle Separation** and **Voxel Scale** sliders. 
 
-    ![Particle Separation and Voxel Scale sliders](media/houdini-24-particle-scale-voxel.PNG "Particle Separation and Voxel Scale sliders")
+   ![Particle Separation and Voxel Scale sliders](media/houdini-24-particle-scale-voxel.PNG "Particle Separation and Voxel Scale sliders")
  
-5.	Once you have your mesh rendering in a way that you like there are a couple things we must do to prepare for decimation.  First, in the output tab change the **Convert to** drop down from **Surface Polygon Soup** to **Surface Polygons**. This will allow us to remesh and decimate our mesh.
+5. To prepare the mesh for decimation (the next step in the process) in the **Output** tab, change the **Convert to** value from **Surface Polygon Soup** to **Surface Polygons**. This will enable you to remesh and decimate the mesh.
 
-    ![Convert to drop-down](media/houdini-25-convert-to.PNG "Convert to drop-down")
+   ![Convert to drop-down](media/houdini-25-convert-to.PNG "Convert to drop-down")
  
-6.	Next add a **remesh** node so that the mesh is converted into triangles.  This will allow us to decimate the 3D model to a poly count that meets your performance requirements.  To do this, right mouse click in the Geometry pane and navigate to **Polygon -> Remesh**.
+6. Next add a remesh node to convert the mesh to triangles. This will enable you to decimate the 3D model to a poly count that meets your performance requirements. To do this, right-click the **Geometry** pane, and then select **Polygon** > **Remesh**.
 
-    ![Polygon > Remesh command](media/houdini-26-polygon-remesh.PNG "Polygon > Remesh command")
+   ![Polygon > Remesh command](media/houdini-26-polygon-remesh.PNG "Polygon > Remesh command")
 
-7.	Connect the **remesh** node to the left input node of the **particlefluidsurface** node.  Click the middle of the **remesh** node to activate it in the pane above the geometry pane and click the far-right tab to activate the model in the viewport.  You should now be able to edit the properties of the remesh and see those edits represented in the viewport.
+7. Connect the **remesh1** node to the left input node of the **particlefluidsurface1** node. Click the middle of the **remesh1** node to activate it in the pane above the **Geometry** pane and click the far-right tab to activate the model in the viewport. You should now be able to edit the properties of the remesh and see those edits represented in the viewport.
 
-    ![Connected nodes](media/houdini-27-connected-nodes.PNG "Connected nodes")
+   ![Connected nodes](media/houdini-27-connected-nodes.PNG "Connected nodes")
  
-8.	You can play with the element sizing controls here by either staying with the default **Uniform** option in **edge lengths**, or choosing **adaptive** and changing the **relative density slider** among others if you feel that it produces a better looking mesh.
+8. Play with the element sizing controls to get the results you want. You can keep the default **Uniform** option in **edge lengths** or choose **adaptive** and change the **relative density slider** (and other options) to produce the mesh you want.
 
-    ![Element Sizing controls](media/houdini-28-element-sizing.PNG "Element Sizing controls")
+   ![Element Sizing controls](media/houdini-28-element-sizing.PNG "Element Sizing controls")
 
 ## Decimate the 3D model
 
