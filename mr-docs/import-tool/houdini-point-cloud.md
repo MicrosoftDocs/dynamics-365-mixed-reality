@@ -125,7 +125,7 @@ Sometimes when you import a point cloud, it will have the wrong orientation. You
 
     ![Manipulat > Transform command](media/houdini-11-manipulate-transform.PNG "Manipulate > Transform command")
 
-2.	To link the **transform1** node and the **file1** node, drag the dot on the bottom of the **file1** node to the dot on the top of the **transform1** node. Then click the right side of the **Transform** node. Doing this will turn it blue and set the **View** window to the **transform1** node so you can see your model after it has been re-oriented. 
+2.	To link the **transform1** node and the **file1** node, drag the dot on the bottom of the **file1** node to the dot on the top of the **transform1** node. Then click the right side of the **transform1** node. Doing this will turn it blue and set the **View** window to the **transform1** node so you can see your model after it has been re-oriented. 
 
     ![Transform node](media/houdini-12-transform-node.PNG "Transform node")
  
