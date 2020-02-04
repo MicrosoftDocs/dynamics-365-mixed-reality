@@ -61,26 +61,31 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 
 ### Cconvert .PTS files to .PLY
 
-- Open your .PTS file in the file editor of your choice, and then add the following heading to convert it: 
+1.  Open your .PTS file in the file editor of your choice, and then add the following header to convert it to a .PLY file: 
 
-************************
-ply<br>
-format ascii 1.0<br>
-element vertex 534993<br>
-property float x<br>
-property float y<br>
-property float z<br>
-property uchar intensity<br>
-property uchar red<br>
-property uchar green<br>
-property uchar blue<br>
-end_header<br>
-************************
+    ************************
+    ply<br>
+    format ascii 1.0<br>
+    element vertex 534993<br>
+    property float x<br>
+    property float y<br>
+    property float z<br>
+    property uchar intensity<br>
+    property uchar red<br>
+    property uchar green<br>
+    property uchar blue<br>
+    end_header<br>
+    ************************
 
->[!NOTE]
->The **element vertex** value in the header above is the number that appears at the top of your .PTS file. This is the total number of points in your point cloud. Replace the **534993** value with the value from your point cloud and remove it from the file after the header.
+2. Replace the **534993** value next to **element vertex** with the value that appears at the top of your .PTS file here:
 
-The following table shows a side-by-side view of what the top of your original .pts file and the top of your modified .ply files will look like before and after the heading is added. The element vertex count is highlighted in red:
+   ![Selected number at top of .PTS file](media/houdini-4-pts-file.PNG "Selected number at top of .PTS file")
+
+   This value is the total number of points in your point cloud. 
+
+3. Remove the original value after the header from your file.
+
+The following table shows a side-by-side comparison of the files before and after making the modifications. The **element vertex** count is highlighted in red:
 
 |Top of .pts file|Top of .ply file|
 |---------------------------------------------------------------|------------------------------------------------------------------|
