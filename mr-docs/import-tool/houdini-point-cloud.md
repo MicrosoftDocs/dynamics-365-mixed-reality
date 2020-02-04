@@ -61,7 +61,7 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 
 ### Convert .PTS files to .PLY
 
-1.  Open your .PTS file in the file editor of your choice, and then add the following header to convert it to a .PLY file: 
+1.  Open your .PTS file in the file editor of your choice, and then add the following header: 
 
     ************************
     ply<br>
