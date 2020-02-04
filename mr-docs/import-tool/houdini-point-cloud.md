@@ -49,7 +49,7 @@ SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-
 
 If the installation is successful, you'll see more tools on the toolbar, and can continue with this tutorial.
 
-### Set up AliceVision for Photogrammetry
+### Set up AliceVision for photogrammetry
 
 [AliceVision](https://alicevision.org/) is a photogrammetric computer vision framework developed by Mikros Image that provides 3D reconstruction and camera tracking algorithms (available on GitHub). Learn more [about AliceVision](https://alicevision.org/#about)  and the [AliceVision plug-in](https://www.sidefx.com/tutorials/alicevision-plugin/).
 
