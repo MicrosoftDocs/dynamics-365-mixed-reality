@@ -45,7 +45,7 @@ SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-
     ![Update button](media/houdini-3-update-button.PNG "Update button")
 
     >[!NOTE]
-    > SideFX is packaged with Houdini so you don't need an an internet connection to install it. If you're connected to the internet, you can update the release later. If you want to install the latest build of SideFX Labs, clear the **Production Builds Only** option.
+    > SideFX is packaged with Houdini so you don't need an internet connection to install it. If you're connected to the internet, you can update the release later. If you want to install the latest build of SideFX Labs, clear the **Production Builds Only** option.
 
 If the installation is successful, you'll see more tools on the toolbar, and can continue with this tutorial.
 
