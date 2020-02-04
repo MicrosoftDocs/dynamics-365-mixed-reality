@@ -91,17 +91,19 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 
 4. Save the file as a .PLY file.
 
-### Import your .ply file
+### Import the .PLY file
 
-1.	Open Houdini. A new scene will automatically be created.  We will be building a chain of nodes that process our point cloud into a 3D model.  These nodes will be constructed in the bottom right windowpane highlighted below.
+1.	Open Houdini. A new scene is automatically created. In this procedure, we'll build a chain of nodes to process the point cloud into a 3D model. These nodes will be constructed in the bottom-right window pane.
 
     ![Node area of window](media/houdini-6-node-area.PNG "Node area of window")
 
-2.	Right click in the bottom right windowpane to open the **TAB menu** (you can also just press TAB). In the **TAB menu**, navigate to **Import > File**.  Left click to place this node into the Geometry pane.
+2.	Right-click the bottom-right window pane (or press TABF) to open the **TAB menu**.
+
+3.  On the **TAB menu**, go to **Import > File**, and then click to place this node into the Geometry pane.
 
     ![Import File command](media/houdini-7-import-file.PNG "Import File command")
  
-3.	Double click the center of the **File1** icon or press **I** to drill down to the file selection part of this node. Click the **File Chooser** button and choose the file you wish to import.
+3.	Double-click in the center of **File1** or press **I** to drill down to the file selection part of this node, and then select the **File Chooser** button and choose the file you want to import.
 
     ![File Chooser button](media/houdini-8-file-chooser.PNG "File Chooser button")
 
