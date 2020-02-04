@@ -119,31 +119,30 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 
 ### Re-orient the point cloud
 
-Sometimes when you import a point cloud, it will have the wrong orientation. You can fix this by adding a **Transform** node to the node tree.  
+Sometimes when you import a point cloud, it will have the wrong orientation. You can fix this by adding a transform node to the node tree.  
 
 1.	To add a transform node, right-click inside the **Geometry** pane to open the **TAB Menu**, and then select **Manipulate > Transform**.
 
     ![Manipulat > Transform command](media/houdini-11-manipulate-transform.PNG "Manipulate > Transform command")
 
-2.	To link the **Transform** node and the **File** node, drag the dot on the bottom of the **file** node to the dot on the top of the **Transform** node, and then click the right side of the **Transform** node. Doing this will turn it blue and set the View window to the transform node so that you can see your model after it has been transformed. 
+2.	To link the **transform1** node and the **file1** node, drag the dot on the bottom of the **file1** node to the dot on the top of the **transform1** node. Then click the right side of the **Transform** node. Doing this will turn it blue and set the **View** window to the **transform1** node so you can see your model after it has been re-oriented. 
 
     ![Transform node](media/houdini-12-transform-node.PNG "Transform node")
  
     >[!TIP]
-    >Tip: In Houdini, you can Select the right side of each node to view the model during that stage of the process.  This is helpful is you ever need to go back and look at your 3D model in a previous state to make changes that occurred during that state.
-3.	Now that you have your transform node set up properly, correct the rotation of your model.  You do this by adding values to the “Rotate” row of value in the options pane above the node pane.  Often you can replace the x value with “270” and the model will rotate to the correct position.  If this does not produce an acceptable result, try with different values.
+    >In Houdini, you can select the right side of each node to view the model during that stage of the process. This is helpful if you ever need to go back and look at your 3D model in a previous state and make changes that occurred during that state.
+    
+3.	To correct the rotation of your model, in the **Options** pane above the **Node** pane, add values to the **Rotate** row. You can often replace the **x** value with **270** to rotate the model to the correct position. If this does work, try different values.
 
     ![Rotation value](media/houdini-13-rotation-value.PNG "Rotation value")
  
-4.	You should now see your point-cloud oriented correctly.  If you would like to center your point-cloud over the origin, you can add an **axis align** node after your transform node.  To place the node, hover your mouse over the Geometry pane, press tab and navigate to **Labs > Geo  Labs Axis Align**.  
+4.	To center your the point cloud over the origin, add an **axis align** node after the transform node. To place the node, hover your mouse over the **Geometry** pane, press Tab, and then select **Labs** > **Geo** > **Labs Axis Align**.  
 
     ![Labs > Geo > Labs Axis Align command](media/houdini-14-labs-geo-axis-align.PNG "Labs > Geo > Labs Axis Align command")
  
-5.	Connect the output of your **transform** node to the input of your axis align node.  Leaving the values at default will set your point-cloud on top of the origin point, an ideal place to have your 3D model.
+5.	Connect the output of your **transform1** node to the input of your **axis align** node. Leaving the default values will set your point cloud on top of the origin point, which is an ideal place.
 
     ![Nodes connected](media/houdini-15-nodes-connected.PNG "Nodes connected")
-
-Next, we'll clean up the point cloud.
 
 ### Clean up the point cloud
 
