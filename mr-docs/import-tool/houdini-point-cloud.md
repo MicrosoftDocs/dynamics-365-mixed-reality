@@ -175,7 +175,7 @@ The next step after importing the point cloud is to convert it to a mesh. To do 
 
    ![Fluid > Particle Fluid Surface command](media/houdini-20-particle-fluid-surface.PNG "Fluid > Particle Fluid Surfacecommand")
 
-2. Dragg the **transform1** output node to the **particlefluidsurface1** left input node to connect them. Then click the far-right tab of the **pariclefluidsurface1** node to activate the node in the viewport.
+2. Drag the **transform1** output node to the **particlefluidsurface1** left input node to connect the two nodes. Then click the far-right tab of the **pariclefluidsurface1** node to activate the node in the viewport.
  
    ![Connected nodes](media/houdini-21-connected-nodes.PNG "Connected nodes")
   
