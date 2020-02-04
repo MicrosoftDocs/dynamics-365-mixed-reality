@@ -89,7 +89,7 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
    |---------------------------------------------------------------|------------------------------------------------------------------|
    |![Selected number at top of .PTS file](media/houdini-4-pts-file.PNG "Selected number at top of .PTS file")|![Selected number at top of .PLY file](media/houdini-5-ply-file.PNG "Selected number at top of .PLY file")|
 
-4. Save the file as a .PLY file.
+4. Save the file with a .PLY extension.
 
 ### Import the .PLY file
 
