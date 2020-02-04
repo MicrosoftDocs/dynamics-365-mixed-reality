@@ -51,7 +51,7 @@ If the installation is successful, you'll see more tools on the toolbar, and can
 
 ### Set up AliceVision for photogrammetry
 
-[AliceVision](https://alicevision.org/) is a photogrammetric computer vision framework developed by Mikros Image that provides 3D reconstruction and camera tracking algorithms (available on GitHub). Learn more [about AliceVision](https://alicevision.org/#about)  and the [AliceVision plug-in](https://www.sidefx.com/tutorials/alicevision-plugin/).
+[AliceVision](https://alicevision.org/) is a photogrammetric computer vision framework developed by Mikros Image that provides 3D reconstruction and camera-tracking algorithms. Learn more [about AliceVision](https://alicevision.org/#about) and the [AliceVision plug-in](https://www.sidefx.com/tutorials/alicevision-plugin/).
 
 [Use this tutorial from SideFX](https://www.sidefx.com/tutorials/alicevision-plugin/) to install and set up AliceVision plug-in for Houdini.
 
