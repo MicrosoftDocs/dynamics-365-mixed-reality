@@ -64,17 +64,17 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 - Open your .PTS file in the file editor of your choice, and then add the following heading to convert it: 
 
 ************************
-ply
-format ascii 1.0
-element vertex 534993 
-property float x
-property float y
-property float z
-property uchar intensity
-property uchar red
-property uchar green
-property uchar blue
-end_header
+ply<br>
+format ascii 1.0<br>
+element vertex 534993<br>
+property float x<br>
+property float y<br>
+property float z<br>
+property uchar intensity<br>
+property uchar red<br>
+property uchar green<br>
+property uchar blue<br>
+end_header<br>
 ************************
 
 >[!NOTE]
