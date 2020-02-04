@@ -200,7 +200,7 @@ The next step after importing the point cloud is to convert it to a mesh. To do 
 
    ![Polygon > Remesh command](media/houdini-26-polygon-remesh.PNG "Polygon > Remesh command")
 
-7. Connect the **remesh1** node to the left input node of the **particlefluidsurface1** node. Click the middle of the **remesh1** node to activate it in the pane above the **Geometry** pane and click the far-right tab to activate the model in the viewport. You should now be able to edit the properties of the remesh and see those edits represented in the viewport.
+7. Connect the **particlefluidsurface1** output node to the **remesh** left input node to connect the nodes. Then click the middle of the **remesh** node to activate it in the pane above the **Geometry** pane and click the far-right tab to activate the model in the viewport. You should now be able to edit the properties of the remesh and see those edits represented in the viewport.
 
    ![Connected nodes](media/houdini-27-connected-nodes.PNG "Connected nodes")
  
