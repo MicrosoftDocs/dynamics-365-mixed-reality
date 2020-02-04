@@ -77,7 +77,7 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
     end_header<br>
     ************************
 
-2. Replace the **534993** value next to **element vertex** with the value that appears at the top of your .PTS file here:
+2. In the header, replace the **534993** value next to **element vertex** with the value that appears at the top of your .PTS file here:
 
    ![Selected number at top of .PTS file](media/houdini-4-pts-file.PNG "Selected number at top of .PTS file")
 
