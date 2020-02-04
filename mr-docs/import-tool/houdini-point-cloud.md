@@ -188,7 +188,7 @@ The next step after importing the point cloud is to convert it to a mesh. To do 
 
    ![Cd attribute](media/houdini-23-cd-attribute.PNG "Cd attribute")
  
-4. Sometimes you might see holes in the mesh as shown below. To fix this, adjust the **Particle Separation** and **Voxel Scale** sliders. 
+4. You might see holes in the mesh as shown below. To fix this, play with the **Particle Separation** and **Voxel Scale** sliders. 
 
    ![Particle Separation and Voxel Scale sliders](media/houdini-24-particle-scale-voxel.PNG "Particle Separation and Voxel Scale sliders")
  
