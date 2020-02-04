@@ -53,20 +53,20 @@ If the installation is successful, you'll see more tools on the toolbar, and can
 
 [AliceVision](https://alicevision.org/) is a photogrammetric computer vision framework developed by Mikros Image that provides 3D reconstruction and camera-tracking algorithms. Learn more [about AliceVision](https://alicevision.org/#about) and the [AliceVision plug-in](https://www.sidefx.com/tutorials/alicevision-plugin/).
 
-[Use this tutorial from SideFX](https://www.sidefx.com/tutorials/alicevision-plugin/) to install and set up AliceVision plug-in for Houdini.
+To install and setup up the AliceVision plug-in for Houdini, [see the SideFX tutorial](https://www.sidefx.com/tutorials/alicevision-plugin/).
 
-## Importing point-clouds into SideFX Houdini
+## Import point clouds into SideFX Houdini
 
-Houdini can import point-clouds of a file type .ply.  If you do not have a .ply file format, but do have a .pts file format, it is possible to manually convert your file format.
+Houdini can import point cloud files in the .PLY file format. If your file is in a .PTS file format, you can manually convert it to the .PLY format.
 
-### Manually converting .pts files to .ply files.
+### Cconvert .PTS files to .PLY
 
-You can open your .pts file in a file editor of your choice and add the following heading to your file to convert it from a .pts file to a .ply file.  
+- Open your .PTS file in the file editor of your choice, and then add the following heading to convert it: 
 
 ************************
 ply
 format ascii 1.0
-element vertex 534993 WHY WAS THIS HIGHLIGHTED IN YELLOW?
+element vertex 534993 
 property float x
 property float y
 property float z
@@ -76,8 +76,11 @@ property uchar green
 property uchar blue
 end_header
 ************************
-(Note: the element vertex highlighted above in the header is the number that appears at the top of your .pts file.  This is the total number of points in your point cloud and should be placed in the header and removed from the file after the header.)
-Below is a side by side view of what the top of your original .pts file and the top of your modified .ply files will look like before and after the heading is added.  The element vertex count is highlighted in red:
+
+>[!NOTE]
+>The **element vertex** value in the header above is the number that appears at the top of your .PTS file. This is the total number of points in your point cloud. Replace the **534993** value with the value from your point cloud and remove it from the file after the header.
+
+The following table shows a side-by-side view of what the top of your original .pts file and the top of your modified .ply files will look like before and after the heading is added. The element vertex count is highlighted in red:
 
 |Top of .pts file|Top of .ply file|
 |---------------------------------------------------------------|------------------------------------------------------------------|
