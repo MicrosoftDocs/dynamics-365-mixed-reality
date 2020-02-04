@@ -103,7 +103,7 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 
     ![Import File command](media/houdini-7-import-file.PNG "Import File command")
  
-3.	Double-click the center of the **file1** icon (or press **I**) to drill down to the file selection part of this node, and then select the **File Chooser** button and choose the file you want to import.
+3.	Double-click the center of the **file1** icon (or press **I**) to drill down to the file selection part of this node, select the **File Chooser** button, and then choose the file you want to import.
 
     ![File Chooser button](media/houdini-8-file-chooser.PNG "File Chooser button")
 
