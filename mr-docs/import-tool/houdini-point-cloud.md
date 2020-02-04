@@ -115,17 +115,17 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 
     ![Point cloud displayed](media/houdini-10-point-cloud-displayed.PNG "Point cloud displayed")
  
-## Preparing point-clouds
+## Prepare the point cloud
 
-### Re-orienting point-clouds
+### Re-orient the point cloud
 
-Sometimes your point-cloud will import in the wrong orientation.  You can easily fix this by adding a transformation node in the node tree on the bottom right of the Houdini window.  
+Sometimes when you import a point cloud, it will have the wrong orientation. You can fix this by adding a **Transform** node to the node tree.  
 
-1.	To add a transform node, right-click inside the geometry pane to access the TAB menu and navigate to **Manipulate > Transform**.
+1.	To add a transform node, right-click inside the **Geometry** pane to open the **TAB Menu**, and then select **Manipulate > Transform**.
 
     ![Manipulat > Transform command](media/houdini-11-manipulate-transform.PNG "Manipulate > Transform command")
 
-2.	Place the “transform” node below the “file” node, left mouse click and hold the dot on the bottom of the “file” node and drag it to the dot on the top of the “transform” node to link them.  Once you have them linked, left mouse click the right side of the “transform” node.  Doing this will turn it blue and set the View window to the transform node so that you can see your model after it has been transformed. 
+2.	To link the **Transform** node and the **File** node, drag the dot on the bottom of the **file** node to the dot on the top of the **Transform** node, and then click the right side of the **Transform** node. Doing this will turn it blue and set the View window to the transform node so that you can see your model after it has been transformed. 
 
     ![Transform node](media/houdini-12-transform-node.PNG "Transform node")
  
@@ -145,7 +145,7 @@ Sometimes your point-cloud will import in the wrong orientation.  You can easily
 
 Next, we'll clean up the point cloud.
 
-### Clean up the point clouds
+### Clean up the point cloud
 
 If your point-cloud has stray points that you would like to remove, you can select and delete individual or groups of points.
 
