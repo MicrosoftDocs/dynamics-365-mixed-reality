@@ -140,27 +140,30 @@ Sometimes when you import a point cloud, it will have the wrong orientation. You
 
     ![Labs > Geo > Labs Axis Align command](media/houdini-14-labs-geo-axis-align.PNG "Labs > Geo > Labs Axis Align command")
  
-5.	Connect the output of your **transform1** node to the input of your **axis align** node. Leaving the default values will set your point cloud on top of the origin point, which is an ideal place.
+5.	Connect the output of your **transform1** node to the input of your **axis_align1** node. Leave the default values to set your point cloud on top of the origin point (an ideal place).
 
     ![Nodes connected](media/houdini-15-nodes-connected.PNG "Nodes connected")
 
-### Clean up the point cloud
+### Clean up the point cloud to remove stray points
 
-If your point-cloud has stray points that you would like to remove, you can select and delete individual or groups of points.
+If your point cloud has stray points that you want to remove, you can select and delete individual points or groups of points.
 
-1.	To start, change the “geometry select” method to **points** and the “select” tool to **Lasso Picking**. You can use a different method if you prefer, but for this demo we will be using these settings.
+1. To start, change the **geometry select** method to **points** and the **select** tool to **Lasso Picking**. 
 
-    ![Points and Lasso Picking selected](media/houdini-16-points-lasso-picking.PNG "Points and Lasso Picking selected")
+   >[!NOTE]
+   >You can use a different method if you prefer.
 
-2.	Once you have your selection set up, select the points that you wish to delete.
+   ![Points and Lasso Picking selected](media/houdini-16-points-lasso-picking.PNG "Points and Lasso Picking selected")
+
+2. Select the points that you want to delete.
 
     ![Selected points to delete](media/houdini-17-selected-points.PNG "Selected points to delete")
  
-3.	Press the **Delete** key to remove these points from your point cloud.  When you do this, a new node called “blast” will appear connected to the bottom of the last node you were operating on.
+3. Press the **Delete** key. When you do this, a new **blast** node appears connected to the bottom of the last node you were working with.
 
     ![Blast node](media/houdini-18-blast-node.PNG "Blast node")
  
-4.	Continue to remove points until your point-cloud reaches a satisfactory level of cleanliness.  Each deletion will add a new “blast” node that can be viewed or removed at any time.
+4. Continue to remove points until you're satisfied with the results. Each deletion adds a new **blast** node that you can view or remove at any time.
 
     ![Multiple blast nodes](media/houdini-19-multiple-blast-nodes.PNG "Multiple blast nodes")
  
