@@ -45,15 +45,15 @@ SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-
     ![Update button](media/houdini-3-update-button.PNG "Update button")
 
     >[!NOTE]
-    > SideFX is packaged with Houdini so it doesn't require an internet connection to install. If you're connected to the internet, you can update the release later. If you want to install the latest build of SideFX Labs, clear the **Production Builds Only** option.
+    > SideFX is packaged with Houdini so you don't need an an internet connection to install it. If you're connected to the internet, you can update the release later. If you want to install the latest build of SideFX Labs, clear the **Production Builds Only** option.
 
-If the installation is successful, you'll see more tools on the toolbar. You're ready to use SideFX Labs tools and can continue with the tutorial.
+If the installation is successful, you'll see more tools on the toolbar, and can continue with this tutorial.
 
 ### Set up AliceVision for Photogrammetry
 
-There is an existing plugin for Houdini users to leverage AliceVision for photogrammetry, follow [this tutorial from SideFX](https://www.sidefx.com/tutorials/alicevision-plugin/) to correctly install and set up AliceVision.
+[AliceVision](https://alicevision.org/) is a photogrammetric computer vision framework developed by Mikros Image that provides 3D reconstruction and camera tracking algorithms (available on GitHub). Learn more [about AliceVision](https://alicevision.org/#about)  and the [AliceVision plug-in](https://www.sidefx.com/tutorials/alicevision-plugin/).
 
-[AliceVision](https://alicevision.org/) is a Photogrammetric Computer Vision Framework which provides 3D Reconstruction and Camera Tracking algorithms, which can be found on GitHub. It is being developed by the post-production company called **Mikros Image**, about whom you can find more information here: [About AliceVision](https://alicevision.org/#about) – [SideFX](https://www.sidefx.com/tutorials/alicevision-plugin/)
+[Use this tutorial from SideFX](https://www.sidefx.com/tutorials/alicevision-plugin/) to install and set up AliceVision plug-in for Houdini.
 
 ## Importing point-clouds into SideFX Houdini
 
