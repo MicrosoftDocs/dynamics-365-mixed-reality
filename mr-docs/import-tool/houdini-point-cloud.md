@@ -32,19 +32,22 @@ SideFX Labs is a testing ground for tools that you can use with SideFX Houdini t
 
 SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-installation/) that helps you install these tools.
 
-1.	To install SideFX Labs, select the plus sign at the top of the screen ![Plus sign](media/houdini-66-plus-sign.png "Plus sign"), select **Shelves**, and then select the **SideFX Labs** check box.
+1. To install SideFX Labs, select the plus sign at the top of the screen ![Plus sign](media/houdini-66-plus-sign.png "Plus sign"), select **Shelves**, and then select the **SideFX Labs** check box.
 
     ![SideFX Labs check box](media/houdini-1-sidefx-check-box.PNG "SideFX Labs check box")
  
-2.	In the toolbar that appears near the top of the screen, select the **Update Toolset** button to launch the installer.
+2. In the toolbar that appears near the top of the screen, select the **Update Toolset** button to launch the installer.
 
     ![Update toolset icon](media/houdini-2-update-toolset-icon.PNG "Update toolset icon")
 
-3.	Click update to install the tools.  It is packaged with Houdini and does not require an internet connection to install.  If you are connected to the internet, then you can change the release to a later release.  If you want to check out the latest features, then you can uncheck the “Production Builds Only” option and you will be able to install the absolute latest builds of SideFX Labs.
+3. Select **Update** to install the tools. 
 
     ![Update button](media/houdini-3-update-button.PNG "Update button")
 
-You will know that your install was successful if more tools show up in the toolbar. You are now ready to use SideFX Labs tools and can continue with the tutorial.
+    >[!NOTE]
+    > SideFX is packaged with Houdini so it doesn't require an internet connection to install. If you're connected to the internet, you can update the release later. If you want to install the latest build of SideFX Labs, clear the **Production Builds Only** option.
+
+If the installation is successful, you'll see more tools on the toolbar. You're ready to use SideFX Labs tools and can continue with the tutorial.
 
 ### Set up AliceVision for Photogrammetry
 
