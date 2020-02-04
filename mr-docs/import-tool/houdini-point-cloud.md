@@ -83,17 +83,13 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 
    This value is the total number of points in your point cloud. 
 
-3. Remove the original value after the header from your file.
+3. Remove the original value after the header from your file. The following table shows a side-by-side comparison of the files before and after making the modifications. The **element vertex** count is highlighted in red:
 
-The following table shows a side-by-side comparison of the files before and after making the modifications. The **element vertex** count is highlighted in red:
+   |Top of .PTS file|Top of .PLY file|
+   |---------------------------------------------------------------|------------------------------------------------------------------|
+   |![Selected number at top of .PTS file](media/houdini-4-pts-file.PNG "Selected number at top of .PTS file")|![Selected number at top of .PLY file](media/houdini-5-ply-file.PNG "Selected number at top of .PLY file")|
 
-|Top of .pts file|Top of .ply file|
-|---------------------------------------------------------------|------------------------------------------------------------------|
-|![Selected number at top of .PTS file](media/houdini-4-pts-file.PNG "Selected number at top of .PTS file")|![Selected number at top of .PLY file](media/houdini-5-ply-file.PNG "Selected number at top of .PLY file")|
-
-*The numbers on the left most of the images indicate respective line number.*
-
-Once you have correctly modified your .pts file, save it with the file extension .ply and you will now be able to import your point-cloud into Houdini.
+4. Save the file as a .PLY file.
 
 ### Import your .ply file
 
