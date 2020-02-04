@@ -99,7 +99,7 @@ Houdini can import point cloud files in the .PLY file format. If your file is in
 
 2.	Right-click the bottom-right window pane (or press TAB) to open the **TAB menu**.
 
-3.  On the **TAB menu**, go to **Import > File**, and then click to place this node into the Geometry pane.
+3.  On the **TAB Menu**, go to **Import > File**, and then click to place this node in the **Geometry** pane.
 
     ![Import File command](media/houdini-7-import-file.PNG "Import File command")
  
