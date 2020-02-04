@@ -136,7 +136,7 @@ Sometimes when you import a point cloud, it will have the wrong orientation. You
 
     ![Rotation value](media/houdini-13-rotation-value.PNG "Rotation value")
  
-4.	To center your the point cloud over the origin, add an **axis align** node after the transform node. To place the node, hover your mouse over the **Geometry** pane, press Tab, and then select **Labs** > **Geo** > **Labs Axis Align**.  
+4.	To center your the point cloud over the origin, add an axis align node after the transform node. To place the node, hover your mouse over the **Geometry** pane, press Tab, and then select **Labs** > **Geo** > **Labs Axis Align**.  
 
     ![Labs > Geo > Labs Axis Align command](media/houdini-14-labs-geo-axis-align.PNG "Labs > Geo > Labs Axis Align command")
  
