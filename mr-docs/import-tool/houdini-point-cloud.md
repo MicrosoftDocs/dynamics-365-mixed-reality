@@ -36,7 +36,7 @@ SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-
 
     ![SideFX Labs check box](media/houdini-1-sidefx-check-box.PNG "SideFX Labs check box")
  
-2.	In the toolbar that appears, select the **Update Toolset** button to launch the installer.
+2.	In the toolbar that appears near the top of the screen, select the **Update Toolset** button to launch the installer.
 
     ![Update toolset icon](media/houdini-2-update-toolset-icon.PNG "Update toolset icon")
 
