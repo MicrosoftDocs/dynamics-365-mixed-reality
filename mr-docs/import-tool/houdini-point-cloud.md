@@ -169,7 +169,7 @@ If your point cloud has stray points that you want to remove, you can select and
  
 ## Convert a point cloud to a mesh
 
-The next step after importing the point cloud is to convert it to a mesh. To do this, you can use the Particle Fluid Surface node in the **Tab menu**. 
+The next step after importing the point cloud is to convert it to a mesh. To do this, you can use the **Particle Fluid Surface** command in the **Tab menu**. 
 
 1. Click the **Geometry** pane, select **Fluid** > **Particle Fluid Surface**, select the node, and add it to the **Geometry** pane. 
 
