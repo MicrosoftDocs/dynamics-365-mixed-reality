@@ -132,7 +132,7 @@ Sometimes when you import a point cloud, it will have the wrong orientation. You
     >[!TIP]
     >In Houdini, you can select the right side of each node to view the model during that stage of the process. This is helpful if you ever need to go back and look at your 3D model in a previous state and make changes that occurred during that state.
     
-3.	To correct the rotation of your model, in the **Options** pane above the **Node** pane, add values to the **Rotate** row. You can often replace the **x** value with **270** to rotate the model to the correct position. If this does work, try different values.
+3.	To correct the rotation of your model, in the options pane above the node pane, add values to the **Rotate** row. You can often replace the **x** value with **270** to rotate the model to the correct position. If this doesn't work, try different values.
 
     ![Rotation value](media/houdini-13-rotation-value.PNG "Rotation value")
  
