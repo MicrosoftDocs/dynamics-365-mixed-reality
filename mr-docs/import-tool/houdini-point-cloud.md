@@ -1,5 +1,6 @@
 
 
+
 # Use SideFX Houdini to turn point clouds into optimized 3D models for use in Dynamics 365 Mixed Reality applications
 
 This tutorial provides step-by-step instructions that show you how to: 
@@ -179,7 +180,7 @@ The next step after importing the point cloud is to convert it to a mesh. To do 
  
    ![Connected nodes](media/houdini-21-connected-nodes.PNG "Connected nodes")
   
-    This renders the point cloud as a mesh in the viewport. The **Surfacing** tab is open in the upper-right pane above the **Geometry** tab.
+    This renders the point cloud as a mesh in the viewport. The **Surfacing** tab will be open in the upper-right pane above the **Geometry** pane.
 
    ![Surfacing tab](media/houdini-22-surfacing-tab.PNG "Surfacing tab")
  
