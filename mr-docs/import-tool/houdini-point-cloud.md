@@ -148,7 +148,7 @@ Sometimes when you import a point cloud, it will have the wrong orientation. You
 
 If your point cloud has stray points that you want to remove, you can select and delete individual points or groups of points.
 
-1. To start, change the **geometry select** method to **points** and the **select** tool to **Lasso Picking**. 
+1. To start, change the **Geometry select** method to **points** and the **Select** tool to **Lasso Picking**. 
 
    >[!NOTE]
    >You can use a different method if you prefer.
@@ -159,11 +159,11 @@ If your point cloud has stray points that you want to remove, you can select and
 
     ![Selected points to delete](media/houdini-17-selected-points.PNG "Selected points to delete")
  
-3. Press the **Delete** key. When you do this, a new **blast** node appears connected to the bottom of the last node you were working with.
+3. Press the **Delete** key. When you do this, a new **blast1** node appears connected to the bottom of the last node you were working with.
 
     ![Blast node](media/houdini-18-blast-node.PNG "Blast node")
  
-4. Continue to remove points until you're satisfied with the results. Each deletion adds a new **blast** node that you can view or remove at any time.
+4. Continue removing points until you're satisfied with the results. Each deletion adds a new **blast** node that you can view or remove at any time.
 
     ![Multiple blast nodes](media/houdini-19-multiple-blast-nodes.PNG "Multiple blast nodes")
  
