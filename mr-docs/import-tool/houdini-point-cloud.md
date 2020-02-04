@@ -59,7 +59,7 @@ To install and setup up the AliceVision plug-in for Houdini, [see the SideFX tut
 
 Houdini can import point cloud files in the .PLY file format. If your file is in a .PTS file format, you can manually convert it to the .PLY format.
 
-### Cconvert .PTS files to .PLY
+### Convert .PTS files to .PLY
 
 1.  Open your .PTS file in the file editor of your choice, and then add the following header to convert it to a .PLY file: 
 
