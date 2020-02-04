@@ -32,11 +32,11 @@ SideFX Labs is a testing ground for tools that you can use with SideFX Houdini t
 
 SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-installation/) that helps you install these tools.
 
-1.	To install SideFX Labs, select the plus sign at the top of the screen ![Plus sign](media/houdini-66-plus-sign.png "Plus sign"), **Shelves**, and then select the **SideFX Labs** check box.
+1.	To install SideFX Labs, select the plus sign at the top of the screen ![Plus sign](media/houdini-66-plus-sign.png "Plus sign"), select **Shelves**, and then select the **SideFX Labs** check box.
 
     ![SideFX Labs check box](media/houdini-1-sidefx-check-box.PNG "SideFX Labs check box")
  
-2.	You will now have a SideFX Labs toolbar that has one icon called **Update toolset**.  Click on this icon to launch the installer.
+2.	You'll see a SideFX Labs toolbar with a single **Update toolset** icon. Select this icon to launch the installer.
 
     ![Update toolset icon](media/houdini-2-update-toolset-icon.PNG "Update toolset icon")
 
