@@ -276,7 +276,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
     ![Diffuse options](media/houdini-41-diffuse-options.PNG "Diffuse options")
 
     >[!TIP]
-    >You can save your project in a specific folder by selecting the file chooser highlighted in the image above. When you bake a texture, the .PNG texture file is output to a render folder created in the root folder of the saved project. Saving your project into its own folder makes the baked texture easy to find.
+    >You can save your project in a specific folder by selecting the file chooser highlighted in the image above. When you bake a texture, the .PNG texture file is output to a **render** folder created in the root folder of the saved project. Saving your project into its own folder makes the baked texture easy to find.
 
 9. Highlight the **maps_baker1** node, and then select **Bake** in the options pane.
 
@@ -294,20 +294,20 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Shaders > Principled Shaders command](media/houdini-45-shaders.PNG "Shaders > Principled Shaders command")
  
-13.	In the options pane, on the **Surface** tab, change the **Roughness** value to **0.6** and the **Metallic** value to **0.1**. (You can set these values to whatever you want, but we've found these values are a good starting point when used in conjunction with the default values).
+13.	In the options pane, on the **Surface** tab, change the **Roughness** value to **0.6** and the **Metallic** value to **0.1**. (You can set these values to whatever you want, but we've found these values are a good starting point when used in conjunction with the default values.)
 
     ![Roughness and Metallic values](media/houdini-46-roughness-metallic.PNG "Roughness and Metallic values")
 
-14.	On the **Texture** tab, under **Base Color**, select the **Use Texture** box.  Then select the **File Chooser** button and select the _*_color.png_ texture that we baked into the render folder earlier. The principled shader is now ready to use. 
+14.	On the **Textures** tab, under **Base Color**, select the **Use Texture** check box. Then select the **File Chooser** button and select the _*_color.png_ texture that we saved to the **render** folder earlier. The principled shader is now ready to use. 
 
-   >[!NOTE]
-   >Feel free to modify the material further. For purposes of this tutorial, we used this configuration.
+    >[!NOTE]
+    >Feel free to modify the material further. For purposes of this tutorial, we used this configuration.
 
-   ![Use Texture box and selected texture](media/houdini-47-texture.PNG "Use Texture box and selected texture")
+    ![Use Texture box and selected texture](media/houdini-47-texture.PNG "Use Texture box and selected texture")
 
-15.	Click the back arrow in the **Vex Builder** pane to go back to the **Geometry** pane.
+15.	Select the back arrow in the **Vex Builder** pane to go back to the **Geometry** pane.
 
-   ![Back arrow](media/houdini-48-back-arrow.PNG "Back arrow")
+    ![Back arrow](media/houdini-48-back-arrow.PNG "Back arrow")
 
 16.	Place a Material node into the geometry pane by selecting **Material > Material**.
 
