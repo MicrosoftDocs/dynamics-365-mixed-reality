@@ -247,7 +247,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
    ![Connected nodes](media/houdini-34-connected-nodes.PNG "Connected nodes")
 
-3. To view the before and after side-by-side, change the viewport to **Vertical split** by clicking the **Viewport Layout** button and selecting **Two Views Side by Side**.
+3. To view the before and after models side-by-side, select the **Viewport Layout** button, and then select **Two Views Side by Side**.
 
    ![Two Views Side by Side option](media/houdini-35-two-views-option.PNG "Two Views Side by Side option")
  
@@ -255,7 +255,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
    ![Set View > UV viewport command](media/houdini-36-uv-viewport.PNG "Set View > UV viewport command")
  
-   You will now see your unwrapped UVs in the left pane and your 3D model in the right pane.
+   You'll see the unwrapped UVs in the left pane and the 3D model in the right pane.
 
     ![Unwrapped UVs displayed](media/houdini-37-unwrapped-uvs.PNG "Unwrapped UVs displayed")
 
@@ -263,7 +263,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Labs Maps Baker node](media/houdini-38-labs-maps-baker-node.PNG "Labs Maps Baker node")
  
-6. Connect the **AutoUV output** node to the **LOW Resolution input** node of the **maps baker1** node.
+6. Connect the **autouv1** output node to the **LOW Resolution input** node of the **maps baker1** node.
 
     ![Connected nodes](media/houdini-39-connected-nodes.PNG "Connected nodes")
 
