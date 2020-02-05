@@ -259,15 +259,15 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Unwrapped UVs displayed](media/houdini-37-unwrapped-uvs.PNG "Unwrapped UVs displayed")
 
-5. Add the **Labs Maps Baker** node to the **Geometry** pane by selecting **Labs** > **Output** > **Labs Maps Baker (Beta)**.
+5. In the **Geometry** pane, by select **Labs** > **Output** > **Labs Maps Baker (Beta)** to add a **maps_baker1** node.
 
     ![Labs Maps Baker node](media/houdini-38-labs-maps-baker-node.PNG "Labs Maps Baker node")
  
-6. Connect the **autouv1** output node to the **LOW Resolution input** node of the **maps baker1** node.
+6. Connect the **autouv1** output node to the **LOW Resolution input** node of the **maps_baker1** node.
 
     ![Connected nodes](media/houdini-39-connected-nodes.PNG "Connected nodes")
 
-7. Connect the **particle fluid surface output1** node to the **HIGH resolution input** node of the **maps baker 1** node.
+7. Connect the **particle fluid surface output1** node to the **HIGH resolution input** node of the **maps_baker 1** node.
 
     ![Connected nodes](media/houdini-40-connected-nodes.PNG "Connected nodes")
  
