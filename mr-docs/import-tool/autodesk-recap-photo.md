@@ -41,12 +41,12 @@ After launching Autodesk Recap Photo, you will see the dashboard.  You can choos
 
 1.	Click the **Object** option from the “Create 3D” menu.
  
-   ![Object option](media/recap-photo1.PNG "Object option")
+    ![Object option](media/recap-photo1.PNG "Object option")
 
 2.	You will be prompted to click anywhere to add photos.  Click anywhere and then add the photos that you wish to use to create 
 your 3D model.  Once you have your photos imported, click **Create**.
 
-   ![Create button](media/recap-photo2.PNG "Create button")
+    ![Create button](media/recap-photo2.PNG "Create button")
  
 3.	This will open the settings menu for creating your photogrammetry project.  You can use the Autocrop feature here if you would 
 like, but for this tutorial we will leave it unchecked and wait to crop the 3D model later.  Autodesk Recap Photo uses “Cloud Credits” 
@@ -55,7 +55,7 @@ take to process these photographs.  You can learn more about Autodesk’s Cloud 
 Give your project a name and click start to process your photos.  This process will take some time, based on the number of photos, 
 and your connection to the internet.
 
-   ![Project name field](media/recap-photo3.PNG "Project name field")
+    ![Project name field](media/recap-photo3.PNG "Project name field")
  
 4.	Once your 3D model has been processed, it will appear in the “My Cloud Drive” section of the dashboard.  Click the **Download 
 this project from the cloud** icon button to retrieve your 3d model.
