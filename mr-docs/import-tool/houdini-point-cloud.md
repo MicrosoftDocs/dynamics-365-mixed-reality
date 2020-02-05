@@ -329,29 +329,27 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
 In this step, we’ll export the model to a GLB file so it can be used with Dynamics 365 mixed reality apps. 
 
-1.	In the Geometry window, right mouse button click to bring up the Tab menu.  Navigate to **Export > ROP GLTF Output**.
+1.	In the **Geometry** pane, right-click to open the **Tab Menu**, and then select **Export** > **ROP GLTF Output**.
 
     ![Export > ROP GLTF Output command](media/houdini-53-export.PNG "Export > ROP GLTF Output command")
 
-2.	Drag a connection from the **material1 output** node to the **rop_gltf input** node.
+2.	Drag a connection from the **material1** output node to the **rop_gltf** input node.
 
     ![Connected nodes](media/houdini-54-connected-nodes.PNG "Connected nodes")
   
-3.	In the top pane, change **Export Type** to **GLB**. 
+3.	In the top pane, change the **Export Type** option to **glb**. 
 
     ![glb selected in Export Type field](media/houdini-55-select-glb.PNG "glb selected in Export Type field")
  
-4.	Next to the Output File field, click the **File Chooser** and choose a name and destination for the **GLB**.  Make sure to add “.glb” to the end of your file name.
+4.	Next to the **Output File** field, select the **File Chooser** button, and then and enter a name and destination for the **GLB** file. Make sure to add “.glb” to the end of your filename.
 
     ![File Chooser button and Name field](media/houdini-56-file-chooser-name.PNG "File Chooser button and Name field")
 
-5.	Next, click the **Render to Disk** button to finalize the export and to create the **GLB** file.
+5.	Select **Render to Disk** to finalize the export and create the **GLB** file.
 
-    ![Render to Disk button](media/houdini-57-render-to-disk.PNG "Render to Disk button")
- 
-Congratulations! You have officially taken a point-cloud and converted it into a mixed reality ready 3D model.
+    ![Render to Disk button](media/houdini-57-render-to-disk.PNG "Render to Disk button") 
 
-## Creating a template
+## Create a template
 
 An advantage to using Houdini is all of the steps that are used to prepare the 3D model exist in the application, even export to the glTF format.  This node tree can be reused to create more 3D models from point clouds.  While you will have to click bake and maybe adjust a few values to tweak everything to your liking, the majority of the processing is automated and we can rapidly create more 3D models.  
 
