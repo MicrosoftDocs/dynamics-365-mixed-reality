@@ -278,7 +278,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
     >[!TIP]
     >You can save your project in a specific folder by selecting the file chooser highlighted in the image above. When you bake a texture, the .PNG texture file is output to a render folder created in the root folder of the saved project. Saving your project into its own folder makes the baked texture easy to find.
 
-9. Highlight the **Maps Baker1** node and click **Bake** in the options pane.
+9. Highlight the **maps_baker1** node and select **Bake** in the options pane.
 
     ![Bake command](media/houdini-42-bake-command.PNG "Bake comand")
  
