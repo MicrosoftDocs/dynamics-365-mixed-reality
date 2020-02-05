@@ -294,7 +294,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Shaders > Principled Shaders command](media/houdini-45-shaders.PNG "Shaders > Principled Shaders command")
  
-13.	In the options pane, on the **Surface** tab, change the **roughness** value to **0.6** and the **Metallic** value to **0.1**. (You can set these values to whatever you want, but we've found these values are a good starting point when used in conjunction with the default values).
+13.	In the options pane, on the **Surface** tab, change the **Roughness** value to **0.6** and the **Metallic** value to **0.1**. (You can set these values to whatever you want, but we've found these values are a good starting point when used in conjunction with the default values).
 
     ![Roughness and Metallic values](media/houdini-46-roughness-metallic.PNG "Roughness and Metallic values")
 
