@@ -237,7 +237,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
 ### To bake the texture
 
-1. Add the AutoUV node to the scene by right-clicking the **Geometry** pane and selecting **Labs** > **UV** > **Labs Auto UV**
+1. Add the AutoUV node to the scene by right-clicking the **Geometry** pane and selecting **Labs** > **UV** > **Labs Auto UV**.
 
 2. Change the method to **UV unwrap**.
 
