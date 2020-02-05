@@ -278,11 +278,11 @@ One downside to reducing the number of polygons in a mesh is that much of the de
     >[!TIP]
     >You can save your project in a specific folder by selecting the file chooser highlighted in the image above. When you bake a texture, the .PNG texture file is output to a render folder created in the root folder of the saved project. Saving your project into its own folder makes the baked texture easy to find.
 
-9. Highlight the **maps_baker1** node and select **Bake** in the options pane.
+9. Highlight the **maps_baker1** node, and then select **Bake** in the options pane.
 
     ![Bake command](media/houdini-42-bake-command.PNG "Bake comand")
  
-10. Right-click the **Geometry** pane to access the **TAB menu**, and then select **Managers** > **Material Network** to add a **Material Network1** node to the scene.  
+10. Right-click the **Geometry** pane to access the **TAB menu**, and then select **Managers** > **Material Network** to add a **matnet1** node to the scene.  
 
     ![Managers > Material Network command](media/houdini-43-managers-material-network.PNG "Managers > Material Network command")
 
@@ -290,7 +290,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Matnet node](media/houdini-44-matnet-node.PNG "Matnet node")
  
-12.	Add a Principled Shader material by right-clicking the **VEX Builder** pane and selecting **Shaders > Principled Shaders**.
+12.	Add a **Principled Shader** material by right-clicking the **VEX Builder** pane and selecting **Shaders > Principled Shaders**.
 
     ![Shaders > Principled Shaders command](media/houdini-45-shaders.PNG "Shaders > Principled Shaders command")
  
