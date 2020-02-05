@@ -327,13 +327,13 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
 ## Export the model to a GLB file
 
-In this step, we’ll export the model to a GLB file so it can be used with Dynamics 365 mixed reality apps. 
+In this step, we’ll export the model to a GLB file so it can be used with Dynamics 365 mixed-reality apps. 
 
 1.	In the **Geometry** pane, right-click to open the **Tab Menu**, and then select **Export** > **ROP GLTF Output**.
 
     ![Export > ROP GLTF Output command](media/houdini-53-export.PNG "Export > ROP GLTF Output command")
 
-2.	Drag a connection from the **material1** output node to the **rop_gltf** input node.
+2.	Drag a connection from the **material1** output node to the **rop_gltf1** input node.
 
     ![Connected nodes](media/houdini-54-connected-nodes.PNG "Connected nodes")
   
@@ -341,7 +341,7 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
     ![glb selected in Export Type field](media/houdini-55-select-glb.PNG "glb selected in Export Type field")
  
-4.	Next to the **Output File** field, select the **File Chooser** button, and then and enter a name and destination for the **GLB** file. Make sure to add “.glb” to the end of your filename.
+4.	Next to the **Output File** field, select the **File Chooser** button, and then enter a name and destination for the **GLB** file. Make sure to add **.glb** to the end of the filename.
 
     ![File Chooser button and Name field](media/houdini-56-file-chooser-name.PNG "File Chooser button and Name field")
 
@@ -351,25 +351,27 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
 ## Create a template
 
-An advantage to using Houdini is all of the steps that are used to prepare the 3D model exist in the application, even export to the glTF format.  This node tree can be reused to create more 3D models from point clouds.  While you will have to click bake and maybe adjust a few values to tweak everything to your liking, the majority of the processing is automated and we can rapidly create more 3D models.  
+An advantage to using Houdini is all of the steps that are used to prepare the 3D model exist in the application, including the export to a .GLB file. You can re-use this node tree to create more 3D models from point clouds. You'll need to select **Bake** and adjust a few values to tweak everything to your liking, but the majority of the processing is automated, which makes it much faster to convert additional point clouds.
 
-1.	The first thing we will do is replace whatever geometry is currently being used with a default geometry.  This makes our template file lightweight so that it will load quickly when we open it.  To do this, do the following:
+### To create a template
 
-    a.	Click on your file icon to activate the geometry file menu in the upper pane.
+1. Replace whatever geometry is currently being used with a default geometry. This makes the template file lightweight so that it loads quickly. To do this:
+
+   a. Select the file icon to activate the geometry **File** menu in the upper pane.
     
-    b.	Once activated, change the “Geometry File” field to say “default.bgeo” and click **Reload Geometry**.
+   b. Change the **Geometry File** field to **default.bge**, and then select **Reload Geometry**.
     
-    c.	This will refresh the geometry so that it is now a generic cube.
+      This refreshes the geometry so that it is now a generic cube.
     
-    d.	Go ahead and change the file name to something generic like “Template” as well.
+   c. Change the filename to something generic like **Template**.
     
       ![Refreshed geometry](media/houdini-58-refreshed-geometry.PNG "Refreshed geometry")
  
-2.	With our template setup, save your file as something memorable like “Prep_Template.”  To save the file go to **File > Save**.
+2.	To save the file, select **File > Save**, and then enter a name you'll remember, such as **Prep_Template.**  
 
     ![File > Save command](media/houdini-59-file-save.PNG "File > Save command")
 
-3.	Your Template is now ready.  Close Houdini so that we can perform a complete walkthrough using our template.
+3.	Close Houdini.
 
 ### Using the template
 
