@@ -271,7 +271,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Connected nodes](media/houdini-40-connected-nodes.PNG "Connected nodes")
  
-8. Select the **maps_baker1** node, change the **Preview channel** option to **diffuse**, and select **Diffuse** in the **Transfer** section of **Bake options**.
+8. Select the **maps_baker1** node, change the **Preview Channel** option to **diffuse**, and then under **Bake Options**, set **Diffuse Map** to **diffuse**.
 
     ![Diffuse options](media/houdini-41-diffuse-options.PNG "Diffuse options")
 
