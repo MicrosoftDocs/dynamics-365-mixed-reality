@@ -204,7 +204,7 @@ The next step after importing the point cloud is to convert it to a mesh. To do 
 
    ![Connected nodes](media/houdini-27-connected-nodes.PNG "Connected nodes")
  
-8. Play with the element sizing controls to get the results you want. You can keep the default **Uniform** option in **edge lengths** or choose **adaptive** and change the **relative density slider** (and other options) to produce the mesh you want.
+8. Play with the **Element Sizing** controls to get the results you want. In the **Edge Lengths** option, you can keep the default value (**Uniform**) or select **Adaptive** and adjust the **Relative Density** slider (and other options) to produce the mesh you want.
 
    ![Element Sizing controls](media/houdini-28-element-sizing.PNG "Element Sizing controls")
 
