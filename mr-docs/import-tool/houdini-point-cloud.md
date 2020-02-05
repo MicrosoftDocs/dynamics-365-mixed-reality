@@ -305,7 +305,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Use Texture box and selected texture](media/houdini-47-texture.PNG "Use Texture box and selected texture")
 
-15.	Select the back arrow in the **Vex Builder** pane to go back to the **Geometry** pane.
+15.	Select the back arrow in the **VEX Builder** pane to go back to the **Geometry** pane.
 
     ![Back arrow](media/houdini-48-back-arrow.PNG "Back arrow")
 
@@ -313,11 +313,11 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Material > Material command](media/houdini-49-material.PNG "Material > Material command")
 
-17.	Connect the **AutoUV1** output node to the **Material1** input node.
+17.	Connect the **autouv1** output node to the **material1** input node.
 
     ![Connected nodes](media/houdini-50-connected-nodes.PNG "Connected nodes")
 
-18.	With the **Material1** node selected, select the **Operator chooser** button, and then select the **Principled Shader** just created by selecting **file1 > matnet1** and then selecting the **principledshader1** operator.
+18.	With the **material1** node selected, select the **Operator chooser** button, and then select the **Principled Shader** just created by selecting **file1 > matnet1** and then selecting the **principledshader1** operator.
 
     ![Operator chooser button and material file](media/houdini-51-operator-chooser-material.PNG "Operator chooser button and material file")
 
