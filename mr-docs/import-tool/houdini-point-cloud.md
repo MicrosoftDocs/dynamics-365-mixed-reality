@@ -239,19 +239,20 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
 1. Add the AutoUV node to the scene by right-clicking the **Geometry** pane and selecting **Labs** > **UV** > **Labs Auto UV**.
 
-2. Change the method to **UV unwrap**.
-
    ![Labs AutoUV node](media/houdini-33-labs-autouv-node.PNG "Labs AutoUV node")
 
-2. Connect the **polyreduce1** output node to the **autouv1** input node.
+2. Change the method to **UV unwrap**.
+
+   
+3. Connect the **polyreduce1** output node to the **autouv1** input node.
 
    ![Connected nodes](media/houdini-34-connected-nodes.PNG "Connected nodes")
 
-3. To view the before and after models side-by-side, select the **Viewport Layout** button, and then select **Two Views Side by Side**.
+4. To view the before and after models side-by-side, select the **Viewport Layout** button, and then select **Two Views Side by Side**.
 
    ![Two Views Side by Side option](media/houdini-35-two-views-option.PNG "Two Views Side by Side option")
  
-4. In the left view pane, select the drop-down, and then select **Set View > UV viewport**.
+5. In the left view pane, select the drop-down, and then select **Set View > UV viewport**.
 
    ![Set View > UV viewport command](media/houdini-36-uv-viewport.PNG "Set View > UV viewport command")
  
