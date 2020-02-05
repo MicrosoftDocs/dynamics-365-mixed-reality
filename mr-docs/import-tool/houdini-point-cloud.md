@@ -29,7 +29,7 @@ To set up your environment, you need to:
 
 ### Install SideFX Labs extension
 
-SideFX Labs is a testing ground for tools that you can use with SideFX Houdini to help you get up and running quicker with Houdini. This collection of free tools includes tools that are useful for converting point clouds into optimized 3D models. You must use Houdini 18 or later to use SideFX Labs.
+SideFX Labs is a testing ground for tools that you can use with Houdini to help you get up and running quicker with Houdini. This collection of free tools includes tools that are useful for converting point clouds into optimized 3D models. You must use Houdini 18 or later to use SideFX Labs.
 
 SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-installation/) that helps you install these tools.
 
@@ -46,7 +46,7 @@ SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-
     ![Update button](media/houdini-3-update-button.PNG "Update button")
 
     >[!NOTE]
-    > SideFX is packaged with Houdini so you don't need an internet connection to install it. If you're connected to the internet, you can update the release later. If you want to install the latest build of SideFX Labs, clear the **Production Builds Only** option.
+    > SideFX Labs is packaged with Houdini so you don't need an internet connection to install it. If you're connected to the internet, you can update the release later. If you want to install the latest build of SideFX Labs, clear the **Production Builds Only** option.
 
 If the installation is successful, you'll see more tools on the toolbar, and can continue with this tutorial.
 
