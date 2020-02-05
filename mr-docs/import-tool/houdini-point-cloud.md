@@ -290,7 +290,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Matnet node](media/houdini-44-matnet-node.PNG "Matnet node")
  
-12.	Add a **Principled Shader** material by right-clicking the **VEX Builder** pane and selecting **Shaders > Principled Shaders**.
+12.	Add a **Principled Shader** material by right-clicking the **VEX Builder** pane and selecting **Shaders > Principled Shader**.
 
     ![Shaders > Principled Shaders command](media/houdini-45-shaders.PNG "Shaders > Principled Shaders command")
  
