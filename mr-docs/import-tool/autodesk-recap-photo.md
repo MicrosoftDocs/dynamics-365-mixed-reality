@@ -146,13 +146,13 @@ The following steps will show you how to import your OBJ 3D model file and expor
  
 2.	Select **File** > **Import** > **Wavefront (.obj)** to import the OBJ file.
 
-![Object option](media/recap-photo1.PNG "Object option")
+![Object option](media/recap-photo18.PNG "Object option")
  
 3.	Under **Import OBJ**:
 
    a. Clear the **Object** and **Group** check boxes.  Select the **Image Search** check box.
    
-   ![Object option](media/recap-photo18.PNG "Object option")
+   ![Object option](media/recap-photo19.PNG "Object option")
  
    b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as one item and searches in the subfolder for any materials.
  
@@ -164,11 +164,11 @@ The last step is to export the model to a GLB file so it can be used with Dynami
 
 1.	In Blender, select **File** > **Export** > **glTF 2.0**.
 
-![Object option](media/recap-photo19.PNG "Object option")
+![Object option](media/recap-photo20.PNG "Object option")
  
 2.	On the **Export** menu, make sure that the GLB format is selected and that the **Selected Objects** check box is selected. Name your file and select **glTF 2.0 (.glb/.gltf)**.
 
-![Object option](media/recap-photo20.PNG "Object option")
+![Object option](media/recap-photo21.PNG "Object option")
 
 ## View your 3D models in Microsoft Dynamics 365 mixed-reality applications
 
