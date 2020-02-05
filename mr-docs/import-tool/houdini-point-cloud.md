@@ -56,7 +56,7 @@ If the installation is successful, you'll see more tools on the toolbar, and can
 
 To install and setup up the AliceVision plug-in for Houdini, [see the SideFX tutorial](https://www.sidefx.com/tutorials/alicevision-plugin/).
 
-## Import point clouds into SideFX Houdini
+## Import a point cloud into Houdini
 
 Houdini can import point cloud files in the .PLY file format. If your file is in a .PTS file format, you can manually convert it to the .PLY format.
 
@@ -168,7 +168,7 @@ If your point cloud has stray points that you want to remove, you can select and
 
     ![Multiple blast nodes](media/houdini-19-multiple-blast-nodes.PNG "Multiple blast nodes")
  
-## Convert a point cloud to a mesh
+## Convert the point cloud to a mesh
 
 The next step after importing the point cloud is to convert it to a mesh. To do this, you can use the **Particle Fluid Surface** command in the **Tab Menu**. 
 
@@ -208,7 +208,7 @@ The next step after importing the point cloud is to convert it to a mesh. To do 
 
    ![Element Sizing controls](media/houdini-28-element-sizing.PNG "Element Sizing controls")
 
-## Decimate the 3D model
+## Decimate the 3D model to increase performance
 
 To reach application-specific goals, you may need to decimate your 3D model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with less polygons. This reduces visual fidelity but increases performance. The example images below show the difference between a high-quality model used for low-scene complexity on HoloLens, and a low-quality model used for high-scene complexity.
 
@@ -349,9 +349,9 @@ In this step, we’ll export the model to a GLB file so it can be used with Dyna
 
     ![Render to Disk button](media/houdini-57-render-to-disk.PNG "Render to Disk button") 
 
-## Create a template
+## Create a template to reuse your settings for other point clouds
 
-An advantage to using Houdini is all of the steps that are used to prepare the 3D model exist in the application, including the export to a .GLB file. You can re-use this node tree to create more 3D models from point clouds. You'll need to select **Bake** and adjust a few values to tweak everything to your liking, but the majority of the processing is automated, which makes it much faster to convert additional point clouds.
+To save time and effort, you can create a template to re-use the settings you create for a point cloud on other point clouds. You'll still need to select the **Bake** command and will probably need to adjust a few values, but you can automate the majority of the processing.
 
 ### To create a template
 
