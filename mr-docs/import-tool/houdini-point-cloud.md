@@ -210,24 +210,28 @@ The next step after importing the point cloud is to convert it to a mesh. To do 
 
 ## Decimate the 3D model
 
-To reach application-specific goals, we may need to decimate the 3D model.  Decimation is the process of recomputing the surface polygons of the model to create a similar shape with less polygons. There is a reduction in visual fidelity when doing this, but also an increase in performance. The example images below show the difference between a high-quality model used for low scene complexity on HoloLens, and a low-quality model used for high scene complexity.
+To reach application-specific goals, you may need to decimate your 3D model. Decimation is the process of recomputing the surface polygons of the model to create a similar shape with less polygons. This reduces visual fidelity but increases performance. The example images below show the difference between a high-quality model used for low-scene complexity on HoloLens, and a low-quality model used for high-scene complexity.
 
-|High-poly 3D model|	Low-poly 3D model|
+|High-polygon 3D model|	Low-polygon 3D model|
 |---------------------------------------------------------------|--------------------------------------------------------------|
 |![High-poly model](media/houdini-29-high-poly-model.PNG "High-poly model") |![Low-poly-model](media/houdini-30-low-poly-model.PNG "Low-poly model")|
 |500,000 triangles|8,000 triangles|
 
-1.	In the Geometry pane on the lower right, tap the Tab key to bring up the tab menu again.  Navigate to **Polygon > PolyReduce** and to select the PolyReduce node.  Place the node in the Geometry pane.
+### To decimate a model
 
-    ![Polygon > PolyReduce command](media/houdini-31-polygon-polyreduce.PNG "Polygon > PolyReduce command")
+1. In the **Geometry** pane, press the Tab key open the **Tab Menu**, select **Polygon** > **PolyReduce** to select the PolyReduce node, and then place the node in the **Geometry** pane.
+
+   ![Polygon > PolyReduce command](media/houdini-31-polygon-polyreduce.PNG "Polygon > PolyReduce command")
  
-2.	Connect the output from the **remesh** node to the top-left input node of the **polyreduce** node.  Select the **polyreduce** node by clicking in the middle and click the far-right tab to activate the **polyreduce** node in the viewport.  Once you have done this, change the **Reduction Amount** tab’s **Target** dropdown to **Output Polygon Count** and adjust the polygon count to an amount that is within your performance requirements and maintains an acceptable visual fidelity.
+2. Connect the **remesh** output node to the top-left **polyreduce** node. Then click the middle of the **polyreduce** node and click the far-right tab to activate the **polyreduce** node in the viewport.
+
+3. In the **Reduction Amount** tab, in the **Target** list, select **Output Polygon Count**, and then adjust the polygon count to meet your performance requirements while maintaining acceptable visual fidelity.
 
     ![Connected nodes](media/houdini-32-connected-nodes.PNG "Connected nodes")
  
-Our point-cloud has now been converted to an optimized 3D mesh.  In the next step we will bake a high-resolution texture to the 3D model to recover some of the visual fidelity that existed before decimation.
+    This converts the point cloud to an optimized 3D mesh. In the next step we'll bake a high-resolution texture onto the 3D model to recover some of the visual fidelity that existed before decimating.
 
-## Bake a high-resolution texture to our low poly mesh
+## Bake a high-resolution texture onto a low-poly mesh
 
 One downside to reducing the number of polygons that are in a mesh is that much of the detail can be lost.  However, there is a method of capturing the detail that exists on your high-poly 3D model and applying it as a texture layered on top of your low-poly model known as “texture baking”.  Texture baking basically takes a picture of all the surfaces of your high-poly model and stitches those pictures into a quilt that is draped on top of your low-poly model.  Doing this gives you the performance of a low-poly 3D model while maintaining some of the finer details of your high-poly 3D model.  The steps below will walk you through this process.
 
