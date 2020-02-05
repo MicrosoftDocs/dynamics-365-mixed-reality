@@ -5,12 +5,15 @@
 ## [Best practices for real-time 3D models](best-practices.md)
 ## Tutorials
 ### [Overview](tutorials-overview.md)
-### [Autodesk Inventor](inventor.md)
+### Autodesk
+#### [Inventor](inventor.md)
+#### [3ds Max](3ds-max.md)
+#### [Recap Photo](autodesk-recap-photo.md) 
 ### [Dassault SolidWorks](solidworks.md)
-### [SideFX Houdini](houdini.md)
+### SideFX Houdini
+#### [Houdini](houdini.md)
+#### [Convert a point cloud](houdini-point-cloud.md)
 ### [Blender](blender.md)
-### [Autodesk 3ds Max](3ds-max.md)
-### [Convert a point cloud with Houdini](houdini-point-cloud.md)
 ## Install and use Dynamics 365 Import Tool (Preview)
 ### [Requirements for installing](requirements.md)
 ### [Try Dynamics 365 Import Tool (Preview) free](try-import-tool-free.md)
