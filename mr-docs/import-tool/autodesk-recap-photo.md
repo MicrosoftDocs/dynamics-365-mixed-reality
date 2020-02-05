@@ -106,7 +106,7 @@ Now that we have our removed the parts of our mesh we do not wish to keep, we ca
 
 You now have an 3D model with optimized geometry that is ready for export.
 
-    ![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
+![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
  
 ## Export the 3D model
 
@@ -166,11 +166,11 @@ The last step is to export the model to a GLB file so it can be used with Dynami
 
 1.	In Blender, select **File** > **Export** > **glTF 2.0**.
 
-    ![File > Export > glTF 2.0 command](media/recap-photo21.PNG "File > Export > glTF 2.0 command")
+     ![File > Export > glTF 2.0 command](media/recap-photo21.PNG "File > Export > glTF 2.0 command")
  
 2.	On the **Export** menu, make sure that the GLB format is selected and that the **Selected Objects** check box is selected. Name your file and select **glTF 2.0 (.glb/.gltf)**.
 
-    ![Name file](media/recap-photo22.PNG "Name file")
+     ![Name file](media/recap-photo22.PNG "Name file")
 
 ## View your 3D models in Microsoft Dynamics 365 mixed-reality applications
 
