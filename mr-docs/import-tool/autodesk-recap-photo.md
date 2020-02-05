@@ -114,15 +114,15 @@ Now that our 3D model has been optimized, we can export it into a format that ca
 
 1.	Navigate to **Export** > **Export model** in the menu on the left to open the export settings.
 
-   ![Export model button](media/recap-photo14.PNG "Export model button")
+    ![Export model button](media/recap-photo14.PNG "Export model button")
  
 2.	Choose **OBJ** as the export file type in the Advanced Panel, and then set the texture size to 4098x4098.  You can choose a larger or smaller texture size but be aware that this will affect either performance or fidelity.  Once you have your settings properly selected, click **Export**.  
 
-   ![Export model options](media/recap-photo15.PNG "Export model options")
+    ![Export model options](media/recap-photo15.PNG "Export model options")
  
 3.	Choose a location to save your file and click **Select Folder**.
 
-   ![Select Folder button](media/recap-photo16.PNG "Select Folder button")
+    ![Select Folder button](media/recap-photo16.PNG "Select Folder button")
  
 Your 3D model will now be exported to this folder.
 
@@ -150,13 +150,13 @@ The following steps will show you how to import your OBJ 3D model file and expor
  
 3.	Under **Import OBJ**:
 
-   a. Clear the **Object** and **Group** check boxes.  Select the **Image Search** check box.
+     a. Clear the **Object** and **Group** check boxes.  Select the **Image Search** check box.
    
-       ![Import OBJ options](media/recap-photo19.PNG "Import OBJ options")
+      ![Import OBJ options](media/recap-photo19.PNG "Import OBJ options")
  
-   b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as one item and searches in the subfolder for any materials.
+     b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as one item and searches in the subfolder for any materials.
    
-       ![Import OBJ command](media/recap-photo20.PNG "Import OBJ command")
+      ![Import OBJ command](media/recap-photo20.PNG "Import OBJ command")
  
 Now that you have your 3D model imported into Blender, it’s an easy next step to Export it out as a GLB.
 
