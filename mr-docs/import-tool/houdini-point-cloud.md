@@ -219,7 +219,7 @@ To reach application-specific goals, you may need to decimate your 3D model. Dec
 
 ### To decimate a model
 
-1. In the **Geometry** pane, press the Tab key open the **Tab Menu**, select **Polygon** > **PolyReduce** to select the PolyReduce node, and then place the node in the **Geometry** pane.
+1. In the **Geometry** pane, press the Tab key to open the **Tab Menu**, select **Polygon** > **PolyReduce** to select the PolyReduce node, and then place the node in the **Geometry** pane.
 
    ![Polygon > PolyReduce command](media/houdini-31-polygon-polyreduce.PNG "Polygon > PolyReduce command")
  
