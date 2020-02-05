@@ -271,12 +271,12 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Connected nodes](media/houdini-40-connected-nodes.PNG "Connected nodes")
  
-8. Select the **maps_baker1** node, change the **Preview Channel** option to **diffuse**, and then under **Bake Options**, set **Diffuse Map** to **diffuse**.
+8. Select the **maps_baker1** node, change the **Preview Channel** option to **diffuse**, and then under **Bake Options**, set the **Diffuse Map** option to **diffuse**.
 
     ![Diffuse options](media/houdini-41-diffuse-options.PNG "Diffuse options")
 
     >[!TIP]
-    >Save your project in a specific folder by clicking the file chooser highlighted in the image above. When you bake a texture, the .PNG texture file will be output into a render folder created in the root folder of the saved project. Saving your project into its own folder will make the baked texture easy to find.
+    >You can save your project in a specific folder by selecting the file chooser highlighted in the image above. When you bake a texture, the .PNG texture file is output to a render folder created in the root folder of the saved project. Saving your project into its own folder makes the baked texture easy to find.
 
 9. Highlight the **Maps Baker1** node and click **Bake** in the options pane.
 
