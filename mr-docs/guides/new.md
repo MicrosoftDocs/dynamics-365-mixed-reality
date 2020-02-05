@@ -13,6 +13,9 @@ ms.reviewer: v-brycho
 
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. 
 
+>[!IMPORTANT]
+>Mandatory update coming in early April! On April 1, we will release an update to the Dynamics 365 Guides solution that will change how data is stored in Common Data Service. Specifically, we'll upgrade the applications to store data in Common Data Service entities rather than in a single JSON file. Your existing guides will be migrated to the new entity structure and continue to work as expected. On April 1, you'll need to update the PC app, HoloLens app, and Common Data Service solution to continue using Dynamics 365 Guides. Please work with your admin to update the solution and apps.
+
 ## January 28, 2020
 
 The January 28 update (app versions 303.2001.21001 and solution version 300.0.3.137) includes the following new features:
