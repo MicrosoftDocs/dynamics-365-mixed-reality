@@ -1,6 +1,6 @@
 
 
-# Use Autodesk Recap Photo to create 3D models for mixed reality using photogrammetry
+# Use Autodesk Recap Photo to create 3D models for Dynamics 365 mixed-reality applications using photogrammetry
 
 This tutorial will walk you through the process of using Autodesk’s Recap Photo photogrammetry software to create 3D models that 
 can be used with Microsoft Dynamics 365 Mixed Reality applications.
@@ -73,4 +73,122 @@ SCREEN SHOT GOES HERE.
 7.	You will now see your 3D model loaded into the Editor window
  
 SCREEN SHOT GOES HERE.
+
+## Edit your 3D model
+
+There are several tools on the left side and bottom of the editor interface that you can use to clean up your 3D model if it needs some work.  Explore these tools to clean up the parts of your 3D model that you do not wish to keep.  In this tutorial, we will demonstrate how to remove the floor from this 3D model.
+
+1.	First remove as much of the floor as you can by selecting and deleting everything around the chair with the **Lasso / Fence** tool.
+
+SCREEN SHOT GOES HERE.
+ 
+2.	Use the Lasso tool to select everything but the object you wish to keep. And then press Enter then Delete.  You may have to do this a few times but eventually you will have the majority of the floor removed.
+
+SCREEN SHOT GOES HERE. 
+
+3.	To remove the rest of the floor, select the **Slice and Fill** tool.  This will create a slicing plane that can be used to cut away geometry that is below a certain point.  Use the **Transform plane option** to align the plane so that the floor isn’t visible.  Use the **Fill** and **Transform plane** options and click **Apply**.
+
+SCREEN SHOT GOES HERE. 
+ 
+This will remove the rest of the floor from your 3D model and fill the mesh on the bottom.
+
+## Decimate your 3D model to increase performance
+
+Now that we have our removed the parts of our mesh we do not wish to keep, we can decimate the mesh to a polygon count that meets our performance needs for our given application.  See [suggested polygon counts and texture sizes](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+
+1.	Select the **Decimate mesh** tool to access the decimation menu.
+
+SCREEN SHOT GOES HERE. 
+ 
+2.	Choose a polygon count that will produce a result that balances your visual fidelity and performance requirements.  Unless precise geometry is very important to you, we suggest that you do not check “Best Geometry” as it will remove your textures.  The textures produced with photogrammetry add significant detail to the 3d model.
+
+SCREEN SHOT GOES HERE.   
+
+You now have an 3D model with optimized geometry that is ready for export.
+
+SCREEN SHOT GOES HERE. 
+ 
+## Export the 3D model
+
+Now that our 3D model has been optimized, we can export it into a format that can be converted to a .glb.
+
+1.	Navigate to **Export** > **Export model** in the menu on the left to open the export settings.
+
+SCREEN SHOT GOES HERE. 
+ 
+2.	Choose **OBJ** as the export file type in the Advanced Panel, and then set the texture size to 4098x4098.  You can choose a larger or smaller texture size but be aware that this will affect either performance or fidelity.  Once you have your settings properly selected, click **Export**.  
+
+SCREEN SHOT GOES HERE. 
+ 
+3.	Choose a location to save your file and click **Select Folder**.
+
+SCREEN SHOT GOES HERE. 
+ 
+Your 3D model will now be exported to this folder.
+
+## Convert to a GLB file with Blender
+
+To use our 3D models with Microsoft Dynamics 365 Mixed Reality Applications, they must be in the .GLB format.  There are several DCC applications that can be used to complete this process.  For the purposes of this tutorial we will be using Blender.  
+
+### What is Blender?
+
+[Blender](https://www.blender.org/) is a free, open-source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing and game creation.
+
+If Blender is the software that you decide to use to prepare your 3D models, review Blender's website and [download the most current stable version for Windows](https://www.blender.org/download/).
+
+The following steps will show you how to import your OBJ 3D model file and export it out as a .GLB 3D model.
+
+### Import your 3D model into Blender
+
+1.	Launch Blender.  A new scene is automatically created.  Right-click the cube, and then select **Delete** to delete it.
+
+SCREEN SHOT GOES HERE. 
+ 
+2.	Select **File** > **Import** > **Wavefront (.obj)** to import the OBJ file.
+
+SCREEN SHOT GOES HERE. 
+ 
+3.	Under **Import OBJ**:
+
+   a. Clear the **Object** and **Group** check boxes.  Select the **Image Search** check box.
+   
+   SCREEN SHOT GOES HERE. 
+ 
+   b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as one item and searches in the subfolder for any materials.
+ 
+Now that you have your 3D model imported into Blender, it’s an easy next step to Export it out as a GLB.
+
+### Export your 3D model as a GLB file
+
+The last step is to export the model to a GLB file so it can be used with Dynamics 365 mixed reality apps.
+
+1.	In Blender, select **File** > **Export** > **glTF 2.0**.
+
+SCREEN SHOT GOES HERE. 
+ 
+2.	On the **Export** menu, make sure that the GLB format is selected and that the **Selected Objects** check box is selected. Name your file and select **glTF 2.0 (.glb/.gltf)**.
+
+SCREEN SHOT GOES HERE. 
+
+## View your 3D models in Microsoft Dynamics 365 mixed-reality applications
+
+Now that you have prepared your 3d models, you can use the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality:
+
+[Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
+[Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+
+## More information
+
+Several screenshots in this document were taken from the Autodesk Recap Photo software program in order to provide clear instructions on how to use Autodesk’s software.
+
+You can find more information on Autodesk Recap Photo and Blender here:
+
+[Autodesk Recap Photo](https://www.autodesk.com/products/recap/overview)
+[Blender](https://www.blender.org/)
+
+The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk Recap Photo, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
+
+The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation. 
+
+ 
 
