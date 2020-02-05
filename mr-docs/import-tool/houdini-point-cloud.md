@@ -243,7 +243,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
    ![Labs AutoUV node](media/houdini-33-labs-autouv-node.PNG "Labs AutoUV node")
 
-2. Connect the **polyreduce output node** to the **AutoUV input node**.
+2. Connect the **polyreduce1** output node to the **autouv1** input node.
 
    ![Connected nodes](media/houdini-34-connected-nodes.PNG "Connected nodes")
 
