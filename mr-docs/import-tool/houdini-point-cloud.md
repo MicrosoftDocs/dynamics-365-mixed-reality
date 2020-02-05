@@ -286,7 +286,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Managers > Material Network command](media/houdini-43-managers-material-network.PNG "Managers > Material Network command")
 
-11. Double-click the **matnet** node to open the **VEX Builder** pane.
+11. Double-click the **matnet1** node to open the **VEX Builder** pane.
 
     ![Matnet node](media/houdini-44-matnet-node.PNG "Matnet node")
  
@@ -317,7 +317,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Connected nodes](media/houdini-50-connected-nodes.PNG "Connected nodes")
 
-18.	With the **material1** node selected, select the **Operator chooser** button, and then select the **Principled Shader** just created by selecting **file1 > matnet1** and then selecting the **principledshader1** operator.
+18.	With the **material1** node selected, select the **Operator chooser** button, and then select the **Principled Shader** just created by selecting **file1** > **matnet1** > **principledshader1**.
 
     ![Operator chooser button and material file](media/houdini-51-operator-chooser-material.PNG "Operator chooser button and material file")
 
