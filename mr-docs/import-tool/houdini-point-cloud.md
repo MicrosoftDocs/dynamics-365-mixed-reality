@@ -267,7 +267,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Connected nodes](media/houdini-39-connected-nodes.PNG "Connected nodes")
 
-7. Connect the **particle fluid surface output1** node to the **HIGH resolution input** node of the **maps_baker 1** node.
+7. Connect the **particle fluid surface1** output node to the **HIGH resolution input** node of the **maps_baker 1** node.
 
     ![Connected nodes](media/houdini-40-connected-nodes.PNG "Connected nodes")
  
