@@ -359,11 +359,11 @@ An advantage to using Houdini is all of the steps that are used to prepare the 3
 
    a. Select the file icon to activate the geometry **File** menu in the upper pane.
     
-   b. Change the **Geometry File** field to **default.bge**, and then select **Reload Geometry**.
+   b. Change the **Geometry File** field to **default.bgeo**, and then select **Reload Geometry**.
     
-      This refreshes the geometry so that it is now a generic cube.
+   c. This refreshes the geometry so that it is now a generic cube.
     
-   c. Change the filename to something generic like **Template**.
+   d. Change the filename to something generic like **Template**.
     
       ![Refreshed geometry](media/houdini-58-refreshed-geometry.PNG "Refreshed geometry")
  
@@ -373,37 +373,39 @@ An advantage to using Houdini is all of the steps that are used to prepare the 3
 
 3.	Close Houdini.
 
-### Using the template
+### Use the template
 
-1. Now that our template is ready, Launch Houdini and open your template file by going to File > Open, and selecting the template we saved in the previous section.
+1. Open Houdini, select **File** > **Open**, and then select the template.
 
-    ![File > Open command](media/houdini-60-file-open.PNG "File > Open command")
+   ![File > Open command](media/houdini-60-file-open.PNG "File > Open command")
  
-2. Click on the center of the geometry file node to switch to the File context menu above, and then click the “Open floating file chooser” button to select your .ply point cloud file.
+2. Click the center of the geometry file node to switch to the **File** context menu, and then select the **File chooser** button to select the .PLY point-cloud file.
 
-    ![Selected node and File Chooser button](media/houdini-61-selected-node-file-chooser.PNG "Selected node and File Chooser button")
+   ![Selected node and File Chooser button](media/houdini-61-selected-node-file-chooser.PNG "Selected node and File Chooser button")
  
-3. Click the “Reload Geometry” button to load your point-cloud into your scene.
+3. Select **Reload Geometry** to load the point cloud into the scene.
 
-    ![Reload Geometry button](media/houdini-62-reload-geometry.PNG "Reload Geometry button")
+   ![Reload Geometry button](media/houdini-62-reload-geometry.PNG "Reload Geometry button")
  
-4. Once your point-cloud loads return to the **Maps Baker** node and click **bake** to bake a new texture for your 3D model.
+4. Go to the **maps_baker1** node and select **Bake** to bake a new texture for your 3D model.
 
-    ![Bake command](media/houdini-63-bake-command.PNG "Bake command")
+   ![Bake command](media/houdini-63-bake-command.PNG "Bake command")
 
-5. Click the right tab of the **Material** Node to view what your baked model looks like.
+5. Click the right tab of the **material1** node to view your baked model.
 
-    ![Right tab of Material node](media/houdini-64-right-tab-material-node.PNG "Right tab of Material node")
+   ![Right tab of Material node](media/houdini-64-right-tab-material-node.PNG "Right tab of Material node")
 
-6. If you are satisfied with the 3D model, navigate to the **rop_gltfB** node and export your 3D model by clicking **Render to Disk**.  
+6. Do one of the following:
 
-    ![Render to Disk command](media/houdini-65-render-to-disk.PNG "Render to Disk command")
+   - If you're satisfied with the 3D model, go to the **rop_gltfB** node and export your 3D model by selecting **Render to Disk**.  
 
-7. If you are not satisfied with how your model looks, then try adjusting the options in the **particle fluid surface**, **remesh**, and **polyreduce** nodes.  Once your model looks acceptable, bake your texture again and export your 3D model.
+   ![Render to Disk command](media/houdini-65-render-to-disk.PNG "Render to Disk command")
 
-## Viewing your 3D model in mixed reality
+   - If you're not satisfied with how the model looks, adjust the options in the **particlefluidsurface1**, **remesh**, and **polyreduce1** nodes. When your model looks acceptable, bake your texture again and export the 3D model.
 
-Now that you have prepared your 3d models, you can learn more about using the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality here: 
+## View your 3D model in mixed reality
+
+You can use any of the following Microsoft Dynamics 365 apps to view your 3D model in mixed reality: 
 
 [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/) 
 
@@ -413,9 +415,9 @@ Now that you have prepared your 3d models, you can learn more about using the fo
  
 ### More information 
  
-Several screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software.  More information about Houdini can be found here: [SideFX](https://www.sidefx.com/tutorials/alicevision-plugin/)
+Screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software. [Learn more about SideFX Houdini](https://www.sidefx.com/tutorials/alicevision-plugin/).
  
-The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Houdini, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
+Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Houdini, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications. 
  
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation. 
 
