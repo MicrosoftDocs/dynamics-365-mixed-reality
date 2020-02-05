@@ -223,7 +223,7 @@ To reach application-specific goals, you may need to decimate your 3D model. Dec
 
    ![Polygon > PolyReduce command](media/houdini-31-polygon-polyreduce.PNG "Polygon > PolyReduce command")
  
-2. Connect the **remesh** output node to the top-left **polyreduce** node. Then click the middle of the **polyreduce** node and click the far-right tab to activate the **polyreduce** node in the viewport.
+2. Connect the **remesh** output node to the top-left **polyreduce1** node. Then click the middle of the **polyreduce1** node and click the far-right tab to activate the **polyreduce1** node in the viewport.
 
 3. In the **Reduction Amount** tab, in the **Target** list, select **Output Polygon Count**, and then adjust the polygon count to meet your performance requirements while maintaining acceptable visual fidelity.
 
