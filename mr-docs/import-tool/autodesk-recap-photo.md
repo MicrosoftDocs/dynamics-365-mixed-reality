@@ -46,7 +46,7 @@ After launching Autodesk Recap Photo, you will see the dashboard.  You can choos
 2.	You will be prompted to click anywhere to add photos.  Click anywhere and then add the photos that you wish to use to create 
 your 3D model.  Once you have your photos imported, click **Create**.
 
-![Object option](media/recap-photo2.PNG "Object option")
+   ![Create button](media/recap-photo2.PNG "Create button")
  
 3.	This will open the settings menu for creating your photogrammetry project.  You can use the Autocrop feature here if you would 
 like, but for this tutorial we will leave it unchecked and wait to crop the 3D model later.  Autodesk Recap Photo uses “Cloud Credits” 
@@ -55,24 +55,24 @@ take to process these photographs.  You can learn more about Autodesk’s Cloud 
 Give your project a name and click start to process your photos.  This process will take some time, based on the number of photos, 
 and your connection to the internet.
 
-![Object option](media/recap-photo3.PNG "Object option")
+   ![Project name field](media/recap-photo3.PNG "Project name field")
  
 4.	Once your 3D model has been processed, it will appear in the “My Cloud Drive” section of the dashboard.  Click the **Download 
 this project from the cloud** icon button to retrieve your 3d model.
 
-![Object option](media/recap-photo4.PNG "Object option")
+   ![Download button](media/recap-photo4.PNG "Download button")
  
-5.	Choose a location to save your model and click **Save Folder**.
+5.	Choose a location to save your model and click **Select Folder**.
  
-![Object option](media/recap-photo5.PNG "Object option")
+   ![Select Folder command](media/recap-photo5.PNG "Select Folder command")
 
 6.	You will now see a new 3D model with the name that you selected earlier.  Click on the object to open it in the Editor.
 
-![Object option](media/recap-photo6.PNG "Object option")
+   ![New model](media/recap-photo6.PNG "New model")
  
 7.	You will now see your 3D model loaded into the Editor window
  
-![Object option](media/recap-photo7.PNG "Object option")
+   ![Model loaded in Editor window](media/recap-photo7.PNG "Model loaded in Editor window")
 
 ## Edit your 3D model
 
@@ -80,15 +80,15 @@ There are several tools on the left side and bottom of the editor interface that
 
 1.	First remove as much of the floor as you can by selecting and deleting everything around the chair with the **Lasso / Fence** tool.
 
-![Object option](media/recap-photo8.PNG "Object option")
+   ![Lasso/Fence tool](media/recap-photo8.PNG "Lasso/Fence tool")
  
 2.	Use the Lasso tool to select everything but the object you wish to keep. And then press Enter then Delete.  You may have to do this a few times but eventually you will have the majority of the floor removed.
 
-![Object option](media/recap-photo9.PNG "Object option")
+   ![Floor selected](media/recap-photo9.PNG "Floor selected")
 
 3.	To remove the rest of the floor, select the **Slice and Fill** tool.  This will create a slicing plane that can be used to cut away geometry that is below a certain point.  Use the **Transform plane option** to align the plane so that the floor isn’t visible.  Use the **Fill** and **Transform plane** options and click **Apply**.
 
-![Object option](media/recap-photo10.PNG "Object option")
+   ![Transform plane option](media/recap-photo10.PNG "Transform plane option")
  
 This will remove the rest of the floor from your 3D model and fill the mesh on the bottom.
 
@@ -98,15 +98,15 @@ Now that we have our removed the parts of our mesh we do not wish to keep, we ca
 
 1.	Select the **Decimate mesh** tool to access the decimation menu.
 
-![Object option](media/recap-photo11.PNG "Object option")
+   ![Decimate mesh tool](media/recap-photo11.PNG "Decimate mesh tool")
  
 2.	Choose a polygon count that will produce a result that balances your visual fidelity and performance requirements.  Unless precise geometry is very important to you, we suggest that you do not check “Best Geometry” as it will remove your textures.  The textures produced with photogrammetry add significant detail to the 3d model.
 
-![Object option](media/recap-photo12.PNG "Object option")
+   ![Decimation options](media/recap-photo12.PNG "Decimation options")
 
 You now have an 3D model with optimized geometry that is ready for export.
 
-![Object option](media/recap-photo13.PNG "Object option")
+   ![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
  
 ## Export the 3D model
 
@@ -114,15 +114,15 @@ Now that our 3D model has been optimized, we can export it into a format that ca
 
 1.	Navigate to **Export** > **Export model** in the menu on the left to open the export settings.
 
-![Object option](media/recap-photo14.PNG "Object option")
+   ![Export model button](media/recap-photo14.PNG "Export model button")
  
 2.	Choose **OBJ** as the export file type in the Advanced Panel, and then set the texture size to 4098x4098.  You can choose a larger or smaller texture size but be aware that this will affect either performance or fidelity.  Once you have your settings properly selected, click **Export**.  
 
-![Object option](media/recap-photo15.PNG "Object option")
+   ![Export model options](media/recap-photo15.PNG "Export model options")
  
 3.	Choose a location to save your file and click **Select Folder**.
 
-![Object option](media/recap-photo16.PNG "Object option")
+   ![Select Folder button](media/recap-photo16.PNG "Select Folder button")
  
 Your 3D model will now be exported to this folder.
 
@@ -142,19 +142,21 @@ The following steps will show you how to import your OBJ 3D model file and expor
 
 1.	Launch Blender.  A new scene is automatically created.  Right-click the cube, and then select **Delete** to delete it.
 
-![Object option](media/recap-photo17.PNG "Object option")
+   ![Delete command](media/recap-photo17.PNG "Delete command")
  
 2.	Select **File** > **Import** > **Wavefront (.obj)** to import the OBJ file.
 
-![Object option](media/recap-photo18.PNG "Object option")
+   ![File > Import > Wavefront command](media/recap-photo18.PNG "File > Import > Wavefront command")
  
 3.	Under **Import OBJ**:
 
    a. Clear the **Object** and **Group** check boxes.  Select the **Image Search** check box.
    
-   ![Object option](media/recap-photo19.PNG "Object option")
+      ![Import OBJ options](media/recap-photo19.PNG "Import OBJ options")
  
    b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as one item and searches in the subfolder for any materials.
+   
+      ![Import OBJ command](media/recap-photo20.PNG "Import OBJ command")
  
 Now that you have your 3D model imported into Blender, it’s an easy next step to Export it out as a GLB.
 
@@ -164,11 +166,11 @@ The last step is to export the model to a GLB file so it can be used with Dynami
 
 1.	In Blender, select **File** > **Export** > **glTF 2.0**.
 
-![Object option](media/recap-photo20.PNG "Object option")
+   ![File > Export > glTF 2.0 command](media/recap-photo21.PNG "File > Export > glTF 2.0 command")
  
 2.	On the **Export** menu, make sure that the GLB format is selected and that the **Selected Objects** check box is selected. Name your file and select **glTF 2.0 (.glb/.gltf)**.
 
-![Object option](media/recap-photo21.PNG "Object option")
+   ![Name file](media/recap-photo22.PNG "Name file")
 
 ## View your 3D models in Microsoft Dynamics 365 mixed-reality applications
 
