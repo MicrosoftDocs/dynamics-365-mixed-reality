@@ -11,7 +11,7 @@
 #### [Recap Photo](autodesk-recap-photo.md) 
 ### [Dassault SolidWorks](solidworks.md)
 ### SideFX Houdini
-#### [Houdini](houdini.md)
+#### [Prepare 3D models](houdini.md)
 #### [Convert a point cloud](houdini-point-cloud.md)
 ### [Blender](blender.md)
 ## Install and use Dynamics 365 Import Tool (Preview)
