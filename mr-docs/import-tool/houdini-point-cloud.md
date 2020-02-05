@@ -259,7 +259,7 @@ One downside to reducing the number of polygons in a mesh is that much of the de
 
     ![Unwrapped UVs displayed](media/houdini-37-unwrapped-uvs.PNG "Unwrapped UVs displayed")
 
-5. In the **Geometry** pane, by select **Labs** > **Output** > **Labs Maps Baker (Beta)** to add a **maps_baker1** node.
+5. In the **Geometry** pane, select **Labs** > **Output** > **Labs Maps Baker (Beta)** to add a **maps_baker1** node.
 
     ![Labs Maps Baker node](media/houdini-38-labs-maps-baker-node.PNG "Labs Maps Baker node")
  
