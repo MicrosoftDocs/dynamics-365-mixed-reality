@@ -227,94 +227,101 @@ To reach application-specific goals, you may need to decimate your 3D model. Dec
 
 3. In the **Reduction Amount** tab, in the **Target** list, select **Output Polygon Count**, and then adjust the polygon count to meet your performance requirements while maintaining acceptable visual fidelity.
 
-    ![Connected nodes](media/houdini-32-connected-nodes.PNG "Connected nodes")
+   ![Connected nodes](media/houdini-32-connected-nodes.PNG "Connected nodes")
  
-    This converts the point cloud to an optimized 3D mesh. In the next step we'll bake a high-resolution texture onto the 3D model to recover some of the visual fidelity that existed before decimating.
+   This converts the point cloud to an optimized 3D mesh. In the next step we'll bake a high-resolution texture onto the 3D model to recover some of the visual fidelity that existed before decimating.
 
 ## Bake a high-resolution texture onto a low-poly mesh
 
-One downside to reducing the number of polygons that are in a mesh is that much of the detail can be lost.  However, there is a method of capturing the detail that exists on your high-poly 3D model and applying it as a texture layered on top of your low-poly model known as “texture baking”.  Texture baking basically takes a picture of all the surfaces of your high-poly model and stitches those pictures into a quilt that is draped on top of your low-poly model.  Doing this gives you the performance of a low-poly 3D model while maintaining some of the finer details of your high-poly 3D model.  The steps below will walk you through this process.
+One downside to reducing the number of polygons in a mesh is that much of the detail might be lost. To restore some of that detail, you can capture it and apply it as a texture layered on top of the low-poly model. In this process, known as “texture baking”, you take a picture of all the surfaces from your high-poly model and stitch them into a quilt that you drape on top of the low-poly model. Doing this gives you the performance of a low-poly model while maintaining some of the finer details of the high-poly model.  
 
-1.	Add the **Labs AutoUV** node to the scene by right clicking in the geometry pane and navigating to **Labs > UV > Labs Auto UV** and change the method to **UV unwrap**.
+### To bake the texture
 
-    ![Labs AutoUV node](media/houdini-33-labs-autouv-node.PNG "Labs AutoUV node")
+1. Add the **Labs AutoUV** node to the scene by right-clicking the **Geometry** pane and selecting **Labs** > **UV** > **Labs Auto UV**
 
-2.	Connect the **polyreduce output node** to the **AutoUV input node**.
+2. Change the method to **UV unwrap**.
 
-    ![Connected nodes](media/houdini-34-connected-nodes.PNG "Connected nodes")
+   ![Labs AutoUV node](media/houdini-33-labs-autouv-node.PNG "Labs AutoUV node")
 
-3.	Change your Viewport to **Vertical split** by clicking the **Viewport Layout** button and selecting **Two Views Side by Side**.
+2. Connect the **polyreduce output node** to the **AutoUV input node**.
 
-    ![Two Views Side by Side option](media/houdini-35-two-views-option.PNG "Two Views Side by Side option")
+   ![Connected nodes](media/houdini-34-connected-nodes.PNG "Connected nodes")
+
+3. To view the before and after side-by-side, change the viewport to **Vertical split** by clicking the **Viewport Layout** button and selecting **Two Views Side by Side**.
+
+   ![Two Views Side by Side option](media/houdini-35-two-views-option.PNG "Two Views Side by Side option")
  
-4.	In the left ViewPane, set the view to **UV view** by left mouse clicking the drop down and navigating to **Set View > UV viewport**.
+4. In the left view pane, select the drop-down, and then select **Set View > UV viewport**.
 
-    ![Set View > UV viewport command](media/houdini-36-uv-viewport.PNG "Set View > UV viewport command")
+   ![Set View > UV viewport command](media/houdini-36-uv-viewport.PNG "Set View > UV viewport command")
  
-You will now see your unwrapped UVs in the left pane and your 3D model in the right pane.
+   You will now see your unwrapped UVs in the left pane and your 3D model in the right pane.
 
     ![Unwrapped UVs displayed](media/houdini-37-unwrapped-uvs.PNG "Unwrapped UVs displayed")
 
-5.	Add the **Labs Maps Baker** node to the geometry pane by navigating to **Labs > Output > Labs Maps Baker (Beta)**.
+5. Add the **Labs Maps Baker** node to the **Geometry** pane by selecting **Labs** > **Output** > **Labs Maps Baker (Beta)**.
 
     ![Labs Maps Baker node](media/houdini-38-labs-maps-baker-node.PNG "Labs Maps Baker node")
  
-6.	Connect the **AutoUV output** node to the **LOW Resolution input** node of the **maps baker** node.
+6. Connect the **AutoUV output** node to the **LOW Resolution input** node of the **maps baker1** node.
 
     ![Connected nodes](media/houdini-39-connected-nodes.PNG "Connected nodes")
 
-7.	Connect the **particle fluid surface output** node to the **HIGH resolution input** node of the **maps baker node**.
+7. Connect the **particle fluid surface output1** node to the **HIGH resolution input** node of the **maps baker 1** node.
 
     ![Connected nodes](media/houdini-40-connected-nodes.PNG "Connected nodes")
  
-8.	Select the **maps_baker** node and change the preview channel to **diffuse** and **check diffuse** in the **Transfer** section of **Bake options**.
+8. Select the **maps_baker1** node, change the **Preview channel** option to **diffuse**, and select **Diffuse** in the **Transfer** section of **Bake options**.
 
     ![Diffuse options](media/houdini-41-diffuse-options.PNG "Diffuse options")
 
     >[!TIP]
-    >Save your project in a specific folder by clicking the file chooser highlighted in the image above.  When we bake our texture, the .png texture file will be output into a render folder that is created in the root of the saved project.  Saving your project into its own folder will make the baked texture easy to find.
+    >Save your project in a specific folder by clicking the file chooser highlighted in the image above. When you bake a texture, the .PNG texture file will be output into a render folder created in the root folder of the saved project. Saving your project into its own folder will make the baked texture easy to find.
 
-9.	Highlight the **Maps Baker** node and click **Bake** in the options pane.
+9. Highlight the **Maps Baker1** node and click **Bake** in the options pane.
 
     ![Bake command](media/houdini-42-bake-command.PNG "Bake comand")
  
-10.	Right mouse click in the Geometry pane to access the TAB menu and navigate to **Managers >Material Network** to add a **Material Network** node to your scene.  
+10. Right-click the **Geometry** pane to access the **TAB menu**, and then select **Managers** > **Material Network** to add a **Material Network1** node to the scene.  
 
     ![Managers > Material Network command](media/houdini-43-managers-material-network.PNG "Managers > Material Network command")
 
-11.	Double click the **matnet** node to open the **VEX Builder** Pane.
+11. Double-click the **matnet** node to open the **VEX Builder** pane.
 
     ![Matnet node](media/houdini-44-matnet-node.PNG "Matnet node")
  
-12.	Add a Principled Shader material by right mouse clicking in the VEX Builder pane and navigate to **Shaders > Principled Shaders**.
+12.	Add a Principled Shader material by right-clicking the **VEX Builder** pane and selecting **Shaders > Principled Shaders**.
 
     ![Shaders > Principled Shaders command](media/houdini-45-shaders.PNG "Shaders > Principled Shaders command")
  
-13.	In the options pane, navigate to the **Surface** tab and change the **roughness** to **0.6** and **Metallic** to **0.1**.  You can set these values to whatever you like.  We have found these values in conjunction with leaving the other values at their default values to be a good starting point.
+13.	In the options pane, on the **Surface** tab, change the **roughness** value to **0.6** and the **Metallic** value to **0.1**. (You can set these values to whatever you want, but we've found these values are a good starting point when used in conjunction with the default values).
 
-     ![Roughness and Metallic values](media/houdini-46-roughness-metallic.PNG "Roughness and Metallic values")
+    ![Roughness and Metallic values](media/houdini-46-roughness-metallic.PNG "Roughness and Metallic values")
 
-14.	Next navigate to the **Texture** tab and under **Base Color** select the **Use Texture** box.  Now click on the **File Chooser** icon and select the _*_color.png_ texture that we baked out into the render folder earlier. Our principled shader is now ready for use.  There are lots of opportunities in this material network for advanced users to further modify the material, but for this tutorial we will be using this configuration.
+14.	On the **Texture** tab, under **Base Color**, select the **Use Texture** box.  Then select the **File Chooser** button and select the _*_color.png_ texture that we baked into the render folder earlier. The principled shader is now ready to use. 
 
-    ![Use Texture box and selected texture](media/houdini-47-texture.PNG "Use Texture box and selected texture")
+   >[!NOTE]
+   >Feel free to modify the material further. For purposes of this tutorial, we used this configuration.
 
-15.	Click the back arrow in the **Vex Builder** pane to navigate back to our **Geometry** Pane.
+   ![Use Texture box and selected texture](media/houdini-47-texture.PNG "Use Texture box and selected texture")
 
-    ![Back arrow](media/houdini-48-back-arrow.PNG "Back arrow")
+15.	Click the back arrow in the **Vex Builder** pane to go back to the **Geometry** pane.
 
-16.	Place a **Material** node into the geometry pane by navigating to **Material > Material**.
+   ![Back arrow](media/houdini-48-back-arrow.PNG "Back arrow")
+
+16.	Place a Material node into the geometry pane by selecting **Material > Material**.
 
     ![Material > Material command](media/houdini-49-material.PNG "Material > Material command")
 
-17.	Next, connect the output of your **AutoUV** node to the input of the **Material** node.
+17.	Connect the **AutoUV1** output node to the **Material1** input node.
 
     ![Connected nodes](media/houdini-50-connected-nodes.PNG "Connected nodes")
 
-18.	With the **Material** node selected, click the **operator chooser** button and select the **Principled Shader** we just created by navigating to **file1 > matnet1** and selecting the **principledshader1** operator.
+18.	With the **Material1** node selected, select the **Operator chooser** button, and then select the **Principled Shader** just created by selecting **file1 > matnet1** and then selecting the **principledshader1** operator.
 
     ![Operator chooser button and material file](media/houdini-51-operator-chooser-material.PNG "Operator chooser button and material file")
 
-19.	If you click the right side of the node to activate it in your viewport you will see the texture rendered on top of your low-poly 3D model.  If it looks acceptable, we can move on to exporting the 3D model.
+19.	Click the right side of the node to activate it in your viewport. You'll see the texture rendered on top of your low-poly 3D model.  If it looks acceptable, go to the next procedure.
  
     ![Texture on low-poly model](media/houdini-52-texture-low-poly.PNG "Texture on low-poly model")
 
