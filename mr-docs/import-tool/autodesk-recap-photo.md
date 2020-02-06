@@ -67,11 +67,11 @@ this project from the cloud** button to download your 3D model.
  
     ![Select Folder command](media/recap-photo5.PNG "Select Folder command")
 
-6.	You'll see a new 3D model with the name you entered. Select the object to open it in the **Editor**.
+6.	You'll see a new 3D model with the name you entered. Select the object to open it in the Editor.
 
     ![New model](media/recap-photo6.PNG "New model")
  
-    You'll see your 3D model loaded in the **Editor** window.
+    You'll see your 3D model loaded in the Editor window.
  
     ![Model loaded in Editor window](media/recap-photo7.PNG "Model loaded in Editor window")
 
