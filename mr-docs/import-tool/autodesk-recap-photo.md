@@ -89,9 +89,11 @@ There are several tools on the left and bottom of the Editor window that you can
     
 3. Press Enter, and then press Delete. You may have to do this a few times to remove the majority of the floor.
 
-4.	Select the **Slice** tool to remove the rest of the floor. This will create a slicing plane that can be used to cut away geometry that is below a certain point.  Use the **Transform plane option** to align the plane so that the floor isn’t visible.  Use the **Fill** and **Transform plane** options and click **Apply**.
+4.	Select the **Slice** tool to remove the rest of the floor. This will create a slicing plane that can be used to cut away geometry below a certain point. Use the **Transform plane** option to align the plane so that the floor isn’t visible. Use the **Fill** option to ???.
 
     ![Transform plane option](media/recap-photo10.PNG "Transform plane option")
+    
+5. When the model is looks the way you want, select **Apply**.
  
 This will remove the rest of the floor from your 3D model and fill the mesh on the bottom.
 
