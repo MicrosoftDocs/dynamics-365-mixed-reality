@@ -142,7 +142,7 @@ There are several applications that you can use to convert an OBJ file to a GLB 
 
 ### What is Blender?
 
-[Blender](https://www.blender.org/) is a free, open-source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing and game creation.
+[Blender](https://www.blender.org/) is a free, open-source, 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing and game creation.
 
 If you use Blender to prepare your 3D models, review Blender's website and [download the most current stable version for Windows](https://www.blender.org/download/).
 
