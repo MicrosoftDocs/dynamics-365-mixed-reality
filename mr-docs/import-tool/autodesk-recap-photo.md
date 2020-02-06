@@ -93,7 +93,7 @@ There are several tools on the left and bottom of the Editor window that you can
 
     ![Transform plane option](media/recap-photo10.PNG "Transform plane option")
     
-5. When the model is looks the way you want, select **Apply**.
+5. When the model looks the way you want, select **Apply**.
  
 This will remove the rest of the floor from your 3D model and fill the mesh on the bottom.
 
