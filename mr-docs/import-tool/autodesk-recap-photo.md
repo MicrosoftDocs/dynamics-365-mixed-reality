@@ -89,7 +89,7 @@ There are several tools on the left and bottom of the Editor window that you can
     
 3. Press Enter, and then press Delete. You may have to do this a few times to remove the majority of the floor.
 
-4.	To remove the rest of the floor, select the **Slice and Fill** tool.  This will create a slicing plane that can be used to cut away geometry that is below a certain point.  Use the **Transform plane option** to align the plane so that the floor isn’t visible.  Use the **Fill** and **Transform plane** options and click **Apply**.
+4.	Select the **Slice** tool to remove the rest of the floor. This will create a slicing plane that can be used to cut away geometry that is below a certain point.  Use the **Transform plane option** to align the plane so that the floor isn’t visible.  Use the **Fill** and **Transform plane** options and click **Apply**.
 
     ![Transform plane option](media/recap-photo10.PNG "Transform plane option")
  
