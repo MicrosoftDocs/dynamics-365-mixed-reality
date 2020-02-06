@@ -42,8 +42,7 @@ After launching Autodesk Recap Photo, you'll see the dashboard. You can choose *
  
     ![Object option](media/recap-photo1.PNG "Object option")
 
-2.	You will be prompted to click anywhere to add photos.  Click anywhere and then add the photos that you wish to use to create 
-your 3D model.  Once you have your photos imported, click **Create**.
+2.	Click anywhere, as prompted, and then add the photos you want to use to create your 3D model. Once you have your photos imported, click **Create**.
 
     ![Create button](media/recap-photo2.PNG "Create button")
  
