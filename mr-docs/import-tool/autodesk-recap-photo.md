@@ -83,7 +83,7 @@ There are several tools on the left and bottom of the Editor window that you can
 
     ![Lasso/Fence tool](media/recap-photo8.PNG "Lasso/Fence tool")
  
-2.	Use the **Lasso/Fence** tool to select everything but the object you want to keep, press Enter, and then press Delete. You may have to do this a few times to remove the majority of the floor.
+2.	With the **Lasso/Fence** tool, select everything but the object you want to keep, press Enter, and then press Delete. You may have to do this a few times to remove the majority of the floor.
 
     ![Floor selected](media/recap-photo9.PNG "Floor selected")
 
