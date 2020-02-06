@@ -122,7 +122,7 @@ After removing the parts of the mesh you don't want to keep, you can decimate it
 
 To use the 3D model in a Dynamics 365 mixed-reality application, it must be in GLB file format. In this step of the tutorial, we'll export the model as an OBJ file that can then be converted to a GLB file.
 
-1.	On the left side of the screen, select the **Export** button, and then select **Export model** to open the export settings.
+1.	On the left side of the screen, select the **Export** button, and then select the **Export model** button to open the export settings.
 
     ![Export model button](media/recap-photo14.PNG "Export model button")
  
