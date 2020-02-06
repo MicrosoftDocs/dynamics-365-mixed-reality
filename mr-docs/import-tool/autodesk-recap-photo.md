@@ -42,33 +42,33 @@ After launching Autodesk Recap Photo, you'll see the dashboard. You can choose *
  
     ![Object option](media/recap-photo1.PNG "Object option")
 
-2.	Click anywhere, as prompted, and then add the photos you want to use to create your 3D model. Once you have your photos imported, click **Create**.
+2.	In the screen that appears, click anywhere, as prompted, and then add the photos you want to use to create your 3D model. After importing the photos, select **Create**.
 
     ![Create button](media/recap-photo2.PNG "Create button")
  
-3.	This will open the settings menu for creating your photogrammetry project.  You can use the Autocrop feature here if you would 
-like, but for this tutorial we will leave it unchecked and wait to crop the 3D model later.  Autodesk Recap Photo uses “Cloud Credits” 
-to provide photogrammetry services.  This section of the menu will show you how many cloud credits you have, and how many it will 
-take to process these photographs.  You can learn more about Autodesk’s Cloud credits here. https://aka.ms/autodesk_cloud_credits.  
-Give your project a name and click start to process your photos.  This process will take some time, based on the number of photos, 
-and your connection to the internet.
+    You'll see the **Settings** menu for creating your photogrammetry project. You may want to use the Autocrop feature, but for this tutorial we will leave it unchecked and wait to crop the 3D model later.  
+    
+    >[!NOTE]
+    >Recap Photo uses “cloud credits” to provide photogrammetry services. This section of the menu shows you how many cloud credits you have, and how many it takes to process your photographs. [Learn more about Autodesk cloud credits](https://aka.ms/autodesk_cloud_credits). 
+
+3. Give your project a name, and then select **Start** to process your photos. This process will take time, based on the number of photos and your internet connection speed.
 
     ![Project name field](media/recap-photo3.PNG "Project name field")
  
-4.	Once your 3D model has been processed, it will appear in the “My Cloud Drive” section of the dashboard.  Click the **Download 
-this project from the cloud** icon button to retrieve your 3d model.
+4.	After your 3D model has been processed, it appears in the **My Cloud Drive** section of the dashboard. Select the **Download 
+this project from the cloud** button to download your 3D model.
 
     ![Download button](media/recap-photo4.PNG "Download button")
  
-5.	Choose a location to save your model and click **Select Folder**.
+5.	Choose a location to save your model to, and then select **Select Folder**.
  
     ![Select Folder command](media/recap-photo5.PNG "Select Folder command")
 
-6.	You will now see a new 3D model with the name that you selected earlier.  Click on the object to open it in the Editor.
+6.	You'll see a new 3D model with the name you entered. Select the object to open it in the **Editor**.
 
     ![New model](media/recap-photo6.PNG "New model")
  
-7.	You will now see your 3D model loaded into the Editor window
+    You'll see your 3D model loaded in the **Editor** window.
  
     ![Model loaded in Editor window](media/recap-photo7.PNG "Model loaded in Editor window")
 
