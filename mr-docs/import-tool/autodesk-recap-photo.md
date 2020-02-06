@@ -105,7 +105,7 @@ After removing the parts of the mesh you don't want to keep, you can decimate it
 
     ![Decimate mesh tool](media/recap-photo11.PNG "Decimate mesh tool")
  
-2.	Choose a polygon count that balances visual fidelity with performance requirements. 
+2.	In the **Decimate** dialog box, choose a polygon count that balances visual fidelity with performance requirements. 
 
    >[!NOTE]
    >Unless precise geometry is very important to you, don't select the **Best Geometry** option since it will remove your textures. The textures produced with photogrammetry add significant detail to the 3D model.
