@@ -2,37 +2,37 @@
 
 # Use Autodesk Recap Photo to create 3D models for Dynamics 365 mixed-reality applications
 
-This tutorial walks you through the process of using Autodesk’s Recap Photo photogrammetry software to create 3D models that 
-can be used with Microsoft Dynamics 365 Mixed Reality applications.
+This tutorial walks you through the process of using Autodesk Recap Photo photogrammetry software to create 3D models that 
+can be used with Microsoft Dynamics 365 mixed-reality applications.
 
-This document is created strictly for informative purposes to demonstrate how Autodesk’s Recap Photo works with Microsoft Dynamics 365 
-Mixed Reality applications.  The Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor 
+This tutorial is created strictly for informative purposes to demonstrate how Recap Photo works with Microsoft Dynamics 365 
+mixed-reality applications. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor 
 Autodesk or any of Autodesk’s products.
 
 ## What is Autodesk Recap Photo?
 
-Autodesk Recap Photo processes photographs (taken from drones) to create 3D representations of current conditions of sites, objects, 
-and more. -[Autodesk Recap Photo](https://www.autodesk.com/products/recap/overview)
+Autodesk Recap Photo processes photographs taken from drones to create 3D representations of current conditions of sites, objects, 
+and more. [Learn more about Autodesk Recap Photo](https://www.autodesk.com/products/recap/overview).
 
 ## Photography tips
 
 The following tips will help you take quality photos for photogrammetry:
 
-- If possible, take photos in a location where the lighting will remain consistent and does not cast shadows
+- If possible, take photos in a location where lighting will remain consistent and does not cast shadows.
 
-- If there are shadows, try to keep your own shadow out of the picture
+- If there are shadows, try to keep your own shadow out of the picture.
 
-- Avoid having moving objects in the background while taking photos
+- Avoid moving objects in the background while taking photos.
 
-- If the camera you are using has HDR, turn this feature off and try not to adjust the exposure of your photographs while you are 
-capturing images
+- If the camera you're using has HDR, turn this feature off and try not to adjust the exposure of your photographs while you're
+capturing images.
 
-- Take pictures about 1 meter apart while circling the subject
+- Take pictures about 1 meter apart while circling the subject.
 
-- If it is possible, maintain a perpendicular location to the subject while you are taking photos
+- If possible, maintain a perpendicular location to the subject while taking photos.
 
-- If the subject is large, move in a lateral motion from one end of the object to the other changing the height with each pass 
-until you feel that you have captured all surfaces.
+- If the subject is large, move in a lateral motion from one end of the object to the other, changing the height with each pass 
+until you feel that you've captured all surfaces.
 
 ## Start a new project
 
