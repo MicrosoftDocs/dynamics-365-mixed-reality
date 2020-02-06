@@ -38,7 +38,7 @@ until you feel you've captured all surfaces.
 After launching Autodesk Recap Photo, you'll see the dashboard. You can choose **Aerial** or **Object** to create a new 
 3D project. This tutorial covers the **Object** workflow.
 
-1. Under **Create 3D** menu, select **Object**.
+1. Under **Create 3D**, select **Object**.
  
     ![Object option](media/recap-photo1.PNG "Object option")
 
