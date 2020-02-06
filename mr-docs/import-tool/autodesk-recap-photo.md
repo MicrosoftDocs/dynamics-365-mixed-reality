@@ -101,7 +101,7 @@ This will remove the rest of the floor from your 3D model and fill the mesh on t
 
 After removing the parts of the mesh you don't want to keep, you can decimate it to a polygon count that meets the [performance targets for Dynamics 365 mixed-reality applications](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
 
-1.	Select the **Decimate mesh** tool to access the decimation menu.
+1.	Select the **Decimate mesh** tool.
 
     ![Decimate mesh tool](media/recap-photo11.PNG "Decimate mesh tool")
  
