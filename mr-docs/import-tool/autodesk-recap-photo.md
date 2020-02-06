@@ -83,11 +83,13 @@ There are several tools on the left and bottom of the Editor window that you can
 
     ![Lasso/Fence tool](media/recap-photo8.PNG "Lasso/Fence tool")
  
-2.	With the **Lasso/Fence** tool, select everything but the object you want to keep, press Enter, and then press Delete. You may have to do this a few times to remove the majority of the floor.
+2.	With the **Lasso/Fence** tool, select everything but the object you want to keep. 
 
     ![Floor selected](media/recap-photo9.PNG "Floor selected")
+    
+3. Press Enter, and then press Delete. You may have to do this a few times to remove the majority of the floor.
 
-3.	To remove the rest of the floor, select the **Slice and Fill** tool.  This will create a slicing plane that can be used to cut away geometry that is below a certain point.  Use the **Transform plane option** to align the plane so that the floor isn’t visible.  Use the **Fill** and **Transform plane** options and click **Apply**.
+4.	To remove the rest of the floor, select the **Slice and Fill** tool.  This will create a slicing plane that can be used to cut away geometry that is below a certain point.  Use the **Transform plane option** to align the plane so that the floor isn’t visible.  Use the **Fill** and **Transform plane** options and click **Apply**.
 
     ![Transform plane option](media/recap-photo10.PNG "Transform plane option")
  
