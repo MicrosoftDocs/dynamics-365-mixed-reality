@@ -118,23 +118,23 @@ After removing the parts of the mesh you don't want to keep, you can decimate it
 
    ![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
  
-## Export the 3D model
+## Export the 3D model as an OBJ file
 
-Now that our 3D model has been optimized, we can export it into a format that can be converted to a .glb.
+To use the 3D model in a Dynamics 365 mixed-reality application, it must be in GLB file format. In this step of the tutorial, we'll export the model as an OBJ file can then be converted to a GLB file.
 
-1.	Navigate to **Export** > **Export model** in the menu on the left to open the export settings.
+1.	In the left menu, select **Export** > **Export model** to open the export settings.
 
     ![Export model button](media/recap-photo14.PNG "Export model button")
  
-2.	Choose **OBJ** as the export file type in the Advanced Panel, and then set the texture size to 4098x4098.  You can choose a larger or smaller texture size but be aware that this will affect either performance or fidelity.  Once you have your settings properly selected, click **Export**.  
+2.	In the Advanced Panel, choose **OBJ** as the export file type, and then set the texture size to 4098 x4 098. You can choose a larger or smaller texture size but be aware that this will affect performance or visual fidelity. When ready, select **Export**.  
 
     ![Export model options](media/recap-photo15.PNG "Export model options")
  
-3.	Choose a location to save your file and click **Select Folder**.
+3.	Choose a location to save your file to, and then select **Select Folder**.
 
     ![Select Folder button](media/recap-photo16.PNG "Select Folder button")
  
-Your 3D model will now be exported to this folder.
+    The 3D model is exported to this folder.
 
 ## Convert to a GLB file with Blender
 
@@ -172,7 +172,7 @@ Now that you have your 3D model imported into Blender, it’s an easy next step 
 
 ### Export your 3D model as a GLB file
 
-The last step is to export the model to a GLB file so it can be used with Dynamics 365 mixed reality apps.
+The last step is to export the model as a GLB file so it can be used with Dynamics 365 mixed-reality apps.
 
 1.	In Blender, select **File** > **Export** > **glTF 2.0**.
 
