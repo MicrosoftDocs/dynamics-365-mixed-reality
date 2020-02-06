@@ -1,8 +1,8 @@
 
 
-# Use Autodesk Recap Photo to create 3D models for Dynamics 365 mixed-reality applications using photogrammetry
+# Use Autodesk Recap Photo to create 3D models for Dynamics 365 mixed-reality applications
 
-This tutorial will walk you through the process of using Autodesk’s Recap Photo photogrammetry software to create 3D models that 
+This tutorial walks you through the process of using Autodesk’s Recap Photo photogrammetry software to create 3D models that 
 can be used with Microsoft Dynamics 365 Mixed Reality applications.
 
 This document is created strictly for informative purposes to demonstrate how Autodesk’s Recap Photo works with Microsoft Dynamics 365 
