@@ -18,28 +18,27 @@ and more. [Learn more about Autodesk Recap Photo](https://www.autodesk.com/produ
 
 The following tips will help you take quality photos for photogrammetry:
 
-- If possible, take photos in a location where lighting will remain consistent and does not cast shadows.
+- If possible, take photos in a location where lighting is consistent and does not cast shadows.
 
-- If there are shadows, try to keep your own shadow out of the picture.
+- Try to keep your own shadow out of the picture.
 
 - Avoid moving objects in the background while taking photos.
 
-- If the camera you're using has HDR, turn this feature off and try not to adjust the exposure of your photographs while you're
-capturing images.
+- If the camera you're using has a High Dynamic Range (HDR) setting, turn this feature off and try not to adjust the exposure of your photographs while capturing images.
 
 - Take pictures about 1 meter apart while circling the subject.
 
 - If possible, maintain a perpendicular location to the subject while taking photos.
 
 - If the subject is large, move in a lateral motion from one end of the object to the other, changing the height with each pass 
-until you feel that you've captured all surfaces.
+until you feel you've captured all surfaces.
 
 ## Start a new project
 
-After launching Autodesk Recap Photo, you will see the dashboard.  You can choose either “Aerial” or “Object” to create a new 
-3D project.  This tutorial will cover the **Object** workflow.
+After launching Autodesk Recap Photo, you'll see the dashboard. You can choose **Aerial** or **Object** to create a new 
+3D project. This tutorial covers the **Object** workflow.
 
-1. Click the **Object** option from the “Create 3D” menu.
+1. Click **Object** from the **Create 3D** menu.
  
     ![Object option](media/recap-photo1.PNG "Object option")
 
