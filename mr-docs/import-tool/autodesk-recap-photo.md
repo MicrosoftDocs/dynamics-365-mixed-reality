@@ -79,7 +79,7 @@ this project from the cloud** button to download your 3D model.
 
 There are several tools on the left and bottom of the Editor window that you can use to clean up your 3D model. Play around with these tools to clean up the parts of your 3D model that you don't want to keep. In this tutorial, we'll demonstrate how to remove the floor from the model.
 
-1.	Select the **Lasso/Fence** tool, and then remove as much of the floor as you can by selecting and deleting everything around the chair.
+1.	Select the **Lasso/Fence** tool.
 
     ![Lasso/Fence tool](media/recap-photo8.PNG "Lasso/Fence tool")
  
