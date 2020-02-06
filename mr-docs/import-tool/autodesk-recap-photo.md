@@ -75,7 +75,7 @@ this project from the cloud** button to download your 3D model.
  
     ![Model loaded in Editor window](media/recap-photo7.PNG "Model loaded in Editor window")
 
-## Edit your 3D model
+## Edit the 3D model
 
 There are several tools on the left and bottom of the Editor window that you can use to clean up your 3D model. Play around with these tools to clean up the parts of your 3D model that you don't want to keep. In this tutorial, we'll demonstrate how to remove the floor from the model.
 
@@ -138,19 +138,17 @@ To use the 3D model in a Dynamics 365 mixed-reality application, it must be in G
 
 ## Use Blender to convert the OBJ file to a GLB file
 
-There are several DCC applications that can be used to complete this process.  For the purposes of this tutorial we will be using Blender.  
+There are several applications that you can use to convert an OBJ file to a GLB file. For purposes of this tutorial, we'll use Blender  
 
 ### What is Blender?
 
 [Blender](https://www.blender.org/) is a free, open-source 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing and game creation.
 
-If Blender is the software that you decide to use to prepare your 3D models, review Blender's website and [download the most current stable version for Windows](https://www.blender.org/download/).
-
-The following steps will show you how to import your OBJ 3D model file and export it out as a .GLB 3D model.
+If you use Blender to prepare your 3D models, review Blender's website and [download the most current stable version for Windows](https://www.blender.org/download/).
 
 ### Import your 3D model into Blender
 
-1.	Launch Blender.  A new scene is automatically created.  Right-click the cube, and then select **Delete** to delete it.
+1.	Launch Blender. A new scene is automatically created. Right-click the cube, and then select **Delete** to delete it.
 
     ![Delete command](media/recap-photo17.PNG "Delete command")
  
@@ -160,17 +158,15 @@ The following steps will show you how to import your OBJ 3D model file and expor
  
 3.	Under **Import OBJ**:
 
-     a. Clear the **Object** and **Group** check boxes.  Select the **Image Search** check box.
+   a. Clear the **Object** and **Group** check boxes, and then select the **Image Search** check box.
    
       ![Import OBJ options](media/recap-photo19.PNG "Import OBJ options")
  
-     b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as one item and searches in the subfolder for any materials.
+   b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as a single item and searches in the subfolder for any materials.
    
       ![Import OBJ command](media/recap-photo20.PNG "Import OBJ command")
  
-Now that you have your 3D model imported into Blender, it’s an easy next step to Export it out as a GLB.
-
-### Export your 3D model as a GLB file
+### Export the 3D model as a GLB file
 
 The last step is to export the model as a GLB file so it can be used with Dynamics 365 mixed-reality apps.
 
@@ -178,29 +174,30 @@ The last step is to export the model as a GLB file so it can be used with Dynami
 
      ![File > Export > glTF 2.0 command](media/recap-photo21.PNG "File > Export > glTF 2.0 command")
  
-2.	On the **Export** menu, make sure that the GLB format is selected and that the **Selected Objects** check box is selected. Name your file and select **glTF 2.0 (.glb/.gltf)**.
+2.	On the **Export** menu, make sure that the GLB format is selected and that the **Selected Objects** check box is selected. Name your file, and then select **glTF 2.0 (.glb/.gltf)**.
 
      ![Name file](media/recap-photo22.PNG "Name file")
 
-## View your 3D models in Microsoft Dynamics 365 mixed-reality applications
+## View your 3D model in a Dynamics 365 mixed-reality application
 
-Now that you have prepared your 3d models, you can use the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality:
+After preparing your 3D model, you can use it in the following Dynamics 365 apps:
 
 [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
 [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
 
 ## More information
 
-Several screenshots in this document were taken from the Autodesk Recap Photo software program in order to provide clear instructions on how to use Autodesk’s software.
+Screenshots in this document were taken from the Autodesk Recap Photo software program to provide clear instructions on how to use the Recap Photo software.
 
-You can find more information on Autodesk Recap Photo and Blender here:
+To learn more about Recap Photo and Blender, see the following:
 
-[Autodesk Recap Photo](https://www.autodesk.com/products/recap/overview)
-[Blender](https://www.blender.org/)
+- [Autodesk Recap Photo](https://www.autodesk.com/products/recap/overview)
 
-The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk Recap Photo, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
+- [Blender](https://www.blender.org/)
 
-The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation. 
+Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk Recap Photo, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
+
+The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft Corporation. 
 
  
 
