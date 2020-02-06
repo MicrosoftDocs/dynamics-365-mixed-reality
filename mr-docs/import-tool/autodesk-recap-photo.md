@@ -108,9 +108,11 @@ After removing the parts of the mesh you don't want to keep, you can decimate it
 2.	In the **Decimate** dialog box, choose a polygon count that balances visual fidelity with performance requirements. 
 
    >[!NOTE]
-   >Unless precise geometry is very important to you, don't select the **Best Geometry** option since it will remove your textures. The textures produced with photogrammetry add significant detail to the 3D model.
+   >Unless precise geometry is very important to you, don't select the **Best geometry** option since it will remove your textures. The textures produced with photogrammetry add significant detail to the 3D model.
 
    ![Decimation options](media/recap-photo12.PNG "Decimation options")
+   
+3. Select **Decimate all**.
 
    At this point, the 3D model is optimized and ready to export. 
 
