@@ -110,11 +110,11 @@ After removing the parts of the mesh you don't want to keep, you can decimate it
    >[!NOTE]
    >Unless precise geometry is very important to you, don't select the **Best Geometry** option since it will remove your textures. The textures produced with photogrammetry add significant detail to the 3D model.
 
-    ![Decimation options](media/recap-photo12.PNG "Decimation options")
+   ![Decimation options](media/recap-photo12.PNG "Decimation options")
 
-    At this point, the 3D model is optimized and ready to export. 
+   At this point, the 3D model is optimized and ready to export. 
 
-    ![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
+   ![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
  
 ## Export the 3D model
 
