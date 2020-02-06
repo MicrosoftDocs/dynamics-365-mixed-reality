@@ -126,7 +126,7 @@ To use the 3D model in a Dynamics 365 mixed-reality application, it must be in G
 
     ![Export model button](media/recap-photo14.PNG "Export model button")
  
-2.	In the Advanced Panel, choose **OBJ** as the export file type, and then set the texture size to 4098 x4 098. You can choose a larger or smaller texture size but be aware that this will affect performance or visual fidelity. When ready, select **Export**.  
+2.	In the **Export model** dialog box, choose **OBJ** as the export file type, and then set the texture size to 4098 x4 098. You can choose a larger or smaller texture size but be aware that this will affect performance or visual fidelity. When ready, select **Export**.  
 
     ![Export model options](media/recap-photo15.PNG "Export model options")
  
