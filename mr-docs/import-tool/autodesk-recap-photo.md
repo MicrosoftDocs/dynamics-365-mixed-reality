@@ -51,7 +51,7 @@ After launching Autodesk Recap Photo, you'll see the dashboard.
     >[!NOTE]
     >Recap Photo uses “cloud credits” to provide photogrammetry services. This section of the menu shows you how many cloud credits you have, and how many it takes to process your photographs. [Learn more about Autodesk cloud credits](https://aka.ms/autodesk_cloud_credits). 
 
-3. Give your project a name, and then select **Start** to process your photos. This process will take time, based on the number of photos and your internet connection speed.
+3. Give your project a name, and then select **Start** to process your photos. This process can take a fair amount of time, based on the number of photos you added and your internet connection speed.
 
     ![Project name field](media/recap-photo3.PNG "Project name field")
     
