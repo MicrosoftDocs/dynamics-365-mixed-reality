@@ -136,9 +136,9 @@ To use the 3D model in a Dynamics 365 mixed-reality application, it must be in G
  
     The 3D model is exported to this folder.
 
-## Convert to a GLB file with Blender
+## Use Blender to convert the OBJ file to a GLB file
 
-To use our 3D models with Microsoft Dynamics 365 Mixed Reality Applications, they must be in the .GLB format.  There are several DCC applications that can be used to complete this process.  For the purposes of this tutorial we will be using Blender.  
+There are several DCC applications that can be used to complete this process.  For the purposes of this tutorial we will be using Blender.  
 
 ### What is Blender?
 
