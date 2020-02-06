@@ -182,8 +182,9 @@ The last step is to export the model as a GLB file so it can be used with Dynami
 
 After preparing your 3D model, you can use it in the following Dynamics 365 apps:
 
-[Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
-[Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
+
+- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
 
 ## More information
 
