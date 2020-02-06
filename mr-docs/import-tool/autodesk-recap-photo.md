@@ -99,19 +99,22 @@ This will remove the rest of the floor from your 3D model and fill the mesh on t
 
 ## Decimate the 3D model to increase performance
 
-After removing the parts of the mesh you don't want to keep, you can decimate the mesh to a polygon count that meets the performance needs for a Dynamics 365 mixed-reality application. See [suggested polygon counts and texture sizes](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+After removing the parts of the mesh you don't want to keep, you can decimate the mesh to a polygon count that meets the [performance targets for a Dynamics 365 mixed-reality application](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
 
 1.	Select the **Decimate mesh** tool to access the decimation menu.
 
     ![Decimate mesh tool](media/recap-photo11.PNG "Decimate mesh tool")
  
-2.	Choose a polygon count that will produce a result that balances your visual fidelity and performance requirements.  Unless precise geometry is very important to you, we suggest that you do not check “Best Geometry” as it will remove your textures.  The textures produced with photogrammetry add significant detail to the 3d model.
+2.	Choose a polygon count that balances visual fidelity with performance requirements. 
+
+   >[!NOTE]
+   >Unless precise geometry is very important to you, don't select the **Best Geometry** option since it will remove your textures. The textures produced with photogrammetry add significant detail to the 3D model.
 
     ![Decimation options](media/recap-photo12.PNG "Decimation options")
 
-You now have an 3D model with optimized geometry that is ready for export.
+    At this point, the 3D model is optimized and ready to export. 
 
-![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
+    ![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
  
 ## Export the 3D model
 
