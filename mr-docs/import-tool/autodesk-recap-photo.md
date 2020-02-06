@@ -126,7 +126,7 @@ To use the 3D model in a Dynamics 365 mixed-reality application, it must be in G
 
     ![Export model button](media/recap-photo14.PNG "Export model button")
  
-2.	In the **Export model** dialog box, choose **OBJ** as the export file type, and then set the texture size to 4098 x 4098. You can choose a larger or smaller texture size but be aware that this will affect performance or visual fidelity. When ready, select **Export**.  
+2.	In the **Export model** dialog box, choose **OBJ** as the export file type, and then set the texture size to 4098 x 4098. You can choose a larger or smaller texture size but be aware that this will affect either performance or visual fidelity. When ready, select **Export**.  
 
     ![Export model options](media/recap-photo15.PNG "Export model options")
  
@@ -138,7 +138,7 @@ To use the 3D model in a Dynamics 365 mixed-reality application, it must be in G
 
 ## Use Blender to convert the OBJ file to a GLB file
 
-There are several applications that you can use to convert an OBJ file to a GLB file. For purposes of this tutorial, we'll use Blender  
+There are several applications that you can use to convert an OBJ file to a GLB file. For purposes of this tutorial, we'll use Blender.  
 
 ### What is Blender?
 
