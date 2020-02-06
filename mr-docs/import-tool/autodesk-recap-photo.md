@@ -144,7 +144,7 @@ There are several applications that you can use to convert an OBJ file to a GLB 
 
 [Blender](https://www.blender.org/) is a free, open-source, 3D creation suite. It supports the entirety of the 3D pipeline: modeling, rigging, animation, simulation, rendering, compositing and motion tracking, and video editing and game creation.
 
-If you use Blender to prepare your 3D models, review Blender's website and [download the most current stable version for Windows](https://www.blender.org/download/).
+If you use Blender to prepare your 3D models, review Blender's website and [download the latest version for Windows](https://www.blender.org/download/).
 
 ### Import your 3D model into Blender
 
@@ -158,11 +158,11 @@ If you use Blender to prepare your 3D models, review Blender's website and [down
  
 3.	Under **Import OBJ**:
 
-   a. Clear the **Object** and **Group** check boxes, and then select the **Image Search** check box.
+    a. Clear the **Object** and **Group** check boxes, and then select the **Image Search** check box.
    
       ![Import OBJ options](media/recap-photo19.PNG "Import OBJ options")
  
-   b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as a single item and searches in the subfolder for any materials.
+    b. Select **Import OBJ** on the right side of the screen. This imports the 3D model as a single item and searches in the subfolder for any materials.
    
       ![Import OBJ command](media/recap-photo20.PNG "Import OBJ command")
  
