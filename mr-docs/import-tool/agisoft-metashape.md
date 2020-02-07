@@ -135,9 +135,9 @@ Now it's time to build the mesh.
     >[!NOTE]
     >You may want to change the **Face count** setting to match the [performance requirements for your targeted platform](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
     
-    Metascape converts your point cloud into 3D model.
+3. Select **OK** to convert the point cloud into 3D model.
  
-3. Do one of the following:
+4. Examine the results, and then do one of the following:
 
     - If you're satisfied with the results, skip to the **Export your 3D model** procedure. 
     
@@ -153,7 +153,7 @@ Adding a texture map to your 3D model can significantly increase the fidelity wh
 
     ![Workflow > Build Texture command](media/agisoft-18.PNG "Workflow > Build Texture command")
 
-2.	You can leave these options at their default values, however you may want to consider reducing the texture size depending on what platform you are aiming to use this model on.  Click **OK** to generate the texture.
+2.	You can leave these options at their default values, however you may want to consider reducing the texture size depending on what platform you are aiming to use this model on.  
 
     ![Build Texture settings](media/agisoft-19.PNG "Build Texture settings")
 
