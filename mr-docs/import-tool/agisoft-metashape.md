@@ -97,7 +97,7 @@ Photogrammetry uses objects that are consistently present in multiple images to 
 
 After aligning the photos, you can use the bounding box to trim the size of your 3D object. This step isn't required, but it speeds up the next steps.
 
-1.	On the toolbar, elect the **Resize Region** tool.
+1.	On the toolbar, select the **Resize Region** tool.
 
     ![Resize Region tool](media/agisoft-12.PNG "Resize Region tool")
  
