@@ -49,7 +49,7 @@ For the most part, you can use the default preferences, but there are a few chan
 
     ![GPU tab settings](media/agisoft-3.PNG "GPU tab settings")
  
-4. On the **Advanced** tab, under **Miscellaneous**, select the **Enable fine-level subdivision** and **Enable VBO support** check boxes. If the camera you're using has extensive meta data about location, orientation, and so on, you might want to experiment with the options in the **Export/Import** section. Select **OK** to apply and close the **Preferences** dialog box.
+4. On the **Advanced** tab, under **Miscellaneous**, select the **Enable fine-level subdivision** and **Enable VBO support** check boxes. If the camera you're using has extensive meta data about location, orientation, and so on, you might want to experiment with the options in the **Export/Import** section. Select **OK** to apply and close the **Metashape Preferences** dialog box.
 
     ![Advanced tab settings](media/agisoft-4.PNG "Advanced tab settings")
 
