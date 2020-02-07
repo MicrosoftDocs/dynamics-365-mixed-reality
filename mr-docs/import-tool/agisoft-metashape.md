@@ -85,11 +85,11 @@ Photogrammetry uses objects that are consistently present in multiple images to 
 
     ![Workflow > Align Photos command](media/agisoft-9.PNG "Workflow > Align Photos command")
  
-2.	In the **Align Photos** dialog box, ou can use the default settings shown below, or change them as appropriate for your situation.  Select **OK** when you're done.
+2.	In the **Align Photos** dialog box, you can use the default settings shown below, or change them as you see fit.  Select **OK** when you're done.
 
     ![Align Photos settings](media/agisoft-10.PNG "Align Photos settings")
  
-3.	When you navigate back to the **Model** tab and examine the outcome of your photo alignment it should look like similar to this.
+3.	Select the **Model** tab to view the results. At this point, your model should look similar to the following.
 
     ![Photo alignment outcome](media/agisoft-11.PNG "Photo alignment outcome")
  
