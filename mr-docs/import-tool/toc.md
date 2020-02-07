@@ -14,6 +14,7 @@
 #### [Prepare 3D models](houdini.md)
 #### [Convert a point cloud](houdini-point-cloud.md)
 ### [Blender](blender.md)
+### [Agisoft Metashape](agisoft-metashape.md)
 ## Install and use Dynamics 365 Import Tool (Preview)
 ### [Requirements for installing](requirements.md)
 ### [Try Dynamics 365 Import Tool (Preview) free](try-import-tool-free.md)
