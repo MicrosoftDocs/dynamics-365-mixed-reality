@@ -74,4 +74,4 @@ After your IT Admin of your organization assigned you Dynamics 365 Remote Assist
 ## Next steps
 Learn how to use Remote Assist on HoloLens 1. 
 Learn how to use Remote Assist on HoloLens 2. 
-Learn how to use Remote Assist on mobile devices. 
+Learn how to use Remote Assist on [mobile devices](remote-assist-mobile-overview.md). 
