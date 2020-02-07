@@ -171,7 +171,7 @@ The final step is to convert the model to a GLB file format so you can use it in
 
     ![File > Export > Export Model command](media/agisoft-20.PNG "File > Export > Export Model command")
 
-2.	Select **.glb** as the export file type, and then select **Save**.
+2.	In the **Save as type** field, select **.glb**, and then select **Save**.
 
     ![Save As dialog box](media/agisoft-21.PNG "Save As dialog box")
  
