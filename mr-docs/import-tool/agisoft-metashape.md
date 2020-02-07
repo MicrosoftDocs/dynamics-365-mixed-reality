@@ -65,4 +65,22 @@ To do this, navigate to **Workflow** > **Add Photos** and select the photos that
 
 SCREEN SHOT GOES HERE
  
+## Mask photos
+
+When determining what aspects of your photographs you would like to turn into a 3D model it can be helpful to mask the 3D object.  You may find it beneficial to do this in pictures from different angles.  While it is not necessary to mask your object in every single photo, the more photographs you mask, the more accurate the final result will be.
+
+1.	To add a mask, double-click an image to open it and choose a selection tool such as the “intelligent scissors” and outline the subject you wish to turn into a 3D model.
+
+SCREEN SHOT GOES HERE
+ 
+2.	Once you have your model outlined, press the **Add Selection** button to create the mask.
+
+SCREEN SHOT GOES HERE
+ 
+Repeat this step from multiple angles to get a higher quality output.
+
+SCREEN SHOT GOES HERE
+
+
+ 
 
