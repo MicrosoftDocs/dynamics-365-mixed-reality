@@ -77,7 +77,7 @@ You can use "mask out" irrelevant elements of your source photos that can be con
 
     ![Refined model](media/agisoft-8.PNG "Refined model")
 
-## Align photos
+## Align the photos
 
 Photogrammetry uses objects that are consistently present in multiple images to create a map of where it thinks the camera was when the photo was taken. You use the **Align photos** command for this part of the process.
 
