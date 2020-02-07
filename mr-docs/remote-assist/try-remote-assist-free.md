@@ -79,5 +79,5 @@ If you are a Dynamics 365 Field Service customer, you can integrate Dynamics 365
 7.	Afterwards, users in your organization can deploy Dynamics 365 Remote Assist to their devices here. 
 
 ## Next steps
-Add and assign licenses to up to 25 users in your organization [here](). 
-Users in your organization can deploy Dynamics 365 Remote Assist to their devices [here](). 
+Buy Dynamics 365 Remote Assist licenses for HoloLens and Mobile [here](buy-remote-assist.md). 
+Deploy Dynamics 365 Remote Assist licenses to individuals in your organization [here](deploy-remote-assist.md). 
