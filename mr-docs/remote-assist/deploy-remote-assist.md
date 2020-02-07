@@ -12,15 +12,16 @@ ms.reviewer: krbjoran
 
 After you try or buy Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach (for Dynamics 365 Field Service customers only) licenses for HoloLens 1, HoloLens 2, and mobile device, IT Admins can assign licenses to users in your organization and then users in your organization can start using the app.
 
-Note: There are two users required to make a D365 Remote Assist call: Field service technicians and Remote experts. Field service technicians require D365 Remote Assist or D365 Remote Assist Attach licenses **and** Microsoft Teams license. When you trial or buy D365 Remote Assist or D365 Remote Assist Attach licenses, you automatically get a Microsoft Teams license. Experts require a Microsoft Teams license only. You can find out more information of how to deploy a Microsoft Teams license here. This document only explains how to deploy D365 Remote Assist or D365 Remote Assist Attach for field service technicians. 
+> [!NOTE]
+> There are two users for D365 Remote Assist or D365 Remote Assist Attach: Field service technicians and Remote experts. Field service technicians require D365 Remote Assist or D365 Remote Assist Attach licenses **and** a Microsoft Teams license. Experts require a Microsoft Teams license only. This document only explains how to deploy D365 Remote Assist or D365 Remote Assist Attach for field service technicians. You can find out more information on how to deploy a Microsoft Teams license for your users [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist). 
 
 In this topic, we’ll walk through the ways you can deploy D365 Remote Assist or D365 Remote Assist Attach (for D365 Field Service customers only): 
 -	Assign licenses to users in your organization (for IT Admins only)
 -	Device set up instructions for users in your organization (for individuals in an organization) 
 
 ## Prerequisites for IT Admins 
-1. Your organization must have a Microsoft 365 or Office 365 administrator account. Learn more about admin permissions here. 
-2. Make sure that users in your organization have the required licensing and device before setting up your device. Licensing and Product requirements can be found here.
+- Your organization must have a Microsoft 365 or Office 365 administrator account. Learn more about admin permissions here. 
+- Make sure that users in your organization have the required licensing and device before setting up your device. Licensing and Product requirements can be found here.
 
 ## Assign licenses to users in your organization (for IT Admins only)
 
