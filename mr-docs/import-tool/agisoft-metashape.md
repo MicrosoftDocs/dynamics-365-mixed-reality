@@ -55,7 +55,7 @@ For the most part, you can use the default preferences, but there are a few chan
 
 ## Import your photos
 
-In this part of the tutorial, you'll add the photos that will be used to construct the 3D model.
+The first thing you need to do after setting up your preferences is to add the photos that will be used to construct the 3D model.
 
 - On the **Workflow** menu, select **Add Photos**, and then select the photos that you want to import.
 
