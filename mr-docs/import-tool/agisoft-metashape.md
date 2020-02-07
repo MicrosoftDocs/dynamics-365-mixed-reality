@@ -18,27 +18,26 @@ data for use in Geographic Information System (GIS) applications, cultural herit
 
 The following tips will help you take quality photos for photogrammetry:
 
-- If possible, take photos in a location where lighting is consistent and doesn't cast shadows stark shadows.
+- If possible, take photos in a location where lighting is consistent and doesn't cast shadows.
 
-- If there are shadows cast, try to keep your own shadow out of the picture
+- Try to keep your own shadow out of the picture.
 
-- Avoid having moving objects in the background while taking photos
+- Avoid moving objects in the background while taking photos.
 
-- If the camera you are using has HDR, turn this feature off and do not adjust the exposure of your photographs while you are capturing 
-images
+- If the camera you're using has a High Dynamic Range (HDR) setting, turn this feature off and try not to adjust the exposure of your photographs while capturing images.
 
-- Take pictures about 1 meter apart while circling the object
+- Take pictures about 1 meter apart while circling the object.
 
-- If it is possible, maintain a perpendicular location to the model while you are taking photos
+- If it is possible, maintain a perpendicular location to the subject while taking photos.
 
-- If the subject is large, move in a lateral motion from one end of the object to the other changing the height with each pass until 
-you feel that you have captured all of surfaces of the object
+- If the subject is large, move in a lateral motion from one end of the object to the other, changing the height with each pass until 
+you feel you've captured all surfaces.
 
 ## Set preferences
 
-While the majority of Metashape’s preferences can be left at their default values, there are a few alterations that should be made before getting started.
+For the most part, you can use the default preferences, but there are a few changes to make before getting started.
 
-1. First navigate to the preferences panel by selecting **Tools > Preferences**.
+1. On the **Tools** menu, select **Preferences**.
 
     ![Tools > Preferences command](media/agisoft-1.PNG "Tools > Preferences command")
   
