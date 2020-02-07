@@ -27,10 +27,10 @@ The following tips will help you take quality photos for photogrammetry:
 
 - Take pictures about 1 meter apart while circling the object.
 
-- If it is possible, maintain a perpendicular location to the subject while taking photos.
+- If possible, maintain a perpendicular location to the object while taking photos.
 
-- If the subject is large, move in a lateral motion from one end of the object to the other, changing the height with each pass until 
-you feel you've captured all surfaces.
+- If the object is large, move in a lateral motion from one end of the object to the other, changing the height with each pass until 
+you've captured all surfaces.
 
 ## Set preferences
 
