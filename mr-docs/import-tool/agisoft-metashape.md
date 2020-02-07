@@ -139,23 +139,29 @@ Now it's time to build the mesh.
  
 4. Examine the results, and then do one of the following:
 
-    - If you're satisfied with the results, skip to the **Export your 3D model** procedure. 
+    - If you're satisfied with the results, skip to the **Export your 3D model** procedure below. 
     
-    - If you want a higher level of surface detail, go to the **Build the texture** procedure.  
+    - If you want a higher level of surface detail, go to the next procedure, **Build the texture**.  
     
     - If you don't like the shape of the object, you might want to add more masks to the areas that are missing details.
 
 ## Build the texture
 
-Adding a texture map to your 3D model can significantly increase the fidelity while maintaining performance.  This step is optional and if you would like you can skip this step and go directly to exporting the 3D model.  If you would like to add a texture, follow the steps below.
+Adding a texture map to your 3D model can significantly increase the visual fidelity while maintaining performance. 
 
-1.	Navigate to **Workflow** > **Build Texture** to open the settings menu.
+>[!NOTE]
+>This step is optional.  
+
+1.	On the **Workflow** menu, select **Build Texture**.
 
     ![Workflow > Build Texture command](media/agisoft-18.PNG "Workflow > Build Texture command")
 
-2.	You can leave these options at their default values, however you may want to consider reducing the texture size depending on what platform you are aiming to use this model on.  
+2.	Use the following default values. 
 
     ![Build Texture settings](media/agisoft-19.PNG "Build Texture settings")
+    
+    >[!NOTE]
+    >You might want to consider reducing the texture size depending on the platform you're targeting.  
 
 ## Export 3D model
 
