@@ -63,17 +63,17 @@ The first thing you need to do after setting up your preferences is to import th
  
 ## Mask the photos
 
-When determining what aspects of your photographs you would like to turn into a 3D model it can be helpful to mask the 3D object.  You may find it beneficial to do this in pictures from different angles.  While it is not necessary to mask your object in every single photo, the more photographs you mask, the more accurate the final result will be.
+You can use masks to mask out irrelevant elements of your source photos that are confusing to the program or that can lead to incorrect reconstruction results. You might want to do this in pictures from different angles. Although it's not necessary to mask objects in every photo, the more photographs you mask, the more accurate the final result will be.
 
-1.	To add a mask, double-click an image to open it and choose a selection tool such as the “intelligent scissors” and outline the subject you wish to turn into a 3D model.
+1.	Double-click an image to open it, choose a selection tool such as the **Intelligent scissors**, and then outline the subject you wnat to turn into a 3D model.
 
     ![Intelligent Scissors tool](media/agisoft-6.PNG "Intelligent Scissors Tool")
  
-2.	Once you have your model outlined, press the **Add Selection** button to create the mask.
+2.	After outlining the subject, select the **Add Selection** button to create the mask.
 
     ![Add selection button](media/agisoft-7.PNG "Add selection button")
  
-Repeat this step from multiple angles to get a higher quality output.
+3. Repeat this step from multiple angles to product a higher-quality output.
 
     ![Refined model](media/agisoft-8.PNG "Refined model")
 
