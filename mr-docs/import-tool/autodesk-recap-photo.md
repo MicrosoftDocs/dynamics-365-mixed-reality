@@ -22,16 +22,16 @@ The following tips will help you take quality photos for photogrammetry:
 
 - Try to keep your own shadow out of the picture.
 
-- Avoid moving objects in the background while taking photos.
+- Make sure there are no moving objects in the background when you take the photos.
 
 - If the camera you're using has a High Dynamic Range (HDR) setting, turn this feature off and try not to adjust the exposure of your photographs while capturing images.
 
-- Take pictures about 1 meter apart while circling the subject.
+- Take pictures about 1 meter apart while circling the object.
 
-- If possible, maintain a perpendicular location to the subject while taking photos.
+- If possible, maintain a perpendicular location to the object while taking photos.
 
-- If the subject is large, move in a lateral motion from one end of the object to the other, changing the height with each pass 
-until you feel you've captured all surfaces.
+- If the object is large, move in a lateral motion from one end of the object to the other, changing the height with each pass until 
+you've captured all surfaces.
 
 ## Start a new project
 
