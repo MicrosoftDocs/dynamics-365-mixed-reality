@@ -44,7 +44,7 @@ For the most part, you can use the default preferences, but there are a few chan
 
     ![General tab settings](media/agisoft-2.PNG "General tab settings")
  
-3. On the **GPU** tab, select the check box for any graphics processing units (GPUs) available for processing. If you only have one GPU available, at the bottom of the dialog box, select the **Use CPU when performing GPU accelerated processing** check box. Select **Apply** when you're done.
+3. On the **GPU** tab, select the check box for any available graphics processing units (GPUs). If you only have one GPU available, at the bottom of the dialog box, select the **Use CPU when performing GPU accelerated processing** check box. Select **Apply** when you're done.
 
     ![GPU tab settings](media/agisoft-3.PNG "GPU tab settings")
  
