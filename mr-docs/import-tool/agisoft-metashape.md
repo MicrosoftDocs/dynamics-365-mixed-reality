@@ -156,7 +156,7 @@ Adding a texture map to your 3D model can significantly increase the visual fide
 
     ![Workflow > Build Texture command](media/agisoft-18.PNG "Workflow > Build Texture command")
 
-2.	Use the following default values. 
+2.	Use the following default values. Select **OK** when you're done.
 
     ![Build Texture settings](media/agisoft-19.PNG "Build Texture settings")
     
