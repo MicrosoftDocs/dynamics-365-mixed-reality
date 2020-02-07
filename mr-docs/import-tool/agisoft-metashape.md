@@ -88,7 +88,7 @@ Photogrammetry uses objects that are consistently present in multiple images to 
 
     ![Align Photos settings](media/agisoft-10.PNG "Align Photos settings")
  
-3.	Select the **Model** menu to view the results. At this point, your model should look similar to this.
+3.	Select the **Model** menu to view the results. At this point, your model should look something like this.
 
     ![Photo alignment outcome](media/agisoft-11.PNG "Photo alignment outcome")
  
