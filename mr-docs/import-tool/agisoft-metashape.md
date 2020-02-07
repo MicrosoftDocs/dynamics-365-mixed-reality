@@ -187,7 +187,7 @@ The final step is to convert the model to a GLB file format so you can use it in
     
     ![Finished model](media/agisoft-23.PNG "Finished model")
  
-## View your 3D models in Microsoft Dynamics 365 Mixed Reality Applications
+## View your 3D models in Microsoft Dynamics 365 mixed-reality applications
 
 After preparing your 3D model, you can use it in the following applications:
 
