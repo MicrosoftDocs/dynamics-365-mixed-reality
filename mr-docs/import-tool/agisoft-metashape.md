@@ -167,17 +167,19 @@ Adding a texture map to your 3D model can significantly increase the visual fide
 
 The final step is to convert the model to a GLB file format so you can use it in Dynamics 365 mixed-reality applications.
 
-1.	On the **File** menu, select **Export**, select **Export Model**, and then choose a name and location for the 3D model.
+1. On the **File** menu, select **Export**, select **Export Model**, and then choose a name and location for the 3D model.
 
     ![File > Export > Export Model command](media/agisoft-20.PNG "File > Export > Export Model command")
 
-2.	In the **Save as type** field, select **.glb**, and then select **Save**.
+2. In the **Save as type** field, select **.glb**, and then select **Save**.
 
     ![Save As dialog box](media/agisoft-21.PNG "Save As dialog box")
  
-3.	In the **Export Model** dialog box, select **.png** for the texture (recommended) and leave the other default values.
+3. In the **Export Model** dialog box, under **Export Parameters**, select **PNG** for the **Export texture** option (recommended) and leave the other default values.
 
     ![Export Model settings](media/agisoft-22.PNG "Export Model settings")
+    
+4. Select **OK**.
  
     The model is done and ready to use in Dynamics 365 mixed-reality applications
     
@@ -198,12 +200,3 @@ Screenshots in this document were taken from the Agisoft Metashape software prog
 Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Agisoft Metashape, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
 
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft Corporation. 
-
- 
-
-
-
-
-
- 
-
