@@ -53,7 +53,7 @@ For the most part, you can use the default preferences, but there are a few chan
 
     ![Advanced tab settings](media/agisoft-4.PNG "Advanced tab settings")
 
-## Import photos
+## Import your photos
 
 In this part of the tutorial, you'll add the photos that will be used to construct the 3D model.
 
@@ -61,7 +61,7 @@ In this part of the tutorial, you'll add the photos that will be used to constru
 
     ![Workflow > Add Photos command](media/agisoft-5.PNG "Workflow > Add Photos command")
  
-## Mask photos
+## Mask the photos
 
 When determining what aspects of your photographs you would like to turn into a 3D model it can be helpful to mask the 3D object.  You may find it beneficial to do this in pictures from different angles.  While it is not necessary to mask your object in every single photo, the more photographs you mask, the more accurate the final result will be.
 
