@@ -94,7 +94,10 @@ Photogrammetry uses objects that are consistently present in multiple images to 
  
 ## Align the region
 
-After aligning the photos, you can use the bounding box to trim the size of your 3D object. This step isn't required, but it speeds up the next steps.
+After aligning the photos, you can use the bounding box to trim the size of your 3D object. 
+
+>[!NOTE]
+>This step isn't required, but it speeds up the next steps.
 
 1.	On the toolbar, select the **Resize Region** tool.
 
