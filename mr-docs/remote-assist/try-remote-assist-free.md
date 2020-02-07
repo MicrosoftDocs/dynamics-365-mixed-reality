@@ -9,7 +9,7 @@ title: Try Dynamics 365 Remote Assist for free for up to 90 days.
 ms.reviewer: krbjoran
 ---
 
-# Try Dynamics 365 Remote Assist for Free for HoloLens and Mobile 
+# Dynamics 365 Remote Assist Free Trials for HoloLens and Mobile 
 
 You can now try Microsoft Dynamics 365 Remote Assist for free on your HoloLens 1, HoloLens 2 or mobile devices, including tablets. There are three free trials that you can try: The license-free 90-day trial is for **individuals** that want to quickly use the app. The 30-day trial is for **organizations** that want to provide licenses for up to 25 users. The 30-day Dynamics 365 Remote Assist Attach license is only for **Dynamics 365 Field Service customers** to integrate with our app. Starting your free trial is nearly effortless! 
 
@@ -60,10 +60,6 @@ It Admins must acquire a 30-day trial license (for up to 25 seats in an organiza
 
 5.	Hover over the plan and two options will appear: Start free trial or Buy now. Select **Start free trial**. Follow the next steps of the payment process. 
  
-6.	Next, add and assign licenses to up to 25 users in your organization here. 
-
-7.	Afterwards, users in your organization can deploy Dynamics 365 Remote Assist to their devices here. 
-
 ## Option 3: 30-day Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers only)
 
 If you are a Dynamics 365 Field Service customer, you can integrate Dynamics 365 Remote Assist with your application. It Admins must acquire a 30-day trial license (for up to 25 seats in an organization) through the Microsoft 365 or Office 365 administrator portal. 
@@ -82,11 +78,6 @@ If you are a Dynamics 365 Field Service customer, you can integrate Dynamics 365
 
 7.	Afterwards, users in your organization can deploy Dynamics 365 Remote Assist to their devices here. 
 
-
-
-### See also
-
-[Terms and conditions for free trial](../legal/remote-assist-license-terms-free-trial.md)<br>
-[Buy and deploy Dynamics 365 Remote Assist](buy-and-deploy-remote-assist.md)<br>
-[Overview of Dynamics 365 Remote Assist](index.md)<br>
-[Dynamics 365 Remote Assist user guide](user-guide.md)
+## Next steps
+Add and assign licenses to up to 25 users in your organization [here](). 
+Users in your organization can deploy Dynamics 365 Remote Assist to their devices [here](). 
