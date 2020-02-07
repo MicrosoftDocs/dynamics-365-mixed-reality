@@ -49,7 +49,7 @@ For the most part, you can use the default preferences, but there are a few chan
 
     ![GPU tab settings](media/agisoft-3.PNG "GPU tab settings")
  
-4. Start with these settings from the “advanced” tab.  If the camera you are using to take the photos has extensive meta data about the location, orientation, etc. then you may wish to experiment with the options in the Import / Export section.  Click **OK** to apply and close the preferences pane.
+4. On the **Advanced** tab, under **Miscellaneous**, selec thte **Enable fine-level subdivision** and **Enable VBO support** check boxes. If the camera you're using has extensive meta data about location, orientation, and so on, you might want to experiment with the options in the **Export/Import** section. Select **OK** to apply and close the **Preferences** dialog box.
 
     ![Advanced tab settings](media/agisoft-4.PNG "Advanced tab settings")
 
