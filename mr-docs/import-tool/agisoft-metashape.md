@@ -35,5 +35,34 @@ images
 - If the subject is large, move in a lateral motion from one end of the object to the other changing the height with each pass until 
 you feel that you have captured all of surfaces of the object
 
+## Set preferences
 
+While the majority of Metashape’s preferences can be left at their default values, there are a few alterations that should be made before getting started.
+
+1. First navigate to the preferences panel by selecting **Tools > Preferences**.
+
+SCREEN SHOT GOES HERE
+  
+2. Click through the **General**, **GPU**, and **Advanced** tabs at the top to confirm that the following options are selected.  
+
+SCREEN SHOT GOES HERE
+ 
+3. On the **General** tab, check the “Write log to file” option under the “miscellaneous “ tab and choose a location and file name you would like to use for your log.  Click **Apply** and navigate to the **GPU** tab.
+
+SCREEN SHOT GOES HERE
+ 
+4. On the **GPU** tab, check any GPUs that you have available for processing.  If you only have one GPU available, check “Use CPU when performing GPU accelerated processing”, otherwise leave it unchecked.  Click **Apply** and navigate to the **Advanced** tab.
+
+SCREEN SHOT GOES HERE
+ 
+Start with these settings from the “advanced” tab.  If the camera you are using to take the photos has extensive meta data about the location, orientation, etc. then you may wish to experiment with the options in the Import / Export section.  Click **OK** to apply and close the preferences pane.
+
+## Import photos
+
+Now that our environment preferences are set up, we can begin adding the photos that will be used to construct our 3D model.
+
+To do this, navigate to **Workflow** > **Add Photos** and select the photos that you would like to import.
+
+SCREEN SHOT GOES HERE
+ 
 
