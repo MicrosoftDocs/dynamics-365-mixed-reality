@@ -135,7 +135,7 @@ Now it's time to build the mesh.
     >[!NOTE]
     >You may want to change the **Face count** setting to match the [performance requirements for your targeted platform](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
     
-3. Select **OK** to convert the point cloud into 3D model.
+3. Select **OK** to convert the point cloud into a 3D model.
  
 4. Examine the results, and then do one of the following:
 
