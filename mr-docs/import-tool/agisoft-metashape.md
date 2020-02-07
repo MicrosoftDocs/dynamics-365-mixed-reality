@@ -69,11 +69,11 @@ You can use "mask out" irrelevant elements of your source photos that can be con
 
     ![Intelligent Scissors tool](media/agisoft-6.PNG "Intelligent Scissors Tool")
  
-2.	After outlining the subject, select the **Add Selection** button to create the mask.
+2.	Select the **Add Selection** button to create the mask.
 
     ![Add selection button](media/agisoft-7.PNG "Add selection button")
  
-3. Repeat this step from multiple angles to product a higher-quality output.
+3. Repeat this step from multiple angles for best results.
 
     ![Refined model](media/agisoft-8.PNG "Refined model")
 
