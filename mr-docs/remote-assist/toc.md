@@ -3,7 +3,7 @@
 ## Setup
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist-free.md)
-### [Buy + assign Remote Assist licenses](buy-and-deploy-remote-assist.md)
+### [Buy + assign Remote Assist licenses](buy-remote-assist.md)
 ### [Get ready to deploy Remote Assist](deploy-remote-assist.md)
 ### [Configure 3rd-party calling](cross-company-calling.md)
 ## Remote Assist on Hololens 1
