@@ -62,7 +62,7 @@ The first thing you need to do after setting up your preferences is to import th
  
 ## Mask your photos
 
-You can "mask out" irrelevant elements of your source photos that can be confusing to the program or that can lead to undesirable reconstruction results. You might want to do this from different angles in your pictures. Although it's not necessary to mask objects in every photo, the more photographs you mask, the more accurate the final result will be.
+You can "mask out" irrelevant elements of your source photos that can be confusing to the program or that can lead to undesirable  results. You might want to do this from different angles in your pictures. Although it's not necessary to mask objects in every photo, the more photographs you mask, the more accurate the final result will be.
 
 1.	Double-click an image to open it, choose a selection tool such as the **Intelligent scissors**, and then outline your 3D model subject.
 
