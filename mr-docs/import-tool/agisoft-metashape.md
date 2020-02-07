@@ -113,7 +113,7 @@ Now it's time to build the dense point cloud.
 
     ![Workflow > Build Dense Cloud command](media/agisoft-14.PNG "Workflow > Build Dense Cloud command")
  
-2.	Use the following settings.  
+2.	In the **Build Dense Cloud** dialog box, use the following settings.  
 
     ![Build Dense Cloud settings](media/agisoft-15.PNG "Build Dense Cloud settings")
     
