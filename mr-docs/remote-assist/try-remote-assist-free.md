@@ -22,9 +22,9 @@ In this topic, we’ll walk through the three ways you can get a Remote Assist t
 
 Make sure that you have the required licensing and device before starting your trial. Licensing and Product requirements can be found [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements).
 
-1.	Have an [MSA account](https://account.microsoft.com/account?lang=en-us).
-2.	You will need a [Microsoft Teams Freemium](https://products.office.com/en-us/microsoft-teams/free). 
-3.	You will need a HoloLens 1, HoloLens 2, or a mobile device. 
+    - Have an [MSA account](https://account.microsoft.com/account?lang=en-us).
+    - You will need a [Microsoft Teams Freemium](https://products.office.com/en-us/microsoft-teams/free). 
+    - You will need a HoloLens 1, HoloLens 2, or a mobile device. 
 
 ## Option 1: License-free 90-day trial for individuals
 
