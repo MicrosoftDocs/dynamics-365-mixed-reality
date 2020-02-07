@@ -118,7 +118,7 @@ Now it's time to build the dense point cloud.
     ![Build Dense Cloud settings](media/agisoft-15.PNG "Build Dense Cloud settings")
     
     >[!NOTE]
-    >If you have a powerful computer, you can use the **High** quality setting, but for many operations the **Medium** setting produces quality results.  
+    >If you have a powerful computer, you can set the **Quality** setting to **High**, but for many operations the **Medium** setting produces quality results.  
 
 ## Build the mesh
 
