@@ -85,27 +85,25 @@ Photogrammetry uses objects that are consistently present in multiple images to 
 
     ![Workflow > Align Photos command](media/agisoft-9.PNG "Workflow > Align Photos command")
  
-2.	In the **Align Photos** dialog box, you can use the default settings shown below, or change them as you see fit.  Select **OK** when you're done.
+2.	In the **Align Photos** dialog box, use the default settings shown below, or change them as you see fit.  Select **OK** when you're done.
 
     ![Align Photos settings](media/agisoft-10.PNG "Align Photos settings")
  
-3.	Select the **Model** menu to view the results. At this point, your model should look similar to the following.
+3.	Select the **Model** menu to view the results. At this point, your model should look similar to this.
 
     ![Photo alignment outcome](media/agisoft-11.PNG "Photo alignment outcome")
  
 ## Align the region
 
-Now that the photos are all aligned, use the bounding box to trim the size of our 3D object.
+After aligning the photos, you can use the bounding box to trim the size of your 3D object. This step isn't required, but it can speed up the next steps.
 
-1.	Select the **Resize Region** tool from the toolbar.
+1.	Select the **Resize Region** tool.
 
     ![Resize Region tool](media/agisoft-12.PNG "Resize Region tool")
  
-2.	Click and drag the spheres at the edge of the region to select only the area that you wish to convert into a 3D model.
+2.	Drag the spheres at the edge of the region to select the area to convert into a 3D model.
 
     ![Selected area to convert](media/agisoft-13.PNG "Selected area to convert")
- 
-While this step is not required, it can help speed up the next few steps.
 
 ## Build dense point cloud
 
