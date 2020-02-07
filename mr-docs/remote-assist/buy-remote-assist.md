@@ -1,12 +1,12 @@
 ---
 author: xonatia
-description: Learn how to buy Dynamics 365 Remote Assist, add users to the subscription, and deploy the app to users in several different ways
+description: Learn how to buy Dynamics 365 Remote Assist for HoloLens and mobile
 ms.author: xolee
-ms.date: 10/01/2019
+ms.date: 02/27/2020
 ms.service: crm-online
 ms.topic: article
 title: Buy and deploy Dynamics 365 Remote Assist
-ms.reviewer: v-brycho
+ms.reviewer: krbjoran
 ---
 
 # Buy Dynamics 365 Remote Assist Licenses for HoloLens and Mobile
