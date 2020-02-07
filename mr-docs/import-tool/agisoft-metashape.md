@@ -41,11 +41,11 @@ For the most part, you can use the default preferences, but there are a few chan
 
     ![Tools > Preferences command](media/agisoft-1.PNG "Tools > Preferences command") 
 
-2. On the **General** tab, under **Miscellaneous**, select the **Write log to file** option, and then and choose filename and location  to use for your log. Select **Apply** when done.
+2. On the **General** tab, under **Miscellaneous**, select the **Write log to file** check box, and then enter a location and filename for your log. Select **Apply** when you're done.
 
     ![General tab settings](media/agisoft-2.PNG "General tab settings")
  
-3. On the **GPU** tab, check any GPUs that you have available for processing.  If you only have one GPU available, check “Use CPU when performing GPU accelerated processing”, otherwise leave it unchecked.  Click **Apply** and navigate to the **Advanced** tab.
+3. On the **GPU** tab, select the check box for any GPUs that you have available for processing. If you only have one GPU available, select the **Use CPU when performing GPU accelerated processing check box. Select **Apply** when you're done.
 
     ![GPU tab settings](media/agisoft-3.PNG "GPU tab settings")
  
