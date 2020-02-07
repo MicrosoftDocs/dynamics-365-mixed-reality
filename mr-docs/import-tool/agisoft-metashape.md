@@ -101,7 +101,7 @@ After aligning the photos, you can use the bounding box to trim the size of your
 
     ![Resize Region tool](media/agisoft-12.PNG "Resize Region tool")
  
-2.	Drag the spheres at the edge of the region to select the area to convert into a 3D model.
+2.	Drag the spheres at the edge of the region to select the area you want to convert.
 
     ![Selected area to convert](media/agisoft-13.PNG "Selected area to convert")
 
