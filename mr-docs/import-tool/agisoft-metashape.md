@@ -81,6 +81,121 @@ Repeat this step from multiple angles to get a higher quality output.
 
 SCREEN SHOT GOES HERE
 
+## Align photos
+
+Photogrammetry uses objects that are consistently present in multiple images to create a map of where it thinks the camera was when the photo was taken.  This process is done in the **Align photos** step.
+
+1.	Navigate to **Workflow** > **Align Photos** to open the Align photos menu.
+
+SCREEN SHOT GOES HERE
+ 
+2.	Once the menu is open you can set your preferences.  Start with the default settings shown below, but feel free to change them to your desired settings.  Once you have your desired settings, click **OK**.
+
+SCREEN SHOT GOES HERE
+ 
+3.	When you navigate back to the **Model** tab and examine the outcome of your photo alignment it should look like similar to this.
+
+SCREEN SHOT GOES HERE
+ 
+## Align the region
+
+Now that the photos are all aligned, use the bounding box to trim the size of our 3D object.
+
+1.	Select the **Resize Region** tool from the toolbar.
+
+SCREEN SHOT GOES HERE
+ 
+2.	Click and drag the spheres at the edge of the region to select only the area that you wish to convert into a 3D model.
+
+SCREEN SHOT GOES HERE
+ 
+While this step is not required, it can help speed up the next few steps.
+
+## Build dense point cloud
+
+With our photos and point-clouds set up, you can build the dense point cloud.
+
+1.	Navigate to **Workflow** > **Build Dense Cloud** to access the settings menu.
+
+SCREEN SHOT GOES HERE
+ 
+2.	Begin with the following settings.  If you have a powerful computer, or a lot of downtime, then you can use the **High** quality setting, but for many operations a quality setting of **Medium** will produce quality results.  Once you have your preferences set, click **OK**.
+
+SCREEN SHOT GOES HERE
+
+## Build mesh
+
+Now that our dense cloud has been built, lets create our mesh.
+
+1.	Navigate to **Workflow** > **Build Mesh** to access the build mesh settings menu.
+
+SCREEN SHOT GOES HERE
+ 
+2.	Start with the following options selected.  Depending on platform you are aiming to use this 3D model on, you may want to change the face count to match the platform requirements.  Some guidelines to those platforms can be found [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+
+SCREEN SHOT GOES HERE
+ 
+Click **OK** to build your mesh.
+
+Your point cloud has now been converted to a 3D model.  Examine the results, if you are satisfied with the outcome you can skip from here to export.  If you desire a higher level of detail on the surfaces, then follow the “Build Texture” workflow in the next step.  If you are unhappy with the quality of the shape of the object, you may want to return to the mask photos stage and add more masks to the areas that are missing details.
+
+## Build texture
+
+Adding a texture map to your 3D model can significantly increase the fidelity while maintaining performance.  This step is optional and if you would like you can skip this step and go directly to exporting the 3D model.  If you would like to add a texture, follow the steps below.
+
+1.	Navigate to **Workflow** > **Build Texture** to open the settings menu.
+
+SCREEN SHOT GOES HERE 
+
+2.	You can leave these options at their default values, however you may want to consider reducing the texture size depending on what platform you are aiming to use this model on.  Click **OK** to generate the texture.
+
+SCREEN SHOT GOES HERE
+
+## Export 3D model
+
+Now that we have created a 3D model that meets are performance and fidelity needs we can export it to the .glb format for use in Microsoft Dynamics 365 Mixed Reality applications.
+
+1.	Navigate to **File** > **Export** > **Export Model** and choose a name and location for the 3D model.
+
+SCREEN SHOT GOES HERE 
+
+2.	Select .glb as the export file type and click **Save**.
+
+SCREEN SHOT GOES HERE
+ 
+3.	This will open the **Export Model** settings menu.  You can leave the majority of these options as default, but we suggest using .png for the texture.
+
+SCREEN SHOT GOES HERE 
+ 
+Congratulations, you have now created a high-fidelity 3D model from your photos using photogrammetry.
+
+SCREEN SHOT GOES HERE
+ 
+## View your 3D models in Microsoft Dynamics 365 Mixed Reality Applications
+
+Now that you have prepared your 3d models, you can use the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality:
+
+[Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
+
+[Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+
+## More information
+
+Several screenshots in this document were taken from the Agisoft Metashape software program in order to provide clear instructions on how to use Agisoft’s software.
+
+You can find more information on Agisoft Metashape here:
+
+[Agisoft_Metashape](https://www.agisoft.com/)
+
+The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Agisoft Metashape, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
+
+The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation. 
+
+ 
+
+
+
+
 
  
 
