@@ -2,24 +2,23 @@
 
 # Use Agisoft Metashape to create 3D models for use in Microsoft Dynamics 365 mixed-reality applications
 
-This tutorial will walk you through the process of using Agisoft’s Metashape photogrammetry software to create a 3D model that can be 
-used on Microsoft Dynamics 365 Mixed Reality applications.
+This tutorial walks you through the process of using Agisoft Metashape photogrammetry software to create a 3D model that can be 
+used in Microsoft Dynamics 365 mixed-reality applications.
 
 This document is created strictly for informative purposes to demonstrate how Agisoft Metashape works with Microsoft Dynamics 365 
-Mixed Reality applications.  The Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor 
+mixed-reality applications. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor 
 Agisoft or any of Agisoft’s products.
 
 ## What is Agisoft Metashape?
 
-Agisoft Metashape is a stand-alone software product that performs photogrammetric processing of digital images and generates 3D spatial 
-data to be used in GIS applications, cultural heritage documentation, and visual effects production as well as for indirect measurements 
-of objects of various scales. -Agisoft Metashape
+Agisoft Metashape is a stand-alone software product that photogrammetrically processes digital images and generates 3D spatial 
+data for use in Geographic Information System (GIS) applications, cultural heritage documentation, visual effects production, and indirect measurements of objects of various scales. [Learn more about Agisoft Metashape](https://www.agisoft.com/).
 
 ## Photography tips
 
 The following tips will help you take quality photos for photogrammetry:
 
-- If possible, take photos in a location where the lighting will remain consistent and does not cast shadows stark shadows
+- If possible, take photos in a location where lighting is consistent and doesn't cast shadows stark shadows.
 
 - If there are shadows cast, try to keep your own shadow out of the picture
 
