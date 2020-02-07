@@ -163,29 +163,29 @@ Adding a texture map to your 3D model can significantly increase the visual fide
     >[!NOTE]
     >You might want to consider reducing the texture size depending on the platform you're targeting.  
 
-## Export 3D model
+## Export the 3D model
 
-Now that we have created a 3D model that meets are performance and fidelity needs we can export it to the .glb format for use in Microsoft Dynamics 365 Mixed Reality applications.
+The final step is to convert the model to a GLB file format so you can use it in Dynamics 365 mixed-reality applications.
 
-1.	Navigate to **File** > **Export** > **Export Model** and choose a name and location for the 3D model.
+1.	On the **File** menu, select **Export**, select **Export Model**, and then choose a name and location for the 3D model.
 
     ![File > Export > Export Model command](media/agisoft-20.PNG "File > Export > Export Model command")
 
-2.	Select .glb as the export file type and click **Save**.
+2.	Select **.glb** as the export file type, and then select **Save**.
 
     ![Save As dialog box](media/agisoft-21.PNG "Save As dialog box")
  
-3.	This will open the **Export Model** settings menu.  You can leave the majority of these options as default, but we suggest using .png for the texture.
+3.	In the **Export Model** dialog box, select **.png** for the texture (recommended) and leave the other default values.
 
     ![Export Model settings](media/agisoft-22.PNG "Export Model settings")
  
-Congratulations, you have now created a high-fidelity 3D model from your photos using photogrammetry.
-
+    The model is done and ready to use in Dynamics 365 mixed-reality applications
+    
     ![Finished model](media/agisoft-23.PNG "Finished model")
  
 ## View your 3D models in Microsoft Dynamics 365 Mixed Reality Applications
 
-Now that you have prepared your 3d models, you can use the following Microsoft Dynamics 365 experiences to view your 3d model in mixed reality:
+After preparing your 3D model, you can use it in the following applications:
 
 [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
 
@@ -193,15 +193,11 @@ Now that you have prepared your 3d models, you can use the following Microsoft D
 
 ## More information
 
-Several screenshots in this document were taken from the Agisoft Metashape software program in order to provide clear instructions on how to use Agisoft’s software.
+Screenshots in this document were taken from the Agisoft Metashape software program to provide clear instructions on how to use Agisoft software. [Learn more about Agisoft Metashape](https://www.agisoft.com/).
 
-You can find more information on Agisoft Metashape here:
+Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Agisoft Metashape, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
 
-[Agisoft_Metashape](https://www.agisoft.com/)
-
-The Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Agisoft Metashape, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
-
-The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by the Microsoft Corporation. 
+The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft Corporation. 
 
  
 
