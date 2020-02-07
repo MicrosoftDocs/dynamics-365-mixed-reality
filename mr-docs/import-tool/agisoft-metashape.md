@@ -130,7 +130,7 @@ Now it's time to build the mesh.
 
     ![Workflow > Build Mesh command](media/agisoft-16.PNG "Workflow > Build Mesh command")
  
-2.	In the **Build Mesh** dialog box, use the following options.  
+2.	In the **Build Mesh** dialog box, use the following settings.  
 
     ![Build Mesh settings](media/agisoft-17.PNG "Build Mesh settings")
     
