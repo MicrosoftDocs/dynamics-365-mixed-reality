@@ -72,6 +72,6 @@ After your IT Admin of your organization assigned you Dynamics 365 Remote Assist
 6.	Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile) here. 
 
 ## Next steps
-Learn how to use Remote Assist on HoloLens 1. 
-Learn how to use Remote Assist on HoloLens 2. 
-Learn how to use Remote Assist on [mobile devices](remote-assist-mobile-overview.md). 
+- Learn how to use Remote Assist on HoloLens 1. 
+- Learn how to use Remote Assist on HoloLens 2. 
+- Learn how to use Remote Assist on [mobile devices](remote-assist-mobile-overview.md). 
