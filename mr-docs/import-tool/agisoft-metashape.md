@@ -55,9 +55,9 @@ For the most part, you can use the default preferences, but there are a few chan
 
 ## Import photos
 
-Now that our environment preferences are set up, we can begin adding the photos that will be used to construct our 3D model.
+In this part of the tutorial, you'll add the photos that will be used to construct the 3D model.
 
-To do this, navigate to **Workflow** > **Add Photos** and select the photos that you would like to import.
+- On the **Workflow** menu, select **Add Photos**, and then select the photos that you want to import.
 
     ![Workflow > Add Photos command](media/agisoft-5.PNG "Workflow > Add Photos command")
  
