@@ -95,7 +95,7 @@ Photogrammetry uses objects that are consistently present in multiple images to 
  
 ## Align the region
 
-After aligning the photos, you can use the bounding box to trim the size of your 3D object. This step isn't required, but it can speed up the next steps.
+After aligning the photos, you can use the bounding box to trim the size of your 3D object. This step isn't required, but it speeds up the next steps.
 
 1.	Select the **Resize Region** tool.
 
@@ -105,19 +105,22 @@ After aligning the photos, you can use the bounding box to trim the size of your
 
     ![Selected area to convert](media/agisoft-13.PNG "Selected area to convert")
 
-## Build dense point cloud
+## Build a dense point cloud
 
-With our photos and point-clouds set up, you can build the dense point cloud.
+Now it's time to build the dense point cloud.
 
-1.	Navigate to **Workflow** > **Build Dense Cloud** to access the settings menu.
+1.	On the **Workflow** menu, select **Build Dense Cloud**.
 
     ![Workflow > Build Dense Cloud command](media/agisoft-14.PNG "Workflow > Build Dense Cloud command")
  
-2.	Begin with the following settings.  If you have a powerful computer, or a lot of downtime, then you can use the **High** quality setting, but for many operations a quality setting of **Medium** will produce quality results.  Once you have your preferences set, click **OK**.
+2.	Use the following settings.  
 
     ![Build Dense Cloud settings](media/agisoft-15.PNG "Build Dense Cloud settings")
+    
+    >[!NOTE]
+    >If you have a powerful computer, you can use the **High** quality setting, but for many operations the **Medium** setting produces quality results.  
 
-## Build mesh
+## Build the mesh
 
 Now that our dense cloud has been built, lets create our mesh.
 
