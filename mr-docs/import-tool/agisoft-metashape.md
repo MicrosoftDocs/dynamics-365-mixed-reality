@@ -41,19 +41,19 @@ While the majority of Metashape’s preferences can be left at their default val
 
 1. First navigate to the preferences panel by selecting **Tools > Preferences**.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
   
 2. Click through the **General**, **GPU**, and **Advanced** tabs at the top to confirm that the following options are selected.  
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 3. On the **General** tab, check the “Write log to file” option under the “miscellaneous “ tab and choose a location and file name you would like to use for your log.  Click **Apply** and navigate to the **GPU** tab.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 4. On the **GPU** tab, check any GPUs that you have available for processing.  If you only have one GPU available, check “Use CPU when performing GPU accelerated processing”, otherwise leave it unchecked.  Click **Apply** and navigate to the **Advanced** tab.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 Start with these settings from the “advanced” tab.  If the camera you are using to take the photos has extensive meta data about the location, orientation, etc. then you may wish to experiment with the options in the Import / Export section.  Click **OK** to apply and close the preferences pane.
 
@@ -63,7 +63,7 @@ Now that our environment preferences are set up, we can begin adding the photos 
 
 To do this, navigate to **Workflow** > **Add Photos** and select the photos that you would like to import.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 ## Mask photos
 
@@ -71,15 +71,15 @@ When determining what aspects of your photographs you would like to turn into a 
 
 1.	To add a mask, double-click an image to open it and choose a selection tool such as the “intelligent scissors” and outline the subject you wish to turn into a 3D model.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 2.	Once you have your model outlined, press the **Add Selection** button to create the mask.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 Repeat this step from multiple angles to get a higher quality output.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
 
 ## Align photos
 
@@ -87,15 +87,15 @@ Photogrammetry uses objects that are consistently present in multiple images to 
 
 1.	Navigate to **Workflow** > **Align Photos** to open the Align photos menu.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 2.	Once the menu is open you can set your preferences.  Start with the default settings shown below, but feel free to change them to your desired settings.  Once you have your desired settings, click **OK**.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 3.	When you navigate back to the **Model** tab and examine the outcome of your photo alignment it should look like similar to this.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 ## Align the region
 
@@ -103,11 +103,11 @@ Now that the photos are all aligned, use the bounding box to trim the size of ou
 
 1.	Select the **Resize Region** tool from the toolbar.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 2.	Click and drag the spheres at the edge of the region to select only the area that you wish to convert into a 3D model.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 While this step is not required, it can help speed up the next few steps.
 
@@ -117,11 +117,11 @@ With our photos and point-clouds set up, you can build the dense point cloud.
 
 1.	Navigate to **Workflow** > **Build Dense Cloud** to access the settings menu.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 2.	Begin with the following settings.  If you have a powerful computer, or a lot of downtime, then you can use the **High** quality setting, but for many operations a quality setting of **Medium** will produce quality results.  Once you have your preferences set, click **OK**.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
 
 ## Build mesh
 
@@ -129,11 +129,11 @@ Now that our dense cloud has been built, lets create our mesh.
 
 1.	Navigate to **Workflow** > **Build Mesh** to access the build mesh settings menu.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 2.	Start with the following options selected.  Depending on platform you are aiming to use this 3D model on, you may want to change the face count to match the platform requirements.  Some guidelines to those platforms can be found [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 Click **OK** to build your mesh.
 
@@ -145,11 +145,11 @@ Adding a texture map to your 3D model can significantly increase the fidelity wh
 
 1.	Navigate to **Workflow** > **Build Texture** to open the settings menu.
 
-SCREEN SHOT GOES HERE 
+![xxx](media/agisoft-1 "xxx")
 
 2.	You can leave these options at their default values, however you may want to consider reducing the texture size depending on what platform you are aiming to use this model on.  Click **OK** to generate the texture.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
 
 ## Export 3D model
 
@@ -157,19 +157,19 @@ Now that we have created a 3D model that meets are performance and fidelity need
 
 1.	Navigate to **File** > **Export** > **Export Model** and choose a name and location for the 3D model.
 
-SCREEN SHOT GOES HERE 
+![xxx](media/agisoft-1 "xxx")
 
 2.	Select .glb as the export file type and click **Save**.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 3.	This will open the **Export Model** settings menu.  You can leave the majority of these options as default, but we suggest using .png for the texture.
 
-SCREEN SHOT GOES HERE 
+![xxx](media/agisoft-1 "xxx")
  
 Congratulations, you have now created a high-fidelity 3D model from your photos using photogrammetry.
 
-SCREEN SHOT GOES HERE
+![xxx](media/agisoft-1 "xxx")
  
 ## View your 3D models in Microsoft Dynamics 365 Mixed Reality Applications
 
