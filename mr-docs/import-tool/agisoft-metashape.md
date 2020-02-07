@@ -79,9 +79,9 @@ You can use "mask out" irrelevant elements of your source photos that can be con
 
 ## Align photos
 
-Photogrammetry uses objects that are consistently present in multiple images to create a map of where it thinks the camera was when the photo was taken.  This process is done in the **Align photos** step.
+Photogrammetry uses objects that are consistently present in multiple images to create a map of where it thinks the camera was when the photo was taken. You use the **Align photos** command for this part of the process.
 
-1.	Navigate to **Workflow** > **Align Photos** to open the Align photos menu.
+1.	On the **Workflow** menu, select **Align Photos**.
 
     ![Workflow > Align Photos command](media/agisoft-9.PNG "Workflow > Align Photos command")
  
