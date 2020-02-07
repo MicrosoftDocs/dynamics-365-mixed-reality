@@ -85,7 +85,7 @@ Photogrammetry uses objects that are consistently present in multiple images to 
 
     ![Workflow > Align Photos command](media/agisoft-9.PNG "Workflow > Align Photos command")
  
-2.	Once the menu is open you can set your preferences.  Start with the default settings shown below, but feel free to change them to your desired settings.  Once you have your desired settings, click **OK**.
+2.	In the **Align Photos** dialog box, ou can use the default settings shown below, or change them as appropriate for your situation.  Select **OK** when you're done.
 
     ![Align Photos settings](media/agisoft-10.PNG "Align Photos settings")
  
