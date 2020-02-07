@@ -145,11 +145,11 @@ Adding a texture map to your 3D model can significantly increase the fidelity wh
 
 1.	Navigate to **Workflow** > **Build Texture** to open the settings menu.
 
-![xxx](media/agisoft-18 "xxx")
+![Workflow > Build Texture command](media/agisoft-18 "Workflow > Build Texture command")
 
 2.	You can leave these options at their default values, however you may want to consider reducing the texture size depending on what platform you are aiming to use this model on.  Click **OK** to generate the texture.
 
-![xxx](media/agisoft-19 "xxx")
+![Build Texture settings](media/agisoft-19 "Build Texture settings")
 
 ## Export 3D model
 
@@ -157,19 +157,19 @@ Now that we have created a 3D model that meets are performance and fidelity need
 
 1.	Navigate to **File** > **Export** > **Export Model** and choose a name and location for the 3D model.
 
-![xxx](media/agisoft-20 "xxx")
+![File > Export > Export Model command](media/agisoft-20 "File > Export > Export Model command")
 
 2.	Select .glb as the export file type and click **Save**.
 
-![xxx](media/agisoft-21 "xxx")
+![Save As dialog box](media/agisoft-21 "Save As dialog box")
  
 3.	This will open the **Export Model** settings menu.  You can leave the majority of these options as default, but we suggest using .png for the texture.
 
-![xxx](media/agisoft-22 "xxx")
+![Export Model settings](media/agisoft-22 "Export Model settings")
  
 Congratulations, you have now created a high-fidelity 3D model from your photos using photogrammetry.
 
-![xxx](media/agisoft-23 "xxx")
+![Finished model](media/agisoft-23 "Finished model")
  
 ## View your 3D models in Microsoft Dynamics 365 Mixed Reality Applications
 
