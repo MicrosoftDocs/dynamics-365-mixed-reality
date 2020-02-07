@@ -133,7 +133,7 @@ Now it's time to build the mesh.
     ![Build Mesh settings](media/agisoft-17.PNG "Build Mesh settings")
     
     >[!NOTE]
-    >You may want to change the face count to match the [performance requirements for the platform you're targeting](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+    >You may want to change the **Face count** setting to match the [performance requirements for your targeted platform](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
     
     Metascape converts your point cloud into 3D model.
  
