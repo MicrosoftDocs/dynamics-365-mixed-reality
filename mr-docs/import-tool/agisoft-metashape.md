@@ -39,19 +39,17 @@ For the most part, you can use the default preferences, but there are a few chan
 
 1. On the **Tools** menu, select **Preferences**.
 
-    ![Tools > Preferences command](media/agisoft-1.PNG "Tools > Preferences command")
-  
-2. Click through the **General**, **GPU**, and **Advanced** tabs at the top to confirm that the following options are selected.  
+    ![Tools > Preferences command](media/agisoft-1.PNG "Tools > Preferences command") 
 
-3. On the **General** tab, check the “Write log to file” option under the “miscellaneous “ tab and choose a location and file name you would like to use for your log.  Click **Apply** and navigate to the **GPU** tab.
+2. On the **General** tab, under **Miscellaneous**, select the **Write log to file** option, and then and choose filename and location  to use for your log. Select **Apply** when done.
 
     ![General tab settings](media/agisoft-2.PNG "General tab settings")
  
-4. On the **GPU** tab, check any GPUs that you have available for processing.  If you only have one GPU available, check “Use CPU when performing GPU accelerated processing”, otherwise leave it unchecked.  Click **Apply** and navigate to the **Advanced** tab.
+3. On the **GPU** tab, check any GPUs that you have available for processing.  If you only have one GPU available, check “Use CPU when performing GPU accelerated processing”, otherwise leave it unchecked.  Click **Apply** and navigate to the **Advanced** tab.
 
     ![GPU tab settings](media/agisoft-3.PNG "GPU tab settings")
  
-Start with these settings from the “advanced” tab.  If the camera you are using to take the photos has extensive meta data about the location, orientation, etc. then you may wish to experiment with the options in the Import / Export section.  Click **OK** to apply and close the preferences pane.
+4. Start with these settings from the “advanced” tab.  If the camera you are using to take the photos has extensive meta data about the location, orientation, etc. then you may wish to experiment with the options in the Import / Export section.  Click **OK** to apply and close the preferences pane.
 
     ![Advanced tab settings](media/agisoft-4.PNG "Advanced tab settings")
 
