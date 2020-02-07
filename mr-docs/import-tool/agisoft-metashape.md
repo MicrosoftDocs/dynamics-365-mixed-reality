@@ -73,7 +73,7 @@ You can use "mask out" irrelevant elements of your source photos that can be con
 
     ![Add selection button](media/agisoft-7.PNG "Add selection button")
  
-3. Repeat this step from multiple angles for best results.
+3. Repeat this step in muliple pictures from multiple angles for best results.
 
     ![Refined model](media/agisoft-8.PNG "Refined model")
 
