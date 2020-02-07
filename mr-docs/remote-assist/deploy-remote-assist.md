@@ -20,7 +20,8 @@ In this topic, we’ll walk through the ways you can deploy D365 Remote Assist o
 -	Device set up instructions for users in your organization (for individuals in an organization) 
 
 ## Prerequisites for IT Admins 
-- Your organization must have a Microsoft 365 or Office 365 administrator account. Learn more about admin permissions here. 
+- Your organization must have a Microsoft 365 or Office 365 [administrator account](https://www.microsoft.com/en-us/microsoft-365/business/office-365-administration). Learn more about admin permissions [here](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+- Your organization must have either a 30-day Remote Assist trial license, 30-day Remote Assist Attach trial license, or Remote Assist paid license. Obtain a 30-day Remote Assist trial license [here](try-remote-assist.md) or a Remote Assist paid license [here](buy-remote-assist.md). 
 - Make sure that users in your organization have the required licensing and device before setting up your device. Licensing and Product requirements can be found here.
 
 ## Assign licenses to users in your organization (for IT Admins only)
@@ -29,24 +30,26 @@ After you have bought trial or paid D365 Remote Assist or D365 Remote Assist Att
 
 1.	Log into the M365 or O365 Administrator Portal using your organization’s admin account: https://www.microsoft.com/en-us/microsoft-365/business/office-365-administration
  
-2.	Make sure the “Try the new admin center” toggle is turned off.
+2.	Make sure the **Try the new admin center** toggle is turned off.
   
 3.	In the left navigation bar, select **Billing > Subscriptions**. 
  
 4.	Select **Assign to users**. 
  
-5.	You can **add individual users** to your free trial or paid subscription to Dynamics 365 Remote Assist. Select **Add a user**. You can find more information about adding users here.
+5.	You can **add individual users** to your free trial or paid subscription to Dynamics 365 Remote Assist. Select **Add a user**. You can find more information about adding users [here](https://docs.microsoft.com/en-us/office365/admin/add-users/add-users?view=o365-worldwide).
  
 6.	Fill out the users of your organization you would like to add and be sure to provide them with Dynamics 365 Remote Assist and Microsoft Teams licenses under the **Product licenses** section. If you were using a Dynamics 365 Remote Assist Attach license, you would do the same actions. 
  
 7.	You can also **add multiple users** to your free trial or paid subscription to Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach. Select **More > Import multiple users**. Fill out the CSV file, set user options, and view your results. 
  
-8.	After you have added your users to your free trial or paid subscription to Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach, you can now **assign licenses** to them through the Microsoft 365 or Office 365 administrator portal through instructions here. Note: You can assign licenses Dynamics 365 Remote Assist to up to 20 users on the Licenses page or you can assign licenses to multiple users on the Active users page. 
+8.	After you have added your multiple users to your free trial or paid subscription to Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach, you can now **assign licenses** to them through the Microsoft 365 or Office 365 administrator portal through instructions [here](https://docs.microsoft.com/en-us/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide). Note: You can assign licenses Dynamics 365 Remote Assist to up to 20 users on the Licenses page or you can assign licenses to multiple users on the Active users page. 
+
+9. The users in your organization can now set up Dynamics 365 Remote Assist on their device. Instructions below. 
 
 ## Prerequisites for setting up your device (for individuals in an organization)
-1. The IT Admin of your organization must add you as a user and assign you D365 Remote Assist or D365 Remote Assist Attach license **and** Microsoft Teams license in the Microsoft 365 or Office 365 administrator portal, instructions are above. 
-2. A Microsoft Teams account. Sign up, sign in, and add your Contacts. More information can be found here. 
-3. A HoloLens 1, HoloLens 2, or mobile device. Licensing and Product requirements can be found here.
+- The IT Admin of your organization must add you as a user and assign you D365 Remote Assist or D365 Remote Assist Attach license **and** Microsoft Teams license in the Microsoft 365 or Office 365 administrator portal, instructions are above. 
+- A [Microsoft Teams account](https://teams.microsoft.com/start). Sign up, sign in, and add your Contacts. More information can be found [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist). 
+- A HoloLens 1, HoloLens 2, or mobile device. Licensing and Product requirements can be found here.
 
 ## Deploying Dynamics 365 Remote Assist on your device (for individuals in an organization)
 
@@ -67,3 +70,8 @@ After your IT Admin of your organization assigned you Dynamics 365 Remote Assist
 4.	If you are trying a free trial, it will prompt you to start your Free Trial of Dynamics 365 Remote Assist. Select Continue. Afterwards, you will be taken to your Contacts page.  
 5.	If you already bought your D365 Remote Assist or D365 Remote Assist Attach and Microsoft Teams licenses, you will be taken to your Contacts page.  
 6.	Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile) here. 
+
+## Next steps
+Learn how to use Remote Assist on HoloLens 1. 
+Learn how to use Remote Assist on HoloLens 2. 
+Learn how to use Remote Assist on mobile devices. 
