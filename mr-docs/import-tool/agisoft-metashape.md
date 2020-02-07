@@ -21,7 +21,7 @@ The following tips will help you take quality photos for photogrammetry:
 
 - Try to keep your own shadow out of the picture.
 
-- Avoid moving objects in the background while taking photos.
+- Make sure there are no moving objects in the background when you take the photos.
 
 - If the camera you're using has a High Dynamic Range (HDR) setting, turn this feature off and try not to adjust the exposure of your photographs while capturing images.
 
