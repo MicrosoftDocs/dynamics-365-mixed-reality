@@ -57,9 +57,5 @@ If you’re a Dynamics 365 Field Service customer, you can buy Remote Assist Att
 Learn more about how to try Remote Assist for free here. 
 Learn more about how to deploy your Remote Assist licenses to the workers of your organization here. 
 
-
-
-### See also
-[Try Dynamics 365 Remote Assist for free for up to 90 days](try-remote-assist-free.md)<br/>
-[Overview of Dynamics 365 Remote Assist](../remote-assist/index.md)<br/>
-[Dynamics 365 Remote Assist user guide](../remote-assist/user-guide.md)<br/>
+## Next step
+- Deploy Dynamics 365 Remote Assist licenses to individuals in your organization [here](deploy-remote-assist.md).
