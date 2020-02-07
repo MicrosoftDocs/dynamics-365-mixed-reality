@@ -122,21 +122,30 @@ Now it's time to build the dense point cloud.
 
 ## Build the mesh
 
-Now that our dense cloud has been built, lets create our mesh.
+Now it's time to build the mesh.
 
-1.	Navigate to **Workflow** > **Build Mesh** to access the build mesh settings menu.
+1.	On the **Workflow** menu, select **Build Mesh**.
 
     ![Workflow > Build Mesh command](media/agisoft-16.PNG "Workflow > Build Mesh command")
  
-2.	Start with the following options selected.  Depending on platform you are aiming to use this 3D model on, you may want to change the face count to match the platform requirements.  Some guidelines to those platforms can be found [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+2.	In the **Build Mesh** dialog box, use the following options. Select **OK** when you're done. 
 
     ![Build Mesh settings](media/agisoft-17.PNG "Build Mesh settings")
+    
+    >[!NOTE]
+    >You may want to change the face count to match the [performance requirements for the platform you're targeting](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+    
+    Metascape converts your point cloud into 3D model.
  
-Click **OK** to build your mesh.
+3. Do one of the following:
 
-Your point cloud has now been converted to a 3D model.  Examine the results, if you are satisfied with the outcome you can skip from here to export.  If you desire a higher level of detail on the surfaces, then follow the “Build Texture” workflow in the next step.  If you are unhappy with the quality of the shape of the object, you may want to return to the mask photos stage and add more masks to the areas that are missing details.
+    - If you're satisfied with the results, skip to the **Export your 3D model** procedure. 
+    
+    - If you want a higher level of surface detail, go to the **Build the texture** procedure.  
+    
+    - If you don't like the shape of the object, you might want to add more masks to the areas that are missing details.
 
-## Build texture
+## Build the texture
 
 Adding a texture map to your 3D model can significantly increase the fidelity while maintaining performance.  This step is optional and if you would like you can skip this step and go directly to exporting the 3D model.  If you would like to add a texture, follow the steps below.
 
