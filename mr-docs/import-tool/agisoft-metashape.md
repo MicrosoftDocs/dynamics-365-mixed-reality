@@ -175,13 +175,13 @@ The final step is to convert the model to a GLB file format so you can use it in
 
     ![Save As dialog box](media/agisoft-21.PNG "Save As dialog box")
  
-3. In the **Export Model** dialog box, under **Export Parameters**, select **PNG** for the **Export texture** option (recommended) and leave the other default values.
+3. In the **Export Model** dialog box, for the **Export texture** option, select **PNG** (recommended) and leave the other default values.
 
     ![Export Model settings](media/agisoft-22.PNG "Export Model settings")
     
 4. Select **OK**.
  
-    The model is done and ready to use in Dynamics 365 mixed-reality applications
+    The model is done and ready to use in Dynamics 365 mixed-reality applications.
     
     ![Finished model](media/agisoft-23.PNG "Finished model")
  
