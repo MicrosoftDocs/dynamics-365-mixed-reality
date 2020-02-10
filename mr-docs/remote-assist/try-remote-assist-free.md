@@ -9,9 +9,9 @@ title: Try Dynamics 365 Remote Assist for free for up to 90 days.
 ms.reviewer: krbjoran
 ---
 
-# Dynamics 365 Remote Assist Free Trials for HoloLens and Mobile 
+# Free Trials for Dynamics 365 Remote Assist on HoloLens and Mobile 
 
-You can now try Microsoft Dynamics 365 Remote Assist for free on your HoloLens 1, HoloLens 2 or mobile devices, including tablets. There are three free trials that you can try: The license-free 90-day trial is for **individuals** that want to quickly use the app. The 30-day trial is for **organizations** that want to provide licenses for up to 25 users. The 30-day Dynamics 365 Remote Assist Attach license is only for **Dynamics 365 Field Service customers** to integrate with our app. Starting your free trial is nearly effortless! 
+You can now try Microsoft Dynamics 365 Remote Assist for free on your HoloLens 1, HoloLens 2 or mobile devices, including tablets. There are three free trials that you can try: The license-free 90-day trial is for **individuals** that want to quickly use the app. The 30-day trial is for **organizations** that want to provide licenses for up to 25 users. The 30-day Dynamics 365 Remote Assist Attach license is only for **Dynamics 365 Field Service customers** to integrate with our app and provide licenses for up to 25 users. Starting your free trial is nearly effortless! 
 
 In this topic, we’ll walk through the three ways you can get a Remote Assist trial: 
 - License-free 90-day trial for individuals
@@ -19,10 +19,9 @@ In this topic, we’ll walk through the three ways you can get a Remote Assist t
 - 30-day Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers only; for up to 25 seats in an organization)
 
 ## Prerequisites for a license-free 90-day trial for individuals
-   - Have an [MSA account](https://account.microsoft.com/account?lang=en-us)
-   - You will need a [Microsoft Teams Freemium](https://products.office.com/en-us/microsoft-teams/free)
-   - You will need a HoloLens 1, HoloLens 2, or a mobile device. 
-       - Make sure that you have the required licensing and device before starting your trial. Licensing and Product requirements can be found [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements).
+   - An [MSA account](https://account.microsoft.com/account?lang=en-us)
+   - A [Microsoft Teams Freemium](https://products.office.com/en-us/microsoft-teams/free) account
+   - A HoloLens 1, HoloLens 2, or a mobile device. Licensing and Product requirements can be found [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements).
 
 ## Option 1: License-free 90-day trial for individuals
 
