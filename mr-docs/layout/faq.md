@@ -13,6 +13,10 @@ ms.reviewer: v-brycho
 
 Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
+## Is Dynamics 365 Layout being retired?
+
+Yes, Microsoft will support the app until December 31, 2021. You won't be able to purchase new subscriptions or additional seats after April 1, 2020.
+
 ## How can I tell which version I'm using?
 
 To see the version number for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], go to **Settings** > **About**.
@@ -46,10 +50,6 @@ or to [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed 
 Yes, if you’re the admin, you’ll need an [!include[pn-azure](../includes/pn-azure.md)] AD account to distribute the
 apps, and users of [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] will need an [!include[pn-azure](../includes/pn-azure.md)] AD account to
 sign in to the apps.
-
-## How often is Dynamics 365 Layout updated?
-
-[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
 ## Can I use the HoloLens clicker with Dynamics 365 Layout?
 
