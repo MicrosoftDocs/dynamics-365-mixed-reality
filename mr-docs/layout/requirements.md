@@ -2,7 +2,7 @@
 author: StaceyLaw
 description: Device options and technical requirements for Dynamics 365 Layout
 ms.author: slaw
-ms.date: 10/01/2019
+ms.date: 02/12/2020
 ms.service: crm-online
 ms.topic: article
 title: Device options and technical requirements for Dynamics 365 Layout
@@ -41,8 +41,7 @@ Technical requirements
 | [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] | The [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] runs on [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PCs, and is required to transfer existing 3D models from your PC to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], so they can be viewed and edited from the [!include[pn-hololens](../includes/pn-hololens.md)] or immersive headsets. The [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] is also required to transfer [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-visio](../includes/pn-visio.md)] space dimensions to the [!include[pn-hololens](../includes/pn-hololens.md)] or immersive headsets. | [Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool)    |
 
 ### See also
-[Try Dynamics 365 Layout for free](try-layout-free.md)<br/>
-[Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br>
+[Deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br>
 [User guide](user-guide.md)<br/>
 [How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>
