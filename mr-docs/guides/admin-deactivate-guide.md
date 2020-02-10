@@ -26,7 +26,7 @@ You can also deactivate a guide or permanently delete it if you're sure you no l
     ![Activate, Deactivate, and Delete commands](media/activate-deactivate-delete.PNG "Activate, Deactivate, and Delete commands")
 
     >[!TIP]
-    >If there are lots of guides, you can use the search box or the filters at the bottom of the screen to find the right guide.
+    >If there are lots of guides, you can use the search box in the upper-right corner of the screen, or the letter filters at the bottom of the screen to find the right guide.
     
 ## See also
 
