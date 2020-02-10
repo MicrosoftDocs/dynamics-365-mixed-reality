@@ -29,7 +29,7 @@ Buy D365 Remote Assist licenses through your Microsoft 365 or Office 365 adminis
 ![Admin Portal](./media/buy_1.png "Admin Portal")
 
 2.	Make sure the **Try the new admin center** toggle is turned off.
-![Admin center toggle](./media/buy_1.png "Admin center toggle")
+![Admin center toggle](./media/buy_2.png "Admin center toggle")
 
 3.	In the left navigation bar, select **Billing > Purchase Services**. 
 ###
