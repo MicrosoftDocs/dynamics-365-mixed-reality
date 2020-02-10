@@ -37,16 +37,21 @@ After you have acquired a 30-day D365 Remote Assist trial or paid D365 Remote As
 
 3.	In the left navigation bar, select **Billing > Subscriptions**. 
 ###
-![Billing](./media/buy_1.png "Billing")
+![Billing subscriptions](./media/deploy_3.png "Billing subscriptions")
 
 4.	Select **Assign to users**. 
- 
+![Assign users](./media/deploy_4.png "Assign users")
+
 5.	You can **add individual users** to your free trial or paid subscription to Dynamics 365 Remote Assist. Select **Add a user**. You can find more information about adding users [here](https://docs.microsoft.com/en-us/office365/admin/add-users/add-users?view=o365-worldwide).
- 
+###
+![Add individuals](./media/deploy_5.png "Add individuals")
+
 6.	Fill out the users of your organization you would like to add and be sure to provide them with Dynamics 365 Remote Assist and Microsoft Teams licenses under the **Product licenses** section. If you were using a Dynamics 365 Remote Assist Attach license, you would do the same actions. 
- 
+![Product licenses](./media/deploy_6.png "Product licenses")
+
 7.	You can also **add multiple users** to your free trial or paid subscription to Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach. Select **More > Import multiple users**. Fill out the CSV file, set user options, and view your results. 
- 
+![Add multiple users](./media/deploy_7.png "Add multiple users")
+
 8.	After you have added your multiple users to your free trial or paid subscription to Dynamics 365 Remote Assist or Dynamics 365 Remote Assist Attach, you can now **assign licenses** to them through the Microsoft 365 or Office 365 administrator portal through instructions [here](https://docs.microsoft.com/en-us/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide). Note: You can assign licenses Dynamics 365 Remote Assist to up to 20 users on the Licenses page or you can assign licenses to multiple users on the Active users page. 
 
 9. The users in your organization can now set up Dynamics 365 Remote Assist on their device. Instructions below. 
@@ -73,7 +78,7 @@ After your IT Admin of your organization assigned you Dynamics 365 Remote Assist
 2.	Search for and download Dynamics 365 Remote Assist and launch the app.
 3.	Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
 4.	If you are trying a free trial, it will prompt you to start your Free Trial of Dynamics 365 Remote Assist. Select Continue. Afterwards, you will be taken to your Contacts page.  
-5.	If you already bought your D365 Remote Assist or D365 Remote Assist Attach and Microsoft Teams licenses, you will be taken to your Contacts page.  
+5.	If you already bought your D365 Remote Assist or D365 Remote Assist Attach licenses that includes Microsoft Teams licenses, you will be taken to your Contacts page.  
 6.	Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile) here. 
 
 ## Next steps
