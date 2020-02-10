@@ -10,7 +10,7 @@ You can also deactivate a guide or permanently delete it if you're sure you no l
     >[!TIP] 
     >To find the url for the instance, in the PC app, select the **Analyze** tab, copy the URL in the **Instance URL** field at the bottom of the screen, and then paste the url into your web browser.<br>![Instance URL](media/instance-url.PNG "Instance URL")
 
-2. In the PowerApps screen, select the Guides app tile. 
+2. In the PowerApps screen, select the **Guides** app tile. 
 
      ![Guides app tile](media/guides-app-tile.PNG "Guides app tile")
      
