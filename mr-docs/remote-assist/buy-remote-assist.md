@@ -16,7 +16,10 @@ IT Admins can buy Dynamics 365 Remote Assist licenses for HoloLens 1, HoloLens 2
 In this topic, we’ll walk through the two D365 Remote Assist licenses that IT Admins can buy for their organization: 
 - Dynamics 365 Remote Assist license 
 - Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers only) 
-
+###
+  > [!NOTE]
+    > Dynamics 365 Remote Assist licenses includes Microsoft Teams licenses. 
+    
 ## Prerequisites 
 
 - Your organization must have a Microsoft 365 or Office 365 [administrator account](https://www.microsoft.com/en-us/microsoft-365/business/office-365-administration). Learn more about admin permission [here](https://docs.microsoft.com/en-us/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
@@ -29,6 +32,7 @@ Buy D365 Remote Assist licenses through your Microsoft 365 or Office 365 adminis
 ![Admin Portal](./media/buy_1.png "Admin Portal")
 
 2.	Make sure the **Try the new admin center** toggle is turned off.
+###
 ![Admin center toggle](./media/buy_2.png "Admin center toggle")
 
 3.	In the left navigation bar, select **Billing > Purchase Services**. 
