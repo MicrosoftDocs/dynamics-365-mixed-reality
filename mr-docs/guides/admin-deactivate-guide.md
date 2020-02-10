@@ -14,7 +14,7 @@ You can also deactivate a guide or permanently delete it if you're sure you no l
 
      ![Guides app tile](media/guides-app-tile.PNG "Guides app tile")
      
-3. On the **Active Guides** list, select **Inactive Guides** to view all currently inactive guides.
+3. In the **Active Guides** list, select **Inactive Guides** to view all currently inactive guides.
 
     ![Active Guides list](media/active-guides-list.PNG "Active Guides list")
  
