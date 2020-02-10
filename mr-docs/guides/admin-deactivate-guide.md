@@ -8,7 +8,7 @@ You can also deactivate a guide or permanently delete it if you're sure you no l
 1. Sign in to the instance with your admin credentials.
 
     >[!TIP] 
-    >To find the url for the instance, in the PC app, select the **Analyze** tab, and then copy and paste the url into your web browser.<br>![Instance URL](media/instance-url.PNG "Instance URL")
+    >To find the url for the instance, in the PC app, select the **Analyze** tab, copy the URL in the **Instance URL** field at the bottom of the screen, and then paste the url into your web browser.<br>![Instance URL](media/instance-url.PNG "Instance URL")
 
 2. In the PowerApps portal, select the Guides app tile. 
 
