@@ -21,20 +21,11 @@ Need more help? [Check out the Dynamics 365 Layout FAQ](faq.md) for answers to c
 
 ## What you’ll need
 
--   [A subscription to Dynamics 365 Layout.](../licensing/buy-and-deploy.md) The [!include[pn-layout](../includes/pn-layout.md)] subscription also includes the
-    [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC.
-    
-    > [!TIP]
-    > You can try [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] for free for up to 90 days. [Learn more about the free 90-day Dynamics 365 Layout trial](try-layout-free.md).
+-   [A subscription to Dynamics 365 Layout.](../licensing/buy-and-deploy.md) The [!include[pn-layout](../includes/pn-layout.md)] subscription also includes the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for PC. 
+   
+-   A [HoloLens](https://www.microsoft.com/hololens) device running the [Windows 10 April 2018 Update](https://support.microsoft.com/help/12643) and/or a [Windows Mixed Reality immersive headset](https://www.microsoft.com/windows/windows-mixed-reality). 
 
--   A [HoloLens](https://www.microsoft.com/hololens) device running the [Windows 10 April 2018 Update](https://support.microsoft.com/help/12643) and/or
-    a [Windows Mixed Reality immersive
-    headset](https://www.microsoft.com/windows/windows-mixed-reality). 
-
--   A [Windows Mixed Reality–ready
-    PC](https://www.microsoft.com/windows/windows-mixed-reality-devices#wmrpcs)
-    running the [Windows 10 April 2018
-    Update](https://support.microsoft.com/help/4028685).
+-   A [Windows Mixed Reality–ready PC](https://www.microsoft.com/windows/windows-mixed-reality-devices#wmrpcs) running the [Windows 10 April 2018 Update](https://support.microsoft.com/help/4028685).
 
 -   An internet connection.
 
@@ -234,4 +225,3 @@ Switch hologram fading back on at any time by switching the setting back to **On
 ### See also
 [How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>
-[Try Dynamics 365 Layout for free for up to 90 days](try-layout-free.md)
