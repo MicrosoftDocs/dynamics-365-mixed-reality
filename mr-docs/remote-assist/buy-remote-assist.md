@@ -9,7 +9,7 @@ title: Buy and deploy Dynamics 365 Remote Assist
 ms.reviewer: krbjoran
 ---
 
-# Buy Dynamics 365 Remote Assist Licenses for HoloLens and Mobile
+# Buy Dynamics 365 Remote Assist Licenses on HoloLens and Mobile
 
 IT Admins can buy Dynamics 365 Remote Assist licenses for HoloLens 1, HoloLens 2, and mobile devices to each worker in your organization to complete crucial tasks faster, safer, and more efficiently.
 
@@ -26,14 +26,18 @@ In this topic, we’ll walk through the two D365 Remote Assist licenses that IT 
 Buy D365 Remote Assist licenses through your Microsoft 365 or Office 365 administrator portal. 
 
 1.	Log into the M365 or O365 Administrator Portal using your organization’s admin account: https://www.microsoft.com/en-us/microsoft-365/business/office-365-administration 
-![Admin Portal](./media/buy_1.pn "Admin Portal")
+![Admin Portal](./media/buy_1.png "Admin Portal")
 
 2.	Make sure the **Try the new admin center** toggle is turned off.
   
 3.	In the left navigation bar, select **Billing > Purchase Services**. 
- 
+###
+![Billing Tab](./media/buy_3.png "Billing Tab")
+
 4.	A list of services will populate the screen. Search for or scroll down until you find **Dynamics 365 Remote Assist**.
+
 5.	Hover over the plan and two options will appear: Start free trial or Buy now. Select **Buy now**. Follow the next steps of the payment process. 
+![Buy now](./media/buy_5.png "Buy now")
  
 ## Option 2: Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers only)
 
