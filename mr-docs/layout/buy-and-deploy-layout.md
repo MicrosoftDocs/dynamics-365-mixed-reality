@@ -18,7 +18,7 @@ With [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] you can bri
 
 ## Assign licenses to users
 
-If you already have a subsription to Layout and want to assign additional users, each user you assign a license to will need an [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account.
+If you already have a subscription to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and want to assign additional users, each user you assign a license to will need an [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account.
 
 ### Assign a license to a user in the Microsoft 365 Admin Center
 
