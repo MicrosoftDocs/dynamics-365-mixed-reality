@@ -40,7 +40,7 @@ If you already have a subscription to [!include[pn-dyn-365-layout](../includes/p
 
 ## Make the Dynamics 365 Layout app available to your users
 
-After you’ve subscribed and assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] available through one of the following:
+After you’ve assigned licenses to your users through the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or Partner Center, you can make [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] available through one of the following:
 
 -   [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers
 
