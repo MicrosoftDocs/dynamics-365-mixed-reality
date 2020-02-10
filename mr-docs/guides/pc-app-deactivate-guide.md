@@ -15,7 +15,7 @@ If a guide is out of date or no longer needed, you can deactivate it.
 
 ## See also
 
-[Deactivate a guide (admins)](admin-guide-deactivate.md)
+[Deactivate a guide (admins)](admin-deactivate-guide.md)
 
 
 
