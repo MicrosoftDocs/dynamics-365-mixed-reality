@@ -6,7 +6,7 @@ If a guide is out of date or no longer needed, you can deactivate it.
 
 1. On the **Home** screen, right-click the guide you want to deactivate.
 
-    SCREEN SHOT GOES HERE
+    ![Deactivate command](media/author-deactivate-guide.PNG "Deactivate command")
 
 2. Select **Deactivate**.
 
