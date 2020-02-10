@@ -2,7 +2,7 @@
 
 # Deactivate a guide
 
-If a guide is out of date or no longer needed, you can deactivate it. 
+If a guide is out of date or you want to keep operators from accessing it, you can deactivate it. 
 
 1. On the **Home** screen, right-click the guide you want to deactivate.
 
@@ -11,7 +11,7 @@ If a guide is out of date or no longer needed, you can deactivate it.
 2. Select **Deactivate**.
 
 >[!IMPORTANT]
->When a guide is deactivated, it may still appear on your list of recent guides but you won't be able to open it. To reactivate a guide, or to delete it permanently, contact your administrator (or any user with admin access to the Guides Hub). [If you're an administrator, learn how to deactivate a guide](admin-deactivate-guide.md).
+>When a guide is deactivated, it may still appear on the list of recent guides but you (and your operators) won't be able to open it. To reactivate a guide, or to delete it permanently, contact your administrator (or any user with admin access to the Guides Hub). [If you're an administrator, learn how to deactivate a guide](admin-deactivate-guide.md).
 
 ## See also
 
