@@ -21,7 +21,7 @@ If [a guide has been deactivated](pc-app-deactivate-guide.md), you can reactivat
     >[!WARNING]
     >You can't recover a guide if you delete it permanently.
 
-    ![Add a user command](media/add-additional-user.png "Add a user command")
+    ![Activate, Deactivate, and Delete commands](media/activate-deactivate-delete.PNG "Activate, Deactivate, and Delete commands")
 
     >[!TIP]
     >If there are lots of guides, you can use the search box or the filters at the bottom of the screen to find the right guide.
