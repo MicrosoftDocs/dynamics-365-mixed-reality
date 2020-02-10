@@ -2,69 +2,23 @@
 author: StaceyLaw
 description: Learn how to buy Dynamics 365 Layout, add users to the subscription, and deploy the app to users in several different ways
 ms.author: slaw
-ms.date: 10/01/2019
+ms.date: 2/12/2020
 ms.service: crm-online
 ms.topic: article
 title: Buy and deploy Dynamics 365 Layout
 ms.reviewer: v-brycho
 ---
 
-# Buy and deploy Dynamics 365 Layout
+# Deploy Dynamics 365 Layout
 
 With [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
 
-## Subscribe to Dynamics 365 Layout
-
-> [!TIP]
-> Did you know you can try [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] for free for up to 90 days? [Learn more about the free 90-day trial](try-layout-free.md).
-
-You can subscribe to [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] in any of the following ways:
-
--   Contact a [!include[cc-microsoft](../includes/cc-microsoft.md)] representative by: 
-
-    - Calling us at 1-888-477-7989.
-    - Requesting to be contacted at https://aka.ms/getLayout.
-
-    
--   Through the [Microsoft 365 Admin Center](https://admin.microsoft.com/AdminPortal/Home#/catalog). Step-by-step instructions for signing in to the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] and subscribing are provided in the next section.
-
--   Through [Enterprise agreements (Volume Licensing Portal)](https://www.microsoft.com/licensing/servicecenter/default.aspx).
-
--   Through [Cloud Service Provider (Partner Center Portal)](https://partner.microsoft.com/cloud-solution-provider/csp-partner).
-
-When you subscribe to [!include[pn-layout](../includes/pn-layout.md)], you also get the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] as part of the [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] subscription.
-
-## Subscribe through the Microsoft 365 Admin Center
-
-1. Go to https://admin.microsoft.com/AdminPortal/Home#/catalog.
-
-   ![Admin center](../media/AdminCenter.png "Admin Center")
-
-2. Sign in under your company's admin account.
-
-3. If you don't know who your admin is, contact the IT help desk at your company to find out. [Get more advice on admin accounts](https://support.office.com/article/office-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870?ui=en-US&rs=en-US&ad=US).
-
-4. Under **Billing** in the left navigation, select **Purchase services**.
-   
-5. Scroll down to the **Other plans** section.
-
-   ![Other plans](../media/OtherPlans.PNG "Select Other plans")
-   
-6. Find the product card for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
-
-   ![Dynamics 365 Layout product card](../media/ProductCard.PNG "Layout product card")
-   
-7. To subscribe, select **Buy now**.
-
-   > [!NOTE]
-   > If you're not ready to buy yet, you can sign up for a free 30-day trial on your organization's tenant by selecting **Start free trial**.  
-   
-8. Assign licenses to users as described in the next procedure.
+>[!IMPORTANT]
+>[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] is being retired. [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] will be supported until December 31, 2021. You won't be able to purchase new subscriptions or additional seats after April 1, 2020.
 
 ## Assign licenses to users
 
-After subscribing (or signing up for a free 30-day trial), you’ll need to assign licenses to users in the [!include[pn-microsoft-365-admin-center](../includes/pn-microsoft-365-admin-center.md)] or [Partner Center](https://partner.microsoft.com/cloud-solution-provider/csp-partner). Each user you
-assign a license to will need an [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account.
+If you already have a subsription to Layout and want to assign additional users, each user you assign a license to will need an [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) account.
 
 ### Assign a license to a user in the Microsoft 365 Admin Center
 
@@ -103,7 +57,6 @@ in any of the following ways:
 
 ### Install Dynamics 365 Layout from Microsoft Store for Consumers
 
-
 For information on installing [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Consumers,
 see the [Dynamics 365 Layout user guide](../layout/user-guide.md). Users will need to install both [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [Dynamics 365 Import Tool (Preview)](../layout/user-guide.md).
 
@@ -124,7 +77,6 @@ see the [Dynamics 365 Layout user guide](../layout/user-guide.md). Users will ne
     -   [Mobile device management](https://docs.microsoft.com/microsoft-store/configure-mdm-provider-microsoft-store-for-business)
 
 ### See also
-[Try Dynamics 365 Layout for free for up to 90 days](try-layout-free.md)<br/>
 [Overview of Dynamics 365 Layout](../layout/index.md)<br/>
 [Dynamics 365 Layout user guide](../layout/user-guide.md)<br/>
 
