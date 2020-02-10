@@ -2,7 +2,7 @@
 author: StaceyLaw
 description: Dynamics 365 Layout user guide
 ms.author: slaw
-ms.date: 10/22/2019
+ms.date: 02/12/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout user guide
