@@ -41,34 +41,53 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
     > [!TIP]
     > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product measurements](product-dimensions.md). After enabling the feature, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
 
-## Move, rotate, or change the size of your model
+## Manipulate your model
 
-Chances are, you'll want to move, rotate, or change the size of your model in some way after you place it. You can use various gestures to do any of these actions after placing your model.
+Once you've placed your model on the appropriate surface, you're ready to manipulate it further if you need to display it to your customer.
 
-### Change the size of your model
+### Scale your model
 
-Spread or pinch with two fingers on the screen to change the size of the model.
+Scaling your model means to increase or decrease the model's size. To scale your model, spread or pinch using two fingers.
+
+> [!TIP]
+> - To quickly reach 100% scale, double-tap on the model. A second double-tap will return the model to whatever scale it began at and you can quickly switch between those two sizes using the double-tap gesture.
+> - When you are scaling the model, a notification will appear on the screen telling you what percent scale your model is. When you take your fingers off the screen, this notification will disappear. The 100% scale indicates life size or true size based on the product specifications.
+> - Be careful not to rotate your fingers as you scale to avoid accidentally rotating the model.
 
 > [!div class=mx-imgBorder]
 > ![Resize a model](media/resize.png "Resize a model")
 
 ### Rotate your model  
 
-Rotate with two fingers on the screen to rotate the model.
+To rotate your model around the vertical axis, use two fingers placed anywhere on the screen, holding one finger in place and twisting the other around it.
+
+> [!TIP]
+> - You do not need to be touching the model in order to perform rotation. You can touch anywhere on the screen to perform manipulations.
+> - It is not possible to rotate the model around the horizontal axis.
+> - Be careful to keep your fingers the same distance apart as you rotate them to avoid accidentally scaling the model up or down in size.
 
 > [!div class=mx-imgBorder]
 > ![Rotate a model](media/rotate.png "Rotate a model")
 
-### Move the model
+### Move your model
 
-To move the model sideways, drag with one finger on the screen.
+To move your model left or right, away or towards you, just drag it with one finger.
+
+> [!TIP]
+> - It may look like dragging the model farther away is lifting it off the selected surface, but this is just a trick of perspective.
+> - If you move your model very far away from you, it may suddenly appear tiny and difficult to manipulate. Simply drag the model back towards you using one finger until it appears to be back where you originally placed it.
+> - Be careful to avoid touching a second finger to the screen while you are trying to move or place your model. If the model is difficult to move or not behaving as expected, check that you are not touching any other part of the screen at the same time that you perform the manipulation. 
 
 > [!div class=mx-imgBorder]
 > ![Move a model](media/move.png "Move a model")
 
-### Move the model up or down
+### Lift your model up or down
 
-To move the model up or down, drag with two fingers up or down on the screen.
+To lift your model in a vertical direction up or down, use two fingers placed side-by-side on the screen and slowly drag the model in the direction you want.
+
+> [!TIP]
+> - If you want to place your model onto a new surface (i.e. one higher or lower than the original surface you scanned), you must go back to the **Products** page and reload the model to place it on a new surface. Lifting the model after it is placed will often not re-scan the new surface successfully.
+> - Just as with moving your model, it is possible to lift or lower the model so far away that it suddenly appears tiny and difficult to manipulate. Simply use two fingers to drag the model back up or down until it appears to be back where you originally placed it.
 
 > [!div class=mx-imgBorder]
 > ![Lift a model](media/lift.png "Lift a model")
