@@ -84,7 +84,7 @@ If the step already includes an action, adding a Power Apps action overwrites th
 
      ![Power Apps web link pasted](media/powerapps-paste-url.PNG "Power Apps web link pasted")
 
-4.	To view, edit, or delete the Power Apps link, right-click the **Power Apps** button in the Step card.
+4.	To view, edit, or delete the Power Apps link, right-click the **Power Apps** button in the **Step Editor**, and then select the appropriate command.
 
      ![Power Apps menu](media/powerapps-menu.PNG "Power Apps menu")
      
