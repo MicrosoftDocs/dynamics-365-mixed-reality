@@ -90,7 +90,7 @@ If the step already includes an action, adding a Power Apps action overwrites th
      
 ## See also
 
-[Open a website from the Step card (for operators)]()<br>
+[Open a website from the Step card (for operators)](operator-orientation#access-a-website-that-is-linked-from-the-step-card)<br>
 [Launch an app created in Power Apps from the Step card (for operators)]()
 
  
