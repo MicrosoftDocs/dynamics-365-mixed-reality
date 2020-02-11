@@ -17,7 +17,7 @@ With the text chat, technicians can send and receive chat messages on Remote Ass
 
 During a Remote Assist Mobile call, technicians can send chat messages to experts through the text chat. 
 
-1.	Select the text chat icon.
+1.	Select the **Text Chat** icon.
 ###
 ![Text icon](./media/chat_1.png "Text icon")
 ###
@@ -25,7 +25,7 @@ During a Remote Assist Mobile call, technicians can send chat messages to expert
 ###
 ![Send text](./media/chat_2.png "Send text")
 ###
-3. To exit out of the text chat, select the Exit icon.
+3. To exit out of the text chat, select the **Back** icon.
 ###
 ![Exit chat](./media/chat_3.png "Exit chat")
 ###
