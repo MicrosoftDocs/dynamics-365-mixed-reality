@@ -55,7 +55,7 @@ You can link to a published app created in Power Apps if you have edit permissio
  
 3.	In the left pane, select **File**, and then select **Share**.      
  
-4.	Select the **Share** button.
+4.	Under **Guides Power Apps example**, select the **Share** button.
 
      ![Share button](media/powerapps-share-button.PNG "Share button")
 
