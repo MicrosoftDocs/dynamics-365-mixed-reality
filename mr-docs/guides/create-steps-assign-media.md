@@ -155,7 +155,7 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
     ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
 
-## Add a website or PowerApps link to a step
+## Add a website or Power Apps link to a step
 
 You can add a website link to a step so that operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about Internet of Things (IoT) sensors. Website links let authors create a seamless workflow for operators.
 
