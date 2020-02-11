@@ -29,4 +29,8 @@ Remote Assist Mobile makes receiving expert help easy by providing technicians o
 2. Search for the expert’s name. 
 3. Select the expert’s name and launch a call with the expert. 
 4. The expert will receive the call on Microsoft Teams. 
-5. With the Action toolbar, Remote Assist Mobile users can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
+5. The expert will be taken to the technician's live video feed. 
+6. With the Call controls toolbar, Remote Assist Mobile users can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
+###
+[!Call Toolbar](./media/calltoolbar.png "Call Toolbar")
+###
