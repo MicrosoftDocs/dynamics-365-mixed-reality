@@ -23,6 +23,10 @@ Remote Assist Mobile makes receiving expert help easy by providing technicians o
 > -	Participating in Remote Assist Mobile to Remote Assist Mobile calls
 > -	If Remote Assist Mobile app is not opened, technician will not receive incoming call notification from Teams desktop or mobile
 
+## Prerequisites
+- Technicians must have a Dynamics 365 Remote Assist license. Learn more about the [free trial licenses](try-remote-assist.md) or [subscriptions](buy-remote-assist.md).
+- Experts must have a Microsoft Teams license. Learn more [here](use-microsoft-teams-with-remote-assist.md).
+
 ## Making calls customer scenario
 
 1. Launch and sign into Remote Assist Mobile on your iOS or Android device. 
