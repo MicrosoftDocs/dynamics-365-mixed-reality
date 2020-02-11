@@ -25,7 +25,7 @@ You can add a single website link to each step.
  
 2. Drag the **Website link** circle to the **Action** circle in the lower-right corner of the Step card.
 
-    ![Dragging the Website link symbol to the Action circle](media/action-circle.PNG "Dragging the Website link symbol to the Action circle")
+    ![Dragging the Website link symbol to the Action circle](media/website-link-drag-action.PNG "Dragging the Website link symbol to the Action circle")
 
 3. In the **Website link** dialog box, enter a valid URL that begins with **http://** or **https://**, and then select **Save**.
 
