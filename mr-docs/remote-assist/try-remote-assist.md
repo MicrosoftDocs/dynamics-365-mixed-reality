@@ -14,7 +14,7 @@ ms.reviewer: krbjoran
 You can now try Microsoft Dynamics 365 Remote Assist for free on your HoloLens 1, HoloLens 2 or mobile devices, including tablets. There are three free trials that you can try: The license-free 90-day trial is for **individuals** that want to quickly use the app. The 30-day Dynamics 365 Remote Assist trial is for **organizations** that want to provide licenses for up to 25 users. The 30-day Dynamics 365 Remote Assist Attach license is only for **Dynamics 365 Field Service customers** to integrate with our app and provide licenses for up to 25 users. Starting your free trial is nearly effortless! 
 
   > [!NOTE]
-    > The 30-day Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach licenses includes Microsoft Teams licenses. Learn how to set up Microsoft Teams for your organization [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist). 
+  > The 30-day Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach licenses includes Microsoft Teams licenses. Learn how to set up Microsoft Teams for your organization [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist). 
 
 In this topic, we’ll walk through the three ways you can get a Remote Assist trial: 
 - License-free 90-day trial for individuals
@@ -78,7 +78,7 @@ Dynamics 365 Remote Assist is integrated with Dynamics 365 Field Service to help
   
 3.	In the left navigation bar, select **Billing > Purchase Services**. 
  
-4.	A list of services will populate the screen. Search for or scroll down until you find **Dynamics 365 Remote Assist Attach**.
+4.	A list of services will populate the screen. Scroll down until you find **Dynamics 365 Remote Assist Attach**.
 
 5.	Hover over the plan and two options will appear: Start free trial or Buy now. Select **Start free trial**. Follow the next steps of the payment process. 
 
