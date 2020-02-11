@@ -80,7 +80,7 @@ If the step already includes an action, adding a Power Apps action overwrites th
 
      ![Drag Power Apps](media/powerapps-drag-action.PNG "Drag Power Apps")
      
-3.	In the **Power Apps** dialog box, paste the Power Apps link, and then select **Save**.
+3.	In the **Power Apps** dialog box that appears, paste the Power Apps link, and then select **Save**.
 
      ![Power Apps web link pasted](media/powerapps-paste-url.PNG "Power Apps web link pasted")
 
