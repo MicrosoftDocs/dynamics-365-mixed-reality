@@ -51,21 +51,21 @@ You can link to a published app created in Power Apps if you have edit permissio
 
 2.	Select **More Commands (…)** next to the appropriate app, and then select **Edit**.
 
-     SCREEN SHOT GOES HERE
+     ![Edit button](media/powerapps-home.PNG "Edit button")
  
-3.	In the left pane, select **File**, and then select **Share**. 
-
-     SCREEN SHOT GOES HERE
+3.	In the left pane, select **File**, and then select **Share**.      
  
 4.	Select the **Share** button.
 
-     SCREEN SHOT GOES HERE 
+     ![Share button](media/powerapps-share-button.PNG "Share button")
 
 5.	When the new window opens, select **Cancel** on the bottom right.
 
-     SCREEN SHOT GOES HERE 
+     ![Canel button](media/powerapps-cancel-button.PNG "Cancel button")
 
 6.	Copy the URL displayed under **Web link**. 
+
+     ![Power Apps web link](media/powerapps-url.PNG "Power Apps web link")
 
 ### Add a Power Apps link to a step 
 
@@ -74,19 +74,19 @@ If the step already includes an action, adding a Power Apps action overwrites th
 
 1.	Open the PC Authoring app, go to the appropriate step, and then select the **Action** tab.
 
-     SCREEN SHOT GOES HERE
+     ![Action tab](media/powerapps-action-tab.PNG "Action tab")
 
 2.	Drag the **Power Apps** graphic to the **Action** circle in the lower-right corner of the Step card.
 
-     SCREEN SHOT GOES HERE
-
+     ![Drag Power Apps](media/powerapps-drag-action.PNG "Drag Power Apps")
+     
 3.	In the **Power Apps** dialog box, paste the Power Apps link, and then select **Save**.
 
-     SCREEN SHOT GOES HERE
+     ![Power Apps web link pasted](media/powerapps-paste-url.PNG "Power Apps web link pasted")
 
 4.	To view, edit, or delete the Power Apps link, right-click the **Power Apps** button in the Step card.
 
-     SCREEN SHOT GOES HERE
+     ![Power Apps menu](media/powerapps-menu.PNG "Power Apps menu")
      
 ## See also
 
