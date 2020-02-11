@@ -31,7 +31,7 @@ You can add a single website link to each step.
 
     ![Website link dialog box](media/website-dialog.PNG "Website link dialog box")
 
-4. To view, edit, or delete the link, right-click the **Website link** button in the **Step Editor**.
+4. To view, edit, or delete the link, right-click the **Website link** button in the **Step Editor**, and then select the appropriate command.
 
     ![Website link button](media/powerapps-menu.PNG "Website link button")
 
