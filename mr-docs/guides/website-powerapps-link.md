@@ -4,7 +4,7 @@
 
 You can use the **Actions** tab in the PC app in Microsoft Dynamics 365 Guides to add a website link or a Power Apps link to a Step card.
 
-- Website link. Blah blah
+- **Website link.** You can add a website link to a step so that operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about Internet of Things (IoT) sensors. Website links let authors create a seamless workflow for operators.
 
 - **Power Apps link.** [Power Apps](https://products.office.com/en-us/business/microsoft-powerapps) enables teams to create custom 
 applications with low-code tools to solve unique business workflows. By combining Dynamics 365 Guides and Power Apps, you can extend 
@@ -17,7 +17,23 @@ Operators must also have [permission](https://docs.microsoft.com/en-us/powerapps
 
 ## Add a website link to a step
 
-ADD PROCEDURE HERE
+You can add a single website link to each step.
+
+1. On the right side of the page, select the **Action** tab.
+
+    ![Action tab](media/action-tab.PNG "Action tab")
+ 
+2. Drag the **Website link** symbol to the **Action** circle in the lower-right corner of the Step card.
+
+    ![Dragging the Website link symbol to the Action circle](media/action-circle.PNG "Dragging the Website link symbol to the Action circle")
+
+3. In the **Website link** dialog box, enter a valid URL that begins with **http://** or **https://**, and then select **Save**.
+
+    ![Website link dialog box](media/website-dialog.PNG "Website link dialog box")
+
+4. To view, edit, or delete the link, right-click the **Website link** button in the **Step Editor**.
+
+    ![Website link button](media/website-button.PNG "Website link button")
 
 
 ## Add a Power Apps link to a step
