@@ -59,9 +59,9 @@ You can link to a published app created in Power Apps if you have edit permissio
 
      ![Share button](media/powerapps-share-button.PNG "Share button")
 
-5.	When the new window opens, select **Cancel** in the lower-right corner of the screen.
+5.	In the **Share Guides Power Apps example** screen, select **Cancel** in the lower-right corner.
 
-     ![Canel button](media/powerapps-cancel-button.PNG "Cancel button")
+     ![Cancel button](media/powerapps-cancel-button.PNG "Cancel button")
 
 6.	In the **Web link** field, copy the URL. 
 
