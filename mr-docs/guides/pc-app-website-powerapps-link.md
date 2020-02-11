@@ -69,7 +69,7 @@ You can link to a published app created in Power Apps if you have edit permissio
 
 ### Add a Power Apps link to a step 
 
-When you add a Power Apps link to a step, you add an action to the step. You can add one action per step. 
+To add a Power Apps link to a step, you add an action. You can add one action per step. 
 If the step already includes an action, adding a Power Apps action overwrites the existing action.
 
 1.	Open the PC Authoring app, go to the appropriate step, and then select the **Action** tab.
