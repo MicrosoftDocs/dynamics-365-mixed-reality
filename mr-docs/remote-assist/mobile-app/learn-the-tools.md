@@ -15,17 +15,36 @@ Dynamics 365 Remote Assist Mobile includes a tutorial for technicians to jumpsta
 -	map their environment for better tracking of surfaces
 -	place and manipulate annotations, such as the arrow and the ink tool
 
+## Prerequesites 
+- Allow Remote Assist Mobile to access your Camera. 
+
 ## Learn the Tools customer scenario
-1. On the Sign In page, technicians can go through Remote Assist Mobile's tutorial. 
-2. Select Try It. Allow Remote Assist Mobile to access your Camera. 
-3. If instead you click Sign In, you can go to the Menu. 
-4. Select Try the Tools. Allow Remote Assist Mobile to access your Camera. 
-5. Once you are in the tutorial experience, you are prompted to move your phone to map your space.  
-6. Select the arrow tool. 
-7. Tap and drag to place an arrow. 
-8. Select the inking tool.
-9. Draw a line or circle. 
-10. Practice placing and using other annotations. You can use the Color, Undo, or Trash icons.  
+1. On the Sign In page, technicians can go through Remote Assist Mobile's tutorial. Select **Try It**.
+![Try It](./media/learntools_1.png "Try It")
+2. Another way to start the tutorial is selecting **Menu** > **Try the Tools**. 
+![Try Tools](./media/learntools_4.png "Try Tools")
+3. Once you are in the tutorial experience, you are prompted to move your phone to map your space.  
+![Map Space](./media/learntools_5.png "Map Space")
+4. Select the arrow tool.
+###
+![Select Arrow](./media/learntools_6.png "Select Arrow")
+###
+5. Tap and drag to place an arrow. 
+###
+![Place Arrow](./media/learntools_7.png "Place Arrow")
+###
+6. Select the inking tool.
+###
+![Select Ink](./media/learntools_8.png "Select Ink")
+###
+7. Draw a line or circle. 
+###
+![Draw](./media/learntools_9.png "Draw")
+###
+8. Practice placing and using other annotations. You can use the Color picker, Undo annotations, or Delete all annotations icons. 
+###
+![Other](./media/learntools_10.png "Other")
+###
 
 ## Tips 
 ###
