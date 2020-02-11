@@ -157,7 +157,7 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
 ## Add a website or Power Apps link to a step
 
-You can add a website link or a Power Apps link to a step:
+You can add a website link or a Power Apps link to a step.
 
 - Add a website link so that operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about Internet of Things (IoT) sensors. Website links let authors create a seamless workflow for operators.
 
