@@ -63,7 +63,7 @@ You can link to a published app created in Power Apps if you have edit permissio
 
      ![Canel button](media/powerapps-cancel-button.PNG "Cancel button")
 
-6.	Copy the URL displayed under **Web link**. 
+6.	In the **Web link** field, copy the URL. 
 
      ![Power Apps web link](media/powerapps-url.PNG "Power Apps web link")
 
