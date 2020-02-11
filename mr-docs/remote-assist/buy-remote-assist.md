@@ -9,7 +9,7 @@ title: Buy and deploy Dynamics 365 Remote Assist
 ms.reviewer: krbjoran
 ---
 
-# Buy Dynamics 365 Remote Assist Licenses
+# Buy Dynamics 365 Remote Assist
 
 IT Admins can buy Dynamics 365 Remote Assist licenses for **HoloLens 1**, **HoloLens 2**, and **mobile device** to each worker in your organization to complete crucial tasks faster, safer, and more efficiently.
 
