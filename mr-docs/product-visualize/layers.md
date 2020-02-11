@@ -25,7 +25,7 @@ You can create layers in a flattened or nested format by using CAD model design 
 
 ## Show or hide a layer
 
-1. After placing a model, select **Layers** on the right side of the screen. 
+1. After placing a model, tap **Layers** on the right side of the screen. 
 
    ![Select Layers](media/layers-tool.PNG "Select Layers")
 
@@ -37,7 +37,7 @@ You can create layers in a flattened or nested format by using CAD model design 
    
    |To expand or collapse a layer|To select all unselected layers|To show or hide all layers|
    |--------------------------------------------|----------------------------------------|-----------------------------------------|
-   |Select the arrow button.<br>![Expand or collapse a layer](media/expand-collapse.PNG "Expand or collapse a layer")|Select **Invert**.<br>![Invert selected layers](media/invert.png "Invert selected layers")|Select the uppermost check box.<br>![Show or hide all layers](media/show-hide-all.png "Show or hide all layers")|
+   |Tap the arrow button.<br>![Expand or collapse a layer](media/expand-collapse.PNG "Expand or collapse a layer")|Tap **Invert**.<br>![Invert selected layers](media/invert.png "Invert selected layers")|Select the uppermost check box.<br>![Show or hide all layers](media/show-hide-all.png "Show or hide all layers")|
 
 ### See also
 

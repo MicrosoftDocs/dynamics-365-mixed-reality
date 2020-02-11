@@ -73,7 +73,7 @@ Point the device down so that it is parallel to the desired surface. Hold it the
  
 ## What should I do if I lose tracking during a presentation? 
 
-Initially, you should try pointing the device down so it is parallel to the surface and then slowly tilting it up. If that does not restore tracking, select the hamburger menu (three bars) icon at the top-left of the screen and then select **Opportunities**. Select the opportunity that contains the product and then select the product containing the model you were viewing. You will then need to go through the placement process again with the initial model in the product. After placing the initial model, select **Models** on the right of the screen to open the model menu. From the model menu, find the desired model, and then select it to place it on the selected surface. 
+Initially, you should try pointing the device down so it is parallel to the surface and then slowly tilting it up. If that does not restore tracking, tap the hamburger menu (three bars) icon at the top-left of the screen and then tap **Opportunities**. Tap the opportunity that contains the product and then tap the product containing the model you were viewing. You will then need to go through the placement process again with the initial model in the product. After placing the initial model, tap **Models** on the right of the screen to open the model menu. From the model menu, find the desired model, and then tap it to place it on the selected surface. 
  
 ## What surfaces and locations are best to track on? 
 
@@ -90,26 +90,26 @@ Yes. By double-tapping on the model it will expand to its 100% scale. Double-tap
 ## How do I switch between objects during a presentation? 
 
 If the desired model is in the current product:
-1. Select **Models** to open the model browser. 
-2. Scroll left or right to find the desired model (you can also use search if there are a large number of models in the browser). Select the model to load it. 
+1. Tap **Models** to open the model browser. 
+2. Scroll left or right to find the desired model (you can also use search if there are a large number of models in the browser). Tap the model to load it. 
  
 If the desired model is in another product or opportunity: 
-1. Select the hamburger menu (three bars) icon at the top-left of the screen and then select **Opportunities**.
-2. Select the required opportunity. 
-3. Select product with the desired model.  
+1. Tap the hamburger menu (three bars) icon at the top-left of the screen and then tap **Opportunities**.
+2. Tap the required opportunity. 
+3. Tap product with the desired model.  
 4. Go through the placement process and place the initial model. 
-5. Select **Models** to open the model browser.
-6. Scroll left or right to find the desired model (you can also use search if there are a large number of models in the browser). Select the model to load it. 
+5. Tap **Models** to open the model browser.
+6. Scroll left or right to find the desired model (you can also use search if there are a large number of models in the browser). Tap the model to load it. 
  
 ## How do I export the text and image in my note for email? 
 
-Navigate to the note you want to export. Select the overflow menu (three dots) on the note. Select **Export Note** on the pop-up menu, and then select **Email**. Select the app that your email uses.  
+Navigate to the note you want to export. Tap the overflow menu (three dots) on the note. Tap **Export Note** on the pop-up menu, and then tap **Email**. Tap the app that your email uses.  
  
 ## How do I download and retain the model locally? 
 
-First, you must enable the offline mode. Select the Hamburger menu (three bars) at the top-left of the screen. Select **Preview features**. Move the toggle for **Offline mode feature** to the On position. 
+First, you must enable the offline mode. Tap the Hamburger menu (three bars) at the top-left of the screen. Tap **Preview features**. Move the toggle for **Offline mode feature** to the On position. 
 
-Navigate to your opportunities and select the one having the product you want to save. Observe the cloud icon with the down pointing arrow on the lower left-corner of each product. Select the cloud icon in the product that has the desired model. This will start a download process changing the icon to a square and loading circle. After every model in the product has been downloaded, a blue circle with a check mark will appear. Those models are now available on the device. 
+Navigate to your opportunities and tap the one having the product you want to save. Observe the cloud icon with the down pointing arrow on the lower left-corner of each product. Tap the cloud icon in the product that has the desired model. This will start a download process changing the icon to a square and loading circle. After every model in the product has been downloaded, a blue circle with a check mark will appear. Those models are now available on the device. 
  
 If you lose network connectivity and want to view the downloaded files, restart the app, and then navigate to the opportunity and product as before. The models that were downloaded should appear and be accessible from the product.  
  
@@ -121,7 +121,7 @@ Notes are currently saved to the Opportunity they were made in. If someone with 
 
 Currently you can only make new notes or delete notes.
 
-In the **Notes** menu, select **Add Note** to make a new one. To delete a note, select the overflow menu (three dots) on the upper-right corner of the note. Select **Delete Note** and confirm.    
+In the **Notes** menu, tap **Add Note** to make a new one. To delete a note, tap the overflow menu (three dots) on the upper-right corner of the note. Tap **Delete Note** and confirm.    
 
 ## If I delete a note, how can I recover it? 
 

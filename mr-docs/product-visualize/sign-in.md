@@ -40,11 +40,11 @@ You can open and sign in to Dynamics 365 Product Visualize on your iOS device in
 
 1.	On your iOS device, search for **Dynamics 365 Product Visualize**, and then open the app.
 
-2.	On the **Welcome** screen, select **Sign in**.
+2.	On the **Welcome** screen, tap **Sign in**.
 
     ![Welcome screen](media/welcome.PNG "Welcome screen")
  
-3.	On the **Sign in** screen, enter your Dynamics 365 Sales account. When you're done, select **Next**.  
+3.	On the **Sign in** screen, enter your Dynamics 365 Sales account. When you're done, tap **Next**.  
  
     > [!NOTE]
     > After you sign in for the first time, this screen won't appear again.
@@ -56,7 +56,7 @@ You can open and sign in to Dynamics 365 Product Visualize on your iOS device in
     > [!TIP]
     > If your organization isn't set up with Dynamics 365 Sales, you can explore sample models or go to the [Dynamics 365 Sales website](https://trials.dynamics.com/Dynamics365/Signup/sales) to learn how to sign up.  
 
-5.	On the **My Open Opportunities** screen, select the opportunity you want to work on.  
+5.	On the **My Open Opportunities** screen, tap the opportunity you want to work on.  
 
     ![My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
  
@@ -80,16 +80,16 @@ If you haven’t already installed Dynamics 365 Product Visualize on your iOS de
 
     - If the iOS app is already installed, select **Open Opportunity** to open the app.
     
-    - If you're using an iOS device but the app isn't already installed, select **Learn More**, follow the instructions to install the app, and then sign in to the app by using the instructions in step 5 of this procedure.
+    - If you're using an iOS device but the app isn't already installed, tap **Learn More**, follow the instructions to install the app, and then sign in to the app by using the instructions in step 5 of this procedure.
 
     > [!NOTE]
     > If you're using a laptop or an Android device, you can't use Dynamics 365 Product Visualize at this time. You can select **Learn More** to learn more about the app.
  
-5.	On the Dynamics 365 Product Visualize **Welcome** screen, select **Sign in**.
+5.	On the Dynamics 365 Product Visualize **Welcome** screen, tap **Sign in**.
 
     ![Welcome screen](media/welcome.PNG "Welcome screen")
  
-6.	On the **Sign in** screen, enter your Dynamics 365 account. When you're done, select **Next**.
+6.	On the **Sign in** screen, enter your Dynamics 365 account. When you're done, tap **Next**.
  
     > [!NOTE]
     > After you sign in for the first time, this screen won't appear again.
@@ -106,18 +106,18 @@ If you haven’t already installed Dynamics 365 Product Visualize on your iOS de
 
 If you have access to more than one Dynamics 365 organization, you can use this procedure to switch between organizations.
 
-1.	Select the main menu icon ![Main menu button](media/hamburger-icon.png "Main menu button").
+1.	Tap the main menu icon ![Main menu button](media/hamburger-icon.png "Main menu button").
 
-2.	Select the **Settings** button.
+2.	Tap the **Settings** button.
 
     ![Account settings menu item](media/edit-account-settings.png "Account settings menu item")
   
-3.	On the **Account Settings** screen, select **Edit** next to the organization you're signed in to.
+3.	On the **Account Settings** screen, tap **Edit** next to the organization you're signed in to.
 
     ![Edit account settings](media/account-settings.PNG "Edit account settings")
  
     > [!NOTE]
-    > If you need to switch to a different username, select **Sign out** on the previous screen, and then sign back in with a different username.
+    > If you need to switch to a different username, tap **Sign out** on the previous screen, and then sign back in with a different username.
     
 ### See also
 

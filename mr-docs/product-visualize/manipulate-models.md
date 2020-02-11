@@ -24,7 +24,7 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
 1.	Open the opportunity you want to focus on.
 
-2.	Select a product within that opportunity.
+2.	Tap a product within that opportunity.
 
     ![Products screen showing multiple products](media/products-screen.PNG "Products screen showing multiple products")
     
@@ -33,13 +33,13 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
     > [!div class=mx-imgBorder]
     > ![Find a surface](media/preface-find-surface.png "Find a surface")
 
-4.  To place the model, select **Place** on the right side of the screen. The model is placed at the surface.
+4.  To place the model, tap **Place** on the right side of the screen. The model is placed at the surface.
 
     > [!div class=mx-imgBorder]
     > ![Place model item](media/preface-model-placed.png "Place model item")
     
     > [!TIP]
-    > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product measurements](product-dimensions.md). After enabling the feature, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
+    > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product measurements](product-dimensions.md). After enabling the feature, tap **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
 
 ## Manipulate your model
 
@@ -96,11 +96,11 @@ To lift your model in a vertical direction up or down, use two fingers placed si
 
 After placing a model you can easily switch to view a different model.
 
-1.	Select **Models** on the right side of the screen.
+1.	Tap **Models** on the right side of the screen.
 
     ![Switch models](media/select-models.PNG "Switch models")
  
-2.	Select the model you want to view.
+2.	Tap the model you want to view.
 
     ![Models screen](media/3D-models.png "Models screen")
  

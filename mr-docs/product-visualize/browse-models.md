@@ -13,16 +13,16 @@ ms.reviewer: v-brycho
 
 You don't have to have a Dynamics 365 account to view 3D models in Dynamics 365 Product Visualize. If you have a 3D model stored on your device in GLB file format, you can browse to it in Dynamics 365 Product Visualize to see what the model would look like.
 
-1. Go to the **My Open Opportunities** page, and then select **View Models**.
+1. Go to the **My Open Opportunities** page, and then tap **View Models**.
 
    ![My Open Opportunities screen](media/open-opportunities.PNG "My Open Opportunities screen")
    
-2. Select **Continue**.
+2. Tap **Continue**.
    
    Dynamics 365 Product Visualize browses through your device and displays any GLB files.
    
     > [!TIP]
-    > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product measurements](product-dimensions.md). After enabling the feature, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
+    > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product measurements](product-dimensions.md). After enabling the feature, tap **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
 
 
 ### See also

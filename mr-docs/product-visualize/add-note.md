@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-You can capture notes on specific points on a 3D model in Microsoft Dynamics 365 Product Visualize, and even add text or draw on the notes. For example, when you're in the field with a customer, you can capture any required product changes directly on the model. Any notes you create are saved in Common Data Service.
+You can capture notes while giving product demonstration, and add text or draw on the notes. You can also attach notes on specific points on a 3D model. For example, when you're in the field with a customer, you can capture any required product changes directly on the model. Any notes you create are saved in Common Data Service.
 
 To review notes attached to a model, tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. For a model and note that's off the screen, a "note bubble" points in the direction of the model and note. See the table below for information about how these notes appear.
 
@@ -27,42 +27,50 @@ The following table shows how notes appear on the model, depending on where the 
 
 ## Add a note
 
-1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then select **Notes** on the right side of the screen.
+1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then tap **Notes** on the right side of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2. Select **Add Note**.
+2. Tap **Add Note**.
 
     > [!div class=mx-imgBorder]
-    > ![Select Add Note](media/add-note.png "Select Add Note")
+    > ![Tap Add Note](media/add-note.png "Tap Add Note")
+
+3. To add a message, tap **Type a message here**, add the text, and then tap **Next**.
+
+4. To add a photo, tap **Attach image**.
  
-3.	Select **Photo** to take a picture of the model, or select **Camera Roll** if you want to use a photo already stored on your device.
+    a. Tap **Photo** to take a picture of the model, or tap **Camera Roll** if you want to use a photo already stored on your device.
 
-    > [!div class=mx-imgBorder]
-    > ![Select Photo](media/camera-roll.png "Select Capture")
+       > [!div class=mx-imgBorder]
+       > ![Tap Photo](media/camera-roll.png "Tap Capture")
 
-4.	Do one or both of the following: 
-    
-      a. Optional: To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
-    
-      b. Required: To add text, tap **Add caption** in the notes box at the bottom of the screen, and then enter the text you want. When you're finished adding text, select **Next**.
-    
+    b. To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
+    c. Tap **Next**.
+
        > [!div class=mx-imgBorder]
        > ![Draw or add text](media/draw-add-text.png "Draw or add text")
          
      > [!NOTE]
-     > If you're not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, text you entered is retained, but any drawings are lost.
+     > If you're not happy with the picture, tap **Remove** to remove the capture and then capture the photo again.
          
-5. Tap the model where you want to place the note, and then select **Finish**.
+5. To attach the note at a specific point in your model, tap **Pin to model**.
+
+    a. Tap the model where you want to place the note, and then tap **Next**.
  
       > [!div class=mx-imgBorder]
       > ![Tap on the model](media/tap-on-product.png "Tap on the model")
+
+      > [!NOTE]
+      > If you want to remove the pin from the model, tap **Remove pin**.
+
+6. Tap **Finish**.
       
 
 ## View the notes attached to a model
 
-1.	After placing the model, select **Notes** on the right side of the screen.
+1.	After placing the model, tap **Notes** on the right side of the screen.
 
 2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
 
@@ -73,59 +81,59 @@ The following table shows how notes appear on the model, depending on where the 
      
 ## Delete a note
 
-1.	Select **Notes** on the right side of the screen.
+1.	Tap **Notes** on the right side of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2.	Navigate to the note you want to export, and select the **Overflow** menu in the upper-right corner of the notes card.
+2.	Navigate to the note you want to export, and tap the **Overflow** menu in the upper-right corner of the notes card.
 
     > [!div class=mx-imgBorder]
     > ![Navigate to the note](media/note-1.png "Navigate to the note")
 
-3.	In the **Options** dialog box, select **Delete Note**.
+3.	In the **Options** dialog box, tap **Delete Note**.
 
      ![Delete a note](media/delete-note.png "Delete a note")
 
-4. Select **Delete** in the confirmation dialog box.
+4. Tap **Delete** in the confirmation dialog box.
   
-## Change how your notes are shared with other apps
-
-By default, your notes are saved to the SharePoint account associated with your Dynamics 365 Sales account. By default, Dynamics 365 Product Visualize also sends your notes to your Dynamics 365 Sales timeline and any connected Microsoft Teams channel.
-
-To turn off sharing with the Dynamics 365 Sales timeline or Teams channels:
-
-1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.  
-
-2. Under **Note Output Options**, move the sliders to the off position for the options you want to turn off.
-
-   ![Note Output Options](media/note-output-options.PNG "Note Output Options")
- 
 ## Export a note
 
 You can export your notes to share them with other apps on your device that support the iOS sharing function. The notes image and text are exported without any special formatting.
 
 To export a note:
 
-1.	Select **Notes** on the right side of the screen.
+1.	Tap **Notes** on the right side of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2.	Navigate to the note you want to export, and select the **Overflow** menu in the upper-right corner of the notes card.
+2.	Navigate to the note you want to export, and tap the **Overflow** menu in the upper-right corner of the notes card.
 
     > [!div class=mx-imgBorder]
     > ![Navigate to the note](media/note.png "Navigate to the note")
 
-3.	In the **Options** dialog box, select **Export Note**.
+3.	In the **Options** dialog box, tap **Export Note**.
 
     > [!div class=mx-imgBorder]
     > ![Export note](media/export-note.png "Export note")
 
-4. Select the required option for exporting the note.
+4. Tap the required option for exporting the note.
 
     > [!div class=mx-imgBorder]
     > ![Export options](media/export-options.png "Export options")
+
+## Change how your notes are shared with other apps
+
+By default, your notes are saved to the SharePoint account associated with your Dynamics 365 Sales account. By default, Dynamics 365 Product Visualize also sends your notes to your Dynamics 365 Sales timeline and any connected Microsoft Teams channel.
+
+To turn off sharing with the Dynamics 365 Sales timeline or Teams channels:
+
+1. Tap the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.  
+
+2. Under **Note Output Options**, move the sliders to the off position for the options you want to turn off.
+
+   ![Note Output Options](media/note-output-options.PNG "Note Output Options")
 
 ### See also
 

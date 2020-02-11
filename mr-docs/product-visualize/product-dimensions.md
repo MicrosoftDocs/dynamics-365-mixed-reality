@@ -19,7 +19,7 @@ Product Visualize has a tool to display your model measurements in Imperial or M
 
 To enable product dimensions:
 
-1. Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then select **Preview features**.
+1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Preview features**.
 
    ![Preview features](media/preview-features.PNG "Preview features")
 
@@ -30,7 +30,7 @@ To enable product dimensions:
 
 ## Set measurement units
 
-1. Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then select the **Settings** button.
+1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then tap the **Settings** button.
 
    ![Settings button](media/edit-account-settings.png "Settings button")
 
@@ -39,14 +39,14 @@ To enable product dimensions:
      > [!div class=mx-imgBorder]
      > ![Measurement Units section](media/measurement-units-section.png "Measurement Units")
 
-3. Select either **Metric** or **Imperial**.
+3. Tap either **Metric** or **Imperial**.
 
     > [!div class=mx-imgBorder]
     > ![Select measurement unit](media/select-measurement-unit.png "Select measurement unit")
 
 ## Display model dimensions
 
-1. Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then select **Dimensions** on the right side of the screen.
+1. Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then tap **Dimensions** on the right side of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Dimensions button](media/dimensions-button.png "Dimensions button")
