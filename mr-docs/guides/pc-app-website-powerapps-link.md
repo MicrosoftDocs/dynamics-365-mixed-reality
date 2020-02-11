@@ -21,7 +21,7 @@ You can add a single website link to each step.
 
 1. On the right side of the page, select the **Action** tab.
 
-    ![Action tab](media/action-tab.PNG "Action tab")
+    ![Action tab](media/powerapps-action-tab.PNG "Action tab")
  
 2. Drag the **Website link** circle to the **Action** circle in the lower-right corner of the Step card.
 
