@@ -25,7 +25,8 @@ Dynamics 365 Remote Assist Mobile is now available on Android with ARCore enable
 -	Integration with Dynamics 365 Field Service
 
 ###
-[Remote Assist Mobile Overview](./media/ram-overview.png "Remote Assist Mobile Overview")
+![Remote Assist Mobile Overview](./media/ram-overview.png "Remote Assist Mobile Overview")
+###
 [Watch a video on Dynamics 365 Remote Assist Mobile](https://www.youtube.com/watch?v=J-C6GE2gFYw&t=27s)
 
 ### See also
