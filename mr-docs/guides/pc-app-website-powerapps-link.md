@@ -23,7 +23,7 @@ You can add a single website link to each step.
 
     ![Action tab](media/action-tab.PNG "Action tab")
  
-2. Drag the **Website link** symbol to the **Action** circle in the lower-right corner of the Step card.
+2. Drag the **Website link** circle to the **Action** circle in the lower-right corner of the Step card.
 
     ![Dragging the Website link symbol to the Action circle](media/action-circle.PNG "Dragging the Website link symbol to the Action circle")
 
@@ -76,7 +76,7 @@ If the step already includes an action, adding a Power Apps action overwrites th
 
      ![Action tab](media/powerapps-action-tab.PNG "Action tab")
 
-2.	Drag the **Power Apps** graphic to the **Action** circle in the lower-right corner of the Step card.
+2.	Drag the **Power Apps** circle to the **Action** circle in the lower-right corner of the Step card.
 
      ![Drag Power Apps](media/powerapps-drag-action.PNG "Drag Power Apps")
      
