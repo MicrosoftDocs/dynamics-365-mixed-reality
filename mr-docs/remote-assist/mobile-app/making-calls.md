@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 # Making Calls 
 
 ###
-Remote Assist Mobile makes receiving expert help easy by providing technicians on  with the ability to launch video calls with experts on Teams desktop or mobile. Technicians can make calls to an expert inside of their company or outside of their company; learn how to add and assign Microsoft Teams licenses to experts inside or outside of your company [here]().
+Remote Assist Mobile makes receiving expert help easy by providing technicians on  with the ability to launch video calls with experts on Teams desktop or mobile. Technicians can make calls to an expert inside of their company or outside of their company; learn how to add and assign Microsoft Teams licenses to experts inside or outside of your company [here](use-microsoft-teams-with-remote-assist.md).
 
 **For a successful calling experience, only a Remote Assist Mobile user (technician) can initiate an outgoing call to either 1 Teams desktop user (expert) or 1 Teams mobile user (expert).**
 
