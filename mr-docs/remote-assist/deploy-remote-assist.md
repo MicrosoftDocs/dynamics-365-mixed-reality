@@ -82,6 +82,6 @@ After your IT Admin of your organization assigned you the 30-day Dynamics 365 Re
 6.	You can now use Dynamics 365 Remote Assist on your mobile device! Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile) [here](index.md).
 
 ## Next steps
-- Learn how to use Remote Assist on [HoloLens 1](user-guide.md). 
-- Learn how to use Remote Assist on [HoloLens 2](user-guide.md). 
-- Learn how to use Remote Assist on [mobile devices](index.md). 
+- Learn how to use Dynamics 365 Remote Assist on [HoloLens 1](user-guide.md). 
+- Learn how to use Dynamics 365 Remote Assist on [HoloLens 2](user-guide.md). 
+- Learn how to use Dynamics 365 Remote Assist on [mobile devices](index.md). 
