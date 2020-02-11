@@ -16,7 +16,7 @@ Technicians can provide feedback or requests directly in the Remote Assist Mobil
 ## Provide feedback scenario
 1.	Select the **Main Menu** icon.
 ###
-![Main Menu](./media/main menu.png "Main Menu")
+![Main Menu](./media/mainmenu.png "Main Menu")
 ###
 2.	Select **Feedback**. You must have the Mail app downloaded set up on your phone to provide in-app feedback.
 ###
