@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Create steps and add 3D content or media to support those steps in the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Create steps and add 3D models or media in the Dynamics 365 Guides PC app
@@ -159,6 +159,8 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
 You can add a website link to a step so that operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about Internet of Things (IoT) sensors. Website links let authors create a seamless workflow for operators.
 
+For more information, see [Add a website link or Power Apps link to a step](website-powerapps-link.md).
+
 > [!NOTE]
 > Only one website link can be added to each step.
 
@@ -183,4 +185,5 @@ You can add a website link to a step so that operators can see and interact with
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Learn what makes a great mixed reality guide](great-guide.md)<br>
+[Add a website link or Power Apps link to a step](website-powerapps-link.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)
