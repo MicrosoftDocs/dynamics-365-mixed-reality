@@ -76,7 +76,7 @@ If the step already includes an action, adding a Power Apps action overwrites th
 
      ![Action tab](media/powerapps-action-tab.PNG "Action tab")
 
-2.	Drag the **Power Apps** circle to the **Action** circle in the lower-right corner of the Step card.
+2.	Drag the **Power Apps** circle to the **Action** circle in the lower-right corner of the **Step Editor**.
 
      ![Drag Power Apps](media/powerapps-drag-action.PNG "Drag Power Apps")
      
