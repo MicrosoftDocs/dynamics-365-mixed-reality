@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 ### 
 With the text chat, technicians can send and receive chat messages on Remote Assist Mobile from experts on Microsoft Teams. 
 
-## Sending chat messages scenario
+## Sending chat messages customer scenario
 
 During a Remote Assist Mobile call, technicians can send chat messages to experts through the text chat. 
 
