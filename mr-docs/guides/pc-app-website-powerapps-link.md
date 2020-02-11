@@ -23,7 +23,7 @@ You can add a single website link to each step.
 
     ![Action tab](media/powerapps-action-tab.PNG "Action tab")
  
-2. Drag the **Website link** circle to the **Action** circle in the lower-right corner of the Step card.
+2. Drag the **Website link** circle to the **Action** circle in the lower-right corner of the **Step Editor**.
 
     ![Dragging the Website link symbol to the Action circle](media/website-link-drag-action.PNG "Dragging the Website link symbol to the Action circle")
 
@@ -33,7 +33,7 @@ You can add a single website link to each step.
 
 4. To view, edit, or delete the link, right-click the **Website link** button in the **Step Editor**.
 
-    ![Website link button](media/website-button.PNG "Website link button")
+    ![Website link button](media/powerapps-menu.PNG "Website link button")
 
 ## Add a Power Apps link to a step
 
