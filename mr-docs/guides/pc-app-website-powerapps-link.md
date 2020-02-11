@@ -59,7 +59,7 @@ You can link to a published app created in Power Apps if you have edit permissio
 
      ![Share button](media/powerapps-share-button.PNG "Share button")
 
-5.	When the new window opens, select **Cancel** on the bottom right.
+5.	When the new window opens, select **Cancel** in the lower-right corner of the screen.
 
      ![Canel button](media/powerapps-cancel-button.PNG "Cancel button")
 
