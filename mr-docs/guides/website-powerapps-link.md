@@ -11,8 +11,8 @@ applications with low-code tools to solve unique business workflows. By combinin
 Guides capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a 
 link to an interactive quiz app, a parts re-ordering app, or an app that provides the latest status on IoT sensors.  
 
->[!NOTE]
->Operators need a [Power Apps license](https://powerapps.microsoft.com/en-us/pricing/) to run Power Apps from Dynamics 365 Guides. 
+   >[!NOTE]
+   >Operators need a [Power Apps license](https://powerapps.microsoft.com/en-us/pricing/) to run Power Apps from Dynamics 365 Guides. 
 Operators must also have [permission](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/share-app#share-an-app) to view the app created in Power Apps.
 
 ## Add a website link to a step
@@ -34,7 +34,6 @@ You can add a single website link to each step.
 4. To view, edit, or delete the link, right-click the **Website link** button in the **Step Editor**.
 
     ![Website link button](media/website-button.PNG "Website link button")
-
 
 ## Add a Power Apps link to a step
 
