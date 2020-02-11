@@ -167,6 +167,6 @@ For more information, see [Add a website link or Power Apps link to a step](pc-a
 
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
-[Learn what makes a great mixed reality guide](great-guide.md)<br>
 [Add a website link or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
+[Learn what makes a great mixed reality guide](great-guide.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)
