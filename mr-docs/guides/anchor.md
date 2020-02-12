@@ -60,7 +60,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 2. On the **Choose an anchor method** page, select the button for the QR code anchor.
 
-    ![Select button for QR Code Anchor](media/choose-anchor-method-qr-code.PNG "Select button for QR Code Anchor")
+    ![Select button for QR Code Anchor](media/qr-code-choose-method.PNG "Select button for QR Code Anchor")
 
 3. In step 1 of the wizard, select **Download QR Code** to create a PDF file named **Guides-QRCodeAnchor**. This file includes the anchor that you'll print in step 5.
 
