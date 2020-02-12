@@ -148,7 +148,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 2. On the **Choose an anchor method** page, select the button for the circular code anchor.
 
-    ![Select button for Circular Code Anchor](media/choose-anchor-method.PNG "Select button for Circular Code Anchor")
+    ![Select button for Circular Code Anchor](media/circular-code-choose-method.PNG "Select button for Circular Code Anchor")
 
 3. In step 1 of the wizard, select **Save to print** to create a PDF file that is named **Guides-CircularCodeAnchor**. This file includes the anchor that you will print in step 6.
 
