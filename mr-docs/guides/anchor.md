@@ -59,7 +59,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
     ![Select button for QR Code Anchor](media/choose-anchor-method-qr-code.PNG "Select button for QR Code Anchor")
 
-3. In step 1 of the wizard, select **Download QR Code** to create a PDF file that is named **Guides-QRCodeAnchor**. This file includes the anchor that you will print in step 6.
+3. In step 1 of the wizard, select **Download QR Code** to create a PDF file named **Guides-QRCodeAnchor**. This file includes the anchor that you will print in step 6.
 
     ![Download QR Code Anchor button](media/qr-code-download-button.PNG "Download QR Code Anchor button")
 
