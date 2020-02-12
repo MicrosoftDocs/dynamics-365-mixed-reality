@@ -17,7 +17,13 @@ With Dynamics 365 Field Service, technicians manage their assigned work orders, 
 
 ## Set up Dynamics 365 Field Service Integration (only for Dynamics 365 Field Service customers)
 -	Technicians can enable this feature when they first sign into Dynamics 365 Remote Assist Mobile and they will receive a pop-up notification to integrate with Dynamics 365 Field Service.
--	If they did not enable this feature at first sign in, they can go to Main Menu, Settings, and toggle on Dynamics 365 Integration.
+###
+![Enable Field Service](./media/enablefs.png "Enable Field Service")
+###
+-	If they did not enable this feature at first sign in, they can go to **Main Menu** > **Settings** > toggle on **Dynamics 365 Integration**.
+###
+![Settings](./media/fs_settings.png "Settings")
+###
 
 ## Dynamics 365 Field Service Integration customer scenario
 1.	At the end of a Dynamics 365 Remote Assist Mobile call, you are prompted to post your call information to your Field Service work order. Select **Post**.
