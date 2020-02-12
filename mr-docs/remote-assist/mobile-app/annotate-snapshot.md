@@ -36,4 +36,4 @@ Remote Assist Mobile provides technicians with the ability to capture 2D snapsho
 ![Gallery](./media/snapshot_7.png "Gallery")
 ###
 7. The technician is taken directly back to the live video call and can select the 2D snapshot icon to take more snapshots.
-10.	At the end of the call, the technicians can now go to their mobile device’s **Photo Gallery** and view the 2D snapshot. They can share it with others or include it to their Dynamics 365 Field Service work order. 
+10.	At the end of the call, the technicians can now go to their mobile device’s **Photo Gallery** and view the 2D snapshot. They can share it with others or include it on their Dynamics 365 Field Service work order. 
