@@ -17,11 +17,11 @@ It's crucial to ensure that your guide alignment is correct and as precise as po
 
 ## Three ways to anchor a guide
 
-There are two ways to anchor a guide:
+There are three ways to anchor a guide:
 
-- **QR code anchor (recommended)**. With a QR code anchor, ...
+- **QR code anchor (recommended)**. With a QR code anchor (new in the February release of Dynamics 365 Guides), you align a guide by gazing at (scanning) a printed QR code anchor attached to a physical object in the real world. A QR code anchor is recommended because it's the most accurate and you can print the anchor at different sizes.
 
-- **Circular code anchor (referred to as a "printed anchor" in earlier versions of Dynamics 365 Guides**. With a circular code anchor, you align a guide by gazing at (scanning) a circular code anchor attached to a physical object in the real world.
+- **Circular code anchor (referred to as a "printed anchor" in earlier versions of Dynamics 365 Guides**. With a circular code anchor, you align a guide by gazing at (scanning) a printed circular code anchor attached to a physical object in the real world.
 
 - **Holographic anchor**. With a holographic anchor, you align a guide to a digital 3D hologram overlaid on a physical object in the real world. You might want or need to use a holographic, however, for any of the following reasons:
 
@@ -37,6 +37,56 @@ There are two ways to anchor a guide:
 
 ## Anchor your guide by using a QR code anchor
 
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](). NOTE: NEED TO ADD URL WHEN READY!!!
+
+Creating a QR code anchor involves four basic steps:
+
+1. Use the **Anchor** wizard to select an anchor method.
+
+2. Print the anchor from the PDF file that the **Anchor** wizard createas.
+
+3. Attach the anchor to a physical object in the real world.
+
+4. Gaze at the anchor on [!include[pn-hololens](../includes/pn-hololens.md)] to anchor the guide.
+
+### Set up a QR code anchor
+
+You can access the **Anchor** wizard from the **Outline** page. The **Outline** page automatically appears after you create or open a guide.
+
+1. On the **Outline** page, select **Set your anchor now**.
+
+    ![Set your anchor now button](media/outline-page-3.PNG "Set your anchor now button")
+
+2. On the **Choose an anchor method** page, select the button for the QR code anchor.
+
+    ![Select button for QR Code Anchor](media/choose-anchor-method-qr-code.PNG "Select button for QR Code Anchor")
+
+3. In step 1 of the wizard, select **Download QR Code** to create a PDF file that is named **Guides-QRCodeAnchor**. This file includes the anchor that you will print in step 6.
+
+    ![Download QR Code Anchor button](media/download-qr-code-anchor-button.PNG "Download QR Code Anchor button")
+
+4. On your computer, in Adobe Acrobat Reader, open the **Guides-QRCodeAnchor** file.
+
+5. Print the last page of the document on matte stock. (Glossy materials can affect scanning.)
+
+6. Attach the QR code anchor to a physical object in the real world, and then take a picture of the place where you put it, to help the operator find it.
+
+9. Go back to the **Anchor** wizard in the PC app, and then select **Next**. 
+
+10. In step 3 of the wizard, select **Import** to import the picture that you took in step 6. Then drag it to the **Import anchor placement photo** box. When you've finished, select **Next** to move to the next step.
+
+    ![Import button](media/import-buttton-qr-code.PNG "Import button")
+
+11. In step XXX of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step.
+
+    ![Edit step card text button](media/edit-step-card-text-button-qr-code.PNG "Edit step card text button")
+
+12. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open your guide, and then gaze at the QR code anchor to anchor the guide.
+
+### Best practices for QR codes
+
+
+
 ## Anchor your guide by using a circular code anchor
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a circular code anchor](https://aka.ms/guidesprintedanchor)
@@ -47,7 +97,7 @@ Creating a circular code anchor involves four basic steps:
 
 2. Print the anchor from the PDF file that the **Anchor** wizard createas.
 
-3. Attach the circular code anchor to a physical object in the real world.
+3. Attach the anchor to a physical object in the real world.
 
 4. Gaze at the anchor on [!include[pn-hololens](../includes/pn-hololens.md)] to anchor the guide.
 
