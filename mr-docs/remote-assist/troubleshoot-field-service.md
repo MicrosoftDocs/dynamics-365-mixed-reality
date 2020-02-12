@@ -58,18 +58,33 @@ in this article we will...
 	- Bookable resources
 	- Log in to RA mobile or HL
 
-   remote-assist-field-service-resource
+   
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-resource.png)
 
-   remote-assist-field-service-ram-signin
 
-   remote-assist-field-service-enable-integration-popup
+   
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-ram-signin.png)
 
-   remote-assist-field-service-enable-integration-setting
+
+   
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-enable-integration-popup.png)
+
+
+   
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-enable-integration-setting.png)
+
 
 ## Set up expert user
 	- Log in to teams
 
-   remote-assist-field-service-teams-signin
+   
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-teams-signin.png)
+
 
    not in web browser
 
@@ -77,13 +92,22 @@ in this article we will...
 
 ## Create and schedule work orders
 
-remote-assist-field-service-work-order-support-contact
 
-remote-assist-field-service-work-order-schedule
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-work-order-support-contact.png)
+
+
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-work-order-schedule.png)
+
 
 ## View work orders on Field Service Mobile
 
-remote-assist-field-service-mobile
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-mobile.png)
+
 
 - On Mobile, when you deeplink, the contact will be auto selected to call
 
@@ -91,25 +115,40 @@ deeplink is currently on android only
 
 - On HoloLens it enables a tech to select the name and do an auto search on it
 
-remote-assist-field-service-bookings-HL
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-bookings-HL.png)
+
 
 ## Make a Remote Assist call
 
-remote-assist-field-service-launch-call
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-launch-call.png)
 
 
-remote-assist-field-service-receive-call-teams
 
-remote-assist-field-service-call-annotation
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-receive-call-teams.png)
+
+
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-call-annotation.png)
+
 
 
 ## Post Remote Assist Call to work order
 
-remote-assist-field-service-call-post-to-work-order-choose-BOTH
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-call-post-to-work-order-choose-BOTH.png)
 
 
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-call-metadata-timeline.png)
 
-remote-assist-field-service-call-metadata-timeline
 
 ## Notes
 
