@@ -2,12 +2,14 @@
 author: bencorn
 description: How to make sure you have the right version, views, and data to integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist
 ms.author: bencorn
-ms.date: 10/01/2019
+ms.date: 02/11/2020
 ms.service: crm-online
 ms.topic: article
 title: Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist
 ms.reviewer: v-brycho
 ---
+
+
 
 # Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist
 
@@ -23,6 +25,17 @@ This topic describes:
 - How to upgrade the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance if you don’t have the correct [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version
 - How to add data for required fields in a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] work order and booking
 - How to customize the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane that appears in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]
+
+
+Prerequisites
+Licenses
+Users
+Bookable resources
+Work order
+Schedule
+Log in to RA mobile or HL
+Make call
+Post to work order
 
 ## Requirements
 
