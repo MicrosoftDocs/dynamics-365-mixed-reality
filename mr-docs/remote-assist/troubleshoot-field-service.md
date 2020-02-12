@@ -27,15 +27,28 @@ This topic describes:
 - How to customize the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane that appears in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]
 
 
+
+
+
 Prerequisites
-Licenses
-Users
-Bookable resources
-Work order
-Schedule
-Log in to RA mobile or HL
-Make call
+	- Licenses
+	- Version 
+Set up technician user
+	- Bookable resources
+	- Log in to RA mobile or HL
+Set up expert user
+	- Log in to teams
+Create Work order
+Schedule work order
+Make remote assist call
+	- On Mobile, when you deeplink, the contact will be auto selected to call
+	On HoloLens it enables a tech to select the name and do an auto search on it
 Post to work order
+	- View metadata
+Notes
+
+
+
 
 ## Requirements
 
