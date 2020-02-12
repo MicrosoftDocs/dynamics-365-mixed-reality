@@ -2,7 +2,7 @@
 author: mamithan
 description: User guide for Dynamics 365 Product Visualize, including opening and signing in to the app, placing and manipulating 3D models, adding notes, adding your own 3D models, and exploring sample 3D models
 ms.author: mamithan
-ms.date: 01/29/2020
+ms.date: 02/17/2020
 ms.service: crm-online
 ms.topic: article
 title: User guide for Dynamics 365 Product Visualize
@@ -80,6 +80,9 @@ For complex 3D models that are built with layers, you can turn these on and off 
 > [!div class=mx-imgBorder]
 > ![View layers of a model](media/preface-view-layers.png "View layers of a model")
 
+### Enter conversation outcomes into Dynamics 365 Sales
+
+Dynamics 365 Product Visualize sends your notes to your Dynamics 365 Sales timeline by default, so you'll have your notes available in the Sales Hub app. You can also choose to export any note to share them with other apps on your device that support the iOS sharing function.
 
 This user guide describes everything you need to know about working with the app. It shows you how to:
 

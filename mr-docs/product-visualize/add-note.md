@@ -32,29 +32,33 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2. Tap **Add Note**.
+2. Tap **Add**.
 
     > [!div class=mx-imgBorder]
     > ![Tap Add Note](media/add-note.png "Tap Add Note")
 
-3. To add a message, tap **Type a message here**, add the text, and then tap **Next**.
+3. To add a photo, tap **Attach image**.
 
-4. To add a photo, tap **Attach image**.
+    > [!div class=mx-imgBorder]
+    > ![Tap Attach image](media/attach-image.png "Tap Attach image")
  
     a. Tap **Photo** to take a picture of the model, or tap **Camera Roll** if you want to use a photo already stored on your device.
 
-       > [!div class=mx-imgBorder]
-       > ![Tap Photo](media/camera-roll.png "Tap Capture")
+    > [!div class=mx-imgBorder]
+    > ![Tap Photo](media/camera-roll.png "Tap Capture")
 
     b. To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
+    
     c. Tap **Next**.
 
-       > [!div class=mx-imgBorder]
-       > ![Draw or add text](media/draw-add-text.png "Draw or add text")
+      > [!div class=mx-imgBorder]
+      > ![Draw or add text](media/draw-add-text.png "Draw or add text")
          
      > [!NOTE]
      > If you're not happy with the picture, tap **Remove** to remove the capture and then capture the photo again.
          
+4. To add a message, tap **Type a message here**, add the text, and then tap **Next**.
+
 5. To attach the note at a specific point in your model, tap **Pin to model**.
 
     a. Tap the model where you want to place the note, and then tap **Next**.
