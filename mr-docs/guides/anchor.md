@@ -243,7 +243,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 2. On the **Choose an anchor method** page, select the button for the holographic anchor.
 
-   ![Select button for Holographic Anchor](media/choose-anchor-method-digital-anchor.PNG "Select button for Holographic Anchor")
+   ![Select button for Holographic Anchor](media/holographic-anchor-choose-method.PNG "Select button for Holographic Anchor")
 
 3. In step 1 of the wizard, select **Import**, find your custom 3D model, and then select **Open** to import it. The model is added to the **3D parts** tab in the gallery.
 
