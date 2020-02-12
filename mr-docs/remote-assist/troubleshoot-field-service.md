@@ -63,20 +63,9 @@ in this article we will...
 > ![Screenshot of ](./media/remote-assist-field-service-resource.png)
 
 
-   
 > [!div class="mx-imgBorder"]
-> ![Screenshot of ](./media/remote-assist-field-service-ram-signin.png)
-
-
+> ![Screenshot of ](./media/remote-assist-field-service-ram-signin-ALL.png)
    
-> [!div class="mx-imgBorder"]
-> ![Screenshot of ](./media/remote-assist-field-service-enable-integration-popup.png)
-
-
-   
-> [!div class="mx-imgBorder"]
-> ![Screenshot of ](./media/remote-assist-field-service-enable-integration-setting.png)
-
 
 ## Set up expert user
 	- Log in to teams
