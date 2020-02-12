@@ -32,3 +32,10 @@ Dynamics 365 Remote Assist Mobile is now available on Android with ARCore enable
 - Learn how to try Remote Assist Mobile for free [here](../try-remote-assist.md). 
 - Learn how to buy Remote Assist licenses [here](../buy-remote-assist.md). 
 - Learn how to deploy Remote Assist to your workers' devices [here](../deploy-remote-assist.md). 
+- Learn how to use Remote Assist Mobile's tools through a tutorial [here](learn-the-tools.md).
+- Learn how to make calls using Remote Assist Mobile [here](making-calls.md).
+- Learn how to annotate your environment on Remote Assist Mobile [here](annotate-your-environment.md).
+- Learn how to capture a 2D snapshot and annotate it [here](annotate-snapshot.md).
+- Learn how to send chat messages using Remote Assist Mobile [here](send-chat-messages.md).
+- Learn how to integrate Remote Assist Mobile with Dynamics 365 Field Service [here](fs-integration.md).
+- Learn how to provide the Remote Assist Mobile team with feedback [here](provide-feedback.md).
