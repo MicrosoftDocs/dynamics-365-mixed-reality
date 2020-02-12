@@ -36,8 +36,24 @@ Prerequisites
 Set up technician user
 	- Bookable resources
 	- Log in to RA mobile or HL
+
+   remote-assist-field-service-resource
+
+   remote-assist-field-service-ram-signin
+
+   remote-assist-field-service-enable-integration-popup
+
+   remote-assist-field-service-enable-integration-setting
+
 Set up expert user
 	- Log in to teams
+
+   remote-assist-field-service-teams-signin
+
+   not in web browser
+
+   this user does not need a remote assist license
+
 Create Work order
 Schedule work order
 Make remote assist call
