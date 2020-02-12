@@ -262,7 +262,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
    ![Blue spheres](media/blue-spheres-digital-anchor.PNG "Blue spheres")
 
    > [!TIP]
-   > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a holographic anchor when you author a guide. For more information, see [Place your holograms](https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-authoring#place-your-holograms).
+   > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a holographic anchor when you author a guide. For more information, see [HoloLens 2 gestures for authoring and navigating](authoring-gestures-hl2).
 
 6. Take a picture of the place where you put the holographic anchor to help the operator find it.
 
