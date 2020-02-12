@@ -69,7 +69,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 6. Attach the QR code anchor to a physical object in the real world, and then take a picture to help the operator find it.
 
-7. Go back to the **Anchor** wizard in the PC app, and then select **Next** two times (you can skip step 2 since if you already took a picture of the anchor placement). 
+7. Go back to the **Anchor** wizard in the PC app, and then select **Next** two times (you can skip step 2 if you already took a picture of the anchor placement). 
 
 8. In step 3 of the wizard, select **Import** to import the picture that you took in step 6. Then drag it to the **Import anchor placement photo** box. When you're finished, select **Next** to move to the next step.
 
