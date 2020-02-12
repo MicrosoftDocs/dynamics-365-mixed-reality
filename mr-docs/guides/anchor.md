@@ -270,11 +270,11 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 8. In step 4 of the wizard, select the **Import** button to import the photo that you took in step 6. Then drag it to the **Import photo of anchor location** box. When you've finished, select **Next** to move to the next step.
 
-    ![Import photo of anchor location box](media/holographic-anchor-drag-photo.PNG "Import photo of anchor location box")
+    ![Import photo of anchor location box](media/holographic-anchor-import-photo.PNG "Import photo of anchor location box")
 
 9. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step, and then select **Confirm**.
 
-    ![Edit step card text button](media/holographic-anchor-operator-intructions.PNG "Edit step card text button")
+    ![Edit step card text button](media/holographic-anchor-operator-instructions.PNG "Edit step card text button")
 
 ### Best practices for holographic anchors
 
