@@ -75,11 +75,13 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
     ![Import button](media/qr-code-import-photo.PNG "Import button")
 
-9. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step.
+9. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you're finished, select **Next** to move to the next step.
 
     ![Edit step card text button](media/qr-code-operator-instructions.PNG "Edit step card text button")
 
 10. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open your guide, and then gaze at the QR code anchor to anchor the guide.
+
+    ![Align HoloLens](media/qr-code-align-hololens.PNG "Align HoloLens")
 
 ### Best practices for QR codes
 
