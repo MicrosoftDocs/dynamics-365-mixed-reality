@@ -42,9 +42,9 @@ There are three ways to anchor a guide:
 
 Creating a QR code anchor involves four basic steps:
 
-1. Use the **Anchor** wizard to select an anchor method.
+1. Use the **Anchor** wizard to select the QR code anchor method.
 
-2. Print the anchor from the PDF file that the **Anchor** wizard createas.
+2. Print the anchor from the PDF file that the **Anchor** wizard creates.
 
 3. Attach the anchor to a physical object in the real world.
 
@@ -130,9 +130,9 @@ Keep the following in mind when working with QR code anchors:
 
 Creating a circular code anchor involves four basic steps:
 
-1. Use the **Anchor** wizard to select an anchor method.
+1. Use the **Anchor** wizard to select the circular code anchor method.
 
-2. Print the anchor from the PDF file that the **Anchor** wizard createas.
+2. Print the anchor from the PDF file that the **Anchor** wizard creates.
 
 3. Attach the anchor to a physical object in the real world.
 
@@ -150,19 +150,19 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
     ![Select button for Circular Code Anchor](media/circular-code-choose-method.PNG "Select button for Circular Code Anchor")
 
-3. In step 1 of the wizard, select **Save to print** to create a PDF file that is named **Guides-CircularCodeAnchor**. This file includes the anchor that you will print in step 6.
+3. In step 1 of the wizard, select **Download circular code** to create a PDF file named **Guides-CircularCodeAnchor**. This file includes the anchor that you'll print in step 6.
 
-    ![Save to print button](media/circular-code-download-code.PNG "Save to print button")
+    ![Download circular code button](media/circular-code-download-code.PNG "Download circular code button")
 
 4. On your computer, in Adobe Acrobat Reader, open the **Guides-CircularCodeAnchor** file.
 
-5. Select **File** \> **Print**, and then, under **Page Sizing & Handling**, select the **Actual size** option.
+5. Select **File** > **Print**, and then, under **Page Sizing & Handling**, select the **Actual size** option.
 
     ![Actual size option](media/adobe-actual-size.PNG "Actual size option")
 
-6. Print the last page of the document on matte stock. (Glossy materials can affect scanning.)
+6. Print the last page of the document on matte stock (glossy materials can affect scanning). Bubblejet printers produce a better matte finish.
 
-7. After printing is completed, make sure that the marker spacing matches the measurements that are shown in the following illustration.
+7. After printing, make sure that the marker spacing matches the measurements shown in the following illustration.
 
     ![Circular code anchor measurements](media/printed-anchor-measurements.PNG "Circular code anchor measurements")
 
@@ -171,7 +171,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 8. Attach the circular code anchor to a physical object in the real world, and then take a picture of the place where you put it, to help the operator find it.
 
-9. Go back to the **Anchor** wizard in the PC app, and then select **Next** two times. 
+9. Go back to the **Anchor** wizard in the PC app, and then select **Next** two times (you can skip step 2 of the wizard if you took a picture of the location in the previous step). 
 
 10. In step 3 of the wizard, select **Import** to import the picture that you took in step 8. Then drag it to the **Import anchor placement photo** box. When you've finished, select **Next** to move to the next step.
 
@@ -183,8 +183,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 12. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open your guide, and then gaze at the circular code anchor to anchor the guide.
 
-    ![Align HoloLens](media/circular-code-align-hololens.PNG "Align HoloLens")
-    
+    ![Align HoloLens](media/circular-code-align-hololens.PNG "Align HoloLens")    
 
 ### Best practices for circular code anchors
 
@@ -232,9 +231,11 @@ During scanning, the forward-facing camera on [!include[pn-hololens](../includes
 
 Creating a holographic anchor involves two basic steps:
 
-1. Use the **Anchor** wizard in the PC app to import a custom 3D model to use as the anchor. Then assign the 3D model as the anchor for the guide. The 3D model can be a representation of a physical object or a generic 3D object. If you don't select a custom 3D model, a default holographic anchor will be used.
+1. Use the **Anchor** wizard to select the holographic anchor method.
 
-2. In the [!include[pn-hololens](../includes/pn-hololens.md)] app, in **Author** mode, use gestures to align the holographic anchor to a physical object in the real world.
+2. Import a custom 3D model to use as the anchor, and then assign the 3D model as the anchor for the guide. The 3D model can be a representation of a physical object or a generic 3D object. If you don't select a custom 3D model, a default holographic anchor will be used. You can import and assign the 3D model in the **Anchor** wizard.
+
+3. In the [!include[pn-hololens](../includes/pn-hololens.md)] app, in **Author** mode, use gestures to align the holographic anchor to a physical object in the real world.
 
 ### Set up a holographic anchor
 
