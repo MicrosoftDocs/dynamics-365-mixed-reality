@@ -27,11 +27,11 @@ Dynamics 365 Remote Assist Mobile includes a tutorial for technicians to jumpsta
 ###
 ![Try Tools](./media/learntools_4.png "Try Tools")
 ###
-3. Once you are in the tutorial experience, you are prompted to move your phone to map your space.  
+3. Once you are in the tutorial experience, you are prompted to move your phone to **map your space**.  
 ###
 ![Map Space](./media/learntools_5.png "Map Space")
 ###
-4. Select the arrow tool.
+4. Select the **Arrow tool**.
 ###
 ![Select Arrow](./media/learntools_6.png "Select Arrow")
 ###
@@ -39,7 +39,7 @@ Dynamics 365 Remote Assist Mobile includes a tutorial for technicians to jumpsta
 ###
 ![Place Arrow](./media/learntools_7.png "Place Arrow")
 ###
-6. Select the inking tool.
+6. Select the **Inking tool**.
 ###
 ![Select Ink](./media/learntools_8.png "Select Ink")
 ###
@@ -47,7 +47,7 @@ Dynamics 365 Remote Assist Mobile includes a tutorial for technicians to jumpsta
 ###
 ![Draw](./media/learntools_9.png "Draw")
 ###
-8. Practice placing and using other annotations. You can use the Color picker, Undo annotations, or Delete all annotations icons. 
+8. Practice placing and using other annotations. You can use the **Color picker**, **Undo** annotations, or **Delete all** annotations icons. 
 ###
 ![Other](./media/learntools_10.png "Other")
 ###
