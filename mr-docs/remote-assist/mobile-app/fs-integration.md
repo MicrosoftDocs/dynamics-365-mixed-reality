@@ -32,7 +32,7 @@ With Dynamics 365 Field Service, technicians manage their assigned work orders, 
 ###
 2.	If you have  active bookings assigned to you, you will see them listed. Select your Booking and click **Post**
 ###
-
+![Select Booking](./media/selectbooking.png "Select Booking")
 ###
 3.	After you click Post, you will return to the **Contact Card** of the expert you called.
 ###
