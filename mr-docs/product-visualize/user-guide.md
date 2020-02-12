@@ -82,7 +82,7 @@ For complex 3D models that are built with layers, you can turn these on and off 
 
 ### Enter conversation outcomes into Dynamics 365 Sales
 
-Dynamics 365 Product Visualize sends your notes to your Dynamics 365 Sales timeline by default, so you'll have your notes available in the Sales Hub app. You can also choose to export any note to share them with other apps on your device that support the iOS sharing function.
+Dynamics 365 Product Visualize sends your notes to your Dynamics 365 Sales timeline by default, so you'll have your notes available in the Sales Hub app. You can also choose to export any note to share it with other apps on your device that support the iOS sharing function.
 
 This user guide describes everything you need to know about working with the app. It shows you how to:
 
