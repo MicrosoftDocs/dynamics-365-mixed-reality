@@ -67,7 +67,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 5. Print the last page of the document on matte stock. (Glossy materials can affect scanning.)
 
-6. Attach the QR code anchor to a physical object in the real world, and then take a picture of the place where you put it, to help the operator find it.
+6. Attach the QR code anchor to a physical object in the real world, and then take a picture to help the operator find it.
 
 7. Go back to the **Anchor** wizard in the PC app, and then select **Next** two times. 
 
