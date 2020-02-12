@@ -152,7 +152,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 3. In step 1 of the wizard, select **Save to print** to create a PDF file that is named **Guides-CircularCodeAnchor**. This file includes the anchor that you will print in step 6.
 
-    ![Save to print button](media/save-to-print-button.PNG "Save to print button")
+    ![Save to print button](media/circular-code-download-code.PNG "Save to print button")
 
 4. On your computer, in Adobe Acrobat Reader, open the **Guides-CircularCodeAnchor** file.
 
@@ -175,13 +175,16 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 10. In step 3 of the wizard, select **Import** to import the picture that you took in step 8. Then drag it to the **Import anchor placement photo** box. When you've finished, select **Next** to move to the next step.
 
-    ![Import button](media/import-buttton.PNG "Import button")
+    ![Import button](media/circular-code-import-photo.PNG "Import button")
 
 11. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step.
 
-    ![Edit step card text button](media/edit-step-card-text-button.PNG "Edit step card text button")
+    ![Edit step card text button](media/circular-code-operator-instructions.PNG "Edit step card text button")
 
 12. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open your guide, and then gaze at the circular code anchor to anchor the guide.
+
+    ![Align HoloLens](media/circular-code-align-hololens.PNG "Align HoloLens")
+    
 
 ### Best practices for circular code anchors
 
