@@ -8,12 +8,12 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Capture and Annotate a 2D Snapshot 
+# Capture and Annotate 2D Snapshots 
 
 ###
 Remote Assist Mobile provides technicians with the ability to capture 2D snapshots and annotate it during a call. Technicians can take a photo of their environment or mixed reality annotations in their environment. 2D snapshots are critical in situations where a still-image might be needed to carefully add annotations to it. These 2D snapshots can be used for reference later or work validation. These 2D snapshots can also be utilized in low bandwidth situations.
 
-## Annotate a 2D snapshot customer scenario
+## Capture and annotate 2D snapshots customer scenario
 1.	During a Remote Assist Mobile call, select the **2D Snapshot** icon to snap your photo. 
 ###
 ![Snapshot Icon](./media/snapshot_1.png "Snapshot Icon")
