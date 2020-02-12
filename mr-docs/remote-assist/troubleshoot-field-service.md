@@ -26,14 +26,20 @@ This topic describes:
 - How to add data for required fields in a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] work order and booking
 - How to customize the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane that appears in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]
 
+in this article we will...
+
+> [!Note]
+>
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/.png)
 
 
-
-
-Prerequisites
+## Prerequisites
 	- Licenses
 	- Version 
-Set up technician user
+
+## Set up technician user
 	- Bookable resources
 	- Log in to RA mobile or HL
 
@@ -45,7 +51,7 @@ Set up technician user
 
    remote-assist-field-service-enable-integration-setting
 
-Set up expert user
+## Set up expert user
 	- Log in to teams
 
    remote-assist-field-service-teams-signin
@@ -54,12 +60,29 @@ Set up expert user
 
    this user does not need a remote assist license
 
-Create Work order
-Schedule work order
-Make remote assist call
-	- On Mobile, when you deeplink, the contact will be auto selected to call
+## Create and schedule work orders
+
+remote-assist-field-service-work-order-support-contact
+
+remote-assist-field-service-work-order-schedule
+
+## View work orders on Field Service Mobile
+
+remote-assist-field-service-mobile
+
+- On Mobile, when you deeplink, the contact will be auto selected to call
 	On HoloLens it enables a tech to select the name and do an auto search on it
-Post to work order
+
+## Make remote assist call
+
+remote-assist-field-service-launch-call
+
+
+	
+
+   remote-assist-field-service-receive-call-teams
+
+## Post Remote Assist Call to work order
 	- View metadata
 Notes
 
