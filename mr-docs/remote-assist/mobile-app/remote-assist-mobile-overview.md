@@ -29,6 +29,6 @@ Dynamics 365 Remote Assist Mobile is now available on Android with ARCore enable
 ###
 
 ### See also
-- Learn how to try Remote Assist Mobile for free [here](try-remote-assist.md). 
-- Learn how to buy Remote Assist licenses [here](buy-remote-assist.md). 
-- Learn how to deploy Remote Assist to your workers' devices [here](deploy-remote-assist.md). 
+- Learn how to try Remote Assist Mobile for free [here](../try-remote-assist.md). 
+- Learn how to buy Remote Assist licenses [here](../buy-remote-assist.md). 
+- Learn how to deploy Remote Assist to your workers' devices [here](../deploy-remote-assist.md). 
