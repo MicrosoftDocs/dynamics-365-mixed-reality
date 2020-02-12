@@ -26,25 +26,25 @@ With Dynamics 365 Field Service, technicians manage their assigned work orders, 
 ###
 
 ## Dynamics 365 Field Service Integration customer scenario
-1.	At the end of a Dynamics 365 Remote Assist Mobile call, you are prompted to post your call information to your Field Service work order. Select **Post**.
+1.	At the end of a Dynamics 365 Remote Assist Mobile call, you are prompted to post your call metadata to your Field Service work order. Select **Post**.
 ###
 ![End Call](./media/fs_1.png "End Call")
 ###
-2.	If you have  active bookings assigned to you, you will see them listed. Select your Booking and click **Post**
+2.	If you have **active bookings** assigned to you, you will see them listed. Select your Booking and select **Post**.
 ###
 ![Select Booking](./media/selectbooking.png "Select Booking")
 ###
-3.	After you click Post, you will return to the **Contact Card** of the expert you called.
+3.	You will return to the **Contact Card** of the expert you called.
 ###
 ![Booking](./media/fs_5.png "Booking")
 ### 
-4.	If you have no bookings assigned to your account, you can Refresh your screen or Discard your post.
+4.	If you have **no bookings** assigned to your account, you can **Refresh** your screen or **Discard** your post.
 ###
 ![No Bookings](./media/fs_6.png "No Bookings")
 ### 
-5.	If you do not see the booking that you are looking for, it might be because you have access to multiple instances (organizations). You can click the Ellipses to return to your Instance and then continue from Step 2.
+5.	If you do not see the booking that you are looking for, it might be because you have access to multiple instances (organizations). You can click the **Ellipses** to return to your Instance > select your **Instance** > continue from **Step 2**.
 ###
-
+![Select Instance](./media/Instance.png "Select Instance")
 ### 
 
 > [!TIP]
