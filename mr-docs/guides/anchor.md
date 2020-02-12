@@ -302,7 +302,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
     - Always look at the holographic anchor from multiple angles to make sure that it's aligned to the physical object.
 
-## Change from one anchor type to the other
+## Change from one anchor type to another
 
 1. On the **Outline** page, select the anchor at the top of the page, or select the **Anchor** button in the left navigation pane. The **Anchor** wizard is opened.
 
