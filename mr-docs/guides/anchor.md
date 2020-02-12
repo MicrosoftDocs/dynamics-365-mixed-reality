@@ -61,7 +61,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 3. In step 1 of the wizard, select **Download QR Code** to create a PDF file that is named **Guides-QRCodeAnchor**. This file includes the anchor that you will print in step 6.
 
-    ![Download QR Code Anchor button](media/download-qr-code-anchor-button.PNG "Download QR Code Anchor button")
+    ![Download QR Code Anchor button](media/qr-code-download-button.PNG "Download QR Code Anchor button")
 
 4. On your computer, in Adobe Acrobat Reader, open the **Guides-QRCodeAnchor** file.
 
@@ -69,17 +69,17 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 6. Attach the QR code anchor to a physical object in the real world, and then take a picture of the place where you put it, to help the operator find it.
 
-9. Go back to the **Anchor** wizard in the PC app, and then select **Next**. 
+7. Go back to the **Anchor** wizard in the PC app, and then select **Next** two times. 
 
-10. In step 3 of the wizard, select **Import** to import the picture that you took in step 6. Then drag it to the **Import anchor placement photo** box. When you've finished, select **Next** to move to the next step.
+8. In step 3 of the wizard, select **Import** to import the picture that you took in step 6. Then drag it to the **Import anchor placement photo** box. When you're finished, select **Next** to move to the next step.
 
-    ![Import button](media/import-buttton-qr-code.PNG "Import button")
+    ![Import button](media/qr-code-import-photo.PNG "Import button")
 
-11. In step XXX of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step.
+9. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step.
 
-    ![Edit step card text button](media/edit-step-card-text-button-qr-code.PNG "Edit step card text button")
+    ![Edit step card text button](media/qr-code-operator-instructions.PNG "Edit step card text button")
 
-12. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open your guide, and then gaze at the QR code anchor to anchor the guide.
+10. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open your guide, and then gaze at the QR code anchor to anchor the guide.
 
 ### Best practices for QR codes
 
