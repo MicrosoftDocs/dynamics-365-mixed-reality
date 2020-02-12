@@ -21,6 +21,9 @@ There are three ways to anchor a guide:
 
 - **QR code anchor (recommended)**. With a QR code anchor (new in the February release of Dynamics 365 Guides), you align a guide by gazing at (scanning) a printed QR code anchor attached to a physical object in the real world. A QR code anchor is recommended because it's the most accurate and you can print the anchor at different sizes.
 
+   >[!NOTE]
+   >QR code anchoring is not available on HoloLens 1 devices.
+
 - **Circular code anchor (referred to as a "printed anchor" in earlier versions of Dynamics 365 Guides**. With a circular code anchor, you align a guide by gazing at (scanning) a printed circular code anchor attached to a physical object in the real world.
 
 - **Holographic anchor**. With a holographic anchor, you align a guide to a digital 3D hologram overlaid on a physical object in the real world. You might want or need to use a holographic, however, for any of the following reasons:
@@ -65,7 +68,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 4. On your computer, in Adobe Acrobat Reader, open the **Guides-QRCodeAnchor** file.
 
-5. Print the last page of the document on matte stock. (Glossy materials can affect scanning.)
+5. Print the last page of the document on matte stock (glossy materials can affect scanning). Bubblejet printers produce a better matte finish.
 
 6. Attach the QR code anchor to a physical object in the real world, and then take a picture to help the operator find it.
 
@@ -85,7 +88,41 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 ### Best practices for QR codes
 
+Keep the following in mind when working with QR code anchors:
 
+- **Position**. Make sure the anchor is always positioned flat. DO NOT distort or place on a curved surface as this will negatively affect alignment and detection.
+
+- **Location**. Place the QR code anchor in a location that’s easy to access so it doesn’t interfere with work and is easy to identify (for placement).
+
+   - Anchor placement should ideally be central to the steps being done.
+
+   - Content placed further away from the anchor will incur more position variability than content placed closer.
+
+   - Place the anchor where operators can quickly re-scan to realign at any time, if required.
+
+   - If operators need to place/remove anchors before run-throughs, content position variability will increase.
+
+   - Ideally, the anchor should not be moved after it’s placed by the author. If a permanent placement isn’t possible, consider creating a mount so that it can be placed consistently in the same location/orientation each time.
+
+   - Take a photo or video to document the anchor placement and add it to the guide instructions to increase operator confidence.
+
+- **Orientation**. How you orient the anchor can have a big impact on scanning performance.
+
+   - Position the anchor on a vertical surface to minimize light reflections, if possible.
+
+   - Do not use reflective materials for the support surface.
+
+   - Very reflective surfaces located behind the anchor and direct exposure to sun or artificial light can negatively impact scanning performance.
+
+- **Scanning angle**. Ensure you’re facing the anchor straight on at the correct distance when gazing at it.
+
+   - Scanning from glancing angles can result in detection failure or misalignment.
+
+   - Ideal scanning range is 50cm to 150cm.
+
+- **Contrast**. The brightness for the provided anchor is set to a 30% gray background, which provides the best adaptability for a wide variety of environments.
+
+   - If you have issues detecting an anchor that you provide, try adjusting the anchor’s image brightness to match the average environmental brightness around the anchor.
 
 ## Anchor your guide by using a circular code anchor
 
