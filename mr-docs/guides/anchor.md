@@ -268,11 +268,11 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 7. Go back to the PC app, and then select **Next** in the wizard two times (you can skip step 2 of the wizard if you took a photo of the location in the previous step).
 
-8. In step 4 of the wizard, select the **Import** button to import the photo that you took in step 6. Then drag it to the **Import photo of anchor location** box. When you've finished, select **Next** to move to the next step.
+8. In step 4 of the wizard, select the **Import** button to import the photo that you took in step 6. Then drag it to the **Import photo of anchor location** box. When you're finished, select **Next** to move to the next step.
 
     ![Import photo of anchor location box](media/holographic-anchor-import-photo.PNG "Import photo of anchor location box")
 
-9. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step, and then select **Confirm**.
+9. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit Step card text**, and then enter your instructions. When you're finished, select **Next** to move to the next step, and then select **Confirm**.
 
     ![Edit step card text button](media/holographic-anchor-operator-instructions.PNG "Edit step card text button")
 
