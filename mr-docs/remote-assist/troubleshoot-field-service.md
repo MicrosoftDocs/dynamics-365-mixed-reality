@@ -1,17 +1,32 @@
 ---
-author: bencorn
-description: How to make sure you have the right version, views, and data to integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist
-ms.author: bencorn
+title: "Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist | MicrosoftDocs"
+ms.custom: 
+  - dyn365-mixed-reality-remote-assist
 ms.date: 02/11/2020
-ms.service: crm-online
-ms.topic: article
-title: Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist
-ms.reviewer: v-brycho
+ms.reviewer: ""
+ms.service: dynamics-365-mixed-reality-remote-assist
+ms.suite: ""
+ms.technology: 
+  - "remote-assist"
+ms.tgt_pltfrm: ""
+ms.topic: "article"
+applies_to: 
+  - "Dynamics 365 (online)"
+  - "Dynamics 365 Version 9.x"
+author: krbjoran
+ms.assetid: f7e513fc-047f-4a88-ab83-76fae5e583e2
+caps.latest.revision: 42
+ms.author: FieldServiceDave
+manager: shellyha
+search.audienceType: 
+  - admin
+  - customizer
+search.app: 
+  - MRRA
+  - MRRA
 ---
 
-
-
-# Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist
+# Integrate Dynamics 365 Remote Assist with Field Service  
 
 If your organization uses [Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] work orders, 
 the first-line worker using [!include[pn-hololens](../includes/pn-hololens.md)] can view [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] bookings from [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and 
@@ -72,9 +87,13 @@ remote-assist-field-service-mobile
 
 - On Mobile, when you deeplink, the contact will be auto selected to call
 
+deeplink is currently on android only
+
 - On HoloLens it enables a tech to select the name and do an auto search on it
 
-## Make remote assist call
+remote-assist-field-service-bookings-HL
+
+## Make a Remote Assist call
 
 remote-assist-field-service-launch-call
 
