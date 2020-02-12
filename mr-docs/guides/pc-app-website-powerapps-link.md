@@ -1,6 +1,6 @@
 
 
-# Add a website or Power Apps link to a guide in Dynamics 365 Guides
+# Add a website or Power Apps link to a step in Dynamics 365 Guides
 
 You can use add a website link or a Power Apps link to a Step card in Microsoft Dynamics 365 Guides.
 
