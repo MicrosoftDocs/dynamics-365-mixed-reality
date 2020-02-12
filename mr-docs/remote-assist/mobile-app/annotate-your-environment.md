@@ -30,7 +30,7 @@ Annotations enables technicians and remote experts to easily specify an area or 
 ###
 ![Start Edit](./media/teams_2.png "Start Edit")
 ###
-3. You will enter 2D snapshot mode and you're able to add annotations to the 2D snapshot of the technician’s environment. Your annotations will be automatically appear on the technician's environment.
+3. You will enter **2D snapshot mode** and you're able to add annotations to the 2D snapshot of the technician’s environment. Your annotations will be automatically appear on the technician's environment.
 ###
 ![Expert Snapshot Mode](./media/annoenvt.png "Expert Snapshot Mode")
 ###
