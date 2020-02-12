@@ -177,7 +177,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
     ![Import button](media/circular-code-import-photo.PNG "Import button")
 
-11. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step.
+11. In step 4 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you're finished, select **Next** to move to the next step.
 
     ![Edit step card text button](media/circular-code-operator-instructions.PNG "Edit step card text button")
 
