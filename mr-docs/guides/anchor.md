@@ -229,11 +229,11 @@ During scanning, the forward-facing camera on [!include[pn-hololens](../includes
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a holographic anchor](https://aka.ms/guidesdigitalanchor)
 
-Creating a holographic anchor involves two basic steps:
+Creating a holographic anchor involves three basic steps:
 
 1. Use the **Anchor** wizard to select the holographic anchor method.
 
-2. Import a custom 3D model to use as the anchor, and then assign the 3D model as the anchor for the guide. The 3D model can be a representation of a physical object or a generic 3D object. If you don't select a custom 3D model, a default holographic anchor will be used. You can import and assign the 3D model in the **Anchor** wizard.
+2. Use the wizard to import a custom 3D model to use as the anchor, and to assign the 3D model as the anchor for the guide. The 3D model can be a representation of a physical object or a generic 3D object. If you don't select a custom 3D model, a default holographic anchor will be used. 
 
 3. In the [!include[pn-hololens](../includes/pn-hololens.md)] app, in **Author** mode, use gestures to align the holographic anchor to a physical object in the real world.
 
@@ -251,11 +251,11 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 3. In step 1 of the wizard, select **Import**, find your custom 3D model, and then select **Open** to import it. The model is added to the **3D parts** tab in the gallery.
 
-   ![Import button](media/import-button-digital-anchor.PNG "Import button")
+   ![Import button](media/holographic-anchor-import-button.PNG "Import button")
 
 4. Drag the 3D model from the **3D parts** tab to the **Assign holographic anchor** box. The 3D model is assigned as the holographic anchor for the guide. When you've finished, select **Next** to move to the next step.
 
-   ![Assign holographic anchor box](media/drag-model-digital-anchor.PNG "Assign holographic anchor box")
+   ![Assign holographic anchor box](media/holographic-anchor-drag-model.PNG "Assign holographic anchor box")
 
 5. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open the guide, and then use air tap and hold to move the holographic anchor directly over a physical object in your work environment. If you must rotate the object, use air tap and hold to move the blue spheres.
 
@@ -266,15 +266,15 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 6. Take a picture of the place where you put the holographic anchor to help the operator find it.
 
-7. Go back to the PC app, and then select **Next** in the wizard two times.
+7. Go back to the PC app, and then select **Next** in the wizard two times (you can skip step 2 of the wizard if you took a photo of the location in the previous step).
 
 8. In step 4 of the wizard, select the **Import** button to import the photo that you took in step 6. Then drag it to the **Import photo of anchor location** box. When you've finished, select **Next** to move to the next step.
 
-    ![Import photo of anchor location box](media/drag-photo-digital-anchor.PNG "Import photo of anchor location box")
+    ![Import photo of anchor location box](media/holographic-anchor-drag-photo.PNG "Import photo of anchor location box")
 
 9. In step 5 of the wizard, if you want to change the default instructions for the operator, select **Edit step card text**, and then enter your instructions. When you've finished, select **Next** to move to the next step, and then select **Confirm**.
 
-    ![Edit step card text button](media/edit-step-card-text-digital-anchor.PNG "Edit step card text button")
+    ![Edit step card text button](media/holographic-anchor-operator-intructions.PNG "Edit step card text button")
 
 ### Best practices for holographic anchors
 
