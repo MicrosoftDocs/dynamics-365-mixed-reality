@@ -169,7 +169,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
     > [!NOTE]
     > If the anchor spacing isn't within +/– 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the percentage to compensate for the size discrepancy. For example, if the result is 49 mm when you print the anchor, you must change the scale to 100.4 percent to get 49.196 mm, which is within tolerance.
 
-8. Attach the circular code anchor to a physical object in the real world, and then take a picture of the place where you put it, to help the operator find it.
+8. Attach the circular code anchor to a physical object in the real world, and then take a picture to help the operator find it.
 
 9. Go back to the **Anchor** wizard in the PC app, and then select **Next** two times (you can skip step 2 of the wizard if you took a picture of the location in the previous step). 
 
