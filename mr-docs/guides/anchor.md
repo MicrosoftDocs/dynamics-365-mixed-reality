@@ -37,8 +37,6 @@ There are three ways to anchor a guide:
 
 ## Anchor your guide by using a QR code anchor
 
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](). NOTE: NEED TO ADD URL WHEN READY!!!
-
 Creating a QR code anchor involves four basic steps:
 
 1. Use the **Anchor** wizard to select an anchor method.
