@@ -17,7 +17,7 @@ Operators must also have [permission](https://docs.microsoft.com/en-us/powerapps
 
 ## Add a website link to a step
 
-You can add a single website link to each step.
+To add a website link to a step, you add an action. You can add one action per step. If the step already includes an action, adding a new action (whether it's a website link or Power Apps link) overwrites the existing action. 
 
 1. On the right side of the page, select the **Action** tab.
 
@@ -69,8 +69,7 @@ You can link to a published app created in Power Apps if you have edit permissio
 
 ### Add a Power Apps link to a step 
 
-To add a Power Apps link to a step, you add an action. You can add one action per step. 
-If the step already includes an action, adding a Power Apps action overwrites the existing action.
+To add a Power Apps link to a step, you add an action. You can add one action per step. If the step already includes an action, adding a new action (whether it's a website link or Power Apps link) overwrites the existing action. 
 
 1.	Open the PC Authoring app, go to the appropriate step, and then select the **Action** tab.
 
