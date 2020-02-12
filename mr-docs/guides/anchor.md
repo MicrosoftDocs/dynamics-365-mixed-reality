@@ -167,7 +167,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
     ![Circular code anchor measurements](media/printed-anchor-measurements.PNG "Circular code anchor measurements")
 
     > [!NOTE]
-    > If the anchor spacing isn't within +/– 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the percentage to compensate for the size discrepancy. For example, if the result is 49 mm when you print the anchor, you must change the scale to 100.4 percent to get 49.196 mm, which is within tolerance.
+    > If the anchor spacing isn't within +/– 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the percentage to compensate for the size discrepancy. For example, if the result is 49 mm when you print the anchor, change the scale to 100.4 percent to get 49.196 mm, which is within tolerance.
 
 8. Attach the circular code anchor to a physical object in the real world, and then take a picture to help the operator find it.
 
@@ -257,7 +257,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
    ![Assign holographic anchor box](media/holographic-anchor-drag-model.PNG "Assign holographic anchor box")
 
-5. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open the guide, and then use air tap and hold to move the holographic anchor directly over a physical object in your work environment. If you must rotate the object, use air tap and hold to move the blue spheres.
+5. Put on your [!include[pn-hololens](../includes/pn-hololens.md)], open the guide, and then use air tap and hold to move the holographic anchor directly over a physical object in your work environment. If you need to rotate the object, use air tap and hold to move the blue spheres.
 
    ![Blue spheres](media/blue-spheres-digital-anchor.PNG "Blue spheres")
 
