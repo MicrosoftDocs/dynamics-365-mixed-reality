@@ -41,21 +41,21 @@ The following table shows how notes appear on the model, depending on where the 
 
     > [!div class=mx-imgBorder]
     > ![Tap Attach image](media/attach-image.png "Tap Attach image")
- 
-    a. Tap **Photo** to take a photo of the model, or tap **Camera Roll** if you want to use a photo already stored on your device.
 
-    > [!div class=mx-imgBorder]
-    > ![Tap Photo](media/camera-roll.png "Tap Capture")
+    1. Tap **Photo** to take a photo of the model, or tap **Camera Roll** if you want to use a photo already stored on your device.
 
-    b. To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model. Tap **Next**.
+        > [!div class=mx-imgBorder]
+        > ![Tap Photo](media/camera-roll.png "Tap Capture")
 
-      > [!div class=mx-imgBorder]
-      > ![Draw or add text](media/draw-add-text.png "Draw or add text")
+    2. To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model. Tap **Next**.
 
-      The captured image is displayed in the place of **Attach image** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
+        > [!div class=mx-imgBorder]
+        > ![Draw or add text](media/draw-add-text.png "Draw or add text")
 
-      > [!div class=mx-imgBorder]
-      > ![Draw or add text](media/note-image-added.png "Draw or add text")
+        The captured image is displayed in the place of **Attach image** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
+
+        > [!div class=mx-imgBorder]
+        > ![Draw or add text](media/note-image-added.png "Draw or add text")
          
 4. To add a message, tap **Type a message here**, and add the text.
 
@@ -67,15 +67,15 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Pin to model](media/pin-to-model.png "Tap Pin to model")
 
-    a. Tap the model where you want to attach the note, and then tap **Next**.
+    1. Tap the model where you want to attach the note, and then tap **Next**.
  
-      > [!div class=mx-imgBorder]
-      > ![Tap on the model](media/tap-on-product.png "Tap on the model")
+        > [!div class=mx-imgBorder]
+        > ![Tap on the model](media/tap-on-product.png "Tap on the model")
 
-      The note is attached at the tapped location on the model. If you want to remove the pin from the model, tap **Remove pin**.
+        The note is attached at the tapped location on the model. If you want to remove the pin from the model, tap **Remove pin**.
 
-      > [!div class=mx-imgBorder]
-      > ![Remove pinned note](media/pin-added.png "Remove pinned note")
+        > [!div class=mx-imgBorder]
+        > ![Remove pinned note](media/pin-added.png "Remove pinned note")
 
 6. Tap **Finish**.
       
