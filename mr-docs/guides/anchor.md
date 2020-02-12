@@ -26,7 +26,7 @@ There are three ways to anchor a guide:
 
 - **Circular code anchor (referred to as a "printed anchor" in earlier versions of Dynamics 365 Guides**. With a circular code anchor, you align a guide by gazing at (scanning) a printed circular code anchor attached to a physical object in the real world.
 
-- **Holographic anchor**. With a holographic anchor, you align a guide to a digital 3D hologram overlaid on a physical object in the real world. You might want or need to use a holographic, however, for any of the following reasons:
+- **Holographic anchor**. With a holographic anchor, you align a guide to a digital 3D hologram overlaid on a physical object in the real world. You might need to use a holographic for any of the following reasons:
 
    - It might not be feasible to attach a QR code anchor or circular code anchor because the authoring is done in a location different than where the parts are located.
 
