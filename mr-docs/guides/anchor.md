@@ -173,7 +173,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 9. Go back to the **Anchor** wizard in the PC app, and then select **Next** two times (you can skip step 2 of the wizard if you took a picture of the location in the previous step). 
 
-10. In step 3 of the wizard, select **Import** to import the picture that you took in step 8. Then drag it to the **Import anchor placement photo** box. When you've finished, select **Next** to move to the next step.
+10. In step 3 of the wizard, select **Import** to import the picture that you took in step 8. Then drag it to the **Import anchor placement photo** box. When you're finished, select **Next** to move to the next step.
 
     ![Import button](media/circular-code-import-photo.PNG "Import button")
 
@@ -253,7 +253,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
    ![Import button](media/holographic-anchor-import-button.PNG "Import button")
 
-4. Drag the 3D model from the **3D parts** tab to the **Assign holographic anchor** box. The 3D model is assigned as the holographic anchor for the guide. When you've finished, select **Next** to move to the next step.
+4. Drag the 3D model from the **3D parts** tab to the **Assign holographic anchor** box. The 3D model is assigned as the holographic anchor for the guide. When you're finished, select **Next** to move to the next step.
 
    ![Assign holographic anchor box](media/holographic-anchor-drag-model.PNG "Assign holographic anchor box")
 
