@@ -71,20 +71,28 @@ remote-assist-field-service-work-order-schedule
 remote-assist-field-service-mobile
 
 - On Mobile, when you deeplink, the contact will be auto selected to call
-	On HoloLens it enables a tech to select the name and do an auto search on it
+
+- On HoloLens it enables a tech to select the name and do an auto search on it
 
 ## Make remote assist call
 
 remote-assist-field-service-launch-call
 
 
-	
+remote-assist-field-service-receive-call-teams
 
-   remote-assist-field-service-receive-call-teams
+remote-assist-field-service-call-annotation
+
 
 ## Post Remote Assist Call to work order
-	- View metadata
-Notes
+
+remote-assist-field-service-call-post-to-work-order-choose-BOTH
+
+
+
+remote-assist-field-service-call-metadata-timeline
+
+## Notes
 
 
 
