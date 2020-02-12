@@ -17,7 +17,7 @@ ms.reviewer: v-brycho
 
 ![Person using Dynamics 365 Guides while working on a truck engine](media/woman-at-work.PNG "Person using Dynamics 365 Guides while working on a truck engine") 
 
-## No coding skills are required to create mixed-reality guides
+## No coding skills required to create mixed-reality guides
 
 With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you don't need specialized 3D or programming skills. Start with the PC authoring app to create a *guide*: step-by-step instructions together with images, video, and 3D holograms. After you create the guide on a PC, use the HoloLens app to connect the instruction cards and holograms to the physical workspace by picking them up and moving them to the correct location. You can use the default library of 3D holograms to get started. You can also import your own custom 3D models.
 
