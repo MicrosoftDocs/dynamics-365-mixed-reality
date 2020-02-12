@@ -22,7 +22,7 @@ With Dynamics 365 Field Service, technicians manage their assigned work orders, 
 ## Dynamics 365 Field Service Integration customer scenario
 1.	At the end of a Dynamics 365 Remote Assist Mobile call, you are prompted to post your call information to your Field Service work order. Select Post.
 ###
-![End Call](./media/fs_1.png "End Call")
+![End Call](./media/fs_1.jpg "End Call")
 ###
 2.	If you have  active bookings assigned to you, you will see them listed.
  
