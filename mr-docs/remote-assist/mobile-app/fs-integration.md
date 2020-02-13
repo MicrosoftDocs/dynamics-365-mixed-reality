@@ -48,7 +48,7 @@ With Dynamics 365 Field Service, technicians manage their assigned work orders, 
 ### 
 
 > [!TIP]
-> Technicians have the ability to initiate a call from the Dynamics 365 Field Service mobile app on their mobile devices to the Remote Assist Mobile app. They can learn how to start a call to an expert on Microsoft Teams [here](index.md). 
+> Technicians have the ability to initiate a call from the Dynamics 365 Field Service mobile app on their mobile devices to the Remote Assist Mobile app. They can learn how to start a call to an expert on Microsoft Teams [here](making-calls.md). 
 
 ### See also 
 - Learn more about Remote Assist Mobile [here](remote-assist-mobile-overview.md).
