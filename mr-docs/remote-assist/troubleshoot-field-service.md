@@ -63,20 +63,17 @@ Before you begin, make sure you have the following set up:
   - A [!include[pn-dyn-365](../includes/pn-dyn-365.md)] license that includes [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]
 
 ## Set up technician user
-	- Bookable resources
-	- Log in to RA mobile or HL
 
- First create a bookable resource that will serve as the technician or front line worker that will use both Field Service on the Field Service Mobile app and Remote Assist on the Remote Assist mobile app on his or her phone or tablet.
+ First create a bookable resource that will serve as the technician or front line worker that will use both Field Service on the Field Service Mobile app and Remote Assist on the Remote Assist Mobile app on his or her phone or tablet.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-resource.png)
 
-The bookable resource must have a Resource Type = User and the related user record will need both the licenses and the security roles to access Field Service Mobile and Remote Assist.
+The bookable resource must have a **Resource Type = User** and the related user record will need licenses to use both Field Service Mobile and Remote Assist. To set up a field technician to use Field Service Mobile se the topic on [setting up Field Service users and secuirty roles](https://docs.microsoft.com/en-us/dynamics365/field-service/view-user-accounts-security-roles#set-up-a-field-technician-user)
 
-(https://docs.microsoft.com/en-us/dynamics365/field-service/view-user-accounts-security-roles#set-up-a-field-technician-user)
 
-log in to Field Service Mobile
-
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-fsm-login.png)
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-ram-signin-ALL.png)
