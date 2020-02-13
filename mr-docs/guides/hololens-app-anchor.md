@@ -39,7 +39,7 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 
     On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a holographic image that looks like the following illustration.
 
-    ![Holographic marker image](media/scanning.PNG "Holographic marker image")
+    ![Holographic image of circular code](media/circular-code-hologram.PNG "Holographic image of circular code")
 
 3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the circular code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
