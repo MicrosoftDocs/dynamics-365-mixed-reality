@@ -36,8 +36,7 @@ use podcast for introduction: https://msit.microsoftstream.com/video/11b57eda-89
 
 In this article we will explore how a field technician can use the Remote Assist Mobile app to make a call to an expert for help to complete a work order. This article will also explore considerations for field technicians that use Remote Assist on a HoloLens.
 
-> [!Note]
->
+
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/.png)
@@ -69,11 +68,19 @@ Before you begin, make sure you have the following set up:
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-resource.png)
 
-The bookable resource must have a **Resource Type = User** and the related user record will need licenses to use both Field Service Mobile and Remote Assist. To set up a field technician to use Field Service Mobile se the topic on [setting up Field Service users and secuirty roles](https://docs.microsoft.com/en-us/dynamics365/field-service/view-user-accounts-security-roles#set-up-a-field-technician-user)
+The bookable resource must have a **Resource Type = User** and the related user record will need licenses to use both Field Service Mobile and Remote Assist. To set up a field technician to use Field Service Mobile see the topic on [setting up Field Service users and secuirty roles](https://docs.microsoft.com/en-us/dynamics365/field-service/view-user-accounts-security-roles#set-up-a-field-technician-user).
 
+
+
+Verify you can log into Field Service Mobile successfully with the field technician user.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-fsm-login.png)
+
+Next, verify you can log into the Remote Assist mobile app with the same user. 
+
+> [!Note]
+> The Remote Assist mobile app is available on mobile devices running iOS and Android with the related ARkit or ARcore capabilities.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-ram-signin-ALL.png)
