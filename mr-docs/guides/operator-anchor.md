@@ -41,7 +41,7 @@ This article provides step-by-step instructions for each type of anchor.
 
     ![Holographic marker](media/align-marker.PNG "Holographic marker")
 
-4. In the **QR Code Anchor Found**, select **Confirm**.
+4. In the **QR Code Anchor Found** page, select **Confirm**.
 
     ![QR Code Anchor Found page](media/qr-code-confirm.PNG "QR Code Anchor Found page")
 
