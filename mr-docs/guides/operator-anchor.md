@@ -21,11 +21,11 @@ Like the calibration of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!
 
 There are three types of anchors: 
 
-- QR code anchors
+- QR code anchor
 
-- Circular code anchors
+- Circular code anchor
 
-- Holographic anchors
+- Holographic anchor
 
 How you anchor your guide depends on the type of anchor the author chose for the guide.
 
