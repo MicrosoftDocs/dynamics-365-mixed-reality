@@ -31,8 +31,8 @@ The person who creates a guide.
 ## Calibration
 A process in which [!include[pn-hololens](../includes/pn-hololens.md)] adjusts the hologram display according to a user's interpupillary distance (IPD). The [!include[pn-hololens](../includes/pn-hololens.md)] device must be calibrated correctly so that the guide aligns properly in the real world. Proper calibration is also necessary to place holographic objects in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. [!include[pn-hololens](../includes/pn-hololens.md)] includes a Calibration app that can be used by authors and operators for this purpose. 
 
-## Digital anchor
-A 3D representation used to anchor holograms in the real world. You place the digital representation, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor.
+## Circular code anchor (previously known as a "printed anchor")
+A code that you print and attach to a physical object in the real world to anchor a guide. For more information, see [Anchor your guide in the real world](anchor.md).
 
 ## Dotted line
 A holographic link that ties a step visually to the area where you want the operator to focus. It helps the operator find content or understand what they're supposed to be looking at in the real world. You can use a holographic dotted line together with a 3D object, such as a holographic arrow or number. 
@@ -46,17 +46,20 @@ The act of looking at a user interface element with [!include[pn-hololens](../in
 ## Gesture
 A hand movement that enables an operator to do an action in mixed reality. For more information, see [Gestures to know](authoring-gestures.md).
 
+## Holographic anchor (previously known as a "digital anchor")
+A 3D representation used to anchor holograms in the real world. You place the digital representation, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor.
+
 ## Interpupillary distance (IPD)
 The distance between a user's eyes. Different users have different IPDs. To align content correctly, [!include[pn-hololens](../includes/pn-hololens.md)] needs to be calibrated for each user's IPD. 
-
-## Marker
-A computer-generated visual used for printed anchors. You gaze at the printed marker to align the guide with its spatial coordinates.
 
 ## Operator
 The person who uses a guide to do a set of tasks. 
 
 ## Outline page
 A page in the PC Authoring application that you use to add tasks and steps. From the Outline page, you can get a sense of the whole guide and restructure tasks by dragging them from one place to another. The Outline page also includes customizable anchoring instructions and a special step called the Completion step (also customizable).
+
+## QR code anchor 
+A code that you print and attach to a physical object in the real world to anchor a guide. For more information, see [Anchor your guide in the real world](anchor.md).
 
 ## Step
 A short, discrete work item that an operator does to complete a task. Tasks are made up of steps. Steps are also the central navigation point in a guide.
