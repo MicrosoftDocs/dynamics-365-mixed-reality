@@ -19,7 +19,7 @@ Like the calibration of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!
 
 ## Three types of anchors
 
-There are three types of anchors: 
+How you anchor your guide depends on the type of anchor the author chose for the guide. There are three types of anchors: 
 
 - QR code anchor
 
@@ -27,7 +27,7 @@ There are three types of anchors:
 
 - Holographic anchor
 
-How you anchor your guide depends on the type of anchor the author chose for the guide.
+This article provides step-by-step instructions for each type of anchor.
 
 ### Anchor your guide by using a QR code anchor
 
