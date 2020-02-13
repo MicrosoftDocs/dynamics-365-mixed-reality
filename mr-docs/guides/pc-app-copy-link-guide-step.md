@@ -2,7 +2,7 @@
 
 # Copy a link to a guide or step
 
-You can copy a link to a guide or a step. You might want to do this:
+You might want to copy a link to a guide or a step:
 
 - If you want to share the link with another author through email or chat.
 
