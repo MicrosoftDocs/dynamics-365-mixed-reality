@@ -89,7 +89,7 @@ The following table shows how notes appear on the model, depending on where the 
     > [!NOTE]
     > If you want to see a larger view of the notes, which is useful if you can't see all the text in the notes card, tap the expand arrow in the upper-right corner of the notes card or flick up. Then you can use the scroll bar in the notes card to move through the text.
     
-     ![Expand notes button](media/expand-notes.PNG "Expand notes button")
+     ![Expand notes button](media/expand-notes.png "Expand notes button")
      
 ## Delete a note
 
@@ -144,9 +144,9 @@ To turn off sharing with the Dynamics 365 Sales timeline or Teams channels:
 
 1. Tap the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.  
 
-2. Under **Note Output Options**, move the sliders to the off position for the options you want to turn off.
+2. Move the **Dynamics 365 for Sales Timeline** slider to the Off position.
 
-   ![Note Output Options](media/note-output-options.PNG "Note Output Options")
+   ![Notes output options](media/note-output-options.png "Notes output options")
 
 ### See also
 

@@ -31,10 +31,6 @@ You can conduct a successful product demonstration with the Product Visualize ap
 5.	Display product layers or components
 6.	Enter conversation outcomes into Dynamics 365 Sales
 
-<!-- ## Connect to Dynamics 365 Sales
-
-Product Visualize connects directly with your opportunities and products in Dynamics 365 Sales. When you log in to the app using your Dynamics 365 Sales credentials, we automatically grab your list of sales opportunities, so you can see all your products and notes organized by customer. -->
-
 ### Download models for offline work
 
 If you're going to be in a location with low internet connectivity, you can download your models and notes to be available offline. This way, you will never miss a beat with your clients, and your resources will always be at your fingertips. This feature gives you a way to always carry your catalog of products with you, without having to carry hundreds of pages of documents to every meeting, even when you can’t connect to the cloud.
@@ -83,6 +79,9 @@ For complex 3D models that are built with layers, you can turn these on and off 
 ### Enter conversation outcomes into Dynamics 365 Sales
 
 Dynamics 365 Product Visualize sends your notes to your Dynamics 365 Sales timeline by default, so you'll have your notes available in the Sales Hub app. You can also choose to export any note to share it with other apps on your device that support the iOS sharing function.
+
+> [!div class=mx-imgBorder]
+> ![Enter conversation outcomes into Dynamics 365 Sales](media/dynamics-notes-timeline.png "Enter conversation outcomes into Dynamics 365 Sales")
 
 This user guide describes everything you need to know about working with the app. It shows you how to:
 
