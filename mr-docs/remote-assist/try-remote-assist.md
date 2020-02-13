@@ -42,7 +42,7 @@ With the license-free 90-day free trial, each individual user must download Dyna
 2.	Search for and download **Dynamics 365 Remote Assist** and launch the app.
 3.	Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
 4.	The app will prompt you to start your Free Trial of Dynamics 365 Remote Assist. Select **Continue**. Afterwards, you will be taken to your Contacts page.  
-5.	You can now use Dynamics 365 Remote Assist on your mobile device! Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile) [here](index.md).
+5.	You can now use Dynamics 365 Remote Assist on your mobile device! Learn how to make calls to a remote expert on Microsoft Teams (desktop and mobile) [here](mobile-app/making-calls.md).
 
 ## Prerequisites for a 30-day Dynamics 365 Remote Assist and Remote Assist Attach trial license (for up to 25 seats in an organization)
 
