@@ -64,7 +64,7 @@ This article provides step-by-step instructions for each type of anchor.
 
 ## Anchor your guide by using a holographic anchor
 
-For a holographic anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world.
+For a holographic anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world. For example, the following illustration shows a holographic anchor being aligned with its physical counterpart in the real world.
 
 ![Holographic anchor example](media/digital-anchor-example.PNG "Holographic anchor example")
 
