@@ -16,7 +16,7 @@ You can copy a link to a guide or a step. You might want to do this:
 
 ## Copy a link to a step
 
-1. On the Outline page, right-click the appropropriate step.
+1. On the **Outline** page, right-click the appropriate step.
 
 2. Select **Copy link to this step**.
 
