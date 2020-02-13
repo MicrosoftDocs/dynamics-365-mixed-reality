@@ -1,12 +1,12 @@
 
 
-# Copy a link to a guide or step
+# Copy a link to a guide or step in Dynamics 365 Guides
 
-You might want to copy a link to a guide or a step:
+You might want to copy a link to a guide or a step in Microsoft Dynamics 365 Guides if you want to:
 
-- If you want to share the link with another author through email or chat.
+- Share the link with another author through email or chat.
 
-- If you want to embed the link in a QR code. When you embed a link in a QR code, when you or the operator scans the QR code, it automatically opens that guide or step.
+- Embed the link in a QR code. When you embed a link in a QR code, when you or the operator scans the QR code, it automatically opens that guide or step.
 
 ## Copy a link to a guide
 
