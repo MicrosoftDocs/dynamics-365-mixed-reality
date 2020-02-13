@@ -121,11 +121,7 @@ Next, verify you can log into the Remote Assist mobile app with the same user.
 
 deeplink is currently on android only
 
-- On HoloLens it enables a tech to select the name and do an auto search on it
 
-
-> [!div class="mx-imgBorder"]
-> ![Screenshot of ](./media/remote-assist-field-service-bookings-HL.png)
 
 
 ## Make a Remote Assist call
@@ -158,6 +154,14 @@ deeplink is currently on android only
 > ![Screenshot of ](./media/remote-assist-field-service-call-metadata-timeline.png)
 
 ## View bookings on HoloLens
+
+- On HoloLens it enables a tech to select the name and do an auto search on it
+
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-bookings-HL.png)
+
+
 
 ### Confirm that the **My In Progress Bookings** view is included
 
