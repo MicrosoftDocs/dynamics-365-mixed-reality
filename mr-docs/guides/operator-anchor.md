@@ -29,7 +29,7 @@ How you anchor your guide depends on the type of anchor the author chose for the
 
 This article provides step-by-step instructions for each type of anchor.
 
-### Anchor your guide by using a QR code anchor
+## Anchor your guide by using a QR code anchor
 
 1. Look for a QR code anchor that's attached to a physical object in your real-world environment. The QR code anchor will resemble this illustration.
 
@@ -46,7 +46,7 @@ This article provides step-by-step instructions for each type of anchor.
     ![QR Code Anchor Found page](media/qr-code-confirm.PNG "QR Code Anchor Found page")
 
 
-### Anchor your guide by using a circular code anchor
+## Anchor your guide by using a circular code anchor
 
 1. Look for a circular code anchor that's attached to a physical object in your real-world environment. The circular code anchor will resemble this illustration.
 
@@ -62,7 +62,7 @@ This article provides step-by-step instructions for each type of anchor.
 
     ![Circular Code Anchor Found page](media/circular-code-confirm.PNG "Circular Code Anchor Found page")
 
-### Anchor your guide by using a holographic anchor
+## Anchor your guide by using a holographic anchor
 
 For a holographic anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world.
 
