@@ -43,7 +43,7 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 
 3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the circular code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
-    ![Aligning with the anchor](media/align-marker.PNG "Aligning with the anchor")
+    ![Aligning with the anchor](media/circular-code-green-outline.PNG "Aligning with the anchor")
 
 4. In the **Circular Code Anchor Found** page, select **Confirm**.
 
