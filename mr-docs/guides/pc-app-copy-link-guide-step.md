@@ -23,6 +23,6 @@ You might want to copy a link to a guide or a step:
 
 2. Select **Copy link to this step**.
 
-    ![Copy link to this step command](media/copy-link-step.PNG "Copy link to this step command")
+    ![Copy link to this step command](media/copy-step-link.PNG "Copy link to this step command")
 
 ## See also
