@@ -27,7 +27,7 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 
     When the guide is correctly aligned, the **QR Code Anchor Found** page appears.
 
-    ![QR Code Anchor Found page](media/qr-code-anchor-found.PNG "QR Code Anchor Found page")
+    ![QR Code Anchor Found page](media/qr-code-confirm.PNG "QR Code Anchor Found page")
 
 ## Anchor a guide by using a circular code anchor
 
