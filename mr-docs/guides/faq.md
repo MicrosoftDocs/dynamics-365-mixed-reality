@@ -2,7 +2,7 @@
 author: BryceHo
 description: FAQ about Dynamics 365 Guides
 ms.author: makamat
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
@@ -21,7 +21,7 @@ If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] 
 
 3. Find a phone number or submit a support request through the admin center. 
 
-## Why do I have to download two apps?
+## Why are there two apps?
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes two applications:
 
@@ -124,9 +124,9 @@ Incorrect alignment of holograms can happen for two main reasons:
 
 - The guide needs to be realigned:
 
-- If the guide is aligned by using a **digital anchor**, the digital representation (3D representation laid over its corresponding physical area) isn't aligned correctly. To realign the guide, select the **Anchor** button and then realign the digital representation to perfectly overlay the physical area. 
+- If the guide is aligned by using a **holographic anchor**, the digital representation (3D representation laid over its corresponding physical area) isn't aligned correctly. To realign the guide, select the **Anchor** button and then realign the digital representation to perfectly overlay the physical area. 
 
-- If the guide is aligned by using a **printed anchor**, the marker for the guide might not have been printed properly. Try realigning the guide by selecting the **Anchor** button. Alternatively, you can reprint the marker. Make sure that the printed marker lies flat in the work area before you realign.
+- If the guide is aligned by using a **circular code anchor**, the marker for the guide might not have been printed properly. Try realigning the guide by selecting the **Anchor** button. Alternatively, you can reprint the anchor. Make sure that the anchor lies flat in the work area before you realign.
 
 For more information about anchoring methods, see [Anchor your guide in the real world](anchor.md).
 
