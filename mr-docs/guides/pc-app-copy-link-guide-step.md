@@ -14,9 +14,15 @@ You might want to copy a link to a guide or a step:
 
 2. Select **Copy link to this guide**.
 
+    ![Copy link to this guide command](media/copy-guide-link.PNG "Copy link to this guide command")
+
+
 ## Copy a link to a step
 
 1. On the **Outline** page, right-click the appropriate step.
 
 2. Select **Copy link to this step**.
 
+    ![Copy link to this step command](media/copy-link-step.PNG "Copy link to this step command")
+
+## See also
