@@ -25,4 +25,12 @@ You might want to copy a link to a guide or a step:
 
     ![Copy link to this step command](media/copy-step-link.PNG "Copy link to this step command")
 
-## See also
+## What's next?
+
+[Anchor your guide to the real world](anchor.md)<br>
+[Structure your guide in the Outline page](structure-guide.md)<br>
+[Create steps and add 3D models or 2D media](create-steps-assign-media.md)<br>
+[Add a website link or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
+[Learn what makes a great mixed reality guide](great-guide.md)<br>
+[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)
+
