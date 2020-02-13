@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Common Data Service environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 02/13/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -14,41 +14,10 @@ ms.reviewer: v-brycho
 > [!NOTE]
 > Before you complete this step of the setup process, be sure to see step 1, [Buy a subscription or sign up for a free trial](setup-step-one.md).
 
-After you buy a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assign licenses, you must create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment that you create depends on whether you have purchased a Dynamics 365 Guides license or not. If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], set up a production environment. A production environment provides you with backup and restore capabilities. If you haven't purchased a license yet, set up a default environment.
+After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you must create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment that you create depends on whether you purchased a Dynamics 365 Guides license or not. If you bought a license, set up a production environment. A production environment provides you with backup and restore capabilities. If you haven't purchased a license yet, set up a default environment.
 
 > [!NOTE]
 > If you already have an environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), you can skip ahead to the [Change the maximum upload file size](#upload) procedure later in this topic.
-
-## Set up a default environment
-
-1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the admin user credentials.
-
-2. In the left pane, select **Environments**.
-
-    ![Environments page](media/powerapps-environments.PNG "Environments page")
-
-3. Select the **More environment actions** button (**...**) next to the default instance, and then select **Manage environment**.
-
-    ![Manage environment command](media/powerapps-manage-environment.PNG "Manage environment command")
-
-4. Change the name of the environment (for example, enter **Guides\_*anyname***), and then select **Create my database**.
-
-    ![Create my database button](media/powerapps-create-database.PNG "Create my database button")
-
-5. In the **Create a database for this environment** dialog box, select your currency and language.
-
-    ![Create a database for this environment dialog box](media/currency-language-settings.PNG "Create a database for this environment dialog box")
-
-6. Select **Create database**.
-
-    A "Provisioning database" message is shown while the database is being created and provisioned.
-
-    ![Provisioning database message](media/provisioning-database.PNG "Provisioning database message")
-
-    > [!NOTE]
-    > Database creation usually takes several minutes. If the "Provisioning database" message is still shown after five minutes, try to refresh the page.
-
-7. After you've created the database, return to the **Environments** page, and go to the [Change the maximum upload file size](#upload) procedure later in this topic.
 
 ## Set up a production environment
 
@@ -87,6 +56,38 @@ After you buy a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 
 > [!NOTE]
 > If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment that shown in the illustrations.
+
+## Set up a default environment
+
+1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the admin user credentials.
+
+2. In the left pane, select **Environments**.
+
+    ![Environments page](media/powerapps-environments.PNG "Environments page")
+
+3. Select the **More environment actions** button (**...**) next to the default instance, and then select **Manage environment**.
+
+    ![Manage environment command](media/powerapps-manage-environment.PNG "Manage environment command")
+
+4. Change the name of the environment (for example, enter **Guides\_*anyname***), and then select **Create my database**.
+
+    ![Create my database button](media/powerapps-create-database.PNG "Create my database button")
+
+5. In the **Create a database for this environment** dialog box, select your currency and language.
+
+    ![Create a database for this environment dialog box](media/currency-language-settings.PNG "Create a database for this environment dialog box")
+
+6. Select **Create database**.
+
+    A "Provisioning database" message is shown while the database is being created and provisioned.
+
+    ![Provisioning database message](media/provisioning-database.PNG "Provisioning database message")
+
+    > [!NOTE]
+    > Database creation usually takes several minutes. If the "Provisioning database" message is still shown after five minutes, try to refresh the page.
+
+7. After you've created the database, return to the **Environments** page, and go to the [Change the maximum upload file size](#upload) procedure later in this topic.
+
 
 ## Change the maximum upload file size<a name="upload"></a>
 
