@@ -9,7 +9,7 @@ title: Anchor a guide in the Dynamics 365 Guides HoloLens app as an operator
 ms.reviewer: v-brycho
 ---
 
-# Anchor a guide in the Dynamics 365 Guides HoloLens app (operators)
+# Anchor a guide in the Dynamics 365 Guides HoloLens app (for operators)
 
 The first thing you see when you open a guide is the anchoring instructions for the guide. For example, if the guide is anchored with a QR code, you'll see the following screen.
 
