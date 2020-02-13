@@ -17,7 +17,7 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 
 1. Put on your HoloLens, and stand about two feet in front of the QR code anchor.
 
-2. On the **Scan QR Code Anchor** page, select **Initiate Scan**.
+2. In the **Scan QR Code Anchor** page, select **Initiate Scan**.
 
     ![Initiate Scan button on the Scan QR Code Anchor page](media/qr-code-scan.PNG "Initiate Scan button on the Scan QR Code Anchor page")
     
@@ -33,7 +33,7 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 
 1. Put on your HoloLens, and stand about two feet in front of the circular code anchor.
 
-2. On the **Scan Circular Code Anchor** page, select **Initiate Scan**.
+2. In the **Scan Circular Code Anchor** page, select **Initiate Scan**.
 
     ![Initiate Scan button on the Scan Circular Code Anchor page](media/circular-code-scan.PNG "Initiate Scan button on the Scan Circular Code Anchor page")
 
