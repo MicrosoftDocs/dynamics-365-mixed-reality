@@ -15,7 +15,19 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 
 ## Anchor a guide by using a QR code anchor
 
-ADD TEXT HERE
+1. Put on your HoloLens, and stand about two feet in front of the QR code anchor.
+
+2. On the **Scan QR Code Anchor** page, select **Initiate Scan**.
+
+    ![Initiate Scan button on the Scan QR Code Anchor page](media/qr-code-scan.PNG "Initiate Scan button on the Scan QR Code Anchor page")
+    
+3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the QR code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
+
+    ![Aligning with the marker](media/qr-code-align-marker.PNG "Aligning with the marker")
+
+    When the guide is correctly aligned, the **QR Code Anchor Found** page appears.
+
+    ![QR Code Anchor Found page](media/qr-code-anchor-found.PNG "QR Code Anchor Found page")
 
 ## Anchor a guide by using a circular code anchor
 
