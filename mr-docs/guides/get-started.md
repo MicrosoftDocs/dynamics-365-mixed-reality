@@ -31,9 +31,9 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - Anchor your guide in the real world:
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a printed anchor](https://www.youtube.com/watch?v=m_I-viB3np8&feature=youtu.be)
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://www.youtube.com/watch?v=m_I-viB3np8&feature=youtu.be)
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a digital anchor](https://www.youtube.com/watch?v=LNQ3W-p7_sU&feature=youtu.be)
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://www.youtube.com/watch?v=LNQ3W-p7_sU&feature=youtu.be)
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app](https://www.youtube.com/watch?v=HXG8zWOYqlk&feature=youtu.be)
 
