@@ -50,7 +50,7 @@ This article provides step-by-step instructions for each type of anchor.
 
 1. Look for a circular code anchor that's attached to a physical object in your real-world environment. The circular code anchor will resemble this illustration.
 
-    ![Circular code anchor](media/printed-marker.PNG "Circular code anchor")
+    ![Circular code anchor](media/circular-code-example.PNG "Circular code anchor")
 
 2. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the circular code anchor. Find the circular code anchor in your real-world environment, and then align the anchor hologram with the circular code anchor.
 
