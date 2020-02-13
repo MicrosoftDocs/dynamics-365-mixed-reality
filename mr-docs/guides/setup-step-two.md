@@ -86,7 +86,7 @@ After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
     > [!NOTE]
     > Database creation usually takes several minutes. If the "Provisioning database" message is still shown after five minutes, try to refresh the page.
 
-7. After you've created the database, return to the **Environments** page, and go to the next procedure: [Change the maximum upload file size](#upload).
+7. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
 
 
 ## Change the maximum upload file size<a name="upload"></a>
