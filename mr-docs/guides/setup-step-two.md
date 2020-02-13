@@ -52,10 +52,10 @@ After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 
     ![Environment preparation message](media/environment-message.PNG "Environment preparation message")
 
-4. After the new environment is active (that is, when **Ready** appears in the **State** field for the environment), go to the next procedure to change the maximum file size for uploaded files.
+4. After the new environment is active (that is, when **Ready** appears in the **State** field for the environment), go to [Change the maximum upload file size](#upload).
 
 > [!NOTE]
-> If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment that shown in the illustrations.
+> If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment shown in the illustrations.
 
 ## Set up a default environment
 
@@ -86,7 +86,7 @@ After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
     > [!NOTE]
     > Database creation usually takes several minutes. If the "Provisioning database" message is still shown after five minutes, try to refresh the page.
 
-7. After you've created the database, return to the **Environments** page, and go to the [Change the maximum upload file size](#upload) procedure later in this topic.
+7. After you've created the database, return to the **Environments** page, and go to the next procedure: [Change the maximum upload file size](#upload).
 
 
 ## Change the maximum upload file size<a name="upload"></a>
