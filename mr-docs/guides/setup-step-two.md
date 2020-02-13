@@ -14,14 +14,14 @@ ms.reviewer: v-brycho
 > [!NOTE]
 > Before you complete this step of the setup process, be sure to see step 1, [Buy a subscription or sign up for a free trial](setup-step-one.md).
 
-After you buy a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assign licenses, you must create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment that you create depends on whether you're creating a trial environment or a production environment. If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], set up a production environment. A production environment provides backup and restore capabilities.
+After you buy a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assign licenses, you must create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment that you create depends on whether you have purchased a Dynamics 365 Guides license or not. If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], set up a production environment. A production environment provides you with backup and restore capabilities. If you haven't purchased a license yet, set up a default environment.
 
 > [!NOTE]
 > If you already have an environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), you can skip ahead to the [Change the maximum upload file size](#upload) procedure later in this topic.
 
-## Set up a trial environment
+## Set up a default environment
 
-1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the admin user credentials for the trial.
+1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the admin user credentials.
 
 2. In the left pane, select **Environments**.
 
@@ -86,7 +86,7 @@ After you buy a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 4. After the new environment is active (that is, when **Ready** appears in the **State** field for the environment), go to the next procedure to change the maximum file size for uploaded files.
 
 > [!NOTE]
-> If you set up a production environment instead of a trial environment, in the remaining procedures in this topic, use the production environment instead of the default environment that shown in the illustrations.
+> If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment that shown in the illustrations.
 
 ## Change the maximum upload file size<a name="upload"></a>
 
