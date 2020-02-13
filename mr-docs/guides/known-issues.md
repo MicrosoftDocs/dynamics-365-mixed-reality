@@ -2,7 +2,7 @@
 author: BryceHo
 description: Known Issues with Dynamics 365 Guides
 ms.author: makamat
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Known Issues with Dynamics 365 Guides
@@ -56,45 +56,43 @@ We do not support multiple files with the same name in the current release. When
 
 The app currently looks up media by file names. So, for example, if you have a picture.jpg file and a picture.png, the app doesn't know which file to show for the step. So it's best to always use unique file names for media files you upload.
 
-## How do I address hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for printed anchor alignment
+## How do I address hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for circular code anchor alignment
  
-The angle of each [!include[pn-hololens](../includes/pn-hololens.md)] 1 PV camera (the camera placed above the nose bridge) can be slightly different across devices due to manufacturing idiosyncrasies. Since the PV camera is used to scan the printed marker, this means holograms can appear slightly misaligned when using the same guide and same printed marker on multiple devices.
+The angle of each [!include[pn-hololens](../includes/pn-hololens.md)] 1 PV camera (the camera placed above the nose bridge) can be slightly different across devices due to manufacturing idiosyncrasies. Since the PV camera is used to scan the printed marker, this means holograms can appear slightly misaligned when using the same guide and same circular code anchor on multiple devices.
  
 To fix this issue, the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app provides the ability to manually adjust for this offset and save the settings to the device so that each user does not need to set the offset each time. We recommend that IT staff go through the following steps before provisioning devices to [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] authors or operators. This is a one-time setup and does not need to be repeated unless the app is uninstalled or a new operating system is installed.
  
-### Step 1 – Set up printed anchor
+### Step 1 – Set up circular code anchor
 
 #### On the PC
 
-1.	Create a printed marker using the specifications described in [Author in the PC application](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-authoring#choose-an-alignment-method).
-
-2.	Open the authoring app on the PC, and then create a guide using the printed anchor method (or you can use an existing guide that uses a printed anchor).
+- Open the PC app, and then create a guide [using the circular code anchor method](anchor.md) (or you can use an existing guide that already uses the circular code anchoring method).
 
 #### On HoloLens
 
-- Run the [!include[pn-hololens](../includes/pn-hololens.md)] Calibration app for yourself to ensure proper fit and IPD.
+- Run the [!include[pn-hololens](../includes/pn-hololens.md)] Calibration app to ensure proper fit and IPD.
  
 ### Step 2 – Open the guide and align it on HoloLens
 
-1.	On [!include[pn-hololens](../includes/pn-hololens.md)], open the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app, select **Operator** or **Author** mode, and then open the guide used in step 1.
+1.	Open the HoloLens app, select **Operator** or **Author** mode, and then open the guide used in step 1.
 
 2.	Select **Scan** to begin the alignment process. Accept the permissions prompts that appear. 
 
-3. Look for your printed marker, allow the device to find the marker, and wait for the blue outline animation. The blue outline shows where the printed marker is located, as calculated by [!include[pn-hololens](../includes/pn-hololens.md)].
+3. Look for your circular code anchor, allow the device to find the anchor, and wait for the blue outline animation. The blue outline shows where the circular code anchor is located, as calculated by [!include[pn-hololens](../includes/pn-hololens.md)].
 
 ### Step 3 – Adjust the offset
 
-The blue outline is the same size as the marker. You can move it up or down along the rails positioned at its corners. Look at the printed marker from above. Is the blue outline too far to the left or right of the printed marker? If so, try adjusting the [!include[pn-hololens](../includes/pn-hololens.md)] device to make sure it fits correctly on your head.
+The blue outline is the same size as the anchor. You can move it up or down along the rails positioned at its corners. Look at the anchor from above. Is the blue outline too far to the left or right of the anchor? If so, try adjusting [!include[pn-hololens](../includes/pn-hololens.md)] to make sure it fits correctly on your head.
 
-Tap and hold the blue outline and move it up or down until it overlaps with the marker exactly. Make sure that the outline is exactly aligned by looking at the marker from the side. 
+Tap and hold the blue outline and move it up or down until it overlaps with the anchor exactly. Make sure that the outline is exactly aligned by looking at the anchor from the side. 
  
 The media panel shows the following image to visually indicate what you need to do.
 
 ![Adjust printed marker offset](media/adjust-marker-offset.png "Adjust printed marker offset")  
 
-After you have verified that the blue outline and the printed marker are lined up, select **Confirm** to complete the process. 
+After you have verified that the blue outline and the anchor are lined up, select **Confirm** to complete the process. 
 
-The next time this device is used to load a guide, the operator/author can just scan the marker; they won't have to adjust the blue outline again.
+The next time this device is used to load a guide, the operator/author can just scan the anchor; they won't have to adjust the blue outline again.
 
 If, at any point, you need to readjust this setting, you can trigger the offset adjustment process again by selecting the **Adjust Offset** setting. When you turn this setting on, it triggers the normal alignment process, beginning with the scanning of the printed marker.
 
@@ -165,9 +163,9 @@ If you see any of the following errors, contact your IT admin, or see the self-s
 
 When you get to the screen where you can select between different saved accounts on [!include[pn-hololens](../includes/pn-hololens.md)], choose an option within 25 seconds. After 25 seconds it will become unresponsive, and you will need to restart the app. This bug has been fixed on RS5, but still exists on RS4 if you have that installed.
 
-#### Printed anchor method requires user's consent to use the camera
+#### Circular code anchor method requires user's consent to use the camera
 
-When the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on [!include[pn-hololens](../includes/pn-hololens.md)] is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use printed anchors in your guides, you will need to say **Yes** to this prompt. This is required for every device you use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on. If this consent was not provided previously, you can go to the **Settings** menu on the [!include[pn-hololens](../includes/pn-hololens.md)] (operating system) and provide consent to the app. 
+When the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on [!include[pn-hololens](../includes/pn-hololens.md)] is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use circular code anchors in your guides, you will need to say **Yes** to this prompt. This is required for every device you use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on. If this consent was not provided previously, you can go to the **Settings** menu on the [!include[pn-hololens](../includes/pn-hololens.md)] (operating system) and provide consent to the app. 
 
 #### "Create account" link when signing in with a new account doesn't work
 
