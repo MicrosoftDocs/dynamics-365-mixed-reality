@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app, and learn how to place holograms, add styles, and more.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
@@ -58,7 +58,7 @@ You can add dotted lines (*tethers*) to link your Step cards to the areas where 
 
 ![Holographic dotted line](media/tether-example.png "Holographic dotted line")
 
-To place a dotted line, follow these steps.
+### Add a dotted line
 
 1. Tap and hold the gem below the Step card.
 
@@ -68,6 +68,12 @@ To place a dotted line, follow these steps.
 
     > [!TIP]
     > Placement isn't exact. Therefore, if you're connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (for example, a number) at the end of the dotted line.
+    
+### Remove a dotted line
+
+- Select the "X" where the dotted line originates. This restores the gem to the bottom of the Step card.
+
+    ![Remove dotted line animation](media/remove-dotted-line.gif "Remove dotted line animation")
 
 ## Place your holograms
 
