@@ -17,7 +17,7 @@ The first thing you see when you open a guide in Microsoft Dynamics 365 Guides i
 
 Like the calibration of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], anchoring a guide is a crucial step. You anchor a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don't line up, you'll likely be confused when you try to do a task. You could even cause damage. For example, you might drill a hole in the wrong place.
 
-## Different types of anchors
+## Three types of anchors
 
 There are three types of anchors: 
 
