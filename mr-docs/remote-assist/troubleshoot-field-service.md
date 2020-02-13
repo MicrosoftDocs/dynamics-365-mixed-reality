@@ -28,8 +28,13 @@ search.app:
 
 # Integrate Dynamics 365 Remote Assist with Field Service  
 
+use podcast for introduction: https://msit.microsoftstream.com/video/11b57eda-89d6-425b-bb97-3f41d8c6fac7
 
-In this article we will explore how a field technician can use the Remote Assist Mobile app to make a call to an expert for help to complete a work order. 
+- deeplink
+- see relevant work order information
+- post call information to work order timeline
+
+In this article we will explore how a field technician can use the Remote Assist Mobile app to make a call to an expert for help to complete a work order. This article will also explore considerations for field technicians that use Remote Assist on a HoloLens.
 
 > [!Note]
 >
