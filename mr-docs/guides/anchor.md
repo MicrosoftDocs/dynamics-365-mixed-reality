@@ -13,6 +13,8 @@ ms.reviewer: v-brycho
 
 When you create a guide with the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, one of the first steps is to choose an anchoring method. When you anchor a guide, you synchronize it spatially with your real-world environment (for example, a factory floor). Anchoring is how holograms know where they are in the real world. You must create an anchor for your guide for it to work on [!include[pn-hololens](../includes/pn-hololens.md)].
 
+![Worker attaching QR code anchor to machine](media/anchor-overview.PNG "Worker attaching QR code anchor to machine")
+
 It's crucial to ensure that your guide alignment is correct and as precise as possible. If the guide is misaligned, your instructions may show actions at incorrect locations, which can result in operator confusion or damage to parts.
 
 ## Three ways to anchor a guide
