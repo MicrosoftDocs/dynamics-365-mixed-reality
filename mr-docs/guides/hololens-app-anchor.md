@@ -35,7 +35,7 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 
 2. On the **Scan Circular Code Anchor** page, select **Initiate Scan**.
 
-    ![Initiate Scan button on the Scan Circular Code Anchor page](media/scan-circular-code-anchor.PNG "Initiate Scan button on the Scan Circular Code Anchor page")
+    ![Initiate Scan button on the Scan Circular Code Anchor page](media/circular-code-scan.PNG "Initiate Scan button on the Scan Circular Code Anchor page")
 
     On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a holographic image that looks like the following illustration.
 
@@ -47,7 +47,7 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 
     When the guide is correctly aligned, the **Circular Code Anchor Found** page appears.
 
-    ![Circular Code Anchor Found page](media/circular-code-anchor-found.PNG "Circular Code Anchor Found page")
+    ![Circular Code Anchor Found page](media/circular-code-confirm.PNG "Circular Code Anchor Found page")
 
 ## Anchor a guide by using a holographic anchor
 
