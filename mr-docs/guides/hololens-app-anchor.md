@@ -25,7 +25,7 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 
     ![Aligning with the marker](media/qr-code-align-marker.PNG "Aligning with the marker")
 
-    When the guide is correctly aligned, the **QR Code Anchor Found** page appears.
+4. In the **QR Code Anchor Found** page, select **Confirm**.
 
     ![QR Code Anchor Found page](media/qr-code-confirm.PNG "QR Code Anchor Found page")
 
