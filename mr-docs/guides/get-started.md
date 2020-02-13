@@ -93,6 +93,8 @@ To learn when features were introduced, or to learn about upcoming features, see
 
 - [2019 Wave 2 (October 2019 through March 2020)](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/index)
 
+- [2020 Wave 1 (April 2020 through September 2020)](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)
+
 ## Integrations
 
 You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service, so that field service technicians can use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to complete their work orders.
