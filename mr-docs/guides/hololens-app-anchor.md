@@ -45,7 +45,7 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 
     ![Aligning with the marker](media/align-marker.PNG "Aligning with the marker")
 
-    When the guide is correctly aligned, the **Circular Code Anchor Found** page appears. Select **Confirm**.
+4. In the **Circular Code Anchor Found** page, select **Confirm**.
 
     ![Circular Code Anchor Found page](media/circular-code-confirm.PNG "Circular Code Anchor Found page")
 
