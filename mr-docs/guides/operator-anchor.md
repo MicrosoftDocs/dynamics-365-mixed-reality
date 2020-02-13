@@ -35,7 +35,7 @@ How you anchor your guide depends on the type of anchor the author chose for the
 
     ![QR code anchor](media/qr-code-example.PNG "QR code anchor")
 
-2. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the QR code anchor. Find the  anchor in your real-world environment, and then align the anchor hologram with the QR code anchor.
+2. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the QR code anchor. Align the anchor hologram with the QR code anchor.
 
 3. When the green box is aligned with the QR code anchor, gaze at **Confirm** to select it.
 
