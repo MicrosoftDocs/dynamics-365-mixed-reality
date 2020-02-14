@@ -6,20 +6,7 @@
 ### [Buy + assign Remote Assist licenses](buy-remote-assist.md)
 ### [Get ready to deploy Remote Assist](deploy-remote-assist.md)
 ### [Configure 3rd-party calling](cross-company-calling.md)
-## Remote Assist on Hololens 1
-### [Overview](user-guide.md)
-### [Launch Remote Assist](launch-hololens-1.md)
-### [Make + take calls](making-taking-calls-hololens-1.md)
-### [Join a meeting](join-meeting-hololens-1.md)
-### [Add annotations](add-annotations-hololens-1.md)
-### [Share files](share-files-hololens-1.md)
-### [Take a snapshot](take-snapshot-hololens-1.md)
-### [Record calls](record-calls-hololens-1.md)
-### [Send texts + voice messages](send-texts-voice-messages-hololens-1.md)
-### [Get help in another HoloLens app](get-help-holoLens-app-hololens-1.md)
-### [Update a Dynamics 365 Field Service work order](update-field-service-work-order-hololens-1.md)
-### [Use HoloLens voice commands](voice-commands-hololens-1.md)
-## Remote Assist on Hololens 2
+## Remote Assist on Hololens
 ### [Overview](overview-hololens-2.md)
 ### [Launch Remote Assist](launch-hololens-2.md)
 ### [Make + take calls](making-taking-calls-hololens-2.md)
