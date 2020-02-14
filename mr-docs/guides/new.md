@@ -16,6 +16,20 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!IMPORTANT]
 > On **April 1, 2020**, Microsoft will release a **mandatory** update to the Dynamics 365 Guides solution that will change how data is stored in Common Data Service. Specifically, the apps will be upgraded so that they store data in Common Data Service entities instead of in a single JavaScript Object Notation (JSON) file. Your existing guides will be migrated to the new entity structure and will continue to work as you expect. On April 1, you must update the PC app, HoloLens app, and Common Data Service solution to continue to use Dynamics 365 Guides. Work with your admin to update the solution and apps.
 
+## February 25, 2020
+
+The February 25 update (app versions XXX and solution version XXX) includes the following new features:
+
+- **Anchor your guides by using QR codes.** You can print QR codes in various sizes and embed links in QR codes to specific guides or steps. Use your own QR code or use a QR code available through the Anchor wizard.
+
+- **Copy links to a guide or step.** Share the link with a team member, make the link available from another app, or embed it in a QR code so the operator can open a guide or step directly from HoloLens.
+
+- **Open an app created in Power Apps from a step.** Add a Power Apps link to a step to create a seamless workflow. For example, who IoT data, add a quiz, or provide access to data entry forms.
+
+- **Deactivate or delete guides.** Authors can now deactivate guides that are no longer needed. Admins can activate, deactivate, or delete guides.
+
+- **Retract dotted lines.** If an operator doesn't want to see a dotted line, they can quickly retract it.
+
 ## January 28, 2020
 
 The January 28 update (app versions 303.2001.21001 and solution version 300.0.3.137) includes the following new features:
