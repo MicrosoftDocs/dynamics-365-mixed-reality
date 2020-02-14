@@ -16,8 +16,8 @@ When you first install Dynamics 365 Guides, the app asks for permission to use t
 
 ![Permission message](media/microphone-permission-1.PNG "Permission message")
 
-Voice commands won't work unless you provide this permission. If you didn't provide this permission when you installed the app, you 
-can change them in **Settings** > **Privacy** >, **Microphone**.
+Voice commands won't work unless you provide this permission. If you didn't do this when you installed the app, you 
+can provide permission through **Settings** > **Privacy** > **Microphone**.
 
 ![Settings command](media/microphone-permission-2.PNG "Settings command")
 
