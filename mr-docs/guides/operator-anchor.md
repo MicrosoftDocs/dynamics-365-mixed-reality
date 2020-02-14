@@ -62,7 +62,7 @@ This article provides step-by-step instructions for each type of anchor.
 
     ![QR code scan](media/circular-code-scan.PNG "QR code scan")
 
-4. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the circular code anchor. Find the circular code anchor in your real-world environment, and then align the anchor hologram with the circular code anchor. When the green box is aligned, gaze at **Confirm** to select it.
+4. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the circular code anchor. Align the anchor hologram with the circular code anchor. When the green box is aligned, gaze at **Confirm** to select it.
 
     ![Holographic marker](media/circular-code-green-outline.PNG "Holographic marker")
 
