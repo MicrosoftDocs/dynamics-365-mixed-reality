@@ -84,6 +84,8 @@ Next, verify you can log into the Remote Assist mobile app with the same user.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-ram-signin-ALL.png)
+
+After signing in, ensure you enable the Dyanmics 365 integration. Select **Enable** from the popup or simply go to Settings.
    
 
 ## Set up expert user
@@ -98,11 +100,11 @@ As a different user that you have identified as an expert, verify you can sign i
 
 ## Create and schedule work orders
 
-
+Next create and schedule a work order to the bookable resource that represents the technician also known as the front line worker who travels to customer locations to complete work orders.
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-work-order-support-contact.png)
 
-
+In our example, Abraham McCormick is the bookable resource and we scheduled work orders to him with Resource Scheduling Optimization.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-work-order-schedule.png)
@@ -110,6 +112,7 @@ As a different user that you have identified as an expert, verify you can sign i
 
 ## View work orders on Field Service Mobile
 
+Just like any typical day, the resource logs in to Field Service Mobile and sees his or her assigned work orders for that day.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-mobile.png)
@@ -117,7 +120,8 @@ As a different user that you have identified as an expert, verify you can sign i
 
 - On Mobile, when you deeplink, the contact will be auto selected to call
 
-deeplink is currently on android only
+> [!Note]
+> The deep link from Field Service Mobile to Remote Assist Mobile is currently available on Android only. Technicians using iOS devices will maually open Remote Assist Mobile.
 
 
 
