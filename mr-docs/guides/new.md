@@ -24,7 +24,7 @@ The February 25 update (app versions XXX and solution version XXX) includes the 
 
 - **Copy a link to a guide or step.** Share the link with a team member, make the link available from another app, or embed it in a QR code so the operator can open a guide or step directly from HoloLens.
 
-- **Open an app created in Power Apps from a step.** Add a Power Apps link to a step to create a seamless workflow. For example, who IoT data, add a quiz, or provide access to data entry forms.
+- **Open an app created in Power Apps from a step.** Add a Power Apps link to a step to create a seamless workflow. For example, display IoT data, add a quiz, or provide access to data-entry forms.
 
 - **Deactivate or delete guides.** Authors can now deactivate guides that are no longer needed. Admins can activate, deactivate, or delete guides.
 
