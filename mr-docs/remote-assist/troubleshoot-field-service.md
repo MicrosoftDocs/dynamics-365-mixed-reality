@@ -100,11 +100,12 @@ As a different user that you have identified as an expert, verify you can sign i
 
 ## Create and schedule work orders
 
-Next create and schedule a work order to the bookable resource that represents the technician also known as the front line worker who travels to customer locations to complete work orders.
+Next create a work order to outline the onsite work the technician or front line worker needs to perform, typically an installation or repair of an equipment or system. Enter a recommended expert in the **Support Contact** field that could be called via Remote Assist for support. Technicians will nto be limited to only calling this contact.
+
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-work-order-support-contact.png)
 
-In our example, Abraham McCormick is the bookable resource and we scheduled work orders to him with Resource Scheduling Optimization.
+Then schedule the work order to the bookable resource that represents the technician also known as the front line worker who travels to customer locations to complete work orders. In our example, Abraham McCormick is the bookable resource and we scheduled work orders to him with Resource Scheduling Optimization.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-work-order-schedule.png)
@@ -112,22 +113,18 @@ In our example, Abraham McCormick is the bookable resource and we scheduled work
 
 ## View work orders on Field Service Mobile
 
-Just like any typical day, the resource logs in to Field Service Mobile and sees his or her assigned work orders for that day.
+Just like any typical day, the technician logs in to Field Service Mobile and sees his or her assigned work orders for that day. If he or she feels they need the guidance of an expert who better knows the product, service, equipment, account that is being serviced, they can open the Remote Assist app from the work order.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-mobile.png)
-
-
-- On Mobile, when you deeplink, the contact will be auto selected to call
 
 > [!Note]
 > The deep link from Field Service Mobile to Remote Assist Mobile is currently available on Android only. Technicians using iOS devices will maually open Remote Assist Mobile.
 
 
-
-
 ## Make a Remote Assist call
 
+The Support contact will be auto selected to call
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-launch-call.png)
