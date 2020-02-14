@@ -44,7 +44,13 @@ The following table lists the voice commands you can use on HoloLens 2.
 |Scroll down the list|Scroll down|Guides List/Task List||
 |Close the window|Close window|Profile/Settings/Task List||
 
+## What's next?
 
+[Calibrate your HoloLens](operator-calibrate.md)<br>
+[Install the app and sign in](install-sign-in-operator.md)<br>
+[Gestures for navigating the app](operator-gestures.md)<br>
+[Anchor your guide](operator-anchor.md)<br>
+[Operate a guide](operator-orientation.md)
 
 
 
