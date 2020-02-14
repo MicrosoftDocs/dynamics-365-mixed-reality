@@ -145,13 +145,18 @@ From Teams the expert can make annotations as well. this makes it a shared mixed
 
 ## Post Remote Assist Call to work order
 
+After gaining the necessary gudiance from the expert, the technician will end the call and be given the option to post the call as an activity to the work order time line.
+
+Technicians can choose from a list of bookings they are scheduled for on the day of the call, which matches the Agenda view in Field Service Mobile.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-call-post-to-work-order-choose-BOTH.png)
 
-
+Back on the work order, the dispacther can see a Remote Assist call took place.
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-call-metadata-timeline.png)
+
+Documeting the remote assist call on the work order is important because it lets managers know which types of issues are requiring extra help and can build training programs to accommodate.
 
 ## View bookings on HoloLens
 
