@@ -25,9 +25,9 @@ ADD SCREEN SHOT HERE
 
 The following table lists the voice commands you can use on HoloLens 2.
 
-|On screen|Voice command|Action|Notes
+|To do this|Say this|On screen|Notes
 |---------------------|---------------------------|-------------------------------------------|--------------------------------------|
-|Select Mode|Operate|Selects **Operate** mode||
+|Select **Operate** mode|Operate|Select Mode||
 
 
 
