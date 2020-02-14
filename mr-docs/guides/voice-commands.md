@@ -31,6 +31,10 @@ The following table lists the voice commands you can use on HoloLens 2.
 |Select **Author** mode|Author|Select Mode||
 |Go to the next step|Next step|Step Card||
 |Go to the previous step|Go back|Step Card||
+|Turn off visibility of 3D parts|Hide 3D parts|Step Card|Requires visible 3D parts to be placed in a step|
+|Turn on visibility of 3D parts|Show 3D parts|Step Card|Requires that the 3D parts in the step be hidden|
+|Go to your profile|Go to profile|Step Card||
+
 
 
 
