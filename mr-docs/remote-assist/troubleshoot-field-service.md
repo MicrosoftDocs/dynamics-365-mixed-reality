@@ -87,16 +87,14 @@ Next, verify you can log into the Remote Assist mobile app with the same user.
    
 
 ## Set up expert user
-	- Log in to teams
 
+As a different user that you have identified as an expert, verify you can sign in to Microsoft Teams. This user does not need a Field Service or Remote Assist license.
    
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-teams-signin.png)
 
-
-   not in web browser
-
-   this user does not need a remote assist license
+> [!Note]
+> The expert must log in to the Microsoft Teams client app on his or her PC or mobile device. Teams on web is not supported.
 
 ## Create and schedule work orders
 
