@@ -41,13 +41,11 @@ This article provides step-by-step instructions for each type of anchor.
 
     ![QR code scan](media/qr-code-scan.PNG "QR code scan")
 
-3. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the QR code anchor. Align the anchor hologram with the QR code anchor.
-
-4. When the green box is aligned with the QR code anchor, gaze at **Confirm** to select it.
+3. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the QR code anchor. Align the anchor hologram with the QR code anchor. When the green box is aligned with the QR code anchor, gaze at **Confirm** to select it.
 
     ![QR code alignment](media/qr-code-green-outline.PNG "QR code alignment")
 
-5. In the **QR Code Anchor Found** page, select **Confirm**.
+4. In the **QR Code Anchor Found** page, select **Confirm**.
 
     ![QR Code Anchor Found page](media/qr-code-confirm.PNG "QR Code Anchor Found page")
 
