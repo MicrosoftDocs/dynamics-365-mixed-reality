@@ -83,7 +83,7 @@ The following table lists the formats supported for 3D content, images, and vide
 
 |Media|Supported formats|Best practice|
 |----------|----------------------|-------------------------------------------------------------------------|
-|3D content|glTF, GLB, and FBX|Make sure to optimize your 3D models as much as possible to maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)].|
+|3D content|glTF, GLB, FBX, STL, PLY|Make sure to optimize your 3D models as much as possible to maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)].|
 |Images|PNG, JPG, JPEG, GIF, TIFF||
 |Videos|MP4, MOV, WMV|Make sure to keep your videos less than 2 minutes long, and focused on one step at a time.|
 
