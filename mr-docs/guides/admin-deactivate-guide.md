@@ -1,3 +1,13 @@
+---
+author: Mamaylya
+description: Learn how to activate, deactivate, or delete a guide if you're a Dynamics 365 Guides administrator
+ms.author: mamaylya
+ms.date: 02/25/2020
+ms.service: crm-online
+ms.topic: article
+title: Activate, deactivate, or delete a guide in Dynamics 365 Guides (for admins)
+ms.reviewer: v-brycho
+---
 
 # Activate, deactivate, or delete a guide in Dynamics 365 Guides (admins)
 
