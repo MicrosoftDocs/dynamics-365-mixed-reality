@@ -22,7 +22,7 @@ The February 25 update (app versions XXX and solution version XXX) includes the 
 
 - **Anchor your guides by using QR codes.** Now you can use QR code anchors in addition to circular code anchors (previously known as "printed anchors") and holographic anchors (previously known as "digital anchors") to anchor your guides. You can print QR codes in various sizes and embed links in QR codes to specific guides or steps. Use your own QR code or use a QR code available through the Anchor wizard.
 
-- **Copy links to a guide or step.** Share the link with a team member, make the link available from another app, or embed it in a QR code so the operator can open a guide or step directly from HoloLens.
+- **Copy a link to a guide or step.** Share the link with a team member, make the link available from another app, or embed it in a QR code so the operator can open a guide or step directly from HoloLens.
 
 - **Open an app created in Power Apps from a step.** Add a Power Apps link to a step to create a seamless workflow. For example, who IoT data, add a quiz, or provide access to data entry forms.
 
