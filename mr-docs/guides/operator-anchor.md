@@ -31,6 +31,10 @@ This article provides step-by-step instructions for each type of anchor.
 
 ## Anchor your guide by using a QR code anchor
 
+1. When you open the guide, you'll see the **Scan QR Code Anchor** page. Select **Initiate Scan**. 
+
+    ![QR code scan](media/qr-code-scan.PNG "QR code scan")
+
 1. Look for a QR code anchor that's attached to a physical object in your real-world environment. The QR code anchor will resemble this illustration.
 
     ![QR code anchor](media/qr-code-example.PNG "QR code anchor")
