@@ -20,7 +20,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 The February 25 update (app versions XXX and solution version XXX) includes the following new features:
 
-- **Anchor your guides by using QR codes.** You can print QR codes in various sizes and embed links in QR codes to specific guides or steps. Use your own QR code or use a QR code available through the Anchor wizard.
+- **Anchor your guides by using QR codes.** Now you can use QR code anchors in addition to circular code anchors (previously known as "printed anchors") and holographic anchors (previously known as "digital anchors") to anchor your guides. You can print QR codes in various sizes and embed links in QR codes to specific guides or steps. Use your own QR code or use a QR code available through the Anchor wizard.
 
 - **Copy links to a guide or step.** Share the link with a team member, make the link available from another app, or embed it in a QR code so the operator can open a guide or step directly from HoloLens.
 
