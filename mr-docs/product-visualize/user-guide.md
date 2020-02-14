@@ -33,7 +33,7 @@ You can conduct a successful product demonstration with the Product Visualize ap
 
 ### Download models for offline work
 
-If you're going to be in a location with low internet connectivity, you can download your models and notes to be available offline. This way, you will never miss a beat with your clients, and your resources will always be at your fingertips. This feature gives you a way to always carry your catalog of products with you, without having to carry hundreds of pages of documents to every meeting, even when you can’t connect to the cloud.
+If you're going to be in a location with low internet connectivity, you can download your models and notes to be available offline. This way, you will never miss a beat with your clients, and your resources will always be at your fingertips. This feature gives you a way to always carry your catalog of products with you, without having to carry hundreds of pages of documents to every meeting, even when you can't connect to the cloud.
 
 > [!TIP]
 > Once you have completed your presentation offline, you can remove the downloaded models by selecting the blue check mark next to the product's thumbnail on the **Products** page. This will free up storage space on your device.
