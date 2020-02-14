@@ -55,14 +55,18 @@ This article provides step-by-step instructions for each type of anchor.
 1. Look for a circular code anchor that's attached to a physical object in your real-world environment. The circular code anchor will resemble this illustration.
 
     ![Circular code anchor](media/circular-code-example.PNG "Circular code anchor")
+    
+2. Put on your HoloLens and open the guide. If the guide is anchored with a circular code, you'll see the **Scan Circular Code Anchor** page.
 
-2. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the circular code anchor. Find the circular code anchor in your real-world environment, and then align the anchor hologram with the circular code anchor.
+3. In the **Scan Circular Code Anchor** page, select **Initiate Scan**. 
 
-3. When the green box is aligned with the circular code anchor, gaze at **Confirm** to select it.
+    ![QR code scan](media/circular-code-scan.PNG "QR code scan")
+
+4. On your [!include[pn-hololens](../includes/pn-hololens.md)], you'll see a hologram that resembles the circular code anchor. Find the circular code anchor in your real-world environment, and then align the anchor hologram with the circular code anchor. When the green box is aligned, gaze at **Confirm** to select it.
 
     ![Holographic marker](media/circular-code-green-outline.PNG "Holographic marker")
 
-4. In the **Circular Code Anchor Found** page, select **Confirm**.
+5. In the **Circular Code Anchor Found** page, select **Confirm**.
 
     ![Circular Code Anchor Found page](media/circular-code-confirm.PNG "Circular Code Anchor Found page")
 
