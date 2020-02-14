@@ -14,12 +14,12 @@ Japanese, Korean and Chinese. The voice commands you use are consistent with the
 
 When you first install Dynamics 365 Guides, the app asks for permission to use the microphone.
 
-SCREEN SHOT GOES HERE
+![Permission message](media/microphone-permission-1.PNG "Permission message")
 
 Voice commands won't work unless you provide this permission. If you didn't provide this permission when you installed the app, you 
 can change them in **Settings** > **Privacy** >, **Microphone**.
 
-ADD SCREEN SHOT HERE
+![Settings command](media/microphone-permission-2.PNG "Settings command")
 
 ## Voice commands
 
