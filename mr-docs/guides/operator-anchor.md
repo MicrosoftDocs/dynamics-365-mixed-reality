@@ -39,7 +39,7 @@ This article provides step-by-step instructions for each type of anchor.
 
 3. When the green box is aligned with the QR code anchor, gaze at **Confirm** to select it.
 
-    ![Holographic marker](media/align-marker.PNG "Holographic marker")
+    ![QR code alignment](media/qr-code-green-outline.PNG "QR code alignment")
 
 4. In the **QR Code Anchor Found** page, select **Confirm**.
 
