@@ -158,13 +158,35 @@ Back on the work order, the dispacther can see a Remote Assist call took place.
 
 Documeting the remote assist call on the work order is important because it lets managers know which types of issues are requiring extra help and can build training programs to accommodate.
 
-## View bookings on HoloLens
+## Set up and view Field Service bookings on HoloLens
 
-- On HoloLens it enables a tech to select the name and do an auto search on it
+If the technician is equipped with a HoloLens headset then viewing and interacting with Field Service is even better. 
+
+Technicians can:
+
+View today's bookings
 
 
 > [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-bookings-HL2.png)
+
+View the work order and the recommended support contact field (expert)
+
+> [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-bookings-HL.png)
+
+Attach images during the Remote Assist call to my work order, so future stakeholders (technicians / service managers) can see the work or problem
+
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-save-image-HL.png)
+
+Update booking statuses such as marking work as complete
+
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of ](./media/remote-assist-field-service-bookings-status-HL.png)
+
 
 
 
