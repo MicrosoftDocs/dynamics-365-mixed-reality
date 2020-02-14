@@ -28,6 +28,8 @@ The following table lists the voice commands you can use on HoloLens 2.
 |To do this|Say this|On screen|Notes
 |---------------------|---------------------------|-------------------------------------------|--------------------------------------|
 |Select **Operate** mode|Operate|Select Mode||
+|Select **Author** mode|Author|Select Mode||
+
 
 
 
