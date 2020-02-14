@@ -124,22 +124,23 @@ Just like any typical day, the technician logs in to Field Service Mobile and se
 
 ## Make a Remote Assist call
 
-The Support contact will be auto selected to call
+The Support contact will be auto selected to call if Remote Assist was opened via the deep link, otherwise the technician can search through the directory for Teams users inside or outside their organziation.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-launch-call.png)
 
 
-
+The "expert" will then receive the call like any other Teams call.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-receive-call-teams.png)
 
-
+The technician can then begin to share what he or she sees through their mobile device's camera making annotations as needed.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-call-annotation.png)
 
+From Teams the expert can make annotations as well. this makes it a shared mixed reality space between the technician (front line worker) and the expert.
 
 
 ## Post Remote Assist Call to work order
