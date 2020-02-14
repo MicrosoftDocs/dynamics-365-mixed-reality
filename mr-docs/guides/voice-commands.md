@@ -29,6 +29,9 @@ The following table lists the voice commands you can use on HoloLens 2.
 |---------------------|---------------------------|-------------------------------------------|--------------------------------------|
 |Select **Operate** mode|Operate|Select Mode||
 |Select **Author** mode|Author|Select Mode||
+|Go to the next step|Next step|Step Card||
+|Go to the previous step|Go back|Step Card||
+
 
 
 
