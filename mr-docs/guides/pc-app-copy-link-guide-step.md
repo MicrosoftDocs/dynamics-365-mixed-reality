@@ -1,4 +1,13 @@
-
+---
+author: Mamaylya
+description: Learn how to copy a link to a guide in Dynamics 365 Guides so you can share it with a team mate, use it in another app, or embed it in a QR code.
+ms.author: mamaylya
+ms.date: 02/25/2020
+ms.service: crm-online
+ms.topic: article
+title: Copy a link to a guide or step in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
 # Copy a link to a guide or step in Dynamics 365 Guides
 
