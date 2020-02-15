@@ -1,4 +1,13 @@
-
+---
+author: Mamaylya
+description: Learn how to deactivate a guide if you're a Dynamics 365 Guides author
+ms.author: mamaylya
+ms.date: 02/25/2020
+ms.service: crm-online
+ms.topic: article
+title: Deactivate a guide in Dynamics 365 Guides (for authors)
+ms.reviewer: v-brycho
+---
 
 # Deactivate a guide if you're a Dynamics 365 Guides author
 
