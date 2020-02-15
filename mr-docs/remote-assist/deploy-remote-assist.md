@@ -59,6 +59,7 @@ After you have acquired a 30-day Dynamics 365 Remote Assist trial license, Dynam
 ## Prerequisites for deploying Dynamics 365 Remote Assist on your device (for individuals in an organization)
 - The IT Admin of your organization must add you as a user and assign you the 30-day Dynamics 365 Remote Assist trial license, Dynamics 365 Remote Assist subscription, or Dynamics 365 Remote Assist Attach subscription **and** Microsoft Teams license in the Microsoft 365 or Office 365 administrator portal, instructions are above. 
 - A [Microsoft Teams account](https://teams.microsoft.com/start). Learn how to set up your Microsoft Teams account [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist). 
+- - Azure Active Directory [Premium Trial](https://azure.microsoft.com/en-us/trial/get-started-active-directory/) (for HoloLens users only)
 - A HoloLens 1, HoloLens 2, or mobile device. Licensing and Product requirements can be found [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements).
 
 ## Deploying Dynamics 365 Remote Assist on your device (for individuals in an organization)
