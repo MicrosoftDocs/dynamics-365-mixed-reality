@@ -1,14 +1,14 @@
 ---
-title: Poor network connectivity support
+title: Poor network connectivity 
 author: xonatia
-description: How the app works in environments with low bandwidth 
+description: How the app works in environments with low network conditions 
 ms.author: xolee
 ms.date: 00/00/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Low bandwidth mode 
+# Poor Network Connectivity
 
 ###
 Most of our technicians work on factory floors or remote locations without strong network connectivity. The lack of strong network connectivity inhibits our technicians from troubleshooting and resolving problems in real-time. Now, Remote Assist Mobile provides technician with the ability to discuss, diagnose, and resolve issues with remote experts even in low bandwidth scenarios.
@@ -34,20 +34,37 @@ Poor network takes into account the interaction of the three components: **bandw
 > [!NOTE]
 > Given the above known values for **Bandwidth** and **Packet Loss**, exceeding a round trip **Latency** of 800 ms will result in the a slower in-app experience. These variables are interdependent and the change in one variable can affect the other variables. 
 
-## Low bandwidth customer scenario
+## Poor network connectivity customer scenario
 
-1.	The technician launches a video call with a remote expert.
- 
-2.	In the call, Remote Assist Mobile detects that the technician's bandwidth is low. 
- 
-3.	It prompts the technician to use the snapshot tool to share images to the expert.
-  
-4.	The technician is instructed to use the snapshot tool.
-  
-5.	The technician takes a snapshot and it is shared to the expert's screen. The expert now sees a high-quality snapshot!
-  
-6.	The technician and expert can annotate simultaneously on the snapshot.
-
-7.	After sharing a snapshot, the technician can save it to the mobile phone's camera roll or discard it.
-
-8.	The technician now returns to the video call and can continue to send snapshots to the expert.
+1. The technician launches a video call with a remote expert.
+###
+![Launch Call](./media/network_1.png "Launch Call") 
+###
+2. In the call, Remote Assist Mobile **auto-detects** if the technician is experiencing poor network conditions. 
+###
+![Detection](./media/network_2.png "Detection") 
+###
+3. It prompts the technician to use the **snapshot tool** to share images to the expert.
+###
+![Share](./media/network_3.png "Share") 
+###
+4. The technician is instructed to use the **snapshot tool**.
+###
+![Tool Tip](./media/network_4.png "Tool Tip") 
+###  
+5. The technician takes a snapshot and it is shared to the expert's screen. **The expert now sees a snapshot of better quality!**
+###
+![Expert-side Snapshot](./media/network_5.png "Expert-side Snapshot") 
+### 
+6. The technician and expert can **annotate simultaneously** on the snapshot.
+###
+![Annotate](./media/network_6.png "Annotate") 
+###
+7. After sharing a snapshot, the technician can save it to the mobile device's **Photo Gallery** or **discard it**.
+###
+![Photo Gallery](./media/network_7.png "Photo Gallery") 
+###
+8. The technician now returns to the video call and can continue to send snapshots to the expert.
+###
+![Video Feed](./media/network_2.png "Video Feed") 
+###
