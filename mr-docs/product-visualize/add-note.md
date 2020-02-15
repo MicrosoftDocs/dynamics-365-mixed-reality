@@ -1,12 +1,13 @@
 ---
-author: mamithan
-description: How to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize
-ms.author: mamithan
-ms.date: 01/29/2020
+title: Add a note to your 3D model in Dynamics 365 Product Visualize.
+description: Learn how to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize.
+author: sbmjais
+ms.author: shjais
+manager: shujoshi
+ms.date: 02/17/2020
 ms.service: crm-online
 ms.topic: article
-title: Add a note to your 3D model in Dynamics 365 Product Visualize
-ms.reviewer: v-brycho
+ms.reviewer:
 ---
 
 # Add a note to a 3D model in Dynamics 365 Product Visualize
@@ -84,13 +85,22 @@ The following table shows how notes appear on the model, depending on where the 
 
 1.	After placing the model, tap **Notes** on the right side of the screen.
 
-2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button-1.png "Notes button")
 
-If you want to see a larger view of the notes, which is useful if you can't see all the text in the notes card, tap the expand arrow in the upper-right corner of the notes card or flick up. Then you can use the scroll bar in the notes card to move through the text.
+2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes. 
+    
+    If you want to see a larger view of the notes, which is useful if you can't see all the text in the notes card, tap the expand arrow in the upper-right corner of the notes card or flick up. 
+    
+    > [!div class=mx-imgBorder]
+    > ![Expand notes button](media/expand-notes-button.png "Expand notes button")
 
-> [!div class=mx-imgBorder]
-> ![Expand notes button](media/expand-notes.png "Expand notes button")
-     
+    The note is expanded and you can swipe the notes card to move through the notes.
+
+    > [!div class=mx-imgBorder]
+    > ![Expanded notes](media/expanded-notes.png "Expanded notes")
+
+    
 ## Delete a note
 
 1.	Tap **Notes** on the right side of the screen.
@@ -101,7 +111,7 @@ If you want to see a larger view of the notes, which is useful if you can't see 
 2.	Navigate to the note you want to export, and tap the **Overflow** menu in the upper-right corner of the notes card.
 
     > [!div class=mx-imgBorder]
-    > ![Navigate to the note](media/note-1.png "Navigate to the note")
+    > ![Navigate to the note](media/note.png "Navigate to the note")
 
 3.	In the **Options** dialog box, tap **Delete Note**.
 

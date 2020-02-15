@@ -1,12 +1,13 @@
 ---
-author: mamithan
-description: Open and sign in to Dynamics 365 Product Visualize
-ms.author: mamithan
+title: Open and sign in to Dynamics 365 Product Visualize.
+description: Learn how to open and sign in to Dynamics 365 Product Visualize.
+author: sbmjais
+ms.author: shjais
+manager: shujoshi
 ms.date: 02/17/2020
 ms.service: crm-online
 ms.topic: article
-title: Open and sign in to Dynamics 365 Product Visualize
-ms.reviewer: v-brycho
+ms.reviewer:
 ---
 
 # Install, open, and sign in to Dynamics 365 Product Visualize
@@ -108,11 +109,13 @@ If you have access to more than one Dynamics 365 organization, you can use this 
 
 1.	Tap the main menu ![Main menu button](media/hamburger-icon.png "Main menu button") button and then tap **Settings**.
 
-    ![Account settings menu item](media/edit-account-settings.png "Account settings menu item")
+    > [!div class=mx-imgBorder]
+    > ![Account settings menu item](media/edit-account-settings.png "Account settings menu item")
   
 2.	On the **Account Settings** screen, tap **Edit** next to the organization name you're signed in to.
 
-    ![Edit account settings](media/account-settings.png "Edit account settings")
+    > [!div class=mx-imgBorder]
+    > ![Edit account settings](media/account-settings.png "Edit account settings")
  
     > [!NOTE]
     > If you need to switch to a different username, tap **Sign out** on the previous screen, and then sign back in with a different username.
