@@ -24,6 +24,7 @@ In this topic, we’ll walk through the three ways you can get a Remote Assist t
 ## Prerequisites for a license-free 90-day trial for individuals
    - An [MSA account](https://account.microsoft.com/account?lang=en-us)
    - A [Microsoft Teams Freemium](https://products.office.com/en-us/microsoft-teams/free) account
+   - Azure Active Directory [Premium Trial](https://azure.microsoft.com/en-us/trial/get-started-active-directory/) (for HoloLens users only)
    - A HoloLens 1, HoloLens 2, or a mobile device. Licensing and Product requirements can be found [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements).
 
 ## Option 1: License-free 90-day trial for individuals
