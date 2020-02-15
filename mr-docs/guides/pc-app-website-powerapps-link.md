@@ -1,4 +1,13 @@
-
+---
+author: Mamaylya
+description: Learn how to add a webstie or Power Apps link to a step in Dynamics 365 Guides to create a seamless workflow for operators
+ms.author: mamaylya
+ms.date: 02/25/2020
+ms.service: crm-online
+ms.topic: article
+title: Add a website or Power Apps link to a step in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
 # Add a website or Power Apps link to a step in Dynamics 365 Guides
 
