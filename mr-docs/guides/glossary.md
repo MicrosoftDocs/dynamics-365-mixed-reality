@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Glossary of terms for Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Glossary of terms for Dynamics 365 Guides
