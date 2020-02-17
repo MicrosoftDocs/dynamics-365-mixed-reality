@@ -38,15 +38,18 @@ You can create layers in a flattened or nested format by using CAD model design 
    
 - To expand or collapse a layer, tap the arrow button. 
 
-    ![Expand or collapse a layer](media/expand-collapse.png "Expand or collapse a layer")
+    > [!div class=mx-imgBorder]
+    > ![Expand or collapse a layer](media/expand-collapse.png "Expand or collapse a layer")
 
 - To select all unselected layers, tap **Invert**.
- 
-    ![Invert selected layers](media/invert.png "Invert selected layers")
+
+    > [!div class=mx-imgBorder]
+    > ![Invert selected layers](media/invert.png "Invert selected layers")
 
 - To show or hide all layers, select the uppermost check box. 
- 
-    ![Show or hide all layers](media/show-hide-all.png "Show or hide all layers")
+
+    > [!div class=mx-imgBorder]
+    > ![Show or hide all layers](media/show-hide-all.png "Show or hide all layers")
 
 ### See also
 

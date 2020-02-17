@@ -21,7 +21,8 @@ To enable product dimensions:
 
 1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Preview features**.
 
-   ![Preview features](media/preview-features.PNG "Preview features")
+    > [!div class=mx-imgBorder]
+    > ![Preview features](media/preview-features.png "Preview features")
 
 2. In the **Feature Settings** screen, under **Preview features**, slide the **Product dimensions** toggle to **On**.
 
@@ -32,14 +33,15 @@ To enable product dimensions:
 
 1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then tap the **Settings** button.
 
-   ![Settings button](media/edit-account-settings.png "Settings button")
+    > [!div class=mx-imgBorder]
+    > ![Settings button](media/edit-account-settings.png "Settings button")
 
-2. Scroll down to the **Measurement Units** section and then select the measurement unit.
+2. Next to **Measurement Units**, tap **Change units**.
 
      > [!div class=mx-imgBorder]
      > ![Measurement Units section](media/measurement-units-section.png "Measurement Units")
 
-3. Tap either **Metric** or **Imperial**.
+3. On the **Measurement Units** screen, tap either **Metric** or **Imperial**.
 
     > [!div class=mx-imgBorder]
     > ![Select measurement unit](media/select-measurement-unit.png "Select measurement unit")

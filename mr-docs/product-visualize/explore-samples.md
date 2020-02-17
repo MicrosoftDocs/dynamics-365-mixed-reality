@@ -2,7 +2,7 @@
 author: mamithan
 description: How to explore sample models in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 01/29/2020
+ms.date: 02/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Explore sample 3D models in Dynamics 365 Product Visualize
@@ -24,7 +24,7 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
      > [!div class=mx-imgBorder]
      > ![Welcome screen](media/welcome.png "Welcome screen")
 
-     You can also tap the **Main** ![Main menu button](media/hamburger-icon.png "Main menu button") menu button, and then tap **Sample products** to see samples.
+     You can also tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Sample products** to see samples.
      
      > [!div class=mx-imgBorder]
      > ![Sample products menu item](media/sample-products-menu.png "Sample products menu item")
