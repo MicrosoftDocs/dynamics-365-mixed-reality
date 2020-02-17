@@ -24,7 +24,7 @@ To enable product dimensions:
     > [!div class=mx-imgBorder]
     > ![Preview features](media/preview-features.png "Preview features")
 
-2. In the **Feature Settings** screen, under **Preview features**, slide the **Product dimensions** toggle to **On**.
+2. In the **Feature Settings** screen, slide the **3D product dimensions** toggle to On.
 
     > [!div class=mx-imgBorder]
     > ![Product dimensions feature](media/product-dimensions-feature.png "Product dimensions feature")
