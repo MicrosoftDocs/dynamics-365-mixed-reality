@@ -193,7 +193,6 @@ Update booking statuses such as marking work as complete
 
 > ![Bookable Resource view](media/bookable-resource-views.PNG "Bookable Resource view")
 > [!Note]
-
 > Fields can be added to this view if necessary for your business needs.
 
 
