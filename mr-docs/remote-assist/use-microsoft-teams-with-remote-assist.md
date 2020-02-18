@@ -57,7 +57,7 @@ Then, select [icon] in the top right corner and fill in the details for a new me
 
 To join a meeting, navigate to the **Calendar** tab. You will see a list of upcoming meetings.  
 
-![Calendar tab](media/TeamsMobile_calendarTab.png "Calendar tab")
+![Calendar tab](media/TeamsMobile_CalendarTab.png "Calendar tab")
 
 Select **“Join”** to join a meeting.  
 
@@ -211,9 +211,69 @@ Your screen | Show your entire screen (within and outside the Teams app)
 
 
 
+# Features available for Teams mobile user in a one-to-one call with a Remote Assist Mobile user 
+
+## Make outgoing call
+
+Launch Teams and select **Calls**.
+
+  ![Calls tab](media/TeamsMobile_Call.png "Calls tab")
+
+Under **History**, you will see your recent contacts. Select one of the contacts to call them. 
+
+> [!NOTE]
+> A Remote Assist mobile user can only receive call if they have Remote Assist app open.
 
 
 
+## Use call controls
+![Call control](media/TeamsMobile_CallControl.png "Call control")
+
+
+Call controls are found at the bottom of the screen. 
+* [icon] Toggle **video** to control outgoing video
+*	[icon] Toggle **microphone** to control outgoing audio
+*	[icon] Select **speaker** button to control incoming audio
+
+To use additional features, select the […]. 
+Regardless of whether you’re in a 1:1 call or a meeting with a Remote Assist HoloLens user, you can use features including:
+*	**Put the call on hold**
+*	**Use dial pad**
+*	**Toggle incoming video**
+*	**Share your screen** – your screen will pop up as a video in the Remote Assist HoloLens user’s world [add link]
+*	**Start video with blur** (iOS only) is useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. 
+
+
+
+## Annotate Remote Assist user’s environment using arrows and ink   
+
+When you are in a call with a Remote Assist user, you will see their real world environment and holograms. 
+
+To add an annotation, select ![Edit](media/TeamsMobile_Edit.png "Edit")
+
+Then, you will see the **mixed reality toolbar**. 
+![MR Toolbar](media/TeamsMobile_MRToolbar.png "MRToolbar")
+* To add arrows, select **Place arrow** ![Place arrow](media/6584f4b7932378aa23f6efbf460b304c.png "Place arrow"). Then, tap where you would like to place the arrow. To control the direction of the arrow, tap, hold, and draw a circle with your finger until it is at the correct direction. Then release.
+* To add ink, select **Ink** ![Ink](media/187307e30fd713f5ae67aba854b78bc4.png "Ink") .
+* To change the arrow or ink color, select **Pick a color** ![Pick a color](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png "Pick a color") 
+* To undo the most recent annotation you added, select **Undo**.
+* To delete every annotation you’ve added, select **Erase all** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all") and then select “Delete All Notes”
+* To delete only the annotations you added since the most recent time you entered Edit mode, select **Erase** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")and then select “Clear Current Notes” It does not clear the annotations your collaborator added.
+
+When you’re done adding annotations, press [check icon] to resume the live video feed. All the annotations you and will persist even after you stopped editing. 
+
+> [!NOTE]
+> Each collaborator can only delete their own annotations.
+
+## Annotate 2D snapshot using arrows and ink
+
+Remote Assist Mobile provides technicians with the ability to take 2D snapshots of their environment and mixed reality annotations, and annotate them during a call. 2D snapshots are critical in situations where a still-image might be needed to carefully add annotations to it. These 2D snapshots can be used for reference later or work validation. These 2D snapshots can also be utilized in low bandwidth situations.
+When a Remote Assist mobile user sends a 2D snapshot and starts annotating, their video feed will become a still video feed and you can add annotations. Note that annotations are only displayed during the 2D snapshot session. When the Remote Assist mobile user exists 2D snapshot mode, annotations will be removed. 
+
+
+## Send a text message
+
+Press the [icon] to open the text chat to send text messages. Press the [icon] to open the text chat to send text messages. After the call, all participants can access the messages via the Teams chat, not Remote Assist chat.
 
 
 
