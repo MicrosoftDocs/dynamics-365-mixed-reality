@@ -53,10 +53,8 @@ Before you begin, make sure you have the following set up:
 - You must have admin access to add or update the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] tenant instance.
 - The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance must have the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] app installed, and it must include the **My In Progress Bookings** view. To make sure this view is installed, we recommend [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.2 or later. This topic describes how to make sure you have the correct version and view.
 - The tenant must have at least two user accounts, one for the **technician** (front line worker) and another for the **expert**.
-- The user accounts must have the following licenses assigned:
-  - [!include[pn-office-365](../includes/pn-office-365.md)] license that includes [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]
-  - [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]
-  - A [!include[pn-dyn-365](../includes/pn-dyn-365.md)] license that includes [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]
+  - The expert only needs a Microsoft Teams license.
+  - The technician user will need 1) a Dynamics 365 Field Service license 2) a Microsoft Teams license _and_ 3) a Dynamics 365 Remote Assist license. **Note:** A Dynamics 365 Remote Assist license includes Teams. 
 
 ## Set up technician user
 
@@ -75,15 +73,10 @@ Verify you can log into Field Service Mobile successfully with the field technic
 > ![Screenshot of ](./media/remote-assist-field-service-fsm-login.png)
 
  
-
-> [!div class="mx-imgBorder"]
-> ![Screenshot of ](./media/remote-assist-field-service-technician-license.png)
-
+Next, verify you can log into the Remote Assist mobile app with the same user. Simply find and download the Remote Assist mobile app in the Apple iOS or Google Android app stores then sign in with the same user that you logged in to Field Service Mobile with. If your technician user has a Field Service license and a Microsoft Teams license, then you can simply start a free trial of Dynamics 365 Remote Assist before buying. 
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-start-remote-assist-trial.png)
-
-Next, verify you can log into the Remote Assist mobile app with the same user.
 
 
 
