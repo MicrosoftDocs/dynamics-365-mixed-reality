@@ -78,13 +78,11 @@ Next, verify you can log into the Remote Assist mobile app with the same user. S
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-start-remote-assist-trial.png)
 
-
+After signing in, ensure you enable the Dyanmics 365 integration. Select **Enable** from the popup or simply go to Settings.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of ](./media/remote-assist-field-service-ram-signin-ALL.png)
 
-
-After signing in, ensure you enable the Dyanmics 365 integration. Select **Enable** from the popup or simply go to Settings.
 
 > [!Note]
 > The Remote Assist mobile app is available on mobile devices running iOS and Android with the related ARkit or ARcore capabilities.
