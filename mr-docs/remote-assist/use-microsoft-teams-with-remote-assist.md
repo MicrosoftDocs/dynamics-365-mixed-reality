@@ -11,9 +11,10 @@ ms.reviewer: v-brycho
 
 # Overview 
 
-Dynamics 365 Remote Assist for HoloLens 1, HoloLens 2, mobile, and tablets enables technicians to connect and collaborate with a remote collaborators who use  Microsoft Teams on PC and mobile. Using live video calling and mixed reality annotations, they can troubleshoot problems together, faster.
+Dynamics 365 Remote Assist for HoloLens 1, HoloLens 2, mobile, and tablets enables technicians to connect and collaborate with a remote collaborators who use  Microsoft Teams on PC or mobile. Using live video calling and mixed reality annotations, they can troubleshoot problems together, faster.
 
 Remote collaborators who use Teams on mobile or tablet can collaborate with Remote Assist users on-the-go. When you use Teams on mobile (Android or iOS), you can collaborate in one-to-one calls and Teams meetings with one collaborator who is using Remote Assist on HoloLens 1 or 2 (a “Remote Assist HoloLens user”). You can also collaborate with one collaborator who is using Remote Assist on mobile user (a “Remote Assist mobile user”). Learn the network requirements for a call here.
+
 However, the features you can use to collaborate differ depending on whether you are collaborating with a Remote Assist HoloLens user or Remote Assist mobile user, and whether you’re using an ad hoc one-to-one call or a Teams meeting. 
 
 **Teams mobile features when collaborating with a Remote Assist HoloLens vs Remote Assist mobile user**
@@ -36,7 +37,7 @@ Share screen | Yes | No
 
 ## Make outgoing call
 
-Launch Teams and select **Calls**.
+Launch Teams and navigate to the **Calls** tab.
 
   ![Calls tab](media/TeamsMobile_Call.png "Calls tab")
 
@@ -215,7 +216,7 @@ Your screen | Show your entire screen (within and outside the Teams app)
 
 ## Make outgoing call
 
-Launch Teams and select **Calls**.
+Launch Teams and navigate to the **Calls** tab.
 
   ![Calls tab](media/TeamsMobile_Call.png "Calls tab")
 
@@ -269,7 +270,6 @@ When you’re done adding annotations, press [check icon] to resume the live vid
 
 Remote Assist Mobile provides technicians with the ability to take 2D snapshots of their environment and mixed reality annotations, and annotate them during a call. 2D snapshots are critical in situations where a still-image might be needed to carefully add annotations to it. These 2D snapshots can be used for reference later or work validation. These 2D snapshots can also be utilized in low bandwidth situations.
 When a Remote Assist mobile user sends a 2D snapshot and starts annotating, their video feed will become a still video feed and you can add annotations. Note that annotations are only displayed during the 2D snapshot session. When the Remote Assist mobile user exists 2D snapshot mode, annotations will be removed. 
-
 
 ## Send a text message
 
