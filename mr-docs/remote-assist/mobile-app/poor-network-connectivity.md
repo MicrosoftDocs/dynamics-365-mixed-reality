@@ -1,5 +1,5 @@
 ---
-title: Poor network connectivity 
+title: Low Bandwidth
 author: xonatia
 description: How the app works in environments with low network conditions 
 ms.author: xolee
@@ -8,12 +8,12 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Poor Network Connectivity
+# Low Bandwidth Mode
 
 ###
 Most of our technicians work on factory floors or remote locations without strong network connectivity. The lack of strong network connectivity inhibits our technicians from troubleshooting and resolving problems in real-time. Now, Remote Assist Mobile provides technician with the ability to discuss, diagnose, and resolve issues with remote experts even in low bandwidth scenarios.
 
-If the bandwidth is between 128 kbps and 1.5 Mbps, the latency is higher than 1,000 ms, or the packet loss higher than 10%, it is considered poor network.
+If the bandwidth is between 150 kbps and 1.5 Mbps, the latency is higher than 1,000 ms, or the packet loss higher than 10%, it is considered poor network.
 
 This feature auto-detects if the technician is experiencing poor network conditions. If the poor netwoork requirements are met, the technician is prompted to share snapshots with the remote expert to collaborate, instead of transmitting a live video feed. Now, the expert can view and annotate images of better quality, instead of viewing a low-quality video.
 
