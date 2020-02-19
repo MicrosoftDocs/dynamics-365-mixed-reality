@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 With [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] you can bridge the gap between the real and digital worlds to complete crucial tasks faster, safer, and more efficiently, and create new ways to connect with customers and partners.
 
 >[!IMPORTANT]
->[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] is being retired. Microsoft will support the app until December 31, 2021. You won't be able to purchase new subscriptions or additional seats after April 1, 2020.
+>[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] is being retired. For more information, see [Announcing the transition of Dynamics 365 Layout](https://aka.ms/LayoutTransition).
 
 ## Assign licenses to users
 
