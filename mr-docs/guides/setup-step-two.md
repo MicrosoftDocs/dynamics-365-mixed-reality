@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Common Data Service environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 02/13/2020
+ms.date: 02/19/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -20,7 +20,7 @@ After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 
 The type of environment that you create depends on whether you purchased a Dynamics 365 Guides license or not. **If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], set up a production environment.** A production environment provides you with backup and restore capabilities. 
 
-**If you haven't purchased a license yet, set up a default environment.**
+**If you haven't purchased a license yet (you're setting up at trial), set up a default environment.**
 
 > [!NOTE]
 > If you already have an environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), you can skip ahead to the [Change the maximum upload file size](#upload) procedure later in this topic.
