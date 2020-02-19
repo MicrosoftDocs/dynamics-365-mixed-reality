@@ -18,7 +18,9 @@ After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 
 ## Production environment or default environment?
 
-The type of environment that you create depends on whether you purchased a Dynamics 365 Guides license or not. **If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], [set up a production environment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup-step-two#set-up-a-production-environment).** A production environment provides you with backup and restore capabilities. 
+The type of environment that you create depends on whether you purchased a Dynamics 365 Guides license or not. 
+
+- **If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], [set up a production environment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup-step-two#set-up-a-production-environment).** A production environment provides you with backup and restore capabilities. 
 
 **If you haven't purchased a license yet (you have a trial subscription), [set up a default environment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup-step-two#set-up-a-default-environment).**
 
