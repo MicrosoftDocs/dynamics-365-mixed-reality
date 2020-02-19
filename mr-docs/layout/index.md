@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 Bring physical designs from concept to completion with confidence. Import 3D models to experience room layouts as holograms in the physical world or in virtual reality. Share your vision with stakeholders and easily edit layouts in real-world scale, so you can make better decisions before you build.
 
 >[!IMPORTANT]
->[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] is being retired. For more information, see [Announcing the transition of Dynamics 365 Layout](https://aka.ms/LayoutTransition).
+>[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] is being discontinued as a separate application. For more information, see [Announcing the transition of Dynamics 365 Layout](https://aka.ms/LayoutTransition).
 
 [Watch a video on Dynamics 365 Layout.](https://dynamics.microsoft.com/mixed-reality/layout/)
 
