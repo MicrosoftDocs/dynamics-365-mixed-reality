@@ -15,7 +15,7 @@ Here are answers to common questions about using [!include[cc-microsoft](../incl
 
 ## Is Dynamics 365 Layout being retired?
 
-Yes, Microsoft will support the app until December 31, 2021. You won't be able to purchase new subscriptions or additional seats after April 1, 2020.
+Yes, for more information, see [Announcing the transition of Dynamics 365 Layout](https://aka.ms/LayoutTransition).
 
 ## How can I tell which version I'm using?
 
