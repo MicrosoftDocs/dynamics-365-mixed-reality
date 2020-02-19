@@ -13,9 +13,9 @@ ms.reviewer: v-brycho
 
 Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-## Is Dynamics 365 Layout being retired?
+## Is Dynamics 365 Layout being discontinued as a separate application?
 
-Yes, for more information, see [Announcing the transition of Dynamics 365 Layout](https://aka.ms/LayoutTransition).
+Yes. For more information, see [Announcing the transition of Dynamics 365 Layout](https://aka.ms/LayoutTransition).
 
 ## How can I tell which version I'm using?
 
