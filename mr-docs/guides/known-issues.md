@@ -136,8 +136,8 @@ The PC app shows notifications (in the top title bar) if there are any errors du
 |Media|Supported formats|
 |--------------|--------------------------------------------|
 |3D content|FBX, GLB, glTF, STL, PLY|
-|Images|PNG, JPG, JPEG, BMP, GIF, TIF|
-|Videos|MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV|
+|Image|PNG, JPG, JPEG, BMP, GIF, TIF|
+|Video and audio|MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV|
 
 If you still can't find your content, contact your administrator.
 
