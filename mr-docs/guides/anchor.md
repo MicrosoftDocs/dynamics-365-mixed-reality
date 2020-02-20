@@ -171,7 +171,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 7. After printing, make sure that the marker spacing matches the measurements shown in the following illustration.
 
-    ![Circular code anchor measurements](media/printed-anchor-measurements.PNG "Circular code anchor measurements")
+    ![Circular code anchor measurements](media/circlar-code-measurements.PNG "Circular code anchor measurements")
 
     > [!NOTE]
     > If the anchor spacing isn't within +/– 0.1 mm, in the **Print** dialog box, select the **Custom Scale** option, and then change the percentage to compensate for the size discrepancy. For example, if the result is 49 mm when you print the anchor, change the scale to 100.4 percent to get 49.196 mm, which is within tolerance.
