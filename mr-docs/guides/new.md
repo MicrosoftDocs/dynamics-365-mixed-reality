@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. 
 
 > [!IMPORTANT]
-> On **April 28, 2020**, Microsoft will release a **mandatory** update to the Dynamics 365 Guides solution. Work with your admin to update the solution and apps (PC and HoloLens).
+> On **April 1, 2020**, Microsoft will release a **mandatory** update to the Dynamics 365 Guides solution. Work with your admin to update the solution and apps (PC and HoloLens).
 
 ## February 25, 2020
 
