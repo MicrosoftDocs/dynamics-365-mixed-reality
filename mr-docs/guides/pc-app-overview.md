@@ -42,6 +42,6 @@ Use the PC app to complete these tasks:
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
 [Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
-[Add a website or Power Apps link to a step](website-powerapps-link.md)<br>
-[Create and copy a link to a guide or step](pc-app-copy-link-step.md)<br>
+[Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
+[Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)
