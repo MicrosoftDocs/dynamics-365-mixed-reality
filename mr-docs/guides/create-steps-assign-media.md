@@ -172,6 +172,8 @@ For more information, see [Add a website link or Power Apps link to a step](pc-a
 
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
-[Add a website link or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
-[Learn what makes a great mixed reality guide](great-guide.md)<br>
-[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)
+[Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
+[Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)<br>
+[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
+[Deactivate a guide](pc-app-deactivate-guide.md)
+[Learn what makes a great mixed reality guide](great-guide.md)
