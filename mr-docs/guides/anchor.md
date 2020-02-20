@@ -160,6 +160,9 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 4. On your computer, in Adobe Acrobat Reader, open the **Guides-CircularCodeAnchor** file.
 
+    >[!IMPORTANT]
+    >Dynamics 365 Guides supports one size of circular code anchor. Printing the anchor at the specified size is crucial to ensure the best possible alignment accuracy. If you use Adobe Acrobat Reader, you can set the specified size for best printing results.
+
 5. Select **File** > **Print**, and then, under **Page Sizing & Handling**, select the **Actual size** option.
 
     ![Actual size option](media/adobe-actual-size.PNG "Actual size option")
