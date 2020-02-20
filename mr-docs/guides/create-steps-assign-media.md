@@ -135,7 +135,7 @@ You can import your own custom 3D models and add them to the **3D parts** librar
     ![Importing a custom 3D part](media/import-object.PNG "Importing a custom 3D part")
 
 > [!NOTE]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (computer-aided design \[CAD\]) models, or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]. For more information about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], see these topics:
+> You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (computer-aided design \[CAD\]) models, or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]. For more information about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], see these topics:
 >
 > - [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)
 >
