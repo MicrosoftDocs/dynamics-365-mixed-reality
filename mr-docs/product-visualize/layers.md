@@ -4,7 +4,7 @@ description: Learn how to show or hide layers in a 3D model in Dynamics 365 Prod
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 02/17/2020
+ms.date: 02/21/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

@@ -4,7 +4,7 @@ description: Enable product dimensions to see model dimensions in Dynamics 365 P
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 02/17/2020
+ms.date: 02/21/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
