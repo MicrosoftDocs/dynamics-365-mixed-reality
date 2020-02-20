@@ -59,6 +59,9 @@
 ## [Get Help and provide feedback](help.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
-## [Known issues](known-issues.md)
+## Known Issues
+### [Generally](known-issues.md)
+### [PC app](known-issues-pc-app.md)
+### [HoloLens app](known-issues-hololens-app.md)
 ## [Terms of use](../legal/guides-service-terms.md)
 
