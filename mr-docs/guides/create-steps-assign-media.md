@@ -155,13 +155,13 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
     ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
     
-### What file formats are supported for 3D models, images, and videos?
+## What file formats are supported for 3D models, images, and videos?
 
 Dynamics 365 Guides supports the following formats:
 
 |Media|Supported formats|
 |--------------|--------------------------------------------|
-|3D content|FBX, GLB, glTF, STL, PLY|
+|3D models|FBX, GLB, glTF, STL, PLY|
 |Image|PNG, JPG, JPEG, BMP, GIF, TIF|
 |Video and audio|MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV|
 
