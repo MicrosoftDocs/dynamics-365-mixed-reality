@@ -45,4 +45,4 @@ Use the PC app to complete these tasks:
 [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
 [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
-[Deactivate a guide](pc-app-deactivate.md)
+[Deactivate a guide](pc-app-deactivate-guide.md)
