@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. 
 
 > [!IMPORTANT]
-> On **April 1, 2020**, Microsoft will release a **mandatory** update to the Dynamics 365 Guides solution that will change how data is stored in Common Data Service. Specifically, the apps will be upgraded so that they store data in Common Data Service entities instead of in a single JavaScript Object Notation (JSON) file. Your existing guides will be migrated to the new entity structure and will continue to work as you expect. On April 1, you must update the PC app, HoloLens app, and Common Data Service solution to continue to use Dynamics 365 Guides. Work with your admin to update the solution and apps.
+> On **April 28, 2020**, Microsoft will release a **mandatory** update to the Dynamics 365 Guides solution that will change how data is stored in Common Data Service. Specifically, the apps will be upgraded so that they store data in Common Data Service entities instead of in a single JavaScript Object Notation (JSON) file. Your existing guides will be migrated to the new entity structure and will continue to work as you expect. On April 1, you must update the PC app, HoloLens app, and Common Data Service solution to continue to use Dynamics 365 Guides. Work with your admin to update the solution and apps.
 
 ## February 25, 2020
 
