@@ -26,7 +26,7 @@ If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your lo
     > [!div class=mx-imgBorder]
     > ![My Open Opportunities screen](media/my-open-opportunities.png "My Open Opportunities screen")
  
-2. In the confirmation message, select **Continue**.
+2. In the confirmation message, tap **Continue**.
 
     > [!div class=mx-imgBorder]
     > ![Confirmation message](media/confirm-import-model.png "Confirmation message")
