@@ -21,24 +21,12 @@ Before you upload custom 3D models or media files in the PC app, please make sur
 
 Large 3D models are stored in [!include[pn-hololens](../includes/pn-hololens.md)] memory while in use; therefore, the experience is significantly slower if there are too many models in a guide. **For reasonable performance, we recommend that you don't exceed 450 MB of 3D models in a single guide.** 
 
-## Editing the same guide on two different PCs is not fully supported
-
-While you can author the same guide on PC and [!include[pn-hololens](../includes/pn-hololens.md)], we strongly recommend that you not edit the same guide on two separate PCs. This can cause synchronization issues, and you might lose changes made in one of the PC sessions.
-
 ## Text wrapping on PC and HoloLens might differ in rare cases
 
 In rare cases, you might notice that text is wrapped on the step card view in [!include[pn-hololens](../includes/pn-hololens.md)] but not on the PC. This is because [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] renders fonts at different sizes for readability between PC and [!include[pn-hololens](../includes/pn-hololens.md)], and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the [!include[pn-hololens](../includes/pn-hololens.md)] app before sharing your guides with operators.
 
-## HoloLens app can't refresh when you edit the anchoring step on a PC for the same guide
-
-We recommend you don't open a guide on [!include[pn-hololens](../includes/pn-hololens.md)] while editing the alignment step for the same guide on a PC. In this case, the [!include[pn-hololens](../includes/pn-hololens.md)] app will refresh automatically, but it won't be able to open the guide.
-
 ## When placing large assets on HoloLens, you might see minor loading delays
 The [!include[pn-hololens](../includes/pn-hololens.md)] app currently loads the guide right after you open it, and in the background as you use the guide. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
-
-## Guides can't be renamed or deleted from the PC app
-
-At this time, renaming or deleting guides is not supported.
 
 ## You can create guides with the same name without overwriting old guides
 
@@ -131,13 +119,7 @@ If you don't see any guides, either your internet connection is unstable, or you
 
 When you upload content, at this time, the app doesn't automatically scroll to the place in the library where the content is uploaded. To find the content, go to the library (right side of the screen), and then select the appropriate tab (**3D parts**, **Pictures**, **Videos**, or **3D toolkit**).
 
-The PC app shows notifications (in the top title bar) if there are any errors during uploading. Check to make sure your content is in the right file format, as shown in the following table. 
-
-|Media|Supported formats|
-|--------------|--------------------------------------------|
-|3D content|FBX, GLB, glTF, STL, PLY|
-|Image|PNG, JPG, JPEG, BMP, GIF, TIF|
-|Video and audio|MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV|
+The PC app shows notifications (in the top title bar) if there are any errors during uploading. Check to make sure your content is in the right file format. [Supported file formats for Dynamics 365 Guides](create-steps-assign-media.md). 
 
 If you still can't find your content, contact your administrator.
 
