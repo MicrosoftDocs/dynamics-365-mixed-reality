@@ -119,7 +119,7 @@ If you don't see any guides, either your internet connection is unstable, or you
 
 When you upload content, at this time, the app doesn't automatically scroll to the place in the library where the content is uploaded. To find the content, go to the library (right side of the screen), and then select the appropriate tab (**3D parts**, **Pictures**, **Videos**, or **3D toolkit**).
 
-The PC app shows notifications (in the top title bar) if there are any errors during uploading. Check to make sure your content is in the right file format. [Learn about upported file formats for Dynamics 365 Guides](create-steps-assign-media.md). 
+The PC app shows notifications (in the top title bar) if there are any errors during uploading. Check to make sure your content is in the right file format. [Learn about upported file formats for Dynamics 365 Guides](create-steps-assign-media.md#what-file-formats-are-supported-for-3d-models-images-and-videos). 
 
 If you still can't find your content, contact your administrator.
 
