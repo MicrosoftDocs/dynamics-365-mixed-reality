@@ -68,7 +68,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
     ![Download QR Code Anchor button](media/qr-code-download-button.PNG "Download QR Code Anchor button")
 
-4. On your computer, in Adobe Acrobat Reader, open the **Guides-QRCodeAnchor** file.
+4. On your computer, open the **Guides-QRCodeAnchor** file.
 
 5. Print the last page of the document on matte stock (glossy materials can affect scanning). Bubblejet printers produce a better matte finish.
 
