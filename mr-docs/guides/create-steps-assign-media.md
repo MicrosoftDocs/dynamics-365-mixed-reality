@@ -162,7 +162,7 @@ Dynamics 365 Guides supports the following formats:
 |Media|Supported formats|
 |--------------|--------------------------------------------|
 |3D models|FBX, GLB, glTF, STL, PLY|
-|Image|PNG, JPG, JPEG, BMP, GIF, TIF|
+|Images|PNG, JPG, JPEG, BMP, GIF, TIF|
 |Video/audio|MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV|
 
 ## What's next?
