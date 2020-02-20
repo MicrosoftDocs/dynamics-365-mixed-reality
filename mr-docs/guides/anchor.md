@@ -72,7 +72,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 5. Print the last page of the document on matte stock (glossy materials can affect scanning). Bubblejet printers produce a better matte finish.
 
-6. After printing, make sure the anchor measures between 97 to 400 mm wide (based on [Version 1 QR code recommendations](https://www.qrcode.com/en/about/version.html)).
+6. After printing, make sure the anchor measures between 101 to 400 mm wide (based on [Version 1 QR code recommendations](https://www.qrcode.com/en/about/version.html)).
 
 6. Attach the QR code anchor to a physical object in the real world, and then take a picture to help the operator find it.
 
