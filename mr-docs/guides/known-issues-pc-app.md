@@ -41,5 +41,7 @@ If you still can't find your content, contact your administrator.
 
 Please contact customer service: [https://docs.microsoft.com/dynamics365/get-started/support/](https://docs.microsoft.com/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
 
-
+[Known issues with Dynamics 365 Guides generally](known-issues.md)<br>
+[Known issues with the HoloLens app](known-issues-hololens-app.md)<br>
+[Dynamics 365 Guides FAQ](faq.md)
 
