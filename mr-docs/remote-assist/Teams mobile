@@ -273,7 +273,11 @@ When you’re done adding annotations, press ![Check](TeamsMobile_Check.png "Che
 
 Remote Assist Mobile provides technicians with the ability to take 2D snapshots of their environment and mixed reality annotations, and annotate them during a call. 2D snapshots are critical in situations where a still-image might be needed to carefully add annotations to it. These 2D snapshots can be used for reference later or work validation. These 2D snapshots can also be utilized in low bandwidth situations.
 
-When a Remote Assist mobile user sends a 2D snapshot and starts annotating, their video feed will become a still video feed and you can add annotations. Note that annotations are only displayed during the 2D snapshot session. When the Remote Assist mobile user exists 2D snapshot mode, annotations will be removed. 
+When a Remote Assist mobile user sends a 2D snapshot and starts annotating, their video feed will become a still video feed. Select **Start editing** to begin adding annotations. After both the technician and expert are finished annotating on the snapshot, the Remote Assist mobile user selects the check mark to exit from the 2D Annotation mode and can choose to save the snapshot to their phone’s photo gallery.
+
+Note that annotations are only displayed during the 2D snapshot session. When the Remote Assist mobile user exists 2D snapshot mode, annotations will be removed. 
+
+Learn more about this feature [here.] (https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/toc-sandbox/mr-docs/remote-assist/mobile-app/annotate-snapshot.md#capture-2d-snapshot-and-annotate-scenario)
 
 ## Send a text message
 
