@@ -96,7 +96,7 @@ To add a Power Apps link to a step, you add an action. You can add one action pe
 
      ![Power Apps menu](media/powerapps-menu.PNG "Power Apps menu")
      
-## See also
+## See also?
 
 [Open a website from the Step card (for operators)](operator-orientation#access-a-website-that-is-linked-from-the-step-card)<br>
 [Launch an app created in Power Apps from the Step card (for operators)](operator-orientation#launch-an-app-created-in-power-apps-from-the-step-card)
