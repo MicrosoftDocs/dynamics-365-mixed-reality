@@ -1,4 +1,13 @@
-
+---
+author: BryceHo
+description: Known Issues with Dynamics 365 Guides HoloLens app
+ms.author: makamat
+ms.date: 02/25/2020
+ms.service: crm-online
+ms.topic: article
+title: Known Issues with Dynamics 365 Guides HoloLens app
+ms.reviewer: v-brycho
+---
 
 # Known Issues with the Dynamics 365 Guides HoloLens app
 
