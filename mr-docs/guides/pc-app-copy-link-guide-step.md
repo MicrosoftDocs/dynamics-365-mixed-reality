@@ -15,7 +15,7 @@ You might want to create and copy a link to a guide or a step in Microsoft Dynam
 
 - Share the link with another author through email or chat.
 
-- Embed the link in a QR code. When you embed a link in a QR code, when you or the operator scans the QR code, it automatically opens that guide or step.
+- Embed the link in a QR code. When you embed a link in a QR code, when you or the operator scans the QR code from the HoloLens shell, it automatically opens that guide or step.
 
 ## Create and copy a link to a guide
 
