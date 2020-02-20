@@ -86,7 +86,7 @@ If, at any point, you need to readjust this setting, you can trigger the offset 
 
 ## See also
 
-[Known issues with the PC app](known-issues-pc-app.md)
-[Known issues with the HoloLens app](known-issues-hololens-app.md)
+[Known issues with the PC app](known-issues-pc-app.md)<br>
+[Known issues with the HoloLens app](known-issues-hololens-app.md)<br>
 [Dynamics 365 Guides FAQ](faq.md)
 
