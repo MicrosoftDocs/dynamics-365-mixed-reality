@@ -69,3 +69,8 @@ To allow authors to place 3D models carefully and precisely, the default movemen
 ## I have an issue that isn't listed in these troubleshooting steps
 Please contact customer service: [https://docs.microsoft.com/dynamics365/get-started/support/](https://docs.microsoft.com/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
 
+## See also
+
+[Known issues with Dynamics 365 Guides generally](known-issues.md)<br>
+[Known issues with the PC app](known-issues-pc-app.md)<br>
+[Dynamics 365 Guides FAQ](faq.md)
