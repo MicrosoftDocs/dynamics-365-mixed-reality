@@ -36,7 +36,7 @@ You might want to create and copy a link to a guide or a step in Microsoft Dynam
 
 ## What's next?
 
-[Overview of creating a guide with the PC app](pc-app-overview.md)<br>
+[Overview of authoring a guide with the PC app](pc-app-overview.md)<br>
 [Install and sign in to the PC app](install-sign-in-pc-app.md)<br>
 [Create a guide](create-guide.md)<br>
 [Anchor your guide to the real world](anchor.md)<br>
