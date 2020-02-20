@@ -135,7 +135,7 @@ You can import your own custom 3D models and add them to the **3D parts** librar
     ![Importing a custom 3D part](media/import-object.PNG "Importing a custom 3D part")
 
 > [!NOTE]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (computer-aided design \[CAD\]) models, or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], see these topics:
+> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (computer-aided design \[CAD\]) models, or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]. For more information about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], see these topics:
 >
 > - [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)
 >
@@ -154,19 +154,16 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 2. Drag the image or video to the **Image or video** box.
 
     ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
+    
+### What file formats are supported?
 
-## Add a website or Power Apps link to a step
+Dynamics 365 Guides supports the following formats:
 
-You can add a website link or a Power Apps link to a step.
-
-- Add a website link so that operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about Internet of Things (IoT) sensors. Website links let authors create a seamless workflow for operators.
-
-- [Power Apps](https://products.office.com/en-us/business/microsoft-powerapps) enables teams to create custom 
-applications with low-code tools to solve unique business workflows. By combining Dynamics 365 Guides and Power Apps, you can extend 
-Guides capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a 
-link to an interactive quiz app, a parts re-ordering app, or an app that provides the latest status on IoT sensors.  
-
-For more information, see [Add a website link or Power Apps link to a step](pc-app-website-powerapps-link.md).
+|Media|Supported formats|
+|--------------|--------------------------------------------|
+|3D content|FBX, GLB, glTF, STL, PLY|
+|Image|PNG, JPG, JPEG, BMP, GIF, TIF|
+|Video and audio|MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV|
 
 ## What's next?
 
