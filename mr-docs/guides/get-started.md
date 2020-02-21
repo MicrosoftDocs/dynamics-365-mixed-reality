@@ -29,13 +29,15 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://www.youtube.com/watch?v=PiN31iAiRrQ&feature=youtu.be)
 
+<!--
 - Anchor your guide in the real world:
 
     - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://www.youtube.com/watch?v=m_I-viB3np8&feature=youtu.be)
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://www.youtube.com/watch?v=LNQ3W-p7_sU&feature=youtu.be)
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://www.youtube.com/watch?v=LNQ3W-p7_sU&feature=youtu.be)    
+-->
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app](https://www.youtube.com/watch?v=HXG8zWOYqlk&feature=youtu.be)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens1 app](https://www.youtube.com/watch?v=HXG8zWOYqlk&feature=youtu.be)
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://www.youtube.com/watch?v=XIRyvg38qlM&feature=youtu.be)
 
