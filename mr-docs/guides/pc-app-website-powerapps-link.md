@@ -18,7 +18,7 @@ You can use add a website link or a [!include[pn-powerapps](../includes/pn-power
 - **[!include[pn-powerapps](../includes/pn-powerapps.md)] link.** [Power Apps](https://products.office.com/en-us/business/microsoft-powerapps) enables teams to create custom applications with low-code tools to solve unique business workflows. By combining [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] and [!include[pn-powerapps](../includes/pn-powerapps.md)], you can extend [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a link to an interactive quiz app, a parts re-ordering app, or an app that provides the latest status on IoT sensors.  
 
    >[!NOTE]
-   >Operators need a [Power Apps license](https://powerapps.microsoft.com/en-us/pricing/) to run [!include[pn-powerapps](../includes/pn-powerapps.md)] from [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Operators must also have [permission](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/share-app#share-an-app) to view the app created in [!include[pn-powerapps](../includes/pn-powerapps.md)].
+   >Operators need a [Power Apps license](https://powerapps.microsoft.com/en-us/pricing/) to run [!include[pn-powerapps](../includes/pn-powerapps.md)] from [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Operators must also have [permission](https://docs.microsoft.com/powerapps/maker/canvas-apps/share-app#share-an-app) to view the app created in [!include[pn-powerapps](../includes/pn-powerapps.md)].
 
 ## Add a website link to a step
 
@@ -94,7 +94,7 @@ To add a [!include[pn-powerapps](../includes/pn-powerapps.md)] link to a step, y
      
 ## See also?
 
-[Open a website from the Step card (for operators)](operator-orientation#access-a-website-that-is-linked-from-the-step-card)<br>
-[Launch an app created in Power Apps from the Step card (for operators)](operator-orientation#launch-an-app-created-in-power-apps-from-the-step-card)
+[Open a website from the Step card (for operators)](operator-orientation.md#access-a-website-that-is-linked-from-the-step-card)<br>
+[Launch an app created in Power Apps from the Step card (for operators)](operator-orientation.md#launch-an-app-created-in-power-apps-from-the-step-card)
 
  
