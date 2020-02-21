@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Anchor a guide by using the Dynamics 365 Guides HoloLens app in Author mode
 
-The first thing that you see when you open a guide in the Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens app is the anchoring instructions that were created in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app. The method that you use to anchor the guide depends on the type of anchor that was created in the PC app. For more information about how to create an anchor, and the types of anchors, see [Anchor your guide to the real world in Dynamics 365 Guides PC app](anchor.md).
+The first thing that you see when you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens app is the anchoring instructions that were created in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app. The method that you use to anchor the guide depends on the type of anchor that was created in the PC app. For more information about how to create an anchor, and the types of anchors, see [Anchor your guide to the real world in Dynamics 365 Guides PC app](anchor.md).
 
 ## Anchor a guide by using a QR code anchor
 
