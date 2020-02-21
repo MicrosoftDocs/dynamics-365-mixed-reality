@@ -63,7 +63,7 @@ You can also grab the navigation bar at any time to place the card where you wan
 
 ![Grabbing the navigation bar](media/follow-button-move-card.PNG "Grabbing the navigation bar")
 
-## Access a website that's linked from the Step card
+## Access a website linked from the Step card
 
 If a Step card includes a **Website link** button, you can go to the website by selecting the button. For example, there might be a link to a parts diagram or a parts inventory system. The website is opened in the HoloLens Edge browser. When you close the browser, you go back to the step that you were working on.
 
