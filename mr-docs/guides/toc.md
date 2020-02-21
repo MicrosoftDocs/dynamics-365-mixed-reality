@@ -28,7 +28,7 @@
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
 #### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
-#### [Copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
+#### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Deactivate a guide](pc-app-deactivate-guide.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
