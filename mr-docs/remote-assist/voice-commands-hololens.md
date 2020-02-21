@@ -81,6 +81,9 @@ For full list of voice commands, see the list below.
 You can turn on the Narrator if you want to take advantage of voice narration for incoming calls. When you turn on incoming call narration, in addition to displaying the incoming caller's name, the caller's name is announced. You can then say "Remote Assist, Video," "Remote Assist, Audio," or "Remote Assist, Ignore," to respond to the incoming call.
 
 To turn on the Narrator for incoming calls:
-Go to **Settings**, and then select the **On** button for the Narrator.
+
+- Go to Settings, and then select the **On** button for the Narrator.
+
+  ![Open Narrator](media/narrator.PNG "Open Narrator")
 
  
