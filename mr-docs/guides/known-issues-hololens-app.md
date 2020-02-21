@@ -23,6 +23,9 @@ If you see any of the following errors, contact your IT admin, or see the self-s
 
 - You don't have a license to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Contact your admin.
 
+## When placing large assets on HoloLens, you might see minor loading delays
+The [!include[pn-hololens](../includes/pn-hololens.md)] app currently loads the guide right after you open it, and in the background as you use the guide. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
+
 ## Staying on the account picker more than 25 seconds during HoloLens sign-in will make it unresponsive
 
 When you get to the screen where you can select between different saved accounts on [!include[pn-hololens](../includes/pn-hololens.md)], choose an option within 25 seconds. After 25 seconds it will become unresponsive, and you will need to restart the app. This bug has been fixed on RS5, but still exists on RS4 if you have that installed.
