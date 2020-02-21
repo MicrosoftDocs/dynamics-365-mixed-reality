@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Create and copy a link to a guide or step in Dynamics 365 Guides
 
-You might want to create and copy a link to a guide or a step in Microsoft Dynamics 365 Guides if you want to:
+You might want to create and copy a link to a guide or a step in Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] if you want to:
 
 - Share the link with another author through email or chat.
 
