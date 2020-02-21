@@ -1,2 +1,2 @@
 {:allowed-branchname-matches ["^master$"]
- :allowed-filename-matches ["mr-docs/remote-assist"]}
+ :allowed-filename-matches ["mr-docs"]}
