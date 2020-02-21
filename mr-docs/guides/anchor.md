@@ -21,14 +21,14 @@ It's crucial to ensure that your guide alignment is correct and as precise as po
 
 There are three ways to anchor a guide:
 
-- **QR code anchor (recommended)**. With a QR code anchor (new in the February release of Dynamics 365 Guides), you align a guide by gazing at (scanning) a printed QR code anchor attached to a physical object in the real world. A QR code anchor is recommended because it's the most accurate and you can print the anchor at different sizes.
+- **QR code anchor (recommended)**. With a QR code anchor (new in the February release of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]), you align a guide by gazing at (scanning) a printed QR code anchor attached to a physical object in the real world. A QR code anchor is recommended because it's the most accurate and you can print the anchor at different sizes.
 
    >[!NOTE]
    >QR code anchoring is not available on HoloLens 1 devices.
 
-- **Circular code anchor**. With a circular code anchor (referred to as a "printed anchor" in earlier versions of Dynamics 365 Guides), you align a guide by gazing at (scanning) a printed circular code anchor attached to a physical object in the real world.
+- **Circular code anchor**. With a circular code anchor (referred to as a "printed anchor" in earlier versions of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]), you align a guide by gazing at (scanning) a printed circular code anchor attached to a physical object in the real world.
 
-- **Holographic anchor**. With a holographic anchor (referred to as a "digital anchor" in earlier versions of Dynamics 365 Guides), you align a guide to a digital 3D hologram overlaid on a physical object in the real world. You might need to use a holographic for any of the following reasons:
+- **Holographic anchor**. With a holographic anchor (referred to as a "digital anchor" in earlier versions of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]), you align a guide to a digital 3D hologram overlaid on a physical object in the real world. You might need to use a holographic for any of the following reasons:
 
    - It might not be feasible to attach a QR code anchor or circular code anchor because the authoring is done in a location different than where the parts are located.
 
@@ -163,7 +163,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 4. On your computer, in Adobe Acrobat Reader, open the **Guides-CircularCodeAnchor** file.
 
     >[!IMPORTANT]
-    >Dynamics 365 Guides supports one size of circular code anchor. Printing the anchor at the specified size is crucial to ensure the best possible alignment accuracy. If you use Adobe Acrobat Reader, you can set the specified size for best printing results.
+    >[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports one size of circular code anchor. Printing the anchor at the specified size is crucial to ensure the best possible alignment accuracy. If you use Adobe Acrobat Reader, you can set the specified size for best printing results.
 
 5. Select **File** > **Print**, and then, under **Page Sizing & Handling**, select the **Actual size** option.
 
