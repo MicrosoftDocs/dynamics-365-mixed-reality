@@ -42,7 +42,7 @@
 ##### [HoloLens 2](authoring-gestures-HL2.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ### [How to make a great mixed reality guide](great-guide.md)
-### [Use Dynamics 365 Import Tool to convert 3D models](import-tool.md)
+### [Convert CAD drawings to use as 3D models for parts](import-tool.md)
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
 ### Calibrate your HoloLens
