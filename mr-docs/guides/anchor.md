@@ -70,7 +70,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
 4. On your computer, open the **Guides-QRCodeAnchor** file.
 
-5. Print the last page of the document on matte stock (glossy materials can affect scanning). Bubblejet printers produce a better matte finish.
+5. Print the last page of the document on matte stock (glossy materials can affect scanning). Bubble jet printers produce a better matte finish.
 
 6. After printing, make sure the anchor measures between 101 to 400 mm wide (based on [Version 1 QR code recommendations](https://www.qrcode.com/en/about/version.html)).
 
@@ -169,7 +169,7 @@ You can access the **Anchor** wizard from the **Outline** page. The **Outline** 
 
     ![Actual size option](media/adobe-actual-size.PNG "Actual size option")
 
-6. Print the last page of the document on matte stock (glossy materials can affect scanning). Bubblejet printers produce a better matte finish.
+6. Print the last page of the document on matte stock (glossy materials can affect scanning). Bubble jet printers produce a better matte finish.
 
 7. After printing, make sure that the marker spacing matches the measurements shown in the following illustration.
 
