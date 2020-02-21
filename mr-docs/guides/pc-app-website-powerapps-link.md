@@ -94,7 +94,7 @@ To add a [!include[pn-powerapps](../includes/pn-powerapps.md)] link to a step, y
      
 ## See also?
 
-[Open a website from the Step card (for operators)](operator-orientation.md#access-a-website-that-is-linked-from-the-step-card)<br>
+[Open a website from the Step card (for operators)](operator-orientation.md#access-a-website-linked-from-the-step-card)<br>
 [Launch an app created in Power Apps from the Step card (for operators)](operator-orientation.md#launch-an-app-created-in-power-apps-from-the-step-card)
 
  
