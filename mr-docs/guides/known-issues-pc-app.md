@@ -45,21 +45,6 @@ We do not support multiple files with the same name in the current release. When
 
 The app currently looks up media by file names. So, for example, if you have a picture.jpg file and a picture.png, the app doesn't know which file to show for the step. So it's best to always use unique file names for media files you upload.
 
-## Staying on the account picker for more than 25 seconds during HoloLens sign-in will make it unresponsive
-
-When you get to the screen where you can select between different saved accounts on [!include[pn-hololens](../includes/pn-hololens.md)], choose an option within 25 seconds. After 25 seconds, it becomes unresponsive, and you will need to restart the app. This issue has been fixed on RS5 but still exists on RS4 if you have that installed.
-
-## "Create account" link when signing in with a new account doesn't work
-When signing in with a brand new account on the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps, there is a link to create a new account:
-
-![Sign-in screen](media/sign-in-screen.PNG "Sign-in screen")  
- 
-Please do not use this link to create an account–it doesn't work.
-
-## I can't see guides that I created or guides created by my teammates
-
-If you don't see any guides, either your internet connection is unstable, or you might have signed in to an instance that doesn't have any guides. First, check your internet connection. If you're connected, try signing in again, but this time make sure you sign into the instance that has the guides you were looking for. If you still don't see any guides, contact your administrator.
-
 ## I don't see media or 3D content that I uploaded to the app
 
 When you upload content, at this time, the app doesn't automatically scroll to the place in the library where the content is uploaded. To find the content, go to the library (right side of the screen), and then select the appropriate tab (**3D parts**, **Pictures**, **Videos**, or **3D toolkit**).
