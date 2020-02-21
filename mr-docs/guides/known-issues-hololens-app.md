@@ -50,8 +50,6 @@ The [!include[pn-hololens](../includes/pn-hololens.md)] app converts and resizes
 
 As a best practice, video clips should not be too long (**maximum of 2 minutes**). This helps operators focus on one meaningful task at a time and keeps them from getting overwhelmed. 
 
-
-
 ## The see-through style, when applied to a 3D model might show gray areas instead of rendering textures properly
 
 There are some problems with rendering the "see through" style on some 3D models. Some surfaces on these models will look gray. Please use another style if you see this problem, or contact customer service if this is a must-have and you need help with it.
