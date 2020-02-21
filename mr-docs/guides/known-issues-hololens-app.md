@@ -30,29 +30,13 @@ When you get to the screen where you can select between different saved accounts
 ## When placing large assets on HoloLens, you might see minor loading delays
 The [!include[pn-hololens](../includes/pn-hololens.md)] app currently loads the guide right after you open it, and in the background as you use the guide. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
 
-## Staying on the account picker more than 25 seconds during HoloLens sign-in will make it unresponsive
-
-When you get to the screen where you can select between different saved accounts on [!include[pn-hololens](../includes/pn-hololens.md)], choose an option within 25 seconds. After 25 seconds it will become unresponsive, and you will need to restart the app. This bug has been fixed on RS5, but still exists on RS4 if you have that installed.
-
 ## Circular code anchor method requires user's consent to use the camera
 
 When the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on [!include[pn-hololens](../includes/pn-hololens.md)] is launched for the first time, the app will ask the user to provide consent to use the camera. If you plan to use circular code anchors in your guides, you will need to say **Yes** to this prompt. This is required for every device you use the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application on. If this consent was not provided previously, you can go to the **Settings** menu on the [!include[pn-hololens](../includes/pn-hololens.md)] (operating system) and provide consent to the app. 
 
-## "Create account" link when signing in with a new account doesn't work
-
-When signing in with a brand new account on the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps, there is a link to create a new account:
-
-![Sign-in screen](media/sign-in-screen.PNG "Sign-in screen") 
-  
-Please do not use this link to create an account–it doesn't work.
-
 ## I don't see any guides in the Guides list
 
 If you don't see any guides, either your internet connection is unstable, or you might have signed into an instance that doesn't have any guides. First, check your internet connection. If you're connected, try signing in again, but this time make sure you sign into the instance that has the guides you were looking for. If you still don't see any guides, contact your administrator.
-
-## I can't find the guide I created
-
-Look for newly created guides in the **All** tab in the list of guides. The **Recents** list shows only those guides that have been previously opened on the device and does not include any guide recently created in the PC authoring application. 
 
 ## The profile picture shown in the app is incorrect 
 
@@ -66,13 +50,7 @@ The [!include[pn-hololens](../includes/pn-hololens.md)] app converts and resizes
 
 As a best practice, video clips should not be too long (**maximum of 2 minutes**). This helps operators focus on one meaningful task at a time and keeps them from getting overwhelmed. 
 
-## Deleting an asset from a step (from the bin) in the PC app will remove all previously placed instances on HoloLens
 
-If you're editing an existing guide, where an asset was placed in a bin in the PC app, and then instances of that asset were placed in the world on [!include[pn-hololens](../includes/pn-hololens.md)], note that deleting the asset from the bin removes all of the placed assets in space. Adding the asset again will not restore the placed instances. To restore, press the **Undo** button in the PC app to revert the change.
-
-## Uploading glTF files with dependencies across different folders might result in upload errors
-
-Some glTF files may have dependencies in other folders that the app may not have permissions to when uploading. This might result in errors or broken 3D models in the gallery. Please make sure you either have permissions to all dependencies, or that you have all of them in the same folder when uploading glTF models. 
 
 ## The see-through style, when applied to a 3D model might show gray areas instead of rendering textures properly
 
