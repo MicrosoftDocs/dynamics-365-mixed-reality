@@ -14,35 +14,10 @@ ms.reviewer: v-brycho
 ## Improvements for 3D model positioning in the October 1 release might shift models in guides that were created before October 1, 2019
 
 The October 1 release includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
- 
-## Keep file names for 3D models and media short
-
-Before you upload custom 3D models or media files in the PC app, please make sure the file names are not more than 60 characters, and do not contain special characters (&, @, and so on). 
-
-Large 3D models are stored in [!include[pn-hololens](../includes/pn-hololens.md)] memory while in use; therefore, the experience is significantly slower if there are too many models in a guide. **For reasonable performance, we recommend that you don't exceed 450 MB of 3D models in a single guide.** 
 
 ## Text wrapping on PC and HoloLens might differ in rare cases
 
 In rare cases, you might notice that text is wrapped on the step card view in [!include[pn-hololens](../includes/pn-hololens.md)] but not on the PC. This is because [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] renders fonts at different sizes for readability between PC and [!include[pn-hololens](../includes/pn-hololens.md)], and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the [!include[pn-hololens](../includes/pn-hololens.md)] app before sharing your guides with operators.
-
-## When placing large assets on HoloLens, you might see minor loading delays
-The [!include[pn-hololens](../includes/pn-hololens.md)] app currently loads the guide right after you open it, and in the background as you use the guide. If your guide contains large 3D models and media, you might experience loading delays of a few seconds.
-
-## You can create guides with the same name without overwriting old guides
-
-You can create multiple guides with the same name. While this prevents unintentional overwrites of old files, it's confusing when you choose a guide from a list. When you create a new guide, make sure to use a unique name.
-
-## 3D content and media cannot be renamed or deleted from the PC app after uploading
-
-At this time, we do not support renaming or deleting 3D content and media once they have been uploaded to the server. While it's possible to rename them in [!include[pn-dyn-365](../includes/pn-dyn-365.md)], doing so can have unintended consequences on any guides that use this content.
-
-## 3D content and media will be overwritten if you upload new content with the same name
-
-We do not support multiple files with the same name in the current release. When uploading new 3D models or media, check to make sure a file with the same name does not exist in the library. You can, however, have different types of files with the same name—for example, a bolt.png image and a bolt.glb 3D model.
-
-## Can't use the same name for 3D parts that you upload, even if they have different extensions
-
-The app currently looks up media by file names. So, for example, if you have a picture.jpg file and a picture.png, the app doesn't know which file to show for the step. So it's best to always use unique file names for media files you upload.
 
 ## How do I address hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for circular code anchor alignment
  
