@@ -1,4 +1,13 @@
-
+---
+author: Mamaylya
+description: Learn about using voice commands on HoloLens 2 in Dynamics 365 Guides
+ms.author: mamaylya
+ms.date: 02/25/2020
+ms.service: crm-online
+ms.topic: article
+title: Use voice commands on HoloLens 2 in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
 # Use voice commands on HoloLens 2 in Dynamics 365 Guides
 
