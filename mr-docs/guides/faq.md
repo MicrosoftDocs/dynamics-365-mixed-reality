@@ -81,12 +81,6 @@ The data is stored in Common Data Service in the tenant that you have admin priv
 
 For a list of formats supported for 3D content, images, and videos, see [Supported file formats](create-steps-assign-media.md#what-file-formats-are-supported-for-3d-models-images-and-videos).
 
-|Media|Supported formats|Best practice|
-|----------|----------------------|-------------------------------------------------------------------------|
-|3D content|glTF, GLB, FBX, STL, PLY|Make sure to optimize your 3D models as much as possible to maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)].|
-|Images|PNG, JPG, JPEG, GIF, TIFF||
-|Videos|MP4, MOV, WMV|Make sure to keep your videos less than 2 minutes long, and focused on one step at a time.|
-
 ## Will I lose any data if I close an app inadvertently?
 
 Both apps automatically save your edits as you author a guide. After you're done editing, we recommend pausing for a couple seconds before closing the app to make sure the app has time to sync with the server.
