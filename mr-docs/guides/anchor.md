@@ -130,7 +130,9 @@ Keep the following in mind when working with QR code anchors:
 
 ## Anchor your guide by using a circular code anchor
 
+<!--
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a circular code anchor](https://aka.ms/guidesprintedanchor)
+-->
 
 Creating a circular code anchor involves four basic steps:
 
@@ -234,7 +236,9 @@ During scanning, the forward-facing camera on [!include[pn-hololens](../includes
 
 ## Anchor your guide by using a holographic anchor
 
+<!--
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a holographic anchor](https://aka.ms/guidesdigitalanchor)
+-->
 
 Creating a holographic anchor involves three basic steps:
 
