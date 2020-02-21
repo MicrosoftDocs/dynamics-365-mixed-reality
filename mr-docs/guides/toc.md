@@ -52,7 +52,6 @@
 ### Gestures for navigating a guide
 #### [HoloLens 1](operator-gestures.md)
 #### [HoloLens 2](operator-gestures-HL2.md)
-### [Use voice commands](voice-commands.md)
 ### [Anchor your guide](operator-anchor.md)
 ### [Operate your guide](operator-orientation.md)
 ## [Analyze your guides](analytics-guide.md)
