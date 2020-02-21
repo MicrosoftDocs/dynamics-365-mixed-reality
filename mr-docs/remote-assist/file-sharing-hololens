@@ -22,5 +22,5 @@ When a Teams user shares a file from OneDrive or from their device, it will pop 
 
 You may also want to save the file to your OneDrive for future reference. For example, the Teams user may send a PDF of a schematic you can use in future repairs, so you want to save it to your OneDrive and share the OneDrive file with others.
 
-To save the file to OneDrive, tap the OneDrive icon in the top right of the slate. The OneDrive file is then automatically saved to a folder called “HoloLens Received Files.”  
+To save the file to OneDrive, tap OneDrive ![OneDrive](media/RAHL_OneDrive "OneDrive") icon in the top right of the slate. The OneDrive file is then automatically saved to a folder called “HoloLens Received Files.”  
 
