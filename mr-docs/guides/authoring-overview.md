@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Overview of authoring in Dynamics 365 Guides, including PC authoring and HoloLens authoring
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview of authoring in Dynamics 365 Guides
