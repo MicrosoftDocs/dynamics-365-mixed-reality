@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Deactivate a guide if you're a Dynamics 365 Guides author
 
-If you're an author for Microsoft Dynamics 365 Guides, and a guide is out of date or you want to keep operators from accessing it, you can deactivate it. 
+If you're an author for Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], and a guide is out of date or you want to keep operators from accessing it, you can deactivate it. 
 
 1. On the **Home** screen, right-click the guide you want to deactivate.
 
