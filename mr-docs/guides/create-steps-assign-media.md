@@ -157,9 +157,9 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
 Dynamics 365 Guides supports the following formats:
 
-|Media|Supported formats|
-|--------------|--------------------------------------------|
-|3D models|FBX, GLB, glTF, STL, PLY|
+|Media|Supported formats|Best practice|
+|--------------|------------------------------|-----------------------------------------------------------------|
+|3D models|FBX, GLB, glTF, STL, PLY|Make sure to optimize your 3D models as much as possible to maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)].|
 |Images|PNG, JPG, JPEG, BMP, GIF, TIF|
 |Video/audio|MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV|
 
