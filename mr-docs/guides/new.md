@@ -18,7 +18,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## February 25, 2020
 
-The February 25 update (app versions XXX and solution version XXX) includes the following new features:
+The February 25 update (app versions 304.2002.19001 and solution version 300.0.4.138) includes the following new features:
 
 - **Anchor your guides by using QR codes.** Now you can use QR code anchors in addition to circular code anchors (previously known as "printed anchors") and holographic anchors (previously known as "digital anchors") to anchor your guides. You can print QR codes in various sizes and embed links in QR codes to specific guides or steps. Use your own QR code or use a QR code available through the Anchor wizard.
 
