@@ -79,7 +79,7 @@ The data is stored in Common Data Service in the tenant that you have admin priv
 
 ## What file formats are supported?
 
-The following table lists the formats supported for 3D content, images, and videos.
+For a list of formats supported for 3D content, images, and videos, see [Supported file formats](create-steps-assign-media.md#what-file-formats-are-supported-for-3d-models-images-and-videos).
 
 |Media|Supported formats|Best practice|
 |----------|----------------------|-------------------------------------------------------------------------|
