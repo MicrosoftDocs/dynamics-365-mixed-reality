@@ -57,6 +57,14 @@ The PC app shows notifications (in the top title bar) if there are any errors du
 
 If you still can't find your content, contact your administrator.
 
+## Deleting an asset from a step (from the bin) in the PC app will remove all previously placed instances on HoloLens
+
+If you're editing an existing guide, where an asset was placed in a bin in the PC app, and then instances of that asset were placed in the world on [!include[pn-hololens](../includes/pn-hololens.md)], note that deleting the asset from the bin removes all of the placed assets in space. Adding the asset again will not restore the placed instances. To restore, press the **Undo** button in the PC app to revert the change.
+
+## Uploading glTF files with dependencies across different folders might result in upload errors
+
+Some glTF files may have dependencies in other folders that the app may not have permissions to when uploading. This might result in errors or broken 3D models in the gallery. Please make sure you either have permissions to all dependencies, or that you have all of them in the same folder when uploading glTF models. 
+
 ## I have an issue that isn't listed in these troubleshooting steps
 
 Please contact customer service: [https://docs.microsoft.com/dynamics365/get-started/support/](https://docs.microsoft.com/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
