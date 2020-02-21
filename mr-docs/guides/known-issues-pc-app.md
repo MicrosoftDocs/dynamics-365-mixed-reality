@@ -33,6 +33,10 @@ Large 3D models are stored in [!include[pn-hololens](../includes/pn-hololens.md)
 
 You can create multiple guides with the same name. While this prevents unintentional overwrites of old files, it's confusing when you choose a guide from a list. When you create a new guide, make sure to use a unique name.
 
+## 3D content and media cannot be renamed or deleted from the PC app after uploading
+
+At this time, we do not support renaming or deleting 3D content and media once they have been uploaded to the server. While it's possible to rename them in [!include[pn-dyn-365](../includes/pn-dyn-365.md)], doing so can have unintended consequences on any guides that use this content.
+
 ## Staying on the account picker for more than 25 seconds during HoloLens sign-in will make it unresponsive
 
 When you get to the screen where you can select between different saved accounts on [!include[pn-hololens](../includes/pn-hololens.md)], choose an option within 25 seconds. After 25 seconds, it becomes unresponsive, and you will need to restart the app. This issue has been fixed on RS5 but still exists on RS4 if you have that installed.
