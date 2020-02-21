@@ -47,7 +47,7 @@ The act of looking at a user interface element with [!include[pn-hololens](../in
 A hand movement that enables an operator to do an action in mixed reality. For more information, see [Gestures to know](authoring-gestures.md).
 
 ## Holographic anchor (previously known as a "digital anchor")
-A 3D representation used to anchor holograms in the real world. You place the digital representation, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor.
+A 3D representation used to anchor holograms in the real world. You place the digital representation, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor. For more information, see [Anchor your guide in the real world](anchor.md).
 
 ## Interpupillary distance (IPD)
 The distance between a user's eyes. Different users have different IPDs. To align content correctly, [!include[pn-hololens](../includes/pn-hololens.md)] needs to be calibrated for each user's IPD. 
