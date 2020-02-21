@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Add a website or Power Apps link to a step in Dynamics 365 Guides
 
-You can use add a website link or a Power Apps link to a Step card in Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
+You can use add a website link or a Power Apps link to a Step card in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
 - **Website link.** Add a website link to a step so that operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about Internet of Things (IoT) sensors. Website links let authors create a seamless workflow for operators.
 
