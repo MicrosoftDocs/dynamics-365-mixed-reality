@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. 
 
 > [!IMPORTANT]
-> On April 1, 2020, Microsoft will release a **mandatory** update to the Dynamics 365 Guides solution. Future Dynamics 365 Guides app releases after April 1 will require this solution version and will not work with older versions. Work with your admin to update the solution and apps in early April so you can continue using the PC and HoloLens apps without interruption.
+> On April 1, 2020, [!include[cc-microsoft](../includes/cc-microsoft.md)] will release a **mandatory** update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. Future [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app releases after April 1 will require this solution version and will not work with older versions. Work with your admin to update the solution and apps in early April so you can continue using the PC and HoloLens apps without interruption.
 
 ## February 25, 2020
 
@@ -22,11 +22,11 @@ The February 25 update (app versions 304.2002.19001 and solution version 300.0.4
 
 - **Anchor your guides by using QR codes.** Now you can use QR code anchors in addition to circular code anchors (previously known as "printed anchors") and holographic anchors (previously known as "digital anchors") to anchor your guides. You can print QR codes in various sizes and embed links in QR codes to specific guides or steps. Use your own QR code or use a QR code available through the Anchor wizard.
 
-- **Create and copy a link to a guide or step.** Share the link with a team member, make the link available from another app, or embed it in a QR code so the operator can open a guide or step directly from the HoloLens shell.
+- **Create and copy a link to a guide or step.** Share the link with a team member, make the link available from another app, or embed it in a QR code so the operator can open a guide or step directly from the [!include[pn-hololens](../includes/pn-hololens.md)] shell.
 
 - **Open an app created in Power Apps from a step.** Add a Power Apps link to a step to create a seamless workflow. For example, display IoT data, add a quiz, or provide access to data-entry forms.
 
-- **Deactivate or delete guides.** Authors can now deactivate guides that are no longer needed directly from the PC app. Admins can continue to activate, deactivate, or delete guides from the Dynamics 365 Guides portal.
+- **Deactivate or delete guides.** Authors can now deactivate guides that are no longer needed directly from the PC app. Admins can continue to activate, deactivate, or delete guides from the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] portal.
 
 - **Retract dotted lines.** Authors can easily remove a dotted line (tether) from a step.
 
