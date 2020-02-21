@@ -53,10 +53,6 @@ If you're editing an existing guide, where an asset was placed in a bin in the P
 
 Some glTF files may have dependencies in other folders that the app may not have permissions to when uploading. This might result in errors or broken 3D models in the gallery. Please make sure you either have permissions to all dependencies, or that you have all of them in the same folder when uploading glTF models. 
 
-## I have an issue that isn't listed in these troubleshooting steps
-
-Please contact customer service: [https://docs.microsoft.com/dynamics365/get-started/support/](https://docs.microsoft.com/dynamics365/get-started/support/). This page can also be found by signing in to your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] account and selecting the **Support** link.
-
 ## See also
 
 [Known issues with Dynamics 365 Guides generally](known-issues.md)<br>
