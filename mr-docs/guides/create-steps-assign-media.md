@@ -155,7 +155,7 @@ You can import your own custom 3D models and add them to the **3D parts** librar
     
 ## What file formats are supported for 3D models, images, and videos?
 
-Dynamics 365 Guides supports the following formats:
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports the following file formats:
 
 |Media|Supported formats|Best practice|
 |--------------|------------------------------|-----------------------------------------------------------------|
