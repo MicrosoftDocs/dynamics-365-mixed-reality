@@ -11,17 +11,16 @@ ms.reviewer: v-brycho
 
 # Add a website or Power Apps link to a step in Dynamics 365 Guides
 
-You can use add a website link or a Power Apps link to a Step card in Microsoft Dynamics 365 Guides.
+You can use add a website link or a Power Apps link to a Step card in Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
 
 - **Website link.** Add a website link to a step so that operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about Internet of Things (IoT) sensors. Website links let authors create a seamless workflow for operators.
 
 - **Power Apps link.** [Power Apps](https://products.office.com/en-us/business/microsoft-powerapps) enables teams to create custom 
-applications with low-code tools to solve unique business workflows. By combining Dynamics 365 Guides and Power Apps, you can extend 
-Guides capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a 
+applications with low-code tools to solve unique business workflows. By combining [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] and Power Apps, you can extend [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a 
 link to an interactive quiz app, a parts re-ordering app, or an app that provides the latest status on IoT sensors.  
 
    >[!NOTE]
-   >Operators need a [Power Apps license](https://powerapps.microsoft.com/en-us/pricing/) to run Power Apps from Dynamics 365 Guides. 
+   >Operators need a [Power Apps license](https://powerapps.microsoft.com/en-us/pricing/) to run Power Apps from [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
 Operators must also have [permission](https://docs.microsoft.com/en-us/powerapps/maker/canvas-apps/share-app#share-an-app) to view the app created in Power Apps.
 
 ## Add a website link to a step
