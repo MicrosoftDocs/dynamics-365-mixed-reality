@@ -161,7 +161,7 @@ Dynamics 365 Guides supports the following formats:
 |--------------|------------------------------|-----------------------------------------------------------------|
 |3D models|FBX, GLB, glTF, STL, PLY|Make sure to optimize your 3D models as much as possible to maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)].|
 |Images|PNG, JPG, JPEG, BMP, GIF, TIF|
-|Video/audio|MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV|
+|Video/audio|MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV|Make sure to keep your videos less than 2 minutes long, and focused on one step at a time.|
 
 ## What's next?
 
