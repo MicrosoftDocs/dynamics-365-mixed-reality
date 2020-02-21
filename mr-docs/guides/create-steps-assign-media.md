@@ -135,15 +135,13 @@ You can import your own custom 3D models and add them to the **3D parts** librar
     ![Importing a custom 3D part](media/import-object.PNG "Importing a custom 3D part")
 
 > [!NOTE]
-> You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (computer-aided design \[CAD\]) models, or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]. For more information about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], see these topics:
->
-> - [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)
+> You can use a combination of third-party tools to prepare your 3D (computer-aided design \[CAD\]) models. For more information, see these articles:
 >
 > - [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)
 >
 > - [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)
 >
-> - [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+> - [Tutorials overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/tutorials-overview)
 
 ## Add media (images or videos)
 
