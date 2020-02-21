@@ -86,5 +86,6 @@ If you ever feel that holograms are getting in the way, you can turn them off wi
 
 ## See also
 
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about operating a guide](https://aka.ms/guidesoperate)<br>
+<!--![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about operating a guide](https://aka.ms/guidesoperate)<br>
+-->
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Calibrate your HoloLens](https://docs.microsoft.com/windows/mixed-reality/calibration)
