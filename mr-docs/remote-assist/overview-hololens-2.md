@@ -1,9 +1,9 @@
 ---
 title: Overview of Dynamics 365 Remote Assist on HoloLens 2
 author: sophiasysun
-description: VERY BRIEF DESCRIPTION OF THIS CONTENT
-ms.author: MS ALIAS
-ms.date: 00/00/2020
+description: Overview of Remote Assist features and links to HoloLens 1 and HoloLens 2 gestures 
+ms.author: sopsun
+ms.date: 02/20/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -48,3 +48,37 @@ Remote Assist supports different languages on HoloLens 1 versus HoloLens. Check 
 
 > Tip
 > Remote Assist on HoloLens 1 and HoloLens 2 offer the same capabilities. However, HoloLens 1 gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens 1 gestures](https://docs.microsoft.com/en-us/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](https://docs.microsoft.com/en-us/hololens/hololens2-basic-usage) before reading the rest of this document.
+
+
+
+
+## This document assumes you:
+
+* Have a subscription to Dynamics 365 Remote Assist and Microsoft Teams
+* Have HoloLens running the Windows 10 April 2018 Update
+* Have contact using the latest version of [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software?rtc=1) on a PC running Windows 10 or a Microsoft Teams on mobile. Learn about using Teams with Dynamics 365 Remote Assist. [will add link when I publish it]
+*	Have an internet connection. At least 1.5 MB of bandwidth is recommended.
+*	To connect to Dynamics 365 Field Service from within Dynamics 365 Remote Assist, you’ll need a Dynamics 365 license
+* Have installed D365 Remote Assist app on your HoloLens 1 or 2 
+
+## Using HoloLens 1 gestures in Remote Assist 
+
+HoloLens 1 offers several ways to interact with holograms as you navigate the device and various applications. Please read [this](https://docs.microsoft.com/en-us/hololens/hololens1-basic-usage) to learn how to:
+* Navigate the Start menu using bloom
+*	Select holograms with gaze, airtap, and voice
+* Move, resize, and rotate apps
+*	and more.
+
+## Using HoloLens 2 gestures in Remote Assist 
+
+Compared to HoloLens 1, HoloLens 2 offers more ways for you to navigate the device and various applications. Please read [this](https://docs.microsoft.com/en-us/hololens/hololens2-basic-usage) to learn how to:
+*	Navigate the Start menu by tapping your wrist
+*	Select holograms with gaze, airtap, voice, and touch
+*	Move, resize, and rotate apps
+*	and more.
+
+You can interact with Remote Assist similarly to how you interact with HoloLens 2 Operating System features. For example, 
+In Remote Assist, you can select something in three ways.
+*	If it’s out of your reach, extend your arm, aim your hand ray, and airtap.    
+*	If it’s within your reach, touch it directly. 
+*	To use your voice, say “Remote Assist” followed by voice command for that button. A full list of voice commands can be found at the end of the document. The easiest way to see the voice command for Remote Assist features is to say “Remote Assist.” Then, the app will display the name of each button, as you see in the image above. After a few seconds, these labels will automatically disappear. 
