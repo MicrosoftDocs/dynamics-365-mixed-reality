@@ -22,7 +22,7 @@
 ### [Update a Dynamics 365 Field Service work order](update-field-service-work-order-hololens.md)
 ### [Close the app](close-app-hololens.md)
 ### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
-### [Report a bug](report-a-bug-holoens.md)
+### [Report a bug](report-a-bug-hololens.md)
 ### [See also](see-also-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
 
@@ -39,21 +39,12 @@
 ### [Set up Teams on PC and mobile](set-up-teams-all.md)
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
 ### [Collaborate with Remote Assist user via Teams on mobile](teams-mobile-all.md)
-(Don't need files below this line)
-### [Making + taking calls](use-microsoft-teams-with-remote-assist.md)
-### [Join a meeting](join-a-meeting-teams.md)
-### [Add annotations](add-annotations-teams.md)
-### [Share files](share-files-teams.md)
-### [Take a snapshot?????](take-snapshot-teams.md)
-### [Record calls](record-calls-teams.md)
-### [Send texts + voice messages](send-texts-voice-messages-teams.md)
-### [Update a Dynamics 365 Field Service work order?????](update-field-service-work-orders-teams.md)
-## Integrations
-### [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
+
 ## Additional resources
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
 ### [FAQ](faq.md)
+
 ## Legal documents
 ### [Dynamics 365 Remote Assist software license terms](../legal/remote-assist-license-terms.md)
 ### [Dynamics 365 Remote Assist free trial software license terms](../legal/remote-assist-license-terms-free-trial.md)
