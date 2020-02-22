@@ -116,7 +116,7 @@ Then, you will see the **mixed reality toolbar**.
 * To delete every annotation you’ve added, select **Erase all** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all") and then select “Delete All Notes”
 * To delete only the annotations you added since the most recent time you entered Edit mode, select **Erase** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")and then select “Clear Current Notes” It does not clear the annotations your collaborator added.
 
-When you’re done adding annotations, press ![Check](TeamsMobile_Check.png "Check") to resume the live video feed. All the annotations you and will persist even after you stopped editing. 
+When you’re done adding annotations, press ![Check](media/TeamsMobile_Check.png "Check") to resume the live video feed. All the annotations you and will persist even after you stopped editing. 
 
 > [!NOTE]
 > Each collaborator can only undo and delete their own annotations.
