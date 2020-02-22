@@ -8,7 +8,7 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# File sharing  
+# Share files
 
 ## Display your OneDrive file in your space
 
