@@ -277,11 +277,11 @@ When a Remote Assist mobile user sends a 2D snapshot and starts annotating, thei
 
 Note that annotations are only displayed during the 2D snapshot session. When the Remote Assist mobile user exists 2D snapshot mode, annotations will be removed. 
 
-Learn more about this feature [here.] (https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/toc-sandbox/mr-docs/remote-assist/mobile-app/annotate-snapshot.md#capture-2d-snapshot-and-annotate-scenario)
+Learn more about this feature [here.](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/toc-sandbox/mr-docs/remote-assist/mobile-app/annotate-snapshot.md#capture-2d-snapshot-and-annotate-scenario)
 
 ## Send a text message
 
-Press the ![Text](TeamsMobile_Text.png "Text") to open the text chat to send text messages. After the call, all participants can access the messages via the Teams chat.
+Press the ![Text](media/TeamsMobile_Text.png "Text") to open the text chat to send text messages. After the call, all participants can access the messages via the Teams chat.
 
 
 
