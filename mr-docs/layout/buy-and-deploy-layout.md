@@ -2,7 +2,7 @@
 author: StaceyLaw
 description: Learn how to buy Dynamics 365 Layout, add users to the subscription, and deploy the app to users in several different ways
 ms.author: slaw
-ms.date: 2/12/2020
+ms.date: 2/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Buy and deploy Dynamics 365 Layout
