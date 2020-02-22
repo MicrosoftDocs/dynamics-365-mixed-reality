@@ -2,7 +2,7 @@
 author: StaceyLaw
 description: Overview of Dynamics 365 Layout
 ms.author: slaw
-ms.date: 02/12/2020
+ms.date: 02/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview of Dynamics 365 Layout
