@@ -92,7 +92,7 @@ Regardless of whether you’re in a one-to-one call or a meeting with a Remote A
 *	**Start video with blur** (iOS only) is useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. 
 
 However, some additional features are specific to a one-to-one call or a meeting with a Remote Assist HoloLens user
-*	In a 1:1 call, select **Insert file** to display a file in the Remote Assist HoloLens user’s environment. The file can be from OneDrive, a Teams, or it can be an image stored on your mobile device. Both you and the Remote Assist HoloLens user can view the files via Teams chat after the call ends. (You will notice that in a meeting, the call controls do not display an **Insert File** option. However, you can still display a file in the Remote Assist HoloLens user’s environment by using the **Share** feature). Learn more [add link to “Insert OneDrive file”]
+*	In a one-to-one call, select **Insert file** to display a file in the Remote Assist HoloLens user’s environment. The file can be from OneDrive, a Teams, or it can be an image stored on your mobile device. Both you and the Remote Assist HoloLens user can view the files via Teams chat after the call ends. (You will notice that in a meeting, the call controls do not display an **Insert File** option. However, you can still display a file in the Remote Assist HoloLens user’s environment by using the **Share** feature). Learn more [add link to “Insert OneDrive file”]
 *	In a meeting, select **Start recording** to record a Teams meeting with a Remote Assist HoloLens user. (A 1:1 call between Teams mobile and Remote Assist HoloLens cannot be recorded.) See more [add link to “record your meeting”]
 
 
@@ -133,7 +133,7 @@ Press the ![Text](TeamsMobile_Text.png "Text") to open the text chat to send tex
 
 You can display a varitey of OneDrive files in the Remote Assist HoloLens user's space. For example, add a pdf of a diagram to assist with the call so a technician or auditor can refernce the diagram while keeping their head up and their hands free.
 
-**Display and share link to OneDrive file during a 1:1 call**
+**Display and share link to OneDrive file during a one-to-one call**
 
 Navigate to call controls and select […]. Then select **Insert Files** and select whether to insert file from OneDrive or from Teams teams and channels.   
 
@@ -153,7 +153,7 @@ Because you are sharing your screen, a link to the OneDrive or Teams file is not
 
 ## Share files stored on your device
 
-**Display and share link to on-device photo during a 1:1 call**
+**Display and share link to on-device photo during a one-to-one call**
 Navigate to call controls and select […]. Then select **Insert Files** and select **Photo**. Then, take a photo or select a photo from your mobile device’s photo gallery. Next, select the text chat. You will see that the photo is attached to a blank message, but has not been send yet. Send the photo.
 
 
@@ -264,7 +264,7 @@ Then, you will see the **mixed reality toolbar**.
 * To delete every annotation you’ve added, select **Erase all** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all") and then select “Delete All Notes”
 * To delete only the annotations you added since the most recent time you entered Edit mode, select **Erase** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")and then select “Clear Current Notes” It does not clear the annotations your collaborator added.
 
-When you’re done adding annotations, press ![Check](TeamsMobile_Check.png "Check") to resume the live video feed. All the annotations you and will persist even after you stopped editing. 
+When you’re done adding annotations, press ![Check](media/TeamsMobile_Check.png "Check") to resume the live video feed. All the annotations you and will persist even after you stopped editing. 
 
 > [!NOTE]
 > Each collaborator can only delete their own annotations.
