@@ -14,19 +14,19 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. 
 
 > [!IMPORTANT]
-> On April 1, 2020, [!include[cc-microsoft](../includes/cc-microsoft.md)] will release a **mandatory** update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. Future [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app releases after April 1 will require this solution version and will not work with older versions. Work with your admin to update the solution and apps in early April so you can continue using the PC and HoloLens apps without interruption.
+> On April 1, 2020, [!include[cc-microsoft](../includes/cc-microsoft.md)] will release a **mandatory** update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. Future [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app releases after April 1 will require this solution version and won't work with older versions. Work with your admin to update the solution and apps in early April, to ensure that you can continue to use the PC and HoloLens apps without interruption.
 
 ## February 25, 2020
 
 The February 25 update (app versions 304.2002.19001 and solution version 300.0.4.138) includes the following new features:
 
-- **Anchor your guides by using QR codes.** Now you can use QR code anchors in addition to circular code anchors (previously known as "printed anchors") and holographic anchors (previously known as "digital anchors") to anchor your guides. You can print QR codes in various sizes and embed links in QR codes to specific guides or steps. Use your own QR code or use a QR code available through the Anchor wizard.
+- **Anchor your guides by using QR codes.** You can now use QR code anchors in addition to circular code anchors (previously known as printed anchors) and holographic anchors (previously known as digital anchors) to anchor your guides. You can print QR codes in various sizes. You can also embed links to specific guides or steps in QR codes. You can use your own QR codes, or you can use QR codes that are available through the **Anchor** wizard.
 
-- **Create and copy a link to a guide or step.** Share the link with a team member, make the link available from another app, or embed it in a QR code so the operator can open a guide or step directly from the [!include[pn-hololens](../includes/pn-hololens.md)] shell.
+- **Create and copy a link to a guide or step.** You can share the link to a guide or step with a team member, make it available from another app, or embed it in a QR code, so that the operator can open the guide or step directly from the [!include[pn-hololens](../includes/pn-hololens.md)] shell.
 
-- **Open an app created in Power Apps from a step.** Add a Power Apps link to a step to create a seamless workflow. For example, display IoT data, add a quiz, or provide access to data-entry forms.
+- **Open an app created in Power Apps from a step.** You can add a Power Apps link to a step to create a seamless workflow. For example, you can show Internet of Things (IoT) data, add a quiz, or provide access to data entry forms.
 
-- **Deactivate or delete guides.** Authors can now deactivate guides that are no longer needed directly from the PC app. Admins can continue to activate, deactivate, or delete guides from the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] portal.
+- **Deactivate or delete guides.** Authors can now deactivate guides that are no longer needed, directly from the PC app. Admins can continue to activate, deactivate, or delete guides from the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] portal.
 
 - **Retract dotted lines.** Authors can easily remove a dotted line (tether) from a step.
 
@@ -39,7 +39,7 @@ The January 28 update (app versions 303.2001.21001 and solution version 300.0.3.
 - Authors can add a website link to a step in a guide. Use a website link to show a PDF that is hosted on your server, show a form, or show data from your online Internet of Things (IoT) devices for the operator to review. This feature requires Common Data Service solution version 300.0.3.137. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-steps-assign-media#add-a-website-link-to-a-step" target="_blank">Add a website link to a step</a>.
 
 - Admins can assign **Author** and **Operator** roles to users, so that editing is available only for authors. For more information, see 
-<a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/assign-role" target="_blank">Assign user roles</a>.
+<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role" target="_blank">Assign user roles</a>.
 
 - Drag multiple files from your local file folder into the PC app gallery to import the files.
 
@@ -132,7 +132,7 @@ Visit aka.ms/getguides for steps to upgrade.
 
 - The navigation menu on the left and bottom right of the PC app makes it much faster to navigate between guide content and guide anchor settings. 
  
-- “Gaze-dwell” interactions on [!include[pn-hololens](../includes/pn-hololens.md)] are consistently placed on the left side of list items to make it easier to select while browsing. 
+- "Gaze-dwell" interactions on [!include[pn-hololens](../includes/pn-hololens.md)] are consistently placed on the left side of list items to make it easier to select while browsing. 
 
 - 3D models are loaded for each step to improve performance on [!include[pn-hololens](../includes/pn-hololens.md)].
  
