@@ -65,18 +65,18 @@ You can also grab the navigation bar at any time to place the card where you wan
 
 ## Access a website linked from the Step card
 
-If a Step card includes a **Website link** button, you can go to the website by selecting the button. For example, there might be a link to a parts diagram or a parts inventory system. The website is opened in the HoloLens Edge browser. When you close the browser, you go back to the step that you were working on.
+If a Step card includes a **Website link** button, you can go to the website by selecting the button. For example, there might be a link to a parts diagram or a parts inventory system. The website is opened in the HoloLens Microsoft Edge browser. When you close the browser, you go back to the step that you were working on.
 
 ![Website link button](media/website-button-runtime.PNG "Website link button")
 
-## Launch an app created in Power Apps from the Step card
+## Open an app created in Power Apps from the Step card
 
-If a Step card includes a **Power Apps** button, you can launch an app by selecting the button. The app opens in a browser on HoloLens. When you close the browser, you return to the step. 
+If a Step card includes a **Power Apps** button, you can open an app by selecting the button. The app is opened in a browser on HoloLens. When you close the browser, you return to the step. 
 
->[!NOTE]
->You need a Power Apps license to run Power Apps from Dynamics 365 Guides. You must also have permission to view the app created in Power Apps.
+> [!NOTE]
+> To run Power Apps from Dynamics 365 Guides, you must have a Power Apps license. You must also have permission to view the app that was created in Power Apps.
 
-![PowerApps button](media/website-button-runtime.PNG "PowerApps button")
+![Power Apps button](media/website-button-runtime.PNG "Power Apps button")
 
 ## Turn off holograms
 
