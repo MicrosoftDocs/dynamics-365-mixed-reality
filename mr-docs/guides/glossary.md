@@ -31,7 +31,7 @@ The person who creates a guide.
 ## Calibration
 A process in which [!include[pn-hololens](../includes/pn-hololens.md)] adjusts the hologram display according to a user's interpupillary distance (IPD). The [!include[pn-hololens](../includes/pn-hololens.md)] device must be calibrated correctly so that the guide aligns properly in the real world. Proper calibration is also necessary to place holographic objects in [!include[pn-hololens](../includes/pn-hololens.md)] Author mode. [!include[pn-hololens](../includes/pn-hololens.md)] includes a Calibration app that can be used by authors and operators for this purpose. 
 
-## Circular code anchor (previously known as a "printed anchor")
+## Circular code anchor (previously known as a printed anchor)
 A code that you print and attach to a physical object in the real world to anchor a guide. For more information, see [Anchor your guide in the real world](anchor.md).
 
 ## Dotted line
@@ -46,8 +46,8 @@ The act of looking at a user interface element with [!include[pn-hololens](../in
 ## Gesture
 A hand movement that enables an operator to do an action in mixed reality. For more information, see [Gestures to know](authoring-gestures.md).
 
-## Holographic anchor (previously known as a "digital anchor")
-A 3D representation used to anchor holograms in the real world. You place the digital representation, which can be a CAD model or scanned model, directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor. For more information, see [Anchor your guide in the real world](anchor.md).
+## Holographic anchor (previously known as a digital anchor)
+A 3D representation that is used to anchor holograms in the real world. You place the digital representation directly over its counterpart in the real world, and then use a gesture to align the guide to the digital anchor. The digital representation can be a computer-aided design (CAD) model or a scanned model. For more information, see [Anchor your guide in the real world](anchor.md).
 
 ## Interpupillary distance (IPD)
 The distance between a user's eyes. Different users have different IPDs. To align content correctly, [!include[pn-hololens](../includes/pn-hololens.md)] needs to be calibrated for each user's IPD. 
