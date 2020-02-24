@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Learn how to create and copy a link to a guide in Dynamics 365 Guides so you can share it with a team mate, use it in another app, or embed it in a QR code.
+description: Learn how to create and copy a link to a guide in Microsoft Dynamics 365 Guides, so that you can share it with a teammate, use it in another app, or embed it in a QR code.
 ms.author: mamaylya
 ms.date: 02/25/2020
 ms.service: crm-online
@@ -11,11 +11,11 @@ ms.reviewer: v-brycho
 
 # Create and copy a link to a guide or step in Dynamics 365 Guides
 
-You might want to create and copy a link to a guide or a step in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] if you want to:
+You might want to create and copy a link to a guide or a step in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] for one or both of these reasons:
 
-- Share the link with another author through email or chat.
+- You want to share the link with another author through email or chat.
 
-- Embed the link in a QR code. When you embed a link in a QR code, when you or the operator scans the QR code from the HoloLens shell, it automatically opens that guide or step.
+- You want to embed the link in a QR code. In this case, when you or the operator scans the QR code from the HoloLens shell, the guide or step is automatically opened.
 
 ## Create and copy a link to a guide
 
@@ -39,7 +39,7 @@ You might want to create and copy a link to a guide or a step in [!include[cc-mi
 [Install and sign in to the PC app](install-sign-in-pc-app.md)<br>
 [Create a guide](create-guide.md)<br>
 [Anchor your guide to the real world](anchor.md)<br>
-[Structure your guide in the Outline page](structure-guide.md)<br>
+[Structure your guide on the Outline page](structure-guide.md)<br>
 [Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
 [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
