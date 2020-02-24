@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 ## I can't sign in
 
-To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] sign-in credentials for your organization. It will resemble: johndoe@contoso.onmicrosoft.com. You can't use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Store, and so on) or your corporate credentials to sign in. 
+To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] sign-in credentials for your organization. It will resemble: `johndoe@contoso.onmicrosoft.com`. You can't use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Store, and so on) or your corporate credentials to sign in. 
 
 If you see any of the following errors, contact your IT admin, or see the self-service documentation at <https://aka.ms/guidesdocs>:
 
@@ -25,26 +25,26 @@ If you see any of the following errors, contact your IT admin, or see the self-s
 
 ## I don't see any guides in the Guides list
 
-If you don't see any guides, either your internet connection is unstable, or you might have signed into an instance that doesn't have any guides. First, check your internet connection. If you're connected, try signing in again, but this time make sure you sign into the instance that has the guides you were looking for. If you still don't see any guides, contact your administrator.
+If you don't see any guides, either your internet connection is unstable, or you might have signed in to an instance that doesn't have any guides. First, check your internet connection. If you're connected, try to sign in again, and make sure that you sign in to the instance that has the guides that you're looking for. If you still don't see any guides, contact your admin.
 
 ## Improvements for 3D model positioning in the October 1 release might shift models in guides that were created before October 1, 2019
 
-The October 1 release includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
+In the October 1 release, code for hologram positions was refactored to enhance overall performance and enable future improvements. If scale was applied to imported 3D models, you might notice that the position of those models has shifted. In this case, you must reposition those 3D models. This issue doesn't affect the position of models from the 3D toolkit.
 
-## "Create account" link when signing in with a new account doesn't work
+## The Create account link doesn't work when I try to use a new account to sign in
 When signing in with a brand new account on the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps, there is a link to create a new account:
 
-![Sign-in screen](media/sign-in-screen.PNG "Sign-in screen")  
+![Sign-in screen](media/sign-in-screen.PNG "Sign-in screen")
  
 Please do not use this link to create an account–it doesn't work.
 
-## I can't see guides that I created or guides created by my teammates
+## I can't see guides that I created or guides that my teammates created
 
 If you don't see any guides, either your internet connection is unstable, or you might have signed in to an instance that doesn't have any guides. First, check your internet connection. If you're connected, try signing in again, but this time make sure you sign into the instance that has the guides you were looking for. If you still don't see any guides, contact your administrator.
 
-## Text wrapping on PC and HoloLens might differ in rare cases
+## Text wrapping on the PC and in HoloLens might differ in rare cases
 
-In rare cases, you might notice that text is wrapped on the step card view in [!include[pn-hololens](../includes/pn-hololens.md)] but not on the PC. This is because [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] renders fonts at different sizes for readability between PC and [!include[pn-hololens](../includes/pn-hololens.md)], and different widths of characters might cause them to go to the next line. To ensure this does not affect operator experience, validate the text on all steps on the [!include[pn-hololens](../includes/pn-hololens.md)] app before sharing your guides with operators.
+In rare cases, you might notice that text is wrapped in the Step card view in [!include[pn-hololens](../includes/pn-hololens.md)] but not on the PC. This issue occurs because, for the sake of readability, [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] renders fonts at different sizes on the PC and in [!include[pn-hololens](../includes/pn-hololens.md)], and different widths of characters might cause them to go to the next line. To ensure that this issue doesn't affect the operator experience, validate the text for all steps in the [!include[pn-hololens](../includes/pn-hololens.md)] app before you share your guides with operators.
 
 ## I have an issue that isn't listed in these troubleshooting steps
 
