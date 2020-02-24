@@ -1,30 +1,35 @@
 ---
-title: Low Bandwidth
+title: Low-bandwidth mode in Remote Assist Mobile
 author: xonatia
 description: How the app works in environments with low network conditions 
 ms.author: xolee
-ms.date: 00/00/2020
+ms.date: 02/27/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Low Bandwidth Mode
+# Low-bandwidth mode
 
-###
-Most of our technicians work on factory floors or remote locations without strong network connectivity. The lack of strong network connectivity inhibits our technicians from troubleshooting and resolving problems in real-time. Now, Remote Assist Mobile provides technician with the ability to discuss, diagnose, and resolve issues with remote experts even in low bandwidth scenarios.
+Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity, technicians may have trouble troubleshooting and resolving problems in real time. Remote Assist Mobile gives technicians the ability to discuss, diagnose, and resolve issues with remote experts even in low-bandwidth scenarios.
 
-If the bandwidth is between 150 kbps and 1.5 Mbps, the latency is higher than 1,000 ms, or the packet loss higher than 10%, it is considered poor network.
+Poor network connectivity is determined by the following conditions: 
 
-This feature auto-detects if the technician is experiencing poor network conditions. If the poor netwoork requirements are met, the technician is prompted to share snapshots with the remote expert to collaborate, instead of transmitting a live video feed. Now, the expert can view and annotate images of better quality, instead of viewing a low-quality video.
+- The bandwidth is between 150 kbps and 1.5 Mbps
+- The latency is higher than 1,000 ms
+- The packet loss higher than 10 percent
 
-### Individual Poor Network Requirements
-- Minimum bandwidth  (in/out) - 150 kbps / 150 kbps
-- Maximum latency  (in/out) - 500 ms / 500 ms (1,000 ms) 
-- Maximum packet loss (in/out) - 10% / 10%  
+Remote Assist Mobile autodetects if the technician is experiencing poor network conditions. If so, the technician is prompted to share snapshots with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate images of better quality, instead of viewing a low-quality video.
+
+### Individual poor network requirements
 	
-Poor network takes into account the interaction of the three components: **bandwidth**, **latency**, and **packet loss**. Here's an example of a very bad network profile that allows users to sign into Remote Assist Mobile and connect to a call with an expert.
+Poor network takes into account the interaction of the three components: **bandwidth**, **latency**, and **packet loss**:
 
-### Poor Network Profile     
+- Minimum bandwidth (in/out) - 150 kbps / 150 kbps
+- Maximum latency (in/out) - 500 ms / 500 ms (1,000 ms) 
+- Maximum packet loss (in/out) - 10% / 10%  
+
+ Here's an example of a poor network profile that allows users to sign into Remote Assist Mobile and connect to a call with an expert.
+    
 | Variables  | Measurements |
 | ------------- | ------------- |
 | Bandwidth  | 150 kbps / 150 kbps  |
@@ -32,39 +37,41 @@ Poor network takes into account the interaction of the three components: **bandw
 | Packet loss  | 10% / 10%  |
 
 > [!NOTE]
-> Given the above known values for **Bandwidth** and **Packet Loss**, exceeding a round trip **Latency** of 800 ms will result in the a slower in-app experience. These variables are interdependent and the change in one variable can affect the other variables. 
+> Given the above known values for **Bandwidth** and **Packet Loss**, exceeding a round trip **Latency** of 800 ms will result in a slower in-app experience. These variables are interdependent and change in one variable can affect the other variables. 
 
-## Poor network connectivity customer scenario
+## How it works
+
+Let's take a quick look at what happens in a field scenario when a technician encounters poor network connectivity. In this scenario, the technician is our field worker, while the remote expert is elsewhere. 
 
 1. The technician launches a video call with a remote expert.
-###
-![Launch Call](./media/network_1.png "Launch Call") 
-###
-2. In the call, Remote Assist Mobile **auto-detects** if the technician is experiencing poor network conditions. 
-###
-![Detection](./media/network_2.png "Detection") 
-###
+
+![Side-by-side screenshots of Remote Assist on Mobile and Microsoft Teams, launching a call.](./media/network_1.png "Launch Call") 
+
+2. In the call, Remote Assist Mobile autodetects if the technician is experiencing poor network conditions. 
+
+![Side-by-side screenshots of Remote Assist on Mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions](./media/network_2.png "Detection") 
+
 3. It prompts the technician to use the **snapshot tool** to share images to the expert.
-###
-![Share](./media/network_3.png "Share") 
-###
+
+![Side-by-side screenshots of Remote Assist on Mobile and Microsoft Teams, showing the Poor Network notification and the Share Snapshot option on the mobile device screen.](./media/network_3.png "Share") 
+
 4. The technician is instructed to use the **snapshot tool**.
-###
-![Tool Tip](./media/network_4.png "Tool Tip") 
-###  
-5. The technician takes a snapshot and it is shared to the expert's screen. **The expert now sees a snapshot of better quality!**
-###
-![Expert-side Snapshot](./media/network_5.png "Expert-side Snapshot") 
-### 
-6. The technician and expert can **annotate simultaneously** on the snapshot.
-###
-![Annotate](./media/network_6.png "Annotate") 
-###
+
+![Side-by-side screenshots of Remote Assist on Mobile and Microsoft Teams, showing the tooltip on mobile that prompts the technician to share a snapshot.](./media/network_4.png "Tool Tip") 
+ 
+5. The technician takes a snapshot, which is shared to the remote expert's screen. The expert now sees a snapshot of better quality!
+
+![Side-by-side screenshots of Remote Assist on Mobile and Microsoft Teams, showing the snapshot on both screens.](./media/network_5.png "Expert-side Snapshot") 
+
+6. The technician and expert can annotate simultaneously on the snapshot.
+
+![Side-by-side screenshots of Remote Assist on Mobile and Microsoft Teams, showing annotations on the snapshot on both screens.](./media/network_6.png "Annotate") 
+
 7. After sharing a snapshot, the technician can save it to the mobile device's **Photo Gallery** or **discard it**.
-###
-![Photo Gallery](./media/network_7.png "Photo Gallery") 
-###
+
+![Side-by-side screenshots of Remote Assist on Mobile and Microsoft Teams, showing the option to either save or discard the snapshot on mobile.](./media/network_7.png "Photo Gallery") 
+
 8. The technician now returns to the video call and can continue to send snapshots to the expert.
-###
-![Video Feed](./media/network_2.png "Video Feed") 
-###
+
+![Side-by-side screenshots of Remote Assist on Mobile and Microsoft Teams, showing the return to video call.](./media/network_2.png "Video Feed") 
+

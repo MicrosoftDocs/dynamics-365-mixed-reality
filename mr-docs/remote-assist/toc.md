@@ -1,12 +1,14 @@
 # Dynamics 365 Remote Assist
 ## [Overview](index.md)
-## [Requirements](requirements.md)
-## [Free trials for Dynamics 365 Remote Assist](try-remote-assist.md)
-## [Buy Dynamics 365 Remote Assist](buy-remote-assist.md)
-## [Deploy Dynamics 365 Remote Assist](deploy-remote-assist.md)
+## Setup
+### [Requirements](requirements.md)
+### [Get a free trial](try-remote-assist.md)
+### [Buy Remote Assist](buy-remote-assist.md)
+### [Deploy Remote Assist](deploy-remote-assist.md)
 ## [Set up cross-company calling (for admins)](cross-company-calling.md)
 ## [HoloLens user guide](user-guide.md)
-## [Remote Assist Mobile Overview](mobile-app/remote-assist-mobile-overview.md)
+## [Remote Assist Mobile]
+### [Overview](mobile-app/remote-assist-mobile-overview.md)
 ### [Learn the Tools](mobile-app/learn-the-tools.md)
 ### [Making Calls](mobile-app/making-calls.md)
 ### [Annotate your Environment](mobile-app/annotate-your-environment.md)
