@@ -15,7 +15,7 @@ Watch these videos to quickly learn the basics of [!include[cc-microsoft](../inc
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide on HoloLens using HoloLens 1](https://aka.ms/hololensauthor)<br>
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide on HoloLens by using HoloLens 1](https://aka.ms/hololensauthor)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your organization's guides](https://aka.ms/guidesanalyze)
 <!--
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Set up a printed anchor for your guide](https://aka.ms/guidesprintedanchor)<br>
