@@ -34,6 +34,27 @@ When the call ends, or when a Teams user ends the recording, the recording will 
 * The Teams mobile user initiates the call  
 *	The Teams desktop user initiates the call using the Teams Call tab
 
+## Cloud-based recording layout 
+
+At this time, the layout of the Teams recording depends on the number of call participants, and the layout cannot be configured. When using Teams to record the call, the Remote Assist HoloLens user’s never occupies the entire recording. If it is imperative that your recording only captures as much of the Remote Assist HoloLens user’s view as possible, and as little of Teams user’s outgoing videos (or avatars), consider using one of the alternative methods of recording listed below. 
+
+Examples listed below.
+
+* In a Teams recording with two participants, each participant’s outgoing video (or avatar) occupies one half of the recording, and both halves are vertical. This means that during a Remote Assist call, a Teams desktop user sees a horizonal slice of what you see, but the recording only captures the middle vertical slice of what you see. Furthermore, during the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies half the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy half the recording.)
+![2call](media/2call.png "2call")
+
+*	In a Teams recording with three participants, each participant’s outgoing video (or avatar) occupies one third of the recording. Furthermore, during the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one third the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one third of the recording.)
+![3call](media/3call.png "3call")
+
+*	In a Teams recording with four or more participants, each participant’s outgoing video (or avatar) occupies one fourth of the recording. During the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one fourth of the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one fourth of the recording.)  
+![4call](media/4call.png "4call")
+
+* A Teams recording including four or more participants splits the horizonal recording into four, with remaining participants’ avatars in the bottom right corner of the recording. 
+![5call](media/5call.png "5call")
+
+
+ 
+ 
 
 ## Alternative methods for recording 
 
