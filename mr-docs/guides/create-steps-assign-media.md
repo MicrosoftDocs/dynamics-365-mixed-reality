@@ -126,16 +126,16 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
 ### Import a file by using the Import command
 
-1.	Select **Import** in the lower-right corner of the page.
+1. Select **Import** in the lower-right corner of the page.
 
     ![Import button](media/import-command.PNG "Import button")
 
-2.	Find the files that you want to import, and then select **Open**.
+2. Find the files that you want to import, and then select **Open**.
 
     ![Importing a custom 3D part](media/import-object.PNG "Importing a custom 3D part")
 
 > [!NOTE]
-> You can use a combination of third-party tools to prepare your 3D (computer-aided design \[CAD\]) models. For more information, see these articles:
+> You can use a combination of third-party tools to prepare your 3D (computer-aided design \[CAD\]) models. For more information, see these topics:
 >
 > - [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)
 >
@@ -152,16 +152,16 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 2. Drag the image or video to the **Image or video** box.
 
     ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
-    
+
 ## What file formats are supported for 3D models, images, and videos?
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports the following file formats:
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports the following file formats.
 
-|Media|Supported formats|Best practice|
-|--------------|------------------------------|-----------------------------------------------------------------|
-|3D models|FBX, GLB, glTF, STL, PLY|Make sure to optimize your 3D models as much as possible to maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see [Convert CAD drawings to use as holograms](import-tool.md).|
-|Images|PNG, JPG, JPEG, BMP, GIF, TIF|
-|Video/audio|MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV|Make sure to keep your videos less than 2 minutes long, and focused on one step at a time.|
+| Media | Supported formats | Best practice |
+|-------|-------------------|---------------|
+| 3D models | FBX, GLB, glTF, STL, PLY | Optimize your 3D models as much as possible, to help maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see [Convert CAD drawings to use as holograms](import-tool.md). |
+| Images | PNG, JPG, JPEG, BMP, GIF, TIF | |
+| Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV | Keep your videos less than two minutes long and focused on one step at a time. |
 
 ## What's next?
 
