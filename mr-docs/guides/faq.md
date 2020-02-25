@@ -2,7 +2,7 @@
 author: BryceHo
 description: FAQ about Dynamics 365 Guides
 ms.author: makamat
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
@@ -21,7 +21,7 @@ If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] 
 
 3. Find a phone number or submit a support request through the admin center. 
 
-## Why do I have to download two apps?
+## Why are there two apps?
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes two applications:
 
@@ -79,21 +79,15 @@ The data is stored in Common Data Service in the tenant that you have admin priv
 
 ## What file formats are supported?
 
-The following table lists the formats supported for 3D content, images, and videos.
-
-|Media|Supported formats|Best practice|
-|----------|----------------------|-------------------------------------------------------------------------|
-|3D content|glTF, GLB, and FBX|Make sure to optimize your 3D models as much as possible to maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)].|
-|Images|PNG, JPG, JPEG, GIF, TIFF||
-|Videos|MP4, MOV, WMV|Make sure to keep your videos less than 2 minutes long, and focused on one step at a time.|
+For a list of formats that are supported for 3D content, images, and videos, see [Supported file formats](create-steps-assign-media.md#what-file-formats-are-supported-for-3d-models-images-and-videos).
 
 ## Will I lose any data if I close an app inadvertently?
 
 Both apps automatically save your edits as you author a guide. After you're done editing, we recommend pausing for a couple seconds before closing the app to make sure the app has time to sync with the server.
 
-Note that in the [!include[pn-hololens](../includes/pn-hololens.md)] application, if you use the bloom gesture to open the **Start** menu, the app goes on standby (doesn't close). When you select the app tile, you'll return to where you were before and no changes will be lost.
+Note that in the [!include[pn-hololens](../includes/pn-hololens.md)] application, if you use the bloom gesture to open the **Start** menu, the app goes on standby (doesn't close). When you select the app tile, you'll return to where you were before, and no changes will be lost.
 
-## What if the app crashes while authoring. Do I lose data?
+## What if the app crashes while authoring? Do I lose data?
 Both apps automatically save your edits as you author a guide. Any loss of data due to a crash should be minimal.
 
 ## What keyboard shortcuts are available in the PC authoring app?
@@ -106,13 +100,13 @@ If holograms aren't visually clear, [!include[pn-hololens](../includes/pn-holole
 
 To calibrate [!include[pn-hololens](../includes/pn-hololens.md)]:
 
-1.	Use the bloom gesture to open the **Start** menu.
+1. Use the bloom gesture to open the **Start** menu.
 
-2.	Use the bloom gesture again to see all the installed apps. 
+2. Use the bloom gesture again to see all the installed apps. 
 
-3.	Select the Calibration app, and then follow the instructions in the app. 
+3. Select the Calibration app, and then follow the instructions in the app. 
 
-4.	After calibrating, select the [!include[pn-hololens](../includes/pn-hololens.md)] app again.
+4. After calibrating, select the [!include[pn-hololens](../includes/pn-hololens.md)] app again.
 
 If the holograms are visually clear but too bright or too dim, use the buttons on the left side of the [!include[pn-hololens](../includes/pn-hololens.md)] headset to increase or decrease brightness.
 
@@ -124,9 +118,9 @@ Incorrect alignment of holograms can happen for two main reasons:
 
 - The guide needs to be realigned:
 
-- If the guide is aligned by using a **digital anchor**, the digital representation (3D representation laid over its corresponding physical area) isn't aligned correctly. To realign the guide, select the **Anchor** button and then realign the digital representation to perfectly overlay the physical area. 
+    - If the guide is aligned by using a **holographic anchor**, the digital representation (that is, the 3D representation that is laid over the corresponding physical area) isn't aligned correctly. To realign the guide, select the **Anchor** button, and then realign the digital representation so that it's perfectly overlaid on the physical area. 
 
-- If the guide is aligned by using a **printed anchor**, the marker for the guide might not have been printed properly. Try realigning the guide by selecting the **Anchor** button. Alternatively, you can reprint the marker. Make sure that the printed marker lies flat in the work area before you realign.
+    - If the guide is aligned by using a **circular code anchor**, the marker for the guide might not have been printed correctly. Try to realign the guide by selecting the **Anchor** button. Alternatively, you can reprint the anchor. Make sure that the anchor lies flat in the work area before you realign the guide.
 
 For more information about anchoring methods, see [Anchor your guide in the real world](anchor.md).
 

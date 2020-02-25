@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about resources to get started with Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Guides
@@ -29,15 +29,19 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://www.youtube.com/watch?v=PiN31iAiRrQ&feature=youtu.be)
 
+<!--
 - Anchor your guide in the real world:
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a printed anchor](https://www.youtube.com/watch?v=m_I-viB3np8&feature=youtu.be)
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://www.youtube.com/watch?v=m_I-viB3np8&feature=youtu.be)
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a digital anchor](https://www.youtube.com/watch?v=LNQ3W-p7_sU&feature=youtu.be)
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://www.youtube.com/watch?v=LNQ3W-p7_sU&feature=youtu.be)
+-->
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app](https://www.youtube.com/watch?v=HXG8zWOYqlk&feature=youtu.be)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://www.youtube.com/watch?v=HXG8zWOYqlk&feature=youtu.be)
 
+<!--
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://www.youtube.com/watch?v=XIRyvg38qlM&feature=youtu.be)
+-->
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides by using Power BI reports](https://www.youtube.com/watch?v=rkriIa4go1Q&feature=youtu.be)
 
@@ -92,6 +96,8 @@ To learn when features were introduced, or to learn about upcoming features, see
 - [2019 Wave 1 (April 2019 through September 2019)](https://docs.microsoft.com/business-applications-release-notes/April19/index)
 
 - [2019 Wave 2 (October 2019 through March 2020)](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/index)
+
+- [2020 Wave 1 (April 2020 through September 2020)](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)
 
 ## Integrations
 

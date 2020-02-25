@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Overview of Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: overview
 title: Overview of Dynamics 365 Guides
@@ -38,10 +38,10 @@ Check out these overview topics and videos:
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Get started](get-started.md)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Quick overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the HoloLens app](https://aka.ms/hololensauthor)<br>
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the HoloLens app by using HoloLens 1](https://aka.ms/hololensauthor)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide](authoring-overview.md)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of operating a guide](operator-overview.md)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides](https://aka.ms/guidesanalyze)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of analyzing your guides](analytics-guide.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [FAQ](faq.md)
+<!--![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)<br>-->
