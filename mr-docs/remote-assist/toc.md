@@ -12,7 +12,7 @@
 ### [Using the in-app tutorial](mobile-app/mobile-tutorial.md)
 ### [Making calls](mobile-app/making-calls.md)
 ### [Annotate your environment](mobile-app/annotate-your-environment.md)
-### [Capture and annotate snapshots](mobile-app/annotate-snapshot.md)
+### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
 ### [Low bandwidth mode](mobile-app/poor-network-connectivity.md)
 ### [Dynamics 365 Field Service integration](mobile-app/fs-integration.md)
