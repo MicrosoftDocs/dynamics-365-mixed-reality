@@ -51,4 +51,4 @@ Now that we have it enabled, let's see how integration with Field Service works 
 ### 
 
 > [!TIP]
-> Technicians have the ability to initiate a call from the Field Service Mobile app on their mobile devices to the Remote Assist Mobile app. To learn more, visit the article on [making calls](making-calls.md). 
+> Technicians using the Field Service Mobile app on their Android devices can now launch Remote Assist Mobile app and make calls to experts. To learn more, visit the article on [making calls](making-calls.md). 
