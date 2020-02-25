@@ -18,7 +18,7 @@ Technicians can provide feedback or requests directly in the Remote Assist Mobil
 ###
 ![Main Menu](./media/mainmenu.png "Main Menu")
 ###
-2.	Select **Feedback**. You must have the Mail app downloaded set up on your phone to provide in-app feedback.
+2.	Select **Feedback**. You must have the Mail app downloaded and set up onto your mobile device in order to provide feedback to the Remote Assist Mobile team.
 ###
 ![Feedback](./media/feedback.png "Feedback")
 ###
