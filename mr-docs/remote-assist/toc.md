@@ -7,7 +7,7 @@
 ### [Deploy Remote Assist](deploy-remote-assist.md)
 ## [Set up cross-company calling (for admins)](cross-company-calling.md)
 ## [HoloLens user guide](user-guide.md)
-## [Remote Assist Mobile]
+## Remote Assist Mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
 ### [Learn the Tools](mobile-app/learn-the-tools.md)
 ### [Making Calls](mobile-app/making-calls.md)

@@ -1,35 +1,34 @@
 ---
-title: Remote Assist Mobile Overview
+title: Remote Assist Mobile overview
 author: xonatia
-description: Explanation of what is Remote Assist Mobile and how customers can leverage the app
+description: Overview of Remote Assist Mobile
 ms.author: xolee
-ms.date: 00/00/2020
+ms.date: 02/27/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Remote Assist Mobile Overview
+# Remote Assist Mobile overview
 
-###
-Dynamics 365 Remote Assist for mobile phones or tablets enables technicians to connect and collaborate with a remote expert on Microsoft Teams (desktop and mobile). Using live video calling, annotations, and high-resolution snapshots, they can share what they see with the expert to troubleshoot problems together, faster. [Watch a video on Dynamics 365 Remote Assist Mobile](https://www.youtube.com/watch?v=J-C6GE2gFYw&t=27s).
-###
-Some of the differentiators for Remote Assist Mobile are that the mobile device allows easier physical access to confined or hard-to-reach spaces. Additionally, the familiarity with the mobile device allows users’ ease of use and easy access to other mobile apps that are part of your company workflows.
-###
-Dynamics 365 Remote Assist Mobile is now available on Android with ARCore enabled or iOS devices with ARKit enabled. You can view the full list of AR-supported devices [here](https://developers.google.com/ar/discover/supported-devices). You can check out the device requirements [here.](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements)
+Dynamics 365 Remote Assist enables technicians with mobile devices to connect and collaborate with a remote expert on Microsoft Teams (desktop and mobile). Using live video calling, annotations, and high-resolution snapshots, they can share what they see with the expert to troubleshoot problems together, faster. [Watch a video on Dynamics 365 Remote Assist Mobile](https://www.youtube.com/watch?v=J-C6GE2gFYw&t=27s).
+
+When technicians use Remote Assist Mobile on their mobile devices, they may find they have easier physical access to confined or hard-to-reach spaces. Additionally, familiarity with their mobile device facilitates ease of use and easy access to other mobile apps that are part of your company workflows.
+
+Dynamics 365 Remote Assist Mobile is available on Android with ARCore enabled and iOS devices with ARKit enabled. You can find the full list of AR-supported devices [here](https://developers.google.com/ar/discover/supported-devices). Visit our [documentation on product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements) to learn more.
 
 ## Features 
--	One-to-one video calls
--	Mixed reality annotations
--	Capture and annotate 2D snapshots 
--	Send messages through text chat
+- One-to-one video calls
+- Mixed-reality annotations
+- Capture and annotate still snapshots 
+- Send messages through text chat
 - Support for calls in low bandwidth scenarios
--	Integration with Dynamics 365 Field Service
+- Integration with Dynamics 365 Field Service
 
-###
-![Remote Assist Mobile Overview](./media/ram-overview.png "Remote Assist Mobile Overview")
-###
+
+![Simulated image of a technician using Remote Assist Mobile to annotate their environment on a call.](./media/ram-overview.png "Remote Assist Mobile Overview")
+
 
 ### See also
-- Learn how to try Remote Assist Mobile for free [here](../try-remote-assist.md). 
-- Learn how to buy Remote Assist licenses [here](../buy-remote-assist.md). 
-- Learn how to deploy Remote Assist to your workers' devices [here](../deploy-remote-assist.md). 
+- [Try Remote Assist Mobile for free](../try-remote-assist.md). 
+- [Buy Remote Assist licenses](../buy-remote-assist.md). 
+- [Deploy Remote Assist to your workers' devices](../deploy-remote-assist.md). 

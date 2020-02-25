@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 
 # Buy Dynamics 365 Remote Assist
 
-Dynamics 365 Remote Assist gives your workers the tools to complete tasks more quickly, safely, and efficiently, whether they're using   HoloLens 1, HoloLens 2, or their mobile devices.
+Dynamics 365 Remote Assist gives your workers tools to complete tasks more quickly, safely, and efficiently, whether they're using HoloLens 1, HoloLens 2, or their mobile devices.
 
 In this article, we’ll walk through the two types of Remote Assist licenses: 
 - Dynamics 365 Remote Assist license 
