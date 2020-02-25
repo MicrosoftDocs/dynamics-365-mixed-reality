@@ -2,7 +2,7 @@
 author: StaceyLaw
 description: Answers to common questions about using Microsoft Dynamics 365 Layout
 ms.author: slaw
-ms.date: 01/20/2020
+ms.date: 02/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Layout FAQ
@@ -13,16 +13,11 @@ ms.reviewer: v-brycho
 
 Here are answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)].
 
-## Can I try Dynamics 365 Layout before buying it?
+## Is Dynamics 365 Layout being discontinued as a separate application?
 
-Yes, [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] is available as a trial for up to 90 days. It's nearly effortless to install and try out the app. [Learn more about the free 90-day trial for Dynamics 365 Layout](try-layout-free.md). Note that the 90-day trial is only available for users who haven't already purchased a subscription. 
-
-## How do I buy Dynamics 365 Layout?  
-
-If you’re an IT admin, [learn how to buy and deploy the app](buy-and-deploy-layout.md). 
+Yes. For more information, see [Announcing the transition of Dynamics 365 Layout](https://aka.ms/LayoutTransition).
 
 ## How can I tell which version I'm using?
-
 
 To see the version number for [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)], go to **Settings** > **About**.
 
@@ -55,10 +50,6 @@ or to [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Mixed 
 Yes, if you’re the admin, you’ll need an [!include[pn-azure](../includes/pn-azure.md)] AD account to distribute the
 apps, and users of [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] will need an [!include[pn-azure](../includes/pn-azure.md)] AD account to
 sign in to the apps.
-
-## How often is Dynamics 365 Layout updated?
-
-[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] follows the Modern Lifecyle Policy with continuous service updates and major updates every 6 months (October/April). 
 
 ## Can I use the HoloLens clicker with Dynamics 365 Layout?
 
@@ -112,8 +103,7 @@ Still need help? Try our [user forums](https://community.dynamics.com/365/layout
 ### See also
 [Overview of Dynamics 365 Layout](index.md)<br/>
 [Device options and technical requirements](requirements.md)<br/>
-[Use Dynamics 365 Layout on a trial basis for up to 90 days](try-layout-free.md)<br/>
-[Buy and deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br/>
+[Deploy Dynamics 365 Layout](buy-and-deploy-layout.md)<br/>
 [User guide](user-guide.md)<br/>
 [How-to videos](videos.md)<br/>
 
