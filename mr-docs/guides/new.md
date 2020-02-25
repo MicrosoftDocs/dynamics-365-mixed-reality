@@ -24,7 +24,7 @@ The February 25 update (app versions 304.2002.19001 and solution version 300.0.4
 
 - **Create and copy a link to a guide or step.** You can share the link to a guide or step with a team member, make it available from another app, or embed it in a QR code, so that the operator can open the guide or step directly from the [!include[pn-hololens](../includes/pn-hololens.md)] shell.
 
-- **Open an app created in Power Apps from a step requires Common Data Service upgrade).** You can add a Power Apps link to a step to create a seamless workflow. For example, you can show Internet of Things (IoT) data, add a quiz, or provide access to data entry forms.
+- **Open an app created in Power Apps from a step (requires Common Data Service upgrade).** You can add a Power Apps link to a step to create a seamless workflow. For example, you can show Internet of Things (IoT) data, add a quiz, or provide access to data entry forms.
 
 - **Deactivate or delete guides.** Authors can now deactivate guides that are no longer needed, directly from the PC app. Admins can continue to activate, deactivate, or delete guides from the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] portal.
 
