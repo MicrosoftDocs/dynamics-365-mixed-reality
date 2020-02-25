@@ -9,7 +9,7 @@
 ## [HoloLens user guide](user-guide.md)
 ## Remote Assist Mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
-### [Using the in-app tutorial(mobile-app/mobile-tutorial.md)
+### [Using the in-app tutorial](mobile-app/mobile-tutorial.md)
 ### [Making calls](mobile-app/making-calls.md)
 ### [Annotate your environment](mobile-app/annotate-your-environment.md)
 ### [Capture and annotate snapshots](mobile-app/annotate-snapshot.md)
