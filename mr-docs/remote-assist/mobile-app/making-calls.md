@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Making calls in Dynamics 365 Remote Assist Mobile 
 
-Remote Assist Mobile makes receiving expert help easy by providing technicians with the ability to launch video calls with experts who are using Microsoft Teams desktop or mobile. Technicians can make calls to an expert inside or outside of their company. To learn more about how the remote experts communicate via Teams, visit our documentation on [using Teams with Remote Assist](use-microsoft-teams-with-remote-assist.md).
+Remote Assist Mobile makes receiving expert help easy by providing technicians with the ability to launch video calls with experts who are using Microsoft Teams desktop or mobile. Technicians can make calls to an expert inside or outside of their company. To learn more about how the remote experts communicate via Teams, visit our documentation on [using Teams with Remote Assist](../use-microsoft-teams-with-remote-assist.md).
 
 For a successful calling experience, **only a Remote Assist Mobile user (technician) can initiate an outgoing call to either one Teams desktop user (expert) or one Teams mobile user (expert)**.
 
@@ -23,8 +23,8 @@ For a successful calling experience, **only a Remote Assist Mobile user (technic
 > -	If the Remote Assist Mobile app is not open, the technician will not receive incoming call notifications from Teams desktop or mobile.
 
 ## Prerequisites
-- Technicians must have a Remote Assist license. Visit our additional documentation to learn more about the [free trial licenses](try-remote-assist.md) or [subscriptions](buy-remote-assist.md).
-- Experts must have a Microsoft Teams license. Learn more [here](use-microsoft-teams-with-remote-assist.md).
+- Technicians must have a Remote Assist license. Visit our additional documentation to learn more about the [free trial licenses](../try-remote-assist.md) or [subscriptions](../buy-remote-assist.md).
+- Experts must have a Microsoft Teams license. Learn more [here](../use-microsoft-teams-with-remote-assist.md).
 
 ## How it works
 
