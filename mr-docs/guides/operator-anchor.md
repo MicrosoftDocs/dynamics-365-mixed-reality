@@ -2,53 +2,82 @@
 author: Mamaylya
 description: Learn how to anchor a guide in the Microsoft Dynamics 365 Guides HoloLens app if you're an operator.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides HoloLens app as an operator
 ms.reviewer: v-brycho
 ---
 
-# Anchor a guide in the Dynamics 365 Guides HoloLens app (operators)
+# Anchor a guide in the Dynamics 365 Guides HoloLens app (for operators)
 
-The first thing that you see when you open a guide is the anchoring instructions for the guide.
+When you open a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], the first thing that you see is the anchoring instructions for the guide. For example, if a QR code is used to anchor the guide, you see the **Scan QR Code Anchor** page.
 
-![Scan Printed Anchor page](media/scan-printed-anchor.png "Scan Printed Anchor page")
-
-> [!NOTE]
-> The page in the previous illustration shows the anchoring instructions for a printed anchor. The page will differ if you have to anchor your guide by using a digital anchor. The anchoring instructions will tell you how to anchor your guide.
+![Scan QR Code Anchor page](media/qr-code-scan.PNG "Scan QR Code Anchor page")
 
 Like the calibration of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], anchoring a guide is a crucial step. You anchor a guide to make sure that the holographic instructions line up with your real-world environment. If the holograms don't line up, you'll likely be confused when you try to do a task. You could even cause damage. For example, you might drill a hole in the wrong place.
 
-## Printed anchors versus digital anchors
+## Three types of anchors
 
-There are two types of anchors: printed anchors and digital anchors. The method that you use to anchor your guide depends on the type of anchor that is used.
+The way that you anchor your guide depends on the type of anchor that the author selected for the guide. There are three types of anchors: 
 
-### Anchor your guide by using a printed anchor
+- QR code anchor
 
-1. Look for a printed anchor that's attached to a physical object in your real-world environment. The printed anchor will resemble this illustration.
+- Circular code anchor
 
-    ![Printed marker](media/printed-marker.PNG "Printed marker")
+- Holographic anchor
 
-2. On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a hologram that resembles the printed anchor. Find the printed anchor in your real-world environment, and then align the anchor hologram with the printed anchor.
+This topic provides step-by-step instructions for each type of anchor.
 
-3. When the green box is aligned with the printed anchor, gaze at **Confirm** to select it.
+## Anchor your guide by using a QR code anchor
 
-    ![Holographic marker](media/align-marker.PNG "Holographic marker")
+1. Look for a QR code anchor that is attached to a physical object in your real-world environment. The QR code anchor will resemble this illustration.
 
-4. When the **Printed Anchor Found** page appears, follow the on-screen instructions, and then select **Confirm** to continue.
+    ![QR code anchor](media/qr-code-example.PNG "QR code anchor")
 
-    ![Printed Anchor Found page](media/printed-anchor-found.png "Printed Anchor Found page")
+2. Put on your HoloLens, and open the guide. If a QR code is used to anchor the guide, you will see the **Scan QR Code Anchor** page.
 
-### Anchor your guide by using a digital anchor
+3. On the **Scan QR Code Anchor** page, select **Initiate Scan**. 
 
-For a digital anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world.
+    ![Initiate Scan button on the Scan QR Code Anchor page](media/qr-code-scan.PNG "Initiate Scan button on the Scan QR Code Anchor page")
 
-![Digital anchor example](media/digital-anchor-example.PNG "Digital anchor example")
+3. On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a hologram that resembles the QR code anchor. Align the anchor hologram with the QR code anchor. When the green box is aligned, gaze at **Confirm** to select it.
 
-To align the digital anchor with its real-world counterpart, air tap and hold to move the hologram. Tap and hold the blue spheres to rotate the hologram as required.
+    ![QR code alignment](media/qr-code-green-outline.PNG "QR code alignment")
 
-![Rotating a digital anchor](media/rotate-digital-anchor.PNG "Rotating a digital anchor")
+4. On the **QR Code Anchor Found** page, select **Confirm**.
+
+    ![Confirm button on the QR Code Anchor Found page](media/qr-code-confirm.PNG "Confirm button on the QR Code Anchor Found page")
+
+## Anchor your guide by using a circular code anchor
+
+1. Look for a circular code anchor that is attached to a physical object in your real-world environment. The circular code anchor will resemble this illustration.
+
+    ![Circular code anchor](media/circular-code-example.PNG "Circular code anchor")
+
+2. Put on your HoloLens, and open the guide. If a circular code is used to anchor the guide, you will see the **Scan Circular Code Anchor** page.
+
+3. On the **Scan Circular Code Anchor** page, select **Initiate Scan**. 
+
+    ![Initiate Scan button on the Scan Circular Code Anchor page](media/circular-code-scan.PNG "Initiate Scan button on the Scan Circular Code Anchor page")
+
+4. On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a hologram that resembles the circular code anchor. Align the anchor hologram with the circular code anchor. When the green box is aligned, gaze at **Confirm** to select it.
+
+    ![Holographic marker](media/circular-code-green-outline.PNG "Holographic marker")
+
+5. On the **Circular Code Anchor Found** page, select **Confirm**.
+
+    ![Confirm button on the Circular Code Anchor Found page](media/circular-code-confirm.PNG "Confirm button on the Circular Code Anchor Found page")
+
+## Anchor your guide by using a holographic anchor
+
+For a holographic anchor, you align a hologram on your [!include[pn-hololens](../includes/pn-hololens.md)] with a similar object in the real world. For example, in the following illustration, a holographic anchor is being aligned with its physical counterpart in the real world.
+
+![Holographic anchor example](media/digital-anchor-example.PNG "Holographic anchor example")
+
+To align the holographic anchor with its real-world counterpart, air tap and hold to move the hologram. Tap and hold the blue spheres to rotate the hologram as required.
+
+![Rotating a holographic anchor](media/rotate-digital-anchor.PNG "Rotating a holographic anchor")
 
 ## Where alignment information is stored
 

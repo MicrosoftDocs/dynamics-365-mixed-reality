@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Common Data Service environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 02/19/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -18,7 +18,8 @@ After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 
 ## Production environment or default environment?
 
-The type of environment that you create depends on whether you purchased a Dynamics 365 Guides license or not. 
+
+The type of environment that you create depends on whether you purchased a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license.
 
 - **If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], [set up a production environment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup-step-two#set-up-a-production-environment).** A production environment provides you with backup and restore capabilities. 
 
@@ -33,20 +34,20 @@ The type of environment that you create depends on whether you purchased a Dynam
 
     ![New button](media/add-new-environment.PNG "New button")
 
-    The **New environment** dialog box appears on the right side of the page.    
+    The **New environment** dialog box appears on the right side of the page.
 
 3. In the **New environment** dialog box, follow these steps:
 
     1. Enter a name for the environment.
 
     2. In the **Type** field, select **Production**.
-    
+
         ![New environment dialog box](media/new-environment-pane.PNG "New environment dialog box")
 
     3. In the **Region** field, keep the default setting.
 
     4. Set the **Create a database for this environment?** option to **Yes**. 
-       
+
     5. Select **Next**.
 
 3. In the **Add database** dialog box that appears, select your language and currency, keep the default settings for the other fields, and then select **Save**.
