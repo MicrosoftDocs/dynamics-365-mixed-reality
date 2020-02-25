@@ -14,21 +14,19 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. 
 
 > [!IMPORTANT]
-> On April 1, 2020, [!include[cc-microsoft](../includes/cc-microsoft.md)] will release a **mandatory** update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. Future [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app releases after April 1 will require this solution version and won't work with older versions. Work with your admin to update the solution and apps in early April, to ensure that you can continue to use the PC and HoloLens apps without interruption.
+> The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team has postponed the mandatory update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution originally planned for April 1, 2020. We'll provide at least 30 days' advance notice for any mandatory upgrades and a 30-day grace period to work with your admins to make the upgrade.<br>We recommend that you always install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution with every release so that you have access to the latest features and updates.
 
 ## February 25, 2020
 
-The February 25 update (app versions 304.2002.19001 and solution version 300.0.4.138) includes the following new features:
+The February 25 update (app versions 304.2002.19001 and solution version 300.0.4.139) includes the following new features:
 
-- **Anchor your guides by using QR codes.** You can now use QR code anchors in addition to circular code anchors (previously known as printed anchors) and holographic anchors (previously known as digital anchors) to anchor your guides. You can print QR codes in various sizes. You can also embed links to specific guides or steps in QR codes. You can use your own QR codes, or you can use QR codes that are available through the **Anchor** wizard.
+- **Anchor your guides by using QR codes (requires Commmon Data Service upgrade).** You can now use QR code anchors in addition to circular code anchors (previously known as printed anchors) and holographic anchors (previously known as digital anchors) to anchor your guides. You can print QR codes in various sizes. You can also embed links to specific guides or steps in QR codes. You can use your own QR codes, or you can use QR codes that are available through the **Anchor** wizard. Note thaqt this feature is only available on [!include[pn-hololens](../includes/pn-hololens.md)] 2.
 
 - **Create and copy a link to a guide or step.** You can share the link to a guide or step with a team member, make it available from another app, or embed it in a QR code, so that the operator can open the guide or step directly from the [!include[pn-hololens](../includes/pn-hololens.md)] shell.
 
-- **Open an app created in Power Apps from a step.** You can add a Power Apps link to a step to create a seamless workflow. For example, you can show Internet of Things (IoT) data, add a quiz, or provide access to data entry forms.
+- **Open an app created in Power Apps from a step requires Common Data Service upgrade).** You can add a Power Apps link to a step to create a seamless workflow. For example, you can show Internet of Things (IoT) data, add a quiz, or provide access to data entry forms.
 
 - **Deactivate or delete guides.** Authors can now deactivate guides that are no longer needed, directly from the PC app. Admins can continue to activate, deactivate, or delete guides from the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] portal.
-
-- **Retract dotted lines.** Authors can easily remove a dotted line (tether) from a step.
 
 ## January 28, 2020
 
