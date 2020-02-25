@@ -20,8 +20,6 @@ Dynamics 365 Remote Assist Mobile is available on Android with ARCore enabled an
 - One-to-one video calls
 - Mixed-reality annotations
 - Capture and annotate still snapshots 
-- Send messages through text chat
-- Support for calls in low bandwidth scenarios
 - Integration with Dynamics 365 Field Service
 
 
