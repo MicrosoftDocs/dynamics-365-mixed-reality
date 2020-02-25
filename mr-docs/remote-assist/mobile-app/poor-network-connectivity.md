@@ -1,5 +1,5 @@
 ---
-title: Low-bandwidth mode in Remote Assist Mobile
+title: Low bandwidth mode in Remote Assist Mobile
 author: xonatia
 description: How the app works in environments with low network conditions 
 ms.author: xolee
@@ -8,21 +8,21 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Low-bandwidth mode
+# Low bandwidth mode
 
-Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity, technicians may have trouble troubleshooting and resolving problems in real time. Remote Assist Mobile gives technicians the ability to discuss, diagnose, and resolve issues with remote experts even in low-bandwidth scenarios.
+Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians may have trouble troubleshooting and resolving problems in real time. Remote Assist Mobile now gives technicians the ability to discuss, diagnose, and resolve issues with remote experts even in low bandwidth scenarios.
 
-Poor network connectivity is determined by the following conditions: 
+### Poor network connectivity is determined by the following conditions: 
 
 - The bandwidth is between 150 kbps and 1.5 Mbps
 - The latency is higher than 1,000 ms
 - The packet loss higher than 10 percent
 
-Remote Assist Mobile autodetects if the technician is experiencing poor network conditions. If so, the technician is prompted to share snapshots with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate images of better quality, instead of viewing a low-quality video.
+Remote Assist Mobile **autodetects** if the technician is experiencing poor network conditions. If so, the technician is prompted to **share snapshots** with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate images of better quality, instead of viewing a low-quality video feed.
 
 ### Individual poor network requirements
 	
-Poor network takes into account the interaction of the three components: **bandwidth**, **latency**, and **packet loss**:
+Poor network may take into account the interaction of the three components: **bandwidth**, **latency**, and **packet loss**:
 
 - Minimum bandwidth (in/out) - 150 kbps / 150 kbps
 - Maximum latency (in/out) - 500 ms / 500 ms (1,000 ms) 
