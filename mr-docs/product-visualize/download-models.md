@@ -18,11 +18,12 @@ You can download models to use offline when you're away from a cellular network 
 
 ## Enable Offline mode
 
-1. Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then select **Preview features**.
+1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Preview features**.
 
-   ![Preview features](media/preview-features.PNG "Preview features")
+   > [!div class=mx-imgBorder]
+   > ![Preview features](media/preview-features.png "Preview features")
 
-2. In the **Feature Settings** screen, under **Preview features**, slide the **Offline mode** toggle to On.
+2. In the **Feature Settings** screen, slide the **Download products to view offline** toggle to On.
 
    > [!div class=mx-imgBorder]
    > ![Offline mode feature](media/offline-mode.png "Offline mode feature")
@@ -35,7 +36,7 @@ You can download models to use offline when you're away from a cellular network 
 
    ![Cloud button](media/cloud-button.PNG "Cloud button")
    
-   When the model is downloaded, it looks like this:
+   When the model is downloaded, a blue check mark is displayed in place of the cloud button.
    
    ![Model downloaded button](media/model-downloaded.PNG "Model downloaded button")
    
@@ -46,12 +47,12 @@ You can download models to use offline when you're away from a cellular network 
 
 You can update all of your downloaded models at once.
 
-1.	Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then select **Downloads**.
+1.	Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Downloads**.
 
       > [!div class=mx-imgBorder]
       > ![Downloads options](media/downloads-option.png "Downloads options")
 
-2.	Select **Update Downloads** at the upper-right corner of the screen.
+2.	Tap **Update Downloads** at the upper-right corner of the screen.
 
       > [!div class=mx-imgBorder]
       > ![Update downloads button](media/update-downloads.png "Update downloads button")
@@ -63,13 +64,15 @@ You can update all of your downloaded models at once.
 
 ## Delete all downloaded models
 
-1. Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then select the **Settings** button.
+1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then tap the **Settings** button.
 
-   ![Settings button](media/edit-account-settings.png "Settings button")
+      > [!div class=mx-imgBorder]
+      > ![Settings button](media/edit-account-settings.png "Settings button")
 
-2. Next to **Remove all models from device**, select **Remove all**.
+2. Next to **Downloads**, tap **Remove all**.
 
-   ![Remove all setting](media/remove-all-setting.PNG "Remove all setting")
+      > [!div class=mx-imgBorder]
+      > ![Remove all setting](media/remove-all-setting.png "Remove all setting")
 
 ### See also
 
