@@ -53,7 +53,7 @@ The following table shows how notes appear on the model, depending on where the 
         > [!div class=mx-imgBorder]
         > ![Draw or add text](media/draw-add-text.png "Draw or add text")
 
-        The captured image is displayed in the place of **Attach image** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
+        The captured image is displayed in the place of the **Attach image** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
 
         > [!div class=mx-imgBorder]
         > ![Draw or add text](media/note-image-added.png "Draw or add text")
