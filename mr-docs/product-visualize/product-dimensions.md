@@ -4,7 +4,7 @@ description: Enable product dimensions to see model dimensions in Dynamics 365 P
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 01/29/2020
+ms.date: 02/26/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -19,34 +19,36 @@ Product Visualize has a tool to display your model measurements in Imperial or M
 
 To enable product dimensions:
 
-1. Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then select **Preview features**.
+1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Preview features**.
 
-   ![Preview features](media/preview-features.PNG "Preview features")
+    > [!div class=mx-imgBorder]
+    > ![Preview features](media/preview-features.png "Preview features")
 
-2. In the **Feature Settings** screen, under **Preview features**, slide the **Product dimensions** toggle to **On**.
+2. In the **Feature Settings** screen, slide the **3D product dimensions** toggle to On.
 
     > [!div class=mx-imgBorder]
     > ![Product dimensions feature](media/product-dimensions-feature.png "Product dimensions feature")
 
 ## Set measurement units
 
-1. Select the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then select the **Settings** button.
+1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then tap the **Settings** button.
 
-   ![Settings button](media/edit-account-settings.png "Settings button")
+    > [!div class=mx-imgBorder]
+    > ![Settings button](media/edit-account-settings.png "Settings button")
 
-2. Scroll down to the **Measurement Units** section and then select the measurement unit.
+2. Next to **Measurement Units**, tap **Change units**.
 
      > [!div class=mx-imgBorder]
      > ![Measurement Units section](media/measurement-units-section.png "Measurement Units")
 
-3. Select either **Metric** or **Imperial**.
+3. On the **Measurement Units** screen, tap either **Metric** or **Imperial**.
 
     > [!div class=mx-imgBorder]
     > ![Select measurement unit](media/select-measurement-unit.png "Select measurement unit")
 
 ## Display model dimensions
 
-1. Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then select **Dimensions** on the right side of the screen.
+1. Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then tap **Dimensions** on the right side of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Dimensions button](media/dimensions-button.png "Dimensions button")

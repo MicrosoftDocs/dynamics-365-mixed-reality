@@ -9,7 +9,6 @@ title: Prepare 3D CAD models to use with Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
-<!--note from editor: "Transcode" is only used in the description, not the body of the article, so I deleted it from here and the TOC. -->
 # Prepare 3D CAD models to use with Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
