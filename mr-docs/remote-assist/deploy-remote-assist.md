@@ -15,7 +15,7 @@ Once you have either a [trial](try-remote-assist.md) or have [purchased](buy-rem
 > [!NOTE]
 > There are two types of users for Remote Assist and Remote Assist Attach: remote experts and field service technicians. Field service technicians require a Remote Assist **and** a Microsoft Teams license. When you buy Remote Assist licenses, Micrsoft Teams licenses are included. However, remote experts (who aren't in the field) require only a Microsoft Teams license. For more information, visit the article on [deploying Microsoft Teams licenses in your organization](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist).
 
-In this article, we’ll walk through to deploy Remote Assist or Remote Assist Attach (for Field Service customers): 
+In this article, we’ll walk through how to deploy Remote Assist or Remote Assist Attach (for Field Service customers): 
 -	Assign licenses to users in your organization (for IT Admins)
 -	Deploying Remote Assist on your device (for individuals in your organization) 
 
