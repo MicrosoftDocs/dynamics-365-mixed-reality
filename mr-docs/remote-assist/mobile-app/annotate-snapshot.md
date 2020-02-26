@@ -34,9 +34,9 @@ Snapshots are critical in situations where a still image might help communicate 
 
 ![Screenshot of Remote Assist Mobile, with attention to the check mark icon.](./media/snapshot_5.png "Check")
 
-6.	The technician is notified that their snapshot is saved to their mobile device's photo gallery.
+6.	The technician is prompted to save the snapshot to their mobile device's photo gallery or discard the snapshot.
 
-![Screenshot of Remote Assist Mobile showing the notification that the snapshot has been saved to the photo gallery.](./media/snapshot_7.png "Gallery")
+![Screenshot of Remote Assist Mobile showing the notification that the snapshot has been saved to the photo gallery.](./media/annoenvt6.png "Gallery")
 
 1. The technician is taken back to the live video call and can select the snapshot icon to take more snapshots.
 
