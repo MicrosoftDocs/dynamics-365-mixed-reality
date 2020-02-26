@@ -18,7 +18,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## February 25, 2020
 
-The February 25 update (app versions 304.2002.19001 and solution version 300.0.4.139) includes the following new features:
+The February 25 update (app versions 304.2002.25001 and solution version 300.0.4.139) includes the following new features:
 
 - **Anchor your guides by using QR codes (requires Common Data Service upgrade).** You can now use QR code anchors in addition to circular code anchors (previously known as printed anchors) and holographic anchors (previously known as digital anchors) to anchor your guides. You can print QR codes in various sizes. You can also embed links to specific guides or steps in QR codes. You can use your own QR codes, or you can use QR codes that are available through the **Anchor** wizard. Note that this feature is only available on [!include[pn-hololens](../includes/pn-hololens.md)] 2.
 
