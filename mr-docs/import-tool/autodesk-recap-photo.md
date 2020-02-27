@@ -189,7 +189,7 @@ The last step is to export the model as a GLB file so it can be used with Dynami
 
      ![Name file ](media/recap-photo23.PNG "Name file")
 
-4. In the upper-right side of the screen, select **glTF 2.0 (.glb/.gltf)**.
+4. In the upper-right side of the screen, select **Export glTF 2.0**.
 
      ![Select glTF 2.0](media/recap-photo24.PNG "Select glTF 2.0")
 
