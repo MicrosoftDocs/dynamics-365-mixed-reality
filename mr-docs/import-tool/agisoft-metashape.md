@@ -77,6 +77,8 @@ You can "mask out" irrelevant elements of your source photos that can be confusi
 
     ![Add Selection button](media/agisoft-6.PNG "Add Selection button")
 
+    At this point, your model should look something like this:
+
     ![Add selection button](media/agisoft-7.PNG "Add selection button")
  
 3. Repeat this step in multiple pictures from multiple angles for best results.
