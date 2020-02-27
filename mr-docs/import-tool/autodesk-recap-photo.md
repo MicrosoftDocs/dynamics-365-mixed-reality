@@ -185,9 +185,13 @@ The last step is to export the model as a GLB file so it can be used with Dynami
 
      ![Export glTF 20 menu](media/recap-photo22.PNG "Export glTF 20 menu")
      
-3. Name your file, and then select **glTF 2.0 (.glb/.gltf)** on the upper-right side of the screen.
+3. In the upper-left side of the screen, name your file.
 
-     ![Name file and select glTF 2.0](media/recap-photo23.PNG "Name file and select glTF 2.0")
+     ![Name file ](media/recap-photo23.PNG "Name file")
+
+4. In the upper-right side of the screen, select **glTF 2.0 (.glb/.gltf)**.
+
+     ![Select glTF 2.0](media/recap-photo24.PNG "Select glTF 2.0")
 
 ## View your 3D model in a Dynamics 365 mixed-reality application
 
