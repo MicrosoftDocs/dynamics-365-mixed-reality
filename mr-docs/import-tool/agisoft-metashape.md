@@ -40,17 +40,22 @@ For the most part, you can use the default preferences, but there are a few chan
 
     ![Tools > Preferences command](media/agisoft-1.PNG "Tools > Preferences command") 
 
-2. On the **General** tab, under **Miscellaneous**, select the **Write log to file** check box, and then enter a location and filename for your log. Select **Apply** when you're done.
-
-    ![General tab settings](media/agisoft-2.PNG "General tab settings")
- 
-3. On the **GPU** tab, select the check box for any available graphics processing units (GPUs). If you only have one GPU available, at the bottom of the dialog box, select the **Use CPU when performing GPU accelerated processing** check box. Select **Apply** when you're done.
+2. On the **GPU** tab, select the check box for any available graphics processing units (GPUs). If you only have one GPU available, at the bottom of the dialog box, select the **Use CPU when performing GPU accelerated processing** check box. Select **Apply** when you're done.
 
     ![GPU tab settings](media/agisoft-3.PNG "GPU tab settings")
  
-4. On the **Advanced** tab, under **Miscellaneous**, select the **Enable fine-level subdivision** and **Enable VBO support** check boxes. If the camera you're using has extensive meta data about location, orientation, and so on, you might want to experiment with the options in the **Export/Import** section. Select **OK** to apply the changes and close the **Metashape Preferences** dialog box.
+3. On the **Advanced** tab, under **Miscellaneous**, do the following:
 
+    1. Select the **Enable fine-level subdivision** check box. Enabling this option will result in a more refined model with a larger number of triangles. 
+    
+    2. Select the **Enable VBO support** check box. Enabling this option provides a more refined way of storing the information in the graphics card memory structure, resulting in a more detailed polygonal model.
+    
+    3. Select **OK** to apply the changes and close the **Metashape Preferences** dialog box.
+    
     ![Advanced tab settings](media/agisoft-4.PNG "Advanced tab settings")
+    
+    >[!NOTE]
+    >If the camera you're using has extensive meta data about location, orientation, and so on, you might also want to experiment with the options in the **Export/Import** section. 
 
 ## Import your photos
 
@@ -62,7 +67,7 @@ The first thing you need to do after setting up your preferences is to import th
  
 ## Mask your photos
 
-You can "mask out" irrelevant elements of your source photos that can be confusing to the program or that can lead to undesirable  results. You might want to do this from different angles in your pictures. Although it's not necessary to mask objects in every photo, the more photographs you mask, the more accurate the final result will be.
+You can "mask out" irrelevant elements of your source photos that can be confusing to the program or that can lead to undesirable  results. Limiting the number of pixels for the application to be aware of reduces the  memory profile for each image and results in a better 3D model. You might want to do this from different angles in your pictures. Although it's not necessary to mask objects in every photo, the more photographs you mask, the more accurate the final result will be.
 
 1.	Double-click an image to open it, choose a selection tool such as the **Intelligent scissors**, and then outline your 3D model subject.
 
