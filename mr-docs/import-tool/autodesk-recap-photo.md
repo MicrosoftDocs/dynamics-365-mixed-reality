@@ -14,6 +14,10 @@ Autodesk or any of Autodesk’s products.
 Autodesk Recap Photo processes photographs taken from drones to create 3D representations of current conditions of sites, objects, 
 and more. [Learn more about Autodesk Recap Photo](https://www.autodesk.com/products/recap/overview).
 
+## Installing Autodesk Recap Photo
+
+You can [sign up for a free trial](https://aka.ms/autodesk_recap_photo_overview ) of Autodesk Recap Photo.
+
 ## Photography tips
 
 The following tips will help you take quality photos for photogrammetry:
@@ -48,9 +52,6 @@ After launching Autodesk Recap Photo, you'll see the dashboard.
 
     ![Create button](media/recap-photo2.PNG "Create button")    
     
-    >[!NOTE]
-    >Recap Photo uses “cloud credits” to provide photogrammetry services. This section of the menu shows you how many cloud credits you have, and how many it takes to process your photographs. [Learn more about Autodesk cloud credits](https://aka.ms/autodesk_cloud_credits). 
-
 3. Give your project a name, and then select **Start** to process your photos. This process can take a fair amount of time, based on the number of photos you added and your internet connection speed.
 
     ![Project name field](media/recap-photo3.PNG "Project name field")
@@ -89,7 +90,13 @@ There are several tools on the left and bottom of the Editor window that you can
     
 3. Press Enter, and then press Delete. You may have to do this a few times to remove the majority of the floor.
 
-4.	Select the **Slice** tool to remove the rest of the floor. This creates a slicing plane that you can use to cut away geometry below a certain point. Use the **Fill** option to ??? Use the **Transform plane** option to align the plane so that the floor isn’t visible.
+4.	Select the **Slice** tool to remove the rest of the floor. This creates a slicing plane that you can use to cut away geometry below a certain point. The slicing tool has two options:
+
+    - **Fill**. Closes the model based on the boundary of the open area of the model. In some cases, it may not be easy to fill.
+    
+    - **No Fill**. Leaves the model as an open model.
+    
+    You can Use the **Transform plane** option to align the plane so that the floor isn’t visible.
 
     ![Transform plane option](media/recap-photo10.PNG "Transform plane option")
     
@@ -126,7 +133,7 @@ To use the 3D model in a Dynamics 365 mixed-reality application, it must be in G
 
     ![Export model button](media/recap-photo14.PNG "Export model button")
  
-2.	In the **Export model** dialog box, choose **OBJ** as the export file type, and then set the texture size to 4098 x 4098. You can choose a larger or smaller texture size but be aware that this will affect either performance or visual fidelity. When ready, select **Export**.  
+2.	In the **Export model** dialog box, choose **OBJ** as the export file type, and then set the texture size to 4096 x 4096. You can choose a larger or smaller texture size but be aware that this will affect either performance or visual fidelity. When ready, select **Export**.  
 
     ![Export model options](media/recap-photo15.PNG "Export model options")
  
@@ -138,7 +145,7 @@ To use the 3D model in a Dynamics 365 mixed-reality application, it must be in G
 
 ## Use Blender to convert the OBJ file to a GLB file
 
-There are several applications that you can use to convert an OBJ file to a GLB file. For purposes of this tutorial, we'll use Blender.  
+There are several applications that you can use to convert an OBJ file to a GLB file. For purposes of this tutorial, we'll use Blender. 
 
 ### What is Blender?
 
