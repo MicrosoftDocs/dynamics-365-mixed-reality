@@ -57,7 +57,7 @@ After launching Autodesk Recap Photo, you'll see the dashboard.
     ![Project name field](media/recap-photo3.PNG "Project name field")
     
     >[!NOTE]
-    >The **Auto-crop** option is covered later in this tutorial.  
+    >You can use the **Autocrop** feature at this point if you want. This tutorial shows how to crop the 3D model later in the process. 
  
 4.	After your 3D model has been processed, it appears in the **My Cloud Drive** section of the dashboard. Select the **Download 
 this project from the cloud** button to download your 3D model.
