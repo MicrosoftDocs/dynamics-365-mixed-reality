@@ -69,7 +69,7 @@ The first thing you need to do after setting up your preferences is to import th
 
 You can "mask out" irrelevant elements of your source photos that can be confusing to the program or that can lead to undesirable  results. Limiting the number of pixels for the application to be aware of reduces the  memory profile for each image and results in a better 3D model. You might want to do this from different angles in your pictures. Although it's not necessary to mask objects in every photo, the more photographs you mask, the more accurate the final result will be.
 
-1.	Double-click an image to open it, and then choose a selection tool such as **Intelligent scissors**.
+1.	Double-click an image to open it, and then choose a selection tool such as **Intelligent Scissors**.
     
     ![Intelligent Scissors](media/intelligent-scissors.png "Intelligent Scissors")
  
