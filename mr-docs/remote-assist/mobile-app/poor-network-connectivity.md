@@ -1,5 +1,5 @@
 ---
-title: Low bandwidth mode in Remote Assist Mobile
+title: Low bandwidth calls in Remote Assist Mobile
 author: xonatia
 description: How the app works in environments with low network conditions 
 ms.author: xolee
@@ -8,7 +8,7 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Low bandwidth mode
+# Low bandwidth calls in Remote Assist Mobile
 
 Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians may have trouble troubleshooting and resolving problems in real time. Remote Assist Mobile now gives technicians the ability to discuss, diagnose, and resolve issues with remote experts even in low bandwidth scenarios.
 
