@@ -118,18 +118,22 @@ After aligning the photos, you can use the bounding box to trim the size of your
 
 ## Build a dense point cloud
 
-Now it's time to build the dense point cloud.
+The next step is to generate a point cloud you can use to generate polygonal data to form a mesh. Increasing the number of points generated from the aligned photos, helps define an accurate 3D representation of the surface.  
 
 1.	On the **Workflow** menu, select **Build Dense Cloud**.
 
     ![Workflow > Build Dense Cloud command](media/agisoft-14.PNG "Workflow > Build Dense Cloud command")
  
-2.	In the **Build Dense Cloud** dialog box, use the following settings. Select **OK** when you're done.
+2.	In the **Build Dense Cloud** dialog box, use the following settings. 
 
     ![Build Dense Cloud settings](media/agisoft-15.PNG "Build Dense Cloud settings")
     
+    These are good starter settings. Explore other options to see how they produce different results. Your results may vary based on subject matter and surface characteristics of the object you're working with. 
+    
     >[!NOTE]
-    >If you have a powerful computer, you can set the **Quality** setting to **High**, but for many operations the **Medium** setting produces quality results.  
+    >If you have a powerful computer, you can set the **Quality** setting to **High**, but for many operations the **Medium** setting produces quality results.      
+    
+3. Select **OK** when you're done.
 
 ## Build the mesh
 
