@@ -44,7 +44,7 @@ Launch Teams and navigate to the **Calls** tab.
 Under **History**, you will see your recent contacts. Select one of the contacts to call them. 
 
 > [!NOTE]
->  If you are in a call with a Remote Assist HoloLens user and want to record the call, please schedule a Teams meeting with that user. 
+>  Teams mobile only supports call recording for Teams meetings. If you are in a call with a Remote Assist HoloLens user and want to record the call, please schedule a Teams meeting with that user and join the meeting so you can record the call.
 
 ## Schedule a Teams meeting
 
