@@ -181,7 +181,7 @@ The last step is to export the model as a GLB file so it can be used with Dynami
 
      ![File > Export > glTF 2.0 command](media/recap-photo21.PNG "File > Export > glTF 2.0 command")
  
-2.	On the **Export glTF 2.0** menu in the lower-left corner of the window, select the **glTF Binary (glb)** format, and then select the **Selected Objects** check box. 
+2.	On the **Export glTF 2.0** menu in the lower-left corner of the window, select the **glTF Binary (.glb)** format, and then select the **Selected Objects** check box. 
 
      ![Export glTF 20 menu](media/recap-photo22.PNG "Export glTF 20 menu")
      
