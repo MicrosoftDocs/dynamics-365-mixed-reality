@@ -96,9 +96,9 @@ There are several tools on the left and bottom of the Editor window that you can
     
     - **No Fill**. Leaves the model as an open model.
     
-    You can Use the **Transform plane** option to align the plane so that the floor isn’t visible.
+    - **Transform plane**. Use to align the plane so that the floor isn’t visible.
 
-    ![Transform plane option](media/recap-photo10.PNG "Transform plane option")
+       ![Transform plane option](media/recap-photo10.PNG "Transform plane option")
     
 5. When the model looks the way you want, select **Apply**.
  
