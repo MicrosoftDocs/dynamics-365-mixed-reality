@@ -13,6 +13,8 @@
 ### [Making calls](mobile-app/making-calls.md)
 ### [Annotate your environment](mobile-app/annotate-your-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
+### [Send text chat messages](mobile-app/send-chat-messages.md)
+### [Low bandwidth calls](mobile-app/poor-network-connectivity.md)
 ### [Dynamics 365 Field Service integration](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 ## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
