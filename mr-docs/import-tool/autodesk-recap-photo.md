@@ -90,7 +90,7 @@ There are several tools on the left and bottom of the Editor window that you can
     
 3. Press Enter, and then press Delete. You may have to do this a few times to remove the majority of the floor.
 
-4.	Select the **Slice** tool to remove the rest of the floor. This creates a slicing plane that you can use to cut away geometry below a certain point. The slicing tool has two options:
+4.	Select the **Slice** tool to remove the rest of the floor. This creates a slicing plane that you can use to cut away geometry below a certain point. The slicing tool includes these options:
 
     - **Fill**. Closes the model based on the boundary of the open area of the model. In some cases, it may not be easy to fill.
     
