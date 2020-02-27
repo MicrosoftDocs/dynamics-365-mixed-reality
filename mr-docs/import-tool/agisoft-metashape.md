@@ -69,11 +69,13 @@ The first thing you need to do after setting up your preferences is to import th
 
 You can "mask out" irrelevant elements of your source photos that can be confusing to the program or that can lead to undesirable  results. Limiting the number of pixels for the application to be aware of reduces the  memory profile for each image and results in a better 3D model. You might want to do this from different angles in your pictures. Although it's not necessary to mask objects in every photo, the more photographs you mask, the more accurate the final result will be.
 
-1.	Double-click an image to open it, choose a selection tool such as the **Intelligent scissors**, and then outline your 3D model subject.
-
-    ![Intelligent Scissors tool](media/agisoft-6.PNG "Intelligent Scissors Tool")
+1.	Double-click an image to open it, and then choose a selection tool such as the **Intelligent scissors**.
+    
+    ![Intelligent Scissors](media/intelligent-scissors.png "Intelligent Scissors")
  
-2.	Select the **Add Selection** button to create the mask.
+2.	Outline your 3D model subject, and then select the **Add Selection** button to create the mask.
+
+    ![Add Selection button](media/agisoft-6.PNG "Add Selection button")
 
     ![Add selection button](media/agisoft-7.PNG "Add selection button")
  
