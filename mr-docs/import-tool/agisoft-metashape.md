@@ -99,7 +99,7 @@ Photogrammetry uses objects that are consistently present in multiple images to 
  
 3.	Select the **Model** menu to view the results. At this point, your model should look something like this.
 
-    ![Photo alignment outcome](media/agisoft-11.PNG "Photo alignment outcome")
+    ![Photo alignment outcome](media/model-view.png "Photo alignment outcome")
  
 ## Align the region
 
