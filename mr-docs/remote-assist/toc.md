@@ -15,7 +15,7 @@
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
 ### [Low bandwidth mode](mobile-app/poor-network-connectivity.md)
-### [Dynamics 365 Field Service integration](mobile-app/fs-integration.md)
+### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 ## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
