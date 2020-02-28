@@ -17,7 +17,7 @@ This document is created strictly for information purposes to demonstrate how Si
 
 ## What is Houdini?
 
-Houdini is a 3D procedural content creation tool. It uses a non-destructive node-based tool system that can be used to design process pipelines and 3D content. 
+[Houdini](https://www.sidefx.com/) is a 3D procedural content creation tool that uses a non-destructive node-based tool system to design process pipelines and 3D content. 
 
 ## Set up your environment
 
