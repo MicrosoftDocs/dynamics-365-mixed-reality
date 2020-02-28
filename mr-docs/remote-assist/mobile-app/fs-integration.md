@@ -8,22 +8,14 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Dynamics 365 Field Service integration
+# Use Dynamics 365 Field Service with Remote Assist Mobile 
 
-By pairing Dynamics 365 Remote Assist Mobile application with Dynamics 365 Field Service, technicians can automatically log call information into their Field Service work order when they end a Remote Assist Mobile call.
+By pairing Dynamics 365 Remote Assist Mobile application with Dynamics 365 Field Service, field service technicians can: 
+1. use the Field Service Mobile app to launch the Remote Assist Mobile app and make calls to remote experts on their Android devices
+2. automatically post call logs, such as time, date, call duration, and the expert's name, into their Field Service work order at the end of a Remote Assist Mobile call
 
-With Field Service, technicians manage their assigned work orders, or the service work needed, and perform maintenance and repairs onsite at customer locations. Integrating with Remote Assist Mobile means that technicians can directly post call metadata from the Remote Assist Mobile app to their Field Service work orders without even opening the work order.
-
-## Set up integration (Dynamics 365 Field Service customers)
-
-Upon first sign-in to Remote Assist Mobile, technicians will receive a pop-up notification giving them the option to integrate with Dynamics 365 Field Service.
-
-![Screenshot of the Remote Assist Mobile notification asking the user to integrate with Field Service.](./media/enablefs.png "Enable Field Service")
-
-If the technician did not enable this feature at first sign-in, they can go to **Main Menu** > **Settings** and toggle on **Dynamics 365 Integration**.
-
-![Screenshot of Remote Assist Mobile showing the Field Service integration toggle set to on.](./media/fs_settings.png "Settings")
-
+## Prerequisites 
+- Learn how to set up the Dynamics 365 Field Service app to launch calls to Remote Assist Mobile on your Android devices [here](../troubleshoot-field-service.md). 
 
 ## How it works
 
@@ -49,6 +41,3 @@ Now that we have it enabled, let's see how integration with Field Service works 
 ###
 ![Screenshot of Remote Assist Mobile showing the Select an Instance screen](./media/Instance.png "Select Instance")
 ### 
-
-> [!TIP]
-> Technicians using the Field Service Mobile app on their Android devices can now launch Remote Assist Mobile app and make calls to experts. To learn more, visit the article on [making calls](making-calls.md). 
