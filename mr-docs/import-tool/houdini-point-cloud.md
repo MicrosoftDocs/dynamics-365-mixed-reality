@@ -170,7 +170,7 @@ If your point cloud has stray points that you want to remove, you can select and
  
 ## Convert the point cloud to a mesh
 
-The next step after importing the point cloud is to convert it to a mesh. To do this, you can use the **Particle Fluid Surface** command in the **Tab Menu**. 
+Both glTF and real-time rendering applications require models to be represented as a triangulated polygon surface. You can use the **Particle Fluid Surface** command to connect the points into a logical surface as polygonal geometry. 
 
 1. Click the **Geometry** pane, select **Fluid** > **Particle Fluid Surface**, select the node, and add it to the **Geometry** pane. 
 
