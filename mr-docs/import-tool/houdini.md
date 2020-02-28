@@ -26,7 +26,7 @@ This tutorial provides step-by-step instructions that show you how to:
 
 ## What is Houdini?
 
-Houdini is built from the ground up as a procedural system that empowers artists to work freely, create multiple iterations, and rapidly share workflows with colleagues.
+Houdini is a procedural system that empowers artists to work freely, create multiple iterations, and rapidly share workflows with colleagues.
 
 ## Import a 3D model into Houdini
 
