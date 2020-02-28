@@ -69,7 +69,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 7. After sharing a snapshot, the technician can save it to the mobile device's **Photo Gallery** or **discard it**.
 
-![Side-by-side screenshots of Remote Assist on Mobile and Microsoft Teams, showing the option to either save or discard the snapshot on mobile.](./media/network_7.png "Photo Gallery") 
+![Side-by-side screenshots of Remote Assist on Mobile and Microsoft Teams, showing the option to either save or discard the snapshot on mobile.](./media/screenshot-suggestion.png "Photo Gallery") 
 
 8. The technician now returns to the video call and can continue to send snapshots to the expert.
 
