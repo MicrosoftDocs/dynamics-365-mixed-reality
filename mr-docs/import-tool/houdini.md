@@ -26,7 +26,7 @@ This tutorial provides step-by-step instructions that show you how to:
 
 ## What is Houdini?
 
-Houdini is a procedural system that empowers artists to work freely, create multiple iterations, and rapidly share workflows with colleagues.
+[Houdini](https://www.sidefx.com/) is a procedural system that empowers artists to work freely, create multiple iterations, and rapidly share workflows with colleagues.
 
 ## Import a 3D model into Houdini
 
