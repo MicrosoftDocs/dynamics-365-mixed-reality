@@ -1,17 +1,19 @@
 ---
-author: jahardner
+author: sophiasysun
 description: Watch these short videos to get up and running with Microsoft Dynamics 365 Remote Assist.
 ms.author: johardne
-ms.date: 10/01/2019
+ms.date: 02/28/2020
 ms.service: crm-online
 ms.topic: article
-title: How-to videos for Dynamics 365 Remote Assist
-ms.reviewer: v-brycho
+title: How-to videos for Dynamics 365 Remote Assist on HoloLens 
+ms.reviewer: krbjoran
 ---
 
-# How-to videos for Dynamics 365 Remote Assist
+# How-to videos for Dynamics 365 Remote Assist on HoloLens 
 
-Watch these short videos to get up and running with Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
+Watch these short videos to get up and running with Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]. Keep in mind that if you're using HoloLens 2, you do not need to use airtap to select a hologram or button - you can touch the button directly. 
+
+Learn more about [HoloLens 1 interactions](https://docs.microsoft.com/en-us/hololens/hololens1-basic-usage) and [HoloLens 2 interactions](https://docs.microsoft.com/en-us/hololens/hololens2-basic-usage).  
 
 Looking for more help? Check out our [user guide](user-guide.md).
 
