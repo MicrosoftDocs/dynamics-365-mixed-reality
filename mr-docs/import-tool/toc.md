@@ -9,7 +9,7 @@
 ### Autodesk
 #### [Inventor](inventor.md)
 #### [3ds Max](3ds-max.md)
-#### [Recap Photo](autodesk-recap-photo.md) 
+#### [ReCap Photo](autodesk-recap-photo.md) 
 ### [Blender](blender.md)
 ### [Dassault SolidWorks](solidworks.md)
 ### SideFX Houdini
