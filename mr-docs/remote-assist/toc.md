@@ -7,14 +7,14 @@
 ### [Deploy Remote Assist](deploy-remote-assist.md)
 ## [Set up cross-company calling (for admins)](cross-company-calling.md)
 ## [HoloLens user guide](user-guide.md)
-## Remote Assist Mobile
+## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
 ### [Using the in-app tutorial](mobile-app/mobile-tutorial.md)
 ### [Making calls](mobile-app/making-calls.md)
 ### [Annotate your environment](mobile-app/annotate-your-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
-### [Low bandwidth mode](mobile-app/poor-network-connectivity.md)
+### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 ## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
