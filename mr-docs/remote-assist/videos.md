@@ -1,7 +1,7 @@
 ---
 author: sophiasysun
 description: Watch these short videos to get up and running with Microsoft Dynamics 365 Remote Assist.
-ms.author: johardne
+ms.author: sopsun
 ms.date: 02/28/2020
 ms.service: crm-online
 ms.topic: article
@@ -17,7 +17,7 @@ Learn more about [HoloLens 1 interactions](https://docs.microsoft.com/en-us/holo
 
 Looking for more help? Check out our [user guide](user-guide.md).
 
-## Dynamics 365 Remote Assist for HoloLens
+## Use Dynamics 365 Remote Assist for HoloLens
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F6TI" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
@@ -38,7 +38,7 @@ Looking for more help? Check out our [user guide](user-guide.md).
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2FhfT" frameborder="0" allowfullscreen=""></iframe></div>
 
 
-## Microsoft Teams and Dynamics 365 Remote Assist
+## Use Microsoft Teams on PC 
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F6TF" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
