@@ -415,8 +415,6 @@ You can use any of the following Microsoft Dynamics 365 apps to view your 3D mod
 
 [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/) 
 
-[Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/index) 
- 
 ### More information 
  
 Screenshots in this document were taken from the Houdini software program in order to provide clear instructions on how to use Houdini’s software. [Learn more about SideFX Houdini](https://www.sidefx.com/tutorials/alicevision-plugin/).
