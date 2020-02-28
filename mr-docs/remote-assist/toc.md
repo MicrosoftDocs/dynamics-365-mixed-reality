@@ -25,6 +25,7 @@
 ### [Report a bug](report-a-bug-hololens.md)
 ### [See also](see-also-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
+### [How-to-videos](videos.md)
 
 ## Remote Assist on mobile devices
 ### [Overview](mobile-app/index.md)
