@@ -1,22 +1,22 @@
 
 
-# Use Autodesk Recap Photo to create 3D models for Dynamics 365 mixed-reality applications
+# Use Autodesk ReCap Photo to create 3D models for Dynamics 365 mixed-reality applications
 
-This tutorial walks you through the process of using Autodesk Recap Photo photogrammetry software to create 3D models that 
+This tutorial walks you through the process of using Autodesk ReCap Photo photogrammetry software to create 3D models that 
 can be used with Microsoft Dynamics 365 mixed-reality applications.
 
-This tutorial is created strictly for informative purposes to demonstrate how Recap Photo works with Microsoft Dynamics 365 
+This tutorial is created strictly for informative purposes to demonstrate how ReCap Photo works with Microsoft Dynamics 365 
 mixed-reality applications. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor 
 Autodesk or any of Autodesk’s products.
 
-## What is Autodesk Recap Photo?
+## What is Autodesk ReCap Photo?
 
-Autodesk Recap Photo processes photographs taken from drones to create 3D representations of current conditions of sites, objects, 
-and more. [Learn more about Autodesk Recap Photo](https://www.autodesk.com/products/recap/overview).
+Autodesk ReCap Photo processes photographs taken from drones to create 3D representations of current conditions of sites, objects, 
+and more. [Learn more about Autodesk ReCap Photo](https://www.autodesk.com/products/recap/overview).
 
-## Installing Autodesk Recap Photo
+## Installing Autodesk ReCap Photo
 
-You can [sign up for a free trial](https://aka.ms/autodesk_recap_photo_overview ) of Autodesk Recap Photo.
+You can [sign up for a free trial](https://aka.ms/autodesk_recap_photo_overview ) of Autodesk ReCap Photo.
 
 ## Photography tips
 
@@ -39,7 +39,7 @@ you've captured all surfaces.
 
 ## Start a new project
 
-After launching Autodesk Recap Photo, you'll see the dashboard. 
+After launching Autodesk ReCap Photo, you'll see the dashboard. 
 
 >[!NOTE]
 >You can choose **Aerial** or **Object** to create a new 3D project. This tutorial covers the **Object** workflow.
@@ -203,15 +203,15 @@ After preparing your 3D model, you can use it in the following Dynamics 365 apps
 
 ## More information
 
-Screenshots in this document were taken from the Autodesk Recap Photo software program to provide clear instructions on how to use the Recap Photo software.
+Screenshots in this document were taken from the Autodesk ReCap Photo software program to provide clear instructions on how to use the ReCap Photo software.
 
-To learn more about Recap Photo and Blender, see the following:
+To learn more about ReCap Photo and Blender, see the following:
 
-- [Autodesk Recap Photo](https://www.autodesk.com/products/recap/overview)
+- [Autodesk ReCap Photo](https://www.autodesk.com/products/recap/overview)
 
 - [Blender](https://www.blender.org/)
 
-Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk Recap Photo, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
+Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Autodesk ReCap Photo, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
 
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft Corporation. 
 
