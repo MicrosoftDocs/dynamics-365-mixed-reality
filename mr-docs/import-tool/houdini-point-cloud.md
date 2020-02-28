@@ -244,7 +244,8 @@ Texture coordinates (also called UVs) are pairs of numbers (U and V) stored in t
    ![Labs AutoUV node](media/houdini-33-labs-autouv-node.PNG "Labs AutoUV node")
 
 2. Change the method to **UV unwrap**.
-
+ 
+   ![UV Unwrap method](media/houdini-33A-uv-unwrap.PNG "UV Unwrap method")
    
 3. Connect the **polyreduce1** output node to the **autouv1** input node.
 
