@@ -29,6 +29,7 @@ In this article, we’ll walk through the two types of Remote Assist licenses:
 Buy Remote Assist licenses through your Microsoft 365 or Office 365 administrator portal. 
 
 1.	Log into the [Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration ) using your organization’s admin account.
+
 ![Screenshot of the admin portal.](./media/buy_1.png "Admin Portal")
 
 2.	Make sure the **Try the new admin center** toggle is turned off.
