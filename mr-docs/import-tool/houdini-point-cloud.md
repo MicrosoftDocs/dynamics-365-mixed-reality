@@ -5,7 +5,7 @@
 
 This tutorial provides step-by-step instructions that show you how to: 
 
-- Convert a point cloud into a 3D model. 
+- Convert a [point cloud](https://aka.ms/pointCloudDef) into a 3D model. 
 
 - Optimize a 3D model by reducing the polygon count so that it matches [performance targets for Dynamics 365 mixed reality applications](optimize-models#performance-targets).
 
@@ -33,7 +33,10 @@ SideFX Labs is a testing ground for tools that you can use with Houdini to help 
 
 SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-installation/) that helps you install these tools.
 
-1. To install SideFX Labs, select the plus sign at the top of the screen ![Plus sign](media/houdini-66-plus-sign.png "Plus sign"), select **Shelves**, and then select the **SideFX Labs** check box.
+>[!NOTE]
+>You must install Houdini before you can install SideFX Labs. [Learn more about installing Houdini](https://aka.ms/sidefxHome).
+
+1. To install SideFX Labs, select the plus sign at the top of the Houdini screen ![Plus sign](media/houdini-66-plus-sign.png "Plus sign"), select **Shelves**, and then select the **SideFX Labs** check box.
 
     ![SideFX Labs check box](media/houdini-1-sidefx-check-box.PNG "SideFX Labs check box")
  
@@ -45,14 +48,11 @@ SideFX provides a [tutorial video](https://www.sidefx.com/tutorials/sidefx-labs-
 
     ![Update button](media/houdini-3-update-button.PNG "Update button")
 
-    >[!NOTE]
-    > SideFX Labs is packaged with Houdini so you don't need an internet connection to install it. If you're connected to the internet, you can update the release later. If you want to install the latest build of SideFX Labs, clear the **Production Builds Only** option.
-
-If the installation is successful, you'll see more tools on the toolbar, and can continue with this tutorial.
+   If the installation is successful, you'll see more tools on the toolbar, and can continue with this tutorial.
 
 ### Set up AliceVision for photogrammetry
 
-[AliceVision](https://alicevision.org/) is a photogrammetric computer vision framework developed by Mikros Image that provides 3D reconstruction and camera-tracking algorithms. Learn more [about AliceVision](https://alicevision.org/#about) and the [AliceVision plug-in](https://www.sidefx.com/tutorials/alicevision-plugin/).
+[AliceVision](https://alicevision.org/) is a [photogrammetric](https://aka.ms/PhotogrammetryDef) computer vision framework developed by Mikros Image that provides 3D reconstruction and camera-tracking algorithms. Learn more [about AliceVision](https://alicevision.org/#about) and the [AliceVision plug-in](https://www.sidefx.com/tutorials/alicevision-plugin/).
 
 To install and setup up the AliceVision plug-in for Houdini, [see the SideFX tutorial](https://www.sidefx.com/tutorials/alicevision-plugin/).
 
