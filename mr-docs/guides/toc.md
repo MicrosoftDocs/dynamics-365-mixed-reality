@@ -15,6 +15,7 @@
 ### [Assign user roles](assign-role.md)
 ### [Upgrade the solution](upgrade.md)
 ### [Transition from public preview to GA](public-preview-transition.md)
+### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
 ### [Integrate Dynamics 365 Field Service](field-service.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ## I'm an author
@@ -26,7 +27,10 @@
 #### [Anchor your guide to the real world](anchor.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
+#### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
+#### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
+#### [Deactivate a guide](pc-app-deactivate-guide.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
@@ -38,7 +42,7 @@
 ##### [HoloLens 2](authoring-gestures-HL2.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ### [How to make a great mixed reality guide](great-guide.md)
-### [Use Dynamics 365 Import Tool to convert 3D models](import-tool.md)
+### [Convert CAD drawings to use them as holograms](import-tool.md)
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
 ### Calibrate your HoloLens
@@ -54,6 +58,9 @@
 ## [Get Help and provide feedback](help.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
-## [Known issues](known-issues.md)
+## Known issues
+### [Affecting both apps](known-issues.md)
+### [PC app](known-issues-pc-app.md)
+### [HoloLens app](known-issues-hololens-app.md)
 ## [Terms of use](../legal/guides-service-terms.md)
 

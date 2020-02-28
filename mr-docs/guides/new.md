@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 02/05/2020
+ms.date: 02/26/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -14,7 +14,19 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. 
 
 > [!IMPORTANT]
-> On **April 1, 2020**, Microsoft will release a **mandatory** update to the Dynamics 365 Guides solution that will change how data is stored in Common Data Service. Specifically, the apps will be upgraded so that they store data in Common Data Service entities instead of in a single JavaScript Object Notation (JSON) file. Your existing guides will be migrated to the new entity structure and will continue to work as you expect. On April 1, you must update the PC app, HoloLens app, and Common Data Service solution to continue to use Dynamics 365 Guides. Work with your admin to update the solution and apps.
+> The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team has postponed the mandatory update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution originally planned for April 1, 2020. We'll provide at least 30 days' advance notice for any mandatory upgrades and a 30-day grace period to work with your admins to make the upgrade.<br>We recommend that you always install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution with every release so that you have access to the latest features and updates.
+
+## February 25, 2020
+
+The February 25 update (app versions 304.2002.25001 and solution version 300.0.4.139) includes the following new features:
+
+- **Anchor your guides by using QR codes (requires Common Data Service upgrade).** You can now use QR code anchors in addition to circular code anchors (previously known as printed anchors) and holographic anchors (previously known as digital anchors) to anchor your guides. You can print QR codes in various sizes. You can also embed links to specific guides or steps in QR codes. You can use your own QR codes, or you can use QR codes that are available through the **Anchor** wizard. Note that this feature is only available on [!include[pn-hololens](../includes/pn-hololens.md)] 2.
+
+- **Create and copy a link to a guide or step.** You can share the link to a guide or step with a team member, make it available from another app, or embed it in a QR code, so that the operator can open the guide or step directly from the [!include[pn-hololens](../includes/pn-hololens.md)] shell.
+
+- **Open an app created in Power Apps from a step (requires Common Data Service upgrade).** You can add a Power Apps link to a step to create a seamless workflow. For example, you can show Internet of Things (IoT) data, add a quiz, or provide access to data entry forms.
+
+- **Deactivate or delete guides.** Authors can now deactivate guides that are no longer needed, directly from the PC app. Admins can continue to activate, deactivate, or delete guides from the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] portal.
 
 ## January 28, 2020
 
@@ -25,7 +37,7 @@ The January 28 update (app versions 303.2001.21001 and solution version 300.0.3.
 - Authors can add a website link to a step in a guide. Use a website link to show a PDF that is hosted on your server, show a form, or show data from your online Internet of Things (IoT) devices for the operator to review. This feature requires Common Data Service solution version 300.0.3.137. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-steps-assign-media#add-a-website-link-to-a-step" target="_blank">Add a website link to a step</a>.
 
 - Admins can assign **Author** and **Operator** roles to users, so that editing is available only for authors. For more information, see 
-<a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/assign-role" target="_blank">Assign user roles</a>.
+<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role" target="_blank">Assign user roles</a>.
 
 - Drag multiple files from your local file folder into the PC app gallery to import the files.
 
@@ -118,7 +130,7 @@ Visit aka.ms/getguides for steps to upgrade.
 
 - The navigation menu on the left and bottom right of the PC app makes it much faster to navigate between guide content and guide anchor settings. 
  
-- “Gaze-dwell” interactions on [!include[pn-hololens](../includes/pn-hololens.md)] are consistently placed on the left side of list items to make it easier to select while browsing. 
+- "Gaze-dwell" interactions on [!include[pn-hololens](../includes/pn-hololens.md)] are consistently placed on the left side of list items to make it easier to select while browsing. 
 
 - 3D models are loaded for each step to improve performance on [!include[pn-hololens](../includes/pn-hololens.md)].
  

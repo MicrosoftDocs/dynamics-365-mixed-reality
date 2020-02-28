@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Create steps and add 3D content or media to support those steps in the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Create steps and add 3D models or media in the Dynamics 365 Guides PC app
@@ -126,24 +126,22 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
 ### Import a file by using the Import command
 
-1.	Select **Import** in the lower-right corner of the page.
+1. Select **Import** in the lower-right corner of the page.
 
     ![Import button](media/import-command.PNG "Import button")
 
-2.	Find the files that you want to import, and then select **Open**.
+2. Find the files that you want to import, and then select **Open**.
 
     ![Importing a custom 3D part](media/import-object.PNG "Importing a custom 3D part")
 
 > [!NOTE]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports glTF, GLB, FBX, STL, and PLY file formats. You can use a combination of third-party tools and the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D (computer-aided design \[CAD\]) models, or you can use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] concierge service to have [!include[cc-microsoft](../includes/cc-microsoft.md)] convert and optimize the models for you. For more information about [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], see these topics:
->
-> - [Import Tool overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/index)
+> You can use a combination of third-party tools to prepare your 3D (computer-aided design \[CAD\]) models. For more information, see these topics:
 >
 > - [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)
 >
 > - [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)
 >
-> - [Use Dynamics 365 Import Tool](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+> - [Tutorials overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/tutorials-overview)
 
 ## Add media (images or videos)
 
@@ -155,32 +153,22 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
     ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
 
-## Add a website link to a step
+## What file formats are supported for 3D models, images, and videos?
 
-You can add a website link to a step so that operators can see and interact with information outside of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, parts inventory system, analytics dashboard, or information about Internet of Things (IoT) sensors. Website links let authors create a seamless workflow for operators.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports the following file formats.
 
-> [!NOTE]
-> Only one website link can be added to each step.
-
-1. On the right side of the page, select the **Action** tab.
-
-    ![Action tab](media/action-tab.PNG "Action tab")
- 
-2. Drag the **Website link** symbol to the **Action** circle in the lower-right corner of the Step card.
-
-    ![Dragging the Website link symbol to the Action circle](media/action-circle.PNG "Dragging the Website link symbol to the Action circle")
-
-3. In the **Website link** dialog box, enter a valid URL that begins with **http://** or **https://**, and then select **Save**.
-
-    ![Website link dialog box](media/website-dialog.PNG "Website link dialog box")
-
-4. To view, edit, or delete the link, right-click the **Website link** button in the **Step Editor**.
-
-    ![Website link button](media/website-button.PNG "Website link button")
+| Media | Supported formats | Best practice |
+|-------|-------------------|---------------|
+| 3D models | FBX, GLB, glTF, STL, PLY | Optimize your 3D models as much as possible, to help maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see [Convert CAD drawings to use as holograms](import-tool.md). |
+| Images | PNG, JPG, JPEG, BMP, GIF, TIF | |
+| Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV | Keep your videos less than two minutes long and focused on one step at a time. |
 
 ## What's next?
 
 [Anchor your guide to the real world](anchor.md)<br>
 [Structure your guide in the Outline page](structure-guide.md)<br>
-[Learn what makes a great mixed reality guide](great-guide.md)<br>
-[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)
+[Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
+[Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)<br>
+[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
+[Deactivate a guide](pc-app-deactivate-guide.md)<br>
+[Learn what makes a great mixed reality guide](great-guide.md)

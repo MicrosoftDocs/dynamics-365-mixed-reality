@@ -32,7 +32,7 @@ During a Remote Assist Mobile call, technicians can send chat messages to expert
 
 ![Video feed](./media/chat_4.png "Video feed")
 
-## Sending chat messages for experts only 
+## Sending chat messages for remote experts 
 
 1. In the text chat on Microsoft Teams, experts can send and receive text messages from technicians on Remote Assist Mobile.
 

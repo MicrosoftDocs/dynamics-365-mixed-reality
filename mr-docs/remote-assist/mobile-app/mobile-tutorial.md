@@ -24,7 +24,7 @@ Dynamics 365 Remote Assist Mobile includes an in-app, guided tutorial for techni
 
 ![Screenshot of Remote Assist Mobile on a phone, showing the try it button](./media/learntools_1.png "Try It")
 
-2. If you're already signed in and wish to launch the tutorial, you can also go to **Menu** > **Try the Tools**. 
+2. If you're already signed in and wish to launch the tutorial, you can also go to **Menu** > **Learn the Tools**. 
 
 ![Screenshot of Remote Assist Mobile on a phone, showing the Learn the Tools option in the menu](./media/learntools_4.png "Try Tools")
 
