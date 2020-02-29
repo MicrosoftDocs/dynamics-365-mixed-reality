@@ -38,7 +38,7 @@ If your 3D models are in FBX, OBJ, or GLB file format, you can use any of the fo
 
 ## Photogrammetry tutorials
 
-If you're creating 3D models using photogrammetry software, see these tutorials:
+If you're using photogrammetry software to create your 3D models, see these tutorials:
 
 [Agisoft Metashape](agisoft-metashape.md)
 
