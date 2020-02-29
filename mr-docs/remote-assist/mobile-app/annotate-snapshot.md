@@ -10,33 +10,33 @@ ms.reviewer: krbjoran
 ---
 # Capture and annotate snapshots 
 
-Remote Assist Mobile provides technicians with the ability to capture and annotate snapshots of their environment during a call.
+Remote Assist mobile provides technicians with the ability to capture and annotate snapshots of their environment during a call.
 
 Snapshots are critical in situations where a still image might help communicate what a technician is looking at. Annotations provide additional tools to emphasize specific elements in the snapshot. These snapshots can then be used later for reference or work validation, and can provide relief in low-bandwidth scenarios where video just isn't cutting it.  
 
 ## How it works
 
-1.	During a Remote Assist Mobile call, select the **Snapshot** icon to snap your photo. 
+1.	During a Remote Assist mobile call, select the **Snapshot** icon to snap your photo. 
 
-![Screenshot of the snapshot icon in Remote Assist Mobile.](./media/snapshot_1.png "Snapshot Icon")
+![Screenshot of the snapshot icon in Remote Assist mobile.](./media/snapshot_1.png "Snapshot Icon")
 
 2. The snapshot is shared to the expert's screen on Microsoft Teams.
 
-![Side-by-side screenshots of Remote Assist Mobile and Microsoft Teams, showing the shared snapshot on both screens.](./media/snapshot3.png "Share")
+![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing the shared snapshot on both screens.](./media/snapshot3.png "Share")
 
 3. If the technician wants to capture a snapshot of their environment without annotations, you can skip to Step 5.
 
 4. Both the technician and expert can add annotations to the snapshot. The expert has to select **Start Editing** to add annotations to the snapshot. 
 
-![Side-by-side screenshots of Remote Assist Mobile and Microsoft Teams, showing annotations on both screens](./media/snapshot4.png "Start Editing")
+![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing annotations on both screens](./media/snapshot4.png "Start Editing")
 
 5.	After both the technician and expert are finished annotating on the snapshot, the technician selects the **Check Mark** to save their snapshot to their mobile device's Photo Gallery.
 
-![Screenshot of Remote Assist Mobile, with attention to the check mark icon.](./media/snapshot_5.png "Check")
+![Screenshot of Remote Assist mobile, with attention to the check mark icon.](./media/snapshot_5.png "Check")
 
 6.	The technician is prompted to save the snapshot to their mobile device's photo gallery or discard the snapshot.
 
-![Screenshot of Remote Assist Mobile showing the notification that the snapshot has been saved to the photo gallery.](./media/photo-gallery.png "Gallery")
+![Screenshot of Remote Assist mobile showing the notification that the snapshot has been saved to the photo gallery.](./media/photo-gallery.png "Gallery")
 
 1. The technician is taken back to the live video call and can select the snapshot icon to take more snapshots.
 
