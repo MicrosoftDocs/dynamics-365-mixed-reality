@@ -46,9 +46,9 @@ If you're creating 3D models using photogrammetry software, see these tutorials:
 
 ## Point cloud tutorial
 
+If you're converting a point cloud into a 3D model, see this tutorial:
 
-
-
+[SideFX Houdini](houdini-point-cloud.md)
 
 ### More information  
 
