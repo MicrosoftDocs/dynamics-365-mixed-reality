@@ -10,11 +10,12 @@ ms.reviewer: krbjoran
 ---
 # Add annotations in HoloLens
 
-Once a video call has connected, the Microsoft Teams user will see everything the HoloLens user sees in their space – including holograms. Everyone on the call can draw and place arrows in your space. Annotations are particularly useful for pointing out parts of your space that may be difficult or dangerous for you to reach. Remote collaborators will see your additions, and will be able to make annotations of their own. Once an annotation is placed, all call participants can refer to it at any time until it is deleted. 
+Once a video call has connected, the Microsoft Teams user will see everything the HoloLens user sees in their space – including holograms. 
+Annotations are particularly useful for pointing out parts of your space that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make annotations of their own. Once an annotation is placed, it will remain anchored in your space until the person who placed the annotation deletes it.  Adding annotations to files works the same way.
 
 > ![Note]
-> Multiple Teams desktop users can join and add annotations in a Remote Assist call. The Teams desktop user will see annotations others add even when the Teams desktop user is in edit mode. 
-A Teams mobile user can only annotate in a one-to-one call with a Remote Assist user (either HoloLens or mobile). 
+> Multiple Teams desktop users can join and add annotations in a Remote Assist call when the Remote Assist user is using HoloLens. 
+Only one Teams mobile user can join and add annotations in a Remote Assist call, regardless of whether the Remote Assist user is using HoloLens or mobile.
 In other words, the following calls are supported:
 * One-to-one call between 1 Remote Assist HoloLens user and 1 Teams desktop user
 * One-to-one call between 1 Remote Assist HoloLens user and 1 Teams mobile user
