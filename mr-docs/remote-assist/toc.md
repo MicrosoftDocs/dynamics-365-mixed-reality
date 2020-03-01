@@ -22,6 +22,7 @@
 ### [Update a Dynamics 365 Field Service work order](update-field-service-work-order-hololens.md)
 ### [Close the app](close-app-hololens.md)
 ### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
+### [File a support ticket](file-support-ticket-hololens.md)
 ### [Report a bug](report-a-bug-hololens.md)
 ### [See also](see-also-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
