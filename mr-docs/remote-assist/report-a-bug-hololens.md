@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Report a bug using HoloLens Feedback Hub
 
-If you encounter an issue, please use the HoloLens Feedback Hub to let us know so we can resolve it. 
+If you encounter an issue, please use the HoloLens Feedback Hub to let us know so we can resolve it in future releases.
 
 1.	There are 2 ways to navigate to the HoloLens Feedback Hub application to report a bug. 
 * From the **Start menu**: At any time, you can navigate to the **Start menu** and launch **Feedback Hub**. 
