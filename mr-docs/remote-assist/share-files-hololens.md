@@ -12,7 +12,8 @@ ms.reviewer: krbjoran
 
 ## Display your OneDrive file in your space
 
-You can share a OneDrive file with remote collaborators. For example, you may want to show them a PDF of the instructions you tried using to resolve the issue. 
+You can share a OneDrive file with remote collaborators. For example, you may want to show them a PDF of the instructions you tried using to resolve the issue. All call participants can annotate files just like they annotate your space. 
+
 
 To display a OneDrive file during a video call, select OneDrive ![OneDrive](media/RAHL_OneDrive.png "OneDrive") (or say “Remote Assist, OneDrive”) and select the file you want to add. The file will then pop up as a new slate in your space, but a link to the OneDrive file will not be sent in the chat. Your remote collaborators will be able to see the image or PDF file as long as you’re looking at it. Supported files include .jpg, bmp, png, tif, pdf, and still gif.  
 
@@ -23,4 +24,11 @@ When a Teams user shares a file from OneDrive or from their device, it will pop 
 You may also want to save the file to your OneDrive for future reference. For example, the Teams user may send a PDF of a schematic you can use in future repairs, so you want to save it to your OneDrive and share the OneDrive file with others.
 
 To save the file to OneDrive, tap OneDrive ![OneDrive](media/RAHL_OneDrive "OneDrive") icon in the top right of the slate. The OneDrive file is then automatically saved to a folder called “HoloLens Received Files.”  
+
+Note
+
+The top right corner of the PDF displays the page number you’re currently on as well as the total number of pages. You can use the **Previous** and **Next** arrows to navigate pages. If you are looking at a PDF with many pages, you may want to jump to a specific page. To do so, select the current page number you are on. A numeric keyboard will pop out. Select the page number you want to navigate to.
+
+
+
 
