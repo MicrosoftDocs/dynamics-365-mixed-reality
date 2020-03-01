@@ -10,6 +10,9 @@ ms.reviewer: krbjoran
 ---
 # Overview of Dynamics 365 Remote Assist on HoloLens 2
 
+When you use Remote Assist on HoloLens 1 or HoloLens 2, you can collaborate with one or more Teams desktop users or one Teams mobile user. Remote Assist on HoloLens 1 and HoloLens 2 offer the same capabilities. However, there are slight differences in the way you interact with holograms. Those differences are called out via notes throughout this document. 
+To learn how to use these features, watch these [how-to-videos](videos.md) and read this document for more details.  Note that these videos 
+
 
 ## Overview of core features
 
@@ -49,6 +52,16 @@ Remote Assist supports different languages on HoloLens 1 versus HoloLens. Check 
 > Tip
 > Remote Assist on HoloLens 1 and HoloLens 2 offer the same capabilities. However, HoloLens 1 gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens 1 gestures](https://docs.microsoft.com/en-us/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](https://docs.microsoft.com/en-us/hololens/hololens2-basic-usage) before reading the rest of this document.
 
+
+## Difference between collaborating with a Teams desktop user versus a Teams mobile user
+
+The only difference between collaborating with one or more Teams desktop users versus collaborating with one Teams mobile user is that a Teams desktop user can initiate a Teams cloud-based recording of a group meeting, whereas a Teams mobile user cannot. The difference is indicated in bold below. 
+
+| In a...  |Can a Remote Assist HoloLens user record?     |  Can a Teams desktop user can record? |  Can a Teams mobile user record?  |  
+|---|---|---|---| 
+|  One-to-one call |  Available April 2020 |  Only if Teams desktop user initiates call using [Meet Now feature] (AddLink) |  No |   
+|  Group call |  No | **Yes** |  **No**|   
+|  Meeting | No  |  Yes | Yes  |   
 
 
 
