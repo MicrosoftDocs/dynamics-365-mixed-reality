@@ -25,9 +25,9 @@ To pin and unpin the call window:
 
 As the HoloLens user, you can only see one remote collaborator’s video feed at a time. There are two ways to switch the displayed video feed in a group call or meeting.
 
-Select ![OpenParticpants](media/RAHL_Participants.png "OpenParticpants") (or say, “Remote Assist, Open Participants”). Select the participant whose video feed you want to switch to. If that participant's video feed is enabled, the video will switch to their outgoing feed.
+1. You can switch video feeds from the **Participant Tray** located below the video feed. Select an avatar to switch to their outgoing video feed (or avatar, if their outgoing video is disabled). 
+2. Another method is to select Open Participants ![OpenParticpants](media/RAHL_Participants.png "OpenParticpants") (or say, “Remote Assist, Open Participants”). Select the participant whose video feed you want to switch to. If that participant's video feed is enabled, the video will switch to their outgoing video feed (or avatar, if their outgoing video is disabled).
 
-You can also switch video feeds from the **Participant tray** located below the video feed. Select an avatar to switch to seeing their video feed.
 
 ## See a Teams user’s desktop or mobile screen  
 
