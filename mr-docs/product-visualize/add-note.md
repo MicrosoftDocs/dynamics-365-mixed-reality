@@ -43,12 +43,12 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Attach image](media/attach-image.png "Tap Attach image")
 
-    1. Tap **Photo** to take a photo of the model, or tap **Camera Roll** if you want to use a photo already stored on your device.
+    1. Tap **Photo** to take a photo of the model, or tap **Camera Roll** if you want to use a photo that's already stored on your device.
 
         > [!div class=mx-imgBorder]
-        > ![Tap Photo](media/camera-roll.png "Tap Capture")
+        > ![Tap Photo](media/camera-roll.png "Tap Photo")
 
-    2. To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model. Tap **Next**.
+    2. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap **Next**.
 
         > [!div class=mx-imgBorder]
         > ![Draw or add text](media/draw-add-text.png "Draw or add text")
@@ -68,7 +68,7 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Pin to model](media/pin-to-model.png "Tap Pin to model")
 
-    1. Tap the model where you want to attach the note, and then tap **Next**.
+    * Tap the model where you want to attach the note, and then tap **Next**.
  
         > [!div class=mx-imgBorder]
         > ![Tap on the model](media/tap-on-product.png "Tap on the model")
@@ -90,7 +90,7 @@ The following table shows how notes appear on the model, depending on where the 
 
 2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes. 
     
-    If you want to see a larger view of the notes, which is useful if you can't see all the text in the notes card, tap the expand arrow in the upper-right corner of the notes card or flick up. 
+    If you want to see a larger view of the notes&mdash;which is useful if you can't see all the text in the notes card&mdash;tap the expand arrow in the upper-right corner of the notes card, or flick up. 
     
     > [!div class=mx-imgBorder]
     > ![Expand notes button](media/expand-notes-button.png "Expand notes button")
@@ -108,7 +108,7 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2.	Navigate to the note you want to export, and tap the **Overflow** menu in the upper-right corner of the notes card.
+2.	Navigate to the note you want to delete, and tap the **Overflow** menu in the upper-right corner of the notes card.
 
     > [!div class=mx-imgBorder]
     > ![Navigate to the note](media/note.png "Navigate to the note")
@@ -124,7 +124,7 @@ The following table shows how notes appear on the model, depending on where the 
 
 You can export your notes to share them with other apps on your device that support the iOS sharing function. The notes image and text are exported without any special formatting.
 
-To export a note:
+**To export a note**
 
 1.	Tap **Notes** on the right side of the screen.
 
@@ -152,7 +152,7 @@ By default, your notes are saved to the SharePoint account associated with your 
 
 To turn off sharing with the Dynamics 365 Sales timeline or Teams channels:
 
-1. Tap the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.  
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.  
 
 2. Move the **Dynamics 365 for Sales Timeline** slider to the Off position.
 
