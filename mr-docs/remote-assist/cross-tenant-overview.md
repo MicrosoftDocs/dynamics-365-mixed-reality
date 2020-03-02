@@ -132,4 +132,4 @@ Tenant ABC will need to create “Service accounts” in Azure AD. These account
 
 If you are following the steps in the [Deploy HoloLens in a Commercial Environment](https://docs.microsoft.com/hololens/hololens-requirements#apps) article, please go back to that document before implementing this solution.
 
-Instructions on implementing are located [here](cross-tenant.md).
+Instructions on implementing are located [here](cross-tenant-licensing-implementation.md).
