@@ -5,7 +5,10 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
 ### [Deploy Remote Assist](deploy-remote-assist.md)
-## [Set up cross-company calling (for admins)](cross-company-calling.md)
+## Cross-Tenant/Cross-Company Calling Deployment Docs
+### [Set up Cross-Tenant/Cross-Company Calling (Overivew)](cross-tenant-overview.md)
+### [Cross-Tenant/Cross-Company RA License Implementation](cross-tenant-licensing-implementation.md)
+### [Set up cross-company calling (Open Federation)](cross-company-calling.md)
 ## [HoloLens user guide](user-guide.md)
 ## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
@@ -17,7 +20,7 @@
 ### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
-## [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
+###[Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 ## [How-to videos](videos.md)
 ## [Protocol activation (for developers)](protocol-activation.md)

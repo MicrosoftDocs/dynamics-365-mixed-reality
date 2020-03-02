@@ -11,7 +11,7 @@ ms.reviewer:
 
 # Cross Tenant RA Licensing Implementation Steps
 
-This document assumes that you have read the [Cross Tenant Deployment Document](cross-tenant-deployment.md). If you have not, please review that document first.
+This document assumes that you have read the [Remote Assist Cross Tenant Communication](cross-tenant-overview.md). If you have not, please review that document first.
 
 ## Overview of Steps
 
