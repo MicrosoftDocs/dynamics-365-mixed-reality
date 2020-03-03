@@ -71,9 +71,9 @@ Use this procedure if you haven't already created users and assigned licenses. I
 6. Review the settings, and then select **Finish adding**, and then select **Close**. 
 
 >[!TIP]
->To add multiple users, see bulk add users to Office 365 groups.
+>To add multiple users at the same time, see [Add several users at the same time](https://docs.microsoft.com/en-us/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88).
 
-## Create a security group and add members to the security group
+## Create a security group and add members (users) to the group
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage).
 
@@ -102,17 +102,21 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 ## Associate a security group with an instance
 
-1. In the Microsoft 365 admin center, click Admin centers > Dynamics 365.
+1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), select **All Admin centers**, and then select **Dynamics 365**.
 
-2. Click the Instances tab, select an instance, and then click Edit.
+!!NOT TESTED FROM HERE ON!!
 
-3. In security settings, search for a specific security group, and then click Next > Save.
+2. Select the **Instances** tab, select an instance, and then select **Edit**.
+
+3. In the security settings, search for a specific security group, and then select **Next** > **Save**.
 
 >[!TIP]
->To force an immediate synchronization between the Office 365 admin portal and model-driven apps in Dynamics 365, do the following:<br>
-- Sign out of model-driven apps in Dynamics 365 and the Office 365 admin portal.<br>
-- Close all open browsers used for model-driven apps in Dynamics 365 and the Office 365 admin portal.<br>
-- Sign back in to model-driven apps in Dynamics 365 and the Office 365 admin portal.
+>To force an immediate synchronization between the Office 365 admin portal and model-driven apps in Dynamics 365:<br>
+1. Sign out of model-driven apps in Dynamics 365 and the Office 365 admin portal.<br>
+2. Close all open browsers used for model-driven apps in Dynamics 365 and the Office 365 admin portal.<br>
+3. Sign back in to model-driven apps in Dynamics 365 and the Office 365 admin portal.
 
 ## See also
+
+[Add several users at the same time](https://docs.microsoft.com/en-us/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88)
 
