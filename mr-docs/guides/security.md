@@ -15,37 +15,6 @@ Consider the following example scenario:
 
 In this example, four security groups provide controlled access to a specific organization.
 
-Note the following about security groups:
-
-- When users are added to the security group, they are added to the instance.
-
-- When users are removed from the group, they are disabled in the instance.
-
-- When a security group is associated with an existing instance with users, all users in the instance that are not members of the 
-group will be disabled.
-
-- If an instance does not have an associated security group, all users with a license will be created as users and enabled in the 
-instance.
-
-- If a security group is associated with an instance, only users with licenses that are members of the instance security group will 
-be created as users in the instance.
-
-- When you remove a security group that is associated with a instance, either by editing the instance and removing the security 
-group or by deleting the security group, licensed users who were members of the security group will have the same access to 
-model-driven apps in Dynamics 365.
-
-- When you assign a security group to an instance, that instance will not show up in the Instances tab (instance picker) in the 
-Dynamics 365 admin center for users not in the group.
-
-- If you do not assign a security group to an instance, the instance will show up in the Instances tab (instance picker) in the 
-Dynamics 365 admin center even for those who have not been assigned a security role in that instance.
-Nested security groups are not supported.
-
-- Nested security groups are not supported.
-
->[!NOTE]
->All licensed users, whether or not they are members of the security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign the security roles in the web application. Users can’t access instances until they are assigned at least one security role for that instance. More information: Grant users access.
-
 ## Create a user and assign a license
 
 Use this procedure if you haven't already created users and assigned licenses. If you've already done this step, you can skip to the next procedure. 
@@ -115,6 +84,38 @@ Use this procedure if you haven't already created users and assigned licenses. I
 1. Sign out of model-driven apps in Dynamics 365 and the Office 365 admin portal.<br>
 2. Close all open browsers used for model-driven apps in Dynamics 365 and the Office 365 admin portal.<br>
 3. Sign back in to model-driven apps in Dynamics 365 and the Office 365 admin portal.
+
+## Additional info on security groups
+
+Note the following about security groups:
+
+- When users are added to a security group, they are added to the instance.
+
+- When users are removed from a security group, they are disabled in the instance.
+
+- When a security group is associated with an existing instance that has users, all users in that instance that are not members of the 
+security group will be disabled.
+
+- If an instance does not have an associated security group, all users with a license will be created as users and enabled in the 
+instance.
+
+- If a security group is associated with an instance, only users with licenses that are members of the security group will 
+be created as users in the instance.
+
+- When you remove a security group that is associated with a instance, either by editing the instance and removing the security 
+group or by deleting the security group, licensed users who were members of the security group will have the same access to 
+model-driven apps in Dynamics 365.
+
+- When you assign a security group to an instance, that instance will not show up in the **Instances** tab in the 
+Dynamics 365 admin center for users that aren't in the group.
+
+- If you don't assign a security group to an instance, the instance will show up in the **Instances** tab in the 
+Dynamics 365 admin center even for those users who have not been assigned a security role in that instance.
+
+- Nested security groups are not supported.
+
+>[!NOTE]
+>All licensed users, whether or not they are members of security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign security roles in the web application. Users can’t access instances until they are assigned at least one security role for that instance. For more information, see [Grant users access](https://docs.microsoft.com/en-us/power-platform/admin/grant-users-access).
 
 ## See also
 
