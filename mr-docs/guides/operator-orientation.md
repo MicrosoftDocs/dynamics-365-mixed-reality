@@ -79,7 +79,7 @@ If a Step card includes a **Power Apps** button, you can open an app by selectin
 ![Power Apps button](media/website-button-runtime.PNG "Power Apps button")
 
 >[!NOTE]
->On HoloLens 1, the Dynamics 365 Guides app enters sleep mode when you select a Power Apps link from a step. You can tap the Dynamics 365 Guides app at any time to return to the guide and resume where you left off. If you're using HoloLens 2, the Dynamics 365 Guides app remains active when you select a PowerApps link.
+>On HoloLens 1, the Dynamics 365 Guides app enters sleep mode when you select a Power Apps link from a step. You can tap the Dynamics 365 Guides app at any time to return to the guide and resume where you left off. If you're using HoloLens 2, the Dynamics 365 Guides app remains active when you select a Power Apps link.
 
 ## Turn off holograms
 
