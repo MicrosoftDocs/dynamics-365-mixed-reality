@@ -48,13 +48,30 @@ Nested security groups are not supported.
 
 ## Create a user and assign a license
 
+Use this procedure if you haven't already created users and assigned licenses. If you've already done this step, you can skip to the next procedure. 
+
 1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), select **Users** > **Active users**, and then select **Add a user**. 
 
-2. Enter the user information, select licenses, and then select **Add**.
+2. In the **Set up the basics** screen enter the first name, last name, display name, and username. 
 
-To add multiple users, see bulk add users to Office 365 groups.
+3. Under **Password settings**: 
+ 
+   1. Select whether you want to have the password automatically generated or whether you want to create the password yourself. 
+   
+   2. Select whether you want to require the user to change their password when they first sign in.
+   
+   3. Select whether you want to send the password in email.
+   
+   4. Select **Next**.
 
-More information: Add users individually to Office 365 - Admin Help
+4. In the **Assign product licenses** screen, select a location, and then select the check box next to **Dynamics 365 Guides** if it's not already selected, and then select **Next**. 
+
+5. In the **Optional** settings screen, add roles or profile info if you want, and then select **Next**.
+
+6. Review the settings, and then select **Finish adding**, and then select **Close**. 
+
+>[!TIP]
+>To add multiple users, see bulk add users to Office 365 groups.
 
 ## Create a security group and add members to the security group
 
@@ -82,8 +99,6 @@ More information: Add users individually to Office 365 - Admin Help
 
 >[!NOTE]
 >To remove a user from a security group, repeat this procedure, but select the X next to any member you want to remove.<br>SCREEN SHOT GOES HERE.
-
-
 
 ## Associate a security group with an instance
 
