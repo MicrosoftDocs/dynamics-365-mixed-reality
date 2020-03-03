@@ -2,7 +2,7 @@
 
 # Restrict access to an instance
 
-If your company has multiple instances for Dynamics 365 Guides, you can use security groups to control which users can access which instances.
+If your company has multiple Dynamics 365 Guides instances, you can use security groups to control which users can access which instances.
 
 Consider the following example scenario:
 
@@ -46,32 +46,44 @@ Nested security groups are not supported.
 >[!NOTE]
 >All licensed users, whether or not they are members of the security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign the security roles in the web application. Users can’t access instances until they are assigned at least one security role for that instance. More information: Grant users access.
 
-## Create a security group and add members to the security group
-
-1. Sign in to the Microsoft 365 admin center.
-
-2. Click Groups > Groups.
-
-3. Click + Add a group.
-
-4. Change the type to Security group, add the group Name and Description. Click Add > Close.
-
-5. Click the group you created, and then next to Members, click Edit.
-
-6. Click + Add members. Select the users to add to the security group, and then click Save > Close several times to return to the Groups list.
-
-7. To remove a user from the security group, select the security group, next to Members, click Edit. Click - Remove members, and then click X for each member you want to remove.
-
->[!NOTE]
-
-If the users you want to add to the security group are not created, create the users and assign to them the licenses.<br>
-To add multiple users, see: bulk add users to Office365 groups.
-
 ## Create a user and assign a license
 
-- In the Microsoft 365 admin center, click Users > Active users > + Add a user. Enter the user information, select licenses, and then click Add.
+1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), select **Users** > **Active users**, and then select **Add a user**. 
+
+2. Enter the user information, select licenses, and then select **Add**.
+
+To add multiple users, see bulk add users to Office 365 groups.
 
 More information: Add users individually to Office 365 - Admin Help
+
+## Create a security group and add members to the security group
+
+1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage).
+
+2. Select **Groups** > **Groups**.
+
+3. Select **Add a group**.
+
+4. In the **Choose a group type** screen, select **Security**, and then select **Next**.
+
+5. In the **Set up the basics** screen, add a name and description, and then select **Next**.
+
+6. In the **Review and finish adding group** screen, select **Create group**, and then in the next screen, select **Close**.
+
+7. In the **Groups** screen, select **Refresh** if you don't see your new group.
+
+8. Select the group you created, and then in the pane that appears on the right, select the **Members** tab.
+
+9. On the **Members** tab, select **View all and manage members**.
+
+10. In the page that appears, select **Add members**. 
+
+11. Select the users to add to the security group, and then select **Save**, and then select **Close** two times to return to the **Groups** page.
+
+>[!NOTE]
+>To remove a user from a security group, repeat this procedure, but select the X next to any member you want to remove.<br>SCREEN SHOT GOES HERE.
+
+
 
 ## Associate a security group with an instance
 
