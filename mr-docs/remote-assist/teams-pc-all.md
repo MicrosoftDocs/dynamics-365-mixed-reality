@@ -8,103 +8,30 @@ ms.topic: article
 title: Collaborate with a Remote Assist user via Microsoft Teams on PC
 ms.reviewer: krbjoran
 ---
+# Collaborate with a Remote Assist user via Microsoft Teams on PC
+
+## Overview
+
+When you use Teams on a PC running Windows 10, you can collaborate with people using Remote Assist on HoloLens 1 or 2 (a “Remote Assist HoloLens user”) or Remote Assist on a mobile device (a “Remote Assist mobile user”).   
+However, the features you can use to collaborate differ depending on which platform the Remote Assist user is using.  
+
+### Feature comparison: Collaborating with Remote Assist HoloLens user versus Remote Assist mobile user
+
+### Key terms
+
+When you join a call, you will see the mixed reality toolbar.   
+![MRT](media/PC_MRToolbar.png "MRT")
 
 
+And the call controls panel. 
+![PC_CallControls](media/PC_CallControls.png "PC_CallControls")
+ 
+The More Options panel ![MoreOptions](media/PC_MoreOptions.png "MoreOptions")includes additional features. 
 
-# Set up and use Microsoft Teams with Dynamics 365 Remote Assist to collaborate on a call
 
-A [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user on [!include[pn-hololens](../includes/pn-hololens.md)] can work collaboratively with a colleague (typically an expert in a particular field) during a video call by using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]. The expert can see everything that the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user sees, and they can holographically draw
-and annotate together. For example, let’s say a first-line worker is servicing a
-very complex machine and isn’t sure how to solve a problem. The first-line
-worker can call an expert anywhere in the world and have the expert assist with
-the servicing using annotations or files.
+## Launch Teams 
 
-Setting up this collaboration using [!include[pn-teams](../includes/pn-teams.md)] is simple and it’s free for the
-expert.
-
-Need more help? [Check out Dynamics 365 Remote Assist FAQ](faq.md) for answers to common questions.
-
-[Watch how-to videos](videos.md) about [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
-
-## What you’ll need
-
-The [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user (first-line worker) on [!include[pn-HoloLens](../includes/pn-HoloLens.md)] needs:
-
--   [A subscription to Dynamics 365 Remote Assist.](../licensing/buy-and-deploy.md) The [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] subscription includes a subscription to [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)].
-
--   A [!include[pn-hololens](../includes/pn-hololens.md)] running the [Windows 10 April 2018
-    Update](https://support.microsoft.com/help/12643) (or later).
-
--   An [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] account.
-
-The expert needs:
-
--   A PC running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 with the latest version of [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) or a mobile device running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile. The expert uses [!include[pn-teams](../includes/pn-teams.md)] to communicate with the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user on [!include[pn-HoloLens](../includes/pn-HoloLens.md)]. [!include[pn-teams](../includes/pn-teams.md)] may be available [as a free download](https://teams.microsoft.com/downloads).
-
--   A free [!include[cc-microsoft](../includes/cc-microsoft.md)] account. The expert might already have a [!include[cc-microsoft](../includes/cc-microsoft.md)] account
-    if they signed up for the [!include[cc-microsoft](../includes/cc-microsoft.md)] App Store, Skype, Xbox, Hotmail, or
-    Outlook.com. If the expert doesn’t already have a [!include[cc-microsoft](../includes/cc-microsoft.md)] account, they
-    can sign up for one by going to [https://account.microsoft.com/account](https://account.microsoft.com/account).
-
-## Setup
-
-You can onboard an expert and collaborate using [!include[pn-teams](../includes/pn-teams.md)] in three easy steps:
-
-| **Step** | **Description**                                                                  | **Who does this step?**           |
-|----------|----------------------------------------------------------------------------------|-----------------------------------|
-|    1.      | Enable guest access for [!include[pn-teams](../includes/pn-teams.md)]                                                    | Administrator                     |
-|    2.      | Invite the expert to join a team as a guest using the expert’s [!include[cc-microsoft](../includes/cc-microsoft.md)] account | Administrator or [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user and expert (to download [!include[pn-teams](../includes/pn-teams.md)]) |
-|    3.      | Place a call                                                                     | [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user or expert     |
-
-### Step 1: Enable guest access for teams
-
-1.  If you’re the admin for the main [!include[pn-azure](../includes/pn-azure.md)] tenant, go to
-    <https://admin.microsoft.com/adminportal/> to open the Office Admin portal,
-    and then sign in.
-
-2.  From the menu on the left, select **Show More** \> **Settings** \> **Services & add-ins**.
-
-    ![Service & add-ins](media/bf81ea48e3ccd560b6f44dbc72a73eb5.png "Service & add-ins")
-
-1.  Select **[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]** from the list of applications.
-
-    ![Microsoft Teams](media/ad846431f181b1c6df362bc2e0e03167.png "Microsoft Teams")
-
-1.  Select **Settings by user/license type**.
-
-2.  In the drop-down list next to **Select the user/license type you want to
-    configure**, select **Guest**.
-
-3.  Set **Turn [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] on or off for all users of this type** to **On**,
-    and then choose **Save**.
-
-    ![Save](media/9f095e7553a4af03ff13ea6a29a9343a.png "Save")
-
-4.  Wait an hour for the settings to propagate.
-
-### Step 2: Invite the expert to join a team
-
-1.  In [!include[pn-teams](../includes/pn-teams.md)], select **Join or create a team** to create a team if it doesn’t
-    already exist. The [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user and the expert must be on the same
-    team to communicate.
-
-    ![Join or create a team](media/16e00f809d210dcb3b1e8c8e859b73da.png "Join or create a team")
-
-1.  When asked to add members, enter the expert’s [!include[cc-microsoft](../includes/cc-microsoft.md)] account.
-
-    ![Microsoft account](media/71e9276273f8f47b786f743416a2cb64.png "Microsoft account")
-
-    > [!NOTE]
-    > If you don’t see the option to add a guest by typing an email address, it’s likely that guest access isn’t enabled on your company’s [!include[pn-azure](../includes/pn-azure.md)] tenant for [!include[pn-teams](../includes/pn-teams.md)]. Enable guest access as described earlier in this topic.
-
-1.  The expert will immediately receive an email message and can click the link
-    in the message to open (or download) [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]. This version of [!include[pn-teams](../includes/pn-teams.md)]
-    is free and is not a trial version.
-
-### Step 3. Place a call
-
-1.  The expert launches the [!include[pn-teams](../includes/pn-teams.md)] app and the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user on the [!include[pn-hololens](../includes/pn-hololens.md)]
-    signs in to their account as usual.
+Launch the Teams app.
 
     > [!IMPORTANT]
     > If this is the first time the expert has launched [!include[pn-teams](../includes/pn-teams.md)] and the expert has not been invited to any other teams, [!include[pn-teams](../includes/pn-teams.md)] will automatically take the expert to the correct place. If the expert has been invited to other teams, the expert might need to switch to the appropriate tenant.  
@@ -116,11 +43,55 @@ You can onboard an expert and collaborate using [!include[pn-teams](../includes/
     > [!NOTE]
     > [!include[pn-teams](../includes/pn-teams.md)] might take a few seconds to reload.
     
-1.  Either party can make the call. You might need to search contacts to find
-    the right person.
 
-    > [!NOTE]
-    > The guest can call any member on the same team. To extend this functionality, invite any other members within your company who would benefit from being able to access this new expert.
+
+## Make and take calls
+### Accept a call  
+When you see an incoming call notification in the bottom right of your screen, select Audio or Video to join the call.
+
+### Make a one-to-one call to Remote Assist user in your company	
+After launching Teams, select the Calls tab on your left to see suggested contacts. Select the Video icon on the contact card to call a suggested contact, of use the search bar to find a contact and call them. 
+
+>![Note]
+> Teams desktop users are not able to record a one-to-one call (i.e. an outgoing or incoming ad hoc call). To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the Meet Now feature here. (include link to “Initiate and record a one-to-one call with Remote Assist HoloLens user using the Meet Now feature”)
+
+
+### Make a one-to-one call to Remote Assist user outside your company	
+
+You can make or receive a one-to-one call with a Remote Assist user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see Set up cross-company calling. When searching for the external user, you must enter the full email address of the external user. 
+
+>![Note]
+> If you're not able to find the contact you're looking for, it might be because external access has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help.  
+
+### Make a group call (with Remote Assist HoloLens user only)
+
+A group call can include up to 1 Remote Assist HoloLens user and 49 Teams Desktop users. 
+Start by calling one person, and then select Open Participants ![Participants](media/RAHL_Participants.png "Participants") button. Then, search the person you would like to call and call them.
+
+
+### Make and record a one-to-one call with a Remote Assist HoloLens user using the Meet Now feature 
+
+You may want to record the Remote Assist call for documentation or record-keeping purposes. There are three ways to record a call. Learn about the different types of calls [here](insert link to “record a call”). 
+Teams desktop only supports recording group calls and meetings (regardless of how many call participants are in the meeting). In other words, when you are in a call, a Teams desktop user can use Teams to initiate a cloud-based recording only if the call is a group call or a meeting. (At this time, a HoloLens user cannot record the call.) 
+So how do you record a one-to-one call? You will need to make your one-to-one call a meeting. In other words, if you anticipate wanting to use Teams to create a cloud-based recording of a one-to-one call with a Remote Assist HoloLens user, the easiest way to do this is to initiate your call using the Teams **Meet Now** feature. (This effectively makes your ad hoc one-to-one call a meeting, and because Teams supports recording for meetings, you will be able record the call!)
+
+1.	Navigate to the Calendar tab. On the top right corner of the page, you will see. Click **Meet Now.**
+![MeetNow](media/PC_MeetNow.png "MeetNow")
+2. Name the meeting and select **Join now**
+3. Invite people to the meeting using the “Invite someone or dial a number” field on the right half of the screen. Click the […] and click start recording. 
+4. When the call ends, it will appear as a normal Meeting in your Teams chat log. The chat log will include everyone was invited to the meeting. Stream processes the recording.
+5. The person who initiates the recording is the recorder and owns the video. When a recording ends, it begins being uploaded to Microsoft Stream. Once the video is uploaded to Stream, the recorder receives an email notification, and all call participants can view a link to Stream via the Teams chat. The owner is the only participant who can [give permission](https://support.office.com/en-us/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video](https://support.office.com/en-us/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. [Learn more about Stream video permissions.]( https://docs.microsoft.com/en-us/stream/portal-permissions)
+
+You can find all the videos you own [here]( https://msit.microsoftstream.com/studio/videos).
+If your admin has configured Field Service integration, you can access the recording link and can post it in a D365 Field Service booking.
+
+
+
+
+
+
+
+
 
 ## Working with annotations
 
