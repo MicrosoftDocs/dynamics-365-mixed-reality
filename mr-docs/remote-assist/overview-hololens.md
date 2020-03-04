@@ -10,14 +10,13 @@ ms.reviewer: krbjoran
 ---
 # Overview of Dynamics 365 Remote Assist on HoloLens 1 and 2
 
-When you use Remote Assist on HoloLens 1 or HoloLens 2, you can collaborate with one or more Teams desktop users or one Teams mobile user. Remote Assist on HoloLens 1 and HoloLens 2 offer the same capabilities. However, there are slight differences in the way you interact with holograms. Those differences are called out via notes throughout this document. 
-To learn how to use these features, watch these [how-to-videos](videos.md) and read this document for more details.  Note that these videos 
+When you use Remote Assist on HoloLens 1 or HoloLens 2, you can collaborate with one or more Teams desktop users or one Teams mobile user. Remote Assist on HoloLens 1 and HoloLens 2 offer the same capabilities. However, there are slight differences in the way you interact with holograms. Those differences are called out throughout this document. 
 
+To learn how to use these features, watch these [how-to-videos](videos.md) and read this document for more details.  
 
 ## Overview of core features
 
 When you launch Remote Assist, you’ll see your recent contacts. When you join a call or meeting, you will see a video card.  
-
 
 ![Contacts](media/HL2-01.01-contacts.png "Contacts")
 
@@ -32,6 +31,7 @@ This is the settings page. When you’re outside a call, you can navigate to Set
 
 
 This is a video card. When you’re in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars of all call participants.  
+
 You can make a one-to-one or group call on Remote Assist call on HoloLens. You can also join a meeting scheduled using Teams or Outlook.  
 Remote collaborators can use Microsoft Teams on PC (desktop app only, not web browser) or Microsoft Teams on mobile (iOS or Android).
 In a call, remote collaborators can see everything you see – including holograms and the real world behind the holograms – and can annotate your world, insert files into your world, and more.   
@@ -69,8 +69,8 @@ The only difference between collaborating with one or more Teams desktop users v
 
 * Have a subscription to Dynamics 365 Remote Assist and Microsoft Teams
 * Have HoloLens running the Windows 10 April 2018 Update
-* Have contact using the latest version of [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software?rtc=1) on a PC running Windows 10 or a Microsoft Teams on mobile. Learn about using Teams with Dynamics 365 Remote Assist. [will add link when I publish it]
-*	Have an internet connection. At least 1.5 MB of bandwidth is recommended.
+* Have contact using the latest version of [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software?rtc=1) on a PC running Windows 10 or Microsoft Teams on mobile. 
+*	Have an internet connection. At least [1.5 MB of bandwidth is recommended](https://docs.microsoft.com/en-us/microsoftteams/upgrade-prepare-environment-prepare-network#bandwidth-planning).
 *	To connect to Dynamics 365 Field Service from within Dynamics 365 Remote Assist, you’ll need a Dynamics 365 license
 Know your credentials for signign into the HoloLens and Remote Assist 
 * Have installed D365 Remote Assist app on your HoloLens 1 or 2 
