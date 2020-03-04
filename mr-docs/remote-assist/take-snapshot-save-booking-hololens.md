@@ -9,7 +9,7 @@ ms.topic: article
 ms.reviewer: krbjoran
 ---
 
-# Take a snapshot and save it to a Dynamics 365 Field Service booking 
+# Take a snapshot (and save it to a Dynamics 365 Field Service booking)
 
 ## Take a snapshot
 
