@@ -9,7 +9,7 @@
 ### [Get ready to deploy Remote Assist](deploy-remote-assist.md)(update to live doc)
 ### [Set up Teams on PC and mobile](set-up-teams.md)
 ### [Configure 3rd-party calling](cross-company-calling.md)(Payge)
-### [Integrate Dynamics 365 Field Service)(Dave owns this doc)
+### [Set up Dynamics 365 Field Service Integration)(Dave owns this doc)
 
 ## Remote Assist on Hololens 1 and 2
 ### [Overview](overview-hololens.md)
@@ -23,7 +23,7 @@
 ### [Record calls](record-calls-hololens.md)
 ### [Send text messages](send-texts-hololens.md)
 ### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
-### [Update a Dynamics 365 Field Service work order](update-field-service-work-order-hololens.md)
+### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
 ### [Close the app](close-app-hololens.md)
 ### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
 ### [File a support ticket](file-support-ticket-hololens.md)
