@@ -89,11 +89,18 @@ Learn more [here](https://docs.microsoft.com/en-us/dynamics365/field-service/rem
 
 ## Next steps
 
-Administrators: Learn how to try, buy, or deploy Remote Assist in your organization, and how to deploy HoloLens and mobile. Also, learn to configure option settings, such as integrating Dynamics 365 Remote Assist or enabling a cross-tenant user to use Remote Assist or Teams.
+**Administrators:**
+* Learn how to get a [free trial of Remote Assist](try-remote-assist-free.md)
+* Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses
+* Learn how to [deploy Remote Assist](deploy-remote-assist.md), including how to assign licenses and set up HoloLens and mobile devices.
+* Learn how to [deploy Teams on PC or mobile](set-up-teams.md)
+* Optionally, learn to configure additional settings, such as [integrating Dynamics 365 Remote Assist with Field Service](where's the doc for this?) or [enabling a cross-tenant user to use Remote Assist or Teams](waiting for Payge's doc).
 
-Technicians and inspectors: Learn how to use the features of [Remote Assist on HoloLens](overview-hololens.md) or [Remote Assist on mobile](mobile-app/index.md).
+**Technicians and inspectors:**
+* Learn how to use [Remote Assist on HoloLens](overview-hololens.md) or [Remote Assist on mobile](mobile-app/index.md).
 
-Remote collaborators: Learn how to use [Teams on PC](teams-pc-all.md) or [Teams on mobile](teams-mobile-all.md) to collaborate with a Remote Assist user.
+**Remote collaborators:**
+* Learn how to use [Teams on PC](teams-pc-all.md) or [Teams on mobile](teams-mobile-all.md) to collaborate with a Remote Assist user.
 
 ### See also (needs update)
 
