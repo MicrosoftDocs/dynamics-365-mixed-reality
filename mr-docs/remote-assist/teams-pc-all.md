@@ -17,13 +17,30 @@ However, the features you can use to collaborate differ depending on which platf
 
 ### Feature comparison: Collaborating with Remote Assist HoloLens user versus Remote Assist mobile user
 
+|  |Teams desktop features available when collaborating with Remote Assist HoloLens user|Teams desktop features available when collaborating with Remote Assist mobile user|
+|---|---|---|
+|Teams desktop features available when collaborating with Remote Assist HoloLens user                 |Teams desktop features available when collaborating with Remote Assist mobile user                   |
+|Yes                                                                                                  |Yes, but Remote Assist mobile user must have Remote Assist app open to be notified of the call       |
+|Yes                                                                                                  |Yes                                                                                                  |
+|Yes                                                                                                  |Yes                                                                                                  |
+|Yes                                                                                                  |No; Remote Assist mobile does not support group calls                                                |
+|Yes                                                                                                  |No; Remote Assist mobile does not support meetings                                                   |
+|Yes                                                                                                  |Yes                                                                                                  |
+|No                                                                                                   |Yes                                                                                                  |
+|Yes                                                                                                  |Yes                                                                                                  |
+|Yes                                                                                                  |No; However, Remote Assist mobile file support will be available April 2020                          |
+|Yes, only in a group call, meeting, or one-to-one call initiated using the Meet Now feature.         |No;                                                                                                  |
+|However, starting in April 2020, the Remote Assist HoloLens user can record a normal one-to-one call.|However, starting in April 2020, the Remote Assist HoloLens user can record a normal one-to-one call.|
+|Yes                                                                                                  |No                                                                                                   |
+
 ### Key terms
 
-When you join a call, you will see the mixed reality toolbar.   
+When you join a call, you will see the **Mixed Reality Toolbar.**
 
 ![Mixed Reality toolbar](media/071f358ab6bbf7c2072b15d9203a1593.png "Mixed Reality toolbar")
 
-And the call controls panel. 
+And the **call controls panel.**
+
 ![CC](media/PC_CallControls.png "CC")
  
 The More Options panel ![MoreOptions](media/PC_MoreOptions.png "MoreOptions") includes additional features. 
@@ -57,7 +74,7 @@ When you see an incoming call notification in the bottom right of your screen, s
 After launching Teams, select the Calls tab on your left to see suggested contacts. Select the Video icon on the contact card to call a suggested contact, of use the search bar to find a contact and call them. 
 
 >![Note]
-> Teams desktop users are not able to record a one-to-one call (i.e. an outgoing or incoming ad hoc call). To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the Meet Now feature here. (include link to “Initiate and record a one-to-one call with Remote Assist HoloLens user using the Meet Now feature”)
+> Teams desktop users are not able to record a one-to-one call (i.e. an outgoing or incoming ad hoc call). To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the Meet Now feature here
 
 
 ### Make a one-to-one call to Remote Assist user outside your company	
