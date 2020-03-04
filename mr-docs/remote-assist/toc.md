@@ -1,13 +1,15 @@
 # Dynamics 365 Remote Assist
+
 ## [Overview](ra-overview.md)
+
 ## Setup
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist-free.md)
 ### [Buy + assign Remote Assist licenses](buy-remote-assist.md)
-### [Get ready to deploy Remote Assist](deploy-remote-assist.md)
-### [Configure 3rd-party calling](cross-company-calling.md)
-### [Set up Teams on PC and mobile](set-up-teams-all.md)
-
+### [Get ready to deploy Remote Assist](deploy-remote-assist.md)(update to live doc)
+### [Set up Teams on PC and mobile](set-up-teams.md)
+### [Configure 3rd-party calling](cross-company-calling.md)(Payge)
+### [Integrate Dynamics 365 Field Service)(Dave owns this doc)
 
 ## Remote Assist on Hololens 1 and 2
 ### [Overview](overview-hololens.md)
