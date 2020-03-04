@@ -19,7 +19,7 @@ With the Dynamics 365 Field Service application, technicians manage their assign
 
 If your organization uses Dynamics 365 Field Service to manage field service work orders and bookings and has [set up Dynamics 365 integration](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/edit/toc-sandbox/mr-docs/remote-assist/mobile-app/field-service-integration.md), you can view Dynamics 365 Field Service bookings from Dynamics 365 Remote Assist and call the collaborator listed in the Resource field. This enables you to do heads-up, hands-free calling through HoloLens in the context of a Dynamics 365 Field Service booking, and snapshots from the call to the booking.  
 
-View a Dynamics 365 Field Service booking and call an assigned resource:
+### View a Dynamics 365 Field Service booking and call an assigned resource:
 
 1.  In the Contacts menu, select **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** ![Dynamics 365](media/d365-button3.png "Dynamics 365") to open the **Booking** pane. (Select **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** ![Dynamics 365](media/d365-button3.png "Dynamics 365") again to close the **Booking** pane.)  
       
