@@ -74,7 +74,7 @@ When you see an incoming call notification in the bottom right of your screen, s
 After launching Teams, select the Calls tab on your left to see suggested contacts. Select the Video icon on the contact card to call a suggested contact, of use the search bar to find a contact and call them. 
 
 >![Note]
-> Teams desktop users are not able to record a one-to-one call (i.e. an outgoing or incoming ad hoc call). To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the Meet Now feature here
+> Teams desktop users are not able to record a one-to-one call (i.e. an outgoing or incoming ad hoc call). To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the [Meet Now feature](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/toc-sandbox/mr-docs/remote-assist/teams-pc-all.md#make-and-record-a-one-to-one-call-with-a-remote-assist-hololens-user-using-the-meet-now-feature).
 
 
 ### Make a one-to-one call to Remote Assist user outside your company	
@@ -258,7 +258,7 @@ See more pros and cons in the [chart below](teams.md/#Comparison-chart-3-ways-to
 
 **Method 2: Cloud-based recording for one-to-one calls using Teams Meet Now feature** 
 
-So how do you record a one-to-one call? You will need to make your one-to-one call a meeting. In other words, if you anticipate wanting to use Teams to create a cloud-based recording of a one-to-one call with a Remote Assist HoloLens user, the easiest way to do this is to initiate your call using the Teams **Meet Now** feature. (This effectively makes your ad hoc one-to-one call a meeting, and because Teams supports recording for meetings, you will be able record the call!)
+So how do you record a one-to-one call? You will need to make your one-to-one call a meeting. In other words, if you anticipate wanting to use Teams to create a cloud-based recording of a one-to-one call with a Remote Assist HoloLens user, the easiest way to do this is to [initiate your call using the Teams **Meet Now** feature](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/toc-sandbox/mr-docs/remote-assist/teams-pc-all.md#make-and-record-a-one-to-one-call-with-a-remote-assist-hololens-user-using-the-meet-now-feature). (This effectively makes your ad hoc one-to-one call a meeting, and because Teams supports recording for meetings, you will be able record the call!)
 
 See more pros and cons in the chart below, and see additional details here.
 
