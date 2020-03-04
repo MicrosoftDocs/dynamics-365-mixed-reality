@@ -1,5 +1,5 @@
 ---
-title: Overview of Dynamics 365 Remote Assist on HoloLens 2
+title: Overview of Dynamics 365 Remote Assist on HoloLens 1 and 2
 author: sophiasysun
 description: Overview of Remote Assist features and links to HoloLens 1 and HoloLens 2 gestures 
 ms.author: sopsun
@@ -8,7 +8,7 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Overview of Dynamics 365 Remote Assist on HoloLens 2
+# Overview of Dynamics 365 Remote Assist on HoloLens 1 and 2
 
 When you use Remote Assist on HoloLens 1 or HoloLens 2, you can collaborate with one or more Teams desktop users or one Teams mobile user. Remote Assist on HoloLens 1 and HoloLens 2 offer the same capabilities. However, there are slight differences in the way you interact with holograms. Those differences are called out via notes throughout this document. 
 To learn how to use these features, watch these [how-to-videos](videos.md) and read this document for more details.  Note that these videos 
