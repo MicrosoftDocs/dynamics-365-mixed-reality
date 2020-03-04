@@ -8,7 +8,7 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Record calls in Dynamics 365 Remote Assist on HoloLens 2
+# Record calls in Dynamics 365 Remote Assist on HoloLens 
 
 Recording a call is great for training or record-keeping purposes.
 
