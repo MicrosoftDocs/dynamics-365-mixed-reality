@@ -20,14 +20,17 @@ However, the features you can use to collaborate differ depending on which platf
 ### Key terms
 
 When you join a call, you will see the mixed reality toolbar.   
-![MRT](media/PC_MRToolbar.png "MRT")
 
+![Mixed Reality toolbar](media/071f358ab6bbf7c2072b15d9203a1593.png "Mixed Reality toolbar")
 
 And the call controls panel. 
-![PC_CallControls](media/PC_CallControls.png "PC_CallControls")
+![CC](media/PC_CallControls.png "CC")
  
-The More Options panel ![MoreOptions](media/PC_MoreOptions.png "MoreOptions")includes additional features. 
+The More Options panel ![MoreOptions](media/PC_MoreOptions.png "MoreOptions") includes additional features. 
 
+A **meeting** is a call scheduled using Teams. A meeting can include 1+ more participants.
+A **1:1 call** is an ad hoc call that is not scheduled using Teams.  
+A **group call** is an ad hoc call that is not scheduled using Teams. To create a group call, start with a 1:1 call and then add more participants. 
 
 ## Launch Teams 
 
@@ -125,17 +128,15 @@ When you are in a call, call controls are found at the bottom of the screen.
 -	![mic](media/Teams_Microphone.png "mic") Toggle the microphone to control outgoing audio
 - ![share](media/Teams_Share.png "share") Select the Share button to share your desktop or a running application (with a Remote Assist HoloLens user only) 
 -	![text](media/Teams_Text.png "text") Select the text chat to send text messages (and share files with a Remote Assist HoloLens user only)
--	![participants](media/Text_Participants.png "participants") Select the participants icon to view and add participants to the call
+-	![participants](media/Teams_Participants.png "participants") Select the participants icon to view and add participants to the call
 
 To use additional features, select the […]. For example, select ‘Blur my background” if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting, the More Options […] panel will also provide the option to record the call.  
 
-![CC](media/PC_CallControls.png "CC")
-
+![CallControls](media/PC_CallControls.png "CallControls")
 
 ## Work with annotations  
 
 When in a call, you will see your collaborator’s space—including the holograms—and can use the **Mixed Reality toolbar** to add holograms.
-
 
 ![Mixed Reality toolbar](media/071f358ab6bbf7c2072b15d9203a1593.png "Mixed Reality toolbar")
 
