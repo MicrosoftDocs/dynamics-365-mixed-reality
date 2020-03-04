@@ -231,25 +231,25 @@ To share your desktop or a running application:
 
 You may want to record the Remote Assist call for documentation or record-keeping purposes. There are three ways to record a call. The method you use depends on the type of call that you are in (1:1, group, or meeting) and other factors.
 
-### Method 1: Cloud-based recording for group calls and meetings using Teams
+**Method 1: Cloud-based recording for group calls and meetings using Teams**
 
 Teams desktop only supports recording group calls and meetings (regardless of how many call participants are in the meeting). In other words, when you are in a call, a Teams desktop user can use Teams to initiate a cloud-based recording only if the call is a group call or a meeting. (At this time, a HoloLens user cannot record the call.) 
 
 See more pros and cons in the chart below, and see additional details here.
 
-### Method 2: Cloud-based recording for one-to-one calls using Teams Meet Now feature 
+**Method 2: Cloud-based recording for one-to-one calls using Teams Meet Now feature** 
 
 So how do you record a one-to-one call? You will need to make your one-to-one call a meeting. In other words, if you anticipate wanting to use Teams to create a cloud-based recording of a one-to-one call with a Remote Assist HoloLens user, the easiest way to do this is to initiate your call using the Teams **Meet Now** feature. (This effectively makes your ad hoc one-to-one call a meeting, and because Teams supports recording for meetings, you will be able record the call!)
 
 See more pros and cons in the chart below, and see additional details here.
 
-### Method 3: Desktop screen recording using Windows Gamebar
+**Method 3: Desktop screen recording using Windows Gamebar**
 
 However, Teams cloud-based recording has limitations. The recording captures the outgoing video feed (or avatar) of up to 4 call participants and the recording screen is divided evenly among the call participants. This means that if even if primarily care about what the HoloLens user sees, you cannot adjust the Teams recording layout to only capture what the HoloLens user sees. This may be particularly confusing for a call with two participants; **during the call**, you will see a **horizonal** section of the HoloLens user’s view, but because the Teams recording divides the recording screen into half, **in the call recording**, you will see a **vertical section** of the HoloLens user’s view.
 
 See more pros and cons in the chart below, and see additional details here (teams-pc.md/Cloud-based recording of group calls and meetings using Teams).
 
-### The HoloLens user can also record only the HoloLens view. 
+**The HoloLens user can also record only the HoloLens view**
 
 See pros and cons in the chart below, and see additional details here (link to mobile doc).
 
@@ -258,5 +258,118 @@ See pros and cons in the chart below, and see additional details here (link to m
 The chart below compares different ways of recording the call. It also includes details for only recording the HoloLens view.
 
 | Recording type | What the recording captures|Pros |Cons |
+|--|--|--|--|
+|[Cloud-based recording of group calls and meetings] (teams-pc.md/Cloud-based recording of group calls and meetings using Teams)|[Cloud-based recording of group calls and meetings] (teams-pc.md/Cloud-based recording of group calls and meetings using Teams)|Recording is automatically saved in Stream and link is available in Teams chat. If your admin has configured Field Service integration, you can access the recording link and can post it in a D365 Field Service booking.|Recording layout is not configurable.|
+|[Cloud-based recording of one-to-one calls](addLink)|Teams desktop outgoing video feed (or avatar), and middle vertical section of HoloLens outgoing video feed  ![2call](media/2call.png "2call")|Recording is automatically saved in Stream and link is available in Teams chat. If your admin has configured Field Service integration, you can access the recording link and can post it in a D365 Field Service booking.|Recording layout is not configurable. Holograms and real world objects that are in the right or left periphery of the HoloLens user’s view will not be captured in the recording.|
+|Desktop screen recording [add link to section below]|The Teams layout the recorder sees and [configures]( https://support.office.com/en-us/article/adjust-your-view-in-a-teams-meeting-9825091c-0e7d-4c2b-95f5-eba644f19175) during the call. |Because the Teams desktop user is just recording their computer screen, the recording layout matches what Teams desktop user sees during the call.|If the recording needs to be accessible to others, the Teams user must manually upload the video to a shared drive|
+|HoloLens view recording[add link to section below]|HoloLens user’s view |Clarity of HoloLens user’s field of view is not impacted by call connection quality.|If the recording needs to be accessible to others, the HoloLens user must manually upload the video to a shared location. Recording length may be limited by HoloLens internal memory.|
+
+
+
+## Cloud-based recording of group calls and meetings using Teams
+
+**What does this type of recording capture?**
+
+Cloud-based recording of group calls and meetings captures the outgoing video feed (or avatar) of up to 4 call participants. 
+Benefits of cloud-based recording: Recording is automatically saved online and accessible to all call participants
+The person who initiates the recording is the recorder and owns the video. When a recording ends, it begins being uploaded to Microsoft Stream. Once the video is uploaded to Stream, the recorder receives an email notification, and all call participants can view a link to Stream via the Teams chat. The owner is the only participant who can [give permission]( https://support.office.com/en-us/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video]( https://support.office.com/en-us/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. [Learn more about Stream video permissions.]( https://docs.microsoft.com/en-us/stream/portal-permissions)
+
+You can find all the videos you own [here.]( https://msit.microsoftstream.com/studio/videos).
+
+If your admin has configured Field Service integration, you can access the recording link and can post it in a D365 Field Service booking.
+
+**Limitations of cloud-based recording: recording layout is not configurable**
+
+The layout of the Teams recording depends on the number of call participants, and the layout cannot be configured. When using Teams to record the call, the Remote Assist HoloLens user’s never occupies the entire recording. 
+
+>![Note]
+>If it is imperative that your recording only captures as much of the Remote Assist HoloLens user’s view as possible, and as little of Teams user’s outgoing videos (or avatars), consider recording your desktop screen using Windows Gamebar [AddLink]. 
+
+**Teams recording with 2 participants**
+
+In a Teams meeting recording with two participants, each participant’s outgoing video (or avatar) occupies one half of the recording, and both halves are vertical. This means that during a Remote Assist call, a Teams desktop user sees a horizonal slice of what you see, but the recording only captures the middle vertical slice of what you see. Furthermore, during the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies half the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy half the recording.)
+
+![2call](media/2call.png "2call")
+
+**Teams recording with 3 participants**
+In a Teams recording with three participants, each participant’s outgoing video (or avatar) occupies one third of the recording. Furthermore, during the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one third the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one third of the recording.)
+
+![3call](media/3call.png "3call")
+
+**Teams recording with 4 participants**
+In a Teams recording with four or more participants, each participant’s outgoing video (or avatar) occupies one fourth of the recording. During the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one fourth of the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one fourth of the recording.) 
+
+![4call](media/4call.png "4call")
+
+**Teams recording with 4+ participants**
+
+A Teams recording including four or more participants splits the horizonal recording into four, with remaining participants’ avatars in the bottom right corner of the recording. 
+
+![5call](media/5call.png "5call")
+
+**How to initiate a recording**
+If you are in a group call or meeting, navigate to the call controls. Select More Options, then select Start recording. A call recording ends if:
+*	You select **Stop recording**
+*	Remote Assist call ends
+
+
+## Cloud-based recording of one-to-one calls using Teams Meet Now
+
+Cloud-based recording of one-to-one calls initiated via Teams Meet Now is very similar to Cloud-based recording of group calls or meetings. The only difference is how a Teams desktop user initiates the recording. 
+
+**How to initiate a recording**
+See [Initiate and record a one-to-one call with a Remote Assist HoloLens user using the Meet Now feature](AddLink)
+
+>![Note]
+>If, after reviewing the alternative methods below, you decide that this method best fits your requirements, remember that the recording only captures the middle section of the HoloLens users view. This means that for the tasks that the Remote Assist user and expert really want recorded, the Remote Assist user should try to keep those tasks in the center of the HoloLens user’s view.   
+
+
+## Desktop screen recording using Windows Gamebar
+
+**What does this type of recording capture?**
+The Teams layout that the call recorder [configures]( https://support.office.com/en-us/article/adjust-your-view-in-a-teams-meeting-9825091c-0e7d-4c2b-95f5-eba644f19175) during the call.
+
+**Benefits of cloud-based recording:**
+Because the Teams desktop user is just recording their computer screen, the recording layout matches exactly what Teams desktop user sees during the call.
+
+**Limitations of cloud-based recording:**
+If the recording needs to be accessible to others, the Teams user must manually upload the video to a shared drive and share it with all call participants or additional people.
+
+**How to initiate a recording**
+1. On a [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 desktop PC, join a call using [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)].
+
+2. Press **Windows logo key ![Windows logo key](media/windows-logo-key.png "Windows logo key") + G** to open the Game bar.
+
+   ![Game bar](media/game-bar.png "Game bar")
+
+3. Select the **Start Recording** button (or press **Windows logo key ![Windows logo key](media/windows-logo-key.png "Windows logo key") + Alt + R**).
+
+   A small recording menu will appear that shows that the recording is in progress.
+   
+   ![Recording](media/recording.PNG "Recording")
+   
+4. To stop recording, select the **Stop Recording** button.
+
+   The video of the recording will appear in your **Videos/Captures** folder.
+   
+[Learn more about the Game bar.](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10)
+
+
+## Send a text message 
+
+During a call, participants can communicate through the text chat. The chat log will be available via Teams after the call ends.
+
+From the call controls, select Text Chat ![text](media/Teams_Text.png "text")  to open the chat. Note that the Remote Assist user can only see messages exchanged during the call, but you may see messages exchanged before the call. 
+
+You can also attach a OneDrive file or local file via the Teams chat **Attach file** feature.
+
+>![Note]
+>Remote Assist chat supports certain formats, including bold, italic, strikethrough, and underline. It also supports hyperlink. However, it does not support html-formatted or lists, such as a passage you copy and paste from a website. 
+For example, if you copy and paste text from a website that has HTML formatting and send it during a Remote Assist call, the Remote Assist HoloLens user will see the text in the Remote Assist chat window, but the formatting may not be what you expect.
+
+
+## File a support ticket
+If you encounter an issue that is blocking you from using the application, [file a support ticket](https://support.microsoft.com/en-us/hub/4338666/hololens-help). Support will work directly with you until the issue is resolved.
+
 
 
