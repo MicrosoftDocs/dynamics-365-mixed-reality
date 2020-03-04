@@ -1,14 +1,13 @@
 ---
-title: Update a Dynamics 365 Field Service work order on HoloLens 2
-author: GITHUB USER NAME
-description: VERY BRIEF DESCRIPTION OF THIS CONTENT
-ms.author: MS ALIAS
-ms.date: 00/00/2020
+title: Update a Dynamics 365 Field Service booking on HoloLens
+author: sophiasysun
+description: Update a Dynamics 365 Field Service booking on HoloLens
+ms.date: 02/29/20
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Update a Dynamics 365 Field Service work order on HoloLens
+# Update a Dynamics 365 Field Service booking on HoloLens
 
 Empower technicians to solve problems faster by pairing Dynamics 365 Remote Assist HoloLens application with the Dynamics 365 Field Service application. This allows technicians to:
 * Call the expert assigned to the booking
@@ -62,4 +61,3 @@ You may update your booking status.
 To modify the default view of information in the **Booking** pane, [edit the view as
 you would any Dynamics 365 view](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-and-edit-views).
 
-PHOTO from DAVE
