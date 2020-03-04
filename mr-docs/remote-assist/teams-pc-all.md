@@ -49,6 +49,7 @@ Launch the Teams app.
 
 
 ## Make and take calls
+
 ### Accept a call  
 When you see an incoming call notification in the bottom right of your screen, select Audio or Video to join the call.
 
@@ -69,7 +70,7 @@ You can make or receive a one-to-one call with a Remote Assist user from another
 ### Make a group call (with Remote Assist HoloLens user only)
 
 A group call can include up to 1 Remote Assist HoloLens user and 49 Teams Desktop users. 
-Start by calling one person, and then select Open Participants ![Participants](media/RAHL_Participants.png "Participants") button. Then, search the person you would like to call and call them.
+Start by calling one person, and then select Open Participants ![Participants](media/Teams_Participants.png "Participants") button. Then, search the person you would like to call and call them.
 
 
 ### Make and record a one-to-one call with a Remote Assist HoloLens user using the Meet Now feature 
