@@ -81,8 +81,8 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 11. Select the users to add to the security group, select **Save**, and then select **Close** two times to return to the **Groups** page.
 
->[!NOTE]
->To remove a user from a security group, repeat this procedure, but select the **X** next to any member you want to remove.<br>![Remove members](media/remove-members-2.PNG "Remove members").
+    >[!NOTE]
+    >To remove a user from a security group, repeat this procedure, but select the **X** next to any member you want to remove.<br>![Remove members](media/remove-members-2.PNG "Remove members").
 
 ## Associate a security group with an instance
 
