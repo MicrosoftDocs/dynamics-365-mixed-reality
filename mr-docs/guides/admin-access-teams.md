@@ -12,3 +12,24 @@ For example, you might want to limit access of certain guides to a specific fact
 configuration, such as the creation of [Owner teams](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information), 
 is not covered in this topic.
 
+## How access teams work with the Operator and Author user roles
+
+You can assign an Operator or Author role to a user to determine whether that user has the ability to create and edit guides or just use them. When you assign an Operator or Author role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guides content (3D models, images, or videos), you must reduce privileges for the Operator or Author role and use access teams.
+
+## Overall process for limiting access to a guide
+
+The process for limiting access includes these basic steps:
+
+1.	Create a new security role with reduced privileges.
+
+2.	Grant access for the new security role to the Guides model-driven app.
+
+3.	Assign the new security role to a user or users.
+
+4.	Create an access team and add users to the team.
+
+5.	Share the guide with the access team.
+
+Each of these steps is covered in detail in this document.
+
+
