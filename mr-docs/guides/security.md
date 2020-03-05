@@ -61,7 +61,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
     ![Set up the basics screen](media/set-up-basics-2.PNG "Set up the basics screen")
 
-6. In the **Review and finish adding group** screen, select **Create group**, and then in the next screen, select **Close**.
+6. In the **Review and finish adding group** screen, review your changes, select **Create group**, and then in the next screen, select **Close**.
 
     ![Review and finish adding group screen](media/review-group.PNG "Review and finish adding group screen")
 
