@@ -22,7 +22,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 2. In the **Set up the basics** screen enter the first name, last name, display name, and username. 
 
-    ![Set up the basics screen](media/set-up-basics.PNG "Set up the basics screen")
+    ![Set up the basics screen](media/set-up-basics-1.PNG "Set up the basics screen")
 
 3. Under **Password settings**: 
  
@@ -49,52 +49,46 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage).
 
-2. Select **Groups** > **Groups**.
+2. Select **Groups** > **Groups**, and then select **Add a group**.
 
-    ![Xxx](media/xxx.PNG "Xxx")
-
-3. Select **Add a group**.
-
-    ![Xxx](media/xxx.PNG "Xxx")
+    ![Add a group command](media/add-group-command.PNG "Add a group command")
 
 4. In the **Choose a group type** screen, select **Security**, and then select **Next**.
 
-    ![Xxx](media/xxx.PNG "Xxx")
+    ![Choose a group type screen](media/choose-group-type.PNG "Choose a group type screen")
 
 5. In the **Set up the basics** screen, add a name and description, and then select **Next**.
 
-    ![Xxx](media/xxx.PNG "Xxx")
+    ![Set up the basics screen](media/set-up-basics-2.PNG "Set up the basics screen")
 
 6. In the **Review and finish adding group** screen, select **Create group**, and then in the next screen, select **Close**.
 
-    ![Xxx](media/xxx.PNG "Xxx")
+    ![Review and finish adding group screen](media/review-group.PNG "Review and finish adding group screen")
 
 7. In the **Groups** screen, select **Refresh** if you don't see your new group.
 
 8. Select the group you created, and then in the pane that appears on the right, select the **Members** tab.
 
-    ![Xxx](media/xxx.PNG "Xxx")
+    ![Members tab](media/members-tab.PNG "Members tab")
 
 9. On the **Members** tab, select **View all and manage members**.
 
-    ![Xxx](media/xxx.PNG "Xxx")
+    ![View all and manage members command](media/view-members.PNG "View all and manage members command")
 
 10. In the page that appears, select **Add members**. 
 
-    ![Xxx](media/xxx.PNG "Xxx")
+    ![Add members command](media/add-members-2.PNG "Add members command")
 
-11. Select the users to add to the security group, and then select **Save**, and then select **Close** two times to return to the **Groups** page.
-
-    ![Xxx](media/xxx.PNG "Xxx")
+11. Select the users to add to the security group, select **Save**, and then select **Close** two times to return to the **Groups** page.
 
 >[!NOTE]
->To remove a user from a security group, repeat this procedure, but select the X next to any member you want to remove.<br>SCREEN SHOT GOES HERE.
+>To remove a user from a security group, repeat this procedure, but select the **X** next to any member you want to remove.<br>![Remove members](media/remove-members-2.PNG "Remove members").
 
 ## Associate a security group with an instance
 
 1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), select **All Admin centers**, and then select **Dynamics 365**.
 
-    ![Xxx](media/xxx.PNG "Xxx")
+    ![All admin centers screen](media/all-admin-centers.PNG "All admin centers screen")
 
 !!NOT TESTED FROM HERE ON!!
 
