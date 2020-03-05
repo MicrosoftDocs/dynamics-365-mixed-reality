@@ -49,7 +49,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage).
 
-2. Select **Groups** > **Groups**, and then select **Add a group**.
+2. On the left side of the screen, select **Groups** > **Groups**, and then select **Add a group**.
 
     ![Add a group command](media/add-group-command.PNG "Add a group command")
 
