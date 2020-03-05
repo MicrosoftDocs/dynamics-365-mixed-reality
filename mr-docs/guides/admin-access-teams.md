@@ -76,4 +76,34 @@ The Guides model-driven app provides an interface for users to share a specific 
 
 3.	In the pane that appears on the right side of the screen, select the check box next to the **Dynamics 365 Guides Restricted Operator role** (keep the selections for the other roles), and then select **Save**.
  
+## Assign the new security role to a user or users
+
+To prevent a specific user from accessing all guides by default, change that user’s security role to the newly created Dynamics 365 Guides Restricted Operator role. Once assigned, they will only be able to see guides that have been shared with them.
+
+>[!NOTE]
+>The steps outlined in this procedure show how to restrict operator privileges. You can restrict author privileges in a similar way.
+
+1.	In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the same Guides solution, select the **More environment actions** (...) button, and then select **Settings**. 
+
+    SCREEN SHOT GOES HERE
+
+2.	On the **Settings** page, select **Users**.
+
+    SCREEN SHOT GOES HERE
+ 
+3.	Select a specific user by selecting their name.
+
+    SCREEN SHOT GOES HERE 
+
+4.	Select **Manage Roles**, and then do the following:
+
+    a. Clear the check box next to the **Dynamics 365 Guides Operator** role.
+
+    b. Select the check box next to the **Dynamics 365 Guides Restricted Operator** role. 
+
+    c. Select **OK**.
+    
+    SCREEN SHOT GOES HERE
+
+ 
 
