@@ -192,9 +192,9 @@ Any user that has access to the Guides model-driven app can share guides and gui
 
  ## See also
  
-[Use access teams and owner teams to collaborate and share information]()<br>
-[Assign an Operator or Author role to a user]()<br>
-[Learn more about Dynamics 365 security roles and privileges]()<br>
+[Use access teams and owner teams to collaborate and share information](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information)<br>
+[Assign an Operator or Author role to a user](assign-role.md)<br>
+[Learn more about Dynamics 365 security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges)<br>
 
 
 
