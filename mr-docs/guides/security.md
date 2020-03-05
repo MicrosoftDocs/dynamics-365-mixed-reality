@@ -86,11 +86,9 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 ## Associate a security group with an instance
 
-1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), select **All Admin centers**, and then select **Dynamics 365**.
+1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), on the left side of the screen, select **All admin centers**, and then select **Dynamics 365**.
 
     ![All admin centers screen](media/all-admin-centers.PNG "All admin centers screen")
-
-!!NOT TESTED FROM HERE ON!!
 
 2. Select the **Instances** tab, select an instance, and then select **Edit**.
 
