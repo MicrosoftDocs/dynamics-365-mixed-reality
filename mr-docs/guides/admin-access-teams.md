@@ -41,26 +41,26 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 
 1.	In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, choose an environment with an installed Guides solution, select the **More environment actions** (...) button, and then select **Settings**.
 
-    ![XXX](media/access-teams-1.PNG "XXX")
+    ![Settings command](media/access-teams-1.PNG "Settings command")
  
 2.	On the **Settings** page, under **Users + permissions**, select **Security roles**.
 
-    ![XXX](media/access-teams-2.PNG "XXX")
+    ![Security roles command](media/access-teams-2.PNG "Security roles command")
  
 3.	Select the check box next to the **Dynamics 365 Guides Operator** role, and then at the top of the screen, select **More Actions > Copy Role**. Copying the role ensures that your changes will not be overridden the next time the Guides solution is updated. 
 
-    ![XXX](media/access-teams-3.PNG "XXX")
+    ![Copy role](media/access-teams-3.PNG "Copy role")
 
 4.	Name the new role "Dynamics 365 Guides Restricted Operator", and then select **OK**.
 
-    ![XXX](media/access-teams-4.PNG "XXX")
+    ![Add name for new role](media/access-teams-4.PNG "Add name for new role")
 
 5.	In the **Security Role: Dynamics 365 Guides Restricted Operator** window, select the **Custom Entities** tab, and then in the **Guides** entity row, select the dot in the second column to change the read privileges from **Organization** level to **User** level. Select **Save and Close** at the top of the window when you’re done.
 
     >[!NOTE]
     >The **Key** at the bottom of the window describes the different privilege levels. For more information, see [Security roles and privileges](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/admin/security-roles-privileges). 
 
-    ![XXX](media/access-teams-5.PNG "XXX")
+    ![Change Read privileges](media/access-teams-5.PNG "Change Read privileges")
     
 ## Grant access for the new security role to the Guides model-driven app
 
@@ -68,11 +68,11 @@ The Guides model-driven app provides an interface for users to share a specific 
 
 1.	In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, choose the environment with the installed Guides solution, select the **More environment actions** (...) button, and then select **Open environment**.
  
-    ![XXX](media/access-teams-6.PNG "XXX")
+    ![Open environment command](media/access-teams-6.PNG "Open environment command")
 
 2.	In the **Guides** app tile, select the **More Actions** (…) button, and then select **Manage Roles**.
 
-    ![XXX](media/access-teams-7.PNG "XXX")
+    ![Manage Roles command](media/access-teams-7.PNG "Manage Roles command")
 
 3.	In the pane that appears on the right side of the screen, select the check box next to the **Dynamics 365 Guides Restricted Operator role** (keep the selections for the other roles), and then select **Save**.
  
@@ -85,15 +85,15 @@ To prevent a specific user from accessing all guides by default, change that use
 
 1.	In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the same Guides solution, select the **More environment actions** (...) button, and then select **Settings**. 
 
-    ![XXX](media/access-teams-8.PNG "XXX")
+    ![Settings command](media/access-teams-8.PNG "Settings command")
 
 2.	On the **Settings** page, select **Users**.
 
-    ![XXX](media/access-teams-9.PNG "XXX")
+    ![Users command(media/access-teams-9.PNG "Users command")
  
 3.	Select a specific user by selecting their name.
 
-    ![XXX](media/access-teams-10.PNG "XXX")
+    ![Select user](media/access-teams-10.PNG "Select user")
 
 4.	Select **Manage Roles**, and then do the following:
 
@@ -103,7 +103,7 @@ To prevent a specific user from accessing all guides by default, change that use
 
     c. Select **OK**.
     
-    ![XXX](media/access-teams-11.PNG "XXX")
+    ![Clear and select roles](media/access-teams-11.PNG "Clear and select roles")
 
 ## Create an access team and add users to the team
 
@@ -114,23 +114,23 @@ A user can be associated with more than one access team.
 
 1.	In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the same Guides solution, select the **More environment actions** (...) button, and then select **Settings**.
 
-    ![XXX](media/access-teams-12.PNG "XXX")
+    ![Settings command](media/access-teams-12.PNG "Settings command")
 
 2.	On the **Settings** page, select **Teams**. 
     
-    ![XXX](media/access-teams-13.PNG "XXX")
+    ![Teams command](media/access-teams-13.PNG "Teams command")
 
 3.	Select **New**. 
 
-    ![XXX](media/access-teams-14.PNG "XXX")
+    ![New command](media/access-teams-14.PNG "New command")
 
 4.	In the **New Team** page, add a **Team Name** and **Administrator**, change the **Team Type** to **Access**, and then select **Save**.
 
-    ![XXX](media/access-teams-15.PNG "XXX")
+    ![New Team settings](media/access-teams-15.PNG "New Team settings")
 
 5.	To add users to this team, click the **+** sign next to the **Team members** list.
 
-    ![XXX](media/access-teams-16.PNG "XXX")
+    ![+ button](media/access-teams-16.PNG "+ button")
     
 6.	Enter the name of the user you want to add, select the search button, and then select the user’s name. 
         
@@ -140,15 +140,15 @@ A user can be associated with more than one access team.
 
 2.	Select **Apps**, and then select **Guides**.
 
-    ![XXX](media/access-teams-17.PNG "XXX")
+    ![Guides command](media/access-teams-17.PNG "Guides command")
  
 3.	Find the guide you want to share, select the check box next to the guide name, and then select **Share**. 
 
-    ![XXX](media/access-teams-18.PNG "XXX")
+    ![Share command](media/access-teams-18.PNG "Share command")
     
 4.	On the **Share guide** page, select **Add User/Team**.
 
-    ![XXX](media/access-teams-19.PNG "XXX")
+    ![Add User/Team command](media/access-teams-19.PNG "Add User/Team command")
 
 5.	In the **Look Up Records** dialog box, do the following:
 
@@ -160,7 +160,7 @@ A user can be associated with more than one access team.
 
     d. Select the **Select** button, and then select **Add**.
     
-      ![XXX](media/access-teams-20.PNG "XXX")
+      ![Look Up Records settings](media/access-teams-20.PNG "Look Up Records settings")
         
 ## Share a guide with another user
 
@@ -170,23 +170,23 @@ Any user that has access to the Guides model-driven app can share guides and gui
 
 2.	Select **Apps**, and then select **Guides**.
 
-    ![XXX](media/access-teams-21.PNG "XXX")
+    ![Guides command](media/access-teams-21.PNG "Guides command")
  
 3.	Find the guide you want to share, select the check box next to the name, and then select **Share**.
 
-    ![XXX](media/access-teams-22.PNG "XXX")
+    ![Share command](media/access-teams-22.PNG "Share command")
  
 4.	On the **Share guide** page, select **Add User/Team**. 
 
-    ![XXX](media/access-teams-23.PNG "XXX")
+    ![Add User/Team command](media/access-teams-23.PNG "Add User/Team command")
 
 5.	Select the check box next to a specific user, select the **Select** button, and then select **Add**. 
 
-    ![XXX](media/access-teams-24.PNG "XXX")
+    ![Add command](media/access-teams-24.PNG "Add command")
 
 6.	Make sure that the user has the **Read** privilege, and then select **Share**.
 
-    ![XXX](media/access-teams-25.PNG "XXX")
+    ![Read privilege](media/access-teams-25.PNG "Read privilege")
 
  ## See also
  
