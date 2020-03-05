@@ -18,9 +18,11 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), select **Users** > **Active users**, and then select **Add a user**. 
 
-    ![Xxx](media/xxx.PNG "Xxx")
+    ![Add a user](media/add-user-3.PNG "Add a user")
 
 2. In the **Set up the basics** screen enter the first name, last name, display name, and username. 
+
+    ![Set up the basics screen](media/set-up-basics.PNG "Set up the basics screen")
 
 3. Under **Password settings**: 
  
@@ -34,11 +36,9 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 4. In the **Assign product licenses** screen, select a location, and then select the check box next to **Dynamics 365 Guides** if it's not already selected, and then select **Next**. 
 
-    ![Xxx](media/xxx.PNG "Xxx")
+    ![Dynamics 365 Guides check box](media/guides-check-box.PNG "Dynamics 365 Guides check box")
 
 5. In the **Optional** settings screen, add roles or profile info if you want, and then select **Next**.
-
-    ![Xxx](media/xxx.PNG "Xxx")
 
 6. Review the settings, and then select **Finish adding**, and then select **Close**. 
 
