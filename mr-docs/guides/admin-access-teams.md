@@ -170,19 +170,15 @@ Any user that has access to the Guides model-driven app can share guides and gui
 
 1.	Go to make.powerapps.com.
 
-2.	Select Apps, and then select Guides.
+2.	Select **Apps**, and then select **Guides**.
  
-3.	Find the guide you want to share, select the check box next to the name, and then select Share.
+3.	Find the guide you want to share, select the check box next to the name, and then select **Share**.
  
-4.	On the Share guide page, select Add User/Team.
+4.	On the **Share guide** page, select **Add User/Team**. 
 
- 
+5.	Select the check box next to a specific user, select the **Select** button, and then select **Add**. 
 
-5.	Select the check box next to a specific user, select the Select button, and then select Add.
-
- 
-
-6.	Make sure that the user has the Read privilege, and then select Share.
+6.	Make sure that the user has the **Read** privilege, and then select **Share**.
 
  
 
