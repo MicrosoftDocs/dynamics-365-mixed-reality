@@ -4,15 +4,13 @@
 
 If your company has multiple Dynamics 365 Guides instances, you can use security groups to control which users can access which instances.
 
-Consider the following example scenario:
+For example, you could create three security groups to control access to these specific instances.
 
 |Instance|Security Group|Purpose|
 |-------------------|----------------------|------------------------------------------------------------------------|
 |Coho Manufacturing Sales|Sales_SG|Provide access to the organization that creates sales opportunities, handles quotes, and closes deals.|
 |Coho Manufacturing Maintenance|Maintenance_SG|Provide access to the organization that does service and machinery maintenance.|
 |Coho Manufacturing Dev|Developer_SG|Provide access to the sandbox instance used for development and testing.|
-
-In this example, four security groups provide controlled access to a specific organization.
 
 ## Create a user and assign a license
 
