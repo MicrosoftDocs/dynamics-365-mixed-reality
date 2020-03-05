@@ -61,3 +61,19 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
     >The **Key** at the bottom of the window describes the different privilege levels. For more information, see [Security roles and privileges](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/admin/security-roles-privileges). 
 
     SCREEN SHOT GOES HERE
+    
+## Grant access for the new security role to the Guides model-driven app
+
+The Guides model-driven app provides an interface for users to share a specific guide or guide record with other users or teams. Access to the Guides model-driven app must be granted to any newly created security roles to enable them.
+
+1.	In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, choose the environment with the installed Guides solution, select the **More environment actions** (...) button, and then select **Open environment**.
+ 
+    SCREEN SHOT GOES HERE
+
+2.	In the **Guides** app tile, select the **More Actions** (…) button, and then select **Manage Roles**.
+
+    SCREEN SHOT GOES HERE
+
+3.	In the pane that appears on the right side of the screen, select the check box next to the **Dynamics 365 Guides Restricted Operator role** (keep the selections for the other roles), and then select **Save**.
+ 
+
