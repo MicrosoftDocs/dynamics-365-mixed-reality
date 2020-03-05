@@ -8,10 +8,9 @@ Consider the following example scenario:
 
 |Instance|Security Group|Purpose|
 |-------------------|----------------------|------------------------------------------------------------------------|
-|Coho Winery Sales|Sales_SG|Provide access to the organization that creates sales opportunities, handles quotes, and closes deals.|
-|Coho Winery Marketing|Marketing_SG|Provide access to the organization that drives marketing efforts through marketing campaigns and advertising.|
-|Coho Winery Service|Marketing_SG|Provide access to the organization that processes customer cases.|
-|Coho Winery Dev|Developer_SG|Provide access to the Sandbox instance used for development and testing.|
+|Coho Manufacturing Sales|Sales_SG|Provide access to the organization that creates sales opportunities, handles quotes, and closes deals.|
+|Coho Manufacturing Maintenance|Maintenance_SG|Provide access to the organization that does service and machinery maintenance.|
+|Coho Manufacturing Dev|Developer_SG|Provide access to the sandbox instance used for development and testing.|
 
 In this example, four security groups provide controlled access to a specific organization.
 
@@ -78,12 +77,6 @@ Use this procedure if you haven't already created users and assigned licenses. I
 2. Select the **Instances** tab, select an instance, and then select **Edit**.
 
 3. In the security settings, search for a specific security group, and then select **Next** > **Save**.
-
->[!TIP]
->To force an immediate synchronization between the Office 365 admin portal and model-driven apps in Dynamics 365:<br>
-1. Sign out of model-driven apps in Dynamics 365 and the Office 365 admin portal.<br>
-2. Close all open browsers used for model-driven apps in Dynamics 365 and the Office 365 admin portal.<br>
-3. Sign back in to model-driven apps in Dynamics 365 and the Office 365 admin portal.
 
 ## Additional info on security groups
 
