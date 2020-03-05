@@ -89,7 +89,7 @@ To prevent a specific user from accessing all guides by default, change that use
 
 2.	On the **Settings** page, select **Users**.
 
-    ![Users command(media/access-teams-9.PNG "Users command")
+    ![Users command](media/access-teams-9.PNG "Users command")
  
 3.	Select a specific user by selecting their name.
 
