@@ -41,7 +41,7 @@ The process for limiting access includes these basic steps:
 
 Each of these steps is covered in detail in this document.
 
-## Create a new security role with reduced privileges
+## Step 1: Create a new security role with reduced privileges
 
 To take advantage of access teams, the first step is to create a new Dynamics 365 security role with reduced Guides privileges. A user assigned this new security role will only have access to guides that have been shared with them directly or via an access team.
 
@@ -71,7 +71,7 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 
     ![Change Read privileges](media/access-teams-5.PNG "Change Read privileges")
     
-## Grant access for the new security role to the Guides model-driven app
+## Step 2: Grant access for the new security role to the Guides model-driven app
 
 The Guides model-driven app provides an interface for users to share a specific guide or guide record with other users or teams. Access to the Guides model-driven app must be granted to any newly created security roles to enable them.
 
@@ -87,7 +87,7 @@ The Guides model-driven app provides an interface for users to share a specific 
 
     ![Settings command](media/access-teams-8.PNG "Settings command")
  
-## Assign the new security role to a user or users
+## Step 3: Assign the new security role to a user or users
 
 To prevent a specific user from accessing all guides by default, change that user’s security role to the newly created Dynamics 365 Guides Restricted Operator role. Once assigned, they will only be able to see guides that have been shared with them.
 
@@ -116,7 +116,7 @@ To prevent a specific user from accessing all guides by default, change that use
     
     ![Clear and select roles](media/access-teams-12.PNG "Clear and select roles")
 
-## Create an access team and add users to the team
+## Step 4: Create an access team and add users to the team
 
 A user can be associated with more than one access team.
 
@@ -145,7 +145,7 @@ A user can be associated with more than one access team.
     
 6.	Enter the name of the user you want to add, select the search button, and then select the user’s name. 
         
-## Share the guide with the access team
+## Step 5: Share the guide with the access team
 
 1.	Go to make.powerapps.com.
 
@@ -173,7 +173,7 @@ A user can be associated with more than one access team.
     
       ![Look Up Records settings](media/access-teams-21.PNG "Look Up Records settings")
         
-## Share a guide with another user
+### Share a guide with another user
 
 Any user that has access to the Guides model-driven app can share guides and guide records they have access to with other users.
 
