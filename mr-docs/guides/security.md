@@ -40,7 +40,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 5. In the **Optional** settings screen, add roles or profile info if you want, and then select **Next**.
 
-6. Review the settings, and then select **Finish adding**, and then select **Close**. 
+6. Review the settings, select **Finish adding**, and then select **Close**. 
 
 >[!TIP]
 >To add multiple users at the same time, see [Add several users at the same time](https://docs.microsoft.com/en-us/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88).
