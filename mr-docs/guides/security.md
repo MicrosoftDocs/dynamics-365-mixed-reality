@@ -1,10 +1,10 @@
 
 
-# Restrict access to an instance
+# Restrict access to an instance in Dynamics 365 Guides
 
 If your company has multiple Dynamics 365 Guides instances, you can use security groups to control which users can access which instances.
 
-For example, you could create three security groups to control access to these specific instances.
+For example, you might want to create three security groups to control access to these specific instances.
 
 |Instance|Security Group|Purpose|
 |-------------------|----------------------|------------------------------------------------------------------------|
