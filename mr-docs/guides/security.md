@@ -42,8 +42,8 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 6. Review the settings, select **Finish adding**, and then select **Close**. 
 
->[!TIP]
->You can also [Add several users at the same time](https://docs.microsoft.com/en-us/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88).
+    >[!TIP]
+    >You can also [Add several users at the same time](https://docs.microsoft.com/en-us/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88).
 
 ## Create a security group and add members (users) to the group
 
