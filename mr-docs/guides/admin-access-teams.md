@@ -171,16 +171,31 @@ Any user that has access to the Guides model-driven app can share guides and gui
 1.	Go to make.powerapps.com.
 
 2.	Select **Apps**, and then select **Guides**.
+
+    SCREEN SHOT GOES HERE
  
 3.	Find the guide you want to share, select the check box next to the name, and then select **Share**.
+
+    SCREEN SHOT GOES HERE
  
 4.	On the **Share guide** page, select **Add User/Team**. 
 
+    SCREEN SHOT GOES HERE
+
 5.	Select the check box next to a specific user, select the **Select** button, and then select **Add**. 
+
+    SCREEN SHOT GOES HERE
 
 6.	Make sure that the user has the **Read** privilege, and then select **Share**.
 
+    SCREEN SHOT GOES HERE
+
+ ## See also
  
+[Use access teams and owner teams to collaborate and share information]()<br>
+[Assign an Operator or Author role to a user]()<br>
+[Learn more about Dynamics 365 security roles and privileges]()<br>
+
 
 
  
