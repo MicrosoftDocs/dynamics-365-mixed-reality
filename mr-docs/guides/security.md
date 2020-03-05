@@ -71,7 +71,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
     ![Members tab](media/members-tab.PNG "Members tab")
 
-9. On the **Members** tab, select **View all and manage members**.
+9. On the **Members** tab, select **View all and manage owners**.
 
     ![View all and manage members command](media/view-members.PNG "View all and manage members command")
 
