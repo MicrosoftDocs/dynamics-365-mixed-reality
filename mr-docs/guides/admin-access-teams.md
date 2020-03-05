@@ -52,7 +52,7 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 
     ![Settings command](media/access-teams-1.PNG "Settings command")
  
-2.	On the **Settings** page, under **Users + permissions**, select **Security roles**.
+2.	In the **Settings** page, under **Users + permissions**, select **Security roles**.
 
     ![Security roles command](media/access-teams-2.PNG "Security roles command")
  
@@ -98,7 +98,7 @@ To prevent a specific user from accessing all guides by default, change that use
 
     ![Settings command](media/access-teams-9.PNG "Settings command")
 
-2.	On the **Settings** page, select **Users**.
+2.	In the **Settings** page, select **Users**.
 
     ![Users command](media/access-teams-10.PNG "Users command")
  
@@ -127,7 +127,7 @@ A user can be associated with more than one access team.
 
     ![Settings command](media/access-teams-13.PNG "Settings command")
 
-2.	On the **Settings** page, select **Teams**. 
+2.	In the **Settings** page, select **Teams**. 
     
     ![Teams command](media/access-teams-14.PNG "Teams command")
 
@@ -157,7 +157,7 @@ A user can be associated with more than one access team.
 
     ![Share command](media/access-teams-19.PNG "Share command")
     
-4.	On the **Share guide** page, select **Add User/Team**.
+4.	In the **Share guide** page, select **Add User/Team**.
 
     ![Add User/Team command](media/access-teams-20.PNG "Add User/Team command")
 
@@ -187,7 +187,7 @@ Any user that has access to the Guides model-driven app can share guides and gui
 
     ![Share command](media/access-teams-23.PNG "Share command")
  
-4.	On the **Share guide** page, select **Add User/Team**. 
+4.	In the **Share guide** page, select **Add User/Team**. 
 
     ![Add User/Team command](media/access-teams-24.PNG "Add User/Team command")
 
@@ -205,12 +205,3 @@ Any user that has access to the Guides model-driven app can share guides and gui
 [Assign an Operator or Author role to a user](assign-role.md)<br>
 [Use security roles to restrict access to an instance](admin-security.md)<br>
 [Learn more about Dynamics 365 security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges)<br>
-
-
-
- 
-
-
-  
-
-
