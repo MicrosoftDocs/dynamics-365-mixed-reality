@@ -34,7 +34,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
    
    4. Select **Next**.
 
-4. In the **Assign product licenses** screen, select a location, and then select the check box next to **Dynamics 365 Guides** if it's not already selected, and then select **Next**. 
+4. In the **Assign product licenses** screen, select a location, select the check box next to **Dynamics 365 Guides** if it's not already selected, and then select **Next**. 
 
     ![Dynamics 365 Guides check box](media/guides-check-box.PNG "Dynamics 365 Guides check box")
 
