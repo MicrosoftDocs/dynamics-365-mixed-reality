@@ -16,7 +16,7 @@
 ### [Upgrade the solution](upgrade.md)
 ### [Transition from public preview to GA](public-preview-transition.md)
 ### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
-### [Restrict access to a specific instance](security.md)
+### [Restrict access to a specific instance](admin-security.md)
 ### [Limit access to specific guides and guides content](admin-access-teams.md)
 ### [Integrate Dynamics 365 Field Service](field-service.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
