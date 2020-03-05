@@ -1,6 +1,15 @@
+---
+author: Mamaylya
+description: Use access teams to limit access to specific guides or guides content in Dynamics 365 Guides
+ms.author: mamaylya
+ms.date: 03/10/2020
+ms.service: crm-online
+ms.topic: article
+title: Use access teams to limit access to specific guides or guides content in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
-
-# Use access teams to limit access to specific guides and guides content in Dynamics 365 Guides
+# Use access teams to limit access to specific guides or guides content in Dynamics 365 Guides
 
 A Microsoft Dynamics 365 administrator can use [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) 
 to easily customize who can see specific guides and guides content (3D models, images, or videos) in Dynamics 365 Guides. Access teams 
