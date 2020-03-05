@@ -17,7 +17,7 @@
 #### [Add users](add-users.md)
 #### [Assign user roles](assign-role.md)
 #### [Restrict access to a specific instance](admin-security.md)
-#### [Limit access to specific guides and guides content](admin-access-teams.md)
+#### [Limit access to specific guides or guides content](admin-access-teams.md)
 #### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
 ### [Integrate Dynamics 365 Field Service](field-service.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
