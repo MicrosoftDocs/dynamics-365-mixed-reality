@@ -105,5 +105,91 @@ To prevent a specific user from accessing all guides by default, change that use
     
     SCREEN SHOT GOES HERE
 
+## Create an access team and add users to the team
+
+A user can be associated with more than one access team.
+
+>[!NOTE]
+>If you or someone else has already created an access team that you want to use, skip to the next procedure.
+
+1.	In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the same Guides solution, select the **More environment actions** (...) button, and then select **Settings**.
+
+    SCREEN SHOT GOES HERE
+
+2.	On the **Settings** page, select **Teams**. 
+    
+    SCREEN SHOT GOES HERE
+
+3.	Select **New**. 
+
+    SCREEN SHOT GOES HERE
+
+4.	In the **New Team** page, add a **Team Name** and **Administrator**, change the **Team Type** to **Access**, and then select **Save**.
+
+    SCREEN SHOT GOES HERE
+
+5.	To add users to this team, click the **+** sign next to the **Team members** list.
+
+    SCREEN SHOT GOES HERE
+
+6.	Enter the name of the user you want to add, select the search button, and then select the user’s name. 
+
+    SCREEN SHOT GOES HERE
+    
+## Share the guide with the access team
+
+1.	Go to make.powerapps.com.
+
+2.	Select **Apps**, and then select **Guides**.
+
+    SCREEN SHOT GOES HERE
  
+3.	Find the guide you want to share, select the check box next to the guide name, and then select **Share**. 
+
+    SCREEN SHOT GOES HERE
+
+4.	On the **Share guide** page, select **Add User/Team**.
+
+    SCREEN SHOT GOES HERE
+
+5.	In the **Look Up Records** dialog box, do the following:
+
+    a. In the **Look for** list, select **Team**.
+
+    b. In the **Look in** list, select **All User Access Teams**. 
+
+    c. Select the check box next to the team name you want to share with.
+
+    d. Select the **Select** button, and then select **Add**.
+    
+        SCREEN SHOT GOES HERE
+        
+## Share a guide with another user
+
+Any user that has access to the Guides model-driven app can share guides and guide records they have access to with other users.
+
+1.	Go to make.powerapps.com.
+
+2.	Select Apps, and then select Guides.
+ 
+3.	Find the guide you want to share, select the check box next to the name, and then select Share.
+ 
+4.	On the Share guide page, select Add User/Team.
+
+ 
+
+5.	Select the check box next to a specific user, select the Select button, and then select Add.
+
+ 
+
+6.	Make sure that the user has the Read privilege, and then select Share.
+
+ 
+
+
+ 
+
+
+  
+
 
