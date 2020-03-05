@@ -32,4 +32,32 @@ The process for limiting access includes these basic steps:
 
 Each of these steps is covered in detail in this document.
 
+## Create a new security role with reduced privileges
 
+To take advantage of access teams, the first step is to create a new Dynamics 365 security role with reduced Guides privileges. A user assigned this new security role will only have access to guides that have been shared with them directly or via an access team.
+
+>[!NOTE]
+>This documentation shows how to restrict access to the **Guides** entity. You can use the same steps to restrict access to other types of Dynamics 365 Guides records (3D models, images, or videos) to limit their visibility to certain users or teams.
+
+1.	In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, choose an environment with an installed Guides solution, select the **More environment actions** (...) button, and then select **Settings**.
+
+    SCREEN SHOT GOES HERE
+ 
+2.	On the **Settings** page, under **Users + permissions**, select **Security roles**.
+
+    SCREEN SHOT GOES HERE
+ 
+3.	Select the check box next to the **Dynamics 365 Guides Operator** role, and then at the top of the screen, select **More Actions > Copy Role**. Copying the role ensures that your changes will not be overridden the next time the Guides solution is updated. 
+
+    SCREEN SHOT GOES HERE 
+
+4.	Name the new role "Dynamics 365 Guides Restricted Operator", and then select **OK**.
+
+    SCREEN SHOT GOES HERE
+
+5.	In the **Security Role: Dynamics 365 Guides Restricted Operator** window, select the **Custom Entities** tab, and then in the **Guides** entity row, select the dot in the second column to change the read privileges from **Organization** level to **User** level. Select **Save and Close** at the top of the window when you’re done.
+
+>[!NOTE]
+>The **Key** at the bottom of the window describes the different privilege levels. For more information, see [Security roles and privileges](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/admin/security-roles-privileges). 
+
+    SCREEN SHOT GOES HERE
