@@ -20,7 +20,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
     ![Add a user](media/add-user-3.PNG "Add a user")
 
-2. In the **Set up the basics** screen enter the first name, last name, display name, and username. 
+2. In the **Set up the basics** screen, enter the first name, last name, display name, and username. 
 
     ![Set up the basics screen](media/set-up-basics.PNG "Set up the basics screen")
 
