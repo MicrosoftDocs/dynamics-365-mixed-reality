@@ -4,15 +4,16 @@
 ## [What's new](new.md)
 ## [Videos](videos.md)
 ## I'm an admin
-### Set up Dynamics 365 Guides
+### Set up Dynamics 365 Guides or upgrade the solution
 #### [Device and licensing requirements](requirements.md)
-#### [Setup overview](setup.md)
-#### [1: Get a subscription (buy or trial)](setup-step-one.md)
-#### [2: Install the solution](setup-step-two.md)
-#### [3: Install the apps](setup-step-three.md)
-#### [4: Set up Power BI reports](setup-step-four.md)
-### [Upgrade the solution](upgrade.md)
-### [Transition from public preview to GA](public-preview-transition.md)
+#### Setup
+##### [Setup overview](setup.md)
+##### [1: Get a subscription (buy or trial)](setup-step-one.md)
+##### [2: Install the solution](setup-step-two.md)
+##### [3: Install the apps](setup-step-three.md)
+##### [4: Set up Power BI reports](setup-step-four.md)
+#### [Upgrade the solution](upgrade.md)
+#### [Transition from public preview to GA](public-preview-transition.md)
 ### Add users, assign roles, and restrict access
 #### [Add users](add-users.md)
 #### [Assign user roles](assign-role.md)
