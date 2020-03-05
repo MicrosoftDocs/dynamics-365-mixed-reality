@@ -22,7 +22,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 2. In the **Set up the basics** screen enter the first name, last name, display name, and username. 
 
-    ![Set up the basics screen](media/set-up-basics-1.PNG "Set up the basics screen")
+    ![Set up the basics screen](media/set-up-basics.PNG "Set up the basics screen")
 
 3. Under **Password settings**: 
  
