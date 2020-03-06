@@ -5,10 +5,10 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
 ### [Deploy Remote Assist](deploy-remote-assist.md)
-## Cross-Tenant/Cross-Company Calling Deployment Docs
-### [Set up Cross-Tenant/Cross-Company Calling (Overivew)](cross-tenant-overview.md)
-### [Cross-Tenant/Cross-Company RA License Implementation](cross-tenant-licensing-implementation.md)
-### [Set up cross-company calling (Open Federation)](cross-company-calling.md)
+### Cross-tenant calling deployment
+#### [Overview](cross-tenant-overview.md)
+#### [Cross-tenant license implementation](cross-tenant-licensing-implementation.md)
+#### [Set up cross-company calling (open federation)](cross-company-calling.md)
 ## [HoloLens user guide](user-guide.md)
 ## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
