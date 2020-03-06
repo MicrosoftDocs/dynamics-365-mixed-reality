@@ -52,7 +52,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 6. Review the settings, select **Finish adding**, and then select **Close**. 
 
     >[!TIP]
-    >You can also [Add several users at the same time](https://docs.microsoft.com/en-us/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88).
+    >You can also [Add several users at the same time](https://docs.microsoft.com/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88).
 
 ## Create a security group and add members (users) to the group
 
@@ -133,9 +133,9 @@ Dynamics 365 admin center even for those users who have not been assigned a secu
 - Nested security groups are not supported.
 
 >[!NOTE]
->All licensed users, whether or not they are members of security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign security roles in the web application. Users can’t access instances until they are assigned at least one security role for that instance. For more information, see [Grant users access](https://docs.microsoft.com/en-us/power-platform/admin/grant-users-access).
+>All licensed users, whether or not they are members of security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign security roles in the web application. Users can’t access instances until they are assigned at least one security role for that instance. For more information, see [Grant users access](https://docs.microsoft.com/power-platform/admin/grant-users-access).
 
 ## See also
 
-[Add several users at the same time](https://docs.microsoft.com/en-us/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88)
+[Add several users at the same time](https://docs.microsoft.com/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88)
 
