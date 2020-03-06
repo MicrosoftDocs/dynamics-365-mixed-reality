@@ -18,7 +18,7 @@ For example, you might want to limit access of certain guides to a specific fact
 
 >[!NOTE]
 >Dynamics 365 offers additional ways to customize and configure access to specific records in Common Data Service. Advanced 
-configuration, such as the creation of [Owner teams](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information), 
+configuration, such as the creation of [Owner teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information), 
 is not covered in this topic.
 
 ## How access teams work with the Operator and Author user roles
@@ -67,7 +67,7 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 5.	In the **Security Role: Dynamics 365 Guides Restricted Operator** window, select the **Custom Entities** tab, and then in the **Guides** entity row, select the dot in the second column to change the read privileges from **Organization** level to **User** level. Select **Save and Close** at the top of the window when you’re done.
 
     >[!NOTE]
-    >The **Key** at the bottom of the window describes the different privilege levels. For more information, see [Security roles and privileges](https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/admin/security-roles-privileges). 
+    >The **Key** at the bottom of the window describes the different privilege levels. For more information, see [Security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges). 
 
     ![Change Read privileges](media/access-teams-5.PNG "Change Read privileges")
     
