@@ -147,7 +147,7 @@ A user can be associated with more than one access team.
         
 ## Step 5: Share the guide with the access team
 
-1.	Go to [https://make.powerapps.com](make.powerapps.com).
+1.	Go to https://make.powerapps.com/.
 
 2.	Select **Apps**, and then select **Guides**.
 
