@@ -177,7 +177,7 @@ A user can be associated with more than one access team.
 
 Any user that has access to the Guides model-driven app can share guides and guide records they have access to with other users.
 
-1.	Go to make.powerapps.com.
+1.	Go to https://make.powerapps.com/.
 
 2.	Select **Apps**, and then select **Guides**.
 
