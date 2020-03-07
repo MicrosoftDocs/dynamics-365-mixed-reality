@@ -8,7 +8,7 @@
 ### Cross-tenant calling deployment
 #### [Overview](cross-tenant-overview.md)
 #### [Cross-tenant license implementation](cross-tenant-licensing-implementation.md)
-#### [Set up cross-company calling (open federation)](cross-company-calling.md)
+#### [Set up cross-tenant calling (open federation)](cross-company-calling.md)
 ## [HoloLens user guide](user-guide.md)
 ## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
