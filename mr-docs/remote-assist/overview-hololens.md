@@ -1,53 +1,66 @@
 ---
 title: Overview of Dynamics 365 Remote Assist on HoloLens 1 and 2
 author: sophiasysun
-description: Overview of Remote Assist features and links to HoloLens 1 and HoloLens 2 gestures 
+description: Overview of Dynamics 365 Remote Assist features and links to HoloLens 1 and HoloLens 2 gestures 
 ms.author: sopsun
-ms.date: 02/20/2020
+ms.date: 03/15/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
 # Overview of Dynamics 365 Remote Assist on HoloLens 1 and 2
 
-When you use Remote Assist on HoloLens 1 or HoloLens 2, you can collaborate with one or more Teams desktop users or one Teams mobile user. Remote Assist on HoloLens 1 and HoloLens 2 offer the same capabilities. However, there are slight differences in the way you interact with holograms. Those differences are called out throughout this document. 
+When you use Remote Assist on HoloLens 1 or HoloLens 2, you can collaborate with one or more Teams desktop users or one Teams mobile user. Remote Assist on HoloLens 1 and HoloLens 2 offer the same capabilities; however, there are slight differences in the way you interact with holograms. Those differences are called out throughout this document. 
 
-To learn how to use these features, watch these [how-to-videos](videos.md) and read this document for more details.  
+To learn how to use these features, watch these [how-to-videos](videos.md) and read this article for additional details.  
 
 ## Overview of core features
 
 When you launch Remote Assist, you’ll see your recent contacts. When you join a call or meeting, you will see a video card.  
 
-![Contacts](media/HL2-01.01-contacts.png "Contacts")
+![Screenshot of the HoloLens field of view, showing the recent contacts screen.](media/HL2-01.01-contacts.png)
 
-This is the recent contacts page. You can use the tools in the top right corner to access Dynamics bookings, sign out, and adjust settings.
+The previous screenshot shows the **Recent Contacts** screen. You can use the tools in the top right corner to access Dynamics 365 Field Service bookings, sign out, and adjust settings.
 
+ ![Screenshot of the HoloLens field of view, showing the settings screen.](media/RAHL_Settings.png "Settings")
 
- ![Settings](media/RAHL_Settings.png "Settings")
+The previous screenshot shows the settings screen. When you’re outside a call, you can go to **Settings** to: 
 
-This is the settings page. When you’re outside a call, you can navigate to Settings to determine many settings, provide feedback, view the brief tutorial you saw the first time you used Remote Assist, view tutorials on docs.microsoft.com, and switch your Dynamics instance.  
+- Configure various settings
+- Provide feedback
+- Watch the brief tutorial you saw the first time you used Remote Assist
+- Find tutorials on Microsoft Docs
+- Switch your Dynamics instance.  
 
  ![VoiceCommand](media/HL2-01.03-voice-commands.png "VoiceCommand")
 
-
-This is a video card. When you’re in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars of all call participants.  
+The previous screenshot shows a video card. When you’re in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars of all call participants.  
 
 You can make a one-to-one or group call on Remote Assist call on HoloLens. You can also join a meeting scheduled using Teams or Outlook.  
-Remote collaborators can use Microsoft Teams on PC (desktop app only, not web browser) or Microsoft Teams on mobile (iOS or Android).
+
+Remote collaborators can use Microsoft Teams on PC (desktop app only; not web browser) or Microsoft Teams on mobile (iOS or Android).
+
 In a call, remote collaborators can see everything you see – including holograms and the real world behind the holograms – and can annotate your world, insert files into your world, and more.   
 
-A good way to learn the features and voice commands of Remote Assist is to say, “Remote Assist.” (When you’re in a call, the app will display what it believes you said by showing a check mark and “Remote Assist.”) Then, the app will display the name of each button, as you see in the image above. After a few seconds, these labels will automatically disappear. 
+A good way to learn Remote Assist features and voice commands is to say "Remote Assist." When you’re in a call, the app will show what it believes you said by showing a check mark and "Remote Assist." Then, the app will show the name of each button, as you see in the previous video call screenshot. After a few seconds, these labels will automatically disappear. 
 
-There are additional ways to see the label of these buttons. 
-* If you’re using Remote Assist on HoloLens 1, extend your arm and hover the ray over the buttons.
-*	If you’re using Remote Assist on HoloLens 2 and Remote Assist UI is within your reach, hover your finger over the buttons. If RA UI is out of your reach, extend your arm and hover the ray over the buttons.
+If you'd like to see the button labels after they disappear: 
+- If you’re using Remote Assist on HoloLens 1, extend your arm and hover the ray over the buttons.
+- If you’re using Remote Assist on HoloLens 2 and Remote Assist UI is within your reach, hover your finger over the buttons. If Remote Assist UI is out of reach, extend your arm and hover the ray over the buttons.
 
-As you can see, you also have many options for communicating with remote collaborators. Everyone in the call can annotate your world with arrows ![Arrow](media/RAHL_Arrow.png "Arrow") and drawings ![Ink](media/RAHL_Ink.png "Ink") using different Colors ![Colors](media/RAHL_Color.png "Colors"). (You can “Undo” ![Undo](media/RAHL_Undo.png "Undo") or “Delete all” ![Delete](media/RAHL_Trash.png "Delete") annotations.) Everyone is also able to send files, which will pop up in your space.  
+You have many options for communicating with remote collaborators. Everyone in the call can: 
+- Annotate your world with arrows with this icon ![Graphic showing the annotate with arrows icon](media/RAHL_Arrow.png "Arrow") 
+- Annotate your world with drawings with this icon ![Graphic showing the pencil or ink icon](media/RAHL_Ink.png "Ink") 
+- Change annotation colors with this icon ![Graphic showing the colors icon.](media/RAHL_Color.png "Colors")
+- Undo their actions with this icon ![Graphic showing the undo icon.](media/RAHL_Undo.png "Undo") 
+- Delete all their annotations with this icon ![Graphic showing the delete icon.](media/RAHL_Trash.png "Delete")
+- Everyone is also able to send files, which will pop up in your space.  
 
-In addition, you can take a photo of what you see using Camera ![Camera](media/RAHL_Camera.png "Camera"). 
+You can also take a photo of what you see using the Camera icon, as seen here: ![Graphic showing the camera icon.](media/RAHL_Camera.png "Camera"). 
 
-You can also place the call window wherever you want in your world by toggling Pin/Unpin ![Pin](media/RAHL_Pin.png "Pin"). 
-Remote Assist supports different languages on HoloLens 1 versus HoloLens. Check if your language is supported in Remote Assist here [link to FAQ page].
+Finally, place the call window wherever you want in your world by toggling **Pin** and **Unpin** ![Pin](media/RAHL_Pin.png "Pin"). 
+
+Remote Assist supports different languages on HoloLens 1 versus HoloLens 2. Check if your language is supported in Remote Assist here [link to FAQ page].
 
 > Tip
 > Remote Assist on HoloLens 1 and HoloLens 2 offer the same capabilities. However, HoloLens 1 gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens 1 gestures](https://docs.microsoft.com/en-us/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](https://docs.microsoft.com/en-us/hololens/hololens2-basic-usage) before reading the rest of this document.
