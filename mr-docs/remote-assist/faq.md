@@ -1,5 +1,5 @@
 ---
-author: sophiasysun
+author: sophiaysun
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: sopsun
 ms.date: 03/15/2020
@@ -81,7 +81,7 @@ Go to **Settings**, and then find the version number in the **About** section.
 
 ### Can I use Dynamics 365 Remote Assist to place a call between two separate tenants?
 
-Yes. If you want to use Remote Assist and enable an out-of-tenant collaborator to use Teams, follow [these instructions](cross-tenant-licensing-implementation.md). If you would like to use Teams and enable an out-of-tenant collaborator to use Remote Assist, follow [these instructions](cross-company-call.md).
+Yes. If you want to use Remote Assist and enable an out-of-tenant collaborator to use Teams, follow [these instructions](cross-tenant-licensing-implementation.md). If you would like to use Teams and enable an out-of-tenant collaborator to use Remote Assist, follow [these instructions](cross-company-calling.md).
 
 ### How do I set up Dynamics 365 Field Service to work with Dynamics 365 Remote Assist?
 
@@ -238,6 +238,4 @@ Still need help? Try our [user forums](https://community.dynamics.com/365/remote
 ### See also
 - [Overview of Dynamics 365 Remote Assist](index.md)
 - [Requirements](requirements.md)
-- [User guide](user-guide.md)
-- [Set up and use Microsoft Teams with Dynamics 365 Remote Assist](use-microsoft-teams-with-remote-assist.md)
 - [How-to videos](videos.md)
