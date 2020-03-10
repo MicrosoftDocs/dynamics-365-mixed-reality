@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/layout/try-layout-free.md",
+      "redirect_url": "buy-and-deploy-layout",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/remote-assist/mobile-app.md",
       "redirect_url": "mobile-app/index",
       "redirect_document_id": "false"

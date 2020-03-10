@@ -2,7 +2,7 @@
 author: mamithan
 description: How to view 3D models (GLB files) stored on your device in Dynamics 365 Product Visualize.
 ms.author: mamithan
-ms.date: 12/07/2019
+ms.date: 01/29/2020
 ms.service: crm-online
 ms.topic: article
 title: View 3D models stored on your device in Dynamics 365 Product Visualize
@@ -13,16 +13,16 @@ ms.reviewer: v-brycho
 
 You don't have to have a Dynamics 365 account to view 3D models in Dynamics 365 Product Visualize. If you have a 3D model stored on your device in GLB file format, you can browse to it in Dynamics 365 Product Visualize to see what the model would look like.
 
-1. Go to the **My Open Opportunities** page, and then select **View Models**.
+1. Go to the **My Open Opportunities** page, and then tap **View Models**.
 
    ![My Open Opportunities screen](media/open-opportunities.PNG "My Open Opportunities screen")
    
-2. Select **Continue**.
+2. Tap **Continue**.
    
    Dynamics 365 Product Visualize browses through your device and displays any GLB files.
    
-    >[!TIP]
-    >If you want to see dimensions for the model, enable the **Product measurements feature**. To enable this feature, select the **Main** menu ![Main menu](media/hamburger-icon.png "Main menu"), select **Preview features**, and then slide the **Product measurements feature** setting to On. After the feature is enabled, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model. At this time, you can view dimensions in metric only.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
+    > [!TIP]
+    > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product dimensions](product-dimensions.md). After enabling the feature, tap **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
 
 
 ### See also

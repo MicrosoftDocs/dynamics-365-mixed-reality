@@ -1,15 +1,15 @@
 # Dynamics 365 Remote Assist
-
-## [Overview](ra-overview.md)
+## [Overview](index.md)
 
 ## Setup
 ### [Requirements](requirements.md)
-### [Get a free trial](try-remote-assist-free.md)
-### [Buy + assign Remote Assist licenses](buy-remote-assist.md)
-### [Get ready to deploy Remote Assist](deploy-remote-assist.md)(update to live doc)
-### [Set up Teams on PC and mobile](set-up-teams.md)
-### [Configure 3rd-party calling](cross-company-calling.md)(Payge)
-### [Set up Dynamics 365 Field Service Integration)(Dave owns this doc)
+### [Get a free trial](try-remote-assist.md)
+### [Buy Remote Assist](buy-remote-assist.md)
+### [Deploy Remote Assist](deploy-remote-assist.md)
+### Cross-tenant calling deployment
+#### [Overview](cross-tenant-overview.md)
+#### [Cross-tenant license implementation](cross-tenant-licensing-implementation.md)
+#### [Set up cross-tenant calling (open federation)](cross-company-calling.md)
 
 ## Remote Assist on Hololens 1 and 2
 ### [Overview](overview-hololens.md)
@@ -32,20 +32,21 @@
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
 ### [How-to-videos](videos.md)
 
-## Remote Assist on mobile devices
-### [Overview](mobile-app/index.md)
-### [Make calls](mobile-app/making-calls.md)
-### [Track your space](mobile-app/track-space.md)
-### [Annotate your space](mobile-app/annotate-space.md)
-### [Annotate a snapshot](mobile-app/annotate-snapshot.md)
-### [Record calls](mobile-app/record-calls.md)
-### [Send texts + voice messages](mobile-app/send-texts-voice-messages.md)
-### [Update a Dynamics 365 Field Service work order](mobile-app/update-field-service-work-orders.md)
+## Remote Assist mobile
+### [Overview](mobile-app/remote-assist-mobile-overview.md)
+### [Using the in-app tutorial](mobile-app/mobile-tutorial.md)
+### [Making calls](mobile-app/making-calls.md)
+### [Annotate your environment](mobile-app/annotate-your-environment.md)
+### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
+### [Send chat messages](mobile-app/send-chat-messages.md)
+### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
+### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
+### [Provide feedback](mobile-app/provide-feedback.md)
 
 ## Collaborate in Microsoft Teams with Remote Assist users 
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
 ### [Collaborate with Remote Assist user via Teams on mobile](teams-mobile-all.md)
-
+## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 ## Additional resources
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)

@@ -1,19 +1,20 @@
 ---
-author: mamithan
-description: How to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize
-ms.author: mamithan
-ms.date: 12/07/2019
+title: Add a note to your 3D model in Dynamics 365 Product Visualize.
+description: Learn how to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize.
+author: sbmjais
+ms.author: shjais
+manager: shujoshi
+ms.date: 02/26/2020
 ms.service: crm-online
 ms.topic: article
-title: Add a note to your 3D model in Dynamics 365 Product Visualize
-ms.reviewer: v-brycho
+ms.reviewer:
 ---
 
 # Add a note to a 3D model in Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-You can capture notes on specific points on a 3D model in Microsoft Dynamics 365 Product Visualize, and even add text or draw on the notes. For example, when you're in the field with a customer, you can capture any required product changes directly on the model. Any notes you create are saved in Common Data Service.
+You can capture notes while giving product demonstration, and add text or draw on the notes. You can also attach notes on specific points on a 3D model. For example, when you're in the field with a customer, you can capture any required product changes directly on the model. Any notes you create are saved in Common Data Service.
 
 To review notes attached to a model, tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. For a model and note that's off the screen, a "note bubble" points in the direction of the model and note. See the table below for information about how these notes appear.
 
@@ -27,80 +28,136 @@ The following table shows how notes appear on the model, depending on where the 
 
 ## Add a note
 
-1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then select **Notes** from the right side of the screen.
+1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then tap **Notes** on the right side of the screen.
 
-    ![Select Notes](media/select-notes.PNG "Select Notes")
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
 
-2. Select **Add Note**.
+2. Tap **Add**.
 
-    ![Select Add Note](media/add-note.png "Select Add Note")
- 
-2.	Select **Photo** to take a picture of the model, or select **Camera Roll** if you want to use a photo already stored on your device.
+    > [!div class=mx-imgBorder]
+    > ![Tap Add Note](media/add-note.png "Tap Add Note")
 
-    ![Select Photo](media/camera-roll.png "Select Capture")
+3. To add a photo, tap **Attach image**.
 
- 3.	Do one or both of the following: 
-    
-      a. Optional: To draw on the screen, select a color and start drawing. For example, draw an arrow to call out a particular part of the model.
-    
-      b. Required: To add text, tap **Add caption** in the notes box at the bottom of the screen, and then enter the text you want. When you're finished adding text, select **Next**.
-    
-       ![Draw or add text](media/draw-add-text.PNG "Draw or add text")
+    > [!div class=mx-imgBorder]
+    > ![Tap Attach image](media/attach-image.png "Tap Attach image")
+
+    1. Tap **Photo** to take a photo of the model, or tap **Camera Roll** if you want to use a photo that's already stored on your device.
+
+        > [!div class=mx-imgBorder]
+        > ![Tap Photo](media/camera-roll.png "Tap Photo")
+
+    2. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap **Next**.
+
+        > [!div class=mx-imgBorder]
+        > ![Draw or add text](media/draw-add-text.png "Draw or add text")
+
+        The captured image is displayed in the place of the **Attach image** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
+
+        > [!div class=mx-imgBorder]
+        > ![Draw or add text](media/note-image-added.png "Draw or add text")
          
-     > [!NOTE]
-     > If you're not happy with the picture, select **Replace** to redo the capture or select a different picture from your camera roll. When you select **Replace**, text you entered is retained, but any drawings are lost.
-         
- 4. Tap the model where you want to place the note.
+4. To add a message, tap **Type a message here**, and add the text.
+
+    > [!div class=mx-imgBorder]
+    > ![Tap Attach image](media/note-text.png "Tap Attach image")
+
+5. To attach the note at a specific point in your model, tap **Pin to model**.
+
+    > [!div class=mx-imgBorder]
+    > ![Tap Pin to model](media/pin-to-model.png "Tap Pin to model")
+
+    * Tap the model where you want to attach the note, and then tap **Next**.
  
-      ![Tap on model](media/tap-on-product.png "Tap on model")
+        > [!div class=mx-imgBorder]
+        > ![Tap on the model](media/tap-on-product.png "Tap on the model")
+
+        The note is attached at the tapped location on the model. If you want to remove the pin from the model, tap **Remove pin**.
+
+        > [!div class=mx-imgBorder]
+        > ![Remove pinned note](media/pin-added.png "Remove pinned note")
+
+6. Tap **Finish**.
       
- 5. Select **Finish** when you're done.
-   
 
 ## View the notes attached to a model
 
-1.	After placing the model, select **Notes** on the right side of the screen.
+1.	After placing the model, tap **Notes** on the right side of the screen.
 
-2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button-1.png "Notes button")
 
-    > [!NOTE]
-    > If you want to see a larger view of the notes, which is useful if you can't see all the text in the notes card, tap the expand arrow in the upper-right corner of the notes card or flick up. Then you can use the scroll bar in the notes card to move through the text.
+2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes. 
     
-     ![Expand notes button](media/expand-notes.PNG "Expand notes button")
-     
+    If you want to see a larger view of the notes&mdash;which is useful if you can't see all the text in the notes card&mdash;tap the expand arrow in the upper-right corner of the notes card, or flick up. 
+    
+    > [!div class=mx-imgBorder]
+    > ![Expand notes button](media/expand-notes-button.png "Expand notes button")
+
+    The note is expanded and you can swipe the notes card to move through the notes.
+
+    > [!div class=mx-imgBorder]
+    > ![Expanded notes](media/expanded-notes.png "Expanded notes")
+
+    
 ## Delete a note
 
-1.	Select **Notes** on the right side of the screen.
+1.	Tap **Notes** on the right side of the screen.
 
-2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
 
-3.	Select **Delete Note**.
+2.	Navigate to the note you want to delete, and tap the **Overflow** menu in the upper-right corner of the notes card.
 
-     ![Delete a note](media/delete-note.png "Delete a note")
+    > [!div class=mx-imgBorder]
+    > ![Navigate to the note](media/note.png "Navigate to the note")
+
+3.	In the **Options** dialog box, tap **Delete Note**.
+
+    > [!div class=mx-imgBorder]
+    > ![Delete a note](media/delete-note.png "Delete a note")
+
+4. Tap **Delete** in the confirmation dialog box.
   
+## Export a note
+
+You can export your notes to share them with other apps on your device that support the iOS sharing function. The notes image and text are exported without any special formatting.
+
+**To export a note**
+
+1.	Tap **Notes** on the right side of the screen.
+
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
+
+2.	Navigate to the note you want to export, and tap the **Overflow** menu in the upper-right corner of the notes card.
+
+    > [!div class=mx-imgBorder]
+    > ![Navigate to the note](media/note.png "Navigate to the note")
+
+3.	In the **Options** dialog box, tap **Export Note**.
+
+    > [!div class=mx-imgBorder]
+    > ![Export note](media/export-note.png "Export note")
+
+4. Tap the required option for exporting the note.
+
+    > [!div class=mx-imgBorder]
+    > ![Export options](media/export-options.png "Export options")
+
 ## Change how your notes are shared with other apps
 
 By default, your notes are saved to the SharePoint account associated with your Dynamics 365 Sales account. By default, Dynamics 365 Product Visualize also sends your notes to your Dynamics 365 Sales timeline and any connected Microsoft Teams channel.
 
 To turn off sharing with the Dynamics 365 Sales timeline or Teams channels:
 
-1. Select the Main menu button ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.  
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.  
 
-2. Under **Note Output Options**, move the sliders to the off position for the options you want to turn off.
+2. Move the **Dynamics 365 for Sales Timeline** slider to the Off position.
 
-   ![Note Output Options](media/note-output-options.PNG "Note Output Options")
- 
-## Export a note
-
-You can export your notes to share them with other apps on your device that support the iOS sharing function. The notes image and text are exported without any special formatting.
-
-To export a note:
-
-1.	Select **Notes** on the right side of the screen.
-
-2.	Select the **Overflow** menu ![Overflow menu button](media/overflow-button.png "Overflow menu button") in the upper-right corner of the notes card.
-
-3.	In the **Options** dialog box, select **Export note**.
+   > [!div class=mx-imgBorder]
+   > ![Notes output options](media/note-output-options.png "Notes output options")
 
 ### See also
 

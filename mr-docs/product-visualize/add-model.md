@@ -1,12 +1,13 @@
 ---
-author: mamithan
-description: How to add your own custom 3D models to an existing Dynamics 365 Sales product
-ms.author: mamithan
-ms.date: 12/07/2019
+title: Add your own 3D model to an existing Dynamics 365 Sales product.
+description: Learn how to add your own custom 3D models to an existing Dynamics 365 Sales product.
+author: sbmjais
+ms.author: shjais
+manager: shujoshi
+ms.date: 02/26/2020
 ms.service: crm-online
 ms.topic: article
-title: Add your own 3D model to an existing Dynamics 365 Sales product
-ms.reviewer: v-brycho
+ms.reviewer:
 ---
 
 # Add your own 3D model to an existing Dynamics 365 Sales product
@@ -20,26 +21,25 @@ If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your lo
 
 ## Add a 3D model to a product
 
-1.	On the **My Open Opportunities** screen, open the appropriate opportunity. 
+1.	Navigate to the **My Open Opportunities** screen, and then tap **Import Models** at the upper-right corner of the screen.
 
-    ![My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
+    > [!div class=mx-imgBorder]
+    > ![My Open Opportunities screen](media/my-open-opportunities.png "My Open Opportunities screen")
  
-2.	Select the product you want to add the model to.
+2. In the confirmation message, tap **Continue**.
 
-3.	On the **Models** screen, select the plus sign (+) in the upper-right corner of the screen.
+    > [!div class=mx-imgBorder]
+    > ![Confirmation message](media/confirm-import-model.png "Confirmation message")
 
-    ![Models screen](media/3D-models.PNG "Models screen")
+3.	Select a model from the list of recently used models or tap **Browse** to search for models on your device.
+
+    > [!div class=mx-imgBorder]
+    > ![Select a model to be imported](media/recent-models.png "Select a model to be imported")
+
+    > [!div class=mx-imgBorder]
+    > ![Browse a model to be imported](media/browse-models.png "Browse a model to be imported")
  
-4.	On the **Browse Your Files** screen, select the service where the 3D model is stored, or select **Your Files** to access the files on your device.
-
-    ![Browse Your Files screen](media/quick-access.PNG "Browse Your Files screen")
- 
-    > [!NOTE]
-    > If you select SharePoint, you'll see a list of the SharePoint sites associated with your Dynamics 365 sign-in credentials.
-
-5.	When prompted to link the model, select **Confirm**.
- 
-    When the model is ready, you'll see a **Success!** message, and then you'll see the screen where you selected the model so you can add additional models if you want.
+4.	Point your device down towards a flat surface like the floor or a desk, and then tap **Place** to place the model.
     
 ### See also
 
