@@ -1,27 +1,43 @@
 ---
-title: 2D Snapshot and Annotation
+title: Annotate 2D Snapshot
 author: xonatia
-description: Both technicians and experts can take a snapshot and annotate it in the app
+description: How to capture and annotate a 2D snapshot
 ms.author: xolee
 ms.date: 02/27/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Capture 2D Snapshot and Annotate 
+# Capture and annotate snapshots 
 
-###
-Remote Assist Mobile provides technicians with the ability to take 2D snapshots and annotate it during a call. Technicians can take a photo of their environment or mixed reality annotations in their environment. These snapshots can be used for reference later or work validation. 
+Remote Assist mobile provides technicians with the ability to capture and annotate snapshots of their environment during a call.
 
-## Capture 2D snapshot and annotate scenario
-1. During a Remote Assist Mobile call, tap the 2D Annotation icon. 
-2. After you tap the icon, you have now snapped your photo. If the technician does not want to add annotations to the snapshot, you can skip to Step 6. 
-3. This snapshot is shared to the expert's screen. 
-4. Both the technician and expert can add annotations to the snapshot. 
-5. After both the technician and expert are finished annotating on the snapshot, the technician selects the Check Mark to exit from the 2D Annotation mode. 
-6. After the technician selects the Check Mark, the technician can Save the snapshot to the phone's Photo Gallery or discard the snapshot. 
-7. If the technician selects Save, the technician is alerted that the snapshot is saved to the phone's Photo Gallery. 
-8. The technician is taken directly back to the video call. 
-9. If the technician selects Discard, the technician is taken directly back to the video call. 
-###
-Snapshots can also be utilized in low bandwidth situations. 
+Snapshots are critical in situations where a still image might help communicate what a technician is looking at. Annotations provide additional tools to emphasize specific elements in the snapshot. These snapshots can then be used later for reference or work validation, and can provide relief in low-bandwidth scenarios where video just isn't cutting it.  
+
+## How it works
+
+1.	During a Remote Assist mobile call, select the **Snapshot** icon to snap your photo. 
+
+![Screenshot of the snapshot icon in Remote Assist mobile.](./media/snapshot_1.png "Snapshot Icon")
+
+2. The snapshot is shared to the expert's screen on Microsoft Teams.
+
+![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing the shared snapshot on both screens.](./media/snapshot3.png "Share")
+
+3. If the technician wants to capture a snapshot of their environment without annotations, you can skip to Step 5.
+
+4. Both the technician and expert can add annotations to the snapshot. The expert has to select **Start Editing** to add annotations to the snapshot. 
+
+![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing annotations on both screens](./media/snapshot4.png "Start Editing")
+
+5.	After both the technician and expert are finished annotating on the snapshot, the technician selects the **Check Mark** to save their snapshot to their mobile device's Photo Gallery.
+
+![Screenshot of Remote Assist mobile, with attention to the check mark icon.](./media/snapshot_5.png "Check")
+
+6.	The technician is prompted to save the snapshot to their mobile device's photo gallery or discard the snapshot.
+
+![Screenshot of Remote Assist mobile showing the notification that the snapshot has been saved to the photo gallery.](./media/photo-gallery.png "Gallery")
+
+1. The technician is taken back to the live video call and can select the snapshot icon to take more snapshots.
+
+8.	At the end of the call, the technicians can now go to their mobile device’s **Photo Gallery** and view the snapshots. They can share it with others or include it on their Dynamics 365 Field Service work order. 
