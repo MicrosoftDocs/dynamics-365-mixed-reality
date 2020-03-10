@@ -13,7 +13,7 @@
 
 ## Remote Assist on Hololens 1 and 2
 ### [Overview](overview-hololens.md)
-### [Launch Remote Assist](launch-hololens-2.md)
+### [Launch Remote Assist](launch-hololens.md)
 ### [Make and take calls](making-taking-calls-hololens.md)
 ### [Join a meeting](join-meeting-hololens.md)
 ### [Adjust what you see](adjust-what-you-see-hololens.md)
