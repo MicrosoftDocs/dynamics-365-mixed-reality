@@ -9,7 +9,7 @@ title: Add additional user accounts to Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Add additional user accounts to Dynamics 365 Guides
+# Add additional user accounts to Dynamics 365 Guides  
 
 To add additional users to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you must first assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them in the Microsoft 365 admin center. Then, in the Power Platform admin center, configure the roles that the users will have access to (Author, Operator, or Admin).
 
