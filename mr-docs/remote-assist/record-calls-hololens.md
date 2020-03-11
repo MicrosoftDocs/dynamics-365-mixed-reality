@@ -123,4 +123,4 @@ Use this option when:
 
 The video of the recording will appear in your **Videos/Captures** folder.
    
-For more information, [learn more about the game bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
+For more information, [learn more about the Game Bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
