@@ -1,5 +1,5 @@
 ---
-author: sopsun
+author: sophiasysun
 description: Collaborate with a Remote Assist user via Microsoft Teams on mobile
 ms.author: sopsun
 ms.date: 02/17/2020
@@ -9,13 +9,13 @@ title: Collaborate with a Remote Assist user via Microsoft Teams on mobile
 ms.reviewer: krbjoran
 ---
 
-# Overview 
+# Collaborate with a Remote Assist user via Microsoft Teams on mobile 
 
-Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using a variety of devices to solve problems together, faster. Specifically, Dynamics 365 Remote Assist is available on HoloLens 1 and HoloLens 2, and also AR-capable iOS and Android mobile phones and tablets. Remote collaborators can use Microsoft Teams on PC or mobile to collaborate with Remote Assist users.
+Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using a variety of devices to solve problems together, faster. Remote Assist is available on HoloLens 1 and HoloLens 2, and also AR-capable iOS and Android mobile phones and tablets. Remote collaborators can use Microsoft Teams on PC or mobile to collaborate with Remote Assist users.
 
-This document explains how you can use Microsoft Teams on mobile to collaborate with a Remote Assist user. The benefit of using Teams on mobile, as compared to PC, is that you can collaborate with Remote Assist users on-the-go. 
+In this article, we'll explore how you can use Microsoft Teams on mobile to collaborate with a Remote Assist user. The benefit of using Teams on mobile (versus PC) is that you can collaborate with Remote Assist users on-the-go. 
 
-When you use Teams on mobile (Android or iOS), you can collaborate in ad hoc one-to-one calls and Teams meetings with one person who is using Remote Assist on HoloLens 1 or 2 (a “Remote Assist HoloLens user”). You can also collaborate with one person who is using Remote Assist on mobile user (a “Remote Assist mobile user”). Learn the network requirements for a call here [need a link].
+When you use Teams an Android or iOS device, you can collaborate in ad hoc one-to-one calls and Teams meetings with one person who is using Remote Assist on HoloLens 1 or 2. You can also collaborate with one person who is using Remote Assist on mobile. Learn the network requirements for a call here [need a link].
 
 However, the features you can use to collaborate differ depending on whether you are collaborating with a Remote Assist HoloLens user or Remote Assist mobile user, and whether you’re using a one-to-one call or a Teams meeting. 
 

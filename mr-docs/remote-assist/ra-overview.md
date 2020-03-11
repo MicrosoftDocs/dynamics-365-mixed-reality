@@ -104,5 +104,4 @@ Learn more [here](https://docs.microsoft.com/dynamics365/field-service/remote-as
 - [Buy Dynamics 365 Remote Assist](buy-remote-assist.md)
 - [Deploy Dynamics 365 Remote Assist](deploy-remote-assist.md) 
 - [Mixed reality](https://docs.microsoft.com/windows/mixed-reality/)
-- [Set up and use Microsoft Teams with Dynamics 365 Remote Assist](use-microsoft-teams-with-remote-assist.md)
 - [FAQs](faq.md) 

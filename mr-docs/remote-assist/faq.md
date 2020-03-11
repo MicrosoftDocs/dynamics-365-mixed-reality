@@ -1,5 +1,5 @@
 ---
-author: sophiaysun
+author: sophiasysun
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: sopsun
 ms.date: 03/15/2020
