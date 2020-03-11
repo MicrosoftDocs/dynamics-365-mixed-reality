@@ -1,4 +1,4 @@
-{:allowed-branchname-matches ["^master$" "acrolinx-check-settings"]
+{:allowed-branchname-matches ["^master$"]
  :allowed-filename-matches ["mr-docs"]
  :acrolinx-check-settings
  {
