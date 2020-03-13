@@ -146,7 +146,7 @@ A user can be associated with more than one access team.
 
 2. Select **Apps**, and then select **Guides**.
 
-    ![Guides button](media/access-teams-18.PNG "Guides button")
+    ![Guides button](media/access-teams-22.PNG "Guides button")
 
 3. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
 
