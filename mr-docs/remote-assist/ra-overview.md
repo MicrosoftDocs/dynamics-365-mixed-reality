@@ -46,8 +46,6 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 2. Because the technician's company has enabled Dynamics Field Service integration, the technician selects a booking and views the recommended remote collaborator who has more experience with that machine.
 
-<div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F6TI" frameborder="0" allowfullscreen=""></iframe></div>
-
 3. A remote collaborator joins the mixed reality call on Microsoft Teams desktop and sees what the technician sees. They start recording the call so the technician can use it for future reference. 
 
 4. The remote collaborator provides verbal instructions. When they want to draw attention to a part of the machine, the collaborator adds drawings and arrows onto their PC screen. These drawings and arrows appear in the technician's space and are anchored to the machine. 
