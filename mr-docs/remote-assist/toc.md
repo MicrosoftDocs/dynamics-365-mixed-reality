@@ -6,6 +6,7 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
 ### [Deploy Remote Assist](deploy-remote-assist.md)
+### [Set up Teams](set-up-teams.md)
 ### Cross-tenant calling deployment
 #### [Overview](cross-tenant-overview.md)
 #### [Cross-tenant license implementation](cross-tenant-licensing-implementation.md)
