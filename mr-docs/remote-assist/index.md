@@ -21,6 +21,6 @@ Empower technicians to solve problems faster the first time with [!include[cc-mi
 [Requirements](requirements.md)<br/>
 [Try Dynamics 365 Remote Assist for free](try-remote-assist-free.md)<br/>
 [Buy and deploy Dynamics 365 Remote Assist](buy-and-deploy-remote-assist.md)<br>
-[User guide](user-guide.md)<br/>
+[User guide](overview-hololens.md)<br/>
 [Set up and use Microsoft Teams with Dynamics 365 Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
 [FAQ](faq.md)<br/>

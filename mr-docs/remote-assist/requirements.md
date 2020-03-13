@@ -51,10 +51,10 @@ Teams](https://docs.microsoft.com/MicrosoftTeams/prepare-network) to learn
 more.
 
 ### See also
-[Overview of Dynamics 365 Remote Assist](index.md)<br/>
-[Try Dynamics 365 Remote Assist for free](try-remote-assist-free.md)<br/>
-[Buy and deploy Dynamics 365 Remote Assist](buy-and-deploy-remote-assist.md)<br>
-[User guide](user-guide.md)<br/>
-[Set up and use Microsoft Teams with Dynamics 365 Remote Assist](use-microsoft-teams-with-remote-assist.md)<br/>
-[How-to videos](videos.md)<br/>
-[FAQ](faq.md)<br/>
+- [Overview of Dynamics 365 Remote Assist](ra-overview.md)
+- [Try Dynamics 365 Remote Assist for free](try-remote-assist.md)
+- [Buy Dynamics 365 Remote Assist](deploy-remote-assist.md)
+- [Using Remote Assist on HoloLens](overview-hololens.md)
+- [Set up and use Microsoft Teams with Dynamics 365 Remote Assist](teams-pc-all.md)
+- [How-to videos](videos.md)
+- [FAQ](faq.md)

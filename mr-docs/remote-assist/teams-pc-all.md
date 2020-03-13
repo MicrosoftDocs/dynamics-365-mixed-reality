@@ -1,8 +1,8 @@
 ---
-author: sopsun
+author: sophiasysun
 description: Collaborate with a Remote Assist user via Microsoft Teams on PC
 ms.author: sopsun
-ms.date: 02/17/2020
+ms.date: 03/15/2020
 ms.service: crm-online
 ms.topic: article
 title: Collaborate with a Remote Assist user via Microsoft Teams on PC
@@ -10,44 +10,45 @@ ms.reviewer: krbjoran
 ---
 # Collaborate with a Remote Assist user via Microsoft Teams on PC
 
-## Overview
+When you use Teams on a PC running Windows 10, you can collaborate with people using Remote Assist on HoloLens 1 or 2 (in this article, a "Remote Assist HoloLens user") or Remote Assist on a mobile device (in this article, a "Remote Assist mobile user").  
 
-When you use Teams on a PC running Windows 10, you can collaborate with people using Remote Assist on HoloLens 1 or 2 (a “Remote Assist HoloLens user”) or Remote Assist on a mobile device (a “Remote Assist mobile user”).   
 However, the features you can use to collaborate differ depending on which platform the Remote Assist user is using.  
 
-### Feature comparison: Collaborating with Remote Assist HoloLens user versus Remote Assist mobile user
+## Collaborating with Remote Assist HoloLens user versus Remote Assist mobile user
 |                                                                                                |Teams desktop features available when collaborating with Remote Assist HoloLens user                 |Teams desktop features available when collaborating with Remote Assist mobile user                   |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |                                                                                                     |                                                                                                     |                                                                                                     |
-|Make outgoing call                                                                                   |Yes                                                                                                  |Yes, but Remote Assist mobile user must have Remote Assist app open to be notified of the call       |
+|Make outgoing call                                                                                   |Yes                                                                                                  |Yes, but Remote Assist mobile user must have Remote Assist app open to be notified of the call.      |
 |Receive incoming call                                                                                |Yes                                                                                                  |Yes                                                                                                  |
 |Join a one-to-one call                                                                               |Yes                                                                                                  |Yes                                                                                                  |
-|Join a group call                                                                                    |Yes                                                                                                  |No; Remote Assist mobile does not support group calls                                                |
-|Join a meeting                                                                                       |Yes                                                                                                  |No; Remote Assist mobile does not support meetings                                                   |
+|Join a group call                                                                                    |Yes                                                                                                  |No; Remote Assist mobile does not support group calls.                                                |
+|Join a meeting                                                                                       |Yes                                                                                                  |No; Remote Assist mobile does not support meetings.                                                  |
 |Control outgoing video, outgoing audio, and incoming audio                                           |Yes                                                                                                  |Yes                                                                                                  |
 |Annotate 2D snapshot using arrows and ink                                                            |No                                                                                                   |Yes                                                                                                  |
 |Send a text message                                                                                  |Yes                                                                                                  |Yes                                                                                                  |
-|Share files from OneDrive or device                                                                  |Yes                                                                                                  |No; However, Remote Assist mobile file support will be available April 2020                          |
+|Share files from OneDrive or device                                                                  |Yes                                                                                                  |No; However, Remote Assist mobile file support will be available April 2020.                        |
 |Record call                                                                                          |Yes, only in a group call, meeting, or one-to-one call initiated using the Meet Now feature.         |No;                                                                                                  |
-|                                                                                                     |However, starting in April 2020, the Remote Assist HoloLens user can record a normal one-to-one call.|However, starting in April 2020, the Remote Assist HoloLens user can record a normal one-to-one call.|
+|                                                                                                     |Starting in April 2020, the Remote Assist HoloLens user can record a normal one-to-one call.|Starting in April 2020, the Remote Assist HoloLens user can record a normal one-to-one call.|
 |Share screen                                                                                         |Yes                                                                                                  |No                                                                                                   |
                                             |
 
-### Key terms
+## Key terms
 
-When you join a call, you will see the **Mixed Reality Toolbar.**
+When you join a call, you will see the **Mixed Reality Toolbar**, seen in the following screenshot.
 
-![Mixed Reality toolbar](media/071f358ab6bbf7c2072b15d9203a1593.png "Mixed Reality toolbar")
+![Screenshot of the mixed reality toolbar](media/071f358ab6bbf7c2072b15d9203a1593.png "Mixed Reality toolbar")
 
-And the **call controls panel.**
+You'll also see the **call controls panel**, seen in the following screenshot.
 
-![CC](media/PC_CallControls.png "CC")
+![Screenshot of call controls.](media/PC_CallControls.png "CC")
  
-The More Options panel ![MoreOptions](media/PC_MoreOptions.png "MoreOptions") includes additional features. 
+The **More Options** panel includes additional features. 
 
-A **meeting** is a call scheduled using Teams. A meeting can include 1+ more participants.
-A **1:1 call** is an ad hoc call that is not scheduled using Teams.  
-A **group call** is an ad hoc call that is not scheduled using Teams. To create a group call, start with a 1:1 call and then add more participants. 
+![Screenshot of the more options menu.](media/PC_MoreOptions.png "MoreOptions") 
+
+- A **meeting** is a call scheduled using Teams. A meeting can include 1+ more participants.
+- A **1:1 call** is a call between two people that is not scheduled using Teams.  
+- A **group call** is a call with more than two people that is not scheduled using Teams. To create a group call, start with a 1:1 call and then add more participants. 
 
 ## Launch Teams 
 
@@ -56,9 +57,7 @@ Launch the Teams app.
     > [!IMPORTANT]
     > If this is the first time the expert has launched [!include[pn-teams](../includes/pn-teams.md)] and the expert has not been invited to any other teams, [!include[pn-teams](../includes/pn-teams.md)] will automatically take the expert to the correct place. If the expert has been invited to other teams, the expert might need to switch to the appropriate tenant.  
     >     
-    > To switch tenants, in the drop-down menu in the upper-right corner of the window, select the appropriate guest tenant:
-    
-    ![Guest tenant](media/55237a5359fb66daf7bbb9413adab6b9.png "Guest tenant")
+    > To switch tenants, in the drop-down menu in the upper-right corner of the window, select the appropriate guest tenant.
        
     > [!NOTE]
     > [!include[pn-teams](../includes/pn-teams.md)] might take a few seconds to reload.
@@ -68,97 +67,93 @@ Launch the Teams app.
 ## Make and take calls
 
 ### Accept a call  
-When you see an incoming call notification in the bottom right of your screen, select Audio or Video to join the call.
+When you see an incoming call notification in the bottom right of your screen, select **Audio** or **Video** to join the call.
 
-### Make a one-to-one call to Remote Assist user in your company	
-After launching Teams, select the Calls tab on your left to see suggested contacts. Select the Video icon on the contact card to call a suggested contact, of use the search bar to find a contact and call them. 
+### Make a one-to-one call to a Remote Assist user in your company	
+After launching Teams, select the **Calls** tab on your left to see suggested contacts. Select the **Video** icon on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
 
 >![Note]
-> Teams desktop users are not able to record a one-to-one call (i.e. an outgoing or incoming ad hoc call). To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the [Meet Now feature](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/toc-sandbox/mr-docs/remote-assist/teams-pc-all.md#make-and-record-a-one-to-one-call-with-a-remote-assist-hololens-user-using-the-meet-now-feature).
+> Teams desktop users are not able to record a one-to-one call. To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the [Meet Now feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#make-and-record-a-one-to-one-call-with-a-remote-assist-hololens-user-using-the-meet-now-feature).
 
 
-### Make a one-to-one call to Remote Assist user outside your company	
+### Make a one-to-one call to a Remote Assist user outside your company	
 
-You can make or receive a one-to-one call with a Remote Assist user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see Set up cross-company calling. When searching for the external user, you must enter the full email address of the external user. 
+You can make or receive a one-to-one call with a Remote Assist user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see [Set up cross-company calling](cross-company-calling.md). When searching for the external user, you must enter their full email address. 
 
 >![Note]
 > If you're not able to find the contact you're looking for, it might be because external access has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help.  
 
-### Make a group call (with Remote Assist HoloLens user only)
+### Make a group call (with a Remote Assist HoloLens user only)
 
-A group call can include up to 1 Remote Assist HoloLens user and 49 Teams Desktop users. 
-Start by calling one person, and then select Open Participants ![Participants](media/Teams_Participants.png "Participants") button. Then, search the person you would like to call and call them.
+A group call can include one Remote Assist HoloLens user and up to 49 Teams Desktop users. 
+
+Start by calling one person, and then select **Open Participants** (represented by this icon: ![Graphic showing the participants icon.](media/Teams_Participants.png)). Then, search for the person you would like to call and call them.
 
 
 ### Make and record a one-to-one call with a Remote Assist HoloLens user using the Meet Now feature 
 
-You may want to record the Remote Assist call for documentation or record-keeping purposes. There are three ways to record a call. Learn about the different types of calls [here](insert link to “record a call”). 
 Teams desktop only supports recording group calls and meetings (regardless of how many call participants are in the meeting). In other words, when you are in a call, a Teams desktop user can use Teams to initiate a cloud-based recording only if the call is a group call or a meeting. (At this time, a HoloLens user cannot record the call.) 
-So how do you record a one-to-one call? You will need to make your one-to-one call a meeting. In other words, if you anticipate wanting to use Teams to create a cloud-based recording of a one-to-one call with a Remote Assist HoloLens user, the easiest way to do this is to initiate your call using the Teams **Meet Now** feature. (This effectively makes your ad hoc one-to-one call a meeting, and because Teams supports recording for meetings, you will be able record the call!)
 
-1.	Navigate to the Calendar tab. On the top right corner of the page, you will see. Click **Meet Now.**
-![MeetNow](media/PC_MeetNow.png "MeetNow")
-2. Name the meeting and select **Join now**
-3. Invite people to the meeting using the “Invite someone or dial a number” field on the right half of the screen. Click the […] and click start recording. 
-4. When the call ends, it will appear as a normal Meeting in your Teams chat log. The chat log will include everyone was invited to the meeting. Stream processes the recording.
-5. The person who initiates the recording is the recorder and owns the video. When a recording ends, it begins being uploaded to Microsoft Stream. Once the video is uploaded to Stream, the recorder receives an email notification, and all call participants can view a link to Stream via the Teams chat. The owner is the only participant who can [give permission](https://support.office.com/en-us/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video](https://support.office.com/en-us/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. [Learn more about Stream video permissions.]( https://docs.microsoft.com/en-us/stream/portal-permissions)
+So how do you record a one-to-one call? You will need to make your one-to-one call a meeting. In other words, if you anticipate wanting to use Teams to create a cloud-based recording of a one-to-one call with a Remote Assist HoloLens user, the easiest way to do this is to initiate your call using the Teams **Meet Now** feature. (This effectively makes your one-to-one call a meeting, and because Teams supports recording for meetings, you will be able record the call!)
+
+1.	Go to the Calendar tab. On the top right corner of the page, you will see. Click **Meet Now**, as seen in this screenshot: 
+![Screenshot of the Meet Now option.](media/PC_MeetNow.png)
+1. Name the meeting and select **Join now**.
+2. Invite people to the meeting using the “Invite someone or dial a number” field on the right half of the screen. Select the ellipses icon […] and then **Start Recording**. 
+3. When the call ends, it will appear as a normal meeting in your Teams chat log. The chat log will include everyone who was invited to the meeting. Microsoft Stream processes the recording.
+4. The person who initiates the recording is the recorder and owns the video. When a recording ends, it starts uploading to Stream. Once the video is uploaded to Stream, the recorder receives an email notification, and all call participants can view a link to Stream via the Teams chat. The owner is the only participant who can [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download the video](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) to share the recording beyond these people. [Learn more about Stream video permissions]( https://docs.microsoft.com/stream/portal-permissions).
 
 You can find all the videos you own [here]( https://msit.microsoftstream.com/studio/videos).
 
-If your admin has configured Field Service integration, you can access the recording link and can post it in a D365 Field Service booking.
+If your admin has configured Dynamics 365 Field Service integration, you can access the recording link and can post it to a Field Service booking.
 
 
 ## Schedule and join a meeting (with a Remote Assist HoloLens user only)
 
 ### Schedule a meeting ahead of the call (with Remote Assist HoloLens user only)
 
-Read about how to [join a Teams meeting here](https://support.office.com/en-us/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAABAAA=Desktop), or [watch a tutorial video](https://support.office.com/en-us/article/Video-Manage-meetings-ba44d0fd-da3c-4541-a3eb-a868f5e2b137).
+Read about how to [join a Teams meeting here](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAABAAA=Desktop), or [watch a tutorial video](https://support.office.com/article/Video-Manage-meetings-ba44d0fd-da3c-4541-a3eb-a868f5e2b137).
 
-### Join a Teams Meeting (with Remote Assist HoloLens user only)
+### Join a Teams meeting (with Remote Assist HoloLens user only)
 
+Read about how to [schedule a meeting here](https://support.office.com/article/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9), or [watch a tutorial video](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US).
 
-Read about how to [schedule a meeting here](https://support.office.com/en-us/article/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9), or [watch a tutorial video](https://support.office.com/en-us/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US).
+If the Remote Assist user has been invited to the meeting, they can log into Remote Assist and select **Join Meeting** at the bottom of the **Recent Contacts** page.
 
-If the Remote Assist user has been invited to the meeting, they can log into Remote Assist and select “Join Meeting” at the bottom of the Recent Contacts page.
-
-If a Remote Assist user was not invited to the meeting, but you would like them to join the meeting: join the meeting, then select Participants panel   from Call controls, start typing their name in this field  , and call them. 
+If a Remote Assist user was not invited to the meeting, but you would like them to join the meeting: join the meeting, then select **Participants** panel from call controls, start typing their name, and call them. 
 
 
 ## Adjust what you see
 
-Teams tries to anticipate what you’ll want to see in a meeting, but you can [pin a video, reframe a video, and more.]( https://support.office.com/en-us/article/adjust-your-view-in-a-teams-meeting-9825091c-0e7d-4c2b-95f5-eba644f19175).
+Teams tries to anticipate what you’ll want to see in a meeting, but you can [pin a video, reframe a video, and more.]( https://support.office.com/article/adjust-your-view-in-a-teams-meeting-9825091c-0e7d-4c2b-95f5-eba644f19175).
 
 >![Note]
 > At this time, when you use Teams to capture a cloud-based recording of the call, Teams does not preserve the view you configure. The layout of the recording is determined by the number of call participants. See two examples below.
 
-|Teams recoding of call with 2 participants |Teams recording of call with 4+ participants | 
+|Teams recoding of call with two participants |Teams recording of call with four or more participants | 
 |--|--|
-|![2call](media/2call.png "2call")| ![5call](media/5call.png "5call")|
+|![Screenshot showing two people in a Teams call.](media/2call.png)| ![Screenshot showing five people in a Teams call.](media/5call.png)|
 
-If you want the recording to capture the exact layout of the call you configure, use the [Windows Gamebar](ADD LINK) to capture a screen recording of your computer.
+If you want the recording to capture the exact layout of the call you configure, use the Windows Game Bar to capture a screen recording of your computer.
 
-To learn more about the different options for recording a call or portion of a call, read this [comparison chart](ADD LINK).
+For more information, visit [our article on recording calls](record-calls-hololens.md). 
 
 ## Use call controls
 
 When you are in a call, call controls are found at the bottom of the screen. 
--	![video](media/Teams_Video.png "video") Toggle the video icon to control outgoing video
--	![mic](media/Teams_Microphone.png "mic") Toggle the microphone to control outgoing audio
-- ![share](media/Teams_Share.png "share") Select the Share button to share your desktop or a running application (with a Remote Assist HoloLens user only) 
--	![text](media/Teams_Text.png "text") Select the text chat to send text messages (and share files with a Remote Assist HoloLens user only)
--	![participants](media/Teams_Participants.png "participants") Select the participants icon to view and add participants to the call
+- ![The video icon](media/Teams_Video.png): Controls outgoing video.
+- ![The microphone icon](media/Teams_Microphone.png): Controls outgoing audio. 
+- ![The share icon](media/Teams_Share.png): Shares your desktop or a running application (with a Remote Assist HoloLens user only).
+-	![The text chat icon](media/Teams_Text.png): Opens a chat window to send text messages (and share files with a Remote Assist HoloLens user only).
+-	![The participants icon](media/Teams_Participants.png ): See current participants, or add more.
 
-To use additional features, select the […]. For example, select ‘Blur my background” if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting, the More Options […] panel will also provide the option to record the call.  
-
-![CallControls](media/PC_CallControls.png "CallControls")
-
-## Work with annotations  
-
-When in a call, you will see your collaborator’s space—including the holograms—and can use the **Mixed Reality toolbar** to add holograms.
-
-![Mixed Reality toolbar](media/071f358ab6bbf7c2072b15d9203a1593.png "Mixed Reality toolbar")
+To use additional features, select the ellipses icon […]. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting, the More Options […] panel will also provide the option to record the call.  
 
 ## Draw and annotate
+
+When in a call, you will see your collaborator’s space—including the holograms—and can use the **Mixed Reality toolbar** to add annotations.
+
+![Screenshot of the mixed reality toolbar.](media/071f358ab6bbf7c2072b15d9203a1593.png)
 
 ### Begin editing 
 
@@ -172,7 +167,7 @@ the video stream and enter edit mode:
 -   Select **Start editing**.
 
 >![Note]
-> By default, the Mixed Reality toolbar is on the top of your screen. If it is blocking your view and you'd like to move it somewhere else, select ![drag](media/PC_Drag.png "drag") and drag the Mixed Reality toolbar where you would like it to be.
+> By default, the Mixed Reality toolbar is on the top of your screen. If it is blocking your view and you'd like to move it somewhere else, select the drag icon (as seen here: ![Graphic showing the drag icon.](media/PC_Drag.png)) and drag the Mixed Reality toolbar where you would like it to be.
 
 In edit mode, the expert will still see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
 
@@ -180,37 +175,36 @@ In edit mode, the expert will still see a live stream of the call in the corner 
 
 Use the Mixed Reality toolbar to place arrows, draw, or add files:
 
--   To add arrows, select **Place arrow** ![Place arrow](media/6584f4b7932378aa23f6efbf460b304c.png "Place arrow") .
+- To add arrows, select **Place arrow** (as seen here: ![Graphic showing the place arrow icon.](media/6584f4b7932378aa23f6efbf460b304c.png)).
 
--   To add ink, select **Ink** ![Ink](media/187307e30fd713f5ae67aba854b78bc4.png "Ink") .
+- To add ink, select **Ink** (as seen here: ![Graphic showing the ink icon, which looks like a pen.](media/187307e30fd713f5ae67aba854b78bc4.png)).
 
--   To change the arrow or ink color, select **Pick a color** ![Pick a color](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png "Pick a color") .
+- To change the arrow or ink color, select **Pick a color** (as seen here: ![Graphic showing the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)).
 
--  •	To add a file when in a call with a Remote Assist HoloLens user, select  **Insert files** ![Insert files](media/41aa538d3be8e163215f7d9374abe90e.png "Insert files"), and then add an image file or a PDF file from OneDrive or from your device. More details [here](teams-pc.md/#share-files). 
+- To add a file when in a call with a Remote Assist HoloLens user, select  **Insert files** (as seen here: ![Graphic showing the insert files icon.](media/41aa538d3be8e163215f7d9374abe90e.png )), and then add an image file or a PDF  from OneDrive or from your device. 
 
 
 ### Finish editing
 
-When done annotating, do one of the following to finish editing and return to
-live mode:
+When done annotating, you can either:
 
 -   Select **Stop editing**.
 
 -   Select the live video feed in the corner of your screen.
 
-### Make changes to edits
+### Make changes to your edits
 
-To make changes to edits, do one of the following:
+To make changes to your edits, you can:
 
--   While in edit mode, select **Undo** to undo the last action.
+- While in edit mode, select **Undo** to undo the last action.
 
--   While in edit mode, select **Erase all** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all") to erase all of the annotations made during that editing session.
+-   While in edit mode, select **Erase all** (as seen here: ![Graphic showing the Erase icon, which looks like a trashcan.](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")) to erase all of the annotations made during that editing session.
 
--   While in live mode, select **Erase all** ![Erase all](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all") to erase all of the annotations made during that call.
+- While in live mode, select **Erase all** (as seen here: ![Graphic showing the Erase icon, which looks like a trashcan.](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")) to erase all of the annotations made during that call.
 
-> [!NOTE]
-> * Specific drawings or arrows can’t be removed.
-> *	Each call participant can only remove the annotations they added 
+> [!Note]
+> - Specific drawings or arrows can’t be removed.
+> - Each call participant can only remove the annotations they added.
 
 
 ## Share files (with a Remote Assist HoloLens user only)

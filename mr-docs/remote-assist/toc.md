@@ -18,7 +18,6 @@
 ### [Join a meeting](join-meeting-hololens.md)
 ### [Adjust what you see](adjust-what-you-see-hololens.md)
 ### [Add annotations](add-annotations-hololens.md)
-### [Share files](share-files-hololens.md)
 ### [Take a snapshot (and save it to a Dynamics 365 Field Service booking)](take-snapshot-save-booking-hololens.md)
 ### [Record calls](record-calls-hololens.md)
 ### [Send text messages](send-texts-hololens.md)
