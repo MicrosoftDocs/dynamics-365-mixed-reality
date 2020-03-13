@@ -1,5 +1,5 @@
 # Dynamics 365 Remote Assist
-## [Overview](index.md)
+## [Overview](ra-overview.md)
 
 ## Setup
 ### [Requirements](requirements.md)
@@ -27,7 +27,6 @@
 ### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
 ### [File a support ticket](file-support-ticket-hololens.md)
 ### [Report a bug](report-a-bug-hololens.md)
-### [See also](see-also-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
 ### [How-to-videos](videos.md)
 
