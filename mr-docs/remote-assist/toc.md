@@ -1,15 +1,36 @@
 # Dynamics 365 Remote Assist
-## [Overview](index.md)
+## [Overview](ra-overview.md)
+
 ## Setup
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
 ### [Deploy Remote Assist](deploy-remote-assist.md)
+### [Set up Teams](set-up-teams.md)
 ### Cross-tenant calling deployment
 #### [Overview](cross-tenant-overview.md)
 #### [Cross-tenant license implementation](cross-tenant-licensing-implementation.md)
 #### [Set up cross-tenant calling (open federation)](cross-company-calling.md)
-## [HoloLens user guide](user-guide.md)
+
+## Remote Assist on Hololens 1 and 2
+### [Overview](overview-hololens.md)
+### [Launch Remote Assist](launch-hololens.md)
+### [Make and take calls](making-taking-calls-hololens.md)
+### [Join a meeting](join-meeting-hololens.md)
+### [Adjust what you see](adjust-what-you-see-hololens.md)
+### [Add annotations](add-annotations-hololens.md)
+### [Take a snapshot (and save it to a Dynamics 365 Field Service booking)](take-snapshot-save-booking-hololens.md)
+### [Record calls](record-calls-hololens.md)
+### [Send text messages](send-texts-hololens.md)
+### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
+### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
+### [Close the app](close-app-hololens.md)
+### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
+### [File a support ticket](file-support-ticket-hololens.md)
+### [Report a bug](report-a-bug-hololens.md)
+### [Use HoloLens voice commands](voice-commands-hololens.md)
+### [How-to-videos](videos.md)
+
 ## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
 ### [Using the in-app tutorial](mobile-app/mobile-tutorial.md)
@@ -20,11 +41,16 @@
 ### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
-### [Set up and use Microsoft Teams](use-microsoft-teams-with-remote-assist.md)
+
+## Collaborate in Microsoft Teams with Remote Assist users 
+### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
+### [Collaborate with Remote Assist user via Teams on mobile](teams-mobile-all.md)
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
-## [How-to videos](videos.md)
-## [Protocol activation (for developers)](protocol-activation.md)
-## [FAQ](faq.md)
+## Additional resources
+### [How-to videos](videos.md)
+### [Protocol activation (for developers)](protocol-activation.md)
+### [FAQ](faq.md)
+
 ## Legal documents
 ### [Dynamics 365 Remote Assist software license terms](../legal/remote-assist-license-terms.md)
 ### [Dynamics 365 Remote Assist free trial software license terms](../legal/remote-assist-license-terms-free-trial.md)

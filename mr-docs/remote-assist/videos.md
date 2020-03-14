@@ -1,21 +1,22 @@
 ---
-author: jahardner
+author: sophiasysun
 description: Watch these short videos to get up and running with Microsoft Dynamics 365 Remote Assist.
-ms.author: johardne
-ms.date: 10/01/2019
+ms.author: sopsun
+ms.date: 03/15/2020
 ms.service: crm-online
 ms.topic: article
-title: How-to videos for Dynamics 365 Remote Assist
-ms.reviewer: v-brycho
+title: How-to videos for Dynamics 365 Remote Assist on HoloLens 
+ms.reviewer: krbjoran
 ---
 
-# How-to videos for Dynamics 365 Remote Assist
+# How-to videos for Dynamics 365 Remote Assist on HoloLens 
 
-Watch these short videos to get up and running with Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
+Watch these short videos to get up and running with Microsoft [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]. Keep in mind that if you're using HoloLens 2, you do not need to use airtap to select a hologram or button - you can touch the button directly. 
 
-Looking for more help? Check out our [user guide](user-guide.md).
+Learn more about [HoloLens 1 interactions](https://docs.microsoft.com/hololens/hololens1-basic-usage) and [HoloLens 2 interactions](https://docs.microsoft.com/hololens/hololens2-basic-usage).  
 
-## Dynamics 365 Remote Assist for HoloLens
+
+## Use Dynamics 365 Remote Assist for HoloLens
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F6TI" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
@@ -36,7 +37,7 @@ Looking for more help? Check out our [user guide](user-guide.md).
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2FhfT" frameborder="0" allowfullscreen=""></iframe></div>
 
 
-## Microsoft Teams and Dynamics 365 Remote Assist
+## Use Microsoft Teams on PC 
 
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F6TF" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
@@ -45,10 +46,3 @@ Looking for more help? Check out our [user guide](user-guide.md).
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F6TP" frameborder="0" allowfullscreen=""></iframe></div>
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F6TJ" frameborder="0" allowfullscreen=""></iframe></div>
-
-
-
-## See also
-[User guide](user-guide.md)<br>
-[Use Teams with Dynamics 365 Remote Assist](use-microsoft-teams-with-remote-assist.md)<br>
-[FAQ](faq.md)

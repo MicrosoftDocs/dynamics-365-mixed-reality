@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Making calls in Dynamics 365 Remote Assist mobile 
 
-Remote Assist mobile makes receiving expert help easy by providing technicians with the ability to launch video calls with experts who are using Microsoft Teams desktop or mobile. Technicians can make calls to an expert inside or outside of their company. To learn more about how the remote experts communicate via Teams, visit our documentation on [using Teams with Remote Assist](../use-microsoft-teams-with-remote-assist.md).
+Remote Assist mobile makes receiving expert help easy by providing technicians with the ability to launch video calls with experts who are using Microsoft Teams desktop or mobile. Technicians can make calls to an expert inside or outside of their company. To learn more about how the remote experts communicate via Teams, visit our documentation on [using Teams with Remote Assist](../teams-pc-all.md).
 
 For a successful calling experience, **only a Remote Assist mobile user (technician) can initiate an outgoing call to either one Teams desktop user (expert) or one Teams mobile user (expert)**.
 
@@ -24,7 +24,7 @@ For a successful calling experience, **only a Remote Assist mobile user (technic
 
 ## Prerequisites
 - Technicians must have a Remote Assist license. Visit our additional documentation to learn more about the [free trial licenses](../try-remote-assist.md) or [subscriptions](../buy-remote-assist.md).
-- Experts must have a Microsoft Teams license. Learn more [here](../use-microsoft-teams-with-remote-assist.md).
+- Experts must have a Microsoft Teams license. Learn more [here](../teams-pc-all.md).
 
 ## How it works
 
