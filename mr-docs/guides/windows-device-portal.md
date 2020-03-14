@@ -77,6 +77,8 @@ Now you’re ready to change the IPD settings for the device using the Windows D
 
 2.	Write the number down. In the future, whenever you need to change the IPD settings on the device, sign in to the device, go to the Windows Device Portal, and then change the IPD information in this same field. 
 
+Note that this is not applicable for Hololens 2, since eye positions are computed by the system on Hololens 2.
+
     ![IPD setting](media/ipd-setting.PNG "IPD setting")
  
 > [!TIP]
