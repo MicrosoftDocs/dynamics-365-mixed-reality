@@ -112,10 +112,10 @@ Teams tries to anticipate what you’ll want to see in a meeting, but you can [p
 > At this time, when you use Teams to capture a cloud-based recording of the call, Teams does not preserve the view you configure. The layout of the recording is determined by the number of call participants. See two examples below.
 
 *Example of a Teams recoding of call with two participants:*
-![Screenshot showing two people in a Microsoft Teams call.](media/2call.png)| 
+![Screenshot showing two people in a Microsoft Teams call.](media/2call.png) 
 
 *Example of a Teams recording of call with more than four participants:*
-![Screenshot showing five people in a Microsoft Teams call.](media/5call.png)|
+![Screenshot showing five people in a Microsoft Teams call.](media/5call.png)
 
 
 If you want the recording to capture the exact layout of the call you configure, use the Windows Game Bar to capture a screen recording of your computer.
