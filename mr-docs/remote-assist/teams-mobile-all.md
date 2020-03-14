@@ -144,7 +144,7 @@ Select the **Text icon** (which looks like this: ![Graphic showing the text icon
 
 You can display a variety of OneDrive files in the Remote Assist HoloLens user's space. For example, add a PDF of a diagram to assist with the call so a technician or auditor can reference the diagram while keeping their head up and their hands free.
 
-### Display and share link to OneDrive file during a one-to-one call**
+### Display and share link to OneDrive file during a one-to-one call
 
 Go to the call controls and select the ellipses icon [...]. Then select **Insert Files** and select whether to insert file from OneDrive or from Teams teams and channels.   
 

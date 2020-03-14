@@ -72,7 +72,7 @@ The only difference between collaborating with one or more Teams desktop users v
 
 | In a...  |Can a Remote Assist HoloLens user record?     |  Can a Teams desktop user record? |  Can a Teams mobile user record?  |  
 |---|---|---|---| 
-|  One-to-one call |  Available April 2020 |  Only if Teams desktop user initiates call using **Meet Now** feature |  No |   
+|  One-to-one call |  Available April 2020 |  Only if Teams desktop user initiates call using [**Meet Now** feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#method-2-cloud-based-recording-for-one-to-one-calls-using-teams-meet-now-feature) |  No |   
 |  Group call |  No | **Yes** |  **No**|   
 |  Meeting | No  |  Yes | Yes  |   
 

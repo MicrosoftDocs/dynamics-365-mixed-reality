@@ -45,7 +45,7 @@ At this time, the layout of the Teams recording depends on the number of call pa
 - In a Teams recording with three participants, each participant’s outgoing video (or avatar) occupies one-third of the recording. Furthermore, during the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one third the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one third of the recording.)
 ![Screenshot of Teams recording, showing three participants.](media/3call.png)
 
-- In a Teams recording with four or more participants, each participant’s outgoing video (or avatar) occupies one-fourth of the recording. During the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one fourth of the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one fourth of the recording.)  
+- In a Teams recording with four participants, each participant’s outgoing video (or avatar) occupies one-fourth of the recording. During the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one fourth of the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one fourth of the recording.)  
 ![Screenshot of Teams recording, showing four participants.](media/4call.png)
 
 - A Teams recording including five or more participants splits the horizontal recording into four, with remaining participants’ avatars in the bottom-right corner of the recording. 

@@ -1,20 +1,20 @@
 ---
-title: Complete list of voice commands 
+title: Complete list of voice commands for Dynamics 365 Remote Assist on HoloLens
 author: sophiasysun 
-description: Complete list of voice commands
+description: Complete list of voice commands for Dynamics 365 Remote Assist on HoloLens
 ms.author: sopsun
-ms.date: 02/21/2020
+ms.date: 03/15/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
 
-# Complete list of voice commands
+# Complete list of voice commands for Dynamics 365 Remote Assist on HoloLens
 
 
 In many cases, you can use voice commands and gaze instead of gestures. Some voice commands are contextual, so they only work in particular areas of the user interface. For example, “Start inking” only works if the Ink tool is already active.”) You can also look at any button and say “Select.”
 
-Note that at this time, voice commands and speech recognition are available in specific languages for Hololens (LinkTo FAQ)
+At this time, voice commands and speech recognition are [available in specific languages for Hololens](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for).
 
 When you’re in a call, a good way to learn the features of Remote Assist is to say, “Remote Assist.” The app will display what it believes you said by showing a check mark and “Remote assist.” Then, the app will display the name of each button, as you see in the image above. After a few seconds, these labels will automatically disappear. 
 
@@ -22,7 +22,7 @@ When you’re outside a call (for example, before you’ve picked up, or when yo
 For full list of voice commands, see the list below.
 
 
-> ![Important]
+> [!Note]
 > To use a voice command, say “Remote Assist,” and then say one of the voice commands in the following table. For example, say "Remote Assist, Move" to enter Move mode for a slate (window). You can also gaze at any button and say “Remote Assist, Select” to select that button.
 
 
@@ -52,10 +52,10 @@ For full list of voice commands, see the list below.
 |Move                                   |Selects the Move tool, letting the user move objects.                                                              |
 |Open chat (Close chat)                 |Open (close) the Text Chat window when docked to the Video Card.                                                   |
 |**Annotations**    | | 
-|Arrow (Arrow off)                      |Select (deselect) the Arrow tool, letting the user create holographic arrows pointing to parts of her environment. |
+|Arrow (Arrow off)                      |Select (deselect) the Arrow tool, letting the user create holographic arrows pointing to parts of their environment. |
 |Place arrow                            |Place an arrow at the current gaze cursor location.                                                                |
 |Arrow                                  |Enable arrow placement (Deselect arrow tool)                                                                       |
-|Ink (Ink off)                          |Select (deselect) the Draw tool, letting the user draw on the walls and surfaces of her environment.               |
+|Ink (Ink off)                          |Select (deselect) the Draw tool, letting the user draw on the walls and surfaces of their environment.               |
 |Colors                                 |Open color picker to determine color of arrow or ink                                                               |
 |Blue / Gray / Green / Red /Yellow      |Make arrow and ink this color                                                                                      |
 |Start (stop) Inking                    | Begin (stop) placing ink                                                                                          |

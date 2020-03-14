@@ -93,11 +93,11 @@ Start by calling one person, and then select **Open Participants** (represented 
 
 ### Schedule a meeting ahead of the call (with Remote Assist HoloLens user only)
 
-Read about how to [join a Teams meeting here](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAABAAA=Desktop), or [watch a tutorial video](https://support.office.com/article/Video-Manage-meetings-ba44d0fd-da3c-4541-a3eb-a868f5e2b137).
+Read about how to [join a Teams meeting here](https://support.office.com/article/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9), or [watch a tutorial video](https://support.office.com/article/Video-Manage-meetings-ba44d0fd-da3c-4541-a3eb-a868f5e2b137).
 
 ### Join a Teams meeting (with Remote Assist HoloLens user only)
 
-Read about how to [schedule a meeting here](https://support.office.com/article/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9), or [watch a tutorial video](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US).
+Read about how to [schedule a meeting here](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAABAAA=Desktop), or [watch a tutorial video](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US).
 
 If the Remote Assist user has been invited to the meeting, they can log into Remote Assist and select **Join Meeting** at the bottom of the **Recent Contacts** page.
 
@@ -106,14 +106,17 @@ If a Remote Assist user was not invited to the meeting, but you would like them 
 
 ## Adjust what you see
 
-Teams tries to anticipate what you’ll want to see in a meeting, but you can [pin a video, reframe a video, and more.]( https://support.office.com/article/adjust-your-view-in-a-teams-meeting-9825091c-0e7d-4c2b-95f5-eba644f19175).
+Teams tries to anticipate what you’ll want to see in a meeting, but you can [pin a video, reframe a video, and more]( https://support.office.com/article/adjust-your-view-in-a-teams-meeting-9825091c-0e7d-4c2b-95f5-eba644f19175).
 
 >![Note]
 > At this time, when you use Teams to capture a cloud-based recording of the call, Teams does not preserve the view you configure. The layout of the recording is determined by the number of call participants. See two examples below.
 
-|Teams recoding of call with two participants |Teams recording of call with four or more participants | 
-|--|--|
-|![Screenshot showing two people in a Microsoft Teams call.](media/2call.png)| ![Screenshot showing five people in a Microsoft Teams call.](media/5call.png)|
+*Example of a Teams recoding of call with two participants:*
+![Screenshot showing two people in a Microsoft Teams call.](media/2call.png)| 
+
+*Example of a Teams recording of call with more than four participants:*
+![Screenshot showing five people in a Microsoft Teams call.](media/5call.png)|
+
 
 If you want the recording to capture the exact layout of the call you configure, use the Windows Game Bar to capture a screen recording of your computer.
 
@@ -271,25 +274,25 @@ The layout of the Teams recording depends on the number of call participants, an
 >![Note]
 >If it is imperative that your recording only captures as much of the Remote Assist HoloLens user’s view as possible, and as little of Teams user’s outgoing videos (or avatars), consider recording your desktop screen using Windows Gamebar. 
 
-#### Teams recording with 2 participants
+#### Teams recording with two participants
 
 In a Teams meeting recording with two participants, each participant’s outgoing video (or avatar) occupies one half of the recording, and both halves are vertical. This means that during a Remote Assist call, a Teams desktop user sees a horizontal slice of what you see, but the recording only captures the middle vertical slice of what you see. Furthermore, during the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies half the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy half the recording.)
 
 ![Screenshot of Teams desktop showing a call between one desktop user and a HoloLens user with the screen split down the middle.](media/2call.png)
 
-#### Teams recording with 3 participants
+#### Teams recording with three participants
 
 In a Teams recording with three participants, each participant’s outgoing video (or avatar) occupies one third of the recording. Furthermore, during the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one third the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one third of the recording.)
 
 ![Screenshot of Teams desktop showing a call between three people.](media/3call.png)
 
-#### Teams recording with 4 participants
+#### Teams recording with four participants
 
-In a Teams recording with four or more participants, each participant’s outgoing video (or avatar) occupies one fourth of the recording. During the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one fourth of the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one fourth of the recording.) 
+In a Teams recording with four participants, each participant’s outgoing video (or avatar) occupies one fourth of the recording. During the Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one fourth of the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one fourth of the recording.) 
 
 ![Screenshot of Teams desktop showing a call between four people.](media/4call.png)
 
-#### Teams recording with 4+ participants
+#### Teams recording with more than four participants
 
 A Teams recording including four or more participants splits the horizontal recording into four, with remaining participants’ avatars in the bottom-right corner of the recording. 
 

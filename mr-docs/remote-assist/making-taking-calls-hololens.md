@@ -38,14 +38,14 @@ If you don’t see the contact you want, select Search and then use the holograp
 
 ## Make a one-to-one call to a Teams user outside your organization
 
-> ![Note]
+> [!Note]
 > You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the administrator for your organization, to set up external access, see [Set up cross-company calling](cross-company-calling.md).
 > 
 > At this time, you can't make group calls or share files with contacts outside your company.
 
 Open the app, select **Search**, and then use the holographic keyboard to enter the full email address of the external user. You won't see any search results if you enter just a name or a partial email address. After you call them once, they will appear in your recent contacts list, so you will not have to search for them again.
 
-> ![Note]
+> [!Note]
 > If you're not able to find the contact you're looking for, it might be because external access has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help.
 
 
@@ -59,7 +59,7 @@ You'll see the first person you called on the left side of the video card, and a
 
 To mute a participant, select **Open Participants** or say "Remote Assist, Open Participants." Tap on a participant to see a video feed of them. Tap on a participant’s mute button next to their name to mute them. A muted participant is the only one who can unmute themselves. 
 
-> ![Note]
+> [!Note]
 > You can't mute another participant in a one-to-one call. You can only mute and unmute yourself.
 
 ## Accept a call 
