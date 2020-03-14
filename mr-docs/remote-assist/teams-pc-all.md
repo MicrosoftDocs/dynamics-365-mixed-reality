@@ -125,11 +125,11 @@ For more information, visit [our article on recording calls](record-calls-holole
 ## Use call controls
 
 When you are in a call, call controls are found at the bottom of the screen. 
-- ![The video icon](media/Teams_Video.png): Controls outgoing video.
-- ![The microphone icon](media/Teams_Microphone.png): Controls outgoing audio. 
-- ![The share icon](media/Teams_Share.png): Shares your desktop or a running application (with a Remote Assist HoloLens user only).
--	![The text chat icon](media/Teams_Text.png): Opens a chat window to send text messages (and share files with a Remote Assist HoloLens user only).
--	![The participants icon](media/Teams_Participants.png ): See current participants, or add more.
+- ![The video icon](media/Teams_Video.png) Controls outgoing video.
+- ![The microphone icon](media/Teams_Microphone.png) Controls outgoing audio. 
+- ![The share icon](media/Teams_Share.png) Shares your desktop or a running application (with a Remote Assist HoloLens user only).
+-	![The text chat icon](media/Teams_Text.png) Opens a chat window to send text messages (and share files with a Remote Assist HoloLens user only).
+-	![The participants icon](media/Teams_Participants.png ) See current participants, or add more.
 
 To use additional features, select the ellipses icon […]. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting, the More Options […] panel will also provide the option to record the call.  
 
@@ -201,7 +201,7 @@ There are two ways to share a OneDrive file or local file with a Remote Assist H
 When you share a file, it'll pop up as a new slate in the Remote Assist HoloLens user’s space and a link to the file will be shared in the chat. All call participants can annotate a file displayed in the Remote Assist HoloLens user’s space.
 
 > [!Note]
-After adding them, files can’t be moved, deleted, or resized by the Teams user.
+> After adding them, files can’t be moved, deleted, or resized by the Teams user.
 
 To access the file after the call: 
 
