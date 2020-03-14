@@ -34,6 +34,11 @@
       "source_path": "mr-docs/remote-assist/user-guide.md",
       "redirect_url": "overview-hololens",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/index.md",
+      "redirect_url": "ra-overview",
+      "redirect_document_id": "false"
     }
   ]
 }
