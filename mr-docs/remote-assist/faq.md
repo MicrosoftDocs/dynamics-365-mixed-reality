@@ -233,7 +233,7 @@ Limitations that may hinder accurate understanding of surfaces or facilitate in 
 * **Can I make or be in a group call?** No. 
 
 
-Still need help? Try our [user forums](https://community.dynamics.com/365/remoteassist). 
+Still need help? Try our [user forums](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Ideas portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist).
 
 ### See also
 - [Overview of Dynamics 365 Remote Assist](index.md)
