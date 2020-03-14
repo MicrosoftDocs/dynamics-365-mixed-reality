@@ -72,7 +72,7 @@ When you see an incoming call notification in the bottom right of your screen, s
 ### Make a one-to-one call to a Remote Assist user in your company	
 After launching Teams, select the **Calls** tab on your left to see suggested contacts. Select the **Video** icon on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
 
->![Note]
+>[!Note]
 > Teams desktop users are not able to record a one-to-one call. To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the [Meet Now feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#make-and-record-a-one-to-one-call-with-a-remote-assist-hololens-user-using-the-meet-now-feature).
 
 
@@ -80,7 +80,7 @@ After launching Teams, select the **Calls** tab on your left to see suggested co
 
 You can make or receive a one-to-one call with a Remote Assist user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see [Set up cross-company calling](cross-company-calling.md). When searching for the external user, you must enter their full email address. 
 
->![Note]
+>[!Note]
 > If you're not able to find the contact you're looking for, it might be because external access has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help.  
 
 ### Make a group call (with a Remote Assist HoloLens user only)
@@ -108,7 +108,7 @@ If a Remote Assist user was not invited to the meeting, but you would like them 
 
 Teams tries to anticipate what you’ll want to see in a meeting, but you can [pin a video, reframe a video, and more]( https://support.office.com/article/adjust-your-view-in-a-teams-meeting-9825091c-0e7d-4c2b-95f5-eba644f19175).
 
->![Note]
+>[!Note]
 > At this time, when you use Teams to capture a cloud-based recording of the call, Teams does not preserve the view you configure. The layout of the recording is determined by the number of call participants. See two examples below.
 
 *Example of a Teams recoding of call with two participants:*
@@ -150,7 +150,7 @@ the video stream and enter edit mode:
 
 -   Select **Start editing**.
 
->![Note]
+>[!Note]
 > By default, the Mixed Reality toolbar is on the top of your screen. If it is blocking your view and you'd like to move it somewhere else, select the drag icon (as seen here: ![Graphic showing the drag icon.](media/PC_Drag.png)) and drag the Mixed Reality toolbar where you would like it to be.
 
 In edit mode, the expert will still see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
@@ -221,7 +221,7 @@ To share your desktop or a running application:
    
 2. Select the screen you want to share.
 
-> [!NOTE]
+> [!Note]
 > You can only share one application or screen at a time. If you want to share a different screen, select the **Close share tray** icon to stop sharing, select a different screen, and then start sharing again.
 
 
@@ -271,7 +271,7 @@ If your admin has configured Field Service integration, you can access the recor
 
 The layout of the Teams recording depends on the number of call participants, and the layout cannot be configured. When using Teams to record the call, the Remote Assist HoloLens user’s never occupies the entire recording. 
 
->![Note]
+>[!Note]
 >If it is imperative that your recording only captures as much of the Remote Assist HoloLens user’s view as possible, and as little of Teams user’s outgoing videos (or avatars), consider recording your desktop screen using Windows Gamebar. 
 
 #### Teams recording with two participants
@@ -321,7 +321,7 @@ You can find all the videos you own [here]( https://msit.microsoftstream.com/stu
 
 If your admin has configured Dynamics 365 Field Service integration, you can access the recording link and can post it to a Field Service booking.
 
->![Note]
+>[!Note]
 >If, after reviewing the alternative methods below, you decide that this method best fits your requirements, remember that the recording only captures the middle section of the HoloLens users view. This means that for the tasks that the Remote Assist user and expert really want recorded, the Remote Assist user should try to keep those tasks in the center of the HoloLens user’s view.   
 
 
