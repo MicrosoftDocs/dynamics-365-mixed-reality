@@ -60,7 +60,7 @@ You can also take a photo of what you see using the Camera icon, as seen here: !
 
 Finally, place the call window wherever you want in your world by toggling **Pin** and **Unpin** ![Pin](media/RAHL_Pin.png "Pin"). 
 
-Remote Assist supports different languages on HoloLens 1 versus HoloLens 2. Check if your language is supported in Remote Assist here [link to FAQ page].
+Remote Assist supports different languages on HoloLens 1 versus HoloLens 2. Check if your language is supported in Remote Assist in [our FAQs](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-is-dynamics-365-remote-assist-hololens-available-in).
 
 > [!Note]
 > Remote Assist on HoloLens 1 and HoloLens 2 offer the same capabilities. However, HoloLens 1 gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens 1 gestures](https://docs.microsoft.com/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](https://docs.microsoft.com/hololens/hololens2-basic-usage) before reading the rest of this document.

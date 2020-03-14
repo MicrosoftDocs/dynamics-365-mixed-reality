@@ -54,13 +54,13 @@ The **More Options** panel includes additional features.
 
 Launch the Teams app.
 
-    > [!IMPORTANT]
-    > If this is the first time the expert has launched [!include[pn-teams](../includes/pn-teams.md)] and the expert has not been invited to any other teams, [!include[pn-teams](../includes/pn-teams.md)] will automatically take the expert to the correct place. If the expert has been invited to other teams, the expert might need to switch to the appropriate tenant.  
-    >     
-    > To switch tenants, in the drop-down menu in the upper-right corner of the window, select the appropriate guest tenant.
+> [!IMPORTANT]
+> If this is the first time the expert has launched [!include[pn-teams](../includes/pn-teams.md)] and the expert has not been invited to any other teams, [!include[pn-teams](../includes/pn-teams.md)] will automatically take the expert to the correct place. If the expert has been invited to other teams, the expert might need to switch to the appropriate tenant.  
+>     
+> To switch tenants, in the drop-down menu in the upper-right corner of the window, select the appropriate guest tenant.
        
-    > [!NOTE]
-    > [!include[pn-teams](../includes/pn-teams.md)] might take a few seconds to reload.
+> [!NOTE]
+> [!include[pn-teams](../includes/pn-teams.md)] might take a few seconds to reload.
     
 
 
@@ -73,8 +73,8 @@ When you see an incoming call notification in the bottom right of your screen, s
 After launching Teams, select the **Calls** tab on your left to see suggested contacts. Select the **Video** icon on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
 
 >[!Note]
-> Teams desktop users are not able to record a one-to-one call. To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the [Meet Now feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#make-and-record-a-one-to-one-call-with-a-remote-assist-hololens-user-using-the-meet-now-feature).
-
+> Teams desktop users are not able to record a one-to-one call. To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the [Meet Now feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#cloud-based-recording-of-one-to-one-calls-using-teams-meet-now).
+ 
 
 ### Make a one-to-one call to a Remote Assist user outside your company	
 
@@ -120,7 +120,7 @@ Teams tries to anticipate what you’ll want to see in a meeting, but you can [p
 
 If you want the recording to capture the exact layout of the call you configure, use the Windows Game Bar to capture a screen recording of your computer.
 
-For more information, visit [our article on recording calls](record-calls-hololens.md). 
+Learn more about the Windows Game Bar [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#desktop-screen-recording-using-windows-game-bar).
 
 ## Use call controls
 

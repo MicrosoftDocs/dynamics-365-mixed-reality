@@ -17,7 +17,7 @@ To open the chat window and enter a message:
 
 - Select **Chat icon** (as seen here: ![Graphic showing the open chat icon.](media/RAHL_Text.png )), or say "Remote Assist, Open Chat."
 - Select the text preview field at the bottom of the chat window. This will bring up the holographic keyboard. Then:
-  - Select characters in the holographic keyboard. You can directly tap each key.
+  - Select characters in the holographic keyboard. If you’re on HoloLens 2, you can directly tap each key.
   - Select **Microphone**, and then dictate your message. HoloLens will convert the message into text.
   - Connect a Bluetooth keyboard directly to the HoloLens and type your message.
   - Select **Send**. 

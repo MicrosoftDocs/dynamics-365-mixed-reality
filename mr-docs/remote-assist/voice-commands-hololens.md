@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 # Complete list of voice commands for Dynamics 365 Remote Assist on HoloLens
 
 
-In many cases, you can use voice commands and gaze instead of gestures. Some voice commands are contextual, so they only work in particular areas of the user interface. For example, “Start inking” only works if the Ink tool is already active.”) You can also look at any button and say “Select.”
+In many cases, you can use voice commands and gaze instead of gestures. Some voice commands are contextual, so they only work in particular areas of the user interface. For example, “Start inking” only works if the ink tool is already active.” You can also look at any button and say “Select.”
 
 At this time, voice commands and speech recognition are [available in specific languages for Hololens](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for).
 
