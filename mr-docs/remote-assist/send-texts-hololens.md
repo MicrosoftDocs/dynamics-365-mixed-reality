@@ -38,7 +38,7 @@ To scroll up in the chat:
   -	If the chat window is out of your reach, air tap and hold on the content and then move your hand ray up and down or side to side.
 
 
-> ![Note]
+> [!Note]
 > If a message is sent from another user when the chat window isn’t open, a red dot will appear on the **Chat icon**, but your chat window will not automatically open.
 
 During a Remote Assist call, you will only see text messages and links to snapshots sent during the call. After a call ends, you can access the text messages and links in Microsoft Team's chat log. 
