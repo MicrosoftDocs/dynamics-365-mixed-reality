@@ -1,11 +1,11 @@
 ---
 author: robutter
-description: Convert CAD drawings so that you can use them as holograms for 3D parts in Microsoft Dynamics 365 Guides
+description: Convert 3D models to use as holograms for 3D parts in Microsoft Dynamics 365 Guides
 ms.author: robutter
 ms.date: 03/16/2020
 ms.service: crm-online
 ms.topic: article
-title: Convert CAD drawings to use them as holograms for Dynamics 365 Guides
+title: Convert 3D models to use as holograms in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
