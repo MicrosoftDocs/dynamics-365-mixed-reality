@@ -53,7 +53,7 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 
 3. Select the check box for the **Dynamics 365 Guides Operator** role, and then, at the top of the page, select **More Actions \> Copy Role**. By copying the role, you ensure that your changes won't be overwritten the next time that the Guides solution is updated.
 
-    ![Copy the role](media/access-teams-3.jpg "Copy the role")
+    ![Copy the role](media/access-teams-3.PNG "Copy the role")
 
 4. Name the new role **Dynamics 365 Guides Restricted Operator**, and then select **OK**.
 
