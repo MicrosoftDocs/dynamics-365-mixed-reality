@@ -132,7 +132,7 @@ A user can be associated with more than one access team.
 
 4. On the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
 
-    ![New team settings](media/access-teams-16.PNG "New team settings")
+    ![New team settings](media/access-teams-16.jpg "New team settings")
 
 5. To add users to the team, select the plus sign (**+**) next to the **Team members** list.
 
