@@ -53,7 +53,7 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 
 3. Select the check box for the **Dynamics 365 Guides Operator** role, and then, at the top of the page, select **More Actions \> Copy Role**. By copying the role, you ensure that your changes won't be overwritten the next time that the Guides solution is updated.
 
-    ![Copy the role](media/access-teams-3.PNG "Copy the role")
+    ![Copy the role](media/access-teams-3.jpg "Copy the role")
 
 4. Name the new role **Dynamics 365 Guides Restricted Operator**, and then select **OK**.
 
@@ -132,11 +132,11 @@ A user can be associated with more than one access team.
 
 4. On the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
 
-    ![New team settings](media/access-teams-16.PNG "New team settings")
+    ![New team settings](media/access-teams-16.jpg "New team settings")
 
 5. To add users to the team, select the plus sign (**+**) next to the **Team members** list.
 
-    ![Plus sign button](media/access-teams-17.PNG "Plus sign button")
+    ![Plus sign button](media/access-teams-17.jpg "Plus sign button")
 
 6. Enter the name of the user that you want to add, select the **Search** button, and then select the user's name.
 
