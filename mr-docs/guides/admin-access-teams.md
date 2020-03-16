@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use access teams to limit access to specific guides or guide content in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 03/13/2020
+ms.date: 03/16/2020
 ms.service: crm-online
 ms.topic: article
 title: Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides
