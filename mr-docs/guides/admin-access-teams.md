@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use access teams to limit access to specific guides or guide content in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 03/13/2020
+ms.date: 03/16/2020
 ms.service: crm-online
 ms.topic: article
 title: Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides
@@ -132,11 +132,11 @@ A user can be associated with more than one access team.
 
 4. On the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
 
-    ![New team settings](media/access-teams-16.PNG "New team settings")
+    ![New team settings](media/access-teams-16.jpg "New team settings")
 
 5. To add users to the team, select the plus sign (**+**) next to the **Team members** list.
 
-    ![Plus sign button](media/access-teams-17.PNG "Plus sign button")
+    ![Plus sign button](media/access-teams-17.jpg "Plus sign button")
 
 6. Enter the name of the user that you want to add, select the **Search** button, and then select the user's name.
 
