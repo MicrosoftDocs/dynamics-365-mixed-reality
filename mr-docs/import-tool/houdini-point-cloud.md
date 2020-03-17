@@ -132,7 +132,7 @@ Sometimes when you import a point cloud, it will have the wrong orientation. You
 
 1.	To add a transform node, right-click inside the **Geometry** pane to open the **TAB Menu**, and then select **Manipulate > Transform**.
 
-    ![Manipulat > Transform command](media/houdini-11-manipulate-transform.PNG "Manipulate > Transform command")
+    ![Manipulate > Transform command](media/houdini-11-manipulate-transform.PNG "Manipulate > Transform command")
 
 2.	To link the **transform1** node and the **file1** node, drag the dot on the bottom of the **file1** node to the dot on the top of the **transform1** node. Then click the right side of the **transform1** node. Doing this will turn it blue and set the **View** window to the **transform1** node so you can see your model after it has been re-oriented. 
 
