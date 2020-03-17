@@ -15,13 +15,13 @@ This tutorial provides step-by-step instructions that show you how to:
 
 - Convert a [point cloud](https://aka.ms/pointCloudDef) into a 3D model. 
 
-- Optimize a 3D model by reducing the polygon count so that it matches [performance targets for Dynamics 365 mixed reality applications](optimize-models#performance-targets).
+- Optimize a 3D model by reducing the polygon count so that it matches [performance targets for Dynamics 365 mixed reality applications](optimize-models.md#performance-targets).
 
 - Export an optimized 3D model as a .GLB file that can be used in Dynamics 365 mixed reality applications.
 
 - Create a processing pipeline template so you can quickly optimize point clouds in the future.
 
-This document is created strictly for information purposes to demonstrate how SideFX Houdini works with Microsoft Dynamics 365 mixed reality applications. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor SideFX or any of SideFX’s products. There are several other [content-creation applications that you can use to prepare your 3D models](convert-models#tools-for-exporting-cad-models). 
+This document is created strictly for information purposes to demonstrate how SideFX Houdini works with Microsoft Dynamics 365 mixed reality applications. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor SideFX or any of SideFX’s products. There are several other [content-creation applications that you can use to prepare your 3D models](convert-models.md#tools-for-exporting-cad-models). 
 
 ## What is Houdini?
 
