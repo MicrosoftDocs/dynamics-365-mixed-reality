@@ -12,9 +12,9 @@ ms.reviewer: krbjoran
 # Display a file and save shared files to OneDrive or your work order
 
 During your repair or inspection, you and your collaborators may want to view, refer to, and annotate an image or PDF. 
-For example, a remote collaborator can share a reference image so you better understand what an asset should look like after you've sucessfully repaired it. You can share a PDF of instructions you were following before you called a remote collaborator.
+For example, a remote collaborator can share a reference image to help you better understand what an asset should look like after you've sucessfully repaired it. You can show remote collaborators a PDF of instructions you were following before you called a remote collaborator.
 
----You can both annotate the file, just as you would annotate any physical object.
+After the file appears in your space, any call participant can annotate the file, just as they would annotate any physical object.
 
 ## Display a OneDrive file in your space
 
