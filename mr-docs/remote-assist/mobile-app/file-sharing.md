@@ -21,20 +21,26 @@ If you're a Dynamics 365 Field Service customer, the files shared during your Re
 1. The technician must select the **text chat** to start sharing files to the remote collaborator. 
 
 2. In the text chat, the technician is presented with the **Attachment** and **Image** icons. 
+![Icons](./media/filesicons.PNG "Icons")
 
-3. If the technician selects the **Image** icon, the technician gets the option to choose to **select images** from the mobile device's Photo Gallery or Files apps. 
-> [!Note] 
-> For iOS, the technician is presented with the Photos app directly. On Android, it can either be a Photo Gallery or a Menu to choose which app to use as your picture chooser.
-
-4. If the technician selects the **Attachment** icon, an option of files from the technician's local device will be displayed. 
+3. If the technician selects the **Attachment** icon, an option of files from the technician's local device will be displayed. 
 > [!Note]
 > For iOS, the technician is presented with the Files app directly. On Android, it can either be a File chooser or a Menu to choose which app to use as a file chooser.
 
-5. The technician selects the file or image to send to the remote collaborator. The technician can select up to 4 images at a time. The technician will see the uploading progress until it's ready to be sent. 
+4. The technician selects the files to send to the remote collaborator. The technician can select up to 5 images at a time. The technician will see the uploading progress until it's ready to be sent. 
+![Upload](./media/filesprogress.PNG "Upload")
 
-6. Select **send**.
+5. If the technician selects the **Image** icon, the technician gets the option to choose to **select images** from the mobile device's Photo Gallery or Files apps. 
+> [!Note] 
+> For iOS, the technician is presented with the Photos app directly. On Android, it can either be a Photo Gallery or a Menu to choose which app to use as your picture chooser.
 
-7. The file link or image preview is sent to the collaborator through OneDrive, which sets the permission to share the file with the remote collaborator. Afterwards, the remote collaborator on Teams receives a link to the document in OneDrive in the Microsoft Teams text chat. The remote collaborator has full access to the document. 
+6. If all of the files are not successfully uploaded in the chat, the technician can select the **Arrow** and retry downloading the unsuccessful files or remove any files. 
+![Retry](./media/files_fail.PNG "Retry")
+
+7. Select **send**.
+
+8. The file link or image preview is sent to the collaborator through OneDrive, which sets the permission to share the file with the remote collaborator. Afterwards, the remote collaborator on Teams receives a link to the document in OneDrive in the Microsoft Teams text chat. The remote collaborator has full access to the document. 
+![Preview](./media/files_view.PNG "Preview")
 
 ### Receiving files 
 1. In the text chat, the technician selects the file's link or image preview to open it and view larger and they are automatically downloaded to the device's Downloads folder. 
