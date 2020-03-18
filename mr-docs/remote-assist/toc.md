@@ -39,6 +39,7 @@
 ### [Send chat messages](mobile-app/send-chat-messages.md)
 ### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
+### [Provide feedback](mobile-app/provide-feedback.md)
 
 ## Collaborate in Microsoft Teams with Remote Assist users 
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
