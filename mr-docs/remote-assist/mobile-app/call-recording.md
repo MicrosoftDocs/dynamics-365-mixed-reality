@@ -17,10 +17,18 @@ This feature is only available in calls between **two participants** with **Remo
 
 ## How it works
 1.	The technician selects the record button to start the call recording. 
-
-2.	The technician will receive a dismissible privacy notification with Microsoft’s privacy policy and the call recording will be started.  
-
+###
+![Start](./media/recorder_1.png "Start Recording")
+###
+2.	The technician will receive a dismissible privacy notification with Microsoft’s privacy policy and the call recording will be started. 
+###
+![Privacy Notif](./media/recorder_2.png "Privacy Notif")
+###
 3. During all parts of the call, the technician will be aware that the call recording is in progress as seen in the call recording indicator in the text chat. 
-
+###
+![Indicator](./media/recorder_3.png "Indicator")
+###
 4.	The technician can select the record button to stop the call recording at any point in their call. Afterwards, both call participants will receive a dismissible notification that the call recording will be available in Microsoft Stream. Once the call recording has been uploaded to Microsoft Stream, both participants can access it through the Remote Assist for mobile call text chat, Microsoft Teams text chat, or on the Microsoft Stream webpage. 
-
+###
+![End](./media/recorder_4.png "End Recording")
+###
