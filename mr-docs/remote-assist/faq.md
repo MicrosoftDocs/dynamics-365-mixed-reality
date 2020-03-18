@@ -11,11 +11,11 @@ ms.reviewer: krbjoran
 
 # Dynamics 365 Remote Assist frequently asked questions
 
-
 Here are some answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], which is available on HoloLens 1, HoloLens 2, and [AR-capable mobile phones and tablets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
-If you encounter an issue that blocks you from using the application, [file a support ticket](https://support.microsoft.com/hololens). Support will work directly with you and communicate daily until the issue is resolved.  
+In general, you can request help using our [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist). 
 
+This document also includes device-specific ways to provide file a bug, request help, and provide feedback.
 
 ## Can I try the app before buying it?
 
@@ -169,13 +169,9 @@ If you’re having trouble signing in to [!include[pn-dyn-365-remote-assist](../
 
 - Check with your administrator to make sure your device and network are set up to work with [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
-### Is group calling available in Dynamics 365 Remote Assist on HoloLens?
-
-Yes, group calling is available starting in the April 2020 release of [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]. Up to 50 people can be on the same video call.
-
 ### What file formats does the Insert file feature support?
 
-The **Insert file** feature supports most image formats (JPG, GIF, PNG) and PDFs.
+The **Insert file** feature supports most image formats (JPG, GIF, PNG, BMP, TIFF) and PDFs.
 
 ### Can I share files from SharePoint on Dynamics 365 Remote Assist?
 
@@ -207,6 +203,47 @@ To improve hologram stability, complete eye calibration.
 - To complete eye calibration on HoloLens 1, [manually start the calibration process]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-1st-gen). 
 - HoloLens 2 will prompt you to calibrate the device under several circumstances. [Complete eye calibration]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds. 
 
+### How do I file a support ticket?
+
+If you encounter an issue that blocks you from using the application and you do not see an answer on our [user forum], (https://community.dynamics.com/365/remoteassist), please [file a support ticket]( https://support.microsoft.com/hololens). Support will work directly with you and communicate daily until the issue is resolved.  
+
+### How do I report a bug?
+
+If you encounter an issue, use the HoloLens Feedback Hub to let us know so we can resolve it in future releases.
+
+There are two ways to get to the HoloLens Feedback Hub application to report a bug. 
+
+1. From the **Start menu**: At any time, you can go to the **Start menu** and launch **Feedback Hub**. 
+2. From Remote Assist: If you just ended a call and are looking at the **Recent Contacts** page, select **Settings** in the top-right corner. Select the **Links** tab, and in the **Links** section, select **Feedback Hub** to launch **Feedback Hub**. 
+
+![Screenshot of the Links tab in the HoloLens settings screen.](media/RAHL_SettingsLinks.png)
+
+When you're in the HoloLens Feedback Hub: 
+
+1. From the home tab (represented by this icon![Graphic showing the home icon](media/RAHL_FeedbackHubHome.png), select **Report a problem**, as seen in the following screenshot.
+
+![Screenshot of the "Report a problem" option, represented by a bug-looking icon.](media/RAHL_FeedbackHubReport.png)
+
+1. In the **Enter your feedback** section, summarize your feedback. To type, tap the text field and a holographic keyboard will appear. Then, select **Next**. To edit your response to any step after you’ve chosen **Next**, select **Edit**, which is to the top right of the text field. 
+2. In the **Choose a category** section, categorize the issue using "Apps" and "Microsoft Remote Assist." To select an item in the drop-down menu, select the menu.
+   - If you're using HoloLens 1, scroll by gazing at the content of the app window. Tap and hold and then move your hand slightly upwards or downwards to scroll the content.
+   - If you're using HoloLens 2, scroll by placing your finger on the drop-down menu and move your finger up and down, as you would on a touch screen device. 
+
+![Screenshot showing the Choose a category section of the Feedback Hub.](media/RAHL_FeedbackHubChooseCategory.png)
+
+1. In the **Find similar feedback** section, select "Make new bug."
+2. In the **Additional details** section:
+   - Optionally select "Consider this a blocking issue."  
+   - Categorize your problem.
+3. Select **Recreate your problem**:
+   - Select **Start recording**.
+   - Use the start menu to launch Remote Assist and replicate the issue.
+   - When you're finished replicating the issue, use the start menu to return to **Feedback Hub**.
+   - Select **End recording**.
+   - Diagnostic data, a video, and audio from the recording will be attached. You may remove each one if you want to. 
+
+> [!Note]
+> Optionally, check the "This is blocking me" box if the issue is blocking you from completing your work or tasks. 
 
 
 ## Using Remote Assist on mobile  
@@ -232,8 +269,26 @@ Limitations that may hinder accurate understanding of surfaces or facilitate in 
 * **Can I make calls to a Teams mobile user?** No. However, Remote Assist mobile to Remote Assist mobile calling is on our backlog.
 * **Can I make or be in a group call?** No. 
 
+## How do I provide feedback?
 
-Still need help? Try our [user forums](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Ideas portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist).
+Technicians can provide feedback or make requests directly in the Remote Assist mobile app. The Remote Assist mobile team values your feedback and strives to make significant improvements to the app.
+
+### Provide feedback customer scenario
+1.	Select the **Main Menu** icon.
+
+![Screenshot of Remote Assist mobile, showing the Main Menu icon highlighted.](./media/mainmenu.png "Main Menu")
+
+2.	Select **Feedback**. 
+
+>[!Note]
+> To provide feedback, you'll need to have the native iOS Mail app set up if you're on an iPhone. On Android devices, you'll be able to select which mail app you'd like to open.
+
+![Screenshot of Remote Assist mobile, showing the Feedback option in the menu.](./media/feedback.png "Feedback")
+
+3.	Provide your feedback.
+
+>[!Note]
+> Remote Assist mobile users can also provide feedback to our team in the [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist) for Remote Assist or in the [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/list/?category=81a97e52-9c54-e911-a963-000d3a4f33c1&forum=4323c621-52bc-e811-a975-000d3a1bec70) for Remote Assist mobile.
 
 ### See also
 - [Overview of Dynamics 365 Remote Assist](index.md)
