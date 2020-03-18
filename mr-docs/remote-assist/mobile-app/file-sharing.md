@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 
 Remote Assist for mobile provides technicians and remote collaborators with document sharing capabilities. Sharing documents promotes seamless collaboration during a call by adding more context and information, such as visual aids and schematics, to the technicians’ environment. This facilitates technicians having richer conversations with remote collaborators and, ultimately, solve their problems quickly and efficiently.  
  
-Both the technician and remote collaborators can send **any** file type to each other. This includes .jpg, .png, .tiff, .mp4, .pdf, .docx, .xlsx, .txt, and .apk files. They can upload files and images from their local device or OneDrive. In order for technicians to open and access these different file types, they will need the corresponding app that supports the file type.  
+Both the technician and remote collaborators can send **any** file type to each other. This includes, but is not limited to .jpg, .png, .tiff, .mp4, .pdf, .docx, .xlsx, .txt, and .apk files. They can upload files and images from their local device or OneDrive. In order for technicians to open and access these different file types, they will need the corresponding app that supports the file type.  
 
 If you're a Dynamics 365 Field Service customer, the files shared during your Remote Assist for mobile call can be linked to your work order, learn more [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
 
@@ -23,7 +23,7 @@ If you're a Dynamics 365 Field Service customer, the files shared during your Re
 2. In the text chat, the technician is presented with the **Attachment** and **Image** icons. 
 ![Icons](./media/filesicons.PNG "Icons")
 
-3. If the technician selects the **Attachment** icon, the technician is gets the option to choose to**select files** from the mobile device's File chooser or Files app. 
+3. If the technician selects the **Attachment** icon, the technician is gets the option to choose to **select files** from the mobile device's File chooser or Files app. 
 > [!Note]
 > For iOS, the technician is presented with the Files app directly. On Android, it can either be a File chooser or a Menu to choose which app to use as a file chooser.
 
@@ -45,7 +45,8 @@ If you're a Dynamics 365 Field Service customer, the files shared during your Re
 ### Receiving files 
 1. Once the remote collaborator sends a file or image to the technician, the techniciancan select the file's link or image preview to open it and view larger. The file or image is **automatically downloaded** to the mobile device's **Downloads** folder. The technician can view the file in the Downloads folder. 
 
-2. If the technician selects the remote collaborator's **image** preview, the image now takes up the technician's mobile device screen. 
+2. If the technician selects the remote collaborator's **image** preview, the default application will open the image. If there are more than one app that supports this file type, then there will be a menu to choose the application to open the image. 
 
-3. If the technician selects the remote collaborator's **file that is not a .jpg, .png, or .tiff** and the technician has an app that can open this file type, the technician can view the file in the app. The technician now has full access to the file. 
-If the technician **does not** have an app that can open this file type, the technician cannot view the file. The technician is still prompted on how to open this file and the technician may download the corresponding app to open the file.  
+3. If the technician selects the remote collaborator's **file** and the technician has an app that can open this file type, the default application will open the file. If there are more than one app that supports this file type, then there will be a menu to choose the application to open the image. 
+ 
+If the technician **does not** have an app that can open this file type, the technician cannot view the file. The technician is still prompted on how to open this file and the technician may download the corresponding app to open the file.
