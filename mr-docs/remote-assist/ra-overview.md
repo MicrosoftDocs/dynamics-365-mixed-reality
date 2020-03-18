@@ -11,7 +11,7 @@ ms.reviewer: kjbjoran
 
 # Overview of Dynamics 365 Remote Assist
 
-With heads-up, hands-free video calling on Microsoft HoloLens, technicians can collaborate with remote collaborators on a PC or mobile device to troubleshoot issues in context.
+Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist on HoloLens, Android, or iOS devices.
 
 ![Simulated real-life photo of a field technician wearing a HoloLens and communicating with a remote expert.](media/RA_official_photo.png)
 
