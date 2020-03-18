@@ -26,7 +26,7 @@ This feature is only available in calls between **two participants** with **Remo
 ###
 3. During all parts of the call, the technician will be aware that the call recording is in progress as seen in the **call recording indicato** in the text chat. 
 ###
-![Indicator](./media/rec_inchat.PNG "Indicator")
+![Indicator](./media/textchatrecorder.PNG "Indicator")
 ###
 4.	The technician can select the record button to **stop** the call recording at any point in their call. Afterwards, both call participants will receive a dismissible notification that the call recording will be available in Microsoft Stream. Once the call recording has been uploaded to Microsoft Stream, both participants can access it through the Remote Assist for mobile call text chat, Microsoft Teams text chat, or on the Microsoft Stream webpage. 
 ###
