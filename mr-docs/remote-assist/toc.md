@@ -38,6 +38,7 @@
 ### [Annotate your environment](mobile-app/annotate-your-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
+### [Share files](mobile-app/file-sharing.md)
 ### [Record calls](mobile-app/call-recording.md)
 ### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
