@@ -3,34 +3,38 @@ title: Record calls in Dynamics 365 Remote Assist on HoloLens
 author: sophiasysun
 description: Use cloud-based recording or several other alternatives in Dynamics 365 Remote Assist on HoloLens
 ms.author: sopsun
-ms.date: 03/15/2020
+ms.date: 03/18/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
 # Record calls in Dynamics 365 Remote Assist on HoloLens 
 
-Recording a call is great for training or record-keeping purposes.
+Recording a call is great for training or record-keeping purposes. Cloud-based recordings are automatically uploaded to Microsoft Stream. When the recording finishes uploading, all call participants can view the Stream link via the Teams chat.
 
-## Cloud-based recording   
+Please read about the layout of this type of call before deciding whether to record using this method.  
 
-Microsoft Teams desktop supports cloud-based call recording of group calls and meetings, while Microsoft Teams mobile supports cloud-based call recording of meetings only. Recordings are stored via Microsoft Stream. Once the video is uploaded to Stream, all call participants can view a link to Stream via the Teams chat.
+## Overview of cloud-based recording   
 
-Once you’re in a Remote Assist call, the best way to record the call is to ask a collaborator using Teams [desktop]( https://support.office.com//article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24) or [mobile]( https://support.office.com/en-us/article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24#ID0EAABAAA=Mobile) to record the call. 
+>[!Note] Starting in the April 2020 release, Remote Assist users can initiate a cloud-based recording of a one-to-one call with one Teams desktop user. 
+> If you are not using the April 2020 release or later, a one-to-one call can only be recorded if the Teams desktop user initiates the call using the Meet Now feature.
+
+The following chart explains which call participant can initiate a cloud-based call recording in each type of call:
+
+|            | Who records in a call between<br>Remote Assist HoloLens & Teams Desktop? | Who records in a call between<br>Remote Assist HoloLens & Teams mobile? |
+| ---------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| 1:1 call   | After April 2020 release, Remote Assist HoloLens. Before April 2020 release, the Teams desktop must use the Teams Meet Now feature to initiate the call and begin recording                                                 | No one                                                                  |
+| Group call | Teams desktop                                                            | No one                                                                  |
+| Meeting    | Teams desktop                                                            | Teams mobile                                                            |
+
+Learn more about using [Teams desktop]( https://support.office.com//article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24) or [Teams mobile]( https://support.office.com/en-us/article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24#ID0EAABAAA=Mobile) to record the call. 
+
 
 > [!Note]
-> A Teams desktop user can only record meetings and group calls, not one-to-one calls. A Teams mobile user can only record meetings, not group calls or one-to-one calls. 
- 
-When a Teams user starts recording, everyone will be notified that the recording has started. 
-
-When the call ends, or when a Teams user ends the recording, the recording will be uploaded to Stream. After a few minutes, the person who started the recording ("the recorder" for the purposes of this article) will receive an email from Stream when the recording is available. All call participants can view a link to Stream via the Teams chat.
-
+> The recorder is the owner of the video. The owner needs to [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) the video to share the recording beyond these people.  
 
 > [!Note]
-> The recorder is the owner of the video; the people in their org who were invited to the meeting are the viewers. The owner needs to [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) the video to share the recording beyond these people.  
-
-> [!Note]
->  At this time, a Teams desktop user can record a one-to-one call only if it is initiated using the **Meet Now** feature in the Teams Calendar tab. Learn more about it [in this video starting at 0:33](https://www.microsoft.com/videoplayer/embed/RWedV7?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us). A one-to-one call *cannot be recorded* if:
+>  **If you are not using the April 2020 release or later**, a cloud-based call recording can only be initiated if the Teams desktop user initiates the call using the **Meet Now** feature in the Teams Calendar tab. Learn more about it [in this video starting at 0:33](https://www.microsoft.com/videoplayer/embed/RWedV7?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us). A one-to-one call *cannot be recorded* if:
 > * The Remote Assist (HoloLens and mobile) user initiates the one-to-one call
 > * The Teams mobile user initiates the call  
 > *	The Teams desktop user initiates the call using the Teams Call tab
