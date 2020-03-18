@@ -23,29 +23,29 @@ If you're a Dynamics 365 Field Service customer, the files shared during your Re
 2. In the text chat, the technician is presented with the **Attachment** and **Image** icons. 
 ![Icons](./media/filesicons.PNG "Icons")
 
-3. If the technician selects the **Attachment** icon, an option of files from the technician's local device will be displayed. 
+3. If the technician selects the **Attachment** icon, the technician is gets the option to choose to**select files** from the mobile device's File chooser or Files app. 
 > [!Note]
 > For iOS, the technician is presented with the Files app directly. On Android, it can either be a File chooser or a Menu to choose which app to use as a file chooser.
 
-4. The technician selects the files to send to the remote collaborator. The technician can select up to 5 images at a time. The technician will see the uploading progress until it's ready to be sent. 
-![Upload](./media/filesprogress.PNG "Upload")
-
-5. If the technician selects the **Image** icon, the technician gets the option to choose to **select images** from the mobile device's Photo Gallery or Files apps. 
+4. If the technician selects the **Image** icon, the technician gets the option to choose to **select images** from the mobile device's Photo Gallery or Files app. 
 > [!Note] 
 > For iOS, the technician is presented with the Photos app directly. On Android, it can either be a Photo Gallery or a Menu to choose which app to use as your picture chooser.
 
-6. If all of the files are not successfully uploaded in the chat, the technician can select the **Arrow** and retry downloading the unsuccessful files or remove any files. 
+5. The technician can select up to **5 files or images** at a time to send to the remote collaborator. The technician will see the **uploading progress** until it's ready to be sent.
+![Upload](./media/files_progress.PNG "Upload")
+
+6. If some of the files or images are not successfully uploaded in the text chat, the technician can select the **retry icon** to upload it again or discard any files or images before sending. 
 ![Retry](./media/files_fail.PNG "Retry")
 
-7. Select **send**.
+7. Select the **send icon**.
 
-8. The file link or image preview is sent to the collaborator through OneDrive, which sets the permission to share the file with the remote collaborator. Afterwards, the remote collaborator on Teams receives a link to the document in OneDrive in the Microsoft Teams text chat. The remote collaborator has full access to the document. 
+8. Once sent, the **file link** and **image preview** is sent to the remote collaborator through **OneDrive**, which sets the permission to share the file. Afterwards, the remote collaborator on Microsoft Teams receives a link to the document in OneDrive in the Microsoft Teams text chat. The remote collaborator has full access to the files and images sent. 
 ![Preview](./media/files_view.PNG "Preview")
 
 ### Receiving files 
-1. In the text chat, the technician selects the file's link or image preview to open it and view larger and they are automatically downloaded to the device's Downloads folder. 
-2. If the file is an image, the image now takes up the technician's device screen. 
-3. If the file is not an image and if the technician has an app that can open this file type, the technician can view the file in the app. The user now has full access to the file. 
-4. If the file is not an image and if the technician does not have an app that can open this file type, the technician cannot view the file. We still ask the user how to open this file.  
-5. If there are any issues while downloading or opening the file, there is a pop-up notification stating the issue
+1. Once the remote collaborator sends a file or image to the technician, the techniciancan select the file's link or image preview to open it and view larger. The file or image is **automatically downloaded** to the mobile device's **Downloads** folder. The technician can view the file in the Downloads folder. 
 
+2. If the technician selects the remote collaborator's **image** preview, the image now takes up the technician's mobile device screen. 
+
+3. If the technician selects the remote collaborator's **file that is not a .jpg, .png, or .tiff** and the technician has an app that can open this file type, the technician can view the file in the app. The technician now has full access to the file. 
+If the technician **does not** have an app that can open this file type, the technician cannot view the file. The technician is still prompted on how to open this file and the technician may download the corresponding app to open the file.  
