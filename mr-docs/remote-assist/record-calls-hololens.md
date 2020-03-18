@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 
 Recording a call is great for training or record-keeping purposes. Cloud-based recordings are automatically uploaded to Microsoft Stream. When the recording finishes uploading, all call participants can view the Stream link via the Teams chat.
 
-Please read about the [layout](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/RAHL-4-1/mr-docs/remote-assist/record-calls-hololens.md#cloud-based-recording-layout) of this type of call before deciding whether to record using this method. You may also consider [alternative methods for recording](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/RAHL-4-1/mr-docs/remote-assist/record-calls-hololens.md#alternative-methods-for-recording).
+Please read about the [layout](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/RAHL-4-1/mr-docs/remote-assist/record-calls-hololens.md#cloud-based-recording-layout) of this type of call before deciding whether to record using this method. You may also consider [alternatives to cloud-based recordings](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/RAHL-4-1/mr-docs/remote-assist/record-calls-hololens.md#alternatives-to-cloud-based-recording).
 
 ## Overview of cloud-based recording   
 
