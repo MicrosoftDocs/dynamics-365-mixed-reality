@@ -33,7 +33,7 @@ Now that we have it enabled, let's see how integration with Field Service works 
 
 3. If you have **active bookings** assigned to you through Field Service, you'll see them listed. Select your booking and select **Post**.
 
-    ![Screenshot of Remote Assist mobile showing available bookings pulled in from Field Service.](./media/post_1.png "Select Booking")
+![Screenshot of Remote Assist mobile showing available bookings pulled in from Field Service.](./media/post_1.png "Select Booking")
 
 4. If you have no bookings assigned to your account, you can **Refresh** your screen or **Discard** your post.
 
