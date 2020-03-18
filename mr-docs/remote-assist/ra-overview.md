@@ -2,7 +2,7 @@
 author: sophiasysun
 description: An overview of Dynamics 365 Remote Assist
 ms.author: sopsun
-ms.date: 03/15/2020
+ms.date: 03/18/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview 
@@ -11,7 +11,7 @@ ms.reviewer: kjbjoran
 
 # Overview of Dynamics 365 Remote Assist
 
-With heads-up, hands-free video calling on Microsoft HoloLens, technicians can collaborate with remote experts on a PC or mobile device to troubleshoot issues in context.
+With heads-up, hands-free video calling on Microsoft HoloLens, technicians can collaborate with remote collaborators on a PC or mobile device to troubleshoot issues in context.
 
 ![Simulated real-life photo of a field technician wearing a HoloLens and communicating with a remote expert.](media/RA_official_photo.png)
 
@@ -77,8 +77,6 @@ Remote collaborators use Microsoft Teams on a PC or a mobile device.
 In addition to using Remote Assist to consult with remote collaborators and resolve issues faster, technicians and inspectors work even more effectively when they use Dynamics 365 Field Service to view their schedules, perform and track work orders, manage customer assets, and more. When Remote Assist and Field Service are integrated, technicians and inspectors can see bookings in Remote Assist and automatically attach relevant call details and artifacts to their booking. 
 
 ![Screenshot of the HoloLens field of view, showing recent contacts and a booking detail pane.](media/HL2-01.04-contacts-booking.png "FS")
-
-Learn more [here](https://docs.microsoft.com/dynamics365/field-service/remote-assist-hololens).
 
 ## Next steps
 
