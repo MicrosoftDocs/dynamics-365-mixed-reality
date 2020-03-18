@@ -16,7 +16,7 @@ With call recording, technicians can capture a comprehensive documentation of th
 This feature is only available in calls between **two participants** with **Remote Assist for mobile and Microsoft Teams desktop**. Only, the Remote Assist for mobile user can start and stop a call recording. 
 
 ## How it works
-1.	The technician selects the record button to start the call recording. 
+1.	The technician selects the record button to **start** the call recording. 
 ###
 ![Start](./media/rec_1.PNG "Start Recording")
 ###
@@ -24,11 +24,11 @@ This feature is only available in calls between **two participants** with **Remo
 ###
 ![Privacy Notif](./media/recorder_2.png "Privacy Notif")
 ###
-3. During all parts of the call, the technician will be aware that the call recording is in progress as seen in the call recording indicator in the text chat. 
+3. During all parts of the call, the technician will be aware that the call recording is in progress as seen in the **call recording indicato** in the text chat. 
 ###
 ![Indicator](./media/rec_inchat.PNG "Indicator")
 ###
-4.	The technician can select the record button to stop the call recording at any point in their call. Afterwards, both call participants will receive a dismissible notification that the call recording will be available in Microsoft Stream. Once the call recording has been uploaded to Microsoft Stream, both participants can access it through the Remote Assist for mobile call text chat, Microsoft Teams text chat, or on the Microsoft Stream webpage. 
+4.	The technician can select the record button to **stop** the call recording at any point in their call. Afterwards, both call participants will receive a dismissible notification that the call recording will be available in Microsoft Stream. Once the call recording has been uploaded to Microsoft Stream, both participants can access it through the Remote Assist for mobile call text chat, Microsoft Teams text chat, or on the Microsoft Stream webpage. 
 ###
 ![End](./media/recorder_4.png "End Recording")
 ###
