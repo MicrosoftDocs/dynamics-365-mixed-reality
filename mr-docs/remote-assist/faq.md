@@ -203,6 +203,15 @@ To improve hologram stability, complete eye calibration.
 - To complete eye calibration on HoloLens 1, [manually start the calibration process]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-1st-gen). 
 - HoloLens 2 will prompt you to calibrate the device under several circumstances. [Complete eye calibration]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds. 
 
+## Can I save call artifacts to a Field Service work order?
+
+Yes! If you opened a Field Service booking and then made a Remote Assist call, at the end of the call, you will be prompted to post the call log and files shared by remote collaborators to the work order associated with that booking.
+
+To view the call log and files, log into Field Service and select the work order. 2 new notes will have been created and attached to the work order. One note will include call log info. The other note will include and a link to each file in plain text. You can also edit the note to include the Stream link of the recorded call, which can be found in your Teams chat.
+
+Learn more about this feature [here](display-share-files.md).
+
+
 ### How do I file a support ticket?
 
 If you encounter an issue that blocks you from using the application and you do not see an answer on our [user forum], (https://community.dynamics.com/365/remoteassist), please [file a support ticket]( https://support.microsoft.com/hololens). Support will work directly with you and communicate daily until the issue is resolved.  
