@@ -61,8 +61,7 @@ Launch the Teams app.
        
 > [!NOTE]
 > [!include[pn-teams](../includes/pn-teams.md)] might take a few seconds to reload.
-    
-
+ 
 
 ## Make and take calls
 
@@ -73,9 +72,8 @@ When you see an incoming call notification in the bottom right of your screen, s
 After launching Teams, select the **Calls** tab on your left to see suggested contacts. Select the **Video** icon on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
 
 >[!Note]
-> Teams desktop users are not able to record a one-to-one call. To record a one-to-one call with a contact in your company or outside your company, a Teams desktop user must initiate the call using the Meet Now feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the [Meet Now feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#cloud-based-recording-of-one-to-one-calls-using-teams-meet-now).
+> Starting in the April 2020 release, Remote Assist users (HoloLens and mobile) can initiate a cloud-based recording of a one-to-one call with one Teams desktop user. If you are not using the April 2020 release or later, you can only record a one-to-one call with a Remote Assist HoloLens user if you initiate the call using the **Teams Meet Now** feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the [Meet Now feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#cloud-based-recording-of-one-to-one-calls-using-teams-meet-now).
  
-
 ### Make a one-to-one call to a Remote Assist user outside your company	
 
 You can make or receive a one-to-one call with a Remote Assist user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the admin for your organization, to set up external access, see [Set up cross-company calling](cross-company-calling.md). When searching for the external user, you must enter their full email address. 
@@ -117,10 +115,7 @@ Teams tries to anticipate what you’ll want to see in a meeting, but you can [p
 *Example of a Teams recording of call with more than four participants:*
 ![Screenshot showing five people in a Microsoft Teams call.](media/5call.png)
 
-
-If you want the recording to capture the exact layout of the call you configure, use the Windows Game Bar to capture a screen recording of your computer.
-
-Learn more about the Windows Game Bar [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#desktop-screen-recording-using-windows-game-bar).
+If you want the recording to capture the exact layout of the call you configure, use the Windows Game Bar to capture a screen recording of your computer. Learn more about the Windows Game Bar [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#desktop-screen-recording-using-windows-game-bar).
 
 ## Use call controls
 
@@ -233,10 +228,11 @@ You may want to record the Remote Assist call for documentation or record-keepin
 
 Teams desktop only supports recording group calls and meetings (regardless of how many call participants are in the meeting). In other words, when you are in a call, a Teams desktop user can use Teams to initiate a cloud-based recording only if the call is a group call or a meeting. (At this time, a HoloLens user cannot record the call.) 
 
-### Method 2: Cloud-based recording for one-to-one calls using Teams Meet Now feature
+### Method 2: Cloud-based recording for one-to-one calls using Teams Meet Now feature (if you are not using April 2020 or later release)
 
-So how do you record a one-to-one call? You will need to make your one-to-one call a meeting. In other words, if you anticipate wanting to use Microsoft Teams to create a cloud-based recording of a one-to-one call with a Remote Assist HoloLens user, initiate your call using the Teams **Meet Now** feature. This effectively makes your one-to-one call a meeting, and because Teams supports recording for meetings, you will be able record the call!
+In the April 2020 or later release, the Remote Assist user (HoloLens and mobile) can record a one-to-one call with one Teams desktop user. 
 
+However, if you're not using the April 2020 or later release and want to create a cloud-based recording of the call, you must initiate the call using the Teams **Meet Now** feature. This effectively makes your one-to-one call a meeting, and because Teams supports recording for meetings, you will be able record the call!
 
 ### Method 3: Desktop screen recording using Windows Game bar
 
