@@ -18,7 +18,7 @@ This feature is only available in calls between **two participants** with **Remo
 ## How it works
 1.	The technician selects the record button to start the call recording. 
 ###
-![Start](./media/recorderstart_.png "Start Recording")
+![Start](./media/rec_1.PNG "Start Recording")
 ###
 2.	The technician will receive a dismissible privacy notification with Microsoft’s privacy policy and the call recording will be started. 
 ###
