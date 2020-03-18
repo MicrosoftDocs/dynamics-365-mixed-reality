@@ -50,4 +50,4 @@ Now that we have it enabled, let's see how integration with Field Service works 
 
 7. You can go to the Field Service work order and view the call logs and files that have been posted from Remote Assist mobile. Then you can copy and paste the files URL in a new tab to view the files.  
 > [!NOTE] 
-> If someone viewing your Field Service work order wants to view the files, they must request permissions from you. 
+> If someone viewing your Field Service work order wants to view the files, that person must request access from you. 
