@@ -46,7 +46,12 @@
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
 ### [Collaborate with Remote Assist user via Teams on mobile](teams-mobile-all.md)
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
+
 ## Additional resources
+### Version history
+#### [Remote Assist](version-history.md)
+#### [Remote Assist mobile](version-history-remote-assist-mobile.md)
+
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
 ### [FAQ](faq.md)
