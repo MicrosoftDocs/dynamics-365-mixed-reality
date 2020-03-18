@@ -41,7 +41,6 @@ Buy Remote Assist licenses through your Microsoft 365 or Office 365 administrato
 4.	A list of services will appear. Search for or scroll down until you find **Dynamics 365 Remote Assist**.
 
 5.	Hover over the plan and two options will appear: **Start free trial** or **Buy now**. Select **Buy now**. Follow the next steps of the payment process. 
-![Screenshot showing the buy now option](./media/buy_5.png "Buy now")
  
 ## Option 2: Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers)
 
