@@ -11,9 +11,9 @@ ms.reviewer: krbjoran
 # Capture session history through call recordings 
 
 ###
-With call recording, technicians can capture a comprehensive documentation of their Remote Assist for mobile video calls with remote collaborators. Call recordings can be used as reference for follow-up work, validation that the maintenance and repair process was completed correctly, and training material for your workers.
+With call recording, technicians can capture a comprehensive documentation of their Remote Assist mobile video calls with remote collaborators. Call recordings can be used as reference for follow-up work, validation that the maintenance and repair process was completed correctly, and training material for your workers.
 
-This feature is only available in calls between **two participants** with **Remote Assist for mobile and Microsoft Teams desktop**. Only, the Remote Assist for mobile user can start and stop a call recording. 
+This feature is only available in calls between **two participants** with **Remote Assist mobile and Microsoft Teams desktop**. Only, the Remote Assist mobile user can start and stop a call recording. These call recordings will be uploaded to Microsoft Stream. 
 
 ## How it works
 1.	The technician selects the record button to **start** the call recording. 
@@ -28,7 +28,7 @@ This feature is only available in calls between **two participants** with **Remo
 ###
 ![Indicator](./media/textchatrecorder.PNG "Indicator")
 ###
-4.	The technician can select the record button to **stop** the call recording at any point in their call. Afterwards, both call participants will receive a dismissible notification that the call recording will be available in Microsoft Stream. Once the call recording has been uploaded to Microsoft Stream, both participants can access it through the Remote Assist for mobile call text chat, Microsoft Teams text chat, or on the Microsoft Stream webpage. 
+4.	The technician can select the record button to **stop** the call recording at any point in their call. Afterwards, both call participants will receive a dismissible notification that the call recording will be available in Microsoft Stream. Once the call recording has been uploaded to Microsoft Stream, both participants can access it through the **Remote Assist mobile call text chat**, **Microsoft Teams text chat**, or on the **Microsoft Stream webpage**. 
 ###
 ![End](./media/recorder_4.png "End Recording")
 ###
