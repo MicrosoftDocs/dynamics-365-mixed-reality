@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 
 Technicians can provide feedback or make requests directly in the Remote Assist mobile app. The Remote Assist mobile team values your feedback and strives to make significant improvements to the app.
 
-## Provide feedback customer scenario
+## How it works
 1.	Select the **Main Menu** icon.
 
 ![Screenshot of Remote Assist mobile, showing the Main Menu icon highlighted.](./media/mainmenu.png "Main Menu")
