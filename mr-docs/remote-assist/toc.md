@@ -26,8 +26,6 @@
 ### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
 ### [Close the app](close-app-hololens.md)
 ### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
-### [File a support ticket](file-support-ticket-hololens.md)
-### [Report a bug](report-a-bug-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
 ### [How-to-videos](videos.md)
 
@@ -40,12 +38,12 @@
 ### [Send chat messages](mobile-app/send-chat-messages.md)
 ### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
-### [Provide feedback](mobile-app/provide-feedback.md)
 
 ## Collaborate in Microsoft Teams with Remote Assist users 
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
 ### [Collaborate with Remote Assist user via Teams on mobile](teams-mobile-all.md)
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
+
 ## Additional resources
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
