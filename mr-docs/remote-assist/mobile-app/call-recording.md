@@ -24,7 +24,7 @@ This feature is only available in calls between **two participants** with **Remo
 ###
 ![Privacy Notif](./media/recorder_2.png "Privacy Notif")
 ###
-3. During all parts of the call, the technician will be aware that the call recording is in progress as seen in the **call recording indicato** in the text chat. 
+3. During all parts of the call, the technician will be aware that the call recording is in progress as seen in the **call recording indicator** in the text chat. 
 ###
 ![Indicator](./media/textchatrecorder.PNG "Indicator")
 ###
