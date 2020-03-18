@@ -22,19 +22,17 @@ By pairing the Dynamics 365 Remote Assist mobile application with Dynamics 365 F
 
 Now that we have it enabled, let's see how integration with Field Service works for Remote Assist mobile.
 
-1.	At the end of a Remote Assist mobile call, you are prompted to post your call metadata to your Field Service work order. Select **Post**.
+1.	At the end of a Remote Assist mobile call, you are prompted to post your call log, if no files are shared, to your Field Service work order. Select **Post**.
 
     ![Screenshot of Remote Assist mobile showing the option to post call information to a work order.](./media/fs_1.png "End Call")
 
-2.	If you have **active bookings** assigned to you through Field Service, you'll see them listed. Select your booking and select **Post**.
+2. If files are shared during your Remote Assist call, you will see a list with your call log and files that you can post to your Field Service work order. Select **Post**.
+
+3. If you have **active bookings** assigned to you through Field Service, you'll see them listed. Select your booking and select **Post**.
 
     ![Screenshot of Remote Assist mobile showing available bookings pulled in from Field Service.](./media/selectbooking.png "Select Booking")
 
-3.	You will return to the **Contact information** for the expert you just got off the call with.
-
-![Screenshot of Remote Assist mobile showing the contact information of the remote expert.](./media/fs_5.png "Booking")
-
-4.	If you have no bookings assigned to your account, you can **Refresh** your screen or **Discard** your post.
+4. If you have no bookings assigned to your account, you can **Refresh** your screen or **Discard** your post.
 
 ![Screenshot of Remote Assist mobile showing the option to refresh Dynamics 365.](./media/fs_6.png "No Bookings")
 
@@ -42,3 +40,9 @@ Now that we have it enabled, let's see how integration with Field Service works 
 ###
 ![Screenshot of Remote Assist mobile showing the Select an Instance screen](./media/Instance.png "Select Instance")
 ### 
+
+6.	You will return to the **Contact information** for the expert you just got off the call with.
+
+![Screenshot of Remote Assist mobile showing the contact information of the remote expert.](./media/fs_5.png "Booking")
+
+7. In your contact list, you will be notified that your call log and files have successfully been posted to your Field Service work order and you can sign in to your work order.
