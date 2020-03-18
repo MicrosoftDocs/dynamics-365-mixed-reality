@@ -25,11 +25,11 @@ Now that we have it enabled, let's see how integration with Field Service works 
 
 1.	At the end of a Remote Assist mobile call, you are prompted to post your call log, if no files are shared, to your Field Service work order. Select **Post**.
 
-![Call log](./media/postfs_1.png "Call log only")
+![Call log](./media/postfs_2.png "Call log")
 
 2. If files are shared during your Remote Assist call, you will see a list with your call log and files that you can post to your Field Service work order. Select **Post**.
 
-![List view](./media/postfs_2.png "Call log and Files")
+![List of files](./media/postfs_1.png "List view of files") 
 
 3. If you have **active bookings** assigned to you through Field Service, you'll see them listed. Select your booking and select **Post**.
 
@@ -48,8 +48,8 @@ Now that we have it enabled, let's see how integration with Field Service works 
 
 ![Screenshot of Remote Assist mobile showing the contact information of the remote expert.](./media/fs_5.png "Booking")
 
-7. In your contact list, you will be notified that your call log and files have successfully been posted to your Field Service work order and you can sign in to your work order.
+7. In your contact list, you will be notified when your call log and files have successfully been posted to your Field Service work order and then you can sign in to your work order.
 
 ![Notification](./media/postfs_3.png "End of call notification")
 
-8. The technician can go to the work order and find the call logs and files. They can copy and paste the files URL in a new tab to view the files.  
+8. You can go to the Field Service work order and view the call logs and files that have been posted to Remote Assist. Then you can copy and paste the files URL in a new tab to view the files.  
