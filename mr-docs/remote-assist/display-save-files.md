@@ -1,11 +1,11 @@
 ---
 author: sophiasysun
-description: Display a file and save shared files to OneDrive or your work order
+description: Display a file and save shared files to OneDrive or an open work order
 ms.author: sopsun
 ms.date: 03/18/20
 ms.service: crm-online
 ms.topic: article
-title: Display a file and save shared files to OneDrive or your work order
+title: Display a file and save shared files to OneDrive or an open work order
 ms.reviewer: krbjoran
 ---
 
