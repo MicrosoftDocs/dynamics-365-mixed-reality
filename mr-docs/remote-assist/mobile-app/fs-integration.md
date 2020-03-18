@@ -33,19 +33,19 @@ Now that we have it enabled, let's see how integration with Field Service works 
 
 3. If you have **active bookings** assigned to you through Field Service, you'll see them listed. Select your booking and select **Post**.
 
-    ![Screenshot of Remote Assist mobile showing available bookings pulled in from Field Service.](./media/selectbooking.png "Select Booking")
+    ![Screenshot of Remote Assist mobile showing available bookings pulled in from Field Service.](./media/post_1.png "Select Booking")
 
 4. If you have no bookings assigned to your account, you can **Refresh** your screen or **Discard** your post.
 
-![Screenshot of Remote Assist mobile showing the option to refresh Dynamics 365.](./media/fs_6.png "No Bookings")
+![Screenshot of Remote Assist mobile showing the option to refresh Dynamics 365.](./media/post_3.png "No Bookings")
 
 5.	If you still don't see the booking you're looking for, it might be because you have access to multiple instances (organizations). You can select the **Ellipses** icon to return to your instance, and then select another **Instance**. Then continue from **Step 3**.
 ###
-![Screenshot of Remote Assist mobile showing the Select an Instance screen](./media/Instance.png "Select Instance")
+![Screenshot of Remote Assist mobile showing the Select an Instance screen](./media/post_2.png "Select Instance")
 ### 
 
 6. You will return to your Contact List and you will be notified when your call log and files have successfully been posted to your Field Service work order and then you can sign in to your work order.
 
 ![Notification](./media/postfs_3.png "End of call notification")
 
-7. You can go to the Field Service work order and view the call logs and files that have been posted to Remote Assist. Then you can copy and paste the files URL in a new tab to view the files.  
+7. You can go to the Field Service work order and view the call logs and files that have been posted from Remote Assist mobile. Then you can copy and paste the files URL in a new tab to view the files.  
