@@ -141,17 +141,28 @@ The August 27 release includes the following new features:
 **Solution:** 104.1908.0.117
 
 ## August 6, 2019
+
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.1908.2001.0 fixes an issue in the July 23rd release of the [!include[pn-hololens](../includes/pn-hololens.md)] app that prevented the list of guides from being shown in the [!include[pn-hololens](../includes/pn-hololens.md)] application for Europe, Middle East, and Asia-based customers. We also released an updated version of the Power BI reporting template that fixes a bug related to missing data causing the report to break.
 
 To get this update, you only need to update the [!include[pn-hololens](../includes/pn-hololens.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store. You don't need to update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. For the Power BI report, please visit https:<i></i>//aka.ms/guidesreport.
 
 ## July 23, 2019
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1907.19001 and CDS solution version 104.1907.0.33 introduces integration with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]. **[!include[pn-field-service](../includes/pn-field-service.md)]** customers can now attach guides to service tasks in [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]. When work orders are assigned to technicians, the technicians can launch the assigned guide in a dedicated **[!include[pn-field-service](../includes/pn-field-service.md)]** tab in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] application and do their work.
+The July 23 release includes the following new features:
+
+|Feature|Solution update required?|
+|----------------------------------------------------------------------------------------|-------|
+|[Integration with Dynamics 365 Field Service](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/integration-dynamics-365-field-service)|Yes|
 
 Customers interested in previewing integration with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] need to have an existing [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.6.0.183 or later installed. 
 
 Visit aka.ms/getguides for steps to upgrade.
+
+### Version numbers
+
+**Apps (PC and HoloLens):** 104.1907.19001
+
+**Solution:** 104.1907.0.33 
 
 ## July 9, 2019
 
