@@ -11,22 +11,11 @@ ms.reviewer: krbjoran
 
 # Dynamics 365 Remote Assist frequently asked questions
 
-Here are some answers to common questions about using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], which is available on HoloLens 1, HoloLens 2, and [AR-capable mobile phones and tablets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+Here are some answers to common questions about deploying and using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], which is available on HoloLens 1, HoloLens 2, and [AR-capable mobile phones and tablets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
 In general, you can request help using our [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist). 
 
 This document also includes device-specific ways to provide file a bug, request help, and provide feedback.
-
-## Can I try the app before buying it?
-
-Yes, [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] is available as a free 90-day trial. For more information,
-see [Try Dynamics 365 Remote Assist for free](try-remote-assist.md). The 90-day free trial is only available for users who haven't already purchased a subscription. 
-
-If you would like to try Remote Assist on HoloLens 1 or 2 without starting your free trial or needing to call a collaborator, you can also download a 5 minute, self-guided demo of Remote Assist. To do so:
-1.	Log into your HoloLens
-2.	Launch Edge, and search aka.ms/RemoteAssistHFD
-3.	Download the app 
-4.	Launch the app and begin the demo
 
 ## Deploy Remote Assist (for IT Admins)
 
@@ -76,12 +65,13 @@ Go to **Settings**, and then find the version number in the **About** section.
 | France         | Netherlands   | United States  |
 
 
-
 ## Configure Remote Assist
 
 ### Can I use Dynamics 365 Remote Assist to place a call between two separate tenants?
 
-Yes. If you want to use Remote Assist and enable an out-of-tenant collaborator to use Teams, follow [these instructions](cross-tenant-licensing-implementation.md). If you would like to use Teams and enable an out-of-tenant collaborator to use Remote Assist, follow [these instructions](cross-company-calling.md).
+Yes. If you want to use Remote Assist and enable an out-of-tenant collaborator to use Teams, follow [these instructions](cross-tenant-licensing-implementation.md). 
+
+If you would like to use Teams and enable an out-of-tenant collaborator to use Remote Assist, follow [these instructions](cross-company-calling.md). This is particularly useful for customer service scenarios when you want to "lease" a Remote Assist license to a customer and set up information barriers to limit who your customer can search and collaborate with.
 
 ### How do I set up Dynamics 365 Field Service to work with Dynamics 365 Remote Assist?
 
@@ -202,6 +192,26 @@ To improve hologram stability, complete eye calibration.
 
 - To complete eye calibration on HoloLens 1, [manually start the calibration process]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-1st-gen). 
 - HoloLens 2 will prompt you to calibrate the device under several circumstances. [Complete eye calibration]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds. 
+
+### Multiple people in my organization use Remote Assist on the same HoloLens. How do I clean my HoloLens?
+
+Learn how to clean [HoloLens 1](https://docs.microsoft.com/en-us/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/en-us/hololens/hololens2-hardware#care-and-cleaning). 
+
+Additional details about cleaning HoloLens 2:
+
+Device: Remove any dust by gently wiping with a dry lint-free microfiber cloth. Lightly moisten the cloth with medical 70% isopropyl alcohol, and then gently wipe the surface of the device.
+	Let it dry completely.
+
+Brow pad: Wipe it with a cloth moistened with water and a mild, antibiotic soap. Let it dry completely.
+
+Q: Can I use Purell wipes to clean the HoloLens? 
+A: Purell wipes can be applied in limited use to clean the HoloLens surfaces. The cleaning guide above is the recommended method. 
+
+Q: Can I use Clorox / Lysol wipes to clean the HoloLens?
+A: Clorox, Lysol and similar bleach-keeping wipes are not recommended for use. It is acceptable to use for critical situations, when nothing else is available.
+
+Q: Can I use any lens cleaner for cleaning HoloLens visor? 
+A: No. Lens cleaners can be abrasive to the coatings on the visor. Please use a mix of isopropyl alcohol (IPA) and water, and then gently wipe the surface of the visor.
 
 ## Can I save call artifacts to a Field Service work order?
 
