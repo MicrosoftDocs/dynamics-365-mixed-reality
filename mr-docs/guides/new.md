@@ -18,7 +18,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## April 1, 2020
 
-The April 1 update addresses accessibility issues and adds some quality improvements. See the [Release wave 2 plan page](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features) for details.
+The April 1 update addresses accessibility issues and adds some quality improvements. 
 
 |Feature|App version number|Solution version number|Solution update required?|
 |---------------------------------------------------------------------|--------------------|-------------------|--------|
