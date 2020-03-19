@@ -24,7 +24,7 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 
 |Item|Version number|
 |-----------------|-------------------------------------|
-|Apps|XXXXX|
+|Apps (PC and [!include[pn-hololens](../includes/pn-hololens.md)])|XXXXX|
 |Solution|XXXXX|
 
 ## February 25, 2020
