@@ -10,7 +10,7 @@ SCREEN SHOT GOES HERE
 
 ## App/solution compatibility
 
-|PC, HoloLens app version|Release on|Compatible Dynamics 365 Guides solution|
+|PC, HoloLens app version|Released on|Compatible Dynamics 365 Guides solution|
 |------------------------|---------------------------|------------------------------------------------------|
 |304.2002.25001|February 25, 2020|300.0.4.139, 300.0.3.137, 300.0.1.115, 200.0.0.107|
 |303.2001.21001|January 28, 2020|300.0.3.137, 300.0.1.115, 200.0.0.107|
