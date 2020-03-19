@@ -176,7 +176,7 @@ This release includes the following new features:
 |[Left navigation menu makes navigation faster](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/pc-ux)|No|
 |[Gaze-dwell interactions consistently placed for easier selection](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/hololens-ux)|No|
 |3D models loaded for each step to improve performance on HoloLens|No|
-|[What's New panel provides info on monthly releases](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/new)|No|
+|[What's New panel](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/new)|No|
  
 ### Version numbers
 
