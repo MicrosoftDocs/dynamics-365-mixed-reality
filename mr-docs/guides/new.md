@@ -22,7 +22,7 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|------|
-|[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|No|
+|[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|No|
 
 ### Version numbers
 
@@ -38,21 +38,16 @@ The February 25 update includes the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|[Anchor guides by using QR codes](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|Yes|
+|[Anchor guides by using QR codes](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|Yes|
+|[Create and copy a link to a guide or step](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/create-copy-link-guide-or-step)|No|
+|[Open an app created in Power Apps from a step](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-app-created-power-apps-step)|Yes|
+|[Deactivate, reactivate, or delete a guide](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/deactivate-reactivate-or-delete-guide)|
 
-# Version numbers
+### Version numbers
 
 Apps (PC and HoloLens): 304.2002.25001
 
 Solution: 300.0.4.139
-
-- **Anchor your guides by using QR codes (requires Common Data Service upgrade).** You can now use QR code anchors in addition to circular code anchors (previously known as printed anchors) and holographic anchors (previously known as digital anchors) to anchor your guides. You can print QR codes in various sizes. You can also embed links to specific guides or steps in QR codes. You can use your own QR codes, or you can use QR codes that are available through the **Anchor** wizard. Note that this feature is only available on [!include[pn-hololens](../includes/pn-hololens.md)] 2.
-
-- **Create and copy a link to a guide or step.** You can share the link to a guide or step with a team member, make it available from another app, or embed it in a QR code, so that the operator can open the guide or step directly from the [!include[pn-hololens](../includes/pn-hololens.md)] shell.
-
-- **Open an app created in Power Apps from a step (requires Common Data Service upgrade).** You can add a Power Apps link to a step to create a seamless workflow. For example, you can show Internet of Things (IoT) data, add a quiz, or provide access to data entry forms.
-
-- **Deactivate or delete guides.** Authors can now deactivate guides that are no longer needed, directly from the PC app. Admins can continue to activate, deactivate, or delete guides from the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] portal.
 
 ## January 28, 2020
 
