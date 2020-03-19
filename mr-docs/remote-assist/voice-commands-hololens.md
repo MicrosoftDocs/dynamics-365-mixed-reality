@@ -41,6 +41,7 @@ For full list of voice commands, see the list below.
 |Hang up                                | End the call.                                                                                                     |
 |Mute (unmute)                          |Mute (unmute) the audio of a Remote Assist call                                                                    |
 |Start (stop) recording |Start (stop) recording a one-to-one call with one Teams desktop user                                                                                 |
+|Camera / capture                       | Selects the camera/capture tool                               |
 |Open participants (close participants) |Open (close) the participants panel                                                                                |
 |Start Video (stop video)               | Turn on (turn off) the video for a Remote Assist call.                                                            |
 |Join meeting                           |Join Teams meeting                                                                                                 |
@@ -72,8 +73,6 @@ For full list of voice commands, see the list below.
 |Previous (next)                        |When viewing a PDF, return to previous page (go to next page)                                                      |
 |Set page                               |Open the PDF page-jump UI. Use "Select" to set page numbers.                                                       |
 |Reset                                  |Reset the newest received file to its original placement and size.                                                 |
-|Other                                  |Description                                                                                                        |
-|Camera / Capture                       | that selects the Capture tool, letting the user take a picture of her environment.                                |
 |**Post-call**                               |                                          |
 |Post (post all)                               |Post call artifacts to associated work order                                      |
 |Discard (discard all)                               |Do not post call artifacts to associated work order                                                             |
