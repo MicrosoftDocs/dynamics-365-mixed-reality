@@ -112,7 +112,6 @@ New features included in this release include the following:
 |----------------------------------------------------------------------------------------|-------|
 |[Try a demo of Dynamics 365 Guides](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/try-demo-dynamics-365-guides)|Yes|
 |Customer satisfaction surveys|Yes|
-|Opt out of sending data to Microsoft|Yes|
 |[Opt out of collecting Dynamics 365 Guides data](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/opt-out-collecting-dynamics-365-guides-data)|Yes|
 
 ### Other updates
