@@ -28,7 +28,7 @@ For full list of voice commands, see the list below.
 
 |Voice command|Description |
 | ------------- | -----|
-|General| | 
+|**General**| | 
 |Start listening (stop listening)       |Put Remote Assist into (out of) state expecting a list of commands to follow                  |
 |Settings                               | On recent contacts page, select settings page                                                                     |
 |Sign out                               | On recent contacts page, sign out                                                                                 |
@@ -40,25 +40,27 @@ For full list of voice commands, see the list below.
 |Hang up                                |End a ringing outgoing call.                                                                                       |
 |Hang up                                | End the call.                                                                                                     |
 |Mute (unmute)                          |Mute (unmute) the audio of a Remote Assist call                                                                    |
-|Start Video (Stop video)               | Turn on (turn off) the video for a Remote Assist call.                                                            |
+|Start (stop) recording |Start (stop) recording a one-to-one call with one Teams desktop user                                                                                 |
+|Open participants (close participants) |Open (close) the participants panel                                                                                |
+|Start Video (stop video)               | Turn on (turn off) the video for a Remote Assist call.                                                            |
 |Join meeting                           |Join Teams meeting                                                                                                 |
-|Open participants (Close participants) |Open (close) the participants panel                                                                                |
+|Open participants (close participants) |Open (close) the participants panel                                                                                |
 |**Slate (window) management**  | | 
-|Pin (Unpin)                            |Pin window in your space (unpin window so it follows you)                                                          |
-|Scale (Scale off)                      |Select (deselect) the Scale tool, letting the user scale objects                                                   |
+|Pin (unpin)                            |Pin window in your space (unpin window so it follows you)                                                          |
+|Scale (scale off)                      |Select (deselect) the Scale tool, letting the user scale objects                                                   |
 |Bigger (smaller)                       | When Scale tool is active, make current slate larger (smaller)                                                    |
-|Select Slate                           | Select the object currently being gazed at, to move or resize.                                                    |
+|Select slate                           | Select the object currently being gazed at, to move or resize.                                                    |
 |Accept                                 |Place the object currently being held by "Select slate" command.                                                   |
 |Move                                   |Selects the Move tool, letting the user move objects.                                                              |
-|Open chat (Close chat)                 |Open (close) the Text Chat window when docked to the Video Card.                                                   |
+|Open chat (close chat)                 |Open (close) the Text Chat window when docked to the Video Card.                                                   |
 |**Annotations**    | | 
-|Arrow (Arrow off)                      |Select (deselect) the Arrow tool, letting the user create holographic arrows pointing to parts of their environment. |
+|Arrow (arrow off)                      |Select (deselect) the Arrow tool, letting the user create holographic arrows pointing to parts of their environment. |
 |Place arrow                            |Place an arrow at the current gaze cursor location.                                                                |
 |Arrow                                  |Enable arrow placement (Deselect arrow tool)                                                                       |
-|Ink (Ink off)                          |Select (deselect) the Draw tool, letting the user draw on the walls and surfaces of their environment.               |
+|Ink (ink off)                          |Select (deselect) the Draw tool, letting the user draw on the walls and surfaces of their environment.               |
 |Colors                                 |Open color picker to determine color of arrow or ink                                                               |
-|Blue / Gray / Green / Red /Yellow      |Make arrow and ink this color                                                                                      |
-|Start (stop) Inking                    | Begin (stop) placing ink                                                                                          |
+|Blue / Gray / Green / Red / Yellow      |Make arrow and ink this color                                                                                      |
+|Start (stop) inking                    | Begin (stop) placing ink                                                                                          |
 |Undo                                   | Undo the previous action.                                                                                         |
 |Erase All                              |Remove all annotations you placed                                                                                  |
 |**File management**   | | 
@@ -72,7 +74,10 @@ For full list of voice commands, see the list below.
 |Reset                                  |Reset the newest received file to its original placement and size.                                                 |
 |Other                                  |Description                                                                                                        |
 |Camera / Capture                       | that selects the Capture tool, letting the user take a picture of her environment.                                |
-|Dynamics                               |Opens Dynamics 365 instances so you can navigate to work order and booking                                         |
+|**Post-call**                               |                                          |
+|Post (post all)                               |Post call artifacts to associated work order                                      |
+|Discard (discard all)                               |Do not post call artifacts to associated work order                                                             |
+|Retry                               |Try posting again                                 |
 
 
 
