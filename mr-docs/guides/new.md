@@ -84,9 +84,9 @@ The October 29 brings highly requested features for content creators:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|[Import models with node-based annotations](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-node-based-animations)|No|
+|[Support for node-based annotations](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-node-based-animations)|No|
 |[Turn animations on or off](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/turn-animations-or-off)|No|
-|[Support for STL and PLY formats for 3D models](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-stl-ply-file-formats-3d-models)|No|
+|[Support for STL and PLY file formats for 3D models](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-stl-ply-file-formats-3d-models)|No|
 
 ### Other updates:
 
