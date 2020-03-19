@@ -130,9 +130,9 @@ The August 27 release includes the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|Accessibility enhancements|No|
+|[Accessibility enhancements](https://docs.microsoft.com/en-us/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/accessibility)|No|
 |Improved hologram manipulation|No|
-|Support for additional languages|Yes|
+|[Support for additional languages](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/localization)|Yes|
 
 ### Version numbers
 
@@ -172,11 +172,11 @@ This release includes the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|PC app is fully responsive across various screen sizes|No|
-|Left navigation menu makes navigation faster|No|
-|Gaze-dwell interactions consistently placed for easier selection|No|
+|[PC app is fully responsive across various screen sizes](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/pc-ux)|No|
+|[Left navigation menu makes navigation faster](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/pc-ux)|No|
+|[Gaze-dwell interactions consistently placed for easier selection](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/hololens-ux)|No|
 |3D models loaded for each step to improve performance on HoloLens|No|
-|What's New panel provides info on monthly releases|No|
+|[What's New panel provides info on monthly releases](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/new)|No|
  
 ### Version numbers
 
