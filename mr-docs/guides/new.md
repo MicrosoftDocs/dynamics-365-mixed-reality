@@ -27,6 +27,8 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 |Apps (PC and [!include[pn-hololens](../includes/pn-hololens.md)])|XXXXX|
 |Solution|XXXXX|
 
+If you have feature requests or suggested improvements, you can send them to the Dynamics 365 Guides team at aka.ms/GuidesIdeas(aka.ms/GuidesIdeas).
+
 ## February 25, 2020
 
 The February 25 update (app versions 304.2002.25001 and solution version 300.0.4.139) includes the following new features:
