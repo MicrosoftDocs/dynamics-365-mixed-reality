@@ -22,7 +22,7 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 
 |Feature|App version number|Solution version number|Solution update required?|
 |---------------------------------------------------------------------|--------------------|-------------------|--------|
-|[Sort items in the PC app gallery by recently added, or by name}(https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|XXXXXX|XXXXXXX|No|
+|[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|XXXXXX|XXXXXXX|No|
 
 If you have feature requests or suggested improvements, please send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at aka.ms/GuidesIdeas(aka.ms/GuidesIdeas).
 
