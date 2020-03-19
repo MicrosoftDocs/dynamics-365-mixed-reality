@@ -90,7 +90,7 @@ The October 29 brings highly requested features for content creators:
 
 ### Other updates:
 
-- Removed different sizes for the same model in the 3D toolkit. Since authors can now resize models, the different sizes are not needed anymore.
+- Removed different sizes for the same model in the 3D toolkit (requires solution update). Since authors can now resize models, the different sizes are not needed anymore.
 
 - Updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holographic OS (Shell) behavior where the Step card follows you when the option is turned on.
 
@@ -106,17 +106,24 @@ The October 29 brings highly requested features for content creators:
 
 New customers must acquire a new GA license. Please go to aka.ms/GetGuides for information on licenses, installation, and upgrades.
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 200.1909.24001 and solution version 200.0.0.107 include the following updates:
+New features included in this release include the following:
 
-- **Try the demo.** You can now try an out-of-box sample guide on the HoloLens app without signing up for a license or authoring a guide yourself.
+|Feature|Solution update required?|
+|----------------------------------------------------------------------------------------|-------|
+|[Try a demo of Dynamics 365 Guides](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/try-demo-dynamics-365-guides)|Yes|
+|Customer satisfaction surveys|Yes|
+|Opt out of sending data to Microsoft|Yes|
+|[Opt out of collecting Dynamics 365 Guides data](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/opt-out-collecting-dynamics-365-guides-data)|Yes|
 
-- **Customer satisfaction surveys.** We will occasionally ask you to rate your satisfaction with the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to help us improve the product.
-
-- **Opt out of sending data to Microsoft.** On both PC and HoloLens apps, for privacy reasons, you can turn off the ability to send telemetry data to Microsoft. 
-
-- **Opt out of sending usage data to your organization.** To prevent usage data from showing in Power BI dashboards, administrators can now turn this off for specific users.
+### Other updates
 
 The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
+
+### Version numbers
+
+**Apps (PC and HoloLens):** 200.1909.24001
+
+**Solution:** 200.0.0.107
 
 ## August 27, 2019
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 104.1908.24001 and solution version 104.1908.0.117 includes the following updates:
