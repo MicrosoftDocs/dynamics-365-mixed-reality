@@ -202,7 +202,7 @@ The June 3 release includes the following new features:
 
 ## See also
 
-- [<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides solution</a>]
+- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides solution</a>
 
 - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-overview" target="_blank">Use the PC authoring application to create a guide</a>.
 
