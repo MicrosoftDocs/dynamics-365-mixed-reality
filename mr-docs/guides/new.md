@@ -26,9 +26,9 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 
 ### Version numbers
 
-Apps (PC and HoloLens): XXXXX
+**Apps (PC and HoloLens):** XXXXX
 
-Solution: XXXX
+**Solution:** XXXX
 
 If you have feature requests or suggested improvements, please send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at [aka.ms/GuidesIdeas](aka.ms/GuidesIdeas).
 
@@ -45,9 +45,9 @@ The February 25 update includes the following new features:
 
 ### Version numbers
 
-Apps (PC and HoloLens): 304.2002.25001
+**Apps (PC and HoloLens):** 304.2002.25001
 
-Solution: 300.0.4.139
+**Solution:** 300.0.4.139
 
 ## January 28, 2020
 
@@ -73,9 +73,9 @@ The January 28 update includes the following new features:
 
 ### Version numbers
 
-Apps (PC and HoloLens): 303.2001.21001
+**Apps (PC and HoloLens):** 303.2001.21001
 
-Solution: 300.0.3.137
+**Solution:** 300.0.3.137
 
 ## October 29, 2019
 
