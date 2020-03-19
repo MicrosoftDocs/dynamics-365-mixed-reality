@@ -6,7 +6,7 @@ It's recommended that you always update the Dynamics 365 Guides solution with ev
 
 You can check the app version in the PC app by using the **About** command.
 
-SCREEN SHOT GOES HERE
+![Version number in About command](media/about-command.PNG "Version number in About command")
 
 ## App/solution compatibility
 
