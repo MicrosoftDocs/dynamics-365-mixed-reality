@@ -189,10 +189,13 @@ To make changes to your edits, you can:
 
 There are two ways to share a OneDrive file or local file with a Remote Assist HoloLens user. Supported files include .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.  
 
+>[!Note] 
+> If you want to show the Remote Assist HoloLens user a video or powerpoint and control it in real time, you can do so by using the Share feature. When you share your desktop or an application window, a new slate appears in the technician's environment.
+
 - From the mixed reality tool bar, select the **Share File** option to share a file from OneDrive or your computer. The file will be uploaded in your personal OneDrive and permissions to access to that single file will be granted to call participants. 
 - From the Microsoft Teams chat, select **Attach file** to share a file from OneDrive or your computer. 
 
-When you share a file, it'll pop up as a new slate in the Remote Assist HoloLens user’s space and a link to the file will be shared in the chat. All call participants can annotate a file displayed in the Remote Assist HoloLens user’s space.
+When you share a file, it will pop up as a new slate in the Remote Assist HoloLens user’s space and a link to the file will be shared in the chat. All call participants can annotate a file displayed in the Remote Assist HoloLens user’s space.
 
 > [!Note]
 > After adding them, files can’t be moved, deleted, or resized by the Teams user.
@@ -205,7 +208,7 @@ To access the file after the call:
 
 ## Share your desktop or application window (with a Remote Assist HoloLens user only)
 
-You may want to share your desktop or application window with a Remote Assist user. This is useful if you'd like to communicate information that's not captured in a document that you can share with the Remote Assist user. 
+You may want to share your desktop or application window with a Remote Assist user. This is useful if you'd like to communicate information that's not captured in a file type that is supported by the file sharing feature (i.e. .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.). For example, you may want to share an instruction video that is playing in your browser, or a series of instructions embedded in a powerpoint deck.  
 
 To share your desktop or a running application:
 
@@ -355,7 +358,7 @@ During a call, participants can communicate through the text chat. The chat log 
 
 From the call controls, select **Text Chat** (as seen here: ![Graphic showing the text chat icon.](media/Teams_Text.png)  to open the chat. Note that the Remote Assist user can only see messages exchanged during the call, but you may see messages exchanged before the call. 
 
-You can also attach a OneDrive file or local file via the Teams chat **Attach file** feature.
+You can also attach a OneDrive or local file via the Teams chat **Attach file** feature.
 
 >[!Note]
 > Remote Assist chat supports certain formats, including bold, italic, strikethrough, and underline. It also supports hyperlinks. However, it does not support HTML-formatted or lists, such as a passage you copy and paste from a website. 
