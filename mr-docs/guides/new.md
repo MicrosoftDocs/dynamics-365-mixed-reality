@@ -190,7 +190,7 @@ The June 3 release includes the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|Improved anchoring (alignment) experience|Yes|
+|[Switch anchoring method at any time](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/anchoring-improvements)|Yes|
 
 ### Version numbers
 
