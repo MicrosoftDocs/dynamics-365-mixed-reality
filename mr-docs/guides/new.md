@@ -80,21 +80,25 @@ The January 28 update includes the following new features:
 
 ## October 29, 2019
 
-The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on October 29 brings highly requested features for content creators: 
+The October 29 brings highly requested features for content creators: 
 
-- You can import models with node-based animations and use them in work instructions.
+|Feature|Solution update required?|
+|----------------------------------------------------------------------------------------|-------|
+|[Import models with node-based annotations](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-node-based-animations)|No|
+|[Turn animations on or off](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/turn-animations-or-off)|No|
+|[Support for STL and PLY formats for 3D models](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-stl-ply-file-formats-3d-models)|No|
 
-- Authors can turn animations on or off for 3D models.
-
-- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports STL and PLY formats for 3D models.
-
-To get this update, please upgrade to app version 301.1910.24001 and solution version 300.0.1.115.
-
-We also:
+### Other updates:
 
 - Removed different sizes for the same model in the 3D toolkit. Since authors can now resize models, the different sizes are not needed anymore.
 
 - Updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holographic OS (Shell) behavior where the Step card follows you when the option is turned on.
+
+### Version numbers
+
+**Apps (PC and HoloLens):** 301.1910.24001
+
+**Solution:** 300.0.1.115
 
 ## October 1, 2019
 
