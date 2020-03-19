@@ -24,7 +24,7 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 |----------------------------------------------------------------------------------------|------|
 |[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|No|
 
-# Version numbers
+### Version numbers
 
 Apps (PC and HoloLens): XXXXX
 
