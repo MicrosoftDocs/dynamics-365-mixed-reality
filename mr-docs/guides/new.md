@@ -55,7 +55,7 @@ The January 28 update includes the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|[Instinctual interactions for authors on HoloLens 2](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/instinctual-interactions-authors-hololens-2|No|
+|[Instinctual interactions for authors on HoloLens 2](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/instinctual-interactions-authors-hololens-2)|No|
 |[Open a website from the HoloLens app](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-website-hololens-app)|Yes|
 |[Assign Author or Operator roles to users](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/assign-operator-author-roles-users)|Yes|
 |[Drag and drop multiple files to import them to the PC app gallery](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/drag-drop-multiple-files-into-pc-app-gallery)|No|
