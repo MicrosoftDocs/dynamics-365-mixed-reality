@@ -1,10 +1,19 @@
-
+---
+author: Mamaylya
+description: How to determine whether the Dynamics 365 Guides solution you're using is compatible with the Dynamics 365 Guides PC and HoloLens app versions
+ms.author: mamaylya
+ms.date: 04/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Compatibility between Dynamics 365 Guides solutions and apps (PC and HoloLens)
+ms.reviewer: v-brycho
+---
 
 # Compatibility between Dynamics 365 Guides solution and apps (PC and HoloLens)
 
 It's recommended that you always update the Dynamics 365 Guides solution with every release so that you have access to the latest features and updates. However, if you suspect you have an older solution version and need to check for compatibility with the PC and HoloLens apps you're using, see the table below.
 
-You can find the app and solution versions in the PC app by using the **About** command.
+To find the app and solution versions you're using, in the PC app, open the **About** command. 
 
 ![Version number in About command](media/about-command.PNG "Version number in About command")
 
