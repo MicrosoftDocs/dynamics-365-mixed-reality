@@ -58,9 +58,9 @@ The January 28 update includes the following new features:
 |----------------------------------------------------------------------------------------|-------|
 |[Instinctual interactions for authors on HoloLens 2](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/instinctual-interactions-authors-hololens-2)|No|
 |[Open a website from the HoloLens app](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-website-hololens-app)|Yes|
-|[Assign Author or Operator roles to users](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/assign-operator-author-roles-users)|Yes|
-|[Drag and drop multiple files to import them to the PC app gallery](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/drag-drop-multiple-files-into-pc-app-gallery)|No|
-|[Additional resources in Help menu for the PC app](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/additional-resources-help-menu-pc-app)|No|
+|[Assign Author and Operator roles to users](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/assign-operator-author-roles-users)|Yes|
+|[Drag and drop multiple files to the PC app gallery](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/drag-drop-multiple-files-into-pc-app-gallery)|No|
+|[Additional resources in Help menu for PC app](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/additional-resources-help-menu-pc-app)|No|
 
 ### Other updates
 
