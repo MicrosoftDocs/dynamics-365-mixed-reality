@@ -41,7 +41,7 @@ The February 25 update includes the following new features:
 |[Anchor guides by using QR codes](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|Yes|
 |[Create and copy a link to a guide or step](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/create-copy-link-guide-or-step)|No|
 |[Open an app created in Power Apps from a step](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-app-created-power-apps-step)|Yes|
-|[Deactivate, reactivate, or delete a guide](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/deactivate-reactivate-or-delete-guide)|
+|[Deactivate, reactivate, or delete a guide](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/deactivate-reactivate-or-delete-guide)|No|
 
 ### Version numbers
 
@@ -51,24 +51,15 @@ Solution: 300.0.4.139
 
 ## January 28, 2020
 
-The January 28 update (app versions 303.2001.21001 and solution version 300.0.3.137) includes the following new features:
+The January 28 update includes the following new features:
 
-- [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] now supports [!include[pn-hololens](../includes/pn-hololens.md)] 2 hand tracking to provide instinctual interactions for authors. Select and position holograms by using direct touch, just as if they were real objects. Use hand rays to interact with holograms when they are out of reach. On [!include[pn-hololens](../includes/pn-hololens.md)] 1, the app works just as it worked before, because [!include[pn-hololens](../includes/pn-hololens.md)] 1 doesn't support hand tracking. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/authoring-gestures-hl2" target="_blank">HoloLens 2 gestures for authoring and navigating</a>.
-
-- Authors can add a website link to a step in a guide. Use a website link to show a PDF that is hosted on your server, show a form, or show data from your online Internet of Things (IoT) devices for the operator to review. This feature requires Common Data Service solution version 300.0.3.137. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/create-steps-assign-media#add-a-website-link-to-a-step" target="_blank">Add a website link to a step</a>.
-
-- Admins can assign **Author** and **Operator** roles to users, so that editing is available only for authors. For more information, see 
-<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role" target="_blank">Assign user roles</a>.
-
-- Drag multiple files from your local file folder into the PC app gallery to import the files.
-
-- Select the **Help** (question mark) button in the PC app to complete these tasks:
-
-    - Get quick access to video tutorials that show how to author, operate, or analyze guides.
-
-    - Get phone numbers for customer support.
-
-    - Provide feedback and ideas for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team.
+|Feature|Solution update required?|
+|----------------------------------------------------------------------------------------|-------|
+|[Instinctual interactions for authors on HoloLens 2](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/instinctual-interactions-authors-hololens-2|No|
+|[Open a website from the HoloLens app](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-website-hololens-app)|Yes|
+|[Assign Author or Operator roles to users](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/assign-operator-author-roles-users)|Yes|
+|[Drag and drop multiple files to import them to the PC app gallery](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/drag-drop-multiple-files-into-pc-app-gallery)|No|
+|[Additional resources in Help menu for the PC app](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/additional-resources-help-menu-pc-app)|No|
 
 ### Other updates
 
@@ -79,6 +70,12 @@ The January 28 update (app versions 303.2001.21001 and solution version 300.0.3.
 - Hologram stabilization has been improved and optimized for HoloLens 2.
 
 - Documentation has been reorganized documentation so that it's easier to find information for specific roles (admin, author, and operator).
+
+### Version numbers
+
+Apps (PC and HoloLens): 303.2001.21001
+
+Solution: 300.0.3.137
 
 ## October 29, 2019
 
