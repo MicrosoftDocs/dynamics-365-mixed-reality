@@ -32,7 +32,7 @@ The previous screenshot shows the settings screen. When you’re outside a call,
 - Find tutorials on Microsoft Docs
 - Switch your Dynamics instance.  
 
- ![VoiceCommand](media/HL2-01.03-voice-commands.png "VoiceCommand")
+ ![VoiceCommand](media/RAHL_VideoCard_WithRecordButton.png "VoiceCommand")
 
 The previous screenshot shows a video card. When you’re in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars of all call participants.  
 
