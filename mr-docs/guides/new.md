@@ -174,7 +174,7 @@ This release includes the following new features:
 |----------------------------------------------------------------------------------------|-------|
 |PC app is fully responsive across various screen sizes|No|
 |Left navigation menu makes navigation faster|No|
-|Gaze-dwell interations consistently placed for easier selection|No|
+|Gaze-dwell interactions consistently placed for easier selection|No|
 |3D models loaded for each step to improve performance on HoloLens|No|
 |What's New panel provides info on monthly releases|No|
  
