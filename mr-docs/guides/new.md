@@ -27,6 +27,7 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 # Version numbers
 
 Apps (PC and HoloLens): XXXXX
+
 Solution: XXXX
 
 If you have feature requests or suggested improvements, please send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at [aka.ms/GuidesIdeas](aka.ms/GuidesIdeas).
@@ -42,6 +43,7 @@ The February 25 update includes the following new features:
 # Version numbers
 
 Apps (PC and HoloLens): 304.2002.25001
+
 Solution: 300.0.4.139
 
 - **Anchor your guides by using QR codes (requires Common Data Service upgrade).** You can now use QR code anchors in addition to circular code anchors (previously known as printed anchors) and holographic anchors (previously known as digital anchors) to anchor your guides. You can print QR codes in various sizes. You can also embed links to specific guides or steps in QR codes. You can use your own QR codes, or you can use QR codes that are available through the **Anchor** wizard. Note that this feature is only available on [!include[pn-hololens](../includes/pn-hololens.md)] 2.
