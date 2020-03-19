@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 03/16/2020
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -15,6 +15,17 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 > [!IMPORTANT]
 > The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team has postponed the mandatory update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution originally planned for April 1, 2020. We'll provide at least 30 days' advance notice for any mandatory upgrades and a 30-day grace period to work with your admins to make the upgrade.<br>We recommend that you always install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution with every release so that you have access to the latest features and updates.
+
+## April 1, 2020
+
+The April 1 update addresses accessibility issues and adds some quality improvements. See the [Release Notes page](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features) for details.
+
+### Version numbers
+
+|Item|Version number|
+|-----------------|-------------------------------------|
+|Apps|XXXXX|
+|Solution|XXXXX|
 
 ## February 25, 2020
 
