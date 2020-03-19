@@ -27,7 +27,7 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 |Apps (PC and [!include[pn-hololens](../includes/pn-hololens.md)])|XXXXX|
 |Solution|XXXXX|
 
-If you have feature requests or suggested improvements, you can send them to the Dynamics 365 Guides team at aka.ms/GuidesIdeas(aka.ms/GuidesIdeas).
+If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at aka.ms/GuidesIdeas(aka.ms/GuidesIdeas).
 
 ## February 25, 2020
 
