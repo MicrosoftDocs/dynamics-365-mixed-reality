@@ -198,8 +198,6 @@ The June 3 release includes the following new features:
 
 **Solution:** ????????? 
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1905.31001
-
 ## See also
 
 - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides solution</a>
