@@ -30,7 +30,8 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 
 **Solution:** XXXX
 
-If you have feature requests or suggested improvements, please send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at [aka.ms/GuidesIdeas](aka.ms/GuidesIdeas).
+>[!NOTE]
+>If you have feature requests or suggested improvements, please send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at [aka.ms/GuidesIdeas](aka.ms/GuidesIdeas).
 
 ## February 25, 2020
 
