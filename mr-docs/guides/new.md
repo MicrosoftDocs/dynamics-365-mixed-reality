@@ -20,14 +20,11 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 The April 1 update addresses accessibility issues and adds some quality improvements. See the [Release wave 2 plan page](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features) for details.
 
-### Version numbers
+|Feature|App version number|Solution version number|Solution update required?|
+|---------------------------------------------------------------------|--------------------|-------------------|--------|
+|[Sort items in the PC app gallery by recently added, or by name}(https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|XXXXXX|XXXXXXX|No|
 
-|Item|Version number|
-|-----------------|-------------------------------------|
-|Apps (PC and [!include[pn-hololens](../includes/pn-hololens.md)])|XXXXX|
-|Solution|XXXXX|
-
-If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at aka.ms/GuidesIdeas(aka.ms/GuidesIdeas).
+If you have feature requests or suggested improvements, please send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at aka.ms/GuidesIdeas(aka.ms/GuidesIdeas).
 
 ## February 25, 2020
 
