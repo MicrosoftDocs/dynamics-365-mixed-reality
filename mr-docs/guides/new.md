@@ -166,19 +166,25 @@ Visit aka.ms/getguides for steps to upgrade.
 
 ## July 9, 2019
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1907.4001.0 brings a new look and feel to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps. We improved the user experience and aligned it with the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] family of apps. 
- 
-### Improvements in this release
+The July 9 release brings a new look and feel to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps. We improved the user experience and aligned it with the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] family of apps. 
 
-- The PC app is now fully responsive across various screen sizes. 
+This release includes the following new features:
 
-- The navigation menu on the left and bottom right of the PC app makes it much faster to navigate between guide content and guide anchor settings. 
+|Feature|Solution update required?|
+|----------------------------------------------------------------------------------------|-------|
+|PC app is fully responsive across various screen sizes|No|
+|Left avigation menu makes navigation faster|No|
+|Gaze-dwell interations consistently placed for easier selection|No|
+|3D models loaded for each step to improve performance on HoloLens|No|
+|What's New panel provides info on monthly releases|No|
  
-- "Gaze-dwell" interactions on [!include[pn-hololens](../includes/pn-hololens.md)] are consistently placed on the left side of list items to make it easier to select while browsing. 
+### Version numbers
 
-- 3D models are loaded for each step to improve performance on [!include[pn-hololens](../includes/pn-hololens.md)].
- 
-This **What's New** panel will continue to inform you of new and noteworthy features in each monthly release.
+**Apps (PC and HoloLens):** 103.1907.4001.0
+
+**Solution:** ????????? 
+
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1907.4001.0
 
 ## June 3, 2019
 
