@@ -184,18 +184,25 @@ This release includes the following new features:
 
 **Solution:** ????????? 
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1907.4001.0
-
 ## June 3, 2019
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1905.31001 introduces an improved anchoring (alignment) experience for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. The PC app doesn't require you to choose an anchoring method before creating a guide so you can start creating content right away. You can also switch between anchoring methods after creating a guide. The PC app also provides better step-by-step guidance for choosing the appropriate method for anchoring mixed reality instructions to your workspace.
+The June 3 release includes the following new features:
 
-If you choose to create a guide using a digital anchor, you can now use a pre-set 3D model, so you don't have to choose a 3D model 
-before proceeding.
+|Feature|Solution update required?|
+|----------------------------------------------------------------------------------------|-------|
+|Improved anchoring (alignment) experience|Yes|
 
-> [!NOTE]
-> To take advantage of the new anchoring improvements, you must update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] 
-admin center. For more information, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides solution</a> or contact your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] administrator.
+### Version numbers
 
-For more information on authoring a guide with the PC application, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-overview" target="_blank">Use the PC authoring application to create a guide</a>.
+**Apps (PC and HoloLens):** 103.1905.31001
+
+**Solution:** ????????? 
+
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] app version 103.1905.31001
+
+## See also
+
+- [<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides solution</a>]
+
+- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-overview" target="_blank">Use the PC authoring application to create a guide</a>.
 
