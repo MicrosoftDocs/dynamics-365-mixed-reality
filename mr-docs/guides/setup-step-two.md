@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Common Data Service environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -14,14 +14,61 @@ ms.reviewer: v-brycho
 > [!NOTE]
 > Before you complete this step of the setup process, be sure to see step 1, [Buy a subscription or sign up for a free trial](setup-step-one.md).
 
-After you buy a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assign licenses, you must create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. The type of environment that you create depends on whether you're creating a trial environment or a production environment. If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], set up a production environment. A production environment provides backup and restore capabilities.
+After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription and assigning licenses, you must create an environment where you can install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. 
+
+## Production environment or default environment?
+
+
+The type of environment that you create depends on whether you purchased a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license.
+
+- **If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], [set up a production environment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup-step-two#set-up-a-production-environment).** A production environment provides you with backup and restore capabilities. 
+
+- **If you haven't purchased a license yet (you have a trial subscription), [set up a default environment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup-step-two#set-up-a-default-environment).**
 
 > [!NOTE]
 > If you already have an environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), you can skip ahead to the [Change the maximum upload file size](#upload) procedure later in this topic.
 
-## Set up a trial environment
+## Set up a production environment (for purchased licenses only)
 
-1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the admin user credentials for the trial.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Environments** if it isn't already selected, and then select **New**.
+
+    ![New button](media/add-new-environment.PNG "New button")
+
+    The **New environment** dialog box appears on the right side of the page.
+
+3. In the **New environment** dialog box, follow these steps:
+
+    1. Enter a name for the environment.
+
+    2. In the **Type** field, select **Production**.
+
+        ![New environment dialog box](media/new-environment-pane.PNG "New environment dialog box")
+
+    3. In the **Region** field, keep the default setting.
+
+    4. Set the **Create a database for this environment?** option to **Yes**. 
+
+    5. Select **Next**.
+
+3. In the **Add database** dialog box that appears, select your language and currency, keep the default settings for the other fields, and then select **Save**.
+
+    ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
+
+    > [!NOTE]
+    > For information about security groups, see [Control user access to instances](https://docs.microsoft.com/dynamics365/admin/add-instance-subscription#BKMK_man_sec_group).
+
+    A message is shown that explains that the production environment is being prepared.
+
+    ![Environment preparation message](media/environment-message.PNG "Environment preparation message")
+
+4. After the new environment is active (that is, when **Ready** appears in the **State** field for the environment), go to [Change the maximum upload file size](#upload).
+
+> [!NOTE]
+> If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment shown in the illustrations.
+
+## Set up a default environment (for trial environments only)
+
+1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the admin user credentials.
 
 2. In the left pane, select **Environments**.
 
@@ -48,45 +95,8 @@ After you buy a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
     > [!NOTE]
     > Database creation usually takes several minutes. If the "Provisioning database" message is still shown after five minutes, try to refresh the page.
 
-7. After you've created the database, return to the **Environments** page, and go to the [Change the maximum upload file size](#upload) procedure later in this topic.
+7. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
 
-## Set up a production environment
-
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Environments** if it isn't already selected, and then select **New**.
-
-    ![New button](media/add-new-environment.PNG "New button")
-
-    The **New environment** dialog box appears on the right side of the page.    
-
-3. In the **New environment** dialog box, follow these steps:
-
-    1. Enter a name for the environment.
-
-    2. In the **Type** field, select **Production**.
-    
-        ![New environment dialog box](media/new-environment-pane.PNG "New environment dialog box")
-
-    3. In the **Region** field, keep the default setting.
-
-    4. Set the **Create a database for this environment?** option to **Yes**. 
-       
-    5. Select **Next**.
-
-3. In the **Add database** dialog box that appears, select your language and currency, keep the default settings for the other fields, and then select **Save**.
-
-    ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
-
-    > [!NOTE]
-    > For information about security groups, see [Control user access to instances](https://docs.microsoft.com/dynamics365/admin/add-instance-subscription#BKMK_man_sec_group).
-
-    A message is shown that explains that the production environment is being prepared.
-
-    ![Environment preparation message](media/environment-message.PNG "Environment preparation message")
-
-4. After the new environment is active (that is, when **Ready** appears in the **State** field for the environment), go to the next procedure to change the maximum file size for uploaded files.
-
-> [!NOTE]
-> If you set up a production environment instead of a trial environment, in the remaining procedures in this topic, use the production environment instead of the default environment that shown in the illustrations.
 
 ## Change the maximum upload file size<a name="upload"></a>
 

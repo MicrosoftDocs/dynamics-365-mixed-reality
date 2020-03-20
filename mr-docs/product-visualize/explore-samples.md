@@ -2,7 +2,7 @@
 author: mamithan
 description: How to explore sample models in Dynamics 365 Product Visualize
 ms.author: mamithan
-ms.date: 01/29/2020
+ms.date: 02/26/2020
 ms.service: crm-online
 ms.topic: article
 title: Explore sample 3D models in Dynamics 365 Product Visualize
@@ -19,20 +19,22 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
 
 1.	Open the Dynamics 365 Product Visualize app.
 
-2.	On the **Welcome** screen, scroll down to the sample 3D models, and then select the 3D model that you want to open.
+2.	On the **Welcome** screen, scroll down to the sample 3D models, and then tap the 3D model that you want to open.
 
-     ![Welcome screen](media/welcome.PNG "Welcome screen")
+     > [!div class=mx-imgBorder]
+     > ![Welcome screen](media/welcome.png "Welcome screen")
 
-     You can also select the **Main** ![Main menu button](media/hamburger-icon.png "Main menu button") menu button, and then select **Sample products** to see samples.
+     You can also tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Sample products** to see samples.
      
-     ![Main menu button dropped down](media/main-menu-dropped-down.PNG "Main menu button dropped down")
+     > [!div class=mx-imgBorder]
+     > ![Sample products menu item](media/sample-products-menu.png "Sample products menu item")
  
 3.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
 
 4.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes made on sample models aren't saved when you close Dynamics 365 Product Visualize or replace the model.
 
     > [!TIP]
-    > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product measurements](product-dimensions.md). After enabling the feature, select **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
+    > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product dimensions](product-dimensions.md). After enabling the feature, tap **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
 
 ### See also
 

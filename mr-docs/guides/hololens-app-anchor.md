@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor a guide when you're using the Microsoft Dynamics 365 Guides HoloLens app in Author mode.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Anchor a guide in Author mode by using the Dynamics 365 Guides HoloLens app 
@@ -11,33 +11,49 @@ ms.reviewer: v-brycho
 
 # Anchor a guide by using the Dynamics 365 Guides HoloLens app in Author mode
 
-The first thing that you see when you open a guide in the Microsoft Dynamics 365 Guides HoloLens app is the anchoring instructions that were created in the Dynamics 365 Guides PC app. The method that you use to anchor the guide depends on the type of anchor that was created in the PC app. For more information about how to create an anchor, and the types of anchors, see [Anchor your guide to the real world in Dynamics 365 Guides PC app](anchor.md).
+When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] HoloLens app, the first thing that you see is the anchoring instructions that were created in the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app. The method that you use to anchor the guide depends on the type of anchor that was created in the PC app. For more information about how to create an anchor, and the types of anchors, see [Anchor your guide to the real world in Dynamics 365 Guides PC app](anchor.md).
 
-## Anchor a guide by using a printed anchor
+## Anchor a guide by using a QR code anchor
 
-1. Put on your HoloLens, and stand about two feet in front of the printed anchor.
+1. Put on your HoloLens, and stand about two feet in front of the QR code anchor.
 
-2. On the **Scan Printed Anchor** page, select **Initiate Scan**.
+2. On the **Scan QR Code Anchor** page, select **Initiate Scan**.
 
-    ![Initiate Scan button on the Scan Printed Anchor page](media/scan-printed-anchor.png "Initiate Scan button on the Scan Printed Anchor page")
+    ![Initiate Scan button on the Scan QR Code Anchor page](media/qr-code-scan.PNG "Initiate Scan button on the Scan QR Code Anchor page")
 
-    On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a holographic marker image that looks like the following illustration.
+3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the QR code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
-    ![Holographic marker image](media/scanning.PNG "Holographic marker image")
+    ![Aligning with the anchor](media/qr-code-green-outline.PNG "Aligning with the anchor")
 
-3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the printed anchor until a green outline appears. Use your gaze to align the green box with the marker, and then select **Confirm**.
+4. On the **QR Code Anchor Found** page, select **Confirm**.
 
-    ![Aligning with the marker](media/align-marker.PNG "Aligning with the marker")
+    ![Confirm button on the QR Code Anchor Found page](media/qr-code-confirm.PNG "Confirm button on the QR Code Anchor Found page")
 
-    When the guide is correctly aligned, the **Printed Anchor Found** page appears.
+## Anchor a guide by using a circular code anchor
 
-    ![Printed Anchor Found page](media/printed-anchor-found.png "Printed Anchor Found page")
+1. Put on your HoloLens, and stand about two feet in front of the circular code anchor.
 
-## Anchor a guide by using a digital anchor
+2. On the **Scan Circular Code Anchor** page, select **Initiate Scan**.
 
-- Use air tap and hold to move and align the digital anchor to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres.
+    ![Initiate Scan button on the Scan Circular Code Anchor page](media/circular-code-scan.PNG "Initiate Scan button on the Scan Circular Code Anchor page")
 
-    ![Rotating a digital anchor](media/rotate-digital-anchor.PNG "Rotating a digital anchor")
+    On your [!include[pn-hololens](../includes/pn-hololens.md)], you will see a holographic image that looks like the following illustration.
+
+    ![Holographic image of circular code](media/circular-code-hologram.PNG "Holographic image of circular code")
+
+3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the circular code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
+
+    ![Aligning with the anchor](media/circular-code-green-outline.PNG "Aligning with the anchor")
+
+4. On the **Circular Code Anchor Found** page, select **Confirm**.
+
+    ![Confirm button on the Circular Code Anchor Found page](media/circular-code-confirm.PNG "Confirm button on the Circular Code Anchor Found page")
+
+## Anchor a guide by using a holographic anchor
+
+- Use air tap and hold to move the holographic anchor and align it to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres.
+
+    ![Rotating a holographic anchor](media/rotate-digital-anchor.PNG "Rotating a holographic anchor")
 
 > [!TIP]
 > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a digital anchor when you author a guide.
@@ -47,7 +63,7 @@ The first thing that you see when you open a guide in the Microsoft Dynamics 365
 When you anchor your guide, the anchoring information is stored on your [!include[pn-hololens](../includes/pn-hololens.md)]. Therefore, you don't have to re-anchor the guide every time that you open it. However, you can use the **Anchor** button to re-anchor a guide at any time, if you feel that the holograms are out of alignment. For more information, see [Place holograms, add styles, and more](hololens-app-orientation.md)
 
 > [!NOTE]
-> You might have to adjust the hardware offset on [!include[pn-hololens](../includes/pn-hololens.md)] 1 devices to help guarantee accurate placement of 3D content. [Learn more about adjusting for hardware offset](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#uploading-new-3d-models-with-names-matching-any-of-the-pre-packaged-models-in-the-3d-toolkit-will-overwrite-the-files-in-the-3d-toolkit).
+> To help guarantee accurate placement of 3D content, you might have to adjust the hardware offset on [!include[pn-hololens](../includes/pn-hololens.md)] 1 devices. For more information, see [How do I address hardware offset in HoloLens 1 devices to ensure accurate placement of holograms for printed anchor alignment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/known-issues#how-do-i-address-hardware-offset-in-hololens-1-devices-to-ensure-accurate-placement-of-holograms-for-circular-code-anchor-alignment).
 
 ## What's next?
 

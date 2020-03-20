@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Install and sign in to the Microsoft Dynamics 365 Guides HoloLens app as an operator.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Install and sign in to the Dynamics 365 Guides HoloLens app as an operator
@@ -47,7 +47,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 8. In the **Guides** dialog box, gaze at the selection box for the guide that you want to open.
 
-9. In the **Select Mode** dialog box, gaze at the circle to the left of **Operate** until it's filled. When the circle is filled, the option is selected.
+9. If the **Select Mode** dialog box appears, gaze at the circle to the left of **Operate** until it's filled. When the circle is filled, the option is selected.
 
     ![Select Mode dialog box](media/select-mode-operate.png "Select Mode dialog box")
 
