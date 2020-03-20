@@ -64,7 +64,7 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 - **[Spatial anchoring](https://docs.microsoft.com/windows/mixed-reality/spatial-anchors)**: When a technician or remote collaborator makes drawings or adds arrows, these annotations are anchored in the physical world and stay in place as the Remote Assist user moves around. 
 - **What is the HoloLens 2?** HoloLens 2 offers the most comfortable and immersive mixed reality experience available, with industry-leading solutions that deliver value in minutes—all enhanced by the reliability, security, and scalability of cloud and AI services from Microsoft. Learn more about HoloLens 2 features and technical specs [here](https://www.microsoft.com/hololens/hardware).
 * **How is the HoloLens 2 improved from Hololens 1?** HoloLens 2 offers a more immersive, ergonomic, and instinctual experience. 
-* **Field of view (FOV)**: The greater the device's FOV, the more holograms you can see at once.  
+* **Field of view (FOV)**: The greater the device's field of view, the more holograms you can see at once. During a Remote Assist call, the Teams user can see all the holograms in the Remote Assist HoloLens user's space, but the Remote Assist HoloLens user can only see the holograms that are within their field of view.
 
 Learn more about core concepts in mixed reality technology in the following article on [core concepts](https://docs.microsoft.com/windows/mixed-reality/core-concepts-landingpage). 
 
