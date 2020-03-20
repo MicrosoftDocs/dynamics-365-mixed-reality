@@ -32,7 +32,7 @@ The following tables list technical requirements for deploying and using
 
 ## Network requirements
 
-The recommended bandwidth for optimal performance of [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] is 1.5 MB/s.
+The recommended bandwidth for optimal performance of [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] is 1.5 mbps.
 
 For mobile devices in **low bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 MB/s, please see low bandwidth documentation for more information [here]( https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
 
