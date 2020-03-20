@@ -49,14 +49,16 @@ Before you begin, make sure you have the following set up:
   > The tenant can have more than one [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance. [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] has the option to select an instance from within the app.
 
 - You must have admin access to add or update the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] tenant instance.
-- The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance must have the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] app installed, and it must include the **My In Progress Bookings** view. To make sure this view is installed, we recommend [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.2 or later. This topic describes how to make sure you have the correct version and view.
+
+- The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance must have the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] app installed, and it must include the **My Bookings for Today** view. To make sure this view is installed, we recommend [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.2 or later. This topic describes how to make sure you have the correct version and view.
+    -  Please note the **My In Progress Bookings** view has been renamed to **My Bookings for Today.** This doc has been updated to reflect the name change. Depending on your version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], you may see either name. The functionality remains the same regardless of the view name.- The tenant must have at least two user accounts.
 - The tenant must have at least two user accounts - one for the technician (front-line worker) and another for the remote collaborator.
   - The remote collaborator only needs a Microsoft Teams license.
   - The technician user will need a Dynamics 365 Field Service license, a Microsoft Teams license, _and_ a Dynamics 365 Remote Assist license. **Note:** A Remote Assist license includes Teams. 
 
 ## Set up technician user
 
- First, create a bookable resource that will serve as the technician or front line worker that will use both Field Service on the Field Service Mobile app and Remote Assist on the Remote Assist mobile app on their phone or tablet.
+First, create a bookable resource that will serve as the technician or front line worker that will use both Field Service on the Field Service Mobile app and Remote Assist on the Remote Assist mobile app on their phone or tablet.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of a bookable resource in Field Service on a desktop](./media/remote-assist-field-service-resource.png)
@@ -67,7 +69,6 @@ Verify you can log into Field Service Mobile successfully as the field technicia
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of a Field Service Mobile after logging in.](./media/remote-assist-field-service-fsm-login.png)
-
  
 Next, verify you can log into the Remote Assist mobile app with the same user. Then:
 
@@ -86,8 +87,7 @@ After signing in, make sure you enable Dyanmics 365 integration. Select **Enable
 
 > [!Note]
 > The Remote Assist mobile app is available on mobile devices running iOS and Android with the related ARkit or ARcore capabilities.
-
-   
+ 
 
 ## Set up remote collaborator user
 
@@ -196,7 +196,6 @@ Technicians can:
 
 > [!Note]
 > Fields can be added to this view if necessary for your business needs.
-
 
 3. Create and schedule a work order.
 

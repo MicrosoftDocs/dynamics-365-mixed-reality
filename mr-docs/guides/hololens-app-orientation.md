@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app, and learn how to place holograms, add styles, and more.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 02/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
@@ -35,7 +35,7 @@ Here's what each button or UI element is used for.
 | 3 | ![Redo button](media/redo-button.png "Redo button") | Redo | Redo the last change. You can redo up to 100 changes. |
 | 4 | ![Home button](media/home-button.png "Home button") | Home | Select a different guide. |
 | 5 | ![Follow Mode button](media/follow-button.png "Follow Mode button") | Follow mode | Have the Step card follow you, or lock it to a location.<p>[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a feature that is called **Follow** mode. Wherever you look, the Step card follows your gaze. Therefore, you never have to worry where your instructions are. When you turn off **Follow** mode, the Step card stays where it is. You can move the Step card wherever you want at any time. Just grab it by using the navigation bar.</p> |
-| 6 | ![Anchor button](media/anchor-button.PNG "Anchor button") | Anchor | Re-anchor (realign) your guide.<p>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this issue, you must re-anchor the guide by gazing at the printed anchor (marker) or digital anchor again.</p> |
+| 6 | ![Anchor button](media/anchor-button.PNG "Anchor button") | Anchor | Re-anchor (realign) your guide.<p>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this issue, you must re-anchor the guide by gazing at the anchor again.</p> |
 | 7 | ![Settings button](media/settings-button.png "Settings button") | Settings | Access the following setting:<ul><li>**Build number**. See the build that you're using.</li></ul> |
 | 8 | ![Profile button](media/profile-button.png "Profile button") | Profile | Sign in and out. |
 | 9 | ![Step progress](media/step-progress.png "Step progress") | Step progress | See where you are in the step. |
@@ -58,7 +58,7 @@ You can add dotted lines (*tethers*) to link your Step cards to the areas where 
 
 ![Holographic dotted line](media/tether-example.png "Holographic dotted line")
 
-To place a dotted line, follow these steps.
+### Add a dotted line
 
 1. Tap and hold the gem below the Step card.
 
@@ -68,6 +68,12 @@ To place a dotted line, follow these steps.
 
     > [!TIP]
     > Placement isn't exact. Therefore, if you're connecting a dotted line to a 3D object from the 3D toolkit, place the dotted line in the general area, and then place the 3D object (for example, a number) at the end of the dotted line.
+
+### Remove a dotted line
+
+- Select the "X" where the dotted line originates. The gem is restored to the bottom of the Step card.
+
+    ![Remove a dotted line animation](media/remove-dotted-line.gif "Remove a dotted line animation")
 
 ## Place your holograms
 
