@@ -42,7 +42,7 @@ Before you begin, make sure you have the following set up:
   - [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]
   - A [!include[pn-dyn-365](../includes/pn-dyn-365.md)] license that includes [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]
 
-## Confirm that the **My In Progress Bookings** view is included
+## Confirm that the **My Bookings for Today** view is included
 
 If you have an instance but aren’t sure if the correct view is installed, follow these steps to confirm:
 
@@ -54,7 +54,7 @@ If you have an instance but aren’t sure if the correct view is installed, foll
    
 3. In the [!include[pn-powerapps](../includes/pn-powerapps.md)] screen, expand **Entities**, expand the **Bookable Resource Booking** entity, and then select **Views**.
 
-4. In the **Views** screen, verify that the **My In Progress Bookings** view is listed.
+4. In the **Views** screen, verify that the **My Bookings for Today** view is listed.
 
    ![Bookable Resource view](media/bookable-resource-views.PNG "Bookable Resource view")
    
@@ -66,7 +66,7 @@ If you have an instance but aren’t sure if the correct view is installed, foll
    
 ## Upgrade the Dynamics 365 instance
 
-If the **My In Progress Bookings** view is not listed as described in the previous procedure, you’ll need to upgrade your [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version to 8.2 or later. [!include[pn-dyn-365](../includes/pn-dyn-365.md)] upgrades don’t happen automatically; they’re driven by customers. 
+If the **My Bookings for Today** view is not listed as described in the previous procedure, you’ll need to upgrade your [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version to 8.2 or later. [!include[pn-dyn-365](../includes/pn-dyn-365.md)] upgrades don’t happen automatically; they’re driven by customers. 
 
 To upgrade an instance:
 
@@ -83,7 +83,7 @@ To upgrade an instance:
      > [!NOTE]
      > If the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] installation fails, you might need to reset or create a new instance. [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] installation requires specific steps and doing the steps out of order can cause the installation to fail. [Learn more about Dynamics 365 Field Service installation.](https://docs.microsoft.com/dynamics365/customer-engagement/field-service/install-field-service)
 
-   - If the right version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] is installed and the **My In Progress Bookings** view is included, go to [Add a work order and booking](#add-a-work-order-and-booking), the next procedure in this topic.
+   - If the right version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] is installed and the **My Bookings for Today** view is included, go to [Add a work order and booking](#add-a-work-order-and-booking), the next procedure in this topic.
    
 ## Add a work order and booking
    
@@ -128,7 +128,7 @@ Data will not appear in the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]*
 
 ## Add custom fields to the **Dynamics 365** pane in Dynamics 365 Remote Assist (optional)
 
-You can customize the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] by customizing fields, forms, or the **My In Progress Bookings** view in [!include[pn-dyn-365](../includes/pn-dyn-365.md)].
+You can customize the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] by customizing fields, forms, or the **My Bookings for Today** view in [!include[pn-dyn-365](../includes/pn-dyn-365.md)].
 
 To customize fields, forms, or views in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]:
 
@@ -142,8 +142,8 @@ The following table shows examples of the types of changes you might want to mak
 
 |**To**|**Do this**|**Example**|
 |------------------|---------------------------------------------------|--------------------------------------------------------|
-|Add a new field that doesn’t already exist in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]|Create the field in the entity you want to edit, and then add that field to the **My In Progress Bookings** view.|In the **Customizations** screen, open the **Work Order** entity, and then add the field you want.<br /><br />**Note** Make sure to add data to the field. The field won’t appear if there’s no data.|
-|Add an existing field to the **My In Progress Bookings** view|In the **My In Progress Bookings** view, add a column for the field. You can add a field from any entity in [!include[pn-dyn-365](../includes/pn-dyn-365.md)].|In the **Customizations** screen, open the **Bookable Resource Booking** entity, select the **My In Progress Bookings** view, and then choose **Add Columns**.<br /><br />**Note**  Make sure to add data to the field. The field won’t appear if there’s no data.|
+|Add a new field that doesn’t already exist in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]|Create the field in the entity you want to edit, and then add that field to the **My Bookings for Today** view.|In the **Customizations** screen, open the **Work Order** entity, and then add the field you want.<br /><br />**Note** Make sure to add data to the field. The field won’t appear if there’s no data.|
+|Add an existing field to the **My Bookings for Today** view|In the **My Bookings for Today** view, add a column for the field. You can add a field from any entity in [!include[pn-dyn-365](../includes/pn-dyn-365.md)].|In the **Customizations** screen, open the **Bookable Resource Booking** entity, select the **My Bookings for Today** view, and then choose **Add Columns**.<br /><br />**Note**  Make sure to add data to the field. The field won’t appear if there’s no data.|
 |Add a [!include[pn-power-bi](../includes/pn-power-bi.md)] web link. In [!include[pn-hololens](../includes/pn-hololens.md)], when the user selects the link, it will automatically open in the [!include[pn-edge](../includes/pn-edge.md)] browser.|Create a field that supports text strings.|Enter any web link in the field data, such as one that opens a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard.  As long as it’s a valid URL, it will automatically become a link.|
 
 ### See also
