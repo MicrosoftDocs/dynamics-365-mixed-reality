@@ -60,10 +60,11 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 ## Learn more about mixed reality
 
 - **[Mixed reality is a spectrum](https://docs.microsoft.com/windows/mixed-reality/#mixed-reality-is-a-spectrum)**: Mixed reality blends the physical world with the digital world. Mixed reality physically anchors holographic images, data, text, and other digital information onto the physical world and enables you to interact with these holograms. 
-- **[What is a hologram?](https://docs.microsoft.com/windows/mixed-reality/#what-is-a-hologram)**: HoloLens 1 and 2 display holograms, which are objects made of light and sound that appear in the world around you, as if they were real objects. Holograms respond to your gaze, gestures, and voice commands, and can interact with real-world surfaces around you. With holograms, you can create digital objects that are part of your world.
+- **[What is a hologram?](https://docs.microsoft.com/windows/mixed-reality/#what-is-a-hologram)** HoloLens 1 and 2 display holograms, which are objects made of light and sound that appear in the world around you, as if they were real objects. Holograms respond to your gaze, gestures, and voice commands, and can interact with real-world surfaces around you. With holograms, you can create digital objects that are part of your world.
 - **[Spatial anchoring](https://docs.microsoft.com/windows/mixed-reality/spatial-anchors)**: When a technician or remote collaborator makes drawings or adds arrows, these annotations are anchored in the physical world and stay in place as the Remote Assist user moves around. 
 - **What is the HoloLens 2?** HoloLens 2 offers the most comfortable and immersive mixed reality experience available, with industry-leading solutions that deliver value in minutes—all enhanced by the reliability, security, and scalability of cloud and AI services from Microsoft. Learn more about HoloLens 2 features and technical specs [here](https://www.microsoft.com/hololens/hardware).
-* **How is the HoloLens 2 improved from Hololens 1?**: HoloLens 2 offers a more immersive, ergonomic, and instinctual experience. 
+* **How is the HoloLens 2 improved from Hololens 1?** HoloLens 2 offers a more immersive, ergonomic, and instinctual experience. 
+* **Field of view**: Portion of the world on which holograms are overlaid.
 
 Learn more about core concepts in mixed reality technology in the following article on [core concepts](https://docs.microsoft.com/windows/mixed-reality/core-concepts-landingpage). 
 
