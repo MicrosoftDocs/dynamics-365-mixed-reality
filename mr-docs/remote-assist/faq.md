@@ -167,6 +167,10 @@ The **Insert file** feature supports most image formats (JPG, GIF, PNG, BMP, TIF
 
 No, you can only share local files and files from [!include[pn-onedrive](../includes/pn-onedrive.md)].
 
+### Can a Teams desktop user show the Remote Assist HoloLens user a video or powerpoint?
+
+Yes! We understand that technicians, inspectors, and remote collaborators want to refer to a wide variety of resources and reference documents during the call. By using the Teams desktop Share feature, the Teams desktop user can show the Remote Assist HoloLens whatever they are looking at on their desktop or in a specific application window. For example, the Teams desktop user can show the technician a video playing in a web browser. Furthermore, because the Teams desktop user's screen or application window is shared in real time, all call participants will see when the Teams desktop user pauses or restarts the video. 
+
 ### When a Remote Assist call ends, how can I access the messages, snapshots, and files during the call?
 
 For messages sent in text chat: any messages, links, or images sent in the text chat will be available for all participants via Teams Chat but not via Remote Assist.
