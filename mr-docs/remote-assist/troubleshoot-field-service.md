@@ -1,5 +1,5 @@
 ---
-title: "Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist | MicrosoftDocs"
+title: "Integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
 ms.date: 03/20/2020
@@ -26,15 +26,15 @@ search.app:
   - MRRA
 ---
 
-# Integrate Dynamics 365 Remote Assist with Field Service  
+# Integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service  
 
 If your organization uses Dynamics 365 Field Service to manage field service work orders, your first-line workers using Remote Assist on HoloLens can see their Field Service bookings and quickly call the remote collaborator listed in the booking's **Support Contact** field. 
 
 By integrating Field Service and Remote Assist, you can: 
 
-- Launch Remote Assist mobile directly from a Field Service Mobile booking via deeplinks
-- See relevant work order information
-- Post the Remote Assist call information to the associated work order's timeline
+- Launch Remote Assist mobile directly from a Field Service Mobile booking via deeplinks.
+- See relevant work order information.
+- Post the Remote Assist call information to the associated work order's timeline.
 
 In this article, we'll explore how a field technician can use the Remote Assist mobile app to make a call to an expert for help to complete a work order. We'll also explore the requirements to set up and use Remote Assist and Field Service together on the HoloLens.
 
