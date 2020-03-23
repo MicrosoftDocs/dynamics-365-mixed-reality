@@ -1,4 +1,5 @@
 ---
+
 title: "Integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
@@ -13,7 +14,7 @@ ms.topic: "article"
 applies_to: 
   - "Dynamics 365 (online)"
   - "Dynamics 365 Version 9.x"
-author: FieldServiceDave
+author: bencorn
 ms.assetid: f7e513fc-047f-4a88-ab83-76fae5e583e2
 caps.latest.revision: 42
 ms.author: daclar
