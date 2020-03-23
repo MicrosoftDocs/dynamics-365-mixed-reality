@@ -2,7 +2,7 @@
 title: "Integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
-ms.date: 03/20/2020
+ms.date: 03/23/2020
 ms.reviewer: krbjoran
 ms.service: dynamics-365-mixed-reality-remote-assist
 ms.suite: ""
@@ -179,7 +179,7 @@ Technicians can:
   > [!div class="mx-imgBorder"]
   > ![Screenshot of a user attaching an image in Remote Assist on HoloLens.](./media/remote-assist-field-service-save-image-HL.png)
 
-- Update booking statuses, like marking work as complete
+- Update booking statuses, like marking work as complete.
 
   > [!div class="mx-imgBorder"]
   > ![Screenshot of Remote Assist on HoloLens, showing the option to change the status of the booking.](./media/remote-assist-field-service-bookings-status-HL.png)
