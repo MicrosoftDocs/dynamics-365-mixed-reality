@@ -37,7 +37,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
     - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://youtu.be/LH1_Y3J3oG4)   
    
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://youtu.be/poE7s7_zWDE)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://aka.ms/hololensauthor)
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://youtu.be/EC24dMlAy90)
 
