@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about resources to get started with Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 02/25/2020
+ms.date: 03/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Guides
@@ -31,12 +31,12 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - Anchor your guide in the real world:
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://youtu.be/9jS1NCBq-cg)
-
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://youtu.be/LH1_Y3J3oG4)
-    
     - [Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a QR code anchor](https://youtu.be/NhdBG3emNUs)
 
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://youtu.be/9jS1NCBq-cg)
+
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://youtu.be/LH1_Y3J3oG4)   
+   
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://youtu.be/poE7s7_zWDE)
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://youtu.be/EC24dMlAy90)
