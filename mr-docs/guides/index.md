@@ -40,8 +40,8 @@ Check out these overview topics and videos:
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the HoloLens app by using HoloLens 1](https://aka.ms/hololensauthor)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide](authoring-overview.md)<br>
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of operating a guide](operator-overview.md)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides](https://aka.ms/guidesanalyze)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of analyzing your guides](analytics-guide.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [FAQ](faq.md)
-<!--![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)<br>-->
