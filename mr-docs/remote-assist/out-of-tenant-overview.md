@@ -16,7 +16,7 @@ A Remote Assist call involves one party using Remote Assist and the other using 
 However, if you want to collaborate with someone outside of your tenant, there are two main scenarios that are covered in this article:
 
 1. [Collaborating with someone outside of your tenant who has their own Remote Assist license.](#scenario-1-communicating-with-external-users)
-1. [Leasing a Remote Assist license to someone outside of your tenant](#scenario-2-guesting)
+1. [Leasing a Remote Assist license to someone outside of your tenant](#scenario-2-leasing-remote-assist-licenses-to-external-users)
 
 >[!NOTE]
 > This article is intended for admins, and assumes that you have Microsoft Teams **AND** Azure Active Directory (Azure AD) admin privileges. You should also be familiar with the [Teams admin portal](https://admin.teams.microsoft.com/).
@@ -84,12 +84,12 @@ If you are following the steps in the [Deploy HoloLens in a commercial environme
 
 - See [this Microsoft Teams article](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains) for full instructions for implementing **"Blocked" and "Allow" Federation**.
 
-## Solution 2: Guesting
+### Solution 2: Guesting
 
 > [!NOTE]
 > This solution is *not* necessary if one of the following is true:
 >
-> - Open federation is used,
+> - Open federation is used.
 > - The external tenant is on Tenant ABC's "allow" list.
 > - The external tenant is off of Tenant ABC's "block" list.
 
@@ -116,7 +116,7 @@ For more information, see this Microsoft Teams [article on granting guess access
 
 See this [Microsoft Teams guest access checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist) for full implementation instructions.
 
-## Scenario 2: Leasing Remote Assist Licenses to External Users
+## Scenario 2: Leasing Remote Assist licenses to external users
 
 ### Scenario 2 Overview
 
