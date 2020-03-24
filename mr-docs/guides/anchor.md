@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor holograms in Microsoft Dynamics 365 Guides, and how to create a QR code anchor, circular code anchor, or holographic anchor.
 ms.author: mamaylya
-ms.date: 02/25/2020
+ms.date: 03/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Choose an anchoring method for your guide in Dynamics 365 Guides
