@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # What's new in Dynamics 365 Guides
 
-This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at the [Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/dynamics365/release-plans/), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
+This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>), which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!IMPORTANT]
 > The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team has postponed the mandatory update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution originally planned for April 1, 2020. We'll provide at least 30 days' advance notice for any mandatory upgrades and a 30-day grace period to work with your admins to make the upgrade.<br>We recommend that you always install the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution with every release so that you have access to the latest features and updates.
