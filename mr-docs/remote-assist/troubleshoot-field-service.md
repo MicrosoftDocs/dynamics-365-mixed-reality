@@ -1,32 +1,48 @@
 ---
+
+title: "Integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service | MicrosoftDocs"
+ms.custom: 
+  - dyn365-mixed-reality-remote-assist
+ms.date: 03/23/2020
+ms.reviewer: krbjoran
+ms.service: dynamics-365-mixed-reality-remote-assist
+ms.suite: ""
+ms.technology: 
+  - "remote-assist"
+ms.tgt_pltfrm: ""
+ms.topic: "article"
+applies_to: 
+  - "Dynamics 365 (online)"
+  - "Dynamics 365 Version 9.x"
 author: bencorn
-description: How to make sure you have the right version, views, and data to integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist
-ms.author: bencorn
-ms.date: 10/01/2019
-ms.service: crm-online
-ms.topic: article
-title: Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist
-ms.reviewer: v-brycho
+ms.assetid: f7e513fc-047f-4a88-ab83-76fae5e583e2
+caps.latest.revision: 42
+ms.author: daclar
+manager: shellyha
+search.audienceType: 
+  - admin
+  - customizer
+search.app: 
+  - MRRA
+  - MRRA
 ---
 
-# Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist
+# Integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service  
 
-If your organization uses [Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/?&OCID=AID720979_SEM_yeaT05hp&lnkd=Bing_D365_Brand) to manage [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] work orders, 
-the first-line worker using [!include[pn-hololens](../includes/pn-hololens.md)] can view [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] bookings from [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and 
-quickly call the expert listed in the **Support Contact** field when needed. This enables first-line workers 
-to do heads-up, hands-free calling through [!include[pn-hololens](../includes/pn-hololens.md)] in the context of a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] booking.
+If your organization uses Dynamics 365 Field Service to manage field service work orders, your first-line workers using Remote Assist on HoloLens can see their Field Service bookings and quickly call the remote collaborator listed in the booking's **Support Contact** field. 
 
-This topic describes:
+By integrating Field Service and Remote Assist, you can: 
 
-- Requirements for [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration
-- How to make sure [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] is set up correctly 
-- How to upgrade the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance if you don’t have the correct [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version
-- How to add data for required fields in a [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] work order and booking
-- How to customize the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane that appears in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]
+- Launch Remote Assist mobile directly from a Field Service Mobile booking via deeplinks.
+- See relevant work order information.
+- Post the Remote Assist call information to the associated work order's timeline.
 
-## Requirements
+In this article, we'll explore how a field technician can use the Remote Assist mobile app to make a call to an expert for help to complete a work order. We'll also explore the requirements to set up and use Remote Assist and Field Service together on the HoloLens.
 
-Before you begin, make sure you have the following set up:
+
+## Prerequisites
+
+Before you begin, make sure you have the following set-up:
 
 - A [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-azure](../includes/pn-azure.md)] tenant with a [!include[pn-dyn-365](../includes/pn-dyn-365.md)] subscription **and** a [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] subscription. Both are required—[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] is not included in any [!include[pn-dyn-365](../includes/pn-dyn-365.md)] bundle.
 
@@ -34,119 +50,157 @@ Before you begin, make sure you have the following set up:
   > The tenant can have more than one [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance. [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] has the option to select an instance from within the app.
 
 - You must have admin access to add or update the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] tenant instance.
-- The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance must have the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] app installed, and it must include the **My In Progress Bookings** view. To make sure this view is installed, we recommend [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.2 or later. This topic describes how to make sure you have the correct version and view.
-- The tenant must have at least two user accounts.
-- The user accounts must have the following licenses assigned:
-  - [!include[pn-office-365](../includes/pn-office-365.md)] license that includes [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)]
-  - [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]
-  - A [!include[pn-dyn-365](../includes/pn-dyn-365.md)] license that includes [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]
 
-## Confirm that the **My In Progress Bookings** view is included
+- The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance must have the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] app installed, and it must include the **My Bookings for Today** view. To make sure this view is installed, we recommend [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.2 or later. This topic describes how to make sure you have the correct version and view.
+    -  Please note the **My In Progress Bookings** view has been renamed to **My Bookings for Today.** This doc has been updated to reflect the name change. Depending on your version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], you may see either name. The functionality remains the same regardless of the view name.
+- The tenant must have at least two user accounts - one for the technician (front-line worker) and another for the remote collaborator.
+  - The remote collaborator only needs a Microsoft Teams license.
+  - The technician user will need a Dynamics 365 Field Service license, a Microsoft Teams license, _and_ a Dynamics 365 Remote Assist license. **Note:** A Remote Assist license includes Teams. 
 
-If you have an instance but aren’t sure if the correct view is installed, follow these steps to confirm:
+## Set up technician user
 
-1. Make sure you’re signed in as an admin for the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance.
+First, create a bookable resource that will serve as the technician or front line worker that will use both Field Service on the Field Service Mobile app and Remote Assist on the Remote Assist mobile app on their phone or tablet.
 
-2. Select **Service** > **Settings** > **Customizations** > **Customize the System**.
+> [!div class="mx-imgBorder"]
+> ![Screenshot of a bookable resource in Field Service on a desktop](./media/remote-assist-field-service-resource.png)
 
-   ![Selecting Customizations](media/Customizations.PNG "Selecting Customizations")
-   
-3. In the [!include[pn-powerapps](../includes/pn-powerapps.md)] screen, expand **Entities**, expand the **Bookable Resource Booking** entity, and then select **Views**.
+The bookable resource must have a **Resource Type** set to **User**; the related user record will need licenses to use both Field Service Mobile and Remote Assist. To set up a field technician to use Field Service Mobile, see the Field Service docs article on [setting up Field Service users and security roles](https://docs.microsoft.com/dynamics365/field-service/view-user-accounts-security-roles#set-up-a-field-technician-user).
 
-4. In the **Views** screen, verify that the **My In Progress Bookings** view is listed.
+Verify you can log into Field Service Mobile successfully as the field technician user.
 
-   ![Bookable Resource view](media/bookable-resource-views.PNG "Bookable Resource view")
-   
-5. Do one of the following:
-
-   - If the view is listed, go to [Add a work order and booking](#add-a-work-order-and-booking) later in this topic.
-   
-   - If the view is not listed, go to [Upgrade the Dynamics 365 instance](#upgrade-the-dynamics-365-instance), the next procedure in this topic.
-   
-## Upgrade the Dynamics 365 instance
-
-If the **My In Progress Bookings** view is not listed as described in the previous procedure, you’ll need to upgrade your [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version to 8.2 or later. [!include[pn-dyn-365](../includes/pn-dyn-365.md)] upgrades don’t happen automatically; they’re driven by customers. 
-
-To upgrade an instance:
-
-1. Go to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Admin Center, select the **Instances** tab, and then select **Solutions** to see which version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] you have. 
-
-   ![Admin center showing Dynamics 365 Field Service version](media/admin-center.PNG "Admin center showing Dynamics 365 Field Service version")
-
-2. Do one of the following:
-
-   - If you don’t have version 8.2 or later, an **Upgrade** button will appear on the right side of the screen in the **[!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)]** box. Select the **Upgrade** button to start the upgrade process. 
-   
-     If there’s no **Upgrade** button, you can obtain version 8.2 or later by [signing up for a trial](https://appsource.microsoft.com/product/dynamics-365/mscrm.40fd37ef-dca4-4b0d-9f41-d16703b7d070?tab=Overview) or by going to the [Dynamics Insider Portal](http://experience.dynamics.com/insider).
-
-     > [!NOTE]
-     > If the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] installation fails, you might need to reset or create a new instance. [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] installation requires specific steps and doing the steps out of order can cause the installation to fail. [Learn more about Dynamics 365 Field Service installation.](https://docs.microsoft.com/dynamics365/customer-engagement/field-service/install-field-service)
-
-   - If the right version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] is installed and the **My In Progress Bookings** view is included, go to [Add a work order and booking](#add-a-work-order-and-booking), the next procedure in this topic.
-   
-## Add a work order and booking
-   
-Data will not appear in the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] unless the following requirements are met:
-   
-- There must be at least one work order.
-
-- The following fields in the work order must have a value:
-   
-   |**Field**|**Value**|
-   |------------------|---------------------------------------------------------------------------------------------------|
-   |System Status|The value for this field must be set to **In Progress**.|
-   |Resource|Stores the email address for the [!include[pn-hololens](../includes/pn-hololens.md)] user. This address must match the email address for the [!include[pn-hololens](../includes/pn-hololens.md)] user.|
+> [!div class="mx-imgBorder"]
+> ![Screenshot of a Field Service Mobile after logging in.](./media/remote-assist-field-service-fsm-login.png)
  
-### Create a work order
+Next, verify you can log into the Remote Assist mobile app with the same user. Then:
+
+Find and download the Remote Assist mobile app in the Apple iOS or Google Android app stores. 
+
+Sign in as the same user that you logged in to Field Service Mobile with. If your technician has a Field Service license and a Teams license, then you can simply start a free trial of Dynamics 365 Remote Assist before buying. 
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of three mobile devices, showing the Dynamics 365 Remote Assist app in an app store on the left. The middle device shows a logged in user. The device on the right shows a window prompting to get a free trial of Remote Assist.](./media/remote-assist-field-service-start-remote-assist-trial.png)
+
+After signing in, make sure you enable Dynamics 365 integration. Select **Enable** from the popup, or go to **Settings**.
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of two mobile devices in Remote Assist. The screen on the left shows the Dynamics 365 integration popup option. The screen on the right shows the settings screen for Remote Assist, with the Dynamics 365 integration toggle set to on.](./media/remote-assist-field-service-ram-signin-ALL.png)
+
+
+> [!Note]
+> The Remote Assist mobile app is available on mobile devices running iOS and Android with the related ARkit or ARcore capabilities.
+ 
+
+## Set up remote collaborator user
+
+As a different user that you have identified as the remote collaborator, verify you can sign in to Microsoft Teams. This user does not need a Field Service or Remote Assist license.
    
-1.	Open the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance in your browser.
+> [!div class="mx-imgBorder"]
+> ![Screenshot of Teams on desktop.](./media/remote-assist-field-service-teams-signin.png)
 
-2.	Select the pull-down menu next to **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]**, select **[!include[pn-field-service](../includes/pn-field-service.md)]**, and then select **New**.
+> [!Note]
+> The remote collaborator must log into the Microsoft Teams native app on his or her PC or mobile device. Teams on web is not supported.
 
-3.	Fill in all fields that contain an asterisk.
+## Create and schedule work orders
 
-    ![Work order screen](media/work-order.PNG "Work order screen")
-    
-4.	Select **Save** in the lower-right corner of the window.
+Next, create a work order to outline the onsite work the technician or front line worker needs to perform - typically an installation or an equipment or system repair. Enter a recommended expert in the **Support Contact** field that could be called via Remote Assist for support. Technicians won't be limited to only calling this contact.
 
-### Add values for the required fields
+> [!div class="mx-imgBorder"]
+> ![Screenshot of a Field Service work order in a desktop, with attention to the support contact field.](./media/remote-assist-field-service-work-order-support-contact.png)
 
-1.	Select the **Settings** tab.  
+Schedule the work order to the bookable resource that represents the technician also known as the front line worker who travels to customer locations to complete work orders. In our example, Abraham McCormick is the bookable resource and we scheduled work orders to him with Resource Scheduling Optimization.
 
-2.	Select the **Book** option at the top of the screen. You use this option to book a time for the resource to perform the work.
+> [!div class="mx-imgBorder"]
+> ![Screenshot of Abraham McCormick's booked work order on the Field Service schedule board, in a desktop window.](./media/remote-assist-field-service-work-order-schedule.png)
 
-3.	In the **Resource** field, enter the resource for the [!include[pn-hololens](../includes/pn-hololens.md)] user. The resource’s email address must match the email address for the [!include[pn-hololens](../includes/pn-hololens.md)] user. If you don’t select a resource or if the email addresses don’t match, data won’t appear in the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
-4.	Select the booking information, and then set the **Booking Status** field to **In Progress**.
+## View work orders on Field Service Mobile
 
-    ![Booking status field](media/booking-status.PNG "Booking status field")
-    
-5.	Make changes to other fields as desired (no other data is required for the data to appear in the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]).
+Like any typical day, the technician logs in to Field Service Mobile and sees their assigned work orders for that day. If they need guidance from a remote collaborator who better knows the product, service, equipment, or account being serviced, they can launch the Remote Assist mobile app from the work order.
 
-6.	Save your changes.
+> [!div class="mx-imgBorder"]
+> ![Screenshot of four mobile devices showing Field Service Mobile, and the workflow that brings up the Remote Assist launching option.](./media/remote-assist-field-service-mobile.png)
 
-## Add custom fields to the **Dynamics 365** pane in Dynamics 365 Remote Assist (optional)
+> [!Note]
+> The deep link from Field Service Mobile to the Remote Assist mobile app is currently available on Android only. Technicians using iOS devices must maually open Remote Assist mobile.
 
-You can customize the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** pane in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] by customizing fields, forms, or the **My In Progress Bookings** view in [!include[pn-dyn-365](../includes/pn-dyn-365.md)].
 
-To customize fields, forms, or views in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]:
+## Make a Remote Assist call
 
-1. Select **Service** > **Settings** > **Customizations** > **Customize the System**.
+The support contact will be autoselected to call if Remote Assist was opened via the deep link; otherwise, the technician can search through the directory for Teams users inside or outside their organization.
 
-   ![Selecting Customizations](media/Customizations.PNG "Selecting Customizations")
-    
-2. Expand **Entities**, open the entity you want to modify, and then select **Fields**, **Forms**, or **Views**, depending on what you want to do. 
+> [!div class="mx-imgBorder"]
+> ![Screenshot of a mobile device showing the Launch Call option on a contact in Remote Assist.](./media/remote-assist-field-service-launch-call.png)
 
-The following table shows examples of the types of changes you might want to make in [!include[pn-dyn-365](../includes/pn-dyn-365.md)], and how to make them.
 
-|**To**|**Do this**|**Example**|
-|------------------|---------------------------------------------------|--------------------------------------------------------|
-|Add a new field that doesn’t already exist in [!include[pn-dyn-365](../includes/pn-dyn-365.md)]|Create the field in the entity you want to edit, and then add that field to the **My In Progress Bookings** view.|In the **Customizations** screen, open the **Work Order** entity, and then add the field you want.<br /><br />**Note** Make sure to add data to the field. The field won’t appear if there’s no data.|
-|Add an existing field to the **My In Progress Bookings** view|In the **My In Progress Bookings** view, add a column for the field. You can add a field from any entity in [!include[pn-dyn-365](../includes/pn-dyn-365.md)].|In the **Customizations** screen, open the **Bookable Resource Booking** entity, select the **My In Progress Bookings** view, and then choose **Add Columns**.<br /><br />**Note**  Make sure to add data to the field. The field won’t appear if there’s no data.|
-|Add a [!include[pn-power-bi](../includes/pn-power-bi.md)] web link. In [!include[pn-hololens](../includes/pn-hololens.md)], when the user selects the link, it will automatically open in the [!include[pn-edge](../includes/pn-edge.md)] browser.|Create a field that supports text strings.|Enter any web link in the field data, such as one that opens a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard.  As long as it’s a valid URL, it will automatically become a link.|
+The remote collaborator will then receive the call, like any other Teams call.
 
-### See also
+> [!div class="mx-imgBorder"]
+> ![Screenshot of the incoming Remote Assist call to the remote collaborator, working in Teams desktop.](./media/remote-assist-field-service-receive-call-teams.png)
 
-- [Create or edit fields in Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-edit-fields)
+The technician can then begin to share what they see through their mobile device's camera, making annotations as needed.
 
-- [Create or edit views in Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-edit-views)
+> [!div class="mx-imgBorder"]
+> ![Screenshot of Remote Assist on a mobile device, showing an arrow annotation.](./media/remote-assist-field-service-call-annotation.png)
+
+From Teams, the remote collaborator can also make annotations. 
+
+## Post Remote Assist Call to work order
+
+After gaining the necessary guidance from the remote collaborator, the technician will end the call and be given the option to post the call as an activity to the work order time line.
+
+Technicians can choose from a list of bookings they are scheduled for on the day of the call, which matches the **Agenda** view in Field Service Mobile.
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of Remote Assist on a mobile device, showing the option to select a booking to post to.](./media/remote-assist-field-service-call-post-to-work-order-choose-BOTH.png)
+
+Back on the work order, the dispatcher can see a Remote Assist call took place.
+> [!div class="mx-imgBorder"]
+> ![Screenshot of Field Service on desktop, showing a work order with attention to the timeline, which now has a Remote Assist call listed.](./media/remote-assist-field-service-call-metadata-timeline.png)
+
+Documenting the Remote Assist call on the work order is important because it lets managers know which types of issues are requiring extra help and can build training programs to accommodate.
+
+## Set up and view Field Service bookings on HoloLens
+
+If the technician is equipped with a HoloLens headset, then viewing and interacting with Field Service is even better. 
+
+Technicians can:
+
+- View today's bookings.
+
+  > [!div class="mx-imgBorder"]
+  > ![Screenshot of Remote Assist on HoloLens, showing active Field Service bookings.](./media/remote-assist-field-service-bookings-HL2.png)
+
+- View the work order and the recommended support contact field.
+
+  > [!div class="mx-imgBorder"]
+  > ![Screenshot of Remote Assist on HoloLens, showing the support contact on the booking.](./media/remote-assist-field-service-bookings-HL.png)
+
+- Attach images to the work order during the Remote Assist call so future stakeholders can see the work or problem.
+
+  > [!div class="mx-imgBorder"]
+  > ![Screenshot of a user attaching an image in Remote Assist on HoloLens.](./media/remote-assist-field-service-save-image-HL.png)
+
+- Update booking statuses, like marking work as complete.
+
+  > [!div class="mx-imgBorder"]
+  > ![Screenshot of Remote Assist on HoloLens, showing the option to change the status of the booking.](./media/remote-assist-field-service-bookings-status-HL.png)
+
+
+### Set up Field Service for the HoloLens
+
+1. Ensure you're using Field Service v8.2 or later. [Upgrade](https://docs.microsoft.com/dynamics365/field-service/upgrade-field-service#field-service) your solution if necessary. 
+2. Confirm the **My Bookings for Today** view on the **Bookable Resource Booking** entity is included:
+
+     - Go to **Field Service** > **Settings** > **Customizations** > **Customize the System**.
+
+> [!Note]
+> The **My In Progress Bookings** view has been renamed to **My Bookings for Today**. This doc has been updated to reflect the name change. Depending on your version of Dynamics 365 Field Service, you may see either name. The functionality remains the same regardless of the view name.
+
+> ![Bookable Resource view](media/bookable-resource-views.PNG "Bookable Resource view")
+
+> [!Note]
+> Fields can be added to this view if necessary for your business needs.
+
+3. Create and schedule a work order.
+
+     - The booking will not appear in the Dynamics 365 pane in Remote Assist unless the booking status is **In progress** and the related bookable resource has a user record that matches the HoloLens user.

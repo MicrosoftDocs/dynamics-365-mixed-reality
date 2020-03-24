@@ -5,8 +5,7 @@ ms.author: sopsun
 ms.date: 03/18/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview 
-ms.reviewer: kjbjoran
+title: Overview of Dynamics 365 Remote Assist 
 ---
 
 # Overview of Dynamics 365 Remote Assist
