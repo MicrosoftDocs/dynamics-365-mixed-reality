@@ -84,7 +84,7 @@ If you are following the steps in the [Deploy HoloLens in a commercial environme
 
 - See [this Microsoft Teams article](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains) for full instructions for implementing **"Blocked" and "Allow" Federation**.
 
-### Solution 2: Guesting
+## Solution 2: Guesting
 
 > [!NOTE]
 > This solution is *not* necessary if one of the following is true:
