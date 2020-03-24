@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 ---
 
 # Analyze guides created with Dynamics 365 Guides
+
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video on analyzing your guides](https://aka.ms/guidesanalyze)<br>
  
 Guides Analytics is part of the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application suite that includes the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of [!include[pn-power-bi](../includes/pn-power-bi.md)] visual reports that are populated with [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] usage data stored securely in your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
 
