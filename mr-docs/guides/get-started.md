@@ -41,7 +41,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides by using Power BI reports](https://www.youtube.com/watch?v=rkriIa4go1Q&feature=youtu.be)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides by using Power BI reports](https://aka.ms/guidesanalyze)
 
 ### Demo
 
