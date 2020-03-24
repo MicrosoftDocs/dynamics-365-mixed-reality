@@ -33,7 +33,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
     - [Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a QR code anchor](https://youtu.be/NhdBG3emNUs)
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://youtu.be/9jS1NCBq-cg)
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://aka.ms/guidesprintedanchor)
 
     - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://youtu.be/LH1_Y3J3oG4)   
    
