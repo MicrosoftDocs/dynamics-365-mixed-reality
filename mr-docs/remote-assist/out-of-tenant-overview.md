@@ -2,7 +2,7 @@
 author: pawinfie
 description:  Technical document for deploying cross-tenant or cross-company Remote Assist calls
 ms.author: pawinfie
-ms.date: 03/06/2020
+ms.date: 03/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Cross Tenant Communication
