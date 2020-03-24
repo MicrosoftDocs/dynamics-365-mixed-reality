@@ -42,6 +42,8 @@ There are three ways to anchor a guide:
 
 ## Anchor your guide by using a QR code anchor
 
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](https://aka.ms/guidesqrcodeanchor)
+
 The process of creating a QR code anchor involves four basic steps:
 
 1. Use the **Anchor** wizard to select the QR code anchor method.
@@ -130,9 +132,7 @@ Keep the following points in mind when you work with QR code anchors:
 
 ## Anchor your guide by using a circular code anchor
 
-<!--
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a circular code anchor](https://aka.ms/guidesprintedanchor)
--->
 
 The process of creating a circular code anchor involves four basic steps:
 
@@ -236,9 +236,7 @@ During scanning, the forward-facing camera on [!include[pn-hololens](../includes
 
 ## Anchor your guide by using a holographic anchor
 
-<!--
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a holographic anchor](https://aka.ms/guidesdigitalanchor)
--->
 
 The process of creating a holographic anchor involves three basic steps:
 
