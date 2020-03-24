@@ -39,6 +39,16 @@
       "source_path": "mr-docs/remote-assist/index.md",
       "redirect_url": "ra-overview",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/cross-tenant-licensing-implementation.md",
+      "redirect_url": "how-to-lease-ra",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/cross-tenant-overview.md",
+      "redirect_url": "out-of-tenant-overview",
+      "redirect_document_id": "false"
     }
   ]
 }
