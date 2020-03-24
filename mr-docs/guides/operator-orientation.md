@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to operate a guide in Microsoft Dynamics 365 Guides by using the HoloLens app.
 ms.author: mamaylya
-ms.date: 03/03/2020
+ms.date: 03/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Operate a guide in Dynamics 365 Guides
