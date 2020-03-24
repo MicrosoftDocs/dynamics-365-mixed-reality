@@ -16,7 +16,7 @@ A Remote Assist call involves one party using Remote Assist and the other using 
 However, if you want to collaborate with someone outside of your tenant, there are two main scenarios that are covered in this article:
 
 1. [Collaborating with someone outside of your tenant who has their own Remote Assist license.](#scenario-1-communicating-with-external-users)
-1. [Leasing a Remote Assist license to someone outside of your tenant](#scenario-2-leasing-services-to-external-users)
+1. [Leasing a Remote Assist license to someone outside of your tenant](#scenario-2-guesting)
 
 >[!NOTE]
 > This article is intended for admins, and assumes that you have Microsoft Teams **AND** Azure Active Directory (Azure AD) admin privileges. You should also be familiar with the [Teams admin portal](https://admin.teams.microsoft.com/).
