@@ -14,7 +14,7 @@ By pairing the Dynamics 365 Remote Assist mobile application with Dynamics 365 F
 
 1. Use Field Service mobile to launch the Remote Assist mobile app and make calls to remote experts on their Android devices.
 
-2. Automatically post **call logs**, such as time, date, call duration, and the expert's name, and **files shared** in the Remote Assist text chat into their Field Service work order at the end of a Remote Assist mobile call.
+2. Automatically post **call logs**, such as time, date, call duration, and the expert's name, and the URLs of the **files shared** in the Remote Assist text chat into their Field Service work order at the end of a Remote Assist mobile call.
 
 ## Prerequisites 
 - In order to follow along with this guide, you should have completed the set up instructions for Field Service and Remote Assist integration. Learn how to set up the Dynamics 365 Field Service with Remote Assist mobile [here](../troubleshoot-field-service.md). 
@@ -28,6 +28,8 @@ Now that we have it enabled, let's see how integration with Field Service works 
 ![Call log](./media/postfs_2.png "Call log")
 
 2. If files are shared during your Remote Assist call, you will see a list with your call log and files that you can post to your Field Service work order. Select **Post All**.
+> [!TIP] 
+> If you want to post the Remote Assist call recording to your Field Service work order, you can copy and paste the Microsoft Stream URL that will be in your Microsoft Teams chat into your work order. Remember to adjust the Microsoft Stream permissions to allow access to others. 
 
 ![List of files](./media/postfs_1.png "List view of files") 
 
