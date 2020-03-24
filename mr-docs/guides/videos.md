@@ -15,7 +15,7 @@ Watch these videos to quickly learn the basics of [!include[cc-microsoft](../inc
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide on HoloLens (using HoloLens 1)](https://youtu.be/poE7s7_zWDE)<br>
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide on HoloLens (using HoloLens 1)](https://aka.ms/hololensauthor)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Set up a QR code anchor for your guide](https://youtu.be/NhdBG3emNUs)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Set up a circular code anchor for your guide](https://youtu.be/9jS1NCBq-cg)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Set up a holographic anchor for your guide](https://youtu.be/LH1_Y3J3oG4)<br>
