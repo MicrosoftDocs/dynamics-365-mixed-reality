@@ -29,19 +29,17 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://www.youtube.com/watch?v=PiN31iAiRrQ&feature=youtu.be)
 
-<!--
 - Anchor your guide in the real world:
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://www.youtube.com/watch?v=m_I-viB3np8&feature=youtu.be)
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://youtu.be/9jS1NCBq-cg)
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://www.youtube.com/watch?v=LNQ3W-p7_sU&feature=youtu.be)
--->
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://youtu.be/LH1_Y3J3oG4)
+    
+    - [Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a QR code anchor](https://youtu.be/NhdBG3emNUs)
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://www.youtube.com/watch?v=HXG8zWOYqlk&feature=youtu.be)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://youtu.be/poE7s7_zWDE)
 
-<!--
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://www.youtube.com/watch?v=XIRyvg38qlM&feature=youtu.be)
--->
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://youtu.be/EC24dMlAy90)
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides by using Power BI reports](https://www.youtube.com/watch?v=rkriIa4go1Q&feature=youtu.be)
 
