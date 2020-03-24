@@ -42,7 +42,7 @@ There are three ways to anchor a guide:
 
 ## Anchor your guide by using a QR code anchor
 
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](https://aka.ms/guidesqrcodeanchor)
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](https://youtu.be/NhdBG3emNUs)
 
 The process of creating a QR code anchor involves four basic steps:
 
