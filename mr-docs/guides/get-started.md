@@ -27,7 +27,7 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://www.youtube.com/watch?v=PiN31iAiRrQ&feature=youtu.be)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)
 
 - Anchor your guide in the real world:
 
