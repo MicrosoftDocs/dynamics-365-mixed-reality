@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 It's recommended that you always update the Dynamics 365 Guides solution with every release so that you have access to the latest features and updates. However, if you suspect you have an older solution version and need to check for compatibility with the PC and HoloLens apps you're using, see the table below.
 
-To find the app and solution versions you're using, in the PC app, open the **About** command. 
+To find the app and solution versions you're using, in the PC app, open the **About** command. You need to be signed in to see both version numbers.
 
 ![Version number in About command](media/about-command.PNG "Version number in About command")
 
