@@ -113,7 +113,7 @@ For more information about ways to use objects from the 3D toolkit, see [Create 
     ![Dragging a 3D part to a 3D parts box](media/drag-3D-part.PNG "Dragging a 3D part to a 3D parts box")
     
 >[!TIP]
->To find items that were recently added to the gallery, you can sort by name or by the date the item was added.<br>![Sort by list](media/sort-by-list.PNG "Sort by list")
+>To find items that were recently added to the gallery, you can sort by name or by the date the item was added.
 
 ## Import a custom 3D model to use as a 3D part<a name="import"></a>
 
