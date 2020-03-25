@@ -27,7 +27,7 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 
 **Version numbers**
 
-|Apps|Solution|
+|Apps (PC and HoloLens)|Solution|
 |------------------|-------------------|
 |XXXXX|XXXX|
 
