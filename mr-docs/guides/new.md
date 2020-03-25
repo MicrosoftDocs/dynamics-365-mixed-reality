@@ -51,7 +51,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 303.2001.2100
 |[Drag and drop multiple files to the PC app gallery](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/drag-drop-multiple-files-into-pc-app-gallery)|No|
 |[Additional resources in Help menu for PC app](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/additional-resources-help-menu-pc-app)|No|
 
-### Other updates
+**Other updates**
 
 - The media panel is automatically resized to fit the attached media, which is optimized for the [!include[pn-hololens](../includes/pn-hololens.md)] field of view.
 
@@ -71,7 +71,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 301.1910.2400
 |[Turn animations on or off](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/turn-animations-or-off)|No|
 |[Support for STL and PLY file formats for 3D models](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-stl-ply-file-formats-3d-models)|No|
 
-### Other updates:
+**Other updates**
 
 - Removed different sizes for the same model in the 3D toolkit (requires solution update). Since authors can now resize models, the different sizes are not needed anymore.
 
@@ -91,7 +91,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 200.1909.2400
 |Customer satisfaction surveys|Yes|
 |[Opt out of collecting Dynamics 365 Guides data](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/opt-out-collecting-dynamics-365-guides-data)|Yes|
 
-### Other updates
+**Other updates**
 
 The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
 
