@@ -18,25 +18,19 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## April 1, 2020
 
-The April 1 update includes the following new features:
+PC and [!include[pn-hololens](../includes/pn-hololens.md)] version XXXXX and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version XXXXX include the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|------|
 |[Restrict access to guides that are in progress](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process)|No|
 |[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)|No|
 
-Version numbers:
-
-|Apps (PC and HoloLens)|Solution|
-|------------------|-------------------|
-|XXXXX|XXXX|
-
 >[!NOTE]
 >If you have feature requests or suggested improvements, please send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at [aka.ms/GuidesIdeas](aka.ms/GuidesIdeas).
 
 ## February 25, 2020
 
-The February 25 update includes the following new features:
+PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 304.2002.25001 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 300.0.4.139 include the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
@@ -45,15 +39,9 @@ The February 25 update includes the following new features:
 |[Open an app created in Power Apps from a step](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-app-created-power-apps-step)|Yes|
 |[Deactivate, reactivate, or delete a guide](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/deactivate-reactivate-or-delete-guide)|No|
 
-Version numbers:
-
-|Apps (PC and HoloLens)|Solution|
-|------------------|-------------------|
-|304.2002.25001|300.0.4.139|
-
 ## January 28, 2020
 
-The January 28 update includes the following new features:
+PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 303.2001.21001 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 300.0.3.137 include the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
@@ -68,20 +56,14 @@ The January 28 update includes the following new features:
 - The media panel is automatically resized to fit the attached media, which is optimized for the [!include[pn-hololens](../includes/pn-hololens.md)] field of view.
 
 - The **Recent guides** list now shows only your recently opened guides.
-
+PC and [!include[pn-hololens](../includes/pn-hololens.md)] version XXXXX and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version XXXXX include the following new features:
 - Hologram stabilization has been improved and optimized for HoloLens 2.
 
 - Documentation has been reorganized documentation so that it's easier to find information for specific roles (admin, author, and operator).
 
-### Version numbers
-
-**Apps (PC and HoloLens):** 303.2001.21001
-
-**Solution:** 300.0.3.137
-
 ## October 29, 2019
 
-The October 29 brings highly requested features for content creators: 
+PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 301.1910.24001 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 300.0.1.115 include the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
@@ -95,19 +77,13 @@ The October 29 brings highly requested features for content creators:
 
 - Updated the Follow (tag-along) behavior of the Step card to be consistent with the Windows Holographic OS (Shell) behavior where the Step card follows you when the option is turned on.
 
-### Version numbers
-
-**Apps (PC and HoloLens):** 301.1910.24001
-
-**Solution:** 300.0.1.115
-
 ## October 1, 2019
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is now generally available (GA)! The October 1, 2019 updates for the PC app, HoloLens app, and Common Data Service solution need to be installed to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Upgrades will continue to work with your preview license until it expires. To check your preview license expiration date, go to https:<i></i>//admin.microsoft.com/, and then select **Billing** in settings to ensure continuity.
 
 New customers must acquire a new GA license. Please go to aka.ms/GetGuides for information on licenses, installation, and upgrades.
 
-New features included in this release include the following:
+PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 200.1909.24001 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 200.0.0.107 include the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
@@ -119,15 +95,9 @@ New features included in this release include the following:
 
 The October 1 release also includes refactoring of code for hologram positions to enhance overall performance and enable future improvements. You may notice that the position of some imported models, which have had scale applied to them, might be shifted. You will need to re-position those 3D models. This does not impact the position of models from the 3D toolkit.
 
-### Version numbers
-
-**Apps (PC and HoloLens):** 200.1909.24001
-
-**Solution:** 200.0.0.107
-
 ## August 27, 2019
 
-The August 27 release includes the following new features:
+PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 104.1908.24001 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 104.1908.0.117 include the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
@@ -135,21 +105,15 @@ The August 27 release includes the following new features:
 |Improved hologram manipulation|No|
 |[Support for additional languages](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/localization)|Yes|
 
-### Version numbers
-
-**Apps (PC and HoloLens):** 104.1908.24001
-
-**Solution:** 104.1908.0.117
-
 ## August 6, 2019
 
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.1908.2001.0 fixes an issue in the July 23rd release of the [!include[pn-hololens](../includes/pn-hololens.md)] app that prevented the list of guides from being shown in the [!include[pn-hololens](../includes/pn-hololens.md)] application for Europe, Middle East, and Asia-based customers. We also released an updated version of the Power BI reporting template that fixes a bug related to missing data causing the report to break.
 
-To get this update, you only need to update the [!include[pn-hololens](../includes/pn-hololens.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store. You don't need to update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. For the Power BI report, please visit https:<i></i>//aka.ms/guidesreport.
+To get this update, you only need to update the [!include[pn-hololens](../includes/pn-hololens.md)] app from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store. You don't need to update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. For the Power BI report, please visit https:<i></i>//aka.ms/guidesreport.
 
 ## July 23, 2019
 
-The July 23 release includes the following new features:
+PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 104.1907.19001 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 104.1907.0.33 include the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
@@ -159,17 +123,9 @@ Customers interested in previewing integration with [!include[pn-dyn-365-field-s
 
 Visit aka.ms/getguides for steps to upgrade.
 
-### Version numbers
-
-**Apps (PC and HoloLens):** 104.1907.19001
-
-**Solution:** 104.1907.0.33 
-
 ## July 9, 2019
 
-The July 9 release brings a new look and feel to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps. We improved the user experience and aligned it with the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] family of apps. 
-
-This release includes the following new features:
+PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 103.1907.4001.0 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version XXXXXXXXXXXXXXX include the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
@@ -179,25 +135,13 @@ This release includes the following new features:
 |3D models loaded for each step to improve performance on HoloLens|No|
 |[What's New panel](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/new)|No|
  
-### Version numbers
-
-**Apps (PC and HoloLens):** 103.1907.4001.0
-
-**Solution:** ????????? 
-
 ## June 3, 2019
 
-The June 3 release includes the following new features:
+PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 103.1905.31001 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version XXXXXXXXXXXXX include the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
 |[Switch anchoring method at any time](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/anchoring-improvements)|Yes|
-
-### Version numbers
-
-**Apps (PC and HoloLens):** 103.1905.31001
-
-**Solution:** ????????? 
 
 ## See also
 
