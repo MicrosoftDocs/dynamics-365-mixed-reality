@@ -25,11 +25,11 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 |[Restrict access to guides that are in progress](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process)|No|
 |[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)|No|
 
-**Version numbers**
+**Version numbers:**
 
-**Apps (PC and HoloLens):** XXXXX
-
-**Solution:** XXXX
+|Apps|Solution|
+|------------------|-------------------|
+|XXXXX|XXXX|
 
 >[!NOTE]
 >If you have feature requests or suggested improvements, please send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at [aka.ms/GuidesIdeas](aka.ms/GuidesIdeas).
