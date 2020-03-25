@@ -18,7 +18,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## April 1, 2020
 
-The April 1 update addresses accessibility issues and adds some quality improvements. 
+The April 1 update includes the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|------|
