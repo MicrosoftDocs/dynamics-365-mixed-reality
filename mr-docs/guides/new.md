@@ -25,7 +25,7 @@ The April 1 update includes the following new features:
 |[Restrict access to guides that are in progress](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process)|No|
 |[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)|No|
 
-**Version numbers**
+Version numbers:
 
 |Apps (PC and HoloLens)|Solution|
 |------------------|-------------------|
@@ -45,7 +45,8 @@ The February 25 update includes the following new features:
 |[Open an app created in Power Apps from a step](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-app-created-power-apps-step)|Yes|
 |[Deactivate, reactivate, or delete a guide](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/deactivate-reactivate-or-delete-guide)|No|
 
-**Version numbers**
+Version numbers:
+
 |Apps (PC and HoloLens)|Solution|
 |------------------|-------------------|
 |304.2002.25001|300.0.4.139|
