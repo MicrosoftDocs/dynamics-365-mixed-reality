@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 
 Remote Assist mobile provides technicians and remote collaborators with document sharing capabilities. Sharing documents promotes seamless collaboration during a call by adding more context and information, such as visual aids and schematics, to the technicians’ environment. This facilitates technicians having richer conversations with remote collaborators and, ultimately, solve their problems quickly and efficiently.  
  
-Both the technician and remote collaborators can send **any** file type to each other. This includes, but is not limited to .jpg, .png, .tiff, .mp4, .pdf, .docx, .xlsx, .txt, and .apk files. They can upload files and images from their local device or OneDrive. In order for technicians to open and access these different file types, they will need the corresponding app that supports the file type.  
+Both the technician and remote collaborators can send **any** file type to each other. This includes, but is not limited to .jpg, .png, .tiff, .mp4, .pdf, .docx, .xlsx, and .txt files. They can upload files and images from their local device or OneDrive. In order for technicians to open and access these different file types, they will need the corresponding app that supports the file type.  
 
 If you're a Dynamics 365 Field Service customer, the files shared during your Remote Assist for mobile call can be linked to your work order, learn more [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
 
