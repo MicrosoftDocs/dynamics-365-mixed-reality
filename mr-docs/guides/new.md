@@ -56,7 +56,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 303.2001.2100
 - The media panel is automatically resized to fit the attached media, which is optimized for the [!include[pn-hololens](../includes/pn-hololens.md)] field of view.
 
 - The **Recent guides** list now shows only your recently opened guides.
-PC and [!include[pn-hololens](../includes/pn-hololens.md)] version XXXXX and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version XXXXX include the following new features:
+
 - Hologram stabilization has been improved and optimized for HoloLens 2.
 
 - Documentation has been reorganized documentation so that it's easier to find information for specific roles (admin, author, and operator).
