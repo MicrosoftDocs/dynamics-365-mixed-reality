@@ -22,7 +22,8 @@ The April 1 update addresses accessibility issues and adds some quality improvem
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|------|
-|[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|No|
+|[Restrict access to guides that are in progress](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)|
+|[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)|No|
 
 ### Version numbers
 
