@@ -34,10 +34,10 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 304.2002.2500
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|[Anchor guides by using QR codes](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features)|Yes|
-|[Create and copy a link to a guide or step](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/create-copy-link-guide-or-step)|No|
-|[Open an app created in Power Apps from a step](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-app-created-power-apps-step)|Yes|
-|[Deactivate, reactivate, or delete a guide](https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/deactivate-reactivate-or-delete-guide)|No|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features" target="_blank">Anchor guides by using QR codes</a>|Yes|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/create-copy-link-guide-or-step" target="_blank">Create and copy a link to a guide or step</a>|No|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-app-created-power-apps-step" target="_blank">Open an app created in Power Apps from a step</a>|Yes|
+|<a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/deactivate-reactivate-or-delete-guide" target="_blank">Deactivate, reactivate, or delete a guide</a>|No|
 
 ## January 28, 2020
 
