@@ -26,7 +26,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version XXXXX and [!i
 |<a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Sort items in the PC app gallery by recently added, or by name</a>|No|
 
 >[!NOTE]
->If you have feature requests or suggested improvements, please send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at [aka.ms/GuidesIdeas](aka.ms/GuidesIdeas).
+>If you have feature requests or suggested improvements, please send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at aka.ms/GuidesIdeas.
 
 ## February 25, 2020
 
