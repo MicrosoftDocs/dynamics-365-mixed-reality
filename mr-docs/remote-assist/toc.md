@@ -49,7 +49,6 @@
 
 ## Additional resources
 ### Version history
-#### [Remote Assist](version-history.md)
 #### [Remote Assist mobile](version-history-remote-assist-mobile.md)
 
 ### [How-to videos](videos.md)
