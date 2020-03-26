@@ -14,15 +14,15 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!IMPORTANT]
->A mandatory upgrade to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution will be released on April 28, 2020. The PC and HoloLens apps will support both the old and updated solutions for 30 days. Starting on May 1, the PC and HoloLens apps will require the April 28, 2020 (or later) solution. Work with your IT admin to schedule a solution update. [Learn how to update the solution](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade).
+>A mandatory upgrade to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution will be released on April 28, 2020. The PC and HoloLens apps will support both the old and updated solutions for 30 days. Starting on May 1, the PC and HoloLens apps will require the April 28, 2020 (or later) solution. Work with your IT admin to schedule a solution update. <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>.
 
 ## April 1, 2020
 
 PC and [!include[pn-hololens](../includes/pn-hololens.md)] version XXXXX and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version XXXXX include the following new features:
 
-|Feature|Solution update required?|
+|FeatureXX|Solution update required?|
 |----------------------------------------------------------------------------------------|------|
-|[Restrict access to guides that are not ready to share with operators](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process)|No|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process" target="_blank">Restrict access to guides that are not ready to share with operators</a>|No|
 |[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)|No|
 
 >[!NOTE]
