@@ -97,9 +97,9 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 104.1908.2400
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|[Accessibility enhancements](https://docs.microsoft.com/en-us/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/accessibility)|No|
+|<a href="https://docs.microsoft.com/en-us/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/accessibility" target="_blank">Accessibility enhancements</a>|No|
 |Improved hologram manipulation|No|
-|[Support for additional languages](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/localization)|Yes|
+|<a href="https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/localization" target="_blank">Support for additional languages</a>|Yes|
 
 ## August 6, 2019
 
