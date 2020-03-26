@@ -125,11 +125,11 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 103.1907.4001
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|[PC app is fully responsive across various screen sizes](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/pc-ux)|No|
-|[Left navigation menu makes navigation faster](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/pc-ux)|No|
-|[Gaze-dwell interactions consistently placed for easier selection](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/hololens-ux)|No|
+|<a href="https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/pc-ux" target="_blank">PC app is fully responsive across various screen sizes</a>|No|
+|<a href="https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/pc-ux" target="_blank">Left navigation menu makes navigation faster</a>|No|
+|<a href="https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/hololens-ux" target="_blank">Gaze-dwell interactions consistently placed for easier selection</a>|No|
 |3D models loaded for each step to improve performance on HoloLens|No|
-|[What's New panel](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/new)|No|
+|<a href="https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/new" target="_blank">What's New panel</a>|No|
  
 ## June 3, 2019
 
@@ -137,7 +137,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 103.1905.3100
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|[Switch anchoring method at any time](https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/anchoring-improvements)|Yes|
+|<a href="https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/anchoring-improvements" target="_blank">Switch anchoring method at any time</a>|Yes|
 
 ## See also
 
