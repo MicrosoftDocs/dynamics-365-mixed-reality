@@ -97,7 +97,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 104.1908.2400
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|<a href="https://docs.microsoft.com/en-us/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/accessibility" target="_blank">Accessibility enhancements</a>|No|
+|<a href="https://docs.microsoft.com/en-us/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/accessibility" target="_blank">Accessibility enhancements for PC app</a>|No|
 |Improved hologram manipulation|No|
 |<a href="https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/localization" target="_blank">Support for additional languages</a>|Yes|
 
@@ -113,7 +113,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 104.1907.1900
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|[Integration with Dynamics 365 Field Service](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/integration-dynamics-365-field-service)|Yes|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/integration-dynamics-365-field-service" target="_blank">Integration with Dynamics 365 Field Service</a>|Yes|
 
 Customers interested in previewing integration with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] need to have an existing [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance with [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.6.0.183 or later installed. 
 
