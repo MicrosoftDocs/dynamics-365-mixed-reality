@@ -22,7 +22,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version XXXXX and [!i
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|------|
-|<a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process" target="_blank">Restrict access to guides that are not ready to share with operators</a>|No|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process" target="_blank">Restrict access to guides that aren't ready to share with operators</a>|No|
 |[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)|No|
 
 >[!NOTE]
