@@ -45,11 +45,11 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 303.2001.2100
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|[Instinctual interactions for authors on HoloLens 2](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/instinctual-interactions-authors-hololens-2)|No|
-|[Open a website from the HoloLens app](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-website-hololens-app)|Yes|
-|[Assign Author and Operator roles to users](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/assign-operator-author-roles-users)|Yes|
-|[Drag and drop multiple files to the PC app gallery](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/drag-drop-multiple-files-into-pc-app-gallery)|No|
-|[Additional resources in Help menu for PC app](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/additional-resources-help-menu-pc-app)|No|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/instinctual-interactions-authors-hololens-2" target="_blank">Instinctual interactions for authors on HoloLens 2</a>|No|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-website-hololens-app" target="_blank">Open a website from the HoloLens app</a>|Yes|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/assign-operator-author-roles-users" target="_blank">Assign Author and Operator roles to users</a>|Yes|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/drag-drop-multiple-files-into-pc-app-gallery" target="_blank">Drag and drop multiple files to the PC app gallery</a>|No|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/additional-resources-help-menu-pc-app" target="_blank">Additional resources in Help menu for PC app</a>|No|
 
 **Other updates**
 
