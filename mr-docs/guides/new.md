@@ -22,7 +22,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version XXXXX and [!i
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|------|
-|[Restrict access to guides that are in progress](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process)|No|
+|[Restrict access to guides that are not ready to share with operators](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process)|No|
 |[Sort items in the PC app gallery by recently added, or by name](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)|No|
 
 >[!NOTE]
@@ -79,16 +79,12 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 301.1910.2400
 
 ## October 1, 2019
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is now generally available (GA)! The October 1, 2019 updates for the PC app, HoloLens app, and Common Data Service solution need to be installed to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Upgrades will continue to work with your preview license until it expires. To check your preview license expiration date, go to https:<i></i>//admin.microsoft.com/, and then select **Billing** in settings to ensure continuity.
-
-New customers must acquire a new GA license. Please go to aka.ms/GetGuides for information on licenses, installation, and upgrades.
-
 PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 200.1909.24001 and [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution version 200.0.0.107 include the following new features:
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
 |[Try a demo of Dynamics 365 Guides](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/try-demo-dynamics-365-guides)|Yes|
-|Customer satisfaction surveys|Yes|
+|Customer satisfaction surveys|No|
 |[Opt out of collecting Dynamics 365 Guides data](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/opt-out-collecting-dynamics-365-guides-data)|Yes|
 
 **Other updates**
