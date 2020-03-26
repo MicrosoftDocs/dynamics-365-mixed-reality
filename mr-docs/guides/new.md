@@ -143,5 +143,5 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 103.1905.3100
 
 - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides solution</a>
 
-- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-overview" target="_blank">Use the PC authoring application to create a guide</a>
+- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility?branch" target="_blank">Compatibility between solution and PC/HoloLens apps</a>
 
