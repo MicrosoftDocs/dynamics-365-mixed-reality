@@ -83,7 +83,7 @@ PC and [!include[pn-hololens](../includes/pn-hololens.md)] version 200.1909.2400
 
 |Feature|Solution update required?|
 |----------------------------------------------------------------------------------------|-------|
-|<a href="ttps://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/try-demo-dynamics-365-guides" target="_blank">Try a demo of Dynamics 365 Guides</a>|Yes|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/try-demo-dynamics-365-guides" target="_blank">Try a demo of Dynamics 365 Guides</a>|Yes|
 |Customer satisfaction surveys|No|
 |<a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/opt-out-collecting-dynamics-365-guides-data" target="_blank">Opt out of collecting Dynamics 365 Guides data</a>|Yes|
 
