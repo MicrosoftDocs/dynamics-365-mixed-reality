@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!IMPORTANT]
->A mandatory upgrade to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution will be released on April 28,2020. The PC and HoloLens apps will support both the old and updated solution for 30 days. Starting on May 1, the PC and HoloLens apps will require the April 28, 2020 (or later) [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. Work with your IT admin to schedule the installation of this update. [Learn how to upgrade](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade).
+>A mandatory upgrade to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution will be released on April 28, 2020. The PC and HoloLens apps will support both the old and updated solution for 30 days. Starting on May 1, the PC and HoloLens apps will require the April 28, 2020 (or later) [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. Work with your IT admin to schedule the installation of this update. [Learn how to upgrade](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade).
 
 ## April 1, 2020
 
