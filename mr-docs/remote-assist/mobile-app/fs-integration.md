@@ -16,7 +16,7 @@ By pairing the Dynamics 365 Remote Assist mobile application with Dynamics 365 F
 
 2. Automatically post **call logs**, such as time, date, call duration, and the expert's name, and the URLs of the **files shared** in the Remote Assist text chat into their Field Service work order at the end of a Remote Assist mobile call.
 
-Organizations with field service management can capture relevant contextual information from their technicians in the field!
+Organizations with field service management can seamlessly capture relevant contextual information from their technicians in the field!
 
 ## Prerequisites 
 - In order to follow along with this guide, you should have completed the set up instructions for Field Service and Remote Assist integration. Learn how to set up the Dynamics 365 Field Service with Remote Assist mobile [here](../troubleshoot-field-service.md). 
