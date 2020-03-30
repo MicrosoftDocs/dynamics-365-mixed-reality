@@ -2,7 +2,7 @@
 author: BryceHo
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
 ms.author: makamat
-ms.date: 02/25/2020
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Known issues with the Dynamics 365 Guides PC app
