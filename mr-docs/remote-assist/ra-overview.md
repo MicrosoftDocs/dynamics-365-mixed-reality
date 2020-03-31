@@ -69,9 +69,11 @@ Learn more about core concepts in mixed reality technology in the following arti
 
 ## Devices
 
-Technicians and inspectors use Remote Assist on [HoloLens 1](https://docs.microsoft.com/hololens/hololens1-hardware), [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware), or AR-capable iOS or Android devices. 
+Technicians and inspectors use Remote Assist on [HoloLens 1](https://docs.microsoft.com/hololens/hololens1-hardware), [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware), or AR-capable [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices.
 
 Remote collaborators use Microsoft Teams on a PC or a mobile device.
+
+Learn more about the [technical requirements](requirements.md) for deploying and using Microsoft Dynamics 365 Remote Assist throughout your organization.
 
 ## Integrate Dynamics 365 Field Service  
 
@@ -84,6 +86,7 @@ Learn more [here](https://docs.microsoft.com/dynamics365/field-service/remote-as
 ## Next steps
 
 ### For administrators
+- Learn the [technical requirements](requirements.md) for deploying and using Microsoft Dynamics 365 Remote Assist throughout your organization.
 - Learn how to get a [free trial of Remote Assist](try-remote-assist.md).
 - Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 - Learn how to [deploy Remote Assist](deploy-remote-assist.md), including how to assign licenses and set up HoloLens and mobile devices.
