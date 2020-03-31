@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about resources to get started with Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 02/25/2020
+ms.date: 03/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Guides
@@ -25,25 +25,23 @@ This resource is where you are right now. We've organized the documentation by r
 
 These step-by-step video tutorials provide a quick overview of key concepts:
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides](https://www.youtube.com/watch?v=dk-TbWtMb-4&feature=youtu.be)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Overview of Dynamics 365 Guides](https://aka.ms/guidesoverview)
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://www.youtube.com/watch?v=PiN31iAiRrQ&feature=youtu.be)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author a guide in the PC app](https://aka.ms/pcauthor)
 
-<!--
 - Anchor your guide in the real world:
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://www.youtube.com/watch?v=m_I-viB3np8&feature=youtu.be)
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a QR code anchor](https://youtu.be/NhdBG3emNUs)
 
-    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://www.youtube.com/watch?v=LNQ3W-p7_sU&feature=youtu.be)
--->
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a circular code anchor](https://aka.ms/guidesprintedanchor)
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://www.youtube.com/watch?v=HXG8zWOYqlk&feature=youtu.be)
+    - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Use a holographic anchor](https://aka.ms/guidesdigitalanchor)   
+   
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Author in the HoloLens app using HoloLens 1](https://aka.ms/hololensauthor)
 
-<!--
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://www.youtube.com/watch?v=XIRyvg38qlM&feature=youtu.be)
--->
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides by using Power BI reports](https://www.youtube.com/watch?v=rkriIa4go1Q&feature=youtu.be)
+- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides by using Power BI reports](https://aka.ms/guidesanalyze)
 
 ### Demo
 

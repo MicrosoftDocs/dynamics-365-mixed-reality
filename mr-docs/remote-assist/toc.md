@@ -6,11 +6,11 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
 ### [Deploy Remote Assist](deploy-remote-assist.md)
-### [Set up Teams](set-up-teams.md)
 ### Collaborate with users not currently in your tenant 
-#### [Overview](cross-tenant-overview.md)
+#### [Overview](out-of-tenant-overview.md)
 #### [Lease Remote Assist licenses to external users](how-to-lease-ra.md)
 #### [Set up cross-tenant calling (open federation)](cross-company-calling.md)
+### [Set up Teams](set-up-teams.md)
 
 ## Remote Assist on Hololens 1 and 2
 ### [Overview](overview-hololens.md)
@@ -32,11 +32,13 @@
 
 ## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
-### [Using the in-app tutorial](mobile-app/mobile-tutorial.md)
-### [Making calls](mobile-app/making-calls.md)
+### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
+### [Make calls](mobile-app/making-calls.md)
 ### [Annotate your environment](mobile-app/annotate-your-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
+### [Share files](mobile-app/file-sharing.md)
+### [Record calls](mobile-app/call-recording.md)
 ### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
