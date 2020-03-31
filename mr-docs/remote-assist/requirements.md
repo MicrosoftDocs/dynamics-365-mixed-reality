@@ -2,11 +2,11 @@
 author: sophiasysun
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: sopsun
-ms.date: 10/01/2019
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
-ms.reviewer: v-brycho
+ms.reviewer: krbjoran
 ---
 
 # Requirements for setting up Dynamics 365 Remote Assist
@@ -34,18 +34,18 @@ The following tables list technical requirements for deploying and using
 
 The recommended bandwidth for optimal performance of [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] is 1.5 mbps.
 
-For mobile devices in **low bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 MB/s, please see low bandwidth documentation for more information [here]( https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
+For mobile devices in **low bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 mbps. For more information, see the [low bandwidth documentation]( https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
 
-Though audio/video calls might be possible in environments with reduced bandwidth, you might experience [!include[pn-hololens](../includes/pn-hololens.md)] feature degradation, limiting the user experience. 
+Though audio and video calls might be possible in environments with reduced bandwidth, you might experience [!include[pn-hololens](../includes/pn-hololens.md)] feature degradation, limiting the user experience. 
 
 To test your company’s network bandwidth, follow these steps:
 
-1.  Have a [!include[pn-teams](../includes/pn-teams.md)] user start a video call with another [!include[pn-teams](../includes/pn-teams.md)] user.
+1. Have a [!include[pn-teams](../includes/pn-teams.md)] user start a video call with another [!include[pn-teams](../includes/pn-teams.md)] user.
 
-2.  Add a separate video call between a third and fourth user, and another for a
+2. Add a separate video call between a third and fourth user, and another for a
     fifth and sixth user.
 
-3.  Continue adding video callers to stress-test your network bandwidth until
+3. Continue adding video callers to stress-test your network bandwidth until
     you’re confident that multiple users can successfully connect on video calls
     at the same time.
 
