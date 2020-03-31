@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Download 3D models to use offline with Dynamics 365 Product Visualize
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+
 You can download models to use offline when you're away from a cellular network or Wi-Fi. To download models for offline use, you need to first enable Offline mode.
 
 > [!NOTE]
