@@ -14,11 +14,12 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!IMPORTANT]
-> A mandatory upgrade to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution will be released on April 28, 2020. The PC and HoloLens apps will support both the old and updated solutions for 30 days. Starting May 1, 2020, the PC and HoloLens apps will require the April 28 solution or later. Work with your IT admin to schedule a solution update. <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>.
+> An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution will be released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.<br><br>Any updates to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released after May 26 will require the April 28, 2020 solution. You have until May 26  to install the solution update. All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released on or after May 26 will be backward compatible up to the April 28, 2020 version of the solution.<br><br>If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact; you will be able to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with the existing feature set.<br><br>To schedule a solution update, work with your IT admin.<br><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a><br>
+<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
 
 ## April 1, 2020
 
-Version XXXXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and version XXXXX of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution include the following new features.
+Version 305.2003.28001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and version 300.0.5.127 of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution include the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
@@ -121,7 +122,7 @@ Visit aka.ms/getguides for steps to upgrade.
 
 ## July 9, 2019
 
-Version 103.1907.4001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and version XXXXXXXXXXXXXXX of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution include the following new features.
+Version 103.1907.4001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps includes the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|-------|
@@ -133,7 +134,7 @@ Version 103.1907.4001.0 of the PC and [!include[pn-hololens](../includes/pn-holo
  
 ## June 3, 2019
 
-Version 103.1905.31001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and version XXXXXXXXXXXXX of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution include the following new features.
+Version 103.1905.31001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps includew the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|-------|
