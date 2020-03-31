@@ -43,7 +43,7 @@ To collaborate with a Remote Assist user, you may use Microsoft Teams desktop ap
 
 ## Network requirements
 
-The recommended bandwidth for optimal performance of [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] is 1.5 mbps.
+The recommended bandwidth for optimal performance of [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] is 1.5 Mbps.
 Though audio/video calls might be possible in environments with reduced
 bandwidth, you might experience [!include[pn-hololens](../includes/pn-hololens.md)] feature degradation, limiting the user
 experience. To test your company’s network bandwidth, follow these steps:
