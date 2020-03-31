@@ -11,35 +11,56 @@ ms.reviewer: krbjoran
 
 # Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 
-The following tables list technical requirements for deploying and using
-[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] throughout your organization.
+The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist throughout your organization. 
 
-## Device requirements for using Remote Assist 
+## Device requirements 
 
-Remote Assist is available on HoloLens 1, HoloLens 2, and AR-capable mobile devices. 
+A Remote Assist call is between a Remote Assist user and a Microsoft Teams user. 
+Remote Assist is available on HoloLens, HoloLens 2, and qualifying Android or iOS mobile devices
+To collaborate with a Remote Assist user, a Microsoft Teams user may only use the Teams application on Windows 10 PC or mobile devices.
+                                                                                                                       |
 
-| Device                   | OS                                                                                                                                                                                                        | Details                                                                                                                                                                                                                                                                              |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| HoloLens 1 or HoloLens 2 | Build 10.0.14393.0 or later. HoloLens build 10.0.14393.0 is the minimum that supports Remote Assist.                                                                                                      | We recommend updating HoloLens to newer versions when available. See  [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS). |
-| Mobile device            | Any [iOS phone or tablet with ARKit enabled](https://www.apple.com/ios/augmented-reality) or [Android phone or tablet with ARCore enabled](https://developers.google.com/ar/discover/supported-devices)  | (Not sure what to put here)                                                                                                                                                                                                                                                                |
+### Device options and requirements for a Remote Assist user 
 
-## Device requirements for using Microsoft Teams to communicate with Remote Assist users 
-
-To collaborate with a Remote Assist user, you may use Microsoft Teams desktop application ("desktop" or "PC"?) or mobile application. 
-
-| Device         | OS                                                                     | Details                                                                                                                                     |
-|----------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Windows 10 PC  | Any Windows 10 device.                                                 | A Windows 10 PC running Microsoft Teams PC app can collaborate with Remote Assist HoloLens or Remote Assist mobile user.                    |
-| Mobile device  | Any iOS or Android phone or tablet running Microsoft Teams mobile app. | Any iOS or Android phone or tablet running Microsoft Teams PC app can collaborate with Remote Assist HoloLens or Remote Assist mobile user. |
+| Device                                   | OS requirements                                                                                                                                                                                                          | Details                                                                                                                                                                                                                  |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Remote Assist on HoloLens  or HoloLens 2 | HoloLens or HoloLens 2 running 10.0.17134.0 (i.e., Windows 10 April 2018) build or later. We recommend [updating](https://docs.microsoft.com/en-us/hololens/hololens-updates) HoloLens to newer versions when available. | See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS). |
+| Remote Assist on mobile devices          | Dynamics 365 Remote Assist mobile is available on Android devices with ARCore-enabled devices and iOS devices with ARKit-enabled devices.                                                                                | These are the lists of AR-supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://www.apple.com/ios/augmented-reality/).                                           |
 
 
-## Licensing and product requirements
+### Device options and requirements for a remote collaborator using Teams 
 
-| **Product required**|**Details**|**Learn more**|
-|---------------|-------------------------------------------------------|----------------------------------------------------------|
-|[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]|[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] software<br></br>**Note** [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] is included in the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] subscription for individuals using a [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] license on [!include[pn-hololens](../includes/pn-hololens.md)]. A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] license is also required for individuals (experts) who communicate with a [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user on [!include[pn-hololens](../includes/pn-hololens.md)]. [!include[pn-teams](../includes/pn-teams.md)] may be available [as a free download](https://teams.microsoft.com/downloads) for these users.| [Buy](buy-remote-assist.md) and [deploy](deploy-remote-assist.md) Dynamics 365 Remote Assist|
-|[!include[pn-azure](../includes/pn-azure.md)] Active Directory ([!include[pn-azure](../includes/pn-azure.md)] AD) account|Required for: <ul><li>Purchasing subscription and assigning licenses. You’ll need an [!include[pn-azure](../includes/pn-azure.md)] AD account for each licensed user. </li><li>Distributing apps through [!include[cc-microsoft](../includes/cc-microsoft.md)] Store for Business. </li><li>Users when signing in to the app. </ul> | [Get started with Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/get-started-azure-ad) |
-| [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] (optional). **Note** that [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.2 or later is required. |[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] requires a [!include[pn-dyn-365](../includes/pn-dyn-365.md)] license if you want to view [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] bookings in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]. To view [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboards linked to [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] bookings in [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], users must have a valid [!include[pn-power-bi](../includes/pn-power-bi.md)] license. | [Learn more about Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/)|
+| Device                             | OS requirements                                             | Details                                                                                                                                                                                                                                                                                 |
+| ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Teams application on Windows 10 PC | Any Windows 10 build.                                       | A Windows 10 PC running the Teams PC application can collaborate with Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices.                |
+| Teams application on mobile device | Any iOS or Android phone or tablet running Microsoft Teams. | A phone or tablet running the Microsoft Teams Mobile application can collaborate with Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices |
+
+
+
+##  Licensing and product requirements per role
+
+| Role                                       | Software needed                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Administrator                              | *   [Azure Active Directory (AAD)](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis) account to assign licenses in M365 Admin portal and distribute apps through Microsoft Store for Business. Learn more about how to deploy Remote Assist \[here\]([https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/deploy-remote-assist](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/deploy-remote-assist)).                                                                                                                                                                                                                                                                                                                                                |
+| Dynamics 365 Remote Assist user            | *   [Azure Active Directory (AAD)](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis) account
+*   Teams license (included with Remote Assist license)
+*   Remote Assist license
+*   Remote Assist app on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices)or [iOS](https://www.apple.com/ios/augmented-reality/) device
+*   (Optional) Dynamics 365 Field Service license\*
+*   (Optional) PowerBI license\*\*                                                                                                                                                                                                                                                                                                                               |
+| Remote collaborator (Uses Microsoft Teams) | Teams requirements to communicate with a Remote Assist user:
+
+*   Teams license 
+*   Teams mobile app or the Windows 10 Teams PC application
+
+Note: It is possible to use Teams to communicate with a Remote Assist user without acquiring a Teams license. Teams supports [guest access](https://docs.microsoft.com/en-us/MicrosoftTeams/guest-access), which lets an organization add individual users from outside their organization into their teams and channels. Anyone with a business or consumer email account, such as Outlook, Gmail, or others, can use Teams as a guest in another organization's tenant. 
+
+Note: The remote collaborator can use Teams for free, which offers [limited functionality](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium#how-does-teams-free-compare-to-the-full-version-of-teams). |
+
+
+
+* *To use Remote Assist to view Dynamics 365 Field Service bookings, users will need both a Remote Assist and Field Service license version 8.2 or later. [Learn more about Dynamics 365 Field Service](https://dynamics.microsoft.com/en-us/field-service/overview/).
+* **To use Remote Assist to open Power BI dashboards linked to Dynamics 365 Field Service bookings, users must have a valid PowerBI license. [Learn more about PowerBI.](https://powerbi.microsoft.com/en-us/)
 
 ## Network requirements
 
