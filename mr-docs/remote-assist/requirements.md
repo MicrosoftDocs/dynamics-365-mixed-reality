@@ -14,13 +14,24 @@ ms.reviewer: v-brycho
 The following tables list technical requirements for deploying and using
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] throughout your organization.
 
-## Device requirements
+## Device requirements for using Remote Assist 
 
-| **Device**               | **OS requirements**                                                                                                                                                  | **Details**                                                                                                                                                                                                                    |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [!include[pn-hololens](../includes/pn-hololens.md)]                 | Build 10.0.14393.0 or later. [!include[pn-hololens](../includes/pn-hololens.md)] build 10.0.14393.0 is the minimum that supports [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]. We recommend updating [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when available. | See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, Mobile Device Management (MDM), and [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Server Update Services (WSUS). |
-| [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC (optional) | Any [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 build.| A [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] 10 PC can collaborate with [!include[pn-hololens](../includes/pn-hololens.md)] using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)].|
-|Mobile device (optional)|Any iOS or [!include[tn-android](../includes/tn-android.md)] phone or tablet running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile.|A phone or tablet running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile can collaborate with [!include[pn-hololens](../includes/pn-hololens.md)].|
+Remote Assist is available on HoloLens 1, HoloLens 2, and AR-capable mobile devices. 
+
+| Device                   | OS                                                                                                                                                                                                        | Details                                                                                                                                                                                                                                                                              |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HoloLens 1 or HoloLens 2 | Build 10.0.14393.0 or later. HoloLens build 10.0.14393.0 is the minimum that supports Remote Assist.                                                                                                      | We recommend updating HoloLens to newer versions when available. See  [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS). |
+| Mobile device            | Any [iOS phone or tablet with ARKit enabled](https://www.apple.com/ios/augmented-reality) or [Android phone or tablet with ARCore enabled](https://developers.google.com/ar/discover/supported-devices)  | (Not sure what to put here)                                                                                                                                                                                                                                                                |
+
+## Device requirements for using Microsoft Teams to communicate with Remote Assist users 
+
+To collaborate with a Remote Assist user, you may use Microsoft Teams desktop application ("desktop" or "PC"?) or mobile application. 
+
+| Device         | OS                                                                     | Details                                                                                                                                     |
+|----------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| Windows 10 PC  | Any Windows 10 device.                                                 | A Windows 10 PC running Microsoft Teams PC app can collaborate with Remote Assist HoloLens or Remote Assist mobile user.                    |
+| Mobile device  | Any iOS or Android phone or tablet running Microsoft Teams mobile app. | Any iOS or Android phone or tablet running Microsoft Teams PC app can collaborate with Remote Assist HoloLens or Remote Assist mobile user. |
+
 
 ## Licensing and product requirements
 
