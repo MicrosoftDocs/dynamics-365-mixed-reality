@@ -2,14 +2,14 @@
 author: sophiasysun
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: sopsun
-ms.date: 10/01/2019
+ms.date: 03/31/2020
 ms.service: crm-online
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
-ms.reviewer: v-brycho
+ms.reviewer: krbjoran
 ---
 
-# Requirements for setting up Dynamics 365 Remote Assist
+# Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 
 The following tables list technical requirements for deploying and using
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] throughout your organization.
