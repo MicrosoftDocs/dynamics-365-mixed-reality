@@ -3,7 +3,7 @@ title: Complete list of voice commands for Dynamics 365 Remote Assist on HoloLen
 author: sophiasysun 
 description: Complete list of voice commands for Dynamics 365 Remote Assist on HoloLens
 ms.author: sopsun
-ms.date: 03/15/2020
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
