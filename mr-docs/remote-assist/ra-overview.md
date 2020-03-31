@@ -2,7 +2,7 @@
 author: sophiasysun
 description: An overview of Dynamics 365 Remote Assist
 ms.author: sopsun
-ms.date: 03/18/2020
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview of Dynamics 365 Remote Assist 
@@ -31,7 +31,7 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 - **Walk the site without being onsite**: Reduce costs with remote inspections—combine video, screenshots, and annotations for more seamless workflows on the devices you already use.
 - **Bring critical information into view**: Technicians and inspectors can pull in work order information from Dynamics 365 Field Service and call the resource assigned to support them. Furthermore, technicians and inspectors no longer need to carry around paper manuals to perform their repair or inspection. Remote collaborators can insert reference images, schematics, and other helpful information in a technician or inspector's view, so they can refer to the schematic while working heads-up and hands-free.
 - **Navigate Remote Assist on HoloLens with your voice**: Remote Assist on HoloLens 1 and 2 provides a truly hands-free experience by supporting [voice commands in these languages](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for) for all features, even in a loud, industrial environment. 
-- **Offer your customers a differentiated service offering**: When selling a machine or equipment, include a Remote Assist subscription  to enable your customer to receive help from the experts who created the equipment. 
+- **Offer your customers a differentiated service offering**: When selling a machine or equipment, include a Remote Assist subscription to enable your customer to receive help from the experts who created the equipment. 
 - **Richer documentation and training materials**: Capture the repair or inspection process by creating a cloud-based recording of the call session. When integrated with Dynamics 365 Field Service, enrich a work order with call artifacts.
 
 ## Roles
@@ -86,9 +86,8 @@ In addition to using Remote Assist to consult with remote collaborators and reso
 - Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 - Learn how to [deploy Remote Assist](deploy-remote-assist.md), including how to assign licenses and set up HoloLens and mobile devices.
 - Learn how to [deploy Teams on PC or mobile](set-up-teams.md).
-- Optionally, learn to configure additional settings, such as [integrating Dynamics 365 Remote Assist with Field Service](troubleshoot-field-service.md), leasing a Remote Assist license to a customer or vendor, an [collaborating with a cross-tenant Teams user](cross-company-calling.md).
+- Optionally, learn to configure additional settings, such as [integrating Dynamics 365 Remote Assist with Field Service](troubleshoot-field-service.md), [leasing a Remote Assist license](how-to-lease-ra.md) to a customer or vendor, and [collaborating with a cross-tenant Teams user](cross-company-calling.md).
 
-^ NEEDS UPDATED LINKS 
 
 ### For technicians and inspectors
 - Learn how to use [Remote Assist on HoloLens](overview-hololens.md) or [Remote Assist on mobile](./mobile-app/remote-assist-mobile-overview.md).

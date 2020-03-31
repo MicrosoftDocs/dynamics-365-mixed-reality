@@ -72,7 +72,7 @@ When you see an incoming call notification in the bottom right of your screen, s
 After launching Teams, select the **Calls** tab on your left to see suggested contacts. Select the **Video** icon on the contact card to call a suggested contact, or use the search bar to find a contact and call them. 
 
 >[!Note]
-> Starting in the April 2020 release, Remote Assist users (HoloLens and mobile) can initiate a cloud-based recording of a one-to-one call with one Teams desktop user. If you are not using the April 2020 release or later, you can only record a one-to-one call with a Remote Assist HoloLens user if you initiate the call using the **Teams Meet Now** feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the [Meet Now feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#cloud-based-recording-of-one-to-one-calls-using-teams-meet-now).
+> Starting in the April 2020 release, Remote Assist users (HoloLens and mobile) can initiate a cloud-based recording of a one-to-one call with one Teams desktop user. If you're not using the April 2020 release or later, you can only record a one-to-one call with a Remote Assist HoloLens user if you initiate the call using the **Teams Meet Now** feature. (The Meet Now feature is not available for Teams mobile users.) Learn more about the [Meet Now feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#cloud-based-recording-of-one-to-one-calls-using-teams-meet-now).
  
 ### Make a one-to-one call to a Remote Assist user outside your company	
 
@@ -190,12 +190,12 @@ To make changes to your edits, you can:
 There are two ways to share a OneDrive file or local file with a Remote Assist HoloLens user. Supported files include .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.  
 
 >[!Note] 
-> If you want to show the Remote Assist HoloLens user a video or powerpoint and control it in real time, you can do so by using the Share feature. When you share your desktop or an application window, a new slate appears in the technician's environment.
+> If you want to show the Remote Assist HoloLens user a video or PowerPoint and control it in real time, you can do so by using the **Share** feature. When you share your desktop or an application window, a new slate appears in the technician's environment.
 
 - From the mixed reality tool bar, select the **Share File** option to share a file from OneDrive or your computer. The file will be uploaded in your personal OneDrive and permissions to access to that single file will be granted to call participants. 
 - From the Microsoft Teams chat, select **Attach file** to share a file from OneDrive or your computer. 
 
-When you share a file, it will pop up as a new slate in the Remote Assist HoloLens user’s space and a link to the file will be shared in the chat. All call participants can annotate a file displayed in the Remote Assist HoloLens user’s space.
+When you share a file, it will pop up as a new slate in the Remote Assist HoloLens user's space and a link to the file will be shared in the chat. All call participants can annotate a file displayed in the Remote Assist HoloLens user's space.
 
 > [!Note]
 > After adding them, files can’t be moved, deleted, or resized by the Teams user.
@@ -208,7 +208,7 @@ To access the file after the call:
 
 ## Share your desktop or application window (with a Remote Assist HoloLens user only)
 
-You may want to share your desktop or application window with a Remote Assist user. This is useful if you'd like to communicate information that's not captured in a file type that is supported by the file sharing feature (i.e. .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.). For example, you may want to share an instruction video that is playing in your browser, or a series of instructions embedded in a powerpoint deck.  
+You may want to share your desktop or application window with a Remote Assist user. This is useful if you'd like to communicate information that's not captured in a file type that is supported by the file sharing feature (i.e. .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.). For example, you may want to share an instruction video that is playing in your browser, or a series of instructions embedded in a PowerPoint deck.  
 
 To share your desktop or a running application:
 
@@ -230,7 +230,7 @@ You may want to record the Remote Assist call for documentation or record-keepin
 
 Teams desktop only supports recording group calls and meetings (regardless of how many call participants are in the meeting). In other words, when you are in a call, a Teams desktop user can use Teams to initiate a cloud-based recording only if the call is a group call or a meeting. (At this time, a HoloLens user cannot record the call.) 
 
-### Method 2: Create a cloud-based recording of one-to-one call using Teams Meet Now feature (if you are not using April 2020 or later release)
+### Method 2: Create a cloud-based recording of one-to-one call using Teams Meet Now feature (if you're not using April 2020 or later release)
 
 In the April 2020 or later release, the Remote Assist user (HoloLens and mobile) can record a one-to-one call with one Teams desktop user. 
 
@@ -242,7 +242,7 @@ Teams cloud-based recording has limitations. The recording captures the outgoing
 
 ### Comparison chart: Three ways to record a call 
 
-The chart below compares different ways of recording the call.
+The following chart compares different ways of recording the call.
 
 | Recording type | What the recording captures|Pros |Cons |
 |--|--|--|--|

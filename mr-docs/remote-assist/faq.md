@@ -2,7 +2,7 @@
 author: sophiasysun
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: sopsun
-ms.date: 03/15/2020
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist frequently asked questions
@@ -167,9 +167,9 @@ The **Insert file** feature supports most image formats (JPG, GIF, PNG, BMP, TIF
 
 No, you can only share local files and files from [!include[pn-onedrive](../includes/pn-onedrive.md)].
 
-### Can a Teams desktop user show the Remote Assist HoloLens user a video or powerpoint?
+### Can a Teams desktop user show the Remote Assist HoloLens user a video or PowerPoint?
 
-Yes! We understand that technicians, inspectors, and remote collaborators want to refer to a wide variety of resources and reference documents during the call. By using the Teams desktop Share feature, the Teams desktop user can show the Remote Assist HoloLens whatever they are looking at on their desktop or in a specific application window. For example, the Teams desktop user can show the technician a video playing in a web browser. Furthermore, because the Teams desktop user's screen or application window is shared in real time, all call participants will see when the Teams desktop user pauses or restarts the video. 
+Yes! We understand that technicians, inspectors, and remote collaborators want to refer to a wide variety of resources and reference documents during the call. By using the Teams desktop **Share** feature, the Teams desktop user can show the Remote Assist HoloLens whatever they are looking at on their desktop or in a specific application window. For example, the Teams desktop user can show the technician a video playing in a web browser. Furthermore, because the Teams desktop user's screen or application window is shared in real time, all call participants will see when the Teams desktop user pauses or restarts the video. 
 
 ### When a Remote Assist call ends, how can I access the messages, snapshots, and files during the call?
 
@@ -199,36 +199,37 @@ To improve hologram stability, complete eye calibration.
 
 ### Multiple people in my organization use Remote Assist on the same HoloLens. How do I clean my HoloLens?
 
-Learn how to clean [HoloLens 1](https://docs.microsoft.com/en-us/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/en-us/hololens/hololens2-hardware#care-and-cleaning). 
+Learn how to clean [HoloLens 1](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware#care-and-cleaning). 
 
 Additional details about cleaning HoloLens 2:
 
-Device: Remove any dust by gently wiping with a dry lint-free microfiber cloth. Lightly moisten the cloth with medical 70% isopropyl alcohol, and then gently wipe the surface of the device.
-	Let it dry completely.
+**Device**: Remove any dust by gently wiping with a dry lint-free microfiber cloth. Lightly moisten the cloth with medical 70% isopropyl alcohol, and then gently wipe the surface of the device.
 
-Brow pad: Wipe it with a cloth moistened with water and a mild, antibiotic soap. Let it dry completely.
+Let it dry completely.
 
-Q: Can I use Purell wipes to clean the HoloLens? 
-A: Purell wipes can be applied in limited use to clean the HoloLens surfaces. The cleaning guide above is the recommended method. 
+**Brow pad**: Wipe it with a cloth moistened with water and a mild, antibiotic soap. Let it dry completely.
 
-Q: Can I use Clorox / Lysol wipes to clean the HoloLens?
-A: Clorox, Lysol and similar bleach-keeping wipes are not recommended for use. It is acceptable to use for critical situations, when nothing else is available.
+**Can I use Purell wipes to clean the HoloLens?**
+Purell wipes can be applied in limited use to clean the HoloLens surfaces. The cleaning guide linked at the beginning of this question is the recommended method. 
 
-Q: Can I use any lens cleaner for cleaning HoloLens visor? 
-A: No. Lens cleaners can be abrasive to the coatings on the visor. Please use a mix of isopropyl alcohol (IPA) and water, and then gently wipe the surface of the visor.
+**Can I use Clorox or Lysol wipes to clean the HoloLens?**
+A: Clorox, Lysol, and similar bleach-keeping wipes are **not** recommended for use. Use these wipes on when it's critically necessary, and nothing else is available.
 
-## Can I save call artifacts to a Field Service work order?
+**Can I use any lens cleaner for cleaning HoloLens visor?**
+No. Lens cleaners can be abrasive to the coatings on the visor. Please use a mix of isopropyl alcohol (IPA) and water, and then gently wipe the surface of the visor.
 
-Yes! If you opened a Field Service booking and then made a Remote Assist call, at the end of the call, you will be prompted to post the call log and files shared by remote collaborators to the work order associated with that booking.
+### Can I save call artifacts to a Field Service work order?
 
-To view the call log and files, log into Field Service and select the work order. 2 new notes will have been created and attached to the work order. One note will include call log info. The other note will include and a link to each file in plain text. You can also edit the note to include the Stream link of the recorded call, which can be found in your Teams chat.
+Yes! If you opened a Field Service booking and then made a Remote Assist call, at the end of the call, you'll be prompted to post the call log and files shared by remote collaborators to the work order associated with that booking.
 
-Learn more about this feature [here](display-share-files.md).
+To view the call log and files, sign into Field Service and select the work order. Two new notes will have been created and attached to the work order. One note will include call log info. The other note will include and a link to each file in plain text. You can also edit the note to include the Stream link of the recorded call, which can be found in your Teams chat.
+
+LFor more information, visit our article on [displaying shared files](display-share-files.md).
 
 
 ### How do I file a support ticket?
 
-If you encounter an issue that blocks you from using the application and you do not see an answer on our [user forum], (https://community.dynamics.com/365/remoteassist), please [file a support ticket]( https://support.microsoft.com/hololens). Support will work directly with you and communicate daily until the issue is resolved.  
+If you encounter an issue that blocks you from using the application and you do not see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/hololens). Support will work directly with you and communicate daily until the issue is resolved.  
 
 ### How do I report a bug?
 
@@ -247,18 +248,18 @@ When you're in the HoloLens Feedback Hub:
 
 ![Screenshot of the "Report a problem" option, represented by a bug-looking icon.](media/RAHL_FeedbackHubReport.png)
 
-1. In the **Enter your feedback** section, summarize your feedback. To type, tap the text field and a holographic keyboard will appear. Then, select **Next**. To edit your response to any step after you’ve chosen **Next**, select **Edit**, which is to the top right of the text field. 
-2. In the **Choose a category** section, categorize the issue using "Apps" and "Microsoft Remote Assist." To select an item in the drop-down menu, select the menu.
+2. In the **Enter your feedback** section, summarize your feedback. To type, tap the text field and a holographic keyboard will appear. Then, select **Next**. To edit your response to any step after you’ve chosen **Next**, select **Edit**, which is to the top right of the text field. 
+3. In the **Choose a category** section, categorize the issue using "Apps" and "Microsoft Remote Assist." To select an item in the drop-down menu, select the menu.
    - If you're using HoloLens 1, scroll by gazing at the content of the app window. Tap and hold and then move your hand slightly upwards or downwards to scroll the content.
    - If you're using HoloLens 2, scroll by placing your finger on the drop-down menu and move your finger up and down, as you would on a touch screen device. 
 
 ![Screenshot showing the Choose a category section of the Feedback Hub.](media/RAHL_FeedbackHubChooseCategory.png)
 
-1. In the **Find similar feedback** section, select "Make new bug."
-2. In the **Additional details** section:
+4. In the **Find similar feedback** section, select "Make new bug."
+5. In the **Additional details** section:
    - Optionally select "Consider this a blocking issue."  
    - Categorize your problem.
-3. Select **Recreate your problem**:
+6. Select **Recreate your problem**:
    - Select **Start recording**.
    - Use the start menu to launch Remote Assist and replicate the issue.
    - When you're finished replicating the issue, use the start menu to return to **Feedback Hub**.

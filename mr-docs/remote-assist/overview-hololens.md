@@ -3,7 +3,7 @@ title: Overview of Dynamics 365 Remote Assist on HoloLens 1 and 2
 author: sophiasysun
 description: Overview of Dynamics 365 Remote Assist features and links to HoloLens 1 and HoloLens 2 gestures 
 ms.author: sopsun
-ms.date: 03/15/2020
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -32,7 +32,7 @@ The previous screenshot shows the settings screen. When you’re outside a call,
 - Find tutorials on Microsoft Docs
 - Switch your Dynamics instance.  
 
- ![VoiceCommand](media/RAHL_VideoCard_WithRecordButton.png "VoiceCommand")
+ ![Screenshot of Remote Assist on HoloLens showing an active call showing the recording button.](media/RAHL_VideoCard_WithRecordButton.png)
 
 The previous screenshot shows a video card. When you’re in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars of all call participants.  
 
@@ -108,12 +108,12 @@ You can interact with Remote Assist just like you do with the HoloLens 2 operati
 
 - If it’s out of your reach, extend your arm, aim your hand ray, and air tap.    
 - If it’s within your reach, touch it directly. 
-- To use your voice, say "Remote Assist' followed by voice command for that button. A full list of voice commands can be found [here](voice-commands-hololens.md). The easiest way to see the voice command for Remote Assist features is to say "Remote Assist." Then, the app will display the name of each button. After a few seconds, these labels will automatically disappear. 
+- To use your voice, say "Remote Assist" followed by voice command for that button. A full list of voice commands can be found [here](voice-commands-hololens.md). The easiest way to see the voice command for Remote Assist features is to say "Remote Assist." Then, the app will display the name of each button. After a few seconds, these labels will automatically disappear. 
 
 ## Benefits of integrating with Dynamics 365 Field Service  
-If your organization uses Dynamics 365 Field Service to manage Dynamics 365 Field Service work orders, the technician using HoloLens can view Dynamics 365 Field Service bookings from Microsoft Dynamics 365 Remote Assist and do a heads-up, hands-free calling in the context of a Dynamics 365 Field Service booking. For example, the technician can: 
-* View booking details 
-*	Quickly call the assigned collaborator listed in the Support Contact field when needed
-*	Save snapshots to a booking
-*	Save call artifacts to the work order that the booking is associated with, including the call log and files shared by the remote collaborator to a work order that the booking is associated with
+If your organization uses Dynamics 365 Field Service to manage work orders, the technician using HoloLens can view Dynamics 365 Field Service bookings from Remote Assist and do heads-up, hands-free calling in the context of a Field Service booking. For example, the technician can: 
+- View booking details.
+- Quickly call the assigned collaborator listed in the Support Contact field when needed.
+- Save snapshots to a booking.
+- Save call artifacts to the work order that the booking is associated with, including the call log and files shared by the remote collaborator to a work order that the booking is associated with.
 

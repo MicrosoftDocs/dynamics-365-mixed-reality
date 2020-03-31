@@ -9,7 +9,7 @@
 ### [Set up Teams](set-up-teams.md)
 ### Collaborate with users not currently in your tenant 
 #### [Overview](cross-tenant-overview.md)
-#### [Lease Remote Assist license](cross-tenant-licensing-implementation.md)
+#### [Lease Remote Assist licenses to external users](how-to-lease-ra.md)
 #### [Set up cross-tenant calling (open federation)](cross-company-calling.md)
 
 ## Remote Assist on Hololens 1 and 2

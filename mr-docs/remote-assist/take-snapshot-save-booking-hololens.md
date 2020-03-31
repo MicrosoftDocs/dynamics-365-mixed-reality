@@ -3,7 +3,7 @@ title: Take a snapshot and save it to a Dynamics 365 Field Service booking in Dy
 author: sophiasysun
 description: Take a snapshot in Dynamics 365 Remote Assist and automatically save it to OneDrive to a Dynamics 365 Field Service booking 
 ms.author: sopsun
-ms.date: 03/18/2020
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
