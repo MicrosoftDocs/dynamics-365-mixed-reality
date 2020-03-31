@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor holograms in Microsoft Dynamics 365 Guides, and how to create a QR code anchor, circular code anchor, or holographic anchor.
 ms.author: mamaylya
-ms.date: 02/25/2020
+ms.date: 03/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Choose an anchoring method for your guide in Dynamics 365 Guides
@@ -41,6 +41,8 @@ There are three ways to anchor a guide:
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an **Anchor** wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
 
 ## Anchor your guide by using a QR code anchor
+
+![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](https://youtu.be/NhdBG3emNUs)
 
 The process of creating a QR code anchor involves four basic steps:
 
@@ -130,9 +132,7 @@ Keep the following points in mind when you work with QR code anchors:
 
 ## Anchor your guide by using a circular code anchor
 
-<!--
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a circular code anchor](https://aka.ms/guidesprintedanchor)
--->
 
 The process of creating a circular code anchor involves four basic steps:
 
@@ -236,9 +236,7 @@ During scanning, the forward-facing camera on [!include[pn-hololens](../includes
 
 ## Anchor your guide by using a holographic anchor
 
-<!--
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a holographic anchor](https://aka.ms/guidesdigitalanchor)
--->
 
 The process of creating a holographic anchor involves three basic steps:
 
