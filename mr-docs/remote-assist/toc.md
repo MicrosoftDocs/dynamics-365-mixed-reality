@@ -33,11 +33,13 @@
 
 ## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
-### [Using the in-app tutorial](mobile-app/mobile-tutorial.md)
-### [Making calls](mobile-app/making-calls.md)
+### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
+### [Make calls](mobile-app/making-calls.md)
 ### [Annotate your environment](mobile-app/annotate-your-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
+### [Share files](mobile-app/file-sharing.md)
+### [Record calls](mobile-app/call-recording.md)
 ### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
