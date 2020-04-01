@@ -6,7 +6,7 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
 ### [Deploy Remote Assist](deploy-remote-assist.md)
-### Collaborate with users not currently in your tenant
+### Collaborate with users not currently in your tenant 
 #### [Overview](out-of-tenant-overview.md)
 #### [Lease Remote Assist licenses to external users](how-to-lease-ra.md)
 #### [Set up cross-tenant calling (open federation)](cross-company-calling.md)
@@ -20,14 +20,13 @@
 ### [Adjust what you see](adjust-what-you-see-hololens.md)
 ### [Add annotations](add-annotations-hololens.md)
 ### [Take a snapshot (and save it to a Dynamics 365 Field Service booking)](take-snapshot-save-booking-hololens.md)
+### [File sharing and saving](display-save-files.md)
 ### [Record calls](record-calls-hololens.md)
 ### [Send text messages](send-texts-hololens.md)
 ### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
 ### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
 ### [Close the app](close-app-hololens.md)
 ### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
-### [File a support ticket](file-support-ticket-hololens.md)
-### [Report a bug](report-a-bug-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
 ### [How-to-videos](videos.md)
 
@@ -48,6 +47,7 @@
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
 ### [Collaborate with Remote Assist user via Teams on mobile](teams-mobile-all.md)
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
+
 ## Additional resources
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
