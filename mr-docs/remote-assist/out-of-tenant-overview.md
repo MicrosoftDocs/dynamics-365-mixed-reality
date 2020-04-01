@@ -114,7 +114,7 @@ For more information, see this Microsoft Teams [article on granting guess access
 
 See this [Microsoft Teams guest access checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist) for full implementation instructions.
 
-## Scenario 2: Leasing Remote Assist licenses to external users
+## Scenario 2: Providing Remote Assist licenses to external users
 
 ### Scenario 2 Overview
 
@@ -132,7 +132,7 @@ In Figure 2.1, Company ABC created "service accounts" (SAs) in Azure AD. These a
 **Figure 2.1**
 ![Diagram showing an internal tenant leasing out a Remote Assist license to external tenants.](media/cross-tenant-licensing.png)
 
-#### Pros of leasing services to other tenants
+#### Pros of providing service accounts for users outside your tenant
 
 1. Tenant ABC can assign Remote Assist licenses (and other licenses if necessary) to their customers on external tenants.
 
@@ -140,7 +140,7 @@ In Figure 2.1, Company ABC created "service accounts" (SAs) in Azure AD. These a
 
 3. If an external user wants to initiate a Remote Assist call with an expert in Tenant ABC, they are able to search for the user without typing that user's entire email address.
 
-#### Cons of leasing services to other tenants
+#### Cons of providing service accounts for users outside your tenant
 
 1. Depending on how many customers Company ABC has, Tenant ABC may need to create and manage many service accounts.
 
@@ -150,4 +150,4 @@ In Figure 2.1, Company ABC created "service accounts" (SAs) in Azure AD. These a
 
 If you are following the steps in the [Deploy HoloLens in a Commercial Environment](https://docs.microsoft.com/hololens/hololens-requirements#apps) article, go back to that document before implementing this solution.
 
-[How to Lease Remote Assist Licenses to External Users](cross-tenant-licensing-implementation.md).
+[How to provide Remote Assist Licenses to External Users](cross-tenant-licensing-implementation.md).
