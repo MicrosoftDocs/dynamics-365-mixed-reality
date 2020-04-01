@@ -25,14 +25,14 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 ## Benefits
 
-- **Solve problems in real time**: Technicians can share their real-time view with experts in remote locations to get the help they need while keeping both hands free to work on their tasks. This reduces travel time and cost.
+- **Solve problems in real time**: Technicians can share their real-time view with experts in remote locations to get the help they need, reducing travel time and cost.
+- **Walk the site without being onsite**: Remote inspectors can assess product quality without traveling onsite by using Microsoft Teams and collaborating with a Remote Assist user.
 - **Communicate detailed and complex instructions visually**: Rather than communicating instructions via audio call, onsite workers and remote collaborators can use drawings and arrows to refer to specific parts of a machine or asset. These annotations are anchored in the Remote Assist user's space.
-- **Scale expert knowledge**: Enable experts from anywhere in the world to effectively share their knowledge. 
-- **Walk the site without being onsite**: Reduce costs with remote inspections—combine video, screenshots, and annotations for more seamless workflows on the devices you already use.
-- **Bring critical information into view**: Technicians and inspectors can pull in work order information from Dynamics 365 Field Service and call the resource assigned to support them. Furthermore, technicians and inspectors no longer need to carry around paper manuals to perform their repair or inspection. Remote collaborators can insert reference images, schematics, and other helpful information in a technician or inspector's view, so they can refer to the schematic while working heads-up and hands-free.
-- **Navigate Remote Assist on HoloLens with your voice**: Remote Assist on HoloLens 1 and 2 provides a truly hands-free experience by supporting [voice commands in these languages](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for) for all features, even in a loud, industrial environment. 
-- **Offer your customers a differentiated service offering**: When selling a machine or equipment, include a Remote Assist subscription to enable your customer to receive help from the experts who created the equipment. 
-- **Richer documentation and training materials**: Capture the repair or inspection process by creating a cloud-based recording of the call session. When integrated with Dynamics 365 Field Service, enrich a work order with call artifacts.
+- **Scale expert knowledge**: Enable experts to effectively share their knowledge from anywhere in the world.
+- **Bring critical information into view**: Technicians and inspectors can pull in work order information from Dynamics 365 Field Service and call the resource assigned to support them. Furthermore, technicians and inspectors no longer need to carry around paper manuals to perform their repair or inspection. If the technician is using Remote Assist on HoloLens, remote collaborators can insert reference images, schematics, and other helpful information the technician's physical space so they can refer to the schematic while working heads-up and hands-free on HoloLens. If the technician is using Remote Assist on mobile, remote collaborators can share reference images, schematics, and other helpful information the technician can view in their mobile device.
+- **Combine video, screenshots, and annotations for more seamless workflows on the devices you already use**: Remote Assist is available on AR-capable mobile devices. 
+- **Navigate Remote Assist on HoloLens with your voice**: Remote Assist on HoloLens provides a hands-free experience by supporting [voice commands in these languages](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for) for all features, even in a loud, industrial environment. 
+- **Offer your customers a differentiated service offering**: When selling equipment, include a Remote Assist subscription your customer can use to receive help from the experts who created it. 
 
 ## Roles
 
@@ -69,9 +69,11 @@ Learn more about core concepts in mixed reality technology in the following arti
 
 ## Devices
 
-Technicians and inspectors use Remote Assist on [HoloLens 1](https://docs.microsoft.com/hololens/hololens1-hardware), [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware), or AR-capable iOS or Android devices. 
+Technicians and inspectors use Remote Assist on [HoloLens 1](https://docs.microsoft.com/hololens/hololens1-hardware), [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware), or AR-capable [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices.
 
 Remote collaborators use Microsoft Teams on a PC or a mobile device.
+
+Learn more about the [technical requirements](requirements.md) for deploying and using Microsoft Dynamics 365 Remote Assist throughout your organization.
 
 ## Integrate Dynamics 365 Field Service  
 
@@ -82,6 +84,7 @@ In addition to using Remote Assist to consult with remote collaborators and reso
 ## Next steps
 
 ### For administrators
+- Learn the [technical requirements](requirements.md) for deploying and using Microsoft Dynamics 365 Remote Assist throughout your organization.
 - Learn how to get a [free trial of Remote Assist](try-remote-assist.md).
 - Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 - Learn how to [deploy Remote Assist](deploy-remote-assist.md), including how to assign licenses and set up HoloLens and mobile devices.
