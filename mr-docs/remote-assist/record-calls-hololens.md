@@ -96,7 +96,7 @@ Use this option when:
 - No call participant can initiate a cloud-based call recording
 - You only want the recording to capture what you see through the HoloLens. For example, the recording will only show the participants in the Remote Assist call if you manually navigate to the participants panel and it is in your field of view.
 
-You can use the HoloLens OS to record only what you see in the HoloLens, what you hear around you, and what you hear through the HoloLens speakers. There are 3 ways to do so.
+You can use the HoloLens OS to record only what you see in the HoloLens, what you hear around you, and what you hear through the HoloLens speakers. There are three ways to do so.
 
 1.	From the Start Menu:
   * Select the **Video** button from the bottom tool pane.
@@ -115,7 +115,7 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
 3. By Hololens hardware:
 - Press and hold the volume-up and volume-down buttons simultaneously until a three-second countdown begins. To stop recording, tap both buttons simultaneously.
  
-These videos are saved to the HoloLens camera roll. Keep in mind that the video will not be automatically uploaded to Stream, but there are 2 ways to get a photo or video off the HoloLens camera roll. 
+These videos are saved to the HoloLens camera roll. Keep in mind that the video will not be automatically uploaded to Stream, but there are two ways to get a photo or video off the HoloLens camera roll. 
 
 1.	Upload to OneDrive: 
 - Launch the **Start** menu. 
