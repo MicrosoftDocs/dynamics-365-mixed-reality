@@ -32,12 +32,12 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 - **Bring critical information into view**: Technicians and inspectors can pull in work order information from Dynamics 365 Field Service and call the resource assigned to support them. Furthermore, technicians and inspectors no longer need to carry around paper manuals to perform their repair or inspection. If the technician is using Remote Assist on HoloLens, remote collaborators can insert reference images, schematics, and other helpful information the technician's physical space so they can refer to the schematic while working heads-up and hands-free on HoloLens. If the technician is using Remote Assist on mobile, remote collaborators can share reference images, schematics, and other helpful information the technician can view in their mobile device.
 - **Combine video, screenshots, and annotations for more seamless workflows on the devices you already use**: Remote Assist is available on AR-capable mobile devices. 
 - **Navigate Remote Assist on HoloLens with your voice**: Remote Assist on HoloLens provides a hands-free experience by supporting [voice commands in these languages](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for) for all features, even in a loud, industrial environment. 
-- **Offer your customers a differentiated service offering**: When selling equipment, include a Remote Assist subscription your customer can use to receive help from the experts who created it. 
+- **Offer your customers a differentiated service offering**: When selling your product, include a Remote Assist subscription your customer can use to receive help from your product specialists or customer support agents. 
 
 ## Roles
 
-- **Technician**: A technician uses Remote Assist on their HoloLens or mobile device to share what they are seeing and request remote assistance.
-- **Inspector or auditor**: An inspector or auditor uses Remote Assist on their HoloLens or mobile device to evaluate and document asset quality.
+- **Technician**: A technician uses Remote Assist on their HoloLens or mobile device to share what they are seeing and receive remote assistance.
+- **Inspector or auditor**: An inspector or auditor uses Remote Assist on their HoloLens or mobile device to collaborate with remote inspectors and auditors. Together, they evaluate and document asset quality.
 - **Remote collaborator**: A remote collaborator uses Teams on PC or mobile to join a Remote Assist call, see what a technician or inspector sees, and provide guidance in context.  
 
 ## Sample workflow for technicians and remote collaborators 
