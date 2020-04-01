@@ -9,9 +9,9 @@ title: Remote Assist advanced deployment scenarios
 ms.reviewer: krbjoran
 ---
 
-# Remote Assist advanced deployment scenarios 
+# Dynamics 365 Remote Assist advanced deployment scenarios 
 
-A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technician and remote collaborators all belong to the same tenant, and thus a standard deployment of Remote Assist (deploy-remote-assist.md) and Teams (set-up-teams.md) is all you need. 
+A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technician and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
 
 However, there are certain scenarios where this may not be the case: 
 
@@ -57,7 +57,7 @@ There are two solutions for this scenario: **Federation** and **Guesting**.
 >[!NOTE]
 > See the Microsoft Teams [article on managing external access](https://docs.microsoft.com/microsoftteams/manage-external-access#plan-for-external-access) for more information.
 
-In the following diagram example, the external customers (Contoso1, Contoso2, and ContosoN) have their own Remote Assist license and Teams licenses. Tenant ABC has their own Teams licenses. Tenant ABC has their own Teams licenses. (Please see figure 1.2) (Please see Figure 1.2) 
+In the following diagram example, tenants Contoso1, Contoso2, and ContosoN have their own Remote Assist licenses (which each come with Teams licenses). Tenant ABC has their own Teams licenses. (Please see Figure 1.2) 
 
 **Figure 1.2**
 ![Diagram showing how the different tenants relate to one another.](media/cross-tenant-federation.png)
