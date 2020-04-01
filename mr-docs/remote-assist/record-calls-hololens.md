@@ -20,9 +20,9 @@ Read about the [layout](https://docs.microsoft.com/dynamics365/mixed-reality/rem
 > Starting in the April 2020 release, Remote Assist users can initiate a cloud-based recording of a one-to-one call with one Teams desktop user.
 >  
 > **If you are not using the April 2020 release or later**, a cloud-based call recording can only be initiated if the Teams desktop user initiates the call using the **Meet Now** feature in the Teams Calendar tab. Learn more about it [in this video starting at 0:33](https://www.microsoft.com/videoplayer/embed/RWedV7?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us). A one-to-one call *cannot be recorded* if:
-> * The Remote Assist (HoloLens and mobile) user initiates the one-to-one call.
-> * The Teams mobile user initiates the call. 
-> * The Teams desktop user initiates the call using the Teams call tab rather than **Meet Now.**
+> - The Remote Assist (HoloLens and mobile) user initiates the one-to-one call.
+> - The Teams mobile user initiates the call. 
+> - The Teams desktop user initiates the call using the Teams call tab rather than **Meet Now.**
 
 The following chart explains which call participant can initiate a cloud-based call recording in each type of call:
 
