@@ -9,7 +9,7 @@ title: Cross-tenant Remote Assist licensing implementation
 ms.reviewer: krbjoran
 ---
 
-# How to Lease Remote Assist licenses to external users
+# How to provide Remote Assist licenses to external users
 
 This document assumes that you have read our [Remote Assist External Collaboration Scenarios](out-of-tenant-overview.md) document. 
 
