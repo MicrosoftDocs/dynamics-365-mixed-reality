@@ -227,7 +227,7 @@ Limitations that may hinder accurate understanding of surfaces or facilitate in 
 - Transparent or reflective surfaces like glass.
 - Dynamic or moving surfaces.
 
-### What kinds of calls can I be in?
+### What kinds of calls can a Remote Assist mobile user be in?
 
 * **Can I make calls to a Teams mobile user?** No. However, Remote Assist mobile to Remote Assist mobile calling is on our backlog.
 * **Can I make or be in a group call?** No. 
