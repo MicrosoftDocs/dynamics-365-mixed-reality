@@ -11,51 +11,53 @@ ms.reviewer: krbjoran
 
 # Using Remote Assist to collaborate with people outside your tenant 
 
-A Remote Assist call involves one party using Remote Assist and the other using Teams. If the people who want to use Remote Assist and the people who want to use Teams are in the same tenant, you do not need to configure cross-tenant communication.
+A Remote Assist call involves one party using Remote Assist and the other using Teams. If the people who want to use Remote Assist and the people who want to use Teams are in the same tenant, you do not need to configure cross-tenant communication and you do not need to read this document.
 
 This document describes 2 scenarios.
+
 | Scenario                                                                                                                                                                           | Implementation overview                                                                                                                                                                                           |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Scenario 1: Remote collaborators in Tenant A want to use Teams, and technicians in Tenant B want to use Remote Assist. Technicians in Tenant B do not have Remote Assist licenses. | Tenant A administrator must set up service accounts in Tenant A, assign a Remote Assist license to each service account, and provide service account credentials to the technicians in Tenant B. Learn more here. |
 | Scenario 2: Remote collaborators in Tenant A want to use Teams, and technicians in Tenant B want to use Remote Assist. Users in both tenants have the licenses they need.          | Tenant A and Tenant B must agree on how to enable users in the two tenants to communicate with each other: federation or guesting. Learn more here.                                                               |
 
 
-
 >[!NOTE]
-> This article is intended for admins, and assumes that you have Microsoft Teams **AND** Azure Active Directory (Azure AD) admin privileges. You should also be familiar with the [Teams admin portal](https://admin.teams.microsoft.com/).
+> This article is intended for administrators, and assumes that you have Microsoft Teams **AND** Azure Active Directory (Azure AD) admin privileges. You should also be familiar with the [Teams admin portal](https://admin.teams.microsoft.com/).
 
 ## Account types
 
-Throughout this article, we'll be referring to a few types of accounts:
+Throughout this article, we'll be referring to a few account types: 
 
 1. **Internal account**: An Azure Active Directory (Azure AD) account that is created inside your tenant for internal users.
 2. **Service account**: An Azure AD account that is created inside your tenant for users who are not currently part of your tenant.
-3. **Guest account**: An Azure AD account that lives in another tenant, and is also "guested" into your tenant. When you guest an account into your tenant, that guest account is thus part of 2 tenants - that guest account is a member of their native tenant and a guest in your tenant.
+3. **Guest account**: An Azure AD account that is created in your tenant when you "guest" any individual into a Teams team or channel using their email. 
+- If that user's email is already associated with an Azure AD account in another tenant, that user is now part of 2 tenants: that user is a member of their native tenant and a guest in your tenant.
+- If that user's email is not already associated with an Azure AD account in another tenant, that user is now part of 1 tenant: that user is a guest in your tenant.
 
+## Scenario 2: Providing Remote Assist licenses to users outside your tenant 
 
-
-
-## Scenario 2: Providing Remote Assist licenses to external users
+[!Note]: To appropriately license this scenario if people who want to use Remote Assist are outside your company, please contact your Microsoft sales representative to license.
 
 ### Scenario 2 Overview
 
-Companies frequently want to purchase Remote Assist licenses not because their own technicians need to use Remote Assist to get help, but because they want to give Remote Assist licenses to their customers and provide best-in-class customer service. Companies want to handle all the license configuration and enable their customers to seamlessly use Remote Assist.
+Companies frequently want to purchase Remote Assist licenses not because their own technicians need to use Remote Assist to get help, but because they want to provide Remote Assist licenses to their customers and provide best-in-class customer service. Companies want to handle all the license configuration and enable their customers to seamlessly use Remote Assist.
 
 ### Scenario 2 example
 
-Company ABC has experts that will use Microsoft Teams to provide customer support to one (or many) customers. Some customers are in an existing tenant, and others are not. Company ABC wants to provide their customers with a Remote Assist licenses. This scenario is depicted in Figure 2.1.
+Tenant A has experts who will use Microsoft Teams to provide customer support to one (or many) technicians. Some technicians are in Tenant B, some technicians are in Tenant C, and others are not in any tenant. This scenario is depicted in Figure 2.1.
 
-In Figure 2.1, Company ABC created "service accounts" (SAs) in Azure AD. These accounts were then distributed to external users. For example: SA1 was given to a user (or multiple users who are sharing the SA1 account) in the Contoso1 tenant, SA2 was given to a user (or multiple users who are sharing the SA2 account) in the ContosoN tenant, and SA3 was given to a user who does not belong to a tenant.
+In Figure 2.1, Tenant A administrator created **service accounts** (SAs) inside Tenant A. Tenant A administrator assigned a Remote Assist license (Jason - anything else?) to each service account. Service account credentials were then distributed to the people outside Tenant A who want to use Remote Assist. More specifically,
+* SA1 was given to a user (or multiple users who are sharing the SA1 account) who is currently a member of Tenant B
+* SA2 was given to a user (or multiple users who are sharing the SA2 account) who is currently a member of Tenant C
+* SA3 was given to a user who is not currently a member of any tenant
 
->[!NOTE]
-> Service accounts can be given to anyone. The user receiving the service account does not have to already belong to a tenant.
 
 **Figure 2.1**
-![Diagram showing an internal tenant leasing out a Remote Assist license to external tenants.](media/cross-tenant-licensing.png)
+![Diagram showing Tenant A providing a Remote Assist license to users outside of Tenant A.](media/cross-tenant-licensing.png)
 
 #### Pros of providing service accounts for users outside your tenant
 
-1. Tenant ABC can assign Remote Assist licenses (and other licenses if necessary) to their customers on external tenants.
+1. Tenant A can assign Remote Assist licenses (and other licenses if necessary) to  customers on external tenants.
 
 2. Tenant ABC can control who the external users - who are using the service accounts - can communicate with. This can be accomplished with the implementation of information barrier policies.
 
