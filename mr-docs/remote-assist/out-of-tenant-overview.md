@@ -150,4 +150,4 @@ In Figure 2.1, Company ABC created "service accounts" (SAs) in Azure AD. These a
 
 If you are following the steps in the [Deploy HoloLens in a Commercial Environment](https://docs.microsoft.com/hololens/hololens-requirements#apps) article, go back to that document before implementing this solution.
 
-[How to provide Remote Assist Licenses to External Users](cross-tenant-licensing-implementation.md).
+Otherwise, please read [How to provide Remote Assist Licenses to External Users](cross-tenant-licensing-implementation.md).
