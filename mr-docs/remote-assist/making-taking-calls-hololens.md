@@ -38,7 +38,7 @@ If you don’t see the contact you want, select Search and then use the holograp
 ## Make a one-to-one call to a Teams user outside your organization
 
 > [!Note]
-> You can make or receive a one-to-one call with a Teams user from another company if your administrator has set up [federation or guesting](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/out-of-tenant-overview#solution-1-federation).  
+> You can make or receive a one-to-one call with a Teams user from another company if your administrator has set up [federation or guesting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/out-of-tenant-overview#solution-1-federation).  
 
 To call a federated user, open the app, select **Search**, and then use the holographic keyboard to enter their full email address. You won't see any search results if you enter just a name or a partial email address. After you call them once, they will appear in your recent contacts list, so you will not have to search for them again. 
 
