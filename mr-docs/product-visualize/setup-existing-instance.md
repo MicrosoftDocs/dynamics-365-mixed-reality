@@ -4,7 +4,7 @@ description: Learn how to set up Dynamics 365 Product Visualize on an existing D
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 12/22/2019
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -50,7 +50,7 @@ Existing Dynamics 365 Sales instances must meet the following minimum requiremen
 
 3. In the navigation bar at the top of the page, select the down arrow next to __Settings__, and then select __Document Management__.
 
-   ![Document Management settings](media/sharepoint.PNG "Document Managment settings")
+   ![Document Management settings](media/sharepoint.PNG "Document Management settings")
 
 4. Select __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint.
 
