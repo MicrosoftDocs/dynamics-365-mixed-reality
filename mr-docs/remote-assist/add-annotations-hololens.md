@@ -11,18 +11,19 @@ ms.reviewer: krbjoran
 # Add annotations in Dynamics 365 Remote Assist on HoloLens
 
 Once a video call has connected, the Microsoft Teams user will see everything the HoloLens user sees in their space – including holograms. 
-Annotations are useful for pointing out parts of your space that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make annotations of their own. Once an annotation is placed, it will remain anchored in your space until the person who placed the annotation deletes it. Adding annotations to files works the same way.
 
-The gestures for adding arrows or drawing are the same for HoloLens 1 and HoloLens 2.
+Annotations are useful for pointing out different parts of your space, including parts that may be difficult or dangerous to reach. All call participants can see each others’ additions, and can make annotations of their own. Once an annotation is placed, it will remain anchored in your space until the person who placed the annotation deletes it. Adding annotations to files works the same way.
+
+The gestures for adding arrows or drawing are the same for HoloLens and HoloLens 2.
 
 > [!Note]
-> Multiple Teams desktop users can join and add annotations in a Remote Assist call when the Remote Assist user is using HoloLens. 
-Only one Teams mobile user can join and add annotations in a Remote Assist call, regardless of whether the Remote Assist user is using HoloLens or mobile.
+> Multiple Teams desktop users can join and add annotations in a Remote Assist call. Only one Teams mobile user can join and add annotations in a Remote Assist call, regardless of whether the Remote Assist user is using HoloLens, Hololens 2, or mobile.
 >
 > In other words, the following calls are supported:
-> - One-to-one calls between one Remote Assist HoloLens user and one Teams desktop user
-> - One-to-one calls between one Remote Assist HoloLens user and one Teams mobile user
-> - Group calls or meetings between one Remote Assist HoloLens user and two or more Teams desktop users
+> - One-to-one calls with one Remote Assist HoloLens/HoloLens 2 user and one Teams desktop user
+> - One-to-one calls with one Remote Assist HoloLens/Hololens 2 user and one Teams mobile user
+> - Group calls with one Remote Assist HoloLens user and two or more Teams desktop users
+> - Meetings with one Remote Assist HoloLens user and one or more Teams desktop users
 
 ## Add an arrow 
 
@@ -30,9 +31,8 @@ Select the **Arrow** (seen here: ![Graphic showing the arrow icon.](media/RAHL_A
 
 To position the arrow in space:
 
-- If you're using HoloLens 1, use your gaze cursor to position the arrow. You'll see a ghost arrow on your gaze cursor.  
+- If you're using HoloLens, use your gaze cursor to position the arrow. You'll see a ghost arrow on your gaze cursor.  
 - If you're using HoloLens 2, use your hand ray to position the arrow. You'll see a ghost arrow at the end of your hand ray.
-
 
 To control the direction of the arrow, air tap, hold, and move your hand in a circle until the ghost arrow appears at the desired direction. Release the air tap to place the arrow.
 
@@ -43,15 +43,14 @@ Once you place the arrow, you can't adjust its location or direction. To redo, s
 
 <iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qy" frameborder="0" allowfullscreen=""></iframe>
 
-The previous video shows how to place an arrow using HoloLens 1 gestures. If you’re using HoloLens 2, remember that you can select the **Arrow** tool by touching it directly, and you position your arrow in space using your hand ray. 
+The previous video shows how to place an arrow using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Arrow** tool by touching it directly, and you position your arrow in space using your hand ray. 
 
 ## Draw in your space
 
 Select the **Ink tool** (as shown here: ![Graphic showing the ink icon.](media/RAHL_Ink.png)).
 
-
 To determine where you start drawing,
-- If you're using HoloLens 1, use your gaze cursor to determine where to start drawing.
+- If you're using HoloLens, use your gaze cursor to determine where to start drawing.
 - If you're using HoloLens 2, use your hand ray to determine where to start drawing.  
 
 Then, air tap, keep your index finger and thumb together, and start drawing in space. Release the air tap to stop drawing. 
@@ -60,7 +59,7 @@ To use voice commands, select the ink tool by saying "Remote Assist, Ink." Then 
 
 <iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qs" frameborder="0" allowfullscreen=""></iframe>
 
-The previous video shows how to draw using HoloLens 1 gestures. If you’re using HoloLens 2, remember that you can select the **Ink tool** by touching it directly, and you determine where you start your drawing using your hand ray. 
+The previous video shows how to draw using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Ink tool** by touching it directly, and you determine where you start your drawing using your hand ray. 
 
 ## Change arrow or ink color
 
