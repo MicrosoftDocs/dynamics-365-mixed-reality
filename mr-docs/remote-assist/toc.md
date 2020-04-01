@@ -12,7 +12,7 @@
 #### [Set up cross-tenant calling (open federation)](cross-company-calling.md)
 ### [Set up Teams](set-up-teams.md)
 
-## Remote Assist on Hololens 1 and 2
+## Remote Assist on Hololens and HoloLens 2
 ### [Overview](overview-hololens.md)
 ### [Launch Remote Assist](launch-hololens.md)
 ### [Make and take calls](making-taking-calls-hololens.md)
