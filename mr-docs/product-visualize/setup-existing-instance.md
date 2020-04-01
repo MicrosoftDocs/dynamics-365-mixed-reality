@@ -1,17 +1,20 @@
 ---
-author: mamithan
-description: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
-ms.author: mamithan
-ms.date: 12/22/2019
+title: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
+description: Learn how to set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance.
+author: sbmjais
+ms.author: shjais
+manager: shujoshi
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
-title: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
-ms.reviewer: v-brycho
+ms.reviewer:
 ---
 
 # Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
 
-You can connect Microsoft Dynamics 365 Product Visualize to a new Dynamics 365 Sales instance, or an existing instance. This topic explains how to set it up on an existing Dynamics 365 Sales instance. If you don't already have Dynamics 365 Sales, you can set up a free trial. For more information, see [Set up Dynamics 365 Product Visualize](setup.md). 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+
+You can connect Microsoft Dynamics 365 Product Visualize to a new Dynamics 365 Sales instance, or an existing instance. This article explains how to set it up on an existing Dynamics 365 Sales instance. If you don't already have Dynamics 365 Sales, you can set up a free trial. For more information, see [Set up Dynamics 365 Product Visualize](setup.md). 
 
 ## Minimum requirements
 
@@ -47,7 +50,7 @@ Existing Dynamics 365 Sales instances must meet the following minimum requiremen
 
 3. In the navigation bar at the top of the page, select the down arrow next to __Settings__, and then select __Document Management__.
 
-   ![Document Management settings](media/sharepoint.PNG "Document Managment settings")
+   ![Document Management settings](media/sharepoint.PNG "Document Management settings")
 
 4. Select __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint.
 
