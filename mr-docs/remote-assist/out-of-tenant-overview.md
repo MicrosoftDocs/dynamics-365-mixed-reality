@@ -100,15 +100,13 @@ In the following diagram, the external customers (Contoso1, Contoso2, and Contos
 
 #### Pros of guesting
 
-1. In this solution, Tenant ABC can guest in one (or more) external users instead of an entire external tenant.
+1. In this solution, Tenant ABC can guest in one (or more) individual external users instead of an entire external tenant. 
 
-2. Guesting has more control features.  See [this article](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between guesting and federation features.
+2. Guesting has more control features. For example, an external user is guested into a specific Teams teams and channels and can only search and collaborate with others who are inside the same Teams teams and channels.  See [this article](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between guesting and federation features.
 
 #### Cons of guesting
 
 1. May require more user management than with federation.
-
-2. This solution grants guested users the ability to call or chat with anyone in Tenant ABC.
 
 For more information, see this Microsoft Teams [article on granting guess access](https://docs.microsoft.com/microsoftteams/guest-access).
 
@@ -120,16 +118,16 @@ See this [Microsoft Teams guest access checklist](https://docs.microsoft.com/mic
 
 ### Scenario 2 Overview
 
-Companies frequently want to purchase Remote Assist licenses not because their own technicians need to use Remote Assist to get help, but because they want to give Remote Assist licenses to their customers to provide best-in-class customer service. Companies want to handle all the administrative set up and enable their customers to use Remote Assist licenses.
+Companies frequently want to purchase Remote Assist licenses not because their own technicians need to use Remote Assist to get help, but because they want to give Remote Assist licenses to their customers and provide best-in-class customer service. Companies want to handle all the license configuration and enable their customers to seamlessly use Remote Assist.
 
 ### Scenario 2 example
 
-Company ABC has experts that will use Microsoft Teams to provide customer support to one (or many) customers. To do so, Company ABC will provide their customers with a Remote Assist license. This scenario is depicted in Figure 2.1.
+Company ABC has experts that will use Microsoft Teams to provide customer support to one (or many) customers. Some customers are in an existing tenant, and others are not. Company ABC wants to provide their customers with a Remote Assist licenses. This scenario is depicted in Figure 2.1.
 
-In Figure 2.1, Company ABC created "Service accounts" (SAs) in Azure AD. These accounts were then distributed to external users. For example: SA1 was given to a user (or multiple users who are sharing the SA1 account) in the Contoso1 Tenant, SA2 was given to a user (or multiple users who are sharing the SA2 account) ContosoN Tenant, and SA3 was given to a user who does not belong to a tenant.
+In Figure 2.1, Company ABC created "service accounts" (SAs) in Azure AD. These accounts were then distributed to external users. For example: SA1 was given to a user (or multiple users who are sharing the SA1 account) in the Contoso1 tenant, SA2 was given to a user (or multiple users who are sharing the SA2 account) in the ContosoN tenant, and SA3 was given to a user who does not belong to a tenant.
 
 >[!NOTE]
-> Service accounts can be given to anyone. The user receiving the service account does not have to belong to a Tenant.
+> Service accounts can be given to anyone. The user receiving the service account does not have to already belong to a tenant.
 
 **Figure 2.1**
 ![Diagram showing an internal tenant leasing out a Remote Assist license to external tenants.](media/cross-tenant-licensing.png)
@@ -144,9 +142,9 @@ In Figure 2.1, Company ABC created "Service accounts" (SAs) in Azure AD. These a
 
 #### Cons of leasing services to other tenants
 
-1. Depending on how many customers Tenant ABC has, Tenant ABC may need to create and manage many service accounts.
+1. Depending on how many customers Company ABC has, Tenant ABC may need to create and manage many service accounts.
 
-1. External users can search for and communicate with anyone in the organization if information barriers are not in place.
+1. External users can search for and communicate with anyone in the Tenant ABC if Company ABC does not configure information barriers.
 
 #### Implementation
 
