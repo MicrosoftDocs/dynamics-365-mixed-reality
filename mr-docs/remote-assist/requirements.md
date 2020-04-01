@@ -2,7 +2,7 @@
 author: sophiasysun
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: sopsun
-ms.date: 03/31/2020
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
@@ -51,15 +51,17 @@ To collaborate with a Remote Assist user, a Microsoft Teams user may only use th
 ## Network requirements
 
 The recommended bandwidth for optimal performance of Remote Assist is 1.5 Mbps.
-Though audio/video calls might be possible in environments with reduced
-bandwidth, you might experience feature degradation, limiting the user experience. To test your company’s network bandwidth, follow these steps:
 
-1.  Have a Teams user start a video call with another Teams user.
+Though audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation, limiting the user experience. 
 
-2.  Add a separate video call between a third and fourth user, and another for a
+To test your company’s network bandwidth, follow these steps:
+
+1. Have a Teams user start a video call with another Teams user.
+
+2. Add a separate video call between a third and fourth user, and another for a
     fifth and sixth user.
 
-3.  Continue adding video callers to stress-test your network bandwidth until
+3. Continue adding video callers to stress-test your network bandwidth until
     you’re confident that multiple users can successfully connect on video calls
     at the same time.
 
