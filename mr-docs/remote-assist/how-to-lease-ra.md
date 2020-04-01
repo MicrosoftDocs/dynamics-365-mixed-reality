@@ -36,7 +36,7 @@ In this article, we'll take a look at how to implement licensing across multiple
 
 ## Step 1. Determine if information barriers are necessary
 
-### Overview of Information Barriers
+### Overview of information barriers
 
 Information barriers are a great way to control who can search and collaborate with one another in Microsoft Teams and Remote Assist. Information barriers use Azure Active Directory (Azure AD) attributes to segment Azure AD users. The segmentation of users determines which users can talk to one another.
 
@@ -74,7 +74,7 @@ For more information, see [Updated list of Information Barrier licenses](https:/
 
 ## Step 3. Create service accounts
 
-Learn how to use Azure AD to [create service accounts](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory) for your external collaborators (e.g. customers and vendors).
+Learn how to use Azure AD to [create service accounts](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory) for your external collaborators (for example, customers and vendors).
 
 
 ## Step 4. Assign licenses
