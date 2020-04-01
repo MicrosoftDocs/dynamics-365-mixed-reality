@@ -13,6 +13,7 @@
 ##### [3: Install the apps](setup-step-three.md)
 ##### [4: Set up Power BI reports](setup-step-four.md)
 #### [Upgrade the solution](upgrade.md)
+#### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
 #### [Transition from public preview to GA](public-preview-transition.md)
 ### Add users, assign roles, and restrict access
 #### [Add users](add-users.md)
