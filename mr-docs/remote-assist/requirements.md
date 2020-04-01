@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 
 # Technical requirements for deploying and using Dynamics 365 Remote Assist
 
-The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist throughout your organization. 
+The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist.
 
 ## Device requirements 
 
@@ -44,17 +44,17 @@ To collaborate with a Remote Assist user, a Microsoft Teams user may only use th
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Administrator                              | *   [Azure Active Directory (AAD)](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis) account to assign licenses in M365 Admin portal and distribute apps through Microsoft Store for Business. Learn more about how to deploy Remote Assist [here](https:/docs.microsoft.com/dynamics365/mixed-reality/remote-assist/deploy-remote-assist).                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Dynamics 365 Remote Assist user            | *   [Azure Active Directory (AAD)](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis) account  </br> *  Teams license (included with Remote Assist license)  </br> *   Remote Assist license  </br> * Remote Assist app on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) device  </br> *   (Optional) Dynamics 365 Field Service license\*\*  </br> *   (Optional) Power BI license\*\*\*                                                                                                                                                                                                                                                                                                                             |
-| Remote collaborator (Uses Microsoft Teams) | Teams requirements to communicate with a Remote Assist user: </br> *   Teams license </br>  * Teams mobile app or the Windows 10 Teams PC application </br></br> Note: It is possible to use Teams to communicate with a Remote Assist user without acquiring a Teams license. Teams supports [guest access](https://docs.microsoft.com/MicrosoftTeams/guest-access), which lets an organization add individual users from outside their organization into their teams and channels. Anyone with a business or consumer email account, such as Outlook, Gmail, or others, can use Teams as a guest in another organization's tenant. </br> </br> Note: The remote collaborator can use Teams for free, which offers [limited functionality](https://docs.microsoft.com/microsoftteams/upgrade-freemium#how-does-teams-free-compare-to-the-full-version-of-teams). 
+| Remote collaborator (Uses Microsoft Teams) | Teams requirements to communicate with a Remote Assist user: </br> *   Teams license </br>  * Teams mobile app or the Windows 10 Teams PC application </br></br> Note: It is possible to use Teams to communicate with a Remote Assist user without acquiring a Teams license. Teams supports [guest access](https://docs.microsoft.com/MicrosoftTeams/guest-access), which lets an organization add individual users from outside their organization into their teams and channels. Anyone with a business or consumer email account, such as Outlook, Gmail, or others, can use Teams as a guest in another organization's tenant. </br></br> Note: The remote collaborator can use Teams for free, which offers [limited functionality](https://docs.microsoft.com/microsoftteams/upgrade-freemium#how-does-teams-free-compare-to-the-full-version-of-teams). 
 
-\*\*To use Remote Assist to view Dynamics 365 Field Service bookings, users will need both a Remote Assist and Field Service license version 8.2 or later. [Learn more about Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/).
+\*\*To use Remote Assist to view Dynamics 365 Field Service bookings, users will also need a Field Service license (version 8.2 or later). [Learn more about Dynamics 365 Field Service](https://dynamics.microsoft.com/field-service/overview/).
 
-\*\*\*To use Remote Assist to open Power BI dashboards linked to Dynamics 365 Field Service bookings, users must have a valid Power BI license. [Learn more about Power BI.](https://powerbi.microsoft.com/)
+\*\*\*To use Remote Assist to open Power BI dashboards linked to Dynamics 365 Field Service bookings, users will also need a Power BI license. [Learn more about Power BI.](https://powerbi.microsoft.com/)
 
 ## Network requirements
 
-The recommended bandwidth for optimal performance of Remote Assist is 1.5 Mbps.
+The recommended bandwidth for Remote Assist is at least 1.5 Mbps.
 
-For mobile devices in **low bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
+When using Remote Assist on mobile devices in **low bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
 
 Though audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation, limiting the user experience. 
 
@@ -63,7 +63,7 @@ To test your company’s network bandwidth, follow these steps:
 1. Have a Teams user start a video call with another Teams user.
 
 2. Add a separate video call between a third and fourth user, and another for a
-    fifth and sixth user.
+    fifth and sixth user
 
 3. Continue adding video callers to stress-test your network bandwidth until
     you’re confident that multiple users can successfully connect on video calls

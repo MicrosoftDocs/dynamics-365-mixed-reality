@@ -8,7 +8,7 @@
 ### [Deploy Remote Assist](deploy-remote-assist.md)
 ### Collaborate with users not currently in your tenant 
 #### [Overview](out-of-tenant-overview.md)
-#### [Lease Remote Assist licenses to external users](how-to-lease-ra.md)
+#### [Provide Remote Assist licenses to external users](how-to-lease-ra.md)
 #### [Set up cross-tenant calling (open federation)](cross-company-calling.md)
 ### [Set up Teams](set-up-teams.md)
 
