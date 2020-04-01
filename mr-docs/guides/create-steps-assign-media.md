@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Create steps and add 3D content or media to support those steps in the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 02/25/2020
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Create steps and add 3D models or media in the Dynamics 365 Guides PC app
@@ -111,6 +111,9 @@ For more information about ways to use objects from the 3D toolkit, see [Create 
 2. Drag the 3D part that you want to one of the **3D parts** boxes.
 
     ![Dragging a 3D part to a 3D parts box](media/drag-3D-part.PNG "Dragging a 3D part to a 3D parts box")
+    
+> [!TIP]
+> To find items that were recently added to the gallery, you can sort by name or by the date when the item was added.
 
 ## Import a custom 3D model to use as a 3D part<a name="import"></a>
 
