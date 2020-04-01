@@ -71,7 +71,7 @@ Learn how to use Azure AD to [create service accounts](https://docs.microsoft.co
 
 ## Step 4. Assign licenses
 
-Learn how to [assign licenses](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/license-users-groups) to each service account user. 
+Learn how to [assign licenses](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) to each service account user. 
 
 ## Step 5. Configure information barriers
 
