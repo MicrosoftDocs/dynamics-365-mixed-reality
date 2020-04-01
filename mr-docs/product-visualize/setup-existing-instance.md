@@ -1,12 +1,13 @@
 ---
-author: mamithan
-description: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
-ms.author: mamithan
+title: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
+description: Learn how to set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance.
+author: sbmjais
+ms.author: shjais
+manager: shujoshi
 ms.date: 12/22/2019
 ms.service: crm-online
 ms.topic: article
-title: Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
-ms.reviewer: v-brycho
+ms.reviewer:
 ---
 
 # Set up Dynamics 365 Product Visualize on an existing Dynamics 365 Sales instance
