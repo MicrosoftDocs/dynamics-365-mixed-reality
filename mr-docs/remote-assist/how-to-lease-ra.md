@@ -9,7 +9,7 @@ title: Cross-tenant Remote Assist licensing implementation
 ms.reviewer: krbjoran
 ---
 
-# How to Lease Remote Assist licenses to external users
+# How to provide Remote Assist licenses to external users
 
 This document assumes that you have read our [Remote Assist External Collaboration Scenarios](out-of-tenant-overview.md) document. 
 
@@ -36,9 +36,9 @@ In this article, we'll take a look at how to implement licensing across multiple
 
 ## Step 1. Determine if information barriers are necessary
 
-### Overview of Information Barriers
+### Overview of information barriers
 
-Information barriers are a great way to control who can communicate with one another in Microsoft Teams. Information barriers use Azure Active Directory (Azure AD) attributes to segment Azure AD users. The segmentation of users determines which users can talk to one another.
+Information barriers are a great way to control who can search and collaborate with one another in Microsoft Teams and Remote Assist. Information barriers use Azure Active Directory (Azure AD) attributes to segment Azure AD users. The segmentation of users determines which users can talk to one another.
 
 It's important to plan the segmentation of users. You can segment users based on what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference).
 
@@ -54,13 +54,13 @@ For example, you may choose to segment users based on the "Group" attribute. You
 
 ## Step 2. Buy the correct licenses
 
-The following licenses are required:
+The following licenses are required to enable a service account user to use Remote Assist.
 
 - [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis#who-uses-azure-ad)
 - [Remote Assist](buy-remote-assist.md)
 - Microsoft Teams
 
-In order for information barriers to work, an information barrier license is required. The following licensing suites include information barrier licenses:
+If you would like to control who the service account user can search and collaborate with, you will need to assign the service account a information barrier license. The following licensing suites include information barrier licenses:
 
 - Microsoft 365 E5
 - Office 365 E5
@@ -72,10 +72,15 @@ For more information, see [Updated list of Information Barrier licenses](https:/
 >[!NOTE]
 > If you are following the steps in the [Deploy HoloLens in a Commercial Environment](https://docs.microsoft.com/hololens/hololens-requirements#apps) article, please go back to that document before implementing this solution.
 
-## Step 3. Create Service Accounts
+## Step 3. Create service accounts
 
-[Create a Service account](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory)
+Learn how to use Azure AD to [create service accounts](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory) for your external collaborators (for example, customers and vendors).
 
-## Step 4. Configure information barriers
 
-Finally, you'll need to configure the information barriers. Visit [this article on information barriers](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide) for full instructions.
+## Step 4. Assign licenses
+
+Learn how to [assign licenses](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory) to each user. 
+
+## Step 5. Configure information barriers
+
+Finally, you'll need to [configure the information barriers](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide).

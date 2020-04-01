@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 
 # Dynamics 365 Remote Assist frequently asked questions
 
-Here are some answers to common questions about deploying and using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], which is available on HoloLens 1, HoloLens 2, and [AR-capable mobile phones and tablets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+Here are some answers to common questions about deploying and using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], which is available on HoloLens, HoloLens 2, and [AR-capable mobile phones and tablets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
 In general, you can request help using our [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist). 
 
@@ -21,22 +21,7 @@ This document also includes device-specific ways to provide file a bug, request 
 
 ### What are the technical requirements for installing Dynamics 365 Remote Assist?
 
-To use [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], you’ll need:
-
-- [A subscription to Dynamics 365 Remote Assist.](../licensing/buy-and-deploy.md)
-
-- A [HoloLens running the Windows 10 April 2018
-    Update](https://support.microsoft.com/help/12643) or a [mobile phone or tablet](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements)/
-
-- To make a video call, you'll need a contact using the latest version of [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) on a PC running Windows 10 or a mobile device running [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] Mobile. [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] is [available as a free download](https://teams.microsoft.com/downloads).
-
-### Do I need a subscription to Microsoft Teams or Office 365?
-
-A Teams subscription is included in the [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] subscription for individuals using a [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] license on [!include[pn-hololens](../includes/pn-hololens.md)]. A [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] license is also required for individuals (experts) who communicate with a [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] user on [!include[pn-hololens](../includes/pn-hololens.md)]. [!include[pn-teams](../includes/pn-teams.md)] may be available [as a free download](https://teams.microsoft.com/downloads) for these users. 
-
-### How often is Dynamics 365 Remote Assist updated?
-
-[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] follows the Modern Lifecycle Policy with continuous service updates and major updates every six months (October and April). 
+Learn about the technical requirements [here](requirements.md).
 
 ### How can I tell what version I'm using?
 
@@ -65,8 +50,6 @@ Go to **Settings**, and then find the version number in the **About** section.
 | France         | Netherlands   | United States  |
 
 
-## Configure Remote Assist
-
 ### Can I use Dynamics 365 Remote Assist to place a call between two separate tenants?
 
 Yes. If you want to use Remote Assist and enable an out-of-tenant collaborator to use Teams, follow [these instructions](cross-tenant-licensing-implementation.md). 
@@ -77,7 +60,7 @@ If you would like to use Teams and enable an out-of-tenant collaborator to use R
 
 To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 Remote Assist so that a first-line worker can call an expert in the context of a Field Service booking, see [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](troubleshoot-field-service.md).
 
-## Using Remote Assist on HoloLens 1 or HoloLens 2 
+## Using Remote Assist on HoloLens or HoloLens 2 
 
 ### What languages is Dynamics 365 Remote Assist HoloLens available in?
 
@@ -159,13 +142,9 @@ If you’re having trouble signing in to [!include[pn-dyn-365-remote-assist](../
 
 - Check with your administrator to make sure your device and network are set up to work with [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
 
-### What file formats does the Insert file feature support?
-
-The **Insert file** feature supports most image formats (JPG, GIF, PNG, BMP, TIFF) and PDFs.
-
 ### Can I share files from SharePoint on Dynamics 365 Remote Assist?
 
-No, you can only share local files and files from [!include[pn-onedrive](../includes/pn-onedrive.md)].
+No, you can only share local files and files from OneDrive.
 
 ### Can a Teams desktop user show the Remote Assist HoloLens user a video or PowerPoint?
 
@@ -179,7 +158,7 @@ For snapshots from Remote Assist HoloLens user: snapshots are saved differently 
 - If a Remote Assist call is associated with a booking, the Remote Assist user will take a snapshot and decide whether to save it to OneDrive or to the booking.
 - If a Remote Assist call is not associated with a booking, the Remote Assist user’s snapshot will automatically be saved in OneDrive.  
 
-    However, regardless of how snapshots are saved, a link to the snapshot is sent via the text chat, and the Teams user can view the snapshot and also view the link to the snapshot. 
+However, regardless of how snapshots are saved, a link to the snapshot is sent via the text chat, and the Teams user can view the snapshot and also view the link to the snapshot. 
 
 For files: A link to the files sent by the Teams user is sent in the chat. During the call, the Remote Assist user can use the controls in the top-right corner of a file to save it to their OneDrive.
 
@@ -225,7 +204,6 @@ Yes! If you opened a Field Service booking and then made a Remote Assist call, a
 To view the call log and files, sign into Field Service and select the work order. Two new notes will have been created and attached to the work order. One note will include call log info. The other note will include and a link to each file in plain text. You can also edit the note to include the Stream link of the recorded call, which can be found in your Teams chat.
 
 For more information, visit our article on [displaying and saving files](display-save-files.md).
-
 
 ### How do I file a support ticket?
 
