@@ -9,7 +9,7 @@ title: Requirements for Dynamics 365 Remote Assist
 ms.reviewer: krbjoran
 ---
 
-# Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
+# Technical requirements for deploying and using Dynamics 365 Remote Assist
 
 The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist throughout your organization. 
 
@@ -53,6 +53,8 @@ To collaborate with a Remote Assist user, a Microsoft Teams user may only use th
 ## Network requirements
 
 The recommended bandwidth for optimal performance of Remote Assist is 1.5 Mbps.
+
+For mobile devices in **low bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
 
 Though audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation, limiting the user experience. 
 
