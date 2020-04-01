@@ -8,7 +8,7 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Join a Dynamics 365 Remote Assist meeting on HoloLens
+# Join a meeting on HoloLens
 
 A Microsoft Teams meeting is a meeting scheduled using Teams involving any number of participants. Meetings are useful for maintenance and repairs that are scheduled in advance. It's also useful for inspections and other recurring scenarios.
 

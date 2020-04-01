@@ -1,5 +1,5 @@
 ---
-title: Use Dynamics 365 Remote Assist to get help in a different HoloLens 2 app
+title: Use Dynamics 365 Remote Assist to get help in a different HoloLens app
 author: sophiasysun
 description: How to use Dynamics 365 Remote Assist on HoloLens 2 to get help in a different app.
 ms.author: sopsun

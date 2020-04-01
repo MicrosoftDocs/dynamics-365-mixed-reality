@@ -1,9 +1,8 @@
 ---
 author: sophiasysun
 description: An overview of Dynamics 365 Remote Assist
-ms.author: daclar
-ms.reviewer: krbjoran
-ms.date: 03/15/2020
+ms.author: sopsun
+ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview of Dynamics 365 Remote Assist 
@@ -11,7 +10,7 @@ title: Overview of Dynamics 365 Remote Assist
 
 # Overview of Dynamics 365 Remote Assist
 
-With heads-up, hands-free video calling on Microsoft HoloLens, technicians can collaborate with remote experts on a PC or mobile device to troubleshoot issues in context.
+Empower technicians to collaborate more efficiently by working together from different locations with Dynamics 365 Remote Assist on HoloLens, Android, or iOS devices.
 
 ![Simulated real-life photo of a field technician wearing a HoloLens and communicating with a remote expert.](media/RA_official_photo.png)
 
@@ -32,7 +31,8 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 - **Walk the site without being onsite**: Reduce costs with remote inspections—combine video, screenshots, and annotations for more seamless workflows on the devices you already use.
 - **Bring critical information into view**: Technicians and inspectors can pull in work order information from Dynamics 365 Field Service and call the resource assigned to support them. Furthermore, technicians and inspectors no longer need to carry around paper manuals to perform their repair or inspection. Remote collaborators can insert reference images, schematics, and other helpful information in a technician or inspector's view, so they can refer to the schematic while working heads-up and hands-free.
 - **Navigate Remote Assist on HoloLens with your voice**: Remote Assist on HoloLens 1 and 2 provides a truly hands-free experience by supporting [voice commands in these languages](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for) for all features, even in a loud, industrial environment. 
-- **Offer your customers a differentiated service offering**: When selling a machine or equipment, include a Remote Assist subscription your customer can use to receive help from the experts who created the equipment. 
+- **Offer your customers a differentiated service offering**: When selling a machine or equipment, include a Remote Assist subscription to enable your customer to receive help from the experts who created the equipment. 
+- **Richer documentation and training materials**: Capture the repair or inspection process by creating a cloud-based recording of the call session. When integrated with Dynamics 365 Field Service, enrich a work order with call artifacts.
 
 ## Roles
 
@@ -58,11 +58,12 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 ## Learn more about mixed reality
 
-- **[Mixed reality is a spectrum](https://docs.microsoft.com/windows/mixed-reality/#mixed-reality-is-a-spectrum)**: Mixed reality blends the physical world with the digital world. Mixed reality physically anchors holographic images, data, text, and other digital information onto the physical world and enables you to interact with these holograms. 
-- **[What is a hologram?](https://docs.microsoft.com/windows/mixed-reality/#what-is-a-hologram)**: HoloLens 1 and 2 display holograms, which are objects made of light and sound that appear in the world around you, as if they were real objects. Holograms respond to your gaze, gestures, and voice commands, and can interact with real-world surfaces around you. With holograms, you can create digital objects that are part of your world.
-- **[Spatial anchoring](https://docs.microsoft.com/windows/mixed-reality/spatial-anchors)**: When a technician or remote collaborator makes drawings or adds arrows, these annotations are anchored in the physical world and stay in place as the Remote Assist user moves around. 
-- **What is the HoloLens 2?** HoloLens 2 offers the most comfortable and immersive mixed reality experience available, with industry-leading solutions that deliver value in minutes—all enhanced by the reliability, security, and scalability of cloud and AI services from Microsoft. Learn more about HoloLens 2 features and technical specs [here](https://www.microsoft.com/hololens/hardware).
-* **How is the HoloLens 2 improved from Hololens 1?**: HoloLens 2 offers a more immersive, ergonomic, and instinctual experience. 
+* **[Mixed reality is a spectrum](https://docs.microsoft.com/windows/mixed-reality/#mixed-reality-is-a-spectrum)**: Mixed reality blends the physical world with the digital world. Mixed reality physically anchors holographic images, data, text, and other digital information onto the physical world and enables you to interact with these holograms. 
+* **[What is a hologram?](https://docs.microsoft.com/windows/mixed-reality/#what-is-a-hologram)** HoloLens 1 and 2 display holograms, which are objects made of light and sound that appear in the world around you, as if they were real objects. Holograms respond to your gaze, gestures, and voice commands, and can interact with real-world surfaces around you. With holograms, you can create digital objects that are part of your world.
+* **[Spatial anchoring](https://docs.microsoft.com/windows/mixed-reality/spatial-anchors)**: When a technician or remote collaborator makes drawings or adds arrows, these annotations are anchored in the physical world and stay in place as the Remote Assist user moves around. 
+* **What is the HoloLens 2?** HoloLens 2 offers the most comfortable and immersive mixed reality experience available, with industry-leading solutions that deliver value in minutes—all enhanced by the reliability, security, and scalability of cloud and AI services from Microsoft. Learn more about HoloLens 2 features and technical specs [here](https://www.microsoft.com/hololens/hardware).
+* **How is the HoloLens 2 improved from Hololens 1?** HoloLens 2 offers a more immersive, ergonomic, and instinctual experience. 
+* **Field of view (FOV)**: The greater the device's field of view, the more holograms you can see at once. During a Remote Assist call, the Teams user can see all the holograms in the Remote Assist HoloLens user's space, but the Remote Assist HoloLens user can only see the holograms that are within their field of view.
 
 Learn more about core concepts in mixed reality technology in the following article on [core concepts](https://docs.microsoft.com/windows/mixed-reality/core-concepts-landingpage). 
 
@@ -78,8 +79,6 @@ In addition to using Remote Assist to consult with remote collaborators and reso
 
 ![Screenshot of the HoloLens field of view, showing recent contacts and a booking detail pane.](media/HL2-01.04-contacts-booking.png "FS")
 
-Learn more [here](https://docs.microsoft.com/dynamics365/field-service/remote-assist-hololens).
-
 ## Next steps
 
 ### For administrators
@@ -87,7 +86,8 @@ Learn more [here](https://docs.microsoft.com/dynamics365/field-service/remote-as
 - Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 - Learn how to [deploy Remote Assist](deploy-remote-assist.md), including how to assign licenses and set up HoloLens and mobile devices.
 - Learn how to [deploy Teams on PC or mobile](set-up-teams.md).
-- Optionally, learn to configure additional settings, such as [integrating Dynamics 365 Remote Assist with Field Service](troubleshoot-field-service.md) or [enabling a cross-tenant user to use Remote Assist or Teams](cross-company-calling.md).
+- Optionally, learn to configure additional settings, such as [integrating Dynamics 365 Remote Assist with Field Service](troubleshoot-field-service.md), [leasing a Remote Assist license](how-to-lease-ra.md) to a customer or vendor, and [collaborating with a cross-tenant Teams user](cross-company-calling.md).
+
 
 ### For technicians and inspectors
 - Learn how to use [Remote Assist on HoloLens](overview-hololens.md) or [Remote Assist on mobile](./mobile-app/remote-assist-mobile-overview.md).

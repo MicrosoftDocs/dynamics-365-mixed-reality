@@ -40,8 +40,6 @@ If you don’t see the contact you want, select Search and then use the holograp
 
 > [!Note]
 > You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the administrator for your organization, to set up external access, see [Set up cross-company calling](cross-company-calling.md).
-> 
-> At this time, you can't make group calls or share files with contacts outside your company.
 
 Open the app, select **Search**, and then use the holographic keyboard to enter the full email address of the external user. You won't see any search results if you enter just a name or a partial email address. After you call them once, they will appear in your recent contacts list, so you will not have to search for them again.
 
