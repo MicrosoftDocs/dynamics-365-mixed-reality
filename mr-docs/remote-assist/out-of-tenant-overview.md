@@ -43,13 +43,13 @@ Throughout this article, we'll be referring to a few account types:
 
 > [!Note] This section assumes the vendors and contractors do not have Remote Assist licenses. If the vendors have Remote Assist licenses in their own tenant (i.e. not in your tenant), you will need to use federation or guesting to enable experts in your tenant to collaborate with vendors in the vendor tenant.
 
-### Scenario 1: Vendors and contractors using Remote Assist Overview
+### Overview
 
-[!Note] To appropriately license this scenario, please contact your Microsoft sales representative to license.
+> [!Note] To appropriately license this scenario, please contact your Microsoft sales representative to license.
 
 Companies frequently want to leverage non-company employees such as vendors or contractors to perform specific service tasks. In this case, companies still handle all license configuration, but want to enable their vendors or contractors to seamlessly use Remote Assist to collaborate with them. 
 
-### Vendors and contractors using Remote Assist Example
+### Example
 
 The following example is depicted in Figure 2.1.
 
@@ -67,7 +67,7 @@ In Figure 2.1, Tenant ABC administrator used Azure AD to create **service accoun
 
 [!Note] Because Teams users and Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search by searching that user's name, rather than searching their entire email address.
 
-### Vendors and contractors using Remote Assist Implementation
+### Implementation
 
 If you are following the steps in the [Deploy HoloLens in a Commercial Environment](https://docs.microsoft.com/hololens/hololens-requirements#apps) article, go back to that document before implementing this solution.
 
@@ -141,22 +141,17 @@ If you are following the steps in the [Deploy HoloLens in a commercial environme
 > - The external tenant is on Tenant ABC's "allow" list.
 > - The external tenant is off of Tenant ABC's "block" list.
 
-In the following diagram, the external customers (Contoso1, Contoso2, and ContosoN) have their own Remote Assist and Teams licenses. Tenant ABC has their own Teams licenses. (Please see Figure 1.3)
+In the following diagram, the different company tenants (Contoso1, Contoso2, and ContosoN) have their own Remote Assist and Teams licenses. Tenant ABC has their own Teams licenses. Since in this case they are the remote collaborator, they don’t need specific Remote Assist license. (Please see Figure 1.3) 
 
 **Figure 1.3**
 ![Diagram showing external tenants and how they map to the internal tenant.](media/cross-tenant-guesting.png)
 
-#### Pros of guesting
+| Pros                                                                                                                                                                                                                                                                                                                                                                                                                                       | Cons                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| In this solution, Tenant ABC can guest in one (or more) individual external users instead of an entire external tenant.                                                                                                                                                                                                                                                                                                                    | May require more user management than with federation depending on the number of guests. |
+| Guesting has more control features. For example, an external user is guested into a specific Teams teams and channels and can only search and collaborate with others who are inside the same Teams teams and channels. See [this article](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between guesting and federation features |                                                                                          |
 
-1. In this solution, Tenant ABC can guest in one (or more) individual external users instead of an entire external tenant. 
-
-2. Guesting has more control features. For example, an external user is guested into a specific Teams teams and channels and can only search and collaborate with others who are inside the same Teams teams and channels.  See [this article](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between guesting and federation features.
-
-#### Cons of guesting
-
-1. May require more user management than with federation.
-
-For more information, see this Microsoft Teams [article on granting guess access](https://docs.microsoft.com/microsoftteams/guest-access).
+For more information, see this Microsoft Teams article about [how guest access works](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 
 #### Guesting implementation
 
