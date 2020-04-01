@@ -119,7 +119,7 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
 3. By Hololens hardware:
 - Press and hold the volume-up and volume-down buttons simultaneously until a three-second countdown begins. To stop recording, tap both buttons simultaneously.
  
-There are three ways to get a photo or video off the HoloLens camera roll. 
+There are two ways to get a photo or video off the HoloLens camera roll. 
 
 1.	Upload to OneDrive: 
 - Launch the **Start** menu. 
@@ -132,8 +132,6 @@ There are three ways to get a photo or video off the HoloLens camera roll.
 - Access the internal storage through the file explorer (on a PC).
 - Go to the **Pictures** > **Camera Roll folder**.
 - Copy your images or videos from this folder.
-
-3.	If you have Dynamics 365 Remote Assist, you can start a call with someone, open the **Text Chat**, and attach the picture (but not a video) in the Text Chat. <-- SOPHIA TO DOUBLE CHECK THIS 
 
 Learn more about taking photos, taking videos, and getting them off the device [here](https://docs.microsoft.com/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
 
