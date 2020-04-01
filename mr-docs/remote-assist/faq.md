@@ -224,7 +224,7 @@ Yes! If you opened a Field Service booking and then made a Remote Assist call, a
 
 To view the call log and files, sign into Field Service and select the work order. Two new notes will have been created and attached to the work order. One note will include call log info. The other note will include and a link to each file in plain text. You can also edit the note to include the Stream link of the recorded call, which can be found in your Teams chat.
 
-LFor more information, visit our article on [displaying shared files](display-share-files.md).
+For more information, visit our article on [displaying and saving files](display-save-files.md).
 
 
 ### How do I file a support ticket?
