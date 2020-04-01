@@ -16,16 +16,9 @@ A Remote Assist call involves one party (technician) using Remote Assist and the
 
 However, there are certain scenarios where this may not be the case: 
 
-Scenario 1: Vendors and contractors using Remote Assist, i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist.  
-Scenario 2: Multi-tenant company deployments, i.e., a company has a multi-tenant configuration across different organizations or business units. 
+**Scenario 1: Vendors and contractors using Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist.  
 
-This document explains ...
-
-| Scenario                                                                                                                                                                           | Implementation overview                                                                                                                                                                                           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Scenario 1: Remote collaborators in Tenant A want to use Teams, and technicians in Tenant B want to use Remote Assist. Technicians in Tenant B do not have Remote Assist licenses. | Tenant A administrator must set up service accounts in Tenant A, assign a Remote Assist license to each service account, and provide service account credentials to the technicians in Tenant B. Learn more here. |
-| Scenario 2: Remote collaborators in Tenant A want to use Teams, and technicians in Tenant B want to use Remote Assist. Users in both tenants have the licenses they need.          | Tenant A and Tenant B must agree on how to enable users in the two tenants to communicate with each other: federation or guesting. Learn more here.                                                               |
-
+**Scenario 2: Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. 
 
 >[!NOTE]
 > This article is intended for administrators, and assumes that you have Microsoft Teams **AND** Azure Active Directory (Azure AD) admin privileges. You should also be familiar with the [Teams admin portal](https://admin.teams.microsoft.com/).
@@ -50,13 +43,13 @@ Throughout this article, we'll be referring to a few account types:
 
 > [!Note] This section assumes the vendors and contractors do not have Remote Assist licenses. If the vendors have Remote Assist licenses in their own tenant (i.e. not in your tenant), you will need to use federation or guesting to enable experts in your tenant to collaborate with vendors in the vendor tenant.
 
-### Scenario 1: Vendors and contractors using Remote Assist - Overview
+### Scenario 1: Vendors and contractors using Remote Assist Overview
 
 [!Note] To appropriately license this scenario, please contact your Microsoft sales representative to license.
 
 Companies frequently want to leverage non-company employees such as vendors or contractors to perform specific service tasks. In this case, companies still handle all license configuration, but want to enable their vendors or contractors to seamlessly use Remote Assist to collaborate with them. 
 
-### Scenario 1: Vendors and contractors using Remote Assist - Example
+### Vendors and contractors using Remote Assist Example
 
 The following example is depicted in Figure 2.1.
 
@@ -74,7 +67,7 @@ In Figure 2.1, Tenant ABC administrator used Azure AD to create **service accoun
 
 [!Note] Because Teams users and Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search by searching that user's name, rather than searching their entire email address.
 
-### Scenario 1: Vendors and contractors using Remote Assist - Implementation
+### Vendors and contractors using Remote Assist Implementation
 
 If you are following the steps in the [Deploy HoloLens in a Commercial Environment](https://docs.microsoft.com/hololens/hololens-requirements#apps) article, go back to that document before implementing this solution.
 
@@ -82,18 +75,13 @@ Otherwise, please learn how to [Provide Remote Assist licenses to users outside 
 
 
 
-
-
-
-
-
-
-
-## Scenario 1: Communicating with external users
+## Scenario 2: Multi-tenant company deployments 
 
 ### Scenario 1 overview
 
-In this scenario, one tenant (Tenant ABC) has experts that will provide support to one (or many) customers, as represented in the Figure 1.1.
+In this scenario, a company leverages multiple tenants through different organizations and business units, all within the same company. One specific tenant (Tenant ABC) has experts that will provide support to one (or many) company employees that sit in a different tenant, as represented in the Figure 1.1.  
+
+Note that this scenario only applies if all the tenants belong to the same company and the various tenants have access to Remote Assist licenses. 
 
 **Figure 1.1**
 ![Diagram showing tenant ABC needing to communicate with several external tenants.](media/cross-tenant-overview.png)
@@ -102,7 +90,7 @@ There are two solutions for this scenario: **Federation** and **Guesting**.
 
 ### Solution 1: Federation
 
-**Federation** is a Microsoft Teams feature that allows external domains to communicate with people in your organization. There are three types of federation options:
+**Federation** is a Microsoft Teams feature that allows other tenant domains to communicate with people in your organization. There are three types of federation options: 
 
 - Open federation
 - "Allow specific" domains
@@ -111,7 +99,7 @@ There are two solutions for this scenario: **Federation** and **Guesting**.
 >[!NOTE]
 > See the Microsoft Teams [article on managing external access](https://docs.microsoft.com/microsoftteams/manage-external-access#plan-for-external-access) for more information.
 
-In the following diagram example, the external customers (Contoso1, Contoso2, and ContosoN) have their own Remote Assist license and Teams licenses. Tenant ABC has their own Teams licenses. (Please see figure 1.2)
+In the following diagram example, the external customers (Contoso1, Contoso2, and ContosoN) have their own Remote Assist license and Teams licenses. Tenant ABC has their own Teams licenses. (Please see figure 1.2) 
 
 **Figure 1.2**
 ![Diagram showing how the different tenants relate to one another.](media/cross-tenant-federation.png)
