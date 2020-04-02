@@ -6,10 +6,9 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
 ### [Deploy Remote Assist](deploy-remote-assist.md)
-### Collaborate with users not currently in your tenant 
-#### [Overview](out-of-tenant-overview.md)
-#### [Provide Remote Assist licenses to external users](how-to-lease-ra.md)
-#### [Set up cross-tenant calling (open federation)](cross-company-calling.md)
+### Advanced deployment scenarios 
+#### [Multi-tenant company deployment](multi-tenant-deployment.md)
+#### [Vendor and contractor usage of Remote Assist](vendor-use-RA.md)
 ### [Set up Teams](set-up-teams.md)
 
 ## Remote Assist on Hololens and HoloLens 2
