@@ -87,8 +87,9 @@ In addition to using Remote Assist to consult with remote collaborators and reso
 - Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 - Learn how to [deploy Remote Assist](deploy-remote-assist.md), including how to assign licenses and set up HoloLens and mobile devices.
 - Learn how to [deploy Teams on PC or mobile](set-up-teams.md).
-- Optionally, learn to configure additional settings, such as [integrating Remote Assist with Field Service](troubleshoot-field-service.md), [providing a Remote Assist license](how-to-lease-ra.md) to a customer or vendor, and [collaborating with a cross-tenant user](cross-company-calling.md).
-
+- (Optional) Learn how to [deploy multi-tenant company deployments](multi-tenant-deployment.md)
+- (Optional) Learn how to [enable vendors and contractors to use Remote Assist](vendor-use-RA.md)
+- (Optional) Learn to [integrate Remote Assist with Field Service](troubleshoot-field-service.md).
 
 ### For technicians and inspectors
 - Learn how to use [Remote Assist on HoloLens](overview-hololens.md) or [Remote Assist on mobile](./mobile-app/remote-assist-mobile-overview.md).
