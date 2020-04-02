@@ -15,9 +15,9 @@ A Remote Assist call involves one party (technician) using Remote Assist and the
 
 However, there are certain scenarios where this may not be the case: 
 
-1. **Scenario 1: Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. This document focuses on scenario 1.
+1. **Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. This document focuses on scenario 1.
 
-1. **Scenario 2: Vendors and contractors using Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. [Learn more about this scenario.](vendor-use-RA.md)
+1. **Vendors and contractors using Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. [Learn more about this scenario.](vendor-use-RA.md)
 
 >[!NOTE]
 > This article is intended for administrators, and assumes that you have Microsoft Teams **AND** Azure Active Directory (Azure AD) admin privileges. You should also be familiar with the [Teams admin portal](https://admin.teams.microsoft.com/).
