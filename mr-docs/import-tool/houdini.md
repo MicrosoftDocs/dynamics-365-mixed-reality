@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Describes, in tutorial format, how to use SideFX Houdini to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.author: v-jerja
-ms.date: 12/23/2019
+ms.date: 03/20/2020
 ms.service: crm-online
 ms.topic: article
 title: Use SideFX Houdini to prepare 3D models for use in Dynamics 365 mixed-reality apps
@@ -26,7 +26,7 @@ This tutorial provides step-by-step instructions that show you how to:
 
 ## What is Houdini?
 
-Houdini is built from the ground up as a procedural system that empowers artists to work freely, create multiple iterations, and rapidly share workflows with colleagues.
+[Houdini](https://www.sidefx.com/) is a procedural system that empowers artists to work freely, create multiple iterations, and rapidly share workflows with colleagues.
 
 ## Import a 3D model into Houdini
 
