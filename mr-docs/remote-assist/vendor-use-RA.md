@@ -19,7 +19,8 @@ However, there are certain scenarios where this may not be the case:
 
 2. **Vendors and contractors use Remote Assist** - a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. This document focuses on this scenario.
 
-> [!Note] This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Remote Assist, please contact your Microsoft sales representative.
+> [!Note] 
+> This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Remote Assist, please contact your Microsoft sales representative.
 
 ## Account types
 
@@ -50,7 +51,8 @@ In Figure 1.2 below, Company ABC used Azure AD to create **service accounts** (S
 
 In the previous figure, we described a configuration where any service account user can search for and communicate with any other service account user or internal account user in Tenant ABC. If you need to control search and collaboration, you can do so by adding information barriers. For example, Tenant ABC can configure information barriers such that Vendor1_A@Vendor1.com, Vendor1_B@Vendor1.com, and Vendor1_A@Vendor2.com can search and collaborate with the experts and vice versa, but cannot search and collaborate with Vendor@outlook.com and vice versa. Learn more about information barriers and how to configure them [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide).
 
->[!Note] Because Teams users and Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search for by typing that user's name, rather than typing their entire email address.
+>[!Note] 
+> Because Teams users and Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search for by typing that user's name, rather than typing their entire email address.
 
 ## Implementation
 

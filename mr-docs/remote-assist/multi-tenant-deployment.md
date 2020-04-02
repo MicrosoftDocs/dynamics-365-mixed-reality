@@ -40,7 +40,8 @@ Additional details:
 - Experts in Tenant ABC also want to collaborate with technicians in Tenant Contoso2. 
 - Technicians in Tenant Contoso1 do not want to search or collaborate with technicians in Tenant Contoso2.
 
->[!Note] This scenario only applies if all the tenants belong to the same company and the various tenants that need to use Remote Assist already have Remote Assist licenses. 
+>[!Note] 
+> This scenario only applies if all the tenants belong to the same company and the various tenants that need to use Remote Assist already have Remote Assist licenses. 
 
 **Figure 1.1**
 ![Diagram showing tenant ABC needing to communicate with several external tenants.](media/MultiTenant.png)
