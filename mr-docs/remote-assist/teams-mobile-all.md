@@ -11,16 +11,16 @@ ms.reviewer: krbjoran
 
 # Collaborate with a Remote Assist user via Microsoft Teams on mobile 
 
-Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using a variety of devices to solve problems together, faster. Remote Assist is available on HoloLens 1 and HoloLens 2, and also AR-capable iOS and Android mobile phones and tablets. Remote collaborators can use Microsoft Teams on PC or mobile to collaborate with Remote Assist users.
+Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using a variety of devices to solve problems together, faster. Remote Assist is available on HoloLens and HoloLens 2, and also AR-capable iOS and Android mobile phones and tablets. Remote collaborators can use Microsoft Teams on PC or mobile to collaborate with Remote Assist users.
 
 In this article, we'll explore how you can use Microsoft Teams on mobile to collaborate with a Remote Assist user. The benefit of using Teams on mobile (versus PC) is that you can collaborate with Remote Assist users on-the-go. 
 
-When you use Teams an Android or iOS device, you can collaborate in ad hoc one-to-one calls and Teams meetings with one person who is using Remote Assist on HoloLens 1 or 2. You can also collaborate with one person who is using Remote Assist on mobile. For more information, visit our [article on requirements](requirements.md).
+When you use Teams on an Android or iOS device, you can collaborate in ad hoc one-to-one calls and Teams meetings with one person who is using Remote Assist on HoloLens or HoloLens 2 ("Remote Assist HoloLens user"). You can also collaborate in an ad hoc one-to-one call with one person who is using Remote Assist on mobile ("Remote Assist mobile user"). For more information, visit our [article on requirements](requirements.md).
 
 We'll also take a look at the difference between collaborating with two different types of Remote Assist users: 
 
-- Remote Assist users who are on a HoloLens 1 or 2
-- Remote Assist users who are using Remote Assist on a mobile device.
+- Remote Assist HoloLens user
+- Remote Assist mobile user
 
 The features you can use to collaborate differ depending on whether you are collaborating with a Remote Assist HoloLens user or Remote Assist mobile user, and whether you’re using a one-to-one call or a Teams meeting. 
 
@@ -30,15 +30,17 @@ Let's take a look at the differences.
 ---| ---| ---
 Make outgoing call | Yes | Yes, but Remote Assist mobile user must have Remote Assist app open to be notified of the call.
 Receive incoming call | Yes| Yes
-Join and schedule a Teams meeting | Yes | Np
+Join and schedule a Teams meeting | Yes | No
 Control outgoing video, outgoing audio, and incoming audio  | Yes | Yes
 Annotate Remote Assist user’s environment using arrows and ink  | Yes | Yes
 Annotate 2D snapshot using arrows and ink | Yes | Yes
 Send a text message | Yes |Yes
-Share files from OneDrive | For a one-to-one call, yes if using Insert File feature; for a meeting, yes if using the Share feature | No
-Share photos from device | For a one-to-one call, yes if using Insert File feature; for a meeting, yes if using the Share feature | No
+Share files from OneDrive | For a one-to-one call, yes if using Insert File feature; for a meeting, yes if using the Share feature | Yes
+Share photos from device | For a one-to-one call, yes if using Insert File feature; for a meeting, yes if using the Share feature | Yes
 Record call | Only during Teams meeting, not during one-to-one call | No
 Share screen | Yes | No
+
+# What can Teams mobile users do in a call with a Remote Assist HoloLens user?
 
 ## Make outgoing call
 
@@ -53,7 +55,7 @@ Under **History**, you will see your recent contacts. Select one of the contacts
 
 ## Schedule a Teams meeting
 
-You can schedule a Teams meeting to specify in advance when you will collaborate with a Remote Assist user. To schedule a meeting, go to the **Calendar** tab. You'll see a list of upcoming meetings. 
+You can schedule a Teams meeting to specify in advance when you will collaborate with a Remote Assist HoloLens user. To schedule a meeting, go to the **Calendar** tab. You'll see a list of upcoming meetings. 
 
 Then, select the **Add Meeting** icon in the top-right corner and fill in the details for a new meeting.
 
@@ -152,7 +154,7 @@ When you insert an image, still gif, video, or PDF from OneDrive or a Teams chan
 
 The Remote Assist HoloLens user can save a file to their OneDrive by tapping the OneDrive icon in the top right of the slate. The OneDrive file is then automatically saved to a folder called "HoloLens Received Files."   
 
-### Display OneDrive file during a meeting**
+### Display OneDrive file during a meeting
 
 You may notice that there is no **Insert file** option when you're in a meeting with a Remote Assist HoloLens user. However,  you can use **Share screen** to display a OneDrive or Teams file as a new slate in the Remote Assist HoloLens user’s environment. To do so, go to the call controls, select the ellipses icon […], select **Share** and then **Share screen**.
 
@@ -164,14 +166,12 @@ Because you're sharing your screen, a link to the OneDrive or Teams file isn't s
 
 ## Share files stored on your device
 
-### Display and share link to on-device photo during a one-to-one call**
+### Display and share link to on-device photo during a one-to-one call
 Go to call controls and select the ellipses icon […]. Then select **Insert Files** and select **Photo**. Then, take a photo or select a photo from your mobile device’s photo gallery. 
 
 Select the text chat. You'll see that the photo is attached to a blank message, but has not yet been sent. Send the photo.
 
-
 ![Screenshot of the photo option in Teams mobile.](media/TeamsMobile_SharePhoto.png "SharePhoto")
-
 
 The photo will show up as a new slate in the Remote Assist HoloLens user’s environment and a link to the file will be available in the Teams chat even after the call ends. 
 
@@ -180,7 +180,6 @@ The Remote Assist HoloLens user can save a file to their OneDrive by tapping the
 ### Display on-device file during a meeting
 
 You may notice that there is no **Insert file** option when you're in a meeting with a Remote Assist HoloLens user. However, there are several screen sharing options. 
-
 
 ![Screenshot of the sharing options in Teams mobile.](media/TeamsMobile_ShareMultipleTypes.png "ShareMultipleTypes")
 
@@ -203,18 +202,15 @@ After the call ends and the recording is automatically uploaded to Stream, you'l
 
 ## Share your screen 
 
-
 ### Share your screen in a one-to-one call
 
 To share your screen, go to call controls, select the ellipses icon […], select **Share**, then select **Start Broadcast**.
 
 ![Screenshot of the Start broadcast window in Teams mobile.](media/TeamsMobile_ScreenBroadcast.png "ScreenBroadcast")
 
-
 After a few seconds, a live view of your screen will be displayed as a new slate in the Remote Assist HoloLens user’s environment. 
 
 ### Share your screen in a meeting
-
 
 ![Screenshot of the share options in Teams mobile, including share screen.](media/TeamsMobile_ShareMultipleTypes.png "ShareMultipleTypes")
 
@@ -228,7 +224,7 @@ Your screen | Show your entire screen (within and outside the Teams app)
 
 
 
-## What can Teams mobile users do in a one-to-one call with a Remote Assist Mobile user? 
+## What can Teams mobile users do in a one-to-one call with a Remote Assist mobile user? 
 
 ### Make outgoing calls
 
@@ -299,8 +295,11 @@ For more information, [learn more about using snapshots](./mobile-app/annotate-s
 
 ### Send a text message
 
-Select the text option (represented by this icon: ![Graphic showing the chat message icon.](media/TeamsMobile_Text.png "Text")) to open the text chat to send text messages. After the call, all participants can access the messages via the Teams chat.
+Select the text chat (represented by this icon: ![Graphic showing the chat message icon.](media/TeamsMobile_Text.png "Text")) to open the text chat to send text messages. After the call, all participants can access the messages via the Teams chat.
 
+### Share files
+
+Use the the text chat (represented by this icon: ![Graphic showing the chat message icon.](media/TeamsMobile_Text.png "Text")) to attach a file.
 
 
 
