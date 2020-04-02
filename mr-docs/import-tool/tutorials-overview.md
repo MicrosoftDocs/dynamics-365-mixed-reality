@@ -2,7 +2,7 @@
 author: JBrentJ
 description: Describes the third-party tutorials available for converting 3D models for use with Dynamics 365 mixed reality apps
 ms.author: v-jerja
-ms.date: 10/22/2019
+ms.date: 03/20/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 mixed-reality apps
@@ -35,6 +35,20 @@ If your 3D models are in FBX, OBJ, or GLB file format, you can use any of the fo
 
 > [!NOTE]
 > In addition to FBX, OBJ, and GLB, 3ds Max can import a multitude of file formats, including several native CAD formats.
+
+## Photogrammetry tutorials
+
+If you're using photogrammetry software to create your 3D models, see these tutorials:
+
+[Agisoft Metashape](agisoft-metashape.md)
+
+[Autodesk ReCap Photo](autodesk-recap-photo.md)
+
+## Point cloud tutorial
+
+If you're converting a point cloud into a 3D model, see this tutorial:
+
+[SideFX Houdini](houdini-point-cloud.md)
 
 ### More information  
 
