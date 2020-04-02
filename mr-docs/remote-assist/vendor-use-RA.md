@@ -19,7 +19,7 @@ However, there are certain scenarios where this may not be the case:
 
 1. **Vendors and contractors use Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. This document focuses on this scenario.
 
-> [!Note] To appropriately license this scenario, please contact your Microsoft sales representative.
+> [!Note] This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Remote Assist, please contact your Microsoft sales representative.
 
 ## Account types
 
