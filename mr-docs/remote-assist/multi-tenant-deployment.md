@@ -27,17 +27,20 @@ However, there are certain scenarios where this may not be the case:
 Throughout this article, we'll be referring to a few account types: 
 
 1. **Internal account**: An Azure Active Directory (Azure AD) account that is created inside your tenant for internal users.
-2. **Service account**: An Azure AD account that is created inside your tenant for users who are not currently part of your tenant.
+2. **Guest account**: An Azure AD account that is created in your tenant when you "guest" any individual into a Teams team or channel using their email. 
+    1. If that user's email is already associated with an Azure AD account in another tenant, that user is now part of 2 tenants: that user is a member of their native tenant and a guest in your tenant.
+    2. If that user's email is not already associated with an Azure AD account in another tenant, that user is now part of 1 tenant: that user is a guest in your tenant.
 
 
 ## Scenario overview
 
-In this scenario, a company leverages multiple tenants through different organizations and business units, all within the same company. One specific tenant (Tenant ABC) has experts that will provide support to one (or many) company employees that sit in a different tenant, as represented in the Figure 1.1.  
+In this scenario, which is represented in Figure 1.1, a company leverages multiple tenants through different organizations and business units, all within the same company. One specific tenant (Tenant ABC) has experts that will provide support to one (or many) company employees that sit in a different company tenants (i.e., Tenant Contoso1, Tenant Contoso2). Each user in Tenant Contoso1 and Tenant Contoso2 already has a Remote Assist license (which comes with a Teams license). Each expert in Tenant ABC already has a Teams license. Experts do not need a Remote Assist license.
+
 
 [!Note] This scenario only applies if all the tenants belong to the same company and the various tenants that need to use Remote Assist already have Remote Assist licenses. 
 
 **Figure 1.1**
-![Diagram showing tenant ABC needing to communicate with several external tenants.](media/cross-tenant-overview.png)
+![Diagram showing tenant ABC needing to communicate with several external tenants.](media/MultiTenant.png)
 
 There are two solutions for this scenario: **Federation** and **Guesting**.
 
@@ -52,10 +55,10 @@ There are two solutions for this scenario: **Federation** and **Guesting**.
 >[!NOTE]
 > See the Microsoft Teams [article on managing external access](https://docs.microsoft.com/microsoftteams/manage-external-access#plan-for-external-access) for more information.
 
-In the following diagram example, tenants Contoso1, Contoso2, and ContosoN have their own Remote Assist licenses (which each come with Teams licenses). Tenant ABC has their own Teams licenses. (Please see Figure 1.2) 
+
 
 **Figure 1.2**
-![Diagram showing how the different tenants relate to one another.](media/cross-tenant-federation.png)
+![Diagram showing how the different tenants relate to one another.](media/Federation.png)
 
 #### Federation pros and cons 
 
@@ -88,15 +91,16 @@ If you are following the steps in the [Deploy HoloLens in a commercial environme
 > - The external tenant is on Tenant ABC's "allow" list.
 > - The external tenant is off of Tenant ABC's "block" list.
 
-In the following diagram, the different company tenants (Contoso1, Contoso2, and ContosoN) have their own Remote Assist and Teams licenses. Tenant ABC has their own Teams licenses. Since in this case they are the remote collaborator, they don’t need a Remote Assist license. (Please see Figure 1.3) 
+
+Figure 1.3 shows the solution. Each  tenant that has Remote Assist users who wants to collaborate with Expert1@ABC.com must guest Expert1@ABC.com into their tenant.
 
 **Figure 1.3**
-![Diagram showing external tenants and how they map to the internal tenant.](media/cross-tenant-guesting.png)
+![Diagram showing external tenants and how they map to the internal tenant.](media/Guesting.png)
 
 | Pros                                                                                                                                                                                                                                                                                                                                                                                                                                       | Cons                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
 | In this solution, Tenant ABC can guest in one (or more) individual external users instead of an entire external tenant.                                                                                                                                                                                                                                                                                                                    | May require more user management than with federation depending on the number of guests. |
-| Guesting has more control features. For example, an external user is guested into a specific Teams teams and channels and can only search and collaborate with others who are inside the same Teams teams and channels. See [this article](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between guesting and federation features |                                                                                          |
+| Guesting has more control features. For example, an external user is guested into a specific Teams teams and channels and can only search and collaborate with others who are inside the same Teams teams and channels. See [this article](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between guesting and federation features | The expert can only use Teams in one tenant at a time, which means that the expert can only communicate with technicians in a certain tenant if the technician is currently using Teams in that tenant. In our example, the expert is in a member in their native tenant (Tenant ABC), a guest in Tenant Contoso1, and a guest in Tenant Contoso2. To switch tenants, navigate to the top right corner of Teams desktop app. To the left of your profile picture, you will see the name of the tenant you are currently in. Select it, and then select the tenant you'd like to switch to.  |
 
 For more information, see this Microsoft Teams article about [how guest access works](https://docs.microsoft.com/en-us/microsoftteams/guest-access).
 
