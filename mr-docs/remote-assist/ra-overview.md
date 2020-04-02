@@ -44,7 +44,7 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 1. A technician arrives onsite to fix a machine, but encounters a complex machine that they're not familiar with. The technician puts on a HoloLens 2, signs in using iris scanning, and launches Remote Assist. (Or, they launch Remote Assist from their mobile device.)  
 
-2. Because the technician's company has enabled Dynamics Field Service integration, the technician selects a booking and views the recommended remote collaborator who has more experience with that machine.
+2. Because the technician's company has enabled Field Service integration, the technician selects a booking and views the recommended remote collaborator who has more experience with that machine.
 
 3. A remote collaborator joins the mixed reality call on Microsoft Teams desktop and sees what the technician sees. They start recording the call so the technician can use it for future reference. 
 
@@ -52,7 +52,7 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 5. The remote collaborator then shares a schematic from OneDrive, and it appears in the technician's space. The collaborator can also pull up a training video up on their desktop and share their screen with the technician. 
 
-6. The technician successfully repairs the machine, takes a snapshot of the repaired machine, and saves it to OneDrive. They thank the remote collaborator for their help, and end the call. Snapshots and files shared during the call are posted to the Dynamics 365 Field Service work order for the technician's manager to review, and the recording is saved online. The technician shares the recording with colleagues so they can learn how the technician and remote collaborator repaired the machine. 
+6. The technician successfully repairs the machine, takes a snapshot of the repaired machine, and saves it to OneDrive. They thank the remote collaborator for their help, and end the call. Snapshots and files shared during the call are posted to the Field Service work order for the technician's manager to review, and the recording is saved online. The technician shares the recording with colleagues so they can learn how the technician and remote collaborator repaired the machine. 
 
 ## Learn more about mixed reality
 
@@ -71,11 +71,11 @@ Technicians and inspectors use Remote Assist on [HoloLens](https://docs.microsof
 
 Remote collaborators use [Teams application on a Windows 10 PC](teams-pc-all.md) or a [Teams application on a mobile device](teams-mobile-all.md).
 
-Learn more about the [technical requirements](requirements.md) for deploying and using Microsoft Dynamics 365 Remote Assist throughout your organization.
+Learn more about the [technical requirements](requirements.md) for deploying and using Remote Assist throughout your organization.
 
 ## Integrate Dynamics 365 Field Service  
 
-In addition to using Remote Assist to consult with remote collaborators and resolve issues faster, technicians and inspectors work even more effectively when they use Dynamics 365 Field Service to view their schedules, perform and track work orders, manage customer assets, and more. When Remote Assist and Field Service are integrated, technicians and inspectors can view bookings in Remote Assist and automatically attach relevant call details and artifacts to their work order associated with that booking.
+In addition to using Remote Assist to consult with remote collaborators and resolve issues faster, technicians and inspectors work even more effectively when they use Field Service to view their schedules, perform and track work orders, manage customer assets, and more. When Remote Assist and Field Service are integrated, technicians and inspectors can view bookings in Remote Assist and automatically attach relevant call details and artifacts to their work order associated with that booking.
 
 ![Screenshot of the HoloLens field of view, showing recent contacts and a booking detail pane.](media/HL2-01.04-contacts-booking.png "FS")
 
