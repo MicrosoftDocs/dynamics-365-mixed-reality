@@ -16,7 +16,7 @@ Empower technicians to collaborate more efficiently by working together from dif
 
 ## Use cases
 
-- **Collaborative maintenance and repair**: Empower technicians to solve problems faster the first time with Microsoft Dynamics 365 Remote Assist. By using heads-up, hands-free video calling on [Microsoft HoloLens](overview-hololens.md) and mobile devices, technicians can receive guidance in context from remote collaborators.
+- **Collaborative maintenance and repair**: Empower technicians to solve problems faster the first time with Microsoft Dynamics 365 Remote Assist. By using heads-up video calling on [Microsoft HoloLens](overview-hololens.md) and mobile devices, technicians can receive guidance in context from remote collaborators.
 - **Remote inspections**: Empower onsite inspectors to collaborate with remote inspectors to evaluate and document asset quality.
 - **Knowledge sharing and training**: Document repairs via photos and videos and share them with the rest of your organization.
 
