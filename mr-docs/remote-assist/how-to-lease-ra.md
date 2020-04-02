@@ -1,15 +1,15 @@
 ---
-author: pawinfie
-description:  Technical document for deploying cross-tenant or cross-company Remote Assist calls
-ms.author: pawinfie
+author: sophiasysun
+description:  How to enable vendors and contractors to use Remote Assist 
+ms.author: sopsun
 ms.date: 03/24/2020
 ms.service: crm-online
 ms.topic: article
-title: Cross-tenant Remote Assist licensing implementation
+title: How to enable vendors and contractors to use Remote Assist 
 ms.reviewer: krbjoran
 ---
 
-# How to provide Remote Assist licenses to external users
+# How to enable vendors and contractors to use Remote Assist 
 
 This document assumes that you have read our [Remote Assist advanced deployment scenarios](out-of-tenant-overview.md) document. 
 
@@ -31,25 +31,20 @@ In this article, we'll take a look at how to deploy Remote Assist licenses for u
 
 ### Overview of information barriers
 
-Information barriers are a great way to control who can search and collaborate with one another when using Microsoft Teams and Remote Assist. Information barriers use Azure Active Directory (Azure AD) attributes to segment Azure AD users. The segmentation of users determines which users can talk to one another.
+Information barriers are a great way to control who can search and collaborate with one another when using Microsoft Teams and Remote Assist. Information barriers use Azure Active Directory (Azure AD) attributes to segment Azure AD users. The segmentation of users determines which users can talk to one another. Information barrier policies determine and prevent the following kinds of unauthorized communications:
 
-It's important to plan how you segment users. You can segment users based on different attributes, such as what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference). To see how an organization might approach defining segments and policies, consider the following [example](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Get the workbook.](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx)
+- Searching for a user
+- Adding a member to a team
+- Starting a chat session with someone
+- Starting a group chat
+- Inviting someone to join a meeting
+- Sharing a screen
+- Placing a call
 
-### Information barriers key concepts
+Information barriers use Azure Active Directory (Azure AD) attributes to segment Azure AD users. You can configure which segments can search and collaborate with other segments. 
 
-When you define policies for information barriers, you'll work with user account attributes, segments, "block" and/or "allow" policies, and policy application.
+It's important to plan how you segment users. You can segment users based on different attributes, such as what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference). To see how an organization might approach defining segments and policies, consider the following [example](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Get the workbook.](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx). Additional information about information barriers can be found [here].
 
-User account attributes are defined in Azure Active Directory (or Exchange Online). These attributes can include department, job title, location, team name, and other job profile details.
-
-Segments are sets of users that are defined in the Office 365 Security & Compliance Center using a selected user account attribute. (See the list of supported attributes.)
-
-Information barrier policies determine communication limits or restrictions. When you define information barrier policies, you choose from two kinds of policies:
-
-"Block" policies prevent one segment from communicating with another segment.
-"Allow" policies allow one segment to communicate with only certain other segments.
-Policy application is done after all information barrier policies are defined, and you are ready to apply them in your organization.
-
-Additional information about information barriers can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide#what-happens-with-information-barriers).
 
 ### Information barrier example
 
