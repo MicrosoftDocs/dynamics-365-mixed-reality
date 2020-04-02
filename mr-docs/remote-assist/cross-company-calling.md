@@ -12,7 +12,7 @@ ms.reviewer: v-brycho
 # Set up cross-company calling for Dynamics 365 Remote Assist (for admins)
 
 > [!Note]
-> This article assumes that you have read the article [Remote Assist cross-tenant communication](out-of-tenant-overview.md).
+> This article assumes that you have read [Remote Assist advanced deployment scenarios](out-of-tenant-overview.md).
 
 Users in your organization can make or receive a one-on-one call with a [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] user from another company (domain) if external access is enabled in [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] for each domain. There are multiple ways to implement this scenario. View the cross tenant communication scenarios [here](out-of-tenant-overview.md).
 
@@ -20,7 +20,7 @@ Users in your organization can make or receive a one-on-one call with a [!includ
 ## Open Federation
 
 > [!NOTE]
-> At this time, group calling and file sharing is not available for cross-company calling.
+> At this time, group calling and file sharing is not available for users in federated tenants.
 
 1. [Enable external access](https://docs.microsoft.com/microsoftteams/manage-external-access) in your [!include[pn-microsoft-teams](../includes/pn-microsoft-teams.md)] admin center. This allows users in your organization to make calls and chat with users outside your domain.
 
