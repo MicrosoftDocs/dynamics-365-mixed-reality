@@ -80,7 +80,7 @@ At this time, [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-
 
 ### What languages are voice commands and speech recognition available for?
 
-At this time, for HoloLens 1, voice and speech recognition are available only in English. For HoloLens 2, voice commands and speech recognition are available for the following languages:
+At this time, for HoloLens, voice and speech recognition are available only in English. For HoloLens 2, voice commands and speech recognition are available for the following languages:
 
 -	English (US)
 -	English (Canada)
@@ -173,12 +173,12 @@ Holograms are always going to be most stable when your **head (not your eyes)** 
 
 To improve hologram stability, complete eye calibration. 
 
-- To complete eye calibration on HoloLens 1, [manually start the calibration process]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-1st-gen). 
+- To complete eye calibration on HoloLens, [manually start the calibration process]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-1st-gen). 
 - HoloLens 2 will prompt you to calibrate the device under several circumstances. [Complete eye calibration]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds. 
 
 ### Multiple people in my organization use Remote Assist on the same HoloLens. How do I clean my HoloLens?
 
-Learn how to clean [HoloLens 1](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware#care-and-cleaning). 
+Learn how to clean [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware#care-and-cleaning). 
 
 Additional details about cleaning HoloLens 2:
 
@@ -228,7 +228,7 @@ When you're in the HoloLens Feedback Hub:
 
 2. In the **Enter your feedback** section, summarize your feedback. To type, tap the text field and a holographic keyboard will appear. Then, select **Next**. To edit your response to any step after you’ve chosen **Next**, select **Edit**, which is to the top right of the text field. 
 3. In the **Choose a category** section, categorize the issue using "Apps" and "Microsoft Remote Assist." To select an item in the drop-down menu, select the menu.
-   - If you're using HoloLens 1, scroll by gazing at the content of the app window. Tap and hold and then move your hand slightly upwards or downwards to scroll the content.
+   - If you're using HoloLens, scroll by gazing at the content of the app window. Tap and hold and then move your hand slightly upwards or downwards to scroll the content.
    - If you're using HoloLens 2, scroll by placing your finger on the drop-down menu and move your finger up and down, as you would on a touch screen device. 
 
 ![Screenshot showing the Choose a category section of the Feedback Hub.](media/RAHL_FeedbackHubChooseCategory.png)

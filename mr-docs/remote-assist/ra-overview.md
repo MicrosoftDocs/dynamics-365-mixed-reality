@@ -16,11 +16,11 @@ Empower technicians to collaborate more efficiently by working together from dif
 
 ## Use cases
 
-- **Collaborative maintenance and repair**: Empower technicians to solve problems faster the first time with Microsoft Dynamics 365 Remote Assist. By using heads-up, hands-free video calling on [Microsoft HoloLens](overview-hololens.md) and mobile devices, technicians can receive guidance in context from remote collaborators.
+- **Collaborative maintenance and repair**: Empower technicians to solve problems faster the first time with Microsoft Dynamics 365 Remote Assist. By using heads-up video calling on [Microsoft HoloLens](overview-hololens.md) and mobile devices, technicians can receive guidance in context from remote collaborators.
 - **Remote inspections**: Empower onsite inspectors to collaborate with remote inspectors to evaluate and document asset quality.
 - **Knowledge sharing and training**: Document repairs via photos and videos and share them with the rest of your organization.
 
-Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https://www.youtube.com/watch?v=V732PXZHLiU).
+Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https://youtu.be/d3YT8j0yYl0).
 
 
 ## Benefits
@@ -44,7 +44,7 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 1. A technician arrives onsite to fix a machine, but encounters a complex machine that they're not familiar with. The technician puts on a HoloLens 2, signs in using iris scanning, and launches Remote Assist. (Or, they launch Remote Assist from their mobile device.)  
 
-2. Because the technician's company has enabled Dynamics Field Service integration, the technician selects a booking and views the recommended remote collaborator who has more experience with that machine.
+2. Because the technician's company has enabled Field Service integration, the technician selects a booking and views the recommended remote collaborator who has more experience with that machine.
 
 3. A remote collaborator joins the mixed reality call on Microsoft Teams desktop and sees what the technician sees. They start recording the call so the technician can use it for future reference. 
 
@@ -52,7 +52,7 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 5. The remote collaborator then shares a schematic from OneDrive, and it appears in the technician's space. The collaborator can also pull up a training video up on their desktop and share their screen with the technician. 
 
-6. The technician successfully repairs the machine, takes a snapshot of the repaired machine, and saves it to OneDrive. They thank the remote collaborator for their help, and end the call. Snapshots and files shared during the call are posted to the Dynamics 365 Field Service work order for the technician's manager to review, and the recording is saved online. The technician shares the recording with colleagues so they can learn how the technician and remote collaborator repaired the machine. 
+6. The technician successfully repairs the machine, takes a snapshot of the repaired machine, and saves it to OneDrive. They thank the remote collaborator for their help, and end the call. Snapshots and files shared during the call are posted to the Field Service work order for the technician's manager to review, and the recording is saved online. The technician shares the recording with colleagues so they can learn how the technician and remote collaborator repaired the machine. 
 
 ## Learn more about mixed reality
 
@@ -69,13 +69,13 @@ Learn more about core concepts in mixed reality technology in the following arti
 
 Technicians and inspectors use Remote Assist on [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware), [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware), or AR-capable [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices.
 
-Remote collaborators use Microsoft Teams application on a Windows 10 PC or a mobile device.
+Remote collaborators use [Teams application on a Windows 10 PC](teams-pc-all.md) or a [Teams application on a mobile device](teams-mobile-all.md).
 
-Learn more about the [technical requirements](requirements.md) for deploying and using Microsoft Dynamics 365 Remote Assist throughout your organization.
+Learn more about the [technical requirements](requirements.md) for deploying and using Remote Assist throughout your organization.
 
 ## Integrate Dynamics 365 Field Service  
 
-In addition to using Remote Assist to consult with remote collaborators and resolve issues faster, technicians and inspectors work even more effectively when they use Dynamics 365 Field Service to view their schedules, perform and track work orders, manage customer assets, and more. When Remote Assist and Field Service are integrated, technicians and inspectors can view bookings in Remote Assist and automatically attach relevant call details and artifacts to their work order associated with that booking.
+In addition to using Remote Assist to consult with remote collaborators and resolve issues faster, technicians and inspectors work even more effectively when they use Field Service to view their schedules, perform and track work orders, manage customer assets, and more. When Remote Assist and Field Service are integrated, technicians and inspectors can view bookings in Remote Assist and automatically attach relevant call details and artifacts to their work order associated with that booking.
 
 ![Screenshot of the HoloLens field of view, showing recent contacts and a booking detail pane.](media/HL2-01.04-contacts-booking.png "FS")
 
@@ -87,8 +87,9 @@ In addition to using Remote Assist to consult with remote collaborators and reso
 - Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 - Learn how to [deploy Remote Assist](deploy-remote-assist.md), including how to assign licenses and set up HoloLens and mobile devices.
 - Learn how to [deploy Teams on PC or mobile](set-up-teams.md).
-- Optionally, learn to configure additional settings, such as [integrating Remote Assist with Field Service](troubleshoot-field-service.md), [providing a Remote Assist license](how-to-lease-ra.md) to a customer or vendor, and [collaborating with a cross-tenant user](cross-company-calling.md).
-
+- (Optional) Learn how to [deploy multi-tenant company deployments](multi-tenant-deployment.md)
+- (Optional) Learn how to [enable vendors and contractors to use Remote Assist](vendor-use-RA.md)
+- (Optional) Learn to [integrate Remote Assist with Field Service](troubleshoot-field-service.md).
 
 ### For technicians and inspectors
 - Learn how to use [Remote Assist on HoloLens](overview-hololens.md) or [Remote Assist on mobile](./mobile-app/remote-assist-mobile-overview.md).
