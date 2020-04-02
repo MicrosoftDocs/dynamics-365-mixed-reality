@@ -11,49 +11,51 @@ ms.reviewer: krbjoran
 
 # Vendors and contractors use Remote Assist
 
-## Introduction
-
-A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technician and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
+A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technicians and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
 
 However, there are certain scenarios where this may not be the case: 
 
 1. **Scenario 1: Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. [Learn more about this scenario.](multi-tenant-deployment.md) 
 
-1. **Scenario 2: Vendors and contractors use Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. This document focuses on scenario 2.
+1. **Scenario 2: Vendors and contractors use Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. This document focuses on this scenario.
 
->[!NOTE]
->This article is intended for administrators, and assumes that you have Microsoft Teams **AND** Azure Active Directory (Azure AD) admin privileges. You should also be familiar with the [Teams admin portal](https://admin.teams.microsoft.com/).
+> [!Note] To appropriately license this scenario, please contact your Microsoft sales representative to license.
 
 ## Account types
 
 Throughout this article, we'll be referring to a few account types: 
 
 1. **Internal account**: An Azure Active Directory (Azure AD) account that is created inside your tenant for internal users.
-2. **Service account**: An Azure AD account that is created inside your tenant for users who are not currently part of your tenant.\
+2. **Service account**: An Azure AD account that is created inside your tenant for users who are not currently part of your tenant.
 
 ## Scenario overview
 
-> [!Note] To appropriately license this scenario, please contact your Microsoft sales representative to license.
-
 Companies frequently want to leverage non-company employees such as vendors or contractors to perform specific service tasks. In this case, companies still handle all license configuration, but want to enable their vendors or contractors to seamlessly use Remote Assist to collaborate with them. 
 
-### Example
+## Example
 
-Company ABC uses Tenant ABC. Tenant ABC has users who want to use Teams to remotely collaborate with company vendors and contractors. Some of these vendors and contractors are in an existing tenant and others are not. Company ABC wants to give vendors and contractors Remote Assist licenses so they can use it for their daily service tasks. This scenario is depicted in Figure 2.1 
-
-In Figure 1.1, Company ABC used Azure AD to create **service accounts** (SAs) inside Tenant ABC. Tenant ABC administrator assigned a Remote Assist license (Jason - anything else?) to each service account. Service account credentials were then distributed to company vendors and contractors.
-* Bob@Contoso1.com is still a member of Contoso1, and now uses SA1@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
-* Toni@Contoso1.com is still a member of ContosoN, and now uses SA2@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
-* User@Outlook.com was not a member of any other tenant - that contractor uses a regular personal email (e.g. @outlook.com) for work. Now, user@outlook.com users SA3@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
+Company ABC uses Tenant ABC. Tenant ABC has users who want to use Teams to remotely collaborate with company vendors and contractors. Some of these vendors and contractors are in an existing tenant and others are not. Company ABC wants to give vendors and contractors Remote Assist licenses so they can use it for their daily service tasks. See Figure 1.1 below.
 
 **Figure 1.1**
-![Diagram showing Tenant A providing a Remote Assist license to users outside of Tenant A.](media/cross-tenant-licensing.png)
+![Diagram showing vendors not having any Remote Assist licenses.](media/SA_1.png)
+
+In Figure 1.2 below, Company ABC used Azure AD to create **service accounts** (SAs) inside Tenant ABC. Tenant ABC administrator assigned a Remote Assist license to each service account. (A Teams license is then automatically assigned to each service account.) Service account credentials were then distributed to company vendors and contractors.
+* (Orange) Vendor1_A@Vendor1.com is still a member of Vendor1, and now uses Vendor1_A_SA@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
+* (Green) Vendor1_B@Vendor1.com is still a member of Vendor1, and now uses Vendor1_B_SA@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
+* (Blue) Vendor1_A@Vendor2.com is still a member of Vendor2, and now uses Vendor2_A_SA@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
+* (Yellow) Vendor@Outlook.com was not a member of any other tenant - that contractor uses a regular personal email (e.g. @outlook.com) for work. Now,  Vendor@Outlook.com uses Vendor_SA @ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
+
+**Figure 1.2**
+![Diagram showing Tenant ABC providing a Remote Assist license to users outside of Tenant ABC.](media/SA_2.png)
 
 >[!Note] If Tenant ABC does not configure information barriers, any service account user can search for and communicate with any other service account user or internal account user in Tenant ABC. Information barriers are a great way to control who can search and collaborate with one another when using Microsoft Teams and Remote Assist. Learn more about information barriers and how to configure them [here](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers?view=o365-worldwide).
 
 >[!Note] Because Teams users and Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search for by typing that user's name, rather than typing their entire email address.
 
-### Implementation
+## Implementation
+
+>[!NOTE]
+>This article is intended for administrators, and assumes that you have Microsoft Teams **AND** Azure Active Directory (Azure AD) admin privileges. You should also be familiar with the [Teams admin portal](https://admin.teams.microsoft.com/).
 
 1. Determine if information barriers are necessary
 
