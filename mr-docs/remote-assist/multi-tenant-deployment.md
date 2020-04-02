@@ -1,23 +1,23 @@
 ---
 author: sopsun
-description: Remote Assist advanced deployment scenarios 
+description: Multi-tenant company deployments
 ms.author: sophiasysun
 ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
-title: Remote Assist advanced deployment scenarios 
+title: Multi-tenant company deployments
 ms.reviewer: krbjoran
 ---
 
-# Dynamics 365 Remote Assist advanced deployment scenarios 
+# Multi-tenant company deployments
 
 A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technician and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
 
 However, there are certain scenarios where this may not be the case: 
 
-1. **Scenario 1: Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. 
+1. **Scenario 1: Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. This document focuses on scenario 1.
 
-1. **Scenario 2: Vendors and contractors using Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist.  
+1. **Scenario 2: Vendors and contractors using Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. [Learn more about this scenario.](vendor-use-RA.md)
 
 >[!NOTE]
 > This article is intended for administrators, and assumes that you have Microsoft Teams **AND** Azure Active Directory (Azure AD) admin privileges. You should also be familiar with the [Teams admin portal](https://admin.teams.microsoft.com/).
@@ -28,14 +28,9 @@ Throughout this article, we'll be referring to a few account types:
 
 1. **Internal account**: An Azure Active Directory (Azure AD) account that is created inside your tenant for internal users.
 2. **Service account**: An Azure AD account that is created inside your tenant for users who are not currently part of your tenant.
-3. **Guest account**: An Azure AD account that is created in your tenant when you "guest" any individual into a Teams team or channel using their email. 
-    1. If that user's email is already associated with an Azure AD account in another tenant, that user is now part of 2 tenants: that user is a member of their native tenant and a guest in your tenant.
-    2. If that user's email is not already associated with an Azure AD account in another tenant, that user is now part of 1 tenant: that user is a guest in your tenant.
 
 
-## Scenario 1: Multi-tenant company deployments 
-
-### Overview
+## Scenario overview
 
 In this scenario, a company leverages multiple tenants through different organizations and business units, all within the same company. One specific tenant (Tenant ABC) has experts that will provide support to one (or many) company employees that sit in a different tenant, as represented in the Figure 1.1.  
 
