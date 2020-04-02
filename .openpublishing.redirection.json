@@ -42,12 +42,27 @@
     },
     {
       "source_path": "mr-docs/remote-assist/cross-tenant-licensing-implementation.md",
-      "redirect_url": "how-to-lease-ra",
+      "redirect_url": "vendor-use-ra",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/remote-assist/cross-tenant-overview.md",
-      "redirect_url": "out-of-tenant-overview",
+      "redirect_url": "multi-tenant-deployment",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/out-of-tenant-overview.md",
+      "redirect_url": "multi-tenant-deployment",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/how-to-lease-ra.md",
+      "redirect_url": "vendor-use-ra",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/cross-company-calling.md",
+      "redirect_url": "vendor-use-ra",
       "redirect_document_id": "false"
     }
   ]

@@ -1,8 +1,8 @@
 ---
-author: sopsun
+author: sophiasysun
 description: Vendor and contractor usage of Remote Assist
-ms.author: sophiasysun
-ms.date: 04/01/2020
+ms.author: sopsun
+ms.date: 04/02/2020
 ms.service: crm-online
 ms.topic: article
 title: Vendor and contractor usage of Remote Assist
@@ -15,9 +15,9 @@ A Remote Assist call involves one party (technician) using Remote Assist and the
 
 However, there are certain scenarios where this may not be the case: 
 
-1. **Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. [Learn more about this scenario.](multi-tenant-deployment.md) 
+1. **Multi-tenant company deployments** - a company has a multi-tenant configuration across different organizations or business units. [Learn more about this scenario.](multi-tenant-deployment.md) 
 
-1. **Vendors and contractors use Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. This document focuses on this scenario.
+2. **Vendors and contractors use Remote Assist** - a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. This document focuses on this scenario.
 
 > [!Note] This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Remote Assist, please contact your Microsoft sales representative.
 
@@ -40,21 +40,21 @@ Company ABC wants vendors to use Remote Assist to collaborate with experts in Te
 ![Diagram showing vendors not having any Remote Assist licenses.](media/SA_1.png)
 
 In Figure 1.2 below, Company ABC used Azure AD to create **service accounts** (SAs) inside Tenant ABC. Tenant ABC administrator assigned a Remote Assist license to each service account. (A Teams license is then automatically assigned to each service account.) Service account credentials were then distributed to company vendors and contractors. Now,
-* (Orange) Vendor1_A@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_A_SA@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
-* (Green) Vendor1_B@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_B_SA@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
-* (Blue) Vendor1_A@Vendor2.com is still a member of Tenant Vendor2, and now uses Vendor2_A_SA@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
-* (Yellow) Vendor@Outlook.com was not a member of any other tenant - that contractor uses a regular personal email (e.g. @outlook.com) for work. Now,  Vendor@Outlook.com uses Vendor_SA@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
+* (Orange) Vendor1_A@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_A_SA@ABC.com to sign in to Remote Assist to collaborate with Teams users in Tenant ABC.
+* (Green) Vendor1_B@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_B_SA@ABC.com to sign in to Remote Assist to collaborate with Teams users in Tenant ABC.
+* (Blue) Vendor1_A@Vendor2.com is still a member of Tenant Vendor2, and now uses Vendor2_A_SA@ABC.com to sign in to Remote Assist to collaborate with Teams users in Tenant ABC.
+* (Yellow) Vendor@Outlook.com was not a member of any other tenant - that contractor uses a regular personal email (for example, @outlook.com) for work. Now,  Vendor@Outlook.com uses Vendor_SA@ABC.com to sign in to Remote Assist to collaborate with Teams users in Tenant ABC.
 
 **Figure 1.2**
 ![Diagram showing Tenant ABC providing a Remote Assist license to users outside of Tenant ABC.](media/SA_2.png)
 
-In the previous figure, we described a configuration where any service account user can search for and communicate with any other service account user or internal account user in Tenant ABC. If you need to control search and collaboration, you can do so by adding Information Barriers. For example, Tenant ABC can configure Information Barriers such that Vendor1_A@Vendor1.com, Vendor1_B@Vendor1.com, and Vendor1_A@Vendor2.com can search and collaborate with the experts and vice versa, but cannot search and collaborate with Vendor@outlook.com and vice versa. Learn more about Information Barriers and how to configure them [here](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers?view=o365-worldwide).
+In the previous figure, we described a configuration where any service account user can search for and communicate with any other service account user or internal account user in Tenant ABC. If you need to control search and collaboration, you can do so by adding information barriers. For example, Tenant ABC can configure information barriers such that Vendor1_A@Vendor1.com, Vendor1_B@Vendor1.com, and Vendor1_A@Vendor2.com can search and collaborate with the experts and vice versa, but cannot search and collaborate with Vendor@outlook.com and vice versa. Learn more about information barriers and how to configure them [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide).
 
 >[!Note] Because Teams users and Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search for by typing that user's name, rather than typing their entire email address.
 
 ## Implementation
 
-1. Determine if Information Barriers are necessary
+1. Determine if information barriers are necessary
 
 Information barrier policies determine and prevent the following kinds of unauthorized communications between users who have Azure AD accounts in a tenant:
 
@@ -66,15 +66,15 @@ Information barrier policies determine and prevent the following kinds of unauth
 - Sharing a screen
 - Placing a call
 
-2. If Information Barriers are necessary, plan how you segment users. 
+2. If information barriers are necessary, plan how you segment users. 
 
-You can segment users based on different attributes, such as what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference). To see how an organization might approach defining segments and policies, consider the following [example](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Get the workbook.](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx). Additional information about Information Barriers can be found [here](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers?view=o365-worldwide).
+You can segment users based on different attributes, such as what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference). To see how an organization might approach defining segments and policies, consider the following [example](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Download the workbook (xlsx file).](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx). Additional information about information barriers can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide).
 
-3. Buy the correct licenses
+1. Buy the correct licenses
 
 Learn about [licenses required to use Remote Assist](requirements.md).
 
-If you would like to control who the service account user can search and collaborate with, you will need to assign the service account a information barrier license. The following licensing suites include information barrier licenses:
+If you would like to control who the service account user can search and collaborate with, you will need to assign the service account an information barrier license. The following licensing suites include information barrier licenses:
 
 - Microsoft 365 E5
 - Office 365 E5
@@ -87,4 +87,4 @@ For more information, see [Updated list of Information Barrier licenses](https:/
 
 5. [Assign licenses](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) to each service account user. 
 
-6. If Information Barriers are necessary, [configure Information Barriers](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide).
+6. If information barriers are necessary, [configure information barriers](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide).
