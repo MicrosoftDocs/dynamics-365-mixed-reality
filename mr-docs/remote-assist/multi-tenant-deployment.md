@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 
 # Multi-tenant company deployments
 
-A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technician and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
+A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technicians and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
 
 However, there are certain scenarios where this may not be the case: 
 
@@ -26,23 +26,22 @@ However, there are certain scenarios where this may not be the case:
 
 Throughout this article, we'll be referring to a few account types: 
 
-1. **Internal account**: An Azure Active Directory (Azure AD) account that is created inside your tenant for internal users.
-2. **Guest account**: An Azure AD account that is created in your tenant when you "guest" any individual into a Teams team or channel using their email. 
-    1. If that user's email is already associated with an Azure AD account in another tenant, that user is now part of 2 tenants: that user is a member of their native tenant and a guest in your tenant.
-    2. If that user's email is not already associated with an Azure AD account in another tenant, that user is now part of 1 tenant: that user is a guest in your tenant.
+1. **Internal account**: An Azure Active Directory (Azure AD) account that is created in your tenant for internal users.
+2. **Guest account**: An Azure AD account that is created in your tenant when you "guest" any individual into one or more Teams teams or channels using their email. 
+    1. If that user's email is already associated with an Azure AD account in one other tenant, that user is now part of two tenants: that user is a member of their native tenant and a guest in your tenant.
+    2. If that user's email is not already associated with an Azure AD account in any another tenant, that user is now part of one tenant: that user is a guest in your tenant.
 
 
 ## Scenario overview
 
-In this scenario, which is represented in Figure 1.1, a company leverages multiple tenants through different organizations and business units, all within the same company. One specific tenant (Tenant ABC) has experts that will provide support to one (or many) company employees that sit in a different company tenants (i.e., Tenant Contoso1, Tenant Contoso2). Each user in Tenant Contoso1 and Tenant Contoso2 already has a Remote Assist license (which comes with a Teams license). Each expert in Tenant ABC already has a Teams license. Experts do not need a Remote Assist license.
+In this scenario, which is represented in Figure 1.1, a company leverages multiple tenants through different organizations and business units, all within the same company. One specific tenant (Tenant ABC) has experts that will provide support to one (or many) company employees that sit in a different company tenants (i.e., Tenant Contoso1, Tenant Contoso2). Each user in Tenant Contoso1 and Tenant Contoso2 already has a Remote Assist license (which comes with a Teams license). Each expert in Tenant ABC already has a Teams license. Experts do not need a Remote Assist license. Experts in Tenant ABC want to collaborate with technicians in Tenant Contoso1. Experts in Tenant ABC also want to collabroate with technicians in Tenant Contoso2. Technicians in Tenant Contoso1 do not want to search or collaborate with technicians in Tenant Contoso2.
 
-
-[!Note] This scenario only applies if all the tenants belong to the same company and the various tenants that need to use Remote Assist already have Remote Assist licenses. 
+>[!Note] This scenario only applies if all the tenants belong to the same company and the various tenants that need to use Remote Assist already have Remote Assist licenses. 
 
 **Figure 1.1**
 ![Diagram showing tenant ABC needing to communicate with several external tenants.](media/MultiTenant.png)
 
-There are two solutions for this scenario: **Federation** and **Guesting**.
+Now, Company ABC must set up **Federation** or **Guesting** to enable users in different tenants to collaborate with each other.
 
 ### Solution 1: Federation
 
@@ -55,7 +54,7 @@ There are two solutions for this scenario: **Federation** and **Guesting**.
 >[!NOTE]
 > See the Microsoft Teams [article on managing external access](https://docs.microsoft.com/microsoftteams/manage-external-access#plan-for-external-access) for more information.
 
-
+Figure 1.2 shows that Tenant ABC is federated with Tenant Contoso1, and Tenant ABC is also federated with Tenant Contoso2. Now, experts in Tenant ABC can search and collaborate with technicians in Contoso1. Experts in Tenant ABC can also search and collaborate with technicians in Contoso2.
 
 **Figure 1.2**
 ![Diagram showing how the different tenants relate to one another.](media/Federation.png)
@@ -69,18 +68,16 @@ There are two solutions for this scenario: **Federation** and **Guesting**.
 |                                                                       | Federation has fewer control features than guesting; when someone is guested into a Teams team, that user can only search and collaborate with people in the specific team they were guested into. When tenants are federated, everyone in each tenant can search and collabroate with everyone in other tenants. See [this article](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access) for a detailed comparison between guesting and federation features. |
 
  >[!NOTE]
- >Tenant ABC and the external tenants do *not* have to have the same federation configuration. Tenant ABC can have open federation while the external tenants have "block" or "allow" federation settings.
+ >Tenants do *not* need to have the same federation configuration. Tenant ABC can have open federation while Tenant Contoso1 and Tenant Contoso2 have "block" or "allow" federation settings.
 
  >[!NOTE]
- >If an external user wants to initiate a Remote Assist call with an expert in Tenant ABC, they will have to type out the entire email address of the expert in Tenant ABC. 
+ >If an user wants to initiate a Remote Assist call with a collaborator outside their tenant, that user will need to type out the full email address of the collaborator outside their tenant.
 
 #### Federation implementation
 
 If you are following the steps in the [Deploy HoloLens in a commercial environment](https://docs.microsoft.com/hololens/hololens-requirements#apps) article, go back to that document before implementing this solution.
 
-- See [this article](cross-company-calling.md) for full instructions on implementing **open federation**.
-
-- See [this Microsoft Teams article](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains) for full instructions for implementing **"Blocked" and "Allow" Federation**.
+Otherwise, see [this article](cross-company-calling.md) for full instructions on implementing **open federation** and see [this Microsoft Teams article](https://docs.microsoft.com/microsoftteams/manage-external-access#allow-or-block-domains) for full instructions for implementing **"Blocked" and "Allow" Federation**.
 
 ### Solution 2: Guesting
 
@@ -88,11 +85,10 @@ If you are following the steps in the [Deploy HoloLens in a commercial environme
 > This solution is *not* necessary if one of the following is true:
 >
 > - Open federation is used.
-> - The external tenant is on Tenant ABC's "allow" list.
-> - The external tenant is off of Tenant ABC's "block" list.
+> - Contoso1 or Contoso2 is on Tenant ABC's "allow" list.
+> - Contoso1 or Contoso2 is off of Tenant ABC's "block" list.
 
-
-Figure 1.3 shows the solution. Each  tenant that has Remote Assist users who wants to collaborate with Expert1@ABC.com must guest Expert1@ABC.com into their tenant.
+Figure 1.3 shows the solution. Each tenant that has Remote Assist users who want to collaborate with Expert1@ABC.com and Expert2@ABC.com must guest each expert into a specific Teams team or channel. Then, that expert can only search and collaborate with other internal account users and guest account users in that team or channel.
 
 **Figure 1.3**
 ![Diagram showing external tenants and how they map to the internal tenant.](media/Guesting.png)
