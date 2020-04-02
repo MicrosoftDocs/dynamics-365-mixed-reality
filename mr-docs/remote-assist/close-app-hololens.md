@@ -18,4 +18,4 @@ To fully close the app:
 
 ![Screenshot of the 3D app viewer.](media/HL2-02.02-live-cube.png)
 
-If you want to close the app in order to use Remote Assist to show a remote collaborator what you are seeing in another app, see our [article on getting help within the HoloLens](get-help-holoLens-app-hololens.md).
+If you want to use Remote Assist to show a remote collaborator what you are seeing in another app, see our article about [using Remote Assist to get help in a different HoloLens app](get-help-holoLens-app-hololens.md).

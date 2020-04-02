@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 
 This document assumes that you have read our [Remote Assist External Collaboration Scenarios](out-of-tenant-overview.md) document. 
 
-Information barriers aren't just about collaborating but also searching. In Microsoft Teams, information barrier policies determine and prevent the following kinds of unauthorized communications:
+Information barriers are a great way to control who can search and collaborate with one another when using Microsoft Teams and Remote Assist. Specifically, information barrier policies determine and prevent the following kinds of unauthorized communications:
 
 - Searching for a user
 - Adding a member to a team
@@ -23,26 +23,19 @@ Information barriers aren't just about collaborating but also searching. In Micr
 - Sharing a screen
 - Placing a call
 
-Additional information about Information Barriers can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide#what-happens-with-information-barriers).
+Additional information about information barriers can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide#what-happens-with-information-barriers).
 
->[!NOTE]
-> This article assumes that you have read the article [Remote Assist cross-tenant communication](cross-tenant-overview.md). If you haven't, please review that article first.
-
-In this article, we'll take a look at how to implement licensing across multiple Remote Assist tenants through the following steps:
-
-1. Determine if information barriers are necessary
-1. Buy the correct licenses
-1. Configure information barriers
+In this article, we'll take a look at how to deploy Remote Assist licenses for users who are outside your tenant. 
 
 ## Step 1. Determine if information barriers are necessary
 
 ### Overview of information barriers
 
-Information barriers are a great way to control who can search and collaborate with one another in Microsoft Teams and Remote Assist. Information barriers use Azure Active Directory (Azure AD) attributes to segment Azure AD users. The segmentation of users determines which users can talk to one another.
+Information barriers are a great way to control who can search and collaborate with one another when using Microsoft Teams and Remote Assist. Information barriers use Azure Active Directory (Azure AD) attributes to segment Azure AD users. The segmentation of users determines which users can talk to one another.
 
 It's important to plan the segmentation of users. You can segment users based on what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference).
 
-### Information Barrier Example
+### Information barrier example
 
 For example, you may choose to segment users based on the "Group" attribute. You want to allow users in the Azure AD Group "A" to communicate with users in the Azure AD Group "B", but not with the users in Azure AD Group "C". Information barriers can use the "Group" attribute to allow Group A to communicate with Group B but not with Group C.
 
@@ -74,12 +67,11 @@ For more information, see [Updated list of Information Barrier licenses](https:/
 
 ## Step 3. Create service accounts
 
-Learn how to use Azure AD to [create service accounts](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory) for your external collaborators (for example, customers and vendors).
-
+Learn how to use Azure AD to [create service accounts](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory) for your external collaborators (e.g., customers and vendors).
 
 ## Step 4. Assign licenses
 
-Learn how to [assign licenses](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory) to each user. 
+Learn how to [assign licenses](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) to each service account user. 
 
 ## Step 5. Configure information barriers
 

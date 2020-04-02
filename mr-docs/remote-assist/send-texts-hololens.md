@@ -23,15 +23,14 @@ To open the chat window and enter a message:
   - Select **Send**. 
 - When the chat window is open, you can detach it from the video card by selecting **Undock**, or by saying "Remote Assist, Undock."
 - You can then place the chat window wherever you'd like.
-  - If you're on HoloLens 1, use the slate controls found in the top-right corner of the slate. 
+  - If you're on HoloLens, use the slate controls found in the top-right corner of the slate. 
   - If you're on HoloLens 2, grab the slate with one hand, move your hand to the desired location, and then release.
 - To attach the text chat to the video card, select **Redock**, or say "Remote Assist, Redock."  
 - To close the chat window, select **Chat icon**, or say "Remote Assist, Open Chat."
 
-
 To scroll up in the chat: 
 
-- If you're using HoloLens 1:
+- If you're using HoloLens:
   - Gaze at the content of the app window. Tap and hold and then move your hand slightly upwards or downwards to scroll the content.
 - If you're using HoloLens 2:
   - If the chat window is near you, scroll content by swiping on the surface of the content with your finger, just like you're using a touch screen.
@@ -41,4 +40,4 @@ To scroll up in the chat:
 > [!Note]
 > If a message is sent from another user when the chat window isn’t open, a red dot will appear on the **Chat icon**, but your chat window will not automatically open.
 
-During a Remote Assist call, you will only see text messages and links to snapshots sent during the call. After a call ends, you can access the text messages and links in Microsoft Team's chat log. 
+During a Remote Assist call, you will only see text messages and links to snapshots sent during the call. After a call ends, you can access the text messages and links in the Teams chat log. 

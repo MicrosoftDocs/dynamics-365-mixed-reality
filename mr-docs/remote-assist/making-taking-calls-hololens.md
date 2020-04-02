@@ -12,12 +12,11 @@ ms.reviewer: krbjoran
 
 You can make a one-to-one or group call in Remote Assist on HoloLens. You can also join a meeting scheduled using Microsoft Teams or Outlook.
 
-A **one-to-one call** includes two participants. For example, if you’re repairing a machine and need help on-the-go, you can make a one-to-one call to a remote collaborator using Teams on PC or Teams on mobile.
+A **one-to-one call** includes two participants. For example, if you’re repairing a machine and need help on-the-go, you can make a one-to-one call to a remote collaborator who uses Teams.
 
 A **group call** includes three or more participants. For example, if you’re inspecting an asset in a one-to-one call but need a third person’s expertise, any participant can add the third person to the call to form a group call.  
 
 A **meeting** is a call scheduled using Teams or Outlook. It can include any number of participants. For example, if you want to have a weekly inspection with your team, you can create a meeting so that everyone receives notifications about the meeting and can join the meeting.
-
 
 ## Make a one-to-one call to a contact in your company
 
@@ -39,17 +38,16 @@ If you don’t see the contact you want, select Search and then use the holograp
 ## Make a one-to-one call to a Teams user outside your organization
 
 > [!Note]
-> You can make or receive a one-to-one call with a Teams user from another company if external access for both companies has been enabled in Microsoft Teams. If you're the administrator for your organization, to set up external access, see [Set up cross-company calling](cross-company-calling.md).
+> You can make or receive a one-to-one call with a Teams user from another company if your administrator has set up [federation or guesting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/out-of-tenant-overview#solution-1-federation).  
 
-Open the app, select **Search**, and then use the holographic keyboard to enter the full email address of the external user. You won't see any search results if you enter just a name or a partial email address. After you call them once, they will appear in your recent contacts list, so you will not have to search for them again.
+To call a federated user, open the app, select **Search**, and then use the holographic keyboard to enter their full email address. You won't see any search results if you enter just a name or a partial email address. After you call them once, they will appear in your recent contacts list, so you will not have to search for them again. 
 
 > [!Note]
-> If you're not able to find the contact you're looking for, it might be because external access has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help.
-
+> If you're not able to find the contact you're looking for, it might be because federation has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help.
 
 ## Make a group call 
 
-A group call can include a single Remote Assist HoloLens user and up to 49 Teams Desktop users, although adding more participants may impact call quality. You can also switch between participants' video feeds and mute participants as needed. 
+A group call can include a single Remote Assist HoloLens or HoloLens 2 user and up to 49 Teams Desktop users, although adding more participants may impact call quality. You can also switch between participants' video feeds and mute participants as needed. 
 
 Start by calling one person, and then select **Open Participants** (as seen here: ![Graphic showing the open participants icon.](media/RAHL_Participants.png)).
 
