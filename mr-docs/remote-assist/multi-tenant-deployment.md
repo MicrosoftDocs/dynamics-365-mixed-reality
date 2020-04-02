@@ -11,11 +11,11 @@ ms.reviewer: krbjoran
 
 # Multi-tenant company deployments
 
-A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technicians and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
+A Dynamics 365 Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technicians and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
 
 However, there are certain scenarios where this may not be the case: 
 
-1. **Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. This document focuses on scenario 1.
+1. **Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. This document focuses on this scenario.
 
 1. **Vendors and contractors using Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. [Learn more about this scenario.](vendor-use-RA.md)
 
@@ -34,7 +34,14 @@ Throughout this article, we'll be referring to a few account types:
 
 ## Scenario overview
 
-In this scenario, which is represented in Figure 1.1, a company leverages multiple tenants through different organizations and business units, all within the same company. One specific tenant (Tenant ABC) has experts that will provide support to one (or many) company employees that sit in a different company tenants (i.e., Tenant Contoso1, Tenant Contoso2). Each user in Tenant Contoso1 and Tenant Contoso2 already has a Remote Assist license (which comes with a Teams license). Each expert in Tenant ABC already has a Teams license. Experts do not need a Remote Assist license. Experts in Tenant ABC want to collaborate with technicians in Tenant Contoso1. Experts in Tenant ABC also want to collabroate with technicians in Tenant Contoso2. Technicians in Tenant Contoso1 do not want to search or collaborate with technicians in Tenant Contoso2.
+In this scenario, which is represented in Figure 1.1, a company leverages multiple tenants through different organizations and business units, all within the same company. One specific tenant (Tenant ABC) has experts who will use Teams to provide support to one (or many) company employees that sit in a different company tenant (i.e., Tenant Contoso1, Tenant Contoso2). 
+
+Additional details:
+* Each technician in Tenant Contoso1 and Tenant Contoso2 already has a Remote Assist license and Teams license.
+* Each expert in Tenant ABC already has a Teams license. Experts who use Teams do not need a Remote Assist license. 
+* Experts in Tenant ABC want to collaborate with technicians in Tenant Contoso1. 
+* Experts in Tenant ABC also want to collabroate with technicians in Tenant Contoso2. 
+* Technicians in Tenant Contoso1 do not want to search or collaborate with technicians in Tenant Contoso2.
 
 >[!Note] This scenario only applies if all the tenants belong to the same company and the various tenants that need to use Remote Assist already have Remote Assist licenses. 
 
@@ -103,35 +110,3 @@ For more information, see this Microsoft Teams article about [how guest access
 #### Guesting implementation
 
 See this [Microsoft Teams guest access checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist) for full implementation instructions.
-
-
-## Scenario 2: Vendors and contractors using Remote Assist
-
-### Overview
-
-> [!Note] To appropriately license this scenario, please contact your Microsoft sales representative to license.
-
-Companies frequently want to leverage non-company employees such as vendors or contractors to perform specific service tasks. In this case, companies still handle all license configuration, but want to enable their vendors or contractors to seamlessly use Remote Assist to collaborate with them. 
-
-### Example
-
-Company ABC uses Tenant ABC. Tenant ABC has users who want to use Teams to remotely collaborate with company vendors and contractors. Some of these vendors and contractors are in an existing tenant and others are not. Company ABC wants to give vendors and contractors Remote Assist licenses so they can use it for their daily service tasks. This scenario is depicted in Figure 2.1 
-
-In Figure 2.1, Company ABC used Azure AD to create **service accounts** (SAs) inside Tenant ABC. Tenant ABC administrator assigned a Remote Assist license (Jason - anything else?) to each service account. Service account credentials were then distributed to company vendors and contractors.
-* Bob@Contoso1.com is still a member of Contoso1, and now uses SA1@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
-* Toni@Contoso1.com is still a member of ContosoN, and now uses SA2@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
-* User@Outlook.com was not a member of any other tenant - that contractor uses a regular personal email (e.g. @outlook.com) for work. Now, user@outlook.com users SA3@ABC.com to log in to Remote Assist to collaborate with Teams users in Tenant ABC.
-
-**Figure 2.1**
-![Diagram showing Tenant A providing a Remote Assist license to users outside of Tenant A.](media/cross-tenant-licensing.png)
-
-[!Note] If Tenant ABC does not configure information barriers, any service account user can search for and communicate with any other service account user or internal account user in Tenant ABC. Learn more about information barriers and how to configure them [here](how-to-lease-ra.md).
-
-[!Note] Because Teams users and Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search for by typing that user's name, rather than typing their entire email address.
-
-### Implementation
-
-If you are following the steps in the [Deploy HoloLens in a Commercial Environment](https://docs.microsoft.com/hololens/hololens-requirements#apps) article, go back to that document before implementing this solution.
-
-Otherwise, please learn how to [Provide Remote Assist licenses to users outside your tenant](how-to-lease-ra.md).
-
