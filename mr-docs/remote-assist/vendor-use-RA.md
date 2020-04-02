@@ -48,13 +48,13 @@ In Figure 1.2 below, Company ABC used Azure AD to create **service accounts** (S
 **Figure 1.2**
 ![Diagram showing Tenant ABC providing a Remote Assist license to users outside of Tenant ABC.](media/SA_2.png)
 
->[!Note] If Tenant ABC does not configure information barriers, any service account user can search for and communicate with any other service account user or internal account user in Tenant ABC. Information barriers are a great way to control who can search and collaborate with one another when using Microsoft Teams and Remote Assist. For example, Tenant ABC can configure information barriers such that Vendor1_A@Vendor1.com, Vendor1_B@Vendor1.com, and Vendor1_A@Vendor2.com can search and collaborate with the experts and vice versa, but cannot search and collaborate with Vendor@outlook.com and vice versa. Learn more about information barriers and how to configure them [here](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers?view=o365-worldwide).
+In the previous figure, we described a configuration where any service account user can search for and communicate with any other service account user or internal account user in Tenant ABC. If you need to control search and collaboration, you can do so by adding Information Barriers. For example, Tenant ABC can configure Information Barriers such that Vendor1_A@Vendor1.com, Vendor1_B@Vendor1.com, and Vendor1_A@Vendor2.com can search and collaborate with the experts and vice versa, but cannot search and collaborate with Vendor@outlook.com and vice versa. Learn more about Information Barriers and how to configure them [here](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers?view=o365-worldwide).
 
 >[!Note] Because Teams users and Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search for by typing that user's name, rather than typing their entire email address.
 
 ## Implementation
 
-1. Determine if information barriers are necessary
+1. Determine if Information Barriers are necessary
 
 Information barrier policies determine and prevent the following kinds of unauthorized communications between users who have Azure AD accounts in a tenant:
 
@@ -66,9 +66,9 @@ Information barrier policies determine and prevent the following kinds of unauth
 - Sharing a screen
 - Placing a call
 
-2. If information barriers are necessary, plan how you segment users. 
+2. If Information Barriers are necessary, plan how you segment users. 
 
-You can segment users based on different attributes, such as what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference). To see how an organization might approach defining segments and policies, consider the following [example](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Get the workbook.](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx). Additional information about information barriers can be found [here](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers?view=o365-worldwide).
+You can segment users based on different attributes, such as what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference). To see how an organization might approach defining segments and policies, consider the following [example](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Get the workbook.](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx). Additional information about Information Barriers can be found [here](https://docs.microsoft.com/en-us/microsoft-365/compliance/information-barriers?view=o365-worldwide).
 
 3. Buy the correct licenses
 
@@ -87,4 +87,4 @@ For more information, see [Updated list of Information Barrier licenses](https:/
 
 5. [Assign licenses](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) to each service account user. 
 
-6. If information barriers are necessary, [configure information barriers](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide).
+6. If Information Barriers are necessary, [configure Information Barriers](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide).
