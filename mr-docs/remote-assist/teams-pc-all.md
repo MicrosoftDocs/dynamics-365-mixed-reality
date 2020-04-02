@@ -158,7 +158,7 @@ Use the Mixed Reality toolbar to place arrows, draw, or add files:
 
 - To change the arrow or ink color, select **Pick a color** (as seen here: ![Graphic showing the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)).
 
-- To add a file, select  **Insert files** (as seen here: ![Graphic showing the insert files icon.](media/41aa538d3be8e163215f7d9374abe90e.png)), and then add an image file or a PDF from OneDrive or from your device. 
+- To add a file in HoloLens user's space, select  **Insert files** (as seen here: ![Graphic showing the insert files icon.](media/41aa538d3be8e163215f7d9374abe90e.png)), and then add an image file or a PDF from OneDrive or from your device. 
 
 
 ### Finish editing
@@ -191,12 +191,15 @@ There are two ways to share a OneDrive file or local file with a Remote Assist u
 >[!Note] 
 >If you want to show the Remote Assist HoloLens user a video or PowerPoint and control it in real time, you can do so by using the **Share** feature. When you share your desktop or an application window, a new slate appears in the technician's environment.
 
+
+There are 2 ways to share a file with Remote Assist HoloLens user.
 - From the mixed reality tool bar, select the **Share File** option to share a file from OneDrive or your computer. The file will be uploaded in your personal OneDrive and permissions to access to that single file will be granted to call participants. 
 - From the Microsoft Teams chat, select **Attach file** to share a file from OneDrive or your computer. 
 
-When you share a file with Remote Assist HoloLens user, it will pop up as a new slate in the Remote Assist HoloLens user's space and a link to the file will be shared in the chat. All call participants can annotate a file displayed in the Remote Assist HoloLens user's space.
+Once the file is shared, it will pop up as a new slate in the Remote Assist HoloLens user's space and a link to the file will be shared in the chat. All call participants can annotate a file displayed in the Remote Assist HoloLens user's space.
 
-When you share a file with a Remote Assist mobile user, it will be sent in the Remote Assist mobile text chat.
+There is 1 way to share a file with Remote Assist mobile user.
+- From the Microsoft Teams chat, select **Attach file** to share a file from OneDrive or your computer. When you share a file with a Remote Assist mobile user, it will be sent in the Remote Assist mobile text chat.
 
 > [!Note]
 > After adding them, files can’t be moved, deleted, or resized by the Teams user.
