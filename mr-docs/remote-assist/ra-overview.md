@@ -20,7 +20,7 @@ Empower technicians to collaborate more efficiently by working together from dif
 - **Remote inspections**: Empower onsite inspectors to collaborate with remote inspectors to evaluate and document asset quality.
 - **Knowledge sharing and training**: Document repairs via photos and videos and share them with the rest of your organization.
 
-Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https://www.youtube.com/watch?v=V732PXZHLiU).
+Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https://youtu.be/d3YT8j0yYl0).
 
 
 ## Benefits
