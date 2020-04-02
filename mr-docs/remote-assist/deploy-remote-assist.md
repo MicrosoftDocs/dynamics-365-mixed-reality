@@ -19,6 +19,8 @@ In this article, we’ll walk through how to deploy Remote Assist or Remote Assi
 -	Assign licenses to users in your organization (for IT Admins)
 -	Deploying Remote Assist on your device (for individuals in your organization) 
 
+You can also learn how to configure [deploy multi-tenant company deployments](multi-tenant-deployment.md) or [enable vendors and contractors to use Remote Assist](vendor-use-RA.md).
+
 ## Add and assign licenses
 
 ### Prerequisites 
@@ -83,5 +85,5 @@ After sorting out your licenses, users can setup and use the app on their HoloLe
 5.	You can now use Dynamics 365 Remote Assist on your mobile device! Next up, [learn how make calls](mobile-app/making-calls.md) to a remote expert on Microsoft Teams (desktop and mobile). 
 
 ## Next steps
-- [Learn how to use Dynamics 365 Remote Assist on HoloLens 1 and 2](overview-hololens.md). 
+- [Learn how to use Dynamics 365 Remote Assist on HoloLens and HoloLens 2](overview-hololens.md). 
 - [Learn how to use Dynamics 365 Remote Assist on mobile devices](mobile-app/remote-assist-mobile-overview.md). 
