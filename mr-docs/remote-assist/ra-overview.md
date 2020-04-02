@@ -69,7 +69,7 @@ Learn more about core concepts in mixed reality technology in the following arti
 
 Technicians and inspectors use Remote Assist on [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware), [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware), or AR-capable [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices.
 
-Remote collaborators use Microsoft Teams application on a Windows 10 PC or a mobile device.
+Remote collaborators use [Teams application on a Windows 10 PC](teams-pc-all.md) or a [Teams application on a mobile device](teams-mobile-all.md).
 
 Learn more about the [technical requirements](requirements.md) for deploying and using Microsoft Dynamics 365 Remote Assist throughout your organization.
 
