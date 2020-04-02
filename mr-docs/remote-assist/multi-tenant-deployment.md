@@ -19,9 +19,6 @@ However, there are certain scenarios where this may not be the case:
 
 1. **Vendors and contractors using Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. [Learn more about this scenario.](vendor-use-RA.md)
 
->[!NOTE]
-> This article is intended for administrators, and assumes that you have Microsoft Teams **AND** Azure Active Directory (Azure AD) admin privileges. You should also be familiar with the [Teams admin portal](https://admin.teams.microsoft.com/).
-
 ## Account types
 
 Throughout this article, we'll be referring to a few account types: 
