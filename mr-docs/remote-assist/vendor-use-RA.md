@@ -17,7 +17,7 @@ A Remote Assist call involves one party (technician) using Remote Assist and the
 
 However, there are certain scenarios where this may not be the case: 
 
-1. **Scenario 1: Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. [Learn more about this scenario.](----) 
+1. **Scenario 1: Multi-tenant company deployments,** i.e., a company has a multi-tenant configuration across different organizations or business units. [Learn more about this scenario.](multi-tenant-deployment.md) 
 
 1. **Scenario 2: Vendors and contractors use Remote Assist,** i.e., a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. This document focuses on scenario 2.
 
