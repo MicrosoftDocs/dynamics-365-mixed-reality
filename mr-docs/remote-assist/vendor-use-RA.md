@@ -34,7 +34,7 @@ Companies frequently want to leverage non-company employees such as vendors or c
 
 ## Example
 
-Company ABC uses Tenant ABC. Tenant ABC has users who want to use Teams to remotely collaborate with company vendors and contractors. Some of these vendors and contractors are in an existing tenant and others are not. Company ABC wants to give vendors and contractors Remote Assist licenses so they can use it for their daily service tasks. See Figure 1.1 below.
+Company ABC wants vendors to use Remote Assist to collaborate with experts in Tenant ABC. As shown in Figure 1.1, some of these vendors are in an existing tenant and others are not. Experts in Tenant ABC already have Teams licenses. Company ABC wants to give vendors and contractors Remote Assist licenses so they can use it for their daily service tasks.  
 
 **Figure 1.1**
 ![Diagram showing vendors not having any Remote Assist licenses.](media/SA_1.png)
