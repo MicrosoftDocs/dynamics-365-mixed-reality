@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Making and taking calls in Dynamics 365 Remote Assist on HoloLens 
 
-You can make a one-to-one or group call in Remote Assist on HoloLens. You can also join a meeting scheduled using Microsoft Teams or Outlook.
+You can join a one-to-one or group call in Remote Assist on HoloLens. You can also join a meeting scheduled using Microsoft Teams or Outlook.
 
 A **one-to-one call** includes two participants. For example, if you’re repairing a machine and need help on-the-go, you can make a one-to-one call to a remote collaborator who uses Teams.
 
@@ -25,7 +25,7 @@ A **meeting** is a call scheduled using Teams or Outlook. It can include any num
 When you open Remote Assist, you'll see your recent contacts list. To call one of the contacts you see, select the contact. 
 
 
-If you're using a Dynamics 365 Field Service work order, you can call the contact assigned to your work order. Select the Dynamics 365 icon (or say, "Remote Assist, Dynamics"), go to your instance and booking, then select the **Support Contact** listed.
+If your organization has enabled integration with Dynamics 365 Field Service, you can view and call the contact assigned to your Field Service booking. Select the Dynamics 365 icon (or say, "Remote Assist, Dynamics"), go to your instance and booking, then select the contact listed.
 
 ![Screenshot of the Remote Assist on HoloLens contacts screen, showing an expanded booking panel.](media/HL2-01.04-contacts-booking.png)
 
@@ -35,15 +35,12 @@ If you don’t see the contact you want, select Search and then use the holograp
 ![Screenshot showing the contacts search results screen on Remote Assist for HoloLens.](media/HL2-01.02-search.png)
 
 
-## Make a one-to-one call to a Teams user outside your organization
+## Make a one-to-one call to a Teams user outside your tenant
 
-> [!Note]
-> You can make or receive a one-to-one call with a Teams user from another company if your administrator has set up [federation or guesting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/out-of-tenant-overview#solution-1-federation).  
+You can search, call, and receive a call from a Remote Assist user in another tenant if your tenant is federated with that tenant. To call a federated user, open the app, select **Search**, and then use the holographic keyboard to enter their full email address. You won't see any search results if you enter just a name or a partial email address. After you call them once, they will appear in your recent contacts list, so you will not have to search for them again. 
 
-To call a federated user, open the app, select **Search**, and then use the holographic keyboard to enter their full email address. You won't see any search results if you enter just a name or a partial email address. After you call them once, they will appear in your recent contacts list, so you will not have to search for them again. 
-
-> [!Note]
-> If you're not able to find the contact you're looking for, it might be because federation has not been enabled in Microsoft Teams for your company or the other company. Contact your administrator for help.
+>[!Note]
+> If you're not able to find the contact you're looking for, it might be because Teams federation (i.e., "[Teams external access](https://docs.microsoft.com/en-us/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.
 
 ## Make a group call 
 
@@ -63,7 +60,7 @@ To mute a participant, select **Open Participants** or say "Remote Assist, Open 
 Select **Video** (or say "Remote Assist, Video") to accept the call as a video call or **Audio** (or say "Remote Assist, Audio") to accept it as a voice-only call. To decline the call, select **Ignore** (or say "Remote Assist, Ignore"). 
 
 > [!Note]
-> To receive calls when you’re using other apps on HoloLens, first open the Dynamics 365 Remote Assist app. Then use the **Start** gesture to go to the start menu, and select another app to use. This keeps Remote Assist running in the background.
+> To receive calls when you’re using other apps on HoloLens, first open the Remote Assist app. Then use the **Start** gesture to go to the start menu, and select another app to use. This keeps Remote Assist running in the background.
 > 
 > You’ll get a notification if a Remote Assist call comes in, and you’ll be able to select **Accept** to initiate an audio call, **Video** to initiate a video call, and **Ignore** to ignore the call. 
 >
