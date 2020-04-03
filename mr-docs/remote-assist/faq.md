@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 
 # Dynamics 365 Remote Assist frequently asked questions
 
-Here are some answers to common questions about deploying and using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], which is available on HoloLens, HoloLens 2, and [AR-capable mobile phones and tablets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+Here are some answers to common questions about deploying and using Dynamics 365 Remote Assist, which is available on HoloLens, HoloLens 2, and [AR-capable mobile phones and tablets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
 In general, you can request help using our [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist). 
 
@@ -23,13 +23,7 @@ This document also includes device-specific ways to provide file a bug, request 
 
 Learn about the technical requirements [here](requirements.md).
 
-### How can I tell what version I'm using?
-
-In Remote Assist HoloLens, go to **Settings**, and then find the version number in the **About** section.
-
-In Remote Assist mobile, go to **Information**, and then find the version number in the **App Version** section.
-
-### Can I use Dynamics 365 Remote Assist to collaborate with a Teams user outside my tenant, or vice versa?? 
+### Can I use Dynamics 365 Remote Assist to collaborate with a Teams user outside my tenant, or vice versa?
 
 Yes. Learn how to [set up  multi-tenant company deployments](multi-tenant-deployment.md) or [enable vendors and contractors to use Remote Assist](vendor-use-ra).
 
@@ -38,6 +32,10 @@ Yes. Learn how to [set up  multi-tenant company deployments](multi-tenant-deploy
 To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 Remote Assist so that a firstline worker can call an expert in the context of a Field Service booking, see [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](troubleshoot-field-service.md).
 
 ## Using Remote Assist on HoloLens or HoloLens 2 
+
+### How can I tell what version I'm using?
+
+In Remote Assist HoloLens, go to **Settings**, and then find the version number in the **About** section.
 
 ### What languages is Dynamics 365 Remote Assist HoloLens available in?
 
@@ -79,7 +77,7 @@ This can happen if you’re signed in to Remote Assist with a different account 
 
 ### I see a message saying I have no internet connection.
 
-To use Remote Assist, you need a Wi-Fi connection. Make sure your HoloLens is
+To use Remote Assist, you need an internet connection. Learn how to connect HoloLens to the internet
 [connected to Wi-Fi](https://support.microsoft.com/help/12629).
 
 ### Dynamics 365 Remote Assist is frozen or unresponsive.
@@ -98,7 +96,7 @@ If you don’t see the contacts you expect, try the following actions:
 
 ### The Mixed Reality toolbar doesn’t appear on the Teams desktop application during a Remote Assist call.
 
-This might happen if Teams has downloaded a new version of the client application in the background but is still running the older version of the app. Restarting your PC will usually fix this issue.
+This might happen if Teams has downloaded a new version of the client application in the background but is still running the older version of the app. Restarting your PC will usually fix this issue. This also might happen if the Remote Assist HoloLens user has lost tracking.
 
 ### Why does audio sometimes cut out even in quiet environments?
 
@@ -108,7 +106,7 @@ If Remote Assist is used in a loud environment, use headphones on both ends for 
 
 If you’re having trouble signing in to Remote Assist, try the following:
 
-- Make sure you’re using a work or school account, not a Microsoft account (MSA), to sign into HoloLens.
+- Make sure you’re using a work or school account, not a Microsoft account (MSA), to sign in to HoloLens.
 
 -  Make sure that the work or school account you’re using has a valid [Office 365 Business](https://products.office.com/business/office) Premium or Essentials subscription with [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) enabled.
 
@@ -126,15 +124,15 @@ Yes. We understand that technicians, inspectors, and remote collaborators want t
 
 ### When a Remote Assist call ends, how can I access the messages, snapshots, and files from the call?
 
-All messages, links, or images sent in the text chat will be available for all participants via Teams chat, but not via Remote Assist chat.  
+All messages, links, or images sent in the text chat will be available for all participants via Teams chat, but not via Remote Assist chat. Additional details below.
 
-**Snapshots from Remote Assist HoloLens user:** snapshots are saved differently depending on whether the Remote Assist call is associated with a Dynamics 365 Field Service booking.
+**Snapshots from Remote Assist HoloLens user:** Snapshots are saved differently depending on whether the Remote Assist call is associated with a Dynamics 365 Field Service booking.
 - If a Remote Assist call is associated with a booking, the Remote Assist user will take a snapshot and decide whether to save it to OneDrive or to the booking.
 - If a Remote Assist call is not associated with a booking, the Remote Assist user’s snapshot will automatically be saved in OneDrive.  
 
 Then, regardless of how snapshots are saved, a link to the snapshot is sent via the text chat, and the Teams user can view the snapshot and also view the link to the snapshot. 
 
-**Files:** When a Teams user shares a file, a link to the files is sent in the chat. During the call, the Remote Assist user can use the controls in the top-right corner of a file to save it to their OneDrive.  
+**Files:** When a Teams user shares a file, a link to the file is sent in the chat. During the call, the Remote Assist user can use the controls in the top-right corner of a file to save it to their OneDrive.  
 
 ### How can I improve hologram stability?
 
@@ -143,7 +141,7 @@ Hologram stability refers to how well a placed hologram stays where you placed i
 - *Perceptual* instability could refer to a hologram that seems to move with your head motion, instead of tracking the placed position in space.
 - *Actual* instability could refer to a hologram whose coordinates have changed in virtual space, or whose position relative to a real-world object has shifted regardless of user input or head tracking.
 
-Holograms are always going to be most stable when your **head (not your eyes)** is pointed directly at them. The expected tolerance for hologram stability is that they remain within 1 cm of the placed position for every 1 m of distance from the device.
+Holograms are always going to be most stable **when your head (not your eyes) is pointed directly at them**. The expected tolerance for hologram stability is that they remain within 1 cm of the placed position for every 1 m of distance from the device.
 
 To improve hologram stability, complete eye calibration. 
 
@@ -224,6 +222,10 @@ When you're in the HoloLens Feedback Hub:
 
 ## Using Remote Assist on mobile  
 
+### How can I tell what version I'm using?
+
+In Remote Assist mobile, go to **Information**, and then find the version number in the **App Version** section.
+
 ### What are the yellow tracking dots?
 
 Yellow tracking dots are feature points that detect visually distinct features in your video calls. These help with your tracking experience and placing of annotations. In the April 2020 release and beyond, Remote Assist will continue to track your space but you will remove the yellow tracking dots visualization.
@@ -244,8 +246,7 @@ Limitations that may hinder accurate understanding of surfaces or facilitate in 
 
 * **Can I make calls to a Teams mobile user?** No. However, Remote Assist mobile to Remote Assist mobile calling is on our backlog.
 * **Can I make or be in a group call?** No. 
-
-Still need help? Try our [user forums](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Ideas portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist).
+* **Can I be in a meeting?** No. 
 
 ## How do I provide feedback?
 
