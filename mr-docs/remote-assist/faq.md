@@ -171,7 +171,7 @@ No. Lens cleaners can be abrasive to the coatings on the visor. Please use a mix
 
 ### Can I save call artifacts to a Field Service work order?
 
-Yes! If you opened a Field Service booking and then made a Remote Assist call, at the end of the call, you'll be prompted to post the call log and files shared by remote collaborators to the work order associated with that booking.
+Yes! If you opened a Field Service booking and then made a Remote Assist call, at the end of the call, you'll be prompted to post the call log and files shared during the call to the work order associated with that booking.
 
 To view the call log and files, sign into Field Service and select the work order. Two new notes will have been created and attached to the work order. One note will include call log info. The other note will include and a link to each file in plain text. You can also edit the note to include the Stream link of the recorded call, which can be found in your Teams chat.
 
