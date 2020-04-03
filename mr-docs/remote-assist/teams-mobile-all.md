@@ -15,29 +15,21 @@ Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using
 
 In this article, we'll explore how you can use Microsoft Teams on mobile to collaborate with a Remote Assist user. The benefit of using Teams on mobile (versus PC) is that you can collaborate with Remote Assist users on-the-go. 
 
-When you use Teams on an Android or iOS device, you can collaborate in ad hoc one-to-one calls and Teams meetings with one person who is using Remote Assist on HoloLens or HoloLens 2 ("Remote Assist HoloLens user"). You can also collaborate in an ad hoc one-to-one call with one person who is using Remote Assist on mobile ("Remote Assist mobile user"). For more information, visit our [article on requirements](requirements.md).
+When you use Teams on an Android or iOS device, you can collaborate in an ad hoc one-to-one call with one person who is using Remote Assist on HoloLens or HoloLens 2 ("Remote Assist HoloLens user"). You can also collaborate in an ad hoc one-to-one call with one person who is using Remote Assist on mobile ("Remote Assist mobile user"). For more information, visit our [article on requirements](requirements.md).
 
-We'll also take a look at the difference between collaborating with two different types of Remote Assist users: 
+The features you can use to collaborate differ depending on whether you are collaborating with a Remote Assist HoloLens user or Remote Assist mobile user.
 
-- Remote Assist HoloLens user
-- Remote Assist mobile user
-
-The features you can use to collaborate differ depending on whether you are collaborating with a Remote Assist HoloLens user or Remote Assist mobile user, and whether you’re using a one-to-one call or a Teams meeting. 
-
-Let's take a look at the differences.
-
- Feature |  Available for Teams mobile user in a one-to-one call or a meeting with one Remote Assist HoloLens user | Available for Teams mobile user in a one-to-one call with a Remote Assist mobile user 
+ Feature |  Available for Teams mobile user in a one-to-one call with one Remote Assist HoloLens user | Available for Teams mobile user in a one-to-one call with a Remote Assist mobile user 
 ---| ---| ---
 Make outgoing call | Yes | Yes, but Remote Assist mobile user must have Remote Assist app open to be notified of the call.
 Receive incoming call | Yes| Yes
-Join and schedule a Teams meeting | Yes | No
 Control outgoing video, outgoing audio, and incoming audio  | Yes | Yes
 Annotate Remote Assist user’s environment using arrows and ink  | Yes | Yes
-Annotate 2D snapshot using arrows and ink | Yes | Yes
+Annotate 2D snapshot using arrows and ink | No | Yes
 Send a text message | Yes |Yes
-Share files from OneDrive | For a one-to-one call, yes if using Insert File feature; for a meeting, yes if using the Share feature | Yes
-Share photos from device | For a one-to-one call, yes if using Insert File feature; for a meeting, yes if using the Share feature | Yes
-Record call | Only during Teams meeting, not during one-to-one call | No
+Share files from OneDrive | Yes| Yes
+Share photos from device | Yes | Yes
+Record call | No; only the Remote Assist user can initiate the recording | No; only the Remote Assist user can initiate the recording
 Share screen | Yes | No
 
 # What can Teams mobile users do in a call with a Remote Assist HoloLens user?
@@ -49,34 +41,6 @@ Launch Teams and go to the **Calls** tab.
   ![Screenshot showing the calls icon in Teams.](media/TeamsMobile_Call.png)
 
 Under **History**, you will see your recent contacts. Select one of the contacts to call them. 
-
-> [!NOTE]
->  Teams mobile only supports call recording for Teams meetings. If you are in a call with a Remote Assist HoloLens user and want to record the call, please schedule a Teams meeting with that user and join the meeting so you can record the call.
-
-## Schedule a Teams meeting
-
-You can schedule a Teams meeting to specify in advance when you will collaborate with a Remote Assist HoloLens user. To schedule a meeting, go to the **Calendar** tab. You'll see a list of upcoming meetings. 
-
-Then, select the **Add Meeting** icon in the top-right corner and fill in the details for a new meeting.
-
-## Join a Teams meeting
-
-To join a meeting, go to the **Calendar** tab. You'll see a list of upcoming meetings.  
-
-![Screenshot of the calendar tab in Teams.](media/TeamsMobile_CalendarTab.png)
-
-Select **Join** to join a meeting.  
-
-![Screenshot of a Teams meeting, showing the Join option.](media/TeamsMobile_JoinMeeting.png)
-  
-
-> [!NOTE]
->  When the Remote Assist HoloLens user logs into Remote Assist and views their recent contacts, they will see a meeting notification and the **Join Meeting** button if the meeting begins in the next 15 minutes or is currently ongoing. They will see this notification even if they did not accept the Teams meeting via Outlook or Teams. 
-
-
-> [!NOTE]
-> When you join a Teams meeting, the Remote Assist HoloLens user will not receive a call, and vice versa. You must both join the meeting to participate in the meeting. 
-
 
 ## Use call controls
 ![Screenshot showing the call controls in Teams mobile.](media/TeamsMobile_CallControl.png "Call control")
