@@ -24,6 +24,7 @@ However, the features you can use to collaborate differ depending on which platf
 |Join a group call                                                                                    |Yes                                                                                                  |No; Remote Assist mobile does not support group calls.                                                |
 |Join a meeting                                                                                       |Yes                                                                                                  |No; Remote Assist mobile does not support meetings.                                                  |
 |Control outgoing video, outgoing audio, and incoming audio                                           |Yes                                                                                                  |Yes                                                                                                  |
+|Annotate Remote Assist user's environment                                                            |No                                                                                                   |Yes                                                                                                  |
 |Annotate 2D snapshot using arrows and ink                                                            |No                                                                                                   |Yes                                                                                                  |
 |Send a text message                                                                                  |Yes                                                                                                  |Yes                                                                                                  |
 |Share files from OneDrive or device                                                                  |Yes                                                                                                  |Yes  |
@@ -103,7 +104,7 @@ Teams tries to anticipate what you’ll want to see in a meeting, and you can al
 >[!Note]
 > At this time, when you use Teams to capture a cloud-based recording of the call, the layout you configure is not the layout captured in the call recording. The layout of the recording is determined by the number of call participants. See two examples below.
 
-*Example of a Teams recoding of call with two participants:*
+*Example of a Teams recording of call with two participants:*
 ![Screenshot showing two people in a Microsoft Teams call.](media/2call.png) 
 
 *Example of a Teams recording of call with more than four participants:*
@@ -122,7 +123,7 @@ When you are in a call, call controls are found at the bottom of the screen.
 
 To use additional features, select the ellipses icon […]. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting with a Remote Assist HoloLens user, the More Options […] panel will also provide the option to record the call.  
 
-## Draw and annotate
+## Add annotations in Remote Assist user's environment 
 
 When in a call, you will see your collaborator’s space—including the holograms—and can use the **Mixed Reality toolbar** to add annotations.
 
@@ -177,6 +178,16 @@ To make changes to your edits, you can:
 > - Specific drawings or arrows can’t be removed.
 > - Each call participant can only remove the annotations they added.
 
+## Annotate 2D snapshot (only in a call with Remote Assist mobile user)
+
+Remote Assist mobile lets users take 2D snapshots of their environment and mixed reality annotations, and annotate them during a call. Snapshots are critical in situations where a still image might be needed to carefully add annotations to it. These snapshots can be used for reference later or work validation. Snapshots can also be utilized in low bandwidth situations.
+
+When a Remote Assist mobile user takes a snapshot, the video feed will freeze and you will see any annotations they add while they are in 2D snapshot mode. Start editing to begin adding annotations. After both call participants are finished annotating on the snapshot, the Remote Assist mobile user selects the check mark to exit from the annotation mode and can choose to save the snapshot to their device's photo gallery.
+
+Annotations are only displayed during the snapshot session. When the Remote Assist mobile user exists snapshot mode, annotations from that snapshot session will be removed. 
+
+For more information, [learn more about using snapshots](./mobile-app/annotate-snapshot.md).
+
 ## Share files  
 
 You can share a OneDrive file or local file with a Remote Assist user. Supported files include .jpg, .bmp, .png, .tif/.tiff, .pdf, and still .gif.  
@@ -223,7 +234,7 @@ You may want to record the Remote Assist call for documentation or record-keepin
 
 | Recording type | What the recording captures|Who initiates the recording?|Pros |Cons |
 |--|--|--|--|--|
-|Create a cloud-based recording using Teams or Remote Assist|Teams desktop outgoing video feed (or avatar) and HoloLens outgoing video feed (or avatar)| A Teams desktop user can only initiate a cloud-based recording in a group call or meeting. A Remote Assist user (HoloLens or mobile) can only initiate a cloud-based recording in a one-to-one call with a Teams desktop user. | Recording is automatically saved in Stream and link is available in Teams chat. If your admin has configured Field Service integration, you can post the recording link in a Field Service work order.| The layout of the recording depends on the number of call participants, and the layout cannot be configured. The recording captures the outgoing video feed (or avatar) of up to 4 call participants and the recording screen is divided evenly among the call participants. The Remote Assist HoloLens user’s view never occupies the entire recording, and even if you primarily care about what the HoloLens user sees, you cannot adjust the recording layout to only capture what the HoloLens user sees. This may be particularly confusing for a call with two participants (e.g., one-to-one call or meeting with two participants); **during the call**, you will see a **horizontal** section of the HoloLens user’s view, but because the Teams recording divides the recording screen into half, **in the call recording**, you will see a **vertical section** of the HoloLens user’s view.|
+|Create a cloud-based recording using Teams or Remote Assist|Teams desktop outgoing video feed (or avatar) and Remote Assist outgoing video feed (or avatar)| A Teams desktop user can only initiate a cloud-based recording in a group call or meeting. A Remote Assist user (HoloLens or mobile) can only initiate a cloud-based recording in a one-to-one call with a Teams desktop user. | Recording is automatically saved in Stream and link is available in Teams chat. If your admin has configured Field Service integration, you can post the recording link in a Field Service work order.| The layout of the recording depends on the number of call participants, and the layout cannot be configured. The recording captures the outgoing video feed (or avatar) of up to 4 call participants and the recording screen is divided evenly among the call participants. The Remote Assist HoloLens user’s view never occupies the entire recording, and even if you primarily care about what the HoloLens user sees, you cannot adjust the recording layout to only capture what the HoloLens user sees. This may be particularly confusing for a call with two participants (e.g., one-to-one call or meeting with two participants); **during the call**, you will see a **horizontal** section of the HoloLens user’s view, but because the Teams recording divides the recording screen into half, **in the call recording**, you will see a **vertical section** of the HoloLens user’s view.|
 |Record your Teams desktop screen using Windows Game Bar|The exact call layout you [configure]( https://support.office.com/article/adjust-your-view-in-a-teams-meeting-9825091c-0e7d-4c2b-95f5-eba644f19175) during the call. |Teams desktop user|Because the Teams desktop user is just recording their computer screen, the recording layout matches what Teams desktop user sees during the call.|If the recording needs to be accessible to others, the Teams user must manually upload the video to a shared drive and share it with all call participants or additional people.|
 |Record the HoloLens user's view using HoloLens OS|HoloLens user’s view| HoloLens user |Clarity of HoloLens user’s field of view is not impacted by call connection quality.|If the recording needs to be accessible to others, the HoloLens user must manually upload the video to a shared location. Recording length may be limited by HoloLens internal memory.|
 
