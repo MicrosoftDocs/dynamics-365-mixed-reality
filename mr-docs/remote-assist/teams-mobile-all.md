@@ -32,9 +32,7 @@ Share photos from device | Yes | Yes
 Record call | No; only the Remote Assist user can initiate the recording | No; only the Remote Assist user can initiate the recording
 Share screen | Yes | No
 
-# What can Teams mobile users do in a call with a Remote Assist HoloLens user?
-
-## Make outgoing call
+## Make a call
 
 Launch Teams and go to the **Calls** tab.
 
@@ -60,16 +58,11 @@ Regardless of whether you’re in a one-to-one call or a meeting with a Remote A
 -	**Toggle incoming video**
 -	**Share your screen** – your screen will pop up as a video in the Remote Assist HoloLens user’s world.
 -	**Start video with blur** (iOS only) - useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. 
-
-Some additional features are specific to a one-to-one call or a meeting with a Remote Assist HoloLens user:
-
-- In a one-to-one call, select **Insert file** to display a file in the Remote Assist HoloLens user’s environment. The file can be from OneDrive, Teams, or it can be an image stored on your mobile device. Both you and the Remote Assist HoloLens user can view the files via Teams chat after the call ends. (You will notice that in a meeting, the call controls do not display an **Insert File** option. However, you can still display a file in the Remote Assist HoloLens user’s environment by using the **Share** feature).
-- In a meeting, select **Start recording** to record a Teams meeting with a Remote Assist HoloLens user. (A 1:1 call between Teams mobile and Remote Assist HoloLens cannot be recorded.)
+- **Insert file** to display a file in the Remote Assist HoloLens user’s environment. The file can be from OneDrive, Teams, or it can be an image stored on your mobile device. Both you and the Remote Assist HoloLens user can view the files via Teams chat after the call ends. (You will notice that in a meeting, the call controls do not display an **Insert File** option. However, you can still display a file in the Remote Assist HoloLens user’s environment by using the **Share** feature).
 
 
 > [!NOTE]
 > Turn your phone horizonal to see more of the Remote Assist HoloLens user’s environment.   
-
 
 ## Annotate Remote Assist user’s environment
 
@@ -77,7 +70,7 @@ When you are in a call with a Remote Assist user, you will see their real world 
 
 To add an annotation, select the **Edit icon**.
 
-Then, you will see the **mixed reality toolbar**. 
+Then, you will see the **Mixed Reality toolbar**. 
 
 ![Screenshot of the mixed reality toolbar, with the edit icon highlighted.](media/TeamsMobile_MRToolbar.png)
 
@@ -96,7 +89,7 @@ Then, you will see the **mixed reality toolbar**.
 When you’re done adding annotations, select the checkmark icon to resume the live video feed. All annotations will persist even after you stopped editing. 
 
 > [!NOTE]
-> Collaborators can only undo and delete their own annotations.
+> Each call participant can only undo and delete their own annotations.
 
 ## Send a text message
 
@@ -105,28 +98,17 @@ Select the **Text icon** (which looks like this: ![Graphic showing the text icon
 > [!NOTE]
 > You may notice that you can attach a photo, gif, or file via the text message. This is not the best way to share a file. We recommend sharing OneDrive file using this method and sharing a photo from your device using this method.
 
-
 ## Display OneDrive files
 
 You can display a variety of OneDrive files in the Remote Assist HoloLens user's space. For example, add a PDF of a diagram to assist with the call so a technician or auditor can reference the diagram while keeping their head up and their hands free.
 
-### Display and share link to OneDrive file during a one-to-one call
+### Display and share link to OneDrive file  
 
 Go to the call controls and select the ellipses icon [...]. Then select **Insert Files** and select whether to insert file from OneDrive or from Teams teams and channels.   
 
 When you insert an image, still gif, video, or PDF from OneDrive or a Teams channel, it will show up as a new slate in the Remote Assist HoloLens user’s environment. A link to the file will be available in the Teams chat even after the call ends. (A link to the file will not appear in the Remote Assist chat.) 
 
 The Remote Assist HoloLens user can save a file to their OneDrive by tapping the OneDrive icon in the top right of the slate. The OneDrive file is then automatically saved to a folder called "HoloLens Received Files."   
-
-### Display OneDrive file during a meeting
-
-You may notice that there is no **Insert file** option when you're in a meeting with a Remote Assist HoloLens user. However,  you can use **Share screen** to display a OneDrive or Teams file as a new slate in the Remote Assist HoloLens user’s environment. To do so, go to the call controls, select the ellipses icon […], select **Share** and then **Share screen**.
-
-![Screenshot of the share screen broadcast window.](media/TeamsMobile_ScreenBroadcast.png)
-
-The Remote Assist HoloLens user will then see a live video of your entire screen both in and outside the Teams mobile app. Go to the OneDrive file to display it to your collaborator. 
-
-Because you're sharing your screen, a link to the OneDrive or Teams file isn't shared in Teams chat for all collaborators to access after the call ends. To enable your collaborator to access the file after the call, consider granting the collaborator permissions to view the file and then send the link via Teams chat.
 
 ## Share files stored on your device
 
@@ -141,32 +123,7 @@ The photo will show up as a new slate in the Remote Assist HoloLens user’s env
 
 The Remote Assist HoloLens user can save a file to their OneDrive by tapping the OneDrive icon in the top right of the slate. The OneDrive file is then automatically saved to a folder on the HoloLens called "HoloLens Received Files."   
 
-### Display on-device file during a meeting
-
-You may notice that there is no **Insert file** option when you're in a meeting with a Remote Assist HoloLens user. However, there are several screen sharing options. 
-
-![Screenshot of the sharing options in Teams mobile.](media/TeamsMobile_ShareMultipleTypes.png "ShareMultipleTypes")
-
-To display an on-device photo or video as a new slate in the Remote Assist HoloLens user’s environment, go to the call controls, select the ellipses icon […], select **Share**, and then **Share photo** or **Share video**. This pulls up a photo or video in your app that will be displayed as a new slate in the Remote Assist HoloLens user’s environment. Because you are specifically sharing that photo or video, if you leave the Teams mobile app, the Remote Assist HoloLens user will no longer see the photo or video. 
-
-To display another type of on-device file as a new slate in the Remote Assist HoloLens user’s environment, go to the call controls, select the ellipses icon […], select **Share** and then **Share screen**. The Remote Assist HoloLens user will then see a live video of your screen both in and outside the Teams mobile app (including phone UI). Then, go to the OneDrive file and it will be displayed in the HoloLens user’s environment.  
-
-Because you're sharing your screen, a link to the OneDrive or Teams file is not shared in Teams chat for all collaborators to access after the call ends. To enable your collaborator to access the file after the call, consider granting the collaborator permission to view the file and then send the link via Teams chat.
-
-
-## Record the Teams meeting
-
-You may want to record a call to document how you resolved an issue or to verify that an inspection was completed correctly. Currently, you can only record a Teams meeting with a Remote Assist HoloLens user, not a one-to-one call. 
-
-Go to the call controls, select the ellipses icon […], then select **Start Recording.** 
-
-There are two ways to end the recording. You can go to the call controls, select the ellipses icon […], then select **End Recording**. Additionally, the recording will automatically end if you leave the call. However, the recording will *not* automatically end if the Remote Assist HoloLens user ends the call.
-
-After the call ends and the recording is automatically uploaded to Stream, you'll receive an email, and both meeting participants will receive a Teams chat notification that the video has been uploaded to Stream. Only call participants can access to the Stream video. To edit access to the Stream video, follow [the Stream instructions](https://docs.microsoft.com/stream/portal-edit-video).
-
 ## Share your screen 
-
-### Share your screen in a one-to-one call
 
 To share your screen, go to call controls, select the ellipses icon […], select **Share**, then select **Start Broadcast**.
 
