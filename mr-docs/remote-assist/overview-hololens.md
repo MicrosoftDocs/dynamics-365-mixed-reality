@@ -66,14 +66,8 @@ Remote Assist supports different languages on HoloLens versus HoloLens 2. Check 
 
 ## Collaborating with a Teams desktop user versus a Teams mobile user
 
-The only difference between collaborating with one or more Teams desktop users versus collaborating with one Teams mobile user is that a Teams desktop user can initiate a Teams cloud-based recording of a group call. A Teams mobile user cannot initiate a cloud-based recording of a group call. The difference is indicated in bold in the following table. 
-
-| In a...  |Can a Remote Assist HoloLens user record?     |  Can a Teams desktop user record? |  Can a Teams mobile user record?  |  
-|---|---|---|---| 
-|  One-to-one call |  Available in April 2020 release |  Only if Teams desktop user initiates call using [**Meet Now** feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#method-2-cloud-based-recording-for-one-to-one-calls-using-teams-meet-now-feature) |  No |   
-|  Group call |  No | **Yes** |  **No**|   
-|  Meeting | No  |  Yes | Yes  |   
-
+A Remote Assist HoloLens user can be in one-to-one call, group call, or meeting with a Teams desktop user.
+A Remote Assist HoloLens user can be in one-to-one call with a Teams mobile user.
 
 ## Prerequisites
 
