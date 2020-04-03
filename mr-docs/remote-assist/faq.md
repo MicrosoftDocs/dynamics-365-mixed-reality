@@ -25,7 +25,8 @@ Learn about the technical requirements [here](requirements.md).
 
 ### How can I tell what version I'm using?
 
-Go to **Settings**, and then find the version number in the **About** section.
+In Remote Assist HoloLens, go to **Settings**, and then find the version number in the **About** section.
+In Remote Assist mobile, go to **Information**, and then find the version number in the **App Version** section.
 
 ### Where is Dynamics 365 Remote Assist available?
 
@@ -50,15 +51,13 @@ Go to **Settings**, and then find the version number in the **About** section.
 | France         | Netherlands   | United States  |
 
 
-### Can I use Dynamics 365 Remote Assist to place a call between two separate tenants?
+### Can I use Dynamics 365 Remote Assist to collaborate with a Teams user outside my tenant, or vice versa?? 
 
-Yes. If you want to use Remote Assist and enable an out-of-tenant collaborator to use Teams, follow [these instructions](cross-tenant-licensing-implementation.md). 
-
-If you would like to use Teams and enable an out-of-tenant collaborator to use Remote Assist, follow [these instructions](cross-company-calling.md). This is particularly useful for customer service scenarios when you want to "lease" a Remote Assist license to a customer and set up information barriers to limit who your customer can search and collaborate with.
+Yes. Learn how to [set up  multi-tenant company deployments](multi-tenant-deployment.md) or [enable vendors and contractors to use Remote Assist](vendor-use-ra).
 
 ### How do I set up Dynamics 365 Field Service to work with Dynamics 365 Remote Assist?
 
-To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 Remote Assist so that a first-line worker can call an expert in the context of a Field Service booking, see [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](troubleshoot-field-service.md).
+To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 Remote Assist so that a firstline worker can call an expert in the context of a Field Service booking, see [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](troubleshoot-field-service.md).
 
 ## Using Remote Assist on HoloLens or HoloLens 2 
 
