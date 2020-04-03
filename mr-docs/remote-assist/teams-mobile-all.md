@@ -59,7 +59,7 @@ For additional actions, select the ellipses icon. Additional actions include:
 
 To add an annotation, select the **Edit icon**.
 
-Then, you will see the **Mixed Reality toolbar**. 
+Then, the Remote Assist user's video feed will freeze and you will see the **Mixed Reality toolbar**. 
 
 ![Screenshot of the mixed reality toolbar, with the edit icon highlighted.](media/TeamsMobile_MRToolbar.png)
 
@@ -80,13 +80,13 @@ When you’re done adding annotations, select the checkmark icon to resume the l
 > [!NOTE]
 > Each call participant can only undo and delete their own annotations.
 
-## Annotate 2D snapshot using arrows and ink (only in a call with Remote Assist mobile user)
+## Annotate 2D snapshot (only in a call with Remote Assist mobile user)
 
 Remote Assist mobile lets users take 2D snapshots of their environment and mixed reality annotations, and annotate them during a call. Snapshots are critical in situations where a still image might be needed to carefully add annotations to it. These snapshots can be used for reference later or work validation. Snapshots can also be utilized in low bandwidth situations.
 
-When a Remote Assist mobile user sends a snapshot and starts annotating, their video feed will become a still video feed. Select **Start editing** to begin adding annotations. After both the technician and expert are finished annotating on the snapshot, the Remote Assist mobile user selects the check mark to exit from the annotation mode and can choose to save the snapshot to their phone’s photo gallery.
+When a Remote Assist mobile user takes a snapshot, the video feed will freeze and you will see any annotations they add while they are in 2D snapshot mode. Select **Edit** to begin adding annotations. After both call participants are finished annotating on the snapshot, the Remote Assist mobile user selects the check mark to exit from the annotation mode and can choose to save the snapshot to their device's photo gallery.
 
-Annotations are only displayed during the snapshot session. When the Remote Assist mobile user exists snapshot mode, annotations will be removed. 
+Annotations are only displayed during the snapshot session. When the Remote Assist mobile user exists snapshot mode, annotations from that snapshot session will be removed. 
 
 For more information, [learn more about using snapshots](./mobile-app/annotate-snapshot.md).
 
