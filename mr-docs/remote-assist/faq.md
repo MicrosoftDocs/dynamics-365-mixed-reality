@@ -19,11 +19,11 @@ This document also includes device-specific ways to provide file a bug, request 
 
 ## Deploy Remote Assist (for IT Admins)
 
-### What are the technical requirements for installing Dynamics 365 Remote Assist?
+### What are the technical requirements for deploying Dynamics 365 Remote Assist?
 
 Learn about the technical requirements [here](requirements.md).
 
-### Can I use Dynamics 365 Remote Assist to collaborate with a Teams user outside my tenant, or vice versa?
+### Can I use Dynamics 365 Remote Assist to collaborate with a Microsoft Teams user outside my tenant, or vice versa?
 
 Yes. Learn how to [set up  multi-tenant company deployments](multi-tenant-deployment.md) or [enable vendors and contractors to use Remote Assist](vendor-use-ra).
 
@@ -37,7 +37,7 @@ To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 
 
 In Remote Assist HoloLens, go to **Settings**, and then find the version number in the **About** section.
 
-### What languages is Dynamics 365 Remote Assist HoloLens available in?
+### What languages is Remote Assist HoloLens available in?
 
 At this time, Remote Assist on HoloLens is available in: 
 
@@ -80,11 +80,11 @@ This can happen if you’re signed in to Remote Assist with a different account 
 To use Remote Assist, you need an internet connection. Learn how to connect HoloLens to the internet
 [connected to Wi-Fi](https://support.microsoft.com/help/12629).
 
-### Dynamics 365 Remote Assist is frozen or unresponsive.
+### Remote Assist is frozen or unresponsive.
 
 Try closing and reopening Remote Assist. If you’re still having problems, [restart your HoloLens](https://support.microsoft.com/help/12642).
 
-### Dynamics 365 Remote Assist isn't showing my contacts.
+### Remote Assist isn't showing my contacts.
 
 If you don’t see the contacts you expect, try the following actions:
 
@@ -164,7 +164,7 @@ Let it dry completely.
 Purell wipes can be applied in limited use to clean the HoloLens surfaces. The cleaning guide linked at the beginning of this question is the recommended method. 
 
 **Can I use Clorox or Lysol wipes to clean the HoloLens?**
-A: Clorox, Lysol, and similar bleach-keeping wipes are **not** recommended for use. Use these wipes on when it's critically necessary, and nothing else is available.
+Clorox, Lysol, and similar bleach-keeping wipes are **not** recommended for use. Use these wipes on when it's critically necessary, and nothing else is available.
 
 **Can I use any lens cleaner for cleaning HoloLens visor?**
 No. Lens cleaners can be abrasive to the coatings on the visor. Please use a mix of isopropyl alcohol (IPA) and water, and then gently wipe the surface of the visor.
