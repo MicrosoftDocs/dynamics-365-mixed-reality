@@ -47,8 +47,6 @@ Call controls are found at the bottom of the screen.
 - The **Speaker icon** controls incoming audio.
 
 For additional actions, select the ellipses icon. Additional actions include:
--	**Put the call on hold**
--	**Use dial pad**
 -	**Toggle incoming video**
 -	**Share your screen** – your screen will pop up as a video in the Remote Assist HoloLens user’s world.
 -	**Start video with blur** (iOS only) - useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. 
