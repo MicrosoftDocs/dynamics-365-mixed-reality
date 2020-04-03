@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Collaborate with a Remote Assist user via Microsoft Teams desktop application
 
-When you use the Teams application n a PC running Windows 10, you can collaborate with people using Remote Assist on HoloLens or HoloLens 2 (in this article, a "Remote Assist HoloLens user") or Remote Assist on a mobile device (in this article, a "Remote Assist mobile user").  
+When you use the Teams application on a PC running Windows 10, you can collaborate with people using Remote Assist on HoloLens or HoloLens 2 (in this article, a "Remote Assist HoloLens user") or Remote Assist on a mobile device (in this article, a "Remote Assist mobile user").  
 
 However, the features you can use to collaborate differ depending on which platform the Remote Assist user is using.  
 
