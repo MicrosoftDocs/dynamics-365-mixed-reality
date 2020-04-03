@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 
 Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using a variety of devices to solve problems together, faster. Remote Assist is available on HoloLens and HoloLens 2, and also AR-capable iOS and Android mobile phones and tablets. Remote collaborators can use Teams on PC or mobile to collaborate with Remote Assist users. The benefit of using Teams on mobile (versus PC) is that you can collaborate with Remote Assist users on-the-go. 
 
-When you use Teams on an Android or iOS device, you can collaborate in a one-to-one call with one person who is using Remote Assist on HoloLens or HoloLens 2 ("Remote Assist HoloLens user"). You can also collaborate in an ad hoc one-to-one call with one person who is using Remote Assist on mobile ("Remote Assist mobile user"). However, the available features differ.
+When you use Teams on mobile, you can collaborate in a one-to-one call with one person who is using Remote Assist on HoloLens or HoloLens 2 ("Remote Assist HoloLens user"). You can also collaborate in a one-to-one call with one person who is using Remote Assist on mobile ("Remote Assist mobile user"). However, the available features differ.
 
 | Feature |  Available for Teams mobile user in a one-to-one call with one Remote Assist HoloLens user | Available for Teams mobile user in a one-to-one call with a Remote Assist mobile user 
 ---| ---| ---
@@ -99,7 +99,7 @@ For more information, [learn more about using snapshots](./mobile-app/annotate-s
 Select the **Text icon** (which looks like this: ![Graphic showing the text icon, which looks like a chat bubble.](media/TeamsMobile_Text.png)) to open the text chat and send text messages. After the call, all participants can access the messages (and OneDrive and Teams file links) via the Teams chat. 
 
 > [!NOTE]
-> You may notice that you can attach a photo, gif, or file via the text message. This is not the best way to share a file. We recommend sharing OneDrive file using this method and sharing a photo from your device using this method.
+> You may notice that you can attach a photo, gif, or file via the text message. This is not the best way to share a file. Please read the next two sections to learn how to share a OneDrive file and a photo from your device.
 
 ## Share OneDrive file 
 
