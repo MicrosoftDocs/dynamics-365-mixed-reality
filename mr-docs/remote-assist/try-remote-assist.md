@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 
 # Free trials for Dynamics 365 Remote Assist
 
-You can try Microsoft Dynamics 365 Remote Assist for free on your HoloLens 1, HoloLens 2, and mobile phones and tablets. There are three types of free trials: 
+You can try Microsoft Dynamics 365 Remote Assist for free on your HoloLens, HoloLens 2, and mobile phones and tablets. There are three types of free trials: 
 
 1. The license-free 90-day trial, for *individuals* that want to quickly try the app. 
 2. The 30-day Remote Assist trial, for *organizations* that want to provide licenses for up to 25 users. 
@@ -30,16 +30,16 @@ In this article, we’ll walk through the three ways you can get a Remote Assist
    - A [Microsoft account](https://account.microsoft.com/account).
    - A [Microsoft Teams freemium account](https://products.office.com/microsoft-teams/free).
    - Azure Active Directory [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only).
-   - A HoloLens 1, HoloLens 2, or a mobile device. Additional licensing and product requirements can be found [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+   - A HoloLens, HoloLens 2, or a mobile device. Additional licensing and product requirements can be found [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
 With the license-free 90-day free trial, each user must download Remote Assist in the appropriate app store to start the trial. 
 
-### Steps for HoloLens 1 and 2
+### Steps for HoloLens and HoloLens 2
 1.	Go to the **Start** menu and then select **Microsoft Store**. 
 2.	Search for and download **Dynamics 365 Remote Assist** and launch the app.
 3.	Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
 4.	The app will prompt you to start your free trial of Remote Assist. Select **Continue**. You will then be taken to your **Contacts** page.  
-5.	You can now use Dynamics 365 Remote Assist on your HoloLens 1 or 2!  
+5.	You can now use Dynamics 365 Remote Assist on your HoloLens and HoloLens 2!  
 
 ### Steps for mobile
 1.	If you’re using a mobile device, go to the appropriate iOS or Android app store.
