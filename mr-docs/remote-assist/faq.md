@@ -44,6 +44,7 @@ At this time, Remote Assist on HoloLens is available in:
 - Chinese (simplified)
 - Chinese (traditional)
 - Dutch (Netherlands)
+- English (US)
 - English (UK)
 - French (Canada)
 - French (France)
@@ -55,9 +56,9 @@ At this time, Remote Assist on HoloLens is available in:
 
 ### What languages are voice commands and speech recognition available for?
 
-For HoloLens, voice commands and speech recognition are available only in English. 
+For Remote Assist on HoloLens, voice commands and speech recognition are available only in English. 
 
-For HoloLens 2, voice commands and speech recognition are available for the following languages:
+For Remote Assist on HoloLens 2, voice commands and speech recognition are available for the following languages:
 
 -	English (US)
 -	English (Canada)
