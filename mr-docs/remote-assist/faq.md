@@ -26,30 +26,8 @@ Learn about the technical requirements [here](requirements.md).
 ### How can I tell what version I'm using?
 
 In Remote Assist HoloLens, go to **Settings**, and then find the version number in the **About** section.
+
 In Remote Assist mobile, go to **Information**, and then find the version number in the **App Version** section.
-
-### Where is Dynamics 365 Remote Assist available?
-
-[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], which requires [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], is available worldwide.
-
-[!include[pn-hololens](../includes/pn-hololens.md)] devices are available in the following markets (English only):
-
-|         |        |   |
-|----------------|---------------|----------------|
-| Austria        | Germany       | New Zealand    |
-| Australia      | Greece        | Norway         |
-| Belgium        | Hungary       | Poland         |
-| Bulgaria       | Iceland       | Portugal       |
-| Canada         | Ireland       | Romania        |
-| China          | Italy         | Slovakia       |
-| Croatia        | Japan         | Slovenia       |
-| Cyprus         | Latvia        | Spain          |
-| Czech Republic | Liechtenstein | Sweden         |
-| Denmark        | Lithuania     | Switzerland    |
-| Estonia        | Luxembourg    | Turkey         |
-| Finland        | Malta         | United Kingdom |
-| France         | Netherlands   | United States  |
-
 
 ### Can I use Dynamics 365 Remote Assist to collaborate with a Teams user outside my tenant, or vice versa?? 
 
@@ -63,7 +41,7 @@ To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 
 
 ### What languages is Dynamics 365 Remote Assist HoloLens available in?
 
-At this time, [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] is available in: 
+At this time, Remote Assist on HoloLens is available in: 
 
 - Chinese (simplified)
 - Chinese (traditional)
@@ -79,7 +57,9 @@ At this time, [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-
 
 ### What languages are voice commands and speech recognition available for?
 
-At this time, for HoloLens, voice and speech recognition are available only in English. For HoloLens 2, voice commands and speech recognition are available for the following languages:
+For HoloLens, voice commands and speech recognition are available only in English. 
+
+For HoloLens 2, voice commands and speech recognition are available for the following languages:
 
 -	English (US)
 -	English (Canada)
@@ -95,71 +75,66 @@ At this time, for HoloLens, voice and speech recognition are available only in E
 
 ### Why am I not getting incoming call notifications?
 
-This can happen if you’re signed in to [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] with a different account
-than the one you used to sign in to your [!include[pn-hololens](../includes/pn-hololens.md)]. Make sure you’re signed into
-both the app and the device with the same account. 
+This can happen if you’re signed in to Remote Assist with a different account than the one you used to sign in to your HoloLens. Make sure you’re signed into both the app and the device with the same account. 
 
 ### I see a message saying I have no internet connection.
 
-To use [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], you need a Wi-Fi connection. Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is
+To use Remote Assist, you need a Wi-Fi connection. Make sure your HoloLens is
 [connected to Wi-Fi](https://support.microsoft.com/help/12629).
 
 ### Dynamics 365 Remote Assist is frozen or unresponsive.
 
-Try closing and reopening [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)]. If you’re still having problems,
-[restart your HoloLens](https://support.microsoft.com/help/12642).
+Try closing and reopening Remote Assist. If you’re still having problems, [restart your HoloLens](https://support.microsoft.com/help/12642).
 
 ### Dynamics 365 Remote Assist isn't showing my contacts.
 
 If you don’t see the contacts you expect, try the following actions:
 
-- Make sure you’ve signed in to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-teams](../includes/pn-teams.md)] at least once with the account you’re using on your [!include[pn-hololens](../includes/pn-hololens.md)].
+- Make sure you’ve signed in to Teams at least once with the account you’re using on your HoloLens.
 
-- Close and reopen [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
+- Close and reopen Remote Assist.
 
 - [Restart your HoloLens](https://support.microsoft.com/help/12642).
 
-### The Mixed Reality toolbar doesn’t appear on the PC Teams client during a Dynamics 365 Remote Assist call.
+### The Mixed Reality toolbar doesn’t appear on the Teams desktop application during a Remote Assist call.
 
-This might happen if [!include[pn-teams](../includes/pn-teams.md)] has downloaded a new version of the client in the background but is still running the older version of the app. Restarting your PC will usually fix this issue.
+This might happen if Teams has downloaded a new version of the client application in the background but is still running the older version of the app. Restarting your PC will usually fix this issue.
 
 ### Why does audio sometimes cut out even in quiet environments?
 
-If [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] is used in a loud environment, use headphones on both ends for
-better communication. Using headphones for both users prevents any echo
-filtering from proactively turning on noise cancellation, which turns off audio.
+If Remote Assist is used in a loud environment, use headphones on both ends for better communication. Using headphones for both users prevents any echo filtering from proactively turning on noise cancellation, which turns off audio.
 
-### I signed in to my HoloLens, but I still can't sign in to Dynamics 365 Remote Assist.
+### I signed in to my HoloLens, but I still can't sign in to Remote Assist.
 
-If you’re having trouble signing in to [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)], try the following:
+If you’re having trouble signing in to Remote Assist, try the following:
 
-- Make sure you’re using a work or school account, not a [!include[cc-microsoft](../includes/cc-microsoft.md)] account, to sign into [!include[pn-hololens](../includes/pn-hololens.md)].
+- Make sure you’re using a work or school account, not a Microsoft account (MSA), to sign into HoloLens.
 
 -  Make sure that the work or school account you’re using has a valid [Office 365 Business](https://products.office.com/business/office) Premium or Essentials subscription with [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) enabled.
 
-- Make sure your [!include[pn-hololens](../includes/pn-hololens.md)] is connected to the internet.
+- Make sure your HoloLens is connected to the internet.
 
-- Check with your administrator to make sure your device and network are set up to work with [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)].
+- Check with your administrator to make sure your device and network are set up to work with Remote Assist.
 
-### Can I share files from SharePoint on Dynamics 365 Remote Assist?
+### Can I share files from SharePoint on Remote Assist?
 
 No, you can only share local files and files from OneDrive.
 
 ### Can a Teams desktop user show the Remote Assist HoloLens user a video or PowerPoint?
 
-Yes! We understand that technicians, inspectors, and remote collaborators want to refer to a wide variety of resources and reference documents during the call. By using the Teams desktop **Share** feature, the Teams desktop user can show the Remote Assist HoloLens whatever they are looking at on their desktop or in a specific application window. For example, the Teams desktop user can show the technician a video playing in a web browser. Furthermore, because the Teams desktop user's screen or application window is shared in real time, all call participants will see when the Teams desktop user pauses or restarts the video. 
+Yes. We understand that technicians, inspectors, and remote collaborators want to refer to a wide variety of resources and reference documents during the call. By using the Teams desktop **Share** feature, the Teams desktop user can show the Remote Assist HoloLens whatever they are looking at on their desktop or in a specific application window. For example, the Teams desktop user can show the technician a video playing in a web browser. Furthermore, because the Teams desktop user's screen or application window is shared in real time, all call participants will see when the Teams desktop user pauses or restarts the video. 
 
-### When a Remote Assist call ends, how can I access the messages, snapshots, and files during the call?
+### When a Remote Assist call ends, how can I access the messages, snapshots, and files from the call?
 
-For messages sent in text chat: any messages, links, or images sent in the text chat will be available for all participants via Teams Chat but not via Remote Assist.
+All messages, links, or images sent in the text chat will be available for all participants via Teams chat, but not via Remote Assist chat.  
 
-For snapshots from Remote Assist HoloLens user: snapshots are saved differently depending on whether the Remote Assist call is associated with a Dynamics 365 Field Service booking.
+**Snapshots from Remote Assist HoloLens user:** snapshots are saved differently depending on whether the Remote Assist call is associated with a Dynamics 365 Field Service booking.
 - If a Remote Assist call is associated with a booking, the Remote Assist user will take a snapshot and decide whether to save it to OneDrive or to the booking.
 - If a Remote Assist call is not associated with a booking, the Remote Assist user’s snapshot will automatically be saved in OneDrive.  
 
-However, regardless of how snapshots are saved, a link to the snapshot is sent via the text chat, and the Teams user can view the snapshot and also view the link to the snapshot. 
+Then, regardless of how snapshots are saved, a link to the snapshot is sent via the text chat, and the Teams user can view the snapshot and also view the link to the snapshot. 
 
-For files: A link to the files sent by the Teams user is sent in the chat. During the call, the Remote Assist user can use the controls in the top-right corner of a file to save it to their OneDrive.
+**Files:** When a Teams user shares a file, a link to the files is sent in the chat. During the call, the Remote Assist user can use the controls in the top-right corner of a file to save it to their OneDrive.  
 
 ### How can I improve hologram stability?
 
