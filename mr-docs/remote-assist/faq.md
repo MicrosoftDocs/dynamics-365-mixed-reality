@@ -58,19 +58,7 @@ At this time, Remote Assist on HoloLens is available in:
 
 For Remote Assist on HoloLens, voice commands and speech recognition are available only in English. 
 
-For Remote Assist on HoloLens 2, voice commands and speech recognition are available for the following languages:
-
--	English (US)
--	English (Canada)
--	English (United Kingdom)
--	English (Australia)
--	Chinese (China)
--	French (France)
--	French (Canada)
--	German (Germany)
--	Italian (Italy)
--	Japanese (Japan)
--	Spanish (Spain)
+For Remote Assist on HoloLens 2, voice commands and speech recognition are available for the [following languages](https://docs.microsoft.com/en-us/hololens/hololens2-language-support).
 
 ### Why am I not getting incoming call notifications?
 
