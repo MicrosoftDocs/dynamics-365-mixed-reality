@@ -9,7 +9,7 @@ title: Create a Common Data Service environment and install the Dynamics 365 Gui
 ms.reviewer: v-brycho
 ---
 
-# XXDynamics 365 Guides setup, step 2: Install the solution
+# Dynamics 365 Guides setup, step 2: Install the solution
 
 > [!NOTE]
 > Before you complete this step of the setup process, be sure to see step 1, [Buy a subscription or sign up for a free trial](setup-step-one.md).
