@@ -67,6 +67,7 @@ Remote Assist supports different languages on HoloLens versus HoloLens 2. Check 
 ## Collaborating with a Teams desktop user versus a Teams mobile user
 
 A Remote Assist HoloLens user can be in one-to-one call, group call, or meeting with a Teams desktop user.
+
 A Remote Assist HoloLens user can be in one-to-one call with a Teams mobile user.
 
 ## Prerequisites
