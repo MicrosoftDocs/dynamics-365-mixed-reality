@@ -17,7 +17,7 @@ When you use Teams on mobile, you can collaborate in a one-to-one call with one 
 
 | Feature |  Available for Teams mobile user in a one-to-one call with one Remote Assist HoloLens user | Available for Teams mobile user in a one-to-one call with a Remote Assist mobile user 
 ---| ---| ---
-Make outgoing call | Yes | Yes, but Remote Assist mobile user must have Remote Assist app open to be notified of the call.
+Make outgoing call | Yes | No
 Receive incoming call | Yes| Yes
 Control outgoing video, outgoing audio, and incoming audio  | Yes | Yes
 Annotate Remote Assist user’s environment using arrows and ink  | Yes | Yes
@@ -46,9 +46,7 @@ Call controls are found at the bottom of the screen.
 - The **Microphone icon** controls outgoing audio.
 - The **Speaker icon** controls incoming audio.
 
-For additional actions, select the ellipses icon. 
-
-Regardless of whether you’re in a one-to-one call or a meeting with a Remote Assist HoloLens user, you can:
+For additional actions, select the ellipses icon. Additional actions include:
 -	**Put the call on hold**
 -	**Use dial pad**
 -	**Toggle incoming video**
