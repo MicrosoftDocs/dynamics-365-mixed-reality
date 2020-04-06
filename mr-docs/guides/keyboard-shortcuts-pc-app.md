@@ -26,7 +26,7 @@ You can use any of the following keyboard shortcuts in the Microsoft Dynamics 36
 | Ctrl+Left arrow | In the **Outline** page, if a step is selected, move to the previous step in the task. |
 | Ctrl+Right arrow | In the **Outline** page, if a step is selected, move to the next step in the task.|
 | Ctrl+Up arrow | In the **Outline** page:<br>- If a step is selected, move to the last step in the previous task.<br>- If a task is selected, move to the previous task.|
-| Ctrl+Down arrow | In the Outline page:<br>- If a step is selected, move to the first step in the next task.<br>- If a task is selected, move to the next task.|
+| Ctrl+Down arrow | In the **Outline** page:<br>- If a step is selected, move to the first step in the next task.<br>- If a task is selected, move to the next task.|
 | Windows logo key+Down arrow | Minimize the current window. |
 | Windows logo key+Up arrow | Maximize the current window. |
 
