@@ -48,6 +48,8 @@ Once prerequisites are met, you can now add and assign licenses to *individual u
 
 6.	Find the users in your organization that you want to add; make sure to provide them with Dynamics 365 Remote Assist and Microsoft Teams licenses under the **Product licenses** section. 
 
+>[!Note] The Teams license that is included with a Remote Assist license enables Remote Assist users to collaborate with Teams users and use most Remote Assist features. However, some features, such as sharing files from OneDrive and saving snapshots to OneDrive, require an Office 365 license. To use all Remote Assist features, a Remote Assist user must use the Teams license that is included with a [Office 365 Business Premium or Office 365 Business Essentials license](https://products.office.com/compare-all-microsoft-office-products?&activetab=tab:primaryr2). Learn more about how to [manage Office 365 licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
+
 ![Screenshot of product licenses](./media/deploy_6.png "Product licenses")
 
 7. To add multiple users, go to **More** > **Import multiple users**. Fill out the CSV file, set user options, and view your results. 
