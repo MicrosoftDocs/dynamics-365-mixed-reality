@@ -23,8 +23,10 @@ You can use any of the following keyboard shortcuts in the Microsoft Dynamics 36
 | Ctrl+Z | Undo the last change to the guide. |
 | Ctrl+Y | Redo the last change to the guide. |
 | Ctrl+F4 | Close the current window. |
-| Ctrl+Left arrow or Ctrl+Right arrow | Move to the previous or next word in the **Step Editor** instruction text. |
-| Ctrl+Up arrow or Ctrl+Down arrow | Move to the beginning or end of the **Step Editor** instruction text. |
+| Ctrl+Left arrow | In the **Outline** page, if a step is selected, move to the previous step in the task |
+| Ctrl+Right arrow | In the **Outline** page, if a step is selected, move to the next step in the task.|
+| Ctrl+Up arrow | In the **Outline** page:<br>- If a step is selected, move to the last step in the previous task.<br>- If a task is selected, move to the previous task.|
+| Ctrl+Down arrow | In the Outline page:<br>- If a step is selected, move to the first step in the next task.<br>- If a task is selected, move to the next task.|
 | Windows logo key+Down arrow | Minimize the current window. |
 | Windows logo key+Up arrow | Maximize the current window. |
 
