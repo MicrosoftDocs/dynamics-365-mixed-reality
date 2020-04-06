@@ -39,9 +39,9 @@ In Remote Assist HoloLens, go to **Settings**, and then find the version number 
 
 ### What languages is Remote Assist HoloLens available in?
 
-Remote Assist on HoloLens is available in English, [Simplfied Chinese, and Japanese](https://docs.microsoft.com/en-us/windows/mixed-reality/release-notes-october-2018#for-international-customers).
+Remote Assist on HoloLens is available in English. As of October 2018, it is also [available in Simplfied Chinese and Japanese](https://docs.microsoft.com/en-us/windows/mixed-reality/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](https://docs.microsoft.com/en-us/hololens/hololens1-install-localized).
 
-Remote Assist on HoloLens 2 is available for the [following languages](https://docs.microsoft.com/en-us/hololens/hololens2-language-support).
+Remote Assist on HoloLens 2 is available in the [following languages](https://docs.microsoft.com/en-us/hololens/hololens2-language-support).
 
 ### Why am I not getting incoming call notifications?
 
