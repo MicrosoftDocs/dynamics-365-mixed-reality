@@ -1,5 +1,5 @@
 ---
-title: "Remote Assist on Governement Community Cloud (GCC) | MicrosoftDocs"
+title: "Remote Assist on Government Community Cloud (GCC) | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
 ms.date: 04/07/2020
@@ -26,9 +26,9 @@ search.app:
   - MRRA
 ---
 
-# Dynamics 365 Remote Assist on Governement Community Cloud (GCC)
+# Dynamics 365 Remote Assist on Government Community Cloud (GCC)
 
-Dynamics 365 Remote Assist is available onGovernement Community Cloud (GCC) and GCC High. 
+Dynamics 365 Remote Assist is available on Government Community Cloud (GCC) and GCC High. 
 
 ## Limits
 
