@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Remote Assist mobile overview
 
-Dynamics 365 Remote Assist enables technicians with mobile devices to connect to a remote collaborator on Microsoft Teams (desktop and mobile). Using live video calling, annotations, and high-resolution snapshots, they can share what they see with the expert to troubleshoot problems together, faster. [Watch a video on Dynamics 365 Remote Assist mobile](https://www.youtube.com/watch?v=J-C6GE2gFYw&t=27s).
+Dynamics 365 Remote Assist enables technicians with mobile devices to connect to a remote collaborator on Microsoft Teams (desktop and mobile). Using live video calling, annotations, and high-resolution snapshots, they can share what they see with the expert to troubleshoot problems together, faster. [Watch a video on Dynamics 365 Remote Assist mobile](https://youtu.be/J-C6GE2gFYw).
 
 When technicians use Remote Assist mobile on their mobile devices, they may find they have easier physical access to confined or hard-to-reach spaces. Additionally, familiarity with their mobile device facilitates ease of use and easy access to other mobile apps that are part of your company workflows.
 
@@ -34,3 +34,4 @@ Dynamics 365 Remote Assist mobile is available on Android with ARCore enabled an
 - [Try Remote Assist mobile for free](../try-remote-assist.md). 
 - [Buy Remote Assist licenses](../buy-remote-assist.md). 
 - [Deploy Remote Assist to your workers' devices](../deploy-remote-assist.md). 
+- [How-to videos for using Remote Assist on mobile](videos.md).
