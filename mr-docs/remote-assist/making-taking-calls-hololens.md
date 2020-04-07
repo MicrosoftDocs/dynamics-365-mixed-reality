@@ -40,7 +40,7 @@ If you don’t see the contact you want, select Search and then use the holograp
 You can search, call, and receive a call from a Remote Assist user in another tenant if your tenant is federated with that tenant. To call a federated user, open the app, select **Search**, and then use the holographic keyboard to enter their full email address. You won't see any search results if you enter just a name or a partial email address. After you call them once, they will appear in your recent contacts list, so you will not have to search for them again. 
 
 >[!Note]
-> If you're not able to find the contact you're looking for, it might be because Teams federation (i.e., "[Teams external access](https://docs.microsoft.com/en-us/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.
+> If you're not able to find the contact you're looking for, it might be because Teams federation (that is, "[Teams external access](https://docs.microsoft.com/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.
 
 ## Make a group call 
 
