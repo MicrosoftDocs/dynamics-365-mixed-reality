@@ -2,7 +2,7 @@
 author: sophiasysun
 description: Watch these short videos to get up and running with Microsoft Dynamics 365 Remote Assist on HoloLens or a mobile device
 ms.author: sopsun
-ms.date: 03/15/2020
+ms.date: 04/07/2020
 ms.service: crm-online
 ms.topic: article
 title: How-to videos for Dynamics 365 Remote Assist   
@@ -35,7 +35,8 @@ Watch these videos to learn how to use Remote Assist on HoloLens. Keep in mind t
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2FhfT" frameborder="0" allowfullscreen=""></iframe></div>
 
-Learn more about [Remote Assist HoloLens features]overview-hololens.md)
+
+Learn more about [Remote Assist HoloLens features](overview-hololens.md).
 
 ## Use Dynamics 365 Remote Assist for mobile devices 
 
@@ -49,7 +50,7 @@ Watch [this video](https://youtu.be/DQJWsCDNpb4?list=PLE8_akGzEn_z_qRTst3OFZf1fC
 * Share files
 * End call
 
-Learn more about [Remote Assist mobile features](mobile-app/remote-assist-mobile-overview.md)
+Learn more about [Remote Assist mobile features](mobile-app/remote-assist-mobile-overview.md).
 
 ## Use Microsoft Teams on PC 
 
@@ -63,4 +64,5 @@ Watch these videos to learn how to use Teams on PC to collaborate with a Remote 
 </br>
 <div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F6TJ" frameborder="0" allowfullscreen=""></iframe></div>
 
-Learn more about [Teams PC features](teams-pc-all.md) and [Teams mobile features](teams-mobile-all.md) when collaborating with a Remote Assist user. 
+
+Learn more about [Teams PC features](teams-pc-all.md) and [Teams mobile features](teams-mobile-all.md) available when collaborating with a Remote Assist user. 
