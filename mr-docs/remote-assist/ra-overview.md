@@ -71,7 +71,7 @@ Technicians and inspectors use Remote Assist on [HoloLens](https://docs.microsof
 
 Remote collaborators use [Teams application on a Windows 10 PC](teams-pc-all.md) or a [Teams application on a mobile device](teams-mobile-all.md).
 
-Learn more about the [technical requirements](requirements.md) for deploying and using Remote Assist throughout your organization.
+Learn more about the [technical requirements](requirements.md) for deploying and using Remote Assist.
 
 ## Integrate Dynamics 365 Field Service  
 
@@ -87,7 +87,7 @@ In addition to using Remote Assist to consult with remote collaborators and reso
 - Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 - Learn how to [deploy Remote Assist](deploy-remote-assist.md), including how to assign licenses and set up HoloLens and mobile devices.
 - Learn how to [deploy Teams on PC or mobile](set-up-teams.md).
-- (Optional) Learn how to [deploy multi-tenant company deployments](multi-tenant-deployment.md)
+- (Optional) Learn how to [set up multi-tenant company deployments](multi-tenant-deployment.md)
 - (Optional) Learn how to [enable vendors and contractors to use Remote Assist](vendor-use-RA.md)
 - (Optional) Learn to [integrate Remote Assist with Field Service](troubleshoot-field-service.md).
 
