@@ -86,5 +86,6 @@ After sorting out your licenses, users can setup and use the app on their HoloLe
 5.	You can now use Dynamics 365 Remote Assist on your mobile device! Next up, [learn how make calls](mobile-app/making-calls.md) to a remote expert on Microsoft Teams (desktop and mobile). 
 
 ## Next steps
+- [Learn how to set up Microsoft Teams on PC or mobile for various scenarios](set-up-teams.md).
 - [Learn how to use Dynamics 365 Remote Assist on HoloLens and HoloLens 2](overview-hololens.md). 
 - [Learn how to use Dynamics 365 Remote Assist on mobile devices](mobile-app/remote-assist-mobile-overview.md). 
