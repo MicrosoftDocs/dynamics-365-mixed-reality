@@ -31,4 +31,4 @@ Remote Assist users and Teams users may be in the same tenant or different tenan
 
 
 
-Need more help? [Check out Dynamics 365 Remote Assist FAQs](faq.md) for answers to common questions, or check out the [Microsoft Teams admin documentation.](https://docs.microsoft.com/en-us/microsoftteams).
+Need more help? [Check out Dynamics 365 Remote Assist FAQs](faq.md) for answers to common questions, or check out the [Microsoft Teams admin documentation](https://docs.microsoft.com/en-us/microsoftteams).
