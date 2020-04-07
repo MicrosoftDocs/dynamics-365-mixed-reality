@@ -29,6 +29,7 @@
 #### [Overview](pc-app-overview.md)
 #### [Install the app and sign in](install-sign-in-pc-app.md)
 #### [Create a guide](create-guide.md)
+#### [Rename a guide](pc-app-rename-guide.md)
 #### [Anchor your guide to the real world](anchor.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
