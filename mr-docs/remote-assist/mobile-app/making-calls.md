@@ -14,12 +14,12 @@ Remote Assist mobile makes receiving expert help easy by providing technicians w
 
 For a successful calling experience, **only a Remote Assist mobile user (technician) can initiate an outgoing call to either one Teams desktop user (expert) or one Teams mobile user (expert)**.
 
->[!NOTE]
-> Remote Assist mobile does not currently support the following features, but these features are on the product roadmap:
+In other words, Remote Assist mobile does not currently support the following capabilities:
 > -	Joining Teams meetings.
 > -	Making calls to browser-based Teams.
 > -	Participating in calls with three or more participants.
 > -	Participating in Remote Assist mobile to Remote Assist mobile calls.
+> -   Participating in Remote Assist mobile to Remote Assist HoloLens calls 
 > -	If the Remote Assist mobile app is not open, the technician will not receive incoming call notifications from Teams desktop or mobile.
 
 ## Prerequisites
