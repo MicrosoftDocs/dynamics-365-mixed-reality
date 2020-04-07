@@ -60,7 +60,7 @@
 ### [Anchor your guide](operator-anchor.md)
 ### [Operate your guide](operator-orientation.md)
 ## [Analyze your guides](analytics-guide.md)
-## [Entity reference (for developers](developer-entity-reference.md)
+## [Entity reference (for developers)](developer-entity-reference.md)
 ## [Get Help and provide feedback](help.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
