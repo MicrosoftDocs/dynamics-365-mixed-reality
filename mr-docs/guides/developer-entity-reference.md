@@ -16,3 +16,32 @@ If you have an urgent need to do a business-critical integration, contact the Dy
 your Microsoft Account team.<br>Also, be careful when programmatically creating, updating, or deleting Dynamics 365 Guides entity records. 
 Some entities have a dependency on other entities to provide user experiences and functionalities in the PC and HoloLens apps. 
 Manipulating these entities programmatically may prevent you from using the functionalities in the intended and supported way.
+
+## Dynamics 365 Guides entities
+
+|Entity name|Description|
+|----------------------------------------------|--------------------------------------------------------------------------|
+|msmrw_3dasset|Stores a 3D object file and information associated with that 3D object file.|
+|msmrw_3dasset_localized|Stores localized information for a 3D object.|
+|msmrw_assetcollection|Stores a group of 3D objects (asset collection).|
+|msmrw_assetcollection_localized|Stores localized information for an asset collection.|
+|msmrw_audioasset|Stores an audio file and information associated with that audio file.|
+|msmrw_guide|Stores information about the content of a guide, including its anchor information.|
+|msmrw_guidecompletionstepobject|Stores information about the 3D objects added to the completion step of a guide.|
+|msmrw_guidecompletionstepobjectplacement|Specifies which 3D objects have been placed in the world in the completion step of a guide. Other information about the 3D objects is also stored.|
+|msmrw_guideevent|Used to track telemetry information for a guide.|
+|msmrw_guide_localized|Stores localized information for a guide.|
+|msmrw_guidestep|Stores content and information about a guide step.|
+|msmrw_guidestepobject|Stores information about 3D objects added to a guide step.|
+|msmrw_guidestepobjectplacement|Specifies which 3D objects have been placed in the world in a guide step. Other information about the 3D objects is also stored.|
+|msmrw_guidetask|A parent container for a group of guide steps.|
+|msmrw_guideviewconfiguration|Stores the record ID for Common Data Service views. Each record is shown as a tab in the HoloLens app.|
+|msmrw_imageasset|Stores an image file and information associated with the image.|
+|msmrw_imageasset_localized|Stores localized information for an image. |
+|msmrw_usersettings|Stores custom setting configuration info for a specific user when using the  HoloLens app.|
+|msmrw_videoasset|Stores a video file and information associated with that video file.|
+|msmrw_videoasset_localized|Stores localized information for a video.|
+
+## See also
+
+[Entity reference for Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/about-entity-reference)
