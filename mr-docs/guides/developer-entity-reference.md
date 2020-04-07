@@ -1,5 +1,5 @@
 
-# Entity Reference for Dynamics 365 Guides
+# Entity Reference for Dynamics 365 Guides (for developers)
 
 When a guide is created using the Dynamics 365 Guides PC application, content and information in that guide is stored using the 
 following Dynamics 365 Guides [entities](https://docs.microsoft.com/powerapps/maker/common-data-service/entity-overview) 
