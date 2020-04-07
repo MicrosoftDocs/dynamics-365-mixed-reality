@@ -34,7 +34,7 @@ Dynamics 365 Remote Assist is available on Government Community Cloud (GCC) and 
 
 Support for GCC and GCC high applies to Remote Assist on the HoloLens only (not mobile).
 
-Neither Remote Assist on HoloLens or mobile is available for the Department of Defense.
+Remote Assist on HoloLens and mobile are *unavailable* for the Department of Defense.
 
 
 ### See also
