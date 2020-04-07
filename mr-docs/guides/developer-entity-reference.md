@@ -1,3 +1,13 @@
+---
+author: Mamaylya
+description: Learn about Dynamics 365 Guides entities that you can use to extend Dynamics 365 if you're a developer.
+ms.author: mamaylya
+ms.date: 04/28/2020
+ms.service: crm-online
+ms.topic: article
+title: Entity Reference for Dynamics 365 Guides (for developers)
+ms.reviewer: v-brycho
+---
 
 # Entity Reference for Dynamics 365 Guides (for developers)
 
