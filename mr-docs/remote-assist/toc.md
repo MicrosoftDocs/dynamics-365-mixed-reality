@@ -27,7 +27,6 @@
 ### [Close the app](close-app-hololens.md)
 ### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
-### [How-to-videos](videos.md)
 
 ## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
