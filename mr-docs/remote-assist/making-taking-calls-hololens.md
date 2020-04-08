@@ -10,16 +10,22 @@ ms.reviewer: krbjoran
 ---
 # Making and taking calls in Dynamics 365 Remote Assist on HoloLens 
 
-When using Remote Assist on HoloLens:
-* You can collaborate with a Teams desktop user in a one-to-one call, group call, or meeting scheduled using Microsoft Teams or Outlook
-* You can collaborate with a Teams mobile user in a one-to-one call
-* You **cannot** collaborate with a Remote Assist user (neither Remote Assist HoloLens user nor Remote Assist mobile user)
+## Definitions
 
 A **one-to-one call** includes two participants. For example, if you’re repairing a machine and need help on-the-go, you can make a one-to-one call to a remote collaborator who uses Teams.
 
 A **group call** includes three or more participants. For example, if you’re inspecting an asset in a one-to-one call but need a third person’s expertise, any participant can add the third person to the call to form a group call.  
 
 A **meeting** is a call scheduled using Teams or Outlook. It can include any number of participants. For example, if you want to have a weekly inspection with your team, you can create a meeting so that everyone receives notifications about the meeting and can join the meeting.
+
+## Supported scenarios
+
+The following scenarios are supported when using Remote Assist on HoloLens:
+
+* You can collaborate with a Teams desktop user in a one-to-one call, group call, or meeting scheduled using Microsoft Teams or Outlook
+* You can collaborate with a Teams mobile user in a one-to-one call
+
+Collaboration between Remote Assist users is not a supported scenario. 
 
 ## Make a one-to-one call to a contact in your company
 
