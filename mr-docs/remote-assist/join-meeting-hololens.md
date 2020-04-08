@@ -15,7 +15,7 @@ A Microsoft Teams meeting is a meeting scheduled using Teams involving any numbe
 > [!Note]
 > If a remote collaborator using Teams desktop joins a meeting, you will not receive a call or notification, regardless of whether you are in the app. You must select **Join Meeting** (or say "Remote Assist, Join meeting") to join the meeting. In addition, calling the participants involved in a scheduled meeting will not enable you to join the meeting; you must actually join the meeting. 
 
-If for some reason you're unable to join the meeting, you may also ask the Teams desktop user to join the meeting and use the **Open Participants** feature to call you. You'll receive an incoming call notification. Accept the call using audio or video, and you will join the meeting. 
+If for some reason you're unable to join the meeting, you may also ask the remote collaborator using Teams desktop to join the meeting and use the **Open Participants** feature to call you. You'll receive an incoming call notification. Accept the call using audio or video, and you will join the meeting. 
 
 ![Screenshot of the HoloLens field of view, showing the join meeting option at the bottom.](media/HL2-01.00-meeting-notifcation.png "JoinMeeting")
 
