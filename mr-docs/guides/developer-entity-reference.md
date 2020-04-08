@@ -23,7 +23,7 @@ at this time, we recommend that you use Dynamics 365 Guide entities and fields f
 testing only when using the Web API or creating an app with [Power Apps](https://powerapps.microsoft.com/en-us/) or a flow with 
 [Power Automate](https://flow.microsoft.com/en-us/). This is because we anticipate these entities will evolve quickly in the near future. 
 If you have an urgent need to do a business-critical integration, contact the Dynamics 365 Guides team directly for guidance through 
-your Microsoft Account team.<br>Also, be careful when programmatically creating, updating, or deleting Dynamics 365 Guides entity records. 
+your Microsoft Account team.<br><br>Also, be careful when programmatically creating, updating, or deleting Dynamics 365 Guides entity records. 
 Some entities have a dependency on other entities to provide user experiences and functionalities in the PC and HoloLens apps. 
 Manipulating these entities programmatically may prevent you from using the functionalities in the intended and supported way.
 
