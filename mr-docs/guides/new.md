@@ -23,6 +23,7 @@ Version XXXXXXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 |<a href="URL GOES HERE" target="_blank">Access Dynamics 365 Guides content through Common Data Service entities</a>|Yes|
+|<a href="URL GOES HERE" target="_blank">Integrate the Asset Management module of Dynamics 365 Supply Chain Management with Dynamics 365 Guides</a>|Yes|
 |<a href="URL GOES HERE" target="_blank">Rename guides in the PC app</a>|Yes|
 
 > [!NOTE]
