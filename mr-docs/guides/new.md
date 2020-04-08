@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 04/01/2020
+ms.date: 04/28/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -15,6 +15,16 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 > [!IMPORTANT]
 > An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution will be released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.<br><br>Any updates to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released after May 26 will require the April 28, 2020 solution. You have until May 26  to install the solution update. All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released on or after May 26 will be backward compatible up to the April 28, 2020 version of the solution.<br><br>If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact; you will be able to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with the existing feature set.<br><br>To schedule a solution update, work with your IT admin.<br><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
+
+## April 28, 2020
+
+Version XXXXXXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and version XXXXXX of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution include the following new features.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+|<a href="URL GOES HERE" target="_blank">Access Dynamics 365 Guides content through Common 
+Data Service entities</a>|Yes|
+|<a href="URL GOES HERE" target="_blank">Rename guides in the PC app</a>|Yes|
 
 ## April 1, 2020
 
