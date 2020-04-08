@@ -100,11 +100,6 @@ After you've made sure that your [!include[pn-hololens](../includes/pn-hololens.
 
     ![Select Mode dialog box](media/select-mode.png "Select Mode dialog box")
 
-> [!TIP]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an example guide that you can use to get ideas for your own guides. Check it out!
->
-> ![Example guide](media/example-guide-hololens.png "Example guide")
-
 ## What's next?
 
 [Anchor your guide](hololens-app-anchor.md)<br>
