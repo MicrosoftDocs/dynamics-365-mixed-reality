@@ -25,6 +25,9 @@ Version XXXXXXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)
 |<a href="URL GOES HERE" target="_blank">Access Dynamics 365 Guides content through Common Data Service entities</a>|Yes|
 |<a href="URL GOES HERE" target="_blank">Rename guides in the PC app</a>|Yes|
 
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <https://aka.ms/GuidesIdeas>.
+
 ## April 1, 2020
 
 Version 305.2003.28001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and version 300.0.5.127 of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution include the following new features.
@@ -33,9 +36,6 @@ Version 305.2003.28001 of the PC and [!include[pn-hololens](../includes/pn-holol
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process" target="_blank">Restrict access to guides that aren't ready to share with operators</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Sort items in the PC app gallery by recently added, or by name</a> | No |
-
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <https://aka.ms/GuidesIdeas>.
 
 ## February 25, 2020
 
