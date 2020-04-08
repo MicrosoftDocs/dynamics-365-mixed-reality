@@ -12,8 +12,8 @@ ms.reviewer: v-brycho
 # Entity Reference for Dynamics 365 Guides (for developers)
 
 When a guide is created using the Dynamics 365 Guides PC application, content and information in that guide is stored using the 
-following Dynamics 365 Guides [entities](https://docs.microsoft.com/powerapps/maker/common-data-service/entity-overview) 
-in [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro).
+Dynamics 365 Guides [entities](https://docs.microsoft.com/powerapps/maker/common-data-service/entity-overview) from 
+the [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) listed in the table below.
 
 >[!IMPORTANT]
 >All entities installed as a part of the Dynamics 365 Guides solution support the standard extensibility/programming model in 
