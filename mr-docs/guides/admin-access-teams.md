@@ -59,7 +59,7 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 
     ![Enter a name for the new role](media/access-teams-4.PNG "Enter a name for the new role")
 
-5. On the **Security Role: Dynamics 365 Guides Restricted Operator** page, on the **Custom Entities** tab, in the row for the **Guide** entity, select the circle in the second column to change the **Read** privileges from the **Organization** level to the **User** level. When you've finished, select **Save and Close** at the top of the page.
+5. On the **Security Role: Dynamics 365 Guides Restricted Operator** page, on the **Custom Entities** tab, in the rows for the **Guides** entities, select the dots in the second column as shown below to change the Read privileges from **Organization** level to **User** level. When you're finished, select **Save and Close** at the top of the page.
 
     > [!NOTE]
     > The **Key** section at the bottom of the page describes the different privilege levels. For more information, see [Security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges).
