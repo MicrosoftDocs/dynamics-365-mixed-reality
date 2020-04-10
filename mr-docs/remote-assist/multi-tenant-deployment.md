@@ -50,6 +50,8 @@ Now, Company ABC must set up **Federation** or **Guesting** to enable users in d
 
 ### Solution 1: Federation
 
+[!NOTE] At this time, federation is only supported for calls with Remote Assist HoloLens users.
+
 **Federation** is a Microsoft Teams feature that allows other tenant domains to communicate with people in your tenant. There are three types of federation options: 
 
 - Open federation
@@ -59,7 +61,7 @@ Now, Company ABC must set up **Federation** or **Guesting** to enable users in d
 >[!NOTE]
 > For more information, see the Microsoft Teams [article on managing external access](https://docs.microsoft.com/microsoftteams/manage-external-access#plan-for-external-access).
 
-Figure 1.2 shows that Tenant ABC is federated with Tenant Contoso1, and Tenant ABC is also federated with Tenant Contoso2. Now, experts in Tenant ABC can search and collaborate with technicians in Contoso1. Experts in Tenant ABC can also search and collaborate with technicians in Contoso2. Technicians in Tenant Contoso1 cannot search or collaborate with technicians in Tenant Contoso2.
+Figure 1.2 shows that Tenant ABC is federated with Tenant Contoso1, and Tenant ABC is also federated with Tenant Contoso2. Now, experts in Tenant ABC can search and collaborate with technicians in Contoso1. Experts in Tenant ABC can also search and collaborate with technicians in Contoso2. Technicians in Tenant Contoso1 cannot search or collaborate with technicians in Tenant Contoso2, and vice versa.
 
 **Figure 1.2**
 ![Diagram showing how the different tenants relate to one another.](media/Federation.png)
