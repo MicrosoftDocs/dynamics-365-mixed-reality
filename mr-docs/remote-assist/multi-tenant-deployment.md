@@ -26,7 +26,7 @@ Throughout this article, we'll be referring to a few account types:
 1. **Internal account**: An Azure Active Directory (Azure AD) account that is created in your tenant for internal users.
 2. **Guest account**: An Azure AD account that is created in your tenant when you provide an out-of-tenant user with guest access in one or more Teams teams or channels. You can "guest" an out-of-tenant user into your tenant using their email.
     1. If that user's email is already associated with an Azure AD account in one other tenant, that user is now part of two tenants: that user is a member of their native tenant and a guest in your tenant.
-    2. If that user's email is not already associated with an Azure AD account in any another tenant, that user is now part of one tenant: that user is a guest in your tenant.
+    2. If that user's email is not already associated with an Azure AD account in any other tenant, that user is now part of one tenant: that user is a guest in your tenant.
 
 
 ## Scenario overview
@@ -36,9 +36,9 @@ In this scenario, which is represented in Figure 1.1, a company leverages multip
 Additional details:
 - Each technician in Tenant Contoso1 and Tenant Contoso2 already has a Remote Assist license and Teams license.
 - Each expert in Tenant ABC already has a Teams license. Experts who use Teams do not need a Remote Assist license. 
-- Teams users in Tenant ABC want to search and collaborate with Remote Assist users in Tenant Contoso1. 
-- Teams users in Tenant ABC want to search and collaborate with Remote Assist users in Tenant Contoso2. 
-- Remote Assist users in Tenant Contoso1 do not want to search or collaborate with Remote Assist users in Tenant Contoso2.
+- Teams users in Tenant ABC want to search and collaborate with Remote Assist users in Tenant Contoso1, and vice versa.
+- Teams users in Tenant ABC want to search and collaborate with Remote Assist users in Tenant Contoso2, and vice versa.
+- Remote Assist users in Tenant Contoso1 do not want to search or collaborate with Remote Assist users in Tenant Contoso2, and vice versa.
 
 **Figure 1.1**
 ![Diagram showing tenant ABC needing to communicate with several external tenants.](media/MultiTenant.png)
