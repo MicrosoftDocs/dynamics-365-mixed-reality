@@ -9,7 +9,7 @@ title: Multi-tenant company deployments
 ms.reviewer: krbjoran
 ---
 
-# Multi-tenant company deployments
+# Multi-tenant collaboration
 
 A Dynamics 365 Remote Assist call involves one party using Remote Assist (a "Remote Assist user") and the other using Microsoft Teams (a "Teams user"). In most cases, employees who want to use Remote Assist and employees who want to use Teams belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
 
