@@ -75,7 +75,7 @@ After launching Teams, select the **Calls** tab on your left to see suggested co
 You can search, call, and receive a call from a Remote Assist user in another tenant if your tenant is federated with that tenant. When searching for this Remote Assist user, you must enter their full email address.
 
 >[!Note]
-> If you're not able to find the contact you're looking for, it might be because Teams federation (i.e., "[Teams external access](https://docs.microsoft.com/en-us/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.  
+> If you're not able to find the contact you're looking for, it might be because Teams federation (i.e., "[Teams external access](https://docs.microsoft.com/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.  
 
 ### Make a group call (with a Remote Assist HoloLens user only)
 
@@ -246,7 +246,8 @@ The comparison chart mentions that when you create a cloud-based recording using
 
 In a call recording with two participants, each participant’s outgoing video (or avatar) occupies one half of the recording, and both halves are vertical. This means that during a Remote Assist call, a Teams desktop user sees a horizontal slice of the HoloLens user's view, but the recording only captures the middle vertical slice of the HoloLens user's view. Furthermore, during the Remote Assist call, the Teams desktop user only sees their outgoing video feed in the corner of the call, but in the recording, the Teams desktop user's outgoing video feed occupies half the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy half the recording.)
 
->[!Tip] To ensure that critical information is captured in the recording, the HoloLens user must keep it in the center of their view. 
+>[!Tip] 
+> To ensure that critical information is captured in the recording, the HoloLens user must keep it in the center of their view. 
 
 ![Screenshot of Teams desktop showing a call between one desktop user and a HoloLens user with the screen split down the middle.](media/2call.png)
 
@@ -307,7 +308,7 @@ For more information, [learn more about the Game bar](https://support.xbox.com/x
 
 ### Record the HoloLens user's view using HoloLens OS
 
-[Learn more](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/record-calls-hololens#use-the-hololens-os-to-record-only-what-you-see-in-the-hololens-what-you-hear-around-you-and-what-you-hear-through-the-hololens-speakers) about how the HoloLens user can use the HoloLens OS to record what they see. 
+[Learn more](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#use-the-hololens-os-to-record-only-what-you-see-in-the-hololens-what-you-hear-around-you-and-what-you-hear-through-the-hololens-speakers) about how the HoloLens user can use the HoloLens OS to record what they see. 
 
 ## Send a text message 
 
