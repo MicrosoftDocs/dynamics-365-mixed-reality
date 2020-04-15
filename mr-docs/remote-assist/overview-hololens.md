@@ -104,7 +104,7 @@ You can interact with Remote Assist just like you do with the HoloLens 2 operati
 
 ## Benefits of integrating with Dynamics 365 Field Service  
 If your organization uses Dynamics 365 Field Service to manage work orders, the technician using HoloLens can view Dynamics 365 Field Service bookings from Remote Assist and do heads-up, hands-free calling in the context of a Field Service booking. For example, the technician can: 
-- View booking details.
+- View booking details
 - Quickly call the assigned collaborator  
 - Save snapshots to a booking
 - Save call artifacts to the work order that the booking is associated with, including the call log and files shared during the call
