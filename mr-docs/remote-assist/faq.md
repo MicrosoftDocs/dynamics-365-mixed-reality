@@ -25,7 +25,7 @@ Learn about the technical requirements [here](requirements.md).
 
 ### Can I use Dynamics 365 Remote Assist to collaborate with a Microsoft Teams user outside my tenant, or vice versa?
 
-Yes. Learn how to [set up  multi-tenant company deployments](multi-tenant-deployment.md) or [enable vendors and contractors to use Remote Assist](vendor-use-ra).
+Yes. Learn how to [set up  multi-tenant company deployments](multi-tenant-deployment.md) or [enable vendors and contractors to use Remote Assist](vendor-use-ra.md).
 
 ### How do I set up Dynamics 365 Field Service to work with Dynamics 365 Remote Assist?
 
@@ -41,7 +41,7 @@ In Remote Assist HoloLens, go to **Settings**, and then find the version number 
 
 Remote Assist on HoloLens is available in English. As of October 2018, it's also [available in Simplified Chinese and Japanese](https://docs.microsoft.com/windows/mixed-reality/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](https://docs.microsoft.com/hololens/hololens1-install-localized).
 
-Remote Assist on HoloLens 2 is available in the [following languages](https://docs.microsoft.com/en-us/hololens/hololens2-language-support).
+Remote Assist on HoloLens 2 is available in the [following languages](https://docs.microsoft.com/hololens/hololens2-language-support).
 
 ### Why am I not getting incoming call notifications?
 
