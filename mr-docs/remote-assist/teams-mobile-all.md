@@ -2,7 +2,7 @@
 author: sophiasysun
 description: Collaborate with a Remote Assist user via Microsoft Teams on mobile
 ms.author: sopsun
-ms.date: 02/17/2020
+ms.date: 04/15/2020
 ms.service: crm-online
 ms.topic: article
 title: Collaborate with a Remote Assist user via Microsoft Teams on mobile

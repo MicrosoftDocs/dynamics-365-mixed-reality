@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 
 Once you have either a [trial](try-remote-assist.md) or have [purchased](buy-remote-assist.md) for Dynamics 365 Remote Assist, you can assign licenses to users. Once assigned, users can deploy Remote Assist on their individual devices.
 
-> [!NOTE]
+> [!Note]
 > There are two types of users for Remote Assist and Remote Assist Attach: remote experts and field service technicians. Field service technicians require a Remote Assist **and** a Microsoft Teams license. When you buy Remote Assist licenses, Micrsoft Teams licenses are included. However, remote experts (who aren't in the field) require only a Microsoft Teams license. For more information, visit the article on [deploying Microsoft Teams licenses in your organization](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/use-microsoft-teams-with-remote-assist).
 
 In this article, we’ll walk through how to deploy Remote Assist or Remote Assist Attach (for Field Service customers): 
@@ -28,7 +28,8 @@ You can also learn how to configure [deploy multi-tenant company deployments](mu
 - You'll need either a free trial of Remote Assist, or have purchased licenses. Visit our articles on [free trials](try-remote-assist.md) and [buying Remote Assist](buy-remote-assist.md) for more information.
 - Make sure that users in your organization have the required licensing and devices. For more information, visit the article on [licensing and product requirement](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
->[!Note] The Teams license that is included with a Remote Assist license enables Remote Assist users to collaborate with Teams users and use most Remote Assist features. However, some features, such as sharing files from OneDrive and saving snapshots to OneDrive, require an Office 365 license. To use all Remote Assist features, a Remote Assist user must use the Teams license that is included with a [Office 365 Business Premium or Office 365 Business Essentials license](https://products.office.com/compare-all-microsoft-office-products?&activetab=tab:primaryr2). Learn more about how to [manage Office 365 licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
+>[!Note] 
+> The Microsoft Teams license included with Remote Assist allows you to collaborate with Teams users and use *most* Remote Assist features. Additional features that use other products (for instance, OneDrive for file sharing) require an [Office 365 Business Premium or Office 365 Business Essentials license](https://products.office.com/compare-all-microsoft-office-products?&activetab=tab:primaryr2). Learn more about how to [manage Office 365 licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
 
 ### Adding and assigning licenses
 Once prerequisites are met, you can now add and assign licenses to *individual users* or a *group of users* in your organization through the Microsoft 365 or Office 365 administrator portal. 

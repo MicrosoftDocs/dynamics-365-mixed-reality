@@ -29,7 +29,7 @@ Yes. Learn how to [set up  multi-tenant company deployments](multi-tenant-deploy
 
 ### How do I set up Dynamics 365 Field Service to work with Dynamics 365 Remote Assist?
 
-To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 Remote Assist so that a firstline worker can call an expert in the context of a Field Service booking, see [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](troubleshoot-field-service.md).
+To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 Remote Assist so that a first line worker can call an expert in the context of a Field Service booking, see [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](troubleshoot-field-service.md).
 
 ## Using Remote Assist on HoloLens or HoloLens 2 
 
@@ -39,7 +39,7 @@ In Remote Assist HoloLens, go to **Settings**, and then find the version number 
 
 ### What languages is Remote Assist HoloLens available in?
 
-Remote Assist on HoloLens is available in English. As of October 2018, it is also [available in Simplfied Chinese and Japanese](https://docs.microsoft.com/en-us/windows/mixed-reality/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](https://docs.microsoft.com/en-us/hololens/hololens1-install-localized).
+Remote Assist on HoloLens is available in English. As of October 2018, it's also [available in Simplified Chinese and Japanese](https://docs.microsoft.com/windows/mixed-reality/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](https://docs.microsoft.com/hololens/hololens1-install-localized).
 
 Remote Assist on HoloLens 2 is available in the [following languages](https://docs.microsoft.com/en-us/hololens/hololens2-language-support).
 
@@ -49,8 +49,7 @@ This can happen if you’re signed in to Remote Assist with a different account 
 
 ### I see a message saying I have no internet connection.
 
-To use Remote Assist, you need an internet connection. Learn how to connect HoloLens to the internet
-[connected to Wi-Fi](https://support.microsoft.com/help/12629).
+To use Remote Assist, you need an internet connection. For more information about connecting to the internet on your HoloLens, visit [this support article](https://support.microsoft.com/help/12629).
 
 ### Remote Assist is frozen or unresponsive.
 

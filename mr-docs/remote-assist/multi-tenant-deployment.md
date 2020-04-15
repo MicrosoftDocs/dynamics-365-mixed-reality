@@ -84,7 +84,7 @@ In Figure 1.2, Tenant ABC and Tenant Contoso1 have enabled external access with 
 
 If you are following the steps in the [Deploy HoloLens in a commercial environment](https://docs.microsoft.com/hololens/hololens-requirements#apps) article, go back to that document before implementing this solution.
 
-Learn how to implement the three types of external access and test your set up [here](https://docs.microsoft.com/en-us/microsoftteams/manage-external-access#allow-or-block-domains). 
+Learn how to implement the three types of external access and test your setup [here](https://docs.microsoft.com/en-us/microsoftteams/manage-external-access#allow-or-block-domains). 
 
 ### Solution 2: Guest access
 
