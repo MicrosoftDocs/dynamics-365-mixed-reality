@@ -12,8 +12,6 @@ ms.reviewer: krbjoran
 
 When you use Remote Assist on HoloLens or HoloLens 2, you can collaborate with one or more Teams desktop users or one Teams mobile user. Remote Assist on HoloLens and HoloLens 2 offer the same capabilities; however, there are slight differences in the way you interact with holograms. Those differences are called out throughout this document. 
 
-To learn how to use these features, watch these [how-to-videos](videos.md) and read this article for additional details.  
-
 ## Overview of core features
 
 When you launch Remote Assist, you’ll see your recent contacts. When you join a call or meeting, you will see a video card.  
@@ -36,16 +34,16 @@ The previous screenshot shows the settings screen. When you’re outside a call,
 
 The previous screenshot shows a video card. When you’re in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars of all call participants.  
 
-You can make a one-to-one or group call on Remote Assist call on HoloLens. You can also join a meeting scheduled using Teams or Outlook. 
+As a Remote Assist HoloLens user, you can make or join a one-to-one call, group call, or meeting scheduled using Teams or Outlook. 
 
-Remote collaborators can join the call using Microsoft Teams PC application or mobile application.  
+Remote collaborators can join the call using Microsoft Teams desktop application or mobile application.  
 
 In a call, remote collaborators can see everything you see – including holograms and the real world behind the holograms – and can add annotations, insert files into your world, and more.   
 
 A good way to learn Remote Assist features and voice commands is to say "Remote Assist." When you’re in a call, the app will show what it believes you said by showing a check mark and "Remote Assist." Then, the app will show the name of each button, as you see in the previous video call screenshot. After a few seconds, these labels will automatically disappear. 
 
 If you'd like to see the button labels after they disappear: 
-- If you’re using Remote Assist on HoloLens, extend your arm and hover the ray over the buttons.
+- If you’re using Remote Assist on HoloLens, hover your gaze cursor over each button.
 - If you’re using Remote Assist on HoloLens 2 and Remote Assist UI is within your reach, hover your finger over the buttons. If Remote Assist UI is out of reach, extend your arm and hover the ray over the buttons.
 
 You have many options for communicating with remote collaborators. Everyone in the call can: 
@@ -60,23 +58,17 @@ You can also take a photo of what you see using the Camera icon, as seen here: !
 
 Finally, place the call window wherever you want in your world by toggling **Pin** and **Unpin** ![Pin](media/RAHL_Pin.png "Pin"). 
 
-Remote Assist supports different languages on HoloLens versus HoloLens 2. Check if your language is supported in Remote Assist in [our FAQs](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-is-dynamics-365-remote-assist-hololens-available-in).
+Remote Assist supports different languages on HoloLens versus HoloLens 2. Check if your language is supported in Remote Assist in [our FAQs](faq.md).
 
 > [!Note]
-> Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens gestures](https://docs.microsoft.com/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](https://docs.microsoft.com/hololens/hololens2-basic-usage) before reading the rest of this document.
+> Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens gestures](https://docs.microsoft.com/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](https://docs.microsoft.com/hololens/hololens2-basic-usage) before reading the rest of this document. You may also watch how-to videos showing how to use Remote Assist features on HoloLens. 
 
 
 ## Collaborating with a Teams desktop user versus a Teams mobile user
 
-The only difference between collaborating with one or more Teams desktop users versus collaborating with one Teams mobile user is that a Teams desktop user can initiate a Teams cloud-based recording of a group call. A Teams mobile user cannot initiate cloud-based recordings of a group call. The difference is indicated in bold in the following table. 
+A Remote Assist HoloLens user can be in one-to-one call, group call, or meeting with a Teams desktop user.
 
-| In a...  |Can a Remote Assist HoloLens user record?     |  Can a Teams desktop user record? |  Can a Teams mobile user record?  |  
-|---|---|---|---| 
-|  One-to-one call |  Available in April 2020 release |  Only if Teams desktop user initiates call using [**Meet Now** feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#method-2-cloud-based-recording-for-one-to-one-calls-using-teams-meet-now-feature) |  No |   
-|  Group call |  No | **Yes** |  **No**|   
-|  Meeting | No  |  Yes | Yes  |   
-
-
+A Remote Assist HoloLens user can be in one-to-one call with a Teams mobile user.
 
 ## Prerequisites
 
@@ -84,7 +76,7 @@ The only difference between collaborating with one or more Teams desktop users v
 - HoloLens or HoloLens 2 running the [Windows 10 April 2018 update](requirements.md) 
 - Remote collaborator using Teams desktop app or Teams mobile app  
 - An internet connection. At least [1.5 mpbs of bandwidth is recommended](https://docs.microsoft.com/microsoftteams/upgrade-prepare-environment-prepare-network#bandwidth-planning).
-- To connect to Dynamics 365 Field Service from within Dynamics 365 Remote Assist, you’ll need a Dynamics 365 license. 
+- (Optional) To connect to Dynamics 365 Field Service from within Dynamics 365 Remote Assist, you’ll need a Dynamics 365 license. 
 - Know your credentials for signing into the HoloLens and Remote Assist 
 - Remote Assist is installed on your HoloLens or HoloLens 2 
 
@@ -112,7 +104,7 @@ You can interact with Remote Assist just like you do with the HoloLens 2 operati
 
 ## Benefits of integrating with Dynamics 365 Field Service  
 If your organization uses Dynamics 365 Field Service to manage work orders, the technician using HoloLens can view Dynamics 365 Field Service bookings from Remote Assist and do heads-up, hands-free calling in the context of a Field Service booking. For example, the technician can: 
-- View booking details.
+- View booking details
 - Quickly call the assigned collaborator  
 - Save snapshots to a booking
 - Save call artifacts to the work order that the booking is associated with, including the call log and files shared during the call

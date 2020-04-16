@@ -15,9 +15,9 @@ A Remote Assist call involves one party (technician) using Remote Assist and the
 
 However, there are certain scenarios where this may not be the case: 
 
-1. **Multi-tenant company deployments** - a company has a multi-tenant configuration across different organizations or business units. [Learn more about this scenario.](multi-tenant-deployment.md) 
+1. **Multi-tenant company deployments**: A company has multiple organizations or business units, each with their own tenant, that want to collaborate using Remote Assist. Or, multiple companies want to collaborate using Remote Assist. Users who want to use Remote Assist already have Remote Assist licenses, and users who want to use Teams already have Teams licenses. Learn more about multi-tenant collaboration in this document. [Learn more about this scenario.](multi-tenant-deployment.md) 
 
-2. **Vendors and contractors use Remote Assist** - a company wants vendors and contractors that aren’t part of the company tenant to use Remote Assist. This document focuses on this scenario.
+2. **Vendors and contractors use Remote Assist**: A company wants vendors and contractors who do not already have Remote Assist and aren’t part of the company tenant to use Remote Assist. This document focuses on this scenario.
 
 > [!Note] 
 > This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Remote Assist, please contact your Microsoft sales representative.
@@ -72,7 +72,7 @@ Information barrier policies determine and prevent the following kinds of unauth
 
 You can segment users based on different attributes, such as what department they belong to, what Azure AD group they are a member of, or even by their usage location. A full list of attributes can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-attributes?view=o365-worldwide#reference). To see how an organization might approach defining segments and policies, consider the following [example](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide#example-contosos-departments-segments-and-policies). A downloadable Excel workbook is available to help you plan and define your segments and policies (and create your PowerShell cmdlets). [Download the workbook (xlsx file).](https://github.com/MicrosoftDocs/OfficeDocs-O365SecComp/raw/public/SecurityCompliance/media/InfoBarriers-PowerShellGenerator.xlsx). Additional information about information barriers can be found [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide).
 
-1. Buy the correct licenses
+3. Buy the correct licenses
 
 Learn about [licenses required to use Remote Assist](requirements.md).
 
