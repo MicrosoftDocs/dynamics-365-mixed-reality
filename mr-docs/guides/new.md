@@ -133,7 +133,7 @@ Version 103.1907.4001.0 of the PC and [!include[pn-hololens](../includes/pn-holo
  
 ## June 3, 2019
 
-Version 103.1905.31001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps includew the following new features.
+Version 103.1905.31001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps includes the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|-------|
