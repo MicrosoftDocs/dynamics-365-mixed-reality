@@ -8,6 +8,8 @@ Asset Management work order, the worker can see that a guide is available throug
 Finance and Operations (Dynamics 365) mobile app. The worker can then find and open the guide from the Dynamics 365 Guides HoloLens app.
 
  ![Integrated Asset Mananagement guide](media/asset-management.png "Integrated Asset Management guide")
+ 
+ ![Open guide on HoloLens](media/asset-management-select-guide.png "Open guide on HoloLens")
 
 [Learn more about integrating Asset Management with Dynamics 365 Guides]()
 
