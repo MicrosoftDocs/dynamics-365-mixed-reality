@@ -33,11 +33,11 @@ Let's take a look at what this looks like in action. In this article, we assume 
 
 ![Screenshot of the Start Editing option in the Microsoft Teams meeting toolbar.](./media/teams_2.png "Start Edit")
 
-3. You will enter a **frozen frame** of the technician's environment and then add your annotations. Your annotations will automatically appear on the technician's environment.
+3. You will enter a **frozen frame** of the technician's environment and then you can add your annotations onto the frozen frame. 
 
 ![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams showing an annotated image of the technician's environment](./media/annoenvt.png "Expert Snapshot Mode")
 
-4. To stop adding annotations to the snapshot, you must select **Stop editing**. You will return to the technician's live video feed.
+4. To stop adding annotations to the snapshot, you must select **Stop editing**. You will return to the technician's live video feed and your annotations will automatically appear on the technician's environment.
 
 ![Screenshot of a Microsoft Teams call window with emphasis on the stop editing button.](./media/teams_4.png "Stop Edit")
 ###
