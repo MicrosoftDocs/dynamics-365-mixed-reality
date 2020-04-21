@@ -216,6 +216,10 @@ Limitations that may hinder accurate understanding of surfaces or facilitate in 
 * **Can I make or be in a group call or a call with three or more participants?** No, not at this time. 
 * **Can I be in a meeting?** No, not at this time. 
 
+### Does Remote Assist mobile support the ability to see both the live video feed from the rear-facing camera, as well as, the technician's face from the front-facing camera ?
+
+No, just the rear-facing camera at this time. 
+
 ### What countries is Remote Assist for Mobile supported?
 
 On **Android** devices, Remote Assist mobile is available in 146 countries, but not available in Cuba, Sudan or Iran. It's also usable in China when connecting to global tenants, but not in the store currently (we are working on that).
