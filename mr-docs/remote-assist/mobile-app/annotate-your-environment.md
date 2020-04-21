@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Annotate your environment 
 
-In Dynamics 365 Remote Assist mobile, annotations make it so technicians and remote experts can visually specify an area or particular asset in their environment to look at or manipulate. Both the technician and expert can add annotations to what they're looking at, and share with each other during a video call. 
+In Dynamics 365 Remote Assist mobile, annotations make it so technicians and remote collaborators can visually specify an area or particular asset in their environment to look at or manipulate. Both the technician and remote collaborator can add annotations to what they're looking at, and share with each other during a video call. 
 
 Let's take a look at what this looks like in action. In this article, we assume that a **field technician** is using **Remote Assist mobile** in the field, while the **remote collaborator** is elsewhere on a desktop or mobile device using **Microsoft Teams**.
 
@@ -23,9 +23,9 @@ Let's take a look at what this looks like in action. In this article, we assume 
 ![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/annoenvt_2.png "Place Annotations")
 ###
 
-## Annotating for remote experts
+## Annotating for remote collaborators
 
-1. The annotation toolbar allows experts to place **Arrows** and **Drawings** into their environment. The **Color Picker** changes the color of your annotations. The **Undo** icon allows experts to remove the last annotation that they placed in their environment. The **Delete All** icon allows experts to remove all annotations that they placed in their environment (they cannot remove the technician’s annotations).
+1. The annotation toolbar allows remote collaborators to place **Arrows** and **Drawings** into their environment. The **Color Picker** changes the color of your annotations. The **Undo** icon allows remote collaborators to remove the last annotation that they placed in their environment. The **Delete All** icon allows remote collaborators to remove all annotations that they placed in their environment (they cannot remove the technician’s annotations).
 
 ![Screenshot of the Microsoft Teams meeting toolbar, pointing out what each icon means. The arrow icon is the arrow tool. The pen icon is the inking too. The colored square is the color picker. The left-pointing arrow is the undo option. The trash can is delete all.](./media/mrtoolbar.png "MR Toolbar")
 
