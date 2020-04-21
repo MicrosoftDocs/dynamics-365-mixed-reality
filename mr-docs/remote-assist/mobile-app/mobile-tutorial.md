@@ -15,6 +15,8 @@ Dynamics 365 Remote Assist mobile includes an in-app, guided tutorial for techni
 -	map their environment for better tracking of surfaces
 -	place and manipulate annotations, such as the arrow and the ink tool
 
+Also, find out how to better track your environment in the additional tips for better tracking section below.
+
 ## Prerequisites 
 - Allow Remote Assist mobile to access your device's camera. 
 
@@ -53,10 +55,7 @@ Dynamics 365 Remote Assist mobile includes an in-app, guided tutorial for techni
 ![Screenshot of Remote Assist mobile on a phone, showing the other menu options.](./media/learntools_10.png "Other")
 
 
-## Additional notes 
-
-### What are the yellow tracking dots?
-- Yellow tracking dots are feature points that detect visually distinct features in your video calls. These dots help with your tracking experience and the placing of annotations. 
+## Additional tips for better tracking
 
 ### Techniques to improve the tracking experience
 - Map your environment area at the beginning of a video call.
