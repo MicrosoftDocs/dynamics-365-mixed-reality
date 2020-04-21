@@ -20,14 +20,13 @@ Technicians can provide feedback or make requests directly in the Remote Assist 
 
 ![Screenshot of Remote Assist mobile, showing the Main Menu icon highlighted.](./media/mainmenu.png)
 
-1. Select **Feedback**. 
+2. Select **Feedback**. 
 
 >[!Note]
 > To provide feedback, you'll need to have the native iOS Mail app set up if you're on an iPhone. On Android devices, you'll be able to select which mail app you'd like to open.
 
 ![Screenshot of Remote Assist mobile, showing the Feedback option in the menu.](./media/feedback.png)
 
-
-2. Provide your feedback.
+3. Provide your feedback.
 
 
