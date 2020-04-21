@@ -23,7 +23,7 @@
 #### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
-#### [Dynamics 365 Supply Chain Management (Asset Management)](admin-integrate-asset-management.md)
+#### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ## I'm an author
 ### [Authoring overview](authoring-overview.md)
