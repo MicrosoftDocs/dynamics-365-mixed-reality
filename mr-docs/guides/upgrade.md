@@ -94,7 +94,7 @@ To resolve this issue, we suggest reviewing and fixing the JSON file before doin
 
 #### Manually update the schema
 
-- At the top of the screen, select **Flow**, and then select **Update guide schema**.
+- At the top of the screen, select **Flow**, and then select **Upgrade guide schema**.
 
    ![Update guide schema](media/upgrade-guide-schema.jpg "Update guide schema")
 
