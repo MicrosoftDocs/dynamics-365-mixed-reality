@@ -84,7 +84,7 @@ To resolve this issue, we suggest reviewing and fixing the JSON file before doin
    
 6. To remove the existing JSON file, hover over the **Note** button, select the **Edit** button, and then select the **X**.  
 
-    ![Remove JSON file](media/remove-JSON-file.jpg "Remove JSON file")
+    ![Remove JSON file](media/remove-json-file.PNG "Remove JSON file")
    
 7.	Upload the JSON file you modified by selecting the **Attach** button.
 
