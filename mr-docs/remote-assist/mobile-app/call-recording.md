@@ -16,7 +16,7 @@ With call recording, technicians can comprehensively document their Remote Assis
 - **Validation** that the maintenance and repair process was completed correctly.
 - **Training material** for their workers.
 
-This feature is only available for **one-to-one calls between a Remote Assist user and a Teams desktop user**. Only the Remote Assist user can start and stop a call recording. After the call recording ends, it is automatically uploaded to **Microsoft Stream**. After the recording is uploaded, all call participants can access it via their Remote Assist mobile call text chat or the Microsoft Teams chat. The Remote Assist mobile user, who started the call recording, can also see it in their Microsoft Stream videos folder.
+This feature is only available for **one-to-one calls between a Remote Assist user and a Teams desktop user**, ***not a Teams mobile user***. Only the Remote Assist user can start and stop a call recording. After the call recording ends, it is automatically uploaded to **Microsoft Stream**. After the recording is uploaded, all call participants can access it via their Remote Assist mobile call text chat or the Microsoft Teams chat. The Remote Assist mobile user, who started the call recording, can also see it in their Microsoft Stream videos folder [here](https://web.microsoftstream.com/studio/videos).
 
 ## How it works
 
