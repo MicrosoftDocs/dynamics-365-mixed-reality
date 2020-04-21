@@ -76,7 +76,7 @@ To resolve this issue, we suggest reviewing and fixing the JSON file before doin
     ![Select the guide](media/select-problem-guide.jpg "Select the guide")
 
     >[!NOTE]
-    >If the JSON file has not been previously edited, you can go directly to [updating the schema](ADD URL HERE!!!).
+    >If the JSON file has not been previously edited, you can go directly to [updating the schema]().
 
 5. Under **Note modified by MOD Administrator**, select the JSON file to download, and then open the file in any code editor to make any required changes. 
 
