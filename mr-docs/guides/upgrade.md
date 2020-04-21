@@ -50,7 +50,7 @@ In rare cases, the conversion of a guide from schema v3 to v4 may be unsuccessfu
 
 If a guide wasn’t converted successfully, authors or operators will see this error message when they try to open it: “Guide cannot be opened”. 
 
-![Guide cannot be opened message](media/guide-not-opened.PNG "Guide cannot be opened message")
+![Guide cannot be opened message](media/guide-not-opened.JPG "Guide cannot be opened message")
 
 ### Manually update a guide from schema v3 to v4
 
