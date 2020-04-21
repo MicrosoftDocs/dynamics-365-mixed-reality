@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 
 In Dynamics 365 Remote Assist mobile, annotations make it so technicians and remote experts can visually specify an area or particular asset in their environment to look at or manipulate. Both the technician and expert can add annotations to what they're looking at, and share with each other during a video call. 
 
-Let's take a look at what this looks like in action. In this article, we assume that a **field technician** is using **Remote Assist mobile** in the field, while the **remote expert** is elsewhere on a desktop using **Microsoft Teams**.
+Let's take a look at what this looks like in action. In this article, we assume that a **field technician** is using **Remote Assist mobile** in the field, while the **remote collaborator** is elsewhere on a desktop or mobile device using **Microsoft Teams**.
 
 ## Annotating for technicians
 
