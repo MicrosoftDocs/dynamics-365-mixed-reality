@@ -33,7 +33,7 @@ Let's take a look at what this looks like in action. In this article, we assume 
 
 ![Screenshot of the Start Editing option in the Microsoft Teams meeting toolbar.](./media/teams_2.png "Start Edit")
 
-3. You will enter **snapshot mode**, where you can add annotations to the snapshot of the technician’s environment. Your annotations will be automatically appear on the technician's environment.
+3. You will enter a **frozen frame** of the technician's environment and then add your annotations. Your annotations will automatically appear on the technician's environment.
 
 ![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams showing an annotated image of the technician's environment](./media/annoenvt.png "Expert Snapshot Mode")
 
