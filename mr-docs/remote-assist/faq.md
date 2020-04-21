@@ -191,15 +191,11 @@ When you're in the HoloLens Feedback Hub:
 > Optionally, check the "This is blocking me" box if the issue is blocking you from completing your work or tasks. 
 
 
-## Using Remote Assist on mobile  
+## FAQs for Remote Assist on mobile  
 
 ### How can I tell what version I'm using?
 
 In Remote Assist mobile, go to **Information**, and then find the version number in the **App Version** section.
-
-### What are the yellow tracking dots?
-
-Yellow tracking dots are feature points that detect visually distinct features in your video calls. These help with your tracking experience and placing of annotations. In the April 2020 release and beyond, Remote Assist will continue to track your space but you will remove the yellow tracking dots visualization.
 
 ### How can I improve the tracking experience?
 
@@ -215,9 +211,20 @@ Limitations that may hinder accurate understanding of surfaces or facilitate in 
 
 ### What kinds of calls can a Remote Assist mobile user be in?
 
-* **Can I make calls to a Teams mobile user?** No. However, Remote Assist mobile to Remote Assist mobile calling is on our backlog.
-* **Can I make or be in a group call?** No. 
-* **Can I be in a meeting?** No. 
+* **Can I make calls to a Teams desktop user?** Yes. 
+* **Can I make calls to a Teams mobile user?** Yes. 
+* **Can I make or be in a group call or a call with three or more participants?** No, not at this time. 
+* **Can I be in a meeting?** No, not at this time. 
+
+### What countries is Remote Assist for Mobile supported?
+
+On **Android** devices, Remote Assist mobile is available in 146 countries, but not available in Cuba, Sudan or Iran. It's also usable in China when connecting to global tenants, but not in the store currently (we are working on that).
+
+For **iOS** devices, Remote Assist mobile is available in 155 countries.
+
+### What languages does Remote Assist Mobile support?
+
+Arabic (Saudi Arabia), Bulgarian (Bulgaria), Catalan (Spain), Czech (Czech Republic), Danish (Denmark), German (Germany), Greek (Greece), English (Australia), English (Canada), English (United Kingdom), English (United States), Spanish (Spain), Estonian (Estonia), Basque (Spain), Finnish (Finland), French (Canada), French (France), Galician (Spain), Hebrew (Israel), Hindi (India), Croatian (Croatia), Hungarian (Hungary), Indonesian (Indonesia), Italian (Italy), Japanese (Japan), Kazakh (Kazakhstan), Korean (Korea), Lithuanian (Lithuania), Latvian (Latvia), Malay (Malaysia), Norwegian Bokmål (Norway), Dutch (Netherlands), Polish (Poland), Portuguese (Brazil), Portuguese (Portugal), Romanian (Romania), Russian (Russia), Slovak (Slovakia), Slovenian (Slovenia), Serbian (Cyrillic, Serbia), Serbian (Latin, Serbia), Swedish (Sweden), Thai (Thailand), Turkish (Turkey), Ukrainian (Ukraine), Vietnamese (Vietnam), Chinese (Simplified, China), Chinese (Hong Kong S.A.R.), Chinese (Traditional).
 
 ## How do I provide feedback?
 
@@ -226,14 +233,7 @@ Technicians can provide feedback or make requests directly in the Remote Assist 
 ### Provide feedback customer scenario
 1.	Select the **Main Menu** icon.
 
-![Screenshot of Remote Assist mobile, showing the Main Menu icon highlighted.](./media/mainmenu.png "Main Menu")
-
 2.	Select **Feedback**. 
-
->[!Note]
-> To provide feedback, you'll need to have the native iOS Mail app set up if you're on an iPhone. On Android devices, you'll be able to select which mail app you'd like to open.
-
-![Screenshot of Remote Assist mobile, showing the Feedback option in the menu.](./media/feedback.png "Feedback")
 
 3.	Provide your feedback.
 
