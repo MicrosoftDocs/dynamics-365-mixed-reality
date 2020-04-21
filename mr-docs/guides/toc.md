@@ -21,9 +21,9 @@
 #### [Restrict access to a specific instance](admin-security.md)
 #### [Limit access to specific guides or guide content](admin-access-teams.md)
 #### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
-### Integrations
-#### [Integrate Dynamics 365 Field Service](field-service.md)
-#### [Integrate Dynamics 365 Supply Chain Management (Asset Management)](admin-integrate-asset-management.md)
+### Integrations with other Dynamics 365 apps
+#### [Dynamics 365 Field Service](field-service.md)
+#### [Dynamics 365 Supply Chain Management (Asset Management)](admin-integrate-asset-management.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ## I'm an author
 ### [Authoring overview](authoring-overview.md)
