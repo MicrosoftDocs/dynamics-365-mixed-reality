@@ -65,22 +65,22 @@ To resolve this issue, we suggest reviewing and fixing the JSON file before doin
 
 2.	Select the **Analyze** tab, select **Copy** to copy the **Instance URL**, and then paste the URL into a web browser.
 
-    ![Copy the Instance URL](media/copy-instance-url.png "Copy the Instance URL")
+    ![Copy the Instance URL](media/copy-instance-url.jpg "Copy the Instance URL")
    
 3. Sign in, and then select the **Guides** model-driven app.  
 
-    ![Guides app](media/guides-model-driven-app.png "Guides app")
+    ![Guides app](media/guides-model-driven-app.jpg "Guides app")
    
 4. Select the guide where the problem occurs.
 
-    ![Select the guide](media/select-problem-guide.png "Select the guide")
+    ![Select the guide](media/select-problem-guide.jpg "Select the guide")
 
     >[!NOTE]
     >If the JSON file has not been previously edited, you can go directly to [updating the schema](ADD URL HERE!!!).
 
 5. Under **Note modified by MOD Administrator**, select the JSON file to download, and then open the file in any code editor to make any required changes. 
 
-    ![Download JSON file](media/download-JSON-file.PNG "Download JSON file")
+    ![Download JSON file](media/download-JSON-file.jpg "Download JSON file")
    
 6. To remove the existing JSON file, hover over the **Note** button, select the **Edit** button, and then select the **X**.  
 
@@ -88,7 +88,7 @@ To resolve this issue, we suggest reviewing and fixing the JSON file before doin
    
 7.	Upload the JSON file you modified by selecting the **Attach** button.
 
-    ![Upload JSON file](media/upload-JSON-file.PNG "Upload JSON file")
+    ![Upload JSON file](media/upload-JSON-file.jpg "Upload JSON file")
    
 8. Select **Save**.
 
@@ -96,7 +96,7 @@ To resolve this issue, we suggest reviewing and fixing the JSON file before doin
 
 - At the top of the screen, select **Flow**, and then select **Update guide schema**.
 
-   ![Update guide schema](media/update-guide-schema.PNG "Update guide schema")
+   ![Update guide schema](media/update-guide-schema.jpg "Update guide schema")
 
 ## See also
  
