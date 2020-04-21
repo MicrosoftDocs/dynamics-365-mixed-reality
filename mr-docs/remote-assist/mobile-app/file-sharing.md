@@ -23,7 +23,7 @@ Both the technician and remote collaborators can send *any* file type to each ot
 - .xlsx 
 - .txt 
  
-They can upload files and images from their local device or OneDrive. In order for technicians to open and access these different file types, they will need the corresponding app that supports the file type.  
+They can upload files and images from their local device or OneDrive. Once the files and/or images are shared, it will be accessible in your [OneDrive account](https://onedrive.live.com/about/signin/) in the Files > RemoteAssistMobile folder. Also, once the user selects and opens a file or image, it will be downloaded to your local device's Downloads folder. In order for technicians to open and access these different file types, they will need the corresponding app that supports the file type, but some in-app previews may be available, depending on the file type and size.
 
 If you're a Dynamics 365 Field Service customer, the files shared during your Remote Assist mobile call can be linked to your work order. For more information, visit this article on [Field Service integration](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
 
@@ -58,7 +58,7 @@ If you're a Dynamics 365 Field Service customer, the files shared during your Re
 ![Screenshot showing Remote Assist on a mobile device, in the text chat, with a successfully uploaded attachment.](./media/files_view.PNG)
 
 ### Receiving files 
-1. Once the remote collaborator sends a file or image to the technician, the technician can select the file's link or image preview to open it. The file or image is **automatically downloaded** to the mobile device's **Downloads** folder. 
+1. Once the remote collaborator sends a file or image to the technician, the technician can select the file's link or image preview to open it. After selecting and opening the file or image, it is **automatically downloaded** to the mobile device's **Downloads** folder. 
 
 2. If the technician selects the remote collaborator's **image** preview, the default application will open the image. If more than one app supports this file type, there will be a menu to choose the application to open the image. 
 
