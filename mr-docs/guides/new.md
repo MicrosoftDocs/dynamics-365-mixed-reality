@@ -44,7 +44,7 @@ Version 304.2002.25001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|-------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features" target="_blank">Anchor guides by using QR codes</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/anchor-guide-qr-code" target="_blank">Anchor guides by using QR codes</a> | Yes |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/create-copy-link-guide-or-step" target="_blank">Create and copy a link to a guide or step</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-app-created-power-apps-step" target="_blank">Open an app created in Power Apps from a step</a> | Yes |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/deactivate-reactivate-or-delete-guide" target="_blank">Deactivate, reactivate, or delete a guide</a> | No |
