@@ -27,7 +27,7 @@ Version XXXXXXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)
 |<a href="URL GOES HERE" target="_blank">Rename guides in the PC app</a>|No|
 
 > [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <https://aka.ms/GuidesIdeas>.
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>
 
 ## April 1, 2020
 
