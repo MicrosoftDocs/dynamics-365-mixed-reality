@@ -38,7 +38,7 @@ To upgrade the solution:
 
    The status of the solution changes to **Installation pending,** and then changes to **Installed** when the upgrade is complete. 
    
-## Troubleshooting: Manually update the schema for the April 28, 2020 release
+## Troubleshooting: If you see the "Guide cannot be opened" error message
 
 As a part of the April 28, 2020 release, all your guides should automatically be converted from schema v3 to v4 as a part of the Dynamics 365 Guides solution update. Schema v4 allows Dynamics 365 Guides content to be stored in entities instead of inside a single JavaScript Object Notation (JSON) file so that you can take advantage of the Common Data Service Web API and Microsoft Power Platform functionality using Dynamics 365 Guides content.
 
