@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about resources to get started with Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 03/24/2020
+ms.date: 04/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Guides
