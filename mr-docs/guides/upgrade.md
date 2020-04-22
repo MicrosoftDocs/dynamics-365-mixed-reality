@@ -76,7 +76,7 @@ To resolve this issue, we suggest reviewing and fixing the JSON file before doin
     ![Select the guide](media/select-problem-guide.jpg "Select the guide")
 
     >[!NOTE]
-    >If the JSON file has not been previously edited, you can go directly to manually updating the schema.
+    >If the JSON file has not been previously edited, you can go directly to [manually updating the schema](#schema).
 
 5. Under **Note modified by MOD Administrator**, select the JSON file to download, and then open the file in any code editor to make any required changes. 
 
@@ -92,7 +92,7 @@ To resolve this issue, we suggest reviewing and fixing the JSON file before doin
    
 8. Select **Save**.
 
-#### Manually update the schema
+#### Manually update the schema<a name="schema"></a>
 
 - At the top of the screen, select **Flow**, and then select **Upgrade guide schema**.
 
