@@ -4,7 +4,7 @@ description: Learn how to add a note (including text and drawings) to a 3D model
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 02/26/2020
+ms.date: 04/27/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -38,12 +38,14 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Add Note](media/add-note.png "Tap Add Note")
 
-3. To add a photo, tap **Attach image**.
+3. To add a photo or a video to the note, tap **Attach**.
 
     > [!div class=mx-imgBorder]
     > ![Tap Attach image](media/attach-image.png "Tap Attach image")
 
-    1. Tap **Photo** to take a photo of the model, or tap **Camera Roll** if you want to use a photo that's already stored on your device.
+4. To take a photo, tap **Take a photo**.
+    
+    1. Tap **Photo** to take a photo of the model.
 
         > [!div class=mx-imgBorder]
         > ![Tap Photo](media/camera-roll.png "Tap Photo")
@@ -53,30 +55,36 @@ The following table shows how notes appear on the model, depending on where the 
         > [!div class=mx-imgBorder]
         > ![Draw or add text](media/draw-add-text.png "Draw or add text")
 
-        The captured image is displayed in the place of the **Attach image** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
+        The captured image is displayed in the place of the **Attach** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
 
         > [!div class=mx-imgBorder]
         > ![Draw or add text](media/note-image-added.png "Draw or add text")
          
-4. To add a message, tap **Type a message here**, and add the text.
+5. To attach a video, tap **Upload from library**.
+
+    -  From the photo library of your device, select a video.
+    
+       The uploaded video is displayed in the place of the **Attach** button. If you're not happy with the video, tap **Remove** to remove the video and then upload a different video.
+
+6. To add a message, tap **Type a message here**, and add the text.
 
     > [!div class=mx-imgBorder]
     > ![Tap Attach image](media/note-text.png "Tap Attach image")
 
-5. To attach the note at a specific point in your model, tap **Pin to model**.
+7. To attach the note at a specific point in your model, tap **Pin to model**.
 
     > [!div class=mx-imgBorder]
     > ![Tap Pin to model](media/pin-to-model.png "Tap Pin to model")
 
-    * Tap the model where you want to attach the note, and then tap **Next**.
+    - Tap the model where you want to attach the note, and then tap **Next**.
  
-        > [!div class=mx-imgBorder]
-        > ![Tap on the model](media/tap-on-product.png "Tap on the model")
+       > [!div class=mx-imgBorder]
+       > ![Tap on the model](media/tap-on-product.png "Tap on the model")
 
-        The note is attached at the tapped location on the model. If you want to remove the pin from the model, tap **Remove pin**.
+       The note is attached at the tapped location on the model. If you want to remove the pin from the model, tap **Remove pin**.
 
-        > [!div class=mx-imgBorder]
-        > ![Remove pinned note](media/pin-added.png "Remove pinned note")
+       > [!div class=mx-imgBorder]
+       > ![Remove pinned note](media/pin-added.png "Remove pinned note")
 
 6. Tap **Finish**.
       
@@ -100,26 +108,6 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Expanded notes](media/expanded-notes.png "Expanded notes")
 
-    
-## Delete a note
-
-1.	Tap **Notes** on the right side of the screen.
-
-    > [!div class=mx-imgBorder]
-    > ![Notes button](media/notes-button.png "Notes button")
-
-2.	Navigate to the note you want to delete, and tap the **Overflow** menu in the upper-right corner of the notes card.
-
-    > [!div class=mx-imgBorder]
-    > ![Navigate to the note](media/note.png "Navigate to the note")
-
-3.	In the **Options** dialog box, tap **Delete Note**.
-
-    > [!div class=mx-imgBorder]
-    > ![Delete a note](media/delete-note.png "Delete a note")
-
-4. Tap **Delete** in the confirmation dialog box.
-  
 ## Export a note
 
 You can export your notes to share them with other apps on your device that support the iOS sharing function. The notes image and text are exported without any special formatting.
@@ -145,6 +133,46 @@ You can export your notes to share them with other apps on your device that supp
 
     > [!div class=mx-imgBorder]
     > ![Export options](media/export-options.png "Export options")
+
+## Edit a note
+
+1.	Tap **Notes** on the right side of the screen.
+
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
+
+2.	Navigate to the note you want to edit, and tap the **Overflow** menu in the upper-right corner of the notes card.
+
+    > [!div class=mx-imgBorder]
+    > ![Navigate to the note](media/note.png "Navigate to the note")
+
+3.	In the **Options** dialog box, tap **Edit note**.
+
+    > [!div class=mx-imgBorder]
+    > ![Edit a note](media/edit-note.png "Edit a note")
+
+4. Make the required changes to the note such as updating the attached file, adding or removing the pin, and editing the text message. 
+
+5. Tap **Finish**.
+
+## Delete a note
+
+1.	Tap **Notes** on the right side of the screen.
+
+    > [!div class=mx-imgBorder]
+    > ![Notes button](media/notes-button.png "Notes button")
+
+2.	Navigate to the note you want to delete, and tap the **Overflow** menu in the upper-right corner of the notes card.
+
+    > [!div class=mx-imgBorder]
+    > ![Navigate to the note](media/note.png "Navigate to the note")
+
+3.	In the **Options** dialog box, tap **Delete Note**.
+
+    > [!div class=mx-imgBorder]
+    > ![Delete a note](media/delete-note.png "Delete a note")
+
+4. Tap **Delete** in the confirmation dialog box.
 
 ## Change how your notes are shared with other apps
 
