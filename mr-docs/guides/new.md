@@ -22,9 +22,9 @@ Version XXXXXXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
-|<a href="URL GOES HERE" target="_blank">Access Dynamics 365 Guides content through Common Data Service entities</a>|Yes|
-|<a href="URL GOES HERE" target="_blank">Integrate the Asset Management module of Dynamics 365 Supply Chain Management with Dynamics 365 Guides</a>|No|
-|<a href="URL GOES HERE" target="_blank">Rename guides in the PC app</a>|No|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/access-dynamics-365-guides-content-through-common-data-service-entities" target="_blank">Access Dynamics 365 Guides content through Common Data Service entities</a>|Yes|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/integrate-asset-management-module-dynamics-365-supply-chain-management" target="_blank">Integrate the Asset Management module of Dynamics 365 Supply Chain Management with Dynamics 365 Guides</a>|No|
+|<a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/rename-guides-pc-app" target="_blank">Rename guides in the PC app</a>|No|
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>
