@@ -15,11 +15,11 @@ You can use add a website link or a [!include[pn-powerapps](../includes/pn-power
 
 - **Website link.** Add a website link to a step so that operators can see and interact with information outside [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For example, you might want to provide a link to a parts diagram, a parts inventory system, an analytics dashboard, or information about Internet of Things (IoT) sensors. Website links let authors create a seamless workflow for operators.
 
-   ![Website link example](media/website-link-example.jpg "Website link example")
+   ![Website link example](media/website-link-example.JPG "Website link example")
 
 - **[!include[pn-powerapps](../includes/pn-powerapps.md)] link.** [Power Apps](https://products.office.com/business/microsoft-powerapps) enables teams to create custom applications with low-code tools to solve unique business workflows. By combining [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] and [!include[pn-powerapps](../includes/pn-powerapps.md)], you can extend [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] capabilities to create a more seamless end-to-end solution that fits the needs of your operators. For example, you can add a link to an interactive quiz app, a parts re-ordering app, or an app that provides the latest status on IoT sensors.  
 
-   ![Power Apps example](media/powerapps-example.jpg "Power apps example")
+   ![Power Apps example](media/powerapps-example.JPG "Power apps example")
 
    > [!NOTE]
    > To run [!include[pn-powerapps](../includes/pn-powerapps.md)] from [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], operators need a [Power Apps license](https://powerapps.microsoft.com/pricing/). They must also have [permission](https://docs.microsoft.com/powerapps/maker/canvas-apps/share-app#share-an-app) to view the app that is created in [!include[pn-powerapps](../includes/pn-powerapps.md)].
