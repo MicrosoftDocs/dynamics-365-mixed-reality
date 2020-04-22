@@ -16,12 +16,10 @@ advantage of mixed-reality guides in your day-to-day service and maintenance wor
 Asset Management work order, the worker can see that a guide is available through the work order’s Maintenance Checklist in the 
 Finance and Operations (Dynamics 365) mobile app. The worker can then find and open the guide from the Dynamics 365 Guides HoloLens app.
 
- ![Integrated Asset Mananagement guide](media/asset-management.png "Integrated Asset Management guide")
+ ![Integrated Asset Mananagement guide](media/asset-management-integration.JPG "Integrated Asset Management guide")
  
- ![Open guide on HoloLens](media/asset-management-select-guide.png "Open guide on HoloLens")
-
 [Learn more about integrating Asset Management with Dynamics 365 Guides]()
 
 ## See also
 
-[Integrate Dynamics 365 Field Service with Dynamics 365 Guides]()
+[Integrate Dynamics 365 Field Service with Dynamics 365 Guides](field-service.md)
