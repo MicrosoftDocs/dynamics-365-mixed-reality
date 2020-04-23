@@ -46,7 +46,7 @@ In rare cases, the conversion of a guide from schema v3 to v4 may be unsuccessfu
 
 - A guide was being authored in the PC or HoloLens app when the solution was being updated.
 
-- The JSON file has been edited in a way that was not supported (for example, the guide doesn’t have a task, or too many 3D parts have been added to the **Step Editor** bin programmatically).
+- The JSON file has been edited in a way that is not supported (for example, the guide doesn’t have a task, or too many 3D parts have been added to the **Step Editor** bin programmatically).
 
 If a guide wasn’t converted successfully, authors or operators will see this error message when they try to open it: “Guide cannot be opened”. 
 
