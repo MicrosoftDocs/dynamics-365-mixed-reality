@@ -38,6 +38,6 @@ Snapshots are critical in situations where a still image might help communicate 
 
 ![Screenshot of Remote Assist mobile showing the notification that the snapshot has been saved to the photo gallery.](./media/photo-gallery.png "Gallery")
 
-1. The technician is taken back to the live video call and can select the snapshot icon to take more snapshots.
+1. The technician is taken back to the live video call and can select the snapshot icon to take more snapshots. Annotations added on a 2D snapshot will not appear in the technician's environment. 
 
 8.	At the end of the call, the technicians can now go to their mobile device’s **Photo Gallery** and view the snapshots. They can share it with others or include it on their Dynamics 365 Field Service work order. 
