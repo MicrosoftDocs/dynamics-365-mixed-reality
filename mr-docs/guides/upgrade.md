@@ -54,9 +54,12 @@ If a guide wasn’t converted successfully, authors or operators will see this e
 
 ### Manually update a guide from schema v3 to v4
 
-To resolve this issue, we suggest reviewing and fixing the JSON file before doing a schema update. To update the JSON file, you’ll download the existing file locally to make any changes, delete the JSON file associated with the guide, and then upload the file you modified. 
+To resolve this issue, we suggest that you first try to upgrade the guide schema from version 3 to 4. If that doesn't resolve the problem, review and fix the JSON file before re-attempting a schema update. 
 
-#### Review and modify the JSON file
+>[!NOTE]
+>You can't manually update the schema for guides that have already been updated to schema v4. The schema version number is located under the **General** tab when you open a guide. 
+
+#### Update the schema
 
 1.	In the PC app, sign in to the instance that includes the problem guide.
 
@@ -71,11 +74,23 @@ To resolve this issue, we suggest reviewing and fixing the JSON file before doin
 4. Select the guide where the problem occurs.
 
     ![Select the guide](media/select-problem-guide.jpg "Select the guide")
+    
+5. At the top of the screen, select **Flow**, and then select **Upgrade guide schema**.
 
-    >[!NOTE]
-    >If the JSON file has not been previously edited, you can go directly to [manually updating the schema](#schema).
+   ![Update guide schema](media/upgrade-guide-schema.jpg "Update guide schema")
+   
+   >[!NOTE]
+   >If updating the guide schema doesn't fix the problem, the guide JSON file has most likely been edited in a way that is not supported (for example, too many 3D objects have been added programmatically to the **Step Editor** bin). Follow the steps in the next procedure to review and replace the JSON file.
 
-5. Under **Note modified by MOD Administrator**, select the JSON file to download, and then open the file in any code editor to make any required changes. 
+#### Review and replace the JSON file
+
+To update the JSON file, you’ll download the existing file locally to make any changes, delete the JSON file associated with the guide, and then upload the file you modified. 
+
+1. Select the guide where the problem occurs.
+
+    ![Select the guide](media/select-problem-guide.jpg "Select the guide")
+
+2. Under **Note modified by MOD Administrator**, select the JSON file to download, and then open the file in any code editor to make any required changes. 
 
     ![Download JSON file](media/download-JSON-file.jpg "Download JSON file")
    
@@ -89,11 +104,7 @@ To resolve this issue, we suggest reviewing and fixing the JSON file before doin
    
 8. Select **Save**.
 
-#### Manually update the schema<a name="schema"></a>
-
-- At the top of the screen, select **Flow**, and then select **Upgrade guide schema**.
-
-   ![Update guide schema](media/upgrade-guide-schema.jpg "Update guide schema")
+9. Manually trigger a guide schema update as described in the procedure above.
 
 ## See also
  
