@@ -50,7 +50,7 @@ The following table shows how notes appear on the model, depending on where the 
         > [!div class=mx-imgBorder]
         > ![Tap Photo](media/camera-roll.png "Tap Photo")
 
-    2. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap **Next**.
+    2. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap the **Next** icon.
 
         > [!div class=mx-imgBorder]
         > ![Draw or add text](media/draw-add-text.png "Draw or add text")
@@ -76,7 +76,7 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Pin to model](media/pin-to-model.png "Tap Pin to model")
 
-    - Tap the model where you want to attach the note, and then tap **Next**.
+    - Tap the model where you want to attach the note, and then tap **Done**.
  
        > [!div class=mx-imgBorder]
        > ![Tap on the model](media/tap-on-product.png "Tap on the model")
