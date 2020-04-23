@@ -11,6 +11,12 @@ ms.reviewer: v-brycho
 
 # Known issues with the Dynamics 365 Guides HoloLens app
 
+## Can't open non-English example guide
+
+Some of our customers may have installed the Example guide that comes with Dynamics 365 Guides in an existing instance. Starting with the April 28, 2020 release, the Example guide is deprecated and will no longer be installed in any new instances. 
+ 
+As part of this change, you won't be able to open an existing non-English Example guide. When attempting to open a localized Example guide, you'll be redirected back to the **Guides** list.
+
 ## The account picker becomes unresponsive if you stay on it for more than 25 seconds during HoloLens sign-in 
 
 On the page where you can select among the different accounts that are saved on [!include[pn-hololens](../includes/pn-hololens.md)], you must select an option within 25 seconds. After 25 seconds, the page becomes unresponsive, and you must restart the app. This issue has been fixed on RS5 but still exists on RS4 if you have that version installed.
