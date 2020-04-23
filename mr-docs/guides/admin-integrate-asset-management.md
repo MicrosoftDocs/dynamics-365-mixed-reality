@@ -18,7 +18,7 @@ Finance and Operations (Dynamics 365) mobile app. The worker can then find and o
 
  ![Integrated Asset Mananagement guide](media/asset-management-integration.JPG "Integrated Asset Management guide")
  
-*A worker sees that a guide is attached in the Finance and Operations mobile app and opens the guide in the Dynamics 365 Guides HoloLens app.*
+*A worker sees that a guide is attached to a Maintenace Checklist in the Finance and Operations mobile app and opens the guide in the Dynamics 365 Guides HoloLens app.*
  
 [Learn more about integrating Asset Management with Dynamics 365 Guides]()
 
