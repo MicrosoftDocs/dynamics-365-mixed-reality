@@ -14,19 +14,19 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Dynamics 365 Product Visualize has a tool to display your model measurements in imperial or metric units. To display model dimensions, you must enable the product dimensions feature. 
+Dynamics 365 Product Visualize has a tool to display your model measurements in imperial or metric units. To display model dimensions, you must enable the Product dimensions feature. 
 
 > [!NOTE]
 > Product dimensions is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 
 **To enable product dimensions**
 
-1. Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Preview features**.
+1. Tap the **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Preview features**.
 
     > [!div class=mx-imgBorder]
     > ![Preview features](media/preview-features.png "Preview features")
 
-2. In the **Feature Settings** screen, slide on the **3D product dimensions** toggle.
+2. In the **Feature Settings** screen, move the **3D product dimensions** toggle to the On position.
 
     > [!div class=mx-imgBorder]
     > ![Product dimensions feature](media/product-dimensions-feature.png "Product dimensions feature")

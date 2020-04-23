@@ -26,6 +26,25 @@ The following table shows how notes appear on the model, depending on where the 
 |-------------------------------------|-------------------------------------------|-----------------------------------------|
 |![Note on front of model](media/front-note.PNG "Note on front of the model")|![Note on back of model](media/back-note.PNG "Note on back of the model")|![Note and model off the screen](media/off-screen-note.PNG "Note and model off the screen")|
 
+## Enable video notes
+
+You can attach video files while creating a note. This allows you to capture more details about your customers' requirements. It also allows you to demonstrate the functionality of your products in addition to their placement at the customer's premises. To attach video files to a note, you must enable the Video notes feature.
+
+> [!NOTE]
+> Video notes is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
+
+**To enable video notes**
+
+1. Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Preview features**.
+
+    > [!div class=mx-imgBorder]
+    > ![Preview features](media/preview-features.png "Preview features")
+
+2. In the **Feature Settings** screen, move the **Attach videos** toggle to the On position.
+
+    > [!div class=mx-imgBorder]
+    > ![Video notes feature](media/video-notes-feature.png "Video notes feature")
+
 ## Add a note
 
 1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then tap **Notes** on the right side of the screen.
@@ -43,7 +62,7 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Attach image](media/attach-image.png "Tap Attach image")
 
-4. To take a photo, tap **Take a photo**.
+4. To add a photo, tap **Take a photo**.
     
     1. Tap **Photo** to take a photo of the model.
 
@@ -62,7 +81,7 @@ The following table shows how notes appear on the model, depending on where the 
          
 5. To attach a video, tap **Upload from library**.
 
-    -  From the photo library of your device, select a video.
+    -  From the photo library of your device, select a video. 
     
        The uploaded video is displayed in the place of the **Attach** button. If you're not happy with the video, tap **Remove** to remove the video and then upload a different video.
 
@@ -87,8 +106,41 @@ The following table shows how notes appear on the model, depending on where the 
        > ![Remove pinned note](media/pin-added.png "Remove pinned note")
 
 6. Tap **Finish**.
-      
+<!--
+### Attach a photo to the note
 
+1. When adding a note, tap **Attach image**.
+
+    > [!NOTE]
+    > If you have enabled the **Video notes** feature, the button name changes to **Attach**. You must then tap **Attach image** > **Take a photo**.
+    
+2. Tap **Photo** to take a photo of the model, or tap **Camera Roll** if you want to use a photo that's already stored on your device.
+
+    > [!div class=mx-imgBorder]
+    > ![Tap Photo](media/camera-roll.png "Tap Photo")
+
+3. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap the **Next** icon.
+
+    > [!div class=mx-imgBorder]
+    > ![Draw or add text](media/draw-add-text.png "Draw or add text")
+
+    The captured image is displayed in the place of the **Attach image** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
+
+    > [!div class=mx-imgBorder]
+    > ![Draw or add text](media/note-image-added.png "Draw or add text")
+
+4. Continue with adding a message to your note.
+
+### Attach a video to the note
+
+1. When adding a note, tap **Attach image** > **Upload from library**.
+
+2. From the photo library of your device, select a video. 
+
+    The uploaded video is displayed in the place of the **Attach** button. If you're not happy with the video, tap **Remove** to remove the video and then upload a different video.
+
+3. Continue with adding a message to your note.
+-->
 ## View the notes attached to a model
 
 1.	After placing the model, tap **Notes** on the right side of the screen.

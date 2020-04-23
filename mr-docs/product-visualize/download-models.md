@@ -19,14 +19,14 @@ You can download models to use offline when you're away from a cellular network 
 > [!NOTE]
 > Downloading models for offline use is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 
-## Enable Offline mode
+## Enable offline mode
 
 1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Preview features**.
 
    > [!div class=mx-imgBorder]
    > ![Preview features](media/preview-features.png "Preview features")
 
-2. In the **Feature Settings** screen, slide the **Download products to view offline** toggle to On.
+2. In the **Feature Settings** screen, move the **Download products to view offline** toggle to the On position.
 
    > [!div class=mx-imgBorder]
    > ![Offline mode feature](media/offline-mode.png "Offline mode feature")
