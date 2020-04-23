@@ -15,7 +15,7 @@ Dynamics 365 Remote Assist mobile includes an in-app, guided tutorial for techni
 -	map their environment for better tracking of surfaces
 -	place and manipulate annotations, such as the arrow and the ink tool
 
-Also, find out how to better track your environment in the additional tips for better tracking section below.
+Also, find out how to better track your environment in the additional tips for better tracking at the end of this article.
 
 ## Prerequisites 
 - Allow Remote Assist mobile to access your device's camera. 
