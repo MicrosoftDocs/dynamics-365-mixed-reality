@@ -54,7 +54,7 @@ If a guide wasn’t converted successfully, authors or operators will see this e
 
 ### Manually update a guide from schema v3 to v4
 
-To resolve this issue, we suggest that you first try to upgrade the guide schema from version 3 to 4. If that doesn't resolve the problem, review and fix the JSON file before re-attempting a schema update. 
+To resolve this issue, we suggest that you first try to upgrade the guide schema from version 3 to 4. If that doesn't resolve the problem, review and fix the JSON file (as described below) before re-attempting a schema update. 
 
 >[!NOTE]
 >You can't manually update the schema for guides that have already been updated to schema v4. The schema version number is located under the **General** tab when you open a guide. 
