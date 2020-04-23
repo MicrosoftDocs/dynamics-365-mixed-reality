@@ -56,9 +56,6 @@ If a guide wasn’t converted successfully, authors or operators will see this e
 
 To resolve this issue, we suggest reviewing and fixing the JSON file before doing a schema update. To update the JSON file, you’ll download the existing file locally to make any changes, delete the JSON file associated with the guide, and then upload the file you modified. 
 
->[!NOTE]
-> You must be an administrator to modify the JSON file.
-
 #### Review and modify the JSON file
 
 1.	In the PC app, sign in to the instance that includes the problem guide.
