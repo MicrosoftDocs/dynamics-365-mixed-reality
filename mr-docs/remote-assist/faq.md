@@ -29,7 +29,7 @@ Yes. Learn how to [set up  multi-tenant company deployments](multi-tenant-deploy
 
 ### How do I set up Dynamics 365 Field Service to work with Dynamics 365 Remote Assist?
 
-To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 Remote Assist so that a first line worker can call an expert in the context of a Field Service booking, see [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](troubleshoot-field-service.md).
+To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 Remote Assist so that a firstline worker can call an expert in the context of a Field Service booking, see [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](troubleshoot-field-service.md).
 
 ## Using Remote Assist on HoloLens or HoloLens 2 
 
