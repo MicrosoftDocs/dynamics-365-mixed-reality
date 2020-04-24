@@ -19,7 +19,7 @@ The following scenarios are not supported when using Remote Assist mobile at thi
 - Making calls to browser-based Teams.
 - Participating in calls with three or more participants.
 - Participating in Remote Assist mobile to Remote Assist mobile calls.
-- Participating in Remote Assist mobile to Remote Assist HoloLens calls 
+- Participating in Remote Assist mobile to Remote Assist on HoloLens calls.
 - If the Remote Assist mobile app is not open, the technician will not receive incoming call notifications from Teams desktop or mobile.
 
 ## Prerequisites
