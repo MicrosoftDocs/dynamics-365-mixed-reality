@@ -26,6 +26,10 @@ Version XXXXXXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/integrate-asset-management-module-dynamics-365-supply-chain-management" target="_blank">Integrate the Asset Management module of Dynamics 365 Supply Chain Management with Dynamics 365 Guides</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/rename-guides-pc-app" target="_blank">Rename guides in the PC app</a> | No |
 
+### Other updates: Example guide is deprecated
+
+From the April 28, 2020 release onward, the Example guide is deprecated and no longer deployed to new instances. If users have already installed the Example guide in a non-English deployment, they will not be able to open the guide. When attempting to open a localized Example guide, users will be redirected back to the **Guides** list.
+
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
