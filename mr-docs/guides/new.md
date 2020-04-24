@@ -28,7 +28,7 @@ Version XXXXXXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)
 
 ### Other updates: Example guide is deprecated
 
-From the April 28, 2020 release onward, the Example guide is deprecated and no longer deployed to new instances. If users have already installed the Example guide in a non-English deployment, they will not be able to open the guide. When attempting to open a localized Example guide, users will be redirected back to the **Guides** list.
+From the April 28, 2020 release onward, the Example guide is deprecated and no longer deployed to new instances. If users have already installed the Example guide in a non-English deployment, they won't be able to open the guide. When attempting to open a localized Example guide, users will be redirected back to the **Guides** list.
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
