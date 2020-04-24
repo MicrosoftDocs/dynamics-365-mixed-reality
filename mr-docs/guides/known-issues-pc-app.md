@@ -11,11 +11,11 @@ ms.reviewer: v-brycho
 
 # Known issues with the Dynamics 365 Guides PC app
 
-## Can't open non-English example guide
+## I can't open a non-English Example guide
 
-Some of our customers may have installed the Example guide that comes with Dynamics 365 Guides in an existing instance. Starting with the April 28, 2020 release, the Example guide is deprecated and will no longer be installed in any new instances. 
- 
-As part of this change, you won't be able to open an existing non-English Example guide. When attempting to open a localized Example guide, you'll be redirected back to the **Guides** list.
+Some customers might have installed the Example guide that is included with Microsoft Dynamics 365 Guides in an existing instance. As of the April 28, 2020, release, the Example guide is obsolete and will no longer be installed in new instances. 
+
+As part of this change, you won't be able to open an existing non-English (localized) Example guide. If you try, you will be redirected to the **Guides** list.
 
 ## I can't find the guide that I created
 
