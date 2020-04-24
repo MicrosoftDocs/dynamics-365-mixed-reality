@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Using Remote Assist in low bandwidth scenarios
 
-Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians may have trouble troubleshooting and resolving problems in real time. Remote Assist mobile now gives technicians the ability to discuss, diagnose, and resolve issues with remote experts even in low bandwidth scenarios.
+Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians may have trouble troubleshooting and resolving problems in real time. Remote Assist mobile now gives technicians the ability to discuss, diagnose, and resolve issues with remote collaborators even in low bandwidth scenarios.
 
 ### Poor network connectivity is determined by the following conditions: 
 
@@ -41,9 +41,9 @@ Poor network may take into account the interaction of the three components: **ba
 
 ## How it works
 
-Let's take a quick look at what happens in a field scenario when a technician encounters poor network connectivity. In this scenario, the technician is our field worker, while the remote expert is elsewhere. 
+Let's take a quick look at what happens in a field scenario when a technician encounters poor network connectivity. In this scenario, the technician is our field worker, while the  remote collaborator is elsewhere with good network conditions. 
 
-1. The technician launches a video call with a remote expert.
+1. The technician launches a video call with a remote collaborator.
 
 ![Side-by-side screenshots of Remote Assist on mobile and Microsoft Teams, launching a call.](./media/network_1.png "Launch Call") 
 
@@ -59,11 +59,11 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 ![Side-by-side screenshots of Remote Assist on mobile and Microsoft Teams, showing the tooltip on mobile that prompts the technician to share a snapshot.](./media/network_4.png "Tool Tip") 
  
-5. The technician takes a snapshot, which is shared to the remote expert's screen. The expert now sees a snapshot of better quality!
+5. The technician takes a snapshot, which is shared to the remote expert's screen. The remote collaborator now sees a snapshot of better quality!
 
 ![Side-by-side screenshots of Remote Assist on mobile and Microsoft Teams, showing the snapshot on both screens.](./media/network_5.png "Expert-side Snapshot") 
 
-6. The technician and expert can annotate simultaneously on the snapshot.
+6. The technician and remote collaborator can annotate simultaneously on the snapshot.
 
 ![Side-by-side screenshots of Remote Assist on mobile and Microsoft Teams, showing annotations on the snapshot on both screens.](./media/network_6.png "Annotate") 
 
@@ -71,7 +71,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 ![Side-by-side screenshots of Remote Assist on mobile and Microsoft Teams, showing the option to either save or discard the snapshot on mobile.](./media/network_7.png "Photo Gallery") 
 
-8. The technician now returns to the video call and can continue to send snapshots to the expert.
+8. The technician now returns to the video call and can continue to send snapshots to the remote collaborator.
 
 ![Side-by-side screenshots of Remote Assist on mobile and Microsoft Teams, showing the return to video call.](./media/network_2.png "Video Feed") 
 

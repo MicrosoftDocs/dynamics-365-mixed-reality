@@ -27,7 +27,7 @@ The gestures for adding arrows or drawing are the same for HoloLens and HoloLens
 
 ## Add an arrow 
 
-Select the **Arrow** (seen here: ![Graphic showing the arrow icon.](media/RAHL_Arrow.png)). As you position your hand to place the arrow, you should see a ghost arrow at the end of your hand ray. 
+Select the **Arrow** (seen here: ![Graphic showing the arrow icon.](media/RAHL_Arrow.png)). 
 
 To position the arrow in space:
 
@@ -36,12 +36,11 @@ To position the arrow in space:
 
 To control the direction of the arrow, air tap, hold, and move your hand in a circle until the ghost arrow appears at the desired direction. Release the air tap to place the arrow.
 
-To use voice commands, select the arrow tool by saying "Remote Assist, Arrow." Then say "Remote Assist, Place arrow" to use head gaze to place the arrow. You won't be able to use voice commands to rotate the arrow before placing it.
+To use voice commands, select the arrow tool by saying "Remote Assist, Arrow." Then say "Remote Assist, Place arrow" to place the arrow. You won't be able to use voice commands to rotate the arrow before placing it.
 
 Once you place the arrow, you can't adjust its location or direction. To redo, select **Undo** (or say "Remote Assist, Undo") and place the arrow again.
 
-
-<iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qy" frameborder="0" allowfullscreen=""></iframe>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qy" frameborder="0" allowfullscreen=""></iframe></div>
 
 The previous video shows how to place an arrow using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Arrow** tool by touching it directly, and you position your arrow in space using your hand ray. 
 
@@ -57,13 +56,13 @@ Then, air tap, keep your index finger and thumb together, and start drawing in s
 
 To use voice commands, select the ink tool by saying "Remote Assist, Ink." Then use "Remote Assist, Start inking" and "Remote Assist, Stop inking" to start and stop inking with head gaze. 
 
-<iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qs" frameborder="0" allowfullscreen=""></iframe>
+<div class="embeddedvideo"><iframe src="https://www.microsoft.com/videoplayer/embed/RE2F9qs" frameborder="0" allowfullscreen=""></iframe></div>
 
 The previous video shows how to draw using HoloLens gestures. If you’re using HoloLens 2, remember that you can select the **Ink tool** by touching it directly, and you determine where you start your drawing using your hand ray. 
 
 ## Change arrow or ink color
 
-Select Colors ![Color](media/RAHL_Color.png "Color") (or say “Remote Assist, colors”), and then select the color you want (or say “Remote Assist, Red”).
+Select Colors ![Color](media/RAHL_Color.png "Color") (or say “Remote Assist, colors”), and then select the color you want (or say “Remote Assist, Red”). The next annotation you place will be that color.
 
 ## Edit annotations
 
