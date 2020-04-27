@@ -23,8 +23,8 @@ If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your lo
 
 1.	Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Import model**.
 
-   > [!div class=mx-imgBorder]
-   > ![Import model](media/import-model.png "Import model")
+    > [!div class=mx-imgBorder]
+    > ![Import model](media/import-model.png "Import model")
  
 2. In the confirmation message, tap **Continue**.
 

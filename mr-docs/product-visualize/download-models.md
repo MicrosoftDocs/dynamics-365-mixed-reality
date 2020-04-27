@@ -66,9 +66,6 @@ You can update all of your downloaded models at once.
 
       A progress bar is displayed at the top of the screen indicating the status of downloads.
 
-      > [!div class=mx-imgBorder]
-      > ![Download progress bar](media/download-progress-bar.png "Download progress bar")
-
 ## Delete all downloaded models
 
 1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then tap the **Settings** button.
