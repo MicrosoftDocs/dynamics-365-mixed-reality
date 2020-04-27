@@ -21,4 +21,8 @@ If for some reason you're unable to join the meeting, you may also ask the remot
 
 To join a meeting, select **Join Meeting**, or say "Remote Assist, Join Meeting”, below the **Recent Contacts** screen. The **Join Meeting** button appears if the meeting is happening now or within the next 15 minutes.
 
+If your upcoming meetings overlap, you can use the arrows (as shown below) to select which meeting to join.  
+
+![Screenshot of the HoloLens field of view, showing paging arrows for viewing multiple meetings.](media/RAHL_Meeting_Paging.png "ViewMultipleMeetings")
+
 After you join a meeting, you or the Teams desktop user can add more people to the meeting. Select **Open Participants** (as represented by this icon: ![Graphic showing the open participants icon.](media/RAHL_Participants.png)). You'll see the first person you called on the left side of the video card, and a list of participants on the right side of the video card. On the bottom of the video card, there's a text field. Select the text field, and a holographic keyboard will pop out. A list of your recent contacts will appear. If the person you'd like to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
