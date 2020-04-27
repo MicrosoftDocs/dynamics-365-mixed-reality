@@ -50,7 +50,7 @@ Dynamics 365 Product Visualize has a tool to display your model measurements in 
 
 ## Display model dimensions
 
-1. Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then tap **Dimensions** on the right side of the screen.
+1. Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then tap **Dimensions** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Dimensions button](media/dimensions-button.png "Dimensions button")

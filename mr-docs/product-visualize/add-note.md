@@ -26,28 +26,9 @@ The following table shows how notes appear on the model, depending on where the 
 |-------------------------------------|-------------------------------------------|-----------------------------------------|
 |![Note on front of model](media/front-note.PNG "Note on front of the model")|![Note on back of model](media/back-note.PNG "Note on back of the model")|![Note and model off the screen](media/off-screen-note.PNG "Note and model off the screen")|
 
-## Enable video notes
-
-You can attach video files while creating a note. This allows you to capture more details about your customers' requirements. It also allows you to demonstrate the functionality of your products in addition to their placement at the customer's premises. To attach video files to a note, you must enable the Video notes feature.
-
-> [!NOTE]
-> Video notes is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
-
-**To enable video notes**
-
-1. Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Preview features**.
-
-    > [!div class=mx-imgBorder]
-    > ![Preview features](media/preview-features.png "Preview features")
-
-2. In the **Feature Settings** screen, move the **Attach videos** toggle to the On position.
-
-    > [!div class=mx-imgBorder]
-    > ![Video notes feature](media/video-notes-feature.png "Video notes feature")
-
 ## Add a note
 
-1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then tap **Notes** on the right side of the screen.
+1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then tap **Notes** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
@@ -88,7 +69,7 @@ You can attach video files while creating a note. This allows you to capture mor
 1. When adding a note, tap **Attach image**.
 
     > [!NOTE]
-    > If you have enabled the **Video notes** feature, the button name changes to **Attach**. You must then tap **Attach image** > **Take a photo**.
+    > If you have enabled the **Video notes** feature, the button name changes to **Attach**. You must then tap **Attach** > **Take a photo**.
 
     > [!div class=mx-imgBorder]
     > ![Tap Attach image](media/attach-image.png "Tap Attach image")
@@ -112,7 +93,26 @@ You can attach video files while creating a note. This allows you to capture mor
 
 ### Attach a video to the note
 
-1. When adding a note, tap **Attach image** > **Upload from library**.
+A video allows you to capture more details about your customers' requirements. It also allows you to demonstrate the functionality of your products in addition to their placement at the customer's premises. To attach a video to a note, you must enable the Video notes feature.
+
+> [!NOTE]
+> Video notes is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
+
+**To enable video notes**
+
+1. Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Preview features**.
+
+    > [!div class=mx-imgBorder]
+    > ![Preview features](media/preview-features.png "Preview features")
+
+2. In the **Feature Settings** screen, move the **Attach videos** toggle to the On position.
+
+    > [!div class=mx-imgBorder]
+    > ![Video notes feature](media/video-notes-feature.png "Video notes feature")
+
+**To attach video to the note**
+
+1. When adding a note, tap **Attach** > **Upload from library**.
 
     > [!div class=mx-imgBorder]
     > ![Tap Upload from library](media/upload-from-library.png "Tap Upload from library")
@@ -125,7 +125,7 @@ You can attach video files while creating a note. This allows you to capture mor
 
 ## View the notes attached to a model
 
-1.	After placing the model, tap **Notes** on the right side of the screen.
+1.	After placing the model, tap **Notes** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
@@ -148,7 +148,7 @@ You can export your notes to share them with other apps on your device that supp
 
 **To export a note**
 
-1.	Tap **Notes** on the right side of the screen.
+1.	Tap **Notes** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
@@ -170,7 +170,7 @@ You can export your notes to share them with other apps on your device that supp
 
 ## Edit a note
 
-1.	Tap **Notes** on the right side of the screen.
+1.	Tap **Notes** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
@@ -191,7 +191,7 @@ You can export your notes to share them with other apps on your device that supp
 
 ## Delete a note
 
-1.	Tap **Notes** on the right side of the screen.
+1.	Tap **Notes** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
