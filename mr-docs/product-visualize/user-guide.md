@@ -40,7 +40,7 @@ If you're going to be in a location that has low internet connectivity, you can 
 > After you've completed your presentation offline, you can remove the downloaded models by selecting the blue check mark next to the product's thumbnail on the **Products** page. This will free up storage space on your device.
 
 > [!div class=mx-imgBorder]
-> ![Model downloaded to be available offline](media/preface-offline-model.png "Model downloaded to be available offline")
+> ![Model downloaded to be available offline](media/model-downloaded.png "Model downloaded to be available offline")
 
 ### Place your model
 
@@ -53,9 +53,9 @@ If you have 3D models of your products, you can show them to your client in a me
 > [!div class=mx-imgBorder]
 > ![Find a surface to place a model on](media/preface-find-surface.png "Find a surface to place a model on")
 
-> [!div class=mx-imgBorder]
-> ![Model placed on a surface](media/preface-model-placed.png "Model placed on a surface")
-
+<!--
+![Model placed on a surface](media/preface-model-placed.png "Model placed on a surface")
+-->
 
 ### Manipulate your model
 

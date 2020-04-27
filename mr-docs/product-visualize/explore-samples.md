@@ -31,11 +31,17 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
  
 3. On the My Open Opportunities screen, select the **Contoso, Ltd. Mfg Sale** opportunity. 
 
+     > [!div class=mx-imgBorder]
+     > ![Sample opportunity](media/sample-opportunity.png "Sample opportunity")
+
 4. Tap a product you want to open.
 
-3.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
+     > [!div class=mx-imgBorder]
+     > ![Sample products](media/sample-products.png "Sample products")
 
-4.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes made on sample models aren't saved when you close Dynamics 365 Product Visualize or replace the model.
+5.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
+
+6.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes made on sample models aren't saved when you close Dynamics 365 Product Visualize or replace the model.
 
     > [!TIP]
     > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product dimensions](product-dimensions.md). After enabling the feature, tap **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  

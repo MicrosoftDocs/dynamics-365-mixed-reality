@@ -4,7 +4,7 @@ description: Learn how to download 3D models offline so that you can use them wh
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 01/29/2020
+ms.date: 04/27/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -38,6 +38,10 @@ You can download models to use offline when you're away from a cellular network 
 - When viewing a product, tap the **Cloud** button next to the product name to download the model.
 
    ![Cloud button](media/cloud-button.PNG "Cloud button")
+   
+   A progress bar is displayed at the top of the screen indicating the status of downloads.
+
+   ![Model download in progress](media/model-download-progress.PNG "Model download in progress")
    
    When the model is downloaded, a blue check mark is displayed in place of the cloud button.
    

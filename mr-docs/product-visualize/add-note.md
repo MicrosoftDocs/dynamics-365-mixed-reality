@@ -55,42 +55,18 @@ You can attach video files while creating a note. This allows you to capture mor
 2. Tap **Add**.
 
     > [!div class=mx-imgBorder]
-    > ![Tap Add Note](media/add-note.png "Tap Add Note")
+    > ![Tap Add](media/add-note.png "Tap Add")
 
-3. To add a photo or a video to the note, tap **Attach**.
+3. To add a photo, see [Attach a photo to the note](#attach-a-photo-to-the-note).
 
-    > [!div class=mx-imgBorder]
-    > ![Tap Attach image](media/attach-image.png "Tap Attach image")
+4. To attach a video, see [Attach a video to the note](#attach-a-video-to-the-note).
 
-4. To add a photo, tap **Take a photo**.
-    
-    1. Tap **Photo** to take a photo of the model.
-
-        > [!div class=mx-imgBorder]
-        > ![Tap Photo](media/camera-roll.png "Tap Photo")
-
-    2. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap the **Next** icon.
-
-        > [!div class=mx-imgBorder]
-        > ![Draw or add text](media/draw-add-text.png "Draw or add text")
-
-        The captured image is displayed in the place of the **Attach** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
-
-        > [!div class=mx-imgBorder]
-        > ![Draw or add text](media/note-image-added.png "Draw or add text")
-         
-5. To attach a video, tap **Upload from library**.
-
-    -  From the photo library of your device, select a video. 
-    
-       The uploaded video is displayed in the place of the **Attach** button. If you're not happy with the video, tap **Remove** to remove the video and then upload a different video.
-
-6. To add a message, tap **Type a message here**, and add the text.
+5. To add a message, tap **Type a message here**, and add the text.
 
     > [!div class=mx-imgBorder]
     > ![Tap Attach image](media/note-text.png "Tap Attach image")
 
-7. To attach the note at a specific point in your model, tap **Pin to model**.
+6. To attach the note at a specific point in your model, tap **Pin to model**.
 
     > [!div class=mx-imgBorder]
     > ![Tap Pin to model](media/pin-to-model.png "Tap Pin to model")
@@ -105,14 +81,17 @@ You can attach video files while creating a note. This allows you to capture mor
        > [!div class=mx-imgBorder]
        > ![Remove pinned note](media/pin-added.png "Remove pinned note")
 
-6. Tap **Finish**.
-<!--
+7. Tap **Finish**.
+
 ### Attach a photo to the note
 
 1. When adding a note, tap **Attach image**.
 
     > [!NOTE]
     > If you have enabled the **Video notes** feature, the button name changes to **Attach**. You must then tap **Attach image** > **Take a photo**.
+
+    > [!div class=mx-imgBorder]
+    > ![Tap Attach image](media/attach-image.png "Tap Attach image")
     
 2. Tap **Photo** to take a photo of the model, or tap **Camera Roll** if you want to use a photo that's already stored on your device.
 
@@ -135,18 +114,21 @@ You can attach video files while creating a note. This allows you to capture mor
 
 1. When adding a note, tap **Attach image** > **Upload from library**.
 
+    > [!div class=mx-imgBorder]
+    > ![Tap Upload from library](media/upload-from-library.png "Tap Upload from library")
+
 2. From the photo library of your device, select a video. 
 
     The uploaded video is displayed in the place of the **Attach** button. If you're not happy with the video, tap **Remove** to remove the video and then upload a different video.
 
 3. Continue with adding a message to your note.
--->
+
 ## View the notes attached to a model
 
 1.	After placing the model, tap **Notes** on the right side of the screen.
 
     > [!div class=mx-imgBorder]
-    > ![Notes button](media/notes-button-1.png "Notes button")
+    > ![Notes button](media/notes-button.png "Notes button")
 
 2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes. 
     

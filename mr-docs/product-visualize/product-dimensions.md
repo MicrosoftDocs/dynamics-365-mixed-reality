@@ -4,7 +4,7 @@ description: Learn how to enable product dimensions to see model dimensions in D
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 02/26/2020
+ms.date: 04/27/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -38,12 +38,12 @@ Dynamics 365 Product Visualize has a tool to display your model measurements in 
     > [!div class=mx-imgBorder]
     > ![Settings button](media/edit-account-settings.png "Settings button")
 
-2. Next to **Measurement Units**, tap **Change units**.
+2. Next to **Measurement Unit**, tap **Change unit**.
 
      > [!div class=mx-imgBorder]
      > ![Measurement units section](media/measurement-units-section.png "Measurement units")
 
-3. On the **Measurement Units** screen, tap either **Metric** or **Imperial**.
+3. On the **Measurement Unit** screen, tap either **Metric** or **Imperial**.
 
     > [!div class=mx-imgBorder]
     > ![Select a measurement unit](media/select-measurement-unit.png "Select a measurement unit")

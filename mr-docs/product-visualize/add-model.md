@@ -4,7 +4,7 @@ description: Learn how to add your own custom 3D models to an existing Dynamics 
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 02/26/2020
+ms.date: 04/27/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -21,10 +21,10 @@ If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your lo
 
 ## Add a 3D model to a product
 
-1.	Navigate to the **My Open Opportunities** screen, and then tap **Import Models** at the upper-right corner of the screen.
+1.	Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Import model**.
 
-    > [!div class=mx-imgBorder]
-    > ![My Open Opportunities screen](media/my-open-opportunities.png "My Open Opportunities screen")
+   > [!div class=mx-imgBorder]
+   > ![Import model](media/import-model.png "Import model")
  
 2. In the confirmation message, tap **Continue**.
 
