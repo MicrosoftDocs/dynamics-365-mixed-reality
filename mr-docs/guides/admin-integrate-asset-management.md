@@ -15,7 +15,6 @@ You can integrate the **Asset Management** module in Microsoft Dynamics 365 Supp
 
 ![Integrated Asset Management guide](media/asset-management-integration.JPG "Integrated Asset Management guide")
 
-[Learn more about how to integrate Asset Management with Dynamics 365 Guides]().
 
 ## See also
 
