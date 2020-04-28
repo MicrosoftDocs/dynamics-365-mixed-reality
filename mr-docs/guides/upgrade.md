@@ -25,7 +25,7 @@ To upgrade the solution:
 
 2. To select the environment, select **Admin centers**, and then select **Dynamics 365** to launch the Dynamics 365 Administration Center. 
 
-   ![Power Platform admin center](media/power-platform-admin-center.PNG "Power Platform admin center")
+   ![Power Platform admin center](media/power-platform-admin-center-1.PNG "Power Platform admin center")
 
 3. In the Dynamics 365 Administration Center, select the name of the instance you want to upgrade the solution for, and then select the **Edit** button next to **Solutions**.
  
