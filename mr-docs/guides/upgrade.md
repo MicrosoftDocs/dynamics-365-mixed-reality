@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Upgrade the Dynamics 365 Guides solution
 
-This topic is for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] administrators. Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. When an update is required, the user will see a notification in the **What's new** panel.
+This topic is for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] administrators. Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. When an update is required, the user will see a notification in the **What's new** panel. 
 
 Keep the following in mind:
 
@@ -19,24 +19,24 @@ Keep the following in mind:
 
 - Updates to the solution must be done when the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps are not in use.  
 
-> [!IMPORTANT]
-> If you're currently using the public preview version of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], to get the October 2019 release, you'll need to search for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, and then select **Install** instead of **Upgrade**. This installs the general availability (GA) version of the solution and removes the public preview solution. For more information, see [Transition from public preview to GA](public-preview-transition.md).
-
 To upgrade the solution:
 
 1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
 
-2. To select the environment, select the check mark, select the **More environment actions** (three dots) button, and then select **Manage Solutions**. 
+2. To select the environment, select **Admin centers**, and then select **Dynamics 365** to launch the Dynamics 365 Administration Center. 
 
-   ![Manage solutions](media/manage-solutions.PNG "Manage solutions")
+   ![Power Platform admin center](media/power-platform-admin-center-1.PNG "Power Platform admin center")
 
-3. Select **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** in the list of solutions, and then select **Upgrade**.
+3. In the Dynamics 365 Administration Center, select the name of the instance you want to upgrade the solution for, and then select the **Edit** button next to **Solutions**.
  
-   ![Upgrade button](media/upgrade.PNG "Upgrade button")   
+   ![Edit button](media/solution-edit-button.PNG "Edit button")  
   
-4. Review the Terms of service, and then select **Accept** if you're ready to start the upgrade. 
-
-   The status of the solution changes to **Installation pending,** and then changes to **Installed** when the upgrade is complete. 
+4. Select **Dynamics 365 Guides** in the list of solutions, and then select the **Upgrade** button.
+ 
+   >[!NOTE]
+   >If you don't see **Dynamics 365 Guides** in the list, select the **Next** arrow at the bottom of the list.
+   
+   ![Upgrade button](media/solution-upgrade-button.PNG "Upgrade button")  
 
 ## Troubleshooting: You receive a "Guide cannot be opened" error message
 
@@ -54,7 +54,7 @@ If a guide wasn't successfully converted, authors or operators will receive the 
 
 ### Manually update a guide from schema v3 to v4
 
-To fix this issue, we recommend that you first try to upgrade the guide schema from v3 to v4. If that approach doesn't fix the issue, review and fix the JSON file (as described later in this topic) before you retry a schema update. 
+To fix this issue, we recommend that you first try to upgrade the guide schema from v3 to v4.  
 
 > [!NOTE]
 > You can't manually update the schema for guides that have already been updated to schema v4. The schema version number appears on the **General** tab when you open a guide in the Guides model-driven app. 
@@ -78,34 +78,12 @@ To fix this issue, we recommend that you first try to upgrade the guide schema f
 5. At the top of the page, select **Flow**, and then select **Upgrade guide schema**.
 
     ![Update guide schema command](media/upgrade-guide-schema.jpg "Update guide schema command")
-
-> [!NOTE]
-> If the issue isn't fixed when you update the guide schema, the guide's JSON file has probably been edited in a way that isn't supported. (For example, too many 3D objects have been programmatically added to the **Step Editor** bin.) Follow the steps in the next procedure to review and replace the JSON file.
-
-#### Review and replace the JSON file
-
-To update the JSON file, you will download the existing file locally so that you can make any required changes, delete the JSON file that is associated with the guide, and then upload the file that you modified.
-
-1. Select the guide where the issue occurs.
-
-    ![Select the guide](media/select-problem-guide.jpg "Select the guide")
-
-2. Under **Note modified by MOD Administrator**, select the JSON file to download. Then open the file in any code editor, and make any required changes. 
-
-    ![Select the JSON file to download](media/download-JSON-file.jpg "Select the JSON file to download")
-
-6. To remove the existing JSON file, hover over the **Note** button, select the **Edit** button, and then select the **X** button.
-
-    ![Remove a JSON file](media/remove-JSON-file.jpg "Remove a JSON file")
-
-7.	To upload the JSON file that you modified, select the **Attach** button.
-
-    ![Upload a JSON file](media/upload-JSON-file.jpg "Upload a JSON file")
-
-8. Select **Save**.
-
-9. Manually trigger a guide schema update as described in the previous procedure.
+    
+>[!NOTE]
+>If the issue isn't fixed when you update the guide schema, the guide's JSON file has probably been edited in a way that isn't supported (for example, too many 3D objects have been programmatically added to the **Step Editor** bin). Contact the Dynamics 365 Guides team directly for guidance, through your Microsoft Account team.
 
 ## See also
- 
-For more information about upgrading a [!include[pn-dyn-365](../includes/pn-dyn-365.md)] solution, [see Install, update, or remove a preferred solution](https://docs.microsoft.com/dynamics365/customer-engagement/admin/install-remove-preferred-solution).
+
+[What's new in Dynamics 365 Guides](new.md)
+
+
