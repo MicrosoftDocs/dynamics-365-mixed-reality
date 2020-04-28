@@ -14,14 +14,15 @@
 ##### [4: Set up Power BI reports](setup-step-four.md)
 #### [Upgrade the solution](upgrade.md)
 #### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
-#### [Transition from public preview to GA](public-preview-transition.md)
 ### Add users, assign roles, and restrict access
 #### [Add users](add-users.md)
 #### [Assign user roles](assign-role.md)
 #### [Restrict access to a specific instance](admin-security.md)
 #### [Limit access to specific guides or guide content](admin-access-teams.md)
 #### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
-### [Integrate Dynamics 365 Field Service](field-service.md)
+### Integrations with other Dynamics 365 apps
+#### [Dynamics 365 Field Service](field-service.md)
+#### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ## I'm an author
 ### [Authoring overview](authoring-overview.md)
@@ -29,6 +30,7 @@
 #### [Overview](pc-app-overview.md)
 #### [Install the app and sign in](install-sign-in-pc-app.md)
 #### [Create a guide](create-guide.md)
+#### [Rename a guide](pc-app-rename-guide.md)
 #### [Anchor your guide to the real world](anchor.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
@@ -60,6 +62,7 @@
 ### [Anchor your guide](operator-anchor.md)
 ### [Operate your guide](operator-orientation.md)
 ## [Analyze your guides](analytics-guide.md)
+## [Entity reference (for developers)](developer-entity-reference.md)
 ## [Get Help and provide feedback](help.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)

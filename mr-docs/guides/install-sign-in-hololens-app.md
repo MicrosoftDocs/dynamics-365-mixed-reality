@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides HoloLens app and calibrate your HoloLens.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 04/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Install and sign in to the Dynamics 365 Guides HoloLens app
@@ -99,11 +99,6 @@ After you've made sure that your [!include[pn-hololens](../includes/pn-hololens.
 9. In the **Select Mode** dialog box, gaze at the circle to the left of **Author** to select it.
 
     ![Select Mode dialog box](media/select-mode.png "Select Mode dialog box")
-
-> [!TIP]
-> [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an example guide that you can use to get ideas for your own guides. Check it out!
->
-> ![Example guide](media/example-guide-hololens.png "Example guide")
 
 ## What's next?
 

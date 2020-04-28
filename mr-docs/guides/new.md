@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 04/01/2020
+ms.date: 04/28/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -14,7 +14,24 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!IMPORTANT]
-> An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution will be released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.<br><br>All Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress will corrupt the guide.<br><br>Any updates to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released after May 26 will require the April 28, 2020 solution. You have until May 26  to install the solution update. All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released on or after May 26 will be backward compatible up to the April 28, 2020 version of the solution.<br><br>If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact. You will be able to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with the existing feature set.<br><br>To schedule a solution update, work with your IT admin.<br><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
+> An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution was released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.<br><br>All Dynamics 365 Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress will corrupt the guide.<br><br>Any updates to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released after May 26 will require the April 28, 2020 solution. You have until May 26  to install the solution update. All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released on or after May 26 will be backward compatible up to the April 28, 2020 version of the solution.<br><br>If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact. You will be able to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with the existing feature set.<br><br>To schedule a solution update, work with your IT admin.<br><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
+
+## April 28, 2020
+
+Version 400.2004.24002.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and version 400.0.0.18 of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution include the following new features.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/access-dynamics-365-guides-content-through-common-data-service-entities" target="_blank">Access Dynamics 365 Guides content through Common Data Service entities</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/integrate-asset-management-module-dynamics-365-supply-chain-management" target="_blank">Integrate the Asset Management module of Dynamics 365 Supply Chain Management with Dynamics 365 Guides</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/rename-guides-pc-app" target="_blank">Rename guides in the PC app</a> | No |
+
+### Other updates: Example guide is deprecated
+
+From the April 28, 2020 release onward, the Example guide is deprecated and no longer deployed to new instances. If users have already installed the Example guide in a non-English deployment, they won't be able to open the guide. When attempting to open a localized Example guide, users will be redirected back to the **Guides** list.
+
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## April 1, 2020
 
@@ -25,16 +42,13 @@ Version 305.2003.28001 of the PC and [!include[pn-hololens](../includes/pn-holol
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/restrict-access-guides-that-aren’t-ready-use-through-publishing-process" target="_blank">Restrict access to guides that aren't ready to share with operators</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Sort items in the PC app gallery by recently added, or by name</a> | No |
 
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <https://aka.ms/GuidesIdeas>.
-
 ## February 25, 2020
 
 Version 304.2002.25001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and version 300.0.4.139 of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution include the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|-------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/planned-features" target="_blank">Anchor guides by using QR codes</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/anchor-guide-qr-code" target="_blank">Anchor guides by using QR codes</a> | Yes |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/create-copy-link-guide-or-step" target="_blank">Create and copy a link to a guide or step</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/open-app-created-power-apps-step" target="_blank">Open an app created in Power Apps from a step</a> | Yes |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/deactivate-reactivate-or-delete-guide" target="_blank">Deactivate, reactivate, or delete a guide</a> | No |
@@ -105,7 +119,7 @@ Version 104.1908.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 [!include[pn-hololens](../includes/pn-hololens.md)] app version 104.1908.2001.0 fixes an issue in the July 23 release of the [!include[pn-hololens](../includes/pn-hololens.md)] app that prevented the list of guides from being shown in the [!include[pn-hololens](../includes/pn-hololens.md)] application for Europe, Middle East, and Asia-based customers. We also released an updated version of the Power BI reporting template that fixes a bug related to missing data causing the report to break.
 
-To get this update, you just have to update the [!include[pn-hololens](../includes/pn-hololens.md)] app from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store. You don't have to update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. For the Power BI report, visit <https://aka.ms/guidesreport>.
+To get this update, you just have to update the [!include[pn-hololens](../includes/pn-hololens.md)] app from [!include[cc-microsoft](../includes/cc-microsoft.md)] Store. You don't have to update the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. For the Power BI report, visit <a href="https://aka.ms/guidesreport" target="_blank">https://aka.ms/guidesreport</a>.
 
 ## July 23, 2019
 
@@ -133,7 +147,7 @@ Version 103.1907.4001.0 of the PC and [!include[pn-hololens](../includes/pn-holo
  
 ## June 3, 2019
 
-Version 103.1905.31001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps includes the following new features.
+Version 103.1905.31001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps include the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|-------|
