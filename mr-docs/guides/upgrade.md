@@ -23,17 +23,20 @@ To upgrade the solution:
 
 1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
 
-2. To select the environment, select the check mark, select the **More environment actions** (three dots) button, and then select **Manage Solutions**. 
+2. To select the environment, select **Admin centers**, and then select **Dynamics 365** to launch the Dynamics 365 Administration Center. 
 
-   ![Manage solutions](media/manage-solutions.PNG "Manage solutions")
+   ![Power Platform admin center](media/power-platform-admin-center.PNG "Power Platform admin center")
 
-3. Select **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** in the list of solutions, and then select **Upgrade**.
+3. In the Dynamics 365 Administration Center, select the name of the instance you want to upgrade the solution for, and then select the **Edit** button next to **Solutions**.
  
-   ![Upgrade button](media/upgrade.PNG "Upgrade button")   
+   ![Edit button](media/solution-edit-button.PNG "Edit button")  
   
-4. Review the Terms of service, and then select **Accept** if you're ready to start the upgrade. 
-
-   The status of the solution changes to **Installation pending,** and then changes to **Installed** when the upgrade is complete. 
+4. Select **Dynamics 365 Guides** in the list of solutions, and then select the **Upgrade** button.
+ 
+   >[!NOTE]
+   >If you don't see **Dynamics 365 Guides** in the list, select the **Next** arrow at the bottom of the list.
+   
+   ![Upgrade button](media/solution-upgrade-button.PNG "Upgrade button")  
 
 ## Troubleshooting: You receive a "Guide cannot be opened" error message
 
@@ -75,6 +78,9 @@ To fix this issue, we recommend that you first try to upgrade the guide schema f
 5. At the top of the page, select **Flow**, and then select **Upgrade guide schema**.
 
     ![Update guide schema command](media/upgrade-guide-schema.jpg "Update guide schema command")
+    
+>[!NOTE]
+>If the issue isn't fixed when you update the guide schema, the guide's JSON file has probably been edited in a way that isn't supported (for example, too many 3D objects have been programmatically added to the Step Editor bin). Contact the Dynamics 365 Guides team directly for guidance, through your Microsoft Account team.
 
 ## See also
  
