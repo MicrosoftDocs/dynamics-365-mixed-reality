@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about resources to get started with Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 03/24/2020
+ms.date: 04/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Guides
@@ -51,16 +51,6 @@ To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-3
 
 ![Try the demo button](media/try-demo-2.PNG "Try the demo button")
 
-### Example guide
-
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an Example guide that you can use to learn about the product. The Example guide walks you through frequently used workflows and features, provides tips and tricks for creating great guides, and helps you learn by doing.
-
-![Example guide](media/example-guide-3.PNG "Example guide")
-
-To try out the Example guide, put on your [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)], start the [!include[pn-hololens](../includes/pn-hololens.md)] app in **Operate** mode, and then select **Example guide**.
-
-Go through the guide step by step to learn about key features. Then, when you're ready to go to the next level, use the PC app to edit the guide steps and assets, or place instructions or holograms by using the [!include[pn-hololens](../includes/pn-hololens.md)] app in **Author** mode.
-
 ## Understand concepts
 
 Use these topics to get a quick overview of the product and the process of authoring a guide:
@@ -99,13 +89,11 @@ To learn when features were introduced, or to learn about upcoming features, see
 
 ## Integrations
 
-You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service, so that field service technicians can use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to complete their work orders.
+You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service and Dynamics 365 Supply Chain Management.
 
-![Field Service tab](media/field-service-2.PNG "Field Service tab")
+- **Dynamics 365 Field Service integration.** Integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service to enable field service technicians to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to complete their work orders. [Learn more about how to integrate Dynamics 365 Field Service](field-service.md).
 
-To learn more, check out this topic:
-
-- [Integrate Dynamics 365 Guides with Dynamics 365 Field Service](field-service.md)
+- **Dynamics 365 Supply Chain Management.** Integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with the **Asset Management** module in Dynamics 365 Supply Management to take advantage of mixed-reality guides in your day-to-day service and maintenance workflows. [Learn more about how to integrate Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md).
 
 ## Need help or support?
 
