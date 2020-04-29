@@ -10,6 +10,10 @@ ms.topic: article
 ms.reviewer:
 ---
 
+
+<!--editor's note: See questions below in lines 52 and 78. Also, the name "Kenny Smith" appears in a number of images. Please confirm that this names is from an approved fictitious names list. -->
+
+
 # Add a note to a 3D model in Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
@@ -20,7 +24,7 @@ To review notes attached to a model, tap any spatial anchor on the model. Anchor
 
 You also can browse through your notes by swiping the notes at the bottom of the screen. The corresponding spatial anchor is activated on the model as you swipe.
 
-The following table shows how notes appear on the model, depending on where the note is located.
+The following images show how notes appear on the model, depending on where the note is located.
 
 |Note on front of the model|Note on back of the model|Note and model off the screen|
 |-------------------------------------|-------------------------------------------|-----------------------------------------|
@@ -44,6 +48,10 @@ The following table shows how notes appear on the model, depending on where the 
 
 5. To add a message, tap **Type a message here**, and add the text.
 
+
+<!-- It might be helpful to use an image that instead shows the box with the "Type a message here" text. This image already has a message. -->
+
+
     > [!div class=mx-imgBorder]
     > ![Type a message](media/note-text.png "Type a message")
 
@@ -62,9 +70,13 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Remove pinned note](media/pin-added.png "Remove pinned note")
 
-7. Tap **Finish**.
+8. Tap **Finish**.
 
 ### Attach a photo to the note
+
+
+<!-- In the following, should it be "When adding a photo,..."? -->
+
 
 1. When adding a note, tap **Attach image**.
 
@@ -74,7 +86,7 @@ The following table shows how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Attach image](media/attach-image.png "Tap Attach image")
     
-2. Tap **Photo** to take a photo of the model, or tap **Camera Roll** if you want to use a photo that's already stored on your device.
+2. Tap **Photo** to take a photo of the model, or tap **Camera roll** if you want to use a photo that's already stored on your device.
 
     > [!div class=mx-imgBorder]
     > ![Tap Photo](media/camera-roll.png "Tap Photo")
@@ -110,7 +122,7 @@ A video allows you to capture more details about your customers' requirements. I
     > [!div class=mx-imgBorder]
     > ![Video notes feature](media/video-notes-feature.png "Video notes feature")
 
-**To attach video to the note**
+**To attach a video to the note**
 
 1. When adding a note, tap **Attach** > **Upload from library**.
 
@@ -158,7 +170,7 @@ You can export your notes to share them with other apps on your device that supp
     > [!div class=mx-imgBorder]
     > ![Navigate to the note](media/note.png "Navigate to the note")
 
-3.	In the **Options** dialog box, tap **Export Note**.
+3.	In the **Options** dialog box, tap **Export note**.
 
     > [!div class=mx-imgBorder]
     > ![Export note](media/export-note.png "Export note")
@@ -201,7 +213,7 @@ You can export your notes to share them with other apps on your device that supp
     > [!div class=mx-imgBorder]
     > ![Navigate to the note](media/note.png "Navigate to the note")
 
-3.	In the **Options** dialog box, tap **Delete Note**.
+3.	In the **Options** dialog box, tap **Delete note**.
 
     > [!div class=mx-imgBorder]
     > ![Delete a note](media/delete-note.png "Delete a note")
@@ -216,7 +228,7 @@ To turn off sharing with the Dynamics 365 Sales timeline or Teams channels:
 
 1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.  
 
-2. Move the **Dynamics 365 for Sales Timeline** slider to the Off position.
+2. Move the **Dynamics 365 for Sales Timelines** toggle to the Off position.
 
    > [!div class=mx-imgBorder]
    > ![Notes output options](media/note-output-options.png "Notes output options")
