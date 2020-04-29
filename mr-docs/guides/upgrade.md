@@ -23,20 +23,17 @@ To upgrade the solution:
 
 1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
 
-2. To select the environment, select **Admin centers**, and then select **Dynamics 365** to launch the Dynamics 365 Administration Center. 
+2. To select the environment, select **Resources**, and then select **Dynamics 365**. 
 
-   ![Power Platform admin center](media/power-platform-admin-center-1.PNG "Power Platform admin center")
+   ![Power Platform admin center](media/power-platform-admin-center-2.PNG "Power Platform admin center")
 
-3. In the Dynamics 365 Administration Center, select the name of the instance you want to upgrade the solution for, and then select the **Edit** button next to **Solutions**.
+3. Next to **Dynamics 365 Guides**, select the **More application actions** button, and then select **Install**.
  
-   ![Edit button](media/solution-edit-button.PNG "Edit button")  
+   ![Install button](media/more-application-actions-install.PNG "Install button")  
   
-4. Select **Dynamics 365 Guides** in the list of solutions, and then select the **Upgrade** button.
- 
-   >[!NOTE]
-   >If you don't see **Dynamics 365 Guides** in the list, select the **Next** arrow at the bottom of the list.
-   
-   ![Upgrade button](media/solution-upgrade-button.PNG "Upgrade button")  
+4. In the right panel, select the environment you want to upgrade the solution for, select the **I agree to the terms of service** check box, and then select **Install**.  
+    
+   ![Install button](media/solution-install-button.PNG "Install button")  
 
 ## Troubleshooting: You receive a "Guide cannot be opened" error message
 
