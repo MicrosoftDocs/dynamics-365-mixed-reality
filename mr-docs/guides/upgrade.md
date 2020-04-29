@@ -27,7 +27,7 @@ To upgrade the solution:
 
    ![Power Platform admin center](media/power-platform-admin-center-2.PNG "Power Platform admin center")
 
-3. Next to **Dynamics 365 Guides**, select the **More application actions** button, and then select **Install**.
+3. Next to **Dynamics 365 Guides**, select the **More application actions** (...) button, and then select **Install**.
  
    ![Install button](media/more-application-actions-install.PNG "Install button")  
   
