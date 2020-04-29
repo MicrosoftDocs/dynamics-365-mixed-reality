@@ -1,5 +1,5 @@
 ---
-title: Add a note to your 3D model in Dynamics 365 Product Visualize.
+title: Add a note to your 3D model in Dynamics 365 Product Visualize
 description: Learn how to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize.
 author: sbmjais
 ms.author: shjais
@@ -14,17 +14,17 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-You can capture notes while giving product demonstration, and add text or draw on the notes. You can also attach notes on specific points on a 3D model. For example, when you're in the field with a customer, you can capture any required product changes directly on the model. Any notes you create are saved in Common Data Service.
+You can capture notes while giving a product demonstration and add text or draw on the notes. You also can attach notes on specific points on a 3D model. For example, when you're in the field with a customer, you can capture any required product changes directly on the model. Any notes you create are saved in Common Data Service.
 
 To review notes attached to a model, tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. For a model and note that's off the screen, a "note bubble" points in the direction of the model and note. See the table below for information about how these notes appear.
 
-You can also browse through your notes by swiping the notes at the bottom of the screen. The corresponding spatial anchor is activated on the model as you swipe.
+You also can browse through your notes by swiping the notes at the bottom of the screen. The corresponding spatial anchor is activated on the model as you swipe.
 
 The following table shows how notes appear on the model, depending on where the note is located.
 
 |Note on front of the model|Note on back of the model|Note and model off the screen|
 |-------------------------------------|-------------------------------------------|-----------------------------------------|
-|![Note on front of model](media/front-note.PNG "Note on front of the model")|![Note on back of model](media/back-note.PNG "Note on back of the model")|![Note and model off the screen](media/off-screen-note.PNG "Note and model off the screen")|
+|![Note on front of model](media/front-note.PNG "Note on front of model")|![Note on back of model](media/back-note.PNG "Note on back of model")|![Note and model off the screen](media/off-screen-note.PNG "Note and model off the screen")|
 
 ## Add a note
 
@@ -40,27 +40,27 @@ The following table shows how notes appear on the model, depending on where the 
 
 3. To add a photo, see [Attach a photo to the note](#attach-a-photo-to-the-note).
 
-4. To attach a video, see [Attach a video to the note](#attach-a-video-to-the-note).
+4. To add a video, see [Attach a video to the note](#attach-a-video-to-the-note).
 
 5. To add a message, tap **Type a message here**, and add the text.
 
     > [!div class=mx-imgBorder]
-    > ![Tap Attach image](media/note-text.png "Tap Attach image")
+    > ![Type a message](media/note-text.png "Type a message")
 
 6. To attach the note at a specific point in your model, tap **Pin to model**.
 
     > [!div class=mx-imgBorder]
     > ![Tap Pin to model](media/pin-to-model.png "Tap Pin to model")
 
-    - Tap the model where you want to attach the note, and then tap **Done**.
+7. Tap the model where you want to attach the note, and then tap **Done**.
  
-       > [!div class=mx-imgBorder]
-       > ![Tap on the model](media/tap-on-product.png "Tap on the model")
+    > [!div class=mx-imgBorder]
+    > ![Tap the model](media/tap-on-product.png "Tap the model")
 
-       The note is attached at the tapped location on the model. If you want to remove the pin from the model, tap **Remove pin**.
+    The note is attached at the tapped location on the model. If you want to remove the pin from the model, tap **Remove pin**.
 
-       > [!div class=mx-imgBorder]
-       > ![Remove pinned note](media/pin-added.png "Remove pinned note")
+    > [!div class=mx-imgBorder]
+    > ![Remove pinned note](media/pin-added.png "Remove pinned note")
 
 7. Tap **Finish**.
 
