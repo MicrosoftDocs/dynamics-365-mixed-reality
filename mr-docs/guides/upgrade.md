@@ -31,7 +31,7 @@ To upgrade the solution:
  
    ![Install button](media/more-application-actions-install.PNG "Install button")  
   
-4. In the right panel, select the environment you want to upgrade the solution for, select the **I agree to the terms of service** check box, and then select **Install**.  
+4. In the dialog box that appears, select the environment that you want to upgrade the solution for, select the **I agree to the terms of service** check box, and then select **Install**.  
     
    ![Install button](media/solution-install-button.PNG "Install button")  
 
