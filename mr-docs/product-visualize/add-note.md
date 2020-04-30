@@ -10,10 +10,6 @@ ms.topic: article
 ms.reviewer:
 ---
 
-
-<!--editor's note: See questions below in lines 52 and 78. Also, the name "Kenny Smith" appears in a number of images. Please confirm that this names is from an approved fictitious names list. -->
-
-
 # Add a note to a 3D model in Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
@@ -42,18 +38,19 @@ The following images show how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Add](media/add-note.png "Tap Add")
 
-3. To add a photo, see [Attach a photo to the note](#attach-a-photo-to-the-note).
+3. To attach a photo, see [Attach a photo to the note](#attach-a-photo-to-the-note).
 
-4. To add a video, see [Attach a video to the note](#attach-a-video-to-the-note).
+4. To attach a video, see [Attach a video to the note](#attach-a-video-to-the-note).
 
 5. To add a message, tap **Type a message here**, and add the text.
 
+    > [!div class=mx-imgBorder]
+    > ![Type a message](media/add-note-text.png "Type a message")
 
-<!-- It might be helpful to use an image that instead shows the box with the "Type a message here" text. This image already has a message. -->
-
+    The text message is added.
 
     > [!div class=mx-imgBorder]
-    > ![Type a message](media/note-text.png "Type a message")
+    > ![Text message added](media/note-text.png "Text message added")
 
 6. To attach the note at a specific point in your model, tap **Pin to model**.
 
@@ -73,10 +70,6 @@ The following images show how notes appear on the model, depending on where the 
 8. Tap **Finish**.
 
 ### Attach a photo to the note
-
-
-<!-- In the following, should it be "When adding a photo,..."? -->
-
 
 1. When adding a note, tap **Attach image**.
 
