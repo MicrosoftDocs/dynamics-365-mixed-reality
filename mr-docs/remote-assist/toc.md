@@ -47,6 +47,9 @@
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 
 ## Additional resources
+### Version history
+#### [Remote Assist mobile](version-history-remote-assist-mobile.md)
+
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
 ### [FAQ](faq.md)
