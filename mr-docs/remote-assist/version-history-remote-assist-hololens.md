@@ -1,5 +1,5 @@
 ---
-title: "Remote Assist mobile version history | MicrosoftDocs"
+title: "Remote Assist HoloLens version history | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
 ms.date: 05/01/2020
