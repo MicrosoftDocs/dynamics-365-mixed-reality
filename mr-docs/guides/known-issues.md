@@ -13,7 +13,9 @@ ms.reviewer: v-brycho
 
 ## I can't install or upgrade the Dynamics 365 Guides solution
 
-To install or upgrade the Dynamics 365 Guides solution, you must have admin permissions for Dynamics 365 Guides and you must also have a [Dynamics 365 Guides license assigned to your user account](https://docs.microsoft.com/dynamics365/mixed-reality/guides/add-users). [Learn more about updating the Dynamics 365 Guides solution](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade).
+To install or upgrade the Dynamics 365 Guides solution, you must have admin permissions for Dynamics 365 Guides and you must also have a [Dynamics 365 Guides license assigned to your user account](https://docs.microsoft.com/dynamics365/mixed-reality/guides/add-users).
+
+[Learn more about updating the Dynamics 365 Guides solution](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade).
 
 ## I can't sign in
 
