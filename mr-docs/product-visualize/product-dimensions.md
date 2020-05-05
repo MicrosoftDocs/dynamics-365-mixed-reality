@@ -14,7 +14,7 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Dynamics 365 Product Visualize has a tool to display your model measurements in imperial or metric units. To display model dimensions, you must enable the Product dimensions feature. 
+Dynamics 365 Product Visualize has a tool to display your model measurements in imperial or metric unit. To display model dimensions, you must enable the Product dimensions feature. 
 
 > [!NOTE]
 > Product dimensions is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
@@ -31,19 +31,19 @@ Dynamics 365 Product Visualize has a tool to display your model measurements in 
     > [!div class=mx-imgBorder]
     > ![Product dimensions feature](media/product-dimensions-feature.png "Product dimensions feature")
 
-## Set measurement units
+## Set measurement unit
 
 1. Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Settings**.
 
     > [!div class=mx-imgBorder]
     > ![Settings button](media/edit-account-settings.png "Settings button")
 
-2. Next to **Measurement Unit**, tap **Change unit**.
+2. Next to **Measurement unit**, tap **Change unit**.
 
      > [!div class=mx-imgBorder]
-     > ![Measurement units section](media/measurement-units-section.png "Measurement units")
+     > ![Measurement unit section](media/measurement-units-section.png "Measurement unit")
 
-3. On the **Measurement Unit** screen, tap either **Metric** or **Imperial**.
+3. On the **Measurement unit** screen, tap either **Metric** or **Imperial**.
 
     > [!div class=mx-imgBorder]
     > ![Select a measurement unit](media/select-measurement-unit.png "Select a measurement unit")
@@ -55,7 +55,7 @@ Dynamics 365 Product Visualize has a tool to display your model measurements in 
     > [!div class=mx-imgBorder]
     > ![Dimensions button](media/dimensions-button.png "Dimensions button")
 
-2. The model dimensions are displayed as per the selected measurement units.
+2. The model dimensions are displayed as per the selected measurement unit.
 
     > [!div class=mx-imgBorder]
     > ![Model dimensions](media/model-dimensions.png "Model dimensions")
