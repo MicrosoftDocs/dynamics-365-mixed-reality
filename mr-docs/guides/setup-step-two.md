@@ -118,29 +118,26 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
 
 ## Install and configure the solution<a name="configure"></a>
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the **More environment actions** (**...**) button next to the configured environment, and then select **Manage Solutions**.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the left pane, select **Resources** > **Dynamics 365 apps**, select **Dynamics 365 Guides** in the list, and then select **Install**. 
 
-    ![Manage Solutions command](media/manage-solutions.PNG "Manage Solutions command")
+    ![Select Dynamics 365 Guides](media/select-dynamics-365-guides.PNG "Dynamics 365 Guides")
 
-    > [!NOTE]
-    > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the Power Apps portal.
+2. In the right pane that appears, select an environment, select the **I agree to the terms of service** check box, and then select **Install**.
 
-2. Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the list, and then select **Install**.
+    ![Install button](media/solution-install.PNG "Install button")
 
-    ![Install button](media/solutions-install-button.png "Install button")
+3. In the Power Platform admin center, the following message is displayed: "Dynamics 365 Guides installation started at <*time*>, <*date*> by <*name*> Account."
 
-3. In the **Terms of Service** dialog box, review the terms, and then select **Install**.
+    ![Installation message](media/installing-solution.PNG "Installation message")
 
-    In the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center, the following message is shown to indicate that the solution is about to be installed: "Please wait while installation starts. This may take a few minutes."
-
-    ![Installation message](media/installing-solution.png "Installation message")
-
-    While the solution is being installed, **Installation pending** will appear in the **Status** field for the solution. After the solution has been installed, the **Status** field is updated to **Installed**.
+    While the solution is being installed, **Installing...** will appear in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
 
     > [!NOTE]
-    > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, try to refresh the page. If the installation is unsuccessful, the following message is shown: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."
+    > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed."
     >
     > ![Failed installation message](media/failed-install.PNG "Failed installation message")
+    >
+    > To try installing again, under **Error details**, select the **retry installation** link.
 
 ## Set up user roles for the solution<a name="user-roles"></a>
 
