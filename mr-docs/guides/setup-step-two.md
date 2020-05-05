@@ -97,7 +97,6 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 7. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
 
-
 ## Change the maximum upload file size<a name="upload"></a>
 
 In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, you can upload your own 3D files in addition to videos and 2D images. Because many of these files will be larger than 5 megabytes (MB), you must increase the maximum file size for uploaded files by changing the setting for the size of email attachments.
@@ -133,11 +132,9 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
     While the solution is being installed, **Installing...** will appear in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
 
     > [!NOTE]
-    > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed."
+    > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed." To try installing again, on the right side of the screen, under **Error details**, select the **retry installation** link.
     >
     > ![Failed installation message](media/failed-solution-install.PNG "Failed installation message")
-    >
-    > To try installing again, under **Error details**, select the **retry installation** link.
 
 ## Set up user roles for the solution<a name="user-roles"></a>
 
