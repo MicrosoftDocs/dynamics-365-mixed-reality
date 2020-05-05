@@ -21,7 +21,7 @@ You can download models to use offline when you're away from a cellular network 
 
 ## Enable offline mode
 
-1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Preview features**.
+1. Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Preview features**.
 
    > [!div class=mx-imgBorder]
    > ![Preview features](media/preview-features.png "Preview features")
@@ -54,7 +54,7 @@ You can download models to use offline when you're away from a cellular network 
 
 You can update all of your downloaded models at once.
 
-1.	Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Downloads**.
+1.	Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Downloads**.
 
       > [!div class=mx-imgBorder]
       > ![Downloads options](media/downloads-option.png "Downloads options")
@@ -68,7 +68,7 @@ You can update all of your downloaded models at once.
 
 ## Delete all downloaded models
 
-1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then tap the **Settings** button.
+1. Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap the **Settings** button.
 
       > [!div class=mx-imgBorder]
       > ![Settings button](media/edit-account-settings.png "Settings button")

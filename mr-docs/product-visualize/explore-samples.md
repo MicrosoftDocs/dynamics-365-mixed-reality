@@ -24,12 +24,12 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
      > [!div class=mx-imgBorder]
      > ![Welcome screen](media/welcome.png "Welcome screen")
 
-     You can also tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Sample products** to see samples.
+     You can also tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Sample products** to see samples.
      
      > [!div class=mx-imgBorder]
      > ![Sample products menu item](media/sample-products-menu.png "Sample products menu item")
  
-3. On the My Open Opportunities screen, select the **Contoso, Ltd. Mfg Sale** opportunity. 
+3. On the **My Open Opportunities** screen, select the **Contoso, Ltd. Mfg Sale** opportunity. 
 
      > [!div class=mx-imgBorder]
      > ![Sample opportunity](media/sample-opportunity.png "Sample opportunity")

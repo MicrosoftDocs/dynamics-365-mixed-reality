@@ -21,7 +21,7 @@ Dynamics 365 Product Visualize has a tool to display your model measurements in 
 
 **To enable product dimensions**
 
-1. Tap the **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Preview features**.
+1. Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Preview features**.
 
     > [!div class=mx-imgBorder]
     > ![Preview features](media/preview-features.png "Preview features")

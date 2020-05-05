@@ -16,7 +16,7 @@ ms.reviewer:
 
 You don't have to have a Dynamics 365 account to view 3D models in Dynamics 365 Product Visualize. If you have a 3D model stored on your device in GLB file format, you can browse to it in Dynamics 365 Product Visualize to see what the model would look like.
 
-1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Import model**.
+1. Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Import model**.
 
    > [!div class=mx-imgBorder]
    > ![Import model](media/import-model.png "Import model")
