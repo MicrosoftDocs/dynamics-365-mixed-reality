@@ -98,14 +98,14 @@ The following images show how notes appear on the model, depending on where the 
 
 ### Attach a video to the note
 
-A video allows you to capture more details about your customers' requirements. It also allows you to demonstrate the functionality of your products in addition to their placement at the customer's premises. To attach a video to a note, you must enable the Video notes feature.
+A video allows you to capture more details about your customers' requirements. It also allows you to demonstrate the functionality of your products in addition to their placement at the customer's premises. To attach a video to a note, you must enable the video notes feature.
 
 > [!NOTE]
 > Video notes is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 
 **To enable video notes**
 
-1. Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Preview features**.
+1. Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Preview features**.
 
     > [!div class=mx-imgBorder]
     > ![Preview features](media/preview-features.png "Preview features")
@@ -219,7 +219,7 @@ By default, your notes are saved to the SharePoint account associated with your 
 
 To turn off sharing with the Dynamics 365 Sales timeline or Teams channels:
 
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu button"), and then select the account you're signed in to.  
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu icon"), and then select the account you're signed in to.  
 
 2. Move the **Dynamics 365 for Sales Timelines** toggle to the Off position.
 

@@ -21,7 +21,7 @@ If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your lo
 
 ## Add a 3D model to a product
 
-1.	Tap **Main** ![Main menu button](media/hamburger-icon.png "Main menu button"), and then tap **Import model**.
+1.	Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Import model**.
 
     > [!div class=mx-imgBorder]
     > ![Import model](media/import-model.png "Import model")
