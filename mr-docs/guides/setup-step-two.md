@@ -144,7 +144,7 @@ If you have trouble installing and configuring the solution as described above, 
 
    ![Select Dynamics 365](media/select-dynamics-365-1.PNG "Select Dynamics 365")
 
-2. In the Dynamics 365 admin center, select an environment, and then select the **Solutions** button. 
+2. In the Dynamics 365 Administration Center, select an environment, and then select the **Solutions** button. 
 
    ![Solutions button](media/select-solutions-button-1.PNG "Solutions button")
 
