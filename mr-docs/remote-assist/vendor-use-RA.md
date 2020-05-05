@@ -9,7 +9,7 @@ title: Vendor and contractor usage of Remote Assist
 ms.reviewer: krbjoran
 ---
 
-# Vendor and contractor usage of Remote Assist
+# Vendors and contractors use Remote Assist application
 
 A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technicians and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
 
@@ -17,7 +17,7 @@ However, there are certain scenarios where this may not be the case:
 
 1. **Multi-tenant company deployments**: A company has multiple organizations or business units, each with their own tenant, that want to collaborate using Remote Assist. Or, multiple companies want to collaborate using Remote Assist. Users who want to use Remote Assist already have Remote Assist licenses, and users who want to use Teams already have Teams licenses. Learn more about multi-tenant collaboration in this document. [Learn more about this scenario.](multi-tenant-deployment.md) 
 
-2. **Vendors and contractors use Remote Assist**: A company wants vendors and contractors who do not already have Remote Assist and aren’t part of the company tenant to use Remote Assist. This document focuses on this scenario.
+2. **Vendors and contractors use Remote Assist application**: A company wants vendors and contractors who do not already have Remote Assist and aren’t part of the company tenant to use Remote Assist on HoloLens or mobile device. This document focuses on this scenario.
 
 > [!Note] 
 > This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Remote Assist, please contact your Microsoft sales representative.
