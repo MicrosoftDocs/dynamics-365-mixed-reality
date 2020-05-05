@@ -4,7 +4,7 @@ description: Learn how to download 3D models offline so that you can use them wh
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 04/27/2020
+ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

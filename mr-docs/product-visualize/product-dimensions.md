@@ -4,7 +4,7 @@ description: Learn how to enable product dimensions to see model dimensions in D
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 04/27/2020
+ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

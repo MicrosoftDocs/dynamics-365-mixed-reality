@@ -4,7 +4,7 @@ description: Learn how to add a note (including text and drawings) to a 3D model
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 04/27/2020
+ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

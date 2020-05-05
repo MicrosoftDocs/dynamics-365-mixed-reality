@@ -4,7 +4,7 @@ description: User guide for Dynamics 365 Product Visualize, including opening an
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 03/02/2020
+ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
