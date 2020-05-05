@@ -11,6 +11,10 @@ ms.reviewer: v-brycho
 
 # Known issues with Microsoft Dynamics 365 Guides
 
+## I can't install or upgrade the Dynamics 365 Guides solution
+
+To install or upgrade the Dynamics 365 Guides solution, you must have admin permissions for Dynamics 365 Guides and you must also have a [Dynamics 365 Guides license assigned to your user account](https://docs.microsoft.com/dynamics365/mixed-reality/guides/add-users).
+
 ## I can't sign in
 
 To sign in, you must use the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] sign-in credentials for your organization. It will resemble: `johndoe@contoso.onmicrosoft.com`. You can't use a [!include[cc-microsoft](../includes/cc-microsoft.md)] account (used for Outlook.com, [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Store, and so on) or your corporate credentials to sign in. 
