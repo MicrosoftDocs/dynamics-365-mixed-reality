@@ -4,7 +4,7 @@ description: How to place, resize, rotate, move, and lift 3D models in Dynamics 
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 02/26/2020
+ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -34,13 +34,13 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
     > [!div class=mx-imgBorder]
     > ![Find a surface](media/preface-find-surface.png "Find a surface")
 
-4.  To place the model, tap **Place** on the right side of the screen. The model is placed at the surface.
+4.  To place the model, tap **Place** at the bottom of the screen. The model is placed at the surface.
 
     > [!div class=mx-imgBorder]
-    > ![Place model item](media/preface-model-placed.png "Place model item")
+    > ![Place model item](media/model-placed.png "Place model item")
     
     > [!TIP]
-    > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product dimensions](product-dimensions.md). After enabling the feature, tap **Dimensions** on the right side of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
+    > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product dimensions](product-dimensions.md). After enabling the feature, tap **Dimensions** at the bottom of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
 
 ## Manipulate your model
 
@@ -97,7 +97,7 @@ To lift your model in a vertical direction up or down, use two fingers placed si
 
 After placing a model you can easily switch to view a different model.
 
-1.	Tap **Models** on the right side of the screen.
+1.	Tap **Models** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Switch models](media/select-models.png "Switch models")

@@ -4,7 +4,7 @@ description: Learn how to open and sign in to Dynamics 365 Product Visualize.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 02/26/2020
+ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -45,12 +45,12 @@ You can open and sign in to Dynamics 365 Product Visualize on your iOS device in
 
     ![Welcome screen](media/welcome.PNG "Welcome screen")
  
-3.	On the **Sign in** screen, enter your Dynamics 365 Sales account. When you're done, tap **Next**.  
+3.	On the **Sign in** screen, enter your Dynamics 365 Sales account credentials. When you're done, tap **Next**.  
  
     > [!NOTE]
     > After you sign in for the first time, this screen won't appear again.
 
-4.	When you first sign in, you're prompted to select your Dynamics 365 Sales organization. You can change organizations later, if you want, through **Account Settings**.  
+4.	When you first sign in, you're prompted to select your Dynamics 365 Sales organization. You can change organizations later, if you want, through **Settings**.  
 
     ![My organizations screen](media/my-organizations.PNG "My organizations screen") 
  
@@ -107,7 +107,7 @@ If you haven’t already installed Dynamics 365 Product Visualize on your iOS de
 
 If you have access to more than one Dynamics 365 organization, you can use this procedure to switch between organizations.
 
-1.	Tap the main menu ![Main menu button](media/hamburger-icon.png "Main menu button") button and then tap **Settings**.
+1.	Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon") and then tap **Settings**.
 
     > [!div class=mx-imgBorder]
     > ![Account settings menu item](media/edit-account-settings.png "Account settings menu item")

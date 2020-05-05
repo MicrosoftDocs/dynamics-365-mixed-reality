@@ -4,7 +4,7 @@ description: Learn how to download 3D models offline so that you can use them wh
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 01/29/2020
+ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -14,19 +14,19 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-You can download models to use offline when you're away from a cellular network or Wi-Fi. To download models for offline use, you need to first enable Offline mode.
+You can download models to use offline when you're away from a cellular network or Wi-Fi. To download models for offline use, you need to first enable the offline mode feature.
 
 > [!NOTE]
 > Downloading models for offline use is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 
-## Enable Offline mode
+## Enable offline mode
 
-1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Preview features**.
+1. Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Preview features**.
 
    > [!div class=mx-imgBorder]
    > ![Preview features](media/preview-features.png "Preview features")
 
-2. In the **Feature Settings** screen, slide the **Download products to view offline** toggle to On.
+2. In the **Feature Settings** screen, move the **Download products to view offline** toggle to the On position.
 
    > [!div class=mx-imgBorder]
    > ![Offline mode feature](media/offline-mode.png "Offline mode feature")
@@ -39,6 +39,10 @@ You can download models to use offline when you're away from a cellular network 
 
    ![Cloud button](media/cloud-button.PNG "Cloud button")
    
+   A progress bar is displayed at the top of the screen indicating the status of downloads.
+
+   ![Model download in progress](media/model-download-progress.PNG "Model download in progress")
+   
    When the model is downloaded, a blue check mark is displayed in place of the cloud button.
    
    ![Model downloaded button](media/model-downloaded.PNG "Model downloaded button")
@@ -50,7 +54,7 @@ You can download models to use offline when you're away from a cellular network 
 
 You can update all of your downloaded models at once.
 
-1.	Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button, and then tap **Downloads**.
+1.	Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Downloads**.
 
       > [!div class=mx-imgBorder]
       > ![Downloads options](media/downloads-option.png "Downloads options")
@@ -62,12 +66,9 @@ You can update all of your downloaded models at once.
 
       A progress bar is displayed at the top of the screen indicating the status of downloads.
 
-      > [!div class=mx-imgBorder]
-      > ![Download progress bar](media/download-progress-bar.png "Download progress bar")
-
 ## Delete all downloaded models
 
-1. Tap the **Main** menu ![Main menu button](media/hamburger-icon.png "Main menu button") button , and then tap the **Settings** button.
+1. Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap the **Settings** button.
 
       > [!div class=mx-imgBorder]
       > ![Settings button](media/edit-account-settings.png "Settings button")

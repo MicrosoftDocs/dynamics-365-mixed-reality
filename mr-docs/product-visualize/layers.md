@@ -4,7 +4,7 @@ description: Learn how to show or hide layers in a 3D model in Dynamics 365 Prod
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 02/26/2020
+ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -23,7 +23,7 @@ You can create layers in a flattened or nested format by using CAD model design 
 
 ## Show or hide a layer
 
-1. After placing a model, tap **Layers** on the right side of the screen. 
+1. After placing a model, tap **Layers** at the bottom of the screen. 
 
    > [!div class=mx-imgBorder]
    > ![Select Layers](media/layers-tool.png "Select Layers")
