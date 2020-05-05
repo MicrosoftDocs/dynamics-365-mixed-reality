@@ -135,6 +135,33 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
     > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed." To try installing again, on the right side of the screen, under **Error details**, select the **retry installation** link.
     >
     > ![Failed installation message](media/failed-solution-install.PNG "Failed installation message")
+    
+### Troubleshoot solution installation
+
+If you have trouble installing and configuring the solution as described above, try the following instead for step 1 above:
+
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Admin centers**, and then select **Dynamics 365**.
+
+   ![Select Dynamics 365](media/select-dynamics-365-1.PNG "Select Dynamics 365")
+
+2. In the Dynamics 365 admin center, select an environment, and then select the **Solutions** button. 
+
+   ![Solutions button](media/select-solutions-button-1.PNG "Solutions button")
+
+3. In the right pane that appears, select an environment, select the **I agree to the terms of service** check box, and then select **Install**.
+
+    ![Install button](media/solution-install.PNG "Install button")
+
+3. In the Power Platform admin center, the following message is displayed: "Dynamics 365 Guides installation started at <*time*>, <*date*> by <*name*> Account."
+
+    ![Installation message](media/installing-solution-message.PNG "Installation message")
+
+    While the solution is being installed, **Installing...** will appear in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
+
+    > [!NOTE]
+    > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed." To try installing again, on the right side of the screen, under **Error details**, select the **retry installation** link.
+    >
+    > ![Failed installation message](media/failed-solution-install.PNG "Failed installation message")
 
 ## Set up user roles for the solution<a name="user-roles"></a>
 
