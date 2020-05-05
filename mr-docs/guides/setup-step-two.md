@@ -128,14 +128,14 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
 
 3. In the Power Platform admin center, the following message is displayed: "Dynamics 365 Guides installation started at <*time*>, <*date*> by <*name*> Account."
 
-    ![Installation message](media/installing-solution.PNG "Installation message")
+    ![Installation message](media/installing-solution-message.PNG "Installation message")
 
     While the solution is being installed, **Installing...** will appear in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
 
     > [!NOTE]
     > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed."
     >
-    > ![Failed installation message](media/failed-install.PNG "Failed installation message")
+    > ![Failed installation message](media/failed-solution-install.PNG "Failed installation message")
     >
     > To try installing again, under **Error details**, select the **retry installation** link.
 
