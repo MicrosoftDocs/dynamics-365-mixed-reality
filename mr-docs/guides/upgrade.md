@@ -21,7 +21,7 @@ Keep the following in mind:
 
 To upgrade the solution:
 
-1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. 
+1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the user credentials that have admin permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. The admin must also have a [Dynamics 365 Guides license assigned to their user account](https://docs.microsoft.com/dynamics365/mixed-reality/guides/add-users). 
 
 2. To select the environment, select **Resources**, and then select **Dynamics 365 apps**. 
 
