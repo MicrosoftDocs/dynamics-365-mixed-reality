@@ -138,7 +138,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
     
 ### Troubleshoot solution installation
 
-If you have trouble installing and configuring the solution as described above, try the following instead for step 1 above:
+If you have trouble installing and configuring the solution as described above, try the following instead:
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Admin centers**, and then select **Dynamics 365**.
 
