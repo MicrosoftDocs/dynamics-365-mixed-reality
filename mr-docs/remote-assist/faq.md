@@ -25,7 +25,7 @@ Learn about the technical requirements [here](requirements.md).
 
 ### Can I use Dynamics 365 Remote Assist to collaborate with a Microsoft Teams user outside my tenant, or vice versa?
 
-Yes. Learn how to [set up  multi-tenant company deployments](multi-tenant-deployment.md) or [enable vendors and contractors to use Remote Assist](vendor-use-ra.md).
+Yes. Learn how to [set up multi-tenant company deployments](multi-tenant-deployment.md), [enable vendors and contractors to use Remote Assist](vendor-use-ra.md), or [enable vendors and contractors to use Teams](vendor-use-teams.md).
 
 ### How do I set up Dynamics 365 Field Service to work with Dynamics 365 Remote Assist?
 
