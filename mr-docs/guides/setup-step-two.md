@@ -150,7 +150,7 @@ If you have trouble installing and configuring the solution as described above, 
 
 3. In the right pane that appears, select an environment, select the **I agree to the terms of service** check box, and then select **Install**.
 
-    ![Install button](media/solutions-install.png "Install button")
+    ![Install button](media/solutions-install-button.png "Install button")
 
 3. Select the Dynamics 365 Guides solution in the list, and then select **Install**.
 
