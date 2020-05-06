@@ -15,9 +15,12 @@ A Dynamics 365 Remote Assist call involves one party using Remote Assist (a "Rem
 
 However, there are certain scenarios where this may not be the case: 
 
-1. **Multi-tenant collaboration**: A single company has multiple organizations or business units, each with their own tenant, that want to collaborate using Remote Assist. Or, multiple companies want to collaborate using Remote Assist. Users who want to use Remote Assist already have Remote Assist licenses, and users who want to use Teams already have Teams licenses. Learn more about multi-tenant collaboration in this document. 
+1. **Multi-tenant company deployments**: A company has multiple organizations or business units, each with their own tenant, that want to collaborate using Remote Assist. Or, multiple companies want to collaborate using Remote Assist. Users who want to use Remote Assist already have Remote Assist licenses, and users who want to use Teams already have Teams licenses. They want to initiate ad hoc calls and meetings with each other. This document focuses on this scenario.
 
-2. **Vendors and contractors using Remote Assist**: A company wants vendors and contractors who do not already have Remote Assist and aren’t part of the company tenant to use Remote Assist. [Learn more about this scenario](vendor-use-RA.md).
+2. **Vendors and contractors use Remote Assist app**: A company wants vendors and contractors who do not already have Remote Assist and aren’t part of the company tenant to use Remote Assist. [Learn more about this scenario.](vendor-use-ra.md) 
+
+3. **Vendors and contractors use Teams app**: A company wants to provide employees with a quick and easy way to use Remote Assist HoloLens to receive assistance from out-of-tenant collaborators who may or may not have Teams. The company does not want to set up guest access or external access. [Learn more about this scenario.](vendor-use-teams.md) 
+
 
 ## Account types
 
