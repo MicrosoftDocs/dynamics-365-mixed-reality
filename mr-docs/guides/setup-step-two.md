@@ -158,7 +158,7 @@ If you have trouble installing and configuring the solution as described above, 
     
     ![Solution install message](media/installing-solution.png "Solution install message")
     
-    While the solution is being installed, **Installation pending** appear in the **Staus** field. After the solution has been installed, the **Status** field is updated to **Installed.**
+    While the solution is being installed, **Installation pending** appears in the **Staus** field. After the solution has been installed, the **Status** field is updated to **Installed.**
 
     > [!NOTE]
     > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."
