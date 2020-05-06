@@ -27,8 +27,7 @@ A company wants to provide employees with a quick and easy way to use Remote Ass
 
 ## Example
 
-Company ABC purchased equipment from an OEM. A Company ABC employee has trouble setting up the equipment, and wants an easy way to enable an expert from the OEM to join the call and provide remote assistance. The Company ABC employee knows the expert's email, and wants to invite the expert to use Teams desktop join a Remote Assist call.
-
+Company ABC purchased equipment from an OEM. A Company ABC employee has trouble setting up the equipment, and wants an easy way to enable an expert from the OEM to join the call and provide remote assistance. The Company ABC employee knows the expert's email and wants to enable the expert to join the Remote Assist call using Teams desktop even if they do not have a Teams license.
 ## Prerequisites
 
 **Prerequisite for Company ABC tenant:**
