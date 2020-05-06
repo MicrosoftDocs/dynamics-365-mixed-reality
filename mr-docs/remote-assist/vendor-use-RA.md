@@ -1,6 +1,6 @@
 ---
 author: sophiasysun
-description: Vendors and contractos use Remote Assist
+description: Vendors and contractors use Remote Assist
 ms.author: sopsun
 ms.date: 04/02/2020
 ms.service: crm-online
@@ -9,7 +9,7 @@ title: Vendors and contractos use Remote Assist
 ms.reviewer: krbjoran
 ---
 
-# Vendors and contractos use Remote Assist
+# Vendors and contractors use Remote Assist
 
 A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technicians and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
 
