@@ -2,7 +2,7 @@
 author: BryceHo
 description: Known Issues with Dynamics 365 Guides
 ms.author: makamat
-ms.date: 02/25/2020
+ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
 title: Known Issues with Dynamics 365 Guides
@@ -10,6 +10,12 @@ ms.reviewer: v-brycho
 ---
 
 # Known issues with Microsoft Dynamics 365 Guides
+
+## I can't install or upgrade the Dynamics 365 Guides solution
+
+To install or upgrade the Dynamics 365 Guides solution, you must have admin permissions for Dynamics 365 Guides. You must also have a [Dynamics 365 Guides license assigned to your user account](https://docs.microsoft.com/dynamics365/mixed-reality/guides/add-users).
+
+[Learn more about updating the Dynamics 365 Guides solution](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade).
 
 ## I can't sign in
 
