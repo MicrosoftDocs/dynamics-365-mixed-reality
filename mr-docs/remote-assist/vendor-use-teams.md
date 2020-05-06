@@ -27,7 +27,7 @@ A company wants to provide employees with a quick and easy way to use Remote Ass
 
 ## Example
 
-Company ABC purchased equipment from an OEM. A Company ABC employee has trouble setting up the equipment, and wants an easy way to enable an expert from the OEM to join the call and provide remote assistance. The Company ABC employee knows the expert's email and wants to enable the expert to join the Remote Assist call using Teams desktop even if they do not have a Teams license.
+Company ABC purchased equipment from an OEM. A Company ABC employee has trouble setting up the equipment, and wants an easy way to enable an expert from the OEM to join the call and provide remote assistance via mixed reality annotations. The Company ABC employee knows the expert's email and wants to enable the expert to join the Remote Assist call using Teams desktop even if they do not have a Teams license.
 ## Prerequisites
 
 **Prerequisite for Company ABC tenant:**
@@ -35,29 +35,31 @@ Company ABC purchased equipment from an OEM. A Company ABC employee has trouble 
 
 **Prerequisites for the Company ABC employee who will use Remote Assist HoloLens:**
 1. Dynamics 365 Remote Assist app is installed on the HoloLens
-2. The HoloLens user at Company ABC has the out-of-tenant collaborator's email address
+2. Employee has the out-of-tenant collaborator's email address
 
 **Prerequisites for the out-of-tenant collaborator who will use Teams desktop:**
-1. Teams desktop app is downloaded. No license needed.  
+1. Teams desktop app is downloaded. (Teams license not needed).
 2. Access to email  
 
 ## Steps
 
-The Remote Assist HoloLens user from Company ABC will set up a meeting and invite the out-of-tenant collaborator via email. Then, the Remote Assist HoloLens user will join the meeting from the Remote Assist HoloLens app. The out-of-tenant collaborator will join the Remote Assist call via Teams desktop.
+**Overview:**
+The Remote Assist HoloLens user from Company ABC will set up a meeting and invite the out-of-tenant collaborator via email. Then, the Remote Assist HoloLens user will join the meeting from the Remote Assist HoloLens app. The out-of-tenant collaborator will join the meeting from the Teams desktop app.
 
 [!Note] Only a Remote Assist user and Teams desktop user(s) can join a meeting. Remote Assist mobile users and Teams mobile users cannot join a meeting.
 
-1.	Remote Assist HoloLens user schedules the meeting using Outlook or Teams (mobile or desktop) and invites the out-of-tenant user by using their preferred email address. (If scheduling the meeting using Outlook, ensure the "Teams Meeting" option is enabled.) Send.
+**Steps:**
+1.	Remote Assist HoloLens user schedules the meeting using [Outlook](https://support.office.com/en-us/article/Schedule-a-meeting-with-other-people-5C9877BC-AB91-4A7C-99FB-B0B68D7EA94F) or [Teams](https://support.office.com/en-us/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5) (mobile or desktop) and invites the out-of-tenant user by using their preferred email address. 
 2.	Remote Assist HoloLens user logs into Remote Assist with the account used to schedule the meeting.
 3.	Remote Assist HoloLens user views “Join Meeting” under the Recent Contacts panel, and selects “Join Meeting” 
 4.	Teams desktop user views meeting invitation via Outlook calendar or Teams calendar. User right clicks the meeting invitation and selects "Join Teams meeting." (A web instance may launch and display options for joining the meeting. To join via Teams application, the user should select "Launch it now.")
 5. Teams desktop user indicates name and joins meeting
-6.	Now, the Teams desktop user can view the Remote Assist HoloLens user’s video feed and both can annotate. 
+6. Now, the Teams desktop user can view the Remote Assist HoloLens user’s video feed and both can annotate. 
 
 **Notes:**
-1. This will not work if the Remote Assist HoloLens user tries to create a meeting using the Teams “Meet Now” feature 
+1. This will not work if the Remote Assist HoloLens user tries to create a meeting using the Teams “Meet Now” feature.
 2.	If Company ABC has not set up external access with the out-of-tenant collaborator's tenant, the collaborator will join the Remote Assist call as an anonymous Teams meeting participant. Anonymous Teams meeting participants experience some limitations. For example, the Teams desktop user cannot share files from OneDrive, but they are able to "display files" in the Remote Assist HoloLens user's environment by sharing their screen. Furthermore, the Teams desktop user cannot add additional people to the call - only the Remote Assist HoloLens user can. The Remote Assist HoloLens user can invite additional Teams desktop users to the call by sharing the Teams meeting link with them or by sending the meeting invite to them. (The Remote Assist HoloLens user will not be able to directly call out-of-tenant users into the Remote Assist call if external access or guest access with those users is not set up.)
-3. Remote Assist HoloLens does not support letting anonymous participants in the call from the lobby.
+3. Remote Assist HoloLens does not support letting anonymous participants into the call from the lobby.
 
 
 
