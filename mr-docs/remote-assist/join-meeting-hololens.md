@@ -13,14 +13,12 @@ ms.reviewer: krbjoran
 A Microsoft Teams meeting is a meeting scheduled using Teams involving any number of participants. Meetings are useful for maintenance and repairs that are scheduled in advance. It's also useful for inspections and other recurring scenarios.
 
 > [!Note]
-> If a remote collaborator using Teams desktop joins a meeting, you will not receive a call or notification, regardless of whether you are in the app. You must select **Join Meeting** (or say "Remote Assist, Join meeting") to join the meeting. In addition, calling the participants involved in a scheduled meeting will not enable you to join the meeting; you must actually join the meeting. 
+> If a remote collaborator joins a meeting, you will not receive a call or notification, regardless of whether you are in the app. You must select **Join Meeting** (or say "Remote Assist, Join meeting") to join the meeting. In addition, calling the participants involved in a scheduled meeting will not enable you to join the meeting; you must actually join the meeting. 
 
-If for some reason you're unable to join the meeting, you may also ask the remote collaborator using Teams desktop to join the meeting and use the **Open Participants** feature to call you. You'll receive an incoming call notification. Accept the call using audio or video, and you will join the meeting. 
+If for some reason you're unable to join the meeting, you may also ask the Teams user to join the meeting and use the **Open Participants** feature to call you. You'll receive an incoming call notification. Accept the call using audio or video, and you will join the meeting. 
 
-![Screenshot of the HoloLens field of view, showing the join meeting option at the bottom.](media/01.00-meeting-notifcation.png "JoinMeeting")
-
-If your upcoming meetings overlap, you can use the arrows to select which meeting to join.  
+![Screenshot of the HoloLens field of view, showing the join meeting option at the bottom.](media/HL2-01.00-meeting-notifcation.png "JoinMeeting")
 
 To join a meeting, select **Join Meeting**, or say "Remote Assist, Join Meeting”, below the **Recent Contacts** screen. The **Join Meeting** button appears if the meeting is happening now or within the next 15 minutes.
 
-After you join a meeting, you or the Teams desktop user can add more people to the meeting. Select **Open Participants** (as represented by this icon: ![Graphic showing the open participants icon.](media/RAHL_Participants.png)). You'll see the first person you called on the left side of the video card, and a list of participants on the right side of the video card. On the bottom of the video card, there's a text field. Select the text field, and a holographic keyboard will pop out. A list of your recent contacts will appear. If the person you'd like to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
+After you join a meeting, you or the Teams user can add more people to the meeting. Select **Open Participants** (as represented by this icon: ![Graphic showing the open participants icon.](media/RAHL_Participants.png)). You'll see the first person you called on the left side of the video card, and a list of participants on the right side of the video card. On the bottom of the video card, there's a text field. Select the text field, and a holographic keyboard will pop out. A list of your recent contacts will appear. If the person you'd like to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
