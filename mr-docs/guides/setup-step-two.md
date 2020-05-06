@@ -117,38 +117,38 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
 
 ## Install and configure the solution<a name="configure"></a>
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the left pane, select **Resources** > **Dynamics 365 apps**, select **Dynamics 365 Guides** in the list, and then select **Install**. 
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the left pane, select **Resources** \> **Dynamics 365 apps**, select **Dynamics 365 Guides** in the list, and then select **Install**. 
 
     ![Select Dynamics 365 Guides](media/select-dynamics-365-guides.PNG "Dynamics 365 Guides")
 
-2. In the right pane that appears, select an environment, select the **I agree to the terms of service** check box, and then select **Install**.
+2. In the **Install Dynamics 365 Guides** dialog box, select an environment, select the **I agree to the terms of service** check box, and then select **Install**.
 
-    ![Install button](media/solution-install.PNG "Install button")
+    ![Install Dynamics 365 Guides dialog box](media/solution-install.PNG "Install Dynamics 365 Guides dialog box")
 
-3. In the Power Platform admin center, the following message is displayed: "Dynamics 365 Guides installation started at <*time*>, <*date*> by <*name*> Account."
+    In the Power Platform admin center, the following message is shown: "Dynamics 365 Guides installation started at \<*time*\>, \<*date*\> by \<*name*\> Account."
 
     ![Installation message](media/installing-solution-message.PNG "Installation message")
 
-    While the solution is being installed, **Installing...** will appear in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
+    While the solution is being installed, **Installing** appears in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
 
     > [!NOTE]
-    > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed." To try installing again, on the right side of the screen, under **Error details**, select the **retry installation** link.
+    > The installation process can take up to one hour. The amount of time varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed." To try to install again, in the **Error details** dialog box, under **How to troubleshoot**, select the **retry installation** link.
     >
-    > ![Failed installation message](media/failed-solution-install.PNG "Failed installation message")
+    > ![Error details dialog box](media/failed-solution-install.PNG "Error details dialog box")
     
 ### Troubleshoot solution installation
 
-If you have trouble installing and configuring the solution as described above, try the following instead:
+If you have trouble installing and configuring the solution as described in the previous section, try the following steps instead.
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Admin centers**, and then select **Dynamics 365**.
 
    ![Select Dynamics 365](media/select-dynamics-365-1.PNG "Select Dynamics 365")
 
-2. In the Dynamics 365 Administration Center, select an environment, and then select the **Solutions** button. 
+2. In the Dynamics 365 Administration Center, select an environment, and then select **Solutions**. 
 
    ![Solutions button](media/select-solutions-button-1.PNG "Solutions button")
     
-3. Select the Dynamics 365 Guides solution in the list, and then select **Install**.
+3. Select the **Dynamics 365 Guides** solution in the list, and then select **Install**.
 
    ![Install button](media/solutions-install-button.png "Install button")
 
@@ -156,12 +156,12 @@ If you have trouble installing and configuring the solution as described above, 
 
     In the Dynamics 365 Administration Center, the following message is shown to indicate that the solution is about to be installed: "Please wait while installation starts. This may take a few minutes."
     
-    ![Solution install message](media/installing-solution.png "Solution install message")
+    ![Solution installation message](media/installing-solution.png "Solution installation message")
     
-    While the solution is being installed, **Installation pending** appears in the **Staus** field. After the solution has been installed, the **Status** field is updated to **Installed.**
+    While the solution is being installed, **Installation pending** appears in the **Status** field. After the solution has been installed, the **Status** field is updated to **Installed**.
 
     > [!NOTE]
-    > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."
+    > The installation process can take up to one hour. The amount of time varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."
     >
     > ![Failed installation message](media/failed-install.PNG "Failed installation message")
 
