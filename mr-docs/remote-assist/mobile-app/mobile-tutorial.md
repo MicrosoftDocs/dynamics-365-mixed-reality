@@ -14,14 +14,14 @@ Augmented reality (AR) creates immersive and engaging collborations between two 
 
 ### Prerequisites 
 - For technicians to be able to enjoy the AR capabilities on Remote Assist mobile, they must be using an **AR capable mobile device**; learn more about the device requirements [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements). Don't worry, Remote Assist mobile is available on unsupported AR mobile devices, too; learn more about using Remote Assist mobile on unsupported AR devices [here](). 
+###
 
 To better understand Remote Assist mobile's AR capabilities, technicians can use the **in-app, guided tutorial** to jumpstart their ability to use our app. This tutorial shows technicians how to:
 
 1. Before technicians can enjoy an AR experience in our app, they need to **move their mobile device in ways that lets ARKit/ARCore evaluate the surroundings and detect surfaces**. By detecting the technicians' surroundings and surfaces, both the technician and remote collaborator can more accurately place mixed reality annotations in their environment. 
 2. **Place and manipulate mixed reality annotations**, such as the arrow and the ink tools.
 
-### Additional tips for better surroundings and surface detection
-Techniques to **improve** the surroundings and surface detection
+### Techniques to **improve** the surroundings and surface detection
 - Move your phone from side-to-side at the beginning of a video call.
 - Try moving your phone more slowly.
 - Place annotations in your device's FOV and avoid lots of sudden movements.
