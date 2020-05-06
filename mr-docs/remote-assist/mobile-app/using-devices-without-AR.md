@@ -14,7 +14,7 @@ Technicians and remote collaborators can still connect and conduct repairs and i
 
 ## Prerequisites 
 - Technicians must be using a mobile device **without** AR support to follow along this guide. If your device is not listed on the [Android/ARCore](https://developers.google.com/ar/discover/supported-devices) supported devices or [iOS/ARKit](https://developers.google.com/ar/discover/supported-devices#ios) supported devices, then your device does not support AR. 
-- Remote collaborators on Microsoft Teams desktop or mobile can use devices with or without AR support; this has no impact on the AR experience). 
+- Remote collaborators on Microsoft Teams desktop or mobile can use devices with or without AR support; this has no impact on the AR experience. 
 
 ## How it works 
 1. The technician using on a mobile device without ARCore/ARKit support launches and signs into  Remote Assist. The technician selects **Sign In** and is taken to the **Contacts** page.
