@@ -9,7 +9,8 @@
 ### [Set up Teams](set-up-teams.md)
 ### Advanced deployment scenarios 
 #### [Multi-tenant collaboration](multi-tenant-deployment.md)
-#### [Vendor and contractor usage of Remote Assist](vendor-use-RA.md)
+#### [Vendors and contractors use Remote Assist](vendor-use-RA.md)
+#### [Vendors and contractors use Teams](vendor-use-teams.md)
 
 ## Remote Assist on Hololens and HoloLens 2
 ### [Overview](overview-hololens.md)
