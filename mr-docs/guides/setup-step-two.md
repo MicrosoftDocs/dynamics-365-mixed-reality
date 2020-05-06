@@ -156,7 +156,7 @@ If you have trouble installing and configuring the solution as described above, 
 
     In the Dynamics 365 Administration Center, the following message is shown to indicate that the solution is about to be installed: "Please wait while installation starts. This may take a few minutes."
     
-    ![Solution install message](media/solution-message.PNG "Solution install message")
+    ![Solution install message](media/installing-solution.png "Solution install message")
     
     While the solution is being installed, **Installation pending** appear in the **Staus** field. After the solution has been installed, the **Status** field is updated to **Installed.**
 
