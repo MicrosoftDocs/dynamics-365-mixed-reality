@@ -5,7 +5,7 @@ ms.author: sopsun
 ms.date: 04/02/2020
 ms.service: crm-online
 ms.topic: article
-title: Vendors and contractos use Remote Assist
+title: Vendors and contractors use Remote Assist
 ms.reviewer: krbjoran
 ---
 
