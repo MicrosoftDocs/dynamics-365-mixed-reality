@@ -152,16 +152,20 @@ If you have trouble installing and configuring the solution as described above, 
 
     ![Install button](media/solution-install.PNG "Install button")
 
-3. In the Power Platform admin center, the following message is displayed: "Dynamics 365 Guides installation started at <*time*>, <*date*> by <*name*> Account."
+3. Select the Dynamics 365 Guides solution in the list, and then select **Install**.
 
-    ![Installation message](media/installing-solution-message.PNG "Installation message")
+4. In the **Terms of Service** dialog box, review the terms, and then select **Install**.
 
-    While the solution is being installed, **Installing...** will appear in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
+    In the Dynamics 365 Administration Center, the following message is shown to indicate that the solution is about to be installed: "Please wait while installation starts. This may take a few minutes."
+    
+    ![Solution install message](media/solution-message.PNG "Solution install message")
+    
+    While the solution is being installed, **Installation pending** appear in the **Staus** field. After the solution has been installed, the **Status** field is updated to **Installed.**
 
     > [!NOTE]
-    > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed." To try installing again, on the right side of the screen, under **Error details**, select the **retry installation** link.
+    > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."
     >
-    > ![Failed installation message](media/failed-solution-install.PNG "Failed installation message")
+    > ![Failed installation message](media/failed-install.PNG "Failed installation message")
 
 ## Set up user roles for the solution<a name="user-roles"></a>
 
