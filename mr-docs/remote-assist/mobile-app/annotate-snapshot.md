@@ -40,10 +40,10 @@ If the technician is a **Dynamics 365 Field Service** customer, the snapshot can
 
 
 
-7. The technican is notified when the snapshot has been **successfully saved** or **failed**. If the snapshot has not been saved, then you can try taking another snapshot and saving it again. 
+7. The technician is notified when the snapshot has been **successfully saved** or **failed**. If the snapshot has not been saved, then you can try taking another snapshot and saving it again. 
 
 8. Afterwards, the technician is taken back to the live video call and can select the snapshot icon again to take more snapshots. 
 >[!NOTE] Annotations added on a still snapshot will **not** appear in the technician's environment after it has been saved or discarded. 
 
 
-9. If the technican successfully saved the snapshot, then the snapshots can be viewed in the **mobile device’s Photo Gallery** and/or **Microsoft Teams text chat** at the end of the call. If the technician is a **Dynamics 365 Field Service customer**, then the technician can choose to automatically post their snapshots to an **associated work order** and view the snapshot there.
+9. If the technician successfully saved the snapshot, then the snapshots can be viewed in the **mobile device’s Photo Gallery** and/or **Microsoft Teams text chat** at the end of the call. If the technician is a **Dynamics 365 Field Service customer**, then the technician can choose to automatically post their snapshots to an **associated work order** and view the snapshot there.
