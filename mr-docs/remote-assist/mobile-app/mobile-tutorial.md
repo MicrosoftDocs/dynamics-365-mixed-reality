@@ -68,7 +68,7 @@ To better understand Remote Assist mobile's AR capabilities, technicians can use
 
 ## How to resolve error messages 
 
-Throughout the tutorial or during the call, technicians may be prompted that they have "**lost tracking**" because Remote Assist does not adequately detected their surroundings or any surfaces. Thus, the technicians will be unable to place any mixed reality annotations until their surfaces are detected. Below are the actionable animations to illustrate to technicians to track their enivronment better.
+Throughout the tutorial or during the call, technicians may be prompted that they have "**lost tracking**" because Remote Assist does not adequately detected their surroundings or any surfaces. Thus, the technicians will be unable to place any mixed reality annotations until their surfaces are detected. Below are the actionable animations to illustrate to technicians to track their environment better.
 
 > [!NOTE] Remote collaborators will not be able to place mixed reality annotations when the technician has lost tracking. 
 
