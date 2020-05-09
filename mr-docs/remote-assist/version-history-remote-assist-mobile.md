@@ -2,7 +2,7 @@
 title: "Remote Assist mobile version history | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
-ms.date: 04/21/2020
+ms.date: 05/04/2020
 ms.reviewer: krbjoran
 ms.service: dynamics-365-mixed-reality-remote-assist
 ms.suite: ""
