@@ -28,9 +28,18 @@ search.app:
 
 # Remote Assist mobile version history
 
-## iOS – 2020.4.1 
+## iOS – 2020.5.7 // Android - 2020.05.04 
 
-Date: April 2020
+Date: May 4, 2020
+
+### Bug fixes
+- Improved flighting implementation and enabling per company app customizations
+- Fix for sign in problem for users on mobile networks
+- Improved user feedback questionnaire experience
+
+## iOS – 2020.4.1 // Android - 2002.03.18
+
+Date: April 1, 2020
 
 ### Bug fixes
 
@@ -44,25 +53,6 @@ Date: April 2020
 - Improved messaging and handling when group call is detected.
 - Fixed NullReferenceException showing up during app termination and in the contacts search page.
 - Fix for ArgumentOutOfRange exception showing up when typing text in the text chat.
-
-## Android – 2002.03.18
-
-Date: April 2020
-
-### Bug fixes
-
-- Fix for yellow tracking dots. Yellow tracking dots will not show up on the mobile device screen.
-- Improved quality of annotations placement in the near field of 1 meter (three feet).
-- Improved loading for cached recent contacts when users are in poor network condition. 
-- Improved authentication handling and messaging. Better support for offline scenario and better error description.
-- Fixed incorrect annotations position on tablet devices. Annotations were shifted on the sides of the screen.
-- Enabled saving a snapshot if a call ends unexpectedly.
-- Fixed incoming video feed position on the screen.
-- Improved messaging and handling when group call is detected.
-- Fixed NullReferenceException showing up during app termination and in the contacts search page.
-- Fix for ArgumentOutOfRange exception showing up when typing text in the text chat.
-
-
 
 ## Locate your version number
 
