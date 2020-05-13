@@ -23,7 +23,7 @@ Empower technicians to collaborate more efficiently by working together from dif
 Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https://youtu.be/d3YT8j0yYl0).
 
 > [!Note]
-> Dynamics 365 Remote Assist is intended for facilitating communications and is not intended or made available for use as a medical device for the diagnosis of disease or other conditions, or in the cure, mitigation, treatment or prevention of disease or otherwise to be used as a component of any clinical offering or product, and Microsoft does not grant a license or license or right for such purposes. Dynamics 365 Remote Assist is not designed or intended to substitute for professional medical advice, diagnosis, treatment, or judgment and should not be used for medical emergencies or emergency communications. Microsoft does not warrant that Dynamics 365 Remote Assist will be sufficient for any medical purposes or meet the health or medical requirements of any person.
+> Dynamics 365 Remote Assist is intended for facilitating communications and is not intended or made available for use as a medical device for the diagnosis of disease or other conditions, or in the cure, mitigation, treatment or prevention of disease or otherwise to be used as a component of any clinical offering or product, and Microsoft does not grant a license or right for such purposes. Dynamics 365 Remote Assist is not designed or intended to substitute for professional medical advice, diagnosis, treatment, or judgment and should not be used for medical emergencies or emergency communications. Microsoft does not warrant that Dynamics 365 Remote Assist will be sufficient for any medical purposes or meet the health or medical requirements of any person.
 
 ## Benefits
 
