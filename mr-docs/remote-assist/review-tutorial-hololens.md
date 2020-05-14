@@ -12,6 +12,6 @@ ms.reviewer: krbjoran
 
 The first time you use Remote Assist on HoloLens, you'll see a brief tutorial about the core features of the app. 
 
-To see this tutorial at any time, launch Remote Assist and select **Settings** in the top-right corner. Select the **Links** tab. In the **Account** section, you'll see a question mark icon next to a link called **Run Tutorial**. 
+To see this tutorial at any time, launch Remote Assist and select the **Settings tab** from the left navigation. Select the **Links** tab. In the **Account** section, you'll see a question mark icon next to a link called **Run Tutorial**. 
 
 
