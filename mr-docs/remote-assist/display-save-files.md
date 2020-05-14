@@ -12,13 +12,13 @@ ms.reviewer: krbjoran
 # Display a file and save shared files to OneDrive or your work order
 
 During your repair or inspection, you and your collaborators may want to view, refer to, and annotate an image or PDF. 
-For example, a remote collaborator can share a reference image to help you better understand what an asset should look like after you've successfully repaired it. You can show remote collaborators a PDF of instructions you were following before you called them.
+For example, you can place a service manual next to the asset you are working on or, during a call, a remote collaborator can share a reference image to help you better understand what an asset should look like after you've successfully repaired it.
 
-After the file appears in your space, any call participant can annotate the file, just as they would annotate any physical object.
+If you're in a video call, any call participant can annotate the file, just as they would annotate any physical object.
 
 ## Display a OneDrive file in your space
 
-To display a OneDrive file during a video call, select the OneDrive icon (as seen here: ![OneDrive](media/RAHL_OneDrive.png)), or say “Remote Assist, OneDrive” and select the file. The file will pop up as a new slate in your space. Your remote collaborators will be able to see the image or PDF file as long as you’re looking at it. Supported files include: 
+To display a OneDrive file, select the **Files tab**, or say “Remote Assist, Files" and select the file. The Files tab is accessible at any time: with or without being on a video call.  The file will pop up as a new slate in your space. If you are on a video call, remote collaborators will be able to see the image or PDF file as long as you’re looking at it. Supported files include: 
 - .jpg
 - .bmp 
 - .png
@@ -26,11 +26,11 @@ To display a OneDrive file during a video call, select the OneDrive icon (as see
 - .pdf
 - still .gif 
 
-At this time, a link to the OneDrive file will *not* be sent in the chat.
+At this time, a link to the OneDrive file will *not* be sent in the Teams chat if you open a file during a call.
 
 ## Save a file shared by a remote collaborator to OneDrive
 
-When a Teams user shares a file from OneDrive or from their device, it will appear as a new slate in your space. A link to the file will be shared in the chat. Even after the call ends, you can find the link in your Teams chat. 
+When a Teams user shares a file from OneDrive or from their device during a video call, it will appear as a new slate in your space. A link to the file will be shared in the chat. Even after the call ends, you can find the link in your Teams chat. 
 
 You may also want to save the file to your OneDrive for future reference. For example, the Teams user may send a PDF of a schematic you can use in future repairs, so you want to save it to your OneDrive and share the OneDrive file with others. 
 
