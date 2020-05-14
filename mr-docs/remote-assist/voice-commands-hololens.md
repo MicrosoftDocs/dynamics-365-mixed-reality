@@ -13,11 +13,11 @@ ms.reviewer: krbjoran
 
 You may navigate Remote Assist on HoloLens and HoloLens 2 using voice commands and gaze instead of gestures. Some voice commands are contextual, so they only work in particular areas of the user interface. For example, “Start inking” only works if the ink tool is already active.” You can also look at any button and say “Select.”
 
-At this time, voice commands and speech recognition are [available in specific languages for Hololens](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for).
+At this time, voice commands and speech recognition are [available in specific languages for HoloLens](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for).
 
-When you’re in a call, a good way to learn the features of Remote Assist is to say, “Remote Assist.” The app will display what it believes you said by showing a check mark and “Remote assist.” Then, the app will display the name of each button, as you see in the image above. After a few seconds, these labels will automatically disappear. 
+When you’re in a call, a good way to learn the features of Remote Assist is to say, “Remote Assist.” The app will display what it believes you said by showing a check mark and “Remote assist.” Then, the app will display the name of each button, as you see in the image above. After a few seconds, these labels will automatically disappear.
 
-When you’re outside a call (for example, before you’ve picked up, or when you’re looking at list of contacts but have not called anyone), you can also say “Remote Assist” to remind yourself of the voice command for each button you see. The labels will pop up for a few seconds, and then disappear. However, you will not receive confirmation of your voice command. 
+When you’re not in a call (for example, when you're in the Files tab, or when you’re looking at list of contacts but have not called anyone), you can also say “Remote Assist” to remind yourself of the voice command for each button you see. The labels will pop up for a few seconds, and then disappear. However, you will not receive confirmation of your voice command. 
 For full list of voice commands, see the list below.
 
 
@@ -29,8 +29,8 @@ For full list of voice commands, see the list below.
 | ------------- | -----|
 |**General**| | 
 |Start listening (stop listening)       |Put Remote Assist into (out of) state expecting a list of commands to follow                  |
-|Settings                               | On recent contacts page, select settings page                                                                     |
-|Sign out                               | On recent contacts page, sign out                                                                                 |
+|Settings                               | Switch to Settings tab                                                                     |
+|Sign out                               | Sub menu available from the user's avatar picture, sign out                                                                              |
 |**Call management**  | | 
 |Call                                   |Call a contact                                                                                                     |
 |Video                                  | Answer an incoming call with video.                                                                               |
@@ -64,11 +64,10 @@ For full list of voice commands, see the list below.
 |Undo                                   | Undo the previous action.                                                                                         |
 |Erase All                              |Remove all annotations you placed                                                                                  |
 |**File management**   | | 
-|OneDrive                               |Import OneDrive file into your space                                                                               |
-|Home                                   |When OneDrive panel is open, navigate to the root OneDrive folder.                                                 |
-|Close                                  |Close OneDrive panel                                                                                               |
-|Up                                     |When OneDrive is open, select up                                                                                   |
-|Back (next)                            |When OneDrive is open, go back                                                                                     |
+|Files                               |Switch to Files tab to insert files into your space                                                                               |
+|Home                                   |When Files tab is selected, navigate to the root folder.                                                 |
+|Up                                     |When Files tab is selected, select up                                                                                   |
+|Back (next)                            |When Files tab is selected, go back                                                                                     |
 |Previous (next)                        |When viewing a PDF, return to previous page (go to next page)                                                      |
 |Set page                               |Open the PDF page-jump UI. Use "Select" to set page numbers.                                                       |
 |Reset                                  |Reset the newest received file to its original placement and size.                                                 |
@@ -87,6 +86,6 @@ To turn on the Narrator for incoming calls:
 
 - Go to Settings, and then select the **On** button for the Narrator.
 
-  ![Open Narrator](media/narrator.PNG "Open Narrator")
+  ![Open Narrator](media/08.00-settings.png "Open Narrator")
 
  
