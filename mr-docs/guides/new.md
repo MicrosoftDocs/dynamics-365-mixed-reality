@@ -18,7 +18,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## May 13, 2020
 
-Version 400.2005.XXXX fixed a bug introduced in the April 28 release that prevented some model animations from playing on HoloLens. You don't have to update the Dynamics 365 Guides solution to get this update.
+Version 400.2005.XXXX of the HoloLens app fixed a bug introduced in the April 28 release that prevented some model animations from playing on HoloLens. You don't have to update the Dynamics 365 Guides solution to get this update.
 
 ## April 28, 2020
 
