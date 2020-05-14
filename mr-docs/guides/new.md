@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 04/28/2020
+ms.date: 05/14/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -15,6 +15,10 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 > [!IMPORTANT]
 > An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution was released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.<br><br>All Dynamics 365 Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress will corrupt the guide.<br><br>Any updates to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released after May 26 will require the April 28, 2020 solution. You have until May 26  to install the solution update. All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released on or after May 26 will be backward compatible up to the April 28, 2020 version of the solution.<br><br>If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact. You will be able to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with the existing feature set.<br><br>To schedule a solution update, work with your IT admin.<br><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
+
+## May 13, 2020
+
+Version 400.2005.XXXX of the HoloLens app fixed a bug introduced in the April 28 release that prevented some model animations from playing on HoloLens. You don't have to update the Dynamics 365 Guides solution to get this update.
 
 ## April 28, 2020
 
