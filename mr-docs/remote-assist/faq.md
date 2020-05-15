@@ -160,7 +160,7 @@ For snapshots from Remote Assist HoloLens user: snapshots are saved differently 
 
 However, regardless of how snapshots are saved, a link to the snapshot is sent via the text chat, and the Teams user can view the snapshot and also view the link to the snapshot. 
 
-For files: A link to the files sent by the Teams user is sent in the chat. During the call, the Remote Assist user can use the controls in the top-right corner of a file to save it to their OneDrive.
+For files: A link to the files sent by the Teams user is sent in the chat. During the call, the Remote Assist user can use the controls in the top-right corner of a file to save it to their OneDrive. Files in the user's OneDrive for Business can be viewed from the **Files tab** at any time by selecting the tab in the left navigation.
 
 ### How can I improve hologram stability?
 
@@ -216,9 +216,9 @@ If you encounter an issue, use the HoloLens Feedback Hub to let us know so we ca
 There are two ways to get to the HoloLens Feedback Hub application to report a bug. 
 
 1. From the **Start menu**: At any time, you can go to the **Start menu** and launch **Feedback Hub**. 
-2. From Remote Assist: If you just ended a call and are looking at the **Recent Contacts** page, select **Settings** in the top-right corner. Select the **Links** tab, and in the **Links** section, select **Feedback Hub** to launch **Feedback Hub**. 
+2. From Remote Assist: Select the **Settings tab** from the left navigation. Select the **Links** sub tab, and in the **Links** section, select **Feedback Hub** to launch **Feedback Hub**. 
 
-![Screenshot of the Links tab in the HoloLens settings screen.](media/RAHL_SettingsLinks.png)
+![Screenshot of the Links tab in the HoloLens settings screen.](media/08.02-settings-feedbackhub.png)
 
 When you're in the HoloLens Feedback Hub: 
 
