@@ -9,16 +9,16 @@ title: Display a file and save shared files to OneDrive or an open work order in
 ms.reviewer: krbjoran
 ---
 
-# Display a file and save shared files to OneDrive or your work order
+# View service-related documentation and save shared files
 
-During your repair or inspection, you and your collaborators may want to view, refer to, and annotate an image or PDF. 
-For example, you can place a service manual next to the asset you are working on or, during a call, a remote collaborator can share a reference image to help you better understand what an asset should look like after you've successfully repaired it.
+During your repair or inspection, you may want to refer to an image or PDF related to the asset or procedure you are completing. 
+For example, you can place a wiring diagram in space next to the asset you are working on. During a video call, a remote collaborator can share a reference to help you better understand what an asset should look like after you've successfully repaired it.
 
 If you're in a video call, any call participant can annotate the file, just as they would annotate any physical object.
 
-## Display a OneDrive file in your space
+## Prepare your workspace with files from OneDrive
 
-To display a OneDrive file, select the **Files tab**, or say “Remote Assist, Files" and select the file. The Files tab is accessible at any time: with or without being on a video call.  The file will pop up as a new slate in your space. If you are on a video call, remote collaborators will be able to see the image or PDF file as long as you’re looking at it. Supported files include: 
+Files are accessible at any time in Remote Assist. You do not need to be in a call to access your files from OneDrive and place them in your workspace. To display a OneDrive file, select the **Files tab**, or say “Remote Assist, Files" and select the file. The file will pop up as a new slate in your space. If you are on a video call, remote collaborators will be able to see the image or PDF file as long as you’re looking at it. Supported files include: 
 - .jpg
 - .bmp 
 - .png
