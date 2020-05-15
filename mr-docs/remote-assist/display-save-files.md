@@ -1,11 +1,11 @@
 ---
 author: sophiasysun
-description: Display a file and save shared files to OneDrive or an open work order
+description: View service-related documentation and save shared files
 ms.author: sopsun
 ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
-title: Display a file and save shared files to OneDrive or an open work order in Remote Assist on HoloLens
+title: View service-related documentation and save shared files
 ms.reviewer: krbjoran
 ---
 
