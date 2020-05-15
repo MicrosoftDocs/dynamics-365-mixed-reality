@@ -70,7 +70,7 @@ After you add user accounts, the next step is to assign the **Author**, **Operat
 
     ![Verify check boxes](media/verify-check-boxes.PNG "Verify check boxes")
 
-5. Select **Save** when you're done.
+5. Select **Save changes** when you're done.
 
 
 ## What's next?
