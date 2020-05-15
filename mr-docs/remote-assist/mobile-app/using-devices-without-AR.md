@@ -14,14 +14,24 @@ Technicians and remote collaborators can still connect and conduct repairs and i
 
 ## Prerequisites 
 - Technicians must be using a mobile device **without** AR support to follow along this guide. If your device is not listed on the [Android/ARCore](https://developers.google.com/ar/discover/supported-devices) supported devices or [iOS/ARKit](https://developers.google.com/ar/discover/supported-devices#ios) supported devices, then your device does not support AR. 
-- Remote collaborators on Microsoft Teams desktop or mobile can use devices with or without AR support; this has no impact on the AR experience. 
+- Remote collaborators on Microsoft Teams desktop or mobile can use devices with or without AR support; this has no impact on their AR experience. 
 
 ## How it works 
-1. The technician using on a mobile device without ARCore/ARKit support launches and signs into  Remote Assist. The technician selects **Sign In** and is taken to the **Contacts** page.
+1. As a technician using Remote Assist on a mobile device without ARCore/ARKit support, you can launch and sign in with your credentials. After you select **Sign In**, you will receive a notification about using a mobile device with augmented reality support.
 
-2. The technician is automatically notified that there will limited functionalities during a call because this mobile device does not support AR. The technician can dismiss this notification by selecting **Don't show again** or **Continue**.
+![AR Notif](./media/2a.png "AR Notification")
 
-3. The technician launches a call with a remote collaborator using Microsoft Teams desktop or mobile. The technician joins the video call **without** the Mixed Reality toolbar available and the remote collaborator joins the video call **without** both the “Edit” button and Mixed Reality toolbar available. 
+2. After dismissing the notification, you will be taken to the **Contacts** page.
+
+![Contacts](./media/2b.png "Contacts")
+
+3. Select the remote collaborator you want to call and on the video card you can launch the call. 
+
+![Video Card](./media/3a.png "Video Card")
+
+4. The technician launches a call with a remote collaborator using Microsoft Teams desktop or mobile. The technician joins the video call **without** the Mixed Reality toolbar available and the remote collaborator joins the video call **without** both the “Edit” button and Mixed Reality toolbar available. 
+
+![In call](./media/4.png "In call")
 
 4. The technician receives a tool tip notification directing the use of still snapshots to add 2D annotations on a frozen video frame. 
 
