@@ -47,11 +47,11 @@ Before you begin, make sure you have the following set-up:
 - A [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-azure](../includes/pn-azure.md)] tenant with a [!include[pn-dyn-365](../includes/pn-dyn-365.md)] subscription **and** a [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] subscription. Both are required—[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] is not included in any [!include[pn-dyn-365](../includes/pn-dyn-365.md)] bundle.
 
   > [!NOTE]  
-  > The tenant can have more than one [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance. [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] has the option to select an instance from within the app.
+  > The tenant can have more than one [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] has the option to select an environment from within the app.
 
-- You must have admin access to add or update the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] tenant instance.
+- You must have admin access to add or update the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment.
 
-- The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] instance must have the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] app installed, and it must include the **My Bookings for Today** view. To make sure this view is installed, we recommend [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.2 or later. This topic describes how to make sure you have the correct version and view.
+- The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment must have the [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] app installed, and it must include the **My Bookings for Today** view. To make sure this view is installed, we recommend [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] version 8.2 or later. This topic describes how to make sure you have the correct version and view.
     -  Please note the **My In Progress Bookings** view has been renamed to **My Bookings for Today.** This doc has been updated to reflect the name change. Depending on your version of [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)], you may see either name. The functionality remains the same regardless of the view name.
 - The tenant must have at least two user accounts - one for the technician (front-line worker) and another for the remote collaborator.
   - The remote collaborator only needs a Microsoft Teams license.
@@ -168,22 +168,22 @@ Technicians can:
 - View today's bookings.
 
   > [!div class="mx-imgBorder"]
-  > ![Screenshot of Remote Assist on HoloLens, showing active Field Service bookings.](./media/remote-assist-field-service-bookings-HL2.png)
+  > ![Screenshot of Remote Assist on HoloLens, showing active Field Service bookings.](./media/07.00-dynamics-bookings.png)
 
 - View the work order and the recommended support contact field.
 
   > [!div class="mx-imgBorder"]
-  > ![Screenshot of Remote Assist on HoloLens, showing the support contact on the booking.](./media/remote-assist-field-service-bookings-HL.png)
+  > ![Screenshot of Remote Assist on HoloLens, showing the support contact on the booking.](./media/07.01-dynamics-booking.png)
 
 - Attach images to the work order during the Remote Assist call so future stakeholders can see the work or problem.
 
   > [!div class="mx-imgBorder"]
-  > ![Screenshot of a user attaching an image in Remote Assist on HoloLens.](./media/remote-assist-field-service-save-image-HL.png)
+  > ![Screenshot of a user attaching an image in Remote Assist on HoloLens.](./media/07.08-dynamics-save-prompt.png)
 
 - Update booking statuses, like marking work as complete.
 
   > [!div class="mx-imgBorder"]
-  > ![Screenshot of Remote Assist on HoloLens, showing the option to change the status of the booking.](./media/remote-assist-field-service-bookings-status-HL.png)
+  > ![Screenshot of Remote Assist on HoloLens, showing the option to change the status of the booking.](./media/07.02-dynamics-booking-status.png)
 
 
 ### Set up Field Service for the HoloLens
