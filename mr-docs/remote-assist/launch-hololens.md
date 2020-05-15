@@ -25,7 +25,7 @@ After you launch the app, you'll see a **3D app launcher** (also known as a **li
 
 ![Screenshot of the HoloLens field of view, showing the live cube or 3D app launcher.](media/HL2-02.02-live-cube.png "LiveCube")
 
-When the app loads, you'll see the **Call tab** screen with your recent contacts.
+When the app loads, you'll see the **Call tab** with your recent contacts.
 
 ![Screenshot of the HoloLens field of view, showing the recent contacts screen.](media/02.00-contacts.png "RecentContacts")
 
