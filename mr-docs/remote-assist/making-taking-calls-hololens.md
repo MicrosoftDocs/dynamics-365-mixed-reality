@@ -29,19 +29,18 @@ Collaboration between Remote Assist users is not a supported scenario.
 
 ## Make a one-to-one call to a contact in your company
 
-![Screenshot of the Remote Assist on HoloLens contacts screen.](media/HL2-01.01-contacts.png)
+![Screenshot of the Remote Assist on HoloLens contacts screen.](media/02.00-contacts.png)
 
-When you open Remote Assist, you'll see your recent contacts list. To call one of the contacts you see, select the contact. 
+When you open Remote Assist, you'll see your recent contacts list in the Call tab. To call one of the contacts you see, select the contact.
 
+If your organization has enabled integration with Dynamics 365 Field Service, you can view and call the contact assigned to your Field Service booking. Select the Dynamics 365 icon (or say, "Remote Assist, Dynamics"), go to your instance and booking, then select the **Support Contact** listed.
 
-If your organization has enabled integration with Dynamics 365 Field Service, you can view and call the contact assigned to your Field Service booking. Select the Dynamics 365 icon (or say, "Remote Assist, Dynamics"), go to your instance and booking, then select the contact listed.
-
-![Screenshot of the Remote Assist on HoloLens contacts screen, showing an expanded booking panel.](media/HL2-01.04-contacts-booking.png)
+![Screenshot of the Remote Assist on HoloLens contacts screen, showing an expanded booking panel.](media/07.01-dynamics-booking.png)
 
 
 If you don’t see the contact you want, select Search and then use the holographic keyboard to enter a name or email address.
 
-![Screenshot showing the contacts search results screen on Remote Assist for HoloLens.](media/HL2-01.02-search.png)
+![Screenshot showing the contacts search results screen on Remote Assist for HoloLens.](media/02.06-contacts-search-results.png)
 
 
 ## Make a one-to-one call to a Teams user outside your tenant

@@ -1,7 +1,7 @@
 ---
 title: Adjust what you see in Dynamics 365 Remote Assist on HoloLens 
 author: sophiasysun
-description: Adjust call window, switch displayed video feed, and view Teams user's desktop or mobile screen 
+description: Adjust Remote Assist window, switch displayed video feed, and view Teams user's desktop or mobile screen 
 ms.author: sopsun
 ms.date: 3/15/2020
 ms.service: crm-online
@@ -12,19 +12,19 @@ ms.reviewer: krbjoran
 
 In this article, we'll walk through a few ways you can adjust what you're seeing in Dynamics 365 Remote Assist on HoloLens or HoloLens 2: 
 
-1. Position the call window
+1. Position the Remote Assist window
 2. Switch the displayed video feed
 3. View a Microsoft Teams user’s desktop or mobile screen 
 
-## Position the call window 
+## Position the Remote Assist window 
 
-You can pin the call window in your space, or you can have it follow you around. After you join the call, you may want to pin the call window to your left or right so you can look at the task in front of you. 
+You can pin the Remote Assist window in your space, or you can have it follow you around. After you launch the application, you may want to pin the window to your left or right so you can focus on the asset you are working on.
 
-The pin icon, represented as ![Illustration of the pin icon in HoloLens.](media/RAHL_Pin.png "Pin"), fixes the call window in a specific location in your space, not at a fixed distance from you. Unpin will enable the call window to follow you at a fixed distance. No matter where you are and whether the video card is pinned or unpinned, it will face you.
+The pin icon, represented as ![Illustration of the pin icon in HoloLens.](media/RAHL_Pin.png "Pin"), fixes the window in a specific location in your space, not at a fixed distance from you. Unpin will enable the window to follow you at a fixed distance. No matter where you are and whether the window is pinned or unpinned, it will face you.
 
-To pin and unpin the call window: 
-- Select the **Pin icon**, or say "Remote Assist, Pin." To have the call window follow you again, say select the **Unpin option**, or say "Remote Assist, Unpin."
-- If you walk away from a pinned call window and can't see it, you can say "Remote Assist, Unpin" and it will fly to wherever you are. 
+To pin and unpin the window: 
+- Select the **Pin icon**, or say "Remote Assist, Pin." To have the window follow you again, say select the **Unpin option**, or say "Remote Assist, Unpin."
+- If you walk away from a pinned window and can't see it, you can say "Remote Assist, Unpin" and it will fly to wherever you are. 
 
 ## Switch the displayed video feed   
 

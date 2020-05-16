@@ -42,35 +42,35 @@ Learn more about using [Teams desktop](https://docs.microsoft.com/dynamics365/mi
 
 1.	Select the **Start Record** button (as shown here: ![Start recording button](media/RAHL_CallRecording_StartButton.png)) to start recording the call.
 
-![Screenshot of Remote Assist on HoloLens, showing the record button.](media/RAHL_CallRecording_Start.png)
+![Screenshot of Remote Assist on HoloLens, showing the record button.](media/03.00-call.png)
 
 2.	You may see a loading notification, as seen in the following screenshot.
 
-![Screenshot of Remote Assist on HoloLens, showing a loading icon in place of the record icon.](media/RAHL_CallRecording_Loading.png)
+![Screenshot of Remote Assist on HoloLens, showing a loading icon in place of the record icon.](media/03.00-call-recording-loading.png)
  
 3.	You'll see a reminder that the call recording only captures the middle vertical section of your field of view. This means that if there are procedures or assets that are critical for you to record, keep them in the middle of your field of view. For more context about this notification, learn about [Teams recording layout for calls with two participants](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#cloud-based-recording-layout). Press OK to start recording.
- 
-![Screenshot of Remote Assist on HoloLens, showing the notification that recording has started.](media/RAHL_CallRecording_Reminder.png)
+
+![Screenshot of Remote Assist on HoloLens, showing the notification that recording has started.](media/03.08-call-recording-started.png)
 
 4.	The **Start Recording** button now becomes a **Stop Recording** button. You'll also see a persistent recording indication in the top left of the video card. 
  
-![Screenshot of Remote Assist on HoloLens showing a call being recorded.](media/RAHL_CallRecording_IsRecording.png)
+![Screenshot of Remote Assist on HoloLens showing a call being recorded.](media/03.00-call-recording-in-progress.png)
  
-5.	The persistent recording indication will be visible even if you open the OneDrive tab, so you can always verify whether a recording is ongoing. 
+5.	The persistent recording indication will be visible even if you open the Files tab, so you can always verify whether a recording is ongoing. 
 
-![Screenshot of Remote Assist on HoloLens showing the persistent recording indicator.](media/RAHL_CallRecording_OneDrive.png)
+![Screenshot of Remote Assist on HoloLens showing the persistent recording indicator.](media/06.00-files-recording-indicator.png)
  
 6.	To end the recording, press the **Stop Recording** (as seen here: ![Stop recording button](media/RAHL_CallRecording_StopButton.png)) button or end the call. You'll see a reminder that the recording is being processed and saved securely in Microsoft Stream.  
 
-![Screenshot of Remote Assist on HoloLens, showing the notification explaining that the call recording is being saved.](media/RAHL_CallRecording_Uploading.png)
+![Screenshot of Remote Assist on HoloLens, showing the notification explaining that the call recording is being saved.](media/03.10-call-recording-saving.png)
 
 7.	After the recording is processed and saved, it will appear in your Remote Assist chat history (if you are still in the call) and also your Teams chat history. Remember that your Remote Assist chat history does not persist when the call ends, but your Teams chat history does. To view the recording in your HoloLens browser, select the link in the Remote Assist chat. To view all the call recordings you initiated, visit your [Stream videos page](https://msit.microsoftstream.com/studio/videos). 
  
-![Screenshot of Remote Assist on HoloLens, showing the chat window where there's a notification that the video is available on Stream.](media/RAHL_CallRecording_RecordingAvailable.png)
+![Screenshot of Remote Assist on HoloLens, showing the chat window where there's a notification that the video is available on Stream.](media/03.13-call-chat-recorded.png)
 
 Note that if you're *not* in a one-to-one call with one Teams desktop user, the recording button will be greyed out. If you select it, you'll see a reminder that you can only record in one-to-one calls with one Teams desktop user.   
  
-![Screenshot of Remote Assist on HoloLens, showing the greyed out record icon, along with a notification explaining that recording is unavailable.](media/RAHL_CallRecording_CannotRecord.png)
+![Screenshot of Remote Assist on HoloLens, showing the greyed out record icon, along with a notification explaining that recording is unavailable.](media/03.12-call-recording-unavailable.png)
 
 ## Cloud-based recording layout 
 

@@ -29,8 +29,8 @@ For full list of voice commands, see the list below.
 | ------------- | -----|
 |**General**| | 
 |Start listening (stop listening)       |Put Remote Assist into (out of) state expecting a list of commands to follow                  |
-|Settings                               | On recent contacts page, select settings page                                                                     |
-|Sign out                               | On recent contacts page, sign out                                                                                 |
+|Settings                               | Switch to Settings tab                                                                     |
+|Sign out                               | Sub menu available from the user's avatar picture, sign out                                                                                 |
 |**Call management**  | | 
 |Call                                   |Call a contact                                                                                                     |
 |Video                                  | Answer an incoming call with video.                                                                               |
@@ -64,11 +64,10 @@ For full list of voice commands, see the list below.
 |Undo                                   | Undo the previous action.                                                                                         |
 |Erase All                              |Remove all annotations you placed                                                                                  |
 |**File management**   | | 
-|OneDrive                               |Import OneDrive file into your space                                                                               |
-|Home                                   |When OneDrive panel is open, navigate to the root OneDrive folder.                                                 |
-|Close                                  |Close OneDrive panel                                                                                               |
-|Up                                     |When OneDrive is open, select up                                                                                   |
-|Back (next)                            |When OneDrive is open, go back                                                                                     |
+|Files                               |Switch to Files tab to insert files into your space                                                                               |
+|Home                                   |When Files tab is open, navigate to the root OneDrive folder.                                                 |
+|Up                                     |When Files tab is open, select up                                                                                   |
+|Back (next)                            |When Files tab is open, go back                                                                                     |
 |Previous (next)                        |When viewing a PDF, return to previous page (go to next page)                                                      |
 |Set page                               |Open the PDF page-jump UI. Use "Select" to set page numbers.                                                       |
 |Reset                                  |Reset the newest received file to its original placement and size.                                                 |
@@ -87,6 +86,6 @@ To turn on the Narrator for incoming calls:
 
 - Go to Settings, and then select the **On** button for the Narrator.
 
-  ![Open Narrator](media/narrator.PNG "Open Narrator")
+ ![Open Narrator](media/08.00-settings.png "Open Narrator")
 
  

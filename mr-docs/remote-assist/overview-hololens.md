@@ -14,15 +14,19 @@ When you use Remote Assist on HoloLens or HoloLens 2, you can collaborate with o
 
 ## Overview of core features
 
-When you launch Remote Assist, you’ll see your recent contacts. When you join a call or meeting, you will see a video card.  
+When you launch Remote Assist, you’ll be in the Call tab where you will see your recent contacts. When you join a call or meeting, you will see a video card.  
 
-![Screenshot of the HoloLens field of view, showing the recent contacts screen.](media/HL2-01.01-contacts.png)
+![Screenshot of the HoloLens field of view, showing the Call tab screen.](media/02.00-contacts.png)
 
-The previous screenshot shows the **Recent Contacts** screen. You can use the tools in the top-right corner to access Dynamics 365 Field Service bookings, sign out, and adjust settings.
+The previous screenshot shows the **Call** tab. You can use the tools in the top-right corner to access Dynamics 365 Field Service bookings, move the window, and pin the window in place.
 
- ![Screenshot of the HoloLens field of view, showing the settings screen.](media/RAHL_Settings.png "Settings")
+ ![Screenshot of the HoloLens field of view, showing the Files tab screen.](media/06.00-files.png "Files")
 
-The previous screenshot shows the settings screen. When you’re outside a call, you can go to **Settings** to: 
+ The previous screenshot shows the Files tab. You can select the **Files** tab at anytime (before, during, or after a call) to access service related documents from your OneDrive for Business and place them into your field of view.
+
+![Screenshot of the HoloLens field of view, showing the Settings tab screen.](media/08.00-settings.png "Settings")
+
+The previous screenshot shows the Settings tab. You can select the **Settings** tab at anytime to: 
 
 - Configure various settings
 - Provide feedback
@@ -30,7 +34,7 @@ The previous screenshot shows the settings screen. When you’re outside a call,
 - Find tutorials on Microsoft Docs
 - Switch your Dynamics instance.  
 
- ![Screenshot of Remote Assist on HoloLens showing an active call showing the recording button.](media/RAHL_VideoCard_WithRecordButton.png)
+![Screenshot of Remote Assist on HoloLens showing an active call showing the recording button.](media/03.00-call.png)
 
 The previous screenshot shows a video card. When you’re in a call, all the tools are along the top and bottom of the video card. The participant tray displays the avatars of all call participants.  
 
@@ -38,7 +42,7 @@ As a Remote Assist HoloLens user, you can make or join a one-to-one call, group 
 
 Remote collaborators can join the call using Microsoft Teams desktop application or mobile application.  
 
-In a call, remote collaborators can see everything you see – including holograms and the real world behind the holograms – and can add annotations, insert files into your world, and more.   
+In a call, remote collaborators can see everything you see – including holograms and the real world behind the holograms – and can add annotations, insert files into your world, and more.
 
 A good way to learn Remote Assist features and voice commands is to say "Remote Assist." When you’re in a call, the app will show what it believes you said by showing a check mark and "Remote Assist." Then, the app will show the name of each button, as you see in the previous video call screenshot. After a few seconds, these labels will automatically disappear. 
 
