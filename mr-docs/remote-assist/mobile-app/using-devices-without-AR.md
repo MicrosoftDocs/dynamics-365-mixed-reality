@@ -33,36 +33,40 @@ Technicians and remote collaborators can still connect and conduct repairs and i
 
 ![In call](./media/3c.png "In call")
 
-4. You will receive a tool tip notification directing the use of still snapshots to add 2D annotations on a frozen video frame. 
+5. You will receive a tool tip notification directing the use of still snapshots to add 2D annotations on a frozen video frame. 
 
 ![Tool tip](./media/4.png "Tool tip")
 
-5. As the technician, you can enter snapshot mode, which captures a frozen frame of your environment and shares it to the remote collaborator's screen. 
+6. After selecting the **snapshot** icon, you will enter snapshot mode, which captures a frozen frame of your environment and shares it to the remote collaborator's screen. 
 
-![Snapshot mode](./media/5 - mobile.png "Snapshot mode")
+![Snapshot mode](./media/5-mobile.png "Snapshot mode")
 
-6. Both the technician and remote collaborator can add 2D annotations to the snapshot. 
+7. Both the technician and remote collaborator can add 2D annotations to the snapshot. 
 > [!NOTE]	Both the technician and remote collaborator will see the MR toolbar on the frozen frame and can add 2D annotations.
 
 ![Snapshot mode](./media/6-mobile.png "Snapshot mode")
 
-7. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the Check Mark to save or discard the snapshot.
+8. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the Check Mark to save or discard the snapshot.
 
-![Snapshot mode](./media/5.png "Snapshot mode")
+![Snapshot mode](./media/5-mobile.png "Snapshot mode")
 
-7. The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, Remote Assist mobile's text chat, or both. Select your choice(s) and then select Save.
+9. The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, Remote Assist mobile's text chat, or both. Select your choice(s) and then select **Save**.
 
 ![Save snapshot](./media/7a.png "Save snapshot")
 
-8. The technican is notified when the snapshot has been successfully saved or failed. If the snapshot has not been saved, then you can try taking another snapshot and saving it again. If the technican successfully saved the snapshot, then the snapshots can be viewed in the mobile device’s Photo Gallery and/or Microsoft Teams text chat.
+10. The technican is notified when the snapshot has been successfully saved or failed. If the snapshot has not been saved, then you can try taking another snapshot and saving it again. If the technican successfully saved the snapshot, then the snapshots can be viewed in the mobile device’s Photo Gallery and/or Microsoft Teams text chat.
 
-9. Afterwards, the technician is taken back to the live video call and can select the snapshot icon again to take more snapshots.
-> [!NOTE] Annotations added on a still snapshot will not appear in the technician's environment after it has been saved or discarded.
+![Save successful?](./media/8-saved.png "Save successful?")
 
-10. The technician can send and receive messages, images, and files in the text chat from the remote collaborator. 
+11. Afterwards, the technician is taken back to the live video call and can select the snapshot icon again to take more snapshots.
+> [!NOTE] Annotations added on a still snapshot will **not** appear in the technician's environment after it has been saved or discarded.
 
-11. The technician can record the one-to-one call with the remote collaborator, if the remote collaborator is using Microsoft Teams desktop only. 
+12. The technician can send and receive messages, images, and files in the text chat from the remote collaborator. 
 
-12. If the technician is a Dynamics 365 Field Service customer, at the end of the call the technician can choose to automatically post the call logs and the images, files, and snapshots shared in the text chat to an associated work order.
+![Text chat](./media/10.png "Text chat")
+
+13. The technician can record the one-to-one call with the remote collaborator, if the remote collaborator is using Microsoft Teams desktop only. 
+
+14. If the technician is a Dynamics 365 Field Service customer, at the end of the call the technician can choose to automatically post the call logs and the images, files, and snapshots shared in the text chat to an associated work order.
 
 ![Field Service](./media/12.png "Field Service")
