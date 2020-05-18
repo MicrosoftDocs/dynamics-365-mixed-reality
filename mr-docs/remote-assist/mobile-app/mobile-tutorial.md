@@ -14,16 +14,16 @@ Augmented reality (AR) creates immersive and engaging collborations between two 
 
 To better understand Remote Assist mobile's AR capabilities, technicians can use the **in-app, guided tutorial** to jumpstart their ability to use our app. This guided tutorial includes:
 
-1. Before technicians can enjoy an AR experience in our app, they need to **move their mobile device around which lets ARKit/ARCore evaluate the surroundings and detect surfaces**. By detecting the technicians' surroundings and surfaces, both the technician and remote collaborator can more accurately place mixed reality annotations in their environment. 
+1. Before technicians can enjoy an AR experience in our app, they need to **move their mobile device around which lets ARKit/ARCore evaluate your surroundings and detect surfaces**. By detecting the technicians' surroundings and surfaces, both the technician and remote collaborator can more accurately place mixed reality annotations in their environment. 
 2. **Place and manipulate mixed reality annotations**, such as the arrow and the ink tools.
 
-## Techniques to improve the surroundings and surface detection
+## Techniques to improve surface detection
 - Move your phone from side-to-side at the beginning of a video call.
 - Try moving your phone more slowly.
 - Place annotations in your device's FOV and avoid lots of sudden movements.
 - Avoid frequently minimizing the app and reopening it while there are annotations present.
 
-## Limitations that may hinder accurate surroundings and surface detection
+## Limitations that may hinder accurate surface detection
 - Flat surfaces without texture, such as a white desk.
 - Environments with dim lighting or extremely bright lighting.
 - Transparent or reflective surfaces like glass.
