@@ -17,21 +17,20 @@ To better understand Remote Assist mobile's AR capabilities, technicians can use
 1. Before technicians can enjoy an AR experience in our app, they need to **move their mobile device around which lets ARKit/ARCore evaluate the surroundings and detect surfaces**. By detecting the technicians' surroundings and surfaces, both the technician and remote collaborator can more accurately place mixed reality annotations in their environment. 
 2. **Place and manipulate mixed reality annotations**, such as the arrow and the ink tools.
 
-### Techniques to **improve** the surroundings and surface detection
+## Techniques to improve the surroundings and surface detection
 - Move your phone from side-to-side at the beginning of a video call.
 - Try moving your phone more slowly.
 - Place annotations in your device's FOV and avoid lots of sudden movements.
 - Avoid frequently minimizing the app and reopening it while there are annotations present.
 
-### **Limitations** that may hinder accurate surroundings and surface detection
+## Limitations that may hinder accurate surroundings and surface detection
 - Flat surfaces without texture, such as a white desk.
 - Environments with dim lighting or extremely bright lighting.
 - Transparent or reflective surfaces like glass.
 - Dynamic or moving surfaces.
 
-### Prerequisites 
+## Prerequisites 
 - For technicians to be able to enjoy the AR capabilities on Remote Assist mobile, they must be using an **AR capable mobile device**; learn more about the device requirements [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements). Don't worry, Remote Assist mobile is available on unsupported AR mobile devices, too; learn more about using Remote Assist mobile on unsupported AR devices [here](mobile-app/using-devices-without-AR.md). 
-###
 
 ## How it works
 
