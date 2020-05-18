@@ -37,35 +37,35 @@ To better understand Remote Assist mobile's AR capabilities, technicians can use
 
 1. To launch the tutorial, select **Try It** on the **Sign in** screen.
 
-![Screenshot of Remote Assist mobile on a phone, showing the try it button](./media/learntools_1.png "Try It")
+![Screenshot of Remote Assist mobile on a phone, showing the try it button](./media/13.png "Try It")
 
 2. If you're already signed in and wish to launch the tutorial, you can also go to **Menu** > **Learn the Tools**. 
 
-![Screenshot of Remote Assist mobile on a phone, showing the Learn the Tools option in the menu](./media/learntools_4.png "Try Tools")
+![Screenshot of Remote Assist mobile on a phone, showing the Learn the Tools option in the menu](./media/14b.png "Try Tools")
 
 3. Once you have begun the tutorial, you're prompted with an animation to move your phone side-to-side for better surface detection. Complete this action. 
 
-![Screenshot of Remote Assist mobile on a phone, showing the prompt asking users to map their space](./media/learntools_5.png "Map Space")
+![Screenshot of Remote Assist mobile on a phone, showing the prompt asking users to map their space](./media/15.png "Map Space")
 
 4. Select the **Arrow tool** to place the arrow tool.
 
-![Screenshot of Remote Assist mobile on a phone, showing the arrow tool in the menu.](./media/learntools_6.png "Select Arrow")
+![Screenshot of Remote Assist mobile on a phone, showing the arrow tool in the menu.](./media/16.png "Select Arrow")
 
 5. Place the arrow in your environment by dragging and dropping it to anywhere on your screen. 
 
-![Screenshot of Remote Assist mobile on a phone, showing a placed arrow.](./media/learntools_7.png "Place Arrow")
+![Screenshot of Remote Assist mobile on a phone, showing a placed arrow.](./media/17a.png "Place Arrow")
 
 6. Select the **Inking tool**.
 
-![Screenshot of Remote Assist mobile on a phone, showing the ink icon in the menu.](./media/learntools_8.png "Select Ink")
+![Screenshot of Remote Assist mobile on a phone, showing the ink icon in the menu.](./media/18.png "Select Ink")
 
 7. Draw a line or circle by tapping and dragging on your screen. 
 
-![Screenshot of Remote Assist mobile on a phone, showing an example of a drawn annotation.](./media/learntools_9.png "Draw")
+![Screenshot of Remote Assist mobile on a phone, showing an example of a drawn annotation.](./media/19b.png "Draw")
 
 8. Practice placing and using other annotations. You can use the **Color picker**, **Undo**, or **Delete all** annotation icons. 
 
-![Screenshot of Remote Assist mobile on a phone, showing the other menu options.](./media/learntools_10.png "Other")
+![Screenshot of Remote Assist mobile on a phone, showing the other menu options.](./media/20a.png "Other")
 
 ## How to resolve error messages 
 
@@ -75,8 +75,16 @@ Throughout the tutorial or during the call, technicians may be prompted that the
 
 1. Move your device from **side-to-side** to better detect your surroundings or surfaces.
 
+![Screenshot of Remote Assist mobile on a phone, showing the prompt asking users to map their space](./media/15.png "Map Space")
+
 2. Move your device **further away**.
+
+![Screenshot of Remote Assist mobile on a phone, showing the prompt to move further away](./media/22.png "Far Away")
 
 3. Move your device **closer**.
 
+![Screenshot of Remote Assist mobile on a phone, showing the prompt to move closer](./media/23.png "Closer")
+
 4. Try **turning on some lights** to a dimly lit space.
+
+![Screenshot of Remote Assist mobile on a phone, showing the prompt that light is needed](./media/24.png "More light needed")
