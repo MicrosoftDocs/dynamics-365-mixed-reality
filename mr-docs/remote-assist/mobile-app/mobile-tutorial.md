@@ -50,7 +50,7 @@ To better understand Remote Assist mobile's AR capabilities, technicians can use
 
 ![Screenshot of Remote Assist mobile on a phone, showing the arrow tool in the menu.](./media/16.png "Select Arrow")
 
-5. Place the arrow in your environment by dragging and dropping it to anywhere on your screen. 
+5. Place the arrow in your environment by tapping anywhere on your screen. 
 
 ![Screenshot of Remote Assist mobile on a phone, showing a placed arrow.](./media/17a.png "Place Arrow")
 
