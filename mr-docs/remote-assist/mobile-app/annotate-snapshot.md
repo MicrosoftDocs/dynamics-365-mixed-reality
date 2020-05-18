@@ -10,11 +10,11 @@ ms.reviewer: krbjoran
 ---
 # Capture and annotate snapshots 
 
-Snapshots are critical in situations where a still image might help communicate what a technician is looking at and the addition of placing 2D annotations on snapshots provide emphasis on specific elements in the technicians' environment. These snapshots can be used later for reference or work validation, and can provide relief in low-bandwidth scenarios where live video just isn't cutting it; learn more about using snapshots in low-bandwidth scenarios [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity). 
+Snapshots are critical in situations where a still image might help communicate what a technician is looking at and the addition of placing 2D annotations on snapshots provide emphasis on specific elements in the technicians' environment. These snapshots can be used later for reference or work validation, and can provide relief in low-bandwidth scenarios or on devices without AR support where live video just isn't cutting it; learn more about using snapshots in low-bandwidth scenarios [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity) and on devices without AR support [here](mobile-app/using-devices-without-AR.md). 
 
-Remote Assist mobile now provides technicians with the ability to **capture and annotate still snapshots** of their environment during a call. These snapshots can either be **discarded** or be **saved to the technicians' mobile device's Photo Gallery**, **shared to the in-call text chat**, and **both**. 
+Remote Assist mobile now provides technicians with the ability to **capture and annotate snapshots** of their environment during a call. These snapshots can either be **discarded** or be **saved to the technicians' mobile device's Photo Gallery**, **shared to the in-call text chat**, and **both**. 
 
-If the technician is a **Dynamics 365 Field Service** customer, the snapshot can be automatically posted to an associated work order, learn more [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
+If the technician is a **Dynamics 365 Field Service** customer, snapshot(s) can be posted to an associated work order, learn more [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
 
 ## How it works
 
