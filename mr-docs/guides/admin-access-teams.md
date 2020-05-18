@@ -66,13 +66,15 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 
     ![Change the Read privileges](media/access-teams-5.PNG "Change the Read privileges")
     
-6. To limit author access to specific guides, clone the **Dynamics 365 Guides Author** role and name it **Dynamics 365 Guides Restricted Author**.
+6. To limit author access to specific guides:
 
-7. On the **Security Role: Dynamics 365 Guides Restricted Author** page, on the **Custom Entities** tab, in the rows for the **Guides** entities, select the following dots and change the privileges from the **Organization** level to the **User** level (see the screen shot below). 
+    a. Clone the **Dynamics 365 Guides Author** role and name it **Dynamics 365 Guides Restricted Author**.
 
-    ![Clone role](media/restricted-author-privileges.PNG "Clone role")
+    b. On the **Security Role: Dynamics 365 Guides Restricted Author** page, on the **Custom Entities** tab, in the rows for the **Guides** entities, select the following dots and change the privileges from the **Organization** level to the **User** level. 
 
-8. Select **Save and Close** at the top of the page.
+      ![Clone role](media/restricted-author-privileges.PNG "Clone role")
+
+7. When you're finished, select **Save and Close** at the top of the page.
 
 ## Step 2: Grant the new security role access to the Guides model-driven app
 
