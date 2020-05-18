@@ -22,6 +22,7 @@ For a successful calling experience, **only a Remote Assist mobile user (technic
 > - Participating in Remote Assist mobile to Remote Assist on HoloLens calls.
 
 ## Prerequisites
+- In order to follow along with this guide, you must be using a mobile device with AR support. Learn more about device requirements [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements).
 - Technicians must have a Remote Assist license. Visit our additional documentation to learn more about the [free trial licenses](../try-remote-assist.md) or [subscriptions](../buy-remote-assist.md).
 - Experts must have a Microsoft Teams license. Learn more [here](../teams-pc-all.md).
 
@@ -48,4 +49,3 @@ For a successful calling experience, **only a Remote Assist mobile user (technic
 6. With the call controls toolbar, Remote Assist mobile users can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
 
 ![Screenshot of the Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/calltoolbar.png "Call Toolbar")
-
