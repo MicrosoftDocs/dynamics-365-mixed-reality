@@ -10,11 +10,11 @@ ms.reviewer: krbjoran
 ---
 # Using Remote Assist mobile on your mobile device without augmented reality (AR) support 
 
-Technicians and remote collaborators can still connect and conduct repairs and inspections together on mobile devices **without** augmented reality (AR) support, too! Without a device with AR support, technicians and remote collaborators are unable to provide virtual annotations to the the real world as seen through the technician's device camera. However, technicians can still use the live video feed to share their environment and use the **snapshot feature** to provide instructions using 2D annotations along with the remote collaborator. Learn more about the snapshot feature, [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-snapshot). 
+Technicians and remote collaborators can still connect and conduct repairs and inspections together on mobile devices **without** augmented reality (AR) support, too! Without a device with AR support, technicians and remote collaborators are unable to provide virtual annotations to the the real world as seen through the technician's device camera. However, technicians can still use the **live video feed** to share their environment and use the **snapshot feature** to provide instructions using 2D annotations along with the remote collaborator. Learn more about the snapshot feature, [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-snapshot). 
 
 ## Prerequisites 
-- Technicians must be using a mobile device **without** AR support to follow along this guide. If your device is not listed on the [Android/ARCore](https://developers.google.com/ar/discover/supported-devices) supported devices or [iOS/ARKit](https://developers.google.com/ar/discover/supported-devices#ios) supported devices, then your device does not support AR. 
-- Remote collaborators on Microsoft Teams desktop or mobile can use devices with or without AR support; this has no impact on their AR experience. 
+- In order to follow along with this guide, technicians must be using a mobile device **without** AR support. If your device is not listed on the [Android/ARCore](https://developers.google.com/ar/discover/supported-devices) supported devices or [iOS/ARKit](https://developers.google.com/ar/discover/supported-devices#ios) supported devices, then your device does not support AR. 
+- Remote collaborators on Microsoft Teams desktop or Teams mobile can use devices with or without AR support; this has no impact on their AR experience. 
 
 ## How it works 
 1. As a technician using Remote Assist on a mobile device without ARCore/ARKit support, you can launch and sign in with your credentials. After you select **Sign In**, you will receive a notification about using a mobile device with augmented reality support.
@@ -29,18 +29,30 @@ Technicians and remote collaborators can still connect and conduct repairs and i
 
 ![Video Card](./media/3a.png "Video Card")
 
-4. The technician launches a call with a remote collaborator using Microsoft Teams desktop or mobile. The technician joins the video call **without** the Mixed Reality toolbar available and the remote collaborator joins the video call **without** both the “Edit” button and Mixed Reality toolbar available. 
+4. After the remote collaborator accepts the call, you will enter a video call. 
 
-![In call](./media/4.png "In call")
+![In call](./media/3c.png "In call")
 
-4. The technician receives a tool tip notification directing the use of still snapshots to add 2D annotations on a frozen video frame. 
+4. You will receive a tool tip notification directing the use of still snapshots to add 2D annotations on a frozen video frame. 
 
-5. If the technician enters snapshot mode, this captures a frozen frame of technician’s environment and both the technician and remote collaborator can add 2D annotations to the snapshot. 
+![Tool tip](./media/4.png "Tool tip")
+
+5. As the technician, you can enter snapshot mode, which captures a frozen frame of your environment and shares it to the remote collaborator's screen. 
+
+![Snapshot mode](./media/5 - mobile.png "Snapshot mode")
+
+6. Both the technician and remote collaborator can add 2D annotations to the snapshot. 
 > [!NOTE]	Both the technician and remote collaborator will see the MR toolbar on the frozen frame and can add 2D annotations.
 
-6. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the Check Mark to save or discard the snapshot.
+![Snapshot mode](./media/6-mobile.png "Snapshot mode")
+
+7. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the Check Mark to save or discard the snapshot.
+
+![Snapshot mode](./media/5.png "Snapshot mode")
 
 7. The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, Remote Assist mobile's text chat, or both. Select your choice(s) and then select Save.
+
+![Save snapshot](./media/7a.png "Save snapshot")
 
 8. The technican is notified when the snapshot has been successfully saved or failed. If the snapshot has not been saved, then you can try taking another snapshot and saving it again. If the technican successfully saved the snapshot, then the snapshots can be viewed in the mobile device’s Photo Gallery and/or Microsoft Teams text chat.
 
@@ -53,3 +65,4 @@ Technicians and remote collaborators can still connect and conduct repairs and i
 
 12. If the technician is a Dynamics 365 Field Service customer, at the end of the call the technician can choose to automatically post the call logs and the images, files, and snapshots shared in the text chat to an associated work order.
 
+![Field Service](./media/12.png "Field Service")
