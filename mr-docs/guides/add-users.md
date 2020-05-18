@@ -57,21 +57,18 @@ After you add user accounts, the next step is to assign the **Author**, **Operat
 ## Assign a Dynamics 365 Guides license to an existing user
 
 1. Open the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home). 
- 
 
 2. In the left pane, select **Users**, and then select **Active users**. 
- 
 
-3. Select the **More actions** (...) button for the user you want to assign a license to, and then select **Manage product licenses**. 
+3. Select the **More actions** (**...**) button for the user that you want to assign a license to, and then select **Manage product licenses**. 
 
     ![Select Manage product licenses](media/select-manage-product-licenses.PNG "Select Manage product licenses")
 
-4. On the right side of the screen, select the **License and Apps** tab, select the **Dynamics 365 Guides** check box, select the arrow next to **Apps**, and then make sure that the **Common Data Service**, **Dynamics 365 Guides**, and **PowerApps for Guides** check boxes are selected. 
+4. In the dialog box that appears, on the **Licenses and Apps** tab, select the **Dynamics 365 Guides** check box. Then, on the **Apps** FastTab, make sure that the **Common Data Service**, **Dynamics 365 Guides**, and **PowerApps for Guides** check boxes are selected. 
 
     ![Verify check boxes](media/verify-check-boxes.PNG "Verify check boxes")
 
-5. Select **Save changes** when you're done.
-
+5. Select **Save changes**.
 
 ## What's next?
 
