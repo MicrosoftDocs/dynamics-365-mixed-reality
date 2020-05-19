@@ -14,7 +14,7 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Opportunities** page. Each opportunity typically has multiple products within it, and each product can have multiple 3D models.
+The home page of Dynamics 365 Product Visualize is the **My Open Opportunities** page. Each opportunity typically has multiple products within it, and each product can have multiple 3D models.
 
 ![Opportunities, products, and 3D models](media/manipulating-3D-models.PNG "Opportunities, products, and 3D models")
 
@@ -29,7 +29,7 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
     ![Products screen showing multiple products](media/products-screen.PNG "Products screen showing multiple products")
     
-3.	In a brightly lit environment, point your device down towards a flat surface like the floor or a desk. Move your device around slowly to allow Dynamics 365 Product Visualize to find the surface. After you find a suitable surface, you'll see the model-loading indicator and a message that a surface has been found.
+3.	In a brightly lit environment, point your device down toward a flat surface like the floor or a desk. Move your device around slowly to allow Dynamics 365 Product Visualize to find the surface. After you find a suitable surface, you'll see the model-loading indicator and a message that a surface has been found.
 
     > [!div class=mx-imgBorder]
     > ![Find a surface](media/preface-find-surface.png "Find a surface")
@@ -44,15 +44,15 @@ The home page of Microsoft Dynamics 365 Product Visualize is the **My Open Oppor
 
 ## Manipulate your model
 
-Once you've placed your model on the appropriate surface, you're ready to manipulate it further if you need to display it to your customer.
+After you've placed your model on the appropriate surface, you're ready to manipulate it further if you need to display it to your customer.
 
 ### Scale your model
 
 Scaling your model means to increase or decrease the model's size. To scale your model, spread or pinch using two fingers.
 
 > [!TIP]
-> - To quickly reach 100% scale, double-tap on the model. A second double-tap will return the model to whatever scale it began at and you can quickly switch between those two sizes using the double-tap gesture.
-> - When you are scaling the model, a notification will appear on the screen telling you what percent scale your model is. When you take your fingers off the screen, this notification will disappear. The 100% scale indicates life size or true size based on the product specifications.
+> - To quickly reach 100&nbsp;percent scale, double-tap the model. A second double-tap will return the model to whatever scale it began at and you can quickly switch between those two sizes using the double-tap gesture.
+> - When you're scaling the model, a notification will appear on the screen telling you what percent scale your model is. When you take your fingers off the screen, this notification will disappear. The 100&nbsp;percent scale indicates life size or true size based on the product specifications.
 > - Be careful not to rotate your fingers as you scale to avoid accidentally rotating the model.
 
 > [!div class=mx-imgBorder]
@@ -72,11 +72,11 @@ To rotate your model around the vertical axis, use two fingers placed anywhere o
 
 ### Move your model
 
-To move your model left or right, away or towards you, just drag it with one finger.
+To move your model left or right, away or toward you, just drag it with one finger.
 
 > [!TIP]
-> - It may look like dragging the model farther away is lifting it off the selected surface, but this is just a trick of perspective.
-> - If you move your model very far away from you, it may suddenly appear tiny and difficult to manipulate. Simply drag the model back towards you using one finger until it appears to be back where you originally placed it.
+> - It might look like when you drag the model farther away you're lifting it off the selected surface, but this is just a trick of perspective.
+> - If you move your model very far away from you, it might suddenly appear tiny and difficult to manipulate. Simply drag the model back toward you using one finger until it appears to be back where you originally placed it.
 > - Be careful to avoid touching a second finger to the screen while you are trying to move or place your model. If the model is difficult to move or not behaving as expected, check that you are not touching any other part of the screen at the same time that you perform the manipulation. 
 
 > [!div class=mx-imgBorder]
@@ -84,10 +84,10 @@ To move your model left or right, away or towards you, just drag it with one fin
 
 ### Lift your model up or down
 
-To lift your model in a vertical direction up or down, use two fingers placed side-by-side on the screen and slowly drag the model in the direction you want.
+To lift your model in a vertical direction up or down, use two fingers placed side by side on the screen and slowly drag the model in the direction you want.
 
 > [!TIP]
-> - If you want to place your model onto a new surface (i.e. one higher or lower than the original surface you scanned), you must go back to the **Products** page and reload the model to place it on a new surface. Lifting the model after it is placed will often not re-scan the new surface successfully.
+> - If you want to place your model onto a new surface (that is, one higher or lower than the original surface you scanned), you must go back to the **Products** page and reload the model to place it on a new surface. Lifting the model after it is placed will often not re-scan the new surface successfully.
 > - Just as with moving your model, it is possible to lift or lower the model so far away that it suddenly appears tiny and difficult to manipulate. Simply use two fingers to drag the model back up or down until it appears to be back where you originally placed it.
 
 > [!div class=mx-imgBorder]

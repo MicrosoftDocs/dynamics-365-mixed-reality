@@ -1,6 +1,6 @@
 ---
 title: Add a note to your 3D model in Dynamics 365 Product Visualize
-description: Learn how to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize.
+description: Learn how to add notes (including text, drawings, and video) to a 3D model and share them with your colleagues in Dynamics 365 Product Visualize.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
@@ -9,7 +9,7 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer:
 ---
-
+<!--note from editor: Please double-check the description. Is it okay to mention attaching videos, since it's a preview feature? -->
 # Add a note to a 3D model in Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
@@ -105,7 +105,7 @@ A video allows you to capture more details about your customers' requirements. I
 
 **To enable video notes**
 
-1. Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Preview features**.
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Preview features**.
 
     > [!div class=mx-imgBorder]
     > ![Preview features](media/preview-features.png "Preview features")
@@ -219,7 +219,7 @@ By default, your notes are saved to the SharePoint account associated with your 
 
 To turn off sharing with the Dynamics 365 Sales timeline or Teams channels:
 
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu icon"), and then select the account you're signed in to.  
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then select the account you're signed in to.  
 
 2. Move the **Dynamics 365 for Sales Timelines** toggle to the Off position.
 

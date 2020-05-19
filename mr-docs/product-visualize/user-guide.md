@@ -1,6 +1,6 @@
 ---
 title: User guide for Dynamics 365 Product Visualize
-description: User guide for Dynamics 365 Product Visualize, including opening and signing in to the app, placing and manipulating 3D models, adding notes, adding your own 3D models, and exploring sample 3D models
+description: Guide for opening and signing in to the Dynamics 365 Product Visualize app, placing and manipulating 3D models, adding notes, adding your own 3D models, and exploring sample 3D models
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
@@ -17,7 +17,9 @@ ms.reviewer:
 Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their real-world environment. Using mixed reality, sellers can create a shared understanding between themselves and buyers to accelerate complex sales processes. Showing your customers products in 3D is more compelling than showing them flat images. Our app also gives you other capabilities that aren't available with conventional sales tools. 
 
 > [!IMPORTANT]
-> This user guide describes features available in version 1.11 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).
+> This user guide describes features available in version 1.11 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).<!--SELF This doesn't seem like the right link. Find a more likely one. -->
+
+<!--SELF: I'm confused by the relationship between this topic and the other U.G. topics. They almost track, but not quite. We need to explicitly say, "The following is a general process for a successful demo; more detail about these and additional steps are covered in the other User Guide chapters. That list tucked into the bottom of this topic doesn't cut it; makes it look like we're embarrassed or something. -->
 
 ## Steps to a successful product demonstration
 
@@ -65,7 +67,7 @@ After you've placed it, you can move the model around your space, rotate and res
 
 There are any number of uses for adding notes to your model. Notes capture images of your model in context, and you can attach text or annotate the image by drawing on it. You can add product specification and marketing information directly on the model, and you might add notes on your model before a meeting to highlight sales points specifically for the client. If the client has a question or comment during the meeting, you can record that in a note to follow up on later. This way, you capture comments in context on specific points of the model, so you and your teammates can always be on the same page.
 
-Notes you create can be exported by using Teams or email. More information: [Add a note to a 3D model](add-note.md#add-a-note)
+Notes you create can be exported by using Teams or email. More information: [Add a note to a 3D model](add-note.md)<!--Suggest linking to the whole topic; there's good information even above the "Export a note" procedure.-->
 
 > [!div class=mx-imgBorder]
 > ![Add a note to a model](media/preface-add-note.png "Add a note to a model")

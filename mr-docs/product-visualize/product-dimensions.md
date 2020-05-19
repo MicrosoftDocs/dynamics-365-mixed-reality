@@ -1,6 +1,6 @@
 ---
 title: Enable product dimensions in Dynamics 365 Product Visualize
-description: Learn how to enable product dimensions to see model dimensions in Dynamics 365 Product Visualize.
+description: Learn how to display the dimensions of a product in a model in Dynamics 365 Product Visualize.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
@@ -21,7 +21,7 @@ Dynamics 365 Product Visualize has a tool to display your model measurements in 
 
 **To enable product dimensions**
 
-1. Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Preview features**.
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Preview features**.
 
     > [!div class=mx-imgBorder]
     > ![Preview features](media/preview-features.png "Preview features")
@@ -33,7 +33,7 @@ Dynamics 365 Product Visualize has a tool to display your model measurements in 
 
 ## Set measurement unit
 
-1. Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Settings**.
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Settings**.
 
     > [!div class=mx-imgBorder]
     > ![Settings button](media/edit-account-settings.png "Settings button")
@@ -59,3 +59,5 @@ Dynamics 365 Product Visualize has a tool to display your model measurements in 
 
     > [!div class=mx-imgBorder]
     > ![Model dimensions](media/model-dimensions.png "Model dimensions")
+
+<!--SELF: Add see also block? -->

@@ -1,11 +1,11 @@
 ---
+title: Explore sample 3D models in Dynamics 365 Product Visualize
 author: mamithan
-description: How to explore sample models in Dynamics 365 Product Visualize
+description: How to explore sample models without a Dynamics 365 subscription
 ms.author: mamithan
 ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
-title: Explore sample 3D models in Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try out even if you don't have a Dynamics 365 subscription. Use the sample content to try the Dynamics 365 Product Visualize app and play with 3D models. When you explore a 3D model this way, you place it just like you would any other 3D model, and you can also add notes to the model. However, any notes you add to a sample model aren't saved when you close Dynamics 365 Product Visualize.
+Dynamics 365 Product Visualize comes with sample 3D models you can try out even if you don't have a Dynamics 365 subscription. Use the sample content to try the Dynamics 365 Product Visualize app and play with 3D models. When you explore a 3D model this way, you place it just like you would any other 3D model, and you can also add notes to the model. However, any notes you add to a sample model aren't saved when you close Dynamics 365 Product Visualize.
 
 ## Open a sample 3D model
 
@@ -24,7 +24,7 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
      > [!div class=mx-imgBorder]
      > ![Welcome screen](media/welcome.png "Welcome screen")
 
-     You can also tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Sample products** to see samples.
+     You can also tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Sample products** to see samples.
      
      > [!div class=mx-imgBorder]
      > ![Sample products menu item](media/sample-products-menu.png "Sample products menu item")
