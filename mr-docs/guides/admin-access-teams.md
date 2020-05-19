@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use access teams to limit access to specific guides or guide content in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 04/28/2020
+ms.date: 05/18/2020
 ms.service: crm-online
 ms.topic: article
 title: Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides
@@ -65,6 +65,16 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
     > The **Key** section at the bottom of the page describes the different privilege levels. For more information, see [Security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges).
 
     ![Change the Read privileges](media/access-teams-5.PNG "Change the Read privileges")
+    
+6. To limit author access to specific guides:
+
+    a. Clone the **Dynamics 365 Guides Author** role and name it **Dynamics 365 Guides Restricted Author**.
+
+    b. On the **Security Role: Dynamics 365 Guides Restricted Author** page, on the **Custom Entities** tab, in the rows for the **Guides** entities, select the following dots and change the privileges from the **Organization** level to the **User** level. 
+
+      ![Clone role](media/restricted-author-privileges.PNG "Clone role")
+
+7. When you're finished, select **Save and Close** at the top of the page.
 
 ## Step 2: Grant the new security role access to the Guides model-driven app
 
