@@ -1,6 +1,6 @@
 ---
 title: Download 3D models to use offline with Dynamics 365 Product Visualize
-description: Learn how to download 3D models offline so that you can use them when you don't have access to a network.
+description: Learn how to download 3D models offline so you can use them when you don't have access to a network.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
@@ -30,7 +30,7 @@ You can download models to use offline when you're away from a cellular network 
 
    > [!div class=mx-imgBorder]
    > ![Offline mode feature](media/offline-mode.png "Offline mode feature")
-   
+
 3. Close the Dynamics 365 Product Visualize app, and then restart it.
 
 ## Download a 3D model
@@ -38,15 +38,15 @@ You can download models to use offline when you're away from a cellular network 
 - When viewing a product, tap the **Cloud** button next to the product name to download the model.
 
    ![Cloud button](media/cloud-button.PNG "Cloud button")
-   
+
    A progress bar is displayed at the top of the screen indicating the status of downloads.
 
    ![Model download in progress](media/model-download-progress.PNG "Model download in progress")
-   
+
    When the model is downloaded, a blue check mark is displayed in place of the cloud button.
-   
+
    ![Model downloaded button](media/model-downloaded.PNG "Model downloaded button")
-   
+
    > [!NOTE]
    > When you're working offline with a 3D model, the notes functionality is disabled.
 
@@ -54,12 +54,12 @@ You can download models to use offline when you're away from a cellular network 
 
 You can update all of your downloaded models at once.
 
-1.	Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Downloads**.
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Downloads**.
 
       > [!div class=mx-imgBorder]
       > ![Downloads options](media/downloads-option.png "Downloads options")
 
-2.	Tap **Update Downloads** at the upper-right corner of the screen.
+2. Tap **Update Downloads** at the upper-right corner of the screen.
 
       > [!div class=mx-imgBorder]
       > ![Update downloads button](media/update-downloads.png "Update downloads button")
@@ -86,4 +86,5 @@ You can update all of your downloaded models at once.
 [Show or hide layers in a 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
-[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)
+[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
+[Enable product dimensions](product-dimensions.md)

@@ -66,14 +66,14 @@ Larger models might exceed the memory of the mobile device you're using. This is
 ## How far away from the object must I stand to see it?
 
 Initially, you must be 3 to 4 feet away from the location where you want to place the model. When the model appears and you place it on a surface, the model size should initially be contained within the device's screen. Depending on the size of the model, if you scale it up you might have to move back several feet to see the object in its entirety again.
- 
+
 ## What's the best way to obtain tracking?
 
 Point the device<!--Suggested. "Down" makes me think you're pointing it perpendicular to the surface.--> so that it's parallel to the surface you want. Hold it there momentarily, and then slowly tilt the device up so that it's close to a 45-degree angle with the floor. If you still haven't obtained tracking, point the device toward the surface again, and slowly raise it and lower it while keeping it parallel to the surface. When tracking is gained, tilt the device up to the angle you want to use to point it at the location you want on the surface.<!--Edits okay?-->
  
 ## What should I do if I lose tracking during a presentation? 
 
-Initially, you should try pointing the device<!--As above, I thought "down" was confusing in a case where you might want to orient the device horizontally.--> so it's parallel to the surface, and then slowly tilting it up. If that doesn't restore tracking, tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Opportunities**. Tap the opportunity that contains the product, and then tap the product that contains the model you were viewing. You'll then need to go through the placement process again by using the initial model in the product. After placing the initial model, tap **Models** on the right side of the screen to open the model menu. From the model menu, find the model you want, and then tap it to place it on the selected surface. 
+Initially, you should try orienting the device so it's parallel to the surface<!--As above, "pointing the device down so it's parallel to the surface" makes me think the surface must be upright.-->, and then slowly tilting it up. If that doesn't restore tracking, tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Opportunities**. Tap the opportunity that contains the product, and then tap the product that contains the model you were viewing. You'll then need to go through the placement process again by using the initial model in the product. After placing the initial model, tap **Models** on the right side of the screen to open the model menu. From the model menu, find the model you want, and then tap it to place it on the selected surface. 
  
 ## What surfaces and locations are best to track on? 
 
@@ -103,7 +103,7 @@ If the model you want is in another product or opportunity:
  
 ## How do I export the text and image in my note to send in email? 
 
-Go to the note you want to export. Tap the overflow menu ![Overflow](media/overflow-button.png "Overflow")<!--Is this the correct graphic to add here?--> on the note. Tap **Export Note** on the pop-up menu, and then tap **Email**. Tap the app that you use for email.  
+Go to the note you want to export. Tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu")<!--I removed bold from "Overflow" because I assume that's not the tooltip on the icon, but please reject the edit if this icon does have such a tooltip.--> on the note. Tap **Export Note** on the pop-up menu, and then tap **Email**. Tap the app that you use for email.  
  
 ## How do I download and retain a model locally? 
 
@@ -122,7 +122,7 @@ Notes are currently saved to the opportunity they were made in. If someone with 
 Currently, you can only make new notes or delete notes.
 
 -  To make a new note, on the **Notes** menu, tap **Add Note**.
--  To delete a note, tap **Overflow** ![Overflow](media/overflow-button.png "Overflow") (three dots) in the upper-right corner of the note, tap **Delete Note**, and then confirm.
+-  To delete a note, tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu") in the upper-right corner of the note, tap **Delete Note**, and then confirm.
 
 ## If I delete a note, how can I recover it? 
 

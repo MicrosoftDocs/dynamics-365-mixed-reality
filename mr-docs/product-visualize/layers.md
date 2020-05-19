@@ -28,14 +28,14 @@ You can create layers in a flattened or nested format by using CAD model design 
    > [!div class=mx-imgBorder]
    > ![Select Layers](media/layers-tool.png "Select Layers")
 
-2. Tap the check box for the layer you want to show or hide. 
+2. Tap the check box for the layer you want to show or hide.
 
     > [!div class=mx-imgBorder]
     > ![Tap check box](media/show-hide-layers.png "Tap the check box")
-   
 
-**Some tips for working with layers**
-   
+
+## Some tips for working with layers
+<!--note from editor: I made this an H2 because otherwise the only entry in the article TOC will be "Show or hide a layer," which just echoes the title of the article. -->
 - To expand or collapse a layer, tap the arrow button. 
 
     > [!div class=mx-imgBorder]
@@ -59,4 +59,5 @@ You can create layers in a flattened or nested format by using CAD model design 
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
 [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
-[Download 3D models to use offline](download-models.md)
+[Download 3D models to use offline](download-models.md)<br>
+[Enable product dimensions](product-dimensions.md)
