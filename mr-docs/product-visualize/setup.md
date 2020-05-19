@@ -6,7 +6,6 @@ ms.author: mamithan
 ms.date: 12/22/2019
 ms.service: crm-online
 ms.topic: article
-title: Set up Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 

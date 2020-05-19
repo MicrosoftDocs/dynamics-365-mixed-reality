@@ -6,7 +6,6 @@ ms.author: mamithan
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Requirements for setting up Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
