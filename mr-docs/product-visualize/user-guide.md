@@ -17,23 +17,28 @@ ms.reviewer:
 Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their real-world environment. Using mixed reality, sellers can create a shared understanding between themselves and buyers to accelerate complex sales processes. Showing customers your<!--Suggested.--> products in 3D is more compelling than showing them flat images. Our app also gives you other capabilities that aren't available with conventional sales tools. 
 
 > [!IMPORTANT]
-> This user guide describes features available in version 1.11 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).<!--SELF: This doesn't seem right. If the reader is a user, they can't actually set up PV so it makes sense this wouldn't link to the setup article. But the link text implies they can. Maybe have the link text be [sign in as a new user](#section in sign-in.md that covers this.) Funnily enough, the text in sign-in.md doesn't ever talk about upgrading. Hmmm. Also, how will they know it's an older version? -->
+> This user guide describes features available in version 1.11 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).<!--Can you tell the reader how to verify the version they're using, or will it be displayed prominently on some screen? The sign-in.md topic doesn't actually discuss upgrading at all, so I'm wondering if there's a particular section in that topic that we can point them to? I don't think they really want to "learn how to upgrade," it would be nice for this link text to be "If you're using an older version of the app, [upgrade to the latest version](LINK TO A HELPFUL PLACE GOES HERE)."-->
 
-<!--SELF: I'm confused by the relationship between this topic and the other U.G. topics. They almost track, but not quite. We need to explicitly say, "The following is a general process for a successful demo; more detail about these and additional steps are covered in the other User Guide chapters. That list tucked into the bottom of this topic doesn't cut it; makes it look like we're embarrassed or something. -->
+<!--note from editor: I suggest reorganizing the content a bit so that the reader sees a list of all the user guide topics at once, and then sees how different features might be used to conduct a good presentation. I found that list of topics at the end of the article to be a bit confusion; I wasn't sure how it fit in with the "Steps to a successful product demonstration" content (especially since not every feature is part of that content). If you don't like it, can you add an H2 that differentiates the list of topics from the "Steps to a successful product demonstration" content? Otherwise, it just gets lost.-->
+## Using Dynamics 365 Product Visualize
 
+The topics in this user guide describe everything you need to know about working with the app. They show you how to:
 
-## <overview of the steps features: ?>Steps to a successful product demonstration
+- [Install, open, and sign in to the app](sign-in.md).
+- [Place and manipulate 3D models](manipulate-models.md).
+- [Add a note to your 3D model](add-note.md).
+- [Show or hide layers in your 3D model](layers.md).
+- [Explore sample 3D models](explore-samples.md).
+- [View 3D models stored on your device](browse-models.md).
+- [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md).
+- [Download 3D models to use offline](download-models.md).
+- [Enable product dimensions](product-dimensions.md).
+
+The following section describes how you might conduct a successful product demonstration using these Dynamics 365 Product Visualize features. 
+
+## Steps to a successful product demonstration
 
 **Prerequisites**: You must be signed in to the app and connected to your Dynamics 365 Sales account. This ensures that your list of sales opportunities is displayed in the app along with all your products and notes. For information about how to sign in to the app, see [Install, open, and sign in to the app](sign-in.md).
-
-You can conduct a successful product demonstration with the Dynamics 365 Product Visualize app by using the following steps:
-<!--SELF: List roughly corresponds to the atomic articles in the TOC. Must somewhere indicate there's more info to be had (if there is!) -->
-1.	[Download models for offline work](#download-models-for-offline-work) (for low or no connectivity).
-2.	[Place your model](#place-your-model).
-3.	[Manipulate your model](#manipulate-your-model).
-4.	[Add notes to your model](#add-notes-to-your-model).
-5.	[Display product layers or components](#display-product-layers-or-components).
-6.	[Enter conversation outcomes into Sales](#enter-conversation-outcomes-into-dynamics-365-sales).
 
 ### Download models for offline work
 
@@ -55,7 +60,7 @@ If you have 3D models of your products, you can show them to your client in a me
 
 > [!div class=mx-imgBorder]
 > ![Find a surface to place a model on](media/preface-find-surface.png "Find a surface to place a model on")
-
+<!--note from editor: I didn't add the following comment; is it worth keeping?-->
 <!--
 ![Model placed on a surface](media/preface-model-placed.png "Model placed on a surface")
 -->
@@ -87,6 +92,7 @@ Dynamics 365 Product Visualize sends your notes to your Sales timeline by defaul
 > [!div class=mx-imgBorder]
 > ![Enter conversation outcomes into Sales](media/dynamics-notes-timeline.png "Enter conversation outcomes into Sales")
 
+<!--
 The topics in this user guide describe everything you need to know about working with the app. They show you how to:
 
 - [Install, open, and sign in to the app](sign-in.md).
@@ -98,4 +104,4 @@ The topics in this user guide describe everything you need to know about working
 - [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md).
 - [Download 3D models to use offline](download-models.md).
 - [Enable product dimensions](product-dimensions.md).
-
+-->
