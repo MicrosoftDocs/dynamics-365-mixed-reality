@@ -36,7 +36,7 @@ Technicians and remote collaborators can conduct repairs and inspections togethe
 4b. The remote collaborator will see the technician's video feed. 
 > [!NOTE]	Remote collaborators' cannot place Mixed Reality annotations on technicians' live video feed, but they can on place annotations on the in-call snapshots.
 
-![Remote View](./media/.png "In call")
+![Remote View](./media/3c-expert.png "Remote expert view in call")
 
 5. The technician will receive a tool tip notification directing the use of still snapshots to add 2D annotations on a frozen video frame. 
 
@@ -48,7 +48,7 @@ Technicians and remote collaborators can conduct repairs and inspections togethe
 
 6b. The remote collaborator will see a frozen frame of the technician's video feed. 
 
-![Remote view of Snapshot mode](./media/01.04-call-snapshot-preanno.png "Snapshot mode")
+![Remote view of Snapshot mode](./media/5-expert.png "Remote collab view of Snapshot mode")
 
 7. Both the technician and remote collaborator can add 2D annotations to the snapshot. 
 > [!NOTE]	Both the technician and remote collaborator will see the Mixed Reality toolbar on the frozen frame and can add 2D annotations.
@@ -63,9 +63,9 @@ Technicians and remote collaborators can conduct repairs and inspections togethe
 
 ![Save snapshot](./media/7a.png "Save snapshot")
 
-10. If the technican successfully saved the snapshot, then the snapshots can be viewed in the mobile device’s Photo Gallery and/or Microsoft Teams text chat.
+10. If the technican successfully saved the snapshot to the text chat, then the snapshot can be viewed in the Remote Assist mobile's text chat and Microsoft Teams text chat.
 
-![Saved in text chat?](./media/.png "Save successful?")
+![Saved in text chat?](./media/06.20-chat-image-portrait.png "Save successful?")
 
 11. Afterwards, the technician is taken back to the live video call and can select the snapshot icon again to take more snapshots.
 > [!NOTE] Annotations added on a still snapshot will **not** appear in the technician's environment after it has been saved or discarded.
