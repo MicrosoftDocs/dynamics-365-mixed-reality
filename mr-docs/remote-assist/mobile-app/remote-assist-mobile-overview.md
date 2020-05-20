@@ -21,12 +21,12 @@ Remote Assist mobile is available in 146 countries on Android devices and 155 co
 - Mixed-reality annotations
 - Capture and annotate still snapshots within the call
 - Send messages through text chat
-- Share and receive files from your device with remote collaborators 
+- Share and receive files and images from your device with remote collaborators 
 - Capture session history through call recording
 - Support for calls in low bandwidth scenarios
 - Availability on mobile devices without augmented reality (AR) support
 - Use Dynamics 365 Field Service with Dynamics 365 Remote Assist mobile
-- Automatically posts call logs, files shared, and in-call snapshots to a Dynamics 365 Field Service work order
+- Automatically posts call logs, shared files and images from your device, and in-call snapshots to a Dynamics 365 Field Service work order
 
 [Watch a live demo of Remote Assist mobile in action, from signing in to ending the call](https://www.youtube.com/watch?v=DQJWsCDNpb4&t=1s).
 
