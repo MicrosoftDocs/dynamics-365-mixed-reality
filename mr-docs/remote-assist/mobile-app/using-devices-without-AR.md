@@ -55,9 +55,7 @@ Technicians and remote collaborators can conduct repairs and inspections togethe
 
 ![Snapshot mode](./media/01.03-call-snapshot-postanno.png "Snapshot mode")
 
-8. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the Check Mark to save or discard the snapshot.
-
-![Snapshot mode](./media/01.04-call-snapshot-preanno.png "Snapshot mode")
+8. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **Check Mark** to save or discard the snapshot.
 
 9. The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, the text chat, or both. Select your choice(s) and then select **Save**.
 
@@ -72,7 +70,7 @@ Technicians and remote collaborators can conduct repairs and inspections togethe
 
 12. Both the technician and remote collaborator can send and receive messages and share files + images from their local device in the text chat. Learn more about the file sharing feature [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/file-sharing).
 
-![Text chat](./media/.png "Text chat")
+![Text chat](./media/06.21-chat-doc.png "Text chat")
 
 13. Both the technician and remote collaborator can record the one-to-one Remote Assist call, if the remote collaborator is using Microsoft Teams desktop only. The recording will be saved to Microsoft Stream and the link to the reocrding will be sent to the Microsoft Teams text chat. Learn more about the call recording feature [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/call-recording).
 
