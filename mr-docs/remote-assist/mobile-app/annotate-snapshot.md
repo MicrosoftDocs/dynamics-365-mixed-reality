@@ -47,6 +47,6 @@ If the technician is a Dynamics 365 Field Service customer, snapshot(s) can be p
 
 9. If the technician successfully saved the snapshot, then the snapshots can be viewed in the **mobile device’s Photo Gallery** and/or **Microsoft Teams text chat** at the end of the call. 
 
-10. If the technician is a **Dynamics 365 Field Service customer** and saved their snapshot to the text chat, then the technician can choose to post their snapshots to an **associated work order** and view the snapshot there.
+10. If the technician is a Dynamics 365 Field Service customer and saved their snapshot to the text chat, after the call ends, the technician can post their snapshot(s) to an associated work order and view the snapshot there. Learn more about D365 Field Service integration [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
 
 ![Screenshot of snapshots on Field Service work order.](./media/12.png "Field Service")
