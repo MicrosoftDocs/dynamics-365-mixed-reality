@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 
 Augmented reality (AR) creates immersive and engaging collborations between two people by blending virtual objects with the real world. Remote Assist mobile uses AR for technicians to share their environments and connect with remote collaborators to walk through the repair or inspection process. Both call participants can better reference objects and provide instructions by placing mixed reality annotations into the technician's shared environment. 
 
-To better understand Remote Assist mobile's AR capabilities, technicians can use the **in-app, guided tutorial** to jumpstart their ability to use our app. This guided tutorial includes:
+Technicians can use the in-app, guided tutorial to jumpstart their ability to use Remote Assist mobile's AR capabilities. This guided tutorial includes:
 
 1. Before technicians can enjoy an AR experience in our app, they need to **move their mobile device around which lets ARKit/ARCore evaluate your surroundings and detect surfaces**. By detecting the technicians' surroundings and surfaces, both the technician and remote collaborator can more accurately place mixed reality annotations in their environment. 
 2. **Place and manipulate mixed reality annotations**, such as the arrow and the ink tools.
