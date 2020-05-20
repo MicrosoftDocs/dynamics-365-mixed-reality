@@ -22,7 +22,7 @@ Version XXXXXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)]
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/improved-user-experience-audio-feedback" target="_blank">Audio feedback in HoloLens app</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/improved-user-experience-audio-feedback" target="_blank">Improved experience with audio feedback when using the HoloLens app</a> | No |
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
