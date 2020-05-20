@@ -20,7 +20,7 @@ Technicians can use the in-app, guided tutorial to jumpstart their ability to us
 ## Techniques to improve surface detection
 - Move your phone from side-to-side at the beginning of a video call.
 - Try moving your phone more slowly.
-- Place annotations in your device's FOV and avoid lots of sudden movements.
+- Place annotations in your device's field of view and avoid lots of sudden movements.
 - Avoid frequently minimizing the app and reopening it while there are annotations present.
 
 ## Limitations that may hinder accurate surface detection
