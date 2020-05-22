@@ -148,7 +148,7 @@ The following illustration shows an example tab on HoloLens called **Assigned Ta
    
 7. In the upper-right corner of the screen, select **Save**, select **Publish**, and then refresh the page.
 
-8. Copy and save the saved query record ID. This record ID appears at the end of the URL for the window after https://make.powerapps.com/.../view/
+8. Copy and save the saved query record ID. This record ID appears at the end of the URL for the window.
 
     ![Saved query ID at end of url](media/queryid.PNG "Saved query ID at end of url")
 
