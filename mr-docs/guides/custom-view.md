@@ -49,7 +49,7 @@ Each of these steps is described in detail below.
 
 1. Go to https://powerapps.microsoft.com, open the instance you want to work with, and then sign in with your admin credentials.
 
-    ![powerapps.microsoft.com](media/powerapps-microsoft-com.PNG "powerapps.microsoft.com")
+    ![powerapps.microsoft.com](media/powerapps-microsoft.PNG "powerapps.microsoft.com")
 
 2. In the left pane, select **Data**, select **Entities**, and then select **New entity**.
 
