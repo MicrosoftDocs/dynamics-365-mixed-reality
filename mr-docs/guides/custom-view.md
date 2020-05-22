@@ -194,7 +194,7 @@ In this step, you'll add the list of guides that will appear on the HoloLens tab
 
 3. In the App Designer, select the **Edit** button next to **Site Map**.
 
-    ![Site map Edit button](media/site-map-edit.PNG "Site map Edit button")
+    ![Site map Edit button](media/sitemap-edit.PNG "Site map Edit button")
 
 4. Select the **Configuration** heading, select **Add**, and then select **Group**.
 
