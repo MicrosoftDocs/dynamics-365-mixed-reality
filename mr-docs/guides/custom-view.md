@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Add a tab on HoloLens that displays a custom list of guies for a specific set of users.
 ms.author: mamaylya
-ms.date: 05/22/2020
+ms.date: 05/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a custom list of guides for a specific set of Dynamics 365 Guides users
