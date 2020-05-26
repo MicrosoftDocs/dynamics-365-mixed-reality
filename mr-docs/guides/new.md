@@ -18,7 +18,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## May 26, 2020
 
-Version XXXXXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and version XXXXXX of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution includes the following new feature.
+Version 401.2005.21001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps includes the following new feature.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
