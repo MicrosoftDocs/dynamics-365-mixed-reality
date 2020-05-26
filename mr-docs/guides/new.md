@@ -18,7 +18,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## May 26, 2020
 
-Version 401.2005.21001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps includes the following new feature.
+Version 401.2005.21001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.0.18 include the following new feature. Version 401.2005.21001 of the HoloLens and PC apps are only compatible with version 400.0.0.18 (April 28th) or later. [See the apps and solution compatibility table for more details](admin-apps-solution-compatibility.md). 
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
