@@ -18,7 +18,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## May 26, 2020
 
-Version 401.2005.21001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps includes the following new feature.
+Version 401.2005.21001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.0.18 include the following new feature. Version 401.2005.21001 of the HoloLens and PC apps are only compatible with version 400.0.0.18 (April 28th) or later. <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">See the apps and solution compatibility table for more details</a>. 
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
@@ -27,7 +27,7 @@ Version 401.2005.21001 of the PC and [!include[pn-hololens](../includes/pn-holol
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
-## May 14,2020
+## May 14, 2020
 
 Version 400.2005.13001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps fixed a bug introduced in the April 28 release that prevented some model animations from playing on [!include[pn-hololens](../includes/pn-hololens.md)]. You don't need to update the Dynamics 365 Guides solution to get this update.
 
