@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to upgrade the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: mamaylya
-ms.date: 05/05/2020
+ms.date: 05/26/2020
 ms.service: crm-online
 ms.topic: article
 title: Upgrade the Dynamics 365 Guides solution
@@ -45,9 +45,9 @@ In rare cases, the conversion of a guide from schema v3 to v4 might be unsuccess
 
 - The JSON file has been edited in a way that isn't supported. (For example, the guide doesn't have a task, or too many 3D parts have been programmatically added to the **Step Editor** bin.)
 
-If a guide wasn't successfully converted, authors or operators will receive the following error message when they try to open it: "Guide cannot be opened."
+If a guide wasn't successfully converted, authors or operators will receive the following error message when they try to open it: "Guide can't be opened. This guide can't be opened because the schema version is out of date. Contact your admin to upgrade the schema version."
 
-![Guide cannot be opened message](media/guide-not-opened.JPG "Guide cannot be opened message")
+![Guide can't be opened message](media/guide-not-opened.png "Guide can't be opened message")
 
 ### Manually update a guide from schema v3 to v4
 
