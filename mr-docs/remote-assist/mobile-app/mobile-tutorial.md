@@ -22,7 +22,7 @@ Technicians can use the in-app, guided tutorial to jumpstart their ability to us
 - For technicians to use the AR capabilities on Remote Assist mobile, they must be using an **AR-capable mobile device**. Learn more about the device requirements [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements). 
 
 >[!Note]
-> No AR capabilities? No problem! Remote Assist mobile is available on unsupported AR mobile devices, too; learn more about using Remote Assist mobile on unsupported AR devices [here](mobile-app/using-devices-without-AR.md). 
+> No AR capabilities? No problem! Remote Assist mobile is available on unsupported AR mobile devices, too; learn more about using Remote Assist mobile on unsupported AR devices [here](../mobile-app/using-devices-without-AR.md). 
 
 ## How it works
 

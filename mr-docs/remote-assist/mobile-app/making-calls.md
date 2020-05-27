@@ -14,7 +14,8 @@ Remote Assist mobile makes receiving expert help easy by providing technicians w
 
 For a successful calling experience, **only a Remote Assist mobile user (technician) can initiate an outgoing call to either one Teams desktop user (remote collaborator) or one Teams mobile user (remote collaborator)**.
 
-> [!NOTE] The following scenarios are **not** supported on Remote Assist mobile at this time:
+> [!NOTE] 
+> The following scenarios are **not** supported on Remote Assist mobile at this time:
 > - Joining Teams meetings.
 > - Making calls to browser-based Teams.
 > - Participating in calls with three or more participants.
@@ -22,7 +23,7 @@ For a successful calling experience, **only a Remote Assist mobile user (technic
 > - Participating in Remote Assist mobile to Remote Assist on HoloLens calls.
 
 ## Prerequisites
-- In order to follow along with this guide, you must be using a mobile device with AR support. Learn more about device requirements [here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/requirements).
+- In order to follow along with this guide, you must be using a mobile device with AR support. Learn more about device requirements [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 - Technicians must have a Remote Assist license. Visit our additional documentation to learn more about the [free trial licenses](../try-remote-assist.md) or [subscriptions](../buy-remote-assist.md).
 - Experts must have a Microsoft Teams license. Learn more [here](../teams-pc-all.md).
 
