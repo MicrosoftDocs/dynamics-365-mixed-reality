@@ -66,7 +66,7 @@ To test your company’s network bandwidth, follow these steps:
 1. Have a Teams user start a video call with another Teams user.
 
 2. Add a separate video call between a third and fourth user, and another for a
-    fifth and sixth user
+    fifth and sixth user.
 
 3. Continue adding video callers to stress-test your network bandwidth until
     you’re confident that multiple users can successfully connect on video calls
