@@ -53,13 +53,13 @@ To collaborate with a Remote Assist user, a Microsoft Teams user may only use th
 
 ## Network requirements
 
-The minimum recommended bandwidth for sharing video in Remote Assist is 1.5 Mbps. Remote Assist on HoloLens requires 4 to 5 Mbps upload speed to ensure good 1080p video quality.
+The recommended bandwidth for Remote Assist is at least 1.5 Mbps.
 
-When using Remote Assist on mobile devices in **low-bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
+When using Remote Assist on mobile devices in **low bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
 
-Though audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation, limiting the user experience.
+Though audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation, limiting the user experience. 
 
-To test your company's network bandwidth, follow these steps:
+To test your company’s network bandwidth, follow these steps:
 
 1. Have a Teams user start a video call with another Teams user.
 
@@ -67,14 +67,14 @@ To test your company's network bandwidth, follow these steps:
     fifth and sixth user
 
 3. Continue adding video callers to stress-test your network bandwidth until
-    you're confident that multiple users can successfully connect on video calls
+    you’re confident that multiple users can successfully connect on video calls
     at the same time.
 
-See [Prepare your organization's network for Microsoft
+See [Prepare your organization’s network for Microsoft
 Teams](https://docs.microsoft.com/MicrosoftTeams/prepare-network) to learn
 more.
 
-### See also
+## See also
 
 - [Overview of Dynamics 365 Remote Assist](ra-overview.md)
 - [Try Dynamics 365 Remote Assist for free](try-remote-assist.md)
