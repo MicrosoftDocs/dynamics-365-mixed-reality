@@ -27,7 +27,7 @@ To collaborate with a Remote Assist user, a Microsoft Teams user may only use th
 | Device                                   | OS requirements                                                                                                                                                                                                          | Details                                                                                                                                                                                                                  |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Remote Assist on HoloLens or HoloLens 2 | HoloLens or HoloLens 2 running 10.0.17134.0 (that is, Windows 10 April 2018) build or later. We recommend [updating](https://docs.microsoft.com/hololens/hololens-updates) HoloLens to newer versions when available. | See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS). |
-| Remote Assist on mobile devices          | Dynamics 365 Remote Assist mobile is available on ARCore-enabled Android phones or tablets and ARKit-enabled iOS iPhones or iPads.                                                                               | These are the lists of AR-supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://www.apple.com/ios/augmented-reality/).                                           |
+| Remote Assist on mobile devices          | Dynamics 365 Remote Assist mobile is available on all devices, including ARCore-enabled Android phones or tablets, ARKit-enabled iOS iPhones or iPads, and mobile devices without AR support.                                                                               | These are the lists of AR-supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://developers.google.com/ar/discover/supported-devices#ios). For more details on how to use Remote Assist on devices without AR support, see the documentation [here](mobile-app/using-devices-without-AR.md).                                         |
 
 
 ### Device options and requirements for a remote collaborator using Teams 
@@ -56,15 +56,24 @@ To collaborate with a Remote Assist user, a Microsoft Teams user may only use th
 
 ## Network requirements
 
-The recommended bandwidth for Remote Assist is at least 1.5 Mbps.
+A variety of network conditions, including bandwidth, latency, jitter, and packet loss, can impact your video calling experience. Although audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation.
 
-When using Remote Assist on mobile or HoloLens, any non-audio or non-video network-related activities may impact call quality. Examples include the Teams user sharing a file or the Remote Assist HoloLens user taking a snapshot that is automatically uploaded to OneDrive. After these non-audio or non-video network-related activities are completed, outgoing call quality may take up to 15 seconds to recover.
+In most circumstances, 
+- [1.5Mbps up/down is required](https://docs.microsoft.com/en-us/MicrosoftTeams/prepare-network#bandwidth-requirements) for peer-to-peer HD quality video calling with resolution of HD 1080p at 30fps
+- When more bandwidth is available, quality and usage will increase to deliver the best experience
+- 4-5Mbps up/down is needed to experience 1080p video calling at full quality.
 
-When using Remote Assist on mobile devices in **low-bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
+However, in some circumstances, even 4-5Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (1st gen) and using SimulCast. 
 
-Though audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation, limiting the user experience. 
+You can use Remote Assist on mobile devices in **low-bandwidth environments** between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
 
-To test your company’s network bandwidth, follow these steps:
+### Recommended network infrastructure setup
+
+- Be on a dedicated SSID
+- Configure your SSID to be on 5Ghz
+- Use WiFi 5 (e.g. 802.11ac) or AC Access Points
+
+### Test your company’s network bandwidth 
 
 1. Have a Teams user start a video call with another Teams user.
 
@@ -74,6 +83,12 @@ To test your company’s network bandwidth, follow these steps:
 3. Continue adding video callers to stress-test your network bandwidth until
     you’re confident that multiple users can successfully connect on video calls
     at the same time.
+
+### Additional resources
+
+Calculate jitter [using a simple ping test](http://www.3rdechelon.net/jittercalc.asp) or [using MegaPath's speed test.](https://www.megapath.com/speedtestplus/ping-jitter-test)
+
+Learn how to troubleshoot and address internal infrastructure issues using [Teams Call Analytics](https://docs.microsoft.com/en-us/MicrosoftTeams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics) or [Teams Call Quality Dashboard (CQD)](https://docs.microsoft.com/en-us/MicrosoftTeams/quality-of-experience-review-guide).
 
 See [Prepare your organization’s network for Microsoft
 Teams](https://docs.microsoft.com/MicrosoftTeams/prepare-network) to learn
