@@ -22,6 +22,8 @@ Empower technicians to collaborate more efficiently by working together from dif
 
 Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https://youtu.be/d3YT8j0yYl0).
 
+> [!Note]
+> Dynamics 365 Remote Assist is intended for facilitating communications and is not intended or made available for use as a medical device for the diagnosis of disease or other conditions, or in the cure, mitigation, treatment or prevention of disease or otherwise to be used as a component of any clinical offering or product, and Microsoft does not grant a license or right for such purposes. Dynamics 365 Remote Assist is not designed or intended to substitute for professional medical advice, diagnosis, treatment, or judgment and should not be used for medical emergencies or emergency communications. Microsoft does not warrant that Dynamics 365 Remote Assist will be sufficient for any medical purposes or meet the health or medical requirements of any person.
 
 ## Benefits
 
@@ -87,8 +89,9 @@ In addition to using Remote Assist to consult with remote collaborators and reso
 - Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 - Learn how to [deploy Remote Assist](deploy-remote-assist.md), including how to assign licenses and set up HoloLens and mobile devices.
 - Learn how to [deploy Teams](set-up-teams.md).
-- (Optional) Learn how to [set up multi-tenant collaboration](multi-tenant-deployment.md).
+- (Optional) Learn how to [set up multi-tenant collaboration](multi-tenant-deployment.md) for licensed users.
 - (Optional) Learn how to [enable vendors and contractors to use Remote Assist](vendor-use-RA.md).
+- (Optional) Learn how to [enable vendors and contractors to use Teams](vendor-use-RA.md).
 - (Optional) Learn to [integrate Remote Assist with Field Service](troubleshoot-field-service.md).
 
 ### For technicians and inspectors

@@ -55,7 +55,9 @@ To collaborate with a Remote Assist user, a Microsoft Teams user may only use th
 
 The recommended bandwidth for Remote Assist is at least 1.5 Mbps.
 
-When using Remote Assist on mobile devices in **low bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
+When using Remote Assist on mobile or HoloLens, any non-audio or non-video network-related activities may impact call quality. Examples include the Teams user sharing a file or the Remote Assist HoloLens user taking a snapshot that is automatically uploaded to OneDrive. After these non-audio or non-video network-related activities are completed, outgoing call quality may take up to 15 seconds to recover.
+
+When using Remote Assist on mobile devices in **low-bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
 
 Though audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation, limiting the user experience. 
 

@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 04/28/2020
+ms.date: 05/26/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -14,7 +14,22 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!IMPORTANT]
-> An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution was released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.<br><br>All Dynamics 365 Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress will corrupt the guide.<br><br>Any updates to the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released after May 26 will require the April 28, 2020 solution. You have until May 26  to install the solution update. All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released on or after May 26 will be backward compatible up to the April 28, 2020 version of the solution.<br><br>If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact. You will be able to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with the existing feature set.<br><br>To schedule a solution update, work with your IT admin.<br><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
+> An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution was released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.<br><br>All Dynamics 365 Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress will corrupt the guide.<br><br>All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released on or after May 26 will be backward compatible only up to the April 28, 2020 version of the solution.<br><br>If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact. You will be able to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with your existing feature set.<br><br>To schedule a solution update, work with your IT admin.<br><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
+
+## May 26, 2020
+
+Version 401.2005.21001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.0.18 include the following new feature. Version 401.2005.21001 of the HoloLens and PC apps are only compatible with version 400.0.0.18 (April 28th) or later. <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">See the apps and solution compatibility table for more details</a>. 
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/improved-user-experience-audio-feedback" target="_blank">Improved user experience with audio feedback</a> | No |
+
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
+## May 14, 2020
+
+Version 400.2005.13001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps fixed a bug introduced in the April 28 release that prevented some model animations from playing on [!include[pn-hololens](../includes/pn-hololens.md)]. You don't need to update the Dynamics 365 Guides solution to get this update.
 
 ## April 28, 2020
 
@@ -29,9 +44,6 @@ Version 400.2004.24002.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 ### Other updates: Example guide is deprecated
 
 From the April 28, 2020 release onward, the Example guide is deprecated and no longer deployed to new instances. If users have already installed the Example guide in a non-English deployment, they won't be able to open the guide. When attempting to open a localized Example guide, users will be redirected back to the **Guides** list.
-
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## April 1, 2020
 

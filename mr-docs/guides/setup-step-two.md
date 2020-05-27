@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Common Data Service environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 04/02/2020
+ms.date: 05/07/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -97,7 +97,6 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 7. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
 
-
 ## Change the maximum upload file size<a name="upload"></a>
 
 In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, you can upload your own 3D files in addition to videos and 2D images. Because many of these files will be larger than 5 megabytes (MB), you must increase the maximum file size for uploaded files by changing the setting for the size of email attachments.
@@ -118,27 +117,51 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
 
 ## Install and configure the solution<a name="configure"></a>
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the **More environment actions** (**...**) button next to the configured environment, and then select **Manage Solutions**.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the left pane, select **Resources** \> **Dynamics 365 apps**, select **Dynamics 365 Guides** in the list, and then select **Install**. 
 
-    ![Manage Solutions command](media/manage-solutions.PNG "Manage Solutions command")
+    ![Select Dynamics 365 Guides](media/select-dynamics-365-guides.PNG "Dynamics 365 Guides")
 
-    > [!NOTE]
-    > You can also get to the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center from the Power Apps portal.
+2. In the **Install Dynamics 365 Guides** dialog box, select an environment, select the **I agree to the terms of service** check box, and then select **Install**.
 
-2. Select the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution in the list, and then select **Install**.
+    ![Install Dynamics 365 Guides dialog box](media/solution-install.PNG "Install Dynamics 365 Guides dialog box")
 
-    ![Install button](media/solutions-install-button.png "Install button")
+    In the Power Platform admin center, the following message is shown: "Dynamics 365 Guides installation started at \<*time*\>, \<*date*\> by \<*name*\> Account."
 
-3. In the **Terms of Service** dialog box, review the terms, and then select **Install**.
+    ![Installation message](media/installing-solution-message.PNG "Installation message")
 
-    In the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] Administration Center, the following message is shown to indicate that the solution is about to be installed: "Please wait while installation starts. This may take a few minutes."
-
-    ![Installation message](media/installing-solution.png "Installation message")
-
-    While the solution is being installed, **Installation pending** will appear in the **Status** field for the solution. After the solution has been installed, the **Status** field is updated to **Installed**.
+    While the solution is being installed, **Installing** appears in the **Status** field for the app. After the app has been installed, the **Status** field is updated to **Installed**.
 
     > [!NOTE]
-    > The installation process can take up to one hour and varies, depending on the time of day and the region. If the status hasn't changed after an hour, try to refresh the page. If the installation is unsuccessful, the following message is shown: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."
+    > The installation process can take up to one hour. The amount of time varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed." To try to install again, in the **Error details** dialog box, under **How to troubleshoot**, select the **retry installation** link.
+    >
+    > ![Error details dialog box](media/failed-solution-install.PNG "Error details dialog box")
+    
+### Troubleshoot solution installation
+
+If you have trouble installing and configuring the solution as described in the previous section, try the following steps instead.
+
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Admin centers**, and then select **Dynamics 365**.
+
+   ![Select Dynamics 365](media/select-dynamics-365-1.PNG "Select Dynamics 365")
+
+2. In the Dynamics 365 Administration Center, select an environment, and then select **Solutions**. 
+
+   ![Solutions button](media/select-solutions-button-1.PNG "Solutions button")
+    
+3. Select the **Dynamics 365 Guides** solution in the list, and then select **Install**.
+
+   ![Install button](media/solutions-install-button.png "Install button")
+
+4. In the **Terms of Service** dialog box, review the terms, and then select **Install**.
+
+    In the Dynamics 365 Administration Center, the following message is shown to indicate that the solution is about to be installed: "Please wait while installation starts. This may take a few minutes."
+    
+    ![Solution installation message](media/installing-solution.png "Solution installation message")
+    
+    While the solution is being installed, **Installation pending** appears in the **Status** field. After the solution has been installed, the **Status** field is updated to **Installed**.
+
+    > [!NOTE]
+    > The installation process can take up to one hour. The amount of time varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."
     >
     > ![Failed installation message](media/failed-install.PNG "Failed installation message")
 
