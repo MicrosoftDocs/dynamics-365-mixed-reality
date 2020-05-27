@@ -56,7 +56,7 @@ To collaborate with a Remote Assist user, a Microsoft Teams user may only use th
 
 ## Network requirements
 
-The recommended bandwidth for Remote Assist is at least 1.5 Mbps.
+The minimum recommended bandwidth for sharing video in Remote Assist is 1.5 Mbps. Remote Assist on HoloLens requires 4 to 5 Mbps upload speed to ensure good 1080p video quality.
 
 When using Remote Assist on mobile devices in **low-bandwidth environments**, you can operate at bandwidth levels between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
 
