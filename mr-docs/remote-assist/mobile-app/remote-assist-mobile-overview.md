@@ -3,7 +3,7 @@ title: Remote Assist mobile overview
 author: xonatia
 description: Overview of Remote Assist mobile
 ms.author: xolee
-ms.date: 02/27/2020
+ms.date: 05/28/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -14,7 +14,7 @@ Dynamics 365 Remote Assist enables technicians with mobile devices to connect to
 
 Dynamics 365 Remote Assist mobile is available on Android phones and tablets with ARCore enabled and iOS iPhones and iPads with ARKit enabled. Additionally, Remote Assist mobile is available on devices without AR support, too! You can find the full list of AR-supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://developers.google.com/ar/discover/supported-devices#ios). Visit our [documentation on product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements) to learn more. 
 
-Remote Assist mobile is available in 146 countries on Android devices and 155 countries on iOS devices. For more details, see the [FAQs](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#using-remote-assist-on-mobile). 
+Remote Assist mobile is available in 146 countries on Android devices and 155 countries on iOS devices. For more information, see the [FAQs](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#using-remote-assist-on-mobile). 
 
 ## Features 
 - One-to-one video calls
@@ -23,7 +23,7 @@ Remote Assist mobile is available in 146 countries on Android devices and 155 co
 - Send messages through text chat
 - Share and receive files and images from your device with remote collaborators 
 - Capture session history through call recording
-- Support for calls in low bandwidth scenarios
+- Support for calls in low-bandwidth scenarios
 - Availability on mobile devices without augmented reality (AR) support
 - Use Dynamics 365 Field Service with Dynamics 365 Remote Assist mobile
 - Automatically posts call logs, shared files and images from your device, and in-call snapshots to a Dynamics 365 Field Service work order
@@ -33,7 +33,7 @@ Remote Assist mobile is available in 146 countries on Android devices and 155 co
 ![Simulated image of a technician using Remote Assist mobile to annotate their environment on a call.](./media/ram-overview.png "Remote Assist mobile Overview")
 
 
-### See also
+## See also
 - [Try Remote Assist mobile for free](../try-remote-assist.md). 
 - [Buy Remote Assist licenses](../buy-remote-assist.md). 
 - [Deploy Remote Assist to your workers' devices](../deploy-remote-assist.md). 

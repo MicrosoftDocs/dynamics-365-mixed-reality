@@ -29,7 +29,7 @@ Now that we have it enabled, let's see how integration with Field Service works 
 
 ![Screenshot of Remote Assist on a mobile device showing the end of a call, with the option to post the call log to a work order.](./media/postfs_2.png "Call log")
 
-2. If files, images, and/or snapshots are shared in the Remote Assist text chat, you will see a list with your call log and files, images, and/or snapshots that you can post to your Field Service work order. Select **Post All**.
+2. If files, images, and/or snapshots are shared in the Remote Assist text chat, you'll see a list with your call log and files, images, and snapshots that you can post to your Field Service work order. Select **Post All**.
 > [!Tip] 
 > If you want to post the Remote Assist call recording to your Field Service work order, you can copy and paste the Microsoft Stream URL that will be in your Microsoft Teams chat into your work order. Remember to adjust the Microsoft Stream permissions to allow access to others. 
 
