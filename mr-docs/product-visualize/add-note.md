@@ -1,6 +1,6 @@
 ---
 title: Add a note to your 3D model in Dynamics 365 Product Visualize
-description: Learn how to add a note (including text and drawings) to a 3D model in Dynamics 365 Product Visualize.
+description: Learn how to add notes (including text, drawings, and video) to a 3D model and share them with your colleagues in Dynamics 365 Product Visualize.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
@@ -9,12 +9,12 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer:
 ---
-
+<!--note from editor: Please double-check edits to the description. Is it okay to mention attaching videos, since it's a preview feature? -->
 # Add a note to a 3D model in Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-You can capture notes while giving a product demonstration and add text or draw on the notes. You also can attach notes on specific points on a 3D model. For example, when you're in the field with a customer, you can capture any required product changes directly on the model. Any notes you create are saved in Common Data Service.
+You can capture notes while giving a product demonstration, and add text or draw on the notes. You also can attach notes at specific points on a 3D model. For example, when you're in the field with a customer, you can capture any required product changes directly on the model. Any notes you create are saved in Common Data Service.
 
 To review notes attached to a model, tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. For a model and note that's off the screen, a "note bubble" points in the direction of the model and note. See the table below for information about how these notes appear.
 
@@ -31,7 +31,7 @@ The following images show how notes appear on the model, depending on where the 
 1.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then tap **Notes** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
-    > ![Notes button](media/notes-button.png "Notes button")
+    > ![Tap Notes](media/notes-button.png "Tap Notes")
 
 2. Tap **Add**.
 
@@ -42,7 +42,7 @@ The following images show how notes appear on the model, depending on where the 
 
 4. To attach a video, see [Attach a video to the note](#attach-a-video-to-the-note).
 
-5. To add a message, tap **Type a message here**, and add the text.
+5. To add a message, tap **Type a message here**, and then add the text.
 
     > [!div class=mx-imgBorder]
     > ![Type a message](media/add-note-text.png "Type a message")
@@ -84,7 +84,7 @@ The following images show how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Photo](media/camera-roll.png "Tap Photo")
 
-3. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap the **Next** icon.
+3. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap **Next** ![Next](media/next.png "Next").<!--Edit okay? I thought it might be nice to have a little icon here.-->
 
     > [!div class=mx-imgBorder]
     > ![Draw or add text](media/draw-add-text.png "Draw or add text")
@@ -98,14 +98,14 @@ The following images show how notes appear on the model, depending on where the 
 
 ### Attach a video to the note
 
-A video allows you to capture more details about your customers' requirements. It also allows you to demonstrate the functionality of your products in addition to their placement at the customer's premises. To attach a video to a note, you must enable the video notes feature.
+A video allows you to capture more details about your customers' requirements. You can use video to demonstrate the functionality of your products in addition to their placement at the customer's premises. To attach a video to a note, you must enable the video notes feature.
 
 > [!NOTE]
 > Video notes is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 
 **To enable video notes**
 
-1. Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Preview features**.
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Preview features**.
 
     > [!div class=mx-imgBorder]
     > ![Preview features](media/preview-features.png "Preview features")
@@ -136,13 +136,13 @@ A video allows you to capture more details about your customers' requirements. I
     > ![Notes button](media/notes-button.png "Notes button")
 
 2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes. 
-    
+
     If you want to see a larger view of the notes&mdash;which is useful if you can't see all the text in the notes card&mdash;tap the expand arrow in the upper-right corner of the notes card, or flick up. 
-    
+
     > [!div class=mx-imgBorder]
     > ![Expand notes button](media/expand-notes-button.png "Expand notes button")
 
-    The note is expanded and you can swipe the notes card to move through the notes.
+    The note is expanded, and you can swipe the notes card to move through the notes.
 
     > [!div class=mx-imgBorder]
     > ![Expanded notes](media/expanded-notes.png "Expanded notes")
@@ -158,10 +158,10 @@ You can export your notes to share them with other apps on your device that supp
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2.	Navigate to the note you want to export, and tap the **Overflow** menu in the upper-right corner of the notes card.
+2.	Navigate<!--ed. note: I generally would replace "navigate" with "go" to match the style guide, but in cases like this where you're describing moving around within a very graphical user interface, it doesn't seem to fit.--> to the note you want to export, and tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu")<!--As noted in faq.md, I removed bold formatting from "Overview" because I assume the icon has no such tooltip. If that's wrong, please reject. --> in the upper-right corner of the notes card.
 
     > [!div class=mx-imgBorder]
-    > ![Navigate to the note](media/note.png "Navigate to the note")
+    > ![Navigate to the note you want to export](media/note.png "Navigate to the note you want to export")
 
 3.	In the **Options** dialog box, tap **Export note**.
 
@@ -180,15 +180,15 @@ You can export your notes to share them with other apps on your device that supp
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2.	Navigate to the note you want to edit, and tap the **Overflow** menu in the upper-right corner of the notes card.
+2.	Navigate to the note you want to edit, and tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu") in the upper-right corner of the notes card.
 
     > [!div class=mx-imgBorder]
-    > ![Navigate to the note](media/note.png "Navigate to the note")
+    > ![Navigate to the note you want to edit](media/note.png "Navigate to the note you want to edit")
 
 3.	In the **Options** dialog box, tap **Edit note**.
 
     > [!div class=mx-imgBorder]
-    > ![Edit a note](media/edit-note.png "Edit a note")
+    > ![Edit note](media/edit-note.png "Edit note")
 
 4. Make the required changes to the note such as updating the attached file, adding or removing the pin, and editing the text message. 
 
@@ -201,7 +201,7 @@ You can export your notes to share them with other apps on your device that supp
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2.	Navigate to the note you want to delete, and tap the **Overflow** menu in the upper-right corner of the notes card.
+2.	Navigate to the note you want to delete, and tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu") in the upper-right corner of the notes card.
 
     > [!div class=mx-imgBorder]
     > ![Navigate to the note](media/note.png "Navigate to the note")
@@ -209,19 +209,19 @@ You can export your notes to share them with other apps on your device that supp
 3.	In the **Options** dialog box, tap **Delete note**.
 
     > [!div class=mx-imgBorder]
-    > ![Delete a note](media/delete-note.png "Delete a note")
+    > ![Delete note](media/delete-note.png "Delete note")
 
 4. Tap **Delete** in the confirmation dialog box.
 
 ## Change how your notes are shared with other apps
 
-By default, your notes are saved to the SharePoint account associated with your Dynamics 365 Sales account. By default, Dynamics 365 Product Visualize also sends your notes to your Dynamics 365 Sales timeline and any connected Microsoft Teams channel.
+By default, your notes are saved to the SharePoint account associated with your Dynamics 365 Sales account. By default, Dynamics 365 Product Visualize also sends your notes to your Sales timeline and any connected Microsoft Teams channel.
 
-To turn off sharing with the Dynamics 365 Sales timeline or Teams channels:
+**To turn off sharing with the Sales timeline or Teams channels**
 
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu icon"), and then select the account you're signed in to.  
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then select the account you're signed in to.  
 
-2. Move the **Dynamics 365 for Sales Timelines** toggle to the Off position.
+2. Turn off the **Dynamics 365 for Sales Timelines** toggle.
 
    > [!div class=mx-imgBorder]
    > ![Notes output options](media/note-output-options.png "Notes output options")
@@ -234,4 +234,5 @@ To turn off sharing with the Dynamics 365 Sales timeline or Teams channels:
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
 [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
-[Download 3D models to use offline](download-models.md)
+[Download 3D models to use offline](download-models.md)<br>
+[Enable product dimensions](product-dimensions.md)

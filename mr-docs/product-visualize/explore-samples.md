@@ -1,11 +1,11 @@
 ---
+title: Explore sample 3D models in Dynamics 365 Product Visualize
 author: mamithan
-description: How to explore sample models in Dynamics 365 Product Visualize
+description: How to explore sample models without a Dynamics 365 subscription
 ms.author: mamithan
 ms.date: 05/05/2020
 ms.service: crm-online
 ms.topic: article
-title: Explore sample 3D models in Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
 ---
 
@@ -13,19 +13,19 @@ ms.reviewer: v-brycho
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try out even if you don't have a Dynamics 365 subscription. Use the sample content to try the Dynamics 365 Product Visualize app and play with 3D models. When you explore a 3D model this way, you place it just like you would any other 3D model, and you can also add notes to the model. However, any notes you add to a sample model aren't saved when you close Dynamics 365 Product Visualize.
+Dynamics 365 Product Visualize comes with sample 3D models you can try out even if you don't have a Dynamics 365 subscription. Use the sample content to try the Dynamics 365 Product Visualize app and play with 3D models. When you explore a 3D model this way, you place it just like you would any other 3D model, and you can also add notes to the model. However, any notes you add to a sample model won't be saved when you close Dynamics 365 Product Visualize.
 
-## Open a sample 3D model
+**To open a sample 3D model**
+<!--note from editor: If this heading is the only H2 (and it merely echoes the title of the article), you don't need it to be an H2. There's a similar situation in add-model.md. Procedure headings don't actually need to be in the article TOC at all unless they occur under different H2s; that's why by default they're simply formatted in bold without any heading style.-->
+1. Open the Dynamics 365 Product Visualize app.
 
-1.	Open the Dynamics 365 Product Visualize app.
-
-2.	On the Welcome screen, tap **Try it**.
+2. On the welcome screen, tap **Try it**.
 
      > [!div class=mx-imgBorder]
      > ![Welcome screen](media/welcome.png "Welcome screen")
 
-     You can also tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Sample products** to see samples.
-     
+     You can also tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Sample products** to see samples.
+
      > [!div class=mx-imgBorder]
      > ![Sample products menu item](media/sample-products-menu.png "Sample products menu item")
  
@@ -39,9 +39,9 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
      > [!div class=mx-imgBorder]
      > ![Sample products](media/sample-products.png "Sample products")
 
-5.	Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
+5. Place the model as described in [Place and manipulate 3D models](manipulate-models.md), and then size, rotate, move, or lift the model.
 
-6.	Add notes as described in [Add a note to your 3D model](add-note.md). Notes added on sample models aren't saved when you close Dynamics 365 Product Visualize or replace the model.
+6. Add notes as described in [Add a note to your 3D model](add-note.md). Notes added to sample models aren't saved when you close Dynamics 365 Product Visualize or replace the model.
 
     > [!TIP]
     > If you want to see dimensions for the model, enable the **Product dimensions** feature. To enable this feature, see [Enable product dimensions](product-dimensions.md). After enabling the feature, tap **Dimensions** at the bottom of the screen to see the dimensions for the 3D model.<br><br>Preview features are experimental features that provide access to new innovations that the Dynamics 365 Product Visualize team is working on.  
@@ -54,5 +54,5 @@ Microsoft Dynamics 365 Product Visualize comes with sample 3D models you can try
 [Show or hide a layer in a 3D model](layers.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
 [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
-[Download 3D models to use offline](download-models.md)
-
+[Download 3D models to use offline](download-models.md)<br>
+[Enable product dimensions](product-dimensions.md)

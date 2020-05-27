@@ -1,6 +1,6 @@
 ---
 title: User guide for Dynamics 365 Product Visualize
-description: User guide for Dynamics 365 Product Visualize, including opening and signing in to the app, placing and manipulating 3D models, adding notes, adding your own 3D models, and exploring sample 3D models
+description: Guide for opening and signing in to the Dynamics 365 Product Visualize app, placing and manipulating 3D models, adding notes, adding your own 3D models, and exploring sample 3D models
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
@@ -14,23 +14,31 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their real-world environment. Using mixed reality, sellers can create a shared understanding between themselves and buyers to accelerate complex sales processes. Showing your customers products in 3D is more compelling than showing them flat images. Our app also gives you other capabilities that aren't available with conventional sales tools. 
+Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their real-world environment. Using mixed reality, sellers can create a shared understanding between themselves and buyers to accelerate complex sales processes. Showing customers your<!--Suggested.--> products in 3D is more compelling than showing them flat images. Our app also gives you other capabilities that aren't available with conventional sales tools. 
 
 > [!IMPORTANT]
-> This user guide describes features available in version 1.11 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).
+> This user guide describes features available in version 1.11 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).<!--Can you tell the reader how to verify the version they're using, or will it be displayed prominently on some screen? The sign-in.md topic doesn't actually discuss upgrading at all, so I'm wondering if there's a particular section in that topic that we can point them to? I don't think they really want to "learn how to upgrade," it would be nice for this link text to be "If you're using an older version of the app, [upgrade to the latest version](LINK TO A HELPFUL PLACE GOES HERE)."-->
+
+<!--note from editor: I suggest reorganizing the content a bit so that the reader sees a list of all the user guide topics at once, and then sees how different features might be used to conduct a good presentation. I found that list of topics at the end of the article to be a bit confusion; I wasn't sure how it fit in with the "Steps to a successful product demonstration" content (especially since not every feature is part of that content). If you don't like it, can you add an H2 that differentiates the list of topics from the "Steps to a successful product demonstration" content? Otherwise, it just gets lost.-->
+## Using Dynamics 365 Product Visualize
+
+The topics in this user guide describe everything you need to know about working with the app. They show you how to:
+
+- [Install, open, and sign in to the app](sign-in.md).
+- [Place and manipulate 3D models](manipulate-models.md).
+- [Add a note to your 3D model](add-note.md).
+- [Show or hide layers in your 3D model](layers.md).
+- [Explore sample 3D models](explore-samples.md).
+- [View 3D models stored on your device](browse-models.md).
+- [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md).
+- [Download 3D models to use offline](download-models.md).
+- [Enable product dimensions](product-dimensions.md).
+
+The following section describes how you might conduct a successful product demonstration using these Dynamics 365 Product Visualize features. 
 
 ## Steps to a successful product demonstration
 
 **Prerequisites**: You must be signed in to the app and connected to your Dynamics 365 Sales account. This ensures that your list of sales opportunities is displayed in the app along with all your products and notes. For information about how to sign in to the app, see [Install, open, and sign in to the app](sign-in.md).
-
-You can conduct a successful product demonstration with the Dynamics 365 Product Visualize app by using the following steps:
-
-1.	[Download models for offline work](#download-models-for-offline-work) (for low or no connectivity).
-2.	[Place your model](#place-your-model).
-3.	[Manipulate your model](#manipulate-your-model).
-4.	[Add notes to your model](#add-notes-to-your-model).
-5.	[Display product layers or components](#display-product-layers-or-components).
-6.	[Enter conversation outcomes into Dynamics 365 Sales](#enter-conversation-outcomes-into-dynamics-365-sales).
 
 ### Download models for offline work
 
@@ -52,7 +60,7 @@ If you have 3D models of your products, you can show them to your client in a me
 
 > [!div class=mx-imgBorder]
 > ![Find a surface to place a model on](media/preface-find-surface.png "Find a surface to place a model on")
-
+<!--note from editor: I didn't add the following comment; is it worth keeping?-->
 <!--
 ![Model placed on a surface](media/preface-model-placed.png "Model placed on a surface")
 -->
@@ -65,7 +73,7 @@ After you've placed it, you can move the model around your space, rotate and res
 
 There are any number of uses for adding notes to your model. Notes capture images of your model in context, and you can attach text or annotate the image by drawing on it. You can add product specification and marketing information directly on the model, and you might add notes on your model before a meeting to highlight sales points specifically for the client. If the client has a question or comment during the meeting, you can record that in a note to follow up on later. This way, you capture comments in context on specific points of the model, so you and your teammates can always be on the same page.
 
-Notes you create can be exported by using Teams or email. More information: [Add a note to a 3D model](add-note.md#add-a-note)
+Notes you create can be exported by using Microsoft Teams or email. More information: [Add a note to a 3D model](add-note.md)<!--Suggest linking to the whole topic; there's good information even above the "Export a note" procedure.-->
 
 > [!div class=mx-imgBorder]
 > ![Add a note to a model](media/preface-add-note.png "Add a note to a model")
@@ -77,13 +85,14 @@ When you work with complex 3D models that were built by using layers, you have t
 > [!div class=mx-imgBorder]
 > ![View layers of a model](media/preface-view-layers.png "View layers of a model")
 
-### Enter conversation outcomes into Dynamics 365 Sales
+### Enter conversation outcomes into Sales
 
-Dynamics 365 Product Visualize sends your notes to your Dynamics 365 Sales timeline by default. This means that any notes you create to capture the results of your conversations with customers will be available in the Sales Hub app. You can also choose to export any note to share it with other apps on your device that support the iOS sharing function. More information: [Export a note](add-note.md#export-a-note)
+Dynamics 365 Product Visualize sends your notes to your Sales timeline by default. This means that any notes you create to capture the results of your conversations with customers will be available in the Sales Hub app. You can also choose to export any note to share it with other apps on your device that support the iOS sharing function. More information: [Export a note](add-note.md#export-a-note)
 
 > [!div class=mx-imgBorder]
-> ![Enter conversation outcomes into Dynamics 365 Sales](media/dynamics-notes-timeline.png "Enter conversation outcomes into Dynamics 365 Sales")
+> ![Enter conversation outcomes into Sales](media/dynamics-notes-timeline.png "Enter conversation outcomes into Sales")
 
+<!--
 The topics in this user guide describe everything you need to know about working with the app. They show you how to:
 
 - [Install, open, and sign in to the app](sign-in.md).
@@ -95,4 +104,4 @@ The topics in this user guide describe everything you need to know about working
 - [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md).
 - [Download 3D models to use offline](download-models.md).
 - [Enable product dimensions](product-dimensions.md).
-
+-->
