@@ -63,7 +63,7 @@ In most circumstances,
 - When more bandwidth is available, quality and usage will increase to deliver the best experience
 - 4-5Mbps up/down is needed to experience 1080p video calling at full quality.
 
-However, in some circumstances, even 4-5Mbps up/down does not guarantee 1080p. Circumstances include using HoloLens (1st gen) and using SimulCast. 
+However, in some circumstances, even 4-5Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (1st gen) and using SimulCast. 
 
 You can use Remote Assist on mobile devices in **low-bandwidth environments** between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
 
