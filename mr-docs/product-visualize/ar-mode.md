@@ -12,7 +12,7 @@ ms.reviewer:
 
 # View 3D models without using your device's camera
 
-You can view 3D models in Product Visualize without using your device's camera and augmented reality. You can place the model on a gray background or use a background image. This feature allows you to show a toggle button that helps you turn AR mode on and off. When the AR mode is turned off, you can place a 3D model on a gray background or use a background image from your Photos library. When you turn on the AR mode, you can use your device's camera and augmented reality to place a 3D model. To view 3D models without using your device's camera, you must enable the AR mode feature.
+You can view 3D models in Product Visualize without using your device's camera and augmented reality. You can place the model on a gray background or use a background image. When viewing your model without using your device's camera, a toggle button is displayed that helps you turn AR mode on and off. When the AR mode is turned off, you can place a 3D model on a gray background or use a background image from your Photos library. When you turn on the AR mode, you can use your device's camera and augmented reality to place a 3D model. To view 3D models without using your device's camera, you must enable the AR mode feature.
 
 > [!NOTE]
 > Viewing 3D models without using your device's camera is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
