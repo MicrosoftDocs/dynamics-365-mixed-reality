@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Add a tab on HoloLens that displays a custom list of guies for a specific set of users.
+description: Add a tab on HoloLens that displays a custom list of guides for a specific set of users.
 ms.author: mamaylya
 ms.date: 05/29/2020
 ms.service: crm-online
