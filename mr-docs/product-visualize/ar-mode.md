@@ -4,7 +4,7 @@ description: Learn how to View 3D models without using your device's camera.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 05/27/2020
+ms.date: 05/28/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -26,17 +26,19 @@ You can view 3D models in Product Visualize without using your device's camera a
 
 2. In the **Feature Settings** screen, move the **Show AR mode toggle button** toggle to the On position.
 
-    `image`
+    ![AR mode feature](media/ar-mode-feature.png "AR mode feature")
 
 ## Turn AR mode on and off
 
 After you enable the AR mode feature, the AR mode is turned off by default and the 3D models are placed on a gray background. A toggle button is displayed at the top of the screen while placing a model. To turn on the AR mode, tap the toggle button. 
 
-`image`
+> [!div class=mx-imgBorder]
+> ![Model placed with AR mode off](media/ar-off.png "Model placed with AR mode off")
 
 When you turn on the AR mode, you can use your device's camera and augmented reality to place a 3D model.
 
-`image`
+> [!div class=mx-imgBorder]
+> ![Model placed with AR mode on](media/ar-on.png "Model placed with AR mode on")
 
 More information on placing a 3D model, see [Place and manipulate 3D models](manipulate-models.md).
 
@@ -46,19 +48,19 @@ You can choose to view models on a gray background or add a background image by 
 
 **To add a background image**
 
-1. Tap the background image `image` button at the top-left corner of the screen.
+1. Tap the background image ![Add background](media/add-background-icon.png "Add background") icon at the top-left corner of the screen.
 
 2. Select an image from the Photos library.
 
 **To replace the background image**
 
-1. Tap the background image `image` button at the top-left corner of the screen.
+1. Tap the background image ![Add background](media/add-background-icon.png "Add background") icon at the top-left corner of the screen.
 
 2. In the options dialog box, tap **Replace**.
 
 **To remove the background image**
 
-1. Tap the background image `image` button at the top-left corner of the screen.
+1. Tap the background image ![Add background](media/add-background-icon.png "Add background") icon at the top-left corner of the screen.
 
 2. In the options dialog box, tap **Remove**.
 
