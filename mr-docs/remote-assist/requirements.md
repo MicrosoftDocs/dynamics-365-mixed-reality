@@ -61,7 +61,7 @@ A variety of network conditions, including bandwidth, latency, jitter, and packe
 In most circumstances, 
 - [1.5Mbps up/down is required](https://docs.microsoft.com/en-us/MicrosoftTeams/prepare-network#bandwidth-requirements) for peer-to-peer HD quality video calling with resolution of HD 1080p at 30fps
 - When more bandwidth is available, quality and usage will increase to deliver the best experience
-- 4-5Mbps up/down is needed to experience 1080p video calling at full quality.
+- 4-5Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p
 
 However, in some circumstances, even 4-5Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (1st gen) and using SimulCast. 
 
@@ -71,16 +71,14 @@ You can use Remote Assist on mobile devices in **low-bandwidth environments** be
 
 - Be on a dedicated SSID
 - Configure your SSID to be on 5Ghz
-- Use WiFi 5 (e.g. 802.11ac) or AC Access Points
+- Use WiFi 5 (i.e., 802.11ac) or AC Access Points
+- Use a router with MU-MIMO capabilities 
 
 ### Test your company’s network bandwidth 
 
 1. Have a Teams user start a video call with another Teams user.
-
-2. Add a separate video call between a third and fourth user, and another for a
-    fifth and sixth user
-
-3. Continue adding video callers to stress-test your network bandwidth until
+2. Add a separate video call between a third and fourth user, and another for a fifth and sixth user
+3. Continue adding video calls to stress-test your network bandwidth until
     you’re confident that multiple users can successfully connect on video calls
     at the same time.
 
@@ -93,6 +91,8 @@ Learn how to troubleshoot and address internal infrastructure issues using [Team
 See [Prepare your organization’s network for Microsoft
 Teams](https://docs.microsoft.com/MicrosoftTeams/prepare-network) to learn
 more.
+
+Prepare your organization's network for Teams - Microsoft TeamsLearn about preparing your organization's network for Microsoft Teams, including network requirements, network optimization, and bandwidth requirements.docs.microsoft.com
 
 ### See also
 - [Overview of Dynamics 365 Remote Assist](ra-overview.md)
