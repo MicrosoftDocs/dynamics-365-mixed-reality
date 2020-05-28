@@ -26,7 +26,8 @@ You can view 3D models in Product Visualize without using your device's camera a
 
 2. In the **Feature Settings** screen, move the **Show AR mode toggle button** toggle to the On position.
 
-    ![AR mode feature](media/ar-mode-feature.png "AR mode feature")
+    > [!div class=mx-imgBorder]
+    > ![AR mode feature](media/ar-mode-feature.png "AR mode feature")
 
 ## Turn AR mode on and off
 
