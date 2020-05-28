@@ -26,13 +26,13 @@ To create a custom view, you need:
 
 - Dynamics 365 Guides PC and HoloLens app versions 104.1907.19001 or later 
 
-You also need to be an administrator for the Dynamics 365 Guides instance that you're working with and it's useful to have a general understanding of the [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro), the database that Dynamics 365 Guides is based on.
+You need to be an administrator for the Dynamics 365 Guides instance that you're working with. It's also useful to have a general understanding of [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro), the database that Dynamics 365 Guides is based on.
 
 ## Overview of creating a custom view
 
 Creating a custom view involves these basic steps:
 
-1. Create a new entity in the Common Data Service that contains the fields (at least two) that will be included in the view.
+1. Create a new entity in Common Data Service that contains the fields (at least two) that will be included in the view.
 
 2. Create the view.
 
@@ -42,12 +42,12 @@ Creating a custom view involves these basic steps:
 
 Each of these steps is described in detail below.
 
-## Step 1: Create a new entity in the Common Data Service
+## Step 1: Create a new entity in Common Data Service
 
 >[!NOTE]
 >If you want to use an existing entity instead of creating a new entity, skip to **Step 2: Create the view**.
 
-1. Go to https://powerapps.microsoft.com, open the instance you want to work with, and then sign in with your admin credentials.
+1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), open the instance you want to work with, and then sign in with your admin credentials.
 
     ![powerapps.microsoft.com](media/powerapps-microsoft.PNG "powerapps.microsoft.com")
 
@@ -92,7 +92,7 @@ Each of these steps is described in detail below.
 
 ## Step 2: Create the view
 
-In this step, you'll add a view to the entity you created in Step 1. The view will include the same fields you added to the new entity.
+In this step, you'll add a view to the entity that you created in Step 1. The view will include the same fields you added to the new entity.
 
 Rules for the view include the following:
 
@@ -139,7 +139,7 @@ The following illustration shows an example tab on HoloLens called **Assigned Ta
 
     ![Add column](media/add-columns.PNG "Add column")
 
-6. Select **Add column** again, and then select **Guide**. Your screen should look like this after adding the two columns:
+6. Select **Add column** again, and then select **Guide**. Your screen should look like this after adding the two columns.
 
     ![Columns added](media/columns-added.PNG "Columns added")
 
@@ -154,9 +154,9 @@ The following illustration shows an example tab on HoloLens called **Assigned Ta
 
 ## Step 3: Create a Guides view configuration record
 
-The purpose of the configuration record is to tell HoloLens which view to use.
+The purpose of the configuration record is to notify HoloLens which view to use.
 
-1. Go to [powerapps.com](https://powerapps.com) and sign in as an administrator for the instance.
+1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com) and sign in as an administrator for the instance.
 
 2. In the left pane, select **Apps**, and then select **Guides**.
 
@@ -170,7 +170,7 @@ The purpose of the configuration record is to tell HoloLens which view to use.
 
     ![Name field](media/name-guides-configuration.PNG "Name field")
 
-5. In the **Saved Query ID** field, enter the record ID you saved in step 8 of the previous procedure. This value isn't validated, so make sure to copy it carefully to make sure it's the correct record ID.
+5. In the **Saved Query ID** field, enter the record ID you saved in step 8 of the previous procedure. This value isn't validated, so make sure to copy it carefully to ensure that it's the correct record ID.
 
     ![Saved Query ID field](media/saved-queryid.PNG "Saved Query ID field")
     
@@ -186,7 +186,7 @@ In this step, you'll add the list of guides that will appear on the HoloLens tab
 >[!NOTE]
 >This step shows an example of how to use the App Designer. You can configure the App Designer in different ways, depending on your experience with Dynamics 365.
 
-1. Go to [powerapps.com](https://powerapps.com) and sign in as an administrator for the instance.
+1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com) and sign in as an administrator for the instance.
 
 2. In the left pane, select **Apps**, select the **More Commands** (...) button next to **Guides**, and then select **Edit**.
 
@@ -206,7 +206,7 @@ In this step, you'll add the list of guides that will appear on the HoloLens tab
 
     ![Add subarea](media/add-subarea.PNG "Add subarea")
 
-7. In the **Properties** tab on the right side of the screen, in the **Entity** field, select the name of the entity you created in [Step One of this topic](#step-1-create-a-new-entity-in-the-common-data-service) to link the subarea. 
+7. In the **Properties** tab on the right side of the screen, in the **Entity** field, select the name of the entity you created in [Step 1: Create a new entity in Common Data Service](#step-1-create-a-new-entity-in-common-data-service) to link the subarea. 
 
     ![Link subarea](media/link-subarea.PNG "Link subarea")
 
@@ -226,7 +226,7 @@ In this step, you'll add the list of guides that will appear on the HoloLens tab
 
     ![Drag fields](media/drag-drop-fields.PNG "Drag fields")
 
-13. Go to powerapps.com. In the left pane, you'll see your new group and view at the bottom. 
+13. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com). In the left pane, you'll see your new group and view at the bottom. 
 
     ![New view in left pane](media/my-work-view.PNG "New view in left pane")
 
@@ -237,9 +237,3 @@ In this step, you'll add the list of guides that will appear on the HoloLens tab
 15. In the **Owner** field, assign the user who will have access to the list. 
 
 16. To add more guides to the list, select **New** and then fill in the **Guide** and **Owner** field again.
-
-
-
-   
-
-
