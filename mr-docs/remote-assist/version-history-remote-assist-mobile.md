@@ -28,15 +28,6 @@ search.app:
 
 # Remote Assist mobile version history
 
-## iOS – 2020.5.7 + Android - 2020.05.04 
-
-Date: May 4, 2020
-
-### Bug fixes
-- Improved flighting implementation and enabling per company app customizations.
-- Fix for sign in problem for users on mobile networks.
-- Improved user feedback questionnaire experience.
-
 ## iOS - 2020.5.28 + Android - 2020.05.22
 
 Date: May 28, 2020
@@ -48,6 +39,15 @@ Date: May 28, 2020
 -	Improvement for the voicemail card
 -	Localization improvements
 -	Accessibility improvements and fixes
+
+## iOS – 2020.5.7 + Android - 2020.05.04 
+
+Date: May 4, 2020
+
+### Bug fixes
+- Improved flighting implementation and enabling per company app customizations.
+- Fix for sign in problem for users on mobile networks.
+- Improved user feedback questionnaire experience.
 
 ## iOS – 2020.4.1 + Android - 2002.03.18
 
