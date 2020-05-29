@@ -28,6 +28,18 @@ search.app:
 
 # Remote Assist mobile version history
 
+## iOS - 2020.5.28 + Android - 2020.05.22
+
+Date: May 28, 2020
+
+-	Fix for network error “HTTP 401 TeamsChatService.GetMessagesAsync”
+-	Fix for application not being responsive during launch
+-	Improvement for the recent contacts list 
+-	Fix for not being able to find contacts in some countries, such as Egypt
+-	Improvement for the voicemail card
+-	Localization improvements
+-	Accessibility improvements and fixes
+
 ## iOS – 2020.5.7 + Android - 2020.05.04 
 
 Date: May 4, 2020

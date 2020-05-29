@@ -1,6 +1,11 @@
 {
   "redirections": [
     {
+      "source_path": "mr-docs/guides/custom-view.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/guides/voice-commands.md",
       "redirect_url": "index",
       "redirect_document_id": "false"

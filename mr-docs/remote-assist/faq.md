@@ -197,15 +197,15 @@ When you're in the HoloLens Feedback Hub:
 
 In Remote Assist mobile, go to **Information**, and then find the version number in the **App Version** section.
 
-### How can I improve the tracking experience?
-
-- Map your environment area at the beginning of a video call.
-- Avoid rapid camera movements.
+### Techniques to improve your tracking experience and surface detection
+- Move your phone from side-to-side at the beginning of a video call.
+- Try moving your phone more slowly.
+- Place annotations in your device's field of view and avoid lots of sudden movements.
 - Avoid frequently minimizing the app and reopening it while there are annotations present.
 
-Limitations that may hinder accurate understanding of surfaces or facilitate in losing tracking include:
+### Limitations that may hinder your tracking experience and accurate surface detection
 - Flat surfaces without texture, such as a white desk.
-- Environments with dim lighting or bright lighting.
+- Environments with dim lighting or very bright lighting.
 - Transparent or reflective surfaces like glass.
 - Dynamic or moving surfaces.
 
