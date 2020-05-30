@@ -11,8 +11,8 @@ ms.reviewer: krbjoran
 
 # View service-related documentation and save shared files
 
-During your repair or inspection, you may want to refer to an image or PDF related to the asset or procedure you are completing. 
-For example, you can place a wiring diagram in space next to the asset you are working on. During a video call, a remote collaborator can share a reference to help you better understand what an asset should look like after you've successfully repaired it.
+During your repair or inspection, you may want to refer to an image or PDF related to the asset or procedure you are completing.
+For example, you can place a wiring diagram in the space next to the asset you are working on. During a video call, a remote collaborator can share a reference to help you better understand what an asset should look like after you've successfully repaired it.
 
 If you're in a video call, any call participant can annotate the file, just as they would annotate any physical object.
 
