@@ -1,6 +1,6 @@
 ---
 title: Create a new asset record
-author: becorn
+author: bencorn
 description: Create a new asset record
 ms.author: becorn
 ms.date: 5/30/2020

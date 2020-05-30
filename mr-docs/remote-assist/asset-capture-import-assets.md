@@ -1,6 +1,6 @@
 ---
 title: Import Assets
-author: becorn
+author: bencorn
 description: How to import asset records to Common Data Service
 ms.author: becorn
 ms.date: 5/30/2020

@@ -1,6 +1,6 @@
 ---
 title: Capture asset conditions with spatial markup
-author: becorn
+author: bencorn
 description: How to capture asset conditions with spatial markup
 ms.author: becorn
 ms.date: 5/30/2020

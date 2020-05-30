@@ -1,6 +1,6 @@
 ---
 title: Review Asset Captures
-author: becorn
+author: bencorn
 description: How to review asset captures
 ms.author: becorn
 ms.date: 5/30/2020
