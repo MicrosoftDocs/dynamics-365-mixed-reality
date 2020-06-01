@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Capture asset conditions with spatial markup in HoloLens 2
 
-Remote Assist can be used to capture asset conditions and work processes with spatial markup during inspections, audits, factory acceptance tests, or while performing maintenance. As an example, a technician can use Remote Assist on the HoloLens to capture photos of the equipment they are inspecting with spatial markup highlighting defects like cracks, wear, and corrosion identified during the inspection. The photos can then be viewed and downloaded from the Remote Assist web app by stakeholders within the organization, such as a service manager or site superintendent.
+Remote Assist can be used to capture procedures and defects during jobs such as an inspection or while performing a repair. As an example, a technician can use Remote Assist on the HoloLens to capture photos of the equipment they are inspecting to highlight defects like wear and corrosion. The photos can then be viewed and downloaded from the Remote Assist web app by stakeholders within the organization, such as a service manager or site superintendent.
 
 In this article, you will learn how to use the HoloLens 2 to view asset records created from the Remote Assist web app and capture photos of assets with spatial markup.
 
@@ -25,7 +25,7 @@ To complete this article, you need:
 
 ### Enable the public preview
 
-From Remote Assist, select **Settings** > **Preview Features** and toggle the Asset Capture feature on. This requires you to restart Remote Assist by closing the live tile and relaunching the app.
+From Remote Assist, select **Settings** > **Preview Features**, and toggle the Asset Capture feature on. This step requires you to restart Remote Assist by closing the live tile and relaunching the app.
 
 ![Screenshot of the settings page in Remote Assist to enable preview features.](./media/08.01-settings-preview-features.png "Remote Assist")
 
@@ -49,10 +49,10 @@ Select the **Assets** tab. The list of assets entered through the Remote Assist 
 4. **Airtap** or say the **Snap** voice command to take a picture of the asset with the spatial markup. The photo will preview for several seconds and then be saved to Common Data Service.
 ![Screenshot of the camera mode enabled in Remote Assist.](./media/06.10-photo-ready.png "Remote Assist")
 
-Any existing photo can be selected in the asset view to preview in the HoloLens environment. If the current sign in user took the photo, they can also delete that photo in the preview window.
+Any existing photo can be selected in the asset view to preview in the HoloLens environment. If the current user took the photo, they can also delete that photo in the preview window.
 
 > [!NOTE]
-> Captured photos are saved both locally to the HoloLens and to Common Data Service (CDS) where they are viewable from the Remote Assist web app.
+> Captured photos are saved both locally to the HoloLens and to Common Data Service (CDS) where they're viewable from the Remote Assist web app.
 
 ## Next steps
 
