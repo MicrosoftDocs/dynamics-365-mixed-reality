@@ -36,7 +36,7 @@ Asset Capture is easy to start using and involves the following steps:
 Get started with the Asset Capture public preview by starting with this tutorial:
 
 > [!div class="nextstepaction"]
-> [Setup an environment](./asset-capture-review.md)
+> [Setup an environment](./asset-capture-setup-environment.md)
 
 ## Entity Reference
 
