@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Create asset records
 
-Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way to organize data generated in the field through Remote Assist, like photos with spatial markup captured during an inspection. Overtime, an asset record serves as a visual historical record and audit trail of how an asset changed over time and the various work performed on the asset.
+Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way for technicians to capture data in the field through Remote Assist, like photos with spatial markup captured during an inspection. Assets are the type of records technicians will select in the HoloLens to capture data to, such as photos. They are like a named folder that people in your organization can see. Overtime, an asset record serves as a visual historical record and audit trail of how an asset changed over time and the various work performed on the asset.
 
 In this article, you will learn how to create new asset records, import  assets records from another system, and view the asset records in the Remote Assist web app.
 
