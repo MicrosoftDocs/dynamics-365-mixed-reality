@@ -32,8 +32,7 @@
 #### [Overview](asset-capture-overview.md)
 #### [Setup a preview environment](asset-capture-setup-environment.md)
 #### [Add users to the preview ](asset-capture-add-users.md)
-#### [Import existing assets](asset-capture-import-assets.md)
-#### [Create a new asset](asset-capture-create-asset.md)
+#### [Create asset records](asset-capture-create-asset.md)
 #### [Capture asset conditions](asset-capture-photos.md)
 #### [Review asset captures](asset-capture-review.md)
 
