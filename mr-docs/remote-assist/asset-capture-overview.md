@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 # Asset Capture Public Preview Overview
 
 ## Overview
-Overview of what this is
+Overview of what this preview is
 
 ## Entity Reference
 
@@ -26,6 +26,7 @@ Asset Capture utilizes several entities stored in Common Data Model:
 ## Additional notes
 
 - Support for HoloLens 1 and Mobile is not part of the June public preview and is **planned**.
+- During sign in, Remote Assist will try to automatically select the first environment the user has access to with the Remote Assist app installed. If the user has access to more than one environment with the Remote Assist app installed, you can select the desired environment by selecting **Settings** > **Links** > **Switch Dynamics Instance**.
 
 ### Known issues
 

@@ -18,10 +18,13 @@ This tutorial is the first of a series. As you progress through the series, you 
 
 To complete this article, you need:
 
-- **A Dynamics 365 Remote Assist subscription (trial or paid)**, this enables you to install and use the app. The 90-day in app trial is not compatible with this tutorial. If you don't have one, you can start a trial for free.
+- **A Dynamics 365 Remote Assist subscription (paid)**, this enables you to create environments and install and use the app.
 - **Ability to manage environments in Power Platform Admin Center**. This tutorial covers creating Dynamics 365 environments and installing apps. Admin access is required (Dynamics 365 service admin, Global admin, or Power Platform service admin).
-- **Available database capacity**. If you are creating a new environment for Remote Assist, you will need at least 1GB of available database capacity to do so. Learn more about the capacity model here: [New Common Data Service storage capacity
+- **Available database capacity**. If you are creating a new environment for Remote Assist, you will need at least 1GB of available database capacity to do so. Paid subscriptions of Remote Assist provide default tenant capacity if you do not have any existing Dynamics 365 products. Learn more about the capacity model here: [New Common Data Service storage capacity
 ](https://docs.microsoft.com/en-us/power-platform/admin/capacity-storage).
+
+> [!IMPORTANT]
+> Trial subscriptions of Remote Assist can be used for the public preview if you have **existing Dynamics 365 subscriptions** that include apps such as Field Service or Customer Service.
 
 ## Install Dynamics 365 Remote Assist
 

@@ -58,7 +58,7 @@ Security roles must be assigned to apps to ensure users with those roles can acc
 
 ## Next steps
 
-In this tutorial, you learned how to assign security roles and enable the app for Remote Assist users. To learn how to import your existing asset catalog, see:
+In this tutorial, you learned how to assign security roles and enable the app for Remote Assist users. To learn how to create asset records and import your existing asset catalog, see:
 
 > [!div class="nextstepaction"]
-> [Import assets](./asset-capture-import-assets.md)
+> [Create assets](./asset-capture-create-asset.md)
