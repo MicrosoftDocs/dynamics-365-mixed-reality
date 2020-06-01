@@ -11,13 +11,13 @@ ms.reviewer: krbjoran
 # Asset Capture Public Preview Overview
 
 ## Overview
-The Asset Capture public preview in Remote Assist enables technicians to capture data about the assets they operate, inspect, and maintain **independent of a call** and in a consistent and structured way for validation, report generation, and auditing.
+The Asset Capture public preview in Remote Assist enables technicians to capture data about the assets they operate, inspect, and maintain **independent of a call**. The data is captured in a consistent and structured way for easy validation, report generation, and auditing.
 
-Compared to the snapshot tool currently available in Remote Assist that enables technicians to capture and save images to OneDrive for Business during a call, asset capture has additional benefits:
+Compared to the snapshot tool currently available in Remote Assist, asset capture has additional benefits:
 
-- **Available independent of calls**: technicians can use Remote Assist to capture processes such as inspections, audits, repair procedures, and factory acceptance tests **independent of a call** if necessary for scenarios where they are working by themselves or a video call is not possible. Simply put, asset capture, spatial markup tools, and reference documents are now always available the second you start Remote Assist.
-- **More flexible and robust**: Asset Capture is built on Common Data Service and the Common Data Model, so data generated in Remote Assist can be used in automated processes with Power Automate Flows or in your existing Power Apps and other Dynamics 365 apps. Because Remote Assist uses the same Customer Asset entity used in Field Service and Connected Customer Service, Remote Assist seamlessly extends those applications, enabling technicians to capture spatial data to the asset in Remote Assist.
-- **Easier to manage**: Data captured with Asset Capture is structured and related back to a digital record of the equipment (assets) you maintain and operate. Overtime, these asset records become a historical record or audit trail of rich spatial data captured from Remote Assist. And compared to OneDrive where the user must share the folder with specific individuals to view, asset data is saved to Common Data Service so anyone in the organization with access to Common Data Service (CDS) can view that data.
+- **Available independent of calls**: technicians can use Remote Assist to capture processes such as inspections, audits, repair procedures, and factory acceptance tests **independent of a call**. This is great for scenarios where they are working by themselves or a video call is not possible. Simply put, asset capture, spatial markup tools, and reference documents are now always available from the second you start Remote Assist.
+- **More flexible and robust**: Asset Capture is built on Common Data Service and the Common Data Model. Data generated in Remote Assist can be used in automated processes with Power Automate Flows or in your existing Dynamics 365 apps and Power Apps. Because Remote Assist uses the same Customer Asset entity used in Field Service and Connected Customer Service, Remote Assist seamlessly extends those applications, enabling technicians to capture spatial data to the asset in Remote Assist.
+- **Easier to manage**: Data captured with Asset Capture is automatically related back to a digital record of the equipment (assets) you maintain or operate. Overtime, these records become a historical record and audit trail of rich spatial data captured from Remote Assist. And compared to OneDrive where the user must share the folder with specific individuals to view, asset data is saved to Common Data Service so anyone in the organization with access to Common Data Service (CDS) can view that data.
 
 Asset Capture is easy to start using and involves the following steps:
 
@@ -40,7 +40,7 @@ Get started with the Asset Capture public preview by starting with this tutorial
 
 ## Entity Reference
 
-Asset Capture utilizes several entities stored in Common Data Model:
+Asset Capture uses several entities stored in Common Data Model:
 
 1. Customer Asset: the individual asset.
 2. Customer Asset Category: a way to describe a group of similar assets.
@@ -50,12 +50,12 @@ Asset Capture utilizes several entities stored in Common Data Model:
 
 ## Additional notes
 
-- Support for HoloLens 1 and Mobile is not part of the June public preview and is **planned**.
-- Support for video capture is not available in the June release and is **planned**
-- During sign in, Remote Assist will try to automatically select the first environment the user has access to with the Remote Assist app installed. If the user has access to more than one environment with the Remote Assist app installed, you can select the desired environment by selecting **Settings** > **Links** > **Switch Dynamics Instance**.
+- Support for HoloLens 1 and Mobile isn't part of the June public preview and is **planned**.
+- Support for video capture isn't available in the June release and is **planned**
+- During sign-in, Remote Assist will try to automatically select the first environment the user has access to with the Remote Assist app installed. If the user has access to more than one environment with the Remote Assist app installed, you can select the desired environment by selecting **Settings** > **Links** > **Switch Dynamics Instance**.
 
 ### Known issues
 
 - Users with access to a large number of environments will experience long delays the first time they sign into Remote Assist with the preview turned on.
-- Taking multiple photos in succession can fail or be very slow.
+- Taking multiple photos in succession can fail or be slow.
 - Photos taken in Remote Assist have a limited resolution of 1280x720; lower than the maximum resolution available on the HoloLens.
