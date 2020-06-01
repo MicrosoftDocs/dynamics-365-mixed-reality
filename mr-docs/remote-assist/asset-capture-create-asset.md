@@ -80,4 +80,4 @@ For the purposes of this tutorial, we will leave fields blank and only use the a
 In this tutorial, you learned how to create asset records and import an existing asset catalog to Common Data Service. To learn how to view these assets in Remote Assist on HoloLens 2 and capture asset data with spatial markup, see:
 
 > [!div class="nextstepaction"]
-> [Capture asset data in HoloLens](./asset-capture-create-asset.md)
+> [Capture asset data in HoloLens](./asset-capture-photos.md)
