@@ -21,7 +21,7 @@ If you go offline, Dynamics 365 Guides automatically signs you into the last acc
 
 ## Working with multiple users or devices
 
-Guides are specific to the user and HoloLens. If you're sharing a HoloLens with another user and you both want to use the same guide, each user will need to open the guide when they have an internet connection to automatically download the guide. 
+Guides are specific to the user and the HoloLens. If you're sharing a HoloLens with another user and you both want to use the same guide, each of you will need to open the guide when you have an internet connection to automatically download the guide. 
 
 Likewise, if you use more than one HoloLens, you'll need to open the guide on each HoloLens while you have an internet connection so you can download the guide for offline use.
 
