@@ -61,6 +61,7 @@
 #### [HoloLens 2](operator-gestures-HL2.md)
 ### [Anchor your guide](operator-anchor.md)
 ### [Operate your guide](operator-orientation.md)
+### [Work offline](operator-offline.md)
 ## [Analyze your guides](analytics-guide.md)
 ## [Entity reference (for developers)](developer-entity-reference.md)
 ## [Get Help and provide feedback](help.md)
