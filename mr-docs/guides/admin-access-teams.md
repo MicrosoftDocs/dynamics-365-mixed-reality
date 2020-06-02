@@ -80,15 +80,15 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 
 The Guides model-driven app provides an interface that lets users share a specific guide or guide record with other users or teams. To enable new security roles, you must grant them access to the Guides model-driven app.
 
-1. Go to [make.powerapps.com](https://make.powerapps.com), select **Apps**, and then select the **More Commands** menu (...) next to **Guides**.
+1. Go to [make.powerapps.com](https://make.powerapps.com), select **Apps**, and then select the **More Commands** (**...**) button next to **Guides**.
 
-    ![Select Apps](media/select-apps.PNG "Select Apps")
+    ![Select the More Commands button](media/select-apps.PNG "Select the More Commands button")
 
 2. Select **Share**.
 
     ![Select Share](media/select-share.PNG "Select Share")
 
-3. Select the **Guides** app, select the **Dynamics 365 Guides Restricted Operator** role from the list, and then select **Save**.
+3. Select the **Guides** app, select the **Dynamics 365 Guides Restricted Operator** role in the list, and then select **Save**.
 
     ![Select the Dynamics 365 Guides Restricted Operator role](media/select-restricted-operator-role.PNG "Select the Dynamics 365 Guides Restricted Operator role")
 
