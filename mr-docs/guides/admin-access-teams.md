@@ -80,11 +80,11 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 
 The Guides model-driven app provides an interface that lets users share a specific guide or guide record with other users or teams. To enable new security roles, you must grant them access to the Guides model-driven app.
 
-1. Go to make.powerapps.com, and then select **Apps**.
+1. Go to make.powerapps.com, select **Apps**, and then select the context menu (...) next to **Guides**.
 
     ![Select Apps](media/select-apps.PNG "Select Apps")
 
-2. Select the context menu (...) next to **Guides**, and then select **Share**.
+2. Select **Share**.
 
     ![Select Share](media/select-share.PNG "Select Share")
 
