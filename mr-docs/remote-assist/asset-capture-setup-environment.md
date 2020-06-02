@@ -10,15 +10,13 @@ ms.reviewer: krbjoran
 ---
 # Setup a Dynamics 365 Environment
 
-Learn how to setup a Dynamics 365 environment for the Asset Capture public preview. It takes about 8 minutes to complete.
-
 This tutorial is the first of a series. As you progress through the series, you will create an environment and install the app, add users to the environment, learn how to import and create asset records, capture pictures with spatial markup, review the captured pictures from the Dynamics 365 Remote Assist app, and learn how to create Power Automate Flows to automate business processes with asset capture data.
 
 ## Prerequisites
 
 To complete this article, you need:
 
-- **A Dynamics 365 Remote Assist subscription**, this enables you to create environments and install and use the app.
+- **A Dynamics 365 Remote Assist subscription**, this enables you to create environments and install the app.
 - **Ability to manage environments in Power Platform Admin Center**. This tutorial covers creating Dynamics 365 environments and installing apps. Admin access is required (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 - **Available database capacity**. If you are creating a new environment for Remote Assist, you will need at least 1GB of available database capacity to do so. Paid subscriptions of Remote Assist provide default tenant capacity if you do not have any existing Dynamics 365 products. Learn more about the capacity model here: [New Common Data Service storage capacity
 ](https://docs.microsoft.com/power-platform/admin/capacity-storage).
