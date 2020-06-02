@@ -82,7 +82,7 @@ The Guides model-driven app provides an interface that lets users share a specif
 
 1. Go to make.powerapps.com, and then select **Apps**.
 
-    ![Select Apps (media/select-apps.PNG "Select Apps")
+    ![Select Apps](media/select-apps.PNG "Select Apps")
 
 2. Select the context menu (...) next to **Guides**, and then select **Share**.
 
