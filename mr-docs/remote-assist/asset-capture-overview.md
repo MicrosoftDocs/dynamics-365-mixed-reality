@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 ## Overview
 The Asset Capture public preview introduces non-calling scenarios in Remote Assist by enabling technicians to capture data about the assets they operate, inspect, and maintain. The data is captured in a consistent and structured way for easy validation, report generation, and auditing.
 
-Compared to the snapshot tool currently available in Remote Assist, asset capture has additional benefits:
+Compared to the snapshot tool currently available in Remote Assist for capturing data, asset capture has several additional benefits:
 
 - **Available independent of calls**: technicians can use Remote Assist to capture processes such as inspections, audits, repair procedures, and factory acceptance tests **independent of a call**. This is great for scenarios where they are working by themselves or a video call is not possible. Simply put, asset capture, spatial markup tools, and reference documents are now always available from the second you start Remote Assist.
 - **More flexible and robust**: Asset Capture is built on Common Data Service and the Common Data Model. Data generated in Remote Assist can be used in automated processes with Power Automate Flows or in your existing Dynamics 365 apps and Power Apps. Because Remote Assist uses the same Customer Asset entity used in Field Service and Connected Customer Service, Remote Assist seamlessly extends those applications, enabling technicians to capture spatial data to the asset in Remote Assist.
