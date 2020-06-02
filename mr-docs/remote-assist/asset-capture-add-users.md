@@ -18,7 +18,7 @@ In this tutorial, you assign users a Remote Assist license and configure  securi
 
 To complete this article, you need:
 
-- **A Dynamics 365 Remote Assist subscription (trial or paid)**, this enables you to assign licenses to the intended set of Remote Assist users.
+- **A Dynamics 365 Remote Assist subscription**, this enables you to assign licenses to the intended set of Remote Assist users.
 - **Ability to manage user licenses in Microsoft Admin Center**. To manage user licenses, you need to have an admin role for the Microsoft Admin Center.
 - **Admin access to the environment Remote Assist is installed in**. You will be managing security roles for users in the environment. A system administrator role is required in the environment you are managing.
 
@@ -53,8 +53,12 @@ Security roles must be assigned to apps to ensure users with those roles can acc
 1. Sign in to the [Power Platform Admin Center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 2. Select **Environments**, find the environment Remote Assist is installed in, and select the dots for **More environment actions**.
 3. Select **Open environment**.
-4. Select the **More options** menu on the Remote Assist app tile and then select **Manage Roles**.
-5. From the right side panel, select the **Remote Assist - App User** role from the list and then select **Save**.
+4. If you see a list of **Published Apps**, proceed to step 5. Select **Settings** from the top right toolbar > **Advanced Settings** > select the dropdown next to **Settings** > **My Apps**.
+![Screenshot of Dynamics 365 environment.](./media/06.24-d365-settings-my-apps.png "Dynamics 365")
+5. Select the **More options** menu on the Remote Assist app tile and then select **Manage Roles**.
+![Screenshot of Dynamics 365 manage roles for app menu.](./media/06.25-d365-settings-manage-roles.png "Dynamics 365")
+6. From the right side panel, select the **Remote Assist - App User** role from the list and then select **Save**.
+![Screenshot of Dynamics 365 assigning app role.](./media/06.26-d365-settings-manage-roles-set.png "Dynamics 365")
 
 ## Next steps
 

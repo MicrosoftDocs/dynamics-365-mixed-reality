@@ -18,13 +18,13 @@ This tutorial is the first of a series. As you progress through the series, you 
 
 To complete this article, you need:
 
-- **A Dynamics 365 Remote Assist subscription (paid)**, this enables you to create environments and install and use the app.
+- **A Dynamics 365 Remote Assist subscription**, this enables you to create environments and install and use the app.
 - **Ability to manage environments in Power Platform Admin Center**. This tutorial covers creating Dynamics 365 environments and installing apps. Admin access is required (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 - **Available database capacity**. If you are creating a new environment for Remote Assist, you will need at least 1GB of available database capacity to do so. Paid subscriptions of Remote Assist provide default tenant capacity if you do not have any existing Dynamics 365 products. Learn more about the capacity model here: [New Common Data Service storage capacity
 ](https://docs.microsoft.com/power-platform/admin/capacity-storage).
 
 > [!IMPORTANT]
-> Trial subscriptions of Remote Assist can be used for the public preview if you have **existing Dynamics 365 subscriptions** that include apps such as Field Service or Customer Service.
+> Trial subscriptions of Remote Assist can be used for the public preview if you have **existing Dynamics 365 subscriptions** that include apps such as Field Service or Customer Service. The in-app 90 day viral trial is not compatible with this preview.
 
 ## Install Dynamics 365 Remote Assist
 
@@ -58,8 +58,7 @@ For more detailed documentation on creating Dynamics 365 Environments refer to t
 
 ## Next steps
 
-Congratulations, you've installed the Dynamics 365 Remote Assist app. Let us know if you have any comments and suggestions in the feedback section. Thanks!
-The next tutorial goes into detail about adding users to the environment so they can interact with data and enable the preview in the HoloLens 2.
+Congratulations, you've installed the Dynamics 365 Remote Assist app. The app is now accessible by navigating to the environment URL (found in Power Platform Admin Center) and selecting the Remote Assist app. The next tutorial goes into detail about adding users to the environment so they can interact with data and enable the preview in the HoloLens 2.
 
 > [!div class="nextstepaction"]
 > [Add users to the preview](./asset-capture-add-users.md)

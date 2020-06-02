@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 # Asset Capture Public Preview Overview
 
 ## Overview
-The Asset Capture public preview in Remote Assist enables technicians to capture data about the assets they operate, inspect, and maintain **independent of a call**. The data is captured in a consistent and structured way for easy validation, report generation, and auditing.
+The Asset Capture public preview introduces non-calling scenarios in Remote Assist by enabling technicians to capture data about the assets they operate, inspect, and maintain. The data is captured in a consistent and structured way for easy validation, report generation, and auditing.
 
 Compared to the snapshot tool currently available in Remote Assist, asset capture has additional benefits:
 
