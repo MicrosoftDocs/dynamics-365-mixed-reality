@@ -39,7 +39,7 @@ The demo available through the Dynamics 365 Guides Home screen is available for 
 
 - If you make changes to a guide as an author, those changes will not automatically apply to your downloaded guide. You must re-open the guide on the device you want to use offline to make sure the latest changes have been dowloaded. When you're offline, the guide will show the date that it was last downloaded to your device. If this date is before your most recent changes, the guide is out of date. Open it online to download the latest changes.
 
-- If a guide is deactivated after it's downloaded to a device, the downloaded version will remain on the device until the cache is cleared, but users will not be able to access any updates or open it online.
+- If a guide is deactivated after it's downloaded to a HoloLens, the downloaded version will remain on the HoloLens until the cache is cleared, but users will not be able to access any updates or open it online.
 
 - If you lose permissions to a guide that has already been downloaded to your HoloLens, the downloaded version will remain on the HoloLens until the cache is cleared, but users will not be able to access any updates or open it online. 
 
