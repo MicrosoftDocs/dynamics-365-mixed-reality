@@ -35,7 +35,7 @@ The demo available through the Dynamics 365 Guides Home screen is available for 
 
 ## Limitations with Offline mode
 
-- You can't author a guide in Offline mode.
+- You can't author a guide in **Offline** mode.
 
 - If you make changes to a guide as an author, those changes will not automatically apply to your downloaded guide. You must re-open the guide on the device you want to use offline to make sure the latest changes have been dowloaded. When you're offline, the guide will show the date that iw as last downloaded to your device. If this date is before your most recent changes, the guide is out of date. Open it online to download the latest changes.
 
