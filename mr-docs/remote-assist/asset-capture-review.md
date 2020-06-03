@@ -30,8 +30,11 @@ To complete this article, you need:
 ![Screenshot of the asset captures subgrid.](./media/06.21-asset-capture-list.png "Remote Assist")
 4. Scroll down to view the image preview. The image can be expanded by selecting the **Full-screen view** button in the top right of the image preview control.
 ![Screenshot of the asset capture image preview.](./media/06.22-asset-capture-image-preview.png "Remote Assist")
-5. Download the capture by selecting **Download** below the image preview control.
+5. The image can be annotated by drawing directly on the image with your mouse. This is helpful for calling attention to objects or defects in the scene.
+![Screenshot of an annotated image capture](./media/06.27-asset-capture-image-preview-annotated.png)
+6. Captures can be downloaded by selecting **Download** below the image preview control.
 ![Screenshot of the asset capture image preview.](./media/06.23-asset-capture-image-preview-expanded.png "Remote Assist")
+
 
 ## Next steps
 

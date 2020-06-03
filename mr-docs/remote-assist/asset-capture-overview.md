@@ -57,11 +57,13 @@ Asset Capture uses several entities stored in Common Data Model:
 - Remote Assist uses the same common solution for the Asset entity that Dynamics 365 Field Service uses. If you have Field Service installed in the same environment as Remote Assist, you will see a new tab on the Customer Asset form called **Captures**. 
 - Support for HoloLens 1 and Mobile isn't part of the June public preview and is **planned**.
 - Support for video capture isn't available in the June release and is **planned**
-- During sign-in, Remote Assist will try to automatically select the first environment the user has access to with the Remote Assist app installed. If the user has access to more than one environment with the Remote Assist app installed, you can select the desired environment by selecting **Settings** > **Links** > **Switch Dynamics Instance**.
+- During sign-in, Remote Assist will try to automatically select the first environment the user has access to with the Remote Assist app installed. If the user has access to more than one environment with the Remote Assist app installed, the desired environment can be set by selecting **Settings** > **Links** > **Switch Dynamics Instance**.
 
 ### Known issues
 
 - Users with access to a large number of environments will experience long delays the first time they sign into Remote Assist with the preview turned on.
+- An environment set through Settings does not save after restarting the app. The environment needs to be re-set through **Settings** > **Links** > **Switch Dynamics Instance**.
 - Taking multiple photos in succession can fail or be slow.
 - Photos taken in Remote Assist have a limited resolution of 1280x720; lower than the maximum resolution available on the HoloLens.
-- The HoloLens can only support loeading up to 5,000 asset records.
+- Captures viewed from the model-driven app may not appear the first time when loading the capture. If this happens, refresh the page and the capture preview will appear.
+- Maximum support for 5,000 asset records.
