@@ -230,15 +230,12 @@ For **iOS** devices, Remote Assist mobile is available in 155 countries.
 
 Arabic (Saudi Arabia), Bulgarian (Bulgaria), Catalan (Spain), Czech (Czech Republic), Danish (Denmark), German (Germany), Greek (Greece), English (Australia), English (Canada), English (United Kingdom), English (United States), Spanish (Spain), Estonian (Estonia), Basque (Spain), Finnish (Finland), French (Canada), French (France), Galician (Spain), Hebrew (Israel), Hindi (India), Croatian (Croatia), Hungarian (Hungary), Indonesian (Indonesia), Italian (Italy), Japanese (Japan), Kazakh (Kazakhstan), Korean (Korea), Lithuanian (Lithuania), Latvian (Latvia), Malay (Malaysia), Norwegian Bokmål (Norway), Dutch (Netherlands), Polish (Poland), Portuguese (Brazil), Portuguese (Portugal), Romanian (Romania), Russian (Russia), Slovak (Slovakia), Slovenian (Slovenia), Serbian (Cyrillic, Serbia), Serbian (Latin, Serbia), Swedish (Sweden), Thai (Thailand), Turkish (Turkey), Ukrainian (Ukraine), Vietnamese (Vietnam), Chinese (Simplified, China), Chinese (Hong Kong S.A.R.), Chinese (Traditional).
 
-## How do I provide feedback?
+### How do I provide feedback?
+Technicians can provide feedback or make requests directly in the Remote Assist mobile app. Providing in-app feedback is the best way for the Remote Assist mobile team to troubleshoot your issue because we can use your applications logs to see if there is an issue on our side. The Remote Assist mobile team values your feedback and strives to make significant improvements to the app.
 
-Technicians can provide feedback or make requests directly in the Remote Assist mobile app. The Remote Assist mobile team values your feedback and strives to make significant improvements to the app.
-
-### Provide feedback customer scenario
+In the Remote Assist mobile app, you can provide feedback by:
 1.	Select the **Main Menu** icon.
-
 2.	Select **Feedback**. 
-
 3.	Provide your feedback.
 
 >[!Note]
