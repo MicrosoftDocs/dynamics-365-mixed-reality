@@ -1,5 +1,5 @@
 ---
-title: Review asset captures in Remote Assist UCI app
+title: Review asset captures in Remote Assist model-driven app
 author: bencorn
 description: Learn how to review captured asset data from the Remote Assist HoloLens app for validation purposes.
 ms.author: becorn
@@ -8,17 +8,17 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Review asset captures in Remote Assist UCI app
+# Review asset captures in Remote Assist model-driven app
 
-Captured asset data from the HoloLens is saved to Common Data Service (CDS) and viewable from the Remote Assist UCI app for validating work performed by technicians in the field, generating reports, and downloading artifacts like photos for use in other application.
+Captured asset data from the HoloLens is saved to Common Data Service (CDS) and viewable from the Remote Assist model-driven app for validating work performed by technicians in the field, generating reports, and downloading artifacts like photos for use in other application.
 
-In this article, you will learn how to access captured asset data through the Remote Assist UCI app and download that data to your computer.
+In this article, you will learn how to access captured asset data through the Remote Assist model-driven app and download that data to your computer.
 
 ## Prerequisites
 
 To complete this article, you need:
 
-- **Access to the environment Remote Assist is installed in**. You will access the Remote Assist UCI app to view asset data.
+- **Access to the environment Remote Assist is installed in**. You will access the Remote Assist model-driven app to view asset data.
 
 ## View asset captures
 
@@ -35,7 +35,7 @@ To complete this article, you need:
 
 ## Next steps
 
-In this tutorial, you learned how to view asset captures in the Remote Assist UCI app. To learn how to use Power Automate Flows to automate your business processes like generating reports with asset captures or notifying a Teams Channel when new asset data is captured, see:
+In this tutorial, you learned how to view asset captures in the Remote Assist model-driven app. To learn how to use Power Automate Flows to automate your business processes like generating reports with asset captures or notifying a Teams Channel when new asset data is captured, see:
 
 > [!div class="nextstepaction"]
 > [Automate asset capture data](./asset-capture-automation.md)

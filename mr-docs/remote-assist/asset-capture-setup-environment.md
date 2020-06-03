@@ -24,7 +24,7 @@ To complete this article, you need:
 > [!IMPORTANT]
 > Trial subscriptions of Remote Assist can be used for the public preview if your organization has **existing Dynamics 365 subscriptions** that include apps such as Field Service or Customer Service. The in-app 90 day viral trial is not compatible with this preview.
 
-## Install Dynamics 365 Remote Assist UCI app
+## Install Dynamics 365 Remote Assist model-driven app
 
 There are a few ways you can install the Dynamics 365 Remote Assist app:
 
@@ -56,7 +56,7 @@ For more detailed documentation on creating Dynamics 365 Environments refer to t
 
 ## Next steps
 
-Congratulations, you've installed the Dynamics 365 Remote Assist app. The app is now accessible by opening the environment and selecting the Remote Assist app or from [https://home.dynamics.com/](https://home.dynamics.com). Find more information about Unified Client Interface (UCI) app here: [About Unified Interface for model-driven apps in Power Apps](https://docs.microsoft.com/power-platform/admin/about-unified-interface)
+Congratulations, you've installed the Dynamics 365 Remote Assist app. The app is now accessible by opening the environment and selecting the Remote Assist app or from [https://home.dynamics.com/](https://home.dynamics.com). Find more information about accessing Unified Interface apps here: [About Unified Interface for model-driven apps in Power Apps](https://docs.microsoft.com/power-platform/admin/about-unified-interface)
 
 The next tutorial goes into detail about adding users to the preview so they can interact with data and enable the preview in the HoloLens 2.
 

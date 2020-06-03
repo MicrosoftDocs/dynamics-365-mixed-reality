@@ -24,7 +24,7 @@ To complete this article, you need:
 
 ## Assign Remote Assist licenses
 
-Anyone who will be using Remote Assist on HoloLens 2 or accessing the Dynamics 365 Remote Assist UCI app to review captured data will need a Dynamics 365 Remote Assist license. If these users already have a Remote Assist license, you can skip this step.
+Anyone who will be using Remote Assist on HoloLens 2 or accessing the Dynamics 365 Remote Assist model-driven app to review captured data will need a Dynamics 365 Remote Assist license. If these users already have a Remote Assist license, you can skip this step.
 
 1. Sign in to the [Microsoft Admin Center](https://admin.microsoft.com) as an admin (User admin or Global admin).
 2. Go to the **Billing** > **Licenses** page.

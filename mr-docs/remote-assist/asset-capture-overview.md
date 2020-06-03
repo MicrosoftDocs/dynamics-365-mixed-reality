@@ -11,9 +11,11 @@ ms.reviewer: krbjoran
 # Asset Capture Public Preview Overview
 
 ## Overview
-The Asset Capture public preview introduces non-calling scenarios in Remote Assist by enabling technicians to capture data about the assets they operate, inspect, and maintain. The data is captured in a consistent and structured way and made available through the new Remote Assist Unified Client Interface (UCI) web app for easy validation, report generation, and auditing by stakeholders and other technicians. 
+The Asset Capture public preview introduces non-calling scenarios in Remote Assist by enabling technicians to capture data about the assets they operate, inspect, and maintain. The data is captured in a consistent and structured way and made available through the new Remote Assist model-driven app for easy validation, report generation, and auditing by stakeholders and other technicians.
 
-To learn more about Dynamics 365 Unified Client Interface apps, see: [About Unified Interface for model-driven apps in Power Apps](https://docs.microsoft.com/power-platform/admin/about-unified-interface) 
+The Remote Assist model-driven app is built on the Common Data Service platform and utilizes the Common Data Model. This app is a companion to the Remote Assist apps for HoloLens, iOS, and Android that enables new scenarios for managing data generated and consumed by Remote Assist.
+
+To learn more about Dynamics 365 model-driven apps, see: [What are model-driven apps in Power Apps?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/model-driven-app-overview)
 
 Compared to the snapshot tool currently available in Remote Assist for capturing images, asset capture has several additional benefits:
 
@@ -44,7 +46,7 @@ Get started with the Asset Capture public preview by starting with this tutorial
 
 Asset Capture uses several entities stored in Common Data Model:
 
-- **Customer Asset**: the individual asset. This entity is also used in Dynamics 365 Field Service and Connected Field Service. Entity reference: [msdyn_customerasset EntityType](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/msdyn_customerasset?view=dynamics-ce-odata-9)
+- **Customer Asset**: the individual asset. This entity is also used in Dynamics 365 Field Service and Connected Field Service. Find more information about this entity here: [msdyn_customerasset EntityType](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/msdyn_customerasset?view=dynamics-ce-odata-9)
 - **Customer Asset Category**: a way to describe a group of similar assets.
 - **Customer Asset Attachment**: a media artifact captured in HoloLens of a single asset.
 - **Account**: the customer account where the asset currently exists.
