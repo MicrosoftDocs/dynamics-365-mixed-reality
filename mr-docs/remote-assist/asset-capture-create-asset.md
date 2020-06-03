@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 
 Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way for technicians to capture data in the field through Remote Assist, like photos with spatial markup of a generator captured during an inspection. Assets are the type of records technicians will select in the HoloLens to start capturing data to, such as photos. You can think of an Asset record as a folder with the asset name (e.g. Generator 4th Floor - NW Building) that data is saved in, enabling people in your organization to easily access this data. Overtime, the asset record becomes a historical record and audit trail showing how an asset changed over time and the various work performed on the asset.
 
-In this article, you will learn how to create new asset records, import  assets records from another system, and view the asset records in the Remote Assist web app.
+In this article, you will learn how to create new asset records, import  assets records from another system, and view asset records in the Remote Assist unified client app (on the web).
 
 ## Prerequisites
 
@@ -26,14 +26,14 @@ To complete this article, you need:
 Assets can be created:
 
 1. Manually through the Remote Assist app
-2. Imported
+2. By importing data from an Excel spreadsheet
 3. Through a Power Platform data integration project
 
 ### Manually create customer assets
 
 From the main menu of your environment, select **Remote Assist** > **Assets** > **+ New**
 
-![Screenshot of the Remote Assist web app.](./media/AC_CreateAsset.png "Remote Assist app")
+![Screenshot of the Remote Assist unified client app.](./media/AC_CreateAsset.png "Remote Assist app")
 
 For the following fields:
 

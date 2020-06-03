@@ -10,9 +10,9 @@ ms.reviewer: krbjoran
 ---
 # Capture asset conditions with spatial markup in HoloLens 2
 
-Remote Assist can be used to capture procedures and defects during jobs such as an inspection or while performing a repair. As an example, a technician can use Remote Assist on the HoloLens to capture photos of the equipment they are inspecting to highlight defects like wear and corrosion. The photos can then be viewed and downloaded from the Remote Assist web app by stakeholders within the organization, such as a service manager or site superintendent.
+Remote Assist can be used to capture procedures and defects during jobs such as an inspection or while performing a repair. As an example, a technician can use Remote Assist on the HoloLens to capture photos of the equipment they are inspecting to highlight defects like wear and corrosion. The photos can then be viewed and downloaded from the Remote Assist UCI app by stakeholders within the organization, such as a service manager or site superintendent.
 
-In this article, you will learn how to use the HoloLens 2 to view asset records created from the Remote Assist web app and capture photos of assets with spatial markup.
+In this article, you will learn how to use the HoloLens 2 to view asset records created from the Remote Assist UCI app and capture photos of assets with spatial markup.
 
 ## Prerequisites
 
@@ -30,11 +30,11 @@ From Remote Assist, select **Settings** > **Preview Features**, and toggle the A
 ![Screenshot of the settings page in Remote Assist to enable preview features.](./media/08.01-settings-preview-features.png "Remote Assist")
 
 > [!IMPORTANT]
-> Enabling the public preview replaces the current snapshot tool available in a tool with the asset capture capabilities. This means photos taken in Remote Assist will be saved to Common Data Service and accessible through the Remote Assist web app vs. OneDrive for Business. You can disable the preview on the HoloLens at any time by returning to Settings.
+> Enabling the public preview replaces the current snapshot tool available in a tool with the asset capture capabilities. This means photos taken in Remote Assist will be saved to Common Data Service and accessible through the Remote Assist UCI app vs. OneDrive for Business. You can disable the preview on the HoloLens at any time by returning to Settings.
 
 ### View the asset list
 
-Select the **Assets** tab. The list of assets entered through the Remote Assist web app are displayed in descending order by the last created date. At the bottom of the window, there is a search bar to search for assets by the **Name** field.
+Select the **Assets** tab. The list of assets entered through the Remote Assist UCI app are displayed in descending order by the last created date. At the bottom of the window, there is a search bar to search for assets by the **Name** field.
 
 > [!NOTE]
 > The **Assets** tab is also accessible during a call. As an example, while performing a real-time remote inspection, photos of the asset(s) being inspected can be captured to the asset record from the **Assets** tab.
@@ -52,11 +52,11 @@ Select the **Assets** tab. The list of assets entered through the Remote Assist 
 Any existing photo can be selected in the asset view to preview in the HoloLens environment. If the current user took the photo, they can also delete that photo in the preview window.
 
 > [!NOTE]
-> Captured photos are saved both locally to the HoloLens and to Common Data Service (CDS) where they're viewable from the Remote Assist web app.
+> Captured photos are saved both locally to the HoloLens and to Common Data Service (CDS) where they're viewable from the Remote Assist UCI app.
 
 ## Next steps
 
-In this tutorial, you learned how to view assets in the HoloLens and capture photos to the asset record with spatial markup. To learn how to review the captured data from the Remote Assist web app, see:
+In this tutorial, you learned how to view assets in the HoloLens and capture photos to the asset record with spatial markup. To learn how to review the captured data from the Remote Assist UCI app, see:
 
 > [!div class="nextstepaction"]
 > [Review asset captures](./asset-capture-review.md)

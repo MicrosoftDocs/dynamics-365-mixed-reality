@@ -18,7 +18,7 @@ In this article, we'll walk through a few ways you can adjust what you're seeing
 
 ## Position the Remote Assist window
 
-You can pin the Remote Assist window in your space, or you can have it follow you around. After you launch the application, you may want to pin the window to your left or right so you can focus on the task in front you.
+You can pin the Remote Assist window in your space, or you can have it follow you around. After you launch the application, you may want to pin the window to your left or right so you can focus on the task in front of you.
 
 The pin icon, represented as ![Illustration of the pin icon in HoloLens.](media/RAHL_Pin.png "Pin"), fixes the window in a specific location in your space, not at a fixed distance from you. Unpin will enable the window to follow you at a fixed distance. No matter where you are and whether the window is pinned or unpinned, it will face you.
 

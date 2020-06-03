@@ -10,9 +10,9 @@ ms.reviewer: krbjoran
 ---
 # Add users to the Asset Capture preview
 
-Learn how to add users to the asset capture public preview so they can access the app and use the HoloLens 2 to capture asset data.
+Learn how to add users to the Asset Capture public preview so they can access the app and use the HoloLens 2 to capture asset data.
 
-In this tutorial, you assign users a Remote Assist license and configure  security roles.
+In this tutorial, you assign users a Remote Assist license and security roles.
 
 ## Prerequisites
 
@@ -24,7 +24,7 @@ To complete this article, you need:
 
 ## Assign Remote Assist licenses
 
-Anyone who will be using Remote Assist on HoloLens 2 or accessing the Remote Assist web app to review captured data needs a Dynamics 365 Remote Assist license. If these users already have a Remote Assist license, you can skip this step.
+Anyone who will be using Remote Assist on HoloLens 2 or accessing the Dynamics 365 Remote Assist UCI app to review captured data will need a Dynamics 365 Remote Assist license. If these users already have a Remote Assist license, you can skip this step.
 
 1. Sign in to the [Microsoft Admin Center](https://admin.microsoft.com) as an admin (User admin or Global admin).
 2. Go to the **Billing** > **Licenses** page.
@@ -37,7 +37,7 @@ For more detailed documentation on managing user licenses, refer to the docs her
 
 ## Assign Dynamics 365 security roles
 
-Security roles defines how different users, such as service technicians, access different types of records. To control access to data, you can assign security roles to each user.
+Security roles define how different users, such as service technicians, access different types of records. To enable Asset Capture, security roles must be assigned to each user.
 
 1. Sign in to the [Power Platform Admin Center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 2. Select **Environments**, find the environment Remote Assist is installed in, and select the dots for **More environment actions**.
