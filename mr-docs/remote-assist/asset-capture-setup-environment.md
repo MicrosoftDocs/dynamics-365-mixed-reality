@@ -26,16 +26,16 @@ To complete this article, you need:
 
 ## Install Dynamics 365 Remote Assist model-driven app
 
-There are a few ways you can install the Dynamics 365 Remote Assist app:
+There are a couple ways you can install the Dynamics 365 Remote Assist app:
 
-1. Create an entirely new Dynamics 365 environment for Remote Assist.
-2. Use an existing environment to install the Remote Assist app on. This environment must be **Dynamics 365 apps enabled**.
+- Create an entirely new Dynamics 365 environment for Remote Assist.
+- Use an existing environment to install the Remote Assist app on. This environment must be **Dynamics 365 apps enabled**.
 
 ### Create a new environment
 
 1. Sign in to the [Power Platform Admin Center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 2. In the navigation pane, select **Environments**, and then select **New**.
-3. Enter a name, choose production or sandbox, and choose Yes to **Create a database for this environment**. Select **Next**.
+3. Enter a name, choose Production or Sandbox, and choose Yes to **Create a database for this environment**. Select **Next**.
 4. Select Yes to **Enable Dynamics 365 apps** and then select **Remote Assist** from the dropdown and select **Save**. This will create an environment and automatically install the Remote Assist app.
 
 > [!IMPORTANT]

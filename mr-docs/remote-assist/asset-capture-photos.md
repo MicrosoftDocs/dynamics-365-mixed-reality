@@ -30,7 +30,7 @@ From Remote Assist, select **Settings** > **Preview Features**, and toggle the A
 ![Screenshot of the settings page in Remote Assist to enable preview features.](./media/08.01-settings-preview-features.png "Remote Assist")
 
 > [!IMPORTANT]
-> Enabling the public preview replaces the current snapshot tool available in a tool with the asset capture capabilities. This means photos taken in Remote Assist will be saved to Common Data Service and accessible through the Remote Assist UCI app vs. OneDrive for Business. You can disable the preview on the HoloLens at any time by returning to Settings.
+> Enabling the public preview replaces the snapshot tool available from the in-call toolbar with the Asset Capture capabilities. This means photos taken in Remote Assist will be saved to Common Data Service and accessible through the Remote Assist model-driven app vs. OneDrive for Business. You can disable the preview on the HoloLens at any time by returning to Settings.
 
 ### View the asset list
 
