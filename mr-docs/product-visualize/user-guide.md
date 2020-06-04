@@ -4,7 +4,7 @@ description: Guide for opening and signing in to the Dynamics 365 Product Visual
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 05/05/2020
+ms.date: 06/04/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -14,12 +14,11 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their real-world environment. Using mixed reality, sellers can create a shared understanding between themselves and buyers to accelerate complex sales processes. Showing customers your<!--Suggested.--> products in 3D is more compelling than showing them flat images. Our app also gives you other capabilities that aren't available with conventional sales tools. 
+Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their real-world environment. Using mixed reality, sellers can create a shared understanding between themselves and buyers to accelerate complex sales processes. Showing customers your products in 3D is more compelling than showing them flat images. Our app also gives you other capabilities that aren't available with conventional sales tools. 
 
 > [!IMPORTANT]
-> This user guide describes features available in version 1.12 of Dynamics 365 Product Visualize. If you're using an older version of the app, [learn how to upgrade](sign-in.md).<!--Can you tell the reader how to verify the version they're using, or will it be displayed prominently on some screen? The sign-in.md topic doesn't actually discuss upgrading at all, so I'm wondering if there's a particular section in that topic that we can point them to? I don't think they really want to "learn how to upgrade," it would be nice for this link text to be "If you're using an older version of the app, [upgrade to the latest version](LINK TO A HELPFUL PLACE GOES HERE)."-->
+> This user guide describes features available in version 1.12 of Dynamics 365 Product Visualize. If you're using an older version of the app, [install the latest version](sign-in.md).
 
-<!--note from editor: I suggest reorganizing the content a bit so that the reader sees a list of all the user guide topics at once, and then sees how different features might be used to conduct a good presentation. I found that list of topics at the end of the article to be a bit confusion; I wasn't sure how it fit in with the "Steps to a successful product demonstration" content (especially since not every feature is part of that content). If you don't like it, can you add an H2 that differentiates the list of topics from the "Steps to a successful product demonstration" content? Otherwise, it just gets lost.-->
 ## Using Dynamics 365 Product Visualize
 
 The topics in this user guide describe everything you need to know about working with the app. They show you how to:
@@ -60,7 +59,7 @@ If you have 3D models of your products, you can show them to your client in a me
 
 > [!div class=mx-imgBorder]
 > ![Find a surface to place a model on](media/preface-find-surface.png "Find a surface to place a model on")
-<!--note from editor: I didn't add the following comment; is it worth keeping?-->
+
 <!--
 ![Model placed on a surface](media/preface-model-placed.png "Model placed on a surface")
 -->
@@ -73,7 +72,7 @@ After you've placed it, you can move the model around your space, rotate and res
 
 There are any number of uses for adding notes to your model. Notes capture images of your model in context, and you can attach text or annotate the image by drawing on it. You can add product specification and marketing information directly on the model, and you might add notes on your model before a meeting to highlight sales points specifically for the client. If the client has a question or comment during the meeting, you can record that in a note to follow up on later. This way, you capture comments in context on specific points of the model, so you and your teammates can always be on the same page.
 
-Notes you create can be exported by using Microsoft Teams or email. More information: [Add a note to a 3D model](add-note.md)<!--Suggest linking to the whole topic; there's good information even above the "Export a note" procedure.-->
+Notes you create can be exported by using Microsoft Teams or email. More information: [Add a note to a 3D model](add-note.md)
 
 > [!div class=mx-imgBorder]
 > ![Add a note to a model](media/preface-add-note.png "Add a note to a model")
@@ -92,16 +91,3 @@ Dynamics 365 Product Visualize sends your notes to your Sales timeline by defaul
 > [!div class=mx-imgBorder]
 > ![Enter conversation outcomes into Sales](media/dynamics-notes-timeline.png "Enter conversation outcomes into Sales")
 
-<!--
-The topics in this user guide describe everything you need to know about working with the app. They show you how to:
-
-- [Install, open, and sign in to the app](sign-in.md).
-- [Place and manipulate 3D models](manipulate-models.md).
-- [Add a note to your 3D model](add-note.md).
-- [Show or hide layers in your 3D model](layers.md).
-- [Explore sample 3D models](explore-samples.md).
-- [View 3D models stored on your device](browse-models.md).
-- [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md).
-- [Download 3D models to use offline](download-models.md).
-- [Enable product dimensions](product-dimensions.md).
--->

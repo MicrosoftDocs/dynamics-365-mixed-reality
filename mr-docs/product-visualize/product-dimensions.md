@@ -4,7 +4,7 @@ description: Learn how to display the dimensions of a product in a model in Dyna
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 05/05/2020
+ms.date: 06/04/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -26,7 +26,7 @@ Dynamics 365 Product Visualize includes a tool to display your model measurement
     > [!div class=mx-imgBorder]
     > ![Preview features](media/preview-features.png "Preview features")
 
-2. On the **Feature Settings** screen, turn on the **3D product dimensions** toggle.<!--Via Writing Style Guide.-->
+2. On the **Feature Settings** screen, turn on the **3D product dimensions** toggle.
 
     > [!div class=mx-imgBorder]
     > ![Product dimensions feature](media/product-dimensions-feature.png "Product dimensions feature")
@@ -38,7 +38,7 @@ Dynamics 365 Product Visualize includes a tool to display your model measurement
     > [!div class=mx-imgBorder]
     > ![Settings button](media/edit-account-settings.png "Settings button")
 
-2. Next to **Measurement unit**, tap **Change unit**.<!--I think this actually should be "Measurement units," to match Microsoft UI everywhere. "Change unit" is okay though. -->
+2. Next to **Measurement unit**, tap **Change unit**.
 
      > [!div class=mx-imgBorder]
      > ![Measurement unit section](media/measurement-units-section.png "Measurement unit section")

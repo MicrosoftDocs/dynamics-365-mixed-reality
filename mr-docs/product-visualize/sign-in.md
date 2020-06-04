@@ -4,7 +4,7 @@ description: Sign in to Dynamics 365 Product Visualize and connect to your Dynam
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 05/05/2020
+ms.date: 06/04/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -41,7 +41,7 @@ You can open and sign in to Dynamics 365 Product Visualize on your iOS device in
 
 1.	On your iOS device, search for **Dynamics 365 Product Visualize**, and then open the app.
 
-2.	On the welcome<!--Edit okay? I don't see that the screen actually displays "Welcome." --> screen, tap **Sign in**.
+2.	On the welcome screen, tap **Sign in**.
 
     ![Welcome screen](media/welcome.PNG "Welcome screen")
  
@@ -81,7 +81,7 @@ If you haven't already installed Dynamics 365 Product Visualize on your iOS devi
 
     - If the iOS app is already installed, select **Open Opportunity** to open the app.
 
-    - If you're using an iOS device but the app isn't already installed, tap **Learn More**, follow the instructions to install the app, and then sign in to the app by using the instructions in step 4<!--Edit okay? In the markdown the sequence skipped number 4, and it does look like step 4 applies here.--> of this procedure.
+    - If you're using an iOS device but the app isn't already installed, tap **Learn More**, follow the instructions to install the app, and then sign in to the app by using the instructions in step 4 of this procedure.
 
     > [!NOTE]
     > If you're using a laptop or an Android device, you can't use Dynamics 365 Product Visualize at this time. You can select **Learn More** to learn more about the app.
@@ -112,7 +112,7 @@ If you have access to more than one Dynamics 365 organization, you can use this 
     > [!div class=mx-imgBorder]
     > ![Account settings menu item](media/edit-account-settings.png "Account settings menu item")
   
-2.	On the **Settings**<!--Edit okay?--> screen, tap **Edit** next to the organization name you're signed in to.
+2.	On the **Settings** screen, tap **Edit** next to the organization name you're signed in to.
 
     > [!div class=mx-imgBorder]
     > ![Edit account settings](media/account-settings.png "Edit account settings")
@@ -120,7 +120,6 @@ If you have access to more than one Dynamics 365 organization, you can use this 
     > [!NOTE]
     > If you need to switch to a different username, tap **Sign out** on the previous screen, and then sign back in with a different username.
 
-<!--note from editor: These "See also" blocks didn't originally include "Enable product dimensions," so I added it to all the individual user guide topics. If it shouldn't be there because it's a preview feature, please excuse (and perhaps delete the link to "Download 3D models" too).-->
 ### See also
 
 [Place and manipulate 3D models](manipulate-models.md)<br>
