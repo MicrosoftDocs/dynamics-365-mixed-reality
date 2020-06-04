@@ -4,7 +4,7 @@ description: Learn how to show, hide, and select layers in a 3D model in Dynamic
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 05/05/2020
+ms.date: 06/04/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -35,7 +35,7 @@ You can create layers in a flattened or nested format by using CAD model design 
 
 
 ## Some tips for working with layers
-<!--note from editor: I made this an H2 because otherwise the only entry in the article TOC will be "Show or hide a layer," which just echoes the title of the article. -->
+
 - To expand or collapse a layer, tap the arrow button. 
 
     > [!div class=mx-imgBorder]

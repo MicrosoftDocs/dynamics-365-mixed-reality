@@ -11,8 +11,8 @@ ms.reviewer:
 ---
 
 # View 3D models without using your device's camera
-<!--Shubham, I'm afraid I had a hard time understanding this article, so please excuse if my suggested edits miss the mark. Firstly, the phrase "camera and augmented reality" was confusing to me. If I'm correctly interpreting what I've read about augmented reality (which we don't define in the Product Visualize doc set, by the way; maybe we should?), a person uses their camera to create a physical "place" to put a virtual model on, and this blending of real and virtual is "augmented reality." Second, the emphasis in the title seems a bit off: it's not as interesting that you're "viewing a model without using your camera," it's that you can use a blank background or any neat photo you want. But I'm not your typical reader, so maybe being able to bypass the camera is actually more interesting than the creative possibilities of a creating a custom background for 3D models?-->
-The default behavior for viewing 3D models in Dynamics 365 Product Visualize is to use your device's camera to create a physical background for the model in an augmented reality (AR) experience. When you enable the **Show AR mode toggle button** feature, you can turn off this default AR behavior, and instead place your model on a gray background or use a background image from your Photos library. When you turn AR mode back on, you can use your device's camera to place the 3D model as usual.
+
+The default behavior for viewing 3D models in Dynamics 365 Product Visualize is to use your device's camera and physical environment to place a 3D model. When you enable the **Show AR mode toggle button** feature, you can turn off this default behavior, and instead place your model on a gray background or use a background image from your Photos library. When you turn AR mode back on, you can use your device's camera to place the 3D model as usual.
 
 > [!NOTE]
 > Viewing 3D models without using your device's camera is a preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
@@ -24,7 +24,7 @@ The default behavior for viewing 3D models in Dynamics 365 Product Visualize is 
     > [!div class=mx-imgBorder]
     > ![Preview features](media/preview-features.png "Preview features")
 
-2. In the **Feature Settings** screen, set **Show AR mode toggle button** to **On**.<!--The Writing Style Guide would have this be "turn on the **Show AR mode toggle button** toggle," but I suggest using "setting" here. Not only to avoid "**toggle...** toggle", but to avoid a bit of confusion later when you talk about the **AR** toggle.-->
+2. In the **Feature Settings** screen, set **Show AR mode toggle button** to **On**.
 
     > [!div class=mx-imgBorder]
     > ![AR mode feature](media/ar-mode-feature.png "AR mode feature")

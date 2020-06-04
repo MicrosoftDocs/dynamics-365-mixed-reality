@@ -1,12 +1,13 @@
 ---
 title: FAQ for Dynamics 365 Product Visualize
-author: mamithan
 description: Frequently asked questions about Dynamics 365 Product Visualize
-ms.author: mamithan
-ms.date: 01/29/2020
+author: sbmjais
+ms.author: shjais
+manager: shujoshi
+ms.date: 06/04/2020
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: v-brycho
+ms.reviewer:
 ---
 
 # FAQ: Dynamics 365 Product Visualize
@@ -41,7 +42,7 @@ This message indicates that your organization requires administrator approval be
 
 ## Why don't I see my Dynamics 365 instances?
  
-Dynamics 365 Product Visualize can connect to instances of Sales version 9 or later<!--In setup-existing-instance.md, this is "version 9.0 or later." Okay to have them be slightly different? -->. It doesn't support on-premises Dynamics 365 solutions or older instances of Sales. Make sure your instance meets the [minimum requirements](requirements.md) for using Dynamics 365 Product Visualize. If your instance meets the requirements, make sure you're signed in to the app with the same credentials you use to access Sales.
+Dynamics 365 Product Visualize can connect to instances of Sales version 9.0 or later. It doesn't support on-premises Dynamics 365 solutions or older instances of Sales. Make sure your instance meets the [minimum requirements](requirements.md) for using Dynamics 365 Product Visualize. If your instance meets the requirements, make sure you're signed in to the app with the same credentials you use to access Sales.
 
 ## Why am I getting a message that says my organization isn't set up to use Dynamics 365 Product Visualize?
 
@@ -59,9 +60,9 @@ If an opportunity doesn't show up in the app, go to Dynamics 365 Sales Hub and e
 
 ## Why doesn't my model load?
 
-Models with very high polygon counts might take a long time to load, especially over slower connections. If the model doesn't load at all, the GLB file might not be valid. A corrupt or invalid GLB file can appear as if it were loading but it will never actually load. If this happens, restart the app and try again. If, after restarting, the model still fails to load, try re-exporting the GLB from your authoring software and upload it again to SharePoint. If that doesn't work, try loading the model in a different glTF viewer, such as [sandbox.BabylonJS.com](https://sandbox.babylonjs.com/).<!--Suggested. I think in this case it's a good idea to give the URL of the target because there's not much of a description on that page. -->
+Models with very high polygon counts might take a long time to load, especially over slower connections. If the model doesn't load at all, the GLB file might not be valid. A corrupt or invalid GLB file can appear as if it were loading but it will never actually load. If this happens, restart the app and try again. If, after restarting, the model still fails to load, try re-exporting the GLB from your authoring software and upload it again to SharePoint. If that doesn't work, try loading the model in a different glTF viewer, such as [sandbox.BabylonJS.com](https://sandbox.babylonjs.com/).
 
-Larger models might exceed the memory of the mobile device you're using. This is especially true for previous-generation iPhones. To reduce the model's memory requirements, reduce the size of any textures associated with the model and decimate the model to use fewer polygons.<!--Would this be a good place to link to further information, perhaps in the Import Tool docset? Or do we not want to emphasize it because it's still in preview?-->
+Larger models might exceed the memory of the mobile device you're using. This is especially true for previous-generation iPhones. To reduce the model's memory requirements, reduce the size of any textures associated with the model and decimate the model to use fewer polygons.
 
 ## How far away from the object must I stand to see it?
 
@@ -69,11 +70,11 @@ Initially, you must be 3 to 4 feet away from the location where you want to plac
 
 ## What's the best way to obtain tracking?
 
-Point the device<!--Suggested. "Down" makes me think you're pointing it perpendicular to the surface.--> so that it's parallel to the surface you want. Hold it there momentarily, and then slowly tilt the device up so that it's close to a 45-degree angle with the floor. If you still haven't obtained tracking, point the device toward the surface again, and slowly raise it and lower it while keeping it parallel to the surface. When tracking is gained, tilt the device up to the angle you want to use to point it at the location you want on the surface.<!--Edits okay?-->
+Point the device down so that it's parallel to the surface you want. Hold it there momentarily, and then slowly tilt the device up so that it's close to a 45-degree angle with the floor. If you still haven't obtained tracking, point the device toward the surface again, and slowly raise it and lower it while keeping it parallel to the surface. When tracking is gained, tilt the device up to the desired angle pointing it at the desired placement location on the surface. 
  
 ## What should I do if I lose tracking during a presentation? 
 
-Initially, you should try orienting the device so it's parallel to the surface<!--As above, "pointing the device down so it's parallel to the surface" makes me think the surface must be upright.-->, and then slowly tilting it up. If that doesn't restore tracking, tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Opportunities**. Tap the opportunity that contains the product, and then tap the product that contains the model you were viewing. You'll then need to go through the placement process again by using the initial model in the product. After placing the initial model, tap **Models** on the right side of the screen to open the model menu. From the model menu, find the model you want, and then tap it to place it on the selected surface. 
+Initially, you should try pointing the device down so it's parallel to the surface, and then slowly tilting it up. If that doesn't restore tracking, tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Opportunities**. Tap the opportunity that contains the product, and then tap the product that contains the model you were viewing. You'll then need to go through the placement process again by using the initial model in the product. After placing the initial model, tap **Models** on the right side of the screen to open the model menu. From the model menu, find the model you want, and then tap it to place it on the selected surface. 
  
 ## What surfaces and locations are best to track on? 
 
@@ -103,13 +104,13 @@ If the model you want is in another product or opportunity:
  
 ## How do I export the text and image in my note to send in email? 
 
-Go to the note you want to export. Tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu")<!--I removed bold from "Overflow" because I assume that's not the tooltip on the icon, but please reject the edit if this icon does have such a tooltip.--> on the note. Tap **Export Note** on the pop-up menu, and then tap **Email**. Tap the app that you use for email.  
+Go to the note you want to export. Tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu") on the note. Tap **Export note** on the pop-up menu, and then tap **Email**. Tap the app that you use for email.  
  
 ## How do I download and retain a model locally? 
 
-First, you must enable offline mode. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen. Tap **Preview features**. Turn on the **Offline mode feature** toggle.<!--Writing Style Guide--> 
+First, you must enable offline mode. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen. Tap **Preview features**. Turn on the **Download products to view offline** toggle. 
 
-Go to your opportunities, and tap the one that has the product you want to save. Locate the icon that shows a cloud with a down-pointing arrow in the lower-right corner<!--Edit okay? That's what the screenshots seem to show.--> of each product. Tap the cloud icon in the product that has the model you want. This starts a download process that changes the icon to a square and a loading circle. After every model in the product has been downloaded, a blue circle with a check mark will appear. Those models are now available on your device. 
+Go to your opportunities, and tap the one that has the product you want to save. Locate the icon that shows a cloud with a down-pointing arrow in the lower-right corner of each product. Tap the cloud icon in the product that has the model you want. This starts a download process that changes the icon to a square and a loading circle. After every model in the product has been downloaded, a blue circle with a check mark will appear. Those models are now available on your device. 
  
 If you lose network connectivity and want to view the downloaded files, restart the app, and then go to the opportunity and product as before. The models that were downloaded should appear and be accessible from the product.  
  
@@ -121,12 +122,12 @@ Notes are currently saved to the opportunity they were made in. If someone with 
 
 Currently, you can only make new notes or delete notes.
 
--  To make a new note, on the **Notes** menu, tap **Add Note**.
--  To delete a note, tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu") in the upper-right corner of the note, tap **Delete Note**, and then confirm.
+-  To make a new note, on the **Notes** menu, tap **Add**.
+-  To delete a note, tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu") in the upper-right corner of the note, tap **Delete note**, and then confirm.
 
 ## If I delete a note, how can I recover it? 
 
-You can't recover a deleted note by using the app. However, the note is saved in Dynamics 365<!--How can the user get to this note? I think it would be worth describing it here.--> even if it has been deleted, so you can recover the text and image and use them in the app again. 
+You can't recover a deleted note by using the app. However, the note is saved in Dynamics 365 even if it has been deleted, so you can recover the text and image and use them in the app again. 
  
 ## Can I walk away from my model and come back later? 
 

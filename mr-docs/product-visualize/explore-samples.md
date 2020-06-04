@@ -1,12 +1,13 @@
 ---
 title: Explore sample 3D models in Dynamics 365 Product Visualize
-author: mamithan
 description: How to explore sample models without a Dynamics 365 subscription
-ms.author: mamithan
-ms.date: 05/05/2020
+author: sbmjais
+ms.author: shjais
+manager: shujoshi
+ms.date: 06/04/2020
 ms.service: crm-online
 ms.topic: article
-ms.reviewer: v-brycho
+ms.reviewer:
 ---
 
 # Explore sample 3D models in Dynamics 365 Product Visualize
@@ -16,7 +17,7 @@ ms.reviewer: v-brycho
 Dynamics 365 Product Visualize comes with sample 3D models you can try out even if you don't have a Dynamics 365 subscription. Use the sample content to try the Dynamics 365 Product Visualize app and play with 3D models. When you explore a 3D model this way, you place it just like you would any other 3D model, and you can also add notes to the model. However, any notes you add to a sample model won't be saved when you close Dynamics 365 Product Visualize.
 
 **To open a sample 3D model**
-<!--note from editor: If this heading is the only H2 (and it merely echoes the title of the article), you don't need it to be an H2. There's a similar situation in add-model.md. Procedure headings don't actually need to be in the article TOC at all unless they occur under different H2s; that's why by default they're simply formatted in bold without any heading style.-->
+
 1. Open the Dynamics 365 Product Visualize app.
 
 2. On the welcome screen, tap **Try it**.

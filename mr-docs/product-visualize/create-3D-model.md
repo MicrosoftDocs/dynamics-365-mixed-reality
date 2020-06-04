@@ -4,7 +4,7 @@ description: Learn how to convert and optimize 3D models for use with Dynamics 3
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 10/01/2019
+ms.date: 06/04/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

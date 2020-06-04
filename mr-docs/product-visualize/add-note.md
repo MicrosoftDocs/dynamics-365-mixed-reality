@@ -4,12 +4,12 @@ description: Learn how to add notes (including text, drawings, and video) to a 3
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 05/05/2020
+ms.date: 06/04/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
 ---
-<!--note from editor: Please double-check edits to the description. Is it okay to mention attaching videos, since it's a preview feature? -->
+
 # Add a note to a 3D model in Dynamics 365 Product Visualize
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
@@ -84,7 +84,7 @@ The following images show how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Photo](media/camera-roll.png "Tap Photo")
 
-3. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap **Next** ![Next](media/next.png "Next").<!--Edit okay? I thought it might be nice to have a little icon here.-->
+3. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap **Next** ![Next](media/next.png "Next").
 
     > [!div class=mx-imgBorder]
     > ![Draw or add text](media/draw-add-text.png "Draw or add text")
@@ -158,7 +158,7 @@ You can export your notes to share them with other apps on your device that supp
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2.	Navigate<!--ed. note: I generally would replace "navigate" with "go" to match the style guide, but in cases like this where you're describing moving around within a very graphical user interface, it doesn't seem to fit.--> to the note you want to export, and tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu")<!--As noted in faq.md, I removed bold formatting from "Overview" because I assume the icon has no such tooltip. If that's wrong, please reject. --> in the upper-right corner of the notes card.
+2.	Navigate to the note you want to export, and tap the overflow menu ![Overflow menu](media/overflow-button.png "Overflow menu") in the upper-right corner of the notes card.
 
     > [!div class=mx-imgBorder]
     > ![Navigate to the note you want to export](media/note.png "Navigate to the note you want to export")

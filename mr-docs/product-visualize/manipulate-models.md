@@ -4,7 +4,7 @@ description: How to place, resize, rotate, move, and lift 3D models in Dynamics 
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 05/05/2020
+ms.date: 06/04/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -87,7 +87,7 @@ To move your model left or right, away or toward you, just drag it with one fing
 To lift your model in a vertical direction up or down, use two fingers placed side by side on the screen and slowly drag the model in the direction you want.
 
 > [!TIP]
-> - If you want to place your model onto a new surface (that is, one higher or lower than the original surface you scanned), you must go back to the **Products** page and reload the model to place it on a new surface. Moving a model to a new surface after you've lifted it can interfere with re-scanning the new surface.<!--Edit okay? There was a bit of a misplaced modifier in the original.-->
+> - If you want to place your model onto a new surface (that is, one higher or lower than the original surface you scanned), you must go back to the **Products** page and reload the model to place it on a new surface. Moving a model to a new surface after you've lifted it can interfere with re-scanning the new surface.
 > - Just as with moving your model, it's possible to lift or lower the model so far away that it suddenly appears tiny and difficult to manipulate. Simply use two fingers to drag the model back up or down until it appears to be back where you originally placed it.
 
 > [!div class=mx-imgBorder]
@@ -107,7 +107,7 @@ After placing a model, you can easily switch to view a different model.
     > [!div class=mx-imgBorder]
     > ![Models screen](media/3D-models.png "Models screen")
  
-3.	Place the model as [described previously](#view-place-a-3d-model-in-mixed-reality).<!--Edit okay? The literal "previous procedure" is about lifting a model up or down.-->  
+3.	Place the model as [described previously](#view-place-a-3d-model-in-mixed-reality). 
 
 ### See also
 

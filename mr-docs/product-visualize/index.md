@@ -4,7 +4,7 @@ description: Dynamics 365 Product Visualize empowers sellers to showcase and cus
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 04/01/2020
+ms.date: 06/04/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -21,7 +21,7 @@ ms.reviewer:
 
 Dynamics 365 Product Visualize empowers sellers to showcase and customize products in a real-world environment. This helps create a shared understanding between buyer and seller to accelerate complex sales processes. In industries like manufacturing, healthcare, and automotive, where products are often complex and highly configurable or simply too cumbersome to carry around, product visualization is key. It builds a buyer's confidence early in the sales process, so costly change orders are reduced and customer satisfaction is higher.
 
-Using Dynamics 365 Product Visualize, sellers can show products to customers directly within their Dynamics 365 Sales workflow. Spatial and configuration notes are all saved directly within the associated sales opportunity. Because sales tasks commonly involve<!--Edit okay? --> more than just one individual, sellers can leverage session content directly in Microsoft Teams to improve internal collaboration and deliver customer-oriented solutions that are critical to accelerating the sales process.
+Using Dynamics 365 Product Visualize, sellers can show products to customers directly within their Dynamics 365 Sales workflow. Spatial and configuration notes are all saved directly within the associated sales opportunity. Because sales tasks commonly involve more than just one individual, sellers can leverage session content directly in Microsoft Teams to improve internal collaboration and deliver customer-oriented solutions that are critical to accelerating the sales process.
 
 ### See also
 
