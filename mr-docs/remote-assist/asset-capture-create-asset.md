@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Create asset records
 
-Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way for technicians to capture data in the field through Remote Assist, like photos with spatial markup of a generator captured during an inspection. Assets are the type of records technicians will select in the HoloLens to start capturing data to, such as photos. You can think of an Asset record as a folder with the asset name (e.g. Generator 4th Floor - NW Building) that data is saved in, enabling people in your organization to easily access this data. Overtime, the asset record becomes a historical record and audit trail showing how an asset changed over time and the various work performed on the asset.
+Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way for technicians to capture data in the field through Remote Assist, like photos with spatial markup of a generator captured during an inspection. Assets are the type of records technicians will select in the HoloLens to start capturing data to, such as photos. By guiding technicians to capture data to an asset record, you can ensure data is captured to the right place and in a consistent way that can be easily located and utilized by the people in your organization.  Overtime, the asset record becomes a historical record and audit trail showing how an asset changed over time and the various work performed on the asset.
 
 In this article, you will learn how to create new asset records, import  assets records from another system, and view asset records in the Remote Assist unified client app (on the web).
 
@@ -33,7 +33,7 @@ Assets can be created:
 
 From the main menu of your environment, select **Remote Assist** > **Assets** > **+ New**
 
-![Screenshot of the Remote Assist unified client app.](./media/AC_CreateAsset.png "Remote Assist app")
+![Screenshot of the Remote Assist unified interface app.](./media/AC_CreateAsset.png "Remote Assist app")
 
 For the following fields:
 
@@ -43,7 +43,7 @@ For the following fields:
 - **Product**: Add the product that the asset correlates to. An example would be the make and model of a specific generator you maintain and operate.
 - **Parent Asset**: Remote Assist supports hierarchical asset structures. For example, a part can be the child of a widget, which is the child of a machine. You can have as many parent-child relationships as needed. Use this field to identify the direct parent of this asset. The Master Asset shows the top-level parent in the relationship automatically. Additionally, you can use the Sub Asset grid on the form to add child  assets.
 
-When done, click **Save**.
+When done, select **Save**.
 
 ## Import assets
 
