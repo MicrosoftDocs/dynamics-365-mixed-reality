@@ -60,3 +60,25 @@ In this tutorial, you learned how to view assets in the HoloLens and capture pho
 
 > [!div class="nextstepaction"]
 > [Review asset captures](./asset-capture-review.md)
+
+## Troubleshooting
+
+### There are no assets when I select the Assets tab
+
+1. Ensure the environment you are using has asset records created in it. See [Create asset records](./asset-capture-create-asset.md).
+2. Try selecting **Retry** if prompted in the Assets tab.
+3. If you added the asset records *after* you launched Remote Assist, close the app and relaunch it to pull the latest updates.
+
+### Remote Assist says to contact my IT admin in the Assets tab
+
+1. Ensure the app was installed to the desired environment. More info: [Install Dynamics 365 Remote Assist model-driven app](./asset-capture-setup-environment.md#install-dynamics-365-remote-assist-model-driven-app).
+2. The user must have the **Remote Assist - App User** role and **Common Data Service User** security roles assigned. More info: [Assign Dynamics 365 security roles](./asset-capture-add-users.md#assign-dynamics-365-security-roles).
+3. After validating these steps, close the app and the live tile, and then relaunch.
+
+### The asset records I see are not what I expect to see
+
+The user account may have access to more than 1 environment with Remote Assist installed. In this case, you need to select the desired environment to use.
+
+1. Select **Settings** > **Links** > **Switch Dynamics Instance**.
+2. Select the desired environment from the list.
+3. Select the **Assets** tab. You may need to select **Retry** if prompted.

@@ -72,7 +72,7 @@ If you aren't able to toggle **Enable Dynamics 365 apps** during environment cre
 | Europe (EMEA) | June 15th, 2020|
 | North America (NAM) | June 17th, 2020|
 
-### Remote Assist doesn't show up in dropdown
+### Remote Assist doesn't show up in app dropdown
 
 If you're able to toggle **Enable Dynamics 365 apps**, but Remote Assist isn't in the dropdown:
 
@@ -81,6 +81,16 @@ If you're able to toggle **Enable Dynamics 365 apps**, but Remote Assist isn't i
 3. Select **Save**.
 
 Once the environment is ready, follow the instructions below to **Use an existing environment** to install the Remote Assist app and select the environment created in this step.
+
+### The Remote Assist app isn't showing up in Power Platform Admin Center
+
+1. Check to ensure you have an active Dynamics 365 Remote Assist subscription.
+2. Try assigning a Remote Assist license to your account from [Microsoft 365 Admin Center](https://admin.microsoft.com) to force a license sync to occur. Wait 5 minutes and see if the app appears in [Power Platform Admin Center](https://admin.powerplatform.com). The license can be unassigned afterwards.
+3. If the steps above do not resolve the issue, file a **support request** by navigating to [Power Platform Admin Center](https://admin.powerplatform.com) > **Help + support** > **New support request**.
+
+### The Remote Assist model-driven app failed to install because of missing dependencies
+
+This will occur if you try installing Remote Assist in an environment that is not **Enabled for Dynamics 365 apps**. Try installing the app in an environment where other Dynamics apps are available, such as Field Service or Sales, or create a new environment that is Enabled for Dynamics 365 apps. Learn more: [Create a new environment](./asset-capture-setup-environment.md#install-dynamics-365-remote-assist-model-driven-app)
 
 ### Not enough capacity to create environments
 

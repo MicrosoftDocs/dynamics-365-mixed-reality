@@ -49,12 +49,13 @@ Get started with the Asset Capture public preview by starting with this tutorial
 - Support for video capture isn't available in the June release and is **planned**
 - During sign-in, Remote Assist will try to automatically select the first environment the user has access to with the Remote Assist app installed. If the user has access to more than one environment with the Remote Assist app installed, the desired environment can be set by selecting **Settings** > **Links** > **Switch Dynamics Instance**.
 - Fields such as Account, Product, Category, and asset hierarchy are not visible in the HoloLens. Overtime we will add more support for relevant fields in the Remote Assist client apps.
+- The snapshot tool has been replaced with the Asset Capture capabilities. Select an asset from the **Assets** tab and use the camera tool to take photos. You can re-enable the snapshot tool by turning off the Asset Capture feature from **Settings**.
 
 ### Entity reference
 
 Asset Capture uses several entities stored in Common Data Model:
 
-- **Customer Asset**: the individual asset. This entity is also used in Dynamics 365 Field Service and Connected Field Service. Find more information about this entity here: [msdyn_customerasset EntityType](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/msdyn_customerasset?view=dynamics-ce-odata-9)
+- **Customer Asset**: the individual asset. This entity is also used in Dynamics 365 Field Service and Connected Field Service. More info: [msdyn_customerasset EntityType](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/msdyn_customerasset?view=dynamics-ce-odata-9)
 - **Customer Asset Category**: a way to describe a group of similar assets.
 - **Customer Asset Attachment**: a media artifact captured in HoloLens of a single asset.
 - **Account**: the customer account where the asset currently exists.
@@ -69,30 +70,3 @@ Asset Capture uses several entities stored in Common Data Model:
 - Captures viewed from the model-driven app may not appear the first time when loading the capture. If this happens, refresh the page and the capture preview will appear.
 - Maximum support for 5,000 asset records.
 - Remote Assist on HoloLens will not automatically update the list of asset records. If you create or update an asset from the model-driven app and do not see it in the HoloLens, restart Remote Assist on HoloLens by closing the live tile and reopening the app.
-
-### Troubleshooting
-
-#### The Remote Assist app isn't showing up in Power Platform Admin Center
-
-1. Check to ensure you have an active Dynamics 365 Remote Assist subscription.
-2. Try assigning a Remote Assist license to your account from [Microsoft 365 Admin Center](https://admin.microsoft.com) to force a sync to occur. Wait 5 minutes and see if the app appears in [Power Platform Admin Center](https://admin.powerplatform.com). The license can be unassigned afterwards.
-3. File a **support request** by navigating to [Power Platform Admin Center](https://admin.powerplatform.com) > **Help + support** > **New support request**.
-
-#### I can't find the Remote Assist model-driven app
-
-1. Check to see if you are accessing the right environment by checking the environment name in the URL.
-2. Ensure the app was installed to the desired environment. Learn more: [Install Dynamics 365 Remote Assist model-driven app](./asset-capture-setup-environment.md#install-dynamics-365-remote-assist-model-driven-app)
-3. The user must have the **Remote Assist - App User** role and **Common Data Service User** security roles assigned. Learn here: [Assign Dynamics 365 security roles](./asset-capture-add-users.md#assign-dynamics-365-security-roles)
-4. The app must be enabled for the **Remote Assist - App User** role. Learn more: [Manage app roles](./asset-capture-add-users.md#manage-app-roles)
-
-#### The environment I installed Remote Assist in doesn't appear in the HoloLens
-
-Follow steps 2 and 3 from above.
-
-#### The Snapshot tool is missing
-
-The snapshot tool has been replaced with the Asset Capture capabilities. Select an asset from the **Assets** tab and use the camera tool to take photos. You can re-enable the snapshot tool by turning off the Asset Capture feature from **Settings**.
-
-#### The Remote Assist model-driven app failed to install because of missing dependencies
-
-This will occur if you try installing Remote Assist in an environment that is not **Dynamics 365 apps enabled**. Try installing the app in an environment where other Dynamics apps are available, such as Field Service or Sales, or create a new environment that is Dynamics 365 apps enabled. Learn more: [Create a new environment](./asset-capture-setup-environment.md#install-dynamics-365-remote-assist-model-driven-app)

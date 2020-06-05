@@ -35,10 +35,18 @@ To complete this article, you need:
 6. Captures can be downloaded by selecting **Download** below the image preview control.
 ![Screenshot of the asset capture image preview.](./media/06.23-asset-capture-image-preview-expanded.png "Remote Assist")
 
-
 ## Next steps
 
 In this tutorial, you learned how to view asset captures in the Remote Assist model-driven app. To learn how to use Power Automate Flows to automate your business processes like generating reports with asset captures or notifying a Teams Channel when new asset data is captured, see:
 
 > [!div class="nextstepaction"]
 > [Automate asset capture data](./asset-capture-automation.md)
+
+## Troubleshooting
+
+### Can't find the Remote Assist model-driven app
+
+1. Check to see if you are accessing the right environment by checking the environment name in the URL.
+2. Ensure the app was installed to the desired environment. More info: [Install Dynamics 365 Remote Assist model-driven app](./asset-capture-setup-environment.md#install-dynamics-365-remote-assist-model-driven-app)
+3. The user must have the **Remote Assist - App User** role and **Common Data Service User** security roles assigned. More info: [Assign Dynamics 365 security roles](./asset-capture-add-users.md#assign-dynamics-365-security-roles)
+4. The app must be enabled for the **Remote Assist - App User** role. More info: [Manage app roles](./asset-capture-add-users.md#manage-app-roles)
