@@ -34,7 +34,11 @@ Date: June 2020
 
 ### Bug fixes
 
-* Enter bug fixes below
+* Various fixes to enable users in Egypt to use Remote Assist
+* Fixed bug with the snapshot tool causing photos taken with the snapshot tool to not be sent through Teams chat
+* Fixed bug in group calls where remote collaborators are unable to annotate from Microsoft Teams client
+* Various near-field / far-field interaction fixes
+* Fixed bug where the outgoing video feed may not work when answering a call from the HoloLens shell
 
 ## HoloLens 1 & 2 – 208.2004.1002.0
 
