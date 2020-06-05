@@ -36,12 +36,9 @@ There are a couple ways you can install the Dynamics 365 Remote Assist app:
 1. Sign in to the [Power Platform Admin Center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 2. In the navigation pane, select **Environments**, and then select **New**.
 3. Enter a name, choose Production or Sandbox, and choose Yes to **Create a database for this environment**. Select **Next**.
-4. Select Yes to **Enable Dynamics 365 apps** and then select **Remote Assist** from the dropdown and select **Save**. This will create an environment and automatically install the Remote Assist app.
+4. Select Yes to **Enable Dynamics 365 apps** and then select **Remote Assist** from the dropdown and select **Save**. This will create an environment and automatically install the Remote Assist app. If you encounter an issue, see [Troubleshooting](#troubleshooting) below.
 
-> [!IMPORTANT]
-> If you do not see Remote Assist in the dropdown, it may not be available in your region yet for automatic deployment. If so, leave the toggle enabled but don't select any apps in the dropdown and proceed with creating the environment. Once created, follow the instructions below to **Use an existing environment**.
-
-For more detailed documentation on creating Dynamics 365 Environments refer to this doc: [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center)
+For more detailed documentation on creating Dynamics 365 Environments, see: [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center)
 
 ### Use an existing environment
 
@@ -62,3 +59,29 @@ The next tutorial goes into detail about adding users to the preview so they can
 
 > [!div class="nextstepaction"]
 > [Add users to the preview](./asset-capture-add-users.md)
+
+## Troubleshooting
+
+### Can't enable Dynamics 365 apps
+
+If you aren't able to toggle **Enable Dynamics 365 apps** during environment creation, the licensing changes required for the preview may not be available in your *tenant's* region yet. See region availability below:
+
+|Regions|Availability|
+|-----|-----|
+|Canada (CAN) </br> South America (LATAM/SAM) </br>India (IND) </br> France (FRA) </br> United Arab Emirates (UAE) </br> South Africa (ZAF) </br> Germany (GER) </br> Asia Pacific (APJ) </br> United Kingdom (UK) </br> Australia (OCE) </br> Japan (JPN) </br> | June 12th, 2020|
+| Europe (EMEA) | June 15th, 2020|
+| North America (NAM) | June 17th, 2020|
+
+### Remote Assist doesn't show up in dropdown
+
+If you're able to toggle **Enable Dynamics 365 apps**, but Remote Assist isn't in the dropdown:
+
+1. Leave the toggle **enabled**.
+2. Don't select any apps in the dropdown.
+3. Select **Save**.
+
+Once the environment is ready, follow the instructions below to **Use an existing environment** to install the Remote Assist app and select the environment created in this step.
+
+### Not enough capacity to create environments
+
+Environment creation requires at least 1 GB of available database capacity. Paid subscriptions of Remote Assist provide a default tenant entitlement of 10GB of database capacity (if Remote Assist is your first Dynamics 365 subscription). If you are on a trial and don't have any existing Dynamics 365 subscriptions that grant database capacity, you will not be able to evaluate the preview.
