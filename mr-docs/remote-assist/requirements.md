@@ -58,43 +58,32 @@ To collaborate with a Remote Assist user, a Microsoft Teams user may only use th
 
 A variety of network conditions, including bandwidth, latency, jitter, and packet loss, can impact your video calling experience. Although audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation.
 
-In most circumstances, 
-- [1.5Mbps up/down is required](https://docs.microsoft.com/en-us/MicrosoftTeams/prepare-network#bandwidth-requirements) for peer-to-peer HD quality video calling with resolution of HD 1080p at 30fps
-- When more bandwidth is available, quality and usage will increase to deliver the best experience
-- 4-5Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p
+In most circumstances,
 
-However, in some circumstances, even 4-5Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (1st gen) and using SimulCast. 
+-   [1.5Mbps up/down is required](https://docs.microsoft.com/en-us/MicrosoftTeams/prepare-network#bandwidth-requirements)
+-   When more bandwidth is available, quality and usage will increase to deliver the best experience
+-   4-5Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p
 
-You can use Remote Assist on mobile devices in **low-bandwidth environments** between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
+However, in some circumstances, even 4-5Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (1st gen).
 
-### Recommended network infrastructure setup
+You can use Remote Assist on mobile devices in low-bandwidth environments between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
 
-- Be on a dedicated SSID
-- Configure your SSID to be on 5Ghz
-- Use WiFi 5 (i.e., 802.11ac) or AC Access Points
-- Use a router with MU-MIMO capabilities 
+### Network optimization recommendations
 
-### Test your company’s network bandwidth 
+The following tasks are a checklist of other potential optimizations for Remote Assist:
 
-1. Have a Teams user start a video call with another Teams user.
-2. Add a separate video call between a third and fourth user, and another for a fifth and sixth user
-3. Continue adding video calls to stress-test your network bandwidth until
-    you’re confident that multiple users can successfully connect on video calls
-    at the same time.
+-   [Monitor your network using CQD and call analytics](https://docs.microsoft.com/en-us/MicrosoftTeams/prepare-network#best-practice-monitor-your-network-using-cqd-and-call-analytics)
+-   Review Teams' recommendations [for optimizing your network](https://docs.microsoft.com/en-us/MicrosoftTeams/prepare-network#network-optimization)
+-   Be on a dedicated SSID. The dedicated SSID should be on the 5-Ghz band only; disable 2.4 Ghz.
+-   Use a router with MU-MIMO capabilities
 
 ### Additional resources
 
-Calculate jitter [using a simple ping test](http://www.3rdechelon.net/jittercalc.asp) or [using MegaPath's speed test.](https://www.megapath.com/speedtestplus/ping-jitter-test)
+- Learn how to troubleshoot and address internal infrastructure issues using [Teams Call Analytics](https://docs.microsoft.com/en-us/MicrosoftTeams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics) or [Teams Call Quality Dashboard (CQD)](https://docs.microsoft.com/en-us/MicrosoftTeams/quality-of-experience-review-guide).
 
-Learn how to troubleshoot and address internal infrastructure issues using [Teams Call Analytics](https://docs.microsoft.com/en-us/MicrosoftTeams/use-call-analytics-to-troubleshoot-poor-call-quality#troubleshoot-call-quality-problems-using-call-analytics) or [Teams Call Quality Dashboard (CQD)](https://docs.microsoft.com/en-us/MicrosoftTeams/quality-of-experience-review-guide).
+- See [Prepare your organization's network for Microsoft Teams](https://docs.microsoft.com/en-us/MicrosoftTeams/prepare-network) to learn more.
 
-See [Prepare your organization’s network for Microsoft
-Teams](https://docs.microsoft.com/MicrosoftTeams/prepare-network) to learn
-more.
-
-Prepare your organization's network for Teams - Microsoft TeamsLearn about preparing your organization's network for Microsoft Teams, including network requirements, network optimization, and bandwidth requirements.docs.microsoft.com
-
-### See also
+## See also
 - [Overview of Dynamics 365 Remote Assist](ra-overview.md)
 - [Try Dynamics 365 Remote Assist for free](try-remote-assist.md)
 - [Buy Dynamics 365 Remote Assist](deploy-remote-assist.md)
