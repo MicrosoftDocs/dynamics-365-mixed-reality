@@ -22,7 +22,7 @@ To complete this article, you need:
 
 ## View asset captures
 
-1. From the main menu of your environment, select **Remote Assist** > **Assets** > and the asset you captured data to in the previous tutorial.
+1. From the main menu of your environment, select **Remote Assist** > **Assets** > and select the asset used in the previous tutorial.
 ![Screenshot of the asset record list in Remote Assist web.](./media/06.19-asset-list.png "Remote Assist")
 2. Select the **Captures** tab on the asset form to view the list of captures.
 ![Screenshot of the asset record form.](./media/06.20-asset-record.png "Remote Assist")
@@ -34,6 +34,8 @@ To complete this article, you need:
 ![Screenshot of an annotated image capture](./media/06.27-asset-capture-image-preview-annotated.png)
 6. Captures can be downloaded by selecting **Download** below the image preview control.
 ![Screenshot of the asset capture image preview.](./media/06.23-asset-capture-image-preview-expanded.png "Remote Assist")
+7. Quickly switch between captures by selecting the **Open Record set** button to the left of the **Save** button. The captures related to the asset appear on the left.
+![Screenshot of open record set control.](./media/06.28-asset-capture-switcher.png "Remote Assist")
 
 ## Next steps
 

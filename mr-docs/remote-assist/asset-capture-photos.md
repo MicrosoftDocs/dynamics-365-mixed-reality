@@ -10,9 +10,9 @@ ms.reviewer: krbjoran
 ---
 # Capture asset conditions with spatial markup in HoloLens 2
 
-Remote Assist can be used to capture procedures and defects during jobs such as an inspection or while performing a repair. As an example, a technician can use Remote Assist on the HoloLens to capture photos of the equipment they are inspecting to highlight defects like wear and corrosion. The photos can then be viewed and downloaded from the Remote Assist UCI app by stakeholders within the organization, such as a service manager or site superintendent.
+Remote Assist can be used to capture procedures and defects during jobs such as an inspection or while performing a repair. As an example, a technician can use Remote Assist on the HoloLens to capture photos of the equipment they are inspecting to highlight defects like wear and corrosion. The photos can then be viewed and downloaded from the Remote Assist model-driven app by stakeholders within the organization, such as a service manager or site superintendent.
 
-In this article, you will learn how to use the HoloLens 2 to view asset records created from the Remote Assist UCI app and capture photos of assets with spatial markup.
+In this article, you will learn how to use the HoloLens 2 to view asset records created from the Remote Assist model-driven app and capture photos of assets with spatial markup.
 
 ## Prerequisites
 
@@ -34,7 +34,7 @@ From Remote Assist, select **Settings** > **Preview Features**, and toggle the A
 
 ### View the asset list
 
-Select the **Assets** tab. The list of assets entered through the Remote Assist UCI app are displayed in descending order by the last created date. At the bottom of the window, there is a search bar to search for assets by the **Name** field.
+Select the **Assets** tab. The list of assets entered through the Remote Assist model-driven app are displayed in descending order by the last created date. At the bottom of the window, there is a search bar to search for assets by the **Name** field.
 
 > [!NOTE]
 > The **Assets** tab is also accessible during a call. As an example, while performing a real-time remote inspection, photos of the asset(s) being inspected can be captured to the asset record from the **Assets** tab.
@@ -52,11 +52,11 @@ Select the **Assets** tab. The list of assets entered through the Remote Assist 
 Any existing photo can be selected in the asset view to preview in the HoloLens environment. If the current user took the photo, they can also delete that photo in the preview window.
 
 > [!NOTE]
-> Captured photos are saved both locally to the HoloLens and to Common Data Service (CDS) where they're viewable from the Remote Assist UCI app.
+> Captured photos are saved both locally to the HoloLens and to Common Data Service (CDS) where they're viewable from the Remote Assist model-driven app.
 
 ## Next steps
 
-In this tutorial, you learned how to view assets in the HoloLens and capture photos to the asset record with spatial markup. To learn how to review the captured data from the Remote Assist UCI app, see:
+In this tutorial, you learned how to view assets in the HoloLens and capture photos to the asset record with spatial markup. To learn how to review the captured data from the Remote Assist model-driven app, see:
 
 > [!div class="nextstepaction"]
 > [Review asset captures](./asset-capture-review.md)
@@ -67,7 +67,7 @@ In this tutorial, you learned how to view assets in the HoloLens and capture pho
 
 1. Ensure the environment you are using has asset records created in it. See [Create asset records](./asset-capture-create-asset.md).
 2. Try selecting **Retry** if prompted in the Assets tab.
-3. If you added the asset records *after* you launched Remote Assist, close the app and relaunch it to pull the latest updates.
+3. If you added the asset records from the model-driven app while Remote Assist was already open on the HoloLens, close the app on HoloLens and relaunch it to pull the latest updates.
 
 ### Remote Assist says to contact my IT admin in the Assets tab
 

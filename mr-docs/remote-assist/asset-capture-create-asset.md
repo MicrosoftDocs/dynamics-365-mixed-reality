@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Create asset records
 
-Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way for technicians to capture data in the field through Remote Assist, like photos with spatial markup of a generator captured during an inspection. Assets are the type of records technicians will select in the HoloLens to start capturing data to, such as photos. By guiding technicians to capture data to an asset record, you can ensure data is captured to the right place and in a consistent way that can be easily located and utilized by the people in your organization.  Overtime, the asset record becomes a historical record and audit trail showing how an asset changed over time and the various work performed on the asset.
+Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way for technicians to capture data in the field through Remote Assist, such as capturing annotated photos of a generator asset during an inspection. By guiding technicians to capture data to an asset record, you can ensure data is captured to the right place, in a consistent way, so individuals in your organization can easily locate and use that data. With continued use overtime, the asset record becomes a historical record and audit trail showing how an asset changed over time and the various work performed on the asset.
 
 In this article, you will learn how to create new asset records, import  assets records from another system, and view asset records in the Remote Assist unified client app (on the web).
 
@@ -33,7 +33,9 @@ Assets can be created:
 
 From the main menu of your environment, select **Remote Assist** > **Assets** > **+ New**
 
-![Screenshot of the Remote Assist unified interface app.](./media/AC_CreateAsset.png "Remote Assist app")
+![Screenshot of the Remote Assist model-driven app.](./media/06.28-asset-list-new.png)
+
+![Screenshot of the Remote Assist model-driven app.](./media/AC_CreateAsset.png "Remote Assist app")
 
 For the following fields:
 

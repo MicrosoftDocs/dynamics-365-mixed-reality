@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Add users to the Asset Capture preview
 
-Learn how to add users to the Asset Capture public preview so they can access the app and use the HoloLens 2 to capture asset data.
+Learn how to add users to the Asset Capture public preview so they can access the model-driven app and use the HoloLens 2 to capture asset data.
 
 In this tutorial, you assign users a Remote Assist license and security roles.
 

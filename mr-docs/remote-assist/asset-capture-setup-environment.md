@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Setup a Dynamics 365 Environment
 
-This tutorial is the first of a series. As you progress through the series, you will create an environment and install the app, add users to the environment, learn how to import and create asset records, capture pictures with spatial markup, review the captured pictures from the Dynamics 365 Remote Assist app, and learn how to create Power Automate Flows to automate business processes with asset capture data.
+This tutorial is the first of a series. As you progress through the series, you will create an environment and install the app, add users to the environment, learn how to import and create asset records, capture pictures with spatial markup, review the captured pictures from the Remote Assist model-driven app, and learn how to create Power Automate Flows to automate business processes with captured asset data.
 
 ## Prerequisites
 
@@ -22,7 +22,7 @@ To complete this article, you need:
 ](https://docs.microsoft.com/power-platform/admin/capacity-storage).
 
 > [!IMPORTANT]
-> Trial subscriptions of Remote Assist can be used for the public preview if your organization has **existing Dynamics 365 subscriptions** that include apps such as Field Service or Customer Service. The in-app 90 day viral trial is not compatible with this preview.
+> Trial subscriptions of Remote Assist can be used for the public preview if your organization has **existing Dynamics 365 subscriptions** such as Field Service, Customer Service, or paid Power Apps plans. The in-app 90 day viral trial is not compatible with this preview.
 
 ## Install Dynamics 365 Remote Assist model-driven app
 
@@ -90,7 +90,7 @@ Once the environment is ready, follow the instructions below to **Use an existin
 
 ### The Remote Assist model-driven app failed to install because of missing dependencies
 
-This will occur if you try installing Remote Assist in an environment that is not **Enabled for Dynamics 365 apps**. Try installing the app in an environment where other Dynamics apps are available, such as Field Service or Sales, or create a new environment that is Enabled for Dynamics 365 apps. Learn more: [Create a new environment](./asset-capture-setup-environment.md#install-dynamics-365-remote-assist-model-driven-app)
+This will occur if you try installing Remote Assist in an environment that is not **Enabled for Dynamics 365 apps**. Try installing the app in an environment where other Dynamics apps are available, such as Field Service or Sales, or create a new environment that is Enabled for Dynamics 365 apps. Learn more: [Create a new environment](#install-dynamics-365-remote-assist-model-driven-app)
 
 ### Not enough capacity to create environments
 
