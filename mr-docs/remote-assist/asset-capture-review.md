@@ -39,10 +39,10 @@ To complete this article, you need:
 
 ## Next steps
 
-In this tutorial, you learned how to view asset captures in the Remote Assist model-driven app. To learn how to use Power Automate Flows to automate your business processes like generating reports with asset captures or notifying a Teams Channel when new asset data is captured, see:
+In this tutorial, you learned how to view asset captures in the Remote Assist model-driven app. To learn how to use Power Automate Flows to automate your business processes like generating reports with asset captures or sending an email notification when new asset data is captured, see:
 
 > [!div class="nextstepaction"]
-> [Automate asset capture data](./asset-capture-automation.md)
+> [Automate asset capture data](./integrate-power-automate.md)
 
 ## Troubleshooting
 

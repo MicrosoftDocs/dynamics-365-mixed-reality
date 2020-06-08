@@ -35,6 +35,7 @@
 #### [Create asset records](asset-capture-create-asset.md)
 #### [Capture asset conditions](asset-capture-photos.md)
 #### [Review asset captures](asset-capture-review.md)
+#### [Automate asset capture data](integrate-power-automate.md)
 
 ## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
