@@ -1,6 +1,6 @@
 ---
 title: Integrate with Power Automate
-author: dhgoel
+author: dhgoelmsft
 description: Learn how to create a Power Automate flow based on Remote Assist entities
 ms.author: dhgoelmsft
 ms.date: 6/7/2020
