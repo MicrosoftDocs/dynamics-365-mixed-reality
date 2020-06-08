@@ -4,7 +4,7 @@ description: Learn how to display the dimensions of a product in a model in Dyna
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 06/04/2020
+ms.date: 06/08/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

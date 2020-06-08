@@ -4,7 +4,7 @@ description: Frequently asked questions about Dynamics 365 Product Visualize
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 06/04/2020
+ms.date: 06/08/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

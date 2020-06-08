@@ -4,7 +4,7 @@ description: Learn about various administrator tasks for Dynamics 365 Product Vi
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 01/29/2020
+ms.date: 06/08/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -74,7 +74,7 @@ You can use Office 365 Groups to choose a set of people to collaborate with and 
 
 The admin user created during the setup of your instance has full control of all aspects of your trial environment. This user can administer your team's licenses, edit settings in Dynamics 365, and manage who has access to your services. The admin user can also add more users with more restrictive permissions, so each salesperson can work with their own account.
 
-New users must first be added in Azure Active Directory (Azure AD), which assigns them a username and password. Then, the user must be assigned a security role in Dynamics 365 so they can access the Dynamics 365 applications.<!--Should this be something less broad, maybe "Dynamics 365 customer engagement apps"? -->
+New users must first be added in Azure Active Directory (Azure AD), which assigns them a username and password. Then, the user must be assigned a security role in Dynamics 365 so they can access the Dynamics 365 applications.
 
 ### Add a user to your organization
 
@@ -96,7 +96,7 @@ New users must first be added in Azure Active Directory (Azure AD), which assign
 
    - **Username**
 
-5. Under the **Licenses** field, ensure that _Assign a user a product license_ is selected and the user is assigned a _Dynamics 365 Customer Engagement Plan_ <!--Please see note in setup.md about how this plan has been deprecated.-->license, and then select **Next**.
+5. Under the **Licenses** field, ensure that _Assign a user a product license_ is selected and the user is assigned a _Dynamics 365 Customer Engagement Plan_ license, and then select **Next**.
   
 6. Under **Roles**, assign the user a role based on the resources they need to access, and then select **Next**.
 
@@ -242,7 +242,7 @@ This section provides step-by-step instructions for creating a new price list, p
 Presenting complicated products to a customer by using traditional 2D materials is unsatisfactory, and creating 
 physical 3D models is time-consuming and costly. Dynamics 365 Product Visualize simplifies the entire process by bringing 3D digital models into the real world.
 
-Dynamics 365 Product Visualize makes use of the widely available GL Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and several exporting tools can convert other file formats to glTF<!--Edit okay? -->. The GLB format is the binary version of .glTF version 2.0, which can include textures.
+Dynamics 365 Product Visualize makes use of the widely available GL Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and several exporting tools can convert other file formats to glTF. The GLB format is the binary version of .glTF version 2.0, which can include textures.
 
 This section provides step-by-step instructions for adding a model and thumbnail image to Dynamics 365 Product Visualize.
 
@@ -263,7 +263,7 @@ This section provides step-by-step instructions for adding a model and thumbnail
 5. Drag your model file (as a GLB file) into this location. It will automatically show up in Dynamics 365 Product Visualize.
 
     > [!NOTE]
-    > SharePoint folders are created when you first visit the Documents folder by using a Dynamics 365 app<!--Probably should be less broad of a term, perhaps "Dynamics 365 customer engagement app"? Unless this does apply to ERP and Finance apps also, then never mind.-->. If the folder for a product doesn't exist yet, return to the Sales Hub app and open the product's document location from there. After it's created, you can access it through SharePoint.
+    > SharePoint folders are created when you first visit the Documents folder by using a Dynamics 365 app. If the folder for a product doesn't exist yet, return to the Sales Hub app and open the product's document location from there. After it's created, you can access it through SharePoint.
 
 6. Optional: SharePoint automatically provides a thumbnail for Dynamics 365 Product Visualize. However, if you want to add an optional custom thumbnail to a model, drag a PNG image with the same name as the model into this location. For example, ModelName1.png would be a custom thumbnail for ModelName1.glb.
 
@@ -339,7 +339,7 @@ The Dynamics 365 Product Visualize solution is a package that customizes your Sa
 
 The Dynamics 365 Product Visualize solution also contains an optional enhancement (a control) that allows salespeople to open the Dynamics 365 Product Visualize app directly from Sales on their mobile devices, and a control to access Dynamics 365 Product Visualize notes. The controls are lightweight and can easily be updated or removed.
 
-The following procedure shows some of the many ways you can customize your Opportunity page in Sales. These are suggestions; feel free to adapt them to your needs.<!--Suggested.-->
+The following procedure shows some of the many ways you can customize your Opportunity page in Sales. These are suggestions; feel free to adapt them to your needs.
 
 1. In the **Settings** drop-down list at the top of the page, select **Customizations**, and then select **Customize the System**.
 
@@ -395,7 +395,7 @@ Teams is the best way to collaborate with your team, manage files, and have conv
 
 3. Select **Get Started**.
 
-4. After the app<!--Edit okay? --> has loaded, you should see an option to join or create a team. Select **Create Team**.
+4. After the app has loaded, you should see an option to join or create a team. Select **Create Team**.
 
 5. When you see the option to build a team from scratch or create one from an existing team, select **Build a team from scratch**.
 
@@ -421,7 +421,7 @@ Teams is the best way to collaborate with your team, manage files, and have conv
 
 2. Search for **Dynamics 365**.
 
-3. Select the icon for Dynamics 365 (Preview)<!--If this is truly the name of the icon, should be boldface. It's a surprising name,--> to open the installation dialog box.
+3. Select the icon for Dynamics 365 to open the installation dialog box.
 
 4. Ensure that the **Add for You** option is set to **Yes**.
 
@@ -453,7 +453,7 @@ Teams is the best way to collaborate with your team, manage files, and have conv
    
 11. From the list of Dynamics 365 entities, select an opportunity, and then select **Save**.
 
-For more information about setting up Teams, see [Install and set up Microsoft Teams integration](https://docs.microsoft.com/dynamics365/teams-integration/teams-install-app).<!--Please double-check this link to make sure it goes where you want it to. The original link gave a 404 error: https://docs.microsoft.com/dynamics365/customer-engagement/basics/teams-install-app -->
+For more information about setting up Teams, see [Install and set up Microsoft Teams integration](https://docs.microsoft.com/dynamics365/teams-integration/teams-install-app).
 
 ### Post notes from Dynamics 365 Product Visualize
 

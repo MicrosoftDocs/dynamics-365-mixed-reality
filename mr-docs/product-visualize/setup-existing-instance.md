@@ -4,7 +4,7 @@ description: Learn how to set up Dynamics 365 Product Visualize on an existing D
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 04/01/2020
+ms.date: 06/08/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -20,7 +20,7 @@ You can connect Dynamics 365 Product Visualize to a new Dynamics 365 Sales insta
 
 Existing Sales instances must meet the following minimum requirements to connect to Dynamics 365 Product Visualize:
 
-- The Sales version must be 9.0<!--In faq.md, this is "version 9 or later." Okay to have them be slightly different? --> or later.
+- The Sales version must be 9.0 or later.
 
 - Server-based SharePoint document management must be enabled.
 
@@ -59,9 +59,9 @@ Existing Sales instances must meet the following minimum requirements to connect
    > [!IMPORTANT]
    > Be sure to enter the full URL for your SharePoint site, including `https://`.
 
-6. When the connection setup is complete<!--Edit okay? "When complete," is a bit of a misplaced modifer.-->, return to the **Document Management** settings page, and then select **Document Management Settings**.
+6. When the connection setup is complete, return to the **Document Management** settings page, and then select **Document Management Settings**.
 
-7. Enter the URL for your SharePoint site if it isn't filled in by default, and then select **Next**.<!--Please check the suggested alt text. It shouldn't be the same as the previous graphic.-->
+7. Enter the URL for your SharePoint site if it isn't filled in by default, and then select **Next**.
 
    ![Enter your SharePoint site URL in Document Management settings](media/document-management-settings.PNG "Enter your SharePoint site URL in Document Management settings")
 
@@ -88,7 +88,7 @@ Existing Sales instances must meet the following minimum requirements to connect
 5. Select **Share** to finish granting group access to SharePoint.
 
 ## Add 3D models to your products
-<!--This section is almost word-for-word the same as "Add models" in the Admin guide. If that's intentional, that's okay - I just don't see the rhyme nor reason why the structure in this article overlaps with the Admin guide the way it does.-->
+
 1. In a browser window, go to the Sales or Sales Hub application, and then in the left pane, under **Collateral**, select **Products**.
 
    ![Product navigation](media/products-navigation.PNG "Product navigation")
@@ -103,14 +103,13 @@ Existing Sales instances must meet the following minimum requirements to connect
 
    ![Open location](media/open-location.PNG "Open location")
 
-5. Drag <!--Writing Style Guide.-->your model file (as a GLB file) into this location. It will automatically show up in Dynamics 365 Product Visualize.
+5. Drag your model file (as a GLB file) into this location. It will automatically show up in Dynamics 365 Product Visualize.
 
    > [!IMPORTANT]
    > SharePoint folders are created when you first visit a product's documents through the Sales interface. After the folder has been created, you can access the folder directly from the SharePoint site.
 
 6. Optional: SharePoint automatically provides a thumbnail for Dynamics 365 Product Visualize; however, if you want to add a custom thumbnail to a model, drag a PNG image with the same name as the model into this location. For example, ModelName1.png would be a custom thumbnail for ModelName1.glb.
 
-<!--As above... I'm not sure why this section is duplicated word-for-word here. Can this just be a link to the corresponding section in the Admin guide? -->
 ## Install the Dynamics 365 Product Visualize solution
 
 The Dynamics 365 Product Visualize solution is a package that customizes your Sales installation to support Dynamics 365 Product Visualize.

@@ -4,7 +4,7 @@ description: Learn how to View 3D models without using your device's camera.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 05/28/2020
+ms.date: 06/08/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -57,7 +57,7 @@ You can choose to keep the models on a gray background or add a background image
 
 1. Tap the background image ![Add background](media/add-background-icon.png "Add background") icon in the upper-left corner of the screen.
 
-2. In the options<!--Is it named "Options"? If so, should be bold, here and below.--> dialog box, tap **Replace**.
+2. In the options dialog box, tap **Replace**.
 
 **To remove the background image**
 
