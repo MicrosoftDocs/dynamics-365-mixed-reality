@@ -7,7 +7,8 @@ ms.date:06/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
----
+--- 
+
 # Create asset records
 
 Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way for technicians to capture data in the field through Remote Assist, such as capturing annotated photos of a generator asset during an inspection. By guiding technicians to capture data to an asset record, you can ensure data is captured to the right place, in a consistent way, so people in your organization can easily locate and use that data. With continued use over time, the asset record becomes a historical record and audit trail showing how an asset changed over time, along with the work performed on the asset.
