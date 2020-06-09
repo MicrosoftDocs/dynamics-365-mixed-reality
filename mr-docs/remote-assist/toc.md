@@ -28,7 +28,7 @@
 ### [Close the app](close-app-hololens.md)
 ### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
-### Asset Capture Public Preview
+### Asset capture (public preview)
 #### [Overview](asset-capture-overview.md)
 #### [Setup a preview environment](asset-capture-setup-environment.md)
 #### [Add users to the preview ](asset-capture-add-users.md)
