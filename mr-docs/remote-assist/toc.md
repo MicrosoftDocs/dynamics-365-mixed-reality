@@ -60,7 +60,7 @@
 #### [Remote Assist HoloLens](version-history-remote-assist-hololens.md)
 #### [Remote Assist mobile](version-history-remote-assist-mobile.md)
 ### Metadata references
-#### [Dynamics 365 Remote Assist solutions](remote-assist-solution.md)
+#### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
 #### [msdyn_customerassetattachment entity reference](msdyn_customerassetattachment.md)
 
 ### [How-to videos](videos.md)
