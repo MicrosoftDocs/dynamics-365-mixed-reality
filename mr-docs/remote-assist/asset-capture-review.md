@@ -1,18 +1,18 @@
 ---
-title: Review asset captures in Remote Assist model-driven app
+title: Review asset captures in the Dynamics 365 Remote Assist model-driven app
 author: bencorn
 description: Learn how to review captured asset data from the Remote Assist HoloLens app for validation purposes.
 ms.author: becorn
-ms.date: 5/30/2020
+ms.date: 06/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Review asset captures in Remote Assist model-driven app
+# Review asset captures in the Dynamics 365 Remote Assist model-driven app
 
 Captured asset data from the HoloLens is saved to Common Data Service (CDS) and viewable from the Remote Assist model-driven app for validating work performed by technicians in the field, generating reports, and downloading artifacts like photos for use in other application.
 
-In this article, you will learn how to access captured asset data through the Remote Assist model-driven app and download that data to your computer.
+In this article, you'll learn how to access captured asset data through the Remote Assist model-driven app and download that data to your computer.
 
 ## Prerequisites
 
@@ -22,12 +22,12 @@ To complete this article, you need:
 
 ## View asset captures
 
-1. From the main menu of your environment, select **Remote Assist** > **Assets** > and select the asset used in the previous tutorial.
+1. From the main menu of your environment, select **Remote Assist** > **Assets** and select the asset used in the previous tutorial.
 ![Screenshot of the asset record list in Remote Assist web.](./media/06.19-asset-list.png "Remote Assist")
 2. Select the **Captures** tab on the asset form to view the list of captures.
 ![Screenshot of the asset record form.](./media/06.20-asset-record.png "Remote Assist")
 3. Select a capture record from the captures subgrid.
-![Screenshot of the asset captures subgrid.](./media/06.21-asset-capture-list.png "Remote Assist")
+![Screenshot of the asset capture subgrid.](./media/06.21-asset-capture-list.png "Remote Assist")
 4. Scroll down to view the image preview. The image can be expanded by selecting the **Full-screen view** button in the top right of the image preview control.
 ![Screenshot of the asset capture image preview.](./media/06.22-asset-capture-image-preview.png "Remote Assist")
 5. The image can be annotated by drawing directly on the image with your mouse. This is helpful for calling attention to objects or defects in the scene.
@@ -39,7 +39,7 @@ To complete this article, you need:
 
 ## Next steps
 
-In this tutorial, you learned how to view asset captures in the Remote Assist model-driven app. To learn how to use Power Automate Flows to automate your business processes like generating reports with asset captures or sending an email notification when new asset data is captured, see:
+In this tutorial, you learned how to view asset captures in the Remote Assist model-driven app. Next, learn how to use Power Automate flows to automate your business processes, like generating reports with asset captures or sending an email notification when new asset data is captured. See the following article.
 
 > [!div class="nextstepaction"]
 > [Automate asset capture data](./integrate-power-automate.md)

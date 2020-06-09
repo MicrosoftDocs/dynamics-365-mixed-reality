@@ -1,18 +1,18 @@
 ---
-title: Capture asset conditions with spatial markup
+title: Capture asset conditions with spatial markup in Dynamics 365 Remote Assist
 author: bencorn
-description: How to capture asset conditions with spatial markup on HoloLens 2
+description: How to capture asset conditions with spatial markup in Dynamics 365 Remote Assist on HoloLens 2 
 ms.author: becorn
-ms.date: 5/30/2020
+ms.date: 06/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
 # Capture asset conditions with spatial markup in HoloLens 2
 
-Remote Assist can be used to capture procedures and defects during jobs such as an inspection or while performing a repair. As an example, a technician can use Remote Assist on the HoloLens to capture photos of the equipment they are inspecting to highlight defects like wear and corrosion. The photos can then be viewed and downloaded from the Remote Assist model-driven app by stakeholders within the organization, such as a service manager or site superintendent.
+Remote Assist can be used to capture procedures and defects during jobs such as an inspection or while performing a repair. For example, a technician can use Remote Assist on the HoloLens to capture photos of the equipment they are inspecting to highlight defects like wear and corrosion. The photos can then be viewed and downloaded from the Remote Assist model-driven app by stakeholders within the organization, such as a service manager or site superintendent.
 
-In this article, you will learn how to use the HoloLens 2 to view asset records created from the Remote Assist model-driven app and capture photos of assets with spatial markup.
+In this article, you'll learn how to use the HoloLens 2 to view asset records created from the Remote Assist model-driven app and capture photos of assets with spatial markup.
 
 ## Prerequisites
 
@@ -46,7 +46,7 @@ Select the **Assets** tab. The list of assets entered through the Remote Assist 
 2. Select the ink or arrow tools to markup the asset in your environment. As an example, circling an area of corrosion on a pipe.
 3. Enable the **Camera** tool to start capturing photos. The camera tool will remain enabled after taking a photo.
 ![Screenshot of the asset detail view in Remote Assist.](./media/06.14-asset.png "Remote Assist")
-4. **Airtap** or say the **Snap** voice command to take a picture of the asset with the spatial markup. The photo will preview for several seconds and then be saved to Common Data Service.
+4. **Air tap** or say the **Snap** voice command to take a picture of the asset with the spatial markup. The photo will preview for several seconds and then be saved to Common Data Service.
 ![Screenshot of the camera mode enabled in Remote Assist.](./media/06.10-photo-ready.png "Remote Assist")
 
 Any existing photo can be selected in the asset view to preview in the HoloLens environment. If the current user took the photo, they can also delete that photo in the preview window.
@@ -56,7 +56,7 @@ Any existing photo can be selected in the asset view to preview in the HoloLens 
 
 ## Next steps
 
-In this tutorial, you learned how to view assets in the HoloLens and capture photos to the asset record with spatial markup. To learn how to review the captured data from the Remote Assist model-driven app, see:
+In this tutorial, you learned how to view assets in the HoloLens and capture photos to the asset record with spatial markup. To learn how to review the captured data from the Remote Assist model-driven app, see the next article.
 
 > [!div class="nextstepaction"]
 > [Review asset captures](./asset-capture-review.md)
@@ -77,7 +77,7 @@ In this tutorial, you learned how to view assets in the HoloLens and capture pho
 
 ### The asset records I see are not what I expect to see
 
-The user account may have access to more than 1 environment with Remote Assist installed. In this case, you need to select the desired environment to use.
+The user account may have access to more than one environment with Remote Assist installed. In this case, you need to select the desired environment to use.
 
 1. Select **Settings** > **Links** > **Switch Dynamics Instance**.
 2. Select the desired environment from the list.
