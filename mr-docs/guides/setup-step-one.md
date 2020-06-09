@@ -39,9 +39,12 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
     ![Manage product licenses button](media/manage-product-licenses.PNG "Manage product licenses button")
 
-4. In the dialog box, under **Licenses**, select the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** check box and make sure that the following apps are selected in the **Apps** list: Common Data Service, Dynamics 365 Guides, Power Apps for Guides.
+4. In the dialog box, under **Licenses**, select the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]** check box.
 
     ![Adding a user license](media/guides-license.PNG "Adding a user license")
+    
+5. Make sure that the following apps are selected in the **Apps** list: Common Data Service, Dynamics 365 Guides, Power Apps for Guides.    
+    ![Apps list](media/guides-apps-list.PNG "Apps list")
 
 ## What's next?
 
