@@ -21,12 +21,11 @@ If your organization uses Dynamics 365 Field Service to manage field service wor
 
 ## View a Field Service booking and call an assigned resource
 
-1.  In the **Contacts** menu, select the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** icon to open the **Booking** pane. (Select the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** icon again to close the **Booking** pane.)  
+1.  From the **Call** tab, select the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** icon to open the **Booking** pane. (Select the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** icon again to close the **Booking** pane.)  
       
-    The **Recent Contacts** screen will appear with a **Booking** pane to the
-    right.
+    The **Booking** pane will remain available on the right side of the window until you close it.
     
-    ![Screenshot of the active bookings panel that appears on HoloLens](media/RAHL_ViewBookings.PNG "ViewBookings")
+    ![Screenshot of the active bookings panel that appears on HoloLens](media/07.01-dynamics-booking.png "ViewBookings")
     
     > [!Note]
     > Only bookings with the **In Progress** status are listed. When a booking is open, any Remote Assist call you make will be associated with that booking, even if you do not collaborate with the resource listed.
