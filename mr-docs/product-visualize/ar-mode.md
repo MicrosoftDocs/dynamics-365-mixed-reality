@@ -12,6 +12,8 @@ ms.reviewer:
 
 # View 3D models without using your device's camera
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+
 The default behavior for viewing 3D models in Dynamics 365 Product Visualize is to use your device's camera and physical environment to place a 3D model. When you set **Show AR mode toggle button** to on, you can turn off this default behavior, and instead place your model on a gray background or use a background image from your Photos library. When you turn AR mode back on, you can use your device's camera to place the 3D model as usual.
 
 > [!NOTE]
