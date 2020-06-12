@@ -22,10 +22,7 @@ To install and use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!inclu
 
 - An internet connection.
 
- > [!TIP] 
-  > You can try [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] and [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] for free for up to 90 days:<br>- [Learn more about the 90-day Dynamics 365 Layout trial](https://docs.microsoft.com/dynamics365/mixed-reality/layout/try-layout-free).<br>- [Learn more about the 90-day Dynamics 365 Import Tool (Preview) trial](try-import-tool-free.md).
-
 ### See also
-[Try Dynamics 365 Import Tool (Preview) for free](try-import-tool-free.md)<br>
+
 [Install Dynamics 365 Import Tool (Preview)](install.md)<br>
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
