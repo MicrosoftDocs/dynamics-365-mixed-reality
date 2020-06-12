@@ -4,7 +4,7 @@ description: How to place, resize, rotate, move, and lift 3D models in Dynamics 
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 06/08/2020
+ms.date: 06/12/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

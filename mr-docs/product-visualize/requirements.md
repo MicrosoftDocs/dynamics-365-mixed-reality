@@ -4,7 +4,7 @@ description: Technical requirements for deploying and using Dynamics 365 Product
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 06/08/2020
+ms.date: 06/12/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

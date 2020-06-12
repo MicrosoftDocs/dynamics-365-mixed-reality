@@ -4,7 +4,7 @@ description: Learn how to View 3D models without using your device's camera.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 06/08/2020
+ms.date: 06/12/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
