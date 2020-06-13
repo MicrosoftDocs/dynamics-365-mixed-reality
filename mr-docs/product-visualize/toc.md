@@ -2,7 +2,7 @@
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
 ## Setup and administration
-### [Set up a new Dynamics 365 Sales instance](setup.md)
+### [Set up on a new Dynamics 365 Sales instance](setup.md)
 ### [Set up on an existing Dynamics 365 Sales instance](setup-existing-instance.md)
 ### [Administrator guide](admin-guide.md)
 ## [User guide](user-guide.md)
@@ -15,6 +15,7 @@
 ### [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)
 ### [Download 3D models to use offline](download-models.md)
 ### [Enable product dimensions](product-dimensions.md)
+### [View 3D models without using your device's camera](ar-mode.md)
 ## [Prepare 3D CAD models](create-3D-model.md)
 ## [FAQ](faq.md)
 ## [Terms of use](../legal/slt-dynamics365-provis-iospre.md)
