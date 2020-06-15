@@ -3,7 +3,7 @@ title: Create a new asset record in Dynamics 365 Remote Assist
 author: bencorn
 description: Learn how to create new asset records in Remote Assist.
 ms.author: becorn
-ms.date: 06/10/2020
+ms.date: 06/15/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -80,7 +80,7 @@ For this tutorial, we'll leave fields blank and only use the asset name field. Y
 
 ## Next steps
 
-In this tutorial, you learned how to create asset records and import an existing asset catalog to Common Data Service. To learn how to view these assets in Remote Assist on HoloLens 2 and capture asset data with spatial markup, see the following link.
+In this tutorial, you learned how to create asset records and import an existing asset catalog to Common Data Service. To learn how to view these assets in Remote Assist on HoloLens and capture asset data with spatial markup, see the following link.
 
 > [!div class="nextstepaction"]
 > [Capture asset data in HoloLens](./asset-capture-photos.md)
