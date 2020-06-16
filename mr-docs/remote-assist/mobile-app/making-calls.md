@@ -25,17 +25,17 @@ Remote Assist mobile makes conducting repairs and remote inspections easy by pro
 ## Prerequisites
 - In order to follow along with this guide, you must be using a mobile device with ARCore or ARKit support. Learn about Remote Assist's device [requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 - Technicians must have a Dynamics 365 Remote Assist [free trial](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/try-remote-assist) or [subscription](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/buy-remote-assist).
-- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to use Remote Assist with [Teams desktop](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all) and [Teams mobile](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-mobile-all).
+- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to set up Remote Assist with [Teams desktop](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all) and [Teams mobile](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-mobile-all).
 
 ## How it works 
 
-1. Launch and sign into Remote Assist mobile on your iOS or Android device. 
+1. Launch and sign into Remote Assist on your iOS or Android device. 
    
 2. Search for the remote collaborator's name. 
 
 ![Screenshot of Remote Assist mobile, showing the contacts screen and highlighting the search icon.](./media/calls_2.png "Search")
 
-3. Select the remote collaborator's name and launch a call with the remote collaborator. 
+3. Select the remote collaborator's name and launch a call. 
 
 ![Screenshot of Remote Assist mobile showing the Launch Call button.](./media/calls_3.png "Launch Call")
 
