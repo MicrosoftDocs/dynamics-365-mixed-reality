@@ -45,7 +45,7 @@ Remote Assist mobile makes conducting repairs and remote inspections easy by pro
 
 6. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
 
-## How it works -- Calls between a Remote Assist mobile user and a Teams desktop/mobile user
+## How it works 
 
 1. Launch and sign into Remote Assist mobile on your iOS or Android device. 
    
@@ -57,11 +57,19 @@ Remote Assist mobile makes conducting repairs and remote inspections easy by pro
 
 ![Screenshot of Remote Assist mobile showing the Launch Call button.](./media/calls_3.png "Launch Call")
 
-4. The remote collaborator will receive the call on Microsoft Teams. 
+4a. The remote collaborator will receive the call on **Remote Assist mobile**. 
+
+
+
+4b. The remote collaborator will receive the call on **Microsoft Teams desktop**. 
 
 ![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams showing the outgoing and incoming call to the remote collaborator.](./media/calls_4.png "Expert")
 
-5. The remote collaborator will be taken to the technician's live video feed. 
+5a. The technician's live video feed will be shared to the remote collaborator using Remote Assist mobile. 
+
+
+
+5b. The technician's live video feed will be shared to the remote collaborator using Teams desktop. 
 
 ![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams showing a launched and active call.](./media/calls_5.png "Video Feed")
 
