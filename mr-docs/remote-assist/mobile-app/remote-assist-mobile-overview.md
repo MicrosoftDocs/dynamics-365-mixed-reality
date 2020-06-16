@@ -17,7 +17,10 @@ When technicians use Remote Assist mobile, they may find they have easier physic
 Dynamics 365 Remote Assist is available on Android phones and tablets with ARCore support and iOS iPhones and iPads with ARKit support. Additionally, Remote Assist is available on mobile devices without ARCore or ARKit support, too! You can find the full list of augmented reality (AR) supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://developers.google.com/ar/discover/supported-devices#ios). Visit our [documentation on product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements) to learn more. 
 
 ## Features 
-- One-to-one video calling for two scenarios: (1) A call between two Remote Assist mobile users (2) A call between a Remote Assist mobile user and a Teams desktop or mobile user
+- One-to-one video calling for three scenarios:
+  1. A call between two Remote Assist mobile users
+  2. A call between a Remote Assist mobile user and a Teams desktop user
+  3. A call between a Remote Assist mobile user and a Teams mobile user
 - Add mixed reality annotations in space 
 - Annotate on a 2D image capture, or snapshot, of the space during a call
 - Send and receive messages, in-call snapshots, and files through the text chat 
