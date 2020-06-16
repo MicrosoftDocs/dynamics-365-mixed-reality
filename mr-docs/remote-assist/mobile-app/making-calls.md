@@ -27,24 +27,6 @@ Remote Assist mobile makes conducting repairs and remote inspections easy by pro
 - Technicians must have a Dynamics 365 Remote Assist [free trial](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/try-remote-assist) or [subscription](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/buy-remote-assist).
 - Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to use Remote Assist with [Teams desktop](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all) and [Teams mobile](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-mobile-all).
 
-## How it works -- Calls between two Remote Assist mobile users
-
-1. Launch and sign into Remote Assist mobile on your iOS or Android device. 
-
-2. Search for the remote collaborator's name. 
-
-![Screenshot of Remote Assist mobile, showing the contacts screen and highlighting the search icon.](./media/calls_2.png "Search")
-
-3. Select the remote collaborator's name and launch a call with the expert. 
-
-![Screenshot of Remote Assist mobile showing the Launch Call button.](./media/calls_3.png "Launch Call")
-
-4. The remote collaborator will receive the call on Remote Assist mobile. 
-
-5. The remote collaborator will be taken to the technician's live video feed. 
-
-6. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
-
 ## How it works 
 
 1. Launch and sign into Remote Assist mobile on your iOS or Android device. 
