@@ -3,17 +3,34 @@ title: Using Dynamics 365 Remote Assist Mobile on non-AR capable devices
 author: xonatia
 description: Guide for using Remote Assist mobile on non-AR devices
 ms.author: xolee
-ms.date: 05/28/2020
+ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Using Remote Assist on a mobile device without augmented reality (AR) support
+# Make Remote Assist mobile calls without augmented reality supported devices
 
-Technicians and remote collaborators can conduct repairs and inspections together and provide instructions using annotations, even if technicians are using mobile devices **without** augmented reality (AR) support! Due to limitations of their mobile devices, technicians and remote collaborators are unable to provide instructions using 3D annotations on a live video feed. However, technicians can now share their **live video feed** of their environment and both the technicians and remote collaborators can provide instructions on **snapshots** using 2D annotations. Learn more about the snapshot feature [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-snapshot). 
+Remote Assist mobile makes conducting repairs and remote inspections easy by providing technicians with the ability to launch one-to-one video calls with remote collaborators inside or outside of their organization, even if they are using mobile devices **without** ARCore or ARKit support. Making calls with Remote Assist mobile is available in these three scenarios: 
+1. A call between two Remote Assist mobile users
+2. A call between a Remote Assist mobile user and a Teams desktop user
+3. A call between a Remote Assist mobile user and a Teams mobile user
+
+Due to limitations of mobile devices without ARCore or ARKit support, technicians and remote collaborators are unable to provide instructions using 3D annotations on a live video feed. However, technicians can now share their live video feed of their environment and both the technicians and remote collaborators can provide instructions on **snapshots** using 2D annotations. Learn about the [snapshot feature capabilities](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-snapshot). 
+
+> [!NOTE] 
+> The following scenarios are **not** supported on Remote Assist mobile at this time:
+> - Joining Teams meetings.
+> - Making calls to browser-based Teams.
+> - Participating in calls with three or more participants.
+> - Participating in Remote Assist mobile to Remote Assist on HoloLens calls.
+
+## Prerequisites
+- In order to follow along with this guide, you must be using a mobile device without ARCore or ARKit support. Learn about Remote Assist's device [requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements). If your device is *not* listed on the [Android/ARCore supported devices](https://developers.google.com/ar/discover/supported-devices) or [iOS/ARKit supported devices](https://developers.google.com/ar/discover/supported-devices#ios), then your device does not support augmented reality. 
+- Technicians must have a Dynamics 365 Remote Assist [free trial](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/try-remote-assist) or [subscription](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/buy-remote-assist).
+- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to use Remote Assist with [Teams desktop](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all) and [Teams mobile](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-mobile-all).
 
 ## Prerequisites 
-- To follow along with this article, technicians must be using a mobile device **without** AR support. If your device is *not* listed on the [Android/ARCore supported devices](https://developers.google.com/ar/discover/supported-devices) or [iOS/ARKit supported devices](https://developers.google.com/ar/discover/supported-devices#ios), then your device does not support AR. 
+- To follow along with this article, technicians must be using a mobile device **without** AR support. 
 
 ## How it works 
 1. As a technician using Remote Assist on a mobile device without ARCore/ARKit support, you can launch and sign in with your credentials. After you select **Sign In**, you'll receive a notification about using a mobile device with augmented reality support.
