@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Make Remote Assist mobile calls with augmented reality supported devices
 
-Remote Assist mobile makes receiving expert help easy by providing technicians with the ability to launch one-to-one video calls with remote collaborators inside or outside of their organization. Making calls with Remote Assist mobile is available in these three scenarios: 
+Remote Assist mobile makes conducting repairs and remote inspections easy by providing technicians with the ability to launch one-to-one video calls with remote collaborators inside or outside of their organization. Making calls with Remote Assist mobile is available in these three scenarios: 
 1. A call between two Remote Assist mobile users
 2. A call between a Remote Assist mobile user and a Teams desktop user
 3. A call between a Remote Assist mobile user and a Teams mobile user
