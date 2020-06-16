@@ -8,7 +8,7 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Making calls in Dynamics 365 Remote Assist with augmented reality support
+# Make Remote Assist mobile calls with augmented reality supported devices
 
 Remote Assist mobile makes receiving expert help easy by providing technicians with the ability to launch one-to-one video calls with remote collaborators inside or outside of their organization. Making calls with Remote Assist mobile is available in these three scenarios: 
 1. A call between two Remote Assist mobile users
