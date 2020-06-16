@@ -12,9 +12,12 @@ ms.reviewer: krbjoran
 
 By pairing the Dynamics 365 Remote Assist mobile application with Dynamics 365 Field Service, field service technicians can: 
 
-1. Use Field Service mobile to launch the Remote Assist mobile app and make calls to remote experts on their Android devices.
+1. Use Field Service mobile to launch the Remote Assist mobile app and make calls to remote collaborators on both iOS and Android devices.
 
-2. Automatically post **call logs**, such as time, date, call duration, the collaborator's name, and the URLs of the **files, images, and snapshots shared** in the Remote Assist text chat into their Field Service work order at the end of a Remote Assist mobile call.
+2. Seamlessly post call history into their Field Service work order at the end of a Remote Assist mobile call, including: 
+  - call logs -- time, date, call duration, the remote collaborator's name
+  - files URLs 
+  - in-call snapshots URLs
 
 Organizations with field service needs can seamlessly capture relevant contextual information from their technicians in the field!
 
