@@ -3,29 +3,29 @@ title: Making calls in Remote Assist mobile
 author: xonatia
 description: Making calls from Remote Assist mobile to Teams 
 ms.author: xolee
-ms.date: 02/27/2020 
+ms.date: 07/01/2020 
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
 # Making calls in Dynamics 365 Remote Assist mobile 
 
-Remote Assist mobile makes receiving expert help easy by providing technicians with the ability to launch video calls with remote collaborators who are using Microsoft Teams desktop or mobile. Technicians can make calls to a remote collaborator inside or outside of their company. To learn more about how the remote collaborators communicate via Teams, visit our documentation on [using Teams with Remote Assist](../teams-pc-all.md).
-
-For a successful calling experience, **only a Remote Assist mobile user (technician) can initiate an outgoing call to either one Teams desktop user (remote collaborator) or one Teams mobile user (remote collaborator)**.
+Remote Assist mobile makes receiving expert help easy by providing technicians with the ability to launch one-to-one video calls with remote collaborators inside or outside of their organization. Making calls with Remote Assist mobile is available in these three scenarios: 
+1. A call between two Remote Assist mobile users
+2. A call between a Remote Assist mobile user and a Teams desktop user
+3. A call between a Remote Assist mobile user and a Teams mobile user
 
 > [!NOTE] 
 > The following scenarios are **not** supported on Remote Assist mobile at this time:
 > - Joining Teams meetings.
 > - Making calls to browser-based Teams.
 > - Participating in calls with three or more participants.
-> - Participating in Remote Assist mobile to Remote Assist mobile calls.
 > - Participating in Remote Assist mobile to Remote Assist on HoloLens calls.
 
 ## Prerequisites
-- In order to follow along with this guide, you must be using a mobile device with AR support. Learn more about device requirements [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
-- Technicians must have a Remote Assist license. Visit our additional documentation to learn more about the [free trial licenses](../try-remote-assist.md) or [subscriptions](../buy-remote-assist.md).
-- Experts must have a Microsoft Teams license. Learn more [here](../teams-pc-all.md).
+- In order to follow along with this guide, you must be using a mobile device with ARCore or ARKit support. Learn about Remote Assist's device [requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+- Technicians must have a Dynamics 365 Remote Assist [free trial](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/try-remote-assist) or [subscription](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/buy-remote-assist).
+- Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to use Remote Assist with [Teams desktop](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all) and [Teams mobile](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-mobile-all).
 
 ## How it works
 
