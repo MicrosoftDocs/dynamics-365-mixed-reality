@@ -3,7 +3,7 @@ title: Dynamics 365 Field Service integration with Remote Assist mobile
 author: xonatia
 description: How Dynamics 365 Field Service integration works with Remote Assist mobile
 ms.author: xolee
-ms.date: 05/28/2020
+ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
