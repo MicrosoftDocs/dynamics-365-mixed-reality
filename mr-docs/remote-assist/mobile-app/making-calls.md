@@ -1,14 +1,14 @@
 ---
 title: Making calls in Remote Assist mobile
 author: xonatia
-description: Making calls from Remote Assist mobile to Teams 
+description: Making calls from Remote Assist mobile with AR support 
 ms.author: xolee
 ms.date: 07/01/2020 
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Making calls in Dynamics 365 Remote Assist mobile 
+# Making calls in Dynamics 365 Remote Assist with augmented reality support
 
 Remote Assist mobile makes receiving expert help easy by providing technicians with the ability to launch one-to-one video calls with remote collaborators inside or outside of their organization. Making calls with Remote Assist mobile is available in these three scenarios: 
 1. A call between two Remote Assist mobile users
@@ -27,7 +27,25 @@ Remote Assist mobile makes receiving expert help easy by providing technicians w
 - Technicians must have a Dynamics 365 Remote Assist [free trial](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/try-remote-assist) or [subscription](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/buy-remote-assist).
 - Remote collaborators must have a Dynamics 365 Remote Assist free trial or subscription and/or Microsoft Teams [free trial or subscription](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software). Learn to use Remote Assist with [Teams desktop](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all) and [Teams mobile](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-mobile-all).
 
-## How it works
+## How it works -- Calls between two Remote Assist mobile users
+
+1. Launch and sign into Remote Assist mobile on your iOS or Android device. 
+
+2. Search for the remote collaborator's name. 
+
+![Screenshot of Remote Assist mobile, showing the contacts screen and highlighting the search icon.](./media/calls_2.png "Search")
+
+3. Select the remote collaborator's name and launch a call with the expert. 
+
+![Screenshot of Remote Assist mobile showing the Launch Call button.](./media/calls_3.png "Launch Call")
+
+4. The remote collaborator will receive the call on Remote Assist mobile. 
+
+5. The remote collaborator will be taken to the technician's live video feed. 
+
+6. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
+
+## How it works -- Calls between a Remote Assist mobile user and a Teams desktop/mobile user
 
 1. Launch and sign into Remote Assist mobile on your iOS or Android device. 
    
@@ -35,7 +53,7 @@ Remote Assist mobile makes receiving expert help easy by providing technicians w
 
 ![Screenshot of Remote Assist mobile, showing the contacts screen and highlighting the search icon.](./media/calls_2.png "Search")
 
-3. Select the remote collaborator's name and launch a call with the expert. 
+3. Select the remote collaborator's name and launch a call with the remote collaborator. 
 
 ![Screenshot of Remote Assist mobile showing the Launch Call button.](./media/calls_3.png "Launch Call")
 
@@ -47,6 +65,10 @@ Remote Assist mobile makes receiving expert help easy by providing technicians w
 
 ![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams showing a launched and active call.](./media/calls_5.png "Video Feed")
 
-6. With the call controls toolbar, Remote Assist mobile users can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
+6. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
 
 ![Screenshot of the Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/calltoolbar.png "Call Toolbar")
+
+## See also
+- Learn how to make calls on Remote Assist mobile without ARCore/ARKit support [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/using-devices-without-ar).
+- Learn how to annotate your environment [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-your-environment).
