@@ -74,19 +74,28 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     ![Environments page](media/powerapps-environments.PNG "Environments page")
 
-3. Select the **More environment actions** button (**...**) next to the default instance, and then select **Manage environment**.
+3. Select the environment.
 
-    ![Manage environment command](media/powerapps-manage-environment.PNG "Manage environment command")
+4. Select **Add database**.
 
-4. Change the name of the environment (for example, enter **Guides\_*anyname***), and then select **Create my database**.
+   ![Add database command](media/select-add-database.PNG "Add database command")
+
+5. Select **Add**.
+
+   > [!NOTE]
+   > Ignore the message that says "You do not have the required Dynamics 365 licenses to create databases with Dynamics apps" warning.
+   
+   ![Add command and warning message](media/select-add.PNG "Add command and warning message")
+
+6. Change the name of the environment (for example, enter **Guides\_*anyname***), and then select **Create my database**.
 
     ![Create my database button](media/powerapps-create-database.PNG "Create my database button")
 
-5. In the **Create a database for this environment** dialog box, select your currency and language.
+7. In the **Create a database for this environment** dialog box, select your currency and language.
 
     ![Create a database for this environment dialog box](media/currency-language-settings.PNG "Create a database for this environment dialog box")
 
-6. Select **Create database**.
+8. Select **Create database**.
 
     A "Provisioning database" message is shown while the database is being created and provisioned.
 
@@ -95,7 +104,7 @@ The type of environment that you create depends on whether you purchased a [!inc
     > [!NOTE]
     > Database creation usually takes several minutes. If the "Provisioning database" message is still shown after five minutes, try to refresh the page.
 
-7. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
+9. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
 
 ## Change the maximum upload file size<a name="upload"></a>
 
