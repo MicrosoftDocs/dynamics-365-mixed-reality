@@ -45,7 +45,7 @@ Before you can modify user roles, the following prerequisites must be in place:
 
     ![Users selected](media/users-setting.PNG "Users selected")
     
-5. Select **Manage Users in Dynamics 365** at the top of the page. 
+5. Select **Manage users in Dynamics 365** at the top of the page. 
 
    ![Manage Users in Dynamics 365 command](media/select-manage-users.png "Manage Users in Dynamics 365 command")
 
