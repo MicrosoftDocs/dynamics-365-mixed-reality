@@ -74,7 +74,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     ![Environments page](media/powerapps-environments.PNG "Environments page")
 
-3. Select the environment.
+3. Select the environment (for example, Contoso).
 
 4. Select **Add database**.
 
