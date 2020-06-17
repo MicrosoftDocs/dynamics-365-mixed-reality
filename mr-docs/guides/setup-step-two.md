@@ -83,7 +83,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 5. Select **Add**.
 
    > [!NOTE]
-   > Ignore the message that says "You do not have the required Dynamics 365 licenses to create databases with Dynamics apps" warning.
+   > Ignore the warning that says "You do not have the required Dynamics 365 licenses to create databases with Dynamics apps".
    
    ![Add command and warning message](media/select-add.PNG "Add command and warning message")
 
