@@ -3,27 +3,25 @@ title: Annotate your environment in Remote Assist mobile
 author: xonatia
 description: How to add annotations to your environment  
 ms.author: xolee
-ms.date: 02/27/2020
+ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
 # Annotate your environment 
 
-In Dynamics 365 Remote Assist mobile, annotations make it so technicians and remote collaborators can visually specify an area or particular asset in their environment to look at or manipulate. During a Remote Assist mobile video call, the technicians will be displaying their environment through their rear-facing camera. Both the technician and remote collaborator can add annotations to what they're looking at, and share with each other during a video call. 
+In Dynamics 365 Remote Assist mobile, mixed reality annotations make it so technicians and remote collaborators can visually specify an area or particular asset in their environment to look at or manipulate. During a Remote Assist mobile video call, the technicians will be displaying their environment through their rear-facing camera. Both the technician and remote collaborator can add annotations to what they're looking at, and share with each other during a video call. 
 
-Let's take a look at what this looks like in action. In this article, we assume that a **field technician** is using **Remote Assist mobile** in the field, while the **remote collaborator** is elsewhere on a desktop or mobile device using **Microsoft Teams**.
-
-## Annotating for technicians
+## Annotating for technicians using Remote Assist mobile
 
 1. The annotation toolbar allows technicians to place **Arrows** and **Drawings** into their environment. The **Color picker** changes the color of your annotations. The **Undo** icon allows technicians to remove the last annotation that they placed in their environment. The **Delete All** icon allows technicians to remove all annotations that they placed in their environment (they cannot remove the expert's annotations). 
-![Diagram showing what each icon means in the Remote Assist mobile toolbar.](./media/ramtoolbar.png "RAM Toolbar")
+![Diagram showing what each icon means in the Remote Assist mobile toolbar.](./media/mr-toolbar.png "RAM Toolbar")
 2. Place your annotations to your environment. The expert will see your annotations in real-time on Microsoft Teams. 
 ###
 ![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/annoenvt_2.png "Place Annotations")
 ###
 
-## Annotating for remote collaborators
+## Annotating for remote collaborators using Teams desktop
 
 1. The annotation toolbar allows remote collaborators to place **Arrows** and **Drawings** into their environment. The **Color Picker** changes the color of your annotations. The **Undo** icon allows remote collaborators to remove the last annotation that they placed in their environment. The **Delete All** icon allows remote collaborators to remove all annotations that they placed in their environment (they cannot remove the technician’s annotations).
 
