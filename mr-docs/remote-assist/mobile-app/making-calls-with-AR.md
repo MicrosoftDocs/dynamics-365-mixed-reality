@@ -39,18 +39,17 @@ Remote Assist mobile makes conducting repairs and remote inspections easy by pro
 
 ![Screenshot of Remote Assist mobile showing the Launch Call button.](./media/calls_3.png "Launch Call")
 
-4a. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator using Remote Assist mobile. 
+4a. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen. 
 
 ![Screenshot of RAM-RAM](./media/ram-ram-video.png "RAM-RAM")
 
-4b. If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator using Teams desktop. 
+4b. If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen. 
 
 ![Screenshot of RAM-Teams](./media/ram-teams-video.png "RAM-Teams")
 
+5. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
 
-6. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
-
-![Screenshot of the Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/mr-toolbar.png "Call Toolbar")
+![Screenshot of the Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/calltoolbar.png "Call Toolbar")
 
 ## See also
 - Learn how to make calls on Remote Assist mobile **without** ARCore or ARKit support [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/using-devices-without-ar).
