@@ -39,7 +39,7 @@ additionalContent:
      
     # Card
     - title: Dynamics 365 Product Visualize (in preview)
-      imageSrc: /dynamics365/images/ProductVisualize_color.svg
+      # imageSrc: /dynamics365/images/ProductVisualize_color.svg
       links:
         - url: /dynamics365/mixed-reality/product-visualize/index
           text: Documentation
