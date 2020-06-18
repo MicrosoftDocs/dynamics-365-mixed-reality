@@ -14,10 +14,13 @@ Dynamics 365 Remote Assist enables technicians with mobile devices to connect to
 
 Dynamics 365 Remote Assist mobile has been beneficial in scenarios where technicians may need physical access to confined or hard-to-reach spaces and/or access to other mobile apps that are part of their organizations' workflows. With the availability and familiarity with mobile devices, technicians can use Remote Assist mobile during repairs and inspections with ease. Furthermore, Remote Assist mobile allows for easier broad scale deployment in organizations. 
 
-Dynamics 365 Remote Assist is available on Android phones and tablets with ARCore support and iOS iPhones and iPads with ARKit support. Additionally, Remote Assist is available on mobile devices **without** ARCore or ARKit support, too! You can find the full list of augmented reality (AR) supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://developers.google.com/ar/discover/supported-devices#ios). Visit our [documentation on product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements) to learn more. 
+Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCore support](https://developers.google.com/ar/discover/supported-devices) and [iOS iPhones and iPads with ARKit support](https://developers.google.com/ar/discover/supported-devices#ios). Additionally, Remote Assist is available on mobile devices **without** ARCore or ARKit support, too! Visit our [documentation on product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements) to learn more. 
 
 ## Features 
-- One-to-one video calling for three scenarios: (1) A call between two Remote Assist mobile users (2) A call between a Remote Assist mobile user and a Teams desktop user (3) A call between a Remote Assist mobile user and a Teams mobile user
+- One-to-one video calling for three scenarios: 
+      (1) A call between two Remote Assist mobile users 
+      (2) A call between a Remote Assist mobile user and a Teams desktop user 
+      (3) A call between a Remote Assist mobile user and a Teams mobile user
 - Add mixed reality annotations in space 
 - Annotate on a 2D image capture, or snapshot, of the space during a call
 - Send and receive messages, in-call snapshots, and files through the text chat 
