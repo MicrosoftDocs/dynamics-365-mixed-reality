@@ -39,25 +39,18 @@ Remote Assist mobile makes conducting repairs and remote inspections easy by pro
 
 ![Screenshot of Remote Assist mobile showing the Launch Call button.](./media/calls_3.png "Launch Call")
 
-4a. The remote collaborator will receive the call on **Remote Assist mobile**. 
+4a. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator using Remote Assist mobile. 
 
+![Screenshot of RAM-RAM](./media/ram-ram-video.png "RAM-RAM")
 
+4b. If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator using Teams desktop. 
 
-4b. The remote collaborator will receive the call on **Microsoft Teams desktop**. 
+![Screenshot of RAM-Teams](./media/ram-teams-video.png "RAM-Teams")
 
-![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams showing the outgoing and incoming call to the remote collaborator.](./media/calls_4.png "Expert")
-
-5a. The technician's live video feed will be shared to the remote collaborator using Remote Assist mobile. 
-
-
-
-5b. The technician's live video feed will be shared to the remote collaborator using Teams desktop. 
-
-![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams showing a launched and active call.](./media/calls_5.png "Video Feed")
 
 6. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
 
-![Screenshot of the Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/calltoolbar.png "Call Toolbar")
+![Screenshot of the Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/mr-toolbar.png "Call Toolbar")
 
 ## See also
 - Learn how to make calls on Remote Assist mobile **without** ARCore or ARKit support [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/using-devices-without-ar).
