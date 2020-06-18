@@ -50,7 +50,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     5. Select **Next**.
 
-3. In the **Add database** dialog box that appears, select your language and currency, keep the default settings for the other fields, and then select **Save**.
+3. In the **Add database** pane that appears on the right side of the screen, select your language and currency, keep the default settings for the other fields, and then select **Save**.
 
     ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
 
