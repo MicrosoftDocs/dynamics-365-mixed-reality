@@ -71,7 +71,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 8. After selecting the **snapshot** icon, the technician will enter snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. 
 
-![Screenshot showing the Remote Assist mobile snapshot mode.](./media/ram-ram-snapshot.png "Snapshot mode")
+![Screenshot showing the Remote Assist mobile snapshot mode.](./media/ram-teams-snapshot.png "Snapshot mode")
 
 9. Both the technician and remote collaborator can add 2D annotations to the snapshot. 
 > [!NOTE]	
