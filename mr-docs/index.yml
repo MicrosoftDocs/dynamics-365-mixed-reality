@@ -52,4 +52,6 @@ productDirectory:
       links:
         - url: /dynamics365/mixed-reality/remote-assist/index
           text: Documentation
+        - url: https://docs.microsoft.com/learn/browse/?products=dynamics-remote-assist
+          text: Learn Dynamics 365 Remote Assist
       
