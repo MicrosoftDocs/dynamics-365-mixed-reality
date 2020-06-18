@@ -80,7 +80,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 
    ![Add database command](media/select-add-database.PNG "Add database command")
 
-5. In the **Add database** dialog that appears, select your language and currency, keep the default settings for the other fields, and then select **Add**.
+5. In the **Add database** pane that appears on the right side of the screen, select your language and currency, keep the default settings for the other fields, and then select **Add**.
 
    > [!NOTE]
    > Ignore the warning that says "You do not have the required Dynamics 365 licenses to create databases with Dynamics apps".
