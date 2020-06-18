@@ -8,19 +8,16 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Remote Assist mobile overview
+# Dynamics 365 Remote Assist mobile overview
 
 Dynamics 365 Remote Assist enables technicians with mobile devices to connect to a remote collaborator on Remote Assist mobile or Microsoft Teams (desktop and mobile). Using live video calling, mixed-reality annotations, and high-resolution snapshots, they can share what they see with the remote collaborator to troubleshoot problems together, faster. 
 
-When technicians use Remote Assist mobile, they may find they have easier physical access to confined or hard-to-reach spaces with their mobile devices. In addition, technicians' have easy access to other mobile apps that are part of their organizations' workflows. This familiarity with mobile devices allows an overall ease of use while conducting repairs and inspections. [Watch a video on a technician Dynamics 365 Remote Assist mobile on-site](https://youtu.be/J-C6GE2gFYw).
+Dynamics 365 Remote Assist mobile has been beneficial in scenarios where technicians may need physical access to confined or hard-to-reach spaces and/or access to other mobile apps that are part of their organizations' workflows. With the availability and familiarity with mobile devices, technicians can use Remote Assist mobile during repairs and inspections with ease. Furthermore, Remote Assist mobile allows for easier broad scale deployment in organizations. 
 
-Dynamics 365 Remote Assist is available on Android phones and tablets with ARCore support and iOS iPhones and iPads with ARKit support. Additionally, Remote Assist is available on mobile devices without ARCore or ARKit support, too! You can find the full list of augmented reality (AR) supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://developers.google.com/ar/discover/supported-devices#ios). Visit our [documentation on product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements) to learn more. 
+Dynamics 365 Remote Assist is available on Android phones and tablets with ARCore support and iOS iPhones and iPads with ARKit support. Additionally, Remote Assist is available on mobile devices **without** ARCore or ARKit support, too! You can find the full list of augmented reality (AR) supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://developers.google.com/ar/discover/supported-devices#ios). Visit our [documentation on product requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements) to learn more. 
 
 ## Features 
-- One-to-one video calling for three scenarios:
-  1. A call between two Remote Assist mobile users
-  2. A call between a Remote Assist mobile user and a Teams desktop user
-  3. A call between a Remote Assist mobile user and a Teams mobile user
+- One-to-one video calling for three scenarios: (1) A call between two Remote Assist mobile users (2) A call between a Remote Assist mobile user and a Teams desktop user (3) A call between a Remote Assist mobile user and a Teams mobile user
 - Add mixed reality annotations in space 
 - Annotate on a 2D image capture, or snapshot, of the space during a call
 - Send and receive messages, in-call snapshots, and files through the text chat 
@@ -33,7 +30,9 @@ Dynamics 365 Remote Assist is available on Android phones and tablets with ARCor
 
 ![Simulated image of a technician using Remote Assist mobile to annotate their environment on a call.](./media/ram-overview.png "Remote Assist mobile Overview")
 
-[Watch a live demo of Remote Assist mobile in action, from signing in to ending the call](https://www.youtube.com/watch?v=DQJWsCDNpb4&t=1s).
+## Videos 
+- [Watch a video on a technician using Dynamics 365 Remote Assist mobile on-site](https://www.youtube.com/watch?v=J-C6GE2gFYw&t=27s).
+- [Watch a live demo of Remote Assist mobile in action, from signing in to ending the call](https://www.youtube.com/watch?v=DQJWsCDNpb4&t=1s).
 
 ## See also
 - [Try Remote Assist mobile for free](../try-remote-assist.md). 
