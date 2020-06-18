@@ -74,37 +74,20 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     ![Environments page](media/powerapps-environments.PNG "Environments page")
 
-3. Select the environment (for example, Contoso).
+3. Select the default environment (for example, Contoso).
 
 4. Select **Add database**.
 
    ![Add database command](media/select-add-database.PNG "Add database command")
 
-5. Select **Add**.
+5. In the **Add database** dialog that appears, select your language and currency, keep the default settings for the other fields, and then select **Add**.
 
    > [!NOTE]
    > Ignore the warning that says "You do not have the required Dynamics 365 licenses to create databases with Dynamics apps".
    
    ![Add command and warning message](media/select-add.PNG "Add command and warning message")
 
-6. Change the name of the environment (for example, enter **Guides\_*anyname***), and then select **Create my database**.
-
-    ![Create my database button](media/powerapps-create-database.PNG "Create my database button")
-
-7. In the **Create a database for this environment** dialog box, select your currency and language.
-
-    ![Create a database for this environment dialog box](media/currency-language-settings.PNG "Create a database for this environment dialog box")
-
-8. Select **Create database**.
-
-    A "Provisioning database" message is shown while the database is being created and provisioned.
-
-    ![Provisioning database message](media/provisioning-database.PNG "Provisioning database message")
-
-    > [!NOTE]
-    > Database creation usually takes several minutes. If the "Provisioning database" message is still shown after five minutes, try to refresh the page.
-
-9. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
+6. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
 
 ## Change the maximum upload file size<a name="upload"></a>
 
