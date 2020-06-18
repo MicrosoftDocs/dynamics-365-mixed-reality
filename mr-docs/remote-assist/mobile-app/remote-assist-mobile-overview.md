@@ -42,4 +42,4 @@ Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCo
 - [Buy Remote Assist licenses](../buy-remote-assist.md). 
 - [Deploy Remote Assist to your workers' devices](../deploy-remote-assist.md). 
 - [How-to videos for using Remote Assist on mobile](../videos.md).
-- [Remote Assist mobile - FAQs](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#using-remote-assist-on-mobile)
+- [Remote Assist mobile - FAQs](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#using-remote-assist-on-mobile).
