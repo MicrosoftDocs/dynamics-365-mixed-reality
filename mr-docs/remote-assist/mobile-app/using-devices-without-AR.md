@@ -45,63 +45,62 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 ![Screenshot of the Remote Assist mobile video card](./media/3a.png "Video Card")
 
-5. The remote collaborator will receive the call on **Remote Assist mobile**. 
+5a. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen. 
+
 > [!NOTE]	
 > Technicians can't place mixed reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
 
-5b. The remote collaborator will receive the call on **Teams desktop**.
+![Screenshot of RAM-Teams nonar](./media/.png "RAM-Teams")
+
+
+5b. If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen. 
+
 > [!NOTE]	
 > Technicians can't place mixed reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
 
-![Screenshot of Remote Assist mobile while on a call](./media/01.05-call-nonar.png "In call")
+![Screenshot of RAM-Teams nonar](./media/ram-teams-snapshot.png "RAM-Teams")
 
-6a. The technician's live video feed will be shared to the remote collaborator using **Remote Assist mobile**.
-> [!NOTE]	
-> Remote collaborators can't place mixed reality annotations on technician's live video feed; they can only place annotations on the in-call snapshots.
-
-6b. The technician's live video feed will be shared to the remote collaborator using **Teams desktop**.
-> [!NOTE]	
-> Remote collaborators can't place mixed reality annotations on technician's live video feed; they can only place annotations on the in-call snapshots.
-
-![Screenshot of the remote collaborator's view on a desktop.](./media/3c-expert.png "Remote expert view in call")
-
-7. The technician will be directed to use the snapshot feature to add 2D annotations on a frozen video frame of their shared environment. 
+6. The technician will be directed to use the snapshot feature to add 2D annotations on a frozen video frame of their shared environment. 
 
 ![Screenshot showing Remote Assist mobile, with the technician's tooltip notification.](./media/01.05-call-nonar-1.png "Tool tip")
 
-8. After selecting the **snapshot** icon, the technician will enter snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. 
+7. After selecting the **snapshot** icon, the technician will enter snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. If the remote collaborator is using **Remote Assist mobile**, then they can both place 2D annotations on the frozen frame of the technician's environment.
 
-![Screenshot showing the Remote Assist mobile snapshot mode.](./media/ram-teams-snapshot.png "Snapshot mode")
-
-9. Both the technician and remote collaborator can add 2D annotations to the snapshot. 
 > [!NOTE]	
 > Both the technician and remote collaborator will see the mixed reality toolbar on the frozen frame and can add 2D annotations.
 
-![Screenshot of Remote Assist mobile in snapshot mode.](./media/01.03-call-snapshot-postanno.png "Snapshot mode")
+![Screenshot showing the Remote Assist mobile snapshot mode.](./media/ram-ram-snapshot.png "Snapshot mode")
 
-6. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **check mark** to save or discard the snapshot.
+8. After selecting the **snapshot** icon, the technician will enter snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. If the remote collaborator is using **Teams desktop**, then they can both place 2D annotations frozen frame of the technician's environment.
 
-7. The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, the text chat, or both. Select your choice and then select **Save**.
+> [!NOTE]	
+> Both the technician and remote collaborator will see the mixed reality toolbar on the frozen frame and can add 2D annotations.
+
+![Screenshot showing the Remote Assist mobile snapshot mode.](./media/.png "Snapshot mode")
+
+9. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **check mark** to save or discard the snapshot.
+
+10. The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, the text chat, or both. Select your choice and then select **Save**.
 
 ![Screenshot showing the save snapshot option on Remote Assist mobile.](./media/7a.png "Save snapshot")
 
-8. If the technician successfully saved the snapshot to the text chat, then the snapshot can be viewed in Remote Assist mobile's text chat and Microsoft Teams' text chat.
+11. If the technician successfully saved the snapshot to the text chat, then the snapshot can be viewed in Remote Assist mobile's text chat and Microsoft Teams' text chat.
 
 ![Screenshot showing the saved snapshot in Remote Assist mobile's text chat.](./media/06.20-chat-image-portrait.png "Save successful?")
 
-9. The technician is then taken back to the live video call and can select the snapshot icon again to take more snapshots.
+12. The technician is then taken back to the live video call and can select the snapshot icon again to take more snapshots.
 
 > [!NOTE] 
 > Annotations added on a still snapshot will *not* appear in the technician's environment after it has been saved or discarded.
 
-10. Both the technician and remote collaborator can send and receive messages and  files from their local device in the text chat. Learn more about the file sharing feature [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/file-sharing).
+13. Both the technician and remote collaborator can send and receive messages and  files from their local device in the text chat. Learn more about the file sharing feature [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/file-sharing).
 
 ![Screenshot showing the text chat in Remote Assist mobile.](./media/06.21-chat-doc.png "Text chat")
 
-11.  Both the technician and remote collaborator can record the one-to-one Remote Assist call, as long as the remote collaborator is using Microsoft Teams desktop. The recording will be saved to Microsoft Stream and the link to the recording will be sent to the Microsoft Teams text chat. Learn more about the call recording feature [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/call-recording).
+14.  Both the technician and remote collaborator can record the one-to-one Remote Assist call, as long as the remote collaborator is using Microsoft Teams desktop. The recording will be saved to Microsoft Stream and the link to the recording will be sent to the Microsoft Teams text chat. Learn more about the call recording feature [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/call-recording).
 
 ![Screenshot of Remote Assist mobile showing the meeting recording appearing in text chat.](./media/11b.png "Recording")
 
-12. If the technician is a Dynamics 365 Field Service customer, at the end of the call, the technician can choose to post the call logs, files, and snapshots shared in the text chat to an associated work order. Learn more about Field Service integration [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
+15. If the technician is a Dynamics 365 Field Service customer, at the end of the call, the technician can choose to post the call logs, files, and snapshots shared in the text chat to an associated work order. Learn more about Field Service integration [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
 
 ![Screenshot of Remote Assist mobile when integrated with Field Service.](./media/12.png "Field Service")
