@@ -3,23 +3,21 @@ title: Using the Dynamics 365 Remote Assist mobile tutorial
 author: xonatia
 description: In-app Tutorial for Remote Assist mobile 
 ms.author: xolee
-ms.date: 05/28/2020
+ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Understanding augmented reality (AR) capabilities on Remote Assist mobile through the in-app tutorial
+# Use the in-app tutorial on Remote Assist mobile
 
-Augmented reality (AR) allows for immersive and engaging collaborations between two people by blending virtual objects with the real world. Remote Assist mobile uses AR for technicians to share their environments and connect with remote collaborators to walk through the repair or inspection process. Both call participants can better reference objects and provide instructions by placing mixed reality annotations into the technician's shared environment. 
+Technicians can use Remote Assist mobile's in-app, guided tutorial to jumpstart their ability to use its augmented reality (AR) capabilities. With AR, technicians to share their real-world environments and connect with remote collaborators to walk through the repair or inspection process. Both call participants can better reference objects and provide instructions by placing mixed reality annotations into the technician's shared environment.
 
-Technicians can use the in-app, guided tutorial to jumpstart their ability to use Remote Assist mobile's AR capabilities. This guided tutorial addresses:
-
-1. Before technicians can enjoy an AR experience in our app, they need to **move their mobile device around which lets Remote Assist mobile evaluate your surroundings and detect surfaces**. By detecting the technician's surroundings and surfaces, both the technician and remote collaborator can more accurately place mixed reality annotations in their environment. 
-2. **Place and manipulate mixed reality annotations**, such as the arrow and the ink tools.
-
+This guided tutorial addresses:
+1. Learn to move your device around so that Remote Assist mobile can detect the technician's surroundings and surfaces for better mixed reality annotation placement experience
+2. Place and manipulate mixed reality annotations, such as the arrow and the ink tools.
 
 ## Prerequisites 
-- For technicians to use the AR capabilities on Remote Assist mobile, they must be using an **AR-capable mobile device**. Learn more about the device requirements [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements). 
+- In order to follow along with this guide, you should have a using a **mobile device with ARCore or ARKit support**. Learn more about the device requirements [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements). 
 
 >[!Note]
 > No AR capabilities? No problem! Remote Assist mobile is available on unsupported AR mobile devices, too; learn more about using Remote Assist mobile on unsupported AR devices [here](../mobile-app/using-devices-without-AR.md). 
