@@ -60,5 +60,5 @@ Remote Assist mobile makes conducting repairs and remote inspections easy by pro
 ![Screenshot of the Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/calltoolbar.png "Call Toolbar")
 
 ## See also
-- Learn how to make calls on Remote Assist mobile without ARCore/ARKit support [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/using-devices-without-ar).
-- Learn how to annotate your environment [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-your-environment).
+- Learn how to make calls on Remote Assist mobile **without** ARCore or ARKit support [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/using-devices-without-ar).
+- Learn how to place mixed reality annotations in the shared environment [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-your-environment).
