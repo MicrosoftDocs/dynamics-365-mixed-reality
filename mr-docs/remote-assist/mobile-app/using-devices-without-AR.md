@@ -41,7 +41,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 ![Screenshot of the Remote Assist mobile contacts screen.](./media/2b.png "Contacts")
 
-4. Select the remote collaborator's name and launch a call.
+4. Select the remote collaborator's name and **launch a call**.
 
 ![Screenshot of the Remote Assist mobile video card](./media/3a.png "Video Card")
 
@@ -71,7 +71,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 8. After selecting the **snapshot** icon, the technician will enter snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. 
 
-![Screenshot showing the Remote Assist mobile snapshot mode.](./media/01.04-call-snapshot-preanno.png "Snapshot mode")
+![Screenshot showing the Remote Assist mobile snapshot mode.](./media/ram-ram-snapshot.png "Snapshot mode")
 
 9. Both the technician and remote collaborator can add 2D annotations to the snapshot. 
 > [!NOTE]	
