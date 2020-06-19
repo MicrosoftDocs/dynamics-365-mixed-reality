@@ -23,7 +23,22 @@ In Dynamics 365 Remote Assist mobile, mixed reality annotations make it so techn
 ![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-single-anno.png "Place Annotations")
 ###
 
-## Annotating for remote collaborators using Teams desktop
+## Annotating for remote collaborators using Remote Assist mobile
+
+1. To add annotations, you must click **Start Annotating**.
+
+> [!TIP]
+> You may also select the **Delete All** icon, if you want to remove previously placed annotations on the shared environment this screen.
+
+![Remote collaborator on RAM single screen](./media/ram-remote-collab.png "RAM Remote Collaborator")
+
+2. You will enter a **frozen frame** of the technician's environment and then you can add your annotations onto the frozen frame. 
+
+![Remote collaborator on RAM frozen frame screen](./media/ram-ram-snaps.png "RAM Remote Collaborator Frozen Frame")
+
+3. To stop adding annotations to the snapshot, you must select **Check Mark**. You will return to the technician's live video feed and your annotations will automatically appear on the technician's environment.
+
+## Annotating for remote collaborators using Teams desktop/mobile
 
 1. The annotation toolbar allows remote collaborators to place **Arrows** and **Drawings** into their environment. The **Color Picker** changes the color of your annotations. The **Undo** icon allows remote collaborators to remove the last annotation that they placed in their environment. The **Delete All** icon allows remote collaborators to remove all annotations that they placed in their environment (they cannot remove the technician’s annotations).
 
