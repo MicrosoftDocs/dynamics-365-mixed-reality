@@ -44,15 +44,19 @@ This guided tutorial addresses:
 
 ![Screenshot of Remote Assist mobile on a phone, showing a placed arrow.](./media/17a.png "Place Arrow")
 
-6. Select the **Inking tool**.
+6. Tap and drag to **rotate** the arrow. 
+
+![Rotate arrow](./media/04.05-oobe.png)
+
+7. Select the **Inking tool**.
 
 ![Screenshot of Remote Assist mobile on a phone, showing the ink icon in the menu.](./media/18.png "Select Ink")
 
-7. Draw a line or circle by tapping and dragging on your screen. 
+8. Draw a line or circle by tapping and dragging on your screen. 
 
 ![Screenshot of Remote Assist mobile on a phone, showing an example of a drawn annotation.](./media/19b.png "Draw")
 
-8. Practice placing and using other annotations. You can use the **Color picker**, **Undo**, or **Delete all** annotation icons. 
+9. Practice placing and using other annotations. You can use the **Color picker**, **Undo**, or **Delete all** annotation icons. 
 
 ![Screenshot of Remote Assist mobile on a phone, showing the other menu options.](./media/20a.png "Other")
 
