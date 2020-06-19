@@ -50,7 +50,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 > [!NOTE]	
 > Technicians can't place mixed reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
 
-![Screenshot of RAM-Teams nonar](../media/ram-ram-notoolbar.png "RAM-Teams")
+![Screenshot of RAM-Teams nonar](./media/ram-ram-notoolbar.png "RAM-Teams")
 
 
 5b. If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen. 
@@ -69,7 +69,7 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 > [!NOTE]	
 > Both the technician and remote collaborator will see the mixed reality toolbar on the frozen frame and can add 2D annotations.
 
-![Screenshot showing the Remote Assist mobile snapshot mode.](../media/ram-ram-annotations.png "Snapshot mode")
+![Screenshot showing the Remote Assist mobile snapshot mode.](./media/ram-ram-annotations.png "Snapshot mode")
 
 8. After selecting the **snapshot** icon, the technician will enter snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. If the remote collaborator is using **Teams desktop**, then they can both place 2D annotations frozen frame of the technician's environment.
 
