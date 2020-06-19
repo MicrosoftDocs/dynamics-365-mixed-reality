@@ -24,6 +24,10 @@ Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] ap
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/operators-use-previously-opened-guides-hololens-when-offline" target="_blank">Operators can use any previously opened guides on HoloLens when offline</a> | No |
 
+### Other updates
+
+This release also includes a fix to the deeplink functionality where the embedded link in a QR code didn't link to the correct guide or step.
+
 ## May 26, 2020
 
 Version 401.2005.21001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.0.18 include the following new feature. Version 401.2005.21001 of the HoloLens and PC apps are only compatible with version 400.0.0.18 (April 28th) or later. <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">See the apps and solution compatibility table for more details</a>. 
