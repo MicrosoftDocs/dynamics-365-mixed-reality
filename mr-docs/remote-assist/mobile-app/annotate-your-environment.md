@@ -8,17 +8,19 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Annotate your environment 
+# Annotate the technician's shared environment 
 
-In Dynamics 365 Remote Assist mobile, mixed reality annotations make it so technicians and remote collaborators can visually specify an area or particular asset in their environment to look at or manipulate. During a Remote Assist mobile video call, the technicians will be displaying their environment through their rear-facing camera. Both the technician and remote collaborator can add annotations to what they're looking at, and share with each other during a video call. 
+In Dynamics 365 Remote Assist mobile, mixed reality annotations make it so technicians and remote collaborators can visually specify an area or particular asset in their environment to look at or manipulate. During a Remote Assist mobile video call, the technicians will share their environment with the remote collaborator through their rear-facing camera. The technician can instantly place mixed reality annotations on their shared environment. However, the remote collaborator must place mixed reality annotations on a frozen frame of the technician's shared environment.  
 
 ## Annotating for technicians using Remote Assist mobile
 
 1. The annotation toolbar allows technicians to place **Arrows** and **Drawings** into their environment. The **Color picker** changes the color of your annotations. The **Undo** icon allows technicians to remove the last annotation that they placed in their environment. The **Delete All** icon allows technicians to remove all annotations that they placed in their environment (they cannot remove the expert's annotations). 
+
 ![Diagram showing what each icon means in the Remote Assist mobile toolbar.](./media/mr-toolbar.png "RAM Toolbar")
-2. Place your annotations to your environment. The expert will see your annotations in real-time on Microsoft Teams. 
+
+2. Place your annotations to your shared environment. The remote collaborator will see your annotations in real-time on Microsoft Teams. 
 ###
-![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/annoenvt_2.png "Place Annotations")
+![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-single-anno.png "Place Annotations")
 ###
 
 ## Annotating for remote collaborators using Teams desktop
