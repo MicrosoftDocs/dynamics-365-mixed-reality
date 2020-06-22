@@ -28,9 +28,9 @@ Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] ap
 
 This release also includes the following fixes:
 
-- Issue with deeplink functionality where the embedded link in a QR code didn't link to the correct guide or step.
+- **Embedded link in QR code.** This was an issue with the deeplink functionality where the embedded link in a QR code didn't link to the correct guide or step.
 
-- Issue when recording video through mixed reality capture (MRC) on Hololens which caused holograms to appear offset in the recording. With this fix, the holograms now appear in the proper position in the video recording. 
+- **Holograms not aligned in video recordings**. When recording video through mixed reality capture (MRC) on Hololens, holograms appeared offset in the recording. With this fix, holograms now appear in the proper position. 
 
 ## May 26, 2020
 
