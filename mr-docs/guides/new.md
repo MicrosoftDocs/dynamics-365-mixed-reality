@@ -23,6 +23,7 @@ Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] ap
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/operators-use-previously-opened-guides-hololens-when-offline" target="_blank">Operators can use any previously opened guides on HoloLens when offline</a> | No |
+| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Filter Power BI dashboard data by Author or Operator role.</a> | No |
 
 ### Other updates
 
