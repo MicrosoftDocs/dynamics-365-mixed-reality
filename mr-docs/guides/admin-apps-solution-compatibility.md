@@ -29,7 +29,7 @@ To find the app and solution versions that you're using, in the PC app, select t
 | 303.2001.21001 | January 28, 2020 | 300.0.3.137, 300.0.1.115, and 200.0.0.107 |
 | 301.1910.24001 | October 29, 2019 | 300.0.1.115 and 200.0.0.107 |
 | 200.1909.24001 | October 1, 2019 | 200.0.0.107 |
-| 104.1908.2001.0 |August 6||
+| 104.1908.2001.0 |August 6, 2019||
 
 ## See also
 
