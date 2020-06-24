@@ -45,9 +45,9 @@ to better understand performance and improvement over time.
 
 ## Open Guides Analytics 
 
-### Set up your reports for the first time 
+### Set up the latest version of the reports
 
-You can set up Guide Analytics for the first time through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
+You can set up latest Guide Analytics reports through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
 
 > [!NOTE]
 > Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). Talk to your admin if you don't have permission to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer. 
