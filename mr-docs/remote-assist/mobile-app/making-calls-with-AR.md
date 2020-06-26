@@ -37,12 +37,12 @@ Remote Assist mobile makes conducting repairs and remote inspections easy by pro
 
 3. Select the remote collaborator's name and launch a call. 
 
+  > [!NOTE]
+  > If the remote collaborator is receiving the call on a mobile device with both Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users will have the same capabilities.
+
 ![Screenshot of Remote Assist mobile showing the Launch Call button.](./media/calls_3.png "Launch Call")
 
 4a. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen. 
-
-  > [!NOTE]
-  > If the remote collaborator is receiving the call on a mobile device with both Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users will have the same capabilities.
 
 ![Screenshot of RAM-RAM](../media/ram-ram-ar.png "RAM-RAM")
 
@@ -53,6 +53,8 @@ Remote Assist mobile makes conducting repairs and remote inspections easy by pro
 5. With the call controls toolbar, the technician can disable the video call (enter an audio-only call), mute themselves in call, turn on their speakers, or end the call. 
 
 ![Screenshot of the Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/calltoolbar.png "Call Toolbar")
+
+6. During the call, both call participants can place mixed reality annotations in the shared environment, capture and annotate snapshots, share files, record the call, and more! 
 
 ## See also
 - Learn how to make calls on Remote Assist mobile **without** ARCore or ARKit support [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/using-devices-without-ar).
