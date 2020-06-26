@@ -110,7 +110,7 @@ Version 301.1910.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|-------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-node-based-animations" target="_blank">Support for node-based annotations</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-node-based-animations" target="_blank">Support for node-based animations</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/turn-animations-or-off" target="_blank">Turn animations on or off</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-stl-ply-file-formats-3d-models" target="_blank">Support for STL and PLY file formats for 3D models</a> | No |
 
