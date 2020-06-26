@@ -43,6 +43,9 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 4. Select the remote collaborator's name and **launch a call**.
 
+  > [!NOTE]
+  > If the remote collaborator is receiving the call on a mobile device with both Remote Assist mobile and Teams mobile installed, the remote collaborator can only answer on Teams mobile. Both users will have the same capabilities.
+
 ![Screenshot of the Remote Assist mobile video card](./media/3a.png "Video Card")
 
 5a. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen. 
