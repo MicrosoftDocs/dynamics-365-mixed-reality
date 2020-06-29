@@ -15,9 +15,9 @@ If you encounter an issue, use the HoloLens Feedback Hub to let us know so we ca
 There are two ways to get to the HoloLens Feedback Hub application to report a bug. 
 
 1. From the **Start menu**: At any time, you can go to the **Start menu** and launch **Feedback Hub**. 
-2. From Remote Assist: If you just ended a call and are looking at the **Recent Contacts** page, select **Settings** in the top-right corner. Select the **Links** tab, and in the **Links** section, select **Feedback Hub** to launch **Feedback Hub**. 
+2. From Remote Assist: If you just ended a call and are in the **Call tab**, select the **Settings tab** from the left navigation. Select the **Links** sub tab, and in the **Links** section, select **Feedback Hub** to launch **Feedback Hub**. 
 
-![Screenshot of the Links tab in the HoloLens settings screen.](media/RAHL_SettingsLinks.png)
+![Screenshot of the Links tab in the HoloLens settings screen.](media/08.02-settings-feedbackhub.png)
 
 When you're in the HoloLens Feedback Hub: 
 
