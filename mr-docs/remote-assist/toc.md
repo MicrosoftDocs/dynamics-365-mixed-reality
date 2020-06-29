@@ -55,8 +55,8 @@
 
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
-### [FAQ](faq.md)
-### [Remote Assist mobile's FAQ](faq-mobile.md)
+### [FAQ for Remote Assist on HoloLens and HoloLens 2](faq.md)
+### [FAQ for Remote Assist mobile](./mobile-app/faq-mobile.md)
 
 ## Legal documents
 ### [Dynamics 365 Remote Assist software license terms](../legal/remote-assist-license-terms.md)
