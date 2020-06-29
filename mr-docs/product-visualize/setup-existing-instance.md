@@ -4,7 +4,7 @@ description: Learn how to set up Dynamics 365 Product Visualize on an existing D
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 04/01/2020
+ms.date: 06/12/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -14,13 +14,13 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-You can connect Microsoft Dynamics 365 Product Visualize to a new Dynamics 365 Sales instance, or an existing instance. This article explains how to set it up on an existing Dynamics 365 Sales instance. If you don't already have Dynamics 365 Sales, you can set up a free trial. For more information, see [Set up Dynamics 365 Product Visualize](setup.md). 
+You can connect Dynamics 365 Product Visualize to a new Dynamics 365 Sales instance or an existing instance. This topic explains how to set it up on an existing Sales instance. If you don't already have Dynamics 365 Sales, you can set up a free trial. More information: [Set up Dynamics 365 Product Visualize](setup.md) 
 
 ## Minimum requirements
 
-Existing Dynamics 365 Sales instances must meet the following minimum requirements to connect to Dynamics 365 Product Visualize:
+Existing Sales instances must meet the following minimum requirements to connect to Dynamics 365 Product Visualize:
 
-- The Dynamics 365 Sales version must be 9.0 or later.
+- The Sales version must be 9.0 or later.
 
 - Server-based SharePoint document management must be enabled.
 
@@ -33,7 +33,7 @@ Existing Dynamics 365 Sales instances must meet the following minimum requiremen
 
 1. In a browser window, go to your organization's Sales or Sales Hub instance [https://\<org name>.crm.dynamics.com]().
 
-2. In the upper-right corner of the screen, select the **Settings** button, and then select **About**.
+2. In the upper-right corner of the screen, select **Settings**, and then select **About**.
 
    ![Server version](media/sales-version.PNG "Server version")
 
@@ -46,24 +46,24 @@ Existing Dynamics 365 Sales instances must meet the following minimum requiremen
 
 1. In a browser window, go to your organization's Sales or Sales Hub instance [https://\<org name>.crm.dynamics.com]().
 
-2. Select the **Settings** button in the upper-right corner of the page, and then select __Advanced Settings__.
+2. Select **Settings** in the upper-right corner of the page, and then select **Advanced Settings**.
 
-3. In the navigation bar at the top of the page, select the down arrow next to __Settings__, and then select __Document Management__.
+3. In the navigation bar at the top of the page, select the down arrow next to **Settings**, and then select **Document Management**.
 
    ![Document Management settings](media/sharepoint.PNG "Document Management settings")
 
-4. Select __Enable Server-Based SharePoint Integration__ to set up the connection to SharePoint.
+4. Select **Enable Server-Based SharePoint Integration** to set up the connection to SharePoint.
 
 5. Continue through the setup. When prompted, enter the URL for your SharePoint site: ([https://\<org name>.sharepoint.com]()).
 
    > [!IMPORTANT]
    > Be sure to enter the full URL for your SharePoint site, including `https://`.
 
-6. When complete, return to the __Document Management__ settings page, and then select __Document Management Settings__.
+6. When the connection setup is complete, return to the **Document Management** settings page, and then select **Document Management Settings**.
 
-7. Enter the URL for your SharePoint site if it isn't filled in by default, and then select __Next__.
+7. Enter the URL for your SharePoint site if it isn't filled in by default, and then select **Next**.
 
-   ![Document Management settings](media/document-management-settings.PNG "Document Management settings")
+   ![Enter your SharePoint site URL in Document Management settings](media/document-management-settings.PNG "Enter your SharePoint site URL in Document Management settings")
 
 8. Continue through setup by using the default values for the remaining options.
 
@@ -89,30 +89,30 @@ Existing Dynamics 365 Sales instances must meet the following minimum requiremen
 
 ## Add 3D models to your products
 
-1. In a browser window, go to the Sales or Sales Hub application, and then in the left navigation, under **Collateral**, select **Products**.
+1. In a browser window, go to the Sales or Sales Hub application, and then in the left pane, under **Collateral**, select **Products**.
 
-   ![Product Navigation](media/products-navigation.PNG "Product navigation")
+   ![Product navigation](media/products-navigation.PNG "Product navigation")
 
 2. Open a product by selecting the product name.
 
-3. On the __Related__ tab, select __Documents__ to go to a view of the SharePoint document location for that product.
+3. On the **Related** tab, select **Documents** to go to a view of the SharePoint document location for that product.
 
-   ![Related tab](media/related-documents.PNG "Related tab")
+   ![Documents link on the Related tab](media/related-documents.PNG "Documents link on the Related tab")
 
-4. In the __Open Location__ drop-down list, select __Documents on Default Site 1__ to open the SharePoint location outside of Dynamics 365 Sales.
+4. In the **Open Location** drop-down list, select **Documents on Default Site 1** to open the SharePoint location outside of Sales.
 
-   ![Open Location](media/open-location.PNG "Open location")
+   ![Open location](media/open-location.PNG "Open location")
 
-5. Drag and drop your model file (as a GLB file) into this location. It will automatically show up in Dynamics 365 Product Visualize.
+5. Drag your model file (as a GLB file) into this location. It will automatically show up in Dynamics 365 Product Visualize.
 
    > [!IMPORTANT]
-   > SharePoint folders are created when you first visit a product's documents through the Dynamics for Sales interface. After the folder has been created, you can access the folder directly from the SharePoint site.
+   > SharePoint folders are created when you first visit a product's documents through the Sales interface. After the folder has been created, you can access the folder directly from the SharePoint site.
 
-6. Optional: SharePoint automatically provides a thumbnail for Dynamics 365 Product Visualize; however, if you want to add an optional custom thumbnail to a model, drag and drop a PNG image with the same name as the model. Example: "ModelName1.png" is a custom thumbnail for "ModelName1.glb".
+6. Optional: SharePoint automatically provides a thumbnail for Dynamics 365 Product Visualize; however, if you want to add a custom thumbnail to a model, drag a PNG image with the same name as the model into this location. For example, ModelName1.png would be a custom thumbnail for ModelName1.glb.
 
 ## Install the Dynamics 365 Product Visualize solution
 
-The Dynamics 365 Product Visualize solution is a package that customizes your Dynamics 365 Sales installation to support Dynamics 365 Product Visualize.
+The Dynamics 365 Product Visualize solution is a package that customizes your Sales installation to support Dynamics 365 Product Visualize.
 
 ### Import the Dynamics 365 Product Visualize solution
 
@@ -120,13 +120,13 @@ The Dynamics 365 Product Visualize solution is a package that customizes your Dy
 
 2. Go to the Dynamics 365 Sales Hub.
 
-2. Select the **Settings** button, and then select **Advanced Settings**.
+2. Select **Settings**, and then select **Advanced Settings**.
 
 3. In the **Settings** drop-down list at the top of the page, select **Solutions**.
 
-5. Import the solution by selecting the **Import** button, and then selecting the solution (.zip file) you downloaded.
+5. Select **Import**, and then select the solution (.zip file) you downloaded.
 
-   ![Import solution](media/import-solution.PNG "Import solution")
+   ![Import the solution](media/import-solution.PNG "Import the solution")
  
 6. In the **Solution Information** dialog box, select **Import** to begin the import process.
 
@@ -135,14 +135,15 @@ The Dynamics 365 Product Visualize solution is a package that customizes your Dy
     > [!NOTE]
     > Importing a solution will replace any existing versions of that solution.
     
-    After the import process is complete, you'll see the **Importing Solution** dialog box:
+    After the import process is completed, you'll see the **Importing Solution** dialog box.
 
    ![Import complete](media/import-complete.PNG "Import complete")
 
 7. Select **Close**.
 
 ## What's next?
-You're now ready to use Dynamics 365 Product Visualize with all your sales opportunities. The Dynamics 365 Product Visualize mobile app can be downloaded from the Apple App Store. Users can sign in with the same Azure AD credentials that they use to connect to Dynamics 365 Sales.
+
+You're now ready to use Dynamics 365 Product Visualize with all your sales opportunities. You can download the Dynamics 365 Product Visualize mobile app from the Apple App Store. You can sign in by using the same Azure Active Directory (Azure AD) credentials that you use to connect to Sales.
   
 ### See also
 

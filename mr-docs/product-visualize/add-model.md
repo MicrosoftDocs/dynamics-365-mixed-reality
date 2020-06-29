@@ -4,7 +4,7 @@ description: Learn how to add your own custom 3D models to an existing Dynamics 
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 05/05/2020
+ms.date: 06/12/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -14,14 +14,14 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your local device, it's simple to add it to a product included in a Dynamics 365 Sales opportunity from Microsoft Dynamics 365 Product Visualize (in preview).
+If you have a 3D model stored in SharePoint or OneDrive, or on your local device, it's simple to add it to a product included in a Dynamics 365 Sales opportunity from Dynamics 365 Product Visualize.
 
 > [!NOTE]
 > 3D models must be in GLB format to link them to a product.
 
-## Add a 3D model to a product
+**To add a 3D model to a product**
 
-1.	Tap **Main** ![Main menu icon](media/hamburger-icon.png "Main menu icon"), and then tap **Import model**.
+1.	Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Import model**.
 
     > [!div class=mx-imgBorder]
     > ![Import model](media/import-model.png "Import model")
@@ -39,14 +39,15 @@ If you have a 3D model stored in Microsoft SharePoint or OneDrive, or on your lo
     > [!div class=mx-imgBorder]
     > ![Browse a model to be imported](media/browse-models.png "Browse a model to be imported")
  
-4.	Point your device down towards a flat surface like the floor or a desk, and then tap **Place** to place the model.
+4.	Point your device down toward a flat surface like the floor or a desk, and then tap **Place** to place the model.
     
 ### See also
 
-[Open the app and sign in](sign-in.md)<br>
+[Install, open, and sign in to the app](sign-in.md)<br>
 [Place and manipulate 3D models](manipulate-models.md)<br>
 [Add a note to your 3D model](add-note.md)<br>
 [Show or hide layers in a 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
-[Download 3D models to use offline](download-models.md)
+[Download 3D models to use offline](download-models.md)<br>
+[Enable product dimensions](product-dimensions.md)

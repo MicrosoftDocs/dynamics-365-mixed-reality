@@ -17,7 +17,6 @@
 #### [Convert a point cloud](houdini-point-cloud.md)
 ## Install and use Dynamics 365 Import Tool (Preview)
 ### [Requirements for installing](requirements.md)
-### [Try Dynamics 365 Import Tool (Preview) free](try-import-tool-free.md)
 ### [Install Dynamics 365 Import Tool (Preview)](install.md)
 ### [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
 ## [Work with Dynamics 365 Layout](layout.md)

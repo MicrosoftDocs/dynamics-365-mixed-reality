@@ -2,7 +2,7 @@
 title: "Remote Assist HoloLens version history | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
-ms.date: 05/01/2020
+ms.date: 06/11/2020
 ms.reviewer: krbjoran
 ms.service: dynamics-365-mixed-reality-remote-assist
 ms.suite: ""
@@ -28,7 +28,22 @@ search.app:
 
 # Remote Assist HoloLens version history
 
-## 208.2004.1002.0
+## HoloLens 2 – 209.2006.11003.0
+
+Date: June 2020
+
+### Bug fixes
+
+* Fixed bug in group calls where remote collaborators are unable to annotate from Microsoft Teams client
+* Improvements to the Join Meeting feature to select between overlapping meetings
+* Fixed bug with the snapshot tool causing photos taken with the snapshot tool to not be sent through Teams chat
+* Fixed bug with the snapshot tool where the camera cursor would appear in the resulting photo
+* Various near-field / far-field interaction fixes
+* Fixed bug where the outgoing video feed may not work when answering a call from the HoloLens shell
+* Various fixes to enable users in Egypt to use Remote Assist
+* Incoming calls are now supported for GCC High and DOD
+
+## HoloLens 1 & 2 – 208.2004.1002.0
 
 Date: April 2020
 
@@ -43,7 +58,6 @@ Date: April 2020
 * Various video quality fixes including support for SimulCast, bandwidth history, & network probing to improve overall video quality
 * Fixed text chat bug that was causing text chats not to show on HoloLens
 * Various near-field / far field interaction fixes
-
 
 ## Locate your version number
 

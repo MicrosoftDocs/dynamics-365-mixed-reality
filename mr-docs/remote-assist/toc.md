@@ -28,6 +28,14 @@
 ### [Close the app](close-app-hololens.md)
 ### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
+### Asset capture (public preview)
+#### [Overview](asset-capture-overview.md)
+#### [Setup a preview environment](asset-capture-setup-environment.md)
+#### [Add users to the preview ](asset-capture-add-users.md)
+#### [Create asset records](asset-capture-create-asset.md)
+#### [Capture asset conditions](asset-capture-photos.md)
+#### [Review asset captures](asset-capture-review.md)
+#### [Automate asset capture data](integrate-power-automate.md)
 
 ## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
@@ -52,6 +60,9 @@
 ### Version history
 #### [Remote Assist HoloLens](version-history-remote-assist-hololens.md)
 #### [Remote Assist mobile](version-history-remote-assist-mobile.md)
+### Metadata references
+#### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
+#### [msdyn_customerassetattachment entity reference](msdyn_customerassetattachment.md)
 
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
