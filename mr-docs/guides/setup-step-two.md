@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Common Data Service environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 05/07/2020
+ms.date: 06/18/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -50,7 +50,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     5. Select **Next**.
 
-3. In the **Add database** dialog box that appears, select your language and currency, keep the default settings for the other fields, and then select **Save**.
+3. In the **Add database** pane that appears on the right side of the screen, select your language and currency, keep the default settings for the other fields, and then select **Save**.
 
     ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
 
@@ -74,28 +74,20 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     ![Environments page](media/powerapps-environments.PNG "Environments page")
 
-3. Select the **More environment actions** button (**...**) next to the default instance, and then select **Manage environment**.
+3. Select the default environment (for example, Contoso).
 
-    ![Manage environment command](media/powerapps-manage-environment.PNG "Manage environment command")
+4. Select **Add database**.
 
-4. Change the name of the environment (for example, enter **Guides\_*anyname***), and then select **Create my database**.
+   ![Add database command](media/select-add-database.PNG "Add database command")
 
-    ![Create my database button](media/powerapps-create-database.PNG "Create my database button")
+5. In the **Add database** pane that appears on the right side of the screen, select your language and currency, keep the default settings for the other fields, and then select **Add**.
 
-5. In the **Create a database for this environment** dialog box, select your currency and language.
+   > [!NOTE]
+   > Ignore the warning that says "You do not have the required Dynamics 365 licenses to create databases with Dynamics apps".
+   
+   ![Add command and warning message](media/select-add.PNG "Add command and warning message")
 
-    ![Create a database for this environment dialog box](media/currency-language-settings.PNG "Create a database for this environment dialog box")
-
-6. Select **Create database**.
-
-    A "Provisioning database" message is shown while the database is being created and provisioned.
-
-    ![Provisioning database message](media/provisioning-database.PNG "Provisioning database message")
-
-    > [!NOTE]
-    > Database creation usually takes several minutes. If the "Provisioning database" message is still shown after five minutes, try to refresh the page.
-
-7. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
+6. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
 
 ## Change the maximum upload file size<a name="upload"></a>
 

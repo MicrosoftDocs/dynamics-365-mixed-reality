@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use access teams to limit access to specific guides or guide content in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 05/18/2020
+ms.date: 06/02/2020
 ms.service: crm-online
 ms.topic: article
 title: Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides
@@ -80,17 +80,17 @@ To take advantage of access teams, the first step is to create a new Dynamics 36
 
 The Guides model-driven app provides an interface that lets users share a specific guide or guide record with other users or teams. To enable new security roles, you must grant them access to the Guides model-driven app.
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the environment where the Guides solution is installed, select the **More environment actions** (**...**) button, and then select **Open environment**.
+1. Go to [make.powerapps.com](https://make.powerapps.com), select **Apps**, and then select the **More Commands** (**...**) button next to **Guides**.
 
-    ![Open environment command](media/access-teams-6.PNG "Open environment command")
+    ![Select the More Commands button](media/select-apps.PNG "Select the More Commands button")
 
-2. In the **Guides** app tile, select the **More Actions** (**...**) button, and then select **Manage roles**.
+2. Select **Share**.
 
-    ![Manage roles command](media/access-teams-7.PNG "Manage roles command")
+    ![Select Share](media/select-share.PNG "Select Share")
 
-3. In the **Manage Roles - Guides** pane that appears on the right side of the page, select the check box for the **Dynamics 365 Guides Restricted Operator** role, but don't clear the selections for the other roles. Then select **Save**.
+3. Select the **Guides** app, select the **Dynamics 365 Guides Restricted Operator** role in the list, and then select **Save**.
 
-    ![Select the Dynamics 365 Guides Restricted Operator role](media/access-teams-8.PNG "Select the Dynamics 365 Guides Restricted Operator role")
+    ![Select the Dynamics 365 Guides Restricted Operator role](media/select-restricted-operator-role.PNG "Select the Dynamics 365 Guides Restricted Operator role")
 
 ## Step 3: Assign the new security role to a user or users
 

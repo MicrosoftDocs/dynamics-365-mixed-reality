@@ -78,7 +78,7 @@ Learn more about the [technical requirements](requirements.md) for deploying and
 
 In addition to using Remote Assist to consult with remote collaborators and resolve issues faster, technicians and inspectors work even more effectively when they use Field Service to view their schedules, perform and track work orders, manage customer assets, and more. When Remote Assist and Field Service are integrated, technicians and inspectors can view bookings in Remote Assist and automatically attach relevant call details and artifacts to their work order associated with that booking.
 
-![Screenshot of the HoloLens field of view, showing recent contacts and a booking detail pane.](media/HL2-01.04-contacts-booking.png "FS")
+![Screenshot of the HoloLens field of view, showing recent contacts and a booking detail pane.](media/07.01-dynamics-booking.png "FS")
 
 ## Next steps
 

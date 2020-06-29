@@ -35,7 +35,7 @@ To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 
 
 ### How can I tell what version I'm using?
 
-In Remote Assist HoloLens, go to **Settings**, and then find the version number in the **About** section.
+In Remote Assist HoloLens, go to the **Settings tab**, and then find the version number in the bottom left of the screen.
 
 ### What languages is Remote Assist HoloLens available in?
 
@@ -159,9 +159,9 @@ If you encounter an issue, use the HoloLens Feedback Hub to let us know so we ca
 There are two ways to get to the HoloLens Feedback Hub application to report a bug. 
 
 1. From the **Start menu**: At any time, you can go to the **Start menu** and launch **Feedback Hub**. 
-2. From Remote Assist: If you just ended a call and are looking at the **Recent Contacts** page, select **Settings** in the top-right corner. Select the **Links** tab, and in the **Links** section, select **Feedback Hub** to launch **Feedback Hub**. 
+2. From Remote Assist: Select the **Settings tab** from the left navigation. Select the **Links** sub tab, and in the **Links** section, select **Feedback Hub** to launch **Feedback Hub**. 
 
-![Screenshot of the Links tab in the HoloLens settings screen.](media/RAHL_SettingsLinks.png)
+![Screenshot of the Links tab in the HoloLens settings screen.](media/08.02-settings-feedbackhub.png)
 
 When you're in the HoloLens Feedback Hub: 
 
@@ -190,61 +190,3 @@ When you're in the HoloLens Feedback Hub:
 > [!Note]
 > Optionally, check the "This is blocking me" box if the issue is blocking you from completing your work or tasks. 
 
-
-## FAQs for Remote Assist on mobile  
-
-### How can I tell what version I'm using?
-
-In Remote Assist mobile, go to **Information**, and then find the version number in the **App Version** section.
-
-### How can I improve the tracking experience?
-
-- Map your environment area at the beginning of a video call.
-- Avoid rapid camera movements.
-- Avoid frequently minimizing the app and reopening it while there are annotations present.
-
-Limitations that may hinder accurate understanding of surfaces or facilitate in losing tracking include:
-- Flat surfaces without texture, such as a white desk.
-- Environments with dim lighting or bright lighting.
-- Transparent or reflective surfaces like glass.
-- Dynamic or moving surfaces.
-
-### What kinds of calls can a Remote Assist mobile user be in?
-
-* **Can I make calls to a Teams desktop user?** Yes. 
-* **Can I make calls to a Teams mobile user?** Yes. 
-* **Can I make or be in a group call or a call with three or more participants?** No, not at this time. 
-* **Can I be in a meeting?** No, not at this time. 
-
-### Does Remote Assist mobile support the ability to see both the live video feed from the rear-facing camera as well as the technician's face from the front-facing camera ?
-
-No, just the rear-facing camera at this time. 
-
-### What countries is Remote Assist for Mobile supported?
-
-On **Android** devices, Remote Assist mobile is available in 146 countries, but not available in Cuba, Sudan or Iran. It's also usable in China when connecting to global tenants, but not in the store currently (we are working on that).
-
-For **iOS** devices, Remote Assist mobile is available in 155 countries.
-
-### What languages does Remote Assist Mobile support?
-
-Arabic (Saudi Arabia), Bulgarian (Bulgaria), Catalan (Spain), Czech (Czech Republic), Danish (Denmark), German (Germany), Greek (Greece), English (Australia), English (Canada), English (United Kingdom), English (United States), Spanish (Spain), Estonian (Estonia), Basque (Spain), Finnish (Finland), French (Canada), French (France), Galician (Spain), Hebrew (Israel), Hindi (India), Croatian (Croatia), Hungarian (Hungary), Indonesian (Indonesia), Italian (Italy), Japanese (Japan), Kazakh (Kazakhstan), Korean (Korea), Lithuanian (Lithuania), Latvian (Latvia), Malay (Malaysia), Norwegian Bokmål (Norway), Dutch (Netherlands), Polish (Poland), Portuguese (Brazil), Portuguese (Portugal), Romanian (Romania), Russian (Russia), Slovak (Slovakia), Slovenian (Slovenia), Serbian (Cyrillic, Serbia), Serbian (Latin, Serbia), Swedish (Sweden), Thai (Thailand), Turkish (Turkey), Ukrainian (Ukraine), Vietnamese (Vietnam), Chinese (Simplified, China), Chinese (Hong Kong S.A.R.), Chinese (Traditional).
-
-## How do I provide feedback?
-
-Technicians can provide feedback or make requests directly in the Remote Assist mobile app. The Remote Assist mobile team values your feedback and strives to make significant improvements to the app.
-
-### Provide feedback customer scenario
-1.	Select the **Main Menu** icon.
-
-2.	Select **Feedback**. 
-
-3.	Provide your feedback.
-
->[!Note]
-> Remote Assist mobile users can also provide feedback to our team in the [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist) for Remote Assist or in the [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/list/?category=81a97e52-9c54-e911-a963-000d3a4f33c1&forum=4323c621-52bc-e811-a975-000d3a1bec70) for Remote Assist mobile.
-
-### See also
-- [Overview of Dynamics 365 Remote Assist](index.md)
-- [Requirements](requirements.md)
-- [How-to videos](videos.md)
