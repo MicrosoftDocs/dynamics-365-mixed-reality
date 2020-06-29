@@ -177,7 +177,7 @@ If you have trouble installing and configuring the solution as described in the 
 
 4. Select **Manage users in Dynamics 365**.
 
-    ![Manage users in Dynamics 365 command](media/manage-users-dynamics-365.PNG "Manage users in Dynamics 365 command")
+    ![Manage users in Dynamics 365 command](media/manage-user-roles-dynamics-365.PNG "Manage users in Dynamics 365 command")
 
 5. On the **Enabled Users** page, select the user, and then select **Manage Roles**.
 
