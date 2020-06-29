@@ -3,7 +3,7 @@ title: Set up a Dynamics 365 environment to use asset capture in Remote Assist
 author: bencorn
 description: How to set up an environment for the Asset Capture Public Preview
 ms.author: becorn
-ms.date: 06/15/2020
+ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
