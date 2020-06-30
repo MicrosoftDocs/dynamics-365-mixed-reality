@@ -47,7 +47,7 @@ Remote Assist mobile makes conducting repairs and remote inspections easy by pro
 
 4. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen.
 
-![Screenshot of Remote Assist mobile to Remote Assist mobile call.](../media/ram-ram-ar.png)
+![Screenshot of Remote Assist mobile to Remote Assist mobile call.](./media/ram-ram_toolbar.png)
 
 If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen.
 

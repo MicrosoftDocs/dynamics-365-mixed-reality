@@ -51,34 +51,34 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 
 ![Screenshot of the Remote Assist mobile video card](./media/3a.png "Video Card")
 
-5. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen. 
+5. If the remote collaborator answers the call on **Remote Assist mobile**, the technician's live video feed will be shared to the remote collaborator's device screen.
 
 > [!NOTE]
 > Technicians can't place mixed reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
 
-![Screenshot of RAM-Teams nonar](./media/ram-ram-no-toolbar.png "RAM-Teams")
+![Screenshot of RAM-Teams non-ar](./media/ram-ram_notoolbar.png)
 
    If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen.
 
 > [!NOTE]
 > Technicians can't place mixed reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
 
-![Screenshot of RAM-Teams nonar](../media/ram-teams-notoolbar.png "RAM-Teams")
+![Screenshot of RAM-Teams non-ar](../media/ram-teams-notoolbar.png "RAM-Teams")
 
-6. The technician will be directed to use the snapshot feature to add 2D annotations on a frozen video frame of their shared environment. 
+1. The technician will be directed to use the snapshot feature to add 2D annotations on a frozen video frame of their shared environment.
 
 ![Screenshot showing Remote Assist mobile, with the technician's tooltip notification.](./media/01.05-call-nonar-1.png "Tool tip")
 
 7. After selecting the **snapshot** icon, the technician will enter snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. If the remote collaborator is using **Remote Assist mobile**, then they can both place 2D annotations on the frozen frame of the technician's environment.
 
-> [!NOTE]	
+> [!NOTE]
 > Both the technician and remote collaborator will see the mixed reality toolbar on the frozen frame and can add 2D annotations.
 
 ![Screenshot showing the Remote Assist mobile snapshot mode.](./media/ram-ram-snaps.png "Snapshot mode")
 
 8. After selecting the **snapshot** icon, the technician will enter snapshot mode, which captures a frozen frame of the technician's environment and shares it to the remote collaborator's screen. If the remote collaborator is using **Teams desktop**, then they can both place 2D annotations frozen frame of the technician's environment.
 
-> [!NOTE]	
+> [!NOTE]
 > Both the technician and remote collaborator will see the mixed reality toolbar on the frozen frame and can add 2D annotations.
 
 ![Screenshot showing the Remote Assist mobile snapshot mode.](../media/ram-teams-anno.png "Snapshot mode")

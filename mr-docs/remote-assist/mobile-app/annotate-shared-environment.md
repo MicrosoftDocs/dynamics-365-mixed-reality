@@ -49,7 +49,7 @@ In Dynamics 365 Remote Assist mobile, mixed reality annotations enable technicia
 
 3. You will enter a **frozen frame** of the technician's environment and then you can add your annotations onto the frozen frame.
 
-![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams showing an annotated image of the technician's environment](./media/annoenvt.png "Expert Snapshot Mode")
+![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams showing an annotated image of the technician's environment](./media/ram-team_frozenframe.png)
 
 4. To stop adding annotations to the snapshot, you must select **Stop editing**. You will return to the technician's live video feed and your annotations will automatically appear on the technician's environment.
 
