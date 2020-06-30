@@ -84,7 +84,7 @@ After sorting out your licenses, users can setup and use the app on their HoloLe
 2.	Search for and download **Dynamics 365 Remote Assist** and launch the app.
 3.	Sign into Remote Assist with your Microsoft Teams account. 
 4.	You'll be taken to your Contacts page. Note that if you're using a free trial, you'll be prompted to start your **Free Trial of Dynamics 365 Remote Assist**.
-5.	You can now use Dynamics 365 Remote Assist on your mobile device! Next up, [learn how make calls](mobile-app/making-calls.md) to a remote expert on Microsoft Teams (desktop and mobile). 
+5.	You can now use Dynamics 365 Remote Assist on your mobile device! Next up, [learn how make calls](mobile-app/making-calls-with-ar.md) to a remote expert on Microsoft Teams (desktop and mobile). 
 
 >[!Note]
 > For Enterprise environments that manage application deployments using an MDM provider, please contact d365rafb@microsoft.com for assistance obtaining the Remote Assist mobile application binary.
