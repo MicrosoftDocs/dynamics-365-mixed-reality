@@ -35,7 +35,7 @@ In Dynamics 365 Remote Assist mobile, mixed reality annotations enable technicia
 
 ![Remote collaborator on RAM frozen frame screen](./media/ram-team_frozenframe.png)
 
-1. To stop adding annotations to the snapshot, you must select **Check Mark**. You will return to the technician's live video feed and your annotations will automatically appear on the technician's environment.
+3. To stop adding annotations to the snapshot, you must select **Check Mark**. You will return to the technician's live video feed and your annotations will automatically appear on the technician's environment.
 
 ## Annotating for remote collaborators using Teams desktop/mobile
 
