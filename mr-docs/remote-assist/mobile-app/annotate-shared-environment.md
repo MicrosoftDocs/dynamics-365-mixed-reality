@@ -20,7 +20,7 @@ In Dynamics 365 Remote Assist mobile, mixed reality annotations enable technicia
 
 2. Place your annotations to your shared environment. The remote collaborator will see your annotations in real time on Microsoft Teams.
 
-![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-single-anno.png "Place Annotations")
+![Side-by-side screenshots of Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-ram-ff.png "Place Annotations")
 
 ## Annotating for remote collaborators using Remote Assist mobile
 
