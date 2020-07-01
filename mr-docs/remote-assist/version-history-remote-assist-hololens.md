@@ -28,7 +28,7 @@ search.app:
 
 # Remote Assist HoloLens version history
 
-## HoloLens 1 & 2 – 210.
+## HoloLens 1 & 2 – 210.2007.01001.0
 
 Date: July 2020
 
