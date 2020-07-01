@@ -2,7 +2,7 @@
 title: "Remote Assist HoloLens version history | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
-ms.date: 06/11/2020
+ms.date: 07/01/2020
 ms.reviewer: krbjoran
 ms.service: dynamics-365-mixed-reality-remote-assist
 ms.suite: ""
@@ -34,18 +34,18 @@ Date: July 2020
 
 ### Bug fixes
 
-*	A Remote Assist HoloLens user using GCC High can successfully join a meeting
-*	Fixed bug in group calls on HoloLens 1 where remote collaborators are unable to annotate from Microsoft Teams client   
-*	Fixed issue with video sharing when a Remote Assist HoloLens user rejoins a meeting
-*	Improved experience for using nearfield and farfield interactions to manage (e.g. resize, move) holographic windows (e.g., video card, undocked chat window)
-*	Fixed issue regarding CDS instance selection for the Remote Assist solution from HoloLens
-*	Addressed an issue where file shared through Teams text chat would sometimes not show up on HoloLens
-*	Fixed positioning of Holographic pop ups (e.g., teaching card, prompt to save snapshot to Field Service booking) to appear in front of Remote Assist main menu and video card
-*	Voice command fixes to select the snapshot tool and take a snapshot
-*	Fixed issue with the call recording button not toggling as expected in the HoloLens app
-*	Fixed issue around saving and uploading of asset images while viewing asset list
-*	Fixed issue causing incorrect states of the previous/next buttons when navigating between pages on Asset list
-*	Additional miscellaneous bug fixes 
+-	A Remote Assist HoloLens user using GCC High can successfully join a meeting
+-	Fixed bug in group calls on HoloLens 1 where remote collaborators are unable to annotate from Microsoft Teams client   
+-	Fixed issue with video sharing when a Remote Assist HoloLens user rejoins a meeting
+-	Improved experience for using nearfield and farfield interactions to manage (e.g. resize, move) holographic windows (e.g., video card, undocked chat window)
+-	Fixed issue regarding CDS instance selection for the Remote Assist solution from HoloLens
+-	Addressed an issue where file shared through Teams text chat would sometimes not show up on HoloLens
+-	Fixed positioning of Holographic pop ups (e.g., teaching card, prompt to save snapshot to Field Service booking) to appear in front of Remote Assist main menu and video card
+-	Voice command fixes to select the snapshot tool and take a snapshot
+-	Fixed issue with the call recording button not toggling as expected in the HoloLens app
+-	Fixed issue around saving and uploading of asset images while viewing asset list
+-	Fixed issue causing incorrect states of the previous/next buttons when navigating between pages on Asset list
+-	Additional miscellaneous bug fixes 
 
 
 ## HoloLens 2 – 209.2006.11003.0
