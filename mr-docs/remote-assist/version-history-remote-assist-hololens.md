@@ -54,14 +54,14 @@ Date: June 2020
 
 ### Bug fixes
 
-* Fixed bug in group calls where remote collaborators are unable to annotate from Microsoft Teams client
-* Improvements to the Join Meeting feature to select between overlapping meetings
-* Fixed bug with the snapshot tool causing photos taken with the snapshot tool to not be sent through Teams chat
-* Fixed bug with the snapshot tool where the camera cursor would appear in the resulting photo
-* Various near-field / far-field interaction fixes
-* Fixed bug where the outgoing video feed may not work when answering a call from the HoloLens shell
-* Various fixes to enable users in Egypt to use Remote Assist
-* Incoming calls are now supported for GCC High and DOD
+- Fixed bug in group calls where remote collaborators are unable to annotate from Microsoft Teams client
+- Improvements to the Join Meeting feature to select between overlapping meetings
+- Fixed bug with the snapshot tool causing photos taken with the snapshot tool to not be sent through Teams chat
+- Fixed bug with the snapshot tool where the camera cursor would appear in the resulting photo
+- Various near-field / far-field interaction fixes
+- Fixed bug where the outgoing video feed may not work when answering a call from the HoloLens shell
+- Various fixes to enable users in Egypt to use Remote Assist
+- Incoming calls are now supported for GCC High and DOD
 
 ## HoloLens 1 & 2 – 208.2004.1002.0
 
@@ -69,15 +69,15 @@ Date: April 2020
 
 ### Bug fixes
 
-* Fixed various speech command bugs
-* Improvements to tool tips
-* Improvements to annotation stability
-* Fixed several application stability related bugs
-* Various bug fixes for joining Teams meetings
-* Fixes to keyboard interaction and usability
-* Various video quality fixes including support for SimulCast, bandwidth history, & network probing to improve overall video quality
-* Fixed text chat bug that was causing text chats not to show on HoloLens
-* Various near-field / far field interaction fixes
+- Fixed various speech command bugs
+- Improvements to tool tips
+- Improvements to annotation stability
+- Fixed several application stability related bugs
+- Various bug fixes for joining Teams meetings
+- Fixes to keyboard interaction and usability
+- Various video quality fixes including support for SimulCast, bandwidth history, & network probing to improve overall video quality
+- Fixed text chat bug that was causing text chats not to show on HoloLens
+- Various near-field / far field interaction fixes
 
 ## Locate your version number
 
