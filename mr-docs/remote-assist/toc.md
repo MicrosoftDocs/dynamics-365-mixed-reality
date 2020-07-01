@@ -40,9 +40,9 @@
 ## Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
 ### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
-### [Make calls with devices with AR support](mobile-app/making-calls.md)
+### [Make calls with devices with AR support](mobile-app/making-calls-with-AR.md)
 ### [Make calls with devices without AR support](mobile-app/using-devices-without-AR.md)
-### [Annotate your environment](mobile-app/annotate-your-environment.md)
+### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
 ### [Share files](mobile-app/file-sharing.md)
