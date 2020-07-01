@@ -2,7 +2,7 @@
 title: "Remote Assist mobile version history | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
-ms.date: 05/04/2020
+ms.date: 07/01/2020
 ms.reviewer: krbjoran
 ms.service: dynamics-365-mixed-reality-remote-assist
 ms.suite: ""
@@ -27,6 +27,21 @@ search.app:
 ---
 
 # Remote Assist mobile version history
+
+## iOS - 2020.7.1 + Android - 2020.06.27
+
+Date: July 1, 2020
+
+-	Improved incoming call experience for Remote Assist mobile users who do not have the app open when a call comes in from Microsoft Teams desktop or mobile clients.
+-	Fix for app crashing on mobile devices without augmented reality (AR) support, especially iPhone 5 and iPhone 6 devices.
+-	Dynamics 365 Field Service customers can now view the service account names on the bookings screen. 
+-	Updated the User Guide and Dynamics 365 Integration links in the app.
+-	Update for authentication library on iOS.
+-	Fix for “Just a moment” message blocking users after sign-in.
+-	Fix for ArgumentNullException showing up when user don’t have any recent contacts and search query returns empty list.
+-	Fix for Graphics.CopyTexture exception showing after annotating on the snapshot.
+-	Fixes for application localization (e.g. “Retry sign-in” button, “Don’t show again” button and tracking error state messages).
+-	Performance improvements for the application memory usage.
 
 ## iOS - 2020.5.28 + Android - 2020.05.22
 
