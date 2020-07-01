@@ -37,10 +37,10 @@ Date: July 2020
 -	A Remote Assist HoloLens user using GCC High can successfully join a meeting
 -	Fixed bug in group calls on HoloLens 1 where remote collaborators are unable to annotate from Microsoft Teams client   
 -	Fixed issue with video sharing when a Remote Assist HoloLens user rejoins a meeting
--	Improved experience for using near field and far field interactions to manage (e.g. resize, move) holographic windows (e.g., video card, undocked chat window)
+-	Improved experience for using near-field and far-field interactions to manage (for example, resize, move) holographic windows (for example, video card, undocked chat window)
 -	Fixed issue regarding CDS instance selection for the Remote Assist solution from HoloLens
 -	Addressed an issue where file shared through Teams text chat would sometimes not show up on HoloLens
--	Fixed positioning of Holographic pop ups (e.g., teaching card, prompt to save snapshot to Field Service booking) to appear in front of Remote Assist main menu and video card
+-	Fixed positioning of Holographic pop ups (for example, teaching card, prompt to save snapshot to Field Service booking) to appear in front of Remote Assist main menu and video card
 -	Voice command fixes to select the snapshot tool and take a snapshot
 -	Fixed issue with the call recording button not toggling as expected in the HoloLens app
 -	Fixed issue around saving and uploading of asset images while viewing asset list
@@ -77,7 +77,7 @@ Date: April 2020
 - Fixes to keyboard interaction and usability
 - Various video quality fixes including support for SimulCast, bandwidth history, & network probing to improve overall video quality
 - Fixed text chat bug that was causing text chats not to show on HoloLens
-- Various near-field / far field interaction fixes
+- Various near-field / far-field interaction fixes
 
 ## Locate your version number
 
