@@ -3,7 +3,7 @@ title: Set up a Dynamics 365 environment to use asset capture in Remote Assist
 author: bencorn
 description: How to set up an environment for the Asset Capture Public Preview
 ms.author: becorn
-ms.date: 06/10/2020
+ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -62,7 +62,7 @@ For more detailed documentation on creating Dynamics 365 environments, see: [Cre
 
 You've installed the Dynamics 365 Remote Assist app! You can get to the app by opening the environment and selecting the Remote Assist app or from [https://home.dynamics.com/](https://home.dynamics.com). Find more information about accessing Unified Interface apps here: [About Unified Interface for model-driven apps in Power Apps](https://docs.microsoft.com/power-platform/admin/about-unified-interface).
 
-The next tutorial goes into detail about adding users to the preview so they can interact with data and enable the preview in the HoloLens 2.
+The next tutorial goes into detail about adding users to the preview so they can interact with data and enable the preview in the HoloLens.
 
 > [!div class="nextstepaction"]
 > [Add users to the preview](./asset-capture-add-users.md)
@@ -71,23 +71,12 @@ The next tutorial goes into detail about adding users to the preview so they can
 
 ### Can't enable Dynamics 365 apps
 
-If you aren't able to toggle **Enable Dynamics 365 apps** during environment creation, the licensing changes required for the preview may not be available in your *tenant's* region yet. See the following table for region availability.
+If you aren't able to toggle **Enable Dynamics 365 apps** during environment creation, ensure you have an active Dynamics 365 Remote Assist subscription. Subscriptions can be viewed in [Microsoft 365 Admin Center](https://www.admin.microsoft.com).
 
-|Regions|Availability|
-|-----|-----|
-|Canada (CAN) </br> South America (LATAM/SAM) </br>India (IND) </br> France (FRA) </br> United Arab Emirates (UAE) </br> South Africa (ZAF) </br> Germany (GER) </br> Asia Pacific (APJ) </br> United Kingdom (UK) </br> Australia (OCE) </br> Japan (JPN) </br> | June 12, 2020|
-| Europe (EMEA) | June 15, 2020|
-| North America (NAM) | June 17, 2020|
+### Not enough capacity to create environments
 
-### Remote Assist doesn't show up in app dropdown
-
-If you're able to toggle **Enable Dynamics 365 apps**, but Remote Assist isn't in the dropdown:
-
-1. Leave the toggle **enabled**.
-2. Don't select any apps in the dropdown.
-3. Select **Save**.
-
-Once the environment is ready, see the following instructions to **Use an existing environment** to install the Remote Assist app and select the environment created in this step.
+Environment creation requires at least 1 GB of available database capacity. Paid subscriptions of Remote Assist provide a default tenant entitlement of 10 GB of database capacity (if Remote Assist is your first Dynamics 365 subscription). If you are on a trial and don't have any existing Dynamics 365 subscriptions that grant database capacity, you will not be able to evaluate the preview. Learn more about capacity: [New Common Data Service storage capacity
+](https://docs.microsoft.com/power-platform/admin/capacity-storage)
 
 ### The Remote Assist app isn't showing up in Power Platform Admin center
 
@@ -97,8 +86,4 @@ Once the environment is ready, see the following instructions to **Use an existi
 
 ### The Remote Assist model-driven app failed to install because of missing dependencies
 
-This will occur if you try installing Remote Assist in an environment that is not **Enabled for Dynamics 365 apps**. Try installing the app in an environment where other Dynamics apps are available, such as Field Service or Sales, or create a new environment that is enabled for Dynamics 365 apps. Learn more: [Create a new environment](#install-dynamics-365-remote-assist-model-driven-app)
-
-### Not enough capacity to create environments
-
-Environment creation requires at least 1 GB of available database capacity. Paid subscriptions of Remote Assist provide a default tenant entitlement of 10 GB of database capacity (if Remote Assist is your first Dynamics 365 subscription). If you are on a trial and don't have any existing Dynamics 365 subscriptions that grant database capacity, you will not be able to evaluate the preview.
+This will occur if you try installing Remote Assist in an environment that is not **Enabled for Dynamics 365 apps**. Try installing the app in an environment where other Dynamics apps are installed, such as Field Service or Sales, or create a new environment that is enabled for Dynamics 365 apps. Learn more: [Create a new environment](#install-dynamics-365-remote-assist-model-driven-app)
