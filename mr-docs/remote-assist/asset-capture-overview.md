@@ -3,7 +3,7 @@ title: Asset capture overview for Dynamics 365 Remote Assist
 author: bencorn
 description: Overview of the Asset Capture Public Preview 
 ms.author: becorn
-ms.date: 06/10/2020
+ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -32,7 +32,7 @@ Asset capture is easy to use and involves the following steps to get started:
 6. View the captured data.
 
 > [!Note]
-> Asset capture is in public preview and currently only available on HoloLens 2. The feature is disabled by default when you download the update to ensure your current users are not impacted by the workflow changes. The following tutorials will guide you through how to get started with asset capture, including enabling the features in HoloLens 2.
+> Asset capture is in public preview and only available on HoloLens 1 and HoloLens 2. The feature is disabled by default when the update is downloaded to ensure current users are not impacted by the workflow changes. The following tutorials will guide you through how to get started with asset capture, including enabling the features in the HoloLens.
 
 ## Next steps
 

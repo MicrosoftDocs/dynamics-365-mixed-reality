@@ -1,24 +1,24 @@
 ---
 title: Capture asset conditions with spatial markup in Dynamics 365 Remote Assist
 author: bencorn
-description: How to capture asset conditions with spatial markup in Dynamics 365 Remote Assist on HoloLens 2 
+description: How to capture asset conditions with spatial markup in Dynamics 365 Remote Assist on HoloLens
 ms.author: becorn
-ms.date: 06/10/2020
+ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Capture asset conditions with spatial markup in HoloLens 2
+# Capture asset conditions with spatial markup in HoloLens
 
 Remote Assist can be used to capture procedures and defects during jobs such as an inspection or while performing a repair. For example, a technician can use Remote Assist on the HoloLens to capture photos of the equipment they are inspecting to highlight defects like wear and corrosion. The photos can then be viewed and downloaded from the Remote Assist model-driven app by stakeholders within the organization, such as a service manager or site superintendent.
 
-In this article, you'll learn how to use the HoloLens 2 to view asset records created from the Remote Assist model-driven app and capture photos of assets with spatial markup.
+In this article, you'll learn how to use the HoloLens to view asset records created from the Remote Assist model-driven app and capture photos of assets with spatial markup.
 
 ## Prerequisites
 
 To complete this article, you need:
 
-- **HoloLens 2**. The public preview requires a HoloLens 2 with Remote Assist installed. Ensure you have downloaded the latest update to Remote Assist through the Microsoft Store.
+- **HoloLens**. The public preview requires a HoloLens 1 or HoloLens 2 with Remote Assist installed. Ensure you have downloaded the latest update to Remote Assist through the Microsoft Store.
 - **Access to the environment Remote Assist is installed in**. The account you sign into Remote Assist with needs access to the environment created in the first step and an active Remote Assist license.
 
 ## Capture asset conditions

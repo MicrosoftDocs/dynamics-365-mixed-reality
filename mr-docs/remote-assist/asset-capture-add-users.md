@@ -3,14 +3,14 @@ title: Add users to the asset capture preview in Dynamics 365 Remote Assist
 author: bencorn
 description: Learn how to add users to the preview of asset capture.
 ms.author: becorn
-ms.date: 06/10/2020
+ms.date: 07/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
 # Add users to the Asset Capture preview
 
-Learn how to add users to the asset capture public preview so they can access the model-driven app and use the HoloLens 2 to capture asset data.
+Learn how to add users to the asset capture public preview so they can access the model-driven app and use the HoloLens to capture asset data.
 
 In this tutorial, you assign users a Remote Assist license and security roles.
 
@@ -24,7 +24,7 @@ To complete this article, you need:
 
 ## Assign Remote Assist licenses
 
-Anyone who will be using Remote Assist on HoloLens 2 or accessing the Remote Assist model-driven app to review captured data will need a Remote Assist license. If these users already have a Remote Assist license, you can skip this step.
+Anyone who will be using Remote Assist on HoloLens or accessing the Remote Assist model-driven app to review captured data will need a Remote Assist license. If these users already have a Remote Assist license, you can skip this step.
 
 1. Sign in to the [Microsoft Admin center](https://admin.microsoft.com) as an admin (User admin or Global admin).
 2. Go to **Billing** > **Licenses**.
