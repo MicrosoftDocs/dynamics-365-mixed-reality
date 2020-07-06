@@ -70,11 +70,11 @@ To clear the content and settings cached on a device:
 
     ![Storage command selected](media/storage-cache.PNG "Storage command selected")
     
-4. Select **Show more categories**
+4. Select **Show more categories**.
 
     ![Show more categories command selected](media/show-more-categories-cache.PNG "Show more categories command selected")
     
-5. Select **Apps & features**
+5. Select **Apps & features**.
 
     ![Apps & features command selected](media/apps-features-cache.PNG "Apps & features command selected")
 
