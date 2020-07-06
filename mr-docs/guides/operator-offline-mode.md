@@ -42,9 +42,9 @@ You can access a guide using a QR code link as long as you've used the guide whi
 
 The demo available through the Dynamics 365 Guides Home screen is available for use without an internet connection.
 
-## Staying offline and its effect on telemetry
+## How often do you need to come back online?
 
-The Azure Active Directory default configuration for sign-in frequency is a rolling window of 90 days. However, from a telemetry perspective, only a few app sessions are stored on the device. To keep your telemetry up-to-date, make sure to come back online regularly. [Learn more about configurable token lifetimes in Azure Active Directory (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+The Azure Active Directory default configuration for sign-in frequency is a rolling window of 90 days. However, from a Power BI (telemetry) perspective, only a few app sessions are stored on the device. To keep your Power BI dashboards up-to-date, make sure to come back online regularly. [Learn more about configurable token lifetimes in Azure Active Directory (Preview)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 
 ## Limitations with Offline mode
 
