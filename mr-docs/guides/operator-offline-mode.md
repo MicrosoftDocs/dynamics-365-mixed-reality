@@ -78,7 +78,7 @@ To clear the content and settings cahed on a device:
 
     ![Apps & features command selected](media/apps-features-cache.PNG "Apps & features command selected")
 
-6. Select **Dynamics 365 Guides**, and then select **Advanced systems**.
+6. Select **Dynamics 365 Guides**, and then select **Advanced options**.
 
     ![Advanced systems command selected](media/advanced-systems-cache.PNG "Advanced systems command selected")
 
