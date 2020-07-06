@@ -58,7 +58,7 @@ The Azure Active Directory default configuration for sign-in frequency is a roll
 
 To clear the content and settings cached on a device:
 
-1. From the Start screen, select **Settings**.
+1. From the **Start** screen, select **Settings**.
 
     ![Settings button in Start menu](media/start-menu-cache.PNG "Settings button in Start menu")
     
