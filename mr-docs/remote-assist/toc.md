@@ -66,6 +66,7 @@
 
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
+### [FAQ for deploying Remote Assist](faq-deploy.md)
 ### [FAQ for Remote Assist on HoloLens and HoloLens 2](faq.md)
 ### [FAQ for Remote Assist mobile](./mobile-app/faq-mobile.md)
 
