@@ -60,29 +60,31 @@ To clear the content and settings cahed on a device:
 
 1. From the Start screen, select **Settings**.
 
-    SCREEN SHOT GOES HERE
+    ![Settings button in Start menu](media/settings-cache.PNG "Settings button in Start menu")
     
 2. Select **System**.
 
-    SCREEN SHOT GOES HERE
+    ![System command selected](media/system-cache.PNG "System command selected")
 
 3. Select **Storage**.
 
-    SCREEN SHOT GOES HERE
+    ![Storage command selected](media/storage-cache.PNG "Storage command selected")
     
 4. Select **Show more categories**
 
-    SCREEN SHOT GOES HERE
+    ![Show more categories command selected](media/show-more-categories-cache.PNG "Show more categories command selected")
     
 5. Select **Apps & features**
 
-    SCREEN SHOT GOES HERE
+    ![Apps & features command selected](media/apps-features-cache.PNG "Apps & features command selected")
 
 6. Select **Dynamics 365 Guides**, and then select **Advanced systems**.
 
-    SCREEN SHOT GOES HERE
+    ![Advanced systems command selected](media/advanced-systems-cache.PNG "Advanced systems command selected")
 
 7. Scroll down on the page, and then select **Reset**.
+
+    ![Reset command selected](media/reset-cache.PNG "Reset command selected")
 
 8. In the pop-up message, select **Reset**. A check mark will appear next to the **Reset** button.
 
