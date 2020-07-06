@@ -148,6 +148,10 @@ To view the call log and files, sign into Field Service and select the work orde
 
 For more information, visit our article on [displaying and saving files](display-save-files.md).
 
+### The HoloLens 2 mic captures the HoloLens wearer's voice well, but I want the mic to capture more of the environmental sound. 
+
+HoloLens 2 does not support Audio In for Bluetooth mics. To achieve this, you may consider purchasing a mic and attaching it to the HoloLens 2. Then, attach headphones to ensure that call partiicpatns can hear both the HoloLens 2 user's voice captured by the __ and the environmental sound captured by the mic. 
+
 ### How do I file a support ticket?
 
 If you encounter an issue that blocks you from using the application and you do not see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/hololens). Support will work directly with you and communicate daily until the issue is resolved.  
