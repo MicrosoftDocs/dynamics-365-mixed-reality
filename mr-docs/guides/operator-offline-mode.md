@@ -56,7 +56,7 @@ The Azure Active Directory default configuration for sign-in frequency is a roll
 
 - If you lose permissions to a guide that has already been downloaded to your HoloLens, the downloaded version will remain on the HoloLens until the cache is cleared, but you will not be able to open it online or access any updates. 
 
-To clear the content and settings cahed on a device:
+To clear the content and settings cached on a device:
 
 1. From the Start screen, select **Settings**.
 
