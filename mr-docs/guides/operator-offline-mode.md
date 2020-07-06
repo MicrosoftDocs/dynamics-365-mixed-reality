@@ -60,7 +60,7 @@ To clear the content and settings cahed on a device:
 
 1. From the Start screen, select **Settings**.
 
-    ![Settings button in Start menu](media/settings-cache.PNG "Settings button in Start menu")
+    ![Settings button in Start menu](media/start-menu-cache.PNG "Settings button in Start menu")
     
 2. Select **System**.
 
