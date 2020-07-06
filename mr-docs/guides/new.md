@@ -18,7 +18,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## July 7, 2020
 
-Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version XXX include the following new feature.
+Version 402.2006.23001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.2.66 include the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
