@@ -9,53 +9,33 @@ title: Dynamics 365 Remote Assist frequently asked questions
 ms.reviewer: krbjoran
 ---
 
-# Dynamics 365 Remote Assist frequently asked questions
+# Frequently asked questions for Dynamics 365 Remote Assist HoloLens
 
-Here are some answers to common questions about deploying and using Dynamics 365 Remote Assist, which is available on HoloLens, HoloLens 2, and [AR-capable mobile phones and tablets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
+Here are some answers to common questions about using Dynamics 365 Remote Assist on HoloLens and HoloLens 2. In general, you can request help using our [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist). 
 
-In general, you can request help using our [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist). 
-
-This document also includes device-specific ways to provide file a bug, request help, and provide feedback.
-
-## Deploy Remote Assist (for IT Admins)
-
-### What are the technical requirements for deploying Dynamics 365 Remote Assist?
-
-Learn about the technical requirements [here](requirements.md).
-
-### Can I use Dynamics 365 Remote Assist to collaborate with a Microsoft Teams user outside my tenant, or vice versa?
-
-Yes. Learn how to [set up multi-tenant company deployments](multi-tenant-deployment.md), [enable vendors and contractors to use Remote Assist](vendor-use-ra.md), or [enable vendors and contractors to use Teams](vendor-use-teams.md).
-
-### How do I set up Dynamics 365 Field Service to work with Dynamics 365 Remote Assist?
-
-To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 Remote Assist so that a firstline worker can call an expert in the context of a Field Service booking, see [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](troubleshoot-field-service.md).
-
-## Using Remote Assist on HoloLens or HoloLens 2 
-
-### How can I tell what version I'm using?
+## How can I tell what version I'm using?
 
 In Remote Assist HoloLens, go to the **Settings tab**, and then find the version number in the bottom left of the screen.
 
-### What languages is Remote Assist HoloLens available in?
+## What languages is Remote Assist HoloLens available in?
 
 Remote Assist on HoloLens is available in English. As of October 2018, it's also [available in Simplified Chinese and Japanese](https://docs.microsoft.com/windows/mixed-reality/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](https://docs.microsoft.com/hololens/hololens1-install-localized).
 
 Remote Assist on HoloLens 2 is available in the [following languages](https://docs.microsoft.com/hololens/hololens2-language-support).
 
-### Why am I not getting incoming call notifications?
+## Why am I not getting incoming call notifications?
 
 This can happen if you’re signed in to Remote Assist with a different account than the one you used to sign in to your HoloLens. Make sure you’re signed into both the app and the device with the same account. 
 
-### I see a message saying I have no internet connection.
+## I see a message saying I have no internet connection.
 
 To use Remote Assist, you need an internet connection. For more information about connecting to the internet on your HoloLens, visit [this support article](https://support.microsoft.com/help/12629).
 
-### Remote Assist is frozen or unresponsive.
+## Remote Assist is frozen or unresponsive.
 
 Try closing and reopening Remote Assist. If you’re still having problems, [restart your HoloLens](https://support.microsoft.com/help/12642).
 
-### Remote Assist isn't showing my contacts.
+## Remote Assist isn't showing my contacts.
 
 If you don’t see the contacts you expect, try the following actions:
 
@@ -65,15 +45,15 @@ If you don’t see the contacts you expect, try the following actions:
 
 - [Restart your HoloLens](https://support.microsoft.com/help/12642).
 
-### The Mixed Reality toolbar doesn’t appear on the Teams desktop application during a Remote Assist call.
+## The Mixed Reality toolbar doesn’t appear on the Teams desktop application during a Remote Assist call.
 
 This might happen if Teams has downloaded a new version of the client application in the background but is still running the older version of the app. Restarting your PC will usually fix this issue. This also might happen if the Remote Assist HoloLens user has lost tracking.
 
-### Why does audio sometimes cut out even in quiet environments?
+## Why does audio sometimes cut out even in quiet environments?
 
 If Remote Assist is used in a loud environment, use headphones on both ends for better communication. Using headphones for both users prevents any echo filtering from proactively turning on noise cancellation, which turns off audio.
 
-### I signed in to my HoloLens, but I still can't sign in to Remote Assist.
+## I signed in to my HoloLens, but I still can't sign in to Remote Assist.
 
 If you’re having trouble signing in to Remote Assist, try the following:
 
@@ -85,15 +65,15 @@ If you’re having trouble signing in to Remote Assist, try the following:
 
 - Check with your administrator to make sure your device and network are set up to work with Remote Assist.
 
-### Can I share files from SharePoint on Remote Assist?
+## Can I share files from SharePoint on Remote Assist?
 
 No, you can only share local files and files from OneDrive.
 
-### Can a Teams desktop user show the Remote Assist HoloLens user a video or PowerPoint?
+## Can a Teams desktop user show the Remote Assist HoloLens user a video or PowerPoint?
 
 Yes. We understand that technicians, inspectors, and remote collaborators want to refer to a wide variety of resources and reference documents during the call. By using the Teams desktop **Share** feature, the Teams desktop user can show the Remote Assist HoloLens whatever they are looking at on their desktop or in a specific application window. For example, the Teams desktop user can show the technician a video playing in a web browser. Furthermore, because the Teams desktop user's screen or application window is shared in real time, all call participants will see when the Teams desktop user pauses or restarts the video. 
 
-### When a Remote Assist call ends, how can I access the messages, snapshots, and files from the call?
+## When a Remote Assist call ends, how can I access the messages, snapshots, and files from the call?
 
 All messages, links, or images sent in the text chat will be available for all participants via Teams chat, but not via Remote Assist chat. Additional details below.
 
@@ -105,7 +85,7 @@ Then, regardless of how snapshots are saved, a link to the snapshot is sent via 
 
 **Files:** When a Teams user shares a file, a link to the file is sent in the chat. During the call, the Remote Assist user can use the controls in the top-right corner of a file to save it to their OneDrive.  
 
-### How can I improve hologram stability?
+## How can I improve hologram stability?
 
 Hologram stability refers to how well a placed hologram stays where you placed it – be this perceptual or actual.
 
@@ -119,7 +99,7 @@ To improve hologram stability, complete eye calibration.
 - To complete eye calibration on HoloLens, [manually start the calibration process]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-1st-gen). 
 - HoloLens 2 will prompt you to calibrate the device under several circumstances. [Complete eye calibration]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds. 
 
-### Multiple people in my organization use Remote Assist on the same HoloLens. How do I clean my HoloLens?
+## Multiple people in my organization use Remote Assist on the same HoloLens. How do I clean my HoloLens?
 
 Learn how to clean [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware#care-and-cleaning). 
 
@@ -148,15 +128,15 @@ To view the call log and files, sign into Field Service and select the work orde
 
 For more information, visit our article on [displaying and saving files](display-save-files.md).
 
-### The HoloLens 2 mic captures the HoloLens wearer's voice well, but I want the mic to capture more of the environmental sound. 
+## The HoloLens 2 mic captures the HoloLens wearer's voice well, but I want the mic to capture more of the environmental sound. 
 
 HoloLens 2 does not support Audio In for Bluetooth mics. To achieve this, you may consider purchasing a mic and attaching it to the HoloLens 2. Then, attach headphones to ensure that call partiicpatns can hear both the HoloLens 2 user's voice captured by the __ and the environmental sound captured by the mic. 
 
-### How do I file a support ticket?
+## How do I file a support ticket?
 
 If you encounter an issue that blocks you from using the application and you do not see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/hololens). Support will work directly with you and communicate daily until the issue is resolved.  
 
-### How do I report a bug?
+## How do I report a bug?
 
 If you encounter an issue, use the HoloLens Feedback Hub to let us know so we can resolve it in future releases.
 
