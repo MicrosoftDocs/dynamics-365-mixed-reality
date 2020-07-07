@@ -57,7 +57,7 @@ A variety of network conditions, including bandwidth, latency, jitter, and packe
 
 ### Remote Assist mobile
 
-When using Remote Assist on mobile devices, a minimum of 1.2 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 30fps. If Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information. 
+When using Remote Assist on mobile devices, a minimum of 1.2 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15fps. If Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information. 
 
 ### Remote Assist HoloLens
 
