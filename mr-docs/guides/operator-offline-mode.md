@@ -77,6 +77,9 @@ You can clear the content and settings cached on a HoloLens by resetting it.
 
     ![Show more categories command selected](media/show-more-categories-cache.PNG "Show more categories command selected")
     
+    > [!NOTE]
+    > If you don't see the **Show more categories** command, select the blue storage bar.<br>![Blue Storage bar](media/storage2-cache.PNG "Blue Storage bar")
+    
 5. Select **Apps & features**.
 
     ![Apps & features command selected](media/apps-features-cache.PNG "Apps & features command selected")
