@@ -182,16 +182,20 @@ If you have trouble installing and configuring the solution as described in the 
 
     > [!IMPORTANT]
     > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the **Guides Hub** tile. However, we recommend that you not make changes in the Guides Hub. Any changes that you make there can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
+    
+4. Select **Manage users in Dynamics 365**.
 
-4. On the **Enabled Users** page, select the user, and then select **Manage Roles**.
+    ![Manage users in Dynamics 365 command](media/manage-user-roles-dynamics-365.PNG "Manage users in Dynamics 365 command")
+
+5. On the **Enabled Users** page, select the user, and then select **Manage Roles**.
 
     ![Manage roles button](media/manage-roles.png "Manage roles button")
 
-5. In the **Manage User Roles** dialog box, make sure that the **Common Data Service User** check box is selected.
+6. In the **Manage User Roles** dialog box, make sure that the **Common Data Service User** check box is selected.
 
     ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
 
-6. Select the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Author** or **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Operator** check box, depending on the privileges that you want the user to have.
+7. Select the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Author** or **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Operator** check box, depending on the privileges that you want the user to have.
 
     ![Author and Operator role check boxes](media/select-role.PNG "Author and Operator role check boxes")
 
@@ -202,7 +206,7 @@ If you have trouble installing and configuring the solution as described in the 
     | Author | Users who have this role can use the PC app and HoloLens app to create, edit, and operate guides. They can also rename and inactivate existing guides. |
     | Operator | Users who have this role can use the HoloLens app to view/operate a guide. They can also save time by skipping the **Select Mode** dialog box when they open a guide. |
 
-7. If you want the user to have admin privileges, select the **System Administrator** check box.
+8. If you want the user to have admin privileges, select the **System Administrator** check box.
 
 ## What's next?
 
