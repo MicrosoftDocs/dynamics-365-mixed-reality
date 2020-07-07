@@ -174,7 +174,7 @@ If you have trouble installing and configuring the solution as described in the 
 
     > [!IMPORTANT]
     > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the **Guides Hub** tile. However, we recommend that you not make changes in the Guides Hub. Any changes that you make there can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
-
+    
 4. Select **Manage users in Dynamics 365**.
 
     ![Manage users in Dynamics 365 command](media/manage-user-roles-dynamics-365.PNG "Manage users in Dynamics 365 command")
