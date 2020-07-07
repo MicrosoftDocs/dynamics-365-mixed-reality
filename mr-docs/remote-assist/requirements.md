@@ -55,15 +55,13 @@ To collaborate with a Remote Assist user, a Microsoft Teams user may only use th
 
 A variety of network conditions, including bandwidth, latency, jitter, and packet loss, can impact your video calling experience. Although audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation.
 
-In most circumstances:
+### Remote Assist mobile
 
--   [1.5 Mbps up/down is required](https://docs.microsoft.com/MicrosoftTeams/prepare-network#bandwidth-requirements).
--   When more bandwidth is available, quality and usage will increase to deliver the best experience.
--   4-5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p.
+When using Remote Assist on mobile devices, a minimum of 1.2 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 30fps. If Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information. 
 
-However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
+### Remote Assist HoloLens
 
-You can use Remote Assist on mobile devices in low-bandwidth environments between 150 kbps and 1.5 Mbps. For more information, see the [low bandwidth documentation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity).
+When using Remote Assist on HoloLens, a minimum of 1.5Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p at 30fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD quality video calling with resolution of HD 1080p, 4-5Mbps up/down should be expected. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
 
 ### Network optimization recommendations
 
