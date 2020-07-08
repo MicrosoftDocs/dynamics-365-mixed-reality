@@ -16,8 +16,7 @@
 ### [Delete a model](delete-model.md)
 ### [Create a mixed reality session](create-mr-session.md)
 ### [Add a product to a mixed reality session](add-product-mr-session.md)
-
-## [Administrator guide](admin-guide.md)
+### [Set up Microsoft Teams](setup-ms-teams.md)
 
 ## Product Visualize iOS app user guide
 ### [Overview](user-guide.md)
