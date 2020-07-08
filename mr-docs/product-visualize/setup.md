@@ -90,7 +90,7 @@ Go to <https://trials.dynamics.com/>.
 
 ## What's next
 
-After you've finished the setup process, you'll have a Dynamics 365 trial instance with Product Visualize Hub app installed. You can login to the Product Visualize Hub app and start adding products, 3D models, and creating mixed reality sessions. More information: Administrator guide
+After you've finished the setup process, you'll have a Dynamics 365 trial instance with Product Visualize Hub app installed. You can login to the Product Visualize Hub app and start adding products, 3D models, and creating mixed reality sessions. More information: [Product Visualize Hub user guide](hub-user-guide.md)
 
 ### See also
 
