@@ -1,7 +1,7 @@
 ﻿---
-title: 
-description: 
-ms.date: 07/08/2020
+title: Add products to a mixed reality session in Product Visualize Hub
+description: Instructions for adding products to a mixed reality session in Product Visualize Hub.
+ms.date: 07/17/2020
 ms.topic: article
 ms.service: dynamics-365-sales
 author: sbmjais

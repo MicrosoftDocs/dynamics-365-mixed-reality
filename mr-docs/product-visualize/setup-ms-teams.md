@@ -1,6 +1,6 @@
 ---
-title: Administrator guide for Dynamics 365 Product Visualize
-description: Learn about various administrator tasks for Dynamics 365 Product Visualize, including adding groups, products, opportunities, and the Dynamics 365 Product Visualize control.
+title: Set up Microsoft Teams for Product Visualize
+description: Instructions for setting up Microsoft Teams for Product Visualize.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi

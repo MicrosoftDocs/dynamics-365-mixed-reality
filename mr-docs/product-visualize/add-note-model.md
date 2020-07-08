@@ -1,7 +1,7 @@
 ﻿---
-title: Add and manage notes attached to a model
-description: Instructions for adding and managing notes attached to a model.
-ms.date: 07/08/2020
+title: Add and manage notes attached to a model in Product Visualize Hub
+description: Instructions for adding and managing notes attached to a model in Product Visualize Hub.
+ms.date: 07/17/2020
 ms.topic: article
 ms.service: dynamics-365-sales
 author: sbmjais
