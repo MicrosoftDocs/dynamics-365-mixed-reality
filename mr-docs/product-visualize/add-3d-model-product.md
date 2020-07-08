@@ -73,7 +73,7 @@ When you add a thumbnail, an image is displayed for the model.
 
 6.  Select **Back** to view thumbnail of the model.
 
-# Delete a model
+## Delete a model
 
 1.  [Sign in to Product Visualize Hub](sign-in-app.md).
 
