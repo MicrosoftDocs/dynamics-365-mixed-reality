@@ -1,5 +1,5 @@
 ---
-title: User guide for Dynamics 365 Product Visualize
+title: User guide for Dynamics 365 Product Visualize iOS app
 description: Guide for opening and signing in to the Dynamics 365 Product Visualize app, placing and manipulating 3D models, adding notes, adding your own 3D models, and exploring sample 3D models
 author: sbmjais
 ms.author: shjais
@@ -10,7 +10,7 @@ ms.topic: article
 ms.reviewer:
 ---
 
-# User guide for Dynamics 365 Product Visualize
+# Dynamics 365 Product Visualize iOS app user guide
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
@@ -59,10 +59,6 @@ If you have 3D models of your products, you can show them to your client in a me
 
 > [!div class=mx-imgBorder]
 > ![Find a surface to place a model on](media/preface-find-surface.png "Find a surface to place a model on")
-
-<!--
-![Model placed on a surface](media/preface-model-placed.png "Model placed on a surface")
--->
 
 ### Manipulate your model
 

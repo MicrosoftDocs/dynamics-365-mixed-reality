@@ -110,7 +110,9 @@ You now have everything you need to start using Dynamics 365 Product Visualize. 
 
 ### See also
 
-[Requirements for setting up Dynamics 365 Product Visualize](requirements.md)<br>
-[Setup](setup.md)<br>
-[User guide](user-guide.md)<br>
-[FAQ](faq.md)<br>
+[Sign in to Product Visualize Hub](sign-in-app.md)<br>
+[Add a 3D product](add-3d-product.md)<br>
+[Add 3D model to a product](add-3d-model-product.md)<br>
+[Add a note to a model](add-note-model.md)<br>
+[Create a mixed reality session](create-mr-session.md)<br>
+[Add a product to a mixed reality session](add-product-mr-session.md)
