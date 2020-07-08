@@ -21,6 +21,8 @@ A mixed reality session represents a chance to sell your products to a customer.
 
 2.  In the left navigation pane, select **Mixed Reality Sessions**.
 
+    ![Select Mixed Reality Sessions from the left navigation pane](media/mr-session.png "Select Mixed Reality Sessions from the left navigation pane")
+
 3.  On the toolbar at the top of the page, select **New**.
 
 4.  In the **Name** field, enter a name for the mixed reality session.

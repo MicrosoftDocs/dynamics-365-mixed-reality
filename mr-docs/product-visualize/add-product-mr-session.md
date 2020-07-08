@@ -21,6 +21,8 @@ After you've created a mixed reality session, you must add products to it. A pro
 
 2.  In the left navigation pane, select **Mixed Reality Sessions**.
 
+    ![Select Mixed Reality Sessions from the left navigation pane](media/mr-session.png "Select Mixed Reality Sessions from the left navigation pane")
+
 3.  On the **My Active Mixed Reality Sessions** page, select your mixed reality session.
 
 4.  Under **3D Products**, select More Commands (…), and then select **Add Existing 3D Product**.

@@ -21,6 +21,8 @@ Products are the things you sell to a customer, and they can be physical goods o
 
 2.  In the left navigation pane, select **3D Product Catalog**.
 
+    ![Select 3D Product Catalog from the left navigation pane](media/product-catalog-nav.png "Select 3D Product Catalog from the left navigation pane")
+
 3.  On the toolbar at the top of the page, select **New**.
 
 4.  On the **New 3D Product** page, provide the following information:

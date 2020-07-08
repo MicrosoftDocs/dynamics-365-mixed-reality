@@ -23,9 +23,13 @@ Dynamics 365 Product Visualize makes use of the widely available GL Transmission
 
 2.  In the left navigation pane, select **3D Product Catalog**. A list of products is displayed.
 
+    ![Select 3D Product Catalog from the left navigation pane](media/product-catalog-nav.png "Select 3D Product Catalog from the left navigation pane")
+
 3.  On the **Active 3D Products** page, select the product in which a model is to be added.
 
 4.  Under **3D Viewer**, select **Add 3D Model**.
+
+    ![Add 3D model button](media/add-3d-model-button.png "Add 3D model button")
 
 5.  Browse and select the 3D model.
 
