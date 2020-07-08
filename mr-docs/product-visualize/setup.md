@@ -46,6 +46,9 @@ Go to <https://trials.dynamics.com/>.
 
     ![Create user ID and password](media/wizard-step3_1.png "Create user ID and password")
 
+    > [!NOTE]
+    > Store the user ID and password in a safe place, as you will need them later.
+
 8.  Once your account is setup, select **Let's go**.
 
     ![Finish setup](media/wizard-step4.png "Finish setup")

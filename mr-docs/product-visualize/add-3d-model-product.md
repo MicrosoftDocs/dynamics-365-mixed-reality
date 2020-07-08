@@ -13,9 +13,9 @@ manager: shujoshi
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Presenting complicated products to a customer by using traditional 2D materials is unsatisfactory and creating physical 3D models is time-consuming and costly. Dynamics 365 Product Visualize simplifies the entire process by bringing 3D digital models into the real world.
+Presenting complicated products to a customer by using traditional 2D materials is unsatisfactory and creating physical 3D models is time-consuming and costly. Dynamics 365 Product Visualize simplifies the entire process of bringing 3D digital models into the real world.
 
-Dynamics 365 Product Visualize makes use of the widely available GL Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and several exporting tools can convert other file formats to glTF. The GLB format is the binary version of .glTF version 2.0, which can include textures.
+Dynamics 365 Product Visualize makes use of the widely available Graphics Library Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and several exporting tools can convert other file formats to glTF. The GLB format is the binary version of .glTF version 2.0, which can include textures.
 
 **To add 3D model to a product**
 
