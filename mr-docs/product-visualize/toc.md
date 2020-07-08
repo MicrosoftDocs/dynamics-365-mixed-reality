@@ -1,11 +1,26 @@
 # Dynamics 365 Product Visualize
 ## [Overview](index.md)
 ## [Requirements](requirements.md)
-## Setup and administration
-### [Set up on a new Dynamics 365 Sales instance](setup.md)
-### [Set up on an existing Dynamics 365 Sales instance](setup-existing-instance.md)
-### [Administrator guide](admin-guide.md)
-## [User guide](user-guide.md)
+
+## Administrator guide
+### [Set up on a new Dynamics 365 instance](setup.md)
+
+## Product Visualize Hub user guide
+### [Sign in to Product Visualize Hub](sign-in-app.md)
+### [Add a 3D product](add-3d-product.md)
+### [Add 3D model to a product](add-3d-model-product.md)
+### [Add a note to a model](add-note-model.md)
+### [Manage notes](manage-notes.md)
+### [Manipulate a model](manipulate-model-app.md)
+### [Create thumbnail of a model](create-model-thumbnail.md)
+### [Delete a model](delete-model.md)
+### [Create a mixed reality session](create-mr-session.md)
+### [Add a product to a mixed reality session](add-product-mr-session.md)
+
+## [Administrator guide](admin-guide.md)
+
+## Product Visualize iOS app user guide
+### [Overview](user-guide.md)
 ### [Install, open, and sign in to the app](sign-in.md)
 ### [Place and manipulate 3D models](manipulate-models.md)
 ### [Add a note to a 3D model](add-note.md)
