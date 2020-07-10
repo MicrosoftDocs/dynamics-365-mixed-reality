@@ -63,7 +63,7 @@
 ### Metadata references
 #### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
 #### [msdyn_customerassetattachment entity reference](msdyn_customerassetattachment.md)
-
+## [Language support](remote-assist-language.md)
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
 ### [FAQ for Remote Assist on HoloLens and HoloLens 2](faq.md)
