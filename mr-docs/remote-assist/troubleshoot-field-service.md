@@ -121,7 +121,7 @@ Like any typical day, the technician logs in to Field Service Mobile and sees th
 > ![Screenshot of four mobile devices showing Field Service Mobile, and the workflow that brings up the Remote Assist launching option.](./media/remote-assist-field-service-mobile.png)
 
 > [!Note]
-> The deep link from Field Service Mobile to the Remote Assist mobile app is available on iOS and Android devices. You will need to set up Field Service Mobile with the correct mobile project, [1.0.3482](https://docs.microsoft.com/en-us/dynamics365/field-service/field-service-version-history-mobile#103482) for FSM on Android devices and [1.0.4847](https://docs.microsoft.com/en-us/dynamics365/field-service/field-service-version-history-mobile#104847) for FSM on iOS. For more information on Field Service Mobile projects see the topic on [importing mobile projects](https://docs.microsoft.com/en-us/dynamics365/field-service/install-field-service#step-4-import-the-mobile-project-template).
+> The deep link from Field Service Mobile to the Remote Assist mobile app is available on iOS and Android devices. You will need to set up Field Service Mobile with the correct mobile project, [1.0.3482](https://docs.microsoft.com/dynamics365/field-service/field-service-version-history-mobile#103482) for Field Service Mobile on Android devices and [1.0.4847](https://docs.microsoft.com/dynamics365/field-service/field-service-version-history-mobile#104847) for Field Service Mobile on iOS. For more information on Field Service Mobile projects, see the article on [importing mobile projects](https://docs.microsoft.com/dynamics365/field-service/install-field-service#step-4-import-the-mobile-project-template).
 
 
 ## Make a Remote Assist call
