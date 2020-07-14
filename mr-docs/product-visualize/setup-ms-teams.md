@@ -56,7 +56,7 @@ Teams is the best way to collaborate with your team, manage files, and have conv
 
 2. Select **Add Channel**.
 
-3. Give the channel a name related to the opportunities you want to connect to it (for example, **Seattle-area opportunities**).
+3. Give the channel a name related to the mixed-reality session you want to connect to it (for example, **Seattle-area**).
 
 4. Select **Add**.
 
@@ -106,7 +106,7 @@ Dynamics 365 Product Visualize makes your customers' needs part of the conversat
 
 ## What's next?
 
-You now have everything you need to start using Dynamics 365 Product Visualize. New opportunities, products, and models will show up automatically in the application after they've been added to Sales. For help or feedback, use the **Feedback** button in the Dynamics 365 Product Visualize app.
+You now have everything you need to start using Dynamics 365 Product Visualize. New mixed-reality sessions, products, and models will show up automatically in the application after they've been added to Sales. For help or feedback, use the **Feedback** button in the Dynamics 365 Product Visualize app.
 
 ### See also
 

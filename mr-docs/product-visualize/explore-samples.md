@@ -30,7 +30,7 @@ Dynamics 365 Product Visualize comes with sample 3D models you can try out even 
      > [!div class=mx-imgBorder]
      > ![Sample products menu item](media/sample-products-menu.png "Sample products menu item")
  
-3. On the **My Open Opportunities** screen, select the **Contoso, Ltd. Mfg Sale** opportunity. 
+3. On the **My Active Mixed Reality Sessions** screen, select the **Contoso, Ltd. Mfg Sale** opportunity. 
 
      > [!div class=mx-imgBorder]
      > ![Sample opportunity](media/sample-opportunity.png "Sample opportunity")

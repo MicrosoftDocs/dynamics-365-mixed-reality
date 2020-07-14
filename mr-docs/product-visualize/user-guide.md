@@ -29,7 +29,6 @@ The topics in this user guide describe everything you need to know about working
 - [Show or hide layers in your 3D model](layers.md).
 - [Explore sample 3D models](explore-samples.md).
 - [View 3D models stored on your device](browse-models.md).
-- [Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md).
 - [Download 3D models to use offline](download-models.md).
 - [Enable product dimensions](product-dimensions.md).
 
@@ -37,7 +36,7 @@ The following section describes how you might conduct a successful product demon
 
 ## Steps to a successful product demonstration
 
-**Prerequisites**: You must be signed in to the app and connected to your Dynamics 365 Sales account. This ensures that your list of sales opportunities is displayed in the app along with all your products and notes. For information about how to sign in to the app, see [Install, open, and sign in to the app](sign-in.md).
+**Prerequisites**: You must be signed in to the app and connected to your Dynamics 365 account. This ensures that your list of mixed-reality sessions is displayed in the app along with all your products and notes. For information about how to sign in to the app, see [Install, open, and sign in to the app](sign-in.md).
 
 ### Download models for offline work
 
