@@ -4,7 +4,7 @@ description: Learn how to add notes (including text, drawings, and video) to a 3
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 06/12/2020
+ms.date: 07/17/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -98,23 +98,11 @@ The following images show how notes appear on the model, depending on where the 
 
 ### Attach a video to the note
 
-A video allows you to capture more details about your customers' requirements. You can use video to demonstrate the functionality of your products in addition to their placement at the customer's premises. To attach a video to a note, you must enable the video notes feature.
+A video allows you to capture more details about your customers' requirements. You can use video to demonstrate the functionality of your products in addition to their placement at the customer's premises. To attach a video to a note, you must enable the video notes feature. More information: [Enable video notes feature](enable-preview-features.md)
 
 > [!NOTE]
-> - Video notes is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
+> - Video notes is a preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 > - The maximum file size for attached videos is 5 MB.
-
-**To enable video notes**
-
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Preview features**.
-
-    > [!div class=mx-imgBorder]
-    > ![Preview features](media/preview-features.png "Preview features")
-
-2. In the **Feature Settings** screen, move the **Attach videos** toggle to the On position.
-
-    > [!div class=mx-imgBorder]
-    > ![Video notes feature](media/video-notes-feature.png "Video notes feature")
 
 **To attach a video to the note**
 

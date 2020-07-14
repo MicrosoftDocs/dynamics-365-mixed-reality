@@ -23,6 +23,7 @@
 ### [Show or hide layers in a 3D model](layers.md)
 ### [Explore sample 3D models](explore-samples.md)
 ### [View 3D models from device or cloud storage](browse-models.md)
+### [Enable preview features](enable-preview-features.md)
 ### [Download 3D models to use offline](download-models.md)
 ### [Enable product dimensions](product-dimensions.md)
 ### [View 3D models without using your device's camera](ar-mode.md)
