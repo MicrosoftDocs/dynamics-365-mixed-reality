@@ -81,6 +81,55 @@ Date: April 1, 2020
 - Fixed NullReferenceException showing up during app termination and in the contacts search page.
 - Fix for ArgumentOutOfRange exception showing up when typing text in the text chat.
 
+## iOS – 2020.02.27 + Android - 2020.02.20
+
+Date: February 27, 2020
+
+### Bug fixes
+
+- In low bandwidth environments with a satellite network of 1000/256 kbps for bandwidth, 600/600ms for latency, and 10% of packet loss, users will not receive an 'Update Check Failed' pop-up and can continue to share their environment.  
+- Users trying the 90-day license-free Remote Assist Mobile trial who do not have a Microsoft Teams license (free or paid) will be prompted to sign up for one. After they sign up, the app will recognize their Microsoft Teams account and they can sign in.  
+- With Remote Assist mobile app downloaded on your device, users can launch the app from Safari web browser via “ramobile:/” deep linking.  
+- Users can view their snapshots with annotations on it in both landscape and portrait orientations. These snapshots will save to users’ mobile device’s Photo Gallery.  
+- In the text chat, the keyboard remains open after sending a message. 
+- The ‘Lost Tracking' pop-up is localized in our supported languages. 
+- The correct year is shown when users’ mobile device is set to the future in Thai. 
+- Error message improvements.  
+
+## iOS – 2020.12.12 + Android - 2019.12.09
+
+Date: December 12, 2020
+
+### Bug fixes
+
+- If you don’t have the Company Portal or the Microsoft Authenticatorapp installed, the app doesn’t crash when you sign in. 
+- After tapping the Search buttonwhen searching for contacts, the “Start type to search text” doesn’t overlap with the Recentlist of contacts. 
+- You cansign in with an MSA account. 
+- The app is localized into 43 languages. 
+- When you disconnect from a call by closing the app, you’re notified of subsequent calls.
+- The app is available in the Apple and Google Playapp stores for all supported devices. 
+- When you take a snapshot for the first time,the snapshot is saved to the camera roll and the video feed doesn’t freeze. 
+- The Taskbar at the bottom of the screen is now visible on Android 10. 
+- When you send a message in text chat, the keyboard is automatically closed.
+- Calls from Teams desktop to the app are connected and continuewith no problems. 
+- When using Teams on a tablet, annotations are normal size. 
+- The Speakerbutton is only visible when there is more than one audio output source. 
+- All buttons are responsive and tappable. 
+- Fixed app crashes.
+
+## iOS – 2020.10.31 + Android - 2019.10.22
+
+Date: October 31, 2020
+
+- The Screenshot button is removed from the toolbar. You can edit a screenshot by selecting the Snapshot and annotate button instead.
+- In the case of a network disconnection, you’re automatically rejoined to the call when the network is restored. If there’s no network connection ,the call is ended.
+- If you’re using a screen reader and access the tutorialpageaccessed from the Learn the Toolsor Try Itbutton, you can access the Arrowtool. 
+- Ifyou tapthe Try Itbuttonon the Sign-inpage,and then select the back button on yourdevice, you return to theSign-inpage. 
+- The end-user license agreement (EULA)link on the Sign-inpagegoes to the appropriate page (Android or iOS) based on yourdevice.
+- On the tutorial page, the buttons now read:Restart Tutorialand Exit Practice.
+- If you’re using Dynamics 365 Field Service with Dynamics 365 Remote Assist, the Post to Dynamicspop-up will disappearwhen youreceive or accepta call, butwill reappear after the call hasended.
+- The“NullReferenceException: Object reference not set to an instance of an object”error message does not appearwhen startinga call, whethersystem-generated logs are enabled or not.
+
 ## Locate your version number
 
 To find which version of Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference. 
