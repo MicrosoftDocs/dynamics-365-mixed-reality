@@ -5,7 +5,7 @@ ms.author: hegate
 ms.date: 07/09/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of Dynamics 365 Remote Assist
+title: Language support for Dynamics 365 Remote Assist
 ms.reviewer: krbjoran
 ---
 
