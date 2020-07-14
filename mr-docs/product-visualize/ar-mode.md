@@ -63,6 +63,5 @@ You can choose to keep the models on a gray background or add a background image
 [Show or hide layers in a 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
-[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
