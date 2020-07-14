@@ -14,12 +14,12 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Dynamics 365 Product Visualize empowers sellers to showcase and customize products in their real-world environment. Using mixed reality, sellers can create a shared understanding between themselves and buyers to accelerate complex sales processes. Showing customers your products in 3D is more compelling than showing them flat images. Our app also gives you other capabilities that aren't available with conventional sales tools. 
+Dynamics 365 Product Visualize empowers sellers to showcase large and highly customizable products in a real-world environment. Using mixed reality, sellers can create a shared understanding between themselves and buyers to accelerate complex sales processes. Showing customers your products in 3D is more compelling than showing them flat images. Our app also gives you other capabilities that aren't available with conventional sales tools. 
 
 > [!IMPORTANT]
-> This user guide describes features available in version 1.12 of Dynamics 365 Product Visualize. If you're using an older version of the app, [install the latest version](sign-in.md).
+> This user guide describes features available in version 1.13 of Dynamics 365 Product Visualize. If you're using an older version of the app, [install the latest version](sign-in.md).
 
-## Using Dynamics 365 Product Visualize
+## Using Dynamics 365 Product Visualize iOS app
 
 The topics in this user guide describe everything you need to know about working with the app. They show you how to:
 

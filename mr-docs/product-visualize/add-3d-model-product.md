@@ -9,7 +9,7 @@ ms.author: shjais
 manager: shujoshi
 ---
 
-# Add 3D model to a product
+# Add 3D models to a product
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
@@ -17,7 +17,7 @@ Presenting complicated products to a customer by using traditional 2D materials 
 
 Dynamics 365 Product Visualize makes use of the widely available Graphics Library Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and several exporting tools can convert other file formats to glTF. The GLB format is the binary version of .glTF version 2.0, which can include textures.
 
-**To add 3D model to a product**
+**To add 3D models to a product**
 
 1.  [Sign in to Product Visualize Hub](sign-in-app.md).
 
@@ -32,6 +32,8 @@ Dynamics 365 Product Visualize makes use of the widely available Graphics Librar
     ![Add 3D model button](media/add-3d-model-button.png "Add 3D model button")
 
 5.  Browse and select the 3D model.
+
+6. Repeat steps 4 through 5 to add more 3D models.
 
 ## Manipulate a model
 
