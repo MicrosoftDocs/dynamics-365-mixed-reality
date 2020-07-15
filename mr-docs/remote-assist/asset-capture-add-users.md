@@ -30,7 +30,7 @@ Anyone who will be using Dynamics 365 Remote Assist on HoloLens or accessing the
 2. Go to **Billing** > **Licenses**.
 3. Select **Dynamics 365 Remote Assist**.
 4. Select **Assign licenses**.
-5. In the **Assign licenses to users**<!--Edit okay? I assume this is a UI string?--> pane, begin typing a name, and then choose it from the results to add it to the list. You can add up to 20 users at a time.
+5. In the **Assign licenses to users** pane, begin typing a name, and then choose it from the results to add it to the list. You can add up to 20 users at a time.
 6. When you're finished, select **Assign**, and then select **Close**.
 
 More information: [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
@@ -40,7 +40,7 @@ More information: [Assign licenses to users](https://docs.microsoft.com/microsof
 Security roles define how different users, such as service technicians, access different types of records. To enable asset capture, security roles must be assigned to each user.
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
-2. Select **Environments**, find the environment that Dynamics 365 Remote Assist is installed in, and then select **More environment actions** !["More environment actions"](./media/ellipsis.png "More environment actions").<!--This is via Writing Style Guide for ellipsis buttons that do have a tooltip.-->
+2. Select **Environments**, find the environment that Dynamics 365 Remote Assist is installed in, and then select **More environment actions** !["More environment actions"](./media/ellipsis.png "More environment actions").
 3. Select **Settings**, and then select **Users + permissions** > **Users**.
 4. From the top toolbar, select **Manage users in Dynamics 365**.
 5. Select the check boxes to the left of the names of users who will be using Dynamics 365 Remote Assist, and then select **Manage Roles** from the top toolbar.
@@ -51,18 +51,18 @@ Security roles define how different users, such as service technicians, access d
 Security roles must be assigned to apps to ensure that users who have those roles can access the app. The **Remote Assist - App User** role must be enabled for the Dynamics 365 Remote Assist app.
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
-2. Select **Environments**, find the environment that Dynamics 365 Remote Assist is installed in, and then select !["More environment actions"](./media/ellipsis.png "More environment actions").<!--And this is via WSG for subsequent references to the ellipsis.-->
+2. Select **Environments**, find the environment that Dynamics 365 Remote Assist is installed in, and then select !["More environment actions"](./media/ellipsis.png "More environment actions").\
 3. Select **Open environment**.
 4. If you see a list of **Published Apps**, proceed to step 5. Otherwise, select **Settings** from the upper-right toolbar, select **Advanced Settings**, and then select the drop-down menu next to **Settings** > **My Apps**.
 ![Screenshot of the Dynamics 365 environment.](./media/06.24-d365-settings-my-apps.png "Screenshot of the Dynamics 365 environment")
-5. On the Dynamics 365 Remote Assist app tile, select **More options** ![More options](./media/ellipsis.png "More options")<!--Okay to use the same ellipsis graphic, or do we need another one?-->, and then select **Manage Roles**.
+5. On the Dynamics 365 Remote Assist app tile, select **More options**, and then select **Manage Roles**.
 ![Screenshot of the Dynamics 365 Manage Roles for app menu.](./media/06.25-d365-settings-manage-roles.png "Screenshot of the Dynamics 365 Manage Roles for app menu")
 6. From the right side panel, select the **Remote Assist - App User** role from the list, and then select **Save**.
 ![Screenshot of Dynamics 365 assigning app role](./media/06.26-d365-settings-manage-roles-set.png "Screenshot of Dynamics 365 assigning app role")
 
 ## Next step
 
-In this tutorial, you learned how to assign security roles and enable the app for Dynamics 365 Remote Assist users. In the next tutorial, you'll learn how to create asset records and import your existing asset catalog.<!--Suggested.-->
+In this tutorial, you learned how to assign security roles and enable the app for Dynamics 365 Remote Assist users. In the next tutorial, you'll learn how to create asset records and import your existing asset catalog.
 
 > [!div class="nextstepaction"]
 > [Create assets](./asset-capture-create-asset.md)
