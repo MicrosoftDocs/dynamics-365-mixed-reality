@@ -13,7 +13,7 @@ manager: shujoshi
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-A mixed-reality session represents a chance to sell your products to customers by showing them 3D models along with your products.<!--Suggested.--> Salespeople can view their mixed-reality sessions directly from the Dynamics 365 Product Visualize iOS app, but the sessions must be added through the Dynamics 365 Product Visualize Hub interface.
+A mixed-reality session represents a chance to sell your products to customers by showing them 3D models of your products. Salespeople can view their mixed-reality sessions directly from the Dynamics 365 Product Visualize iOS app, but the sessions must be added through the Dynamics 365 Product Visualize Hub interface.
 
 **To add a mixed-reality session**
 

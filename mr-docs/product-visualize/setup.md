@@ -11,9 +11,9 @@ ms.reviewer:
 ---
 
 # Set up Dynamics 365 Product Visualize on a new Dynamics 365 instance
-<!--note from editor: The Dynamics Style Guide still says to always use "Dynamics 365" in front of "Product Visualize." However, to judge by the screenshots and text in these topics, could it be that we're simply using "Product Visualize Hub" without any qualifier? I checked with Renee; she isn't aware of any change in naming for this product, so I've added "Dynamics 365" to all instances, including "Product Visualize Hub." If this is wrong, please let us editors know so we can update the style guide.-->
+
 Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This topic provides step-by-step instructions for setting up a new Dynamics 365 trial instance and installing the Dynamics 365 Product Visualize solution.
-<!--Is it okay to move this note up here? I think it makes more sense here than at the end of Step 2.-->
+
 > [!NOTE]
 > If you have an existing Dynamics 365 instance, you can skip to [Step 2: Install the Dynamics 365 Product Visualize solution](#step-2-install-the-dynamics-365-product-visualize-solution) and start working with the solution immediately.
 
@@ -54,7 +54,7 @@ Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This to
 
     ![Finish setup](media/wizard-step4.png "Finish setup")
 
-10. On the **Let's get your FREE 30-day trial set up** page, select the scenarios<!--Edit okay? since it looks like you can select more than one.--> you want, and then select **Complete Setup**.
+10. On the **Let's get your FREE 30-day trial set up** page, select the scenarios you want, and then select **Complete Setup**.
 
     ![Select scenarios and complete setup](media/trial-setup-page.png "Select scenarios and complete setup")
 

@@ -13,7 +13,7 @@ manager: shujoshi
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-After you've created a mixed-reality session, you<!--Suggest deleting "must," just to sound a bit friendlier.--> add products to it. A product contains models that you can show to your customers.
+After you've created a mixed-reality session, you add products to it. A product contains models that you can show to your customers.
 
 **To add a product to a mixed-reality session**
 

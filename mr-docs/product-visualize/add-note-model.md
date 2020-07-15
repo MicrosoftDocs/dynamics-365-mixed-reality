@@ -20,21 +20,21 @@ ms-reviewer:
 
 3.  On the **Active 3D Products** page, select your product.
 
-4.  Under **3D Viewer**, select the model to which you want to add a note.
+4.  Under **3D viewer**, select the model to which you want to add a note.
 
-5.  Under **Product Notes**, select **Add Note**.
+5.  Under **Product notes**, select **Add note**.
 
-6.  To attach an image or a short video, select **Attach File**, and then select the file by using your file browser. 
+6.  To attach an image or a short video, select **Attach file**, and then select the file by using your file browser. 
 
-    To remove the attachment, select **Remove Attachment**.
+    To remove the attachment, select **Remove attachment**.
 
 7.  To include a link to a website, select **Add URL**, and then enter the website address in the text field. The URL must start with http:// or https://.
 
     To remove the URL, select **Remove URL**.
 
-8.  To attach your note to a specific point on the 3D model, select **Pin to Model**, and then click on the model. A note anchor pin is added where you attached the note.
+8.  To attach your note to a specific point on the 3D model, select **Pin to model**, and then click on the model. A note anchor pin is added where you attached the note.
 
-    To remove the anchor pin, select **Remove Pin**.
+    To remove the anchor pin, select **Remove pin**.
 
 9.  To add a text message, enter the message in the text field.
 
@@ -50,11 +50,11 @@ After you've added notes to your model, you can edit or delete them.
 
 3.  On the **Active 3D Products** page, select your product.
 
-4.  Under **3D Viewer**, select the model that has the note you want to edit or delete.
+4.  Under **3D viewer**, select the model that has the note you want to edit or delete.
 
-    - To edit a note, select **Edit Note** beside the corresponding note.
+    - To edit a note, select **Edit note** beside the corresponding note.
 
-    - To delete a note, select **Delete Note** beside the corresponding note.
+    - To delete a note, select **Delete note** beside the corresponding note.
 
 ### See also
 

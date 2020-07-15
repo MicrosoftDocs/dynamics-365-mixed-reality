@@ -28,7 +28,7 @@ Presenting complicated products to a customer by using traditional 2D materials 
     > [!NOTE]
     > If no products are displayed, it means you've not added any product. See [Add a 3D product](add-3d-product.md) to add a product.
 
-4.  Under **3D Viewer**, select **Add 3D Model**.
+4.  Under **3D viewer**, select **Add 3D model**.
 
     ![Add 3D Model button](media/add-3d-model-button.png "Add 3D Model button")
 
@@ -44,17 +44,17 @@ Presenting complicated products to a customer by using traditional 2D materials 
 
 3.  On the **Active 3D Products** page, select your product.
 
-4.  Under **3D Viewer**, select the model to you want to manipulate.
+4.  Under **3D viewer**, select the model to you want to manipulate.
 
     - To zoom in on the model, hover over it and scroll up by using the mouse wheel.
 
     - To zoom out from the model, hover over it and scroll down by using the mouse wheel.
 
-    - To manipulate your view of the model, click in the model and drag to change your view.<!--Edit okay? Writing Style Guide says "don't use click and drag."-->
+    - To manipulate your view of the model, click in the model and drag to change your view.
 
 ## Create a thumbnail of a model
 
-Thumbnails are small-size versions of photos or videos used to help you recognize and organize them.<!--I'm not sure you need to define a thumbnail for this audience; maybe delete the preceding sentence?--> When you add a 3D model to a product, no thumbnail is displayed for the model. It appears as shown in the following image.
+When you add a 3D model to a product, no thumbnail is displayed for the model. It appears as shown in the following image.
 
 ![Model without thumbnail](media/model-no-thumbnail.png "Model without thumbnail")
 
@@ -70,7 +70,7 @@ When you add a thumbnail, an image of the model is displayed.
 
 3.  On the **Active 3D Products** page, select your product.
 
-4.  Under **3D Viewer**, select the model for which you want to create a thumbnail.
+4.  Under **3D viewer**, select the model for which you want to create a thumbnail.
 
 5.  Select **Create Thumbnail**.
 
@@ -84,7 +84,7 @@ When you add a thumbnail, an image of the model is displayed.
 
 3.  On the **Active 3D Products** page, select your product.
 
-4.  Under **3D Viewer**, select **Delete Model** on the model you want to delete.
+4.  Under **3D viewer**, select **Delete model** on the model you want to delete.
 
 ### See also
 

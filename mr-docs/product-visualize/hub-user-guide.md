@@ -22,13 +22,13 @@ As soon as Dynamics 365 Product Visualize Hub is set up by your administrator, y
 
 After signing in, you add products and create mixed-reality sessions. The mixed-reality sessions can be used by a salesperson with the [Dynamics 365 Product Visualize iOS app](user-guide.md). These sessions are used to showcase large and highly customizable products to customers in their real-world environment. A mixed-reality session can contain multiple products, and each product can contain multiple 3D models.
 
-As an example, say you work at Fabrikam, a company<!--Suggested.--> that manufactures customized coffee machines. You have a demo scheduled with your client Contoso for the installation of coffee machines at their premises. You can't carry all your coffee machine models to the demo. But you can create a mixed-reality session, add 3D models of coffee machines, and show them to your customer in their real-world environment by using the iOS app.
+As an example, say you work at Fabrikam, a company that manufactures customized coffee machines. You have a demo scheduled with your client Contoso for the installation of coffee machines at their premises. You can't carry all your coffee machine models to the demo. But you can create a mixed-reality session, add 3D models of coffee machines, and show them to your customer in their real-world environment by using the iOS app.
 
 Perform the following steps to successfully create a mixed-reality session:
 
-1. **Add a 3D product**: Products are the things you sell to a customer<!--I don't think "and they can be physical goods or services" applies to a discussion about a 3D modeling app-->. Given the earlier example, you can add a product named Coffee Machine. More information: [Add a 3D product](add-3d-product.md)
+1. **Add a 3D product**: Products are the things you sell to a customer. Given the earlier example, you can add a product named Coffee Machine. More information: [Add a 3D product](add-3d-product.md)
 
-2. **Add 3D model to a product**: You can add multiple 3D models to your product. Three-dimensional<!--To avoid starting a sentence with a numeral. This could alternatively be "These models..."--> models help your customer see your products as they'll look in real life. Given the earlier example, you can add all models of coffee machine to your product and show them to your customer. More information: [Add 3D models to a product](add-3d-model-product.md)
+2. **Add 3D model to a product**: You can add multiple 3D models to your product. These models help your customer see your products as they'll look in real life. Given the earlier example, you can add all models of coffee machine to your product and show them to your customer. More information: [Add 3D models to a product](add-3d-model-product.md)
 
 3. **Create a mixed-reality session**: A mixed-reality session represents a chance to sell your products to a customer. Given the earlier example, you can create a mixed-reality session named Contoso. More information: [Create a mixed reality session](create-mr-session.md)
 
