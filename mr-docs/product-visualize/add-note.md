@@ -204,13 +204,13 @@ You can export your notes to share them with other apps on your device that supp
 
 ## Change how your notes are shared with other apps
 
-By default, your notes are saved to the SharePoint account associated with your Dynamics 365 Sales account. By default, Dynamics 365 Product Visualize also sends your notes to your Sales timeline and any connected Microsoft Teams channel.
+By default, your notes are saved to the mixed-reality session associated with your Dynamics 365 instance. By default, Dynamics 365 Product Visualize also sends your notes to your Sales timeline and any connected Microsoft Teams channel.
 
 **To turn off sharing with the Sales timeline or Teams channels**
 
 1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then select the account you're signed in to.  
 
-2. Turn off the **Dynamics 365 for Sales Timelines** toggle.
+2. Turn off the **Mixed Reality Session Timeline in Dynamics** toggle.
 
    > [!div class=mx-imgBorder]
    > ![Notes output options](media/note-output-options.png "Notes output options")
