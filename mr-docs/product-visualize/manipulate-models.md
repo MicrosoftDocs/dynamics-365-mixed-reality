@@ -22,7 +22,7 @@ The home page of Dynamics 365 Product Visualize is the **My Active Mixed Reality
 
 1.	Open the mixed-reality session you want to focus on.
 
-2.	Tap a product within that opportunity.
+2.	Tap a product within that mixed-reality session.
 
     ![Products screen showing multiple products](media/products-screen.PNG "Products screen showing multiple products")
 

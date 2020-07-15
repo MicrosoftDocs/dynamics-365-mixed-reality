@@ -13,13 +13,16 @@ manager: shujoshi
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-1.  Open a web browser, and enter the URL to your Dynamics 365 instance in the following format: &lt;domain\_name&gt;.crm.dynamics.com. For example, <https://productvisualize.crm.dynamics.com>
+1.  Open a web browser, and enter the URL to your Dynamics 365 instance in the following format: &lt;domain\_name&gt;.crm.dynamics.com. For example, `https://productvisualize.crm.dynamics.com`
 
 2.  Enter your Dynamics 365 instance credentials, and sign in to see a list of published apps.
 
 3.  From the list of apps, select **Product Visualize Hub**.
 
     ![Dynamics 365 Product Visualize Hub app](media/pv-hub-app.png "Dynamics 365 Product Visualize Hub app")
+
+    > [!NOTE]
+    > If you don't remember your domain name, go to [https://home.dynamics.com/](https://home.dynamics.com/) and sign in with your Dynamics 365 instance credentials. Select your app under **My apps**.
 
 ### See also
 

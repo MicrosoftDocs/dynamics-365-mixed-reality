@@ -80,7 +80,7 @@ Teams is the best way to collaborate with your team, manage files, and have conv
 
       ![Sales Hub](media/select-sales-hub.PNG "Sales Hub")
 
-    c. Select an opportunity, and then select **Save**.
+    c. Select a mixed-reality session, and then select **Save**.
 
 6. In the **Add to a team** section, search for your team's name, which will also set the second option to **Yes**.
 
@@ -96,7 +96,7 @@ Teams is the best way to collaborate with your team, manage files, and have conv
 
 10. Select **Select**.
    
-11. From the list of Dynamics 365 entities, select an opportunity, and then select **Save**.
+11. From the list of Dynamics 365 entities, select a mixed-reality session, and then select **Save**.
 
 For more information about setting up Teams, see [Install and set up Microsoft Teams integration](https://docs.microsoft.com/dynamics365/teams-integration/teams-install-app).
 
