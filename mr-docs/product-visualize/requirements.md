@@ -33,6 +33,6 @@ The following tables list technical requirements for deploying and using Dynamic
 ### See also
 
 [Set up Dynamics 365 Product Visualize](setup.md)<br>
-[Administrator guide](admin-guide.md)<br>
-[User guide](user-guide.md)<br>
+[Product Visualize Hub user guide](hub-user-guide.md)<br>
+[Product Visualize iOS app user guide](user-guide.md)<br>
 [FAQ](faq.md)<br>

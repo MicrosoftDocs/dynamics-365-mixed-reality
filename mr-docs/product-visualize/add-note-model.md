@@ -44,7 +44,7 @@ ms-reviewer:
 
 10. Select **Submit**. The added note is displayed under **Product notes**.
 
-    ![Note submitted](media/note-added.png "Note submitted")
+    ![Note submitted](media/note-submitted.png "Note submitted")
 
 ## Manage notes
 
