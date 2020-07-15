@@ -19,46 +19,46 @@ Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This to
 
 ## Step 1: Get a Dynamics 365 trial instance
 
-Go to <https://trials.dynamics.com/>.
+1. Go to [https://trials.dynamics.com/](https://trials.dynamics.com/).
 
-1. Scroll down and select **Sign up here**.
+2. Scroll down and select **Sign up here**.
 
     ![Sign up for a trial](media/trials-page.png "Sign up for a trial")
 
-2. In the pop-up window, select **No, continue signing up**.
+3. In the pop-up window, select **No, continue signing up**.
 
     ![Continue signing up](media/continue-step.png "Continue signing up")
 
-3. In the **Let's set up your account** step, enter your email address, and then select **Next**.
+4. In the **Let's set up your account** step, enter your email address, and then select **Next**.
 
     ![Enter your email to set up your account](media/wizard-step1.png "Enter your email to set up your account")
 
-4. Select **Set up account**.
+5. Select **Set up account**.
 
     ![Set up your account](media/wizard-step1_1.png "Set up your account")
 
-5. In the **Tell us about yourself** step, enter your personal details and verify your phone number.
+6. In the **Tell us about yourself** step, enter your personal details and verify your phone number.
 
-6. In the **Create your business identity** step, enter a domain name&mdash;for example, **productvisualize**&mdash;and check its availability. If the domain name is available, select **Next**.
+7. In the **Create your business identity** step, enter a domain name&mdash;for example, **productvisualize**&mdash;and check its availability. If the domain name is available, select **Next**.
 
     ![Create a domain name](media/wizard-step3.png "Create a domain name")
 
-7. Create a user ID and password to sign in to your account, and then select **Sign up**.
+8. Create a user ID and password to sign in to your account, and then select **Sign up**.
 
     ![Create a user ID and password](media/wizard-step3_1.png "Create a user ID and password")
 
     > [!NOTE]
     > Store the user ID and password in a safe place; you'll need them later.
 
-8. As soon as your account is set up, select **Let's go**.
+9. As soon as your account is set up, select **Let's go**.
 
     ![Finish setup](media/wizard-step4.png "Finish setup")
 
-9. On the **Let's get your FREE 30-day trial set up** page, select the scenarios<!--Edit okay? since it looks like you can select more than one.--> you want, and then select **Complete Setup**.
+10. On the **Let's get your FREE 30-day trial set up** page, select the scenarios<!--Edit okay? since it looks like you can select more than one.--> you want, and then select **Complete Setup**.
 
     ![Select scenarios and complete setup](media/trial-setup-page.png "Select scenarios and complete setup")
 
-    After setup is complete, you'll be redirected to your new Dynamics 365 instance. The URL is in the following format: &lt;custom\_domain\_name&gt;.crm.dynamics.com. In our example, the URL is <https://productvisualize.crm.dynamics.com>.
+    After setup is complete, you'll be redirected to your new Dynamics 365 instance. The URL is in the following format: &lt;custom\_domain\_name&gt;.crm.dynamics.com. In our example, the URL is `https://productvisualize.crm.dynamics.com`.
 
  > [!IMPORTANT]
  > In the following steps, you must use the credentials you created for your Dynamics 365 instance, if asked.
@@ -73,7 +73,7 @@ Go to <https://trials.dynamics.com/>.
 
     ![Select Continue to proceed with installation](media/continue-step-app.png "Select Continue to proceed with installation")
 
-    You'll be redirected to the <https://port.crm.dynamics.com> page.
+    You'll be redirected to the `https://port.crm.dynamics.com` page.
 
 4. Under **Add the application to Dynamics 365**, select both check boxes, and then select **Agree**.
 

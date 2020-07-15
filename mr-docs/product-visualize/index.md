@@ -27,6 +27,9 @@ Using the Dynamics 365 Product Visualize iOS app, salespersons can show products
 
 Dynamics 365 Product Visualize makes use of the widely available Graphics Library Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and several exporting tools can convert other file formats to glTF. The GLB format is the binary version of .glTF version 2.0, which can include textures.
 
+> [!NOTE]
+> Animated model are not fully supported.
+
 ### See also
 
 [Requirements for setting up Dynamics 365 Product Visualize](requirements.md)<br>

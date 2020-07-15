@@ -13,7 +13,10 @@ manager: shujoshi
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-1.  Open a web browser and enter the URL to your Dynamics 365 instance in the following format: &lt;domain\_name&gt;.crm.dynamics.com. For example, <https://productvisualize.crm.dynamics.com>.
+1.  Open a web browser and enter the URL to your Dynamics 365 instance in the following format: &lt;domain\_name&gt;.crm.dynamics.com. For example, `https://productvisualize.crm.dynamics.com`.
+
+    > [!NOTE]
+    > If you don't remember your Dynamics 365 instance URL, go to home.dynamics.com
 
 2.  Enter your Dynamics 365 instance credentials and login to see a list of published apps.
 

@@ -28,7 +28,7 @@ ms-reviewer:
 
     To remove the attachment, select **Remove Attachment**.
 
-7.  To include a link to a website, select **Add URL**, and then enter the website address in the text field. The URL must start with http://.
+7.  To include a link to a website, select **Add URL**, and then enter the website address in the text field. The URL must start with http:// or https://.
 
     To remove the URL, select **Remove URL**.
 
