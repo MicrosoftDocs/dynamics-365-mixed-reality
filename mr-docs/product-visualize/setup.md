@@ -1,6 +1,6 @@
 ---
 title: Set up Dynamics 365 Product Visualize on a new Dynamics 365 instance
-description: Instructions to set up a Dynamics 365 instance and install Product Visualize solution
+description: Instructions to set up a Dynamics 365 instance and install the Dynamics 365 Product Visualize solution
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
@@ -10,89 +10,86 @@ ms.topic: article
 ms.reviewer:
 ---
 
-# Set up Product Visualize on a new Dynamics 365 instance
+# Set up Dynamics 365 Product Visualize on a new Dynamics 365 instance
+<!--note from editor: The Dynamics Style Guide still says to always use "Dynamics 365" in front of "Product Visualize." However, to judge by the screenshots and text in these topics, could it be that we're simply using "Product Visualize Hub" without any qualifier? I checked with Renee; she isn't aware of any change in naming for this product, so I've added "Dynamics 365" to all instances, including "Product Visualize Hub." If this is wrong, please let us editors know so we can update the style guide.-->
+Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This topic provides step-by-step instructions for setting up a new Dynamics 365 trial instance and installing the Dynamics 365 Product Visualize solution.
+<!--Is it okay to move this note up here? I think it makes more sense here than at the end of Step 2.-->
+> [!NOTE]
+> If you have an existing Dynamics 365 instance, you can skip to [Step 2: Install the Dynamics 365 Product Visualize solution](#step-2-install-the-dynamics-365-product-visualize-solution) and start working with the solution immediately.
 
-Product Visualize requires an active Dynamics 365 instance. This topic provides step-by-step instructions for setting up a new Dynamics 365 trial instance and installing the Product Visualize solution.
-
-## Step 1: Get Dynamics 365 trial instance
+## Step 1: Get a Dynamics 365 trial instance
 
 Go to <https://trials.dynamics.com/>.
 
-1.  Scroll down and select **Sign up here**.
+1. Scroll down and select **Sign up here**.
 
-    ![Sign up for trial](media/trials-page.png "Sign up for trial")
+    ![Sign up for a trial](media/trials-page.png "Sign up for a trial")
 
-2.  In the pop-up window, select **No, continue signing up**.
+2. In the pop-up window, select **No, continue signing up**.
 
     ![Continue signing up](media/continue-step.png "Continue signing up")
 
-    A wizard starts to help you create your account.
+3. In the **Let's set up your account** step, enter your email address, and then select **Next**.
 
-3.  In the **Let's setup your account** step, enter your email address, and select **Next**.
+    ![Enter your email to set up your account](media/wizard-step1.png "Enter your email to set up your account")
 
-    ![Enter email to setup your account](media/wizard-step1.png "Enter email to setup your account")
+4. Select **Set up account**.
 
-4.  Select **Set up account**.
+    ![Set up your account](media/wizard-step1_1.png "Set up your account")
 
-    ![Setup your account](media/wizard-step1_1.png "Setup your account")
+5. In the **Tell us about yourself** step, enter your personal details and verify your phone number.
 
-5.  In the **Tell us about yourself** step, enter your personal details and verify your phone number.
-
-6.  In the **Create your business identity** step, enter a domain name and check for its availability. For example, **productvisualize**. If the domain name is available, select **Next**.
+6. In the **Create your business identity** step, enter a domain name&mdash;for example, **productvisualize**&mdash;and check its availability. If the domain name is available, select **Next**.
 
     ![Create a domain name](media/wizard-step3.png "Create a domain name")
 
-7.  Create user ID and password to sign in to your account., and select **Sign up**.
+7. Create a user ID and password to sign in to your account, and then select **Sign up**.
 
-    ![Create user ID and password](media/wizard-step3_1.png "Create user ID and password")
+    ![Create a user ID and password](media/wizard-step3_1.png "Create a user ID and password")
 
     > [!NOTE]
-    > Store the user ID and password in a safe place, as you will need them later.
+    > Store the user ID and password in a safe place; you'll need them later.
 
-8.  Once your account is setup, select **Let's go**.
+8. As soon as your account is set up, select **Let's go**.
 
     ![Finish setup](media/wizard-step4.png "Finish setup")
 
-9.  On the **Let's get your FREE 30-day trial set up** page, select the required scenario, and then select **Complete Setup**.
+9. On the **Let's get your FREE 30-day trial set up** page, select the scenarios<!--Edit okay? since it looks like you can select more than one.--> you want, and then select **Complete Setup**.
 
-    ![Select scenario and complete setup](media/trial-setup-page.png "Select scenario and complete setup")
+    ![Select scenarios and complete setup](media/trial-setup-page.png "Select scenarios and complete setup")
 
-    Once the setup is complete, you are redirected to your new Dynamics 365 instance. The URL is in the following format: &lt;custom\_domain\_name&gt;.crm.dynamics.com. In our example, the URL is <https://productvisualize.crm.dynamics.com>.
+    After setup is complete, you'll be redirected to your new Dynamics 365 instance. The URL is in the following format: &lt;custom\_domain\_name&gt;.crm.dynamics.com. In our example, the URL is <https://productvisualize.crm.dynamics.com>.
 
  > [!IMPORTANT]
  > In the following steps, you must use the credentials you created for your Dynamics 365 instance, if asked.
 
+## Step 2: Install the Dynamics 365 Product Visualize solution
 
-## Step 2: Install the Product Visualize solution
+1. Go to [Microsoft AppSource](https://appsource.microsoft.com) and search for Dynamics 365 Product Visualize.
 
-1.  Go to [Microsoft AppSource](https://appsource.microsoft.com) and search for Dynamics 365 Product Visualize.
+2. Select **Get it now**.
 
-2.  Select **Get it now**.
-
-3.  In the **One more thing…** pop-up, select **Continue**.
+3. In the **One more thing...** pop-up window, select **Continue**.
 
     ![Select Continue to proceed with installation](media/continue-step-app.png "Select Continue to proceed with installation")
 
-    You are redirected to the <https://port.crm.dynamics.com> page.
+    You'll be redirected to the <https://port.crm.dynamics.com> page.
 
-4.  Under **Add the application to Dynamics 365**, select both the check boxes, and then select **Agree**.
+4. Under **Add the application to Dynamics 365**, select both check boxes, and then select **Agree**.
 
     ![Add the application to Dynamics 365](media/add-app-to-d365.png "Add the application to Dynamics 365")
 
-    You are redirected to **Dynamics 365 Administration Center**.
+    You'll be redirected to the Dynamics 365 admin center.
 
-5.  Under the **Instances** tab, find the **Dynamics 365 Product Visualize** solution.
+5. On the **Instances** tab, find the **Dynamics 365 Product Visualize** solution.
 
-6.  Check the status of the solution. If it says **Installation pending**, refresh the page until the status is changed to **Installed**.
-
-> [!NOTE]
-> If you have an existing Dynamics 365 instance, you can perform only [Install the Product Visualize solution](#step-2-install-the-product-visualize-solution) and start working with Product Visualize.
+6. Check the status of the solution. If it says **Installation pending**, refresh the page until the status is changed to **Installed**.
 
 ## What's next
 
-After you've finished the setup process, you'll have a Dynamics 365 trial instance with Product Visualize Hub app installed. You can login to the Product Visualize Hub app and start adding products, 3D models, and creating mixed reality sessions. More information: [Product Visualize Hub user guide](hub-user-guide.md)
+After you've finished the setup process, you'll have a Dynamics 365 trial instance with the Dynamics 365 Product Visualize Hub app installed. You can sign in to the Dynamics 365 Product Visualize Hub app and start adding products and 3D models, and creating mixed-reality sessions. More information: [Dynamics 365 Product Visualize Hub user guide](hub-user-guide.md)
 
 ### See also
 
-[Product Visualize iOS app user guide](user-guide.md)<br>
+[Dynamics 365 Product Visualize iOS app user guide](user-guide.md)<br>
 [FAQ](faq.md)

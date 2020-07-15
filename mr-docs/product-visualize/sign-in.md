@@ -1,6 +1,6 @@
 ---
 title: Open and sign in to Dynamics 365 Product Visualize.
-description: Sign in to Dynamics 365 Product Visualize and connect to your Dynamics 365 instance
+description: Sign in to Dynamics 365 Product Visualize and connect to your Dynamics 365 Sales opportunities
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
@@ -47,9 +47,9 @@ To get the full benefits of Dynamics 365 Product Visualize, you'll need a Dynami
 
     ![My organizations screen](media/my-organizations.PNG "My organizations screen") 
  
-5.	On the **My Active Mixed Reality Sessions** screen, tap the mixed-reality session you want to work on.  
+5.	On the **My Open Opportunities** screen, tap the opportunity you want to work on.  
 
-    ![My Active Mixed Reality Sessions screen](media/my-open-opportunities.PNG "My Active Mixed Reality Sessions screen")
+    ![My Open Opportunities screen](media/my-open-opportunities.PNG "My Open Opportunities screen")
  
 Dynamics 365 Product Visualize pulls in your mixed reality sessions from Dynamics 365 by default.
 
@@ -77,5 +77,6 @@ If you have access to more than one Dynamics 365 organization, you can use this 
 [Show or hide layers in a 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
+[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)

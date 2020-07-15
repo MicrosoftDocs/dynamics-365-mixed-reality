@@ -1,6 +1,6 @@
 ﻿---
-title: Add and manage 3D models to a product in Product Visualize Hub
-description: Instructions for adding and managing 3D models to a product in Product Visualize Hub
+title: Add 3D models to a product and manage them in Dynamics 365 Product Visualize Hub
+description: Instructions for adding 3D models to a product and managing them in Dynamics 365 Product Visualize Hub
 ms.date: 07/17/2020
 ms.topic: article
 ms.service: dynamics-365-sales
@@ -13,73 +13,73 @@ manager: shujoshi
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Presenting complicated products to a customer by using traditional 2D materials is unsatisfactory and creating physical 3D models is time-consuming and costly. Dynamics 365 Product Visualize simplifies the entire process of bringing 3D digital models into the real world.
+Presenting complicated products to a customer by using traditional 2D materials is unsatisfactory, and creating physical 3D models is time-consuming and costly. Dynamics 365 Product Visualize simplifies the entire process of bringing 3D digital models into the real world.
 
 Dynamics 365 Product Visualize makes use of the widely available Graphics Library Transmission Format (glTF) to store model data. Many of the most popular 3D modeling products used by engineering and marketing teams already support this format, and several exporting tools can convert other file formats to glTF. The GLB format is the binary version of .glTF version 2.0, which can include textures.
 
 **To add 3D models to a product**
 
-1.  [Sign in to Product Visualize Hub](sign-in-app.md).
+1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left navigation pane, select **3D Product Catalog**. A list of products is displayed.
+2.  In the left pane, select **3D Product Catalog**. A list of products is displayed.
 
-    ![Select 3D Product Catalog from the left navigation pane](media/product-catalog-nav.png "Select 3D Product Catalog from the left navigation pane")
+    ![Select 3D Product Catalog from the left pane](media/product-catalog-nav.png "Select 3D Product Catalog from the left pane")
 
-3.  On the **Active 3D Products** page, select the product in which a model is to be added.
+3.  On the **Active 3D Products** page, select the product to which you want to add a model.
 
 4.  Under **3D Viewer**, select **Add 3D Model**.
 
-    ![Add 3D model button](media/add-3d-model-button.png "Add 3D model button")
+    ![Add 3D Model button](media/add-3d-model-button.png "Add 3D Model button")
 
-5.  Browse and select the 3D model.
+5.  Find and select the 3D model.
 
 6. Repeat steps 4 through 5 to add more 3D models.
 
 ## Manipulate a model
 
-1.  [Sign in to Product Visualize Hub](sign-in-app.md).
+1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left navigation pane, select **3D Product Catalog**.
+2.  In the left pane, select **3D Product Catalog**.
 
 3.  On the **Active 3D Products** page, select your product.
 
 4.  Under **3D Viewer**, select the model to you want to manipulate.
 
-5.  To zoom-in to the model, hover over the model, and scroll-up using the mouse wheel.
+    - To zoom in on the model, hover over it and scroll up by using the mouse wheel.
 
-6.  To zoom-out of the model, hover over the model, and scroll-down using the mouse wheel.
+    - To zoom out from the model, hover over it and scroll down by using the mouse wheel.
 
-7.  To manipulate the view of the model, click-and-drag the model.
+    - To manipulate your view of the model, click in the model and drag to change your view.<!--Edit okay? Writing Style Guide says "don't use click and drag."-->
 
-## Create thumbnail of a model
+## Create a thumbnail of a model
 
-Thumbnails are a small-size version of photos or videos used to recognize and organize them. When you Add a 3D model to a product, no thumbnail is displayed for the model and is displayed as follows:
+Thumbnails are small-size versions of photos or videos used to help you recognize and organize them.<!--I'm not sure you need to define a thumbnail for this audience; maybe delete the preceding sentence?--> When you add a 3D model to a product, no thumbnail is displayed for the model. It appears as shown in the following image.
 
 ![Model without thumbnail](media/model-no-thumbnail.png "Model without thumbnail")
 
-When you add a thumbnail, an image is displayed for the model.
+When you add a thumbnail, an image of the model is displayed.
 
 ![Model with thumbnail](media/model-thumbnail.png "Model with thumbnail")
 
 **To create a thumbnail for a model**
 
-1.  [Sign in to Product Visualize Hub](sign-in-app.md).
+1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left navigation pane, select **3D Product Catalog**.
+2.  In the left pane, select **3D Product Catalog**.
 
 3.  On the **Active 3D Products** page, select your product.
 
-4.  Under **3D Viewer**, select the model for which you want to create thumbnail.
+4.  Under **3D Viewer**, select the model for which you want to create a thumbnail.
 
 5.  Select **Create Thumbnail**.
 
-6.  Select **Back** to view thumbnail of the model.
+6.  Select **Back** to view the thumbnail of the model.
 
 ## Delete a model
 
-1.  [Sign in to Product Visualize Hub](sign-in-app.md).
+1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left navigation pane, select **3D Product Catalog**.
+2.  In the left pane, select **3D Product Catalog**.
 
 3.  On the **Active 3D Products** page, select your product.
 
@@ -87,9 +87,9 @@ When you add a thumbnail, an image is displayed for the model.
 
 ### See also
 
-[Sign in to Product Visualize Hub](sign-in-app.md)<br>
+[Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md)<br>
 [Add a 3D product](add-3d-product.md)<br>
 [Add a note to a model](add-note-model.md)<br>
-[Create a mixed reality session](create-mr-session.md)<br>
-[Add a product to a mixed reality session](add-product-mr-session.md)<br>
+[Create a mixed-reality session](create-mr-session.md)<br>
+[Add a product to a mixed-reality session](add-product-mr-session.md)<br>
 [Set up Microsoft Teams](setup-ms-teams.md)
