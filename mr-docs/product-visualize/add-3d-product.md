@@ -25,6 +25,8 @@ manager: shujoshi
 
 5.  Select **Save**.
 
+    ![Product added](media/product-added.png "Product added")
+
 ### See also
 
 [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md)<br>

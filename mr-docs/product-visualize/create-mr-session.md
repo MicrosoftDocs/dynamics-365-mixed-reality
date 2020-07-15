@@ -15,7 +15,7 @@ manager: shujoshi
 
 A mixed-reality session represents a chance to sell your products to customers by showing them 3D models of your products. Salespeople can view their mixed-reality sessions directly from the Dynamics 365 Product Visualize iOS app, but the sessions must be added through the Dynamics 365 Product Visualize Hub interface.
 
-**To add a mixed-reality session**
+**To create a mixed-reality session**
 
 1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
@@ -28,6 +28,8 @@ A mixed-reality session represents a chance to sell your products to customers b
 4.  In the **Name** field, enter a name for the mixed-reality session.
 
 5.  Select **Save**.
+
+    ![Mixed-reality session created](media/mr-session-created.png "Mixed-reality session created")
 
 ### See also
 
