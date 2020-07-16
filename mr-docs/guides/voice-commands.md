@@ -35,3 +35,13 @@ SCREEN SHOT GOES HERE
 |1|"Sign in"|Start the sign-in process.|
 |2|"Get started"|Open the **Get started with Guides** dialog box.|
 |3|"Try the demo"|Open the Dynamics 365 Guides demo.|
+
+## Select mode page
+
+SCREEN SHOT GOES HERE
+
+||Say this|To do this|
+|---|-----------------|-------------------------------------------|
+|1|"Operate"|Select **Operate** mode.|
+|2|"Author"|Select **Author** mode.|
+
