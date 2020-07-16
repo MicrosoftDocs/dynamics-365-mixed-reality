@@ -45,3 +45,27 @@ SCREEN SHOT GOES HERE
 |1|"Operate"|Select **Operate** mode.|
 |2|"Author"|Select **Author** mode.|
 
+## Scan anchor page
+
+SCREEN SHOT GOES HERE
+
+||Say this|To do this|
+|---|-----------------|-------------------------------------------|
+|1|"Confirm"|Confirm the position of the anchor so you can start using the guide.|
+
+## Scan anchor page (QR code and circular code)
+
+SCREEN SHOT GOES HERE
+
+||Say this|To do this|
+|---|-----------------|-------------------------------------------|
+|1|"Initiate scan"|Start anchor scanning.|
+
+## Anchor found page (QR code and circular code)
+
+SCREEN SHOT GOES HERE
+
+||Say this|To do this|
+|---|-----------------|-------------------------------------------|
+|1|"Rescan"|Rescan the anchor if holograms aren’t aligned correctly.|
+|2|"Confirm"|Confirm the position of the anchor so you can start using the guide.|
