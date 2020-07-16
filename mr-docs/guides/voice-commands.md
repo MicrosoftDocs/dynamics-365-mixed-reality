@@ -69,3 +69,27 @@ SCREEN SHOT GOES HERE
 |---|-----------------|-------------------------------------------|
 |1|"Rescan"|Rescan the anchor if holograms aren’t aligned correctly.|
 |2|"Confirm"|Confirm the position of the anchor so you can start using the guide.|
+
+## Step card page
+
+SCREEN SHOT GOES HERE
+
+||Button or element|Say this|To do this|
+|---|----------|-------------------|-------------------------------------|
+|1||"Exit guide"|Exit the current guide.|
+|2||"Follow me"|Turn on Follow mode.|
+|3||"Place here"|Turn off Follow mode.|
+|4||"Go to anchor"|Go to the anchor page to re-anchor the guide (if holograms aren’t aligned correctly).|
+|5||"Go to settings"|Go to the **Settings** page.|
+|6||"Go to my profile"|Go to your profile page.|
+|7||"Go back"|Go to the previous step.|
+|8||"Next step|Go to the next step.|
+|9||"Go to outline"|Opens the task/step outline view. ||
+|10||"Hide holograms"|Turn off visibility for 3D parts (assuming 3D parts have been placed and they’re visible).|
+|11||"Show holograms"|Turn on visibility for 3D parts (assuming 3D parts have been placed and they’re hidden).|
+|12||"Play video"|Start the video attached to the step (assuming the step has a video).|
+|13||"Pause video"|Pause the video.|
+|14||"Restart guide"|Go to the first step in the guide.<br>**Note:** You must be on the completion step to use this voice command.|
+
+
+
