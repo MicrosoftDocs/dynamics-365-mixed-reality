@@ -79,7 +79,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 ||Button or element|Say this|To do this|
 |---|----------|-------------------|-------------------------------------|
 |1|![Home button](media/home-button.png "Home button")|"Exit guide"|Exit the current guide.|
-|2|![Follow mode button (turn on)](media/follow-mode-button-inactive.png "Follow mode button (turn on)")|"Follow me"|Turn on **Follow** mode.|
+|2|![Follow mode button (turn on)](media/follow-mode-inactive-button.png "Follow mode button (turn on)")|"Follow me"|Turn on **Follow** mode.|
 |3|![Follow mode button (turn off)](media/follow-button.png "Follow mode (turn off)")|"Place here"|Turn off **Follow** mode.|
 |4|![Anchor button](media/anchor-button.PNG "Anchor button")|"Go to anchor"|Go to the anchor page to re-anchor the guide (if holograms aren’t aligned correctly).|
 |5|![Settings button](media/settings-button.png "Settings button")|"Go to settings"|Go to the **Settings** page.|
