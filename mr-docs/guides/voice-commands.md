@@ -9,7 +9,7 @@ You can use voice commands in Microsoft Dynamics 365 Guides as a substitute for 
 
 ## Prerequisites
 
-- Speech must be enabled in the device.
+- Speech must be enabled on the device.
 
 - You must give permission to Dynamics 365 Guides to use your microphone during the first run of the app or by going to **Settings** > **Privacy** > **Microphone** > 
 **Dynamics 365 Guides**.
