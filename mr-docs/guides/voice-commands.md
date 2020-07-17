@@ -99,8 +99,8 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ||Button or element|Say this|To do this|
 |---|----------|-------------------|-------------------------------------|
-|1|![XXX](media/XXX.png "XXX")|"Scroll up"|Scroll up the list.|
-|2|![XXX](media/XXX.png "XXX")|"Scroll down"|Scroll down the list.|
+|1|![Scroll up button](media/scroll-up-button.png "Scroll up button")|"Scroll up"|Scroll up the list.|
+|2|![Scroll down button](media/scroll-down-button.png "Scroll down button")|"Scroll down"|Scroll down the list.|
 
 ## Profile page
 
