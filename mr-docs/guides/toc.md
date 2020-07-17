@@ -47,6 +47,7 @@
 #### HoloLens gestures for authoring and navigating
 ##### [HoloLens 1](authoring-gestures.md)
 ##### [HoloLens 2](authoring-gestures-HL2.md)
+#### [Voice commands](voice-commands.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ### [How to make a great mixed reality guide](great-guide.md)
 ### [Convert 3D models to use as holograms](import-tool.md)
@@ -62,6 +63,7 @@
 ### [Anchor your guide](operator-anchor.md)
 ### [Operate your guide](operator-orientation.md)
 ### [Work offline](operator-offline-mode.md)
+### [Voice commands](voice-commands.md)
 ## [Analyze your guides](analytics-guide.md)
 ## [Entity reference (for developers)](developer-entity-reference.md)
 ## [Get Help and provide feedback](help.md)
