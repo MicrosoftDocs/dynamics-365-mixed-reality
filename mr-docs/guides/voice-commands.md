@@ -100,11 +100,36 @@ SCREEN SHOT GOES HERE
 |1||"Scroll up"|Scroll up the list.|
 |2||"Scroll down"|Scroll down the list.|
 
-## User profile page
+## Anchor found page (QR code and circular code)
+
+SCREEN SHOT GOES HERE
+
+||Say this|To do this|
+|---|-----------------|-------------------------------------------|
+|1|"Sign out"|Sign out of Dynamics 365 Guides.|
+
+## User profile/Settings/Task list pages
 
 SCREEN SHOT GOES HERE
 
 |Button or element|Say this|To do this|
 |-----|-------------------|-------------------------------------|
 ||"Close window"|Close the active window.|
+
+## Dialog boxes 
+
+On dialog boxes, read the label of the button (for example, **Yes** or **No** or **Sign up** or **Cancel** in the screen shots below). 
+
+SCREEN SHOTS GO HERE
+
+## Author mode commands
+
+SCREEN SHOT GOES HERE
+
+|Button or element|Say this|To do this|
+|-----|-------------------|-------------------------------------|
+||"Undo changes"|Undo the last change.| 
+||"Redo changes"|Redo the last change.|
+||"Save guide"|Save your latest changes.|
+
 
