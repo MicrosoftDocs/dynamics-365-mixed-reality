@@ -125,8 +125,6 @@ For dialog boxes, read the label of the button (for example, say **Yes** or **No
 
 ## Author mode commands
 
-![XXX](media/XXX.PNG "XXX")
-
 |Button or element|Say this|To do this|
 |-----|-------------------|-------------------------------------|
 |![XXX](media/XXX.png "XXX")|"Undo changes"|Undo the last change.| 
