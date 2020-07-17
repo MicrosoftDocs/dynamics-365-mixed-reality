@@ -91,7 +91,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 |11|![Show holograms button](media/show-holograms-button.png "Show holograms button")|"Show holograms"|Turn on visibility for 3D parts (assuming 3D parts have been placed and they’re hidden).|
 |12|![Play button](media/play-button.png "Play button")|"Play video"|Start the video attached to the step (assuming the step has a video).|
 |13|![Pause button](media/pause-button.png "Pause button")|"Pause video"|Pause the video.|
-|14|![XXX](media/XXX.png "XXX")|"Restart guide"|Go to the first step in the guide.<br>**Note:** You must be on the completion step to use this voice command.|
+|14|![Restart guide button](media/restart-guide-button.PNG "Restart guide button")|"Restart guide"|Go to the first step in the guide.<br>**Note:** You must be on the completion step to use this voice command.|
 
 ## Task list/guide list
 
