@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. 
 
 > [!NOTE]
-> You must have a [System Administrator security group role](https://docs.microsoft.com/power-platform/admin/database-security) and have an assigned Guides license to upgrade the Guides solution. 
+> To upgrade the Guides solution. you must have a [System Administrator security group role](https://docs.microsoft.com/power-platform/admin/database-security) and an assigned Guides license. 
 
 When an update is required, the user will see a notification in the **What's new** panel. 
 
@@ -26,7 +26,7 @@ Keep the following in mind:
 
 To upgrade the solution:
 
-1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments) and sign in with the [System Administrator security role](https://docs.microsoft.com/power-platform/admin/database-security) permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Admins must also have a [Dynamics 365 Guides license assigned to their user account](https://docs.microsoft.com/dynamics365/mixed-reality/guides/add-users). 
+1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the [System Administrator security role](https://docs.microsoft.com/power-platform/admin/database-security) permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Admins must also have a [Dynamics 365 Guides license assigned to their user account](https://docs.microsoft.com/dynamics365/mixed-reality/guides/add-users). 
 
 2. To select the environment, select **Resources**, and then select **Dynamics 365 apps**. 
 
@@ -42,13 +42,13 @@ To upgrade the solution:
 
 ## Troubleshooting
 
-If you run into issues upgrading the solution, make sure that you have the [System Administrator security role](https://docs.microsoft.com/power-platform/admin/database-security). You must have this role to upgrade the solution.
+If you encounter issues while you're upgrading the solution, make sure that you have the [System Administrator security role](https://docs.microsoft.com/power-platform/admin/database-security). You must have this role to upgrade the solution.
 
 ### "Guide can't be opened" error message
 
-As a part of the update to the Dynamics 365 Guides solution that was released on April 28, 2020, all your guides should automatically be converted from schema v3 to v4. Schema v4 enables Dynamics 365 Guides content to be stored in entities instead of inside a single JavaScript Object Notation (JSON) file. Therefore, you can take advantage of the Common Data Service Web application programming interface (API) and Microsoft Power Platform functionality by using Dynamics 365 Guides content.
+As part of the update to the Dynamics 365 Guides solution that was released on April 28, 2020, all your guides should automatically be converted from schema v3 to v4. Schema v4 enables Dynamics 365 Guides content to be stored in entities instead of inside a single JavaScript Object Notation (JSON) file. Therefore, you can take advantage of the Common Data Service Web application programming interface (API) and Microsoft Power Platform functionality by using Dynamics 365 Guides content.
 
-In rare cases, the conversion of a guide from schema v3 to v4 might be unsuccessful, for reasons that include, but aren't limited to the following:
+In rare cases, the conversion of a guide from schema v3 to v4 might be unsuccessful, for reasons that include but aren't limited to the following:
 
 - A guide was being authored in the PC or HoloLens app when the solution was updated.
 
