@@ -4,6 +4,7 @@
 
 ## Administrator guide
 ### [Set up Product Visualize](setup.md)
+### [Integrate Sales with Product Visualize Hub](integrate-sales.md)
 
 ## Product Visualize Hub user guide
 ### [Overview](hub-user-guide.md)
