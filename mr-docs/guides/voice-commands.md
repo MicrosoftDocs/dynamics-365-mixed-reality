@@ -78,15 +78,15 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ||Button or element|Say this|To do this|
 |---|----------|-------------------|-------------------------------------|
-|1|![XXX](media/XXX.png "XXX")|"Exit guide"|Exit the current guide.|
+|1|![Home button](media/home-button.png "Home button")|"Exit guide"|Exit the current guide.|
 |2|![XXX](media/XXX.png "XXX")|"Follow me"|Turn on Follow mode.|
-|3|![XXX](media/XXX.png "XXX")|"Place here"|Turn off Follow mode.|
-|4|![XXX](media/XXX.png "XXX")|"Go to anchor"|Go to the anchor page to re-anchor the guide (if holograms aren’t aligned correctly).|
-|5|![XXX](media/XXX.png "XXX")|"Go to settings"|Go to the **Settings** page.|
-|6|![XXX](media/XXX.png "XXX")|"Go to my profile"|Go to your profile page.|
+|3|![Follow mode button in off position](media/follow-button.png "Follow mode button in off position")|"Place here"|Turn off Follow mode.|
+|4|![Anchor button](media/anchor-button.PNG "Anchor button")|"Go to anchor"|Go to the anchor page to re-anchor the guide (if holograms aren’t aligned correctly).|
+|5|![Settings button](media/settings-button.png "Settings button")|"Go to settings"|Go to the **Settings** page.|
+|6|![Profile button](media/profile-button.png "Profile button")|"Go to my profile"|Go to your profile page.|
 |7|![XXX](media/XXX.png "XXX")|"Go back"|Go to the previous step.|
 |8|![XXX](media/XXX.png "XXX")|"Next step|Go to the next step.|
-|9|![XXX](media/XXX.png "XXX")|"Go to outline"|Opens the task/step outline view. ||
+|9|![Outline button](media/outline-button.png "Outline button")|"Go to outline"|Opens the task/step outline view. ||
 |10|![XXX](media/XXX.png "XXX")|"Hide holograms"|Turn off visibility for 3D parts (assuming 3D parts have been placed and they’re visible).|
 |11|![XXX](media/XXX.png "XXX")|"Show holograms"|Turn on visibility for 3D parts (assuming 3D parts have been placed and they’re hidden).|
 |12|![XXX](media/XXX.png "XXX")|"Play video"|Start the video attached to the step (assuming the step has a video).|
