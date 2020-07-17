@@ -100,3 +100,11 @@ SCREEN SHOT GOES HERE
 |1||"Scroll up"|Scroll up the list.|
 |2||"Scroll down"|Scroll down the list.|
 
+## User profile page
+
+SCREEN SHOT GOES HERE
+
+|Button or element|Say this|To do this|
+|-----|-------------------|-------------------------------------|
+||"Close window"|Close the active window.|
+
