@@ -5,16 +5,16 @@
 You can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze. Most voice commands are contextual; they only work in certain areas of the user interface. 
 
 >[!NOTE]
-Voice commands work best on HoloLens 2. You can use voice commands on HoloLens 1, but HoloLens 1 is not optimized for voice.  
+>Voice commands work best on HoloLens 2. You can use voice commands on HoloLens 1, but HoloLens 1 is not optimized for voice.  
 
 ## Prerequisites
 
-•	Speech must be enabled in the device.
+- Speech must be enabled in the device.
 
-•	You must give permission to Dynamics 365 Guides to use your microphone during the first run of the app or by going to **Settings** > **Privacy** > **Microphone** > 
+- You must give permission to Dynamics 365 Guides to use your microphone during the first run of the app or by going to **Settings** > **Privacy** > **Microphone** > 
 **Dynamics 365 Guides**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
     
 > [!NOTE]
 > Voice commands in Dynamics 365 Guides are only supported in [some languages](https://docs.microsoft.com/dynamics365/mixed-reality/guides/faq#what-languages-is-dynamics-365-guides-available-in). 
@@ -30,7 +30,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ## Sign-in page
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -40,7 +40,7 @@ SCREEN SHOT GOES HERE
 
 ## Select mode page
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -49,7 +49,7 @@ SCREEN SHOT GOES HERE
 
 ## Scan anchor page
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -57,7 +57,7 @@ SCREEN SHOT GOES HERE
 
 ## Scan anchor page (QR code and circular code)
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -65,7 +65,7 @@ SCREEN SHOT GOES HERE
 
 ## Anchor found page (QR code and circular code)
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -74,37 +74,37 @@ SCREEN SHOT GOES HERE
 
 ## Step card page
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 
 ||Button or element|Say this|To do this|
 |---|----------|-------------------|-------------------------------------|
-|1||"Exit guide"|Exit the current guide.|
-|2||"Follow me"|Turn on Follow mode.|
-|3||"Place here"|Turn off Follow mode.|
-|4||"Go to anchor"|Go to the anchor page to re-anchor the guide (if holograms aren’t aligned correctly).|
-|5||"Go to settings"|Go to the **Settings** page.|
-|6||"Go to my profile"|Go to your profile page.|
-|7||"Go back"|Go to the previous step.|
-|8||"Next step|Go to the next step.|
-|9||"Go to outline"|Opens the task/step outline view. ||
-|10||"Hide holograms"|Turn off visibility for 3D parts (assuming 3D parts have been placed and they’re visible).|
-|11||"Show holograms"|Turn on visibility for 3D parts (assuming 3D parts have been placed and they’re hidden).|
-|12||"Play video"|Start the video attached to the step (assuming the step has a video).|
-|13||"Pause video"|Pause the video.|
-|14||"Restart guide"|Go to the first step in the guide.<br>**Note:** You must be on the completion step to use this voice command.|
+|1|![XXX](media/XXX.png "XXX")|"Exit guide"|Exit the current guide.|
+|2|![XXX](media/XXX.png "XXX")|"Follow me"|Turn on Follow mode.|
+|3|![XXX](media/XXX.png "XXX")|"Place here"|Turn off Follow mode.|
+|4|![XXX](media/XXX.png "XXX")|"Go to anchor"|Go to the anchor page to re-anchor the guide (if holograms aren’t aligned correctly).|
+|5|![XXX](media/XXX.png "XXX")|"Go to settings"|Go to the **Settings** page.|
+|6|![XXX](media/XXX.png "XXX")|"Go to my profile"|Go to your profile page.|
+|7|![XXX](media/XXX.png "XXX")|"Go back"|Go to the previous step.|
+|8|![XXX](media/XXX.png "XXX")|"Next step|Go to the next step.|
+|9|![XXX](media/XXX.png "XXX")|"Go to outline"|Opens the task/step outline view. ||
+|10|![XXX](media/XXX.png "XXX")|"Hide holograms"|Turn off visibility for 3D parts (assuming 3D parts have been placed and they’re visible).|
+|11|![XXX](media/XXX.png "XXX")|"Show holograms"|Turn on visibility for 3D parts (assuming 3D parts have been placed and they’re hidden).|
+|12|![XXX](media/XXX.png "XXX")|"Play video"|Start the video attached to the step (assuming the step has a video).|
+|13|![XXX](media/XXX.png "XXX")|"Pause video"|Pause the video.|
+|14|![XXX](media/XXX.png "XXX")|"Restart guide"|Go to the first step in the guide.<br>**Note:** You must be on the completion step to use this voice command.|
 
 ## Task list/guide list
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 
 ||Button or element|Say this|To do this|
 |---|----------|-------------------|-------------------------------------|
-|1||"Scroll up"|Scroll up the list.|
-|2||"Scroll down"|Scroll down the list.|
+|1|![XXX](media/XXX.png "XXX")|"Scroll up"|Scroll up the list.|
+|2|![XXX](media/XXX.png "XXX")|"Scroll down"|Scroll down the list.|
 
 ## Anchor found page (QR code and circular code)
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -112,26 +112,27 @@ SCREEN SHOT GOES HERE
 
 ## User profile/Settings/Task list pages
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 
 |Button or element|Say this|To do this|
 |-----|-------------------|-------------------------------------|
-||"Close window"|Close the active window.|
+|![XXX](media/XXX.png "XXX")|"Close window"|Close the active window.|
 
 ## Dialog boxes 
 
 On dialog boxes, read the label of the button (for example, **Yes** or **No** or **Sign up** or **Cancel** in the screen shots below). 
 
-SCREEN SHOTS GO HERE
+![XXX](media/XXX.PNG "XXX")
+![XXX](media/XXX.PNG "XXX")
 
 ## Author mode commands
 
-SCREEN SHOT GOES HERE
+![XXX](media/XXX.PNG "XXX")
 
 |Button or element|Say this|To do this|
 |-----|-------------------|-------------------------------------|
-||"Undo changes"|Undo the last change.| 
-||"Redo changes"|Redo the last change.|
-||"Save guide"|Save your latest changes.|
+|![XXX](media/XXX.png "XXX")|"Undo changes"|Undo the last change.| 
+|![XXX](media/XXX.png "XXX")|"Redo changes"|Redo the last change.|
+|![XXX](media/XXX.png "XXX")|"Save guide"|Save your latest changes.|
 
 
