@@ -84,7 +84,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 |4|![Anchor button](media/anchor-button.PNG "Anchor button")|"Go to anchor"|Go to the anchor page to re-anchor the guide (if holograms aren’t aligned correctly).|
 |5|![Settings button](media/settings-button.png "Settings button")|"Go to settings"|Go to the **Settings** page.|
 |6|![Profile button](media/profile-button.png "Profile button")|"Go to my profile"|Go to your profile page.|
-|7|![Go back button](media/bo-back-button.png "Go back button")|"Go back"|Go to the previous step.|
+|7|![Go back button](media/go-back-button.png "Go back button")|"Go back"|Go to the previous step.|
 |8|![Next step button](media/next-step-button.png "Next step button")|"Next step|Go to the next step.|
 |9|![Outline button](media/outline-button.png "Outline button")|"Go to outline"|Go to the task/step Outline view. ||
 |10|![Hide holograms button](media/hide-holograms-button.png "Hide holograms button")|"Hide holograms"|Turn off visibility for 3D parts (assuming 3D parts have been placed and they’re visible).|
