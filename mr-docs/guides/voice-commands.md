@@ -118,7 +118,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ## Dialog boxes 
 
-On dialog boxes, read the label of the button (for example, **Yes** or **No** or **Sign up** or **Cancel** in the screen shots below). 
+On dialog boxes, read the label of the button (for example, say **Yes** or **No**). 
 
 ![Example of dialog box with Yes and No buttons](media/voice-dialog.PNG "Example of dialog page with yes and no buttons")
 
