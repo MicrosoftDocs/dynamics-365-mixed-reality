@@ -114,7 +114,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 |Button or element|Say this|To do this|
 |-----|-------------------|-------------------------------------|
-|![XXX](media/XXX.png "XXX")|"Close window"|Close the active window.|
+|![Close button](media/close-button.png "Close button")|"Close window"|Close the active window.|
 
 ## Dialog boxes 
 
@@ -127,8 +127,8 @@ For dialog boxes, read the label of the button (for example, say **Yes** or **No
 
 |Button or element|Say this|To do this|
 |-----|-------------------|-------------------------------------|
-|![XXX](media/XXX.png "XXX")|"Undo changes"|Undo the last change.| 
-|![XXX](media/XXX.png "XXX")|"Redo changes"|Redo the last change.|
-|![XXX](media/XXX.png "XXX")|"Save guide"|Save your latest changes.|
+|![Undo button](media/undo-button.png "Undo button")|"Undo changes"|Undo the last change.| 
+|![Redo button](media/redo-button.png "Redo button")|"Redo changes"|Redo the last change.|
+|![Save button](media/save-button.png "Save button")|"Save guide"|Save your latest changes.|
 
 
