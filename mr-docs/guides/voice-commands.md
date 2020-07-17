@@ -65,7 +65,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ## Anchor found page (QR code and circular code)
 
-![Circular code anchor found page](media/voice-found-anchor.PNG "Circular code anchor found page")
+![Circular code anchor found page](media/voice-found-circular.PNG "Circular code anchor found page")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
