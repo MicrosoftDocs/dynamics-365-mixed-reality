@@ -30,7 +30,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ## Sign-in page
 
-![XXX](media/XXX.PNG "XXX")
+![Sign-in page](media/voice-sign-in.PNG "Sign-in page")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -40,7 +40,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ## Select mode page
 
-![XXX](media/XXX.PNG "XXX")
+![Select mode page](media/voice-select-mode.PNG "Select mode page")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -49,7 +49,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ## Scan anchor page
 
-![XXX](media/XXX.PNG "XXX")
+![Align holographic anchor page](media/voice-align-holographic.PNG "Align holographic anchor page")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -57,7 +57,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ## Scan anchor page (QR code and circular code)
 
-![XXX](media/XXX.PNG "XXX")
+![Scan circular code anchor page](media/voice-scan-circular.PNG "Scan circular code anchor page")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -65,7 +65,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ## Anchor found page (QR code and circular code)
 
-![XXX](media/XXX.PNG "XXX")
+![Circular code anchor found page](media/voice-found-anchor.PNG "Circular code anchor found page")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
@@ -74,7 +74,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ## Step card page
 
-![XXX](media/XXX.PNG "XXX")
+![Step card page](media/voice-step-card.PNG "Step card page")
 
 ||Button or element|Say this|To do this|
 |---|----------|-------------------|-------------------------------------|
@@ -95,24 +95,22 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 ## Task list/guide list
 
-![XXX](media/XXX.PNG "XXX")
+![Task list page showwing scroll up and scroll down buttons](media/voice-lists.PNG "ask list page showwing scroll up and scroll down buttons")
 
 ||Button or element|Say this|To do this|
 |---|----------|-------------------|-------------------------------------|
 |1|![XXX](media/XXX.png "XXX")|"Scroll up"|Scroll up the list.|
 |2|![XXX](media/XXX.png "XXX")|"Scroll down"|Scroll down the list.|
 
-## Anchor found page (QR code and circular code)
+## Profile page
 
-![XXX](media/XXX.PNG "XXX")
+![Profile page showing Sign out button](media/voice-profile.PNG "Profile page showing Sign out button")
 
 ||Say this|To do this|
 |---|-----------------|-------------------------------------------|
 |1|"Sign out"|Sign out of Dynamics 365 Guides.|
 
 ## User profile/Settings/Task list pages
-
-![XXX](media/XXX.PNG "XXX")
 
 |Button or element|Say this|To do this|
 |-----|-------------------|-------------------------------------|
@@ -122,8 +120,8 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 
 On dialog boxes, read the label of the button (for example, **Yes** or **No** or **Sign up** or **Cancel** in the screen shots below). 
 
-![XXX](media/XXX.PNG "XXX")
-![XXX](media/XXX.PNG "XXX")
+![Example of dialog box with Yes and No buttons](media/voice-dialog.PNG "Example of dialog page with yes and no buttons")
+
 
 ## Author mode commands
 
