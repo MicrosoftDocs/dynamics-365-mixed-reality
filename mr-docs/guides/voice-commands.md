@@ -17,7 +17,7 @@ You can use voice commands in Microsoft Dynamics 365 Guides as a substitute for 
     ![Microphone settings screen](media/microphone-permission.PNG "Microphone settings screen")
     
 > [!NOTE]
-> Voice commands in Dynamics 365 Guides are only supported in [some languages](https://docs.microsoft.com/dynamics365/mixed-reality/guides/faq#what-languages-is-dynamics-365-guides-available-in). 
+> Voice commands in Dynamics 365 Guides are supported in [certain languages only](https://docs.microsoft.com/dynamics365/mixed-reality/guides/faq#what-languages-is-dynamics-365-guides-available-in). 
 The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by selecting **Settings** > **Time and Language** > 
 **Language**.
 
