@@ -91,5 +91,12 @@ SCREEN SHOT GOES HERE
 |13||"Pause video"|Pause the video.|
 |14||"Restart guide"|Go to the first step in the guide.<br>**Note:** You must be on the completion step to use this voice command.|
 
+## Task list/guide list
 
+SCREEN SHOT GOES HERE
+
+||Button or element|Say this|To do this|
+|---|----------|-------------------|-------------------------------------|
+|1||"Scroll up"|Scroll up the list.|
+|2||"Scroll down"|Scroll down the list.|
 
