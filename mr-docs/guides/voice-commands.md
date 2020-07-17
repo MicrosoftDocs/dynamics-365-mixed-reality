@@ -87,10 +87,10 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 |7|![XXX](media/XXX.png "XXX")|"Go back"|Go to the previous step.|
 |8|![XXX](media/XXX.png "XXX")|"Next step|Go to the next step.|
 |9|![Outline button](media/outline-button.png "Outline button")|"Go to outline"|Go to the task/step Outline view. ||
-|10|![XXX](media/XXX.png "XXX")|"Hide holograms"|Turn off visibility for 3D parts (assuming 3D parts have been placed and they’re visible).|
-|11|![XXX](media/XXX.png "XXX")|"Show holograms"|Turn on visibility for 3D parts (assuming 3D parts have been placed and they’re hidden).|
-|12|![XXX](media/XXX.png "XXX")|"Play video"|Start the video attached to the step (assuming the step has a video).|
-|13|![XXX](media/XXX.png "XXX")|"Pause video"|Pause the video.|
+|10|![Hide holograms button](media/hid-holograms-button.png "Hide holograms button")|"Hide holograms"|Turn off visibility for 3D parts (assuming 3D parts have been placed and they’re visible).|
+|11|![Show holograms button](media/show-holograms-button.png "Show holograms button")|"Show holograms"|Turn on visibility for 3D parts (assuming 3D parts have been placed and they’re hidden).|
+|12|![Play button](media/play-button.png "Play button")|"Play video"|Start the video attached to the step (assuming the step has a video).|
+|13|![Pause button](media/pause-button.png "Pause button")|"Pause video"|Pause the video.|
 |14|![XXX](media/XXX.png "XXX")|"Restart guide"|Go to the first step in the guide.<br>**Note:** You must be on the completion step to use this voice command.|
 
 ## Task list/guide list
