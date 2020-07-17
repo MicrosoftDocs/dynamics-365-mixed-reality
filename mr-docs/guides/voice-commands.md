@@ -47,7 +47,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 |1|"Operate"|Select **Operate** mode.|
 |2|"Author"|Select **Author** mode.|
 
-## Scan anchor page
+## Align holographic anchor page
 
 ![Align holographic anchor page](media/voice-align-holographic.PNG "Align holographic anchor page")
 
