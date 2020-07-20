@@ -4,7 +4,7 @@ description: Instructions for setting up Microsoft Teams for Product Visualize.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 06/12/2020
+ms.date: 07/17/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -24,13 +24,11 @@ Teams is the best way to collaborate with your team, manage files, and have conv
 
 3. In the left pane, select **Billing**, and then select **Purchase services**.
 
-4. Search for **Microsoft 365 Business Standard**, and then select the **Microsoft 365 Business Standard** panel from the results.
+4. Search for **Microsoft 365 Business Standard**, and hover over the **Microsoft 365 Business Standard** tile, and then select **Start free trial**.
 
-   ![Microsoft 365 Business Standard](media/office.PNG "Microsoft 365 Business Standard")
+    ![Microsoft 365 Business Standard](media/ms-business-standard.png "Microsoft 365 Business Standard")
 
-5. On the summary page, select **Get free trial**.
-
-6. On the checkout page, select **Try now**. After this process is finished, select **Continue**. 
+5. Verify yourself and start the free trial. 
 
 ## Create a team
 

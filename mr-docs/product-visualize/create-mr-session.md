@@ -19,7 +19,7 @@ A mixed-reality session represents a chance to sell your products to customers b
 
 1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left pane, select **Mixed Reality Sessions**.
+2.  In the left pane, select **Mixed-reality sessions**.
 
     ![Select Mixed Reality Sessions from the left pane](media/mr-session.png "Select Mixed Reality Sessions from the left pane")
 

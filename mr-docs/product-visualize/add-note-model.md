@@ -16,13 +16,13 @@ ms-reviewer:
 
 1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left pane, select **3D Product Catalog**.
+2.  In the left pane, select **3D product catalog**.
 
 3.  On the **Active 3D Products** page, select your product.
 
 4.  Under **3D viewer**, select the model to which you want to add a note.
 
-5.  Under **Product notes**, select **Add note**.
+5.  Under **Product details**, select **Add note**.
 
     ![Add note button](media/add-note-button.png "Add note button")
 
@@ -42,7 +42,7 @@ ms-reviewer:
 
     ![Note added](media/note-added.png "Note added")
 
-10. Select **Submit**. The added note is displayed under **Product notes**.
+10. Select **Submit**. The added note is displayed under **Product details**.
 
     ![Note submitted](media/note-submitted.png "Note submitted")
 
@@ -52,7 +52,7 @@ After you've added notes to your model, you can edit or delete them.
 
 1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left pane, select **3D Product Catalog**.
+2.  In the left pane, select **3D product catalog**.
 
 3.  On the **Active 3D Products** page, select your product.
 

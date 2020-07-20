@@ -15,7 +15,7 @@ manager: shujoshi
 
 1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left pane, select **3D Product Catalog**.
+2.  In the left pane, select **3D product catalog**.
 
     ![Select 3D Product Catalog from the left pane](media/product-catalog-nav.png "Select 3D Product Catalog from the left pane")
 

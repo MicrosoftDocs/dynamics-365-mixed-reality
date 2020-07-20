@@ -19,7 +19,7 @@ Presenting complicated products to a customer by using traditional 2D materials 
 
 1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left pane, select **3D Product Catalog**.
+2.  In the left pane, select **3D product catalog**.
 
     ![Select 3D Product Catalog from the left pane](media/product-catalog-nav.png "Select 3D Product Catalog from the left pane")
 
@@ -42,7 +42,7 @@ Presenting complicated products to a customer by using traditional 2D materials 
 
 1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left pane, select **3D Product Catalog**.
+2.  In the left pane, select **3D product catalog**.
 
 3.  On the **Active 3D Products** page, select your product.
 
@@ -68,7 +68,7 @@ When you add a thumbnail, an image of the model is displayed.
 
 1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left pane, select **3D Product Catalog**.
+2.  In the left pane, select **3D product catalog**.
 
 3.  On the **Active 3D Products** page, select your product.
 
@@ -86,7 +86,7 @@ When you add a thumbnail, an image of the model is displayed.
 
 1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left pane, select **3D Product Catalog**.
+2.  In the left pane, select **3D product catalog**.
 
 3.  On the **Active 3D Products** page, select your product.
 

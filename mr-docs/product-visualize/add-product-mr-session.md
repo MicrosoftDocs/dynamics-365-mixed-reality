@@ -19,7 +19,7 @@ After you've created a mixed-reality session, you add products to it. A product 
 
 1.  [Sign in to Dynamics 365 Product Visualize Hub](sign-in-app.md).
 
-2.  In the left pane, select **Mixed Reality Sessions**.
+2.  In the left pane, select **Mixed-reality sessions**.
 
     ![Select Mixed Reality Sessions from the left pane](media/mr-session.png "Select Mixed Reality Sessions from the left pane")
 
