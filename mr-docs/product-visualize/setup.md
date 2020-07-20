@@ -65,7 +65,7 @@ Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This to
 
 ## Step 2: Install the Dynamics 365 Product Visualize solution
 
-1. Go to [Microsoft AppSource](https://appsource.microsoft.com) and search for Dynamics 365 Product Visualize.
+1. Go to the [Dynamics 365 Product Visualize app](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.d365_product_visualize?tab=Overview) on Microsoft AppSource.
 
 2. Select **Get it now**.
 
