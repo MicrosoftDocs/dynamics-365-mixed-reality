@@ -24,6 +24,9 @@ Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] ap
 |----------------------------------------------------------------------------------------|------|
 | <a href="XXX" target="_blank">Use voice commands in Dynamics 365 Guides</a> | No |
 
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
 ## July 7, 2020
 
 Version 402.2007.7001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.2.66 include the following new features.
@@ -48,9 +51,6 @@ Version 401.2005.21001 of the PC and [!include[pn-hololens](../includes/pn-holol
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/improved-user-experience-audio-feedback" target="_blank">Improved user experience with audio feedback</a> | No |
-
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## May 14, 2020
 
