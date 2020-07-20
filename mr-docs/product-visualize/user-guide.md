@@ -83,6 +83,4 @@ When you work with complex 3D models that were built by using layers, you have t
 
 Dynamics 365 Product Visualize sends your notes to your mixed-reality session timeline by default. This means that any notes you create to capture the results of your conversations with customers will be available in the Product Visualize Hub app. You can also choose to export any note to share it with other apps on your device that support the iOS sharing function. More information: [Export a note](add-note.md#export-a-note)
 
-> [!div class=mx-imgBorder]
-> ![Enter conversation outcomes into Product Visualize Hub](media/dynamics-notes-timeline.png "Enter conversation outcomes into Product Visualize Hub")
 
