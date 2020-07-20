@@ -61,7 +61,7 @@ New entities are introduced in Product Visualize Hub to provide your business wi
 
 15. In the **Mixed-reality session** field, search for the mixed-reality session to link and select it.
 
-![Use the new field added to enter data](media/use-new-field.png "Use the new field added to enter data")
+    ![Use the new field added to enter data](media/use-new-field.png "Use the new field added to enter data")
 
 16. Follow steps 6 through 15 to add and link to other Product Visualize entities.
 
