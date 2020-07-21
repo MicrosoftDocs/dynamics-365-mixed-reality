@@ -102,7 +102,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
 
     ![Settings command](media/environment-settings.PNG "Settings command")
 
-2. On the **Setting** page, under **Email**, select **Email settings**.
+2. On the **Settings** page, under **Email**, select **Email settings**.
 
     ![Email settings link](media/email-settings.png "Email settings link")
 
