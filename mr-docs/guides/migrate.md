@@ -20,6 +20,10 @@ The tool supports the following types of migrations.
 |Only images|Active images only. You can choose to migrate all existing images at once or select specific images.|
 |Only videos|Active videos only. You can choose to migrate all existing videos at once or select specific videos.|
 
+> [!NOTE]
+> - [Website and Power Apps links](https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-website-powerapps-link) are migrated when you migrate the guides. However, for Power Apps, you’ll also need to manually import the apps into the new instance and update the links in the steps.<br>- Migration of guides based on schema v3 is not supported by this tool. If you have updated your Dynamics 365 Guides solution to the latest version and still have a guide based on schema v3, you can [do a manual upgrade](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade#troubleshooting-you-receive-a-guide-cannot-be-opened-error-message).<br>- For 3D objects that belong to a 3D object collection, the parent 3D object will not be migrated unless you have the **System Admin** role.
+
+
 
 
 
