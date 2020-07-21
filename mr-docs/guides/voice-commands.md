@@ -11,7 +11,9 @@ ms.reviewer: v-brycho
 
 # Use voice commands in Dynamics 365 Guides as a substitute for hand gestures or gaze
 
-You can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze. Most voice commands are contextual; they only work in certain areas of the user interface. 
+You can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze. Voice commands are an efficient way to navigate the app since you can take actions without even gazing at buttons. This makes it easier to stay in the flow of your work. 
+
+Most voice commands are also contextual; only the voice commands available for a specific screen will work for that screen. This increases accuracy. 
 
 >[!NOTE]
 >Voice commands work best on HoloLens 2. You can use voice commands on HoloLens 1, but HoloLens 1 is not optimized for voice.  
@@ -26,7 +28,7 @@ You can use voice commands in Microsoft Dynamics 365 Guides as a substitute for 
     ![Microphone settings screen](media/microphone-permission.PNG "Microphone settings screen")
     
 > [!NOTE]
-> Voice commands in Dynamics 365 Guides are supported in [certain languages only](https://docs.microsoft.com/dynamics365/mixed-reality/guides/faq#what-languages-is-dynamics-365-guides-available-in). 
+> Voice commands are supported for [all languages supported by Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/faq#what-languages-is-dynamics-365-guides-available-in). 
 The language is based on the Windows display language, not the keyboard language. You can verify the Windows display language by selecting **Settings** > **Time and Language** > 
 **Language**.
 
@@ -88,9 +90,9 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 ||Button or element|Say this|To do this|
 |---|----------|-------------------|-------------------------------------|
 |1|![Home button](media/home-button.PNG "Home button")|"Exit guide"|Exit the current guide.|
-|2|![Follow mode button (turn on)](media/follow-mode-inactive-button.png "Follow mode button (turn on)")|"Follow me"|Turn on **Follow** mode.|
-|3|![Follow mode button (turn off)](media/follow-button.PNG "Follow mode (turn off)")|"Place here"|Turn off **Follow** mode.|
-|4|![Anchor button](media/anchor-button.PNG "Anchor button")|"Go to anchor"|Go to the anchor page to re-anchor the guide (if holograms aren’t aligned correctly).|
+|2|![Follow mode button (turn on)](media/follow-mode-inactive-button.png "Follow mode button (turn on)")|"Follow me"|Turn on **Follow** mode and bring the card to the center of the field of view.|
+|3|![Follow mode button (turn off)](media/follow-button.PNG "Follow mode (turn off)")|"Place here"|Turn off **Follow** mode and bring the card to the center of the field of view.|
+|4|![Anchor button](media/anchor-button.PNG "Anchor button")|"Go to anchor"|Go to the anchor step to re-anchor the guide.|
 |5|![Settings button](media/settings-button.PNG "Settings button")|"Go to settings"|Go to the **Settings** page.|
 |6|![Profile button](media/profile-button.PNG "Profile button")|"Go to my profile"|Go to your profile page.|
 |7|![Go back button](media/go-back-button.png "Go back button")|"Go back"|Go to the previous step.|
@@ -102,7 +104,7 @@ This section shows Dynamics 365 Guides pages and the voice commands to use for t
 |13|![Pause button](media/pause-button.png "Pause button")|"Pause video"|Pause the video.|
 |14|![Restart guide button](media/restart-guide-button.PNG "Restart guide button")|"Restart guide"|Go to the first step in the guide.<br>**Note:** You must be on the Completion step to use this voice command.|
 
-## Task list/guide list
+## Outline/guide list/instance list
 
 ![Task list page showwing scroll up and scroll down buttons](media/voice-lists.PNG "ask list page showwing scroll up and scroll down buttons")
 
