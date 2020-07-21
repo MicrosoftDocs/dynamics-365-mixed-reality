@@ -78,6 +78,9 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 3. Select the default environment (for example, Contoso).
 
+   > [!IMPORTANT]
+   > The Dynamics 365 Guides solution can also be installed on a trial environment. **We don't recommend using a trial environment because the environment is automatically disabled with all your content after the 30-day trial period expires**. You have a 7-day grace period to upgrade to a production environment or migrate your content to another environment.
+
 4. Select **Add database**.
 
    ![Add database command](media/select-add-database.PNG "Add database command")
