@@ -16,7 +16,7 @@ You can use voice commands in Microsoft Dynamics 365 Guides as a substitute for 
 Most voice commands are also contextual. They only work when the appropriate screen is open, which increases accuracy. 
 
 >[!NOTE]
->Voice commands work best on HoloLens 2. You can use voice commands on HoloLens 1, but HoloLens 1 is not optimized for voice.  
+>Voice commands work best on HoloLens 2. You can use voice commands on HoloLens 1, but HoloLens 1 is not optimized for voice in loud environments.  
 
 ## Prerequisites
 
