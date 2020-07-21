@@ -21,7 +21,27 @@ The tool supports the following types of migrations.
 |Only videos|Active videos only. You can choose to migrate all existing videos at once or select specific videos.|
 
 >[!NOTE]
->- [Website and Power Apps links](pc-app-website-powerapps-link.md) are migrated when you migrate the guides. However, for Power Apps, you’ll also need to manually import the apps into the new instance and update the links in the steps.<br><br>- Migration of guides based on schema v3 is not supported by this tool. If you have updated your Dynamics 365 Guides solution to the latest version and still have a guide based on schema v3, you can [do a manual upgrade](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade#troubleshooting-you-receive-a-guide-cannot-be-opened-error-message).<br><br>- For 3D objects that belong to a 3D object collection, the parent 3D object will not be migrated unless you have the **System Admin** role.
+>-[Website and Power Apps links](pc-app-website-powerapps-link.md) are migrated when you migrate the guides. However, for Power Apps, you’ll also need to manually import the apps into the new instance and update the links in the steps.<br><br>- Migration of guides based on schema v3 is not supported by this tool. If you have updated your Dynamics 365 Guides solution to the latest version and still have a guide based on schema v3, you can [do a manual upgrade](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade#troubleshooting-you-receive-a-guide-cannot-be-opened-error-message).<br><br>- For 3D objects that belong to a 3D object collection, the parent 3D object will not be migrated unless you have the **System Admin** role.
+
+## Prerequisites
+
+- You must have a Dynamics Insider Program account to have access to the download files. 
+
+- You must be a system administrator for the PC you use to run the PowerShell script. 
+
+- You must use [PowerShell](https://docs.microsoft.com/powershell/scripting/install/installing-windows-powershell?view=powershell-7#how-to-check-the-version-of-powershell) version 5.1.18362.752 or later. 
+
+- Both the source instance and destination instance must use Dynamics 365 Guides solution version 400.0.0 or later. 
+
+- You must have credentials to sign in to the source instance with the **System Admin** role (preferable) or **Operator/Author** role (required).  
+
+- You must have credentials to sign in to the destination instance with the **System Admin** role (preferable) or **Author** role (required). 
+
+We also highly recommend [backing up the contents](https://docs.microsoft.com/power-platform/admin/backup-restore-environments#create-a-manual-backup) of both instances before starting the migration process. 
+
+>[!NOTE]
+>Multi-factor authentication is not supported by this tool.
+
 
 
 
