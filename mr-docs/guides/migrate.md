@@ -1,4 +1,26 @@
 
 
-# Migrate Dynamics 365 Guides content from one Common Data Service instance to another
+# Migrate Dynamics 365 Guides content from one Common Data Service instance to another using the Content Migration Tool (public preview)
+
+The Content Migration Tool (Public Preview) for Dynamics 365 Guides is a [PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) script that copies content from one Common Data Service instance to another. You can migrate all the content in an instance or just specific types of content (for example, 3D objects, images, and videos). After migrating, the content will exist in both instances. The content in the source instance is not changed in any way.
+
+The tool connects to two Common Data Service instances at once. It reads the content in the source instance and writes it to the destination instance. The instances can be part of the same tenant or can be in different tenants. 
+
+> [!NOTE]
+> By using the Content Migration Tool (Public Preview) for Dynamics 365 Guides, you acknowledge and accept all the limitations of using a preview tool, including that the terms and commitments for Dynamics 365 Guides and other Microsoft commercial services and products do not apply to the Migration Tool. You also assume all risks associated with migrating your data between Dynamics 365 tenants, including but not limited to risks of different security, compliance, and privacy commitments, and damage to or loss of data, and unavailability or interruption of the tool.
+
+The tool supports the following types of migrations. 
+
+|Type of migration|What's migrated?|
+|------------------------------------------------------|------------------------------------------------------------------|
+|All content|	Everything stored in the instance that’s active (excludes telemetry events associated with a guide).|
+|Guides and associated content|	Active guides and any 3D objects, images, or videos related to those guides. Inactive content associated with a guide is also migrated. You can choose to migrate all existing guides at once or select specific guides. |
+|All 3D objects, images, and videos|	All active 3D objects, images, and videos stored in the instance.|
+|Only 3D objects	|Active 3D objects only. You can choose to migrate all existing 3D objects at once, migrate all 3D objects that belong to a 3D object collection, or select specific 3D objects. |
+|Only images	Active images only. |You can choose to migrate all existing images at once or select specific images.|
+|Only videos	|Active videos only. You can choose to migrate all existing videos at once or select specific videos.|
+
+
+
+
 
