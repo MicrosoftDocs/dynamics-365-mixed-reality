@@ -108,7 +108,6 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     >[!NOTE]
     >Make sure to type the period at the beginning of the string.
-
  
 9. Press any key to continue. 
 
