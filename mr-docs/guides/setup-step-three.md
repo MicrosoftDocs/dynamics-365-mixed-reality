@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 3 of the setup process for Microsoft Dynamics 365 Guides. In this step, you download and install the PC and HoloLens apps.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 07/21/2020
 ms.service: crm-online
 ms.topic: article
 title: Download and install the Dynamics 365 Guides apps (PC and HoloLens)
@@ -35,7 +35,7 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
 
 2. On your computer, go to **Start** ![Start button](media/windows-button.png "Start button") \> **[!include[cc-microsoft](../includes/cc-microsoft.md)] Store** ![Store button](media/store-button.png "Store button"), and then search for "[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]."
 
-3. In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Install** to download and install the application.
+3. In [!include[cc-microsoft](../includes/cc-microsoft.md)] Store, select **Get** to download and install the application.
 
     > [!NOTE]
     > For information about how to open and sign in to the app, see [Install, open, and sign in to the PC app](install-sign-in-pc-app.md).
