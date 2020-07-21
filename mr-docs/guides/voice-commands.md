@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 You can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze. Voice commands save you time and keep you in the flow of your work since you don't need to gaze at buttons to take actions.
 
-Most voice commands are contextual. They only work when the appropriate screen is open, which increases accuracy. 
+Most voice commands are also contextual. They only work when the appropriate screen is open, which increases accuracy. 
 
 >[!NOTE]
 >Voice commands work best on HoloLens 2. You can use voice commands on HoloLens 1, but HoloLens 1 is not optimized for voice.  
