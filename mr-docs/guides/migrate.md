@@ -16,9 +16,9 @@ The tool supports the following types of migrations.
 |All content|	Everything stored in the instance that’s active (excludes telemetry events associated with a guide).|
 |Guides and associated content|	Active guides and any 3D objects, images, or videos related to those guides. Inactive content associated with a guide is also migrated. You can choose to migrate all existing guides at once or select specific guides. |
 |All 3D objects, images, and videos|	All active 3D objects, images, and videos stored in the instance.|
-|Only 3D objects	|Active 3D objects only. You can choose to migrate all existing 3D objects at once, migrate all 3D objects that belong to a 3D object collection, or select specific 3D objects. |
-|Only images	Active images only. |You can choose to migrate all existing images at once or select specific images.|
-|Only videos	|Active videos only. You can choose to migrate all existing videos at once or select specific videos.|
+|Only 3D objects|Active 3D objects only. You can choose to migrate all existing 3D objects at once, migrate all 3D objects that belong to a 3D object collection, or select specific 3D objects. |
+|Only images|Active images only. You can choose to migrate all existing images at once or select specific images.|
+|Only videos|Active videos only. You can choose to migrate all existing videos at once or select specific videos.|
 
 
 
