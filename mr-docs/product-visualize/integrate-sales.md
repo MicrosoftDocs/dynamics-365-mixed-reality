@@ -11,7 +11,9 @@ manager: shujoshi
 
 # Integrate Dynamics 365 Sales with Dynamics 365 Product Visualize Hub
 
-New entities are introduced in Product Visualize Hub to provide your business with the flexibility it needs to use Product Visualize in a variety of scenarios. For the existing Product Visualize users or anyone new to Dynamics 365 Sales, we recommend connecting the Product Visualize entities to the existing Opportunity and Product entities you already use. This will let you quickly transition to the new Product Visualize workflow without significantly changing how your salespeople work. This topic will guide you through the steps to setup Product Visualize for a standard Dynamics 365 Sales scenario and assumes you already have Dynamics 365 Sales enabled. The same steps could be used to customize any existing Dynamics 365 entities, or even your own custom entities. For this example, we will add the Mixed Reality Session entity to the main form of the Account entity.
+New entities are introduced in Product Visualize Hub to provide your business with the flexibility it needs to use Product Visualize in a variety of scenarios. For the existing Product Visualize users or anyone new to Dynamics 365 Sales, we recommend connecting the Product Visualize entities to the existing Opportunity and Product entities you already use. This will let you quickly transition to the new Product Visualize workflow without significantly changing how your salespeople work. 
+
+This topic guides you through the steps to setup Product Visualize for a standard Dynamics 365 Sales scenario and assumes you already have Dynamics 365 Sales enabled. The same steps could be used to customize any existing Dynamics 365 entities, or even your own custom entities. For this example, we will add the Mixed Reality Session entity to the main form of the Opportunity entity.
 
 1. Open a web browser, and enter the URL to your Dynamics 365 instance in the following format: &lt;domain\_name&gt;.crm.dynamics.com. For example, `https://productvisualize.crm.dynamics.com`
 
@@ -29,9 +31,9 @@ New entities are introduced in Product Visualize Hub to provide your business wi
 
 5. Select **Customize the System**.
 
-6. Under **Components** in the solution explorer, expand **Entities**, then expand an entity to you want to connect to, and then select **Forms**. For example, **Entities** > **Account** > **Forms**.
+6. Under **Components** in the solution explorer, expand **Entities**, then expand an entity to you want to connect to, and then select **Forms**. For example, **Entities** > **Opportunity** > **Forms**.
 
-    ![Select Forms in the solution explorer](media/account-forms.png "Select Forms in the solution explorer")
+    ![Expand an entity and select Forms in the solution explorer](media/opportunity-forms.png "Expand an entity and select Forms in the solution explorer")
 
 7. Select the default form to open it.
 
@@ -55,9 +57,9 @@ New entities are introduced in Product Visualize Hub to provide your business wi
 
 12. Save and publish the changes.
 
-13. Open Sales Hub, and select **Accounts** in the left pane.
+13. Open Sales Hub, and select **Opportunities** in the left pane.
 
-14. Edit an existing account or create a new account.
+14. Edit an existing opportunity or create a new opportunity.
 
 15. In the **Mixed-reality session** field, search for the mixed-reality session to link and select it.
 
