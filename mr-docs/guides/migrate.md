@@ -46,41 +46,41 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 1. Go to [https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F) and register with an account of your choice. (or sign in if you're already registered).
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
  
 2. Once registered, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)** under **Upcoming and Active Public Preview Programs**. 
  
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
    
 3. Select the **Dynamics 365 Guides – Content Migration Tool (Public Preview)** under **Upcoming and Active Public Preview Programs**.
    
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
 4. Select **Join now**.
  
-    SCREEN SHOT GOES HERE 
+    ![XXX](media/XXX.PNG "XXX")
     
     >[!NOTE]
     >The request to join the Dynamics 365 Guides – Content Migration Tool (Public Preview) program must be approved by Microsoft. If the request hasn’t been approved within 24 hours of submitting it, reach out via [https://community.dynamics.com/365/guides](https://community.dynamics.com/365/guides).
 
 5. Select **View Program Downloads**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
 6. Download the **ContentMigrationTool_D365Guides_v400.0.1.0.zip** folder. 
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
 ## Run the script
 
 1. Save the **ContentMigrationTool_D365Guides_400.0.1.0.zip** folder in a location of your choice. 
 2. Select the zip folder, open the **Properties** list, and then select **Properties**.  
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
 3. In the **Properties** panel, on the **General** tab, select the **Unblock** check box, and then select **Apply**. 
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
 4. Extract the contents of the zipped folder by doing the following:
 
@@ -88,7 +88,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     
     b. Select **Extract**, and then select **Extract all**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
 5. Go to the File Explorer location where you extracted the contents of the zipped folder. 
  
@@ -96,13 +96,13 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     a. Select **File** > **Open Windows PowerShell** > **Open Windows PowerShell as administrator**.
 
-     SCREEN SHOT GOES HERE
+     ![XXX](media/XXX.PNG "XXX")
 
     b. In the **User Account Control** dialog box, select **Yes** to allow PowerShell to make changes to your device.
  
 7. Type **Set-ExecutionPolicy RemoteSigned**, and then press **Y** to accept the change in execution policy.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
 8. Type **.\ContentMigrationTool_Preview_Dynamics365Guides.ps1**, and then press Enter. 
 
@@ -111,7 +111,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
  
 9. Press any key to continue. 
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
 10.	In the **PowerShell Interactive Login** dialog box, connect to the source instance by doing the following: 
 
@@ -127,14 +127,14 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     
     f. Select **Login**.
 
-      SCREEN SHOT GOES HERE
+      ![XXX](media/XXX.PNG "XXX")
       
       >[!NOTE]
       >-If you don’t select an organization to connect to, the tool connects to the last one that was successful for both source and destination.<br><br>- If there’s only one instance in the tenant, PowerShell automatically connects to the default instance and you can skip to Step 11.
  
     g. In the pop-up screen, select the source instance (organization) to connect to. 
 
-       SCREEN SHOT GOES HERE
+       ![XXX](media/XXX.PNG "XXX")
 
     h. Select **Login**.
 
@@ -152,26 +152,26 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     
     f. Select **Login**.
 
-       SCREEN SHOT GOES HERE 
+       ![XXX](media/XXX.PNG "XXX")
 
     g. In the pop-up screen, select the destination instance (organization) to connect to. 
 
-       SCREEN SHOT GOES HERE
+       ![XXX](media/XXX.PNG "XXX")
 
     h. Select **Login**. 
 
 12.	In the **Main Menu** screen, select an option by typing the number that corresponds to the item, and then press Enter.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
     >[!NOTE]
     >In numbered lists where you can select more than one option, like the **Select Guides to Migrate** screen, separate selections with a comma, and then press Enter.
  
-    SCREEN SHOG GOES HERE 
+    ![XXX](media/XXX.PNG "XXX")
 
 13.	When asked to confirm your choice, type **Y**, and then press Enter. To cancel an action, type **N**, and then press Enter.
  
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
 
 
 
