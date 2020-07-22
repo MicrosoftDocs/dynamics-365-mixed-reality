@@ -57,7 +57,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![Register button](media/migration-register.PNG "Register button")
  
-2. Once registered, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)** under **Upcoming and Active Public Preview Programs**. 
+2. After you've registered, under **Upcoming and Active Public Preview Programs**, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)**. 
  
     ![Search box on Welcome Insider page](media/migration-search.PNG "Search box on Welcome Insider page")
    
