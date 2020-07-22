@@ -160,6 +160,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     g. In the pop-up screen, select the destination instance (organization) to connect to. 
 
        ![Destination instance and Login button selected](media/migration-destination-instance.PNG "Destination instance and Login button selected")
+       
 
     h. Select **Login**. 
 
