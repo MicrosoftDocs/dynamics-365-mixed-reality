@@ -155,7 +155,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     
      f. Select **Login**.
 
-       ![PowerShell Interative Login screen with options filled in](media/migration-powershell-login-2.PNG "PowerShell Interative Login screen with options filled in")
+        ![PowerShell Interative Login screen with options filled in](media/migration-powershell-login-2.PNG "PowerShell Interative Login screen with options filled in")
 
      g. In the pop-up screen, select the destination instance (organization) to connect to. 
 
