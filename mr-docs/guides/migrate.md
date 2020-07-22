@@ -66,7 +66,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     ![Join now button](media/migration-join.PNG "Join now button")
     
     >[!NOTE]
-    >The request to join the Dynamics 365 Guides – Content Migration Tool (Public Preview) program must be approved by Microsoft. If the request hasn’t been approved within 24 hours of submitting it, reach out via [https://community.dynamics.com/365/guides](https://community.dynamics.com/365/guides).
+    >The request to join the Dynamics 365 Guides – Content Migration Tool (Public Preview) program must be approved by Microsoft. If the request hasn’t been approved within 24 hours, contact the [Dynamics 365 Guides team](https://community.dynamics.com/365/guides).
 
 4. Select **View Program Downloads**.
 
