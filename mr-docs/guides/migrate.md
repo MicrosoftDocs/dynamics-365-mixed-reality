@@ -46,7 +46,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 1. Go to [https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F) and register with an account of your choice. (or sign in if you're already registered).
 
-    ![Register button (media/migration-register.PNG "Register button")
+    ![Register button](media/migration-register.PNG "Register button")
  
 2. Once registered, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)** under **Upcoming and Active Public Preview Programs**. 
  
