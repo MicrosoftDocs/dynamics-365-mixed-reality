@@ -78,7 +78,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 ## Run the script
 
-1. Select the zip folder, open the **Properties** list, and then select **Properties**.  
+1. Select the zip folder in Windows File Explorer, open the **Properties** list, and then select **Properties**.  
 
     ![Properties button in Extract screen](media/migration-extract-properties.PNG "Properties button in Extract screen")
 
