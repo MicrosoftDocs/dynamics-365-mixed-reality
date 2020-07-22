@@ -57,26 +57,22 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![Register button](media/migration-register.PNG "Register button")
  
-2. After you've registered, under **Upcoming and Active Public Preview Programs**, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)**. 
+2. After you've registered, under **Upcoming and Active Public Preview Programs**, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)**, and then select it. 
  
     ![Search box on Welcome Insider page](media/migration-search.PNG "Search box on Welcome Insider page")
    
-3. Select the **Dynamics 365 Guides – Content Migration Tool (Public Preview)** under **Upcoming and Active Public Preview Programs**.
-   
-    ![Selected Migration tool link](media/migration-active-program.PNG "Selected Migration tool link")
-
-4. Select **Join now**.
+3. Select **Join now**.
  
     ![Join now button](media/migration-join.PNG "Join now button")
     
     >[!NOTE]
     >The request to join the Dynamics 365 Guides – Content Migration Tool (Public Preview) program must be approved by Microsoft. If the request hasn’t been approved within 24 hours of submitting it, reach out via [https://community.dynamics.com/365/guides](https://community.dynamics.com/365/guides).
 
-5. Select **View Program Downloads**.
+4. Select **View Program Downloads**.
 
     ![View Program Downloads button](media/migration-program-downloads.PNG "View Program Downloads button")
 
-6. Download the **ContentMigrationTool_D365Guides_v400.0.1.0.zip** folder. 
+5. Download the **ContentMigrationTool_D365Guides_v400.0.1.0.zip** folder. 
 
     ![Highlighted zip folder to download](media/migration-download.PNG "Highlighted zip folder to download")
 
