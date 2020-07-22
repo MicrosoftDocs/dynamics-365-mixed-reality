@@ -53,7 +53,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 ## Register for the Dynamics Insider Program 
 
-1. Go to [https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F) and register with an account of your choice. (or sign in if you're already registered).
+1. Go to [https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F) and register with an account of your choice (or sign in if you're already registered).
 
     ![Register button](media/migration-register.PNG "Register button")
  
