@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Migrate Dynamics 365 Guides content from one Common Data Service instance to another using the Content Migration Tool (public preview)
 
-The Content Migration Tool (Public Preview) for Dynamics 365 Guides is a [PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) script that copies content from one Common Data Service instance to another. You can migrate all the content in an instance or just specific types of content (for example, 3D objects, images, and videos). After migrating, the content will exist in both instances. The content in the source instance is not changed in any way.
+The Content Migration Tool (Public Preview) for Microsoft Dynamics 365 Guides is a [PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) script that copies content from one Common Data Service instance to another. You can migrate all the content in an instance or just specific types of content (for example, 3D objects, images, and videos). After migrating, the content will exist in both instances. The content in the source instance is not changed in any way.
 
 The tool connects to two Common Data Service instances at once. It reads the content in the source instance and writes it to the destination instance. The instances can be part of the same tenant or can be in different tenants. 
 
