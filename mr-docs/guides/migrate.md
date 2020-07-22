@@ -72,22 +72,21 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![View Program Downloads button](media/migration-program-downloads.PNG "View Program Downloads button")
 
-5. Download the **ContentMigrationTool_D365Guides_v400.0.1.0.zip** folder. 
+5. Download the **ContentMigrationTool_D365Guides_v400.0.1.0.zip** folder and save it in a location of your choice. 
 
     ![Highlighted zip folder to download](media/migration-download.PNG "Highlighted zip folder to download")
 
 ## Run the script
 
-1. Save the **ContentMigrationTool_D365Guides_400.0.1.0.zip** folder in a location of your choice. 
-2. Select the zip folder, open the **Properties** list, and then select **Properties**.  
+1. Select the zip folder, open the **Properties** list, and then select **Properties**.  
 
     ![Properties button in Extract screen](media/migration-extract-properties.PNG "Properties button in Extract screen")
 
-3. In the **Properties** panel, on the **General** tab, select the **Unblock** check box, and then select **Apply**. 
+2. In the **Properties** panel, on the **General** tab, select the **Unblock** check box, and then select **Apply**. 
 
     ![Unblock and Apply buttons](media/migration-unblock.PNG "Unblock and Apply buttons")
 
-4. Extract the contents of the zipped folder by doing the following:
+3. Extract the contents of the zipped folder by doing the following:
 
     a. Select the zipped folder in File Explorer. 
     
@@ -95,9 +94,9 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![Extract all button](media/migration-extract-all.PNG "Extract all button")
 
-5. Go to the File Explorer location where you extracted the contents of the zipped folder. 
+4. Go to the File Explorer location where you extracted the contents of the zipped folder. 
  
-6. Run PowerShell [as an administrator](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831491(v=ws.11)#run-a-program-as-administrator-or-as-another-user) by doing the following:  
+5. Run PowerShell [as an administrator](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831491(v=ws.11)#run-a-program-as-administrator-or-as-another-user) by doing the following:  
 
     a. Select **File** > **Open Windows PowerShell** > **Open Windows PowerShell as administrator**.
 
@@ -105,18 +104,18 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     b. In the **User Account Control** dialog box, select **Yes** to allow PowerShell to make changes to your device.
  
-7. Type **Set-ExecutionPolicy RemoteSigned**, and then press **Y** to accept the change in execution policy.
+6. Type **Set-ExecutionPolicy RemoteSigned**, and then press **Y** to accept the change in execution policy.
 
     ![Execution Policy Change screen](media/migration-set-execution-policy.PNG "Execution Policy Change screen")
 
-8. Type **.\ContentMigrationTool_Preview_Dynamics365Guides.ps1**, and then press Enter. 
+7. Type **.\ContentMigrationTool_Preview_Dynamics365Guides.ps1**, and then press Enter. 
 
     >[!NOTE]
     >Make sure to type the period at the beginning of the string.
  
-9. Press any key to continue. 
+8. Press any key to continue. 
 
-10.	In the **PowerShell Interactive Login** dialog box, connect to the source instance by doing the following: 
+9.	In the **PowerShell Interactive Login** dialog box, connect to the source instance by doing the following: 
 
     a. Next to **Deployment Type**, select the **Office 365** option.
     
@@ -141,7 +140,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     h. Select **Login**.
 
-11.	In the **PowerShell Interactive Login** dialog box, connect to the destination instance by doing the following: 
+10.	In the **PowerShell Interactive Login** dialog box, connect to the destination instance by doing the following: 
 
     a. Next to **Deployment Type**, select the **Office 365** option.
     
@@ -163,7 +162,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     h. Select **Login**. 
 
-12.	In the **Main Menu** screen, select an option by typing the number that corresponds to the item, and then press Enter.
+11.	In the **Main Menu** screen, select an option by typing the number that corresponds to the item, and then press Enter.
 
     ![Main Menu showing options](media/migration-main-menu.PNG "Main Menu showing options")
 
@@ -172,7 +171,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
  
     ![Example of numbered list](media/migration-numbered-list.PNG "Example of numbered list")
 
-13.	When asked to confirm your choice, type **Y**, and then press Enter. To cancel an action, type **N**, and then press Enter.
+12.	When asked to confirm your choice, type **Y**, and then press Enter. To cancel an action, type **N**, and then press Enter.
  
     ![Example of screen where you can confirm your choice](media/migration-choice-confirmation.PNG "Example of screen where you can confirm your choice")
 
