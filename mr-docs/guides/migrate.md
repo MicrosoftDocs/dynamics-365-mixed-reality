@@ -143,26 +143,26 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 10.	In the **PowerShell Interactive Login** dialog box, connect to the destination instance by doing the following: 
 
-    a. Next to **Deployment Type**, select the **Office 365** option.
+     a. Next to **Deployment Type**, select the **Office 365** option.
     
-    b. Select the **Display list of available organizations** check box.
+     b. Select the **Display list of available organizations** check box.
     
-    c. Select the **Show Advanced** check box.
+     c. Select the **Show Advanced** check box.
     
-    d. Select the **Online Region** for your instance. If you don’t know the region, select **Don’t know**.
+     d. Select the **Online Region** for your instance. If you don’t know the region, select **Don’t know**.
     
-    e. Type the **User Name** and **Password** for the Common Data Service instance you want to connect to.
+     e. Type the **User Name** and **Password** for the Common Data Service instance you want to connect to.
     
-    f. Select **Login**.
+     f. Select **Login**.
 
        ![PowerShell Interative Login screen with options filled in](media/migration-powershell-login-2.PNG "PowerShell Interative Login screen with options filled in")
 
-    g. In the pop-up screen, select the destination instance (organization) to connect to. 
+     g. In the pop-up screen, select the destination instance (organization) to connect to. 
 
        ![Destination instance and Login button selected](media/migration-destination-instance.PNG "Destination instance and Login button selected")
        
 
-    h. Select **Login**. 
+     h. Select **Login**. 
 
 11.	In the **Main Menu** screen, select an option by typing the number that corresponds to the item, and then press Enter.
 
