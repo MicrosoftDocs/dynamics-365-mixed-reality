@@ -22,7 +22,7 @@ Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] ap
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
-| <a href="XXX" target="_blank">Use voice commands in Dynamics 365 Guides</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Use voice commands in Dynamics 365 Guides</a> | No |
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
