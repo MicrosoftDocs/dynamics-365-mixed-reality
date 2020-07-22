@@ -117,29 +117,28 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 9. In the **PowerShell Interactive Login** dialog box, connect to the source instance by doing the following: 
 
-     a. Next to **Deployment Type**, select the **Office 365** option.
+    a. Next to **Deployment Type**, select the **Office 365** option.
     
-     b. Select the **Display list of available organizations** check box. 
+    b. Select the **Display list of available organizations** check box. 
     
-     c. Select the **Show Advanced** check box. 
+    c. Select the **Show Advanced** check box. 
     
-     d. Select the **Online Region** for your instance. If you don’t know the region, select **Don’t know**.
+    d. Select the **Online Region** for your instance. If you don’t know the region, select **Don’t know**.
     
-     e. Type the **User Name** and **Password** for the Common Data Service instance you want to connect to. 
+    e. Type the **User Name** and **Password** for the Common Data Service instance you want to connect to. 
     
-     f. Select **Login**.
+    f. Select **Login**.
 
-      ![PowerShell Interactive Login screen with options filled in](media/migration-powershell-login-1.PNG "PowerShell Interactive Login screen with options filled in")
+     ![PowerShell Interactive Login screen with options filled in](media/migration-powershell-login-1.PNG "PowerShell Interactive Login screen with options filled in")
       
-       >[!NOTE]
-       >If you don’t select an organization to connect to, the tool connects to the last one that was successful for both source and destination. If there’s only one instance in the tenant, PowerShell automatically connects to the default instance and you can skip to Step 11. 
-       
+     >[!NOTE]
+     >If you don’t select an organization to connect to, the tool connects to the last one that was successful for both source and destination. If there’s only one instance in the tenant, PowerShell automatically connects to the default instance and you can skip to Step 11.        
  
-     g. In the pop-up screen, select the source instance (organization) to connect to.   
+    g. In the pop-up screen, select the source instance (organization) to connect to.   
      
-     ![Source instance and Login button selected](media/migration-source-instance.PNG "Source instance and Login button selected")
+      ![Source instance and Login button selected](media/migration-source-instance.PNG "Source instance and Login button selected")
 
-     h. Select **Login**.
+    h. Select **Login**.
 
 10.	In the **PowerShell Interactive Login** dialog box, connect to the destination instance by doing the following: 
 
