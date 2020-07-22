@@ -132,7 +132,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
  
     g. In the pop-up screen, select the source instance (organization) to connect to. 
 
-       ![XXX](media/XXX.PNG "XXX")
+       ![Source instance and Login button selected](media/migration-source-instance.PNG "Source instance and Login button selected")
 
     h. Select **Login**.
 
@@ -150,26 +150,26 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     
     f. Select **Login**.
 
-       ![XXX](media/XXX.PNG "XXX")
+       ![PowerShell Interative Login screen with options filled in](media/migration-powershell-login-2.PNG "PowerShell Interative Login screen with options filled in")
 
     g. In the pop-up screen, select the destination instance (organization) to connect to. 
 
-       ![XXX](media/XXX.PNG "XXX")
+       ![Destination instance and Login button selected](media/migration-destination-instance.PNG "Destination instance and Login button selected")
 
     h. Select **Login**. 
 
 12.	In the **Main Menu** screen, select an option by typing the number that corresponds to the item, and then press Enter.
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Main Menu showing options](media/migration-main-menu.PNG "Main Menu showing options")
 
     >[!NOTE]
     >In numbered lists where you can select more than one option, like the **Select Guides to Migrate** screen, separate selections with a comma, and then press Enter.
  
-    ![XXX](media/XXX.PNG "XXX")
+    ![Example of numbered list](media/migration-numbered-list.PNG "Example of numbered list")
 
 13.	When asked to confirm your choice, type **Y**, and then press Enter. To cancel an action, type **N**, and then press Enter.
  
-    ![XXX](media/XXX.PNG "XXX")
+    ![Example of screen where you can confirm your choice](media/migration-choice-confirmation.PNG "Example of screen where you can confirm your choice")
 
 
 
