@@ -46,41 +46,41 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 1. Go to [https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F) and register with an account of your choice. (or sign in if you're already registered).
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Register button (media/migration-register.PNG "Register button")
  
 2. Once registered, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)** under **Upcoming and Active Public Preview Programs**. 
  
-    ![XXX](media/XXX.PNG "XXX")
+    ![Search box on Welcome Insider page](media/migration-search.PNG "Search box on Welcome Insider page")
    
 3. Select the **Dynamics 365 Guides – Content Migration Tool (Public Preview)** under **Upcoming and Active Public Preview Programs**.
    
-    ![XXX](media/XXX.PNG "XXX")
+    ![Selected Migration tool link](media/migration-active-program.PNG "Selected Migration tool link")
 
 4. Select **Join now**.
  
-    ![XXX](media/XXX.PNG "XXX")
+    ![Join now button](media/migration-join.PNG "Join now button")
     
     >[!NOTE]
     >The request to join the Dynamics 365 Guides – Content Migration Tool (Public Preview) program must be approved by Microsoft. If the request hasn’t been approved within 24 hours of submitting it, reach out via [https://community.dynamics.com/365/guides](https://community.dynamics.com/365/guides).
 
 5. Select **View Program Downloads**.
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![View Program Downloads button](media/migration-program-downloads.PNG "View Program Downloads button")
 
 6. Download the **ContentMigrationTool_D365Guides_v400.0.1.0.zip** folder. 
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Highlighted zip folder to download](media/migration-download.PNG "Highlighted zip folder to download")
 
 ## Run the script
 
 1. Save the **ContentMigrationTool_D365Guides_400.0.1.0.zip** folder in a location of your choice. 
 2. Select the zip folder, open the **Properties** list, and then select **Properties**.  
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Properties button in Extract screen](media/migration-extract-properties.PNG "Properties button in Extract screen")
 
 3. In the **Properties** panel, on the **General** tab, select the **Unblock** check box, and then select **Apply**. 
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Unblock and Apply buttons](media/migration-unblock.PNG "Unblock and Apply buttons")
 
 4. Extract the contents of the zipped folder by doing the following:
 
@@ -88,7 +88,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     
     b. Select **Extract**, and then select **Extract all**.
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Extract all button](media/migration-extract-all.PNG "Extract all button")
 
 5. Go to the File Explorer location where you extracted the contents of the zipped folder. 
  
@@ -96,13 +96,13 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     a. Select **File** > **Open Windows PowerShell** > **Open Windows PowerShell as administrator**.
 
-     ![XXX](media/XXX.PNG "XXX")
+     ![Open Windows PowerShell as administrator button](media/migration-powershell-admin.PNG "Open Windows PowerShell as administrator button")
 
     b. In the **User Account Control** dialog box, select **Yes** to allow PowerShell to make changes to your device.
  
 7. Type **Set-ExecutionPolicy RemoteSigned**, and then press **Y** to accept the change in execution policy.
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Execution Policy Change screen](media/migration-set-execution-policy.PNG "Execution Policy Change screen")
 
 8. Type **.\ContentMigrationTool_Preview_Dynamics365Guides.ps1**, and then press Enter. 
 
@@ -110,8 +110,6 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     >Make sure to type the period at the beginning of the string.
  
 9. Press any key to continue. 
-
-    ![XXX](media/XXX.PNG "XXX")
 
 10.	In the **PowerShell Interactive Login** dialog box, connect to the source instance by doing the following: 
 
@@ -127,7 +125,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
     
     f. Select **Login**.
 
-      ![XXX](media/XXX.PNG "XXX")
+      ![PowerShell Interactive Login screen with options filled in](media/migration-powershell-login-1.PNG "PowerShell Interactive Login screen with options filled in")
       
       >[!NOTE]
       >-If you don’t select an organization to connect to, the tool connects to the last one that was successful for both source and destination.<br><br>- If there’s only one instance in the tenant, PowerShell automatically connects to the default instance and you can skip to Step 11.
