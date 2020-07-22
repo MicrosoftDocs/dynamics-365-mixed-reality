@@ -115,7 +115,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
  
 8. Press any key to continue. 
 
-9.	In the **PowerShell Interactive Login** dialog box, connect to the source instance by doing the following: 
+9. In the **PowerShell Interactive Login** dialog box, connect to the source instance by doing the following: 
 
      a. Next to **Deployment Type**, select the **Office 365** option.
     
@@ -131,13 +131,13 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
       ![PowerShell Interactive Login screen with options filled in](media/migration-powershell-login-1.PNG "PowerShell Interactive Login screen with options filled in")
       
-       >> [!NOTE]
-       >> If you don’t select an organization to connect to, the tool connects to the last one that was successful for both source and destination. If there’s only one instance in the tenant, PowerShell automatically connects to the default instance and you can skip to Step 11. 
+       >[!NOTE]
+       >If you don’t select an organization to connect to, the tool connects to the last one that was successful for both source and destination. If there’s only one instance in the tenant, PowerShell automatically connects to the default instance and you can skip to Step 11. 
        
  
      g. In the pop-up screen, select the source instance (organization) to connect to.   
      
-       ![Source instance and Login button selected](media/migration-source-instance.PNG "Source instance and Login button selected")
+     ![Source instance and Login button selected](media/migration-source-instance.PNG "Source instance and Login button selected")
 
      h. Select **Login**.
 
