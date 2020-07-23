@@ -27,8 +27,8 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 - **If you haven't purchased a license yet (you have a trial subscription), [set up a default environment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup-step-two#set-up-a-default-environment-for-trial-environments-only).**
 
-    >[!IMPORTANT]
-    >The Dynamics 365 Guides solution can also be installed on a trial environment. **We don't recommend using a trial environment because the environment is automatically disabled with all your content after the 30-day trial period expires**. You have a 7-day grace period to upgrade to a production environment or migrate your content to another environment.
+    > [!IMPORTANT]
+    > The Dynamics 365 Guides solution can also be installed on a trial environment. **We don't recommend that you use a trial environment, because that environment, together with all your content, is automatically disabled after the 30-day trial period expires.** You have a seven-day grace period to upgrade to a production environment or migrate your content to another environment.
 
 ## Set up a production environment (for purchased licenses only)
 
@@ -78,8 +78,8 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 3. Select the default environment (for example, Contoso).
 
-   > [!IMPORTANT]
-   > The Dynamics 365 Guides solution can also be installed on a trial environment. **We don't recommend using a trial environment because the environment is automatically disabled with all your content after the 30-day trial period expires**. You have a 7-day grace period to upgrade to a production environment or migrate your content to another environment.
+    > [!IMPORTANT]
+    > The Dynamics 365 Guides solution can also be installed on a trial environment. **We don't recommend that you use a trial environment, because that environment, together with all your content, is automatically disabled after the 30-day trial period expires.** You have a seven-day grace period to upgrade to a production environment or migrate your content to another environment.
 
 4. Select **Add database**.
 
@@ -117,7 +117,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the left pane, select **Resources** \> **Dynamics 365 apps**, select **Dynamics 365 Guides** in the list, and then select **Install**. 
 
     > [!NOTE]
-    > It may take a few minutes for **Dynamics 365 Guides** to show up in the list.
+    > It might take a few minutes for **Dynamics 365 Guides** to appear in the list.
 
     ![Select Dynamics 365 Guides](media/select-dynamics-365-guides.PNG "Dynamics 365 Guides")
 
