@@ -72,7 +72,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![View Program Downloads button](media/migration-program-downloads.PNG "View Program Downloads button")
 
-5. Download the **ContentMigrationTool_D365Guides_v400.0.1.0.zip** folder and save it in a location of your choice. 
+5. Download the **ContentMigrationTool_D365Guides_v400.0.1.0.zip** folder by selecting the link under **File Name**. The file will automatically be saved in your **Downloads** folder.  
 
     ![Highlighted zip folder to download](media/migration-download.PNG "Highlighted zip folder to download")
 
@@ -110,8 +110,8 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 7. Type **.\ContentMigrationTool_Preview_Dynamics365Guides.ps1**, and then press Enter. 
 
->[!NOTE]
->Make sure to type the period at the beginning of the string.
+   >[!NOTE]
+   >Make sure to type the period at the beginning of the string.
  
 8. Press any key to continue. 
 
