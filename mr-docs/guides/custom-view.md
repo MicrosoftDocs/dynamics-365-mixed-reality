@@ -99,7 +99,7 @@ In this step, you'll add a view to the entity that you created in Step 1. The vi
 
 Rules for the view include the following:
 
-- It must have at least two columns. Additional columns are optional. See the example below that shows a third field. 
+- It must have at least two columns. Additional columns are optional. See the example below that shows a third column. 
 
 - The first column must be a **Date and Time** field (have the **Date and Time** data type) and the field can't be empty.
 
