@@ -142,7 +142,7 @@ The following illustration shows an example tab on HoloLens called **Custom Tab*
 
     ![Add column](media/custom-view-add-columns.PNG "Add column")
 
-6. Select **Add column** again, and then select **Guide**. Your screen should look like this after adding the two columns.
+6. Select **Add column** again, and then select **Guide**.  
 
     ![Columns added](media/custom-view-columns-added.PNG "Columns added")
 
