@@ -108,7 +108,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![Execution Policy Change screen](media/migration-set-execution-policy.PNG "Execution Policy Change screen")
 
-7. Type **.\ContentMigrationTool_Preview_Dynamics365Guides.ps1**, and then press Enter. 
+7. Type **.\ContentMigrationTool_PublicPreview_Dynamics365Guides.ps1**, and then press Enter. 
 
    >[!NOTE]
    >Make sure to type the period at the beginning of the string.
