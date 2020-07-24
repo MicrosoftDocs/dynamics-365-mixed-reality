@@ -88,21 +88,21 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 3. Extract the contents of the zipped folder by doing the following:
 
->a. Select the zipped folder in File Explorer. 
+    a. Select the zipped folder in File Explorer. 
     
->b. Select **Extract**, and then select **Extract all**.
+    b. Select **Extract**, and then select **Extract all**.
 
->>![Extract all button](media/migration-extract-all.PNG "Extract all button")
+      ![Extract all button](media/migration-extract-all.PNG "Extract all button")
 
 4. Go to the File Explorer location where you extracted the contents of the zipped folder. 
  
 5. Run PowerShell [as an administrator](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831491(v=ws.11)#run-a-program-as-administrator-or-as-another-user) by doing the following:  
 
->a. Select **File** > **Open Windows PowerShell** > **Open Windows PowerShell as administrator**.
+    a. Select **File** > **Open Windows PowerShell** > **Open Windows PowerShell as administrator**.
 
->>![Open Windows PowerShell as administrator button](media/migration-powershell-admin.PNG "Open Windows PowerShell as administrator button")
+      ![Open Windows PowerShell as administrator button](media/migration-powershell-admin.PNG "Open Windows PowerShell as administrator button")
 
->b. In the **User Account Control** dialog box, select **Yes** to allow PowerShell to make changes to your device.
+    b. In the **User Account Control** dialog box, select **Yes** to allow PowerShell to make changes to your device.
  
 6. Type **Set-ExecutionPolicy RemoteSigned**, and then press **Y** to accept the change in execution policy.
 
@@ -117,51 +117,51 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 9. In the **PowerShell Interactive Login** dialog box, connect to the source instance by doing the following: 
 
->a. Next to **Deployment Type**, select the **Office 365** option.
+    a. Next to **Deployment Type**, select the **Office 365** option.
     
->b. Select the **Display list of available organizations** check box. 
+    b. Select the **Display list of available organizations** check box. 
     
->c. Select the **Show Advanced** check box. 
+    c. Select the **Show Advanced** check box. 
     
->d. Select the **Online Region** for your instance. If you don’t know the region, select **Don’t know**.
+    d. Select the **Online Region** for your instance. If you don’t know the region, select **Don’t know**.
     
->e. Type the **User Name** and **Password** for the Common Data Service instance you want to connect to. 
+    e. Type the **User Name** and **Password** for the Common Data Service instance you want to connect to. 
     
->f. Select **Login**.
+    f. Select **Login**.
 
->>![PowerShell Interactive Login screen with options filled in](media/migration-powershell-login-1.PNG "PowerShell Interactive Login screen with options filled in")
+      ![PowerShell Interactive Login screen with options filled in](media/migration-powershell-login-1.PNG "PowerShell Interactive Login screen with options filled in")
       
->>[!NOTE]
->>If you don’t select an organization to connect to, the tool connects to the last one that was successful for both source and destination. If there’s only one instance in the tenant, PowerShell automatically connects to the default instance and you can skip to Step 11.  
+      >[!NOTE]
+      >If you don’t select an organization to connect to, the tool connects to the last one that was successful for both source and destination. If there’s only one instance in the tenant, PowerShell automatically connects to the default instance and you can skip to Step 11.  
 
  
->g. In the pop-up screen, select the source instance (organization) to connect to.   
+    g. In the pop-up screen, select the source instance (organization) to connect to.   
      
->>![Source instance and Login button selected](media/migration-source-instance.PNG "Source instance and Login button selected")
+      ![Source instance and Login button selected](media/migration-source-instance.PNG "Source instance and Login button selected")
 
->h. Select **Login**.
+    h. Select **Login**.
 
 10.	In the **PowerShell Interactive Login** dialog box, connect to the destination instance by doing the following: 
 
->a. Next to **Deployment Type**, select the **Office 365** option.
+    a. Next to **Deployment Type**, select the **Office 365** option.
     
->b. Select the **Display list of available organizations** check box.
+    b. Select the **Display list of available organizations** check box.
     
->c. Select the **Show Advanced** check box.
+    c. Select the **Show Advanced** check box.
     
->d. Select the **Online Region** for your instance. If you don’t know the region, select **Don’t know**.
+    d. Select the **Online Region** for your instance. If you don’t know the region, select **Don’t know**.
     
->e. Type the **User Name** and **Password** for the Common Data Service instance you want to connect to.
+    e. Type the **User Name** and **Password** for the Common Data Service instance you want to connect to.
     
->f. Select **Login**.
+    f. Select **Login**.
 
->>![PowerShell Interative Login screen with options filled in](media/migration-powershell-login-2.PNG "PowerShell Interative Login screen with options filled in")        
+      ![PowerShell Interative Login screen with options filled in](media/migration-powershell-login-2.PNG "PowerShell Interative Login screen with options filled in")        
 
->g. In the pop-up screen, select the destination instance (organization) to connect to. 
+    g. In the pop-up screen, select the destination instance (organization) to connect to. 
 
->>![Destination instance and Login button selected](media/migration-destination-instance.PNG "Destination instance and Login button selected")       
+      ![Destination instance and Login button selected](media/migration-destination-instance.PNG "Destination instance and Login button selected")       
 
->h. Select **Login**. 
+    h. Select **Login**. 
 
 11.	In the **Main Menu** screen, select an option by typing the number that corresponds to the item, and then press Enter.
 
