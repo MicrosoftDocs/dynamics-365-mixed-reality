@@ -109,7 +109,7 @@ Rules for the view include the following:
 
 - Nonempty values are concatenated and displayed below the guide name.
 
-The following illustration shows an example tab on HoloLens called **Assigned Tasks** and where the values for each part of the tab come from. 
+The following illustration shows an example tab on HoloLens called **Custom Tab**. It also shows where the values for each part of the tab come from. 
 
    ![HoloLens tab sources](media/custom-view-hololens-tab-sources.PNG "HoloLens tab sources")
    
