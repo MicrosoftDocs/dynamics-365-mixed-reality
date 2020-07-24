@@ -135,7 +135,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
       >If you don’t select an organization to connect to, the tool connects to the last one that was successful for both source and destination. If there’s only one instance in the tenant, PowerShell automatically connects to the default instance and you can skip to Step 11.  
 
  
-    g. In the pop-up screen, select the source instance (organization) to connect to.   
+    g. In the pop-up screen, select the source instance (organization) to connect to.<br>   
      
       ![Source instance and Login button selected](media/migration-source-instance.PNG "Source instance and Login button selected")
 
