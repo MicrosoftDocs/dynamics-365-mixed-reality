@@ -55,7 +55,7 @@ Each of these steps is described in detail below.
 
     ![Create new entity](media/custom-view-new-entity.PNG "Create new entity")
 
-3. In the **New entity** pane on the right side of the screen, enter a display name (for example, **My assignments**). 
+3. In the **New entity** pane on the right side of the screen, enter a display name (for example, **Custom Tab**). 
 
     ![Display name](media/custom-view-entity-display-name.PNG "Display name")
     
