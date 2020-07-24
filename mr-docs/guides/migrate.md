@@ -2,7 +2,7 @@
 author: melissahelmund
 description: Learn how to migrate Dynamics 365 Guides content from one Common Data Service instance to another using the Dynamics 365 Guides Content Migration Tool (pubilc preview)
 ms.author: mehellmu
-ms.date: 07/22/2020
+ms.date: 07/28/2020
 ms.service: crm-online
 ms.topic: article
 title: Migrate Dynamics 365 Guides content from one Common Data Service instance to another using the Content Migration Tool (public preview)
