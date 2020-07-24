@@ -203,7 +203,7 @@ In this step, you'll add the list of guides that will appear on the HoloLens tab
 
     ![Add group](media/custom-view-add-group.PNG "Add group")
 
-5. Name the new group (for example, **My work**). The new group name will appear to the right of the other headings in the **Sitemap Designer** screen.
+5. Name the new group (for example, **Custom Tab**). The new group name will appear to the right of the other headings in the **Sitemap Designer** screen.
 
 6. Select the heading for the new group, select **Add**, and then select **Subarea**.
 
