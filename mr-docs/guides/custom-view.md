@@ -66,7 +66,7 @@ Each of these steps is described in detail below.
 
 5. With the new entity open, select **Add field.**
 
-    ![Add field](media/custom-view-add-field.PNG "Add field")
+    ![Add field](media/add-field.PNG "Add field")
 
 6. In the **Field properties** pane on the right side of the screen:
 
