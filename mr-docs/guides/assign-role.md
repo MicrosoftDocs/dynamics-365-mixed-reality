@@ -45,14 +45,14 @@ Before you can modify user roles, the following prerequisites must be in place:
 
     ![Users selected](media/users-setting.PNG "Users selected")
     
-5. Do one of the following:
+5. Follow one of these steps:
 
-    - If the users are already in the list, skip to step 6 to assign user roles.
+    - If the users are already in the list, skip ahead to step 6 to assign user roles.
     
-    - If you need to add one more more users, select **Add user** at the top of the screen, enter the account details in the **Add user** pane on the right side of the screen, and then select **Add**. See the **Troubleshooting** section of this article for more details.
+    - If you must add one or more users, select **Add user** at the top of the page, enter the account details in the **Add user** dialog box, and then select **Add**. For more information, see the "Troubleshooting" section later in this topic.
 
-      >[!NOTE]
-      >Adding a user this way triggers a synchronization so the user is added to the instance within a few minutes.  
+        > [!NOTE]
+        > When you add a user in this way, you trigger synchronization. Therefore, the user is added to the instance within a few minutes.  
     
 6. Select **Manage users in Dynamics 365** at the top of the page. 
 
@@ -72,7 +72,7 @@ Before you can modify user roles, the following prerequisites must be in place:
     
 ## Troubleshooting
 
-If users don't appear in the **Dynamics 365** > **Settings** > **Security** screen, in the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**, enter the account details in the **Add user** pane on the right side of the screen, and then select **Add**. This triggers a synchronization so the user is added to the instance within a few minutes.
+If users don't appear on the **Security** page (**Dynamics 365** \> **Settings** \> **Security**), in the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**. In the **Add user** dialog box, enter the account details, and then select **Add**. This operation triggers synchronization. Therefore, the user is added to the instance within a few minutes.
 
 ![Adding a user in Power Platform admin center](media/add-user-4.PNG "Adding a user in Power Platform admin center")
 
