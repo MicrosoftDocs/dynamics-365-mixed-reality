@@ -49,7 +49,7 @@ Before you can modify user roles, the following prerequisites must be in place:
 
     - If the users are already in the list, skip to step 6 to assign user roles.
     
-    - If you need to add one more more users, select **Add user** at the top of the screen, enter the account details in the **Add user** pane on the right side of the screen, and then select **Add**. See the Troubleshooting section of this article for more details.
+    - If you need to add one more more users, select **Add user** at the top of the screen, enter the account details in the **Add user** pane on the right side of the screen, and then select **Add**. See the **Troubleshooting** section of this article for more details.
 
       >[!NOTE]
       >Adding a user this way triggers a synchronization so the user is added to the instance right away.  
