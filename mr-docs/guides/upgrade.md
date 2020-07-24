@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to upgrade the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: mamaylya
-ms.date: 07/17/2020
+ms.date: 07/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Upgrade the Dynamics 365 Guides solution
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. 
 
-> [!NOTE]
+> [!IMPORTANT]
 > To upgrade the Guides solution. you must have a [System Administrator security group role](https://docs.microsoft.com/power-platform/admin/database-security) and an assigned Guides license. 
 
 When an update is required, the user will see a notification in the **What's new** panel. 
