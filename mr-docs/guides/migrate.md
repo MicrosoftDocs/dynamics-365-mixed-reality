@@ -137,11 +137,6 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
  
     g. In the pop-up screen, select the source instance (organization) to connect to.
     
-    
-    
-    
-    
-     
       ![Source instance and Login button selected](media/migration-source-instance.PNG "Source instance and Login button selected")
 
     h. Select **Login**.
