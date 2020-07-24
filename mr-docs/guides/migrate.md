@@ -56,6 +56,9 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 1. Go to [https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F](https://experience.dynamics.com/Account/Login/Register?returnUrl=%2Finsider%2F) and register with an account of your choice (or sign in if you're already registered).
 
     ![Register button](media/migration-register.PNG "Register button")
+    
+    >[!NOTE]
+    >The Dynamics Insider Program application may take up to a day to approve. If you still don't have access after 24 hours, post a message on [the Dynamics 365 Guides community forum](https://community.dynamics.com/365/guides).
  
 2. After you've registered, under **Upcoming and Active Public Preview Programs**, search for **Dynamics 365 Guides - Content Migration Tool (Public Preview)**, and then select it. 
  
@@ -63,10 +66,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
    
 3. Select **Join now**.
  
-    ![Join now button](media/migration-join.PNG "Join now button")
-    
-    >[!NOTE]
-    >The request to join the Dynamics 365 Guides – Content Migration Tool (Public Preview) program must be approved by Microsoft. If the request hasn’t been approved within 24 hours, contact the [Dynamics 365 Guides team](https://community.dynamics.com/365/guides).
+    ![Join now button](media/migration-join.PNG "Join now button")   
 
 4. Select **View Program Downloads**.
 
