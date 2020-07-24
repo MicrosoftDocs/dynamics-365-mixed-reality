@@ -26,7 +26,7 @@ To create a custom view, you need:
 
 - Dynamics 365 Guides PC and HoloLens app versions 104.1907.19001 or later 
 
-You also need to be an administrator for the Dynamics 365 Guides instance that you're working with. It's also useful to have a general understanding of [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro), the database that Dynamics 365 Guides is based on.
+You also need to be an administrator for the Dynamics 365 Guides instance that you're working with and it's useful to have a general understanding of [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro), the database that Dynamics 365 Guides is based on.
 
 ## Overview of creating a custom view
 
