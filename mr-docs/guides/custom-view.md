@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Add a tab on HoloLens that displays a custom list of guides for a specific set of users.
 ms.author: mamaylya
-ms.date: 05/29/2020
+ms.date: 08/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a custom list of guides for a specific set of Dynamics 365 Guides users
@@ -167,7 +167,7 @@ The purpose of the configuration record is to notify HoloLens which view to use.
 
 3. In the left pane, under **Configuration**, select **Guides View**, and then select **New**.
 
-    ![Guides View>New](media/configuration-guides-view.PNG "Guides View>New")
+    ![Guides View>New](media/custom-view-configuration-guides-view.PNG "Guides View>New")
 
 4. In the **New Guide View Configuration** screen, enter a name that will help you remember what this configuration record is for. This is not used for the HoloLens tab name. 
 
