@@ -2,14 +2,14 @@
 author: sophiasysun
 description: Answers to common questions about deploying Microsoft Dynamics 365 Remote Assist.
 ms.author: sopsun
-ms.date: 04/01/2020
+ms.date: 07/27/2020
 ms.service: crm-online
 ms.topic: article
 title: Frequently asked questions for deploying Dynamics 365 Remote Assist 
 ms.reviewer: krbjoran
 ---
 
-# Frequently asked questions for deploying Dynamics 365 Remote Assist 
+# Frequently asked questions for deploying Dynamics 365 Remote Assist
 
 Here are some answers to common questions about deploying Dynamics 365 Remote Assist on HoloLens, HoloLens 2, and mobile devices.
 
@@ -27,7 +27,7 @@ To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 
 
 ## Will any Teams license work when communicating with a Remote Assist user?
 
-Yes. Anyone that can log in and use the Teams application on a Windows 10 PC or mobile device can communicate with a Remote Assist user if their tenants are set up correctly. If the Teams user and Remote Assist user are not in the same tenant, learn how to [set up multi-tenant company deployments](multi-tenant-deployment.md), [enable vendors and contractors to use Remote Assist](vendor-use-ra.md), or [enable vendors and contractors to use Teams](vendor-use-teams.md). 
+Yes. Anyone that can sign in and use the Teams application on a Windows 10 PC or mobile device can communicate with a Remote Assist user if their tenants are set up correctly. If the Teams user and Remote Assist user are not in the same tenant, learn how to [set up multi-tenant company deployments](multi-tenant-deployment.md), [enable vendors and contractors to use Remote Assist](vendor-use-ra.md), or [enable vendors and contractors to use Teams](vendor-use-teams.md). 
 
 ## Can I assign a Remote Assist license to a user using [Azure AD B2B](https://docs.microsoft.com/azure/active-directory/b2b/what-is-b2b)?
 

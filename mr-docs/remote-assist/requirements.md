@@ -86,4 +86,4 @@ The following tasks serve as a checklist for other potential optimizations for R
 - [Using Remote Assist on HoloLens](overview-hololens.md)
 - [Set up and use Microsoft Teams with Dynamics 365 Remote Assist](teams-pc-all.md)
 - [How-to videos](videos.md)
-- [FAQ](faq.md)
+

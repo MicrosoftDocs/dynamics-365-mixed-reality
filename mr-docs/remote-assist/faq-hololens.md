@@ -130,7 +130,7 @@ For more information, visit our article on [displaying and saving files](display
 
 ## The HoloLens 2 mic captures the HoloLens wearer's voice well, but I want the mic to capture more of the environmental sound. 
 
-HoloLens 2 does not support Audio In for Bluetooth mics. To achieve this, you may consider purchasing a mic and attaching it to the HoloLens 2. Then, attach headphones to ensure that call partiicpatns can hear both the HoloLens 2 user's voice captured by the __ and the environmental sound captured by the mic. 
+HoloLens 2 does not support Audio In for Bluetooth mics. To achieve this, you may consider purchasing a mic and attaching it to the HoloLens 2. Then, attach headphones to ensure that call participants can hear both the HoloLens 2 user's voice captured by the __ and the environmental sound captured by the mic. 
 
 ## How do I file a support ticket?
 
