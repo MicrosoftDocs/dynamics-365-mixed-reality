@@ -2,7 +2,7 @@
 author: BryceHo
 description: Covers Guides Analytics--Power BI reports you can use in Dynamics 365 Guides to improve process efficiencies.
 ms.author: cynielse
-ms.date: 03/24/2020
+ms.date: 07/07/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides
@@ -45,9 +45,9 @@ to better understand performance and improvement over time.
 
 ## Open Guides Analytics 
 
-### Set up your reports for the first time 
+### Set up the latest version of the reports
 
-You can set up Guide Analytics for the first time through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
+You can set up latest Guide Analytics reports through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
 
 > [!NOTE]
 > Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). Talk to your admin if you don't have permission to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer. 
@@ -99,6 +99,9 @@ Once you have set up and saved the Guides Analytics Template on your computer, o
 ## Take a tour of reports 
 
 Both the Guides Analytics Template and Guides Analytics Demo files contain two reports: Guides Usage and Process Time-Tracking.
+
+> [!NOTE]
+> The report includes usage data created when a device is online and offline. The offline data appears as soon as a device is back online.
 
 ### Guides Usage report
 
@@ -206,10 +209,10 @@ Use the Process Time-Tracking report to drill into usage and step-level run-time
    with the most recent run on the top. You can also select the column headers to sort by **Run Time**. If you select 
    a single row in this table, all visuals and statistics are filtered to just that single run. 
    
-7.	Filter by Date or Step Time (minutes): 
+7.	Filter by Date, Step Time (minutes), or Role: 
 
-    There are situations in which you might want to filter the report to show just runs generated in a particular date range or runs 
-   that are within some step time range. For example: 
+    There are situations in which you might want to filter the report to show just runs generated in a particular date range, runs 
+   that are within some step time range, or for a particular role. For example: 
    
      - **Compare versions of a guide.** The date filter is particularly useful if you made a revision to your guide (for example, added 
    or removed a step) and you want to show data for a given version of the guide that can be identified based on the date the guide 
@@ -218,6 +221,8 @@ Use the Process Time-Tracking report to drill into usage and step-level run-time
      - **Filter outliers.** Unusually long step times can stretch the y-axis of the time-per-step line chart, which can make the 
    majority of data difficult to see. Use this slider to set the range of step times you want to visualize across the report so you 
    can ignore the outliers.  
+   
+     - **Filter on roles**. In most cases, you’ll want to filter guides by Operator role. You may want to filter by Author when you’d like to see data from sessions where an Author is previewing their guide and experiencing it as an operator would.
 
 ## Share the Guides Analytics reports 
 

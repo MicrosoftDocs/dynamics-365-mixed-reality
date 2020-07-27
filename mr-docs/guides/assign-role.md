@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Assign an Author or Operator role to users in Microsoft Dynamics 365 Guides to control whether users can edit and view guides (Author role) or just view guides (Operator role).
 ms.author: mamaylya
-ms.date: 06/18/2020
+ms.date: 07/24/2020
 ms.service: crm-online
 ms.topic: article
 title: Assign an Author or Operator role to a user to control whether a user can author a guide or just view a guide
@@ -45,21 +45,36 @@ Before you can modify user roles, the following prerequisites must be in place:
 
     ![Users selected](media/users-setting.PNG "Users selected")
     
-5. Select **Manage users in Dynamics 365** at the top of the page. 
+5. Follow one of these steps:
+
+    - If the users are already in the list, skip ahead to step 6 to assign user roles.
+    
+    - If you must add one or more users, select **Add user** at the top of the page, enter the account details in the **Add user** dialog box, and then select **Add**. For more information, see the "Troubleshooting" section later in this topic.
+
+        > [!NOTE]
+        > When you add a user in this way, you trigger synchronization. Therefore, the user is added to the instance within a few minutes.  
+    
+6. Select **Manage users in Dynamics 365** at the top of the page. 
 
    ![Manage Users in Dynamics 365 command](media/select-manage-users.png "Manage Users in Dynamics 365 command")
 
-6. Select one or more users, and then select **Manage Roles** at the top of the page.
+7. Select one or more users, and then select **Manage Roles** at the top of the page.
 
     ![Manage Roles button](media/select-manage-roles.PNG "Manage Roles button")
 
-7. In the **Manage User Roles** dialog box, make sure that the **Common Data Service User** check box is selected.
+8. In the **Manage User Roles** dialog box, make sure that the **Common Data Service User** check box is selected.
 
     ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
 
-8. Select the check box for the appropriate role for the selected users, and then select **OK**.
+9. Select the check box for the appropriate role for the selected users, and then select **OK**.
 
     ![Author and Operator check boxes](media/select-role.PNG "Author and Operator check boxes")
+    
+## Troubleshooting
+
+If users don't appear on the **Security** page (**Dynamics 365** \> **Settings** \> **Security**), in the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**. In the **Add user** dialog box, enter the account details, and then select **Add**. This operation triggers synchronization. Therefore, the user is added to the instance within a few minutes.
+
+![Adding a user in Power Platform admin center](media/add-user-4.PNG "Adding a user in Power Platform admin center")
 
 ## See also
 

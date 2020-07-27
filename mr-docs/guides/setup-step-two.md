@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Common Data Service environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 06/29/2020
+ms.date: 07/23/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -18,15 +18,17 @@ After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 
 ## Production environment or default environment?
 
-
 The type of environment that you create depends on whether you purchased a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license.
+
+> [!NOTE]
+> If you already have an environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), you can skip ahead to the [Change the maximum upload file size](#upload) procedure later in this topic.
 
 - **If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], [set up a production environment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup-step-two#set-up-a-production-environment-for-purchased-licenses-only).** A production environment provides you with backup and restore capabilities. 
 
 - **If you haven't purchased a license yet (you have a trial subscription), [set up a default environment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup-step-two#set-up-a-default-environment-for-trial-environments-only).**
 
-> [!NOTE]
-> If you already have an environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), you can skip ahead to the [Change the maximum upload file size](#upload) procedure later in this topic.
+    > [!IMPORTANT]
+    > The Dynamics 365 Guides solution can also be installed on a trial environment. **We don't recommend that you use a trial environment, because that environment, together with all your content, is automatically disabled after the 30-day trial period expires.** You have a seven-day grace period to upgrade to a production environment or migrate your content to another environment.
 
 ## Set up a production environment (for purchased licenses only)
 
@@ -66,7 +68,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 > [!NOTE]
 > If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment shown in the illustrations.
 
-## Set up a default environment (for trial environments only)
+## Set up a default environment (for trial subscriptions only)
 
 1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the admin user credentials.
 
@@ -75,6 +77,9 @@ The type of environment that you create depends on whether you purchased a [!inc
     ![Environments page](media/powerapps-environments.PNG "Environments page")
 
 3. Select the default environment (for example, Contoso).
+
+    > [!IMPORTANT]
+    > The Dynamics 365 Guides solution can also be installed on a trial environment. **We don't recommend that you use a trial environment, because that environment, together with all your content, is automatically disabled after the 30-day trial period expires.** You have a seven-day grace period to upgrade to a production environment or migrate your content to another environment.
 
 4. Select **Add database**.
 
@@ -97,7 +102,7 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
 
     ![Settings command](media/environment-settings.PNG "Settings command")
 
-2. On the **Setting** page, under **Email**, select **Email settings**.
+2. On the **Settings** page, under **Email**, select **Email settings**.
 
     ![Email settings link](media/email-settings.png "Email settings link")
 
@@ -110,6 +115,9 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
 ## Install and configure the solution<a name="configure"></a>
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the left pane, select **Resources** \> **Dynamics 365 apps**, select **Dynamics 365 Guides** in the list, and then select **Install**. 
+
+    > [!NOTE]
+    > It might take a few minutes for **Dynamics 365 Guides** to appear in the list.
 
     ![Select Dynamics 365 Guides](media/select-dynamics-365-guides.PNG "Dynamics 365 Guides")
 
@@ -174,7 +182,7 @@ If you have trouble installing and configuring the solution as described in the 
 
     > [!IMPORTANT]
     > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the **Guides Hub** tile. However, we recommend that you not make changes in the Guides Hub. Any changes that you make there can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
-
+    
 4. Select **Manage users in Dynamics 365**.
 
     ![Manage users in Dynamics 365 command](media/manage-user-roles-dynamics-365.PNG "Manage users in Dynamics 365 command")

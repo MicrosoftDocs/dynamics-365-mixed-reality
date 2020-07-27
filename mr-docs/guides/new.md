@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 05/26/2020
+ms.date: 07/24/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -14,7 +14,35 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!IMPORTANT]
-> An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution was released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.<br><br>All Dynamics 365 Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress will corrupt the guide.<br><br>All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps released on or after May 26 will be backward compatible only up to the April 28, 2020 version of the solution.<br><br>If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact. You will be able to continue using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with your existing feature set.<br><br>To schedule a solution update, work with your IT admin.<br><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a><br>- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
+> An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution was released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.
+>
+> You must have the **System Administrator** role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. If you author a guide while the solution upgrade is in progress, the guide will become corrupted.
+>
+> All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps that were released on or after May 26 will be backward-compatible only up to the April 28, 2020, version of the solution.
+>
+> If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact. You will be able to continue to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with your existing feature set.
+>
+> To schedule a solution update, work with your IT admin.
+>
+> - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
+> - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
+
+## July 7, 2020
+
+Version 402.2007.7001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.2.66 include the following new features.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/operators-use-previously-opened-guides-hololens-when-offline" target="_blank">Operators can use any previously opened guides on HoloLens when offline</a> | No |
+| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Filter Power BI dashboard data by Author or Operator role</a> | No |
+
+### Other updates
+
+This release also includes the following fixes:
+
+- **Embedded link in QR code.** There was an issue with the deeplink functionality where the embedded link in a QR code didn't link to the correct guide or step.
+
+- **Holograms not aligned in video recordings**. When recording video through mixed reality capture (MRC) on Hololens, holograms appeared offset in the recording. With this fix, holograms now appear in the proper position. 
 
 ## May 26, 2020
 
@@ -93,7 +121,7 @@ Version 301.1910.24001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|-------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-node-based-animations" target="_blank">Support for node-based annotations</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-node-based-animations" target="_blank">Support for node-based animations</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/turn-animations-or-off" target="_blank">Turn animations on or off</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2019wave2/mixed-reality/dynamics365-guides/support-stl-ply-file-formats-3d-models" target="_blank">Support for STL and PLY file formats for 3D models</a> | No |
 
