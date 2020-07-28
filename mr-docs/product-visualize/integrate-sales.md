@@ -89,7 +89,7 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 6. Select **Try new experience** on the notification bar.
 
-    ![Try new experience](media/advance-settings.png "Try new experience")
+    ![Try new experience](media/try-new-experience.png "Try new experience")
 
 7. In the left pane, expand **Data** and select **Entities**.
 
