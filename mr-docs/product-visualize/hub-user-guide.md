@@ -4,7 +4,7 @@ description: Guide for signing in to the Dynamics 365 Product Visualize Hub, cre
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 07/17/2020
+ms.date: 07/29/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

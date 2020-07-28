@@ -1,7 +1,7 @@
 ﻿---
 title: Sign in to Dynamics 365 Product Visualize Hub
 description: Instructions for signing in to Dynamics 365 Product Visualize Hub.
-ms.date: 07/17/2020
+ms.date: 07/29/2020
 ms.topic: article
 ms.service: dynamics-365-sales
 author: sbmjais

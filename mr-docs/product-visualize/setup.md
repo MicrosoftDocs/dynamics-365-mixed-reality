@@ -4,7 +4,7 @@ description: Instructions to set up a Dynamics 365 instance and install the Dyna
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 07/17/2020
+ms.date: 07/29/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:

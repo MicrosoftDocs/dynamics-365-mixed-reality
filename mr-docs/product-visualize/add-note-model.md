@@ -4,7 +4,7 @@ description: Instructions for adding and managing notes attached to a model in D
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 07/17/2020
+ms.date: 07/29/2020
 ms.service: dynamics-365-sales
 ms.topic: article
 ms-reviewer:
