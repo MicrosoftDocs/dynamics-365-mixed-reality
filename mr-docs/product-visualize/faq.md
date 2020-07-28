@@ -48,15 +48,16 @@ Dynamics 365 Product Visualize can connect to instances of Sales version 9.0 or 
 
 This message indicates that the Sales instance you selected doesn't meet the [minimum requirements](requirements.md) for using Dynamics 365 Product Visualize. If you have access to more than one Sales instance, make sure you selected the correct one.
 
-## How do I find my opportunities?
+## How do I find my mixed-reality sessions?
 
-Dynamics 365 Product Visualize helps you stay organized by focusing only on the opportunities that are important to you. From the Opportunity Selection view, there are three options for viewing your opportunities:
+Dynamics 365 Product Visualize helps you stay organized by focusing only on the mixed-reality sessions that are important to you. From the **My Active Mixed Reality Sessions** view, there are three options for viewing your mixed-reality sessions:
 
-- **My Open Opportunities**: Open opportunities where you're listed as the owner.
-- **My Connected Opportunities**: Open opportunities where you've been added to the sales team.
-- **My Followed Opportunities**: Open opportunities that have been marked as **Followed**.
+- **My Active Mixed Reality Sessions**: Active mixed-reality sessions where you're listed as the owner.
+- **My Inactive Mixed Reality Sessions**: Inactive mixed-reality sessions where you're listed as the owner.
+- **Inactive Mixed Reality Sessions**: All inactive mixed-reality sessions that have been marked as **Inactive** in Product Visualize Hub.
+- **Active Mixed Reality Sessions**: All active mixed-reality sessions in Product Visualize Hub.
 
-If an opportunity doesn't show up in the app, go to Dynamics 365 Sales Hub and ensure that at least one of these criteria is met.
+If a mixed-reality doesn't show up in the app, go to Product Visualize Hub and ensure that at least one of these criteria is met.
 
 ## Why doesn't my model load?
 
