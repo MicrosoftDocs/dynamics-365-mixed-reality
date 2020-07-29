@@ -48,15 +48,16 @@ Dynamics 365 Product Visualize can connect to instances of Sales version 9.0 or 
 
 This message indicates that the Sales instance you selected doesn't meet the [minimum requirements](requirements.md) for using Dynamics 365 Product Visualize. If you have access to more than one Sales instance, make sure you selected the correct one.
 
-## How do I find my opportunities?
+## How do I find my mixed-reality sessions?
 
-Dynamics 365 Product Visualize helps you stay organized by focusing only on the opportunities that are important to you. From the Opportunity Selection view, there are three options for viewing your opportunities:
+Dynamics 365 Product Visualize helps you stay organized by focusing only on the mixed-reality sessions that are important to you. From the **My Active Mixed Reality Sessions** view, there are three options for viewing your mixed-reality sessions:
 
-- **My Open Opportunities**: Open opportunities where you're listed as the owner.
-- **My Connected Opportunities**: Open opportunities where you've been added to the sales team.
-- **My Followed Opportunities**: Open opportunities that have been marked as **Followed**.
+- **My Active Mixed Reality Sessions**: Active mixed-reality sessions where you're listed as the owner.
+- **My Inactive Mixed Reality Sessions**: Inactive mixed-reality sessions where you're listed as the owner.
+- **Inactive Mixed Reality Sessions**: All inactive mixed-reality sessions that have been marked as **Inactive** in Product Visualize Hub.
+- **Active Mixed Reality Sessions**: All active mixed-reality sessions in Product Visualize Hub.
 
-If an opportunity doesn't show up in the app, go to Dynamics 365 Sales Hub and ensure that at least one of these criteria is met.
+If a mixed-reality doesn't show up in the app, go to Product Visualize Hub and ensure that at least one of these criteria is met.
 
 ## Why doesn't my model load?
 
@@ -74,7 +75,7 @@ Point the device down so that it's parallel to the surface you want. Hold it the
  
 ## What should I do if I lose tracking during a presentation? 
 
-Initially, you should try pointing the device down so it's parallel to the surface, and then slowly tilting it up. If that doesn't restore tracking, tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Opportunities**. Tap the opportunity that contains the product, and then tap the product that contains the model you were viewing. You'll then need to go through the placement process again by using the initial model in the product. After placing the initial model, tap **Models** on the right side of the screen to open the model menu. From the model menu, find the model you want, and then tap it to place it on the selected surface. 
+Initially, you should try pointing the device down so it's parallel to the surface, and then slowly tilting it up. If that doesn't restore tracking, tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Mixed Reality Sessions**. Tap the mixed-reality session that contains the product, and then tap the product that contains the model you were viewing. You'll then need to go through the placement process again by using the initial model in the product. After placing the initial model, tap **Models** on the right side of the screen to open the model menu. From the model menu, find the model you want, and then tap it to place it on the selected surface. 
  
 ## What surfaces and locations are best to track on? 
 
@@ -94,9 +95,9 @@ If the model you want is in the current product:
 1. Tap **Models** to open the model browser. 
 2. Scroll left or right to find the model you want (you can also use search if there are a large number of models in the browser). Tap the model to load it. 
  
-If the model you want is in another product or opportunity: 
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Opportunities**.
-2. Tap the opportunity. 
+If the model you want is in another product or mixed-reality session: 
+1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen, and then tap **Mixed Reality Sessions**.
+2. Tap the mixed-reality session. 
 3. Tap the product that includes the model you want.  
 4. Go through the placement process, and place the initial model. 
 5. Tap **Models** to open the model browser.
@@ -110,13 +111,13 @@ Go to the note you want to export. Tap the overflow menu ![Overflow menu](media/
 
 First, you must enable offline mode. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu") in the upper-left corner of the screen. Tap **Preview features**. Turn on the **Download products to view offline** toggle. 
 
-Go to your opportunities, and tap the one that has the product you want to save. Locate the icon that shows a cloud with a down-pointing arrow in the lower-right corner of each product. Tap the cloud icon in the product that has the model you want. This starts a download process that changes the icon to a square and a loading circle. After every model in the product has been downloaded, a blue circle with a check mark will appear. Those models are now available on your device. 
+Go to your mixed-reality session, and tap the one that has the product you want to save. Locate the icon that shows a cloud with a down-pointing arrow in the lower-right corner of each product. Tap the cloud icon in the product that has the model you want. This starts a download process that changes the icon to a square and a loading circle. After every model in the product has been downloaded, a blue circle with a check mark will appear. Those models are now available on your device. 
  
-If you lose network connectivity and want to view the downloaded files, restart the app, and then go to the opportunity and product as before. The models that were downloaded should appear and be accessible from the product.  
+If you lose network connectivity and want to view the downloaded files, restart the app, and then go to the mixed-reality session and product as before. The models that were downloaded should appear and be accessible from the product.  
  
 ## Will my notes be visible to other users? 
 
-Notes are currently saved to the opportunity they were made in. If someone with another account also has access to that opportunity, they can see the notes on that model. 
+Notes are currently saved to the mixed-reality session they were made in. If someone with another account also has access to that mixed-reality session, they can see the notes on that model. 
  
 ## Can I update product notes during a meeting? 
 
@@ -141,5 +142,5 @@ Be aware of the positioning of the hand that holds the device. A stray finger on
 
 [Requirements for setting up Dynamics 365 Product Visualize](requirements.md)<br>
 [Set up Dynamics 365 Product Visualize](setup.md)<br>
-[Administrator guide](admin-guide.md)<br>
-[User guide](user-guide.md)<br>
+[Product Visualize Hub user guide](hub-user-guide.md)<br>
+[Product Visualize iOS app user guide](user-guide.md)

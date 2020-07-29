@@ -14,18 +14,15 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-The home page of Dynamics 365 Product Visualize is the **My Open Opportunities** page. Each opportunity typically has multiple products within it, and each product can have multiple 3D models.
+The home page of Dynamics 365 Product Visualize is the **My Active Mixed Reality Sessions** page. Each session typically has multiple products within it, and each product can have multiple 3D models.
 
-![Opportunities, products, and 3D models](media/manipulating-3D-models.PNG "Opportunities, products, and 3D models")
-
-> [!NOTE]
-> If you're the administrator, you can learn how to add 3D models to Dynamics 365 Sales through the [Administrator guide](admin-guide.md).
+![Mixed-reality sessions, products, and 3D models](media/manipulating-3D-models.PNG "Mixed-reality sessions, products, and 3D models")
 
 ## View (place) a 3D model in mixed reality 
 
-1.	Open the opportunity you want to focus on.
+1.	Open the mixed-reality session you want to focus on.
 
-2.	Tap a product within that opportunity.
+2.	Tap a product within that mixed-reality session.
 
     ![Products screen showing multiple products](media/products-screen.PNG "Products screen showing multiple products")
 
@@ -116,6 +113,5 @@ After placing a model, you can easily switch to view a different model.
 [Show or hide a layer in 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
-[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)

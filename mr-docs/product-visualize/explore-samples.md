@@ -30,10 +30,10 @@ Dynamics 365 Product Visualize comes with sample 3D models you can try out even 
      > [!div class=mx-imgBorder]
      > ![Sample products menu item](media/sample-products-menu.png "Sample products menu item")
  
-3. On the **My Open Opportunities** screen, select the **Contoso, Ltd. Mfg Sale** opportunity. 
+3. On the **My Active Mixed Reality Sessions** screen, select the **Contoso, Ltd. Mfg Sale**. 
 
      > [!div class=mx-imgBorder]
-     > ![Sample opportunity](media/sample-opportunity.png "Sample opportunity")
+     > ![Sample mixed-reality session](media/sample-opportunity.png "Sample mixed-reality session")
 
 4. Tap a product you want to open.
 
@@ -54,6 +54,5 @@ Dynamics 365 Product Visualize comes with sample 3D models you can try out even 
 [Add a note to your 3D model](add-note.md)<br>
 [Show or hide a layer in a 3D model](layers.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
-[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
