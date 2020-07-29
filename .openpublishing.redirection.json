@@ -97,12 +97,12 @@
     },
     {
       "source_path": "mr-docs/product-visualize/setup-existing-instance.md",
-      "redirect_url": "setup.md",
+      "redirect_url": "setup",
       "redirect_document_id": "false"
     },
     {
       "source_path": "mr-docs/product-visualize/admin-guide.md",
-      "redirect_url": "setup.md",
+      "redirect_url": "setup",
       "redirect_document_id": "false"
     }
   ]
