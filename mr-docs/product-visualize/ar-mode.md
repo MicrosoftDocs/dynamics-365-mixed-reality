@@ -4,7 +4,7 @@ description: Learn how to View 3D models without using your device's camera.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 06/12/2020
+ms.date: 07/29/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -14,22 +14,10 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-The default behavior for viewing 3D models in Dynamics 365 Product Visualize is to use your device's camera and physical environment to place a 3D model. When you set **Show AR mode toggle button** to on, you can turn off this default behavior, and instead place your model on a gray background or use a background image from your Photos library. When you turn AR mode back on, you can use your device's camera to place the 3D model as usual.
+The default behavior for viewing 3D models in Dynamics 365 Product Visualize is to use your device's camera and physical environment to place a 3D model. When you enable the AR mode feature, you can turn off this default behavior, and instead place your model on a gray background or use a background image from your Photos library. When you turn AR mode back on, you can use your device's camera to place the 3D model as usual. More information: [Enable AR mode feature](enable-preview-features.md)
 
 > [!NOTE]
 > Viewing 3D models without using your device's camera is a preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
-
-## Enable AR mode
-
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Preview features**.
-
-    > [!div class=mx-imgBorder]
-    > ![Preview features](media/preview-features.png "Preview features")
-
-2. In the **Feature Settings** screen, set **Show AR mode toggle button** to **On**.
-
-    > [!div class=mx-imgBorder]
-    > ![AR mode feature](media/ar-mode-feature.png "AR mode feature")
 
 ## Turn AR mode on and off
 
@@ -75,6 +63,5 @@ You can choose to keep the models on a gray background or add a background image
 [Show or hide layers in a 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
-[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
