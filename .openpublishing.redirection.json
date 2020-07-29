@@ -89,6 +89,21 @@
       "source_path": "mr-docs/remote-assist/cross-company-calling.md",
       "redirect_url": "vendor-use-ra",
       "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/add-model.md",
+      "redirect_url": "browse-models",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/setup-existing-instance.md",
+      "redirect_url": "setup.md",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/product-visualize/admin-guide.md",
+      "redirect_url": "setup.md",
+      "redirect_document_id": "false"
     }
   ]
 }
