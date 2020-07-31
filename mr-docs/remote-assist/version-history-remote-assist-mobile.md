@@ -35,6 +35,7 @@ Date: July 31, 2020
 - Fix for not displaying the Remote Assist mobile user's video feed on the Microsoft Teams desktop or mobile user's screen.
 - Fix for placing the arrow annotation at the incorrect angle for Microsoft Teams desktop or mobile users.
 - Optimized frequency of error messages guiding user to track their environment better.
+- Incoming calls improvements. 
 - Fix for authentication taking a long time.
 - Fix for annotations inaccuracy in calls between two Remote Assists clients.
 - Fix for Undo and Delete buttons in the incorrect state.
