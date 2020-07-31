@@ -30,7 +30,7 @@ search.app:
 
 ## iOS - 2020.7.30 + Android - 2020.07.23
 
-Date: July 31, 2020
+Date: July 30, 2020
 
 - Fix for not displaying the Remote Assist mobile user's video feed on the Microsoft Teams desktop or mobile user's screen.
 - Fix for placing the arrow annotation at the incorrect angle for Microsoft Teams desktop or mobile users.
