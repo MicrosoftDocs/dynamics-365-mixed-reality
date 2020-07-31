@@ -32,6 +32,7 @@ search.app:
 
 Date: July 30, 2020
 
+### Bug fixes
 - Fix for not displaying the Remote Assist mobile user's video feed on the Microsoft Teams desktop or mobile user's screen.
 - Fix for placing the arrow annotation at the incorrect angle for Microsoft Teams desktop or mobile users.
 - Optimized frequency of error messages guiding user to track their environment better.
@@ -46,6 +47,7 @@ Date: July 30, 2020
 
 Date: July 1, 2020
 
+### Bug fixes
 -	Improved incoming call experience for Remote Assist mobile users who do not have the app open when a call comes in from Microsoft Teams desktop or mobile clients.
 -	Fix for app crashing on mobile devices without augmented reality (AR) support, especially iPhone 5 and iPhone 6 devices.
 -	Dynamics 365 Field Service customers can now view the service account names on the bookings screen. 
@@ -61,6 +63,7 @@ Date: July 1, 2020
 
 Date: May 28, 2020
 
+### Bug fixes
 -	Fix for network error “HTTP 401 TeamsChatService.GetMessagesAsync”
 -	Fix for application not being responsive during launch
 -	Improvement for the recent contacts list 
