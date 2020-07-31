@@ -2,7 +2,7 @@
 title: "Remote Assist mobile version history | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
-ms.date: 07/01/2020
+ms.date: 07/31/2020
 ms.reviewer: krbjoran
 ms.service: dynamics-365-mixed-reality-remote-assist
 ms.suite: ""
@@ -51,22 +51,22 @@ Date: July 1, 2020
 -	Updated the User Guide and Dynamics 365 Integration links in the app.
 -	Update for authentication library on iOS.
 -	Fix for “Just a moment” message blocking users after sign-in.
--	Fix for ArgumentNullException showing up when user don’t have any recent contacts and search query returns empty list.
+-	Fix for ArgumentNullException showing up when user doesn't have any recent contacts and search query returns empty list.
 -	Fix for Graphics.CopyTexture exception showing after annotating on the snapshot.
--	Fixes for application localization (e.g. “Retry sign-in” button, “Don’t show again” button and tracking error state messages).
+-	Fixes for application localization (for example “Retry sign-in” button, “Don’t show again” button and tracking error state messages).
 -	Performance improvements for the application memory usage.
 
 ## iOS - 2020.5.28 + Android - 2020.05.22
 
 Date: May 28, 2020
 
--	Fix for network error “HTTP 401 TeamsChatService.GetMessagesAsync”
--	Fix for application not being responsive during launch
--	Improvement for the recent contacts list 
--	Fix for not being able to find contacts in some countries, such as Egypt
--	Improvement for the voicemail card
--	Localization improvements
--	Accessibility improvements and fixes
+-	Fix for network error “HTTP 401 TeamsChatService.GetMessagesAsync”.
+-	Fix for application not being responsive during launch.
+-	Improvement for the recent contacts list.
+-	Fix for not being able to find contacts in some countries, such as Egypt.
+-	Improvement for the voicemail card.
+-	Localization improvements.
+-	Accessibility improvements and fixes.
 
 ## iOS – 2020.5.7 + Android - 2020.05.04 
 
@@ -74,7 +74,7 @@ Date: May 4, 2020
 
 ### Bug fixes
 - Improved flighting implementation and enabling per company app customizations.
-- Fix for sign in problem for users on mobile networks.
+- Fix for sign-in problem for users on mobile networks.
 - Improved user feedback questionnaire experience.
 
 ## iOS – 2020.4.1 + Android - 2002.03.18
@@ -100,7 +100,7 @@ Date: February 27, 2020
 
 ### Bug fixes
 
-- In low bandwidth environments with a satellite network of 1000/256 kbps for bandwidth, 600/600ms for latency, and 10% of packet loss, users will not receive an 'Update Check Failed' pop-up and can continue to share their environment.  
+- In low-bandwidth environments with a satellite network of 1000/256 kbps for bandwidth, 600/600ms for latency, and 10% of packet loss, users will not receive an 'Update Check Failed' pop-up and can continue to share their environment.  
 - Users trying the 90-day license-free Remote Assist Mobile trial who do not have a Microsoft Teams license (free or paid) will be prompted to sign up for one. After they sign up, the app will recognize their Microsoft Teams account and they can sign in.  
 - With Remote Assist mobile app downloaded on your device, users can launch the app from Safari web browser via “ramobile:/” deep linking.  
 - Users can view their snapshots with annotations on it in both landscape and portrait orientations. These snapshots will save to users’ mobile device’s Photo Gallery.  
@@ -115,19 +115,19 @@ Date: December 12, 2020
 
 ### Bug fixes
 
-- If you don’t have the Company Portal or the Microsoft Authenticatorapp installed, the app doesn’t crash when you sign in. 
-- After tapping the Search buttonwhen searching for contacts, the “Start type to search text” doesn’t overlap with the Recentlist of contacts. 
-- You cansign in with an MSA account. 
-- The app is localized into 43 languages. 
+- If you don’t have the Company Portal or the Microsoft Authenticator app installed, the app doesn’t crash when you sign in.
+- After tapping the Search button when searching for contacts, the “Start type to search text” doesn’t overlap with the recent list of contacts.
+- You can sign in with an MSA account.
+- The app is localized into 43 languages.
 - When you disconnect from a call by closing the app, you’re notified of subsequent calls.
-- The app is available in the Apple and Google Playapp stores for all supported devices. 
-- When you take a snapshot for the first time,the snapshot is saved to the camera roll and the video feed doesn’t freeze. 
-- The Taskbar at the bottom of the screen is now visible on Android 10. 
+- The app is available in the Apple and Google Play app stores for all supported devices.
+- When you take a snapshot for the first time, the snapshot is saved to the camera roll and the video feed doesn’t freeze.
+- The Taskbar at the bottom of the screen is now visible on Android 10.
 - When you send a message in text chat, the keyboard is automatically closed.
-- Calls from Teams desktop to the app are connected and continuewith no problems. 
-- When using Teams on a tablet, annotations are normal size. 
-- The Speakerbutton is only visible when there is more than one audio output source. 
-- All buttons are responsive and tappable. 
+- Calls from Teams desktop to the app are connected and continue with no problems.
+- When using Teams on a tablet, annotations are normal size.
+- The Speaker button is only visible when there is more than one audio output source.
+- All buttons are responsive and can be tapped.
 - Fixed app crashes.
 
 ## iOS – 2020.10.31 + Android - 2019.10.22
@@ -135,17 +135,17 @@ Date: December 12, 2020
 Date: October 31, 2020
 
 - The Screenshot button is removed from the toolbar. You can edit a screenshot by selecting the Snapshot and annotate button instead.
-- In the case of a network disconnection, you’re automatically rejoined to the call when the network is restored. If there’s no network connection ,the call is ended.
-- If you’re using a screen reader and access the tutorialpageaccessed from the Learn the Toolsor Try Itbutton, you can access the Arrowtool. 
-- Ifyou tapthe Try Itbuttonon the Sign-inpage,and then select the back button on yourdevice, you return to theSign-inpage. 
-- The end-user license agreement (EULA)link on the Sign-inpagegoes to the appropriate page (Android or iOS) based on yourdevice.
-- On the tutorial page, the buttons now read:Restart Tutorialand Exit Practice.
-- If you’re using Dynamics 365 Field Service with Dynamics 365 Remote Assist, the Post to Dynamicspop-up will disappearwhen youreceive or accepta call, butwill reappear after the call hasended.
-- The“NullReferenceException: Object reference not set to an instance of an object”error message does not appearwhen startinga call, whethersystem-generated logs are enabled or not.
+- If there's a network disconnection, you’re automatically rejoined to the call when the network is restored. If there’s no network connection, the call is ended.
+- If you’re using a screen reader and access the tutorial page accessed from the Learn the Tools or Try It button, you can access the Arrow tool.
+- If you tap the Try It button on the Sign-in page, and then select the back button on your device, you return to the Sign-in page.
+- The end-user license agreement (EULA) link on the Sign-in page goes to the appropriate page (Android or iOS) based on your device.
+- On the tutorial page, the buttons now read: Restart Tutorial and Exit Practice.
+- If you’re using Dynamics 365 Field Service with Dynamics 365 Remote Assist, the Post to Dynamics 365 pop-up will disappear when you receive or accept a call, but will reappear after the call has ended.
+- The “NullReferenceException: Object reference not set to an instance of an object” error message does not appear when starting a call, whether system-generated logs are enabled or not.
 
 ## Locate your version number
 
-To find which version of Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference. 
+To find which version of Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
