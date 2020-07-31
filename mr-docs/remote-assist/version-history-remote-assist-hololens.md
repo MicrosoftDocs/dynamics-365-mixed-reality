@@ -2,7 +2,7 @@
 title: "Remote Assist HoloLens version history | MicrosoftDocs"
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
-ms.date: 07/01/2020
+ms.date: 07/30/2020
 ms.reviewer: krbjoran
 ms.service: dynamics-365-mixed-reality-remote-assist
 ms.suite: ""
@@ -27,6 +27,18 @@ search.app:
 ---
 
 # Remote Assist HoloLens version history
+
+## HoloLens 1 & 2 – 211.2007.30002
+
+Date: August 2020
+
+- Fix for the files shared from Microsoft Teams not downloading on HoloLens. 
+- Fix for the "Snap" voice command not taking a photo in some cases.
+- Fix for when the user answers a call from the shell and it takes them to the contacts screen rather than joining the call. 
+- Fix for the Remote Assist video card appearing too close after the call has ended. 
+- Improved application reliability. 
+
+### Bug fixes
 
 ## HoloLens 1 & 2 – 210.2007.1003.0
 
