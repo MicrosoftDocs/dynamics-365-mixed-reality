@@ -28,6 +28,19 @@ search.app:
 
 # Remote Assist mobile version history
 
+## iOS - 2020.7.30 + Android - 2020.07.23
+
+Date: July 31, 2020
+
+- Fix for not displaying the Remote Assist mobile user's video feed on the Microsoft Teams desktop or mobile user's screen.
+- Fix for placing the arrow annotation at the incorrect angle for Microsoft Teams desktop or mobile users.
+- Optimized frequency of error messages guiding user to track their environment better.
+- Fix for authentication taking a long time.
+- Fix for annotations inaccuracy in calls between two Remote Assists clients.
+- Fix for Undo and Delete buttons in the incorrect state.
+- Fix for memory issues caused by screen rotation.
+- Improved application memory usage.
+
 ## iOS - 2020.7.1 + Android - 2020.06.27
 
 Date: July 1, 2020
