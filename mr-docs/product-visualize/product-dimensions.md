@@ -4,7 +4,7 @@ description: Learn how to display the dimensions of a product in a model in Dyna
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 06/12/2020
+ms.date: 07/29/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -14,22 +14,10 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Dynamics 365 Product Visualize includes a tool to display your model measurements in imperial or metric units. To display model dimensions, you must enable the product dimensions feature. 
+Dynamics 365 Product Visualize includes a tool to display your model measurements in imperial or metric units. To display model dimensions, you must enable the product dimensions feature. More information: [Enable product dimensions feature](enable-preview-features.md)
 
 > [!NOTE]
-> Product dimensions is a Preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
-
-## Enable product dimensions
-
-1. Tap **Main** ![Main menu](media/hamburger-icon.png "Main menu"), and then tap **Preview features**.
-
-    > [!div class=mx-imgBorder]
-    > ![Preview features](media/preview-features.png "Preview features")
-
-2. On the **Feature Settings** screen, turn on the **3D product dimensions** toggle.
-
-    > [!div class=mx-imgBorder]
-    > ![Product dimensions feature](media/product-dimensions-feature.png "Product dimensions feature")
+> Product dimensions is a preview feature. Preview features are experimental features that provide access to the latest innovations that the Dynamics 365 Product Visualize team is working on.
 
 ## Set measurement units
 
@@ -68,5 +56,4 @@ Dynamics 365 Product Visualize includes a tool to display your model measurement
 [Show or hide layers in a 3D model](layers.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
-[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
 [Download 3D models to use offline](download-models.md)
