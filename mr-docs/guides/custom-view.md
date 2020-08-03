@@ -223,7 +223,7 @@ In this step, you'll add the list of guides that will appear on the HoloLens tab
 
     ![Select Edit button](media/custom-view-edit-main-form.PNG "Select Edit button")
 
-12. Drag the **Date and Time** and **Guide** fields from the list of fields in the left column to the form in the center. 
+12. Drag the **Date and Time** and **Guide** fields from the list of fields in the left pane to the form in the center of the screen. 
 
     ![Drag fields](media/custom-view-drag-drop-fields.PNG "Drag fields")
 
