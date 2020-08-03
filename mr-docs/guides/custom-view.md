@@ -65,9 +65,7 @@ Each of these steps is described in detail below.
 4. Select **Create**.
 
 5. With the new entity open, select **Add field.**
-
-    ![Add field](media/add-field.PNG "Add field")
-
+    
 6. In the **Field properties** pane on the right side of the screen:
 
    1. In the **Display name** field, enter **Date and Time**.
@@ -225,7 +223,7 @@ In this step, you'll add the list of guides that will appear on the HoloLens tab
 
     ![Select Edit button](media/custom-view-edit-main-form.PNG "Select Edit button")
 
-12. Drag the **Date and Time** and **Guide** fields from the left menu. 
+12. Drag the **Date and Time** and **Guide** fields from the list of fields in the left column to the form in the center. 
 
     ![Drag fields](media/custom-view-drag-drop-fields.PNG "Drag fields")
 
