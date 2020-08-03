@@ -45,15 +45,14 @@ Version 402.2007.7001.0 of the PC and [!include[pn-hololens](../includes/pn-holo
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/operators-use-previously-opened-guides-hololens-when-offline" target="_blank">Operators can use any previously opened guides on HoloLens when offline</a> | No |
-| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Filter Power BI dashboard data by Author or Operator role</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Filter Power BI dashboard data by Author or Operator role</a> | No |
+| <a href="https://https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/improved-hologram-alignment-real-world-during-mixed-reality-capture-hololens-2" target="_blank">Improved hologram alignmenet with real world during Mixed Reality Capture on HoloLens 2</a> | No |
 
-### Other updates
+### Other update
 
-This release also includes the following fixes:
+This release also includes the following fix:
 
 - **Embedded link in QR code.** There was an issue with the deeplink functionality where the embedded link in a QR code didn't link to the correct guide or step.
-
-- **Holograms not aligned in video recordings**. When recording video through mixed reality capture (MRC) on Hololens, holograms appeared offset in the recording. With this fix, holograms now appear in the proper position. 
 
 ## May 26, 2020
 
