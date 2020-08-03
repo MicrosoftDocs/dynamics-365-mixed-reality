@@ -64,6 +64,7 @@
 ### [Operate your guide](operator-orientation.md)
 ### [Work offline](operator-offline-mode.md)
 ## [Analyze your guides](analytics-guide.md)
+## [Migrate content from one instance to another](migrate.md)
 ## [Entity reference (for developers)](developer-entity-reference.md)
 ## [Get Help and provide feedback](help.md)
 ## [Glossary of terms](glossary.md)
