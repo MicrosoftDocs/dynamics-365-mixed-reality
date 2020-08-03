@@ -12,6 +12,8 @@ ms.reviewer:
 
 # Set up Dynamics 365 Product Visualize on a new Dynamics 365 instance
 
+[!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
+
 Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This topic provides step-by-step instructions for setting up a new Dynamics 365 trial instance and installing the Dynamics 365 Product Visualize solution.
 
 > [!NOTE]
