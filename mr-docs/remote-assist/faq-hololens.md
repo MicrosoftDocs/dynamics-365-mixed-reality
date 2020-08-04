@@ -103,9 +103,6 @@ To improve hologram stability, complete eye calibration.
 
 Learn how to clean [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-maintenance). 
 
-**Can I use any lens cleaner for cleaning HoloLens visor?**
-No. Lens cleaners can be abrasive to the coatings on the visor. Please use a mix of isopropyl alcohol (IPA) and water, and then gently wipe the surface of the visor.
-
 ## Can I save call artifacts to a Field Service work order?
 
 Yes! If you opened a Field Service booking and then made a Remote Assist call, at the end of the call, you'll be prompted to post the call log and files shared during the call to the work order associated with that booking.
