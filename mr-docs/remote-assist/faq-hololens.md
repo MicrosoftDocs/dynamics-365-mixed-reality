@@ -101,7 +101,7 @@ To improve hologram stability, complete eye calibration.
 
 ## Multiple people in my organization use Remote Assist on the same HoloLens. How do I clean my HoloLens?
 
-Learn how to clean [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/en-us/hololens/hololens2-maintenance). 
+Learn how to clean [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-maintenance). 
 
 Additional details about cleaning HoloLens 2:
 
@@ -120,7 +120,7 @@ Clorox, Lysol, and similar bleach-keeping wipes are **not** recommended for use.
 **Can I use any lens cleaner for cleaning HoloLens visor?**
 No. Lens cleaners can be abrasive to the coatings on the visor. Please use a mix of isopropyl alcohol (IPA) and water, and then gently wipe the surface of the visor.
 
-### Can I save call artifacts to a Field Service work order?
+## Can I save call artifacts to a Field Service work order?
 
 Yes! If you opened a Field Service booking and then made a Remote Assist call, at the end of the call, you'll be prompted to post the call log and files shared during the call to the work order associated with that booking.
 
@@ -130,7 +130,7 @@ For more information, visit our article on [displaying and saving files](display
 
 ## How do I file a support ticket?
 
-If you encounter an issue that blocks you from using the application and you do not see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com/hololens). Support will work directly with you and communicate daily until the issue is resolved.  
+If you encounter an issue that blocks you from using the application and you do not see an answer on our [user forum](https://community.dynamics.com/365/remoteassist), please [file a support ticket](https://support.microsoft.com//supportforbusiness/productselection?sapid=e9391227-fa6d-927b-0fff-f96288631b8f). Support will work directly with you and communicate daily until the issue is resolved.  
 
 ## How do I report a bug?
 
