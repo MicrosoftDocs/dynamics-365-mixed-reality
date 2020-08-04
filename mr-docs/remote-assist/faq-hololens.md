@@ -101,7 +101,7 @@ To improve hologram stability, complete eye calibration.
 
 ## Multiple people in my organization use Remote Assist on the same HoloLens. How do I clean my HoloLens?
 
-Learn how to clean [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-hardware#care-and-cleaning). 
+Learn how to clean [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/en-us/hololens/hololens2-maintenance). 
 
 Additional details about cleaning HoloLens 2:
 
