@@ -40,7 +40,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ![Sign-in page](media/voice-sign-in.PNG "Sign-in page")
 
-| | Say this | To do this |
+| Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Sign in" | Start the sign-in process. |
 | 2 | "Get started" | Open the **Get started with Guides** dialog box. |
@@ -50,7 +50,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ![Select mode page](media/voice-select-mode.PNG "Select mode page")
 
-| | Say this | To do this |
+| Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Operate" | Select **Operate** mode. |
 | 2 | "Author" | Select **Author** mode. |
@@ -59,7 +59,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ![Align holographic anchor page](media/voice-align-holographic.PNG "Align holographic anchor page")
 
-| | Say this | To do this |
+| Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Confirm" | Confirm the position of the anchor so that you can start to use the guide. |
 
@@ -67,7 +67,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ![Scan circular code anchor page](media/voice-scan-circular.PNG "Scan circular code anchor page")
 
-| | Say this | To do this |
+| Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Initiate scan" | Start anchor scanning. |
 
@@ -75,7 +75,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ![Circular code anchor found page](media/voice-found-circular.PNG "Circular code anchor found page")
 
-| | Say this | To do this |
+| Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Rescan" | Rescan the anchor if holograms aren't correctly aligned. |
 | 2 | "Confirm" | Confirm the position of the anchor so that you can start to use the guide. |
@@ -84,7 +84,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ![Step card page](media/voice-step-card.PNG "Step card page")
 
-| | Button or element | Say this | To do this |
+| Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
 | 1 | ![Home button](media/home-button.PNG "Home button") | "Exit guide" | Exit the current guide. |
 | 2 | ![Follow mode button (turn on)](media/follow-mode-inactive-button.png "Follow mode button (turn on)") | "Follow me" | Turn on **Follow** mode, and bring the card to the center of the field of view. |
@@ -105,7 +105,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ![Task list page that shows scroll up and scroll down buttons](media/voice-lists.PNG "Task list page that shows scroll up and scroll down buttons")
 
-| | Button or element | Say this | To do this |
+| Number in screenshot | Button or element | Say this | To do this |
 |---|---|---|---|
 | 1 | ![Scroll up button](media/scroll-up-button.png "Scroll up button") | "Scroll up" | Scroll up the list. |
 | 2 | ![Scroll down button](media/scroll-down-button.png "Scroll down button") | "Scroll down" | Scroll down the list. |
@@ -114,7 +114,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 ![Profile page that shows the Sign out button](media/voice-profile.PNG "Profile page that shows the Sign out button")
 
-| | Say this | To do this |
+| Number in screenshot | Say this | To do this |
 |---|---|---|
 | 1 | "Sign out" | Sign out of Dynamics 365 Guides. |
 
