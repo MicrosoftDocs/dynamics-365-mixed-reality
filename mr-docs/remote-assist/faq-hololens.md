@@ -103,20 +103,6 @@ To improve hologram stability, complete eye calibration.
 
 Learn how to clean [HoloLens](https://docs.microsoft.com/hololens/hololens1-hardware#care-and-cleaning) and [HoloLens 2](https://docs.microsoft.com/hololens/hololens2-maintenance). 
 
-Additional details about cleaning HoloLens 2:
-
-**Device**: Remove any dust by gently wiping with a dry lint-free microfiber cloth. Lightly moisten the cloth with medical 70% isopropyl alcohol, and then gently wipe the surface of the device.
-
-Let it dry completely.
-
-**Brow pad**: Wipe it with a cloth moistened with water and a mild, antibiotic soap. Let it dry completely.
-
-**Can I use Purell wipes to clean the HoloLens?**
-Purell wipes can be applied in limited use to clean the HoloLens surfaces. The cleaning guide linked at the beginning of this question is the recommended method. 
-
-**Can I use Clorox or Lysol wipes to clean the HoloLens?**
-Clorox, Lysol, and similar bleach-keeping wipes are **not** recommended for use. Use these wipes on when it's critically necessary, and nothing else is available.
-
 **Can I use any lens cleaner for cleaning HoloLens visor?**
 No. Lens cleaners can be abrasive to the coatings on the visor. Please use a mix of isopropyl alcohol (IPA) and water, and then gently wipe the surface of the visor.
 
