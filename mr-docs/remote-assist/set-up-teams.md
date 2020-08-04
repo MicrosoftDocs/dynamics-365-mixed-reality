@@ -28,7 +28,4 @@ Remote Assist users and Teams users may be in the same tenant or different tenan
 | Advanced deployment: [Multi-tenant company deployment using guesting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment#solution-2-guesting)      | The administrator of the tenant with Remote Assist users must [use Teams guesting](https://docs.microsoft.com/microsoftteams/guest-access-checklist) to enable people outside their tenant to use Teams.  |
 | Advanced deployment: [Vendors and contractors are outside your tenant and want to use Remote Assist](vendor-use-ra.md)                                                                                                                                                                                                                                        | [Assign Teams licenses to people in your tenant](https://docs.microsoft.com/MicrosoftTeams/user-access).                                                             |
 
-
-
-
-Need more help? Check out [Dynamics 365 Remote Assist FAQs](faq.md) for answers to common questions, or check out the [Microsoft Teams admin documentation](https://docs.microsoft.com/microsoftteams).
+Need more help? Check out [Dynamics 365 Remote Assist FAQs](faq-deploy.md) for answers to common questions, or check out the [Microsoft Teams admin documentation](https://docs.microsoft.com/microsoftteams).
