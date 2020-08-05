@@ -466,7 +466,7 @@ THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECI
 &ast; HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
 ARISING IN ANY WAY &ast; OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
  
-&ast; &ast; The license and distribution terms for any publically available version or derivative of this code cannot be changed. i.e. 
+&ast; &ast; The license and distribution terms for any publicly available version or derivative of this code cannot be changed. i.e. 
 this code cannot simply be copied and put under another distribution license [including the GNU Public License.] */
 
 ****
