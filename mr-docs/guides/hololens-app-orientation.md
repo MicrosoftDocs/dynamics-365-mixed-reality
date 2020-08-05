@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app, and learn how to place holograms, add styles, and more.
 ms.author: mamaylya
-ms.date: 02/25/2020
+ms.date: 08/04/2020
 ms.service: crm-online
 ms.topic: article
 title: Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
@@ -33,11 +33,11 @@ Here's what each button or UI element is used for.
 | 1 | ![Save button](media/save-button.png "Save button") | Save | Save the guide. |
 | 2 | ![Undo button](media/undo-button.png "Undo button") | Undo | Undo the last change. You can undo up to 100 changes. |
 | 3 | ![Redo button](media/redo-button.png "Redo button") | Redo | Redo the last change. You can redo up to 100 changes. |
-| 4 | ![Home button](media/home-button.png "Home button") | Home | Select a different guide. |
-| 5 | ![Follow Mode button](media/follow-button.png "Follow Mode button") | Follow mode | Have the Step card follow you, or lock it to a location.<p>[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a feature that is called **Follow** mode. Wherever you look, the Step card follows your gaze. Therefore, you never have to worry where your instructions are. When you turn off **Follow** mode, the Step card stays where it is. You can move the Step card wherever you want at any time. Just grab it by using the navigation bar.</p> |
+| 4 | ![Home button](media/home-button.PNG "Home button") | Home | Select a different guide. |
+| 5 | ![Follow Mode button](media/follow-button.PNG "Follow Mode button") | Follow mode | Have the Step card follow you, or lock it to a location.<p>[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a feature that is called **Follow** mode. Wherever you look, the Step card follows your gaze. Therefore, you never have to worry where your instructions are. When you turn off **Follow** mode, the Step card stays where it is. You can move the Step card wherever you want at any time. Just grab it by using the navigation bar.</p> |
 | 6 | ![Anchor button](media/anchor-button.PNG "Anchor button") | Anchor | Re-anchor (realign) your guide.<p>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this issue, you must re-anchor the guide by gazing at the anchor again.</p> |
-| 7 | ![Settings button](media/settings-button.png "Settings button") | Settings | Access the following setting:<ul><li>**Build number**. See the build that you're using.</li></ul> |
-| 8 | ![Profile button](media/profile-button.png "Profile button") | Profile | Sign in and out. |
+| 7 | ![Settings button](media/settings-button.PNG "Settings button") | Settings | Access the following setting:<ul><li>**Build number**. See the build that you're using.</li></ul> |
+| 8 | ![Profile button](media/profile-button.PNG "Profile button") | Profile | Sign in and out. |
 | 9 | ![Step progress](media/step-progress.png "Step progress") | Step progress | See where you are in the step. |
 | 10 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide.</p> |
 | 11 | ![Task name](media/task-name-table.PNG "Task name") | Task name | See the name of the task. |

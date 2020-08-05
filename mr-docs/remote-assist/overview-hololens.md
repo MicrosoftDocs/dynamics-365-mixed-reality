@@ -64,7 +64,7 @@ You can also take a photo of what you see using the Camera icon, as seen here: !
 
 Finally, place the call window wherever you want in your world by toggling **Pin** and **Unpin** ![Pin](media/RAHL_Pin.png "Pin").
 
-Remote Assist supports different languages on HoloLens versus HoloLens 2. Check if your language is supported in Remote Assist in [our FAQs](faq.md).
+Remote Assist supports different languages on HoloLens versus HoloLens 2. Check if your language is supported in Remote Assist in [our FAQs](faq-hololens.md).
 
 > [!Note]
 > Remote Assist on HoloLens and HoloLens 2 offer the same capabilities. However, HoloLens gestures differ from HoloLens 2 gestures. Learn how to [navigate HoloLens gestures](https://docs.microsoft.com/hololens/hololens1-basic-usage) or [navigate Hololens 2 gestures](https://docs.microsoft.com/hololens/hololens2-basic-usage) before reading the rest of this document. You may also watch how-to videos showing how to use Remote Assist features on HoloLens.
