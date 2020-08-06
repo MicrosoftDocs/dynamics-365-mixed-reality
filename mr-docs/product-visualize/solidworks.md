@@ -56,7 +56,6 @@ The **Defeature** tool provides another optimization option. You can use this to
     ![Defeature tool](media/solidworks-defeature.PNG "Defeature tool")
 
 At this point, you can choose whether to [simplify your geometry](#simplify-geometry) or [create a silhouette](#create-silhouette).
-<!--note from editor: I changed the wording of the following two procedure headings just to emphasize that they're subsets of the "Remove small parts..." heading. Also added these intra-topic links, which might be overkill but I do want to be sure people understand that they're parallel, and that they both follow the previous step of opening the Defeature tool.-->
 
 <a name="simplify-geometry"></a>
 
