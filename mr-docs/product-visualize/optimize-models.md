@@ -1,6 +1,6 @@
 ---
 author: JBrentJ
-description: How to optimize your 3D (CAD) models to use with Dynamics 365 Import Tool (Preview).
+description: How to optimize your 3D (CAD) models?
 ms.author: v-jerja
 ms.date: 01/08/2020
 ms.service: crm-online
@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Optimize your 3D models
 
-For best rendering and best possible real-time performance, your 3D models need to be converted and might need to be optimized before using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]. Third-party applications that convert CAD files often have tools that can optimize content as well. 
+For best rendering and best possible real-time performance, your 3D models need to be converted and might need to be optimized. Third-party applications that convert CAD files often have tools that can optimize content as well. 
 
 The following table lists software tools that you can use to convert and/or optimize your CAD files or intermediate files and export them as a supported file format. Your use of third-party applications is subject to terms between you and the third party. [!include[cc-microsoft](../includes/cc-microsoft.md)] does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
 
@@ -48,7 +48,5 @@ The following table lists some general conservative targets to aim for when acqu
 > Transparency in materials such as glass in 3D models is not supported.
 
 ### See also
-[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
-[Best practices for converting and optimizing 3D models](best-practices.md)<br>
-[Use Dynamics 365 Import Tool (Preview)](import-tool.md)
+[Best practices for converting and optimizing 3D models](best-practices.md)

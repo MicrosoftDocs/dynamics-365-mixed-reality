@@ -145,7 +145,7 @@ After you prepare a 3D model, you can use the following Dynamics 365 apps to vie
 
 [Dynamics 365 Product Visualize](../product-visualize/index.md)<br> 
 [Dynamics 365 Guides](../guides/index.md)<br> 
-[Dynamics 365 Layout](../layout/index.md) via [Dynamics 365 Import Tool (Preview)](import-tool.md)
+[Dynamics 365 Layout](../layout/index.md)
 
 ### More information
 
