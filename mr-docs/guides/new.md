@@ -39,7 +39,7 @@ Version 403.2008.3001.0 of the PC and [!include[pn-hololens](../includes/pn-holo
 
 This release also includes the following fixes and updates:
 
-- Added [Content Migration Tool](https://docs.microsoft.com/dynamics365/mixed-reality/guides/migrate) to move content from one Common Data Service instance to another.
+- Added <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/migrate" target="_blank">Content Migration Tool</a> to move content from one Common Data Service instance to another.
 
 - Addressed an issue that was affecting some PC’s when uploading files with the PC app.
 
