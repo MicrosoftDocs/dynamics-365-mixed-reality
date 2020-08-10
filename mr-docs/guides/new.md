@@ -41,7 +41,7 @@ This release also includes the following fixes and updates:
 
 - Use the [Content Migration Tool](https://docs.microsoft.com/dynamics365/mixed-reality/guides/migrate) to move content from one Common Data Service instance to another.
 
-- Addressed an issue that was affecting some PC’ when uploading files with the PC app.
+- Addressed an issue that was affecting some PC’s when uploading files with the PC app.
 
 - Improvements to deeplink functionality and embedded links in QR codes for quick launch of a guide.
 
