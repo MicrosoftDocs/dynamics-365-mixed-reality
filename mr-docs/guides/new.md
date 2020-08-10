@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 08/04/2020
+ms.date: 08/10/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -34,6 +34,16 @@ Version 403.2008.3001.0 of the PC and [!include[pn-hololens](../includes/pn-holo
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/use-voice-operate-guides-hololens" target="_blank">Use voice to operate your guides on HoloLens</a> | No |
+
+### Other updates
+
+This release also includes the following fixes and updates:
+
+- Added <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/migrate" target="_blank">Content Migration Tool</a> to move content from one Common Data Service instance to another.
+
+- Addressed an issue that affected some PCs when the PC app was used to upload files.
+
+- Improvements to deeplink functionality and embedded links in QR codes for quick launch of a guide.
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
