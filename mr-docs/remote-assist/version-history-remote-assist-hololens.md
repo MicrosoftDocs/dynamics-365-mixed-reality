@@ -32,13 +32,13 @@ search.app:
 
 Date: August 2020
 
+### Bug fixes
+
 - Fix for the files shared from Microsoft Teams not downloading on HoloLens. 
 - Fix for the "Snap" voice command not taking a photo in some cases.
 - Fix for when the user answers a call from the shell and it takes them to the contacts screen rather than joining the call. 
 - Fix for the Remote Assist video card appearing too close after the call has ended. 
 - Improved application reliability. 
-
-### Bug fixes
 
 ## HoloLens 1 & 2 – 210.2007.1003.0
 

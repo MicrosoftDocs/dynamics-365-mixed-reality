@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 07/24/2020
+ms.date: 08/04/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -27,6 +27,17 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
 
+## August 4, 2020
+
+Version 403.2008.3001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.3.36 include the following new feature.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/use-voice-operate-guides-hololens" target="_blank">Use voice to operate your guides on HoloLens</a> | No |
+
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
 ## July 7, 2020
 
 Version 402.2007.7001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.2.66 include the following new features.
@@ -34,15 +45,14 @@ Version 402.2007.7001.0 of the PC and [!include[pn-hololens](../includes/pn-holo
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/operators-use-previously-opened-guides-hololens-when-offline" target="_blank">Operators can use any previously opened guides on HoloLens when offline</a> | No |
-| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Filter Power BI dashboard data by Author or Operator role</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Filter Power BI dashboard data by Author or Operator role</a> | No |
+| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/improved-hologram-alignment-real-world-during-mixed-reality-capture-hololens-2" target="_blank">Improved hologram alignment with real world during Mixed Reality Capture on HoloLens 2</a> | No |
 
-### Other updates
+### Other update
 
-This release also includes the following fixes:
+This release also includes the following fix:
 
 - **Embedded link in QR code.** There was an issue with the deeplink functionality where the embedded link in a QR code didn't link to the correct guide or step.
-
-- **Holograms not aligned in video recordings**. When recording video through mixed reality capture (MRC) on Hololens, holograms appeared offset in the recording. With this fix, holograms now appear in the proper position. 
 
 ## May 26, 2020
 
@@ -51,9 +61,6 @@ Version 401.2005.21001 of the PC and [!include[pn-hololens](../includes/pn-holol
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/improved-user-experience-audio-feedback" target="_blank">Improved user experience with audio feedback</a> | No |
-
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## May 14, 2020
 

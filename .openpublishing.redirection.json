@@ -6,6 +6,11 @@
       "redirect_document_id": "false"
     },
     {
+      "source_path": "mr-docs/guides/custom-view.md",
+      "redirect_url": "index",
+      "redirect_document_id": "false"
+    },
+    {
       "source_path": "mr-docs/import-tool/guides.md",
       "redirect_url": "index",
       "redirect_document_id": "false"
@@ -28,6 +33,11 @@
     {
       "source_path": "mr-docs/remote-assist/mobile-app/annotate-your-environment.md",
       "redirect_url": "https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-shared-environment",
+      "redirect_document_id": "false"
+    },
+    {
+      "source_path": "mr-docs/remote-assist/faq.md",
+      "redirect_url": "faq-hololens",
       "redirect_document_id": "false"
     },
     {
