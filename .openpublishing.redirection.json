@@ -1,11 +1,6 @@
 {
   "redirections": [
     {
-      "source_path": "mr-docs/guides/custom-view.md",
-      "redirect_url": "index",
-      "redirect_document_id": "false"
-    },
-    {
       "source_path": "mr-docs/import-tool/guides.md",
       "redirect_url": "index",
       "redirect_document_id": "false"

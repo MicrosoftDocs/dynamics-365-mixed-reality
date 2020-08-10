@@ -23,6 +23,7 @@
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
+### [Add a HoloLens tab with a specific list of guides](custom-view.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
 ## I'm an author
 ### [Authoring overview](authoring-overview.md)
