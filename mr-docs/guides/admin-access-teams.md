@@ -75,7 +75,7 @@ A user can be associated with more than one access team.
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the same Guides solution, select the **More environment actions** (**...**) button, and then select **Settings**.
 
-    ![Settings command](media/access-teams-13.PNG "Settings command")
+    ![Settings command](media/access-teams-9.PNG "Settings command")
 
 2. On the **Settings** page, select **Teams**.
 
