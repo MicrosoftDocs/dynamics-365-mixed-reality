@@ -46,5 +46,5 @@ You can edit a trigger the same way you edit any other hologram in the HoloLens 
 
 ## What’s next?
 
-[Learn about triggers from an operator’s point of view]()
+[Learn about triggers from an operator’s point of view](hololens-app-orientation.md)
 
