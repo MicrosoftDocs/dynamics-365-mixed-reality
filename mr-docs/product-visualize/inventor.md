@@ -85,18 +85,20 @@ Next, you need to export the model to a usable format that can be read by mixed-
 Dynamics 365 mixed-reality apps use the GLB format for 3D models. You can convert your OBJ file to a GLB file by using a digital content creation (DCC) platform to convert your 3D models into GLB files. Using these software platforms is a manual process, but it gives you more opportunities for optimization. To assist with this process, see the following tutorials:
 
   - [Blender](blender.md)
-
   - [Autodesk 3ds Max](3ds-max.md)
+  - [SideFX Houdini](houdini.md) 
+  - [Agisoft Metashape](agisoft-metashape.md)
+  - [Inventor](inventor.md)
+  - [ReCap Photo](autodesk-recap-photo.md) 
+  - [Dassault Systèmes SOLIDWORKS](solidworks.md)
 
-  - [SideFX Houdini](houdini.md)
 
 ## View the 3D model in mixed reality
 
 After preparing the 3D model, you can learn more about using the following Dynamics 365 apps to view your 3D model in mixed reality:
 
 [Dynamics 365 Product Visualize](../product-visualize/index.md)<br> 
-[Dynamics 365 Guides](../guides/index.md)<br> 
-[Dynamics 365 Layout](../layout/index.md)
+[Dynamics 365 Guides](../guides/index.md)
 
 ### More information
 

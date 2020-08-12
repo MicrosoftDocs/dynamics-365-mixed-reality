@@ -213,8 +213,7 @@ Repeat this process with the rest of your 3D models to rapidly produce optimized
 After preparing your 3D models, you can learn more about using the following Dynamics 365 apps to view your 3D models in mixed reality:
 
 [Dynamics 365 Product Visualize](../product-visualize/index.md)<br> 
-[Dynamics 365 Guides](../guides/index.md)<br> 
-[Dynamics 365 Layout](../layout/index.md)
+[Dynamics 365 Guides](../guides/index.md)
 
 ### More information
 

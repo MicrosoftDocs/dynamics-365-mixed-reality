@@ -367,8 +367,7 @@ Now that the original mesh has been prepared, you need to create a copy of it to
 After you've prepared your 3D models, you can use the following Dynamics 365 apps to view them in mixed reality:
 
 [Dynamics 365 Product Visualize](../product-visualize/index.md)<br> 
-[Dynamics 365 Guides](../guides/index.md)<br> 
-[Dynamics 365 Layout](../layout/index.md)
+[Dynamics 365 Guides](../guides/index.md)
 
 ### More information
 

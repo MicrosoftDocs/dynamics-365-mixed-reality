@@ -251,8 +251,7 @@ The last step is to export the model to a GLB file so it can be used with Dynami
 After you've prepared a 3D model, you can learn more about using the following Dynamics 365 apps to view it:
 
 [Dynamics 365 Product Visualize](../product-visualize/index.md)<br> 
-[Dynamics 365 Guides](../guides/index.md)<br> 
-[Dynamics 365 Layout](../layout/index.md)
+[Dynamics 365 Guides](../guides/index.md)
 
 ### More information
 

@@ -131,21 +131,12 @@ After you optimize a 3D model, you can easily export it directly from SOLIDWORKS
 
 2. Select **Save**.
 
-## Other conversion options
-
-If you don't have SOLIDWORKS 2019 and the XR Exporter add-in, you need to do one of the following to convert your 3D model into a format that can be optimized:
-
-- If you don't need to see material color, you can export your model as an STL file and import it directly into Dynamics 365 Import Tool (Preview). If it doesn't perform well, you can import the STL file into a digital content creation (DCC) application and optimize it further. See a [list of tutorials](tutorials-overview.md) on how to optimize your 3D models by using DCC apps.
-
-- If you want to see material colors on your final product, you need to send your 3D model through a transcoder before optimizing it further. [This 3ds Max tutorial](3ds-max.md) walks you through the optimization and conversion process.
-
 ## View your 3D model in Dynamics 365 mixed-reality apps
 
 After you prepare a 3D model, you can use the following Dynamics 365 apps to view it in mixed reality:
 
 [Dynamics 365 Product Visualize](../product-visualize/index.md)<br> 
-[Dynamics 365 Guides](../guides/index.md)<br> 
-[Dynamics 365 Layout](../layout/index.md)
+[Dynamics 365 Guides](../guides/index.md)
 
 ### More information
 

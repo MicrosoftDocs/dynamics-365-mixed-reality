@@ -44,7 +44,7 @@ The following illustration shows a more detailed view of this process.
 > ![Overall flow](media/overall-flow.PNG "Overall flow") 
 
 **A.**	Create 3D models using the CAD software of your choice.<br>
-**B.**	Convert CAD files to one of these file formats: GLB, glTF, FBX, OBJ, STL, PLY.<br>
+**B.**	Convert CAD files to one of these file formats: glTF, FBX, OBJ, STL, PLY.<br>
 **C.**	3D models are optimized and converted into the GLB format.<br>
 **D.**	3D models are ready to be imported into [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications.
 
