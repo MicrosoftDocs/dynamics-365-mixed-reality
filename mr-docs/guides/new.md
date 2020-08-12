@@ -57,9 +57,6 @@ This release also includes the following fixes and updates:
 
 - Improvements to deeplink functionality and embedded links in QR codes for quick launch of a guide.
 
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
-
 ## July 7, 2020
 
 Version 402.2007.7001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.2.66 include the following new features.
