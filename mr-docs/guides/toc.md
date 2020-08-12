@@ -46,7 +46,7 @@
 #### [Install the app and sign in](install-sign-in-hololens-app.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
-#### [Create or place a trigger for step navigation](hololens-app-trigger.md)
+#### [Create and place a trigger for step navigation](hololens-app-trigger.md)
 #### HoloLens gestures for authoring and navigating
 ##### [HoloLens 1](authoring-gestures.md)
 ##### [HoloLens 2](authoring-gestures-HL2.md)
