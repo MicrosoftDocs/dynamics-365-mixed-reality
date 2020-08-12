@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to operate a guide in Microsoft Dynamics 365 Guides by using the HoloLens app.
 ms.author: mamaylya
-ms.date: 08/04/2020
+ms.date: 08/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Operate a guide in Dynamics 365 Guides
@@ -60,6 +60,32 @@ You will notice that, wherever you look, the Step card follows your gaze. Theref
 You can also grab the navigation bar at any time to place the card where you want it.
 
 ![Grabbing the navigation bar](media/follow-button-move-card.PNG "Grabbing the navigation bar")
+
+## Use a trigger to move to the next or previous step
+
+Dynamics 365 Guides includes triggers that you can use on HoloLens 2 to go to the next or previous step. Triggers are placed in the real world where you complete your tasks and steps. This saves you from having to gaze at the instruction card after you complete each step, which can disrupt the flow of your work. 
+
+### Visible and invisible triggers
+
+There are two types of triggers:
+
+- **Visible triggers.** These are **Next** and **Back** buttons placed in the real world where you do your work. Just select the trigger with your finger to move to the next step or previous step. 
+
+    SCREEN SHOT GOES HERE
+ 
+    Sometimes, an author might add a dotted line to link the trigger to a place in the real world to help you complete the step.
+
+- **Invisible triggers.** An invisible trigger automatically advances you to the next step when you place your hand or hands inside the trigger area. You can’t see an invisible trigger until your hand is inside the trigger area. At that point, you’ll see a light green box so you know you’ve activated the trigger. 
+
+    SCREEN SHOT GOES HERE
+ 
+    Invisible triggers reduce clutter in the real world so you can focus your attention on completing the step.
+    
+### Visual and audio cues
+
+With either type of trigger, you receive visual and audio cues when you activate the trigger. This confirms that you’ve completed the step and are moving to the next step. For example, if you activate a trigger, you’ll see the following visual cue:
+ 
+SCREEN SHOT GOES HERE
 
 ## Access a website linked from the Step card
 
