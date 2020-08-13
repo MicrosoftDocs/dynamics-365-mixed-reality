@@ -27,19 +27,19 @@ You can [sign up for a free trial](https://aka.ms/autodesk_recap_photo_overview)
 
 The following tips will help you take quality photos for photogrammetry:
 
-- If you can, take photos in a location where lighting is consistent and doesn't cast shadows.
+- If possible, take photos in a location where lighting is consistent and doesn't cast shadows.
 
 - Try to keep your own shadow out of the picture.
 
 - Make sure that there are no moving objects in the background when you take the photos.
 
-- If the camera that you're using has a high dynamic range (HDR) setting, turn the feature off, and try not to adjust the exposure of your photographs while you capture images.
+- If the camera that you're using has a high dynamic range (HDR) setting, turn off the HDR feature. Don't try to adjust the exposure of your photographs while you capture images.
 
-- Take pictures about one meter apart while you circle the object.
+- Take pictures about 1 meter apart while you circle the object.
 
-- If you can, maintain a perpendicular location relative to the object while you take photos.
+- If possible, maintain a perpendicular location relative to the object while you take photos.
 
-- If the object is large, move in a lateral motion from one end of it to the other, and change the height at each pass, until you've captured all surfaces.
+- If the object is large, move in a lateral motion from one end of it to the other. Change the height at each pass, until you've captured all surfaces.
 
 ## Start a new project
 
@@ -128,15 +128,15 @@ The 3D model is now optimized and ready for export.
 
 ![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
 
-## Export the 3D model as an .obj file
+## Export the 3D model as OBJ file
 
-Before you can use the 3D model in a Dynamics 365 mixed-reality application, it must be in the GLB file format. In this step, you will export the model as an .obj file that can then be converted to a .glb file.
+Before you can use the 3D model in a Dynamics 365 mixed-reality application, it must be in the GLB file format. In this step, you will export the model as an OBJ file that can then be converted to a GLB file.
 
 1. On the left side of the editor page, select the **Export** button, and then select the **Export model** button to open the export settings.
 
     ![Export model button](media/recap-photo14.PNG "Export model button")
 
-2. In the **Export model** dialog box, in the **Export as** field, select **OBJ** as the export file type, and then, in the **Size** field, select **4096x4096** as the texture size. When you've finished, select **Export**.
+2. In the **Export model** dialog box, in the **Export as** field, select **OBJ** as the export file type. In the **Size** field, select **4096x4096** as the texture size. When you've finished, select **Export**.
 
     > [!NOTE]
     > Although you can select a larger or smaller texture size, be aware that the size will affect either performance or visual fidelity. 
@@ -149,9 +149,9 @@ Before you can use the 3D model in a Dynamics 365 mixed-reality application, it 
 
 The 3D model is exported to the folder that you selected.
 
-## Use Blender to convert the .obj file to a .glb file
+## Use Blender to convert the OBJ file to a GLB file
 
-There are several applications that you can use to convert an .obj file to a .glb file. This tutorial shows how to use Blender.
+There are several applications that you can use to convert an OBJ file to a GLB file. This tutorial shows how to use Blender.
 
 ### What is Blender?
 
@@ -180,9 +180,9 @@ If you use Blender to prepare your 3D models, review the information on the Blen
 
         ![Import OBJ button](media/recap-photo20.PNG "Import OBJ button")
 
-### Export the 3D model as a .glb file
+### Export the 3D model as a GLB file
 
-The last step is to export the model as a .glb file, so that it can be used with Dynamics 365 mixed-reality applications.
+The last step is to export the model as a GLB file, so that it can be used with Dynamics 365 mixed-reality applications.
 
 1. In Blender, on the **File** menu, select **Export** \> **glTF 2.0 (.glb/.gltf)**.
 
