@@ -2,14 +2,14 @@
 author: JBrentJ
 description: Describes, in tutorial format, how to use Autodesk Inventor to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.author: v-jerja
-ms.date: 12/23/2019
+ms.date: 08/13/2020
 ms.service: crm-online
 ms.topic: article
-title: Prepare Autodesk Inventor 3D models for use in mixed-reality apps
+title: Prepare Autodesk Inventor 3D models for use in mixed-reality applications
 ms.reviewer: v-brycho
 ---
 
-# Prepare Autodesk Inventor 3D models for use in mixed-reality apps
+# Prepare Autodesk Inventor 3D models for use in mixed-reality applications
 
 This tutorial shows how to prepare Autodesk Inventor files for use in Dynamics 365 mixed-reality apps.  
 

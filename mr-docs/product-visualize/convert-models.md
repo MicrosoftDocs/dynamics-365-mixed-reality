@@ -2,14 +2,14 @@
 author: JBrentJ
 description: Everything you need to know about converting 3D models
 ms.author: v-jerja
-ms.date: 01/08/2020
+ms.date: 08/13/2020
 ms.service: crm-online
 ms.topic: article
-title: Convert your 3D (CAD) models to use with mixed-reality apps
+title: Convert your 3D (CAD) models for using with mixed-reality applications
 ms.reviewer: v-brycho
 ---
 
-# Convert your 3D (CAD) models
+# Convert your 3D (CAD) models to use with mixed-reality applications
 
 To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. 
 

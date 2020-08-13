@@ -2,14 +2,14 @@
 author: JBrentJ
 description: Describes, in tutorial format, how to use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.author: v-jerja
-ms.date: 03/20/2020
+ms.date: 08/13/2020
 ms.service: crm-online
 ms.topic: article
-title: Use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality apps
+title: Use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality applications
 ms.reviewer: v-brycho
 ---
 
-# Use Dassault Systèmes SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality apps
+# Use Dassault Systèmes SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality applications
 
 There are several ways you can optimize 3D models for mixed reality by using Dassault Systèmes SOLIDWORKS. This tutorial provides easy-to-follow procedures for each of these methods. Some of the procedures are redundant, so you might not need to use them all. Experiment with each procedure and decide what best suits your use case.
 
