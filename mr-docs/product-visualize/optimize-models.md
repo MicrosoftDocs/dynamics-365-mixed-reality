@@ -5,11 +5,11 @@ ms.author: v-jerja
 ms.date: 01/08/2020
 ms.service: crm-online
 ms.topic: article
-title: Optimize your 3D models
+title: Optimize your 3D models for using with mixed-reality applications
 ms.reviewer: v-brycho
 ---
 
-# Optimize your 3D models
+# Optimize your 3D models to use with mixed-reality applications
 
 For best rendering and best possible real-time performance, your 3D models need to be converted and might need to be optimized. Third-party applications that convert CAD files often have tools that can optimize content as well. 
 

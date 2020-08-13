@@ -5,11 +5,11 @@ ms.author: v-jerja
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Best practices for converting and optimizing real-time 3D models
+title: Best practices for converting and optimizing 3D models
 ms.reviewer: v-brycho
 ---
 
-# Best practices for converting and optimizing real-time 3D models
+# Best practices for converting and optimizing 3D models
 
 This topic covers best practices for converting and optimizing 3D models to work with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications.
 
@@ -131,7 +131,7 @@ This topic covers best practices for converting and optimizing 3D models to work
    **A.**	Normal map baked from a 3D model with a normal-flipped screw<br>
    **B.**	The visible result of baking with a flipped normal object
 
-- If you don’t export tangents with your model, glTF and the real-time renderer will assume right-handedness.
+- If you don't export tangents with your model, glTF and the real-time renderer will assume right-handedness.
 
 - Export your model with tangents if you are baking tangent space normal maps in a left-handed setup. Alternatively, you could invert the green channel (Y axis) of your normal map.
 
