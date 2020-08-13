@@ -19,7 +19,7 @@ A single 3D model in Dynamics 365 Product Visualize consists of one or more laye
 > [!div class=mx-imgBorder]
 > ![Folder containing folders](media/nested-folder.png "Folder containing folders")
 
-You can create layers in a flattened or nested format by using CAD model design software tools. For more information about converting CAD models to use with Dynamics 365 Product Visualize, see [Convert your 3D (CAD) models with the Dynamics 365 Import Tool (Preview)](../import-tool/convert-models.md).
+You can create layers in a flattened or nested format by using CAD model design software tools. For more information about converting CAD models to use with Dynamics 365 Product Visualize, see [Convert your 3D (CAD) models](convert-models.md).
 
 ## Show or hide a layer
 
