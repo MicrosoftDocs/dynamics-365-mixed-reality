@@ -166,6 +166,16 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 | Images | PNG, JPG, JPEG, BMP, GIF, TIF | |
 | Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV | Keep your videos less than two minutes long and focused on one step at a time. |
 
+## Preview an image, video, or 3D model and view its properties
+
+You can preview an image, video, or 3D model on the right side of the PC app and access the **Step Editor** at the same time.
+
+1. Select the **Library** tab, and then select the image, video, or 3D model you want to preview.
+
+2. Select the **Properties** tab.
+
+    ![Properties tab for previewing image, video, or 3D model](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
+
 ## What's next?
 
 [Anchor your guide to the real world](anchor.md)<br>
