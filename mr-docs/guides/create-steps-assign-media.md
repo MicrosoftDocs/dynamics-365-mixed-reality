@@ -170,9 +170,7 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
 You can preview an image, video, or 3D model on the right side of the PC app and access the **Step Editor** at the same time.
 
-1. Select the **Library** tab, and then select the image, video, or 3D model you want to preview.
-
-2. Select the **Properties** tab.
+- Select (click or double-click) the image, video, or 3D model in the **Library**.
 
     ![Properties tab for previewing image, video, or 3D model](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
 
