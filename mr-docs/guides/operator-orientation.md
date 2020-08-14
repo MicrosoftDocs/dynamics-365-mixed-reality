@@ -36,7 +36,7 @@ Here's a description of the buttons and other UI elements on the Step card.
 | 4 | ![Settings button](media/settings-button.PNG "Settings button") | Settings | See the build of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you're using. |
 | 5 | ![Profile button](media/profile-button.PNG "Profile button") | Profile | Sign in and out. |
 | 6 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide. The following illustration shows the **Outline** page for a Pylon wiring guide.</p><p>![Outline page](media/outline-operator.PNG "Outline page")</p> |
-| 7 | ![Step counter](media/step-progress.png "Step progress") | Step counter | Shows what step you're on in the task. |
+| 7 | ![Step counter](media/step-progress.PNG "Step progress") | Step counter | Shows what step you're on in the task. |
 | 8 | ![Task name](media/task-name-table.PNG "Task name") | Task name | Shows the name of the task that you're working on. |
 
 ## Use a dotted line to help you find the focus area for a step
