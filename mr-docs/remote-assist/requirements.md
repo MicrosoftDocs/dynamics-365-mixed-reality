@@ -63,6 +63,47 @@ When using Remote Assist on mobile devices, a minimum of 1.2 Mbps up/down is req
 
 When using Remote Assist on HoloLens, a minimum of 1.5Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p at 30fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD quality video calling with resolution of HD 1080p, 4-5Mbps up/down should be expected. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
 
+### URLs and ports
+The following list contains the URL end points and TCP/UDP ports utilized by Remote Assist. All must be reachable from the Remote Assist client.
+
+#### Teams
+- *.registrar.skype.com
+- *.teams.microsoft.com
+- UDP: 3478, 3479, 3480, 3481
+
+#### Authentication
+- login.microsoft.com
+- login.microsoftonline.com
+- login.live.com
+- TCP: 80, 443
+
+#### Microsoft GraphExplorer
+- graph.microsoft.com
+- TCP: 80, 443
+
+#### Enterprise Configuration Service
+- ecs.office.com
+- TCP: 80, 443
+
+#### Dynamics Services
+- *.crm.dynamics.com
+- TCP: 80, 443
+
+#### Sharepoint / OneDrive
+- *.sharepoint.com
+- TCP: 80, 443
+
+#### Windows Notification Service
+- *.notify.windows.com
+- *.wns.windows.com
+- *.notify.live.net
+- TCP: 80, 443
+
+#### Connection Test
+- *.msftconnecttest.com
+- TCP: 80, 443
+
+
 ### Network optimization recommendations
 
 The following tasks serve as a checklist for other potential optimizations for Remote Assist:
