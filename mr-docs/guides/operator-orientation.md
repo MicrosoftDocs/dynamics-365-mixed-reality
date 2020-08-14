@@ -18,7 +18,7 @@ When you open a guide as an operator by using the [!include[pn-dyn-365-guides](.
 ![Step card with Next Step and Go Back buttons](media/pin.PNG "Step card with Next Step and Go Back buttons")
 
 > [!NOTE]
-> When you press the **Back** button in the Step card, it returns you to the most-recently visited step (similar to a web browser **Back** button). 
+> When you press the **Back** button in the Step card, it returns you to the most-recently-visited step (similar to a web browser **Back** button). 
 
 ## Get oriented with the Step card
 
