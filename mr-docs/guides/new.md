@@ -35,6 +35,9 @@ Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] ap
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/use-spatial-triggers-go-forward-or-backward-guide" target="_blank">Use spatial triggers to go forward or backward in a guide</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">New security roles to restrict access to guides</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Preview an image, video, or 3D model in the new Properties tab</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Back button behavior changed to return operator to the previously visited step</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Step card UI update</a> | No |
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
