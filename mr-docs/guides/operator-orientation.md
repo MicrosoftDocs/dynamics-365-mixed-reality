@@ -22,11 +22,11 @@ When you open a guide as an operator by using the [!include[pn-dyn-365-guides](.
 
 ## Get oriented with the Step card
 
-In addition to the **Next Step** and **Go Back** buttons, the Step card includes several buttons and user interface (UI) elements that help you perform various actions.
+In addition to the **Next** and **Back** buttons, the Step card includes several buttons and user interface (UI) elements that help you perform various actions.
 
 ![Step card buttons](media/operator-step-card-orientation.PNG "Step card buttons")
 
-Here is a description of the buttons and other UI elements on the Step card.
+Here's a description of the buttons and other UI elements on the Step card.
 
 | Number | UI element | Name | Purpose |
 |---|---|---|---|
@@ -35,10 +35,9 @@ Here is a description of the buttons and other UI elements on the Step card.
 | 3 | ![Anchor button](media/anchor-button.PNG "Anchor button") | Anchor button | Re-anchor (realign) the guide.<p>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking, which causes holograms to become misaligned. To fix this issue, you must re-anchor the guide by gazing at the anchor again. For more information, see the [Anchor your guide](operator-anchor.md).</p> |
 | 4 | ![Settings button](media/settings-button.PNG "Settings button") | Settings | See the build of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] that you're using. |
 | 5 | ![Profile button](media/profile-button.PNG "Profile button") | Profile | Sign in and out. |
-| 6 | ![Step progress](media/step-progress.png "Step progress") | Step progress | See where you are in the step. |
-| 7 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide. The following illustration shows the **Outline** page for a Pylon wiring guide.</p><p>![Outline page](media/outline-operator.PNG "Outline page")</p> |
-| 8 | ![Task name](media/task-name-table.PNG "Task name") | Task name | See the name of the task that you're working on. |
-| 9 | ![Task progress](media/task-progress.PNG "Task progress") | Task progress | See where you are in the task. |
+| 6 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide. The following illustration shows the **Outline** page for a Pylon wiring guide.</p><p>![Outline page](media/outline-operator.PNG "Outline page")</p> |
+| 7 | ![Step counter](media/step-progress.png "Step progress") | Step counter | Shows what step you're on in the task. |
+| 8 | ![Task name](media/task-name-table.PNG "Task name") | Task name | Shows the name of the task that you're working on. |
 
 ## Use a dotted line to help you find the focus area for a step
 
