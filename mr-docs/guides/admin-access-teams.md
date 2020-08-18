@@ -32,15 +32,15 @@ The process for limiting access includes these basic steps:
 
 This topic describes each of these steps in detail.
 
->[!NOTE]
->This article shows how to restrict access to the **Guides** entity. You can use the same steps to restrict access to other types of Dynamics 365 Guides records (3D models, images, or videos) to limit their visibility to certain users or teams.
+>[!IMPORTANT]
+>If you have already restricted access to guides or guides content by creating your own security role with reduced privileges, you’ll need to remove that security role and replace it with one of the built-in security roles as described in this article.
 
 ## Step 1: Assign the restricted security role
 
 To prevent a specific user from accessing all guides by default, change that user's security role to the **Dynamics 365 Guides Restricted Operator** role. Once assigned, they will be able to see only the guides that have been shared with them.
 
 > [!NOTE]
-> The steps outlined in this procedure show how to restrict operator privileges. You can restrict author privileges in a similar way.
+> The steps outlined in this procedure show how to restrict operator privileges. You can restrict author privileges in a similar way. This article also shows how to restrict access to the **Guides** entity. You can use the same steps to restrict access to other types of Dynamics 365 Guides records (3D models, images, or videos) to limit their visibility to certain users or teams. 
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the same Guides solution, select the **More environment actions** (**...**) button, and then select **Settings**.
 
