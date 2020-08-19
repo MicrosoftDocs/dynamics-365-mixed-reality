@@ -56,11 +56,13 @@ Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This to
 
     ![Finish setup](media/wizard-step4.png "Finish setup")
 
-10. On the **Let's get your FREE 30-day trial set up** page, select the scenarios you want, and then select **Complete Setup**.
+    After your account is created, you'll be redirected to [Power Platform admin center](https://admin.powerplatform.microsoft.com) to create a new environment.
 
-    ![Select scenarios and complete setup](media/trial-setup-page.png "Select scenarios and complete setup")
+10. In the **New environment** panel, enter the required details and select **Next**.
 
-    After setup is complete, you'll be redirected to your new Dynamics 365 instance. The URL is in the following format: &lt;custom\_domain\_name&gt;.crm.dynamics.com. In our example, the URL is `https://productvisualize.crm.dynamics.com`.
+11. In the **Add database** panel, verify the information, and select **Save**.
+
+    The environment and the database will be created. The state of the environment will be **PreparingInstance**. You must wait until it changes to **Ready**.
 
  > [!IMPORTANT]
  > In the following steps, you must use the credentials you created for your Dynamics 365 instance, if asked.
