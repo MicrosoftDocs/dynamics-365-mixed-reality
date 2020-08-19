@@ -1,16 +1,16 @@
 ---
 title: Review asset captures in the Dynamics 365 Remote Assist model-driven app
-author: bencorn
+author: dhgoelmsft
 description: Learn how to review captured asset data from the Dynamics 365 Remote Assist HoloLens app for validation purposes.
-ms.author: becorn
-ms.date: 07/01/2020
+ms.author: dhgoel
+ms.date: 08/19/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
 # Review asset captures in the Dynamics 365 Remote Assist model-driven app
 
-Captured asset data from HoloLens is saved to Common Data Service. From there, the data can be viewed from the Dynamics 365 Remote Assist model-driven app for validating work performed by technicians in the field, generating reports, and downloading artifacts like photos for use in other application.<!--Suggested.-->
+Captured asset data from HoloLens is saved to Common Data Service. From there, the data can be viewed from the Dynamics 365 Remote Assist model-driven app for validating work performed by technicians in the field, generating reports, and downloading artifacts like photos for use in other applications.
 
 In this tutorial, you'll learn how to access captured asset data through the Dynamics 365 Remote Assist model-driven app and download that data to your computer.
 

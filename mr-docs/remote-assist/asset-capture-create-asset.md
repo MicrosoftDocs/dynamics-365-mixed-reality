@@ -1,9 +1,9 @@
 ---
 title: Create a new asset record in Dynamics 365 Remote Assist
-author: bencorn
+author: dhgoelmsft
 description: Learn how to create new asset records in Dynamics 365 Remote Assist.
-ms.author: becorn
-ms.date: 07/01/2020
+ms.author: dhgoel
+ms.date: 08/19/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -13,14 +13,14 @@ ms.reviewer: krbjoran
 
 Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way for technicians to capture data in the field through Dynamics 365 Remote Assist, such as capturing annotated photos of a generator asset during an inspection. By guiding technicians to capture data to an asset record, you can ensure data is captured to the right place, in a consistent way, so people in your organization can easily locate and use that data. With continued use over time, the asset record becomes a historical record and audit trail showing how an asset changed over time, along with the work performed on the asset.
 
-In this tutorial, you'll learn how to create new asset records, import assets records from another system, and view asset records in the Dynamics 365 Remote Assist Unified Interface<!--Should this be "model-driven app"?--> app (on the web).
+In this tutorial, you'll learn how to create new asset records, import assets records from another system, and view asset records in the Dynamics 365 Remote Assist model-driven app (on the web).
 
 ## Prerequisites
 
 To complete this tutorial, you need:
 
 - **Access to the environment Dynamics 365 Remote Assist is installed in**. You'll be accessing the Dynamics 365 Remote Assist app to create a new record.
-- (Optional) **Access to the system where your asset data is currently stored**. This system could be a database, Excel workbook<!--Via Writing Style Guide-->, or other software.
+- (Optional) **Access to the system where your asset data is currently stored**. This system could be a database, Excel workbook, or other software.
 
 ## Create assets
 
@@ -29,23 +29,23 @@ Assets can be created:
 - Manually, through the Dynamics 365 Remote Assist app.
 - By importing data:
   - From an Excel workbook.
-  - Through a Microsoft Power Platform data integration project. (This option isn't covered in this tutorial.)<!--Suggested.-->
+  - Through a Microsoft Power Platform data integration project. (This option isn't covered in this tutorial.)
 
 ### Manually create customer assets
 
 From the main menu of your environment, select **Remote Assist** > **Assets** > **+ New**.
-<!--The alt text for the following images is too generic. Please make it descriptive.-->
-![Screenshot of the Dynamics 365 Remote Assist model-driven app.](./media/06.28-asset-list-new.png)
 
-![Screenshot of the Dynamics 365 Remote Assist model-driven app.](./media/AC_CreateAsset.png "Dynamics 365 Remote Assist app")
+![Screenshot of the Dynamics 365 Remote Assist model-driven app showing the "add new" option.](./media/06.28-asset-list-new.png)
+
+![Screenshot of the Dynamics 365 Remote Assist model-driven app, showing a customer asset.](./media/AC_CreateAsset.png "Dynamics 365 Remote Assist app")
 
 For these fields, do the following:
 
 - **Name**: Enter a reference name or title for the asset. This name can be the make and model of the asset, the name of the product in the product catalog, a general name like **HVAC Unit**, or it can even be descriptive information like **HVAC Unit 2nd Floor**.
 - **Category**: Add or create an asset category that serves as a label to organize assets into useful groups by function, model, and so on, based on your business needs.
-- **Service Account**: If you maintain the asset on behalf of a customer, choose an account from the lookup to represent the location and customer who owns<!--Edit okay?--> the asset.
+- **Service Account**: If you maintain the asset on behalf of a customer, choose an account from the lookup to represent the location and customer who owns the asset.
 - **Product**: Add the product that the asset correlates to, for example the make and model of a specific generator you maintain and operate.
-- **Parent Asset**: Dynamics 365 Remote Assist supports hierarchical asset structures. For example, a part can be the child of a widget, which is the child of a machine. You can have as many parent/child<!--Slash via Writing Style Guide.--> relationships as needed. Use this field to identify the direct parent of this asset. The **Master Asset** automatically shows the top-level parent in the relationship. Additionally, you can use the **Sub Asset** grid on the form to add child assets.
+- **Parent Asset**: Dynamics 365 Remote Assist supports hierarchical asset structures. For example, a part can be the child of a widget, which is the child of a machine. You can have as many parent/child relationships as needed. Use this field to identify the direct parent of this asset. The **Master Asset** automatically shows the top-level parent in the relationship. Additionally, you can use the **Sub Asset** grid on the form to add child assets.
 
 When you're done, select **Save**.
 
@@ -56,7 +56,7 @@ There are two ways to integrate your existing asset catalog for use in Dynamics 
 - Export your existing asset data to a CSV or Excel workbook and import the data to Common Data Service for use in Dynamics 365 Remote Assist.
 - Set up a data integration project to enable the flow of data between Dynamics 365 Remote Assist and your external data source (which automatically updates asset data).
 
-This tutorial will go through the steps for the first option.<!--Numbering the options implies that there's an order to them, so I recommend not using "option 1" here. --> If you want to learn more about data integration projects, see [Integrate data into Common Data Service](https://docs.microsoft.com/power-platform/admin/data-integrator).
+This tutorial will go through the steps exporting existing asset data into Common Data Service to use in Dynamics 365 Remote Assist. If you want to learn more about data integration projects, see [Integrate data into Common Data Service](https://docs.microsoft.com/power-platform/admin/data-integrator).
 
 #### Download the template
 

@@ -1,9 +1,9 @@
 ---
 title: Add users to the asset capture preview in Dynamics 365 Remote Assist
-author: bencorn
+author: dhgoelmsft
 description: Learn how to add users to the preview of asset capture.
-ms.author: becorn
-ms.date: 07/01/2020
+ms.author: dhgoel
+ms.date: 08/19/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran

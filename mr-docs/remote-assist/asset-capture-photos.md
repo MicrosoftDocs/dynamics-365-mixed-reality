@@ -1,16 +1,16 @@
 ---
 title: Capture asset conditions with spatial markup in Dynamics 365 Remote Assist
-author: bencorn
+author: dhgoelmsft
 description: How to capture asset conditions with spatial markup in Dynamics 365 Remote Assist on HoloLens
-ms.author: becorn
-ms.date: 07/01/2020
+ms.author: dhgoel
+ms.date: 08/19/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
 # Capture asset conditions with spatial markup in HoloLens
 
-You can use Dynamics 365 Remote Assist to capture procedures and defects during jobs such as an inspections or repairs<!--Suggested.-->. For example, a technician can use Dynamics 365 Remote Assist on HoloLens to capture photos of the equipment they're inspecting, to highlight defects like wear and corrosion. The photos can then be viewed and downloaded from the Dynamics 365 Remote Assist model-driven app by stakeholders within the organization, such as a service manager or site superintendent.
+You can use Dynamics 365 Remote Assist to capture procedures and defects during jobs such as an inspections or repairs. For example, a technician can use Dynamics 365 Remote Assist on HoloLens to capture photos of the equipment they're inspecting, to highlight defects like wear and corrosion. The photos can then be viewed and downloaded from the Dynamics 365 Remote Assist model-driven app by stakeholders within the organization, such as a service manager or site superintendent.
 
 In this tutorial, you'll learn how to use HoloLens to view asset records created from the Dynamics 365 Remote Assist model-driven app and capture photos of assets with spatial markup.
 
@@ -30,7 +30,7 @@ From Dynamics 365 Remote Assist, select **Settings** > **Preview Features**, and
 ![Screenshot of the settings page in Dynamics 365 Remote Assist to enable preview features](./media/08.01-settings-preview-features.png "Screenshot of the settings page in Dynamics 365 Remote Assist to enable preview features")
 
 > [!IMPORTANT]
-> Enabling the public preview replaces the snapshot tool available from the in-call toolbar with asset capture capabilities. This means that photos taken in Dynamics 365 Remote Assist will be saved to Common Data Service and will be accessible through the Dynamics 365 Remote Assist model-driven app versus<!--Writing Style Guide--> OneDrive for Business. You can disable the preview on HoloLens at any time by returning to **Settings**.
+> Enabling the public preview replaces the snapshot tool available from the in-call toolbar with asset capture capabilities. This means that photos taken in Dynamics 365 Remote Assist will be saved to Common Data Service and will be accessible through the Dynamics 365 Remote Assist model-driven app versus OneDrive for Business. You can disable the preview on HoloLens at any time by returning to **Settings**.
 
 ### View the asset list
 
@@ -46,7 +46,7 @@ Select the **Assets** tab. The list of assets entered through the Dynamics 365 R
 2. Select the ink or arrow tools to mark up the asset in your environment. For example, you can circle an area of corrosion on a pipe.
 3. Enable the **Camera** tool to start capturing photos. The camera tool remains enabled after you take a photo.
 ![Screenshot of the asset detail view in Dynamics 365 Remote Assist](./media/06.14-asset.png "Screenshot of the asset detail view in Dynamics 365 Remote Assist")
-4. Air-tap<!--I don't know what this means. Maybe we should add a definition to our style guide?--> or say the **Snap** voice command to take a picture of the asset with the spatial markup. The photo will be previewed for several seconds, and then saved to Common Data Service.
+4. Air-tap or say the **Snap** voice command to take a picture of the asset with the spatial markup. The photo will be previewed for several seconds, and then saved to Common Data Service.
 ![Screenshot of the camera mode enabled in Dynamics 365 Remote Assist](./media/06.10-photo-ready.png "Screenshot of the camera mode enabled in Dynamics 365 Remote Assist")
 
 Any existing photo can be selected in the asset view to preview in the HoloLens environment. If the current user took the photo, they can also delete that photo in the preview window.
