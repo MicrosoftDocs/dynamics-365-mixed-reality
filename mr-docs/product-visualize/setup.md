@@ -1,23 +1,22 @@
 ---
 title: Set up Dynamics 365 Product Visualize on a new Dynamics 365 instance
-description: Instructions to set up a Dynamics 365 instance and install the Dynamics 365 Product Visualize solution
+description: Instructions to set up a Dynamics 365 instance and install the Dynamics 365 Product Visualize app
+ms.date: 08/20/2020
+ms.topic: article
+ms.service: dynamics-365-sales
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 07/29/2020
-ms.service: crm-online
-ms.topic: article
-ms.reviewer:
 ---
 
 # Set up Dynamics 365 Product Visualize on a new Dynamics 365 instance
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This topic provides step-by-step instructions for setting up a new Dynamics 365 trial instance and installing the Dynamics 365 Product Visualize solution.
+Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This topic provides step-by-step instructions for setting up a new Dynamics 365 trial instance and installing the Dynamics 365 Product Visualize app.
 
 > [!NOTE]
-> If you have an existing Dynamics 365 instance, you can skip to [Step 2: Install the Dynamics 365 Product Visualize solution](#step-2-install-the-dynamics-365-product-visualize-solution) and start working with the solution immediately.
+> If you have an existing Dynamics 365 instance, you can skip to [Step 2: Install the Dynamics 365 Product Visualize app](#step-2-install-the-dynamics-365-product-visualize-app) and start working with the app immediately.
 
 ## Step 1: Get a Dynamics 365 trial instance
 
@@ -58,16 +57,26 @@ Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This to
 
     After your account is created, you'll be redirected to [Power Platform admin center](https://admin.powerplatform.microsoft.com) to create a new environment.
 
-10. In the **New environment** panel, enter the required details and select **Next**.
+10. In the **New environment** panel, enter the required information and select **Next**.
+
+    ![New environment details](media/create-new-env.png "New environment details")
 
 11. In the **Add database** panel, verify the information, and select **Save**.
 
-    The environment and the database will be created. The state of the environment will be **PreparingInstance**. You must wait until it changes to **Ready**.
+    ![Add database to the environment](media/add-database.png "Add database to the environment")
+
+    The environment and the database creation will take some time. When the environment is being created, the state of the environment will be **PreparingInstance**. 
+
+    ![New environment being prepared](media/env-creating.png "New environment being prepared")
+    
+    You must wait until it changes to **Ready**.
+
+    ![New environment created](media/env-created.png "New environment created")
 
  > [!IMPORTANT]
  > In the following steps, you must use the credentials you created for your Dynamics 365 instance, if asked.
 
-## Step 2: Install the Dynamics 365 Product Visualize solution
+## Step 2: Install the Dynamics 365 Product Visualize app
 
 1. Go to the [Dynamics 365 Product Visualize app](https://appsource.microsoft.com/en-us/product/dynamics-365/mscrm.d365_product_visualize?tab=Overview) on Microsoft AppSource.
 
@@ -77,17 +86,17 @@ Dynamics 365 Product Visualize requires an active Dynamics 365 instance. This to
 
     ![Select Continue to proceed with installation](media/continue-step-app.png "Select Continue to proceed with installation")
 
-    You'll be redirected to the `https://port.crm.dynamics.com` page.
+    You'll be redirected to [Power Platform admin center](https://admin.powerplatform.microsoft.com).
 
-4. Under **Add the application to Dynamics 365**, select both check boxes, and then select **Agree**.
+4. In the **Install Dynamics 365 Product Visualize** panel, select the environment you created in Step 1, select both check boxes, and then select **Install**.
 
-    ![Add the application to Dynamics 365](media/add-app-to-d365.png "Add the application to Dynamics 365")
+    ![Install Dynamics 365 Product Visualize app](media/install-pv-app.png "Install Dynamics 365 Product Visualize app")
 
-    You'll be redirected to the Dynamics 365 admin center.
+    You'll be redirected to the **Dynamics 365 apps** page.
 
-5. On the **Instances** tab, find the **Dynamics 365 Product Visualize** solution.
+5. Find the **Dynamics 365 Product Visualize** app, and check the status of it. If the status says **Installing**, wait until the status is changed to **Installed**.
 
-6. Check the status of the solution. If it says **Installation pending**, refresh the page until the status is changed to **Installed**.
+    ![Dynamics 365 Product Visualize app installed](media/pv-app-installed.png "Dynamics 365 Product Visualize app installed")
 
 ## What's next
 
@@ -95,5 +104,6 @@ After you've finished the setup process, you'll have a Dynamics 365 trial instan
 
 ### See also
 
+[Product Visualize Hub user guide](hub-user-guide.md)<br>
 [Dynamics 365 Product Visualize iOS app user guide](user-guide.md)<br>
 [FAQ](faq.md)
