@@ -29,8 +29,6 @@ manager: shujoshi
 
     ![Dynamics 365 Product Visualize Hub app](media/pv-hub-app.png "Dynamics 365 Product Visualize Hub app")
 
-    > [!NOTE]
-    > If you don't remember your domain name, go to [https://home.dynamics.com/](https://home.dynamics.com/) and sign in with your Dynamics 365 instance credentials. Select your app under **My apps**.
 
 ### See also
 
