@@ -1,7 +1,7 @@
 ﻿---
 title: Sign in to Dynamics 365 Product Visualize Hub
 description: Instructions for signing in to Dynamics 365 Product Visualize Hub.
-ms.date: 07/29/2020
+ms.date: 08/20/2020
 ms.topic: article
 ms.service: dynamics-365-sales
 author: sbmjais
@@ -13,16 +13,22 @@ manager: shujoshi
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-1.  Open a web browser, and enter the URL to your Dynamics 365 instance in the following format: &lt;domain\_name&gt;.crm.dynamics.com. For example, `https://productvisualize.crm.dynamics.com`
+1.  Go to [Power Platform admin center](https://admin.powerplatform.microsoft.com).
 
-2.  Enter your Dynamics 365 instance credentials, and sign in to see a list of published apps.
+2.  Enter your Dynamics 365 instance credentials, and sign in.
 
-3.  From the list of apps, select **Product Visualize Hub**.
+3. In the left pane, select **Environments**.
+
+4. On the **Environments** page, select your environment.
+
+5. On the toolbar at the top of the page, select **Open environment**.
+
+    ![Open environment](media/open-environment.png "Open environment")
+
+6.  From the list of apps, select **Product Visualize Hub**.
 
     ![Dynamics 365 Product Visualize Hub app](media/pv-hub-app.png "Dynamics 365 Product Visualize Hub app")
 
-    > [!NOTE]
-    > If you don't remember your domain name, go to [https://home.dynamics.com/](https://home.dynamics.com/) and sign in with your Dynamics 365 instance credentials. Select your app under **My apps**.
 
 ### See also
 
