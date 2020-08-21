@@ -15,13 +15,17 @@ After you create a trigger in the [Microsoft Dynamics 365 Guides PC app](pc-app-
 
 ## Create a trigger in the HoloLens app
 
-1.	Select an empty box in the bin.
+1. Select an empty box in the bin.
 
-2.	Select the **Triggers** category, and then select the type of trigger you want to create. For information on types of triggers, see [Create a trigger with the PC app](pc-app-trigger.md).
+2. Select the **Triggers** category.
+
+    SCREEN SHOT GOES HERE
+
+3. Select the type of trigger you want to create. For information on types of triggers, see [Create a trigger with the PC app](pc-app-trigger.md).
 
     SCREEN SHOT GOES HERE
  
-3.	The item is added to the bin and is ready to place in the real world.
+3. The item is added to the bin and is ready to place in the real world.
 
 ## Tips for placing and sizing triggers
 
