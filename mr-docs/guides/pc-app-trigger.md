@@ -39,6 +39,10 @@ There are two types of triggers:
  
 This reduces clutter for the operator and helps them focus on the task at hand.
 
+## When is a trigger activated?
+
+A trigger is activated when an operator's hand exits the trigger area. 
+
 ## Create a trigger 
 
 You create a trigger in the same way that you create any other hologram in the PC app. 
