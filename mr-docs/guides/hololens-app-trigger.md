@@ -21,7 +21,7 @@ After you create a trigger in the [Microsoft Dynamics 365 Guides PC app](pc-app-
 
     ![Trigger category in the Asset gallery](media/trigger-category-hololens-app.PNG "Trigger category in the Asset gallery")
 
-3. Select the type of trigger you want to create. For information on types of triggers, see [Create a trigger with the PC app](pc-app-trigger.md).
+3. Select the type of trigger (**Back**, **Invisible**, or **Next**) you want to create. For information on types of triggers, see [Create a trigger with the PC app](pc-app-trigger.md).
 
     ![Three types of triggers in Asset gallery](media/triggers-asset-gallery.PNG "Three types of triggers in Asset gallery")
  
