@@ -38,8 +38,8 @@ Here's what each button or UI element is used for.
 | 6 | ![Anchor button](media/anchor-button.PNG "Anchor button") | Anchor | Re-anchor (realign) your guide.<p>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this issue, you must re-anchor the guide by gazing at the anchor again.</p> |
 | 7 | ![Settings button](media/settings-button.PNG "Settings button") | Settings | Access the following setting:<ul><li>**Build number**. See the build that you're using.</li></ul> |
 | 8 | ![Profile button](media/profile-button.PNG "Profile button") | Profile | Sign in and out. |
-| 9 | ![Step progress](media/step-progress.png "Step progress") | Step progress | See where you are in the step. |
-| 10 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide.</p> |
+| 9 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide.</p> |
+| 10 | ![Step progress](media/step-progress.png "Step progress") | Step progress | See where you are in the step. |
 | 11 | ![Task name](media/task-name-table.PNG "Task name") | Task name | See the name of the task. |
 | 12 | ![Task progress](media/task-progress.PNG "Task progress") | Task Progress | See where you are in the open task. |
 | 13 | ![Gem](media/gem.png "Gem") | Gem | By dragging the gem, you can create a dotted line to draw attention to a focus area. |
