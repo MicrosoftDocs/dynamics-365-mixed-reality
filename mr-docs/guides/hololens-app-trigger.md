@@ -54,7 +54,7 @@ You can edit a trigger the same way you edit any other hologram in the HoloLens 
  
 3. Select **Duplicate** or **Delete**.
 
-    ![Edit Trigger dialog box](media/trigger-edit.PNG "Edit Trigger dialog box")
+    ![Edit Trigger dialog box](media/trigger-edit.png "Edit Trigger dialog box")
  
     > [!NOTE]
     > You can’t use styles or animations with visible or invisible triggers.
