@@ -55,6 +55,8 @@ You create a trigger in the same way that you create any other hologram in the P
 
     ![Triggers section in 3D toolkit](media/triggers-category-pc-app.PNG "Triggers section in 3D toolkit")
     
+After adding the trigger in the PC app, you can [place and test it in the HoloLens app](HoloLens-app-trigger.md)
+    
 ## What's next?
 
 [Place and test a trigger in the HoloLens app](HoloLens-app-trigger.md)
