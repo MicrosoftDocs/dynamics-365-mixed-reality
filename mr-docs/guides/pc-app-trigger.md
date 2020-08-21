@@ -53,7 +53,7 @@ You create a trigger in the same way that you create any other hologram in the P
 
 2. Open the **Triggers** section, and then drag the type of trigger (**Back**, **Invisible**, or **Next**) you want to the bin.
 
-    ![Triggers section in 3D toolkit(media/triggers-category-pc-app.PNG "Triggers section in 3D toolkit")
+    ![Triggers section in 3D toolkit](media/triggers-category-pc-app.PNG "Triggers section in 3D toolkit")
     
 ## What's next?
 
