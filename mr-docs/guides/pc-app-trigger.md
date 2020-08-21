@@ -26,14 +26,14 @@ triggers require HoloLens 2 hand detection.
 
 There are two types of triggers:
 
-- **Visible triggers.** Dynamics 365 Guides comes with pre-configured **Next** and **Back** buttons that you can place in the real world. Operators select a visible trigger with their finger to move forward or backward. 
+- **Visible triggers.** Dynamics 365 Guides comes with pre-configured **Next** and **Back** buttons that you can place in the real world. Operators select a visible trigger with their hand(s) to move forward or backward. The trigger is activated when the **operator's hand exits the trigger area**. 
 
     SCREEN SHOT GOES HERE
  
 > [!TIP]
 > You can add a dotted line to a visible trigger to tie it to a specific place in the real world.
 
-- **Invisible triggers.** An invisible trigger automatically advances an operator to the next step when the operator’s hand **exits the trigger** area. Operators don’t see any evidence of the trigger until they activate it, at which time they’ll see a light green box. 
+- **Invisible triggers.** An invisible trigger automatically advances an operator to the next step when the operator’s hand **exits the trigger area**. Operators don’t see any evidence of the trigger until they activate it, at which time they’ll see a light green box. 
 
     SCREEN SHOT GOES HERE
  
