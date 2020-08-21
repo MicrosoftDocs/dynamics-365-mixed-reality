@@ -40,7 +40,7 @@ Here's what each button or UI element is used for.
 | 8 | ![Profile button](media/profile-button.PNG "Profile button") | Profile | Sign in and out. |
 | 9 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide.</p> |
 | 10 | ![Step counter](media/step-progress.PNG "Step progress") | Step counter | See what step you're on in the task. |
-| 11 | ![Task name](media/task-name-table.PNG "Task name") | Task name | The name of the task you're on. |
+| 11 | ![Task name](media/task-name-hololoens-app.PNG "Task name") | Task name | The name of the task you're on. |
 | 12 | ![Gem](media/gem.png "Gem") | Gem | By dragging the gem, you can create a dotted line to draw attention to a focus area. |
 | 13 | (See the green rectangular area in the illustration.) | Bin | See the 3D parts (models) that can be added for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (computer-aided design \[CAD\] drawings) that you import to mimic 3D parts in your operator's real-world environment. |
 
