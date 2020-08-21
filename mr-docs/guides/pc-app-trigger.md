@@ -33,7 +33,7 @@ There are two types of triggers:
 > [!TIP]
 > You can add a dotted line to a visible trigger to tie it to a specific place in the real world.
 
-- **Invisible triggers.** An invisible trigger automatically advances an operator to the next step when the operator’s hand **exits the trigger area**. Operators don’t see any evidence of the trigger until they activate it, at which time they’ll see a light green box. 
+- **Invisible triggers.** An invisible trigger automatically advances an operator to the next step when the **operator’s hand exits the trigger area**. Operators don’t see any evidence of the trigger until they activate it, at which time they’ll see a light green box. 
 
     SCREEN SHOT GOES HERE
  
