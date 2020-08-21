@@ -94,9 +94,9 @@ You can place a 3D model from the 3D toolkit in the same way that you place a 3D
 
 1. Air tap an empty box in the bin.
 
-2. Air tap a category (for example, arrows or hands), and then air tap the specific 3D model that you want to add.
+2. Air tap a category (for example, **Arrows** or **Hands**), and then air tap the specific 3D model that you want to add.
 
-    ![Categories](media/step-card-hands.png "Categories")
+    ![Categories](media/step-card-hands.PNG "Categories")
 
     The item is added to your bin, and you can then place it in the same way that you place a 3D part.
 
