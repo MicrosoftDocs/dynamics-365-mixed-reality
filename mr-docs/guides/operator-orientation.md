@@ -88,7 +88,7 @@ There are two types of triggers:
 
 With either type of trigger, you receive visual and audio cues when you activate the trigger. This confirms that you’ve completed the step and are moving to the next step. For example, if you activate a trigger, you’ll see the following visual cue:
  
-![Example of visible trigger](media/trigger-visible.PNG "Example of visible trigger")
+![Example of Next Step cue in a trigger](media/trigger-next-step-cue.PNG "Example of Next Step cue in a trigger")
 
 ## Access a website linked from the Step card
 
