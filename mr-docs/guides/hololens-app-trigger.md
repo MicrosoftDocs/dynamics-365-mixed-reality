@@ -33,7 +33,9 @@ You can [place and size a trigger](hololens-app-orientation.md#place-your-hologr
 
 - **Position.** Place the trigger where the work happens at "working height" (above the belt). If you’re creating an invisible trigger, remember that the trigger is activated **when the operator’s hand exits the trigger cube**, so it’s a good idea to put the trigger in a location where the operator ends the action. You’ll need to test the trigger in **Operate** mode to make sure it behaves the way you expect.
 
-   Also, avoid placing triggers in drawers or under counters. If you can't see your hand, HoloLens 2 can't see it either. 
+   - Avoid placing triggers in drawers or under counters. If you can't see your hand, HoloLens 2 can't see it either. 
+
+   - Hand-tracking when hands are on a flat surface, such as a table top, is less accurate. 
 
 - **Size.** It’s important to make the trigger cube the right size. If you make the trigger too big, the operator might activate the trigger unexpectedly at the wrong time. If you make the trigger too small, the operator might miss it completely. The trigger needs to be big enough to place hands inside.
 
