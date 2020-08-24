@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app, and learn how to place holograms, add styles, and more.
 ms.author: mamaylya
-ms.date: 08/04/2020
+ms.date: 08/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
