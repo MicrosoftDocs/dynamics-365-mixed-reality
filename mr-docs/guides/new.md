@@ -16,7 +16,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!IMPORTANT]
 > Important info on upcoming mandatory update:
 >
-> After the October 27 release, all new Dynamics 365 Guides PC and HoloLens application releases will only work with the October 1, 2020 Common Data Service solution version 5.0 or later. 
+> After the October 27 release, all new Dynamics 365 Guides PC and HoloLens application releases will only work with the October 1, 2020 Common Data Service solution, version 5.0 or later. 
 >
 > You must upgrade the solution between October 1 and October 27 if you want to continue to use the latest HoloLens and PC applications. 
 > 
