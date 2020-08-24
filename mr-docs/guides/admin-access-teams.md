@@ -18,7 +18,7 @@ A Microsoft Dynamics 365 admin can use [access teams](https://docs.microsoft.com
 
 ## How access teams work with the Operator and Author user roles
 
-You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit guides or just use them. When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the built-in **Restricted Author** and **Restricted Operator** roles that are already set up in your Guides solution. Users assigned one of these roles will only have access to content that's explicitly shared with them. 
+You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit guides or just use them. When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles that are already set up in your Guides solution. Users assigned one of these roles will only have access to content that's explicitly shared with them. 
 
 ## Overall process for limiting access to a guide
 
