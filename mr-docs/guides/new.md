@@ -20,7 +20,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 >
 > This new Common Data Service solution is a foundational change for key features in upcoming releases.
 >
-> You can work with your IT admin to schedule installing this update. 
+> You can work with your IT admin to schedule installation of this update. 
 >
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
