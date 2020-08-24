@@ -27,7 +27,7 @@ You open the **Step Editor** page from the **Outline** page.
 
     ![Step Editor](media/step-editor.PNG "Step Editor")
 
-3. When you're ready to add another step, select **Add new step** in the upper-right corner of the page.
+3. When you're ready to add another step, select **Add step** in the upper-right corner of the page.
 
 ### Best practices for instructional text and supporting content
 
