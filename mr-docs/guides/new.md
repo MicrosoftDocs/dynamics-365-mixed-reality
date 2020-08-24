@@ -16,7 +16,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!IMPORTANT]
 > **Important info on upcoming mandatory update**. A mandatory upgrade to the Dynamics 365 Guides Common Data Service solution will be released on October 27, 2020, and will be required if you want to use the latest PC and HoloLens applications.
 >
-> Starting on October 1, you have 27 days to make the required solution update. After this 27-day period, ending October 27, 2020, all new PC and HoloLens application updates going forward will only work with the October 1, 2020 Common Data Service solution or later.
+> Starting on October 1, you have 27 days to make the required solution update. After this 27-day period, ending October 27, 2020, all new PC and HoloLens application updates  will only work with the October 1, 2020 Common Data Service solution or later.
 >
 > This new Common Data Service solution is a foundational change for key features in upcoming releases.
 >
