@@ -154,7 +154,7 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
     ![Images and Videos tabs](media/select-image-video.PNG "Images and Videos tabs")
 
-2. Drag the image or video to the **Image or video** box.
+2. Drag the image or video to the **Media panel** box.
 
     ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
     
