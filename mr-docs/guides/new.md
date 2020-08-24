@@ -14,15 +14,13 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!IMPORTANT]
-> An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution was released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.
+> **Important info on upcoming mandatory update**. A mandatory upgrade to the Dynamics 365 Guides Common Data Service solution will be released on October 27, 2020, and will be required if you want to use the latest PC/HoloLens applications.
 >
-> You must have the **System Administrator** role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. If you author a guide while the solution upgrade is in progress, the guide will become corrupted.
+> Starting on October 1, you have 27 days to make the required solution update. After this 27-day period, ending October 27, 2020, all new PC and HoloLens application updates going forward will only work with the October 1, 2020 Common Data Service solution or later.
 >
-> All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps that were released on or after May 26 will be backward-compatible only up to the April 28, 2020, version of the solution.
+> This new Common Data Service solution is a foundational change for key features in upcoming releases.
 >
-> If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact. You will be able to continue to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with your existing feature set.
->
-> To schedule a solution update, work with your IT admin.
+> You can work with your IT admin to schedule installing this update. 
 >
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
