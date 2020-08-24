@@ -158,8 +158,8 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
     ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
     
->[!NOTE]
-You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**. 
+> [!NOTE]
+> You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**. 
 
 ## What file formats are supported for 3D models, images, and videos?
 
