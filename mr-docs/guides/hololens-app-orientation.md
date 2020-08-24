@@ -55,7 +55,7 @@ After you're oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we
 
 You can add dotted lines (*tethers*) to link your Step cards to the areas where the work is done. These dotted lines show the operator where to focus.
 
-![Holographic dotted line](media/tether-example.png "Holographic dotted line")
+![Holographic dotted line](media/dotted-line.PNG "Holographic dotted line")
 
 ### Add a dotted line
 
