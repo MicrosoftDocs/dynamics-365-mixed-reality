@@ -173,11 +173,13 @@ You can preview the image or video on the right side of the screen by selecting 
 
 ## Preview an image, video, or 3D model and view its properties
 
-You can preview an image, video, or 3D model on the right side of the PC app and access the **Step Editor** at the same time.
+You can preview an image, video, or 3D model on the right side of the PC app and access the **Step Editor** at the same time. 
 
 - Select (click or double-click) the image, video, or 3D model in the **Library**.
 
     ![Properties tab for previewing image, video, or 3D model](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
+    
+    The image and its properties are displayed on the right side of the screen.
 
 ## What's next?
 
