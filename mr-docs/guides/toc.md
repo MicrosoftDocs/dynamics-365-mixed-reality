@@ -69,7 +69,7 @@
 #### [Use the dotted line to find a focus area](operator-dotted-line.md)
 #### [Use Follow mode and pinning](operator-follow-mode.md)
 #### [Use a trigger to move between steps](operator-trigger.md)
-#### [Access a website link](operator-website-link.md)
+#### [Open a website](operator-website-link.md)
 #### [Open an app in Power Apps](operator-powerapps-link.md)
 #### [Turn off holograms](operator-holograms-off.md)
 #### [Work offline](operator-offline-mode.md)
