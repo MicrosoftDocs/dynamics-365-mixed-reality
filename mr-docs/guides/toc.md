@@ -66,7 +66,7 @@
 ### [Anchor your guide](operator-anchor.md)
 ### Use the HoloLens app
 #### [Get oriented with the Step card](operator-step-card-orientation.md)
-#### [Use the dotted line to find a focus area](operator-dotted-line.md)
+#### [Use a dotted line to find a focus area](operator-dotted-line.md)
 #### [Use Follow mode and pinning](operator-follow-mode.md)
 #### [Use a trigger to move between steps](operator-trigger.md)
 #### [Open a website](operator-website-link.md)
