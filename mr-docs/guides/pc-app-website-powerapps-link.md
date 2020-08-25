@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to add a website or Power Apps link to a step in Microsoft Dynamics 365 Guides to create a seamless workflow for operators.
 ms.author: mamaylya
-ms.date: 04/28/2020
+ms.date: 08/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Add a website or Power Apps link to a step in Dynamics 365 Guides

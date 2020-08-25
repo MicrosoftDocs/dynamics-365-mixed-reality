@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Create steps and add 3D content or media to support those steps in the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 04/01/2020
+ms.date: 08/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Create steps and add 3D models or media in the Dynamics 365 Guides PC app
@@ -27,7 +27,7 @@ You open the **Step Editor** page from the **Outline** page.
 
     ![Step Editor](media/step-editor.PNG "Step Editor")
 
-3. When you're ready to add another step, select **Add new step** in the upper-right corner of the page.
+3. When you're ready to add another step, select **Add step** in the upper-right corner of the page.
 
 ### Best practices for instructional text and supporting content
 
@@ -100,6 +100,8 @@ To add a model from the 3D toolkit, follow these steps.
 
 - Use one of the hand poses when you want the operator to use his or her hand in a specific way to influence or manipulate something. There are various poses for specific interactions, such as Pull, Push, Pinch, and Grab. Combine these standard poses with arrows and/or icons to add additional meaning.
 
+- You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**.
+
 For more information about ways to use objects from the 3D toolkit, see [Create a great guide](great-guide.md).
 
 ## Add a 3D part
@@ -152,9 +154,12 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
     ![Images and Videos tabs](media/select-image-video.PNG "Images and Videos tabs")
 
-2. Drag the image or video to the **Image or video** box.
+2. Drag the image or video to the **Media panel** box.
 
     ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
+    
+> [!NOTE]
+> You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**. 
 
 ## What file formats are supported for 3D models, images, and videos?
 
@@ -165,6 +170,16 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 | 3D models | FBX, GLB, glTF, STL, PLY | Optimize your 3D models as much as possible, to help maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see [Convert CAD drawings to use as holograms](import-tool.md). |
 | Images | PNG, JPG, JPEG, BMP, GIF, TIF | |
 | Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV | Keep your videos less than two minutes long and focused on one step at a time. |
+
+## Preview an image, video, or 3D model and view its properties
+
+You can preview an image, video, or 3D model on the right side of the PC app and access the **Step Editor** at the same time. 
+
+- Select (click or double-click) the image, video, or 3D model in the **Library**.
+
+    ![Properties tab for previewing image, video, or 3D model](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
+    
+    The image and its properties are displayed on the right side of the screen.
 
 ## What's next?
 

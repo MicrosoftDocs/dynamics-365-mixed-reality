@@ -14,18 +14,33 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!IMPORTANT]
-> An update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Common Data Service solution was released on April 28, 2020. This update includes a foundational change to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data model that will enable new features in upcoming releases of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps.
+> Important info on upcoming mandatory update:
 >
-> You must have the **System Administrator** role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. If you author a guide while the solution upgrade is in progress, the guide will become corrupted.
+> After the October 27 release, all new Dynamics 365 Guides PC and HoloLens application releases will only work with the October 1, 2020 Common Data Service solution, version 5.0 or later. 
 >
-> All versions of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps that were released on or after May 26 will be backward-compatible only up to the April 28, 2020, version of the solution.
+> You must upgrade the solution between October 1 and October 27 if you want to continue to use the latest HoloLens and PC applications. 
+> 
+> This new Common Data Servcie solution is a foundational change for key features in upcoming releases of Dynamics 365 Guides. 
 >
-> If you choose not to update your PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution, there will be no impact. You will be able to continue to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with your existing feature set.
->
-> To schedule a solution update, work with your IT admin.
+> You can work with your IT admin to schedule installation of this update. 
 >
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
+
+## August 25, 2020
+
+Version 404.2008.19001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.4.31 include the following new features.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/use-spatial-triggers-go-forward-or-backward-guide" target="_blank">Use spatial triggers to go forward or backward in a guide</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">New security roles to restrict access to guides</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Preview an image, video, or 3D model in the new Properties tab</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Back button behavior changed to return operator to the previously visited step</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Step card UI update</a> | No |
+
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## August 4, 2020
 
@@ -44,9 +59,6 @@ This release also includes the following fixes and updates:
 - Addressed an issue that affected some PCs when the PC app was used to upload files.
 
 - Improvements to deeplink functionality and embedded links in QR codes for quick launch of a guide.
-
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## July 7, 2020
 

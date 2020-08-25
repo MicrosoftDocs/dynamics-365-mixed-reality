@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about the do's and don'ts for a successful mixed reality guide created in Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 08/25/2020
 ms.service: crm-online
 ms.topic: article
 title: How to make a good mixed reality guide in Dynamics 365 Guides

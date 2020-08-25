@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app, and learn how to place holograms, add styles, and more.
 ms.author: mamaylya
-ms.date: 08/04/2020
+ms.date: 08/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 After you anchor your guide in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app in **Author** mode, you will see the Step card page. The Step card is the hub of everything that you do with your guide. It's also what your operators see when they use the guide. The Step card follows the operators around to keep the instructions where they need them as they move around their workspace.
 
-You and your operators can move through a guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap.
+You and your operators can move through a guide by gazing at the **Next** and **Back** buttons. If you select the **Back** button, it returns you to the most-recently-visited step (similar to a web browser **Back** button). You can also use gestures such as air tap. 
 
 ![Moving through a guide](media/navigate-example.PNG "Moving through a guide")
 
@@ -38,12 +38,11 @@ Here's what each button or UI element is used for.
 | 6 | ![Anchor button](media/anchor-button.PNG "Anchor button") | Anchor | Re-anchor (realign) your guide.<p>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this issue, you must re-anchor the guide by gazing at the anchor again.</p> |
 | 7 | ![Settings button](media/settings-button.PNG "Settings button") | Settings | Access the following setting:<ul><li>**Build number**. See the build that you're using.</li></ul> |
 | 8 | ![Profile button](media/profile-button.PNG "Profile button") | Profile | Sign in and out. |
-| 9 | ![Step progress](media/step-progress.png "Step progress") | Step progress | See where you are in the step. |
-| 10 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide.</p> |
-| 11 | ![Task name](media/task-name-table.PNG "Task name") | Task name | See the name of the task. |
-| 12 | ![Task progress](media/task-progress.PNG "Task progress") | Task Progress | See where you are in the open task. |
-| 13 | ![Gem](media/gem.png "Gem") | Gem | By dragging the gem, you can create a dotted line to draw attention to a focus area. |
-| 14 | (See the green rectangular area in the illustration.) | Bin | See the 3D parts (models) that can be added for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (computer-aided design \[CAD\] drawings) that you import to mimic 3D parts in your operator's real-world environment. |
+| 9 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide.</p> |
+| 10 | ![Step counter](media/step-progress.PNG "Step progress") | Step counter | See what step you're on in the task. |
+| 11 | ![Task name](media/task-name-hololens-app.PNG "Task name") | Task name | The name of the task you're on. |
+| 12 | ![Gem](media/gem.png "Gem") | Gem | By dragging the gem, you can create a dotted line to draw attention to a focus area. |
+| 13 | (See the green rectangular area in the illustration.) | Bin | See the 3D parts (models) that can be added for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (computer-aided design \[CAD\] drawings) that you import to mimic 3D parts in your operator's real-world environment. |
 
 > [!NOTE]
 > Changes are automatically saved in the cloud as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the computer, to help guarantee that you have the latest version of the guide.
@@ -56,7 +55,7 @@ After you're oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we
 
 You can add dotted lines (*tethers*) to link your Step cards to the areas where the work is done. These dotted lines show the operator where to focus.
 
-![Holographic dotted line](media/tether-example.png "Holographic dotted line")
+![Holographic dotted line](media/dotted-line.PNG "Holographic dotted line")
 
 ### Add a dotted line
 
@@ -95,9 +94,9 @@ You can place a 3D model from the 3D toolkit in the same way that you place a 3D
 
 1. Air tap an empty box in the bin.
 
-2. Air tap a category (for example, arrows or hands), and then air tap the specific 3D model that you want to add.
+2. Air tap a category (for example, **Arrows** or **Hands**), and then air tap the specific 3D model that you want to add.
 
-    ![Categories](media/step-card-hands.png "Categories")
+    ![Categories](media/step-card-hands.PNG "Categories")
 
     The item is added to your bin, and you can then place it in the same way that you place a 3D part.
 
