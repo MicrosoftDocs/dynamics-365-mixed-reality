@@ -35,6 +35,7 @@
 #### [Anchor your guide to the real world](anchor.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
+#### [Create a trigger for step navigation](pc-app-trigger.md)
 #### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
 #### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
@@ -45,6 +46,7 @@
 #### [Install the app and sign in](install-sign-in-hololens-app.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
+#### [Create and place a trigger for step navigation](hololens-app-trigger.md)
 #### HoloLens gestures for authoring and navigating
 ##### [HoloLens 1](authoring-gestures.md)
 ##### [HoloLens 2](authoring-gestures-HL2.md)
