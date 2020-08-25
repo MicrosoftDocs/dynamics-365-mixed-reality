@@ -64,7 +64,7 @@
 #### [HoloLens 1](operator-gestures.md)
 #### [HoloLens 2](operator-gestures-HL2.md)
 ### [Anchor your guide](operator-anchor.md)
-### Operate your guide
+### Use the HoloLens app
 #### [Get oriented with the Step card](operator-step-card-orientation.md)
 #### [Use the dotted line to find a focus area](operator-dotted-line.md)
 #### [Use Follow mode and pinning](operator-follow-mode.md)
