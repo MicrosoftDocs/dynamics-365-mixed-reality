@@ -15,7 +15,7 @@ When you create a guide with the [!include[cc-microsoft](../includes/cc-microsof
 
 ![Worker attaching a QR code anchor to machine](media/anchor-overview.PNG "Worker attaching a QR code anchor to machine")
 
-It's crucial to ensure that your guide alignment is correct and as precise as possible. If the guide is misaligned, your instructions may show actions at incorrect locations, which can result in operator confusion or damage to parts.
+It's crucial to ensure that holograms are aligned as precise as possible. If holograms are misaligned, your instructions may show actions at incorrect locations, which can result in operator confusion or damage to parts.
 
 ## Three ways to anchor a guide
 
