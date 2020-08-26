@@ -2,7 +2,7 @@
 
 You can anchor a guide in Microsoft Dynamics 365 Guides by using a QR code anchor, circular code anchor, or holographic anchor. It's easy to change from one anchor type to another after creating an anchor. 
 
-1. In the **Outline** page, select the anchor at the top of the page, or select the **Anchor** button in the left navigation pane. The **Anchor** wizard is opened.
+1. In the **Outline** page, select the anchor at the top of the page, or select the **Anchor** button in the left navigation pane to open the **Anchor** wizard.
 
     ![Anchor button and anchor](media/change-anchor-method.PNG "Anchor button and anchor")
 
