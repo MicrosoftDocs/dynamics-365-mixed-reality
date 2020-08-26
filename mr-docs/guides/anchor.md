@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Anchor your holograms to the real world in Dynamics 365 Guides
 
-When you create a guide by using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, one of the first steps is to select an anchoring method. When you anchor a guide, you spatially synchronize with to your real-world environment (for example, a factory floor). Anchors help holograms determine where they are in the real world. You must create an anchor for your guide before it will work on [!include[pn-hololens](../includes/pn-hololens.md)].
+When you create a guide with the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, one of the first steps is to select an anchoring method. When you anchor a guide, you spatially synchronize with your real-world environment (for example, a factory floor). Anchors help holograms determine where they are in the real world. You must create an anchor for your guide before it will work on [!include[pn-hololens](../includes/pn-hololens.md)].
 
 ![Worker attaching a QR code anchor to machine](media/anchor-overview.PNG "Worker attaching a QR code anchor to machine")
 
