@@ -61,12 +61,11 @@ After creating the anchor in the PC app, you use the HoloLens app to anchor your
 
 ## What's next?
 
-[Structure your guide in the Outline page](structure-guide.md)<br>
-[Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
-[Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
-[Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)<br>
-[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
-[Deactivate a guide](pc-app-deactivate-guide.md)<br>
-[Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
-[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
-[Learn what makes a great mixed reality guide](great-guide.md)
+## What's next?
+
+[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)<br>
+[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)<br>
+[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)<br>
+[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)<br>
+[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)<br>
+[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)<br>
