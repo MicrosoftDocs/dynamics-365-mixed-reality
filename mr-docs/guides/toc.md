@@ -33,7 +33,7 @@
 #### [Create a guide](create-guide.md)
 #### [Rename a guide](pc-app-rename-guide.md)
 #### Anchor your guide to the real world
-##### [Overview](pc-app-anchor.md)
+##### [Overview of anchoring a guide with the PC app](pc-app-anchor.md)
 ##### [QR code anchor](pc-app-anchor-qr-code.md)
 ##### [Circular code anchor](pc-app-anchor-circular-code.md)
 ##### [Holographic anchor](pc-app-anchor-holographic.md)
