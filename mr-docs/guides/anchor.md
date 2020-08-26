@@ -40,6 +40,18 @@ There are three ways to anchor a guide:
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an **Anchor** wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
 
+## Overall process for creating anchors
+
+Ragardless of which type of anchor you want to create, you always start with the Anchor wizard in the PC app. Use the following links to learn how to create different types of anchors in the PC app.
+
+[Create a QR code anchor](pc-app-anchor-qr-code.md)<br>
+[Create a circular code anchor](pc-app-anchor-circular-code.md)<br>
+[Create a holographic anchor](pc-app-anchor-holographic.md)<br>
+
+After creating the anchor in the PC app, you use the HoloLens app to anchor your guide in the real world, whether you're an author or operator. Use the following table to learn how to create different types of anchors, and then use them to anchor a guide.
+
+
+
 ## Anchor your guide by using a QR code anchor
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](https://youtu.be/NhdBG3emNUs)
