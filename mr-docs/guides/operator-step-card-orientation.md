@@ -43,7 +43,6 @@ Here's a description of the buttons and other UI elements on the Step card.
 ## What's next?
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about operating a guide](https://aka.ms/guidesoperate)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Get oriented with the Step card](operator-step-card-orientation.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Learn about Follow mode and pinning](operator-follow-mode.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Learn about Follow mode and pinning](operator-follow-mode.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Learn about Follow mode and pinning](operator-follow-mode.md)<br>
