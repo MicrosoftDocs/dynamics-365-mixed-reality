@@ -1,3 +1,14 @@
+---
+author: Mamaylya
+description: Learn how to change anchor types (QR code, circular, or holographic) in the Microsoft Dynamics 365 Guides PC app
+ms.author: mamaylya
+ms.date: 10/01/2020
+ms.service: crm-online
+ms.topic: article
+title: Change from one anchor type to another in the Dynamics 365 Guides PC app
+ms.reviewer: v-brycho
+---
+
 # Change from one anchor type to another in the Dynamics 365 Guides PC app
 
 You can anchor a guide in Microsoft Dynamics 365 Guides by using a QR code anchor, circular code anchor, or holographic anchor. It's easy to change from one anchor type to another after creating an anchor. 
