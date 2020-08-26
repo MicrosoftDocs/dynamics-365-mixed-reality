@@ -32,7 +32,12 @@
 #### [Install the app and sign in](install-sign-in-pc-app.md)
 #### [Create a guide](create-guide.md)
 #### [Rename a guide](pc-app-rename-guide.md)
-#### [Anchor your guide to the real world](anchor.md)
+#### Anchor your guide to the real world
+##### [Overview](pc-app-anchor.md)
+##### [QR code anchor](pc-app-anchor-qr-code.md)
+##### [Circular code anchor](pc-app-anchor-circular-code.md)
+##### [Holographic anchor](pc-app-anchor-holographic.md)
+##### [Change anchor type](pc-app-anchor-change-type.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
