@@ -58,7 +58,7 @@ finished, select **Next** to move to the next step.
 
     ![Align HoloLens](media/qr-code-align-hololens.PNG "Align HoloLens")
 
-## Best practices for QR codes
+## Best practices for QR code anchors
 
 Keep the following points in mind when you work with QR code anchors:
 
