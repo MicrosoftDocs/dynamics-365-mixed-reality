@@ -15,7 +15,7 @@ If you ever feel that holograms are getting in the way when you're operating a g
 
 ![Eye symbol](media/dotted-line-toggle-visibility.PNG "Eye symbol")
 
-To turn them back on, gaze a the eye symbol again. 
+To turn them back on, gaze at the eye symbol again. 
 
 ## What's next?
 
