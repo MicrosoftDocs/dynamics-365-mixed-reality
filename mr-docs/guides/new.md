@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 08/10/2020
+ms.date: 08/26/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -20,9 +20,11 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 >
 > You must upgrade the solution between October 1 and October 27 if you want to continue to use the latest HoloLens and PC applications. 
 > 
-> This new Common Data Servcie solution is a foundational change for key features in upcoming releases of Dynamics 365 Guides. 
+> This new Common Data Service solution is a foundational change for key features in upcoming releases of Dynamics 365 Guides. 
 >
 > You can work with your IT admin to schedule installation of this update. 
+>
+> You must have the **System Administrator** role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. If you author a guide while the solution upgrade is in progress, **the guide will become corrupted**. 
 >
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
