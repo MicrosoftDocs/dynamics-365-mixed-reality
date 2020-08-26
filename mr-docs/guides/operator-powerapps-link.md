@@ -11,7 +11,10 @@ ms.reviewer: v-brycho
 
 # Open an app created in Power Apps from the Dynamics 365 Guides HoloLens app
 
-If a Step card in the Microsoft Dynamics 365 Guides HoloLens app includes a **Power Apps** button, you can open an app by selecting the button. The app is opened in a browser on HoloLens. When you close the browser, you return to the step. To run Power Apps from Dynamics 365 Guides, you must have a Power Apps license. You must also have permission to view the app that was created in Power Apps.
+If a Step card in the Microsoft Dynamics 365 Guides HoloLens app includes a **Power Apps** button, you can open an app by selecting the button. The app is opened in a browser on HoloLens. When you close the browser, you return to the step. 
+
+> [!IMPORTANT]
+> To run Power Apps from Dynamics 365 Guides, you must have a Power Apps license. You must also have permission to view the app that was created in Power Apps.
 
 ![Power Apps button](media/website-button-runtime.PNG "Power Apps button")
 
