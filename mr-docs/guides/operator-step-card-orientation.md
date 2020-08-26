@@ -45,7 +45,7 @@ Here's a description of the buttons and other UI elements on the Step card.
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about operating a guide](https://aka.ms/guidesoperate)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Get oriented with the Step card](operator-step-card-orientation.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn Follow mode off or on](operator-follow-mode.md)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use triggers to move between steps](operator-triggers.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use triggers to move between steps](operator-trigger.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Open a website from the Step card](operator-website-link.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Open an app in Power Apps from the Step card](operator-powerapps-link.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn holograms off and on](operator-holograms-off.md)<br>
