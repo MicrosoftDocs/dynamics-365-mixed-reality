@@ -1,4 +1,4 @@
-# Anchor your guide by using a circular code anchor in the Dynamics 365 Guides PC app
+# Anchor a guide in the Dynamics 365 Guides PC app by using a circular code anchor 
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a circular code anchor](https://aka.ms/guidesprintedanchor)
 
