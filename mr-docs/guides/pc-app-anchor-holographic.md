@@ -1,4 +1,4 @@
-# Anchor your guide in Dynamics 365 Guides by using a holographic anchor
+# Anchor your guide in the Dynamics 365 Guides PC app by using a holographic anchor
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a holographic anchor](https://aka.ms/guidesdigitalanchor)
 
