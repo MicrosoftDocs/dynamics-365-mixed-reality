@@ -1,15 +1,15 @@
 ---
 author: Mamaylya
-description: Learn how to anchor holograms in Microsoft Dynamics 365 Guides, and how to create a QR code anchor, circular code anchor, or holographic anchor.
+description: Learn how to anchor holograms in Microsoft Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 03/24/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
-title: Choose an anchoring method for your guide in Dynamics 365 Guides
+title: Anchor your holograms to the real world in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Anchor your guide to the real world in the Dynamics 365 Guides PC app
+# Anchor your holograms to the real world in Dynamics 365 Guides
 
 When you create a guide by using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, one of the first steps is to select an anchoring method. When you anchor a guide, you spatially synchronize with to your real-world environment (for example, a factory floor). Anchors help holograms determine where they are in the real world. You must create an anchor for your guide before it will work on [!include[pn-hololens](../includes/pn-hololens.md)].
 
