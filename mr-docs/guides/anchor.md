@@ -77,7 +77,7 @@ The following factors can also affect the accuracy of the anchor and/or user per
 
 [Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)<br>
 [Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)<br>
-[Create a holographic anchor in the PC app](pc-app-anchor-hologrpahic.md)<br>
+[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)<br>
 [Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)<br>
 [Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)<br>
 [Anchor your guide as an operator in the HoloLens app](operator-anchor.md)<br>
