@@ -21,14 +21,14 @@ It's crucial to ensure that holograms are aligned as precise as possible. If hol
 
 There are three ways to anchor a guide:
 
-- **QR code anchor (recommended)**. When you use a QR code anchor, you align a guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended, because it's the most accurate method, and you can print the anchor at different sizes. 
+- **QR code anchor (recommended)**. When you use a QR code anchor, you align your guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended, because it's the most accurate method, and you can print the anchor at different sizes. 
 
     > [!NOTE]
     > QR code anchoring isn't available on HoloLens 1 devices.
 
-- **Circular code anchor**. When you use a circular code anchor, you align a guide by gazing at a printed circular code anchor that's attached to a physical object in the real world. 
+- **Circular code anchor**. When you use a circular code anchor, you align your guide by gazing at a printed circular code anchor that's attached to a physical object in the real world. 
 
-- **Holographic anchor**. When you use a holographic anchor, you align a guide to a digital 3D hologram that's overlaid on a physical object in the real world. (Holographic anchors are referred to as digital anchors in earlier versions of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].) Here are some reasons why you might have to use a holographic anchor:
+- **Holographic anchor**. When you use a holographic anchor, you align your guide to a digital 3D hologram that's overlaid on a physical object in the real world. (Holographic anchors are referred to as digital anchors in earlier versions of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].) Here are some reasons why you might have to use a holographic anchor:
 
     - It isn't feasible to attach a QR code anchor or circular code anchor, because the location where the guide is authored differs from the location where the parts are.
 
