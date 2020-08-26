@@ -21,7 +21,7 @@ It's crucial to ensure that holograms are aligned as precise as possible. If hol
 
 There are three ways to anchor a guide:
 
-- **QR code anchor (recommended)**. When you use a QR code anchor, you align a guide by gazing at (scanning) a printed QR code anchor that is attached to a physical object in the real world. QR code anchoring is recommended, because it's the most accurate method, and you can print the anchor at different sizes. QR code anchors are new in the February 2020 release of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].
+- **QR code anchor (recommended)**. When you use a QR code anchor, you align a guide by gazing at a printed QR code anchor that's attached to a physical object in the real world. QR code anchoring is recommended, because it's the most accurate method, and you can print the anchor at different sizes. 
 
     > [!NOTE]
     > QR code anchoring isn't available on HoloLens 1 devices.
