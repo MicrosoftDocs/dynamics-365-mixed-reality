@@ -26,7 +26,7 @@ There are three ways to anchor a guide:
     > [!NOTE]
     > QR code anchoring isn't available on HoloLens 1 devices.
 
-- **Circular code anchor**. When you use a circular code anchor, you align a guide by gazing at a printed circular code anchor that's attached to a physical object in the real world. (Circular code anchors are referred to as printed anchors in earlier versions of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].)
+- **Circular code anchor**. When you use a circular code anchor, you align a guide by gazing at a printed circular code anchor that's attached to a physical object in the real world. 
 
 - **Holographic anchor**. When you use a holographic anchor, you align a guide to a digital 3D hologram that is overlaid on a physical object in the real world. (Holographic anchors are referred to as digital anchors in earlier versions of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].) Here are some reasons why you might have to use a holographic anchor:
 
