@@ -40,8 +40,14 @@ Here's a description of the buttons and other UI elements on the Step card.
 | 8 | ![Task name](media/task-name-table.PNG "Task name") | Task name | Shows the name of the task that you're working on. |
 | 9 | ![Action button](media/action-button.PNG "Action button") | Action button | Opens a website or Power Apps link. |
 
-
-## See also
+## What's next?
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about operating a guide](https://aka.ms/guidesoperate)<br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Calibrate your HoloLens](https://docs.microsoft.com/windows/mixed-reality/calibration)
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Get oriented with the Step card](operator-step-card-orientation.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Learn about Follow mode and pinning](operator-follow-mode.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Learn about Follow mode and pinning](operator-follow-mode.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Learn about Follow mode and pinning](operator-follow-mode.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Learn about Follow mode and pinning](operator-follow-mode.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Learn about Follow mode and pinning](operator-follow-mode.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Learn about Follow mode and pinning](operator-follow-mode.md)<br>
+![Doc graphic](media/doc-icon.PNG "Doc graphic") [Learn about Follow mode and pinning](operator-follow-mode.md)<br>
