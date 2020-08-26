@@ -1,4 +1,4 @@
-# Anchor your guide by using a QR code anchor
+# Anchor a guide in Dynamics 365 Guides by using a QR code anchor
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](https://youtu.be/NhdBG3emNUs)
 
