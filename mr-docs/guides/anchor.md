@@ -30,15 +30,13 @@ There are three ways to anchor a guide:
 
 - **Holographic anchor**. When you use a holographic anchor, you align your guide to a digital 3D hologram that's overlaid on a physical object in the real world. You might have to use a holographic anchor if:
 
-    - It isn't feasible to attach a QR code anchor or circular code anchor, because the location where the guide is authored differs from the location where the parts are.
+    - It isn't feasible to attach a QR code anchor or circular code anchor because the guide is authored in a different location than where the parts are.
 
     - It isn't feasible to attach a QR code anchor or circular code anchor because of moving parts.
 
     - You can't guarantee that the placement of the QR code anchor or circular code anchor will be the same every time.
 
-    - A part is too small to attach a QR code anchor or circular code anchor to it.
-
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes an **Anchor** wizard that makes it easy to select and set up the most appropriate anchor type for your situation.
+    - A part is too small to attach a QR code anchor or circular code anchor.
 
 ## Overall process for creating anchors
 
@@ -50,7 +48,7 @@ Ragardless of which type of anchor you want to create, you always start with the
 
 After creating the anchor in the PC app, you use the HoloLens app to anchor your guide in the real world, whether you're an author or operator. Use the following links to learn how to anchor a guide, depending on whether you're an author or an operator:
 
-[Anchor a guide as an author](hololens-app-anchor.md)<br>
+[Anchor a guide if you're an author](hololens-app-anchor.md)<br>
 [Anchor a guide if you're an operator](operator-anchor.md)
 
 ### How HoloLens establishes anchor position, scale, and orientation
