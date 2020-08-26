@@ -28,7 +28,7 @@ There are three ways to anchor a guide:
 
 - **Circular code anchor**. When you use a circular code anchor, you align a guide by gazing at a printed circular code anchor that's attached to a physical object in the real world. 
 
-- **Holographic anchor**. When you use a holographic anchor, you align a guide to a digital 3D hologram that is overlaid on a physical object in the real world. (Holographic anchors are referred to as digital anchors in earlier versions of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].) Here are some reasons why you might have to use a holographic anchor:
+- **Holographic anchor**. When you use a holographic anchor, you align a guide to a digital 3D hologram that's overlaid on a physical object in the real world. (Holographic anchors are referred to as digital anchors in earlier versions of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)].) Here are some reasons why you might have to use a holographic anchor:
 
     - It isn't feasible to attach a QR code anchor or circular code anchor, because the location where the guide is authored differs from the location where the parts are.
 
