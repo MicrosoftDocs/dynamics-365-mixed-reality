@@ -2,6 +2,8 @@
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](https://youtu.be/NhdBG3emNUs)
 
+You can anchor your guide to the real world in Microsoft Dynamics 365 Guides by using a QR code anchor, circular code anchor, or holographic anchor. This article shows how to anchor a guide with a QR code anchor. [Learn about other types of anchors](pc-app-anchor.md).
+
 The process of creating a QR code anchor involves four basic steps:
 
 1. Use the **Anchor** wizard to select the QR code anchor method.
