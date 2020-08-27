@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app, and learn how to place holograms, add styles, and more.
 ms.author: mamaylya
-ms.date: 08/25/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
@@ -238,6 +238,34 @@ To duplicate a model, follow these steps.
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Duplicate** directly with your finger. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
+    
+## Copy and paste a 3D model's position
+
+You might want to duplicate a 3D model and keep the same position, orientation, and scale for different steps of a guide. This is especially useful for fully digital guides for which instructions are placed on top of the holographic version of a machine, that must be present and identical on several steps. 
+
+To replicate the 3D position properties (position, orientation and scale) of a 3D model:
+
+1. Select the hologram that has the position, orientation, and scale that you want to copy.
+
+2. Select the **Edit Hologram** (pencil) button.
+
+    SCREEN SHOT GOES HERE
+ 
+3. Select **Copy 3D position** or say **XXX** to use the voice command. [See a full list of voice commands that you can use in the HoloLens app](voice-commands.md).
+ 
+    SCREEN SHOT GOES HERE
+
+    > [!TIP]
+    > The 3D position parameters are copied to the Clipboard so you can paste them as many times as you want in the same or a different step or guide. The Clipboard is cleared when you close the HoloLens app.
+
+4. Select the target hologram.
+
+5. Select the **Edit Hologram** button again, and then select **Paste 3D position** or say **XXX** to use the voice command.
+
+    SCREEN SHOT GOES HERE
+ 
+> [!NOTE]
+> The reference point used by **Copy 3D position** is the pivot point of the object, which might be different from the center of the transparent white-bounding sphere shown for selection and movement purposes. This enables you to rapidly reconstruct Computer-aided Design (CAD) assemblies that you import into Dynamics 365 Guides as separate models and that share the same pivot point. After importing, position, orient, and scale one of the assembly models, and then copy/paste the 3D position onto the other assembly models to reconstruct the whole CAD assembly very quickly. 
 
 ## Turn off animations
 
