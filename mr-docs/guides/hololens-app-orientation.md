@@ -243,7 +243,7 @@ To duplicate a model, follow these steps.
 
 You might want to duplicate a 3D model and keep the same position, orientation, and scale for different steps of a guide. This is especially useful for fully digital guides for which instructions are placed on top of the holographic version of a machine, that must be present and identical on several steps. 
 
-To replicate the 3D position properties (position, orientation and scale) of a 3D model:
+To replicate the 3D position properties (position, orientation, and scale) of a 3D model:
 
 1. Select the hologram that has the position, orientation, and scale that you want to copy.
 
