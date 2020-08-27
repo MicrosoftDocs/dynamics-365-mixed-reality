@@ -27,6 +27,19 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
 
+## October 1, 2020
+
+Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version XXX include the following new features.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/create-guides-that-support-branching-flows" target="_blank">Create guides that support non-linear (branching) workflows </a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/extend-analytics-capabilities-guides-insights" target="_blank">Extend analytics capabilities with new time-tracking entities </a> | Yes |
+
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
 ## August 25, 2020
 
 Version 404.2008.19001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.4.31 include the following new features.
@@ -38,9 +51,6 @@ Version 404.2008.19001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Preview an image, video, or 3D model in the new Properties tab</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Back button behavior changed to return operator to the previously visited step</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Step card UI update</a> | No |
-
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## August 4, 2020
 
