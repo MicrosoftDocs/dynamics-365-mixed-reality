@@ -118,10 +118,14 @@ Keep the following points in mind when working with QR code anchors:
     
     - Bubblejet printers produce a better matte finish.
 
-- **Size**. You can print QR codes in multiple sizes. For best detection and scanning comfort, we recommend printing the provided anchor with a width of 101 mm to 400 mm. This recommendation is for any QR code anchor following Version 1 QR codes. Anchor sizes outside of this recommended range might result in detection failure or reduced alignment precision for version 1 QR codes.
+- **Size**. You can print QR codes in multiple sizes. For best detection and scanning comfort, we recommend printing the provided anchor with a width of **101 mm to 400 mm**. This recommendation is for any QR code anchor following Version 1 QR codes. Anchor sizes outside of this recommended range might result in detection failure or reduced alignment precision for version 1 QR codes.
 
     > [!NOTE]
     > If you use your own QR code anchor, refer to QRCode.com for additional advanced QR code documentation. QR codes other than version 1 can increase the number of modules, which decreases their relative size. We recommend printing your anchor at a size where each independent module side measures a minimum of 3.5 mm.
+    
+    Anchors that are smaller than the recommended size impact the user experience while scanning. Due to the position of the QR scanning cameras, users need to aim below the anchor and may need to get uncomfortably close for scanning to succeed. Smaller sizes are also sensitive to variable lighting conditions. Any small reflective highlights on the anchor might cause a smaller anchor to have more of the information obscured, making the anchor unreadable.
+
+    Anchors that are larger than the recommended size require users to move father away from the anchor. Scanning from a greater distance results in decreased accuracy. 
 
 - **Position**. Make sure that the anchor is always positioned flat. Do **not** distort it or place it on a curved surface. Otherwise, alignment and detection will be 
 negatively affected.
