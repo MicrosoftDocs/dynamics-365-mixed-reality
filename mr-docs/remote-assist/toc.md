@@ -5,7 +5,7 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
 ## Deploy licenses and tenants
-### [Common Deployment Scenarios](deploy-remote-assist-need-real-link.md)
+### [Common deployment scenarios](deploy-remote-assist-need-real-link.md)
 ### [Deploy Remote Assist in your tenant](deploy-remote-assist.md)
 ### [Set up Teams](set-up-teams.md)
 ### [Multi-tenant collaboration](multi-tenant-deployment.md)
