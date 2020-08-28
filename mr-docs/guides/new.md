@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 08/10/2020
+ms.date: 08/27/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -20,9 +20,11 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 >
 > You must upgrade the solution between October 1 and October 27 if you want to continue to use the latest HoloLens and PC applications. 
 > 
-> This new Common Data Servcie solution is a foundational change for key features in upcoming releases of Dynamics 365 Guides. 
+> This new Common Data Service solution is a foundational change for key features in upcoming releases of Dynamics 365 Guides. 
 >
 > You can work with your IT admin to schedule installation of this update. 
+>
+> You must have the **System Administrator** role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. If you author a guide while the solution upgrade is in progress, **the guide will become corrupted**. 
 >
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
@@ -47,10 +49,10 @@ Version 404.2008.19001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/use-spatial-triggers-go-forward-or-backward-guide" target="_blank">Use spatial triggers to go forward or backward in a guide</a> | Yes |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">New security roles to restrict access to guides</a> | Yes |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Preview an image, video, or 3D model in the new Properties tab</a> | No |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Back button behavior changed to return operator to the previously visited step</a> | No |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Step card UI update</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/new-security-roles-restrict-access-guides" target="_blank">New security roles to restrict access to guides</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/preview-image-video-or-3d-model-new-properties-tab" target="_blank">Preview an image, video, or 3D model in the new Properties tab</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/back-button-behavior-changed-return-operator-previously-visited-step" target="_blank">Back button behavior changed to return operator to the previously visited step</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/step-card-ui-update" target="_blank">Step card UI update</a> | No |
 
 ## August 4, 2020
 
