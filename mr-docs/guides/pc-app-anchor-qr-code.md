@@ -13,7 +13,18 @@ ms.reviewer: v-brycho
 
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch a video about creating a QR code anchor](https://youtu.be/NhdBG3emNUs)
 
-You can anchor your guide to the real world in Microsoft Dynamics 365 Guides by using a QR code anchor, circular code anchor, or holographic anchor. This article shows how to anchor a guide with a QR code anchor, which is the recommended for best accuracy. [Learn about other types of anchors and when to use them](pc-app-anchor.md).
+You can anchor your guide to the real world in Microsoft Dynamics 365 Guides by using a QR code anchor, circular code anchor, or holographic anchor. This article shows how to anchor a guide with a QR code anchor. QR code anchoring is recommended because:
+
+- You can use the QR code that comes with Dynamics 365 Guides or any other QR code that you already own.
+
+- You can print the anchor in various sizes (but be sure to always use the same size for the same guide).
+
+- You can embed a link to a guide (deep link) in a QR code. This makes it quicker for the operator to open the appropriate guide.
+
+In certain cases, you may need to use a circular code or holographic anchor, however. [Learn about other types of anchors and when to use them](pc-app-anchor.md). 
+
+> [!IMPORTANT]
+> Anchoring a guide with a QR code requires HoloLens 2. This feature is not available on HoloLens 1.
 
 ## Overall process for creating a QR code anchor
 
@@ -71,7 +82,13 @@ finished, select **Next** to move to the next step.
 
 ## Best practices for QR code anchors
 
-Keep the following points in mind when you work with QR code anchors:
+Keep the following points in mind when working with QR code anchors:
+
+- **Printing settings**. Make sure to print the anchor on matte stock and don't laminate it.
+
+    - Glossy materials can negatively affect scanning due to reflected light.
+    
+    - Bubblejet printers produce a better matte finish.
 
 - **Position**. Make sure that the anchor is always positioned flat. Do **not** distort it or place it on a curved surface. Otherwise, alignment and detection will be 
 negatively affected.
