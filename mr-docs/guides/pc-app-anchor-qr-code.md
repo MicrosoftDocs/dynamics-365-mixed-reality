@@ -82,7 +82,7 @@ finished, select **Next** to move to the next step.
 
 ## QR code anchor configuration
 
-The following illustration shows the different parts of the provided QR code anchor:
+The following illustration shows the different parts of the QR code anchor (see step 3 in the previous procedure) provided with Dynamics 365 Guides:
 
 ![QR code illustration](media/qr-code-anchor-dissected.PNG "QR code illustration")
 
