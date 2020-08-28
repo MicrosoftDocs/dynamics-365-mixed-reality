@@ -66,7 +66,7 @@ The following factors can affect the accuracy of the anchor and/or user percepti
 
 - **Interpupillary distance (IPD) setting.** IPD is the distance between the center of the user's pupils. Because different users might have different IPDs, it's crucial that the appropriate IPD be set, so that [!include[pn-hololens](../includes/pn-hololens.md)] can adapt its display. An incorrect IPD setting can cause inaccurate perception. It can also cause instability of holograms in space. 
 
-    To calibrate your IPD on **HoloLens 2** make sure to go through the eye calibration app when prompted. This will not only calibrate IPD but will also auto-correct hologram position in case the device moves on the user's head. 
+    To calibrate your IPD on **HoloLens 2**, make sure to go through the eye calibration app when prompted. This will not only calibrate IPD but will also auto-correct hologram position in case the device moves on the user's head. 
 
     To calibrate your IPD on **[!include[pn-hololens](../includes/pn-hololens.md)] 1**, [use the HoloLens Calibration app](https://docs.microsoft.com/windows/mixed-reality/calibration).
 
