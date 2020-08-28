@@ -90,6 +90,11 @@ Keep the following points in mind when working with QR code anchors:
     
     - Bubblejet printers produce a better matte finish.
 
+- **Size**.You can print QR codes in multiple sizes. For best detection and scanning comfort, we recommend printing the provided anchor with a width of 101 mm to 400 mm. This recommendation is for any QR code anchor following Version 1 QR codes. Anchor sizes outside of this recommended range might result in detection failure or reduced alignment precision for version 1 QR codes.
+
+    > [!NOTE]
+    > If you use your own QR code anchor, refer to QRCode.com for additional advanced QR code documentation. QR codes other than version 1 can increase the number of modules, which decreases their relative size. We recommend printing your anchor at a size where each independent module side measures a minimum of 3.5 mm.
+
 - **Position**. Make sure that the anchor is always positioned flat. Do **not** distort it or place it on a curved surface. Otherwise, alignment and detection will be 
 negatively affected.
 
