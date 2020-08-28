@@ -1,16 +1,16 @@
 # Dynamics 365 Remote Assist
 ## [Overview](ra-overview.md)
-
-## Setup
-### [Requirements](requirements.md)
+## [Requirements](requirements.md)
+## Acquire licenses
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
-### [Deploy Remote Assist](deploy-remote-assist.md)
+## Deploy licenes and tenants
+### Common Deployment Scenarios  
+### [Deploy Remote Assist in your tenant](deploy-remote-assist.md)
 ### [Set up Teams](set-up-teams.md)
-### Advanced deployment scenarios 
 #### [Multi-tenant collaboration](multi-tenant-deployment.md)
-#### [Vendors and contractors use Remote Assist](vendor-use-RA.md)
-#### [Vendors and contractors use Teams](vendor-use-teams.md)
+#### [Vendors and customers join one-time call](vendor-use-RA.md)
+#### [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
 
 ## Remote Assist on Hololens and HoloLens 2
 ### [Overview](overview-hololens.md)
@@ -42,6 +42,7 @@
 ### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
 ### [Make calls with devices with AR support](mobile-app/making-calls-with-AR.md)
 ### [Make calls with devices without AR support](mobile-app/using-devices-without-AR.md)
+### [Set up one-time calls (public preview)]
 ### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
