@@ -243,9 +243,6 @@ To duplicate a model, follow these steps.
 
 You might want to duplicate a 3D model and keep the same position, orientation, and scale for different steps of a guide. This is especially useful for fully digital guides for which instructions are placed on top of the holographic version of a machine, that must be present and identical on several steps. 
 
-> [!NOTE]
-> The reference point used by **Copy 3D position** is the pivot point of the object, which might be different from the center of the transparent white-bounding sphere shown for selection and movement purposes. This enables you to rapidly reconstruct Computer-aided Design (CAD) assemblies that you import into Dynamics 365 Guides as separate models and that share the same pivot point. After importing, position, orient, and scale one of the assembly models, and then copy/paste the 3D position onto the other assembly models to reconstruct the whole CAD assembly very quickly. 
-
 To replicate the 3D position properties (position, orientation, and scale) of a 3D model:
 
 1. Select the hologram that has the position, orientation, and scale that you want to copy.
@@ -269,6 +266,10 @@ To replicate the 3D position properties (position, orientation, and scale) of a 
  
 > [!TIP]
 > You can also use voice commands (say **copy 3D position** and **paste 3D position**) at any time to speed up the process. [See a full list of voice commands that you can use in the HoloLens app](voice-commands.md).
+
+### Uinsg Copy 3D position to reconstruct CAD assemblies
+
+The reference point used by **Copy 3D position** is the pivot point of the object, which might be different from the center of the transparent white-bounding sphere shown for selection and movement purposes. This enables you to rapidly reconstruct Computer-aided Design (CAD) assemblies that you import into Dynamics 365 Guides as separate models and that share the same pivot point. After importing, position, orient, and scale one of the assembly models, and then copy/paste the 3D position onto the other assembly models to reconstruct the whole CAD assembly very quickly. 
 
 ## Turn off animations
 
