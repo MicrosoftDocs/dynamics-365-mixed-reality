@@ -159,7 +159,10 @@ The purpose of the configuration record is to notify HoloLens about the view tha
 
 1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), and sign in as an admin for the instance.
 
-2. In the left pane, select **Apps**, and then select **Guides**.
+2. In the left pane, select **Apps**, and then select **Guides**. This opens the Guides model-driven app.
+
+    > [!NOTE]
+    > The Guides model-driven app is not intended to be a replacement for the PC/HoloLens authoring applications. Be careful when you create, update, or delete records using the Guides model-driven app as it may prevent users from using the PC/HoloLens applications in an intended and supported way (for example, whether a guide can be opened correctly in the applications).
 
     ![Select Guides](media/custom-view-apps-guides.PNG "Select Guides")
 
