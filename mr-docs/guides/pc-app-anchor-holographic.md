@@ -96,3 +96,9 @@ without encountering any obstructions.
 
     - Always look at the holographic anchor from multiple angles to make sure that it's aligned to the physical object.
 
+## What's next?
+
+[Create a QR code anchor](pc-app-anchor-qr-code.md)<br>
+[Create a circular code anchor](pc-app-anchor-circular-code.md)<br>
+[Anchor your guide if you're an author](hololens-app-anchor.md)<br>
+[Anchor your guide if you're an operator](operator-anchor.md)<br>
