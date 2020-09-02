@@ -24,7 +24,7 @@ To do this:
 3.	Select the Guides app in the list. This opens a new tab for the Guides model-driven app.
 
     > [!NOTE]
-    > The Guides model-driven app is not intended to be used as a replacement for authoring with the PC and HoloLens apps. If you create, update, or delete records using the model-driven app, you might make the PC or HoloLens apps non-functional, or prevent users from using the apps in the intended way. Modification by way of the model-driven app is not fully supported at this time and should be reserved for experienced Dynamics 365 developers familiar with the Common Data Service.
+    > The Guides model-driven app is not intended to be used as a replacement for authoring with the PC and HoloLens apps. If you create, update, or delete records using the model-driven app, you might make Guides non-functional, or prevent users from using the PC or HoloLens apps in the intended way. Modification by way of the model-driven app is not fully supported at this time and should be reserved for experienced Dynamics 365 developers familiar with the Common Data Service.
 
 4.	In the left navigation, go to **User Settings.**
 
