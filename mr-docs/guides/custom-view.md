@@ -52,9 +52,9 @@ The remaining sections of this topic describe each step in detail.
 
     ![powerapps.microsoft.com](media/custom-view-powerapps.PNG "powerapps.microsoft.com")
     
-2. Select the instance where the Dynamics 365 Guides solution is installed from the top right.
+2. In the **Environments** pane on the right side of the screen, select the instance where the Dynamics 365 Guides solution is installed (the instance you want to add the custom tab to).
 
-
+    ![Environments pane showing instances](media/custom-view-select-instance1.PNG "Environments pane showing instances")
 
 2. In the left pane, select **Data**, and then select **Entities**. Then select **New entity**.
 
