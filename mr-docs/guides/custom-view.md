@@ -48,9 +48,13 @@ The remaining sections of this topic describe each step in detail.
 > [!NOTE]
 > If you want to use an existing entity instead of creating a new entity, skip ahead to the [Step 2: Create the view](#step-2-create-the-view) section.
 
-1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), open the instance that you want to work with, and sign in by using your admin credentials.
+1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com) and sign in as an admin.
 
     ![powerapps.microsoft.com](media/custom-view-powerapps.PNG "powerapps.microsoft.com")
+    
+2. Select the instance where the Dynamics 365 Guides solution is installed from the top right.
+
+
 
 2. In the left pane, select **Data**, and then select **Entities**. Then select **New entity**.
 
