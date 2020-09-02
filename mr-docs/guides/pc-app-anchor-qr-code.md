@@ -164,3 +164,7 @@ negatively affected.
     - If you have trouble detecting an anchor that you provide, try to adjust the anchor's image brightness so that it matches the average environmental brightness around the 
     anchor.
 
+## What's next?
+
+Anchor a guide by using a circular code anchor
+Anchor a guide by using a holographic anchor
