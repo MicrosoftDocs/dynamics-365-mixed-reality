@@ -90,32 +90,32 @@ finished, select **Next** to move to the next step.
 
 Keep the following points in mind when you work with circular code anchors:
 
-- **Material surface.** Be sure to print the anchor on matte stock, and don't laminate it. Glossy materials can negatively affect scanning because of reflected light. Also, 
+- **Material surface.** Make sure to print the anchor on matte stock, and don't laminate it. Glossy materials can negatively affect scanning due to reflected light. Also, 
 make sure that the anchor is flat. An anchor that is curved or distorted can affect alignment and detection.
 
-- **Same anchor for authoring and printing.** For the best accuracy, use the same circular code anchor for authoring and operating.
+- **Same anchor for authoring and printing.** For best accuracy, use the same circular code anchor for authoring and operating.
 
-- **Size.** Make sure that your circular code anchor is the exact size that is indicated in this topic. Incorrect anchor size causes misalignment of the guide.
+- **Size.** Make sure that your anchor is the exact size indicated in this article. Incorrect anchor size will cause guide misalignment.
 
     - Some applications and printers might change the size of the image.
 
     - If the anchor is larger than indicated, [!include[pn-hololens](../includes/pn-hololens.md)] interprets the scale difference in distance. Therefore, the anchor is 
     identified as closer than it really is.
 
-    - The best way to make sure that the anchor isn't resized is to print it from the PDF file, as described earlier in this topic.
+    - The best way to make sure that the anchor isn't resized is to print it from the PDF file, as described earlier in this article.
 
-- **Location.** Place the anchor in a location on the physical object that is easy to access and out of the way.
+- **Location.** Place the anchor in a location on the physical object that's easy to access and out of the way.
 
-    - Ideally, the anchor placement should be central to the steps that are being performed.
+    - Ideally, anchor placement should be central to the steps being done.
 
     - Content placed farther away from the anchor will be less accurate.
 
     - Place the anchor where operators can quickly rescan to realign at any time.
-
-    - Ideally, the anchor should not be moved after the author places it. If a permanent placement isn't possible, consider creating a mount, so that the anchor can be 
+    
+    - Ideally, the anchor should not be moved after the author places it. If a permanent placement isn't possible, consider creating a mount so that the anchor can be 
     consistently placed in the same location/orientation every time.
 
-    - Take a photo or video to document the circular code anchor placement, and add it to the guide instructions. In this way, you can help increase operator confidence. For 
+    - Take a photo or video to document the anchor placement, and add it to the guide instructions to help increase operator confidence. For 
     information about how to capture a photo or video from [!include[pn-hololens](../includes/pn-hololens.md)], see 
     [Mixed reality capture](https://docs.microsoft.com/windows/mixed-reality/mixed-reality-capture).
 
