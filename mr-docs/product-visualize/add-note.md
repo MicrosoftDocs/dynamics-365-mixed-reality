@@ -4,7 +4,7 @@ description: Learn how to add notes (including text, drawings, and video) to a 3
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 07/29/2020
+ms.date: 09/07/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -117,14 +117,14 @@ A video allows you to capture more details about your customers' requirements. Y
 
 3. Continue with adding a message to your note.
 
-## View the notes attached to a model
+## View the notes added to a model
 
 1.	After placing the model, tap **Notes** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes. 
+2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
 
     If you want to see a larger view of the notes&mdash;which is useful if you can't see all the text in the notes card&mdash;tap the expand arrow in the upper-right corner of the notes card, or flick up. 
 
@@ -135,6 +135,9 @@ A video allows you to capture more details about your customers' requirements. Y
 
     > [!div class=mx-imgBorder]
     > ![Expanded notes](media/expanded-notes.png "Expanded notes")
+
+    > [!NOTE]
+    > If you've attached a PDF or added a URL to a note from the Product Visualize Hub app, they'll be visible in the iOS app.
 
 ## Export a note
 
