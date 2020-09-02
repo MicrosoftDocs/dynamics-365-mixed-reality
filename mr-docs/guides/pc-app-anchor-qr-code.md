@@ -166,5 +166,7 @@ negatively affected.
 
 ## What's next?
 
-Anchor a guide by using a circular code anchor
-Anchor a guide by using a holographic anchor
+[Create a circular code anchor](pc-app-anchor-circular-code.md)<br>
+[Create a holographic anchor](pc-app-anchor-holographic.md)<br>
+[Anchor your guide if you're an author](hololens-app-anchor.md)<br>
+[Anchor your guide if you're an operator](operator-anchor.md)<br>
