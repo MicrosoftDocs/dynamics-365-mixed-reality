@@ -166,8 +166,8 @@ The purpose of the configuration record is to notify HoloLens about the view tha
 2. In the left pane, select **Apps**, and then select **Guides**. This opens the Guides model-driven app.
 
     > [!NOTE]
-    > The Guides model-driven app is not intended to be a replacement for the PC/HoloLens authoring applications. Be careful when you create, update, or delete records using the Guides model-driven app as it may prevent users from using the PC/HoloLens applications in an intended and supported way (for example, whether a guide can be opened correctly in the applications).
-
+    > The Guides model-driven app is not intended to be used as a replacement for authoring with the PC and HoloLens apps. If you create, update, or delete records using the model-driven app, you might make the PC or HoloLens apps non-functional, or prevent users from using the apps in the intended way. Modification by way of the model-driven app is not fully supported at this time and should be reserved for experienced Dynamics 365 developers familiar with the Common Data Service.
+    
     ![Select Guides](media/custom-view-apps-guides.PNG "Select Guides")
 
 3. In the left pane, under **Configuration**, select **Guides View**, and then select **New**.
