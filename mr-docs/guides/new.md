@@ -29,6 +29,10 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
 
+## September 2, 2020
+
+Version 404.2009.2003 of the PC app and version 404.2009.2004 of the HoloLens app fixed a bug introduced in the August 25 release that prevented some guides from opening and displayed a misleading error message. You don't need to update the Dynamics 365 Guides solution to get this update.
+
 ## August 25, 2020
 
 Version 404.2008.19001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.4.31 include the following new features.
