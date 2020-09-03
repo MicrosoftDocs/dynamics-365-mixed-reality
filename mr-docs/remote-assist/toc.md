@@ -60,6 +60,7 @@
 ### Version history
 #### [Remote Assist HoloLens](version-history-remote-assist-hololens.md)
 #### [Remote Assist mobile](version-history-remote-assist-mobile.md)
+### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
 ### Metadata references
 #### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
 #### [msdyn_customerassetattachment entity reference](msdyn_customerassetattachment.md)
@@ -77,4 +78,4 @@
 ### [Dynamics 365 Remote Assist iOS Mobile license terms](../legal/remote-assist-mobile-iOS.md)
 ### [Third-party notices](../legal/remote-assist-third-party-notice.md)
 ### [iOS and Android third-party notices](../legal/ios-android-third-party.md)
-### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
+
