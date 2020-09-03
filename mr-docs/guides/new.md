@@ -2,7 +2,7 @@
 author: makamat
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: makamat
-ms.date: 08/27/2020
+ms.date: 09/03/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
