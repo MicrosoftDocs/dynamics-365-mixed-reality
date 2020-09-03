@@ -21,12 +21,12 @@ To do this:
 
 2.	In the tenant/instance drop-down, select the instance that has Dynamics 365 Guides installed.
 
-3.	Select the Guides app in the list. This opens a new tab for the Guides model-driven app.
+3.	Select the Guides app in the list. A new tab for the Guides model-driven app is opened.
 
     > [!NOTE]
-    > The Guides model-driven app is not intended to be used as a replacement for authoring with the PC and HoloLens apps. If you create, update, or delete records using the model-driven app, you might make Guides non-functional, or prevent users from using the PC or HoloLens apps in the intended way. Modification by way of the model-driven app is not fully supported at this time and should be reserved for experienced Dynamics 365 developers familiar with the Common Data Service.
+    > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Common Data Service.
 
-4.	In the left navigation, go to **User Settings.**
+4.	In the left navigation, go to **User Settings**.
 
     ![User Settings](media/data-opt-out-user-setting.PNG "User Settings")
  
