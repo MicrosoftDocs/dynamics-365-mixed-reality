@@ -33,6 +33,9 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 Version 404.2009.2003 of the PC app and version 404.2009.2004 of the HoloLens app fixed a bug introduced in the August 25 release that prevented some guides from opening and displayed a misleading error message. You don't need to update the Dynamics 365 Guides solution to get this update.
 
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
 ## August 25, 2020
 
 Version 404.2008.19001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 400.0.4.31 include the following new features.
@@ -44,9 +47,6 @@ Version 404.2008.19001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/preview-image-video-or-3d-model-new-properties-tab" target="_blank">Preview an image, video, or 3D model in the new Properties tab</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/back-button-behavior-changed-return-operator-previously-visited-step" target="_blank">Back button behavior changed to return operator to the previously visited step</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/step-card-ui-update" target="_blank">Step card UI update</a> | No |
-
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## August 4, 2020
 
