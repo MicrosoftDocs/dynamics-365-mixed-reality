@@ -48,13 +48,13 @@ The remaining sections of this topic describe each step in detail.
 > [!NOTE]
 > If you want to use an existing entity instead of creating a new entity, skip ahead to the [Step 2: Create the view](#step-2-create-the-view) section.
 
-1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com) and sign in as an admin.
+1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), and sign in as an admin.
 
     ![powerapps.microsoft.com](media/custom-view-powerapps.PNG "powerapps.microsoft.com")
     
-2. In the **Environments** pane on the right side of the screen, select the instance where the Dynamics 365 Guides solution is installed (the instance you want to add the custom tab to).
+2. In the **Environments** pane on the right side of the page, select the instance where the Dynamics 365 Guides solution is installed (the instance that you want to add the custom tab to).
 
-    ![Environments pane showing instances](media/custom-view-select-instance1.PNG "Environments pane showing instances")
+    ![List of instances in the Environments pane](media/custom-view-select-instance1.PNG "List of instances in the Environments pane")
 
 2. In the left pane, select **Data**, and then select **Entities**. Then select **New entity**.
 
@@ -163,10 +163,10 @@ The purpose of the configuration record is to notify HoloLens about the view tha
 
 1. Go to [https://powerapps.microsoft.com](https://powerapps.microsoft.com), and sign in as an admin for the instance.
 
-2. In the left pane, select **Apps**, and then select **Guides**. This opens the Guides model-driven app.
+2. In the left pane, select **Apps**, and then select **Guides** to open the Guides model-driven app.
 
     > [!NOTE]
-    > The Guides model-driven app is not intended to be used as a replacement for authoring with the PC and HoloLens apps. If you create, update, or delete records using the model-driven app, you might make Guides non-functional, or prevent users from using the PC or HoloLens apps in the intended way. Modification by way of the model-driven app is not fully supported at this time and should be reserved for experienced Dynamics 365 developers familiar with the Common Data Service.
+    > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Common Data Service.
     
     ![Select Guides](media/custom-view-apps-guides.PNG "Select Guides")
 
