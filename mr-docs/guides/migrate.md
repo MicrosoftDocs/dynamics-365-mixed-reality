@@ -42,7 +42,7 @@ The tool supports the following types of migration.
 
 - You must use [Windows PowerShell](https://docs.microsoft.com/powershell/scripting/install/installing-windows-powershell?view=powershell-7#how-to-check-the-version-of-powershell) version 5.1.18362.752 or later.
 
-- Both the source instance and the destination instance must use Dynamics 365 Guides solution version 400.0.0 or later. Make sure that the destination instance is on the same or newer version than the source instance.
+- Both the source instance and the destination instance must use Dynamics 365 Guides solution version 400.0.0 or later. Make sure that the destination instance is on the same version as, or a newer version than, the source instance.
 
 - You must have credentials to sign in to the source instance in the **System Admin** role (preferable) or **Operator/Author** role (required).
 
