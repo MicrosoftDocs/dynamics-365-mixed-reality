@@ -137,3 +137,5 @@ For dialog boxes, read the label of the button (for example, say "Yes" or "No").
 | ![Undo button](media/undo-button.png "Undo button") | "Undo changes" | Undo the last change. |
 | ![Redo button](media/redo-button.png "Redo button") | "Redo changes" | Redo the last change. |
 | ![Save button](media/save-button.png "Save button") | "Save guide" | Save your most recent changes. |
+|None|"Copy 3D position"|Copy the 3D position (position, orientation, and scale) of a hologram to use with another hologram.|
+|None|"Paste 3D position"|Paste the 3D position (position, orientation, and scale) of a hologram onto another hologram.|
