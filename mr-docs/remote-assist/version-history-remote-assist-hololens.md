@@ -1,5 +1,6 @@
 ---
-title: "Remote Assist HoloLens version history | MicrosoftDocs"
+title: "Dynamics 365 Remote Assist HoloLens version history | MicrosoftDocs"
+description: Version history for Dynamics 365 Remote Assist HoloLens
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
 ms.date: 07/30/2020
@@ -26,7 +27,7 @@ search.app:
   - MRRA
 ---
 
-# Remote Assist HoloLens version history
+# Dynamics 365 Remote Assist HoloLens version history
 
 ## HoloLens 1 & 2 – 211.2007.30002
 
@@ -37,7 +38,7 @@ Date: August 2020
 - Fix for the files shared from Microsoft Teams not downloading on HoloLens. 
 - Fix for the "Snap" voice command not taking a photo in some cases.
 - Fix for when the user answers a call from the shell and it takes them to the contacts screen rather than joining the call. 
-- Fix for the Remote Assist video card appearing too close after the call has ended. 
+- Fix for the Dynamics 365 Remote Assist video card appearing too close after the call has ended. 
 - Improved application reliability. 
 
 ## HoloLens 1 & 2 – 210.2007.1003.0
@@ -46,13 +47,13 @@ Date: July 2020
 
 ### Bug fixes
 
--	A Remote Assist HoloLens user using GCC High can successfully join a meeting
+-	A Dynamics 365 Remote Assist HoloLens user using GCC High can successfully join a meeting
 -	Fixed bug in group calls on HoloLens 1 where remote collaborators are unable to annotate from Microsoft Teams client   
--	Fixed issue with video sharing when a Remote Assist HoloLens user rejoins a meeting
+-	Fixed issue with video sharing when a Dynamics 365 Remote Assist HoloLens user rejoins a meeting
 -	Improved experience for using near-field and far-field interactions to manage (for example, resize, move) holographic windows (for example, video card, undocked chat window)
--	Fixed issue regarding CDS instance selection for the Remote Assist solution from HoloLens
+-	Fixed issue regarding CDS instance selection for the Dynamics 365 Remote Assist solution from HoloLens
 -	Addressed an issue where file shared through Teams text chat would sometimes not show up on HoloLens
--	Fixed positioning of Holographic pop ups (for example, teaching card, prompt to save snapshot to Field Service booking) to appear in front of Remote Assist main menu and video card
+-	Fixed positioning of Holographic pop ups (for example, teaching card, prompt to save snapshot to Field Service booking) to appear in front of Dynamics 365 Remote Assist main menu and video card
 -	Voice command fixes to select the snapshot tool and take a snapshot
 -	Fixed issue with the call recording button not toggling as expected in the HoloLens app
 -	Fixed issue around saving and uploading of asset images while viewing asset list
@@ -72,7 +73,7 @@ Date: June 2020
 - Fixed bug with the snapshot tool where the camera cursor would appear in the resulting photo
 - Various near-field / far-field interaction fixes
 - Fixed bug where the outgoing video feed may not work when answering a call from the HoloLens shell
-- Various fixes to enable users in Egypt to use Remote Assist
+- Various fixes to enable users in Egypt to use Dynamics 365 Remote Assist
 - Incoming calls are now supported for GCC High and DOD
 
 ## HoloLens 1 & 2 – 208.2004.1002.0
@@ -93,4 +94,4 @@ Date: April 2020
 
 ## Locate your version number
 
-To find which version of Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
+To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.

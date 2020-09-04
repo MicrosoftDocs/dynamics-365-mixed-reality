@@ -4,17 +4,17 @@
 ## Setup
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist.md)
-### [Buy Remote Assist](buy-remote-assist.md)
-### [Deploy Remote Assist](deploy-remote-assist.md)
+### [Buy Dynamics 365 Remote Assist](buy-remote-assist.md)
+### [Deploy Dynamics 365 Remote Assist](deploy-remote-assist.md)
 ### [Set up Teams](set-up-teams.md)
 ### Advanced deployment scenarios 
 #### [Multi-tenant collaboration](multi-tenant-deployment.md)
-#### [Vendors and contractors use Remote Assist](vendor-use-RA.md)
+#### [Vendors and contractors use Dynamics 365 Remote Assist](vendor-use-RA.md)
 #### [Vendors and contractors use Teams](vendor-use-teams.md)
 
-## Remote Assist on Hololens and HoloLens 2
+## Dynamics 365 Remote Assist on Hololens and HoloLens 2
 ### [Overview](overview-hololens.md)
-### [Launch Remote Assist](launch-hololens.md)
+### [Launch Dynamics 365 Remote Assist](launch-hololens.md)
 ### [Make and take calls](making-taking-calls-hololens.md)
 ### [Join a meeting](join-meeting-hololens.md)
 ### [Adjust what you see](adjust-what-you-see-hololens.md)
@@ -26,7 +26,7 @@
 ### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
 ### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
 ### [Close the app](close-app-hololens.md)
-### [Review tutorial of Remote Assist](review-tutorial-hololens.md)
+### [Review tutorial of Dynamics 365 Remote Assist](review-tutorial-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
 ### Asset capture (public preview)
 #### [Overview](asset-capture-overview.md)
@@ -37,7 +37,7 @@
 #### [Review asset captures](asset-capture-review.md)
 #### [Automate asset capture data](integrate-power-automate.md)
 
-## Remote Assist mobile
+## Dynamics 365 Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
 ### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
 ### [Make calls with devices with AR support](mobile-app/making-calls-with-AR.md)
@@ -51,24 +51,24 @@
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
-## Collaborate in Microsoft Teams with Remote Assist users 
-### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
-### [Collaborate with Remote Assist user via Teams on mobile](teams-mobile-all.md)
+## Collaborate in Microsoft Teams with Dynamics 365 Remote Assist users 
+### [Collaborate with Dynamics 365 Remote Assist user via Teams on PC](teams-pc-all.md)
+### [Collaborate with Dynamics 365 Remote Assist user via Teams on mobile](teams-mobile-all.md)
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 
 ## Additional resources
 ### Version history
-#### [Remote Assist HoloLens](version-history-remote-assist-hololens.md)
-#### [Remote Assist mobile](version-history-remote-assist-mobile.md)
+#### [Dynamics 365 Remote Assist HoloLens](version-history-remote-assist-hololens.md)
+#### [Dynamics 365 Remote Assist mobile](version-history-remote-assist-mobile.md)
 ### Metadata references
 #### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
 #### [msdyn_customerassetattachment entity reference](msdyn_customerassetattachment.md)
 
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
-### [FAQ for deploying Remote Assist](faq-deploy.md)
-### [FAQ for Remote Assist on HoloLens and HoloLens 2](faq-hololens.md)
-### [FAQ for Remote Assist mobile](./mobile-app/faq-mobile.md)
+### [FAQ for deploying Dynamics 365 Remote Assist](faq-deploy.md)
+### [FAQ for Dynamics 365 Remote Assist on HoloLens and HoloLens 2](faq-hololens.md)
+### [FAQ for Dynamics 365 Remote Assist mobile](./mobile-app/faq-mobile.md)
 
 ## Legal documents
 ### [Dynamics 365 Remote Assist software license terms](../legal/remote-assist-license-terms.md)

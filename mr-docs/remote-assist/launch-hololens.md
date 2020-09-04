@@ -17,8 +17,8 @@ The Start menu is where you'll open apps, see important status info, access tool
 
 |![TileGrey](media/HL2-02.00-tile-gray.png "TileGrey")| ![Tile](media/HL2-02.01-tile.png "Tile")|
 |--|--|
-|On HoloLens 2, even if you have not downloaded Remote Assist, you'll see a dark grey app tile. Select it, and Remote Assist will begin downloading. After it's done downloading, select the app to launch it.
-On HoloLens, if you have not downloaded Remote Assist, you'll need to download it from the Microsoft Store.|If you have downloaded Dynamics 365 Remote Assist, select the app to launch it.|
+|On HoloLens 2, even if you have not downloaded Dynamics 365 Remote Assist, you'll see a dark grey app tile. Select it, and Dynamics 365 Remote Assist will begin downloading. After it's done downloading, select the app to launch it.
+On HoloLens, if you have not downloaded Dynamics 365 Remote Assist, you'll need to download it from the Microsoft Store.|If you have downloaded Dynamics 365 Remote Assist, select the app to launch it.|
 
 After you launch the app, you'll see a **3D app launcher** (also known as a **live cube**). Press play.
 

@@ -1,14 +1,14 @@
 ---
 title: Integrate Dynamics 365 Remote Assist with Power Automate
 author: dhgoelmsft
-description: Learn how to create a Power Automate flow based on Remote Assist entities
+description: Learn how to create a Power Automate flow based on Dynamics 365 Remote Assist entities
 ms.author: dhgoelmsft
 ms.date: 06/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Integrate Remote Assist with Power Automate
+# Integrate Dynamics 365 Remote Assist with Power Automate
 
 The asset capture feature in Remote Assist leverages Common Data Service (CDS). This enables you to create Power Automate flows based on this data to streamline various processes, including getting notifications, modifying other entities, and generating reports. In this article, you'll create a flow to get an email notification whenever a new asset attachment is created.
 
@@ -16,13 +16,13 @@ The asset capture feature in Remote Assist leverages Common Data Service (CDS). 
 
 To complete this article, you need:
 
-- **Access to the environment Remote Assist is installed in**.
+- **Access to the environment Dynamics 365 Remote Assist is installed in**.
 - **License and access to [Power Automate](https://docs.microsoft.com/power-automate/)**.
 
 ## Create Flows with Power Automate
 
 1. Go to [make.powerapps.com](https://make.powerapps.com) and sign in.
-2. Select the appropriate environment where you installed the Remote Assist model-driven app.
+2. Select the appropriate environment where you installed the Dynamics 365 Remote Assist model-driven app.
 ![Screenshot of the Power Automate landing page.](media/PowerAutomate001-landingPage.png)
 3. Select **Flows** from the left navigation. Select **+ New** to start creating a new flow. Select **"Automated-from blank"**
 ![Screenshot of the Power Automate start new flow screen.](media/PowerAutomate002-StartNewFlow.png)

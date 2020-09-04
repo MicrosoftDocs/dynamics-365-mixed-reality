@@ -9,23 +9,23 @@ title: Collaborate with a Remote Assist user via Microsoft Teams on mobile
 ms.reviewer: krbjoran
 ---
 
-# Collaborate with a Remote Assist user via Microsoft Teams on mobile 
+# Collaborate with a Dynamics 365 Remote Assist user via Microsoft Teams on mobile 
 
-Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using a variety of devices to solve problems together, faster. Remote Assist is available on HoloLens and HoloLens 2, and also AR-capable iOS and Android mobile phones and tablets. Remote collaborators can use Teams on PC or mobile to collaborate with Remote Assist users. The benefit of using Teams on mobile (versus PC) is that you can collaborate with Remote Assist users on-the-go. 
+Dynamics 365 Remote Assist users and Microsoft Teams users can collaborate using a variety of devices to solve problems together, faster. Dynamics 365 Remote Assist is available on HoloLens and HoloLens 2, and also AR-capable iOS and Android mobile phones and tablets. Remote collaborators can use Teams on PC or mobile to collaborate with Dynamics 365 Remote Assist users. The benefit of using Teams on mobile (versus PC) is that you can collaborate with Dynamics 365 Remote Assist users on-the-go. 
 
-When you use Teams on mobile, you can collaborate in a one-to-one call with one person who is using Remote Assist on HoloLens or HoloLens 2 ("Remote Assist HoloLens user"). You can also collaborate in a one-to-one call with one person who is using Remote Assist on mobile ("Remote Assist mobile user"). However, the available features differ.
+When you use Teams on mobile, you can collaborate in a one-to-one call with one person who is using Dynamics 365 Remote Assist on HoloLens or HoloLens 2 ("Dynamics 365 Remote Assist HoloLens user"). You can also collaborate in a one-to-one call with one person who is using Dynamics 365 Remote Assist on mobile ("Dynamics 365 Remote Assist mobile user"). However, the available features differ.
 
-| Feature |  Available for Teams mobile user in a one-to-one call with one Remote Assist HoloLens user | Available for Teams mobile user in a one-to-one call with a Remote Assist mobile user 
+| Feature |  Available for Teams mobile user in a one-to-one call with one Dynamics 365 Remote Assist HoloLens user | Available for Teams mobile user in a one-to-one call with a Dynamics 365 Remote Assist mobile user 
 ---| ---| ---
 Make outgoing call | Yes | No
 Receive incoming call | Yes| Yes
 Control outgoing video, outgoing audio, and incoming audio  | Yes | Yes
-Annotate Remote Assist user’s environment using arrows and ink  | Yes | Yes
+Annotate Dynamics 365 Remote Assist user’s environment using arrows and ink  | Yes | Yes
 Annotate 2D snapshot using arrows and ink | No | Yes
 Send a text message | Yes |Yes
 Share file from OneDrive | Yes| Yes
 Share photo from device | Yes | Yes
-Record call | No; only the Remote Assist user can initiate the recording | No; only the Remote Assist user can initiate the recording
+Record call | No; only the Dynamics 365 Remote Assist user can initiate the recording | No; only the Dynamics 365 Remote Assist user can initiate the recording
 Share screen | Yes | No
 
 ## Make a call
@@ -48,18 +48,18 @@ Call controls are found at the bottom of the screen.
 
 For additional actions, select the ellipses icon. Additional actions include:
 -	**Toggle incoming video**
--	**Share your screen** – your screen will pop up as a video in the Remote Assist HoloLens user’s world.
+-	**Share your screen** – your screen will pop up as a video in the Dynamics 365 Remote Assist HoloLens user’s world.
 -	**Start video with blur** (iOS only) - useful if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. 
 - **Insert file** to share a file 
 
 > [!NOTE]
-> Turn your phone horizonal to see more of the Remote Assist HoloLens user’s environment.   
+> Turn your phone horizonal to see more of the Dynamics 365 Remote Assist HoloLens user’s environment.   
 
-## Annotate Remote Assist user's environment 
+## Annotate Dynamics 365 Remote Assist user's environment 
 
 To add an annotation, select the **Edit icon**.
 
-Then, the Remote Assist user's video feed will freeze and you will see the **Mixed Reality toolbar**. 
+Then, the Dynamics 365 Remote Assist user's video feed will freeze and you will see the **Mixed Reality toolbar**. 
 
 ![Screenshot of the mixed reality toolbar, with the edit icon highlighted.](media/TeamsMobile_MRToolbar.png)
 
@@ -80,13 +80,13 @@ When you’re done adding annotations, select the checkmark icon to resume the l
 > [!NOTE]
 > Each call participant can only undo and delete their own annotations.
 
-## Annotate 2D snapshot (only in a call with Remote Assist mobile user)
+## Annotate 2D snapshot (only in a call with Dynamics 365 Remote Assist mobile user)
 
-Remote Assist mobile lets users take 2D snapshots of their environment and mixed reality annotations, and annotate them during a call. Snapshots are critical in situations where a still image might be needed to carefully add annotations to it. These snapshots can be used for reference later or work validation. Snapshots can also be utilized in low bandwidth situations.
+Dynamics 365 Remote Assist mobile lets users take 2D snapshots of their environment and mixed reality annotations, and annotate them during a call. Snapshots are critical in situations where a still image might be needed to carefully add annotations to it. These snapshots can be used for reference later or work validation. Snapshots can also be utilized in low bandwidth situations.
 
-When a Remote Assist mobile user takes a snapshot, the video feed will freeze and you will see any annotations they add while they are in 2D snapshot mode. Select **Edit** to begin adding annotations. After both call participants are finished annotating on the snapshot, the Remote Assist mobile user selects the check mark to exit from the annotation mode and can choose to save the snapshot to their device's photo gallery.
+When a Dynamics 365 Remote Assist mobile user takes a snapshot, the video feed will freeze and you will see any annotations they add while they are in 2D snapshot mode. Select **Edit** to begin adding annotations. After both call participants are finished annotating on the snapshot, the Dynamics 365 Remote Assist mobile user selects the check mark to exit from the annotation mode and can choose to save the snapshot to their device's photo gallery.
 
-Annotations are only displayed during the snapshot session. When the Remote Assist mobile user exists snapshot mode, annotations from that snapshot session will be removed. 
+Annotations are only displayed during the snapshot session. When the Dynamics 365 Remote Assist mobile user exists snapshot mode, annotations from that snapshot session will be removed. 
 
 For more information, [learn more about using snapshots](./mobile-app/annotate-snapshot.md).
 
@@ -99,13 +99,13 @@ Select the **Text icon** (which looks like this: ![Graphic showing the text icon
 
 ## Share OneDrive file 
 
-You can display OneDrive files in the Remote Assist HoloLens user's space or send OneDrive files in the Remote Assist mobile text chat. For example, add a PDF of a diagram to assist with the call.
+You can display OneDrive files in the Dynamics 365 Remote Assist HoloLens user's space or send OneDrive files in the Dynamics 365 Remote Assist mobile text chat. For example, add a PDF of a diagram to assist with the call.
 
 Go to the call controls and select the ellipses icon [...]. Then select **Insert Files** and select whether to insert file from OneDrive or from Teams teams and channels. You can insert an image, still gif, video, or PDF.
 
-If you are collaborating with a Remote Assist HoloLens user, the file will be uploaded to OneDrive and appear up as a new slate in the Remote Assist HoloLens user’s environment. The Remote Assist HoloLens user can save a file to their OneDrive by tapping the OneDrive icon in the top right of the slate. The OneDrive file is then automatically saved to a folder called "HoloLens Received Files." A link to the file will be available in the Teams chat even after the call ends.
+If you are collaborating with a Dynamics 365 Remote Assist HoloLens user, the file will be uploaded to OneDrive and appear up as a new slate in the Dynamics 365 Remote Assist HoloLens user’s environment. The Dynamics 365 Remote Assist HoloLens user can save a file to their OneDrive by tapping the OneDrive icon in the top right of the slate. The OneDrive file is then automatically saved to a folder called "HoloLens Received Files." A link to the file will be available in the Teams chat even after the call ends.
 
-If you are collaborating with a Remote Assist mobile user, the file will be uploaded to OneDrive and sent in the Remote Assist mobile user’s text chat. A link to the file will be available in the Teams chat even after the call ends.
+If you are collaborating with a Dynamics 365 Remote Assist mobile user, the file will be uploaded to OneDrive and sent in the Dynamics 365 Remote Assist mobile user’s text chat. A link to the file will be available in the Teams chat even after the call ends.
 
 ## Share photo from device 
 
@@ -115,17 +115,17 @@ Select the text chat. You'll see that the photo is attached to a blank message, 
 
 ![Screenshot of the photo option in Teams mobile.](media/TeamsMobile_SharePhoto.png "SharePhoto")
 
-If you are collaborating with a Remote Assist HoloLens user, the photo will be uploaded to OneDrive and appear as a new slate in the Remote Assist HoloLens user’s environment. The Remote Assist HoloLens user can save a file to their OneDrive by tapping the OneDrive icon in the top right of the slate. The OneDrive file is then automatically saved to a folder on the HoloLens called "HoloLens Received Files."  a link to the file will be available in the Teams chat even after the call ends. 
+If you are collaborating with a Dynamics 365 Remote Assist HoloLens user, the photo will be uploaded to OneDrive and appear as a new slate in the Dynamics 365 Remote Assist HoloLens user’s environment. The Dynamics 365 Remote Assist HoloLens user can save a file to their OneDrive by tapping the OneDrive icon in the top right of the slate. The OneDrive file is then automatically saved to a folder on the HoloLens called "HoloLens Received Files."  a link to the file will be available in the Teams chat even after the call ends. 
 
-If you are collaborating with a Remote Assist mobile user, the photo will be uploaded to OneDrive and will appear in the Remote Assist mobile user’s text chat. A link to the file will be available in the Teams chat even after the call ends.
+If you are collaborating with a Dynamics 365 Remote Assist mobile user, the photo will be uploaded to OneDrive and will appear in the Dynamics 365 Remote Assist mobile user’s text chat. A link to the file will be available in the Teams chat even after the call ends.
 
-## Share screen (only in a call with Remote Assist HoloLens user)
+## Share screen (only in a call with Dynamics 365 Remote Assist HoloLens user)
 
 To share your screen, go to call controls, select the ellipses icon […], select **Share**, then select **Start Broadcast**.
 
 ![Screenshot of the Start broadcast window in Teams mobile.](media/TeamsMobile_ScreenBroadcast.png "ScreenBroadcast")
 
-After a few seconds, a live view of your screen will be displayed as a new slate in the Remote Assist HoloLens user’s environment. 
+After a few seconds, a live view of your screen will be displayed as a new slate in the Dynamics 365 Remote Assist HoloLens user’s environment. 
 
 
 

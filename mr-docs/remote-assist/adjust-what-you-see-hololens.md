@@ -1,7 +1,7 @@
 ---
 title: Adjust what you see in Dynamics 365 Remote Assist on HoloLens 
 author: sophiasysun
-description: Adjust Remote Assist window, switch displayed video feed, and view Teams user's desktop or mobile screen 
+description: Adjust Dynamics 365 Remote Assist window, switch displayed video feed, and view Teams user's desktop or mobile screen 
 ms.author: sopsun
 ms.date: 3/15/2020
 ms.service: crm-online
@@ -12,13 +12,13 @@ ms.reviewer: krbjoran
 
 In this article, we'll walk through a few ways you can adjust what you're seeing in Dynamics 365 Remote Assist on HoloLens or HoloLens 2:
 
-1. Position the Remote Assist window
+1. Position the Dynamics 365 Remote Assist window
 2. Switch the displayed video feed
 3. View a Microsoft Teams user’s desktop or mobile screen
 
-## Position the Remote Assist window
+## Position the Dynamics 365 Remote Assist window
 
-You can pin the Remote Assist window in your space, or you can have it follow you around. After you launch the application, you may want to pin the window to your left or right so you can focus on the task in front of you.
+You can pin the Dynamics 365 Remote Assist window in your space, or you can have it follow you around. After you launch the application, you may want to pin the window to your left or right so you can focus on the task in front of you.
 
 The pin icon, represented as ![Illustration of the pin icon in HoloLens.](media/RAHL_Pin.png "Pin"), fixes the window in a specific location in your space, not at a fixed distance from you. Unpin will enable the window to follow you at a fixed distance. No matter where you are and whether the window is pinned or unpinned, it will face you.
 
