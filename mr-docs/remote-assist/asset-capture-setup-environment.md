@@ -23,7 +23,7 @@ This tutorial is the first of a series. As you progress through the series, you'
 
 To complete the steps in this tutorial, you need:
 
-- **A Dynamics 365 Remote Assist subscription**, which enables you to create environments and install the app.
+- **A Dynamics 365 Remote Assist subscription** to create environments and install the app.
 - **The ability to manage environments in the Power Platform admin center**. This tutorial covers creating Dynamics 365 environments and installing apps. Admin access is required (Dynamics 365 service admin, global admin, or Power Platform service admin).
 - **Available database capacity**. If you're creating a new environment for Dynamics 365 Remote Assist, you'll need at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide default tenant capacity. More information: [New Common Data Service storage capacity](https://docs.microsoft.com/power-platform/admin/capacity-storage)
 
