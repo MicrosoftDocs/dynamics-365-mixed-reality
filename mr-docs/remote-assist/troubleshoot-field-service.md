@@ -1,6 +1,6 @@
 ---
-
 title: "Integrate Dynamics 365 Remote Assist with Dynamics 365 Field Service | MicrosoftDocs"
+description: Learn how to integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist.
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
 ms.date: 07/06/2020

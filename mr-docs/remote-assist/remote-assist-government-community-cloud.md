@@ -1,5 +1,6 @@
 ---
 title: "Dynamics 365 Remote Assist on Government Community Cloud (GCC) | MicrosoftDocs"
+description: Summary of Dynamics 365 Remote Assist on the Government Community Cloud.
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
 ms.date: 04/07/2020

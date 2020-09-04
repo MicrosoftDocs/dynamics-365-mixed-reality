@@ -81,11 +81,11 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 > [!NOTE]
 > Both the technician and remote collaborator will see the mixed reality toolbar on the frozen frame and can add 2D annotations.
 
-![Screenshot showing the Dynamics 365 Remote Assist mobile snapshot mode.](./media/ram-teams-ff.png)
+![Screenshot showing the Dynamics 365 Remote Assist mobile snapshot mode, showing the views for the technician and remote collaborator.](./media/ram-teams-ff.png)
 
-1. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **check mark** to save or discard the snapshot.
+9. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **check mark** to save or discard the snapshot.
 
-2.  The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, the text chat, or both. Select your choice and then select **Save**.
+10.  The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, the text chat, or both. Select your choice and then select **Save**.
 
 ![Screenshot showing the save snapshot option on Dynamics 365 Remote Assist mobile.](./media/7a.png)
 
