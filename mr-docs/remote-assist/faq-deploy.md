@@ -25,19 +25,10 @@ Yes. Learn how to [set up multi-tenant company deployments](multi-tenant-deploym
 
 To learn how to set up Dynamics 365 Field Service integration with Dynamics 365 Remote Assist so that a firstline worker can call an expert in the context of a Field Service booking, see [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](troubleshoot-field-service.md).
 
-## Will any Teams license work when communicating with a Remote Assist user?
+## Will any Teams license work when communicating with a Dynamics 365 Remote Assist user?
 
-Yes. Anyone that can sign in and use the Teams application on a Windows 10 PC or mobile device can communicate with a Remote Assist user if their tenants are set up correctly. If the Teams user and Remote Assist user are not in the same tenant, learn how to [set up multi-tenant company deployments](multi-tenant-deployment.md), [enable vendors and contractors to use Remote Assist](vendor-use-ra.md), or [enable vendors and contractors to use Teams](vendor-use-teams.md). 
+Yes. Anyone that can sign in and use the Teams application on a Windows 10 PC or mobile device can communicate with a Dynamics 365 Remote Assist user if their tenants are set up correctly. If the Teams user and Dynamics 365 Remote Assist user are not in the same tenant, learn how to [set up multi-tenant company deployments](multi-tenant-deployment.md), [enable vendors and contractors to use Dynamics 365 Remote Assist](vendor-use-ra.md), or [enable vendors and contractors to use Teams](vendor-use-teams.md). 
 
-## Can I assign a Remote Assist license to a user using [Azure AD B2B](https://docs.microsoft.com/azure/active-directory/b2b/what-is-b2b)?
+## Can I assign a Dynamics 365 Remote Assist license to a user using [Azure AD B2B](https://docs.microsoft.com/azure/active-directory/b2b/what-is-b2b)?
 
-No.  Remote Assist licenses must be assigned to an AAD account created in the tenant where Remote Assist will be used.    
-
-
-
-
-
-
-
-
-
+No.  Dynamics 365 Remote Assist licenses must be assigned to an AAD account created in the tenant where Dynamics 365 Remote Assist will be used.

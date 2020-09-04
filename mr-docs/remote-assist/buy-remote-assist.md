@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 
 Dynamics 365 Remote Assist gives your workers tools to complete tasks more quickly, safely, and efficiently, whether they're using HoloLens 1, HoloLens 2, or their mobile devices.
 
-In this article, we’ll walk through the two types of Remote Assist licenses: 
+In this article, we’ll walk through the two types of Dynamics 365 Remote Assist licenses: 
 - Dynamics 365 Remote Assist license 
 - Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers only) 
 ###
@@ -26,7 +26,7 @@ In this article, we’ll walk through the two types of Remote Assist licenses:
 
 ## Option 1: Dynamics 365 Remote Assist license 
 
-Buy Remote Assist licenses through your Microsoft 365 or Office 365 administrator portal. 
+Buy Dynamics 365 Remote Assist licenses through your Microsoft 365 or Office 365 administrator portal. 
 
 1.	Log into the [Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration ) using your organization’s admin account.
 
@@ -44,7 +44,7 @@ Buy Remote Assist licenses through your Microsoft 365 or Office 365 administrato
  
 ## Option 2: Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers)
 
-If you’re a Dynamics 365 Field Service customer, you can buy Remote Assist Attach licenses through your Microsoft 365 or Office 365 administrator portal. 
+If you’re a Dynamics 365 Field Service customer, you can buy Dynamics 365 Remote Assist Attach licenses through your Microsoft 365 or Office 365 administrator portal. 
 
 1.	Log into the [Microsoft 365 or Office 365 Administrator Portal](https://www.microsoft.com/microsoft-365/business/office-365-administration)
  
