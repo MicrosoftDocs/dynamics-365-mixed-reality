@@ -1,5 +1,6 @@
 ---
-title: "Remote Assist mobile version history | MicrosoftDocs"
+title: "Dynamics 365 Remote Assist mobile version history | MicrosoftDocs"
+description: Version history for Dynamics 365 Remote Assist mobile
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
 ms.date: 07/31/2020
@@ -26,19 +27,20 @@ search.app:
   - MRRA
 ---
 
-# Remote Assist mobile version history
+# Dynamics 365 Remote Assist mobile version history
 
 ## iOS - 2020.7.30 + Android - 2020.07.23
 
 Date: July 30, 2020
 
 ### Bug fixes
-- Fix for not displaying the Remote Assist mobile user's video feed on the Microsoft Teams desktop or mobile user's screen.
+
+- Fix for not displaying the Dynamics 365 Remote Assist mobile user's video feed on the Microsoft Teams desktop or mobile user's screen.
 - Fix for placing the arrow annotation at the incorrect angle for Microsoft Teams desktop or mobile users.
 - Optimized frequency of error messages guiding user to track their environment better.
 - Incoming calls improvements. 
 - Fix for authentication taking a long time.
-- Fix for annotations inaccuracy in calls between two Remote Assists clients.
+- Fix for annotations inaccuracy in calls between two Dynamics 365 Remote Assists clients.
 - Fix for Undo and Delete buttons in the incorrect state.
 - Fix for memory issues caused by screen rotation.
 - Improved application memory usage.
@@ -48,7 +50,8 @@ Date: July 30, 2020
 Date: July 1, 2020
 
 ### Bug fixes
--	Improved incoming call experience for Remote Assist mobile users who do not have the app open when a call comes in from Microsoft Teams desktop or mobile clients.
+
+-	Improved incoming call experience for Dynamics 365 Remote Assist mobile users who do not have the app open when a call comes in from Microsoft Teams desktop or mobile clients.
 -	Fix for app crashing on mobile devices without augmented reality (AR) support, especially iPhone 5 and iPhone 6 devices.
 -	Dynamics 365 Field Service customers can now view the service account names on the bookings screen. 
 -	Updated the User Guide and Dynamics 365 Integration links in the app.
@@ -105,8 +108,8 @@ Date: February 27, 2020
 ### Bug fixes
 
 - In low-bandwidth environments with a satellite network of 1000/256 kbps for bandwidth, 600/600ms for latency, and 10% of packet loss, users will not receive an 'Update Check Failed' pop-up and can continue to share their environment.  
-- Users trying the 90-day license-free Remote Assist Mobile trial who do not have a Microsoft Teams license (free or paid) will be prompted to sign up for one. After they sign up, the app will recognize their Microsoft Teams account and they can sign in.  
-- With Remote Assist mobile app downloaded on your device, users can launch the app from Safari web browser via “ramobile:/” deep linking.  
+- Users trying the 90-day license-free Dynamics 365 Remote Assist Mobile trial who do not have a Microsoft Teams license (free or paid) will be prompted to sign up for one. After they sign up, the app will recognize their Microsoft Teams account and they can sign in.  
+- With Dynamics 365 Remote Assist mobile app downloaded on your device, users can launch the app from Safari web browser via “ramobile:/” deep linking.  
 - Users can view their snapshots with annotations on it in both landscape and portrait orientations. These snapshots will save to users’ mobile device’s Photo Gallery.  
 - In the text chat, the keyboard remains open after sending a message. 
 - The ‘Lost Tracking' pop-up is localized in our supported languages. 
@@ -149,7 +152,7 @@ Date: October 31, 2020
 
 ## Locate your version number
 
-To find which version of Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
+To find which version of Dynamics 365 Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
 
 > [!div class="mx-imgBorder"]
-> ![Screenshot of Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
+> ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
