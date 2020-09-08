@@ -1,7 +1,7 @@
 ---
-author: Makamat
+author: Mamaylya
 description: Use the Help menu in Microsoft Dynamics 365 Guides to find out what's new, access how-to videos and documentation, suggest an app idea, ask the commmunity, or find customer support phone numbers.
-ms.author: makamat
+ms.author: mamaylya
 ms.date: 01/28/2020
 ms.service: crm-online
 ms.topic: article
