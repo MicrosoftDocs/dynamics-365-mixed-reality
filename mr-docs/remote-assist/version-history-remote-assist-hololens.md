@@ -35,9 +35,9 @@ Date: September 2020
 
 ### Bug fixes
 
-- Fixed issue with protocol activation when including contact parameter
-- Fixed issue with call recording in GCC High
-- Improved app reliability and stability
+- Fixed issue with protocol activation when including contact parameter.
+- Fixed issue with call recording in GCC High.
+- Improved app reliability and stability.
 
 ## HoloLens 1 & 2 – 211.2007.30002
 
