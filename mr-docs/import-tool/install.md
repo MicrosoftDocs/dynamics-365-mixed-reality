@@ -1,7 +1,7 @@
 ---
 author: keno-msft
 description: How to install Dynamics 365 Import Tool (Preview)
-ms.author: v-jerja
+ms.author: keno
 ms.date: 06/12/2020
 ms.service: crm-online
 ms.topic: article
