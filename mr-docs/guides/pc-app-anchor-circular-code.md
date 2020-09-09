@@ -127,6 +127,7 @@ make sure that the anchor is flat. An anchor that is curved or distorted can aff
 
 ## What's next?
 
+[Learn about other factors that affect anchoring accuracy](anchor.md)<br>
 [Create a QR code anchor](pc-app-anchor-qr-code.md)<br>
 [Create a holographic anchor](pc-app-anchor-holographic.md)<br>
 [Anchor your guide if you're an author](hololens-app-anchor.md)<br>
