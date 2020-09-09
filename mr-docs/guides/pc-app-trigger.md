@@ -36,18 +36,18 @@ There are two types of triggers:
 
     ![Example of invisible trigger](media/trigger-invisible.PNG "Example of invisible trigger")
  
-This reduces clutter for the operator and helps them focus on the task at hand.
+    This reduces clutter for the operator and helps them focus on the task at hand.
 
 ## When is a trigger activated?
 
-The trigger is activated when the operator's hand leaves the trigger area. 
+You can set up the trigger to activate when the operator's hand enters the trigger area or when it exits the trigger area, as described in the procedures below. 
 
 ## Create a trigger 
 
 You create a trigger in the same way that you create any other hologram in the PC app. 
 
 > [!NOTE]
-> You can also [create a trigger directly in the HoloLens app](HoloLens-app-trigger.md).
+> You can also [create a trigger directly in the HoloLens app](hololens-app-trigger.md).
 
 1. In the PC app, select the **3D toolkit** tab.
 
@@ -55,11 +55,52 @@ You create a trigger in the same way that you create any other hologram in the P
 
     ![Triggers section in 3D toolkit](media/triggers-category-pc-app.PNG "Triggers section in 3D toolkit")
 
-## Place the trigger
+## Configure the trigger 
 
-After adding the trigger in the PC app, [place and test it in the HoloLens app](hololens-app-trigger.md).
+After creating your trigger, you need to configure it. You can configure it for a default step in a linear guide or for a question step if you're creating a non-linear (branching) guide. [Learn more about creating a branching guide](pc-app-branching.md). 
+
+### Configure a trigger for a default step (linear guide)
+
+1. Select the trigger in the bin. This opens the **Properties** tab on the right side of the screen. You can use this tab to preview the trigger and to view and set the trigger properties. [Learn more about the Properties tab](addlinkhere.md).
+
+    ![Properties tab showing trigger and its properties](media/trigger-properties.PNG "Properties tab showing trigger and its properties")
+
+2. In the **Properties** tab, do the following:
+
+    a. In the **Activation** field, select one of the following:
+    
+      - **On Hand Enter** to activate the trigger as soon as the operator places their hand in the trigger area.
+      
+      - **On Hand Exit** to delay the trigger activation until the operator has removed their hand from the trigger area.
+      
+    b. In the **Action** field, select one of the following:
+    
+      - **Back** to take the operator back to the previous step in the guide.
+      
+      - **Next** to take the operator to the next step in the guide.
+      
+      - **Navigate** if you want to take the operator to a specific step in the guide. After selecting **Navigate**, you can select the exact step to go to in the **Destination** list. Using the **Navigate** option enables you to have the operator skip multiple tasks or steps for different scenarios. 
+ 
+### Configure a trigger for a question step (non-linear guide)
+
+If you configure a trigger for a question step, the operator can use a trigger to choose a response in the question step. [Learn more about responses and questions steps](pc-app-branching.md).
+
+1. Select the trigger in the bin to open the **Properties** tab. 
+
+2. In the **Properties** tab, do the following:
+
+    a. In the **Activation** field, select one of the following:
+    
+      - **On Hand Enter** to activate the trigger as soon as the operator places their hand in the trigger area.
+      
+      - **On Hand Exit** to delay the trigger activation until the operator has removed their hand from the trigger area.
+      
+    b. In the **Action** field, select **Use Response 1** to configure the trigger to navigate to the destination set for Response 1. For example, if the destination for the first response is set to **Task 3**, configuring the trigger to **Use Response 1** means the trigger will navigate to **Task 3** when activated. If you update the response’s destination, the trigger will also be updated.
+    
+      ![Properties tab showing question step trigger properties](media/trigger-question-step-properties.PNG "Properties tab showing question step trigger propertiess")
+    
+    c. In the **Action** field, set any other **Use Response** values to correspond with the responses in the question card.
 
 ## What's next?
 
 [Place and test a trigger in the HoloLens app](hololens-app-trigger.md)
- 
