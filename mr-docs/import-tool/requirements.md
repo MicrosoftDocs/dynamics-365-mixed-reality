@@ -1,5 +1,5 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: Requirements for installing Dynamics 365 Import Tool (Preview)
 ms.author: v-jerja
 ms.date: 06/20/2020
