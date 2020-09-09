@@ -1,5 +1,5 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: This tutorial explains how to use Autodesk ReCap Photo to create 3D models for Microsoft Dynamics 365 mixed-reality apps.
 ms.author: v-jerja
 ms.date: 3/20/2020
