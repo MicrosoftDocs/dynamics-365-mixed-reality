@@ -1,5 +1,5 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: Describes, in tutorial format, how to use Autodesk 3ds Max to prepare content for use in Dynamics 365 mixed-reality apps
 ms.author: v-jerja
 ms.date: 10/22/2019
