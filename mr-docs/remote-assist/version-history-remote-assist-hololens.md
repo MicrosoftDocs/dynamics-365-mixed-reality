@@ -3,7 +3,7 @@ title: "Dynamics 365 Remote Assist HoloLens version history | MicrosoftDocs"
 description: Version history for Dynamics 365 Remote Assist HoloLens
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
-ms.date: 07/30/2020
+ms.date: 09/08/2020
 ms.reviewer: krbjoran
 ms.service: dynamics-365-mixed-reality-remote-assist
 ms.suite: ""
@@ -28,6 +28,16 @@ search.app:
 ---
 
 # Dynamics 365 Remote Assist HoloLens version history
+
+## HoloLens 1 & 2 – 211.2009.7002.0
+
+Date: September 2020
+
+### Bug fixes
+
+- Fixed issue with protocol activation when including contact parameter.
+- Fixed issue with call recording in GCC High.
+- Improved app reliability and stability.
 
 ## HoloLens 1 & 2 – 211.2007.30002
 

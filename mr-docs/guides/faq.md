@@ -1,7 +1,7 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: FAQ about Dynamics 365 Guides
-ms.author: makamat
+ms.author: mamaylya
 ms.date: 03/10/2020
 ms.service: crm-online
 ms.topic: article

@@ -1,7 +1,7 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Known Issues with Dynamics 365 Guides
-ms.author: makamat
+ms.author: mamaylya
 ms.date: 05/18/2020
 ms.service: crm-online
 ms.topic: article
