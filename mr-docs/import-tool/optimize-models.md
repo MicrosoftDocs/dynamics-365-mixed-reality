@@ -24,6 +24,9 @@ The following table lists software tools that you can use to convert and/or opti
 |[Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ, STL|Yes|Yes|
 |[Blender](https://www.blender.org/)|Collada (DAE), FBX, PLY, OBJ, STL, glTF, GLB, and more|FBX, OBJ, glTF 2.0, and more|Yes|Yes|
 
+> [!IMPORTANT]
+> Dynamics 365 Guides uses meters as the default scale unit. If your 3D model scale is set to millimeters when you export from your CAD solution, the model will be converted to meters in Dynamics 365 Guides. For example, if your model is 50 millimeters, it will be converted to 50 meters. To ensure size consistency between your CAD solution and Dynamics 365 Guides, make sure to set your model scale unit to meters when you  export. 
+
 <br>
 Here are examples of CAD, converted, and optimized 3D models.<br></br>
 
