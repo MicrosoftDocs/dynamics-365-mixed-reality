@@ -1,5 +1,5 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: How to prepare CAD files for use with Dynamics 365 Product Visualize
 ms.author: v-jerja
 ms.date: 03/20/2020
