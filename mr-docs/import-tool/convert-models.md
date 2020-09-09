@@ -1,5 +1,5 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: Everything you need to know about converting 3D models to use with Dynamics 365 Import Tool (Preview)
 ms.author: v-jerja
 ms.date: 01/08/2020
