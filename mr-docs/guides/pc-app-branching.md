@@ -30,7 +30,7 @@ To get started with branching in Dynamics 365 Guides, you’ll need to know the 
 To create a branch point in a guide, you add a question step that includes responses. Each response can lead to any other step within the same guide. Operators select 
 one of the responses, which determines their next step in the guide.
 
-SCREEN SHOT GOES HERE
+![XXX](media/branching-question-step-example.PNG "XXX")
 
 ### Add a question step
 
@@ -38,16 +38,16 @@ SCREEN SHOT GOES HERE
 
 2. In the **Outline** page, select **Add step**, and then in the context menu, select **Add a question step**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/branching-add-question-step-outline-view.PNG "XXX")
 
     > [!NOTE]
     > You can also add a question step by selecting **Add** in the top-right corner of the **Step Editor**.
     
-    SCREEN SHOT GOES HERE
+    ![XXX](media/branching-add-question-step-step-editor.PNG "XXX")
  
 3. Place your cursor where it says **Click to add a question**, and then enter a question for the operator.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/branching-add-question-text.PNG "XXX")
  
     > [!NOTE]
     > You can add up to three lines of text per question. If you exceed this limit, you’ll see a warning. 
@@ -58,7 +58,7 @@ SCREEN SHOT GOES HERE
     
     b. In the **Navigate to** list, select the step that the operator will go to when they select the response button. Steps are organized by task.
     
-      SCREEN SHOT GOES HERE
+      ![XXX](media/branching-response-properties.PNG "XXX")
       
 5. Create the rest of your responses for that step. You can have up to three responses per step. Keep in mind that you can link one question step to another question step 
 and you can link to any step in the same guide.
@@ -97,7 +97,7 @@ You can try out your branching flow without leaving the **Step Editor**.
 
 3.	Right-click a configured response, and then in the context menu, select **Navigate to**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/branching-test-flow.PNG "XXX")
  
     > [!NOTE]
     > Selecting the **Back** button will return you to the last step you were on, similar to how history works in a web browser. This is also true for the HoloLens app. 
@@ -113,15 +113,15 @@ question step before the completion step and link the responses to the completio
 
     For example, in the following guide, if the operator selects **Yes**, the guide will take the operator to the completion step. If the operator selects **No**, the guide will take the operator to an additional task for further troubleshooting.
     
-    SCREEN SHOT GOES HERE
+    ![XXX](media/branching-question-completion.PNG "XXX")
  
 - It’s best to limit the number of responses in a step to three. If you need more than three responses, create another question step after the current step, and then use one of the responses to link to it. This provides three more responses to work with. You can do this as many times as you need.
 
-    SCREEN SHOT GOES HERE 
+    ![XXX](media/branching-question-question.PNG "XXX")
 
 - You can also create a “diamond” flow, where two or more branching paths merge into one. For example, using the novice/expert example, you can create a question step at the end of each path that links to a new task. This allows you to create different steps for each training level that eventually lead to a shared path and ultimately the end of a guide.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/branching-diamond-flow.PNG "XXX")
  
  
     
