@@ -1,5 +1,5 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: Describes, in tutorial format, how to use Autodesk Inventor to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.author: v-jerja
 ms.date: 12/23/2019
