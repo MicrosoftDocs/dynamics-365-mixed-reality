@@ -1,7 +1,7 @@
 ---
 author: keno-msft
 description: This tutorial explains how to use SideFX Houdini to turn point clouds into optimized 3D models for Microsoft Dynamics 365 mixed-reality apps.
-ms.author: v-jerja
+ms.author: keno
 ms.date: 3/20/2020
 ms.service: crm-online
 ms.topic: article
