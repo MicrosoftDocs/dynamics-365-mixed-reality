@@ -1,7 +1,7 @@
 ---
 author: keno-msft
 description: Describes in tutorial form how to use the Blender open-source 3D creation suite to prepare 3D models for use in Dynamics 365 mixed-reality apps
-ms.author: v-jerja
+ms.author: keno
 ms.date: 10/22/2019
 ms.service: crm-online
 ms.topic: article
