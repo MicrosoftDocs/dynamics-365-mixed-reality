@@ -189,7 +189,7 @@ To add a style, follow these steps.
 
 3. Select **Styles**.
 
-    ![Styles button](media/edit-styles.png "Styles button")
+    ![Styles button](media/edit-styles1.PNG "Styles button")
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Styles** and subsequent menu items directly with your finger. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
@@ -234,7 +234,7 @@ To duplicate a model, follow these steps.
 
 3. Select **Duplicate**.
 
-    ![Duplicate button](media/edit-duplicate.png "Duplicate button")
+    ![Duplicate button](media/edit-duplicates1.PNG "Duplicate button")
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Duplicate** directly with your finger. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
@@ -243,6 +243,6 @@ To duplicate a model, follow these steps.
 
 If you're using animated 3D models in your guide, you can turn off animation if you plan to show a model with the animation in one step but without the animation in another step. This option is available from the **Edit** menu when you select the model.
 
-![Animation option turned off](media/edit-animations.png "Animation option turned off")
+![Animation option turned off](media/edit-animations1.PNG "Animation option turned off")
 
 You can also use this option when you place animated models in space. Turn animation off, place the model, and then turn animation back on. In this way, the animation won't interfere with your ability to place the model.
