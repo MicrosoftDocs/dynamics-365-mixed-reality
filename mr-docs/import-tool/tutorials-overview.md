@@ -1,7 +1,7 @@
 ---
 author: keno-msft
 description: Describes the third-party tutorials available for converting 3D models for use with Dynamics 365 mixed reality apps
-ms.author: v-jerja
+ms.author: keno
 ms.date: 03/20/2020
 ms.service: crm-online
 ms.topic: article
