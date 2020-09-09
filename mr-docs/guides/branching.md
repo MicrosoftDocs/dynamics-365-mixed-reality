@@ -104,6 +104,26 @@ You can try out your branching flow without leaving the **Step Editor**.
     If a step or task that was part of the user’s path is deleted, the **Back** button goes to the next available item in the history. If all the previous steps are 
     deleted, an error message appears and the user stays on the current step.
 
+## Tips and tricks for branching flows
+
+- Before inserting question steps, author all the steps in the guide so you have the appropriate steps to link to. 
+
+- The completion step is the final step in a guide. If you want to create a scenario where a user can either complete the guide or move to a different task, create a 
+question step before the completion step and link the responses to the completion step and the next step in the process. 
+
+    For example, in the following guide, if the operator selects **Yes**, the guide will take the operator to the completion step. If the operator selects **No**, the guide will take the operator to an additional task for further troubleshooting.
+    
+    SCREEN SHOT GOES HERE
+ 
+- It’s best to limit the number of responses in a step to three. If you need more than three responses, create another question step after the current step, and then use one of the responses to link to it. This provides three more responses to work with. You can do this as many times as you need.
+
+    SCREEN SHOT GOES HERE 
+
+- You can also create a “diamond” flow, where two or more branching paths merge into one. For example, using the novice/expert example, you can create a question step at the end of each path that links to a new task. This allows you to create different steps for each training level that eventually lead to a shared path and ultimately the end of a guide.
+
+    SCREEN SHOT GOES HERE
+ 
+ 
     
 
 
