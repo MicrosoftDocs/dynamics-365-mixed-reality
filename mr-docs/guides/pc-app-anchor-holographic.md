@@ -98,6 +98,7 @@ without encountering any obstructions.
 
 ## What's next?
 
+[Learn about other factors that affect anchoring accuracy](anchor.md)<br>
 [Create a QR code anchor](pc-app-anchor-qr-code.md)<br>
 [Create a circular code anchor](pc-app-anchor-circular-code.md)<br>
 [Anchor your guide if you're an author](hololens-app-anchor.md)<br>
