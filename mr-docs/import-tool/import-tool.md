@@ -1,7 +1,7 @@
 ---
 author: keno-msft
 description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models for Dynamics 365 mixed-reality applications
-ms.author: v-jerja
+ms.author: keno
 ms.date: 01/08/2020
 ms.service: crm-online
 ms.topic: article
