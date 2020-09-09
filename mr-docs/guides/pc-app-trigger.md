@@ -61,7 +61,7 @@ After creating your trigger, you need to configure it. You can configure it for 
 
 ### Configure a trigger for a default step (linear guide)
 
-1. Select the trigger in the bin. This opens the **Properties** tab on the right side of the screen. You can use this tab to preview the trigger and to view and set the trigger properties. [Learn more about the Properties tab](addlinkhere.md).
+1. Select the trigger in the bin. This opens the **Properties** tab on the right side of the screen. You can use this tab to preview the trigger and to view and set the trigger properties. [Learn more about the Properties tab](create-steps-assign-media.md#preview-an-image-video-or-3d-model-and-view-its-properties).
 
     ![Properties tab showing trigger and its properties](media/trigger-properties.PNG "Properties tab showing trigger and its properties")
 
