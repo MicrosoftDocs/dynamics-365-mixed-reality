@@ -1,7 +1,7 @@
 ---
 author: keno-msft
 description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models to work with Dynamics 365 Layout
-ms.author: v-jerja
+ms.author: keno
 ms.date: 06/24/2019
 ms.service: crm-online
 ms.topic: article
