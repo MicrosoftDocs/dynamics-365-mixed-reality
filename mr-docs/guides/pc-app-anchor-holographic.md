@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a holographic anchor
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 09/09/2020
 ms.service: crm-online
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides PC app by using a holographic anchor
@@ -98,6 +98,7 @@ without encountering any obstructions.
 
 ## What's next?
 
+[Learn about other factors that affect anchoring accuracy](anchor.md)<br>
 [Create a QR code anchor](pc-app-anchor-qr-code.md)<br>
 [Create a circular code anchor](pc-app-anchor-circular-code.md)<br>
 [Anchor your guide if you're an author](hololens-app-anchor.md)<br>
