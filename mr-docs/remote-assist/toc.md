@@ -54,6 +54,8 @@
 
 ## Remote Assist web app 
 ### View assets
+### Organize assets
+### ...etc
 ### Set up a one-time call
 
 ## Collaborate in Microsoft Teams with Remote Assist users 
