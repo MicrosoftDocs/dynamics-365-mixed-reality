@@ -3,7 +3,7 @@ title: Join a Dynamics 365 Remote Assist meeting on HoloLens
 author: sophiasysun
 description: How to join a Teams meeting in Dynamics 365 Remote Assist on HoloLens
 ms.author: sopsun
-ms.date: 06/09/2020
+ms.date: 09/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -22,3 +22,13 @@ If for some reason you're unable to join the meeting, you may also ask the Teams
 To join a meeting, select **Join Meeting**, or say "Remote Assist, Join Meeting", below the **Recent Contacts** screen. The **Join Meeting** button appears if the meeting is happening now or within the next 15 minutes. If your upcoming meetings overlap, you can use the arrows to select which meeting to join.  
 
 After you join a meeting, you or the Teams user can add more people to the meeting. Select **Open Participants** (as represented by this icon: ![Graphic showing the open participants icon.](media/RAHL_Participants.png)). You'll see the first person you called on the left side of the video card, and a list of participants on the right side of the video card. On the bottom of the video card, there's a text field. Select the text field, and a holographic keyboard will pop out. A list of your recent contacts will appear. If the person you'd like to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
+
+> [!NOTE]
+> Dynamics 365 Remote Assist currently **does not enable lobby support** to allow admitting guests (of an external tenant) into meetings from the lobby. 
+> To ensure that Dynamics 365 Remote Assist users can successfully join a meeting, follow these steps:
+> - Select **New Meeting** on Outlook calendar. 
+> - An empty meeting should appear in a new browser. Select **New Teams Meeting**.
+> - Select **Meeting Options** to set lobby permissions.
+> - A dialog box will appear stating **These people don't have to wait in the lobby** or **Who can bypass the lobby?**; select **Everyone**. 
+> - Select **OK** or **Save**.
+> - Continue to fill out your meeting invite.
