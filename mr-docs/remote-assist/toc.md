@@ -7,13 +7,6 @@
 ### [Deploy Remote Assist in your tenant](deploy-remote-assist.md)
 ### Deploy CDS 
 
-## Remote Assist web app 
-### Calls dashboard
-### Invite user to join one-time call
-### View assets
-### Organize assets
-### ...etc
-
 ## Remote Assist on Hololens and HoloLens 2
 ### [Overview](overview-hololens.md)
 ### [Launch Remote Assist](launch-hololens.md)
@@ -54,6 +47,12 @@
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
+## Remote Assist web app 
+### Calls dashboard
+### Invite user to join one-time call
+### View assets
+### Organize assets
+### ...etc
 
 ## Collaborate in Microsoft Teams with Remote Assist users 
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
