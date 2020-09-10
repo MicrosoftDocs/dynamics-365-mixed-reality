@@ -7,7 +7,7 @@
 ### [Deployment scenarios](deploy-remote-assist-need-real-link.md)
 ### [Deploy Remote Assist in your tenant](deploy-remote-assist.md)
 ### Deploy CDS 
-### Advanced deployment 
+### Setup for external users
 #### [Multi-tenant collaboration](multi-tenant-deployment.md)
 #### [Vendors and customers join one-time call](vendor-use-RA.md)
 #### [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
