@@ -1,7 +1,7 @@
 ---
 title: Using Dynamics 365 Remote Assist mobile on non-AR capable devices 
 author: xonatia
-description: Guide for using Dynamics 365 Remote Assist mobile on non-AR devices
+description: Guide for using Dynamics 365 Remote Assist mobile on devices without AR capabilities.
 ms.author: xolee
 ms.date: 07/01/2020
 ms.service: crm-online
@@ -44,16 +44,16 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 > [!NOTE]
 > Technicians can't place mixed reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
 
-![Screenshot of RAM-Teams non-ar](./media/ram-ram_notoolbar.png)
+![Screenshot showing Dynamics 365 Remote Assist mobile side by side with no toolbar.](./media/ram-ram_notoolbar.png)
 
    If the remote collaborator answers the call on **Teams desktop**, the technician's live video feed will be shared to the remote collaborator's device screen.
 
 > [!NOTE]
 > Technicians can't place mixed reality annotations on the live video feed; they can only place annotations on the in-call snapshots.
 
-![Screenshot of RAM-Teams non-ar](../media/ram-teams-notoolbar.png "RAM-Teams")
+![Screenshot of Dynamics 365 Remote Assist mobile and the remote collaborator on Teams Desktop.](../media/ram-teams-notoolbar.png "RAM-Teams")
 
-1. The technician will be directed to use the snapshot feature to add 2D annotations on a frozen video frame of their shared environment.
+6. The technician will be directed to use the snapshot feature to add 2D annotations on a frozen video frame of their shared environment.
 
 ![Screenshot showing Dynamics 365 Remote Assist mobile, with the technician's tooltip notification.](./media/01.05-call-nonar-1.png "Tool tip")
 
@@ -69,11 +69,11 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 > [!NOTE]
 > Both the technician and remote collaborator will see the mixed reality toolbar on the frozen frame and can add 2D annotations.
 
-![Screenshot showing the Dynamics 365 Remote Assist mobile snapshot mode.](./media/ram-teams-ff.png)
+![Screenshot showing the Dynamics 365 Remote Assist mobile snapshot mode for technician and remote collaborator.](./media/ram-teams-ff.png)
 
-1. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **check mark** to save or discard the snapshot.
+9. After both the technician and remote collaborator are finished annotating on the snapshot, the technician selects the **check mark** to save or discard the snapshot.
 
-2.  The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, the text chat, or both. Select your choice and then select **Save**.
+10. The technician is prompted with the options to discard the snapshot or save the snapshot to either the mobile device's Photo Gallery, the text chat, or both. Select your choice and then select **Save**.
 
 ![Screenshot showing the save snapshot option on Dynamics 365 Remote Assist mobile.](./media/7a.png)
 

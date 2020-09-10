@@ -29,7 +29,7 @@ Making calls with Dynamics 365 Remote Assist mobile is **available** in these sc
 
 ### See also
 
-- Learn more about calls between Dynamics 365 Remote Assist mobile users [here](mobile-app/remote-assist-mobile-to-remote-assist-mobile-calls.md). 
-- Learn more about calls between Dynamics 365 Remote Assist mobile and Teams users [here](mobile-app/remote-assist-mobile-to-teams-calls.md).
-- Learn more about group calls with Dynamics 365 Remote Assist mobile [here](mobile-app/group-calling.md).
-- Learn more about calls with mobile devices without augmented reality (AR) support [here](mobile-app/calls-using-device-without-AR.md).
+- Learn more about calls between Dynamics 365 Remote Assist mobile users [here](remote-assist-mobile-to-remote-assist-mobile-calls.md). 
+- Learn more about calls between Dynamics 365 Remote Assist mobile and Teams users [here](remote-assist-mobile-to-teams-calls.md).
+- Learn more about group calls with Dynamics 365 Remote Assist mobile [here](group-calling.md).
+- Learn more about calls with mobile devices without augmented reality (AR) support [here](calls-using-device-without-AR.md).

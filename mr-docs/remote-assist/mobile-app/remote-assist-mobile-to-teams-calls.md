@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve issues with remote specialists or collaborators using **Microsoft Teams desktop or mobile**. Both call participants can place mixed reality annotations in each other's space to effectively collaborate. 
 
 > [!NOTE]
-> This guide documents a one-to-one call between a Dynamics 365 Remote Assist mobile user and a Teams desktop or mobile user; learn about group calls with at least two Teams desktop users [here](mobile-app/group-calling.md).
+> This guide documents a one-to-one call between a Dynamics 365 Remote Assist mobile user and a Teams desktop or mobile user; learn about group calls with at least two Teams desktop users [here](group-calling.md).
 
 ## Prerequisites
 
