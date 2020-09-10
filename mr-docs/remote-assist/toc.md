@@ -7,10 +7,10 @@
 ### [Deployment scenarios](deploy-remote-assist-need-real-link.md)
 ### [Deploy Remote Assist in your tenant](deploy-remote-assist.md)
 ### Deploy CDS 
-### Setup for external users
-#### [Multi-tenant collaboration](multi-tenant-deployment.md)
-#### [Vendors and customers join one-time call](vendor-use-RA.md)
-#### [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
+### Collaborate with external users
+#### Scenario overview
+#### Deploy [Multi-tenant collaboration](multi-tenant-deployment.md)
+#### Deploy [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
 
 ## Remote Assist on Hololens and HoloLens 2
 ### [Overview](overview-hololens.md)
