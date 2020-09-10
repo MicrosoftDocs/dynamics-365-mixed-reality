@@ -40,7 +40,7 @@ Date: September 1, 2020
 - Improvements for placing annotations more precisely when in call with Teams client.
 - Fix for application freeze after sign in.
 - Improvements to snapshot UI for when it’s uploading during a call.
-- Improvements for ringtone audio on Android devices
+- Improvements for ringtone audio on Android devices.
 - Adjustments for landscape screen orientation when in a call between two Remote Assist mobile users.
 - Fix for NullReferenceException showing up sometimes during inking and tutorial mode.
 - Fix for TextChatUI component availability.
