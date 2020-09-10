@@ -1,7 +1,7 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: Try Dynamics 365 Import Tool (Preview) for free for up to 90 days.
-ms.author: v-jerja
+ms.author: keno
 ms.date: 06/24/2019
 ms.service: crm-online
 ms.topic: article

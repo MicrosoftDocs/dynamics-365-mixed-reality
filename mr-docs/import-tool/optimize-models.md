@@ -1,8 +1,8 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: How to optimize your 3D (CAD) models to use with Dynamics 365 Import Tool (Preview).
-ms.author: v-jerja
-ms.date: 01/08/2020
+ms.author: keno
+ms.date: 09/09/2020
 ms.service: crm-online
 ms.topic: article
 title: Optimize your 3D models
@@ -24,6 +24,9 @@ The following table lists software tools that you can use to convert and/or opti
 |[Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ, STL|Yes|Yes|
 |[Blender](https://www.blender.org/)|Collada (DAE), FBX, PLY, OBJ, STL, glTF, GLB, and more|FBX, OBJ, glTF 2.0, and more|Yes|Yes|
 
+> [!IMPORTANT]
+> Dynamics 365 Guides uses meters as the default scale unit. If your 3D model scale is set to millimeters when you export from your CAD solution, the model will be converted to meters in Dynamics 365 Guides. For example, if your model is 50 millimeters, it will be converted to 50 meters. To ensure size consistency between your CAD solution and Dynamics 365 Guides, make sure to set your model scale unit to meters when you  export. 
+
 <br>
 Here are examples of CAD, converted, and optimized 3D models.<br></br>
 
@@ -38,7 +41,7 @@ The [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications
 
 The following table lists some general conservative targets to aim for when acquiring or authoring 3D models for a range of hardware. When in doubt, target the midrange profile for a balance of fidelity and performance. 
 
-||Low-scene complexity<br>![Low complexity graphic](media/simple.PNG "Low complexity graphic")|Medium-scene complexity<br>![Medium complexity graphic](media/medium.PNG "Medium complexity graphic")|High-scene complexity<br>![High complexity graphic](media/complex.PNG "High complexity graphic")|
+|Device|Low-scene complexity<br>![Low complexity graphic](media/simple.PNG "Low complexity graphic")|Medium-scene complexity<br>![Medium complexity graphic](media/medium.PNG "Medium complexity graphic")|High-scene complexity<br>![High complexity graphic](media/complex.PNG "High complexity graphic")|
 |--------------|---------------------------|-----------------------------------|-----------------------------------|
 |![HoloLens graphic](media/hololens.PNG "HoloLens graphic")<br>HoloLens|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><100,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><30,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><10,000<br><br>**Materials:**<br>1-2 per object|
 |![Immersive headset graphic](media/immersive-headset.PNG "Immersive headset graphic") <br>Immersive headsets|**Objects:**<br>1-3 per scene<br><br>**Triangles:**<br><15,000,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>4-10 per scene<br><br>**Triangles:**<br><500,000<br><br>**Materials:**<br>1-2 per object|**Objects:**<br>10+ per scene<br><br>**Triangles:**<br><150,000<br><br>**Materials:**<br>1-2 per object|
