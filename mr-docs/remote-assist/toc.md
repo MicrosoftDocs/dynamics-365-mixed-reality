@@ -12,6 +12,12 @@
 #### Deploy [Multi-tenant collaboration](multi-tenant-deployment.md)
 #### Deploy [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
 
+## Remote Assist web app 
+### Set up a one-time call
+### View assets
+### Organize assets
+### ...etc
+
 ## Remote Assist on Hololens and HoloLens 2
 ### [Overview](overview-hololens.md)
 ### [Launch Remote Assist](launch-hololens.md)
@@ -52,11 +58,6 @@
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
-## Remote Assist web app 
-### View assets
-### Organize assets
-### ...etc
-### Set up a one-time call
 
 ## Collaborate in Microsoft Teams with Remote Assist users 
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
