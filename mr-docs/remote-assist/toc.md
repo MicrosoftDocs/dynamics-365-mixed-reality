@@ -13,6 +13,7 @@
 #### Deploy [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
 
 ## Remote Assist web app 
+### Calls dashboard
 ### Invite user to join one-time call
 ### View assets
 ### Organize assets
