@@ -4,11 +4,13 @@
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
-### [Common deployment scenarios](deploy-remote-assist-need-real-link.md)
+### [Deployment scenarios](deploy-remote-assist-need-real-link.md)
 ### [Deploy Remote Assist in your tenant](deploy-remote-assist.md)
-### [Multi-tenant collaboration](multi-tenant-deployment.md)
-### [Vendors and customers join one-time call](vendor-use-RA.md)
-### [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
+### Deploy CDS 
+### Advanced deployment 
+#### [Multi-tenant collaboration](multi-tenant-deployment.md)
+#### [Vendors and customers join one-time call](vendor-use-RA.md)
+#### [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
 
 ## Remote Assist on Hololens and HoloLens 2
 ### [Overview](overview-hololens.md)
@@ -51,6 +53,7 @@
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
 ## Remote Assist web app 
+### View assets
 ### Set up a one-time call
 
 ## Collaborate in Microsoft Teams with Remote Assist users 
