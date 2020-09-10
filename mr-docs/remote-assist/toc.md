@@ -1,13 +1,11 @@
 # Dynamics 365 Remote Assist
 ## [Overview](ra-overview.md)
-## [Requirements](requirements.md)
-## Acquire licenses
+## Setup 
+### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
-## Deploy licenses and tenants
 ### [Common deployment scenarios](deploy-remote-assist-need-real-link.md)
 ### [Deploy Remote Assist in your tenant](deploy-remote-assist.md)
-### [Set up Teams](set-up-teams.md)
 ### [Multi-tenant collaboration](multi-tenant-deployment.md)
 ### [Vendors and customers join one-time call](vendor-use-RA.md)
 ### [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
@@ -51,6 +49,8 @@
 ### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
+
+## Remote Assist web app 
 
 ## Collaborate in Microsoft Teams with Remote Assist users 
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
