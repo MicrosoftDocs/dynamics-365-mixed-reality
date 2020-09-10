@@ -4,7 +4,6 @@
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Remote Assist](buy-remote-assist.md)
-### [Deployment scenarios](deploy-remote-assist-need-real-link.md)
 ### [Deploy Remote Assist in your tenant](deploy-remote-assist.md)
 ### Deploy CDS 
 
