@@ -51,6 +51,7 @@
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
 ## Remote Assist web app 
+### Set up a one-time call
 
 ## Collaborate in Microsoft Teams with Remote Assist users 
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
