@@ -7,10 +7,6 @@
 ### [Deployment scenarios](deploy-remote-assist-need-real-link.md)
 ### [Deploy Remote Assist in your tenant](deploy-remote-assist.md)
 ### Deploy CDS 
-### Collaborate with external users
-#### Scenario overview
-#### Deploy [Multi-tenant collaboration](multi-tenant-deployment.md)
-#### Deploy [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
 
 ## Remote Assist web app 
 ### Calls dashboard
@@ -64,6 +60,12 @@
 ### [Collaborate with Remote Assist user via Teams on PC](teams-pc-all.md)
 ### [Collaborate with Remote Assist user via Teams on mobile](teams-mobile-all.md)
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
+
+## Additional deployment scenarios
+#### Scenario overview 
+#### Scenario overview
+#### Deploy [Multi-tenant collaboration](multi-tenant-deployment.md)
+#### Deploy [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
 
 ## Additional resources
 ### Version history
