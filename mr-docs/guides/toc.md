@@ -41,6 +41,7 @@
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
+#### [Create a branching (non-linear) guide](pc-app-branching.md)
 #### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
 #### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
