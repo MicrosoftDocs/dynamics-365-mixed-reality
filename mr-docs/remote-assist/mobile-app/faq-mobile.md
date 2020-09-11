@@ -1,7 +1,7 @@
 ---
 author: xonatia
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist mobile.
-ms.author: xonatia
+ms.author: xolee
 ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
