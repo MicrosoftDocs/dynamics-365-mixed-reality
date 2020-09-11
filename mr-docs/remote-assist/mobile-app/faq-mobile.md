@@ -33,7 +33,7 @@ In Dynamics 365 Remote Assist mobile's **Main Menu**, go to **Information**, and
 
 - **Can I make calls to a Teams desktop user?** Yes.
 - **Can I make calls to a Teams mobile user?** Yes.
-- **Can I make or be in a group call or a call with three or more participants?** No, not at this time.
+- **Can I make or be in a group call or a call with three or more participants?** Yes.
 - **Can I be in a meeting?** No, not at this time.
 
 ## Does Dynamics 365 Remote Assist mobile support the ability to see both the live video feed from the rear-facing camera as well as the technician's face from the front-facing camera?
