@@ -36,6 +36,10 @@ In Dynamics 365 Remote Assist mobile's **Main Menu**, go to **Information**, and
 - **Can I make or be in a group call or a call with three or more participants?** No, not at this time.
 - **Can I be in a meeting?** No, not at this time.
 
+## What is the size of the Remote Assist app?
+
+Depending upon the device and platform (iOS or Android), the download size of the app (data transferred) will be between 70 MB and 120 MB. Once the app is downloaded, the app package is decompressed and installed and the final size on the device may be larger.
+
 ## Does Dynamics 365 Remote Assist mobile support the ability to see both the live video feed from the rear-facing camera as well as the technician's face from the front-facing camera?
 
 No, just the rear-facing camera at this time.
