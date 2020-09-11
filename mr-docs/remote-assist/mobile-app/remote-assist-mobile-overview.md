@@ -3,7 +3,7 @@ title: Dynamics 365 Remote Assist mobile overview
 author: xonatia
 description: Overview of Dynamics 365 Remote Assist mobile
 ms.author: xolee
-ms.date: 07/01/2020
+ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -19,10 +19,7 @@ Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCo
 
 ## Features
 
-- One-to-one video calling for three scenarios:
-    1. A call between two Dynamics 365 Remote Assist mobile users.
-    1. A call between a Dynamics 365 Remote Assist mobile user and a Teams desktop user.
-    1. A call between a Dynamics 365 Remote Assist mobile user and a Teams mobile user.
+- One-to-one and group video calling.
 - Add mixed reality annotations in space.
 - Annotate on a 2D image capture, or snapshot, of the space during a call.
 - Send and receive messages, in-call snapshots, and files through the text chat.
