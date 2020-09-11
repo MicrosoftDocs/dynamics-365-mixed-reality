@@ -2,7 +2,7 @@
 author: xonatia
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist mobile.
 ms.author: xonatia
-ms.date: 06/03/2020
+ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist mobile frequently asked questions
@@ -42,9 +42,11 @@ No, just the rear-facing camera at this time.
 
 ## What countries is Dynamics 365 Remote Assist for Mobile supported?
 
-On **Android** devices, Dynamics 365 Remote Assist mobile is available in 146 countries, but not available in Cuba, Sudan or Iran. It's also usable in China when connecting to global tenants, but not in the store currently (we are working on that).
+On **Android** devices, Dynamics 365 Remote Assist mobile is available in 146 countries, but not available in Cuba, Sudan or Iran. It's also usable in China when connecting to global tenants, but not in the store currently (we are working on that)*.
 
 For **iOS** devices, Dynamics 365 Remote Assist mobile is available in 155 countries.
+
+*The Remote Assist mobile app is only available on iOS devices, **not** Android devices in China. There is no Google Play store or a way to side load option for the application in China. 
 
 ## What languages does Dynamics 365 Remote Assist Mobile support?
 
