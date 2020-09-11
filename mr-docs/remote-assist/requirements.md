@@ -2,7 +2,7 @@
 author: sophiasysun
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: sopsun
-ms.date: 05/27/2020
+ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
@@ -57,7 +57,7 @@ A variety of network conditions, including bandwidth, latency, jitter, and packe
 
 ### Dynamics 365 Remote Assist mobile
 
-When using Dynamics 365 Remote Assist on mobile devices, a minimum of 1.2 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15fps. If Dynamics 365 Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information. 
+When using Dynamics 365 Remote Assist on mobile devices, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15fps. If Dynamics 365 Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information. 
 
 ### Dynamics 365 Remote Assist HoloLens
 
