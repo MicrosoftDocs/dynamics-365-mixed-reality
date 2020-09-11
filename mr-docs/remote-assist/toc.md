@@ -37,7 +37,6 @@
 ### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
 ### [Make calls with devices with AR support](mobile-app/making-calls-with-AR.md)
 ### [Make calls with devices without AR support](mobile-app/using-devices-without-AR.md)
-### [Set up one-time calls (public preview)]
 ### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
@@ -60,8 +59,7 @@
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 
 ## Additional deployment scenarios
-#### Scenario overview 
-#### Scenario overview
+#### Scenarios overview 
 #### Deploy [Multi-tenant collaboration](multi-tenant-deployment.md)
 #### Deploy [Vendors and customers use full Remote Assist capabilities](vendor-use-teams.md)
 
