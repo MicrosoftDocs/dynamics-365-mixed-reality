@@ -2,7 +2,7 @@
 author: keno-msft
 description: How to optimize your 3D (CAD) models to use with Dynamics 365 Import Tool (Preview).
 ms.author: keno
-ms.date: 09/09/2020
+ms.date: 09/11/2020
 ms.service: crm-online
 ms.topic: article
 title: Optimize your 3D models
