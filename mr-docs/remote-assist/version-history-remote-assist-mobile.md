@@ -37,11 +37,11 @@ Date: September 1, 2020
 
 - Improvements for showing the tracking lost detection and messaging less frequently.
 - Adjustments for annotations size being too large on certain device screens.
-- Improvements for placing annotations at the correct angle as a remote collaborator in a call between two Remote Assist mobile users.
+- Improvements for placing annotations at the correct angle as a remote collaborator in a call between two Dynamics 365 Remote Assist mobile users.
 - Fix for application freeze after sign in.
 - Improvements to snapshot UI for when it’s uploading during a call.
-- Improvements on ringtone audio for adhering to silent and vibrate modes on Android devices
-- Adjustments for landscape screen orientation when in a call between two Remote Assist mobile users.
+- Improvements on ringtone audio for adhering to silent and vibrate modes on Android devices.
+- Adjustments for landscape screen orientation when in a call between two Dynamics 365 Remote Assist mobile users.
 - Fix for NullReferenceException showing up sometimes during inking and tutorial mode.
 
 ## iOS - 2020.7.30 + Android - 2020.07.23
