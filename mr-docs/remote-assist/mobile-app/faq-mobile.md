@@ -46,7 +46,7 @@ On **Android** devices, Dynamics 365 Remote Assist mobile is available in 146 co
 
 For **iOS** devices, Dynamics 365 Remote Assist mobile is available in 155 countries.
 
-*The Remote Assist mobile app is only available on iOS devices, **not** Android devices in China. There is no Google Play store or a way to side load option for the application in China. 
+* In China, the Dynamics 365 Remote Assist mobile app is only available on iOS devices, and **not** Android devices. 
 
 ## What languages does Dynamics 365 Remote Assist Mobile support?
 
