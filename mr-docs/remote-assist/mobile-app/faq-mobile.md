@@ -1,8 +1,8 @@
 ---
 author: xonatia
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist mobile.
-ms.author: xonatia
-ms.date: 06/03/2020
+ms.author: xolee
+ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist mobile frequently asked questions
@@ -33,7 +33,7 @@ In Dynamics 365 Remote Assist mobile's **Main Menu**, go to **Information**, and
 
 - **Can I make calls to a Teams desktop user?** Yes.
 - **Can I make calls to a Teams mobile user?** Yes.
-- **Can I make or be in a group call or a call with three or more participants?** No, not at this time.
+- **Can I make or be in a group call or a call with three or more participants?** Yes.
 - **Can I be in a meeting?** No, not at this time.
 
 ## Does Dynamics 365 Remote Assist mobile support the ability to see both the live video feed from the rear-facing camera as well as the technician's face from the front-facing camera?
@@ -45,6 +45,9 @@ No, just the rear-facing camera at this time.
 On **Android** devices, Dynamics 365 Remote Assist mobile is available in 146 countries, but not available in Cuba, Sudan or Iran. It's also usable in China when connecting to global tenants, but not in the store currently (we are working on that).
 
 For **iOS** devices, Dynamics 365 Remote Assist mobile is available in 155 countries.
+
+> [!Note]
+> In China, the Dynamics 365 Remote Assist mobile app is only available on iOS devices, and **not** Android devices. 
 
 ## What languages does Dynamics 365 Remote Assist Mobile support?
 
