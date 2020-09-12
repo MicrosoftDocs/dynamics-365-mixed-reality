@@ -62,7 +62,7 @@
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 
 ## Additional deployment scenarios
-#### Scenarios overview 
+### Scenarios overview 
 #### Deploy [Multi-tenant collaboration](multi-tenant-deployment.md)
 #### Deploy [Vendors and customers use full Dynamics 365 Remote Assist capabilities](vendor-use-teams.md)
 
