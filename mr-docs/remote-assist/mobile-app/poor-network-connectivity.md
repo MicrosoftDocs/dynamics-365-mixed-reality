@@ -10,11 +10,11 @@ ms.reviewer: krbjoran
 ---
 # Using Dynamics 365 Remote Assist in low-bandwidth scenarios
 
-Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians may have trouble troubleshooting and resolving problems in real time. Dynamics 365 Remote Assist mobile now gives technicians the ability to discuss, diagnose, and resolve issues with remote experts even in low-bandwidth scenarios.
+Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians may have trouble troubleshooting and resolving problems in real time. Dynamics 365 Remote Assist mobile now gives technicians the ability to discuss, diagnose, and resolve issues with remote experts even in low-bandwidth scenarios.
 
 ### Poor network connectivity is determined by the following conditions: 
 
-- The bandwidth is between 150 kbps and 1.5 Mbps
+- The bandwidth is between 256 kbps and 1.5 Mbps
 - The latency is higher than 1,000 ms
 - The packet loss higher than 10 percent
 
@@ -24,7 +24,7 @@ Dynamics 365 Remote Assist mobile **autodetects** if the technician is experienc
 	
 Poor network may take into account the interaction of the three components: **bandwidth**, **latency**, and **packet loss**:
 
-- Minimum bandwidth (in/out) - 150 kbps / 150 kbps
+- Minimum bandwidth (in/out) - 256 kbps / 256 kbps
 - Maximum latency (in/out) - 500 ms / 500 ms (1,000 ms) 
 - Maximum packet loss (in/out) - 10% / 10%  
 
@@ -32,7 +32,7 @@ Poor network may take into account the interaction of the three components: **ba
     
 | Variables  | Measurements |
 | ------------- | ------------- |
-| Bandwidth  | 150 kbps / 150 kbps  |
+| Bandwidth  | 256 kbps / 256 kbps  |
 | Latency  | 400 ms / 400 ms = 800 ms  |
 | Packet loss  | 10% / 10%  |
 
