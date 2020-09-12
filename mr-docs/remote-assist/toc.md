@@ -71,6 +71,7 @@
 ### Version history
 #### [Dynamics 365 Remote Assist HoloLens](version-history-remote-assist-hololens.md)
 #### [Dynamics 365 Remote Assist mobile](version-history-remote-assist-mobile.md)
+
 ### Metadata references
 #### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
 #### [msdyn_customerassetattachment entity reference](msdyn_customerassetattachment.md)
