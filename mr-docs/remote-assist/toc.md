@@ -6,7 +6,7 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Dynamics 365 Remote Assist](buy-remote-assist.md)
 ### [Deploy Dynamics 365 Remote Assist in your tenant](deploy-remote-assist.md)
-### Deploy CDS 
+### [Install Dynamics 365 Remote Assist model-driven app](asset-capture-setup-environment.md)
 
 ## Dynamics 365 Remote Assist on Hololens and HoloLens 2
 ### [Overview](overview-hololens.md)
@@ -17,6 +17,7 @@
 ### [Add annotations](add-annotations-hololens.md)
 ### [Take a snapshot (and save it to a Dynamics 365 Field Service booking)](take-snapshot-save-booking-hololens.md)
 ### [File sharing and saving](display-save-files.md)
+### [Capture asset conditions on Hololens](asset-capture-photos.md)
 ### [Record calls](record-calls-hololens.md)
 ### [Send text messages](send-texts-hololens.md)
 ### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
@@ -24,14 +25,6 @@
 ### [Close the app](close-app-hololens.md)
 ### [Review tutorial of Dynamics 365 Remote Assist](review-tutorial-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
-### Asset capture (public preview)
-#### [Overview](asset-capture-overview.md)
-#### [Setup a preview environment](asset-capture-setup-environment.md)
-#### [Add users to the preview ](asset-capture-add-users.md)
-#### [Create asset records](asset-capture-create-asset.md)
-#### [Capture asset conditions](asset-capture-photos.md)
-#### [Review asset captures](asset-capture-review.md)
-#### [Automate asset capture data](integrate-power-automate.md)
 
 ## Dynamics 365 Remote Assist mobile
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
@@ -46,17 +39,21 @@
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
 ### [Share files](mobile-app/file-sharing.md)
+### Capture asset conditions on Mobile
 ### [Record calls](mobile-app/call-recording.md)
 ### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
-## Remote Assist web app 
+## Remote Assist model-driven app
+### [Add users to the model-driven app](asset-capture-add-users.md)
 ### Calls dashboard
 ### Invite user to join one-time call
-### View assets
-### Organize assets
-### ...etc
+### Asset capture
+#### [Overview](asset-capture-overview.md)
+#### [Create asset records](asset-capture-create-asset.md)
+#### [Review asset captures](asset-capture-review.md)
+#### [Automate asset capture data](integrate-power-automate.md)
 
 ## Collaborate in Microsoft Teams with Dynamics 365 Remote Assist users 
 ### [Collaborate with Dynamics 365 Remote Assist user via Teams on PC](teams-pc-all.md)
