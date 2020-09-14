@@ -4,7 +4,7 @@ description: Learn how to add notes (including text, drawings, and video) to a 3
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 09/07/2020
+ms.date: 09/14/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
