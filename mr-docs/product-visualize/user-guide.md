@@ -4,7 +4,7 @@ description: Guide for opening and signing in to the Dynamics 365 Product Visual
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 06/12/2020
+ms.date: 09/14/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -17,7 +17,7 @@ ms.reviewer:
 Dynamics 365 Product Visualize empowers sellers to showcase large and highly customizable products in a real-world environment. Using mixed reality, sellers can create a shared understanding between themselves and buyers to accelerate complex sales processes. Showing customers your products in 3D is more compelling than showing them flat images. Our app also gives you other capabilities that aren't available with conventional sales tools. 
 
 > [!IMPORTANT]
-> This user guide describes features available in version 1.13 of Dynamics 365 Product Visualize. If you're using an older version of the app, [install the latest version](sign-in.md).
+> This user guide describes features available in version 1.14 of Dynamics 365 Product Visualize. If you're using an older version of the app, [install the latest version](sign-in.md).
 
 ## Using Dynamics 365 Product Visualize iOS app
 
