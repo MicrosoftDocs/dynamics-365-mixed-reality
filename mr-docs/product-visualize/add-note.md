@@ -84,7 +84,7 @@ The following images show how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Photo](media/camera-roll.png "Tap Photo")
 
-3. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap **Next** ![Next](media/next.png "Next").
+3. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap **Next** ![Next button](media/next.png "Next button").
 
     > [!div class=mx-imgBorder]
     > ![Draw or add text](media/draw-add-text.png "Draw or add text")
@@ -92,7 +92,7 @@ The following images show how notes appear on the model, depending on where the 
     The captured image is displayed in the place of the **Attach image** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
 
     > [!div class=mx-imgBorder]
-    > ![Draw or add text](media/note-image-added.png "Draw or add text")
+    > ![Image added](media/note-image-added.png "Image added")
 
 4. Continue with adding a message to your note.
 
