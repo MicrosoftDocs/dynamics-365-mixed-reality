@@ -36,7 +36,7 @@ Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] ap
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/create-guides-that-support-branching-flows" target="_blank">Create guides that support non-linear (branching) workflows </a> | Yes |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-paste-position-orientation-scale-3d-model" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | Yes |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/extend-analytics-capabilities-guides-insights" target="_blank">Extend analytics capabilities with new time-tracking entities </a> | Yes |
 
 > [!NOTE]
