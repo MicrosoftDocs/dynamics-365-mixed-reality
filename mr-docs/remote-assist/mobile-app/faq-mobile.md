@@ -40,7 +40,7 @@ In Dynamics 365 Remote Assist mobile's **Main Menu**, go to **Information**, and
 
 Depending upon the device and platform (iOS or Android), the download size of the app (data transferred) will be between 70 MB and 120 MB. Once the app is downloaded, the app package is decompressed and installed and the final size on the device may be larger.
 
-## Does Remote Assist mobile support federation? 
+## Does Remote Assist mobile support external access (federation)? 
 
 No. External access (federation) is not supported for calls with Remote Assist mobile users at this time. Learn more about federation [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment).
 
