@@ -2,7 +2,7 @@
 author: xonatia
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist mobile.
 ms.author: xolee
-ms.date: 09/01/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist mobile frequently asked questions
@@ -39,6 +39,14 @@ In Dynamics 365 Remote Assist mobile's **Main Menu**, go to **Information**, and
 ## What is the size of the Dynamics 365 Remote Assist app?
 
 Depending upon the device and platform (iOS or Android), the download size of the app (data transferred) will be between 70 MB and 120 MB. Once the app is downloaded, the app package is decompressed and installed and the final size on the device may be larger.
+
+## Does Remote Assist mobile support federation? 
+
+No. External access (federation) is not supported for calls with Remote Assist mobile users at this time. Learn more about federation [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment).
+
+## Does Remote Assist mobile support guest access? 
+
+Yes. Guest access enables Teams admins or members to add individual users from outside their tenant into specific Teams teams and channels. Learn more about guest access [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment).
 
 ## Does Dynamics 365 Remote Assist mobile support the ability to see both the live video feed from the rear-facing camera as well as the technician's face from the front-facing camera?
 
