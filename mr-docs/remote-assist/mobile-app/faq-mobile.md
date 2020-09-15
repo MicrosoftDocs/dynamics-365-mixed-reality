@@ -33,8 +33,13 @@ In Dynamics 365 Remote Assist mobile's **Main Menu**, go to **Information**, and
 
 - **Can I make calls to a Teams desktop user?** Yes.
 - **Can I make calls to a Teams mobile user?** Yes.
+- **Can I make calls to a browser-based Teams user?** No, not at this time.
 - **Can I make or be in a group call or a call with three or more participants?** Yes.
 - **Can I be in a meeting?** No, not at this time.
+
+## If technicans have both Dynamics 365 Remote Assist mobile and Teams mobile on their devices, can they answer the call on Dynamics 365 Remote Assist mobile? 
+
+No, not at this time. In order to answer a call with Dynamics 365 Remote Assist mobile, technicians can **only** have Dynamics 365 Remote Assist mobile installed on their devices.
 
 ## What is the size of the Dynamics 365 Remote Assist mobile app?
 
@@ -51,6 +56,10 @@ Yes. Learn more about guest access [here](https://docs.microsoft.com/dynamics365
 ## Does Dynamics 365 Remote Assist mobile support the ability to see both the live video feed from the rear-facing camera as well as the technician's face from the front-facing camera?
 
 No, just the rear-facing camera at this time.
+
+## During a call, can technicians use both the Dynamics 365 Remote Assist mobile app and their device's flashlight?
+
+No, not at this time.
 
 ## What countries is Dynamics 365 Remote Assist mobile supported?
 
