@@ -31,10 +31,10 @@
 ### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
 ### Make calls
 #### [Overview](mobile-app/making-calls-on-remote-assist-mobile.md)
-#### [Calls between Dynamics 365 Remote Assist mobile users (preview)](mobile-app/remote-assist-mobile-to-remote-assist-mobile-calls.md)
+#### [Calls between Dynamics 365 Remote Assist mobile users](mobile-app/remote-assist-mobile-to-remote-assist-mobile-calls.md)
 #### [Calls between Dynamics 365 Remote Assist mobile & Microsoft Teams users](mobile-app/remote-assist-mobile-to-teams-calls.md)
-#### [Group calls with Dynamics 365 Remote Assist mobile (preview)](mobile-app/group-calling.md)
-#### [Calls using a mobile device without AR support (preview)](mobile-app/calls-using-devices-without-AR.md)
+#### [Group calls with Dynamics 365 Remote Assist mobile](mobile-app/group-calling.md)
+#### [Calls using a mobile device without AR support](mobile-app/calls-using-devices-without-AR.md)
 ### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
