@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: mamaylya
-ms.date: 09/03/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -29,12 +29,22 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
 
-## September 2, 2020
+## October 1, 2020
 
-Version 404.2009.2003 of the PC app and version 404.2009.2004 of the HoloLens app fixed a bug introduced in the August 25 release that prevented some guides from opening and displayed a misleading error message. You don't need to update the Dynamics 365 Guides solution to get this update.
+Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version XXX include the following new features.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/create-guides-that-support-branching-flows" target="_blank">Create guides that support non-linear (branching) workflows </a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/extend-analytics-capabilities-guides-insights" target="_blank">Extend analytics capabilities with new time-tracking entities </a> | Yes |
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
+## September 2, 2020
+
+Version 404.2009.2003 of the PC app and version 404.2009.2004 of the HoloLens app fixed a bug introduced in the August 25 release that prevented some guides from opening and displayed a misleading error message. You don't need to update the Dynamics 365 Guides solution to get this update.
 
 ## August 25, 2020
 
