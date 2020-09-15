@@ -44,9 +44,9 @@ Depending upon the device and platform (iOS or Android), the download size of th
 
 No. External access (federation) is not supported for calls with Remote Assist mobile users at this time. Learn more about federation [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment).
 
-## Does Dynamics 365 Remote Assist mobile support guest access? 
+## Can a Dynamics 365 Remote Assist mobile user join a call with a Teams user who is a guest in the Remote Assist user's tenant? 
 
-Yes. Guest access enables Teams admins or members to add individual users from outside their tenant into specific Teams teams and channels. Learn more about guest access [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment).
+Yes. Learn more about guest access [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment).
 
 ## Does Dynamics 365 Remote Assist mobile support the ability to see both the live video feed from the rear-facing camera as well as the technician's face from the front-facing camera?
 
@@ -54,12 +54,12 @@ No, just the rear-facing camera at this time.
 
 ## What countries is Dynamics 365 Remote Assist for Mobile supported?
 
-On **Android** devices, Dynamics 365 Remote Assist mobile is available in 146 countries, but not available in Cuba, Sudan or Iran. It's also usable in China when connecting to global tenants, but not in the store currently (we are working on that).
+On **Android** devices, Dynamics 365 Remote Assist mobile is available in 146 countries, but not available in Cuba, Sudan or Iran.
 
-For **iOS** devices, Dynamics 365 Remote Assist mobile is available in 155 countries.
+For **iOS** devices, Dynamics 365 Remote Assist mobile is available in 155 countries, including China.
 
 > [!Note]
-> In China, the Dynamics 365 Remote Assist mobile app is only available on iOS devices, and **not** Android devices. 
+> In China, the Dynamics 365 Remote Assist mobile app is only available on iOS devices, and **not** Android devices. For more information, contact D365rafb@microsoft.com. 
 
 ## What languages does Dynamics 365 Remote Assist Mobile support?
 
