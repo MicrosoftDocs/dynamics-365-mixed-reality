@@ -53,7 +53,7 @@ one of the responses, which determines their next step in the guide.
     
     ![Step Editor with Add command](media/branching-add-question-step-step-editor.PNG "Step Editor with Add command")
  
-3. Place your cursor where it says **Click to add a question**, and then enter a question for the operator.
+3. Place your cursor (you can use the Tab key if you're using the keyboard) where it says **Click to add a question**, and then enter a question for the operator.
 
     ![Where to place cursor](media/branching-add-question-text.PNG "Where to place cursor")
  
@@ -68,16 +68,15 @@ one of the responses, which determines their next step in the guide.
     
       ![Properties tab with Navigate to example](media/branching-response-properties.PNG "Properties tab with Navigate to example")
       
-5. Create the rest of your responses for that step. You can have up to three responses per step. Keep in mind that you can link one question step to another question step 
-and you can link to any step in the same guide.
+5. Create the rest of your responses for that step. You can have up to three responses per step. Keep in mind that you can link one question step to another question step, and you can link to any step in the same guide.
 
     > [!TIP]
-    > To clear a response, right-click the response, and then select **Remove**.
+    > To clear a response, right-click the response, and then select **Remove**. If you're using the keyboard, tab to the response, select the **Menu** button on the keyboard, and then select **Remove**. 
 
 ### Add a completion step
 
-In a branching guide, all paths may not lead to the same place, so you need to create a completion step to let the operator know when they’re done. When an operator 
-finishes a completion step, it triggers a Guide Complete event used for business intelligence dashboards and for overall time-tracking telemetry.
+In a branching guide, all paths may not lead to the same place, so you may want to create a completion step to let the operator know when they’re done. When an operator 
+finishes a completion step, it triggers a guide-complete event used for business intelligence dashboards and for overall time-tracking telemetry.
 
 > [!NOTE]
 > You may want to create a completion step for each path in a guide. For example, if you’re creating a guide with different skill levels, add a completion step at the end 
@@ -122,14 +121,6 @@ question step before the completion step and link the responses to the completio
     For example, in the following guide, if the operator selects **Yes**, the guide will take the operator to the completion step. If the operator selects **No**, the guide will take the operator to an additional task for further troubleshooting.
     
     ![Example of question step with Yes or No branch](media/branching-question-completion.PNG "Example of question step with Yes or No branch")
- 
-- It’s best to limit the number of responses in a step to three. If you need more than three responses, create another question step after the current step, and then use one of the responses to link to it. This provides three more responses to work with. You can do this as many times as you need.
-
-    ![Example of question step leading to another question step](media/branching-question-question.PNG "Example of question step leading to another question step")
-
-- You can also create a “diamond” flow, where two or more branching paths merge into one. For example, using the novice/expert example, you can create a question step at the end of each path that links to a new task. This allows you to create different steps for each training level that eventually lead to a shared path and ultimately the end of a guide.
-
-    ![Question steps that create a diamond flow](media/branching-diamond-flow.PNG "Question steps that create a diamond flow")
  
 ## See also
 
