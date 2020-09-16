@@ -64,9 +64,9 @@ one of the responses, which determines their next step in the guide.
 
     a. In the **Button label** field, enter the text for the response button. 
     
-    b. In the **Navigate to** list, select the step that the operator will go to when they select the response button. Steps are organized by task.
+    b. In the **Destination** list, select the step that the operator will go to when they select the response button. Steps are organized by task.
     
-      ![Properties tab with Navigate to example](media/branching-response-properties.PNG "Properties tab with Navigate to example")
+      ![Properties tab with Destination example](media/branching-response-properties.PNG "Properties tab with Destination example")
       
 5. Create the rest of your responses for that step. You can have up to three responses per step. Keep in mind that you can link one question step to another question step, and you can link to any step in the same guide.
 
@@ -102,9 +102,9 @@ You can try out your branching flow without leaving the **Step Editor**.
 
 2.	Use the **Next** button to move forward until you reach a question.
 
-3.	Right-click a configured response, and then in the context menu, select **Navigate to**.
+3.	Right-click a configured response, and then in the context menu, select **Destination**. If you're using a keyboard, tab to a response, and then press Enter to go to that response destination. 
 
-    ![Navigate to command when testing flow](media/branching-test-flow.PNG "Navigate to command when testing flow")
+    ![Destination command when testing flow](media/branching-test-flow.PNG "Destination command when testing flow")
  
     > [!NOTE]
     > Selecting the **Back** button will return you to the last step you were on, similar to how history works in a web browser. This is also true for the HoloLens app. 
