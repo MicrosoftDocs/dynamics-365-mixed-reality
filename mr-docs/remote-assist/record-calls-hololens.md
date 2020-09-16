@@ -3,7 +3,7 @@ title: Record calls in Dynamics 365 Remote Assist on HoloLens
 author: sophiasysun
 description: Use cloud-based recording or several other alternatives in Dynamics 365 Remote Assist on HoloLens
 ms.author: sopsun
-ms.date: 06/10/2020
+ms.date: 09/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -87,6 +87,9 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
   - Air tap when you are ready to record.
   - To stop recording, perform the **Start Gesture** and press the **Video** button.
 ![Screenshot from the HoloLens field of view, showing the video icon on the bottom tool pane.](media/RAHL_OSVideo.png)
+
+> [!Note]
+> If you are using this method to record your environment outside a call, joining a call will end the recording.
 
 2. By voice: 
 - Say "Hey Cortana, Record a video."
