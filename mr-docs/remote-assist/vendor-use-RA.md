@@ -87,5 +87,5 @@ For more information, see [Updated list of Information Barrier licenses](https:/
 
 >![Note] If you plan to send your vendor or customer a HoloLens to use Remote Assist, you can set up the service account on the device, and set up a PIN. Your vendor or customer can use that PIN to log in to the device. Then, using single sign on, your customer is now also logged into Remote Assist. This method provides two benefits. Your vendor or customer can quickly sign in to both the device and Remote Assist. Additionally, because you are providing a HoloLens-specific PIN instead of the service account password, your vendor or customer cannot use that service account on any other device.
 
->![Note] You may set up kiosk mode to limit your vendor or user to only using two apps on the HoloLens: the Settings app to configure WiFi, and the Remote Assist app.
+>![Note] You may set up [kiosk mode](https://docs.microsoft.com/hololens/hololens-kiosk) for the HoloLens to limit the apps that your vendor or user can access. For example, you can limit them to only using two apps on the HoloLens: the Settings app to configure WiFi, and the Remote Assist app.
 
