@@ -12,23 +12,29 @@ ms.reviewer: krbjoran
 
 ## Scenarios overview 
 There are several scenarios in which a Remote Assist user may want to enable an external user without a Remote Assist license--such as a B2B vendor, B2B customer, or B2C customer--to join a Remote Assist call on an ad-hoc, one-time basis. For example, a customer service agent may want to transition from a phone call to a mixed reality video call to visually assess a product, and overlay mixed reality instructions to guide their customer through the repair in real time. This document will use the term “agent” to refer to the licensed Remote Assist user, and “customer” to refer to the unlicensed external user. 
+
 Additional scenarios include: 
-•	A customer service agent received a request from a customer for a contactless design consultation before remodeling their kitchen. The agent wants to view their customer’s kitchen and provide ideas for products that would look good together. The agent provides their customer with a link to join the scheduled consultation via a Remote Assist call.
-•	A technician is repairing an asset, and wants to receive assistance from the asset’s original equipment manufacturer (OEM). 
+* A customer service agent received a request from a customer for a contactless design consultation before remodeling their kitchen. The agent wants to view their customer’s kitchen and provide ideas for products that would look good together. The agent provides their customer with a link to join the scheduled consultation via a Remote Assist call.
+* A technician is repairing an asset, and wants to receive assistance from the asset’s original equipment manufacturer (OEM). 
 Note that in these scenarios, the external user only needs join a Remote Assist call on an ad-hoc, one-time basis. The external user does not need to initiate a call or use Remote Assist’s out-of-call asset capture functionalities. 
-Now, any licensed Remote Assist user can use the Remote Assist web app via their mobile or desktop browser to generate a One-time Call link. The licensed Remote Assist user can share the link with an external user using their preferred communication platform (e.g., email, SMS, Dynamics 365 Omnichannel channels). The external user can join the call using the Remote Assist mobile app or Teams desktop app.
+Now, any licensed Remote Assist user can use the Remote Assist web app via their mobile or desktop browser to generate a one-time call link. The licensed Remote Assist user can share the link with an external user using their preferred communication platform (e.g., email, SMS, Dynamics 365 Omnichannel channels). The external user can join the call using the Remote Assist mobile app or Teams desktop app.
 
 ## Requirements  
-•	Set up your Dynamics environment [NEED LINK to Dhruv’s doc].
-•	The agent must use the Remote Assist web app on a compatible browser
-•	Enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Remote Assist web app. Pop-ups will be used for authentication purposes, and will automatically close.
-•	The agent’s organization must enable anonymous users to join Teams meeting.
-•	If an agent wants to manually admit a customer into the call, the agent’s organization must configure their Teams meetings settings such that Everyone in your organization and federated organizations bypasses the lobby, or enable Everyone in your organization bypasses the lobby.
+* Set up your Dynamics environment [NEED LINK to Dhruv’s doc].
+* The agent must use the Remote Assist web app on a compatible browser
+* Enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Remote Assist web app. Pop-ups will be used for authentication purposes, and will automatically close.
+* The agent’s organization must enable anonymous users to join Teams meeting.
+* If an agent wants to manually admit a customer into the call, the agent’s organization must configure their Teams meetings settings such that Everyone in your organization and federated organizations bypasses the lobby, or enable Everyone in your organization bypasses the lobby.
 
 ## Agent experience 
+
+|     Before selecting Generate a link on the desktop web app     |     After selecting Generate a link and Copy on the desktop   web app    |  
+|-----------------------------------------------------------------|--------------------------------------------------------------------------|
+| ![Screenshot showing Remote Assist on a mobile device, in the text chat, highlighting the attachment and image icons.](./media/filesicons.PNG) | ![Screenshot showing Remote Assist on a mobile device, in the text chat, highlighting the attachment and image icons.](./media/filesicons.PNG)| 
+
+
 Before selecting Generate a link on the desktop web app 	After selecting Generate a link and Copy on the desktop web app
 	 
-
 ### Step 1: Generate a call link
 Navigate to your organization’s environment, log in, and select Dynamics 365 Remote Assist. Then, select One-time Call. Please contact your administrator for your tenant-specific environment URL.
 Select Generate a link to generate a link your customer will use to join the call now. When you select Generate a link, a meeting will appear on your Teams calendar named Remote Assist call. The meeting is scheduled to start at the upcoming 15-minute mark and last for 15 minutes. 
