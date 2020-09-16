@@ -30,7 +30,7 @@ Now, any licensed Remote Assist user can use the Remote Assist web app via their
 
 |     Before selecting Generate a link on the desktop web app     |     After selecting Generate a link and Copy on the desktop   web app    |  
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![Screenshot showing Remote Assist on a mobile device, in the text chat, highlighting the attachment and image icons.](./media/filesicons.PNG) | ![Screenshot showing Remote Assist on a mobile device, in the text chat, highlighting the attachment and image icons.](./media/filesicons.PNG)| 
+| ![Before selecting Generate a link on the desktop web app](./media/OTC-C1-before-generate-link.png) | ![After selecting Generate a link and Copy on the desktop   web app  ](./media/OTC-C1-after-generate-link.png)| 
 
 
 Before selecting Generate a link on the desktop web app 	After selecting Generate a link and Copy on the desktop web app
