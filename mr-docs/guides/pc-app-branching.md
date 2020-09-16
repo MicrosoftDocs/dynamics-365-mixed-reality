@@ -104,7 +104,7 @@ You can try out your branching flow without leaving the **Step Editor**.
 
 3.	Select the circular button for a configured response. If you're using a keyboard, tab to a response, tab to the circular button, and then press Enter to go to that response destination. 
 
-    ![Destination command when testing flow](media/branching-test-flow.PNG "Destination command when testing flow")
+    ![Circular button](media/circular-button.PNG "Circular button")
  
     > [!NOTE]
     > Selecting the **Back** button will return you to the last step you were on, similar to how history works in a web browser. This is also true for the HoloLens app. 
