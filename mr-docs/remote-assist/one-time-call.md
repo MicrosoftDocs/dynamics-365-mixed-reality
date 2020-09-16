@@ -32,8 +32,6 @@ Now, any licensed Remote Assist user can use the Remote Assist web app via their
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|
 | ![Before selecting Generate a link on the desktop web app](./media/OTC-C1-before-generate-link.png) | ![After selecting Generate a link and Copy on the desktop   web app  ](./media/OTC-C1-after-generate-link.png)| 
 
-
-Before selecting Generate a link on the desktop web app 	After selecting Generate a link and Copy on the desktop web app
 	 
 ### Step 1: Generate a call link
 Navigate to your organization’s environment, log in, and select Dynamics 365 Remote Assist. Then, select One-time Call. Please contact your administrator for your tenant-specific environment URL.
