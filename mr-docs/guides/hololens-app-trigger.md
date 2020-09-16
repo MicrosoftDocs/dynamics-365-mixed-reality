@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to create and place a trigger in the Dynamics 365 Guides HoloLens app to automatically advance the operator to the next step based on detection of their hands in HoloLens 2.
 ms.author: mamaylya
-ms.date: 08/25/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Create and place a trigger for step navigation in the Dynamics 365 Guides HoloLens app
@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Create and place a trigger for step navigation in the Dynamics 365 Guides HoloLens app
 
-After you create a trigger in the [Microsoft Dynamics 365 Guides PC app](pc-app-trigger.md), you can place and test it in the HoloLens app. You can also create the trigger directly in the HoloLens app, as described in this article.
+After you create a trigger in the [Microsoft Dynamics 365 Guides PC app](pc-app-trigger.md), you can place and test it in the HoloLens app. You can also create the trigger directly in the HoloLens app, as described in this article. You can also use triggers together with branching (non-linear) guides. [Learn more about branching guides](pc-app-branching.md)
 
 ## Create a trigger in the HoloLens app
 
