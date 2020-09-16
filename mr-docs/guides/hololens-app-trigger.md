@@ -48,6 +48,12 @@ You can [place and size a trigger](hololens-app-orientation.md#place-your-hologr
         When alerting an operator that they've done an incorrect action, consider using a branch to take the user to a pre-authored corrective step. [Learn more about branching](pc-app-branching.md).
      
         When alerting an operator about a safety concern, consider using a branch to take the user to a pre-authored warning step. 
+        
+    - **On exit**. Use on-exit triggers for actions that require an operator to do something before moving to the next step. Examples:
+    
+        When using a tool to tighten a fastener, activate the trigger after the user has finished the action.
+        
+        When collecting a tool or part needed for the next step, activate the trigger after the user has aquired the tool or part.        
 
 - **Using multiple triggers.** Since triggers always have a cube shape, in some cases, you may want to use multiple triggers to make sure the operator activates the trigger. For example, if the area you want to cover for a trigger is rectangular in shape, you could put multiple duplicate triggers next to each other if you don’t know the exact spot where the operator’s hand will exit the trigger area. You can add as many triggers as you want for each step.
 
