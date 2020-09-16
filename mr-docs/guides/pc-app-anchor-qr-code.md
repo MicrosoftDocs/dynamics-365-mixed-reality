@@ -155,6 +155,8 @@ negatively affected.
 
 - **Scanning angle**. When you gaze at the anchor, make sure that you're facing it straight on and at the correct distance.
 
+    - Scanning from the same angle every time is important to maintain hologram position consistency across scans.
+
     - Scanning from glancing angles can cause detection failure or misalignment.
 
     - The ideal scanning range is from 50 to 150 centimeters (cm).
