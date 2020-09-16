@@ -102,7 +102,7 @@ You can try out your branching flow without leaving the **Step Editor**.
 
 2.	Use the **Next** button to move forward until you reach a question.
 
-3.	Right-click a configured response, and then in the context menu, select **Destination**. If you're using a keyboard, tab to a response, and then press Enter to go to that response destination. 
+3.	Select the circular button for a configured response. If you're using a keyboard, tab to a response, tab to the circular button, and then press Enter to go to that response destination. 
 
     ![Destination command when testing flow](media/branching-test-flow.PNG "Destination command when testing flow")
  
