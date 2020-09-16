@@ -52,9 +52,7 @@ Please note that Dynamics 365 Remote Assist device requirements apply to your cu
 After your customer launches the call and enters their name, they will enter the call lobby. Admit them into the call. Your customer will not be able to show you their environment and use annotations until you admit them into the call. 
 If you are joining the call using Teams desktop, you will receive a notification that looks like this when your customer is waiting in the lobby. If you are joining the call using Remote Assist mobile app, you will receive a notification that looks like the following image when your customer is waiting in the lobby. Select Admit. 
 
-![After selecting Generate a link and Copy on the desktop   web app  ](./media/OTC-C1-lobby.png "After")
-
-
+![Admit into lobby](./media/OTC-C1-lobby.png "Admit")
  
 ## Your customer’s experience 
 
@@ -64,13 +62,21 @@ If you are joining the call using Teams desktop, you will receive a notification
 
 **Step 3**: Your customer is prompted to enter their name. 
 
-**Step 4**: Your customer waits for you to admit them into the call.
- 
-**Step 5**: After your customer selects the End call button, they are prompted to confirm that they want to leave the call.	After your customer leaves the call, they will not be able to rejoin the call or view the chat history.  
+![Enter name](./media/OTC-C2-enter-name.png "Enter name")
 
+**Step 4**: Your customer waits for you to admit them into the call.
+![Wait to join call](./media/OTC-C2-in-lobby.png "Wait to join call")
+ 
+**Step 5**: 
+
+|     After your customer selects the End call button, they are prompted to confirm that they want to leave the call.	   |     After your customer leaves the call, they will not be able to rejoin the call or view the chat history.    |  
+|-----------------------------------------------------------------|--------------------------------------------------------------------------|
+| ![Confirm to leave](./media/OTC-C2-call-ended.png "Confirm to leave") | ![Cannot rejoin call](./media/OTC-C2-leave-call.png "Cannot rejoin call")| 
 
 ## FAQ
+
 ### Agent experience 
+
 #### Does the agent need a special Remote Assist license to use the one-time call feature? 
 No.
 #### Can an organization customize which licensed Remote Assist users can access the Remote Assist web app?   
