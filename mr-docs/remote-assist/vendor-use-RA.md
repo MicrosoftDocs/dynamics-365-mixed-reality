@@ -1,25 +1,20 @@
 ---
 author: sophiasysun
-description: Vendors and contractors use Remote Assist
+description: Vendors and customers use full Dynamics 365 Remote Assist capabilities 
 ms.author: sopsun
 ms.date: 04/02/2020
 ms.service: crm-online
 ms.topic: article
-title: Vendors and contractors use Remote Assist
+title: Vendors and customers use full Dynamics 365 Remote Assist capabilities 
 ms.reviewer: krbjoran
 ---
 
-# Vendors and contractors use Remote Assist
+# Vendors and customers use full Dynamics 365 Remote Assist capabilities 
 
-A Remote Assist call involves one party (technician) using Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technicians and remote collaborators all belong to the same tenant, and thus a [standard deployment of Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
 
-However, there are certain scenarios where this may not be the case: 
+## Scenario overview
 
-1. **Multi-tenant company deployments**: A company has multiple organizations or business units, each with their own tenant, that want to collaborate using Remote Assist. Or, multiple companies want to collaborate using Remote Assist. Users who want to use Remote Assist already have Remote Assist licenses, and users who want to use Teams already have Teams licenses. They want to initiate ad hoc calls and meetings with each other. [Learn more about this scenario.](multi-tenant-deployment.md) 
-
-2. **Vendors and contractors use Remote Assist app**: A company wants vendors and contractors who do not already have Remote Assist and aren’t part of the company tenant to use Remote Assist. This document focuses on this scenario.
-
-3. **Vendors and contractors use Teams app**: A company wants to provide employees with a quick and easy way to use Remote Assist HoloLens to receive assistance from out-of-tenant collaborators who may or may not have Teams. The company does not want to set up guest access or external access. [Learn more about this scenario.](vendor-use-teams.md) 
+There are several scenarios in which a Remote Assist user wants to enable an external user without a Remote Assist license--such as a B2B vendor or B2B customer--to use full Remote Assist capabilities. For example, an OEM may want to offer premium customer service by providing their customer with a HoloLens and enabling them to call the OEM as many times as they need to set up a complicated asset. Or, an inspector may have a long-term collaboration with a vendor. The inspector wants the vendor to asynchronously capture asset quality or call the inspector so they can assess the asset’s condition in real time.  
 
 > [!Note] 
 > This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Remote Assist, please contact your Microsoft sales representative.
@@ -31,9 +26,6 @@ Throughout this article, we'll be referring to a few account types:
 1. **Internal account**: An Azure Active Directory (Azure AD) account that is created inside your tenant for internal users.
 2. **Service account**: An Azure AD account that is created inside your tenant for users who are not currently part of your tenant.
 
-## Scenario overview
-
-Companies frequently want to leverage non-company employees such as vendors or contractors to perform specific service tasks. In this case, companies still handle all license configuration, but want to enable their vendors or contractors to seamlessly use Remote Assist to collaborate with them. 
 
 ## Example
 
@@ -92,3 +84,8 @@ For more information, see [Updated list of Information Barrier licenses](https:/
 5. [Assign licenses](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) to each service account user. 
 
 6. If information barriers are necessary, [configure information barriers](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide).
+
+>![Note] If you plan to send your vendor or customer a HoloLens to use Remote Assist, you can set up the service account on the device, and set up a PIN. Your vendor or customer can use that PIN to log in to the device. Then, using single sign on, your customer is now also logged into Remote Assist. This method provides two benefits. Your vendor or customer can quickly sign in to both the device and Remote Assist. Additionally, because you are providing a HoloLens-specific PIN instead of the service account password, your vendor or customer cannot use that service account on any other device.
+
+>![Note] You may set up kiosk mode to limit your vendor or user to only using two apps on the HoloLens: the Settings app to configure WiFi, and the Remote Assist app.
+
