@@ -3,7 +3,7 @@ title: Call recording with Dynamics 365 Remote Assist mobile
 author: xonatia
 description: Technicians can record a one-to-one call with remote collaborators in Dynamics 365 Remote Assist mobile
 ms.author: xolee
-ms.date: 07/01/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -16,7 +16,7 @@ With call recording, technicians can comprehensively document their Dynamics 365
 - **Validation** that the maintenance and repair process was completed correctly.
 - **Training material** for their workers.
 
-This feature is only available for **one-to-one calls between a Dynamics 365 Remote Assist mobile user and a Teams desktop user**, *not a Teams mobile user*. After the call recording ends, it's automatically uploaded to **Microsoft Stream**. After the recording is uploaded, all call participants can access it via their Dynamics 365 Remote Assist mobile call text chat or the Microsoft Teams chat. The Dynamics 365 Remote Assist mobile user, who started the call recording, can also see it in their [Microsoft Stream videos folder](https://web.microsoftstream.com/studio/videos).
+This feature is only available for **one-to-one or group calls between a Dynamics 365 Remote Assist mobile user, Dynamics 365 Remote Assist HoloLens user, and a Teams desktop user**, *not a Teams mobile user*. After the call recording ends, it's automatically uploaded to **Microsoft Stream**. After the recording is uploaded, all call participants can access it via their Dynamics 365 Remote Assist mobile call text chat or the Microsoft Teams chat. The Dynamics 365 Remote Assist mobile user, who started the call recording, can also see it in their [Microsoft Stream videos folder](https://web.microsoftstream.com/studio/videos).
 
 ## How it works
 
