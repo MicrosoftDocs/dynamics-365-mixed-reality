@@ -51,6 +51,9 @@ Please note that Dynamics 365 Remote Assist device requirements apply to your cu
 ### Step 4: Admit your customer into the call
 After your customer launches the call and enters their name, they will enter the call lobby. Admit them into the call. Your customer will not be able to show you their environment and use annotations until you admit them into the call. 
 If you are joining the call using Teams desktop, you will receive a notification that looks like this when your customer is waiting in the lobby. If you are joining the call using Remote Assist mobile app, you will receive a notification that looks like the following image when your customer is waiting in the lobby. Select Admit. 
+
+![Admit from lobby](.media/OTC-C1-lobby.png "Admit from lobby")
+
  
 ## Your customer’s experience 
 
