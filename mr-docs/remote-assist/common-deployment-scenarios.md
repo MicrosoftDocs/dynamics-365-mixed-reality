@@ -12,7 +12,8 @@ ms.reviewer: krbjoran
 
 There are many types of Remote Assist calls, some of which include only Remote Assist app users (e.g., a call between two Remote Assist mobile users), and some of which include Remote Assist app users and Teams app users (e.g., a meeting between one Remote Assist HoloLens user and two Teams desktop users). The deployment required to enable users to join the same Remote Assist call depends on several factors. This article describes four common deployment scenarios and the deployment required for each.
 
-![Common deployment scenarios](.media/common-deployment-scenarios.png "Common deployment scenarios")
+
+![Before selecting Generate a link on the desktop web app](.media/common-deployment-scenarios.png "Before") 
 
 ## Key terms: 
 -	Remote Assist user: Someone who uses the Remote Assist app on HoloLens or mobile devices to join a Remote Assist call or meeting  
