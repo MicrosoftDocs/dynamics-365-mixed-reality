@@ -12,6 +12,17 @@ ms.reviewer: krbjoran
 
 In Dynamics 365 Remote Assist mobile, mixed reality annotations enable technicians and remote collaborators to visually specify an area or particular asset in their environment to look at or manipulate. During a Dynamics 365 Remote Assist mobile video call, the technicians will share their environment with the remote collaborator through their rear-facing camera. The technician can instantly place mixed reality annotations on their shared environment. However, the remote collaborator must place mixed reality annotations on a frozen frame of the technician's shared environment.  
 
+### Add arrow annotation 
+To position the arrow: 
+- Make sure the arrow is selected in the annotation toolbar. 
+- Tap and place the ghost arrow on your device screen
+- Tap and hold on the arrow to rotate the arrow (it can rotate 360 degrees)
+
+### Add ink annotation 
+To determine where you start drawing:
+- Make sure the ink pen is selected in the annotation toolbar. 
+- Tap and hold on the screen to start drawing 
+
 ## Annotating for technicians using Dynamics 365 Remote Assist mobile
 
 1. The annotation toolbar allows technicians to place **Arrows** and **Drawings** into their environment. The **Color picker** changes the color of your annotations. The **Undo** icon allows technicians to remove the last annotation that they placed in their environment. The **Delete All** icon allows technicians to remove all annotations that they placed in their environment (they cannot remove the expert's annotations).
