@@ -17,6 +17,10 @@ Here are some answers to common questions about using Dynamics 365 Remote Assist
 
 In Remote Assist HoloLens, go to the **Settings tab**, and then find the version number in the bottom left of the screen.
 
+## How can I use the newest version of Dynamics 365 Remote Assist?
+
+There are several ways to [update your app](https://docs.microsoft.com/hololens/holographic-store-apps#update-apps). [Learn about the newest version of Dynamics 365 Remote Assist.](version-history-remote-assist-hololens.md)
+
 ## What languages is Remote Assist HoloLens available in?
 
 Remote Assist on HoloLens is available in English. As of October 2018, it's also [available in Simplified Chinese and Japanese](https://docs.microsoft.com/windows/mixed-reality/release-notes-october-2018#for-international-customers). Learn how to [switch to the Chinese or Japanese version of HoloLens](https://docs.microsoft.com/hololens/hololens1-install-localized).
