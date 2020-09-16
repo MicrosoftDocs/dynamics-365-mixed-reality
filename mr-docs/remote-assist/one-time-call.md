@@ -71,7 +71,7 @@ If you are joining the call using Teams desktop, you will receive a notification
 
 |     After your customer selects the End call button, they are prompted to confirm that they want to leave the call.	   |     After your customer leaves the call, they will not be able to rejoin the call or view the chat history.    |  
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![Confirm to leave](./media/OTC-C2-call-ended.png "Confirm to leave") | ![Cannot rejoin call](./media/OTC-C2-leave-call.png "Cannot rejoin call")| 
+| ![Confirm to leave](./media/OTC-C2-leave-call.png "Confirm to leave") | ![Cannot rejoin call](./media/OTC-C2-call-ended.png "Cannot rejoin call")| 
 
 ## FAQ
 
@@ -84,7 +84,7 @@ No.
 #### Can an agent use the Dynamics 365 mobile app, instead of the mobile browser, to generate One-time Call links?
 No – you may only access the web app via desktop web browser or mobile web browser.
 #### Can I embed the Dynamics 365 Remote Assist web app in Teams?
-If you want to join the One-time Call from your desktop, you may want to embed the Remote Assist web app in Teams to minimize switching between the Remote Assist web app and the Teams desktop app. 
+If you want to join the One-time Call from your desktop, you may want to [embed the Remote Assist web app in Teams](https://docs.microsoft.com/dynamics365/teams-integration/teams-install-app#in-microsoft-teams-set-up-the-personal-dashboard) to minimize switching between the Remote Assist web app and the Teams desktop app. 
 #### When the agent selects “Generate a link,” no pop-ups appear, and the agent is unable to copy the link to send to their customer.
 Each browser handles pop-ups differently. Please refer to browser-specific instructions to enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL. Please contact your administrator for your tenant-specific environment URL. 
 #### Can an agent modify the instructions they copy and share with their customer?
@@ -95,7 +95,7 @@ However, when an agent sets up the call via mobile browser and selects Join the 
 #### After the agent generates a call link, the call appears on their Teams calendar. They can select that meeting via Teams desktop to join the One-time Call via Teams desktop app. However, can they select that meeting via Teams mobile or Remote Assist mobile to join the One-time Call using Teams mobile or Remote Assist mobile, respectively? 
 No. The agent cannot join a One-time Call via Teams mobile app. In addition, the only way an agent can join the One-time Call via Remote Assist mobile app is by using the Remote Assist web app to generate the call link, and then selecting Join the call.
 #### When the agent selects Generate a link, a meeting will appear on their Teams calendar. Can a licensed Remote Assist user join the meeting from Remote Assist on HoloLens? 
-Yes. However, the Remote Assist HoloLens user cannot admit people from the lobby into the call. Please follow instructions listed at the end of this document to modify the meeting before inviting guests to join the meeting. 
+Yes. However, the Remote Assist HoloLens user cannot admit people from the lobby into the call. Please follow instructions listed at the end of [this document](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/join-meeting-hololens) to modify the meeting before inviting guests to join the meeting. 
 #### What’s the difference between the agent creating a meeting using Teams and forwarding it to their customer, versus setting up a call using the Remote Assist web app and sending their customer the One-time Call link? 
 There are two main differences. First, setting up the call via Remote Assist web app and selecting Join call enables the agent to join the call using Remote Assist mobile. Second, setting up the call via Remote Assist web app enables the agent to send a link that their customer can use to join the call using Remote Assist mobile.
 #### How many people can join a One-time Call?
@@ -114,27 +114,23 @@ Yes.
 Yes.
 #### What Remote Assist features are not available for your customer, if they join the call as an unauthenticated call participant?  
 If your customer joins the call as an unauthenticated user, they will not be able to:
--	Add 2D annotations via snapshots
--	Send or receive OneDrive files
--	Receive a prompt to use snapshots when they are experiencing poor network conditions.
--	Record a the call  
--	View the call participant list and invite people to join the call 
+* Add 2D annotations via snapshots
+* Send or receive OneDrive files
+* Receive a prompt to use snapshots when they are experiencing poor network conditions.
+* Record a the call  
+* View the call participant list and invite people to join the call 
 This means that an external user using Dynamic 365 Remote Assist on a non-AR mobile device will not be able to share or receive annotations.
 #### After the call ends, can an authenticated user access the chat history? 
 No.
 #### The call disconnected and the customer received a new link to join the call. When they select the link, they view the “Call ended” page instead of joining the new call. How can they join the new call?
 Your customer must fully close the app and select the new link again.
 If the customer has Chrome or Edge set as their default browser on their Android mobile device, in some circumstances, they may see this screen and need to take an extra step to join the call.
- 
-User action	Next step
-User accidentally selects the second link (the call link) before downloading Dynamics 365 Remote Assist mobile app
-	The customer should select the first button on this page to download Dynamics 365 Remote Assist mobile app. Then, they can select the second link in the agent’s message, or the second button on the page shown above, to join the call.   
 
-User enters the call link into a Chrome or Edge browser, instead of selecting the link from the agent’s message. 
-	The customer should select the second button on this page to join the call.
+![Edge case landing page](./media/OTC-C2-edge-case-landing-page.png "Edge case landing page")
 
-
-
-
-
+|     User action    |     Next step   |  
+|-----------------------------------------------------------------|--------------------------------------------------------------------------|
+| User accidentally selects the second link (the call link) before downloading Dynamics 365 Remote Assist mobile app | 
+	The customer should select the first button on this page to download Dynamics 365 Remote Assist mobile app. Then, they can select the second link in the agent’s message, or the second button on the page shown above, to join the call.   | 
+	|User enters the call link into a Chrome or Edge browser, instead of selecting the link from the agent’s message. |The customer should select the second button on this page to join the call.|
 
