@@ -12,14 +12,17 @@ ms.reviewer: krbjoran
 # Set up Microsoft Teams with Dynamics 365 Remote Assist  
 
 A technician or inspector can use Remote Assist to work collaboratively with a remote colleague (typically an expert in a particular field) who uses Microsoft Teams. 
+They may only want to [join a Remote Assist call on an ad hoc, one-time basis](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/ra-10-1-working/mr-docs/remote-assist/common-deployment-scenarios.md#scenario-3-vendors-and-customers-join-one-time-call). Or, they may want to collaborate with a Remote Assist user long-term.  
+ 
+This document explains the deployment required for different scenarios.
 
-## Prerequisites
+## How to enable someone to join a Remote Assist call on a one-time basis using the Teams desktop app 
 
-Learn about the licensing and device requirements [here](requirements.md).
+**Recommended**: [One-time call](one-time-call.md) now makes it easier for Remote Assist users to invite collaborators to join the call using Remote Assist mobile or Teams desktop! The licensed Remote Assist user can use the Remote Assist mobile web app to set up a one-time call and share the one-time call link with the Teams desktop user. The Remote Assist user can then join the call using Remote Assist mobile or Remote Assist HoloLens.
 
-## How to set up Teams depending on your scenario
+**Alternatively,** the licensed Remote Assist user can still [set up a Teams meeting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/join-meeting-hololens#tip-for-setting-up-a-meeting) and join the meeting using Remote Assist HoloLens. 
 
-Remote Assist users and Teams users may be in the same tenant or different tenants. How you set up Teams depends on your scenario.
+### How to enable someone to make calls to and receive calls from a Remote Assist user long-term
 
 | Scenario                                                                                                                                                                                                                                                                                                                    | Teams set up required                                                                                                                                                                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
