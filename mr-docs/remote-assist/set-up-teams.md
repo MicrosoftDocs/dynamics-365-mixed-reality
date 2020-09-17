@@ -16,15 +16,15 @@ They may only want to [join a Remote Assist call on an ad hoc, one-time basis](h
  
 This document explains the deployment required for different scenarios.
 
-## How to enable someone to join a Remote Assist call on a one-time basis using the Teams desktop app 
+## Enable someone to join a Remote Assist call on a one-time basis using the Teams desktop app 
 
 **Recommended**: [One-time call](one-time-call.md) now makes it easier for Remote Assist users to invite collaborators to join the call using Remote Assist mobile or Teams desktop! The licensed Remote Assist user can use the Remote Assist mobile web app to set up a one-time call and share the one-time call link with the Teams desktop user. The Remote Assist user can then join the call using Remote Assist mobile or Remote Assist HoloLens.
 
 **Alternatively,** the licensed Remote Assist user can still [set up a Teams meeting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/join-meeting-hololens#tip-for-setting-up-a-meeting) and join the meeting using Remote Assist HoloLens. 
 
-### How to enable someone to make calls to and receive calls from a Remote Assist user long-term
+## Enable someone to make calls to and receive calls from a Remote Assist user long-term
 
-| Scenario                                                                                                                                                                                                                                                                                                                    | Teams set up required                                                                                                                                                                          |
+| Scenario                                                                                                                                                                                                                                                                                                                    | How to enable someone to use Teams dessktop app or Teams mobile app                                                                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | People who want to use Remote Assist and people who want to use Teams are both currently in your tenant                                                                                                                                                                                                                | [Assign Teams licenses to people in your tenant](https://docs.microsoft.com/MicrosoftTeams/user-access).                                                             |
 | Advanced deployment: [Multi-tenant company deployment using federation](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment#solution-1-federation) | The administrator of the tenant with users who want to use Teams must [assign Teams licenses to people in their tenant](https://docs.microsoft.com/MicrosoftTeams/user-access).                      |
