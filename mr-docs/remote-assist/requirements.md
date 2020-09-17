@@ -15,11 +15,11 @@ The following tables list technical requirements for deploying and using Microso
 
 ## Device requirements
 
-A Remote Assist call is between a Remote Assist user and a Microsoft Teams user.
+Both Remote Assist users and Teams users can join a Remote Assist call. [Learn more about the different types of calls.](making-calls-on-remote-assist-mobile.md)
 
-Remote Assist is available on HoloLens, HoloLens 2, and qualifying Android or iOS mobile devices.
+The Remote Assist app is available on HoloLens, HoloLens 2, and qualifying Android or iOS mobile devices.
 
-To collaborate with a Remote Assist user, a Microsoft Teams user may only use the Teams application on Windows 10 PC or mobile devices.
+If an individual wants to join a Remote Assist call using the Teams app, they must use the Teams application on Windows 10 PC or mobile devices.
 
 ### Device options and requirements for a Remote Assist user
 
