@@ -3,7 +3,7 @@ title: Send chat messages in Dynamics 365 Remote Assist mobile
 author: xonatia
 description: How to send messages via text chat in Dynamics 365 Remote Assist mobile
 ms.author: xolee
-ms.date: 02/27/2020
+ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran

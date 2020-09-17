@@ -3,7 +3,7 @@ title: Annotate the technician's environment in Dynamics 365 Remote Assist mobil
 author: xonatia
 description: How to add annotations to your environment in Dynamics 365 Remote Assist mobile 
 ms.author: xolee
-ms.date: 07/01/2020
+ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
