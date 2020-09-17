@@ -70,14 +70,7 @@ You can segment users based on different attributes, such as what department the
 
 Learn about [licenses required to use Remote Assist](requirements.md).
 
-If you would like to control who the service account user can search and collaborate with, you will need to assign the service account an information barrier license. The following licensing suites include information barrier licenses:
-
-- Microsoft 365 E5
-- Office 365 E5
-- Office 365 Advanced Compliance
-- Microsoft 365 E5 Information Protection and Compliance
-
-For more information, see [Updated list of Information Barrier licenses](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide#required-licenses-and-permissions)
+If you would like to control who the service account user can search and collaborate with, you will need to assign the service account an information barrier license. These [licensing suites](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide#required-licenses-and-permissions) include information barrier licenses.
 
 4. [Create service accounts](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory).
 
