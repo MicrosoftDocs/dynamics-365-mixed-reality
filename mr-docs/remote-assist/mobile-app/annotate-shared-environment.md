@@ -22,7 +22,7 @@ The annotation toolbar allows technicians to place **Arrows** and **Drawings** i
 
 1. As the technician, you can place your annotations to your shared environment. The remote collaborator will see your annotations in real time on their device screens.
 
-![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/in-call-ram.png "Place Annotations")
+![Screenshot of Dynamics 365 Remote Assist mobile showing an annotation.](./media/in-call-ram.png)
 
 ## Adding annotations for remote collaborators in Dynamics 365 Remote Assist mobile to Dynamics 365 Remote Assist mobile calls
 
@@ -35,9 +35,9 @@ The annotation toolbar allows technicians to place **Arrows** and **Drawings** i
 
 2. You will view a **snapshot** of the technician's environment and then you can add your annotations onto the snapshot.
 
-![Side-by-side screenshots of Dynamics 365 Remote Assist mobile and Microsoft Teams, showing annotations appearing in both screens.](./media/ram-ram-remote-collab.png "Place Annotations")
+![screenshot of Dynamics 365 Remote Assist mobile showing an arrow annotation.](./media/ram-ram-remote-collab.png "Place Annotations")
 
-3. To stop adding annotations to the snapshot, you must select **Check Mark**. You will return to the technician's live video feed and your annotations will automatically appear on the technician's environment.
+1. To stop adding annotations to the snapshot, you must select **Check Mark**. You will return to the technician's live video feed and your annotations will automatically appear on the technician's environment.
 
 ## Adding annotations for remote collaborators in Dynamics 365 Remote Assist mobile to Teams desktop or mobile calls
 
