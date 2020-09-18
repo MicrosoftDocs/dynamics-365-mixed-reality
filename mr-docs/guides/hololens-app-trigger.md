@@ -11,7 +11,10 @@ ms.reviewer: v-brycho
 
 # Create and place a trigger for step navigation in the Dynamics 365 Guides HoloLens app
 
-After you create a trigger in the [Microsoft Dynamics 365 Guides PC app](pc-app-trigger.md), you can place and test it in the HoloLens app. You can also create the trigger directly in the HoloLens app, as described in this article. You can also use triggers together with branching (non-linear) guides. [Learn more about branching guides](pc-app-branching.md)
+After you create a trigger in the [Microsoft Dynamics 365 Guides PC app](pc-app-trigger.md), you can place and test it in the HoloLens app. You can also create the trigger directly in the HoloLens app, as described in this article. 
+
+> [!NOTE]
+> You can also use triggers together with branching (non-linear) guides. [Learn more about branching guides](pc-app-branching.md)
 
 ## Create a trigger in the HoloLens app
 
@@ -40,6 +43,8 @@ You can [place and size a trigger](hololens-app-orientation.md#place-your-hologr
 - **Size.** It’s important to make the trigger cube the right size. If you make the trigger too big, the operator might activate the trigger unexpectedly at the wrong time. If you make the trigger too small, the operator might miss it completely. The trigger needs to be big enough to place hands inside. 
 
 - **Using multiple triggers.** Since triggers always have a cube shape, in some cases, you may want to use multiple triggers to make sure the operator activates the trigger. For example, if the area you want to cover for a trigger is rectangular in shape, you could put multiple duplicate triggers next to each other if you don’t know the exact spot where the operator’s hand will exit the trigger area. You can add as many triggers as you want for each step.
+
+- **Deciding on when the trigger is activated.** You can activate a trigger when the user's hand enters the trigger area or when it exits the trigger area. [Learn more about when to use each type of activation](pc-app-trigger.md).
 
 > [!TIP]
 > You can duplicate a trigger by using the **Duplicate** command in the **Edit Trigger** menu.
