@@ -13,6 +13,11 @@ ms.reviewer: krbjoran
 
 The following tables list technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist.
 
+## Definitions
+
+**Remote Assist user:** Someone who uses the Remote Assist app on HoloLens or mobile devices to join a Remote Assist call or meeting.
+**Teams user:** Someone who uses the Teams app on HoloLens or mobile devices to join a Remote Assist call or meeting.
+
 ## Device requirements
 
 Both Remote Assist users and Teams users can join a Remote Assist call. [Learn more about the different types of calls.](making-calls-on-remote-assist-mobile.md)
@@ -35,7 +40,7 @@ If an individual wants to join a Remote Assist call using the Teams app, they mu
 | Teams application on Windows 10 PC | Any Windows 10 build.                                       | A Windows 10 PC running the Teams PC application can collaborate with Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices.                |
 | Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices. |
 
-## Licensing requirements per role
+## Licensing and product requirements per role
 
 | Role                                       | Software needed                                                                                                                                                                             |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
