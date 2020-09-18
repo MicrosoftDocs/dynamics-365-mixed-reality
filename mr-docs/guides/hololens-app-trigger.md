@@ -44,10 +44,10 @@ You can [place and size a trigger](hololens-app-orientation.md#place-your-hologr
 
 - **Using multiple triggers.** Since triggers always have a cube shape, in some cases, you may want to use multiple triggers to make sure the operator activates the trigger. For example, if the area you want to cover for a trigger is rectangular in shape, you could put multiple duplicate triggers next to each other if you don’t know the exact spot where the operator’s hand will exit the trigger area. You can add as many triggers as you want for each step.
 
-- **On-enter vs. on-exit triggers.** You can activate a trigger when the user's hand enters the trigger area or when it exits the trigger area. [Learn more about when to use each type of activation](pc-app-trigger.md).
+    > [!TIP]
+    > You can duplicate a trigger by using the **Duplicate** command in the **Edit Trigger** menu.
 
-> [!TIP]
-> You can duplicate a trigger by using the **Duplicate** command in the **Edit Trigger** menu.
+- **On-enter vs. on-exit triggers.** You can activate a trigger when the user's hand enters the trigger area or when it exits the trigger area. [Learn more about when to use each type of activation](pc-app-trigger.md).
 
 ## Delete or duplicate a trigger
 
