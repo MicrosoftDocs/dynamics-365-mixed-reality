@@ -15,10 +15,10 @@ There are many types of Remote Assist calls, some of which include only Remote A
 ![Common deployment scenarios](.media/common-deployment-scenarios.png "Common deployment scenarios") 
 
 ## Key terms: 
--	Remote Assist user: Someone who uses the Remote Assist app on HoloLens or mobile devices to join a Remote Assist call or meeting  
--	Teams user: Someone who uses the Teams app on HoloLens or mobile devices to join a Remote Assist call or meeting 
--	User with a Remote Assist license: User who has been assigned the service plans that come with a Remote Assist license. Learn more about licenses here. 
--	User with a Teams license: User who has been assigned a Teams service plan, which is available through many different licenses. Learn more about licenses here.
+-	Remote Assist user: Someone who uses the Remote Assist app on HoloLens or mobile devices.
+-	Teams user: Someone who uses the Teams app on desktop or mobile devices.
+-	User with a Remote Assist license: User who has been assigned the service plans that come with a Remote Assist license. [Learn more about licenses](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements#licensing-requirements-per-role). 
+-	User with a Teams license: User who has been assigned a Teams service plan, which is available through many different licenses. [Learn more about licenses](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements#licensing-requirements-per-role). 
 
 ## Scenario 1: Call participants have licenses in the same tenant
 Remote Assist users and Teams users who want to join the same Remote Assist call already have their respective licenses in the same tenant. Or, they are willing to deploy Remote Assist licenses and Teams licenses in the same tenant. 
