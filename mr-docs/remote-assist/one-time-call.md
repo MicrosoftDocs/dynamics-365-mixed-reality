@@ -15,14 +15,16 @@ There are several scenarios in which a Remote Assist user may want to enable an 
 
 Additional scenarios include: 
 * A customer service agent received a request from a customer for a contactless design consultation before remodeling their kitchen. The agent wants to view their customer’s kitchen and provide ideas for products that would look good together. The agent provides their customer with a link to join the scheduled consultation via a Remote Assist call.
-* A technician is repairing an asset, and wants to receive assistance from the asset’s original equipment manufacturer (OEM). 
-Note that in these scenarios, the external user only needs join a Remote Assist call on an ad-hoc, one-time basis. The external user does not need to initiate a call or use Remote Assist’s out-of-call asset capture functionalities. 
-Now, any licensed Remote Assist user can use the Remote Assist web app via their mobile or desktop browser to generate a one-time call link. The licensed Remote Assist user can share the link with an external user using their preferred communication platform (e.g., email, SMS, Dynamics 365 Omnichannel channels). The external user can join the call using the Remote Assist mobile app or Teams desktop app.
+* A technician is repairing an asset, and wants to receive assistance from the asset’s original equipment manufacturer (OEM).
+
+Note that in these scenarios, the external user only needs to **join** a Remote Assist call on an ad-hoc, one-time basis. The external user **does not need to initiate a call or use Remote Assist’s out-of-call asset capture functionalities.** 
+
+Any licensed Remote Assist user can use the Remote Assist web app via their desktop (or mobile) browser to generate a one-time call link. The licensed Remote Assist user can share the link with an external user using their preferred communication platform (e.g., email, SMS, [Dynamics 365 Omnichannel channels](https://docs.microsoft.com/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Remote Assist mobile app (or, in some scenarios, the Teams desktop app).
 
 ## Requirements  
 * Set up your Dynamics environment [NEED LINK to Dhruv’s doc].
 * The agent must use the Remote Assist web app on a [compatible browser](https:/docs.microsoft.com/power-platform/admin/web-application-requirements)
-* Enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Remote Assist web app. Pop-ups will be used for authentication purposes, and will automatically close.
+* Enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Remote Assist web app. Pop-ups will be used for authentication purposes.
 * The agent’s organization must [enable anonymous users to join Teams meeting](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
 * If an agent wants to manually admit a customer into the call, the agent’s organization must [configure their Teams meetings settings](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) such that **Everyone in your organization and federated organizations bypasses the lobby**, or enable **Everyone in your organization bypasses the lobby**.
 
@@ -34,23 +36,27 @@ Now, any licensed Remote Assist user can use the Remote Assist web app via their
 
 	 
 ### Step 1: Generate a call link
-Navigate to your organization’s environment, log in, and select Dynamics 365 Remote Assist. Then, select One-time Call. Please contact your administrator for your tenant-specific environment URL.
-Select Generate a link to generate a link your customer will use to join the call now. When you select Generate a link, a meeting will appear on your Teams calendar named Remote Assist call. The meeting is scheduled to start at the upcoming 15-minute mark and last for 15 minutes. 
-Alternatively, first select Call settings to schedule a call for a specific time and generate a link for the scheduled call. When you select Generate a link, a meeting will appear on your Teams calendar with the name, date, start time, and end time you selected.  
+Navigate to your organization’s environment, log in, and select **Dynamics 365 Remote Assist**. Then, select **One-time Call**. Please contact your administrator for your tenant-specific environment URL.
+
+Select **Generate a link** to generate a link your customer will use to join the call now. When you select **Generate a link**, you may see two pop-ups appear and then close automatically. In addition, a meeting will appear on your Teams calendar. By default, the meeting is named Remote Assist call, and is scheduled to start at the upcoming 15-minute mark and last for 15 minutes. 
+
+Alternatively, first select **Call settings** to schedule a call for a specific time and generate a link for the scheduled call. When you select Generate a link, a meeting will appear on your Teams calendar with the name, date, start time, and end time you selected.  
 
 ### Step 2: Share the instructions
-After you select Generate a link, the text box in step 2 will populate with two links. The first link enables your customer to download the Dynamics 365 Remote Assist mobile app, and the second link enables your customer to join the call. Select Copy to copy the text box content. Then, share the instructions with your customer via your preferred communication platform.
-Note: Remote Assist mobile can be used on both AR and non-AR devices. However, some older mobile device models may truncate SMS messages, making it difficult for your customer to receive the two links via SMS.
+After you successfully generate a link, the text box in step 2 will populate with two links. The first link enables your customer to download the Dynamics 365 Remote Assist mobile app, and the second link enables your customer to join the call. Select **Copy** to copy the text box content. Then, share the instructions with your customer via your preferred communication platform. 
+
+Note: The customer can use Remote Assist mobile on [both AR and non-AR devices](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements#device-options-and-requirements-for-a-dynamics-365-remote-assist-user). However, some older mobile device models may truncate SMS messages, making it difficult for your customer to receive the two links via SMS.
 
 ### Step 3: Join the call 
-Select Join the call to launch the app available on your device to join the One-time Call.
-If you are setting up the call using your desktop, Join the call will launch the Teams desktop app. 
-If you are setting up the call using your mobile device, Join the call will launch the Dynamics 365 Remote Assist mobile app.
-Please note that Dynamics 365 Remote Assist device requirements apply to your customer as well. 
+Select **Join the call** to launch the app available on your device to join the One-time call.
+If you are setting up the call using your desktop, **Join the call** will launch the Teams desktop app. 
+If you are setting up the call using your mobile device, **Join the call** will launch the Dynamics 365 Remote Assist mobile app.
+
+Please note that [Dynamics 365 Remote Assist device requirements](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements#licensing-requirements-per-role) apply to your customer as well. 
 
 ### Step 4: Admit your customer into the call
 After your customer launches the call and enters their name, they will enter the call lobby. Admit them into the call. Your customer will not be able to show you their environment and use annotations until you admit them into the call. 
-If you are joining the call using Teams desktop, you will receive a notification that looks like this when your customer is waiting in the lobby. If you are joining the call using Remote Assist mobile app, you will receive a notification that looks like the following image when your customer is waiting in the lobby. Select Admit. 
+If you are joining the call using Teams desktop, you will receive a notification that looks like [this](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) when your customer is waiting in the lobby. If you are joining the call using Remote Assist mobile app, you will receive a notification that looks like the following image when your customer is waiting in the lobby. Select Admit. 
 
 ![Admit into lobby](./media/OTC-C1-lobby.png "Admit")
  
@@ -69,7 +75,7 @@ If you are joining the call using Teams desktop, you will receive a notification
  
 **Step 5**: 
 
-|     After your customer selects the End call button, they are prompted to confirm that they want to leave the call.	   |     After your customer leaves the call, they will not be able to rejoin the call or view the chat history.    |  
+|     After your customer selects **End call**, they are prompted to confirm that they want to leave the call.	   |     After your customer leaves the call, they will not be able to rejoin the call or view the chat history.    |  
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|
 | ![Confirm to leave](./media/OTC-C2-leave-call.png "Confirm to leave") | ![Cannot rejoin call](./media/OTC-C2-call-ended.png "Cannot rejoin call")| 
 
