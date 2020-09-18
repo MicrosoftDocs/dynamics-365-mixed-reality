@@ -16,6 +16,7 @@ The following tables list technical requirements for deploying and using Microso
 ## Definitions
 
 **Remote Assist user:** Someone who uses the Remote Assist app on HoloLens or mobile devices.
+
 **Teams user:** Someone who uses the Teams app on HoloLens or mobile devices.
 
 ## Device requirements
