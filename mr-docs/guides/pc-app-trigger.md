@@ -40,7 +40,25 @@ There are two types of triggers:
 
 ## When is a trigger activated?
 
-You can set up the trigger to activate when the operator's hand enters the trigger area or when it exits the trigger area, as described in the procedures below. 
+You can set up a trigger to activate when the operator's hand enters the trigger area or when it exits the trigger area. 
+
+### When to use on-enter triggers
+
+- Use on-enter triggers for actions that require an immediate response.
+        
+- For visible triggers, use on enter, and activate the trigger as soon as the user's hand enters the trigger area.  
+     
+- When alerting an operator that they've done an incorrect action, consider using a branch to take the user to a pre-authored corrective step. [Learn more about branching](pc-app-branching.md).
+     
+- When alerting an operator about a safety concern, consider using a branch to take the user to a pre-authored warning step. 
+        
+### When to use on-exit triggers
+
+Use on-exit triggers for actions that require an operator to do something before moving to the next step. Examples:
+    
+- When using a tool to tighten a fastener, activate the trigger after the user has finished the action.
+        
+- When collecting a tool or part needed for the next step, activate the trigger after the user has acquired the tool or part.  
 
 ## Create a trigger 
 
