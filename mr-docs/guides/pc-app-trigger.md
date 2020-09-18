@@ -44,7 +44,7 @@ You can set up a trigger to activate when the operator's hand enters the trigger
 
 ### When to use on-enter triggers
 
-- Use on-enter triggers for actions that require an immediate response.
+Use on-enter triggers for actions that require an immediate response.
         
 - For visible triggers, use on enter, and activate the trigger as soon as the user's hand enters the trigger area.  
      
