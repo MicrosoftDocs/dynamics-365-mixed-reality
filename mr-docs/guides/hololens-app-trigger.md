@@ -37,23 +37,7 @@ You can [place and size a trigger](hololens-app-orientation.md#place-your-hologr
 
    - Avoid placing triggers on a flat surface, such as a table top. It's best to allow at least 5 cm between any flat surface and the trigger. [Learn more](https://docs.microsoft.com/hololens/hololens-troubleshooting#hololens-doesnt-respond-to-hand-input).
 
-- **Size.** It’s important to make the trigger cube the right size. If you make the trigger too big, the operator might activate the trigger unexpectedly at the wrong time. If you make the trigger too small, the operator might miss it completely. The trigger needs to be big enough to place hands inside.
-
-- **On enter vs. on exit triggers**. You can place a trigger so that it activates when the user's hand enters the trigger area or when it exits the trigger area. Keep the following in mind when determining whether to use on-enter vs. on-exit triggers:
-
-    - **On enter**. Use on-enter triggers for actions that require an immediate response.
-        
-        For visible triggers, use on enter, and activate the trigger as soon as the user's hand enters the trigger area.  
-     
-        When alerting an operator that they've done an incorrect action, consider using a branch to take the user to a pre-authored corrective step. [Learn more about branching](pc-app-branching.md).
-     
-        When alerting an operator about a safety concern, consider using a branch to take the user to a pre-authored warning step. 
-        
-    - **On exit**. Use on-exit triggers for actions that require an operator to do something before moving to the next step. Examples:
-    
-        When using a tool to tighten a fastener, activate the trigger after the user has finished the action.
-        
-        When collecting a tool or part needed for the next step, activate the trigger after the user has acquired the tool or part.        
+- **Size.** It’s important to make the trigger cube the right size. If you make the trigger too big, the operator might activate the trigger unexpectedly at the wrong time. If you make the trigger too small, the operator might miss it completely. The trigger needs to be big enough to place hands inside. 
 
 - **Using multiple triggers.** Since triggers always have a cube shape, in some cases, you may want to use multiple triggers to make sure the operator activates the trigger. For example, if the area you want to cover for a trigger is rectangular in shape, you could put multiple duplicate triggers next to each other if you don’t know the exact spot where the operator’s hand will exit the trigger area. You can add as many triggers as you want for each step.
 
