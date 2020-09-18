@@ -21,8 +21,12 @@ In Dynamics 365 Remote Assist mobile, mixed reality annotations enable technicia
 ### Add arrow annotation 
 To position the arrow: 
 - Make sure the arrow is selected in the annotation toolbar. 
-- Tap and place the ghost arrow on your device screen
-- Tap and drag on the arrow to rotate the arrow (rotate 360 degrees)
+- Move your device around to position the dot on the object or area you want to highlight
+- Tap to place the ghost arrow on your device screen
+
+![Show ghost arrow in the Dynamics 365 Remote Assist mobile toolbar.](./media/ghostarrow.png "RAM Ghost Arrow")
+
+- To rotate the arrow, tap and drag the arrow in a circular motion (360 degrees)
 
 ### Add ink annotation 
 To determine where you start drawing:
