@@ -12,11 +12,6 @@ ms.reviewer: krbjoran
 
 Dynamics 365 Remote Assist mobile makes conducting repairs and remote inspections easy by providing technicians with the ability to launch video calls with remote collaborators inside or outside of their organization. Technicians can join one-to-one video calls and group video calls with three or more participants. 
 
-## Definitions 
-A **one-to-one call** includes two participants. For example, if you're repairing a machine and need help on-the-go, you can make a one-to-one call to a remote collaborator who uses Teams.
-
-A **group call** is an adhoc call that includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, any participant can add the third person to the call to form a group call.
-
 ## Supported scenarios
 Making calls with Dynamics 365 Remote Assist mobile is **available** in these scenarios:
 
@@ -31,7 +26,12 @@ Making calls with Dynamics 365 Remote Assist mobile is **available** in these sc
 >
 > - Joining Microsoft Teams meetings.
 > - Making calls to browser-based Teams.
-> - Participating in a group call with Dynamics 365 Remote Assist mobile and Teams mobile users. 
+> - Participating in a group call with Teams mobile users. 
+
+## Definitions 
+A **one-to-one call** includes two participants. For example, if you're repairing a machine and need help on-the-go, you can make a one-to-one call to a remote collaborator who uses Teams.
+
+A **group call** is an adhoc call that includes three or more participants. For example, if you're inspecting an asset in a one-to-one call but need a third person's expertise, any participant can add the third person to the call to form a group call.
 
 ### See also
 
