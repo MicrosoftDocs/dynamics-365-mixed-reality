@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 # Invite user to join a one-time call
 
 ## Scenarios overview 
-There are several scenarios in which a Remote Assist user may want to enable an external user without a Remote Assist license--such as a B2B vendor, B2B customer, or B2C customer--to join a Remote Assist call on an ad-hoc, one-time basis. For example, a customer service agent may want to transition from a phone call to a mixed reality video call to visually assess a product, and overlay mixed reality instructions to guide their customer through the repair in real time. This document will use the term “agent” to refer to the licensed Remote Assist user, and “customer” to refer to the unlicensed external user. 
+There are several scenarios in which a Remote Assist user may want to enable an external user without a Remote Assist license or Teams license--such as a B2B vendor, B2B customer, or B2C customer--to join a Remote Assist call on an ad-hoc, one-time basis. For example, a customer service agent may want to transition from a phone call to a mixed reality video call to visually assess a product, and overlay mixed reality instructions to guide their customer through the repair in real time. This document will use the term “agent” to refer to the licensed Remote Assist user, and “customer” to refer to the unlicensed external user. 
 
 Additional scenarios include: 
 * A customer service agent received a request from a customer for a contactless design consultation before remodeling their kitchen. The agent wants to view their customer’s kitchen and provide ideas for products that would look good together. The agent provides their customer with a link to join the scheduled consultation via a Remote Assist call.
