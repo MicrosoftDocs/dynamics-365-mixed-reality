@@ -17,7 +17,7 @@ There are many types of Remote Assist calls, some of which include only Remote A
 ## Key terms: 
 -	Remote Assist user: Someone who uses the Remote Assist app on HoloLens or mobile devices to join a Remote Assist call or meeting  
 -	Teams user: Someone who uses the Teams app on HoloLens or mobile devices to join a Remote Assist call or meeting 
--	User with a Remote Assist license: User who has been assigned all three service plans that come with a Remote Assist license. Learn more about licenses here. 
+-	User with a Remote Assist license: User who has been assigned the service plans that come with a Remote Assist license. Learn more about licenses here. 
 -	User with a Teams license: User who has been assigned a Teams service plan, which is available through many different licenses. Learn more about licenses here.
 
 ## Scenario 1: Call participants have licenses in the same tenant
