@@ -12,9 +12,9 @@ ms.reviewer: krbjoran
 # Vendors and customers use full Dynamics 365 Remote Assist capabilities 
 
 
-## Scenario overview
+## Goal
 
-There are several scenarios in which a Remote Assist user wants to enable an external user without a Remote Assist license--such as a B2B vendor or B2B customer--to use full Remote Assist capabilities. For example, an OEM may want to offer premium customer service by providing their customer with a HoloLens and enabling them to call the OEM as many times as they need to set up a complicated asset. Or, an inspector may have a long-term collaboration with a vendor. The inspector wants the vendor to asynchronously capture asset quality or call the inspector so they can assess the asset’s condition in real time.  
+Learn how to deploy [common deployment scenario 3](common-deployment-scenarios.md#scenario-4-vendors-and-customers-use-full-remote-assist-capabilities).
 
 > [!Note] 
 > This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Remote Assist, please contact your Microsoft sales representative.
