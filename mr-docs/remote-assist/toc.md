@@ -63,7 +63,7 @@
 
 ## Additional deployment scenarios
 ### [Scenarios overview](common-deployment-scenarios.md)
-#### [Multi-tenant collaboration](multi-tenant-deployment.md)
+#### [Deploy multi-tenant collaboration](multi-tenant-deployment.md)
 #### [Vendors and customers use full Dynamics 365 Remote Assist capabilities](vendor-use-teams.md)
 #### [Vendors and customers use Microsoft Teams to join a call](set-up-teams.md)
 
