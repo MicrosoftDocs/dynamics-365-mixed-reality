@@ -77,9 +77,9 @@ You can search, call, and receive a call from a Remote Assist user in another te
 >[!Note]
 > If you're not able to find the contact you're looking for, it might be because Teams federation (i.e., "[Teams external access](https://docs.microsoft.com/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.  
 
-### Make a group call (with a Remote Assist HoloLens user only)
+### Make a group call 
 
-A group call can include one Remote Assist HoloLens user and several Teams desktop users. 
+Learn more about who can join a [group call](mobile-app/making-calls-on-remote-assist-mobile.md).
 
 Start by calling one person, and then select **Open Participants** (represented by this icon: ![Graphic showing the participants icon.](media/Teams_Participants.png)). Then, search for the person you would like to call and call them.
 
