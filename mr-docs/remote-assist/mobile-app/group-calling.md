@@ -56,13 +56,13 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call, a
 
 ![Screenshot showing add contact.](./media/all-participants-list.png "Add Contact")
 
-3. You can stop sharing your space by selecting !["More environment actions"](media/ellipsis.png "More environment actions") > **Stop sharing**.
+3. You can stop sharing your space by selecting !["More environment actions"](media/ellipsis.png "More environment actions") > **Stop sharing**. You will be taken to an audio call. 
 
 ![Screenshot showing stop presenting option.](./media/stop-presenting-button.png)
 
 ### On Remote Assist HoloLens
 
-1. You can **only** share your environment to all call participants on Remote Assist mobile, Remote Assist on HoloLens, or Teams desktop.
+1. You can **only** share your environment to all call participants on Remote Assist mobile, Remote Assist HoloLens, or Teams desktop.
 
 ![RAM-HL view space](./media/ram-hls.png "Remote Assist mobile-HoloLens share space")
 
