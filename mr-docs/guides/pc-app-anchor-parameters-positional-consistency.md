@@ -4,7 +4,7 @@
 
 The following things can affect positional consistency when anchoring a guide with the Microsoft Dynamics 365 Guides PC app.
 
-## Eye calibration and Interpupillary distance (IPD) setting
+## Eye calibration and Interpupillary Distance (IPD) setting
 
 IPD is the distance between the center of the user's pupils. Because different users might have different IPDs, it's crucial that the appropriate IPD is set, so that HoloLens can adapt its display. An incorrect IPD setting can cause inaccurate perception of hologram position. 
 
