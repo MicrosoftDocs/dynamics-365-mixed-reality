@@ -8,7 +8,7 @@ A small position error will cause a consistent offset for all the holograms in a
 
 To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, it’s very important to ensure that the reference frame is consistently positioned and oriented in exactly the same way. **Make sure to follow the best practices for anchoring, depending on the anchor method that you use, and that you consistently place or scan the anchor the same way.** 
 
-Our research shows that different anchoring methods will give different results across users and devices. 
+Microsoft research shows that different anchoring methods will give different results across users and devices. 
 
 ## Holographic anchors
 
