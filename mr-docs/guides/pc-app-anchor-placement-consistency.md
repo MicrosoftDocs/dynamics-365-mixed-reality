@@ -34,7 +34,7 @@ Based on positional consistency performances, anchor method ranking is as follow
 
 3.	Holographic anchor - OK
 
-Here is a summary tab of what can be expected in average.
+The following summary table shows whatt can be expected on average.
 
 |Anchor method|Average hologram position variability when <1m away from the anchor location (when seen at arm length)	|Average hologram position variability when <3m away from the anchor location (when seen at arm length)|
 |-----------------------|--------------------------------------------------|--------------------------------------------------|
