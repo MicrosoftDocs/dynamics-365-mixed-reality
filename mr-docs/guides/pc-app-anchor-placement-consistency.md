@@ -24,7 +24,7 @@ During scanning, the position of the virtual reference frame and its orientation
 
 ## Summary of positional consistency per anchor method
 
-Because it's very challenging to always position the virtual reference frame the same way during the anchoring process, all anchor methods will suffer from the lever arm effect. Holograms that are close to the anchor will more likely be positioned consistently at the same location, while holograms that are further away can suffer from important position variability between scans. **For this reason, one of the most important guidelines for authors is to place holograms close to their anchor for best positional consistency.** Anchor methods can be ranked based on positional consistency performances.
+Because it's very challenging to always position the virtual reference frame the same way during the anchoring process, all anchor methods suffer from the lever arm effect. Holograms that are close to the anchor will more likely be positioned consistently at the same location, while holograms that are further away can suffer from important position variability between scans. **For this reason, one of the most important guidelines for authors is to place holograms close to their anchor for best positional consistency.** Anchor methods can be ranked based on positional consistency performances.
 
 1.	QR code anchor - Gest
 
