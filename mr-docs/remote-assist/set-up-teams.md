@@ -18,9 +18,12 @@ This document explains the deployment required for different scenarios.
 
 ## Enable someone to join a Remote Assist call on a one-time basis using the Teams desktop app 
 
-**Recommended**: [One-time call](one-time-call.md) now makes it easier for Remote Assist users to invite collaborators to join the call using Remote Assist mobile or Teams desktop! The licensed Remote Assist user can use the Remote Assist mobile web app to set up a one-time call and share the one-time call link with the Teams desktop user. The Remote Assist user can then join the call using Remote Assist mobile or Remote Assist HoloLens.
+**Recommended**: [One-time call](one-time-call.md) makes it easy for Remote Assist users to invite collaborators to join a call using Remote Assist mobile or Teams desktop! To enable someone to join the call using Teams desktop, the licensed Remote Assist user must use the Remote Assist mobile web app to set up a one-time call and share the one-time call link with the Teams desktop user. The Remote Assist user can then join the call using Remote Assist mobile or Remote Assist HoloLens.
 
-**Alternatively,** the licensed Remote Assist user can still [set up a Teams meeting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/join-meeting-hololens#tip-for-setting-up-a-meeting) and join the meeting using Remote Assist HoloLens. 
+**Alternatively,** the licensed Remote Assist user can [set up a Teams meeting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/join-meeting-hololens#tip-for-setting-up-a-meeting) and invite the collaborator. Then, the licensed Remote Assist HoloLens user will [join the meeting using the Remote Assist HoloLens app](join-meeting-hololens.md). The Teams desktop user will see the meeting invitation in their Outlook calendar or Teams calendar. They right-click the meeting invitation and select **Join Teams meeting**. (The web browser may launch and display options for joining the meeting. To join via Teams application, select **Launch it now**.)
+
+> [!Note] 
+> Only a Remote Assist user and Teams desktop users can join a meeting. Remote Assist mobile users and Teams mobile users cannot join a meeting.
 
 ## Enable someone to make calls to and receive calls from a Remote Assist user long-term
 
