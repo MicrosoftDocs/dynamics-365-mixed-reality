@@ -48,6 +48,9 @@ This topic provides step-by-step instructions for each type of anchor.
 4. On the **QR Code Anchor Found** page, select **Confirm**.
 
     ![Confirm button on the QR Code Anchor Found page](media/qr-code-confirm.PNG "Confirm button on the QR Code Anchor Found page")
+    
+    > [!TIP]
+    > You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be referencing a tool, but is floating in the air away from the tool bench). When using a QR code anchor, a good way to control hologram offset is to make sure the green outline aligns with the QR code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
 
 ## Anchor your guide by using a circular code anchor
 
@@ -68,6 +71,9 @@ This topic provides step-by-step instructions for each type of anchor.
 5. On the **Circular Code Anchor Found** page, select **Confirm**.
 
     ![Confirm button on the Circular Code Anchor Found page](media/circular-code-confirm.PNG "Confirm button on the Circular Code Anchor Found page")
+    
+    > [!TIP]
+    > You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be referencing a tool, but is floating in the air away from the tool bench). When using a circular code anchor, a good way to control hologram offset is to make sure the green outline aligns with the circular code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
 
 ## Anchor your guide by using a holographic anchor
 
@@ -78,6 +84,9 @@ For a holographic anchor, you align a hologram on your [!include[pn-hololens](..
 To align the holographic anchor with its real-world counterpart, air tap and hold to move the hologram. Tap and hold the blue spheres to rotate the hologram as required.
 
 ![Rotating a holographic anchor](media/rotate-digital-anchor.PNG "Rotating a holographic anchor")
+
+> [!TIP]
+> You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be referencing a tool, but is floating in the air away from the tool bench). When using a holographic anchor, select the **Anchor** button to make sure the digital version of the real object and the object itself are still aligned.
 
 ## Where alignment information is stored
 
