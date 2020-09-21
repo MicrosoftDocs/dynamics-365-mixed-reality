@@ -88,6 +88,5 @@ After sorting out your licenses, users can setup and use the app on their HoloLe
 > For Enterprise environments that manage application deployments using an MDM provider, please contact d365rafb@microsoft.com for assistance obtaining the Remote Assist mobile application binary.
 
 ## Next steps
-- [Learn how to set up Microsoft Teams on PC or mobile for various scenarios](set-up-teams.md).
-- [Learn how to use Dynamics 365 Remote Assist on HoloLens and HoloLens 2](overview-hololens.md). 
-- [Learn how to use Dynamics 365 Remote Assist on mobile devices](mobile-app/remote-assist-mobile-overview.md). 
+- [Set up Microsoft Teams on PC or mobile for various scenarios](set-up-teams.md).
+- [Install Dynamics 365 Remote Assist model-driven app] asset-capture-setup-environment.md
