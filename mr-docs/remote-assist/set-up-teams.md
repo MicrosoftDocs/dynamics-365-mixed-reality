@@ -12,7 +12,7 @@ ms.reviewer: krbjoran
 # Set up Microsoft Teams with Dynamics 365 Remote Assist  
 
 A technician or inspector can use Remote Assist to work collaboratively with a remote colleague (typically an expert in a particular field) who uses Microsoft Teams. 
-They may only want to [join a Remote Assist call on an ad hoc, one-time basis](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/ra-10-1-working/mr-docs/remote-assist/common-deployment-scenarios.md#scenario-3-vendors-and-customers-join-one-time-call). Or, they may want to collaborate with a Remote Assist user long-term.  
+The remote collaborator may only want to [join a Remote Assist call on an ad hoc, one-time basis](https://github.com/MicrosoftDocs/dynamics-365-mixed-reality-pr/blob/ra-10-1-working/mr-docs/remote-assist/common-deployment-scenarios.md#scenario-3-vendors-and-customers-join-one-time-call). Or, they may want to collaborate with a Remote Assist user long-term.  
  
 This document explains the deployment required for different scenarios.
 
