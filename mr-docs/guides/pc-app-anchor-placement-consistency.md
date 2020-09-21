@@ -4,7 +4,7 @@
 
 Since holograms are located relative to a virtual reference frame placed when an author or operator is positioning a holographic anchor or scanning a QR/circular code anchor, they inherit position errors and amplify orientation errors introduced in that process. The consistency of the reference frame placement is key to keeping holograms consistently aligned to the same real-world objects across multiple alignments (users and/or devices). Any inconsistency greatly impacts the position of the holograms.
 
-A small position error will cause a consistent offset for all the holograms in a guide. A small orientation error is even worse; the hologram offset increases as the user moves away from the anchor (the “lever-arm effect”). 
+A small position error will cause a consistent offset for all the holograms in a guide. A small orientation error is even worse; the hologram offset increases as the user moves away from the anchor (“lever-arm effect”). 
 
 To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, it’s very important to ensure that the reference frame is consistently positioned and oriented in exactly the same way. **Make sure to follow the best practices for anchoring, depending on the anchor method that you use, and that you consistently place or scan the anchor the same way.** 
 
