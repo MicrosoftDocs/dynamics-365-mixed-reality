@@ -70,11 +70,13 @@ After creating the anchor in the PC app, you use the HoloLens app to anchor your
 
 ## What's next?
 
-[Learn about consistency of placement and expectations](pc-app-anchor-placement-consistency.md)<br> 
-[Things that affect positional consistency](pc-app-anchor-parameters-positional-consistency.md)<br>
-[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)<br>
-[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)<br>
-[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)<br>
-[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)<br>
-[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)<br>
-[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)<br>
+|Area|Link|
+|----------------------|------------------------------------------------------------------|
+|Anchoring, generally|[Learn about consistency of placement and expectations](pc-app-anchor-placement-consistency.md)<br> |
+|[Things that affect positional consistency](pc-app-anchor-parameters-positional-consistency.md)<br>|
+|Create types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)<br>|
+||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)<br>|
+||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)<br>|
+|[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)<br>|
+|HoloLens app, authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)<br>
+|HoloLens app, operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)<br>
