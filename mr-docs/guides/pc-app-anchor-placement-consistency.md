@@ -43,3 +43,17 @@ The following summary table shows what can be expected on average.
 |Holographic anchor|	30mm	|90mm|
 
 If alignment consistency with real-world objects is important, don't place holograms more than 3m away from the anchor. If your scenario needs to cover large spaces, you might want to split your steps into different guides to maximize position consistency. If that’s not possible, or if your scenario requires greater positional consistency than shown in the table above, contact the Dynamics 365 Guides team so we can better understand your scenario and address your feedback in future releases. 
+
+## What's next?
+
+Use the following table to find more information on anchoring.
+
+|Area|Link|
+|----------------------|------------------------------------------------------------------|
+|Anchoring accuracy|[Things that affect positional consistency](pc-app-anchor-parameters-positional-consistency.md)|
+|Creating types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
+||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
+||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
+||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
+|HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
+|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
