@@ -80,5 +80,5 @@ Use the following table to find more information on anchoring.
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
 ||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
-|HoloLens app, authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
-|HoloLens app, operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
+|HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
+|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
