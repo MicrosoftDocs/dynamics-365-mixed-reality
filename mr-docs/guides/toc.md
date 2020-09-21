@@ -34,6 +34,7 @@
 #### [Rename a guide](pc-app-rename-guide.md)
 #### Anchor your guide to the real world
 ##### [Overview of anchoring a guide with the PC app](pc-app-anchor.md)
+##### [Consistency of placement/expectations](pc-app-anchor-placement-consistency.md)
 ##### [QR code anchor (recommended)](pc-app-anchor-qr-code.md)
 ##### [Circular code anchor](pc-app-anchor-circular-code.md)
 ##### [Holographic anchor](pc-app-anchor-holographic.md)
