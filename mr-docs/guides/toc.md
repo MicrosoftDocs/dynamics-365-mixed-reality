@@ -80,7 +80,6 @@
 #### [Turn off holograms](operator-holograms-off.md)
 #### [Work offline](operator-offline-mode.md)
 #### [Voice commands](voice-commands.md)
-## [Anchor a guide to the real world](anchor.md)
 ## [Analyze your guides](analytics-guide.md)
 ## [Migrate content from one instance to another](migrate.md)
 ## [Entity reference (for developers)](developer-entity-reference.md)
