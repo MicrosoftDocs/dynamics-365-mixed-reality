@@ -2,7 +2,7 @@
 
 # Things that can affect positional consistency when anchoring a guide with the Dynamics 365 Guides PC app
 
-The following things can affect positional consistency when anchoring a guide with the Microsoft Dynamics 365 Guides PC app.
+The following things can affect positional consistency when anchoring a guide with the Microsoft [Dynamics 365 Guides PC app](pc-app-anchor.md).
 
 ## Eye calibration and Interpupillary Distance (IPD) setting
 
