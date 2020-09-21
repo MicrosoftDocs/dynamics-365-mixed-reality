@@ -129,7 +129,15 @@ make sure that the anchor is flat. An anchor that is curved or distorted can aff
 
 ## What's next?
 
-[Create a QR code anchor](pc-app-anchor-qr-code.md)<br>
-[Create a holographic anchor](pc-app-anchor-holographic.md)<br>
-[Anchor your guide if you're an author](hololens-app-anchor.md)<br>
-[Anchor your guide if you're an operator](operator-anchor.md)<br>
+Use the following table to find more information on anchoring.
+
+|Area|Link|
+|----------------------|------------------------------------------------------------------|
+|Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
+|Anchoring accuracy|[Learn about consistency of placement and expectations](pc-app-anchor-placement-consistency.md)|
+||[Things that affect positional consistency](pc-app-anchor-parameters-positional-consistency.md)|
+|Creating types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
+||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
+||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
+|HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
+|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
