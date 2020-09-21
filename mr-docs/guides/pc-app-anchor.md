@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get an overview anchoring holograms in Microsoft Dynamics 365 Guides, using a QR code anchor, circular code anchor, or holographic anchor.
 ms.author: mamaylya
-ms.date: 03/24/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview of anchoring your guide to the real world in the Dynamics 365 Guides PC app
@@ -19,6 +19,15 @@ help holograms determine where they are in the real world. You must create an an
 
 It's crucial to ensure that holograms are aligned as precisely as possible. If holograms are misaligned, your instructions may show actions at incorrect locations, 
 which can result in operator confusion or damage to parts.
+
+## How does anchoring work?
+
+Dynamics 365 Guides uses a single anchor per guide. It can be a digital (holographic) anchor or a physical anchor (QR code or circular code) that you print. 
+
+When an operator places the holographic anchor or scans the physical anchor, Dynamics 365 Guides creates a virtual in-world reference frame at that location. All the holograms included in the guide are located in space relative to that virtual reference frame. 
+
+If the holographic anchor is repositioned or the QR/circular code is rescanned, the reference frame is reset to match the updated digital or physical position of the anchor. 
+Because HoloLens knows and remembers the space around the operator, it can remember the reference frame of a guide so operators don’t need to place the holographic anchor again or scan again. 
 
 ## Three ways to anchor a guide
 
