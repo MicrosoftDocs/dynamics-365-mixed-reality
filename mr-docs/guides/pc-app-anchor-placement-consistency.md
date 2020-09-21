@@ -14,7 +14,7 @@ Microsoft research shows that different anchoring methods will give different re
 
 Manually aligning holographic anchors with physical objects can be challenging and is doubly so for holographic anchors that use larger holograms. Even when following best practices, different users will position holograms in slightly different ways whenever they anchor the guide. This small variation can have a big impact on hologram position across the guide. 
 
-**For this reason, consider using holographic anchors when consistency of hologram position and alignment to real world objects isn’t crucial (for example, for quick demos or virtual classroom training).**
+**For this reason, consider using holographic anchors when consistency of hologram position and alignment to real-world objects isn’t crucial (for example, for quick demos or virtual classroom training).**
 
 ## QR and circular code anchors
 
