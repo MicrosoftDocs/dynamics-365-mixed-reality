@@ -67,4 +67,15 @@ When you anchor your guide, the anchoring information is stored on your [!includ
 
 ## What's next?
 
-[Place holograms, add styles, and more](hololens-app-orientation.md)
+Use the following table to find more information on anchoring.
+
+|Area|Link|
+|----------------------|------------------------------------------------------------------|
+|Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
+|Anchoring accuracy|[Learn about consistency of placement and expectations](pc-app-anchor-placement-consistency.md)|
+||[Things that affect positional consistency](pc-app-anchor-parameters-positional-consistency.md)|
+|Creating types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
+||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
+||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
+||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
+|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
