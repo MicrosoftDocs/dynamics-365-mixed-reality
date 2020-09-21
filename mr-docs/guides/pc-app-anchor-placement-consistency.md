@@ -42,4 +42,4 @@ The following summary table shows what can be expected on average.
 |Circular code anchor|10 to 15mm|	30 to 45mm|
 |Holographic anchor|	30mm	|90mm|
 
-If alignment consistency with real world objects is important, we advise to place holograms not more than 3m away from the anchor. If your scenario needs to cover large spaces, you might want to split your steps into different guides to maximize position consistency. If that’s not possible, or if your scenario requires greater positional consistency than shown in the table above, contact the Dynamics 365 Guides team so we can better understand your scenario and address your feedback in future releases. 
+If alignment consistency with real-world objects is important, don't place holograms more than 3m away from the anchor. If your scenario needs to cover large spaces, you might want to split your steps into different guides to maximize position consistency. If that’s not possible, or if your scenario requires greater positional consistency than shown in the table above, contact the Dynamics 365 Guides team so we can better understand your scenario and address your feedback in future releases. 
