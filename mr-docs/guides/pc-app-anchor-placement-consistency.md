@@ -36,7 +36,7 @@ Based on positional consistency performances, anchor method ranking is as follow
 
 The following summary table shows what can be expected on average.
 
-|Anchor method|Average hologram position variability when <1m away from the anchor location (when seen at arm length)	|Average hologram position variability when <3m away from the anchor location (when seen at arm length)|
+|Anchor method|Average hologram position variability when <1m away from the anchor location (when seen at arm's length)	|Average hologram position variability when <3m away from the anchor location (when seen at arm's length)|
 |-----------------------|--------------------------------------------------|--------------------------------------------------|
 |QR code anchor|	5 to 10mm	|15 to 30mm|
 |Circular code anchor|10 to 15mm|	30 to 45mm|
