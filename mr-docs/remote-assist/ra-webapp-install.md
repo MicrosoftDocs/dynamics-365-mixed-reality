@@ -1,14 +1,16 @@
 ---
-title: Set up an environment to use asset capture in Dynamics 365 Remote Assist
+title: Set up an environment to use CDS based features in Dynamics 365 Remote Assist
 author: dhgoelmsft
 description: How to set up an environment for the asset capture public preview
 ms.author: dhgoel
-ms.date: 08/19/2020
+ms.date: 09/22/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Set up an environment to use asset capture in Dynamics 365 Remote Assist
+# Install Dynamics 365 Remote Assist model-driven app
+
+## Overview
 
 This tutorial is the first of a series. As you progress through the series, you'll learn how to<:
 

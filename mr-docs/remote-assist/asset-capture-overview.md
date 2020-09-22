@@ -39,7 +39,7 @@ Asset capture is easy to use:
 Use the following tutorial to get started with the asset capture public preview.
 
 > [!div class="nextstepaction"]
-> [Set up an environment](./asset-capture-setup-environment.md)
+> [Set up an environment](./ra-webapp-install.md)
 
 ## Additional notes
 
