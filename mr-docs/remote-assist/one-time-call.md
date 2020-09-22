@@ -8,7 +8,10 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Invite user to join a one-time call
+# Invite user to join a one-time call (public preview)
+
+> [!IMPORTANT] 
+> A preview feature is a feature that is not complete, but is made available before it’s officially in a release so customers can get early access and provide feedback. Preview features aren’t meant for production use and may have limited or restricted functionality. Microsoft doesn't provide support for this preview feature. Microsoft Dynamics 365 Technical Support won’t be able to help you with issues or questions. Preview features aren't meant for production use and are subject to a [separate supplemental terms of use](https://docs.microsoft.com/dynamics365/legal/supp-dynamics365-preview).
 
 ## Scenarios overview 
 There are several scenarios in which a Remote Assist user may want to enable an external user without a Remote Assist license or Teams license--such as a B2B vendor, B2B customer, or B2C customer--to join a Remote Assist call on an ad-hoc, one-time basis. For example, a customer service agent may want to transition from a phone call to a mixed reality video call to visually assess a product, and overlay mixed reality instructions to guide their customer through the repair in real time. This document will use the term “agent” to refer to the licensed Remote Assist user, and “customer” to refer to the unlicensed external user. 
