@@ -76,6 +76,7 @@
 #### [Get oriented with the Step card](operator-step-card-orientation.md)
 #### [Use a dotted line to find a focus area](operator-dotted-line.md)
 #### [Use Follow mode and pinning](operator-follow-mode.md)
+#### [Use a branching (non-linear) guide](operator-branching-guide.md)
 #### [Use a trigger to move between steps](operator-trigger.md)
 #### [Open a website](operator-website-link.md)
 #### [Open an app in Power Apps](operator-powerapps-link.md)
