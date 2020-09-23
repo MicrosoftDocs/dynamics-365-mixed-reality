@@ -10,4 +10,4 @@ To use a branching guide, simply select the most appropriate response to go to t
 
 ## What's next?
 
-[Learn how to create a branching guide if you're an author](pc-app-branching.md)
+[Learn how to add a branch in a  guide if you're an author](pc-app-branching.md)
