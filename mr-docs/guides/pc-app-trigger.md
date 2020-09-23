@@ -75,11 +75,9 @@ You create a trigger in the same way that you create any other hologram in the P
 
 ## Configure the trigger 
 
-After creating your trigger, you need to configure it. You can configure it for a default step in a linear guide or for a question step if you're creating a non-linear (branching) guide. [Learn more about creating a branching guide](pc-app-branching.md). 
+After creating your trigger, you need to configure it. 
 
-### Configure a trigger for a default step (linear guide)
-
-1. Select the trigger in the bin. This opens the **Properties** tab on the right side of the screen. You can use this tab to preview the trigger and to view and set the trigger properties. [Learn more about the Properties tab](create-steps-assign-media.md#preview-an-image-video-or-3d-model-and-view-its-properties).
+1. Select the trigger in the bin. This opens the **Properties** tab on the right side of the screen. You can use this tab to preview the trigger and to view and set the trigger properties. 
 
     ![Properties tab showing trigger and its properties](media/trigger-properties.PNG "Properties tab showing trigger and its properties")
 
@@ -90,7 +88,7 @@ After creating your trigger, you need to configure it. You can configure it for 
       - **On Hand Enter** to activate the trigger as soon as the operator places their hand in the trigger area.
       
       - **On Hand Exit** to delay the trigger activation until the operator has removed their hand from the trigger area.
-      
+         
     b. In the **Action** field, select one of the following:
     
       - **Back** to take the operator back to the previous step in the guide.
@@ -99,26 +97,10 @@ After creating your trigger, you need to configure it. You can configure it for 
       
       - **Navigate** if you want to take the operator to a specific step in the guide. After selecting **Navigate**, you can select the exact step to go to in the **Destination** list. Using the **Navigate** option enables you to have the operator skip multiple tasks or steps for different scenarios. 
  
-### Configure a trigger for a question step (non-linear guide)
-
-If you configure a trigger for a question step, the operator can use a trigger to choose a response in the question step. [Learn more about responses and questions steps](pc-app-branching.md).
-
-1. Select the trigger in the bin to open the **Properties** tab. 
-
-2. In the **Properties** tab, do the following:
-
-    a. In the **Activation** field, select one of the following:
-    
-      - **On Hand Enter** to activate the trigger as soon as the operator places their hand in the trigger area.
-      
-      - **On Hand Exit** to delay the trigger activation until the operator has removed their hand from the trigger area.
-      
-    b. In the **Action** field, select **Use Response 1** to configure the trigger to navigate to the destination set for Response 1. For example, if the destination for the first response is set to **Task 3**, configuring the trigger to **Use Response 1** means the trigger will navigate to **Task 3** when activated. If you update the response’s destination, the trigger will also be updated.
+      - **Use Response 1**, if you're using the trigger on a question step, to configure the trigger to navigate to the destination set for Response 1. For example, if the destination for the first response is set to **Task 3**, configuring the trigger to **Use Response 1** means the trigger will navigate to **Task 3** when activated. If you update the response’s destination, the trigger will also be updated. [Learn more about question steps and responses](pc-app-branching.md).
     
       ![Properties tab showing question step trigger properties](media/trigger-question-step-properties.PNG "Properties tab showing question step trigger propertiess")
     
-    c. In the **Action** field, set any other **Use Response** values to correspond with the responses in the question card.
-
-## What's next?
+    ## What's next?
 
 [Place and test a trigger in the HoloLens app](hololens-app-trigger.md)
