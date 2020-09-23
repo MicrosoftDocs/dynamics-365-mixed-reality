@@ -97,7 +97,7 @@ After creating your trigger, you need to configure it.
  
       - **Use Response 1**, to configure the trigger to navigate to the destination set for Response 1 in a question step. For example, if the destination for the first response is set to **Task 3**, configuring the trigger to **Use Response 1** means the trigger will navigate to **Task 3** when activated. If you update the response’s destination, the trigger will also be updated. [Learn more about question steps and responses](pc-app-branching.md).
     
-      ![Properties tab showing question step trigger properties](media/trigger-question-step-properties.PNG "Properties tab showing question step trigger propertiess")
+        ![Properties tab showing question step trigger properties](media/trigger-question-step-properties.PNG "Properties tab showing question step trigger propertiess")
     
     ## What's next?
 
