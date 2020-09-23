@@ -115,7 +115,7 @@ You can try out your branching flow and verify that all responses are configured
 
     ![Warning message that shows that a question step isn't fully configured](media/question-step-warning.PNG "Warning message that shows that a question step isn't fully configured")
     
-    If you see a warning message, open the question step in the **Step Editor**. The response that's missing information will be highlighted.
+    If you see a warning message, open the question step in the **Step Editor**. The property with missing information will be highlighted to make it easy to find.
     
     ![Destination field highlighted, showing missing information](media/question-step-highlighted.PNG "Destination field highlighted, showing missing information")
 
