@@ -6,7 +6,8 @@ Some guides created in Dynamics 365 Guides are linear in nature. You always go t
 
 To use a branching guide, simply select the most appropriate response to go to the approprate set of steps. 
 
-
+> [!NOTE]
+> If you select the **Back** button in a branching guide, you'll return to the last step you were on, similar to how history works in a web browser. 
 
 ## What's next?
 
