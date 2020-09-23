@@ -31,7 +31,7 @@ NOT ACCEPT THEM, DO NOT USE THE SOFTWARE. INSTEAD, RETURN IT TO APPLE INC.
 >   **b) Required Microsoft Applications.** Use of the software requires a
 >   license for Microsoft Dynamics 365 Remote Assist unless you are qualified as
 >   an External User as defined in the Online Service Terms published at
->   <https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=46>.
+>   <https://go.microsoft.com/fwlink/?linkid=2130334>.
 >   This software may also include components from other Microsoft applications,
 >   which are governed by separate agreements and their own product support
 >   policies.
