@@ -96,13 +96,13 @@ To add a completion step:
     
 ### Try out your flow
 
-You can try out your branching flow without leaving the **Step Editor**. 
+You can try out your branching flow and verify that all responses are configured without leaving the PC app. 
 
 1.	In the **Outline** page, open the first step of the first task. By default, operators will start a guide from Step 1 in the first task.
 
-2.	Use the **Next** button to move forward until you reach a question.
+2.	Use the **Next** button to move forward until you reach a question step.
 
-3.	Select the circular button for a configured response. If you're using a keyboard, tab to a response, tab to the circular button, and then press Enter to go to that response destination. 
+3.	On a question step, select the circular button for a configured response. If you're using a keyboard, tab to a response, tab to the circular button, and then press Enter to go to that response destination. 
 
     ![Circular button](media/circular-button.PNG "Circular button")
  
@@ -110,6 +110,15 @@ You can try out your branching flow without leaving the **Step Editor**.
     > Selecting the **Back** button will return you to the last step you were on, similar to how history works in a web browser. This is also true for the HoloLens app. 
     If a step or task that was part of the user’s path is deleted, the **Back** button goes to the next available item in the history. If all the previous steps are 
     deleted, an error message appears and the user stays on the current step.
+    
+4. To verify that all responses are fully configured and you didn't forget to specify a destination or name the response, go to the **Outline** page. If one of the responses is missing information for that step, you'll see a warning message.
+
+    ![Warning message that shows that a question step isn't fully configured](media/question-step-warning.PNG "Warning message that shows that a question step isn't fully configured")
+    
+    If you see a warning message, open the question step in the **Step Editor**. The response that's missing information will be highlighted.
+    
+    ![Destination field highlighted, showing missing information](media/question-step-highlighted.PNG "Destination field highlighted, showing missing information")
+
 
 ## Tips and tricks for branching flows
 
