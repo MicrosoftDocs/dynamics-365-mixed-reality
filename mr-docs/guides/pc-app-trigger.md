@@ -81,15 +81,13 @@ After creating your trigger, you need to configure it.
 
     ![Properties tab showing trigger and its properties](media/trigger-properties.PNG "Properties tab showing trigger and its properties")
 
-2. In the **Properties** tab, do the following:
-
-    a. In the **Activation** field, select one of the following:
+2. In the **Activation** field, select one of the following:
     
       - **On Hand Enter** to activate the trigger as soon as the operator places their hand in the trigger area.
       
       - **On Hand Exit** to delay the trigger activation until the operator has removed their hand from the trigger area.
          
-    b. In the **Action** field, select one of the following:
+3. In the **Action** field, select one of the following:
     
       - **Back** to take the operator back to the previous step in the guide.
       
