@@ -49,7 +49,7 @@ one of the responses, which determines their next step in the guide.
     ![Outline view with Add step command](media/branching-add-question-step-outline-view.PNG "Outline view with Add step command")
 
     > [!NOTE]
-    > You can also add a question step by selecting **Add** in the top-right corner of the **Step Editor**.
+    > You can also add a question step by selecting **Add step** in the top-right corner of the **Step Editor**.
     
     ![Step Editor with Add command](media/branching-add-question-step-step-editor.PNG "Step Editor with Add command")
  
