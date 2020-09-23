@@ -4,3 +4,8 @@ Some guides created in Dynamics 365 Guides are linear in nature. You always go t
 
 ![Example of a branching guide](media/branching-question-step-example.PNG "Example of a branching guide")
 
+To use a branching guide, simply select the most appropriate response to go to the approprate set of steps. 
+
+## What's next?
+
+[Learn how to create a branching guide if you're an author](pc-app-branching.md)
