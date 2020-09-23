@@ -95,7 +95,7 @@ After creating your trigger, you need to configure it.
       
       - **Navigate** if you want to take the operator to a specific step in the guide. After selecting **Navigate**, you can select the exact step to go to in the **Destination** list. Using the **Navigate** option enables you to have the operator skip multiple tasks or steps for different scenarios. 
  
-      - **Use Response 1**, if you're using the trigger on a question step, to configure the trigger to navigate to the destination set for Response 1. For example, if the destination for the first response is set to **Task 3**, configuring the trigger to **Use Response 1** means the trigger will navigate to **Task 3** when activated. If you update the response’s destination, the trigger will also be updated. [Learn more about question steps and responses](pc-app-branching.md).
+      - **Use Response 1**, to configure the trigger to navigate to the destination set for Response 1 in a question step. For example, if the destination for the first response is set to **Task 3**, configuring the trigger to **Use Response 1** means the trigger will navigate to **Task 3** when activated. If you update the response’s destination, the trigger will also be updated. [Learn more about question steps and responses](pc-app-branching.md).
     
       ![Properties tab showing question step trigger properties](media/trigger-question-step-properties.PNG "Properties tab showing question step trigger propertiess")
     
