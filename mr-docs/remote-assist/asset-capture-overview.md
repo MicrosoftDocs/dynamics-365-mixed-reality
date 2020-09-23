@@ -10,11 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Asset capture public preview overview
 
-Using the asset capture public preview in Dynamics 365 Remote Assist, technicians can capture data about the assets they operate, inspect, and maintain without their having to make a video call. Data is captured in a consistent and structured way, and made available through the new Dynamics 365 Remote Assist model-driven app for easy validation, report generation, and auditing.
-
-The Dynamics 365 Remote Assist model-driven app is built on Common Data Service and uses Common Data Model. This app is a companion to the Dynamics 365 Remote Assist apps for HoloLens, iOS, and Android, and enables new scenarios for managing data generated and consumed by Dynamics 365 Remote Assist.
-
-More information: [What are model-driven apps in Power Apps?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/model-driven-app-overview)
+Using the asset capture feature in Dynamics 365 Remote Assist, technicians can capture data about the assets they operate, inspect, and maintain without them having to make a video call. Data is captured in a consistent and structured way, and made available through the new Dynamics 365 Remote Assist model-driven app for easy validation, report generation, and auditing.
 
 Compared to the snapshot tool for capturing images that's currently available in Dynamics 365 Remote Assist, asset capture has several benefits:
 
@@ -27,12 +23,9 @@ Asset capture is easy to use:
 1. An admin installs the Dynamics 365 Remote Assist app in a Dynamics 365 environment.
 2. The admin adds Dynamics 365 Remote Assist users to the environment.
 3. The admin manually creates digital asset records or imports existing data to Common Data Service.
-4. A technician enables the asset capture preview on HoloLens.
+4. A technician selects the Dynamics 365 environment where Remote Assist app in installed in the client app.
 5. The technician completes their work (an inspection, for example) and captures the inspection data to the asset record through Dynamics 365 Remote Assist.
 6. The captured data is available to view.
-
-> [!Note]
-> Asset capture is in public preview and only available on HoloLens 1 and HoloLens 2. The feature is disabled by default when the update is downloaded, to ensure that current users won't be negatively affected by the workflow changes. The tutorials in this section will guide you through getting started with asset capture, including enabling the features in HoloLens.
 
 ## Next step
 

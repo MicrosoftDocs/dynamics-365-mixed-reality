@@ -1,7 +1,7 @@
 ---
-title: Set up an environment to use CDS based features in Dynamics 365 Remote Assist
+title: Set up an environment and install Dynamics 365 Remote Assist model-driven app
 author: dhgoelmsft
-description: How to set up an environment for the asset capture public preview
+description: Set up an environment and install Dynamics 365 Remote Assist model-driven app to use CDS based features in Remote Assist, such as Calls Dashboard, One-time Calls, and Asset Capture
 ms.author: dhgoel
 ms.date: 09/22/2020
 ms.service: crm-online
@@ -11,6 +11,12 @@ ms.reviewer: krbjoran
 # Install Dynamics 365 Remote Assist model-driven app
 
 ## Overview
+
+The Dynamics 365 Remote Assist model-driven app is built on Common Data Service and uses Common Data Model. This app is a companion to the Dynamics 365 Remote Assist apps for HoloLens, iOS, and Android, and enables new scenarios for managing data generated and consumed by Dynamics 365 Remote Assist.
+
+More information: [What are model-driven apps in Power Apps?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/model-driven-app-overview)
+
+:::image type="content" source="media/RA-CDS-Architecture-Diagram.png" alt-text="Architecture Diagram of a Remote Assist with CDS and companion apps" :::
 
 This tutorial is the first of a series. As you progress through the series, you'll learn how to<:
 
