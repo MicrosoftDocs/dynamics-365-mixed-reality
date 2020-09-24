@@ -2,25 +2,18 @@
 author: sophiasysun
 description: Multi-tenant company deployments for Dynamics 365 Remote Assist
 ms.author: sopsun
-ms.date: 04/01/2020
+ms.date: 09/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Multi-tenant company deployments
 ms.reviewer: krbjoran
 ---
 
-# Multi-tenant collaboration
+# Deploy multi-tenant collaboration
 
-A Dynamics 365 Remote Assist call involves one party using Dynamics 365 Remote Assist (a "Remote Assist user") and the other using Microsoft Teams (a "Teams user"). In most cases, employees who want to use Dynamics 365 Remote Assist and employees who want to use Teams belong to the same tenant, and thus a [standard deployment of Dynamics 365 Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
+## Goal
 
-However, there are certain scenarios where this may not be the case: 
-
-1. **Multi-tenant company deployments**: A company has multiple organizations or business units, each with their own tenant, that want to collaborate using Dynamics 365 Remote Assist. Or, multiple companies want to collaborate using Dynamics 365 Remote Assist. Users who want to use Dynamics 365 Remote Assist already have Dynamics 365 Remote Assist licenses, and users who want to use Teams already have Teams licenses. They want to initiate ad hoc calls and meetings with each other. This document focuses on this scenario.
-
-2. **Vendors and contractors use Dynamics 365 Remote Assist app**: A company wants vendors and contractors who do not already have Dynamics 365 Remote Assist and aren’t part of the company tenant to use Dynamics 365 Remote Assist. [Learn more about this scenario.](vendor-use-ra.md) 
-
-3. **Vendors and contractors use Teams app**: A company wants to provide employees with a quick and easy way to use Dynamics 365 Remote Assist HoloLens to receive assistance from out-of-tenant collaborators who may or may not have Teams. The company does not want to set up guest access or external access. [Learn more about this scenario.](vendor-use-teams.md) 
-
+Learn how to deploy [common deployment scenario 2](common-deployment-scenarios.md#scenario-2-multi-tenant-collaboration).
 
 ## Account types
 
@@ -30,7 +23,6 @@ Throughout this article, we'll be referring to a few account types:
 2. **Guest account**: An Azure AD account that is created in your tenant when you provide an out-of-tenant user with guest access in one or more Teams teams or channels. You can "guest" an out-of-tenant user into your tenant using their email.
     1. If that user's email is already associated with an Azure AD account in one other tenant, that user is now part of two tenants: that user is a member of their native tenant and a guest in your tenant.
     2. If that user's email is not already associated with an Azure AD account in any other tenant, that user is now part of one tenant: that user is a guest in your tenant.
-
 
 ## Scenario overview
 

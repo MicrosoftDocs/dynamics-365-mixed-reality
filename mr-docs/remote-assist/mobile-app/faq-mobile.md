@@ -2,7 +2,7 @@
 author: xonatia
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist mobile.
 ms.author: xolee
-ms.date: 09/01/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist mobile frequently asked questions
@@ -33,31 +33,48 @@ In Dynamics 365 Remote Assist mobile's **Main Menu**, go to **Information**, and
 
 - **Can I make calls to a Teams desktop user?** Yes.
 - **Can I make calls to a Teams mobile user?** Yes.
+- **Can I make calls to a browser-based Teams user?** No, not at this time.
 - **Can I make or be in a group call or a call with three or more participants?** Yes.
 - **Can I be in a meeting?** No, not at this time.
 
-## What is the size of the Dynamics 365 Remote Assist app?
+## If technicans have both Dynamics 365 Remote Assist mobile and Teams mobile installed on their devices, can they answer the call on Dynamics 365 Remote Assist mobile? 
+
+No, not at this time; they can only answer with Teams mobile. They can still place Mixed Reality annotations during the call. In order to answer a call with Dynamics 365 Remote Assist mobile, technicians can **only** have Dynamics 365 Remote Assist mobile installed on their devices.
+
+## What is the size of the Dynamics 365 Remote Assist mobile app?
 
 Depending upon the device and platform (iOS or Android), the download size of the app (data transferred) will be between 70 MB and 120 MB. Once the app is downloaded, the app package is decompressed and installed and the final size on the device may be larger.
+
+## Does Dynamics 365 Remote Assist mobile support external access (federation)? 
+
+No. External access (federation) is not supported for calls with Remote Assist mobile users at this time. Learn more about federation [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment).
+
+## Can a Dynamics 365 Remote Assist mobile user join a call with a Teams user who is a guest in the Remote Assist user's tenant? 
+
+Yes. Learn more about guest access [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment).
 
 ## Does Dynamics 365 Remote Assist mobile support the ability to see both the live video feed from the rear-facing camera as well as the technician's face from the front-facing camera?
 
 No, just the rear-facing camera at this time.
 
-## What countries is Dynamics 365 Remote Assist for Mobile supported?
+## During a call, can technicians use both the Dynamics 365 Remote Assist mobile app and their device's flashlight?
 
-On **Android** devices, Dynamics 365 Remote Assist mobile is available in 146 countries, but not available in Cuba, Sudan or Iran. It's also usable in China when connecting to global tenants, but not in the store currently (we are working on that).
+No, not at this time.
 
-For **iOS** devices, Dynamics 365 Remote Assist mobile is available in 155 countries.
+## What countries is Dynamics 365 Remote Assist mobile supported?
+
+On **Android** devices, Dynamics 365 Remote Assist mobile is available in 148 countries, but not available in Cuba, Sudan, Iran, or China.
+
+For **iOS** devices, Dynamics 365 Remote Assist mobile is available in 175 countries, including China.
 
 > [!Note]
-> In China, the Dynamics 365 Remote Assist mobile app is only available on iOS devices, and **not** Android devices. 
+> In China, the Dynamics 365 Remote Assist mobile app is only available on iOS devices, and **not** Android devices. We are still working on making Dynamics 365 Remote Assist available on Android devices in China. For more information, contact D365rafb@microsoft.com. 
 
-## What languages does Dynamics 365 Remote Assist Mobile support?
+## What languages does Dynamics 365 Remote Assist mobile support?
 
 Arabic (Saudi Arabia), Bulgarian (Bulgaria), Catalan (Spain), Czech (Czech Republic), Danish (Denmark), German (Germany), Greek (Greece), English (Australia), English (Canada), English (United Kingdom), English (United States), Spanish (Spain), Estonian (Estonia), Basque (Spain), Finnish (Finland), French (Canada), French (France), Galician (Spain), Hebrew (Israel), Hindi (India), Croatian (Croatia), Hungarian (Hungary), Indonesian (Indonesia), Italian (Italy), Japanese (Japan), Kazakh (Kazakhstan), Korean (Korea), Lithuanian (Lithuania), Latvian (Latvia), Malay (Malaysia), Norwegian Bokmål (Norway), Dutch (Netherlands), Polish (Poland), Portuguese (Brazil), Portuguese (Portugal), Romanian (Romania), Russian (Russia), Slovak (Slovakia), Slovenian (Slovenia), Serbian (Cyrillic, Serbia), Serbian (Latin, Serbia), Swedish (Sweden), Thai (Thailand), Turkish (Turkey), Ukrainian (Ukraine), Vietnamese (Vietnam), Chinese (Simplified, China), Chinese (Hong Kong S.A.R.), Chinese (Traditional).
 
-## How do I provide feedback?
+## How do I provide feedback on Dynamics 365 Remote Assist mobile?
 
 Technicians can provide feedback or make requests directly in the Dynamics 365 Remote Assist mobile app. Providing in-app feedback is the best way for the Dynamics 365 Dynamics 365 Remote Assist mobile team to troubleshoot your issue because we can use your applications logs to see if there is an issue on our side. The Dynamics 365 Remote Assist mobile team values your feedback and strives to make significant improvements to the app.
 

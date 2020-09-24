@@ -3,7 +3,7 @@ title: Group calls with Dynamics 365 Remote Assist mobile
 author: xonatia
 description: Group calling with Dynamics 365 Remote Assist mobile, Microsoft Teams desktop, and Dynamics 365 Remote Assist on HoloLens users 
 ms.author: xolee
-ms.date: 09/10/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 
 Many problems often require more than one specialist from around the world with different knowledge domains. Having multiple perspectives on a problem is crucial in providing technicians with the ability to accurately resolve problems. With the ability to join Dynamics 365 Remote Assist mobile calls with three or more participants, technicians can collaborate with more than one specialist for guidance, validation, or knowledge sharing purposes.
 
-A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call, and any call participant can add someone to the call. During a group call, there can be any combination at least three or more participants using Dynamics 365 Remote Assist mobile or Microsoft Teams desktop. For instance, there can be two users on Dynamics 365 Remote Assist mobile and one user on Teams desktop, or two users on Dynamics 365 Remote Assist mobile and two users on Teams desktop.
+A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call, and any call participant can add someone to the call. During a group call, there can be any combination at least three or more participants using Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, or Microsoft Teams desktop. For instance, there can be two users on Dynamics 365 Remote Assist mobile and one user on Teams desktop, or two users on Dynamics 365 Remote Assist mobile and two users on Teams desktop.
 
 > [!NOTE]
 > Dynamics 365 Remote Assist mobile does **not** support group calls with Teams mobile at this time. The Teams mobile user can join the group call, but will not be able to add mixed reality annotations in the shared environment.
@@ -56,25 +56,37 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call, a
 
 ![Screenshot showing add contact.](./media/all-participants-list.png "Add Contact")
 
-3. You can stop sharing your space by selecting !["More environment actions"](media/ellipsis.png "More environment actions") > **Stop sharing**.
+3. You can stop sharing your space by selecting !["More environment actions"](media/ellipsis.png "More environment actions") > **Stop sharing**. You will be taken to an audio call. 
 
 ![Screenshot showing stop presenting option.](./media/stop-presenting-button.png)
 
+### On Remote Assist HoloLens
+
+1. You can **only** share your environment to all call participants on Remote Assist mobile, Remote Assist HoloLens, or Teams desktop.
+
+![RAM-HL view space](./media/ram-hls.png "Remote Assist mobile-HoloLens share space")
+
 ### On Teams desktop
 
-1. You can **only** view the shared space of the Dynamics 365 Remote Assist mobile users. 
+1. You can **only** view the shared space of the Remote Assist mobile and Remote Assist HoloLens users. 
 
 ## Adding + receiving annotations
 
 ### On Dynamics 365 Remote Assist mobile
 
-1. You can add mixed reality annotations to other Dynamics 365 Remote Assist mobile users. 
+1. You can add mixed reality annotations to other Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users. 
 
 2. You can receive mixed reality annotations from Dynamics 365 Remote Assist mobile and Team desktop users. 
 
+### On Remote Assist HoloLens 
+
+1. You can add mixed reality annotations in your own environment. 
+
+2. You can receive mixed reality annotations from Dynamics 365 Remote Assist mobile and Teams desktop users. 
+
 ### On Teams desktop
 
-1. You can add mixed reality annotations to the Remote Assist mobile users' shared space. 
+1. You can add mixed reality annotations to the Dynamics 365 Remote Assist mobile and Dynamics 365 Remote Assist HoloLens users' shared space. 
 
 ## Other capabilities
 
@@ -89,3 +101,6 @@ A group call is a one-to-one call that call participants can add more participan
 
 ### Can Teams mobile join a group call?
 Yes, but the Teams mobile user will not be able to add mixed reality annotations in the shared environment. 
+
+### Can a Remote Assist HoloLens user annotate in another call participant's environment?
+No. They can only add mixed reality annotations in their own environment and receive mixed reality annotations from other users.

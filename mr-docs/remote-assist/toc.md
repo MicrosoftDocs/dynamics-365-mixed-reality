@@ -62,9 +62,10 @@
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 
 ## Additional deployment scenarios
-### Scenarios overview
-#### [Multi-tenant collaboration](multi-tenant-deployment.md)
-#### [Vendors and customers use full Dynamics 365 Remote Assist capabilities](vendor-use-teams.md)
+### [Scenarios overview](common-deployment-scenarios.md)
+#### [Deploy multi-tenant collaboration](multi-tenant-deployment.md)
+#### [Vendors and customers use full Dynamics 365 Remote Assist capabilities](vendor-use-RA.md)
+#### [Enable collaborator to use Microsoft Teams to join a call](set-up-teams.md)
 
 ## Additional resources
 ### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)

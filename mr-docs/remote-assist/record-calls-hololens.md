@@ -3,7 +3,7 @@ title: Record calls in Dynamics 365 Remote Assist on HoloLens
 author: sophiasysun
 description: Use cloud-based recording or several other alternatives in Dynamics 365 Remote Assist on HoloLens
 ms.author: sopsun
-ms.date: 06/10/2020
+ms.date: 09/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -16,29 +16,25 @@ Read about the [layout](https://docs.microsoft.com/dynamics365/mixed-reality/rem
 
 ## Overview of cloud-based recording
 
->[!Note]
-> Starting in the April 2020 release, Dynamics 365 Remote Assist users can initiate a cloud-based recording of a one-to-one call with one Teams desktop user.
->  
-> **If you are not using the April 2020 release or later**, a cloud-based call recording can only be initiated if the Teams desktop user initiates the call using the **Meet Now** feature in the Teams Calendar tab. Learn more about it [in this video starting at 0:33](https://www.microsoft.com/videoplayer/embed/RWedV7?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us). A one-to-one call *cannot be recorded* if:
->
-> - The Dynamics 365 Remote Assist (HoloLens and mobile) user initiates the one-to-one call.
-> - The Teams mobile user initiates the call.
-> - The Teams desktop user initiates the call using the Teams call tab rather than **Meet Now.**
-
 The following chart explains which call participant can initiate a cloud-based call recording in each type of call:
 
-| In a...  |Can a Dynamics 365 Remote Assist HoloLens user record?     |  Can a Teams desktop user record? |  Can a Teams mobile user record?  |  
-|---|---|---|---|
-|  One-to-one call |  Yes |  Only if Teams desktop user initiates call using [**Meet Now** feature](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all) |  No |  
-|  Group call |  No | Yes | Call not supported |  
-|  Meeting | No  |  Yes | Call not supported  |  
+|     In a...     |     Can a Dynamics 365   Remote Assist HoloLens user record?     |     Can a Dynamics 365   Remote Assist mobile user record?     |     Can a Teams   desktop user record?    |
+|-----------------|------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------|
+|     One-to-one call         |     Yes                                                          |     Yes                                                        |     Yes                                   |
+|     Group       |     Yes                                                          |     Yes                                                        |     Yes                                   |
+|     Meeting     |     No                                                           |     N/A                                                        |     Yes                                   |
 
-Learn more about using [Teams desktop]( https://support.office.com/article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24) or [Teams mobile]( https://support.office.com/article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24#ID0EAABAAA=Mobile) to record the call. 
+Exceptions include:
+* Unlicensed one-time call participant  
+* Call participant without the [required license](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+* Additional exceptions described by [Microsoft Teams documentation](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+
+Learn more about using [Teams desktop]( https://support.office.com/article/Record-a-meeting-in-Teams-34dfbe7f-b07d-4a27-b4c6-de62f1348c24) to record the call. 
 
 > [!Note]
 > The recorder is the owner of the video. The owner needs to [give permission](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_sharemeetingrecording) or [download](https://support.office.com/article/Play-and-share-a-meeting-recording-in-Teams-7d7e5dc5-9ae4-4b94-8589-27496037e8fa#bkmk_downloadmeetingrecording) the video to share the recording beyond these people.  
 
-## How to create a cloud-based recording of a one-to-one call with a Teams desktop user
+## How to initiate a cloud-based recording
 
 1. Select the **Start Record** button (as shown here: ![Start recording button](media/RAHL_CallRecording_StartButton.png)) to start recording the call.
 ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the record button.](media/03.00-call.png)
@@ -54,9 +50,6 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
 ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the notification explaining that the call recording is being saved.](media/03.10-call-recording-saving.png)
 7. After the recording is processed and saved, it will appear in your Dynamics 365 Remote Assist chat history (if you are still in the call) and also your Teams chat history. Remember that your Dynamics 365 Remote Assist chat history does not persist when the call ends, but your Teams chat history does. To view the recording in your HoloLens browser, select the link in the Dynamics 365 Remote Assist chat. To view all the call recordings you initiated, visit your [Stream videos page](https://msit.microsoftstream.com/studio/videos).
 ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the chat window where there's a notification that the video is available on Stream.](media/03.13-call-chat-recorded.png)
-
-Note that if you're *not* in a one-to-one call with one Teams desktop user, the recording button will be greyed out. If you select it, you'll see a reminder that you can only record in one-to-one calls with one Teams desktop user.
-![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the greyed out record icon, along with a notification explaining that recording is unavailable.](media/03.12-call-recording-unavailable.png)
 
 ## Cloud-based recording layout
 
@@ -96,7 +89,10 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
   - To stop recording, perform the **Start Gesture** and press the **Video** button.
 ![Screenshot from the HoloLens field of view, showing the video icon on the bottom tool pane.](media/RAHL_OSVideo.png)
 
-2. By voice:
+> [!Note]
+> If you are using this method to record your environment outside a call, joining a call will end the recording.
+
+2. By voice: 
 
 - Say "Hey Cortana, Record a video."
 - Cortana's blue ring will appear, and your voice command will display on screen while giving feedback by voice.
