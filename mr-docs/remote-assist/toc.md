@@ -48,7 +48,7 @@
 ## Remote Assist model-driven app
 ### [Add users to the model-driven app](asset-capture-add-users.md)
 ### Calls dashboard
-### Invite user to join one-time call
+### [Invite user to join one-time call](one-time-call.md)
 ### Asset capture
 #### [Overview](asset-capture-overview.md)
 #### [Create asset records](asset-capture-create-asset.md)
