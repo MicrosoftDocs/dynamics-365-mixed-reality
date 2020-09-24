@@ -48,7 +48,7 @@ one of the responses, which determines their next step in the guide.
 
     ![Outline view with Add step command](media/branching-add-question-step-outline-view.PNG "Outline view with Add step command")
     
-    You'll see a small icon below the step showing that it's a question step.
+    You'll see a small icon below the step that shows that it's a question step.
     
     ![Question step icon](media/question-step-icon.PNG "Question step icon")
 
