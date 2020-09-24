@@ -1,22 +1,26 @@
 ---
-title: Add users to the asset capture preview in Dynamics 365 Remote Assist
+title: Add users to the Dynamics 365 Remote Assist model-driven app
 author: dhgoelmsft
-description: Learn how to add users to the preview of asset capture.
+description: Learn how to add users to the model-driven Dynamics 365 Remote Assist app
 ms.author: dhgoel
-ms.date: 08/19/2020
+ms.date: 09/23/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Add users to the asset capture preview
+# Add users to the Dynamics 365 Remote Assist model-driven app
 
-Learn how to add users to the asset capture public preview so they can access the model-driven app and use the HoloLens to capture asset data.
+Learn how to add users so they can access the model-driven app. Once users have access, they will have the ability to:
 
-In this tutorial, you assign users a Dynamics 365 Remote Assist license and security roles.
+* Use the Remote Assist client app on HoloLens or Mobile to capture and view asset data
+* Create and share One-time call links
+* Record call metrics to enable the Calls Dashboard
+
+This article walks you through assigning users a Dynamics 365 Remote Assist license and security roles.
 
 ## Prerequisites
 
-To complete the steps in this tutorial, you need:
+To complete the steps in this article, you need:
 
 - **A Dynamics 365 Remote Assist subscription**, which enables you to assign licenses to users you want to give access to Dynamics 365 Remote Assist.
 - **The ability to manage user licenses in the Microsoft 365 admin center**. To manage user licenses, you need to have an admin role for the Microsoft 365 admin center.
@@ -24,7 +28,7 @@ To complete the steps in this tutorial, you need:
 
 ## Assign Dynamics 365 Remote Assist licenses
 
-Anyone who will be using Dynamics 365 Remote Assist on HoloLens or accessing the Dynamics 365 Remote Assist model-driven app to review captured data will need a Dynamics 365 Remote Assist license. If these users already have a Dynamics 365 Remote Assist license, you can skip this step.
+Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or Mobile or accessing the Dynamics 365 Remote Assist model-driven app will need a Dynamics 365 Remote Assist license. If these users already have a Dynamics 365 Remote Assist license, you can skip this step.
 
 1. Sign in to the [Microsoft 365 admin center](https://admin.microsoft.com) as an admin (User admin or Global admin).
 2. Go to **Billing** > **Licenses**.

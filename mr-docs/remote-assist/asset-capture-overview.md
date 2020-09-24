@@ -1,14 +1,14 @@
 ---
 title: Asset capture overview for Dynamics 365 Remote Assist
 author: dhgoelmsft
-description: Overview of the asset capture public preview 
+description: Overview of the asset capture feature
 ms.author: dhgoel
 ms.date: 08/19/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Asset capture public preview overview
+# Asset capture overview
 
 Using the asset capture feature in Dynamics 365 Remote Assist, technicians can capture data about the assets they operate, inspect, and maintain without them having to make a video call. Data is captured in a consistent and structured way, and made available through the new Dynamics 365 Remote Assist model-driven app for easy validation, report generation, and auditing.
 
@@ -27,12 +27,16 @@ Asset capture is easy to use:
 5. The technician completes their work (an inspection, for example) and captures the inspection data to the asset record through Dynamics 365 Remote Assist.
 6. The captured data is available to view.
 
-## Next step
+## Next steps
 
-Use the following tutorial to get started with the asset capture public preview.
+To use the Asset capture feature of Dynamics 365 Remote Assist, check out the following series of articles:
 
-> [!div class="nextstepaction"]
-> [Set up an environment](./ra-webapp-install.md)
+1. [Installing the model-driven app](./ra-webapp-install.md)
+2. [Adding users to the environment](./asset-capture-add-users.md)
+3. [Importing and creating asset records](./asset-capture-create-asset.md)
+4. Capturing pictures and videos with spatial markup on [HoloLens](./asset-capture-photos.md) and Mobile
+5. [Reviewing asset captures from the Dynamics 365 Remote Assist model-driven app](./asset-capture-review.md)
+6. [Creating Power Automate flows to automate business processes with captured asset data](./integrate-power-automate.md)
 
 ## Additional notes
 
