@@ -11,13 +11,12 @@ ms.reviewer: krbjoran
 
 # Vendors and customers use full Dynamics 365 Remote Assist capabilities 
 
-
 ## Goal
 
 Learn how to deploy [common deployment scenario 3](common-deployment-scenarios.md#scenario-4-vendors-and-customers-use-full-remote-assist-capabilities).
 
 > [!Note] 
-> This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Remote Assist, please contact your Microsoft sales representative.
+> This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Dynamics 365 Remote Assist, please contact your Microsoft sales representative.
 
 ## Account types
 
@@ -26,27 +25,26 @@ Throughout this article, we'll be referring to a few account types:
 1. **Internal account**: An Azure Active Directory (Azure AD) account that is created inside your tenant for internal users.
 2. **Service account**: An Azure AD account that is created inside your tenant for users who are not currently part of your tenant.
 
-
 ## Example
 
-Company ABC wants vendors to use Remote Assist to collaborate with experts in Tenant ABC. As shown in Figure 1.1, some of these vendors are in an existing tenant and others are not. Experts in Tenant ABC already have Teams licenses. Company ABC wants to give vendors Remote Assist licenses so they can use it for their daily service tasks. Company ABC does not want vendors from different vendor companies to talk to each other. 
+Company ABC wants vendors to use Dynamics 365 Remote Assist to collaborate with experts in Tenant ABC. As shown in Figure 1.1, some of these vendors are in an existing tenant and others are not. Experts in Tenant ABC already have Teams licenses. Company ABC wants to give vendors Dynamics 365 Remote Assist licenses so they can use it for their daily service tasks. Company ABC does not want vendors from different vendor companies to talk to each other. 
 
 **Figure 1.1**
-![Diagram showing vendors not having any Remote Assist licenses.](media/SA_1.png)
+![Diagram showing vendors not having any Dynamics 365 Remote Assist licenses.](media/SA_1.png)
 
-In Figure 1.2 below, Company ABC used Azure AD to create **service accounts** (SAs) inside Tenant ABC. Tenant ABC administrator assigned a Remote Assist license to each service account. (A Teams license is then automatically assigned to each service account.) Service account credentials were then distributed to company vendors and contractors. Now,
-* (Orange) Vendor1_A@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_A_SA@ABC.com to sign in to Remote Assist to collaborate with Teams users in Tenant ABC.
-* (Green) Vendor1_B@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_B_SA@ABC.com to sign in to Remote Assist to collaborate with Teams users in Tenant ABC.
-* (Blue) Vendor1_A@Vendor2.com is still a member of Tenant Vendor2, and now uses Vendor2_A_SA@ABC.com to sign in to Remote Assist to collaborate with Teams users in Tenant ABC.
-* (Yellow) Vendor@Outlook.com was not a member of any other tenant - that contractor uses a regular personal email (for example, @outlook.com) for work. Now,  Vendor@Outlook.com uses Vendor_SA@ABC.com to sign in to Remote Assist to collaborate with Teams users in Tenant ABC.
+In Figure 1.2 below, Company ABC used Azure AD to create **service accounts** (SAs) inside Tenant ABC. Tenant ABC administrator assigned a Dynamics 365 Remote Assist license to each service account. (A Teams license is then automatically assigned to each service account.) Service account credentials were then distributed to company vendors and contractors. Now,
+* (Orange) Vendor1_A@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_A_SA@ABC.com to sign in to Dynamics 365 Remote Assist to collaborate with Teams users in Tenant ABC.
+* (Green) Vendor1_B@Vendor1.com is still a member of Tenant Vendor1, and now uses Vendor1_B_SA@ABC.com to sign in to Dynamics 365 Remote Assist to collaborate with Teams users in Tenant ABC.
+* (Blue) Vendor1_A@Vendor2.com is still a member of Tenant Vendor2, and now uses Vendor2_A_SA@ABC.com to sign in to Dynamics 365 Remote Assist to collaborate with Teams users in Tenant ABC.
+* (Yellow) Vendor@Outlook.com was not a member of any other tenant - that contractor uses a regular personal email (for example, @outlook.com) for work. Now,  Vendor@Outlook.com uses Vendor_SA@ABC.com to sign in to Dynamics 365 Remote Assist to collaborate with Teams users in Tenant ABC.
 
 **Figure 1.2**
-![Diagram showing Tenant ABC providing a Remote Assist license to users outside of Tenant ABC.](media/SA_2.png)
+![Diagram showing Tenant ABC providing a Dynamics 365 Remote Assist license to users outside of Tenant ABC.](media/SA_2.png)
 
 In the previous figure, we described a configuration where any service account user can search for and communicate with any other service account user or internal account user in Tenant ABC. If you need to control search and collaboration, you can do so by adding information barriers. For example, Tenant ABC can configure information barriers such that Vendor1_A@Vendor1.com, Vendor1_B@Vendor1.com, and Vendor1_A@Vendor2.com can search and collaborate with the experts and vice versa, but cannot search and collaborate with Vendor@outlook.com and vice versa. Learn more about information barriers and how to configure them [here](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide).
 
 >[!Note] 
-> Because Teams users and Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search for by typing that user's name, rather than typing their entire email address.
+> Because Teams users and Dynamics 365 Remote Assist users are all in Tenant ABC, they can each search for users they are allowed to search for by typing that user's name, rather than typing their entire email address.
 
 ## Implementation
 
@@ -68,7 +66,7 @@ You can segment users based on different attributes, such as what department the
 
 3. Buy the correct licenses
 
-Learn about [licenses required to use Remote Assist](requirements.md).
+Learn about [licenses required to use Dynamics 365 Remote Assist](requirements.md).
 
 If you would like to control who the service account user can search and collaborate with, you will need to assign the service account an information barrier license. These [licensing suites](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide#required-licenses-and-permissions) include information barrier licenses.
 

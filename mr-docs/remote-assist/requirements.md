@@ -2,7 +2,7 @@
 author: sophiasysun
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: sopsun
-ms.date: 05/27/2020
+ms.date: 09/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
@@ -27,19 +27,22 @@ The Remote Assist app is available on HoloLens, HoloLens 2, and qualifying Andro
 
 If an individual wants to join a Remote Assist call using the Teams app, they must use the Teams application on Windows 10 PC or mobile devices.
 
-### Device options and requirements for a Remote Assist user
+### Device options and requirements for a Dynamics 365 Remote Assist user
 
 | Device                                   | OS requirements                                                                                                                                                                                                          | Details                                                                                                                                                                                                                  |
 | ---------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Remote Assist on HoloLens or HoloLens 2 | HoloLens or HoloLens 2 running 10.0.17134.0 (that is, Windows 10 April 2018) build or later. We recommend [updating](https://docs.microsoft.com/hololens/hololens-updates) HoloLens to newer versions when available. | See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS). |
-| Remote Assist on mobile devices          | Dynamics 365 Remote Assist mobile is available on all devices, including ARCore-enabled Android phones or tablets, ARKit-enabled iOS iPhones or iPads, and mobile devices without AR support.                                                                               | These are the lists of AR-supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://developers.google.com/ar/discover/supported-devices#ios). For more information on how to use Remote Assist on devices without AR support, see the documentation [here](mobile-app/using-devices-without-AR.md).                                         |
+| Dynamics 365 Remote Assist on HoloLens or HoloLens 2 | HoloLens or HoloLens 2 running 10.0.17134.0 (that is, Windows 10 April 2018) build or later. We recommend [updating](https://docs.microsoft.com/hololens/hololens-updates) HoloLens to newer versions when available. | See [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates) for instructions on using Windows Update for Business, Mobile Device Management (MDM), and Windows Server Update Services (WSUS). |
+| Dynamics 365 Remote Assist on mobile devices          | Dynamics 365 Remote Assist mobile is available on all devices, including ARCore-enabled Android phones or tablets, ARKit-enabled iOS iPhones or iPads, and mobile devices without AR support.                                                                               | These are the lists of AR-supported devices on [Android](https://developers.google.com/ar/discover/supported-devices) and [iOS](https://developers.google.com/ar/discover/supported-devices#ios). For more information on how to use Dynamics 365 Remote Assist on devices without AR support, see the documentation [here](mobile-app/using-devices-without-AR.md).                                         |
 
 ### Device options and requirements for a Teams user
 
 | Device                             | OS requirements                                             | Details                                                                                                                                                                                                                                                                                 |
 | ---------------------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Teams application on Windows 10 PC | Any Windows 10 build.                                       | A Windows 10 PC running the Teams PC application can collaborate with Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices.                |
-| Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices. |
+| Teams application on Windows 10 PC | Any Windows 10 build.                                       | A Windows 10 PC running the Teams PC application can collaborate with Dynamics 365 Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices.                |
+| Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with Dynamics 365 Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices. |
+
+> [!Note] 
+> Dynamics 365 Remote Assist may not be available in your country. For more information, visit our documentation about [Dynamics 365 Remote Assist availability](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/faq-mobile#what-countries-is-dynamics-365-remote-assist-for-mobile-supported).
 
 ## Licensing and product requirements per role
 
@@ -78,21 +81,20 @@ A Dynamics 365 Remote Assist license includes the following three products neede
 
 [Azure Active Directory (AAD)](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis) account to assign licenses in M365 Admin portal and distribute applications through Microsoft Store for Business. Learn more about how to deploy Remote Assist [here](https://github.com/docs.microsoft.com/dynamics365/mixed-reality/remote-assist/deploy-remote-assist).
 
-
 ## Network requirements
 
 A variety of network conditions, including bandwidth, latency, jitter, and packet loss, can impact your video calling experience. Although audio and video calls might be possible in environments with reduced bandwidth, you might experience feature degradation.
 
-### Remote Assist mobile
+### Dynamics 365 Remote Assist mobile
 
-When using Remote Assist on mobile devices, a minimum of 1.2 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15fps. If Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information. 
+When using Dynamics 365 Remote Assist on mobile devices, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15fps. If Dynamics 365 Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information. 
 
-### Remote Assist HoloLens
+### Dynamics 365 Remote Assist HoloLens
 
-When using Remote Assist on HoloLens, a minimum of 1.5Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p at 30fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD quality video calling with resolution of HD 1080p, 4-5Mbps up/down should be expected. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
+When using Dynamics 365 Remote Assist on HoloLens, a minimum of 1.5Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p at 30fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD quality video calling with resolution of HD 1080p, 4-5Mbps up/down should be expected. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
 
 ### URLs and ports
-The following list contains the URL end points and TCP/UDP ports utilized by Remote Assist. All must be reachable from the Remote Assist client.
+The following list contains the URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist client.
 
 #### Teams
 - *.registrar.skype.com
@@ -134,7 +136,7 @@ The following list contains the URL end points and TCP/UDP ports utilized by Rem
 
 ### Network optimization recommendations
 
-The following tasks serve as a checklist for other potential optimizations for Remote Assist:
+The following tasks serve as a checklist for other potential optimizations for Dynamics 365 Remote Assist:
 
 - [Monitor your network using CQD and call analytics](https://docs.microsoft.com/MicrosoftTeams/prepare-network#best-practice-monitor-your-network-using-cqd-and-call-analytics).
 - Review Teams' recommendations [for optimizing your network](https://docs.microsoft.com/MicrosoftTeams/prepare-network#network-optimization).
@@ -152,7 +154,7 @@ The following tasks serve as a checklist for other potential optimizations for R
 - [Overview of Dynamics 365 Remote Assist](ra-overview.md)
 - [Try Dynamics 365 Remote Assist for free](try-remote-assist.md)
 - [Buy Dynamics 365 Remote Assist](deploy-remote-assist.md)
-- [Using Remote Assist on HoloLens](overview-hololens.md)
+- [Using Dynamics 365 Remote Assist on HoloLens](overview-hololens.md)
 - [Set up and use Microsoft Teams with Dynamics 365 Remote Assist](teams-pc-all.md)
 - [How-to videos](videos.md)
 

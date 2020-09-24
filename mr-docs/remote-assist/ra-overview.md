@@ -39,13 +39,13 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 ## Roles
 
-- **Technician**: A technician uses Remote Assist on their HoloLens or mobile device to share what they are seeing and receive remote assistance.
-- **Inspector or auditor**: An inspector or auditor uses Remote Assist on their HoloLens or mobile device to collaborate with remote inspectors and auditors. Together, they evaluate and document asset quality.
-- **Remote collaborator**: A remote collaborator uses Teams on PC or mobile to join a Remote Assist call, see what a technician or inspector sees, and provide guidance in context.  
+- **Technician**: A technician uses Dynamics 365 Remote Assist on their HoloLens or mobile device to share what they are seeing and receive remote assistance.
+- **Inspector or auditor**: An inspector or auditor uses Dynamics 365 Remote Assist on their HoloLens or mobile device to collaborate with remote inspectors and auditors. Together, they evaluate and document asset quality.
+- **Remote collaborator**: A remote collaborator uses Teams on PC or mobile to join a Dynamics 365 Remote Assist call, see what a technician or inspector sees, and provide guidance in context.  
 
 ## Sample workflow for technicians and remote collaborators 
 
-1. A technician arrives onsite to fix a machine, but encounters a complex machine that they're not familiar with. The technician puts on a HoloLens 2, signs in using iris scanning, and launches Remote Assist. (Or, they launch Remote Assist from their mobile device.)  
+1. A technician arrives onsite to fix a machine, but encounters a complex machine that they're not familiar with. The technician puts on a HoloLens 2, signs in using iris scanning, and launches Dynamics 365 Remote Assist. (Or, they launch Dynamics 365 Remote Assist from their mobile device.)  
 
 2. Because the technician's company has enabled Field Service integration, the technician selects a booking and views the recommended remote collaborator who has more experience with that machine.
 
@@ -61,10 +61,10 @@ Watch a video about [Dynamics 365 Remote Assist on Hololens 2 and mobile](https:
 
 * **[Mixed reality is a spectrum](https://docs.microsoft.com/windows/mixed-reality/#mixed-reality-is-a-spectrum)**: Mixed reality blends the physical world with the digital world. Mixed reality physically anchors holographic images, data, text, and other digital information onto the physical world and enables you to interact with these holograms. 
 * **[What is a hologram?](https://docs.microsoft.com/windows/mixed-reality/#what-is-a-hologram)** HoloLens 1 and 2 display holograms, which are objects made of light and sound that appear in the world around you, as if they were real objects. Holograms respond to your gaze, gestures, and voice commands, and can interact with real-world surfaces around you. With holograms, you can create digital objects that are part of your world.
-* **[Spatial anchoring](https://docs.microsoft.com/windows/mixed-reality/spatial-anchors)**: When a technician or remote collaborator makes drawings or adds arrows, these annotations are anchored in the physical world and stay in place as the Remote Assist user moves around. 
+* **[Spatial anchoring](https://docs.microsoft.com/windows/mixed-reality/spatial-anchors)**: When a technician or remote collaborator makes drawings or adds arrows, these annotations are anchored in the physical world and stay in place as the Dynamics 365 Remote Assist user moves around. 
 * **What is the HoloLens 2?** HoloLens 2 offers the most comfortable and immersive mixed reality experience available, with industry-leading solutions that deliver value in minutes—all enhanced by the reliability, security, and scalability of cloud and AI services from Microsoft. Learn more about HoloLens 2 features and technical specs [here](https://www.microsoft.com/hololens/hardware).
 * **How is the HoloLens 2 improved from HoloLens?** HoloLens 2 offers a more immersive, ergonomic, and instinctual experience. 
-* **Field of view (FOV)**: The greater the device's field of view, the more holograms you can see at once. During a Remote Assist call, the Teams user can see all the holograms in the Remote Assist HoloLens user's space, but the Remote Assist HoloLens user can only see the holograms that are within their field of view.
+* **Field of view (FOV)**: The greater the device's field of view, the more holograms you can see at once. During a Dynamics 365 Remote Assist call, the Teams user can see all the holograms in the Dynamics 365 Remote Assist HoloLens user's space, but the Dynamics 365 Remote Assist HoloLens user can only see the holograms that are within their field of view.
 
 Learn more about [core concepts](https://docs.microsoft.com/windows/mixed-reality/core-concepts-landingpage) in mixed reality technology.
 
@@ -74,17 +74,18 @@ Technicians and inspectors can use Remote Assist on [HoloLens](https://docs.micr
 
 Remote collaborators can use the [Teams application on a Windows 10 PC](teams-pc-all.md) or [Teams application on a mobile device](teams-mobile-all.md), or Remote Assist on HoloLens, HoloLens 2, or mobile phones and tablets.
 
-Learn more about the [technical requirements](requirements.md) for deploying and using Remote Assist.
+Learn more about the [technical requirements](requirements.md) for deploying and using Dynamics 365 Remote Assist.
 
 ## Integrate Dynamics 365 Field Service  
 
-In addition to using Remote Assist to consult with remote collaborators and resolve issues faster, technicians and inspectors work even more effectively when they use Field Service to view their schedules, perform and track work orders, manage customer assets, and more. When Remote Assist and Field Service are integrated, technicians and inspectors can view bookings in Remote Assist and automatically attach relevant call details and artifacts to their work order associated with that booking.
+In addition to using Dynamics 365 Remote Assist to consult with remote collaborators and resolve issues faster, technicians and inspectors work even more effectively when they use Field Service to view their schedules, perform and track work orders, manage customer assets, and more. When Dynamics 365 Remote Assist and Field Service are integrated, technicians and inspectors can view bookings in Dynamics 365 Remote Assist and automatically attach relevant call details and artifacts to their work order associated with that booking.
 
 ![Screenshot of the HoloLens field of view, showing recent contacts and a booking detail pane.](media/07.01-dynamics-booking.png "FS")
 
 ## Next steps
 
 ### For administrators
+
 - Learn the [technical requirements](requirements.md) for deploying and using Remote Assist. 
 - Learn how to get a [free trial of Remote Assist](try-remote-assist.md).
 - Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
@@ -92,15 +93,15 @@ In addition to using Remote Assist to consult with remote collaborators and reso
 - Learn how to [install the Remote Assist model-driven app](asset-capture-setup-environment.md).
 - (Optional) Learn about [additional deployment scenarios](common-deployment-scenarios.md).
 - (Optional) Learn how to [set up multi-tenant collaboration](multi-tenant-deployment.md) for licensed users.
-- (Optional) Learn how to [enable vendors and contractors to use Remote Assist](vendor-use-RA.md).
+- (Optional) Learn how to [enable vendors and contractors to use Dynamics 365 Remote Assist](vendor-use-RA.md).
 - (Optional) Learn how to [enable vendors and contractors to use Teams](vendor-use-RA.md).
-- (Optional) Learn to [integrate Remote Assist with Field Service](troubleshoot-field-service.md).
+- (Optional) Learn to [integrate Dynamics 365 Remote Assist with Field Service](troubleshoot-field-service.md).
 
 ### For technicians and inspectors
-- Learn how to use [Remote Assist on HoloLens](overview-hololens.md) or [Remote Assist on mobile](./mobile-app/remote-assist-mobile-overview.md).
+- Learn how to use [Dynamics 365 Remote Assist on HoloLens](overview-hololens.md) or [Dynamics 365 Remote Assist on mobile](./mobile-app/remote-assist-mobile-overview.md).
 
 ### For remote collaborators
-- Learn how to use [Teams on PC](teams-pc-all.md) or [Teams on mobile](teams-mobile-all.md) to collaborate with a Remote Assist user.
+- Learn how to use [Teams on PC](teams-pc-all.md) or [Teams on mobile](teams-mobile-all.md) to collaborate with a Dynamics 365 Remote Assist user.
 
 ### See also
 

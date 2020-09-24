@@ -28,7 +28,7 @@ If your organization uses Dynamics 365 Field Service to manage field service wor
     ![Screenshot of the active bookings panel that appears on HoloLens](media/07.01-dynamics-booking.png "ViewBookings")
     
     > [!Note]
-    > Only bookings with the **In Progress** status are listed. When a booking is open, any Remote Assist call you make will be associated with that booking, even if you do not collaborate with the resource listed.
+    > Only bookings with the **In Progress** status are listed. When a booking is open, any Dynamics 365 Remote Assist call you make will be associated with that booking, even if you do not collaborate with the resource listed.
     
 2.  Now, you'll see booking details, including the **Work Order ID** and **Support Contact**. 
 
@@ -53,7 +53,7 @@ You may update your booking status.
     [!include[pn-power-bi](../includes/pn-power-bi.md)] desktop application.
     
     > [!NOTE]
-    > When you open a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard, [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. To return to Remote Assist, navigate to the Start menu and select the Remote Assist tile. 
+    > When you open a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard, [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. To return to Dynamics 365 Remote Assist, navigate to the Start menu and select the Dynamics 365 Remote Assist tile. 
     
 
 ## Modify the default booking view

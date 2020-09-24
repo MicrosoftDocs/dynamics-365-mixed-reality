@@ -23,9 +23,9 @@ To take a snapshot, select the **Camera** icon (or say "Remote Assist, Camera"),
 
 ![Screenshot of the HoloLens field of view, showing an image with the option to save to OneDrive or save to booking.](media/remote-assist-field-service-save-image-HL.png)
 
-Snapshots are saved differently depending on whether or not the Remote Assist call is associated with a Dynamics 365 Field Service booking.
+Snapshots are saved differently depending on whether or not the Dynamics 365 Remote Assist call is associated with a Dynamics 365 Field Service booking.
 
 - If the call *is* associated with a booking, after you take the snapshot, you'll see an option to save it to OneDrive or to the booking. (A call is associated with a booking if, from the Recent Contacts page, you selected a booking.)
-- If a Remote Assist call is *not* associated with a booking, your snapshot will automatically be saved in OneDrive.  
+- If a Dynamics 365 Remote Assist call is *not* associated with a booking, your snapshot will automatically be saved in OneDrive.  
 
 A link to the snapshot is sent via text chat. All call participants can access the link via Teams chat during and after the call.

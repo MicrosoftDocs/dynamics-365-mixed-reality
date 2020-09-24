@@ -25,14 +25,14 @@ triggers require HoloLens 2 hand detection.
 
 There are two types of triggers:
 
-- **Visible triggers.** Dynamics 365 Guides comes with pre-configured **Next** and **Back** buttons that you can place in the real world. Operators select a visible trigger with their hand(s) to move forward or backward. **The trigger is activated when the operator's hand exits the trigger area**. 
+- **Visible triggers.** Dynamics 365 Guides comes with pre-configured **Next** and **Back** buttons that you can place in the real world. Operators select a visible trigger with their hand(s) to move forward or backward.  
 
     ![Example of visible trigger](media/trigger-visible.PNG "Example of visible trigger")
  
-> [!TIP]
-> You can add a dotted line to a visible trigger to tie it to a specific place in the real world.
+    > [!TIP]
+    > You can add a dotted line to a visible trigger to tie it to a specific place in the real world.
 
-- **Invisible triggers.** An invisible trigger automatically advances an operator to the next step when the **operator’s hand exits the trigger area**. Operators don’t see any evidence of the trigger until they activate it, at which time they’ll see a light green box. 
+- **Invisible triggers.** An invisible trigger automatically advances an operator to the next step when the trigger is activated. Operators don’t see any evidence of the trigger until they activate it, at which time they’ll see a light green box. 
 
     ![Example of invisible trigger](media/trigger-invisible.PNG "Example of invisible trigger")
  
@@ -40,7 +40,7 @@ This reduces clutter for the operator and helps them focus on the task at hand.
 
 ## When is a trigger activated?
 
-A trigger is activated when an operator's hand exits the trigger area. 
+The trigger is activated when the operator's hand leaves the trigger area. 
 
 ## Create a trigger 
 
@@ -54,9 +54,11 @@ You create a trigger in the same way that you create any other hologram in the P
 2. Open the **Triggers** section, and then drag the type of trigger (**Back**, **Invisible**, or **Next**) you want to the bin.
 
     ![Triggers section in 3D toolkit](media/triggers-category-pc-app.PNG "Triggers section in 3D toolkit")
-    
-After adding the trigger in the PC app, you can [place and test it in the HoloLens app](hololens-app-trigger.md).
-    
+
+## Place the trigger
+
+After adding the trigger in the PC app, [place and test it in the HoloLens app](hololens-app-trigger.md).
+
 ## What's next?
 
 [Place and test a trigger in the HoloLens app](hololens-app-trigger.md)

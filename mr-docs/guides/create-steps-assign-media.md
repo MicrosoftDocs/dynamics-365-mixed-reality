@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Create steps and add 3D content or media to support those steps in the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 08/25/2020
+ms.date: 09/09/2020
 ms.service: crm-online
 ms.topic: article
 title: Create steps and add 3D models or media in the Dynamics 365 Guides PC app
@@ -170,6 +170,9 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 | 3D models | FBX, GLB, glTF, STL, PLY | Optimize your 3D models as much as possible, to help maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see [Convert CAD drawings to use as holograms](import-tool.md). |
 | Images | PNG, JPG, JPEG, BMP, GIF, TIF | |
 | Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV | Keep your videos less than two minutes long and focused on one step at a time. |
+
+> [!IMPORTANT]
+> Dynamics 365 Guides uses meters as the default scale unit. If your 3D model scale is set to millimeters when you export from your CAD solution, the model will be converted to meters in Dynamics 365 Guides. For example, if your model is 50 millimeters, it will be converted to 50 meters. To ensure size consistency between your CAD solution and Dynamics 365 Guides, make sure to set your model scale unit to meters when you  export. 
 
 ## Preview an image, video, or 3D model and view its properties
 

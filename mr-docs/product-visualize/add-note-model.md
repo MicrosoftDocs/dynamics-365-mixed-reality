@@ -1,10 +1,10 @@
-﻿---
+---
 title: Add and manage notes attached to a model in Dynamics 365 Product Visualize Hub
 description: Instructions for adding and managing notes attached to a model in Dynamics 365 Product Visualize Hub.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 07/29/2020
+ms.date: 09/14/2020
 ms.service: dynamics-365-sales
 ms.topic: article
 ms-reviewer:
@@ -26,7 +26,7 @@ ms-reviewer:
 
     ![Add note button](media/add-note-button.png "Add note button")
 
-6.  To attach an image or a short video, select **Attach file**, and then select the file by using your file browser. 
+6.  To attach a PDF, an image, or a short video, select **Attach file**, and then select the file by using your file browser. 
 
     To remove the attachment, select **Remove attachment**.
 
