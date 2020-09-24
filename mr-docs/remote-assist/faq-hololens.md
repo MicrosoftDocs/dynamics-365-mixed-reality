@@ -15,7 +15,12 @@ Here are some answers to common questions about using Dynamics 365 Remote Assist
 
 ## How can I tell what version I'm using?
 
-In Dynamics 365 Remote Assist HoloLens, go to the **Settings tab**, and then find the version number in the bottom left of the screen.
+In Remote Assist HoloLens, go to the **Settings tab**, and then find the version number in the bottom left of the **Settings** page.
+![Version number](media/hl-version-number.png "Version number")
+
+## How can I use the newest version of Dynamics 365 Remote Assist?
+
+There are several ways to [update your app](https://docs.microsoft.com/hololens/holographic-store-apps#update-apps). [Learn about the newest version of Dynamics 365 Remote Assist.](version-history-remote-assist-hololens.md)
 
 ## What languages is Dynamics 365 Remote Assist HoloLens available in?
 

@@ -1,25 +1,19 @@
 ---
 author: sophiasysun
-description: Vendors and contractors use Dynamics 365 Remote Assist
+description: Vendors and customers use full Dynamics 365 Remote Assist capabilities 
 ms.author: sopsun
 ms.date: 04/02/2020
 ms.service: crm-online
 ms.topic: article
-title: Vendors and contractors use Dynamics 365 Remote Assist
+title: Vendors and customers use full Dynamics 365 Remote Assist capabilities 
 ms.reviewer: krbjoran
 ---
 
-# Vendors and contractors use Dynamics 365 Remote Assist
+# Vendors and customers use full Dynamics 365 Remote Assist capabilities 
 
-A Remote Assist call involves one party (technician) using Dynamics 365 Remote Assist and the other using Teams (expert or remote collaborator).  In most cases, technicians and remote collaborators all belong to the same tenant, and thus a [standard deployment of Dynamics 365 Remote Assist](deploy-remote-assist.md) and [standard deployment of Teams](set-up-teams.md) is all you need. 
+## Goal
 
-However, there are certain scenarios where this may not be the case: 
-
-1. **Multi-tenant company deployments**: A company has multiple organizations or business units, each with their own tenant, that want to collaborate using Dynamics 365 Remote Assist. Or, multiple companies want to collaborate using Dynamics 365 Remote Assist. Users who want to use Dynamics 365 Remote Assist already have Dynamics 365 Remote Assist licenses, and users who want to use Teams already have Teams licenses. They want to initiate ad hoc calls and meetings with each other. [Learn more about this scenario.](multi-tenant-deployment.md) 
-
-2. **Vendors and contractors use Dynamics 365 Remote Assist app**: A company wants vendors and contractors who do not already have Dynamics 365 Remote Assist and aren’t part of the company tenant to use Dynamics 365 Remote Assist. This document focuses on this scenario.
-
-3. **Vendors and contractors use Teams app**: A company wants to provide employees with a quick and easy way to use Dynamics 365 Remote Assist HoloLens to receive assistance from out-of-tenant collaborators who may or may not have Teams. The company does not want to set up guest access or external access. [Learn more about this scenario.](vendor-use-teams.md) 
+Learn how to deploy [common deployment scenario 3](common-deployment-scenarios.md#scenario-4-vendors-and-customers-use-full-remote-assist-capabilities).
 
 > [!Note] 
 > This document describes technical steps to enable this scenario. However, additional licensing configuration may be required. To appropriately license vendors and contractors to use Dynamics 365 Remote Assist, please contact your Microsoft sales representative.
@@ -30,10 +24,6 @@ Throughout this article, we'll be referring to a few account types:
 
 1. **Internal account**: An Azure Active Directory (Azure AD) account that is created inside your tenant for internal users.
 2. **Service account**: An Azure AD account that is created inside your tenant for users who are not currently part of your tenant.
-
-## Scenario overview
-
-Companies frequently want to leverage non-company employees such as vendors or contractors to perform specific service tasks. In this case, companies still handle all license configuration, but want to enable their vendors or contractors to seamlessly use Dynamics 365 Remote Assist to collaborate with them. 
 
 ## Example
 
@@ -78,17 +68,15 @@ You can segment users based on different attributes, such as what department the
 
 Learn about [licenses required to use Dynamics 365 Remote Assist](requirements.md).
 
-If you would like to control who the service account user can search and collaborate with, you will need to assign the service account an information barrier license. The following licensing suites include information barrier licenses:
-
-- Microsoft 365 E5
-- Office 365 E5
-- Office 365 Advanced Compliance
-- Microsoft 365 E5 Information Protection and Compliance
-
-For more information, see [Updated list of Information Barrier licenses](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide#required-licenses-and-permissions)
+If you would like to control who the service account user can search and collaborate with, you will need to assign the service account an information barrier license. These [licensing suites](https://docs.microsoft.com/microsoft-365/compliance/information-barriers?view=o365-worldwide#required-licenses-and-permissions) include information barrier licenses.
 
 4. [Create service accounts](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory).
 
 5. [Assign licenses](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups) to each service account user. 
 
 6. If information barriers are necessary, [configure information barriers](https://docs.microsoft.com/microsoft-365/compliance/information-barriers-policies?view=o365-worldwide).
+
+>![Note] If you plan to send your vendor or customer a HoloLens to use Remote Assist, you can create a service account, [assign the necessary licenses](requirements.md), and set up a PIN to log in to HoloLens using that service account. Then, share the PIN with your vendor or customer. With [Single Sign-on](https://docs.microsoft.com/hololens/hololens-identity), your vendor or customer can use the PIN to log in to the HoloLens and then automatically log in to Remote Assist as well. This method provides two benefits. Your vendor or customer can quickly sign in to both the device and Remote Assist. Additionally, because you are providing a HoloLens-specific PIN instead of the service account password, your vendor or customer cannot use that service account on any other device.
+
+>![Note] You may set up [kiosk mode](https://docs.microsoft.com/hololens/hololens-kiosk) for the HoloLens to limit the apps that your vendor or user can access. For example, you can limit them to only using two apps on the HoloLens: the Settings app to configure WiFi, and the Remote Assist app.
+

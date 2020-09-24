@@ -36,7 +36,10 @@ If your organization has enabled integration with Dynamics 365 Field Service, yo
 
 ![Screenshot of the Dynamics 365 Remote Assist on HoloLens contacts screen, showing an expanded booking panel.](media/07.01-dynamics-booking.png)
 
-If you don't see the contact you want, select Search and then use the holographic keyboard to enter a name or email address.
+If you don't see the contact you want, select Search and then use the holographic keyboard to enter a name or email address. 
+
+>[!Note]
+> After the intended contact pops up, select the contact to call them. (Minimizing the keyboard will erase your search.)  
 
 ![Screenshot showing the contacts search results screen on Dynamics 365 Remote Assist for HoloLens.](media/02.06-contacts-search-results.png)
 
