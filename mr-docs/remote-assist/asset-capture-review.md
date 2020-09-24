@@ -33,7 +33,7 @@ To complete this tutorial, you need:
 5. The image can be annotated by drawing directly on the image with your mouse. This is helpful for calling attention to objects or defects in the scene.
 ![Screenshot of an annotated image capture](./media/06.27-asset-capture-image-preview-annotated.png "Screenshot of an annotated image capture")
 6. Captures can be downloaded by selecting **Download** below the image preview control.
-![Screenshot of the asset capture image preview](./media/06.23-asset-capture-image-preview-expanded.png "[Screenshot of the asset capture image preview")
+![Screenshot of the asset capture image download](./media/06.23-asset-capture-image-preview-expanded.png "[Screenshot of the asset capture image download")
 7. Quickly switch between captures by selecting the **Open Record set** button to the left of the **Save** button. The captures related to the asset appear on the left.
 ![Screenshot of the open record set control](./media/06.28-asset-capture-switcher.png "Screenshot of the open record set control")
 

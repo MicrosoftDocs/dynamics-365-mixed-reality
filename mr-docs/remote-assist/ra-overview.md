@@ -90,7 +90,7 @@ In addition to using Dynamics 365 Remote Assist to consult with remote collabora
 - Learn how to get a [free trial of Remote Assist](try-remote-assist.md).
 - Learn how to [buy Remote Assist licenses](buy-remote-assist.md), either with or without Field Service licenses.
 - Learn how to [deploy Remote Assist](deploy-remote-assist.md), including how to assign licenses and set up HoloLens and mobile devices.
-- Learn how to [install the Remote Assist model-driven app](asset-capture-setup-environment.md).
+- Learn how to [install the Remote Assist model-driven app](ra-webapp-install.md).
 - (Optional) Learn about [additional deployment scenarios](common-deployment-scenarios.md).
 - (Optional) Learn how to [set up multi-tenant collaboration](multi-tenant-deployment.md) for licensed users.
 - (Optional) Learn how to [enable vendors and contractors to use Dynamics 365 Remote Assist](vendor-use-RA.md).
