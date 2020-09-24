@@ -47,6 +47,10 @@ one of the responses, which determines their next step in the guide.
 2. In the **Outline** page, select **Add step**, and then in the context menu, select **Add a question step**.
 
     ![Outline view with Add step command](media/branching-add-question-step-outline-view.PNG "Outline view with Add step command")
+    
+    You'll see a small icon below the step showing that it's a question step.
+    
+    ![Question step icon](media/question-step-icon.PNG "Question step icon")
 
     > [!NOTE]
     > You can also add a question step by selecting **Add step** in the top-right corner of the **Step Editor**.
