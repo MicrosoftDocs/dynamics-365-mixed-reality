@@ -86,7 +86,7 @@ At this point, consider whether you need to break up models into pieces to expor
 
 4. Select **Scene** > **Rake Tree** to flatten the hierarchy down to a root node. Any remaining occurrences in the scene will be children.
 
-> [TIP]
+> [!TIP]
 > These additional merge operations on the Scene menu might also be useful depending on your scenario:
 
 - **Merge Final Level**
@@ -118,6 +118,30 @@ You can use the **Hidden Removal** command to do a visibility test to determine 
 
 4.	Select **Execute**.
 
-> [NOTE] 
+> [!NOTE] 
 > If you have determined that your asset requires multiple pieces, hide the overlapping pieces by using the **Hidden Removal** command to prevent creating holes in adjacent pieces.
 
+### Decimate to Quality command
+
+Consider how each piece of the asset will be used in mixed reality:
+
+•	Is it the focus of the mixed-reality experience?
+
+•	Are the fine details important to convey the information in mixed reality?
+
+•	Is it for context or supporting visuals?
+
+To use the Decimate to Quality command:
+
+1.	Select the piece you want to optimize.
+
+2.	Select Optimize Mesh > Decimate To Quality.
+
+3.	In the Decimate window, in the Preset field, select Medium.
+ 
+4.	Set the Surfacic Tolerance field to 1mm.
+
+5.	Select Execute.
+
+> [!NOTE] 
+> The above settings provide a good balance of quality and polygon reduction for most assets. Use the Low preset when details are important, or the piece is the focus of the mixed-reality experience. The Strong preset works well for supporting visuals.
