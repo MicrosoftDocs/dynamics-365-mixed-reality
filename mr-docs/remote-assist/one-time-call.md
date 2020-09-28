@@ -25,7 +25,7 @@ Note that in these scenarios, the external user only needs to **join** a Remote 
 Any licensed Remote Assist user can use the Remote Assist web app via their desktop (or mobile) browser to generate a one-time call link. The licensed Remote Assist user can share the link with an external user using their preferred communication platform (e.g., email, SMS, [Dynamics 365 Omnichannel channels](https://docs.microsoft.com/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Remote Assist mobile app (or, in some scenarios, the Teams desktop app).
 
 ## Requirements  
-* Set up your Dynamics environment [NEED LINK to Dhruv’s doc].
+* [Set up your Dynamics environment](ra-webapp-install.md)
 * The agent must use the Remote Assist web app on a [compatible browser](https:/docs.microsoft.com/power-platform/admin/web-application-requirements)
 * Enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Remote Assist web app. Pop-ups will be used for authentication purposes.
 * The agent’s organization must [enable anonymous users to join Teams meeting](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
