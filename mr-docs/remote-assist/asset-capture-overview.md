@@ -40,12 +40,9 @@ To use the Asset capture feature of Dynamics 365 Remote Assist, check out the fo
 
 ## Additional notes
 
-- Dynamics 365 Remote Assist uses the same common solution for the asset entity that Dynamics 365 Field Service uses. If you have Field Service installed in the same environment as Dynamics 365 Remote Assist, you'll see a new tab on the customer asset form called **Captures**.
-- Support for HoloLens and mobile devices isn't part of the June public preview, but is planned for a future release. For more information, see: [2020 release wave 2 for Dynamics 365 Remote Assist](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/planned-features)
-- Support for video capture isn't available in the June release, but is planned for a future release.
-- During sign-in, Dynamics 365 Remote Assist will try to automatically select the first environment the user has access to that has the Dynamics 365 Remote Assist app installed. If the user has access to more than one environment that has the Dynamics 365 Remote Assist app installed, they can choose the environment they want by selecting **Settings** > **Links** > **Switch Dynamics Instance**.
-- Fields such as account, product, category, and asset hierarchy aren't visible in HoloLens. Over time, we'll add more support for relevant fields in the Dynamics 365 Remote Assist HoloLens and mobile apps.
-- The snapshot tool has been replaced with asset capture capabilities. Select an asset from the **Assets** tab, and then use the camera tool to take photos. You can re-enable the snapshot tool by turning off the asset capture feature from **Settings**.
+- Dynamics 365 Remote Assist uses the same common solution for the asset entity that Dynamics 365 Field Service uses.
+- Video capture length is currently limited to 30-45 seconds depending upon device. Support for longer video captures is planned for a future release.
+- After signing in to the client application, the user must select the environment with Dynamics 365 Remote Assist model-driven app installed. This can be done by going into **Settings**. This is the environment from which asset data will be fetched and new assets and captures will be added to.
 
 ### Entity reference
 
@@ -59,10 +56,5 @@ Asset capture uses several entities stored in Common Data Model:
 
 ### Known issues
 
-- Users with access to a large number of environments will experience long delays the first time they sign in to Dynamics 365 Remote Assist with the preview turned on. It can take Dynamics 365 Remote Assist a long time to find an environment that has the app installed.
-- An environment set through **Settings** won't be saved after you restart the app. The environment needs to be reset through **Settings** > **Links** > **Switch Dynamics Instance**.
-- Taking multiple photos in succession can be slow, or might fail entirely.
-- Photos taken in Dynamics 365 Remote Assist have a limited resolution of 1280 &times; 720, lower than the maximum resolution available on the HoloLens headset.
-- Captures viewed from the model-driven app might not appear the first time you load the capture. If you don't see the asset capture, refresh the page and the capture preview will appear.
 - Dynamics 365 Remote Assist supports a maximum of 5,000 asset records.
 - Dynamics 365 Remote Assist on HoloLens won't automatically update the list of asset records. If you create or update an asset from the model-driven app and don't see it in HoloLens, restart Dynamics 365 Remote Assist on HoloLens by closing the live tile and reopening the app.
