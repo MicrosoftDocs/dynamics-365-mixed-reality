@@ -49,6 +49,30 @@ After removing all the unnecessary parts and assemblies, you can use the followi
 > [!NOTE]
 > If lines are important for your scenario, you can use **Mesh** > **Create Textures From Lines** on co-planar lines to bake a textured polygon to use in mixed-reality apps. See the [PiXYZ documentation](https://www.pixyz-software.com/documentations/html/2020.1/studio/api/Algo.lineToTexture.html) for more information.
 
+## Remove features
+
+If there are holes in any of the parts or assemblies that aren’t required for your scenario, you can remove them for potentially large polygon savings.
+
+1. Select the parts and assemblies that have the holes you want to remove.
+
+    > [!NOTE] 
+    > If you don’t make a selection, PiXYZ runs the **Remove Holes** command on the entire scene.
+
+2. Select **Optimize Mesh** > **Remove Holes**.
+
+3. In the **Remove Holes** window, select the types of holes you want to remove:
+
+    - **Through Holes:** Holes that go through a surface and come out the other side.
+
+    - **Blind Holes:** Holes that go into a surface but stop part way through.
+
+    - **Surfacic Holes:** Holes that are cut into a surface but don’t have any depth.
+    
+    SCREEN SHOT GOES HERE
+ 
+4. Enter a number (in millimeters) for the **Max Diameter** field. Holes with a diameter below this value that match the types you set will be removed.
+
+5. Optionally, select the **Fill With Material** check box to select a material to fill holes that are removed to leave the appearance of a hole while still saving polygons.
 
 
 
