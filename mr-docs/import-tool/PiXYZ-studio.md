@@ -224,6 +224,51 @@ After generating UVs and creating normals and tangents, you can bake the texture
 > [!NOTE] 
 > You can use a texture resolution of 1024 or 512 on simple objects to keep the runtime memory usage and final .GLB file size to a minimum.
 
+## Create and apply materials
+
+You need to apply baked texture maps to a Physically Based Rendering (PBR) material, which can then be applied to the asset for glTF-compliant rendering in mixed-reality apps.
+
+1.	Select **Materials** > **Material Editor**.
+
+2.	Select **Add**.
+
+3.	In the **Choose a material pattern** list, select **PBR**.
+
+4.	Select **OK**.
+
+    SCREEN SHOT GOES HERE
+ 
+5.	Enter a **Name** for the material.
+
+    SCREEN SHOT GOES HERE
+
+6.	Next to **albedo**, select the **Color** list and change it to **Texture**.
+
+7.	In the **Image** field, select **Undefined**.
+
+8.	In the **Texture Library** window, select the baked Diffuse texture map.
+
+9.	Select the **Select** button to confirm the texture selection.
+
+10.	Repeat steps 6-9, as necessary, for any additional texture maps.
+
+11.	Select **Save material** to add it to the material library of the scene.
+
+12.	Select **OK** to close the **Material Editor** window.
+
+13.	Select the piece you want to apply the material to.
+
+14.	On the Inspector tab, under Occurrence Properties, select the No Material button. (Ignore the materials in the Occurrence Components section.)
+ 
+15.	In the Material selector window, select the new material.
+
+16.	Select Apply.
+
+    
+
+
+
+
 
 
 
