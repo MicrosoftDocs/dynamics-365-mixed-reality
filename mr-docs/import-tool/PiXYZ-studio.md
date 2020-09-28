@@ -125,23 +125,23 @@ You can use the **Hidden Removal** command to do a visibility test to determine 
 
 Consider how each piece of the asset will be used in mixed reality:
 
-•	Is it the focus of the mixed-reality experience?
+- Is it the focus of the mixed-reality experience?
 
-•	Are the fine details important to convey the information in mixed reality?
+- Are the fine details important to convey the information in mixed reality?
 
-•	Is it for context or supporting visuals?
+- Is it for context or supporting visuals?
 
-To use the Decimate to Quality command:
+To use the **Decimate to Quality** command:
 
-1.	Select the piece you want to optimize.
+1. Select the piece you want to optimize.
 
-2.	Select Optimize Mesh > Decimate To Quality.
+2. Select **Optimize Mesh** > **Decimate To Quality**.
 
-3.	In the Decimate window, in the Preset field, select Medium.
+3. In the **Decimate** window, in the **Preset** field, select **Medium**.
  
-4.	Set the Surfacic Tolerance field to 1mm.
+4. Set the **Surfacic Tolerance** field to **1mm**.
 
-5.	Select Execute.
+5. Select **Execute**.
 
 > [!NOTE] 
-> The above settings provide a good balance of quality and polygon reduction for most assets. Use the Low preset when details are important, or the piece is the focus of the mixed-reality experience. The Strong preset works well for supporting visuals.
+> The above settings provide a good balance of quality and polygon reduction for most assets. Use the **Low** preset when details are important, or the piece is the focus of the mixed-reality experience. The **Strong** preset works well for supporting visuals.
