@@ -6,7 +6,7 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy Dynamics 365 Remote Assist](buy-remote-assist.md)
 ### [Deploy Dynamics 365 Remote Assist in your tenant](deploy-remote-assist.md)
-### [Install Dynamics 365 Remote Assist model-driven app](asset-capture-setup-environment.md)
+### [Install Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md)
 
 ## Dynamics 365 Remote Assist on Hololens and HoloLens 2
 ### [Overview](overview-hololens.md)
