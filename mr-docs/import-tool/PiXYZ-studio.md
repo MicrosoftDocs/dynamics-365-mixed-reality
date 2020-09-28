@@ -74,5 +74,29 @@ If there are holes in any of the parts or assemblies that aren’t required for 
 
 5. Optionally, select the **Fill With Material** check box to select a material to fill holes that are removed to leave the appearance of a hole while still saving polygons.
 
+## Hierarchy cleanup
+
+At this point, consider whether you need to break up models into pieces to export as separate .GLB files for animation purposes or for progressively hiding/showing in mixed-reality apps.
+
+1. Select the parts and assemblies that you want to merge.
+
+2. Select **Scene** > **Merge Parts** to combine them into a single occurrence.
+
+3. Select **Scene** > **Delete Empty Occurrences** to remove any occurrences left behind in the merge process.
+
+4. Select **Scene** > **Rake Tree** to flatten the hierarchy down to a root node. Any remaining occurrences in the scene will be children.
+
+> [TIP]
+> These additional merge operations on the Scene menu might also be useful depending on your scenario:
+
+- **Merge Final Level**
+
+- **Merge By Tree Level**
+
+- **Merge Parts By Assemblies**
+
+- **Merge Parts By Name**
+
+- **Merge Parts By Materials**
 
 
