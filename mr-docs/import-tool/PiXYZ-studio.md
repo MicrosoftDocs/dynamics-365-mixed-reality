@@ -99,4 +99,25 @@ At this point, consider whether you need to break up models into pieces to expor
 
 - **Merge Parts By Materials**
 
+## Optimize your model
+
+You can optimize your model by using the **Hidden Removal** command, **Decimate to Quality** command, or **Decimate to Target** command. Each command provides specific benefits.
+
+### Hidden Removal command
+
+You can use the **Hidden Removal** command to do a visibility test to determine which polygons can be removed without affecting the look of the model.
+
+1.	Select **Optimize Mesh** > **Hidden Removal**.
+
+2.	In the **Level** field, select **Polygons**.
+
+    SCREEN SHOT GOES HERE
+ 
+3.	Set the **Resolution** field to Low. This setting is sufficient for most assets. However, if the asset contains many important small details, consider increasing it to 
+**Medium** or **High**.
+
+4.	Select **Execute**.
+
+> [NOTE] 
+> If you have determined that your asset requires multiple pieces, hide the overlapping pieces by using the **Hidden Removal** command to prevent creating holes in adjacent pieces.
 
