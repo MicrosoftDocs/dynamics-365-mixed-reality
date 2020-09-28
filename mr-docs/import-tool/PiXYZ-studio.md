@@ -258,11 +258,77 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
 
 13.	Select the piece you want to apply the material to.
 
-14.	On the Inspector tab, under Occurrence Properties, select the No Material button. (Ignore the materials in the Occurrence Components section.)
- 
-15.	In the Material selector window, select the new material.
+14.	On the **Inspector** tab, under **Occurrence Properties**, select the **No Material** button. (Ignore the materials in the **Occurrence Components** section.)
 
-16.	Select Apply.
+    SCREEN SHOT GOES HERE
+ 
+15.	In the **Material selector** window, select the new material.
+
+16.	Select **Apply**.
+
+## Export the model to a GLB file
+
+At this point, you have a fully optimized model that’s ready to export as a .GLB file for use in Dynamics 365 mixed-reality apps.
+
+1.	Select the piece you want to export.
+
+2.	Select **File** > **Export Selection**.
+
+3.	Select a location on your device where you want to export your file.
+
+4.	Enter a name for the file.
+
+5.	Select **GLTF Binary (&ast;.glb)** as the file type.
+
+    SCREEN SHOT GOES HERE
+ 
+6.	Select **Save**.
+
+7.	Repeat steps 1-6, as necessary, to export multiple pieces to .GLB files.
+
+8.	On the toolbar, select **Export**.
+
+> [!NOTE] 
+> If nothing is selected, the entire scene will be exported to a single .GLB file.
+
+## Preview an exported GLB file
+
+You can preview the resulting GLB file(s) with the [3D Viewer](https://www.microsoft.com/store/productId/9NBLGGH42THS) on Windows, where you can visualize the individual texture channels and view stats such as triangle count and draw calls to confirm the asset exported as expected.
+
+1. Open 3D Viewer.
+
+2. Drag and drop a .GLB file into the viewport (or select **File** > **Open** to browse for a .GLB file).
+
+3. Select the **Stats & Shading** tab on the right side of the screen to start visualizing different components of the .GLB file.
+
+4. Use the check boxes to toggle the different viewport visualization on or off.
+
+5. If your device has a camera, you can move the **Mixed reality** slider to the **On** position and place the asset to preview it in your world.
+
+    SCREEN SHOT GOES HERE
+    
+> [!TIP]
+> The Babylon.JS Web Viewer is another great option if uploading the asset is not a concern.
+
+If the asset requires any additional editing or animation work in another staging application, you might want to consider using .FBX as an intermediate file format. FBX is an Autodesk exchange format designed to preserve additional authoring data that might be required by your staging application.
+
+## View a 3D model in a Dynamics 365 mixed-reality app
+
+After preparing your 3D models, you can learn more about using the following Dynamics 365 apps to view your 3D models in mixed reality:
+
+- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+
+- [Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/) via [Dynamics 365 Import Tool (Preview)](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/import-tool)
+
+- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)
+
+## More information
+
+Several screenshots in this document were taken from the PiXYZ Studio software program to provide clear instructions on how to use PiXYZ’s software. [Learn more about PiXYZ Studio](https://www.pixyz-software.com/studio/).
+
+Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of PiXYZ Studio, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
+
+The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
 
     
 
