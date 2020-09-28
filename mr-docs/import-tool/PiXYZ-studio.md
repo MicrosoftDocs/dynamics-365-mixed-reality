@@ -199,6 +199,30 @@ Normals and tangents are required for final model rendering as well as for the t
 
 4.	Select **Mesh** > **Create Tangents**.
 
+### Bake texture maps
+
+After generating UVs and creating normals and tangents, you can bake the textures.
+
+1. Select a piece that already has UVs, normal, and tangents.
+
+2. Select **Optimize Mesh** > **Bake Texture Maps**.
+
+3. In the **Bake Maps** window, select the **+** button to add a texture map.
+
+4. In the **Maps to Bake** list, select **Diffuse**.
+
+    SCREEN SHOT GOES HERE
+
+5. Repeat steps 3 and 4, as necessary, for any additional texture maps.
+
+6. Set the **Channel** field to 0 to use the primary UV set for baking textures.
+
+7. Set the **Resolution** field to 2048 to bake high-resolution textures for detailed pieces.
+
+8. Select **Execute**.
+ 
+> [!NOTE] 
+> You can use a texture resolution of 1024 or 512 on simple objects to keep the runtime memory usage and final .GLB file size to a minimum.
 
 
 
