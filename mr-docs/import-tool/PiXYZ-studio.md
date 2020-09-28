@@ -138,6 +138,8 @@ To use the **Decimate to Quality** command:
 2. Select **Optimize Mesh** > **Decimate To Quality**.
 
 3. In the **Decimate** window, in the **Preset** field, select **Medium**.
+
+    SCREEN SHOT GOES HERE
  
 4. Set the **Surfacic Tolerance** field to **1mm**.
 
@@ -145,3 +147,59 @@ To use the **Decimate to Quality** command:
 
 > [!NOTE] 
 > The above settings provide a good balance of quality and polygon reduction for most assets. Use the **Low** preset when details are important, or the piece is the focus of the mixed-reality experience. The **Strong** preset works well for supporting visuals.
+
+### Decimate to Target command
+
+If you have a specific polygon count that you’re aiming for, the **Decimate To Target** command is a good alternative to the **Decimate To Quality** command.
+
+1. Select the piece that you want to optimize.
+
+2. Select **Optimize Mesh** > **Decimate To Target**.
+
+3. In the **Target Triangle Count** field, enter the number of triangles that you’re targeting.
+
+    SCREEN SHOT GOES HERE
+ 
+4. Select **Execute**.
+
+> [!NOTE] 
+> If you don’t make any selection, the **Decimate to Target** command applies to the entire scene.
+
+## Reducing draw calls
+
+In addition to reducing polygon count and hierarchy complexity, draw calls should be minimized to ensure good performance at runtime. Materials with different colors and surface qualities can be baked into texture maps so that complex objects can be rendered in a single draw call. You can do this by creating UVs, normals and tangents, baking texture maps, creating a new material based on the texture bakes, and finally, by applying the new material.
+
+### UV generation
+
+1. Select a piece from your scene.
+
+2. Select **UVs** > **Generate UV By Unwrapping**.
+
+3. In the **Automatic UV Mapping** window, set the **Channel** field to **0**.
+
+    SCREEN SHOT GOES HERE
+ 
+4. Move the **Forbid Overlapping** slider to the **On** position to create a unique UV unwrap, which is required for texture baking.
+
+5. Select **Execute**.
+
+> [!NOTE] 
+> Turn on **Checker** on the top toolbar to visualize the results of the UV unwrap in the Viewer. Select 
+**UVs** > **UV Viewer** to see the UV layout.
+
+### Create normals and tangents
+
+Normals and tangents are required for final model rendering as well as for the texture-baking process.
+
+1.	Select a piece that already has a UV layout.
+
+2.	Select **Mesh** > **Create Normals**.
+
+3.	Select **Mesh** > **Orient Normals**.
+
+4.	Select **Mesh** > **Create Tangents**.
+
+
+
+
+
