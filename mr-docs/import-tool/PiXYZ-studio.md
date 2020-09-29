@@ -34,11 +34,11 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
     |Field|Value|
     |------------------------------|--------------------------------------|
     |Preset|Default|
-    |Coordinate System|Right Handed, On|
-    
-    - Import Options
-     
-     - Hierachy Mode: Full
+    |Coordinate System|Right Handed: On|
+    ||Y-up: Off|
+    |Import Options|Load Hidden Parts: Off|
+    ||Load PMI: Off|
+    ||Hierachy Mode: Full|
     
     - Tesellation Setings
     
