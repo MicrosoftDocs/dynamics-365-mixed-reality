@@ -57,6 +57,7 @@ To have access to the calls dashboard, you must have:
 ### Dashboard filters
 
 All visuals described are governed by the filters available at the top of the report. Let's understand what these filters do.
+
 | Filter | Description |
 | --- | --- |
 | Date | Filters the dashboard to only show metrics for phonecall records falling within the specified duration |
