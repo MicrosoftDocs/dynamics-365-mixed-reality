@@ -48,6 +48,7 @@ To have access to the calls dashboard, you must have:
 
 1. As **Remote Assist - Administrator**, you can always go back and disable the dashboard by toggling it off from within the **Settings** area as described above.
 
-1. The dashboard leverages the phonecall entity type to generate analytics. End users must select the right Dynamics environment from their device to send the phonecall record to the Common Data Service. Only after they have selected the correct environment, and for those users only, is the phonecall data available in the calls dashboard. 
+1. The dashboard leverages the phonecall entity type to generate analytics. End users must [select the right Dynamics environment](./asset-capture-add-users#selecting-the-right-environment-from-the-client-app) from their device to send the phonecall record to the Common Data Service. Only after they have selected the correct environment, and for those users only, is the phonecall data available in the calls dashboard.
 
 1. End users may or may not give location permissions to the Hololens or Mobile app. If permission is not granted, for call records from those specific users, location information will be missing.
+
