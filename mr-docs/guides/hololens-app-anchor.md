@@ -23,7 +23,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the QR code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
-    ![Aligning with the anchor](media/qr-code-green-outline.PNG "Aligning with the anchor")
+    ![Aligning with the QR code anchor](media/qr-code-green-outline.PNG "Aligning with the QR code anchor")
 
 4. On the **QR Code Anchor Found** page, select **Confirm**.
 
@@ -46,7 +46,7 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the circular code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
-    ![Aligning with the anchor](media/circular-code-green-outline.PNG "Aligning with the anchor")
+    ![Aligning with the circular code anchor](media/circular-code-green-outline.PNG "Aligning with the circular code anchor")
 
 4. On the **Circular Code Anchor Found** page, select **Confirm**.
 
