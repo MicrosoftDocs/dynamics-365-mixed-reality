@@ -12,8 +12,7 @@ ms.reviewer: v-brycho
 # Use Pixyz Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
 
 This tutorial outlines a general process for using Pixyz Studio to convert Computer-Aided Design (CAD) based parametric assets into polygon-based .GLB files that perform 
-well in Dynamics 365 mixed-reality apps. (See [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for information about performance targets.) Keep in mind that every asset and use case ise different, 
-so you may need to adjust the process accordingly. 
+well in Dynamics 365 mixed-reality apps. (See [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for information about performance targets.) Keep in mind that every asset and use case is different, so you may need to adjust the process accordingly. 
 
 > [!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how Pixyz Studio works with Dynamics 365 mixed-reality apps. Your use of third-party applications 
