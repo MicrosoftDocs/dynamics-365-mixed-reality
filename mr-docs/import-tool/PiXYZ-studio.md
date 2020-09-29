@@ -40,7 +40,7 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
     ||Load PMI: Off||
     ||Hierachy Mode: Full||
     |Tesellation Setings|Repair CAD: On, 0.1mm||
-    ||Tessellation Quality|High|Max Sag: On, 0.1mm|
+    ||Tessellation Quality, High|Max Sag: On, 0.1mm|
     |||Max Angle: On, 15 deg|
     |Material Assignment|Transfer CAD Materials On Parts|     
 
