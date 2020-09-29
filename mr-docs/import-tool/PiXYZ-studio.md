@@ -236,7 +236,7 @@ After generating UVs and creating normals and tangents, you can bake the texture
 
 5. Repeat steps 3 and 4, as necessary, for any additional texture maps.
 
-6. Set the **Channel** field to 0 to use the primary UV set for baking textures.
+6. Set the **Channel** field to **0** to use the primary UV set for baking textures.
 
 7. Set the **Resolution** field to 2048 to bake high-resolution textures for detailed pieces.
 
