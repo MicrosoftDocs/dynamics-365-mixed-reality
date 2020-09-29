@@ -44,7 +44,7 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
     |||Max Angle: On, 15 deg|
     |Material Assignment|Transfer CAD Materials On Parts|     
 
-3. **Execute**.
+3. Select **Execute**.
 
 ## Scene cleanup
 
