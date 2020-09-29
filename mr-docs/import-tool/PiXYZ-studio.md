@@ -322,7 +322,7 @@ You can preview the resulting .GLB file(s) with the [3D Viewer](https://www.micr
 
 3. Select the **Stats & Shading** tab on the right side of the screen to start visualizing different components of the .GLB file.
 
-4. Use the check boxes to toggle the different viewport visualization on or off.
+4. Use the check boxes to turn the different viewport visualizations on or off.
 
 5. If your device has a camera, you can move the **Mixed reality** slider to the **On** position and place the asset to preview it in your world.
 
