@@ -1,32 +1,32 @@
 ---
 author: keno-msft
-description: Describes, in tutorial format, how to use PiXYZ Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
+description: Describes, in tutorial format, how to use Pixyz Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.author: keno
 ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
-title: Use PiXYZ Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
+title: Use Pixyz Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
 ---
 
-# Use PiXYZ Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
+# Use Pixyz Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
 
-This tutorial outlines a general process for using PiXYZ software to convert Computer-Aided Design (CAD) based parametric assets into polygon-based .GLB files that perform 
+This tutorial outlines a general process for using Pixyz software to convert Computer-Aided Design (CAD) based parametric assets into polygon-based .GLB files that perform 
 well in Dynamics 365 mixed-reality apps (see [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for information about performance targets). Keep in mind that every asset and use case ise different, 
 so you may need to adjust the process accordingly. 
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how PiXYZ Studio works with Dynamics 365 mixed-reality apps. Your use of third-party applications 
-is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor PiXYZ or any of 
-PiXYZ’s products. There are [other content-creation apps](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how Pixyz Studio works with Dynamics 365 mixed-reality apps. Your use of third-party applications 
+is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Pixyz or any of 
+Pixyz’s products. There are [other content-creation apps](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models) you can use to prepare your 3D models.
 
-## What is PiXYZ Studio?
+## What is Pixyz Studio?
 
-[PiXYZ Studio](https://www.pixyz-software.com/studio/) helps companies and 3D users re-use their CAD data for any visualization scenario.
+[Pixyz Studio](https://www.pixyz-software.com/studio/) helps companies and 3D users re-use their CAD data for any visualization scenario.
 
-## Import a CAD asset into PiXYZ Studio
+## Import a CAD asset into Pixyz Studio
 
-1. Open PiXYZ Studio, and then on the top-left side of the toolbar, select **Wizard** to start the Import wizard.
+1. Open Pixyz Studio, and then on the top-left side of the toolbar, select **Wizard** to start the Import wizard.
 
     ![Wizard button in toolbar](media/pixyz-import-tool.PNG "Wizard button in toolbar")
  
@@ -56,7 +56,7 @@ After removing all the unnecessary parts and assemblies, you can use the followi
 •	**Mesh** > **Delete Lines**
 
 > [!NOTE]
-> If lines are important for your scenario, you can use **Mesh** > **Create Textures From Lines** on co-planar lines to bake a textured polygon to use in mixed-reality apps. See the [PiXYZ documentation](https://www.pixyz-software.com/documentations/html/2020.1/studio/api/Algo.lineToTexture.html) for more information.
+> If lines are important for your scenario, you can use **Mesh** > **Create Textures From Lines** on co-planar lines to bake a textured polygon to use in mixed-reality apps. See the [Pixyz documentation](https://www.pixyz-software.com/documentations/html/2020.1/studio/api/Algo.lineToTexture.html) for more information.
 
 ## Remove features
 
@@ -65,7 +65,7 @@ If there are holes in any of the parts or assemblies that aren’t required for 
 1. Select the parts and assemblies that have the holes you want to remove.
 
     > [!NOTE] 
-    > If you don’t make a selection, PiXYZ runs the **Remove Holes** command on the entire scene.
+    > If you don’t make a selection, Pixyz runs the **Remove Holes** command on the entire scene.
 
 2. Select **Optimize Mesh** > **Remove Holes**.
 
@@ -333,9 +333,9 @@ After preparing your 3D models, you can learn more about using the following Dyn
 
 ## More information
 
-Several screenshots in this document were taken from the PiXYZ Studio software program to provide clear instructions on how to use PiXYZ’s software. [Learn more about PiXYZ Studio](https://www.pixyz-software.com/studio/).
+Several screenshots in this document were taken from the Pixyz Studio software program to provide clear instructions on how to use Pixyz’s software. [Learn more about Pixyz Studio](https://www.pixyz-software.com/studio/).
 
-Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of PiXYZ Studio, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
+Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Pixyz Studio, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
 
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
 
