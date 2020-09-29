@@ -90,11 +90,11 @@ To align the holographic anchor with its real-world counterpart, air tap and hol
 
 ## Where alignment information is stored
 
-When you align your guide, if you're using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)], so you don't have to realign the guide every time that you open it. However, you can realign a guide at any time if you think that the holograms are out of alignment by using the **Anchor** button. For more information, see [Operate a guide](operator-orientation.md).
+When you align your guide, if you're using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)], so you don't have to realign the guide every time that you open it. However, you can realign a guide at any time if you think that the holograms are out of alignment by using the **Anchor** button. For more information, see [Operate a guide](operator-step-card-orientation.md).
 
 ## What's next?
 
 [Calibrate your HoloLens](operator-calibrate.md)<br>
 [Install the app and sign in](install-sign-in-operator.md)<br>
 [Gestures for navigating the app](operator-gestures.md)<br>
-[Operate a guide](operator-orientation.md)
+[Operate a guide](operator-step-card-orientation.md)
