@@ -108,7 +108,7 @@ At this point, consider whether you need to break up models into pieces to expor
 4. Select **Scene** > **Rake Tree** to flatten the hierarchy down to a root node. Any remaining occurrences in the scene will be children.
 
 > [!TIP]
-> These additional merge operations on the Scene menu might also be useful depending on your scenario:
+> These additional merge operations on the **Scene** menu might also be useful depending on your scenario:
 
 - **Merge Final Level**
 
