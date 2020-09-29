@@ -16,6 +16,7 @@ The Dynamics 365 Remote Assist model-driven app is built on Common Data Service 
 
 More information: [What are model-driven apps in Power Apps?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/model-driven-app-overview)
 
+Common Data Service (CDS) becomes the central location for customers to store their organization specific data. The Dynamics 365 Remote Assist client apps on HoloLens or Mobile can send and receive data to CDS, which can then be accessed via the model-driven app in a browser. This also allows other applications, such as Dynamics 365 Field Service, to share the same organizational data and drive further insights. You can even use [Power Automate to create flows that use Common Data Service](https://docs.microsoft.com/power-automate/common-data-model-intro) and make them available for third-party apps. The below high-level architecture diagram shows the various possible components of these scenarios. 
 :::image type="content" source="media/RA-CDS-Architecture-Diagram.png" alt-text="Architecture Diagram of a Remote Assist with CDS and companion apps" :::
 
 ## Prerequisites
