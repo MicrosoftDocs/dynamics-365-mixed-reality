@@ -57,7 +57,7 @@ The type of environment that you create depends on whether you purchased a [!inc
     ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
 
     > [!NOTE]
-    > For information about security groups, see [Control user access to instances](https://docs.microsoft.com/dynamics365/admin/security.md).
+    > For information about security groups, see [Control user access to instances](admin-security.md).
 
     A message is shown that explains that the production environment is being prepared.
 
