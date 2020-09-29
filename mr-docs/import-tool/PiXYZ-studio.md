@@ -19,7 +19,7 @@ PiXYZ’s products. There are [other content-creation apps](https://docs.mic
 
 1. Open PiXYZ Studio, and then on the top-left side of the toolbar, select **Wizard** to start the Import wizard.
 
-    ![Wizard button in toolbar](media/pixyz-XXX.import-wizard "Wizard button in toolbar")
+    ![Wizard button in toolbar](media/pixyz-import-wizard "Wizard button in toolbar")
  
 2. In the **Import Wizard** dialog box, use the settings shown above to create a high-quality tessellation as a starting point.
 
