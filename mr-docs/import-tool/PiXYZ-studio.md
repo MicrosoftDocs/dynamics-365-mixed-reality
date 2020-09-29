@@ -317,7 +317,7 @@ You can preview the resulting GLB file(s) with the [3D Viewer](https://www.micro
     ![3D Viewer showing Stats & Shading field](media/pixyz-3d-viewer.PNG "3D Viewer showing Stats & Shading field")
     
 > [!TIP]
-> The Babylon.JS Web Viewer is another great option if uploading the asset is not a concern.
+> The [Babylon.JS Web Viewer](https://sandbox.babylonjs.com/) is another great option if uploading the asset is not a concern.
 
 If the asset requires any additional editing or animation work in another staging application, you might want to consider using .FBX as an intermediate file format. FBX is an Autodesk exchange format designed to preserve additional authoring data that might be required by your staging application.
 
