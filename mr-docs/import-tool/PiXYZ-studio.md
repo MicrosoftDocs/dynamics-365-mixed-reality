@@ -57,7 +57,7 @@ Start by manually removing all parts and assemblies that are not required for th
 > [!NOTE]
 > Tools in the **Selection** menu such as **Select Instances**, **Select Similar**, and **Select By Max Size** can be very useful for quickly selecting multiple occurrences to delete.
 
-After removing all the unnecessary parts and assemblies, you can use the following commands to clean up left over occurrences, materials, textures, and lines:
+After removing all the unnecessary parts and assemblies, you can use the following commands to clean up leftover occurrences, materials, textures, and lines:
 
 •	**Scene** > **Delete Empty Occurrences**
 
