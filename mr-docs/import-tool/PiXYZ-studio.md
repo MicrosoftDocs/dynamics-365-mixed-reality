@@ -29,7 +29,27 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
 
     ![Wizard button in toolbar](media/pixyz-import-tool.PNG "Wizard button in toolbar")
  
-2. In the **Import Wizard** dialog box, use the settings shown above to create a high-quality tessellation as a starting point.
+2. In the **Import Wizard** dialog box, use these settings (shown in the screen shot above) to create a high-quality tessellation as a starting point:
+
+    - Preset: Default
+    
+    - Coordinate System: Right Handed
+    
+    - Import Options
+     
+     - Hierachy Mode: Full
+    
+    - Tesellation Setings
+    
+     - Repair CAD: On, 0.1mm
+     
+     - Tessellation Quatlity, High
+    
+      - Max Sag, On, 0.1mm
+      
+      - Max Angle, On, 15 deg
+      
+    - Material Assignment: Transfer CAD Materials On Parts     
 
 3. **Execute**.
 
