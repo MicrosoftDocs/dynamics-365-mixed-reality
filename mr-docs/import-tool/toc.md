@@ -12,7 +12,7 @@
 #### [ReCap Photo](autodesk-recap-photo.md) 
 ### [Blender](blender.md)
 ### [Dassault Systèmes SOLIDWORKS](solidworks.md)
-### [PiXYZ Studio](PiXYZ-studio.md)
+### [Pixyz Studio](pixyz-studio.md)
 ### SideFX Houdini
 #### [Prepare 3D models](houdini.md)
 #### [Convert a point cloud](houdini-point-cloud.md)
