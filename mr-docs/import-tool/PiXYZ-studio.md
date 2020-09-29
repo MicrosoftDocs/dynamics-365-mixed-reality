@@ -240,7 +240,7 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
  
 5.	Enter a **Name** for the material.
 
-   ![Material Editor showing options](media/pixyz-albedo.PNG "Material Editor showing options")
+    ![Material Editor showing options](media/pixyz-albedo.PNG "Material Editor showing options")
 
 6.	Next to **albedo**, select the **Color** list and change it to **Texture**.
 
