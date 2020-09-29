@@ -29,7 +29,7 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
 
     ![Wizard button in toolbar](media/pixyz-import-tool.PNG "Wizard button in toolbar")
  
-2. In the **Import Wizard** dialog box, use these settings (shown in the screen shot above) to create a high-quality tessellation as a starting point:
+2. In the **Import Wizard** dialog box, use the following settings (also shown in the screen shot above) to create a high-quality tessellation as a starting point:
 
     |Field|Value|Sub-value|
     |------------------------------|--------------------------------------|----------------------|
