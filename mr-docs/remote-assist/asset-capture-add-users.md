@@ -12,9 +12,9 @@ ms.reviewer: krbjoran
 
 Learn how to add users so they can access the model-driven app. Once users have access, they will have the ability to:
 
-* Use the Remote Assist client app on HoloLens or Mobile to capture and view asset data
-* Create and share One-time call links
-* Record call metrics to enable the Calls Dashboard
+* Use the Remote Assist client app on HoloLens or Mobile to [capture and view asset data](./asset-capture-overview.md)
+* Create and share [One-time call links](./one-time-call.md)
+* Record call metrics to enable the [Calls Dashboard](./calls-dashboard.md)
 
 This article walks you through assigning users a Dynamics 365 Remote Assist license and security roles.
 
@@ -22,9 +22,9 @@ This article walks you through assigning users a Dynamics 365 Remote Assist lice
 
 To complete the steps in this article, you need:
 
-- **A Dynamics 365 Remote Assist subscription**, which enables you to assign licenses to users you want to give access to Dynamics 365 Remote Assist.
-- **The ability to manage user licenses in the Microsoft 365 admin center**. To manage user licenses, you need to have an admin role for the Microsoft 365 admin center.
-- **Admin access to the environment Dynamics 365 Remote Assist is installed in**. You'll be managing security roles for users in the environment. A system administrator role is required in the environment you're managing.
+* **A Dynamics 365 Remote Assist subscription**, which enables you to assign licenses to users you want to give access to Dynamics 365 Remote Assist.
+* **The ability to manage user licenses in the Microsoft 365 admin center**. To manage user licenses, you need to have an admin role for the Microsoft 365 admin center.
+* **Admin access to the environment Dynamics 365 Remote Assist is installed in**. You'll be managing security roles for users in the environment. A system administrator role is required in the environment you're managing.
 
 ## Assign Dynamics 365 Remote Assist licenses
 
@@ -66,7 +66,7 @@ Security roles must be assigned to apps to ensure that users who have those role
 
 ## Next step
 
-In this tutorial, you learned how to assign security roles and enable the app for Dynamics 365 Remote Assist users. In the next tutorial, you'll learn how to create asset records and import your existing asset catalog.
+After assigning security roles, you can check out the following articles to use the model-driven app:
 
-> [!div class="nextstepaction"]
-> [Create assets](./asset-capture-create-asset.md)
+* [Create asset records and import your existing asset catalog](./asset-capture-create-asset.md)
+* [Get insights with Calls Dashboard](./calls-dashboard.md)
