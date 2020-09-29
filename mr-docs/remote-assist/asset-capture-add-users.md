@@ -65,7 +65,7 @@ Security roles must be assigned to apps to ensure that users who have those role
 :::image type="content" source="media/06.24-d365-settings-my-apps.png" alt-text="Screenshot of the Dynamics 365 environment.":::
 5. On the Dynamics 365 Remote Assist app tile, select **More options**, and then select **Manage Roles**.
 :::image type="content" source="media/06.25-d365-settings-manage-roles.png" alt-text="Screenshot of the Dynamics 365 Manage Roles for app menu.":::
-6. From the right side panel, select the **Remote Assist - App User** role from the list, and then select **Save**.
+6. From the right side panel, select the **Remote Assist - App User** and **Remote Assist - Administrator** roles from the list, and then select **Save**.
 :::image type="content" source="media/06.26-d365-settings-manage-roles-set.png" alt-text="Screenshot of Dynamics 365 assigning app role":::
 
 ## Selecting the right environment from the client app
