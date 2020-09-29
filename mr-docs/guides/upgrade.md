@@ -38,7 +38,7 @@ To upgrade the solution:
   
 4. In the dialog box that appears, select the environment that you want to upgrade the solution for, select the **I agree to the terms of service** check box, and then select **Install**.  
     
-   ![Install button](media/solution-install-button.PNG "Install button")  
+   ![Install button to upgrade environment](media/solution-install-button.PNG "Install button to upgrade environment")  
 
 ## Troubleshooting
 
