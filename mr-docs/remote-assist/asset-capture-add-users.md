@@ -37,7 +37,7 @@ Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or Mo
 5. In the **Assign licenses to users** pane, begin typing a name, and then choose it from the results to add it to the list. You can add up to 20 users at a time.
 6. When you're finished, select **Assign**, and then select **Close**.
 
-More information: [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide)
+More information: [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 ## Assign Dynamics 365 security roles
 

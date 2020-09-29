@@ -48,7 +48,7 @@ To use the Asset capture feature of Dynamics 365 Remote Assist, check out the fo
 
 Asset capture uses several entities stored in Common Data Model:
 
-- **Customer Asset**: The individual asset. This entity is also used in Dynamics 365 Field Service and Connected Field Service. More info: [msdyn_customerasset EntityType](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/msdyn_customerasset?view=dynamics-ce-odata-9)
+- **Customer Asset**: The individual asset. This entity is also used in Dynamics 365 Field Service and Connected Field Service. More info: [msdyn_customerasset EntityType](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/msdyn_customerasset)
 - **Customer Asset Category**: A way to describe a group of similar assets.
 - **Customer Asset Attachment**: A media artifact of a single asset, captured in HoloLens.
 - **Account**: The customer account where the asset currently exists.
