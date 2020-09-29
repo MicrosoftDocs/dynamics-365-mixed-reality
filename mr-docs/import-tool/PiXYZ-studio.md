@@ -32,16 +32,16 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
 2. In the **Import Wizard** dialog box, use these settings (shown in the screen shot above) to create a high-quality tessellation as a starting point:
 
     |Field|Value|
-    |------------------------------|--------------------------------------|
-    |Preset|Default|
-    |Coordinate System|Right Handed: On|
-    ||Y-up: Off|
-    |Import Options|Load Hidden Parts: Off|
-    ||Load PMI: Off|
-    ||Hierachy Mode: Full|
-    |Tesellation Setings|Repair CAD: On, 0.1mm|
-    ||Tessellation Quatlity, High, Max Sag, On, 0.1mm|
-    ||Max Angle, On, 15 deg
+    |------------------------------|--------------------------------------|----------------------|
+    |Preset|Default||
+    |Coordinate System|Right Handed: On||
+    ||Y-up: Off||
+    |Import Options|Load Hidden Parts: Off||
+    ||Load PMI: Off||
+    ||Hierachy Mode: Full||
+    |Tesellation Setings|Repair CAD: On, 0.1mm||
+    ||Tessellation Quality|High|Max Sag: On, 0.1mm|
+    |||Max Angle: On, 15 deg|
     |Material Assignment|Transfer CAD Materials On Parts|     
 
 3. **Execute**.
