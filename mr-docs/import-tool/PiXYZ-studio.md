@@ -19,7 +19,7 @@ PiXYZ’s products. There are [other content-creation apps](https://docs.mic
 
 1. Open PiXYZ Studio, and then on the top-left side of the toolbar, select **Wizard** to start the Import wizard.
 
-    SCREEN SHOT GOES HERE
+    ![Wizard button in toolbar](media/pixyz-XXX.import-wizard "Wizard button in toolbar")
  
 2. In the **Import Wizard** dialog box, use the settings shown above to create a high-quality tessellation as a starting point.
 
@@ -68,7 +68,7 @@ If there are holes in any of the parts or assemblies that aren’t required for 
 
     - **Surfacic Holes:** Holes that are cut into a surface but don’t have any depth.
     
-    SCREEN SHOT GOES HERE
+    ![Remove Holes window showing different types of holes](media/pixyz-hole-types.PNG "Remove Holes window showing different types of holes")
  
 4. Enter a number (in millimeters) for the **Max Diameter** field. Holes with a diameter below this value that match the types you set will be removed.
 
@@ -111,7 +111,7 @@ You can use the **Hidden Removal** command to do a visibility test to determine 
 
 2.	In the **Level** field, select **Polygons**.
 
-    SCREEN SHOT GOES HERE
+    ![Hidden Removal dialog box](media/pixyz-hidden-removal.PNG "Hidden Removal dialog boxX")
  
 3.	Set the **Resolution** field to Low. This setting is sufficient for most assets. However, if the asset contains many important small details, consider increasing it to 
 **Medium** or **High**.
@@ -139,7 +139,7 @@ To use the **Decimate to Quality** command:
 
 3. In the **Decimate** window, in the **Preset** field, select **Medium**.
 
-    SCREEN SHOT GOES HERE
+    ![Decimate dialog box showing Preset field](media/pixyz-decimate.PNG "Decimate dialog box showing Preset field")
  
 4. Set the **Surfacic Tolerance** field to **1mm**.
 
@@ -158,7 +158,7 @@ If you have a specific polygon count that you’re aiming for, the **Decimate To
 
 3. In the **Target Triangle Count** field, enter the number of triangles that you’re targeting.
 
-    SCREEN SHOT GOES HERE
+    ![Decimate Target dialog box showing Target Triangle Count field](media/pixyz-decimate-target.PNG "Decimate Target dialog box showing Target Triangle Count field")
  
 4. Select **Execute**.
 
@@ -177,7 +177,7 @@ In addition to reducing polygon count and hierarchy complexity, draw calls shoul
 
 3. In the **Automatic UV Mapping** window, set the **Channel** field to **0**.
 
-    SCREEN SHOT GOES HERE
+    ![Automatic UV Mapping dialog box showing Channel field](media/pixyz-uv-mapping.PNG "Automatic UV Mapping dialog box showing Channel field")
  
 4. Move the **Forbid Overlapping** slider to the **On** position to create a unique UV unwrap, which is required for texture baking.
 
@@ -211,7 +211,7 @@ After generating UVs and creating normals and tangents, you can bake the texture
 
 4. In the **Maps to Bake** list, select **Diffuse**.
 
-    SCREEN SHOT GOES HERE
+    ![Bake Maps dialog box showing Maps to Bake field](media/pixyz-bake-maps.PNG "Bake Maps dialog box showing Maps to Bake field")
 
 5. Repeat steps 3 and 4, as necessary, for any additional texture maps.
 
@@ -236,11 +236,11 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
 
 4.	Select **OK**.
 
-    SCREEN SHOT GOES HERE
+    ![Material Editor window showing Choose a mterial pattern list](media/pixyz-material-editor.PNG "Material Editor window showing Choose a mterial pattern list")
  
 5.	Enter a **Name** for the material.
 
-    SCREEN SHOT GOES HERE
+   !Material Editor showing options](media/pixyz-albedo.PNG "Material Editor showing options")
 
 6.	Next to **albedo**, select the **Color** list and change it to **Texture**.
 
@@ -260,7 +260,7 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
 
 14.	On the **Inspector** tab, under **Occurrence Properties**, select the **No Material** button. (Ignore the materials in the **Occurrence Components** section.)
 
-    SCREEN SHOT GOES HERE
+   ![Material Editor showing Inspector tab](media/pixyz-inspector.PNG "Material Editor showing Inspector tab")
  
 15.	In the **Material selector** window, select the new material.
 
@@ -280,7 +280,7 @@ At this point, you have a fully optimized model that’s ready to export as a .G
 
 5.	Select **GLTF Binary (&ast;.glb)** as the file type.
 
-    SCREEN SHOT GOES HERE
+    ![Save as type field](media/pixyz-export.PNG "Save as type field")
  
 6.	Select **Save**.
 
@@ -305,7 +305,7 @@ You can preview the resulting GLB file(s) with the [3D Viewer](https://www.micro
 
 5. If your device has a camera, you can move the **Mixed reality** slider to the **On** position and place the asset to preview it in your world.
 
-    SCREEN SHOT GOES HERE
+    ![3D Viewer showing Stats & Shading field](media/pixyz-3d-viewer.PNG "3D Viewer showing Stats & Shading field")
     
 > [!TIP]
 > The Babylon.JS Web Viewer is another great option if uploading the asset is not a concern.
