@@ -314,7 +314,7 @@ At this point, you have a fully optimized model that’s ready to export as a .G
 
 ## Preview an exported GLB file
 
-You can preview the resulting GLB file(s) with the [3D Viewer](https://www.microsoft.com/store/productId/9NBLGGH42THS) on Windows, where you can visualize the individual texture channels and view stats such as triangle count and draw calls to confirm the asset exported as expected.
+You can preview the resulting .GLB file(s) with the [3D Viewer](https://www.microsoft.com/store/productId/9NBLGGH42THS) on Windows, where you can visualize the individual texture channels and view stats such as triangle count and draw calls to confirm the asset exported as expected.
 
 1. Open 3D Viewer.
 
