@@ -31,7 +31,7 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
  
 2. In the **Import Wizard** dialog box, use these settings (shown in the screen shot above) to create a high-quality tessellation as a starting point:
 
-    |Field|Value|
+    |Field|Value|Sub-value|
     |------------------------------|--------------------------------------|----------------------|
     |Preset|Default||
     |Coordinate System|Right Handed: On||
