@@ -134,7 +134,7 @@ You can use the **Hidden Removal** command to do a visibility test to determine 
 
     ![Hidden Removal dialog box](media/pixyz-hidden-removal.PNG "Hidden Removal dialog boxX")
  
-3.	Set the **Resolution** field to Low. This setting is sufficient for most assets. However, if the asset contains many important small details, consider increasing it to 
+3.	Set the **Resolution** field to **Low**. This setting is sufficient for most assets. However, if the asset contains many important small details, consider increasing it to 
 **Medium** or **High**.
 
 4.	Select **Execute**.
