@@ -1,8 +1,8 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: Everything you need to know about converting 3D models to use with Dynamics 365 Import Tool (Preview)
-ms.author: v-jerja
-ms.date: 01/08/2020
+ms.author: keno
+ms.date: 09/11/2020
 ms.service: crm-online
 ms.topic: article
 title: Convert your 3D (CAD) models to use with Dynamics 365 Import Tool (Preview)
@@ -26,7 +26,7 @@ Your use of third-party applications is subject to terms between you and the thi
 [Blender.org Blender](https://aka.ms/Blender_2.8)|Native import/export for Blender 2.8 or later|
 [Autodesk 3DS Max](https://aka.ms/BabylonJS_Max2Babylon_Installation)|Babylon.JS plug-in for Max 2015 or later|
 [Autodesk Maya](https://aka.ms/BabylonJS_Maya2Babylon_Installation)|Babylon.JS plug-in for Maya 2018 or later|
-[Trimble SketchUp](https://aka.ms/SketchUp_glTF_Export)|Separate extensions for [import](https://aka.ms/Sketchupimport) and [export](https://aka.ms/sketchupexport)|
+[Trimble SketchUp](https://aka.ms/SketchUp_glTF_Export)|Separate extensions for [import](https://extensions.sketchup.com/search/?q=gltf) and [export](https://extensions.sketchup.com/search/?q=gltf)|
 |[Allegorithmic Substance Painter](https://aka.ms/SubstancePainter_glTF_Exporter)|Native exporter|
 |[SideFX Houdini](https://aka.ms/Houdini_glTF_Exporter)|Native import/export|
 |[Maxon Cinema 4D](https://www.maxon.net/products/cinema-4d/overview/)|Native export plug-in|

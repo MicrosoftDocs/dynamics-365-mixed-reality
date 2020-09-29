@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a circular code anchor
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 09/09/2020
 ms.service: crm-online
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides PC app by using a circular code anchor
@@ -141,3 +141,5 @@ Use the following table to find more information on anchoring.
 ||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
 |HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
 |HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
+
+

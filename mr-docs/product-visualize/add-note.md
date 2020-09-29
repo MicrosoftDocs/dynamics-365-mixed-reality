@@ -4,7 +4,7 @@ description: Learn how to add notes (including text, drawings, and video) to a 3
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 07/29/2020
+ms.date: 09/14/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -84,7 +84,7 @@ The following images show how notes appear on the model, depending on where the 
     > [!div class=mx-imgBorder]
     > ![Tap Photo](media/camera-roll.png "Tap Photo")
 
-3. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap **Next** ![Next](media/next.png "Next").
+3. To draw on the screen, select a color and start drawing. (For example, draw an arrow to call out a particular part of the model.) Tap **Next** ![Next button](media/next.png "Next button").
 
     > [!div class=mx-imgBorder]
     > ![Draw or add text](media/draw-add-text.png "Draw or add text")
@@ -92,7 +92,7 @@ The following images show how notes appear on the model, depending on where the 
     The captured image is displayed in the place of the **Attach image** button. If you're not happy with the photo, tap **Remove** to remove the photo and then capture the photo again.
 
     > [!div class=mx-imgBorder]
-    > ![Draw or add text](media/note-image-added.png "Draw or add text")
+    > ![Image added](media/note-image-added.png "Image added")
 
 4. Continue with adding a message to your note.
 
@@ -117,14 +117,14 @@ A video allows you to capture more details about your customers' requirements. Y
 
 3. Continue with adding a message to your note.
 
-## View the notes attached to a model
+## View the notes added to a model
 
 1.	After placing the model, tap **Notes** at the bottom of the screen.
 
     > [!div class=mx-imgBorder]
     > ![Notes button](media/notes-button.png "Notes button")
 
-2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes. 
+2.	Tap a blue dot to open a specific note, or swipe right or left in the notes browser at the bottom of the screen to go forward or backward between notes.
 
     If you want to see a larger view of the notes&mdash;which is useful if you can't see all the text in the notes card&mdash;tap the expand arrow in the upper-right corner of the notes card, or flick up. 
 
@@ -135,6 +135,9 @@ A video allows you to capture more details about your customers' requirements. Y
 
     > [!div class=mx-imgBorder]
     > ![Expanded notes](media/expanded-notes.png "Expanded notes")
+
+    > [!NOTE]
+    > If you've attached a PDF or added a URL to a note from the Product Visualize Hub app, they'll be visible in the iOS app.
 
 ## Export a note
 
