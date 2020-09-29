@@ -23,6 +23,8 @@ If you use Autodesk Inventor or Dassault SOLIDWORKS, you can use built-in tools 
 
 [Dassault SOLIDWORKS](solidworks.md) 
 
+[Pixyz Studio](pixyz-studio.md)
+
 ## DCC tutorials
 
 If your 3D models are in FBX, OBJ, or GLB file format, you can use any of the following tutorials to prepare your 3D models:
