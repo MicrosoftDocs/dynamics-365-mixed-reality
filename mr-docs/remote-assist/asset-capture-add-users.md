@@ -48,7 +48,9 @@ Security roles define how different users, such as service technicians, access d
 3. Select **Settings**, and then select **Users + permissions** > **Users**.
 4. From the top toolbar, select **Manage users in Dynamics 365**.
 5. Select the check boxes to the left of the names of users who will be using Dynamics 365 Remote Assist, and then select **Manage Roles** from the top toolbar.
-6. Select the **Common Data Service User** and **Remote Assist - App User** roles. When you're finished, select **OK**.
+6. Depending the features that should be accessible for the user, select the appropriate security roles:
+    1. For basic access to the Dynamics 365 Remote Assist model-driven app, select the **Common Data Service User** and **Remote Assist - App User** roles. When you're finished, select **OK**.
+    1. For Supervisors, Service Managers and other users who may need access to advanced features, such as the [Calls Dashboard](./calls-dashboard.md), assign the user **Remote Assist - Administrator** role. When you're finished, select **OK**.
 
 ## Manage app roles
 > [!Note]
