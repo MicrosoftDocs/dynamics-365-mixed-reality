@@ -331,7 +331,7 @@ You can preview the resulting .GLB file(s) with the [3D Viewer](https://www.micr
 > [!TIP]
 > The [Babylon.JS Web Viewer](https://sandbox.babylonjs.com/) is another great option if uploading the asset is not a concern.
 
-If the asset requires any additional editing or animation work in another staging application, you might want to consider using .FBX as an intermediate file format. FBX is an Autodesk exchange format designed to preserve additional authoring data that might be required by your staging application.
+If the asset requires any additional editing or animation work in another staging application, consider using .FBX as an intermediate file format. FBX is an Autodesk exchange format designed to preserve additional authoring data that might be required by your staging application.
 
 ## View a 3D model in a Dynamics 365 mixed-reality app
 
