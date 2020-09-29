@@ -28,7 +28,7 @@ To complete the installation steps, you need:
 - **Available database capacity**. If you're creating a new environment for Dynamics 365 Remote Assist, you'll need at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide default tenant capacity. More information: [New Common Data Service storage capacity](https://docs.microsoft.com/power-platform/admin/capacity-storage)
 
 > [!IMPORTANT]
-> Trial subscriptions of Dynamics 365 Remote Assist can be used used to try the Remote assist model-driven app. Follow these instructions on how to create a **[subscription-based trial environment](https://docs.microsoft.com/power-platform/admin/trial-environments#create-a-trial-subscription-based-environment-in-the-power-platform-admin-center)**. The in-app 90 day virtual trial isn't compatible.
+> 30-day trial subscriptions of Dynamics 365 Remote Assist can be used used to try the Remote assist model-driven app. Follow these instructions on how to create a **[subscription-based trial environment](https://docs.microsoft.com/power-platform/admin/trial-environments#create-a-trial-subscription-based-environment-in-the-power-platform-admin-center)**. The in-app 90 day virtual trial isn't compatible.
 
 ## Install Dynamics 365 Remote Assist model-driven app
 
