@@ -86,9 +86,7 @@ finishes a completion step, it triggers a guide-complete event used for business
 > You may want to create a completion step for each path in a guide. For example, if you’re creating a guide with different skill levels, add a completion step at the end 
 of the Novice task and at the end of the Expert task.
 
-To add a completion step:
-
-- Do one of the following:
+To add a completion step, do one of the following:
 
 - In the **Outline** page, select **Add step**, and then in the context menu, selection **Completion**. The completion step is added at the end of the task.
 
