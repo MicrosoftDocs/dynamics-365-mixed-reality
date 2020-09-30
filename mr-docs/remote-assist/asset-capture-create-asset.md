@@ -80,9 +80,12 @@ For this tutorial, we'll leave fields blank and only use the asset name field. Y
 
 Depending on the number of records you're importing, this process might take a while. Periodically refresh the page to see your records start to populate the asset list.
 
-## Next step
+## Next steps
 
-In this tutorial, you learned how to create asset records and import an existing asset catalog to Common Data Service. In the next tutorial, you'll learn how to view these assets in Dynamics 365 Remote Assist on HoloLens and capture asset data with spatial markup.
+In this tutorial, you learned how to create asset records and import an existing asset catalog to Common Data Service.
+You can follow these next steps to learn how to view these assets in Dynamics 365 Remote Assist on HoloLens or Mobile and capture asset data with spatial markup.
 
-> [!div class="nextstepaction"]
-> [Capture asset data in HoloLens](./asset-capture-photos.md)
+After assigning security roles, you can check out the following articles to use the model-driven app:
+
+- [Capture asset data in HoloLens](./asset-capture-photos.md)
+- [Capture asset data on Mobile](./mobile-app/asset-capture-mobile.md)
