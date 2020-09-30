@@ -44,7 +44,7 @@ To have access to the calls dashboard, you must have:
 
 1. The dashboard is built on Microsoft Power BI. It may take some time for the dashboard to get provisioned.
 
-1. As **Remote Assist - Administrator**, you can always go back and disable the dashboard by toggling it off from within the **Settings** area as described above.
+1. As **Remote Assist - Administrator**, you can always go back and disable / re-enable the dashboard by toggling it off / on from within the **Settings** area as described above. Disabling the dashboard will deprovision the resources that it depends on.
 
 1. The dashboard leverages the [phonecall entity type](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/phonecall) to generate analytics. End users must [select the right Dynamics environment](./asset-capture-add-users.md#selecting-the-right-environment-from-the-client-app) from their device to send the phonecall record to the Common Data Service. Only after they have selected the correct environment, and for those users only, is the phonecall data available in the calls dashboard.
 
