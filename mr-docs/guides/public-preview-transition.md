@@ -66,7 +66,7 @@ the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] preview. 
 
 ### Get a trial or purchase license
 
-1. Go to the [Microsoft 365 admin portal](http://admin.microsoft.com).
+1. Go to the [Microsoft 365 admin portal](https://admin.microsoft.com).
 
 2. Sign in with the admin credentials for the tenant that you want to add the license to.
 
