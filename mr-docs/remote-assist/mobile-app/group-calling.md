@@ -64,7 +64,7 @@ A group call on Dynamics 365 Remote Assist mobile begins as a one-to-one call, a
 
 1. You can **only** share your environment to all call participants on Remote Assist mobile, Remote Assist HoloLens, or Teams desktop.
 
-![RAM-HL view space](./media/ram-hls.png "Remote Assist mobile-HoloLens share space")
+![RAM-HL view space](./media/hololens-spectator-ram.png "Remote Assist mobile-HoloLens share space")
 
 ### On Teams desktop
 
