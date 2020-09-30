@@ -45,12 +45,14 @@ If taking a video capture, Air-tap or say the **Start capture** voice command to
 
 Any existing photo can be selected in the asset view to preview in the HoloLens environment. If the current user took the photo, they can also delete that photo in the preview window.
 
+Currently, captured video playback is not supported in the Dynamics 365 Remote Assist app on HoloLens.
+
 > [!NOTE]
 > Captured photos and videos are saved both locally to HoloLens and to Common Data Service, where they're viewable from the Dynamics 365 Remote Assist model-driven app.
 
 ## Next step
 
-In this tutorial, you learned how to view assets in HoloLens and capture photos to the asset record with spatial markup. In the next tutorial, you'll learn how to review the captured data from the Dynamics 365 Remote Assist model-driven app.
+In this tutorial, you learned how to view assets in HoloLens and capture photos and videos to the asset record with spatial markup. In the next tutorial, you'll learn how to review the captured data from the Dynamics 365 Remote Assist model-driven app.
 
 > [!div class="nextstepaction"]
 > [Review asset captures](./asset-capture-review.md)
@@ -66,13 +68,13 @@ In this tutorial, you learned how to view assets in HoloLens and capture photos 
 ### Dynamics 365 Remote Assist says to contact my IT admin on the Assets tab
 
 1. Ensure the app was installed to the right environment. More information: [Install Dynamics 365 Remote Assist model-driven app](./ra-webapp-install.md#install-dynamics-365-remote-assist-model-driven-app)
-2. Verify that the user has the **Remote Assist - App User** role and **Common Data Service User** security roles assigned. More information: [Assign Dynamics 365 security roles](./asset-capture-add-users.md#assign-dynamics-365-security-roles)
+2. Verify that the user has the **Common Data Service User** and **Remote Assist - App User** or **Remote Assist - Administrator** security roles assigned. More information: [Assign Dynamics 365 security roles](./asset-capture-add-users.md#assign-dynamics-365-security-roles)
 3. After following these steps, close the app and the live tile, and then reopen it.
 
 ### The asset records I see aren't what I expected to see
 
-The user account might have access to more than one environment with Dynamics 365 Remote Assist installed. If this is the case, you need to select the environment you want to use.
+The user account might have access to more than one environment with Dynamics 365 Remote Assist installed. If this is the case, you need to select the correct environment you want to use.
 
-1. Select **Settings** > **Links** > **Switch Dynamics Instance**.
+1. Select **Settings** > **Dynamics 365 environment**.
 2. Select the environment you want from the list.
 3. Select the **Assets** tab. You might need to select **Retry**, if prompted.
