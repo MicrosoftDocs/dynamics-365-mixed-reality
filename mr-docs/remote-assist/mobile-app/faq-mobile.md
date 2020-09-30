@@ -37,7 +37,7 @@ In Dynamics 365 Remote Assist mobile's **Main Menu**, go to **Information**, and
 - **Can I make or be in a group call or a call with three or more participants?** Yes.
 - **Can I be in a meeting?** No, not at this time.
 
-## If technicans have both Dynamics 365 Remote Assist mobile and Teams mobile installed on their devices, can they answer the call on Dynamics 365 Remote Assist mobile? 
+## If remote collaborators (call receivers) have both Dynamics 365 Remote Assist mobile and Teams mobile installed on their devices, can they answer the call on Dynamics 365 Remote Assist mobile? 
 
 No, not at this time; they can only answer with Teams mobile. They can still place Mixed Reality annotations during the call. In order to answer a call with Dynamics 365 Remote Assist mobile, technicians can **only** have Dynamics 365 Remote Assist mobile installed on their devices. 
 
