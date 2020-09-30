@@ -200,7 +200,7 @@ validation examples include:
 
 ## The dotted line (tether)
 
-- The main purpose of the dotted line is to spatially locate the operator where the work will take place.
+- The main purpose of the dotted line is to help the operator locate the place where the work happens.
 
 - Use the dotted line when:
 
@@ -211,18 +211,14 @@ validation examples include:
   –	Locating a part.
   
   –	Moving to a different area of a large piece of machinery (for example, greater than 2' away from the previous step).
-  
-- Don't use the dotted line:
-
-  – On every step. Using the dotted line to point to the same location over multiple steps can become visual clutter that distracts the operator from focusing on 3D holograms or the physical piece of machinery.
-  
-  – To point to a specific location (within 10 mm). Use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
 
 - Use the dotted line for "part pickup" in the following ways:
 
   –	For the first time picking up a part, use the dotted line to show the operator where it is.
 
   –	For the second time, or to put a tool back, you don't need to use the dotted line again (unless it's in a different location).
+  
+- Don't use the dotted line to point to a specific location (within 10 mm). It's better to use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
 
 ## 2D images
 
