@@ -211,14 +211,14 @@ validation examples include:
   –	Locating a part.
   
   –	Moving to a different area of a large piece of machinery (for example, greater than 2' away from the previous step).
+  
+  – When using the dotted line to point to something small (1–2 cm), add a 3D hologram (a zone or arrow, for example) at the end of the dotted line to point to the specific area.
 
-- Use the dotted line for "part pickup" in the following ways:
+– Use the dotted line for "part pickup" in the following ways:
 
   –	For the first time picking up a part, use the dotted line to show the operator where it is.
 
-  –	For the second time, or to put a tool back, you don't need to use the dotted line again (unless it's in a different location).
-  
-- Don't use the dotted line to point to a specific location (within 10 mm). It's better to use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
+  –	For the second time, or to put a tool back, you don't need to use the dotted line again (unless it's in a different location).  
 
 ## 2D images
 
