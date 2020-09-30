@@ -55,7 +55,7 @@ In this tutorial, you learned how to view assets in the Dynamics 365 Remote Assi
 
 ### No assets appear when I select the Assets tab
 
-1. Ensure that the environment you're using has asset records created in it. More information: [Create asset records](./asset-capture-create-asset.md)
+1. Ensure that the environment you're using has asset records created in it. More information: [Create asset records](./../asset-capture-create-asset.md)
 2. If you added the asset records from the model-driven app while Dynamics 365 Remote Assist app was already open on your mobile device, close the app and reopen it to pull the latest updates.
 
 ### The asset records I see aren't what I expected to see
