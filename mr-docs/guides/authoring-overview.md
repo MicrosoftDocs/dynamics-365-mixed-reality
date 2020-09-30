@@ -30,7 +30,7 @@ Supporting assets include:
     ![Authoring overview](media/authoring-overview.PNG "Authoring overview")
     
 > [!TIP]
-> You'll probably want to make adjustments in the PC app after you start placing your holograms in the HoloLens app, so it's a good idea to keep your laptop available as you work with the HoloLens app in your real-world environment.
+> You'll probably want to make adjustments in the PC app after you start placing your holograms in the HoloLens app, so it's a good idea to keep your laptop available as you work with the HoloLens app in your real-world environment. Just flip the HoloLens visor up when you want to work on 2D items in the PC app. 
 
 Ready to jump in? Choose one or more of these links to get underway:
 
