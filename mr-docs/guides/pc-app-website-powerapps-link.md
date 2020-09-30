@@ -96,9 +96,4 @@ To add a [!include[pn-powerapps](../includes/pn-powerapps.md)] link to a step, y
 
      ![Power Apps menu](media/powerapps-menu.PNG "Power Apps menu")
      
-## See also
-
-[Open a website from the Step card (for operators)](operator-step-card-orientation.md#access-a-website-linked-from-the-step-card)<br>
-[Launch an app created in Power Apps from the Step card (for operators)](operator-step-card-orientation.md#open-an-app-created-in-power-apps-from-the-step-card)
-
  
