@@ -53,6 +53,7 @@ Security roles define how different users, such as service technicians, access d
     1. For supervisors, service managers and other users who may need access to advanced features, such as the [Calls Dashboard](./calls-dashboard.md), assign the user **Remote Assist - Administrator** role. When you're finished, select **OK**.
 
 ## Manage app roles
+
 > [!Note]
 > The necessary security roles are associated with the model-driven app automatically. Depending on your organization's setup, this next section may not be required. If you're running into issues accessing the model-driven app, it is recommended that you complete the setup as described in this section.
 
@@ -69,6 +70,7 @@ Security roles must be assigned to apps to ensure that users who have those role
 :::image type="content" source="media/06.26-d365-settings-manage-roles-set.png" alt-text="Screenshot of Dynamics 365 assigning app role":::
 
 ## Selecting the right environment from the client app
+
 After end users have been assigned licenses and security roles, they must also select the correct environment with the Dynamics 365 Remote Assist model-driven app installed to use related features within the HoloLens or Mobile app. This can be done by going into the settings menu of the respective client apps and selecting the environment. By default, there is no environment associated with the client app.
 
 ### Selecting the right environment in HoloLens
@@ -79,9 +81,11 @@ After end users have been assigned licenses and security roles, they must also s
 
 ### Selecting the right environment on Android or iOS
 
-1. Go to the settings menu and click on the **Dynamics 365 environment** :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection01.png" alt-text="Remote Assist settings in the Mobile app":::
+1. Go to the settings menu and click on the **Dynamics 365 environment**\
+:::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection01.png" alt-text="Remote Assist settings in the Mobile app":::
 
-1. You will see a list of environments. To use Dynamics 365 Remote Assist related features, such as [asset capture](./asset-capture-photos.md) and [calls dashboard](./calls-dashboard.md), you will need to select an environment with Dynamics 365 Remote Assist installed. Click **Confirm** after selecting the right environment. :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu in the Mobile app":::
+1. You will see a list of environments. To use Dynamics 365 Remote Assist related features, such as [asset capture](./asset-capture-photos.md) and [calls dashboard](./calls-dashboard.md), you will need to select an environment with Dynamics 365 Remote Assist installed. Click **Confirm** after selecting the right environment.\
+:::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu in the Mobile app":::
 
 ## Next steps
 
