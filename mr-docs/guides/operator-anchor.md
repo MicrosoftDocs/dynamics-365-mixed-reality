@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor a guide in the Microsoft Dynamics 365 Guides HoloLens app if you're an operator.
 ms.author: mamaylya
-ms.date: 02/25/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides HoloLens app as an operator
@@ -48,6 +48,9 @@ This topic provides step-by-step instructions for each type of anchor.
 4. On the **QR Code Anchor Found** page, select **Confirm**.
 
     ![Confirm button on the QR Code Anchor Found page](media/qr-code-confirm.PNG "Confirm button on the QR Code Anchor Found page")
+    
+    > [!TIP]
+    > You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be referencing a tool, but is floating in the air away from the tool bench). When using a QR code anchor, a good way to control hologram offset is to make sure the green outline aligns with the QR code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
 
 ## Anchor your guide by using a circular code anchor
 
@@ -68,6 +71,9 @@ This topic provides step-by-step instructions for each type of anchor.
 5. On the **Circular Code Anchor Found** page, select **Confirm**.
 
     ![Confirm button on the Circular Code Anchor Found page](media/circular-code-confirm.PNG "Confirm button on the Circular Code Anchor Found page")
+    
+    > [!TIP]
+    > You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be referencing a tool, but is floating in the air away from the tool bench). When using a circular code anchor, a good way to control hologram offset is to make sure the green outline aligns with the circular code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
 
 ## Anchor your guide by using a holographic anchor
 
@@ -79,13 +85,16 @@ To align the holographic anchor with its real-world counterpart, air tap and hol
 
 ![Rotating a holographic anchor](media/rotate-digital-anchor.PNG "Rotating a holographic anchor")
 
+> [!TIP]
+> You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be referencing a tool, but is floating in the air away from the tool bench). When using a holographic anchor, select the **Anchor** button to make sure the digital version of the real object and the object itself are still aligned.
+
 ## Where alignment information is stored
 
-When you align your guide, if you're using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)], so you don't have to realign the guide every time that you open it. However, you can realign a guide at any time if you think that the holograms are out of alignment by using the **Anchor** button. For more information, see [Operate a guide](operator-orientation.md).
+When you align your guide, if you're using the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] Commercial Suite, the alignment information is stored on [!include[pn-hololens](../includes/pn-hololens.md)], so you don't have to realign the guide every time that you open it. However, you can realign a guide at any time if you think that the holograms are out of alignment by using the **Anchor** button. For more information, see [Operate a guide](operator-step-card-orientation.md).
 
 ## What's next?
 
 [Calibrate your HoloLens](operator-calibrate.md)<br>
 [Install the app and sign in](install-sign-in-operator.md)<br>
 [Gestures for navigating the app](operator-gestures.md)<br>
-[Operate a guide](operator-orientation.md)
+[Operate a guide](operator-step-card-orientation.md)

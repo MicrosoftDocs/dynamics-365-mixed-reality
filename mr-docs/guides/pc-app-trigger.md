@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to create a trigger in the Dynamics 365 Guides PC app to automatically advance the operator to the next step based on detection of their hands in HoloLens 2.
 ms.author: mamaylya
-ms.date: 08/25/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a trigger for step navigation in the Dynamics 365 Guides PC app
@@ -36,18 +36,36 @@ There are two types of triggers:
 
     ![Example of invisible trigger](media/trigger-invisible.PNG "Example of invisible trigger")
  
-This reduces clutter for the operator and helps them focus on the task at hand.
+    This reduces clutter for the operator and helps them focus on the task at hand.
 
 ## When is a trigger activated?
 
-The trigger is activated when the operator's hand leaves the trigger area. 
+You can set up a trigger to activate when the operator's hand enters the trigger area or when it exits the trigger area. 
+
+### When to use on-enter triggers
+
+Use on-enter triggers for actions that require an immediate response.
+        
+- For visible triggers, use on enter, and activate the trigger as soon as the operator's hand enters the trigger area.  
+     
+- When alerting an operator that they've done an incorrect action, consider using a branch to take the operator to a pre-authored corrective step. [Learn more about branching](pc-app-branching.md).
+     
+- When alerting an operator about a safety concern, consider using a branch to take the operator to a pre-authored warning step. 
+        
+### When to use on-exit triggers
+
+Use on-exit triggers for actions that require an operator to do something before moving to the next step. Examples:
+    
+- When using a tool to tighten a fastener, activate the trigger after the operator has finished the action.
+        
+- When collecting a tool or part needed for the next step, activate the trigger after the operator has acquired the tool or part.  
 
 ## Create a trigger 
 
 You create a trigger in the same way that you create any other hologram in the PC app. 
 
 > [!NOTE]
-> You can also [create a trigger directly in the HoloLens app](HoloLens-app-trigger.md).
+> You can also [create a trigger directly in the HoloLens app](hololens-app-trigger.md).
 
 1. In the PC app, select the **3D toolkit** tab.
 
@@ -55,11 +73,32 @@ You create a trigger in the same way that you create any other hologram in the P
 
     ![Triggers section in 3D toolkit](media/triggers-category-pc-app.PNG "Triggers section in 3D toolkit")
 
-## Place the trigger
+## Configure the trigger 
 
-After adding the trigger in the PC app, [place and test it in the HoloLens app](hololens-app-trigger.md).
+After creating your trigger, you need to configure it. 
 
+1. Select the trigger in the bin. This opens the **Properties** tab on the right side of the screen. You can use this tab to preview the trigger and to view and set the trigger properties. 
+
+    ![Properties tab showing trigger and its properties](media/trigger-properties.PNG "Properties tab showing trigger and its properties")
+
+2. In the **Activation** field, select one of the following:
+    
+      - **On Hand Enter** to activate the trigger as soon as the operator places their hand in the trigger area.
+      
+      - **On Hand Exit** to delay the trigger activation until the operator has removed their hand from the trigger area.
+         
+3. In the **Action** field, select one of the following:
+    
+      - **Back** to take the operator back to the previous step in the guide.
+      
+      - **Next** to take the operator to the next step in the guide.
+      
+      - **Navigate** if you want to take the operator to a specific step in the guide. After selecting **Navigate**, you can select the exact step to go to in the **Destination** list. Using the **Navigate** option enables you to have the operator skip multiple tasks or steps for different scenarios. 
+ 
+      - **Use Response 1**, to configure the trigger to navigate to the destination set for Response 1 in a question step. For example, if the destination for the first response is set to **Task 3**, configuring the trigger to **Use Response 1** means the trigger will navigate to **Task 3** when activated. If you update the response’s destination, the trigger will also be updated. [Learn more about question steps and responses](pc-app-branching.md).
+    
+        ![Properties tab showing question step trigger properties](media/trigger-question-step-properties.PNG "Properties tab showing question step trigger propertiess")
+    
 ## What's next?
 
 [Place and test a trigger in the HoloLens app](hololens-app-trigger.md)
- 

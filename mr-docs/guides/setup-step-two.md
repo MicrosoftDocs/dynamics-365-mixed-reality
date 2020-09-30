@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Common Data Service environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 07/23/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -57,7 +57,7 @@ The type of environment that you create depends on whether you purchased a [!inc
     ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
 
     > [!NOTE]
-    > For information about security groups, see [Control user access to instances](https://docs.microsoft.com/dynamics365/admin/add-instance-subscription#BKMK_man_sec_group).
+    > For information about security groups, see [Restrict access to an instance](admin-security.md).
 
     A message is shown that explains that the production environment is being prepared.
 
