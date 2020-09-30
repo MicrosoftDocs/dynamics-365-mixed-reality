@@ -74,7 +74,7 @@ Use the following table to find more information on anchoring.
 
 |Area|Link|
 |----------------------|------------------------------------------------------------------|
-||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
+|Creating an anchor|[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
 ||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
 |HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
