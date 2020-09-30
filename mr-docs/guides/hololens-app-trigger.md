@@ -47,7 +47,7 @@ You can [place and size a trigger](hololens-app-orientation.md#place-your-hologr
     > [!TIP]
     > You can duplicate a trigger by using the **Duplicate** command in the **Edit Trigger** menu.
 
-- **On-enter vs. on-exit triggers.** You can activate a trigger when the user's hand enters the trigger area or when it exits the trigger area. [Learn more about when to use each type of activation](pc-app-trigger.md).
+- **On-enter vs. on-exit triggers.** You can activate a trigger when the operator's hand enters the trigger area or when it exits the trigger area. [Learn more about when to use each type of activation](pc-app-trigger.md).
 
 ## Delete or duplicate a trigger
 
