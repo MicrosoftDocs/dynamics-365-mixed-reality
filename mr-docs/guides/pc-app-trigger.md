@@ -99,6 +99,6 @@ After creating your trigger, you need to configure it.
     
         ![Properties tab showing question step trigger properties](media/trigger-question-step-properties.PNG "Properties tab showing question step trigger propertiess")
     
-    ## What's next?
+## What's next?
 
 [Place and test a trigger in the HoloLens app](hololens-app-trigger.md)
