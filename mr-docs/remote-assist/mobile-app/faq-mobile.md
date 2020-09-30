@@ -57,18 +57,20 @@ Yes. Learn more about guest access [here](https://docs.microsoft.com/dynamics365
 
 No, just the rear-facing camera at this time.
 
+## Does Dynamics 365 Remote Assist mobile support picture-in-picture so that technicians can see the remote collaborator's face on your device's screen? 
+
+Yes, only in one-to-one calls between Dynamics 365 Remote Assist mobile and Teams desktop/mobile users. It is **not** currently available in calls between two Dynamics 365 Remote Assist mobile users or group calls at this time. 
+
 ## During a call, can technicians use both the Dynamics 365 Remote Assist mobile app and their device's flashlight?
 
 No, not at this time.
 
 ## What countries is Dynamics 365 Remote Assist mobile supported?
 
-On **Android** devices, Dynamics 365 Remote Assist mobile is available in 148 countries, but not available in Cuba, Sudan, Iran, or China.
-
-For **iOS** devices, Dynamics 365 Remote Assist mobile is available in 175 countries, including China.
+For iOS and Android devices, Dynamics 365 Remote Assist mobile is available in most countries, except for Cuba, Iran, North Korea, Sudan, Syria, and Region of Crimea. 
 
 > [!Note]
-> In China, the Dynamics 365 Remote Assist mobile app is only available on iOS devices, and **not** Android devices. We are still working on making Dynamics 365 Remote Assist available on Android devices in China. For more information, contact D365rafb@microsoft.com. 
+> In China, the Dynamics 365 Remote Assist mobile app is only available on iOS devices, and **not** Android devices. Specifically, Dynamics 365 Remote Assist mobile is not available on Vianet 21, it may be available by connecting to a global tenant outside of China where Dynamics 365 Remote Assist mobile is available. We are still working on making Dynamics 365 Remote Assist available on Android devices in China. For more information, contact D365rafb@microsoft.com. 
 
 ## What languages does Dynamics 365 Remote Assist mobile support?
 
