@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to create a trigger in the Dynamics 365 Guides PC app to automatically advance the operator to the next step based on detection of their hands in HoloLens 2.
 ms.author: mamaylya
-ms.date: 08/25/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a trigger for step navigation in the Dynamics 365 Guides PC app
@@ -46,9 +46,9 @@ You can set up a trigger to activate when the operator's hand enters the trigger
 
 Use on-enter triggers for actions that require an immediate response.
         
-- For visible triggers, use on enter, and activate the trigger as soon as the user's hand enters the trigger area.  
+- For visible triggers, use on enter, and activate the trigger as soon as the operator's hand enters the trigger area.  
      
-- When alerting an operator that they've done an incorrect action, consider using a branch to take the user to a pre-authored corrective step. [Learn more about branching](pc-app-branching.md).
+- When alerting an operator that they've done an incorrect action, consider using a branch to take the operator to a pre-authored corrective step. [Learn more about branching](pc-app-branching.md).
      
 - When alerting an operator about a safety concern, consider using a branch to take the user to a pre-authored warning step. 
         
