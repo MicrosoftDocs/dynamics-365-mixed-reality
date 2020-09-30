@@ -53,6 +53,7 @@ Security roles define how different users, such as service technicians, access d
     1. For supervisors, service managers and other users who may need access to advanced features, such as the [Calls Dashboard](./calls-dashboard.md), assign the user **Remote Assist - Administrator** role. When you're finished, select **OK**.
 
 ## Manage app roles
+
 > [!Note]
 > The necessary security roles are associated with the model-driven app automatically. Depending on your organization's setup, this next section may not be required. If you're running into issues accessing the model-driven app, it is recommended that you complete the setup as described in this section.
 
@@ -69,6 +70,7 @@ Security roles must be assigned to apps to ensure that users who have those role
 :::image type="content" source="media/06.26-d365-settings-manage-roles-set.png" alt-text="Screenshot of Dynamics 365 assigning app role":::
 
 ## Selecting the right environment from the client app
+
 After end users have been assigned licenses and security roles, they must also select the correct environment with the Dynamics 365 Remote Assist model-driven app installed to use related features within the HoloLens or Mobile app. This can be done by going into the settings menu of the respective client apps and selecting the environment. By default, there is no environment associated with the client app.
 
 ### Selecting the right environment in HoloLens

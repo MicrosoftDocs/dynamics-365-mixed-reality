@@ -8,4 +8,3 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Capture asset conditions with spatial markup on Mobile devices
