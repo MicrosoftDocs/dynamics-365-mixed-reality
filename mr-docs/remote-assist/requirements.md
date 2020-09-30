@@ -2,7 +2,7 @@
 author: sophiasysun
 description:  Technical requirements for deploying and using Microsoft Dynamics 365 Remote Assist
 ms.author: sopsun
-ms.date: 09/01/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Requirements for Dynamics 365 Remote Assist
@@ -42,7 +42,7 @@ If an individual wants to join a Remote Assist call using the Teams app, they mu
 | Teams application on mobile device | Any iOS or Android phone or tablet running  Teams. | A phone or tablet running the Teams mobile application can collaborate with Dynamics 365 Remote Assist on HoloLens, HoloLens 2, or qualifying [Android](https://developers.google.com/ar/discover/supported-devices) or [iOS](https://www.apple.com/ios/augmented-reality/) mobile devices. |
 
 > [!Note] 
-> Dynamics 365 Remote Assist may not be available in your country. For more information, visit our documentation about [Dynamics 365 Remote Assist availability](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/faq-mobile#what-countries-is-dynamics-365-remote-assist-for-mobile-supported).
+> Dynamics 365 Remote Assist may not be available in your country. For more information, visit our documentation about [Dynamics 365 Remote Assist mobile availability](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/faq-mobile#what-countries-is-dynamics-365-remote-assist-for-mobile-supported).
 
 ## Licensing and product requirements per role
 
@@ -87,11 +87,13 @@ A variety of network conditions, including bandwidth, latency, jitter, and packe
 
 ### Dynamics 365 Remote Assist mobile
 
-When using Dynamics 365 Remote Assist on mobile devices, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15fps. If Dynamics 365 Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information. 
+When using Dynamics 365 Remote Assist on mobile devices, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15fps. 
+
+If Dynamics 365 Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a low -quality live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information. 
 
 ### Dynamics 365 Remote Assist HoloLens
 
-When using Dynamics 365 Remote Assist on HoloLens, a minimum of 1.5Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p at 30fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD quality video calling with resolution of HD 1080p, 4-5Mbps up/down should be expected. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
+When using Dynamics 365 Remote Assist on HoloLens, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p at 30fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD quality video calling with resolution of HD 1080p, 4-5Mbps up/down should be expected. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
 
 ### URLs and ports
 The following list contains the URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist client.
