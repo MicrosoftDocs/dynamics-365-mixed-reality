@@ -16,6 +16,7 @@ The Dynamics 365 Remote Assist model-driven app is built on Common Data Service 
 
 More information: [What are model-driven apps in Power Apps?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/model-driven-app-overview)
 
+Common Data Service (CDS) becomes the central location for customers to store their organization specific data. The Dynamics 365 Remote Assist client apps on HoloLens or Mobile can send and receive data to CDS, which can then be accessed via the model-driven app in a browser. This also allows other applications, such as Dynamics 365 Field Service, to share the same organizational data and drive further insights. You can even use [Power Automate to create flows that use Common Data Service](https://docs.microsoft.com/power-automate/common-data-model-intro) and make them available for third-party apps. The below high-level architecture diagram shows the various possible components of these scenarios. 
 :::image type="content" source="media/RA-CDS-Architecture-Diagram.png" alt-text="Architecture Diagram of a Remote Assist with CDS and companion apps" :::
 
 ## Prerequisites
@@ -27,7 +28,7 @@ To complete the installation steps, you need:
 - **Available database capacity**. If you're creating a new environment for Dynamics 365 Remote Assist, you'll need at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide default tenant capacity. More information: [New Common Data Service storage capacity](https://docs.microsoft.com/power-platform/admin/capacity-storage)
 
 > [!IMPORTANT]
-> Trial subscriptions of Dynamics 365 Remote Assist can be used used to try the Remote assist model-driven app. Follow these instructions on how to create a **[subscription-based trial environment](https://docs.microsoft.com/power-platform/admin/trial-environments#create-a-trial-subscription-based-environment-in-the-power-platform-admin-center)**. The in-app 90 day virtual trial isn't compatible.
+> 30-day trial subscriptions of Dynamics 365 Remote Assist can be used used to try the Remote assist model-driven app. Follow these instructions on how to create a **[subscription-based trial environment](https://docs.microsoft.com/power-platform/admin/trial-environments#create-a-trial-subscription-based-environment-in-the-power-platform-admin-center)**. The in-app 90 day virtual trial isn't compatible.
 
 ## Install Dynamics 365 Remote Assist model-driven app
 
