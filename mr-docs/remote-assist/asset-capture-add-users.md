@@ -83,7 +83,7 @@ After end users have been assigned licenses and security roles, they must also s
 
 1. You will see a list of environments. To use Dynamics 365 Remote Assist related features, such as [asset capture](./asset-capture-photos.md) and [calls dashboard](./calls-dashboard.md), you will need to select an environment with Dynamics 365 Remote Assist installed. Click **Confirm** after selecting the right environment. :::image type="content" source="mobile-app/media/RAMSettingsEnvironmentSelection02.png" alt-text="List of environments in Remote Assist settings menu in the Mobile app":::
 
-## Next step
+## Next steps
 
 After assigning security roles, you can check out the following articles to use the model-driven app:
 
