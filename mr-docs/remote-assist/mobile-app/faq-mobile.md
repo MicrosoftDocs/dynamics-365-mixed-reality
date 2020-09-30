@@ -39,7 +39,10 @@ In Dynamics 365 Remote Assist mobile's **Main Menu**, go to **Information**, and
 
 ## If technicans have both Dynamics 365 Remote Assist mobile and Teams mobile installed on their devices, can they answer the call on Dynamics 365 Remote Assist mobile? 
 
-No, not at this time; they can only answer with Teams mobile. They can still place Mixed Reality annotations during the call. In order to answer a call with Dynamics 365 Remote Assist mobile, technicians can **only** have Dynamics 365 Remote Assist mobile installed on their devices.
+No, not at this time; they can only answer with Teams mobile. They can still place Mixed Reality annotations during the call. In order to answer a call with Dynamics 365 Remote Assist mobile, technicians can **only** have Dynamics 365 Remote Assist mobile installed on their devices. 
+
+> [!NOTE] 
+> When a Dynamics 365 Remote Assist mobile calls a remote collaborator and the remote collaborator answers on Teams mobile, the remote collaborator will have the same capabilities as they would if they answered on Dynamics 365 Remote Assist mobile, except that the remote collaborator cannot share their space. Learn more [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/making-calls-on-remote-assist-mobile).
 
 ## What is the size of the Dynamics 365 Remote Assist mobile app?
 
