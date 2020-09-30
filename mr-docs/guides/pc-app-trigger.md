@@ -50,15 +50,15 @@ Use on-enter triggers for actions that require an immediate response.
      
 - When alerting an operator that they've done an incorrect action, consider using a branch to take the operator to a pre-authored corrective step. [Learn more about branching](pc-app-branching.md).
      
-- When alerting an operator about a safety concern, consider using a branch to take the user to a pre-authored warning step. 
+- When alerting an operator about a safety concern, consider using a branch to take the operator to a pre-authored warning step. 
         
 ### When to use on-exit triggers
 
 Use on-exit triggers for actions that require an operator to do something before moving to the next step. Examples:
     
-- When using a tool to tighten a fastener, activate the trigger after the user has finished the action.
+- When using a tool to tighten a fastener, activate the trigger after the operator has finished the action.
         
-- When collecting a tool or part needed for the next step, activate the trigger after the user has acquired the tool or part.  
+- When collecting a tool or part needed for the next step, activate the trigger after the operator has acquired the tool or part.  
 
 ## Create a trigger 
 
