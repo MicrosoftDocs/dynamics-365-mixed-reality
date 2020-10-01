@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: mamaylya
-ms.date: 09/03/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -16,6 +16,10 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!IMPORTANT]
 > Important info on upcoming mandatory update:
 >
+> The Oct 1 solution upgrade is a large bi-yearly upgrade. Please anticipate a longer than usual upgrade time, and plan to upgrade during a time when the HoloLens and PC apps are not in use. The length of time required for the upgrade is proportional to the number of records in your Common Data Service environment. For example, 100 guides with 100 steps in each guide will take approximately 15 minutes to upgrade, compared to an environment with 1000 guides with 100 steps each, which will take approximately 2 hours. 
+>
+> You must have the **System Administrator** role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress can cause loss of data. 
+>
 > After the October 27 release, all new Dynamics 365 Guides PC and HoloLens application releases will only work with the October 1, 2020 Common Data Service solution, version 5.0 or later. 
 >
 > You must upgrade the solution between October 1 and October 27 if you want to continue to use the latest HoloLens and PC applications. 
@@ -24,17 +28,30 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 >
 > You can work with your IT admin to schedule installation of this update. 
 >
-> You must have the **System Administrator** role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. If you author a guide while the solution upgrade is in progress, **the guide will become corrupted**. 
->
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
+
+## October 1, 2020
+
+> [!NOTE]
+> The October 1 Common Data Service solution will be available by 6 am, October 1, Pacific Standard Time.
+
+Version 500.2009.17001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.0.1.1  include the following new features.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/create-guides-that-support-branching-flows" target="_blank">Create guides that support non-linear (branching) workflows </a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Use a trigger to branch to a specific step </a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Activate a trigger when the operator's hand enters the trigger area </a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-paste-position-orientation-scale-3d-model" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Copy Dynamics 365 Guides content from one Common Data Service instance to another </a> | No |
+
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## September 2, 2020
 
 Version 404.2009.2003 of the PC app and version 404.2009.2004 of the HoloLens app fixed a bug introduced in the August 25 release that prevented some guides from opening and displayed a misleading error message. You don't need to update the Dynamics 365 Guides solution to get this update.
-
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## August 25, 2020
 

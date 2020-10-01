@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a QR code anchor
 ms.author: mamaylya
-ms.date: 09/09/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides PC app by using a QR code anchor
@@ -155,6 +155,8 @@ negatively affected.
 
 - **Scanning angle**. When you gaze at the anchor, make sure that you're facing it straight on and at the correct distance.
 
+    - Scanning from the same angle every time is important to maintain hologram position consistency across scans.
+
     - Scanning from glancing angles can cause detection failure or misalignment.
 
     - The ideal scanning range is from 50 to 150 centimeters (cm).
@@ -166,8 +168,13 @@ negatively affected.
 
 ## What's next?
 
-[Learn about other factors that affect anchoring accuracy](anchor.md)<br>
-[Create a circular code anchor](pc-app-anchor-circular-code.md)<br>
-[Create a holographic anchor](pc-app-anchor-holographic.md)<br>
-[Anchor your guide if you're an author](hololens-app-anchor.md)<br>
-[Anchor your guide if you're an operator](operator-anchor.md)<br>
+Use the following table to find more information on anchoring.
+
+|Area|Link|
+|----------------------|------------------------------------------------------------------|
+|Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
+|Creating types of anchors|[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
+||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
+||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
+|HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
+|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
