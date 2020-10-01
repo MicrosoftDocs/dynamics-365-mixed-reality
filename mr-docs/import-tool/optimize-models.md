@@ -19,6 +19,7 @@ The following table lists software tools that you can use to convert and/or opti
 |---------------------------------|----------------------------------------|--------------------|--------------------|-------------------|
 |[PiXYZ Software](https://aka.ms/Pixyz)|STEP, Catia, JT, OBJ, FBX, and more|glTF 2.0|Yes|Yes|
 |[Maxon Cinema 4D](https://aka.ms/MaxonCinema4D)|SOLIDWORKS, STEP, Catia, JT, and IGES|FBX, OBJ, GLB/glTF 2.0 (beta)|Yes|Yes|
+|[RapidCompact Software](http://rapidcompact.com/)|glTF, FBX, OBJ, STEP, JT, and more|glTF 2.0, OBJ, and more|Yes|Yes|
 |[Simplygon Studios](https://aka.ms/Simplygonsoftware)|FBX, OBJ|FBX|No|Yes|
 |[Unreal Datasmith](https://aka.ms/UnrealDatasmithsoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ|Yes|No|
 |[Autodesk Inventor](https://aka.ms/AutodeskInventorSoftware)|STEP, Catia, JT, OBJ, FBX, and more|FBX, OBJ, STL|Yes|Yes|
