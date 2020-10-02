@@ -1,0 +1,26 @@
+# Dynamics 365 Import Tool (Preview)
+## [Overview](index.md)
+## [Convert your 3D (CAD) models](convert-models.md)
+## [Optimize your 3D models](optimize-models.md)
+## [Best practices for real-time 3D models](best-practices.md)
+## Tutorials
+### [Overview](tutorials-overview.md)
+### [Agisoft Metashape](agisoft-metashape.md)
+### Autodesk
+#### [Inventor](inventor.md)
+#### [3ds Max](3ds-max.md)
+#### [ReCap Photo](autodesk-recap-photo.md) 
+### [Blender](blender.md)
+### [Dassault Systèmes SOLIDWORKS](solidworks.md)
+### SideFX Houdini
+#### [Prepare 3D models](houdini.md)
+#### [Convert a point cloud](houdini-point-cloud.md)
+## Install and use Dynamics 365 Import Tool (Preview)
+### [Requirements for installing](requirements.md)
+### [Install Dynamics 365 Import Tool (Preview)](install.md)
+### [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
+## [Work with Dynamics 365 Layout](layout.md)
+## [Work with Dynamics 365 Product Visualize](product-visualize.md)
+## Terms of use
+### [Dynamics 365 Import Tool (Preview)](../legal/import-tool-license-terms.md)
+### [Dynamics 365 Import Tool (Preview) free trial](../legal/import-tool-free-trial.md)

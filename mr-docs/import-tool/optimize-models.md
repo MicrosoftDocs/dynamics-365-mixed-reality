@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Optimize your 3D models
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Optimize your 3D models

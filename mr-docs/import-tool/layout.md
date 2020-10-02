@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Use Dynamics 365 Import Tool (Preview) to prepare 3D models to work with Dynamics 365 Layout
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Work with Dynamics 365 Layout

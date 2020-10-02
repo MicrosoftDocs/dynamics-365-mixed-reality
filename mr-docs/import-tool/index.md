@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: overview
 title: Overview of Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Overview of preparing 3D models for Dynamics 365 mixed reality applications

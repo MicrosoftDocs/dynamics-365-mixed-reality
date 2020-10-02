@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Prepare CAD files for Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Work with Dynamics 365 Product Visualize
