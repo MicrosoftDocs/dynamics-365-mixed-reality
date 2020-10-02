@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Convert your 3D (CAD) models
 
-To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. 
+To use your 3D models with [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. 
 
 ![Convert flow highlighted](media/convert-flow.PNG "Convert flow highlighted") 
 
@@ -19,7 +19,7 @@ To use your 3D models with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mix
 
 CAD models can be exported directly to glTF format or into intermediate formats that can be subsequently processed into glTF files. If your content-creation application does not have a glTF exporter, we recommend exporting to [FBX](https://aka.ms/FBXfileformat), [OBJ](https://en.wikipedia.org/wiki/Wavefront_.obj_file), [STL](https://en.wikipedia.org/wiki/STL_(file_format)), or [PLY](https://en.wikipedia.org/wiki/PLY_(file_format)), if available. If these formats are not available, there are third-party applications that can import many different file formats and export them as one of these supported file formats. 
 
-Your use of third-party applications is subject to terms between you and the third party. [!include[cc-microsoft](../includes/cc-microsoft.md)] does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
+Your use of third-party applications is subject to terms between you and the third party. [!include[cc-microsoft](../../includes/cc-microsoft.md)] does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
 
 |Content-creation package|Description|
 |-----------------------------------------------|---------------------------------------------------------------|

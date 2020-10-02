@@ -22,5 +22,5 @@
 ## [Work with Dynamics 365 Layout](layout.md)
 ## [Work with Dynamics 365 Product Visualize](product-visualize.md)
 ## Terms of use
-### [Dynamics 365 Import Tool (Preview)](../legal/import-tool-license-terms.md)
-### [Dynamics 365 Import Tool (Preview) free trial](../legal/import-tool-free-trial.md)
+### [Dynamics 365 Import Tool (Preview)](../../legal/import-tool-license-terms.md)
+### [Dynamics 365 Import Tool (Preview) free trial](../../legal/import-tool-free-trial.md)

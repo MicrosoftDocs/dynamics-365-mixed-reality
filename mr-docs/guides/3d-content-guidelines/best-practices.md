@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Best practices for converting and optimizing real-time 3D models
 
-This topic covers best practices for converting and optimizing 3D models to work with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications.
+This topic covers best practices for converting and optimizing 3D models to work with [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality applications.
 
 ## Reduce materials and surfacing
 

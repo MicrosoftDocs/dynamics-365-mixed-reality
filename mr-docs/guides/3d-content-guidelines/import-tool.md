@@ -11,12 +11,12 @@ ms.reviewer: v-brycho
 
 # Use Dynamics 365 Import Tool (Preview)
 
-Use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models to use in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications. 
+Use [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../../includes/pn-dyn-365-import-tool.md)] to prepare your 3D models to use in [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality applications. 
 
 > [!div class="mx-imgBorder"]
 > ![Import Tool flow](media/import-tool-flow.PNG "Import Tool flow") 
 
-Before you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], you need to convert and optimize your models. For more information, see these topics:
+Before you use the [!include[pn-dyn-365-import-tool](../../includes/pn-dyn-365-import-tool.md)], you need to convert and optimize your models. For more information, see these topics:
 
 - [Convert your 3D models](convert-models.md)
 - [Optimize your 3D models](optimize-models.md)
@@ -24,7 +24,7 @@ Before you use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-impo
 
 ## Import your models with the Dynamics 365 Import Tool (Preview)
 
-1.	On your PC, open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+1.	On your PC, open [!include[pn-dyn-365-import-tool](../../includes/pn-dyn-365-import-tool.md)].
 
 2.	Select **Models** > **PC**, and then select **Add models**.
 
@@ -47,9 +47,9 @@ There are two primary reasons why Dynamics 365 Import Tool (Preview) might not h
 
 ## Locate your converted assets
 
-Files created with [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] are stored locally. To find the files on your local drive:
+Files created with [!include[pn-dyn-365-import-tool](../../includes/pn-dyn-365-import-tool.md)] are stored locally. To find the files on your local drive:
 
-1.	Open [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+1.	Open [!include[pn-dyn-365-import-tool](../../includes/pn-dyn-365-import-tool.md)].
 
 2.	Right-click a model, and then select **Open file location**.
 
@@ -72,7 +72,7 @@ You can provide feedback on the quality of processed 3D models if you're not sat
     
 ## Do I need to be connected to Wi-Fi to use Dynamics 365 Import Tool (Preview)?
 
-[!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] requires users to be signed in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
+[!include[pn-dyn-365-import-tool](../../includes/pn-dyn-365-import-tool.md)] requires users to be signed in with their Active Directory account to access the application. Users need to be connected to Wi-Fi the very first time the application is launched. After the first launch, they need to be connected to Wi-Fi once every 30 days so that the application can validate that the user has a valid Active Directory account for continued use of the application.
 
 ### See also
 [Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>

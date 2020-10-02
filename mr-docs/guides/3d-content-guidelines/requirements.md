@@ -11,10 +11,10 @@ ms.reviewer: v-brycho
 
 # Requirements for installing Dynamics 365 Import Tool (Preview)
 
-To install and use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)], you'll need the following:
+To install and use [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-dyn-365-import-tool](../../includes/pn-dyn-365-import-tool.md)], you'll need the following:
 
 - [A subscription to Dynamics 365 Layout](https://docs.microsoft.com/dynamics365/mixed-reality/layout/buy-and-deploy-layout). The 
-[!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] subscription includes a subscription to [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)].
+[!include[pn-dyn-365-layout](../../includes/pn-dyn-365-layout.md)] subscription includes a subscription to [!include[pn-dyn-365-import-tool](../../includes/pn-dyn-365-import-tool.md)].
  
 - A [HoloLens](https://www.microsoft.com/hololens) headset running the [Windows 10 April 2018 Update](https://support.microsoft.com/help/12643) and/or a [Windows Mixed Reality immersive headset](https://www.microsoft.com/windows/windows-mixed-reality). 
 
