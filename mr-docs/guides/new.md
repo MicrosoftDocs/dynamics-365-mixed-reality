@@ -41,10 +41,10 @@ Version 500.2009.23001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/create-guides-that-support-branching-flows" target="_blank">Create guides that support non-linear (branching) workflows </a> | Yes |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Use a trigger to branch to a specific step </a> | Yes |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Activate a trigger when the operator's hand enters the trigger area </a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/use-trigger-branch-specific-step" target="_blank">Use a trigger to branch to a specific step </a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/activate-trigger-when-operators-hand-enters-trigger-area" target="_blank">Activate a trigger when the operator's hand enters the trigger area </a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-paste-position-orientation-scale-3d-model" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | No |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Copy Dynamics 365 Guides content from one Common Data Service instance to another </a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-dynamics-365-guides-content-one-common-data-service-instance-anothers" target="_blank">Copy Dynamics 365 Guides content from one Common Data Service instance to another </a> | No |
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
