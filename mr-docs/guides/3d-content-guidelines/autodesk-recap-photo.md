@@ -69,7 +69,7 @@ The following tips will help you take quality photos for photogrammetry:
 
 6. Select a location to save your model to, and then select **Select Folder**.
 
-    ![Select Folder button](media/recap-photo5.PNG "Select Folder button")
+    ![Select folder to extract mesh to dialog box with Select Folder button selected](media/recap-photo5.PNG "Select folder to extract mesh to dialog box with Select Folder button selected")
 
 7. You see a new 3D model that has the name that you entered. Select the model to open it in the editor.
 
