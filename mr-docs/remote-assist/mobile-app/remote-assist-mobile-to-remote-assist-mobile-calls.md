@@ -63,3 +63,12 @@ A Dynamics 365 Remote Assist mobile user can join a one-to-one or group calls  w
 ![Screenshot of the Dynamics 365 Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/call-controls-final.png)
 
 9. During the call, call participants capture and annotate on snapshots, send messages, share files, record the call, and more!
+
+## FAQ 
+
+## If remote collaborators (call receivers) have both Dynamics 365 Remote Assist mobile and Teams mobile installed on their devices, can they answer the call on Dynamics 365 Remote Assist mobile? 
+
+No, not at this time; they can only answer with Teams mobile. They can still place Mixed Reality annotations during the call. In order to answer a call with Dynamics 365 Remote Assist mobile, technicians can **only** have Dynamics 365 Remote Assist mobile installed on their devices. 
+
+> [!NOTE] 
+> When a Dynamics 365 Remote Assist mobile calls a remote collaborator and the remote collaborator answers on Teams mobile, the remote collaborator will have the same capabilities as they would if they answered on Dynamics 365 Remote Assist mobile, except that the remote collaborator cannot share their space.

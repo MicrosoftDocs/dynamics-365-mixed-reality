@@ -3,7 +3,7 @@ title: Annotate the technician's environment in Dynamics 365 Remote Assist mobil
 author: xonatia
 description: How to add annotations to your environment in Dynamics 365 Remote Assist mobile 
 ms.author: xolee
-ms.date: 09/01/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -12,7 +12,28 @@ ms.reviewer: krbjoran
 
 In Dynamics 365 Remote Assist mobile, mixed reality annotations give technicians and remote collaborators the power to visually specify an area or particular asset in their environment to look at or manipulate. During a Dynamics 365 Remote Assist mobile video call, the technicians will share their environment with the remote collaborator through their rear-facing camera. The technician can instantly place mixed reality annotations on their shared environment. However, the remote collaborator must place mixed reality annotations on a snapshot of the technician's shared environment. After the remote collaborator adds mixed reality annotations to the technician's shared environment, the annotations will appear in the shared environment. 
 
-## Annotation toolbar 
+## Learn the annotation tools
+
+### Annotation toolbar
+
+![Diagram showing what each icon means in the Dynamics 365 Remote Assist mobile toolbar.](./media/mr-toolbar.png "RAM Toolbar")
+
+### Add arrow annotation 
+To position the arrow: 
+- Make sure the arrow is selected in the annotation toolbar. 
+- Move your device around to position the dot on the object or area you want to highlight
+- Tap to place the ghost arrow on your device screen
+
+![Show ghost arrow in the Dynamics 365 Remote Assist mobile toolbar.](./media/ghostarrow.png "RAM Ghost Arrow")
+
+- To rotate the arrow, tap and drag the arrow in a circular motion (360 degrees)
+
+### Add ink annotation 
+To determine where you start drawing:
+- Make sure the ink pen is selected in the annotation toolbar. 
+- Tap and drag on the screen to start drawing 
+
+## Annotating for technicians using Dynamics 365 Remote Assist mobile
 
 The annotation toolbar allows technicians to place **Arrows** and **Drawings** into their environment. The **Color picker** changes the color of your annotations. The **Undo** icon allows technicians to remove the last annotation that they placed in their environment. The **Delete All** icon allows technicians to remove all annotations that they placed in their environment (they cannot remove the expert's annotations).
 

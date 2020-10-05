@@ -23,9 +23,8 @@ A **meeting** is a call scheduled using Teams or Outlook. It can include any num
 The following scenarios are supported when using Dynamics 365 Remote Assist on HoloLens:
 
 * You can collaborate with a Teams desktop user in a one-to-one call, group call, or meeting scheduled using Microsoft Teams or Outlook
+* You can collaborate with a Dynamics 365 Remote Assist mobile user in a one-to-one call or group call
 * You can collaborate with a Teams mobile user in a one-to-one call
-
-Collaboration between Dynamics 365 Remote Assist users is not a supported scenario.
 
 ## Make a one-to-one call to a contact in your company
 
@@ -37,7 +36,10 @@ If your organization has enabled integration with Dynamics 365 Field Service, yo
 
 ![Screenshot of the Dynamics 365 Remote Assist on HoloLens contacts screen, showing an expanded booking panel.](media/07.01-dynamics-booking.png)
 
-If you don't see the contact you want, select Search and then use the holographic keyboard to enter a name or email address.
+If you don't see the contact you want, select Search and then use the holographic keyboard to enter a name or email address. 
+
+>[!Note]
+> After the intended contact pops up, select the contact to call them. (Minimizing the keyboard will erase your search.)  
 
 ![Screenshot showing the contacts search results screen on Dynamics 365 Remote Assist for HoloLens.](media/02.06-contacts-search-results.png)
 
@@ -50,7 +52,7 @@ You can search, call, and receive a call from a Dynamics 365 Remote Assist user 
 
 ## Make a group call
 
-A group call can include a single Dynamics 365 Remote Assist HoloLens or HoloLens 2 user and up to 49 Teams Desktop users, although adding more participants may impact call quality. You can also switch between participants' video feeds and mute participants as needed. 
+A group call can include Dynamics 365 Remote Assist HoloLens or HoloLens 2 users with Dynamics 365 Remote Assist mobile users and Teams desktop users. You can also switch between participants' video feeds and mute participants as needed. Learn more about joining group calls with Dynamics Remote Assist mobile users and Teams desktop users [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/group-calling).
 
 Start by calling one person, and then select **Open Participants** (as seen here: ![Graphic showing the open participants icon.](media/RAHL_Participants.png)).
 
@@ -77,3 +79,6 @@ When you join the call, remote collaborators will be able to see what you see in
 ## End a call
 
 To end a call, select **End Call** (as seen here: ![Graphic showing the end call icon.](media/RAHL_EndCall.png)), or say "Remote Assist, End Call."
+
+### Learn more 
+- View documentation on group calls between Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, and Teams desktop [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/group-calling).

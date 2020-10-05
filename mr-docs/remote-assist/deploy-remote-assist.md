@@ -73,26 +73,23 @@ After sorting out your licenses, users can setup and use the app on their HoloLe
 - Azure Active Directory [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only)
 - A HoloLens, HoloLens 2, or mobile device. Licensing and product requirements can be found [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
-
-
 ### Steps for HoloLens and HoloLens 2
 1.	Go to the **Start** menu and then select **Microsoft Store**. 
 2.	Search for and download **Dynamics 365 Remote Assist** and launch the app.
 3.	Sign into Remote Assist with your Microsoft Teams account. 
 4.	You'll be taken to your Contacts page. Note that if you're using a free trial, you'll be prompted to start your **Free Trial of Dynamics 365 Remote Assist**. 
-5.	You can now use Dynamics 365 Remote Assist on your HoloLens or HoloLens 2! 
+5.	You can now use Dynamics 365 Remote Assist on your HoloLens or HoloLens 2! Next up, [learn how make calls](making-taking-calls-hololens.md). 
 
 ### Steps for mobile devices
 1.	Go to the appropriate iOS and Android app store.
 2.	Search for and download **Dynamics 365 Remote Assist** and launch the app.
 3.	Sign into Dynamics 365 Remote Assist with your Microsoft Teams account. 
 4.	You'll be taken to your Contacts page. Note that if you're using a free trial, you'll be prompted to start your **Free Trial of Dynamics 365 Remote Assist**.
-5.	You can now use Dynamics 365 Remote Assist on your mobile device! Next up, [learn how make calls](mobile-app/making-calls-with-ar.md) to a remote expert on Microsoft Teams (desktop and mobile). 
+5.	You can now use Dynamics 365 Remote Assist on your mobile device! Next up, [learn how make calls](mobile-app/making-calls-with-ar.md). 
 
 >[!Note]
 > For Enterprise environments that manage application deployments using an MDM provider, please contact d365rafb@microsoft.com for assistance obtaining the Dynamics 365 Remote Assist mobile application binary.
 
 ## Next steps
-- [Learn how to set up Microsoft Teams on PC or mobile for various scenarios](set-up-teams.md).
-- [Learn how to use Dynamics 365 Remote Assist on HoloLens and HoloLens 2](overview-hololens.md). 
-- [Learn how to use Dynamics 365 Remote Assist on mobile devices](mobile-app/remote-assist-mobile-overview.md). 
+- [Set up Microsoft Teams on PC or mobile for various scenarios](set-up-teams.md).
+- [Install Dynamics 365 Remote Assist model-driven app] asset-capture-setup-environment.md
