@@ -43,10 +43,10 @@ The following illustration shows a more detailed view of this process.
 > [!div class="mx-imgBorder"]
 > ![Overall flow](media/overall-flow.PNG "Overall flow") 
 
-**A.**	Create 3D models using the CAD software of your choice.<br>
-**B.**	Convert CAD files to one of these file formats: GLB, glTF, FBX, OBJ, STL, PLY.<br>
-**C.**	3D models are optimized and converted into the GLB format.<br>
-**D.**	3D models are ready to be imported into [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality applications.
+**A.**	Create 3D model using the CAD software of your choice.<br>
+**B.**	Convert CAD file to one of these file formats: GLB, glTF, FBX, OBJ, STL, PLY.<br>
+**C.**	Optimize 3D model and convert it to the GLB format.<br>
+**D.**	Import 3D model into [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] your Dynamics 365 mixed-reality application.
 
 ### See also
 [Convert 3D models](convert-models.md)<br>
