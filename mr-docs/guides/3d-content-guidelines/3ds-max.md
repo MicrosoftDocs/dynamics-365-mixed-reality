@@ -155,7 +155,7 @@ In cases where you want fine control over materials, you can apply and change ma
 
 1. On the **Rendering** menu, select **Material Editor** > **Compact Material Editor**. This gives you control over how the materials will look.
 
-   ![Compact Material Editor](media/3ds-max-compact-material-editor.png "Compact Material Editor")
+   ![Compact Material Editor command](media/3ds-max-compact-material-editor.png "Compact Material Editor command")
 
 2. The **Material Editor** window includes blank material slots that appear as grey spheres. To load a slot for inspection, select the eye dropper, and then select the 3D model you want to look at.
 
