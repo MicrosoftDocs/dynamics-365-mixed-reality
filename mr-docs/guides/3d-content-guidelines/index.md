@@ -1,15 +1,15 @@
 ---
 author: keno-msft
-description: Overview of converting and optimizing 3D models to use with Dynamics 365 Import Tool (Preview).  
+description: Overview of converting and optimizing 3D models to use with Dynamics 365 mixed-reality applications  
 ms.author: keno
 ms.date: 01/08/2020
 ms.service: crm-online
 ms.topic: overview
-title: Overview of Dynamics 365 Import Tool (Preview)
+title: Overview of preparing 3D models for Dynamics 365 mixed-reality applications
 ms.reviewer: v-brycho
 ---
 
-# Overview of preparing 3D models for Dynamics 365 mixed reality applications
+# Overview of preparing 3D models for Dynamics 365 mixed-reality applications
 
 If you're using [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality apps, you might want to import your own 3D models into the applications. This article shows you how to prepare your 3D models for use with [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality apps by using a combination of third-party tools.
 
@@ -53,4 +53,3 @@ The following illustration shows a more detailed view of this process.
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
-[Use Dynamics 365 Import Tool (Preview)](import-tool.md)
