@@ -1,15 +1,15 @@
 ---
 author: keno-msft
-description: Everything you need to know about converting 3D models to use with Dynamics 365 Import Tool (Preview)
+description: Everything you need to know about converting 3D models to use with Dynamics 365 mixed-reality applications
 ms.author: keno
 ms.date: 09/11/2020
 ms.service: crm-online
 ms.topic: article
-title: Convert your 3D (CAD) models to use with Dynamics 365 Import Tool (Preview)
+title: Convert your 3D (CAD) models to use with Dynamics 365 mixed reality applications, such as Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Convert your 3D (CAD) models
+# Convert your 3D (CAD) models to use with Dynamics 365 mixed-reality applications
 
 To use your 3D models with [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality applications, you need to convert them to a file format that supports real-time rasterization. 
 
@@ -34,11 +34,10 @@ Your use of third-party applications is subject to terms between you and the thi
 In situations where a CAD application doesn’t have an export option for FBX, OBJ, GLB, PLY, STL, or glTF, you can export an intermediate file, such as [JT](https://aka.ms/Jtfileformat) or [STEP](https://aka.ms/STEPfileformat), and then process that file to create a glTF file. 
 
 ### See also
-[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
+[Overview of converting 3D models for use in Dynamics 365 mixed-reality applications](index.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
-[Use Dynamics 365 Import Tool (Preview)](import-tool.md)
 
 
 
