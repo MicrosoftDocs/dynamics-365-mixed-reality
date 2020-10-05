@@ -5,13 +5,13 @@ ms.author: keno
 ms.date: 12/23/2019
 ms.service: crm-online
 ms.topic: article
-title: Prepare Autodesk Inventor 3D models for use in Dynamics 365 Import Tool (Preview)
+title: Prepare Autodesk Inventor 3D models for use in Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
 ---
 
-# Prepare Autodesk Inventor 3D models for use in Dynamics 365 Import Tool (Preview)
+# Prepare Autodesk Inventor 3D models for use in Dynamics 365 mixed-reality applications
 
-This tutorial shows how to prepare Autodesk Inventor files for use in Microsoft Dynamics 365 Import Tool (Preview). Dynamics 365 Import Tool (Preview) accepts formats like OBJ and changes them to GLB, the real-time format used in Dynamics 365 mixed-reality apps.  
+This tutorial shows how to prepare Autodesk Inventor files for use in Microsoft Dynamics 365 mixed-reality apps. 
 
 > [!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how Autodesk Inventor works with Dynamics 365 mixed-reality apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
@@ -66,7 +66,7 @@ The first step is to remove any unneeded detail from the 3D model. This vastly i
 
 ## Export the 3D model
 
-Next, you need to export the model to a usable format that Dynamics 365 Import Tool (Preview) can read. You need to adjust settings so the lowest-density model is exported.
+Next, you need to export the model to a usable format. You need to adjust settings so the lowest-density model is exported.
 
 1.	In the **Save as type** box, select **OBJ files (*.obj)**.
 
@@ -82,11 +82,7 @@ Next, you need to export the model to a usable format that Dynamics 365 Import T
 
 ## Convert your OBJ file to a GLB file
 
-Dynamics 365 mixed-reality apps use the GLB format for 3D models. You have two options for converting your OBJ file to a GLB file:
-
-- Use Dynamics 365 Import Tool (Preview). This tool automatically converts your OBJ 3D model into a GLB 3D model.
-
-- Use a digital content creation (DCC) platform to convert your 3D models into GLB files. Using these software platforms is a manual process, but it gives you more opportunities for optimization. To assist with this process, see the following tutorials:
+Dynamics 365 mixed-reality apps use the GLB format for 3D models. You can use a digital content creation (DCC) platform to convert your 3D models into GLB files. Using these software platforms is a manual process, but it gives you opportunities for optimization. To assist with this process, see the following tutorials:
 
   - [Blender](blender.md)
 
@@ -98,9 +94,9 @@ Dynamics 365 mixed-reality apps use the GLB format for 3D models. You have two o
 
 After preparing the 3D model, you can learn more about using the following Dynamics 365 apps to view your 3D model in mixed reality:
 
-[Dynamics 365 Product Visualize](../../product-visualize/index.md)<br> 
 [Dynamics 365 Guides](../index.md)<br> 
-[Dynamics 365 Layout](../../layout/index.md) via [Dynamics 365 Import Tool (Preview)](import-tool.md)
+[Dynamics 365 Product Visualize](../../product-visualize/index.md)<br> 
+[Dynamics 365 Layout](../../layout/index.md) 
 
 ### More information
 
