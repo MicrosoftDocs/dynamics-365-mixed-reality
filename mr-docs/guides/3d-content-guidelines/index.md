@@ -5,7 +5,7 @@ ms.author: keno
 ms.date: 01/08/2020
 ms.service: crm-online
 ms.topic: overview
-title: Overview of preparing 3D models for Dynamics 365 mixed-reality applications
+title: Overview of preparing 3D models for Dynamics 365 mixed-reality applications such as Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
