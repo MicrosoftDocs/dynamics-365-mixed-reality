@@ -9,7 +9,7 @@ title: Use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixe
 ms.reviewer: v-brycho
 ---
 
-# Use Dassault Systèmes SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality apps
+# Use Dassault Systèmes SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality applications
 
 There are several ways you can optimize 3D models for mixed reality by using Dassault Systèmes SOLIDWORKS. This tutorial provides easy-to-follow procedures for each of these methods. Some of the procedures are redundant, so you might not need to use them all. Experiment with each procedure and decide what best suits your use case.
 
@@ -144,9 +144,9 @@ If you don't have SOLIDWORKS 2019 and the XR Exporter add-in, you need to do one
 
 After you prepare a 3D model, you can use the following Dynamics 365 apps to view it in mixed reality:
 
-[Dynamics 365 Product Visualize](../../product-visualize/index.md)<br> 
 [Dynamics 365 Guides](../index.md)<br> 
-[Dynamics 365 Layout](../../layout/index.md) via [Dynamics 365 Import Tool (Preview)](import-tool.md)
+[Dynamics 365 Product Visualize](../../product-visualize/index.md)<br> 
+[Dynamics 365 Layout](../../layout/index.md) 
 
 ### More information
 
