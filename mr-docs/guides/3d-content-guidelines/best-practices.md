@@ -1,15 +1,15 @@
 ---
 author: keno-msft
-description: Best practices for converting and optimizing real-time 3D models for use with Dynamics 365 mixed-reality applications
+description: Learn about best practices for converting and optimizing real-time 3D models for use with Dynamics 365 mixed-reality applications
 ms.author: keno
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
-title: Best practices for converting and optimizing real-time 3D models
+title: Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
 ---
 
-# Best practices for converting and optimizing real-time 3D models
+# Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 mixed-reality applications
 
 This topic covers best practices for converting and optimizing 3D models to work with [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality applications.
 
@@ -39,11 +39,11 @@ This topic covers best practices for converting and optimizing 3D models to work
 
 - Reduce textures based on their visual impact. For example, metallic roughness maps can often be half the resolution of the base color and normal maps with no discernible quality reduction.
 
-- JPG compression and PNG quantization further reduce file size, but they have no impact on the memory required at runtime when the asset is loaded.
+- JPG compression and PNG quantization further reduce file size, but they have no impact on the memory required at runtime when the model is loaded.
 
 ## Remove hidden and unused data
 
-- Be sure to remove any data that’s not required to represent your 3D models. Extra nodes, meshes, materials, and textures can add up quickly. For example, in the following 3D model, removing any hidden motor parts lowers the triangle count and simplifies the hierarchy, resulting in a more performant 3D model.
+- Be sure to remove any data that’s not required to represent your 3D models. Extra nodes, meshes, materials, and textures can add up quickly. For example, in the following 3D model, removing any hidden motor parts lowers the triangle count and simplifies the hierarchy, resulting in a better performing 3D model.
 
    > [!div class="mx-imgBorder"]
    > ![Remove hidden data](media/remove-hidden-data.PNG "Remove hidden data") 
@@ -113,7 +113,7 @@ This topic covers best practices for converting and optimizing 3D models to work
 
    > [!div class="mx-imgBorder"]
    > ![Flip inverted face normals](media/inverted-face-normals.PNG "Flip inverted face normals") 
-	 
+	 
    *Face normals visualized in [Blender 2.8](https://aka.ms/blender2.8).*
 
    **A.**	3D model with normal flipped<br>
