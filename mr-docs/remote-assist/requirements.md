@@ -21,7 +21,7 @@ The following tables list technical requirements for deploying and using Microso
 
 ## Device requirements
 
-Both Remote Assist users and Teams users can join a Remote Assist call. [Learn more about the different types of calls.](making-calls-on-remote-assist-mobile.md)
+Both Remote Assist users and Teams users can join a Remote Assist call. [Learn more about the different types of calls.](./mobile-app/making-calls-on-remote-assist-mobile.md)
 
 The Remote Assist app is available on HoloLens, HoloLens 2, and qualifying Android or iOS mobile devices.
 
