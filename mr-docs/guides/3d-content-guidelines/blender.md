@@ -9,7 +9,7 @@ title: Use Blender to prepare 3D models for use in Dynamics 365 mixed-reality ap
 ms.reviewer: v-brycho
 ---
 
-# Use Blender to prepare 3D models for use in Dynamics 365 mixed-reality apps
+# Use Blender to prepare 3D models for use in Dynamics 365 mixed-reality applications
 
 This tutorial provides step-by-step instructions that show you how to:
 
@@ -250,8 +250,8 @@ The last step is to export the model to a GLB file so it can be used with Dynami
 
 After you've prepared a 3D model, you can learn more about using the following Dynamics 365 apps to view it:
 
-[Dynamics 365 Product Visualize](../../product-visualize/index.md)<br> 
 [Dynamics 365 Guides](../index.md)<br> 
+[Dynamics 365 Product Visualize](../../product-visualize/index.md)<br> 
 [Dynamics 365 Layout](../../layout/index.md) via [Dynamics 365 Import Tool (Preview)](import-tool.md)
 
 ### More information
