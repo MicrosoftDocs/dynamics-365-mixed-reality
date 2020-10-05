@@ -44,7 +44,7 @@ This tutorial provides step-by-step instructions that show you how to:
 
 4. Double-click the **file1** icon (or press **I**) to drill down to the file selection part of this node. Select the **Open floating file chooser** button, and then choose the file you want to import.
 
-   ![File chooser button](media/3-houdini-file-chooser.PNG "File chooser button")
+   ![Screen shot of File chooser button](media/3-houdini-file-chooser.PNG "Screen shot of File chooser button")
 
 5. In the pop-up window, browse to the file you want to import, select it, and then select **Accept**.  
 
@@ -158,7 +158,7 @@ You need to export the model to a GLB file to use it with Dynamics 365 mixed-rea
 
 6.	Select **Render to Disk** to finish the export and create the GLB file.
 
-    ![Render to Disk button](media/24-houdini-render-to-disk.PNG "Render to Disk button")
+    ![Screen shot of Render to Disk button](media/24-houdini-render-to-disk.PNG "Screen shot of Render to Disk button")
 
 ## Create a template
 
@@ -190,7 +190,7 @@ The template is ready. Close Houdini to try it out.
 
 2.	Select the center of the geometry file node to switch to the **File** context menu, and then select the **Open floating file chooser** button to select the 3D model you want to prepare.  
 
-    ![File chooser button](media/28-houdini-file-chooser2.PNG "File chooser button")
+    ![Screen shot of Open floating file chooser button](media/28-houdini-file-chooser2.PNG "Screen shot of open floating file chooser button")
 
 3.	When the geometry is loaded, select the red sphere on the **polyreduce1** node, and then the blue tab to the far right of the **polyreduce1** node.
 
