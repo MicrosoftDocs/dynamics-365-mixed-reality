@@ -1,4 +1,4 @@
-# Dynamics 365 Import Tool (Preview)
+# Converting 3D models for use in Dynamics 365 mixed-reality applications
 ## [Overview](index.md)
 ## [Convert your 3D (CAD) models](convert-models.md)
 ## [Optimize your 3D models](optimize-models.md)
@@ -15,12 +15,4 @@
 ### SideFX Houdini
 #### [Prepare 3D models](houdini.md)
 #### [Convert a point cloud](houdini-point-cloud.md)
-## Install and use Dynamics 365 Import Tool (Preview)
-### [Requirements for installing](requirements.md)
-### [Install Dynamics 365 Import Tool (Preview)](install.md)
-### [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
-## [Work with Dynamics 365 Layout](layout.md)
-## [Work with Dynamics 365 Product Visualize](product-visualize.md)
-## Terms of use
-### [Dynamics 365 Import Tool (Preview)](../../legal/import-tool-license-terms.md)
-### [Dynamics 365 Import Tool (Preview) free trial](../../legal/import-tool-free-trial.md)
+
