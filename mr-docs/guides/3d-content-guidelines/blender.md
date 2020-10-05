@@ -232,7 +232,7 @@ After the texture and material are set up on the duplicate 3D model, it's time t
 
     To confirm that the bake was successful, you can select the eye icon ![Eye icon](media/blender-eye-icon.PNG "Eye icon") next to the original model to hide it. Now only the duplicate with one material and texture is visible.
 
-    ![Eye icon](media/blender-eye-icon-full-screen.PNG "Eye icon")
+    ![Screen shot of Eye icon](media/blender-eye-icon-full-screen.PNG "Screen shot of Eye icon")
 
 ## Export the model to a GLB file
 
