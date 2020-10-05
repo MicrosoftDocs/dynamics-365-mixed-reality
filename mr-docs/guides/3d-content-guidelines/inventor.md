@@ -66,7 +66,7 @@ The first step is to remove any unneeded detail from the 3D model. This vastly i
 
 ## Export the 3D model
 
-Next, you need to export the model to a usable format. You need to adjust settings so the lowest-density model is exported.
+Next, you need to export the model to a usable format, adjusting settings so the lowest-density model is exported.
 
 1.	In the **Save as type** box, select **OBJ files (*.obj)**.
 
