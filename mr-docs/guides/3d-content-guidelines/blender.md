@@ -252,7 +252,7 @@ After you've prepared a 3D model, you can learn more about using the following D
 
 [Dynamics 365 Guides](../index.md)<br> 
 [Dynamics 365 Product Visualize](../../product-visualize/index.md)<br> 
-[Dynamics 365 Layout](../../layout/index.md) via [Dynamics 365 Import Tool (Preview)](import-tool.md)
+[Dynamics 365 Layout](../../layout/index.md)
 
 ### More information
 
