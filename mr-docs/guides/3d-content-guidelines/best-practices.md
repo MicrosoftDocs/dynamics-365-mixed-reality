@@ -138,11 +138,11 @@ This topic covers best practices for converting and optimizing 3D models to work
 ### See also
 
 [Microsoft Office 3D content guidelines](https://aka.ms/Office3Dcontent)<br>
-[Overview of Dynamics 365 Import Tool (Preview)](index.md)<br>
+[Overview of converting 3D models for use in Dynamics 365 mixed-reality applications](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
-[Use Dynamics 365 Import Tool (Preview)](import-tool.md)
+
 
 
 
