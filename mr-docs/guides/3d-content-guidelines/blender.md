@@ -152,7 +152,7 @@ To visualize the concept of UV unwrapping, imagine cutting out every surface of 
 
 1. Select the duplicate model, and then select the **Materials** tab ![Materials tab](media/blender-materials-tab.PNG "Materials tab") to go the **Materials** panel.
 
-   ![Materials tab](media/blender-materials-tab-full-screen.PNG "Materials tab")
+   ![Screen shot with Materials tab selected](media/blender-materials-tab-full-screen.PNG "Screen shot with Materials tab selected")
 
 2. Delete all the materials for the duplicate 3D model by selecting the minus sign to the right of the materials.
 
@@ -170,7 +170,7 @@ To visualize the concept of UV unwrapping, imagine cutting out every surface of 
 
     ![New](media/blender-new.PNG "New")
 
-6. Hover over the viewport (the main window where the 3D model is shown), press the **Tab** key to enter **Edit Mode**, press **a** to select all, and then select **Assign** from the **Materials** tab ![Materials tab](media/blender-materials-tab.PNG "Materials tab").
+6. Hover over the viewport (the main window where the 3D model is shown), press the **Tab** key to enter **Edit Mode**, press **a** to select all, and then select **Assign** from the **Materials** tab ![Screen shot showing Materials tab](media/blender-materials-tab.PNG "Screen shot showing Materials tab").
 
     ![Assign](media/blender-assign.PNG "Assign")
 
