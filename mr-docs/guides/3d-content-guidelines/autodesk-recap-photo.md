@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 This tutorial guides you through the process of using Autodesk ReCap Photo photogrammetry software to create 3D models that can be used with Microsoft Dynamics 365 mixed-reality applications.
 
-This tutorial has been created only for informational purposes, to show how ReCap Photo works with Microsoft Dynamics 365 mixed-reality applications. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor Autodesk or any of its products.
+This tutorial is created only for informational purposes, to show how ReCap Photo works with Microsoft Dynamics 365 mixed-reality applications. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor Autodesk or any of its products.
 
 ## What is Autodesk ReCap Photo?
 
@@ -204,9 +204,9 @@ The last step is to export the model as a .glb file, so that it can be used with
 
 After you've finished preparing your 3D model, you can use it in the following Dynamics 365 applications:
 
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
-
 - [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+
+- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
 
 ## More information
 
