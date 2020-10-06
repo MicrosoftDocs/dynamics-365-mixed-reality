@@ -66,8 +66,8 @@ A Dynamics 365 Remote Assist license includes the following three products neede
 | **If you have this…**                                                                                                          | **Additional capabilities accessible through Dynamics 365 Remote Assist:**                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [OneDrive for Business](https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive                                                                           |
-| Dynamics 365 Field Service                                                                                                     | - Call an expert listed in your field service work order </br> - Save call artifacts (e.g., call recording, files shared) to a Field Service work order |
-| Power BI                                                                                                                       | - View a PowerBI dashboard embedded in a Field Service work order                                                                                   |
+| Dynamics 365 Field Service                                                                                                     | - Call an expert listed in your field service work order </br> - Save call artifacts (for example, call recording, files shared) to a Field Service work order |
+| Power BI                                                                                                                       | - View a Power BI dashboard embedded in a Field Service work order                                                                                   |
 
 
 ### Microsoft Teams app user
@@ -80,7 +80,7 @@ A Dynamics 365 Remote Assist license includes the following three products neede
 
 ### Administrator
 
-[Azure Active Directory (AAD)](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis) account to assign licenses in Microsoft 365 admin portal and distribute applications through Microsoft Store for Business. Learn more about how to deploy Dynamics 365 Remote Assist [here](https://github.com/docs.microsoft.com/dynamics365/mixed-reality/remote-assist/deploy-remote-assist).
+[Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis) account to assign licenses in Microsoft 365 admin portal and distribute applications through Microsoft Store for Business. Learn more about how to deploy Dynamics 365 Remote Assist [here](https://github.com/docs.microsoft.com/dynamics365/mixed-reality/remote-assist/deploy-remote-assist).
 
 ## Network requirements
 
@@ -90,11 +90,11 @@ A variety of network conditions, including bandwidth, latency, jitter, and packe
 
 When using Dynamics 365 Remote Assist on mobile devices, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15fps.
 
-If Dynamics 365 Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a low quality live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information.
+If Dynamics 365 Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a low-quality live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information.
 
 ### Dynamics 365 Remote Assist HoloLens
 
-When using Dynamics 365 Remote Assist on HoloLens, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p at 30fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD quality video calling with resolution of HD 1080p, 4-5Mbps up/down should be expected. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
+When using Dynamics 365 Remote Assist on HoloLens, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p at 30 fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD quality video calling with resolution of HD 1080p, 4-5 Mbps up/down should be expected. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
 
 ### URLs and ports
 The following list contains the URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist client.
@@ -158,6 +158,6 @@ The following tasks serve as a checklist for other potential optimizations for D
 - [Try Dynamics 365 Remote Assist for free](try-remote-assist.md)
 - [Buy Dynamics 365 Remote Assist](deploy-remote-assist.md)
 - [Using Dynamics 365 Remote Assist on HoloLens](overview-hololens.md)
-- [Set up and use Microsoft Teams with Dynamics 365 Remote Assist](teams-pc-all.md)
+- [Setup and use Microsoft Teams with Dynamics 365 Remote Assist](teams-pc-all.md)
 - [How-to videos](videos.md)
 
