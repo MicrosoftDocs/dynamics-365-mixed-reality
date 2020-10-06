@@ -18,19 +18,18 @@ However, the features you can use to collaborate differ depending on which platf
 |                                                                                                |Teams desktop features available when collaborating with Dynamics 365 Remote Assist HoloLens user                 |Teams desktop features available when collaborating with Dynamics 365 Remote Assist mobile user                   |
 |-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 |                                                                                                     |                                                                                                     |                                                                                                     |
-|Make outgoing call                                                                                   |Yes                                                                                                  |No      |
+|Make outgoing call                                                                                   |Yes                                                                                                  |Yes      |
 |Receive incoming call                                                                                |Yes                                                                                                  |Yes                                                                                                  |
 |Join a one-to-one call                                                                               |Yes                                                                                                  |Yes                                                                                                  |
-|Join a group call                                                                                    |Yes                                                                                                  |No; Dynamics 365 Remote Assist mobile does not support group calls.                                                |
-|Join a meeting                                                                                       |Yes                                                                                                  |No; Dynamics 365 Remote Assist mobile does not support meetings.                                                  |
+|Join a group call                                                                                    |Yes                                                                                                  |Yes                                               |
+|Join a meeting                                                                                       |Yes                                                                                                  |No; Remote Assist mobile does not support meetings.                                                  |
 |Control outgoing video, outgoing audio, and incoming audio                                           |Yes                                                                                                  |Yes                                                                                                  |
 |Annotate Dynamics 365 Remote Assist user's environment                                                            |Yes                                                                                                    |Yes                                                                                                  |
 |Annotate 2D snapshot using arrows and ink                                                            |No                                                                                                   |Yes                                                                                                  |
 |Send a text message                                                                                  |Yes                                                                                                  |Yes                                                                                                  |
 |Share files from OneDrive or device                                                                  |Yes                                                                                                  |Yes  |
-|Record call                                                                                          |Yes, only in a group call or meeting. A one-to-one call can be recorded, but the Dynamics 365 Remote Assist HoloLens user must initiate the recording.      |A one-to-one call can be recorded, but the Dynamics 365 Remote Assist mobile user must initiate the recording.                  |
-|Share screen                                                                                         |Yes                                                                                                  |No                                                                                                   |
-                               
+|Record call                                                                                          |Yes, only in a group call or meeting. A one-to-one call can be recorded, but the Remote Assist HoloLens user must initiate the recording.      |A one-to-one call can be recorded, but the Remote Assist mobile user must initiate the recording.                  |
+|Share screen                                                                                         |Yes                                                                                                  |No, but you can send any file type to a Remote Assist mobile user                                                                                                    |                               
 
 ## Key terms
 
@@ -77,9 +76,9 @@ You can search, call, and receive a call from a Dynamics 365 Remote Assist user 
 >[!Note]
 > If you're not able to find the contact you're looking for, it might be because Teams federation (i.e., "[Teams external access](https://docs.microsoft.com/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.  
 
-### Make a group call (with a Dynamics 365 Remote Assist HoloLens user only)
+### Make a group call 
 
-A group call can include one Dynamics 365 Remote Assist HoloLens user and several Teams desktop users. 
+Learn more about who can join a [group call](mobile-app/making-calls-on-remote-assist-mobile.md).
 
 Start by calling one person, and then select **Open Participants** (represented by this icon: ![Graphic showing the participants icon.](media/Teams_Participants.png)). Then, search for the person you would like to call and call them.
 
