@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 1 of the setup process for Microsoft Dynamics 365 Guides. In this step, you buy a subscription or sign up for a free 30-day trial.
 ms.author: mamaylya
-ms.date: 07/23/2020
+ms.date: 10/05/2020
 ms.service: crm-online
 ms.topic: article
 title: Buy a Dynamics 365 Guides subscription or sign up for a free trial
@@ -19,6 +19,9 @@ ms.reviewer: v-brycho
 There are two ways to get a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription:
 
 - If you have a Microsoft work account, you can go directly to the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home) and search for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription there.
+
+    > [!NOTE]
+    > If you can't access the Microsoft 365 admin center link, contact your Dynamics 365 administrator.
 
 - Go to the [Get started](https://aka.ms/GetGuides) page. You can use this page to buy a subscription or sign up for a free 30-day trial. If you sign up for a trial, you can either use credentials for an existing Dynamics 365 account or create new credentials.
 
