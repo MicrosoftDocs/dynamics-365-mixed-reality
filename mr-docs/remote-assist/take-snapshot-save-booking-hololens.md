@@ -15,7 +15,7 @@ In this article, we'll take a look at how Dynamics 365 Remote Assist users can t
 
 ## Take a snapshot
 
-You can take a snapshot of your mixed reality annotations during a call if your admin has turned on Office 365 and enabled OneDrive. For example, you can use a snapshot to document the quality of the assets you’re inspecting. If your network connectivity is poor, send a snapshot to your remote collaborators so that they can clearly see an intricate part of the machine or a machine tag with small characters. 
+You can take a snapshot of your mixed reality annotations during a call if your admin has turned on Microsoft 365 and enabled OneDrive. For example, you can use a snapshot to document the quality of the assets you’re inspecting. If your network connectivity is poor, send a snapshot to your remote collaborators so that they can clearly see an intricate part of the machine or a machine tag with small characters. 
 
 To take a snapshot, select the **Camera** icon (or say "Remote Assist, Camera"), and then air tap (or say "Snap") to take the photo.
 

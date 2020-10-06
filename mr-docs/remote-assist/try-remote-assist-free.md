@@ -43,11 +43,11 @@ With the license-free 90-day free trial, each individual user must download Dyna
 
 ## Prerequisites for a Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach 30-day trial license (for up to 25 seats in an organization)
 
-- Your organization must have a Microsoft 365 or Office 365 [administrator](https://www.microsoft.com/microsoft-365/business/office-365-administration) account. Learn more about admin permissions [here](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator](https://www.microsoft.com/microsoft-365/business/office-365-administration) account. Learn more about admin permissions [here](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
 
 ## Option 2: 30-day trial license (for up to 25 seats in an organization)
 
-It Admins must acquire a 30-day trial license (for up to 25 seats in an organization) through the Microsoft 365 or Office 365 administrator portal. 
+It Admins must acquire a 30-day trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
 1.	Log into the M365 or O365 Administrator Portal using your organization’s admin account: https://www.microsoft.com/microsoft-365/business/office-365-administration
  
@@ -61,7 +61,7 @@ It Admins must acquire a 30-day trial license (for up to 25 seats in an organiza
  
 ## Option 3: 30-day Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers only)
 
-If you are a Dynamics 365 Field Service customer, you can integrate Dynamics 365 Remote Assist with your application. It Admins must acquire a 30-day trial license (for up to 25 seats in an organization) through the Microsoft 365 or Office 365 administrator portal. 
+If you are a Dynamics 365 Field Service customer, you can integrate Dynamics 365 Remote Assist with your application. It Admins must acquire a 30-day trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
 1.	Log into the M365 or O365 Administrator Portal using your organization’s admin account: https://www.microsoft.com/microsoft-365/business/office-365-administration
  
