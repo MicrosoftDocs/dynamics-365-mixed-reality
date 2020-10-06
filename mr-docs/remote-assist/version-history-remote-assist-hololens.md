@@ -35,16 +35,16 @@ Date: October 2020
 
 ### Bug fixes
 
-- Improved reliability of voice commands (for photo capture, moving and scaling windows and more)
-- Improved reliability and performance of taking photo captures
-- Improvement placement of media objects when opening images and documents
-- Improved Contact search performance
-- Fixed visual issues with thumbnails when browsing OneDrive files
-- Fixed issue with arrow annotations being placed at incorrect angles under certain conditions
-- Fixed issue with some buttons being difficult to interact with
-- Unified visual styles between tabs (Call, Files, Assets) for various UI elements
-- Call recording is now also available in group calls
-- Camera tool was moved from the toolbar into text chat
+- Improved reliability of voice commands (for photo capture, moving and scaling windows, and more).
+- Improved reliability and performance of taking photo captures.
+- Improvement for placement of media objects when opening images and documents.
+- Improved contact search performance.
+- Fixed visual issues with thumbnails when browsing OneDrive files.
+- Fixed issue with arrow annotations being placed at incorrect angles under certain conditions.
+- Fixed issue where some buttons were difficult to interact with.
+- Unified visual styles between tabs (call, files, assets) for various UI elements.
+- Call recording is now also available in group calls.
+- Camera tool was moved from the toolbar into text chat.
 
 
 ## HoloLens 1 & 2 – 211.2009.7002.0
