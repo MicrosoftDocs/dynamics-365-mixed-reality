@@ -15,17 +15,17 @@ The following tables list technical requirements for deploying and using Microso
 
 ## Definitions
 
-**Remote Assist (RA) user:** Someone who uses the Remote Assist app on HoloLens or mobile devices.
+**Dynamics 365 Remote Assist user:** Someone who uses the Remote Assist app on HoloLens or mobile devices.
 
 **Teams user:** Someone who uses the Teams app on desktop or mobile devices.
 
 ## Device requirements
 
-Both Remote Assist users and Teams users can join a Remote Assist call. [Learn more about the different types of calls.](./mobile-app/making-calls-on-remote-assist-mobile.md)
+Both Dynamics 365 Remote Assist users and Teams users can join a Dynamics 365 Remote Assist call. [Learn more about the different types of calls.](./mobile-app/making-calls-on-remote-assist-mobile.md)
 
-The Remote Assist app is available on HoloLens, HoloLens 2, and qualifying Android or iOS mobile devices.
+The Dynamics 365 Remote Assist app is available on HoloLens, HoloLens 2, and qualifying Android or iOS mobile devices.
 
-If an individual wants to join a Remote Assist call using the Teams app, they must use the Teams application on Windows 10 PC or mobile devices.
+If an individual wants to join a Dynamics 365 Remote Assist call using the Teams app, they must use the Teams application on Windows 10 PC or mobile devices.
 
 ### Device options and requirements for a Dynamics 365 Remote Assist user
 
@@ -48,21 +48,22 @@ If an individual wants to join a Remote Assist call using the Teams app, they mu
 
 ### Dynamics 365 Remote Assist app user
 
-A Dynamics 365 Remote Assist license includes the following three products needed to use most features available in the Dynamics 365 Remote Assist HoloLens app, mobile app, or web app: 
+A Dynamics 365 Remote Assist license includes the following three products needed to use most features available in the Dynamics 365 Remote Assist HoloLens app, mobile app, or web app:
+
 * Dynamics 365 Remote Assist 
 * Microsoft Teams
 * Common Data Service (CDS) 
 
-| **Included with Remote Assist license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
+| **Included with Dynamics 365 Remote Assist license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Remote Assist and Teams**             | Use calling features via the Remote Assist app on HoloLens or mobile devices. Features include: </br> - Make a call </br> - Use mixed reality annotations </br> - Record a call                                             |
-| **Common Data Service**                 | - Access to the Remote Assist model-driven app </br> - [Create and manage assets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/asset-capture-overview) either within or outside a Remote Assist call </br> - Create and share one-time call links </br> - See analytics and insights based on your call records |
+| **Dynamics 365 Remote Assist and Teams**             | Use calling features via the Dynamics 365 Remote Assist app on HoloLens or mobile devices. Features include: </br> - Make a call </br> - Use mixed reality annotations </br> - Record a call                                             |
+| **Common Data Service**                 | - Access to the Dynamics 365 Remote Assist model-driven app </br> - [Create and manage assets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/asset-capture-overview) either within or outside a Dynamics 365 Remote Assist call </br> - Create and share one-time call links </br> - See analytics and insights based on your call records |
 
->![Note]: These licenses must be assigned to a native member of the tenant (AAD [member](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions#member-and-guest-users) account). Remote Assist does not support [AAD B2B](https://docs.microsoft.com/azure/active-directory/external-identities/what-is-b2b); an individual cannot log into Remote Assist using a Remote Assist license assigned to AAD guest account. 
+>![Note]: These licenses must be assigned to a native member of the tenant (AAD [member](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions#member-and-guest-users) account). Dynamics 365 Remote Assist does not support [AAD B2B](https://docs.microsoft.com/azure/active-directory/external-identities/what-is-b2b); an individual cannot sign into Dynamics 365 Remote Assist using a Dynamics 365 Remote Assist license assigned to AAD guest account. 
 
 **With the following, you can leverage even more capabilities.**
 
-| **If you have this…**                                                                                                          | **Additional capabilities accessible through Remote Assist:**                                                                                        |
+| **If you have this…**                                                                                                          | **Additional capabilities accessible through Dynamics 365 Remote Assist:**                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [OneDrive for Business](https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive                                                                           |
 | Dynamics 365 Field Service                                                                                                     | - Call an expert listed in your field service work order </br> - Save call artifacts (e.g., call recording, files shared) to a Field Service work order |
@@ -74,12 +75,12 @@ A Dynamics 365 Remote Assist license includes the following three products neede
 | **What license does the Teams user have?**                                                                                     | **Capabilities in a RA call include:**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | None                                                                                                                           | - Teams desktop user can join a call using a [one-time call link](one-time-call.md) </br> - Teams desktop user can [join a meeting](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#join-a-teams-meeting--with-dynamics-365-remote-assist-hololens-user-only) that allows anonymous participants </br> -  Use mixed reality annotations                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Teams                                                                                                                          | The Teams user’s experience is **_identical_** regardless of whether the Teams user is: </br> - a member in the RA user’s tenant </br> - [a guest](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment#solution-2-guest-access) in the RA user’s tenant </br> - a member in a tenant that’s [federated](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment#solution-1-external-access-federation) with the RA user’s tenant (Teams desktop only) </br> **_EXCEPT_** </br> -  any differences described [here](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access). </br> Additional collaboration capabilities include: </br> -  Make a call </br> - Record a call |
+| Teams                                                                                                                          | The Teams user’s experience is **_identical_** regardless of whether the Teams user is: </br> - a member in the Dynamics 365 Remote Assist user’s tenant </br> - [a guest](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment#solution-2-guest-access) in the Dynamics 365 Remote Assist user’s tenant </br> - a member in a tenant that’s [federated](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/multi-tenant-deployment#solution-1-external-access-federation) with the Dynamics 365 Remote Assist user’s tenant (Teams desktop only) </br> **_EXCEPT_** </br> -  any differences described [here](https://docs.microsoft.com/microsoftteams/communicate-with-users-from-other-organizations#compare-external-and-guest-access). </br> Additional collaboration capabilities include: </br> -  Make a call </br> - Record a call |
 | [OneDrive for Business](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive    |
 
-### Administrator 
+### Administrator
 
-[Azure Active Directory (AAD)](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis) account to assign licenses in M365 Admin portal and distribute applications through Microsoft Store for Business. Learn more about how to deploy Remote Assist [here](https://github.com/docs.microsoft.com/dynamics365/mixed-reality/remote-assist/deploy-remote-assist).
+[Azure Active Directory (AAD)](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-whatis) account to assign licenses in Microsoft 365 admin portal and distribute applications through Microsoft Store for Business. Learn more about how to deploy Dynamics 365 Remote Assist [here](https://github.com/docs.microsoft.com/dynamics365/mixed-reality/remote-assist/deploy-remote-assist).
 
 ## Network requirements
 
@@ -87,9 +88,9 @@ A variety of network conditions, including bandwidth, latency, jitter, and packe
 
 ### Dynamics 365 Remote Assist mobile
 
-When using Dynamics 365 Remote Assist on mobile devices, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15fps. 
+When using Dynamics 365 Remote Assist on mobile devices, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 720p at 15fps.
 
-If Dynamics 365 Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a low -quality live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information. 
+If Dynamics 365 Remote Assist mobile autodetects that the technician is experiencing [poor network conditions](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/poor-network-connectivity#poor-network-connectivity-is-determined-by-the-following-conditions), it will prompt the technician to share high-quality snapshots instead of transmitting a low quality live video feed. See [Calls in low bandwidth](mobile-app/poor-network-connectivity.md) for more information.
 
 ### Dynamics 365 Remote Assist HoloLens
 
