@@ -119,7 +119,7 @@ Two people.
 Is the Remote Assist mobile app that a customer uses the same app that a licensed Remote Assist user uses? 
 Yes.
 #### What’s the size of the Remote Assist mobile app?
-[NEED LINK to FAQ]
+Learn more [here.](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/faq-mobile#what-is-the-size-of-the-dynamics-365-remote-assist-mobile-app)
 #### If the customer already has Remote Assist mobile downloaded, can they skip downloading the app and directly select the second link to join the call?
 Yes.  
 #### If the customer is signed into Remote Assist when they select the call link using their mobile device, will they join the call as authenticated user?
@@ -128,12 +128,12 @@ Yes.
 Yes.
 #### What Remote Assist features are not available for your customer, if they join the call as an unauthenticated call participant?  
 If your customer joins the call as an unauthenticated user, they will not be able to:
-* Add 2D annotations via snapshots
+* Add 2D annotations via snapshots. This means that an external user using Dynamic 365 Remote Assist on a non-AR mobile device will not be able to share or receive annotations.
 * Send or receive OneDrive files
 * Receive a prompt to use snapshots when they are experiencing poor network conditions.
 * Record a the call  
 * View the call participant list and invite people to join the call 
-This means that an external user using Dynamic 365 Remote Assist on a non-AR mobile device will not be able to share or receive annotations.
+
 #### After the call ends, can an authenticated user access the chat history? 
 No.
 #### The call disconnected and the customer received a new link to join the call. When they select the link, they view the “Call ended” page instead of joining the new call. How can they join the new call?
