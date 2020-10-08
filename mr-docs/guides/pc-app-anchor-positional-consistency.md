@@ -24,7 +24,7 @@ The following things can affect positional consistency when anchoring a guide wi
 
 IPD is the distance between the center of the user's pupils. Because different users might have different IPDs, it's crucial that the appropriate IPD is set, so that HoloLens can adapt its display. An incorrect IPD setting can cause inaccurate perception of hologram position. 
 
-- To calibrate the device eye-tracking and IPD on HoloLens 2, make sure to use the eye calibration app when prompted. This will not only calibrate IPD but will also enable HoloLens 2 to auto-correct hologram position in case the device moves on the operator's head.
+- To calibrate the device eye-tracking and IPD on HoloLens 2, make sure to use the eye calibration app when prompted. This will not only calibrate IPD but will also enable HoloLens 2 to auto-correct hologram position in case the device moves on the operator's head. If you're not prompted to use the eye calibration app, [you can start manually calibrate the device](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/operator-calibrate-hl2).
 
 - To calibrate IPD on HoloLens 1, use the HoloLens Calibration app.
 
@@ -32,19 +32,23 @@ IPD is the distance between the center of the user's pupils. Because different u
 
 HoloLens actively scans its environment for visible features to map its surroundings. This scan occurs whenever the device is turned on and a user is signed in. It occurs regardless of whether you're in the HoloLens shell or running apps. HoloLens constantly improves the accuracy of these maps as it scans the environment from different viewpoints and stores the maps on the device. Holograms are placed in relation to these maps. The more accurate the map, the more accurate the hologram placement.
 
-Before Dynamics 365 Guides is used on a HoloLens that hasn't been used in a particular environment, have the operator put on the HoloLens, sign in to the device, and walk around the space where hologram instructions have been placed or will be placed. Although the operator can do this step from the HoloLens shell, we recommend hiding the **Start** menu, so the operator can see the space as they walk around. By walking at a leisurely pace while slowly looking up and down, the operator will give the device an opportunity to find features and construct accurate maps. This process is called "pre-scanning," because it's done before running Dynamics 365 Guides. You only need to complete this process once for each environment, because HoloLens stores the maps that it creates on the device and remembers the spaces that it has scanned.
+Before using Dynamics 365 Guides on a HoloLens that hasn't been used in a particular environment, have the operator put on the HoloLens, sign in to the device, and walk around the space where hologram instructions have been placed or will be placed. Although the operator can do this step from the HoloLens shell, we recommend hiding the **Start** menu, so the operator can see the space as they walk around. By walking at a leisurely pace while slowly looking up and down, the operator gives the device an opportunity to find features and construct accurate maps.
+
+This process is called "pre-scanning," because it's done before running Dynamics 365 Guides. You only need to complete this process once for each environment, because HoloLens stores the maps that it creates on the device and remembers the spaces that it has scanned. 
+
+By looking around and air tapping, you will be able to see the reconstructed 3D map the device has already built, giving you the opportunity to identify areas that might lack mapping. You always have the option to clear the maps and all registered holograms from the device by going to **Settings** > **System** > **Holograms** > **Remove all holograms**.
 
 ## Surface type
 
-Environments that include very reflective surfaces (mirrors), dark surfaces, or featureless surfaces, negatively affect the ability of HoloLens to recognize the space. If HoloLens can't correctly recognize the space, hologram position and stability are affected in turn.
+Environments that include very reflective surfaces (mirrors), dark surfaces, or featureless surfaces (cleanrooms), negatively affect the ability of HoloLens to recognize the space. If HoloLens can't correctly recognize the space, hologram position and stability are affected in turn.
 
 ## Lighting conditions
 
-Lighting conditions have an impact on how HoloLens perceives the environment and recognizes the space. Environments with unstable lighting conditions are prone to hologram instability. If the light changes significantly, HoloLens might consider the space as a new environment and build a new map for it. Previously visible features might be invisible and features that weren’t visible might be visible. In addition, HoloLens doesn’t map very bright or dark areas well. 
+Lighting conditions have an impact on how HoloLens perceives the environment and recognizes the space. Environments with unstable lighting conditions are prone to hologram instability. If the light changes significantly, HoloLens might consider the space as a new environment and build a new map for it. Previously visible features might be invisible and features that weren’t visible might be visible. 
 
 ## Feature patterns
 
-HoloLens builds maps of its surroundings, and tracks its position and hologram position based on visible features in the environment. If the space in which HoloLens is operating has a low number of visible features (mostly white walls for example), or very repetitive patterns (textured surfaces), this will impact hologram position and stability as HoloLens won’t be able to properly identify and track uniquely specific points in the environment. 
+HoloLens builds maps of its surroundings, and tracks its position and hologram position based on visible features (high contrast point and corners) in the environment. If the space in which HoloLens is operating has a low number of visible features (mostly white walls for example), or very repetitive patterns (textured surfaces), this will impact hologram position and stability as HoloLens won’t be able to properly identify and track uniquely specific points in the environment.
 
 ## Device wear (HoloLens 1 only)
 
