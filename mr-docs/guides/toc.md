@@ -38,6 +38,7 @@
 ##### [Circular code anchor](pc-app-anchor-circular-code.md)
 ##### [Holographic anchor](pc-app-anchor-holographic.md)
 ##### [Change anchor type](pc-app-anchor-change-type.md)
+##### [Improve positional accuracy of holograms](pc-app-anchor-improve-hololens-accuracy.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
