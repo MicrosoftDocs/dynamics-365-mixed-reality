@@ -19,6 +19,13 @@ To maximize hologram position consistency so that the position of a hologram in 
 
 Microsoft research shows that different anchoring methods will give different results across users and devices. 
 
+> [!IMPORTANT]
+> In addition to the suggestions included in this article, make sure to review best practices for each type of anchor:
+>
+> - [Best practices for QR code anchors](pc-app-anchor-qr-code.md)
+> - [Best practices for circular code anchors](pc-app-anchor-circular-code.md)
+> - [Best practices for holographic anchors](pc-app-anchor-holographic.md)
+
 ## Holographic anchors
 
 Manually aligning holographic anchors with physical objects can be challenging and is doubly so for holographic anchors that use larger holograms. Even when following best practices, different users will position holograms in slightly different ways whenever they anchor the guide. This small variation can have a big impact on hologram position across the guide. 
