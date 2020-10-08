@@ -9,9 +9,9 @@ title: Things that can affect positional consistency when anchoring a guide with
 ms.reviewer: v-brycho
 ---
 
-# Things that can affect accuracy when anchoring a guide with the Dynamics 365 Guides PC app
+# Improve positional accuracy of holograms in Dynamics 365 Guides PC app
 
-This article describes various things that can affect accuracy when anchoring a guide with the Microsoft [Dynamics 365 Guides PC app](pc-app-anchor.md).
+This article describes several things that can do to improve positional accuracy of holograms in Microsoft Dynamics 365 Guides.
 
 > [!IMPORTANT]
 > In addition to the suggestions in this article, make sure to also review best practices for each type of anchor:
@@ -20,7 +20,7 @@ This article describes various things that can affect accuracy when anchoring a 
 > - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
 > - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
 
-## Eye calibration and Interpupillary Distance (IPD) setting
+## Calibrate the device to the operator's interpupillary distance (IPD)
 
 IPD is the distance between the center of the user's pupils. Because different users might have different IPDs, it's crucial that the appropriate IPD is set, so that HoloLens can adapt its display. An incorrect IPD setting can cause inaccurate perception of hologram position. 
 
@@ -28,7 +28,7 @@ IPD is the distance between the center of the user's pupils. Because different u
 
 - To calibrate IPD on HoloLens 1, use the HoloLens Calibration app.
 
-## Pre-scanning the environment
+## Pre-scan the environment
 
 HoloLens actively scans its environment for visible features to map its surroundings. This scan occurs whenever the device is turned on and an operator is signed in. It occurs whether you're in the HoloLens shell or running apps. HoloLens constantly improves the accuracy of these maps as it scans the environment from different viewpoints and stores the maps on the device. Holograms are placed in relation to these maps. The more accurate the map, the more accurate the hologram placement.
 
@@ -38,19 +38,19 @@ This process is called "pre-scanning" because it's done before running Dynamics 
 
 By looking around and air tapping, you will be able to see the reconstructed 3D map the device has already built, giving you the opportunity to identify areas that might lack mapping. You can clear the maps and all registered holograms from the device by going to **Settings** > **System** > **Holograms** > **Remove all holograms**.
 
-## Surface type
+## Avoid reflective, dark, or featureless surfaces
 
 Environments that include very reflective surfaces (mirrors), dark surfaces, or featureless surfaces (cleanrooms), negatively affect the ability of HoloLens to recognize the space. If HoloLens can't correctly recognize the space, hologram position and stability are affected in turn.
 
-## Lighting conditions
+## Avoid unstable lighting conditions
 
 Lighting conditions have an impact on how HoloLens perceives the environment and recognizes the space. Environments with unstable lighting conditions are prone to hologram instability. If the light changes significantly, HoloLens might consider the space as a new environment and build a new map for it. Previously visible features might be invisible and features that weren’t visible might be visible. 
 
-## Feature patterns
+## Choose environments with a high number of visible features
 
-HoloLens builds maps of its surroundings, and tracks its position and hologram position based on visible features (high contrast point and corners) in the environment. If the space in which HoloLens is operating has a low number of visible features (mostly white walls for example), or very repetitive patterns (textured surfaces), this will impact hologram position and stability as HoloLens won’t be able to properly identify and track uniquely specific points in the environment.
+HoloLens builds maps of its surroundings and tracks its position and hologram position based on visible features (high contrast point and corners) in the environment. If the space in which HoloLens is operating has a low number of visible features (mostly white walls for example), or very repetitive patterns (textured surfaces), this will impact hologram position and stability as HoloLens won’t be able to properly identify and track uniquely specific points in the environment.
 
-## Device wear (HoloLens 1 only)
+## Make sure to wear the device in a consistent way (HoloLens 1 only)
 
 HoloLens uses a novel display technology to project holograms in the operator's field of view. On HoloLens 1, the way that operators wear a device on their head has a huge impact on the perceived position of the holograms. The best way to understand this is to adjust the device positioning while aligning holograms to their physical counterparts in Dynamics 365 Guides. Notice how the alignment of holograms is affected when you shift the device left and right, up and down, or forward and backward. Operators should wear the device in a consistent way, and they should understand that subtle shifts in device positioning might not feel different but can cause significant changes in perceived hologram locations. On HoloLens 2, issues with device positioning are addressed through eye tracking.
 
