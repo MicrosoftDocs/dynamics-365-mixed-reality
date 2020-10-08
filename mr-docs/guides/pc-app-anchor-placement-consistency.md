@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about the importance of placement consistency when anchoring a guide with the Dynamics 365 Guides PC app
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 10/09/2020
 ms.service: crm-online
 ms.topic: article
 title: Consistency of placement and expectations when anchoring a guide in the Dynamics 365 Guides PC app
