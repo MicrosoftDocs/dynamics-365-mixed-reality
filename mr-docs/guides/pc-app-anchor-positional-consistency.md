@@ -1,15 +1,15 @@
 ---
 author: Mamaylya
-description: Learn about various factors that can affect positional consistency when anchoring a guide with the Dynamics 365 Guides PC app
+description: Learn about things you can do to improve positional accuracy of holograms in Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 10/09/2020
 ms.service: crm-online
 ms.topic: article
-title: Things that can affect positional consistency when anchoring a guide with the Dynamics 365 Guides PC app
+title: Improve positional accuracy of holograms in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Improve positional accuracy of holograms in Dynamics 365 Guides PC app
+# Improve positional accuracy of holograms in Dynamics 365 Guides
 
 This article describes several things that can do to improve positional accuracy of holograms in Microsoft Dynamics 365 Guides.
 
