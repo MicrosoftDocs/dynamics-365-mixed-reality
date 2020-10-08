@@ -22,7 +22,7 @@ Microsoft research shows that different anchoring methods will give different re
 > [!IMPORTANT]
 > In addition to the suggestions included in this article, make sure to review best practices for each type of anchor:
 >
-> - [Best practices for QR code anchors](pc-app-anchor-qr-code.md)
+> - [Best practices for QR code anchors](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors)
 > - [Best practices for circular code anchors](pc-app-anchor-circular-code.md)
 > - [Best practices for holographic anchors](pc-app-anchor-holographic.md)
 
