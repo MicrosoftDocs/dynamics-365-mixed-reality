@@ -42,23 +42,19 @@ During scanning, the position of the virtual reference frame and its orientation
 
 Because it's very challenging to always position the virtual reference frame the same way during the anchoring process, all anchor methods suffer from the "lever arm effect". Holograms that are close to the anchor will more likely be positioned consistently at the same location, while holograms that are further away can suffer from important position variability between scans. **For this reason, one of the most important guidelines for authors is to place holograms close to their anchor for best positional consistency.** 
 
-Based on positional consistency performances, anchor method ranking is as follows:
-
-1.	QR code anchor - Best
-
-2.	Circular code anchor - Good
-
-3.	Holographic anchor - OK
-
 The following summary table shows what can be expected on average.
 
-|Anchor method|Average hologram position variability when <1m away from the anchor location (when seen at arm's length)	|Average hologram position variability when <3m away from the anchor location (when seen at arm's length)|
+|Anchor method|Average hologram position variability when positioned <1m away from the anchor location (and seen at arm's length)	|Average hologram position variability when <3m away from the anchor location (when seen at arm's length)|
 |-----------------------|--------------------------------------------------|--------------------------------------------------|
 |QR code anchor|	5 to 10mm	|15 to 30mm|
 |Circular code anchor|10 to 15mm|	30 to 45mm|
 |Holographic anchor|	30mm	|90mm|
 
-If alignment consistency with real-world objects is important, don't place holograms more than 3m away from the anchor. If your scenario needs to cover large spaces, you might want to split your steps into different guides to maximize position consistency. If that’s not possible, or if your scenario requires greater positional consistency than shown in the table above, contact the Dynamics 365 Guides team so we can better understand your scenario and address your feedback in future releases. 
+- If alignment consistency with real-world objects is important, don't place holograms more than 3 meters away from the anchor. If your scenario needs to cover large spaces, you might want to split your steps into different guides to maximize position consistency. If that’s not possible, or if your scenario requires greater positional consistency than shown in the table above, contact the Dynamics 365 Guides team so we can better understand your scenario and address your feedback in future releases. 
+
+- A hologram's perceived position depends on the user’s view point. When an author places a hologram 1 meter in front of them, operators looking at this hologram from 3 meters might perceive it to be at a different location. As an author, to ensure consistency of hologram perceived position, make sure you are authoring the position from a viewpoint most likely to be used by your operators. 
+
+- When authoring, you're placing holograms in 3D space. Making sure the holograms are aligned with the expected target in terms of depth is crucial, as the smallest depth position variation can greatly impact the operator's perceived hologam position if viewed from a slightly different viewpoint. To ensure proper depth position, look at your hologram from the side and readjust if needed.  
 
 ## What's next?
 
