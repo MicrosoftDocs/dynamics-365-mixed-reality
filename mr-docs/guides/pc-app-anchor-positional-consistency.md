@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about various factors that can affect positional consistency when anchoring a guide with the Dynamics 365 Guides PC app
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 10/09/2020
 ms.service: crm-online
 ms.topic: article
 title: Things that can affect positional consistency when anchoring a guide with the Dynamics 365 Guides PC app
