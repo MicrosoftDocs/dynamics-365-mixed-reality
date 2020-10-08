@@ -13,6 +13,13 @@ ms.reviewer: v-brycho
 
 The following things can affect positional consistency when anchoring a guide with the Microsoft [Dynamics 365 Guides PC app](pc-app-anchor.md).
 
+> [!IMPORTANT]
+> In addition to the suggestions included in this article, make sure to review best practices for each type of anchor:
+>
+> - [Best practices for QR code anchors](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors)
+> - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
+> - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
+
 ## Eye calibration and Interpupillary Distance (IPD) setting
 
 IPD is the distance between the center of the user's pupils. Because different users might have different IPDs, it's crucial that the appropriate IPD is set, so that HoloLens can adapt its display. An incorrect IPD setting can cause inaccurate perception of hologram position. 
