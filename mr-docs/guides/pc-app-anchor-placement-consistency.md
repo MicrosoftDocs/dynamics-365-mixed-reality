@@ -9,15 +9,15 @@ title: Consistency of placement and expectations when anchoring a guide in the D
 ms.reviewer: v-brycho
 ---
 
-# Consistency of placement and expectations when anchoring a guide in the Dynamics 365 Guides PC app
+# Hologram accuracy for different types of anchors
 
-Since holograms are located relative to a virtual reference frame placed when an author or operator is positioning a holographic anchor or scanning a QR/circular code anchor, they inherit position errors and amplify orientation errors introduced in that process. The consistency of the virtual reference frame placement is key to keeping holograms consistently aligned to the same real-world objects across multiple alignments (users and/or devices). Any inconsistency greatly impacts the position of the holograms.
+Since holograms are located relative to a virtual reference frame placed when an author or operator is positioning a holographic anchor or scanning a QR/circular code anchor in Microsoft Dynamics 365 Guides, they can inherit position errors and amplify orientation errors introduced when positioning or scanning. The consistency of the virtual reference frame placement is key to keeping holograms consistently aligned to the same real-world objects across multiple alignments by different users on different devices. Any inconsistency greatly impacts the position of the holograms.
 
 A small position error will cause a consistent offset for all the holograms in a guide. A small orientation error is even worse; the hologram offset increases as the user moves away from the anchor (“lever-arm effect”). 
 
-To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, it’s very important to ensure that the virtual reference frame is consistently positioned and oriented in exactly the same way. **Make sure to follow the best practices for anchoring, depending on the anchor method that you use, and that you consistently place or scan the anchor the same way.** 
+To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, it’s very important to ensure that the virtual reference frame is consistently positioned and oriented exactly the same way. 
 
-Microsoft research shows that different anchoring methods will give different results across users and devices. 
+Microsoft research shows that different anchoring methods provide different results across users and devices. 
 
 > [!IMPORTANT]
 > In addition to the suggestions included in this article, make sure to review best practices for each type of anchor:
@@ -25,10 +25,12 @@ Microsoft research shows that different anchoring methods will give different re
 > - [Best practices for QR code anchors](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors)
 > - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
 > - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
+>
+> Also, make sure that you consistently place or scan the anchor the same way each time.
 
 ## Holographic anchors
 
-Manually aligning holographic anchors with physical objects can be challenging and is doubly so for holographic anchors that use larger holograms. Even when following best practices, different users will position holograms in slightly different ways whenever they anchor the guide. This small variation can have a big impact on hologram position across the guide. 
+Manually aligning holographic anchors with physical objects can be challenging especially for holographic anchors that use larger holograms. Even when following best practices, different users will position holograms in slightly different ways whenever they anchor the guide. This small variation can have a big impact on hologram position across the guide. 
 
 **For this reason, consider using holographic anchors when consistency of hologram position and alignment to real-world objects isn’t crucial (for example, for quick demos or virtual classroom training).**
 
@@ -36,11 +38,11 @@ Manually aligning holographic anchors with physical objects can be challenging a
 
 This anchor type relies on a printed physical marker that HoloLens recognizes by using different sets of sensors. 
 
-During scanning, the position of the virtual reference frame and its orientation can suffer a small amount of angular error, which is usually not visible to the eye. This small angular error might not be perceptible when looking at the green outline (which might seem perfectly aligned to the printed anchor) but will affect holograms that are positioned far away from the anchor. Still, QR and circular code anchors provide much better results than holographic anchors. **QR code anchors are recommended when consistency of hologram position and alignment to real world objects is crucial.**
+During scanning, the position of the virtual reference frame and its orientation can suffer a small amount of angular error, which is usually not visible to the eye. This small angular error might not be perceptible when looking at the green outline used during the scanning process (which might seem perfectly aligned to the printed anchor) but will affect holograms that are positioned far away from the anchor. However, QR and circular code anchors provide much more accurate results than holographic anchors. **QR code anchors are recommended when consistency of hologram position and alignment to real world objects is crucial.**
 
 ## Summary of positional consistency per anchor method
 
-Because it's very challenging to always position the virtual reference frame the same way during the anchoring process, all anchor methods suffer from the "lever arm effect". Holograms that are close to the anchor will more likely be positioned consistently at the same location, while holograms that are further away can suffer from important position variability between scans. **For this reason, one of the most important guidelines for authors is to place holograms close to their anchor for best positional consistency.** 
+Because it's very challenging to always position the virtual reference frame the same way during the anchoring process, all anchor methods suffer from the "lever arm effect". Holograms that are close to the anchor will more likely be positioned consistently at the same location, while holograms that are farther away can suffer from important position variability between scans. **For this reason, one of the most important guidelines for authors is to place holograms close to their anchor for best positional consistency.** 
 
 The following summary table shows what can be expected on average.
 
