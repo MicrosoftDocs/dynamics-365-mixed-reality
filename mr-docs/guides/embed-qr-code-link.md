@@ -26,12 +26,11 @@ or if you need a quick way for an operator to launch a guide when they don't hav
     - [https://www.qr-code-generator.com/](https://www.qr-code-generator.com/)
     
     - [https://www.the-qrcode-generator.com/](https://www.the-qrcode-generator.com/)
-
  
     > [!NOTE]
     > When you use any third-party QR code generator, the QR code generator receives access to the string of your guides link.
     
-3. Copy the link from step 1, paste it into the QR code.
+3. Copy the link from step 1 and paste it into the QR code.
 
 4. Download the QR code.
 
