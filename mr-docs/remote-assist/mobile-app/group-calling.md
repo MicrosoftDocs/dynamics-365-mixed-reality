@@ -107,4 +107,4 @@ No. They can only add mixed reality annotations in their own environment and rec
 
 ### How many customers can join a Dynamics 365 Remote Assist mobile group call? 
 
-Right now, there aren't any limitation to the number of participants in a group call. However, the more participants in a call, the more likely it is to have performace issues, feature degregation, or delays in viewing annotations. 
+Right now, there are no limitations to the number of participants in a group call. However, with a large number of participants, you may experience some performance issues, such as delays in viewing annotations.
