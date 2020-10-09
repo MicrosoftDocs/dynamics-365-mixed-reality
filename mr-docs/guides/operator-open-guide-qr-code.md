@@ -43,6 +43,6 @@ then look for the **Home** button at the bottom of the menu. If the **Start** me
  
     > [!NOTE]
     > When you open a guide by using a QR code with an embedded link, the guide is not automatically anchored. After you open the guide, you have to anchor it using the anchor
-    provided by the author of the guide. After you anchor your guide for the first time, it will remember it’s spatial position the next time you open it, however. 
+    provided by the author of the guide. After you anchor the guide for the first time, it will remember it’s spatial position the next time you open it, however. 
     If it remembers your anchor alignment, you will still need to confirm it is in the correct position. [Learn more about anchoring a guide](operator-anchor.md).
     
