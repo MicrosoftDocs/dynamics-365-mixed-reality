@@ -7,7 +7,7 @@ go to a specific step within a guide.
 
 An operator can access the QR code in two different ways:
 
-- **Printed QR code**. Operators can use a printed QR code to open a guide and anchor their holographic content at the same time. This makes it easy for operators to 
+- **Printed QR code**. Operators can use a printed QR code to open a guide and anchor the holographic content at the same time. This makes it easy for operators to 
 launch a guide quickly by gazing at a contextual printed QR code attached to the area where they need to do their work, and then anchor their holographic content 
 to the same QR code.
 
