@@ -19,7 +19,7 @@ or if you need a quick way for the operator to launch a guide when they don't ha
 
 Embedding a QR code link in a guide involves two steps:
 
-1. [Generate a guide link](pc-app-copy-link-guide-step.md). 
+1. [Create a guide link](pc-app-copy-link-guide-step.md). 
 
 2. Use a third-party QR code generator to embed the link in the QR code. Microsoft recommends the following third-party QR code generators:
 
