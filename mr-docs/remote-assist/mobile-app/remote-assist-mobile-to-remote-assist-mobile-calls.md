@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 
 Technicians using Dynamics 365 Remote Assist mobile can now call and collaborate with other Dynamics 365 Remote Assist mobile users! This opens up many new scenarios for technicians, including peer-to-peer collaboration with other technicians using Dynamics 365 Remote Assist mobile rather than Microsoft Teams desktop or mobile.
 
-A Dynamics 365 Remote Assist mobile user can join a one-to-one or group calls  with other Dynamics 365 Remote Assist mobile users. To answer this call on Dynamics 365 Remote Assist mobile, the technician receiving the invitation to join the call must have Teams mobile notifications disabled on their mobile device.
+A Dynamics 365 Remote Assist mobile user can join a one-to-one or group calls  with other Dynamics 365 Remote Assist mobile users. 
 
 > [!NOTE]
 > This guide documents a call between two Dynamics 365 Remote Assist mobile users; learn about group calls with at least three Dynamics 365 Remote Assist mobile users [here](group-calling.md).
@@ -68,7 +68,7 @@ A Dynamics 365 Remote Assist mobile user can join a one-to-one or group calls  w
 
 ## If remote collaborators (call receivers) have both Dynamics 365 Remote Assist mobile and Teams mobile installed on their devices, can they answer the call on Dynamics 365 Remote Assist mobile? 
 
-No, not at this time; they can only answer with Teams mobile. They can still place Mixed Reality annotations during the call. In order to answer a call with Dynamics 365 Remote Assist mobile, technicians can **only** have Dynamics 365 Remote Assist mobile installed on their devices. 
+If you receive an incoming call on a device with both Dynamics 365 Remote Assist and Teams mobile installed, the call will be received on Teams mobile, unless you turn off incoming call notifications from the Teams mobile app.
 
 > [!NOTE] 
 > When a Dynamics 365 Remote Assist mobile calls a remote collaborator and the remote collaborator answers on Teams mobile, the remote collaborator will have the same capabilities as they would if they answered on Dynamics 365 Remote Assist mobile, except that the remote collaborator cannot share their space.
