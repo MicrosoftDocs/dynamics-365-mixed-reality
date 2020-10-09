@@ -43,5 +43,5 @@ Embedding a QR code link in a guide includes three steps:
     
     - Print the QR code and attach it to a physical part in the real-world environment where the work takes place.
     
-> [!NOTE]
-> When creating a QR code with an embeedded link, make sure to follow [best practices for QR codes](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors).
+    > [!IMPORANT]
+    > When creating a printed QR code with an embedded link, make sure to follow [best practices for QR codes](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors).
