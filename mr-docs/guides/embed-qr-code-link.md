@@ -23,7 +23,7 @@ Embedding a QR code link in a guide involves two steps:
 
 2. Use a third-party QR code generator to embed the link in a QR code. Microsoft recommends the following third-party QR code generators:
 
-    - [https://goqr.me/](https://goqr.me/)    
+    - [http://goqr.me/](http://goqr.me/)    
     
     - [https://www.qr-code-generator.com/](https://www.qr-code-generator.com/)
     
