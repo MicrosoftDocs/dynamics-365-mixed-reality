@@ -20,7 +20,7 @@ then look for the **Home** button at the bottom of the menu. If the **Start** me
 
     SCREEN SHOT GOES HERE
     
-3. Wait for modal dialog box to appear.
+3. Wait for the modal dialog box to appear.
 
     SCREEN SHOT GOES HERE
     
