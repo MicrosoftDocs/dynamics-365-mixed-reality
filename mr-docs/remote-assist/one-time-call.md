@@ -3,7 +3,7 @@ title: Invite user to join one-time call
 author: sophiasysun
 description: Invite user to join one-time call
 ms.author: sopsun
-ms.date: 09/16/2020
+ms.date: 10/09/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -26,7 +26,7 @@ Any licensed Remote Assist user can use the Remote Assist web app via their desk
 
 ## Requirements  
 * [Set up your Dynamics environment](ra-webapp-install.md)
-* The agent must use the Remote Assist web app on a [compatible browser](https:/docs.microsoft.com/power-platform/admin/web-application-requirements)
+* The agent must use the Remote Assist web app on a [compatible browser](https://docs.microsoft.com/power-platform/admin/web-application-requirements)
 * Enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Remote Assist web app. Pop-ups will be used for authentication purposes.
 * The agent’s organization must [enable anonymous users to join Teams meeting](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
 * If an agent wants to manually admit a customer into the call, the agent’s organization must [configure their Teams meetings settings](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) such that **Everyone in your organization and federated organizations bypasses the lobby**, or enable **Everyone in your organization bypasses the lobby**.
