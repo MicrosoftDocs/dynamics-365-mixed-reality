@@ -12,4 +12,21 @@ to the same QR code.
 - **Digital QR code**. Operators can use a digital QR code to open a guide without anchoring the guide. In this case, authors must provide another 
 anchoring method for operators to align their holograms. Using a digital QR code is useful if you want to assign a guide to digital work instructions, 
 or if you need a quick way for the operator to launch a guide when they don't have access to a printed QR code.
+
+## Embed a QR code link in a guide
+
+Embedding a QR code link in a guide involves two steps:
+
+1. [Generate a guide link](pc-app-copy-link-guide-step.md). 
+
+2. Use a third-party QR code generator to embed the link in the QR code. Microsoft recommends the following third-party QR code generators:
+
+    - [https://goqr.me/](https://goqr.me/)    
+    
+    - [https://www.qr-code-generator.com/](https://www.qr-code-generator.com/)
+    
+    - [https://www.the-qrcode-generator.com/](https://www.the-qrcode-generator.com/)
+
  
+> [!NOTE]
+> When you use any third-party QR code generator, the QR code generator receives access to the string of your guides link.
