@@ -13,7 +13,7 @@ to the same QR code.
 
 - **Digital QR code**. Operators can use a digital QR code to open a guide without anchoring the guide. In this case, authors must provide another 
 anchoring method for operators to align their holograms. Using a digital QR code is useful if you want to assign a guide to digital work instructions, 
-or if you need a quick way for the operator to launch a guide when they don't have access to a printed QR code.
+or if you need a quick way for an operator to launch a guide when they don't have access to a printed QR code.
 
 ## Embed a link in a QR code
 
