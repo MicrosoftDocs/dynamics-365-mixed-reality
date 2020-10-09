@@ -107,4 +107,4 @@ No. They can only add mixed reality annotations in their own environment and rec
 
 ### How many customers can join a Dynamics 365 Remote Assist mobile group call? 
 
-Learn more about the number of participants that can join a Teams call [here](https://docs.microsoft.com/MicrosoftTeams/limits-specifications-teams#meetings-and-calls). However, with a large number of participants, you may experience some performance issues, such as delays in viewing annotations.
+Learn more about the number of participants that can join a Microsoft Teams adhoc call [here](https://docs.microsoft.com/MicrosoftTeams/limits-specifications-teams#meetings-and-calls). However, with a large number of participants, you may experience some performance issues, such as delays in viewing annotations.
