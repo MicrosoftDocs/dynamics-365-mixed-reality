@@ -33,7 +33,7 @@ or if you need a quick way for an operator to launch a guide when they don't hav
     
 3. Copy the link from step 1, paste it into the QR code.
 
-    4. Download the QR code.
+4. Download the QR code.
 
 5. Do one of the following:
 
