@@ -36,7 +36,7 @@ or if you need a quick way for an operator to launch a guide when they don't hav
 
 5. Do one of the following:
 
-    - Add the digital QR code to a digital document for an operator to use.
+    - Add the digital QR code to a digital document and then make the digital document available to the operator(s).
     
     - Print the QR code and attach it to a physical part in the real-world environment where the work takes place.
     
