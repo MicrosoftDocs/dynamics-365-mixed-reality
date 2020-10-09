@@ -39,7 +39,7 @@ Embedding a QR code link in a guide includes three steps:
 
 5. Do one of the following:
 
-    - Add the digital QR code to a digital document.
+    - Add the digital QR code to a digital document for an operator to use.
     
     - Print the QR code and attach it to a physical part in the real-world environment where the work takes place.
     
