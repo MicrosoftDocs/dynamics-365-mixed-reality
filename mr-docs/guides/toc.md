@@ -44,6 +44,7 @@
 #### [Create a branching (non-linear) guide](pc-app-branching.md)
 #### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
 #### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
+#### [Embed a link to a guide in a QR code](pc-app-anchor-embed-qr-code-link.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
 #### [Deactivate a guide](pc-app-deactivate-guide.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
@@ -66,6 +67,7 @@
 #### [HoloLens 1](operator-calibrate.md)
 #### [HoloLens 2](operator-calibrate-HL2.md)
 ### [Install the HoloLens app and sign in](install-sign-in-operator.md)
+### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
 ### Gestures for navigating a guide
 #### [HoloLens 1](operator-gestures.md)
 #### [HoloLens 2](operator-gestures-HL2.md)
