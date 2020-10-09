@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Open a guide in Dynamics 365 Guides by using a QR code (for operators)
 
-You can open a guide in Microsoft Dynamics 365 Guides by scanning a QR code from the Microsoft HoloLens **Home** menu. This can be a printed QR code or a digital QR code 
+You can open a guide in Microsoft Dynamics 365 Guides by scanning a QR code from the mixed reality home on HoloLens. This can be a printed QR code or a digital QR code 
 in a digital document. 
 
 > [!NOTE]
