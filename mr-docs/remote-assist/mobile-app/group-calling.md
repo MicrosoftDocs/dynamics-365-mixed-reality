@@ -3,7 +3,7 @@ title: Group calls with Dynamics 365 Remote Assist mobile
 author: xonatia
 description: Group calling with Dynamics 365 Remote Assist mobile, Microsoft Teams desktop, and Dynamics 365 Remote Assist on HoloLens users 
 ms.author: xolee
-ms.date: 10/01/2020
+ms.date: 10/09/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -104,3 +104,7 @@ Yes, but the Teams mobile user will not be able to add mixed reality annotations
 
 ### Can a Remote Assist HoloLens user annotate in another call participant's environment?
 No. They can only add mixed reality annotations in their own environment and receive mixed reality annotations from other users.
+
+### How many customers can join a Dynamics 365 Remote Assist mobile group call? 
+
+Learn more about the number of participants that can join a Microsoft Teams call [here](https://docs.microsoft.com/MicrosoftTeams/limits-specifications-teams#meetings-and-calls). However, with a large number of participants, you may experience some performance issues, such as delays in viewing annotations.
