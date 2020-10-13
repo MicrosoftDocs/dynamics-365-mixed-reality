@@ -270,7 +270,7 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
 
 7. In the **Image** field, select **Undefined**.
 
-    ![Creating a name and adding texture in the Material Editor](media/pixyz-name-texture.png "Creating a name and adding texture in the Material Editor")
+    ![Creating a name and adding texture in the Material Editor](media/pixyz-material-name-texture.png "Creating a name and adding texture in the Material Editor")
 
 8. In the **Texture Library** window, select the baked Diffuse texture map.
 
