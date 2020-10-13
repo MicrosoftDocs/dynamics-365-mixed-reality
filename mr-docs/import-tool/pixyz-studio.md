@@ -229,7 +229,7 @@ Normals and tangents are required for final model rendering as well as for the t
 
 After generating UVs and creating normals and tangents, you can bake the textures.
 
-1. Select a piece that already has UVs, normal, and tangents.
+1. Select a piece that already has UVs, normals, and tangents.
 
 2. Select **Optimize Mesh** > **Bake Texture Maps**.
 
