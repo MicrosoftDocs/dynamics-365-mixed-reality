@@ -29,7 +29,7 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
 
     ![Wizard button in toolbar](media/pixyz-import-tool.PNG "Wizard button in toolbar")
  
-2. In the **Import Wizard** dialog box, use the following settings (also shown in the screen shot above) to create a high-quality tessellation as a starting point:
+2. In the **Import Wizard** dialog box, use the following settings (also shown in the screen shot above) to create a high-quality [tessellation](https://en.wikipedia.org/wiki/Tessellation#:~:text=A%20tiling%20or%20tessellation%20of,tiling%20has%20a%20repeating%20pattern) as a starting point:
 
     |Field|Value|Sub-value|
     |------------------------------|--------------------------------------|----------------------|
@@ -93,7 +93,7 @@ If there are holes in any of the parts or assemblies that aren’t required for 
  
 4. Enter a number (in millimeters) for the **Max Diameter** field. Holes with a diameter below this value that match the types you set will be removed.
 
-5. Optionally, select the **Fill With Material** check box to select a material to fill holes that are removed to leave the appearance of a hole while still saving polygons.
+5. Optionally, select the **Fill With Material** check box to select a material to fill holes. This leaves the appearance of a hole but provides better performance due to reduced polygons.
 
 ## Hierarchy cleanup
 
@@ -122,11 +122,11 @@ At this point, consider whether you need to break up models into pieces to expor
 
 ## Optimize your model
 
-You can optimize your model by using the **Hidden Removal** command, **Decimate to Quality** command, or **Decimate to Target** command. Each command provides specific benefits.
+To fully optimize your model, use the **Hidden Removal**, **Decimate to Quality**, and **Decimate to Target** commands. You must use the **Hidden Removal** command, and then based on your scenario, use the **Decimate to Quality** and/or **Decimate to Target** commands. 
 
 ### Hidden Removal command
 
-You can use the **Hidden Removal** command to do a visibility test to determine which polygons can be removed without affecting the look of the model.
+Use the **Hidden Removal** command to do a visibility test to determine which polygons can be removed without affecting the look of the model.
 
 1.	Select **Optimize Mesh** > **Hidden Removal**.
 
@@ -144,7 +144,7 @@ You can use the **Hidden Removal** command to do a visibility test to determine 
 
 ### Decimate to Quality command
 
-Consider how each piece of the asset will be used in mixed reality:
+Use the **Decemate to Quality** command to reduce polygons based on a perceived quality target. Consider how each piece of the asset will be used in mixed reality:
 
 - Is it the focus of the mixed-reality experience?
 
@@ -186,9 +186,12 @@ If you have a specific polygon count that you’re aiming for, the **Decimate To
 > [!NOTE] 
 > If you don’t make any selection, the **Decimate to Target** command applies to the entire scene.
 
-## Reducing draw calls
+## Reducie draw calls
 
 In addition to reducing polygon count and hierarchy complexity, draw calls should be minimized to ensure good performance at runtime. Materials with different colors and surface qualities can be baked into texture maps so that complex objects can be rendered in a single draw call. You can do this by creating UVs, normals and tangents, baking texture maps, creating a new material based on the texture bakes, and finally, by applying the new material.
+
+> [!IMPORTANT]
+> You need to use all of the commands in this section to reduce draw calls.
 
 ### UV generation
 
@@ -196,7 +199,7 @@ In addition to reducing polygon count and hierarchy complexity, draw calls shoul
 
 2. Select **UVs** > **Generate UV By Unwrapping**.
 
-3. In the **Automatic UV Mapping** window, set the **Channel** field to **0**.
+3. In the **Automatic UV Mapping** window, set the **Channel** field to **0** (the primary UV set).
 
     ![Automatic UV Mapping dialog box showing Channel field](media/pixyz-uv-mapping.PNG "Automatic UV Mapping dialog box showing Channel field")
  
@@ -210,7 +213,7 @@ In addition to reducing polygon count and hierarchy complexity, draw calls shoul
 
 ### Create normals and tangents
 
-Normals and tangents are required for final model rendering as well as for the texture-baking process.
+Normals and tangents are required for final model rendering as well as for the texture-baking process. Do all of the following steps, in order, to create normals and tangents:
 
 1.	Select a piece that already has a UV layout.
 
@@ -245,7 +248,7 @@ After generating UVs and creating normals and tangents, you can bake the texture
 > [!NOTE] 
 > You can use a texture resolution of 1024 or 512 on simple objects to keep the runtime memory usage and final .GLB file size to a minimum.
 
-## Create and apply materials
+### Create and apply materials
 
 You need to apply baked texture maps to a Physically Based Rendering (PBR) material, which can then be applied to the asset for glTF-compliant rendering in mixed-reality apps.
 
