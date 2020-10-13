@@ -144,7 +144,7 @@ Use the **Hidden Removal** command to do a visibility test to determine which po
 
 ### Decimate to Quality command
 
-Use the **Decemate to Quality** command to reduce polygons based on a perceived quality target. Consider how each piece of the asset will be used in mixed reality:
+Use the **Decimate to Quality** command to reduce polygons based on a perceived quality target. Consider how each piece of the asset will be used in mixed reality:
 
 - Is it the focus of the mixed-reality experience?
 
