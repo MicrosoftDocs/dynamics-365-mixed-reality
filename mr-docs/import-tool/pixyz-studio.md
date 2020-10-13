@@ -45,6 +45,8 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
     |Material Assignment|Transfer CAD Materials On Parts|     
     
    ![Settings in the Import Wizard dialog box](media/pixyz-import-tool-settings.png "Settings in the Import Wizard dialog box")
+   
+   ![Settings in the Import Wizard dialog box](media/pixyz-import-tool-test.PNG "Settings in the Import Wizard dialog box")
     
 3. Select **Execute**.
 
