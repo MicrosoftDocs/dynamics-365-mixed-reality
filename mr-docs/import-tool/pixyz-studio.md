@@ -186,7 +186,7 @@ If you have a specific polygon count that you’re aiming for, the **Decimate To
 > [!NOTE] 
 > If you don’t make any selection, the **Decimate to Target** command applies to the entire scene.
 
-## Reducie draw calls
+## Reduce draw calls
 
 In addition to reducing polygon count and hierarchy complexity, draw calls should be minimized to ensure good performance at runtime. Materials with different colors and surface qualities can be baked into texture maps so that complex objects can be rendered in a single draw call. You can do this by creating UVs, normals and tangents, baking texture maps, creating a new material based on the texture bakes, and finally, by applying the new material.
 
@@ -256,27 +256,31 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
 
 2.	Select **Add**.
 
-3.	In the **Choose a material pattern** list, select **PBR**.
+3. In the **Choose a material pattern** list, select **PBR**.
 
-4.	Select **OK**.
+4. Select **OK**.
 
     ![Material Editor window showing Choose a mterial pattern list](media/pixyz-material-editor.PNG "Material Editor window showing Choose a mterial pattern list")
  
-5.	Enter a **Name** for the material.
+5. Enter a **Name** for the material.
+    
+6. Next to **albedo**, select the **Color** list and change it to **Texture**.
 
-    ![Material Editor showing options](media/pixyz-albedo.PNG "Material Editor showing options")
+7. In the **Image** field, select **Undefined**.
 
-6.	Next to **albedo**, select the **Color** list and change it to **Texture**.
+    ![Creating a name and adding texture in the Material Editor](media/pixyz-name-texture.PNG "Creating a name and adding texture in the Material Editor")
 
-7.	In the **Image** field, select **Undefined**.
+8. In the **Texture Library** window, select the baked Diffuse texture map.
 
-8.	In the **Texture Library** window, select the baked Diffuse texture map.
+9. Select the **Select** button to confirm the texture selection.
 
-9.	Select the **Select** button to confirm the texture selection.
+    ![Selecting Diffuse texture map in the Texture Libaray window](media/pixyz-select-diffuse.PNG "Selecting Diffuse texture map in the Texture Libaray window")
 
-10.	Repeat steps 6-9, as necessary, for any additional texture maps.
+10. Repeat steps 6-9, as necessary, for any additional texture maps.
 
 11.	Select **Save material** to add it to the material library of the scene.
+
+     ![Save Material button](media/pixyz-save-material.PNG "Save Material button")
 
 12.	Select **OK** to close the **Material Editor** window.
 
@@ -289,6 +293,8 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
 15.	In the **Material selector** window, select the new material.
 
 16.	Select **Apply**.
+
+     ![Apply button](media/pixyz-apply-material.PNG "Apply button")
 
 ## Export the model to a GLB file
 
