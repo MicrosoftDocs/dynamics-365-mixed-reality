@@ -43,7 +43,9 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
     ||Tessellation Quality, High|Max Sag: On, 0.1mm|
     |||Max Angle: On, 15 deg|
     |Material Assignment|Transfer CAD Materials On Parts|     
-
+    
+   ![Settings in the Import Wizard dialog box](media/pixyz-import-tool.png "Settings in the Import Wizard dialog box")
+    
 3. Select **Execute**.
 
 ## Scene cleanup
