@@ -27,7 +27,7 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
 
 1. Open Pixyz Studio, and then on the top-left side of the toolbar, select **Wizard** to start the Import wizard.
 
-    ![Wizard button in toolbar](media/pixyz-import-tool.PNG "Wizard button in toolbar")
+    ![Wizard button in toolbar](media/pixyz-import-tool-wizard.PNG "Wizard button in toolbar")
  
 2. In the **Import Wizard** dialog box, use the following settings to create a high-quality [tessellation](https://en.wikipedia.org/wiki/Tessellation#:~:text=A%20tiling%20or%20tessellation%20of,tiling%20has%20a%20repeating%20pattern) as a starting point:
 
