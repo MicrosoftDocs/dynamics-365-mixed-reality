@@ -33,28 +33,14 @@ The following illustration shows a model visualized in Autodesk Inventor and [!i
 
 ## Overall process for preparing 3D models
 
-Preparing CAD content for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps involves three main steps: 
+Preparing CAD content for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps involves two steps: 
 
-1.	**Convert 3D models** from their original geometric definition into one that supports real-time rasterization. This converts the models from parametric geometry into polygonal geometry.
+1.	[Convert 3D models](convert-models.md) from their original geometric definition into one that supports real-time rasterization. This converts the models from parametric geometry into polygonal geometry.
 
-2.	**Optimize the converted 3D models** to ensure the best possible performance in real-time applications.
-
-3.	**Use [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)]** to prepare the models for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps.
-
-The following illustration shows a more detailed view of this process.
-
-> [!div class="mx-imgBorder"]
-> ![Overall flow](media/overall-flow.PNG "Overall flow") 
-
-**A.**	Create 3D models using the CAD software of your choice.<br>
-**B.**	Convert CAD files to one of these file formats: GLB, glTF, FBX, OBJ, STL, PLY.<br>
-**C.**	Use the [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] to convert the 3D model to a GLB file locally. <br>
-**D.**	3D models are optimized and converted into the GLB format.<br>
-**E.**	3D models are ready to be imported into [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality applications.
+2.	[Optimize the converted 3D models](optimize-models.md) to ensure the best possible performance in real-time applications.
 
 ### See also
 [Convert 3D models](convert-models.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
-[Use Dynamics 365 Import Tool (Preview)](import-tool.md)
