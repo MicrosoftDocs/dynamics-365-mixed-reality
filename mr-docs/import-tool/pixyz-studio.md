@@ -288,7 +288,7 @@ You need to apply baked texture maps to a Physically Based Rendering (PBR) mater
 
 14.	On the **Inspector** tab, under **Occurrence Properties**, select the **No Material** button. (Ignore the materials in the **Occurrence Components** section.)
 
-   ![Material Editor showing Inspector tab](media/pixyz-inspector.png "Material Editor showing Inspector tab")
+    ![Material Editor showing Inspector tab](media/pixyz-inspector.png "Material Editor showing Inspector tab")
  
 15.	In the **Material selector** window, select the new material.
 
