@@ -51,6 +51,6 @@ The following table lists some general conservative targets to aim for when acqu
 > Transparency in materials such as glass in 3D models is not supported.
 
 ### See also
-[Overview of converting 3D models for use in Dynamics 365 mixed-reality applications<br>
+[Overview of preparing 3D models](index.md)<br>
 [Convert 3D models](convert-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
