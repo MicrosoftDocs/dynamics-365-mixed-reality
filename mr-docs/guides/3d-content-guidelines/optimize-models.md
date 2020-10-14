@@ -9,9 +9,9 @@ title: Optimize your 3D models to use with Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
 ---
 
-# Optimize your 3D models to use with Dynamics 365 mixed-reality applications
+# Optimize your 3D models to use with Dynamics 365 Guides or in Power Apps mixed-reality components
 
-For best rendering and best possible real-time performance, your 3D models need to be converted and might need to be optimized before using with Dynamics 365 mixed-reality applications, such as Dynamics 365 Guides. Third-party applications that convert CAD files often have tools that can optimize content as well. 
+For best rendering and best possible real-time performance, your 3D models need to be converted and might need to be optimized before using with Dynamics 365 Guides or in an app created with Power Apps that includes mixed-reality components. Third-party applications that convert CAD files often have tools that can optimize content as well. 
 
 The following table lists software tools that you can use to convert and/or optimize your CAD files or intermediate files and export them as a supported file format. Your use of third-party applications is subject to terms between you and the third party. [!include[cc-microsoft](../../includes/cc-microsoft.md)] does not endorse any particular third-party application and assumes no responsibility or liability for any third-party application you elect to use.
 
@@ -37,7 +37,7 @@ Here are examples of CAD, converted, and optimized 3D models.<br></br>
 
 ## Performance targets
 
-[!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality applications can be used on [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-hololens](../../includes/pn-hololens.md)], immersive headsets, and mobile devices. The goal is to provide the highest possible visual fidelity without adversely affecting performance. 
+Dynamics 365 Guides and mixed-reality components in Power Apps can be used on [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-hololens](../../includes/pn-hololens.md)] and mobile devices. The goal is to provide the highest possible visual fidelity without adversely affecting performance. 
 
 The following table lists some general conservative targets to aim for when acquiring or authoring 3D models for a range of hardware. When in doubt, target the midrange profile for a balance of fidelity and performance. 
 
