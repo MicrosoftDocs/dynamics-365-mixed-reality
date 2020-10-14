@@ -32,7 +32,7 @@ Your use of third-party applications is subject to terms between you and the thi
 In situations where a CAD application doesn’t have an export option for FBX, OBJ, GLB, PLY, STL, or glTF, you can export an intermediate file, such as [JT](https://aka.ms/Jtfileformat) or [STEP](https://aka.ms/STEPfileformat), and then process that file to create a glTF file. 
 
 ### See also
-[Overview of preparing 3D models for use in Dynamics 365 Guides or Power Apps mixed-reality components](index.md)<br>
+[Overview of preparing 3D models](index.md)<br>
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
