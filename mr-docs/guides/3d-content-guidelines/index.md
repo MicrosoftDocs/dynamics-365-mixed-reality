@@ -9,7 +9,7 @@ title: Overview of preparing 3D models for Dynamics 365 mixed-reality applicatio
 ms.reviewer: v-brycho
 ---
 
-# Overview of preparing 3D models for Dynamics 365 Guides or for creating apps with mixed-reality components in Power Apps
+# Overview of preparing 3D models for Dynamics 365 Guides or for mixed-reality components in Power Apps
 
 If you're using [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality apps or creating apps with mixed-reality components in Power Apps, you might want to import your own 3D models. This article shows you how to prepare your 3D models by using a combination of third-party tools.
 
