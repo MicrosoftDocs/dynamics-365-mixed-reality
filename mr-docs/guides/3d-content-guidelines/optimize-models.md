@@ -37,7 +37,7 @@ Here are examples of CAD, converted, and optimized 3D models.<br></br>
 
 ## Performance targets
 
-Dynamics 365 Guides and mixed-reality components in Power Apps can be used on [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-hololens](../../includes/pn-hololens.md)] and mobile devices. The goal is to provide the highest possible visual fidelity without adversely affecting performance. 
+Dynamics 365 Guides is used on [!include[cc-microsoft](../../includes/cc-microsoft.md)] [!include[pn-hololens](../../includes/pn-hololens.md)]. Power Apps mixed-reality components can be used on any [ARCore-capable device](https://developers.google.com/ar/discover/supported-devices) and [certain Apple iOS devices](https://www.apple.com/augmented-reality/). The goal is to provide the highest possible visual fidelity without adversely affecting performance. 
 
 The following table lists some general conservative targets to aim for when acquiring or authoring 3D models for a range of hardware. When in doubt, target the midrange profile for a balance of fidelity and performance. 
 
