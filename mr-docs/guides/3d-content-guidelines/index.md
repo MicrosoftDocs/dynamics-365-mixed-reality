@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 If you're using [!include[cc-microsoft](../../includes/cc-microsoft.md)] Dynamics 365 Guides, or creating apps with mixed-reality components in Power Apps, you might want to import your own 3D models for use as holograms. This article shows you how to prepare your 3D models by using a combination of third-party tools.
 
 ## glTF and GLB file formats
-All geometry in [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality apps uses the Khronos Group glTF file format. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
+Dynamics 365 Guides and Power Apps uses the Khronos Group glTF file format for mixed reality. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
 
 > [!TIP]
 > The Khronos Group provides a robust overview of best practices: [Art Pipeline for glTF](https://aka.ms/glTFbestpractices).
@@ -32,7 +32,7 @@ The following illustration shows a model visualized in Autodesk Inventor and [!i
 
 ## Overall process for preparing 3D models
 
-Preparing CAD content for [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality apps involves two main steps: 
+Preparing CAD content for [!include[pn-dyn-365](../../includes/pn-dyn-365.md)] mixed-reality apps involves two steps: 
 
 1.	[**Convert 3D models**](convert-models.md) from their original geometric definition into one that supports real-time rasterization. This converts the models from parametric geometry into polygonal geometry.
 
