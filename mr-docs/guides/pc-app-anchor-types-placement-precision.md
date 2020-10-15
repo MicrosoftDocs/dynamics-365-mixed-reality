@@ -61,7 +61,7 @@ The following summary table shows what can be expected on average.
 
 If alignment consistency with real-world objects is important, don't place holograms more than 3 meters away from the anchor. If your scenario needs to cover large spaces, you might want to split your steps into different guides to maximize position consistency. If that’s not possible, or if your scenario requires greater positional consistency than shown in the table above, contact the Dynamics 365 Guides team so we can better understand your scenario and address your feedback in future releases. 
 
-## Authoring from the operator's point of view
+## Author from the operator's point of view
 
 A hologram's perceived position depends on the user’s view point. When an author places a hologram 1 meter in front of them, operators looking at this hologram from 3 meters might perceive it to be at a different location. As an author, to ensure consistency of hologram perceived position, make sure you are authoring from a viewpoint most likely to be used by your operators. 
 
