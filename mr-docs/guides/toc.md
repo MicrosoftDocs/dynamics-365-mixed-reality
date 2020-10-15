@@ -39,7 +39,7 @@
 ##### [Holographic anchor](pc-app-anchor-holographic.md)
 ##### [Change anchor type](pc-app-anchor-change-type.md)
 ##### [Improve positional precision of holograms](pc-app-anchor-improve-hologram-precision.md)
-##### [Anchor types/placement and their effect on hologram precision](pc-app-anchor-type-placement.md)
+##### [Anchor types/placement and their effect on hologram precision](pc-app-anchor-types-placement-precision.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
