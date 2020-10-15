@@ -60,7 +60,7 @@ Use the following table to find more information on anchoring.
 |Area|Link|
 |----------------------|------------------------------------------------------------------|
 |Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
-|Anchoring precision|[Learn about consistency of placement and expectations](pc-app-anchor-placement-consistency.md)|
+|Anchoring precision|[Anchor types and placement, and their effect on hologram precision](pc-app-anchor-improve-hologram-accuracy.md)|
 |Creating types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
