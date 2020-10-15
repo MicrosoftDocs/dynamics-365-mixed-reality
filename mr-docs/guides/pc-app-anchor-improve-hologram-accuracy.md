@@ -30,13 +30,14 @@ IPD is the distance between the center of the user's pupils. Because different u
 
 ## Pre-scan the environment
 
-HoloLens actively scans its environment for visible features to map its surroundings. This scan occurs whenever the device is turned on and an operator is signed in. It occurs whether you're in the HoloLens shell or running apps. HoloLens constantly improves the accuracy of these maps as it scans the environment from different viewpoints and stores the maps on the device. Holograms are placed in relation to these maps. The more accurate the map, the more accurate the hologram placement.
+HoloLens actively scans its environment for visible features to map its surroundings. This scan occurs whenever the device is turned on and a user is signed in. It occurs whether the user is in the HoloLens shell or running apps. HoloLens constantly improves the accuracy of these maps as it scans the environment from different viewpoints and stores the maps on the device. Holograms are placed in relation to these maps. The more accurate the map, the more accurate the hologram placement.
 
-Before using Dynamics 365 Guides on a HoloLens that hasn't been used in a particular environment, have the operator put on the HoloLens, sign in to the device, and walk around the space where hologram instructions have been placed or will be placed. Although the operator can do this step from the HoloLens shell, we recommend hiding the **Start** menu, so the operator can see the space as they walk around. By walking at a leisurely pace while slowly looking up and down, the operator gives the device an opportunity to find features and construct accurate maps.
+Before an operator uses Dynamics 365 Guides on a HoloLens that hasn't been used in a particular environment, it's helpful for the author to put on the HoloLens, sign in to the device, and walk around the space where hologram instructions have been placed or will be placed. This process is called "pre-scanning" because it's done before running Dynamics 365 Guides. You only need to complete this process once for each environment, because HoloLens stores the maps that it creates on the device and remembers the spaces that it has scanned. 
 
-This process is called "pre-scanning" because it's done before running Dynamics 365 Guides. You only need to complete this process once for each environment, because HoloLens stores the maps that it creates on the device and remembers the spaces that it has scanned. 
+Although the author can do this step from the HoloLens shell, we recommend hiding the **Start** menu, so the author can see the space as they walk around. Walking at a leisurely pace while slowly looking up and down and air tapping gives the device an opportunity to find features and construct accurate maps. The author can see the reconstructed 3D map the device has already built and identify areas that might lack mapping. 
 
-By looking around and air tapping, you will be able to see the reconstructed 3D map the device has already built, giving you the opportunity to identify areas that might lack mapping. You can clear the maps and all registered holograms from the device by going to **Settings** > **System** > **Holograms** > **Remove all holograms**.
+> [!NOTE] 
+> To clear the maps and all registered holograms from the device, go to **Settings** > **System** > **Holograms** > **Remove all holograms**.
 
 ## Avoid reflective, dark, or featureless surfaces
 
