@@ -15,9 +15,17 @@ Since holograms are located relative to a virtual reference frame which is place
 
 A small position error will cause a consistent offset for all the holograms in a guide. A small orientation error is even worse; the hologram offset increases as the user moves away from the anchor (known as the “lever-arm effect”). 
 
-To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, it’s very important to ensure that the virtual reference frame is consistently positioned and oriented exactly the same way. 
+To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, when possible:
 
-Microsoft research also shows that different anchoring methods provide different results across users and devices. 
+- Use QR or circular codes instead of holographic anchors
+
+- Position holograms close to the anchor (not more than 3 meters away)
+
+- Author from the viewpoint most likely to be used by your operators
+
+- Look at the hologram from the side to avoid depth position variation
+
+Each of these suggestions is covered in more depth below in this article. 
 
 > [!IMPORTANT]
 > In addition to the suggestions included in this article, make sure to review best practices for each type of anchor:
@@ -25,8 +33,6 @@ Microsoft research also shows that different anchoring methods provide different
 > - [Best practices for QR code anchors](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors)
 > - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
 > - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
->
-> Also, make sure that you consistently place or scan the anchor the same way each time.
 
 ## QR and circular code anchors
 
@@ -40,7 +46,7 @@ Manually aligning holographic anchors with physical objects can be challenging e
 
 **For this reason, consider using holographic anchors when consistency of hologram position and alignment to real-world objects isn’t crucial (for example, for quick demos or virtual classroom training).**
 
-## Summary of positional consistency per anchor method
+## Placement of holograms in proximity to the anchor
 
 Because it's very challenging to always position the virtual reference frame the same way during the anchoring process, all anchor methods suffer from the "lever arm effect". Holograms that are close to the anchor will more likely be positioned consistently at the same location, while holograms that are farther away can suffer from important position variability between scans. **For this reason, one of the most important guidelines for authors is to place holograms close to their anchor for best positional consistency.** 
 
@@ -54,9 +60,9 @@ The following summary table shows what can be expected on average.
 
 - If alignment consistency with real-world objects is important, don't place holograms more than 3 meters away from the anchor. If your scenario needs to cover large spaces, you might want to split your steps into different guides to maximize position consistency. If that’s not possible, or if your scenario requires greater positional consistency than shown in the table above, contact the Dynamics 365 Guides team so we can better understand your scenario and address your feedback in future releases. 
 
-- A hologram's perceived position depends on the user’s view point. When an author places a hologram 1 meter in front of them, operators looking at this hologram from 3 meters might perceive it to be at a different location. As an author, to ensure consistency of hologram perceived position, make sure you are authoring the position from a viewpoint most likely to be used by your operators. 
+- A hologram's perceived position depends on the user’s view point. When an author places a hologram 1 meter in front of them, operators looking at this hologram from 3 meters might perceive it to be at a different location. As an author, to ensure consistency of hologram perceived position, make sure you are authoring from a viewpoint most likely to be used by your operators. 
 
-- When authoring, you're placing holograms in 3D space. Making sure the holograms are aligned with the expected target in terms of depth is crucial, as the smallest depth position variation can greatly impact the operator's perceived hologam position if viewed from a slightly different viewpoint. To ensure proper depth position, look at your hologram from the side and readjust if needed.  
+- When authoring, you're placing holograms in 3D space. Making sure the holograms are aligned with the expected target in terms of depth is crucial, as the smallest depth position variation can greatly impact the operator's perceived hologram position if viewed from a slightly different viewpoint. To ensure proper depth position, look at your hologram from the side and readjust if needed.  
 
 ## What's next?
 
