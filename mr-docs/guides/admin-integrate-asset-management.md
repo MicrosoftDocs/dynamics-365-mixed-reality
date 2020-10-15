@@ -19,9 +19,9 @@ You can integrate Microsoft Dynamics 365 Supply Chain Management with Dynamics 3
 
 ## Production processes
 
-You can integrate production processes from Supply Chain Management so first-line workers can benefit from mixed-reality guides in various areas of their work, including: assembly, service, operations, certification, and safety.
+When you integrate production processes from Supply Chain Management, first-line workers can benefit from mixed-reality guides in various areas of their work, such as assembly, service, operations, certification, and safety.
 
-You can attach guides to various aspects of production control, including:
+You can attach guides to various aspects of production control. Here are some examples:
 
 - [Resources](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#resources)
 
@@ -43,11 +43,11 @@ You can attach guides to various aspects of production control, including:
 
 - [Route operation relations](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#route-operation-relations)
 
-When a first-line worker chooses a job on the shop floor through Supply Chain Management, the worker can see [the relevant guides](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic) on the job card. When the worker chooses a specific guide, a QR code for that guide is shown on the screen. The worker then uses their HoloLens to scan the QR code, which launches Dynamics 365 Guides and shows the required instructions. 
+When a first-line worker selects a job on the shop floor through Supply Chain Management, the job card shows [the relevant guides](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic). When the worker selects a specific guide, a QR code for that guide is shown. The worker can then use their HoloLens to scan the QR code. At that point, Dynamics 365 Guides is opened and shows the required instructions. 
 
-![Screen shot of QR code used to open a guide from Dynamics 365 Supply Chain Management](media/scm-integration-qr-code-scan.PNG "Screen shot of QR code used to open a guide from Dynamics 365 Supply Chain Management")
+![QR code used to open a guide from Supply Chain Management](media/scm-integration-qr-code-scan.PNG "QR code used to open a guide from Supply Chain Management")
  
-[Learn more about integrating Dynamics 365 Guides with various aspects of production control](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic)
+[Learn more about how to integrate Dynamics 365 Guides with various aspects of production control](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic).
 
 ## Asset management
 
@@ -55,7 +55,7 @@ You can integrate the **Asset Management** module in Supply Chain Management wit
 
 ![Integrated Asset Management guide](media/asset-management-integration.JPG "Integrated Asset Management guide")
 
-[Learn more about integrating asset management with Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/asset-management-guides-integration)
+[Learn more about how to integrate asset management with Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/asset-management-guides-integration).
 
 ## See also
 
