@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Learn about things you can do to improve positional accuracy of holograms in Dynamics 365 Guides
+description: Learn about things you can do to improve positional precision of holograms in Dynamics 365 Guides
 ms.author: mamaylya
 ms.date: 10/09/2020
 ms.service: crm-online
@@ -9,9 +9,9 @@ title: Improve positional accuracy of holograms in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Improve positional accuracy of holograms in Dynamics 365 Guides
+# Improve positional precision of holograms in Dynamics 365 Guides
 
-This article describes several things that can do to improve positional accuracy of holograms in Microsoft Dynamics 365 Guides.
+This article describes several things that can do to improve positional precision of holograms in Microsoft Dynamics 365 Guides.
 
 > [!IMPORTANT]
 > In addition to the suggestions in this article, make sure to also review best practices for each type of anchor:
@@ -62,7 +62,7 @@ Use the following table to find more information on anchoring.
 |Area|Link|
 |----------------------|------------------------------------------------------------------|
 |Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
-|Anchoring accuracy|[Learn about consistency of placement and expectations](pc-app-anchor-placement-consistency.md)|
+|Anchoring precision|[Learn about consistency of placement and expectations](pc-app-anchor-placement-consistency.md)|
 |Creating types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
