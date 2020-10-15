@@ -43,7 +43,7 @@ You can attach guides to various aspects of production control, including:
 
 - [Route operation relations](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#route-operation-relations)
 
-When a first-line worker chooses a job on the shop floor through Supply Chain Management, the worker can see [the relevant guides](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic) on the job card. When the worker chooses a specific guide, a QR code for that guide is shown on the screen. The worker then uses their HoloLens to scan the QR code, which launches Dyanmics 365 Guides and shows the required instructions. 
+When a first-line worker chooses a job on the shop floor through Supply Chain Management, the worker can see [the relevant guides](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic) on the job card. When the worker chooses a specific guide, a QR code for that guide is shown on the screen. The worker then uses their HoloLens to scan the QR code, which launches Dynamics 365 Guides and shows the required instructions. 
 
 ![Screen shot of QR code used to open a guide from Dynamics 365 Supply Chain Management](media/scm-integration-qr-code-scan.PNG "Screen shot of QR code used to open a guide from Dynamics 365 Supply Chain Management")
  
