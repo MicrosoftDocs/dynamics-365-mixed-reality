@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Improve positional precision of holograms in Dynamics 365 Guides
 
-This article describes several things that can do to improve positional precision of holograms in Microsoft Dynamics 365 Guides.
+This article describes several things that you can do to improve positional precision of holograms in Microsoft Dynamics 365 Guides.
 
 > [!IMPORTANT]
 > In addition to the suggestions in this article, make sure to also review the following articles:
