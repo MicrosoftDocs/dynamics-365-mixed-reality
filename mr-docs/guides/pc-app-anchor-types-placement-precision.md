@@ -19,7 +19,7 @@ To maximize hologram position consistency so that the position of a hologram in 
 
 - Use QR or circular code anchors instead of holographic anchors
 
-- Position holograms close to the anchor (not more than 3 meters away)
+- Place holograms close to the anchor (not more than 3 meters away)
 
 - Author from the viewpoint most likely to be used by your operators
 
