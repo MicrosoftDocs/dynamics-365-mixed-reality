@@ -25,7 +25,7 @@ To maximize hologram position consistency so that the position of a hologram in 
 
 - Look at the hologram from the side to avoid depth position variation
 
-Each of these suggestions is covered in more depth below in this article. 
+Each of these suggestions is covered in more detail in this article. 
 
 > [!IMPORTANT]
 > In addition to the suggestions included in this article, make sure to review best practices for each type of anchor:
