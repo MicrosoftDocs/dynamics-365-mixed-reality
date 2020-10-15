@@ -41,7 +41,7 @@ During scanning, the position and orientation can suffer a small amount of angul
 
 ## Holographic anchors
 
-Manually aligning holographic anchors with physical objects can be challenging especially for holographic anchors that use larger holograms. Even when following best practices, different users will position holograms in slightly different ways whenever they anchor the guide. This small variation can have a big impact on hologram position across the guide. 
+Manually aligning holographic anchors with physical objects can be challenging, especially for holographic anchors that use larger holograms. Even when following best practices, different users will position holograms in slightly different ways whenever they anchor the guide. This small variation can have a big impact on hologram position across the guide. 
 
 **For this reason, consider using holographic anchors when consistency of hologram position and alignment to real-world objects isn’t crucial (for example, for quick demos or virtual classroom training).**
 
