@@ -30,7 +30,7 @@ Each of these suggestions is covered in more detail in this article.
 > [!IMPORTANT]
 > In addition to the suggestions included in this article, make sure to review the following articles:
 >
-> - [Anchor types/placement and their effect on positional precision of holograms](pc-app-anchor-types-placement-precision.md)
+> - [Improve positional precision of holograms](pc-app-anchor-improve-hologram-precision.md)
 > - [Best practices for QR code anchors](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors)
 > - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
 > - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
