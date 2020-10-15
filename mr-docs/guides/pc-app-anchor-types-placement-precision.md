@@ -47,7 +47,7 @@ Manually aligning holographic anchors with physical objects can be challenging, 
 
 ## Placement of holograms in proximity to the anchor
 
-Because it's very challenging to always have the exact same position and orientation, all anchor methods suffer from the "lever arm effect". Holograms that are close to the anchor will more likely be positioned consistently at the same location, while holograms that are farther away can suffer from important position variability between scans. **For this reason, one of the most important guidelines for authors is to place holograms close to their anchor for best positional consistency.** 
+Because it's very challenging to always maintain the exact same position and orientation, all anchor methods suffer from the "lever arm effect". Holograms that are close to the anchor will more likely be positioned consistently at the same location, while holograms that are farther away can suffer from important position variability between scans. **For this reason, one of the most important guidelines for authors is to place holograms close to their anchor for best positional consistency.** 
 
 The following summary table shows what can be expected on average.
 
