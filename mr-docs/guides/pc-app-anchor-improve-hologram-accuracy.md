@@ -24,9 +24,7 @@ This article describes several things that can do to improve positional precisio
 
 IPD is the distance between the center of the user's pupils. Because different users might have different IPDs, it's crucial that the appropriate IPD is set, so that HoloLens can adapt its display. An incorrect IPD setting can cause inaccurate perception of hologram position. 
 
-- To calibrate device eye-tracking and IPD on HoloLens 2, make sure to use the eye calibration app when prompted. This will not only calibrate IPD but will also enable HoloLens 2 to auto-correct hologram position in case the device moves on the operator's head. You can also [manually calibrate the device at any time](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/operator-calibrate-hl2).
-
-- To calibrate IPD on HoloLens 1, use the HoloLens Calibration app.
+To calibrate device eye-tracking and IPD on HoloLens 2, make sure to use the eye calibration app when prompted. This will not only calibrate IPD but will also enable HoloLens 2 to auto-correct hologram position in case the device moves on the operator's head. You can also [manually calibrate the device at any time](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/operator-calibrate-hl2) on HoloLens 1 or HoloLens 2.
 
 ## Pre-scan the environment
 
