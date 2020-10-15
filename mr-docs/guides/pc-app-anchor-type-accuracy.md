@@ -1,17 +1,17 @@
 ---
 author: Mamaylya
-description: Learn about different anchor types and their effect on hologram precision in Dynamics 365 Guides. 
+description: Learn about different anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides. 
 ms.author: mamaylya
 ms.date: 10/09/2020
 ms.service: crm-online
 ms.topic: article
-title: Anchor types and their effect on hologram precision in Dynamics 365 Guides
+title: Anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Anchor types and their effect on hologram precision in Dynamics 365 Guides
+# Anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides
 
-Since holograms are located relative to a virtual reference frame placed when an author or operator is scanning a QR/circular code anchor or positioning a holographic anchor in Microsoft Dynamics 365 Guides, they can inherit position (right to left, or up and down) errors and amplify orientation (rotation) errors introduced when positioning or scanning. The consistency of the virtual reference frame placement is key to keeping holograms consistently aligned to the same real-world objects across multiple alignments by different users on different devices. Any inconsistency greatly impacts the position of the holograms.
+Since holograms are located relative to a virtual reference frame which is placed when an author or operator scans a QR/circular code anchor or positions a holographic anchor in Microsoft Dynamics 365 Guides, they can inherit position errors and amplify orientation (rotation) errors introduced when positioning or scanning. The consistency of the virtual reference frame placement is key to keeping holograms consistently aligned to the same real-world objects across multiple alignments by different users on different devices. Any inconsistency greatly impacts the position of the holograms.
 
 A small position error will cause a consistent offset for all the holograms in a guide. A small orientation error is even worse; the hologram offset increases as the user moves away from the anchor (known as the “lever-arm effect”). 
 
@@ -28,17 +28,17 @@ Microsoft research also shows that different anchoring methods provide different
 >
 > Also, make sure that you consistently place or scan the anchor the same way each time.
 
-## Holographic anchors
-
-Manually aligning holographic anchors with physical objects can be challenging especially for holographic anchors that use larger holograms. Even when following best practices, different users will position holograms in slightly different ways whenever they anchor the guide. This small variation can have a big impact on hologram position across the guide. 
-
-**For this reason, consider using holographic anchors when consistency of hologram position and alignment to real-world objects isn’t crucial (for example, for quick demos or virtual classroom training).**
-
 ## QR and circular code anchors
 
 This anchor type relies on a printed physical marker that HoloLens recognizes by using different sets of sensors. 
 
 During scanning, the position of the virtual reference frame and its orientation can suffer a small amount of angular error, which is usually not visible to the eye. This small angular error might not be perceptible when looking at the green outline used during the scanning process (which might seem perfectly aligned to the printed anchor) but will affect holograms that are positioned far away from the anchor. However, QR and circular code anchors provide much more accurate results than holographic anchors. **QR code anchors are recommended when consistency of hologram position and alignment to real world objects is crucial.**
+
+## Holographic anchors
+
+Manually aligning holographic anchors with physical objects can be challenging especially for holographic anchors that use larger holograms. Even when following best practices, different users will position holograms in slightly different ways whenever they anchor the guide. This small variation can have a big impact on hologram position across the guide. 
+
+**For this reason, consider using holographic anchors when consistency of hologram position and alignment to real-world objects isn’t crucial (for example, for quick demos or virtual classroom training).**
 
 ## Summary of positional consistency per anchor method
 
