@@ -15,7 +15,7 @@
 ### [Join a meeting](join-meeting-hololens.md)
 ### [Adjust what you see](adjust-what-you-see-hololens.md)
 ### [Add annotations](add-annotations-hololens.md)
-### [Take a snapshot (and save it to a Dynamics 365 Field Service booking)](take-snapshot-save-booking-hololens.md)
+### [Take a photo (and save it to a Dynamics 365 Field Service booking)](take-snapshot-save-booking-hololens.md)
 ### [File sharing and saving](display-save-files.md)
 ### [Capture asset conditions on Hololens](asset-capture-photos.md)
 ### [Record calls](record-calls-hololens.md)
@@ -31,10 +31,10 @@
 ### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
 ### Make calls
 #### [Overview](mobile-app/making-calls-on-remote-assist-mobile.md)
-#### [Calls between Dynamics 365 Remote Assist mobile users (preview)](mobile-app/remote-assist-mobile-to-remote-assist-mobile-calls.md)
+#### [Calls between Dynamics 365 Remote Assist mobile users](mobile-app/remote-assist-mobile-to-remote-assist-mobile-calls.md)
 #### [Calls between Dynamics 365 Remote Assist mobile & Microsoft Teams users](mobile-app/remote-assist-mobile-to-teams-calls.md)
-#### [Group calls with Dynamics 365 Remote Assist mobile (preview)](mobile-app/group-calling.md)
-#### [Calls using a mobile device without AR support (preview)](mobile-app/calls-using-devices-without-AR.md)
+#### [Group calls with Dynamics 365 Remote Assist mobile](mobile-app/group-calling.md)
+#### [Calls using a mobile device without AR support](mobile-app/calls-using-devices-without-AR.md)
 ### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
@@ -63,9 +63,9 @@
 
 ## Additional deployment scenarios
 ### [Scenarios overview](common-deployment-scenarios.md)
-#### [Deploy multi-tenant collaboration](multi-tenant-deployment.md)
-#### [Vendors and customers use full Dynamics 365 Remote Assist capabilities](vendor-use-RA.md)
-#### [Enable collaborator to use Microsoft Teams to join a call](set-up-teams.md)
+### [Deploy multi-tenant collaboration](multi-tenant-deployment.md)
+### [Vendors and customers use full Dynamics 365 Remote Assist capabilities](vendor-use-RA.md)
+### [Enable collaborator to use Microsoft Teams to join a call](set-up-teams.md)
 
 ## Additional resources
 ### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
