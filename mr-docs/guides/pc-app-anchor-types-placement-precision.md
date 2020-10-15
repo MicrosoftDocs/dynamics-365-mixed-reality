@@ -51,7 +51,7 @@ Because it's very challenging to always maintain the exact same position and ori
 
 The following table shows what to expect on average for different anchors at different distances.
 
-|Anchor method|Average hologram position variability when positioned <1m away from the anchor location (and seen at arm's length)	|Average hologram position variability when <3m away from the anchor location (when seen at arm's length)|
+|Anchor method|Average hologram position variability when positioned <1m away from the anchor location (seen at arm's length)	|Average hologram position variability when <3m away from the anchor location (seen at arm's length)|
 |-----------------------|--------------------------------------------------|--------------------------------------------------|
 |QR code anchor|	5 to 10mm	|15 to 30mm|
 |Circular code anchor|10 to 15mm|	30 to 45mm|
