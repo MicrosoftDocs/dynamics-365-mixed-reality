@@ -17,7 +17,7 @@ A small position error will cause a consistent offset for all the holograms in a
 
 To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, whenever possible:
 
-- Use QR or circular codes instead of holographic anchors
+- Use QR or circular code anchors instead of holographic anchors
 
 - Position holograms close to the anchor (not more than 3 meters away)
 
