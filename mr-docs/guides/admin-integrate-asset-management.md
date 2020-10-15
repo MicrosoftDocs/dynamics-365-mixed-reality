@@ -55,7 +55,7 @@ You can integrate the **Asset Management** module in Supply Chain Management wit
 
 ![Integrated Asset Management guide](media/asset-management-integration.JPG "Integrated Asset Management guide")
 
-[Learn more about integrating Asset Management with Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/asset-management-guides-integration)
+[Learn more about integrating asset management with Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/supply-chain/asset-management/asset-management-guides-integration)
 
 ## See also
 
