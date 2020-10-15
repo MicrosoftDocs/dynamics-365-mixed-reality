@@ -15,7 +15,7 @@ Since holograms are located relative to a virtual reference frame which is place
 
 A small position error will cause a consistent offset for all the holograms in a guide. A small orientation error is even worse; the hologram offset increases as the user moves away from the anchor (known as the “lever-arm effect”). 
 
-To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, when possible:
+To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, whenever possible:
 
 - Use QR or circular codes instead of holographic anchors
 
