@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides
 
-Since holograms are located relative to a virtual reference frame which is placed when an author or operator scans a QR/circular code anchor or positions a holographic anchor in Microsoft Dynamics 365 Guides, they can inherit position errors and amplify orientation (rotation) errors introduced when positioning or scanning. The consistency of the virtual reference frame placement is key to keeping holograms consistently aligned to the same real-world objects across multiple alignments by different users on different devices. Any inconsistency greatly impacts the position of the holograms.
+Since holograms are located relative to a virtual reference frame which is placed when an author or operator scans a QR/circular code anchor or positions a holographic anchor in Microsoft Dynamics 365 Guides, they can inherit position errors and amplify orientation (rotation) errors introduced when scanning or positioning. The consistency of the virtual reference frame placement is key to keeping holograms consistently aligned to the same real-world objects across multiple alignments by different users on different devices. Any inconsistency greatly impacts the position of the holograms.
 
 A small position error will cause a consistent offset for all the holograms in a guide. A small orientation error is worse; the hologram offset increases as the user moves away from the anchor (known as the “lever-arm effect”). 
 
