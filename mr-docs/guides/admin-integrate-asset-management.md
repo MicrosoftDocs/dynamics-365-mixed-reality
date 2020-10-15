@@ -49,7 +49,7 @@ When a first-line worker chooses a job on the shop floor through Supply Chain Ma
  
 [Learn more about integrating Dynamics 365 Guides with various aspects of production control](https://docs.microsoft.com/dynamics365/supply-chain/production-control/instruction-guides-in-production-overview#logic)
 
-## Asset management**
+## Asset management
 
 You can integrate the **Asset Management** module in Supply Chain Management with Dynamics 365 Guides to take advantage of mixed-reality guides in your day-to-day service and maintenance workflows. If a guide is associated with an Asset Management work order, when a worker opens the work order's Maintenance Checklist in the Finance and Operations (Dynamics 365) mobile app (1), the line details show that a guide is available (2). The worker can then find and open the guide in the Dynamics 365 Guides HoloLens app (3).
 
