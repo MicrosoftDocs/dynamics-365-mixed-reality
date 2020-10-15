@@ -60,10 +60,10 @@ Use the following table to find more information on anchoring.
 |Area|Link|
 |----------------------|------------------------------------------------------------------|
 |Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
-|Anchoring precision|[Anchor types and placement, and their effect on hologram precision](pc-app-anchor-improve-hologram-accuracy.md)|
 |Creating types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
 ||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
+|Positional precision of holograms|[Anchor types and placement, and their effect on hologram precision](pc-app-anchor-types-placement-precision.md)|
 |HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
 |HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
