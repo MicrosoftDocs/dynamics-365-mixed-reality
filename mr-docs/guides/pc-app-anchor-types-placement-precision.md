@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Effect of anchor types/placement on hologram precision in Dynamics 365 Guides
 
-Even if an author or operator perfectly places a holographic anchor or perfectly aligns the green outline when scanning a QR code or circular code anchor in Microsoft Dynamics 365 Guides, an anchor's position will never be perfectly precise and exactly the same as a previous placement or alignment. Very small (invisible) variations are introduced every time a user anchors a guide, especially in an environment where there are multiple users on multiple HoloLens devices. 
+Even if an author or operator perfectly places a holographic anchor or perfectly aligns the green outline when scanning a QR code or circular code anchor in Microsoft Dynamics 365 Guides, an anchor's position will never be perfectly precise and exactly the same as a previous placement or alignment. Very small (invisible) variations are introduced every time a user anchors a guide. This is particularly true for environments where the same guide is used on different devices and different users anchor the guide in very slightly different ways. 
 
 Since a guide's holograms are placed relative to the anchor position and orientation, all hologram positions across the guide inherit a combination of position and orientation errors introduced when positioning or scanning anchors. These position and orientation errors are amplified if holograms are placed farther away from the anchor (known as the "lever-arm effect").
 
