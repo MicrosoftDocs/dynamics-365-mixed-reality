@@ -57,7 +57,7 @@ If you don't configure the IPD for each user:
 
 3. Follow the instructions on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
-All users must do this calibration after they sign in to the device. If [!include[pn-hololens](../includes/pn-hololens.md)] is running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Holographic for Business edition, the IPD settings are saved on the device. When you sign in to the same [!include[pn-hololens](../includes/pn-hololens.md)], your IPD settings are automatically applied, even after you switch users; you don't have to recalibrate the device. However, if [!include[pn-hololens](../includes/pn-hololens.md)] is running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Holographic edition, user settings aren't saved because this version of the operating system is designed for a single user. So you must recalibrate the device whenever you switch users.
+All users must do this calibration after they sign in to the device. If HoloLens is running Windows Holographic for Business edition, the IPD settings are saved on the device. When you sign in to the same HoloLens, your IPD settings are automatically applied, even after you switch users; you don't have to recalibrate the device. However, if HoloLens is running Windows Holographic edition, user settings aren't saved because this version of the operating system is designed for a single user. So you must recalibrate the device whenever you switch users.
 
 To determine which version of the operating system you're using on [!include[pn-hololens](../includes/pn-hololens.md)], follow these steps.
 
