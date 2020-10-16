@@ -24,7 +24,28 @@ If you don't configure the IPD for each user:
 > [!IMPORTANT]
 > It's particularly crucial for authors to make sure that their IPD is set correctly. Otherwise, all operators who use the guide will see misaligned holograms.
 
+## Calibrate your HoloLens 2 device
 
+1. When you turn on the device for the first time, the following system prompt automatically appears: "Let's adjust [!include[pn-hololens](../includes/pn-hololens.md)] for your eyes." To begin calibration, select **Adjust**.
+
+    ![Adjust prompt](media/adjust-prompt-HL2-calibration.png "Adjust prompt")
+
+2. Use the start gesture to open the **Start** menu. For help with gestures, see [Gestures for navigating Dynamics 365 Guides](authoring-gestures.md).
+
+3. If **Settings** isn't pinned to the **Start** menu, select the plus sign (**+**) button to view all apps.
+
+    > [!NOTE]
+    > To select something on the holographic **Start** menu, just touch it with your index finger.
+
+4. Select **Settings**.
+
+5. Select **System**.
+
+6. In the side panel, select **Calibration**.
+
+7. Select **Run Eye Calibration**.
+
+8. Follow the on-screen instructions.
 
 ## Calibrate your HoloLens 1 device
 
@@ -45,7 +66,6 @@ To determine which version of the operating system you're using on [!include[pn-
 2. Air tap **Settings \> System**.
 
 3. Air tap **About**.
-
 
 ## What's next?
 
