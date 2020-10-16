@@ -9,7 +9,7 @@ title: Improve positional accuracy of holograms in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Improve positional precision of holograms in Dynamics 365 Guides
+# Effect of calibration, pre-scanning, and environment on positional precision of holograms in Dynamics 365 Guides
 
 This article describes several things that you can do to improve positional precision of holograms in Microsoft Dynamics 365 Guides.
 
