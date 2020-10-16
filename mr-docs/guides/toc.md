@@ -51,6 +51,9 @@
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
+#### Calibrate your HoloLens
+##### [HoloLens 1](operator-calibrate.md)
+##### [HoloLens 2](operator-calibrate-HL2.md)
 #### [Install the app and sign in](install-sign-in-hololens-app.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
