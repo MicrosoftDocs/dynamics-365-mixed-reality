@@ -28,7 +28,7 @@ or if you need a quick way for an operator to launch a guide when they don't hav
 
 1. [Create a guide link](pc-app-copy-link-guide-step.md). 
 
-2. Use a third-party QR code generator to create a QR code. Microsoft recommends the following third-party QR code generators:
+2. Open a third-party QR code generator. Microsoft recommends the following third-party QR code generators:
 
     - [http://goqr.me/](http://goqr.me/)    
     
@@ -39,9 +39,9 @@ or if you need a quick way for an operator to launch a guide when they don't hav
     > [!NOTE]
     > When you use any third-party QR code generator, the QR code generator receives access to the string of your guides link.
     
-3. Copy the link from step 1 and paste it into the QR code.
+3. Copy the link from step 1 and paste it into the third-party QR code generator.
 
-4. Download the QR code.
+4. Generate and download the QR code.
 
 5. Do one of the following:
 
@@ -51,3 +51,7 @@ or if you need a quick way for an operator to launch a guide when they don't hav
     
     > [!IMPORANT]
     > When creating a printed QR code with an embedded link, make sure to follow [best practices for QR codes](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors).
+    
+## What's next?
+
+[Learn more about using a QR code as an anchor](pc-app-anchor-qr-code.md)
