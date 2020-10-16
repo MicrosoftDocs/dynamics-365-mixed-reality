@@ -9,41 +9,45 @@ title: Calibrate your HoloLens 1 device for authoring in the Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Calibrate your HoloLens 1 device for authoring in the Dynamics 365 Guides HoloLens app
+## Calibrate your HoloLens for authoring in the Dynamics 365 Guides HoloLens app
 
-[!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show what operators 
-need to do to perform a real-world task. For example, a guide that you author might show an operator how to assemble a door for a commercial aircraft. It's very 
-important that both you and your operators calibrate your HoloLens display for your own eyes so that holograms are properly displayed and perceived as accurately 
-positioned in space. Otherwise, your operator might drill a hole in the wrong place or assemble the wrong part. 
+To help guarantee that the holograms appear in the correct locations for guides you author in Dynamics 365 Guides, you must set the interpupillary distance (IPD) for your HoloLens. This step must be completed for every [!include[pn-hololens](../includes/pn-hololens.md)] user, whether you're an author or operator. In an industrial setting where holograms are used to direct operators to perform operational tasks, it's crucial that the holograms be correctly aligned. Incorrect alignment can cause operator confusion and costly damage.
 
-To make sure that holograms are correctly aligned, you must calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device before authoring a guide. 
-You can complete this step by using the Calibration app that comes with your [!include[pn-hololens](../includes/pn-hololens.md)].
+Here are the results if you don't configure the IPD for each user:
 
-![HoloLens Calibration app](media/calibration.PNG "HoloLens Calibration app")
+- Holograms will be out of alignment by 1 to 2 cm.
 
-## Calibrate your HoloLens by using the Calibration app
+- Holograms will appear as if they're sunk into or floating above surfaces that they're sitting on.
+
+- Holograms won't be stable. As you walk around, you will notice that they move.
+
+> [!IMPORTANT]
+> It's particularly crucial for authors to make sure that their IPD is set correctly. Otherwise, all operators who use the guide will see misaligned holograms.
+
+You can set your IPD by using the Calibration app included with [!include[pn-hololens](../includes/pn-hololens.md)].
+
+## Calibrate your HoloLens 1 device
 
 1. Use the bloom gesture to open the **Start** menu.
 
-2. If **Settings** isn't pinned to the **Start** menu, select the plus sign (**+**) button to view all apps.
+2. Air tap **Calibration**.
 
-    > [!NOTE]
-    > To select something by using your [!include[pn-hololens](../includes/pn-hololens.md)] device, gaze at it to target it, and then air tap to select it. 
+    ![Calibration button](media/hololens-calibration.PNG "Calibration button")
 
-3. Select **Settings**.
+3. Follow the instructions on your [!include[pn-hololens](../includes/pn-hololens.md)].
 
-4. Select **System**.
+All users must do this calibration after they sign in to the device. If [!include[pn-hololens](../includes/pn-hololens.md)] is running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Holographic for Business edition, the IPD settings are saved on the device. When you sign in to the same [!include[pn-hololens](../includes/pn-hololens.md)], your IPD settings are automatically applied, even after you switch users; you don't have to recalibrate the device. However, if [!include[pn-hololens](../includes/pn-hololens.md)] is running [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Holographic edition, user settings aren't saved because this version of the operating system is designed for a single user. So you must recalibrate the device whenever you switch users.
 
-5. Select **Utilities**.
+To determine which version of the operating system you're using on [!include[pn-hololens](../includes/pn-hololens.md)], follow these steps.
 
-6. Select **Open Calibration**.
+1. Use the bloom gesture to open the **Start** menu.
 
-7. Follow the on-screen instructions.
+2. Air tap **Settings \> System**.
 
-[Learn more about HoloLens calibration](https://docs.microsoft.com/windows/mixed-reality/calibration).
+3. Air tap **About**.
+
 
 ## What's next?
 
 [Install the app and sign in](install-sign-in-hololens-app.md)<br>
 [Gestures for navigating the app](author-gestures.md)<br>
-
