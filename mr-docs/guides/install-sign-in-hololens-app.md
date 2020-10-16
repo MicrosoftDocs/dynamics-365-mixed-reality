@@ -26,11 +26,11 @@ If you haven't already installed the [!include[cc-microsoft](../includes/cc-micr
 
 ## Sign in
 
-If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)] device, you will be prompted to complete the **Setup** wizard. In the **Setup** wizard, you can either sign in by using an existing account or create a new account, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you're running. The **Setup** wizard will also guide you through steps to calibrate and prepare your [!include[pn-hololens](../includes/pn-hololens.md)] for use.
+If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)] device, you'll be prompted to complete the **Setup** wizard. In the **Setup** wizard, you can either sign in by using an existing account or create a new account, depending on the version of [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] that you're running. The **Setup** wizard will also guide you through steps to calibrate and prepare your [!include[pn-hololens](../includes/pn-hololens.md)] for use.
 
 ## Open and sign in for the first time
 
-After you've made sure that your [!include[pn-hololens](../includes/pn-hololens.md)] is correctly calibrated, you can open the [!include[pn-hololens](../includes/pn-hololens.md)] app.
+After you've made sure that your [[!include[pn-hololens](../includes/pn-hololens.md)] is correctly calibrated](hololens-app-calibrate.md), you can open the [!include[pn-hololens](../includes/pn-hololens.md)] app.
 
 > [!NOTE]
 > If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admin, you can assign **Author** and **Operator** roles to limit the features that are available to users. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
