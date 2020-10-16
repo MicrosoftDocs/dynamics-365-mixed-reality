@@ -30,7 +30,7 @@ Each of these suggestions is covered in more detail in this article.
 > [!IMPORTANT]
 > In addition to the suggestions included in this article, make sure to review the following articles:
 >
-> - [Improve positional precision of holograms](pc-app-anchor-improve-hologram-precision.md)
+> - [Effect of calibration, pre-scanning, and environment on positional precision of holograms](pc-app-anchor-improve-hologram-precision.md)
 > - [Best practices for QR code anchors](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors)
 > - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
 > - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
@@ -80,6 +80,6 @@ Use the following table to find more information on anchoring.
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
 ||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
-|Hologram precision|[Improve positional precision of holograms](pc-app-anchor-improve-hologram-precision.md)|
+|Hologram precision|[Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)|
 |HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
 |HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
