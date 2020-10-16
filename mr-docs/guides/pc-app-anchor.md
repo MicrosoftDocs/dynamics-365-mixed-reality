@@ -68,6 +68,13 @@ After creating the anchor in the PC app, you use the HoloLens app to anchor your
 
 - [Anchor a guide if you're an operator](operator-anchor.md)
 
+## Positional precision of holograms 
+
+For information on the positional precision of holograms, make sure to see these articles:
+
+- [Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)
+- [Effect of anchor types and placement](pc-app-anchor-types-placement-precision.md)
+
 ## What's next?
 
 Use the following table to find more information on anchoring.
