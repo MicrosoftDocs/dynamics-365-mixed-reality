@@ -46,7 +46,7 @@ Environments that include very reflective surfaces (mirrors), dark surfaces, or 
 
 Lighting conditions have an impact on how HoloLens perceives the environment and recognizes the space. Environments with unstable lighting conditions are prone to hologram instability. If the light changes significantly, HoloLens might consider the space as a new environment and build a new map for it. Previously visible features might be invisible and features that weren’t visible might be visible. 
 
-## Choose environments with a high number of visible features
+## Choose an environment with a high number of visible features
 
 HoloLens builds maps of its surroundings and tracks its position and hologram position based on visible features (high contrast point and corners) in the environment. If the space in which HoloLens is operating has a low number of visible features (mostly white walls for example), or very repetitive patterns (textured surfaces), this will impact hologram position and stability as HoloLens won’t be able to properly identify and track uniquely specific points in the environment.
 
