@@ -44,6 +44,6 @@ You can complete this step by using the Calibration app that comes with your [!i
 
 ## What's next?
 
-[Install the app and sign in](install-sign-in-author.md)<br>
+[Install the app and sign in](install-sign-in-hololens-app.md)<br>
 [Gestures for navigating the app](author-gestures.md)<br>
 
