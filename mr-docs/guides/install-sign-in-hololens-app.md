@@ -30,7 +30,7 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 ## Open and sign in for the first time
 
-After you've made sure that your [[!include[pn-hololens](../includes/pn-hololens.md)] is correctly calibrated](hololens-app-calibrate.md), you can open the [!include[pn-hololens](../includes/pn-hololens.md)] app.
+After you've made sure that your [HoloLens is correctly calibrated](hololens-app-calibrate.md), you can open the [!include[pn-hololens](../includes/pn-hololens.md)] app.
 
 > [!NOTE]
 > If you're a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] admin, you can assign **Author** and **Operator** roles to limit the features that are available to users. For more information, see [Assign an Author or Operator role to a user](assign-role.md).
