@@ -119,7 +119,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
 9. In the **PowerShell Interactive Login** dialog box, connect to the source instance by following these steps:
 
-    1. In the **Deployment Type** field group, select the **Office 365** option.
+    1. In the **Deployment Type** field group, select the **Microsoft 365** option.
 
     2. Select the **Display list of available organizations** check box.
 
@@ -141,7 +141,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
 10.	In the **PowerShell Interactive Login** dialog box, connect to the destination instance by following these steps:
 
-    1. In the **Deployment Type** field group, select the **Office 365** option.
+    1. In the **Deployment Type** field group, select the **Microsoft 365** option.
 
     2. Select the **Display list of available organizations** check box.
 

@@ -64,7 +64,7 @@ If you’re having trouble signing in to Dynamics 365 Remote Assist, try the fol
 
 - Make sure you’re using a work or school account, not a Microsoft account (MSA), to sign in to HoloLens.
 
--  Make sure that the work or school account you’re using has a valid [Office 365 Business](https://products.office.com/business/office) Premium or Essentials subscription with [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) enabled.
+-  Make sure that the work or school account you’re using has a valid [Microsoft 365 Business](https://products.office.com/business/office) Premium or Essentials subscription with [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) enabled.
 
 - Make sure your HoloLens is connected to the internet.
 

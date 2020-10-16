@@ -15,7 +15,7 @@
 ### [Join a meeting](join-meeting-hololens.md)
 ### [Adjust what you see](adjust-what-you-see-hololens.md)
 ### [Add annotations](add-annotations-hololens.md)
-### [Take a snapshot (and save it to a Dynamics 365 Field Service booking)](take-snapshot-save-booking-hololens.md)
+### [Take a photo (and save it to a Dynamics 365 Field Service booking)](take-snapshot-save-booking-hololens.md)
 ### [File sharing and saving](display-save-files.md)
 ### [Capture asset conditions on Hololens](asset-capture-photos.md)
 ### [Record calls](record-calls-hololens.md)
@@ -63,9 +63,9 @@
 
 ## Additional deployment scenarios
 ### [Scenarios overview](common-deployment-scenarios.md)
-#### [Deploy multi-tenant collaboration](multi-tenant-deployment.md)
-#### [Vendors and customers use full Dynamics 365 Remote Assist capabilities](vendor-use-RA.md)
-#### [Enable collaborator to use Microsoft Teams to join a call](set-up-teams.md)
+### [Deploy multi-tenant collaboration](multi-tenant-deployment.md)
+### [Vendors and customers use full Dynamics 365 Remote Assist capabilities](vendor-use-RA.md)
+### [Enable collaborator to use Microsoft Teams to join a call](set-up-teams.md)
 
 ## Additional resources
 ### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
