@@ -54,4 +54,4 @@ or if you need a quick way for an operator to launch a guide when they don't hav
     
 ## What's next?
 
-[Learn more about using a QR code as an anchor](pc-app-anchor-qr-code.md)
+[Learn more anchoring a guide by using a QR code](pc-app-anchor-qr-code.md)
