@@ -19,7 +19,7 @@ If you don't configure the IPD for each user:
 
 - Holograms will appear as if they're sunk into or floating above surfaces that they're sitting on.
 
-- Holograms won't be stable. As you walk around, you will notice that they move.
+- Holograms won't be stable. As you walk around, you'll notice that they move.
 
 > [!IMPORTANT]
 > It's particularly crucial for authors to make sure that their IPD is set correctly. Otherwise, all operators who use the guide will see misaligned holograms.
