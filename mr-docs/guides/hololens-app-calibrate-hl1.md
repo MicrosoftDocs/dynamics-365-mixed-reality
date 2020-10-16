@@ -30,7 +30,7 @@ If you don't configure the IPD for each user:
 
     ![Adjust prompt](media/adjust-prompt-HL2-calibration.png "Adjust prompt")
 
-2. Use the start gesture to open the **Start** menu. For help with gestures, see [Gestures for navigating Dynamics 365 Guides](authoring-gestures-hl2.md).
+2. Use the start gesture to open the **Start** menu. For help with gestures, see [Gestures for navigating Dynamics 365 Guides](authoring-gestures-HL2.md).
 
 3. If **Settings** isn't pinned to the **Start** menu, select the plus sign (**+**) button to view all apps.
 
