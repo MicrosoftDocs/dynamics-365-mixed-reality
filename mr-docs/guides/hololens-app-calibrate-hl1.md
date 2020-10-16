@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 ## Calibrate your HoloLens for authoring in the Dynamics 365 Guides HoloLens app
 
-To help guarantee that holograms appear in the correct locations for guides you author in Dynamics 365 Guides, you must set the interpupillary distance (IPD) for your HoloLens. This step must be completed for every [!include[pn-hololens](../includes/pn-hololens.md)] user, whether you're an author or operator. In an industrial setting where holograms are used to direct operators to perform operational tasks, it's crucial that the holograms be correctly aligned. Incorrect alignment can cause operator confusion and costly damage.
+To help guarantee that holograms appear in the correct locations for guides you author in Dynamics 365 Guides, you must set the interpupillary distance (IPD) for your HoloLens. This step must be completed for every [!include[pn-hololens](../includes/pn-hololens.md)] user, whether you're an author or operator. In an industrial setting where holograms are used to direct operators to perform operational tasks, it's crucial that holograms are correctly aligned. Incorrect alignment can cause operator confusion and costly damage.
 
 Here are the results if you don't configure the IPD for each user:
 
