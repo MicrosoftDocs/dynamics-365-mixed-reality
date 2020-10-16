@@ -13,10 +13,11 @@ ms.reviewer: v-brycho
 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] uses holograms to show what operators 
 need to do to perform a real-world task. For example, a guide that you author might show an operator how to assemble a door for a commercial aircraft. It's very 
-important to calibrate your HoloLens display for your own eyes so that holograms are properly displayed and perceived as accurately positioned in space. 
-Otherwise, your operator might drill a hole in the wrong place or assemble the wrong part. To make sure that holograms are correctly aligned, you must 
-calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device. You can complete this step by using the Calibration app that comes with 
-your [!include[pn-hololens](../includes/pn-hololens.md)].
+important that both you and your operators calibrate your HoloLens display for your own eyes so that holograms are properly displayed and perceived as accurately 
+positioned in space. Otherwise, your operator might drill a hole in the wrong place or assemble the wrong part. 
+
+To make sure that holograms are correctly aligned, you must calibrate your [!include[pn-hololens](../includes/pn-hololens.md)] device before authoring a guide. 
+You can complete this step by using the Calibration app that comes with your [!include[pn-hololens](../includes/pn-hololens.md)].
 
 ![HoloLens Calibration app](media/calibration.PNG "HoloLens Calibration app")
 
