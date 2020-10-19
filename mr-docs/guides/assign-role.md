@@ -33,6 +33,9 @@ Before you can modify user roles, the following prerequisites must be in place:
 
 ## Assign user roles
 
+> [!NOTE]
+> Users can take up to one hour to appear in the Dynamics 365 admin center after the licenses are added in the Microsoft 365 admin center.
+
 1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using your admin credentials.
 
 2. If the **Environments** page doesn't appear, select **Environments** in the left pane to open it.
@@ -44,6 +47,9 @@ Before you can modify user roles, the following prerequisites must be in place:
 4. Select **Users + permissions** to expand the list of options, and then select **Users**. If you're prompted to sign in to Dynamics 365, be sure to use your admin credentials.
 
     ![Users selected](media/users-setting.PNG "Users selected")
+    
+    > [!IMPORTANT]
+    > You can access Dynamics 365 Guides data through the **Guides Hub** tile. However, we recommend taht you not make changes in the Guides Hub. Any changes that you make there can have unintended consequences for the Dynamics 365 Guides apps. 
     
 5. Follow one of these steps:
 
@@ -69,6 +75,8 @@ Before you can modify user roles, the following prerequisites must be in place:
 9. Select the check box for the appropriate role for the selected users, and then select **OK**.
 
     ![Author and Operator check boxes](media/select-role.PNG "Author and Operator check boxes")
+    
+10. If you want to the user to have admin privileges, select the **System Administrator**check box. 
     
 ## Troubleshooting
 
