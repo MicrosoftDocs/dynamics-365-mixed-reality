@@ -49,7 +49,7 @@ Before you can modify user roles, the following prerequisites must be in place:
     ![Users selected](media/users-setting.PNG "Users selected")
     
     > [!IMPORTANT]
-    > You can access Dynamics 365 Guides data through the **Guides Hub** tile. However, we recommend taht you not make changes in the Guides Hub. Any changes that you make there can have unintended consequences for the Dynamics 365 Guides apps. 
+    > You can access Dynamics 365 Guides data through the **Guides Hub** tile. However, we recommend that you not make changes in the Guides Hub. Any changes that you make there can have unintended consequences for the Dynamics 365 Guides apps. 
     
 5. Follow one of these steps:
 
