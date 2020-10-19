@@ -166,7 +166,7 @@ If you have trouble installing and configuring the solution as described in the 
     > ![Failed installation message](media/failed-install.PNG "Failed installation message")
 
 > [!IMPORTANT]
-> Dynamics 365 Guides data will be stored in the Common Data Service solution. Before anyone can create and use guides, however, you [must assign appropriaate roles to all Dynamics 365 Guides users](assign-role.md). 
+> Dynamics 365 Guides data will be stored in the Common Data Service solution. Before anyone can create and use guides, however, you [must assign appropriate roles to all Dynamics 365 Guides users](assign-role.md). 
 
 ## What's next?
 
