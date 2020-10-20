@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Common Data Service instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 09/02/2020
+ms.date: 11/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Migrate Dynamics 365 Guides content from one Common Data Service instance to another using the Content Migration Tool (Public Preview)
@@ -14,6 +14,8 @@ ms.reviewer: v-brycho
 The Content Migration Tool (Public Preview) for Microsoft Dynamics 365 Guides is a [Windows PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) script that copies content from one instance of Common Data Service to another. You can migrate all the content in an instance or just specific types of content (for example, 3D objects, images, and videos). After the migration is completed, the content exists in both instances. The content in the source instance isn't changed in any way.
 
 The tool connects to two Common Data Service instances at the same time. It reads the content in the source instance and writes it to the destination instance. The instances can be part of the same tenant, or they can be in different tenants.
+
+The tool supports migration between commercial and/or Microsoft Government Community Cloud (GCC) environments.
 
 > [!IMPORTANT]
 > By using the Content Migration Tool (Public Preview) for Dynamics 365 Guides, you acknowledge and accept all the limitations of using a preview tool. For example, you accept that the terms and commitments for Dynamics 365 Guides and other Microsoft commercial services and products don't apply to the Content Migration Tool. You also assume all risks that are associated with migrating your data between Dynamics 365 tenants. These risks include but aren't limited to the risk of different security, compliance, and privacy commitments, the risk of damage to or loss of data, and the risk of unavailability or interruption of the tool.
@@ -125,7 +127,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
     3. Select the **Show Advanced** check box.
 
-    4. In the **Online Region** field, select the online region for your instance. If you don't know the region, select **Don't know**.
+    4. In the **Online Region** field, select the online region for your instance. If your environment is in a GCC region, select **North America 2**. If you don't know the region, select **Don't know**.
 
     5. In the **User Name** and **Password** fields, enter the user name and password for the Common Data Service instance that you want to connect to.
 
@@ -147,7 +149,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
     3. Select the **Show Advanced** check box.
 
-    4. In the **Online Region** field, select the online region for your instance. If you don't know the region, select **Don't know**.
+    4. In the **Online Region** field, select the online region for your instance. If your environment is in a GCC region, select **North America 2**. If you don't know the region, select **Don't know**.
 
     5. In the **User Name** and **Password** fields, enter the user name and password for the Common Data Service instance that you want to connect to.
 
