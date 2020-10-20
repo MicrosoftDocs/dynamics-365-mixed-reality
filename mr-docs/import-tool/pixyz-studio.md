@@ -95,7 +95,7 @@ If there are holes in any of the parts or assemblies that aren’t required for 
  
 4. Enter a number (in millimeters) for the **Max Diameter** field. Holes with a diameter below this value that match the types you set will be removed.
 
-5. Optionally, select the **Fill With Material** check box to select a material to fill holes. This leaves the appearance of a hole but provides better performance due to reduced polygons.
+5. Optionally, select the **Fill With Material** check box to select a material to fill holes. This leaves the appearance of a hole but provides better performance due to the reduction in polygons.
 
 ## Hierarchy cleanup
 
@@ -142,7 +142,7 @@ Use the **Hidden Removal** command to do a visibility test to determine which po
 4.	Select **Execute**.
 
 > [!NOTE] 
-> If you have determined that your asset requires multiple pieces, hide the overlapping pieces by using the **Hidden Removal** command to prevent creating holes in adjacent pieces.
+> If you have determined that your asset requires multiple pieces, hide the overlapping pieces before using the **Hidden Removal** command to prevent creating holes in adjacent pieces.
 
 ### Decimate to Quality command
 
@@ -205,7 +205,7 @@ In addition to reducing polygon count and hierarchy complexity, draw calls shoul
 
     ![Automatic UV Mapping dialog box showing Channel field](media/pixyz-uv-mapping.PNG "Automatic UV Mapping dialog box showing Channel field")
  
-4. Move the **Forbid Overlapping** slider to the **On** position to create a unique UV unwrap, which is required for texture baking.
+4. Move the **Forbid Overlapping** toggle to the **On** position to create a unique UV unwrap, which is required for texture baking.
 
 5. Select **Execute**.
 
