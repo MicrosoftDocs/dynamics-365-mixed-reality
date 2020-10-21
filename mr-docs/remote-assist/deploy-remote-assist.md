@@ -30,7 +30,7 @@ You can also learn how to configure [deploy multi-tenant company deployments](mu
 - Make sure that users in your organization have the required licensing and devices. For more information, visit the article on [licensing and product requirement](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
 >[!Note] 
-> The Microsoft Teams license included with Dynamics 365 Remote Assist allows you to collaborate with Teams users and use *most* Dynamics 365 Remote Assist features. Additional features that use other products (for instance, OneDrive for file sharing) require an [Microsoft 365 Business Premium or Microsoft 365 Business Essentials license](https://products.office.com/compare-all-microsoft-office-products?&activetab=tab:primaryr2). Learn more about how to [manage Microsoft 365 licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
+> The Microsoft Teams license included with Dynamics 365 Remote Assist allows you to collaborate with Teams users and use *most* Dynamics 365 Remote Assist features. Additional features that use other products (for instance, OneDrive for file sharing) require an [Microsoft 365 Business Premium or Microsoft 365 Business Basic license](https://products.office.com/compare-all-microsoft-office-products?&activetab=tab:primaryr2). Learn more about how to [manage Microsoft 365 licenses](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide).
 
 ### Adding and assigning licenses
 
