@@ -84,6 +84,7 @@
 ## [Analyze your guides](analytics-guide.md)
 ## [Migrate content from one instance to another](migrate.md)
 ## [Entity reference (for developers)](developer-entity-reference.md)
+## [Government Community Cloud (GCC)](gcc.md)
 ## [Get Help and provide feedback](help.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
