@@ -50,7 +50,7 @@ Microsoft reminds you not to share any controlled, sensitive, or confidential in
 incident, until you confirm their authorization to view or access such data. Microsoft is committed to protecting your privacy. Dynamics 365 Guides Customer Support 
 is not included in the service accreditation boundary and does not provide FedRAMP, CJIS, IRS 1075, DISA SRG L2 data handling and/or compliance assurances.
 
-For more information on Guides protection of customer data, see the [Microsoft Online Services Trust Center](https://www.microsoft.com/trustcenter/cloudservices/business-application-platform/default.aspx). 
+For more information on Dynamics 365 Guides protection of customer data, see the [Microsoft Online Services Trust Center](https://www.microsoft.com/trustcenter/cloudservices/business-application-platform/default.aspx). 
 
 ## Customer content located within the United States
 
