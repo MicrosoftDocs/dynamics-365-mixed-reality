@@ -122,9 +122,9 @@ At this point, consider whether you need to break up models into pieces to expor
 
 - **Merge Parts By Materials**
 
-## Optimize your model
+## Optimize your mesh
 
-To fully optimize your model, use the **Hidden Removal**, **Decimate to Quality**, and **Decimate to Target** commands. You must use the **Hidden Removal** command, and then based on your scenario, use the **Decimate to Quality** and/or **Decimate to Target** commands. 
+To fully optimize your mesh, start by using the **Hidden Removal** command, and then based on your scenario, use the **Decimate to Quality** or **Decimate to Target** commands.
 
 ### Hidden Removal command
 
