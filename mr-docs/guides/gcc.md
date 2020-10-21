@@ -28,9 +28,7 @@ In addition to the features and capabilities of Dynamics 365 Guides, organizatio
 ## Customer eligibility
 
 Dynamics 365 Guides US Government is available to: (1) US federal, state, local, tribal, and territorial government entities; (2) Other entities that handle data that is 
-subject to government regulations and requirements and where use of Guides US Government is appropriate to meet these requirements, subject to validation of eligibility. 
-Validation of eligibility by Microsoft will include confirmation of handling law enforcement data subject to the FBI's Criminal Justice Information Services (CJIS) policy, 
-or other government-regulated or controlled data. Validation might require sponsorship by a government entity with specific requirements for the handling of data.
+subject to government regulations and requirements and where use of Dynamics 365 Guides US Government is appropriate to meet these requirements, subject to validation of eligibility. Validation of eligibility by Microsoft will include confirmation of handling law enforcement data subject to the FBI's Criminal Justice Information Services (CJIS) policy, or other government-regulated or controlled data. Validation might require sponsorship by a government entity with specific requirements for the handling of data.
 
 Entities with questions about eligibility for Dynamics 365 Guides US Government should consult their account team. Upon renewal of a customer's contract for Dynamics 
 365 Guides US Government, revalidation of eligibility is required.
