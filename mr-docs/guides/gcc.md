@@ -46,7 +46,7 @@ Microsoft by, or on behalf of, customers through the use of the Online Service. 
 created by users, such as content stored in databases through entries in [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered 
 confidential information and in normal service operation is not sent over the internet without encryption.
 
-Microsoft reminds you not to share any controlled, sensitive, or confidential information with Support Personnel as part of your Dynamics 365 Guides GCC-related support 
+Microsoft reminds you not to share any controlled, sensitive, or confidential information with support personnel as part of your Dynamics 365 Guides GCC-related support 
 incident, until you confirm their authorization to view or access such data. Microsoft is committed to protecting your privacy. Dynamics 365 Guides Customer Support 
 is not included in the service accreditation boundary and does not provide FedRAMP, CJIS, IRS 1075, DISA SRG L2 data handling and/or compliance assurances.
 
