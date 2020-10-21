@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to open a website from the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 10/21/2020
 ms.service: crm-online
 ms.topic: article
 title: Open a website from the Dynamics 365 Guides HoloLens app
