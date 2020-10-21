@@ -17,13 +17,13 @@ Dynamics 365 Guides Government GCC plan is a monthly subscription that can be li
 
 The Guides GCC environment provides compliance with federal requirements for cloud services, including FedRAMP moderate, CJIS, IRS 1075, and DISA SRG L2 requirements.
 
-In addition to the features and capabilities of Guides, organizations that use Guides US Government benefit from the following features unique to Guides US Government:
+In addition to the features and capabilities of Dynamics 365 Guides, organizations that use Guides US Government benefit from the following features unique to Guides US Government:
 
 - Your organization’s customer content is stored within the United States.
 
-- Access to your organization’s customer content is restricted to [screened Microsoft personnel](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government#restricted-data-access-by-administrators ).
+- Access to your organization’s customer content is restricted to [screened Microsoft personnel](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government#restricted-data-access-by-administrators).
 
-- Guides US Government complies with certifications and accreditations that are required for US public sector customers with FedRAMP moderate requirements.
+- Complies with certifications and accreditations that are required for US public sector customers with FedRAMP moderate requirements.
 
 ## Customer eligibility
 
