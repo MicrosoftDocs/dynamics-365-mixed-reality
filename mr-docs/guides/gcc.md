@@ -65,8 +65,8 @@ accreditation; (ii) pending the corresponding FedRAMP accreditation (moderate/hi
 is pursued. The Online Service (comprised of the relevant SKUs listed in the table below) will be provisioned in the Government Community Cloud whether or not such Online 
 Services have achieved FedRAMP accreditation or not. The parties agree and acknowledge that while the services pursue the corresponding FedRAMP accreditation, the security 
 controls and data commitments related to the services will conform to the FedRAMP standard described in the System Security Plan (SSP) for the Azure Commercial FedRAMP ATO 
-and in the Online Services Terms. For clarity, if your GCC tenant is provisioned in the United States, Customer Data will be stored at rest in the United States. 
+and in the Online Services Terms. For clarity, if your GCC tenant is provisioned in the United States, customer data will be stored at rest in the United States. 
 
 ## See also
 
-For more information, see the article on [Dynamics 365 US Government](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government).
+[Dynamics 365 US Government](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government).
