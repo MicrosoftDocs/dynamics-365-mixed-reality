@@ -69,4 +69,4 @@ and in the Online Services Terms. For clarity, if your GCC tenant is provisioned
 
 ## See also
 
-[Dynamics 365 US Government](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government).
+[Dynamics 365 US Government](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government)
