@@ -3,8 +3,7 @@
 # Dynamics 365 Guides US Government
 
 In response to the unique and evolving requirements of the United States public sector, Microsoft has created Dynamics 365 Guides US Government, a plan for US government 
-organizations. We recommend that you read this supplementary section alongside the [Guides documentation](https://docs.microsoft.com/dynamics365/mixed-reality/guides/), which covers information about the Guides Government 
-Community Cloud (GCC) service description. 
+organizations. We recommend that you read this supplementary section alongside the [Guides documentation](https://docs.microsoft.com/dynamics365/mixed-reality/guides/), which covers information about the Dynamics 365 Guides Government Community Cloud (GCC) service description. 
 
 At this time, Dynamics 365 Guides is offered only at the Government Community Cloud (GCC) level. It is currently unavailable for GCC High, and for the Department of Defense 
 (DoD).  
@@ -15,7 +14,7 @@ The Dynamics 365 Guides US Government service description is designed to serve a
 
 Dynamics 365 Guides Government GCC plan is a monthly subscription that can be licensed to an unlimited number of users.
 
-The Dynamics 365 Guides GCC environment provides compliance with federal requirements for cloud services, including FedRAMP moderate, CJIS, IRS 1075, and DISA SRG L2 requirements.
+The Dynamics 365 Guides GCC environment provides compliance with federal requirements for cloud services, including Federal Risk and Authorization Management Program (FedRAMP) moderate, CJIS, IRS 1075, and DISA SRG L2 requirements.
 
 In addition to the features and capabilities of Dynamics 365 Guides, organizations that use Dynamics 365 Guides US Government benefit from the following features unique to Dynamics 365 Guides US Government:
 
