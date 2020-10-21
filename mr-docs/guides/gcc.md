@@ -6,7 +6,7 @@ In response to the unique and evolving requirements of the United States public 
 organizations. We recommend that you read this supplementary section alongside the [Guides documentation](https://docs.microsoft.com/dynamics365/mixed-reality/guides/), which covers information about the Guides Government 
 Community Cloud (GCC) service description. 
 
-At this time, Dynamics 365 Guides is only offered at the Government Community Cloud (GCC) level. It is currently unavailable for GCC High, and for the Department of Defense 
+At this time, Dynamics 365 Guides is offered only at the Government Community Cloud (GCC) level. It is currently unavailable for GCC High, and for the Department of Defense 
 (DoD).  
 
 The Dynamics 365 Guides US Government service description is designed to serve as an overlay to the general Dynamics 365 Guides service description. It defines the unique commitments of this service and the differences from Dynamics 365 Guides offerings.
