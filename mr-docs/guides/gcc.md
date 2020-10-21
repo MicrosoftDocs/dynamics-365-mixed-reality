@@ -19,11 +19,11 @@ The Guides GCC environment provides compliance with federal requirements for clo
 
 In addition to the features and capabilities of Dynamics 365 Guides, organizations that use Guides US Government benefit from the following features unique to Guides US Government:
 
-- Your organization’s customer content is stored within the United States.
+- Your organization’s customer content is stored within the United States
 
-- Access to your organization’s customer content is restricted to [screened Microsoft personnel](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government#restricted-data-access-by-administrators).
+- Access to your organization’s customer content is restricted to [screened Microsoft personnel](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government#restricted-data-access-by-administrators)
 
-- Complies with certifications and accreditations that are required for US public sector customers with FedRAMP moderate requirements.
+- Complies with certifications and accreditations that are required for US public sector customers with FedRAMP moderate requirements
 
 ## Customer eligibility
 
