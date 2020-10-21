@@ -28,7 +28,7 @@ Pixyz’s products. There are [other content-creation apps](https://docs.mic
 
     ![Wizard button in toolbar](media/pixyz-import-tool-wizard.PNG "Wizard button in toolbar")
  
-2. In the **Import Wizard** dialog box, use the following settings to create a high-quality [tessellation](https://en.wikipedia.org/wiki/Tessellation#:~:text=A%20tiling%20or%20tessellation%20of,tiling%20has%20a%20repeating%20pattern) as a starting point:
+2. In the **Import Wizard** dialog box, use the following settings to create a high-quality [tessellation](https://en.wikipedia.org/wiki/Tessellation_(computer_graphics)) as a starting point:
 
     |Field|Value|Sub-value|
     |------------------------------|--------------------------------------|----------------------|
