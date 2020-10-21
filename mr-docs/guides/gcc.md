@@ -43,7 +43,7 @@ Dynamics 365 Guides US Government is available through the Volume Licensing and 
 
 Customer data, as defined in the Online Services Terms, means all data, including all text, sound, video, 3D models, or image files, and software, that are provided to 
 Microsoft by, or on behalf of, customers through the use of the Online Service. Customer content refers to a specific subset of customer data that has been directly 
-created by users, such as content stored in databases through entries in the [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered 
+created by users, such as content stored in databases through entries in [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered 
 confidential information and in normal service operation is not sent over the internet without encryption.
 
 Microsoft reminds you not to share any controlled, sensitive, or confidential information with Support Personnel as part of your Dynamics 365 Guides GCC-related support 
