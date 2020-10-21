@@ -11,8 +11,7 @@ ms.reviewer: v-brycho
 
 # Use Pixyz Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
 
-This tutorial outlines a general process for using Pixyz Studio to convert Computer-Aided Design (CAD) parametric assets into polygon-based .GLB files that perform 
-well in Dynamics 365 mixed-reality apps. (See [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for information about performance targets.) Keep in mind that every asset and use case is different, so you may need to adjust the process accordingly. 
+This tutorial outlines a general process for using Pixyz Studio to convert Computer-Aided Design (CAD) parametric assets into polygon-based [.GLB](https://www.khronos.org/gltf/) files that perform well in Dynamics 365 mixed-reality apps. (See [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for information about performance targets.) Keep in mind that every asset and use case is different, so you may need to adjust the process accordingly. 
 
 > [!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how Pixyz Studio works with Dynamics 365 mixed-reality apps. Your use of third-party applications 
@@ -99,7 +98,7 @@ If there are holes in any of the parts or assemblies that aren’t required for 
 
 ## Hierarchy cleanup
 
-At this point, consider whether you need to break up models into pieces to export as separate .GLB files for animation purposes or for progressively hiding/showing in mixed-reality apps.
+At this point, consider whether you need to break up models into pieces to export as separate [.GLB](https://www.khronos.org/gltf/) files for animation purposes or for progressively hiding/showing in mixed-reality apps.
 
 1. Select the parts and assemblies that you want to merge.
 
@@ -252,7 +251,7 @@ After generating UVs and creating normals and tangents, you can bake the texture
 
 ### Create and apply materials
 
-You need to apply baked texture maps to a Physically Based Rendering (PBR) material, which can then be applied to the asset for glTF-compliant rendering in mixed-reality apps.
+You need to apply baked texture maps to a Physically Based Rendering (PBR) material, which can then be applied to the asset for [glTF](https://www.khronos.org/gltf/)-compliant rendering in mixed-reality apps.
 
 1.	Select **Materials** > **Material Editor**.
 
@@ -342,7 +341,7 @@ You can preview the resulting .GLB file(s) with the [3D Viewer](https://www.micr
 > [!TIP]
 > The [Babylon.JS Web Viewer](https://sandbox.babylonjs.com/) is another great option if uploading the asset is not a concern.
 
-If the asset requires any additional editing or animation work in another staging application, consider using .FBX as an intermediate file format. FBX is an Autodesk exchange format designed to preserve additional authoring data that might be required by your staging application.
+If the asset requires any additional editing or animation work in another staging application, consider using [.FBX](https://www.autodesk.com/products/fbx/overview) as an intermediate file format. FBX is an [Autodesk](https://www.autodesk.com/) exchange format designed to preserve additional authoring data that might be required by your staging application.
 
 ## View a 3D model in a Dynamics 365 mixed-reality app
 
