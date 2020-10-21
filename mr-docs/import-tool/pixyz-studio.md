@@ -124,7 +124,7 @@ At this point, consider whether you need to break up models into pieces to expor
 
 ## Optimize your mesh
 
-To fully optimize your mesh, start by using the **Hidden Removal** command, and then based on your scenario, use the **Decimate to Quality** or **Decimate to Target** commands.
+To fully optimize your mesh, start by using the **Hidden Removal** command, and then based on your scenario, use the **Decimate to Quality** or **Decimate to Target** command.
 
 ### Hidden Removal command
 
