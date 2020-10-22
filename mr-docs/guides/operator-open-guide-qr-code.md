@@ -24,35 +24,37 @@ included in a digital document.
     > [!NOTE]
     > If you're not sure if you're at mixed reality home, [open the **Start** menu](https://docs.microsoft.com/hololens/hololens2-basic-usage#start-menu-mixed-reality-home-and-app), and then look for the **Home** button at the bottom of the menu. If the **Start** menu doesn't have a **Home** button, you're already at mixed reality home.
     
-    SCREEN SHOT GOES HERE
+     ![Screen shot of mixed reality home](media/qr-code-open-mixed-reality-home.PNG "Screen shot of mixed reality home")
 
 2. Gaze at the QR code.
  
 3. A green outline will appear with a play buton. Press the play button. 
 
-    SCREEN SHOT GOES HERE
+    ![Green outline and play button](media/embed-qr-code-digital.PNG "Green outline and play button")
     
 4. In the **Application Link** dialog box, select **Open**.
 
-    SCREEN SHOT GOES HERE
+    ![Application Link dialog box with Open button](media/qr-code-open-application-link.PNG "Application Link dialog box with Open button")
 
-5. Select **Open**. This launches Dynamics 365 Guides.
-
-    SCREEN SHOT GOES HERE
+     This launches Dynamics 365 Guides.    
     
     > [!NOTE] 
-    > If you haven't previously signed into the account and tenant, you'll be prompted to do so. If the account has both Author and Operator permissions, you'll be asked to choose which mode you want to open the guide in. If you only have Operator permissions, it automatically launches the guide in Operator mode.
+    > If you haven't previously signed into the account, you'll be prompted to do so. 
     
-    SCREEN SHOT GOES HERE
+5. If the account has both Author and Operator permissions, you'll be asked to choose which mode you want to open the guide in. 
+
+    ![Select mode dialog box](media/qr-code-open-select-mode.PNG "Select mode dialog box")
+
+    If you only have Operator permissions, the guide is automatically launched in Operator mode.    
     
-6. After the guide is opened, you'll see the anchoring step for the embedded guide or step.
+6. After the guide is opened, you'll see the anchoring step for the embedded guide or step. Select **Initiate scan** to anchor the guide.
     
-    SCREEN SHOT GOES HERE
+    ![Scan QR code anchor dialog box](media/qr-code-open-anchor-step.PNG "Scan QR code anchor dialog box")
  
     > [!NOTE]
     > When you open a guide by using a QR code with an embedded link, the guide isn't automatically anchored. After you open the guide, you have to anchor it using the anchor
     provided by the author of the guide. After you anchor the guide for the first time, it will remember it’s spatial position the next time you open it, however. 
     If it remembers your anchor alignment, you will still need to confirm it's in the correct position. [Learn more about anchoring a guide](operator-anchor.md).
     
-    SCREEN SHOT GOES HERE
+    ![Example of Confirm button for confirming anchor position](media/qr-code-open-confirm-anchor.PNG "Example of Confirm button for confirming anchor position")
     
