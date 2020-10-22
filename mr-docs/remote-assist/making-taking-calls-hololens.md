@@ -32,7 +32,7 @@ The following scenarios are supported when using Dynamics 365 Remote Assist on H
 
 When you open Dynamics 365 Remote Assist, you'll see your recent contacts list in the **Call** tab. To call one of the contacts you see, select the contact.
 
-If your organization has enabled integration with Dynamics 365 Field Service, you can view and call the contact assigned to your Field Service booking. Select the Dynamics 365 icon (or say, "Remote Assist, Dynamics"), go to your instance and booking, then select the **Support Contact** listed.
+If your organization has enabled integration with Dynamics 365 Field Service, you can view and call the contact assigned to your Field Service booking. Select the Dynamics 365 Field Service icon (or say, "Remote Assist, Dynamics"), go to your instance and booking, then select the **Support Contact** listed.
 
 ![Screenshot of the Dynamics 365 Remote Assist on HoloLens contacts screen, showing an expanded booking panel.](media/07.01-dynamics-booking.png)
 
