@@ -21,7 +21,7 @@ In addition to the features and capabilities of Dynamics 365 Guides, organizatio
 
 - Access to your organization’s customer content is restricted to [screened Microsoft personnel](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government#restricted-data-access-by-administrators).
 
-- The GCC plan complies with certifications and accreditations that are required for US public sector customers with FedRAMP moderate requirements.
+- The GCC plan is designed to comply with certifications and accreditations that are required for US public sector customers with FedRAMP moderate requirements.
 
 ## Customer eligibility
 
