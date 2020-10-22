@@ -9,7 +9,7 @@ At this time, Dynamics 365 Guides US Government is offered only at the Governmen
 
 The Dynamics 365 Guides US Government service description is designed to serve as an overlay to the general Dynamics 365 Guides service description. It defines the unique commitments of this service and the differences from Dynamics 365 Guides offerings.
 
-## About the Dynamics 365 Guides US Government GCC plan environments
+## About the Dynamics 365 Guides US Government GCC plan environment
 
 The Dynamics 365 Guides Government GCC plan (referred to as "the GCC plan" or "GCC environment" in the rest of this article) is a monthly subscription that can be licensed to an unlimited number of users.
 
@@ -40,8 +40,7 @@ The GCC plan is available through the Volume Licensing and Cloud Solution Provid
 
 Customer data, as defined in the Online Services Terms, means all data, including all text, sound, video, 3D models, or image files, and software, that are provided to 
 Microsoft by, or on behalf of, customers through the use of the Online Service. Customer content refers to a specific subset of customer data that has been directly 
-created by users, such as content stored in databases through entries in [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered 
-confidential information and in normal service operation is not sent over the internet without encryption.
+created by users, such as content stored in databases through entries in [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered confidential information and in normal service operation is not sent over the internet without encryption.
 
 Microsoft reminds you not to share any controlled, sensitive, or confidential information with support personnel as part of your GCC-related support 
 incident, until you confirm their authorization to view or access such data. Microsoft is committed to protecting your privacy. Dynamics 365 Guides Customer Support 
