@@ -20,9 +20,13 @@ An operator can access the QR code in two different ways:
 launch a guide quickly by gazing at a contextual printed QR code attached to the area where they need to do their work, and anchor their holographic content 
 to the same QR code.
 
+    SCREEN SHOT GOES HERE
+    
 - **Digital QR code**. Operators can use a digital QR code to open a guide without anchoring the guide. In this case, authors must provide another 
 anchoring method for operators to align their holograms. Using a digital QR code is useful if you want to assign a guide to digital work instructions, 
 or if you need a quick way for an operator to launch a guide when they don't have access to a printed QR code.
+
+    SCREEN SHOT GOES HERE
 
 ## Embed a link in a QR code
 
@@ -41,17 +45,34 @@ or if you need a quick way for an operator to launch a guide when they don't hav
     
 3. Copy the link from step 1 and paste it into the third-party QR code generator.
 
-4. Generate and download the QR code.
+    SCREEN SHOT GOES HERE
 
-5. Do one of the following:
+4. Generate the QR code. We recommend using the following settings:
 
-    - Add the digital QR code to a digital document and then make the digital document available to the operator(s).
+    - Border: Minimum of 4.
+    
+    - Foreground color: Black (Hex#000000)
+    
+    - Background color: Hex#BBBCBF
+    
+    > [!NOTE]
+    > These settings may not be available in all third-party generators.
+
+5. Download the QR code. We recommend downloading as a JPEG file.
+
+    SCREEN SHOT GOES HERE
+
+6. Do one of the following:
+
+    - Add the digital QR code to a digital document and then make the digital document available to your operators.
     
     - Print the QR code and attach it to a physical part in the real-world environment where the work takes place.
     
     > [!IMPORANT]
-    > When creating a printed QR code with an embedded link, make sure to follow [best practices for QR codes](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors).
+    > When creating a printed QR code with an embedded link, make sure to follow [best practices for QR codes](pc-app-anchor-qr-code.md#best-practices-for-qr-code-anchors) when printing the QR code.
     
 ## What's next?
+
+[Open a guide by using a QR code]()
 
 [Learn more anchoring a guide by using a QR code](pc-app-anchor-qr-code.md)
