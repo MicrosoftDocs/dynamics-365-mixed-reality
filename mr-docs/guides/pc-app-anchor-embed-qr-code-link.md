@@ -20,13 +20,13 @@ An operator can access the QR code in two different ways:
 launch a guide quickly by gazing at a contextual printed QR code attached to the area where they need to do their work, and anchor their holographic content 
 to the same QR code.
 
-    SCREEN SHOT GOES HERE
+    ![Example of printed QR code](media/embed-qr-code-printed.PNG "Example of printed QR code")
     
 - **Digital QR code**. Operators can use a digital QR code to open a guide without anchoring the guide. In this case, authors must provide another 
 anchoring method for operators to align their holograms. Using a digital QR code is useful if you want to assign a guide to digital work instructions, 
 or if you need a quick way for an operator to launch a guide when they don't have access to a printed QR code.
 
-    SCREEN SHOT GOES HERE
+     ![Example of digital QR code](media/embed-qr-code-digital.PNG "Example of digital QR code")
 
 ## Embed a link in a QR code
 
@@ -45,7 +45,7 @@ or if you need a quick way for an operator to launch a guide when they don't hav
     
 3. Copy the link from step 1 and paste it into the third-party QR code generator.
 
-    SCREEN SHOT GOES HERE
+     ![Example QR code generator](media/embed-qr-code-anchor-generator.PNG "Example QR code generator")
 
 4. Generate the QR code. We recommend using the following settings:
 
@@ -60,7 +60,7 @@ or if you need a quick way for an operator to launch a guide when they don't hav
 
 5. Download the QR code. We recommend downloading as a JPEG file.
 
-    SCREEN SHOT GOES HERE
+     ![Download button in example QR code generator](media/embed-qr-code-anchor-download.PNG "Download button in example QR code generator")
 
 6. Do one of the following:
 
