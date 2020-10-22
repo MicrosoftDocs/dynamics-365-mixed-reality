@@ -11,7 +11,7 @@ The Dynamics 365 Guides US Government service description is designed to serve a
 
 ## About the Dynamics 365 Guides US Government GCC plan environments
 
-The Dynamics 365 Guides Government GCC plan (referred to as "the GCC plan" in the rest of this article) is a monthly subscription that can be licensed to an unlimited number of users.
+The Dynamics 365 Guides Government GCC plan (referred to as "the GCC plan" or "GCC environment" in the rest of this article) is a monthly subscription that can be licensed to an unlimited number of users.
 
 The GCC environment provides compliance with federal requirements for cloud services, including Federal Risk and Authorization Management Program (FedRAMP) moderate, CJIS, IRS 1075, and DISA SRG L2 requirements.
 
