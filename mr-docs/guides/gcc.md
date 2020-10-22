@@ -57,12 +57,7 @@ only in the United States.
 ## Certifications and accreditations
 
 > [!NOTE]
-> Dynamics 365 Guides for GCC is (i) designed to be hosted in Government Community Cloud and support FedRAMP
-accreditation; (ii) pending the corresponding FedRAMP accreditation (moderate/high); and (iii) is offered under standard commercial terms while the FedRAMP accreditation 
-is pursued. The Online Service (comprised of the relevant SKUs listed in the table below) will be provisioned in the Government Community Cloud whether or not such Online 
-Services have achieved FedRAMP accreditation or not. The parties agree and acknowledge that while the services pursue the corresponding FedRAMP accreditation, the security 
-controls and data commitments related to the services will conform to the FedRAMP standard described in the System Security Plan (SSP) for the Azure Commercial FedRAMP ATO 
-and in the Online Services Terms. For clarity, if your GCC tenant is provisioned in the United States, customer data will be stored at rest in the United States. 
+> Dynamics 365 Guides for GCC is designed to be hosted in Government Community Cloud and supports FedRAMP accreditation. Dynamics 365 Guides for GCC is currently pending FedRAMP accreditation (moderate) and is offered under standard commercial terms while the FedRAMP accreditation is pursued. The service will be provisioned in the Government Community Cloud whether or not it has achieved FedRAMP accreditation. You acknowledge that while the services pursue the corresponding FedRAMP accreditation, the security controls and data commitments related to the services will conform to the FedRAMP standard described in the System Security Plan (SSP) for the Azure Commercial FedRAMP ATO and in the Online Services Terms. For clarity, if your GCC tenant is provisioned in the United States, customer data will be stored at rest in the United States. 
 
 ## See also
 
