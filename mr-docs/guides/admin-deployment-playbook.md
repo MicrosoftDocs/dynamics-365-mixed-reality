@@ -45,7 +45,7 @@ You need at least 1 GB of database capacity to install the Guides Common Data Se
 
 ## Updating the Dynamics 365 Guides apps and the Common Data Service solution
 
-The Dynamics 365 Guides team updates the product on a monthly basis. Ensuring you have a good workflow for getting the updates is key to preventing downtime while continuing 
+The Dynamics 365 Guides team updates the product on a monthly basis. Ensuring that you have a good workflow for getting the updates is key to preventing downtime while continuing 
 to get the most advanced and stable releases.
 
 There are three components included in every update:
