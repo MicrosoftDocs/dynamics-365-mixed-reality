@@ -2,8 +2,8 @@
 # Deployment Playbook for Dynamics 365 Guides
 
 ## Architecture
-Dynamics 365 Guides is built on the Common Data Service infrastructure, which provides end-to-end control over your deployment from server-side to client-side. 
-A clear understanding of the Dynamics 365 Guides architecture will help you plan your deployment and manage updates. 
+Dynamics 365 Guides is built on the [Common Data Service infrastructure](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro), 
+which provides end-to-end control over your deployment from server-side to client-side. A clear understanding of the Dynamics 365 Guides architecture will help you plan your deployment and manage updates. 
 
 The following diagram shows the overall architecture:
 
@@ -12,17 +12,17 @@ SCREEN SHOT GOES HERE
 Dynamics 365 Guides includes two client-side applications: the PC app (a Universal Windows Platform app), and the HoloLens app. Server-side data is stored in the 
 Common Data Service within your customer tenant.
 
-•	A tenant is a representation of an organization. It’s a dedicated instance of Azure Active Directory that an organization or app developer receives when the organization 
+- A **tenant** is a representation of an organization. It’s a dedicated instance of Azure Active Directory that an organization or app developer receives when the organization 
 or app developer creates a relationship with Microsoft (like signing up for Azure, Microsoft Intune, or Microsoft 365).
 
-•	A Common Data Service environment is a segmented database that securely stores and manages data that’s used by business applications like Dynamics 365 Guides. 
-Data in the Common Data Service is stored in a set of entities. An entity is a set of records used to store data, similar to how a table stores data in a database. 
-Dynamics 365 Guides uses a custom set of Common Data Service entities to store data. 
+- A **Common Data Service environment** is a segmented database that securely stores and manages data that’s used by business applications like Dynamics 365 Guides. 
+Data in the Common Data Service is stored in a set of entities. An **entity** is a set of records used to store data, similar to how a table stores data in a database. 
+Dynamics 365 Guides uses a [custom set of Common Data Service entities to store data](https://docs.microsoft.com/dynamics365/mixed-reality/guides/developer-entity-reference). 
 
     > [!NOTE]
     > You’ll often see the terms “environment”, “instance”, and “organization” used interchangeably to refer to a Common Data Service environment. They all mean the same thing.
 
-•	The Common Data Service solution refers to the database tables installed in your Common Data Service environment where your Dynamics 365 Guides data is stored. 
+- The **Common Data Service solution** refers to the database tables installed in your Common Data Service environment where your Dynamics 365 Guides data is stored. 
 When the Dynamics 365 Guides team updates the PC and HoloLens apps, they also update the solution. It’s important to make sure that the PC and HoloLens apps that 
 you’re using are compatible with the solution.
 
