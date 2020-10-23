@@ -45,7 +45,7 @@ or if you need a quick way for an operator to launch a guide when they don't hav
     
 3. Copy the link from step 1 and paste it into the third-party QR code generator.
 
-     ![Example QR code generator](media/embed-qr-code-anchor-generator.PNG "Example QR code generator")
+     ![Example QR code generator](media/embed-qr-code-generator.PNG "Example QR code generator")
 
 4. Generate the QR code. We recommend using the following settings:
 
@@ -60,7 +60,7 @@ or if you need a quick way for an operator to launch a guide when they don't hav
 
 5. Download the QR code. We recommend downloading as a JPEG file.
 
-     ![Download button in example QR code generator](media/embed-qr-code-anchor-download.PNG "Download button in example QR code generator")
+     ![Download button in example QR code generator](media/embed-qr-code-download.PNG "Download button in example QR code generator")
 
 6. Do one of the following:
 
