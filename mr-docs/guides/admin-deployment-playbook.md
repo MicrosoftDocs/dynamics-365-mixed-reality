@@ -38,14 +38,12 @@ Your Dynamics 365 Guides license allows you to access as many Common Data Servic
 
 ## Storage capacity 
 
-You need at least 1 GB of database capacity to install the Guides Common Data Service solution. Learn how to check available capacity. As you add more content to your guides, 
-you’ll need to monitor your database capacity.    
+You need at least 1 GB of database capacity to install the Guides Common Data Service solution. [Learn how to check available capacity](https://docs.microsoft.com/power-platform/admin/capacity-storage#verifying-your-new-storage-model). As you add more content to your guides, you’ll need to monitor your database capacity.    
 
 ## Updating the Dynamics 365 Guides apps and the Common Data Service solution
 
 The Dynamics 365 Guides team updates the product on a monthly basis. Ensuring you have a good workflow for getting the updates is key to preventing downtime while continuing 
 to get the most advanced and stable releases.
-
 
 There are three components included in every update:
 
