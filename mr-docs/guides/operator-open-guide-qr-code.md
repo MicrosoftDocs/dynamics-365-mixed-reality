@@ -26,9 +26,7 @@ included in a digital document.
     
      ![Screen shot of mixed reality home](media/qr-code-open-mixed-reality-home.PNG "Screen shot of mixed reality home")
 
-2. Gaze at the QR code.
- 
-3. A green outline will appear with a play buton. Press the play button. 
+2. Gaze at the QR code. When a green outline appears with a play button, press the play button. 
 
     ![Green outline and play button](media/embed-qr-code-digital.PNG "Green outline and play button")
     
