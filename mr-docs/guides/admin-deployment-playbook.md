@@ -125,7 +125,7 @@ security groups](https://docs.microsoft.com/power-platform/admin/manage-teams#us
 
 ### Control access to specific guides or content 
 
-You can use access teams to control who can see specific guides and guide content (3D models, images, or videos). Access teams are useful when you want to grant different 
+You can use [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos). Access teams are useful when you want to grant different 
 user permissions for specific records in Common Data Service. For example, you might want access to some guides to be limited to a specific factory location, or you might 
 want to limit access to guides that are in progress.
 
@@ -148,5 +148,5 @@ The following diagram shows an example of using Common Data Service instances, a
 SCREEN SHOT GOES HERE
 
 > [!TIP]
-> You can use Azure Active Directory security groups to assign Dynamics 365 Guides security roles to batches of users. This is useful when you’re deploying Dynamics 
+> You can use Azure Active Directory security groups to [assign Dynamics 365 Guides security roles to batches of users](https://powerusers.microsoft.com/t5/Common-Data-Service-for-Apps/How-to-assign-security-roles-to-Microsoft-365-Groups-Security/m-p/648584). This is useful when you’re deploying Dynamics 
 365 Guides to many operators and allows for a bulk operation rather than having to assign roles individually.
