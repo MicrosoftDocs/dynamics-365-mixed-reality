@@ -7,7 +7,7 @@ which provides end-to-end control over your deployment from server-side to clien
 
 The following diagram shows the overall architecture:
 
-SCREEN SHOT GOES HERE
+![Diagram showing the Dynamics 365 Guides architecture](media/dynamics-365-guides-architecture.PNG "Diagram showing the Dynamics 365 Guides architecture")
 
 Dynamics 365 Guides includes two client-side applications: the PC app (a Universal Windows Platform app), and the HoloLens app. Server-side data is stored in the 
 Common Data Service within your customer tenant.
@@ -32,7 +32,7 @@ A basic Dynamics 365 Guides deployment should consist of at least two Common Dat
 
 You can use the test environment to validate any major updates before pushing them to your production environment, where Dynamics 365 Guides is being used by your end users.
 
-SCREEN SHOT GOES HERE
+![Diagram showing test vs production instances](media/test-production-instances.PNG "Diagram showing test vs production instances")
   
 Your Dynamics 365 Guides license allows you to access as many Common Data Service instances as needed within your tenant.  
 
@@ -65,7 +65,7 @@ content in your solution.
 Every release of Dynamics 365 Guides includes an update to the solution. The PC and HoloLens apps will always be backwards compatible with their ‘major’ version numbers. 
 For example, version 4.0 of the PC app will always work with version 4.0 of the solution. When in doubt, [check the app/solution compatibility table](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility).
 
-SCREEN SHOT GOES HERE
+![Screen shot of Apps/solution compatibility table](media/app-solution-compatibility-table.PNG "Screen shot of Apps/solution compatibility table")
 
 ### Major and minor updates — when you need to update the solution
 
@@ -76,7 +76,7 @@ Minor updates are listed in [What's new](https://docs.microsoft.com/dynamics365/
 the solution. The PC and HoloLens apps will continue to function if you don’t update the solution, but you won’t be able to use the new features in this case. Features 
 that require a solution update are listed in [What's new](https://docs.microsoft.com/dynamics365/mixed-reality/guides/new).
 
-SCREEN SHOT GOES HERE
+![Screen shot of What's new page showing when a solution update is required for a specific feature](media/solution-update-required.PNG "Screen shot of What's new page showing when a solution update is required for a specific feature")
  
 To [update the solution](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/upgrade), you must have a Common Data Service **System Admin** security role and a valid Power Apps license. You do not need a Dynamics 365 Guides license to 
 update the solution.
@@ -141,7 +141,7 @@ The following table describes the different roles and when to use each.
 
 The following diagram shows an example of using Common Data Service instances, access teams, and user roles to manage access to instances and guides.
 
-SCREEN SHOT GOES HERE
+![Diagram showing different levels of security access using instances, access teams, and user roles](media/security-access-methods-diagram.PNG "Diagram showing different levels of security access using instances, access teams, and user roles")
 
 > [!TIP]
 > You can use Azure Active Directory security groups to [assign Dynamics 365 Guides security roles to batches of users](https://powerusers.microsoft.com/t5/Common-Data-Service-for-Apps/How-to-assign-security-roles-to-Microsoft-365-Groups-Security/m-p/648584). This is useful when you’re deploying Dynamics 
