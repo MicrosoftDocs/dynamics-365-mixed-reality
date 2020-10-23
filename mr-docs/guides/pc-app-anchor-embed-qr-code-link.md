@@ -22,11 +22,12 @@ to the same QR code.
 
     ![Example of printed QR code](media/embed-qr-code-printed.PNG "Example of printed QR code")
     
-- **Digital QR code**. Operators can use a digital QR code to open a guide without anchoring the guide. As an example, you could use a digital QR code to include Dynamics 365 Guides in the flow of your existing online/web training modules.
+- **Digital QR code**. Operators can use a digital QR code to open a guide without anchoring the guide. Using a digital QR code is useful if you want to assign a guide to digital work instructions, or if you need a quick way for an operator to launch a guide when they don't have access to a printed QR code. As an example, you could use a digital QR code to include Dynamics 365 Guides in the flow of your existing online/web training modules.
 
-    With digital QR codes, authors must provide another anchoring method for operators to align their holograms. Using a digital QR code is useful if you want to assign a guide to digital work instructions, or if you need a quick way for an operator to launch a guide when they don't have access to a printed QR code.
+    ![Example of digital QR code](media/embed-qr-code-digital.PNG "Example of digital QR code")
 
-     ![Example of digital QR code](media/embed-qr-code-digital.PNG "Example of digital QR code")
+    > [!NOTE]
+    > With digital QR codes, authors must provide another anchoring method for operators to align their holograms.      
 
 ## Embed a link in a QR code
 
