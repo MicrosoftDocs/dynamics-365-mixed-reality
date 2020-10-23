@@ -23,8 +23,8 @@ Dynamics 365 Guides uses a [custom set of Common Data Service entities to store 
     > You’ll often see the terms “environment”, “instance”, and “organization” used interchangeably to refer to a Common Data Service environment. They all mean the same thing.
 
 - The **Common Data Service solution** refers to the database tables installed in your Common Data Service environment where your Dynamics 365 Guides data is stored. 
-When the Dynamics 365 Guides team updates the PC and HoloLens apps, they also update the solution. It’s important to make sure that the PC and HoloLens apps that 
-you’re using are compatible with the solution.
+When the Dynamics 365 Guides team updates the PC and HoloLens apps, they also update the solution. It’s important to [make sure that the PC and HoloLens apps that 
+you’re using are compatible with the solution]().
 
 ## Test vs. production instances
 
@@ -35,7 +35,7 @@ You can use the test environment to validate any major updates before pushing th
 ![Diagram showing test vs production instances](media/test-production-instances.png "Diagram showing test vs production instances")
 
 > [!NOTE]
-> "Production environment” in this case refers generally to the environment that your users access to do their daily work. This is not the same as the Common Data Service “Production environment” that you select [when installing the Dynamics 365 Guides Common Data Service solution](setup-step-two.md).
+> "Production environment” in this case refers generally to the environment that your users access to do their daily work. This is not the same as the Common Data Service “Production environment” that you select [when installing the Dynamics 365 Guides Common Data Service solution](setup-step-two.md#compatibility-between-solution-and-apps).
   
 Your Dynamics 365 Guides license allows you to access as many Common Data Service instances as needed within your tenant.  
 
