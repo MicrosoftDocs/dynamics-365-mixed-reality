@@ -72,7 +72,7 @@ For example, version 4.0 of the PC app will always work with version 4.0 of the 
 
 ### Major and minor updates — when you need to update the solution
 
-The Dynamics 365 Guides team updates the apps and solution version numbers twice per year  for major updates, on April 1 and October 1. These major updates are mandatory 
+The Dynamics 365 Guides team updates the apps and solution version numbers twice per year  for major updates: on April 1 and October 1. These major updates are mandatory 
 if you want to use the latest versions of the apps and take advantage of new features and enhancements. You’re notified of these updates through admin communications. 
 
 Minor updates are listed in [What's new](https://docs.microsoft.com/dynamics365/mixed-reality/guides/new), through in-app notifications, and through our [Dynamics 365 Guides forum](https://community.dynamics.com/365/guides). Some features in minor updates might require an update to 
