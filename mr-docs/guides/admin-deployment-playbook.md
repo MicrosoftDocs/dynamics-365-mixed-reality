@@ -123,8 +123,7 @@ There are three levels of access management:
 ### Control access to the Common Data Service environment
 
 You can use [security groups](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-security#associate-a-security-group-with-an-instance) to control which users can access specific Common Data Service environments. Security groups provide the highest level of access control and are 
-intended for organizations with multiple business units (product divisions, for example) that don’t collaborate or share content. You can also [use bulk processes to assign 
-security groups](https://docs.microsoft.com/power-platform/admin/manage-teams#using-azure-active-directory-groups-to-manage-a-users-app-and-data-access).
+intended for organizations with multiple business units (product divisions, for example) that don’t collaborate with each other or share content. You can also [use bulk processes to assign security groups](https://docs.microsoft.com/power-platform/admin/manage-teams#using-azure-active-directory-groups-to-manage-a-users-app-and-data-access).
 
 ### Control access to specific guides or content 
 
