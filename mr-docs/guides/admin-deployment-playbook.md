@@ -32,7 +32,7 @@ A basic Dynamics 365 Guides deployment should consist of at least two Common Dat
 
 You can use the test environment to validate any major updates before pushing them to your production environment, where Dynamics 365 Guides is being used by your end users.
 
-![Diagram showing test vs production instances](media/test-production-instances.PNG "Diagram showing test vs production instances")
+![Diagram showing test vs production instances](media/test-production-instances.png "Diagram showing test vs production instances")
   
 Your Dynamics 365 Guides license allows you to access as many Common Data Service instances as needed within your tenant.  
 
