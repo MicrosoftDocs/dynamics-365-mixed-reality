@@ -87,7 +87,7 @@ The PC and HoloLens apps are managed through the Microsoft Store, which is pre-i
 ensure that you’re using the latest and most stable versions of the apps.
 
 If the Microsoft Store is not available to you, you can request that your IT department add Dynamics 365 Guides to the Microsoft Store for Business. If this isn’t feasible, 
-the Dynamics 365 Guides team can provide the application packages directly to you for sideloading, but this is not the recommended approach.
+contact your Dynamics 365 Guides team or sales representative and request engineering support to facilitate direct installation of the applications. 
 
 ### Update management through Mobile Device Management (MDM)
 
