@@ -60,10 +60,10 @@ There are three components included in every update:
 When updating the solution, schedule downtime with your team and make sure they’re not using the apps. An update can take over one hour if you have a large amount of 
 content in your solution.
 
-## Compatibility between solution and apps
+### Compatibility between solution and apps
 
 Every release of Dynamics 365 Guides includes an update to the solution. The PC and HoloLens apps will always be backwards compatible with their ‘major’ version numbers. 
-For example, version 4.0 of the PC app will always work with version 4.0 of the solution. When in doubt, check the app/solution compatibility table.
+For example, version 4.0 of the PC app will always work with version 4.0 of the solution. When in doubt, [check the app/solution compatibility table](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility).
 
 SCREEN SHOT GOES HERE
 
@@ -72,11 +72,13 @@ SCREEN SHOT GOES HERE
 The Dynamics 365 Guides team updates the apps and solution version numbers twice per year  for major updates, on April 1 and October 1. These major updates are mandatory 
 if you want to use the latest versions of the apps and take advantage of new features and enhancements. You’re notified of these updates through admin communications. 
 
-Minor updates are listed in What's new, through in-app notifications, and through our Dynamics 365 Guides forum. Some features in minor updates might require an update to 
+Minor updates are listed in [What's new](https://docs.microsoft.com/dynamics365/mixed-reality/guides/new), through in-app notifications, and through our [Dynamics 365 Guides forum](https://community.dynamics.com/365/guides). Some features in minor updates might require an update to 
 the solution. The PC and HoloLens apps will continue to function if you don’t update the solution, but you won’t be able to use the new features in this case. Features 
-that require a solution update are listed in What’s new.
+that require a solution update are listed in [What's new](https://docs.microsoft.com/dynamics365/mixed-reality/guides/new).
+
+SCREEN SHOT GOES HERE
  
-To update the solution, you must have a Common Data Service System Admin security role and a valid Power Apps license. You do not need a Dynamics 365 Guides license to 
+To [update the solution](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/upgrade), you must have a Common Data Service **System Admin** security role and a valid Power Apps license. You do not need a Dynamics 365 Guides license to 
 update the solution.
 
 ### PC and HoloLens app updates
@@ -89,7 +91,7 @@ the Dynamics 365 Guides team can provide the application packages directly to yo
 
 ### Update management through Mobile Device Management (MDM)
 
-As you plan your deployment with your IT department, also consider mobile device management solutions like InTune to manage app updates.
+As you plan your deployment with your IT department, also consider mobile device management solutions like [InTune to manage app updates](https://docs.microsoft.com/mem/intune/fundamentals/windows-holographic-for-business#deploy-and-manage-apps).
 
 ## Security and privacy
 
@@ -97,13 +99,13 @@ Dynamics 365 Guides is part of the Dynamics 365 application ecosystem, which is 
 covers compliance, privacy, security, and transparency topics. This document provides in-depth details on the overall security and compliance posture given the move of 
 Dynamics 365 to be a first class SaaS built on top of Microsoft Azure platform. 
 
-The Microsoft Security Development Lifecycle (SDL) consists of a set of practices that support security assurance and compliance requirements. The SDL helps developers 
-build more secure software by reducing the number and severity of vulnerabilities in software, while reducing development cost.
+The [Microsoft Security Development Lifecycle (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl/) consists of a set of practices that support security 
+assurance and compliance requirements. The SDL helps developers build more secure software by reducing the number and severity of vulnerabilities in software, while reducing development cost.
 
 ### Network access 
 
 Dynamics 365 Guides is a cloud-based application and may require that your network admin whitelist the IP addresses and/or endpoints required to connect to the Dynamics 365 
-servers. Learn more about whitelisting IP addresses and URLs. 
+servers. [Learn more about whitelisting IP addresses and URLs](https://docs.microsoft.com/power-platform/admin/online-requirements#ip-addresses-and-urls). 
 
 ## Access management and user roles
 
@@ -117,9 +119,9 @@ There are three levels of access management:
 
 ### Control access to the Common Data Service environment
 
-You can use security groups to control which users can access specific Common Data Service environments. Security groups provide the highest level of access control and are 
-intended for organizations with multiple business units (product divisions, for example) that don’t collaborate or share content. You can also use bulk processes to assign 
-security groups.
+You can use [security groups](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-security#associate-a-security-group-with-an-instance) to control which users can access specific Common Data Service environments. Security groups provide the highest level of access control and are 
+intended for organizations with multiple business units (product divisions, for example) that don’t collaborate or share content. You can also [use bulk processes to assign 
+security groups](https://docs.microsoft.com/power-platform/admin/manage-teams#using-azure-active-directory-groups-to-manage-a-users-app-and-data-access).
 
 ### Control access to specific guides or content 
 
