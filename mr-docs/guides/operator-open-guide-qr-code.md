@@ -19,7 +19,7 @@ included in a digital document.
  
 ## Open a guide by scanning a QR code
 
-1. On your HoloLens, go to [mixed reality home](https://docs.microsoft.com/hololens/hololens2-basic-usage#start-menu-mixed-reality-home-and-apps). This is the first thing you seen when you first start HoloLens.
+1. On your HoloLens, go to [mixed reality home](https://docs.microsoft.com/hololens/hololens2-basic-usage#start-menu-mixed-reality-home-and-apps). This is the first thing you seen when you start HoloLens.
 
     > [!NOTE]
     > If you're not sure if you're at mixed reality home, [open the **Start** menu](https://docs.microsoft.com/hololens/hololens2-basic-usage#start-menu-mixed-reality-home-and-app), and then look for the **Home** button at the bottom of the menu. If the **Start** menu doesn't have a **Home** button, you're already at mixed reality home.
