@@ -30,7 +30,7 @@ included in a digital document.
 
     ![Green outline and play button](media/embed-qr-code-digital.PNG "Green outline and play button")
     
-4. In the **Application Link** dialog box, select **Open**.
+3. In the **Application Link** dialog box, select **Open**.
 
     ![Application Link dialog box with Open button](media/qr-code-open-application-link.PNG "Application Link dialog box with Open button")
 
@@ -39,13 +39,13 @@ included in a digital document.
     > [!NOTE] 
     > If you haven't previously signed into the account, you'll be prompted to do so. 
     
-5. If the account has both Author and Operator permissions, you'll be asked to choose which mode you want to open the guide in. 
+4. If the account has both Author and Operator permissions, you'll be asked to choose which mode you want to open the guide in. 
 
     ![Select mode dialog box](media/qr-code-open-select-mode.PNG "Select mode dialog box")
 
     If you only have Operator permissions, the guide is automatically launched in Operator mode.    
     
-6. After the guide is opened, you'll see the anchoring step for the embedded guide or step. Select **Initiate scan** to anchor the guide.
+5. After the guide is opened, you'll see the anchoring step for the embedded guide or step. Select **Initiate scan** to anchor the guide.
     
     ![Scan QR code anchor dialog box](media/qr-code-open-anchor-step.PNG "Scan QR code anchor dialog box")
  
