@@ -133,15 +133,12 @@ The following table describes the different roles and when to use each.
 
 |Role	|Permissions	|When to use|
 |----------------------------|----------------------------------------------------|--------------------------------------------------------|
-|Admin|- Can install and update Common Data Service solutions<br>- Can create new Common Data Service environments<br>- Can assign security roles<br>- Has access to all 
-teams and instance |Required for administration of the Dynamics 365 Guides Common Data Service solution<br>**Note:** A best practice is to have at 
+|Admin|- Can install and update Common Data Service solutions<br>- Can create new Common Data Service environments<br>- Can assign security roles<br>- Has access to all teams and instance |Required for administration of the Dynamics 365 Guides Common Data Service solution<br>**Note:** A best practice is to have at 
 least two admins to ensure coverage.|
 |Author	|- Read/write access<br>- Can access all guides in an instance|For top-level Dynamics 365 Guides authors|
 |Operator	|- Read only<br>- Can access all guides in an instance|For users that do not need to create or edit a guide|
-|Restricted Author|- Read/write<br>- Can only access guides that they create, are shared directly with them, or are shared through an access team|When an author only needs 
-access to specific guides in the instance|
-|Restricted Operator|- Read only<br>- Can only access guides that are shared directly with them or are shared through an access team|When an operator only needs access to 
-specific guides in the instance|
+|Restricted Author|- Read/write<br>- Can only access guides that they create, are shared directly with them, or are shared through an access team|When an author only needs access to specific guides in the instance|
+|Restricted Operator|- Read only<br>- Can only access guides that are shared directly with them or are shared through an access team|When an operator only needs access to specific guides in the instance|
 
 The following diagram shows an example of using Common Data Service instances, access teams, and user roles to manage access to instances and guides.
 
