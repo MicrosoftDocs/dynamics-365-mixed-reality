@@ -29,7 +29,7 @@ Version 500.2010.17001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/support-government-community-cloud" target="_blank">Support for Government Community Cloud</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/support-government-community-cloud" target="_blank">Support for Dynamics 365 Guides Government Community Cloud</a> | No |
 
 > [!NOTE]
 > The Government Community Cloud (GCC) licenses will be available on Nov 1. GCC documentation will be available on that same date.
