@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: mamaylya
-ms.date: 10/06/2020
+ms.date: 10/26/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -31,10 +31,18 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
 
-## October 1, 2020
+## October 26, 2020
+
+Version 500.2010.17001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.1.1.0  include the following new features.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/support-government-community-cloud" target="_blank">Support for Government Community Cloud</a> | No |
 
 > [!NOTE]
-> The October 1 Common Data Service solution will be available by 6 am, October 1, Pacific Standard Time.
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
+## October 1, 2020
 
 Version 500.2009.23001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.0.1.1  include the following new features.
 
@@ -45,9 +53,6 @@ Version 500.2009.23001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/activate-trigger-when-operators-hand-enters-trigger-area" target="_blank">Activate a trigger when the operator's hand enters the trigger area </a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-paste-position-orientation-scale-3d-model" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-dynamics-365-guides-content-one-common-data-service-instance-another" target="_blank">Copy Dynamics 365 Guides content from one Common Data Service instance to another </a> | No |
-
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## September 2, 2020
 
