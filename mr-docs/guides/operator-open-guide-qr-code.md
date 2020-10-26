@@ -28,7 +28,7 @@ included in a digital document.
 
 2. Gaze at the QR code. When a green outline appears with a play button, press the play button. 
 
-    ![Green outline and play button](media/embed-qr-code-digital.PNG "Green outline and play button")
+    ![Green outline and play button](media/embed-qr-code-printed.PNG "Green outline and play button")
     
 3. In the **Application Link** dialog box, select **Open**.
 
