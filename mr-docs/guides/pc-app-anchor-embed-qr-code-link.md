@@ -31,7 +31,7 @@ to the same QR code.
 
 ## Embed a link in a QR code
 
-1. [Create a guide link](pc-app-copy-link-guide-step.md) by selecting 
+1. [Create a guide link](pc-app-copy-link-guide-step.md) by right-clicking a guide and selecting **Copy link to this guide**.
 
     ![Example QR code generator](media/embed-qr-code-link-copy-link.PNG "Example QR code generator")
 
