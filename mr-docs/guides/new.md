@@ -16,15 +16,9 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!IMPORTANT]
 > Important info on upcoming mandatory update:
 >
-> The Oct 1 solution upgrade is a large bi-yearly upgrade. Please anticipate a longer than usual upgrade time, and plan to upgrade during a time when the HoloLens and PC apps are not in use. The length of time required for the upgrade is proportional to the number of records in your Common Data Service environment. For example, 100 guides with 100 steps in each guide will take approximately 15 minutes to upgrade, compared to an environment with 1000 guides with 100 steps each, which will take approximately 2 hours. 
->
-> You must have the **System Administrator** role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress can cause loss of data. 
->
 > After the October 27 release, all new Dynamics 365 Guides PC and HoloLens application releases will only work with the October 1, 2020 Common Data Service solution, version 5.0 or later. 
 >
-> You must upgrade the solution between October 1 and October 27 if you want to continue to use the latest HoloLens and PC applications. 
-> 
-> This new Common Data Service solution is a foundational change for key features in upcoming releases of Dynamics 365 Guides. 
+> You must have the System Administrator role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress can cause loss of data. 
 >
 > You can work with your IT admin to schedule installation of this update. 
 >
