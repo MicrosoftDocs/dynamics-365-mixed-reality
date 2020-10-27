@@ -54,11 +54,11 @@ to the same QR code.
 
 4. Generate the QR code. We recommend using the following settings:
 
-    - Border: Minimum of 4.
+    - Border: Minimum of 4. This number represents the number of small black square spaces (modules) around the border of the QR code. A value less than **4** will result in degredation in the detection rate of the HoloLens sensors.
     
     - Foreground color: Black (Hex#000000)
     
-    - Background color: Hex#BBBCBF
+    - Background color: Hex#BBBCBF. This provides a 30% gray background to help improve the contrast of the QR code. This setting provides the best adaptability for a wide variety of environments and lighting conditions. If you have trouble detecting an anchor that your provide, try adjust the anchor's image brightness to match the average environmental brightness around the anchor. 
     
     > [!NOTE]
     > These settings may not be available in all third-party generators.
