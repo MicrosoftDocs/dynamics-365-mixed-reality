@@ -54,11 +54,25 @@ More information: [Create and manage environments in the Power Platform admin ce
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 2. In the left pane, select **Resources** > **Dynamics 365 apps**.
 3. Find the Dynamics 365 Remote Assist app, select the ellipsis button ![ellipsis icon](./media/ellipsis.png), and then select **Install**.
-![Power Platform admin center](./media/AC_PPAC_InstallApp.png "Power Platform admin center")
-4. Select an environment, review the packages to be installed, agree to the terms of service, and then select **Install**. This process might take a while.
+
+    ![Power Platform admin center](./media/AC_PPAC_InstallApp.png "Power Platform admin center")
+
+4.. Select an environment, review the packages to be installed, agree to the terms of service, and then select **Install**. This process might take a while.
 
 > [!IMPORTANT]
 > The environment selected must be Dynamics 365 apps&ndash;enabled (for example, you can't use the default environment). If it isn't compatible, the installation will fail. Choose another environment that's compatible, or create a new environment with Dynamics 365 apps enabled.
+
+## Updating the model-driven app to the latest version
+
+As new versions of the Dynamics 365 Remote Assist model-driven app are released, you will need to update the app by following the steps below to ensure that the latest features are available:
+
+1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. In the left pane, select **Environments** and then click on the name of the environment where you wish to perform the update.
+1. From this view of environment details, you can select **Resources** > **Dynamics 365 apps** either from the top nav bar or from the card in the main view.
+:::image type="content" source="media/PPAC_Environment_Details_D365_apps.png" alt-text="Screenshot of environment details in PPAC.":::
+1. You will see the appropriate status for applications which have an **Update available**. Select the status, which will show a pane with the details of the update. Follow the steps to start the update.
+:::image type="content" source="media/PPAC_Update_Solution.png" alt-text="Screenshot of solution updates in PPAC":::
+1. After initiating the update, the environment details will show a status of **Installing** next to the **Dynamics 365 Remote Assist** app. This process might take a while. Once the update has been completed, the status will change to **Installed**.
 
 ## Next step
 
