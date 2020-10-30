@@ -166,7 +166,7 @@ If you use Blender to prepare your 3D models, review the information on the Blen
 
     ![Delete command](media/recap-photo17.PNG "Delete command")
 
-2. On the **File** menu, select **Import** \> **Wavefront (.obj)** to import the .obj file.
+2. On the **File** menu, select **Import** \> **Wavefront (.obj)** to import the OBJ file.
 
     ![Wavefront (.obj) command](media/recap-photo18.PNG "Wavefront (.obj) command")
 
