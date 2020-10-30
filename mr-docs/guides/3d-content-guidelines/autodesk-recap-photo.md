@@ -118,7 +118,7 @@ After you've finished removing the parts of the mesh that you don't want to keep
 2. In the **Decimate** dialog box, in the **Target face count** field, specify a polygon count that balances visual fidelity with performance requirements.
 
     > [!NOTE]
-    > Unless precise geometry is very important to you, don't select the **Best geometry** check box, because it will remove your textures. The textures that are produced through photogrammetry add significant detail to the 3D model.
+    > Unless precise geometry is very important, don't select the **Best geometry** check box, because it will remove your textures. The textures that are produced through photogrammetry add significant detail to the 3D model.
 
     ![Decimate settings](media/recap-photo12.PNG "Decimate settings")
 
