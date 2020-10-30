@@ -43,7 +43,7 @@ The following tips will help you take quality photos for photogrammetry:
 
 ## Start a new project
 
-1. Open Autodesk ReCap Photo. When you first open Autodesk ReCap Photo, you see the dashboard.
+1. Open Autodesk ReCap Photo. When you first open Autodesk ReCap Photo, you'll see the dashboard.
 
     > [!NOTE]
     > On the dashboard, you can select either **Aerial** or **Object** to create a new 3D project. This tutorial covers the **Object** workflow.
@@ -71,7 +71,7 @@ The following tips will help you take quality photos for photogrammetry:
 
     ![Select folder to extract mesh to dialog box with Select Folder button selected](media/recap-photo5.PNG "Select folder to extract mesh to dialog box with Select Folder button selected")
 
-7. You see a new 3D model that has the name that you entered. Select the model to open it in the editor.
+7. You'll see a new 3D model that has the name that you entered. Select the model to open it in the editor.
 
     ![New model](media/recap-photo6.PNG "New model")
 
