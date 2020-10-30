@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Prepare Autodesk Inventor 3D models for use in Dynamics 365 Guides and for mixed-reality components included in apps created with Power Apps
 
-This tutorial shows how to prepare Autodesk Inventor files for use in Microsoft Dynamics 365 Guides and mixed-reality components included in apps created with Microsoft Power Apps. 
+This tutorial shows how to prepare Autodesk Inventor files for use in Microsoft Dynamics 365 Guides and for mixed-reality components included in apps created with Microsoft Power Apps. 
 
 > [!IMPORTANT]
 > This document is created strictly for informative purposes to demonstrate how Autodesk Inventor works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
@@ -90,7 +90,7 @@ Dynamics 365 Guides and mixed-reality components in apps created in Power Apps u
 
   - [SideFX Houdini](houdini.md)
 
-## View a 3D model in Dynamics 365 Guides and Power Apps
+## View a 3D model in Dynamics 365 Guides or Power Apps
 
 After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps
 
