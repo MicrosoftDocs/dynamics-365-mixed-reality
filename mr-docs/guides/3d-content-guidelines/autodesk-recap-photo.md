@@ -1,19 +1,19 @@
 ---
 author: keno-msft
-description: This tutorial explains how to use Autodesk ReCap Photo to create 3D models for Microsoft Dynamics 365 mixed-reality apps.
+description: This tutorial explains how to use Autodesk ReCap Photo to create 3D models for Microsoft Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 3/20/2020
 ms.service: crm-online
 ms.topic: article
-title: Use Autodesk ReCap Photo to create 3D models for Dynamics 365 mixed-reality apps
+title: Use Autodesk ReCap Photo to create 3D models for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Use Autodesk ReCap Photo to create 3D models for Dynamics 365 mixed-reality applications
+# Use Autodesk ReCap Photo to create 3D models for Dynamics 365 Guides and for mixed-reality components included in apps created with Power Apps
 
-This tutorial guides you through the process of using Autodesk ReCap Photo photogrammetry software to create 3D models that can be used with Microsoft Dynamics 365 mixed-reality applications.
+This tutorial guides you through the process of using Autodesk ReCap Photo photogrammetry software to create 3D models that can be used with Microsoft Dynamics Guides and for mixed-reality components included in apps created with Power Apps.
 
-This tutorial is created only for informational purposes, to show how ReCap Photo works with Microsoft Dynamics 365 mixed-reality applications. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor Autodesk or any of its products.
+This tutorial is created only for informational purposes, to show how ReCap Photo works with Microsoft Dynamics 365 Guides and Power Apps. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor Autodesk or any of its products.
 
 ## What is Autodesk ReCap Photo?
 
@@ -109,7 +109,7 @@ The rest of the floor is now removed from your 3D model, and the mesh on the bot
 
 ## Decimate the 3D model to help increase performance
 
-After you've finished removing the parts of the mesh that you don't want to keep, you can decimate it to a polygon count that meets the [performance targets for Dynamics 365 mixed-reality applications](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+After you've finished removing the parts of the mesh that you don't want to keep, you can decimate it to a polygon count that meets the [performance targets for Dynamics 365 Guides and Power Apps](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
 
 1. On the left side of the editor page, select the **Decimate mesh** tool.
 
@@ -130,7 +130,7 @@ The 3D model is now optimized and ready for export.
 
 ## Export the 3D model as an .obj file
 
-Before you can use the 3D model in a Dynamics 365 mixed-reality application, it must be in the GLB file format. In this step, you will export the model as an .obj file that can then be converted to a .glb file.
+Before you can use the 3D model in Dynamics 365 Guides and Power Apps, it must be in the GLB file format. In this step, you will export the model as an .obj file that can then be converted to a .glb file.
 
 1. On the left side of the editor page, select the **Export** button, and then select the **Export model** button to open the export settings.
 
@@ -182,7 +182,7 @@ If you use Blender to prepare your 3D models, review the information on the Blen
 
 ### Export the 3D model as a .glb file
 
-The last step is to export the model as a .glb file, so that it can be used with Dynamics 365 mixed-reality applications.
+The last step is to export the model as a .glb file, so that it can be used with Dynamics 365 Guides and Power Apps.
 
 1. In Blender, on the **File** menu, select **Export** \> **glTF 2.0 (.glb/.gltf)**.
 
