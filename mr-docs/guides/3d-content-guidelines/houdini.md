@@ -210,10 +210,11 @@ Repeat this process with the rest of your 3D models to rapidly produce optimized
 
 ## View a 3D model in Dynamics 365 Guides or Power Apps
 
-After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps
+After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
-[Dynamics 365 Guides](../index.md)<br> 
-[Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-overview)
+- [Dynamics 365 Guides](../index.md)
+
+- [Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-overview)
 
 ### More information
 
