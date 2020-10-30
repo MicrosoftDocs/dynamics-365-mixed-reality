@@ -208,7 +208,7 @@ The template is ready. Close Houdini to try it out.
 
 Repeat this process with the rest of your 3D models to rapidly produce optimized models ready for use in Dynamics 365 Guides and Power Apps.
 
-## View a 3D model in Dynamics 365 Guides and Power Apps
+## View a 3D model in Dynamics 365 Guides or Power Apps
 
 After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps
 
