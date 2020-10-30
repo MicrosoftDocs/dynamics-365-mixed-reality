@@ -39,7 +39,7 @@ The following tips will help you take quality photos for photogrammetry:
 
 - If you can, maintain a perpendicular location relative to the object while you take photos.
 
-- If the object is large, move in a lateral motion from one end of it to the other, and change the height at each pass, until you've captured all surfaces.
+- If the object is large, move in a lateral motion from one end of the object to the other. Change the height at each pass until you've captured all surfaces.
 
 ## Start a new project
 
