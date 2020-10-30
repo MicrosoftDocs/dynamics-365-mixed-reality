@@ -124,7 +124,7 @@ After you've finished removing the parts of the mesh that you don't want to keep
 
 3. Select **Decimate all**.
 
-The 3D model is now optimized and ready for export.
+The 3D model is optimized and ready for export.
 
 ![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
 
