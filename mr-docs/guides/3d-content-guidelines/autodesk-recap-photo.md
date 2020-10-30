@@ -204,8 +204,9 @@ The last step is to export the model as a GLB file so that it can be used with D
 
 After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps:
 
-[Dynamics 365 Guides](../index.md)<br> 
-[Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-overview)
+- [Dynamics 365 Guides](../index.md)
+
+- [Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-overview)
 
 ## More information
 
