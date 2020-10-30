@@ -221,13 +221,12 @@ The model is now completed and ready to be used in Dynamics 365 Guides and Power
 
 ![Finished model](media/agisoft-23.PNG "Finished model")
 
-## View your 3D model in Dynamics 365 mixed-reality applications
+## View a 3D model in Dynamics 365 Guides or Power Apps
 
-After you've finished preparing your 3D model, you can use it in the following applications:
+After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps
 
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
-
-- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
+[Dynamics 365 Guides](../index.md)<br> 
+[Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-overview)
 
 ## More information
 
