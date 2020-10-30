@@ -9,11 +9,11 @@ title: Use Blender to prepare 3D models for use in Dynamics 365 Guides and Power
 ms.reviewer: v-brycho
 ---
 
-# Use Blender to prepare 3D models for use in Dynamics 365 Guides and Power Apps
+# Use Blender to prepare 3D models for use in Dynamics 365 Guides and in mixed-reality components included in apps created with Power Apps
 
 This tutorial provides step-by-step instructions that show you how to:
 
-- Reduce the polygon count of a 3D model so that it matches the performance needs specific to [performance targets](optimize-models.md#performance-targets) for Microsoft Dynamics 365 Guides and mixed-reality components included in apps created with Microsoft Power Apps.
+- Reduce the polygon count of a 3D model so that it matches the performance needs specific to [performance targets](optimize-models.md#performance-targets) for Microsoft Dynamics 365 Guides and for mixed-reality components included in apps created with Microsoft Power Apps.
 
 - Combine the 3D model's multiple materials (colors) into a single texture that can be applied to the model.
 
@@ -246,7 +246,7 @@ The last step is to export the model to a GLB file so it can be used with Dynami
 
     ![Export settings](media/blender-gltf.png "Export settings")
 
-## View a 3D model in Dynamics 365 Guides and Power Apps
+## View a 3D model in Dynamics 365 Guides or Power Apps
 
 After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps
 
