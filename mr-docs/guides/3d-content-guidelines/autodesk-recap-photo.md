@@ -130,7 +130,7 @@ The 3D model is optimized and ready for export.
 
 ## Export the 3D model as an .obj file
 
-Before you can use the 3D model in Dynamics 365 Guides or Power Apps, it must be in the GLB file format. In this step, you will export the model as an .obj file that can then be converted to a .glb file.
+Before you can use the 3D model in Dynamics 365 Guides or Power Apps, it must be in the GLB file format. In this step, you'll export the model as an .obj file that can then be converted to a .glb file.
 
 1. On the left side of the editor page, select the **Export** button, and then select the **Export model** button to open the export settings.
 
