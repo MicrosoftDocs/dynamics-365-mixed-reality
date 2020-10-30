@@ -9,7 +9,7 @@ title: Convert your 3D (CAD) models to use with Dynamics 365 Guides and Power Ap
 ms.reviewer: v-brycho
 ---
 
-# Convert your 3D (CAD) models to use with Dynamics 365 Guides or Power Apps mixed-reality components
+# Convert your 3D (CAD) models to use with Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
 
 To use your 3D models with Microsoft Dynamics 365 Guides or in apps created with Power Apps that include mixed-reality components, you need to convert them to a file format that supports real-time rasterization. 
 
