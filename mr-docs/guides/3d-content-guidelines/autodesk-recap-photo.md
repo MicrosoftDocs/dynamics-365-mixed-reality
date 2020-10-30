@@ -109,7 +109,7 @@ The rest of the floor is removed from your 3D model and the mesh on the bottom i
 
 ## Decimate the 3D model to help increase performance
 
-After you've finished removing the parts of the mesh that you don't want to keep, you can decimate it to a polygon count that meets the [performance targets for Dynamics 365 Guides and Power Apps](optimize-models#performance-targets).
+After you've finished removing the parts of the mesh that you don't want to keep, you can decimate it to a polygon count that meets the [performance targets for Dynamics 365 Guides and Power Apps](optimize-models.md#performance-targets).
 
 1. On the left side of the editor page, select the **Decimate mesh** tool.
 
