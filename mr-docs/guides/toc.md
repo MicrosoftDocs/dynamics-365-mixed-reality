@@ -60,6 +60,22 @@
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ### [How to make a great mixed reality guide](great-guide.md)
 ### [Convert 3D models to use as holograms](author-convert-3D-models.md)
+#### [Overview of converting 3D models](index.md)
+#### [Convert your 3D (CAD) models](convert-models.md)
+#### [Optimize your 3D models](optimize-models.md)
+#### [Best practices for real-time 3D models](best-practices.md)
+#### Tutorials
+##### [Overview](tutorials-overview.md)
+##### [Agisoft Metashape](agisoft-metashape.md)
+##### Autodesk
+###### [Inventor](inventor.md)
+###### [3ds Max](3ds-max.md)
+###### [ReCap Photo](autodesk-recap-photo.md) 
+##### [Blender](blender.md)
+##### [Dassault Systèmes SOLIDWORKS](solidworks.md)
+##### SideFX Houdini
+###### [Prepare 3D models](houdini.md)
+###### [Convert a point cloud](houdini-point-cloud.md)
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
 ### Calibrate your HoloLens
