@@ -97,7 +97,7 @@ Several tools are available on the left side and at the bottom of the editor pag
 
     - **Fill**: Select this option to close the model, based on the boundary of the open area of the model. In some cases, filling might not be easy.
 
-    - **No Fill**: Select this option to leave the model as an open model.
+    - **No fill**: Select this option to leave the model as an open model.
 
     - **Transform plane**: Select this check box to align the plane so that the floor isn't visible.
 
