@@ -128,9 +128,9 @@ The 3D model is optimized and ready for export.
 
 ![Optimized geometry](media/recap-photo13.PNG "Optimized geometry")
 
-## Export the 3D model as an .obj file
+## Export the 3D model as an OBJ file
 
-Before you can use the 3D model in Dynamics 365 Guides or Power Apps, it must be in the GLB file format. In this step, you'll export the model as an .obj file that can then be converted to a .glb file.
+Before you can use the 3D model in Dynamics 365 Guides or Power Apps, it must be in the GLB file format. In this step, you'll export the model as an .obj file that can then be converted to a GLB file.
 
 1. On the left side of the editor page, select the **Export** button, and then select the **Export model** button to open the export settings.
 
