@@ -1,28 +1,28 @@
 ---
 author: keno-msft
-description: Describes in tutorial form how to use the Blender open-source 3D creation suite to prepare 3D models for use in Dynamics 365 mixed-reality apps
+description: Describes in tutorial form how to use the Blender open-source 3D creation suite to prepare 3D models for use in Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 10/22/2019
 ms.service: crm-online
 ms.topic: article
-title: Use Blender to prepare 3D models for use in Dynamics 365 mixed-reality apps
+title: Use Blender to prepare 3D models for use in Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Use Blender to prepare 3D models for use in Dynamics 365 mixed-reality applications
+# Use Blender to prepare 3D models for use in Dynamics 365 Guides and Power Apps
 
 This tutorial provides step-by-step instructions that show you how to:
 
-- Reduce the polygon count of a 3D model so that it matches the performance needs specific to [performance targets](optimize-models.md#performance-targets) for Microsoft Dynamics 365 mixed-reality apps.
+- Reduce the polygon count of a 3D model so that it matches the performance needs specific to [performance targets](optimize-models.md#performance-targets) for Microsoft Dynamics 365 Guides and mixed-reality components included in apps created with Microsoft Power Apps.
 
 - Combine the 3D model's multiple materials (colors) into a single texture that can be applied to the model.
 
-- Export the optimized 3D model as a [GLB file](index.md#gltf-and-glb-file-formats) that can be used in Dynamics 365 mixed-reality apps.
+- Export the optimized 3D model as a [GLB file](index.md#gltf-and-glb-file-formats) that can be used in Dynamics 365 Guides and Power Apps.
 
-The combination of reducing polygons and turning multiple materials into a single texture can transform a complex and resource-intensive 3D model into a 3D model that performs well in mixed-reality apps.
+The combination of reducing polygons and turning multiple materials into a single texture can transform a complex and resource-intensive 3D model into a 3D model that performs well in Dynamics 365 Guides and Power Apps.
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Blender works with Dynamics 365 mixed-reality apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Blender or any of Blender's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how Blender works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Blender or any of Blender's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
 
 ## What is Blender?
 
@@ -236,7 +236,7 @@ After the texture and material are set up on the duplicate 3D model, it's time t
 
 ## Export the model to a GLB file
 
-The last step is to export the model to a GLB file so it can be used with Dynamics 365 mixed-reality apps.
+The last step is to export the model to a GLB file so it can be used with Dynamics 365 Guides and Power Apps.
 
 1.	In Blender, select **File** > **Export** > **glTF 2.0**.
 
@@ -246,7 +246,7 @@ The last step is to export the model to a GLB file so it can be used with Dynami
 
     ![Export settings](media/blender-gltf.png "Export settings")
 
-## View a 3D model in Dynamics 365 mixed-reality apps
+## View a 3D model in Dynamics 365 Guides and Power Apps
 
 After you've prepared a 3D model, you can learn more about using the following Dynamics 365 apps to view it:
 
