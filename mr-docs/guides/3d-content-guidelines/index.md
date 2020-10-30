@@ -1,15 +1,15 @@
 ---
 author: keno-msft
-description: Overview of converting and optimizing 3D models to use with Dynamics 365 mixed-reality applications  
+description: Overview of converting and optimizing 3D models to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 01/08/2020
 ms.service: crm-online
 ms.topic: overview
-title: Overview of preparing 3D models for Dynamics 365 mixed-reality applications such as Dynamics 365 Guides
+title: Overview of preparing 3D models for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Overview of preparing 3D models for Dynamics 365 Guides or for mixed-reality components in Power Apps
+# Overview of preparing 3D models for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps
 
 If you're using [!include[cc-microsoft](../../includes/cc-microsoft.md)] Dynamics 365 Guides, or creating apps with mixed-reality components in Power Apps, you might want to import your own 3D models for use as holograms. This article shows you how to prepare your 3D models by using a combination of third-party tools.
 
