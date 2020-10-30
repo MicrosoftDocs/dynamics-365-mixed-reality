@@ -421,14 +421,12 @@ To save time and effort, you can create a template. In this way, the settings th
 
     - If you aren't satisfied with how the 3D model looks, adjust the settings for the **particlefluidsurface1**, **remesh**, and **polyreduce1** nodes. When your model looks acceptable, bake your texture again, and export the 3D model.
 
-## View your 3D model in mixed reality
+## View a 3D model in Dynamics 365 Guides and Power Apps
 
-You can use the following Microsoft Dynamics 365 apps to view your 3D model in mixed reality:
+After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps
 
-- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
-
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/)
-
+[Dynamics 365 Guides](../index.md)<br> 
+[Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-overview)
 
 ### More information
 
