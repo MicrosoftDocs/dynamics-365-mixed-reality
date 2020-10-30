@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 You can use your own 3D models for custom 3D parts in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. You can use a combination of third-party tools to prepare your 3D models for use in [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. For more information, see these topics:
 
-- [Optimize your 3D models](3D-content-guidelines/optimize-models)
+- [Optimize your 3D models](3d-content-guidelines/optimize-models.md)
 
 - [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)
 
