@@ -208,13 +208,12 @@ The template is ready. Close Houdini to try it out.
 
 Repeat this process with the rest of your 3D models to rapidly produce optimized models ready for use in Dynamics 365 mixed-reality apps.
 
-## View a 3D model in a Dynamics 365 mixed-reality app
+## View a 3D model in Dynamics 365 Guides and Power Apps
 
-After preparing your 3D models, you can learn more about using the following Dynamics 365 apps to view your 3D models in mixed reality:
+After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps
 
 [Dynamics 365 Guides](../index.md)<br> 
-[Dynamics 365 Product Visualize](../../product-visualize/index.md)<br> 
-[Dynamics 365 Layout](../../layout/index.md) 
+[Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-overview)
 
 ### More information
 
