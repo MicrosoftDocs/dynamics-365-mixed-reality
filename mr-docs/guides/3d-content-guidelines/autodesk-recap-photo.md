@@ -103,7 +103,7 @@ Several tools are available on the left side and at the bottom of the editor pag
 
     ![Slicing tool settings](media/recap-photo10.PNG "Slicing tool settings")
 
-5. When the model looks the way that you want it, select **Apply**.
+5. When the model looks the way that you want it to, select **Apply**.
 
 The rest of the floor is now removed from your 3D model, and the mesh on the bottom is filled.
 
