@@ -169,7 +169,7 @@ The next step is to build the mesh.
     ![Build Mesh settings](media/agisoft-17.PNG "Build Mesh settings")
 
     > [!NOTE]
-    > These settings work for general cases. Experiment with other options to find the best combination for your needs. You might want to change the **Face count** setting to match the [performance requirements for your targeted platform](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets).
+    > These settings work for general cases. Experiment with other options to find the best combination for your needs. You might want to change the **Face count** setting to match the [performance requirements for your targeted platform](3d-content-guidelines/optimize-models.md#performance-targets).
 
 3. When you've finished, select **OK** to convert the point cloud into a 3D model.
 
