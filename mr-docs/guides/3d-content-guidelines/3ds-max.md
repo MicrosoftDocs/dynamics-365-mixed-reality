@@ -1,20 +1,20 @@
 ---
 author: keno-msft
-description: Describes, in tutorial format, how to use Autodesk 3ds Max to prepare content for use in Dynamics 365 mixed-reality apps
+description: Describes, in tutorial format, how to use Autodesk 3ds Max to prepare content for use in Dynamics 365 Guides or Microsoft Power Apps
 ms.author: keno
 ms.date: 10/22/2019
 ms.service: crm-online
 ms.topic: article
-title: Use Autodesk 3ds Max to prepare content for use in Dynamics 365 mixed-reality apps
+title: Use Autodesk 3ds Max to prepare content for use in Dynamics 365 Guides or Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Use Autodesk 3ds Max to prepare 3D content for Dynamics 365 mixed-reality apps
+# Use Autodesk 3ds Max to prepare 3D content for Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps 
 
-When preparing CAD files for Microsoft Dynamics 365 mixed-reality apps, you can run into numerous performance and quality roadblocks that prevent a smooth transition from CAD to real time. The 3ds Max program is a digital content creation (DCC) suite that has a unique ability to bridge parametric models and real-time polygon modeling. This tutorial demonstrates how to use the 3ds Max conversion and optimization capabilities to prepare 3D CAD models for use in mixed reality.  
+When preparing CAD files for Microsoft Dynamics 365 Guides or for mixed-reality components included in apps created with Power Apps, you can run into numerous performance and quality roadblocks that prevent a smooth transition from CAD to real time. The 3ds Max program is a digital content creation (DCC) suite that has a unique ability to bridge parametric models and real-time polygon modeling. This tutorial demonstrates how to use the 3ds Max conversion and optimization capabilities to prepare 3D CAD models for use in mixed reality.  
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Autodesk 3ds Max works with Dynamics 365 mixed-reality apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how Autodesk 3ds Max works with Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Autodesk or any of Autodesk's products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
 
 ## What is Autodesk 3ds Max?
 
@@ -177,7 +177,7 @@ If there are more than ten materials on the 3D model, combining them into a sing
 
   > [!NOTE]
   > * This process only works if the materials haven't yet been converted to **Physical Material**.
-  > * Baking, UVs, and texture maps are complex. The goal of this tutorial isn't to make you an expert in texture baking, but to help you get through the process so that you can use your 3D models with Dynamics 365 mixed-reality apps. For this reason, this tutorial doesn't go into a lot of detail about texture baking.
+  > * Baking, UVs, and texture maps are complex. The goal of this tutorial isn't to make you an expert in texture baking, but to help you get through the process so that you can use your 3D models with Dynamics 365 Guides and Power Apps. For this reason, this tutorial doesn't go into a lot of detail about texture baking.
 
 ### Prepare the 3D model
 
