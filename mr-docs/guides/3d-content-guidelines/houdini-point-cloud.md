@@ -9,7 +9,7 @@ title: Use SideFX Houdini to turn point clouds into optimized 3D models for Dyna
 ms.reviewer: v-brycho
 ---
 
-# Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 Guides and mixed-reality components in apps created with Power Apps
+# Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 Guides and for mixed-reality components in apps created with Power Apps
 
 This tutorial provides step-by-step instructions for the following tasks:
 
@@ -421,7 +421,7 @@ To save time and effort, you can create a template. In this way, the settings th
 
     - If you aren't satisfied with how the 3D model looks, adjust the settings for the **particlefluidsurface1**, **remesh**, and **polyreduce1** nodes. When your model looks acceptable, bake your texture again, and export the 3D model.
 
-## View a 3D model in Dynamics 365 Guides and Power Apps
+## View a 3D model in Dynamics 365 Guides or Power Apps
 
 After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps
 
