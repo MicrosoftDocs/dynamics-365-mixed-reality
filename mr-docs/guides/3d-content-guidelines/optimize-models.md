@@ -1,15 +1,15 @@
 ---
 author: keno-msft
-description: How to optimize your 3D (CAD) models to use with Dynamics 365 mixed-reality applications
+description: How to optimize your 3D (CAD) models to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 09/11/2020
 ms.service: crm-online
 ms.topic: article
-title: Optimize your 3D models to use with Dynamics 365 mixed-reality apps
+title: Optimize your 3D models to use with Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Optimize your 3D models to use with Dynamics 365 Guides or in Power Apps mixed-reality components
+# Optimize your 3D models to use with Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
 
 For best rendering and best possible real-time performance, your 3D models need to be converted and might need to be optimized before using with Dynamics 365 Guides or in an app created with Power Apps that includes mixed-reality components. Third-party applications that convert CAD files often have tools that can optimize content as well. 
 
