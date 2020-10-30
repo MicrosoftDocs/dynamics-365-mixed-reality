@@ -11,9 +11,9 @@ ms.reviewer: v-brycho
 
 # Use Agisoft Metashape to create 3D models for Dynamics 365 Guides and for mixed-reality components included in apps created with Power Apps
 
-This tutorial guides you through the process of using Agisoft Metashape photogrammetry software to create a 3D model that you can use in Microsoft Dynamics 365 mixed-reality applications.
+This tutorial guides you through the process of using Agisoft Metashape photogrammetry software to create a 3D model that you can use in Microsoft Dynamics Guides and in mixed-reality components included in apps created with Microsoft Power Apps.
 
-This tutorial was created only for informational purposes, to show how Agisoft Metashape works with Dynamics 365 mixed-reality applications. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor Agisoft or any of its products.
+This tutorial was created only for informational purposes, to show how Agisoft Metashape works with Dynamics 365 Guides and Power Apps. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor Agisoft or any of its products.
 
 ## What is Agisoft Metashape?
 
@@ -201,7 +201,7 @@ By adding a texture map to your 3D model, you can significantly increase the vis
 
 ## Export the 3D model
 
-The last step is to convert the model to the GLB file format, so that you can use it in Dynamics 365 mixed-reality applications.
+The last step is to convert the model to the GLB file format, so that you can use it in Dynamics 365 Guides and Power Apps.
 
 1. On the **File** menu, select **Export** \> **Export Model**.
 
@@ -217,7 +217,7 @@ The last step is to convert the model to the GLB file format, so that you can us
 
 4. When you've finished, select **OK**.
 
-The model is now completed and ready to be used in Dynamics 365 mixed-reality applications.
+The model is now completed and ready to be used in Dynamics 365 Guides and Power Apps.
 
 ![Finished model](media/agisoft-23.PNG "Finished model")
 
