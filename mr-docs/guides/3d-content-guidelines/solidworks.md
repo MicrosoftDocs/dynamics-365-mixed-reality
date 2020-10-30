@@ -1,29 +1,29 @@
 ---
 author: keno-msft
-description: Describes, in tutorial format, how to use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality apps
+description: Describes, in tutorial format, how to use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 03/20/2020
 ms.service: crm-online
 ms.topic: article
-title: Use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality apps
+title: Use Dassault SOLIDWORKS to prepare 3D models for use in Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Use Dassault Systèmes SOLIDWORKS to prepare 3D models for use in Dynamics 365 mixed-reality applications
+# Use Dassault Systèmes SOLIDWORKS to prepare 3D models for use in Dynamics 365 Guides and in mixed-reality components included in apps created with Power Apps
 
 There are several ways you can optimize 3D models for mixed reality by using Dassault Systèmes SOLIDWORKS. This tutorial provides easy-to-follow procedures for each of these methods. Some of the procedures are redundant, so you might not need to use them all. Experiment with each procedure and decide what best suits your use case.
 
 Sections of this tutorial are for 2019 and later only, and assume you've successfully installed the SOLIDWORKS XR Exporter on your local PC.  
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Dassault Systèmes SOLIDWORKS works with Microsoft Dynamics 365 mixed-reality apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft is not affiliated with, is not a partner to, and does not endorse or sponsor Dassault or any of Dassault Systèmes' products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how Dassault Systèmes SOLIDWORKS works with Microsoft Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft is not affiliated with, is not a partner to, and does not endorse or sponsor Dassault or any of Dassault Systèmes' products. There are [other content-creation apps](convert-models.md#tools-for-exporting-cad-models) you can use to prepare your 3D models.
 
 ## What is Dassault Systèmes SOLIDWORKS?
 SOLIDWORKS tools enable you to leverage 3D models throughout the organization, bringing processes together so you can get products to market faster. [Read more about SOLIDWORKS](https://www.solidworks.com/).
 
 ## Optimize 3D models by using SOLIDWORKS
 
-You can use the features discussed in this tutorial to optimize 3D models for use in Dynamics 365 mixed-reality apps. Depending on how complex your model is, you might be able to just export it as a GLB file or you might need to use a combination of several features.
+You can use the features discussed in this tutorial to optimize 3D models for use in Dynamics 365 Guides and Power Apps. Depending on how complex your model is, you might be able to just export it as a GLB file or you might need to use a combination of several features.
 
 ## Remove features with the Simplify tool
 
@@ -136,7 +136,7 @@ After you optimize a 3D model, you can easily export it directly from SOLIDWORKS
 
 If you don't have SOLIDWORKS 2019 and the XR Exporter add-in, you need to do one of the following to convert your 3D model into a format that can be optimized:
 
-- If you don't need to see material color, you can export your model as an STL file and import it directly into Dynamics 365 Import Tool (Preview). If it doesn't perform well, you can import the STL file into a digital content creation (DCC) application and optimize it further. See a [list of tutorials](tutorials-overview.md) on how to optimize your 3D models by using DCC apps.
+- If you don't need to see material color, you can export your model as an STL file. If it doesn't perform well, you can import the STL file into a digital content creation (DCC) application and optimize it further. See a [list of tutorials](tutorials-overview.md) on how to optimize your 3D models by using DCC apps.
 
 - If you want to see material colors on your final product, you need to send your 3D model through a transcoder before optimizing it further. [This 3ds Max tutorial](3ds-max.md) walks you through the optimization and conversion process.
 
