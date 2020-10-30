@@ -200,13 +200,12 @@ The last step is to export the model as a .glb file, so that it can be used with
 
     ![Export glTF 2.0 button](media/recap-photo24.PNG "Export glTF 2.0 button")
 
-## View your 3D model in a Dynamics 365 mixed-reality application
+## View a 3D model in Dynamics 365 Guides or Power Apps
 
-After you've finished preparing your 3D model, you can use it in the following Dynamics 365 applications:
+After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps
 
-- [Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/)
-
-- [Dynamics 365 Product Visualize](https://docs.microsoft.com/dynamics365/mixed-reality/product-visualize/admin-guide#add-a-model)
+[Dynamics 365 Guides](../index.md)<br> 
+[Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-overview)
 
 ## More information
 
