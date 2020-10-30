@@ -9,7 +9,7 @@ title: Best practices for converting and optimizing real-time 3D models for use 
 ms.reviewer: v-brycho
 ---
 
-# Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 Guides and Power Apps mixed-reality components
+# Best practices for converting and optimizing real-time 3D models for use in Dynamics 365 Guides or in mixed-reality components included in apps created with Power Apps
 
 This topic covers best practices for converting and optimizing 3D models to work with Dynamics 365 Guides and for apps created in Power Apps that include mixed-reality components.
 
