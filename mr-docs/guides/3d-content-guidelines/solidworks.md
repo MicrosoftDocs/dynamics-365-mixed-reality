@@ -140,13 +140,12 @@ If you don't have SOLIDWORKS 2019 and the XR Exporter add-in, you need to do one
 
 - If you want to see material colors on your final product, you need to send your 3D model through a transcoder before optimizing it further. [This 3ds Max tutorial](3ds-max.md) walks you through the optimization and conversion process.
 
-## View your 3D model in Dynamics 365 mixed-reality apps
+## View a 3D model in Dynamics 365 Guides and Power Apps
 
-After you prepare a 3D model, you can use the following Dynamics 365 apps to view it in mixed reality:
+After you've prepared a 3D model, use the following links to learn more about using the model in Dynamics 365 Guides or Power Apps
 
 [Dynamics 365 Guides](../index.md)<br> 
-[Dynamics 365 Product Visualize](../../product-visualize/index.md)<br> 
-[Dynamics 365 Layout](../../layout/index.md) 
+[Power Apps](https://docs.microsoft.com/powerapps/maker/canvas-apps/mixed-reality-overview)
 
 ### More information
 
