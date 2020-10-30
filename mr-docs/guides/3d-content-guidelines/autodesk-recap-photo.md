@@ -180,9 +180,9 @@ If you use Blender to prepare your 3D models, review the information on the Blen
 
         ![Import OBJ button](media/recap-photo20.PNG "Import OBJ button")
 
-### Export the 3D model as a .glb file
+### Export the 3D model as a GLB file
 
-The last step is to export the model as a .glb file, so that it can be used with Dynamics 365 Guides and Power Apps.
+The last step is to export the model as a GLB file, so that it can be used with Dynamics 365 Guides or Power Apps.
 
 1. In Blender, on the **File** menu, select **Export** \> **glTF 2.0 (.glb/.gltf)**.
 
