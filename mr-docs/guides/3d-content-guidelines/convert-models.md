@@ -1,11 +1,11 @@
 ---
 author: keno-msft
-description: Everything you need to know about converting 3D models to use with Dynamics 365 mixed-reality applications
+description: Everything you need to know about converting 3D models to use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 09/11/2020
 ms.service: crm-online
 ms.topic: article
-title: Convert your 3D (CAD) models to use with Dynamics 365 mixed reality applications, such as Dynamics 365 Guides
+title: Convert your 3D (CAD) models to use with Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
@@ -36,9 +36,3 @@ In situations where a CAD application doesn’t have an export option for FBX, O
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
-
-
-
-
-
-
