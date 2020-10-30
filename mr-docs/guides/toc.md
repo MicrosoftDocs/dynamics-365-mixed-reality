@@ -59,7 +59,7 @@
 #### [Voice commands](voice-commands.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ### [How to make a great mixed reality guide](great-guide.md)
-### [Convert 3D models to use as holograms](import-tool.md)
+### [Convert 3D models to use as holograms](author-convert-3D-models.md)
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
 ### Calibrate your HoloLens
