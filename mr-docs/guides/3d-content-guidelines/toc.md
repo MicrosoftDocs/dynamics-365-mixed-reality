@@ -1,4 +1,4 @@
-# Converting 3D models for use in Dynamics 365 mixed-reality applications
+# Converting 3D models for use in Dynamics 365 Guides and Power Apps
 ## [Overview](index.md)
 ## [Convert your 3D (CAD) models](convert-models.md)
 ## [Optimize your 3D models](optimize-models.md)
