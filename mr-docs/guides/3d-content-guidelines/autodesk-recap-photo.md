@@ -176,7 +176,7 @@ If you use Blender to prepare your 3D models, review the information on the Blen
 
         ![Import OBJ settings](media/recap-photo19.PNG "Import OBJ settings")
 
-    2. Select **Import OBJ** in the upper right of the window. Blender imports the 3D model as a single item and searches the subfolder for any materials.
+    2. Select **Import OBJ**. Blender imports the 3D model as a single item and searches the subfolder for any materials.
 
         ![Import OBJ button](media/recap-photo20.PNG "Import OBJ button")
 
