@@ -1,11 +1,11 @@
 ---
 author: keno-msft
-description: Describes the third-party tutorials available for converting 3D models for use with Dynamics 365 mixed reality apps
+description: Describes the third-party tutorials available for converting 3D models for use with Dynamics 365 Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 03/20/2020
 ms.service: crm-online
 ms.topic: article
-title: Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 mixed-reality apps
+title: Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
