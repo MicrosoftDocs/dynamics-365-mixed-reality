@@ -196,7 +196,7 @@ The last step is to export the model as a GLB file so that it can be used with D
 
     ![File named](media/recap-photo23.PNG "File named")
 
-4. In the upper right of the window, select **Export glTF 2.0**.
+4. Select **Export glTF 2.0**.
 
     ![Export glTF 2.0 button](media/recap-photo24.PNG "Export glTF 2.0 button")
 
