@@ -105,7 +105,7 @@ Several tools are available on the left side and at the bottom of the editor pag
 
 5. When the model looks the way that you want it to, select **Apply**.
 
-The rest of the floor is now removed from your 3D model, and the mesh on the bottom is filled.
+The rest of the floor is removed from your 3D model and the mesh on the bottom is filled.
 
 ## Decimate the 3D model to help increase performance
 
