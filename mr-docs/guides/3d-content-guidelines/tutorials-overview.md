@@ -9,7 +9,7 @@ title: Overview of self-serve tutorials for converting 3D models for use with Dy
 ms.reviewer: v-brycho
 ---
 
-# Overview of self-serve tutorials
+# Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 Guides and in mixed-reality components included in apps created with Power Apps
 
 Three-dimensional models come in all shapes and sizes. Sometimes they're complex and require preparation before you can use them in mixed-reality scenarios. To make it easier to prepare your 3D models, we've created tutorials for several third-party computer-aided design (CAD) and digital content creation (DCC) programs. The goal of these tutorials isn't for you to become an expert at using these programs, but to guide you through the process of preparing your 3D models so you can achieve more with mixed reality.
 
