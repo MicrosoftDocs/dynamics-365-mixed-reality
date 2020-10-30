@@ -1,15 +1,15 @@
 ---
 author: keno-msft
-description: This tutorial explains how to use SideFX Houdini to turn point clouds into optimized 3D models for Microsoft Dynamics 365 mixed-reality apps.
+description: This tutorial explains how to use SideFX Houdini to turn point clouds into optimized 3D models for Microsoft Dynamics Guides and Microsoft Power Apps
 ms.author: keno
 ms.date: 3/20/2020
 ms.service: crm-online
 ms.topic: article
-title: Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 mixed-reality apps
+title: Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 Guides and Power Apps
 ms.reviewer: v-brycho
 ---
 
-# Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 mixed-reality applications
+# Use SideFX Houdini to turn point clouds into optimized 3D models for Dynamics 365 Guides and mixed-reality components in apps created with Power Apps
 
 This tutorial provides step-by-step instructions for the following tasks:
 
@@ -17,11 +17,11 @@ This tutorial provides step-by-step instructions for the following tasks:
 
 - Optimize a 3D model by reducing the polygon count so that it matches [performance targets for Dynamics 365 mixed-reality applications](optimize-models.md#performance-targets).
 
-- Export an optimized 3D model as a .glb file that can be used in Dynamics 365 mixed-reality applications.
+- Export an optimized 3D model as a .glb file that can be used in Dynamics 365 Guides and mixed-reality components in apps created with Power Apps
 
 - Create a processing pipeline template, so that you can quickly optimize point clouds in the future.
 
-This tutorial has been created only for informational purposes, to show how SideFX Houdini works with Microsoft Dynamics 365 mixed-reality applications. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor SideFX or any of its products. There are several other [content-creation applications that you can use to prepare your 3D models](convert-models.md#tools-for-exporting-cad-models).
+This tutorial has been created only for informational purposes, to show how SideFX Houdini works with Microsoft Dynamics 365 Guides and Power Apps. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner of, and doesn't endorse or sponsor SideFX or any of its products. There are several other [content-creation applications that you can use to prepare your 3D models](convert-models.md#tools-for-exporting-cad-models).
 
 ## What is Houdini?
 
@@ -345,7 +345,7 @@ The texture is rendered on top of your low-polygon 3D model. If it looks accepta
 
 ## Export the model to a .glb file
 
-In this step, you will export the model to a .glb file so that it can be used with Dynamics 365 mixed-reality apps.
+In this step, you will export the model to a .glb file so that it can be used with Dynamics 365 Guides and Power Apps.
 
 1. Right-click in the **Geometry** pane to open the **TAB Menu**, and then select **Export** \> **ROP GLTF Output**.
 
