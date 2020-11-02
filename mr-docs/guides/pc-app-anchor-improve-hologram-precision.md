@@ -38,6 +38,12 @@ Although the author can do this step from the HoloLens shell, we recommend hidin
 > [!NOTE] 
 > To clear the maps and all registered holograms from the device, go to **Settings** > **System** > **Holograms** > **Remove all holograms**.
 
+Authors should pre-scan the environment in representative light conditions and space configurations.
+
+## Choose an environment with a high number of visible features
+
+HoloLens builds maps of its surroundings and tracks its position and hologram position based on visible features (high contrast point and corners) in the environment. If the space in which HoloLens is operating has a low number of visible features (mostly white walls for example), or very repetitive patterns (textured surfaces), this will impact hologram position and stability as HoloLens won’t be able to properly identify and track uniquely specific points in the environment.
+
 ## Avoid reflective, dark, or featureless surfaces
 
 Environments that include very reflective surfaces (mirrors), dark surfaces, or featureless surfaces (cleanrooms), negatively affect the ability of HoloLens to recognize the space. If HoloLens can't correctly recognize the space, hologram position and stability are affected in turn.
@@ -45,10 +51,6 @@ Environments that include very reflective surfaces (mirrors), dark surfaces, or 
 ## Avoid unstable lighting conditions
 
 Lighting conditions have an impact on how HoloLens perceives the environment and recognizes the space. Environments with unstable lighting conditions are prone to hologram instability. If the light changes significantly, HoloLens might consider the space as a new environment and build a new map for it. Previously visible features might be invisible and features that weren’t visible might be visible. 
-
-## Choose an environment with a high number of visible features
-
-HoloLens builds maps of its surroundings and tracks its position and hologram position based on visible features (high contrast point and corners) in the environment. If the space in which HoloLens is operating has a low number of visible features (mostly white walls for example), or very repetitive patterns (textured surfaces), this will impact hologram position and stability as HoloLens won’t be able to properly identify and track uniquely specific points in the environment.
 
 ## Make sure to wear the device in a consistent way (HoloLens 1 only)
 
