@@ -61,6 +61,8 @@ You'll see the first person you called on the left side of the video card, and a
 To mute a participant, select **Open Participants** or say "Remote Assist, Open Participants." Tap on a participant to see a video feed of them. Tap on a participant's mute button next to their name to mute them. A muted participant is the only one who can unmute themselves.
 
 > [!Note]
+> Learn more about the number of participants that can join a Microsoft Teams call [here](https://docs.microsoft.com/MicrosoftTeams/limits-specifications-teams#meetings-and-calls). However, with a large number of participants, you may experience some performance issues, such as delays in viewing annotations and lower video resolution.
+>
 > You can't mute another participant in a one-to-one call. You can only mute and unmute yourself.
 
 ## Accept a call
