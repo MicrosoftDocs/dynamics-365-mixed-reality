@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about things you can do to improve positional precision of holograms in Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 11/02/2020
+ms.date: 11/03/2020
 ms.service: crm-online
 ms.topic: article
 title: Improve positional accuracy of holograms in Dynamics 365 Guides
