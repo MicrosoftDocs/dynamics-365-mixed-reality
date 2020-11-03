@@ -70,4 +70,4 @@ To determine which version of the operating system you're using on [!include[pn-
 ## What's next?
 
 [Install the app and sign in](install-sign-in-hololens-app.md)<br>
-[Gestures for navigating the app](author-gestures.md)<br>
+[Gestures for navigating the app](authoring-gestures.md)<br>
