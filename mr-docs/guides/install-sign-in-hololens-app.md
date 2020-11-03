@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to install and sign in to the Microsoft Dynamics 365 Guides HoloLens app and calibrate your HoloLens.
 ms.author: mamaylya
-ms.date: 10/16/2020
+ms.date: 11/03/2020
 ms.service: crm-online
 ms.topic: article
 title: Install and sign in to the Dynamics 365 Guides HoloLens app
