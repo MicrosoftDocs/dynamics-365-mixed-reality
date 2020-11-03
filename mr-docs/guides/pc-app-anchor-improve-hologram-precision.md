@@ -21,7 +21,7 @@ This article describes several things that you can do to improve positional prec
 > - [Best practices for circular code anchors](pc-app-anchor-circular-code.md#best-practices-for-circular-code-anchors)
 > - [Best practices for holographic anchors](pc-app-anchor-holographic.md#best-practices-for-holographic-anchors)
 
-## Calibrate the device to the operator's interpupillary distance (IPD)
+## Calibrate the device to the user's interpupillary distance (IPD)
 
 IPD is the distance between the center of the user's pupils. Because different users might have different IPDs, it's crucial that the appropriate IPD is set, so that HoloLens can adapt its display. An incorrect IPD setting can cause inaccurate perception of hologram position. 
 
