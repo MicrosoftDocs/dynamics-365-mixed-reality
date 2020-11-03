@@ -38,6 +38,8 @@
 ##### [Circular code anchor](pc-app-anchor-circular-code.md)
 ##### [Holographic anchor](pc-app-anchor-holographic.md)
 ##### [Change anchor type](pc-app-anchor-change-type.md)
+##### [Effect of calibration, pre-scanning, and environment on hologram precision](pc-app-anchor-improve-hologram-precision.md)
+##### [Effect of anchor types/placement on hologram precision](pc-app-anchor-types-placement-precision.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
 #### [Create steps and add 3D models, media](create-steps-assign-media.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
@@ -50,6 +52,7 @@
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
 #### [Install the app and sign in](install-sign-in-hololens-app.md)
+#### [Calibrate your HoloLens](hololens-app-calibrate.md) 
 #### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
 #### [Create and place a trigger for step navigation](hololens-app-trigger.md)

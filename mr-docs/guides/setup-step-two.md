@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Common Data Service environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 10/20/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -165,48 +165,8 @@ If you have trouble installing and configuring the solution as described in the 
     >
     > ![Failed installation message](media/failed-install.PNG "Failed installation message")
 
-## Set up user roles for the solution<a name="user-roles"></a>
-
-> [!NOTE]
-> Users can take up to one hour to appear in the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] admin center after the licenses are added in the [!include[cc-microsoft](../includes/cc-microsoft.md)] 365 admin center.
-
-1. After the solution has been installed, open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/).
-
-2. On the **Environments** page, select the environment that you created, select the **More environment actions** (**...**) button, and then select **Settings**.
-
-    ![Settings command](media/environment-settings.PNG "Settings command")
-
-3. On the **Settings** page, expand **Users + permissions**, and then select **Users**.
-
-    ![Users link](media/settings-page.png "Users link")
-
-    > [!IMPORTANT]
-    > You can access [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data through the **Guides Hub** tile. However, we recommend that you not make changes in the Guides Hub. Any changes that you make there can have unintended consequences for the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] apps.
-    
-4. Select **Manage users in Dynamics 365**.
-
-    ![Manage users in Dynamics 365 command](media/manage-user-roles-dynamics-365.PNG "Manage users in Dynamics 365 command")
-
-5. On the **Enabled Users** page, select the user, and then select **Manage Roles**.
-
-    ![Manage roles button](media/manage-roles.png "Manage roles button")
-
-6. In the **Manage User Roles** dialog box, make sure that the **Common Data Service User** check box is selected.
-
-    ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
-
-7. Select the **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Author** or **[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] Operator** check box, depending on the privileges that you want the user to have.
-
-    ![Author and Operator role check boxes](media/select-role.PNG "Author and Operator role check boxes")
-
-    The following table describes the privileges that each role provides.
-
-    | Role | Description |
-    |---|---|
-    | Author | Users who have this role can use the PC app and HoloLens app to create, edit, and operate guides. They can also rename and inactivate existing guides. |
-    | Operator | Users who have this role can use the HoloLens app to view/operate a guide. They can also save time by skipping the **Select Mode** dialog box when they open a guide. |
-
-8. If you want the user to have admin privileges, select the **System Administrator** check box.
+> [!IMPORTANT]
+> Dynamics 365 Guides data will be stored in the Common Data Service solution. Before anyone can create and use guides, however, you [must assign appropriate user roles](assign-role.md). 
 
 ## What's next?
 
