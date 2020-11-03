@@ -42,7 +42,7 @@ Authors should pre-scan the environment in representative light conditions and s
 
 ## Choose an environment with a high number of visible features
 
-HoloLens builds maps of its surroundings and tracks its position and hologram position based on visible features (high contrast point and corners) in the environment. If the space in which HoloLens is operating has a low number of visible features (mostly white walls for example), or very repetitive patterns (textured surfaces), this will impact hologram position and stability as HoloLens won’t be able to properly identify and track uniquely specific points in the environment.
+HoloLens builds maps of its surroundings and tracks its position and hologram position based on visible features (high contrast points and corners) in the environment. If the space in which HoloLens is operating has a low number of visible features (mostly white walls for example), or very repetitive patterns (textured surfaces), this will impact hologram position and stability as HoloLens won’t be able to properly identify and track uniquely specific points in the environment.
 
 ## Avoid reflective, dark, or featureless surfaces
 
