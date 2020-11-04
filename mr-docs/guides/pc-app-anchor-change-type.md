@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to change anchor types (QR code, circular, or holographic) in the Microsoft Dynamics 365 Guides PC app
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 11/03/2020
 ms.service: crm-online
 ms.topic: article
 title: Change from one anchor type to another in the Dynamics 365 Guides PC app
@@ -35,5 +35,7 @@ Use the following table to find more information on anchoring.
 |Creating types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
 ||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
 ||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
+|Hologram precision|[Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)|
+||[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
 |HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
 |HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
