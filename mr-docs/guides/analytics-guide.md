@@ -136,7 +136,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
   
     To return to the per-day view, select **Drill Mode**, and then select the month bar you want to drill into.  
 
-    ![Drill Mode button](media/drill-mode-button.PNG "Drill mode button")
+    ![Drill Mode button to return to per-day view](media/drill-mode-button.PNG "Drill mode button to return to per-day view")
 
     Alternatively, select the **Expand to the next level** button to drill back down.  
   
