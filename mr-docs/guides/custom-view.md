@@ -158,7 +158,7 @@ The following illustration shows an example of a tab that is named **Custom Tab*
     ![Saved query record ID at the end of the page URL](media/custom-view-queryid.PNG "Saved query record ID at the end of the page URL")
     
     > [!IMPORTANT]
-    > **DO NOT** include the question mark at the end of the url when you copy the url.
+    > When you copy the URL, **do not** include the question mark (?) at the end of it.
     
 
 ## Step 3: Create a Guides view configuration record
