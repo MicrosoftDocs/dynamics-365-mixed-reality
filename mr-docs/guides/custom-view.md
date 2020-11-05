@@ -2,7 +2,7 @@
 author: Mamaylya
 description: This topic explains how to add a tab on HoloLens that shows a custom list of guides for a specific set of users.
 ms.author: mamaylya
-ms.date: 09/02/2020
+ms.date: 11/05/2020
 ms.service: crm-online
 ms.topic: article
 title: Show a list of guides on a custom tab for a specific set of Dynamics 365 Guides users
@@ -156,6 +156,10 @@ The following illustration shows an example of a tab that is named **Custom Tab*
 8. Copy and save the record ID for the saved query. This record ID appears at the end of the URL for the page.
 
     ![Saved query record ID at the end of the page URL](media/custom-view-queryid.PNG "Saved query record ID at the end of the page URL")
+    
+    > [!IMPORTANT]
+    > **DO NOT** include the question mark at the end of the url when you copy the url.
+    
 
 ## Step 3: Create a Guides view configuration record
 
