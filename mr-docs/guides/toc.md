@@ -58,6 +58,7 @@
 ##### [HoloLens 2](authoring-gestures-HL2.md)
 #### [Voice commands](voice-commands.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
+### [How to make a great mixed reality guide](great-guide.md)
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
 ### Calibrate your HoloLens
@@ -80,7 +81,6 @@
 #### [Work offline](operator-offline-mode.md)
 #### [Voice commands](voice-commands.md)
 ## [Analyze your guides](analytics-guide.md)
-### [How to make a great mixed reality guide](great-guide.md)
 ## Convert 3D models to use as holograms
 ### [Overview of converting 3D models](3d-content-guidelines/index.md)
 ### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
