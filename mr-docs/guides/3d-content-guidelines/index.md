@@ -21,7 +21,7 @@ Dynamics 365 Guides and Power Apps uses the Khronos Group glTF file format for m
 
 ## Parametric geometry vs. polygonal geometry
 
-Modeling tools in most CAD applications use sets of adjustable mathematical parameters to define parametric solids. Parametric solids and surfaces provide highly accurate detail that can be used to carry out engineering simulations and manufacturing processes. Both glTF and real-time rendering applications require models to be represented as a triangulated polygon surface, however.
+Modeling tools in most CAD applications use sets of adjustable mathematical parameters to define parametric solids. Parametric solids and surfaces provide highly accurate detail that can be used to carry out engineering simulations and manufacturing processes. Both glTF and real-time rendering applications require models to be represented as a triangulated polygon surface.
 
 The following illustration shows a model visualized in Autodesk Inventor and [!include[cc-microsoft](../../includes/cc-microsoft.md)] 3D Viewer.
 > [!div class="mx-imgBorder"]
