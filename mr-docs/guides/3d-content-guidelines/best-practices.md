@@ -114,7 +114,7 @@ This topic covers best practices for converting and optimizing 3D models to work
    > [!div class="mx-imgBorder"]
    > ![Flip inverted face normals](media/inverted-face-normals.PNG "Flip inverted face normals") 
 	 
-   *Face normals visualized in [Blender 2.8](https://aka.ms/blender2.8).*
+   *Face normals visualized in [Blender](https://aka.ms/blender2.8).*
 
    **A.**	3D model with normal flipped<br>
    **B.**	3D model with fixed normal
