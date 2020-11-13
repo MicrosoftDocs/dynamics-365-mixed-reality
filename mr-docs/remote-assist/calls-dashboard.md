@@ -46,7 +46,7 @@ To have access to the calls dashboard, you must have:
 
 1. As **Remote Assist - Administrator**, you can always go back and disable / re-enable the dashboard by toggling it off / on from within the **Settings** area as described above. Disabling the dashboard will deprovision the resources that it depends on.
 
-1. The dashboard leverages the [phonecall entity type](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/phonecall) to generate analytics. End users must [select the right Dynamics environment](./asset-capture-add-users.md#selecting-the-right-environment-from-the-client-app) from their device to send the phonecall record to the Common Data Service. Only after they have selected the correct environment, and for those users only, is the phonecall data available in the calls dashboard.
+1. The dashboard leverages the [phone call entity type](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/phonecall) to generate analytics. End users must [select the right Dynamics environment](./asset-capture-add-users.md#selecting-the-right-environment-from-the-client-app) from their device to send the phone call record to the Common Data Service. Only after they have selected the correct environment, and for those users only, is the phone call data available in the calls dashboard.
 
 1. End users may or may not give location permissions to the Hololens or Mobile app. If permission is not granted, for call records from those specific users, location information will be missing.
 
@@ -60,9 +60,9 @@ All visuals described are governed by the filters available at the top of the re
 
 | Filter | Description |
 | --- | --- |
-| Date | Filters the dashboard to only show metrics for phonecall records falling within the specified duration. |
+| Date | Filters the dashboard to only show metrics for phone call records falling within the specified duration. |
 | User name | Select specific users to view only metrics related to them. |
-| Client type | Filter the dashboard to only show metrics for phonecall records coming from a specific device type. |
+| Client type | Filter the dashboard to only show metrics for phone call records coming from a specific device type. |
 
 Additionally, when you select a slice of data from any of the visuals described below, it will temporarily filter all visuals to that specific set of records. For e.g., if you click on a specific month from the **calls trend** visual, all visuals will be filtered to that month. You can click on that data item again to remove that filter.
 
@@ -72,14 +72,14 @@ Let's take a look at what information is provided by each of the visuals in the 
 
 | Visual | Description |
 | --- | --- |
-| Total calls | Total number of **unique** Dynamics 365 Remote Assist calls made. There is a phonecall record generated for each Dynamics 365 Remote Assist user participating in each call. There is no phonecall record generated for Microsoft Teams participants. Call records are disambiguated by the **RemoteAssistCallId** field in the phonecall entity. Thus group calls, with three or more Dynamics 365 Remote Assist users are **not** counted multiple times. |
-| Total call duration | Total time spent in Dynamics 365 Remote Assist calls aggregated across all phonecall records. If there are multiple Dynamics 365 Remote Assist participants in the same call, the time spent by each participant in the call will be added to the total. |
-| Average call duration | Average time spent in Dynamics 365 Remote Assist calls, averaged across all phonecall records. |
+| Total calls | Total number of **unique** Dynamics 365 Remote Assist calls made. There is a phone call record generated for each Dynamics 365 Remote Assist user participating in each call. There is no phone call record generated for Microsoft Teams participants. Call records are disambiguated by the **RemoteAssistCallId** field in the phone call entity. Thus group calls, with three or more Dynamics 365 Remote Assist users are **not** counted multiple times. |
+| Total call duration | Total time spent in Dynamics 365 Remote Assist calls aggregated across all phone call records. If there are multiple Dynamics 365 Remote Assist participants in the same call, the time spent by each participant in the call will be added to the total. |
+| Average call duration | Average time spent in Dynamics 365 Remote Assist calls, averaged across all phone call records. |
 | Unique callers | Total number of **unique** users that participated in a call from the Dynamics 365 Remote Assist app on HoloLens or Mobile. This does not include the number of Microsoft Teams participants. |
 | Calls trend | Number of calls made over the selected duration. You can use the drill down capabilities of the visual to see the data by year, month, week or day. |
 | Call statistics by user | The number of calls made by and time spent in Dynamics 365 Remote Assist calls per user. |
-| Calls by location | Map view of the phonecall records, available if the end user has granted permission to share location from their device. You can use the drill down capabilities of the visual to see number of calls by country, state or city. |
-| Call log | Details of each phonecall record, including call start and end times, owner of the phonecall record, direction of the call, time spent by the specific participant in the call, client device type, and location of the call participant if shared. |
+| Calls by location | Map view of the phone call records, available if the end user has granted permission to share location from their device. You can use the drill down capabilities of the visual to see number of calls by country, state or city. |
+| Call log | Details of each phone call record, including call start and end times, owner of the phone call record, direction of the call, time spent by the specific participant in the call, client device type, and location of the call participant if shared. |
 
 ## Additional notes
 
