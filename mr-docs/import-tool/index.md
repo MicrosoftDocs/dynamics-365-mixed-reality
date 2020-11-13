@@ -39,7 +39,7 @@ Preparing CAD content for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixe
 
 2. [Optimize the converted 3D models](optimize-models.md) to ensure the best possible performance in real-time applications.
 
-3. [Use Dynamics 365 Import Tool (Preview)](import-tool,md) to prepare the models for Dynamics 365 mixed-reality apps. 
+3. [Use Dynamics 365 Import Tool (Preview)](import-tool.md) to prepare the models for Dynamics 365 mixed-reality apps. 
 
 ### See also
 [Convert 3D models](convert-models.md)<br>
