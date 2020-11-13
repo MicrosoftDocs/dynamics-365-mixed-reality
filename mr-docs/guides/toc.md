@@ -97,7 +97,8 @@
 #### [Dassault Systèmes SOLIDWORKS](3d-content-guidelines/solidworks.md)
 #### SideFX Houdini
 ##### [Prepare 3D models](3d-content-guidelines/houdini.md)
-##### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)## [Migrate content from one instance to another](migrate.md)
+##### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)
+## [Migrate content from one instance to another](migrate.md)
 ## [Entity reference (for developers)](developer-entity-reference.md)
 ## [Get Help and provide feedback](help.md)
 ## [Glossary of terms](glossary.md)
