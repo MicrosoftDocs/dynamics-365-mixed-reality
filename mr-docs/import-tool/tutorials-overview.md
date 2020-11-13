@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Overview of self-serve tutorials for converting 3D models for use with Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Overview of self-serve tutorials

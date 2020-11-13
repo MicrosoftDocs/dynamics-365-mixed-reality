@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Prepare Autodesk Inventor 3D models for use in Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Prepare Autodesk Inventor 3D models for use in Dynamics 365 Import Tool (Preview)

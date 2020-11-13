@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Use Autodesk ReCap Photo to create 3D models for Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Use Autodesk ReCap Photo to create 3D models for Dynamics 365 mixed-reality applications

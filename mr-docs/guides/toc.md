@@ -62,7 +62,6 @@
 #### [Voice commands](voice-commands.md)
 #### [Opt out of sending telemetry data](hololens-app-data-opt-out.md)
 ### [How to make a great mixed reality guide](great-guide.md)
-### [Convert 3D models to use as holograms](import-tool.md)
 ## I'm an operator
 ### [Overview of operating a guide](operator-overview.md)
 ### Calibrate your HoloLens
@@ -85,6 +84,23 @@
 #### [Work offline](operator-offline-mode.md)
 #### [Voice commands](voice-commands.md)
 ## [Analyze your guides](analytics-guide.md)
+## Convert 3D models to use as holograms
+### [Overview of converting 3D models](3d-content-guidelines/index.md)
+### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
+### [Optimize your 3D models](3d-content-guidelines/optimize-models.md)
+### [Best practices for real-time 3D models](3d-content-guidelines/best-practices.md)
+### Tutorials
+#### [Overview](3d-content-guidelines/tutorials-overview.md)
+#### [Agisoft Metashape](3d-content-guidelines/agisoft-metashape.md)
+#### Autodesk
+##### [Inventor](3d-content-guidelines/inventor.md)
+##### [3ds Max](3d-content-guidelines/3ds-max.md)
+##### [ReCap Photo](3d-content-guidelines/autodesk-recap-photo.md) 
+#### [Blender](3d-content-guidelines/blender.md)
+#### [Dassault Systèmes SOLIDWORKS](3d-content-guidelines/solidworks.md)
+#### SideFX Houdini
+##### [Prepare 3D models](3d-content-guidelines/houdini.md)
+##### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)
 ## [Migrate content from one instance to another](migrate.md)
 ## [Entity reference (for developers)](developer-entity-reference.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
