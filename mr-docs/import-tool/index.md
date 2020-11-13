@@ -12,7 +12,7 @@ robots: noindex, nofollow
 
 # Overview of preparing 3D models for Dynamics 365 mixed-reality apps or for creating apps with mixed-reality components in Power Apps
 
-If you're using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps or creating apps with mixed-reality components for Power Apps, you might want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models). This topic shows you how to prepare your 3D models for use with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps or Power Apps components by using a combination of third-party tools.
+If you're using [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps, you might want to import your own 3D models ([CAD](https://en.wikipedia.org/wiki/Computer-aided_design) models) into the applications. This article shows you how to prepare your 3D models for use with [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps by using a combination of third-party tools.
 
 ## glTF and GLB file formats
 All geometry in [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps uses the Khronos Group glTF file format. This royalty-free specification minimizes both the size of 3D models and the run-time processing needed to unpack and use those models. The GLB format is the binary version of .glTF version 2.0, which can include textures.
@@ -35,9 +35,11 @@ The following illustration shows a model visualized in Autodesk Inventor and [!i
 
 Preparing CAD content for [!include[pn-dyn-365](../includes/pn-dyn-365.md)] mixed-reality apps involves two steps: 
 
-1.	[Convert 3D models](convert-models.md) from their original geometric definition into one that supports real-time rasterization. This converts the models from parametric geometry into polygonal geometry.
+1. [Convert 3D models](convert-models.md) from their original geometric definition into one that supports real-time rasterization. This converts the models from parametric geometry into polygonal geometry.
 
-2.	[Optimize the converted 3D models](optimize-models.md) to ensure the best possible performance in real-time applications.
+2. [Optimize the converted 3D models](optimize-models.md) to ensure the best possible performance in real-time applications.
+
+3. [Use Dynamics 365 Import Tool (Preview)](import-tool,md) to prepare the models for Dynamics 365 mixed-reality apps. 
 
 ### See also
 [Convert 3D models](convert-models.md)<br>
