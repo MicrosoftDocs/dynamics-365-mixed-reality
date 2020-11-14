@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Install Dynamics 365 Import Tool (Preview)
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Install Dynamics 365 Import Tool (Preview)
