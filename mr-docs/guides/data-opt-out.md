@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Opt out of storing Dynamics 365 Guides usage data in Common Data Service
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 Dynamics 365 Guides apps enable teams to capture usage statistics and detailed time-tracking information. This data is used to 
 provide metrics for operator performance and help you identify opportunities for process optimization. Administrators can turn off 
 data collection for specific users if they like. 
