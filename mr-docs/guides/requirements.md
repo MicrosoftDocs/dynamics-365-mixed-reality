@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Device and licensing requirements for Dynamics 365 Guides
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 The following table lists technical requirements for deploying and using [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] throughout your organization.
 
 ## Device requirements

@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Create a guide by using the Dynamics 365 Guides PC app
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 1. [Open the Microsoft Dynamics 365 Guides PC app](install-sign-in-pc-app.md).
 
 2. Select **Create new guide**.

@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Frequently asked questions about Microsoft Dynamics 365 Guides
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 ## How do I contact Support if I don't find an answer in this FAQ?
 
 If you're not able to use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], or if you have an issue that isn't answered in this FAQ or in the documentation, please contact Customer Support by using the following steps:

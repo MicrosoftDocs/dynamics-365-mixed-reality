@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Entity reference for Dynamics 365 Guides (for developers)
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 When a guide is created by using the Microsoft Dynamics 365 Guides PC app, content and information in that guide are stored by using the 
 Dynamics 365 Guides [entities](https://docs.microsoft.com/powerapps/maker/common-data-service/entity-overview) from [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) that are listed in the table later in this topic.
 
