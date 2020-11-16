@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 
 # Dynamics 365 Remote Assist Calls Dashboard
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+[!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
 
 Supervisors and operations managers need to be able to monitor key operational metrics for their organization. Such metrics are critical to get insights such as potential areas of operational efficiencies and efficacy of the various tools and processes within the technician community.
 

@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Asset capture overview
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+[!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
 
 Using the asset capture feature in Dynamics 365 Remote Assist, technicians can capture data about the assets they operate, inspect, and maintain without them having to make a video call. Data is captured in a consistent and structured way, and made available through the new Dynamics 365 Remote Assist model-driven app for easy validation, report generation, and auditing.
 

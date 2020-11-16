@@ -10,6 +10,8 @@ ms.reviewer: krbjoran
 ---
 # Installing Dynamics 365 Remote Assist model-driven app
 
+[!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
+
 ## Overview
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]

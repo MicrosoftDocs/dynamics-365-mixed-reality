@@ -10,7 +10,7 @@ ms.reviewer: krbjoran
 ---
 # Add users to the Dynamics 365 Remote Assist model-driven app
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+[!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
 
 Learn how to add users so they can access the model-driven app and related features from the client app. Once users have access, they will have the ability to:
 
