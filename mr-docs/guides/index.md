@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Overview of Dynamics 365 Guides
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Watch this video to get a quick overview of Dynamics 365 Guides on HoloLens 2](https://www.youtube.com/watch?v=V8c3pDKdHEc)
 
 [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] is a mixed-reality application for [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-hololens](../includes/pn-hololens.md)] that lets operators learn during the flow of work by providing holographic instructions when and where they are needed. These instruction cards are visually tethered to the place where the work must be done, and can include images, videos, and 3D holographic models. Operators see what must be done, and where. Therefore, they can get the job done faster, with fewer errors and greater skill retention.
