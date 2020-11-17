@@ -61,7 +61,7 @@ Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md
 
 ## The solution update fails repeatedly
 
-To update the solution, you must have the System Administrator role AND you must have a [Power Apps license](https://powerapps.microsoft.com/en-us/pricing/?ef_id=49652b65f40c1fe3d56274d1b83a2f4b:G:s&OCID=AID2100430_SEM_49652b65f40c1fe3d56274d1b83a2f4b:G:s&msclkid=49652b65f40c1fe3d56274d1b83a2f4b) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). When you have a Power Apps license, the Access Mode security property is set to Read-Write, which is required for updating the solution. 
+To update the solution, you must have the System Administrator role AND you must have a [Power Apps license](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-flow-licensing-faq) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). When you have a Power Apps license, the Access Mode security property is set to Read-Write, which is required for updating the solution. 
 
 ## I don't see my [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] environment even though I have a valid [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license. What should I do? 
 
