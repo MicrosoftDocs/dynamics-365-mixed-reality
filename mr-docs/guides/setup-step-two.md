@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 10/20/2020
+ms.date: 11/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution as part of the setup process
