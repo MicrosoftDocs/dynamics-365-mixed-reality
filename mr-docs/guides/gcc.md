@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use Dynamics 365 Guides US Government for government organizations
 ms.author: mamaylya
-ms.date: 11/01/2020
+ms.date: 11/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Guides Us Government
