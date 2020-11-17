@@ -14,10 +14,10 @@ ms.reviewer: v-brycho
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 When a guide is created by using the Microsoft Dynamics 365 Guides PC app, content and information in that guide are stored by using the 
-Dynamics 365 Guides [entities](https://docs.microsoft.com/powerapps/maker/common-data-service/entity-overview) from [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) that are listed in the table later in this topic.
+Dynamics 365 Guides [entities](https://docs.microsoft.com/powerapps/maker/common-data-service/entity-overview) from [Microsoft Dataverse](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) that are listed in the table later in this topic.
 
 > [!IMPORTANT]
-> All entities that are installed as part of the Dynamics 365 Guides solution support the standard extensibility/programming model in Dynamics 365. You can access entity information by using either the [Web application programming interface (API)](https://docs.microsoft.com/powerapps/developer/common-data-service/webapi/overview) or the [Common Data Service Organization Service](https://docs.microsoft.com/powerapps/developer/common-data-service/org-service/overview).
+> All entities that are installed as part of the Dynamics 365 Guides solution support the standard extensibility/programming model in Dynamics 365. You can access entity information by using either the [Web application programming interface (API)](https://docs.microsoft.com/powerapps/developer/common-data-service/webapi/overview) or the [Microsoft Dataverse Organization Service](https://docs.microsoft.com/powerapps/developer/common-data-service/org-service/overview).
 >
 > Dynamics 365 Guides entities and fields can be used with the Web API, and in [Power Apps](https://powerapps.microsoft.com/) or a flow using [Power Automate](https://flow.microsoft.com/). However, we anticipate that these entities will evolve quickly in the near future. If you have an urgent need to do a business-critical integration, contact the Dynamics 365 Guides team directly for guidance, through your Microsoft Account team.
 >
@@ -41,7 +41,7 @@ Dynamics 365 Guides [entities](https://docs.microsoft.com/powerapps/maker/common
 | msmrw\_guidestepobject | This entity stores information about 3D objects that have been added to a guide step. |
 | msmrw\_guidestepobjectplacement | This entity specifies which 3D objects have been placed in the world in a guide step. Other information about the 3D objects is also stored. |
 | msmrw\_guidetask | This entity is a parent container for a group of guide steps. |
-| msmrw\_guideviewconfiguration | This entity stores the record ID for Common Data Service views. Each record is shown as a tab in the HoloLens app. |
+| msmrw\_guideviewconfiguration | This entity stores the record ID for Microsoft Dataverse views. Each record is shown as a tab in the HoloLens app. |
 | msmrw\_imageasset | This entity stores an image file and information that is associated with the image. |
 | msmrw\_imageasset\_localized | This entity stores localized information for an image. |
 | msmrw\_usersettings | This entity stores information about the custom setting configuration for a specific user who is using the HoloLens app. |
