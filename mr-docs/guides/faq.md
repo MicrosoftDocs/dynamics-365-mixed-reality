@@ -59,6 +59,10 @@ As of the August 27 update, Dynamics 365 Guides is available in the following la
 
 Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md)] integration was added in version 104.1907.19001.
 
+## The solution update fails repeatedly
+
+To update the solution, you must have the System Administrator role AND you must have a Power Apps license (or a license like a Dynamics 365 Guides license that includes a Power Apps license). When you have a Power Apps license, the Access Mode security property is set to Read-Write, which is required for updating the solution. 
+
 ## I don't see my [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] environment even though I have a valid [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license. What should I do? 
 
 You might have installed [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on a trial environment that has expired. Trial environments have their own life cycle, independent of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license. You can go to [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
