@@ -63,6 +63,8 @@ Yes, [!include[pn-dyn-365-field-service](../includes/pn-dyn-365-field-service.md
 
 To update the solution, you must have the [System Administrator](https://docs.microsoft.com/power-platform/admin/database-security) role AND you must have a [Power Apps license](https://docs.microsoft.com/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). When you have a Power Apps license, the Access Mode security property is set to Read-Write, which is required for updating the solution. 
 
+![Dynamics 365 Guides license selected](media/guides-license.PNG "Dynamics 365 Guides license selected")
+
 ## I don't see my [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] environment even though I have a valid [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license. What should I do? 
 
 You might have installed [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on a trial environment that has expired. Trial environments have their own life cycle, independent of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license. You can go to [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
