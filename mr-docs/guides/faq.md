@@ -69,9 +69,9 @@ To update the solution, you must have the [System Administrator](https://docs.mi
 
 You might have installed [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] on a trial environment that has expired. Trial environments have their own life cycle, independent of the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license. You can go to [Power Platform Admin center](https://admin.powerplatform.microsoft.com/environments), select your trial environment, and switch it to a production environment.
 
-## Can I use the JSON data file generated in Common Data Service when a guide is created to build or extend functionality?
+## Can I use the JSON data file generated in Microsoft Dataverse when a guide is created to build or extend functionality?
 
-When you create a guide by using the PC app, a JSON data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
+When you create a guide by using the PC app, a JSON data file is automatically created in Microsoft Dataverse. This file is for internal use only. We don't recommend building functionality on top of this file because it might change over time. 
 
 ## How do I limit users to a particular Dynamics 365 instance?
 
@@ -83,7 +83,7 @@ The [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution pac
 
 ## Where is the data stored, and who has access to it?
 
-The data is stored in Common Data Service in the tenant that you have admin privileges to. Please sign in to [!include[pn-dyn-365](../includes/pn-dyn-365.md)] using the credentials created during the sign-up process. For more information, [see the Setup topic](setup.md). 
+The data is stored in Microsoft Dataverse in the tenant that you have admin privileges to. Please sign in to [!include[pn-dyn-365](../includes/pn-dyn-365.md)] using the credentials created during the sign-up process. For more information, [see the Setup topic](setup.md). 
 
 ## What file formats are supported?
 
