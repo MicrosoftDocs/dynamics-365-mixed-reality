@@ -107,11 +107,11 @@ A user can be associated with more than one access team.
 
 3. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
 
-    ![Share a guide](media/access-teams-19.PNG "Share a guide")
+    ![Check box for specific guide selected](media/access-teams-19.PNG "Check box for specific guide selected")
 
 4. On the **Share guide** page, select **Add User/Team**.
 
-    ![Add User/Team command](media/access-teams-20.PNG "Add User/Team command")
+    ![Screen shot of add User/Team command](media/access-teams-20.PNG "Screen shot of add User/Team command")
 
 5. In the **Look Up Records** dialog box, follow these steps:
 
