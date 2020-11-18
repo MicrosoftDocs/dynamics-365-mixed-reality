@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use Dynamics 365 Guides US Government for government organizations
 ms.author: mamaylya
-ms.date: 11/01/2020
+ms.date: 11/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Guides Us Government
@@ -51,7 +51,7 @@ The GCC plan is available through the Volume Licensing and Cloud Solution Provid
 
 Customer data, as defined in the Online Services Terms, means all data, including all text, sound, video, 3D models, or image files, and software, that are provided to 
 Microsoft by, or on behalf of, customers through the use of the Online Service. Customer content refers to a specific subset of customer data that has been directly 
-created by users, such as content stored in databases through entries in [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered confidential information and in normal service operation is not sent over the internet without encryption.
+created by users, such as content stored in databases through entries in [Microsoft Dataverse](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered confidential information and in normal service operation is not sent over the internet without encryption.
 
 Microsoft reminds you not to share any controlled, sensitive, or confidential information with support personnel as part of your GCC-related support 
 incident, until you confirm their authorization to view or access such data. Microsoft is committed to protecting your privacy. Dynamics 365 Guides Customer Support 
