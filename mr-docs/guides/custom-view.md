@@ -2,7 +2,7 @@
 author: Mamaylya
 description: This topic explains how to add a tab on HoloLens that shows a custom list of guides for a specific set of users.
 ms.author: mamaylya
-ms.date: 11/05/2020
+ms.date: 11/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Show a list of guides on a custom tab for a specific set of Dynamics 365 Guides users
@@ -29,13 +29,13 @@ To create a custom view, you must have the following prerequisites:
 
 - Dynamics 365 Guides PC and HoloLens app versions 104.1907.19001 or later
 
-You must also have the **System Administrator** role for the Dynamics 365 Guides instance that you're working with. Additionally, it's useful to have a general understanding of [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro), the database that Dynamics 365 Guides is based on.
+You must also have the **System Administrator** role for the Dynamics 365 Guides instance that you're working with. Additionally, it's useful to have a general understanding of [Microsoft Dataverse](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro), the database that Dynamics 365 Guides is based on.
 
 ## Overview of creating a custom view
 
 The process of creating a custom view involves these basic steps:
 
-1. Create a new entity in Common Data Service. This entity contains the fields that will be included in the view. (It must contain at least two fields.)
+1. Create a new entity in Microsoft Dataverse. This entity contains the fields that will be included in the view. (It must contain at least two fields.)
 
 2. Create the view.
 
@@ -45,7 +45,7 @@ The process of creating a custom view involves these basic steps:
 
 The remaining sections of this topic describe each step in detail.
 
-## Step 1: Create a new entity in Common Data Service
+## Step 1: Create a new entity in Microsoft Dataverse
 
 > [!NOTE]
 > If you want to use an existing entity instead of creating a new entity, skip ahead to the [Step 2: Create the view](#step-2-create-the-view) section.
@@ -172,7 +172,7 @@ The purpose of the configuration record is to notify HoloLens about the view tha
 2. In the left pane, select **Apps**, and then select **Guides** to open the Guides model-driven app.
 
     > [!NOTE]
-    > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Common Data Service.
+    > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
     
     ![Select Guides](media/custom-view-apps-guides.PNG "Select Guides")
 
@@ -220,7 +220,7 @@ In this step, you will add the list of guides that will appear on the HoloLens t
 
     ![Add a subarea](media/custom-view-add-subarea.PNG "Add a subarea")
 
-7. On the **Properties** tab on the right side of the page, in the **Entity** field, select the name of the entity that you created in the [Step 1: Create a new entity in Common Data Service](#step-1-create-a-new-entity-in-common-data-service) section. In this way, you link the subarea.
+7. On the **Properties** tab on the right side of the page, in the **Entity** field, select the name of the entity that you created in the [Step 1: Create a new entity in Microsoft Dataverse](#step-1-create-a-new-entity-in-microsoft-dataverse) section. In this way, you link the subarea.
 
     ![Link the subarea](media/custom-view-link-subarea.PNG "Link the subarea")
 

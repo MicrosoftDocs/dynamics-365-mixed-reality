@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 1 of the setup process for Microsoft Dynamics 365 Guides. In this step, you buy a subscription or sign up for a free 30-day trial.
 ms.author: mamaylya
-ms.date: 10/05/2020
+ms.date: 11/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Buy a Dynamics 365 Guides subscription or sign up for a free trial
@@ -50,7 +50,7 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
     ![Adding a user license](media/guides-license.PNG "Adding a user license")
     
-5. In the **Apps** list, make sure that the following apps are selected: Common Data Service, Dynamics 365 Guides, Power Apps for Guides.    
+5. In the **Apps** list, make sure that the following apps are selected: Microsoft Dataverse, Dynamics 365 Guides, Power Apps for Guides.    
     
     ![Apps list](media/guides-apps-list.PNG "Apps list")
 
