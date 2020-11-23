@@ -2,7 +2,7 @@
 author: keno-msft
 description: Describes, in tutorial format, how to use Pixyz Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.author: keno
-ms.date: 10/01/2020
+ms.date: 11/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Use Pixyz Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
@@ -11,12 +11,10 @@ ms.reviewer: v-brycho
 
 # Use Pixyz Studio to prepare 3D models for use in Dynamics 365 mixed-reality apps
 
-This tutorial outlines a general process for using Pixyz Studio to convert Computer-Aided Design (CAD) parametric assets into polygon-based [.GLB](https://www.khronos.org/gltf/) files that perform well in Dynamics 365 mixed-reality apps. (See [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for information about performance targets.) Keep in mind that every asset and use case is different, so you may need to adjust the process accordingly. 
+This tutorial outlines a general process for using Pixyz Studio (2020.1 Update 2 r16) to convert Computer-Aided Design (CAD) parametric assets into polygon-based [.GLB](https://www.khronos.org/gltf/) files that perform well in Dynamics 365 mixed-reality apps. (See [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models#performance-targets) for information about performance targets.) Keep in mind that every asset and use case is different, so you may need to adjust the process accordingly. 
 
 > [!IMPORTANT]
-> This document is created strictly for informative purposes to demonstrate how Pixyz Studio works with Dynamics 365 mixed-reality apps. Your use of third-party applications 
-is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Pixyz or any of 
-Pixyz’s products. There are [other content-creation apps](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models) you can use to prepare your 3D models.
+> This document is created strictly for informative purposes to demonstrate how Pixyz Studio (2020.1 Update 2 r16) works with Dynamics 365 mixed-reality apps. This document was last updated November 2020. Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Pixyz or any of Pixyz’s products. There are [other content-creation apps](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/convert-models#tools-for-exporting-cad-models) you can use to prepare your 3D models.
 
 ## What is Pixyz Studio?
 
@@ -355,11 +353,11 @@ After preparing your 3D models, you can learn more about using the following Dyn
 
 ## More information
 
-Several screenshots in this document were taken from the Pixyz Studio software program to provide clear instructions on how to use Pixyz’s software. [Learn more about Pixyz Studio](https://www.pixyz-software.com/studio/).
+Several screenshots in this document were taken from the Pixyz Studio (2020.1 Update 2 r16) software program to provide clear instructions on how to use Pixyz’s software. [Learn more about Pixyz Studio](https://www.pixyz-software.com/studio/).
 
-Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Pixyz Studio, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
+Your use of any third-party application is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Pixyz or any of Pixyz’s products. Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Pixyz Studio, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications or updates to Pixyz Studio that may have been made after the date the tutorial was prepared.
 
-The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
+The use in this document of trademarked names and images is strictly to attribute the application to Pixyz Studio and for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
 
     
 
