@@ -56,6 +56,6 @@ If you're converting a point cloud into a 3D model, see this tutorial:
 
 Your use of third-party applications is subject to terms between you and the third party. Microsoft Corporation isn't affiliated with, isn't a partner to, and doesn't endorse or sponsor any of the software used in these tutorials.
 
-Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of, these tutorials or reliance on their instructions. These documents are created only to provide general information to our customers and don't take into consideration any individualized business plans or specifications.
+Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of, these tutorials or reliance on their instructions. These documents are created only to provide general information to our customers and don't take into consideration any individualized business plans or specifications or updates to third-party applications that may have been made after the date the tutorial was prepared..
 
-The use in these documents of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
+The use in these documents of trademarked names and images is strictly to attribute the application to the relevant third party for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
