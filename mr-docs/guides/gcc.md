@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use Dynamics 365 Guides US Government for government organizations
 ms.author: mamaylya
-ms.date: 11/17/2020
+ms.date: 11/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Guides Us Government
@@ -63,11 +63,6 @@ For more information on Dynamics 365 Guides protection of customer data, see the
 
 GCC plan services are provided from datacenters physically located in the United States. GCC plan customer content is stored at rest in datacenters physically located 
 only in the United States.
-
-## Certifications and accreditations
-
-> [!NOTE]
-> Dynamics 365 Guides for GCC is designed to be hosted in Government Community Cloud and supports FedRAMP accreditation. Dynamics 365 Guides for GCC is currently pending FedRAMP accreditation (moderate) and is offered under standard commercial terms while the FedRAMP accreditation is pursued. The service will be provisioned in the Government Community Cloud whether or not it has achieved FedRAMP accreditation. You acknowledge that while the services pursue the corresponding FedRAMP accreditation, the security controls and data commitments related to the services will conform to the FedRAMP standard described in the System Security Plan (SSP) for the Azure Commercial FedRAMP ATO and in the Online Services Terms. For clarity, if your GCC tenant is provisioned in the United States, customer data will be stored at rest in the United States. 
 
 ## See also
 
