@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor a guide when you're using the Microsoft Dynamics 365 Guides HoloLens app in Author mode.
 ms.author: mamaylya
-ms.date: 02/25/2020
+ms.date: 10/16/2020
 ms.service: crm-online
 ms.topic: article
 title: Anchor a guide in Author mode by using the Dynamics 365 Guides HoloLens app 
@@ -23,11 +23,14 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the QR code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
-    ![Aligning with the anchor](media/qr-code-green-outline.PNG "Aligning with the anchor")
+    ![Aligning with the QR code anchor](media/qr-code-green-outline.PNG "Aligning with the QR code anchor")
 
 4. On the **QR Code Anchor Found** page, select **Confirm**.
 
     ![Confirm button on the QR Code Anchor Found page](media/qr-code-confirm.PNG "Confirm button on the QR Code Anchor Found page")
+    
+    >[!TIP]
+    >You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using a QR code anchor, a good way to control hologram offset is to make sure the green outline aligns with the QR code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
 
 ## Anchor a guide by using a circular code anchor
 
@@ -43,20 +46,23 @@ When you open a guide in the [!include[cc-microsoft](../includes/cc-microsoft.md
 
 3. With your [!include[pn-hololens](../includes/pn-hololens.md)], look at the circular code anchor until a green outline appears. Use your gaze to align the green box with the anchor, and then select **Confirm**.
 
-    ![Aligning with the anchor](media/circular-code-green-outline.PNG "Aligning with the anchor")
+    ![Aligning with the circular code anchor](media/circular-code-green-outline.PNG "Aligning with the circular code anchor")
 
 4. On the **Circular Code Anchor Found** page, select **Confirm**.
 
     ![Confirm button on the Circular Code Anchor Found page](media/circular-code-confirm.PNG "Confirm button on the Circular Code Anchor Found page")
+    
+    >[!TIP]
+    >You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using a circular code anchor, a good way to control hologram offset is to make sure the green outline aligns with the circular code. If the green outline isn’t aligned, you may need to tap the **Anchor** button to rescan. 
 
 ## Anchor a guide by using a holographic anchor
 
-- Use air tap and hold to move the holographic anchor and align it to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres.
+- Use air tap and hold to move the holographic anchor and align it to its real-world counterpart. To rotate the anchor, tap and hold the blue spheres. On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a digital anchor when you author a guide.
 
     ![Rotating a holographic anchor](media/rotate-digital-anchor.PNG "Rotating a holographic anchor")
 
-> [!TIP]
-> On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can use your hand to directly select and place a digital anchor when you author a guide.
+    >[!TIP]
+    >You can re-align holographic content that might seem offset from the real world (for example, a rectangle that should be highlighting a tool, but is floating in the air away from the tool bench). When using a holographic anchor, select the **Anchor** button to make sure the digital version of the real object and the object itself are still aligned. 
 
 ## Re-anchor a guide
 
@@ -67,4 +73,15 @@ When you anchor your guide, the anchoring information is stored on your [!includ
 
 ## What's next?
 
-[Place holograms, add styles, and more](hololens-app-orientation.md)
+Use the following table to find more information on anchoring.
+
+|Area|Link|
+|----------------------|------------------------------------------------------------------|
+|Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
+|Creating types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
+||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
+||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
+||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
+|Hologram precision|[Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)|
+||[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
+|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)

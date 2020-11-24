@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Use Autodesk 3ds Max to prepare content for use in Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Use Autodesk 3ds Max to prepare 3D content for Dynamics 365 mixed-reality apps

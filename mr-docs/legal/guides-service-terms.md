@@ -11,6 +11,8 @@ robots: noindex, nofollow
 
 # MICROSOFT SOFTWARE LICENSE TERMS - MICROSOFT DYNAMICS 365 GUIDES 
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 These license terms are an agreement between you and Microsoft Corporation (or one of its affiliates). They apply to the software 
 named above and any Microsoft services or software updates (except to the extent such services or updates are accompanied by new or additional terms, in which case those different terms apply prospectively and do not alter your or Microsoft’s rights relating to pre-updated software or services). IF YOU COMPLY WITH THESE LICENSE TERMS, YOU HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 
@@ -24,9 +26,9 @@ named above and any Microsoft services or software updates (except to the extent
 
 **2. DATA.** 
 
-> **a) Data Collection.** The software may collect information about you and your use of the software and send that to Microsoft. Microsoft may use this information to provide services and improve Microsoft’s products and services. Your opt-out rights, if any, are described in the product documentation. Some features in the software may enable collection of data from users of your applications that access or use the software. If you use these features to enable data collection in your applications, you must comply with applicable law, including getting any required user consent, and maintain a prominent privacy policy that accurately informs users about how you use, collect, and share their data. You can learn more about Microsoft’s data collection and use in the product documentation and the Microsoft Privacy Statement at http://go.microsoft.com/fwlink/?LinkID=521839. You agree to comply with all applicable provisions of the Microsoft Privacy Statement.
+> **a) Data Collection.** The software may collect information about you and your use of the software and send that to Microsoft. Microsoft may use this information to provide services and improve Microsoft’s products and services. Your opt-out rights, if any, are described in the product documentation. Some features in the software may enable collection of data from users of your applications that access or use the software. If you use these features to enable data collection in your applications, you must comply with applicable law, including getting any required user consent, and maintain a prominent privacy policy that accurately informs users about how you use, collect, and share their data. You can learn more about Microsoft’s data collection and use in the product documentation and the Microsoft Privacy Statement at https://go.microsoft.com/fwlink/?LinkID=521839. You agree to comply with all applicable provisions of the Microsoft Privacy Statement.
 
-> **b) Processing of Personal Data.** To the extent Microsoft is a processor or subprocessor of personal data in connection with the software, Microsoft makes the commitments in the European Union General Data Protection Regulation Terms in Attachment 4 of the Online Services Terms to all customers effective May 25, 2018, at http://go.microsoft.com/?linkid=9840733. 
+> **b) Processing of Personal Data.** To the extent Microsoft is a processor or subprocessor of personal data in connection with the software, Microsoft makes the commitments in the European Union General Data Protection Regulation Terms in Attachment 4 of the Online Services Terms to all customers effective May 25, 2018, at https://go.microsoft.com/?linkid=9840733. 
 
 **3. SCOPE OF LICENSE.** The software is licensed, not sold. Microsoft reserves all other rights. Unless applicable law gives you more rights despite this limitation, you will not (and have no right to): 
 
@@ -42,11 +44,11 @@ named above and any Microsoft services or software updates (except to the extent
 
 **4. CAUTIONARY NOTE:** You are responsible for using the software in a safe environment and manner. Please use caution and be aware of your surroundings when using the software, particularly if you are moving. You should not use the software while operating other equipment.
 
-**5. VIDEO CODECS.** THIS PRODUCT IS LICENSED UNDER THE AVC, THE VC-1, AND THE MPEG-4 PART 2 VISUAL PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE ABOVE STANDARDS (“VIDEO STANDARDS”) OR (ii) DECODE AVC, VC-1, AND MPEG-4 PART 2 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE http://aka.ms/mpegla. 
+**5. VIDEO CODECS.** THIS PRODUCT IS LICENSED UNDER THE AVC, THE VC-1, AND THE MPEG-4 PART 2 VISUAL PATENT PORTFOLIO LICENSES FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER TO (i) ENCODE VIDEO IN COMPLIANCE WITH THE ABOVE STANDARDS (“VIDEO STANDARDS”) OR (ii) DECODE AVC, VC-1, AND MPEG-4 PART 2 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA, L.L.C. SEE https://aka.ms/mpegla. 
 
 **6. DOCUMENTATION.** You may copy and use the documentation for your internal, reference purposes.
 
-**7. EXPORT RESTRICTIONS.** You must comply with all domestic and international export laws and regulations that apply to the software, which include restrictions on destinations, end users, and end use. For further information on export restrictions, visit http://aka.ms/exporting. 
+**7. EXPORT RESTRICTIONS.** You must comply with all domestic and international export laws and regulations that apply to the software, which include restrictions on destinations, end users, and end use. For further information on export restrictions, visit https://aka.ms/exporting. 
 
 **8. SUPPORT SERVICES.** Microsoft is not obligated under this agreement to provide any support services for the software. Any support provided is “as is”, “with all faults”, and without warranty of any kind. 
 

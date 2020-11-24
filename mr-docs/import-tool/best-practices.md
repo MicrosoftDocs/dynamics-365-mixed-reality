@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Best practices for converting and optimizing real-time 3D models
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Best practices for converting and optimizing real-time 3D models

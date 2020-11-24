@@ -11,13 +11,15 @@ ms.reviewer: krbjoran
 
 # Create asset records
 
+[!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
+
 Assets let you track the equipment you operate, inspect, maintain, and repair. They provide a simple and organized way for technicians to capture data in the field through Dynamics 365 Remote Assist, such as capturing annotated photos of a generator asset during an inspection. By guiding technicians to capture data to an asset record, you can ensure data is captured to the right place, in a consistent way, so people in your organization can easily locate and use that data. With continued use over time, the asset record becomes a historical record and audit trail showing how an asset changed over time, along with the work performed on the asset.
 
-In this tutorial, you'll learn how to create new asset records, import assets records from another system, and view asset records in the Dynamics 365 Remote Assist model-driven app (on the web).
+In this article, you'll learn how to create new asset records, import assets records from another system, and view asset records in the Dynamics 365 Remote Assist model-driven app (on the web).
 
 ## Prerequisites
 
-To complete this tutorial, you need:
+To complete the steps in this article, you need:
 
 - **Access to the environment Dynamics 365 Remote Assist is installed in**. You'll be accessing the Dynamics 365 Remote Assist app to create a new record.
 - (Optional) **Access to the system where your asset data is currently stored**. This system could be a database, Excel workbook, or other software.
@@ -80,9 +82,12 @@ For this tutorial, we'll leave fields blank and only use the asset name field. Y
 
 Depending on the number of records you're importing, this process might take a while. Periodically refresh the page to see your records start to populate the asset list.
 
-## Next step
+## Next steps
 
-In this tutorial, you learned how to create asset records and import an existing asset catalog to Common Data Service. In the next tutorial, you'll learn how to view these assets in Dynamics 365 Remote Assist on HoloLens and capture asset data with spatial markup.
+In this tutorial, you learned how to create asset records and import an existing asset catalog to Common Data Service.
+You can follow these next steps to learn how to view these assets in Dynamics 365 Remote Assist on HoloLens or Mobile and capture asset data with spatial markup.
 
-> [!div class="nextstepaction"]
-> [Capture asset data in HoloLens](./asset-capture-photos.md)
+After assigning security roles, you can check out the following articles to use the model-driven app:
+
+- [Capture asset data in HoloLens](./asset-capture-photos.md)
+- [Capture asset data on Mobile](./mobile-app/asset-capture-mobile.md)

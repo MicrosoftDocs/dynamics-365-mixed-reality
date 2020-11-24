@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to upgrade the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: mamaylya
-ms.date: 07/24/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Upgrade the Dynamics 365 Guides solution
@@ -14,7 +14,7 @@ ms.reviewer: v-brycho
 Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. 
 
 > [!IMPORTANT]
-> To upgrade the Guides solution. you must have a [System Administrator security group role](https://docs.microsoft.com/power-platform/admin/database-security) and an assigned Guides license. 
+> To upgrade the Guides solution, you must have a [System Administrator security group role](https://docs.microsoft.com/power-platform/admin/database-security) and an assigned Guides license. 
 
 When an update is required, the user will see a notification in the **What's new** panel. 
 
@@ -38,7 +38,7 @@ To upgrade the solution:
   
 4. In the dialog box that appears, select the environment that you want to upgrade the solution for, select the **I agree to the terms of service** check box, and then select **Install**.  
     
-   ![Install button](media/solution-install-button.PNG "Install button")  
+   ![Install button to upgrade environment](media/solution-install-button.PNG "Install button to upgrade environment")  
 
 ## Troubleshooting
 
@@ -46,9 +46,9 @@ If you encounter issues while you're upgrading the solution, make sure that you 
 
 ### "Guide can't be opened" error message
 
-As part of the update to the Dynamics 365 Guides solution that was released on April 28, 2020, all your guides should automatically be converted from schema v3 to v4. Schema v4 enables Dynamics 365 Guides content to be stored in entities instead of inside a single JavaScript Object Notation (JSON) file. Therefore, you can take advantage of the Common Data Service Web application programming interface (API) and Microsoft Power Platform functionality by using Dynamics 365 Guides content.
-
-In rare cases, the conversion of a guide from schema v3 to v4 might be unsuccessful, for reasons that include but aren't limited to the following:
+As part of the October 1 update of the Dynamics 365 Guides solution, all your guides should automatically be converted from schema v3 or v4 to v5. Schema v5 enables the latest features, such as branching and triggers, and also includes all changes from schema v4 introduced on April 28, 2020.  
+ 
+In rare cases, the conversion of a guide from schema v3 or v4 to v5 might be unsuccessful, for reasons that include but aren't limited to the following:
 
 - A guide was being authored in the PC or HoloLens app when the solution was updated.
 

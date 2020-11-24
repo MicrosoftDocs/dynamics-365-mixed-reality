@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to anchor holograms in the Microsoft Dynamics 365 Guides PC app by using a circular code anchor
 ms.author: mamaylya
-ms.date: 09/09/2020
+ms.date: 11/03/2020
 ms.service: crm-online
 ms.topic: article
 title: Anchor a guide in the Dynamics 365 Guides PC app by using a circular code anchor
@@ -121,14 +121,25 @@ make sure that the anchor is flat. An anchor that is curved or distorted can aff
 
 - **Scanning angle.** Make sure you're facing the anchor straight on at the correct distance when gazing at it. 
 
+    - Scanning from the same angle every time is important to maintain hologram position consistency across scans.
+    
     - Scanning from glancing angles can cause detection failure or misalignment.
 
     - Ideal scanning range is from 60 to 80 cm.
 
 ## What's next?
 
-[Learn about other factors that affect anchoring accuracy](anchor.md)<br>
-[Create a QR code anchor](pc-app-anchor-qr-code.md)<br>
-[Create a holographic anchor](pc-app-anchor-holographic.md)<br>
-[Anchor your guide if you're an author](hololens-app-anchor.md)<br>
-[Anchor your guide if you're an operator](operator-anchor.md)<br>
+Use the following table to find more information on anchoring.
+
+|Area|Link|
+|----------------------|------------------------------------------------------------------|
+|Anchoring overview|[Overview of anchoring a guide](pc-app-anchor.md)|
+|Creating types of anchors|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)|
+||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
+||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
+|Hologram precision|[Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)|
+||[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
+|HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
+|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
+
+

@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get an overview anchoring holograms in Microsoft Dynamics 365 Guides, using a QR code anchor, circular code anchor, or holographic anchor.
 ms.author: mamaylya
-ms.date: 03/24/2020
+ms.date: 11/03/2020
 ms.service: crm-online
 ms.topic: article
 title: Overview of anchoring your guide to the real world in the Dynamics 365 Guides PC app
@@ -19,6 +19,15 @@ help holograms determine where they are in the real world. You must create an an
 
 It's crucial to ensure that holograms are aligned as precisely as possible. If holograms are misaligned, your instructions may show actions at incorrect locations, 
 which can result in operator confusion or damage to parts.
+
+## How does anchoring work?
+
+Dynamics 365 Guides uses a single anchor per guide. It can be a digital (holographic) anchor or a physical anchor (QR code or circular code) that you print. 
+
+When an operator places the holographic anchor or scans the physical anchor, Dynamics 365 Guides creates a virtual in-world reference frame at that location. All the holograms included in the guide are located in space relative to that virtual reference frame. 
+
+If the holographic anchor is repositioned or the QR/circular code is rescanned, the reference frame is reset to match the updated digital or physical position of the anchor. 
+Because HoloLens knows and remembers the space around the operator, it can remember the reference frame of a guide so operators don’t need to place the holographic anchor again or scan again. 
 
 ## Three ways to anchor a guide
 
@@ -59,11 +68,24 @@ After creating the anchor in the PC app, you use the HoloLens app to anchor your
 
 - [Anchor a guide if you're an operator](operator-anchor.md)
 
+## Positional precision of holograms 
+
+For information on the positional precision of holograms, make sure to see these articles:
+
+- [Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)
+- [Effect of anchor types and placement](pc-app-anchor-types-placement-precision.md)
+
 ## What's next?
 
-[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)<br>
-[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)<br>
-[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)<br>
-[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)<br>
-[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)<br>
-[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)<br>
+Use the following table to find more information on anchoring.
+
+|Area|Link|
+|----------------------|------------------------------------------------------------------|
+|Creating an anchor|[Create a QR code anchor in the PC app](pc-app-anchor-qr-code.md)
+||[Create a circular code anchor in the PC app](pc-app-anchor-circular-code.md)|
+||[Create a holographic anchor in the PC app](pc-app-anchor-holographic.md)|
+||[Change from one anchoring type to another in the PC app](pc-app-anchor-change-type.md)|
+|Hologram precision|[Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)|
+||[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
+|HoloLens app for authors|[Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)|
+|HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)

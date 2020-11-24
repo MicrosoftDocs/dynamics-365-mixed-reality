@@ -29,6 +29,22 @@ search.app:
 
 # Dynamics 365 Remote Assist mobile version history
 
+## iOS - 2020.10.1 + Android - 2020.10.03
+
+Date: October 1, 2020
+
+### Bug fixes
+
+- Improvements to the UI for group calling participants list.
+- Improved the view space switching logic for when only one participant is sharing their space in a group call.
+- Fix for annotations not being removed after participants leave a group call.
+- Fix for call participants in a group call unable to post call content to a Dynamics 365 Field Service work order.
+- Fix for getting stuck on loading screen after sign in.
+- Fix for disappearing annotations after saving a snapshot in the call.
+- Incoming call notification sound is not present when the device is on silent mode.
+- Improved support for Bluetooth headset on iPads and tablets.
+- Improved annotations toolbar visibility in Teams clients when in calls with mobile devices without augmented reality (AR) support.
+
 ## iOS - 2020.9.1 + Android - 2020.09.04
 
 Date: September 1, 2020

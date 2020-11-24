@@ -142,11 +142,11 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 > [!NOTE]
 > You can use a combination of third-party tools to prepare your 3D (computer-aided design \[CAD\]) models. For more information, see these topics:
 >
-> - [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)
+> - [Optimize your 3D models](3d-content-guidelines/optimize-models.md)
 >
-> - [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)
+> - [Best practices for 3D models](3d-content-guidelines/best-practices.md)
 >
-> - [Tutorials overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/tutorials-overview)
+> - [Tutorials overview](3d-content-guidelines/tutorials-overview.md)
 
 ## Add media (images or videos)
 
@@ -167,7 +167,7 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
 | Media | Supported formats | Best practice |
 |-------|-------------------|---------------|
-| 3D models | FBX, GLB, glTF, STL, PLY | Optimize your 3D models as much as possible, to help maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see [Convert CAD drawings to use as holograms](import-tool.md). |
+| 3D models | FBX, GLB, glTF, STL, PLY | Optimize your 3D models as much as possible, to help maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see [Convert CAD drawings to use as holograms](author-convert-3D-models.md). |
 | Images | PNG, JPG, JPEG, BMP, GIF, TIF | |
 | Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV | Keep your videos less than two minutes long and focused on one step at a time. |
 

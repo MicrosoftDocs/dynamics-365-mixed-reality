@@ -15,7 +15,12 @@ Here are some answers to common questions about using Dynamics 365 Remote Assist
 
 ## How can I tell what version I'm using?
 
-In Dynamics 365 Remote Assist HoloLens, go to the **Settings tab**, and then find the version number in the bottom left of the screen.
+In Remote Assist HoloLens, go to the **Settings tab**, and then find the version number in the bottom left of the **Settings** page.
+![Version number](media/hl-version-number.png "Version number")
+
+## How can I use the newest version of Dynamics 365 Remote Assist?
+
+There are several ways to [update your app](https://docs.microsoft.com/hololens/holographic-store-apps#update-apps). [Learn about the newest version of Dynamics 365 Remote Assist.](version-history-remote-assist-hololens.md)
 
 ## What languages is Dynamics 365 Remote Assist HoloLens available in?
 
@@ -59,7 +64,7 @@ If you’re having trouble signing in to Dynamics 365 Remote Assist, try the fol
 
 - Make sure you’re using a work or school account, not a Microsoft account (MSA), to sign in to HoloLens.
 
--  Make sure that the work or school account you’re using has a valid [Office 365 Business](https://products.office.com/business/office) Premium or Essentials subscription with [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) enabled.
+-  Make sure that the work or school account you’re using has a valid [Microsoft 365 Business](https://products.office.com/business/office) Premium or Essentials subscription with [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) enabled.
 
 - Make sure your HoloLens is connected to the internet.
 
