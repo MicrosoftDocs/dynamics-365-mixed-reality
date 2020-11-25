@@ -98,6 +98,7 @@
 ##### [ReCap Photo](3d-content-guidelines/autodesk-recap-photo.md) 
 #### [Blender](3d-content-guidelines/blender.md)
 #### [Dassault Systèmes SOLIDWORKS](3d-content-guidelines/solidworks.md)
+#### [Pixyz Studio](3d-content-guidelines/pixyz-studio.md)
 #### SideFX Houdini
 ##### [Prepare 3D models](3d-content-guidelines/houdini.md)
 ##### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)
