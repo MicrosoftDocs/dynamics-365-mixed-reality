@@ -36,7 +36,7 @@ This tutorial outlines a general process for using Pixyz Studio (2020.1 Update 2
     |Import Options|Load Hidden Parts: Off||
     ||Load PMI: Off||
     ||Hierarchy Mode: Full||
-    |Tesellation Settings|Repair CAD: On, 0.1mm||
+    |Tessellation Settings|Repair CAD: On, 0.1mm||
     ||Tessellation Quality, High|Max Sag: On, 0.1mm|
     |||Max Angle: On, 15 deg|
     |Material Assignment|Transfer CAD Materials On Parts|     
