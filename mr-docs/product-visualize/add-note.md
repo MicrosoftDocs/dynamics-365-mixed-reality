@@ -14,6 +14,8 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 You can capture notes while giving a product demonstration, and add text or draw on the notes. You also can attach notes at specific points on a 3D model. For example, when you're in the field with a customer, you can capture any required product changes directly on the model. Any notes you create are saved in Common Data Service.
 
 To review notes attached to a model, tap any spatial anchor on the model. Anchors on the front of the model appear as blue circles with white outlines. Anchors on the back appear as blurred circles with transparent outlines. For a model and note that's off the screen, a "note bubble" points in the direction of the model and note. See the table below for information about how these notes appear.

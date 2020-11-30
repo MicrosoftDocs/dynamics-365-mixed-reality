@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use Dynamics 365 Guides US Government for government organizations
 ms.author: mamaylya
-ms.date: 11/01/2020
+ms.date: 11/25/2020
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Guides Us Government
@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 ---
 
 # Dynamics 365 Guides US Government
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 In response to the unique and evolving requirements of the United States public sector, Microsoft has created Dynamics 365 Guides US Government, a plan for US government 
 organizations. We recommend that you read this supplementary section alongside the [Guides documentation](https://docs.microsoft.com/dynamics365/mixed-reality/guides/).
@@ -49,7 +51,7 @@ The GCC plan is available through the Volume Licensing and Cloud Solution Provid
 
 Customer data, as defined in the Online Services Terms, means all data, including all text, sound, video, 3D models, or image files, and software, that are provided to 
 Microsoft by, or on behalf of, customers through the use of the Online Service. Customer content refers to a specific subset of customer data that has been directly 
-created by users, such as content stored in databases through entries in [Common Data Service](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered confidential information and in normal service operation is not sent over the internet without encryption.
+created by users, such as content stored in databases through entries in [Microsoft Dataverse](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro) entities (for example, 3D models). Content is generally considered confidential information and in normal service operation is not sent over the internet without encryption.
 
 Microsoft reminds you not to share any controlled, sensitive, or confidential information with support personnel as part of your GCC-related support 
 incident, until you confirm their authorization to view or access such data. Microsoft is committed to protecting your privacy. Dynamics 365 Guides Customer Support 
@@ -61,11 +63,6 @@ For more information on Dynamics 365 Guides protection of customer data, see the
 
 GCC plan services are provided from datacenters physically located in the United States. GCC plan customer content is stored at rest in datacenters physically located 
 only in the United States.
-
-## Certifications and accreditations
-
-> [!NOTE]
-> Dynamics 365 Guides for GCC is designed to be hosted in Government Community Cloud and supports FedRAMP accreditation. Dynamics 365 Guides for GCC is currently pending FedRAMP accreditation (moderate) and is offered under standard commercial terms while the FedRAMP accreditation is pursued. The service will be provisioned in the Government Community Cloud whether or not it has achieved FedRAMP accreditation. You acknowledge that while the services pursue the corresponding FedRAMP accreditation, the security controls and data commitments related to the services will conform to the FedRAMP standard described in the System Security Plan (SSP) for the Azure Commercial FedRAMP ATO and in the Online Services Terms. For clarity, if your GCC tenant is provisioned in the United States, customer data will be stored at rest in the United States. 
 
 ## See also
 

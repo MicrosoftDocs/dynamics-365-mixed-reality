@@ -10,7 +10,11 @@ ms.reviewer: krbjoran
 ---
 # Installing Dynamics 365 Remote Assist model-driven app
 
+[!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
+
 ## Overview
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 The Dynamics 365 Remote Assist model-driven app is built on Common Data Service and uses Common Data Model. This app is a companion to the Dynamics 365 Remote Assist apps for HoloLens, iOS, and Android, and enables new scenarios for managing data generated and consumed by Dynamics 365 Remote Assist.
 

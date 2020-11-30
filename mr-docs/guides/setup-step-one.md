@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 1 of the setup process for Microsoft Dynamics 365 Guides. In this step, you buy a subscription or sign up for a free 30-day trial.
 ms.author: mamaylya
-ms.date: 10/05/2020
+ms.date: 11/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Buy a Dynamics 365 Guides subscription or sign up for a free trial
@@ -30,6 +30,8 @@ There are two ways to get a [!include[cc-microsoft](../includes/cc-microsoft.md)
 
 ## Assign the Dynamics 365 Guides license to user accounts
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription, you must assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to user accounts.
 
 1. Open the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home), and make sure that the **The new admin center** option in the upper right corner of the page is turned on.
@@ -48,7 +50,7 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
     ![Adding a user license](media/guides-license.PNG "Adding a user license")
     
-5. In the **Apps** list, make sure that the following apps are selected: Common Data Service, Dynamics 365 Guides, Power Apps for Guides.    
+5. In the **Apps** list, make sure that the following apps are selected: Microsoft Dataverse, Dynamics 365 Guides, Power Apps for Guides.    
     
     ![Apps list](media/guides-apps-list.PNG "Apps list")
 
