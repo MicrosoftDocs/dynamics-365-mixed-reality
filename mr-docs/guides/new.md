@@ -11,8 +11,6 @@ ms.reviewer: v-brycho
 
 # What's new in Dynamics 365 Guides
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
 > [!NOTE]
 > Effective November 2020:
 >
