@@ -97,17 +97,14 @@ As you plan your deployment with your IT department, also consider mobile device
 
 ## Security and privacy
 
-Dynamics 365 Guides is part of the Dynamics 365 application ecosystem, which is covered by the Microsoft cloud security framework. Please see this security whitepaper that 
-covers compliance, privacy, security, and transparency topics. This document provides in-depth details on the overall security and compliance posture given the move of 
-Dynamics 365 to be a first class SaaS built on top of Microsoft Azure platform. 
+Dynamics 365 Guides is part of the Dynamics 365 application ecosystem, which is covered by the Microsoft cloud security framework. See [the Data Protection Resources whitepaper](https://servicetrust.microsoft.com/ViewPage/TrustDocumentsV3?command=Download&downloadType=Document&downloadId=a67eb07f-a1cb-4c54-afd6-f93c1fd67ef1&tab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913&docTab=7f51cb60-3d6c-11e9-b2af-7bb9f5d2d913_FAQ_and_White_Papers) that covers compliance, privacy, security, and transparency topics. This document provides in-depth details on the overall security and compliance posture given the move of Dynamics 365 to be a first class SaaS built on top of Microsoft Azure platform. 
 
 The [Microsoft Security Development Lifecycle (SDL)](https://www.microsoft.com/en-us/securityengineering/sdl/) consists of a set of practices that support security 
 assurance and compliance requirements. The SDL helps developers build more secure software by reducing the number and severity of vulnerabilities in software, while reducing development cost.
 
 ### Network access 
 
-Dynamics 365 Guides is a cloud-based application and may require that your network admin whitelist the IP addresses and/or endpoints required to connect to the Dynamics 365 
-servers. [Learn more about whitelisting IP addresses and URLs](https://docs.microsoft.com/power-platform/admin/online-requirements#ip-addresses-and-urls). 
+Dynamics 365 Guides is a cloud-based application and may require that your network admin whitelist the IP addresses and/or endpoints required to connect to the Dynamics 365 servers. [Learn more about whitelisting IP addresses and URLs](https://docs.microsoft.com/power-platform/admin/online-requirements#ip-addresses-and-urls). 
 
 ## Access management and user roles
 
