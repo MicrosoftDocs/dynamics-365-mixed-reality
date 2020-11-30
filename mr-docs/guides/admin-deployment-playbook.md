@@ -115,7 +115,7 @@ assurance and compliance requirements. The SDL helps developers build more secur
 
 ### Network access 
 
-Dynamics 365 Guides is a cloud-based application and may require that your network admin add the IP addresses and/or endpoints required to connect to the Dynamics 365 servers to an approved list. [Learn more about IP addresses and URLs](https://docs.microsoft.com/power-platform/admin/online-requirements#ip-addresses-and-urls). 
+Dynamics 365 Guides is a cloud-based application and may require that your network admin add the IP addresses and/or endpoints required to connect to the Dynamics 365 servers to an approved list. [Learn more about unblocking IP addresses and URLs](https://docs.microsoft.com/power-platform/admin/online-requirements#ip-addresses-and-urls). 
 
 ## Access management and user roles
 
