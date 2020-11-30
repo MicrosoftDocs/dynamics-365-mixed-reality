@@ -12,8 +12,7 @@ The following diagram shows the overall architecture:
 Dynamics 365 Guides includes two client-side applications: the PC app (a Universal Windows Platform app), and the HoloLens app. Server-side data is stored in  
 Dataverse within your customer tenant.
 
-- A **tenant** is a representation of an organization. It’s a dedicated instance of Azure Active Directory that an organization or app developer receives when the organization 
-or app developer creates a relationship with Microsoft (like signing up for Azure, Microsoft Intune, or Microsoft 365).
+- A **tenant** is a representation of an organization. It’s a dedicated Azure Active Directory environment that an organization or app developer receives when the organization or app developer creates a relationship with Microsoft (like signing up for Azure, Microsoft Intune, or Microsoft 365).
 
 - A **Dataverse environment** is a segmented database that securely stores and manages data that’s used by business applications like Dynamics 365 Guides. 
 Data in Dataverse is stored in a set of tables similar to how a table stores data in a database. Dynamics 365 Guides uses a [custom set of Dataverse tables to store data](https://docs.microsoft.com/dynamics365/mixed-reality/guides/developer-entity-reference). 
@@ -25,18 +24,18 @@ Data in Dataverse is stored in a set of tables similar to how a table stores dat
 When the Dynamics 365 Guides team updates the PC and HoloLens apps, they also update the solution. It’s important to [make sure that the PC and HoloLens apps that 
 you’re using are compatible with the solution]().
 
-## Test vs. production instances
+## Test vs. production environments
 
 A basic Dynamics 365 Guides deployment should consist of at least two Dataverse environments within your tenant: a test environment and a production environment.
 
 You can use the test environment to validate any major updates before pushing them to your production environment, where Dynamics 365 Guides is being used by your end users.
 
-![Diagram showing test vs production instances](media/test-production-instances.png "Diagram showing test vs production instances")
+![Diagram showing test vs production environments](media/test-production-instances.png "Diagram showing test vs production environments")
 
 > [!NOTE]
 > "Production environment” in this case refers generally to the environment that your users access to do their daily work. This is not the same as the Dataverse “Production environment” that you select [when installing the Dynamics 365 Guides Dataverse solution](setup-step-two.md#compatibility-between-solution-and-apps).
   
-Your Dynamics 365 Guides license allows you to access as many Dataverse instances as needed within your tenant.  
+Your Dynamics 365 Guides license allows you to access as many Dataverse environments as needed within your tenant.  
 
 ## Storage capacity 
 
@@ -134,15 +133,15 @@ The following table describes the different roles and when to use each.
 
 |Role	|Permissions	|When to use|
 |----------------------------|----------------------------------------------------|--------------------------------------------------------|
-|Admin|- Can install and update Dataverse solutions<br>- Can create new Dataverse environments<br>- Can assign security roles<br>- Has access to all teams and instances |Required for administration of the Dynamics 365 Guides Dataverse solution<br><br>**Note:** A best practice is to have at least two admins to ensure coverage.|
-|Author	|- Read/write access<br>- Can access all guides in an instance|For top-level Dynamics 365 Guides authors|
-|Operator	|- Read only<br>- Can access all guides in an instance|For users that do not need to create or edit a guide|
-|Restricted Author|- Read/write<br>- Can only access guides that they create, are shared directly with them, or are shared through an access team|When an author only needs access to specific guides in the instance|
-|Restricted Operator|- Read only<br>- Can only access guides that are shared directly with them or are shared through an access team|When an operator only needs access to specific guides in the instance|
+|Admin|- Can install and update Dataverse solutions<br>- Can create new Dataverse environments<br>- Can assign security roles<br>- Has access to all teams and environments |Required for administration of the Dynamics 365 Guides Dataverse solution<br><br>**Note:** A best practice is to have at least two admins to ensure coverage.|
+|Author	|- Read/write access<br>- Can access all guides in an environment|For top-level Dynamics 365 Guides authors|
+|Operator	|- Read only<br>- Can access all guides in an environment|For users that do not need to create or edit a guide|
+|Restricted Author|- Read/write<br>- Can only access guides that they create, are shared directly with them, or are shared through an access team|When an author only needs access to specific guides in the environment|
+|Restricted Operator|- Read only<br>- Can only access guides that are shared directly with them or are shared through an access team|When an operator only needs access to specific guides in the environment|
 
-The following diagram shows an example of using Dataverse instances, access teams, and user roles to manage access to instances and guides.
+The following diagram shows an example of using Dataverse environments, access teams, and user roles to manage access to environments and guides.
 
-![Diagram showing different levels of security access using instances, access teams, and user roles](media/security-access-methods-diagram.PNG "Diagram showing different levels of security access using instances, access teams, and user roles")
+![Diagram showing different levels of security access using environment, access teams, and user roles](media/security-access-methods-diagram.PNG "Diagram showing different levels of security access using environment, access teams, and user roles")
 
 > [!TIP]
 > You can use Azure Active Directory security groups to [assign Dynamics 365 Guides security roles to batches of users](https://powerusers.microsoft.com/t5/Common-Data-Service-for-Apps/How-to-assign-security-roles-to-Microsoft-365-Groups-Security/m-p/648584). This is useful when you’re deploying Dynamics 
