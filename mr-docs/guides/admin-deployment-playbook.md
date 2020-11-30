@@ -31,7 +31,7 @@ Dynamics 365 Guides includes two client-side applications: the PC app (a Univers
     > [!NOTE]
     > You will often see the terms "environment," "instance," and "organization" used interchangeably to refer to a Dataverse environment. They all mean the same thing.
 
-- The **Dataverse solution** refers to the database tables that are installed in your Dataverse environment, where your Dynamics 365 Guides data is stored. When the Dynamics 365 Guides team updates the PC and HoloLens apps, it also updates the solution. It's important that you [make sure that the PC and HoloLens apps that you're using are compatible with the solution]().
+- The **Dataverse solution** refers to the database tables that are installed in your Dataverse environment, where your Dynamics 365 Guides data is stored. When the Dynamics 365 Guides team updates the PC and HoloLens apps, it also updates the solution. It's important that you [make sure that the PC and HoloLens apps that you're using are compatible with the solution](admin-apps-solution-compatibility.md).
 
 ## Test vs. production environments
 
