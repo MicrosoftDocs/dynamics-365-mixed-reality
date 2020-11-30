@@ -7,6 +7,7 @@ ms.service: crm-online
 ms.topic: article
 title: Try Dynamics 365 Import Tool (Preview) for free for up to 90 days.
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Try Dynamics 365 Import Tool (Preview) for free

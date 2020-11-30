@@ -1,15 +1,17 @@
 ---
 author: Mamaylya
-description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Common Data Service environment and install the Dynamics 365 Guides solution.
+description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 10/20/2020
+ms.date: 11/17/2020
 ms.service: crm-online
 ms.topic: article
-title: Create a Common Data Service environment and install the Dynamics 365 Guides solution as part of the setup process
+title: Create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution as part of the setup process
 ms.reviewer: v-brycho
 ---
 
 # Dynamics 365 Guides setup, step 2: Install the solution
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 > [!NOTE]
 > Before you complete this step of the setup process, be sure to see step 1, [Buy a subscription or sign up for a free trial](setup-step-one.md).
@@ -166,7 +168,7 @@ If you have trouble installing and configuring the solution as described in the 
     > ![Failed installation message](media/failed-install.PNG "Failed installation message")
 
 > [!IMPORTANT]
-> Dynamics 365 Guides data will be stored in the Common Data Service solution. Before anyone can create and use guides, however, you [must assign appropriate user roles](assign-role.md). 
+> Dynamics 365 Guides data will be stored in the Microsoft Dataverse solution. Before anyone can create and use guides, however, you [must assign appropriate user roles](assign-role.md). 
 
 ## What's next?
 

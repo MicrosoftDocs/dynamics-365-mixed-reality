@@ -11,10 +11,12 @@ ms.reviewer: v-brycho
 
 # What's new in Dynamics 365 Guides
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!IMPORTANT]
-> After the October 27 release, all new Dynamics 365 Guides PC and HoloLens application releases will only work with the October 1, 2020 Common Data Service solution, version 5.0 or later. 
+> After the October 27 release, all new Dynamics 365 Guides PC and HoloLens application releases will only work with the October 1, 2020 Microsoft Dataverse solution, version 5.0 or later. 
 >
 > You must have the System Administrator role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress can cause loss of data. 
 >
@@ -46,7 +48,7 @@ Version 500.2009.23001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/use-trigger-branch-specific-step" target="_blank">Use a trigger to branch to a specific step </a> | Yes |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/activate-trigger-when-operators-hand-enters-trigger-area" target="_blank">Activate a trigger when the operator's hand enters the trigger area </a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-paste-position-orientation-scale-3d-model" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | No |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-dynamics-365-guides-content-one-common-data-service-instance-another" target="_blank">Copy Dynamics 365 Guides content from one Common Data Service instance to another </a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-dynamics-365-guides-content-one-common-data-service-instance-another" target="_blank">Copy Dynamics 365 Guides content from one Microsoft Dataverse instance to another </a> | No |
 
 ## September 2, 2020
 
@@ -76,7 +78,7 @@ Version 403.2008.3001.0 of the PC and [!include[pn-hololens](../includes/pn-holo
 
 This release also includes the following fixes and updates:
 
-- Added <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/migrate" target="_blank">Content Migration Tool</a> to move content from one Common Data Service instance to another.
+- Added <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/migrate" target="_blank">Content Migration Tool</a> to move content from one Microsoft Dataverse instance to another.
 
 - Addressed an issue that affected some PCs when the PC app was used to upload files.
 
@@ -116,7 +118,7 @@ Version 400.2004.24002.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/access-dynamics-365-guides-content-through-common-data-service-entities" target="_blank">Access Dynamics 365 Guides content through Common Data Service entities</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/access-dynamics-365-guides-content-through-common-data-service-entities" target="_blank">Access Dynamics 365 Guides content through Microsoft Dataverse entities</a> | Yes |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/integrate-asset-management-module-dynamics-365-supply-chain-management" target="_blank">Integrate the Asset Management module of Dynamics 365 Supply Chain Management with Dynamics 365 Guides</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/rename-guides-pc-app" target="_blank">Rename guides in the PC app</a> | No |
 

@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Use the PC app in Microsoft Dynamics 365 Guides as the first step in creating a guide. 
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 11/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a guide by using the Dynamics 365 Guides PC app
@@ -10,6 +10,8 @@ ms.reviewer: v-brycho
 ---
 
 # Create a guide by using the Dynamics 365 Guides PC app
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 1. [Open the Microsoft Dynamics 365 Guides PC app](install-sign-in-pc-app.md).
 
@@ -25,7 +27,7 @@ ms.reviewer: v-brycho
     ![Naming the guide](media/name-guide.PNG "Naming the guide")
 
     > [!NOTE]
-    > When you create a guide by using the PC app, a JavaScript Object Notation (JSON) data file is automatically created in Common Data Service. This file is for internal use only. We don't recommend that you build functionality on top of this file, because it might change over time.
+    > When you create a guide by using the PC app, a JavaScript Object Notation (JSON) data file is automatically created in Microsoft Dataverse. This file is for internal use only. We don't recommend that you build functionality on top of this file, because it might change over time.
 
 After you create your guide, the **Outline** page appears. To learn more about how to work on the **Outline** page, see [Structure your guide in the Outline page](structure-guide.md).
 

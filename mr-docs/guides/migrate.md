@@ -1,19 +1,21 @@
 ---
 author: melissahellmund
-description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Common Data Service instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
+description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 11/01/2020
+ms.date: 11/17/2020
 ms.service: crm-online
 ms.topic: article
-title: Migrate Dynamics 365 Guides content from one Common Data Service instance to another using the Content Migration Tool (Public Preview)
+title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
 ms.reviewer: v-brycho
 ---
 
-# Migrate Dynamics 365 Guides content from one Common Data Service instance to another using the Content Migration Tool (Public Preview)
+# Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
 
-The Content Migration Tool (Public Preview) for Microsoft Dynamics 365 Guides is a [Windows PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) script that copies content from one instance of Common Data Service to another. You can migrate all the content in an instance or just specific types of content (for example, 3D objects, images, and videos). After the migration is completed, the content exists in both instances. The content in the source instance isn't changed in any way.
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-The tool connects to two Common Data Service instances at the same time. It reads the content in the source instance and writes it to the destination instance. The instances can be part of the same tenant, or they can be in different tenants.
+The Content Migration Tool (Public Preview) for Microsoft Dynamics 365 Guides is a [Windows PowerShell](https://docs.microsoft.com/windows-server/administration/windows-commands/powershell) script that copies content from one instance of Microsoft Dataverse to another. You can migrate all the content in an instance or just specific types of content (for example, 3D objects, images, and videos). After the migration is completed, the content exists in both instances. The content in the source instance isn't changed in any way.
+
+The tool connects to two Microsoft Dataverse instances at the same time. It reads the content in the source instance and writes it to the destination instance. The instances can be part of the same tenant, or they can be in different tenants.
 
 The tool supports migration between commercial and/or Microsoft Government Community Cloud (GCC) environments.
 
@@ -129,7 +131,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
     4. In the **Online Region** field, select the online region for your instance. If your environment is in a GCC region, select **North America 2**. If you don't know the region, select **Don't know**.
 
-    5. In the **User Name** and **Password** fields, enter the user name and password for the Common Data Service instance that you want to connect to.
+    5. In the **User Name** and **Password** fields, enter the user name and password for the Microsoft Dataverse instance that you want to connect to.
 
     6. Select **Login**. If you don't select an organization to connect to, the tool connects to the last organization that was successful for both the source instance and the destination instance. If there is only one instance in the tenant, Windows PowerShell automatically connects to the default instance. In this case, you can skip ahead to step 11.
 
@@ -151,7 +153,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
     4. In the **Online Region** field, select the online region for your instance. If your environment is in a GCC region, select **North America 2**. If you don't know the region, select **Don't know**.
 
-    5. In the **User Name** and **Password** fields, enter the user name and password for the Common Data Service instance that you want to connect to.
+    5. In the **User Name** and **Password** fields, enter the user name and password for the Microsoft Dataverse instance that you want to connect to.
 
     6. Select **Login**.
 
