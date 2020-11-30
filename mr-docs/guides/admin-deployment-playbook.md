@@ -91,7 +91,7 @@ that require a solution update are listed in [What's new](https://docs.microsoft
 
 ![Screen shot of What's new page showing when a solution update is required for a specific feature](media/solution-update-required.PNG "Screen shot of What's new page showing when a solution update is required for a specific feature")
  
-To [update the solution](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/upgrade), you must have a Dataverse **System Admin** security role and a valid Dynamics 365 Guides or Power Apps license assigned. 
+To [update the solution](https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade), you must have a Dataverse **System Admin** security role and a valid Dynamics 365 Guides or Power Apps license assigned. 
 
 ### PC and HoloLens app updates
 
