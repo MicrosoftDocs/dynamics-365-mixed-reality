@@ -1,3 +1,13 @@
+---
+author: Mamaylya
+description: Learn the basics about deploying Microsoft Dynamics 365 Guides, including architecture, environments, updates, security, and more.
+ms.author: mamaylya
+ms.date: 11/30/2020
+ms.service: crm-online
+ms.topic: article
+title: Basic concepts for deploying Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
 # Deployment Playbook for Dynamics 365 Guides
 
