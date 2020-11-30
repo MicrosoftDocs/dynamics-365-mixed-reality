@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Deployment Playbook for Dynamics 365 Guides
 
+This article covers basic concepts to know about when you're deploying Microsoft Dynamics 365 Guides.
+
 ## Architecture
 Dynamics 365 Guides is built on the Microsoft [Dataverse infrastructure](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro), 
 which provides end-to-end control over your deployment from server-side to client-side. A clear understanding of the Dynamics 365 Guides architecture will help you plan your deployment and manage updates. 
