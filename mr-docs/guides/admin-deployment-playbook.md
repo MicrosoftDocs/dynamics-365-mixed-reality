@@ -76,7 +76,7 @@ content in your solution.
 ### Compatibility between solution and apps
 
 Every release of Dynamics 365 Guides includes an update to the solution. The PC and HoloLens apps will always be backwards compatible with their ‘major’ version numbers. 
-For example, version 4.0 of the PC app will always work with version 4.0 of the solution. When in doubt, [check the app/solution compatibility table](admin-apps-solution-compatibility).
+For example, version 4.0 of the PC app will always work with version 4.0 of the solution. When in doubt, [check the app/solution compatibility table](admin-apps-solution-compatibility.md).
 
 ![Screen shot of Apps/solution compatibility table](media/app-solution-compatibility-table.PNG "Screen shot of Apps/solution compatibility table")
 
