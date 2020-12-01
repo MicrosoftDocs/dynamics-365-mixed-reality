@@ -2,7 +2,7 @@
 author: Mamaylya
 description: FAQ about Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 11/17/2020
+ms.date: 12/01/2020
 ms.service: crm-online
 ms.topic: article
 title: FAQ about Dynamics 365 Guides
