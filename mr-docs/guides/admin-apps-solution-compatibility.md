@@ -21,6 +21,7 @@ To find the app and solution versions that you're using, in the PC app, select t
 
 | PC and HoloLens app version | Release date | Compatible Dynamics 365 Guides solution versions |
 |-----------------------------|--------------|--------------------------------------------------|
+| XXX | December 8, 2020 |  XXX, 500.1.1.0, 500.0.1.1|
 | 501.2010.17001 | October 27, 2020 |  500.1.1.0, 500.0.1.1|
 | 500.2009.23001.0 | October 1, 2020 |  500.0.1.1, 400.0.4.31, 400.0.0.18, 400.0.1.48, 400.0.2.66, 400.0.3.36|
 | 404.2009.2003 (PC) and 404.2009.2004 (HoloLens) | September 2, 2020 | 400.0.4.31, 400.0.0.18, 400.0.1.48, 400.0.2.66, 400.0.3.36|
