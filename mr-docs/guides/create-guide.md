@@ -2,16 +2,18 @@
 author: Mamaylya
 description: Use the PC app in Microsoft Dynamics 365 Guides as the first step in creating a guide. 
 ms.author: mamaylya
-ms.date: 11/17/2020
+ms.date: 12/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a guide by using the Dynamics 365 Guides PC app
 ms.reviewer: v-brycho
 ---
 
-# Create a guide by using the Dynamics 365 Guides PC app
+# Create or find a guide in the Dynamics 365 Guides PC app
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
+## Create a guide
 
 1. [Open the Microsoft Dynamics 365 Guides PC app](install-sign-in-pc-app.md).
 
@@ -30,6 +32,18 @@ ms.reviewer: v-brycho
     > When you create a guide by using the PC app, a JavaScript Object Notation (JSON) data file is automatically created in Microsoft Dataverse. This file is for internal use only. We don't recommend that you build functionality on top of this file, because it might change over time.
 
 After you create your guide, the **Outline** page appears. To learn more about how to work on the **Outline** page, see [Structure your guide in the Outline page](structure-guide.md).
+
+## Find a guide
+
+1. [Open the Microsoft Dynamics 365 Guides PC app](install-sign-in-pc-app.md).
+
+2. In the **Home** screen, enter a name in the search box, and then select the **Search** button (magnifying glass).
+
+    SCREEN SHOT GOES HERE
+    
+    > [!TIP]
+    
+    You can also select the **Recent** or **All** tab to look for a guide. After selecting one of these tabs you can sort the resulting list by selecting the **Name** or **Date Modified** column headers (**Recent** tab) or the **Name** and **Date Accessed** column headers (**All** list).
 
 ## How changes are synced between the PC app and the HoloLens app
 
