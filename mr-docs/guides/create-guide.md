@@ -15,7 +15,7 @@ ms.reviewer: v-brycho
 
 ## Create a guide
 
-1. [Open the Microsoft Dynamics 365 Guides PC app](install-sign-in-pc-app.md).
+1. [Open the PC app](install-sign-in-pc-app.md).
 
 2. Select **Create new guide**.
 
@@ -35,15 +35,15 @@ After you create your guide, the **Outline** page appears. To learn more about h
 
 ## Find a guide
 
-1. [Open the Microsoft Dynamics 365 Guides PC app](install-sign-in-pc-app.md).
+1. [Open the PC app](install-sign-in-pc-app.md).
 
-2. In the **Home** screen, enter a name in the search box, and then select the **Search** button (magnifying glass).
+2. Open the **Home** page, enter a name in the search box, and then select the **Search** button (magnifying glass).
 
-    SCREEN SHOT GOES HERE
+    ![Search box on Home page](media/find-guide.PNG "Search box on Home page")
     
     > [!TIP]
     
-    You can also select the **Recent** or **All** tab to look for a guide. After selecting one of these tabs you can sort the resulting list by selecting the **Name** or **Date Modified** column headers (**Recent** tab) or the **Name** and **Date Accessed** column headers (**All** list).
+    You can also select the **Recent** or **All** tab to look for a guide. After selecting one of these tabs you can sort the resulting list by selecting the **Name** or **Date Modified** column headers (**All** tab) or the **Name** and **Date Accessed** column headers (**Recent** tab).
 
 ## How changes are synced between the PC app and the HoloLens app
 
