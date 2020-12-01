@@ -25,6 +25,7 @@
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
 ### [Add a HoloLens tab with a specific list of guides](custom-view.md)
 ### [Opt out of storing Guides usage data](data-opt-out.md)
+### [Deployment Playbook](admin-deployment-playbook.md)
 ## I'm an author
 ### [Authoring overview](authoring-overview.md)
 ### Author in the PC app
