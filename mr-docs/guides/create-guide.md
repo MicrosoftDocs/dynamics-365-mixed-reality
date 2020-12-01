@@ -42,7 +42,7 @@ After you create your guide, the **Outline** page appears. To learn more about h
     ![Search box on Home page](media/find-guide.PNG "Search box on Home page")
     
     > [!TIP]    
-    > You can also select the **Recent** or **All** tab to look for a guide. After selecting one of these tabs you can sort the resulting list by selecting the **Name** or **Date Modified** column headers (**All** tab) or the **Name** and **Date Accessed** column headers (**Recent** tab).
+    > You can also select the **Recent** or **All** tabs to look for a guide. After selecting one of these tabs you can sort the resulting list by selecting the **Name** or **Date Modified** column headers (**All** tab) or the **Name** and **Date Accessed** column headers (**Recent** tab).
 
 ## How changes are synced between the PC app and the HoloLens app
 
