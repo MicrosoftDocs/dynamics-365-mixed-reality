@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 11/17/2020
+ms.date: 12/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -33,6 +33,13 @@ The type of environment that you create depends on whether you purchased a [!inc
     > The Dynamics 365 Guides solution can also be installed on a trial environment. **We don't recommend that you use a trial environment, because that environment, together with all your content, is automatically disabled after the 30-day trial period expires.** You have a seven-day grace period to upgrade to a production environment or migrate your content to another environment.
 
 ## Set up a production environment (for purchased licenses only)
+
+> [!IMPORTANT]
+> To install or update the solution, you must have the [System Administrator](https://docs.microsoft.com/power-platform/admin/database-security) role, **and** you must have a [Power Apps license](https://docs.microsoft.com/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
+>
+> ![Dynamics 365 Guides license selected](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
+>
+> When you have a Power Apps license, the **Access Mode** security property is set to **Read-Write**. This setting is required to update the solution. 
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Environments** if it isn't already selected, and then select **New**.
 
@@ -71,6 +78,13 @@ The type of environment that you create depends on whether you purchased a [!inc
 > If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment shown in the illustrations.
 
 ## Set up a default environment (for trial subscriptions only)
+
+> [!IMPORTANT]
+> To install or update the solution, you must have the [System Administrator](https://docs.microsoft.com/power-platform/admin/database-security) role, **and** you must have a [Power Apps license](https://docs.microsoft.com/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
+>
+> ![Dynamics 365 Guides license selected](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
+>
+> When you have a Power Apps license, the **Access Mode** security property is set to **Read-Write**. This setting is required to update the solution. 
 
 1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the admin user credentials.
 
