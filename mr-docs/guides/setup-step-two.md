@@ -35,7 +35,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 ## Set up a production environment (for purchased licenses only)
 
 > [!IMPORTANT]
-> To update the solution, you must have the [System Administrator](https://docs.microsoft.com/power-platform/admin/database-security) role, **and** you must have a [Power Apps license](https://docs.microsoft.com/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
+> To install or update the solution, you must have the [System Administrator](https://docs.microsoft.com/power-platform/admin/database-security) role, **and** you must have a [Power Apps license](https://docs.microsoft.com/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
 >
 > ![Dynamics 365 Guides license selected](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
 >
@@ -80,7 +80,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 ## Set up a default environment (for trial subscriptions only)
 
 > [!IMPORTANT]
-> To update the solution, you must have the [System Administrator](https://docs.microsoft.com/power-platform/admin/database-security) role, **and** you must have a [Power Apps license](https://docs.microsoft.com/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
+> To install or update the solution, you must have the [System Administrator](https://docs.microsoft.com/power-platform/admin/database-security) role, **and** you must have a [Power Apps license](https://docs.microsoft.com/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
 >
 > ![Dynamics 365 Guides license selected](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
 >
