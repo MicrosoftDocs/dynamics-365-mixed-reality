@@ -34,7 +34,7 @@ In this article, we’ll walk through the three ways you can get a Dynamics 365 
 
 With the license-free 90-day free trial, each user must download Dynamics 365 Remote Assist in the appropriate app store to start the trial. 
 
-This license-free 90 day free trial only grants access to the client application.  Additional Remote Assist functionality through the D365 Remote Assist Solution (Asset Capture, One Time Calling, Calls Dashboard, etc.) are not included and require additional licensing.
+This license-free 90-day free trial only grants access to the client application. Additional Dynamics 365 Remote Assist functionality through the Dynamics 365 Remote Assist solution (asset capture, one-time calling, calls dashboard, etc.) is not included and requires additional licensing.
 
 ### Steps for HoloLens and HoloLens 2
 1.	Go to the **Start** menu and then select **Microsoft Store**. 
