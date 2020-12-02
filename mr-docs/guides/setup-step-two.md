@@ -79,6 +79,13 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 ## Set up a default environment (for trial subscriptions only)
 
+> [!IMPORTANT]
+> To update the solution, you must have the [System Administrator](https://docs.microsoft.com/power-platform/admin/database-security) role, **and** you must have a [Power Apps license](https://docs.microsoft.com/power-platform/admin/signup-question-and-answer) (or a license like a [Dynamics 365 Guides license](setup-step-one.md) that includes a Power Apps license). 
+>
+> ![Dynamics 365 Guides license selected](media/dynamics-365-guides-license.PNG "Dynamics 365 Guides license selected")
+>
+> When you have a Power Apps license, the **Access Mode** security property is set to **Read-Write**. This setting is required to update the solution. 
+
 1. Open the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the admin user credentials.
 
 2. In the left pane, select **Environments**.
