@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about gestures that you can use to navigate a guide as an operator in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 12/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Gestures you can use to navigate a guide as an operator in Dynamics 365 Guides
