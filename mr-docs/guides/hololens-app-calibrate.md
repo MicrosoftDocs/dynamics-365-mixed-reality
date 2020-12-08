@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to calibrate your HoloLens 1 device for authoring in the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 11/03/2020
+ms.date: 12/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Calibrate your HoloLens 1 device for authoring in the Dynamics 365 Guides HoloLens app
