@@ -1,16 +1,20 @@
 ---
-title: Join a Dynamics 365 Remote Assist meeting on HoloLens
+title: Join a Dynamics 365 Remote Assist meeting or live event on HoloLens
 author: sophiasysun
-description: How to join a Teams meeting in Dynamics 365 Remote Assist on HoloLens
+description: Learn how to join a Microsoft Teams meeting or live event in Dynamics 365 Remote Assist on HoloLens
 ms.author: sopsun
-ms.date: 09/10/2020
+ms.date: 12/11/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Join a meeting on HoloLens
+# Join a meeting or live event on HoloLens
 
-A Microsoft Teams meeting is a meeting scheduled using Teams involving any number of participants. Meetings are useful for maintenance and repairs that are scheduled in advance. It's also useful for inspections and other recurring scenarios.
+A [Microsoft Teams meeting](https://docs.microsoft.com/microsoftteams/quick-start-meetings-live-events) is a meeting scheduled using Teams involving any number of participants. Meetings are useful for maintenance and repairs that are scheduled in advance. They are also useful for inspections and other recurring scenarios.
+
+[Microsoft Teams live events](https://docs.microsoft.com/microsoftteams/teams-live-events/what-are-teams-live-events) are an extension of Teams meetings, enabling users to broadcast video and meeting content to a large online audience. These are meant for one-to-many communications where the host of the event is leading the interactions and audience participation is primarily to view the content shared by host.
+
+A Dynamics 365 Remote Assist HoloLens user can join a live event as a presenter or attendee in the same way they join a meeting.
 
 > [!Note]
 > If a remote collaborator joins a meeting, you will not receive a call or notification, regardless of whether you are in the app. You must select **Join Meeting** (or say "Remote Assist, Join meeting") to join the meeting. In addition, calling the participants involved in a scheduled meeting will not enable you to join the meeting; you must actually join the meeting.
