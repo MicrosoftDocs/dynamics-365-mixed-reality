@@ -31,7 +31,7 @@
 ### Author in the PC app
 #### [Overview](pc-app-overview.md)
 #### [Install the app and sign in](install-sign-in-pc-app.md)
-#### [Create a guide](create-guide.md)
+#### [Create or find a guide](create-guide.md)
 #### [Rename a guide](pc-app-rename-guide.md)
 #### Anchor your guide to the real world
 ##### [Overview of anchoring a guide with the PC app](pc-app-anchor.md)

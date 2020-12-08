@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: mamaylya
-ms.date: 10/27/2020
+ms.date: 12/08/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -30,6 +30,17 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
 > - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
 
+## December 8, 2020
+
+Version 502.2011.28001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.1.1.0, 500.0.1.1 include the following new feature.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Improved experience finding guides in the PC app</a> | No |
+
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
 ## October 27, 2020
 
 Version 501.2010.17001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.1.1.0 include the following new feature.
@@ -37,11 +48,6 @@ Version 501.2010.17001 of the PC and [!include[pn-hololens](../includes/pn-holol
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/support-government-community-cloud" target="_blank">Dynamics 365 Guides Government Community Cloud</a> | No |
-
-> [!NOTE]
-> The Government Community Cloud (GCC) licenses will be available on Nov 1. GCC documentation will be available on that same date.
->
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## October 1, 2020
 
