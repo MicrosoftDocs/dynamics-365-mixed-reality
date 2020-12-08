@@ -66,6 +66,10 @@ If you are joining the call using Teams desktop, you will receive a notification
 If you are joining the call using Remote Assist mobile app, you will receive a notification that looks like the following image when your customer is waiting in the lobby. Select **Admit**. 
 
 ![Admit into lobby](./media/OTC-C1-lobby.png "Admit")
+
+## Adding additional participants
+
+After you have joined the call from either the Microsoft Teams desktop client or the Remote Assist mobile client, additional participants can be added to the call.  This is done in the same manner as making a group call, which is [detailed here](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/making-taking-calls-hololens#make-a-group-call).
  
 ## Your customer’s experience 
 
