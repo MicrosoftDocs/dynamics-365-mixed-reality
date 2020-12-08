@@ -23,16 +23,6 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!IMPORTANT]
 > **Important information about HoloLens 1:** In Dynamics 365 Guides version 502.2011.28001 (December 8, 2020 release) and later, HoloLens operating system version 10.0.17134 (Redstone 4) is no longer supported. This version of the operating system is used only on HoloLens 1. HoloLens 1 customers must upgrade to HoloLens version 10.0.17763 or later to continue to receive the latest updates. Work with your IT admin to update your HoloLens operating system. If you choose not to upgrade, you can continue to use the current version of Dynamics 365 Guides that is already installed on the device. However, HoloLens version 10.0.17763 or later is required to install Dynamics 365 Guides on any new or refactored HoloLens 1 device.
 
-> [!IMPORTANT]
-> After the October 27 release, all new Dynamics 365 Guides PC and HoloLens application releases will only work with the October 1, 2020 Microsoft Dataverse solution, version 5.0 or later. 
->
-> You must have the System Administrator role to upgrade the solution, and all Dynamics 365 Guides applications must be closed during this update. Authoring a guide while the solution upgrade is in progress can cause loss of data. 
->
-> You can work with your IT admin to schedule installation of this update. 
->
-> - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Learn how to update the solution</a>
-> - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility" target="_blank">Check on solution/apps compatibility</a>
-
 ## December 8, 2020
 
 Version 502.2011.28001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.1.1.0, 500.0.1.1 include the following new feature.
