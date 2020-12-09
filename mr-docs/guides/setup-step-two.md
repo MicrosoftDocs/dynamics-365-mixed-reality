@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 12/01/2020
+ms.date: 12/09/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -47,7 +47,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     The **New environment** dialog box appears on the right side of the page.
 
-3. In the **New environment** dialog box, follow these steps:
+2. In the **New environment** dialog box, follow these steps:
 
     1. Enter a name for the environment.
 
@@ -61,7 +61,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     5. Select **Next**.
 
-3. In the **Add database** pane that appears on the right side of the screen, select your language and currency, keep the default settings for the other fields, and then select **Save**.
+3. In the **Add database** dialog box that appears on the right side of the page, select your language and currency, and set the **Enable Dynamics 365 apps** option to **Yes**. Keep the default values for the other fields. Then select **Save**.
 
     ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
 
