@@ -33,7 +33,7 @@ Any licensed Remote Assist user can use the Remote Assist web app via their desk
 * If an agent wants to manually admit a customer into the call, the agent’s organization must [configure their Teams meetings settings](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) such that **Everyone in your organization and federated organizations bypasses the lobby**, or enable **Everyone in your organization bypasses the lobby**.
 
 > [!Note]
-> One Time Call is available in all CDS regions except for GCC and GCCHigh.
+> One-time calling is available in all Microsoft Dataverse regions except for GCC and GCC High.
 
 ## Agent experience 
 
