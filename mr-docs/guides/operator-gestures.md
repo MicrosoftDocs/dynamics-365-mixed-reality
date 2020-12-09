@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about gestures that you can use to navigate a guide as an operator in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 12/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Gestures you can use to navigate a guide as an operator in Dynamics 365 Guides
@@ -12,6 +12,9 @@ ms.reviewer: v-brycho
 # HoloLens 1 gestures for operating (navigating) a guide in Dynamics 365 Guides
 
 To move through a guide as an operator in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you use your gaze and a few gestures.
+
+> [!IMPORTANT]
+> In Dynamics 365 Guides version 502.2011.28001 (December 8, 2020 release) and later, HoloLens operating system version 10.0.17134 (Redstone 4) is no longer supported. This version of the operating system is used only on HoloLens 1. HoloLens 1 customers must upgrade to HoloLens version 10.0.17763 or later to continue to receive the latest updates. Work with your IT admin to update your HoloLens operating system. If you choose not to upgrade, you can continue to use the current version of Dynamics 365 Guides that is already installed on the device. However, HoloLens version 10.0.17763 or later is required to install Dynamics 365 Guides on any new or refactored HoloLens 1 device. 
 
 ## Gaze
 
