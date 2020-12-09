@@ -30,11 +30,8 @@ After you join a meeting, you or the Teams user can add more people to the meeti
 ## Tip for setting up a meeting 
 
 > [!NOTE]
-> Dynamics 365 Remote Assist currently **does not enable lobby support** to allow Teams desktop users into meetings from the lobby. 
+> Dynamics 365 Remote Assist currently enables lobby support to allow Teams desktop users into meetings from the lobby. 
 > To ensure that Teams desktop users can successfully join a meeting, follow these steps:
-> - Select **New Meeting** on Teams calendar. 
-> - Invite at least one participant. Select **Send.** This will close the meeting. 
-> - Open the meeting, and select **Meeting Options** in the description box to set lobby permissions.
-> - A dialog box will appear stating **These people don't have to wait in the lobby** or **Who can bypass the lobby?**; select **Everyone**. 
-> - Select **OK** or **Save**.
-> Steps for setting up a Teams meeting via Outlook are similar, except after selecting **New meeting**, select **Teams meeting**. Then, you will see **Meeting Options**; select it to modify lobby settings.
+> - A dialog box will appear stating **Someone in the meeting should let you in soon.**
+> - Select **Admit**.
+> - The Teams desktop user will be successfully admitted into the meeting. 
