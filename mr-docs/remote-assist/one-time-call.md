@@ -32,6 +32,9 @@ Any licensed Remote Assist user can use the Remote Assist web app via their desk
 * The agent’s organization must [enable anonymous users to join Teams meeting](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
 * If an agent wants to manually admit a customer into the call, the agent’s organization must [configure their Teams meetings settings](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) such that **Everyone in your organization and federated organizations bypasses the lobby**, or enable **Everyone in your organization bypasses the lobby**.
 
+> [!Note]
+> One Time Call is available in all CDS regions except for GCC and GCCHigh.
+
 ## Agent experience 
 
 |     Before selecting Generate a link on the desktop web app     |     After selecting Generate a link and Copy on the desktop   web app    |  
