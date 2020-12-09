@@ -61,7 +61,7 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     5. Select **Next**.
 
-3. In the **Add database** pane that appears on the right side of the screen, select your language and currency, keep the default settings for the other fields, and then select **Save**.
+3. In the **Add database** pane that appears on the right side of the screen, select your language and currency, move the slider for the **Enable Dynamics 365 apps** to the On position, and then select **Save**.
 
     ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
 
