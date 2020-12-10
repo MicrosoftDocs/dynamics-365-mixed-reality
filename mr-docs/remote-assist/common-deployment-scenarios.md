@@ -37,5 +37,8 @@ There are several scenarios in which a Remote Assist user wants to enable an ext
 
 Scenario 4 differs from scenario 3 in several ways. In scenario 4, calls are not ad hoc: the OEM or inspector knows which external user they will be collaborating with ahead of the call. Thus, the OEM or inspector can, for example, schedule a call with the external user, send the external user a HoloLens to use, and provide Remote Assist credentials ahead of the call so the external user does not have to deploy a Remote Assist license themselves. Furthermore, because the external user is using a Remote Assist license, they can also initiate calls to recipients permitted by the OEM inspector, instead of waiting to receive a one-time call link from the OEM or inspector. In contrast, external users in scenario 3 do not want to wait for their customer service agent or the technician they’re assisting to provision a Remote Assist license that enables them to make multiple calls; the external user simply wants an easy way to join a call in-situ. Learn more about how to [deploy a Remote Assist license for external users](vendor-use-RA.md). 
 
+## See also
+
+- [Deployment Guide – Cloud connected HoloLens 2 with Remote Assist](https://docs.microsoft.com/hololens/hololens2-cloud-connected-overview)
 
 
