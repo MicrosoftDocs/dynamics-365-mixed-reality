@@ -31,6 +31,9 @@ To have access to the calls dashboard, you must have:
 
 1. Access to the environment Dynamics 365 Remote Assist is installed in, with the **Remote Assist - Administrator** security role assigned to you.
 
+> [!Note] 
+> Calls dashboard is available in all Microsoft Dataverse regions except for GCC, GCC High, FRA, UAE, GER, and ZAF.
+
 ## Enabling the calls dashboard
 
 1. From the Remote Assist model-driven app, change the area by clicking on the menu in the bottom left of the screen and select **Settings**.\

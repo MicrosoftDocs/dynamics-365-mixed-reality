@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to calibrate your HoloLens 1 device for authoring in the Microsoft Dynamics 365 Guides HoloLens app.
 ms.author: mamaylya
-ms.date: 11/03/2020
+ms.date: 12/08/2020
 ms.service: crm-online
 ms.topic: article
 title: Calibrate your HoloLens 1 device for authoring in the Dynamics 365 Guides HoloLens app
@@ -48,6 +48,9 @@ If you don't configure the IPD for each user:
 8. Follow the on-screen instructions.
 
 ## Calibrate your HoloLens 1 device
+
+> [!IMPORTANT]
+> In Dynamics 365 Guides version 502.2011.28001 (December 8, 2020 release) and later, HoloLens operating system version 10.0.17134 (Redstone 4) is no longer supported. This version of the operating system is used only on HoloLens 1. HoloLens 1 customers must upgrade to HoloLens version 10.0.17763 or later to continue to receive the latest updates. Work with your IT admin to update your HoloLens operating system. If you choose not to upgrade, you can continue to use the current version of Dynamics 365 Guides that is already installed on the device. However, HoloLens version 10.0.17763 or later is required to install Dynamics 365 Guides on any new or refactored HoloLens 1 device. 
 
 1. Use the bloom gesture to open the **Start** menu.
 
