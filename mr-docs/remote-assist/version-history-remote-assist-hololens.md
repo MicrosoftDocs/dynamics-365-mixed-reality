@@ -18,6 +18,24 @@ search.app:
 
 # Dynamics 365 Remote Assist HoloLens version history
 
+## HoloLens 1 & 2 – 301.2012.9002
+
+Date: December 2020
+
+### Bug fixes
+
+- Improvements around selecting Dynamics 365 environment.
+- Fixed "Post to Work Order" not working under certain conditions, and sometimes showing the dialog unnecessarily.
+- Added voice commands to additional elements on the UI to ensure easy access.
+- Addressed visual glitches around window positioning, text flickering and unexpected button highlight.
+- Improved reliability of messaging when call recording starts/stops.
+- Fixed issue preventing consecutive attempts to call the contact listed in Field Service booking.
+- Fixed issue affecting the ability to change the status of a booking.
+- Improvements for inking, to ensure that the lines are drawn continuously under all conditions.
+- Various visual fixes to unify the look between different windows.
+- Fixed issue preventing the access to files shared from Teams in some cases.
+- Improved support of file sharing and text chat in Teams channel meetings.
+
 ## HoloLens 1 & 2 – 300.2010.1002
 
 Date: October 2020
