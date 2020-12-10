@@ -54,7 +54,7 @@ A Dynamics 365 Remote Assist license includes the following three products neede
 
 * Dynamics 365 Remote Assist 
 * Microsoft Teams
-* Common Data Service (CDS) 
+* Microsoft Dataverse
 
 | **Included with Dynamics 365 Remote Assist license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -70,7 +70,7 @@ A Dynamics 365 Remote Assist license includes the following three products neede
 | [OneDrive for Business](https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive                                                                           |
 | Dynamics 365 Field Service                                                                                                     | - Call an expert listed in your field service work order </br> - Save call artifacts (for example, call recording, files shared) to a Field Service work order |
 | Power BI                                                                                                                       | - View a Power BI dashboard embedded in a Field Service work order                                                                                   |
-| **Microsoft Stream**                 | - [Record Remote Assist calls](https://docs.microsoft.com/en-us/dynamics365/mixed-reality/remote-assist/record-calls-hololens) either from within the Remote Assist app, or from the Teams client |
+| Microsoft Stream                 | - [Record Remote Assist calls](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens) either from within the Remote Assist app, or from the Teams client |
 
 
 ### Microsoft Teams app user
