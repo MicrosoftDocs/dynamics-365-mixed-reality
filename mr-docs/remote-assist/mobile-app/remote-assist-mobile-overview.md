@@ -5,7 +5,7 @@ description: Overview of Dynamics 365 Remote Assist mobile
 ms.author: xolee
 ms.date: 10/01/2020
 ms.service: crm-online
-ms.topic: article
+ms.topic: overview
 ms.reviewer: krbjoran
 ---
 
@@ -34,6 +34,14 @@ Dynamics 365 Remote Assist is available on [Android phones and tablets with ARCo
 - Availability on mobile devices without augmented reality (AR) support.
 
 ![Simulated image of a technician using Dynamics 365 Remote Assist mobile to annotate their environment on a call.](./media/ram-overview.png "Dynamics 365 Remote Assist mobile Overview")
+
+## Microsoft Intune support
+
+Dynamics 365 Remote Assist mobile for iOS and Android supports Microsoft Intune's app protection policies. These policies ensure that data remains safe and contained on the device through Intune policies.  
+
+![Graphic showing Intune controls](./media/RAM_IntuneControls.png)
+
+For more information on Microsoft Intune's app protection policies, see [this article](https://docs.microsoft.com/mem/intune/apps/app-protection-policy).
 
 ## Videos
 
