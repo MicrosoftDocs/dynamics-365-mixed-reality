@@ -3,23 +3,39 @@ title: "Dynamics 365 Remote Assist mobile version history | MicrosoftDocs"
 description: Version history for Dynamics 365 Remote Assist mobile
 ms.custom: 
   - dyn365-mixed-reality-remote-assist
-ms.date: 09/01/2020
+ms.date: 12/10/2020
 ms.reviewer: krbjoran
+ms.topic: article
+ms.service: crm-online
 applies_to: 
   - "Dynamics 365 (online)"
   - "Dynamics 365 Version 9.x"
 author: FieldServiceDave
 ms.author: daclar
 manager: shellyha
-search.audienceType: 
-  - admin
-  - customizer
 search.app: 
   - MRRA
   - MRRA
 ---
 
 # Dynamics 365 Remote Assist mobile version history
+
+## iOS - 2020.12.09 + Android - 2020.12.00
+
+Date: December, 2020
+
+### Bug fixes
+
+- Fix for the video not being available in one to one and group calls.
+- Fix for “Tracking lost” message. Now it will show only when needed.
+- Fix for a call connection coming from Remote Assist on nonAR devices to Remote Assist on AR device.
+- Support for annotations made with S pen on Android tablets.
+- Fix for guest user search in the contact list.
+- Fix for the UI not being responsive with green rectangle only on app launch.
+- Fix for picture in picture mode not being available when recording started.
+- Fix for “D365 something wrong” generic error that sometimes showed up at the end of the call.
+- UI improvements for post to work order scenario, one time call and contacts list.
+- Fix for a guest user name displayed in a one time call.
 
 ## iOS - 2020.10.1 + Android - 2020.10.03
 
