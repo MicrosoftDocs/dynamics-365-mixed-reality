@@ -47,7 +47,7 @@ Date: October 1, 2020
 - Improved the view space switching logic for when only one participant is sharing their space in a group call.
 - Fix for annotations not being removed after participants leave a group call.
 - Fix for call participants in a group call unable to post call content to a Dynamics 365 Field Service work order.
-- Fix for getting stuck on loading screen after sign in.
+- Fix for getting stuck on loading screen after sign-in.
 - Fix for disappearing annotations after saving a snapshot in the call.
 - Incoming call notification sound is not present when the device is on silent mode.
 - Improved support for Bluetooth headset on iPads and tablets.
@@ -62,7 +62,7 @@ Date: September 1, 2020
 - Improvements for showing the tracking lost detection and messaging less frequently.
 - Adjustments for annotations size being too large on certain device screens.
 - Improvements for placing annotations at the correct angle as a remote collaborator in a call between two Dynamics 365 Remote Assist mobile users.
-- Fix for application freeze after sign in.
+- Fix for application freeze after sign-in.
 - Improvements to snapshot UI for when it’s uploading during a call.
 - Improvements on ringtone audio for adhering to silent and vibrate modes on Android devices.
 - Adjustments for landscape screen orientation when in a call between two Dynamics 365 Remote Assist mobile users.
@@ -149,7 +149,7 @@ Date: February 27, 2020
 ### Bug fixes
 
 - In low-bandwidth environments with a satellite network of 1000/256 kbps for bandwidth, 600/600ms for latency, and 10% of packet loss, users will not receive an 'Update Check Failed' pop-up and can continue to share their environment.  
-- Users trying the 90-day license-free Dynamics 365 Remote Assist Mobile trial who do not have a Microsoft Teams license (free or paid) will be prompted to sign up for one. After they sign up, the app will recognize their Microsoft Teams account and they can sign in.  
+- Users trying the 90-day license-free Dynamics 365 Remote Assist Mobile trial who don't have a Microsoft Teams license (free or paid) will be prompted to sign up for one. After they sign up, the app will recognize their Microsoft Teams account and they can sign in.  
 - With Dynamics 365 Remote Assist mobile app downloaded on your device, users can launch the app from Safari web browser via “ramobile:/” deep linking.  
 - Users can view their snapshots with annotations on it in both landscape and portrait orientations. These snapshots will save to users’ mobile device’s Photo Gallery.  
 - In the text chat, the keyboard remains open after sending a message. 
