@@ -119,9 +119,9 @@ The Dynamics 365 Remote Assist mobile application supports two methods for proto
 
 -   “ramobile” is for video-enabled calling.
 
-The argument schema accepts a contactSearch field
-    Array<string> contactSearch
-		- A list of search strings to use for finding a contact. E.g. "supportContact@microsoft.com". Will open contact card of the first found contact.
+The argument schema accepts an optional contactSearch field, which is a JSON-formatted array of strings to use for finding a contact.
+
+    { "contactSearch":[ "supportContact@microsoft.com"] }
 
 ### Example
 For this example, we will perform a contact search. We need to include the "contactSearch" parameter, which is an array of search strings.
@@ -137,7 +137,7 @@ For this example, we will perform a contact search. We need to include the "cont
 2. Encode this in base-64.
     ewogICJjb250YWN0U2VhcmNoIjpbCiAgICAiSmlsbCBTbWl0aCIsCiAgICAiamlsbHNtaXRoQG1pY3Jvc29mdC5leGFtcGxlIgogIF0KfQo=
 
-3. Append the base-64 encoded string to "ramobile:"
-    window.location = "ramobile:ewogICJjb250YWN0U2VhcmNoIjpbCiAgICAiSmlsbCBTbWl0aCIsCiAgICAiamlsbHNtaXRoQG1pY3Jvc29mdC5leGFtcGxlIgogIF0KfQo=";
+3. Append the base-64 encoded string to "ramobile:" to form the new URI.
+   "ramobile:ewogICJjb250YWN0U2VhcmNoIjpbCiAgICAiSmlsbCBTbWl0aCIsCiAgICAiamlsbHNtaXRoQG1pY3Jvc29mdC5leGFtcGxlIgogIF0KfQo=";
     
 When this link is selected, Remote Assist mobile will launch and search for the provided contact details and provide results to the user.
