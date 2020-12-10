@@ -28,9 +28,9 @@ The Dynamics 365 Remote Assist HoloLens application supports two methods for pro
 Both methods use the same argument schema, which accepts a “contactID” field.
 The URI would look something like this:
 
-`
+```
 ms-voip-video:?contactids=\<contactID\>
-`
+```
 
 The contact ID is the user’s [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) object ID.
 
@@ -64,11 +64,11 @@ To place an audio-only call instead of video, use URI: “ms-voip-call:?contacti
 
 ### Return to your app at the end of a call
 
-An additional "returnto" field can be included to have Dynamics 365 Remote Assist return to your application when a call ends. This enables users to both start and end their experience in your app without having to manually switch between them.
+An additional ```returnto``` field can be included to have Dynamics 365 Remote Assist return to your application when a call ends. This enables users to both start and end their experience in your app without having to manually switch between them.
 
-To support the "returnto" field, you need to register your app with a custom URI (see [Register an app with a custom URI](<https://docs.microsoft.com/windows/uwp/launch-resume/handle-uri-activation#step-1-specify-the-extension-point-in-the-package-manifest>)).
+To support the ```returnto``` field, you need to register your app with a custom URI (see [Register an app with a custom URI](<https://docs.microsoft.com/windows/uwp/launch-resume/handle-uri-activation#step-1-specify-the-extension-point-in-the-package-manifest>)).
 
-Then include the optional "returnto" field along with the registered app name you completed in the previous step. In the example below, "helicoptor-maintenance-app" is the registered URI:
+Then include the optional ```returnto``` field along with the registered app name you completed in the previous step. In the example below, "helicoptor-maintenance-app" is the registered URI:
 
 `
 ms-voip-call:?contactids=<CONTACT_ID>&returnto=helicoptor-maintenance-app");
@@ -119,13 +119,13 @@ The Dynamics 365 Remote Assist mobile application supports two methods for proto
 
 -   “ramobile” is for video-enabled calling.
 
-The argument schema accepts an optional contactSearch field, which is a JSON-formatted array of strings to use for finding a contact.
+The argument schema accepts an optional ```contactSearch``` field, which is a JSON-formatted array of strings to use for finding a contact.
 
     { "contactSearch":[ "supportContact@microsoft.com"] }
 
 ### Example
 
-For this example, we will perform a contact search. We need to include the "contactSearch" parameter, which is an array of search strings.
+For this example, we will perform a contact search. We need to include the ```contactSearch``` parameter, which is an array of search strings.
 
 1. First we form a JSON string:
 ```
