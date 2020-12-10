@@ -11,13 +11,15 @@ ms.reviewer: v-brycho
 
 # Launch Dynamics 365 Remote Assist from another app (protocol activation)
 
-You can embed code in your [!include[pn-hololens](../includes/pn-hololens.md)] application to switch to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and begin a call using a Uniform Resource Identifier (URI).
+You can embed code in your HoloLens, iOS or Android application to switch to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and begin a call using a Uniform Resource Identifier (URI).
 
 For example, let’s say you’re creating a helicopter maintenance app. You can add
 a button that a maintenance engineer can use to call an expert if they get
 stuck. The button will launch [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] and call the designated expert.
 
-[!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] supports two methods for protocol activation: 
+## HoloLens Protocol Activation
+
+Dynamics 365 Remote Assist HoloLens application supports two methods for protocol activation: 
 
 -   “ms-voip-video” is for video-enabled calling.
 
@@ -32,7 +34,7 @@ ms-voip-video:?contactids=\<contactID\>
 
 The contact ID is the user’s [!include[pn-azure-active-directory](../includes/pn-azure-active-directory.md)] ([!include[pn-azure](../includes/pn-azure.md)] AD) object ID.
 
-## Code example
+### Code example
 
 You’ll need to embed the code in your [!include[pn-hololens](../includes/pn-hololens.md)] app. The following code example is
 written in C++, but can be easily adapted to another language.
@@ -60,7 +62,7 @@ launchUriOperation.then([this](bool success)   
 
 To place an audio-only call instead of video, use URI: “ms-voip-call:?contactids=”
 
-## Return to your app at the end of a call
+### Return to your app at the end of a call
 
 An additional "returnto" field can be included to have Dynamics 365 Remote Assist return to your application when a call ends. This enables users to both start and end their experience in your app without having to manually switch between them.
 
@@ -72,7 +74,7 @@ Then include the optional "returnto" field along with the registered app name yo
 ms-voip-call:?contactids=<CONTACT_ID>&returnto=helicoptor-maintenance-app");
 `
 
-### Example of launching Dynamics 365 Remote Assist from your app with optional returnto field
+#### Example of launching Dynamics 365 Remote Assist from your app with optional returnto field
 
 The following code example is written in C++, but can be easily adapted to another language.
 
@@ -97,7 +99,7 @@ launchUriOperation.then([this](bool success)   
 });  
 ```
 
-## Place a call to test your code
+### Place a call to test your code
 
 1.  Run your app on the [!include[pn-hololens](../includes/pn-hololens.md)].
 
@@ -108,7 +110,34 @@ launchUriOperation.then([this](bool success)   
 
 4.  After the contacts panel is loaded, [!include[pn-remote-assist](../includes/pn-remote-assist.md)] will place a call to the
     specified contact.
-
-### See also
-
+    
 For more details on launching an app with a URI, see [Launch an app with a URI](<https://docs.microsoft.com/windows/uwp/launch-resume/launch-app-with-uri>).
+
+## iOS and Android Protocol Activation
+
+The Dynamics 365 Remote Assist mobile application supports two methods for protocol activation: 
+
+-   “ramobile” is for video-enabled calling.
+
+The argument schema accepts a contactSearch field
+    Array<string> contactSearch
+		- A list of search strings to use for finding a contact. E.g. "supportContact@microsoft.com". Will open contact card of the first found contact.
+
+### Example
+For this example, we will perform a contact search. We need to include the "contactSearch" parameter, which is an array of search strings.
+
+1. First we form a JSON string:
+	{
+      "contactSearch":[
+        "Jill Smith",
+        "jillsmith@microsoft.example"
+      ]
+    }
+    
+2. Encode this in base-64.
+    ewogICJjb250YWN0U2VhcmNoIjpbCiAgICAiSmlsbCBTbWl0aCIsCiAgICAiamlsbHNtaXRoQG1pY3Jvc29mdC5leGFtcGxlIgogIF0KfQo=
+
+3. Append the base-64 encoded string to "ramobile:"
+    window.location = "ramobile:ewogICJjb250YWN0U2VhcmNoIjpbCiAgICAiSmlsbCBTbWl0aCIsCiAgICAiamlsbHNtaXRoQG1pY3Jvc29mdC5leGFtcGxlIgogIF0KfQo=";
+    
+When this link is selected, Remote Assist mobile will launch and search for the provided contact details and provide results to the user.
