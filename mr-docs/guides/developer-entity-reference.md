@@ -48,4 +48,4 @@ Dynamics 365 Guides [tables](https://docs.microsoft.com/powerapps/maker/common-d
 
 ## See also
 
-[Table reference for Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/about-entity-reference)
+[Entity reference for Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/about-entity-reference)
