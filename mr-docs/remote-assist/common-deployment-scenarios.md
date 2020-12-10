@@ -39,6 +39,6 @@ Scenario 4 differs from scenario 3 in several ways. In scenario 4, calls are not
 
 ## See also
 
-- [Deployment Guide – Cloud connected HoloLens 2 with Remote Assist](https://docs.microsoft.com/hololens/hololens2-cloud-connected-overview)
+- [Deployment guide – Cloud connected HoloLens 2 with Remote Assist](https://docs.microsoft.com/hololens/hololens2-cloud-connected-overview)
 
 
