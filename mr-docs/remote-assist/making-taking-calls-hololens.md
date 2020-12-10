@@ -1,9 +1,9 @@
 ---
 title: Making and taking calls in Dynamics 365 Remote Assist on HoloLens 
 author: sophiasysun
-description: Make call with someone inside or outside your organization, add participant
+description: Make calls with someone inside or outside your organization and add participants with Dynamics 365 Remote Assist on HoloLens
 ms.author: sopsun
-ms.date: 03/15/2020
+ms.date: 12/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran

@@ -3,7 +3,7 @@ title: Add annotations in Dynamics 365 Remote Assist on HoloLens
 author: sophiasysun
 description: Adding and editing annotations in Dynamics 365 Remote Assist on HoloLens 
 ms.author: sopsun
-ms.date: 03/15/2020
+ms.date: 12/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -72,12 +72,12 @@ To erase all the arrows and ink you’ve added during a video call, select **Era
 
 To undo your most recent action, including **Erase All**, select **Undo** ![Graphic showing the undo icon.](media/RAHL_Undo.png) at the top of the call window (or say "Undo").
 
-## PV Camera Render
+## PV camera render
 
-Enabling the PV Camera Render setting will improve the alignment accuracy of annotations as seen by Microsoft Teams users in a Remote Assist session.  This will ensure that annotations placed by the HoloLens 2 Remote Assist user their environment are represented accurately for the remote expert.  When this setting is turned off, the Microsoft Teams user may notice the annotations placed by the HoloLens 2 user to be slightly out of place.
+Enabling the PV camera render setting will improve the alignment accuracy of annotations as seen by Microsoft Teams users in a Dynamics 365 Remote Assist session. This will ensure that annotations placed by the HoloLens 2 Remote Assist user are represented accurately in their environment for the remote expert. When this setting is turned off, the Microsoft Teams user may notice the annotations placed by the HoloLens 2 user to be slightly out of place.
 
 ![Graphic showing the PV Camera Render Setting](media/RAHL_PVSetting.png).
 
-in order to accomidate the additional system resources required for utilizing the PV Camera Render, turning on the PV Camera Render setting will limit the maximum outgoing video resolution of the HoloLens 2 to 720p.  Turning off the PV Camera Render setting will allow the maximum outgoing video resolution to be 1080p.
+In order to accommodate the additional system resources required for utilizing the PV camera render, turning on the PV camera render setting will limit the maximum outgoing video resolution of the HoloLens 2 to 720p. Turning off the PV camera render setting will allow the maximum outgoing video resolution to be 1080p.
 
-More information on [Render from the PV Camera](https://docs.microsoft.com/en-us/windows/mixed-reality/develop/platform-capabilities-and-apis/mixed-reality-capture-for-developers#render-from-the-pv-camera-opt-in)
+More information on [Render from the PV Camera](https://docs.microsoft.com/windows/mixed-reality/develop/platform-capabilities-and-apis/mixed-reality-capture-for-developers#render-from-the-pv-camera-opt-in)

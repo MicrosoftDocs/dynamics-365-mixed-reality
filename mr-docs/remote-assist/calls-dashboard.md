@@ -1,9 +1,9 @@
 ---
-title: Learn more about the Dynamics 365 Remote Assist calls dashboard
+title: Dynamics 365 Remote Assist calls dashboard
 author: dhgoelmsft
-description: Overview, enablement and feature details of Dynamics 365 Remote Assist calls dashboard
+description: Overview and feature details for the Dynamics 365 Remote Assist calls dashboard
 ms.author: dhgoel
-ms.date: 09/28/2020
+ms.date: 12/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -33,7 +33,7 @@ To have access to the calls dashboard, you must have:
 
 ## Enabling the calls dashboard
 
-1. From the Remote Assist model-driven app, change the area by selecting the menu in the bottom left of the screen and select **Settings**.\
+1. From the Dynamics 365 Remote Assist model-driven app, change the area by selecting the menu in the bottom left of the screen and select **Settings**.\
 :::image type="content" source="media/webapp-settings-selector.png" alt-text="Change area to Settings in the Remote Assist model-driven app":::
 
 2. Select **Settings** under **Analytics and Insights** and select **Manage**.
@@ -85,7 +85,7 @@ Let's take a look at what information is provided by each of the visuals in the 
 
 ## Additional notes
 
-* **SLA**: Data is refreshed every 24 hours. Dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Note that currently, we do not support a custom refresh schedule.
+* **SLA**: Data is refreshed every 24 hours. Dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Currently, we do not support a custom refresh schedule.
 
 * **Data Refresh for Inactive environments**: If an organization has no active usage of the dashboard for two continuous weeks, the data refresh will be paused. When a user opens the dashboard, the data will get refreshed in the next refresh cycle.
 
