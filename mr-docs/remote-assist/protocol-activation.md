@@ -1,12 +1,12 @@
 ---
-author: bencorn
+author: jomorr
 description: Launch Dynamics 365 Remote Assist from another app (protocol activation)
-ms.author: bencorn
+ms.author: jomorr
 ms.date: 10/01/2019
 ms.service: crm-online
 ms.topic: article
 title: Launch Dynamics 365 Remote Assist from another app
-ms.reviewer: v-brycho
+ms.reviewer: krbjoran
 ---
 
 # Launch Dynamics 365 Remote Assist from another app (protocol activation)
@@ -115,7 +115,7 @@ For more information on launching an app with a URI, see [Launch an app with a U
 
 ## iOS and Android protocol activation
 
-The Dynamics 365 Remote Assist mobile application supports two methods for protocol activation: 
+The Dynamics 365 Remote Assist mobile application supports the following protocol activation method: 
 
 -   “ramobile” is for video-enabled calling.
 
