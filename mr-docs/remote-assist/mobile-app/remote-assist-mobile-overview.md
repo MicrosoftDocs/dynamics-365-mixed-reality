@@ -41,7 +41,7 @@ Dynamics 365 Remote Assist mobile for iOS and Android supports Microsoft Intune'
 
 ![Graphic showing Intune controls](./media/RAM_IntuneControls.png)
 
-For more information on Microsoft Intune's App Protection Policies, see [this document](https://docs.microsoft.com/mem/intune/apps/app-protection-policy).
+For more information on Microsoft Intune's app protection policies, see [this article](https://docs.microsoft.com/mem/intune/apps/app-protection-policy).
 
 ## Videos
 
