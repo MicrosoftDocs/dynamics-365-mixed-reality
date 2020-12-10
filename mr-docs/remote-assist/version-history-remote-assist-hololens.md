@@ -24,7 +24,7 @@ Date: December 2020
 
 ### Bug fixes
 
-- Improvements around selecting Dynamics environment.
+- Improvements around selecting Dynamics 365 environment.
 - Fixed "Post to Work Order" not working under certain conditions, and sometimes showing the dialog unnecessarily.
 - Added voice commands to additional elements on the UI to ensure easy access.
 - Addressed visual glitches around window positioning, text flickering and unexpected button highlight.
@@ -34,7 +34,7 @@ Date: December 2020
 - Improvements for inking, to ensure that the lines are drawn continuously under all conditions.
 - Various visual fixes to unify the look between different windows.
 - Fixed issue preventing the access to files shared from Teams in some cases.
-- Improved support of file sharing and text chat in Teams Channel meetings.
+- Improved support of file sharing and text chat in Teams channel meetings.
 
 ## HoloLens 1 & 2 – 300.2010.1002
 
