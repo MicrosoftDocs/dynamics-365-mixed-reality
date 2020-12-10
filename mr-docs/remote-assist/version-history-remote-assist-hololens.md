@@ -5,6 +5,7 @@ ms.custom:
   - dyn365-mixed-reality-remote-assist
 ms.date: 10/05/2020
 ms.reviewer: krbjoran
+ms.service: crm-online
 applies_to: 
   - "Dynamics 365 (online)"
   - "Dynamics 365 Version 9.x"
