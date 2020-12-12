@@ -115,11 +115,12 @@ For more information on launching an app with a URI, see [Launch an app with a U
 
 ## iOS and Android protocol activation
 
-The Dynamics 365 Remote Assist mobile application supports the following protocol activation method: 
+The Dynamics 365 Remote Assist mobile application supports the two protocol activation methods: 
 
--   “ramobile” is for video-enabled calling.
+-   “ramobile” is used with Remote Assist mobile is installed on the device already.
+-   "https://call.d365ra.com/link.html" is used if Remote Assist mobile is not confirmed to be installed on the device already.
 
-The argument schema accepts an optional ```contactSearch``` field, which is a JSON-formatted array of strings to use for finding a contact.
+The argument schema for both methods accept an optional ```contactSearch``` field, which is a JSON-formatted array of strings to use for finding a contact.
 
     { "contactSearch":[ "supportContact@microsoft.com"] }
 
@@ -136,10 +137,17 @@ For this example, we will perform a contact search. We need to include the ```co
       ]
     }
 ```    
-2. Encode this in base-64.
+2. Encode the JSON string in base64.
     ```ewogICJjb250YWN0U2VhcmNoIjpbCiAgICAiSmlsbCBTbWl0aCIsCiAgICAiamlsbHNtaXRoQG1pY3Jvc29mdC5leGFtcGxlIgogIF0KfQo=```
 
-3. Append the base-64 encoded string to "ramobile:" to form the new URI.
+3a. To use the "ramobile:" method, append the base64 encoded string to "ramobile:" to form the new URI.
    ```"ramobile:ewogICJjb250YWN0U2VhcmNoIjpbCiAgICAiSmlsbCBTbWl0aCIsCiAgICAiamlsbHNtaXRoQG1pY3Jvc29mdC5leGFtcGxlIgogIF0KfQo=";```
-    
+
 When this link is selected, Remote Assist mobile will launch and search for the provided contact details and provide results to the user.
+   
+3b. To use the https deeplink method, append the base64 encoded string as a value to the 'd' key.
+   ```"https://call.d365ra.com/link.html?d=ewogICJjb250YWN0U2VhcmNoIjpbCiAgICAiSmlsbCBTbWl0aCIsCiAgICAiamlsbHNtaXRoQG1pY3Jvc29mdC5leGFtcGxlIgogIF0KfQo=";```
+
+When this link is selected and Remote Assist mobile is not installed a web browser will open, prompting the user to install Remote Assist mobile.  Once installed, the user can click on another button to launch Remote Assist mobile and search for the provided contact details and provide results to the user.  If Remote Assist mobile is already installed, Remote Assist mobile will launch and search for the provided contact details and provide results to the user.
+
+    
