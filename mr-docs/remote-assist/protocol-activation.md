@@ -117,10 +117,10 @@ For more information on launching an app with a URI, see [Launch an app with a U
 
 The Dynamics 365 Remote Assist mobile application supports the two protocol activation methods: 
 
--   “ramobile” is used with Remote Assist mobile is installed on the device already.
+-   “ramobile” is used when Remote Assist mobile is known to be installed on the device already.
 -   "https://call.d365ra.com/link.html" is used if Remote Assist mobile is not confirmed to be installed on the device already.
 
-The argument schema for both methods accept an optional ```contactSearch``` field, which is a JSON-formatted array of strings to use for finding a contact.
+The argument schema for both methods accepts an optional ```contactSearch``` field, which is a JSON-formatted array of strings to use for finding a contact.
 
     { "contactSearch":[ "supportContact@microsoft.com"] }
 
