@@ -181,8 +181,8 @@ See the tips in the previous step for sorting by multiple columns or using multi
     This dot plot shows the time in minutes (y-axis) for each step of a guide (x-axis) to give you a sense for which steps take the most time and which steps have the most variability in time. If a step is visited multiple times in the same session, the sum of the step visit times is displayed. Each guide session is shown in a separate color. Sessions may have the same color if there are many sessions displayed. 
     
     > [!TIP]
-    > Use drill up/drill down. By default, this chart shows the time per step. However, you can use Power BI’s drill-up functionality to summarize time at the task level. [Learn more about how to use Drill mode in a visual in Power BI](https://docs.microsoft.com/power-bi/consumer/end-user-drill).
-    > Add a constant line. To easily compare step times to a standard target time, you can add a constant line to your step time dot plot. [Learn more about how to use the Analytics pane in Power BI](https://docs.microsoft.com/power-bi/transform-model/desktop-analytics-pane).    
+    > - Use drill up/drill down. By default, this chart shows the time per step. However, you can use Power BI’s drill-up functionality to summarize time at the task level. [Learn more about how to use Drill mode in a visual in Power BI](https://docs.microsoft.com/power-bi/consumer/end-user-drill).
+    > - Add a constant line. To easily compare step times to a standard target time, you can add a constant line to your step time dot plot. [Learn more about how to use the Analytics pane in Power BI](https://docs.microsoft.com/power-bi/transform-model/desktop-analytics-pane).    
    
 7.	Filters. There are situations in which you might want to filter the report to show just a subset of sessions. For example: 
    
