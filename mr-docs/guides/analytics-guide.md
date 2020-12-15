@@ -24,19 +24,23 @@ When an operator uses the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 
 ## What can you do with the data? 
 
+One way to interact with the data is to utilize the Guides Analytics reports, and another way is to use [Microsoft Power Automate to automate workflows](https://docs.microsoft.com/power-automate/), for example when a new guide session starts or ends.  
+
 The Guides Analytics reports are designed to help you answer high-level questions about guides usage. For example: 
 
 - How many guides have been used to date? 
  
-- Is the number of times a guide is run per day increasing, decreasing, or remaining stable over time? 
+- Is the number of times a guide is operated per day increasing, decreasing, or remaining stable over time? 
 
 - Which guides take the most time to complete? 
+
+- Are operators completing the guide or only going through half the steps?
 
 You can also use Guides Analytics to drill into detailed time-tracking information at the task and step levels. For example, answer questions such as: 
 
 - Which step of a guide takes the most time? 
 
-- Which step of a guide has the most variability in operator time? 
+- Which step of a guide has the most variability in operator time? Is the amount of operation time equally distributed between tasks?
 
 These reports provide information about operator adoption and usage and give guide authors a data-driven way to improve their 
 guides. For example, an author could focus their editing efforts on steps that take a long time to execute or show a high 
@@ -64,9 +68,9 @@ To set up your reports:
 
     You'll be prompted to choose the files to download: 
 
-     - **Guides Analytics Template.** You can configure this [!include[pn-power-bi](../includes/pn-power-bi.md)] template file to display [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] time-tracking data from within your organization. This is the main component of Guides Analytics. 
+     - **Guides Analytics Template.** You can configure this [!include[pn-power-bi](../includes/pn-power-bi.md)] template file to display [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] time-tracking data from within your organization. 
    
-     - **Guides Analytics Demo.** You can use this [!include[pn-power-bi](../includes/pn-power-bi.md)] file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics before you even create your first guide.  
+     - **Guides Analytics Demo.** You can use this [!include[pn-power-bi](../includes/pn-power-bi.md)] file to view an example data set. It does not require any configuration and lets you get an overview of Guides Analytics reports before you even create your first guide.  
 
      We recommend downloading both files. 
 
@@ -109,7 +113,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
 ![Guides Usage report](media/guides-usage-report.PNG "Guides Usage report") 
  
-1.	Which guides are included in the report.
+1.	Which guides are included in the report?
 
     Use the drop-down menu to select which guides are used to generate the visuals and statistics in the report. Changing the selection in this drop-down menu changes the values in all parts of the report. By default, the **All** option is selected to give you an overview of all your organization's guides.
    
@@ -119,38 +123,26 @@ The Guides Usage report provides an overview of all the guides used in your orga
    
     - **Users.** How many users have operated at least one guide to date? 
    
-    - **Devices.** How many devices have been used to operate at least one guide to date? 
-   
-    - **Runs.** How many total runs have been completed to date? 
+    - **Sessions.** How many sessions have been completed to date? 
    
 3.	Is daily guide usage changing? 
 
-    The bar chart of run counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage.  
+    The bar chart of session counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage. 
+    
+    > [!TIP]
+    > Use drill up/drill down. By default, this chart shows the session counts per day. However, you can use Power BI’s drill-up functionality to summarize session counts at the month or year level. Learn more about how to use Drill mode in a visual in Power BI.   
 
-    **Drill up/Expand to the next level.** In [!include[pn-power-bi](../includes/pn-power-bi.md)], dates have a hierarchy of year, quarter, month, day. By default, this bar chart displays run counts per day. To see total run counts per month, first select the chart, and then select **Drill Up**.
-   
-    ![Drill-up button](media/drill-up-button.PNG "Drill-up-button")
-  
-    To return to the per-day view, select **Drill Mode**, and then select the month bar you want to drill into.  
+4.	Which guides have the most sessions, longest or shortest session times, or were operated most recently? 
 
-    ![Drill Mode button to return to per-day view](media/drill-mode-button.PNG "Drill mode button to return to per-day view")
+    This table displays the following information per guide: current number of tasks and steps, the latest start time, the total number of sessions, as well as the maximum and minimum session time observed to date. By default, this table is sorted by guide name, but you can select a column header to sort by that field. For example, select **Max session time** to quickly find which guide has the longest session time. 
+       
+5.	Filters. There are situations in which you might want to filter the report to show just a subset of sessions. For example:
 
-    Alternatively, select the **Expand to the next level** button to drill back down.  
-  
-    ![Expand to next level](media/expand-to-next-level.PNG "Expand to next level")
- 
-    **Filter by Date.** Change the date range by using the Filter by Date slicer. Select the start or end date to set them manually, or move the slider.
-   
-     >[!NOTE]
-     >The date filter is applied to all visuals and statistics in the report. 
+- **Focus on a date range.** The date filter is useful for exploring guides usage on a particular date or across a time window of interest.
 
-4.	What is the most frequently used guide? 
+- **Filter completion status.** There are many ways to define whether a guide session is “complete”. For example, it may be important that the operator visited a completion step. Alternatively, you may want to check that a minimum percentage of steps were visited in the session. Dynamics 365 Guides provides these measures and you can use them separately or together to filter sessions in the Guides Usage report. 
 
-    The bar chart of run counts (x-axis) per guide (y-axis) allows you to quickly identify which guides are used most and least in your organization (top and bottom of the chart respectively). If you have many guides, you might need to scroll within this chart. 
-   
-5.	What is the average run time per guide? 
-
-    The bar chart of average run time in minutes (x-axis) per guide (y-axis) allows you to quickly identify the guides that take the most or least amount of time to operate (top and bottom of chart respectively). If you have many guides, you might need to scroll within this chart. 
+- **Filter on roles.** In most cases, you’ll want to filter guides by Operator role. You may want to filter by Author when you’d like to see data from sessions where an Author is previewing their guide and experiencing it as an operator would.    
 
 ### Process Time-Tracking report
 
