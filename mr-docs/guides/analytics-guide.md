@@ -140,7 +140,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
     - **Filter on a date range.** The date filter is useful for exploring guides usage on a particular date or across a time window of interest.
 
-    - **Filter on completion status.** There are many ways to define whether a guide session is “complete”. For example, it may be important that the operator visited a completion step. Alternatively, you may want to check that a minimum percentage of steps were visited in the session. Dynamics 365 Guides provides these measures and you can use them separately or together to filter sessions in the Guides Usage report. 
+    - **Filter on completion status.** There are many ways to define whether a guide session is “complete”. For example, it may be important that the operator visited a completion step. Alternatively, you may want to check that a minimum percentage of steps were visited in the session. You can filter on these items separately or together. 
 
     - **Filter on role.** In most cases, you’ll want to filter guides by Operator role. You may want to filter by Author when you’d like to see data from sessions where an Author is previewing their guide and experiencing it as an operator would.    
 
