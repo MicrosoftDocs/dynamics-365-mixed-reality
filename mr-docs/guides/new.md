@@ -25,7 +25,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## December 8, 2020
 
-Version 502.2011.28001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.1.1.0, 500.0.1.1 include the following new feature.
+Version 502.2011.28001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.2.1.2 include the following new feature.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
