@@ -146,7 +146,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
 
 ### Process Time-Tracking report
 
-Use the Process Time-Tracking report to drill into usage and step-level run-time data for a single guide. The following graphic illustrates the parts of the report.
+Use the Process Time-Tracking report to analyze step-level run-time data for a single guide. The following graphic illustrates the parts of the report.
 
 ![Process Time-Tracking report](media/process-time-tracking-report.PNG "Process Time-Tracking report")
  
@@ -157,64 +157,46 @@ Use the Process Time-Tracking report to drill into usage and step-level run-time
    
 2.	Use the summary statistics to quickly answer the following questions: 
 
-    - **Users.** How many users have run this guide at least once? 
+    - **Users.** How many users have operated this guide at least once? 
    
-    - **Devices.** How many devices have been used to operate this guide at least once to date? 
+    - **Sessions.** How many total sessions of this guide have been completed to date? 
+    
+    - **Avg. Session Time.** What is the average session time for this guide?
    
-    - **Runs.** How many total runs of this guide have been completed to date? 
-   
-3.	Is daily guide usage changing? 
+3.	How long are individual steps on average? 
 
-    This is the same chart that's shown in the Guides Usage report described earlier. 
+    This table shows you the task and steps for the selected guide. You can select the average step time or standard deviation columns to quickly find the longest/shortest steps or steps with most/least variability in time (standard deviation). Select a row of this table to filter all the visuals in the report to just that step.
+    
+    > [!TIP]
+    > - To sort by multiple columns, hold the Shift key down while you select to add another column to the sort order. This is useful if you want to sort by task and step number. [Learn more about how to change the sort order in a Power BI report](https://docs.microsoft.com/power-bi/consumer/end-user-change-sort).   
+    > - To use multiple rows as filters, hold down the Shift key while you select each row. [Learn more about how to multi-select data elements in Power BI Desktop](https://docs.microsoft.com/power-bi/create-reports/desktop-multi-select).
    
-4.	How long is a guide run in minutes? 
+4.	Which sessions are the longest/shortest? 
 
-    You can see the average run time of this guide, in addition to the longest run time (max) and shortest run time (min) in minutes 
-   to get an overview of how long this guide takes to operate.  
+    This table shows all the operator sessions for the selected guide. It includes information about each session’s total time, the percentage of all steps in the guide that were visited at least once, and whether or not at least one completion step was visited. This table is helpful for finding the longest/shortest sessions or investigating the completion status of individual sessions. Select a row of this table to filter all the visuals in the report to just that session.
+See the tips in the previous step for sorting by multiple columns or using multiple rows as filters.
    
 5.	How long did each task or step take? 
 
-    This line chart shows the time in minutes (y-axis) for each step of a guide (x-axis) to give you a sense for which steps take 
-   the most time and which steps have the most variability in run time. Each run of the guide is shown as a separate colored line. 
-   The chart legend provides a list of all runs sorted by run start time. 
+    This dot plot shows the time in minutes (y-axis) for each step of a guide (x-axis) to give you a sense for which steps take the most time and which steps have the most variability in time. If a step is visited multiple times in the same session, the sum of the step visit times is displayed. Each guide session is shown in a separate color. Sessions may have the same color if there are many sessions displayed. 
+    
+    > [!TIP]
+    > Use drill up/drill down. By default, this chart shows the time per step. However, you can use Power BI’s drill-up functionality to summarize time at the task level. [Learn more about how to use Drill mode in a visual in Power BI](https://docs.microsoft.com/power-bi/consumer/end-user-drill).
+    > Add a constant line. To easily compare step times to a standard target time, you can add a constant line to your step time dot plot. [Learn more about how to use the Analytics pane in Power BI](https://docs.microsoft.com/power-bi/transform-model/desktop-analytics-pane).    
    
-    **Drill up/Drill down/Expand to the next level.** By default, this chart shows the run time in minutes per step. The x-axis 
-   indicates both the step numbers (upper labels) and parent task labels (lower labels). Guide tasks and steps are organized 
-   into a hierarchy. 
-
-    To change the view from the step level to the task level, first select the chart, and then select **Drill Up**.  
-
-    ![Drill Up button](media/drill-up-2.PNG "Drill Up button")
-   
-    To return to the step view, select **Drill Mode**, and then select the task you want to drill in to.
-  
-    ![Drill Mode button](media/step-to-task-drill-down.PNG "Drill Mode button")
- 
-     Alternatively, select the **Expand to the next level** button to drill back down. This option will expand all tasks to the 
-   step level, whereas **Drill Mode** only drills into the data item you selected. 
-   
-    ![Next level hierarchy](media/expand-to-next-level.PNG "Next level hierarchy")
-  
-6.	Select a recent run: 
-
-    To view data for a single recent run, select it from the run table. By default, this table is sorted by the **Run Start** time 
-   with the most recent run on the top. You can also select the column headers to sort by **Run Time**. If you select 
-   a single row in this table, all visuals and statistics are filtered to just that single run. 
-   
-7.	Filter by Date, Step Time (minutes), or Role: 
-
-    There are situations in which you might want to filter the report to show just runs generated in a particular date range, runs 
-   that are within some step time range, or for a particular role. For example: 
+7.	Filters. There are situations in which you might want to filter the report to show just a subset of sessions. For example: 
    
      - **Compare versions of a guide.** The date filter is particularly useful if you made a revision to your guide (for example, added 
    or removed a step) and you want to show data for a given version of the guide that can be identified based on the date the guide 
    was created or edited. 
+   
+    - **Filter completion status.** There are many ways to define whether a guide session is “complete”. For example, it may be important that the operator visited a completion step. Alternatively, you may want to check that a minimum percentage of steps were visited in the session. Guides provides these measures and you can use them separately or together to filter sessions in the Process Time-Tracking report. 
+   
+    - **Filter on roles.** In most cases, you’ll want to filter guides by Operator role. You might want to filter by Author when you’d like to see data from sessions where an Author is previewing their guide and experiencing it as an operator would.
 
      - **Filter outliers.** Unusually long step times can stretch the y-axis of the time-per-step line chart, which can make the 
    majority of data difficult to see. Use this slider to set the range of step times you want to visualize across the report so you 
    can ignore the outliers.  
-   
-     - **Filter on roles**. In most cases, you’ll want to filter guides by Operator role. You may want to filter by Author when you’d like to see data from sessions where an Author is previewing their guide and experiencing it as an operator would.
 
 ## Share the Guides Analytics reports 
 
