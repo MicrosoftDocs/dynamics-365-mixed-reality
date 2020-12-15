@@ -130,7 +130,7 @@ The Guides Usage report provides an overview of all the guides used in your orga
     The bar chart of session counts (y-axis) per day (x-axis) allows you to see trends such as increasing, decreasing, or stable daily guides usage. 
     
     > [!TIP]
-    > Use drill up/drill down. By default, this chart shows the session counts per day. However, you can use Power BI’s drill-up functionality to summarize session counts at the month or year level. [Learn more about how to use Drill mode in a Poewr BI visual](https://docs.microsoft.com/power-bi/consumer/end-user-drill).   
+    > Use drill up/drill down. By default, this chart shows the session counts per day. However, you can use Power BI’s drill-up functionality to summarize session counts at the month or year level. [Learn more about how to use Drill mode in a Power BI visual](https://docs.microsoft.com/power-bi/consumer/end-user-drill).   
 
 4.	Which guides have the most sessions, longest or shortest session times, or were operated most recently? 
 
