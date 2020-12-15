@@ -55,7 +55,7 @@ After you successfully generate a link, the text box in step 2 will populate wit
 The customer can use Remote Assist mobile on [both AR and non-AR devices](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements#device-options-and-requirements-for-a-dynamics-365-remote-assist-user). However, some older mobile device models may truncate SMS messages, making it difficult for your customer to receive the two links via SMS.
 
 > [!Note]
-> If the customer is prompted to "Sign In" to Remote Assist, there was likely an issue with the link they clicked on. Instead of following the link directly from the email, have the customer copy the entire link and past it into their mobile web browser. They should then be able to continue to Step 3.
+> If the customer is prompted to "Sign In" to Remote Assist, there was likely an issue with the link they clicked on. Instead of following the link directly from the email, have the customer copy the entire link and paste it into their mobile web browser. They should then be able to continue to Step 3.
 
 ### Step 3: Join the call 
 Select **Join the call** to launch the app available on your device to join the one-time call.
