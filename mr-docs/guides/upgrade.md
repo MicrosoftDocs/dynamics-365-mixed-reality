@@ -24,6 +24,8 @@ Keep the following in mind:
 
 - Updates to the solution must be done when the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps are not in use.  
 
+- [Make sure that your environment is backed up](https://docs.microsoft.com/power-platform/admin/backup-restore-environments) prior to updating your solution. 
+
 To update the solution:
 
 1. Go to the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), and sign in by using the [System Administrator security role](https://docs.microsoft.com/power-platform/admin/database-security) permissions for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. Admins must also have a [Dynamics 365 Guides license assigned to their user account](https://docs.microsoft.com/dynamics365/mixed-reality/guides/add-users). 
