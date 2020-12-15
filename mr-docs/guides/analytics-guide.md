@@ -190,11 +190,11 @@ See the tips in the previous step for sorting by multiple columns or using multi
    or removed a step) and you want to show data for a given version of the guide that can be identified based on the date the guide 
    was created or edited. 
    
-    - **Filter completion status.** There are many ways to define whether a guide session is “complete”. For example, it may be important that the operator visited a completion step. Alternatively, you may want to check that a minimum percentage of steps were visited in the session. Guides provides these measures and you can use them separately or together to filter sessions in the Process Time-Tracking report. 
+    - **Filter on completion status.** There are many ways to define whether a guide session is “complete”. For example, it may be important that the operator visited a completion step. Alternatively, you may want to check that a minimum percentage of steps were visited in the session. Guides provides these measures and you can use them separately or together to filter sessions in the Process Time-Tracking report. 
    
     - **Filter on roles.** In most cases, you’ll want to filter guides by Operator role. You might want to filter by Author when you’d like to see data from sessions where an Author is previewing their guide and experiencing it as an operator would.
 
-     - **Filter outliers.** Unusually long step times can stretch the y-axis of the time-per-step line chart, which can make the 
+     - **Filter out the outliers.** Unusually long step times can stretch the y-axis of the time-per-step line chart, which can make the 
    majority of data difficult to see. Use this slider to set the range of step times you want to visualize across the report so you 
    can ignore the outliers.  
 
