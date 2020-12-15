@@ -24,7 +24,7 @@ Keep the following in mind:
 
 - Updates to the solution must be done when the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps are not in use.  
 
-- [Make sure that your environment is backed up](https://docs.microsoft.com/power-platform/admin/backup-restore-environments) prior to updating your solution. 
+- [Make sure that you back up your environment](https://docs.microsoft.com/power-platform/admin/backup-restore-environments) before updating your solution. 
 
 To update the solution:
 
