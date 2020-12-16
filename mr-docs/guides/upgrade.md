@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to update the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: mamaylya
-ms.date: 12/15/2020
+ms.date: 02/02/2021
 ms.service: crm-online
 ms.topic: article
 title: Update the Dynamics 365 Guides solution
@@ -89,6 +89,65 @@ To fix this issue, we recommend that you first try to update the guide schema fr
     
 >[!NOTE]
 >If the issue isn't fixed when you update the guide schema, the guide's JSON file has probably been edited in a way that isn't supported (for example, too many 3D objects have been programmatically added to the **Step Editor** bin). Contact the Dynamics 365 Guides team directly for guidance, through your Microsoft Account team.
+
+### Manually upgrade content to Image schema v1
+
+The 504.0.0.0 Guides solution update changes the way guide content (images, videos, and 3D objects) is stored in the Dataverse. With this update, each file is stored along with the row instead of as a note attachment. This significantly improves performance when loading content and allows customers to access asset files more easily on the Power Platform. 
+
+When you update to the 504.0.0.0 solution, the content will be automatically converted to the new schema. However, on the rare occasion that the conversion process fails for an image, video, or 3D object, you can use the following procedure to trigger the conversion manually. 
+
+To make sure that all your content is converted to the new schema after upgrading to the new solution:
+
+1.	Go to make.powerapps.com. 
+
+2.	Sign in with your credentials. 
+
+3.	Select **Guides**. 
+
+    SCREEN SHOT GOES HERE
+ 
+4.	Go to the active view of each type of content and verify that the number under the **Schema Version** column is **1**. 
+
+    a. To the left of the page, under **Library**, select the type of content to verify. 
+    
+    SCREEN SHOT GOES HERE
+ 
+5.	To find content that hasn’t successfully upgraded: 
+
+    a. Select the **Filter by** under the **Schema Version** column.
+    
+    SCREEN SHOT GOES HERE
+ 
+    b. From the dropdown, select **Does not equal** and type in **1** in the field below. Select **Apply**. 
+    
+    SCREEN SHOT GOES HERE 
+
+    c. The rows that haven’t been converted will have either a **0** or three dashes (**---**) under the **Schema Version** column. 
+    
+    SCREEN SHOT GOES HERE
+ 
+6.	To upgrade the content to the new content schema version: 
+
+    a. Select all the items you want to convert. 
+    
+    b. In the command bar, select **Flow**, and then select **Upgrade Image Schema**. 
+    
+    SCREEN SHOT GOES HERE
+ 
+7.	Confirm the application of the workflow by selecting **OK**. 
+
+    SCREEN SHOT GOES HERE
+ 
+8.	To verify the successful conversion of the 3D object, select the **Schema Version** column, and then from the drop-down, select **Clear filter**. 
+
+    SCREEN SHOT GOES HERE
+ 
+9.	The newly converted row will have a **1** under the **Schema Version** column. 
+ 
+    SCREEN SHOT GOES HERE
+
+> [!NOTE]
+> Repeat this process for each type of content: images, videos, and 3D objects. 
 
 ## See also
 
