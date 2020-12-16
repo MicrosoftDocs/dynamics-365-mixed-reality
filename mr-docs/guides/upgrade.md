@@ -102,52 +102,49 @@ To make sure that all your content is converted to the new schema after upgradin
 
 2.	Sign in with your credentials. 
 
-3.	Select **Guides**. 
+3.	On the Power Apps **Home** page, under **Name**, select **Guides**. 
 
-    ![XXX](media/XXX.PNG "XXX")
+    ![Screen shot of Power Apps Home screen with Guides selected](media/image-schema-select-guides.PNG "Screen shot of Power Apps Home screen with Guides selected")
  
-4.	Go to the active view of each type of content and verify that the number under the **Schema Version** column is **1**. 
-
-    a. To the left of the page, under **Library**, select the type of content to verify. 
+4.	In the **Active 3D Objects** screen, in the left pane under **Library**, select a type of content, and then verify that the number in the **Schema Version** column is **1**. 
     
-     ![XXX](media/XXX.PNG "XXX")
+     ![Screen shot of Active 3D Objects screen with Library section and Schema Version column highlighted](media/image-schema-verify-content.PNG "Screen shot of Active 3D Objects screen with Library section and Schema Version column highlighted")
  
-5.	To find content that hasn’t successfully upgraded: 
+5.	To find content that hasn’t successfully been upgraded: 
 
-    a. Select the **Filter by** under the **Schema Version** column.
+    a. Select the arrow next to **Schema Version**, and then select **Filter by**.
     
-     ![XXX](media/XXX.PNG "XXX")
+      ![Screen shot of Filter by command](media/image-schema-filter-by.PNG "Screen shot of Filter by command")
  
-    b. From the dropdown, select **Does not equal** and type in **1** in the field below. Select **Apply**. 
+    b. In the **Filter by** list, select **Does not equal**, enter **1** in the field below, and then select **Apply**. 
     
-     ![XXX](media/XXX.PNG "XXX")
+      ![Screen shot of Filter by dialog box](media/image-schema-filter-by-dialog.PNG "Screen shot of Filter by dialog box")
 
-    c. Any rows that haven’t been converted will either have a **0** or three dashes (**---**) under the **Schema Version** column. 
+    c. Look for rows in the **Schema Version** column that haven’t been converted. They will either have a **0** or three dashes (**---**). 
     
-     ![XXX](media/XXX.PNG "XXX")
+      ![Screen shot showing dashes in Schema Version column](media/image-schema-unconverted-data.PNG "Screen shot showing dashes in Schema Version column")
  
 6.	To upgrade the content to the new content schema version: 
 
-    a. Select all the items you want to convert. 
+    a. Select all the rows for any items you want to convert. 
     
-    b. In the command bar, select **Flow**, and then select **Upgrade Image Schema**. 
+    b. In the command bar at the top of the screen, select **Flow**, and then select **Upgrade 3D Object Schema**. 
     
-     ![XXX](media/XXX.PNG "XXX")
+     ![Screen shot of Upgrade 3D Object Schema command](media/image-schema-upgrade-3D-object-schema.PNG "Screen shot of Upgrade 3D Object Schema command")
  
-7.	Confirm the application of the workflow by selecting **OK**. 
+7.	In the **Confirm Application of Workflow** dialog box, select **OK**. 
 
-     ![XXX](media/XXX.PNG "XXX")
+     ![Screen shot of Confirm Application of Workflow dialog box](media/image-schema-confirm-application-workflow.PNG "Screen shot of Confirm Application of Workflow dialog box")
  
-8.	To verify the successful conversion of the 3D object, select the **Schema Version** column, and then from the drop-down, select **Clear filter**. 
+8.	To verify the successful conversion of the 3D object, select the arrow next to **Schema Version**, and then select **Clear filter**. 
 
-     ![XXX](media/XXX.PNG "XXX")
+     ![Screen shot of Clear filter command](media/image-schema-clear-filter.PNG "Screen shot of Clear filter command")
  
-9.	The newly converted row will have a **1** under the **Schema Version** column. 
+    The newly converted row will have a **1** in the **Schema Version** column. 
  
-     ![XXX](media/XXX.PNG "XXX")
+     ![Screen shot of Schema Version column with converted data](media/image-schema-converted.PNG "Screen shot of Schema Version column with converted data")
 
-> [!NOTE]
-> Repeat this process for each type of content: images, videos, and 3D objects. 
+9. Repeat this process for each type of content: images, videos, and 3D objects. 
 
 ## See also
 
