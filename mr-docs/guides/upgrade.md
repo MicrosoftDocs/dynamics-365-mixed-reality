@@ -110,7 +110,7 @@ To make sure that all your content is converted to the new schema after upgradin
     
      ![Screen shot of Active 3D Objects screen with Library section and Schema Version column highlighted](media/image-schema-verify-content.PNG "Screen shot of Active 3D Objects screen with Library section and Schema Version column highlighted")
  
-5.	To find content that hasn’t successfully been upgraded: 
+5.	To find content that hasn’t been upgraded successfully: 
 
     a. Select the arrow next to **Schema Version**, and then select **Filter by**.
     
