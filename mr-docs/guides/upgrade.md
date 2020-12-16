@@ -126,7 +126,7 @@ To make sure that all your content is converted to the new schema after upgradin
  
 6.	To upgrade the content to the new content schema version: 
 
-    a. Select all the rows for any items you want to convert. 
+    a. Select the rows for any items you want to convert. 
     
     b. In the command bar at the top of the screen, select **Flow**, and then select **Upgrade 3D Object Schema**. 
     
