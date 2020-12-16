@@ -104,27 +104,27 @@ To make sure that all your content is converted to the new schema after upgradin
 
 3.	Select **Guides**. 
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/XXX.PNG "XXX")
  
 4.	Go to the active view of each type of content and verify that the number under the **Schema Version** column is **1**. 
 
     a. To the left of the page, under **Library**, select the type of content to verify. 
     
-    SCREEN SHOT GOES HERE
+     ![XXX](media/XXX.PNG "XXX")
  
 5.	To find content that hasn’t successfully upgraded: 
 
     a. Select the **Filter by** under the **Schema Version** column.
     
-    SCREEN SHOT GOES HERE
+     ![XXX](media/XXX.PNG "XXX")
  
     b. From the dropdown, select **Does not equal** and type in **1** in the field below. Select **Apply**. 
     
-    SCREEN SHOT GOES HERE 
+     ![XXX](media/XXX.PNG "XXX")
 
-    c. The rows that haven’t been converted will have either a **0** or three dashes (**---**) under the **Schema Version** column. 
+    c. Any rows that haven’t been converted will either have a **0** or three dashes (**---**) under the **Schema Version** column. 
     
-    SCREEN SHOT GOES HERE
+     ![XXX](media/XXX.PNG "XXX")
  
 6.	To upgrade the content to the new content schema version: 
 
@@ -132,19 +132,19 @@ To make sure that all your content is converted to the new schema after upgradin
     
     b. In the command bar, select **Flow**, and then select **Upgrade Image Schema**. 
     
-    SCREEN SHOT GOES HERE
+     ![XXX](media/XXX.PNG "XXX")
  
 7.	Confirm the application of the workflow by selecting **OK**. 
 
-    SCREEN SHOT GOES HERE
+     ![XXX](media/XXX.PNG "XXX")
  
 8.	To verify the successful conversion of the 3D object, select the **Schema Version** column, and then from the drop-down, select **Clear filter**. 
 
-    SCREEN SHOT GOES HERE
+     ![XXX](media/XXX.PNG "XXX")
  
 9.	The newly converted row will have a **1** under the **Schema Version** column. 
  
-    SCREEN SHOT GOES HERE
+     ![XXX](media/XXX.PNG "XXX")
 
 > [!NOTE]
 > Repeat this process for each type of content: images, videos, and 3D objects. 
