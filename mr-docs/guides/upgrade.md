@@ -98,7 +98,7 @@ When you update to the 504.0.0.0 solution, the content will automatically be con
 
 To make sure that all your content is converted to the new schema after upgrading to the new solution:
 
-1.	Go to [make.powerapps.com](make.powerapps.com). 
+1.	Go to [make.powerapps.com](https://make.powerapps.com). 
 
 2.	Sign in with your credentials. 
 
