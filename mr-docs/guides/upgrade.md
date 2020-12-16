@@ -118,7 +118,7 @@ To make sure that all your content is converted to the new schema after upgradin
  
     b. In the **Filter by** list, select **Does not equal**, enter **1** in the field below, and then select **Apply**. 
     
-      ![Screen shot of Filter by dialog box](media/image-schema-filter-by-dialog.PNG "Screen shot of Filter by dialog box")
+      ![Screen shot of Filter by dialog box](media/image-schema-filter-by-dialog-box.PNG "Screen shot of Filter by dialog box")
 
     c. Look for rows in the **Schema Version** column that haven’t been converted. They will either have a **0** or three dashes (**---**). 
     
