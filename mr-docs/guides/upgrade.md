@@ -92,13 +92,13 @@ To fix this issue, we recommend that you first try to update the guide schema fr
 
 ### Manually upgrade content to Image schema v1
 
-The 504.0.0.0 Guides solution update changes the way guide content (images, videos, and 3D objects) is stored in the Dataverse. With this update, each file is stored along with the row instead of as a note attachment. This significantly improves performance when loading content and allows customers to access asset files more easily on the Power Platform. 
+The 504.0.0.0 Guides solution update changes the way guide content (images, videos, and 3D objects) is stored in the Dataverse. With this update, each file is stored along with the row instead of as a note attachment. This significantly improves performance when loading content and allows you to access asset files more easily on the Power Platform. 
 
-When you update to the 504.0.0.0 solution, the content will be automatically converted to the new schema. However, on the rare occasion that the conversion process fails for an image, video, or 3D object, you can use the following procedure to trigger the conversion manually. 
+When you update to the 504.0.0.0 solution, the content will automatically be converted to the new schema. However, on the rare occasion that the conversion process fails for an image, video, or 3D object, you can use the following procedure to trigger the conversion manually. 
 
 To make sure that all your content is converted to the new schema after upgrading to the new solution:
 
-1.	Go to make.powerapps.com. 
+1.	Go to [make.powerapps.com](make.powerapps.com). 
 
 2.	Sign in with your credentials. 
 
