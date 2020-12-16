@@ -102,7 +102,7 @@ To make sure that all your content is converted to the new schema after upgradin
 
 2.	Sign in with your credentials. 
 
-3.	On the Power Apps **Home** page, under **Name**, select **Guides**. 
+3.	On the Power Apps **Home** page, under **Your apps**, select **Guides**. 
 
     ![Screen shot of Power Apps Home screen with Guides selected](media/image-schema-select-guides.PNG "Screen shot of Power Apps Home screen with Guides selected")
  
