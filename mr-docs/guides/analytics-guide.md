@@ -40,7 +40,9 @@ You can also use Guides Analytics to drill into detailed time-tracking informati
 
 - Which step of a guide takes the most time? 
 
-- Which step of a guide has the most variability in operator time? Is the amount of operation time equally distributed between tasks?
+- Which step of a guide has the most variability in operator time? 
+
+- Is the amount of operation time equally distributed between tasks?
 
 These reports provide information about operator adoption and usage and give guide authors a data-driven way to improve their 
 guides. For example, an author could focus their editing efforts on steps that take a long time to execute or show a high 
@@ -103,9 +105,6 @@ Once you have set up and saved the Guides Analytics Template on your computer, o
 ## Take a tour of reports 
 
 Both the Guides Analytics Template and Guides Analytics Demo files contain two reports: Guides Usage and Process Time-Tracking.
-
-> [!NOTE]
-> The report includes usage data created when a device is online and offline. The offline data appears as soon as a device is back online.
 
 ### Guides Usage report
 
