@@ -2,10 +2,10 @@
 author: Mamaylya
 description: Learn about Microsoft Dynamics 365 Guides tables (entities) that you can use to extend Dynamics 365 if you're a developer.
 ms.author: mamaylya
-ms.date: 12/10/2020
+ms.date: 02/02/2020
 ms.service: crm-online
 ms.topic: article
-title: Dataverse table reference for Dynamics 365 Guides (for developers)
+title: Dataverse table (entity) reference for Dynamics 365 Guides (for developers)
 ms.reviewer: v-brycho
 ---
 
@@ -33,7 +33,9 @@ Dynamics 365 Guides [tables](https://docs.microsoft.com/powerapps/maker/common-d
 | msmrw\_guide | This table stores information about the content of a guide, including its anchor information. |
 | msmrw\_guidecompletionstepobject | This table stores information about the 3D objects that have been added to the completion step of a guide. |
 | msmrw\_guidecompletionstepobjectplacement | This table specifies which 3D objects have been placed in the world in the completion step of a guide. Other information about the 3D objects is also stored. |
-| msmrw\_guideevent | This table is used to track telemetry information for a guide. |
+| msmrw\_guideevent | This table is used to track telemetry information for a guide.<br><br> **Note:** This table will be deprecated in the near future.|
+|msmrw_guidesession |	This table stores information about the duration, progress, and status of an operator's guide sessions.|
+|msmrw_guidesessionstepvisit| This table stores information about every operator visit to a step.|
 | msmrw\_guide\_localized | This table stores localized information for a guide. |
 | msmrw\_guidestep | This table stores content and information about a guide step. |
 | msmrw\_guidestepobject | This table stores information about 3D objects that have been added to a guide step. |
