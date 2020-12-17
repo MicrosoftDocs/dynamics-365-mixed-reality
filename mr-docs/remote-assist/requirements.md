@@ -54,12 +54,12 @@ A Dynamics 365 Remote Assist license includes the following three products neede
 
 * Dynamics 365 Remote Assist 
 * Microsoft Teams
-* Common Data Service (CDS) 
+* Microsoft Dataverse
 
 | **Included with Dynamics 365 Remote Assist license** | **What capabilities are available?**                                                                                                                                                                                                                                                                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Dynamics 365 Remote Assist and Teams**             | Use calling features via the Dynamics 365 Remote Assist app on HoloLens or mobile devices. Features include: </br> - Make a call </br> - Use mixed reality annotations                                             |
-| **Common Data Service**                 | - Access to the Dynamics 365 Remote Assist model-driven app </br> - [Create and manage assets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/asset-capture-overview) either within or outside a Dynamics 365 Remote Assist call </br> - Create and share one-time call links </br> - See analytics and insights based on your call records |
+| **Microsoft Dataverse**                 | - Access to the Dynamics 365 Remote Assist model-driven app </br> - [Create and manage assets](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/asset-capture-overview) either within or outside a Dynamics 365 Remote Assist call </br> - Create and share one-time call links </br> - See analytics and insights based on your call records |
 
 >![Note]: These licenses must be assigned to a native member of the tenant (AAD [member](https://docs.microsoft.com/azure/active-directory/fundamentals/users-default-permissions#member-and-guest-users) account). Dynamics 365 Remote Assist does not support [AAD B2B](https://docs.microsoft.com/azure/active-directory/external-identities/what-is-b2b); an individual cannot sign into Dynamics 365 Remote Assist using a Dynamics 365 Remote Assist license assigned to AAD guest account. 
 
@@ -70,6 +70,7 @@ A Dynamics 365 Remote Assist license includes the following three products neede
 | [OneDrive for Business](https://www.microsoft.com/en-us/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2) | - Share OneDrive files </br> - Send snapshots </br> - Save snapshots to OneDrive                                                                           |
 | Dynamics 365 Field Service                                                                                                     | - Call an expert listed in your field service work order </br> - Save call artifacts (for example, call recording, files shared) to a Field Service work order |
 | Power BI                                                                                                                       | - View a Power BI dashboard embedded in a Field Service work order                                                                                   |
+| Microsoft Stream                 | - [Record Remote Assist calls](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens) either from within the Remote Assist app, or from the Teams client |
 
 
 ### Microsoft Teams app user
@@ -99,7 +100,7 @@ If Dynamics 365 Remote Assist mobile autodetects that the technician is experien
 When using Dynamics 365 Remote Assist on HoloLens, a minimum of 1.5 Mbps up/down is required for peer-to-peer HD quality video calling with resolution of HD 1080p at 30 fps. In general, when more bandwidth is available, quality and usage will increase to deliver the best experience. For **optimal** peer-to-peer HD quality video calling with resolution of HD 1080p, 4-5 Mbps up/down should be expected. However, in some circumstances, even 4-5 Mbps up/down does not guarantee 1080p video calling at full quality. Circumstances include using HoloLens (first gen).
 
 ### URLs and ports
-The following list contains the URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist client.
+The following list contains the *minimum* URL end points and TCP/UDP ports utilized by Dynamics 365 Remote Assist. All must be reachable from the Dynamics 365 Remote Assist client. If you have specialized needs and/or scale, see the [Teams comprehensive list](https://docs.microsoft.com/microsoftteams/prepare-network) for specifics.
 
 #### Teams
 - *.registrar.skype.com

@@ -1,9 +1,9 @@
 ---
 title: Making and taking calls in Dynamics 365 Remote Assist on HoloLens 
 author: sophiasysun
-description: Make call with someone inside or outside your organization, add participant
+description: Make calls with someone inside or outside your organization and add participants with Dynamics 365 Remote Assist on HoloLens
 ms.author: sopsun
-ms.date: 03/15/2020
+ms.date: 12/10/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -39,7 +39,7 @@ If your organization has enabled integration with Dynamics 365 Field Service, yo
 If you don't see the contact you want, select Search and then use the holographic keyboard to enter a name or email address. 
 
 >[!Note]
-> After the intended contact pops up, select the contact to call them. (Minimizing the keyboard will erase your search.)  
+> After the intended contact pops up, select the contact to call them.  
 
 ![Screenshot showing the contacts search results screen on Dynamics 365 Remote Assist for HoloLens.](media/02.06-contacts-search-results.png)
 
