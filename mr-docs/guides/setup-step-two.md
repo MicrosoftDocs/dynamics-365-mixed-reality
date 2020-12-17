@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 12/09/2020
+ms.date: 12/17/2020
 ms.service: crm-online
 ms.topic: article
 title: Create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -151,38 +151,6 @@ In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, y
     > The installation process can take up to one hour. The amount of time varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Installation failed." To try to install again, in the **Error details** dialog box, under **How to troubleshoot**, select the **retry installation** link.
     >
     > ![Error details dialog box](media/failed-solution-install.PNG "Error details dialog box")
-    
-### Troubleshoot solution installation
-
-If you have trouble installing and configuring the solution as described in the previous section, try the following steps instead.
-
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Admin centers**, and then select **Dynamics 365**.
-
-   ![Select Dynamics 365](media/select-dynamics-365-1.PNG "Select Dynamics 365")
-
-2. In the Dynamics 365 Administration Center, select an environment, and then select **Solutions**. 
-
-   ![Solutions button](media/select-solutions-button-1.PNG "Solutions button")
-    
-3. Select the **Dynamics 365 Guides** solution in the list, and then select **Install**.
-
-   ![Install button](media/solutions-install-button.png "Install button")
-
-4. In the **Terms of Service** dialog box, review the terms, and then select **Install**.
-
-    In the Dynamics 365 Administration Center, the following message is shown to indicate that the solution is about to be installed: "Please wait while installation starts. This may take a few minutes."
-    
-    ![Solution installation message](media/installing-solution.png "Solution installation message")
-    
-    While the solution is being installed, **Installation pending** appears in the **Status** field. After the solution has been installed, the **Status** field is updated to **Installed**.
-
-    > [!NOTE]
-    > The installation process can take up to one hour. The amount of time varies, depending on the time of day and the region. If the status hasn't changed after an hour, refresh the page. If the installation is unsuccessful, the following message is shown: "Solution installation failed. Please try again later. If the problem persists, please contact customer support."
-    >
-    > ![Failed installation message](media/failed-install.PNG "Failed installation message")
-
-> [!IMPORTANT]
-> Dynamics 365 Guides data will be stored in the Microsoft Dataverse solution. Before anyone can create and use guides, however, you [must assign appropriate user roles](assign-role.md). 
 
 ## What's next?
 
