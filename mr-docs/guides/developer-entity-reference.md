@@ -21,7 +21,7 @@ Dynamics 365 Guides [tables](https://docs.microsoft.com/powerapps/maker/common-d
 >
 > Additionally, be careful when you programmatically create, update, or delete records for Dynamics 365 Guides tables. Some tables depend on other tables to provide user experiences and functionalities in the PC and HoloLens apps. Programmatic manipulation of these tables might prevent you from using the functionalities in the intended and supported way.
 
-## Dynamics 365 Guides entities
+## Dynamics 365 Guides tables
 
 | Table name | Description |
 |-------------|-------------|
