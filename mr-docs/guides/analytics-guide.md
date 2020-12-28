@@ -142,6 +142,9 @@ The Guides Usage report provides an overview of all the guides used in your orga
     - **Filter on completion status.** There are many ways to define whether a guide session is “complete”. For example, it may be important that the operator visited a completion step. Alternatively, you may want to check that a minimum percentage of steps were visited in the session. You can filter on these items separately or together. 
 
     - **Filter on role.** In most cases, you’ll want to filter guides by Operator role. You may want to filter by Author when you’d like to see data from sessions where an Author is previewing their guide and experiencing it as an operator would.    
+    
+> [!IMPORTANT]
+> If sessions have any missing data, they're not included in the Guides Analytics reports. For example, sessions that are currently in progress or that are comprised solely of visits to the alignment step will not be included. On rare occasions, session data can be lost due to connectivity or other technical issues, resulting in one or more step visits not being correctly recorded or the guide session being interrupted. In these cases, the session is excluded from the reports.
 
 ### Process Time-Tracking report
 
@@ -164,10 +167,12 @@ Use the Process Time-Tracking report to analyze step-level run-time data for a s
    
 3.	How long are individual steps on average? 
 
-    This table shows you the task and steps for the selected guide. You can select the average step time or standard deviation columns to quickly find the longest/shortest steps or steps with most/least variability in time (standard deviation). Select a row of this table to filter all the visuals in the report to just that step.
+    This table shows you the task and steps for the selected guide. You can select the average step time or standard deviation columns to quickly find the longest/shortest steps or steps with most/least variability in time (standard deviation). If a step is visited multiple times in the same session, the total time spent on that step will be used in the step average calculation. If a step is visited multiple times in the same session, the total time spent on that step will be used in the step average calculation. Select a row of this table to filter all the visuals in the report to just that step.
+    
+    Note that the report does not provide times for alignment and completion steps.
     
     > [!TIP]
-    > - To sort by multiple columns, hold the Shift key down while you select to add another column to the sort order. This is useful if you want to sort by task and step number. [Learn more about how to change the sort order in a Power BI report](https://docs.microsoft.com/power-bi/consumer/end-user-change-sort).   
+    > - To sort by multiple columns, hold the Control key down while you select to add another column to the sort order. This is useful if you want to sort by task and step number. [Learn more about how to change the sort order in a Power BI report](https://docs.microsoft.com/power-bi/consumer/end-user-change-sort).   
     > - To use multiple rows as filters, hold down the Shift key while you select each row. [Learn more about how to multi-select data elements in Power BI Desktop](https://docs.microsoft.com/power-bi/create-reports/desktop-multi-select).
    
 4.	Which sessions are the longest/shortest? 
@@ -198,6 +203,9 @@ See the tips in the previous step for sorting by multiple columns or using multi
      - **Filter out the outliers.** Unusually long step times can stretch the y-axis of the time-per-step line chart, which can make the 
    majority of data difficult to see. Use this slider to set the range of step times you want to visualize across the report so you 
    can ignore the outliers.  
+   
+> [!IMPORTANT]
+> If sessions have any missing data, they're not included in the Guides Analytics reports. For example, sessions that are currently in progress or that are comprised solely of visits to the alignment step will not be included. On rare occasions, session data can be lost due to connectivity or other technical issues, resulting in one or more step visits not being correctly recorded or the guide session being interrupted. In these cases, the session is excluded from the reports.
 
 ## Share the Guides Analytics reports 
 
