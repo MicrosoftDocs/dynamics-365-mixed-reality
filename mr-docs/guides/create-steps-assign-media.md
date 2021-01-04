@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Create steps and add 3D content or media to support those steps in the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 09/09/2020
+ms.date: 02/23/2020
 ms.service: crm-online
 ms.topic: article
 title: Create steps and add 3D models or media in the Dynamics 365 Guides PC app
@@ -183,6 +183,18 @@ You can preview an image, video, or 3D model on the right side of the PC app and
     ![Properties tab for previewing image, video, or 3D model](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
     
     The image and its properties are displayed on the right side of the screen.
+    
+## Deactivate and reactivate specific content
+
+You can deactivate an image, video, or 3D part from the PC app. This hides the content in the library without affecting existing guides that use that content. The content is not physically deleted and can be reactivated through the Guides Hub by an administrator.
+ 
+1  Right-click the image, video, or 3D part.
+
+2. Select **Deactivate**.
+
+    ![Deactivate command](media/deactivate-content.PNG "Deactivate command")
+
+To reactivate the content, see [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md).
 
 ## What's next?
 
