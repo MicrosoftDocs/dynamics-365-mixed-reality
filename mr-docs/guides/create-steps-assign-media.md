@@ -188,7 +188,7 @@ You can preview an image, video, or 3D model on the right side of the PC app and
 
 You can deactivate an image, video, or 3D part in the PC app. This hides the content in the library without affecting existing guides that use that content. The content is not physically deleted and can be [reactivated through the Guides Hub by an administrator](admin-deactivate-guide.md).
  
-1  Right-click the image, video, or 3D part.
+1.  Right-click the image, video, or 3D part.
 
 2. Select **Deactivate**.
 
