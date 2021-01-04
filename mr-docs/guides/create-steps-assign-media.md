@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Create steps and add 3D content or media to support those steps in the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 02/23/2020
+ms.date: 02/23/2021
 ms.service: crm-online
 ms.topic: article
 title: Create steps and add 3D models or media in the Dynamics 365 Guides PC app
