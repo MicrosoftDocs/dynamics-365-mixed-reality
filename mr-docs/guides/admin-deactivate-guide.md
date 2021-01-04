@@ -2,14 +2,14 @@
 author: Mamaylya
 description: Learn how to activate, deactivate, or delete a guide if you're a Microsoft Dynamics 365 Guides admin.
 ms.author: mamaylya
-ms.date: 02/25/2020
+ms.date: 02/23/2021
 ms.service: crm-online
 ms.topic: article
 title: Activate, deactivate, or delete a guide in Dynamics 365 Guides (for admins)
 ms.reviewer: v-brycho
 ---
 
-# Activate, deactivate, or delete a guide in Dynamics 365 Guides (admins)
+# Activate, deactivate, or delete a guide or guide content in Dynamics 365 Guides (admins)
 
 If [a guide has been deactivated](pc-app-deactivate-guide.md) in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can reactivate it if you're an admin. When you reactivate a guide, it immediately becomes available for authors to open or edit in the PC app.
 
