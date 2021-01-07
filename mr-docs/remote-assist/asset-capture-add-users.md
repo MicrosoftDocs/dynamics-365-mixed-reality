@@ -1,7 +1,7 @@
 ---
 title: Add users to the Dynamics 365 Remote Assist model-driven app
 author: dhgoelmsft
-description: Learn how to add users to the model-driven Dynamics 365 Remote Assist app
+description: Learn how to add users to the model-driven Dynamics 365 Remote Assist app.
 ms.author: dhgoel
 ms.date: 09/23/2020
 ms.service: crm-online
@@ -45,7 +45,7 @@ More information: [Assign licenses to users](https://docs.microsoft.com/microsof
 
 Security roles define how different users, such as service technicians, access different types of records. To enable asset capture, security roles must be assigned to each user.
 
-1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+1. Sign in to the Microsoft [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
 2. Select **Environments**, find the environment that Dynamics 365 Remote Assist is installed in, and then select **More environment actions** !["More environment actions"](./media/ellipsis.png "More environment actions").
 3. Select **Settings**, and then select **Users + permissions** > **Users**.
 4. From the top toolbar, select **Manage users in Dynamics 365**.
