@@ -31,7 +31,7 @@ Before you can modify user roles, the following prerequisites must be in place:
 
 - The latest Dynamics 365 Guides solution is installed. For more information, see [Upgrade to the latest solution](upgrade.md).
 
-- You have access to the Power Platform admin center and have full admin privileges.
+- You have access to the Microsoft Power Platform admin center and have full admin privileges.
 
 ## Assign user roles
 
@@ -78,7 +78,7 @@ Before you can modify user roles, the following prerequisites must be in place:
 
     ![Author and Operator check boxes](media/select-role.PNG "Author and Operator check boxes")
     
-10. If you want the user to have admin privileges, select the **System Administrator**check box. 
+10. If you want the user to have admin privileges, select the **System Administrator** check box. 
     
 ## Troubleshooting
 
