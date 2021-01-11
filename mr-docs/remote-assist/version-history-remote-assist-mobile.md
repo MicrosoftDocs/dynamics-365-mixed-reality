@@ -20,6 +20,14 @@ search.app:
 
 # Dynamics 365 Remote Assist mobile version history
 
+## iOS - 2021.1.8 + Android - 2021.01.05
+
+Date: January 2021
+
+### Bug fixes
+
+- Important bug fixes and stability improvements.
+
 ## iOS - 2020.12.09 + Android - 2020.12.09
 
 Date: December, 2020
