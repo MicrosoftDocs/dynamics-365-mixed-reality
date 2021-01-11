@@ -16,6 +16,15 @@ search.app:
   - MRRA
   - MRRA
 ---
+# Dynamics 365 Remote Assist HoloLens version history
+
+## HoloLens 1 & 2 – 301.2101.6001
+
+Date: January 2021
+
+### Bug fixes
+
+- Important bug fixes and stability improvements.
 
 # Dynamics 365 Remote Assist HoloLens version history
 
