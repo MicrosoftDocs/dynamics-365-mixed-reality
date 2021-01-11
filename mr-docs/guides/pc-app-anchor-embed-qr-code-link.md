@@ -38,8 +38,6 @@ to the same QR code.
     > [!NOTE] You can also [copy a link to a step in a guide](pc-app-copy-link-guide-step.md).
 
 2. Open a third-party QR code generator. Microsoft recommends the following third-party QR code generators:
-
-    - [http://goqr.me/](http://goqr.me/)    
     
     - [https://www.qr-code-generator.com/](https://www.qr-code-generator.com/)
     
@@ -49,8 +47,6 @@ to the same QR code.
     > When you use any third-party QR code generator, the QR code generator receives access to the string of your guides link.
     
 3. Copy the link from step 1 and paste it into the third-party QR code generator.
-
-     ![Example QR code generator](media/embed-qr-code-generator.PNG "Example QR code generator")
 
 4. Generate the QR code. We recommend using the following settings:
 
