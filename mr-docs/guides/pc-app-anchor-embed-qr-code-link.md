@@ -61,8 +61,6 @@ to the same QR code.
 
 5. Download the QR code. We recommend downloading as a JPEG file.
 
-     ![Download button in example QR code generator](media/embed-qr-code-download.PNG "Download button in example QR code generator")
-
 6. Do one of the following:
 
     - Add the digital QR code to a digital document and then make the digital document available to your operators.
