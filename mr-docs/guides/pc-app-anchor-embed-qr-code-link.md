@@ -37,7 +37,7 @@ to the same QR code.
     
     > [!NOTE] You can also [copy a link to a step within a guide](pc-app-copy-link-guide-step.md).
 
-2. Open a third-party QR code generator. Examples of third-party QR code generators:
+2. Open a third-party QR code generator. Examples of third-party QR code generators include the following:
     
     - [https://www.qr-code-generator.com/](https://www.qr-code-generator.com/)
     
