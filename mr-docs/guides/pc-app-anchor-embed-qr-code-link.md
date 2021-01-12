@@ -55,7 +55,7 @@ to the same QR code.
     
     - **Foreground color:** Black (Hex#000000)
     
-    - **Background color:** Hex#BBBCBF. This provides a 30% gray background to help improve the contrast of the QR code. This setting provides the best adaptability for a wide variety of environments and lighting conditions. If you have trouble detecting an anchor that you provide, try adjust the anchor's image brightness to match the average environmental brightness around the anchor. 
+    - **Background color:** Hex#BBBCBF. This provides a 30% gray background to help improve the contrast of the QR code. This setting provides the best adaptability for a wide variety of environments and lighting conditions. If you have trouble detecting an anchor that you provide, try adjusting the anchor's image brightness to match the average environmental brightness around the anchor. 
     
     > [!NOTE]
     > These settings may not be available in all third-party generators.
