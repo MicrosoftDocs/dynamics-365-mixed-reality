@@ -35,7 +35,7 @@ to the same QR code.
 
     ![Example QR code generator](media/embed-qr-code-link-copy-link.PNG "Example QR code generator")
     
-    > [!NOTE] You can also [copy a link to a step in a guide](pc-app-copy-link-guide-step.md).
+    > [!NOTE] You can also [copy a link to a step within a guide](pc-app-copy-link-guide-step.md).
 
 2. Open a third-party QR code generator. Examples of third-party QR code generators:
     
