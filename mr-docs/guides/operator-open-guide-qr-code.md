@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Learn how to open a guide in Dynamics 365 Guides, if you're an operator, by scanning a QR code
+description: Learn how to open a guide in Dynamics 365 Guides, if you're an operator, by scanning a QR code.
 ms.author: mamaylya
 ms.date: 01/14/2021
 ms.service: crm-online
@@ -23,7 +23,7 @@ You can open a guide in Microsoft Dynamics 365 Guides by scanning a QR code that
     > [!NOTE]
     > If you're not sure if you're at mixed reality home, [open the **Start** menu](https://docs.microsoft.com/hololens/hololens2-basic-usage#start-menu-mixed-reality-home-and-app), and then look for the **Home** button at the bottom of the menu. If the **Start** menu doesn't have a **Home** button, you're already at mixed reality home.
     
-     ![Screen shot of mixed reality home](media/qr-code-open-mixed-reality-home.PNG "Screen shot of mixed reality home")
+     ![Screenshot of mixed reality home](media/qr-code-open-mixed-reality-home.PNG "Screen shot of mixed reality home")
 
 2. Gaze at the QR code. When a green outline appears with a play button, press the play button. 
 
@@ -50,8 +50,8 @@ You can open a guide in Microsoft Dynamics 365 Guides by scanning a QR code that
  
     > [!NOTE]
     > When you open a guide by using a QR code with an embedded link, the guide isn't automatically anchored. After you open the guide, you have to anchor it using the anchor
-    provided by the author of the guide. After you anchor the guide for the first time, it will remember it’s spatial position the next time you open it, however. 
-    If it remembers your anchor alignment, you will still need to confirm it's in the correct position. [Learn more about anchoring a guide](operator-anchor.md).
+    provided by the author of the guide. After you anchor the guide for the first time, it will remember it’s spatial position the next time you open it. 
+    If it remembers your anchor alignment, you will still need to confirm that it's in the correct position. [Learn more about anchoring a guide](operator-anchor.md).
     
     ![Example of Confirm button for confirming anchor position](media/qr-code-open-confirm-anchor.PNG "Example of Confirm button for confirming anchor position")
     
