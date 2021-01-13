@@ -35,14 +35,5 @@ You might want to create and copy a link to a guide or a step in [!include[cc-mi
 
 ## What's next?
 
-[Overview of authoring a guide with the PC app](pc-app-overview.md)<br>
-[Install and sign in to the PC app](install-sign-in-pc-app.md)<br>
-[Create a guide](create-guide.md)<br>
-[Anchor your guide to the real world](anchor.md)<br>
-[Structure your guide on the Outline page](structure-guide.md)<br>
-[Create steps and add 3D content or 2D media](create-steps-assign-media.md)<br>
-[Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
-[Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
-[Deactivate a guide](pc-app-deactivate-guide.md)<br>
-[Learn what makes a great mixed reality guide](great-guide.md)
+[Embed a link in a QR code to make it easy to open a guide](pc-app-anchor-embed-qr-code-link.md)
 
