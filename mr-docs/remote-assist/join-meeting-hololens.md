@@ -27,11 +27,5 @@ To join a meeting, select **Join Meeting**, or say "Remote Assist, Join Meeting"
 
 After you join a meeting, you or the Teams user can add more people to the meeting. Select **Open Participants** (as represented by this icon: ![Graphic showing the open participants icon.](media/RAHL_Participants.png)). You'll see the first person you called on the left side of the video card, and a list of participants on the right side of the video card. On the bottom of the video card, there's a text field. Select the text field, and a holographic keyboard will pop out. A list of your recent contacts will appear. If the person you'd like to call isn't on the list, enter a name or email address using the holographic keyboard, and then select a name in the search results to start the call.
 
-## Tip for setting up a meeting 
-
 > [!NOTE]
-> Dynamics 365 Remote Assist currently enables lobby support to allow Teams desktop users into meetings from the lobby. 
-> To ensure that Teams desktop users can successfully join a meeting, follow these steps:
-> - A dialog box will appear stating **Someone in the meeting should let you in soon.**
-> - Select **Admit**.
-> - The Teams desktop user will be successfully admitted into the meeting. 
+> Dynamics 365 Remote Assist supports the Teams lobby on HoloLens. A Dynamics 365 Remote Assist user in HoloLens joining a meeting might go to the lobby. In that case, the user will see the message “Someone in the meeting should let you in soon” until a meeting participant on Teams admits them.
