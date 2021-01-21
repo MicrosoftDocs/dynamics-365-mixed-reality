@@ -10,9 +10,9 @@ You can turn on narration through Settings or by using a voice command.
 
 Narration uses the built-in HoloLens Text-to-Speech system. Text is narrated for any default language that supports Text to Speech.  
 
-## Turn narration on in Settings
+## Turn narration on or off in Settings
 
-If you turn on narration in Settings, narration will stay on until you turn if off through Settings or a voice command.
+If you turn narration on or off in Settings, narration will stay on or off for the current and subsequent steps.
 
 - In the **Settings** dialog box, move the **Narration** slider to the on position.
 
