@@ -29,7 +29,11 @@ Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] ap
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
-| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/extend-analytics-capabilities-guides-insights" target="_blank">Extend analytics capabilities with new time-tracking entities</a> | Yes |
+| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/extend-analytics-capabilities-guides-insights" target="_blank">Extend analytics capabilities with new guide operation data tables</a> | Yes |
+| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Gain insights into guide usage with the updated Guides Analytics Power BI reports. </a> | Yes |
+| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Improvement in how data is stored in the Microsoft Dataverse</a> | Yes |
+| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Narrated instruction text through HoloLens</a> | Yes |
+| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Updated Dynamics 365 Guides demo</a> | Yes |
 
 > [!IMPORTANT]
 > If you're an integrator and you have used custom security roles in your implementations, you'll need to edit those security roles. See [information about version 500.3.1.x for integrators](https://community.dynamics.com/365/guides/f/dynamics-365-guides-forum/413710/information-about-guides-version-500-3-1-x-update-for-integrators).
