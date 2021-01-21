@@ -1,6 +1,6 @@
 
 
-# Have HoloLens narrate instructions in Dynamics 365 Guides
+# Have HoloLens narrate Dynamics 365 Guides instructions
 
 You can turn on narration to have Microsoft HoloLens read steps out loud when you're operating a guide in Dynamics 365 Guides. You can use narration when you're anchoring a 
 guide or whenever you're working with an instruction, question, or completion step. This is useful if you don’t want your workflow to be interrupted by having to constantly look
