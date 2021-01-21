@@ -27,6 +27,6 @@ Use the commands in the following table to turn voice commands on or off.
 |Response 1| Select Response 1. Replace "1" with "2" or "3" to go to Response 2 or 3.  |
 |Response 1 Text|Select Response 1 text. Replace "1" with "2" or "3" to go to Response 2 or 3 text.|
 |Narration On |Start narration and continue until narration is turned off through a voice commmand or in Settings.<br><br>If narration is already on when you use this voice command, the narrator will repeat the current step.| 
-|Narration Off| Turn off narration for current and all subsequent steps. |
+|Narration Off| Turn off narration for current and subsequent steps. |
 
  
