@@ -18,7 +18,7 @@ If you turn on narration in Settings, narration will stay on until you turn if o
 
    ![Narration setting](media/narration-setting.PNG "Narration setting")
 
-## Turn narration on by using a voice command
+## Turn narration on or off by using a voice command
 
 Use the commands in the following table to turn voice commands on or off.
 
