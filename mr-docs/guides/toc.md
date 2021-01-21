@@ -84,6 +84,7 @@
 #### [Turn off holograms](operator-holograms-off.md)
 #### [Work offline](operator-offline-mode.md)
 #### [Voice commands](voice-commands.md)
+#### [Have HoloLens narrate instructions](operator-narrator.md)
 ## [Analyze your guides](analytics-guide.md)
 ## Convert 3D models to use as holograms
 ### [Overview of converting 3D models](3d-content-guidelines/index.md)
