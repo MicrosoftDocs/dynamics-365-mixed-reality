@@ -31,8 +31,8 @@ Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] ap
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/extend-analytics-capabilities-guides-insights" target="_blank">Extend analytics capabilities with new time-tracking entities</a> | Yes |
 
-> [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+> [!IMPORTANT]
+> If you're an integrator and you have used custom security roles in your implmentations, you'll need to edit those sercurity roles. See [information about version 500.3.1.x for integrators](https://community.dynamics.com/365/guides/f/dynamics-365-guides-forum/413710/information-about-guides-version-500-3-1-x-update-for-integrators).
 
 ## December 8, 2020
 
@@ -41,6 +41,9 @@ Version 502.2011.28001 of the PC and [!include[pn-hololens](../includes/pn-holol
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Improved experience finding guides in the PC app</a> | No |
+
+> [!NOTE]
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
 ## October 27, 2020
 
