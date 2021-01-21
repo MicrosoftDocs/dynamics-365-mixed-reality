@@ -16,7 +16,7 @@ If you turn on narration in Settings, narration will stay on until you turn if o
 
 - In the **Settings** dialog box, move the **Narration** slider to the on position.
 
-SCREEN SHOT GOES HERE
+   ![Narration setting](media/narrator-setting.PNG "Narration setting")
 
 ## Turn narration on by using a voice command
 
