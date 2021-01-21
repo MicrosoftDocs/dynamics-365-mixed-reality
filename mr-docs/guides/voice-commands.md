@@ -101,6 +101,17 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 | 13 | ![Pause button](media/pause-button.png "Pause button") | "Pause video" | Pause the video. |
 | 14 | ![Restart guide button](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.</p> |
 
+### Narration
+
+You can use the built-in HoloLens Text-to-Speech system to have HoloLens read instructions out loud.
+
+
+
+|Response 1| Select Response 1. Replace "1" with "2" or "3" to go to Response 2 or 3.  |
+|Response 1 Text|Select Response 1 text. Replace "1" with "2" or "3" to go to Response 2 or 3 text.|
+|Narration On |Start narration for current and subsequent steps.<br><br>If narration is already on when you say this voice command, the narrator will repeat the instructions for the current step.| 
+|Narration Off| Turn off narration for current and subsequent steps. |
+
 ### Outline, guide list, and instance list
 
 ![Task list page that shows scroll up and scroll down buttons](media/voice-lists.PNG "Task list page that shows scroll up and scroll down buttons")
