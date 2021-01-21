@@ -25,7 +25,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## February 2, 2021
 
-Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version XXX include the following new feature.
+Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version XXX include the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
