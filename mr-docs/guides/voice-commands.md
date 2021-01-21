@@ -105,8 +105,8 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 You can use the built-in HoloLens Text-to-Speech system to have HoloLens read instructions out loud.
 
-
-
+|Voice command |Action| 
+|----------------------------|-----------------------------------------------------------------|
 |Response 1| Select Response 1. Replace "1" with "2" or "3" to go to Response 2 or 3.  |
 |Response 1 Text|Select Response 1 text. Replace "1" with "2" or "3" to go to Response 2 or 3 text.|
 |Narration On |Start narration for current and subsequent steps.<br><br>If narration is already on when you say this voice command, the narrator will repeat the instructions for the current step.| 
