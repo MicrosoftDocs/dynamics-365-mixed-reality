@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: mamaylya
-ms.date: 12/15/2020
+ms.date: 01/20/2020
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -29,7 +29,7 @@ Version 502.2011.28001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Improved experience finding guides in the PC app</a> | No |
+| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/improved-experience-finding-guides-pc-app" target="_blank">Improved experience finding guides in the PC app</a> | No |
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
