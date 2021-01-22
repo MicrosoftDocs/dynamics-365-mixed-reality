@@ -90,7 +90,7 @@ To fix this issue, we recommend that you first try to update the guide schema fr
 >[!NOTE]
 >If the issue isn't fixed when you update the guide schema, the guide's JSON file has probably been edited in a way that isn't supported (for example, too many 3D objects have been programmatically added to the **Step Editor** bin). Contact the Dynamics 365 Guides team directly for guidance, through your Microsoft Account team.
 
-### Manually upgrade content to Image schema v1
+### Manually upgrade content to schema v1
 
 The 504.0.0.0 Guides solution update changes the way guide content (images, videos, and 3D objects) is stored in the Dataverse. With this update, each file is stored along with the row instead of as a note attachment. This significantly improves performance when loading content and allows you to access asset files more easily on the Power Platform. 
 
