@@ -60,8 +60,6 @@ If a guide wasn't successfully converted, authors or operators will receive the 
 
 ![Guide can't be opened message](media/guide-not-opened.png "Guide can't be opened message")
 
-### Manually update a guide from schema v3 to v4
-
 To fix this issue, we recommend that you first try to update the guide schema from v3 to v4.  
 
 > [!NOTE]
