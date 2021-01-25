@@ -26,7 +26,8 @@ Use the commands in the following table to turn voice commands on or off or to s
 |----------------------------|-----------------------------------------------------------------|
 |Narration On |Start narration for current and subsequent steps.<br><br>If narration is already on when you say this voice command, the narrator will repeat the instructions for the current step.| 
 |Narration Off| Turn off narration for current and subsequent steps. |
-|Response *Number*| Select response *number*. For example, say **Response 1** to go to the first response. |
-|Response *Number* Text|Select response *number* text. For example, say **Response 1 Text** to go to the first response text.|
+|Narrate Step| Turns narration on for a single step.|
+|Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1". |
+|Response *Number* Text| Select the response in a question card indicated by the label position for that response. For example, if the label for first response has been changed by the author to "Beginner" instead of "Response 1", say **Response 1 Text** to select that response.|
 
  
