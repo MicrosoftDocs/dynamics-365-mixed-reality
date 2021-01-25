@@ -26,7 +26,7 @@ Use the commands in the following table to turn voice commands on or off or to s
 |----------------------------|-----------------------------------------------------------------|
 |Narration On |Start narration for current and subsequent steps.<br><br>If narration is already on when you say this voice command, the narrator will repeat the instructions for the current step.| 
 |Narration Off| Turn off narration for current and subsequent steps. |
-|Response *x*| Select response *x*. For example, say **Response 1** to go to the first response. |
-|Response *x* Text|Select response *x* text. For example, say **Response 1 Text** to go to the first response text.|
+|Response *Number*| Select response *x*. For example, say **Response 1** to go to the first response. |
+|Response *Number* Text|Select response *x* text. For example, say **Response 1 Text** to go to the first response text.|
 
  
