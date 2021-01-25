@@ -24,7 +24,7 @@ Use the commands in the following table to turn voice commands on or off or to s
 
 |Voice command |Action| 
 |----------------------------|-----------------------------------------------------------------|
-|Narration On |Start narration for current and subsequent steps.<br><br>If narration is already on when you say this voice command, the narrator will repeat the instructions for the current step.| 
+|Narration On |Start narration for current and subsequent steps.<br><br>If narration is already turned on when you say this voice command, the narrator will repeat the instructions for the current step.| 
 |Narration Off| Turn off narration for current and subsequent steps. |
 |Narrate Step| Turns narration on for a single step.|
 |Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1". |
