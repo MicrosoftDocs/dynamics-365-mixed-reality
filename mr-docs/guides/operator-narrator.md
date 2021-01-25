@@ -20,7 +20,7 @@ If you turn narration on or off in Settings, narration will stay on or off for t
 
 ## Use voice commands to turn narration on or off or to select a response in a question card
 
-Use the commands in the following table to turn voice commands on or off or to select a response in a question step.
+Use the commands in the following table to turn voice commands on or off or to select a response in a question card.
 
 |Voice command |Action| 
 |----------------------------|-----------------------------------------------------------------|
