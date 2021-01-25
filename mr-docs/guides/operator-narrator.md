@@ -8,7 +8,7 @@ up at the instruction card.
 
 You can turn on narration through Settings or by using a voice command.
 
-Narration uses the built-in HoloLens Text-to-Speech system. Text is narrated for any default language that supports Text to Speech.  
+Narration uses the built-in HoloLens Text-to-Speech system. Narration is read in the default language set for the HoloLens device.
 
 ## Turn narration on or off in Settings
 
