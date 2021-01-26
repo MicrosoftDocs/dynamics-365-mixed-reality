@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 3 of the setup process for Microsoft Dynamics 365 Guides. In this step, you download and install the PC and HoloLens apps.
 ms.author: mamaylya
-ms.date: 07/23/2020
+ms.date: 01/26/2021
 ms.service: crm-online
 ms.topic: article
 title: Download and install the Dynamics 365 Guides apps (PC and HoloLens)
