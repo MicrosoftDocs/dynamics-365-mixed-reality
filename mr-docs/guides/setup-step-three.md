@@ -42,6 +42,19 @@ If you're an admin, and your company uses [!include[cc-microsoft](../includes/cc
 
 ### Install the HoloLens app
 
+#### HoloLens 2
+
+Dynamics 365 Guides is pre-installed on all HoloLens 2 devices and is pinned to the **Start** menu. Use the [Start gesture](operator-gestures-HL2.md) to open the **Start** menu. 
+
+> [!NOTE]
+> If Dynamics 365 Guides isn't pinned to the **Start** menu, select the **All apps** button to find it. 
+
+Update the HoloLens app from the Microsoft Store as needed.
+
+We recommend that you update HoloLens to newer versions when they become available. For information about how to use Windows Update for Business, see [Manage updates to HoloLens](https://docs.microsoft.com/hololens/hololens-update-hololen). You can also manually update your HoloLens. 
+
+#### HoloLens 1
+
 1. Make sure that [!include[pn-hololens](../includes/pn-hololens.md)] is running build 10.0.17134 or later. We recommend that you update [!include[pn-hololens](../includes/pn-hololens.md)] to newer versions when they become available. For information about how to use [!include[pn-ms-windows-short](../includes/pn-ms-windows-short.md)] Update for Business, see [Manage updates to HoloLens](https://docs.microsoft.com/HoloLens/hololens-updates).
 
 2. On your [!include[pn-hololens](../includes/pn-hololens.md)], use the bloom gesture to open the **Home** menu. Then open the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store app, and search for "[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]."
