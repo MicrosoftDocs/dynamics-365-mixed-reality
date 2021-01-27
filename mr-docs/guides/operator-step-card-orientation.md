@@ -37,7 +37,7 @@ Here's a description of the buttons and other UI elements on the Step card.
 | 5 | ![Profile button](media/profile-button.PNG "Profile button") | Profile | Sign in and out. |
 | 6 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide. The following illustration shows the **Outline** page for a Pylon wiring guide.</p><p>![Outline page](media/outline-operator.PNG "Outline page")</p> |
 | 7 | ![Step counter](media/step-progress.PNG "Step progress") | Step counter | Shows what step you're on in the task. |
-| 8 | ![Task name](media/task-name-table.PNG "Task name") | Task name | Shows the name of the task that you're working on. |
+| 8 | ![Task name](media/task-name-table.png "Task name") | Task name | Shows the name of the task that you're working on. |
 | 9 | ![Action button](media/action-button.PNG "Action button") | Action button | Opens a website or Power Apps link. |
 
 ## What's next?
