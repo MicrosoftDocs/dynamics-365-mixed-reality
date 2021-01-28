@@ -1,8 +1,8 @@
 
 
-# Share Guides Analytics reports in Dynamics 365 Guides
+# Share Guides Analytics reports with other Dynamics 365 Guides users
 
-If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, you can share your Guides Analytics [!include[pn-power-bi](../includes/pn-power-bi.md)] reports 
+If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, you can share your [Guides Analytics Power BI reports](analytics-guide.md) 
 within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with 
 a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the report through the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service web 
 interface accessible at https://powerbi.microsoft.com.
@@ -20,13 +20,13 @@ involves the following well-documented steps:
 
 ## See also
 
-- [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
-
-- [What data is collected and how can you use it?](analytics-data-collected.md)
-
 - [Overview of Guides Analytics Power BI templates](analytics-guide.md)
 
 - [Set up Guides Analytics reports](analytics-ga-setup.md)
 
 - [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
+
+- [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
+
+- [What data is collected and how can you use it?](analytics-data-collected.md)
 
