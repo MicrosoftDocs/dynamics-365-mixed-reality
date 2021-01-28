@@ -9,7 +9,7 @@ title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Overview of Guides Analytics for Dynamics 365 Guides
+# Overview of Guides Analytics Power BI templates for Dynamics 365 Guides
 
 Guides Analytics is part of the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] application suite that includes the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app and the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app. Use Guides Analytics to analyze the usage of guides across your organization. Guides Analytics consists of [!include[pn-power-bi](../includes/pn-power-bi.md)] templates that you can connect to your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] session data stored securely in your [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. These reports are templates to help you get started analyzing your guide session data and can serve as inspiration as you build your own customized reports. 
 
