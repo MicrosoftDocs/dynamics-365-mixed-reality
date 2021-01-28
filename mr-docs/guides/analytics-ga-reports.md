@@ -2,7 +2,7 @@
 
 # Take a tour of Guides Analytics reports for Dynamics 365 Guides
 
-Dynamics 365 Guides comes with two Power BI reports that you can use to analyze guide usage in Dynamics 365 Guides:
+Dynamics 365 Guides comes with two Power BI reports that you can use to analyze guide usage in your organization:
 
 - Guide Usage report
 
