@@ -1,6 +1,6 @@
 
 
-# Share the Guides Analytics reports in Dynamics 365 Guides
+# Share Guides Analytics reports in Dynamics 365 Guides
 
 If you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, you can share your Guides Analytics [!include[pn-power-bi](../includes/pn-power-bi.md)] reports 
 within your organization by publishing them to the [!include[pn-power-bi](../includes/pn-power-bi.md)] Service. This allows anyone in your organization with 
