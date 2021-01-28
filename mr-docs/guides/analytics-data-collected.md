@@ -22,7 +22,7 @@ Storing data about the operations of your guides in easy-to-access Microsoft Dat
 
 - **Monitor completion status of a guide and trigger workflows.** The Guide Session table includes measurements of guide completion status that you can use with Microsoft Power Automate to, for example, send notifications when an operator has completed a guide. Given that there are many ways to define whether a guide session is complete, the Guide Session table provides two different measurements that you can use individually or together as appropriate for your use case:
 
-    - The first guide completion measurement is stored in the **Percent Of Steps Visited** column of the Guide Session table and is calculated by taking the number of unique visited steps in a session and dividing by the total number of steps in the guide. This measurement is particularly useful for linear guides in which you expect operators to visit every step. 
+    - The first guide completion measurement is stored in the **Percent Of Steps Visited** column and is calculated by taking the number of unique visited steps in a session and dividing by the total number of steps in the guide. This measurement is particularly useful for linear guides in which you expect operators to visit every step. 
     
     - The second completion measurement is stored in the **Visited Completion Step** column and defines whether a completion step was visited during the guide session. If the guide has multiple completion steps, this will be a **Yes** value if any one of the completion steps was visited during the session.  
 
