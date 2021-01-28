@@ -38,9 +38,16 @@ These reports provide information about operator adoption and usage and give gui
  
 ## See also
 
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide](authoring-overview.md)</br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of operating a guide](operator-overview.md)</br>
-![Doc graphic](media/doc-icon.PNG "Doc graphic") [FAQ](faq.md)
+- [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
+
+- [What data is collected and how can you use it?](analytics-data-collected.md)
+
+- [Set up Guides Analytics reports](analytics-ga-setup.md)
+
+- [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
+
+- [Share Guides Analytics reports](analytics-ga-share-reports.md)
+
 
 
 
