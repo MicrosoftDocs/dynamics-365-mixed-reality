@@ -6,7 +6,7 @@ When an operator uses the Microsoft Dynamics 365 Guides HoloLens app in Operate 
 
 - Guide Session
 
-- Guide Session Step Visit.  
+- Guide Session Step Visit  
 
 ## Guide Session table 
 
