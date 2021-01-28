@@ -41,6 +41,6 @@ SCREEN SHOT GOES HERE
 
 ## See also
 
-[Can I opt out of storing Guides operations data in the Microsoft Dataverse?](admin-data-opt-out.md) 
+[Can I opt out of storing Guides operations data in the Microsoft Dataverse?](data-opt-out.md) 
 
  
