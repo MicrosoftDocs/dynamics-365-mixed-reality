@@ -2,7 +2,13 @@
 
 # Take a tour of Guides Analytics reports for Dynamics 365 Guides
 
-Once you have set up and saved the Guides Analytics Template on your computer, open [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop, and then open your saved 
+Dynamics 365 Guides comes with two Power BI reports that you can use to analyze guide usage in Dynamics 365 Guides:
+
+- Guide Usage report
+
+- Process Time-tracking report
+
+Once you have [set up and saved the Guides Analytics Template](analytics-ga-setup.md) on your computer, open [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop, and then open your saved 
 report. [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop has a **File – Open – Recent** items list that's convenient for finding your previously 
 opened reports.  
 
