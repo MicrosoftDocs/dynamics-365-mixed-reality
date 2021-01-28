@@ -9,7 +9,7 @@ title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 ms.reviewer: v-brycho
 ---
 
-# Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
+# Opt out of storing Dynamics 365 Guides operations data in Microsoft Dataverse
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
