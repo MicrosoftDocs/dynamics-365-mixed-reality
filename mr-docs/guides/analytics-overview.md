@@ -13,7 +13,7 @@ Guides Analytics is part of the  Dynamics 365 Guides application suite that incl
 
 - [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
 
-- [Learn about what data is collected and how to use it](analytics-data-collected.md)
+- [What data is collected and how can you use it?](analytics-data-collected.md)
 
 - [Overview of Guides Analytics Power BI templates](analytics-guide.md)
 
