@@ -41,8 +41,6 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides by using Power BI reports](https://aka.ms/guidesanalyze)
-
 ### Demo
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a five-minute demo that showcases the value of the app for your company. This demo is useful for every [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, regardless of whether you're an author, operator, process engineer, or business decision maker. You don't have to be online to use the demo.
