@@ -131,3 +131,16 @@ Use the Process Time-Tracking report to analyze step-level run-time data for a s
 of visits to the alignment step will not be included. On rare occasions, session data can be lost due to connectivity or other technical issues, resulting in one or more 
 step visits not being correctly recorded or the guide session being interrupted. In these cases, the session is excluded from the reports.
 
+## See also
+
+- [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
+
+- [What data is collected and how can you use it?](analytics-data-collected.md)
+
+- [Overview of Guides Analytics Power BI templates](analytics-guide.md)
+
+- [Set up Guides Analytics reports](analytics-ga-setup.md)
+
+- [Share Guides Analytics reports](analytics-ga-share-reports.md)
+
+
