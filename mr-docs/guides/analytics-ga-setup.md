@@ -1,6 +1,6 @@
 
 
-# Set up the latest version of the Guides Analytics reports in Dynamics 365 Guides
+# Set up Guides Analytics reports for Dynamics 365 Guides
 
 You can set up latest Guide Analytics reports through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
 
