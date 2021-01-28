@@ -33,7 +33,7 @@ Storing data about the operations of your guides in easy-to-access Microsoft Dat
 
 ## Getting started 
 
-**Dynamics 365 Guides model-driven app.** You can use the Guide Sessions view in the Dynamics 365 Guides model-driven app to inspect guide sessions. This app is available by signing into Microsoft Power Apps and navigating to the **Apps** tab. Double-clicking on an individual session row in this view will give you more details about the session as well as access to a **Session History** tab that contains information about individual step visits.  
+**Guides model-driven app.** You can use the Guide Sessions view in the Guides model-driven app to inspect guide sessions. This app is available by signing into Microsoft Power Apps and navigating to the **Apps** tab. Double-clicking on an individual session row in this view will give you more details about the session as well as access to a **Session History** tab that contains information about individual step visits.  
 
 SCREEN SHOT GOES HERE
 
