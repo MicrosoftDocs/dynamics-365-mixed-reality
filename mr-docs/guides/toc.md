@@ -91,8 +91,8 @@
 ### [Use the Power BI templates](analytics-power-bi.md)
 #### [Overview of Guides Analytics](analytics-guide.md)
 #### [Set up Guides Analytics](analytics-ga-setup.md)
-#### [Take a tour of reports](analytics-ga-reports.md)
-#### [Share reports](analytics-ga-share-reports.md)
+#### [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
+#### [Share Guides Analytics reports](analytics-ga-share-reports.md)
 ## Convert 3D models to use as holograms
 ### [Overview of converting 3D models](3d-content-guidelines/index.md)
 ### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
