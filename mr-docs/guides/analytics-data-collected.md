@@ -20,7 +20,7 @@ Each row in the Guide Session Step Visit table corresponds to an operator’s vi
 
 Storing data about the operations of your guides in easy-to-access Microsoft Dataverse tables gives you the flexibility to analyze and integrate this data into your workflows in ways that make sense for your business. Here are some examples of what you can do with this data: 
 
-- **Monitor completion status of a guide and trigger workflows.** The Guide Session table includes measurements of guide completion status that you can use with Microsoft Power Automate to, for example, send notifications when an operator has completed a guide. Given that there are many ways to define whether a guide session is complete, the Guide Session table provides two different measures that you can use individually or together as appropriate for your use case:
+- **Monitor completion status of a guide and trigger workflows.** The Guide Session table includes measurements of guide completion status that you can use with Microsoft Power Automate to, for example, send notifications when an operator has completed a guide. Given that there are many ways to define whether a guide session is complete, the Guide Session table provides two different measurements that you can use individually or together as appropriate for your use case:
 
     - The first guide completion measure is stored in the **Percent Of Steps Visited** column of the Guide Session table and is calculated by taking the number of unique visited steps in a session and dividing by the total number of steps in the guide. This measure is particularly useful for linear guides in which you expect operators to visit every step. 
     
