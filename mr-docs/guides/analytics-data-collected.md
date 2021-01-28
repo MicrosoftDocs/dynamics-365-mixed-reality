@@ -37,7 +37,7 @@ Storing data about the operations of your guides in easy-to-access Microsoft Dat
 
 SCREEN SHOT GOES HERE
 
-**Guides Analytics Power BI templates.** You can start analyzing your guide session and step visit data with the [Guides Analytics Power BI templates](analytics-ga-power-bi.md). [Learn how to set up Guides Analytics reports](analytics-ga-setup.md).  
+**Guides Analytics Power BI templates.** You can start analyzing your guide session and step visit data with the [Guides Analytics Power BI templates](analytics-guide.md). For information on settings up Guide Analytics, see [Set up Guides Analytics reports](analytics-ga-setup.md).  
 
 ## See also
 
