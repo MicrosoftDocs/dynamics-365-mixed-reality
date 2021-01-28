@@ -17,3 +17,16 @@ involves the following well-documented steps:
 2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/power-bi/desktop-upload-desktop-files). 
 
 3.	[Publish the contents of your workspace as an app in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-distribute-apps).  
+
+## See also
+
+- [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
+
+- [What data is collected and how can you use it?](analytics-data-collected.md)
+
+- [Overview of Guides Analytics Power BI templates](analytics-guide.md)
+
+- [Set up Guides Analytics reports](analytics-ga-setup.md)
+
+- [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
+
