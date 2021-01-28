@@ -86,10 +86,10 @@
 #### [Voice commands](voice-commands.md)
 #### [Have HoloLens narrate instructions](operator-narrator.md)
 ## Analyze your guides
-### [Overview](analytics-guide.md)
+### [Overview](analytics-overview.md)
 ### [Data collected and how to use it](analytics-data-collected.md)
 ### [Use the Power BI templates](analytics-power-bi.md)
-#### [Overview of Guides Analytics](analytics-ga-overview.md)
+#### [Overview of Guides Analytics](analytics-guide.md)
 #### [Set up Guides Analytics](analytics-ga-setup.md)
 #### [Take a tour of reports](analytics-ga-reports.md)
 #### [Share reports](analytics-ga-share-reports.md)
