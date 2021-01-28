@@ -1,0 +1,55 @@
+
+
+# Set up the latest version of the Guides Analytics reports in Dynamics 365 Guides
+
+You can set up latest Guide Analytics reports through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
+
+> [!NOTE]
+> Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). Talk to your admin if you don't have permission 
+to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer. 
+
+To set up your reports:
+ 
+1.	In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app, select the **Analyze** tab, copy the highlighted Instance URL text, and then 
+select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
+   
+    ![Analyze tab](media/get-started-analytics.PNG "Analyze tab")      
+ 
+2.	In the [!include[cc-microsoft](../includes/cc-microsoft.md)] Download Center, select **Download**. 
+
+    ![Microsoft Download Center](media/microsoft-download-center.PNG "Microsoft Download Center") 
+
+    You'll be prompted to choose the files to download: 
+
+     - **Guides Analytics Template.** You can configure this [!include[pn-power-bi](../includes/pn-power-bi.md)] template file to display 
+     [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] time-tracking data from within your organization. 
+   
+     - **Guides Analytics Demo.** You can use this [!include[pn-power-bi](../includes/pn-power-bi.md)] file to view an example data set. It does not require any 
+     configuration and lets you get an overview of Guides Analytics reports before you even create your first guide.  
+
+     We recommend downloading both files. 
+
+     ![Files to download](media/download-files.PNG "Files to download")   
+  
+3.	Open the downloaded Guides Analytics Template.pbit file with [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop. Use your 
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password if you're prompted to sign in to [!include[pn-power-bi](../includes/pn-power-bi.md)].  
+ 
+4.	When prompted, paste the Instance URL into the text box as shown here. This is the same Instance URL you copied from the **Analyze** tab in the PC authoring app in step 1. 
+
+     ![Guides Analytics template](media/guides-analytics-template.PNG "Guides Analytics template")
+ 
+     You might see the following error message saying you aren't signed in: 
+  
+     ![Sign-in error](media/sign-in-error.PNG "Sign-in error")
+
+     In that case, select **Sign in**, and enter your [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] username and password to connect the template 
+     to your organization's secure [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
+
+5.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are 
+described in detail in "Take a tour of reports" later in this topic. 
+ 
+     ![Example report](media/example-report.PNG "Example report")
+ 
+6.	Save the configured reports to a convenient place on your computer for later use. 
+
+7.	Select **Refresh** on the **Home** ribbon to update your reports with the most recent [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data. 
