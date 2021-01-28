@@ -14,7 +14,7 @@ Each row in the Guide Session table corresponds to an operation of a guide in Ho
 
 ## Guide Session Step Visit table 
 
-Each row in the Guides Session Step Visit table corresponds to an operator’s visit to a step in HoloLens Operate mode. Information is recorded for each step visit such as start and end time and step operating time.  
+Each row in the Guide Session Step Visit table corresponds to an operator’s visit to a step in HoloLens Operate mode. Information is recorded for each step visit such as start and end time and step operating time.  
 
 ## What can you do with the data? 
 
