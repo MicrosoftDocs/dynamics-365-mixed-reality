@@ -1,6 +1,6 @@
 
 
-# Take a tour of Guides Analytics reports in Dynamics 365 Guides
+# Take a tour of Guides Analytics reports for Dynamics 365 Guides
 
 Once you have set up and saved the Guides Analytics Template on your computer, open [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop, and then open your saved 
 report. [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop has a **File – Open – Recent** items list that's convenient for finding your previously 
