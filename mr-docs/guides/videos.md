@@ -20,5 +20,5 @@ Watch these videos to quickly learn the basics of [!include[cc-microsoft](../inc
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Set up a circular code anchor for your guide](https://aka.ms/guidesprintedanchor)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Set up a holographic anchor for your guide](https://aka.ms/guidesdigitalanchor)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your organization's guides](https://aka.ms/guidesanalyze)<br>
+
 
