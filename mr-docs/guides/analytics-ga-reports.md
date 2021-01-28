@@ -12,7 +12,7 @@ Once you have [set up and saved the Guides Analytics Template](analytics-ga-setu
 report. [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop has a **File – Open – Recent** items list that's convenient for finding your previously 
 opened reports.  
 
-Both the Guides Analytics Template and Guides Analytics Demo files contain two reports: Guides Usage and Process Time-Tracking.
+Both the Guides Analytics Template and Guides Analytics Demo files contain both reports.
 
 ## Guides Usage report
 
