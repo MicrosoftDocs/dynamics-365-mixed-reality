@@ -32,9 +32,6 @@ You can also use Guides Analytics to drill into detailed time-tracking informati
 - Is the amount of operation time equally distributed between tasks? 
 
 These reports provide information about operator adoption and usage and give guide authors a data-driven way to improve their guides. For example, an author could focus their editing efforts on steps that take a long time to execute or show a high degree of variability among operators. These reports are also valuable in training scenarios for both trainers and trainees to better understand performance and improvement over time. 
-
-> [!NOTE]
-> Guides Analytics is intended to help supervisors and managers derive insights regarding operational efficiencies and usage of Dynamics 365 Guides. This feature is not intended for use in making (and should not be used to make) decisions that affect the employment of an employee or group of employees, including compensation, rewards, seniority, or other rights or entitlements. Customers are solely responsible for using Dynamics 365, this feature, and any associated feature or service in compliance with all applicable laws, including laws relating to accessing individual employee analytics and monitoring. Customers are encouraged to have a mechanism in place to inform their users that analytics relating to their guides usage is collected.
  
 ## See also
 
