@@ -2,7 +2,7 @@
 
 # Set up Guides Analytics reports for Dynamics 365 Guides
 
-You can set up [Guide Analytics Power BI reports](analytics-guide.md) for Dynamics 365 Guides through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
+You can set up [Guide Analytics Power BI reports](analytics-guide.md) for Microsoft Dynamics 365 Guides through the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app.
 
 > [!NOTE]
 > Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). Talk to your admin if you don't have permission 
