@@ -8,3 +8,17 @@ Guides Analytics is part of the  Dynamics 365 Guides application suite that incl
 
 > [!NOTE]
 > Guides operations data is intended to help supervisors and managers derive insights regarding operational efficiencies and usage of Dynamics 365 Guides. This feature is not intended for use in making (and should not be used to make) decisions that affect the employment of an employee or group of employees, including compensation, rewards, seniority, or other rights or entitlements. Customers are solely responsible for using Dynamics 365, this feature, and any associated feature or service in compliance with all applicable laws, including laws relating to accessing individual employee analytics and monitoring. Customers are encouraged to have a mechanism in place to inform their users that analytics relating to their guides usage is collected. 
+
+## See also
+
+- [Overview of analyzing guides in Dynamics 365 Guides](analytics-overview.md)
+
+- [Learn about what data is collected and how to use it](analytics-data-collected.md)
+
+- [Overview of Guides Analytics Power BI templates](analytics-guide.md)
+
+- [Set up Guides Analytics reports](analytics-ga-setup.md)
+
+- [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
+
+- [Share Guides Analytics reports](analytics-ga-share-reports.md)
