@@ -53,3 +53,16 @@ described in detail in "Take a tour of reports" later in this topic.
 6.	Save the configured reports to a convenient place on your computer for later use. 
 
 7.	Select **Refresh** on the **Home** ribbon to update your reports with the most recent [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] data. 
+
+## See also
+
+- [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
+
+- [What data is collected and how can you use it?](analytics-data-collected.md)
+
+- [Overview of Guides Analytics Power BI templates](analytics-guide.md)
+
+- [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
+
+- [Share Guides Analytics reports](analytics-ga-share-reports.md)
+
