@@ -85,7 +85,14 @@
 #### [Work offline](operator-offline-mode.md)
 #### [Voice commands](voice-commands.md)
 #### [Have HoloLens narrate instructions](operator-narrator.md)
-## [Analyze your guides](analytics-guide.md)
+## Analyze your guides
+### [Overview](analytics-guide.md)
+### [Data collected and how to use it](analytics-data-collected.md)
+### [Use the Power BI templates](analytics-power-bi.md)
+#### [Overview of Guides Analytics](analytics-ga-overview.md)
+#### [Set up Guides Analytics](analytics-ga-setup.md)
+#### [Take a tour of reports](analytics-ga-reports.md)
+#### [Share reports](analytics-ga-share-reports.md)
 ## Convert 3D models to use as holograms
 ### [Overview of converting 3D models](3d-content-guidelines/index.md)
 ### [Convert your 3D (CAD) models](3d-content-guidelines/convert-models.md)
