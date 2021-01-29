@@ -19,11 +19,11 @@ When an operator uses the Microsoft Dynamics 365 Guides HoloLens app in Operate 
 
 ## Guide Session table 
 
-Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options to define completion (for example, was the completion step visited or what percentage of steps did the operator visit) are also recorded. For more information, [see the Guides table reference](developer-entity-reference.md).
+Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options to define completion (for example, was the completion step visited or what percentage of steps did the operator visit) are also recorded. For more information, [see the Guides table (entity) reference](developer-entity-reference.md).
 
 ## Guide Session Step Visit table 
 
-Each row in the Guide Session Step Visit table corresponds to an operator’s visit to a step in HoloLens Operate mode. Information is recorded for each step visit such as start and end time and step operating time. For more information, [see the Guides table reference](developer-entity-reference.md).
+Each row in the Guide Session Step Visit table corresponds to an operator’s visit to a step in HoloLens Operate mode. Information is recorded for each step visit such as start and end time and step operating time. For more information, [see the Guides table (entity) reference](developer-entity-reference.md).
 
 ## What can you do with the data? 
 
@@ -60,7 +60,7 @@ The Guide Session Step Visit table includes a **Step Duration Seconds** column t
 
 - [Can I opt out of storing Guides operations data in the Microsoft Dataverse?](data-opt-out.md) 
 
-- [Guides tables reference](developer-entity-reference.md)
+- [Guides table (entity) reference](developer-entity-reference.md)
 
 - [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
 
