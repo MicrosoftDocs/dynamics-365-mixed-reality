@@ -27,7 +27,13 @@ Each row in the Guide Session Step Visit table corresponds to an operator’s vi
 
 ## What can you do with the data? 
 
-Storing data about the operations of your guides in easy-to-access Microsoft Dataverse tables gives you the flexibility to analyze and integrate this data into your workflows in ways that make sense for your business. You can get started by using the [Guides Analytics Power BI templates](analytics-guide.md) or you can build your own custom integrations with this data. Here are some examples: 
+Storing data about the operations of your guides in easy-to-access Microsoft Dataverse tables gives you the flexibility to analyze and integrate this data into your workflows in ways that make sense for your business. You can get started by:
+
+- Using the [Guides Analytics Power BI templates](analytics-guide.md)
+
+- Building your own custom integrations with this data. 
+
+Here are some examples of what you can do: 
 
 - **Monitor completion status of a guide and trigger workflows.** The Guide Session table includes measurements of guide completion status that you can use with Microsoft Power Automate to, for example, send notifications when an operator has completed a guide. Given that there are many ways to define whether a guide session is complete, the Guide Session table provides two different measurements that you can use individually or together as appropriate for your use case:
 
