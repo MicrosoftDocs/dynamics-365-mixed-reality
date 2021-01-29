@@ -44,7 +44,7 @@ Storing data about the operations of your guides in easy-to-access Microsoft Dat
 
 **Guides model-driven app.** You can use the Guide Sessions view in the Guides model-driven app to inspect guide sessions. To access the model-driven app, sign in to Microsoft Power Apps and go to the **Apps** tab. Double-clicking on an individual session row in this view provides more details about the session as well as access to a **Session History** tab that contains information about individual step visits.  
 
-SCREEN SHOT GOES HERE
+![Guide Sessions view](media/analytics-guides-sessions-view.PNG "Guide Sessions view")
 
 **Guides Analytics Power BI templates.** You can start analyzing your guide session and step visit data with the [Guides Analytics Power BI templates](analytics-guide.md). For information on setting up Guide Analytics, see [Set up Guides Analytics reports](analytics-ga-setup.md).  
 
