@@ -1,4 +1,5 @@
 ---
+author: BryceHo
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
 ms.author: cynielse
 ms.date: 02/02/2021
