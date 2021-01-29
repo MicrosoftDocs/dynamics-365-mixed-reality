@@ -27,7 +27,7 @@ Each row in the Guide Session Step Visit table corresponds to an operator’s vi
 
 ## What can you do with the data? 
 
-Storing data about the operations of your guides in easy-to-access Microsoft Dataverse tables gives you the flexibility to analyze and integrate this data into your workflows in ways that make sense for your business. Here are some examples of what you can do with this data: 
+Storing data about the operations of your guides in easy-to-access Microsoft Dataverse tables gives you the flexibility to analyze and integrate this data into your workflows in ways that make sense for your business. You can get started by using the [Guides Analytics Power BI templates](analytics-guide.md) or you can build your own custom integrations with this data. Here are some examples: 
 
 - **Monitor completion status of a guide and trigger workflows.** The Guide Session table includes measurements of guide completion status that you can use with Microsoft Power Automate to, for example, send notifications when an operator has completed a guide. Given that there are many ways to define whether a guide session is complete, the Guide Session table provides two different measurements that you can use individually or together as appropriate for your use case:
 
@@ -35,7 +35,9 @@ Storing data about the operations of your guides in easy-to-access Microsoft Dat
     
     - The second completion measurement is stored in the **Visited Completion Step** column and defines whether a completion step was visited during the guide session. If the guide has multiple completion steps, this will be a **Yes** value if any one of the completion steps was visited during the session.  
 
-- **Analyze session and step times to optimize process.** By analyzing operating times across all guide sessions and steps, you can identify processes that are taking more than a given target time or have high time variability or outliers that may indicate areas for process improvement. The Guide Session Step Visit table includes a **Step Duration Seconds** column that provides the time in seconds that an operator spent on a particular step visit in a session. If an operator visited a step multiple times, perhaps by navigating backward and forward in the guide, each visit would result in a separate row in this table. 
+- **Analyze session and step times to optimize process.** By analyzing operating times across all guide sessions and steps, you can identify processes that are taking more than a given target time or have high time variability or outliers that may indicate areas for process improvement. The [Guides Analytics Power BI templates](analytics-guide.md) can help you get started with these analyses. 
+
+The Guide Session Step Visit table includes a **Step Duration Seconds** column that provides the time in seconds that an operator spent on a particular step visit in a session. If an operator visited a step multiple times, perhaps by navigating backward and forward in the guide, each visit would result in a separate row in this table. 
 
     > [!TIP]
     > When the HoloLens app is suspended manually or due to inactivity, the current step visit is ended and a new step visit is created once the app resumes. This means that app suspension time is not included in the values of the **Step Duration Seconds** column. These step visit durations for a session are summed together and recorded in the Guide Session table’s **Active Session Duration Seconds** column. As a result, the **Active Session Duration Seconds** values do not include any app suspension time and offer a higher quality measurement of operation time than the simple difference between session start and end time stamps.   
