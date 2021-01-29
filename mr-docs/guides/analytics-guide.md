@@ -6,7 +6,7 @@ ms.date: 02/02/2021
 ms.service: crm-online
 ms.topic: article
 title: Overview of Guides Analytics, Power BI reports for Dynamics 365 Guides
-ms.reviewer: v-brycho
+ms.reviewer: v-bholmes
 ---
 
 # Overview of Guides Analytics Power BI templates for Dynamics 365 Guides
