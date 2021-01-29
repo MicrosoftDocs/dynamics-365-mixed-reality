@@ -19,7 +19,7 @@ When an operator uses the Microsoft Dynamics 365 Guides HoloLens app in Operate 
 
 ## Guide Session table 
 
-Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options to define completion (for example, was the completion step visited or what percentage of steps did the operator visit) are also recorded.  
+Each row in the Guide Session table corresponds to an operation of a guide in HoloLens Operate mode, whether completed from beginning to end of the guide or involving just a few steps. Information about the guide session, such as start and end time, total operating time, and different options to define completion (for example, was the completion step visited or what percentage of steps did the operator visit) are also recorded. For more information, [see the Guides table reference](developer-entity-reference.md).
 
 ## Guide Session Step Visit table 
 
