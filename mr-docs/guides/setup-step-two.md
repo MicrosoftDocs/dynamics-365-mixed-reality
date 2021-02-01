@@ -64,13 +64,16 @@ The type of environment that you create depends on whether you purchased a [!inc
 3. In the **Add database** dialog box that appears on the right side of the page, select your language and currency, and set the **Enable Dynamics 365 apps** option to **Yes**. Keep the default values for the other fields. Then select **Save**.
 
     ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
-
+    
     > [!NOTE]
-    > For information about security groups, see [Restrict access to an instance](admin-security.md).
+    > If you plan to run Dynamics 365 Remote Assist in this environment, you'll need to obtain a paid Dynamics 365 Remote Assist license, and then set the **Enable Dynamics 365 apps** option when creating this environment. Or you can migrate to a joint environment when you decide to purchase Dynamics 365 Remote Assist.    
 
     A message is shown that explains that the production environment is being prepared.
 
     ![Environment preparation message](media/environment-message.PNG "Environment preparation message")
+    
+    > [!NOTE]
+    > For information about security groups, see [Restrict access to an instance](admin-security.md).
 
 4. After the new environment is active (that is, when **Ready** appears in the **State** field for the environment), go to [Change the maximum upload file size](#upload).
 
