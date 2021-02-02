@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Assign an Author or Operator role to users in Microsoft Dynamics 365 Guides to control whether users can edit and view guides (Author role) or just view guides (Operator role).
 ms.author: mamaylya
-ms.date: 07/24/2020
+ms.date: 02/02/2021
 ms.service: crm-online
 ms.topic: article
 title: Assign an Author or Operator role to a user to control whether a user can author a guide or just view a guide
@@ -70,9 +70,9 @@ Before you can modify user roles, the following prerequisites must be in place:
 
     ![Manage Roles button](media/select-manage-roles.PNG "Manage Roles button")
 
-8. In the **Manage User Roles** dialog box, make sure that the **Common Data Service User** check box is selected.
+8. In the **Manage User Roles** dialog box, make sure that the **Basic User** check box is selected.
 
-    ![Common Data Service User check box](media/common-data-service-user.PNG "Common Data Service User check box")
+    ![Basic User check box](media/manage-user-basic-user.PNG "Basic User check box")
 
 9. Select the check box for the appropriate role for the selected users, and then select **OK**.
 
