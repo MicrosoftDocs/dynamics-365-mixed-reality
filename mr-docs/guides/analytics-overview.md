@@ -9,7 +9,7 @@ title: Overview of analyzing guides created with Dynamics 365 Guides
 ms.reviewer: v-bholmes
 ---
 
-# Overview of analyzing and integrating with Dynamics 365 Guides operations data
+# Overview of analyzing and integrating Dynamics 365 Guides operations data
 
 When operators use the Microsoft Dynamics 365 Guides HoloLens app in Operate mode, data about guide usage is automatically stored in your private and secure Dynamics 365 environment where it can be analyzed in either of the following ways:
 
