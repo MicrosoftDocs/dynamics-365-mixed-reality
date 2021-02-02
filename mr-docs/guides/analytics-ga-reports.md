@@ -104,15 +104,19 @@ Use the Process Time-Tracking report to analyze step-level run-time data for a s
     > - To sort by multiple columns, hold the Control key down while you select to add another column to the sort order. This is useful if you want to sort by task and step 
     number. [Learn more about how to change the sort order in a Power BI report](https://docs.microsoft.com/power-bi/consumer/end-user-change-sort).   
     > - To use multiple rows as filters, hold down the Shift key while you select each row. [Learn more about how to multi-select data elements in Power BI Desktop](https://docs.microsoft.com/power-bi/create-reports/desktop-multi-select).
+    
+4. How many minutes do sets of steps take on average?
+
+   This stacked-bar chart lets you quickly see differences in time per task, which can be valuable when trying to balance operation time across tasks. Each stacked bar corresponds to a task in the guide. The colored bars within each stack represent the steps of that task, ordered from the first step at the bottom to last step at the top. The height of each colored bar indicates the average operating time for that step and a repeating set of colors is used to distinguish them. The total stack height reveals the time for each task which is also displayed numerically above each. You can make time comparisons between just a subset of steps of interest by selecting steps within the steps table described above. Such row selections in the steps table will filter all other charts in the report.
    
-4.	Which sessions are the longest/shortest? 
+5.	Which sessions are the longest/shortest? 
 
     This table shows all the operator sessions for the selected guide. It includes information about each session’s total time, the percentage of all steps in the guide 
     that were visited at least once, and whether or not at least one completion step was visited. This table is helpful for finding the longest/shortest sessions or 
     investigating the completion status of individual sessions. Select a row of this table to filter all the visuals in the report to just that session. See the tips in the 
     previous step for sorting by multiple columns or using multiple rows as filters.
    
-5.	How long did each task or step take? 
+6.	How long did each task or step take? 
 
     This dot plot shows the time in minutes (y-axis) for each step of a guide (x-axis) to give you a sense for which steps take the most time and which steps have the most 
     variability in time. If a step is visited multiple times in the same session, the sum of the step visit times is displayed. Each guide session is shown in a separate 
