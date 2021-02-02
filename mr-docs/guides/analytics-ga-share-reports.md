@@ -35,7 +35,7 @@ involves the following well-documented steps:
 
 - [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
 
-- [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
+- [Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
 
 - [What data is collected and how can you use it?](analytics-data-collected.md)
 
