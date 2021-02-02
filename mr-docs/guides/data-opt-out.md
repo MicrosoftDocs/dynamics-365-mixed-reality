@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage data in Microsoft Dataverse, for privacy reasons.
 ms.author: mamaylya
-ms.date: 11/17/2020
+ms.date: 02/03/2021
 ms.service: crm-online
 ms.topic: article
 title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
