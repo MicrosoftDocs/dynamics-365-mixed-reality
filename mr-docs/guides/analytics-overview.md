@@ -15,7 +15,7 @@ When operators use the Microsoft Dynamics 365 Guides HoloLens app in Operate mod
 
 - Using the [Guides Analytics Power BI templates](analytics-guide.md)
 
-- Integrated into your own custom workflows
+- Integrated into your own custom workflows. For example, you could create a custom workflow in Power Apps or by using third-party visualization tools or systems.
 
 This operations data, which includes information about time spent on each step and whether an operator completed a guide, is stored in Microsoft Dataverse tables just like your Dynamics 365 Guides content. These tables make it easy to analyze guide usage across your organization, gain insights into process efficiency, or trigger worklows outside of Dynamics 365 Guides.
 
