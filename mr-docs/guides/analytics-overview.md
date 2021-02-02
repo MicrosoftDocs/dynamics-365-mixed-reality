@@ -2,7 +2,7 @@
 author: BryceHo
 description: Get an overview of how to analyze guides using Microsoft Dynamics 365 Guides
 ms.author: cynielse
-ms.date: 02/02/2021
+ms.date: 02/03/2021
 ms.service: crm-online
 ms.topic: article
 title: Overview of analyzing guides created with Dynamics 365 Guides
