@@ -21,7 +21,7 @@ We recommend reading [Ways to collaborate and share in Power BI](https://docs.mi
 A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This 
 involves the following well-documented steps:
 
-1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/power-bi/service-create-workspaces). 
+1.	[Create a workspace in the Power BI Service](https://docs.microsoft.com/power-bi/collaborate-share/service-create-the-new-workspaces#:~:text=%20Create%20the%20new%20workspaces%20in%20Power%20BI,configure%20an%20Office%20365%20Group%20whose...%20See%20More.). 
 
 2.	[Publish your Guides Analytics reports to this workspace using Power BI Desktop](https://docs.microsoft.com/power-bi/desktop-upload-desktop-files). 
 
