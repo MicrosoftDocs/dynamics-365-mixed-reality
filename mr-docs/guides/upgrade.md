@@ -88,13 +88,11 @@ To fix this issue, we recommend that you first try to update the guide schema fr
 >[!NOTE]
 >If the issue isn't fixed when you update the guide schema, the guide's JSON file has probably been edited in a way that isn't supported (for example, too many 3D objects have been programmatically added to the **Step Editor** bin). Contact the Dynamics 365 Guides team directly for guidance, through your Microsoft Account team.
 
-### Manually upgrade the schema for images, videos, and 3D objects
+### Having trouble accessing an image, video, or 3D object through the Dataverse API or Power Apps after updating to Guides solution version 504.0.0.0?
 
-The 504.0.0.0 Guides solution update changes the way guide content (images, videos, and 3D objects) is stored in the Dataverse. With this update, each file is stored along with the row instead of as a note attachment. This significantly improves performance when loading content and allows you to access asset files more easily on the Power Platform. 
+The 504.0.0.0 Guides solution update changes the way that guide content (images, videos, and 3D objects) is stored in the Microsoft Dataverse. With this update, each file is stored along with the row in a new **File** column instead of as an attachment in the **Note** columnn. This significantly improves performance when loading content and allows you to access asset files more easily on the Power Platform. 
 
-When you update to the 504.0.0.0 solution, the content will automatically be converted to the new schema. However, on the rare occasion that the conversion process fails for an image, video, or 3D object, you can use the following procedure to trigger the conversion manually. 
-
-To make sure that all your content is converted to the new schema after upgrading to the new solution:
+If an image, video, or 3D object fails to convert correctly to the newest version when you update to the 504.0.0.0 solution (this can happen, for example, if the Dataverse was down during the solution update), it means that the related file is stored using the old method (attached to the **Note** column instead of stored in the new **File** column). This makes it harder to retrieve when using the Power Platform or the Dataverse API. You can check whether your media content has been updated correctly by checking the version number. If it hasn't been updated correctly, you can then do a manual update using the following procedure: 
 
 1.	Go to [make.powerapps.com](https://make.powerapps.com). 
 
