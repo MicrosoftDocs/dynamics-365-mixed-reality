@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how you can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze.
 ms.author: mehellmu
-ms.date: 08/25/2020
+ms.date: 02/03/2020
 ms.service: crm-online
 ms.topic: article
 title: Use voice commands in Dynamics 365 Guides
