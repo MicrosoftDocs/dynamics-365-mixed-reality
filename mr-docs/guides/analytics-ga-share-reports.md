@@ -17,7 +17,7 @@ a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license to access the 
 interface accessible at https://powerbi.microsoft.com.
 
 Once you have a [!include[pn-power-bi](../includes/pn-power-bi.md)] Pro license, there are several mechanisms for sharing reports with others in your organization. 
-We recommend reading [Ways to share and collaborate in Power BI](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. 
+We recommend reading [Ways to collaborate and share in Power BI](https://docs.microsoft.com/power-bi/service-how-to-collaborate-distribute-dashboards-reports) for an overview. 
 A great way to share your reports within your organization in a read-only fashion is to publish them as a [!include[pn-power-bi](../includes/pn-power-bi.md)] app. This 
 involves the following well-documented steps:
 
