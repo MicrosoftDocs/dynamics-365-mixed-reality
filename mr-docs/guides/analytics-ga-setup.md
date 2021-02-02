@@ -2,7 +2,7 @@
 author: BryceHo
 description: Learn how to set up Guides Analytics Power BI reports for Microsoft Dynamics 365 Guides
 ms.author: cynielse
-ms.date: 02/02/2021
+ms.date: 02/03/2021
 ms.service: crm-online
 ms.topic: article
 title: Set up Guides Analytics reports for Dynamics 365 Guides
