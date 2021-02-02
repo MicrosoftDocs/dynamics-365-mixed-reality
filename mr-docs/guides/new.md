@@ -44,7 +44,7 @@ Version 502.2011.28001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Improved experience finding guides in the PC app</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/improved-experience-finding-guides-pc-app" target="_blank">Improved experience finding guides in the PC app</a> | No |
 
 > [!IMPORTANT]
 > **Important information about HoloLens 1:** In Dynamics 365 Guides version 502.2011.28001 (December 8, 2020 release) and later, HoloLens operating system version 10.0.17134 (Redstone 4) is no longer supported. This version of the operating system is used only on HoloLens 1. HoloLens 1 customers must upgrade to HoloLens version 10.0.17763 or later to continue to receive the latest updates. Work with your IT admin to update your HoloLens operating system. If you choose not to upgrade, you can continue to use the current version of Dynamics 365 Guides that is already installed on the device. However, HoloLens version 10.0.17763 or later is required to install Dynamics 365 Guides on any new or refactored HoloLens 1 device.
