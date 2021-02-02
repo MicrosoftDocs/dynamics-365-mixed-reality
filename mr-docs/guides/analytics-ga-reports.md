@@ -89,7 +89,7 @@ Use the Process Time-Tracking report to analyze step-level run-time data for a s
    
     - **Sessions.** How many total sessions of this guide have been completed to date? 
     
-    - **Avg. Session Time.** What is the average session time for this guide?
+    - **Avg. session time.** What is the average session time for this guide?
    
 3.	How long are individual steps on average? 
 
