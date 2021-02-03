@@ -50,4 +50,4 @@ To do this:
  
 ## See also
 
-[Analyze guides usage](analytics-overview.md)
+[Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
