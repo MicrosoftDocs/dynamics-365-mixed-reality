@@ -30,7 +30,7 @@ Version 503.2102.1001 of the PC and [!include[pn-hololens](../includes/pn-holole
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/extend-analytics-capabilities-guides-insights" target="_blank">Extend analytics capabilities with new guide operation data tables</a> | Yes |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/gain-insights-into-guide-usage-updated-guides-analytics-power-bi-reports" target="_blank">Gain insights into guide usage with the updated Guides Analytics Power BI reports. </a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/gain-insights-into-guide-usage-updated-guides-analytics-power-bi-reports" target="_blank">Gain insights into guide usage with the updated Guides Analytics Power BI reports</a> | Yes |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/improvement-how-data-stored-dataverse" target="_blank">Improvement in how data is stored in the Microsoft Dataverse</a> | Yes |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/narrated-instruction-text-through-hololens" target="_blank">Narrated instruction text through HoloLens</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/updated-dynamics-365-guides-demo" target="_blank">Updated Dynamics 365 Guides demo</a> | No |
