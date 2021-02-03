@@ -105,7 +105,7 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 
 You can use the built-in HoloLens Text-to-Speech system to have HoloLens read instructions out loud.
 
-## Use voice commands to turn narration on or off or to select a response in a question card
+#### Use voice commands to turn narration on or off or to select a response in a question card
 
 Use the commands in the following table to turn narration on or off or to select a response in a question card.
 
