@@ -93,9 +93,9 @@ To learn when features were introduced, or to learn about upcoming features, see
 
 You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service and Dynamics 365 Supply Chain Management.
 
-- **Dynamics 365 Field Service integration.** Integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service to enable field service technicians to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to complete their work orders. [Learn more about how to integrate Dynamics 365 Field Service](field-service.md).
+- **Dynamics 365 Field Service integration.** Integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service to enable field service technicians to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to complete their work orders. [Learn more about integrating Dynamics 365 Field Service](field-service.md).
 
-- **Dynamics 365 Supply Chain Management.** Integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with the **Asset Management** module in Dynamics 365 Supply Chain Management to take advantage of mixed-reality guides in your day-to-day service and maintenance workflows. [Learn more about how to integrate Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md).
+- **Dynamics 365 Supply Chain Management.** Integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with production processes or asset management to take advantage of mixed-reality guides in your day-to-day service and maintenance workflows. [Learn more about integrating Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md).
 
 ## Need help or support?
 
