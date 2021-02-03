@@ -69,7 +69,7 @@ described in detail in "Take a tour of reports" later in this topic.
 
 - [Share Guides Analytics reports](analytics-ga-share-reports.md)
 
-- [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
+- [Overview of analyzing or integrating Dynamics 365 Guides operations data](analytics-overview.md)
 
 - [What data is collected and how can you use it?](analytics-data-collected.md)
 
