@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Step 2 of the setup process for Microsoft Dynamics 365 Guides. In this step, you create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution.
 ms.author: mamaylya
-ms.date: 12/17/2020
+ms.date: 02/03/2021
 ms.service: crm-online
 ms.topic: article
 title: Create a Microsoft Dataverse environment and install the Dynamics 365 Guides solution as part of the setup process
@@ -23,7 +23,7 @@ After getting a [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[
 The type of environment that you create depends on whether you purchased a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license.
 
 > [!NOTE]
-> If you already have an environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), you can skip ahead to the [Change the maximum upload file size](#upload) procedure later in this topic.
+> If you already have an environment that you want to use (for example, an instance in your company's Dynamics 365 tenant), you can skip ahead to the **Install and configure the solution** procedure later on this page.
 
 - **If you bought a license for [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], [set up a production environment](https://docs.microsoft.com/dynamics365/mixed-reality/guides/setup-step-two#set-up-a-production-environment-for-purchased-licenses-only).** A production environment provides you with backup and restore capabilities. 
 
@@ -64,18 +64,23 @@ The type of environment that you create depends on whether you purchased a [!inc
 3. In the **Add database** dialog box that appears on the right side of the page, select your language and currency, and set the **Enable Dynamics 365 apps** option to **Yes**. Keep the default values for the other fields. Then select **Save**.
 
     ![Add database dialog box](media/add-database-pane.PNG "Add database dialog box")
-
+    
     > [!NOTE]
-    > For information about security groups, see [Restrict access to an instance](admin-security.md).
+    > If you plan to run Dynamics 365 Remote Assist in this environment, you'll need to obtain a paid Dynamics 365 Remote Assist license, and then set the **Enable Dynamics 365 apps** option when creating this environment. Or you can migrate to a joint environment when you decide to purchase Dynamics 365 Remote Assist.    
 
     A message is shown that explains that the production environment is being prepared.
 
     ![Environment preparation message](media/environment-message.PNG "Environment preparation message")
+    
+    > [!NOTE]
+    > For information about security groups, see [Restrict access to an instance](admin-security.md).
 
-4. After the new environment is active (that is, when **Ready** appears in the **State** field for the environment), go to [Change the maximum upload file size](#upload).
+    When the new environment is active, **Ready** appears in the **State** field for the environment. 
 
-> [!NOTE]
-> If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment shown in the illustrations.
+    > [!NOTE]
+    > If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment shown in the illustrations.
+    
+4. Go to the **Install and configure the solution** procedure below. 
 
 ## Set up a default environment (for trial subscriptions only)
 
@@ -107,26 +112,8 @@ The type of environment that you create depends on whether you purchased a [!inc
    > If you see a warning that says, "You do not have the required Dynamics 365 licenses to create databases with Dynamics apps," ignore it.
    
    ![Add command and warning message](media/select-add.PNG "Add command and warning message")
-
-6. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
-
-## Change the maximum upload file size<a name="upload"></a>
-
-In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, you can upload your own 3D files in addition to videos and 2D images. Because many of these files will be larger than 5 megabytes (MB), you must increase the maximum file size for uploaded files by changing the setting for the size of email attachments.
-
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the newly created environment, select the **More environment actions** (**...**) button, and then select **Settings**.
-
-    ![Settings command](media/environment-settings.PNG "Settings command")
-
-2. On the **Settings** page, under **Email**, select **Email settings**.
-
-    ![Email settings link](media/email-settings.png "Email settings link")
-
-3. Scroll to the bottom of the page, and then, under **Attachments**, set the **Maximum file size for attachments** field to **131072**. When you've finished, select **Save**.
-
-    ![Maximum file size for attachments field](media/edit-file-size.png "Maximum file size for attachments field")
-
-4. Go back to the **Environments** page to prepare for the next procedure.
+   
+6. Go to the next procedure: **Install and configure the solution**.
 
 ## Install and configure the solution<a name="configure"></a>
 
