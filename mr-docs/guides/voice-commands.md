@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how you can use voice commands in Microsoft Dynamics 365 Guides as a substitute for hand gestures or gaze.
 ms.author: mehellmu
-ms.date: 08/25/2020
+ms.date: 02/03/2020
 ms.service: crm-online
 ms.topic: article
 title: Use voice commands in Dynamics 365 Guides
@@ -100,6 +100,22 @@ This section shows Dynamics 365 Guides pages and the voice commands that you can
 | 12 | ![Play button](media/play-button.png "Play button") | "Play video" | Start the video that is attached to the step (if the step has a video). |
 | 13 | ![Pause button](media/pause-button.png "Pause button") | "Pause video" | Pause the video. |
 | 14 | ![Restart guide button](media/restart-guide-button.PNG "Restart guide button") | "Restart guide" | Go to the first step in the guide.<p>**Note:** You must be on the Completion step to use this voice command.</p> |
+
+### Narration
+
+You can use the built-in HoloLens Text-to-Speech system to have HoloLens read instructions out loud.
+
+#### Use voice commands to turn narration on or off or to select a response in a question card
+
+Use the commands in the following table to turn narration on or off or to select a response in a question card.
+
+|Voice command |Action| 
+|----------------------------|-----------------------------------------------------------------|
+|Narration On |Start narration for the current and subsequent steps.<br><br>If narration is already turned on when you say this voice command, the narrator will repeat the instructions for the current step.| 
+|Narration Off| Turn off narration for the current and subsequent steps. |
+|Narrate Step| Narrate the current step.|
+|Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1". |
+|Response *Number* Text| Select the response in a question card indicated by the label position for that response. For example, if the label for the first response has been changed by the author to "Beginner" instead of "Response 1", say **Response 1 Text** to select that response.|
 
 ### Outline, guide list, and instance list
 

@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Overview of Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 03/24/2020
+ms.date: 03/02/2021
 ms.service: crm-online
 ms.topic: overview
 title: Overview of Dynamics 365 Guides
@@ -44,6 +44,5 @@ Check out these overview topics and videos:
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide](authoring-overview.md)<br>
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of operating a guide](operator-overview.md)<br>
-![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides](https://aka.ms/guidesanalyze)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of analyzing your guides](analytics-guide.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [FAQ](faq.md)
