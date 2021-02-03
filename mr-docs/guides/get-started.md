@@ -79,7 +79,7 @@ We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 
 ![What's New command](media/what-new.PNG "What's New command")
 
-To learn when features were introduced, or to learn about upcoming features, see the Release plan topics:
+To learn when features were introduced, or to learn about upcoming features, see the Release plan:
 
 - [2020 Wave 2 (October 2020 through March 2021)](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features)
 
