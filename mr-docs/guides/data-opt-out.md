@@ -23,7 +23,7 @@ To do this:
 
 2.	In the tenant/instance drop-down, select the instance that has Dynamics 365 Guides installed.
 
-3.	Select the Guides app in the list. A new tab for the Guides model-driven app is opened.
+3.	Select the **Guides** app in the list. A new tab for the Guides model-driven app is opened.
 
     > [!NOTE]
     > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
