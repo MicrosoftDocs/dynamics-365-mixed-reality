@@ -19,7 +19,7 @@ You can anchor your guide to the real world in Microsoft Dynamics 365 Guides by 
 
 - You can print the anchor in various sizes (but be sure to always use the same size for the same guide).
 
-- You can embed a link to a guide (deep link) in a QR code. This makes it quicker for the operator to open the appropriate guide.
+- You can embed a link to a guide (deep link) in a QR code. This makes it quicker for the operator to open the appropriate guide. [Learn more about embedding a link to a guide in a QR code](pc-app-anchor-embed-qr-code-link.md).
 
 In certain cases, you may need to use a circular code or holographic anchor, however. [Learn about other types of anchors and when to use them](pc-app-anchor.md). 
 
