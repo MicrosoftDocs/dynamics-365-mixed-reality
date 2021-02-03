@@ -75,10 +75,10 @@ The type of environment that you create depends on whether you purchased a [!inc
     > [!NOTE]
     > For information about security groups, see [Restrict access to an instance](admin-security.md).
 
-4. After the new environment is active (that is, when **Ready** appears in the **State** field for the environment), go to [Change the maximum upload file size](#upload).
+    When the new environment is active, **Ready** appears in the **State** field for the environment. 
 
-> [!NOTE]
-> If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment shown in the illustrations.
+    > [!NOTE]
+    > If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment shown in the illustrations.
 
 ## Set up a default environment (for trial subscriptions only)
 
@@ -110,8 +110,6 @@ The type of environment that you create depends on whether you purchased a [!inc
    > If you see a warning that says, "You do not have the required Dynamics 365 licenses to create databases with Dynamics apps," ignore it.
    
    ![Add command and warning message](media/select-add.PNG "Add command and warning message")
-
-6. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
 
 ## Install and configure the solution<a name="configure"></a>
 
