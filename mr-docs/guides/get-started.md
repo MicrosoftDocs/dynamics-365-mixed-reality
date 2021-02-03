@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Get started with Dynamics 365 Guides
 
-Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]? Not sure where to begin? Use this topic to get a quick overview of available resources.
+Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]? Not sure where to begin? Use this page to get a quick overview of available resources.
 
 ## Top resources
 
@@ -51,7 +51,7 @@ To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-3
 
 ## Understand concepts
 
-Use these topics to get a quick overview of the product and the process of authoring a guide:
+Use these pages to get a quick overview of the product and the process of authoring a guide:
 
 - [Overview of Dynamics 365 Guides](index.md)
 
@@ -63,7 +63,7 @@ Use these topics to get a quick overview of the product and the process of autho
 
 ## Set up and administer Dynamics 365 Guides
 
-Here are the most important topics for admins:
+Here are the most important pages for admins:
 
 - [Requirements for installation](requirements.md)
 
@@ -75,7 +75,7 @@ Here are the most important topics for admins:
 
 ## Find out what's new
 
-We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to include the top features that customers have requested. To find out what's new, check out our [What's new topic](new.md) page. This page is also available by selecting the **Help** (question mark) button in the upper-right corner of the PC app, so it's always at your fingertips.
+We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to include the top features that customers have requested. To find out what's new, check out our [What's new](new.md) page. This page is also available by selecting the **Help** (question mark) button in the upper-right corner of the PC app, so it's always at your fingertips.
 
 ![What's New command](media/what-new.PNG "What's New command")
 
@@ -99,7 +99,7 @@ You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)
 
 ## Need help or support?
 
-If you encounter an issue, check out these topics:
+If you encounter an issue, check out these pages:
 
 - [FAQ](faq.md)
 
