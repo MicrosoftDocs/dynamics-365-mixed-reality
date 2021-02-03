@@ -53,7 +53,7 @@ select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guid
      to your organization's secure [!include[pn-dyn-365](../includes/pn-dyn-365.md)] environment. 
 
 5.	You should now see the template populated with data from your own guides. If you haven't operated any guides yet, your reports might appear blank. The reports are 
-described in detail in "Take a tour of reports" later in this topic. 
+described in detail in [Take a tour of reports](analytics-ga-reports.md). 
  
      ![Example report](media/example-report.PNG "Example report")
  
