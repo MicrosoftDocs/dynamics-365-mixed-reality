@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Update the Dynamics 365 Guides solution
 
-Some releases of [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. 
+Some releases of Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] require an update to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] solution. 
 
 > [!IMPORTANT]
 > To update the Guides solution, you must have a [System Administrator security group role](https://docs.microsoft.com/power-platform/admin/database-security) and an assigned Guides license. 
