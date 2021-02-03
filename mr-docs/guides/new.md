@@ -111,7 +111,7 @@ Version 402.2007.7001.0 of the PC and [!include[pn-hololens](../includes/pn-holo
 |----------------------------------------------------------------------------------------|------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/operators-use-previously-opened-guides-hololens-when-offline" target="_blank">Operators can use any previously opened guides on HoloLens when offline</a> | No |
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features" target="_blank">Filter Power BI dashboard data by Author or Operator role</a> | No |
-| <a href="https://docs.microsoft.com/en-us/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/improved-hologram-alignment-real-world-during-mixed-reality-capture-hololens-2" target="_blank">Improved hologram alignment with real world during Mixed Reality Capture on HoloLens 2</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/improved-hologram-alignment-real-world-during-mixed-reality-capture-hololens-2" target="_blank">Improved hologram alignment with real world during Mixed Reality Capture on HoloLens 2</a> | No |
 
 ### Other update
 
