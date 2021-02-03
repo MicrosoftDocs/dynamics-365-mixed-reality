@@ -79,6 +79,8 @@ The type of environment that you create depends on whether you purchased a [!inc
 
     > [!NOTE]
     > If you set up a production environment instead of a default environment, in the remaining procedures in this topic, use the production environment instead of the default environment shown in the illustrations.
+    
+4. Go to the **Install and Configure the solution** procedure below. 
 
 ## Set up a default environment (for trial subscriptions only)
 
@@ -110,6 +112,8 @@ The type of environment that you create depends on whether you purchased a [!inc
    > If you see a warning that says, "You do not have the required Dynamics 365 licenses to create databases with Dynamics apps," ignore it.
    
    ![Add command and warning message](media/select-add.PNG "Add command and warning message")
+   
+6. Go to the **Install and Configure the solution** procedure below.
 
 ## Install and configure the solution<a name="configure"></a>
 
