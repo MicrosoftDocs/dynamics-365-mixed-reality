@@ -50,4 +50,4 @@ To do this:
  
 ## See also
 
-[Analyze guides usage](analytics-guide.md)
+[Analyze guides usage](analytics-overview.md)
