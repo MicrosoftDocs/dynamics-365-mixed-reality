@@ -39,4 +39,8 @@ Use the commands in the following table to turn narration on or off or to select
 |Response *Number*| Select the response in a question card indicated by the specified *Number*. For example, say **Response 1** to go to the item labeled "Response 1". |
 |Response *Number* Text| Select the response in a question card indicated by the label position for that response. For example, if the label for the first response has been changed by the author to "Beginner" instead of "Response 1", say **Response 1 Text** to select that response.|
 
+## See also
+
+[Voice commands](voice-commands.md)
+
  
