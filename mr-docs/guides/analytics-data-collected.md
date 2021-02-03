@@ -64,7 +64,7 @@ Double-clicking on an individual session row in this view provides more details 
 
 - [Guides table (entity) reference](developer-entity-reference.md)
 
-- [Overview of analyzing guides created with Dynamics 365 Guides](analytics-overview.md)
+- [Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
 
 - [Overview of Guides Analytics Power BI templates](analytics-guide.md)
 
