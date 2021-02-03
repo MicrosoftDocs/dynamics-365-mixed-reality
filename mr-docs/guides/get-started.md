@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about resources to get started with Dynamics 365 Guides
 ms.author: Mamaylya
-ms.date: 04/28/2020
+ms.date: 02/03/2021
 ms.service: crm-online
 ms.topic: article
 title: Get started with Dynamics 365 Guides
@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Get started with Dynamics 365 Guides
 
-Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]? Not sure where to begin? Use this topic to get a quick overview of available resources.
+Just getting started with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]? Not sure where to begin? Use this page to get a quick overview of available resources.
 
 ## Top resources
 
@@ -41,8 +41,6 @@ These step-by-step video tutorials provide a quick overview of key concepts:
 
 - ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)
 
-- ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Analyze your guides by using Power BI reports](https://aka.ms/guidesanalyze)
-
 ### Demo
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides a five-minute demo that showcases the value of the app for your company. This demo is useful for every [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] user, regardless of whether you're an author, operator, process engineer, or business decision maker. You don't have to be online to use the demo.
@@ -53,7 +51,7 @@ To start the demo, air tap the [!include[pn-dyn-365-guides](../includes/pn-dyn-3
 
 ## Understand concepts
 
-Use these topics to get a quick overview of the product and the process of authoring a guide:
+Use these pages to get a quick overview of the product and the process of authoring a guide:
 
 - [Overview of Dynamics 365 Guides](index.md)
 
@@ -65,7 +63,7 @@ Use these topics to get a quick overview of the product and the process of autho
 
 ## Set up and administer Dynamics 365 Guides
 
-Here are the most important topics for admins:
+Here are the most important pages for admins:
 
 - [Requirements for installation](requirements.md)
 
@@ -73,31 +71,35 @@ Here are the most important topics for admins:
 
 - [Upgrade the solution](upgrade.md)
 
+- [Deployment playbook](admin-deployment-playbook.md)
+
 ## Find out what's new
 
-We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to include the top features that customers have requested. To find out what's new, check out the [What's new topic](new.md). This topic is also available by selecting the **Help** (question mark) button in the upper-right corner of the PC app. Therefore, it's always at your fingertips.
+We're constantly updating [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to include the top features that customers have requested. To find out what's new, check out our [What's new](new.md) page. This page is also available by selecting the **Help** (question mark) button in the upper-right corner of the PC app, so it's always at your fingertips.
 
 ![What's New command](media/what-new.PNG "What's New command")
 
-To learn when features were introduced, or to learn about upcoming features, see the Release plan topics:
+To learn when features were introduced, or to learn about upcoming features, see the Release plan:
 
-- [2019 Wave 1 (April 2019 through September 2019)](https://docs.microsoft.com/business-applications-release-notes/April19/index)
+- [2020 Wave 2 (October 2020 through March 2021)](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features)
+
+- [2020 Wave 1 (April 2020 through September 2020)](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)
 
 - [2019 Wave 2 (October 2019 through March 2020)](https://docs.microsoft.com/dynamics365-release-plan/2019wave2/index)
 
-- [2020 Wave 1 (April 2020 through September 2020)](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)
+- [2019 Wave 1 (April 2019 through September 2019)](https://docs.microsoft.com/business-applications-release-notes/April19/index)
 
 ## Integrations
 
 You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service and Dynamics 365 Supply Chain Management.
 
-- **Dynamics 365 Field Service integration.** Integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service to enable field service technicians to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to complete their work orders. [Learn more about how to integrate Dynamics 365 Field Service](field-service.md).
+- **Dynamics 365 Field Service integration.** Integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service to enable field service technicians to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] to complete their work orders. [Learn more about integrating Dynamics 365 Field Service](field-service.md).
 
-- **Dynamics 365 Supply Chain Management.** Integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with the **Asset Management** module in Dynamics 365 Supply Chain Management to take advantage of mixed-reality guides in your day-to-day service and maintenance workflows. [Learn more about how to integrate Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md).
+- **Dynamics 365 Supply Chain Management.** Integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with production processes or asset management to take advantage of mixed-reality guides in your day-to-day service and maintenance workflows. [Learn more about integrating Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md).
 
 ## Need help or support?
 
-If you encounter an issue, check out these topics:
+If you encounter an issue, check out these pages:
 
 - [FAQ](faq.md)
 
