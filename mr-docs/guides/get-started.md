@@ -87,6 +87,8 @@ To learn when features were introduced, or to learn about upcoming features, see
 
 - [2020 Wave 1 (April 2020 through September 2020)](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-guides/planned-features)
 
+- [2020 Wave 2 (October 2020 through March 2021)](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/mixed-reality/dynamics365-guides/planned-features)
+
 ## Integrations
 
 You can integrate [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] with Dynamics 365 Field Service and Dynamics 365 Supply Chain Management.
