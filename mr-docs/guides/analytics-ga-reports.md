@@ -95,8 +95,7 @@ Use the Process Time-Tracking report to analyze step-level run-time data for a s
 
     This table shows you the tasks and steps for the selected guide. You can select the average step time or standard deviation (**Time SD**) column to quickly find the longest/shortest 
     steps or steps with most/least variability in time (standard deviation). If a step is visited multiple times in the same session, the total time spent on that step will 
-    be used in the step average calculation. If a step is visited multiple times in the same session, the total time spent on that step will be used in the step average 
-    calculation. Select a row of this table to filter all the visuals in the report to just that step.
+    be used in the step average calculation. Select a row of this table to filter all the visuals in the report to just that step.
     
     Note that the report does not provide times for alignment and completion steps.
     
