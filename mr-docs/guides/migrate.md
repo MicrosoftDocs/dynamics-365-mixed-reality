@@ -46,7 +46,7 @@ The tool supports the following types of migration.
 
 - You must use [Windows PowerShell](https://docs.microsoft.com/powershell/scripting/install/installing-windows-powershell?view=powershell-7#how-to-check-the-version-of-powershell) version 5.1.18362.752 or later.
 
-- Both the source instance and the destination instance must use Dynamics 365 Guides solution version 503.0.0 or later. 
+- Both the source instance and the destination instance must use Dynamics 365 Guides solution version 500.0.0 or later. 
 
 - You must have credentials to sign in to the source instance in the **System Admin** role (preferable) or **Operator/Author** role (required).
 
@@ -78,7 +78,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
     ![View Program Downloads button](media/migration-program-downloads.PNG "View Program Downloads button")
 
-5. Download the **ContentMigrationTool\_D365Guides\_v503.3.1.0.zip** folder by selecting the link in the **File Name** column. The file is automatically saved in your **Downloads** folder.
+5. Download the **ContentMigrationTool\_D365Guides\_v500.3.1.0.zip** folder by selecting the link in the **File Name** column. The file is automatically saved in your **Downloads** folder.
 
     ![Zipped folder to download](media/migration-download.PNG "Zipped folder to download")
 
@@ -100,7 +100,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
         ![Extract all button](media/migration-extract-all.PNG "Extract all button")
 
-4. Go to the File Explorer location where you extracted the contents of the zipped folder, and then go to the **ContentMigrationTool\_D365Guides\_v503.3.1.0** \> **MigrationToolScripts** folder.
+4. Go to the File Explorer location where you extracted the contents of the zipped folder, and then go to the **ContentMigrationTool\_D365Guides\_v500.3.1.0** \> **MigrationToolScripts** folder.
 
 5. Run Windows PowerShell [as an administrator](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831491(v=ws.11)#run-a-program-as-administrator-or-as-another-user) by following these steps:
 
