@@ -25,7 +25,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## February 3, 2021
 
-Version 503.2102.1001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.3.1.2 include the following new features.
+Version 503.2102.2001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.3.1.2 include the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
