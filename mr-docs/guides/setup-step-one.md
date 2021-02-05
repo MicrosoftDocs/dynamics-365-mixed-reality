@@ -40,8 +40,6 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
 2. Make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license is assigned to a user. In the left pane, select **Users**, select **Active users**, and then select the check box for the user that you want to add.
 
-    ![Active users page](media/users-active-users.PNG "Active users page")
-
 3. Select **Manage product licenses**.
 
     ![Manage product licenses button](media/manage-product-licenses.PNG "Manage product licenses button")
