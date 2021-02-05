@@ -110,24 +110,6 @@ The type of environment that you create depends on whether you purchased a [!inc
 
 6. After you've created the database, go to the next procedure: [Change the maximum upload file size](#upload).
 
-## Change the maximum upload file size<a name="upload"></a>
-
-In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC app, you can upload your own 3D files in addition to videos and 2D images. Because many of these files will be larger than 5 megabytes (MB), you must increase the maximum file size for uploaded files by changing the setting for the size of email attachments.
-
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the newly created environment, select the **More environment actions** (**...**) button, and then select **Settings**.
-
-    ![Settings command](media/environment-settings.PNG "Settings command")
-
-2. On the **Settings** page, under **Email**, select **Email settings**.
-
-    ![Email settings link](media/email-settings.png "Email settings link")
-
-3. Scroll to the bottom of the page, and then, under **Attachments**, set the **Maximum file size for attachments** field to **131072**. When you've finished, select **Save**.
-
-    ![Maximum file size for attachments field](media/edit-file-size.png "Maximum file size for attachments field")
-
-4. Go back to the **Environments** page to prepare for the next procedure.
-
 ## Install and configure the solution<a name="configure"></a>
 
 1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the left pane, select **Resources** \> **Dynamics 365 apps**, select **Dynamics 365 Guides** in the list, and then select **Install**. 
