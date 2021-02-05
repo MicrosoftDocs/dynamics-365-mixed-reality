@@ -34,9 +34,9 @@ There are two ways to get a [!include[cc-microsoft](../includes/cc-microsoft.md)
 
 After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] subscription, you must assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to user accounts.
 
-1. Open the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home), and make sure that the **The new admin center** option in the upper right corner of the page is turned on.
+1. Open the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
-    ![The new admin center option](media/new-admin-center-slider.PNG "The new admin center option")
+    ![Microsoft 365 admin center](media/microsoft-365-admin-center-5.PNG "Microsoft 365 admin center")
 
 2. Make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license is assigned to a user. In the left pane, select **Users**, select **Active users**, and then select the check box for the user that you want to add.
 
