@@ -25,7 +25,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 ## February 3, 2021
 
-Version 503.2102.1001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 503.3.1.2 include the following new features.
+Version 503.2102.1001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.3.1.2 include the following new features.
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
@@ -36,7 +36,7 @@ Version 503.2102.1001 of the PC and [!include[pn-hololens](../includes/pn-holole
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/updated-dynamics-365-guides-demo" target="_blank">Updated Dynamics 365 Guides demo</a> | No |
 
 > [!IMPORTANT]
-> If you're an integrator and you have used custom security roles in your implementations, you'll need to edit those security roles. See <a href="https://community.dynamics.com/365/guides/f/dynamics-365-guides-forum/413710/information-about-guides-version-500-3-1-x-update-for-integrators" target="_blank">information about version 503.3.1.x for integrators</a>.
+> If you're an integrator and you have used custom security roles in your implementations, you'll need to edit those security roles. See <a href="https://community.dynamics.com/365/guides/f/dynamics-365-guides-forum/413710/information-about-guides-version-500-3-1-x-update-for-integrators" target="_blank">information about version 500.3.1.x for integrators</a>.
 
 ## December 8, 2020
 
