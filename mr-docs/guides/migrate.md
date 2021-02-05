@@ -2,7 +2,7 @@
 author: melissahellmund
 description: This topic explains how to migrate Microsoft Dynamics 365 Guides content from one Microsoft Dataverse instance to another by using the Dynamics 365 Guides Content Migration Tool (Public Preview)
 ms.author: mehellmu
-ms.date: 02/04/2020
+ms.date: 02/05/2020
 ms.service: crm-online
 ms.topic: article
 title: Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another using the Content Migration Tool (Public Preview)
@@ -78,7 +78,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
     ![View Program Downloads button](media/migration-program-downloads.PNG "View Program Downloads button")
 
-5. Download the **ContentMigrationTool\_D365Guides\_v500.3.1.0.zip** folder by selecting the link in the **File Name** column. The file is automatically saved in your **Downloads** folder.
+5. Download the **ContentMigrationTool\_D365Guides\_v500.3.1.x.zip** folder by selecting the link in the **File Name** column. The file is automatically saved in your **Downloads** folder.
 
     ![Zipped folder to download](media/migration-download.PNG "Zipped folder to download")
 
@@ -100,7 +100,7 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 
         ![Extract all button](media/migration-extract-all.PNG "Extract all button")
 
-4. Go to the File Explorer location where you extracted the contents of the zipped folder, and then go to the **ContentMigrationTool\_D365Guides\_v500.3.1.0** \> **MigrationToolScripts** folder.
+4. Go to the File Explorer location where you extracted the contents of the zipped folder, and then go to the **ContentMigrationTool\_D365Guides\_v500.3.1.x** \> **MigrationToolScripts** folder.
 
 5. Run Windows PowerShell [as an administrator](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831491(v=ws.11)#run-a-program-as-administrator-or-as-another-user) by following these steps:
 
