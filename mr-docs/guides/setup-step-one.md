@@ -48,7 +48,7 @@ After you sign up for a [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guid
 
     ![Adding a user license](media/guides-license.PNG "Adding a user license")
     
-5. In the **Apps** list, make sure that the following apps are selected: Microsoft Dataverse, Dynamics 365 Guides, Power Apps for Guides.    
+5. In the **Apps** list, make sure that the following apps are selected: Common Data Service, Dynamics 365 Guides, Power Apps for Guides.    
     
     ![Apps list](media/guides-apps-list.PNG "Apps list")
 
