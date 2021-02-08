@@ -97,13 +97,17 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 ## Associate a security group with an instance
 
-1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), in the left pane, select **All admin centers**, and then select **Dynamics 365**.
+1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), in the left pane, select **All admin centers**, and then select **Power Apps**.
 
     ![Open the Dynamics 365 admin center](media/all-admin-centers.PNG "Open the Dynamics 365 admin center")
 
-2. In the Dynamics 365 admin center, on the **Instances** tab, select an instance, and then select **Edit**.
+2. In the Power Platform admin center, in the **Details** section, select **Edit**.
 
-3. In the security settings, search for a specific security group, select **Next**, and then select **Save**.
+    SCREEN SHOT GOES HERE
+
+3. On the **Edit Details** tab, select the pencil button, and then select the security group.
+
+    SCREEN SHOT GOES HERE
 
 ## Additional information about security groups
 
