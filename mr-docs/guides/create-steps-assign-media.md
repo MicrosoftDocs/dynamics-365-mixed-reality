@@ -182,17 +182,7 @@ You can preview an image, video, or 3D model on the right side of the PC app and
 
     ![Properties tab for previewing image, video, or 3D model](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
     
-    The image and its properties are displayed on the right side of the screen.
-    
-## Deactivate specific content
-
-You can deactivate an image, video, or 3D part in the PC app. This hides the content in the library without affecting existing guides that use that content. The content is not physically deleted and can be [reactivated through the Guides Hub by an administrator](admin-deactivate-guide.md).
- 
-1.  Right-click the image, video, or 3D part that you want to deactivate.
-
-2. Select **Deactivate**.
-
-    ![Deactivate command](media/deactivate-content.PNG "Deactivate command")
+    The image and its properties are displayed on the right side of the screen.   
 
 ## What's next?
 
