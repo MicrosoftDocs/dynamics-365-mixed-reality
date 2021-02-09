@@ -44,7 +44,7 @@ As an admin, you can also activate, deactivate, or delete specific guide content
     > [!TIP]
     > If there are many guides, you can use the search box in the upper-right corner of the page, or the letter filters at the bottom of the page, to find the correct guide.
     
-## Activate, deactivate, or delete guide content (video, image, or 3D part) 
+## Activate, deactivate, or delete specific guide content (video, image, or 3D part) 
 
 1. Sign in to the instance by using your admin credentials.
 
@@ -52,7 +52,11 @@ As an admin, you can also activate, deactivate, or delete specific guide content
 
     ![Guides app tile](media/guides-app-tile.PNG "Guides app tile")
     
-3. Select a tab (**3D**, **Images**, or **Videos**) in the library.
+3. From the **Library** menu on the left side of the screen, select **3D**, **Images**, or **Videos**.
+
+4. In the drop-down list above the grid, select **Inactive 3D Objects** to view all the objects that are currenlty inactive. 
+
+5. Select the check box next to the appropriate object, and then select **Activate**, **Deactivate**, or **Delete** at the top of the page. 
 
 ## See also
 
