@@ -46,7 +46,13 @@ As an admin, you can also activate, deactivate, or delete specific guide content
     
 ## Activate, deactivate, or delete guide content (video, image, or 3D part) 
 
+1. Sign in to the instance by using your admin credentials.
 
+2. In Power Apps, select the **Guides** app tile.
+
+    ![Guides app tile](media/guides-app-tile.PNG "Guides app tile")
+    
+3. Select a tab (**3D**, **Images**, or **Videos**) in the library.
 
 ## See also
 
