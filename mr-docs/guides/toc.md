@@ -54,6 +54,7 @@
 #### [Overview](hololens-app-overview.md)
 #### [Install the app and sign in](install-sign-in-hololens-app.md)
 #### [Calibrate your HoloLens](hololens-app-calibrate.md) 
+#### [Find a guide](hololens-app-find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
 #### [Create and place a trigger for step navigation](hololens-app-trigger.md)
