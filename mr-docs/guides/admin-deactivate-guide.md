@@ -58,6 +58,8 @@ As an admin, you can also activate, deactivate, or delete specific guide content
 
 4. In the drop-down list above the grid, select **Inactive 3D Objects** to view all the objects that are currently inactive. 
 
+    ![Inactive 3D objects](media/deactivate-active-3D-objects.PNG "Inactive 3D objects")
+
 5. Select the check box next to the appropriate object, and then select **Activate**, **Deactivate**, or **Delete** at the top of the page. 
 
 ## Reactivate specific guide content
