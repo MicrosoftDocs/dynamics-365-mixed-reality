@@ -19,7 +19,7 @@
 #### [Assign user roles](assign-role.md)
 #### [Restrict access to a specific instance](admin-security.md)
 #### [Limit access to specific guides or guide content](admin-access-teams.md)
-#### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
+#### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
@@ -48,7 +48,7 @@
 #### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
 #### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
-#### [Deactivate a guide](pc-app-deactivate-guide.md)
+#### [Deactivate a guide or guide content](pc-app-deactivate-guide.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
