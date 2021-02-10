@@ -54,7 +54,9 @@ As an admin, you can also activate, deactivate, or delete specific guide content
     
 3. From the **Library** menu on the left side of the screen, select **3D**, **Images**, or **Videos**.
 
-4. In the drop-down list above the grid, select **Inactive 3D Objects** to view all the objects that are currenlty inactive. 
+    ![Library menu showing 3D, Images, and Videos items](media/library-2.PNG "Library menu showing 3D, Images, and Videos items")
+
+4. In the drop-down list above the grid, select **Inactive 3D Objects** to view all the objects that are currently inactive. 
 
 5. Select the check box next to the appropriate object, and then select **Activate**, **Deactivate**, or **Delete** at the top of the page. 
 
