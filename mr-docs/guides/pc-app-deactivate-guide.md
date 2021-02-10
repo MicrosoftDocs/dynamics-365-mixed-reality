@@ -38,4 +38,4 @@ When you deactivate an image, video, or 3D part in the PC app, the content is hi
 
 ## See also
 
-[Deactivate a guide (admins)](admin-deactivate-guide.md)
+[Deactivate, reactivate, or delete a guide or guide contents (admins)](admin-deactivate-guide.md)
