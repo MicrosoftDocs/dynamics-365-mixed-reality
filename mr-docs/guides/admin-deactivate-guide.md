@@ -62,6 +62,8 @@ As an admin, you can also activate, deactivate, or delete specific guide content
 
 5. Select the check box next to the appropriate object, and then select **Activate**, **Deactivate**, or **Delete** at the top of the page. 
 
+    ![Selected objects](media/deactivate-select-objects.PNG "Selected objects")
+
 ## Reactivate specific guide content
 
 1. Sign into your Guides portal, and then under **Library** on the left side of the screen, select **3D**, **Images**, or **Videos**.
