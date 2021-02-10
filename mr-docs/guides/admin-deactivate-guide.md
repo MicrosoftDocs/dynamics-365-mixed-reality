@@ -60,6 +60,18 @@ As an admin, you can also activate, deactivate, or delete specific guide content
 
 5. Select the check box next to the appropriate object, and then select **Activate**, **Deactivate**, or **Delete** at the top of the page. 
 
+## Reactivate specific guide content
+
+1. Sign into your Guides portal, open the **Library** menu on the left side of the screen, and then select **3D**, **Images**, or **Videos**.
+
+    ![Library menu showing 3D, Images, and Videos items](media/library-2.PNG "Library menu showing 3D, Images, and Videos items")
+    
+2. Locate and select the deactivated content. 
+
+3. Select **Activate** at the top of the screen.
+
+    ![Activate button](media/activate-button-2.PNG "Activate button")    
+
 ## See also
 
 [Deactivate a guide or guide content (video, image, or 3D part) if you're an author](pc-app-deactivate-guide.md)
