@@ -183,6 +183,10 @@ You can preview an image, video, or 3D model on the right side of the PC app and
     ![Properties tab for previewing image, video, or 3D model](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
     
     The image and its properties are displayed on the right side of the screen.   
+    
+## Deactivating a guide or guide content
+
+You can deactivate a guide or guide content if you no longer need it. For more information, see [Deactivate a guide or guide content](pc-app-deactivate-guide.md). If you're an admin, you can reactivate content, if needed. As an admin, you can also deactivate or permanently delete a guide or guide content. For more information on reactivating, deactivating, or deleting a guide or guide content as an admin, see [Deactivate, reactivate, or delete a guide or guide content](admin-deactivate-guide.md).
 
 ## What's next?
 
