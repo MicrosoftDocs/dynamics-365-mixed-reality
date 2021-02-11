@@ -22,7 +22,7 @@ included anywhere in the guide name.
 
 3.	Close the keyboard to return to the guide list.
 
-4.	To open a guide from the results, gaze at the selection box for the guide you want to open.
+4.	To open a guide from the results, gaze at the selection circle for the guide you want to open.
 
 5.	To refine the criteria, gaze at the magnifying glass again or tap the text box that shows the filter text.
 
