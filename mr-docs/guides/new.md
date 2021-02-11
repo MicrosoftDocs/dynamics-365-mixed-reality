@@ -23,6 +23,17 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
+## February 23, 2021
+
+Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version XXX include the following new features.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="XXX" target="_blank">Deactivate images, videos, and 3D models from the PC app</a> | Yes |
+| <a href="XXX" target="_blank">Use filters to find guides more quickly on HoloLens 2</a> | Yes |
+| <a href="XXX" target="_blank">Support for security permissions at team level</a> | Yes |
+| <a href="XXX" target="_blank">Performance improvements in loading list of guides</a> | Yes |
+
 ## February 3, 2021
 
 Version 503.2102.2001 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.3.1.2 include the following new features.
