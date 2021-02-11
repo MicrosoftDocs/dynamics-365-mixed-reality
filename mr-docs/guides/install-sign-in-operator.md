@@ -56,7 +56,9 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 
 ## What's next?
 
-[Calibrate your HoloLens](operator-calibrate.md)<br>
-[Gestures for navigating the app](operator-gestures.md)<br>
+
+[Find a guide](find-guide.md)<br>
+[Gestures for navigating the HoloLens app](operator-gestures.md)<br>
 [Anchor your guide](operator-anchor.md)<br>
 [Operate a guide](operator-step-card-orientation.md)
+[Calibrate your HoloLens](operator-calibrate.md)<br>

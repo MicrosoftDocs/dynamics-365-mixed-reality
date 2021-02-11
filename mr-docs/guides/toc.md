@@ -19,7 +19,7 @@
 #### [Assign user roles](assign-role.md)
 #### [Restrict access to a specific instance](admin-security.md)
 #### [Limit access to specific guides or guide content](admin-access-teams.md)
-#### [Activate, deactivate, or delete a guide](admin-deactivate-guide.md)
+#### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
 #### [Dynamics 365 Supply Chain Management](admin-integrate-asset-management.md)
@@ -49,12 +49,13 @@
 #### [Create and copy a link to a guide or a step](pc-app-copy-link-guide-step.md)
 #### [Embed a link to a guide in a QR code](pc-app-anchor-embed-qr-code-link.md)
 #### [Keyboard shortcuts](keyboard-shortcuts-pc-app.md)
-#### [Deactivate a guide](pc-app-deactivate-guide.md)
+#### [Deactivate a guide or guide content](pc-app-deactivate-guide.md)
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
-#### [Install the app and sign in](install-sign-in-hololens-app.md)
 #### [Calibrate your HoloLens](hololens-app-calibrate.md) 
+#### [Install the app and sign in](install-sign-in-hololens-app.md)
+#### [Find a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
 #### [Create and place a trigger for step navigation](hololens-app-trigger.md)
@@ -70,6 +71,7 @@
 #### [HoloLens 1](operator-calibrate.md)
 #### [HoloLens 2](operator-calibrate-HL2.md)
 ### [Install the HoloLens app and sign in](install-sign-in-operator.md)
+### [Find a guide](find-guide.md)
 ### [Open a guide by using a QR code](operator-open-guide-qr-code.md)
 ### Gestures for navigating a guide
 #### [HoloLens 1](operator-gestures.md)
