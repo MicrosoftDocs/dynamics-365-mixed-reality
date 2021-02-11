@@ -22,8 +22,8 @@ included anywhere in the guide name.
 
 3.	Close the keyboard to return to the guide list.
 
-4.	To open a guide from the results, gaze at the selection circle for the guide you want to open.
+4.	To refine the criteria, gaze at the magnifying glass again or tap the text box that shows the filter text.
 
-5.	To refine the criteria, gaze at the magnifying glass again or tap the text box that shows the filter text.
+5.	To exit search and return to the main guides list, gaze at the **Back** button.
 
-6.	To exit search and return to the main guides list, gaze at the **Back** button.
+
