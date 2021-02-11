@@ -52,9 +52,9 @@
 #### [Opt out of sending telemetry data](data-opt-out-pc-app.md)
 ### Author in the HoloLens app
 #### [Overview](hololens-app-overview.md)
-#### [Install the app and sign in](install-sign-in-hololens-app.md)
 #### [Calibrate your HoloLens](hololens-app-calibrate.md) 
-#### [Find a guide](hololens-app-find-guide.md)
+#### [Install the app and sign in](install-sign-in-hololens-app.md)
+#### [Find a guide](find-guide.md)
 #### [Anchor your guide](hololens-app-anchor.md)
 #### [Place holograms, add styles, and more](hololens-app-orientation.md)
 #### [Create and place a trigger for step navigation](hololens-app-trigger.md)
@@ -70,6 +70,7 @@
 #### [HoloLens 1](operator-calibrate.md)
 #### [HoloLens 2](operator-calibrate-HL2.md)
 ### [Install the HoloLens app and sign in](install-sign-in-operator.md)
+### [Find a guide](find-guide.md)
 ### Gestures for navigating a guide
 #### [HoloLens 1](operator-gestures.md)
 #### [HoloLens 2](operator-gestures-HL2.md)
