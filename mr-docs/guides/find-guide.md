@@ -22,7 +22,7 @@ included anywhere in the guide name.
 
 3.	Close the keyboard to return to the guide list.
 
-4.	To refine the criteria, gaze at the magnifying glass again or tap the text box that shows the filter text.
+4.	To refine the criteria, gaze at the magnifying glass again or select the box that shows the filter text.
 
 5.	To exit search and return to the main guides list, gaze at the **Back** button.
 
