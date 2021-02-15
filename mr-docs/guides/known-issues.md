@@ -62,3 +62,6 @@ Please contact customer service: [https://docs.microsoft.com/dynamics365/get-sta
 [Known issues with the HoloLens app](known-issues-hololens-app.md)<br>
 [Dynamics 365 Guides FAQ](faq.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

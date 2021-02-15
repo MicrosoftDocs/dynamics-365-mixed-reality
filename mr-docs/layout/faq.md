@@ -107,3 +107,6 @@ Still need help? Try our [user forums](https://community.dynamics.com/365/layout
 [User guide](user-guide.md)<br/>
 [How-to videos](videos.md)<br/>
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

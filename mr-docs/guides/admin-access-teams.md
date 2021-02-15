@@ -157,3 +157,6 @@ All users who have access to the Guides model-driven app can share the guides an
 [Assign an Operator or Author role to a user](assign-role.md)<br>
 [Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md)<br>
 [Learn more about Dynamics 365 security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

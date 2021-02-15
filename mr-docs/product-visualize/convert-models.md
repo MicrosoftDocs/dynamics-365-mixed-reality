@@ -38,3 +38,6 @@ In situations where a CAD application doesn’t have an export option for FBX, O
 [Best practices for converting and optimizing models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)<br>
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

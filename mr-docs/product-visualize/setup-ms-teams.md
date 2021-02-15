@@ -114,3 +114,6 @@ You now have everything you need to start using Dynamics 365 Product Visualize. 
 [Add a note to a model](add-note-model.md)<br>
 [Create a mixed reality session](create-mr-session.md)<br>
 [Add a product to a mixed reality session](add-product-mr-session.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -40,3 +40,6 @@ Ready to jump in? Choose one or more of these links to get underway:
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide with the HoloLens app](hololens-app-overview.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Gestures for authoring and navigating](authoring-gestures.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [How to make a great guide](great-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

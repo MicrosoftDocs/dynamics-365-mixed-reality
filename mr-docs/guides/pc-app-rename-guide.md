@@ -32,3 +32,6 @@ From the **Home** page in the PC app, you can rename a guide that was created in
 ## See also
 
 [Create a guide in the PC app](create-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

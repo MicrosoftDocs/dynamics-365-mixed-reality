@@ -44,3 +44,6 @@ Use the commands in the following table to turn narration on or off or to select
 [Voice commands](voice-commands.md)
 
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

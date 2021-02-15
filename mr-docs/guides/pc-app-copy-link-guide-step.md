@@ -37,3 +37,6 @@ You might want to create and copy a link to a guide or a step in [!include[cc-mi
 
 [Embed a link in a QR code to make it easy to open a guide](pc-app-anchor-embed-qr-code-link.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

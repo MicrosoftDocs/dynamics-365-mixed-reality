@@ -140,3 +140,6 @@ question step before the completion step and link the responses to the completio
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

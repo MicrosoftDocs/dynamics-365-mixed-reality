@@ -70,3 +70,6 @@ After you've added notes to your model, you can edit or delete them.
 [Create a mixed-reality session](create-mr-session.md)<br>
 [Add a product to a mixed-reality session](add-product-mr-session.md)<br>
 [Set up Microsoft Teams](setup-ms-teams.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

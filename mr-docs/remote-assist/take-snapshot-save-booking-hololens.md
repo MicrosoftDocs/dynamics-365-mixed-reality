@@ -31,3 +31,6 @@ Photos are saved differently depending on whether or not the Dynamics 365 Remote
 - If a Dynamics 365 Remote Assist call is *not* associated with a booking, your photo will automatically be saved in OneDrive.
 
 A link to the photo is sent via text chat. All call participants can access the link via Teams chat during and after the call.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

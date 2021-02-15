@@ -37,3 +37,6 @@ Dynamics 365 Product Visualize makes use of the widely available Graphics Librar
 [Product Visualize Hub user guide](hub-user-guide.md)<br>
 [Product Visualize iOS app user guide](user-guide.md)<br>
 [FAQ](faq.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

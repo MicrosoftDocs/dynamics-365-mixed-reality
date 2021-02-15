@@ -75,3 +75,6 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the return to video call.](./media/network_2.png "Video Feed") 
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -33,3 +33,6 @@ The operations data, which includes information about time spent on each step an
 - [Take a tour of Guides Analytics reports](analytics-ga-reports.md)
 
 - [Share Guides Analytics reports](analytics-ga-share-reports.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

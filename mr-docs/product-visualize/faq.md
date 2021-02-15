@@ -144,3 +144,6 @@ Be aware of the positioning of the hand that holds the device. A stray finger on
 [Set up Dynamics 365 Product Visualize](setup.md)<br>
 [Product Visualize Hub user guide](hub-user-guide.md)<br>
 [Product Visualize iOS app user guide](user-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

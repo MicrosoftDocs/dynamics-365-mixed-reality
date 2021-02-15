@@ -27,3 +27,6 @@ To install and use [!include[cc-microsoft](../includes/cc-microsoft.md)] [!inclu
 
 [Install Dynamics 365 Import Tool (Preview)](install.md)<br>
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -73,3 +73,6 @@ You can update all of your downloaded models at once.
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

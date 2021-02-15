@@ -99,3 +99,6 @@ Throughout the tutorial or during the call, technicians may be prompted that the
 4. Try **turning on some lights** to brighten dimly lit spaces.
 
 ![Screenshot of Dynamics 365 Remote Assist mobile on a phone, showing the prompt that light is needed](./media/24.png "More light needed")
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -40,3 +40,6 @@ The remote collaborator can share their desktop or application window with you t
 You'll still be able to use all the tools on the video card even though you are no longer seeing your collaborator’s video feed. Your collaborators will still be able to see what you’re looking at unless you turn off outgoing video feed. 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

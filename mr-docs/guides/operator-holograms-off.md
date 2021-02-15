@@ -27,3 +27,6 @@ To turn them back on, gaze at the eye symbol again.
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Open an app in Power Apps from the Step card](operator-powerapps-link.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Work offline](operator-offline-mode.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use voice commands](voice-commands.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
