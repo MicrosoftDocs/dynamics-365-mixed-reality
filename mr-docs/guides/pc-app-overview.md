@@ -47,3 +47,6 @@ Use the PC app to complete these tasks:
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
 [Deactivate a guide](pc-app-deactivate-guide.md)<br>
 [Learn what makes a great mixed reality guide](great-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

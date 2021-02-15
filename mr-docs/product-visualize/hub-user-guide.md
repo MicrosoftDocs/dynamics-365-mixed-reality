@@ -37,3 +37,6 @@ Perform the following steps to successfully create a mixed-reality session:
 You can also [add notes to your 3D model](add-note-model.md) in Dynamics 365 Product Visualize Hub. These notes will be visible in the Dynamics 365 Product Visualize iOS app.
 
 You can also [set up Microsoft Teams](setup-ms-teams.md) to collaborate with your team, manage files, and have conversations in one easy-to-use location.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -263,3 +263,6 @@ Microsoft Corporation is not responsible for, and expressly disclaims all liabil
 Read about license terms for Blender at: [Creative Commons Attribution ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/).
 
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

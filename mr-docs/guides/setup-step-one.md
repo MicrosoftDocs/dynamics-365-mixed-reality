@@ -63,3 +63,6 @@ If you have trouble with the procedure in this step, you can get help in the fol
 - Ask a question on our community site, at <https://community.dynamics.com/365/guides>.
 
 - Contact customer service at <https://dynamics.microsoft.com/support/>.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

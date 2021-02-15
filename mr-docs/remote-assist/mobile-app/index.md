@@ -234,3 +234,6 @@ You can also provide feedback directly from the app by using the following proce
 [Integrate Dynamics 365 Field Service with Dynamics 365 Remote Assist](../troubleshoot-field-service.md)
 
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

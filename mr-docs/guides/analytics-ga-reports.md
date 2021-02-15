@@ -162,3 +162,6 @@ step visits not being correctly recorded or the guide session being interrupted.
 - [What data is collected and how can you use it?](analytics-data-collected.md)
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

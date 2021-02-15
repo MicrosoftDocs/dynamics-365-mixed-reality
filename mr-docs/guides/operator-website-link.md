@@ -28,3 +28,6 @@ If a Step card in the Microsoft Dynamics 365 Guides HoloLens app includes a **We
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn holograms off and on](operator-holograms-off.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Work offline](operator-offline-mode.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use voice commands](voice-commands.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

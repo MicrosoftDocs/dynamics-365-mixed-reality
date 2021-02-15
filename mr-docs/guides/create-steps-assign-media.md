@@ -193,3 +193,6 @@ You can preview an image, video, or 3D model on the right side of the PC app and
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
 [Deactivate a guide](pc-app-deactivate-guide.md)<br>
 [Learn what makes a great mixed reality guide](great-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

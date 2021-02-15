@@ -203,3 +203,6 @@ que ce soit, il se peut que la limitation ou l’exclusion ci-dessus ne s’appl
 **EFFET JURIDIQUE. Le présent contrat décrit certains droits juridiques. Vous pourriez avoir d’autres droits prévus par les 
 lois de votre pays. Le présent contrat ne modifie pas les droits que vous confèrent les lois de votre pays si celles-ci ne 
 le permettent pas.**
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

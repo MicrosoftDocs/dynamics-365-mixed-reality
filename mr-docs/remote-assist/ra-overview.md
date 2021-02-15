@@ -110,3 +110,6 @@ In addition to using Dynamics 365 Remote Assist to consult with remote collabora
 - [Buy Dynamics 365 Remote Assist](buy-remote-assist.md)
 - [Deploy Dynamics 365 Remote Assist](deploy-remote-assist.md) 
 - [Mixed reality](https://docs.microsoft.com/windows/mixed-reality/)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

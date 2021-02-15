@@ -151,3 +151,6 @@ When this link is selected, Remote Assist mobile will launch and search for the 
 When this link is selected and Remote Assist mobile is not installed a web browser will open, prompting the user to install Remote Assist mobile. Once installed, the user can click on another button to launch Remote Assist mobile and search for the provided contact details and provide results to the user. If Remote Assist mobile is already installed, Remote Assist mobile will launch and search for the provided contact details and provide results to the user.
 
     
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -75,3 +75,6 @@ After you add user accounts, the next step is to assign the **Author**, **Operat
 ## What's next?
 
 [Assign user roles](assign-role.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

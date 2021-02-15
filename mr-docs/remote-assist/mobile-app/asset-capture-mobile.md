@@ -70,3 +70,6 @@ The user account might have access to more than one environment with Dynamics 36
 1. Select **Settings** > **Dynamics 365 environment**.
 2. Select the environment you want from the list.
 3. Select the **Assets** tab. You might need to select **Retry**, if prompted.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

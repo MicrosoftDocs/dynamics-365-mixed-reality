@@ -91,3 +91,6 @@ After assigning security roles, you can check out the following articles to use 
 
 - [Capture asset data in HoloLens](./asset-capture-photos.md)
 - [Capture asset data on Mobile](./mobile-app/asset-capture-mobile.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

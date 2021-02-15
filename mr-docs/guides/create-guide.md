@@ -64,3 +64,6 @@ You must be online to use [!include[pn-dyn-365-guides](../includes/pn-dyn-365-gu
 [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
 [Deactivate a guide](pc-app-deactivate-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

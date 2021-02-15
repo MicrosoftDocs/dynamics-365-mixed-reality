@@ -177,3 +177,6 @@ We also highly recommend that you [back up the contents](https://docs.microsoft.
 12.	When you're prompted to confirm your selection, enter **Y**, and then select **Enter**. To cancel the action, enter **N**, and then select **Enter**.
 
     ![Confirming your selection](media/migration-choice-confirmation.PNG "Confirming your selection")
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

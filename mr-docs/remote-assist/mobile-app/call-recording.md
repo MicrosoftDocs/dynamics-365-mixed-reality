@@ -42,3 +42,6 @@ The following chart explains which call participant can initiate a call recordin
 4. The technician can select the record button to **stop** the call recording at any point in their call. Afterwards, both call participants will receive a notification that the call recording will be available in Microsoft Stream. The notification can be dismissed at any time. Once the call recording has been uploaded to Microsoft Stream, both participants can access it through the **Dynamics 365 Remote Assist mobile call text chat**, **Microsoft Teams text chat**, or on the **Microsoft Stream video folder**.
 
 ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the notification that explains the call recording is being uploaded to Microsoft Stream. ](./media/recorder_4.png)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

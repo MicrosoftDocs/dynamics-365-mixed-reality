@@ -96,3 +96,6 @@ If, at any point, you must readjust the offset, you can trigger the offset adjus
 [Known issues with Dynamics 365 Guides generally](known-issues.md)<br>
 [Known issues with the PC app](known-issues-pc-app.md)<br>
 [Dynamics 365 Guides FAQ](faq.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

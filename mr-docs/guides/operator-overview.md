@@ -27,3 +27,6 @@ Welcome to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dy
 [Gestures for navigating the app](operator-gestures.md)<br>
 [Anchor your guide](operator-anchor.md)<br>
 [Operate a guide](operator-step-card-orientation.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

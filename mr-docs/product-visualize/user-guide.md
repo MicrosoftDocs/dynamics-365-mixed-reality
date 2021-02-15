@@ -85,3 +85,6 @@ Dynamics 365 Product Visualize sends your notes to your mixed-reality session ti
 
 ![Enter conversation outcomes into Product Visualize Hub](media/dynamics-notes-timeline.png "Enter conversation outcomes into Product Visualize Hub")
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -51,3 +51,5 @@ You don't have to have a Dynamics 365 account to view 3D models in Dynamics 365 
 [Explore sample 3D models](explore-samples.md)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -28,3 +28,6 @@ This set of topics provides step-by-step instructions for each general step.
 ## What's next?
 
 Ready to get started? See step 1, [Buy a subscription or sign up for a free trial subscription](setup-step-one.md).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

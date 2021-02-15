@@ -164,3 +164,6 @@ The following tasks serve as a checklist for other potential optimizations for D
 - [Setup and use Microsoft Teams with Dynamics 365 Remote Assist](teams-pc-all.md)
 - [How-to videos](videos.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -48,3 +48,6 @@ These reports provide information about operator adoption and usage and give gui
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

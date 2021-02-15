@@ -278,3 +278,6 @@ If you're using animated 3D models in your guide, you can turn off animation if 
 ![Animation option turned off](media/edit-animations1.PNG "Animation option turned off")
 
 You can also use this option when you place animated models in space. Turn animation off, place the model, and then turn animation back on. In this way, the animation won't interfere with your ability to place the model.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

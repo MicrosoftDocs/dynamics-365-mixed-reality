@@ -43,3 +43,6 @@ You can also deactivate a guide or permanently delete it if you're sure that you
 ## See also
 
 [Deactivate a guide if you're an author](pc-app-deactivate-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

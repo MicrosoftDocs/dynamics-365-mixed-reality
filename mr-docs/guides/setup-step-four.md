@@ -33,3 +33,6 @@ If you have any trouble setting up Power BI reports, you can get help in the fol
 [Overview of operating a guide](operator-overview.md)<br>
 [Analyze your guides to improve process efficiencies](analytics-guide.md)<br>
 [FAQ](faq.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

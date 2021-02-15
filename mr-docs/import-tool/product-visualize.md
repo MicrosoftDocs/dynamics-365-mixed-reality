@@ -58,3 +58,6 @@ There are two ways to prepare CAD files to work with Dynamics 365 Product Visual
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -57,3 +57,6 @@ Your use of third-party applications is subject to terms between you and the thi
 Microsoft is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of, these tutorials or reliance on their instructions. These documents are created only to provide general information to our customers and don't take into consideration any individualized business plans or specifications.
 
 The use in these documents of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
