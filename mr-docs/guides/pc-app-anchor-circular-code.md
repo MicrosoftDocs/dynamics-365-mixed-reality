@@ -143,3 +143,6 @@ Use the following table to find more information on anchoring.
 |HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

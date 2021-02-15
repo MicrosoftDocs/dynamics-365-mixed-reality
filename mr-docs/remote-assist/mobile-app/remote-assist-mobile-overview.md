@@ -55,3 +55,6 @@ For more information on Microsoft Intune's app protection policies, see [this ar
 - [Deploy Dynamics 365 Remote Assist to your workers' devices](../deploy-remote-assist.md).
 - [How-to videos for using Dynamics 365 Remote Assist on mobile](../videos.md).
 - [Dynamics 365 Remote Assist mobile - FAQs](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#using-remote-assist-on-mobile).
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

@@ -114,3 +114,6 @@ For example:
 [Overview of Dynamics 365 Guides authoring](authoring-overview.md)<br>
 [Overview of authoring a guide in the PC application](pc-app-overview.md)<br>
 [Overview of authoring a guide in the HoloLens app](hololens-app-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

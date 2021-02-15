@@ -155,3 +155,6 @@ For dialog boxes, read the label of the button (for example, say "Yes" or "No").
 | ![Save button](media/save-button.png "Save button") | "Save guide" | Save your most recent changes. |
 |None|"Copy 3D position"|Copy the 3D position (position, orientation, and scale) of a hologram to use with another hologram.|
 |None|"Paste 3D position"|Paste the 3D position (position, orientation, and scale) of a hologram onto another hologram.|
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

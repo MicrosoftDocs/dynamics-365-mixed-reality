@@ -28,3 +28,6 @@ To install [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.
 
 [Requirements for installing](requirements.md)<br>
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -83,3 +83,6 @@ Now you’re ready to change the IPD settings for the device using the Windows D
 > Consider keeping a shared file with all your team members’ IPDs, or have users memorize their IPD. 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

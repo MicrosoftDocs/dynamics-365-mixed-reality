@@ -80,3 +80,6 @@ If you would like to control who the service account user can search and collabo
 
 >![Note] You may set up [kiosk mode](https://docs.microsoft.com/hololens/hololens-kiosk) for the HoloLens to limit the apps that your vendor or user can access. For example, you can limit them to only using two apps on the HoloLens: the Settings app to configure WiFi, and the Remote Assist app.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

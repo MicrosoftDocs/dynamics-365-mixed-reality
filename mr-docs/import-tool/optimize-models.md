@@ -56,3 +56,6 @@ The following table lists some general conservative targets to aim for when acqu
 [Convert 3D models](convert-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
 [Use Dynamics 365 Import Tool (Preview)](import-tool.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

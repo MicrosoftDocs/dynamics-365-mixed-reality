@@ -504,3 +504,6 @@ Shoot videos from a third-person or first-person perspective.
 [Analyze your guides](analytics-guide.md)<br>
 [FAQ](faq.md)<br>
 [Known issues](known-issues.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

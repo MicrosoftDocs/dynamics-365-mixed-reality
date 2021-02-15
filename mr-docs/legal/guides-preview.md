@@ -190,3 +190,6 @@ lois de votre pays. Le pr√©sent contrat ne modifie pas les droits que vous conf√
 le permettent pas.** 
  
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

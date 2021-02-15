@@ -84,3 +84,6 @@ To end a call, select **End Call** (as seen here: ![Graphic showing the end call
 
 ### Learn more 
 - View documentation on group calls between Dynamics 365 Remote Assist mobile, Dynamics 365 Remote Assist HoloLens, and Teams desktop [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/group-calling).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

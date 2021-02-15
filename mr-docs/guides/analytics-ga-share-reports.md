@@ -39,3 +39,6 @@ involves the following well-documented steps:
 
 - [What data is collected and how can you use it?](analytics-data-collected.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

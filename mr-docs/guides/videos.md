@@ -22,3 +22,6 @@ Watch these videos to quickly learn the basics of [!include[cc-microsoft](../inc
 ![Video camera graphic](media/video-camera.PNG "Video camera graphic") [Operate a guide](https://aka.ms/guidesoperate)<br>
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

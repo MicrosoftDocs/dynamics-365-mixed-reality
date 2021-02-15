@@ -73,3 +73,6 @@ described in detail in [Take a tour of Guides Analytics reports](analytics-ga-re
 
 - [What data is collected and how can you use it?](analytics-data-collected.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

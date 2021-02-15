@@ -77,3 +77,6 @@ The annotation toolbar allows technicians to place **Arrows** and **Drawings** i
 4. To stop adding annotations to the snapshot, you must select **Stop editing**. You will return to the technician's live video feed and your annotations will automatically appear on the technician's environment.
 
 ![Screenshot of a Microsoft Teams call window with emphasis on the stop editing button.](./media/teams_4.png)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

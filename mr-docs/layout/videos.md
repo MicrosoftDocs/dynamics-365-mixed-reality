@@ -59,3 +59,6 @@ Looking for more help? Check out our [user guide](user-guide.md).
 [Overview of Dynamics 365 Layout](index.md)<br/>
 [User guide](user-guide.md)<br/>
 [FAQ](faq.md)<br/>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

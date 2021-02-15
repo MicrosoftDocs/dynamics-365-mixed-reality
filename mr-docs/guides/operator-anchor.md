@@ -98,3 +98,6 @@ When you align your guide, if you're using the [!include[cc-microsoft](../includ
 [Install the app and sign in](install-sign-in-operator.md)<br>
 [Gestures for navigating the app](operator-gestures.md)<br>
 [Operate a guide](operator-step-card-orientation.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

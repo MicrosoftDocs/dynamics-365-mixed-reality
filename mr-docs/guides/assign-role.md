@@ -91,3 +91,6 @@ If users don't appear on the **Security** page (**Dynamics 365** \> **Settings**
 [Add additional user accounts to Dynamics 365 Guides](add-users.md)<br>
 [Overview of authoring a guide](authoring-overview.md)<br>
 [Overview of operating a guide](operator-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

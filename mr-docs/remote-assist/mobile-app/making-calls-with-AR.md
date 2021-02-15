@@ -63,3 +63,6 @@ If the remote collaborator answers the call on **Teams desktop**, the technician
 
 - Learn how to make calls on Dynamics 365 Remote Assist mobile **without** ARCore or ARKit support [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/using-devices-without-ar).
 - Learn how to place mixed reality annotations in the shared environment [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/annotate-your-environment).
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

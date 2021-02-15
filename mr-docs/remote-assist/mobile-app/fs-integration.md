@@ -61,3 +61,6 @@ Now that we have it enabled, let's see how integration with Field Service works 
 
 > [!Note]
 > If someone viewing your Field Service work order, such as an admin or dispatcher, wants to view the files, they must request access to your files on OneDrive. 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

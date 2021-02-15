@@ -358,3 +358,6 @@ Several screenshots in this document were taken from the Pixyz Studio (2020.1 Up
 Your use of any third-party application is subject to terms between you and the third party. Microsoft Corporation is not affiliated with, is not a partner to, and does not endorse or sponsor Pixyz or any of Pixyz’s products. Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Pixyz Studio, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications or updates to Pixyz Studio that may have been made after the date the tutorial was prepared.
 
 The use in this document of trademarked names and images is strictly to attribute the application to Pixyz Studio and for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

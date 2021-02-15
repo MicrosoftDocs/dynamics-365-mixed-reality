@@ -76,3 +76,6 @@ Double-clicking on an individual session row in this view provides more details 
 
 
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

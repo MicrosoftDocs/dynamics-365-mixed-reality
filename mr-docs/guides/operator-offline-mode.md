@@ -104,3 +104,6 @@ You can clear the content and settings cached on a HoloLens by resetting it.
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Open an app in Power Apps from the Step card](operator-powerapps-link.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn holograms off and on](operator-holograms-off.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use voice commands](voice-commands.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

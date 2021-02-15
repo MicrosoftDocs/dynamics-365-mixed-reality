@@ -109,3 +109,6 @@ For more information, see this Microsoft Teams article about [how guest access
 #### Guest access implementation
 
 See this [Microsoft Teams guest access checklist](https://docs.microsoft.com/microsoftteams/guest-access-checklist) for full implementation instructions.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

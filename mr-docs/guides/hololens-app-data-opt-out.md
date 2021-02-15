@@ -25,3 +25,6 @@ To turn telemetry data off for [!include[pn-hololens](../includes/pn-hololens.md
 ## See also
 
 [Opt out of sending telemetry data in the PC app](data-opt-out-pc-app.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

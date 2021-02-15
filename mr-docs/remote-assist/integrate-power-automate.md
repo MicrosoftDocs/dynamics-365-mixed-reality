@@ -53,3 +53,6 @@ To complete this article, you need:
 ![Screenshot of the Power Automate Test Run Flow.](media/PowerAutomate012-TestRunFlow.png)
 3. If there are errors in the flow, you can select **Edit** to modify the flow. You can then resubmit the previous run to test your flow again, without having to create a new asset capture entity.
 ![Screenshot of the Power Automate Resubmit Flow.](media/PowerAutomate013-resubmitFlow.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add 3D models to a product and manage them in Dynamics 365 Product Visualize Hub
 description: Instructions for adding 3D models to a product and managing them in Dynamics 365 Product Visualize Hub
 ms.date: 07/29/2020
@@ -100,3 +100,5 @@ When you add a thumbnail, an image of the model is displayed.
 [Create a mixed-reality session](create-mr-session.md)<br>
 [Add a product to a mixed-reality session](add-product-mr-session.md)<br>
 [Set up Microsoft Teams](setup-ms-teams.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -45,3 +45,6 @@ Technical requirements
 [User guide](user-guide.md)<br/>
 [How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

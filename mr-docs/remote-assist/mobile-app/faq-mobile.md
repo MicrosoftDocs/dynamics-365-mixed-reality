@@ -97,3 +97,6 @@ In the Dynamics 365 Remote Assist mobile app, you can provide feedback by:
 - [Overview of Dynamics 365 Remote Assist mobile](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/remote-assist-mobile-overview)
 - [YouTube Video of Dynamics 365 Remote Assist mobile's features](https://www.youtube.com/watch?v=DQJWsCDNpb4)
 - [Requirements](../requirements.md)
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

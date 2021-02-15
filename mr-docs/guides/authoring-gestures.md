@@ -57,3 +57,6 @@ For a tutorial on some basic gestures, close [!include[pn-dyn-365-guides](../inc
 [Overview of authoring a guide](authoring-overview.md)<br>
 [Overview of operating a guide](operator-overview.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

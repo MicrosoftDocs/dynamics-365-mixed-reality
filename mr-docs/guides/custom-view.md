@@ -254,3 +254,6 @@ In this step, you will add the list of guides that will appear on the HoloLens t
 15. In the **Owner** field, assign the user who will have access to the list.
 
 16. To add more guides to the list, select **New**, and then set the **Guide** and **Owner** fields again.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

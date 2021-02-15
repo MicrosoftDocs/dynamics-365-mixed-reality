@@ -64,3 +64,6 @@ The Dynamics 365 Remote Assist HoloLens user from Company ABC will set up a meet
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

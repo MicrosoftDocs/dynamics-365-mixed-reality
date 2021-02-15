@@ -27,3 +27,6 @@ If you're an author for Microsoft [!include[pn-dyn-365-guides](../includes/pn-dy
 ## See also
 
 [Deactivate a guide (admins)](admin-deactivate-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

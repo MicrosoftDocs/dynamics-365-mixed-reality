@@ -51,3 +51,6 @@ Here's a description of the buttons and other UI elements on the Step card.
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Turn holograms off and on](operator-holograms-off.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Work offline](operator-offline-mode.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Use voice commands](voice-commands.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

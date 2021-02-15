@@ -40,3 +40,6 @@ ms.reviewer: v-brycho
 ## See also
 
 [Gestures for navigating Dynamics 365 Guides](operator-gestures-HL2.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
