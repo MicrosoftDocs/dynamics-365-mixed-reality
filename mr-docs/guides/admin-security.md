@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Restrict access to an instance in Dynamics 365 Guides by using security groups
 
-If your company has multiple instances of Microsoft Dynamics 365 Guides, you can use security groups to control which users can access which instances.
+If your company has multiple instances of Microsoft Dynamics 365 Guides, you can use security groups to control which users can access each instance.
 
 For example, you might want to create three security groups to control access to the following instances.
 
