@@ -655,4 +655,3 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
 --------
 
 
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
