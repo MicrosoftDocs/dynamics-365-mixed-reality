@@ -177,4 +177,3 @@ Sous réserve de la clause ii qui précède, la responsabilité de Microsoft pou
 
 
 
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -175,4 +175,3 @@ permettent pas.**
 
 
 
-[!INCLUDE[footer-include](../includes/footer-banner.md)]
