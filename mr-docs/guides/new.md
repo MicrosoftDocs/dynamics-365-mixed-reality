@@ -29,10 +29,10 @@ Version XXX of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] ap
 
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|------|
-| <a href="XXX" target="_blank">Deactivate images, videos, and 3D models from the PC app</a> | Yes |
-| <a href="XXX" target="_blank">Use filters to find guides more quickly on HoloLens 2</a> | Yes |
-| <a href="XXX" target="_blank">Support for security permissions at team level</a> | Yes |
-| <a href="XXX" target="_blank">Performance improvements in loading list of guides</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/deactivate-images-videos-3d-models-pc-app" target="_blank">Deactivate images, videos, and 3D models from the PC app</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/use-filters-find-guides-more-quickly-hololens-2" target="_blank">Use filters to find guides more quickly on HoloLens 2</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Support for security permissions at team level</a> | Yes |
+| Performance improvements in loading list of guides| Yes |
 
 ## February 3, 2021
 
