@@ -17,8 +17,8 @@ If you have access to a long list of guides created with Microsoft Dynamics 365 
 
     ![Screen shot of Search dialog box and holographic keyboard](media/select-guide-search.PNG "Screen shot of Search dialog box and holographic keyboard")
 
-2.	Type the characters for the guide you're looking for. As you start to type the characters, the list is automatically filtered to guides that match the characters 
-included anywhere in the guide name.
+2.	Type the characters for the guide you're looking for. As you start to type the characters, the list is automatically filtered to the guides that match those characters 
+that are included anywhere in the guide name.
 
     ![Screen shot of Search dialog box and holographic keyboard](media/search-holographic-keyboard.PNG "Screen shot of Search dialog box and holographic keyboard")
 
