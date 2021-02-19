@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Find a guide to use in the HoloLens app (HoloLens 2 only) for Dynamics 365 Guides
 
-If you have access to a long list of guides created with Microsoft Dynamics 365 Guides, you can use the search button and the holographic keyboard to find it fast.
+If you have access to a long list of guides created with Microsoft Dynamics 365 Guides, if you're using HoloLens 2, you can use the holographic keyboard to find it fast.
 
 1.	In the **Select guide** dialog box, gaze at the magnifying glass until the holographic keyboard appears.   
 
