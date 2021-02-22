@@ -18,7 +18,9 @@
 #### [Add users](add-users.md)
 #### [Assign user roles](assign-role.md)
 #### [Restrict access to a specific instance](admin-security.md)
-#### [Limit access to specific guides or guide content](admin-access-teams.md)
+#### [Share guides with access teams to limit access to specific guides or guide content](admin-access-teams.md)
+#### [Assign guides using owner teams to limit access to specific guides or guide content](admin-access-assign.md)
+
 #### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
