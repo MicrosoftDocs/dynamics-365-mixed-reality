@@ -25,11 +25,11 @@ With [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you don't 
 
 ## Improve productivity – Learn by doing
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides heads-up, hands-free, step-by-step instructions during the flow of work, whether employees are doing complex procedures on the job or training away from the production line. Operators control the interface with their gaze, using a glance to move to the next step, which leaves their hands free to do the work. Instruction cards move with the operator, following them as they move around equipment, pointing to the tools and parts that they need, and showing them exactly how and where to use them. The experience is comfortable and simple to use, and it helps reduce mental processing time, errors, and the need to rely on a buddy system.
+[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] provides heads-up, hands-free, step-by-step instructions during the flow of work, whether employees are doing complex procedures on the job or training away from the production line. Operators control the interface with their gaze, using a glance to move to the next step, which leaves their hands free to do the work. Instruction cards follow the operator as they move around equipment. Holograms point to the tools and parts that they need, and show them exactly how and where to use them. The experience is comfortable and simple to use, and it helps reduce mental processing time, errors, and the need to rely on a buddy system.
 
 ## Continually analyze and improve processes
 
-Managers can use [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboards to view rich data about how processes are working for their employees. In this way, they can continually analyze and improve processes without having to do expensive studies.
+Managers can use [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboards to view rich data about how processes are working for their employees. Using this data, they can continually analyze and improve processes without having to do expensive studies.
 
 [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] also provides access and integration opportunities for customers and partners, because it's part of the [!include[pn-dyn-365](../includes/pn-dyn-365.md)] product family and is powered by Microsoft Dataverse.
 
