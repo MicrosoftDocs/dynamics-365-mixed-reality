@@ -1,22 +1,26 @@
 ---
 author: melissahellmund
-description: Learn how to use access teams to limit access to specific guides or guide content in Microsoft Dynamics 365 Guides.
+description: Learn how to share a guide with an access teams to limit access to specific guides or guide content in Microsoft Dynamics 365 Guides.
 ms.author: mehellmu
 ms.date: 11/17/2020
 ms.service: crm-online
 ms.topic: article
-title: Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides
+title: Share guides with access teams to limit access to specific guides or guide content in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides
+# Share guides with access teams to limit access to specific guides or guide content in Dynamics 365 Guides
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-A Microsoft Dynamics 365 admin can use [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to easily control who can see specific guides and guide content (3D models, images, or videos) in Dynamics 365 Guides. Access teams are useful when you want to grant different user permissions for specific records in [Microsoft Dataverse](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro). For example, you might want access to some guides to be limited to a specific factory location, or you might want to limit access to guides that are in progress.
+A Microsoft Dynamics 365 admin can **share** guides with  [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to easily control who can see specific guides and guide content (3D models, images, or videos) in Dynamics 365 Guides. Access teams are useful when you want to grant different user permissions for specific records in [Microsoft Dataverse](https://docs.microsoft.com/powerapps/maker/common-data-service/data-platform-intro). For example, you might want access to some guides to be limited to a specific factory location, or you might want to limit access to guides that are in progress.
 
 > [!NOTE]
 > Dynamics 365 offers additional ways to customize and configure access to specific records in Microsoft Dataverse. However, this topic doesn't cover advanced configuration, such as the creation of [owner teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information).
+
+For more information on how privileges and access works, see [How access to a row (or guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined).
+
+For more information on the three types of teams; *owner* team, Azure Active Directory (Azure AD) *group* team, or an *access* team , see [Manage Teams in Power Platform Security](https://docs.microsoft.com/en-us/power-platform/admin/manage-teams).
 
 ## How access teams work with the Operator and Author user roles
 
