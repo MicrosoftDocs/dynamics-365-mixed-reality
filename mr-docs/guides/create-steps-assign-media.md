@@ -184,7 +184,7 @@ You can preview an image, video, or 3D model on the right side of the PC app and
     
     The image and its properties are displayed on the right side of the screen.   
     
-## Deactivating a guide or specific guide content
+## Deactivate a guide or specific guide content
 
 You can deactivate a guide or specific guide content (videos, images, or 3D models) if you no longer need it. For more information, see [Deactivate a guide or guide content](pc-app-deactivate-guide.md). If you're an admin, you can reactivate content, if needed. As an admin, you can also deactivate or permanently delete a guide or guide content. For more information on deactivating, deleting, or reactivating a guide or guide content as an admin, see [Deactivate, reactivate, or delete a guide or guide content](admin-deactivate-guide.md).
 
