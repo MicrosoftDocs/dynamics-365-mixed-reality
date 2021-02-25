@@ -41,3 +41,6 @@ To scroll up in the chat:
 > If a message is sent from another user when the chat window isn’t open, a red dot will appear on the **Chat icon**, but your chat window will not automatically open.
 
 During a Dynamics 365 Remote Assist call, you will only see text messages and links to snapshots sent during the call. After a call ends, you can access the text messages and links in the Teams chat log. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -58,3 +58,6 @@ If you’re a Dynamics 365 Field Service customer, you can buy Dynamics 365 Remo
 
 ## Next step
 - [Deploy Dynamics 365 Remote Assist in your organization](deploy-remote-assist.md).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

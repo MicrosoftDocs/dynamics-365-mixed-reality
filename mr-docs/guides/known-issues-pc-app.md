@@ -65,3 +65,6 @@ Some glTF files might have dependencies in other folders. During upload, if the 
 [Known issues with the HoloLens app](known-issues-hololens-app.md)<br>
 [Dynamics 365 Guides FAQ](faq.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

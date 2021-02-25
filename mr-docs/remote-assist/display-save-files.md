@@ -51,3 +51,6 @@ If you made a Dynamics 365 Remote Assist call in the context of a Field Service 
 Select **Post All** to save the files and **Call Log** to the work order. The **Call Log** includes the names of the call participants and the call duration.
 
 Specifically, two new notes will be created and attached to the work order. One note will include call log info, and the other note will include a plain text link to each file. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

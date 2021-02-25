@@ -43,3 +43,6 @@ To find the app and solution versions that you're using, in the PC app, select t
 
 [Upgrade the Dynamics 365 Guides solution](upgrade.md)<br>
 [Download and install the PC and HoloLens apps](setup-step-three.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

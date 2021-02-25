@@ -107,3 +107,6 @@ After you've finished the setup process, you'll have a Dynamics 365 trial instan
 [Product Visualize Hub user guide](hub-user-guide.md)<br>
 [Dynamics 365 Product Visualize iOS app user guide](user-guide.md)<br>
 [FAQ](faq.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

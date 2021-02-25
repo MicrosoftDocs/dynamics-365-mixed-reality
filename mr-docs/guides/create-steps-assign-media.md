@@ -200,3 +200,6 @@ If you're an admin, you can reactivate content, if needed. As an admin, you can 
 [Deactivate a guide or guide content (authors)](pc-app-deactivate-guide.md)<br>
 [Deactivate, delete, or reactivate a guide or guide content (admins)](admin-deactivate-guide.md)<br>
 [Learn what makes a great mixed reality guide](great-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

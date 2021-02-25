@@ -146,3 +146,6 @@ If an image, video, or 3D object fails to convert correctly to the newest versio
 
 [What's new in Dynamics 365 Guides](new.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -44,3 +44,6 @@ Following are the preview features available in Product Visualize:
 [Attach a video to the note](add-note.md#view-the-notes-added-to-a-model)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

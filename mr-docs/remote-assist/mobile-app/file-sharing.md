@@ -65,3 +65,6 @@ If you're a Dynamics 365 Field Service customer, the files shared during your Dy
 3. If the technician selects the remote collaborator's **file** and the technician has an app that can open this file type, the default application will open the file. If more than one app supports this file type, then there will be a menu to choose the application to open the image. 
  
 If the technician **does not** have an app that can open this file type, the technician cannot view the file. The technician is still prompted on how to open this file and the technician may download the corresponding app to open the file.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

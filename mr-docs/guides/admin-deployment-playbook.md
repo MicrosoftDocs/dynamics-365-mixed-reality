@@ -139,3 +139,6 @@ The example in the following illustration shows how Dataverse environments, acce
 
 > [!TIP]
 > You can use Azure AD security groups to [assign Dynamics 365 Guides security roles to batches of users](https://powerusers.microsoft.com/t5/Common-Data-Service-for-Apps/How-to-assign-security-roles-to-Microsoft-365-Groups-Security/m-p/648584). This capability is useful when you're deploying Dynamics 365 Guides to many operators. It lets you use a bulk operation instead of having to assign roles individually.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

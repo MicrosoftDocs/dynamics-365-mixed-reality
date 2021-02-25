@@ -24,3 +24,6 @@ If for some reason you're unable to join the meeting, you may also ask the Teams
 To join a meeting, select **Meeting** from the bottom of the main screen. Upcoming meetings within the next ten minutes are then displayed. Select **Join** next to the meeting to join that meeting.
 
 After you join a meeting, Teams users can add more people to the meeting.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

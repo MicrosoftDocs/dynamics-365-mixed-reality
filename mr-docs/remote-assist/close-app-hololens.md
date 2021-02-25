@@ -19,3 +19,6 @@ To fully close the app:
 ![Screenshot of the 3D app viewer.](media/HL2-02.02-live-cube.png)
 
 If you want to use Dynamics 365 Remote Assist to show a remote collaborator what you are seeing in another app, see our article about [using Dynamics 365 Remote Assist to get help in a different HoloLens app](get-help-holoLens-app-hololens.md).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

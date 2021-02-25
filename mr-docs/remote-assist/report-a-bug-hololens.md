@@ -46,3 +46,6 @@ When you're in the HoloLens Feedback Hub:
 > [!Note]
 > Optionally, check the "This is blocking me" box if the issue is blocking you from completing your work or tasks. 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

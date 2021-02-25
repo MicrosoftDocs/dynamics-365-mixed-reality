@@ -51,3 +51,6 @@ To do this:
 ## See also
 
 [Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

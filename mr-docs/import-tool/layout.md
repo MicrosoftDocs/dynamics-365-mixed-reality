@@ -107,3 +107,6 @@ If you used [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool
     
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

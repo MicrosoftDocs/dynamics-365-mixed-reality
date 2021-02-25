@@ -148,3 +148,6 @@ If you have trouble with any of the procedures in this step, you can get help in
 - Ask a question on our community site, at <https://community.dynamics.com/365/guides>.
 
 - Contact customer service at <https://dynamics.microsoft.com/support/>.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

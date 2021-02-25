@@ -30,3 +30,6 @@ Technicians can provide feedback or make requests directly in the Dynamics 365 R
 3. Provide your feedback.
 
 
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

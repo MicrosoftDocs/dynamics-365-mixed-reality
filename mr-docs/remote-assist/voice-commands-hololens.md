@@ -89,3 +89,6 @@ To turn on the Narrator for incoming calls:
  ![Open Narrator](media/08.00-settings.png "Open Narrator")
 
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

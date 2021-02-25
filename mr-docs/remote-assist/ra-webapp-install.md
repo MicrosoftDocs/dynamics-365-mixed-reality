@@ -106,3 +106,6 @@ Environment creation requires at least 1 GB of available database capacity. Paid
 1. Check to ensure that you have an active Dynamics 365 Remote Assist subscription.
 2. Try assigning a Dynamics 365 Remote Assist license to your account from the [Microsoft 365 admin center](https://admin.microsoft.com) to force a license sync to occur. Wait five minutes and see whether the app appears in the [Power Platform admin center](https://admin.powerplatform.com).
 3. If the steps above don't resolve the issue, file a support request by going to the [Power Platform admin center](https://admin.powerplatform.com) > **Help + support** > **New support request**.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -79,3 +79,6 @@ As an admin, you can also activate, deactivate, or delete specific guide content
 ## See also
 
 [Deactivate a guide or guide content (video, image, or 3D part) if you're an author](pc-app-deactivate-guide.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
+

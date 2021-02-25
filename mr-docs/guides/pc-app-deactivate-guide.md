@@ -39,3 +39,6 @@ When you deactivate an image, video, or 3D part in the PC app, the content is hi
 ## See also
 
 [Deactivate, reactivate, or delete a guide or guide contents (admins)](admin-deactivate-guide.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
+

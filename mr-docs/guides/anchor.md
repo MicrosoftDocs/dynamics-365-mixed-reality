@@ -87,3 +87,6 @@ The following factors can affect the accuracy of the anchor and/or user percepti
 [Anchor your guide as an author in the HoloLens app](hololens-app-anchor.md)<br>
 [Anchor your guide as an operator in the HoloLens app](operator-anchor.md)<br>
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

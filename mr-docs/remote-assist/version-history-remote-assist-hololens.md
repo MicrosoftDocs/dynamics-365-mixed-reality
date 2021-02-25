@@ -149,3 +149,6 @@ Date: April 2020
 ## Locate your version number
 
 To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

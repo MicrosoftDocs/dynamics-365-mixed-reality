@@ -19,3 +19,6 @@ Having trouble in another HoloLens app? Use Dynamics 365 Remote Assist to show a
 
 > [!Note]
 > When you’re done getting help from your contact, return to Dynamics 365 Remote Assist and disconnect the call. Until you do that, the call will stay connected and your contact will see and hear what’s happening on your HoloLens, unless you toggle off Video (as represented by this icon: ![Graphic of the video icon](media/RAHL_Video.png "Video")) or Mute (represented by this icon: ![Graphic of the microphone icon that mutes the call](media/RAHL_Microphone.png "Mute")). 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -20,3 +20,6 @@ You can use your own 3D models for custom 3D parts in [!include[cc-microsoft](..
 - [Best practices for 3D models](3d-content-guidelines/best-practices.md)
 
 - [Tutorials for converting and optimizing 3D models](3d-content-guidelines/tutorials-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

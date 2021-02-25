@@ -36,3 +36,6 @@ The following tables list technical requirements for deploying and using Dynamic
 [Product Visualize Hub user guide](hub-user-guide.md)<br>
 [Product Visualize iOS app user guide](user-guide.md)<br>
 [FAQ](faq.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

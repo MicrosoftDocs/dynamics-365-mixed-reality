@@ -51,3 +51,6 @@ Technicians using Dynamics 365 Remote Assist mobile can diagnose and resolve iss
 ![Screenshot of the Dynamics 365 Remote Assist mobile toolbar, pointing at the video toggle icon, the mic toggle icon, the speaker toggle icon, and the end call icon.](./media/call-controls-final.png)
 
 7. During the call, call participants capture and annotate on snapshots, send messages, share files, record the call, and more!
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

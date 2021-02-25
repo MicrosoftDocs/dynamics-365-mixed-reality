@@ -53,3 +53,6 @@ The following illustration shows a more detailed view of this process.
 [Optimize 3D models](optimize-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

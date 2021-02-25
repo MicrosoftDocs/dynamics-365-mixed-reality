@@ -46,3 +46,6 @@ Check out these overview topics and videos:
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of operating a guide](operator-overview.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of analyzing your guides](analytics-guide.md)<br>
 ![Doc graphic](media/doc-icon.PNG "Doc graphic") [FAQ](faq.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

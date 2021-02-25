@@ -12,3 +12,6 @@ ms.reviewer: krbjoran
 # File a support ticket for Dynamics 365 Remote Assist on HoloLens
 
 If you encounter an issue that blocks you from using the application, [file a support ticket]( https://support.microsoft.com/hololens). Support will work directly with you and communicate daily until the issue is resolved.  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

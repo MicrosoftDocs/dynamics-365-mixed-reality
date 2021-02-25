@@ -204,3 +204,6 @@ Technicians can:
 3. Create and schedule a work order.
 
      - The booking will not appear in the Dynamics 365 pane in Dynamics 365 Remote Assist unless the booking status is **In progress** and the related bookable resource has a user record that matches the HoloLens user.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

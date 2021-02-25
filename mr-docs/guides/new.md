@@ -282,3 +282,6 @@ Version 103.1905.31001 of the PC and [!include[pn-hololens](../includes/pn-holol
 
 - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility?branch" target="_blank">Check compatibility between Dynamics 365 Guides solution and PC/HoloLens apps</a>
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

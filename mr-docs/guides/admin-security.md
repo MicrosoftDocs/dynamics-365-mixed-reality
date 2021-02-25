@@ -137,3 +137,6 @@ Note the following points about security groups:
 ## See also
 
 [Add several users at the same time](https://docs.microsoft.com/office365/enterprise/add-several-users-at-the-same-time?redirectSourcePath=%252farticle%252fAdd-several-users-at-the-same-time-to-Office-365-Admin-Help-1f5767ed-e717-4f24-969c-6ea9d412ca88)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

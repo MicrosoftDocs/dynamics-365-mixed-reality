@@ -95,3 +95,6 @@ Let's take a look at what information is provided by each of the visuals in the 
 * Data is retained for 24 months.
 
 * The calls dashboard feature uses storage capacity in Microsoft Dataverse. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

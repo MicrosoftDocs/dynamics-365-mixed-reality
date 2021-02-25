@@ -60,3 +60,6 @@ You can integrate the **Asset Management** module in Supply Chain Management wit
 ## See also
 
 [Integrate Dynamics 365 Field Service with Dynamics 365 Guides](field-service.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

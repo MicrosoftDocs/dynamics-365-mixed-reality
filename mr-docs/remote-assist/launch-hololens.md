@@ -29,3 +29,6 @@ When the app loads, you'll see the **Call tab** open with your recent contacts.
 ![Screenshot of the HoloLens field of view, showing the recent contacts screen.](media/02.00-contacts.png "RecentContacts")
 
 Now, you're ready to make a call!
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

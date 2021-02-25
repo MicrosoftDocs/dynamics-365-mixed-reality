@@ -29,3 +29,6 @@ After you join a meeting, you or the Teams user can add more people to the meeti
 
 > [!NOTE]
 > Dynamics 365 Remote Assist supports the Teams lobby on HoloLens. A HoloLens user can now admit a Teams guest into a meeting. 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

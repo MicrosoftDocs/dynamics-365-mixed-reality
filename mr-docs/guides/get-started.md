@@ -106,3 +106,6 @@ If you encounter an issue, check out these pages:
 - [Known Issues](known-issues.md)
 
 If you don't find what you're looking for, [find a list of phone numbers that you can use to contact Support](help.md).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

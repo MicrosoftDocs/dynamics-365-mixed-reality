@@ -133,3 +133,6 @@ This topic guides you through the steps to setup Product Visualize for a standar
 
 18. Follow steps 10 through 17 to add and link to other Product Visualize entities.
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

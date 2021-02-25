@@ -19,3 +19,6 @@ or vice versa. For information on using the [!include[pn-dyn-365-import-tool](..
 The [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool.md)] is included with your [!include[pn-dyn-365-layout](../includes/pn-dyn-365-layout.md)] subscription. 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

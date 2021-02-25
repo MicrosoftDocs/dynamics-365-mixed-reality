@@ -130,3 +130,6 @@ After a few seconds, a live view of your screen will be displayed as a new slate
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

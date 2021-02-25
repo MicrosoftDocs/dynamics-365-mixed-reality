@@ -165,3 +165,6 @@ The hazard sign is a placeholder for 3D models, videos, or images that can't be 
 ## See also
 
 [Known Issues in Dynamics 365 Guides](known-issues.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
