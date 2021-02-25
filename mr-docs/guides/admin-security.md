@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use security groups to control which users can access which instances in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 03/13/2020
+ms.date: 02/25/2021
 ms.service: crm-online
 ms.topic: article
 title: Restrict access to an instance in Dynamics 365 Guides by using security groups
@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Restrict access to an instance in Dynamics 365 Guides by using security groups
 
-If your company has multiple instances of Microsoft Dynamics 365 Guides, you can use security groups to control which users can access which instances.
+If your company has multiple instances of Microsoft Dynamics 365 Guides, you can use security groups to control which users can access each instance.
 
 For example, you might want to create three security groups to control access to the following instances.
 
@@ -97,13 +97,17 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 ## Associate a security group with an instance
 
-1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), in the left pane, select **All admin centers**, and then select **Dynamics 365**.
+1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), in the left pane, select **All admin centers**, and then select **Power Apps**.
 
     ![Open the Dynamics 365 admin center](media/all-admin-centers.PNG "Open the Dynamics 365 admin center")
 
-2. In the Dynamics 365 admin center, on the **Instances** tab, select an instance, and then select **Edit**.
+2. In the Power Platform admin center, in the **Details** section, select **Edit**.
 
-3. In the security settings, search for a specific security group, select **Next**, and then select **Save**.
+    ![Edit button in Power Platform admin center](media/security-groups-edit-details.PNG "Edit button in Power Platform admin center")
+
+3. On the **Edit Details** tab, select the pencil button, select the security group, and then select **Save**.
+
+    ![Pencil button on Edit Details tab](media/security-groups-select-group.PNG "Pencil button on Edit Details tab")
 
 ## Additional information about security groups
 

@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: mamaylya
-ms.date: 02/05/2020
+ms.date: 02/23/2021
 ms.service: crm-online
 ms.topic: article
 title: What's new in Dynamics 365 Guides
@@ -22,6 +22,17 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+
+## February 25, 2021
+
+Version 504.2102.24001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.4.1.2 include the following new features.
+
+| Feature | Solution update required? |
+|----------------------------------------------------------------------------------------|------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/deactivate-images-videos-3d-models-pc-app" target="_blank">Deactivate images, videos, and 3D models from the PC app</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/use-filters-find-guides-more-quickly-hololens-2" target="_blank">Use filters to find guides more quickly on HoloLens 2</a> | No |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Support for security permissions at team level</a> | Yes |
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Performance improvements in loading list of guides</a> | No |
 
 ## February 3, 2021
 
