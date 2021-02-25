@@ -15,7 +15,7 @@ If you're an author for Microsoft [!include[pn-dyn-365-guides](../includes/pn-dy
 
 ## Deactivate a guide
 
-1. On the **Home** page, right-click the guide (or press Shift + F10) that you want to deactivate.
+1. On the **Home** page, right-click the guide that you want to deactivate (or press Shift + F10 and select it).
 
 2. Select **Deactivate**.
 
