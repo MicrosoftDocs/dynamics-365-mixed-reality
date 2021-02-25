@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to use security groups to control which users can access which instances in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 01/25/2021
+ms.date: 02/25/2021
 ms.service: crm-online
 ms.topic: article
 title: Restrict access to an instance in Dynamics 365 Guides by using security groups
