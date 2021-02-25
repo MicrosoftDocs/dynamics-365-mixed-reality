@@ -30,7 +30,7 @@ If you're an author for Microsoft [!include[pn-dyn-365-guides](../includes/pn-dy
 
 When you deactivate an image, video, or 3D part in the PC app, the content is hidden in the library and doesn't affect existing guides that use that content. The content is not physically deleted and can be [reactivated through the Guides Hub by an administrator](admin-deactivate-guide.md).
  
-1.  Right-click (or press Shift + F10) the image, video, or 3D part that you want to deactivate.
+1.  Right-click the image, video, or 3D part that you want to deactivate (or press Shift + F10).
 
 2. Select **Deactivate**.
 
