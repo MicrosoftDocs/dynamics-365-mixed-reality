@@ -43,7 +43,7 @@ Buy Dynamics 365 Remote Assist licenses through your Microsoft 365 or Microsoft 
 5.	Hover over the plan and two options will appear: **Start free trial** or **Buy now**. Select **Buy now**. Follow the next steps of the payment process. 
 
 > [!NOTE]
-  > Information on [assigning devices-based licenses](https://docs.microsoft.com/en-us/hololens/hololens2-deployment-guide#general-deployment-recommendations-and-instructions), 
+> For more information, see this article on [assigning devices-based licenses](https://docs.microsoft.com/hololens/hololens2-deployment-guide#general-deployment-recommendations-and-instructions).
  
 ## Option 2: Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers)
 
