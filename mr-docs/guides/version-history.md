@@ -197,3 +197,5 @@ Version 103.1905.31001 of the PC and [!include[pn-hololens](../includes/pn-holol
 | Feature | Solution update required? |
 |----------------------------------------------------------------------------------------|-------|
 | <a href="https://docs.microsoft.com/business-applications-release-notes/April19/dynamics365-mixed-reality/microsoft-dynamics365-guides/anchoring-improvements" target="_blank">Switch anchoring method at any time</a> | Yes |
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
