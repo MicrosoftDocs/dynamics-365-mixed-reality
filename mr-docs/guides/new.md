@@ -27,7 +27,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 Version 504.2102.24001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.4.1.2 include the following new features.
 
-| Feature | Solution update required? |Documentation|
+| Feature | Solution update required? |How to|
 |----------------------------------------------------------------------------------------|------|------------------------------------|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/deactivate-images-videos-3d-models-pc-app" target="_blank">Deactivate images, videos, and 3D models from the PC app</a> | Yes |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-app-deactivate-guide" target="_blank">Deactivate a guide or specific guide content</a>|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/use-filters-find-guides-more-quickly-hololens-2" target="_blank">Use filters to find guides more quickly on HoloLens 2</a> | No |<a href="https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/find-guide" target="_blank">Find a guide to use in the HoloLens app (HoloLens 2 only)</a>|
