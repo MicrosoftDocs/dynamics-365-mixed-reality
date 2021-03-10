@@ -1,3 +1,14 @@
+---
+author: Mamaylya
+description: Describes the new features in Dynamics 365 Guides, organized by release date
+ms.author: mamaylya
+ms.date: 03/10/2021
+ms.service: crm-online
+ms.topic: article
+title: What's new in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
+
 # Version history for Dynamics 365 Guides
 
 This article provides a version history for Microsoft Dynamics 365 Guides features. For the most recent features, see [What's new in Dynamics 365 Guides](new.md). To see a comprehensive list of released and upcoming features, see <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
