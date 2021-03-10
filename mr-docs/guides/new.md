@@ -82,6 +82,8 @@ Version 500.2009.23001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 
 ## See also
 
+- <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/version-history" target="_blank">Version history for Dynamics 365 Guides</a>
+
 - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">Upgrade your Dynamics 365 Guides solution</a>
 
 - <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-apps-solution-compatibility?branch" target="_blank">Check compatibility between Dynamics 365 Guides solution and PC/HoloLens apps</a>
