@@ -27,12 +27,12 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 
 Version 504.2102.24001.0 of the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps and solution version 500.4.1.2 include the following new features.
 
-| Feature | Solution update required? |
-|----------------------------------------------------------------------------------------|------|
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/deactivate-images-videos-3d-models-pc-app" target="_blank">Deactivate images, videos, and 3D models from the PC app</a> | Yes |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/use-filters-find-guides-more-quickly-hololens-2" target="_blank">Use filters to find guides more quickly on HoloLens 2</a> | No |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Support for security permissions at team level</a> | Yes |
-| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Performance improvements in loading list of guides</a> | No |
+| Feature | Solution update required? |Documentation|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/deactivate-images-videos-3d-models-pc-app" target="_blank">Deactivate images, videos, and 3D models from the PC app</a> | Yes |<a href="URL" target="_blank">Title</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/use-filters-find-guides-more-quickly-hololens-2" target="_blank">Use filters to find guides more quickly on HoloLens 2</a> | No |<a href="URL" target="_blank">Title</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Support for security permissions at team level</a> | Yes |<a href="URL" target="_blank">Title</a>|
+| <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/planned-features" target="_blank">Performance improvements in loading list of guides</a> | No |<a href="URL" target="_blank">Title</a>|
 
 ## February 3, 2021
 
