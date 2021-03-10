@@ -80,8 +80,8 @@ Version 500.2009.23001.0 of the PC and [!include[pn-hololens](../includes/pn-hol
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-paste-position-orientation-scale-3d-model" target="_blank">Copy and paste the position, orientation, and scale of a 3D model </a> | No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/hololens-app-orientation#copy-and-paste-a-3d-models-position" target="_blank">Copy and paste a 3D model's position</a>|
 | <a href="https://docs.microsoft.com/dynamics365-release-plan/2020wave2/finance-operations/dynamics365-guides/copy-dynamics-365-guides-content-one-common-data-service-instance-another" target="_blank">Copy Dynamics 365 Guides content from one Microsoft Dataverse instance to another </a> | No |<a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/migrate" target="_blank">Migrate Dynamics 365 Guides content from one Microsoft Dataverse instance to another</a>|
 
-> [!NOTE]
-> **Looking for earlier features?** Go to [version history for Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/version-history). 
+> [!TIP]
+> Looking for earlier features? Go to [version history for Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/version-history). 
 
 
 ## See also
