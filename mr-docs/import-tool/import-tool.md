@@ -84,3 +84,6 @@ You can provide feedback on the quality of processed 3D models if you're not sat
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

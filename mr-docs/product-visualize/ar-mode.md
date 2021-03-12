@@ -65,3 +65,6 @@ You can choose to keep the models on a gray background or add a background image
 [View 3D models stored on your device](browse-models.md)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

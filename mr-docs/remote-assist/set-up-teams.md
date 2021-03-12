@@ -35,3 +35,6 @@ This document explains the deployment required for different scenarios.
 | Advanced deployment: [Vendors and contractors are outside your tenant and want to use Dynamics 365 Remote Assist](vendor-use-ra.md)                                                                                                                                                                                                                                        | [Assign Teams licenses to people in your tenant](https://docs.microsoft.com/MicrosoftTeams/user-access).                                                             |
 
 Need more help? Check out [Dynamics 365 Remote Assist FAQs](faq-deploy.md) for answers to common questions, or check out the [Microsoft Teams admin documentation](https://docs.microsoft.com/microsoftteams).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

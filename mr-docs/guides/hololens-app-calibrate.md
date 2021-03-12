@@ -74,3 +74,6 @@ To determine which version of the operating system you're using on [!include[pn-
 
 [Install the app and sign in](install-sign-in-hololens-app.md)<br>
 [Gestures for navigating the app](authoring-gestures.md)<br>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

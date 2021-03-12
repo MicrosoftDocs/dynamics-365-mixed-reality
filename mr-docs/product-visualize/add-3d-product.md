@@ -1,4 +1,4 @@
-﻿---
+---
 title: Add 3D products in Dynamics 365 Product Visualize Hub
 description: Instructions for adding 3D products in Dynamics 365 Product Visualize Hub.
 ms.date: 07/29/2020
@@ -35,3 +35,6 @@ manager: shujoshi
 [Create a mixed-reality session](create-mr-session.md)<br>
 [Add a product to a mixed-reality session](add-product-mr-session.md)<br>
 [Set up Microsoft Teams](setup-ms-teams.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

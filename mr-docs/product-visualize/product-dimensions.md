@@ -57,3 +57,5 @@ Dynamics 365 Product Visualize includes a tool to display your model measurement
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
 [Download 3D models to use offline](download-models.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -158,3 +158,6 @@ If the customer has Google Chrome or Microsoft Edge set as their default browser
 | User accidentally selects the second link (the call link) before downloading Dynamics 365 Remote Assist mobile app | The customer should select the first button on this page to download Dynamics 365 Remote Assist mobile app. Then, they can select the second link in the agent’s message, or the second button on the page shown above, to join the call.| 
 |User enters the call link into a Google Chrome or Microsoft Edge browser, instead of selecting the link from the agent’s message. |The customer should select the second button on this page to join the call.|
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

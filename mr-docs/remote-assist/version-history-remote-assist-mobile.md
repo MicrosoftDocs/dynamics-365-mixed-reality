@@ -20,7 +20,7 @@ search.app:
 
 # Dynamics 365 Remote Assist mobile version history
 
-## iOS - 2021.2.10 + Android - 2021.2.10
+## iOS - 2021.2.10 + Android - 2021.2.25
 
 Date: February 2021
 
@@ -223,3 +223,6 @@ To find which version of Dynamics 365 Remote Assist mobile you have, go to the m
 
 > [!div class="mx-imgBorder"]
 > ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

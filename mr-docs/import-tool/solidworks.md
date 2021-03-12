@@ -161,3 +161,6 @@ Several screenshots in this document were taken from the Dassault Systèmes SOLI
 Microsoft Corporation is not responsible for, and expressly disclaims all liability for damages of any kind arising out of the use of Dassault Systèmes SOLIDWORKS, or reliance on these instructions. This document is created only to provide general information to our customers and does not take into consideration any individualized business plans or specifications.
 
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

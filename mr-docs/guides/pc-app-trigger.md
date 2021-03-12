@@ -102,3 +102,6 @@ After creating your trigger, you need to configure it.
 ## What's next?
 
 [Place and test a trigger in the HoloLens app](hololens-app-trigger.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

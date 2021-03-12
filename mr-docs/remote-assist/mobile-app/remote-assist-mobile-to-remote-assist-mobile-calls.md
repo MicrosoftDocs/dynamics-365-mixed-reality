@@ -72,3 +72,6 @@ If you receive an incoming call on a device with both Dynamics 365 Remote Assist
 
 > [!NOTE] 
 > When a Dynamics 365 Remote Assist mobile calls a remote collaborator and the remote collaborator answers on Teams mobile, the remote collaborator will have the same capabilities as they would if they answered on Dynamics 365 Remote Assist mobile, except that the remote collaborator cannot share their space.
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

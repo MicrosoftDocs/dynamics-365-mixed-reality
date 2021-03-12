@@ -97,3 +97,6 @@ To add a [!include[pn-powerapps](../includes/pn-powerapps.md)] link to a step, y
      ![Power Apps menu](media/powerapps-menu.PNG "Power Apps menu")
      
  
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

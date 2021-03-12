@@ -79,3 +79,6 @@ If you have access to more than one Dynamics 365 organization, you can use this 
 [View 3D models stored on your device](browse-models.md)<br>
 [Download 3D models to use offline](download-models.md)<br>
 [Enable product dimensions](product-dimensions.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

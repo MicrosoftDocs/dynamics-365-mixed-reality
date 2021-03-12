@@ -70,3 +70,6 @@ After you've made sure that your [HoloLens is correctly calibrated](hololens-app
 [Find a guide](find-guide.md)<br>
 [Anchor your guide](hololens-app-anchor.md)<br>
 [Place holograms, add styles, and more](hololens-app-orientation.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

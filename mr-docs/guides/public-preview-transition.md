@@ -82,3 +82,6 @@ If you require a different type of license, please contact your mixed reality sa
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

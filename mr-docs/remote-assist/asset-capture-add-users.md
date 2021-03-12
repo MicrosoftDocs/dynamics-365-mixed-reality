@@ -95,3 +95,6 @@ After assigning security roles, you can check out the following articles to use 
 
 * [Create asset records and import your existing asset catalog](./asset-capture-create-asset.md)
 * [Get insights with Calls Dashboard](./calls-dashboard.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

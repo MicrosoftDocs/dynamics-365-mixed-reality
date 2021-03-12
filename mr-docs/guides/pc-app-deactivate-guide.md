@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to deactivate a guide or guide content (image, video, or 3D part) if you're a Microsoft Dynamics 365 Guides author.
 ms.author: mamaylya
-ms.date: 02/23/2021
+ms.date: 02/25/2021
 ms.service: crm-online
 ms.topic: article
 title: Deactivate a guide or specific guide content (image, video, or 3D part) in Dynamics 365 Guides (for authors)
@@ -15,7 +15,7 @@ If you're an author for Microsoft [!include[pn-dyn-365-guides](../includes/pn-dy
 
 ## Deactivate a guide
 
-1. On the **Home** page, right-click the guide (or press Shift + F10) that you want to deactivate.
+1. On the **Home** page, right-click the guide that you want to deactivate (or press Shift + F10).
 
 2. Select **Deactivate**.
 
@@ -30,7 +30,7 @@ If you're an author for Microsoft [!include[pn-dyn-365-guides](../includes/pn-dy
 
 When you deactivate an image, video, or 3D part in the PC app, the content is hidden in the library and doesn't affect existing guides that use that content. The content is not physically deleted and can be [reactivated through the Guides Hub by an administrator](admin-deactivate-guide.md).
  
-1.  Right-click (or press Shift + F10) the image, video, or 3D part that you want to deactivate.
+1.  Right-click the image, video, or 3D part that you want to deactivate (or press Shift + F10).
 
 2. Select **Deactivate**.
 
@@ -39,3 +39,6 @@ When you deactivate an image, video, or 3D part in the PC app, the content is hi
 ## See also
 
 [Deactivate, reactivate, or delete a guide or guide contents (admins)](admin-deactivate-guide.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
+

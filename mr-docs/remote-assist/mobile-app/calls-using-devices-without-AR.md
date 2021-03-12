@@ -97,3 +97,6 @@ Due to limitations of mobile devices without ARCore or ARKit support, technician
 15. If the technician is a Dynamics 365 Field Service customer, at the end of the call, the technician can choose to post the call logs, files, and snapshots shared in the text chat to an associated work order. Learn more about Field Service integration [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/mobile-app/fs-integration).
 
 ![Screenshot of Dynamics 365 Remote Assist mobile when integrated with Field Service.](./media/12.png "Field Service")
+
+
+[!INCLUDE[footer-include](../../includes/footer-banner.md)]

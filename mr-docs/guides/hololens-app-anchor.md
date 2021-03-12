@@ -85,3 +85,6 @@ Use the following table to find more information on anchoring.
 |Hologram precision|[Effect of calibration, pre-scanning, and environment](pc-app-anchor-improve-hologram-precision.md)|
 ||[Effect of anchor types/placement](pc-app-anchor-types-placement-precision.md)
 |HoloLens app for operators|[Anchor your guide as an operator in the HoloLens app](operator-anchor.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

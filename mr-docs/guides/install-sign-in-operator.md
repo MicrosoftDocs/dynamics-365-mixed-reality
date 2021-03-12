@@ -62,3 +62,5 @@ If you sign in to a brand-new [!include[pn-hololens](../includes/pn-hololens.md)
 [Anchor your guide](operator-anchor.md)<br>
 [Operate a guide](operator-step-card-orientation.md)
 [Calibrate your HoloLens](operator-calibrate.md)<br>
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -226,3 +226,5 @@ It also applies even if Microsoft knew or should have known about the
 possibility of the damages. The above limitation or exclusion may not apply to
 you because your state, province, or country may not allow the exclusion or
 limitation of incidental, consequential, or other damages.
+
+

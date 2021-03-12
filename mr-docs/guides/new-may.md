@@ -24,3 +24,6 @@ admin center. For more information, see <a href="https://docs.microsoft.com/dyna
 For more information on authoring a guide with the PC application, see <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/pc-authoring" target="_blank">Use the PC authoring application to create a guide</a>.
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

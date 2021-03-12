@@ -132,3 +132,6 @@ Use this option when:
 Learn more about how a Teams desktop user can [record a call using Windows Game Bar](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all.md#record-your-teams-desktop-screen-using-windows-game-bar).
 
 For more information, [learn more about the Game Bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

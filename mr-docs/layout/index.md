@@ -24,3 +24,6 @@ Bring physical designs from concept to completion with confidence. Import 3D mod
 [User guide](user-guide.md)<br/>
 [How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

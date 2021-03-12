@@ -67,3 +67,6 @@ only in the United States.
 ## See also
 
 [Dynamics 365 US Government](https://docs.microsoft.com/power-platform/admin/microsoft-dynamics-365-government)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

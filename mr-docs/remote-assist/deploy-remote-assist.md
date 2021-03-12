@@ -93,3 +93,6 @@ After sorting out your licenses, users can setup and use the app on their HoloLe
 ## Next steps
 - [Set up Microsoft Teams on PC or mobile for various scenarios](set-up-teams.md).
 - [Install Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md).
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

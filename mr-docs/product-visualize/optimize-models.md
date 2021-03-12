@@ -50,3 +50,6 @@ The following table lists some general conservative targets to aim for when acqu
 ### See also
 [Convert 3D models](convert-models.md)<br>
 [Best practices for converting and optimizing 3D models](best-practices.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

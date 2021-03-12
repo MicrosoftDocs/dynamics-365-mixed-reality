@@ -121,6 +121,7 @@
 ## [Entity reference (for developers)](developer-entity-reference.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
 ## [Get Help and provide feedback](help.md)
+## [Version history](version-history.md)
 ## [Glossary of terms](glossary.md)
 ## [FAQ](faq.md)
 ## Known issues

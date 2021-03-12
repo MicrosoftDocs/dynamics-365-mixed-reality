@@ -115,3 +115,6 @@ If your organization uses Dynamics 365 Field Service to manage work orders, the 
 - Quickly call the assigned collaborator  
 - Save snapshots to a booking
 - Save call artifacts to the work order that the booking is associated with, including the call log and files shared during the call
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to update the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: mamaylya
-ms.date: 02/03/2021
+ms.date: 02/25/2021
 ms.service: crm-online
 ms.topic: article
 title: Update the Dynamics 365 Guides solution
@@ -146,3 +146,6 @@ If an image, video, or 3D object fails to convert correctly to the newest versio
 
 [What's new in Dynamics 365 Guides](new.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

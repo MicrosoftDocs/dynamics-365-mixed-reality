@@ -69,3 +69,6 @@ For a tutorial on some basic gestures, use the bloom gesture to go to **Start**,
 [Calibrate your HoloLens](operator-calibrate.md)<br>
 [Anchor your guide](operator-anchor.md)<br>
 [Operate a guide](operator-step-card-orientation.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -51,3 +51,6 @@ Dynamics 365 Guides [tables](https://docs.microsoft.com/powerapps/maker/common-d
 ## See also
 
 [Entity reference for Dynamics 365](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/about-entity-reference)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

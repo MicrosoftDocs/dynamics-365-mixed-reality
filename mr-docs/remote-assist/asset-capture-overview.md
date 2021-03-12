@@ -60,3 +60,6 @@ Asset capture uses several entities stored in Common Data Model:
 
 - Dynamics 365 Remote Assist supports a maximum of 5,000 asset records.
 - Dynamics 365 Remote Assist on HoloLens won't automatically update the list of asset records. If you create or update an asset from the model-driven app and don't see it in HoloLens, restart Dynamics 365 Remote Assist on HoloLens by closing the live tile and reopening the app.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

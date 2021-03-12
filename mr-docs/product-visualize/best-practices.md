@@ -142,3 +142,6 @@ This topic covers best practices for converting and optimizing 3D models to work
 [Optimize 3D models](optimize-models.md)<br>
 [Tutorials for converting and optimizing 3D models](tutorials-overview.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

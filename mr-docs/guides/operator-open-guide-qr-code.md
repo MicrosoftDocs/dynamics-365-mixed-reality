@@ -55,3 +55,6 @@ You can open a guide in Microsoft Dynamics 365 Guides by scanning a QR code that
     
     ![Example of Confirm button for confirming anchor position](media/qr-code-open-confirm-anchor.PNG "Example of Confirm button for confirming anchor position")
     
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
