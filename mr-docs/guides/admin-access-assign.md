@@ -19,7 +19,7 @@ search.app:
   - D365CE
 ---
 <!-- This article is a copy of the article below with the term "record" updated to "guide".   A better solution will have to be found to "customize" core power apps support documents to address the specific D365 Guides user experience.  
-https://docs.microsoft.com/en-us/powerapps/user/assign-or-share-records -->
+https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 # Assign or share guides
 
@@ -43,7 +43,7 @@ For more information on the three types of teams; *owner* team, Azure Active Dir
    > [!div class="mx-imgBorder"]
    > ![Select the guide that you want to reassign](media/admin-access-assign-01.png "Select the guide that you want to reassign")
 
-1. On the command bar, select **Assign**. 
+1. On the command bar, select **Assign**.
 
    > [!div class="mx-imgBorder"]
    > ![Select assign a guide](media/admin-access-assign-02.png "Select assign a guide")
@@ -60,7 +60,5 @@ For more information on the three types of teams; *owner* team, Azure Active Dir
 ## Share a guide with someone else
 
  If you want to keep ownership of a guide but let someone else work on the guide with you then use the share option see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
-
-
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
