@@ -16,11 +16,11 @@
 #### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
 ### Add users, assign roles, and restrict access
 #### [Add users](add-users.md)
-#### [Assign user roles](assign-role.md)
-#### [Restrict access to a specific instance](admin-security.md)
+#### [Assign user roles to individual users](assign-role.md)
+#### [Assign user roles to a D365 Group Team linked to an AAD Group](admin-assign-role-groups.md)
+#### [Restrict access to a specific instance using Security Groups](admin-security.md)
 #### [Share guides with access teams to limit access to specific guides or guide content](admin-access-teams.md)
 #### [Assign guides using owner teams to limit access to specific guides or guide content](admin-access-assign.md)
-
 #### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
