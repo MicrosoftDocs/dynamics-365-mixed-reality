@@ -10,8 +10,13 @@ ms.reviewer: v-brycho
 ---
 
 # Restrict access to an instance in Dynamics 365 Guides by using security groups
+>[!NOTE]
+>Environments are sometimes also known as organizations or instances.  Each of these terms refers to the same concept. The Power Apps user interface and documentation usually use the term environment, while Dynamics 365 documentation usually uses the term instance 
+>
 
 If your company has multiple instances of Microsoft Dynamics 365 Guides, you can use security groups to control which users can access each instance.
+
+Each instance can only use one security group. A security group will restrict environment access to people in the security group.  If a Dataverse environment does not have an associated security group, all users with a Dataverse license (Dyanamics 365 Guides, Power Automate, Power Apps, etc.) will be created as users and enabled in the environment. [Learn More](https://docs.microsoft.com/en-us/power-platform/admin/control-user-access) 
 
 For example, you might want to create three security groups to control access to the following instances.
 
@@ -101,11 +106,12 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
     ![Open the Dynamics 365 admin center](media/all-admin-centers.PNG "Open the Dynamics 365 admin center")
 
-2. In the Power Platform admin center, in the **Details** section, select **Edit**.
+2. In the Environments page, select the environment to edit by clicking on the Environment **name**  
+3. In the Power Platform admin center, in the **Details** section, select **Edit**.
 
     ![Edit button in Power Platform admin center](media/security-groups-edit-details.PNG "Edit button in Power Platform admin center")
 
-3. On the **Edit Details** tab, select the pencil button, select the security group, and then select **Save**.
+4. On the **Edit Details** tab, select the pencil button, select the security group, and then select **Save**.
 
     ![Pencil button on Edit Details tab](media/security-groups-select-group.PNG "Pencil button on Edit Details tab")
 
