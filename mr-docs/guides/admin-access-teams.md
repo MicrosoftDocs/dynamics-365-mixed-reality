@@ -20,7 +20,7 @@ A Microsoft Dynamics 365 admin can **share** guides with  [access teams](https:/
 
 For more information on how privileges and access works, see [How access to a row (or guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined).
 
-For more information on the three types of teams; *owner* team, Azure Active Directory (Azure AD) *group* team, or an *access* team , see [Manage Teams in Power Platform Security](https://docs.microsoft.com/en-us/power-platform/admin/manage-teams).
+For more information on the three types of teams; *owner* team, Azure Active Directory (Azure AD) *group* team, or an *access* team , see [Manage Teams in Power Platform Security](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
 ## How access teams work with the Operator and Author user roles
 
@@ -160,5 +160,3 @@ All users who have access to the Guides model-driven app can share the guides an
 [Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md)<br>
 [Learn more about Dynamics 365 security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges)
 
-
-[!INCLUDE[footer-include](../includes/footer-banner.md)]

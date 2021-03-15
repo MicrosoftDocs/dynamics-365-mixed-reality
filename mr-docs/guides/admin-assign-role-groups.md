@@ -90,9 +90,9 @@ Update the D365 Guides roles to include the D365 Group Team that was created in 
 1. In top menu bar click caret to the right of “Settings” and click “Security” from the System’s column.
 ![select security](media/D365-admin-center-advanced-settings-security.png "select security")
 1. Select “Teams”.
-![select security](media/D365-admin-center-advanced-settings-teams.png "select security")
+![select teams](media/D365-admin-center-advanced-settings-teams.png "select teams")
 1. Choose team type from the drop down at the top of the page (All Azure Active Directory (AAD) Office Group Teams, or All AAD Security Group Teams).
- ![select security](media/D365-admin-center-advanced-settings-groups.png "select security")
+ ![select groups dropdown](media/D365-admin-center-advanced-settings-groups.png "select groups dropdown")
 1. When the team to be updated is shown, click on the team's name link to modify the team.
 ![select group name](media/D365-admin-center-advanced-settings-groupname.png "select group name")
 1. At the top of the page, the “manage roles” option is available.
@@ -102,4 +102,3 @@ Note: the “manage roles” button at the top will not be shown as an option on
 
 Example: If the steps above were completed to apply the author role to an AAD Office Group, then anyone in the group will have a role that will allow them to create a Guide and Guide will be owned by group referenced in the first step allowing access and edit privileges.
 
-![INCLUDE[footer-include](../includes/footer-banner.md)]

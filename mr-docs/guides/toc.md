@@ -16,7 +16,7 @@
 #### [Compatibility between solution and PC/HoloLens apps](admin-apps-solution-compatibility.md)
 ### Add users, assign roles, and restrict access
 #### [Add users](add-users.md)
-#### [Share Guides Hub with users and groups](admin-share-guideshub.md)
+#### [Share Guides Hub with users and groups](admin-share-guides-hub.md)
 #### [Assign user roles to individual users](assign-role.md)
 #### [Assign user roles to a D365 Group Team linked to an AAD Group](admin-assign-role-groups.md)
 #### [Restrict access to a specific instance using Security Groups](admin-security.md)

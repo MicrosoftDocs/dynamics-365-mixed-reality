@@ -11,12 +11,11 @@ ms.reviewer: v-brycho
 
 # Restrict access to an instance in Dynamics 365 Guides by using security groups
 >[!NOTE]
->Environments are sometimes also known as organizations or instances.  Each of these terms refers to the same concept. The Power Apps user interface and documentation usually use the term environment, while Dynamics 365 documentation usually uses the term instance 
->
+>Environments are sometimes also known as organizations or instances.  Each of these terms refers to the same concept. The Power Apps user interface and documentation usually use the term environment, while Dynamics 365 documentation usually uses the term instance.
 
 If your company has multiple instances of Microsoft Dynamics 365 Guides, you can use security groups to control which users can access each instance.
 
-Each instance can only use one security group. A security group will restrict environment access to people in the security group.  If a Dataverse environment does not have an associated security group, all users with a Dataverse license (Dyanamics 365 Guides, Power Automate, Power Apps, etc.) will be created as users and enabled in the environment. [Learn More](https://docs.microsoft.com/en-us/power-platform/admin/control-user-access) 
+Each instance can only use one security group. A security group will restrict environment access to people in the security group.  If a Dataverse environment does not have an associated security group, all users with a Dataverse license (Dyanamics 365 Guides, Power Automate, Power Apps, etc.) will be created as users and enabled in the environment. [Learn More](https://docs.microsoft.com/power-platform/admin/control-user-access) 
 
 For example, you might want to create three security groups to control access to the following instances.
 
@@ -38,7 +37,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 3. On the **Set up the basics** page, enter the user's first name, last name, display name, and user name.
 
-    ![Set up the basics page](media/set-up-basics.PNG "Set up the basics page")
+    ![Set up the basics page with user details](media/set-up-basics.PNG "Set up the basics page with user details")
 
 4. Under **Password settings**, follow these steps:
 
@@ -73,7 +72,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 3. On the **Set up the basics** page, enter a name and description for the group, and then select **Next**.
 
-    ![Set up the basics page](media/set-up-basics-2.PNG "Set up the basics page")
+    ![Set up the basics page with group name](media/set-up-basics-2.PNG "Set up the basics page with group name")
 
 4. On the **Review and finish adding group** page, review your changes, select **Create group**, and then, on the next page, select **Close** to close the wizard.
 
