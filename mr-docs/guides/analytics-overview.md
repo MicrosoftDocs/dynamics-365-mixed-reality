@@ -22,7 +22,7 @@ The operations data, which includes information about time spent on each step an
 ![Guides Usage report](media/analytics-overview.PNG "Guides Usage report")
 
 |Operate a guide|Data is automatically stored|Trigger alerts or visualize data|
-|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+|-----------------------------------------|-----------------------------------------|-----------------------------------------|
 |**Next** and **Back** button interactions are recorded to determine the time spent on each step.|Step time data is stored in your **private and secure** Dynamics 365 environment.|Use the Power Platform to analyze and act on your data.|
 
 > [!NOTE]
