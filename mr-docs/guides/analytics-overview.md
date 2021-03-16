@@ -21,7 +21,7 @@ The operations data, which includes information about time spent on each step an
 
 |**How it works**|||
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-||||
+|![Guides Usage report](media/analytics-hololens-operator.PNG "Guides Usage report") |![Guides Usage report](media/analytics-data-stored-automatically.PNG "Guides Usage report") |![Guides Usage report](media/analytics-alerts-visualize-data.PNG "Guides Usage report") |
 |Operate a guide|Data is automatically stored|Trigger alerts or visualize data|
 |**Next** and **Back** button interactions are recorded to determine the time spent on each step.|Step time data is stored in your **private and secure** Dynamics 365 environment.|Use the Power Platform to analyze and act on your data.|
 
