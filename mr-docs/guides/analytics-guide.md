@@ -25,7 +25,7 @@ The Guides Analytics reports are designed to help you answer high-level question
 
 ![Guides Usage report](media/analytics-guides-usage-overview.PNG "Guides Usage report")
 
-You can also use Guides Analytics to drill into detailed time-tracking information at the task and step levels. For example, use the Process Time Tracking report to answer the following questions: 
+You can also use Guides Analytics to drill into detailed time-tracking information at the task and step levels. For example, use the Process Time-Tracking report to answer the following questions: 
 
 - Which step of a guide takes the most time? 
 
