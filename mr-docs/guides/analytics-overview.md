@@ -19,10 +19,9 @@ When operators use the Microsoft Dynamics 365 Guides HoloLens app in Operate mod
 
 The operations data, which includes information about time spent on each step and whether an operator completed a guide, is stored in Microsoft Dataverse tables just like your Dynamics 365 Guides content. These tables make it easy to analyze guide usage across your organization, gain insights into process efficiency, or trigger worklows outside of Dynamics 365 Guides.
 
-![Guides Usage report](media/analytics-overview.PNG "Guides Usage report")
-
 |Operate a guide|Data is automatically stored|Trigger alerts or visualize data|
 |----------------------------------|-----------------------------------------|-----------------------------------------|
+|![Guides Usage report](media/analytics-hololens-operator.PNG "Guides Usage report")|![Guides Usage report](media/analytics-data-stored-automatically.PNG "Guides Usage report")|![Guides Usage report](media/analytics-alerts-visualize-data.PNG "Guides Usage report")|
 |**Next** and **Back** button interactions are recorded to determine the time spent on each step.|Step time data is stored in your **private and secure** Dynamics 365 environment.|Use the Power Platform to analyze and act on your data.|
 
 > [!NOTE]
