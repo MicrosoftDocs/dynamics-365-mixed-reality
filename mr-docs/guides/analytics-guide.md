@@ -23,7 +23,7 @@ The Guides Analytics reports are designed to help you answer high-level question
 
 - Are operators completing the guide or only going through half the steps? 
 
-![Settings command](media/analytics-guide-usage-overview.PNG "Settings command")
+![Guides Usage report](media/analytics-guides-usage-overview.PNG "Guides Usage report")
 
 You can also use Guides Analytics to drill into detailed time-tracking information at the task and step levels. For example, use the Process Time Tracking report to answer the following questions: 
 
@@ -33,7 +33,7 @@ You can also use Guides Analytics to drill into detailed time-tracking informati
 
 - Is the amount of operation time equally distributed between tasks? 
 
-![Settings command](media/analytics-process-time-tracking-overview.PNG "Settings command")
+![Process Time Tracking report](media/analytics-process-time-tracking-overview.PNG "Process Time Tracking report")
 
 These reports provide information about operator adoption and usage and give guide authors a data-driven way to improve their guides. For example, an author could focus their editing efforts on steps that take a long time to execute or show a high degree of variability among operators. These reports are also valuable in training scenarios for both trainers and trainees to better understand performance and improvement over time. 
  
