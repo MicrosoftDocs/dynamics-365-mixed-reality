@@ -60,8 +60,8 @@ Before you can modify user roles, the following prerequisites must be in place:
     - If you must add one or more users, select **Add user** at the top of the page, enter the account details in the **Add user** dialog box, and then select **Add**. For more information, see the "Troubleshooting" section later in this topic.
 
         > [!NOTE]
-        > When you add a user in this way, you trigger synchronization. Therefore, the user is added to the instance within a few minutes.  
-    
+        >Users added to the instance should be reflected in the user list within a few minutes  
+     
 6. Select **Manage users in Dynamics 365** at the top of the page. 
 
    ![Manage Users in Dynamics 365 command](media/select-manage-users.png "Manage Users in Dynamics 365 command")
@@ -85,7 +85,7 @@ Before you can modify user roles, the following prerequisites must be in place:
     
 ## Troubleshooting
 
-If users don't appear on the **Security** page (**Dynamics 365** \> **Settings** \> **Security**), in the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**. In the **Add user** dialog box, enter the account details, and then select **Add**. This operation triggers synchronization. Therefore, the user is added to the instance within a few minutes.
+If users don't appear on the **Security** page (**Dynamics 365** \> **Settings** \> **Security**), in the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**. In the **Add user** dialog box, enter the account details, and then select **Add**. Users added to the instance should be reflected in the user list within a few minute
 
 ![Adding a user in Power Platform admin center](media/add-user-4.PNG "Adding a user in Power Platform admin center")
 

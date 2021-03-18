@@ -37,7 +37,8 @@ For more information on the three types of teams; *owner* team, Azure Active Dir
 
 ## Assign a guide to a user or an owner team
 
-1. Launch [Power Apps](https://make.powerapps.com/)  or open the App Launcher using the “ : : : “ icon at the left of the top menu bar,   select **Power Apps** , then select **Apps**, and select **Guides**.  
+1. Launch [Power Apps](https://make.powerapps.com/)  or open the App Launcher using the App Launcher icon  ![app launcher icon](media/app-launcher-icon.png) at the top left of the top menu bar.
+1. Select **Power Apps** , then select **Apps**, and select **Guides**.  
 1. From a list of guide, select the guide that you want to assign to someone else. You can select multiple guides.
 
    > [!div class="mx-imgBorder"]

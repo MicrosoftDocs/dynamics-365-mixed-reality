@@ -18,7 +18,7 @@
 #### [Add users](add-users.md)
 #### [Share Guides Hub with users and groups](admin-share-guides-hub.md)
 #### [Assign user roles to individual users](assign-role.md)
-#### [Assign user roles to a D365 Group Team linked to an AAD Group](admin-assign-role-groups.md)
+#### [Assign user roles to a Dynamics 365 Group Team linked to an AAD Group](admin-assign-role-groups.md)
 #### [Restrict access to a specific instance using Security Groups](admin-security.md)
 #### [Share guides with access teams to limit access to specific guides or guide content](admin-access-teams.md)
 #### [Assign guides using owner teams to limit access to specific guides or guide content](admin-access-assign.md)
