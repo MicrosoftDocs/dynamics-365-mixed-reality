@@ -17,7 +17,7 @@ When operators use the Microsoft Dynamics 365 Guides HoloLens app in Operate mod
 
 - Integrated into your own custom workflows. For example, you could create a custom workflow in Microsoft Power Automate or by using third-party visualization tools or systems.
 
-The operations data, which includes information about time spent on each step and whether an operator completed a guide, is stored in Microsoft Dataverse tables just like your Dynamics 365 Guides content. These tables make it easy to analyze guide usage across your organization, gain insights into process efficiency, or trigger worklows outside of Dynamics 365 Guides.
+The operations data, which includes information about time spent on each step and whether an operator completed a guide, is stored in Microsoft Dataverse tables just like your Dynamics 365 Guides content. These tables make it easy to analyze guide usage across your organization, gain insights into process efficiency, or trigger workflows outside of Dynamics 365 Guides.
 
 ## How it works
 
