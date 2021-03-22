@@ -23,7 +23,7 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 # Assign or share guides
 
-When you create a guide, you are the owner of the guide. If you would like another person in your organization to take ownership of the guide, then you can assign the guide to that person. You can assign a Guide to a user or team. You can also assign a guide to yourself that another user owns but you need to have system administrator privilege to do this.
+When you create a guide, you are the owner of the guide. If you would like another person in your organization to also have ownership of the guide, then you can assign the ownership of a guide to that person. You can assign the ownership of a Guide to a user or team. You can also assign the ownership of a Guide to yourself if you have a system administrator role with the assign privilege.
 
 If you want to keep ownership of the guide but let someone else work on it with you, then use the **Share** option to share the guide.
 
@@ -37,7 +37,7 @@ For more information on the three types of teams; *owner* team, Azure Active Dir
 
 ## Assign a guide to a user or an owner team
 
-1. Launch [Power Apps](https://make.powerapps.com/)  or open the App Launcher using the App Launcher icon  ![app launcher icon](media/app-launcher-icon.png) at the top left of the top menu bar.
+1. Go to [Dynamics 365](https://home.dynamics.com/)  and open the App Launcher using the App Launcher icon  ![app launcher icon](media/app-launcher-icon.png) at the top left of the top menu bar.
 1. Select **Power Apps** , then select **Apps**, and select **Guides**.  
 1. From a list of guide, select the guide that you want to assign to someone else. You can select multiple guides.
 
@@ -60,6 +60,6 @@ For more information on the three types of teams; *owner* team, Azure Active Dir
 
 ## Share a guide with someone else
 
- If you want to keep ownership of a guide but let someone else work on the guide with you then use the share option see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
+ Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on Guides as Authors, or use Guides as Operators. In exceptional cases, the share option can be used for individuals who are not members of a team.  Foe details on the sharing process see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
