@@ -15,7 +15,7 @@ You can set up [Guides Analytics Power BI reports](analytics-guide.md) for Micro
 
 > [!NOTE]
 > Guides Analytics requires the freely available [Power BI Desktop application](https://powerbi.microsoft.com/get-started/). Talk to your admin if you don't have permission 
-to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer. The latest Guides Analytics Power BI report templates require Guides solution version 500.3.1.2 or later. If you have an earlier solution version, you can [download the previous version of Guides Analytics Power BI report templates](https://www.microsoft.com/en-us/download/details.aspx?id=102670).
+to install [!include[pn-power-bi](../includes/pn-power-bi.md)] Desktop on your computer. <br><br>The latest Guides Analytics Power BI report templates require Guides solution version 500.3.1.2 or later. If you have an earlier solution version, you can [download the previous version of Guides Analytics Power BI report templates](https://www.microsoft.com/en-us/download/details.aspx?id=102670).
 
 1.	In the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC authoring app, select the **Analyze** tab, copy the highlighted Instance URL text, and then 
 select **Continue** to go to the [Microsoft Download Center](https://aka.ms/guidesreport). 
