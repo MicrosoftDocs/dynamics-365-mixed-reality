@@ -1,0 +1,2 @@
+
+## Customization tutorial 3: Collection data on which responses are selected in a non-linear guide created in Dynamics 365 Guides
