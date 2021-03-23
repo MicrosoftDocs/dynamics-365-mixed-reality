@@ -120,7 +120,7 @@
 ### [How to open the Guides model-driven app](customization-model-driven-app.md)
 ### [Tutorial 1: Automatically generate Dynamics 365 Guides deeplinks to use as a list manager in Excel](customization-tutorial1.md)
 ### [Tutorial 2: Create a 3D object collection and add objects to the collection](customization-tutorial2.md)
-### [Tutorial 3: Collect data on which branches are selected in a non-linear guide](customization-tutorial3.md)
+### [Tutorial 3: Collect data on which responses are selected in a non-linear guide](customization-tutorial3.md)
 ### [Entity reference](developer-entity-reference.md)
 ## [Migrate content from one instance to another](migrate.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
