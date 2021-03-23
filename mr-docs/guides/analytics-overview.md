@@ -25,19 +25,19 @@ The operations data, which includes information about time spent on each step an
 
 **Next** and **Back** button interactions are recorded to determine the time spent on each step.
 
-![HoloLens operator at work](media/analytics-hololens-operator.PNG "HoloLens operator at work")
+![HoloLens operator at work](media/analytics-hololens-operator-1.PNG "HoloLens operator at work")
 
 ### 2. Data is automatically stored**
 
 Step time data is stored in your **private and secure** Dynamics 365 environment.
 
-![Screen shot of saved step time data ](media/analytics-data-stored-automatically.PNG "Screen shot of saved step time data")
+![Screen shot of saved step time data ](media/analytics-data-stored-automatically-1.PNG "Screen shot of saved step time data")
 
 ### 3. Trigger alerts or visualize data**
 
 Use the Power Platform to analyze and act on your data.
 
-![Power Platform example](media/analytics-alerts-visualize-data.PNG "Power Platform example")
+![Power Platform example](media/analytics-alerts-visualize-data-1.PNG "Power Platform example")
 
 
 |Operate a guide|Data is automatically stored|Trigger alerts or visualize data|
