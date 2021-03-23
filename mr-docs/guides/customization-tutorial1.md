@@ -1,6 +1,6 @@
 
 
-# Customization tutorial 1: Automatically generate Dynamics 365 Guides deeplinks to use in an Excel link manager
+# Customization tutorial 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel link manager
 
 This tutorial shows you how to create a link manager for your guides in Microsoft Excel to easily keep track of your guides. You can use the list manager to quickly launch a guide in the PC app link or in the HoloLens app by using the QR code link. The same workflow could be used for other scenarios like adding a link to a guide in an approval flow, embedding QR codes with links to guides in a work order, or in a learning management system.
 
