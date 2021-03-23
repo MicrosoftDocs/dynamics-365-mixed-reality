@@ -118,7 +118,7 @@
 ## Customizing Dynamics 365 Guides functionality
 ### [Customization tutorials](customization-tutorials-overview.md)
 ### [How to open the Guides model-driven app](customization-model-driven-app.md)
-### [Tutorial 1: Automatically generate Dynamics 365 Guides deeplinks to use in an Excel list manager](customization-tutorial1.md)
+### [Tutorial 1: Automatically generate Dynamics 365 Guides deeplinks to use in an Excel link manager](customization-tutorial1.md)
 ### [Tutorial 2: Create a 3D object collection and add objects to the collection](customization-tutorial2.md)
 ### [Tutorial 3: Collect data on which responses are selected in a non-linear guide](customization-tutorial3.md)
 ### [Entity reference](developer-entity-reference.md)
