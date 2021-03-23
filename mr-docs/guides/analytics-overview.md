@@ -27,13 +27,13 @@ The operations data, which includes information about time spent on each step an
 
 ![HoloLens operator at work](media/analytics-hololens-operator-1.PNG "HoloLens operator at work")
 
-### 2. Data is automatically stored**
+### 2. Data is automatically stored
 
 Step time data is stored in your **private and secure** Dynamics 365 environment.
 
 ![Screen shot of saved step time data ](media/analytics-data-stored-automatically-1.PNG "Screen shot of saved step time data")
 
-### 3. Trigger alerts or visualize data**
+### 3. Trigger alerts or visualize data
 
 Use the Power Platform to analyze and act on your data.
 
