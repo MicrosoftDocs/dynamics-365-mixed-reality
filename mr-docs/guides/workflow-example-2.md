@@ -68,7 +68,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Dynam
 
     If your flow is successful, you’ll see the new category in the **Active 3D Object Collections** screen in the model-driven app.  
     
-    ![Model-driven app screen with new object collection added](media/workflow2-object-collection-added.PNG "Model-driven app screen with new object collection added")
+    ![Model-driven app screen with new object collection added](media/workflow2-3D-object-collection-added.PNG "Model-driven app screen with new object collection added")
 
 ## Add an object to the new 3D object collection
 
