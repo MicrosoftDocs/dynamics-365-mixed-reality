@@ -5,35 +5,49 @@
 
 In this workflow example, we’ll use Microsoft Power Automate to create a Dynamics 365 Guides 3D object collection. 3D object collections appear as categories (Arrows, Generic Tools, and so on) in the Dynamics 365 Guides 3d toolkit. You can use Power Automate to create a new category for your 3D objects, and then add objects to the collection through the Dynamics 365 Guides model-driven app.
 
-SCREEN SHOT GOES HERE
+ ![XXX](media/workflow2-XXX.PNG"XXX")
  
 **Estimated time to create this workflow:** 10 minutes?
 
 ## Create a 3D object collection in Power Automate
 
-1.	Sign in to [Power Automate](https://us.flow.microsoft.com/en-us/) with the same account that you want to create the 3D object collection in.
+1. Sign in to [Power Automate](https://us.flow.microsoft.com/en-us/) with the same account that you want to create the 3D object collection in.
 
-2.	Select **Create**, and then select **Instant cloud flow** to create a new flow.
+2. Select **Create**, and then select **Instant cloud flow** to create a new flow.
+
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
     > [!NOTE]
     > You can also set this flow up to trigger automatically, for example, when a record is updated. 
     
-3.	Give your flow a name, select **Manually trigger a flow**, and then select **Create**. 
+3. Give your flow a name, select **Manually trigger a flow**, and then select **Create**. 
+
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
-4.	Select **New step**, and then select the **Add a new row** action.
+4. Select **New step**, and then select the **Add a new row** action.
+
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
     > [!TIP]
     > You can filter the list of Common Data Service actions by selecting the **Common Data Service** button.
     
-5.	In the **Add a new row** screen, in the **Table name** field, select **3D Object Collections**, enter a name for your new collection in the **Name** field, and then select **Show advanced options** to see all the fields related to adding a new row.
+5. In the **Add a new row** screen, in the **Table name** field, select **3D Object Collections**, enter a name for your new collection in the **Name** field, and then select **Show advanced options** to see all the fields related to adding a new row.
+
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
-6.	To get the value for the **Parent ID** field for the new collection, go to the Guides model-driven app, select **Collections**, and then select one of the existing object collections. For example, select the **Arrows** collection.
+6. To get the value for the **Parent ID** field for the new collection, go to the Guides model-driven app, select **Collections**, and then select one of the existing object collections. For example, select the **Arrows** collection.
+
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
-7.	Copy the value in the **Parent ID** field. 
+7. Copy the value in the **Parent ID** field. 
+
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
-8.	In the **Add a new row** screen, paste the copied text into the **Parent ID** field.
+8. In the **Add a new row** screen, paste the copied text into the **Parent ID** field.
+
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
-9.	Fill out other fields in the **Add a new row** screen as follows:
+9. Fill out other fields in the **Add a new row** screen as follows:
 
     |Field| Selection|
     |-----------------------------------|-----------------------------------------------|
@@ -41,26 +55,38 @@ SCREEN SHOT GOES HERE
     |**Status Reason**| **Active.** ???Add info from Shirley here???|
 
     The completed Add a new row screen looks like this:
+    
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
-10.	Select **Save** in the upper-right corner of the screen.
+10. Select **Save** in the upper-right corner of the screen.
 
-11.	To test the flow, in the upper-right corner of the screen, select **Test**, select **Manually**, and then select **Test**. 
+11. To test the flow, in the upper-right corner of the screen, select **Test**, select **Manually**, and then select **Test**. 
+
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
-12.	In the **Run flow** pane, select **Run flow**. 
+12. In the **Run flow** pane, select **Run flow**. 
 
-If your flow is successful, you’ll see the new category in the **Active 3D Object Collections** screen in the model-driven app.  
+    If your flow is successful, you’ll see the new category in the **Active 3D Object Collections** screen in the model-driven app.  
+    
+    ![XXX](media/workflow2-XXX.PNG"XXX")
 
 ## Add an object to the new 3D object collection
 
 You can add new objects to the collection directly in the model driven-app.
 
-1.	Select **Collections**, and then select the new collection.
+1. Select **Collections**, and then select the new collection.
 	
-2.	In the lower-right corner of the screen, select **Add Existing 3D Object**.
+2. In the lower-right corner of the screen, select **Add Existing 3D Object**.
+
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
-3.	Use the search box to find the 3D object you want to add to the collection or select it from the **Recent records** list, and then select **Add**. 
+3. Use the search box to find the 3D object you want to add to the collection or select it from the **Recent records** list, and then select **Add**. 
+
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
-Now when you open the 3d toolkit in the PC app, you’ll see your new 3D object collection and the newly associated object. 
+    Now when you open the 3d toolkit in the PC app, you’ll see your new 3D object collection and the newly associated object. 
+    
+    ![XXX](media/workflow2-XXX.PNG"XXX")
  
 ## Idea for further customization
 
