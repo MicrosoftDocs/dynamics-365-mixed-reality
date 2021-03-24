@@ -43,7 +43,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Micro
 
     ![Model-driven app screen with Parent ID selected](media/workflow2-parent-ID.PNG "Model-driven app screen with Parent ID selected")
  
-8. In the **Add a new row** screen, paste the copied text into the **Parent ID** field.
+8. In the **Add a new row** trigger in Power Automate, paste the copied text into the **Parent ID** field.
 
     ![Power Automate screen with Parent ID pasted in the Parent ID field](media/workflow2-add-new-row-parent-ID.PNG "Power Automate screen with Parent ID pasted in the Parent ID field")
  
