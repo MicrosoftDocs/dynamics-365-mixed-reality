@@ -76,7 +76,7 @@ The following table describes key characteristics of the above QR code.
 
 |URL part|Description|
 |-------------------------------|-------------------------------------------------------------|
-|**qzone=4**|The quiet zone space from the border to the start of the QR code. It must be at least four modules|
+|**qzone=4**|The quiet zone space from the border to the start of the QR code. It must be at least four modules.|
 |**size=1000x1000**|Size of the QR code|
 |**bgcolor=666666**|Background color (gray)|
 |**data=**|The link to the QR code|
