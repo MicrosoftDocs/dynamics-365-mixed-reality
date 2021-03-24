@@ -56,11 +56,11 @@ To create the deep link for the PC app, you need to concatenate the deep link pr
 
     ![Copy link to this guide selected](media/workflow1-copy-link-guide.PNG "Copy link to this guide selected")
  
-2.	Copy just the prefix part of the url to a cell in your spreadsheet (outside the area for the designated columns). For example, for the following instance url, the yellow highlighted text is the prefix.
+2.	Copy just the prefix part of the URL to a cell in your spreadsheet (outside the area for the designated columns). For example, for the following instance URL, the yellow highlighted text is the prefix.
 
     ![Deeplink showing highlighted prefix](media/workflow1-deeplink-concatenation.PNG "Deeplink showing highlighted prefix")
 
-3.	In the **Guide Link (PC App)** column of the spreadsheet, add a formula that concatenates the deep link prefix with the Guide ID. For example, if you add the url prefix in cell K1, and the Guide ID is populated in column F, the formula for the **Guide Link (PC App) column** is: 
+3.	In the **Guide Link (PC App)** column of the spreadsheet, add a formula that concatenates the deep link prefix with the Guide ID. For example, if you add the URL prefix in cell K1, and the Guide ID is populated in column F, the formula for the **Guide Link (PC App) column** is: 
 
     =HYPERLINK(CONCAT($K$1,F2))
 
@@ -81,7 +81,7 @@ The following table describes key characteristics of the above QR code:
 |**bgcolor=666666**|Background color (gray)|
 |**data=**|The link to the QR code|
 
-To concatenate this url with the deep link in column C, if the URL api is in cell K2, add the following formula to the **QR Code Link (HoloLens app)** column:
+To concatenate this URL with the deep link in column C, if the URL api is in cell K2, add the following formula to the **QR Code Link (HoloLens app)** column:
 
 =HYPERLINK(CONCAT($K$2,C2))
 
