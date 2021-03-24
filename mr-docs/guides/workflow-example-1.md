@@ -112,9 +112,7 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
 
     ![Get a row by ID action selected](media/workflow1-get-row-by-ID-selection.PNG "Get a row by ID action selected")
 
-6. In the **Get a row by ID** action box, for the **Table name**, select **Users**, and then place your cursor in the **Row ID** field. When you place the cursor, the **Add dynamic content** box appears, which makes it easy to select the appropriate column from the Users table.
-
-7. Select **Created By** from the **Dynamic content** list.
+6. In the **Get a row by ID** action box, for the **Table name**, select **Users**, place your cursor in the **Row ID** field, and then select **Created By** from the **Dynamic content** list.
 
     ![Created By field selected in Dynamic list](media/workflow1-created-by.PNG "Created By field selected in Dynamic list") 
 
