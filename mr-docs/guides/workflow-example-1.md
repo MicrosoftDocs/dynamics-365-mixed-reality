@@ -2,7 +2,7 @@
 
 # Workflow example 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel Link Manager
 
-This example shows how to create a Link Manager in Microsoft Excel to easily keep track of your guides and ‘quick launch’ them using a PC app deep link or a HoloLens QR code deep link. The same workflow could be used for other scenarios like adding a link to a guide in an approval flow, embedding QR codes with links to guides in a work order, or in a learning management system.
+This example shows how to create a Link Manager in Microsoft Excel to easily keep track of your guides and launch them quickly using a PC app deep link or a HoloLens QR code deep link. The same workflow could be used for other scenarios like adding a link to a guide in an approval flow, embedding QR codes with links to guides in a work order, or in a learning management system.
 
 The resulting Excel Link Manager for this example looks like this:
 
