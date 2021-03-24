@@ -31,7 +31,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Micro
     > [!TIP]
     > You can filter the list of Common Data Service actions by selecting the **Common Data Service** button.
     
-5. In the **Add a new row** screen, in the **Table name** field, select **3D Object Collections**, enter a name for your new collection in the **Name** field, and then select **Show advanced options** to see all the fields related to adding a new row.
+5. In the **Add a new row** trigger, in the **Table name** field, select **3D Object Collections**, enter a name for your new collection in the **Name** field, and then select **Show advanced options** to see all the fields related to adding a new row.
 
     ![Add a new row trigger showing Table name field and Name field](media/workflow2-add-new-row-trigger.PNG "Add a new row trigger showing Table name field and Name field")
  
