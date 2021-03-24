@@ -130,23 +130,23 @@ Now you’re ready to set up the actions that populate the Excel spreadsheet col
   
 2. In the **Add a row into a table** action, make the following selections:
  
->|Option|Description|
->|----------------------------|-------------------------------------------------------------|
->|Location|	The location of your Excel file (for example, OneDrive for Business).|
->|Document Library	|The document library where the Excel file is stored (for example, OneDrive).|
->|File	|The name of your file (for example, Guide List.xlsx). You can browse to select the file.|
->|Table|The table in the spreadsheet that you want to write the data to|
->|Username	|User Name|
->|Guide Name	|Name|
->|Guide Link (PC app)|	Leave blank|
->|QR code Link (HoloLens app)|	Leave blank|
->|Created On|	Created On|
->|Guide ID	|Guide|
->|Created By	|User|
+    |Option|Description|
+    |----------------------------|-------------------------------------------------------------|
+    |Location|	The location of your Excel file (for example, OneDrive for Business).|
+    |Document Library	|The document library where the Excel file is stored (for example, OneDrive).|
+    |File	|The name of your file (for example, Guide List.xlsx). You can browse to select the file.|
+    |Table|The table in the spreadsheet that you want to write the data to|
+    |Username	|User Name|
+    |Guide Name	|Name|
+    |Guide Link (PC app)|	Leave blank|
+    |QR code Link (HoloLens app)|	Leave blank|
+    |Created On|	Created On|
+    |Guide ID	|Guide|
+    |Created By	|User|
 
->The following screen shot shows values filled in for the **Add a row into a table** action. 
+    The following screen shot shows values filled in for the **Add a row into a table** action. 
 
->![Add a row into a table action with values filled in](media/workflow1-add-row-into-table-action.PNG "Add a row into a table action with values filled in")
+    ![Add a row into a table action with values filled in](media/workflow1-add-row-into-table-action.PNG "Add a row into a table action with values filled in")
 
 ## Idea for further customization
 
