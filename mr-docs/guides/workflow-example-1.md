@@ -130,9 +130,9 @@ Now you’re ready to set up the actions that populate the Excel spreadsheet col
  
     |Option|Description|
     |----------------------------|-------------------------------------------------------------|
-    |Location|	The location of your Excel file (for example, OneDrive for Business).|
-    |Document Library	|The document library where the Excel file is stored (for example, OneDrive).|
-    |File	|The name of your file (for example, Guide List.xlsx). You can browse to select the file.|
+    |Location|	The location of your Excel file (for example, OneDrive for Business)|
+    |Document Library	|The document library where the Excel file is stored (for example, OneDrive)|
+    |File	|The name of your file (for example, Guide List.xlsx). You can browse to select the file|
     |Table|The table in the spreadsheet that you want to write the data to|
     |Username	|User Name|
     |Guide Name	|Name|
