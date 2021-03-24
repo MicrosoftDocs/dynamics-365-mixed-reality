@@ -148,7 +148,7 @@ Now you’re ready to set up the actions that populate the Excel spreadsheet col
 
 The following screen shot shows values filled in for the **Add a row into a table** action. 
 
-## Idea for further customizations
+## Idea for further customization
 
 To further customize the Link Manager, you could set conditions in the Power Automate flow to populate a specific spreadsheet with the guides from a specific user so all of your power users have their own List Manager to work from. 
 
