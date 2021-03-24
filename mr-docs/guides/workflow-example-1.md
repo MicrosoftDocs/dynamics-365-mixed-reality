@@ -72,7 +72,7 @@ To create the HoloLens app link, you need to concatenate the URL api from the QR
 
 https://api.qrserver.com/v1/create-qr-code/?qzone=4&size=1000x1000&bgcolor=666666&&data=
 
-The following table describes key characteristics of the above QR code:
+The following table describes key characteristics of the above QR code.
 
 |URL part|Description|
 |-------------------------------|-------------------------------------------------------------|
