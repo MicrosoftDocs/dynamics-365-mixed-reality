@@ -115,12 +115,12 @@
 #### SideFX Houdini
 ##### [Prepare 3D models](3d-content-guidelines/houdini.md)
 ##### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)
-## Customizing Dynamics 365 Guides functionality
-### [Customization tutorials](customization-tutorials-overview.md)
-### [How to open the Guides model-driven app](customization-model-driven-app.md)
-### [Tutorial 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel link manager](customization-tutorial1.md)
-### [Tutorial 2: Create a 3D object collection and add objects to the collection](customization-tutorial2.md)
-### [Tutorial 3: Collect data on which responses are selected in a non-linear guide](customization-tutorial3.md)
+## Workflow integrations
+### [Workflow examples overview](workflow-examples-overview.md)
+### [How to open the Guides model-driven app](workflow-model-driven-app.md)
+### [Example 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel link manager](workflow-example-1.md)
+### [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
+### [Example 3: Collect data on which responses are selected in a non-linear guide](workflow-example-3.md)
 ### [Entity reference](developer-entity-reference.md)
 ## [Migrate content from one instance to another](migrate.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
