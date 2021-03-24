@@ -2,9 +2,9 @@
 
 # Workflow example 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel Link Manager
 
-This example shows you how to create a Link Manager for your guides in Microsoft Excel to easily keep track of your Microsoft Dynamics 365 guides. You can use the Link Manager to quickly launch a guide in the PC app by using the PC app link or in the HoloLens app by using the QR code link. The same workflow could be used for other scenarios like adding a link to a guide in an approval flow, embedding QR codes with links to guides in a work order, or in a learning management system.
+This example shows how to create a Link Manager in Microsoft Excel to easily keep track of your guides and ‘quick launch’ them using a PC app deep link or a HoloLens QR code deep link. The same workflow could be used for other scenarios like adding a link to a guide in an approval flow, embedding QR codes with links to guides in a work order, or in a learning management system.
 
-The resulting Excel spreadsheet created with this tutorial looks like this:
+The resulting Excel Link Manager for this example looks like this:
 
 SCREEN SHOT GOES HERE
 
@@ -12,13 +12,13 @@ SCREEN SHOT GOES HERE
 
 In this example you’ll learn how to do three key things:
 
-- Use Power Automate to automatically populate a spreadsheet with content from your Dyanmics 365 Guides environment
+- Use Microsoft Power Automate to automatically populate a spreadsheet with content from your Dyanmics 365 Guides environment
 
 - Automatically generate a deep link to a guide when the guide is created
 
 - Automatically generate a QR code for the newly created guide
 
-**Estimated time to create this workflow:** 10 minutes
+**Estimated time to create the Link Manager:** 10 minutes
 
 ## Create the Link Manager
 
@@ -30,21 +30,21 @@ Creating the Link Manager requires two basic steps:
 
 ## Create the Excel spreadsheet
 
-The first step is to create an Excel spreadsheet that includes the columns you need for the Link Manager. Data for most of the columns will come from the Microsoft Dataverse (formerly known as Common Data Service). Two of the Excel columns will contain data concatenated from other cells in the spreadsheet. 
+1. Create an Excel spreadsheet that includes the columns you need for the Link Manager. Data for most of the columns will come from the Microsoft Dataverse (formerly known as Common Data Service). Two of the Excel columns will contain data concatenated from other cells in the spreadsheet. 
 
-The following table shows the columns to add to the spreadsheet and where the data for each column will come from. 
+> The following table shows the columns to add to the spreadsheet and where the data for each column will come from. 
 
-|Excel column to add|Data source|
-|---------------------------------------------|----------------------------------------------|
-|User Name|	User Name (Microsoft Dataverse)|
-|Guide Name	|Name (Microsoft Dataverse)|
-|Guide Link (PC App)|	Concatenated value|
-|QR Code Link (HoloLens App)|	Concatenated value|
-|Created On	|Created On (Microsoft Dataverse)|
-|Guide ID	|Guide (Microsoft Dataverse)|
-|Created By|	User (Microsoft Dataverse)|
+>|Excel column to add|Data source|
+>|---------------------------------------------|----------------------------------------------|
+>|User Name|	User Name (Microsoft Dataverse)|
+>|Guide Name	|Name (Microsoft Dataverse)|
+>|Guide Link (PC App)|	Concatenated value|
+>|QR Code Link (HoloLens App)|	Concatenated value|
+>|Created On	|Created On (Microsoft Dataverse)|
+>|Guide ID	|Guide (Microsoft Dataverse)|
+>|Created By|	User (Microsoft Dataverse)|
 
-Make sure that after creating the columns that you select them and then select **Insert > Table**.
+2. After creating the columns, select them, and then select **Insert > Table**.
 
 SCREEN SHOT GOES HERE
 
