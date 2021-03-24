@@ -68,18 +68,18 @@ To create the deep link for the PC app, you need to concatenate the deep link pr
     
 ### Create the concatenated value for the HoloLens app link
 
-To create the HoloLens app link, you need to concatenate the URL api from the QR code generator with the full deep link (PC app link). The form of the URL api is important. For example, here's a well-formed URL api:
+To create the HoloLens app link, you need to concatenate the URL api from the QR code generator with the full deep link (PC app link). The characteristics of the URL api are important. For example, here's a URL api provides accurate scanning:
 
 https://api.qrserver.com/v1/create-qr-code/?qzone=4&size=1000x1000&bgcolor=666666&&data=
 
-The following table describes important parts of the URL:
+The following table describes key characteristics of the above QR code:
 
 |URL part|Description|
 |-------------------------------|-------------------------------------------------------------|
-|**qzone=4**||
-|**size=1000x1000**||
-|**bgcolor=666666**||
-|**data=**||
+|**qzone=4**|The quiet zone space from the border to the start of the QR code. It must be at least four modules|
+|**size=1000x1000**|Size of the QR code|
+|**bgcolor=666666**|Background color (gray)|
+|**data=**|The link to the QR code|
 
 To concatenate this url with the deep link in column C, if the URL api is in cell K2, add the following formula to the **QR Code Link (HoloLens app)** column:
 
