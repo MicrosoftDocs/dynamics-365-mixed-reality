@@ -54,7 +54,7 @@ To create the deep link for the PC app, you need to concatenate the deep link pr
 
 1.	To get the deeplink prefix for your instance URL, right-click any guide in the PC app, and then select **Copy link to this guide**.
 
-    ![Copy link to this guide selected](media/workflow1-copy-guide-link.PNG "Copy link to this guide selected")
+    ![Copy link to this guide selected](media/workflow1-copy-link-guide.PNG "Copy link to this guide selected")
  
 2.	Copy just the prefix part of the url to a cell in your spreadsheet (outside the area for the designated columns). For example, for the following instance url, the yellow highlighted text is the prefix.
 
