@@ -1,4 +1,4 @@
 
 
-# Tutorials for customizing Dynamics 365 Guides functionality
+# Overview of workflow examples for Dynamics 365 Guides
 
