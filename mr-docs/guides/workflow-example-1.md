@@ -44,7 +44,7 @@ Creating the Link Manager requires two basic steps:
     |Guide ID	|Guide (Microsoft Dataverse)|
     |Created By|	User (Microsoft Dataverse)|
 
-2. After creating the columns, select them, and then select **Insert > Table**.
+2. After creating the columns, select them, and then select **Insert > Table**. You'll populate this table later using the Power Automate flow.
 
    ![Screen shot of Excel toolbar with Table item selected](media/workflow1-excel-insert-table.PNG "Screen shot of Excel toolbar with Table item selected")
 
