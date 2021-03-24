@@ -52,7 +52,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Dynam
     |Field| Selection|
     |-----------------------------------|-----------------------------------------------|
     |**Record Created On** |**Timestamp.** You can select this value from the dynamic list after placing your cursor in the field. This sets the **Created On** field in the model-driven app.|
-    |**Status Reason**| **Active.** ???Add info from Shirley here???|
+    |**Status Reason**| **Active.** Dataverse tables should be set to active unless otherwise noted.|
 
     The completed Add a new row screen looks like this:
     
