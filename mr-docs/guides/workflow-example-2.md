@@ -7,7 +7,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Dynam
 
  ![Screen shot of PC app 3d toolkit with categories collapsed](media/workflow2-pc-app-category.PNG "Screen shot of PC app 3d toolkit with categories collapsed")
  
-**Estimated time to create this workflow:** 10 minutes?
+**Estimated time to create this workflow:** 10 minutes
 
 ## Create a 3D object collection in Power Automate
 
