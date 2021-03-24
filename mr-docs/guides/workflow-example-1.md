@@ -24,9 +24,9 @@ In this example you’ll learn how to do three key things:
 
 Creating the Link Manager requires two basic steps:
 
-- Create an Excel spreadsheet with the appropriate columns and formulas.
+1. Create an Excel spreadsheet with the appropriate columns and formulas.
 
-- Create a Power Automate flow that populates the data in the spreadsheet from Dynamics 365 Guides data stored in the Microsoft Dataverse.
+2. Create a Power Automate flow that populates the data in the spreadsheet from Dynamics 365 Guides data stored in the Microsoft Dataverse.
 
 ## Create the Excel spreadsheet
 
