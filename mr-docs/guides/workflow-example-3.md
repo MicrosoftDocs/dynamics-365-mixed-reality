@@ -1,15 +1,15 @@
 
 # Workflow example 3: Collect data on which responses are selected in a non-linear guide created in Dynamics 365 Guides
 
-If you have created a branching guide in Microsoft Dynamics 365 Guides, you can collect the data on which branches are selected by the operator. For example, you might have a branching guide that provides three choices, based on a gauge temperature reading. 
+If you have created a non-linear (branching) guide in Microsoft Dynamics 365 Guides, you can collect the data on which responses are selected by the operator. For example, you might have a non-linear guide that provides three choices, based on a gauge temperature reading. 
 
  ![XXX](media/workflow3-XXX.PNG "XXX")
 
-You can count the number of times the Step ID for each branching option is selected to know how often a particular issue occurs. 
+You can count the number of times the Step ID for each response is selected to know how often a particular issue occurs. 
 
 ## What you’ll learn in this example
 
-- Find the Step ID for a destination step
+- Find the Step ID for a response step
 
 - Export the event data for a guide to Microsoft Excel and match it to Step ID data 
 
@@ -17,19 +17,19 @@ You can count the number of times the Step ID for each branching option is selec
 
 **Estimated time to complete:** 10 minutes for either workflow solution
 
-## Two ways to collect branching data
+## Two ways to collect response data
 
-You can collect branching data in two different ways:
+You can collect response data in two different ways:
 
-- After the guide event (branch selection) has been executed 
+- After the guide event (response selection) has been executed 
 
 - In real time with Microsoft Power Automate as the event is executed
  
-You’ll need to get the Step ID for each destination step, regardless of which method you choose. This tutorial shows you how to get the Step ID and how to use the Step ID for either scenario.
+You’ll need to get the Step ID for each response step, regardless of which method you choose. This tutorial shows you how to get the Step ID and how to use the Step ID for either scenario.
 
-## Get the Step ID for a destination step
+## Get the Step ID for a response step
 
-You can use the Guides model-driven app to get the Step ID for a destination step.
+You can use the Guides model-driven app to get the Step ID for a response step.
 
 1. Go to [make.powerapps.com](make.powerapps.com). 
 
@@ -43,17 +43,17 @@ You can use the Guides model-driven app to get the Step ID for a destination ste
   
 4. Select the **Steps** entity to display the step information for the guide. 
 
-    For this example, we have a question step and three destination steps.
+    For this example, we have a question step and three response steps.
 
      ![XXX](media/workflow3-XXX.PNG "XXX")
  
-    To get the Step ID for a destination step, double-click the step in the model-driven app. The Step ID appears at the end of the page url in the resulting screen.
+    To get the Step ID for a response step, double-click the step in the model-driven app. The Step ID appears at the end of the page url in the resulting screen.
 
      ![XXX](media/workflow3-XXX.PNG "XXX")
   
-## Collect branching data after the event has been executed
+## Collect response data after the event has been executed
 
-1. Copy the Step ID for each destination step into an Excel spreadsheet. The spreadsheet will look something like this when you’re done:
+1. Copy the Step ID for each response step into an Excel spreadsheet. The spreadsheet will look something like this when you’re done:
  
     ![XXX](media/workflow3-XXX.PNG "XXX")
  
@@ -69,15 +69,15 @@ You can use the Guides model-driven app to get the Step ID for a destination ste
  
     ![XXX](media/workflow3-XXX.PNG "XXX")
 
-## Collect branching data in real time by using Power Automate
+## Collect response data in real time by using Power Automate
 
-Collecting branching data in real time by using Power Automate requires four steps:
+Collecting response data in real time by using Power Automate requires four steps:
 
 1. Create an Excel spreadsheet with the appropriate columns
 
 2. Create a Power Automate flow that:
 
-    - Is triggered when the guide event is created (when a user selects a destination step).
+    - Is triggered when the guide event is created (when a user selects a response step).
 
     - Sets a condition for the guide event Payload field that contains the Step ID. 
 
@@ -85,7 +85,7 @@ Collecting branching data in real time by using Power Automate requires four ste
  
 ## Create the spreadsheet
 
-Create an Excel spreadsheet with columns that match your destination steps and a column to record the date/time the branch was selected. For example, for the temperature gauge guide, the spreadsheet would include these four columns: 
+Create an Excel spreadsheet with columns that match your response steps and a column to record the date/time the response was selected. For example, for the temperature gauge guide, the spreadsheet would include these four columns: 
 
 - Date 
 
@@ -118,7 +118,7 @@ Create an Excel spreadsheet with columns that match your destination steps and a
 
     ![XXX](media/workflow3-XXX.PNG "XXX")
 
-6. In the **Condition**, create a condition where the **Payload** field contains a destination Step ID. 
+6. In the **Condition**, create a condition where the **Payload** field contains a response Step ID. 
 
     ![XXX](media/workflow3-XXX.PNG "XXX")
  
@@ -132,9 +132,9 @@ Create an Excel spreadsheet with columns that match your destination steps and a
     |---------------------------|------------------------------|------------------------------------|
     |**Location**|	OneDrive for Business	Cloud location for the file.| You can select OneDrive for Business or a SharePoint site
     |**Document Library**	|OneDrive	|The library for the cloud location|
-    |**File**	|**Guides Branching Data.xlxs**|The name of your Excel file|
+    |**File**	|**Guides Response Data.xlxs**|The name of your Excel file|
     |**Table**|	Table 1|???Fill this in???|
-    |**Date**|	Created On field (you can select this value dynamically after you place the cursor in the field)	|Records the date and time when the selection was made in the branching guide|
+    |**Date**|	Created On field (you can select this value dynamically after you place the cursor in the field)	|Records the date and time when the selection was made in the guide|
     |**150 to 200 degrees**|1	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
     |**200 to 250 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
     |**250 to 300 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
