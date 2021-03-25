@@ -15,7 +15,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Micro
 
 - How to use the Guides model-driven app to add an object
 
-**Estimated time to create this workflow:** 10 minutes
+**Estimated time to create the 3D object collection:** 10 minutes
 
 ## Create a 3D object collection in Power Automate
 
