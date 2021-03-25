@@ -3,7 +3,7 @@
 
 If you have created a branching guide in Microsoft Dynamics 365 Guides, you can collect the data on which branches are selected by the operator. For example, you might have a branching guide that provides three choices, based on a gauge temperature reading. 
 
-SCREEN SHOT GOES HERE
+ ![XXX](media/workflow3-XXX.PNG "XXX")
 
 You can count the number of times the Step ID for each branching option is selected to know how often a particular issue occurs. 
 
@@ -35,31 +35,31 @@ You can use the Guides model-driven app to get the Step ID for a destination ste
 
 2. Select **Apps**, and then select **Guides**.
 
-     SCREEN SHOT GOES HERE
+     ![XXX](media/workflow3-XXX.PNG "XXX")
   
 3. Select the appropriate guide in the list. 
 
-     SCREEN SHOT GOES HERE
+     ![XXX](media/workflow3-XXX.PNG "XXX")
   
 4. Select the **Steps** entity to display the step information for the guide. 
 
     For this example, we have a question step and three destination steps.
 
-     SCREEN SHOT GOES HERE 
+     ![XXX](media/workflow3-XXX.PNG "XXX")
  
     To get the Step ID for a destination step, double-click the step in the model-driven app. The Step ID appears at the end of the page url in the resulting screen.
 
-     SCREEN SHOT GOES HERE
+     ![XXX](media/workflow3-XXX.PNG "XXX")
   
 ## Collect branching data after the event has been executed
 
 1. Copy the Step ID for each destination step into an Excel spreadsheet. The spreadsheet will look something like this when you’re done:
  
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
  
 2. Use the model-driven app to export the guide event data.  
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
  
 3. Parse the **Payload** column in the exported spreadsheet to check for the Step ID's. For example, the following Excel formula compares the event data in the exported **Active Guide Events** spreadsheet to the Step IDs copied in the first step of this procedure. The formula returns a 1 if it matches an ID or a 0 if it doesn’t.
 
@@ -67,7 +67,7 @@ You can use the Guides model-driven app to get the Step ID for a destination ste
  
     The parsed and summed spreadsheet data looks something like this.
  
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
 
 ## Collect branching data in real time by using Power Automate
 
@@ -101,30 +101,30 @@ Create an Excel spreadsheet with columns that match your destination steps and a
 	
 2. Select **Create**, and then select **Automated cloud flow**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
  
 3. Give your flow a name, select the **When a record is created** trigger, and then select **Create**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
  
     > [!TIP]
     > You can filter the list of triggers to just the Common Data Service triggers by entering the word **data** in the **Choose your flow’s trigger** box.
 
 4. In the **When a record is created** trigger, select your environment, select **Guide Step Session Visits** for the **Entity Name** field, and then select a scope. 
  
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
     
 5. Select **New step**, and then select **Condition**.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
 
 6. In the **Condition**, create a condition where the **Payload** field contains a destination Step ID. 
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
  
 7. In the **If yes** box for the condition, select the **Excel Online (Business)** category, and then select the **Add a row into a table** action.
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
 
 8. Fill out the fields for the **Add a row into a table** action. For example, for the temperature gauge guide, select/enter the following data.
 
@@ -141,11 +141,11 @@ Create an Excel spreadsheet with columns that match your destination steps and a
 
     The following screen shot shows the fields filled in for the Temperature gauge guide. 
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
  
     This condition gets the Step ID for the **150 to 200 degrees** step and puts a 1 in the **150 to 200** column in the Excel spreadsheet when the **Payload** field contains that Step ID.
  
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
  
     You can then tabulate, graph, and analyze the data in Excel.
 
@@ -155,7 +155,7 @@ Create an Excel spreadsheet with columns that match your destination steps and a
 
 2. To test the flow, in the upper-right corner of the screen, select **Test**, select **Manually**, and then select **Test**. 
 
-    SCREEN SHOT GOES HERE
+    ![XXX](media/workflow3-XXX.PNG "XXX")
  
 3. In the **Run flow** pane, select **Run flow**. 
 
