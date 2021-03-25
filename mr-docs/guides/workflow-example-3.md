@@ -130,7 +130,7 @@ Create an Excel spreadsheet with columns that match your response steps and a co
 
     |Field|	Value|Description|
     |---------------------------|------------------------------|------------------------------------|
-    |**Location**|	OneDrive for Business	Cloud location for the file.| You can select OneDrive for Business or a SharePoint site
+    |**Location**|	OneDrive for Business	| Cloud location for the file. You can select OneDrive for Business or a SharePoint site
     |**Document Library**	|OneDrive	|The library for the cloud location|
     |**File**	|**Guides Response Data.xlxs**|The name of your Excel file|
     |**Table**|	Table 1|The table in Microsoft Excel that the data is written to|
