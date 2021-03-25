@@ -7,6 +7,14 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Micro
 
  ![Screen shot of PC app 3d toolkit with categories collapsed](media/workflow2-pc-app-category.PNG "Screen shot of PC app 3d toolkit with categories collapsed")
  
+## What you'll learn in this example
+
+- How to get the Parent ID for a 3D object collection
+
+- How to use the Parent ID when adding a new record in Power Automate
+
+- How to use the Guides model-driven app to add an object
+
 **Estimated time to create this workflow:** 10 minutes
 
 ## Create a 3D object collection in Power Automate
