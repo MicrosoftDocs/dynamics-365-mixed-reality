@@ -3,7 +3,7 @@
 
 If you have created a [non-linear (branching) guide](pc-app-branching.md) in Microsoft Dynamics 365 Guides, you can collect the data on which responses are selected by the operator. For example, you might have a non-linear guide that provides three choices, based on a gauge temperature reading. 
 
- ![XXX](media/workflow3-XXX.PNG "XXX")
+ ![XXX](media/workflow3-example-non-linear-guide.PNG "XXX")
 
 You can count the number of times the Step ID for each response is selected to know how often a particular issue occurs. 
 
@@ -35,27 +35,27 @@ You can use the Guides model-driven app to get the Step ID for a response step.
 
 2. Select **Apps**, and then select **Guides**.
 
-     ![XXX](media/workflow3-XXX.PNG "XXX")
+     ![XXX](media/workflow3-select-guides-app.PNG "XXX")
   
 3. Select the appropriate guide in the list. 
 
-     ![XXX](media/workflow3-XXX.PNG "XXX")
+     ![XXX](media/workflow3-select-guide.PNG "XXX")
   
 4. Select the **Steps** entity to display the step information for the guide. 
 
     For this example, we have a question step and three response steps.
 
-     ![XXX](media/workflow3-XXX.PNG "XXX")
+     ![XXX](media/workflow3-response-steps.PNG "XXX")
  
     To get the Step ID for a response step, double-click the step in the model-driven app. The Step ID appears at the end of the page url in the resulting screen.
 
-     ![XXX](media/workflow3-XXX.PNG "XXX")
+     ![XXX](media/workflow3-qr-code-identifier.PNG "XXX")
   
 ## Collect response data after the event has been executed
 
 1. Copy the Step ID for each response step into an Excel spreadsheet. The spreadsheet will look something like this when you’re done:
  
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-excel-response-step-IDs.PNG "XXX")
  
 2. Use the model-driven app to export the guide event data.  
 
@@ -67,7 +67,7 @@ You can use the Guides model-driven app to get the Step ID for a response step.
  
     The parsed and summed spreadsheet data looks something like this.
  
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-parsed-response-steps-XXX.PNG "XXX")
 
 ## Collect response data in real time by using Power Automate
 
@@ -101,30 +101,30 @@ Create an Excel spreadsheet with columns that match your response steps and a co
 	
 2. Select **Create**, and then select **Automated cloud flow**.
 
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-create-automated-flow.PNG "XXX")
  
 3. Give your flow a name, select the **When a record is created** trigger, and then select **Create**.
 
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-when-record-created-selection.PNG "XXX")
  
     > [!TIP]
     > You can filter the list of triggers to just the Common Data Service triggers by entering the word **data** in the **Choose your flow’s trigger** box.
 
 4. In the **When a record is created** trigger, select your environment, select **Guide Step Session Visits** for the **Entity Name** field, and then select a scope. 
  
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-when-record-created-trigger.PNG "XXX")
     
 5. Select **New step**, and then select **Condition**.
 
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-condition-selection.PNG "XXX")
 
 6. In the **Condition**, create a condition where the **Payload** field contains a response Step ID. 
 
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-condition.PNG "XXX")
  
 7. In the **If yes** box for the condition, select the **Excel Online (Business)** category, and then select the **Add a row into a table** action.
 
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-condition-add-row-to-table-selection.PNG "XXX")
 
 8. Fill out the fields for the **Add a row into a table** action. For example, for the temperature gauge guide, select/enter the following data.
 
@@ -141,11 +141,11 @@ Create an Excel spreadsheet with columns that match your response steps and a co
 
     The following screen shot shows the fields filled in for the Temperature gauge guide. 
 
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-add-row-to-table-filled-in.PNG "XXX")
  
     This condition gets the Step ID for the **150 to 200 degrees** step and puts a 1 in the **150 to 200** column in the Excel spreadsheet when the **Payload** field contains that Step ID.
  
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-excel-table-populated.PNG "XXX")
  
     You can then tabulate, graph, and analyze the data in Excel.
     
@@ -157,7 +157,7 @@ Create an Excel spreadsheet with columns that match your response steps and a co
 
 2. To test the flow, in the upper-right corner of the screen, select **Test**, select **Manually**, and then select **Test**. 
 
-    ![XXX](media/workflow3-XXX.PNG "XXX")
+    ![XXX](media/workflow3-text-flow.PNG "XXX")
  
 3. In the **Run flow** pane, select **Run flow**. 
 
