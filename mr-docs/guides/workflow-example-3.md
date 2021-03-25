@@ -67,7 +67,7 @@ You can use the Guides model-driven app to get the Step ID for a response step.
  
     The parsed and summed spreadsheet data looks something like this.
  
-    ![Parsed and populated Excel spreadsheet with summed response data](media/workflow3-parsed-response-steps-XXX.PNG "Parsed and populated Excel spreadsheet with summed response data")
+    ![Parsed and populated Excel spreadsheet with summed response data](media/workflow3-parsed-response-steps.PNG "Parsed and populated Excel spreadsheet with summed response data")
 
 ## Collect response data in real time by using Power Automate
 
