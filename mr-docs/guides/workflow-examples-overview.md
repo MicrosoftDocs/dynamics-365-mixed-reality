@@ -20,6 +20,6 @@ To get an idea for the types of workflows that you can create with Guides and Po
 
 - [Example 1: Automatically generate PC and HoloLens apps deeplinks to use in an Excel Link Manager](workflow-example-1.md)
 
-- [Example 2: Create a 3D object collection and add an object to the collection](workflow-example-2.md)
+- [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
 
-- [Example 3: Collect response step data for a non-linear guide](workflow-example-3.md)
+- [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
