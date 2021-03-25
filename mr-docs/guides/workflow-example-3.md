@@ -1,5 +1,5 @@
 
-# Workflow example 3: Collect data on which responses are selected in a non-linear guide created in Dynamics 365 Guides
+# Workflow example 3: Collect response data for a non-linear guide created in Dynamics 365 Guides
 
 If you have created a [non-linear (branching) guide](pc-app-branching.md) in Microsoft Dynamics 365 Guides, you can collect the data on which responses are selected by the operator. For example, you might have a non-linear guide that provides three choices, based on a gauge temperature reading. 
 
