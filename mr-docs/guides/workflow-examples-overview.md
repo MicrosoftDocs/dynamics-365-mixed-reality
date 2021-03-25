@@ -18,8 +18,8 @@ You might want to use Microsoft Power Automate to:
 
 To get an idea for the types of workflows that you can create with Guides and Power Automate, check out these examples:
 
-- [Example 1](workflow-example-1.md)
+- [Example 1: Automatically generate PC and HoloLens apps deeplinks to use in an Excel Link Manager](workflow-example-1.md)
 
-- [Example 2](workflow-example-2.md)
+- [Example 2: Create a 3D object collection and add an object to the collection](workflow-example-2.md)
 
-- [Example 3](workflow-example-3.md)
+- [Example 3: Collect response step data for a non-linear guide](workflow-example-3.md)
