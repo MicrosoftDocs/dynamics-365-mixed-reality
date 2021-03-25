@@ -8,11 +8,11 @@ You might want to use Microsoft Power Automate to:
 
    - **Work around a limitation.** For example, let’s say that you want to add a link to a step. The Dynamics 365 Guides PC app requires that any URL that you enter starts with **https:**, but you may have a business scenario that requires a url that doesn’t start with **https:** (for example, a guide stored on a local network). You could use Power Automate as a workaround by choosing the **Update a row** trigger and filling out the **Action URL** field.
 
-![Example of working around a limitation using the Action URL option](media/workflow-overview-action-url.PNG "Example of working around a limitation using the Action URL option")
+>![Example of working around a limitation using the Action URL option](media/workflow-overview-action-url.PNG "Example of working around a limitation using the Action URL option")
  
    - **Automate a process.** For example, let’s say that you create guides focused on car maintenance. If you need to add a new car model, rather than making the updates manually through the PC and HoloLens apps, you can make all the changes at once through Power Automate.
 
-![Example of automating a process](media/workflow-overview-automate-process.PNG "Example of automating a process")
+>![Example of automating a process](media/workflow-overview-automate-process.PNG "Example of automating a process")
  
 ## Example workflows
 
