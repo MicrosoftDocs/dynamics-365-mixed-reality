@@ -5,13 +5,13 @@ If you have created a [non-linear (branching) guide](pc-app-branching.md) in Mic
 
  ![Example non-linear guide created in this workflow showing three temperature readings](media/workflow3-example-non-linear-guide.PNG "Example non-linear guide created in this workflow showing three temperature readings")
 
-You can count the number of times the Step ID for each response is selected to know how often a particular issue occurs. 
+You can count the number of times the Step Id for each response is selected to know how often a particular issue occurs. 
 
 ## What you’ll learn in this example
 
-- Find the Step ID for a response step
+- Find the Step Id for a response step
 
-- Export the event data for a guide to Microsoft Excel and match it to Step ID data 
+- Export the event data for a guide to Microsoft Excel and match it to Step Id data 
 
 - Set up a condition in Microsoft Power Automate to export the event data for a guide to a particular column in a Microsoft Excel spreadsheet
 
@@ -25,11 +25,11 @@ You can collect response data in two different ways:
 
 - In real time with Microsoft Power Automate as the event is executed
  
-You’ll need to get the Step ID for each response step, regardless of which method you choose. This tutorial shows you how to get the Step ID and how to use the Step ID for either scenario.
+You’ll need to get the Step Id for each response step, regardless of which method you choose. This tutorial shows you how to get the Step Id and how to use the Step Id for either scenario.
 
-## Get the Step ID for a response step
+## Get the Step Id for a response step
 
-You can use the Guides model-driven app to get the Step ID for a response step.
+You can use the Guides model-driven app to get the Step Id for a response step.
 
 1. Go to [make.powerapps.com](make.powerapps.com). 
 
@@ -47,21 +47,21 @@ You can use the Guides model-driven app to get the Step ID for a response step.
 
      ![Model-driven app highlighting three response steps](media/workflow3-response-steps.PNG "Model-driven app highlighting three response steps")
  
-    To get the Step ID for a response step, double-click the step in the model-driven app. The Step ID appears at the end of the page url in the resulting screen.
+    To get the Step Id for a response step, double-click the step in the model-driven app. The Step Id appears at the end of the page url in the resulting screen.
 
-     ![Step ID section of QR code URL highlighted](media/workflow3-qr-code-identifier.PNG "Step ID section of QR code URL highlighted")
+     ![Step Id section of QR code URL highlighted](media/workflow3-qr-code-identifier.PNG "Step Id section of QR code URL highlighted")
   
 ## Collect response data after the event has been executed
 
-1. Copy the Step ID for each response step into an Excel spreadsheet. The spreadsheet will look something like this when you’re done:
+1. Copy the Step Id for each response step into an Excel spreadsheet. The spreadsheet will look something like this when you’re done:
  
-    ![Excel spreadsheet with copied Step IDs for each response step](media/workflow3-excel-response-step-IDs.PNG "Excel spreadsheet with copied Step IDs for each response step")
+    ![Excel spreadsheet with copied Step Ids for each response step](media/workflow3-excel-response-step-IDs.PNG "Excel spreadsheet with copied Step Ids for each response step")
  
 2. Use the model-driven app to export the guide event data.  
 
     ![Model driven-app with view selected for exporting event data](media/workflow3-XXX.PNG "Model driven-app with view selected for exporting event data")
  
-3. Parse the **Payload** column in the exported spreadsheet to check for the Step ID's. For example, the following Excel formula compares the event data in the exported **Active Guide Events** spreadsheet to the Step IDs copied in the first step of this procedure. The formula returns a 1 if it matches an ID or a 0 if it doesn’t.
+3. Parse the **Step Id** column in the exported spreadsheet to check for the Step Id's. For example, the following Excel formula compares the event data in the exported **Active Guide Events** spreadsheet to the Step Ids copied in the first step of this procedure. The formula returns a 1 if it matches an ID or a 0 if it doesn’t.
 
     =IF(ISNUMBER(SEARCH(B$2,'Active Guide Events'!L2)),1,0) 
  
@@ -79,7 +79,7 @@ Collecting response data in real time by using Power Automate requires four step
 
     - Is triggered when the guide event is created (when a user selects a response step).
 
-    - Sets a condition for the guide event Payload field that contains the Step ID. 
+    - Sets a condition for the guide event **Step Id** field that contains the Step Id. 
 
     - Writes the date to the Excel spreadsheet. 
  
@@ -118,9 +118,9 @@ Create an Excel spreadsheet with columns that match your response steps and a co
 
     ![Power Automate screen with Condition selected](media/workflow3-condition-selection.PNG "Power Automate screen with Condition selected")
 
-6. In the **Condition**, create a condition where the **Step Id** field contains a response Step ID. 
+6. In the **Condition**, create a condition where the **Step Id** field contains a response Step Id. 
 
-    ![Condition filled in with Payload field that contains an example Step ID](media/workflow3-condition.PNG "Condition filled in with Payload field that contains an example Step ID")
+    ![Condition filled in with Step Id field that contains an example Step Id](media/workflow3-condition.PNG "Condition filled in with Step Id field that contains an example Step Id")
  
 7. In the **If yes** box for the condition, select the **Excel Online (Business)** category, and then select the **Add a row into a table** action.
 
@@ -135,21 +135,21 @@ Create an Excel spreadsheet with columns that match your response steps and a co
     |**File**	|**Guides Response Data.xlxs**|The name of your Excel file|
     |**Table**|	Table 1|The table in Microsoft Excel that the data is written to|
     |**Date**|	Created On field (you can select this value dynamically after you place the cursor in the field)	|Records the date and time when the selection was made in the guide|
-    |**150 to 200 degrees**|1	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
-    |**200 to 250 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
-    |**250 to 300 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
+    |**150 to 200 degrees**|1	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
+    |**200 to 250 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
+    |**250 to 300 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
 
     The following screen shot shows the fields filled in for the Temperature gauge guide. 
 
     ![Add a row into a table action filled out with example data](media/workflow3-add-row-to-table-filled-in.PNG "Add a row into a table action filled out with example data")
  
-    This condition gets the Step ID for the **150 to 200 degrees** step and puts a 1 in the **150 to 200** column in the Excel spreadsheet when the **Payload** field contains that Step ID.
+    This condition gets the Step Id for the **150 to 200 degrees** step and puts a 1 in the **150 to 200** column in the Excel spreadsheet when the **Step Id** field contains that Step Id.
  
     ![Resulting Excel table populated with example data](media/workflow3-excel-table-populated.PNG "Resulting Excel table populated with example data")
  
     You can then tabulate, graph, and analyze the data in Excel.
     
-9. Repeat steps 5 through 8 for the two other response Step IDs. 
+9. Repeat steps 5 through 8 for the two other response Step Ids. 
 
 ### Test the flow
 
