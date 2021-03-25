@@ -157,7 +157,7 @@ Create an Excel spreadsheet with columns that match your response steps and a co
 
 2. To test the flow, in the upper-right corner of the screen, select **Test**, select **Manually**, and then select **Test**. 
 
-    ![Test flow pane in Power Automate](media/workflow3-text-flow.PNG "Test flow pane in Power Automate")
+    ![Test flow pane in Power Automate](media/workflow3-test-flow.PNG "Test flow pane in Power Automate")
  
 3. In the **Run flow** pane, select **Run flow**. 
 
