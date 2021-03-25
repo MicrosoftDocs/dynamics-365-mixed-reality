@@ -77,11 +77,11 @@ Collecting response data in real time by using Power Automate requires four step
 
 2. Create a Power Automate flow that:
 
-    - Is triggered when the guide event is created (when a user selects a response step).
+    - Is triggered when the guide event is created (when a user selects a response step)
 
-    - Sets a condition for the guide event **Step Id** field that contains the Step Id. 
+    - Sets a condition for the guide event **Step Id** field that contains the Step Id 
 
-    - Writes the date to the Excel spreadsheet. 
+    - Writes the date to the Excel spreadsheet 
  
 ## Create the spreadsheet
 
