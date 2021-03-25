@@ -25,7 +25,7 @@ You can collect response data in two different ways:
 
 - In real time with Microsoft Power Automate as the event is executed
  
-You’ll need to get the Step Id for each response step, regardless of which method you choose. This tutorial shows you how to get the Step Id and how to use the Step Id for either scenario.
+You’ll need to get the Step Id for each response step, regardless of which method you choose. This example shows you how to get the Step Id and how to use the Step Id for either scenario.
 
 ## Get the Step Id for a response step
 
