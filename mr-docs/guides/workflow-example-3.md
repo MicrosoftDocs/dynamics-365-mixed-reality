@@ -1,7 +1,7 @@
 
 # Workflow example 3: Collect data on which responses are selected in a non-linear guide created in Dynamics 365 Guides
 
-If you have created a non-linear (branching) guide in Microsoft Dynamics 365 Guides, you can collect the data on which responses are selected by the operator. For example, you might have a non-linear guide that provides three choices, based on a gauge temperature reading. 
+If you have created a [non-linear (branching) guide](pc-app-branching.md) in Microsoft Dynamics 365 Guides, you can collect the data on which responses are selected by the operator. For example, you might have a non-linear guide that provides three choices, based on a gauge temperature reading. 
 
  ![XXX](media/workflow3-XXX.PNG "XXX")
 
@@ -133,7 +133,7 @@ Create an Excel spreadsheet with columns that match your response steps and a co
     |**Location**|	OneDrive for Business	Cloud location for the file.| You can select OneDrive for Business or a SharePoint site
     |**Document Library**	|OneDrive	|The library for the cloud location|
     |**File**	|**Guides Response Data.xlxs**|The name of your Excel file|
-    |**Table**|	Table 1|???Fill this in???|
+    |**Table**|	Table 1|The table in Microsoft Excel that the data is written to|
     |**Date**|	Created On field (you can select this value dynamically after you place the cursor in the field)	|Records the date and time when the selection was made in the guide|
     |**150 to 200 degrees**|1	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
     |**200 to 250 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step ID in the condition or a **0** if it doesn’t.|
@@ -148,6 +148,8 @@ Create an Excel spreadsheet with columns that match your response steps and a co
     ![XXX](media/workflow3-XXX.PNG "XXX")
  
     You can then tabulate, graph, and analyze the data in Excel.
+    
+9. Repeat steps 5 through 8 for the two other response Step IDs. 
 
 ### Test the flow
 
