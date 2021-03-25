@@ -101,7 +101,7 @@ Create an Excel spreadsheet with columns that match your response steps and a co
 	
 2. Select **Create**, and then select **Automated cloud flow**.
 
-    ![Power Automate screen with Automated cloud flow selected](media/workflow3-create-automated-flow.PNG "Power Automate screen with Automated cloud flow selected")
+    ![Power Automate screen with Automated cloud flow selected](media/workflow3-created-automated-flow.PNG "Power Automate screen with Automated cloud flow selected")
  
 3. Give your flow a name, select the **When a record is created** trigger, and then select **Create**.
 
