@@ -134,7 +134,7 @@ Create an Excel spreadsheet with columns that match your response steps and a co
     |**Document Library**	|OneDrive	|The library for the cloud location|
     |**File**	|**Guides Response Data.xlxs**|The name of your Excel file|
     |**Table**|	Table 1|The table in Microsoft Excel that the data is written to|
-    |**Date**|	Created On field (you can select this value dynamically after you place the cursor in the field)	|Records the date and time when the selection was made in the guide|
+    |**Date**|	**Created On** field (you can select this value dynamically after you place the cursor in the field)	|Records the date and time when the selection was made in the guide|
     |**150 to 200 degrees**|1	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
     |**200 to 250 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
     |**250 to 300 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
