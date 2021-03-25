@@ -118,7 +118,7 @@ Create an Excel spreadsheet with columns that match your response steps and a co
 
     ![Power Automate screen with Condition selected](media/workflow3-condition-selection.PNG "Power Automate screen with Condition selected")
 
-6. In the **Condition**, create a condition where the **Payload** field contains a response Step ID. 
+6. In the **Condition**, create a condition where the **Step Id** field contains a response Step ID. 
 
     ![Condition filled in with Payload field that contains an example Step ID](media/workflow3-condition.PNG "Condition filled in with Payload field that contains an example Step ID")
  
