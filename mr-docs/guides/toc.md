@@ -118,9 +118,9 @@
 ## Workflow integrations
 ### [Workflow examples overview](workflow-examples-overview.md)
 ### [How to open the Guides model-driven app](workflow-model-driven-app.md)
-### [Example 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel link manager](workflow-example-1.md)
+### [Example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
 ### [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
-### [Example 3: Collect data on which responses are selected in a non-linear guide](workflow-example-3.md)
+### [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
 ### [Entity reference](developer-entity-reference.md)
 ## [Migrate content from one instance to another](migrate.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
