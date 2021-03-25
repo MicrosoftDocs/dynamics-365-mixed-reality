@@ -14,7 +14,7 @@ You might want to use Microsoft Power Automate to:
 
 ![Example of automating a process](media/workflow-overview-automate-process.PNG "Example of automating a process")
  
-## Examples
+## Example workflows
 
 To get an idea for the types of workflows that you can create with Guides and Power Automate, check out these examples:
 
