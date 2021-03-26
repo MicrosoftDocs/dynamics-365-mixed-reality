@@ -105,15 +105,17 @@ Collecting response data in real time by using Power Automate requires four step
  
 ### Create the spreadsheet
 
-Create an Excel spreadsheet with columns that match your response steps and a column to record the date/time the response was selected. For example, for the temperature gauge guide, the spreadsheet would include these four columns: 
+1. Create an Excel spreadsheet with columns that match your response steps and a column to record the date/time the response was selected. For example, for the temperature gauge guide, the spreadsheet would include these four columns: 
 
-- Date 
+    - Date 
 
-- 150 to 200 degrees
+    - 150 to 200 degrees
 
-- 200 to 250 degrees
+    - 200 to 250 degrees
 
-- 250 to 300 degrees
+    - 250 to 300 degrees
+
+2. 
 
 ### Create the flow
 
