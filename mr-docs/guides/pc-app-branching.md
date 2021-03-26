@@ -15,17 +15,15 @@ You can add a branch to a guide in Microsoft Dynamics 365 Guides if your use cas
 
 For example, you can create a guide that includes:
 
-- One branch that an operator can follow if they observe temperatures over 100 degrees, and a different branch if they observe temperatures less than 100 degrees. 
+- One response that an operator can follow if they observe temperatures over 100 degrees, and a different response if they observe temperatures less than 100 degrees. 
 
-- Beginner, intermediate, and advanced branches. Consolidating data in a single guide reduces the maintenance required to keep three separate guides up-to-date.
+- Beginner, intermediate, and advanced responses. Consolidating data in a single guide reduces the maintenance required to keep three separate guides up-to-date.
 
 - An assessment to ensure that the instructed work was completed or was completed correctly.
 
-## Branching terminology
+## Non-linear guide terminology
 
 To get started with branching in Dynamics 365 Guides, you’ll need to know the following terms:
-
-- **Branching** is the blanket term given to the collection of features that enable you to create non-linear guides.
 
 - **Responses** are the choices that authors provide for operators.
 
