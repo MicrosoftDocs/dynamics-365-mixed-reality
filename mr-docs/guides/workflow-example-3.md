@@ -61,7 +61,7 @@ You can use the Guides model-driven app to get the Step Id for a response step.
 
     1. Go to [powerapps.com](make.powerapps.com) and select the appropriate instance.
 
-    2. In the left navigation pane, selecct **Data**, and then select **Tables**.
+    2. In the left navigation pane, select **Data**, and then select **Tables**.
 
        ![Left navigation pane with Tables selected](media/workflow3-select-data-tables.PNG "Left navigation pane with Tables selected")
        
