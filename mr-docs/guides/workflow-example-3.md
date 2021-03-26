@@ -59,21 +59,21 @@ You can use the Guides model-driven app to get the Step Id for a response step.
  
 2. Use the model-driven app to export the guide event data. To do this:
 
-    a. Go to [powerapps.com](make.powerapps.com) and select the appropriate instance.
+    1. Go to [powerapps.com](make.powerapps.com) and select the appropriate instance.
 
-    b. In the left navigation pane, selecct **Data**, and then select **Tables**.
+    2. In the left navigation pane, selecct **Data**, and then select **Tables**.
 
        ![Left navigation pane with Tables selected](media/workflow3-select-data-tables.PNG "Left navigation pane with Tables selected")
        
-    c. On the right side of the screen, change the view to **All** to view all tables.
+    3. On the right side of the screen, change the view to **All** to view all tables.
 
        ![Filter with All selected](media/workflow3-view-all-tables.PNG "Filter with All selected")
        
-    d. Select the **Guide Session Step Visit** table.
+    4. Select the **Guide Session Step Visit** table.
 
        ![List of tables with Guide Session Step Visit table selected](media/workflow3-select-guide-session-step-visit-table.PNG "List of tables with Guide Session Step Visit table selected")
        
-    e. At the top of the screen, select **Data**, and then select **Export data**.
+    5. At the top of the screen, select **Data**, and then select **Export data**.
 
        ![Data menu with Export data selected](media/workflow3-export-data.PNG "Data menu with Export data selected")
        
