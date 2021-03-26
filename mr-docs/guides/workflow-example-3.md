@@ -81,9 +81,9 @@ You can use the Guides model-driven app to get the Step Id for a response step.
 
        ![Downloadeded Excel spreadsheet with column R selected showing list of Step Ids](media/workflow3-step-id-excel.PNG "Downloadeded Excel spreadsheet with column R selected showing list of Step Ids")
  
-3. Parse the **Step Id** column in the exported spreadsheet to check for the Step Id's. For example, the following Excel formula compares the event data in the exported **Active Guide Events** spreadsheet to the Step Ids copied in the first step of this procedure. The formula returns a 1 if it matches an ID or a 0 if it doesn’t.
+3. Parse the **Step Id** column in the exported spreadsheet to check for the Step Id's. For example, the following Excel formula compares the event data in the exported **Guide Session Step Visit** spreadsheet to the Step Ids copied in the first step of this procedure. The formula returns a 1 if it matches an ID or a 0 if it doesn’t.
 
-    =IF(ISNUMBER(SEARCH(B$2,'Guides Session Step Visit'!R2)),1,0) 
+    =IF(ISNUMBER(SEARCH(B$2,'Guide Session Step Visit'!R2)),1,0) 
  
     The parsed and summed spreadsheet data looks something like this.
  
