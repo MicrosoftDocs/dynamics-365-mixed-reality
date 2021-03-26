@@ -57,9 +57,29 @@ You can use the Guides model-driven app to get the Step Id for a response step.
  
     ![Excel spreadsheet with copied Step Ids for each response step](media/workflow3-excel-response-step-IDs.PNG "Excel spreadsheet with copied Step Ids for each response step")
  
-2. Use the model-driven app to export the guide event data.  
+2. Use the model-driven app to export the guide event data. To do this:
 
-    ![Model driven-app with view selected for exporting event data](media/workflow3-XXX.PNG "Model driven-app with view selected for exporting event data")
+    1. Go to [powerapps.com](make.powerapps.com) and select the appropriate instance.
+
+    2. In the left navigation pane, selecct **Data**, and then select **Tables**.
+
+       ![Left navigation pane with Tables selected](media/workflow3-select-data-tables.PNG "Left navigation pane with Tables selected")
+       
+    3. On the right side of the screen, change the view to **All** to view all tables.
+
+       ![Filter with All selected](media/workflow3-view-all-tables.PNG "Filter with All selected")
+       
+    4. Select the **Guide Session Step Visit** table.
+
+       ![List of tables with Guide Session Step Visit table selected](media/workflow3-select-guide-session-step-visit-table.PNG "List of tables with Guide Session Step Visit table selected")
+       
+    5. At the top of the screen, select **Data**, and then select **Export data**.
+
+       ![Data menu with Export data selected](media/workflow3-export-data.PNG "Data menu with Export data selected")
+       
+       The Step Id information is in column R of the Excel spreadsheet.
+
+       ![Downloadeded Excel spreadsheet with column R selected showing list of Step Ids](media/workflow3-step-id-excel.PNG "Downloadeded Excel spreadsheet with column R selected showing list of Step Ids")
  
 3. Parse the **Step Id** column in the exported spreadsheet to check for the Step Id's. For example, the following Excel formula compares the event data in the exported **Active Guide Events** spreadsheet to the Step Ids copied in the first step of this procedure. The formula returns a 1 if it matches an ID or a 0 if it doesn’t.
 
