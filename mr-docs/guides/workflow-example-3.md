@@ -11,7 +11,7 @@ You can count the number of times the Step Id for each response is selected to k
 
 - Find the Step Id for a response step
 
-- Export the event data for a guide to Microsoft Excel and match it to Step Id data 
+- Export a guide's event data to Microsoft Excel and match it to Step Id data 
 
 - Set up a condition in Microsoft Power Automate to export the event data for a guide to a particular column in a Microsoft Excel spreadsheet
 
