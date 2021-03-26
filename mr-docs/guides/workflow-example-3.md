@@ -115,7 +115,9 @@ Collecting response data in real time by using Power Automate requires four step
 
     - 250 to 300 degrees
 
-2. 
+2. After creating the columns, select them, and then select **Insert > Table**. You'll populate this table with the Power Automate flow.
+
+   ![Screen shot of Excel toolbar with Table item selected](media/workflow1-excel-insert-table.PNG "Screen shot of Excel toolbar with Table item selected")
 
 ### Create the flow
 
