@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn how to update the Microsoft Dynamics 365 Guides solution when a new release requires an update.
 ms.author: mamaylya
-ms.date: 02/25/2021
+ms.date: 03/26/2021
 ms.service: crm-online
 ms.topic: article
 title: Update the Dynamics 365 Guides solution
@@ -22,7 +22,7 @@ Keep the following in mind:
 
 - Before you update the solution in the Power Platform admin center, make sure that the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps have been updated to the latest version from the [!include[cc-microsoft](../includes/cc-microsoft.md)] Store.
 
-- Updates to the solution must be done when the PC and [!include[pn-hololens](../includes/pn-hololens.md)] apps are not in use.  
+- Updates to the solution must be done when the Guides model-driven app, PC app, and [!include[pn-hololens](../includes/pn-hololens.md)] app is not in use.  
 
 - [Make sure that you back up your environment](https://docs.microsoft.com/power-platform/admin/backup-restore-environments) before updating your solution. 
 
