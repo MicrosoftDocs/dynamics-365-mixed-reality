@@ -5,7 +5,7 @@ ms.author: mamaylya
 ms.date: 04/01/2021
 ms.service: crm-online
 ms.topic: article
-title: Workflow example 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel Link Manager
+title: xxx
 ms.reviewer: v-brycho
 ---
 
