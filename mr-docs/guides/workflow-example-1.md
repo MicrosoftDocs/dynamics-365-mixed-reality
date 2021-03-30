@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Add additional user accounts to a Microsoft Dynamics 365 Guides license.
+description: Learn how to use Microsoft Power Automate to automatically generate deeplinks for the Dynamics 365 Guides PC and HoloLens apps
 ms.author: mamaylya
 ms.date: 05/18/2020
 ms.service: crm-online
