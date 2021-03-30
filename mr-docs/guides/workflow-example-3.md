@@ -1,3 +1,13 @@
+---
+author: Mamaylya
+description: Learn how to use Microsoft Power Automate and Microsoft Excel to collect response data for a non-linear guide created in Dynamics 365 Guides
+ms.author: mamaylya
+ms.date: 04/01/2021
+ms.service: crm-online
+ms.topic: article
+title: Workflow example 1--Collect response data for a non-linear guide created in Dynamics 365 Guides
+ms.reviewer: v-brycho
+---
 
 # Workflow example 3: Collect response data for a non-linear guide created in Dynamics 365 Guides
 
