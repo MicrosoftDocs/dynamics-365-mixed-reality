@@ -1,6 +1,6 @@
 ---
 author: Mamaylya
-description: Learn how to use Microsoft Power Automate with Microsoft Dynamics 365 Guides data to automatically generate deeplinks for the Dynamics 365 Guides PC and HoloLens apps, and then use those links to create an Excel Link Manager.
+description: Learn how to use Microsoft Power Automate with Microsoft Dynamics 365 Guides data to automatically generate deeplinks for the  PC and HoloLens apps.
 ms.author: mamaylya
 ms.date: 04/01/2021
 ms.service: crm-online
