@@ -1,12 +1,12 @@
 ---
 author: Mamaylya
-description: Learn how to use Microsoft Power Automate with Microsoft Dynamics 365 Guides data to automatically generate deeplinks for the  PC and HoloLens apps.
+description: Add additional user accounts to a Microsoft Dynamics 365 Guides license.
 ms.author: mamaylya
-ms.date: 04/01/2021
+ms.date: 05/18/2020
 ms.service: crm-online
 ms.topic: article
-title: Workflow example 1: Automatically generate Dynamics 365 Guides deep links to use in a Microsoft Excel Link Manager
-ms.reviewer: v-bholmes
+title: Add additional user accounts to Dynamics 365 Guides
+ms.reviewer: v-brycho
 ---
 
 # Workflow example 1: Automatically generate Dynamics 365 Guides deep links to use in an Excel Link Manager
