@@ -41,7 +41,7 @@ You’ll need to get the Step Id for each response step, regardless of which met
 
 You can use the Guides model-driven app to get the Step Id for a response step.
 
-1. Go to [make.powerapps.com](make.powerapps.com). 
+1. Go to [make.powerapps.com](https://make.powerapps.com). 
 
 2. Select **Apps**, and then select **Guides**.
 
