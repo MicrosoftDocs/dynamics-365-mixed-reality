@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Workflow example 2: Create a Dynamics 365 Guides 3D object collection and add objects to the collection
 
-In this workflow example, we’ll use Microsoft Power Automate to create a Microsoft Dynamics 365 Guides 3D object collection. 3D object collections appear as categories (**Arrows**, **Generic Tools**, and so on) in the Dynamics 365 Guides 3D toolkit. You can use Power Automate to create a new category for your 3D objects, and then add objects to the collection through the [Dynamics 365 Guides model-driven app](admin-share-guides-hub.md).
+In this workflow example, we’ll use Microsoft Power Automate to create a Microsoft Dynamics 365 Guides 3D object collection. 3D object collections appear as categories (**Arrows**, **Generic Tools**, and so on) in the Dynamics 365 Guides 3D toolkit. You can use Power Automate to create a new category for your 3D objects, and then add objects to the collection through the Dynamics 365 Guides model-driven app.
 
  ![Screen shot of PC app 3d toolkit with categories collapsed](media/workflow2-pc-app-category.PNG "Screen shot of PC app 3d toolkit with categories collapsed")
  
@@ -90,7 +90,7 @@ In this workflow example, we’ll use Microsoft Power Automate to create a Micro
 
 You can add new objects to the collection directly in the model driven-app.
 
-1. Open the [Guides model driven-app](admin-share-guides-hub.md).
+1. Open the Guides model driven-app.
 
 2. Select **Collections**, and then select the new collection.
 	
