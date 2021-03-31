@@ -69,7 +69,7 @@ You can use the Guides model-driven app to get the Step Id for a response step.
  
 2. Use the model-driven app to export the guide event data. To do this:
 
-    1. Go to [powerapps.com](make.powerapps.com) and select the appropriate instance.
+    1. Go to [powerapps.com](https://make.powerapps.com) and select the appropriate instance.
 
     2. In the left navigation pane, select **Data**, and then select **Tables**.
 
