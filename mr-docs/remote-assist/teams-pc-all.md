@@ -128,6 +128,9 @@ When in a call, you will see your collaborator’s space—including the hologra
 
 ![Screenshot of the mixed reality toolbar.](media/071f358ab6bbf7c2072b15d9203a1593.png)
 
+> [!NOTE]
+> -	The toolbar appears only when the video on stage is from the Dynamics 365 Remote Assist user.<br><br>-	The toolbar will appear but will be disabled if the Remote Assist user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, they temporarily lost tracking, or Remote Assist is not in the foreground because the user used the bloom gesture).<br><br>-	The toolbar will not appear if the same Remote Assist user joins the call from both a mobile device and HoloLens as well as a PC at the same time.
+
 ### Begin editing 
 
 To start annotating, first do one of the following to pause the video stream and enter edit mode:
@@ -137,9 +140,6 @@ To start annotating, first do one of the following to pause the video stream and
 -   Select one of the items on the Mixed Reality toolbar.
 
 -   Select **Start editing**.
-
->[!Note]
-> By default, the **Mixed Reality toolbar** is on the top of your screen. If it is blocking your view and you'd like to move it somewhere else, select the drag icon (as seen here: ![Graphic showing the drag icon.](media/PC_Drag.png)) and drag the **Mixed Reality toolbar** where you would like it to be.
 
 In edit mode, the expert will still see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
 
