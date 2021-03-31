@@ -129,7 +129,9 @@ When in a call, you will see your collaborator’s space—including the hologra
 ![Screenshot of the mixed reality toolbar.](media/071f358ab6bbf7c2072b15d9203a1593.png)
 
 > [!NOTE]
-> -	The toolbar appears only when the video on stage is from the Dynamics 365 Remote Assist user.<br><br>-	The toolbar will appear but will be disabled if the Remote Assist user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, they temporarily lost tracking, or Remote Assist is not in the foreground because the user used the bloom gesture).<br><br>-	The toolbar will not appear if the same Remote Assist user joins the call from both a mobile device and HoloLens as well as a PC at the same time.
+> -	The toolbar appears only when the video on stage is from the Remote Assist user.
+> -	The toolbar will appear but will be disabled if the Remote Assist user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily lost tracking, or Remote Assist is not in the foreground because the user did the bloom gesture).
+> -	The toolbar will not appear if the same Remote Assist user joins the call from both a mobile device and HoloLens as well as a PC at the same time.
 
 ### Begin editing 
 
