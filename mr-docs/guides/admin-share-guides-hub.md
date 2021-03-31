@@ -33,13 +33,11 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
     ![Copy the Instance URL value](media/copy-instance-url.jpg "Copy the Instance URL value")
 
-3. Sign in, and then select the **Guides** model-driven app.
-
-    ![Guides app](media/guides-model-driven-app.jpg "Guides app")
+3. Sign in, and select the **Guides** model-driven app from the "Guides" menu on the left.
 
 4. The interface for the Guides model-driven app will be available as  shown below:
 
-![Guide model-driven app example](media/Guides-Hub.png)
+![Guides model-driven app example](media/Guides-Hub.png "Guides model-driven app example")
 
 ## Limiting Access to the Guides model-driven app
 
