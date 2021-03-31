@@ -23,7 +23,7 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 # Assign or share guides
 
-When you create a guide, you are the owner of the guide. If you would like another person in your organization to also have ownership of the guide, then you can assign the ownership of a guide to that person. You can assign the ownership of a Guide to a user or team. You can also assign the ownership of a Guide to yourself if you have a system administrator role with the assign privilege.
+When you create a guide, you are the owner of the guide. If you would like another person in your organization to also have ownership of the guide, then you can assign the ownership of a guide to that person. You can assign the ownership of a Guide to a user or team. You can also assign the ownership of a Guide to yourself if you have a role with the assign privilege.
 
 If you want to keep ownership of the guide but let someone else work on it with you, then use the **Share** option to share the guide.
 
@@ -60,6 +60,6 @@ For more information on the three types of teams; *owner* team, Azure Active Dir
 
 ## Share a guide with someone else
 
- Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on Guides as Authors, or use Guides as Operators. In exceptional cases, the share option can be used for individuals who are not members of a team.  Foe details on the sharing process see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
+ Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on Guides as Authors, or use Guides as Operators. In exceptional cases, the share option can be used for individuals who are not members of a team.  For details on the sharing process see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]

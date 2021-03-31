@@ -24,11 +24,11 @@ search.app:
 
 ## Operator and Author roles for individual users
 
-You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit guides as an author or use them as an operator.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles. **Restricted Authors** only have access to what they have created in the instance, while **Restricted Operators** only have access to what has been shared or assigned to them. 
+You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit guides as an author or use them as an operator.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles. **Restricted Authors** only have access to what they have created in the instance, while **Restricted Operators** only have access to what has been shared or assigned to them.
 
 Users with the roles of **Restricted Author** and **Restricted Operator** will only have access to:
 
-- Guides/content that the user created.
+- Guides/content that the user created (unless access was explicitly removed).
 - Guides that were explicitly shared with them or shared with an owner team they are a member of.
 - Guides with ownerships that were assigned to the user or assigned to an owner team that the user is a member of.
 
@@ -46,7 +46,6 @@ For an overview of how to manage group teams see [Manage Group Teams in Power Pl
 > [!NOTE]
 > SharePoint groups are not supported by Dynamics 365.  Only Azure Active Directory Office or Security Groups are supported by Dynamics 365 Group Teams.
 
-
 ### Create an Azure Active Directory Group
 
 Create an Azure Active Directory Security Group or an Azure Active Directory Office Group. See: [Create a basic group and add members - Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal)
@@ -60,6 +59,7 @@ The Dynamics 365 Team can be linked to the Azure Active Directory Group that is 
 For more information on how to link an AAD Group to a Dynamics 365 Team see the [Manage group teams - Power Platform](https://docs.microsoft.com/power-platform/admin/manage-group-teams).  When setting a value for  **membership type** by selecting one of the options (Members/Members&Guests/Guests/Owners) be aware that this determines which users in the group will flow into the Dynamics 365 team.  Setting the **membership type** is similar to setting a pass-through filter. If membership type: “members” is selected and a guest is added to the group, the guest will not flow down into a team that has a membership type of “members”.  This guest will not inherit the role from the Dynamics 365 Group Team.  
 
 Two options are available for assigning roles to a team.  
+
 - Option 1 is to **add people** to a role using groups.  In this case these additions must be made to the Basic User role and any additional roles that are to be modified.  This is the best option if many Dynamics 365 Group Teams need to have a role assigned.
 - Option 2 is to modify the Dynamics 365 Group Team to **add one or more roles**.  This is the best option if a small number of Dynamics 365 Group Teams require modification.
 
@@ -74,8 +74,8 @@ Update a role to include the Dynamics 365 Group Team that was created in the ste
 1. Click on the role name “Basic User” to see more detail.
 ![basic user](media/Power-Platform-Enviro-Roles.png "basic users")
 1. Click on the “Add people” action button at the top of the view.
-    ![add people](media/Power-Platform-security-role-add-people.png "Add people") 
-1. Search for the Dynamics 365 Group Team created in Step 1 above. Select the Group Team when it is shown in the search results and select “add” to confirm. 
+    ![add people](media/Power-Platform-security-role-add-people.png "Add people")
+1. Search for the Dynamics 365 Group Team created in Step 1 above. Select the Group Team when it is shown in the search results and select “add” to confirm.
  ![add group](media/Power-Platform-security-add-group.png "Add group")
 1. Repeat the steps above for the [Dynamics 365 Guides role](https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role) that is to be applied to this team. Guides roles include:
     - Dynamics 365 Guides Author
@@ -90,7 +90,7 @@ Update a role to include the Dynamics 365 Group Team that was created in the ste
 
 Repeat the above steps for any additional roles that are applied to the Group Team.
 
-### Option 2: Assign Dynamics 365 Guides Roles to a Group Team 
+### Option 2: Assign Dynamics 365 Guides Roles to a Group Team
 
 Update the Dynamics 365 Guides roles to include the Dynamics 365 Group Team that was created in the step above using the [Power Platform admin centre](https://admin.powerplatform.microsoft.com/environments).  See [Add roles to group teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
@@ -113,4 +113,3 @@ Update the Dynamics 365 Guides roles to include the Dynamics 365 Group Team that
 Note: the “manage roles” button at the top will not be shown as an option on the list of group teams page if the checkbox to the left of a group team is selected.  Manage roles is only available in the context of the group team details page.  
 
 Example: If the steps above were completed to apply the author role to an AAD Office Group, then anyone in the group will have a role that will allow them to create and edit a guide and the guide will be owned by the group referenced in the first step allowing access and edit privileges.
-

@@ -24,26 +24,25 @@ For more information on the three types of teams; *owner* team, Azure Active Dir
 
 ## How access teams work with the Operator and Author user roles
 
-You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit Guides as an author or use them as an operator.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all Guides in the instance. To limit access to specific Guides or Guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles. Users who are assigned one of these roles do not have access to any Guide created in the environment.  
+You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit Guides as an operator or use them as an author.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all Guides in the instance. To limit access to specific Guides or Guide content (3D models, images, or videos), you can use the **Restricted Operator** and **Restricted Author** roles. Users who are assigned one of these roles do not have access to any Guide created in the environment.  
 
-Users with the roles of **Restricted Author** and **Restricted Operator** will only have access to:
+Users with the roles of **Restricted Operator** and **Restricted Author** will only have access to:
 
-- Guides that the user created.
+- Guides that the user created (unless access was explicitly removed)
 - Guides that were explicitly shared with them or shared with an owner team they are a member of.
 - Guides with ownerships that were assigned to the user or assigned to an owner team that the user is a member of.
 
-## 
 >[!IMPORTANT]
 >If you have already restricted access to guides or guides content by creating your own security role with reduced privileges, you’ll need to remove that security role and replace it with one of the built-in security roles as described in this article.
 
 ## Assign the restricted security role
 
-To prevent a specific user from accessing all guides by default, update the user's security role to the **Dynamics 365 Guides Restricted Operator** role. Once assigned, they will be able to see only the guides that have been shared with that role.
+To prevent a specific user from accessing all guides by default, update the user's security role to the **Dynamics 365 Guides Restricted Operator** role. Once assigned, they will be able to see only guides assigned or shared with them or teams they are members of.
 
 > [!NOTE]
 > The steps outlined in this procedure show how to restrict operator privileges. You can restrict author privileges in a similar way. This article also shows how to restrict access to the **Guides** entity. You can use the same steps to restrict access to other types of Dynamics 365 Guides records (3D models, images, or videos) to limit their visibility to certain users or teams.
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the Guides solution, select the **More environment actions** (**...**) button, and then select **Settings**.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the Guides environment/instance, select the **More environment actions** (**...**) button, and then select **Settings**.
 
     ![Settings command](media/access-teams-9.PNG "Settings command")
 
@@ -67,7 +66,7 @@ To prevent a specific user from accessing all guides by default, update the user
 
     ![Clear and select roles](media/manage-user-basic-user-restricted-op.PNG "Clear and select roles")
 
-## Create an Access Team 
+## Create an Access Team
 
 A user can be associated with more than one access team.
 
@@ -131,7 +130,7 @@ A user can be associated with more than one access team.
 
 ## Share a guide with a specific user
 
-Users who have access to the Guides model-driven app and have the share privilege can share their accessible guides and guide records with other users.
+Users who have the share privilege can share their accessible guides and guide records with other users.
 
 1. Go to <https://make.powerapps.com/>.
 
@@ -157,8 +156,7 @@ Users who have access to the Guides model-driven app and have the share privileg
 
 ## See also
 
-[Use access teams and owner teams to collaborate and share information](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information)<br>
-[Assign an Operator or Author role to a user](assign-role.md)<br>
-[Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md)<br>
+[Use access teams and owner teams to collaborate and share information](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information)
+[Assign an Operator or Author role to a user](assign-role.md)
+[Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md)
 [Learn more about Dynamics 365 security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges)
-
