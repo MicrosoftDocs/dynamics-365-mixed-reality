@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-[Assigning](http://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign) the ownership of a Guide to a user is the preferred process for controlling who can use specific guides.  If teams change frequently resulting in a need to create and delete Access Teams often a Microsoft Dynamics 365 Admin (or an other user with the share privilege) can **share** Guides with [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos) in Dynamics 365 Guides.
+[Assigning](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-assign) the ownership of a Guide to a user is the preferred process for controlling who can use specific guides.  If teams change frequently resulting in a need to create and delete Access Teams often a Microsoft Dynamics 365 Admin (or an other user with the share privilege) can **share** Guides with [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos) in Dynamics 365 Guides.
 
 > [!NOTE]
 > Dynamics 365 offers additional ways to customize and configure access to specific records in Microsoft Dataverse. However, this topic doesn't cover advanced configuration, such as the creation of [owner teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information).
@@ -127,7 +127,7 @@ A user can be associated with more than one access team.
 
 1. Select specific  **Permissions**  in the dialog box.  Be sure the team has the **Read** permission.
 
-    ![Add access teams](media/access-teams-21B.PNG "Add access teams")
+    ![Update Permissions](media/access-teams-21B.PNG "Update Permissions")
 
 ## Share a guide with a specific user
 
