@@ -69,6 +69,10 @@ A hologram's perceived position depends on the user’s view point. When an auth
 
 When authoring, you're placing holograms in 3D space. Making sure the holograms are aligned with the expected target in terms of depth is crucial, as the smallest depth position variation can greatly impact the operator's perceived hologram position if viewed from a slightly different viewpoint. To ensure proper depth position, look at your hologram from the side and readjust if needed.  
 
+## Scan anchors from the same position and angle
+
+Make sure to ask users to always scan an anchor from the same position and angle. Variation in the user position and angle when placing/scanning the anchor might result in inconsistencies in different HoloLens runs because the HoloLens sensors will have a very slightly different space perception. If it's difficult to see with the naked eye, it can be perceived in the hologram position, especially if placed far away from the anchor because of the lever arm effect.
+
 ## What's next?
 
 Use the following table to find more information on anchoring.
