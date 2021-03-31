@@ -18,7 +18,7 @@ ms.reviewer: v-brycho
 >
 >If you choose not to update the solution and your PC and HoloLens apps, there's no impact.  
 >
->Please work with your IT admin to schedule the installation update. <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">See instructions for upgrading the solution</a>. 
+>Please work with your IT admin to schedule the installation update. <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">See instructions for updating the solution</a>. 
 
 > [!NOTE]
 > Effective November 2020:
