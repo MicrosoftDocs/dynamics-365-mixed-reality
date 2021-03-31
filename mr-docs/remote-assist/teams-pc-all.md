@@ -131,7 +131,7 @@ When in a call, you will see your collaborator’s space—including the hologra
 > [!NOTE]
 > -	The toolbar appears only when the video on stage is from the Remote Assist user.
 > -	The toolbar will appear but will be disabled if the Remote Assist user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily lost tracking, or Remote Assist is not in the foreground because the user did the bloom gesture).
-> -	The toolbar will not appear if the same Remote Assist user joins the call from a mobile device and a PC at the same time or from a HoloLens and a PC at the same time.
+> -	The toolbar will not appear if the same Remote Assist user joins the call from a mobile device and a PC at the same time, or from a HoloLens and a PC at the same time.
 
 ### Begin editing 
 
