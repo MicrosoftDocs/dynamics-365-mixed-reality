@@ -17,7 +17,9 @@ Since a guide's holograms are placed relative to the anchor position and orienta
 
 To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, whenever possible:
 
-- Use QR or circular code anchors instead of holographic anchors. The overall order of accuracy for the different kinds of anchors from most to least precise are: f you have a choice in the type of anchor that you're placing the anchor types from most to least accurate are:
+- Use QR or circular code anchors instead of holographic anchors. 
+
+    The overall order of accuracy for the different kinds of anchors from most precise to least precise is:
 
     1. QR code anchor
 
