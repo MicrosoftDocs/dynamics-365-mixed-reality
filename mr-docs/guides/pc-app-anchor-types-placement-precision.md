@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about different anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides. 
 ms.author: mamaylya
-ms.date: 11/03/2020
+ms.date: 04/01/2021
 ms.service: crm-online
 ms.topic: article
 title: Anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides
@@ -17,7 +17,15 @@ Since a guide's holograms are placed relative to the anchor position and orienta
 
 To maximize hologram position consistency so that the position of a hologram in the world stays the same across users and devices, whenever possible:
 
-- Use QR or circular code anchors instead of holographic anchors
+- Use QR or circular code anchors instead of holographic anchors. 
+
+    The overall order of accuracy for the different kinds of anchors from most precise to least precise is:
+
+    1. QR code anchor
+
+    2. Circular code anchor
+
+    3. Holographic anchor
 
 - Place holograms close to the anchor (not more than 3 meters away)
 
@@ -50,14 +58,6 @@ Manually aligning holographic anchors with physical objects can be challenging, 
 ## Placement of holograms in proximity to the anchor
 
 Because it's very challenging to always maintain the exact same position and orientation, all anchor methods suffer from the "lever arm effect". Holograms that are close to the anchor will more likely be positioned consistently at the same location, while holograms that are farther away can suffer from important position variability between scans. **For this reason, one of the most important guidelines for authors is to place holograms close to their anchor for best positional consistency.** 
-
-The following table shows what to expect on average for different anchor methods at different distances.
-
-|Anchor method|Average hologram position variability when positioned <1m away from the anchor location (seen at arm's length)	|Average hologram position variability when <3m away from the anchor location (seen at arm's length)|
-|-----------------------|--------------------------------------------------|--------------------------------------------------|
-|QR code anchor|7mm	|20mm|
-|Circular code anchor|12mm|	36mm|
-|Holographic anchor|	30mm	|90mm|
 
 If alignment consistency with real-world objects is important, **don't place holograms more than 3 meters away from the anchor**. If your scenario needs to cover large spaces, you might want to split your steps into different guides to maximize position consistency. If that’s not possible, or if your scenario requires greater positional consistency than shown in the table above, contact the Dynamics 365 Guides team so we can better understand your scenario and address your feedback in future releases. 
 

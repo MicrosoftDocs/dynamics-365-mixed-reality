@@ -2,30 +2,28 @@
 author: Mamaylya
 description: Learn how to add a branch to a guide in Microsoft Dynamics 365 Guides to create a non-linear workflow
 ms.author: mamaylya
-ms.date: 10/01/2020
+ms.date: 04/01/2021
 ms.service: crm-online
 ms.topic: article
 title: Add a branch to a guide in Dynamics 365 Guides to create a non-linear workflow
 ms.reviewer: v-brycho
 ---
 
-# Add a branch in to a guide in Dynamics 365 Guides to create a non-linear workflow 
+# Add a branch in a guide in Dynamics 365 Guides to create a non-linear workflow 
 
 You can add a branch to a guide in Microsoft Dynamics 365 Guides if your use case requires a non-linear workflow. By inserting branching points into the flow of the guide that allow the operator to make selections, you can create workflows based on what the operator observes, the operator’s skill level, or different machinery models. 
 
 For example, you can create a guide that includes:
 
-- One branch that an operator can follow if they observe temperatures over 100 degrees, and a different branch if they observe temperatures less than 100 degrees. 
+- One response that an operator can follow if they observe temperatures over 100 degrees, and a different response if they observe temperatures less than 100 degrees. 
 
-- Beginner, intermediate, and advanced branches. Consolidating data in a single guide reduces the maintenance required to keep three separate guides up-to-date.
+- Beginner, intermediate, and advanced responses. Consolidating data in a single guide reduces the maintenance required to keep three separate guides up-to-date.
 
 - An assessment to ensure that the instructed work was completed or was completed correctly.
 
-## Branching terminology
+## Non-linear guide terminology
 
 To get started with branching in Dynamics 365 Guides, you’ll need to know the following terms:
-
-- **Branching** is the blanket term given to the collection of features that enable you to create non-linear guides.
 
 - **Responses** are the choices that authors provide for operators.
 
