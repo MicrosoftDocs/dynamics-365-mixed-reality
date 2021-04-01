@@ -44,7 +44,7 @@ Type [home.dynamics.com](https://home.dynamics.com) into the address bar of a we
 
 ## Limiting Access to the Guides model-driven app
 
-When you create a guide in the PC authoring app, the content is stored inside the Dataverse. The Guides Model Driven Power App enables users to access and view guide content from the Dataverse quickly. Users can also make some modifications through the Guides Model Driven app including [deactivating a guide](admin-deactivate-guide.md) , [sharing content](admin-access-teams.md), or  [Creating a 3D object-collection](workflow-3D-object-collection.md).
+When you create a guide in the PC authoring app, the content is stored inside the Dataverse. The Guides Model Driven Power App enables users to access and view guide content from the Dataverse quickly. Users can also make some modifications through the Guides Model Driven app including [deactivating a guide](admin-deactivate-guide.md) , [sharing content](admin-access-teams.md), or  [Creating a 3D object-collection](workflow-example-2.md).
 
 It is common for organizations to limit the users who can access the Guides model-driven App. The Guides model-driven App is a type of Power App.    You can limit who in your organization can access the Guides model-driven App using the tools provided to manage access for Power Apps.  
 
