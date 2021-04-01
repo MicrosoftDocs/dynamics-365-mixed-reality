@@ -20,6 +20,36 @@ search.app:
 
 # Dynamics 365 Remote Assist mobile version history
 
+## iOS - + Android - 
+
+Date: April 2021
+
+### Bug fixes
+
+- Fix for posting to work order files that were shared and not visible when in a call with Remote Assist users. 
+
+- Fix for video recording on devices that don't support H.265 HEVC. 
+
+- Fix for deleting annotations placed before the recording was started. 
+
+= Fix for annotations when call is in “on hold” state. 
+
+- Fix for losing annotations for the collaborator when technicians are turning off the camera. 
+
+- Fix for missing video recording link from the meeting. 
+
+- Fix for annotations toolbar being disabled in One-Time-Call and meetings. 
+
+- Fix for dates not being properly localized in the call dashboard. 
+
+- Improvement for text chat availability in calls with poor network connections. 
+
+- Improvement for annotation thickness after annotations are placed in close distance. 
+
+- Fix for unnecessary Dynamics error showing up in the app. 
+
+= Fix for video freezing, end-call availability, and blocked annotations on iOS during a call. 
+
 ## iOS - 2021.2.10 + Android - 2021.2.10
 
 Date: February 2021
