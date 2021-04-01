@@ -118,8 +118,13 @@
 #### SideFX Houdini
 ##### [Prepare 3D models](3d-content-guidelines/houdini.md)
 ##### [Convert a point cloud](3d-content-guidelines/houdini-point-cloud.md)
+## Workflow integrations
+### [Workflow examples overview](workflow-examples-overview.md)
+### [Example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
+### [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
+### [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
+### [Entity reference](developer-entity-reference.md)
 ## [Migrate content from one instance to another](migrate.md)
-## [Entity reference (for developers)](developer-entity-reference.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
 ## [Get Help and provide feedback](help.md)
 ## [Version history](version-history.md)

@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Describes the new features in Dynamics 365 Guides, organized by release date
 ms.author: mamaylya
-ms.date: 03/10/2021
+ms.date: 04/01/2021
 ms.service: crm-online
 ms.topic: reference
 title: What's new in Dynamics 365 Guides
@@ -10,6 +10,13 @@ ms.reviewer: v-brycho
 ---
 
 # What's new in Dynamics 365 Guides
+
+> [!IMPORTANT]
+> The Dynamics 365 Guides HoloLens and PC apps released on April 27th will require a minimum April 1st version of the Microsoft Dataverse solution (version 600 or newer). 
+>
+> If you choose not to update the solution and your PC and HoloLens apps, there's no impact.  
+>
+> Please work with your IT admin to schedule the installation update. <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">See instructions for updating the solution</a>. 
 
 > [!NOTE]
 > Effective November 2020:
