@@ -11,7 +11,7 @@ ms.reviewer: v-brycho
 
 # Overview of workflow examples for Dynamics 365 Guides
 
-When an author creates a guide using the PC and HoloLens apps, all the data required for that guide (instruction text, images, videos, and 3D parts) is stored in the Microsoft Dataverse. Having all of the data available in the Dataverse makes it easy to access that data to create workflow integrations using Microsoft Power Automate or other Microsoft applications, together with the Guides model-driven app.
+When an author creates a guide using the PC and HoloLens apps, all the data required for that guide (instruction text, images, videos, and 3D parts) is stored in the Microsoft Dataverse. Having all of the data available in the Dataverse makes it easy to access that data to create workflow integrations using Microsoft Power Automate or other Microsoft applications.
  
 ## Example workflows
 
