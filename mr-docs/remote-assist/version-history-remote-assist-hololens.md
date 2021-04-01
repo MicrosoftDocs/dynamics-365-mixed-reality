@@ -18,6 +18,14 @@ search.app:
 ---
 # Dynamics 365 Remote Assist HoloLens version history
 
+## HoloLens 1 + 2 – XXXX
+
+Date: April 2021
+
+### Bug fixes
+
+- Fixed date format for calls dashboard. 
+
 ## HoloLens 1 + 2 – 302.2102.2003
 
 Date: February 2021
