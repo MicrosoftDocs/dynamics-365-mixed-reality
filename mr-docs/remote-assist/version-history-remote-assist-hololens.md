@@ -1,20 +1,12 @@
 ---
 title: "Dynamics 365 Remote Assist HoloLens version history | MicrosoftDocs"
 description: Version history for Dynamics 365 Remote Assist HoloLens
-ms.custom: 
-  - dyn365-mixed-reality-remote-assist
-ms.date: 02/10/2021
+ms.date: 04/01/2021
 ms.reviewer: krbjoran
 ms.service: crm-online
-applies_to: 
-  - "Dynamics 365 (online)"
-  - "Dynamics 365 Version 9.x"
 author: sophiasysun
 ms.author: sopsun
 manager: shellyha
-search.app: 
-  - MRRA
-  - MRRA
 ---
 # Dynamics 365 Remote Assist HoloLens version history
 
