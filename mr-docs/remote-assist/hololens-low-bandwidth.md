@@ -60,7 +60,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the Poor Network notification and the Share Snapshot option on the HoloLens device screen.](./media/03.16-call-snapshot-poor-connection-tip.png "Share") 
 
-4. The technician is instructed on how to use the **Snapshot tool**.
+4. The technician is instructed on how to use the **Snapshot** tool.
 
     ![Screenshots of Dynamics 365 Remote Assist on HoloLens , showing the tooltip on HoloLens that prompts the technician to share a snapshot.](./media/03.17-call-snapshot-camera.png "Tool Tip") 
  
