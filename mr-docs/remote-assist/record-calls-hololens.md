@@ -1,8 +1,8 @@
 ---
 title: Record calls in Dynamics 365 Remote Assist on HoloLens 
-author: sophiasysun
+author: amaranigbo
 description: Use cloud-based recording or several other alternatives in Dynamics 365 Remote Assist on HoloLens
-ms.author: sopsun
+ms.author: soanigbo
 ms.date: 09/10/2020
 ms.service: crm-online
 ms.topic: article
@@ -22,7 +22,7 @@ The following chart explains which call participant can initiate a cloud-based c
 |-----------------|------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------|-----------------|
 |     One-to-one call         |     Yes                                                          |     Yes                                                        |     Yes                                   | No |
 |     Group       |     Yes                                                          |     Yes                                                        |     Yes                                   | N/A| 
-|     Meeting     |     No                                                           |     N/A                                                        |     Yes                                   | N/A| 
+|     Meeting     |     Yes                                                           |     Yes                                                       |     Yes                                   | N/A| 
 
 Exceptions include:
 * Unlicensed one-time call participant  
