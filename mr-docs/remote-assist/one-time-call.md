@@ -29,11 +29,16 @@ Note that in these scenarios, the external user only needs to **join** a Remote 
 Any licensed Remote Assist user can use the Remote Assist web app with their desktop (or mobile) browser to generate a one-time call link. The licensed Remote Assist user can share the link with an external user who is using their preferred communication platform (for example, email, SMS, or [Dynamics 365 Omnichannel channels](https://docs.microsoft.com/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Remote Assist mobile app (or, in some scenarios, the Teams desktop app).
 
 ## Requirements  
-* [Set up your Dynamics environment](ra-webapp-install.md)
-* The agent must use the Remote Assist web app on a [compatible browser](https://docs.microsoft.com/power-platform/admin/web-application-requirements)
-* Enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Remote Assist web app. Pop-ups will be used for authentication purposes.
-* The agent’s organization must [enable anonymous users to join Teams meeting](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
-* If an agent wants to manually admit a customer into the call, the agent’s organization must [configure their Teams meetings settings](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) such that **Everyone in your organization and federated organizations bypasses the lobby**, or enable **Everyone in your organization bypasses the lobby**.
+
+- [Set up your Dynamics environment](ra-webapp-install.md).
+ 
+- The agent must use the Remote Assist web app on a [compatible browser](https://docs.microsoft.com/power-platform/admin/web-application-requirements).
+
+- Enable pop-ups for https://call.d365ra.com and for your organization’s tenant-specific environment URL on the browser the agent will use to access the Remote Assist web app. Pop-ups are used for authentication purposes.
+
+- The agent’s organization must [enable anonymous users to join a Teams meeting](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#allow-anonymous-users-to-join-meetings).
+
+- If an agent wants to manually admit a customer into the call, the agent’s organization must [configure their Teams meetings settings](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) so that **Everyone in your organization and federated organizations bypasses the lobby**, or enable **Everyone in your organization bypasses the lobby**.
 
 Note: [Learn more about how to set up one-time calls](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook).
 
