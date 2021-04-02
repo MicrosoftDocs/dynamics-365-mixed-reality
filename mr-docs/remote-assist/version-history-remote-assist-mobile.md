@@ -11,13 +11,13 @@ ms.author: daclar
 
 # Dynamics 365 Remote Assist mobile version history
 
-## iOS - XXXX + Android - XXXX
+## iOS - 2021.4.1 + Android - 2021.4.1
 
 Date: April 2021
 
 ### Bug fixes
 
-- Fix for posting to work order files that were shared and not visible when in a call with Remote Assist users. 
+- Fix for posting to work order files that were shared and not visible when in a call with Dynamics 365 Remote Assist users. 
 
 - Fix for video recording on devices that don't support H.265 HEVC. 
 
@@ -29,9 +29,9 @@ Date: April 2021
 
 - Fix for missing video recording link from the meeting. 
 
-- Fix for annotations toolbar being disabled in One-Time-Call and meetings. 
+- Fix for annotations toolbar being disabled in one-time-call and meetings. 
 
-- Fix for dates not being properly localized in the call dashboard. 
+- Fix for dates not being properly localized in the Calls dashboard. 
 
 - Improvement for text chat availability in calls with poor network connections. 
 
