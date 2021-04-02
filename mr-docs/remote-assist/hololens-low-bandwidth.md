@@ -56,13 +56,13 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing a low-quality image in the chat window because of poor network conditions](./media/03.15-call-snapshot-poor-connection-message.png "Detection") 
 
-3. The technician is prompted to use the **Snapshot tool** to share images with the expert.
+3. The technician is prompted to use the **Snapshot** tool to share images with the expert.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the Poor Network notification and the Share Snapshot option on the HoloLens device screen.](./media/03.16-call-snapshot-poor-connection-tip.png "Share") 
 
 4. The technician is instructed on how to use the **Snapshot tool**.
 
-    ![Screenshots of Dynamics 365 Remote Assist on HoloLens , showing the tooltip on HoloLens that prompts the technician to share a snapshot.](./media/03.17 call-snapshot-camera.png "Tool Tip") 
+    ![Screenshots of Dynamics 365 Remote Assist on HoloLens , showing the tooltip on HoloLens that prompts the technician to share a snapshot.](./media/03.17-call-snapshot-camera.png "Tool Tip") 
  
 5. The technician takes a snapshot, which is shared with the remote collaborator. The remote collaborator now sees a snapshot that has better quality. The technician and remote collaborator can annotate simultaneously on the snapshot.
 
