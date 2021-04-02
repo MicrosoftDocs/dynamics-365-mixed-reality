@@ -1,6 +1,5 @@
 # Dynamics 365 Remote Assist
 ## [Overview](ra-overview.md)
-## [What's new](whats-new.md)
 
 ## Setup
 ### [Requirements](requirements.md)
@@ -24,6 +23,7 @@
 ### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
 ### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
 ### [Close the app](close-app-hololens.md)
+### [Low-bandwidth scenarios](low-bandwidth.md)
 ### [Review tutorial of Dynamics 365 Remote Assist](review-tutorial-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
 
@@ -36,7 +36,6 @@
 #### [Calls between Dynamics 365 Remote Assist mobile & Microsoft Teams users](mobile-app/remote-assist-mobile-to-teams-calls.md)
 #### [Group calls with Dynamics 365 Remote Assist mobile](mobile-app/group-calling.md)
 #### [Calls using a mobile device without AR support](mobile-app/calls-using-devices-without-AR.md)
-### [Join a meeting](join-meeting-mobile.md)
 ### [Annotate the shared environment](mobile-app/annotate-shared-environment.md)
 ### [Capture + annotate snapshots](mobile-app/annotate-snapshot.md)
 ### [Send chat messages](mobile-app/send-chat-messages.md)
