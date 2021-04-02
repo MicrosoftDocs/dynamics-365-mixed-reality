@@ -6,17 +6,17 @@ ms.reviewer: krbjoran
 ms.service: crm-online
 author: sophiasysun
 ms.author: sopsun
-manager: shellyha
+ms.reviewer: v-bholmes
 ---
 # Dynamics 365 Remote Assist HoloLens version history
 
-## HoloLens 1 + 2 – XXXX
+## HoloLens 2 – 303.2103.29002
 
 Date: April 2021
 
-### Bug fixes
+### Bug fix
 
-- Fixed date format for calls dashboard. 
+- Fixed date format for Calls dashboard. 
 
 ## HoloLens 1 + 2 – 302.2102.2003
 
