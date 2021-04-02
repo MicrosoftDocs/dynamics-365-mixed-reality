@@ -14,15 +14,19 @@ ms.reviewer: v-bholmes
 > A preview feature is a feature that is not complete, but is made available before it’s officially in a release so customers can get early access and provide feedback. Preview features aren’t meant for production use and may have limited or restricted functionality. Microsoft doesn't provide support for this preview feature. Microsoft Dynamics 365 Technical Support won’t be able to help you with issues or questions. Preview features aren't meant for production use and are subject to a [separate supplemental terms of use](https://docs.microsoft.com/dynamics365/legal/supp-dynamics365-preview).
 
 ## Scenarios overview 
-There are several scenarios in which a Remote Assist user may want to enable an external user without a Remote Assist license or Teams license--such as a B2B vendor, B2B customer, or B2C customer--to join a Remote Assist call on an ad-hoc, one-time basis. For example, a customer service agent may want to transition from a phone call to a mixed reality video call to visually assess a product, and overlay mixed reality instructions to guide their customer through the repair in real time. This document will use the term “agent” to refer to the licensed Remote Assist user, and “customer” to refer to the unlicensed external user. 
+There are several scenarios in which a Remote Assist user may want to enable an external user without a Remote Assist license or Teams license--such as a B2B vendor, B2B customer, or B2C customer--to join a Remote Assist call on an ad-hoc, one-time basis. For example, a customer service agent may want to transition from a phone call to a mixed reality video call to visually assess a product, and overlay mixed reality instructions to guide their customer through the repair in real time. 
 
-Additional scenarios include: 
-* A customer service agent received a request from a customer for a contactless design consultation before remodeling their kitchen. The agent wants to view their customer’s kitchen and provide ideas for products that would look good together. The agent provides their customer with a link to join the scheduled consultation via a Remote Assist call.
-* A technician is repairing an asset, and wants to receive assistance from the asset’s original equipment manufacturer (OEM).
+This document uses the term “agent” to refer to the licensed Remote Assist user, and “customer” to refer to the unlicensed external user. 
 
-Note that in these scenarios, the external user only needs to **join** a Remote Assist call on an ad-hoc, one-time basis. The external user **does not need to initiate a call or use Remote Assist’s out-of-call asset capture functionalities.** 
+Additional scenarios: 
 
-Any licensed Remote Assist user can use the Remote Assist web app via their desktop (or mobile) browser to generate a one-time call link. The licensed Remote Assist user can share the link with an external user using their preferred communication platform (e.g., email, SMS, [Dynamics 365 Omnichannel channels](https://docs.microsoft.com/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Remote Assist mobile app (or, in some scenarios, the Teams desktop app).
+- A customer service agent received a request from a customer for a contactless design consultation before remodeling their kitchen. The agent wants to view their customer’s kitchen and provide ideas for products that would look good together. The agent provides their customer with a link to join the scheduled consultation via a Remote Assist call.
+
+- A technician is repairing an asset and wants to receive assistance from the asset’s original equipment manufacturer (OEM).
+
+Note that in these scenarios, the external user only needs to **join** a Remote Assist call on an ad-hoc, one-time basis. The external user does not need to initiate a call or use Remote Assist’s out-of-call asset capture functionalities. 
+
+Any licensed Remote Assist user can use the Remote Assist web app with their desktop (or mobile) browser to generate a one-time call link. The licensed Remote Assist user can share the link with an external user who is using their preferred communication platform (for example, email, SMS, or [Dynamics 365 Omnichannel channels](https://docs.microsoft.com/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Remote Assist mobile app (or, in some scenarios, the Teams desktop app).
 
 ## Requirements  
 * [Set up your Dynamics environment](ra-webapp-install.md)
