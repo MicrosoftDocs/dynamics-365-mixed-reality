@@ -1,14 +1,14 @@
 ---
-title: Invite user to join one-time call
+title: Invite a user to join a one-time call (public preview) in Microsoft Dynamics 365 Remote Assist. 
 author: amaranigbo
-description: Invite user to join one-time call
+description: Invite a user to join a one-time call (public preview) in Dynamics 365 Remote Assist 
 ms.author: soanigbo
 ms.date: 04/05/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
-# Invite user to join a one-time call (public preview)
+# Invite a user to join a one-time call (public preview) in Dynamics 365 Remote Assist 
 
 > [!IMPORTANT] 
 > A preview feature is a feature that is not complete, but is made available before it’s officially in a release so customers can get early access and provide feedback. Preview features aren’t meant for production use and may have limited or restricted functionality. Microsoft doesn't provide support for this preview feature. Microsoft Dynamics 365 Technical Support won’t be able to help you with issues or questions. Preview features aren't meant for production use and are subject to a [separate supplemental terms of use](https://docs.microsoft.com/dynamics365/legal/supp-dynamics365-preview).
