@@ -70,11 +70,11 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 6. After sharing a snapshot, the technician can save it to the meeting's **chat** or **retake the snapshot**.
 
-    ![Screenshot of Dynamics 365 on HoloLens, showing the option to either save or retake snapshot on HoloLens.](./media/03.24-call-snapshot-re-sending "Photo Gallery") 
+    ![Screenshot of Dynamics 365 on HoloLens, showing the option to either save or retake snapshot on HoloLens.](./media/03.24-call-snapshot-re-sending.png "Photo Gallery") 
 
 7. The technician returns to the video call and can continue to send snapshots to the remote collaborator.
 
-    ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing the return to video call.](./media/03.25-call-snapshot-saved-to-chat "Video Feed") 
+    ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing the return to video call.](./media/03.25-call-snapshot-saved-to-chat.png "Video Feed") 
 
 > [!NOTE]
 > The low-bandwidth feature is not supported in group calling scenarios. 
