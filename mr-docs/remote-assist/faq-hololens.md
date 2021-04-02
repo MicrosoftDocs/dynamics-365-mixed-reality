@@ -1,5 +1,5 @@
 ---
-author: sophiasysun
+author: amaranigbo
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
 ms.author: soanigbo
 ms.date: 04/05/2021
@@ -158,5 +158,6 @@ When you're in the HoloLens Feedback Hub:
 
 > [!Note]
 > Optionally, check the "This is blocking me" box if the issue is blocking you from completing your work or tasks. 
-> To provide the best possible data for fixing issues, we highly recommended that you set your device telemetry to Optional. You can set this value during the Out-of-Box-Experience (OOBE), or by using the Settings app. To do this by using Settings, select Start > Settings > Privacy > App Diagnostics > On.
+> 
+> To provide the best possible data for fixing issues, we recommend that you set your device telemetry to **Optional Diagnostic data** when you set up Dynamics 365 Remote Assist. You can also make this change through the **Settings** menu within the app (select **Start** > **Settings** > **Privacy** > **Diagnostics & feedback** > **Optional Diagnostic data**).
 
