@@ -68,7 +68,7 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the snapshot is sent.](./media/03.23-call-snapshot-sent.png "Snapshot sent")  
 
-6. After sharing a snapshot, the technician can save it to the meeting's **chat** or **retake the snapshot**.
+6. After sharing a snapshot, the technician can save it to the meeting's chat or retake the snapshot.
 
     ![Screenshot of Dynamics 365 on HoloLens, showing the option to either save or retake snapshot on HoloLens.](./media/03.24-call-snapshot-re-sending.png "Photo Gallery") 
 
