@@ -33,15 +33,15 @@ Dynamics 365 Remote Assist on HoloLens 2 is available in the [following language
 
 This can happen if you’re signed in to Dynamics 365 Remote Assist with a different account than the one you used to sign in to your HoloLens. Make sure you’re signed into both the app and the device with the same account. 
 
-## I see a message saying I have no internet connection.
+## I see a message saying I have no internet connection
 
 To use Dynamics 365 Remote Assist, you need an internet connection. For more information about connecting to the internet on your HoloLens, visit [this support article](https://support.microsoft.com/help/12629).
 
-## Dynamics 365 Remote Assist is frozen or unresponsive.
+## Dynamics 365 Remote Assist is frozen or unresponsive
 
 Try closing and reopening Dynamics 365 Remote Assist. If you’re still having problems, [restart your HoloLens](https://support.microsoft.com/help/12642).
 
-## Dynamics 365 Remote Assist isn't showing my contacts.
+## Dynamics 365 Remote Assist isn't showing my contacts
 
 If you don’t see the contacts you expect, try the following actions:
 
@@ -51,7 +51,7 @@ If you don’t see the contacts you expect, try the following actions:
 
 - [Restart your HoloLens](https://support.microsoft.com/help/12642).
 
-## The Mixed Reality toolbar doesn’t appear on the Teams desktop application during a Dynamics 365 Remote Assist call.
+## The Mixed Reality toolbar doesn’t appear on the Teams desktop application during a Dynamics 365 Remote Assist call
 
 This might happen if Teams has downloaded a new version of the client application in the background but is still running the older version of the app. Restarting your PC will usually fix this issue. This also might happen if the Dynamics 365 Remote Assist HoloLens user has lost tracking.
 
@@ -59,7 +59,7 @@ This might happen if Teams has downloaded a new version of the client applicatio
 
 If Dynamics 365 Remote Assist is used in a loud environment, use headphones on both ends for better communication. Using headphones for both users prevents any echo filtering from proactively turning on noise cancellation, which turns off audio.
 
-## I signed in to my HoloLens, but I still can't sign in to Dynamics 365 Remote Assist.
+## I signed in to my HoloLens, but I still can't sign in to Dynamics 365 Remote Assist
 
 If you’re having trouble signing in to Dynamics 365 Remote Assist, try the following:
 
