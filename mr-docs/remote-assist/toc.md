@@ -23,7 +23,7 @@
 ### [Get help in another HoloLens app](get-help-holoLens-app-hololens.md)
 ### [Update a Dynamics 365 Field Service booking](update-field-service-booking-hololens.md)
 ### [Close the app](close-app-hololens.md)
-### [Low-bandwidth scenarios](low-bandwidth.md)
+### [Calls in low-bandwidth situations](hololens-low-bandwidth.md)
 ### [Review tutorial of Dynamics 365 Remote Assist](review-tutorial-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
 
@@ -42,7 +42,7 @@
 ### [Share files](mobile-app/file-sharing.md)
 ### [Capture asset conditions on Mobile](mobile-app/asset-capture-mobile.md)
 ### [Record calls](mobile-app/call-recording.md)
-### [Calls in low bandwidth scenarios](mobile-app/poor-network-connectivity.md)
+### [Calls in low-bandwidth situations](mobile-app/poor-network-connectivity.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
