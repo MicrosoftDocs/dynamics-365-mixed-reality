@@ -169,22 +169,22 @@ To start annotating, first do one of the following to pause the video stream and
 -   Select **Start editing**.
 
 >[!Note]
-> By default, the **Mixed Reality toolbar** is on the top of your screen. If it's blocking your view, select the drag button (![Graphic showing the drag button](media/PC_Drag.png)) and drag the **Mixed Reality toolbar** where you want it.
-> You can't drag the **Mixed Reality toolbar** in the Teams Multi-Window. 
+> By default, the Mixed Reality toolbar is on the top of your screen. If it's blocking your view, select the drag button (![Graphic showing the drag button](media/PC_Drag.png)) and drag it to move it to another location.
+> You can't drag the Mixed Reality toolbar in the Teams multi-window. 
 
 In edit mode, the expert will still see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
 
 ### Add arrows, ink, and files
 
-Use the **Mixed Reality toolbar** to place arrows, draw, or add files in the HoloLens user's space:
+Use the Mixed Reality toolbar to place arrows, draw, or add files in the HoloLens user's space:
 
-- To add arrows, select **Place arrow** (as seen here: ![Graphic showing the place arrow icon.](media/6584f4b7932378aa23f6efbf460b304c.png)).
+- To add arrows, select **Place arrow** (![Graphic showing the place arrow icon.](media/6584f4b7932378aa23f6efbf460b304c.png)).
 
-- To add ink, select **Ink** (as seen here: ![Graphic showing the ink icon, which looks like a pen.](media/187307e30fd713f5ae67aba854b78bc4.png)).
+- To add ink, select **Ink** (![Graphic showing the ink icon, which looks like a pen.](media/187307e30fd713f5ae67aba854b78bc4.png)).
 
-- To change the arrow or ink color, select **Pick a color** (as seen here: ![Graphic showing the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)).
+- To change the arrow or ink color, select **Pick a color** (![Graphic showing the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)).
 
-- To add a file in HoloLens user's space, select  **Insert files** (as seen here: ![Graphic showing the insert files icon.](media/41aa538d3be8e163215f7d9374abe90e.png)), and then add an image file or a PDF from OneDrive or from your device. 
+- To add a file in the HoloLens user's space, select  **Insert files** (![Graphic showing the insert files icon.](media/41aa538d3be8e163215f7d9374abe90e.png)), and then add an image file or a PDF from OneDrive or from your device. 
 
 ### Finish editing
 
