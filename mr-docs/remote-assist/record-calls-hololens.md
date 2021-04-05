@@ -113,34 +113,45 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
 
 2. By voice: 
 
-- Say "Hey Cortana, Record a video."
-- Cortana's blue ring will appear, and your voice command will display on screen while giving feedback by voice.
-- There will be a countdown from three to one, when the recording will start.
-- There will be red recording indicator in the top right-hand corner of your view while the recording is live.
-- To stop recording, say "Hey Cortana, Stop recording."
-- The video will be available in your **Camera Roll**. Navigate to your camera roll using the **Start** menu.
+    1. Say "Hey Cortana, Record a video."
+
+    2. Cortana's blue ring will appear, and your voice command will be displayed on the screen while giving feedback by voice.
+
+    3. There will be a countdown from three to one, and then the recording will start.
+
+    4. You'll see a red recording indicator in the top right-hand corner of your view while the recording is live.
+
+    5. To stop recording, say "Hey Cortana, Stop recording."
+
+    6. The video will be available in your **Camera Roll**. Use the **Start** menu to go to your camera roll.
 
 3. By HoloLens hardware:
 
-- Press and hold the volume-up and volume-down buttons simultaneously until a three-second countdown begins. To stop recording, tap both buttons simultaneously.
+    - Press and hold the volume-up and volume-down buttons simultaneously until a three-second countdown begins. To stop recording, tap both buttons simultaneously.
 
-These videos are saved to the HoloLens camera roll. Keep in mind that the video will not be automatically uploaded to Stream, but there are two ways to get a photo or video off the HoloLens camera roll.
+    These videos are saved to the HoloLens camera roll. Keep in mind that the video will not be automatically uploaded to Stream, but there are two ways to get a photo or video off the HoloLens camera roll.
 
-4. Upload to OneDrive:
+    1. Upload to OneDrive:
 
-- Launch the **Start** menu. 
-- Select the **Windows App Store**.
-- Download the OneDrive app.
-- Sign into OneDrive.
-- Upload your file to OneDrive.
+      1. Go to the **Start** menu.
+       
+      2. Select the **Windows App Store**.
+      
+      3. Download the OneDrive app.
+      
+      4. Sign into OneDrive.
+      
+      5. Upload your file to OneDrive.
 
-5. Manual connection to PC with a USB-C cable:
+    2. Manual connection to a PC with a USB-C cable:
 
-- Access the internal storage through the file explorer (on a PC).
-- Go to the **Pictures** > **Camera Roll folder**.
-- Copy your images or videos from this folder.
+      1. Access the internal storage through the file explorer (on a PC).
+      
+      2. Go to **Pictures** > **Camera Roll folder**.
 
-Learn more about taking photos, taking videos, and getting them off the device [here](https://docs.microsoft.com/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
+      3. Copy your images or videos from this folder.
+
+    [Learn more about taking photos, taking videos, and getting them off the device](https://docs.microsoft.com/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
 
 ### Ask a Teams desktop user to use the Windows Game Bar to capture a screen recording of a Dynamics 365 Remote Assist call from their perspective
 
