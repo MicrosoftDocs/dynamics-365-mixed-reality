@@ -217,7 +217,13 @@ When a Dynamics 365 Remote Assist user takes a snapshot, the video feed will fre
 
 Annotations are displayed only during the snapshot session. When the Dynamics 365 Remote Assist user exits Snapshot mode, annotations from that snapshot session are removed. 
 
-[Learn more about using snapshots](./mobile-app/annotate-snapshot.md).
+For more information, check out the following links:
+
+- [Using snapshots](./mobile-app/annotate-snapshot.md).
+
+- [Low-bandwidth situations on HoloLens](hololens-low-bandwidth.md)
+
+- [Low-bandwidth situations with the mobile app](low-bandwidth-mode.md)
 
 ## Share files  
 
