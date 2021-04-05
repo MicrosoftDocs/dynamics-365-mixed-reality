@@ -7,8 +7,7 @@ ms.date: 04/07/2020
 ms.reviewer: krbjoran
 ms.service: dynamics-365-mixed-reality-remote-assist
 ms.suite: ""
-ms.technology: 
-  - "remote-assist"
+ms.technology: "remote-assist"
 ms.tgt_pltfrm: ""
 ms.topic: "article"
 applies_to: 
