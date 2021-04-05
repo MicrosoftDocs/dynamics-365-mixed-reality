@@ -219,11 +219,11 @@ Annotations are displayed only during the snapshot session. When the Dynamics 36
 
 For more information, check out the following links:
 
-- [Using snapshots](./mobile-app/annotate-snapshot.md).
+- [Using snapshots](./mobile-app/annotate-snapshot.md)
 
 - [Low-bandwidth situations on HoloLens](hololens-low-bandwidth.md)
 
-- [Low-bandwidth situations with the mobile app](./mobile/low-bandwidth-mode.md)
+- [Low-bandwidth situations with the mobile app](./mobile-app/low-bandwidth-mode.md)
 
 ## Share files  
 
