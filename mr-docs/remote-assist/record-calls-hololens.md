@@ -72,19 +72,19 @@ Below are several examples of what the recording layout looks like when you use 
 
 - In a recording with two participants, each participant's outgoing video (or avatar) occupies one-half of the recording, and both halves are vertical. This means that during a Dynamics 365 Remote Assist call, a Teams desktop user sees a horizontal slice of what you see, but the recording only captures the middle vertical slice of what you see. Furthermore, during the Dynamics 365 Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies half the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy half the recording.)
 
-![Screenshot of Teams recording, showing half the screen with the HoloLens participant, and the other half with the Teams avatar.](media/2call.png)
+    ![Screenshot of Teams recording, showing half the screen with the HoloLens participant, and the other half with the Teams avatar.](media/2call.png)
 
 - In a recording with three participants, each participant's outgoing video (or avatar) occupies one-third of the recording. Furthermore, during the Dynamics 365 Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one third the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one third of the recording.)
 
-![Screenshot of Teams recording, showing three participants.](media/3call.png)
+    ![Screenshot of Teams recording, showing three participants.](media/3call.png)
 
 - In a recording with four participants, each participant's outgoing video (or avatar) occupies one-fourth of the recording. During the Dynamics 365 Remote Assist call, the Teams user only sees their outgoing video feed in the corner of the call, but in the recording, their outgoing video feed occupies one fourth of the recording. (If the Teams user turns off their outgoing video feed, their avatar will occupy one fourth of the recording.)  
 
-![Screenshot of Teams recording, showing four participants.](media/4call.png)
+    ![Screenshot of Teams recording, showing four participants.](media/4call.png)
 
 - A Teams recording including five or more participants splits the horizontal recording into four, with remaining participants' avatars in the bottom-right corner of the recording.
 
-![Screenshot of Teams recording, showing the same four participants, with an additional participant avatar at the bottom right.](media/5call.png)
+    ![Screenshot of Teams recording, showing the same four participants, with an additional participant avatar at the bottom right.](media/5call.png)
 
 ## Alternatives to cloud-based recording
 
