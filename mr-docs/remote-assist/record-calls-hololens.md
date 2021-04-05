@@ -54,7 +54,7 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens showing the persistent recording indicator.](media/06.00-files-recording-indicator.png)
     
-6. To end the recording, press the **Stop Recording** (as seen here: ![Stop recording button](media/RAHL_CallRecording_StopButton.png)) button or end the call. You'll see a reminder that the recording is being processed and saved securely in Microsoft Stream.  
+6. To end the recording, press the **Stop Recording** (![Stop recording button](media/RAHL_CallRecording_StopButton.png)) button or end the call. You'll see a reminder that the recording is being processed and saved securely in Microsoft Stream.  
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the notification explaining that the call recording is being saved.](media/03.10-call-recording-saving.png)
     
