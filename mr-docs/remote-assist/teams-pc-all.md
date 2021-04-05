@@ -144,11 +144,11 @@ When you're in a call, you'll see the call controls at the bottom of the screen.
 
 |Button|Description|
 |------------|----------------------------------------------|
-|![The video icon](media/Teams_Video.png)| Controls outgoing video.|
-| ![The microphone icon](media/Teams_Microphone.png)| Controls outgoing audio.|
-| ![The share icon](media/Teams_Share.png)| Shares your desktop or a running application (with a Dynamics 365 Remote Assist HoloLens user only).|
-|	![The text chat icon](media/Teams_Text.png)| Opens a chat window to send text messages.| 
-|	![The participants icon](media/Teams_Participants.png)| See current participants, or add more.|
+|![The video icon](media/Teams_Video.png)| Controls outgoing video|
+| ![The microphone icon](media/Teams_Microphone.png)| Controls outgoing audio|
+| ![The share icon](media/Teams_Share.png)| Shares your desktop or a running application (with a Dynamics 365 Remote Assist HoloLens user only)|
+|	![The text chat icon](media/Teams_Text.png)| Opens a chat window to send text messages| 
+|	![The participants icon](media/Teams_Participants.png)| See current participants, or add more|
 
 To use additional features, select the ellipses icon […]. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting with a Dynamics 365 Remote Assist HoloLens user, the More Options […] panel will also provide the option to record the call.  
 
