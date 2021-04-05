@@ -36,7 +36,9 @@ To have access to the Calls dashboard, you must have:
 
 ## Enabling the Calls dashboard
 
-1. From the Remote Assist model-driven app, change the area by clicking on the menu in the bottom left of the screen and select **Settings**.\
+1. In the Remote Assist model-driven app, under **Change area**, select **Settings**.
+
+
 :::image type="content" source="media/webapp-settings-selector.png" alt-text="Change area to Settings in the Remote Assist model-driven app":::
 
 2. Select **Settings** under **Analytics and Insights** and click on **Manage**.
