@@ -1,5 +1,5 @@
 ---
-title: Learn more about the Remote Assist Calls dashboard
+title: Learn more about the Remote Assist Calls Dashboard
 author: amaranigbo
 description: Overview, enablement and feature details of Remote Assist Calls Dashboard
 ms.author: soanigbo
@@ -15,14 +15,14 @@ ms.reviewer: v-bholmes
 
 Supervisors and operations managers need to be able to monitor key operational metrics for their organization. Such metrics are critical to get insights such as potential areas of operational efficiencies and efficacy of the various tools and processes within the technician community.
 
-This article walks through the setup and usage of the Calls dashboard available in the Dynamics 365 Remote Assist model-driven app. The Calls dashboard is an opt-in feature available only to users with the security role of **Remote Assist - Administrator** or **System Administrator**.
+This article walks through the setup and usage of the Calls Dashboard available in the Dynamics 365 Remote Assist model-driven app. The Calls Dashboard is an opt-in feature available only to users with the security role of **Remote Assist - Administrator** or **System Administrator**.
 
 > [!Note]
 > This feature is intended to help supervisors and managers derive insights regarding operational efficiencies and usage of Dynamics 365 Remote Assist. This feature is not intended for use in making — and should not be used to make — decisions that affect the employment of an employee or group of employees, including compensation, rewards, seniority, or other rights or entitlements. Customers are solely responsible for using Dynamics 365, this feature, and any associated feature or service in compliance with all applicable laws, including laws relating to accessing individual employee analytics and monitoring. End users will need to enable access from their device to phone call records and specifically consent to sharing location information before that information is shared and available through the dashboard. However, customers are also encouraged to have a mechanism in place to inform their users that analytics (such as call duration and location) relating to their communications are collected.
 
 ## Prerequisites
 
-To have access to the Calls dashboard, you must have:
+To have access to the Calls Dashboard, you must have:
 
 1. Completed the steps described in the following articles:
 
@@ -34,7 +34,7 @@ To have access to the Calls dashboard, you must have:
 
 2. Access to the environment that Dynamics 365 Remote Assist is installed in, with the **Remote Assist - Administrator** security role assigned to you.
 
-## Enabling the Calls dashboard
+## Enabling the Calls Dashboard
 
 1. In the Dynamics 365 Remote Assist model-driven app, under **Change area**, select **Settings**.
 
@@ -58,7 +58,7 @@ To have access to the Calls dashboard, you must have:
 
 - End users may or may not give location permissions to the Hololens or mobile app. If permission is not granted, for call records from those specific users, location information will be missing.
 
-## Understand the Dynamics 365 Remote Assist calls dashboard
+## Understand the Dynamics 365 Remote Assist Calls Dashboard
 
 ![Screenshot of the Remote Assist Calls Dashboard](media/CallsDashboardFull.png).
 
