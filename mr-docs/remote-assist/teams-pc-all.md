@@ -1,13 +1,14 @@
 ---
-author: sophiasysun
+author: amaranigbo
 description: Collaborate with a Dynamics 365 Remote Assist user via Microsoft Teams desktop application
-ms.author: sopsun
-ms.date: 03/15/2020
+ms.author: soanigbo
+ms.date: 04/05/2021
 ms.service: crm-online
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user via Microsoft Teams desktop application
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
+
 # Collaborate with a Dynamics 365 Remote Assist user via Microsoft Teams desktop application
 
 When you use the Teams desktop application on a PC running Windows 10, you can collaborate with people using Dynamics 365 Remote Assist on HoloLens or HoloLens 2 (in this article, a "Dynamics 365 Remote Assist HoloLens user") or Dynamics 365 Remote Assist on a mobile device (in this article, a "Dynamics 365 Remote Assist mobile user").  
@@ -128,11 +129,6 @@ When in a call, you will see your collaborator’s space—including the hologra
 
 ![Screenshot of the mixed reality toolbar.](media/071f358ab6bbf7c2072b15d9203a1593.png)
 
-> [!NOTE]
-> -	The toolbar appears only when the video on stage is from the Remote Assist user.
-> -	The toolbar will appear but will be disabled if the Remote Assist user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily lost tracking, or Remote Assist is not in the foreground because the user did the bloom gesture).
-> -	The toolbar will not appear if the same Remote Assist user joins the call from a mobile device and a PC at the same time, or from a HoloLens and a PC at the same time.
-
 ### Begin editing 
 
 To start annotating, first do one of the following to pause the video stream and enter edit mode:
@@ -142,6 +138,10 @@ To start annotating, first do one of the following to pause the video stream and
 -   Select one of the items on the Mixed Reality toolbar.
 
 -   Select **Start editing**.
+
+>[!Note]
+> By default, the **Mixed Reality toolbar** is on the top of your screen. If it is blocking your view and you'd like to move it somewhere else, select the drag icon (as seen here: ![Graphic showing the drag icon.](media/PC_Drag.png)) and drag the **Mixed Reality toolbar** where you would like it to be.
+> The **Mixed Reality toolbar** is not currently draggable in Teams Multi-Window. 
 
 In edit mode, the expert will still see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
 
