@@ -223,7 +223,7 @@ For more information, check out the following links:
 
 - [Low-bandwidth situations on HoloLens](hololens-low-bandwidth.md)
 
-- [Low-bandwidth situations with the mobile app](low-bandwidth-mode.md)
+- [Low-bandwidth situations with the mobile app](./mobile/low-bandwidth-mode.md)
 
 ## Share files  
 
