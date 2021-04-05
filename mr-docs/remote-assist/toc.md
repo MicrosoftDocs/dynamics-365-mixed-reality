@@ -80,14 +80,14 @@
 
 ### [How-to videos](videos.md)
 ### [Protocol activation (for developers)](protocol-activation.md)
-### [FAQ for deploying Dynamics 365 Remote Assist](faq-deploy.md)
-### [FAQ for Dynamics 365 Remote Assist on HoloLens and HoloLens 2](faq-hololens.md)
-### [FAQ for Dynamics 365 Remote Assist mobile](./mobile-app/faq-mobile.md)
+### [FAQ for deploying Remote Assist](faq-deploy.md)
+### [FAQ for Remote Assist on HoloLens and HoloLens 2](faq-hololens.md)
+### [FAQ for Remote Assist mobile](./mobile-app/faq-mobile.md)
 
 ## Legal documents
-### [Dynamics 365 Remote Assist software license terms](../legal/remote-assist-license-terms.md)
-### [Dynamics 365 Remote Assist free trial software license terms](../legal/remote-assist-license-terms-free-trial.md)
-### [Dynamics 365 Remote Assist Android Mobile license terms](../legal/remote-assist-mobile-android.md)
-### [Dynamics 365 Remote Assist iOS Mobile license terms](../legal/remote-assist-mobile-iOS.md)
+### [Software license terms](../legal/remote-assist-license-terms.md)
+### [Free trial software license terms](../legal/remote-assist-license-terms-free-trial.md)
+### [Android Mobile license terms](../legal/remote-assist-mobile-android.md)
+### [iOS Mobile license terms](../legal/remote-assist-mobile-iOS.md)
 ### [Third-party notices](../legal/remote-assist-third-party-notice.md)
 ### [iOS and Android third-party notices](../legal/ios-android-third-party.md)
