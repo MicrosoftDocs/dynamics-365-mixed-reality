@@ -57,8 +57,8 @@
 #### [Automate asset capture data](integrate-power-automate.md)
 
 ## Microsoft Teams and Remote Assist
-### [Collaborate with Dynamics 365 Remote Assist user via Teams on PC](teams-pc-all.md)
-### [Collaborate with Dynamics 365 Remote Assist user via Teams on mobile](teams-mobile-all.md)
+### [Collaborate with Remote Assist user on Teams PC](teams-pc-all.md)
+### [Collaborate with Remote Assist user on Teams mobile](teams-mobile-all.md)
 
 ## [Integrate Dynamics 365 Field Service](troubleshoot-field-service.md)
 
