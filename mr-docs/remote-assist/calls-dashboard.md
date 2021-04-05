@@ -1,5 +1,5 @@
 ---
-title: Learn more about the Remote Assist Calls Dashboard
+title: Learn more about the Remote Assist Calls dashboard
 author: amaranigbo
 description: Overview, enablement and feature details of Remote Assist Calls Dashboard
 ms.author: soanigbo
@@ -34,7 +34,7 @@ To have access to the Calls dashboard, you must have:
 
 2. Access to the environment that Dynamics 365 Remote Assist is installed in, with the **Remote Assist - Administrator** security role assigned to you.
 
-## Enabling the calls dashboard
+## Enabling the Calls dashboard
 
 1. From the Remote Assist model-driven app, change the area by clicking on the menu in the bottom left of the screen and select **Settings**.\
 :::image type="content" source="media/webapp-settings-selector.png" alt-text="Change area to Settings in the Remote Assist model-driven app":::
