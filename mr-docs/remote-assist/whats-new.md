@@ -20,9 +20,18 @@ For detailed version histories, see:
 - [Dynamics 365 Remote Assist for HoloLens 1 + 2 version history](version-history-remote-assist-hololens.md)
 - [Dynamics 365 Remote Assist mobile app version history](version-history-remote-assist-mobile.md)
 
+## April 2021
+
+|Feature|Solution update required?|How to|
+|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
+|Low-bandwidth support|???||
+|Improvement to the Microsoft Dataverse Environment selection|???||
+|Instinctual interaction improvements on HoloLens 2|???||
+|Long Term Servicing for Dynamics 365 Remote Assist on HoloLens 1|???||
+
 ## December 2020
 
-| Feature                                                                                                                                                                                                                                                                                   | Solution update required? |
+| Feature                                                                                                                                                                                                                                                                                 | Solution update required? |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
 | [Contact search keyboard improvements for HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/contact-search-keyboard-improvements-hololens)                                                                                        | No                        |
 | [Improvement in position accuracy for spatial annotations seen by remote collaborators on Teams](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/improvement-position-accuracy-spatial-annotations-seen-remote-collaborators-teams)       | No                        |
