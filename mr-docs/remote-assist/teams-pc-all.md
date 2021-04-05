@@ -209,13 +209,13 @@ To make changes to your edits, you can:
 > 
 > - Each call participant can only remove the annotations they added.
 
-## Annotate a 2D snapshot (only in a call with Dynamics 365 Remote Assist mobile user)
+## Annotate a 2D snapshot
 
-Dynamics 365 Remote Assist mobile enables users take 2D snapshots of their environment and mixed reality annotations, and annotate them during a call. Snapshots are critical in situations where a still image might be needed to carefully add annotations to it. These snapshots can be used for reference later or work validation. Snapshots can also be utilized in low-bandwidth situations.
+Dynamics 365 Remote Assist enables users take 2D snapshots of their environment and mixed reality annotations, and annotate them during a call. Snapshots are critical in situations where a still image might be needed to carefully add annotations to it. These snapshots can be used for reference later or work validation. Snapshots can also be utilized in low-bandwidth situations.
 
-When a Dynamics 365 Remote Assist mobile user takes a snapshot, the video feed will freeze and you will see any annotations they add while they are in 2D snapshot mode. Start editing to begin adding annotations. After both call participants are finished annotating the snapshot, the Dynamics 365 Remote Assist mobile user selects the check mark to exit from the annotation mode and can choose to save the snapshot to their device's photo gallery.
+When a Dynamics 365 Remote Assist user takes a snapshot, the video feed will freeze. Start editing to begin adding annotations. After both call participants are finished annotating the snapshot, the Dynamics 365 Remote Assist user selects the check mark to exit from annotation mode, and can choose to save the snapshot.
 
-Annotations are displayed only during the snapshot session. When the Dynamics 365 Remote Assist mobile user exists snapshot mode, annotations from that snapshot session are removed. 
+Annotations are displayed only during the snapshot session. When the Dynamics 365 Remote Assist user exits Snapshot mode, annotations from that snapshot session are removed. 
 
 [Learn more about using snapshots](./mobile-app/annotate-snapshot.md).
 
