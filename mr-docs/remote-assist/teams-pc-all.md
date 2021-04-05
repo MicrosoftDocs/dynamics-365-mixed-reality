@@ -169,8 +169,8 @@ To start annotating, first do one of the following to pause the video stream and
 -   Select **Start editing**.
 
 >[!Note]
-> By default, the **Mixed Reality toolbar** is on the top of your screen. If it is blocking your view and you'd like to move it somewhere else, select the drag icon (as seen here: ![Graphic showing the drag icon.](media/PC_Drag.png)) and drag the **Mixed Reality toolbar** where you would like it to be.
-> The **Mixed Reality toolbar** is not currently draggable in Teams Multi-Window. 
+> By default, the **Mixed Reality toolbar** is on the top of your screen. If it's blocking your view, select the drag button (![Graphic showing the drag button](media/PC_Drag.png)) and drag the **Mixed Reality toolbar** where you want it.
+> You can't drag the **Mixed Reality toolbar** in the Teams Multi-Window. 
 
 In edit mode, the expert will still see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
 
