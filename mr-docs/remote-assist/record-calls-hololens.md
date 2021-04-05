@@ -66,7 +66,7 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
 
 At this time, the layout of the cloud-based recording depends on the number of call participants, and the layout cannot be configured. When using Dynamics 365 Remote Assist or Teams to record the call, the Dynamics 365 Remote Assist HoloLens user's view (that is, their outgoing video feed) never occupies the entire recording (unless the Dynamics 365 Remote Assist HoloLens user is the only person in a call or meeting).
 
-If it is imperative that your recording captures as much of the Dynamics 365 Remote Assist HoloLens user's view as possible, and as little of Teams user's outgoing video feed or avatars, consider using [one of the alternative recording methods](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#alternatives-to-cloud-based-recording).
+If it is imperative that your recording captures as much of the Dynamics 365 Remote Assist HoloLens user's view as possible and as little of the Teams user's outgoing video feed or avatars, consider using [one of the alternative recording methods](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#alternatives-to-cloud-based-recording).
 
 Below are several examples of what the recording layout looks like when you use Teams or Dynamics 365 Remote Assist to record.
 
