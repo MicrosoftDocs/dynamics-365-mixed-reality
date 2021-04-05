@@ -131,7 +131,7 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
 
     These videos are saved to the HoloLens camera roll. Keep in mind that the video will not be automatically uploaded to Stream, but there are two ways to get a photo or video off the HoloLens camera roll.
 
-    1. Upload to OneDrive:
+    **Upload to OneDrive**
 
       1. Go to the **Start** menu.
        
@@ -143,7 +143,7 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
       
       5. Upload your file to OneDrive.
 
-    2. Manual connection to a PC with a USB-C cable:
+    **Manual connection to a PC with a USB-C cable**
 
       1. Access the internal storage through the file explorer (on a PC).
       
@@ -151,7 +151,7 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
 
       3. Copy your images or videos from this folder.
 
-    [Learn more about taking photos, taking videos, and getting them off the device](https://docs.microsoft.com/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
+    [Learn more about taking photos and videos, and getting them off the device](https://docs.microsoft.com/hololens/holographic-photos-and-videos#capture-a-mixed-reality-photo).
 
 ### Ask a Teams desktop user to use the Windows Game Bar to capture a screen recording of a Dynamics 365 Remote Assist call from their perspective
 
