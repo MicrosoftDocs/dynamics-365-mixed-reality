@@ -40,7 +40,7 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the record button.](media/03.00-call.png)
     
-2. You may see a loading notification, as seen in the following screenshot.
+2. You may see a loading notification.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing a loading icon in place of the record icon.](media/03.00-call-recording-loading.png)
     
