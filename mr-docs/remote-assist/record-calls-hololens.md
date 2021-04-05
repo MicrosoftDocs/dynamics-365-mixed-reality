@@ -159,6 +159,6 @@ Use this option when you want the recording to capture exactly what the Teams de
 
 Learn more about:
 
-   - [How a Teams desktop user can record a call using Windows Game Bar](teams-pc-all.md)
+   - [How a Teams desktop user can record a call using Windows Game Bar](teams-pc-all.md#record-your-teams-desktop-screen-using-windows-game-bar)
 
    - [Windows Game Bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10)
