@@ -36,7 +36,7 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
 
 ## How to initiate a cloud-based recording
 
-1. Select the **Start Record** button (as shown here: ![Start recording button](media/RAHL_CallRecording_StartButton.png)) to start recording the call.
+1. Select the **Start Record** button (![Start recording button](media/RAHL_CallRecording_StartButton.png)) to start recording the call.
 
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the record button.](media/03.00-call.png)
     
