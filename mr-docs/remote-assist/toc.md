@@ -8,7 +8,7 @@
 ### [Deploy Dynamics 365 Remote Assist in your tenant](deploy-remote-assist.md)
 ### [Install Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md)
 
-## Dynamics 365 Remote Assist on HoloLens and HoloLens 2
+## On HoloLens and HoloLens 2
 ### [Overview](overview-hololens.md)
 ### [Launch Dynamics 365 Remote Assist](launch-hololens.md)
 ### [Make and take calls](making-taking-calls-hololens.md)
@@ -27,7 +27,7 @@
 ### [Review tutorial of Dynamics 365 Remote Assist](review-tutorial-hololens.md)
 ### [Use HoloLens voice commands](voice-commands-hololens.md)
 
-## Dynamics 365 Remote Assist mobile
+## Mobile app
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
 ### [Use the in-app tutorial](mobile-app/mobile-tutorial.md)
 ### Make calls
