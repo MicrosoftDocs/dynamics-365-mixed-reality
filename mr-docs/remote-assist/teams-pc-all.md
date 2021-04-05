@@ -152,9 +152,9 @@ When you're in a call, you'll see the call controls at the bottom of the screen.
 
 To use additional features, select the ellipses icon […]. For example, select **Blur my background** if you have sensitive information behind you or want to protect the privacy of colleagues who are behind you. When you are in a group call or meeting with a Dynamics 365 Remote Assist HoloLens user, the **More Options** […] button will also provide the option to record the call.  
 
-## Add annotations in Dynamics 365 Remote Assist user's environment 
+## Add annotations in the Dynamics 365 Remote Assist user's environment 
 
-When in a call, you will see your collaborator’s space—including the holograms—and can use the **Mixed Reality toolbar** to add annotations.
+When in a call, you'll see your collaborator’s space, including the holograms, and can use the **Mixed Reality toolbar** to add annotations.
 
 ![Screenshot of the mixed reality toolbar.](media/071f358ab6bbf7c2072b15d9203a1593.png)
 
