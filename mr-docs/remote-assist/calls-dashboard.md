@@ -50,17 +50,17 @@ To have access to the Calls dashboard, you must have:
 
 ### Notes
 
-1. The dashboard is built on Microsoft Power BI. It may take some time for the dashboard to get provisioned.
+- The dashboard is built on Microsoft Power BI. It may take some time for the dashboard to get provisioned.
 
-1. As **Remote Assist - Administrator**, you can always go back and disable / re-enable the dashboard by toggling it off / on from within the **Settings** area as described above. Disabling the dashboard will deprovision the resources that it depends on.
+- As a **Remote Assist - Administrator**, you can always go back and disable/re-enable the dashboard by turning it off/on from the **Settings** area as described above. Disabling the dashboard will remove the resources that it depends on.
 
-1. The dashboard leverages the [phone call entity type](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/phonecall) to generate analytics. End users must [select the right Dynamics environment](./asset-capture-add-users.md#selecting-the-right-environment-from-the-client-app) from their device to send the phone call record to the Common Data Service. Only after they have selected the correct environment, and for those users only, is the phone call data available in the calls dashboard.
+- The dashboard uses the [phone call entity type](https://docs.microsoft.com/dynamics365/customer-engagement/web-api/phonecall) to generate analytics. End users must [select the right Dynamics environment](./asset-capture-add-users.md#selecting-the-right-environment-from-the-client-app) from their device to send the phone call record to the Common Data Service. The phone call data will not be available in the Calls dashboard if the user hasn't selected the correct environment.
 
-1. End users may or may not give location permissions to the Hololens or Mobile app. If permission is not granted, for call records from those specific users, location information will be missing.
+- End users may or may not give location permissions to the Hololens or mobile app. If permission is not granted, for call records from those specific users, location information will be missing.
 
-## Understanding the Dynamics 365 Remote Assist calls dashboard
+## Understand the Dynamics 365 Remote Assist calls dashboard
 
-:::image type="content" source="media/CallsDashboardFull.png" alt-text="Screenshot of the Remote Assist Calls Dashboard.":::
+![Screenshot of the Remote Assist Calls Dashboard](media/CallsDashboardFull.png).
 
 ### Dashboard filters
 
