@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 
 # Use Dynamics 365 Remote Assist in low-bandwidth scenarios
 
-Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians may experience difficulty troubleshooting and resolving problems in real time. Dynamics 365 Remote Assist HoloLens gives technicians the ability to discuss, diagnose, and resolve issues with remote collaborators even in low-bandwidth situations.
+Technicians sometimes find themselves on factory floors or remote locations with poor network connectivity. Without strong network connectivity (bandwidth (up/down) of 1.5 Mbps or higher), technicians might experience difficulty troubleshooting and resolving problems in real time. Dynamics 365 Remote Assist HoloLens gives technicians the ability to discuss, diagnose, and resolve issues with remote collaborators even in low-bandwidth situations.
 
 ## What determines poor network connectivity 
 
