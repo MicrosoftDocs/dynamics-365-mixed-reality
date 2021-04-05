@@ -97,11 +97,11 @@ You can search, call, and receive a call from a Dynamics 365 Remote Assist user 
 
 ## Schedule and join a meeting (with a Dynamics 365 Remote Assist HoloLens user only)
 
-### Schedule a meeting ahead of the call (with Dynamics 365 Remote Assist HoloLens user only)
+### Schedule a meeting ahead of the call
 
 Read about how to [schedule a meeting here](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAABAAA=Desktop), or [watch a tutorial video](https://support.office.com/article/Video-Manage-meetings-ba44d0fd-da3c-4541-a3eb-a868f5e2b137).
 
-### Join a Teams meeting  (with Dynamics 365 Remote Assist HoloLens user only)
+### Join a Teams meeting
 
 Read about how to [join a Teams meeting here](https://support.office.com/article/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9), or [watch a tutorial video](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US).
 
