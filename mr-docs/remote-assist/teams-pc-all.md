@@ -353,11 +353,11 @@ If it is imperative that your recording only captures as much of the Dynamics 36
 
 ## Send a text message 
 
-During a call, participants can communicate through the text chat. The chat log will be available via Teams after the call ends.
+During a call, participants can communicate through the text chat. The chat log is available through Teams after the call ends.
 
-From the call controls, select **Text Chat** (as seen here: ![Graphic showing the text chat icon.](media/Teams_Text.png)  to open the chat. The Dynamics 365 Remote Assist user can only see messages exchanged during the call, but you may see messages exchanged before the call. 
+From the call controls, select **Text Chat** (![Graphic showing the text chat icon.](media/Teams_Text.png) to open the chat. The Dynamics 365 Remote Assist user can only see messages exchanged during the call, but you might see messages exchanged before the call. 
 
-You can also attach a OneDrive or local file via the Teams chat **Attach file** feature.
+You can also attach a OneDrive or local file through the Teams chat **Attach file** feature.
 
 >[!Note]
 > Dynamics 365 Remote Assist chat supports certain formats, including bold, italic, strikethrough, and underline. It also supports hyperlinks. However, it does not support HTML-formatted or lists, such as a passage you copy and paste from a website. 
@@ -366,4 +366,4 @@ You can also attach a OneDrive or local file via the Teams chat **Attach file** 
 
 ## File a support ticket
 
-If you encounter an issue that is blocking you from using the application, [file a support ticket](https://support.microsoft.com/hub/4338666/hololens-help). Support will work directly with you until the issue is resolved.
+If you encounter an issue that's blocking you from using the application, [file a support ticket](https://support.microsoft.com/hub/4338666/hololens-help). Microsoft support will work with you until the issue is resolved.
