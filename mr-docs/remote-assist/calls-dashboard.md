@@ -68,11 +68,11 @@ The visualizations in the dashboard are determined by the filters available at t
 
 | Filter | Description |
 | --- | --- |
-| Date | Filters the dashboard to only show metrics for phone call records falling within the specified duration. |
-| User name | Select specific users to view only metrics related to them. |
-| Client type | Filter the dashboard to only show metrics for phone call records coming from a specific device type. |
+| Date | Filters the dashboard to show only metrics for phone call records falling within the specified duration. |
+| User name | Select specific users to view only the metrics related to them. |
+| Client type | Filter the dashboard to show only metrics for phone call records coming from a specific device type. |
 
-Additionally, when you select a slice of data from any of the visuals described below, it will temporarily filter all visuals to that specific set of records. For e.g., if you click on a specific month from the **calls trend** visual, all visuals will be filtered to that month. You can click on that data item again to remove that filter.
+Additionally, when you select a slice of data from any of the visuals described below, the visualizations will temporarily be filtered to that specific set of records. For example, if you select a specific month from the **calls trend** visual, all visuals will be filtered to that month. You can click on that data item again to remove that filter.
 
 ### Metrics available in the calls dashboard
 
