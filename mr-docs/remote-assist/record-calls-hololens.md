@@ -145,7 +145,7 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
 
     **Manual connection to a PC with a USB-C cable**
 
-      1. Access the internal storage through the file explorer (on a PC).
+      1. On a PC, access the internal storage through File Explorer.
       
       2. Go to **Pictures** > **Camera Roll folder**.
 
@@ -155,10 +155,10 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
 
 ### Ask a Teams desktop user to use the Windows Game Bar to capture a screen recording of a Dynamics 365 Remote Assist call from their perspective
 
-Use this option when:
+Use this option when you want the recording to capture exactly what the Teams desktop user sees during the call (for example, including the Teams user interface and call layout the Teams desktop user configures).
 
-- You want the recording to capture exactly what the Teams desktop user sees during the call (for example, including the Teams UI and call layout the Teams desktop user configures).
+Learn more about:
 
-Learn more about how a Teams desktop user can [record a call using Windows Game Bar](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all.md#record-your-teams-desktop-screen-using-windows-game-bar).
+    - [How a Teams desktop user can record a call using Windows Game Bar](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all.md#record-your-teams-desktop-screen-using-windows-game-bar).
 
-For more information, [learn more about the Game Bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
+    - [The Game Bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
