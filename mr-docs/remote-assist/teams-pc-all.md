@@ -325,12 +325,13 @@ If your admin has configured Field Service integration, you can access the recor
 
 ### Record your Teams desktop screen using Windows Game bar
 
-If it is imperative that your recording only captures as much of the Dynamics 365 Remote Assist HoloLens user’s view as possible, and as little of Teams user’s outgoing videos (or avatars), consider recording your desktop screen using Windows Game Bar. 
+If it is imperative that your recording only captures as much of the Dynamics 365 Remote Assist HoloLens user’s view as possible, and as little of the Teams user’s outgoing videos (or avatars), consider recording your desktop screen using the Windows Game Bar. 
 
-#### How to initiate a recording of what the Teams Desktop user sees during the call 
-1. Join a Remote Assist call using Teams desktop application
+#### Initiate a recording of what the Teams Desktop user sees during the call 
 
-2. Press the **Windows logo key** (seen here: ![Graphic showing the windows logo key.](media/windows-logo-key.png)) + **G** to open the Game Bar.
+1. Join a Remote Assist call using the Teams desktop application.
+
+2. Press the **Windows logo key** (![Graphic showing the windows logo key.](media/windows-logo-key.png)) + **G** to open the Game Bar.
 
    ![Screenshot showing the game bar.](media/game-bar.png)
 
@@ -344,11 +345,11 @@ If it is imperative that your recording only captures as much of the Dynamics 36
 
    The video of the recording will appear in your **Videos/Captures** folder.
    
-For more information, [learn more about the Game bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
+[Learn more about the Windows Game bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10).
 
-### Record the HoloLens user's view using HoloLens OS
+### Record the HoloLens user's view using the HoloLens OS
 
-[Learn more](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#use-the-hololens-os-to-record-only-what-you-see-in-the-hololens-what-you-hear-around-you-and-what-you-hear-through-the-hololens-speakers) about how the HoloLens user can use the HoloLens OS to record what they see. 
+[Learn about how the HoloLens user can use the HoloLens OS to record what they see](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#use-the-hololens-os-to-record-only-what-you-see-in-the-hololens-what-you-hear-around-you-and-what-you-hear-through-the-hololens-speakers). 
 
 ## Send a text message 
 
