@@ -103,15 +103,23 @@ Check out the following links:
 
 - [Schedule a meeting](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAABAAA=Desktop)
 
-- [Watch a tutorial video](https://support.office.com/article/Video-Manage-meetings-ba44d0fd-da3c-4541-a3eb-a868f5e2b137).
+- [Watch a tutorial video](https://support.office.com/article/Video-Manage-meetings-ba44d0fd-da3c-4541-a3eb-a868f5e2b137)
 
 ### Join a Teams meeting
 
-Read about how to [join a Teams meeting here](https://support.office.com/article/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9), or [watch a tutorial video](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US).
+Check out the following links:
 
-If the Dynamics 365 Remote Assist HoloLens user has been invited to the meeting, they can log into Dynamics 365 Remote Assist and select **Join Meeting** at the bottom of the **Recent Contacts** page.
+- [Join a Teams meeting](https://support.office.com/article/join-a-meeting-in-teams-1613bb53-f3fa-431e-85a9-d6a91e3468c9)
 
-If a Dynamics 365 Remote Assist HoloLens user was not invited to the meeting, but you would like them to join the meeting: join the meeting, then select **Participants** panel from call controls, start typing their name, and call them. 
+- [Watch a tutorial video](https://support.office.com/article/join-a-teams-meeting-078e9868-f1aa-4414-8bb9-ee88e9236ee4?ui=en-US&rs=en-US&ad=US)
+
+If the Dynamics 365 Remote Assist HoloLens user has been invited to the meeting, they can sign in to Dynamics 365 Remote Assist and select **Join Meeting** at the bottom of the **Recent Contacts** page.
+
+If a Dynamics 365 Remote Assist HoloLens user was not invited to the meeting, but you would like them to join the meeting: 
+
+1. Join the meeting, and then select **Participants** from the call controls.
+
+2. Start typing their name, and then call them. 
 
 ## Adjust what you see
 
@@ -120,10 +128,12 @@ Teams tries to anticipate what you’ll want to see in a meeting, and you can al
 >[!Note]
 > At this time, when you use Teams to capture a cloud-based recording of the call, the layout you configure is not the layout captured in the call recording. The layout of the recording is determined by the number of call participants. See two examples below.
 
-*Example of a Teams recording of call with two participants:*
+*Example of a Teams recording of a call with two participants:*
+
 ![Screenshot showing two people in a Microsoft Teams call.](media/2call.png) 
 
-*Example of a Teams recording of call with more than four participants:*
+*Example of a Teams recording of a call with more than four participants:*
+
 ![Screenshot showing five people in a Microsoft Teams call.](media/5call.png)
 
 If you want the recording to capture the exact layout of the call you configure, [use the Windows Game Bar](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all#desktop-screen-recording-using-windows-game-bar) to capture a screen recording of your computer. 
