@@ -36,7 +36,7 @@ To have access to the Calls dashboard, you must have:
 
 ## Enabling the Calls dashboard
 
-1. In the Remote Assist model-driven app, under **Change area**, select **Settings**.
+1. In the Dynamics 365 Remote Assist model-driven app, under **Change area**, select **Settings**.
 
     ![Change area to Settings in the Remote Assist model-driven app](media/webapp-settings-selector.png).
 
