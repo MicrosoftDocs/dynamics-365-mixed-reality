@@ -161,4 +161,4 @@ Learn more about:
 
    - [How a Teams desktop user can record a call using Windows Game Bar](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/teams-pc-all.md#record-your-teams-desktop-screen-using-windows-game-bar)
 
-   - [The Game Bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10)
+   - [Windows Game Bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10)
