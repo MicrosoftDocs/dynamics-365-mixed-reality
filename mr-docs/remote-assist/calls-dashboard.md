@@ -44,9 +44,9 @@ To have access to the Calls dashboard, you must have:
 
     ![Select Calls Dashboard settings](media/CallsDashboardSettings.png).
 
-3. Select the toggle to enable the dashboard.
+3. Move the slider to the right to enable the dashboard.
 
-    ![Toggle on Calls Dashboard](media/CallsDashboardEnable.png).
+    ![Enable the Calls dashboard](media/CallsDashboardEnable.png).
 
 ### Notes
 
