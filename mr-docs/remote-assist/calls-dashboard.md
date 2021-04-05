@@ -64,7 +64,7 @@ To have access to the Calls Dashboard, you must have:
 
 ### Dashboard filters
 
-All visuals described are governed by the filters available at the top of the report. Let's understand what these filters do.
+The visualizations in the dashboard are determined by the filters available at the top of the report. The following table describes what each of the filters does.
 
 | Filter | Description |
 | --- | --- |
