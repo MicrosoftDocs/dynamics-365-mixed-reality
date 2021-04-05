@@ -200,12 +200,13 @@ To make changes to your edits, you can:
 
 - While in edit mode, select **Undo** to undo the last action.
 
-- While in edit mode, select **Erase all** (as seen here: ![Graphic showing the Erase icon, which looks like a trashcan.](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")) to erase all of the annotations made during that editing session.
+- While in edit mode, select **Erase all** (![Graphic showing the Erase icon, which looks like a trashcan.](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")) to erase all of the annotations made during that editing session.
 
-- While in live mode, select **Erase all** (as seen here: ![Graphic showing the Erase icon, which looks like a trashcan.](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")) to erase all of the annotations made during that call.
+- While in live mode, select **Erase all** (![Graphic showing the Erase icon, which looks like a trashcan.](media/3aab547aa81003ad181eceadc2c83a47.png "Erase all")) to erase all of the annotations made during that call.
 
 > [!Note]
 > - Specific drawings or arrows can’t be removed.
+> 
 > - Each call participant can only remove the annotations they added.
 
 ## Annotate 2D snapshot (only in a call with Dynamics 365 Remote Assist mobile user)
