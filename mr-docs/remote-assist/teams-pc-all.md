@@ -85,7 +85,7 @@ After launching Teams, select the **Calls** tab on your left to see suggested co
 You can search, call, and receive a call from a Dynamics 365 Remote Assist user in another tenant if your tenant is federated with that tenant. When searching for this Dynamics 365 Remote Assist user, you must enter their full email address.
 
 >[!Note]
-> If you're not able to find the contact you're looking for, it might be because Teams federation (i.e., "[Teams external access](https://docs.microsoft.com/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.  
+> If you're not able to find the contact you're looking for, it might be because Teams federation ("[Teams external access](https://docs.microsoft.com/microsoftteams/manage-external-access)") has not been enabled. Contact your administrator for help.  
 
 ### Make a group call 
 
