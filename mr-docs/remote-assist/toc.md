@@ -56,7 +56,7 @@
 #### [Review asset captures](asset-capture-review.md)
 #### [Automate asset capture data](integrate-power-automate.md)
 
-## Collaborate in Microsoft Teams with Dynamics 365 Remote Assist users 
+## Microsoft Teams and Remote Assist
 ### [Collaborate with Dynamics 365 Remote Assist user via Teams on PC](teams-pc-all.md)
 ### [Collaborate with Dynamics 365 Remote Assist user via Teams on mobile](teams-mobile-all.md)
 
