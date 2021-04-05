@@ -99,7 +99,11 @@ You can search, call, and receive a call from a Dynamics 365 Remote Assist user 
 
 ### Schedule a meeting ahead of the call
 
-Read about how to [schedule a meeting here](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAABAAA=Desktop), or [watch a tutorial video](https://support.office.com/article/Video-Manage-meetings-ba44d0fd-da3c-4541-a3eb-a868f5e2b137).
+Check out the following links:
+
+- [Schedule a meeting](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5#ID0EAABAAA=Desktop)
+
+- [Watch a tutorial video](https://support.office.com/article/Video-Manage-meetings-ba44d0fd-da3c-4541-a3eb-a868f5e2b137).
 
 ### Join a Teams meeting
 
