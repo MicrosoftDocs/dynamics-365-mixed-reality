@@ -4,13 +4,13 @@
 ## Setup
 ### [Requirements](requirements.md)
 ### [Get a free trial](try-remote-assist.md)
-### [Buy Dynamics 365 Remote Assist](buy-remote-assist.md)
-### [Deploy Dynamics 365 Remote Assist in your tenant](deploy-remote-assist.md)
-### [Install Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md)
+### [Buy](buy-remote-assist.md)
+### [Deploy in your tenant](deploy-remote-assist.md)
+### [Install the Remote Assist model-driven app](ra-webapp-install.md)
 
 ## On HoloLens and HoloLens 2
 ### [Overview](overview-hololens.md)
-### [Launch Dynamics 365 Remote Assist](launch-hololens.md)
+### [Start Dynamics 365 Remote Assist](launch-hololens.md)
 ### [Make and take calls](making-taking-calls-hololens.md)
 ### [Join a meeting](join-meeting-hololens.md)
 ### [Adjust what you see](adjust-what-you-see-hololens.md)
