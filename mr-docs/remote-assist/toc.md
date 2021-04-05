@@ -47,7 +47,7 @@
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
 ## Remote Assist model-driven app
-### [Add users to the model-driven app](asset-capture-add-users.md)
+### [Add users](asset-capture-add-users.md)
 ### [Calls dashboard](calls-dashboard.md)
 ### [Invite a user to join a one-time call](one-time-call.md)
 ### Asset capture
