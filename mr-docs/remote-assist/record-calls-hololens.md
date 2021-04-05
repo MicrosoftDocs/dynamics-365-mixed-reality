@@ -41,8 +41,6 @@ Learn more about using [Teams desktop]( https://support.office.com/article/Recor
     ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing the record button.](media/03.00-call.png)
     
 2. You may see a loading notification.
-
-    ![Screenshot of Dynamics 365 Remote Assist on HoloLens, showing a loading icon in place of the record icon.](media/03.00-call-recording-loading.png)
     
 3. You'll see a reminder that the call recording only captures the middle vertical section of your field of view. This means that if there are procedures or assets that are critical for you to record, keep them in the middle of your field of view. For more context about this notification, learn about [Teams recording layout for calls with two participants](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/record-calls-hololens#cloud-based-recording-layout). Press OK to start recording.
 
