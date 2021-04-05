@@ -91,10 +91,10 @@ Let's take a look at the information that's provided by each of the visuals in t
 
 ## Additional notes
 
-* **SLA**: Data is refreshed every 24 hours. Dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Please note that currently, we do not support a custom refresh schedule.
+* Data is refreshed every 24 hours. The dashboard will continue to be available during the refresh. If the dashboard is not refreshed within 24 hours, you can contact Microsoft Support. Note that Microsoft does not currently support a custom refresh schedule.
 
-* **Data Refresh for Inactive environments**: If an organization has no active usage of the dashboard for two continuous weeks, the data refresh will be paused. When a user opens the dashboard, the data will get refreshed in the next refresh cycle.
+* If an organization has no active dashboard usage for two continuous weeks, the data refresh will be paused. When a user opens the dashboard, the data will be refreshed in the next refresh cycle.
 
 * Data is retained for 24 months.
 
-* The calls dashboard feature uses storage capacity in the Common Data Service. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
+* The Calls Dashboard uses storage capacity in the Microsoft Dataverse. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
