@@ -80,13 +80,13 @@ Let's take a look at the information that's provided by each of the visuals in t
 
 | Visual | Description |
 | --- | --- |
-| Total calls | Total number of **unique** Dynamics 365 Remote Assist calls made. There is a phone call record generated for each Dynamics 365 Remote Assist user participating in each call. There is no phone call record generated for Microsoft Teams participants. Call records are disambiguated by the **RemoteAssistCallId** field in the phone call entity. Thus group calls, with three or more Dynamics 365 Remote Assist users are **not** counted multiple times. |
+| Total calls | Total number of **unique** Dynamics 365 Remote Assist calls made. A phone call record is generated for each Dynamics 365 Remote Assist user participating in each call. No phone call record is generated for Microsoft Teams participants. Call records are disambiguated by the **RemoteAssistCallId** field in the Phone Call entity. So group calls with three or more Dynamics 365 Remote Assist users are **not** counted multiple times. |
 | Total call duration | Total time spent in Dynamics 365 Remote Assist calls aggregated across all phone call records. If there are multiple Dynamics 365 Remote Assist participants in the same call, the time spent by each participant in the call will be added to the total. |
 | Average call duration | Average time spent in Dynamics 365 Remote Assist calls, averaged across all phone call records. |
-| Unique callers | Total number of **unique** users that participated in a call from the Dynamics 365 Remote Assist app on HoloLens or Mobile. This does not include the number of Microsoft Teams participants. |
-| Calls trend | Number of calls made over the selected duration. You can use the drill down capabilities of the visual to see the data by year, month, week or day. |
+| Unique callers | Total number of **unique** users that participated in a call from the Dynamics 365 Remote Assist app on HoloLens or the mobile app. This does not include the number of Microsoft Teams participants. |
+| Calls trend | Number of calls made over the selected duration. You can use the drill-down capabilities to see the data by year, month, week, or day. |
 | Call statistics by user | The number of calls made by and time spent in Dynamics 365 Remote Assist calls per user. |
-| Calls by location | Map view of the phone call records, available if the end user has granted permission to share location from their device. You can use the drill down capabilities of the visual to see number of calls by country, state or city. |
+| Calls by location | Map view of the phone call records, available if the end user has granted permission to share the location from their device. You can use the drill-down capabilities to see the number of calls by country, state or city. |
 | Call log | Details of each phone call record, including call start and end times, owner of the phone call record, direction of the call, time spent by the specific participant in the call, client device type, and location of the call participant if shared. |
 
 ## Additional notes
