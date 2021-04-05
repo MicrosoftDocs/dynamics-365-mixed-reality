@@ -25,27 +25,6 @@ Poor network connectivity is determined by the following conditions:
 
 Dynamics 365 Remote Assist mobile **autodetects** if the technician is experiencing poor network conditions. If so, the technician is prompted to **share snapshots** with the remote expert to collaborate, instead of transmitting a live video feed. This way, the expert can view and annotate images of better quality, instead of a low-quality video feed.
 
-### Components that cause poor network conditions
-	
-The interaction of the three components can cause poor netowrk conditions: **bandwidth**, **latency**, and **packet loss**:
-
-- Minimum bandwidth (in/out) - 150 kbps / 150 kbps
-
-- Maximum latency (in/out) - 500 ms / 500 ms (1,000 ms) 
-
-- Maximum packet loss (in/out) - 10% / 10%  
-
- Here's an example of a poor network profile that allows users to sign into Dynamics 365 Remote Assist mobile and connect to a call with an expert.
-    
-| Variables  | Measurements |
-| ------------- | ------------- |
-| Bandwidth  | 150 kbps / 150 kbps  |
-| Latency  | 400 ms / 400 ms = 800 ms  |
-| Packet loss  | 10% / 10%  |
-
-> [!NOTE]
-> Given the above known values for **Bandwidth** and **Packet Loss**, exceeding a round trip **Latency** of 800 ms will result in a slower in-app experience. These variables are interdependent and change in one variable can affect the other variables. 
-
 ## How it works
 
 Let's take a quick look at what happens in a field scenario when a technician encounters poor network connectivity. In this scenario, the technician is a field worker. The  remote collaborator is elsewhere with good network conditions. 
