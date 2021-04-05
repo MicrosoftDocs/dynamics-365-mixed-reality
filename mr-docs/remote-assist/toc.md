@@ -1,5 +1,5 @@
 # Dynamics 365 Remote Assist
-## [Overview](ra-overview.md)
+## [Overview of Dynamics 365 Remote Assist](ra-overview.md)
 ## [What's new](whats-new.md)
 
 ## Setup
