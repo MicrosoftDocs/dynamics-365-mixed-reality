@@ -106,10 +106,10 @@ You can use the HoloLens OS to record only what you see in the HoloLens, what yo
   
    3. To stop recording, perform the **Start Gesture** and press the **Video** button.
   
-     ![Screenshot from the HoloLens field of view, showing the video icon on the bottom tool pane.](media/RAHL_OSVideo.png)
+      ![Screenshot from the HoloLens field of view, showing the video icon on the bottom tool pane.](media/RAHL_OSVideo.png)
 
-     > [!NOTE]
-     > If you are using this method to record your environment outside a call, joining a call will end the recording.
+      > [!NOTE]
+      > If you are using this method to record your environment outside a call, joining a call will end the recording.
 
 2. By voice: 
 
