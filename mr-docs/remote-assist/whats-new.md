@@ -51,6 +51,10 @@ The April release includes the following new features.
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
+
+
+
+
 ## February 2021
 
 |Feature|Solution update required?|How to|
@@ -84,6 +88,42 @@ The April release includes the following new features.
 |Android mobile app|XXX|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
+
+
+
+
+
+## January 2021
+
+|Feature|Solution update required?|How to|
+|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+
+### Bug fixes
+
+#### HoloLens 1 and 2
+
+- Important bug fixes and stability improvements.
+
+#### iOS and Android mobile app
+
+- LIST OF MOBILE APP BUGS GOES HERE
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|301.2101.6001|
+|iOS mobile app|XXX|
+|Android mobile app|XXX|
+|Microsoft Dataverse solution|XXX|
+|Teams|XXX|
+
+
+
+
 
 ## December 2020
 
@@ -221,16 +261,7 @@ ______________________________________________________
 
 
 
-## HoloLens 1 + 2 – 302.2102.2003
 
-Date: February 2021
-
-### Bug fixes
-
-- Fixed bugs related to file sharing with Teams users.
-- Fixed bugs related to voice commands.
-- Fixed bugs related to contact searching.
-- Improved error handling when selecting Dynamics 365 environment.
 
 ## HoloLens 1 + 2 – 301.2101.6001
 
