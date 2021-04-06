@@ -21,9 +21,7 @@ For detailed version histories, see:
 - [Dynamics 365 Remote Assist mobile app version history](version-history-remote-assist-mobile.md)
 
 
-
-
-## April 2021
+## April 1, 2021
 
 The April release includes the following new features.
 
@@ -386,17 +384,11 @@ The April release includes the following new features.
 
 - Improved application reliability. 
 
-#### iOS and Android mobile app
-
-- LIST OF MOBILE APP BUGS GOES HERE
-
 ### Version info
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|211.2007.30002|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
@@ -437,7 +429,6 @@ The April release includes the following new features.
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|210.2007.1003.0|
 |iOS mobile app|XXX|
 |Android mobile app|XXX|
 |Microsoft Dataverse solution|XXX|
@@ -545,17 +536,11 @@ The April release includes the following new features.
 
 - Incoming calls are now supported for GCC High and DOD
 
-#### iOS and Android mobile app
-
-- LIST OF MOBILE APP BUGS GOES HERE
-
 ### Version info
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2|209.2006.11003.0|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
@@ -593,7 +578,6 @@ The April release includes the following new features.
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 2|209.2006.11003.0|
 |iOS mobile app|2020.5.28|
 |Android mobile app|2020.05.22|
 |Microsoft Dataverse solution|XXX|
