@@ -26,7 +26,7 @@
 ### [Close the app](close-app-hololens.md)
 ### [Calls in low-bandwidth situations](hololens-low-bandwidth.md)
 ### [Review tutorial of Dynamics 365 Remote Assist](review-tutorial-hololens.md)
-### [Use HoloLens voice commands](voice-commands-hololens.md)
+### [Voice commands, narrator, and gestures](voice-commands-hololens.md)
 
 ## Mobile app
 ### [Overview](mobile-app/remote-assist-mobile-overview.md)
