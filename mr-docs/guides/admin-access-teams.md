@@ -147,7 +147,7 @@ All users who have access to the Guides model-driven app can share the guides an
 
     ![Add a user](media/access-teams-25.PNG "Add a user")
 
-6. Make sure that the user has the **Read** privilege, and then select **Share**.
+6. Make sure that the user has the **Read** and **Append** privileges, and then select **Share**.
 
     ![Read privilege selected](media/access-teams-26.PNG "Read privilege selected")
 
