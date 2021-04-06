@@ -139,41 +139,29 @@ The April release includes the following new features.
 
 ### Bug fixes
 
-#### HoloLens 2
+#### HoloLens 1 and 2
 
-- LIST OF HOLOLENS BUGS GOES HERE
+- Improvements around selecting Dynamics 365 environment.
 
-#### iOS and Android mobile app
+- Fixed "Post to Work Order" not working under certain conditions, and sometimes showing the dialog unnecessarily.
 
-- LIST OF MOBILE APP BUGS GOES HERE
+- Added voice commands to additional elements on the UI to ensure easy access.
 
-### Version info
+- Addressed visual glitches around window positioning, text flickering and unexpected button highlight.
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 2|XXX|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
+- Improved reliability of messaging when call recording starts/stops.
 
-## December 2020
+- Fixed issue preventing consecutive attempts to call the contact listed in Field Service booking.
 
-| Feature                                                                                                                                                                                                                                                                                 | Solution update required? |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| [Contact search keyboard improvements for HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/contact-search-keyboard-improvements-hololens)                                                                                        | No                        |
-| [Improvement in position accuracy for spatial annotations seen by remote collaborators on Teams](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/improvement-position-accuracy-spatial-annotations-seen-remote-collaborators-teams)       | No                        |
-| [Join meetings in the Dynamics 365 Remote Assist mobile app](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/join-meetings-dynamics-365-remote-assist-mobile-app)                                                                         | No                        |
-| [Lobby support enabled on HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/lobby-support-enabled-hololens)                                                                                                                       | No                        |
-| [Support Intune mobile application protection policies SDK for Dynamics 365 Remote Assist mobile app](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/support-intune-mobile-application-protection-policies-sdk-remote-assist-mobile-app) | No                        |
-| [Teams live events supported on HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/teams-live-events-supported-hololens)                                                                                                           | No                        |
-| [Enable customer or vendor to join one-time call](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/enable-customer-or-vendor-join-one-time-call)                                                                                           | No                        |
+- Fixed issue affecting the ability to change the status of a booking.
 
-### Bug fixes
+- Improvements for inking, to ensure that the lines are drawn continuously under all conditions.
 
-#### HoloLens 2
+- Various visual fixes to unify the look between different windows.
 
-- LIST OF HOLOLENS BUGS GOES HERE
+- Fixed issue preventing the access to files shared from Teams in some cases.
+
+- Improved support of file sharing and text chat in Teams channel meetings.
 
 #### iOS and Android mobile app
 
@@ -183,11 +171,15 @@ The April release includes the following new features.
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 2|XXX|
+|HoloLens 1 and 2|301.2012.9002|
 |iOS mobile app|XXX|
 |Android mobile app|XXX|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
+
+
+ 
+ 
 
 ## October 2020
 
@@ -256,38 +248,15 @@ The April release includes the following new features.
 
 
 
-______________________________________________________
+
+
+
+
+______________________________________________________________________________________________________________________________________________
 # Dynamics 365 Remote Assist HoloLens version history
 
 
 
-
-
-## HoloLens 1 + 2 – 301.2101.6001
-
-Date: January 2021
-
-### Bug fixes
-
-- Important bug fixes and stability improvements.
-
-## HoloLens 1 + 2 – 301.2012.9002
-
-Date: December 2020
-
-### Bug fixes
-
-- Improvements around selecting Dynamics 365 environment.
-- Fixed "Post to Work Order" not working under certain conditions, and sometimes showing the dialog unnecessarily.
-- Added voice commands to additional elements on the UI to ensure easy access.
-- Addressed visual glitches around window positioning, text flickering and unexpected button highlight.
-- Improved reliability of messaging when call recording starts/stops.
-- Fixed issue preventing consecutive attempts to call the contact listed in Field Service booking.
-- Fixed issue affecting the ability to change the status of a booking.
-- Improvements for inking, to ensure that the lines are drawn continuously under all conditions.
-- Various visual fixes to unify the look between different windows.
-- Fixed issue preventing the access to files shared from Teams in some cases.
-- Improved support of file sharing and text chat in Teams channel meetings.
 
 ## HoloLens 1 + 2 – 300.2010.1002
 
