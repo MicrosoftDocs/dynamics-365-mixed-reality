@@ -429,8 +429,8 @@ The April release includes the following new features.
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
+|iOS mobile app|2020.7.30|
+|Android mobile app|2020.07.23|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
