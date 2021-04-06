@@ -35,7 +35,7 @@ The April release includes the following new features.
 
 #### HoloLens 2
 
-- Fixed date format for Calls dashboard. 
+- Fixed date format for Calls Dashboard. 
 
 #### iOS and Android mobile app
 
