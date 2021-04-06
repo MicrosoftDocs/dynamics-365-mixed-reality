@@ -39,7 +39,7 @@ The April release includes the following new features.
 
 #### iOS and Android mobile app
 
-
+- LIST OF MOBILE APP BUGS GOES HERE
 
 ### Version info
 
