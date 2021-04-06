@@ -92,4 +92,4 @@ To turn on the Narrator for incoming calls:
 
 ## Gestures
 
-As of the April 1, 2021 release, on HoloLens 2, you can resize windows by using two-handed interaction gestures.
+As of the April 1, 2021 release, on HoloLens 2, you can resize windows by using two-handed far-field interaction gestures.
