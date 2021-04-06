@@ -29,8 +29,6 @@ To have access to the Calls Dashboard, you must have:
     - [Installing the model-driven app](./ra-webapp-install.md)
     
     - [Adding users to the environment](./asset-capture-add-users.md#assign-dynamics-365-security-roles)
-    
-    - Hello Dataverse nice 
 
 2. Access to the environment that Dynamics 365 Remote Assist is installed in, with the **Remote Assist - Administrator** security role assigned to you.
 
