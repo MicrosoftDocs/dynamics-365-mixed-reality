@@ -151,15 +151,15 @@ The April release includes the following new features.
 
 #### iOS and Android mobile app
 
-- LIST OF MOBILE APP BUGS GOES HERE
+- Important bug fixes and stability improvements.
 
 ### Version info
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|301.2101.6001|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
+|iOS mobile app|2021.1.8|
+|Android mobile app|2021.01.05|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
@@ -207,15 +207,33 @@ The April release includes the following new features.
 
 #### iOS and Android mobile app
 
-- LIST OF MOBILE APP BUGS GOES HERE
+- Fix for the video not being available in one to one and group calls.
+
+- Fix for “Tracking lost” message. Now it will show only when needed.
+
+- Fix for a call connection coming from Remote Assist on nonAR devices to Remote Assist on AR device.
+
+- Support for annotations made with S pen on Android tablets.
+
+- Fix for guest user search in the contact list.
+
+- Fix for the UI not being responsive with green rectangle only on app launch.
+
+- Fix for picture in picture mode not being available when recording started.
+
+- Fix for “D365 something wrong” generic error that sometimes showed up at the end of the call.
+
+- UI improvements for post to work order scenario, one time call and contacts list.
+
+- Fix for a guest user name displayed in a one time call.
 
 ### Version info
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|301.2012.9002|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
+|iOS mobile app|2020.12.09|
+|Android mobile app|2020.12.09|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
@@ -265,15 +283,31 @@ The April release includes the following new features.
 
 #### iOS and Android mobile app
 
-- LIST OF MOBILE APP BUGS GOES HERE
+- Improvements to the UI for group calling participants list.
+
+- Improved the view space switching logic for when only one participant is sharing their space in a group call.
+
+- Fix for annotations not being removed after participants leave a group call.
+
+- Fix for call participants in a group call unable to post call content to a Dynamics 365 Field Service work order.
+
+- Fix for getting stuck on loading screen after sign-in.
+
+- Fix for disappearing annotations after saving a snapshot in the call.
+
+- Incoming call notification sound is not present when the device is on silent mode.
+
+- Improved support for Bluetooth headset on iPads and tablets.
+
+- Improved annotations toolbar visibility in Teams clients when in calls with mobile devices without augmented reality (AR) support.
 
 ### Version info
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|300.2010.1002|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
+|iOS mobile app|2020.10.1|
+|Android mobile app|2020.10.03|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
@@ -510,30 +544,8 @@ ________________________________________________________________________________
 
 
 
-## iOS - 2021.1.8 + Android - v2021.01.05
 
-Date: January 2021
 
-### Bug fixes
-
-- Important bug fixes and stability improvements.
-
-## iOS - 2020.12.09 + Android - 2020.12.09
-
-Date: December 2020
-
-### Bug fixes
-
-- Fix for the video not being available in one to one and group calls.
-- Fix for “Tracking lost” message. Now it will show only when needed.
-- Fix for a call connection coming from Remote Assist on nonAR devices to Remote Assist on AR device.
-- Support for annotations made with S pen on Android tablets.
-- Fix for guest user search in the contact list.
-- Fix for the UI not being responsive with green rectangle only on app launch.
-- Fix for picture in picture mode not being available when recording started.
-- Fix for “D365 something wrong” generic error that sometimes showed up at the end of the call.
-- UI improvements for post to work order scenario, one time call and contacts list.
-- Fix for a guest user name displayed in a one time call.
 
 ## iOS - 2020.10.1 + Android - 2020.10.03
 
