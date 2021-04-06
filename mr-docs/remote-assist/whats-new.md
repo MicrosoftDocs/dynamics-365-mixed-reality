@@ -333,15 +333,29 @@ The April release includes the following new features.
 
 #### iOS and Android mobile app
 
-- LIST OF MOBILE APP BUGS GOES HERE
+- Improvements for showing the tracking lost detection and messaging less frequently.
+
+- Adjustments for annotations size being too large on certain device screens.
+
+- Improvements for placing annotations at the correct angle as a remote collaborator in a call between two Dynamics 365 Remote Assist mobile users.
+
+- Fix for application freeze after sign-in.
+
+- Improvements to snapshot UI for when it’s uploading during a call.
+
+- Improvements on ringtone audio for adhering to silent and vibrate modes on Android devices.
+
+- Adjustments for landscape screen orientation when in a call between two Dynamics 365 Remote Assist mobile users.
+
+- Fix for NullReferenceException showing up sometimes during inking and tutorial mode.
 
 ### Version info
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|211.2009.7002.0|
-|iOS mobile app|XXX|
-|Android mobile app|XXX|
+|iOS mobile app|2020.9.1|
+|Android mobile app|2020.09.04|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
@@ -378,6 +392,49 @@ The April release includes the following new features.
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|211.2007.30002|
+|iOS mobile app|XXX|
+|Android mobile app|XXX|
+|Microsoft Dataverse solution|XXX|
+|Teams|XXX|
+
+
+
+
+## July 30, 2020
+
+| Feature                                                                                                                                                                                                                                     | Solution update required? |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| | |
+| | |
+| | |
+
+### Bug fixes
+
+#### iOS and Android mobile app
+
+- Fix for not displaying the Dynamics 365 Remote Assist mobile user's video feed on the Microsoft Teams desktop or mobile user's screen.
+
+- Fix for placing the arrow annotation at the incorrect angle for Microsoft Teams desktop or mobile users.
+
+- Optimized frequency of error messages guiding user to track their environment better.
+
+- Incoming calls improvements. 
+
+- Fix for authentication taking a long time.
+
+- Fix for annotations inaccuracy in calls between two Dynamics 365 Remote Assists clients.
+
+- Fix for Undo and Delete buttons in the incorrect state.
+
+- Fix for memory issues caused by screen rotation.
+
+- Improved application memory usage.
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|210.2007.1003.0|
 |iOS mobile app|XXX|
 |Android mobile app|XXX|
 |Microsoft Dataverse solution|XXX|
@@ -547,52 +604,11 @@ ________________________________________________________________________________
 
 
 
-## iOS - 2020.10.1 + Android - 2020.10.03
 
-Date: October 2020
 
-### Bug fixes
 
-- Improvements to the UI for group calling participants list.
-- Improved the view space switching logic for when only one participant is sharing their space in a group call.
-- Fix for annotations not being removed after participants leave a group call.
-- Fix for call participants in a group call unable to post call content to a Dynamics 365 Field Service work order.
-- Fix for getting stuck on loading screen after sign-in.
-- Fix for disappearing annotations after saving a snapshot in the call.
-- Incoming call notification sound is not present when the device is on silent mode.
-- Improved support for Bluetooth headset on iPads and tablets.
-- Improved annotations toolbar visibility in Teams clients when in calls with mobile devices without augmented reality (AR) support.
 
-## iOS - 2020.9.1 + Android - 2020.09.04
 
-Date: September 2020
-
-### Bug fixes
-
-- Improvements for showing the tracking lost detection and messaging less frequently.
-- Adjustments for annotations size being too large on certain device screens.
-- Improvements for placing annotations at the correct angle as a remote collaborator in a call between two Dynamics 365 Remote Assist mobile users.
-- Fix for application freeze after sign-in.
-- Improvements to snapshot UI for when it’s uploading during a call.
-- Improvements on ringtone audio for adhering to silent and vibrate modes on Android devices.
-- Adjustments for landscape screen orientation when in a call between two Dynamics 365 Remote Assist mobile users.
-- Fix for NullReferenceException showing up sometimes during inking and tutorial mode.
-
-## iOS - 2020.7.30 + Android - 2020.07.23
-
-Date: July 30, 2020
-
-### Bug fixes
-
-- Fix for not displaying the Dynamics 365 Remote Assist mobile user's video feed on the Microsoft Teams desktop or mobile user's screen.
-- Fix for placing the arrow annotation at the incorrect angle for Microsoft Teams desktop or mobile users.
-- Optimized frequency of error messages guiding user to track their environment better.
-- Incoming calls improvements. 
-- Fix for authentication taking a long time.
-- Fix for annotations inaccuracy in calls between two Dynamics 365 Remote Assists clients.
-- Fix for Undo and Delete buttons in the incorrect state.
-- Fix for memory issues caused by screen rotation.
-- Improved application memory usage.
 
 ## iOS - 2020.7.1 + Android - 2020.06.27
 
