@@ -65,7 +65,7 @@ The April release includes the following new features.
 
 - Fix for unnecessary Dynamics error showing up in the app. 
 
-= Fix for video freezing, end-call availability, and blocked annotations on iOS during a call. 
+- Fix for video freezing, end-call availability, and blocked annotations on iOS during a call. 
 
 ### Version info
 
