@@ -31,27 +31,27 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 1. The technician launches a video call with a remote expert.
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, launching a call.](./media/XXX.png "Launch Call") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, launching a call.](./media/03.07-call-ink.png "Launch Call") 
 
 2. In the call, Dynamics 365 Remote Assist mobile autodetects if the technician is experiencing poor network conditions. If so, the technician is prompted to use the **Snapshot** tool to share images with the remote expert. 
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions](./media/XXX.png "Detection") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing a low-quality image in the chat window because of poor network conditions](./media/03.14-call-low-bandwidth-dialog.png "Detection") 
 
 3. The technician is instructed to use the **Snapshot** tool.
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the Poor Network notification and the Share Snapshot option on the mobile device screen.](./media/XXX.png "Share") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the Poor Network notification and the Share Snapshot option on the mobile device screen.](./media/03.15-call-snapshot-teach.png "Share") 
 
 4. The technician takes a snapshot, which is shared to the remote expert's screen. The expert now sees a high-quality snapshot. The technician and expert can annotate simultaneously on the snapshot.
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the tooltip on mobile that prompts the technician to share a snapshot.](./media/XXX.png "Tool Tip") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the tooltip on mobile that prompts the technician to share a snapshot.](./media/03.16-call-snapshot-active.png "Tool Tip") 
  
 5. After sharing a snapshot, the technician can save it to the mobile device's photo gallery or call chat, or can discard it. 
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the snapshot on both screens.](./media/XXX.png "Expert-side Snapshot") 
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing the snapshot on both screens.](./media/03.19-call-save-snapshot-dialog-selected.png "Expert-side Snapshot") 
 
 6. The technician returns to the video call and can continue to send snapshots to the expert.	
 
-    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing annotations on the snapshot on both screens.](./media/XXX.png "Annotate")  
+    ![Side-by-side screenshots of Dynamics 365 Remote Assist on mobile and Microsoft Teams, showing annotations on the snapshot on both screens.](./media/03.21-call-save-snapshot-saved.png "Annotate")  
 
 > [!NOTE]
 > The low-bandwidth feature is not supported in group calling scenarios. 
