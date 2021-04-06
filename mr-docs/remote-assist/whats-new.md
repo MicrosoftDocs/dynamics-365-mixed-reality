@@ -11,7 +11,7 @@ ms.reviewer: krbjoran
 
 # What's new in Dynamics 365 Remote Assist
 
-Here you'll find a quick overview of new features in Dynamics 365 Remote Assist.
+This article describes new features for Dynamics 365 Remote Assist.
 
 For more detailed information about new and upcoming features for Dynamics 365 Remote Assist, see [the Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/dynamics365/release-plans/).
 
@@ -22,13 +22,6 @@ For detailed version histories, see:
 
 ## April 2021
 
-**Versions**
-
-- **HoloLens 2:** 303.2103.29002
-- **iOS:** 2021.4.1
-- **Android:** 2021.4.1
-- **Microsoft Dataverse solution:** XXX
-
 The April release includes the following new features.
 
 |Feature|Solution update required?|How to|
@@ -37,6 +30,16 @@ The April release includes the following new features.
 |Improvement to the Microsoft Dataverse Environment selection|???|[Calls Dashboard](calls-dashboard.md)|
 |Instinctual interaction improvements on HoloLens 2|???||
 |Long Term Servicing for Dynamics 365 Remote Assist on HoloLens 1|???||
+
+**Version info**
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2|303.2103.29002|
+|iOS|2021.4.1|
+|Android|2021.4.1|
+|Microsoft Dataverse solution|XXX|
+|Teams|XXX|
 
 ## December 2020
 
