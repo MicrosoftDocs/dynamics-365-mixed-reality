@@ -24,6 +24,9 @@ For detailed version histories, see:
 
 Version 504.2102.24001.0 of the HoloLens apps and solution version 500.4.1.2 include the following new features.
 
+HoloLens 2 – 303.2103.29002
+
+
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
 |Low-bandwidth support|???|- [HoloLens 2](hololens-low-bandwidth.md)<br><br>- [Mobile app](./mobile-app/low-bandwidth-mode.md)|
