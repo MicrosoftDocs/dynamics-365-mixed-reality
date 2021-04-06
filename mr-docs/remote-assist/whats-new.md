@@ -26,10 +26,10 @@ The April release includes the following new features.
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|Low-bandwidth support|???|- [HoloLens 2](hololens-low-bandwidth.md)<br><br>- [Mobile app](./mobile-app/low-bandwidth-mode.md)|
-|Improvement to the Microsoft Dataverse Environment selection|???|[Calls Dashboard](calls-dashboard.md)|
-|Instinctual interaction improvements on HoloLens 2|???||
-|Long Term Servicing for Dynamics 365 Remote Assist on HoloLens 1|???||
+|Suppor for low-bandwidth situations|No|- [HoloLens 2](hololens-low-bandwidth.md)<br><br>- [Mobile app](./mobile-app/low-bandwidth-mode.md)|
+|Improvement to the Microsoft Dataverse Environment selection|Yes|[Calls Dashboard](calls-dashboard.md)|
+|Instinctual interaction improvements on HoloLens 2|No||
+|Long Term Servicing for Dynamics 365 Remote Assist on HoloLens 1|Yes||
 
 **Version info**
 
