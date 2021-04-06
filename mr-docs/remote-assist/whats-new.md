@@ -24,10 +24,10 @@ For detailed version histories, see:
 
 **Versions**
 
-- HoloLens 2: 303.2103.29002
-- iOS: 2021.4.1
-- Android: 2021.4.1
-- Solution: XXX
+- **HoloLens 2:** 303.2103.29002
+- **iOS:** 2021.4.1
+- **Android:** 2021.4.1
+- **Microsoft Dataverse solution:** XXX
 
 The April release includes the following new features.
 
