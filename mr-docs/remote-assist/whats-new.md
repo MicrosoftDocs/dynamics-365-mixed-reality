@@ -20,18 +20,7 @@ For detailed version histories, see:
 - [Dynamics 365 Remote Assist for HoloLens 1 + 2 version history](version-history-remote-assist-hololens.md)
 - [Dynamics 365 Remote Assist mobile app version history](version-history-remote-assist-mobile.md)
 
-## Locate your version number
 
-### HoloLens
-
-To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
-
-### Mobile app
-
-To find which version of Dynamics 365 Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
-
-> [!div class="mx-imgBorder"]
-> ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
 
 
 ## April 2021
@@ -835,4 +824,17 @@ The April release includes the following new features.
 |Teams|XXX|
 
 
+
+## Locate your version number
+
+### HoloLens
+
+To find which version of Dynamics 365 Remote Assist HoloLens you have, go to **Settings**, and then find the version number in the **About** section.
+
+### Mobile app
+
+To find which version of Dynamics 365 Remote Assist mobile you have, go to the menu and select the **Information** option. You'll see the **App Version** there. See the following screenshot for reference.
+
+> [!div class="mx-imgBorder"]
+> ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
 
