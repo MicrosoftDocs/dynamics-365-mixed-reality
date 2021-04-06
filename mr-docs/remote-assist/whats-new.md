@@ -22,10 +22,14 @@ For detailed version histories, see:
 
 ## April 2021
 
-Version 504.2102.24001.0 of the HoloLens apps and solution version 500.4.1.2 include the following new features.
+**Versions**
 
-HoloLens 2 – 303.2103.29002
+- HoloLens 2: 303.2103.29002
+- iOS: 2021.4.1
+- Android: 2021.4.1
+- Solution: XXX
 
+The April release includes the following new features.
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
