@@ -40,6 +40,10 @@ The April release includes the following new features.
 
 - Fixed date format for Calls Dashboard. 
 
+- Addressed an issue where contact presence wasn't displayed in some instances.
+
+- Fixed a problem with setting permissions for a photo shared from HoloLens in a call chat with guest participants.
+
 #### iOS and Android mobile app
 
 - Fix for posting to work order files that were shared and not visible when in a call with Dynamics 365 Remote Assist users. 
