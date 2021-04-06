@@ -34,7 +34,7 @@ However, the features you can use to collaborate differ depending on which platf
 
 ## Key terms
 
-When you join a call, you will see the **Mixed Reality toolbar**, seen in the following screenshot.
+When you join a call, you will see the Mixed Reality toolbar, seen in the following screenshot.
 
 ![Screenshot of the mixed reality toolbar](media/071f358ab6bbf7c2072b15d9203a1593.png "Mixed Reality toolbar")
 
@@ -154,7 +154,7 @@ To use additional features, select the ellipses icon […]. For example, select 
 
 ## Add annotations in the Dynamics 365 Remote Assist user's environment 
 
-When in a call, you'll see your collaborator’s space, including the holograms, and can use the **Mixed Reality toolbar** to add annotations.
+When in a call, you'll see your collaborator’s space, including the holograms, and can use the Mixed Reality toolbar to add annotations.
 
 ![Screenshot of the mixed reality toolbar.](media/071f358ab6bbf7c2072b15d9203a1593.png)
 
@@ -170,7 +170,7 @@ To start annotating, first do one of the following to pause the video stream and
 
 >[!Note]
 > By default, the Mixed Reality toolbar is on the top of your screen. If it's blocking your view, select the drag button (![Graphic showing the drag button](media/PC_Drag.png)) and drag it to move it to another location.
-> You can't drag the Mixed Reality toolbar in the Teams multi-window. 
+> Note that you can't drag the Mixed Reality toolbar in the Teams multi-window. 
 
 In edit mode, the expert will still see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
 
