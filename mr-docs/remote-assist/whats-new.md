@@ -51,6 +51,40 @@ The April release includes the following new features.
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
+## February 2021
+
+|Feature|Solution update required?|How to|
+|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+|XXX|XXX|XXX|
+
+### Bug fixes
+
+#### HoloLens 1 and 2
+
+- Fixed bugs related to file sharing with Teams users.
+
+- Fixed bugs related to voice commands.
+
+- Fixed bugs related to contact searching.
+
+- Improved error handling when selecting Dynamics 365 environment.
+
+#### iOS and Android mobile app
+
+- LIST OF MOBILE APP BUGS GOES HERE
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|302.2102.2003|
+|iOS mobile app|XXX|
+|Android mobile app|XXX|
+|Microsoft Dataverse solution|XXX|
+|Teams|XXX|
+
 ## December 2020
 
 | Feature                                                                                                                                                                                                                                                                                 | Solution update required? |
@@ -83,7 +117,37 @@ The April release includes the following new features.
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
+## December 2020
 
+| Feature                                                                                                                                                                                                                                                                                 | Solution update required? |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| [Contact search keyboard improvements for HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/contact-search-keyboard-improvements-hololens)                                                                                        | No                        |
+| [Improvement in position accuracy for spatial annotations seen by remote collaborators on Teams](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/improvement-position-accuracy-spatial-annotations-seen-remote-collaborators-teams)       | No                        |
+| [Join meetings in the Dynamics 365 Remote Assist mobile app](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/join-meetings-dynamics-365-remote-assist-mobile-app)                                                                         | No                        |
+| [Lobby support enabled on HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/lobby-support-enabled-hololens)                                                                                                                       | No                        |
+| [Support Intune mobile application protection policies SDK for Dynamics 365 Remote Assist mobile app](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/support-intune-mobile-application-protection-policies-sdk-remote-assist-mobile-app) | No                        |
+| [Teams live events supported on HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/teams-live-events-supported-hololens)                                                                                                           | No                        |
+| [Enable customer or vendor to join one-time call](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/enable-customer-or-vendor-join-one-time-call)                                                                                           | No                        |
+
+### Bug fixes
+
+#### HoloLens 2
+
+- LIST OF HOLOLENS BUGS GOES HERE
+
+#### iOS and Android mobile app
+
+- LIST OF MOBILE APP BUGS GOES HERE
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2|XXX|
+|iOS mobile app|XXX|
+|Android mobile app|XXX|
+|Microsoft Dataverse solution|XXX|
+|Teams|XXX|
 
 ## October 2020
 
@@ -101,6 +165,25 @@ The April release includes the following new features.
 | [Improved annotation placement experience](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/improved-annotation-placement-experience)                                                                        | No                        |
 | [Make group calls on Dynamics 365 Remote Assist mobile](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/make-group-calls-remote-assist-mobile)                                                              | No                        |
 
+### Bug fixes
+
+#### HoloLens 2
+
+- LIST OF HOLOLENS BUGS GOES HERE
+
+#### iOS and Android mobile app
+
+- LIST OF MOBILE APP BUGS GOES HERE
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2|XXX|
+|iOS mobile app|XXX|
+|Android mobile app|XXX|
+|Microsoft Dataverse solution|XXX|
+|Teams|XXX|
 
 ## April 2020
 
@@ -110,7 +193,25 @@ The April release includes the following new features.
 | [Capture session history through call recordings](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-remote-assist/capture-session-history-through-call-recordings)                                    | No                        |
 | [Share files between technicians and experts to improve collaboration](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-remote-assist/share-files-between-technicians-experts-improve-collaboration) | No                        |
 
+### Bug fixes
 
+#### HoloLens 2
+
+- LIST OF HOLOLENS BUGS GOES HERE
+
+#### iOS and Android mobile app
+
+- LIST OF MOBILE APP BUGS GOES HERE
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2|XXX|
+|iOS mobile app|XXX|
+|Android mobile app|XXX|
+|Microsoft Dataverse solution|XXX|
+|Teams|XXX|
 
 
 
