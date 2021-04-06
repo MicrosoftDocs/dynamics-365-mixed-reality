@@ -80,8 +80,6 @@ The April release includes the following new features.
 
 
 
-
-
 ## February 2021
 
 |Feature|Solution update required?|How to|
@@ -134,8 +132,6 @@ The April release includes the following new features.
 
 
 
-
-
 ## January 2021
 
 |Feature|Solution update required?|How to|
@@ -165,6 +161,55 @@ The April release includes the following new features.
 |Teams|XXX|
 
 
+
+# December 12, 2020
+
+| Feature                                                                                                                                                                                                                                     | Solution update required? |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| | |
+| | |
+| | |
+
+### Bug fixes
+
+#### iOS and Android mobile app
+
+- If you don’t have the Company Portal or the Microsoft Authenticator app installed, the app doesn’t crash when you sign in.
+
+- After tapping the Search button when searching for contacts, the “Start type to search text” doesn’t overlap with the recent list of contacts.
+
+- You can sign in with an MSA account.
+
+- The app is localized into 43 languages.
+
+- When you disconnect from a call by closing the app, you’re notified of subsequent calls.
+
+- The app is available in the Apple and Google Play app stores for all supported devices.
+
+- When you take a snapshot for the first time, the snapshot is saved to the camera roll and the video feed doesn’t freeze.
+
+- The Taskbar at the bottom of the screen is now visible on Android 10.
+
+- When you send a message in text chat, the keyboard is automatically closed.
+
+- Calls from Teams desktop to the app are connected and continue with no problems.
+
+- When using Teams on a tablet, annotations are normal size.
+
+- The Speaker button is only visible when there is more than one audio output source.
+
+- All buttons are responsive and can be tapped.
+
+- Fixed app crashes.
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2020.12.12|
+|Android mobile app|2019.12.09|
+|Microsoft Dataverse solution|XXX|
+|Teams|XXX|
 
 
 
@@ -239,8 +284,45 @@ The April release includes the following new features.
 |Teams|XXX|
 
 
- 
- 
+
+# October 31, 2020
+
+| Feature                                                                                                                                                                                                                                     | Solution update required? |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| | |
+| | |
+| | |
+
+### Bug fixes
+
+#### iOS and Android mobile app
+
+- The Screenshot button is removed from the toolbar. You can edit a screenshot by selecting the Snapshot and annotate button instead.
+
+- If there's a network disconnection, you’re automatically rejoined to the call when the network is restored. If there’s no network connection, the call is ended.
+
+- If you’re using a screen reader and access the tutorial page accessed from the Learn the Tools or Try It button, you can access the Arrow tool.
+
+- If you tap the Try It button on the Sign-in page, and then select the back button on your device, you return to the Sign-in page.
+
+- The end-user license agreement (EULA) link on the Sign-in page goes to the appropriate page (Android or iOS) based on your device.
+
+- On the tutorial page, the buttons now read: Restart Tutorial and Exit Practice.
+
+- If you’re using Dynamics 365 Field Service with Dynamics 365 Remote Assist, the Post to Dynamics 365 pop-up will disappear when you receive or accept a call, but will reappear after the call has ended.
+
+- The “NullReferenceException: Object reference not set to an instance of an object” error message does not appear when starting a call, whether system-generated logs are enabled or not.
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2020.10.31|
+|Android mobile app|2019.10.22|
+|Microsoft Dataverse solution|XXX|
+|Teams|XXX|
+
+
 
 ## October 2020
 
@@ -394,7 +476,6 @@ The April release includes the following new features.
 
 
 
-
 ## July 30, 2020
 
 | Feature                                                                                                                                                                                                                                     | Solution update required? |
@@ -433,8 +514,6 @@ The April release includes the following new features.
 |Android mobile app|2020.07.23|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
-
-
 
 
 
@@ -546,8 +625,6 @@ The April release includes the following new features.
 
 
 
-
-
 ## May 28 2020
 
 | Feature                                                                                                                                                                                                                                     | Solution update required? |
@@ -585,7 +662,6 @@ The April release includes the following new features.
 
 
 
-
 ## May 4 2020
 
 | Feature                                                                                                                                                                                                                                     | Solution update required? |
@@ -612,7 +688,6 @@ The April release includes the following new features.
 |Android mobile app|2020.05.04|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
-
 
 
 
@@ -680,8 +755,6 @@ The April release includes the following new features.
 
 
 
-
-
 ## Feburary 27,  2020
 
 | Feature                                                                                                                                                                                                                                     | Solution update required? |
@@ -716,98 +789,6 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.02.27|
 |Android mobile app|2020.02.20|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
-
-
-
-
-
-# December 12, 2020
-
-| Feature                                                                                                                                                                                                                                     | Solution update required? |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| | |
-| | |
-| | |
-
-### Bug fixes
-
-#### iOS and Android mobile app
-
-- If you don’t have the Company Portal or the Microsoft Authenticator app installed, the app doesn’t crash when you sign in.
-
-- After tapping the Search button when searching for contacts, the “Start type to search text” doesn’t overlap with the recent list of contacts.
-
-- You can sign in with an MSA account.
-
-- The app is localized into 43 languages.
-
-- When you disconnect from a call by closing the app, you’re notified of subsequent calls.
-
-- The app is available in the Apple and Google Play app stores for all supported devices.
-
-- When you take a snapshot for the first time, the snapshot is saved to the camera roll and the video feed doesn’t freeze.
-
-- The Taskbar at the bottom of the screen is now visible on Android 10.
-
-- When you send a message in text chat, the keyboard is automatically closed.
-
-- Calls from Teams desktop to the app are connected and continue with no problems.
-
-- When using Teams on a tablet, annotations are normal size.
-
-- The Speaker button is only visible when there is more than one audio output source.
-
-- All buttons are responsive and can be tapped.
-
-- Fixed app crashes.
-
-### Version info
-
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|iOS mobile app|2020.12.12|
-|Android mobile app|2019.12.09|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
-
-
-
-# October 31, 2020
-
-| Feature                                                                                                                                                                                                                                     | Solution update required? |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| | |
-| | |
-| | |
-
-### Bug fixes
-
-#### iOS and Android mobile app
-
-- The Screenshot button is removed from the toolbar. You can edit a screenshot by selecting the Snapshot and annotate button instead.
-
-- If there's a network disconnection, you’re automatically rejoined to the call when the network is restored. If there’s no network connection, the call is ended.
-
-- If you’re using a screen reader and access the tutorial page accessed from the Learn the Tools or Try It button, you can access the Arrow tool.
-
-- If you tap the Try It button on the Sign-in page, and then select the back button on your device, you return to the Sign-in page.
-
-- The end-user license agreement (EULA) link on the Sign-in page goes to the appropriate page (Android or iOS) based on your device.
-
-- On the tutorial page, the buttons now read: Restart Tutorial and Exit Practice.
-
-- If you’re using Dynamics 365 Field Service with Dynamics 365 Remote Assist, the Post to Dynamics 365 pop-up will disappear when you receive or accept a call, but will reappear after the call has ended.
-
-- The “NullReferenceException: Object reference not set to an instance of an object” error message does not appear when starting a call, whether system-generated logs are enabled or not.
-
-### Version info
-
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|iOS mobile app|2020.10.31|
-|Android mobile app|2019.10.22|
 |Microsoft Dataverse solution|XXX|
 |Teams|XXX|
 
