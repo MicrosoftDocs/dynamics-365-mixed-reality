@@ -43,7 +43,7 @@
 ### [Share files](mobile-app/file-sharing.md)
 ### [Capture asset conditions on Mobile](mobile-app/asset-capture-mobile.md)
 ### [Record calls](mobile-app/call-recording.md)
-### [Calls in low-bandwidth situations](mobile-app/poor-network-connectivity.md)
+### [Calls in low-bandwidth situations](mobile-app/low-bandwidth-mode.md)
 ### [Use Dynamics 365 Field Service](mobile-app/fs-integration.md)
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
