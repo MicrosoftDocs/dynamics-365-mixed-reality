@@ -63,6 +63,28 @@ The April release includes the following new features.
 | [Teams live events supported on HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/teams-live-events-supported-hololens)                                                                                                           | No                        |
 | [Enable customer or vendor to join one-time call](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/enable-customer-or-vendor-join-one-time-call)                                                                                           | No                        |
 
+### Bug fixes
+
+#### HoloLens 2
+
+- LIST OF HOLOLENS BUGS GOES HERE
+
+#### iOS and Android mobile app
+
+- LIST OF MOBILE APP BUGS GOES HERE
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2|XXX|
+|iOS mobile app|XXX|
+|Android mobile app|XXX|
+|Microsoft Dataverse solution|XXX|
+|Teams|XXX|
+
+
+
 ## October 2020
 
 | Feature                                                                                                                                                                                                                                                     | Solution update required? |
