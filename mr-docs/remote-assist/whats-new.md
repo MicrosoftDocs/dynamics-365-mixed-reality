@@ -23,11 +23,15 @@ For detailed version histories, see:
 
 ## April 1, 2021
 
+> [!IMPORTANT]
+> Dynamics 365 Remote Assist on HoloLens 1 has entered Long Term Servicing state. Future updates for HoloLens 1 will focus on issues and security fixes, while maintaining feature parity with the February 2021 release (version 302.2102.2003).
+
 The April release includes the following new features.
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
 |Support for low-bandwidth situations|No|- [HoloLens 2](hololens-low-bandwidth.md)<br><br>- [Mobile app](./mobile-app/low-bandwidth-mode.md)|
+|Support for recording Teams meetings|No||
 |Improvement to the Microsoft Dataverse Environment selection|Yes|- [Calls Dashboard](calls-dashboard.md)<br><br>- [One-time-calls](one-time-call.md)<br><br>- [Asset capture](asset-capture-overview.md)|
 |Instinctual interaction improvements on HoloLens 2|No||
 |Long Term Servicing for Dynamics 365 Remote Assist on HoloLens 1|No||
