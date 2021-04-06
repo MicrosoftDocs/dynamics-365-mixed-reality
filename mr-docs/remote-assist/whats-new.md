@@ -49,7 +49,7 @@ The April release includes the following new features.
 
 - Fix for deleting annotations placed before the recording was started. 
 
-= Fix for annotations when call is in “on hold” state. 
+- Fix for annotations when call is in “on hold” state. 
 
 - Fix for losing annotations for the collaborator when technicians are turning off the camera. 
 
