@@ -8,7 +8,7 @@ ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Installing Dynamics 365 Remote Assist model-driven app
+# Install Dynamics 365 Remote Assist model-driven app
 
 [!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
 
