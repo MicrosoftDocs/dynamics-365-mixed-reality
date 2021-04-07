@@ -2,7 +2,7 @@
 author: melissahellmund
 description: Learn how to use access teams to limit access to specific guides or guide content in Microsoft Dynamics 365 Guides.
 ms.author: mehellmu
-ms.date: 11/17/2020
+ms.date: 04/06/2021
 ms.service: crm-online
 ms.topic: article
 title: Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides
@@ -147,7 +147,7 @@ All users who have access to the Guides model-driven app can share the guides an
 
     ![Add a user](media/access-teams-25.PNG "Add a user")
 
-6. Make sure that the user has the **Read** privilege, and then select **Share**.
+6. Make sure that the user has the **Read** and **Append** privileges, and then select **Share**.
 
     ![Read privilege selected](media/access-teams-26.PNG "Read privilege selected")
 
