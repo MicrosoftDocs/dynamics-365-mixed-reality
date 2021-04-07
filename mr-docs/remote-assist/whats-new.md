@@ -28,7 +28,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2|303.2103.29002|
 |iOS mobile app|2021.4.1|
@@ -75,7 +75,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|302.2102.2003|
 |iOS mobile app|2021.2.10|
@@ -118,7 +118,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|301.2101.6001|
 |iOS mobile app|2021.1.8|
@@ -150,7 +150,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.12.12|
 |Android mobile app|2019.12.09|
@@ -190,7 +190,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|301.2012.9002|
 |iOS mobile app|2020.12.09|
@@ -245,7 +245,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.10.31|
 |Android mobile app|2019.10.22|
@@ -279,7 +279,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|300.2010.1002|
 |iOS mobile app|2020.10.1|
@@ -336,7 +336,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|211.2009.7002.0|
 |iOS mobile app|2020.9.1|
@@ -377,7 +377,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|211.2007.30002|
 
@@ -406,7 +406,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.7.30|
 |Android mobile app|2020.07.23|
@@ -441,7 +441,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|210.2007.1003.0|
 |iOS mobile app|2020.7.1|
@@ -493,7 +493,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2|209.2006.11003.0|
 
@@ -526,7 +526,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.5.28|
 |Android mobile app|2020.05.22|
@@ -559,7 +559,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.5.7|
 |Android mobile app|2020.05.04|
@@ -588,7 +588,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|208.2004.1002.0|
 |iOS mobile app|2020.4.1|
@@ -636,7 +636,7 @@ For detailed version histories, see:
 
 ### Version info
 
-|Device or software|Version|
+|Device |Version|
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.02.27|
 |Android mobile app|2020.02.20|
