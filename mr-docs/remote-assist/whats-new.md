@@ -26,6 +26,14 @@ For detailed version histories, see:
 > [!IMPORTANT]
 > Dynamics 365 Remote Assist on HoloLens 1 has entered Long Term Servicing state. Future updates for HoloLens 1 will focus on issues and security fixes, while maintaining feature parity with the February 2021 release (version 302.2102.2003).
 
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2|303.2103.29002|
+|iOS mobile app|2021.4.1|
+|Android mobile app|2021.4.1|
+
 The April release includes the following new features.
 
 |Feature|Solution update required?|How to|
@@ -59,17 +67,19 @@ The April release includes the following new features.
 - Fix for unnecessary Dynamics error showing up in the app. 
 - Fix for video freezing, end-call availability, and blocked annotations on iOS during a call. 
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 2|303.2103.29002|
-|iOS mobile app|2021.4.1|
-|Android mobile app|2021.4.1|
 
 
 
 ## February 2021
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|302.2102.2003|
+|iOS mobile app|2021.2.10|
+|Android mobile app|2021.2.10|
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -98,17 +108,19 @@ The April release includes the following new features.
 - Support for contact search with names written in non-Latin scripts, like Arabic, Hebrew, and more.
 - Stability improvements.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|302.2102.2003|
-|iOS mobile app|2021.2.10|
-|Android mobile app|2021.2.10|
 
 
 
 ## January 2021
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|301.2101.6001|
+|iOS mobile app|2021.1.8|
+|Android mobile app|2021.01.05|
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -126,17 +138,18 @@ The April release includes the following new features.
 
 - Important bug fixes and stability improvements.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|301.2101.6001|
-|iOS mobile app|2021.1.8|
-|Android mobile app|2021.01.05|
 
 
 
 # December 12, 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2020.12.12|
+|Android mobile app|2019.12.09|
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -163,16 +176,19 @@ The April release includes the following new features.
 - All buttons are responsive and can be tapped.
 - Fixed app crashes.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|iOS mobile app|2020.12.12|
-|Android mobile app|2019.12.09|
 
 
 
 ## December 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|301.2012.9002|
+|iOS mobile app|2020.12.09|
+|Android mobile app|2020.12.09|
 
 | Feature                                                                                                                                                                                                                                                                                 | Solution update required? |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -213,17 +229,18 @@ The April release includes the following new features.
 - UI improvements for post to work order scenario, one time call and contacts list.
 - Fix for a guest user name displayed in a one time call.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|301.2012.9002|
-|iOS mobile app|2020.12.09|
-|Android mobile app|2020.12.09|
 
 
 
 # October 31, 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2020.10.31|
+|Android mobile app|2019.10.22|
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -244,16 +261,19 @@ The April release includes the following new features.
 - If you’re using Dynamics 365 Field Service with Dynamics 365 Remote Assist, the Post to Dynamics 365 pop-up will disappear when you receive or accept a call, but will reappear after the call has ended.
 - The “NullReferenceException: Object reference not set to an instance of an object” error message does not appear when starting a call, whether system-generated logs are enabled or not.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|iOS mobile app|2020.10.31|
-|Android mobile app|2019.10.22|
 
 
 
 ## October 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|300.2010.1002|
+|iOS mobile app|2020.10.1|
+|Android mobile app|2020.10.03|
 
 | Feature                                                                                                                                                                                                                                                     | Solution update required? |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -296,17 +316,20 @@ The April release includes the following new features.
 - Improved support for Bluetooth headset on iPads and tablets.
 - Improved annotations toolbar visibility in Teams clients when in calls with mobile devices without augmented reality (AR) support.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|300.2010.1002|
-|iOS mobile app|2020.10.1|
-|Android mobile app|2020.10.03|
 
 
 
 ## September 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|211.2009.7002.0|
+|iOS mobile app|2020.9.1|
+|Android mobile app|2020.09.04|
+
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -333,17 +356,18 @@ The April release includes the following new features.
 - Adjustments for landscape screen orientation when in a call between two Dynamics 365 Remote Assist mobile users.
 - Fix for NullReferenceException showing up sometimes during inking and tutorial mode.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|211.2009.7002.0|
-|iOS mobile app|2020.9.1|
-|Android mobile app|2020.09.04|
 
 
 
 ## August 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|211.2007.30002|
+
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -361,15 +385,17 @@ The April release includes the following new features.
 - Fix for the Dynamics 365 Remote Assist video card appearing too close after the call has ended. 
 - Improved application reliability. 
 
-### Version info
-
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|211.2007.30002|
 
 
 
 ## July 30, 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2020.7.30|
+|Android mobile app|2020.07.23|
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -391,16 +417,19 @@ The April release includes the following new features.
 - Fix for memory issues caused by screen rotation.
 - Improved application memory usage.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|iOS mobile app|2020.7.30|
-|Android mobile app|2020.07.23|
 
 
 
 ## July 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|210.2007.1003.0|
+|iOS mobile app|2020.7.1|
+|Android mobile app|2020.06.27|
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -438,17 +467,18 @@ The April release includes the following new features.
 -	Fixes for application localization (for example “Retry sign-in” button, “Don’t show again” button and tracking error state messages).
 -	Performance improvements for the application memory usage.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|210.2007.1003.0|
-|iOS mobile app|2020.7.1|
-|Android mobile app|2020.06.27|
 
 
 
 ## June 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 2|209.2006.11003.0|
+
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -469,15 +499,19 @@ The April release includes the following new features.
 - Various fixes to enable users in Egypt to use Dynamics 365 Remote Assist.
 - Incoming calls are now supported for GCC High and DOD.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|HoloLens 2|209.2006.11003.0|
 
 
 
 ## May 28 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2020.5.28|
+|Android mobile app|2020.05.22|
+
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -497,16 +531,19 @@ The April release includes the following new features.
 -	Localization improvements.
 -	Accessibility improvements and fixes.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|iOS mobile app|2020.5.28|
-|Android mobile app|2020.05.22|
 
 
 
 ## May 4 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|iOS mobile app|2020.5.7|
+|Android mobile app|2020.05.04|
+
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -522,16 +559,20 @@ The April release includes the following new features.
 - Fix for sign-in problem for users on mobile networks.
 - Improved user feedback questionnaire experience.
 
-### Version info
 
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|iOS mobile app|2020.5.7|
-|Android mobile app|2020.05.04|
 
 
 
 ## April 2020
+
+### Version info
+
+|Device or software|Version|
+|------------------------------------------|---------------------------------------------|
+|HoloLens 1 and 2|208.2004.1002.0|
+|iOS mobile app|2020.4.1|
+|Android mobile app|2002.03.18|
+
 
 | Feature                                                                                                                                                                                                                                     | Solution update required? |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -566,16 +607,18 @@ The April release includes the following new features.
 - Fixed NullReferenceException showing up during app termination and in the contacts search page.
 - Fix for ArgumentOutOfRange exception showing up when typing text in the text chat.
 
+
+
+
+## Feburary 27,  2020
+
 ### Version info
 
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|208.2004.1002.0|
-|iOS mobile app|2020.4.1|
-|Android mobile app|2002.03.18|
+|iOS mobile app|2020.02.27|
+|Android mobile app|2020.02.20|
 
-
-## Feburary 27,  2020
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -596,12 +639,6 @@ The April release includes the following new features.
 - The correct year is shown when users’ mobile device is set to the future in Thai. 
 - Error message improvements.  
 
-### Version info
-
-|Device or software|Version|
-|------------------------------------------|---------------------------------------------|
-|iOS mobile app|2020.02.27|
-|Android mobile app|2020.02.20|
 
 
 
