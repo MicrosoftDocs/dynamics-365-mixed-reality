@@ -34,7 +34,7 @@ For detailed version histories, see:
 |iOS mobile app|2021.4.1|
 |Android mobile app|2021.4.1|
 
-The April release includes the following new features.
+### Features
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -81,6 +81,8 @@ The April release includes the following new features.
 |iOS mobile app|2021.2.10|
 |Android mobile app|2021.2.10|
 
+### Features
+
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
 |XXX|XXX|XXX|
@@ -122,6 +124,8 @@ The April release includes the following new features.
 |iOS mobile app|2021.1.8|
 |Android mobile app|2021.01.05|
 
+### Features
+
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
 |XXX|XXX|XXX|
@@ -150,6 +154,8 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.12.12|
 |Android mobile app|2019.12.09|
+
+### Features
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -189,6 +195,8 @@ The April release includes the following new features.
 |HoloLens 1 and 2|301.2012.9002|
 |iOS mobile app|2020.12.09|
 |Android mobile app|2020.12.09|
+
+### Features
 
 | Feature                                                                                                                                                                                                                                                                                 | Solution update required? |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -242,6 +250,8 @@ The April release includes the following new features.
 |iOS mobile app|2020.10.31|
 |Android mobile app|2019.10.22|
 
+### Features
+
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
 |XXX|XXX|XXX|
@@ -274,6 +284,8 @@ The April release includes the following new features.
 |HoloLens 1 and 2|300.2010.1002|
 |iOS mobile app|2020.10.1|
 |Android mobile app|2020.10.03|
+
+### Features
 
 | Feature                                                                                                                                                                                                                                                     | Solution update required? |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -330,6 +342,7 @@ The April release includes the following new features.
 |iOS mobile app|2020.9.1|
 |Android mobile app|2020.09.04|
 
+### Features
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -368,6 +381,7 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|211.2007.30002|
 
+### Features
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -396,6 +410,8 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.7.30|
 |Android mobile app|2020.07.23|
+
+### Features
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -430,6 +446,8 @@ The April release includes the following new features.
 |HoloLens 1 and 2|210.2007.1003.0|
 |iOS mobile app|2020.7.1|
 |Android mobile app|2020.06.27|
+
+### Features
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -479,6 +497,7 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2|209.2006.11003.0|
 
+### Features
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -512,6 +531,7 @@ The April release includes the following new features.
 |iOS mobile app|2020.5.28|
 |Android mobile app|2020.05.22|
 
+### Features
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -544,6 +564,7 @@ The April release includes the following new features.
 |iOS mobile app|2020.5.7|
 |Android mobile app|2020.05.04|
 
+### Features
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
@@ -573,6 +594,7 @@ The April release includes the following new features.
 |iOS mobile app|2020.4.1|
 |Android mobile app|2002.03.18|
 
+### Features
 
 | Feature                                                                                                                                                                                                                                     | Solution update required? |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -619,6 +641,7 @@ The April release includes the following new features.
 |iOS mobile app|2020.02.27|
 |Android mobile app|2020.02.20|
 
+### Features
 
 |Feature|Solution update required?|How to|
 |--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
