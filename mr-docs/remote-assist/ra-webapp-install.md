@@ -3,7 +3,7 @@ title: Set up an environment and install Dynamics 365 Remote Assist model-driven
 author: dhgoelmsft
 description: Set up an environment and install Dynamics 365 Remote Assist model-driven app to use CDS based features in Remote Assist, such as Calls Dashboard, One-time Calls, and Asset Capture.
 ms.author: dhgoel
-ms.date: 09/23/2020
+ms.date: 04/08/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -14,13 +14,11 @@ ms.reviewer: krbjoran
 
 ## Overview
 
-[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
-
-The Dynamics 365 Remote Assist model-driven app is built on Common Data Service and uses Common Data Model. This app is a companion to the Dynamics 365 Remote Assist apps for HoloLens, iOS, and Android, and enables new scenarios for managing data generated and consumed by Dynamics 365 Remote Assist.
+The Dynamics 365 Remote Assist model-driven app is built on the Microsoft Dataverse. This app is a companion to the Dynamics 365 Remote Assist apps for HoloLens, iOS, and Android, and enables new scenarios for managing data generated and consumed by Dynamics 365 Remote Assist.
 
 More information: [What are model-driven apps in Power Apps?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/model-driven-app-overview)
 
-Common Data Service (CDS) becomes the central location for customers to store their organization specific data. The Dynamics 365 Remote Assist client apps on HoloLens or Mobile can send and receive data to CDS, which can then be accessed via the model-driven app in a browser. This also allows other applications, such as Dynamics 365 Field Service, to share the same organizational data and drive further insights. You can even use [Power Automate to create flows that use Common Data Service](https://docs.microsoft.com/power-automate/common-data-model-intro) and make them available for third-party apps. The below high-level architecture diagram shows the various possible components of these scenarios. 
+Common Data Service (CDS) becomes the central location for customers to store their organization specific data. The Dynamics 365 Remote Assist client apps on HoloLens or Mobile can send and receive data to CDS, which can then be accessed via the model-driven app in a browser. This also allows other applications, such as Dynamics 365 Field Service, to share the same organizational data and drive further insights. You can even use [Power Automate to create flows that use Microsoft Dataverse](https://docs.microsoft.com/power-automate/common-data-model-intro) and make them available for third-party apps. The below high-level architecture diagram shows the various possible components of these scenarios. 
 :::image type="content" source="media/RA-CDS-Architecture-Diagram.png" alt-text="Architecture Diagram of a Remote Assist with CDS and companion apps" :::
 
 ## Prerequisites
@@ -29,7 +27,7 @@ To complete the installation steps, you need:
 
 - **A Dynamics 365 Remote Assist subscription** to create environments and install the app.
 - **The ability to manage environments in the Microsoft Power Platform admin center**. This tutorial covers creating Dynamics 365 environments and installing apps. Admin access is required (Dynamics 365 service admin, global admin, or Power Platform service admin).
-- **Available database capacity**. If you're creating a new environment for Dynamics 365 Remote Assist, you'll need at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide default tenant capacity. More information: [New Common Data Service storage capacity](https://docs.microsoft.com/power-platform/admin/capacity-storage)
+- **Available database capacity**. If you're creating a new environment for Dynamics 365 Remote Assist, you'll need at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide default tenant capacity. More information: [New Dataverse storage capacity](https://docs.microsoft.com/power-platform/admin/capacity-storage)
 
 > [!IMPORTANT]
 > 30-day trial subscriptions of Dynamics 365 Remote Assist can be used used to try the Remote assist model-driven app. Follow these instructions on how to create a **[subscription-based trial environment](https://docs.microsoft.com/power-platform/admin/trial-environments#create-a-trial-subscription-based-environment-in-the-power-platform-admin-center)**. The in-app 90 day virtual trial isn't compatible.
@@ -82,7 +80,7 @@ As new versions of the Dynamics 365 Remote Assist model-driven app are released,
 
 You've installed the Dynamics 365 Remote Assist app! You can get to the app by opening the environment and selecting the Dynamics 365 Remote Assist app or from [https://home.dynamics.com/](https://home.dynamics.com). More information: [About Unified Interface for model-driven apps in Power Apps](https://docs.microsoft.com/power-platform/admin/about-unified-interface)
 
-The next step is to add users to the model-driven app so they can interact with data in Common Data Service.
+The next step is to add users to the model-driven app so they can interact with data in the Dataverse.
 
 > [!div class="nextstepaction"]
 > [Add users to the model-driven app](./asset-capture-add-users.md)
@@ -99,7 +97,7 @@ If you aren't able to turn on the **Enable Dynamics 365 apps** toggle switch whe
 
 ### Not enough capacity to create environments
 
-Environment creation requires at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide a default tenant entitlement of 10 GB of database capacity (if Dynamics 365 Remote Assist was your first Dynamics 365 subscription). More information: [New Common Data Service storage capacity](https://docs.microsoft.com/power-platform/admin/capacity-storage)
+Environment creation requires at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide a default tenant entitlement of 10 GB of database capacity (if Dynamics 365 Remote Assist was your first Dynamics 365 subscription). More information: [New Dataverse storage capacity](https://docs.microsoft.com/power-platform/admin/capacity-storage)
 
 ### The Dynamics 365 Remote Assist app isn't showing up in the Power Platform admin center
 
