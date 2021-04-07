@@ -41,35 +41,22 @@ The April release includes the following new features.
 #### HoloLens 2
 
 - Fixed date format for Calls Dashboard. 
-
 - Addressed an issue where contact presence wasn't displayed in some instances.
-
 - Fixed a problem with setting permissions for a photo shared from HoloLens in a call chat with guest participants.
 
 #### iOS and Android mobile app
 
 - Fix for posting to work order files that were shared and not visible when in a call with Dynamics 365 Remote Assist users. 
-
 - Fix for video recording on devices that don't support H.265 HEVC. 
-
 - Fix for deleting annotations placed before the recording was started. 
-
 - Fix for annotations when call is in “on hold” state. 
-
 - Fix for losing annotations for the collaborator when technicians are turning off the camera. 
-
 - Fix for missing video recording link from the meeting. 
-
 - Fix for annotations toolbar being disabled in one-time-call and meetings. 
-
 - Fix for dates not being properly localized in the Calls dashboard. 
-
 - Improvement for text chat availability in calls with poor network connections. 
-
 - Improvement for annotation thickness after annotations are placed in close distance. 
-
 - Fix for unnecessary Dynamics error showing up in the app. 
-
 - Fix for video freezing, end-call availability, and blocked annotations on iOS during a call. 
 
 ### Version info
@@ -79,8 +66,6 @@ The April release includes the following new features.
 |HoloLens 2|303.2103.29002|
 |iOS mobile app|2021.4.1|
 |Android mobile app|2021.4.1|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -131,8 +116,6 @@ The April release includes the following new features.
 |HoloLens 1 and 2|302.2102.2003|
 |iOS mobile app|2021.2.10|
 |Android mobile app|2021.2.10|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -161,8 +144,6 @@ The April release includes the following new features.
 |HoloLens 1 and 2|301.2101.6001|
 |iOS mobile app|2021.1.8|
 |Android mobile app|2021.01.05|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -212,8 +193,6 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.12.12|
 |Android mobile app|2019.12.09|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -284,8 +263,6 @@ The April release includes the following new features.
 |HoloLens 1 and 2|301.2012.9002|
 |iOS mobile app|2020.12.09|
 |Android mobile app|2020.12.09|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -323,8 +300,6 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.10.31|
 |Android mobile app|2019.10.22|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -395,8 +370,6 @@ The April release includes the following new features.
 |HoloLens 1 and 2|300.2010.1002|
 |iOS mobile app|2020.10.1|
 |Android mobile app|2020.10.03|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -443,8 +416,6 @@ The April release includes the following new features.
 |HoloLens 1 and 2|211.2009.7002.0|
 |iOS mobile app|2020.9.1|
 |Android mobile app|2020.09.04|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -475,8 +446,6 @@ The April release includes the following new features.
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|211.2007.30002|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -516,8 +485,6 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.7.30|
 |Android mobile app|2020.07.23|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -586,8 +553,6 @@ The April release includes the following new features.
 |HoloLens 1 and 2|210.2007.1003.0|
 |iOS mobile app|2020.7.1|
 |Android mobile app|2020.06.27|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -624,8 +589,6 @@ The April release includes the following new features.
 |Device or software|Version|
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2|209.2006.11003.0|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -661,8 +624,6 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.5.28|
 |Android mobile app|2020.05.22|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -690,8 +651,6 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.5.7|
 |Android mobile app|2020.05.04|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
@@ -754,9 +713,6 @@ The April release includes the following new features.
 |HoloLens 1 and 2|208.2004.1002.0|
 |iOS mobile app|2020.4.1|
 |Android mobile app|2002.03.18|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
-
 
 
 ## Feburary 27,  2020
@@ -793,8 +749,6 @@ The April release includes the following new features.
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.02.27|
 |Android mobile app|2020.02.20|
-|Microsoft Dataverse solution|XXX|
-|Teams|XXX|
 
 
 
