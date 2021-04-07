@@ -1,10 +1,10 @@
 ---
 title: Show or hide layers in a 3D model in Dynamics 365 Product Visualize.
-description: Learn how to show or hide layers in a 3D model in Dynamics 365 Product Visualize.
+description: Learn how to show, hide, and select layers in a 3D model in Dynamics 365 Product Visualize.
 author: sbmjais
 ms.author: shjais
 manager: shujoshi
-ms.date: 02/26/2020
+ms.date: 06/12/2020
 ms.service: crm-online
 ms.topic: article
 ms.reviewer:
@@ -14,28 +14,28 @@ ms.reviewer:
 
 [!INCLUDE [cc-beta-prerelease-disclaimer](../includes/cc-beta-prerelease-disclaimer.md)]
 
-A single 3D model in Microsoft Dynamics 365 Product Visualize consists of one or more layers, which you can think of as categorized objects often grouped by function or location. A single layer can also act as a folder that includes other layers.
+A single 3D model in Dynamics 365 Product Visualize consists of one or more layers, which you can think of as categorized objects often grouped by function or location. A single layer can also act as a folder that includes other layers.
 
 > [!div class=mx-imgBorder]
 > ![Folder containing folders](media/nested-folder.png "Folder containing folders")
 
-You can create layers in a flattened or nested format by using CAD model design software tools. For more information about converting CAD models to use with Dynamics 365 Product Visualize, see [Convert your 3D (CAD) models with the Dynamics 365 Import Tool (Preview)](../import-tool/convert-models.md).
+You can create layers in a flattened or nested format by using CAD model design software tools. For more information about converting CAD models to use with Dynamics 365 Product Visualize, see [Convert your 3D (CAD) models](convert-models.md).
 
 ## Show or hide a layer
 
-1. After placing a model, tap **Layers** on the right side of the screen. 
+1. After placing a model, tap **Layers** at the bottom of the screen. 
 
    > [!div class=mx-imgBorder]
    > ![Select Layers](media/layers-tool.png "Select Layers")
 
-2. Tap the check box for the layer you want to show or hide. 
+2. Tap the check box for the layer you want to show or hide.
 
     > [!div class=mx-imgBorder]
     > ![Tap check box](media/show-hide-layers.png "Tap the check box")
-   
 
-**Some tips for working with layers**
-   
+
+## Some tips for working with layers
+
 - To expand or collapse a layer, tap the arrow button. 
 
     > [!div class=mx-imgBorder]
@@ -58,5 +58,8 @@ You can create layers in a flattened or nested format by using CAD model design 
 [Add a note to your 3D model](add-note.md)<br>
 [Explore sample 3D models](explore-samples.md)<br>
 [View 3D models stored on your device](browse-models.md)<br>
-[Add your own 3D model to an existing Dynamics 365 Sales product](add-model.md)<br>
-[Download 3D models to use offline](download-models.md)
+[Download 3D models to use offline](download-models.md)<br>
+[Enable product dimensions](product-dimensions.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

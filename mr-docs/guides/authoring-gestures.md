@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about HoloLens 1 gestures that you can use to author and navigate a guide in Microsoft Dynamics 365 Guides, such as gaze, bloom, and air tap.
 ms.author: Mamaylya
-ms.date: 01/28/2020
+ms.date: 12/08/2020
 ms.service: crm-online
 ms.topic: article
 title: HoloLens 1 gestures you can use to author and navigate a guide in Dynamics 365 Guides 
@@ -12,6 +12,9 @@ ms.reviewer: v-brycho
 # HoloLens 1 gestures for authoring and navigating in Dynamics 365 Guides 
 
 To author and navigate through a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you'll use gaze and a few gestures.
+
+> [!IMPORTANT]
+> In Dynamics 365 Guides version 502.2011.28001 (December 8, 2020 release) and later, HoloLens operating system version 10.0.17134 (Redstone 4) is no longer supported. This version of the operating system is used only on HoloLens 1. HoloLens 1 customers must upgrade to HoloLens version 10.0.17763 or later to continue to receive the latest updates. Work with your IT admin to update your HoloLens operating system. If you choose not to upgrade, you can continue to use the current version of Dynamics 365 Guides that is already installed on the device. However, HoloLens version 10.0.17763 or later is required to install Dynamics 365 Guides on any new or refactored HoloLens 1 device. 
 
 ## Gaze
 The easiest way to get around a guide is to gaze at an item (menu or button, for example). If the item has a selection box or circle (gaze/dwell button), you can select the item just by gazing at the button hit zone. The item is selected when the box or circle is filled. 
@@ -54,3 +57,6 @@ For a tutorial on some basic gestures, close [!include[pn-dyn-365-guides](../inc
 [Overview of authoring a guide](authoring-overview.md)<br>
 [Overview of operating a guide](operator-overview.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

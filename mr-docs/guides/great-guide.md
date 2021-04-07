@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about the do's and don'ts for a successful mixed reality guide created in Dynamics 365 Guides
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 08/25/2020
 ms.service: crm-online
 ms.topic: article
 title: How to make a good mixed reality guide in Dynamics 365 Guides
@@ -200,7 +200,7 @@ validation examples include:
 
 ## The dotted line (tether)
 
-- The main purpose of the dotted line is to spatially locate the operator where the work will take place.
+- The main purpose of the dotted line is to help the operator locate the place where the work happens.
 
 - Use the dotted line when:
 
@@ -212,17 +212,13 @@ validation examples include:
   
   –	Moving to a different area of a large piece of machinery (for example, greater than 2' away from the previous step).
   
-- Don't use the dotted line:
+  – When using the dotted line to point to something small (1–2 cm), add a 3D hologram (a zone or arrow, for example) at the end of the dotted line to point to the specific area.
 
-  – On every step. Using the dotted line to point to the same location over multiple steps can become visual clutter that distracts the operator from focusing on 3D holograms or the physical piece of machinery.
-  
-  – To point to a specific location (within 10 mm). Use the dotted line to orient the operator to a general area, and then place a 3D hologram (an arrow, for example) at the end of the dotted line to point to a more specific location.
-
-- Use the dotted line for "part pickup" in the following ways:
+– Use the dotted line for "part pickup" in the following ways:
 
   –	For the first time picking up a part, use the dotted line to show the operator where it is.
 
-  –	For the second time, or to put a tool back, you don't need to use the dotted line again (unless it's in a different location).
+  –	For the second time, or to put a tool back, you don't need to use the dotted line again (unless it's in a different location).  
 
 ## 2D images
 
@@ -508,3 +504,6 @@ Shoot videos from a third-person or first-person perspective.
 [Analyze your guides](analytics-guide.md)<br>
 [FAQ](faq.md)<br>
 [Known issues](known-issues.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

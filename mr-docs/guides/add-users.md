@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Add additional user accounts to a Microsoft Dynamics 365 Guides license.
 ms.author: mamaylya
-ms.date: 01/28/2020
+ms.date: 05/18/2020
 ms.service: crm-online
 ms.topic: article
 title: Add additional user accounts to Dynamics 365 Guides
@@ -11,9 +11,11 @@ ms.reviewer: v-brycho
 
 # Add additional user accounts to Dynamics 365 Guides
 
-To add additional users to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you must first assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to them in the Microsoft 365 admin center. Then, in the Power Platform admin center, configure the roles that the users will have access to (Author, Operator, or Admin).
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-## Add a user account
+To add additional users to [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you must first assign the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] license to a new or existing user in the Microsoft 365 admin center. Then, in the Power Platform admin center, configure the roles that the users will have access to (Author, Operator, or Admin).
+
+## Add a new user 
 
 1. Open the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).
 
@@ -54,6 +56,25 @@ To add additional users to [!include[cc-microsoft](../includes/cc-microsoft.md)]
 
 After you add user accounts, the next step is to assign the **Author**, **Operator**, or **Admin** user role for the solution. For more information, see [Assign user roles](assign-role.md).
 
+## Assign a Dynamics 365 Guides license to an existing user
+
+1. Open the [Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home). 
+
+2. In the left pane, select **Users**, and then select **Active users**. 
+
+3. Select the **More actions** (**...**) button for the user that you want to assign a license to, and then select **Manage product licenses**. 
+
+    ![Select Manage product licenses](media/select-manage-product-licenses.PNG "Select Manage product licenses")
+
+4. In the dialog box that appears, on the **Licenses and Apps** tab, select the **Dynamics 365 Guides** check box. Then, on the **Apps** FastTab, make sure that the **Common Data Service**, **Dynamics 365 Guides**, and **PowerApps for Guides** check boxes are selected. 
+
+    ![Verify check boxes](media/verify-check-boxes.PNG "Verify check boxes")
+
+5. Select **Save changes**.
+
 ## What's next?
 
 [Assign user roles](assign-role.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

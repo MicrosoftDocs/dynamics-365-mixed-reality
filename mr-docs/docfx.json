@@ -50,13 +50,14 @@
       "breadcrumb_path": "/dynamics365/mixed-reality/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/dynamics-365-mixed-reality"
+      "feedback_github_repo": "MicrosoftDocs/dynamics-365-mixed-reality",
+      "recommendations": "true"
     },
     "fileMetadata": {
-      "feedback_product_url": {	
-        "guides/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=4d46097d-3138-e911-a95b-000d3a4f3883&forumName=Dynamics%20365%20Guides",	
-        "layout/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=86453d40-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Layout",	
-        "remote-assist/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist"	
+      "feedback_product_url": {
+        "guides/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=4d46097d-3138-e911-a95b-000d3a4f3883&forumName=Dynamics%20365%20Guides",
+        "layout/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=86453d40-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Layout",
+        "remote-assist/**/*.md": "https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist"
       },
       "searchScope": {
         "**.*": [
@@ -72,7 +73,7 @@
           "Customer Engagement",
           "Remote Assist"
         ],
-        "licensing/**.*":[
+        "licensing/**.*": [
           "Dynamics 365",
           "Layout",
           "Remote Assist",

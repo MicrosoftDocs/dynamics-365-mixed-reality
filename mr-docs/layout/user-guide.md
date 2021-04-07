@@ -225,3 +225,6 @@ Switch hologram fading back on at any time by switching the setting back to **On
 ### See also
 [How-to videos](videos.md)<br/>
 [FAQ](faq.md)<br/>
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -160,8 +160,6 @@ On HoloLens 2, you can use either one hand or two hands to open the **Start** me
 
 2. With the hand that you're holding out, touch your index finger to your thumb in a pinching motion.
 
-    ![Open the Start menu with one hand](media/open-start-menu-one-hand.png "Open the Start menu with one hand")
-
 ### Open the Start menu with two hands
 
 1. Hold out one of your hands with the palm facing up, and look at your wrist. You should see a holographic Windows logo.
@@ -180,3 +178,6 @@ For a tutorial on some basic gestures, open the **Start** menu, and then select 
 [Calibrate your HoloLens 2 device](operator-calibrate-HL2.md)<br>
 [HoloLens 1 gestures for authoring and navigating a guide](authoring-gestures.md)<br>
 [HoloLens 1 gestures for operating (navigating) a guide](operator-gestures.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -1,7 +1,7 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides HoloLens app.
-ms.author: makamat
+ms.author: mamaylya
 ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
@@ -10,6 +10,12 @@ ms.reviewer: v-brycho
 ---
 
 # Known issues with the Dynamics 365 Guides HoloLens app
+
+## I can't open a non-English Example guide
+
+Some customers might have installed the Example guide that is included with Microsoft Dynamics 365 Guides in an existing instance. As of the April 28, 2020, release, the Example guide is obsolete and will no longer be installed in new instances. 
+
+As part of this change, you won't be able to open an existing non-English (localized) Example guide. If you try, you will be redirected to the **Guides** list.
 
 ## The account picker becomes unresponsive if you stay on it for more than 25 seconds during HoloLens sign-in 
 
@@ -90,3 +96,6 @@ If, at any point, you must readjust the offset, you can trigger the offset adjus
 [Known issues with Dynamics 365 Guides generally](known-issues.md)<br>
 [Known issues with the PC app](known-issues-pc-app.md)<br>
 [Dynamics 365 Guides FAQ](faq.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

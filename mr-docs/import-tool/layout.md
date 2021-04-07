@@ -1,12 +1,13 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: How to use Dynamics 365 Import Tool (Preview) to prepare 3D models to work with Dynamics 365 Layout
-ms.author: v-jerja
+ms.author: keno
 ms.date: 06/24/2019
 ms.service: crm-online
 ms.topic: article
 title: Use Dynamics 365 Import Tool (Preview) to prepare 3D models to work with Dynamics 365 Layout
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Work with Dynamics 365 Layout
@@ -107,3 +108,6 @@ If you used [!include[pn-dyn-365-import-tool](../includes/pn-dyn-365-import-tool
     
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -13,7 +13,7 @@ ms.reviewer: krbjoran
 
 You can now try Microsoft Dynamics 365 Remote Assist for free on your HoloLens 1, HoloLens 2 or mobile devices, including tablets. There are three free trials that you can try: The license-free 90-day trial is for **individuals** that want to quickly use the app. The 30-day trial is for **organizations** that want to provide licenses for up to 25 users. The 30-day Dynamics 365 Remote Assist Attach license is only for **Dynamics 365 Field Service customers** to integrate with our app and provide licenses for up to 25 users. Starting your free trial is nearly effortless! 
 
-In this topic, we’ll walk through the three ways you can get a Remote Assist trial: 
+In this topic, we’ll walk through the three ways you can get a Dynamics 365 Remote Assist trial: 
 - License-free 90-day trial for individuals
 - 30-day Dynamics 365 Remote Assist trial license (for up to 25 seats in an organization)
 - 30-day Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers only; for up to 25 seats in an organization)
@@ -43,11 +43,11 @@ With the license-free 90-day free trial, each individual user must download Dyna
 
 ## Prerequisites for a Dynamics 365 Remote Assist and Dynamics 365 Remote Assist Attach 30-day trial license (for up to 25 seats in an organization)
 
-- Your organization must have a Microsoft 365 or Office 365 [administrator](https://www.microsoft.com/microsoft-365/business/office-365-administration) account. Learn more about admin permissions [here](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
+- Your organization must have a Microsoft 365 or Microsoft 365 [administrator](https://www.microsoft.com/microsoft-365/business/office-365-administration) account. Learn more about admin permissions [here](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
 
 ## Option 2: 30-day trial license (for up to 25 seats in an organization)
 
-It Admins must acquire a 30-day trial license (for up to 25 seats in an organization) through the Microsoft 365 or Office 365 administrator portal. 
+It Admins must acquire a 30-day trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
 1.	Log into the M365 or O365 Administrator Portal using your organization’s admin account: https://www.microsoft.com/microsoft-365/business/office-365-administration
  
@@ -61,7 +61,7 @@ It Admins must acquire a 30-day trial license (for up to 25 seats in an organiza
  
 ## Option 3: 30-day Dynamics 365 Remote Assist Attach license (for Dynamics 365 Field Service customers only)
 
-If you are a Dynamics 365 Field Service customer, you can integrate Dynamics 365 Remote Assist with your application. It Admins must acquire a 30-day trial license (for up to 25 seats in an organization) through the Microsoft 365 or Office 365 administrator portal. 
+If you are a Dynamics 365 Field Service customer, you can integrate Dynamics 365 Remote Assist with your application. It Admins must acquire a 30-day trial license (for up to 25 seats in an organization) through the Microsoft 365 or Microsoft 365 administrator portal. 
 
 1.	Log into the M365 or O365 Administrator Portal using your organization’s admin account: https://www.microsoft.com/microsoft-365/business/office-365-administration
  
@@ -80,3 +80,6 @@ If you are a Dynamics 365 Field Service customer, you can integrate Dynamics 365
 ## Next steps
 - Buy Dynamics 365 Remote Assist licenses for HoloLens and Mobile [here](buy-remote-assist.md). 
 - Deploy Dynamics 365 Remote Assist licenses to individuals in your organization [here](deploy-remote-assist.md). 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

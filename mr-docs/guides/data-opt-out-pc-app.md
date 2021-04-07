@@ -11,6 +11,8 @@ ms.reviewer: v-brycho
 
 # Opt out of sending telemetry data to Microsoft in the Dynamics 365 Guides PC app
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 For privacy reasons, you can turn off the ability to send telemetry data to Microsoft when you use the Microsoft Dynamics 365 Guides PC app. Microsoft uses this data to improve the product. By opting out, you prevent Microsoft from collecting any data about your activity.
 
 To turn off telemetry data for the PC app, follow these steps.
@@ -27,3 +29,6 @@ To turn off telemetry data for the PC app, follow these steps.
 ## See also
 
 [Opt out of sending telemetry data in the HoloLens app](hololens-app-data-opt-out.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

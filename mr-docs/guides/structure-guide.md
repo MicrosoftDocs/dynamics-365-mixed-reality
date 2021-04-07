@@ -78,3 +78,6 @@ The following table describes the actions for working with tasks and steps.
 [Deactivate a guide](pc-app-deactivate-guide.md)<br>
 [Learn what makes a great mixed reality guide](great-guide.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -1,12 +1,13 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: Describes in tutorial form how to use the Blender open-source 3D creation suite to prepare 3D models for use in Dynamics 365 mixed-reality apps
-ms.author: v-jerja
+ms.author: keno
 ms.date: 10/22/2019
 ms.service: crm-online
 ms.topic: article
 title: Use Blender to prepare 3D models for use in Dynamics 365 mixed-reality apps
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Use Blender to prepare 3D models for use in Dynamics 365 mixed-reality apps
@@ -262,3 +263,6 @@ Microsoft Corporation is not responsible for, and expressly disclaims all liabil
 Read about license terms for Blender at: [Creative Commons Attribution ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/).
 
 The use in this document of trademarked names and images is strictly for informative and descriptive purposes, and no commercial claim to their use, or suggestion of sponsorship or endorsement, is made by Microsoft.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

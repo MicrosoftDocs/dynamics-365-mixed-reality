@@ -1,7 +1,7 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Learn about known issues with the Microsoft Dynamics 365 Guides PC app.
-ms.author: makamat
+ms.author: mamaylya
 ms.date: 04/01/2020
 ms.service: crm-online
 ms.topic: article
@@ -10,6 +10,12 @@ ms.reviewer: v-brycho
 ---
 
 # Known issues with the Dynamics 365 Guides PC app
+
+## I can't open a non-English Example guide
+
+Some customers might have installed the Example guide that is included with Microsoft Dynamics 365 Guides in an existing instance. As of the April 28, 2020, release, the Example guide is obsolete and will no longer be installed in new instances. 
+
+As part of this change, you won't be able to open an existing non-English (localized) Example guide. If you try, you will be redirected to the **Guides** list.
 
 ## I can't find the guide that I created
 
@@ -59,3 +65,6 @@ Some glTF files might have dependencies in other folders. During upload, if the 
 [Known issues with the HoloLens app](known-issues-hololens-app.md)<br>
 [Dynamics 365 Guides FAQ](faq.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

@@ -17,19 +17,18 @@ Empower technicians to solve problems faster by pairing Dynamics 365 Remote Assi
 
 With Field Service, technicians manage their assigned work orders, or the service work needed, and perform maintenance and inspections onsite at customer locations. With Remote Assist mobile, technicians, and inspectors can directly post essential call data and history to their Field Service work orders without opening their work order. 
 
-If your organization uses Dynamics 365 Field Service to manage field service work orders and bookings and has [set up Dynamics 365 integration](./mobile-app/fs-integration.md), you can view Field Service bookings from Dynamics 365 Remote Assist and call the collaborator listed in the **Resource** field. This allows you to do heads-up, hands-free calling through HoloLens in the context of a Dynamics 365 Field Service booking, and adds snapshots from the call to the booking.  
+If your organization uses Dynamics 365 Field Service to manage field service work orders and bookings and has [set up Dynamics 365 integration](./mobile-app/fs-integration.md), you can view Field Service bookings from Dynamics 365 Remote Assist and call the collaborator assigned to the booking. This allows you to do heads-up, hands-free calling through HoloLens in the context of a Field Service booking, add snapshots from the call to the booking, and add files shared during the call to the work order associated with that booking.
 
 ## View a Field Service booking and call an assigned resource
 
-1.  In the **Contacts** menu, select the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** icon to open the **Booking** pane. (Select the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** icon again to close the **Booking** pane.)  
+1.  From the **Call** tab, select the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** icon to open the **Booking** pane. (Select the **[!include[pn-dyn-365](../includes/pn-dyn-365.md)]** icon again to close the **Booking** pane.)  
       
-    The **Recent Contacts** screen will appear with a **Booking** pane to the
-    right.
+    The **Booking** pane will remain available on the right side of the window until you close it.
     
-    ![Screenshot of the active bookings panel that appears on HoloLens](media/RAHL_ViewBookings.PNG "ViewBookings")
+    ![Screenshot of the active bookings panel that appears on HoloLens](media/07.01-dynamics-booking.png "ViewBookings")
     
     > [!Note]
-    > Only bookings with the **In Progress** status are listed. When a booking is open, any Remote Assist call you make will be associated with that booking, even if you do not collaborate with the resource listed.
+    > Only bookings with the **In Progress** status are listed. When a booking is open, any Dynamics 365 Remote Assist call you make will be associated with that booking, even if you do not collaborate with the resource listed.
     
 2.  Now, you'll see booking details, including the **Work Order ID** and **Support Contact**. 
 
@@ -54,7 +53,7 @@ You may update your booking status.
     [!include[pn-power-bi](../includes/pn-power-bi.md)] desktop application.
     
     > [!NOTE]
-    > When you open a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard, [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. To return to Remote Assist, navigate to the Start menu and select the Remote Assist tile. 
+    > When you open a [!include[pn-power-bi](../includes/pn-power-bi.md)] dashboard, [!include[pn-dyn-365-remote-assist](../includes/pn-dyn-365-remote-assist.md)] closes. If you’re on a call with an expert, the expert will remain on the call. To return to Dynamics 365 Remote Assist, navigate to the Start menu and select the Dynamics 365 Remote Assist tile. 
     
 
 ## Modify the default booking view
@@ -62,3 +61,6 @@ You may update your booking status.
 To modify the default view of information in the **Booking** pane, [edit the view as
 you would any Dynamics 365 view](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-and-edit-views).
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

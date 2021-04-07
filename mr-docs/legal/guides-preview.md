@@ -87,7 +87,7 @@ or transfer the software or this agreement to any third party.
 
 **6. EXPORT RESTRICTIONS.** You must comply with all domestic and international export laws and regulations that apply to the software, 
 which include restrictions on destinations, end users, and end use. For further information on export restrictions, 
-visit [http://aka.ms/exporting](http://aka.ms/exporting). 
+visit [https://aka.ms/exporting](https://aka.ms/exporting). 
 
 **7. SUPPORT SERVICES.** Microsoft is not obligated under this agreement to provide any support services for the software. Any support 
 provided is “as is”, “with all faults”, and without warranty of any kind and Microsoft may cease providing support (if any) at any time,
@@ -190,3 +190,5 @@ lois de votre pays. Le présent contrat ne modifie pas les droits que vous conf�
 le permettent pas.** 
  
  
+
+

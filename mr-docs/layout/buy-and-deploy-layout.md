@@ -80,3 +80,6 @@ see the [Dynamics 365 Layout user guide](../layout/user-guide.md). Users will ne
 [Overview of Dynamics 365 Layout](../layout/index.md)<br/>
 [Dynamics 365 Layout user guide](../layout/user-guide.md)<br/>
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

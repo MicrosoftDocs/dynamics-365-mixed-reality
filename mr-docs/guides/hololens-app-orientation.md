@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Get oriented with the Microsoft Dynamics 365 Guides HoloLens app, and learn how to place holograms, add styles, and more.
 ms.author: mamaylya
-ms.date: 02/25/2020
+ms.date: 10/01/2020
 ms.service: crm-online
 ms.topic: article
 title: Place holograms, add styles, and more in the Dynamics 365 Guides HoloLens app
@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 After you anchor your guide in the [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] [!include[pn-hololens](../includes/pn-hololens.md)] app in **Author** mode, you will see the Step card page. The Step card is the hub of everything that you do with your guide. It's also what your operators see when they use the guide. The Step card follows the operators around to keep the instructions where they need them as they move around their workspace.
 
-You and your operators can move through a guide by gazing at the **Next Step** and **Go Back** arrows. You can also use gestures such as air tap.
+You and your operators can move through a guide by gazing at the **Next** and **Back** buttons. If you select the **Back** button, it returns you to the most-recently-visited step (similar to a web browser **Back** button). You can also use gestures such as air tap. 
 
 ![Moving through a guide](media/navigate-example.PNG "Moving through a guide")
 
@@ -33,17 +33,16 @@ Here's what each button or UI element is used for.
 | 1 | ![Save button](media/save-button.png "Save button") | Save | Save the guide. |
 | 2 | ![Undo button](media/undo-button.png "Undo button") | Undo | Undo the last change. You can undo up to 100 changes. |
 | 3 | ![Redo button](media/redo-button.png "Redo button") | Redo | Redo the last change. You can redo up to 100 changes. |
-| 4 | ![Home button](media/home-button.png "Home button") | Home | Select a different guide. |
-| 5 | ![Follow Mode button](media/follow-button.png "Follow Mode button") | Follow mode | Have the Step card follow you, or lock it to a location.<p>[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a feature that is called **Follow** mode. Wherever you look, the Step card follows your gaze. Therefore, you never have to worry where your instructions are. When you turn off **Follow** mode, the Step card stays where it is. You can move the Step card wherever you want at any time. Just grab it by using the navigation bar.</p> |
+| 4 | ![Home button](media/home-button.PNG "Home button") | Home | Select a different guide. |
+| 5 | ![Follow Mode button](media/follow-button.PNG "Follow Mode button") | Follow mode | Have the Step card follow you, or lock it to a location.<p>[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a feature that is called **Follow** mode. Wherever you look, the Step card follows your gaze. Therefore, you never have to worry where your instructions are. When you turn off **Follow** mode, the Step card stays where it is. You can move the Step card wherever you want at any time. Just grab it by using the navigation bar.</p> |
 | 6 | ![Anchor button](media/anchor-button.PNG "Anchor button") | Anchor | Re-anchor (realign) your guide.<p>[!include[pn-hololens](../includes/pn-hololens.md)] can sometimes lose tracking. To fix this issue, you must re-anchor the guide by gazing at the anchor again.</p> |
-| 7 | ![Settings button](media/settings-button.png "Settings button") | Settings | Access the following setting:<ul><li>**Build number**. See the build that you're using.</li></ul> |
-| 8 | ![Profile button](media/profile-button.png "Profile button") | Profile | Sign in and out. |
-| 9 | ![Step progress](media/step-progress.png "Step progress") | Step progress | See where you are in the step. |
-| 10 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide.</p> |
-| 11 | ![Task name](media/task-name-table.PNG "Task name") | Task name | See the name of the task. |
-| 12 | ![Task progress](media/task-progress.PNG "Task progress") | Task Progress | See where you are in the open task. |
-| 13 | ![Gem](media/gem.png "Gem") | Gem | By dragging the gem, you can create a dotted line to draw attention to a focus area. |
-| 14 | (See the green rectangular area in the illustration.) | Bin | See the 3D parts (models) that can be added for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (computer-aided design \[CAD\] drawings) that you import to mimic 3D parts in your operator's real-world environment. |
+| 7 | ![Settings button](media/settings-button.PNG "Settings button") | Settings | Access the following setting:<ul><li>**Build number**. See the build that you're using.</li></ul> |
+| 8 | ![Profile button](media/profile-button.PNG "Profile button") | Profile | Sign in and out. |
+| 9 | ![Outline button](media/outline-button.png "Outline button") | Outline | Go to the **Outline** page.<p>You can use the **Outline** page to quickly move around your guide.</p> |
+| 10 | ![Step counter](media/step-progress.PNG "Step progress") | Step counter | See what step you're on in the task. |
+| 11 | ![Task name](media/task-name-hololens-app.PNG "Task name") | Task name | The name of the task you're on. |
+| 12 | ![Gem button for dragging a dotted line](media/gem.png "Gem button for dragging a dotted line") | Gem | By dragging the gem, you can create a dotted line to draw attention to a focus area. |
+| 13 | (See the green rectangular area in the illustration.) | Bin | See the 3D parts (models) that can be added for the step. 3D parts include 3D objects from the 3D toolkit and any 3D models (computer-aided design \[CAD\] drawings) that you import to mimic 3D parts in your operator's real-world environment. |
 
 > [!NOTE]
 > Changes are automatically saved in the cloud as you author in [!include[pn-hololens](../includes/pn-hololens.md)]. Just be sure to select **Refresh** when you go back to the computer, to help guarantee that you have the latest version of the guide.
@@ -54,9 +53,9 @@ After you're oriented on [!include[pn-hololens](../includes/pn-hololens.md)], we
 
 ## Add a dotted line to link a Step card to a focus area
 
-You can add dotted lines (*tethers*) to link your Step cards to the areas where the work is done. These dotted lines show the operator where to focus.
+You can add a dotted line to link a Step card to the area where the work is done. Dotted lines are a very simple but powerful feature; they show operators where to focus.
 
-![Holographic dotted line](media/tether-example.png "Holographic dotted line")
+![Holographic dotted line](media/dotted-line.PNG "Holographic dotted line")
 
 ### Add a dotted line
 
@@ -95,9 +94,9 @@ You can place a 3D model from the 3D toolkit in the same way that you place a 3D
 
 1. Air tap an empty box in the bin.
 
-2. Air tap a category (for example, arrows or hands), and then air tap the specific 3D model that you want to add.
+2. Air tap a category (for example, **Arrows** or **Hands**), and then air tap the specific 3D model that you want to add.
 
-    ![Categories](media/step-card-hands.png "Categories")
+    ![Categories](media/step-card-hands.PNG "Categories")
 
     The item is added to your bin, and you can then place it in the same way that you place a 3D part.
 
@@ -182,15 +181,15 @@ You can use styles to provide visual cues for extra emphasis. For example, you c
 
 To add a style, follow these steps.
 
-1. Air tap a hologram that you've already placed in the real world to select it.
+1. Select a hologram that you've already placed in the real world to select it.
 
-2. Air tap the **Edit Hologram** (pencil) button.
+2. Select the **Edit Hologram** (pencil) button.
 
     ![Edit Hologram button](media/edit-hologram.png "Edit Hologram button")
 
-3. Air tap **Styles**.
+3. Select **Styles**.
 
-    ![Styles button](media/edit-styles.png "Styles button")
+    ![Styles button](media/edit-styles1.PNG "Styles button")
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Styles** and subsequent menu items directly with your finger. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
@@ -235,15 +234,50 @@ To duplicate a model, follow these steps.
 
 3. Select **Duplicate**.
 
-    ![Duplicate button](media/edit-duplicate.png "Duplicate button")
+    ![Duplicate button](media/edit-duplicates1.PNG "Duplicate button")
 
     > [!TIP]
     > On [!include[pn-hololens](../includes/pn-hololens.md)] 2, you can reach out and select **Duplicate** directly with your finger. For more information about how to manipulate holograms in HoloLens 2, see [Authoring and navigating gestures for HoloLens 2](authoring-gestures-HL2.md).
+    
+## Copy and paste a 3D model's position
+
+You might want to duplicate a 3D model and keep the same position, orientation, and scale for different steps of a guide. This is especially useful for fully digital guides for which instructions are placed on top of the holographic version of a machine, that must be present and identical on several steps. 
+
+To replicate the 3D position properties (position, orientation, and scale) of a 3D model:
+
+1. Select the hologram that has the position, orientation, and scale that you want to copy.
+
+2. Select the **Edit Hologram** (pencil) button.
+
+    ![Edit Hologram button](media/edit-hologram.png "Edit Hologram button")
+ 
+3. Select **Copy 3D position**. 
+ 
+    ![Copy 3D position command](media/copy-3D-position.PNG "Copy 3D position command")
+
+    > [!TIP]
+    > The 3D position parameters are copied to the Clipboard so you can paste them as many times as you want in the same or a different step or guide. The Clipboard is cleared when you close the HoloLens app.
+
+4. Select the target hologram.
+
+5. Select the **Edit Hologram** button again, and then select **Paste 3D position**.
+
+    ![Paste 3D position command](media/paste-3D-position.PNG "Paste 3D position command")
+ 
+> [!TIP]
+> You can also use voice commands (say **copy 3D position** and **paste 3D position**) at any time to speed up the process. [See a full list of voice commands that you can use in the HoloLens app](voice-commands.md).
+
+### Using Copy 3D position to reconstruct CAD assemblies
+
+The reference point used by **Copy 3D position** is the pivot point of the object, which might be different from the center of the transparent white-bounding sphere shown for selection and movement purposes. This enables you to rapidly reconstruct Computer-aided Design (CAD) assemblies that you import into Dynamics 365 Guides as separate models and that share the same pivot point. After importing, position, orient, and scale one of the assembly models, and then copy/paste the 3D position onto the other assembly models to reconstruct the whole CAD assembly very quickly. 
 
 ## Turn off animations
 
 If you're using animated 3D models in your guide, you can turn off animation if you plan to show a model with the animation in one step but without the animation in another step. This option is available from the **Edit** menu when you select the model.
 
-![Animation option turned off](media/edit-animations.png "Animation option turned off")
+![Animation option turned off](media/edit-animations1.PNG "Animation option turned off")
 
 You can also use this option when you place animated models in space. Turn animation off, place the model, and then turn animation back on. In this way, the animation won't interfere with your ability to place the model.
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

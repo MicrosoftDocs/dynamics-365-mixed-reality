@@ -1,8 +1,8 @@
 ---
-author: BryceHo
+author: Mamaylya
 description: Known Issues with Dynamics 365 Guides
-ms.author: makamat
-ms.date: 02/25/2020
+ms.author: mamaylya
+ms.date: 05/18/2020
 ms.service: crm-online
 ms.topic: article
 title: Known Issues with Dynamics 365 Guides
@@ -10,6 +10,12 @@ ms.reviewer: v-brycho
 ---
 
 # Known issues with Microsoft Dynamics 365 Guides
+
+## I can't install or upgrade the Dynamics 365 Guides solution
+
+To install or upgrade the Dynamics 365 Guides solution, you must have admin permissions for Dynamics 365 Guides. You must also have a [Dynamics 365 Guides license assigned to your user account](add-users.md#assign-a-dynamics-365-guides-license-to-an-existing-user).
+
+[Learn more about updating the Dynamics 365 Guides solution](upgrade.md).
 
 ## I can't sign in
 
@@ -56,3 +62,6 @@ Please contact customer service: [https://docs.microsoft.com/dynamics365/get-sta
 [Known issues with the HoloLens app](known-issues-hololens-app.md)<br>
 [Dynamics 365 Guides FAQ](faq.md)
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

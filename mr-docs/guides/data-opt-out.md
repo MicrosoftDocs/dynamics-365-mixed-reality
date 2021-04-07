@@ -1,15 +1,17 @@
 ---
-author: Makamat
-description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage data in Common Data Service, for privacy reasons.
-ms.author: makamat
-ms.date: 01/28/2020
+author: Mamaylya
+description: Learn how to opt out of storing Microsoft Dynamics 365 Guides usage data in Microsoft Dataverse, for privacy reasons.
+ms.author: mamaylya
+ms.date: 02/03/2021
 ms.service: crm-online
 ms.topic: article
-title: Opt out of storing Dynamics 365 Guides usage data in Common Data Service
+title: Opt out of storing Dynamics 365 Guides usage data in Microsoft Dataverse
 ms.reviewer: v-brycho
 ---
 
-# Opt out of storing Dynamics 365 Guides usage data in Common Data Service
+# Opt out of storing Dynamics 365 Guides operations data in Microsoft Dataverse
+
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
 Dynamics 365 Guides apps enable teams to capture usage statistics and detailed time-tracking information. This data is used to 
 provide metrics for operator performance and help you identify opportunities for process optimization. Administrators can turn off 
@@ -21,9 +23,12 @@ To do this:
 
 2.	In the tenant/instance drop-down, select the instance that has Dynamics 365 Guides installed.
 
-3.	Select the Guides app in the list. This opens a new tab for the Guides portal.
+3.	Select the **Guides** app in the list. A new tab for the Guides model-driven app is opened.
 
-4.	In the left navigation, go to **User Settings.**
+    > [!NOTE]
+    > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
+
+4.	In the left navigation, go to **User Settings**.
 
     ![User Settings](media/data-opt-out-user-setting.PNG "User Settings")
  
@@ -45,4 +50,7 @@ To do this:
  
 ## See also
 
-[Analyze guides usage](analytics-guide.md)
+[Overview of analyzing and integrating Dynamics 365 Guides operations data](analytics-overview.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

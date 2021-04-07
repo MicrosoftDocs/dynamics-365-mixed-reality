@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Create steps and add 3D content or media to support those steps in the Microsoft Dynamics 365 Guides PC app.
 ms.author: mamaylya
-ms.date: 04/01/2020
+ms.date: 04/01/2021
 ms.service: crm-online
 ms.topic: article
 title: Create steps and add 3D models or media in the Dynamics 365 Guides PC app
@@ -27,7 +27,7 @@ You open the **Step Editor** page from the **Outline** page.
 
     ![Step Editor](media/step-editor.PNG "Step Editor")
 
-3. When you're ready to add another step, select **Add new step** in the upper-right corner of the page.
+3. When you're ready to add another step, select **Add step** in the upper-right corner of the page.
 
 ### Best practices for instructional text and supporting content
 
@@ -39,7 +39,7 @@ You open the **Step Editor** page from the **Outline** page.
 
 - **NOTE** steps are useful for quality checks. This type of step can come before or after another step. Just be sure to add it in the right place.
 
-- Add a **WARNING** step for things that could be dangerous or cause a quality issue. To reinforce the warning, you can [add a style in the HoloLens app](create-steps-assign-media.md).
+- Add a **WARNING** step for things that could be dangerous or cause a quality issue. To reinforce the warning, you can [add a style in the HoloLens app](hololens-app-orientation.md#add-styles-for-emphasis).
 
 - Sub-steps inside a step can be helpful, but don't be afraid to create separate steps for easier reading.
 
@@ -100,6 +100,8 @@ To add a model from the 3D toolkit, follow these steps.
 
 - Use one of the hand poses when you want the operator to use his or her hand in a specific way to influence or manipulate something. There are various poses for specific interactions, such as Pull, Push, Pinch, and Grab. Combine these standard poses with arrows and/or icons to add additional meaning.
 
+- You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**.
+
 For more information about ways to use objects from the 3D toolkit, see [Create a great guide](great-guide.md).
 
 ## Add a 3D part
@@ -140,11 +142,11 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 > [!NOTE]
 > You can use a combination of third-party tools to prepare your 3D (computer-aided design \[CAD\]) models. For more information, see these topics:
 >
-> - [Optimize your 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/optimize-models)
+> - [Optimize your 3D models](3d-content-guidelines/optimize-models.md)
 >
-> - [Best practices for 3D models](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/best-practices)
+> - [Best practices for 3D models](3d-content-guidelines/best-practices.md)
 >
-> - [Tutorials overview](https://docs.microsoft.com/dynamics365/mixed-reality/import-tool/tutorials-overview)
+> - [Tutorials overview](3d-content-guidelines/tutorials-overview.md)
 
 ## Add media (images or videos)
 
@@ -152,9 +154,12 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
     ![Images and Videos tabs](media/select-image-video.PNG "Images and Videos tabs")
 
-2. Drag the image or video to the **Image or video** box.
+2. Drag the image or video to the **Media panel** box.
 
     ![Dragging an image or video to the Image or video box](media/drag-image-video.PNG "Dragging an image or video to the Image or video box")
+    
+> [!NOTE]
+> You can preview the image or video on the right side of the screen by selecting it (click or double-click) in the **Library**. 
 
 ## What file formats are supported for 3D models, images, and videos?
 
@@ -162,9 +167,30 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 
 | Media | Supported formats | Best practice |
 |-------|-------------------|---------------|
-| 3D models | FBX, GLB, glTF, STL, PLY | Optimize your 3D models as much as possible, to help maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see [Convert CAD drawings to use as holograms](import-tool.md). |
+| 3D models | FBX, GLB, glTF, STL, PLY | Optimize your 3D models as much as possible, to help maintain optimal performance on [!include[pn-hololens](../includes/pn-hololens.md)]. For more information, see [Convert CAD drawings to use as holograms](author-convert-3D-models.md). |
 | Images | PNG, JPG, JPEG, BMP, GIF, TIF | |
 | Video/audio | MP4, MOV, WMV, ASF, AVI M2TS, MKV, WAV | Keep your videos less than two minutes long and focused on one step at a time. |
+
+> [!IMPORTANT]
+> - **The file size limit is 128 MB. Transcoding may occur when uploading. This may change the size of the file that needs to be stored.**
+> - The supported video format and resolution is 854 x 480 H.264 MP4 (commonly called Advanced Video Recording or "AVC"). Any other formats are transcoded when imported and may result in a larger file size than the original.
+> - Dynamics 365 Guides uses meters as the default scale unit. If your 3D model scale is set to millimeters when you export from your CAD solution, the model will be converted to meters in Dynamics 365 Guides. For example, if your model is 50 millimeters, it will be converted to 50 meters. To ensure size consistency between your CAD solution and Dynamics 365 Guides, make sure to set your model scale unit to meters when you  export. 
+
+## Preview an image, video, or 3D model and view its properties
+
+You can preview an image, video, or 3D model on the right side of the PC app and access the **Step Editor** at the same time. 
+
+- Select (click or double-click) the image, video, or 3D model in the **Library**.
+
+    ![Properties tab for previewing image, video, or 3D model](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
+    
+    The image and its properties are displayed on the right side of the screen.   
+    
+## Deactivate a guide or specific guide content
+
+You can deactivate a guide or specific guide content (video, image, or 3D part) if you no longer need it. For more information, see [Deactivate a guide or specific guide content](pc-app-deactivate-guide.md). 
+
+If you're an admin, you can reactivate content, if needed. As an admin, you can also deactivate or permanently delete a guide or guide content. For more information on deactivating, deleting, or reactivating a guide or guide content as an admin, see [Deactivate, reactivate, or delete a guide or guide content](admin-deactivate-guide.md).
 
 ## What's next?
 
@@ -173,5 +199,9 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)<br>
 [Create and copy a link to a guide or step](pc-app-copy-link-guide-step.md)<br>
 [Learn about keyboard shortcuts](keyboard-shortcuts-pc-app.md)<br>
-[Deactivate a guide](pc-app-deactivate-guide.md)<br>
+[Deactivate a guide or guide content (authors)](pc-app-deactivate-guide.md)<br>
+[Deactivate, delete, or reactivate a guide or guide content (admins)](admin-deactivate-guide.md)<br>
 [Learn what makes a great mixed reality guide](great-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

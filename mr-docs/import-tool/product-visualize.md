@@ -1,12 +1,13 @@
 ---
-author: JBrentJ
+author: keno-msft
 description: How to prepare CAD files for use with Dynamics 365 Product Visualize
-ms.author: v-jerja
+ms.author: keno
 ms.date: 03/20/2020
 ms.service: crm-online
 ms.topic: article
 title: Prepare CAD files for Dynamics 365 Product Visualize
 ms.reviewer: v-brycho
+robots: noindex, nofollow
 ---
 
 # Work with Dynamics 365 Product Visualize
@@ -59,3 +60,6 @@ There are two ways to prepare CAD files to work with Dynamics 365 Product Visual
 
 
 
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]

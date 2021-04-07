@@ -13,9 +13,9 @@ ms.reviewer: v-brycho
  
 If you're ready to start creating a guide with [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you're in the right place! 
 
-To create a guide, you use two applications:
+To create a guide, you use two apps:
 
-- **PC application.** You start with the PC application. Use this application to create the guide, choose an anchoring method, 
+- **PC app.** You start with the PC application. Use this application to create the guide, choose an anchoring method, 
 add tasks and steps, write the instructions for your steps, and assign different types of assets to support those steps. 
 Supporting assets include:
 
@@ -25,9 +25,12 @@ Supporting assets include:
 
     - 2D media (images and videos)
 
-- **[!include[pn-hololens](../includes/pn-hololens.md)] application in Author mode.** After creating the guide with the PC application, use the [!include[pn-hololens](../includes/pn-hololens.md)] application in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles for 3D objects (warning or caution, for example).
+- **[!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode.** After creating the guide with the PC app, use the [!include[pn-hololens](../includes/pn-hololens.md)] app in Author mode to test the flow of your guide, place your holograms in the real world, add holographic dotted lines to show operators where to focus, and add styles for 3D objects (warning or caution, for example).
 
     ![Authoring overview](media/authoring-overview.PNG "Authoring overview")
+    
+> [!TIP]
+> You can use both apps to edit the same guide simultaneously for the fastest workflow. Create the structure and text in the PC app, do the 3D placement in the HoloLens app, and then work back and forth until you have your guide just the way you want it.  
 
 Ready to jump in? Choose one or more of these links to get underway:
 
@@ -37,3 +40,6 @@ Ready to jump in? Choose one or more of these links to get underway:
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Overview of authoring a guide with the HoloLens app](hololens-app-overview.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [Gestures for authoring and navigating](authoring-gestures.md)
 - ![Doc graphic](media/doc-icon.PNG "Doc graphic") [How to make a great guide](great-guide.md)
+
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
