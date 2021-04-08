@@ -130,7 +130,7 @@ For detailed version histories, see:
 
 
 
-# December 12, 2020
+## December 12, 2020
 
 ### Version info
 
@@ -205,7 +205,7 @@ For detailed version histories, see:
 
 
 
-# October 31, 2020
+## October 31, 2020
 
 ### Version info
 
