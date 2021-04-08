@@ -92,4 +92,9 @@ To turn on the Narrator for incoming calls:
 
 ## Gestures
 
-As of the April 1, 2021 release, on HoloLens 2, you can resize windows by using two-handed far-field interaction gestures.
+The April 2021 release of Dynamics 365 Remote Assist improved gestures on HoloLens 2 to make them more instinctual:
+
+- Improved audio and visual cues make it easier to grab, move, and resize windows, whether you’re directly manipulating windows up close or manipulating them from a distance with hand rays.
+
+- Improvements to the near finger cursor make it easier to grab windows and select buttons. 
+
