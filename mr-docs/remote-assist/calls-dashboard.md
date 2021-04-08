@@ -1,6 +1,6 @@
 ---
 title: Learn more about the Microsoft Dynamics 365 Remote Assist Calls Dashboard
-author: amaranigbo
+author: BryceHolmes
 description: Overview, enablement and feature details for the Microsoft Dynamics 365 Remote Assist Calls Dashboard
 ms.author: soanigbo
 ms.date: 04/08/2021
