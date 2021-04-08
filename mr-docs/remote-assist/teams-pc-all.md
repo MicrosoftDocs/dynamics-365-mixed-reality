@@ -374,3 +374,4 @@ You can also attach a OneDrive or local file through the Teams chat **Attach fil
 
 If you encounter an issue that's blocking you from using the application, [file a support ticket](https://support.microsoft.com/hub/4338666/hololens-help). Microsoft support will work with you until the issue is resolved.
 
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
