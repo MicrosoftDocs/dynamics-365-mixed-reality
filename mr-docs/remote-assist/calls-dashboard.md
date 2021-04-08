@@ -99,3 +99,4 @@ Let's take a look at the information that's provided by each of the visuals in t
 
 * The Calls Dashboard uses storage capacity in the Microsoft Dataverse. If this increase in capacity consumption causes issues or concerns, contact Microsoft Support.
 
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
