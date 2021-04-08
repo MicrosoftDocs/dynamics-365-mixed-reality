@@ -71,9 +71,7 @@
 
 ## Additional resources
 ### [Government Community Cloud (GCC)](remote-assist-government-community-cloud.md)
-### Version history
-#### [HoloLens](version-history-remote-assist-hololens.md)
-#### [Mobile app](version-history-remote-assist-mobile.md)
+### [Version history](version-history.md)
 
 ### Metadata references
 #### [Dynamics 365 Remote Assist solution](remote-assist-solution.md)
