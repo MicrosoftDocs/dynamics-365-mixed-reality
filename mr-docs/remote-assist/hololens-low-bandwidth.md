@@ -59,3 +59,6 @@ Let's take a quick look at what happens in a field scenario when a technician en
 
 > [!NOTE]
 > The low-bandwidth feature is not supported in group calling scenarios. 
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
+
