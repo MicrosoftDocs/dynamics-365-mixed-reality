@@ -97,3 +97,5 @@ The April 2021 release of Dynamics 365 Remote Assist improved gestures on HoloLe
 - Improved audio and visual cues make it easier to grab, move, and resize windows, whether you’re directly manipulating windows up close or manipulating them from a distance with hand rays.
 
 - Improvements to the near finger cursor make it easier to grab windows and select buttons. 
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
