@@ -54,7 +54,7 @@ HAVE THE RIGHTS BELOW. BY USING THE SOFTWARE, YOU ACCEPT THESE TERMS.
 >   maintain a prominent privacy policy that accurately informs users about how
 >   you use, collect, and share their data. You can learn more about Microsoft’s
 >   data collection and use in the product documentation and the Microsoft
->   Privacy Statement at <http://go.microsoft.com/fwlink/?LinkID=521839>. You
+>   Privacy Statement at <https://go.microsoft.com/fwlink/?LinkID=521839>. You
 >   agree to comply with all applicable provisions of the Microsoft Privacy
 >   Statement.
 >
@@ -97,7 +97,7 @@ OR (ii) DECODE AVC, VC-1, AND MPEG-4 PART 2 VIDEO THAT WAS ENCODED BY A CONSUMER
 ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY OR WAS OBTAINED FROM A VIDEO
 PROVIDER LICENSED TO PROVIDE SUCH VIDEO. NO LICENSE IS GRANTED OR SHALL BE
 IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION MAY BE OBTAINED FROM MPEG LA,
-L.L.C. SEE <http://aka.ms/mpegla>.
+L.L.C. SEE <https://aka.ms/mpegla>.
 
 **6. DOCUMENTATION.** You may copy and use the documentation for your internal,
 reference purposes.
@@ -105,7 +105,7 @@ reference purposes.
 **7. EXPORT RESTRICTIONS.** You must comply with all domestic and international
 export laws and regulations that apply to the software, which include
 restrictions on destinations, end users, and end use. For further information on
-export restrictions, visit <http://aka.ms/exporting>.
+export restrictions, visit <https://aka.ms/exporting>.
 
 **8. SUPPORT SERVICES.** Microsoft is not obligated under this agreement to
 provide any support services for the software. Any support provided is “as is”,
