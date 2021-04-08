@@ -1,15 +1,15 @@
 ---
 author: amaranigbo
-description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
+description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist on Microsoft HoloLens.
 ms.author: soanigbo
-ms.date: 04/05/2021
+ms.date: 04/08/2021
 ms.service: crm-online
 ms.topic: article
-title: Dynamics 365 Remote Assist frequently asked questions
+title: Dynamics 365 Remote Assist HoloLens frequently asked questions
 ms.reviewer: v-bholmes
 ---
 
-# Frequently asked questions for Dynamics 365 Remote Assist HoloLens
+# Frequently asked questions about Dynamics 365 Remote Assist HoloLens
 
 Here are some answers to common questions about using Dynamics 365 Remote Assist on HoloLens and HoloLens 2. In general, you can request help using our [Dynamics 365 Remote Assist Community Forum](https://community.dynamics.com/365/remoteassist). And if you'd like to suggest an idea or vote for future ideas, try our [Dynamics 365 Remote Assist Ideas Portal](https://experience.dynamics.com/ideas/categories/?forum=4323c621-52bc-e811-a975-000d3a1bec70&forumName=Dynamics%20365%20Remote%20Assist). 
 
