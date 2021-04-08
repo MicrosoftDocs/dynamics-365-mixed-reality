@@ -41,7 +41,7 @@ For detailed version histories, see:
 |Support for low-bandwidth situations|- [HoloLens 2](hololens-low-bandwidth.md)<br><br>- [Mobile app](./mobile-app/low-bandwidth-mode.md)|
 |Support for recording Teams meetings||
 |Improvement to the Microsoft Dataverse Environment selection||
-|Instinctual interaction improvements on HoloLens 2||
+|Instinctual interaction improvements on HoloLens 2|[HoloLens voice commands and gestures](voice-commands-hololens.md#gestures)|
 |Long Term Servicing for Dynamics 365 Remote Assist on HoloLens 1||
 
 ### Bug fixes
