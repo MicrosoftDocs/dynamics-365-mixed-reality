@@ -1,6 +1,6 @@
 ---
 title: Use Dynamics 365 Remote Assist mobile in low-bandwidth situations
-author: amaranigbo
+author: BryceHolmes
 description: Learn how the Microsoft Dynamics 365 Remote Assist mobile app works in environments with poor network conditions. 
 ms.author: soanigbo
 ms.date: 04/08/2021
