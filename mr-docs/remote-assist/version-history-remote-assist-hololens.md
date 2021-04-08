@@ -2,7 +2,6 @@
 title: "Dynamics 365 Remote Assist HoloLens version history | MicrosoftDocs"
 description: Version history for Dynamics 365 Remote Assist HoloLens
 ms.date: 04/01/2021
-ms.reviewer: krbjoran
 ms.service: crm-online
 author: sophiasysun
 ms.author: sopsun
