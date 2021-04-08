@@ -1,12 +1,12 @@
 ---
-author: sophiasysun
+author: amaranigbo
 description: Answers to common questions about using Microsoft Dynamics 365 Remote Assist.
-ms.author: sopsun
-ms.date: 04/01/2020
+ms.author: soanigbo
+ms.date: 04/05/2021
 ms.service: crm-online
 ms.topic: article
 title: Dynamics 365 Remote Assist frequently asked questions
-ms.reviewer: krbjoran
+ms.reviewer: v-bholmes
 ---
 
 # Frequently asked questions for Dynamics 365 Remote Assist HoloLens
@@ -16,6 +16,7 @@ Here are some answers to common questions about using Dynamics 365 Remote Assist
 ## How can I tell what version I'm using?
 
 In Remote Assist HoloLens, go to the **Settings tab**, and then find the version number in the bottom left of the **Settings** page.
+
 ![Version number](media/hl-version-number.png "Version number")
 
 ## How can I use the newest version of Dynamics 365 Remote Assist?
@@ -32,15 +33,15 @@ Dynamics 365 Remote Assist on HoloLens 2 is available in the [following language
 
 This can happen if you’re signed in to Dynamics 365 Remote Assist with a different account than the one you used to sign in to your HoloLens. Make sure you’re signed into both the app and the device with the same account. 
 
-## I see a message saying I have no internet connection.
+## I see a message saying I have no internet connection
 
 To use Dynamics 365 Remote Assist, you need an internet connection. For more information about connecting to the internet on your HoloLens, visit [this support article](https://support.microsoft.com/help/12629).
 
-## Dynamics 365 Remote Assist is frozen or unresponsive.
+## Dynamics 365 Remote Assist is frozen or unresponsive
 
 Try closing and reopening Dynamics 365 Remote Assist. If you’re still having problems, [restart your HoloLens](https://support.microsoft.com/help/12642).
 
-## Dynamics 365 Remote Assist isn't showing my contacts.
+## Dynamics 365 Remote Assist isn't showing my contacts
 
 If you don’t see the contacts you expect, try the following actions:
 
@@ -50,7 +51,7 @@ If you don’t see the contacts you expect, try the following actions:
 
 - [Restart your HoloLens](https://support.microsoft.com/help/12642).
 
-## The Mixed Reality toolbar doesn’t appear on the Teams desktop application during a Dynamics 365 Remote Assist call.
+## The Mixed Reality toolbar doesn’t appear on the Teams desktop application during a Dynamics 365 Remote Assist call
 
 This might happen if Teams has downloaded a new version of the client application in the background but is still running the older version of the app. Restarting your PC will usually fix this issue. This also might happen if the Dynamics 365 Remote Assist HoloLens user has lost tracking.
 
@@ -58,13 +59,13 @@ This might happen if Teams has downloaded a new version of the client applicatio
 
 If Dynamics 365 Remote Assist is used in a loud environment, use headphones on both ends for better communication. Using headphones for both users prevents any echo filtering from proactively turning on noise cancellation, which turns off audio.
 
-## I signed in to my HoloLens, but I still can't sign in to Dynamics 365 Remote Assist.
+## I signed in to my HoloLens, but I still can't sign in to Dynamics 365 Remote Assist
 
 If you’re having trouble signing in to Dynamics 365 Remote Assist, try the following:
 
 - Make sure you’re using a work or school account, not a Microsoft account (MSA), to sign in to HoloLens.
 
--  Make sure that the work or school account you’re using has a valid [Microsoft 365 Business](https://products.office.com/business/office) Premium or Essentials subscription with [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) enabled.
+- Make sure that the work or school account you’re using has a valid [Microsoft 365 Business](https://products.office.com/business/office) Premium or Essentials subscription with [Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software) enabled.
 
 - Make sure your HoloLens is connected to the internet.
 
@@ -83,7 +84,9 @@ Yes. We understand that technicians, inspectors, and remote collaborators want t
 All messages, links, or images sent in the text chat will be available for all participants via Teams chat, but not via Dynamics 365 Remote Assist chat. Additional details below.
 
 **Snapshots from Dynamics 365 Remote Assist HoloLens user:** Snapshots are saved differently depending on whether the Dynamics 365 Remote Assist call is associated with a Dynamics 365 Field Service booking.
+
 - If a Dynamics 365 Remote Assist call is associated with a booking, the Dynamics 365 Remote Assist user will take a snapshot and decide whether to save it to OneDrive or to the booking.
+
 - If a Dynamics 365 Remote Assist call is not associated with a booking, the Dynamics 365 Dynamics 365 Remote Assist user’s snapshot will automatically be saved in OneDrive.  
 
 Then, regardless of how snapshots are saved, a link to the snapshot is sent via the text chat, and the Teams user can view the snapshot and also view the link to the snapshot. 
@@ -95,13 +98,15 @@ Then, regardless of how snapshots are saved, a link to the snapshot is sent via 
 Hologram stability refers to how well a placed hologram stays where you placed it – be this perceptual or actual.
 
 - *Perceptual* instability could refer to a hologram that seems to move with your head motion, instead of tracking the placed position in space.
+
 - *Actual* instability could refer to a hologram whose coordinates have changed in virtual space, or whose position relative to a real-world object has shifted regardless of user input or head tracking.
 
 Holograms are always going to be most stable **when your head (not your eyes) is pointed directly at them**. The expected tolerance for hologram stability is that they remain within 1 cm of the placed position for every 1 m of distance from the device.
 
 To improve hologram stability, complete eye calibration. 
 
-- To complete eye calibration on HoloLens, [manually start the calibration process]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-1st-gen). 
+- To complete eye calibration on HoloLens, [manually start the calibration process]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-1st-gen).
+
 - HoloLens 2 will prompt you to calibrate the device under several circumstances. [Complete eye calibration]( https://docs.microsoft.com/hololens/hololens-calibration#calibrating-your-hololens-2) when requested. It will only take about 20 seconds. 
 
 ## Multiple people in my organization use Dynamics 365 Remote Assist on the same HoloLens. How do I clean my HoloLens?
@@ -110,7 +115,7 @@ Learn how to clean [HoloLens](https://docs.microsoft.com/hololens/hololens1-hard
 
 ## Can I save call artifacts to a Field Service work order?
 
-Yes! If you opened a Field Service booking and then made a Dynamics 365 Remote Assist call, at the end of the call, you'll be prompted to post the call log and files shared during the call to the work order associated with that booking.
+Yes. If you opened a Field Service booking and then made a Dynamics 365 Remote Assist call, at the end of the call, you'll be prompted to post the call log and files shared during the call to the work order associated with that booking.
 
 To view the call log and files, sign into Field Service and select the work order. Two new notes will have been created and attached to the work order. One note will include call log info. The other note will include and a link to each file in plain text. You can also edit the note to include the Stream link of the recorded call, which can be found in your Teams chat.
 
@@ -127,36 +132,51 @@ If you encounter an issue, use the HoloLens Feedback Hub to let us know so we ca
 There are two ways to get to the HoloLens Feedback Hub application to report a bug. 
 
 1. From the **Start menu**: At any time, you can go to the **Start menu** and launch **Feedback Hub**. 
+
 2. From Dynamics 365 Remote Assist: Select the **Settings tab** from the left navigation. Select the **Links** sub tab, and in the **Links** section, select **Feedback Hub** to launch **Feedback Hub**. 
 
-![Screenshot of the Links tab in the HoloLens settings screen.](media/08.02-settings-feedbackhub.png)
+    ![Screenshot of the Links tab in the HoloLens settings screen.](media/08.02-settings-feedbackhub.png)
 
 When you're in the HoloLens Feedback Hub: 
 
 1. From the home tab (represented by this icon![Graphic showing the home icon](media/RAHL_FeedbackHubHome.png), select **Report a problem**, as seen in the following screenshot.
 
-![Screenshot of the "Report a problem" option, represented by a bug-looking icon.](media/RAHL_FeedbackHubReport.png)
+    ![Screenshot of the "Report a problem" option, represented by a bug-looking icon.](media/RAHL_FeedbackHubReport.png)
 
 2. In the **Enter your feedback** section, summarize your feedback. To type, tap the text field and a holographic keyboard will appear. Then, select **Next**. To edit your response to any step after you’ve chosen **Next**, select **Edit**, which is to the top right of the text field. 
+
 3. In the **Choose a category** section, categorize the issue using "Apps" and "Microsoft Remote Assist." To select an item in the drop-down menu, select the menu.
+
    - If you're using HoloLens, scroll by gazing at the content of the app window. Tap and hold and then move your hand slightly upwards or downwards to scroll the content.
+   
    - If you're using HoloLens 2, scroll by placing your finger on the drop-down menu and move your finger up and down, as you would on a touch screen device. 
 
-![Screenshot showing the Choose a category section of the Feedback Hub.](media/RAHL_FeedbackHubChooseCategory.png)
+    ![Screenshot showing the Choose a category section of the Feedback Hub.](media/RAHL_FeedbackHubChooseCategory.png)
 
 4. In the **Find similar feedback** section, select "Make new bug."
+
 5. In the **Additional details** section:
+
    - Optionally select "Consider this a blocking issue."  
+   
    - Categorize your problem.
+   
 6. Select **Recreate your problem**:
+
    - Select **Start recording**.
+   
    - Use the start menu to launch Dynamics 365 Remote Assist and replicate the issue.
+   
    - When you're finished replicating the issue, use the start menu to return to **Feedback Hub**.
+   
    - Select **End recording**.
+   
    - Diagnostic data, a video, and audio from the recording will be attached. You may remove each one if you want to. 
 
-> [!Note]
-> Optionally, check the "This is blocking me" box if the issue is blocking you from completing your work or tasks. 
+    > [!Note]
+    > Optionally, check the "This is blocking me" box if the issue is blocking you from completing your work or tasks. 
+    > 
+    > To provide the best possible data for fixing issues, we recommend that you set your device telemetry to **Optional Diagnostic data** when you set up Dynamics 365 Remote Assist. You can also make this change through the **Settings** menu within the app (select **Start** > **Settings** > **Privacy** > **Diagnostics & feedback** > **Optional Diagnostic data**).
 
 
 
