@@ -1,13 +1,14 @@
 ---
-title: Invite a user to join a one-time call (public preview) in Microsoft Dynamics 365 Remote Assist. 
+title: Invite a user to join a one-time call (public preview) in Microsoft Dynamics 365 Remote Assist
 author: amaranigbo
 description: Invite a user to join a one-time call (public preview) in Dynamics 365 Remote Assist 
 ms.author: soanigbo
-ms.date: 04/05/2021
+ms.date: 04/08/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
 ---
+
 # Invite a user to join a one-time call (public preview) in Dynamics 365 Remote Assist 
 
 > [!IMPORTANT] 
