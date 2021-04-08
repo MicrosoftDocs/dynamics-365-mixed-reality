@@ -37,7 +37,7 @@ For detailed version histories, see:
 ### Features
 
 |Feature|How to|
-|---------------------------------------------------------------------------------------------------|
+|-----------------------------------------------|----------------------------------------------------|
 |Support for low-bandwidth situations|- [HoloLens 2](hololens-low-bandwidth.md)<br><br>- [Mobile app](./mobile-app/low-bandwidth-mode.md)|
 |Support for recording Teams meetings||
 |Improvement to the Microsoft Dataverse Environment selection|No|- [Calls Dashboard](calls-dashboard.md)<br><br>- [One-time-calls](one-time-call.md)<br><br>- [Asset capture](asset-capture-overview.md)|
