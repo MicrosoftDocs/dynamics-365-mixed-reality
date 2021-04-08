@@ -31,6 +31,9 @@ To complete the installation steps, you need:
 
 > [!IMPORTANT]
 > You can get a 30-day trial subscription of Dynamics 365 Remote Assist to try out the Remote Assist model-driven app. Make sure to follow [these instructions to create a **subscription-based trial environment**](https://docs.microsoft.com/power-platform/admin/trial-environments#create-a-trial-subscription-based-environment-in-the-power-platform-admin-center). Note that you **can't use the standard trial instructions** for this purpose. 
+> In step 4 of the subscription-based trial environment instructions:
+> - For the **Enable Dynamics 365 apps** option, select **Yes**. 
+> - For the **Automatically deploy these apps** option, select **All enterprise applications**. If you select **Customer Serice Pro** or **Sales Pro**, the Remote Assist model-driven app will **NOT** be installed.
 
 ## Install Dynamics 365 Remote Assist model-driven app
 
