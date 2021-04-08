@@ -164,3 +164,4 @@ Learn more about:
 
    - [Windows Game Bar](https://support.xbox.com/xbox-on-windows/social/record-game-clips-game-bar-windows-10)
 
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
