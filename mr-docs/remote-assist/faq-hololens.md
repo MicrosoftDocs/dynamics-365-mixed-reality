@@ -178,6 +178,4 @@ When you're in the HoloLens Feedback Hub:
     > 
     > To provide the best possible data for fixing issues, we recommend that you set your device telemetry to **Optional Diagnostic data** when you set up Dynamics 365 Remote Assist. You can also make this change through the **Settings** menu within the app (select **Start** > **Settings** > **Privacy** > **Diagnostics & feedback** > **Optional Diagnostic data**).
 
-
-
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
