@@ -1,4 +1,6 @@
 ---
+ms.author: v-bholmes
+ms.service: crm-online
 title: MICROSOFT SOFTWARE LICENSE TERMS MICROSOFT DYNAMICS 365 REMOTE ASSIST iOS MOBILE
 author: ReneeW-CPub
 robots: noindex,nofollow
