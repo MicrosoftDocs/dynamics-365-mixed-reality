@@ -83,3 +83,4 @@ To find which version of Dynamics 365 Remote Assist mobile you have, go to the m
 > [!div class="mx-imgBorder"]
 > ![Screenshot of Dynamics 365 Remote Assist on a mobile device, showing the information option and the app version listed.](./media/ram-version-history-locate.png)
 
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
