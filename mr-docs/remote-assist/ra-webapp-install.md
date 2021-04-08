@@ -1,14 +1,14 @@
 ---
-title: Set up an environment and install Dynamics 365 Remote Assist model-driven app
+title: Set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app
 author: dhgoelmsft
-description: Set up an environment and install Dynamics 365 Remote Assist model-driven app to use CDS based features in Remote Assist, such as Calls Dashboard, One-time Calls, and Asset Capture.
+description: Learn how to set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app to use Microsoft Dataverse features in Remote Assist, such as the Calls Dashboard, one-time calls, and asset capture.
 ms.author: dhgoel
 ms.date: 04/08/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
-# Install Dynamics 365 Remote Assist model-driven app
+# Install the Dynamics 365 Remote Assist model-driven app
 
 [!INCLUDE[cc-data-platform-banner](../includes/cc-data-platform-banner.md)]
 
