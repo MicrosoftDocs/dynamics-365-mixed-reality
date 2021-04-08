@@ -36,13 +36,13 @@ For detailed version histories, see:
 
 ### Features
 
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|Support for low-bandwidth situations|No|- [HoloLens 2](hololens-low-bandwidth.md)<br><br>- [Mobile app](./mobile-app/low-bandwidth-mode.md)|
-|Support for recording Teams meetings|No||
+|Feature|How to|
+|---------------------------------------------------------------------------------------------------|
+|Support for low-bandwidth situations|- [HoloLens 2](hololens-low-bandwidth.md)<br><br>- [Mobile app](./mobile-app/low-bandwidth-mode.md)|
+|Support for recording Teams meetings||
 |Improvement to the Microsoft Dataverse Environment selection|No|- [Calls Dashboard](calls-dashboard.md)<br><br>- [One-time-calls](one-time-call.md)<br><br>- [Asset capture](asset-capture-overview.md)|
-|Instinctual interaction improvements on HoloLens 2|No||
-|Long Term Servicing for Dynamics 365 Remote Assist on HoloLens 1|No||
+|Instinctual interaction improvements on HoloLens 2||
+|Long Term Servicing for Dynamics 365 Remote Assist on HoloLens 1||
 
 ### Bug fixes
 
@@ -81,14 +81,6 @@ For detailed version histories, see:
 |iOS mobile app|2021.2.10|
 |Android mobile app|2021.2.10|
 
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-
 ### Bug fixes
 
 #### HoloLens 1 and 2
@@ -124,14 +116,6 @@ For detailed version histories, see:
 |iOS mobile app|2021.1.8|
 |Android mobile app|2021.01.05|
 
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-
 ### Bug fixes
 
 #### HoloLens 1 and 2
@@ -154,14 +138,6 @@ For detailed version histories, see:
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.12.12|
 |Android mobile app|2019.12.09|
-
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
 
 ### Bug fixes
 
@@ -194,19 +170,7 @@ For detailed version histories, see:
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|301.2012.9002|
 |iOS mobile app|2020.12.09|
-|Android mobile app|2020.12.09|
-
-### Features
-
-| Feature                                                                                                                                                                                                                                                                                 | Solution update required? |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| [Contact search keyboard improvements for HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/contact-search-keyboard-improvements-hololens)                                                                                        | No                        |
-| [Improvement in position accuracy for spatial annotations seen by remote collaborators on Teams](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/improvement-position-accuracy-spatial-annotations-seen-remote-collaborators-teams)       | No                        |
-| [Join meetings in the Dynamics 365 Remote Assist mobile app](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/join-meetings-dynamics-365-remote-assist-mobile-app)                                                                         | No                        |
-| [Lobby support enabled on HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/lobby-support-enabled-hololens)                                                                                                                       | No                        |
-| [Support Intune mobile application protection policies SDK for Dynamics 365 Remote Assist mobile app](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/support-intune-mobile-application-protection-policies-sdk-remote-assist-mobile-app) | No                        |
-| [Teams live events supported on HoloLens](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/teams-live-events-supported-hololens)                                                                                                           | No                        |
-| [Enable customer or vendor to join one-time call](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/enable-customer-or-vendor-join-one-time-call)                                                                                           | No                        |
+|Android mobile app|2020.12.09|                                                                                       
 
 ### Bug fixes
 
@@ -250,14 +214,6 @@ For detailed version histories, see:
 |iOS mobile app|2020.10.31|
 |Android mobile app|2019.10.22|
 
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-
 ### Bug fixes
 
 #### iOS and Android mobile app
@@ -284,22 +240,6 @@ For detailed version histories, see:
 |HoloLens 1 and 2|300.2010.1002|
 |iOS mobile app|2020.10.1|
 |Android mobile app|2020.10.03|
-
-### Features
-
-| Feature                                                                                                                                                                                                                                                     | Solution update required? |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| [Dynamics 365 Remote Assist calls dashboard](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/remote-assist-calls-dashboard)                                                                                 | No                        |
-| [Spatial tracking experience improvements](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/spatial-tracking-experience-improvements)                                                                        | No                        |
-| [Updates to the annotation placement algorithm](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/updates-annotation-placement-algorithm)                                                                     | No                        |
-| [Use Dynamics 365 Remote Assist on mobile devices without augmented reality support](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/use-remote-assist-mobile-devices-without-augmented-reality-ar-support) | No                        |
-| [Automate asset-related processes with Power Automate](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/automate-asset-related-processes-power-automate)                                                     | No                        |
-| [Capture and visualize asset information with spatial markup](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/capture-visualize-asset-information-spatial-markup)                                           | No                        |
-| [Create and manage organizational asset records](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/create-manage-organizational-asset-records)                                                                | No                        |
-| [Prepare your workspace with service-related documentation](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/prepare-workspace-service-related-documentation)                                                | No                        |
-| [Enabling calls between Dynamics 365 Remote Assist mobile users](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/enabling-calls-between-remote-assist-mobile-users)                                         | No                        |
-| [Improved annotation placement experience](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/improved-annotation-placement-experience)                                                                        | No                        |
-| [Make group calls on Dynamics 365 Remote Assist mobile](https://docs.microsoft.com/dynamics365-release-plan/2020wave2/service/dynamics365-remote-assist/make-group-calls-remote-assist-mobile)                                                              | No                        |
 
 ### Bug fixes
 
@@ -342,14 +282,6 @@ For detailed version histories, see:
 |iOS mobile app|2020.9.1|
 |Android mobile app|2020.09.04|
 
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-
 ### Bug fixes
 
 #### HoloLens 2
@@ -381,14 +313,6 @@ For detailed version histories, see:
 |------------------------------------------|---------------------------------------------|
 |HoloLens 1 and 2|211.2007.30002|
 
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-
 ### Bug fixes
 
 #### HoloLens 2
@@ -410,14 +334,6 @@ For detailed version histories, see:
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.7.30|
 |Android mobile app|2020.07.23|
-
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
 
 ### Bug fixes
 
@@ -446,14 +362,6 @@ For detailed version histories, see:
 |HoloLens 1 and 2|210.2007.1003.0|
 |iOS mobile app|2020.7.1|
 |Android mobile app|2020.06.27|
-
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
 
 ### Bug fixes
 
@@ -497,14 +405,6 @@ For detailed version histories, see:
 |------------------------------------------|---------------------------------------------|
 |HoloLens 2|209.2006.11003.0|
 
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-
 ### Bug fixes
 
 #### HoloLens 2
@@ -531,14 +431,6 @@ For detailed version histories, see:
 |iOS mobile app|2020.5.28|
 |Android mobile app|2020.05.22|
 
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-
 ### Bug fixes
 
 #### iOS and Android mobile app
@@ -564,14 +456,6 @@ For detailed version histories, see:
 |iOS mobile app|2020.5.7|
 |Android mobile app|2020.05.04|
 
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-
 ### Bug fixes
 
 #### iOS and Android mobile app
@@ -593,14 +477,6 @@ For detailed version histories, see:
 |HoloLens 1 and 2|208.2004.1002.0|
 |iOS mobile app|2020.4.1|
 |Android mobile app|2002.03.18|
-
-### Features
-
-| Feature                                                                                                                                                                                                                                     | Solution update required? |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| [Capture asset condition through spatial markup](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-remote-assist/capture-asset-condition-through-spatial-markup)                                      | No                        |
-| [Capture session history through call recordings](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-remote-assist/capture-session-history-through-call-recordings)                                    | No                        |
-| [Share files between technicians and experts to improve collaboration](https://docs.microsoft.com/dynamics365-release-plan/2020wave1/mixed-reality/dynamics365-remote-assist/share-files-between-technicians-experts-improve-collaboration) | No                        |
 
 ### Bug fixes
 
@@ -640,14 +516,6 @@ For detailed version histories, see:
 |------------------------------------------|---------------------------------------------|
 |iOS mobile app|2020.02.27|
 |Android mobile app|2020.02.20|
-
-### Features
-
-|Feature|Solution update required?|How to|
-|--------------------------------------------------|-----------------------------------------------------|-------------------------------------------------|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
-|XXX|XXX|XXX|
 
 ### Bug fixes
 
