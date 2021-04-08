@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Learn about different anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides. 
 ms.author: mamaylya
-ms.date: 04/01/2021
+ms.date: 04/08/2021
 ms.service: crm-online
 ms.topic: article
 title: Anchor types and placement, and their effect on hologram precision in Dynamics 365 Guides
@@ -32,6 +32,8 @@ To maximize hologram position consistency so that the position of a hologram in 
 - Author from the operator's viewpoint
 
 - Look at the hologram from the side to avoid depth position variation
+
+- Scan anchors from the same position and angle
 
 Each of these suggestions is covered in more detail in this article. 
 
@@ -68,6 +70,11 @@ A hologram's perceived position depends on the user’s view point. When an auth
 ## View holograms from the side to avoid depth position variation
 
 When authoring, you're placing holograms in 3D space. Making sure the holograms are aligned with the expected target in terms of depth is crucial, as the smallest depth position variation can greatly impact the operator's perceived hologram position if viewed from a slightly different viewpoint. To ensure proper depth position, look at your hologram from the side and readjust if needed.  
+
+## Scan anchors from the same position and angle
+
+When re-anchoring a guide, whether you're an author or an operator, make sure to always scan the anchor from the same position and angle. Variation in the position and angle can result in inconsistencies in different HoloLens runs because the HoloLens sensors will have a very slightly different space perception. Even if the green outline in the QR code seems to be in the right place, micro errors can impact final accuracy, especially if holograms are placed far away from the anchor (lever arm effect).
+
 
 ## What's next?
 
