@@ -16,7 +16,7 @@ NOTICES AND INFORMATION
 Do Not Translate or Localize
 
 This software incorporates material from third parties. Microsoft makes certain 
-open source code available at http://3rdpartysource.microsoft.com, or you may 
+open source code available at https://3rdpartysource.microsoft.com, or you may 
 send a check or money order for US $5.00, including the product name, the open 
 source component name, and version number, to:
 
@@ -405,7 +405,7 @@ conditions are met:
 disclaimer in the documentation and/or other materials provided with the distribution. 
 
 3. All advertising materials mentioning features or use of this software must display the following acknowledgment: "This product 
-includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (https://www.openssl.org/)"
 
 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to endorse or promote products derived from this software 
 without prior written permission. For written permission, please contact * openssl-core@openssl.org. 
@@ -414,7 +414,7 @@ without prior written permission. For written permission, please contact * opens
 written permission of the OpenSSL Project. 
 
 6. Redistributions of any form whatsoever must retain the following acknowledgment: "This product includes software developed 
-by the OpenSSL Project * for use in the OpenSSL Toolkit (http://www.openssl.org/)" 
+by the OpenSSL Project * for use in the OpenSSL Toolkit (https://www.openssl.org/)" 
  
 THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING,
 BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 

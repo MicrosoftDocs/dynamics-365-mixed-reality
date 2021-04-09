@@ -1,17 +1,19 @@
 ---
-title: Complete list of voice commands for Dynamics 365 Remote Assist on HoloLens
-author: sophiasysun 
-description: Complete list of voice commands for Dynamics 365 Remote Assist on HoloLens
-ms.author: sopsun
-ms.date: 04/01/2020
+title: Voice commands and gestures for Microsoft Dynamics 365 Remote Assist on HoloLens
+author: BryceHolmes
+description: Learn about voice commands and gestures for Microsoft Dynamics 365 Remote Assist on HoloLens
+ms.author: soanigbo
+ms.date: 04/08/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
 ---
 
-# Complete list of voice commands for Dynamics 365 Remote Assist on HoloLens
+# Voice commands and gestures for Dynamics 365 Remote Assist on HoloLens
 
-You may navigate Dynamics 365 Remote Assist on HoloLens and HoloLens 2 using voice commands and gaze instead of gestures. Some voice commands are contextual, so they only work in particular areas of the user interface. For example, “Start inking” only works if the ink tool is already active.” You can also look at any button and say “Select.”
+## Voice commands
+
+You can navigate Dynamics 365 Remote Assist on HoloLens and HoloLens 2 using voice commands and gaze instead of gestures. Some voice commands are contextual, so they only work in particular areas of the user interface. For example, “Start inking” only works if the ink tool is already active.” You can also look at any button and say “Select.”
 
 At this time, voice commands and speech recognition are [available in specific languages for Hololens](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/faq#what-languages-are-voice-commands-and-speech-recognition-available-for).
 
@@ -88,7 +90,12 @@ To turn on the Narrator for incoming calls:
 
  ![Open Narrator](media/08.00-settings.png "Open Narrator")
 
- 
+## Gestures
 
+The April 2021 release of Dynamics 365 Remote Assist improved gestures on HoloLens 2 to make them more instinctual:
+
+- Improved audio and visual cues make it easier to grab, move, and resize windows, whether you’re directly manipulating windows up close or manipulating them from a distance with hand rays.
+
+- Improvements to the near finger cursor make it easier to grab windows and select buttons. 
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
