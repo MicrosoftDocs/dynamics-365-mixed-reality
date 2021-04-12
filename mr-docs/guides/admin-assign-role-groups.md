@@ -95,22 +95,37 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
 For this option, you'll update the Dynamics 365 Guides role to include the Dynamics 365 group team created in the step above using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments). See [Add roles to group teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
-1. Select the name of the environment to update and access the settings.
-1. In the detail page of the environment, click on Environment URL link to access the details of the environment.  
-![click url](media/Power-Platform-admin-center-env-url.png "click url")
-1. In the title bar select the gear icon then select “Advanced Settings”.
-![select gear](media/Power-Platform-admin-center-env-adv-settings.png "select gear")  
-1. In top menu bar click caret to the right of “Settings” and click “Security” from the System’s column.
-![select security](media/D365-admin-center-advanced-settings-security.png "select security")
-1. Select “Teams”.
-![select teams](media/D365-admin-center-advanced-settings-teams.png "select teams")
-1. Choose team type from the drop down at the top of the page (All Azure Active Directory (AAD) Office Group Teams, or All AAD Security Group Teams).
- ![select groups dropdown](media/D365-admin-center-advanced-settings-groups.png "select groups dropdown")
-1. When the team to be updated is shown, click on the team's name link to modify the team.
-![select group name](media/D365-admin-center-advanced-settings-groupname.png "select group name")
-1. At the top of the page, the “manage roles” option is available.
-![select manage roles](media/D365-admin-center-advanced-settings-manage-roles.png "manage roles")
+1. In the Power Platform admin center, select the environment that you want to update, and then select **Settings**.
 
-Note: the “manage roles” button at the top will not be shown as an option on the list of group teams page if the checkbox to the left of a group team is selected.  Manage roles is only available in the context of the group team details page.  
+2. Under **Details**, select the **Environment URL** link to access the details for the environment.  
+
+    ![Environment URL in the Details section](media/Power-Platform-admin-center-env-url.png "Environment URL in the Details section")
+
+3. In the title bar select the **Settings** button, and then select **Advanced Settings**.
+
+    ![Settings button](media/Power-Platform-admin-center-env-adv-settings.png "Settings button")  
+
+4. In top menu bar click caret to the right of “Settings” and click “Security” from the System’s column.
+
+    ![select security](media/D365-admin-center-advanced-settings-security.png "select security")
+
+5. Select “Teams”.
+
+    ![select teams](media/D365-admin-center-advanced-settings-teams.png "select teams")
+
+6. Choose team type from the drop down at the top of the page (All Azure Active Directory (AAD) Office Group Teams, or All AAD Security Group Teams).
+
+    ![select groups dropdown](media/D365-admin-center-advanced-settings-groups.png "select groups dropdown")
+ 
+7. When the team to be updated is shown, click on the team's name link to modify the team.
+
+    ![select group name](media/D365-admin-center-advanced-settings-groupname.png "select group name")
+
+8. At the top of the page, the “manage roles” option is available.
+
+    ![select manage roles](media/D365-admin-center-advanced-settings-manage-roles.png "manage roles")
+
+> [!NOTE]
+> The “manage roles” button at the top will not be shown as an option on the list of group teams page if the checkbox to the left of a group team is selected.  Manage roles is only available in the context of the group team details page.  
 
 Example: If the steps above were completed to apply the author role to an AAD Office Group, then anyone in the group will have a role that will allow them to create and edit a guide and the guide will be owned by the group referenced in the first step allowing access and edit privileges.
