@@ -18,9 +18,9 @@ Users with the roles of **Restricted Author** and **Restricted Operator** will o
 
 - Guides/content that the user created (unless access was explicitly removed)
 
-- Guides that were explicitly shared with them or shared with an Owner team they are a member of
+- Guides that were explicitly shared with them or shared with an owner team they are a member of
 
-- Guides that were assigned to the user or assigned to an Owner team that the user is a member of
+- Guides that were assigned to the user or assigned to an owner team that the user is a member of
 
 ## Assign roles to groups of users
 
@@ -33,9 +33,9 @@ You can use Azure Active Directory to organize users into logical groups for eas
 > [!NOTE]
 > SharePoint groups are not supported by Dynamics 365.  Only Azure Active Directory Office or Security groups are supported by Dynamics 365 Group Teams.
 
-### Create an Azure Active Directory Group
+### Create an Azure Active Directory group
 
-Create an Azure Active Directory Security Group or an Azure Active Directory Office Group. See: [Create a basic group and add members - Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal)
+To learn how to create an Azure Active Directory Security group or an Azure Active Directory Office group, see [Create a basic group and add members](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal)
 
 ### Create a Dynamics 365 Group Team
 
