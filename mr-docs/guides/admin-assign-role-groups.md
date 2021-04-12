@@ -10,7 +10,7 @@ ms.author: v-mhoag
 ms.reviewer: v-bholmes
 ---
 
-# Assign Author and Operator roles to a Dynamics 365 Group Team that is linked to an Azure Active Directory Group.
+# Assign Author and Operator roles to a Dynamics 365 Group Team linked to an Azure Active Directory Group
 
 ## Operator and Author roles for individual users
 
