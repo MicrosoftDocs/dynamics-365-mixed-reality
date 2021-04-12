@@ -33,7 +33,7 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
     ![Guides model-driven app example](media/Guides-Hub.png "Guides model-driven app example")
 
-## Limiting Access to the Guides model-driven app
+## Limit access to the Guides model-driven app
 
 When you create a guide in the PC authoring app, the content is stored in the Microsoft Dataverse. The Guides model-driven app enables you to access and view guide content from the Dataverse quickly. You can also make modifications through the Guides model-driven app. For example, you can [deactivate a guide](admin-deactivate-guide.md), [share content](admin-access-teams.md), or [create a 3D object-collection](workflow-example-2.md).
 
