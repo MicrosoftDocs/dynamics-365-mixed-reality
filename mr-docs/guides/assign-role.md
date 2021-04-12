@@ -41,13 +41,13 @@ For more information on the Restricted Author and Restricted Operator roles, see
 
 ## Prerequisites
 
-Before you can modify user roles, the following prerequisites must be in place:
+Before you can modify user roles:
 
-- You have an active Dynamics 365 Guides license. For more information, see [Try or buy, and deploy Dynamics 365 Guides](setup.md).
+- You must have an active Dynamics 365 Guides license. For more information, see [Try or buy, and deploy Dynamics 365 Guides](setup.md).
 
-- The latest Dynamics 365 Guides solution is installed. For more information, see [Upgrade to the latest solution](upgrade.md).
+- The latest Dynamics 365 Guides solution must be installed. For more information, see [Update to the latest solution](upgrade.md).
 
-- You have access to the Power Platform admin center and have full admin privileges.
+- You must have access to the Power Platform admin center and have full admin privileges.
 
 ## Assign user roles
 
