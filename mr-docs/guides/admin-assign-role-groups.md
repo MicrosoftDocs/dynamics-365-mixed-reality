@@ -109,11 +109,11 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
     ![select security](media/D365-admin-center-advanced-settings-security.png "select security")
 
-5. Select “Teams”.
+5. In the **Security** screen, select “Teams”.
 
-    ![select teams](media/D365-admin-center-advanced-settings-teams.png "select teams")
+    ![Teams item selected in the Security screen](media/D365-admin-center-advanced-settings-teams.png "Teams item selected in the Security screen")
 
-6. Choose team type from the drop down at the top of the page (All Azure Active Directory (AAD) Office Group Teams, or All AAD Security Group Teams).
+6. At the top of the page, select the team type (**All Azure Active Directory (AAD) Office Group Teams**, or **All AAD Security Group Teams**).
 
     ![select groups dropdown](media/D365-admin-center-advanced-settings-groups.png "select groups dropdown")
  
