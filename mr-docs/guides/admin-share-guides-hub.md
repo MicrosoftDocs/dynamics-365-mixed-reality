@@ -19,7 +19,7 @@ When you create a guide in the PC authoring app, the content is stored in the Mi
 > [!CAUTION] 
 > The Guides model-driven app isn't intended as a replacement for authoring in the PC and HoloLens apps. If you use the model-driven app to create, update, or delete records, you might make Guides nonfunctional or prevent users from using the PC or HoloLens apps in the intended way. Currently, modification through the model-driven app isn't fully supported and should be reserved for experienced Dynamics 365 developers who are familiar with Microsoft Dataverse.
 
-## Access the Guides model-driven app
+## Open the Guides model-driven app
 
 1. Go to [home.dynamics.com](https://home.dynamics.com), sign in, and then in **Search my apps**, enter **Guides**.
 
