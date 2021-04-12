@@ -2,21 +2,12 @@
 title: "Share Guides model-driven app with users and groups using security roles to provide access to Dynamics 365 Guides | MicrosoftDocs"
 description: How to share Guides model-driven app
 author:  MattHoag-MS
-manager: anhaman
+manager: tfehr
 ms.service: crm-online
-ms.component: pa-user
-ms.topic: conceptual
+ms.topic: article
 ms.date: 03/10/2021
 ms.author: v-mhoag
-ms.custom: ""
-ms.reviewer: ""
-ms.assetid: 
-search.audienceType: 
-  - enduser
-search.app: 
-  - Guides
-  - PowerApps
-  - D365CE
+ms.reviewer: v-bholmes
 ---
 <!-- This article could be a redirect to the article below with the term "App" updated to "Guides model-driven app".   A better solution will have to be found to "customize" core power apps support documents to address the specific D365 Guides user experience.  
 https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
@@ -28,7 +19,7 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 ## Access the Guides model-driven app
 
-Type [home.dynamics.com](https://home.dynamics.com) into the address bar of a web browser, login and then search for the **Guides model-driven app** in the **My Apps** section.
+Enter [home.dynamics.com](https://home.dynamics.com) in the address bar of a web browser, login and then search for the **Guides model-driven app** in the **My Apps** section.
 
 1. In the PC authoring app, sign in to the Dynamics 365 instance that includes the guide.
 
