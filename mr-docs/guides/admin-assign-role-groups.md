@@ -35,7 +35,7 @@ You can use Azure Active Directory to organize users into logical groups for eas
 
 ### Create an Azure Active Directory group
 
-To learn how to create an Azure Active Directory Security group or an Azure Active Directory Office group, see [Create a basic group and add members](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal)
+To learn how to create an Azure Active Directory Security group or an Azure Active Directory Office group, see [Create a basic group and add members using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal).
 
 ### Create a Dynamics 365 Group Team
 
