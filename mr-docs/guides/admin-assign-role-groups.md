@@ -52,7 +52,7 @@ You can assign roles to a team in two ways:
 
 - Option 1: Assign a group team to a Dynamics 365 Guides role. In this case, the additions must be made to the Basic User role and any additional roles that you want to modify. This is the best option if you need to assign a role to many Dynamics 365 group teams.
 
-- Option 2: Assign Dynamics 365 Guides roles to a group team. This is the best option if you need to modify a small number of Dynamics 365 group teams.
+- Option 2: Assign a Dynamics 365 Guides role to a group team. This is the best option if you need to modify a small number of Dynamics 365 group teams. For example, if you add the Author role to an AAD Office group, anyone in the group will have a role that will allow them to create and edit a guide. The guide will be owned by the group referenced in the first step allowing access and edit privileges.
 
 ### Option 1: Assign a group team to a Dynamics 365 Guides role
 
@@ -91,7 +91,7 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
 8. Repeat the above steps for any additional roles that are applied to the group team.
 
-### Option 2: Assign Dynamics 365 Guides roles to a group team
+### Option 2: Assign a Dynamics 365 Guides role to a group team
 
 For this option, you'll update the Dynamics 365 Guides role to include the Dynamics 365 group team created in the step above using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments). See [Add roles to group teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
@@ -126,6 +126,6 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
     ![select manage roles](media/D365-admin-center-advanced-settings-manage-roles.png "manage roles")
 
 > [!NOTE]
-> The “manage roles” button at the top will not be shown as an option on the list of group teams page if the checkbox to the left of a group team is selected.  Manage roles is only available in the context of the group team details page.  
+> The **MANAGE ROLES** command is not available on the group teams page if the check box to the left of a group team is selected.  **MANAGE ROLES** is available only in the context of a group team details page.  
 
-Example: If the steps above were completed to apply the author role to an AAD Office Group, then anyone in the group will have a role that will allow them to create and edit a guide and the guide will be owned by the group referenced in the first step allowing access and edit privileges.
+
