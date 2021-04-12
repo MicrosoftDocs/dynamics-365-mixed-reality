@@ -13,24 +13,28 @@ ms.reviewer: v-bholmes
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-If you're a Microsoft Dynamics 365 Guides admin, you can assign an **Author** or **Operator** role to users to limit what they can do in the apps. The  **Restricted Author** and **Restricted Operator** roles provide an extra layer of control. The following table describes the privileges that each role grants.
+If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Operator role to users to limit what they can do in the apps. The Restricted Author and Restricted Operator roles provide an extra layer of control. The following table describes the privileges that each role grants.
 
 | Role | Description |
 |---|---|
-| Author | Use the PC app and HoloLens app to create, edit, and operate guides. Users who have the **Author** role can also rename and deactivate existing guides. |
-| Operator | Use the HoloLens app to view and operate a guide. Users who have the **Operator** role can also save time by skipping the **Select Mode** dialog box when they open a guide. |
+| Author | Use the PC app and HoloLens app to create, edit, and operate guides. Users who have the Author role can also rename and deactivate existing guides. |
+| Operator | Use the HoloLens app to view and operate a guide. Users who have the Operator role can also save time by skipping the **Select Mode** dialog box when they open a guide. |
 |Restricted Author| Use the PC app and HoloLens app to create, edit, and operate guides or use guides content that the user created or was explicitly shared with them.|
 |Restricted Operator|  Use the HoloLens app to view and operate a guide or access guides content that the user created or was explicitly shared with them. |
 
- Restricted Author and Restricted Operator roles are used to limit access to Guides. Users who are assigned the restricted Author or Operator roles **do not** inherit access to any Guides or Guide content (3D models, images, or videos) created in the environments that they are permitted to access.
+## Restricted Author and Restricted Operator roles
 
-Users with the roles of Restricted Author and Restricted Operator will only have access to:
+The Restricted Author and Restricted Operator roles are used to limit access to guides. Users who are assigned the Restricted Author and Restricted Operator roles **do not** inherit access to any guides or guide content (3D models, images, or videos) created in the environments that they are permitted to access.
 
-- Guides that the user created.
-- Guides that were explicitly shared with them or shared with an owner team they are a member of.
-- Guides with ownerships that were assigned to the user or assigned to an owner team that the user is a member of.
+Users with the Restricted Author and Restricted Operator roles have access to:
 
-For more information on Restricted Author and Operator roles see [Share guides or guide content in Dynamics 365 Guides to expand access](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams#assign-the-restricted-security-role)
+- Guides that the user created
+
+- Guides that were explicitly shared with them or shared with an owner team they are a member of
+
+- Guides that were assigned to the user or assigned to an owner team that the user is a member of
+
+For more information on the Restricted Author and Restricted Operator roles, see [Share guides or guide content in Dynamics 365 Guides to expand access](admin-access-teams.md#assign-the-restricted-security-role)
 
 > [!IMPORTANT]
 > If you followed the instructions in the [Try or buy, and deploy Dynamics 365 Guides](setup.md) topic when you set up Dynamics 365 Guides, any users that you added were automatically assigned the **Author** role. You must explicitly assign the **Operator** role to specific users if you don't want them to have **Author** role privileges.
