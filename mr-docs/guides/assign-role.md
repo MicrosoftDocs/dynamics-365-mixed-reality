@@ -13,7 +13,7 @@ ms.reviewer: v-bholmes
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-If you're a Microsoft Dynamics 365 Guides admin, you can assign an **Author** or **Operator** role to users to limit what they can do in the apps. The additional **Restricted** provide an extra layer of control.  The following table describes the privileges that each role grants.
+If you're a Microsoft Dynamics 365 Guides admin, you can assign an **Author** or **Operator** role to users to limit what they can do in the apps. The  **Restricted Author** and **Restricted Operator** roles provide an extra layer of control. The following table describes the privileges that each role grants.
 
 | Role | Description |
 |---|---|
