@@ -9,7 +9,7 @@ title: Share guides or guide content with an access team in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Share guides or guide content in Dynamics 365 Guides to expand access.
+# Share a guide or guide content in Dynamics 365 Guides
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
