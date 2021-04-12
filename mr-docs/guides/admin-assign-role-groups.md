@@ -30,7 +30,7 @@ For more information on Azure Active Directory groups, check out the links in th
 |To|Go here|
 |--------------------------------------|----------------------------------------|
 |Get an overview of Azure Active Directory groups|[Groups in Microsoft 365 and Azure, and Which is Right for You](https://docs.microsoft.com/microsoft-365/community/all-about-groups)|
-|Get an overview of managing group teams|[Manage Group Teams in Power Platform](https://docs.microsoft.com/power-platform/admin/manage-group-teams)|
+|Get an overview of managing group teams|[Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams)|
 |Learn how to create a basic group and add members|[Create a basic group and add members using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal)|
 
 > [!NOTE]
