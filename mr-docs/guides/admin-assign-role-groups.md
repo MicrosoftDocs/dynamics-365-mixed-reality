@@ -4,21 +4,11 @@ description: How to Assign Author and Operator roles to a Dynamics 365 Group Tea
 author:  MattHoag-MS
 manager: anhaman
 ms.service: crm-online
-ms.component: pa-user
-ms.topic: conceptual
-ms.date: 03/12/2021
+ms.topic: article
+ms.date: 04/14/2021
 ms.author: v-mhoag
-ms.custom: ""
-ms.reviewer: ""
-ms.assetid: 
-search.audienceType: 
-  - enduser
-search.app: 
-  - Guides
-  - PowerApps
-  - D365CE
+ms.reviewer: v-bholmes
 ---
-<!-- comment -->
 
 # Assign Author and Operator roles to a Dynamics 365 Group Team that is linked to an Azure Active Directory Group.
 
