@@ -105,7 +105,7 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
     ![Settings button](media/Power-Platform-admin-center-env-adv-settings.png "Settings button")  
 
-4. In top menu bar click caret to the right of “Settings” and click “Security” from the System’s column.
+4. In the Dynamics 365 screen, select the down arrow next to **Settings**, and then under **System**, select **Security**.
 
     ![select security](media/D365-admin-center-advanced-settings-security.png "select security")
 
