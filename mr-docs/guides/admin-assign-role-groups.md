@@ -50,7 +50,7 @@ For more information on how to link an Azure Active Directory group to a Dynamic
 
 You can assign roles to a team in two ways: 
 
-- Option 1: Add people to a role using groups. In this case, the additions must be made to the Basic User role and any additional roles that are to be modified. This is the best option if you need to assign a role to many Dynamics 365 group teams.
+- Option 1: Assign a group team to a Dynamics 365 Guides role. In this case, the additions must be made to the Basic User role and any additional roles that you want to modify. This is the best option if you need to assign a role to many Dynamics 365 group teams.
 
 - Option 2: Modify the Dynamics 365 Group team to add one or more roles. This is the best option if you need to modify a small number of Dynamics 365 group teams.
 
@@ -59,25 +59,40 @@ You can assign roles to a team in two ways:
 For this option, you'll update a role to include the Dynamics 365 group team that was created in the step above using the [Power Platform admin centre](https://admin.powerplatform.microsoft.com/environments).
 
 1. Select the environment to update and access the settings.
-1. In the “Access” section, select “See All” under the security roles heading.
- ![power platform admin](media/Power-Platform-admin-center-env-setting.png "power platform admin")
-1. The “Basic User” role must be added to the group to enable Dynamics 365 Guides for the users in this group team.
-1. Click on the role name “Basic User” to see more detail.
-![basic user](media/Power-Platform-Enviro-Roles.png "basic users")
-1. Click on the “Add people” action button at the top of the view.
+
+2. In the “Access” section, select “See All” under the security roles heading.
+
+    ![power platform admin](media/Power-Platform-admin-center-env-setting.png "power platform admin")
+ 
+3. The “Basic User” role must be added to the group to enable Dynamics 365 Guides for the users in this group team.
+
+4. Click on the role name “Basic User” to see more detail.
+
+    ![basic user](media/Power-Platform-Enviro-Roles.png "basic users")
+
+5. Click on the “Add people” action button at the top of the view.
+
     ![add people](media/Power-Platform-security-role-add-people.png "Add people")
-1. Search for the Dynamics 365 Group Team created in Step 1 above. Select the Group Team when it is shown in the search results and select “add” to confirm.
- ![add group](media/Power-Platform-security-add-group.png "Add group")
-1. Repeat the steps above for the [Dynamics 365 Guides role](https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role) that is to be applied to this team. Guides roles include:
+    
+6. Search for the Dynamics 365 Group Team created in Step 1 above. Select the Group Team when it is shown in the search results and select “add” to confirm.
+
+    ![add group](media/Power-Platform-security-add-group.png "Add group")
+ 
+7. Repeat the steps above for the [Dynamics 365 Guides role](https://docs.microsoft.com/dynamics365/mixed-reality/guides/assign-role) that is to be applied to this team. Guides roles include:
+
     - Dynamics 365 Guides Author
+    
     - Dynamics 365 Guides Operator
+    
     - Dynamics 365 Guides Restricted Author
+    
     - Dynamics 365 Guides Restricted Operator
 
-1. Click on the role name  to see more detail.
-1. Click on the “Add people” action button at the top of the view.
+8. Click on the role name  to see more detail.
 
-1. Search for the Dynamics 365 Group Team created in above. Select the Group Team when it is shown in the search results and select “add” to confirm.
+9. Click on the “Add people” action button at the top of the view.
+
+10. Search for the Dynamics 365 Group Team created in above. Select the Group Team when it is shown in the search results and select “add” to confirm.
 
 Repeat the above steps for any additional roles that are applied to the Group Team.
 
