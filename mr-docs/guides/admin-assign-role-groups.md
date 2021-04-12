@@ -60,7 +60,7 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
 
 1. Select the environment to update and access the settings.
 
-2. In the “Access” section, select “See All” under the security roles heading.
+2. In the **Access** section, under **Security role**, select **See all**.
 
     ![power platform admin](media/Power-Platform-admin-center-env-setting.png "power platform admin")
  
