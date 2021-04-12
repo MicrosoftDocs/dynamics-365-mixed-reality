@@ -97,7 +97,7 @@ Before you can modify user roles:
 
     ![Author and Operator check boxes](media/select-role.PNG "Author and Operator check boxes")
 
-10. If you want the user to have admin privileges, select the **System Administrator**check box.
+10. If you want the user to have admin privileges, select the **System Administrator** check box.
 
 ## Troubleshooting
 
