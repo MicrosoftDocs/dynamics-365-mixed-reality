@@ -109,7 +109,7 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
     ![select security](media/D365-admin-center-advanced-settings-security.png "select security")
 
-5. In the **Security** screen, select “Teams”.
+5. In the **Security** screen, select **Teams**.
 
     ![Teams item selected in the Security screen](media/D365-admin-center-advanced-settings-teams.png "Teams item selected in the Security screen")
 
