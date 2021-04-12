@@ -117,7 +117,7 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
     ![select groups dropdown](media/D365-admin-center-advanced-settings-groups.png "select groups dropdown")
  
-7. When the team to be updated is shown, click on the team's name link to modify the team.
+7. Select the team name to modify the team.
 
     ![select group name](media/D365-admin-center-advanced-settings-groupname.png "select group name")
 
