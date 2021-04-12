@@ -24,7 +24,7 @@ Users with the roles of **Restricted Author** and **Restricted Operator** will o
 
 ## Assign roles to groups of users
 
-It's common for organizations to use Azure Active Directory to organize users into logical groups for easier management. For information on creating an Azure Active Directory group, see [Creating a basic group and add members - Azure Active Directory]( https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal).
+It's common for organizations to use Azure Active Directory to organize users into logical groups for easier management. For information on creating an Azure Active Directory group, see [Create a basic group and add members using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal).
 
 By linking Azure Active Directory Security or Office groups to a Dynamics Team, Dynamics 365 Guides roles can be inherited by any user added to the Azure Active Directory Group.
 
