@@ -101,7 +101,7 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
     ![Environment URL in the Details section](media/Power-Platform-admin-center-env-url.png "Environment URL in the Details section")
 
-3. In the title bar select the **Settings** button, and then select **Advanced Settings**.
+3. In the title bar, select the **Settings** button, and then select **Advanced Settings**.
 
     ![Settings button](media/Power-Platform-admin-center-env-adv-settings.png "Settings button")  
 
