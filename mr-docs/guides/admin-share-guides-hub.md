@@ -27,7 +27,7 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
     ![Copy the Instance URL value](media/copy-instance-url.jpg "Copy the Instance URL value")
 
-4. Sign in, and then in the left pane, select **Guides** to open the Guides model-driven app.
+4. Sign in, and then in the left pane of the **Power Apps** screen, select **Guides** to open the Guides model-driven app.
 
     ![Guides model-driven app example](media/Guides-Hub.png "Guides model-driven app example")
 
