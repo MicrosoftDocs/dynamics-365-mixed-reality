@@ -19,11 +19,11 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 ## Access the Guides model-driven app
 
-1. Go to [home.dynamics.com](https://home.dynamics.com), sign in, and then enter **Guides** in the search box.
+1. Go to [home.dynamics.com](https://home.dynamics.com), sign in, and then in **Search my apps**, enter **Guides**.
 
 2. In the PC authoring app, sign in to the Dynamics 365 instance that includes the guide.
 
-3. On the **Analyze** tab, select **Copy** to copy the **Instance URL** value, and then paste the value into the address bar of a web browser.
+3. On the **Analyze** tab in the PC app, under **Instance URL**, select **Copy**, and then paste the value into the address bar of a web browser.
 
     ![Copy the Instance URL value](media/copy-instance-url.jpg "Copy the Instance URL value")
 
