@@ -76,7 +76,7 @@ Before you can modify user roles:
     - If you want to add one or more users, select **Add user** at the top of the page, enter the account details in the **Add user** dialog box, and then select **Add**. For more information, see the "Troubleshooting" section later in this article.
 
         > [!NOTE]
-        > Users added to the instance will be added in the user list within a few minutes.
+        > Users added to the instance will be added to the user list within a few minutes.
 
 6. Select **Manage users in Dynamics 365** at the top of the page.
 
