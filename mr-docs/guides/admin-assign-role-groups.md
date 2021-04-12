@@ -12,19 +12,19 @@ ms.reviewer: v-bholmes
 
 # Assign Author and Operator roles to a Dynamics 365 Group Team linked to an Azure Active Directory Group
 
-## Operator and Author roles for individual users
-
-You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit guides as an author or use them as an operator.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles. **Restricted Authors** only have access to what they have created in the instance, while **Restricted Operators** only have access to what has been shared or assigned to them.
+You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit guides as an author or use them as an operator.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles. **Restricted Authors** have access only to what they have created in the instance, while **Restricted Operators** have access only to what has been shared with or assigned to them.
 
 Users with the roles of **Restricted Author** and **Restricted Operator** will only have access to:
 
-- Guides/content that the user created (unless access was explicitly removed).
-- Guides that were explicitly shared with them or shared with an owner team they are a member of.
-- Guides with ownerships that were assigned to the user or assigned to an owner team that the user is a member of.
+- Guides/content that the user created (unless access was explicitly removed)
 
-## Assigning roles to groups of users
+- Guides that were explicitly shared with them or shared with an Owner team they are a member of
 
-It is common for organizations to use Azure Active Directory to organize users into logical groups for easier management.  We assume your organization has created an Azure Active Directory Group to organize the users who will work as guide authors or guide operators.  See: [Creating a basic group and add members - Azure Active Directory]( https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal)
+- Guides that were assigned to the user or assigned to an Owner team that the user is a member of
+
+## Assign roles to groups of users
+
+It's common for organizations to use Azure Active Directory to organize users into logical groups for easier management. For information on creating an Azure Active Directory group, see [Creating a basic group and add members - Azure Active Directory]( https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal).
 
 By linking Azure Active Directory Security or Office groups to a Dynamics Team, Dynamics 365 Guides roles can be inherited by any user added to the Azure Active Directory Group.
 
