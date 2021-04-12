@@ -97,7 +97,7 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
 1. In the Power Platform admin center, select the environment that you want to update, and then select **Settings**.
 
-2. Under **Details**, select the **Environment URL** link to access the details for the environment.  
+2. In the **Details** section, select the **Environment URL** link to access the details for the environment.  
 
     ![Environment URL in the Details section](media/Power-Platform-admin-center-env-url.png "Environment URL in the Details section")
 
