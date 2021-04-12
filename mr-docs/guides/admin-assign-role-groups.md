@@ -58,9 +58,9 @@ You can assign roles to a team in two ways:
 
 For this option, you'll update a role to include the Dynamics 365 group team that was created in the step above using the [Power Platform admin centre](https://admin.powerplatform.microsoft.com/environments).
 
-1. Select the environment to update and access the settings.
+1. In the Power Platform admin center, select the environment that you want to update and access the settings.
 
-2. In the **Access** section, under **Security role**, select **See all**.
+2. In the **Access** section, under **Security roles**, select **See all**.
 
     ![power platform admin](media/Power-Platform-admin-center-env-setting.png "power platform admin")
  
