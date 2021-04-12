@@ -19,7 +19,7 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 ## Access the Guides model-driven app
 
-1. In the address bar of a web browser, enter [home.dynamics.com](https://home.dynamics.com), sign in, and then under **My Apps**, search for **Guides model-driven app**.
+1. Go to [home.dynamics.com](https://home.dynamics.com), sign in, and then enter **Guides** in the search box.
 
 2. In the PC authoring app, sign in to the Dynamics 365 instance that includes the guide.
 
