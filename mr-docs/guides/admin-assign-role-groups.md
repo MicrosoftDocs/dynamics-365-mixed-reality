@@ -39,7 +39,7 @@ To learn how to create an Azure Active Directory Security group or an Azure Acti
 
 ### Create a Dynamics 365 Group Team
 
-The type of group you create in Dynamics 365 depends on the type of Azure Active Directory group you're starting with (Security or Office). So you'll create a Dynamics 365 Azure Active Directory Security Group Team or an Azure Active Directory Office Group Team. See: [Create and manage group teams - Power Platform](https://docs.microsoft.com/power-platform/admin/manage-group-teams#create-a-group-team)  
+The type of group you create in Dynamics 365 depends on the type of Azure Active Directory group you're starting with (Security or Office). So you'll create a Dynamics 365 Azure Active Directory Security Group Team or an Azure Active Directory Office Group Team. For more information, see [Create and manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams#create-a-group-team)  
 
 The Dynamics 365 Team can be linked to the Azure Active Directory Group that is used to manage your users. D365 Guides roles can be assigned to this team. Members of the Azure Active Directory Group will inherit the roles from the Dynamics 365 Team.
 
