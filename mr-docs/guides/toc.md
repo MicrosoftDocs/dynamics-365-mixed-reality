@@ -19,9 +19,9 @@
 #### [Share Guides model-driven App with users, and groups](admin-share-guides-hub.md)
 #### [Assign user roles to individual users](assign-role.md)
 #### [Assign user roles to a Dynamics 365 Group Team linked to an AAD Group](admin-assign-role-groups.md)
-#### [Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md)
-#### [Assign guides using owner teams to limit access to specific guides or guide content](admin-access-assign.md)
-#### [Share guides or guide content with an access team in Dynamics 365 Guides](admin-access-teams.md)
+#### [Restrict access to a Dynamics 365 Guides instance by using security groups](admin-security.md)
+#### [Use owner teams to limit access to specific guides or guide content](admin-access-assign.md)
+#### [Share guides or guide content by using an access team](admin-access-teams.md)
 #### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
