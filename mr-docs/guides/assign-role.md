@@ -22,7 +22,7 @@ If you're a Microsoft Dynamics 365 Guides admin, you can assign an Author or Ope
 |Restricted Author| Use the PC app and HoloLens app to create, edit, and operate guides or use guides content that the user created or was explicitly shared with them.|
 |Restricted Operator|  Use the HoloLens app to view and operate a guide or access guides content that the user created or was explicitly shared with them. |
 
-## Restricted Author and Restricted Operator roles
+## More about the Restricted Author and Restricted Operator roles
 
 The Restricted Author and Restricted Operator roles are used to limit access to guides. Users who are assigned the Restricted Author and Restricted Operator roles **do not** inherit access to any guides or guide content (3D models, images, or videos) created in the environments that they are permitted to access.
 
