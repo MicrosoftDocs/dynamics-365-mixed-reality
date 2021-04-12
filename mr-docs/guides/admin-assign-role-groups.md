@@ -58,23 +58,24 @@ You can assign roles to a team in two ways:
 
 For this option, you'll update a role to include the Dynamics 365 group team that was created in the step above using the [Power Platform admin centre](https://admin.powerplatform.microsoft.com/environments).
 
-1. In the Power Platform admin center, select the environment that you want to update and access the settings.
+1. In the Power Platform admin center, select the environment that you want to update, and then select **Settings**.
 
 2. In the **Access** section, under **Security roles**, select **See all**.
 
     ![power platform admin](media/Power-Platform-admin-center-env-setting.png "power platform admin")
  
-3. The “Basic User” role must be added to the group to enable Dynamics 365 Guides for the users in this group team.
-
-4. Click on the role name “Basic User” to see more detail.
+3. Under **Role**, select **Basic User**. 
 
     ![basic user](media/Power-Platform-Enviro-Roles.png "basic users")
-
-5. Click on the “Add people” action button at the top of the view.
-
-    ![add people](media/Power-Platform-security-role-add-people.png "Add people")
     
-6. Search for the Dynamics 365 Group Team created in Step 1 above. Select the Group Team when it is shown in the search results and select “add” to confirm.
+    > [!NOTE]
+    > The **Basic User** role must be added to the group to enable Dynamics 365 Guides for the users in this group team. 
+
+5. At the top of the screen, select **Add people**.
+
+    ![Add people command at top of Power Platform screen](media/Power-Platform-security-role-add-people.png "Add people command at top of Power Platform screen")
+    
+6. Search for the Dynamics 365 group team created in Step 1 above, select it in the search results, and then select **Add** to confirm.
 
     ![add group](media/Power-Platform-security-add-group.png "Add group")
  
