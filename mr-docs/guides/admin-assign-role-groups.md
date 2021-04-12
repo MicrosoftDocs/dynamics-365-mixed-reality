@@ -52,7 +52,7 @@ You can assign roles to a team in two ways:
 
 - Option 1: Assign a group team to a Dynamics 365 Guides role. In this case, the additions must be made to the Basic User role and any additional roles that you want to modify. This is the best option if you need to assign a role to many Dynamics 365 group teams.
 
-- Option 2: Modify the Dynamics 365 Group team to add one or more roles. This is the best option if you need to modify a small number of Dynamics 365 group teams.
+- Option 2: Assign Dynamics 365 Guides roles to a group team. This is the best option if you need to modify a small number of Dynamics 365 group teams.
 
 ### Option 1: Assign a group team to a Dynamics 365 Guides role
 
@@ -89,17 +89,11 @@ For this option, you'll update a role to include the Dynamics 365 group team tha
     
     - Dynamics 365 Guides Restricted Operator
 
-8. Click on the role name  to see more detail.
+8. Repeat the above steps for any additional roles that are applied to the group team.
 
-9. Click on the “Add people” action button at the top of the view.
+### Option 2: Assign Dynamics 365 Guides roles to a group team
 
-10. Search for the Dynamics 365 Group Team created in above. Select the Group Team when it is shown in the search results and select “add” to confirm.
-
-Repeat the above steps for any additional roles that are applied to the Group Team.
-
-### Option 2: Assign Dynamics 365 Guides Roles to a Group Team
-
-Update the Dynamics 365 Guides roles to include the Dynamics 365 Group Team that was created in the step above using the [Power Platform admin centre](https://admin.powerplatform.microsoft.com/environments).  See [Add roles to group teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
+For this option, you'll update the Dynamics 365 Guides role to include the Dynamics 365 group team created in the step above using the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments). See [Add roles to group teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
 1. Select the name of the environment to update and access the settings.
 1. In the detail page of the environment, click on Environment URL link to access the details of the environment.  
