@@ -52,7 +52,7 @@ You can assign roles to a team in two ways:
 
 - Option 1: Add people to a role using groups. In this case, the additions must be made to the Basic User role and any additional roles that are to be modified. This is the best option if you need to assign a role to many Dynamics 365 group teams.
 
-- Option 2: Modify the Dynamics 365 Group team to **add one or more roles**. This is the best option if you need to modify a small number of Dynamics 365 group teams.
+- Option 2: Modify the Dynamics 365 Group team to add one or more roles. This is the best option if you need to modify a small number of Dynamics 365 group teams.
 
 ### Option 1: Assign a group team to a Dynamics 365 Guides role
 
