@@ -43,11 +43,12 @@ The type of group you create in Dynamics 365 depends on the type of Azure Active
 
 The Dynamics 365 team can be linked to the Azure Active Directory group that's used to manage your users. Dynamics 365 Guides roles can be assigned to this team. Members of the Azure Active Directory group will inherit the roles from the Dynamics 365 team.
 
-For more information on how to link an Azure Active Directory group to a Dynamics 365 team, see the [Manage group teams - Power Platform](https://docs.microsoft.com/power-platform/admin/manage-group-teams). When setting a value for  **membership type** by selecting one of the options (Members/Members&Guests/Guests/Owners) be aware that this determines which users in the group will flow into the Dynamics 365 team.  Setting the **membership type** is similar to setting a pass-through filter. If membership type: “members” is selected and a guest is added to the group, the guest will not flow down into a team that has a membership type of “members”.  This guest will not inherit the role from the Dynamics 365 Group Team.  
+For more information on how to link an Azure Active Directory group to a Dynamics 365 team, see the [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams). When setting a value for **membership type** by selecting one of the options (Members/Members&Guests/Guests/Owners), be aware that this determines which users in the group will flow into the Dynamics 365 team.  Setting the **membership type** is similar to setting a pass-through filter. If membership type: “members” is selected and a guest is added to the group, the guest will not flow down into a team that has a membership type of “members”.  This guest will not inherit the role from the Dynamics 365 Group team.  
 
-Two options are available for assigning roles to a team.  
+You can assign roles to a team in two ways: 
 
 - Option 1 is to **add people** to a role using groups.  In this case these additions must be made to the Basic User role and any additional roles that are to be modified.  This is the best option if many Dynamics 365 Group Teams need to have a role assigned.
+
 - Option 2 is to modify the Dynamics 365 Group Team to **add one or more roles**.  This is the best option if a small number of Dynamics 365 Group Teams require modification.
 
 ### Option 1: Assign a Group Team to a Dynamics 365 Guides Role
