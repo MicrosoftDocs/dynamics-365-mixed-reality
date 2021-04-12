@@ -23,7 +23,7 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 2. In the PC authoring app, sign in to the Dynamics 365 instance that includes the guide.
 
-3. On the **Analyze** tab in the PC app, under **Instance URL**, select **Copy**, and then paste the value into the address bar of a web browser.
+3. Select the **Analyze** tab in the PC app, and then under **Instance URL**, select **Copy**, and then paste the value into the address bar of a web browser.
 
     ![Copy the Instance URL value](media/copy-instance-url.jpg "Copy the Instance URL value")
 
