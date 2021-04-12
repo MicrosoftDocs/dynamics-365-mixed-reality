@@ -24,17 +24,14 @@ Users with the roles of **Restricted Author** and **Restricted Operator** will o
 
 ## Assign roles to groups of users
 
-It's common for organizations to use Azure Active Directory to organize users into logical groups for easier management. By linking Azure Active Directory Security or Office groups to a Dynamics Team, Dynamics 365 Guides roles can be inherited by any user added to the Azure Active Directory Group.
-For more information on Azure Active Directory groups, check out the links in the following table.
+It's common for organizations to use Azure Active Directory to organize users into logical groups for easier management. By linking Azure Active Directory Security or Office groups to a Dynamics Team, Dynamics 365 Guides roles can be inherited by any user added to the Azure Active Directory Group. To get an overview of Azure Active Directory groups and managing group teams, see the following links:
 
-|To|Go here|
-|--------------------------------------|----------------------------------------|
-|Get an overview of Azure Active Directory groups|[Groups in Microsoft 365 and Azure, and Which is Right for You](https://docs.microsoft.com/microsoft-365/community/all-about-groups)|
-|Get an overview of managing group teams|[Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams)|
-|Learn how to create a basic group and add members|[Create a basic group and add members using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal)|
+- [Groups in Microsoft 365 and Azure, and Which is Right for You](https://docs.microsoft.com/microsoft-365/community/all-about-groups)
+
+- [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams)
 
 > [!NOTE]
-> SharePoint groups are not supported by Dynamics 365.  Only Azure Active Directory Office or Security Groups are supported by Dynamics 365 Group Teams.
+> SharePoint groups are not supported by Dynamics 365.  Only Azure Active Directory Office or Security groups are supported by Dynamics 365 Group Teams.
 
 ### Create an Azure Active Directory Group
 
