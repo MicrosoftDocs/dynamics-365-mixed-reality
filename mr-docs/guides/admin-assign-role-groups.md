@@ -121,7 +121,7 @@ For this option, you'll update the Dynamics 365 Guides role to include the Dynam
 
     ![select group name](media/D365-admin-center-advanced-settings-groupname.png "select group name")
 
-8. At the top of the page, the “manage roles” option is available.
+8. At the top of the page, select **MANAGE ROLES**.
 
     ![select manage roles](media/D365-admin-center-advanced-settings-manage-roles.png "manage roles")
 
