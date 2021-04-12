@@ -37,23 +37,26 @@ You can use Azure Active Directory to organize users into logical groups for eas
 
 To learn how to create an Azure Active Directory Security group or an Azure Active Directory Office group, see [Create a basic group and add members using Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-groups-create-azure-portal).
 
-### Create a Dynamics 365 Group Team
+### Create a Dynamics 365 group team
 
 The type of group you create in Dynamics 365 depends on the type of Azure Active Directory group you're starting with (Security or Office). So you'll create a Dynamics 365 Azure Active Directory Security group team or an Azure Active Directory Office group team. For more information, see [Create a group team](https://docs.microsoft.com/power-platform/admin/manage-group-teams#create-a-group-team).  
 
-The Dynamics 365 team can be linked to the Azure Active Directory group that's used to manage your users. Dynamics 365 Guides roles can be assigned to this team. Members of the Azure Active Directory group will inherit the roles from the Dynamics 365 team.
+The Dynamics 365 team can be linked to the Azure Active Directory group that's used to manage your users. Dynamics 365 Guides roles can be assigned to this team so that members of the Azure Active Directory group will inherit the roles from the Dynamics 365 team.
 
-For more information on how to link an Azure Active Directory group to a Dynamics 365 team, see the [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams). When setting a value for **membership type** by selecting one of the options (Members/Members&Guests/Guests/Owners), be aware that this determines which users in the group will flow into the Dynamics 365 team.  Setting the **membership type** is similar to setting a pass-through filter. If membership type: “members” is selected and a guest is added to the group, the guest will not flow down into a team that has a membership type of “members”.  This guest will not inherit the role from the Dynamics 365 Group team.  
+For more information on how to link an Azure Active Directory group to a Dynamics 365 team, see [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams). 
+
+> [!NOTE] 
+> When setting a value for **membership type** by selecting one of the options (**Members**, **Members & Guests**, **Guests**, or **Owners**), be aware that this value determines which users in the group will flow into the Dynamics 365 team. Setting the **membership type** is similar to setting a pass-through filter. For example, if **Members** is selected and a guest is added to the group, the guest will not flow down into the team and will not inherit the role from the Dynamics 365 group team.  
 
 You can assign roles to a team in two ways: 
 
-- Option 1 is to **add people** to a role using groups.  In this case these additions must be made to the Basic User role and any additional roles that are to be modified.  This is the best option if many Dynamics 365 Group Teams need to have a role assigned.
+- Option 1: **Add people** to a role using groups. In this case, the additions must be made to the Basic User role and any additional roles that are to be modified. This is the best option if you need to assign a role to many Dynamics 365 group teams.
 
-- Option 2 is to modify the Dynamics 365 Group Team to **add one or more roles**.  This is the best option if a small number of Dynamics 365 Group Teams require modification.
+- Option 2: Modify the Dynamics 365 Group team to **add one or more roles**. This is the best option if you need to modify a small number of Dynamics 365 group teams.
 
-### Option 1: Assign a Group Team to a Dynamics 365 Guides Role
+### Option 1: Assign a group team to a Dynamics 365 Guides role
 
-Update a role to include the Dynamics 365 Group Team that was created in the step above using the [Power Platform admin centre](https://admin.powerplatform.microsoft.com/environments).
+For this option, you'll update a role to include the Dynamics 365 group team that was created in the step above using the [Power Platform admin centre](https://admin.powerplatform.microsoft.com/environments).
 
 1. Select the environment to update and access the settings.
 1. In the “Access” section, select “See All” under the security roles heading.
