@@ -46,7 +46,7 @@ To prevent a specific user from accessing all guides by default, you can update 
 
     ![Settings command](media/access-teams-9.PNG "Settings command")
 
-2. On the **Settings** page, select **Users**.
+2. In the **Settings** page, select **Users**.
 
     ![Users button](media/access-teams-10.PNG "Users button")
 
@@ -64,7 +64,7 @@ To prevent a specific user from accessing all guides by default, you can update 
 
     4. Select **OK**.
 
-    ![Clear and select roles](media/manage-user-basic-user-restricted-op.PNG "Clear and select roles")
+    ![Clear and select roles](media/manage-user-basic-user-restricted-op.png "Clear and select roles")
 
 ## Create an Access Team
 
