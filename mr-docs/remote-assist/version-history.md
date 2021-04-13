@@ -20,13 +20,13 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|302.2102.2003|
+|HoloLens (1st gen) and 2|302.2102.2003|
 |iOS mobile app|2021.2.10|
 |Android mobile app|2021.2.10|
 
 ### Bug fixes
 
-#### HoloLens 1 and 2
+#### HoloLens (1st gen) and 2
 
 - Fixed bugs related to file sharing with Teams users.
 - Fixed bugs related to voice commands.
@@ -55,13 +55,13 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|301.2101.6001|
+|HoloLens (1st gen) and 2|301.2101.6001|
 |iOS mobile app|2021.1.8|
 |Android mobile app|2021.01.05|
 
 ### Bug fixes
 
-#### HoloLens 1 and 2
+#### HoloLens (1st gen) and 2
 
 - Important bug fixes and stability improvements.
 
@@ -111,13 +111,13 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|301.2012.9002|
+|HoloLens (1st gen) and 2|301.2012.9002|
 |iOS mobile app|2020.12.09|
 |Android mobile app|2020.12.09|                                                                                       
 
 ### Bug fixes
 
-#### HoloLens 1 and 2
+#### HoloLens (1st gen) and 2
 
 - Improvements around selecting Dynamics 365 environment.
 - Fixed "Post to Work Order" not working under certain conditions, and sometimes showing the dialog unnecessarily.
@@ -180,7 +180,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|300.2010.1002|
+|HoloLens (1st gen) and 2|300.2010.1002|
 |iOS mobile app|2020.10.1|
 |Android mobile app|2020.10.03|
 
@@ -217,7 +217,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|211.2009.7002.0|
+|HoloLens (1st gen) and 2|211.2009.7002.0|
 |iOS mobile app|2020.9.1|
 |Android mobile app|2020.09.04|
 
@@ -250,7 +250,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|211.2007.30002|
+|HoloLens (1st gen) and 2|211.2007.30002|
 
 ### Bug fixes
 
@@ -298,7 +298,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|210.2007.1003.0|
+|HoloLens (1st gen) and 2|210.2007.1003.0|
 |iOS mobile app|2020.7.1|
 |Android mobile app|2020.06.27|
 
@@ -307,7 +307,7 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 #### HoloLens 2
 
 - A Dynamics 365 Remote Assist HoloLens user using GCC High can successfully join a meeting. 
--	Fixed bug in group calls on HoloLens 1 where remote collaborators are unable to annotate from Microsoft Teams client.   
+-	Fixed bug in group calls on HoloLens (1st gen) where remote collaborators are unable to annotate from Microsoft Teams client.   
 -	Fixed issue with video sharing when a Dynamics 365 Remote Assist HoloLens user rejoins a meeting.
 -	Improved experience for using near-field and far-field interactions to manage (for example, resize, move) holographic windows (for example, video card, undocked chat window).
 -	Fixed issue regarding CDS instance selection for the Dynamics 365 Remote Assist solution from HoloLens.
@@ -413,13 +413,13 @@ This article provides a version history for Microsoft Dynamics 365 Remote Assist
 
 |Device|Version|
 |------------------------------------------|---------------------------------------------|
-|HoloLens 1 and 2|208.2004.1002.0|
+|HoloLens (1st gen) and 2|208.2004.1002.0|
 |iOS mobile app|2020.4.1|
 |Android mobile app|2002.03.18|
 
 ### Bug fixes
 
-#### HoloLens 1 and 2
+#### HoloLens (1st gen) and 2
 
 - Fixed various speech command bugs.
 - Improvements to tool tips.

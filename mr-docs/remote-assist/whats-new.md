@@ -15,16 +15,10 @@ This article describes new features for Dynamics 365 Remote Assist.
 
 For more detailed information about new and upcoming features for Dynamics 365 Remote Assist, see [the Dynamics 365 and Power Platform release plans](https://docs.microsoft.com/dynamics365/release-plans/).
 
-For detailed version histories, see: 
-
-- [Dynamics 365 Remote Assist for HoloLens 1 + 2 version history](version-history-remote-assist-hololens.md)
-- [Dynamics 365 Remote Assist mobile app version history](version-history-remote-assist-mobile.md)
-
-
 ## April 1, 2021
 
 > [!IMPORTANT]
-> Dynamics 365 Remote Assist on HoloLens 1 has entered Long Term Servicing state. Future updates for HoloLens 1 will focus on issues and security fixes, while maintaining feature parity with the February 2021 release (version 302.2102.2003).
+> Dynamics 365 Remote Assist on HoloLens (1st gen) has entered Long Term Servicing state. Future updates for HoloLens (1st gen) will focus on issues and security fixes, while maintaining feature parity with the February 2021 release (version 302.2102.2003).
 
 ### Version info
 
@@ -42,7 +36,7 @@ For detailed version histories, see:
 |Support for meeting recordings on HoloLens|[Record calls in Dynamics 365 Remote Assist on HoloLens](record-calls-hololens.md)|
 |Improvement to the Microsoft Dataverse Environment selection||
 |Instinctual interaction improvements on HoloLens 2|[HoloLens voice commands and gestures](voice-commands-hololens.md#gestures)|
-|Long Term Servicing for Dynamics 365 Remote Assist on HoloLens 1||
+|Long Term Servicing for Dynamics 365 Remote Assist on HoloLens (1st gen)||
 
 ### Bug fixes
 
