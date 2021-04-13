@@ -11,11 +11,9 @@ ms.reviewer: v-bholmes
 
 # Restrict access to an environment in Dynamics 365 Guides by using security groups
 
-If your company has multiple Microsoft Dynamics 365 Guides environments, you can use security groups to control which users can access each environment. 
+If your company has multiple Microsoft Dynamics 365 Guides environments, you can use security groups to control which users can access each environment. A security group restricts access to the environment to people in the security group. If a Microsoft Dataverse environment does not have an associated security group, all users with a Dataverse license (Dynamics 365 Guides, Power Automate, Power Apps, and so on) will be created as users and enabled in the environment. 
 
-Each environment can have just one security group. A security group restricts access to the environment to people in the security group. If a Microsoft Dataverse environment does not have an associated security group, all users with a Dataverse license (Dynamics 365 Guides, Power Automate, Power Apps, and so on) will be created as users and enabled in the environment. 
-
-For example, you could create three security groups to control access to the following environments.
+Each environment can have just one security group. For example, you could create three security groups to control access to the following environments.
 
 | Environment                    | Security group  | Purpose |
 |--------------------------------|-----------------|---------|
@@ -26,7 +24,7 @@ For example, you could create three security groups to control access to the fol
 [Learn more about controlling user access to environments](https://docs.microsoft.com/power-platform/admin/control-user-access). 
 
 > [!NOTE]
-> Environments are sometimes referred to as "organizations" or "instances."  Each of these terms refers to the same concept. The Power Apps user interface and documentation usually use the term "environment," while Dynamics 365 documentation usually uses the term "instance."
+> Environments are sometimes referred to as "organizations" or "instances." Each of these terms refers to the same concept. 
 
 ## Create a user and assign a license
 
