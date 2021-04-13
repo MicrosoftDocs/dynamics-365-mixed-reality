@@ -42,7 +42,7 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 3. Select the guide that you want to assign. You can select multiple guides.
    
-   ![Select the guide that you want to reassign](media/admin-access-assign-01.png "Select the guide that you want to reassign")
+   ![Select the guide that you want to reassign](media/admin-access-assign-01.PNG "Select the guide that you want to reassign")
 
 4. Select **Assign**.
 
