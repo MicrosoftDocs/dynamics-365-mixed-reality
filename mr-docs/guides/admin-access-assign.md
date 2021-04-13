@@ -36,7 +36,7 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 ## Assign a guide to a user or an owner team
 
-1. Go to [Dynamics 365](https://home.dynamics.com/)  and open the App Launcher using the App Launcher icon  ![app launcher icon](media/app-launcher-icon.png) at the top left of the top menu bar.
+1. Go to [Dynamics 365 Home](https://home.dynamics.com/)  and open the App Launcher using the App Launcher icon  ![app launcher icon](media/app-launcher-icon.png) at the top left of the top menu bar.
 1. Select **Power Apps** , then select **Apps**, and select **Guides**.  
 1. From a list of guide, select the guide that you want to assign to someone else. You can select multiple guides.
 
