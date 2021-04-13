@@ -1,22 +1,13 @@
 ---
-title: "Assign a guide using owner teams to limit access to specific guides or guide content in Dynamics 365 Guides | MicrosoftDocs"
-description: How to Assign a guide to an owner team with power apps admin
+title: Assign a guide using owner teams to limit access to specific guides or guide content in Dynamics 365 Guides
+description: Learn how to assign a guide to an owner team to limit access to specific guides or guide content in Dynamics 365 Guides.
 author:  MattHoag-MS
 manager: anhaman
 ms.service: crm-online
-ms.component: pa-user
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 04/14/2021
 ms.author: v-mhoag
-ms.custom: ""
-ms.reviewer: ""
-ms.assetid: 
-search.audienceType: 
-  - enduser
-search.app: 
-  - Guides
-  - PowerApps
-  - D365CE
+ms.reviewer: v-bholmes
 ---
 <!-- This article is a copy of the article below with the term "record" updated to "guide".   A better solution will have to be found to "customize" core power apps support documents to address the specific D365 Guides user experience.  
 https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
