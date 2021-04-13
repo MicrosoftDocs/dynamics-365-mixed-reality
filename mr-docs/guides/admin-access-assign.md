@@ -54,11 +54,11 @@ For more information on privileges, teams, and controlling access to apps, see t
       
       ![Select Me to assign the guide to yourself](media/admin-access-assign-03.png "Select Me to assign the guide to yourself")
       
-    - Select **User or Team** and then enter the name of the user or team or use the lookup to find them. Select **New record** to create a new user or team.
+    - Select **User or team** and then enter the name of the user or team (or use the lookup). To create a new user or team, select **New record**.
       
       ![Use the lookup to reassign a guide](media/admin-access-assign-04.png "Use the lookup to reassign a guide")
       
-6. Select **Assign**.
+6. Select **Assign** when you're done.
 
 ## Share a guide with someone else
 
