@@ -12,19 +12,19 @@ ms.reviewer: v-bholmes
 <!-- This article is a copy of the article below with the term "record" updated to "guide".   A better solution will have to be found to "customize" core power apps support documents to address the specific D365 Guides user experience.  
 https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
-# Assign or share guides
+# Limit access to a specific guide or guide content in Dynamics 365 Guides by using owner teams
 
-When you create a guide, you are the owner of the guide. If you would like another person in your organization to also have ownership of the guide, then you can assign the ownership of a guide to that person. You can assign the ownership of a Guide to a user or team. You can also assign the ownership of a Guide to yourself if you have a role with the assign privilege.
+When you create a guide in MIcrosoft Dynamics 365 Guides, you are the owner of the guide. If you want another person in your organization to also have ownership of the guide, you can assign the ownership of a guide to that person. You can assign the ownership of a guide to a user or team. You can also assign the ownership of a guide to yourself if you have a role with the Assign privilege.
 
-If you want to keep ownership of the guide but let someone else work on it with you, then use the **Share** option to share the guide.
+If you want to keep ownership of the guide, but let someone else work on it with you, you can use the **Share** option to share the guide.
 
 For more information on how privileges and access works, see [How access to a row (or guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined).
 
-For more information on how to control access to Guides Hub which is a model-driven app, see [Share a model driven app using power app](https://docs.microsoft.com/powerapps/maker/model-driven-apps/share-model-driven-app).
+For more information on how to control access to the Guides model-driven app, see [Share a model-driven app using Power Apps](https://docs.microsoft.com/powerapps/maker/model-driven-apps/share-model-driven-app).
 
-For information on background to give access to the hololens app or PC App, see [Security roles and privileges](https://docs.microsoft.com/power-platform/admin/security-roles-privileges#team-members-privilege-inheritance)
+For information on background to give access to the HoloLens app or PC app, see [Security roles and privileges](https://docs.microsoft.com/power-platform/admin/security-roles-privileges#team-members-privilege-inheritance).
 
-For more information on the three types of teams; *owner* team, Azure Active Directory (Azure AD) *group* team, or an *access* team , see [Manage Teams in Power Platform Security](https://docs.microsoft.com/power-platform/admin/manage-teams).
+For more information on the three types of teams (*owner* team, Azure Active Directory *group* team, or *access* team), see [Manage Teams in Power Platform Security](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
 ## Assign a guide to a user or an owner team
 
