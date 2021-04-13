@@ -62,6 +62,6 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 ## Share a guide with someone else
 
- Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on Guides as Authors, or use Guides as Operators. In exceptional cases, the share option can be used for individuals who are not members of a team.  For details on the sharing process see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
+Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use guides as operators. In exceptional cases, the Share option can be used for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
