@@ -15,7 +15,7 @@ If your company has multiple Microsoft Dynamics 365 Guides environments, you can
 
 Each environment can have just one security group. A security group restricts access to the environment to people in the security group. If a Microsoft Dataverse environment does not have an associated security group, all users with a Dataverse license (Dynamics 365 Guides, Power Automate, Power Apps, and so on) will be created as users and enabled in the environment. 
 
-For example, you might want to create three security groups to control access to the following environments.
+For example, you could create three security groups to control access to the following environments.
 
 | Environment                    | Security group  | Purpose |
 |--------------------------------|-----------------|---------|
