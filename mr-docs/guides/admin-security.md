@@ -1,29 +1,30 @@
 ---
 author: Mamaylya
-description: Learn how to use security groups to control which users can access which instances in Microsoft Dynamics 365 Guides.
+description: Learn how to use security groups to control which users can access which environments in Microsoft Dynamics 365 Guides.
 ms.author: mamaylya
-ms.date: 02/25/2021
+ms.date: 04/14/2021
 ms.service: crm-online
 ms.topic: article
-title: Restrict access to an instance in Dynamics 365 Guides by using security groups
-ms.reviewer: v-brycho
+title: Restrict access to an environment in Dynamics 365 Guides by using security groups
+ms.reviewer: v-bholmes
 ---
 
-# Restrict access to an instance in Dynamics 365 Guides by using security groups
->[!NOTE]
->Environments are sometimes also known as organizations or instances.  Each of these terms refers to the same concept. The Power Apps user interface and documentation usually use the term environment, while Dynamics 365 documentation usually uses the term instance.
+# Restrict access to an environment in Dynamics 365 Guides by using security groups
 
-If your company has multiple instances of Microsoft Dynamics 365 Guides, you can use security groups to control which users can access each instance.
+If your company has multiple Microsoft Dynamics 365 Guides environments, you can use security groups to control which users can access each environment. 
 
-Each instance can only use one security group. A security group will restrict environment access to people in the security group.  If a Dataverse environment does not have an associated security group, all users with a Dataverse license (Dyanamics 365 Guides, Power Automate, Power Apps, etc.) will be created as users and enabled in the environment. [Learn More](https://docs.microsoft.com/power-platform/admin/control-user-access) 
+Each environment can have just one security group. A security group restricts access to the environment to people in the security group. If a Microsoft Dataverse environment does not have an associated security group, all users with a Dataverse license (Dynamics 365 Guides, Power Automate, Power Apps, and so on) will be created as users and enabled in the environment. [Learn more about ](https://docs.microsoft.com/power-platform/admin/control-user-access) 
 
-For example, you might want to create three security groups to control access to the following instances.
+For example, you might want to create three security groups to control access to the following environments.
 
-| Instance                       | Security group  | Purpose |
+| Environment                    | Security group  | Purpose |
 |--------------------------------|-----------------|---------|
 | Coho Manufacturing Sales       | Sales\_SG       | Provide access to the organization that creates sales opportunities, handles quotations, and closes deals. |
 | Coho Manufacturing Maintenance | Maintenance\_SG | Provide access to the organization that does service and machinery maintenance. |
-| Coho Manufacturing Dev         | Developer\_SG   | Provide access to the sandbox instance that is used for development and testing. |
+| Coho Manufacturing Dev         | Developer\_SG   | Provide access to the sandbox environment that is used for development and testing. |
+
+> [!NOTE]
+> Environments are sometimes referred to as "organizations" or "instances."  Each of these terms refers to the same concept. The Power Apps user interface and documentation usually use the term "environment," while Dynamics 365 documentation usually uses the term "instance."
 
 ## Create a user and assign a license
 
