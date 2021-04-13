@@ -131,7 +131,7 @@ A user can be associated with more than one access team.
 
 ## Share a guide with a specific user
 
-Users who have the Share privilege can share guides and and guide records that they own with other users.
+Users who have the Share privilege can share guides and guide records that they own with other users.
 
 1. Go to <https://make.powerapps.com/>.
 
