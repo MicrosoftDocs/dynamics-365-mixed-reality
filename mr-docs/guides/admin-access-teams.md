@@ -58,7 +58,7 @@ To prevent a specific user from accessing all guides by default, you can update 
 
     1. If it's selected, clear the check box for the **Dynamics 365 Guides Operator** role.
 
-    2. Select the check box for the **Common Data Service User** role.
+    2. Select the check box for the **Basic User** role.
 
     3. Select the check box for the **Dynamics 365 Guides Operator Restricted** role.
 
