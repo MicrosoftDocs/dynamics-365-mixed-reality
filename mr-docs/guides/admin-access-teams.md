@@ -18,9 +18,9 @@ ms.reviewer: v-brycho
 > [!NOTE]
 > Dynamics 365 offers additional ways to customize and configure access to specific records in Microsoft Dataverse. However, this topic doesn't cover advanced configuration, such as the creation of [owner teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information).
 
-For more information on how privileges and access works, see [How access to a row (guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined).
+For more information on how privileges and access works, see [How access to a record (guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined).
 
-For more information on the three types of teams (*owner* team, Azure Active Directory *group* team, or an *access* team), see [Manage teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
+For more information on the three types of teams (*owner* team, Azure Active Directory *group* team, or *access* team), see [Manage teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
 ## How access teams work with the Operator and Author user roles
 
