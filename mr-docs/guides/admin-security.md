@@ -21,7 +21,7 @@ Each environment can have just one security group. For example, you could create
 | Coho Manufacturing Maintenance | Maintenance\_SG | Provide access to the organization that does service and machinery maintenance. |
 | Coho Manufacturing Dev         | Developer\_SG   | Provide access to the sandbox environment that is used for development and testing. |
 
-[Learn more about controlling user access to environments](https://docs.microsoft.com/power-platform/admin/control-user-access). 
+[Learn more about controlling user access to environments with security groups](https://docs.microsoft.com/power-platform/admin/control-user-access). 
 
 > [!NOTE]
 > Environments are sometimes referred to as "organizations" or "instances." Each of these terms refers to the same concept. 
