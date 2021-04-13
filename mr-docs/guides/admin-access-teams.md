@@ -13,7 +13,7 @@ ms.reviewer: v-brycho
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
-[Assigning the ownership of a guide](admin-access-assign.md) in Microsoft Dynamics 365 Guides to a user is the preferred process for controlling who can use specific guides.  If teams change frequently resulting in a need to create and delete Access Teams often a Microsoft Dynamics 365 Admin (or an other user with the share privilege) can **share** Guides with [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos) in Dynamics 365 Guides.
+[Assigning the ownership of a guide](admin-access-assign.md) in Microsoft Dynamics 365 Guides to a user is the preferred method for controlling who can use specific guides. If teams change frequently, resulting in a need to create and delete access teams often, a Dynamics 365 admin (or other user with the Share privilege) can share guides with [access teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information) to control who can see specific guides and guide content (3D models, images, or videos).
 
 > [!NOTE]
 > Dynamics 365 offers additional ways to customize and configure access to specific records in Microsoft Dataverse. However, this topic doesn't cover advanced configuration, such as the creation of [owner teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information).
@@ -24,16 +24,16 @@ For more information on the three types of teams (*owner* team, Azure Active Dir
 
 ## How access teams work with the Operator and Author user roles
 
-You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit Guides as an operator or use them as an author.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all Guides in the instance. To limit access to specific Guides or Guide content (3D models, images, or videos), you can use the **Restricted Operator** and **Restricted Author** roles. Users who are assigned one of these roles do not have access to any Guide created in the environment.  
+You can assign an Operator or Author role to a user to specify whether that user can create and edit guides as an author or use them as an operator. When you assign an Operator or Author role, that role automatically grants the user access to all guides in the environment. To limit access to specific guides or guide content (3D models, images, or videos), you can use the Restricted Operator and Restricted Author roles. A user who is assigned one of these roles does not have access to any guide created in the environment. The user has access only to:
 
-Users with the roles of **Restricted Operator** and **Restricted Author** will only have access to:
+- Guides that the user creates (unless access is explicitly removed)
 
-- Guides that the user created (unless access was explicitly removed)
-- Guides that were explicitly shared with them or shared with an owner team they are a member of.
+- Guides that were explicitly shared with the user or shared with an owner team they are a member of.
+
 - Guides with ownerships that were assigned to the user or assigned to an owner team that the user is a member of.
 
->[!IMPORTANT]
->If you have already restricted access to guides or guides content by creating your own security role with reduced privileges, you’ll need to remove that security role and replace it with one of the built-in security roles as described in this article.
+> [!IMPORTANT]
+> If you have already restricted access to guides or guides content by creating your own security role with reduced privileges, you’ll need to remove that security role and replace it with one of the built-in security roles as described in this article.
 
 ## Assign the restricted security role
 
