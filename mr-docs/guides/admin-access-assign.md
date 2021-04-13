@@ -36,22 +36,27 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 ## Assign a guide to a user or an owner team
 
-1. Go to [Dynamics 365 Home](https://home.dynamics.com/)  and open the App Launcher using the App Launcher icon  ![app launcher icon](media/app-launcher-icon.png) at the top left of the top menu bar.
-1. Select **Power Apps** , then select **Apps**, and select **Guides**.  
-1. From a list of guide, select the guide that you want to assign to someone else. You can select multiple guides.
+1. Go to [Dynamics 365 Home](https://home.dynamics.com/), and then select the App Launcher button ![app launcher icon](media/app-launcher-icon.png) at the top left of the top menu bar.
+
+2. Select **Power Apps**, select **Apps**, and then select **Guides**.  
+
+3. Select the guide that you want to assign. You can select multiple guides.
 
    > [!div class="mx-imgBorder"]
    > ![Select the guide that you want to reassign](media/admin-access-assign-01.png "Select the guide that you want to reassign")
 
-1. On the command bar, select **Assign**.
+4. Select **Assign**.
 
    > [!div class="mx-imgBorder"]
    > ![Select assign a guide](media/admin-access-assign-02.png "Select assign a guide")
 
-1. In the assign dialog box, select the **Assign to** column, and choose one of the following options:
+5. In the assign dialog box, select the **Assign to** column, and choose one of the following options:
+
     - Select **Me** to assign the guide to yourself and then select **Assign**. Remember only a system administrator can re-assign ownership of a guide that belongs to someone else.
+    
       > [!div class="mx-imgBorder"]
       > ![Select Me to assign the guide to yourself](media/admin-access-assign-03.png "Select Me to assign the guide to yourself")
+      
     - Select **User or Team** and then enter the name of the user or team or use the lookup to find them. Or, select **New record** to create a new user or team. When you're done select **Assign**.
 
       > [!div class="mx-imgBorder"]
