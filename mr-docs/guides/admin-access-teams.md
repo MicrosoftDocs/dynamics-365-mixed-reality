@@ -85,7 +85,7 @@ A user can be associated with more than one access team.
 
     ![New button](media/access-teams-15.PNG "New button")
 
-4. On the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
+4. In the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
 
     ![New team settings](media/access-teams-16.jpg "New team settings")
 
