@@ -125,7 +125,7 @@ A user can be associated with more than one access team.
 
     ![Add access teams](media/access-teams-21.PNG "Add access teams")
 
-7. In the **Share guide** dialog box, select specific permissions. Make sure the team has the **Read** permission.
+7. In the **Share guide** dialog box, select specific permissions (make sure the team has the **Read** permission), and then select **Share**.
 
     ![Update Permissions](media/access-teams-21B.png "Update Permissions")
 
