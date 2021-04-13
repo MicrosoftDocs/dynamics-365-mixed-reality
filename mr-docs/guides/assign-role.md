@@ -2,7 +2,7 @@
 author: Mamaylya
 description: Assign an Author or Operator role to users in Microsoft Dynamics 365 Guides to control whether users can edit and view guides (Author role) or just view guides (Operator role).
 ms.author: mamaylya
-ms.date: 04/13/2021
+ms.date: 04/14/2021
 ms.service: crm-online
 ms.topic: article
 title: Assign an Author or Operator role to a user to control whether a user can author a guide or just view a guide
