@@ -50,7 +50,7 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 5. In the **Assign Guide** dialog box, select the **Assign to** column, and then select one of the following options:
 
-    - Select **User or team** and then enter the name of the user or team (or use the lookup). To create a new user or team, select **New Record**.
+    - Select **User or team** and then enter the name of the user or team (or use the search box). To create a new user or team, select **New Record**.
       
       ![Use the lookup to reassign a guide](media/admin-access-assign-04.png "Use the lookup to reassign a guide")
 
@@ -62,6 +62,6 @@ For more information on privileges, teams, and controlling access to apps, see t
 
 ## Share a guide with someone else
 
-Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use guides as operators. In exceptional cases, the Share option can be used for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
+Teams should be structured so that ownership of a guide is assigned to one or more teams that include the groups of users who need to collaborate on guides as authors, or use the guides as operators. In exceptional cases, you can use the **Share** option for individuals who are not members of a team. For details on the sharing process, see [Use access teams to limit access to specific guides or guide content in Dynamics 365 Guides](https://docs.microsoft.com/dynamics365/mixed-reality/guides/admin-access-teams).
 
 [!INCLUDE[footer-include](../includes/footer-banner.md)]
