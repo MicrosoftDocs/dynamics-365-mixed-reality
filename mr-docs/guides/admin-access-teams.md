@@ -35,7 +35,7 @@ You can assign an Operator or Author role to a user to specify whether that user
 > [!IMPORTANT]
 > If you have already restricted access to guides or guides content by creating your own security role with reduced privileges, you’ll need to remove that security role and replace it with one of the built-in security roles as described in this article.
 
-## Assign the restricted security role
+## Assign a restricted security role
 
 To prevent a specific user from accessing all guides by default, you can update the user's security role to the **Dynamics 365 Guides Restricted Operator** role. Once assigned, they will be able to see only guides assigned or shared with them or teams they are members of.
 
