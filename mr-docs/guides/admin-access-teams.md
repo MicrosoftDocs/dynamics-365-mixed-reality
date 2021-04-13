@@ -66,7 +66,7 @@ To prevent a specific user from accessing all guides by default, you can update 
 
     ![Clear and select roles](media/manage-user-basic-user-restricted-op.png "Clear and select roles")
 
-## Create an Access Team
+## Create an access team
 
 A user can be associated with more than one access team.
 
