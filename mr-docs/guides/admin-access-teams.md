@@ -101,7 +101,7 @@ A user can be associated with more than one access team.
 
 2. Select **Power Apps**.
 
-3. Go to **Your Apps**, and then select **Guides**.
+3. Under **Your Apps**, select **Guides**.
 
     ![Guides button](media/access-teams-22.PNG "Guides button")
 
