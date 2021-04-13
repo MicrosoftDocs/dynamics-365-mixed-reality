@@ -73,27 +73,27 @@ A user can be associated with more than one access team.
 > [!NOTE]
 > If you or someone else has already created an access team that you want to use, skip ahead to the next procedure.
 
-1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), on the **Environments** page, select the same Guides solution, select the **More environment actions** (**...**) button, and then select **Settings**.
+1. In the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), in the **Environments** page, select the same Guides solution, select the **More environment actions** (**...**) button, and then select **Settings**.
 
     ![Settings command](media/access-teams-9.PNG "Settings command")
 
-1. On the **Settings** page, select **Teams**.
+2. In the **Settings** page, select **Teams**.
 
     ![Teams button](media/access-teams-14.PNG "Teams button")
 
-1. Select **New**.
+3. Select **New**.
 
     ![New button](media/access-teams-15.PNG "New button")
 
-1. On the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
+4. On the **New Team** page, set the **Team Name** and **Administrator** fields, change the value of the **Team Type** field to **Access**, and then select **Save**.
 
     ![New team settings](media/access-teams-16.jpg "New team settings")
 
-1. To add users to the team, select the plus sign (**+**) next to the **Team members** list.
+5. To add users to the team, select the plus sign (**+**) next to the **Team members** list.
 
     ![Plus sign button](media/access-teams-17.jpg "Plus sign button")
 
-1. Enter the name of the user that you want to add, select the **Search** button, and then select the user's name.
+6. Enter the name of the user that you want to add, select the **Search** button, and then select the user's name.
 
 ## Share the Guide with an Access Team
 
