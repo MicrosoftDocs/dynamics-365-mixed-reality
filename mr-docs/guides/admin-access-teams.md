@@ -2,14 +2,14 @@
 author: melissahellmund
 description: Learn how to expand access to a guide or guide content by sharing with an access team in Microsoft Dynamics 365 Guides.
 ms.author: mehellmu
-ms.date: 11/17/2020
+ms.date: 04/14/2021
 ms.service: crm-online
 ms.topic: article
 title: Share guides or guide content with an access team in Dynamics 365 Guides
 ms.reviewer: v-brycho
 ---
 
-# Share a guide or guide content in Dynamics 365 Guides
+# Share a guide or guide content in Dynamics 365 Guides by using an access team
 
 [!include [rename-banner](~/includes/cc-data-platform-banner.md)]
 
@@ -18,9 +18,9 @@ ms.reviewer: v-brycho
 > [!NOTE]
 > Dynamics 365 offers additional ways to customize and configure access to specific records in Microsoft Dataverse. However, this topic doesn't cover advanced configuration, such as the creation of [owner teams](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information).
 
-For more information on how privileges and access works, see [How access to a row (or guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined).
+For more information on how privileges and access works, see [How access to a row (guide) is determined](https://docs.microsoft.com/power-platform/admin/how-record-access-determined).
 
-For more information on the three types of teams; *owner* team, Azure Active Directory (Azure AD) *group* team, or an *access* team , see [Manage Teams in Power Platform Security](https://docs.microsoft.com/power-platform/admin/manage-teams).
+For more information on the three types of teams (*owner* team, Azure Active Directory *group* team, or an *access* team), see [Manage teams](https://docs.microsoft.com/power-platform/admin/manage-teams).
 
 ## How access teams work with the Operator and Author user roles
 
