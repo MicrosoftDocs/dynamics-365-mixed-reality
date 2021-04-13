@@ -125,7 +125,7 @@ A user can be associated with more than one access team.
 
     ![Add access teams](media/access-teams-21.PNG "Add access teams")
 
-7. Select specific **Permissions** in the dialog box. Make sure the team has the **Read** permission.
+7. Select specific permissions in the dialog box. Make sure the team has the **Read** permission.
 
     ![Update Permissions](media/access-teams-21B.png "Update Permissions")
 
