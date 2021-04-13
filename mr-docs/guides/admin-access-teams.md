@@ -109,7 +109,7 @@ A user can be associated with more than one access team.
 
     ![Check box for specific guide selected](media/access-teams-19.PNG "Check box for specific guide selected")
 
-5. On the **Share guide** page, select **Add User/Team**.
+5. In the **Share guide** page, select **Add User/Team**.
 
     ![Screen shot of add User/Team command](media/access-teams-20.PNG "Screen shot of add User/Team command")
 
@@ -143,7 +143,7 @@ Users who have the share privilege can share their accessible guides and guide r
 
     ![Share a guide](media/access-teams-23.PNG "Share a guide")
 
-4. On the **Share guide** page, select **Add User/Team**.
+4. In the **Share guide** page, select **Add User/Team**.
 
     ![Add User/Team command](media/access-teams-24.PNG "Add User/Team command")
 
