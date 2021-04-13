@@ -2,7 +2,7 @@
 title: Assign a guide using owner teams to limit access to specific guides or guide content in Dynamics 365 Guides
 description: Learn how to assign a guide to an owner team to limit access to specific guides or guide content in Dynamics 365 Guides.
 author:  MattHoag-MS
-manager: anhaman
+manager: tfehr
 ms.service: crm-online
 ms.topic: conceptual
 ms.date: 04/14/2021
