@@ -20,7 +20,7 @@
 #### [Assign user roles to individual users](assign-role.md)
 #### [Assign user roles to a Dynamics 365 group team linked to an Azure AD group](admin-assign-role-groups.md)
 #### [Restrict access to an environment by using security groups](admin-security.md)
-#### [Limit access to specific guides or guide content by using owner teams](admin-access-assign.md)
+#### [Limit access to a specific guide or guide content by using owner teams](admin-access-assign.md)
 #### [Share a guide or guide content by using an access team](admin-access-teams.md)
 #### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)
 ### Integrations with other Dynamics 365 apps
