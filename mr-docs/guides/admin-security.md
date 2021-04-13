@@ -106,7 +106,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
     ![Open the Dynamics 365 admin center](media/all-admin-centers.PNG "Open the Dynamics 365 admin center")
 
-2. In the Environments page, select the environment to edit by clicking the environment name.  
+2. In the **Environments** page, select the environment to edit by clicking the environment name.  
 
 3. In the Power Platform admin center, in the **Details** section, select **Edit**.
 
