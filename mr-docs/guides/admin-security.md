@@ -112,9 +112,9 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
     ![Edit button in Power Platform admin center](media/security-groups-edit-details.PNG "Edit button in Power Platform admin center")
 
-4. On the **Edit Details** tab, select the pencil button, select the security group, and then select **Save**.
+4. On the **Edit details** tab, select the pencil button, select the security group, and then select **Save**.
 
-    ![Pencil button on Edit Details tab](media/security-groups-select-group.PNG "Pencil button on Edit Details tab")
+    ![Pencil button on Edit details tab](media/security-groups-select-group.PNG "Pencil button on Edit details tab")
 
 ## Additional information about security groups
 
