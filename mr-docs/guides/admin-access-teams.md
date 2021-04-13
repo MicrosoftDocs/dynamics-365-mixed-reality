@@ -131,7 +131,7 @@ A user can be associated with more than one access team.
 
 ## Share a guide with a specific user
 
-Users who have the share privilege can share their accessible guides and guide records with other users.
+Users who have the Share privilege can share guides and and guide records that they own with other users.
 
 1. Go to <https://make.powerapps.com/>.
 
@@ -159,5 +159,5 @@ Users who have the share privilege can share their accessible guides and guide r
 
 [Use access teams and owner teams to collaborate and share information](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/developer/use-access-teams-owner-teams-collaborate-share-information)
 [Assign an Operator or Author role to a user](assign-role.md)
-[Restrict access to an instance in Dynamics 365 Guides by using security groups](admin-security.md)
+[Restrict access to an environment in Dynamics 365 Guides by using security groups](admin-security.md)
 [Learn more about Dynamics 365 security roles and privileges](https://docs.microsoft.com/dynamics365/customerengagement/on-premises/admin/security-roles-privileges)
