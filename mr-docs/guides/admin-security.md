@@ -13,7 +13,7 @@ ms.reviewer: v-bholmes
 
 If your company has multiple Microsoft Dynamics 365 Guides environments, you can use security groups to control which users can access each environment. 
 
-Each environment can have just one security group. A security group restricts access to the environment to people in the security group. If a Microsoft Dataverse environment does not have an associated security group, all users with a Dataverse license (Dynamics 365 Guides, Power Automate, Power Apps, and so on) will be created as users and enabled in the environment. [Learn more about ](https://docs.microsoft.com/power-platform/admin/control-user-access) 
+Each environment can have just one security group. A security group restricts access to the environment to people in the security group. If a Microsoft Dataverse environment does not have an associated security group, all users with a Dataverse license (Dynamics 365 Guides, Power Automate, Power Apps, and so on) will be created as users and enabled in the environment. 
 
 For example, you might want to create three security groups to control access to the following environments.
 
@@ -22,6 +22,8 @@ For example, you might want to create three security groups to control access to
 | Coho Manufacturing Sales       | Sales\_SG       | Provide access to the organization that creates sales opportunities, handles quotations, and closes deals. |
 | Coho Manufacturing Maintenance | Maintenance\_SG | Provide access to the organization that does service and machinery maintenance. |
 | Coho Manufacturing Dev         | Developer\_SG   | Provide access to the sandbox environment that is used for development and testing. |
+
+[Learn more about controlling user access to environments](https://docs.microsoft.com/power-platform/admin/control-user-access). 
 
 > [!NOTE]
 > Environments are sometimes referred to as "organizations" or "instances."  Each of these terms refers to the same concept. The Power Apps user interface and documentation usually use the term "environment," while Dynamics 365 documentation usually uses the term "instance."
