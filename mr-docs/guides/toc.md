@@ -124,7 +124,7 @@
 ### [Example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
 ### [Example 3: Collect response data for a non-linear guide](workflow-example-3.md)
 ### [Entity reference](developer-entity-reference.md)
-## [Migrate content from one environment to another](migrate.md)
+## [Migrate content from one instance to another](migrate.md)
 ## [Dynamics 365 Guides US Government](gcc.md)
 ## [Get Help and provide feedback](help.md)
 ## [Version history](version-history.md)
