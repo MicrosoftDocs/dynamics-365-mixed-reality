@@ -95,24 +95,25 @@ A user can be associated with more than one access team.
 
 6. Enter the name of the user that you want to add, select the **Search** button, and then select the user's name.
 
-## Share the Guide with an Access Team
+## Share the guide with an access team
 
 1. Go to <https://home.dynamics.com/>.
 
-1. Select **Power Apps**.
-1. Go to  **Your Apps**, and then select **Guides**.
+2. Select **Power Apps**.
+
+3. Go to **Your Apps**, and then select **Guides**.
 
     ![Guides button](media/access-teams-22.PNG "Guides button")
 
-1. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
+4. Find the guide that you want to share, select the check box next to the guide name, and then select **Share**.
 
     ![Check box for specific guide selected](media/access-teams-19.PNG "Check box for specific guide selected")
 
-1. On the **Share guide** page, select **Add User/Team**.
+5. On the **Share guide** page, select **Add User/Team**.
 
     ![Screen shot of add User/Team command](media/access-teams-20.PNG "Screen shot of add User/Team command")
 
-1. In the **Look Up Records** dialog box, follow these steps:
+6. In the **Look Up Records** dialog box:
 
     1. In the **Look for** field, select **Team**.
 
@@ -124,7 +125,7 @@ A user can be associated with more than one access team.
 
     ![Add access teams](media/access-teams-21.PNG "Add access teams")
 
-1. Select specific  **Permissions**  in the dialog box.  Be sure the team has the **Read** permission.
+7. Select specific **Permissions** in the dialog box. Make sure the team has the **Read** permission.
 
     ![Update Permissions](media/access-teams-21B.PNG "Update Permissions")
 
