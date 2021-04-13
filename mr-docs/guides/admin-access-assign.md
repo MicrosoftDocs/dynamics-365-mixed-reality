@@ -16,9 +16,9 @@ https://docs.microsoft.com/powerapps/user/assign-or-share-records -->
 
 When you create a guide in Microsoft Dynamics 365 Guides, you are automatically assigned as the owner of the guide. If you want to share ownership of the guide with others in your organization, you can:
 
-- Assign ownership of a guide to another person. 
+- Assign ownership of the guide to another person. 
 
-- Assign ownership of a guide to an owner team. 
+- Assign ownership of the guide to an owner team. 
 
 - Keep ownership of the guide, but let someone else work on it with you by using the **Share** option.
 
