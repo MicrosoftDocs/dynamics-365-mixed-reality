@@ -41,14 +41,12 @@ For more information on privileges, teams, and controlling access to apps, see t
 2. Select **Power Apps**, select **Apps**, and then select **Guides**.  
 
 3. Select the guide that you want to assign. You can select multiple guides.
-
-   > [!div class="mx-imgBorder"]
-   > ![Select the guide that you want to reassign](media/admin-access-assign-01.png "Select the guide that you want to reassign")
+   
+   ![Select the guide that you want to reassign](media/admin-access-assign-01.png "Select the guide that you want to reassign")
 
 4. Select **Assign**.
 
-   > [!div class="mx-imgBorder"]
-   > ![Select assign a guide](media/admin-access-assign-02.png "Select assign a guide")
+   ![Select assign a guide](media/admin-access-assign-02.png "Select assign a guide")
 
 5. In the assign dialog box, select the **Assign to** column, and choose one of the following options:
 
