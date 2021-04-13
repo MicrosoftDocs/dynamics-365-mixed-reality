@@ -25,7 +25,7 @@ When you create a guide in Microsoft Dynamics 365 Guides, you are automatically 
 > [!NOTE]
 > You can also assign the ownership of a guide to yourself if you have a role with the Assign privilege.
 
-For more information privileges, teams, and controlling access to apps, see the following articles.
+For more information on privileges, teams, and controlling access to apps, see the following articles.
 
 |To|See this article|
 |---------------------------------------|-----------------------------------------------------|
