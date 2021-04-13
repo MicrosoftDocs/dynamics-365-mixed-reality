@@ -100,7 +100,7 @@ Use this procedure if you haven't already created users and assigned licenses. I
 >
 > ![Remove a member](media/remove-members-2.PNG "Remove a member")
 
-## Associate a security group with an instance
+## Associate a security group with an environment
 
 1. In the [Microsoft 365 admin center](https://admin.microsoft.com/Adminportal/Home#/homepage), in the left pane, select **All admin centers**, and then select **Power Apps**.
 
@@ -120,26 +120,26 @@ Use this procedure if you haven't already created users and assigned licenses. I
 
 Note the following points about security groups:
 
-- When users are added to a security group, they are added to the instance.
+- When users are added to a security group, they are added to the environment.
 
-- When users are removed from a security group, they are disabled in the instance.
+- When users are removed from a security group, they are disabled in the environment.
 
-- When a security group is associated with an existing instance that has users, any users in that instance who aren't members of the security group will be disabled.
+- When a security group is associated with an existing environment that has users, any users in that environment who aren't members of the security group will be disabled.
 
-- If no security group is associated with an instance, all users who have a license will be created as users and enabled in that instance.
+- If no security group is associated with an environment, all users who have a license will be created as users and enabled in that environment.
 
-- If a security group is associated with an instance, only users who have a license and who are members of the security group will be created as users in that instance.
+- If a security group is associated with an environment, only users who have a license and who are members of the security group will be created as users in that environment.
 
-- When you remove a security group that is associated with an instance, either by editing the instance and removing the security group, or by deleting the security group, licensed users who were members of that security group will have the same access to model-driven apps in Dynamics 365.
+- When you remove a security group that is associated with an environment, either by editing the environment and removing the security group, or by deleting the security group, licensed users who were members of that security group will have the same access to model-driven apps in Dynamics 365.
 
-- When you assign a security group to an instance, the instance appears on the **Instances** tab in the Dynamics 365 admin center only for users who are members of the group.
+- When you assign a security group to an environment, the environment appears on the **Instances** tab in the Dynamics 365 admin center only for users who are members of the group.
 
-- If you don't assign a security group to an instance, the instance appears on the **Instances** tab in the Dynamics 365 admin center even for users who haven't been assigned a security role in that instance.
+- If you don't assign a security group to an environment, the environment appears on the **Instances** tab in the Dynamics 365 admin center even for users who haven't been assigned a security role in that environment.
 
 - Nested security groups aren't supported.
 
 > [!NOTE]
-> All licensed users, regardless of whether they are members of security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign security roles in the web application. Users can't access instances until they are assigned at least one security role for that instance. For more information, see [Grant users access](https://docs.microsoft.com/power-platform/admin/grant-users-access).
+> All licensed users, regardless of whether they are members of security groups, must be assigned security roles to access model-driven apps in Dynamics 365. You assign security roles in the web application. Users can't access environments until they are assigned at least one security role for that environment. For more information, see [Grant users access](https://docs.microsoft.com/power-platform/admin/grant-users-access).
 
 ## See also
 
