@@ -23,7 +23,7 @@ When you create a guide in Microsoft Dynamics 365 Guides, you are automatically 
 - Keep ownership of the guide, but let someone else work on it with you by using the **Share** option.
 
 > [!NOTE]
-> You can also assign the ownership of a guide to yourself if you have a role with the Assign privilege.
+> You can also assign the ownership of a guide to yourself if you have a role with the Assign privilege. You must be a system administrator to re-assign ownership of a guide that belongs to someone else.
 
 For more information on privileges, teams, and controlling access to apps, see the following articles.
 
