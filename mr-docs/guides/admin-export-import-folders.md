@@ -86,57 +86,40 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 2. In the left navigation pane, select **Solutions**.  
 
-3. In the command bar, select Import and then, Browse.  
+3. In the command bar, select **Import**, and then select **Browse**.  
 
-Graphical user interface, text, application
+    SCREEN SHOT GOES HERE 
 
-Description automatically generated 
+4. Find the .zip file you just downloaded when exporting the folders, select it and then, select **Open**.  
 
+    SCREEN SHOT GOES HERE
+
+5. Select **Next**.  
+
+    SCREEN SHOT GOES HERE 
+
+6. Select **Import**.  
+
+    SCREEN SHOT GOES HERE
+
+    Once the import is ready, you should see a notification stating that the solution has been successfully imported. This might take a few minutes.
  
+    SCREEN SHOT GOES HERE 
 
-Find the .zip file you just downloaded when exporting the folders, select it and then, select Open.  
-
- 
-
-Graphical user interface, text, application
-
-Description automatically generated 
-
-Select Next.  
-
-Graphical user interface, text, application
-
-Description automatically generated 
-
- 
-
-Select Import.  
-
- 
-
-Graphical user interface, text, application, email
-
-Description automatically generated 
-
-Once the import is ready, you should see a notification stating that the solution has been successfully imported. This might take a few minutes.  
-
- 
-
-Graphical user interface, application
-
-Description automatically generated 
-
- 
-
-Known issues 
+### Known issues 
 
 If you try to import a solution with missing parent folders, and children folders still reference these parents, you will see this error:  
 
+SCREEN SHOT GOES HERE
+ 
+- Select **Download details**  to see a detailed error message.  
+
+**Log.txt** 
+
+[{"SolutionValidationResultType":"Error","Message":"The following solution cannot be imported: MTTestSource2. Some dependencies are missing. The missing dependencies are : <MissingDependencies><MissingDependency><Required key=\"0\" type=\"msdyn_MRFolder\" solution=\"Active\" id=\"{3a309204-0f89-eb11-a812-000d3a4f7b30}\" /><Dependent key=\"1\" type=\"msdyn_MRFolder\" id=\"{e8d4da0b-0f89-eb11-a812-000d3a4f7b30}\" /></MissingDependency></MissingDependencies> , ProductUpdatesOnly : False","ErrorCode":-2147188707,"AdditionalInfo":null}] 
  
 
-Select Download details and to see a detailed error message.  
-
- 
+If you try to delete duplicate folders, make sure to refresh your screen after a successful deletion.   
 
       
 
