@@ -12,7 +12,7 @@ ms.reviewer: v-bholmes
 
 # Assign Author and Operator roles to a Dynamics 365 group team linked to an Azure Active Directory group
 
-You can assign an **Operator** or **Author** role to a user to specify whether that user can create and edit guides as an author or use them as an operator.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles. **Restricted Authors** have access only to what they have created in the instance, while **Restricted Operators** have access only to what has been shared with or assigned to them.
+You can assign an **Operator** or **Author** role to a user in Microsoft Dynamics 365 Guides to specify whether that user can create and edit guides as an author or use them as an operator.  When you assign an **Operator** or **Author** role, that role automatically grants the user access to all guides in the instance. To limit access to specific guides or guide content (3D models, images, or videos), you can use the **Restricted Author** and **Restricted Operator** roles. **Restricted Authors** have access only to what they have created in the instance, while **Restricted Operators** have access only to what has been shared with or assigned to them.
 
 Users with the roles of **Restricted Author** and **Restricted Operator** will only have access to:
 
