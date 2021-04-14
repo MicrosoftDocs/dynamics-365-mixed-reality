@@ -2,7 +2,7 @@
 author: BryceHolmes
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 04/14/2021
 ms.service: crm-online
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application
@@ -167,10 +167,6 @@ To start annotating, first do one of the following to pause the video stream and
 -   Select one of the items on the Mixed Reality toolbar.
 
 -   Select **Start editing**.
-
->[!Note]
-> By default, the Mixed Reality toolbar is on the top of your screen. If it's blocking your view, select the drag button (![Graphic showing the drag button](media/PC_Drag.png)) and drag it to move it to another location.
-> Note that you can't drag the Mixed Reality toolbar in the Teams multi-window. 
 
 In edit mode, the expert will still see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
 
