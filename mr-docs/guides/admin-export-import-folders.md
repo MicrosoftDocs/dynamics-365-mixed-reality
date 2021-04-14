@@ -7,7 +7,7 @@ content and media associated with these folders will not be included in this pro
 you’ve imported your folders.  
 
 > [!NOTE]
-> If you export and import your folders first, and then transfer the content, the relationships betwen the folders and the content will be reconstructed.
+> If you export and import your folders first, and then transfer the content, the relationships between the folders and the content will be reconstructed.
 
 ## Prerequisites 
 
