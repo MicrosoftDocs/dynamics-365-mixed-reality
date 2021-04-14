@@ -1,8 +1,8 @@
 ---
-title: "Assign Author and Operator roles to a Dynamics 365 Group Team that is linked to an Azure Active Directory Group to limit the actions of a group of users in all Dynamics 365 Guides | MicrosoftDocs"
-description: How to Assign Author and Operator roles to a Dynamics 365 Group Team that is linked to an Azure Active Directory Group.
+title: Assign Author and Operator roles to a Dynamics 365 group team that's linked to an Azure Active Directory group to limit the actions of a group of users in  Dynamics 365 Guides
+description: Learn how to assign Author and Operator roles to a Dynamics 365 group team that's linked to an Azure Active Directory group.
 author:  MattHoag-MS
-manager: anhaman
+manager: tfehr
 ms.service: crm-online
 ms.topic: article
 ms.date: 04/14/2021
@@ -31,7 +31,7 @@ You can use Azure Active Directory to organize users into logical groups for eas
 - [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams)
 
 > [!NOTE]
-> SharePoint groups are not supported by Dynamics 365.  Only Azure Active Directory Office or Security groups are supported by Dynamics 365 group teams.
+> SharePoint groups are not supported by Dynamics 365. Only Azure Active Directory Office or Security groups are supported by Dynamics 365 group teams.
 
 ### Create an Azure Active Directory group
 
@@ -43,10 +43,10 @@ The type of group you create in Dynamics 365 depends on the type of Azure Active
 
 The Dynamics 365 group team can be linked to the Azure Active Directory group that's used to manage your users. Dynamics 365 Guides roles can be assigned to this team so that members of the Azure Active Directory group will inherit the roles from the Dynamics 365 group team.
 
-For more information on how to link an Azure Active Directory group to a Dynamics 365 team, see [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams). 
+For more information on how to link an Azure Active Directory group to a Dynamics 365 group team, see [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams). 
 
 > [!NOTE] 
-> When setting a value for **membership type** by selecting one of the options (**Members**, **Members & Guests**, **Guests**, or **Owners**), be aware that this value determines which users in the group will flow into the Dynamics 365 team. Setting the **membership type** is similar to setting a pass-through filter. For example, if **Members** is selected and a guest is added to the group, the guest will not flow down into the team and will not inherit the role from the Dynamics 365 group team.  
+> When setting a value for **membership type** by selecting one of the options (**Members**, **Members & Guests**, **Guests**, or **Owners**), be aware that this value determines which users in the group will flow into the Dynamics 365 group team. Setting the **membership type** is similar to setting a pass-through filter. For example, if **Members** is selected and a guest is added to the group, the guest will not flow down into the team and will not inherit the role from the Dynamics 365 group team.  
 
 You can assign roles to a team in two ways: 
 
