@@ -31,7 +31,7 @@ You can use Azure Active Directory to organize users into logical groups for eas
 - [Manage group teams](https://docs.microsoft.com/power-platform/admin/manage-group-teams)
 
 > [!NOTE]
-> SharePoint groups are not supported by Dynamics 365.  Only Azure Active Directory Office or Security groups are supported by Dynamics 365 Group Teams.
+> SharePoint groups are not supported by Dynamics 365.  Only Azure Active Directory Office or Security groups are supported by Dynamics 365 group teams.
 
 ### Create an Azure Active Directory group
 
