@@ -52,7 +52,7 @@ You can assign roles to a team in two ways:
 
 - Option 1: Assign a group team to a Dynamics 365 Guides role. In this case, the additions must be made to the Basic User role and any additional roles that you want to modify. This is the best option if you need to assign a role to many Dynamics 365 group teams.
 
-- Option 2: Assign a Dynamics 365 Guides role to a group team. This is the best option if you need to modify a small number of Dynamics 365 group teams. For example, if you add the Author role to an AAD Office group, anyone in the group will have a role that will allow them to create and edit a guide. The guide will be owned by the group referenced in the first step allowing access and edit privileges.
+- Option 2: Assign a Dynamics 365 Guides role to a group team. This is the best option if you need to modify a small number of Dynamics 365 group teams. For example, if you add the Author role to an Azure Active Directory Office group, anyone in the group will have a role that will allow them to create and edit a guide. The guide will be owned by the group referenced in the first step allowing access and edit privileges.
 
 ### Option 1: Assign a group team to a Dynamics 365 Guides role
 
