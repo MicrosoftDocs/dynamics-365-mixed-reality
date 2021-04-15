@@ -52,11 +52,11 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     2. Select **Edit**.  
 
-       ![Power Apps screen with 2 choices highlighted](media/export-folders-03.PNG "Power Apps screen with 4 choices highlighted")
+       ![Power Apps screen with solution and Edit button highlighted](media/export-folders-03.PNG "Power Apps screen with solution and Edit button highlighted")
 
     3. Select **Add existing** > **Folder**.  
 
-       ![Power Apps screen with 2 choices highlighted](media/export-folders-04.PNG "Power Apps screen with 2 choices highlighted")
+       ![Power Apps screen with Add exsiting and Folder highlighted](media/export-folders-04.PNG "Power Apps screen with Add exsiting and Folder highlighted")
 
     4. Select the folders you want to include in your export, and then select **Add**.  
 
