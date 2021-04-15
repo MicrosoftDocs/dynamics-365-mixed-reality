@@ -97,7 +97,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     ![Power Apps screen with Import and Browse highlighted](media/export-folders-10.PNG "Power Apps screen with Import and Browse highlighted")
 
-4. Find the .zip file you just downloaded when exporting the folders, select it and then, select **Open**.  
+4. Find the .zip file you just downloaded, select it, and then select **Open**.  
 
     ![Open dialog box with Zip file and Open button highlighted](media/export-folders-11.PNG "Open dialog box with Zip file and Open button highlighted")
 
