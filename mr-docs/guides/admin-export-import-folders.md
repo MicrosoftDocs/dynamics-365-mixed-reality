@@ -93,7 +93,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 2. In the left navigation pane, select **Solutions**.  
 
-3. In the command bar, select **Import**, and then select **Browse**.  
+3. In the command bar, select **Import**, and then in the **Import a solution** pane, select **Browse**.  
 
     ![Power Apps screen with Import and Browse highlighted](media/export-folders-10.PNG "Power Apps screen with Import and Browse highlighted")
 
