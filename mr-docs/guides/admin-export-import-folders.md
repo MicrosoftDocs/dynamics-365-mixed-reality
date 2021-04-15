@@ -32,7 +32,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 2. In the left navigation pane, select **Solutions**. 
 
-    ![XXX](media/export-folders-01.PNG "XXX")
+    ![Power Apps screen with Solutions command selected](media/export-folders-01.PNG "Power Apps screen with Solutions command selected")
 
 3. Create a new solution by doing the following:  
 
