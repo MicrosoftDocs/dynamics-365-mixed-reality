@@ -28,7 +28,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 ## Export the folders
 
-1. Go to [make.powerapps.com](https://www.make.powerapps.com) and sign into the environment that contains the folders you want to export. 
+1. Go to [make.powerapps.com](www.make.powerapps.com) and sign into the environment that contains the folders you want to export. 
 
 2. In the left navigation pane, select **Solutions**. 
 
