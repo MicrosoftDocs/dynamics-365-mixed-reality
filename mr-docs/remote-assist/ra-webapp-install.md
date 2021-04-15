@@ -24,7 +24,7 @@ The Dataverse is the central location for customers to store their organization-
 > [!NOTE]
 > The Dynamics 365 Remote Assist model-driven app has been deployed to the following regions: SAM, CAN, FRA, IND, FRA, UAE, GER, ZAF, JPN, APJ, GBR, OCE, EUR, NAM, GCC, USG. Other regions are not supported at this time. For more information, see:
 > - [Power Platform data center regions](https://docs.microsoft.com/power-platform/admin/new-datacenter-regions)
-> - [Microsoft 365 Multi-geo](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide)
+> - [Microsoft 365 Multi-Geo](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide)
 
 ## Prerequisites
 
