@@ -30,7 +30,7 @@ Dynamics 365 Guides [tables](https://docs.microsoft.com/powerapps/maker/common-d
 | msmrw\_assetcollection | Stores a group of 3D objects (asset collection). |
 | msmrw\_assetcollection\_localized | Stores localized information for an asset collection. |
 | msmrw\_audioasset | Stores an audio file and information associated with that audio file. |
-| msmrw\_folder | A parent container for a group of guides.|
+| msdyn\_mrfolder | A parent container for a group of guides.|
 | msmrw\_guide | Stores information about the content of a guide, including its anchor information. |
 | msmrw\_guidecompletionstepobject | Stores information about the 3D objects that have been added to the completion step of a guide. |
 | msmrw\_guidecompletionstepobjectplacement | Specifies which 3D objects have been placed in the world in the completion step of a guide. Other information about the 3D objects is also stored. |
