@@ -87,7 +87,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
       
 ### Import the folders
 
-1. Go to make.powerapps.com and **ensure you are in the environment where you want to import the folders**. You can check this in the top right corner of the screen under **Environment**.  
+1. Go to [make.powerapps.com](https://make.preview.powerapps.com/) and **ensure you are in the environment where you want to import the folders**. You can check this in the top right corner of the screen under **Environment**.  
 
     ![Power Apps screen showing where to check for the correct environment](media/export-folders-09.PNG "Power Apps screen showing where to check for the correct environment")
 
