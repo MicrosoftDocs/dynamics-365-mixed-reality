@@ -44,7 +44,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     4. Select **Create**.  
 
-       ![XXX](media/export-folders-02.PNG "XXX")
+       ![Power Apps screen with 4 choices highlighted](media/export-folders-02.PNG "Power Apps screen with 4 choices highlighted")
 
 4. Add the folders as components of your solution:  
 
