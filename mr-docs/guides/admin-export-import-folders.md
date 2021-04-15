@@ -56,11 +56,11 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     3. Select **Add existing** > **Folder**.  
 
-       ![XXX](media/export-folders-04.PNG "XXX")
+       ![Power Apps screen with 2 choices highlighted](media/export-folders-04.PNG "Power Apps screen with 2 choices highlighted")
 
     4. Select the folders you want to include in your export, and then select **Add**.  
 
-       ![XXX](media/export-folders-05.PNG "XXX")
+       ![Power Apps screen with 2 choices highlighted](media/export-folders-05.PNG "Power Apps screen with 2 choices highlighted")
  
        > [!NOTE]
        > If you select a folder that includes subfolders, you'll need to select the parent folder and the child folder individually. However, if you select a subfolder, the parent folder will automatically be added to the list that will be exported. 
