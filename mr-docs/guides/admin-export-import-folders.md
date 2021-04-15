@@ -23,7 +23,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 2. In the left navigation pane, select **Solutions**. 
 
-    ![XXX(media/export-folders-01.PNG "XXX")
+    ![XXX](media/export-folders-01.PNG "XXX")
 
 3. Create a new solution by doing the following:  
 
@@ -35,7 +35,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     4. Select **Create**.  
 
-       ![XXX(media/export-folders-02.PNG "XXX")
+       ![XXX](media/export-folders-02.PNG "XXX")
 
 4. Add the folders as components of your solution:  
 
@@ -43,15 +43,15 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     2. Select **Edit**.  
 
-       ![XXX(media/export-folders-03.PNG "XXX")
+       ![XXX](media/export-folders-03.PNG "XXX")
 
     3. Select **Add existing** > **Folder**.  
 
-       ![XXX(media/export-folders-04.PNG "XXX")
+       ![XXX](media/export-folders-04.PNG "XXX")
 
     4. Select the folders you want to include in your export, and then select **Add**.  
 
-       ![XXX(media/export-folders-05.PNG "XXX")
+       ![XXX](media/export-folders-05.PNG "XXX")
  
        > [!NOTE]
        > If you select a folder that includes subfolders, you'll need to select the parent folder and the child folder individually. However, if you select a subfolder, the parent folder will automatically be added to the list that will be exported. 
@@ -62,18 +62,18 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     2. Select **Next**. 
 
-       ![XXX(media/export-folders-06.PNG "XXX")
+       ![XXX](media/export-folders-06.PNG "XXX")
 
     3. Select between a managed and an unmanaged solution, and then select **Export**.  
 
-       ![XXX(media/export-folders-07.PNG "XXX")
+       ![XXX](media/export-folders-07.PNG "XXX")
        
        > [!NOTE]
        > Select a managed solution if you want the rows to be bundled with the solution. This means that if you delete the solution, the rows that were imported as part of the managed solution will be deleted as well (including any guides saved under the folders, since deletion of a folder cascades to its children). On the other hand, if you delete an unmanaged solution from the environment, the rows will persist.
 
     4. Once the export is ready, it should automatically download as a .zip file and you’ll see a green notification saying it has been exported successfully. This might take a while.   
 
-      ![XXX(media/export-folders-08.PNG "XXX")
+      ![XXX](media/export-folders-08.PNG "XXX")
       
       > [!NOTE]
       > Deactivated folders will appear on the list to be exported.
@@ -82,35 +82,35 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 1. Go to make.powerapps.com and **ensure you are in the environment where you wish to import the folders**. You can check this in the top right corner of the screen under **Environment**.  
 
-    ![XXX(media/export-folders-09.PNG "XXX")
+    ![XXX](media/export-folders-09.PNG "XXX")
 
 2. In the left navigation pane, select **Solutions**.  
 
 3. In the command bar, select **Import**, and then select **Browse**.  
 
-    ![XXX(media/export-folders-10.PNG "XXX")
+    ![XXX](media/export-folders-10.PNG "XXX")
 
 4. Find the .zip file you just downloaded when exporting the folders, select it and then, select **Open**.  
 
-    ![XXX(media/export-folders-11.PNG "XXX")
+    ![XXX](media/export-folders-11.PNG "XXX")
 
 5. Select **Next**.  
 
-    ![XXX(media/export-folders-12.PNG "XXX")
+    ![XXX](media/export-folders-12.PNG "XXX")
 
 6. Select **Import**.  
 
-    ![XXX(media/export-folders-13.PNG "XXX")
+    ![XXX](media/export-folders-13.PNG "XXX")
 
     Once the import is ready, you should see a notification stating that the solution has been successfully imported. This might take a few minutes.
  
-    ![XXX(media/export-folders-14.PNG "XXX")
+    ![XXX](media/export-folders-14.PNG "XXX")
 
 ### Known issues 
 
 If you try to import a solution with missing parent folders, and children folders still reference these parents, you will see this error:  
 
-![XXX(media/export-folders-15.PNG "XXX")
+![XXX](media/export-folders-15.PNG "XXX")
  
 - Select **Download details**  to see a detailed error message.  
 
