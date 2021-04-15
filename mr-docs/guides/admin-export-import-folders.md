@@ -1,4 +1,13 @@
-
+---
+author: melissahellmund
+description: Learn how to export and import Dynamics 365 Guides folders between environments
+ms.author: mehellmu
+ms.date: 04/15/20201
+ms.service: crm-online
+ms.topic: article
+title: Export and import Dynamics 365 Guides folders between environments
+ms.reviewer: v-bholmes
+---
 
 # Export and import Dynamics 365 Guides folders between environments
 
