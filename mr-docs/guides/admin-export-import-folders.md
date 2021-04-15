@@ -117,18 +117,18 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 ### Known issues 
 
-If you try to import a solution with missing parent folders, and children folders still reference these parents, you will see this error:  
+If you try to import a solution with missing parent folders, and children folders still reference these parents, you'll see the error below. Select **Download details**  to see a detailed error message.
 
 ![Import a solution pane with Download details link highlighted](media/export-folders-15.PNG "Import a solution pane with Download details link highlighted")
  
-- Select **Download details**  to see a detailed error message.  
+The download details will look something like this:
 
 **Log.txt** 
 
 [{"SolutionValidationResultType":"Error","Message":"The following solution cannot be imported: MTTestSource2. Some dependencies are missing. The missing dependencies are : <MissingDependencies><MissingDependency><Required key=\"0\" type=\"msdyn_MRFolder\" solution=\"Active\" id=\"{3a309204-0f89-eb11-a812-000d3a4f7b30}\" /><Dependent key=\"1\" type=\"msdyn_MRFolder\" id=\"{e8d4da0b-0f89-eb11-a812-000d3a4f7b30}\" /></MissingDependency></MissingDependencies> , ProductUpdatesOnly : False","ErrorCode":-2147188707,"AdditionalInfo":null}] 
  
-
-If you try to delete duplicate folders, make sure to refresh your screen after a successful deletion.   
+> [!NOTE]
+> If you delete duplicate folders, make sure to refresh your screen after a successful deletion.   
 
       
 
