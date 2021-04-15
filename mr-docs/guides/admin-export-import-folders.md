@@ -80,10 +80,10 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     3. Once the export is ready, it should automatically download as a .zip file and you’ll see a green notification saying it has been exported successfully. This might take a while.   
 
-      ![Power Apps screen with green notification](media/export-folders-08.PNG "Power Apps screen with green notification")
+       ![Power Apps screen with green notification](media/export-folders-08.PNG "Power Apps screen with green notification")
       
-      > [!NOTE]
-      > Deactivated folders will appear on the list to be exported.
+       > [!NOTE]
+       > Deactivated folders will appear on the list to be exported.
       
 ### Import the folders
 
