@@ -52,7 +52,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     2. Select **Edit**.  
 
-       ![XXX](media/export-folders-03.PNG "XXX")
+       ![Power Apps screen with 2 choices highlighted](media/export-folders-03.PNG "Power Apps screen with 4 choices highlighted")
 
     3. Select **Add existing** > **Folder**.  
 
