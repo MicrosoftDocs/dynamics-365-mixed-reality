@@ -65,22 +65,20 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
        > [!NOTE]
        > If you select a folder that includes subfolders, you'll need to select the parent folder and the child folder individually. However, if you select a subfolder, the parent folder will automatically be added to the list that will be exported. 
 
-5. Export your solution:  
+5. To export your solution:  
 
-    1. Select **Export**. 
-
-    2. Select **Next**. 
+    1. Select **Export**, and then select **Next**. 
 
        ![Power Apps screen with Export and Next highlighted](media/export-folders-06.PNG "Power Apps screen with Export and Next highlighted")
 
-    3. Select between a managed and an unmanaged solution, and then select **Export**.  
+    2. Select between a managed and an unmanaged solution, and then select **Export**.  
 
        ![Export this solution pane with Managed option selected and Export button highlighted](media/export-folders-07.PNG "Export this solution pane with Managed option selected and Export button highlighted")
        
        > [!NOTE]
        > Select a managed solution if you want the rows to be bundled with the solution. This means that if you delete the solution, the rows that were imported as part of the managed solution will be deleted as well (including any guides saved under the folders, since deletion of a folder cascades to its children). On the other hand, if you delete an unmanaged solution from the environment, the rows will persist.
 
-    4. Once the export is ready, it should automatically download as a .zip file and you’ll see a green notification saying it has been exported successfully. This might take a while.   
+    3. Once the export is ready, it should automatically download as a .zip file and you’ll see a green notification saying it has been exported successfully. This might take a while.   
 
       ![Power Apps screen with green notification](media/export-folders-08.PNG "Power Apps screen with green notification")
       
