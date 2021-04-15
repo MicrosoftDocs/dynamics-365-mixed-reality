@@ -115,7 +115,7 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 ### Known issues 
 
-If you try to import a solution with missing parent folders, and subfolders still reference these parent folders, you'll see the error below. Select **Download details**  to see a detailed error message.
+If you try to import a solution with missing parent folders, and subfolders still reference these parent folders, you'll see an error message like the one below. Select **Download details**  to see a detailed error message.
 
 ![Import a solution pane with Download details link highlighted](media/export-folders-15.PNG "Import a solution pane with Download details link highlighted")
  
