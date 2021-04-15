@@ -56,11 +56,11 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     3. Select **Add existing** > **Folder**.  
 
-       ![Power Apps screen with Add exsiting and Folder highlighted](media/export-folders-04.PNG "Power Apps screen with Add exsiting and Folder highlighted")
+       ![Power Apps screen with Add existing and Folder highlighted](media/export-folders-04.PNG "Power Apps screen with Add existing and Folder highlighted")
 
     4. Select the folders you want to include in your export, and then select **Add**.  
 
-       ![Power Apps screen with 2 choices highlighted](media/export-folders-05.PNG "Power Apps screen with 2 choices highlighted")
+       ![Power Apps screen with Add highlighted](media/export-folders-05.PNG "Power Apps screen with Add highlighted")
  
        > [!NOTE]
        > If you select a folder that includes subfolders, you'll need to select the parent folder and the child folder individually. However, if you select a subfolder, the parent folder will automatically be added to the list that will be exported. 
@@ -71,18 +71,18 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
     2. Select **Next**. 
 
-       ![XXX](media/export-folders-06.PNG "XXX")
+       ![Power Apps screen with Export and Next highlighted](media/export-folders-06.PNG "Power Apps screen with Export and Next highlighted")
 
     3. Select between a managed and an unmanaged solution, and then select **Export**.  
 
-       ![XXX](media/export-folders-07.PNG "XXX")
+       ![Export this solution pane with Managed option selected and Export button highlighted](media/export-folders-07.PNG "Export this solution pane with Managed option selected and Export button highlighted")
        
        > [!NOTE]
        > Select a managed solution if you want the rows to be bundled with the solution. This means that if you delete the solution, the rows that were imported as part of the managed solution will be deleted as well (including any guides saved under the folders, since deletion of a folder cascades to its children). On the other hand, if you delete an unmanaged solution from the environment, the rows will persist.
 
     4. Once the export is ready, it should automatically download as a .zip file and you’ll see a green notification saying it has been exported successfully. This might take a while.   
 
-      ![XXX](media/export-folders-08.PNG "XXX")
+      ![Power Apps screen with green notification](media/export-folders-08.PNG "Power Apps screen with green notification")
       
       > [!NOTE]
       > Deactivated folders will appear on the list to be exported.
@@ -91,35 +91,35 @@ We also highly recommend [backing up the contents](https://docs.microsoft.com/po
 
 1. Go to make.powerapps.com and **ensure you are in the environment where you wish to import the folders**. You can check this in the top right corner of the screen under **Environment**.  
 
-    ![XXX](media/export-folders-09.PNG "XXX")
+    ![Power Apps screen showing where to check for the correct environment](media/export-folders-09.PNG "Power Apps screen showing where to check for the correct environment")
 
 2. In the left navigation pane, select **Solutions**.  
 
 3. In the command bar, select **Import**, and then select **Browse**.  
 
-    ![XXX](media/export-folders-10.PNG "XXX")
+    ![Power Apps screen with Import and Browse highlighted](media/export-folders-10.PNG "Power Apps screen with Import and Browse highlighted")
 
 4. Find the .zip file you just downloaded when exporting the folders, select it and then, select **Open**.  
 
-    ![XXX](media/export-folders-11.PNG "XXX")
+    ![Open dialog box with Zip file and Open button highlighted](media/export-folders-11.PNG "Open dialog box with Zip file and Open button highlighted")
 
 5. Select **Next**.  
 
-    ![XXX](media/export-folders-12.PNG "XXX")
+    ![Import a solution pane with Next button highlighted](media/export-folders-12.PNG "Import a solution pane with Next button highlighted")
 
 6. Select **Import**.  
 
-    ![XXX](media/export-folders-13.PNG "XXX")
+    ![Import a solution pane with Import button highlighted](media/export-folders-13.PNG "Import a solution pane with Import button highlighted")
 
     Once the import is ready, you should see a notification stating that the solution has been successfully imported. This might take a few minutes.
  
-    ![XXX](media/export-folders-14.PNG "XXX")
+    ![Power Apps screen with notification showing solution successfully imported](media/export-folders-14.PNG "Power Apps screen with notification showing solution successfully imported")
 
 ### Known issues 
 
 If you try to import a solution with missing parent folders, and children folders still reference these parents, you will see this error:  
 
-![XXX](media/export-folders-15.PNG "XXX")
+![Import a solution pane with Download details link highlighted](media/export-folders-15.PNG "Import a solution pane with Download details link highlighted")
  
 - Select **Download details**  to see a detailed error message.  
 
