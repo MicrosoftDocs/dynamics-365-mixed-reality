@@ -40,7 +40,7 @@ To complete the installation steps, you need:
 > - For the **Enable Dynamics 365 apps** option, select **Yes**. 
 > - For the **Automatically deploy these apps** option, select **All enterprise applications**. If you select **Customer Service Pro** or **Sales Pro**, the Remote Assist model-driven app will **NOT** be installed.
 
-## Install Dynamics 365 Remote Assist model-driven app
+## Install the Dynamics 365 Remote Assist model-driven app
 
 You can install the Dynamics 365 Remote Assist app in two ways:
 
@@ -73,7 +73,7 @@ More information: [Create and manage environments in the Power Platform admin ce
 > [!IMPORTANT]
 > The environment selected must be Dynamics 365 apps&ndash;enabled (for example, you can't use the default environment). If it isn't compatible, the installation will fail. Choose another environment that's compatible, or create a new environment with Dynamics 365 apps enabled.
 
-## Updating the model-driven app to the latest version
+## Update the model-driven app to the latest version
 
 As new versions of the Dynamics 365 Remote Assist model-driven app are released, you will need to update the app by following the steps below to ensure that the latest features are available:
 
