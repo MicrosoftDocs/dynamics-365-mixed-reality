@@ -156,7 +156,7 @@ To use additional features, select the ellipses icon […]. For example, select 
 
 When in a call, you'll see your collaborator’s space, including the holograms, and can use the Mixed Reality toolbar to add annotations.
 
-![Screenshot of the mixed reality toolbar.](media/071f358ab6bbf7c2072b15d9203a1593.png)
+![Screenshot of the mixed reality toolbar.](media/mixed-reality-toolbar.PNG)
 
 ### Begin editing 
 
