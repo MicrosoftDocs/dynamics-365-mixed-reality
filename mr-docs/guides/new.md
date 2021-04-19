@@ -30,12 +30,18 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > [!NOTE]
 > If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
 
-## March 31, 2021
-
-The March 31 release includes version 600.2103.19001 of the PC and HoloLens apps and solution version 600.0.0.1.
+## April 1, 2021
 
 > [!IMPORTANT]
 > Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state. Future updates for HoloLens (1st gen) will focus on issues and security fixes, while maintaining feature parity with the March 31, 2021 release.
+
+### Version info
+
+|Item|Version|
+|-------------------------|--------------------------------|
+|PC app|600.2103.19001|
+|HoloLens app|600.2103.19001|
+|Solution|600.0.0.1|
 
 ## February 25, 2021
 
