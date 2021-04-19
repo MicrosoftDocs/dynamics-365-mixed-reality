@@ -3,7 +3,7 @@ title: Set up an environment and install the Microsoft Dynamics 365 Remote Assis
 author: dhgoelmsft
 description: Learn how to set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app to use Microsoft Dataverse features in Remote Assist, such as the Calls Dashboard, one-time calls, and asset capture.
 ms.author: dhgoel
-ms.date: 04/08/2021
+ms.date: 04/19/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -14,12 +14,17 @@ ms.reviewer: krbjoran
 
 ## Overview
 
-The Dynamics 365 Remote Assist model-driven app is built on the Microsoft Dataverse. This app is a companion to the Dynamics 365 Remote Assist apps for HoloLens, iOS, and Android, and enables new scenarios for managing data generated and consumed by Dynamics 365 Remote Assist.
+The Dynamics 365 Remote Assist model-driven app is built on the Microsoft Dataverse. The model-driven app is a companion to the Dynamics 365 Remote Assist apps for HoloLens, iOS, and Android, and enables new scenarios for managing data generated and used by Dynamics 365 Remote Assist.
 
 More information: [What are model-driven apps in Power Apps?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/model-driven-app-overview)
 
-Common Data Service (CDS) becomes the central location for customers to store their organization specific data. The Dynamics 365 Remote Assist client apps on HoloLens or Mobile can send and receive data to CDS, which can then be accessed via the model-driven app in a browser. This also allows other applications, such as Dynamics 365 Field Service, to share the same organizational data and drive further insights. You can even use [Power Automate to create flows that use Microsoft Dataverse](https://docs.microsoft.com/power-automate/common-data-model-intro) and make them available for third-party apps. The below high-level architecture diagram shows the various possible components of these scenarios. 
+The Dataverse is the central location for customers to store their organization-specific data. The Dynamics 365 Remote Assist client apps on HoloLens or mobile can send and receive data to the Dataverse, which can then be accessed through the model-driven app in a browser. This also allows other applications, such as Dynamics 365 Field Service, to share the same organizational data so you can gain further insights. You can even use [Microsoft Power Automate to create flows that use Microsoft Dataverse](https://docs.microsoft.com/power-automate/common-data-model-intro) and make them available for third-party apps. The high-level architecture diagram below shows the various possible components for these scenarios. 
 :::image type="content" source="media/RA-CDS-Architecture-Diagram.png" alt-text="Architecture Diagram of a Remote Assist with CDS and companion apps" :::
+
+> [!NOTE]
+> The Dynamics 365 Remote Assist model-driven app has been deployed to the following regions: SAM, CAN, FRA, IND, FRA, UAE, GER, ZAF, JPN, APJ, GBR, OCE, EUR, NAM, GCC, USG. Other regions are not supported at this time. For more information, see:
+> - [Power Platform data center regions](https://docs.microsoft.com/power-platform/admin/new-datacenter-regions)
+> - [Microsoft 365 Multi-Geo](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide)
 
 ## Prerequisites
 
@@ -35,7 +40,7 @@ To complete the installation steps, you need:
 > - For the **Enable Dynamics 365 apps** option, select **Yes**. 
 > - For the **Automatically deploy these apps** option, select **All enterprise applications**. If you select **Customer Service Pro** or **Sales Pro**, the Remote Assist model-driven app will **NOT** be installed.
 
-## Install Dynamics 365 Remote Assist model-driven app
+## Install the Dynamics 365 Remote Assist model-driven app
 
 You can install the Dynamics 365 Remote Assist app in two ways:
 
@@ -68,7 +73,7 @@ More information: [Create and manage environments in the Power Platform admin ce
 > [!IMPORTANT]
 > The environment selected must be Dynamics 365 apps&ndash;enabled (for example, you can't use the default environment). If it isn't compatible, the installation will fail. Choose another environment that's compatible, or create a new environment with Dynamics 365 apps enabled.
 
-## Updating the model-driven app to the latest version
+## Update the model-driven app to the latest version
 
 As new versions of the Dynamics 365 Remote Assist model-driven app are released, you will need to update the app by following the steps below to ensure that the latest features are available:
 
@@ -93,7 +98,7 @@ The next step is to add users to the model-driven app so they can interact with 
 
 ### The Dynamics 365 Remote Assist model-driven app failed to be installed because of missing dependencies
 
-This will occur if you try installing Dynamics 365 Remote Assist in an environment that isn't enabled for Dynamics 365 apps. Try installing the app in an environment where other Dynamics 365 apps&mdash;such as Field Service or Sales&mdash;are installed, or create a new environment that's enabled for Dynamics 365 apps. More information: [Create a new environment](#install-dynamics-365-remote-assist-model-driven-app)
+This will occur if you try installing Dynamics 365 Remote Assist in an environment that isn't enabled for Dynamics 365 apps. Try installing the app in an environment where other Dynamics 365 apps&mdash;such as Field Service or Sales&mdash;are installed, or create a new environment that's enabled for Dynamics 365 apps. More information: [Create a new environment](#install-the-dynamics-365-remote-assist-model-driven-app)
 
 ### Can't enable Dynamics 365 apps
 
