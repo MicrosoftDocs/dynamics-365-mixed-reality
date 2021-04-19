@@ -158,6 +158,11 @@ When in a call, you'll see your collaborator’s space, including the holograms,
 
 ![Screenshot of the mixed reality toolbar.](media/mixed-reality-toolbar.PNG)
 
+> [!NOTE]
+> -	The toolbar appears only when the video on stage is from the Dynamics 365 Remote Assist user.
+> -	The toolbar will appear but will be disabled if the Dynamics 365 Remote Assist user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily lost tracking, or Dynamics 365 Remote Assist is not in the foreground because the user did the bloom gesture).
+> -	The toolbar will not appear if the same Dynamics Remote Assist user joins the call from a mobile device and a PC at the same time, or from a HoloLens and a PC at the same time.
+
 ### Begin editing 
 
 To start annotating, first do one of the following to pause the video stream and enter edit mode:
