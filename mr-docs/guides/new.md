@@ -18,13 +18,6 @@ ms.reviewer: v-brycho
 >
 > Please work with your IT admin to schedule the installation update. <a href="https://docs.microsoft.com/dynamics365/mixed-reality/guides/upgrade" target="_blank">See instructions for updating the solution</a>. 
 
-> [!NOTE]
-> Effective November 2020:
->
->- Common Data Service has been renamed to Microsoft Dataverse. <a href="https://powerapps.microsoft.com/en-us/blog/reshape-the-future-of-work-with-microsoft-dataverse-for-teams-now-generally-available/" target="_blank">Learn more</a>
->
->- Some terminology in Microsoft Dataverse has been updated. For example, *entity* is now *table* and *field* is now *column*. <a href="https://powerapps.microsoft.com/en-us/blog/reshape-the-future-of-work-with-microsoft-dataverse-for-teams-now-generally-available/" target="_blank">Learn more</a>
-
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, take a look at <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>, which summarize early access features, preview features, monthly general availability enhancements, and bug fixes.
 
 > [!NOTE]
