@@ -26,7 +26,7 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 ## April 1, 2021
 
 > [!IMPORTANT]
-> Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state. Future updates for HoloLens (1st gen) will focus on issues and security fixes, while maintaining feature parity with the March 31, 2021 release.
+> Dynamics 365 Guides on HoloLens (1st gen) has entered Long Term Servicing state. Future updates for HoloLens (1st gen) will focus on issues and security fixes, while maintaining feature parity with the April 1, 2021 release.
 
 ### Version info
 
