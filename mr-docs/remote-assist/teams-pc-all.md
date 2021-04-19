@@ -2,7 +2,7 @@
 author: BryceHolmes
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application
 ms.author: soanigbo
-ms.date: 04/14/2021
+ms.date: 04/19/2021
 ms.service: crm-online
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application
@@ -154,7 +154,7 @@ To use additional features, select the ellipses icon […]. For example, select 
 
 ## Add annotations in the Dynamics 365 Remote Assist user's environment 
 
-When in a call, you'll see your collaborator’s space, including the holograms, and can use the Mixed Reality toolbar to add annotations.
+When you're in a call, you'll see your collaborator’s space, including holograms, and can use the Mixed Reality toolbar to add annotations.
 
 ![Screenshot of the mixed reality toolbar.](media/mixed-reality-toolbar.PNG)
 
