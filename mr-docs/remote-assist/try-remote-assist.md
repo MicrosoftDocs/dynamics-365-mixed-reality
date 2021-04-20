@@ -2,7 +2,7 @@
 author: xonatia
 description: Try Dynamics 365 Remote Assist for free 
 ms.author: xolee
-ms.date: 02/27/2020
+ms.date: 04/21/2021
 ms.service: crm-online
 ms.topic: article
 title: Try Dynamics 365 Remote Assist for free 
@@ -29,7 +29,7 @@ In this article, we’ll walk through the three ways you can get a Dynamics 365 
 
    - A [Microsoft account](https://account.microsoft.com/account).
    - A [Microsoft Teams freemium account](https://products.office.com/microsoft-teams/free).
-   - Azure Active Directory [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only).
+   - Azure Active Directory [Premium Trial](https://azure.microsoft.com/trial/get-started-active-directory/) (for HoloLens users only). Users will sign in to their accounts through Azure Active Directory. 
    - A HoloLens, HoloLens 2, or a mobile device. Additional licensing and product requirements can be found [here](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
 With the license-free 90-day free trial, each user must download Dynamics 365 Remote Assist in the appropriate app store to start the trial. 
