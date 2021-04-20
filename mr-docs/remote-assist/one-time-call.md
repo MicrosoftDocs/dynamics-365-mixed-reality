@@ -29,11 +29,6 @@ Note that in these scenarios, the external user only needs to **join** a Dynamic
 
 Any licensed Dynamics 365 Remote Assist user can use the Dynamics 365 Remote Assist web app with their desktop (or mobile) browser to generate a one-time call link. The licensed Dynamics 365 Remote Assist user can share the link with an external user who is using their preferred communication platform (for example, email, SMS, or [Dynamics 365 Omnichannel channels](https://docs.microsoft.com/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Dynamics 365 Remote Assist mobile app (or, in some scenarios, the Teams desktop app).
 
-> [!NOTE]
-> You can't generate a link from the Teams desktop app. You can, however, select the **Go to website** command from the Teams desktop app, and then generate the link.
-> 
-> ![Go to website command highlighted](./media/go-to-website.PNG "Go to website command highlighted")
-
 ## Requirements  
 
 - [Set up your Dynamics environment](ra-webapp-install.md).
@@ -134,7 +129,12 @@ No – you can only access the web app through the desktop web browser or mobile
 
 #### Can I embed the Dynamics 365 Remote Assist web app in Teams?
 
-If you want to join the one-time call from your desktop, you might want to [embed the Remote Assist web app in Teams](https://docs.microsoft.com/dynamics365/teams-integration/teams-install-app#in-microsoft-teams-set-up-the-personal-dashboard) to minimize switching between the Dynamics 365 Remote Assist web app and the Teams desktop app. 
+If you want to join the one-time call from your desktop, you might want to [embed the Remote Assist web app in Teams](https://docs.microsoft.com/dynamics365/teams-integration/teams-install-app#in-microsoft-teams-set-up-the-personal-dashboard) to minimize switching between the Dynamics 365 Remote Assist web app and the Teams desktop app.
+
+> [!NOTE]
+> You can't generate a link from the Teams desktop app. You can, however, select the **Go to website** command from the Teams desktop app, and then generate the link.
+> 
+> ![Go to website command highlighted](./media/go-to-website.PNG "Go to website command highlighted")
 
 #### When the agent selects “Generate a link,” no pop-ups appear, and the agent is unable to copy the link to send to their customer
 
