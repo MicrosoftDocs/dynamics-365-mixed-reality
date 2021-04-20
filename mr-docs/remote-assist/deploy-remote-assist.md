@@ -3,7 +3,7 @@ title: Deploy Dynamics 365 Remote Assist
 author: xonatia
 description: Dynamics 365 Remote Assist users can deploy and set up Dynamics 365 Remote Assist on their devices. 
 ms.author: xolee
-ms.date: 04/02/2020
+ms.date: 04/20/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -27,6 +27,7 @@ You can also learn how to configure [deploy multi-tenant company deployments](mu
 
 - Your organization must have a Microsoft 365 or Microsoft 365 [administrator account](https://www.microsoft.com/microsoft-365/business/office-365-administration). For more information, [learn more about admin permission](https://docs.microsoft.com/office365/admin/admin-overview/admin-overview?redirectSourcePath=%252farticle%252foffice-365-admin-overview-c7228a3e-061f-4575-b1ef-adf1d1669870&view=o365-worldwide). 
 - You'll need either a free trial of Dynamics 365 Remote Assist, or have purchased licenses. Visit our articles on [free trials](try-remote-assist.md) and [buying Dynamics 365 Remote Assist](buy-remote-assist.md) for more information.
+- You'll also need an Azure Active Directory account for each licensed user. They'll use Azure Active Directory to sign into the app.
 - Make sure that users in your organization have the required licensing and devices. For more information, visit the article on [licensing and product requirement](https://docs.microsoft.com/dynamics365/mixed-reality/remote-assist/requirements).
 
 >[!Note] 
