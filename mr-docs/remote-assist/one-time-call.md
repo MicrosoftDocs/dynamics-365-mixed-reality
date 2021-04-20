@@ -3,7 +3,7 @@ title: Invite a user to join a one-time call (public preview) in Microsoft Dynam
 author: BryceHolmes
 description: Invite a user to join a one-time call (public preview) in Dynamics 365 Remote Assist 
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 04/20/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: v-bholmes
@@ -28,6 +28,11 @@ Additional scenarios:
 Note that in these scenarios, the external user only needs to **join** a Remote Assist call on an ad-hoc, one-time basis. The external user does not need to initiate a call or use Remote Assist’s out-of-call asset capture functionalities. 
 
 Any licensed Remote Assist user can use the Remote Assist web app with their desktop (or mobile) browser to generate a one-time call link. The licensed Remote Assist user can share the link with an external user who is using their preferred communication platform (for example, email, SMS, or [Dynamics 365 Omnichannel channels](https://docs.microsoft.com/dynamics365/omnichannel/introduction-omnichannel#channels-available-with-omnichannel-for-customer-service)). The external user can join the call using the Remote Assist mobile app (or, in some scenarios, the Teams desktop app).
+
+> [!NOTE]
+> You can't generate a link from the Teams desktop app. You can, however, select the **Go to website** command from the Teams desktop app, and then generate the link.
+> 
+> ![Go to website command highlighted](./media/go-to-website.PNG "Go to website command highlighted")
 
 ## Requirements  
 
