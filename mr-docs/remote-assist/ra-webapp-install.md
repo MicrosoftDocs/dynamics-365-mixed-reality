@@ -3,7 +3,7 @@ title: Set up an environment and install the Microsoft Dynamics 365 Remote Assis
 author: dhgoelmsft
 description: Learn how to set up an environment and install the Microsoft Dynamics 365 Remote Assist model-driven app to use Microsoft Dataverse features in Remote Assist, such as the Calls Dashboard, one-time calls, and asset capture.
 ms.author: dhgoel
-ms.date: 04/19/2021
+ms.date: 04/20/2021
 ms.service: crm-online
 ms.topic: article
 ms.reviewer: krbjoran
@@ -31,7 +31,9 @@ The Dataverse is the central location for customers to store their organization-
 To complete the installation steps, you need:
 
 - **A Dynamics 365 Remote Assist subscription** to create environments and install the app.
+
 - **The ability to manage environments in the Microsoft Power Platform admin center**. This tutorial covers creating Dynamics 365 environments and installing apps. Admin access is required (Dynamics 365 service admin, global admin, or Power Platform service admin).
+
 - **Available database capacity**. If you're creating a new environment for Dynamics 365 Remote Assist, you'll need at least 1 GB of available database capacity. Paid subscriptions of Dynamics 365 Remote Assist provide default tenant capacity. More information: [New Dataverse storage capacity](https://docs.microsoft.com/power-platform/admin/capacity-storage)
 
 > [!IMPORTANT]
@@ -51,11 +53,15 @@ You can install the Dynamics 365 Remote Assist app in two ways:
 ### Create a new environment
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+
 2. In the left pane, select **Environments**, and then select **New**.
+
 3. Enter a name, choose **Production** or **Sandbox**, and choose **Yes** for **Create a database for this environment**. Select **Next**.\
+
 :::image type="content" source="media/PPAC_Environment_Create_Database.png" alt-text="Screenshot of a new environment create database.":::
 
 4. Select **Yes** for **Enable Dynamics 365 apps**, select **Remote Assist** from the drop-down menu, and then select **Save**. This will create an environment and automatically install the Dynamics 365 Remote Assist app. If you encounter an issue, see [the troubleshooting](#troubleshooting) section in this article.\
+
 :::image type="content" source="media/PPAC_Environment_Enable_D365_apps.png" alt-text="Screenshot of a new environment with enable Dynamics 365 apps.":::
 
 More information: [Create and manage environments in the Power Platform admin center](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-in-the-power-platform-admin-center)
@@ -63,12 +69,14 @@ More information: [Create and manage environments in the Power Platform admin ce
 ### Use an existing environment
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
+
 2. In the left pane, select **Resources** > **Dynamics 365 apps**.
+
 3. Find the Dynamics 365 Remote Assist app, select the ellipsis button ![ellipsis icon](./media/ellipsis.png), and then select **Install**.
 
     ![Power Platform admin center](./media/AC_PPAC_InstallApp.png "Power Platform admin center")
 
-4.. Select an environment, review the packages to be installed, agree to the terms of service, and then select **Install**. This process might take a while.
+4. Select an environment, review the packages to be installed, agree to the terms of service, and then select **Install**. This process might take a while.
 
 > [!IMPORTANT]
 > The environment selected must be Dynamics 365 apps&ndash;enabled (for example, you can't use the default environment). If it isn't compatible, the installation will fail. Choose another environment that's compatible, or create a new environment with Dynamics 365 apps enabled.
@@ -78,12 +86,18 @@ More information: [Create and manage environments in the Power Platform admin ce
 As new versions of the Dynamics 365 Remote Assist model-driven app are released, you will need to update the app by following the steps below to ensure that the latest features are available:
 
 1. Sign in to the [Power Platform admin center](https://admin.powerplatform.com) as an admin (Dynamics 365 service admin, Global admin, or Power Platform service admin).
-1. In the left pane, select **Environments** and then click on the name of the environment where you wish to perform the update.
-1. From this view of environment details, you can select **Resources** > **Dynamics 365 apps** either from the top nav bar or from the card in the main view.
-:::image type="content" source="media/PPAC_Environment_Details_D365_apps.png" alt-text="Screenshot of environment details in PPAC.":::
-1. You will see the appropriate status for applications which have an **Update available**. Select the status, which will show a pane with the details of the update. Follow the steps to start the update.
-:::image type="content" source="media/PPAC_Update_Solution.png" alt-text="Screenshot of solution updates in PPAC":::
-1. After initiating the update, the environment details will show a status of **Installing** next to the **Dynamics 365 Remote Assist** app. This process might take a while. Once the update has been completed, the status will change to **Installed**.
+
+2. In the left pane, select **Environments** and then click on the name of the environment where you wish to perform the update.
+
+3. From this view of environment details, you can select **Resources** > **Dynamics 365 apps** either from the top nav bar or from the card in the main view.
+
+    :::image type="content" source="media/PPAC_Environment_Details_D365_apps.png" alt-text="Screenshot of environment details in PPAC.":::
+
+4. You will see the appropriate status for applications which have an **Update available**. Select the status, which will show a pane with the details of the update. Follow the steps to start the update.
+
+    :::image type="content" source="media/PPAC_Update_Solution.png" alt-text="Screenshot of solution updates in PPAC":::
+
+5. After initiating the update, the environment details will show a status of **Installing** next to the **Dynamics 365 Remote Assist** app. This process might take a while. Once the update has been completed, the status will change to **Installed**.
 
 ## Next step
 
