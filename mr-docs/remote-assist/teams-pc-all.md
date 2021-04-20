@@ -2,7 +2,7 @@
 author: BryceHolmes
 description: Learn how to collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application
 ms.author: soanigbo
-ms.date: 04/08/2021
+ms.date: 04/19/2021
 ms.service: crm-online
 ms.topic: article
 title: Collaborate with a Dynamics 365 Remote Assist user through the Microsoft Teams desktop application
@@ -34,9 +34,9 @@ However, the features you can use to collaborate differ depending on which platf
 
 ## Key terms
 
-When you join a call, you will see the Mixed Reality toolbar, seen in the following screenshot.
+When you join a call, you'll see the Mixed Reality toolbar, seen in the following screenshot.
 
-![Screenshot of the mixed reality toolbar](media/071f358ab6bbf7c2072b15d9203a1593.png "Mixed Reality toolbar")
+![Screenshot of the Mixed Reality toolbar](media/mixed-reality-toolbar.PNG "Screenshot of the Mixed Reality toolbar")
 
 You'll also see the **Call Controls panel**, seen in the following screenshot.
 
@@ -154,9 +154,14 @@ To use additional features, select the ellipses icon […]. For example, select 
 
 ## Add annotations in the Dynamics 365 Remote Assist user's environment 
 
-When in a call, you'll see your collaborator’s space, including the holograms, and can use the Mixed Reality toolbar to add annotations.
+When you're in a call, you'll see your collaborator’s space, including holograms, and can use the Mixed Reality toolbar to add annotations.
 
-![Screenshot of the mixed reality toolbar.](media/071f358ab6bbf7c2072b15d9203a1593.png)
+![Screenshot of the mixed reality toolbar.](media/mixed-reality-toolbar.PNG)
+
+> [!NOTE]
+> -	The toolbar appears only when the video on stage is from the Dynamics 365 Remote Assist user.
+> -	The toolbar will appear but will be disabled if the Dynamics 365 Remote Assist user is not ready to receive annotations and files (for example, the  user's outgoing video feed is disabled, the user temporarily lost tracking, or Dynamics 365 Remote Assist is not in the foreground because the user did the bloom gesture).
+> -	The toolbar will not appear if the same Dynamics Remote Assist user joins the call from a mobile device and a PC at the same time, or from a HoloLens and a PC at the same time.
 
 ### Begin editing 
 
@@ -168,10 +173,6 @@ To start annotating, first do one of the following to pause the video stream and
 
 -   Select **Start editing**.
 
->[!Note]
-> By default, the Mixed Reality toolbar is on the top of your screen. If it's blocking your view, select the drag button (![Graphic showing the drag button](media/PC_Drag.png)) and drag it to move it to another location.
-> Note that you can't drag the Mixed Reality toolbar in the Teams multi-window. 
-
 In edit mode, the expert will still see a live stream of the call in the corner of the app window, including the annotations that other call participants add.
 
 ### Add arrows, ink, and files
@@ -182,9 +183,9 @@ Use the Mixed Reality toolbar to place arrows, draw, or add files in the HoloLen
 
 - To add ink, select **Ink** (![Graphic showing the ink icon, which looks like a pen.](media/187307e30fd713f5ae67aba854b78bc4.png)).
 
-- To change the arrow or ink color, select **Pick a color** (![Graphic showing the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)).
+- To add a file in the HoloLens user's space, select  **Insert files** (![Graphic showing the insert files icon.](media/insert-document-button.png)), and then add an image file or a PDF from OneDrive or from your device. 
 
-- To add a file in the HoloLens user's space, select  **Insert files** (![Graphic showing the insert files icon.](media/41aa538d3be8e163215f7d9374abe90e.png)), and then add an image file or a PDF from OneDrive or from your device. 
+- To change the arrow or ink color, select **Pick a color** (![Graphic showing the pick a color icon.](media/5d9d3c70cf19ed175a8dc1ad71a60fc5.png)).
 
 ### Finish editing
 
