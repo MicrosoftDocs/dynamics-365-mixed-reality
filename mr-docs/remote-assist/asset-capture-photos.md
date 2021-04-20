@@ -72,7 +72,7 @@ In this tutorial, you learned how to view assets in HoloLens and capture photos 
 
 ### Dynamics 365 Remote Assist says to contact my IT admin on the Assets tab
 
-1. Ensure the app was installed to the right environment. More information: [Install Dynamics 365 Remote Assist model-driven app](./ra-webapp-install.md#install-dynamics-365-remote-assist-model-driven-app)
+1. Ensure the app was installed to the right environment. More information: [Install the Dynamics 365 Remote Assist model-driven app](./ra-webapp-install.md#install-the-dynamics-365-remote-assist-model-driven-app)
 2. Verify that the user has the **Common Data Service User** and **Remote Assist - App User** or **Remote Assist - Administrator** security roles assigned. More information: [Assign Dynamics 365 security roles](./asset-capture-add-users.md#assign-dynamics-365-security-roles)
 3. After following these steps, close the app and the live tile, and then reopen it.
 
