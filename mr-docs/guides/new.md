@@ -25,7 +25,12 @@ This page provides details about the latest releases of [!include[cc-microsoft](
 > 
 ## April 27, 2021
 
+### Features
 
+| Feature | Solution update required? |How to|
+|----------------------------------------------------------------------------------------|------|------------------------------------|
+| <a href="RP URL GOES HERE" target="_blank">Space-planning models</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
+| <a href="RP URL GOES HERE" target="_blank">Export/import folders</a> | Yes |<a href="DOCS URL GOES HERE" target="_blank">Docs title goes here</a>|
 
 ### Version info
 
