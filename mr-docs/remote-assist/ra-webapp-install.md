@@ -32,9 +32,9 @@ After installing the Dynamics 365 Remote Assist model-driven app, you'll be able
 
 - Use the Remote Assist client app on HoloLens or Mobile to [capture and view asset data](asset-capture-overview.md).
 
-- Create and share [one-time call links](one-time-call.md)
+- Create and share [one-time call links](one-time-call.md).
 
-- Record call metrics to enable the [Calls Dashboard](calls-dashboard.md)
+- Record call metrics to enable the [Calls Dashboard](calls-dashboard.md).
 
 ## Prerequisites
 
