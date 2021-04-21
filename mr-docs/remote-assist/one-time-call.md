@@ -220,7 +220,7 @@ Your customer must fully close the app and select the new link again.
 
 If the customer has Chrome or Edge set as their default browser on their Android mobile device, in some circumstances, they may see this screen and need to take an extra step to join the call.
 
-![Edge case landing page](./media/OTC-C2-edge-case-landing-page.png "Edge case landing page")
+![Edge case landing page](./media/otc-edge-case.PNG "Edge case landing page")
 
 |     User action    |     Next step   |  
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|
