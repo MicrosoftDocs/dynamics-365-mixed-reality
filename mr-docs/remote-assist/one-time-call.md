@@ -50,11 +50,11 @@ To generate links for one-time calls:
 
 ### Before selecting Generate a link on the desktop web app
 
-![Before selecting Generate a link on the desktop web app](./media/OTC-C1-before-generate-link.PNG "Before")
+![Before selecting Generate a link on the desktop web app](./media/OTC-C1-before-generate-link.png "Before")
 
 ### After selecting Generate a link and Copy on the desktop web app 
 
-![After selecting Generate a link and Copy on the desktop web app  ](./media/OTC-C1-after-generate-link.PNG "After")
+![After selecting Generate a link and Copy on the desktop web app  ](./media/OTC-C1-after-generate-link.png "After")
 
 |     Before selecting Generate a link on the desktop web app     |     After selecting Generate a link and Copy on the desktop web app    |  
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|
