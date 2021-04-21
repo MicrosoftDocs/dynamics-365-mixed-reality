@@ -51,7 +51,7 @@
 ### [Add users](asset-capture-add-users.md)
 ### [Monitor key metrics with the Calls dashboard](calls-dashboard.md)
 ### [Invite a user to join a one-time call](one-time-call.md)
-### Asset capture
+### Capture data on assets
 #### [Overview](asset-capture-overview.md)
 #### [Create asset records](asset-capture-create-asset.md)
 #### [Review asset captures](asset-capture-review.md)
