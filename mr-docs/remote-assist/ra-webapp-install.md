@@ -28,7 +28,13 @@ The Dataverse is the central location for customers to store their organization-
 
 ## Features enabled through the model-driven app
 
+After installing the Dynamics 365 Remote Assist model-driven app, you'll be able to use any of the following features:
 
+- Use the Remote Assist client app on HoloLens or Mobile to [capture and view asset data]()
+
+- Create and share [one-time call links]()
+
+- Record call metrics to enable the [Calls Dashboard]()
 
 ## Prerequisites
 
