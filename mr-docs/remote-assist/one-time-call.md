@@ -50,11 +50,11 @@ To generate links for one-time calls:
 
 ### Before selecting Generate a link in the model-driven app
 
-![Before selecting Generate a link on the desktop web app](./media/OTC-C1-before-generate-link.png "Before")
+![Before selecting Generate a link on the desktop web app](./media/otc-before-generate-link.PNG "Before")
 
 ### After selecting Generate a link and Copy in the model-driven app 
 
-![After selecting Generate a link and Copy on the desktop web app  ](./media/OTC-C1-after-generate-link.png "After")
+![After selecting Generate a link and Copy on the desktop web app  ](./media/otc-after-generate-link.PNG "After")
 	 
 ### Step 1: Generate a call link
 
