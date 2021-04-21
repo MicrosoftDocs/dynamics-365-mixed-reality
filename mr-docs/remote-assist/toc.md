@@ -7,7 +7,6 @@
 ### [Get a free trial](try-remote-assist.md)
 ### [Buy](buy-remote-assist.md)
 ### [Deploy in your tenant](deploy-remote-assist.md)
-### [Install the Dynamics 365 Remote Assist model-driven app](ra-webapp-install.md)
 
 ## Dynamics 365 Remote Assist on HoloLens
 ### [Overview](overview-hololens.md)
@@ -48,6 +47,7 @@
 ### [Provide feedback](mobile-app/provide-feedback.md)
 
 ## Dynamics 365 Remote Assist model-driven app
+### [Install the model-driven app](ra-webapp-install.md)
 ### [Add users](asset-capture-add-users.md)
 ### [Calls dashboard](calls-dashboard.md)
 ### [Invite a user to join a one-time call](one-time-call.md)
