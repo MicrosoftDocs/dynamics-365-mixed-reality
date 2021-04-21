@@ -48,6 +48,14 @@ To generate links for one-time calls:
 
 ## Agent experience 
 
+### Before selecting Generate a link on the desktop web app
+
+![Before selecting Generate a link on the desktop web app](./media/OTC-C1-before-generate-link.PNG "Before")
+
+### After selecting Generate a link and Copy on the desktop web app 
+
+![After selecting Generate a link and Copy on the desktop web app  ](./media/OTC-C1-after-generate-link.PNG "After")
+
 |     Before selecting Generate a link on the desktop web app     |     After selecting Generate a link and Copy on the desktop web app    |  
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|
 | ![Before selecting Generate a link on the desktop web app](./media/otc-before-generate-link.PNG "Before") | ![After selecting Generate a link and Copy on the desktop web app  ](./media/otc-after-generate-link.PNG "After")| 
