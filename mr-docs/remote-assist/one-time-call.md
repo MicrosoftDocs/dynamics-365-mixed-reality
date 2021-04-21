@@ -109,6 +109,7 @@ Note that [Dynamics 365 Remote Assist device requirements](https://docs.microsof
 ![Enter name](./media/OTC-C2-enter-name.png "Enter name")
 
 **Step 4**: Your customer waits for you to admit them into the call.
+
 ![Wait to join call](./media/OTC-C2-in-lobby.png "Wait to join call")
  
 **Step 5**: 
