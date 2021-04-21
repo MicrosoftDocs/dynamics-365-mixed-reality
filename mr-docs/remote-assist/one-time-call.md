@@ -106,7 +106,7 @@ Note that [Dynamics 365 Remote Assist device requirements](https://docs.microsof
 
 **Step 3**: Your customer is prompted to enter their name. 
 
-![Enter name](./media/OTC-C2-enter-name.png "Enter name")
+![Enter name](./media/OTC-enter-name.PNG "Enter name")
 
 **Step 4**: Your customer waits for you to admit them into the call.
 
