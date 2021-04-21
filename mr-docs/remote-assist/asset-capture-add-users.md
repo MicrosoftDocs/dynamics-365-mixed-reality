@@ -41,7 +41,7 @@ Anyone who will be using Dynamics 365 Remote Assist client app on HoloLens or Mo
 
 More information: [Assign licenses to users](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
-## Assign Dynamics 365 security roles (Guides version)
+## Assign Dynamics 365 security roles
 
 > [!NOTE]
 > Users can take up to one hour to appear in the Dynamics 365 admin center after the licenses are added in the Microsoft 365 admin center.
