@@ -34,7 +34,7 @@ After installing the Dynamics 365 Remote Assist model-driven app, you'll be able
 
 - Create and share [one-time call links](one-time-call.md).
 
-- Record call metrics to enable the [Calls Dashboard](calls-dashboard.md).
+- Monitor operational metrics through the [Calls dashboard](calls-dashboard.md).
 
 ## Prerequisites
 
