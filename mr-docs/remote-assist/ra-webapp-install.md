@@ -26,7 +26,7 @@ The Dataverse is the central location for customers to store their organization-
 > - [Power Platform data center regions](https://docs.microsoft.com/power-platform/admin/new-datacenter-regions)
 > - [Microsoft 365 Multi-Geo](https://docs.microsoft.com/microsoft-365/enterprise/microsoft-365-multi-geo?view=o365-worldwide)
 
-## Features enabled through the model-driven app
+## Features enabled by the model-driven app
 
 After installing the Dynamics 365 Remote Assist model-driven app, you'll be able to use any of the following features:
 
