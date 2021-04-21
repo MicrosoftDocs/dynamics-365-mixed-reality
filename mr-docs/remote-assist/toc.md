@@ -49,7 +49,7 @@
 ## Dynamics 365 Remote Assist model-driven app
 ### [Install the model-driven app](ra-webapp-install.md)
 ### [Add users](asset-capture-add-users.md)
-### [Calls dashboard](calls-dashboard.md)
+### [Monitor key metrics with the Calls dashboard](calls-dashboard.md)
 ### [Invite a user to join a one-time call](one-time-call.md)
 ### Asset capture
 #### [Overview](asset-capture-overview.md)
