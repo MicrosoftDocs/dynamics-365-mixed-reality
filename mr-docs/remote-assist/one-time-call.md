@@ -112,11 +112,11 @@ Note that [Dynamics 365 Remote Assist device requirements](https://docs.microsof
 
 ![Wait to join call](./media/otc-in-lobby.PNG "Wait to join call")
  
-**Step 5**: 
+**Step 5**: After your customer selects **End call**, they are prompted to confirm that they want to leave the call.
 
-|     After your customer selects **End call**, they are prompted to confirm that they want to leave the call.	   |     After your customer leaves the call, they will not be able to rejoin the call or view the chat history.    |  
-|-----------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![Confirm to leave](./media/OTC-C2-leave-call.png "Confirm to leave") | ![Cannot rejoin call](./media/OTC-C2-call-ended.png "Cannot rejoin call")| 
+![Confirm to leave](./media/otc-leave-call.PNG "Confirm to leave")
+
+After your customer leaves the call, they will not be able to rejoin the call or view the chat history.
 
 ## FAQ
 
