@@ -28,7 +28,8 @@ Any licensed Dynamics 365 Remote Assist user can use the Dynamics 365 Remote Ass
 
 ## Requirements  
 
-In this article, "agent" refers to the licensed Remote Assist user; “customer” refers to the unlicensed external user.
+> [!NOTE]
+> In this article, "agent" refers to the licensed Remote Assist user; “customer” refers to the unlicensed external user.
 
 To generate links for one-time calls:
 
