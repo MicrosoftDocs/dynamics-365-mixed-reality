@@ -50,7 +50,7 @@ To generate links for one-time calls:
 
 |     Before selecting Generate a link on the desktop web app     |     After selecting Generate a link and Copy on the desktop web app    |  
 |-----------------------------------------------------------------|--------------------------------------------------------------------------|
-| ![Before selecting Generate a link on the desktop web app](./media/OTC-before-generate-link.PNG "Before") | ![After selecting Generate a link and Copy on the desktop web app  ](./media/otc-after-generate-link.PNG "After")| 
+| ![Before selecting Generate a link on the desktop web app](./media/otc-before-generate-link.PNG "Before") | ![After selecting Generate a link and Copy on the desktop web app  ](./media/otc-after-generate-link.PNG "After")| 
 
 	 
 ### Step 1: Generate a call link
