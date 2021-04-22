@@ -23,7 +23,7 @@ As an admin, you can organize guides into folders for easier management of permi
 
 2.	In Power Apps, select the **Guides** app tile.
 
-    ![Guides app tile](media/folders-command.PNG "Guides app tile")
+    ![Guides app tile](media/xxx.PNG "Guides app tile")
 
 3.	In the left pane, select **Folders** to view all folders created in the instance.
 
