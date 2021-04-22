@@ -18,7 +18,7 @@ You open the **Step Editor** page from the **Outline** page.
 
 3. When you're ready to add another step, select **Add step** in the upper-right corner of the page.
 
-### Best practices for instructional text and supporting content
+## Best practices for instructional text and supporting content
 
 - Don't be afraid to add lots of steps, but keep the text short. Instruction text is limited to 280 characters per step.
 
