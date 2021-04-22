@@ -17,6 +17,12 @@ To add a model from the 3D toolkit, follow these steps.
 2. Drag the 3D model that you want to one of the **3D parts** boxes.
 
     ![Dragging a 3D model to a 3D parts box](media/select-arrow.PNG "Dragging a 3D model to a 3D parts box")
+    
+3. To preview the model, select (click or double-click) the model in the **Library**.
+
+    ![Properties tab for previewing image, video, or 3D model](media/properties-tab.PNG "Properties tab for previewing image, video, or 3D model")
+    
+    The image and its properties are displayed on the right side of the screen.   
 
 > [!NOTE]
 > You can also add 3D models from the 3D toolkit directly in the [!include[pn-hololens](../includes/pn-hololens.md)] app.
