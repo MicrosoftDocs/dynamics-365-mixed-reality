@@ -52,11 +52,11 @@ More information: [Assign licenses to users](https://docs.microsoft.com/microsof
 
 3. Select the environment that you want to work with, select the **More environment actions** (**...**) button, and then select **Settings**.
 
-    ![Settings command](media/environment-settings.PNG "Settings command")
+    ![Settings command](media/power-platform-environment-settings.PNG "Settings command")
 
 4. Select **Users + permissions** to expand the list of options, and then select **Users**. If you're prompted to sign in to Dynamics 365, be sure to use your admin credentials.
 
-    ![Users selected](media/users-setting.PNG "Users selected")
+    ![Users command selected](media/user-permissions-users.PNG "Users command selected")
     
 5. Follow one of these steps:
 
@@ -69,15 +69,15 @@ More information: [Assign licenses to users](https://docs.microsoft.com/microsof
     
 6. Select **Manage users in Dynamics 365** at the top of the page. 
 
-   ![Manage Users in Dynamics 365 command](media/select-manage-users.png "Manage Users in Dynamics 365 command")
+   ![Manage users in Dynamics 365 command](media/manage-user-roles.PNG "Manage users in Dynamics 365 command")
 
 7. Select one or more users, and then select **Manage Roles** at the top of the page.
 
-    ![Manage Roles button](media/select-manage-roles.PNG "Manage Roles button")
+    ![Manage Roles button](media/manage-roles.PNG "Manage Roles button")
 
 8. In the **Manage User Roles** dialog box, select the **Basic User** check box.
 
-    ![Basic User check box](media/manage-user-basic-user.PNG "Basic User check box")
+    ![Basic User check box](media/basic-user.PNG "Basic User check box")
     
     > [!NOTE]
     > You may see a **Common Data Service** check box instead of a **Basic User** check box. If so, select that check box. 
@@ -90,7 +90,7 @@ More information: [Assign licenses to users](https://docs.microsoft.com/microsof
 
 If users don't appear on the **Security** page (**Dynamics 365** \> **Settings** \> **Security**), in the [Power Platform admin center](https://admin.powerplatform.microsoft.com/environments), select **Add user**. In the **Add user** dialog box, enter the account details, and then select **Add**. This operation triggers synchronization, so the user is added to the instance within a few minutes.
 
-![Adding a user in Power Platform admin center](media/add-user-4.PNG "Adding a user in Power Platform admin center")
+![Adding a user in Power Platform admin center](media/add-users-troubleshooting.PNG "Adding a user in Power Platform admin center")
 
 ## Manage app roles
 
