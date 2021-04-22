@@ -11,7 +11,7 @@ ms.reviewer: v-bholmes
 
 # Organize guides into folders in Dynamics 365 Guides (for admins)
 
-As an admin, you can organize guides into folders for easier permissions management. A folder may contain guides and subfolders, and each folder can be assigned an owner that is inherited by guides or subfolders in that folder. Folders are useful for managing groups of guides with the same permissions, such as guides for a specific team or product. When you delete a folder, all items in that folder are also deleted.
+As an admin, you can organize guides into folders for easier permissions management. A folder can contain guides and subfolders, and each folder can be assigned an owner that is inherited by guides or subfolders in that folder. Folders are useful for managing groups of guides with the same permissions, such as guides for a specific team or product. When you delete a folder, all items in that folder are also deleted.
 
 > [!IMPORTANT]
 > For the May 4 release, you can create folders and set permissions for those folders if you're an admin. The folders won't appear in the HoloLens and PC apps, however, until a later release.
