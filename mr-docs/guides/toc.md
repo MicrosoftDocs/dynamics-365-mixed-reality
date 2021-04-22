@@ -49,8 +49,8 @@
 ##### [Add a 3D model](pc-app-add-3D-model.md)
 ##### [Add a 3D part](pc-app-add-3D-part.md)
 ##### [Add media (images or videos)](pc-app-add-media.md)
-##### [Add a space-planning model]
-##### [Supported file formats for 3D models, images, and videos]
+##### [Add a space-planning model]()
+##### [Supported file formats for 3D models, images, and videos](pc-app-supported-file-formats.md)
 ##### [Preview an image, video, or 3D model]
 #### [To separate into multiple topics above](create-steps-assign-media.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
