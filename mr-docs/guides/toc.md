@@ -43,8 +43,7 @@
 ##### [Effect of calibration, pre-scanning, and environment on hologram precision](pc-app-anchor-improve-hologram-precision.md)
 ##### [Effect of anchor types/placement on hologram precision](pc-app-anchor-types-placement-precision.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
-
-#### Create steps and add 3D models, media
+#### Create steps and add 3D models or media
 ##### [Step Editor overview](pc-app-step-editor-overview.md)
 ##### [Add a 3D model](pc-app-add-3D-model.md)
 ##### [Add a 3D part](pc-app-add-3D-part.md)
