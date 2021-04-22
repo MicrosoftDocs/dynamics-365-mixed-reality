@@ -84,7 +84,7 @@ More information: [Assign licenses to users](https://docs.microsoft.com/microsof
 
 9. Select the check box for **Remote Assist - App User**.
         
-10. For supervisors, service managers, and other users who may need access to advanced features, such as the [Calls dashboard](./calls-dashboard.md), select the check bos for the **Remote Assist - Administrator** role. When you're finished, select **OK**.
+10. For supervisors, service managers, and other users who may need access to advanced features, such as the [Calls dashboard](./calls-dashboard.md), select the check box for the **Remote Assist - Administrator** role. When you're finished, select **OK**.
     
 ### Troubleshooting security roles
 
