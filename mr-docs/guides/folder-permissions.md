@@ -22,27 +22,28 @@ As an admin, you can organize guides into folders for easier management of permi
 <<same tip as on https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/admin-deactivate-guide>>
 
 2.	In Power Apps, select the **Guides** app tile.
-<<same screenshot as above>>
+
+    ![Guides app tile](media/folders-command.PNG "Guides app tile")
 
 3.	In the left pane, select **Folders** to view all folders created in the instance.
 
-    SCREEN SHOT GOES HERE 
+    ![Folders command highlighted in left pane](media/folders-command.PNG "Folders command highlighted in left pane")
 
 4.	At the top of the screen, select **New** to create a new folder.
 
-    SCREEN SHOT GOES HERE 
+    ![New command highlighted at top of Power Apps screen](media/folders-create-new.PNG "New command highlighted at top of Power Apps screen") 
 
-5.	Enter the name and owner of the folder. You can also select an existing folder as the **Parent Folder**, or leave blank to create a folder at the root level.
+5.	Enter the name and owner of the folder. You can select an existing folder in the **Parent Folder** field, or leave the **Parent Folder** field blank to create a folder at the root level.
 
-6.	Select **Save & Close** on the toolbar to save the folder and return to the folder list. After saving, you can add guides and subfolders to the folder.
+6.	At the top of the screen, select **Save & Close** to save the folder and return to the folder list. After saving, you can add guides and subfolders to the folder.
 
 ## Add a guide to a folder
 
-1.	In the left pane, select **Guides**, and then locate the guide you want to add to the folder.
-
-    SCREEN SHOT GOES HERE
+1.	In the left pane, select **Guides**, and then locate the guide you want to add to the folder.    
 
 2.	On the **General** tab, in the **Parent Folder** field, enter the parent folder name or search for it.
+
+    ![General tab and Parent Folder field highlighted](media/folders-general-tab.PNG "General tab and Parent Folder field highlighted")
 
 3.	At the top of the screen, select **Save** or **Save & Close**.
 
@@ -59,10 +60,10 @@ To change the owner of a folder:
 
 2.	Go to the desired folder, and then at the top of the screen, select the **Assign** button to display the folder information.
 
-    SCREEN SHOT GOES HERE
+    ![Assign command highlighted at top of screen](media/folders-assign.PNG "Assign command highlighted at top of screen")
 
 3.	In the **Assign Folder** dialog box, select the box to the right of the **Assign to** label to toggle between **Me** and **User or team**. If **Me** is selected, the folder is assigned to you. If **User or team** is selected, you can enter the owner in the **User or team** field or search for an owner.
 
-    SCREEN SHOT GOES HERE
+    ![Assign Folder dialog box](media/folders-assign-to.PNG "Assign Folder dialog box")
 
 4.	Select **Assign** to save the new owner. 
