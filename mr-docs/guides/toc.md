@@ -46,7 +46,7 @@
 
 #### Create steps and add 3D models, media
 ##### [Step Editor overview](pc-app-step-editor-overview.md)
-##### [Add a 3D model]
+##### [Add a 3D model](pc-app-add-3D-model.md)
 ##### [Add a 3D part]
 ##### [Add media (images or videos)]
 ##### [Add a space-planning model]
