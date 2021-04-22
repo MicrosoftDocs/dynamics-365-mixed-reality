@@ -45,8 +45,8 @@
 #### [Structure your guide in the Outline page](structure-guide.md)
 
 #### Create steps and add 3D models, media
-##### [Step Editor overview]
-##### [Add a 3D model from the 3D toolkit]
+##### [Step Editor overview](pc-app-step-editor-overview.md)
+##### [Add a 3D model]
 ##### [Add a 3D part]
 ##### [Add media (images or videos)]
 ##### [Add a space-planning model]
