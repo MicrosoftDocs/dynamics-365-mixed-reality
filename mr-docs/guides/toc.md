@@ -50,7 +50,7 @@
 ##### [Add a 3D part]
 ##### [Add media (images or videos)]
 ##### [Add a space-planning model]
-##### [File formats supported for 3D modesl, images, and videos]
+##### [Supported file formats for 3D models, images, and videos]
 ##### [Preview an image, video, or 3D model]
 #### [To separate into multiple topics above](create-steps-assign-media.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
