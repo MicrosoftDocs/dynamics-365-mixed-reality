@@ -2,7 +2,7 @@
 
 # Supported file formats for 3D models, images, and videos in Dynamics 365 Guides
 
-In Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can use the PC app to add 3D models, images, and videos to help operators with steps. The PC app  supports the following file formats.
+In Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)], you can use the PC app to add 3D models, images, and videos to help operators with steps. The PC app  supports the following file formats for these types of files.
 
 | Media | Supported formats | Best practice |
 |-------|-------------------|---------------|
