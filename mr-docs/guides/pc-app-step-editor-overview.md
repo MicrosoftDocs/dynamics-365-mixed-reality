@@ -59,6 +59,7 @@ You can add 3D content, media, or website links to help operators complete a ste
 | Image | A 2D image file | A diagram that helps operators complete a complex step |
 | Video | A video file | A short video that helps operators complete a complex step |
 | Website link | A link to an external website | A link to a parts inventory system |
+| Power Apps link | A link to an app created in Power Apps | A link to a parts inventory system |
 
 ## See also
 
