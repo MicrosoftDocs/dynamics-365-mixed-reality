@@ -31,7 +31,7 @@ As an admin, you can organize guides into folders for easier management of permi
 
 4.	At the top of the screen, select **New** to create a new folder.
 
-    ![New command highlighted at top of Power Apps screen](media/folders-create-new.PNG "New command highlighted at top of Power Apps screen") 
+    ![New command highlighted at top of Power Apps screen](media/folders-new.PNG "New command highlighted at top of Power Apps screen") 
 
 5.	Enter the name and owner of the folder. You can select an existing folder in the **Parent Folder** field, or leave the **Parent Folder** field blank to create a folder at the root level.
 
