@@ -19,6 +19,7 @@
 #### [Assign user roles](assign-role.md)
 #### [Restrict access to a specific instance](admin-security.md)
 #### [Limit access to specific guides or guide content](admin-access-teams.md)
+#### [Set permissions for folders](folder-permissions.md)
 #### [Activate, deactivate, or delete a guide or guide content](admin-deactivate-guide.md)
 ### Integrations with other Dynamics 365 apps
 #### [Dynamics 365 Field Service](field-service.md)
