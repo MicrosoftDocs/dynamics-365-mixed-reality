@@ -59,7 +59,7 @@ You can add 3D content, media, or website links to help operators complete a ste
 | Image | A 2D image file | A diagram that helps operators complete a complex step |
 | Video | A video file | A short video that helps operators complete a complex step |
 | Website link | A link to an external website | A link to a parts inventory system |
-| Power Apps link | A link to an app created in Power Apps | A link to a parts inventory system |
+| Power Apps link | A link to an app created in Power Apps | A link to an interactive quiz app or a parts re-ordering app|
 
 ## See also
 
@@ -67,4 +67,5 @@ You can add 3D content, media, or website links to help operators complete a ste
 [Add a 3D part from the 3D toolkit]()<br>
 [Add an image or video file]()<br>
 [Add a space-planning model]()<br>
+[Add a website or Power Apps link]()<br>
 [Preview an image, video, or 3D model]()
