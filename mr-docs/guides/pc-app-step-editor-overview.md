@@ -8,7 +8,7 @@ Steps are the central building block for creating a guide in [!include[cc-micros
 
 You open the **Step Editor** page from the **Outline** page.
 
-1. Select any step on the **Outline** page, or select **Step** in the left navigation.
+1. Select any step in the **Outline** page, or select **Step** in the left navigation.
 
     ![Step on the Outline page and Step command in the left navigation](media/left-nav-step.PNG "Step on the Outline page and Step command in the left navigation")
 
