@@ -67,3 +67,7 @@ To change the owner of a folder:
     ![Assign Folder dialog box](media/folders-assign-to.PNG "Assign Folder dialog box")
 
 4.	Select **Assign** to save the new owner. 
+
+## See also
+
+[Export and import folders](export-importd-folders.md)
