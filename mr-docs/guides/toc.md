@@ -51,8 +51,6 @@
 ##### [Add media (images or videos)](pc-app-add-media.md)
 ##### [Add a space-planning model]()
 ##### [Supported file formats for 3D models, images, and videos](pc-app-supported-file-formats.md)
-##### [Preview an image, video, or 3D model]
-#### [To separate into multiple topics above](create-steps-assign-media.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
 #### [Create a branching (non-linear) guide](pc-app-branching.md)
 #### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
