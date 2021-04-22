@@ -70,4 +70,4 @@ To change the owner of a folder:
 
 ## See also
 
-[Export and import folders](admin-export-importd-folders.md)
+[Export and import folders](admin-export-import-folders.md)
