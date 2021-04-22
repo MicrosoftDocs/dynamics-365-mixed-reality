@@ -2,7 +2,7 @@
 
 ## Supported file formats for 3D models, images, and videos in Dynamics 365 Guides
 
-[!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports the following file formats.
+Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] supports the following file formats for 3D models, images, and videos in the PC app.
 
 | Media | Supported formats | Best practice |
 |-------|-------------------|---------------|
