@@ -58,7 +58,7 @@ To change the owner of a folder:
 
 1.	In the left pane, select **Folders** to view the list of folders in the instance.
 
-2.	Go to the desired folder, and then at the top of the screen, select the **Assign** button to display the folder information.
+2.	Go to the desired folder, and then at the top of the screen, select **Assign** to display the folder information.
 
     ![Assign command highlighted at top of screen](media/folders-assign.PNG "Assign command highlighted at top of screen")
 
