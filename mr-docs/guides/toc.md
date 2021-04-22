@@ -43,7 +43,16 @@
 ##### [Effect of calibration, pre-scanning, and environment on hologram precision](pc-app-anchor-improve-hologram-precision.md)
 ##### [Effect of anchor types/placement on hologram precision](pc-app-anchor-types-placement-precision.md)
 #### [Structure your guide in the Outline page](structure-guide.md)
-#### [Create steps and add 3D models, media](create-steps-assign-media.md)
+
+#### Create steps and add 3D models, media
+##### [Step Editor overview]
+##### [Add a 3D model from the 3D toolkit]
+##### [Add a 3D part]
+##### [Add media (images or videos)]
+##### [Add a space-planning model]
+##### [File formats supported for 3D modesl, images, and videos]
+##### [Preview an image, video, or 3D model]
+#### [To separate into multiple topics above](create-steps-assign-media.md)
 #### [Create a trigger for step navigation](pc-app-trigger.md)
 #### [Create a branching (non-linear) guide](pc-app-branching.md)
 #### [Add a website or Power Apps link to a step](pc-app-website-powerapps-link.md)
