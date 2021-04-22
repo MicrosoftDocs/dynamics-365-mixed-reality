@@ -34,7 +34,7 @@ You open the **Step Editor** page from the **Outline** page.
 
 - When you've finished writing a step, be sure to move the cursor outside the text box to activate AutoSave.
 
-- Try to use limit yourself to one type of content per step. Too much media or 3D content can overwhelm the operator and can be too time-consuming to absorb. Think about the type of content that best gets the point across.
+- Try to limit yourself to one type of content per step. Too much media or 3D content can overwhelm the operator and can be too time-consuming to absorb. Think about the type of content that best gets the point across.
 
 ## Go to other pages from the Step Editor page
 
