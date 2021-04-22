@@ -18,13 +18,17 @@ As an admin, you can organize guides into folders for easier management of permi
 
 ## Create a folder
 
-1.	Sign in to the instance by using your admin credentials.
-<<same tip as on https://docs.microsoft.com/en-us/dynamics365/mixed-reality/guides/admin-deactivate-guide>>
+1. Sign in to the instance by using your admin credentials.
 
-2.	In Power Apps, select the **Guides** app tile.
+    > [!TIP]
+    > To find the URL for the instance, select the **Analyze** tab in the PC app. The URL is shown in the **Instance URL** field at the bottom of the page. Copy this URL, and paste it into the Address bar of your web browser.
+    >
+    > ![Instance URL field](media/instance-url.PNG "Instance URL field")
 
-    ![Guides app tile](media/xxx.PNG "Guides app tile")
+2. In Power Apps, select the **Guides** app tile.
 
+    ![Guides app tile](media/guides-app-tile.PNG "Guides app tile")
+    
 3.	In the left pane, select **Folders** to view all folders created in the instance.
 
     ![Folders command highlighted in left pane](media/folders-command.PNG "Folders command highlighted in left pane")
