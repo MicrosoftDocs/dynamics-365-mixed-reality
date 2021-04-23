@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Overview of the Step Editor in the Dynamics 365 Guides PC app
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 Steps are the central building block for creating a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. After you create the [structure for your guide in the **Outline** page](structure-guide.md), you use the Step Editor to add instructional text and 3D models or media to support those steps. The instructions that you create in the what-you-see-is-what-you-get (WYSIWYG) Step Editor match what the operator will see on the Step card on [!include[pn-hololens](../includes/pn-hololens.md)]. The following illustration shows the Step Editor in the PC app and the Step card that the user sees on [!include[pn-hololens](../includes/pn-hololens.md)].
 
 ![Step Editor and Step card](media/step-editor-step-card.PNG "Step Editor and Step card")
