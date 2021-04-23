@@ -24,12 +24,12 @@ You can add 3D content, media, or website links to help operators complete a ste
 
 | Content type | Description | Example |
 |---|---|---|
-| 3D models from the 3D toolkit | Ready-to-use 3D models, such as numbers, arrows, and hands | A holographic arrow that helps operators find a focus area |
-| 3D part | 3D models that are specific to your company | A 3D part hologram that helps operators find a 3D part in the real world |
-| Image | A 2D image file | A diagram that helps operators complete a complex step |
-| Video | A video file | A short video that helps operators complete a complex step |
-| Website link | A link to an external website | A link to a parts inventory system |
-| Power Apps link | A link to an app created in Power Apps | A link to an interactive quiz app or a parts re-ordering app|
+| [3D models from the 3D toolkit](pc-app-add-3D-model.md) | Ready-to-use 3D models, such as numbers, arrows, and hands | A holographic arrow that helps operators find a focus area |
+| [3D part](pc-app-add-3D-part.md) | 3D models that are specific to your company | A 3D part hologram that helps operators find a 3D part in the real world |
+| [Image](pc-app-add-media.md) | A 2D image file | A diagram that helps operators complete a complex step |
+| [Video](pc-app-add-media.md) | A video file | A short video that helps operators complete a complex step |
+| [Website link](pc-app-website-powerapps-link.md) | A link to an external website | A link to a parts inventory system |
+| [Power Apps link](pc-app-website-powerapps-link.md) | A link to an app created in Power Apps | A link to an interactive quiz app or a parts re-ordering app|
 
 ## Go to other pages from the Step Editor page
 
