@@ -1,6 +1,6 @@
 
 
-# Add a 3D model from the 3D toolkit in the Dynamics 365 Guides PC app
+# Add a 3D model to a step in the Dynamics 365 Guides PC app
 
 Microsoft [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] includes a library of predefined 3D objects that are optimized to work perfectly with [!include[pn-hololens](../includes/pn-hololens.md)]. The 3D toolkit includes markers, arrows, hands, numbers, symbols, zones, and generic tools. The following illustration shows an example where holographic numbers, arrows, and zones are used to help operators complete a step.
 
