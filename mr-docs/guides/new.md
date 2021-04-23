@@ -21,7 +21,7 @@ ms.reviewer: v-brycho
 This page provides details about the latest releases of [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] organized by release date. To see a comprehensive list of released and upcoming features, see <a href="https://docs.microsoft.com/dynamics365/release-plans/" target="_blank">Dynamics 365 and Power Platform release plans</a>.
 
 > [!NOTE]
-> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank">https://aka.ms/GuidesIdeas</a>.
+> If you have feature requests or suggested improvements, you can send them to the [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)] team at <a href="https://aka.ms/GuidesIdeas" target="_blank" data-linktype="absolute-path">https://aka.ms/GuidesIdeas</a>.
 > 
 ## May 4, 2021
 
