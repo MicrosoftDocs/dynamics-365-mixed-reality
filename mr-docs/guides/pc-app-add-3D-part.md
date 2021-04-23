@@ -1,6 +1,6 @@
 
 
-# Add a 3D part in the Dynamics 365 Guides PC app
+# Add a 3D part to a step in the Dynamics 365 Guides PC app
 
 You can add 3D parts (models specific to your company) in Microsoft Dynamics 365 Guides. A 3D part hologram helps operators find a 3D part in the real world. You can import custom 3D parts as described in this article. 
 
