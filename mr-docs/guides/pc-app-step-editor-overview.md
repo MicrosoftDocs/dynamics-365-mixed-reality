@@ -68,5 +68,5 @@ Use the buttons in the navigation pane on the left side of the **Step Editor** p
 [Add an image or video file](pc-app-add-media.md)<br>
 [Add a space-planning model](pc-app-space-planning.md)<br>
 [Add a website or Power Apps link](pc-app-website-powerapps-link.md)<br>
-[What makes a great mixed-reality guide](great-guide.md)
+[How to make a great mixed-reality guide](great-guide.md)
 
