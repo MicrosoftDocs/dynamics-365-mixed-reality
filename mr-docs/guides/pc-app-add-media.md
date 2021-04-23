@@ -17,9 +17,9 @@ You can add an image or video in the Dynamics 365 Guides PC app to help an opera
 
 ## What's next?
 
+[Step Editor overview](pc-app-step-editor-overview.md)<br>
 [Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)<br>
 [Add a 3D part](pc-app-add-3D-part.md)<br>
-[Add an image or video file](pc-app-step-editor-overview.md)<br>
 [Add a space-planning model](pc-app-space-planning.md)<br>
 [Add a website or Power Apps link](pc-app-website-powerapps-link.md)<br>
 [How to make a great mixed-reality guide](great-guide.md)
