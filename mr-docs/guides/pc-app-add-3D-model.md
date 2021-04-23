@@ -57,3 +57,5 @@ For more information about ways to use objects from the 3D toolkit, see [Create 
 [Add a space-planning model](pc-app-space-planning.md)<br>
 [Add a website or Power Apps link](pc-app-website-powerapps-link.md)<br>
 [How to make a great mixed-reality guide](great-guide.md)
+
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
