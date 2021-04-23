@@ -1,3 +1,13 @@
+---
+author: Mamaylya
+description: Learn about using the Step Editor in the Dynamics 365 Guides PC app to add 3D models, 3D parts, images, videos, website links, and Power Apps links.
+ms.date: 05/04/2021
+ms.service: crm-online
+ms.topic: article
+title: Overview of the Step Editor in the Dynamics 365 Guides PC app
+ms.reviewer: v-bholmes
+---
+
 # Overview of the Step Editor in the Dynamics 365 Guides PC app
 
 Steps are the central building block for creating a guide in [!include[cc-microsoft](../includes/cc-microsoft.md)] [!include[pn-dyn-365-guides](../includes/pn-dyn-365-guides.md)]. After you create the [structure for your guide in the **Outline** page](structure-guide.md), you use the Step Editor to add instructional text and 3D models or media to support those steps. The instructions that you create in the what-you-see-is-what-you-get (WYSIWYG) Step Editor match what the operator will see on the Step card on [!include[pn-hololens](../includes/pn-hololens.md)]. The following illustration shows the Step Editor in the PC app and the Step card that the user sees on [!include[pn-hololens](../includes/pn-hololens.md)].
