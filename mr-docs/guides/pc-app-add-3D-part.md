@@ -45,3 +45,12 @@ You can import your own custom 3D models and add them to the **3D parts** librar
 > - [Best practices for 3D models](3d-content-guidelines/best-practices.md)
 >
 > - [Tutorials overview](3d-content-guidelines/tutorials-overview.md)
+
+## What's next?
+
+[Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)<br>
+[Step Editor overview](pc-app-step-editor-overview.md)<br>
+[Add an image or video file](pc-app-add-media.md)<br>
+[Add a space-planning model](pc-app-space-planning.md)<br>
+[Add a website or Power Apps link](pc-app-website-powerapps-link.md)<br>
+[How to make a great mixed-reality guide](great-guide.md)
