@@ -128,5 +128,5 @@ The download details will look something like this:
 > [!NOTE]
 > If you delete duplicate folders, make sure to refresh your screen after a successful deletion.   
 
-      
+[!INCLUDE[footer-include](../includes/footer-banner.md)]     
 
