@@ -82,3 +82,4 @@ Use the buttons in the navigation pane on the left side of the **Step Editor** p
 [Add a website or Power Apps link](pc-app-website-powerapps-link.md)<br>
 [How to make a great mixed-reality guide](great-guide.md)
 
+[!INCLUDE[footer-include](../includes/footer-banner.md)]
