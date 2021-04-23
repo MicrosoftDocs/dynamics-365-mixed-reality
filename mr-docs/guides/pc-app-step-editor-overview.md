@@ -61,11 +61,12 @@ Use the buttons in the navigation pane on the left side of the **Step Editor** p
 
 - Try to limit yourself to one type of content per step. Too much media or 3D content can overwhelm the operator and can be too time-consuming to absorb. Think about the type of content that best gets the point across.
 
-## See also
+## What's next?
 
-[Add a 3D model from the 3D toolkit]()<br>
-[Add a 3D part from the 3D toolkit]()<br>
-[Add an image or video file]()<br>
-[Add a space-planning model]()<br>
-[Add a website or Power Apps link]()<br>
-[Preview an image, video, or 3D model]()
+[Add a 3D model from the 3D toolkit](pc-app-add-3D-model.md)<br>
+[Add a 3D part from the 3D toolkit](pc-app-add-3D-part.md)<br>
+[Add an image or video file](pc-app-add-media.md)<br>
+[Add a space-planning model](pc-app-space-planning.md)<br>
+[Add a website or Power Apps link](pc-app-add-website-powerapps=link.md)<br>
+[What makes a great mixed-reality guide](good-guide.md)
+
