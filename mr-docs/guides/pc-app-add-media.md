@@ -10,6 +10,8 @@ ms.reviewer: v-bholmes
 
 # Add an image or video to a step in the Dynamics 365 Guides PC app
 
+[!include [rename-banner](~/includes/cc-data-platform-banner.md)]
+
 You can add an image or video in the Dynamics 365 Guides PC app to help an operator with a complex step. You could add a diagram, for example, or a short video to explain a difficult process. 
 
 1. In the PC app, on the right side of the page, select the **Images** or **Videos** tab.
