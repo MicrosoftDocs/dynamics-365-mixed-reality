@@ -137,7 +137,7 @@ Collecting response data in real time by using Power Automate requires four step
 
     ![Power Automate screen with Automated cloud flow selected](media/workflow3-created-automated-flow.PNG "Power Automate screen with Automated cloud flow selected")
  
-3. Give your flow a name, select the **When a record is created** trigger, and then select **Create**.
+3. Give your flow a name, select the **When a row is added, modified, or deleted** trigger, and then select **Create**.
 
     ![Power Automate screen with When a record is created trigger selected](media/workflow3-when-record-created-selection.PNG "Power Automate screen with When a record is created trigger selected")
  
