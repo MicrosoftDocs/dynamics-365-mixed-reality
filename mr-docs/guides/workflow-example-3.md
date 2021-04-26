@@ -204,6 +204,7 @@ Collecting response data in real time by using Power Automate requires four step
 
 ## See also
 
-[Workflow integration example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)<br>
-[Workflow example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
+- [Workflow integration example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)
+
+- [Workflow integration example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
 
