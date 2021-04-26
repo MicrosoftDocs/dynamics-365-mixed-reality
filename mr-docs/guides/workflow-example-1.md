@@ -119,7 +119,7 @@ After creating the Excel spreadsheet, you’re ready to populate the data in the
 
 4. Select **New step**, and then under **Choose an operation**, select **Microsoft Dataverse** to filter the list of actions.
 
-    ![Microsoft Dataverse item selected under Choose an operation](media/workflow1-common-data-service.PNG "Microsoft Dataverse item selected under Choose an operation")
+    ![Microsoft Dataverse item selected under Choose an operation](media/workflow1-microsoft-dataverse.PNG "Microsoft Dataverse item selected under Choose an operation")
   
 5. Select the **Get a row by ID** action. 
 
