@@ -130,7 +130,7 @@ Collecting response data in real time by using Power Automate requires four step
 
 2. After creating the columns, select them, and then select **Insert > Table**. You'll populate this table with the Power Automate flow.
 
-   ![Screen shot of Excel toolbar with Table item selected](media/workflow1-excel-insert-table.PNG "Screen shot of Excel toolbar with Table item selected")
+   ![Screenshot of Excel toolbar with Table item selected](media/workflow1-excel-insert-table.PNG "Screenshot of Excel toolbar with Table item selected")
 
 ### Create the flow
 
@@ -182,7 +182,7 @@ Collecting response data in real time by using Power Automate requires four step
     |**200 to 250 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
     |**250 to 300 degrees**|0	|Column in the Excel spreadsheet. Enter a **1** if the column aligns with the Step Id in the condition or a **0** if it doesn’t.|
 
-    The following screen shot shows the fields filled in for the Temperature gauge guide. 
+    The following screenshot shows the fields filled in for the Temperature gauge guide. 
 
     ![Add a row into a table action filled out with example data](media/workflow3-add-row-to-table-filled-in.PNG "Add a row into a table action filled out with example data")
  
@@ -202,5 +202,8 @@ Collecting response data in real time by using Power Automate requires four step
 
 3. In the **Run flow** pane, select **Run flow**. 
 
+## See also
 
+[Workflow integration example 1: Automatically generate PC and HoloLens apps deep links to use in an Excel Link Manager](workflow-example-1.md)<br>
+[Workflow example 2: Create a 3D object collection and add objects to the collection](workflow-example-2.md)
 
