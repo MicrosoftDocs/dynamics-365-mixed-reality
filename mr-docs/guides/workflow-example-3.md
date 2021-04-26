@@ -144,7 +144,13 @@ Collecting response data in real time by using Power Automate requires four step
     > [!TIP]
     > You can filter the list of triggers to just the Microsoft Dataverse triggers by entering the word **data** in the **Choose your flow’s trigger** box.
 
-4. In the **When a record is created** trigger, select your environment, select **Guide Step Session Visits** for the **Entity Name** field, and then select a scope. 
+4. In the **When a record is created** trigger:
+
+    1. In the **Update type** field, select **Create**.
+
+    2. In the **Entity Name** field, select **Guide Step Session Visits**.
+
+    3. Select a scope. 
  
     ![When a record is created trigger with Entity Name field highlighted](media/workflow3-when-record-created-trigger.PNG "When a record is created trigger with Entity Name field highlighted")
     
